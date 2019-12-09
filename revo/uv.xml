@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: uv.xml,v 1.6 2019/12/09 14:10:21 revo Exp $">
 <kap>
   <rad>uv</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -12,12 +12,13 @@
   <snc mrk="uv.0o.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
-      <ref tip="dif" cel="ber.vin0o.BOT">Vinbero</ref>:
+      <ref tip="dif" cel="ber.vin0o.BOT">Vinberoj</ref>:
       <ekz>
         sangokoloraj morusoj kaj <tld/>ograpoloj haveblas
         <fnt>
           <aut>W. Auld</aut>,
-          <vrk><url ref="http://www.sunela.eu/maku/Esperanto/La%20infana%20raso">
+          <vrk><url
+          ref="http://www.sunela.eu/maku/Esperanto/La%20infana%20raso">
           La Infana Raso</url></vrk>,
           <lok>1956</lok>
         </fnt>;
@@ -26,7 +27,8 @@
         la &ccirc;aselaso estas man&gcirc;ebla <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=533265">Vitspeco</url></lok>
+          <lok><url
+          ref="https://eo.wikipedia.org/?curid=533265">Vitspeco</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -38,7 +40,13 @@
 </art>
 
 <!--
-$Log$
+$Log: uv.xml,v $
+versio 1.6 2019/12/09 14:10:21
+Alain Gerard: +j
+
+Revision 1.5  2019/09/22 17:10:16  revo
+Wolfram Diestel: +ekz, sintakso
+
 Revision 1.4  2017/04/05 12:10:14  revo
 Ludoviko Francisco: +trd fr
 
@@ -50,6 +58,5 @@ Damien Brucker: +dif
 
 Revision 1.1  2013/11/08 19:10:25  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: klepsidr.xml,v 1.13 2019/12/25 15:10:16 revo Exp $">
 <kap>
    <rad>klepsidr</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +11,7 @@
    <kap><tld/>o</kap>
    <uzo tip="fak">KAL</uzo>
    <uzo tip="stl">RAR</uzo>
-   <snc mrk="klepsidr.0o.akvohorlo&gcirc;o">
+   <snc mrk="klepsidr.0o.akvohorlogxo">
      <dif>
        <ref tip="dif" cel="horlog.akvo0o">Akvohorlo&gcirc;o</ref>:
        <ekz>
@@ -83,7 +83,13 @@
 </art>
 
 <!--
-$Log$
+$Log: klepsidr.xml,v $
+versio 1.13 2019/12/25 15:10:16
+Wolfram Diestel: kor. mrk
+
+Revision 1.12  2019/10/13 07:10:19  revo
+Wolfram Diestel: +ekz-oj, + snc sablohorlogxo
+
 Revision 1.11  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -100,8 +106,5 @@ Revision 1.7  2006/02/28 17:31:54  revo
 Vito Redsky: +trd pl +trd ro
 
 Revision 1.6  2004/12/18 19:20:14  revo
-Marc Bavant: +trd fr
-
-Revision 1.5  2004/11/22 17:32:00  revo
 -->
 </vortaro>

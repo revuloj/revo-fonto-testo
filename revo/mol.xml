@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: mol.xml,v 1.40 2019/12/26 00:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mol</rad>/a <fnt><bib>PV</bib></fnt>
@@ -85,6 +85,26 @@
     <trd>m&auml;kk&yacute;</trd>,
     <trd>poddajn&yacute;</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="mol.0acxa">
+  <kap>
+    <tld/>a&ccirc;a
+  </kap>
+  <snc mrk="mol.0acxa.KOMUNE">
+    <dif>
+      Kontra&ubreve;nature, malagrable <tld/>a:
+      <ekz>
+        karno <tld/>a&ccirc;a sen elasteco
+        <fnt>
+          <aut>Okada H., trad. Konisi G.</aut>
+          <vrk>Notoj pri la Delto</vrk>
+          <lok>1992</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">mollasson</trd>
 </drv>
 
 <drv mrk="mol.0ajxo">
@@ -284,7 +304,13 @@
 </drv>
 </art>
 <!--
-$Log$
+$Log: mol.xml,v $
+versio 1.40 2019/12/26 00:10:16
+Jeromo Vasxe: + ~acxa
+
+Revision 1.39  2017/12/19 10:10:20  revo
+Michel Cantigneaux: fundamenta "molajxo" el la U.V.
+
 Revision 1.38  2017/02/14 16:10:29  revo
 Jeromo Vasxe: Senindulda ->  Senindulga
 
@@ -301,8 +327,5 @@ Revision 1.34  2012/06/01 04:10:11  revo
 Sergio Pokrovskij: trd=ru
 
 Revision 1.33  2012/01/24 17:10:10  revo
-Carlos Garcia: korktd es -a
-
-Revision 1.32  2011/08/19 05:10:24  revo
 -->
 </vortaro>

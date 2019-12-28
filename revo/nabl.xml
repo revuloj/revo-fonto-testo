@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: nabl.xml,v 1.2 2019/12/28 18:10:14 revo Exp $">
 <kap>
     <rad>nabl</rad>/o
 </kap>
@@ -31,8 +31,9 @@ ref="http://www.eventoj.hu/steb/astronomio/perturboj_de_la_suncentraj_vektoraj_e
   </snc>
   <snc mrk="nabl.0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
+    <uzo tip="fak">HIS</uzo>
     <dif>
-      Fenicidevcena antikva muzikilo simila al
+      Fenicidevena antikva muzikilo simila al
       <ref tip="super" cel="harp.0o">harpo</ref>
       kun 10 a&ubreve; 12 kordoj, la fenica harpo.
     </dif>
@@ -60,12 +61,11 @@ ref="http://www.eventoj.hu/steb/astronomio/perturboj_de_la_suncentraj_vektoraj_e
 </art>
 
 <!--
-$Log$
--->
-
-<!--
 $Log: nabl.xml,v $
-versio 1.1 2019/12/28 16:10:15
+versio 1.2 2019/12/28 18:10:14
+Sergio Pokrovskij: -tajperaro
+
+Revision 1.1  2019/12/28 15:10:14  revo
 Sergio Pokrovskij: nova artikolo
 -->
 </vortaro>

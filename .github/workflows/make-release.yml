@@ -13,14 +13,14 @@ on:
 # https://help.github.com/en/actions/reference/development-tools-for-github-actions
 
 jobs:
-  build:
+  tag-release:
 
     runs-on: ubuntu-latest
 
     steps:
     - name: "Hodiaŭ..."
       run: |
-        ::set-env name=TODAY::$(date +'%Y-%m-%d')
+        echo ::set-env name=TODAY::$(date +'%Y-%m-%d')
         echo $TODAY
 #    - name: Elŝutu la dosierojn 
 #      uses: actions/checkout@v1

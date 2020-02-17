@@ -37,7 +37,7 @@ jobs:
           const ref = await github.git.getRef({...context.repo, ref: 'heads/master'})
           const sha = ref.data.object.sha
           console.log('head is: '+sha)
-          await github.git.updateRef({...context.repo, sha: sha, ref: 'tags/'+...context.env.TODAY, force: true})
+          await github.git.updateRef({...context.repo, sha: sha, ref: 'tags/v'+...context.env.TODAY, force: true})
   
        
 #    - uses: actions/github-script@0.3.0

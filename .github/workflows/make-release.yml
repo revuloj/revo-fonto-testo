@@ -4,9 +4,10 @@ on:
   schedule:
     # ĉiulunde matene
     # * is a special character in YAML so you have to quote this string
-    - cron:  '15 8 * * 1'
-    branches:
-      - master
+    #- cron:  '15 8 * * 1'
+    - cron:  '20 19 * * 1'
+    #branches:
+    #  - master
 
 # https://github.com/actions/create-release
 # https://help.github.com/en/actions/reference/development-tools-for-github-actions

@@ -5,55 +5,43 @@ on:
   # ĉiulunde matene
   # * is a special character in YAML so you have to quote this string
   #- cron:  '15 8 * * 1'
-  - cron:  '59 19 * * 1'
+  - cron:  '34 19 * * 2'
   #branches:
   #  - master
 
 # https://github.com/actions/create-release
 # https://help.github.com/en/actions/reference/development-tools-for-github-actions
+# https://github.com/actions/github-script
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - name: "Hodiaŭ..."
       run: |
         echo "::set-env name=TODAY::$(date +'%Y-%m-%d')"
+    - name: "Eĥo..."
+      run: |
         echo $TODAY
-#    - name: Elŝutu la dosierojn 
-#      uses: actions/checkout@v1
-# se ni movas tag formikita la skripto revenas tien, sed verŝajne la problemo ne okazas tie ĉi sed jam ĉe la kadra Github actions - reago...
-#      with:
-#        ref: 'master'
-
     - uses: actions/github-script@0.3.0
-      name: Donu etikedon al la nuna kap-pozicio
+      name: Metu etikedon al la nuna kap-pozicio
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
         script: |
-          const ref = await github.git.getRef({...context.repo, ref: 'heads/master'})
+          const ref = await github.git.getRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,            
+              ref: 'heads/master'})
           const sha = ref.data.object.sha
-          console.log('head is: '+sha)
-          await github.git.updateRef({...context.repo, sha: sha, ref: 'tags/v'+...context.env.TODAY, force: true})
-  
+          console.log('HEAD is: '+sha)
+          const result = await github.git.createRef({  
+             owner: context.repo.owner,
+             repo: context.repo.repo,            
+             sha: sha,
+             ref: 'refs/tags/v${{env.TODAY}}'})
+          console.log("RESULT...")
+          console.log(result)
+
+
        
-#    - uses: actions/github-script@0.3.0
-#      with:
-#        github-token: ${{secrets.GITHUB_TOKEN}}
-#        script: |
-#          github.git.listMatchingRefs({ref: 'formikita'})
-              
-#    - name: Movu etikedon al aktuala pozicio
-#      run: |
-#        git tag formikita -f
-#        git push --tags
-
-
-# https://github.com/eine/actions/blob/3f0701c2f20780984590bd955839a38b75c96668/.github/workflows/push.yml#L33-L48
-# https://github.com/actions/github-script
-# https://github.com/actions/github
-# https://developer.github.com/v3/git/tags/
-# https://developer.github.com/v3/git/refs/#create-a-reference

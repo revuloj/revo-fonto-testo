@@ -29,16 +29,16 @@ jobs:
 #    - name: Run image
 #      run: docker run -v $GITHUB_WORKSPACE:/workspace docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest ls -l /workspace
     - name: Eltiru indekson el XML
-      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml \
-        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest \
+      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
+        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko inx-eltiro
     - name: Konverti XML al HTML-artikoloj
-      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml \
-        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest \
+      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
+        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko art-tuto
     - name: Krei SQLite-datumbazojn - unu kun indeksoj, dua indeksoj kaj artikoloj
-      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz \
-        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest \
+      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz 
+        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko sql-zip
     - name: Montru la rezultantajn ZIP-dosierujojn
       run: ls -l $GITHUB_WORKSPACE/tgz:/home/formiko/tgz

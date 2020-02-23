@@ -17,7 +17,6 @@ jobs:
     steps:
     - name: Elŝutu la dosierojn 
       uses: actions/checkout@v1
-
     - name: Saluto al docker.pkg.github.com
         # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
         # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
@@ -32,6 +31,10 @@ jobs:
       run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko inx-eltiro
+    - name: Kreu medion (eble ni ne bezonus malgraŭ la averto...?)
+      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
+        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
+        formiko med-medio
     - name: Konverti XML al HTML-artikoloj
       run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 

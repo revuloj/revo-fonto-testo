@@ -31,10 +31,12 @@ jobs:
       run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko inx-eltiro
-    - name: Kreu medion (eble ni ne bezonus malgraŭ la averto...?)
-      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
-        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
-        formiko med-medio
+#    - name: Kreu medion (eble ni ne bezonus malgraŭ la averto...?)
+#      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
+#        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
+#        formiko med-medio
+    - name: Provizore forigu adiaux.xml - iel ĝi kaŭzas problemon (verŝajne stranga signo en fnt)
+      run: rm $GITHUB_WORKSPACE/revo/adiaux.xml
     - name: Konverti XML al HTML-artikoloj
       run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 

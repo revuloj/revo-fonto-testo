@@ -36,7 +36,7 @@ jobs:
         -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
-        formiko srv-sqlite-db-komplete
+        formiko srv-sqlite-db-tuto
     - name: Montru la rezultantajn ZIP-dosierujojn
       run: ls -l $GITHUB_WORKSPACE/tgz
 

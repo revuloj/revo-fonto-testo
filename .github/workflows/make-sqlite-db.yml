@@ -35,10 +35,16 @@ jobs:
 #      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
 #        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
 #        formiko med-medio
-    - name: Provizore forigu adiaux.xml - iel ĝi kaŭzas problemon (verŝajne stranga signo en fnt)
-      run: rm $GITHUB_WORKSPACE/revo/adiaux.xml
+    - name: Provu eltrovi problemon kun transformo / normalizeData.xml ...
+      run: |
+        echo "ulimit"
+        ulimit
+        echo "file-max"
+        cat /proc/sys/fs/file-max
+        echo "file-nr"
+        cat /proc/sys/fs/file-nr
     - name: Konverti XML al HTML-artikoloj
-      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
+      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml -e ANT_OPTS=-Xmx1000m
         -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko art-tuto
     - name: Krei SQLite-datumbazojn - unu kun indeksoj, dua indeksoj kaj artikoloj

@@ -25,8 +25,6 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: Prenu procesumon voko-formiko
       run: docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
-#    - name: Run image
-#      run: docker run -v $GITHUB_WORKSPACE:/workspace docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest ls -l /workspace
     - name: Eltiru indekson el XML
       run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 

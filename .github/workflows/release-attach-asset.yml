@@ -17,7 +17,7 @@ jobs:
         id: zip_bildoj
         run: |
           zip bildoj1 bld/*
-          zip bildoj2 blg_grandaj/*
+          zip bildoj2 bld_grandaj/*
           echo "::set-output BILDOJ1=$(ls bildoj1*)"
           echo "::set-output BILDOJ2=$(ls bildoj2*)"
       - name: Create Release

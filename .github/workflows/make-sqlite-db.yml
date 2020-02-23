@@ -18,13 +18,6 @@ jobs:
     - name: Elŝutu la dosierojn 
       uses: actions/checkout@v1
 
-    - name: Transformi la XML dosierojn al retpaĝoj
-      run: |
-        echo "jenaj dosieroj ŝanĝiĝis kaj estos transformataj:"
-        while read a; do
-          echo "$a"
-        done < ŝanĝitaj_dosieroj
-
     - name: Saluto al docker.pkg.github.com
         # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
         # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    

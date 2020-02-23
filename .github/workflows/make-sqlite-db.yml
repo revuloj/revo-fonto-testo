@@ -41,3 +41,4 @@ jobs:
       run: ls -l $GITHUB_WORKSPACE/tgz
 
 # FARENDA: ŝovu la rezultantajn ZIP-dosierujojn ien: ekz. alpendigu al la ekzistanta versio v2020-mm-dd
+# vd. https://github.com/actions/upload-release-asset

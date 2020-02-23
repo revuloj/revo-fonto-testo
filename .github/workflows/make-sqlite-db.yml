@@ -33,19 +33,20 @@ jobs:
 #      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
 #        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
 #        formiko med-medio
-    - name: Provu eltrovi problemon kun transformo / normalizeData.xml ...
+    - name: Kreu tgz-dosierujon ...
       run: |
-        echo "ulimit"
-        ulimit
-        echo "file-max"
-        cat /proc/sys/fs/file-max
-        echo "file-nr"
-        cat /proc/sys/fs/file-nr
+        mkdir $GITHUB_WORKSPACE/tgz
+        chmod 777 $GITHUB_WORKSPACE/tgz
+        ls -l $GITHUB_WORKSPACE/tgz
     - name: Konverti XML al HTML-artikoloj
       run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml -e ANT_OPTS=-Xmx1000m
         -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko art-tuto
     - name: Krei SQLite-datumbazojn - unu kun indeksoj, dua indeksoj kaj artikoloj
+      run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz 
+        -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
+        formiko sql-tuto
+    - name: Paku SQLite-datumbazojn kiel ZIP-arĥivo
       run: docker run -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz 
         -v $GITHUB_WORKSPACE:/ws docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko sql-zip

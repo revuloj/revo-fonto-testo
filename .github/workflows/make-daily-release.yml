@@ -1,13 +1,14 @@
 name: make-release
 
 on:
-  schedule:
-  # ĉiulunde matene
+  #schedule:
+  # ĉiutage matene
   # * is a special character in YAML so you have to quote this string
-  #- cron:  '15 8 * * 1'
-  - cron:  '34 19 * * 2'
-  #branches:
-  #  - master
+  #- cron:  '15 8 * * *'
+  #- cron:  '34 19 * * 2'
+  push:
+    branches:
+    - master
 
 # https://github.com/actions/create-release
 # https://help.github.com/en/actions/reference/development-tools-for-github-actions
@@ -19,12 +20,13 @@ jobs:
     steps:
     - name: "Hodiaŭ..."
       run: |
-        echo "::set-env name=TODAY::$(date +'%Y-%m-%d')"
+        Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
+        echo "::set-env name=TODAY::TAGO=${Tagoj[ $(date +'%w') ]}"
     - name: "Eĥo..."
       run: |
-        echo $TODAY
+        echo $TAGO
     - uses: actions/github-script@0.3.0
-      name: Metu etikedon al la nuna kap-pozicio
+      name: Movu etikedon al la nuna kap-pozicio
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
@@ -39,7 +41,8 @@ jobs:
              owner: context.repo.owner,
              repo: context.repo.repo,            
              sha: sha,
-             ref: 'refs/tags/v${{env.TODAY}}'})
+             ref: 'refs/tags/v${{ env.TAGO }}',
+             force: true })
           console.log("RESULT...")
           console.log(result)
 

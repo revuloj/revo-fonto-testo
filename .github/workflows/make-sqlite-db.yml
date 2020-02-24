@@ -1,12 +1,12 @@
 name: make-sqlite-db
 
 on:
-  push:
-    # Publish `v1.2.3` tags as SQLite-DB
-    tags:
-      - v*      
-    #branches:
-    #  - master
+##  push:
+##    # Publish `v1.2.3` tags as SQLite-DB
+##    tags:
+##      - v*      
+##    #branches:
+##    #  - master
 
 
 jobs:

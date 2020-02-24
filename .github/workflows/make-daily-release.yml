@@ -25,7 +25,8 @@ jobs:
     - name: "Eĥo..."
       run: |
         echo $TAGO
-    - uses: actions/github-script@0.3.0
+
+    - uses: actions/github-script@0.4.0
       name: Movu etikedon al la nuna kap-pozicio
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
@@ -46,5 +47,70 @@ jobs:
           console.log("RESULT...")
           console.log(result)
 
+    - uses: actions/github-script@0.4.0
+      name: Forigu malnovan eldonon de tiu tago
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        debug: true
+        script: |
+          const release = await github.repos.getReleaseByTag({
+              owner: context.repo.owner,
+              repo: context.repo.repo,            
+              tag: 'v${{ env.TAGO }}' })
+          const release_id = release.data.id
+          console.log('Release id is: '+release_id)
+          const result = await github.git.deleteRelease({  
+             owner: context.repo.owner,
+             repo: context.repo.repo,            
+             release_id: release_id })
+          console.log("RESULT...")
+          console.log(result)
 
-       
+            #'
+    - name: Rekreu eldonon kun sama etikedo (semajntago)
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v${{ env.TAGO }}
+        release_name: Eldono de ${{ env.TAGO }}
+        draft: false
+        prerelease: false
+
+    - name: Build project # This would actually build your project, using zip for an example artifact
+      id: zip_bildoj
+      run: |
+        zip bildoj1 bld/*
+        zip bildoj2 bld_grandaj/*
+        echo "::set-output name=BILDOJ1::$(ls bildoj1*)"
+        echo "::set-output name=BILDOJ2::$(ls bildoj2*)"       
+
+    - name: Upload Release Asset 1
+      id: upload-release-asset-1 
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} 
+        # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, 
+        # which include a `upload_url`. See this blog post for more info: 
+        # https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+        asset_path: ${{ steps.zip_bildoj.outputs.BILDOJ1 }}
+        asset_name: ${{ steps.zip_bildoj.outputs.BILDOJ1 }}
+        asset_content_type: application/zip
+
+    - name: Upload Release Asset 2
+      id: upload-release-asset-2 
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} 
+        # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, 
+        # which include a `upload_url`. See this blog post for more info: 
+        # https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+        asset_path: ${{ steps.zip_bildoj.outputs.BILDOJ2 }}
+        asset_name: ${{ steps.zip_bildoj.outputs.BILDOJ2 }}
+        asset_content_type: application/zip        
+

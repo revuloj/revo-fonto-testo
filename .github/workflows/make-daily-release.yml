@@ -38,7 +38,7 @@ jobs:
               ref: 'heads/master'})
           const sha = ref.data.object.sha
           console.log('HEAD is: '+sha)
-          const result = await github.git.createRef({  
+          const result = await github.git.updateRef({  
              owner: context.repo.owner,
              repo: context.repo.repo,            
              sha: sha,

@@ -53,18 +53,23 @@ jobs:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
         script: |
-          const release = await github.repos.getReleaseByTag({
+          try {
+            const release = await github.repos.getReleaseByTag({
+                owner: context.repo.owner,
+                repo: context.repo.repo,            
+                tag: 'v${{ env.TAGO }}' })
+            const release_id = release.data.id
+            console.log('Release id is: '+release_id)
+            const result = await github.git.deleteRelease({  
               owner: context.repo.owner,
               repo: context.repo.repo,            
-              tag: 'v${{ env.TAGO }}' })
-          const release_id = release.data.id
-          console.log('Release id is: '+release_id)
-          const result = await github.git.deleteRelease({  
-             owner: context.repo.owner,
-             repo: context.repo.repo,            
-             release_id: release_id })
-          console.log("RESULT...")
-          console.log(result)
+              release_id: release_id })
+            console.log("RESULT...")
+            console.log(result)
+          } catch(error)  {
+            console.log("ERROR:")
+            console.log(error)
+          }
 
 ####
 #'

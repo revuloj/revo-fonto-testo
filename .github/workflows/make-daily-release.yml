@@ -60,7 +60,7 @@ jobs:
                 tag: 'v${{ env.TAGO }}' })
             const release_id = release.data.id
             console.log('Release id is: '+release_id)
-            const result = await github.git.deleteRelease({  
+            const result = await github.repos.deleteRelease({  
               owner: context.repo.owner,
               repo: context.repo.repo,            
               release_id: release_id })

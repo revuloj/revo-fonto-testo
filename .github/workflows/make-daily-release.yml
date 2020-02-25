@@ -117,7 +117,7 @@ jobs:
             })
             const upload_url = release.data.upload_url            
             console.log('UploadURL is: '+upload_url)
-            ::set-output name=upload_url::upload_url
+            console.log('::set-output name=upload_url::upload_url')
 
 ##'
 ## const core = require('@actions/core')

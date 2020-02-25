@@ -1,6 +1,7 @@
 name: make-sqlite-db
 
 on:
+## tio funkcias nur por mane kreitaj eldonoj!
 ##  release:
 ##    # Only use the types keyword to narrow down the activity types that will trigger your workflow.
 ##    types: [created, prereleased]
@@ -18,6 +19,7 @@ on:
       - vDimanĉo      
     #branches:
     #  - master
+
 
 
 jobs:

@@ -102,6 +102,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+    - name: Eltrovu la URL de la hodiaŭa eldono
+      uses: actions/github-script@0.4.0
+      id: retrieve_release
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+            const core = require('@actions/core')
+            const release = await github.repos.getReleaseByTag({
+                owner: context.repo.owner,
+                repo: context.repo.repo,            
+                tag: '${{ github.ref }}
+            })
+            const upload_url = release.data.upload_url            
+            console.log('UploadURL is: '+upload_url)
+            core.setOutput('upload_url', upload_url)
+
     - name: Elŝutu la dosierojn 
       uses: actions/checkout@v1
     - name: Saluto al docker.pkg.github.com
@@ -133,21 +151,7 @@ jobs:
         echo "::set-output name=revosql::$(ls tgz/revosql_20*)"
         echo "::set-output name=revosql_inx::$(ls tgz/revosql-inx_20*)"
 
-    - name: Eltrovu la URL de la hodiaŭa eldono
-      uses: actions/github-script@0.4.0
-      id: retrieve_release
-      with:
-        github-token: ${{secrets.GITHUB_TOKEN}}
-        debug: true
-        script: |
-            const core = require('@actions/core')
-            const release = await github.repos.getReleaseByTag({
-                owner: context.repo.owner,
-                repo: context.repo.repo,            
-                tag: '${{ github.ref }}
-            const upload_url = release.data.upload_url            
-            console.log('UploadURL is: '+upload_url)
-            core.setOutput('upload_url', upload_url)
+
 
 ##'
 ##    - name: Kreu eldonon

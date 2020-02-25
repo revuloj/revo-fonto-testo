@@ -159,19 +159,6 @@ jobs:
         echo "::set-output name=revosql::$(ls tgz/revosql_20*)"
         echo "::set-output name=revosql_inx::$(ls tgz/revosql-inx_20*)"
 
-
-
-##'
-##    - name: Kreu eldonon
-##      id: create_release
-##      uses: actions/create-release@v1
-##      env:
-##        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-##      with:
-##        tag_name: ${{ github.ref }}
-##        release_name: eldono ${{ github.ref }}
-##        draft: false
-##        prerelease: false
     - name: Alpendigu sqlrevo-inx
       id: upload-inx 
       uses: actions/upload-release-asset@v1
@@ -180,7 +167,7 @@ jobs:
       with:
         upload_url: ${{ steps.retrieve_release.outputs.upload_url }} 
         asset_path: ${{ steps.retrovu_zip.outputs.revosql_inx }}
-        asset_name: Revo-indekso kiel SQLite
+        asset_name: ${{ steps.retrovu_zip.outputs.revosql_inx }}
         asset_content_type: application/zip
     - name: Alpendigu sqlrevo
       id: upload-inx-art 
@@ -190,7 +177,9 @@ jobs:
       with:
         upload_url: ${{ steps.retrieve_release.outputs.upload_url }} 
         asset_path: ${{ steps.retrovu_zip.outputs.revosql }}
-        asset_name: Revo-indekso kaj HTML-artikoloj kiel SQLite
+        asset_name: ${{ steps.retrovu_zip.outputs.revosql }}
         asset_content_type: application/zip
 
 
+# about download: https://help.github.com/en/github/administering-a-repository/linking-to-releases
+# /owner/name/releases/latest/download/asset-name.zip

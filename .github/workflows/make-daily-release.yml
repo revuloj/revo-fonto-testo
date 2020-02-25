@@ -52,7 +52,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,            
               sha: sha,
-              ref: 'refs/tags/v${{ env.TAGO }}',
+              ref: 'refs/tags/v${{ env.TAGO }}' })
           }
           console.log("RESULT...")
           console.log(result)

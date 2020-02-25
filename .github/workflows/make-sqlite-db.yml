@@ -1,23 +1,23 @@
 name: make-sqlite-db
 
 on:
-  release:
-    # Only use the types keyword to narrow down the activity types that will trigger your workflow.
-    types: [created, prereleased]
-##  push:
-##    # Provizu eldonojn `vLundo` ktp. per SQLite-DB
-##    # (alternative oni povus akcepti ĉiun eldonon kaj alpendigi al tiu)
-##
-##    tags:
-##      - vLundo      
-##      - vMardo      
-##      - vMerkredo      
-##      - vĴaŭdo      
-##      - vVendredo      
-##      - vSabato      
-##      - vDimanĉo      
-##    #branches:
-##    #  - master
+##  release:
+##    # Only use the types keyword to narrow down the activity types that will trigger your workflow.
+##    types: [created, prereleased]
+  push:
+    # Provizu eldonojn `vLundo` ktp. per SQLite-DB
+    # (alternative oni povus akcepti ĉiun eldonon kaj alpendigi al tiu)
+
+    tags:
+      - vLundo      
+      - vMardo      
+      - vMerkredo      
+      - vĴaŭdo      
+      - vVendredo      
+      - vSabato      
+      - vDimanĉo      
+    #branches:
+    #  - master
 
 
 jobs:

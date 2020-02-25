@@ -32,6 +32,7 @@ jobs:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
         script: |
+          const result;
           const ref = await github.git.getRef({
               owner: context.repo.owner,
               repo: context.repo.repo,            
@@ -39,7 +40,7 @@ jobs:
           const sha = ref.data.object.sha;
           console.log('HEAD is: '+sha);
           try {
-            const result = await github.git.updateRef({  
+            result = await github.git.updateRef({  
               owner: context.repo.owner,
               repo: context.repo.repo,            
               sha: sha,
@@ -48,7 +49,7 @@ jobs:
           } catch(error) {
             console.log("ERROR:");
             console.log(error);
-            const result = await github.git.createRef({  
+            result = await github.git.createRef({  
               owner: context.repo.owner,
               repo: context.repo.repo,            
               sha: sha,

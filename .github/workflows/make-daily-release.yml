@@ -110,15 +110,18 @@ jobs:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
         script: |
-            const core = require('@actions/core')
             const release = await github.repos.getReleaseByTag({
                 owner: context.repo.owner,
                 repo: context.repo.repo,            
-                tag: '${{ github.ref }}
+                tag: '${{ github.ref }}'
             })
             const upload_url = release.data.upload_url            
             console.log('UploadURL is: '+upload_url)
-            core.setOutput('upload_url', upload_url)
+            ::set-output name=upload_url::upload_url
+
+##'
+## const core = require('@actions/core')
+## core.setOutput('upload_url', upload_url)
 
     - name: Elŝutu la dosierojn 
       uses: actions/checkout@v1

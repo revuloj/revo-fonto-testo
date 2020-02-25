@@ -38,12 +38,22 @@ jobs:
               ref: 'heads/master'})
           const sha = ref.data.object.sha
           console.log('HEAD is: '+sha)
-          const result = await github.git.updateRef({  
-             owner: context.repo.owner,
-             repo: context.repo.repo,            
-             sha: sha,
-             ref: 'tags/v${{ env.TAGO }}',
-             force: true })
+          try {
+            const result = await github.git.updateRef({  
+              owner: context.repo.owner,
+              repo: context.repo.repo,            
+              sha: sha,
+              ref: 'tags/v${{ env.TAGO }}',
+              force: true })
+          } catch(error) {
+            console.log("ERROR:")
+            console.log(error)
+            const result = await github.git.createRef({  
+              owner: context.repo.owner,
+              repo: context.repo.repo,            
+              sha: sha,
+              ref: 'refs/tags/v${{ env.TAGO }}',
+          }
           console.log("RESULT...")
           console.log(result)
 

@@ -32,7 +32,7 @@ jobs:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
         script: |
-          const result = {};
+          var result = {};
           const ref = await github.git.getRef({
               owner: context.repo.owner,
               repo: context.repo.repo,            

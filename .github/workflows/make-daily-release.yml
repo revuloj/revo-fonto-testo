@@ -103,6 +103,11 @@ jobs:
 
     steps:
 
+    - name: "Hodiaŭ..."
+      run: |
+        Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
+        echo "::set-env name=TAGO::${Tagoj[ $(date +'%w') ]}"
+
     - name: Eltrovu la URL de la hodiaŭa eldono
       uses: actions/github-script@0.4.0
       id: retrieve_release
@@ -113,7 +118,7 @@ jobs:
             const release = await github.repos.getReleaseByTag({
                 owner: context.repo.owner,
                 repo: context.repo.repo,            
-                tag: '${{ github.ref }}'
+                tag: 'v${{ env.TAGO }}'
             })
             const upload_url = release.data.upload_url            
             console.log('UploadURL is: '+upload_url)

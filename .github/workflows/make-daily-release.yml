@@ -6,9 +6,9 @@ on:
   # * is a special character in YAML so you have to quote this string
   #- cron:  '15 8 * * *'
   #- cron:  '34 19 * * 2'
-  push:
-    branches:
-    - master
+##  push:
+##    branches:
+##    - master
 
 # https://github.com/actions/create-release
 # https://help.github.com/en/actions/reference/development-tools-for-github-actions

@@ -54,6 +54,7 @@ jobs:
         formiko med-medio
     - name: Kreu la tutan vortaron
       run: docker run 
+        -v $GITHUB_WORKSPACE:/home/formiko/revo-fonto 
         -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE/tmp:/home/formiko/tmp
         -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz

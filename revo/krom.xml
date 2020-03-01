@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: krom.xml,v 1.36 2019/12/17 00:10:45 revo Exp $">
+  <art mrk="$Id: krom.xml,v 1.37 2020/01/14 18:10:23 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>krom</rad> <fnt><bib>PV</bib></fnt>
@@ -137,12 +137,12 @@
       </trdgrp>
     </subsnc>
     <rim num="1">
-      &Z; atentigas, ke &#171;la vorto <ctl><tld/></ctl> povas iufoje
+      &Z; atentigas, ke «la vorto <ctl><tld/></ctl> povas iufoje
       ka&ubreve;zi neprecizecon a&ubreve; malkompreni&gcirc;on; sed en tiaj okazoj
       ni devas eviti la vorton <ctl><tld/></ctl> kaj uzi
       anstata&ubreve; &gcirc;i la pli precizajn esprimojn
       <ekz>&leftquot;esceptinte&rightquot;</ekz> a&ubreve; <ekz>&leftquot;ne sole, sed
-      anka&ubreve;&rightquot;</ekz>&#187;
+      anka&ubreve;&rightquot;</ekz>»
       <fnt><bib>LR</bib></fnt>.
     </rim>
     <rim num="2">
@@ -176,7 +176,7 @@
         <fnt><bib>MT</bib>, <lok>&Re1; 17:1</lok></fnt>;
       </ekz><ekz>
         sur la tuta tero ne ekzistas Dio <em><tld/> &ccirc;e</em>
-        Izrael
+        <nom>Izrael</nom>
         <fnt><bib>MT</bib>, <lok>&Re1; 5:15</lok></fnt>;
       </ekz><ekz>
         li sciis pri nenio, <em><tld/> nur pri</em> la pano,
@@ -242,10 +242,13 @@
 </drv>
 
 <drv mrk="krom.0ke">
-  <kap><tld/> ke, <var><kap><tld/> tio ke</kap></var></kap>
+  <kap><tld/> ke,
+  <var><kap><tld/> se</kap></var>,
+  <var><kap><tld/> tio ke</kap></var></kap>
+  <gra><vspec>konjunkcio</vspec></gra>
   <snc mrk="krom.0ke.ARG">
     <dif>
-      Tamen aldone:
+      Esceptante, ne konsiderante tion ke..., tamen aldone...:
       <ekz>
         mi nenion pli postulus, <tld/> ke oni montru al mi
         sindonecon kaj estimon
@@ -253,11 +256,23 @@
           <bib>Revizoro</bib>
           <lok>Akto dua</lok>
         </fnt>;
-      </ekz><ekz>
-        la kabano <klr>...</klr> estis malplena, <tld/> ke 
-        trovi&gcirc;is malnova ligna benko
-        <fnt><bib>DOz</bib>, <lok>&leftquot;la tertremo&rightquot;
-          </lok></fnt>.
+      </ekz>
+      <ekz>
+        li mortis pro koro&ccirc;eso; tio signifas nenion, <tld/> tio, ke li vivis kaj nun ne
+        vivas plu
+        <fnt>
+          <aut>J. Valano</aut>
+          <vrk>&Ccirc;u vi kuiras &ccirc;ine?</vrk>
+          <lok>1976</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <klr>[&#8230;]</klr> malofte malfermis sian bu&scirc;on <tld/> se oni rekte alparolis &scirc;in
+        <fnt>
+          <aut>A. L&ouml;wenstein</aut>
+          <vrk>La &scirc;tona urbo</vrk>
+          <lok>1999</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -431,7 +446,7 @@
       al memstara tuto:
       <ekz>
         <uzo tip="fak">KOMP</uzo>
-        &ccirc;apelisto: <tld/>a&jcirc;o por Firefox kiu anstata&ubreve;as
+        &ccirc;apelisto: <tld/>a&jcirc;o por <nom>Firefox</nom> kiu anstata&ubreve;as
         iksojn per ta&ubreve;gaj &ccirc;apeloj.
       </ekz>
     </dif>
@@ -635,8 +650,11 @@
   </art>
   <!--
   $Log: krom.xml,v $
-versio 1.36 2019/12/17 00:10:45
-Vito Redsky: +trd pl +trd ro
+versio 1.37 2020/01/14 18:10:23
+Jeromo Vasxe: ~ ke + 1 formo, + vspec
+
+  Revision 1.36  2019/12/16 23:10:44  revo
+  Vito Redsky: +trd pl +trd ro
 
   Revision 1.35  2019/06/30 18:21:03  revo
   adaptis URL de Monato
@@ -654,8 +672,5 @@ Vito Redsky: +trd pl +trd ro
   Adam Eng: +trd ms
 
   Revision 1.30  2015/07/04 08:37:38  revo
-  aldono de trd cs per skripto de M. von Laer
-
-  Revision 1.29  2015/06/29 16:33:18  revo
 -->
 </vortaro>

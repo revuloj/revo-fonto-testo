@@ -1,37 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
-<vortaro                                                            >
-<art mrk="$Id: test.xml,v 1.74 2019/12/06 17:57:33 afido Exp $">
+<vortaro>
+<art mrk="$Id$">
 <kap>
-  <ofc>9</ofc><rad>test</rad>/i
+  <ofc>9</ofc><rad>test</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
-<drv mrk="test.0i">
-  <kap><tld/>i</kap>
-  <gra><vspec>tr</vspec></gra>
-  <snc mrk="test.0i.TEK">
-    <dif>
-      Metode provi iun pri liaj kvalitoj, a&ubreve; fabrika&jcirc;on pri
-      &gcirc;iaj ecoj:
-      <ekz>
-        en Danlando oni <tld/>as nun ekipadon de lokomotivestroj per
-        porteblaj komputiloj
-        <fnt>
-        <aut>W. Usakiewicz</aut>,
-        <vrk>
-        <url ref="http://www.radio.com.pl/polonia/article.asp?tId=7750">
-        Trarigardo de la E-gazetaro</url></vrk>,
-        <lok>2004-02-17</lok>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="de">testen</trd>
-  <trd lng="en">test</trd>
-  <trd lng="fr">tester</trd>
-  <trd lng="pl">testowa&cacute;</trd>
-</drv>
-
 <drv mrk="test.0o">
   <kap><ofc>9</ofc><tld/>o</kap>
   <snc mrk="test.0o.TEK">
@@ -59,10 +33,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ca">test</trd>
   <trd lng="de">Test</trd>
   <trd lng="en">test</trd>
   <trd lng="be">&c_t;&c_e;&c_s;&c_t;</trd>
-  <trd lng="es">test</trd>
   <trd lng="fr">test</trd>
   <trdgrp lng="hu">
     <trd>felm&eacute;r&eacute;s</trd>,
@@ -75,6 +49,56 @@
     <trd>prova</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_s;&c_t;</trd>
+  <trdgrp lng="es">
+    <trd>prueba</trd>,
+    <trd>examen</trd>,
+    <trd>evaluaci&oacute;n</trd>,
+    <trd>test (anglicismo)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="test.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="test.0i.TEK">
+    <dif>
+      Metode provi iun pri liaj kvalitoj, a&ubreve; fabrika&jcirc;on pri
+      &gcirc;iaj ecoj:
+      <ekz>
+        en Danlando oni <tld/>as nun ekipadon de lokomotivestroj per
+        porteblaj komputiloj
+        <fnt>
+        <aut>W. Usakiewicz</aut>,
+        <vrk>
+        <url ref="http://www.radio.com.pl/polonia/article.asp?tId=7750">
+        Trarigardo de la E-gazetaro</url></vrk>,
+        <lok>2004-02-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">testar</trd>
+  <trdgrp lng="cs">
+    <trd>prov&ecaron;&rcaron;ovat</trd>,
+    <trd>testovat</trd>,
+    <trd>vyzkou&scaron;et na</trd>,
+    <trd>zkou&scaron;et</trd>
+  </trdgrp>
+  <trd lng="de">testen</trd>
+  <trd lng="en">test</trd>
+  <trdgrp lng="es">
+    <trd>probar</trd>,
+    <trd>examinar</trd>,
+    <trd>evaluar</trd>,
+    <trd>testear</trd>
+  </trdgrp>
+  <trd lng="fr">tester</trd>
+  <trd lng="pl">testowa&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>preverova&tcaron;</trd>,
+    <trd>sk&uacute;&scaron;a&tcaron;</trd>,
+    <trd>testova&tcaron;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="test.0isto">
@@ -97,35 +121,40 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="ca">
+    <trd>assajador</trd>,
+    <trd>examinador</trd>
+  </trdgrp>
   <trd lng="de">Tester</trd>
   <trd lng="en">tester</trd>
   <trd lng="fr">testeur</trd>
   <trd lng="pl">tester</trd>
+  <trdgrp lng="es">
+    <trd>examinador</trd>,
+    <trd>evaluador</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log: test.xml,v $
-versio 1.74 2019/12/06 17:57:33
-Wolfram Diestel: testo per aldono de spaco post <vortaro
+$Log$
+Revision 1.19  2017/04/19 20:10:30  revo
+Guillermo Molleda Jimena: trd es
 
-Revision 1.73  2019/12/06 17:25:42  afido
-Wolfram Diestel: testo per aldono de spaco post <vortaro 
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
 
-Revision 1.72  2019/12/06 16:52:19  afido
-Wolfram Diestel: testo per aldono de spaco post <vortaro  
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
 
-Revision 1.71  2019/12/06 16:36:42  afido
-Wolfram Diestel: testo per aldono de spaco post <vortaro   
+Revision 1.16  2012/08/13 20:10:46  revo
+Marc Rausell: + trd ca
 
-Revision 1.70  2019/12/06 16:22:33  afido
-Wolfram Diestel: testo per aldono de spaco post <vortaro    
+Revision 1.15  2011/12/16 17:10:12  revo
+Eduardo Navas: +trad es
 
-Revision 1.69  2019/12/06 16:12:46  afido
-Wolfram Diestel: testo per aldono de spaco post <vortaro     
+Revision 1.14  2009/03/01 17:34:05  revo
+Russ Williams: +trd en 9OA
 
-Revision 1.68  2019/12/06 16:05:18  afido
-Wolfram Diestel: testo per aldono de spaco post <vortaro      
-
-Revision 1.67  2019/12/06 15:53:06  afido
+Revision 1.13  2008/12/19 17:30:26  revo
 -->
 </vortaro>

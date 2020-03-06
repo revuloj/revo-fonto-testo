@@ -45,12 +45,10 @@ jobs:
     # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
-        mkdir $GITHUB_WORKSPACE/.t
+        mkdir -p $GITHUB_WORKSPACE/.t/tmp
+        mkdir -p $GITHUB_WORKSPACE/.t/revo/xml
         mkdir $GITHUB_WORKSPACE/.t/tgz
-        mkdir $GITHUB_WORKSPACE/.t/tmp
-        mkdir $GITHUB_WORKSPACE/.t/revo
-        mkdir $GITHUB_WORKSPACE/.t/revo/xml
-        cp -r $GITHUB_WORKSPACE/revo/ .t/revo/xml/
+        cp $GITHUB_WORKSPACE/revo/*.xml .t/revo/xml/
         chmod -R 777 $GITHUB_WORKSPACE/.t
         ls -l $GITHUB_WORKSPACE/.t/*
         ls -l $GITHUB_WORKSPACE/.t/revo/xml/ab*

@@ -41,27 +41,28 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: Prenu procesumon voko-formiko
       run: docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
+
+    # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
-        mkdir $GITHUB_WORKSPACE/tgz
-        mkdir $GITHUB_WORKSPACE/tmp
-        mkdir $GITHUB_WORKSPACE/revo
-        chmod 777 $GITHUB_WORKSPACE/t??
-        chmod 777 $GITHUB_WORKSPACE/revo
-        ls -l $GITHUB_WORKSPACE
+        mkdir $GITHUB_WORKSPACE/.t/tgz
+        mkdir $GITHUB_WORKSPACE/.t/tmp
+        mkdir $GITHUB_WORKSPACE/.t/revo
+        chmod -R 777 $GITHUB_WORKSPACE/.t
+        ls -l $GITHUB_WORKSPACE/*
     - name: Preparu la vortaron
       run: docker run 
-        -v $GITHUB_WORKSPACE/revo:/home/formiko/revo 
-        -v $GITHUB_WORKSPACE/tmp:/home/formiko/tmp
+        -v $GITHUB_WORKSPACE/.t/revo:/home/formiko/revo 
+        -v $GITHUB_WORKSPACE/.t/tmp:/home/formiko/tmp
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko med-medio
     - name: Kreu la tutan vortaron
       run: docker run 
         -v $GITHUB_WORKSPACE/revo-fonto:/home/formiko/revo-fonto 
-        -v $GITHUB_WORKSPACE/revo:/home/formiko/revo 
+        -v $GITHUB_WORKSPACE/.t/revo:/home/formiko/revo 
         -v $GITHUB_WORKSPACE/revo-fonto/revo:/home/formiko/revo/xml 
-        -v $GITHUB_WORKSPACE/tmp:/home/formiko/tmp
-        -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz
+        -v $GITHUB_WORKSPACE/.t/tmp:/home/formiko/tmp
+        -v $GITHUB_WORKSPACE/.t/tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko vrt-tuto
 
@@ -69,6 +70,6 @@ jobs:
     - name: Rigardu la rezulton
       run: |
         #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
-        ls -l $GITHUB_WORKSPACE/tmp/*
+        ls -l $GITHUB_WORKSPACE/.t/*
 
 

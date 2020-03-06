@@ -49,6 +49,8 @@ jobs:
         mkdir $GITHUB_WORKSPACE/.t/tgz
         mkdir $GITHUB_WORKSPACE/.t/tmp
         mkdir $GITHUB_WORKSPACE/.t/revo
+        mkdir $GITHUB_WORKSPACE/.t/revo/xml
+        cp -r $GITHUB_WORKSPACE/revo/ .t/revo/xml/
         chmod -R 777 $GITHUB_WORKSPACE/.t
         ls -l $GITHUB_WORKSPACE/*
     - name: Preparu la vortaron
@@ -61,7 +63,6 @@ jobs:
       run: docker run 
         -v $GITHUB_WORKSPACE/revo-fonto:/home/formiko/revo-fonto 
         -v $GITHUB_WORKSPACE/.t/revo:/home/formiko/revo 
-        -v $GITHUB_WORKSPACE/revo-fonto/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE/.t/tmp:/home/formiko/tmp
         -v $GITHUB_WORKSPACE/.t/tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 

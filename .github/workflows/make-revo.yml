@@ -45,6 +45,7 @@ jobs:
     # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
+        mkdir $GITHUB_WORKSPACE/.t
         mkdir $GITHUB_WORKSPACE/.t/tgz
         mkdir $GITHUB_WORKSPACE/.t/tmp
         mkdir $GITHUB_WORKSPACE/.t/revo

@@ -52,7 +52,8 @@ jobs:
         mkdir $GITHUB_WORKSPACE/.t/revo/xml
         cp -r $GITHUB_WORKSPACE/revo/ .t/revo/xml/
         chmod -R 777 $GITHUB_WORKSPACE/.t
-        ls -l $GITHUB_WORKSPACE/*
+        ls -l $GITHUB_WORKSPACE/.t/*
+        ls -l $GITHUB_WORKSPACE/.t/revo/xml/ab*
     - name: Preparu la vortaron
       run: docker run 
         -v $GITHUB_WORKSPACE/.t/revo:/home/formiko/revo 

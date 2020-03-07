@@ -52,20 +52,14 @@ jobs:
         chmod -R 777 $GITHUB_WORKSPACE/.t
         ls -l $GITHUB_WORKSPACE/.t/*
         ls -l $GITHUB_WORKSPACE/.t/revo/xml/ab*
-    - name: Preparu la vortaron
-      run: docker run 
-        -v $GITHUB_WORKSPACE/.t/revo:/home/formiko/revo 
-        -v $GITHUB_WORKSPACE/.t/tmp:/home/formiko/tmp
-        docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
-        formiko med-medio
     - name: Kreu la tutan vortaron
       run: docker run 
-        -v $GITHUB_WORKSPACE/revo-fonto:/home/formiko/revo-fonto 
+        -v $GITHUB_WORKSPACE:/home/formiko/revo-fonto 
         -v $GITHUB_WORKSPACE/.t/revo:/home/formiko/revo 
         -v $GITHUB_WORKSPACE/.t/tmp:/home/formiko/tmp
         -v $GITHUB_WORKSPACE/.t/tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
-        formiko vrt-tuto
+        formiko srv-servo-github
 
 # vd. https://github.com/actions/upload-release-asset
     - name: Rigardu la rezulton

@@ -29,10 +29,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Elŝutu la dosierojn 
-      uses: actions/checkout@v1
-      with:
-          path: revo-fonto
+#    - name: Elŝutu la dosierojn 
+#      uses: actions/checkout@v1
+#      with:
+#          path: revo-fonto
     - name: Saluto al docker.pkg.github.com
         # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
         # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
@@ -45,19 +45,11 @@ jobs:
     # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
-        mkdir -p $GITHUB_WORKSPACE/.t/tmp
-        mkdir -p $GITHUB_WORKSPACE/.t/revo/xml
-        mkdir $GITHUB_WORKSPACE/.t/tgz
-        cp $GITHUB_WORKSPACE/revo/*.xml .t/revo/xml/
-        chmod -R 777 $GITHUB_WORKSPACE/.t
-        ls -l $GITHUB_WORKSPACE/.t/*
-        ls -l $GITHUB_WORKSPACE/.t/revo/xml/ab*
+        mkdir $GITHUB_WORKSPACE/.tgz
     - name: Kreu la tutan vortaron
       run: docker run 
-        -v $GITHUB_WORKSPACE:/home/formiko/revo-fonto 
-        -v $GITHUB_WORKSPACE/.t/revo:/home/formiko/revo 
-        -v $GITHUB_WORKSPACE/.t/tmp:/home/formiko/tmp
-        -v $GITHUB_WORKSPACE/.t/tgz:/home/formiko/tgz
+        -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
+        -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko srv-servo-github
 
@@ -65,6 +57,6 @@ jobs:
     - name: Rigardu la rezulton
       run: |
         #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
-        ls -l $GITHUB_WORKSPACE/.t/*
+        ls -l $GITHUB_WORKSPACE/.tgz/*
 
 

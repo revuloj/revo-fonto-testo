@@ -58,7 +58,7 @@ jobs:
     # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
-        mkdir $GITHUB_WORKSPACE/.tgz
+        mkdir .tgz
 
     - name: Kreu la tutan vortaron
       run: docker run 
@@ -70,8 +70,8 @@ jobs:
     - name: Rigardu kaj ŝovu la rezulton
       run: |
         #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
-        ls -l $GITHUB_WORKSPACE/.tgz/*
-        mv $GITHUB_WORKSPACE/.tgz/revohtml_* $GITHUB_WORKSPACE/.tgz/revohtml.1.zip
+        ls -l .tgz/*
+        mv .tgz/revohtml_* .tgz/revohtml.1.zip
 
     - uses: actions/github-script@0.4.0
       name: Eltrovu la nunan pozicion (kapo)
@@ -96,6 +96,11 @@ jobs:
     - name: Rigardu la rezulton
       run: |
         #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
-        ls -l $GITHUB_WORKSPACE/.tgz/*
+        ls -l .tgz/*
 
+    - name: Konservu rezultintajn 2 arĥivojn
+      uses: actions/upload-artifact@v1
+      with:
+        name: zips
+        path: .tgz
 

@@ -33,12 +33,26 @@ jobs:
 #      uses: actions/checkout@v1
 #      with:
 #          path: revo-fonto
+
+    - uses: actions/github-script@0.4.0
+      name: Eltrovu la pozicion de marko 'nokta-formiko'
+      id: trovu_noktan_formikon
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+          const ref = await github.git.getRef({...context.repo, ref: 'tags/nokta-formiko'})
+          const sha = ref.data.object.sha
+          console.log('nokta-formiko estas ĉe: '+sha)
+          console.log('::set-output name=sha_nf::'+sha)
+
     - name: Saluto al docker.pkg.github.com
         # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
         # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
       run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
       env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
     - name: Prenu procesumon voko-formiko
       run: docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
 
@@ -46,12 +60,25 @@ jobs:
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
         mkdir $GITHUB_WORKSPACE/.tgz
+
     - name: Kreu la tutan vortaron
       run: docker run 
         -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko srv-servo-github
+
+    - uses: actions/github-script@0.4.0
+      name: Eltrovu la nuna pozicion (kapo)
+      id: trovu_kapon
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+          const ref = await github.git.getRef({...context.repo, ref: 'heads/master'})
+          const sha = ref.data.object.sha
+          console.log('heads/master estas ĉe: '+sha)
+          console.log('::set-output name=sha_hm::'+sha)
 
 # vd. https://github.com/actions/upload-release-asset
     - name: Rigardu la rezulton

@@ -61,7 +61,7 @@ jobs:
         mkdir .tgz
 
     - name: Kreu la tutan vortaron
-      run: docker run 
+      run: docker run -u1001
         -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
@@ -86,7 +86,7 @@ jobs:
           console.log('::set-output name=sha_hm::'+sha)
 
     - name: Rekreu la tutan vortaron
-      run: docker run 
+      run: docker run -u1001
         -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 

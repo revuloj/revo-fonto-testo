@@ -46,15 +46,14 @@ jobs:
           console.log('nokta-formiko estas ĉe: '+sha)
           console.log('::set-output name=sha_nf::'+sha)
 
-    - name: Saluto al docker.pkg.github.com
-        # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
-        # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
-      run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
+    # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
+    # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
+    - name: Saluto al docker.pkg.github.com kaj preni voko-formiko
       env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
-    - name: Prenu procesumon voko-formiko
-      run: docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
+      run: |
+        docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
+        docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
 
     # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
     - name: Kreu dosierujojn por konservi la rezultojn ...
@@ -66,10 +65,16 @@ jobs:
         -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
-        formiko srv-servo-github
+        formiko -Dsha=${{ steps.trovu_noktan_formikon.outputs.sha_nf }} srv-servo-github
+
+    - name: Rigardu kaj ŝovu la rezulton
+      run: |
+        #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
+        ls -l $GITHUB_WORKSPACE/.tgz/*
+        mv $GITHUB_WORKSPACE/.tgz/revohtml_* $GITHUB_WORKSPACE/.tgz/revohtml.1.zip
 
     - uses: actions/github-script@0.4.0
-      name: Eltrovu la nuna pozicion (kapo)
+      name: Eltrovu la nunan pozicion (kapo)
       id: trovu_kapon
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
@@ -79,6 +84,13 @@ jobs:
           const sha = ref.data.object.sha
           console.log('heads/master estas ĉe: '+sha)
           console.log('::set-output name=sha_hm::'+sha)
+
+    - name: Rekreu la tutan vortaron
+      run: docker run 
+        -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
+        -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
+        docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
+        formiko -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }} srv-servo-github
 
 # vd. https://github.com/actions/upload-release-asset
     - name: Rigardu la rezulton

@@ -95,7 +95,7 @@ jobs:
         -v $GITHUB_WORKSPACE/.tmp:/home/formiko/tmp
         -v $GITHUB_WORKSPACE/.log:/home/formiko/log
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
-        formiko -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }} srv-servo-diferenco-github
+        formiko -v -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }} srv-servo-diferenco-github
 
     - name: Rigardu la rezulton
       run: |

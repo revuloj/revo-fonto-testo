@@ -59,11 +59,15 @@ jobs:
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
         mkdir .tgz
+        mkdir .tmp
+        mkdir .log
 
     - name: Kreu la tutan vortaron
       run: docker run -u1001
         -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
+        -v $GITHUB_WORKSPACE/.tmp:/home/formiko/tmp
+        -v $GITHUB_WORKSPACE/.log:/home/formiko/log
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko -Dsha=${{ steps.trovu_noktan_formikon.outputs.sha_nf }} srv-servo-github
 
@@ -71,7 +75,7 @@ jobs:
       run: |
         #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
         ls -l .tgz/*
-        mv .tgz/revohtml_* .tgz/revohtml.1.zip
+        #mv .tgz/revohtml_* .tgz/revohtml.1.zip
 
     - uses: actions/github-script@0.4.0
       name: Eltrovu la nunan pozicion (kapo)
@@ -89,6 +93,8 @@ jobs:
       run: docker run -u1001
         -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
+        -v $GITHUB_WORKSPACE/.tmp:/home/formiko/tmp
+        -v $GITHUB_WORKSPACE/.log:/home/formiko/log
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }} srv-servo-diferenco-github
 
@@ -101,6 +107,11 @@ jobs:
     - name: Konservu rezultintajn arĥivojn
       uses: actions/upload-artifact@v1
       with:
-        name: zips
+        name: tgz
         path: .tgz
 
+    - name: Konservu protokolojn
+      uses: actions/upload-artifact@v1
+      with:
+        name: log
+        path: .log

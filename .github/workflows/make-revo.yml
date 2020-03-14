@@ -98,11 +98,10 @@ jobs:
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }} srv-servo-diferenco-github
 
-# vd. https://github.com/actions/upload-release-asset
     - name: Rigardu la rezulton
       run: |
         #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
-        ls -l .tgz/*
+        ls -l .tgz/ .log/
 
     - name: Konservu rezultintajn arĥivojn
       uses: actions/upload-artifact@v1

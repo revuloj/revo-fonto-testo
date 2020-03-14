@@ -75,7 +75,6 @@ jobs:
       run: |
         #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
         ls -l .tgz/*
-        #mv .tgz/revohtml_* .tgz/revohtml.1.zip
 
     - uses: actions/github-script@0.4.0
       name: Eltrovu la nunan pozicion (kapo)

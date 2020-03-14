@@ -90,7 +90,7 @@ jobs:
         -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
-        formiko -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }} srv-servo-github
+        formiko -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }} srv-servo-diferenco-github
 
 # vd. https://github.com/actions/upload-release-asset
     - name: Rigardu la rezulton
@@ -98,7 +98,7 @@ jobs:
         #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
         ls -l .tgz/*
 
-    - name: Konservu rezultintajn 2 arĥivojn
+    - name: Konservu rezultintajn arĥivojn
       uses: actions/upload-artifact@v1
       with:
         name: zips

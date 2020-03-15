@@ -60,6 +60,7 @@ jobs:
         mkdir .tgz
         mkdir .tmp
         mkdir .log
+        mkdir .revo
 
     - name: Kreu la tutan vortaron
       run: docker run -u1001
@@ -67,6 +68,7 @@ jobs:
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
         -v $GITHUB_WORKSPACE/.tmp:/home/formiko/tmp
         -v $GITHUB_WORKSPACE/.log:/home/formiko/log
+        -v $GITHUB_WORKSPACE/.revo:/home/formiko/revo
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko -Dsha=${{ steps.trovu_noktan_formikon.outputs.sha_nf }} srv-servo-github
 
@@ -93,6 +95,7 @@ jobs:
         -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
         -v $GITHUB_WORKSPACE/.tmp:/home/formiko/tmp
         -v $GITHUB_WORKSPACE/.log:/home/formiko/log
+        -v $GITHUB_WORKSPACE/.revo:/home/formiko/revo
         docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
         formiko -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }} srv-servo-diferenco-github
 

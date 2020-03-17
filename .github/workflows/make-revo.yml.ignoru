@@ -45,12 +45,6 @@ jobs:
           console.log('nokta-formiko estas ĉe: '+sha)
           console.log('::set-output name=sha_nf::'+sha)
 
-    # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
-    - name: Kreu dosierujojn por konservi la rezultojn ...
-      run: |
-        mkdir .tgz
-        mkdir .log
-
     - uses: actions/github-script@0.4.0
       name: Eltrovu la nunan pozicion (kapo)
       id: trovu_kapon
@@ -67,12 +61,18 @@ jobs:
     # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
     - name: Saluto al docker.pkg.github.com kaj preni voko-formiko
       env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       run: |
         docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
         docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
 
-    - name: Rekreu la tutan vortaron
+    # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
+    - name: Kreu dosierujojn por konservi la rezultojn ...
+      run: |
+        mkdir .tgz
+        mkdir .log
+
+    - name: Kreu la tutan vortaron ĉe nokta-formiko kaj HEAD kaj arĥivu la diferencon
       if: steps.trovu_noktan_formikon.outputs.sha_nf != steps.trovu_kapon.outputs.sha_hm
       run: docker run -u1001
         -e GIT_REPO_REVO=https://github.com/revuloj/revo-fonto-testo.git

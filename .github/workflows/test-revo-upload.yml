@@ -1,0 +1,85 @@
+name: test-revo-upload
+
+on:
+  push:
+    branches:
+      - master
+
+##  release:
+##    # Only use the types keyword to narrow down the activity types that will trigger your workflow.
+##    types: [created, prereleased]
+
+##    # Provizu eldonojn `vLundo` ktp. per SQLite-DB
+##    # (alternative oni povus akcepti ĉiun eldonon kaj alpendigi al tiu)
+##
+##    tags:
+##      - vLundo      
+##      - vMardo      
+##      - vMerkredo      
+##      - vĴaŭdo      
+##      - vVendredo      
+##      - vSabato      
+##      - vDimanĉo      
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+#    - name: Elŝutu la dosierojn 
+#      uses: actions/checkout@v1
+#      with:
+#          path: revo-fonto
+
+    # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
+    # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
+    - name: Saluto al docker.pkg.github.com kaj preni voko-formiko
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      run: |
+        docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
+        docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
+
+    # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
+    - name: Kreu dosierujojn ...
+      run: |
+        mkdir .tgz
+        mkdir .tmp
+        mkdir .log
+
+    - name: Kreu arĥivon por testi ...
+      run: |
+        mkdir -p ./tmp/revo/inx
+        echo "<html><body>Test: "$(date)"</body></html>" > ./tmp/revo/inx/_test.html
+        cd .tmp
+        tar -cvzf revo-20200317_210000.tgz revo
+
+    - name: Kreu la tutan vortaron ĉe nokta-formiko kaj HEAD kaj arĥivu la diferencon
+      run: docker run -u1001
+        -e FTP_SERVER=cyberwebserver-21.de
+        -e FTP_USER=${{ secrets.FTP_USER }}
+        -e FTP_PASSWD=${{ secrets.FTP_PASSWD }}
+        -e CGI_SERVER=reta-vortaro.de
+        -e CGI_USER=${{ secrets.CGI_USER }}
+        -e CGI_PASSWD=${{ secrets.CGI_PASSWD }}
+        -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
+        -v $GITHUB_WORKSPACE/.tmp:/home/formiko/tmp
+        -v $GITHUB_WORKSPACE/.log:/home/formiko/log
+        docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest formiko
+        -Drevo-tar-file-exists=true
+        -Drevo.filename=revo-20200317_210000.tgz
+        revo-upload
+
+    - name: Rigardu la rezulton
+      run: |
+        #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
+        ls -l .tgz/ .tmp/ .log/
+
+    - name: Konservu protokolojn
+      uses: actions/upload-artifact@v1
+      with:
+        name: log
+        path: .log
+
+#ant -f ~/voko/ant/spegulo.xml -Drevo-tar-file-exists=true -Drevo.filename=revo-JJJJMMTT_HHMMSS.tgz revo-upload

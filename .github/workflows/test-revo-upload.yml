@@ -50,8 +50,8 @@ jobs:
 
     - name: Kreu arĥivon por testi ...
       run: |
-        mkdir -p ./tmp/revo/inx
-        echo "<html><body>Test: "$(date)"</body></html>" > ./tmp/revo/inx/_test.html
+        mkdir -p .tmp/revo/inx
+        echo "<html><body>Test: "$(date)"</body></html>" > .tmp/revo/inx/_test.html
         cd .tmp
         tar -cvzf revo-20200317_210000.tgz revo
 

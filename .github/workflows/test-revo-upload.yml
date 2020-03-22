@@ -36,9 +36,9 @@ jobs:
     # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
     - name: Saluto al docker.pkg.github.com kaj preni voko-formiko
       env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        GITHUB_TOKEN: ${{secrets.REVO_SERVO}}
       run: |
-        docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
+        docker login docker.pkg.github.com -u reta-vortaro -p $REVO_SERVO
         docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
 
     # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
@@ -55,7 +55,7 @@ jobs:
         cd .tmp
         tar -cvzf revo-20200317_210000.tgz revo
 
-    - name: Kreu la tutan vortaron ĉe nokta-formiko kaj HEAD kaj arĥivu la diferencon
+    - name: Alŝutu la test-arĥivon al retavortaro.de kaj malplaku tie
       run: docker run -u1001
         -e FTP_SERVER=cyberwebserver-21.de
         -e FTP_USER=${{ secrets.FTP_USER }}

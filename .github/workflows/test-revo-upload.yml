@@ -38,7 +38,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{secrets.REVO_SERVO}}
       run: |
-        docker login docker.pkg.github.com -u reta-vortaro -p $REVO_SERVO
+        docker login docker.pkg.github.com -u reta-vortaro -p $GITHUB_TOKEN
         docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
 
     # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners

@@ -50,7 +50,7 @@ jobs:
         docker exec -u1074 \
         -e GIT_REPO_REVO=revo-fonto-testo \
         -e CGI_USER=${{ secrets.CGI_USER }} \
-        -e CGI_PASSWD=${{ secrets.CGI_PASSWD }} \
+        -e CGI_PASSWORD=${{ secrets.CGI_PASSWD }} \
         -e GITHUB_TOKEN=${{secrets.GITHUB_TOKEN}} \
         -e REVO_TOKEN=${{secrets.REVO_TOKEN}} \
         -e SIGELILO=${{secrets.SIGELILO}} \

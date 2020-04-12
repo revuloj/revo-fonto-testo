@@ -1,0 +1,85 @@
+name: akceptu-redaktojn
+
+on:
+  schedule:
+  # ĉiunokte
+  
+  # la tempo estas laŭ UTC, do laŭ mezeŭropa tempo tio
+  # vintre estas 23:15 kaj somere 00:15
+  #
+  # * estas speciala signo, do nepre uzu citilojn
+  - cron:  '15 22 * * *'
+  #- cron:  '34 19 * * 2'
+
+jobs:
+
+  revo-aktualigo:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Kreu dosierujojn por konservi la rezultojn ...
+      run: |
+        mkdir .tmp
+        mkdir .log
+
+    - name: Saluto al docker.pkg.github.com kaj preni 'voko-afido'
+      env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      run: |
+        docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
+        docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-afido:latest"
+
+    - name: Akceptu redaktojn el gists.github.com, kontrolu, arĥivu kaj raportu al redaktantoj
+      run: docker run -u1074
+        -e GIT_REPO_REVO=revo-fonto-testo
+        -e SMTP_SERVER=smtp.strato.de
+        -e SMTP_USER=${{ secrets.SMTP_USER }}
+        -e SMTP_PASSWORD=${{ secrets.SMTP_PASSWORD }}
+        -e CGI_USER=${{ secrets.CGI_USER }}
+        -e CGI_PASSWD=${{ secrets.CGI_PASSWD }}
+        -e GITHUB_KEY=${{secrets.GITHUB_TOKEN}}
+        -e REVO_TOKEN=${{secrets.REVO_TOKEN}}
+        -e SIGELILO=${{secrets.SIGELILO}}
+        -v $GITHUB_WORKSPACE/.tmp:/home/afido/dict/tmp
+        -v $GITHUB_WORKSPACE/.log:/home/afido/dict/log
+        docker.pkg.github.com/revuloj/voko-formiko/voko-afido:latest
+        afido
+
+    - name: Rigardu la rezulton
+      run: |
+        #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
+        ls -l .tgz/ .log/
+
+    - name: Konservu rezultintajn arĥivojn
+      uses: actions/upload-artifact@v1
+      with:
+        name: tgz
+        path: .tgz
+
+    - name: Konservu protokolojn
+      uses: actions/upload-artifact@v1
+      with:
+        name: log
+        path: .log
+        
+    - uses: actions/github-script@0.4.0
+      if: steps.trovu_noktan_formikon.outputs.sha_nf != steps.trovu_kapon.outputs.sha_hm
+      name: Movu antaŭen la formikon
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        debug: true
+        script: |
+          var result = {};
+          try {
+            result = await github.git.updateRef({  
+              owner: context.repo.owner,
+              repo: context.repo.repo,            
+              sha: '${{ steps.trovu_kapon.outputs.sha_hm }}',
+              ref: 'tags/nokta-formiko',
+              force: true })
+          } catch(error) {
+            console.log("ERROR:");
+          }
+          console.log("RESULT...")
+          console.log(result)        

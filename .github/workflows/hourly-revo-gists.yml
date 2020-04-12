@@ -39,21 +39,21 @@ jobs:
 
     - name: Akceptu redaktojn el gists.github.com, kontrolu, arĥivu kaj raportu al redaktantoj
       run: |
-        docker run
-        -e SMTP_SERVER=smtp.strato.de
-        -e SMTP_USER=${{ secrets.SMTP_USER }}
-        -e SMTP_PASSWORD=${{ secrets.SMTP_PASSWORD }}
-        -v $GITHUB_WORKSPACE/.tmp:/home/afido/dict/tmp
-        -v $GITHUB_WORKSPACE/.log:/home/afido/dict/log
-        docker.pkg.github.com/revuloj/voko-afido/voko-afido:latest
-        && docker exec -u1074
-        -e GIT_REPO_REVO=revo-fonto-testo
-        -e CGI_USER=${{ secrets.CGI_USER }}
-        -e CGI_PASSWD=${{ secrets.CGI_PASSWD }}
-        -e GITHUB_TOKEN=${{secrets.GITHUB_TOKEN}}
-        -e REVO_TOKEN=${{secrets.REVO_TOKEN}}
-        -e SIGELILO=${{secrets.SIGELILO}}
-        docker.pkg.github.com/revuloj/voko-afido/voko-afido:latest
+        docker run --name afido \
+        -e SMTP_SERVER=smtp.strato.de  \
+        -e SMTP_USER=${{ secrets.SMTP_USER }} \
+        -e SMTP_PASSWORD=${{ secrets.SMTP_PASSWORD }} \
+        -v $GITHUB_WORKSPACE/.tmp:/home/afido/dict/tmp \
+        -v $GITHUB_WORKSPACE/.log:/home/afido/dict/log \
+        docker.pkg.github.com/revuloj/voko-afido/voko-afido:latest 
+        docker exec -u1074 \
+        -e GIT_REPO_REVO=revo-fonto-testo \
+        -e CGI_USER=${{ secrets.CGI_USER }} \
+        -e CGI_PASSWD=${{ secrets.CGI_PASSWD }} \
+        -e GITHUB_TOKEN=${{secrets.GITHUB_TOKEN}} \
+        -e REVO_TOKEN=${{secrets.REVO_TOKEN}} \
+        -e SIGELILO=${{secrets.SIGELILO}} \
+        afido \
         afido
 
     - name: Rigardu la protokolon 

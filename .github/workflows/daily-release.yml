@@ -50,7 +50,7 @@ jobs:
               ref: 'tags/v${{ env.TAGO }}',
               force: true })
           } catch(error) {
-            console.log("ERROR:");
+            console.log("AVERTO:");
             console.log(error);
             result = await github.rest.git.createRef({  
               owner: context.repo.owner,
@@ -82,12 +82,13 @@ jobs:
             console.log("RESULT...")
             console.log(result)
           } catch(error)  {
-            console.log("ERROR:")
+            console.log("AVERTO:")
             console.log(error)
           }
 
 ####
-#'
+#' create-release ne estas aktualigita, eble ni
+# devas anstataŭe uzi https://octokit.github.io/rest.js/v19#repos-create-release
     - name: Rekreu eldonon kun sama etikedo (semajntago)
       id: create_release
       uses: actions/create-release@v1
@@ -128,14 +129,14 @@ jobs:
             const upload_url = release.data.upload_url            
             console.log('UploadURL is: '+upload_url)
             core.setOutput('upload_url',upload_url)
-            #console.log('::set-output name=upload_url::'+upload_url)
+            //console.log('::set-output name=upload_url::'+upload_url)
 
 ##'
 ## const core = require('@actions/core')
 ## core.setOutput('upload_url', upload_url)
 
     - name: Elŝutu la dosierojn 
-      uses: actions/checkout@v1
+      uses: actions/checkout@v3
     - name: Saluto al docker.pkg.github.com
         # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
         # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
@@ -168,6 +169,8 @@ jobs:
         echo "revosql=$(ls tgz/revosql_20*)" >> $GITHUB_OUTPUT
         echo "revosql_inx=$(ls tgz/revosql-inx_20*)" >> $GITHUB_OUTPUT
 
+    # upload-release-asset ne plu flegata,
+    # eble uzu anst. https://github.com/softprops/action-gh-release
     - name: Alpendigu sqlrevo-inx
       id: upload-inx 
       uses: actions/upload-release-asset@v1

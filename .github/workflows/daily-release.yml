@@ -137,7 +137,7 @@ jobs:
 
     - name: Elŝutu la dosierojn 
       uses: actions/checkout@v3
-    - name: Saluto al docker.pkg.github.com
+    - name: Saluto al ghcr.io
         # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
         # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
       #run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
@@ -156,7 +156,7 @@ jobs:
       run: docker run --name voko-formiko 
         -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz
-        docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest 
+        ghcr.io/revuloj/voko-formiko/voko-formiko:latest 
         formiko srv-sqlite-db-tuto
 
 # vd. https://github.com/actions/upload-release-asset

@@ -1,4 +1,4 @@
-name: make-daily-release
+name: eldono-de-la-tago
 
 on:
   #schedule:
@@ -6,9 +6,9 @@ on:
   # * is a special character in YAML so you have to quote this string
   #- cron:  '15 8 * * *'
   #- cron:  '34 19 * * 2'
-##  push:
-##    branches:
-##    - master
+  push:
+    branches:
+    - master
 
 # https://github.com/actions/create-release
 # https://help.github.com/en/actions/reference/development-tools-for-github-actions
@@ -135,7 +135,8 @@ jobs:
     - name: Saluto al docker.pkg.github.com
         # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
         # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
-      run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
+      #run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
+      run: echo "$GITHUB_TOKEN" | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin 
       env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: Prenu procesumon voko-formiko

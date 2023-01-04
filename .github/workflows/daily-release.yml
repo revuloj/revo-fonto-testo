@@ -145,7 +145,7 @@ jobs:
       env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: Prenu procesumon voko-formiko
-      run: docker pull "docker.pkg.github.com/revuloj/voko-formiko/voko-formiko:latest"
+      run: docker pull "ghcr.io/revuloj/voko-formiko/voko-formiko:latest"
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
         mkdir $GITHUB_WORKSPACE/tgz

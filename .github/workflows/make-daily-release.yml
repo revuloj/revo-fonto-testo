@@ -26,21 +26,22 @@ jobs:
       run: |
         echo $TAGO
 
-    - uses: actions/github-script@0.4.0
+    # vd. https://github.com/actions/github-script
+    - uses: actions/github-script@v6
       name: Movu etikedon al la nuna kap-pozicio
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
         script: |
           var result = {};
-          const ref = await github.git.getRef({
+          const ref = await github.rest.git.getRef({
               owner: context.repo.owner,
               repo: context.repo.repo,            
               ref: 'heads/master'})
           const sha = ref.data.object.sha;
           console.log('HEAD is: '+sha);
           try {
-            result = await github.git.updateRef({  
+            result = await github.rest.git.updateRef({  
               owner: context.repo.owner,
               repo: context.repo.repo,            
               sha: sha,
@@ -49,7 +50,7 @@ jobs:
           } catch(error) {
             console.log("ERROR:");
             console.log(error);
-            result = await github.git.createRef({  
+            result = await github.rest.git.createRef({  
               owner: context.repo.owner,
               repo: context.repo.repo,            
               sha: sha,
@@ -59,20 +60,20 @@ jobs:
           console.log("RESULT...")
           console.log(result)
 
-    - uses: actions/github-script@0.4.0
+    - uses: actions/github-script@v6
       name: Forigu malnovan eldonon de tiu tago
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
         script: |
           try {
-            const release = await github.repos.getReleaseByTag({
+            const release = await github.rest.repos.getReleaseByTag({
                 owner: context.repo.owner,
                 repo: context.repo.repo,            
                 tag: 'v${{ env.TAGO }}' })
             const release_id = release.data.id
             console.log('Release id is: '+release_id)
-            const result = await github.repos.deleteRelease({  
+            const result = await github.rest.repos.deleteRelease({  
               owner: context.repo.owner,
               repo: context.repo.repo,            
               release_id: release_id })
@@ -109,20 +110,21 @@ jobs:
         echo "::set-env name=TAGO::${Tagoj[ $(date +'%w') ]}"
 
     - name: Eltrovu la URL de la hodiaŭa eldono
-      uses: actions/github-script@0.4.0
+      uses: actions/github-script@v6
       id: retrieve_release
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
         debug: true
         script: |
-            const release = await github.repos.getReleaseByTag({
+            const release = await github.rest.repos.getReleaseByTag({
                 owner: context.repo.owner,
                 repo: context.repo.repo,            
                 tag: 'v${{ env.TAGO }}'
             })
             const upload_url = release.data.upload_url            
             console.log('UploadURL is: '+upload_url)
-            console.log('::set-output name=upload_url::'+upload_url)
+            core.setOutput('upload_url',upload_url)
+            #console.log('::set-output name=upload_url::'+upload_url)
 
 ##'
 ## const core = require('@actions/core')
@@ -156,8 +158,10 @@ jobs:
       id: retrovu_zip
       run: |
         ls -l $GITHUB_WORKSPACE/tgz
-        echo "::set-output name=revosql::$(ls tgz/revosql_20*)"
-        echo "::set-output name=revosql_inx::$(ls tgz/revosql-inx_20*)"
+        #echo "::set-output name=revosql::$(ls tgz/revosql_20*)"
+        #echo "::set-output name=revosql_inx::$(ls tgz/revosql-inx_20*)"
+        echo "revosql=$(ls tgz/revosql_20*)" >> $GITHUB_OUTPUT
+        echo "revosql_inx=$(ls tgz/revosql-inx_20*)" >> $GITHUB_OUTPUT
 
     - name: Alpendigu sqlrevo-inx
       id: upload-inx 

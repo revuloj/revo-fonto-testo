@@ -91,12 +91,12 @@ jobs:
 # devas anstataŭe uzi https://octokit.github.io/rest.js/v19#repos-create-release
     - name: Rekreu eldonon kun sama etikedo (semajntago)
       id: create_release
-      uses: actions/create-release@v1
+      uses: softprops/action-gh-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: v${{ env.TAGO }}
-        release_name: Eldono de ${{ env.TAGO }}
+        name: Eldono de ${{ env.TAGO }}
         draft: false
         prerelease: false
 

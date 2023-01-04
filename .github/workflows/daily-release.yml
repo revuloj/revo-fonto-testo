@@ -21,7 +21,9 @@ jobs:
     - name: "Hodiaŭ..."
       run: |
         Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
-        echo "::set-env name=TAGO::${Tagoj[ $(date +'%w') ]}"
+        #echo "::set-env name=TAGO::${Tagoj[ $(date +'%w') ]}"
+        echo "TAGO=${Tagoj[ $(date +'%w') ]}" >> $GITHUB_ENV
+
     - name: "Eĥo..."
       run: |
         echo $TAGO
@@ -107,7 +109,9 @@ jobs:
     - name: "Hodiaŭ..."
       run: |
         Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
-        echo "::set-env name=TAGO::${Tagoj[ $(date +'%w') ]}"
+        #echo "::set-env name=TAGO::${Tagoj[ $(date +'%w') ]}"
+        echo "TAGO=${Tagoj[ $(date +'%w') ]}" >> $GITHUB_ENV
+
 
     - name: Eltrovu la URL de la hodiaŭa eldono
       uses: actions/github-script@v6

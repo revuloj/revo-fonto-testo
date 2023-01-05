@@ -171,9 +171,12 @@ jobs:
 
     # upload-release-asset ne plu flegata,
     # eble uzu anst. https://github.com/softprops/action-gh-release
+    # aŭ https://github.com/alexellis/upload-assets
+    # aŭ sekwah41/upload-release-assets@v1
+    # aŭ https://github.com/AButler/upload-release-assets
     - name: Alpendigu sqlrevo-inx
       id: upload-inx 
-      uses: actions/upload-release-asset@v1
+      uses: sekwah41/upload-release-assets@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
@@ -183,7 +186,7 @@ jobs:
         asset_content_type: application/zip
     - name: Alpendigu sqlrevo
       id: upload-inx-art 
-      uses: actions/upload-release-asset@v1
+      uses: sekwah41/upload-release-assets@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
@@ -191,7 +194,6 @@ jobs:
         asset_path: ${{ steps.retrovu_zip.outputs.revosql }}
         asset_name: ${{ steps.retrovu_zip.outputs.revosql }}
         asset_content_type: application/zip
-
 
 # about download: https://help.github.com/en/github/administering-a-repository/linking-to-releases
 # /owner/name/releases/latest/download/asset-name.zip

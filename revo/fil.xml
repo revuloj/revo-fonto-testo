@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fil.xml,v 1.34 2009/08/27 16:33:46 revo Exp $">
+<art mrk="$Id: fil.xml,v 1.131 2023/09/07 06:29:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fil</rad>/o
@@ -24,39 +23,112 @@
         Rusa lando&rightquot;
         <fnt>
           <aut>S. Pokrovskij</aut>
-          <vrk>Moskvo jubileas</vrk>
+          <vrk><url ref="&Monato;/2001/005698.html">Moskvo jubileas</url></vrk>
           <bib>Monato</bib>
-          <lok>1997:9, p. 22a</lok>
+          <lok>1997/09, p. 22</lok>
         </fnt>
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">seun</trd>
+  <trd lng="am">&#x12C8;&#4757;&#x12F5; &#x120D;&#4869;</trd>
+  <trd lng="ar">&a_A;&a_b;&a_n;</trd>
   <trd lng="be">&c_s;&c_y;&c_n;</trd>
   <trd lng="bg">&c_s;&c_i;&c_n;</trd>
+  <trd lng="bn">&#x99B;&#x9C7;&#x9B2;&#x9C7;</trd>
+  <trd lng="bo">&#xF56;&#xF74;&#xF0B;</trd>
+  <trd lng="bs">sina</trd>
   <trd lng="ca">fill</trd>
+  <trd lng="co">figliolu</trd>
   <trdgrp lng="cs">
     <trd>f&yacute;la</trd>,
     <trd>syn</trd>
   </trdgrp>
+  <trd lng="cy">mab</trd>
+  <trd lng="da">s&#xF8;n</trd>
   <trd lng="de">Sohn</trd>
   <trd lng="en">son</trd>
   <trd lng="es">hijo</trd>
+  <trd lng="et">poeg</trd>
+  <trd lng="eu">semea</trd>
   <trd lng="fr">fils</trd>
   <trd lng="fy">soan</trd>
+  <trd lng="ga">mac</trd>
+  <trd lng="gd">mac</trd>
+  <trd lng="gl">fillo</trd>
+  <trd lng="gu">&#xAAA;&#xAC1;&#xAA4;&#xACD;&#xAB0;</trd>
+  <trd lng="ha">dan</trd>
   <trd lng="he">&bet;&fnun;</trd>
+  <trd lng="hi">&#x92C;&#2375;&#x91F;&#x93E;</trd>
+  <trd lng="hmn">tus tub</trd>
+  <trd lng="hr">sin</trd>
+  <trd lng="ht">pitit gason</trd>
   <trd lng="hu">fi&uacute; <klr tip="amb">(vki fia)</klr></trd>
-  <trd lng="id"><ind>anak</ind> laki-laki</trd>
+  <trd lng="hy">&#1400;&#1408;&#1380;&#x56B;</trd>
+  <trd lng="id"><ind>anak</ind> (kandung) laki-laki</trd>
+  <trd lng="ig">nwa</trd>
   <trd lng="io">filiulo</trd>
+  <trd lng="is">sonur</trd>
+  <trd lng="ja">&#x606F;&#x5B50; [<ind>&#12416;&#12377;&#12371;</ind>]</trd>
   <trd lng="jbo">bersa</trd>
+  <trd lng="ka">&#x10E8;&#x10D5;&#x10D8;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&#x4B1;&#x43B;</trd>
+  <trd lng="km">&#6016;&#x17BC;&#6035;&#6036;&#x17D2;&#x179A;&#x17BB;&#x179F;</trd>
+  <trd lng="kn">&#xCAE;&#xC97;</trd>
+  <trd lng="ko">&#xC544;&#xB4E4;</trd>
+  <trd lng="ku">kur</trd>
+  <trd lng="ky">&c_u;&c_u;&#x43B;</trd>
+  <trd lng="lat">filius</trd>
+  <trd lng="lo">&#xEA5;&#xEB9;&#xE81;&#xE8A;&#xEB2;&#xE8D;</trd>
+  <trd lng="lt">s&#x16B;nus</trd>
+  <trd lng="lv">d&#x15E3;ls</trd>
+  <trd lng="mg">zazalahy</trd>
+  <trd lng="mi">tama</trd>
+  <trd lng="mk">&c_s;&c_i;&#x43D;</trd>
+  <trd lng="ml">&#xD2E;&#xD15;&#xD7B;</trd>
+  <trd lng="mn">&c_h;&#x4AF;&#x4AF;</trd>
+  <trd lng="mr">&#x92E;&#2369;&#2354;&#2327;&#x93E;</trd>
+  <trd lng="ms">anak</trd>
+  <trd lng="mt">iben</trd>
+  <trd lng="my">&#x101E;&#x102C;&#4152;</trd>
+  <trd lng="ne">&#x91B;&#x94B;&#2352;&#x93E;</trd>
   <trd lng="nl">zoon</trd>
+  <trd lng="ny">mwana</trd>
+  <trd lng="pa">&#xA2A;&#xA41;&#xA71;&#xA24;&#xA30; &#xA28;&#xA42;&#xA70;</trd>
   <trd lng="pl">syn</trd>
+  <trd lng="ps">&a_z;&a_w;&#x6CC;</trd>
   <trd lng="pt">filho</trd>
   <trd lng="ru">&c_s;&c_y;&c_n;</trd>
+  <trd lng="rw">umuhungu</trd>
+  <trd lng="sd">&#x67E;&#x64F;&#x67D;</trd>
+  <trd lng="si">&#xDB4;&#xDD4;&#xDAD;&#xDCF;</trd>
   <trd lng="sk">f&yacute;la</trd>
-  <trd lng="tp">mije lili</trd>
+  <trd lng="sl">sin</trd>
+  <trd lng="sm">atali&#8217;i</trd>
+  <trd lng="sn">mwanakomana</trd>
+  <trd lng="so">ina</trd>
+  <trd lng="sq">djali</trd>
+  <trd lng="st">mora oa</trd>
+  <trd lng="su">putera</trd>
+  <trd lng="sw">mwana</trd>
+  <trd lng="ta">&#xBAE;&#xB95;&#xBA9;&#xBCD;</trd>
+  <trd lng="te">&#xC15;&#xC41;&#xC2E;&#xC3E;&#xC30;&#xC41;&#xC21;&#xC41;</trd>
+  <trd lng="tg">&#x43F;&c_i;&c_s;&c_a;&c_r;</trd>
+  <trd lng="th">&#xE1A;&#xE38;&#xE15;&#xE23;&#xE0A;&#xE32;&#xE22;</trd>
+  <trd lng="tl">anak</trd>
+  <trd lng="tok">mije lili</trd>
   <trd lng="tr">o&gbreve;ul</trd>
+  <trd lng="tt">&c_u;&#x43B;&#x44B;</trd>
+  <trd lng="uk">&c_s;&c_i;&#x43D;</trd>
+  <trd lng="ur">&a_b;&#x6CC;&#1657;&a_A;</trd>
+  <trd lng="uz">o&#8217;g&#8217;il</trd>
+  <trd lng="vi">con trai</trd>
   <trd lng="vo">son</trd>
-  <trd lng="zh">&#20799;&#23376; <klr>(tr. &#20818;&#23376;)</klr> [<ind>&eacute;rzi</ind>]</trd>
+  <trd lng="xh">unyana</trd>
+  <trd lng="yi">&#x5D6;&#x5D5;&#x5DF;</trd>
+  <trd lng="yo">&#x1ECD;m&#x1ECD;</trd>
+  <trd lng="zh">&#x513F;&#x5B50; <klr>(tr. &#20818;&#x5B50;)</klr> [<ind>&eacute;rzi</ind>]</trd>
+  <trd lng="zu">indodana</trd>
 </drv>
 
 <drv mrk="fil.0igi">
@@ -83,6 +155,8 @@
   <trd lng="fr">adopter<klr tip="ind"> (comme fils)</klr></trd>
   <trd lng="he">&lamed;<ind>&alef;&mem;&ftsadi;</ind></trd>
   <trd lng="hu">fi&aacute;v&aacute; fogad</trd>
+  <trd lng="id">meng<ind>adopsi</ind> (anak)</trd>
+  <trd lng="ja">&#x990A;&#x5B50;&#x306B;&#12377;&#x308B;  [<ind>&#12424;&#12358;&#12375;&#x306B;&#12377;&#x308B;</ind>]</trd>
   <trd lng="nl">als zoon <ind>adopteren</ind></trd>
   <trd lng="pl">usynawia&cacute;</trd>
   <trd lng="ru">&c_u;&c_s;&c_y;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
@@ -92,6 +166,10 @@
     <trd>prija&tcaron; za syna</trd>
   </trdgrp>
   <trd lng="tr">evlatl&inodot;k edinmek</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_s;&c_i;&#x43D;&#x43E;&c_v;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_s;&c_i;&#x43D;&#x43E;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fil.0ino">
@@ -99,7 +177,7 @@
   <snc mrk="fil.0ino.GEN">
     <uzo tip="fak">GEN</uzo>
     <dif>
-      Inseksa <ref tip="lst" cel="id.0o" lst="voko:parencoj">ido</ref>, 
+      Inseksa <ref tip="lst" cel="id.0o" lst="voko:parencoj">ido</ref>,
       rilate al la gepatroj:
       <ekz>
         tio &ccirc;i estis la unua fojo, ke &scirc;i nomis &scirc;in sia
@@ -109,15 +187,17 @@
         mia plej juna <tld/>ino naski&gcirc;is surda
         <fnt>
           <aut>M. Bijleveld</aut>
-          <vrk>Je defendo de liplegado</vrk>
+          <vrk><url ref="&Monato;/2001/pdf/monato200112.pdf#page=13">Je defendo de
+          liplegado</url></vrk>
           <bib>Monato</bib>
-          <lok>2001:12, p. 13a</lok>
+          <lok>2001/12, p. 13</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_ch;&c_k;&c_a;</trd>
   <trd lng="bg">&c_d;&c_malmol;&c_shch;&c_je;&c_r;&c_ja;</trd>
+  <trd lng="bo">&#xF56;&#xF74;&#xF0B;&#xF58;&#xF7C;&#xF0B;</trd>
   <trd lng="ca">filla</trd>
   <trd lng="cs">dcera</trd>
   <trd lng="de">Tochter</trd>
@@ -129,18 +209,22 @@
   <trd lng="he">&bet;&tav;</trd>
   <trd lng="hu">l&aacute;ny <klr tip="amb">(vki l&aacute;nya)</klr>
   </trd>
-  <trd lng="id"><ind>anak</ind> perempuan</trd>
+  <trd lng="id"><ind>anak</ind> (kandung) perempuan</trd>
   <trd lng="io">filiino</trd>
+  <trd lng="ja">&#x5A18;  [<ind>&#12416;&#12377;&#12417;</ind>]</trd>
   <trd lng="jbo">tixnu</trd>
   <trd lng="nl">dochter</trd>
   <trd lng="pl">c&oacute;rka</trd>
   <trd lng="pt">filha</trd>
   <trd lng="ru">&c_d;&c_o;&c_ch;&c_mol;</trd>
   <trd lng="sk">dc&eacute;ra</trd>
-  <trd lng="tp">meli lili</trd>
+  <trd lng="sl">h&ccaron;i</trd>
+  <trd lng="sw">mtoto wa kike</trd>
+  <trd lng="tok">meli lili</trd>
   <trd lng="tr">k&inodot;z &ccedil;ocu&gbreve;u</trd>
+  <trd lng="uk">&c_d;&#x43E;&c_ch;&#x43A;&c_a;</trd>
   <trd lng="vo">daut</trd>
-  <trd lng="zh">&#22899;&#20799; <klr>(tr. &#22899;&#20818;)</klr> [<ind>n&#474;'&eacute;r</ind>]</trd>
+  <trd lng="zh">&#22899;&#x513F; <klr>(tr. &#22899;&#20818;)</klr> [<ind>n&#x1DA;'&eacute;r</ind>]</trd>
 </drv>
 
 <drv mrk="fil.0inigi">
@@ -158,6 +242,7 @@
   <trd lng="en">adopt</trd>
   <trd lng="es"><ind>adoptar</ind> una hija</trd>
   <trd lng="fr">adopter<klr tip="ind"> (comme fille)</klr></trd>
+  <trd lng="id">meng<ind>adopsi</ind> (anak)</trd>
   <trd lng="nl">als dochter <ind>adopteren</ind></trd>
 </drv>
 
@@ -186,6 +271,7 @@
   <trd lng="de">Sohn des Himmels<klr> (Herrschertitel)</klr></trd>
   <trd lng="fr">fils du ciel</trd>
   <trd lng="hu">az &eacute;g <ind>fia</ind></trd>
+  <trd lng="id"><ind>putra</ind> surgawi</trd>
   <trd lng="ru">&c_s;&c_y;&c_n; &c_n;&c_je;&c_b;&c_a;</trd>
 </drv>
 
@@ -200,10 +286,10 @@
         Ned, kun la helpo de unu el siaj bo<tld/>oj, sekvis tiun
         instrukcion
         <fnt>
-          <aut>D. Curtis</aut>
-          <vrk>Koratako</vrk>
+          <aut>David Curtis</aut>
+          <vrk><url ref="&Monato;/2002/pdf/monato200201.pdf#page=28">Koratako</url></vrk>
           <bib>Monato</bib>
-          <lok>2002:1a, p. 28a-34a</lok>
+          <lok>2002/01, p. 28-34</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -220,15 +306,18 @@
     <trd>gendre</trd>
   </trdgrp>
   <trd lng="fy">skoansoan</trd>
+  <trd lng="he">&#x5D7;&#x5EA;&#x5DF;</trd>
   <trd lng="hu">v&odblac;</trd>
-  <trd lng="id">menantu</trd>
+  <trd lng="id"><ind>menantu</ind> (laki-laki)</trd>
   <trd lng="io">bofiliulo</trd>
+  <trd lng="ja">&#x5A18;&#12416;&#12371;  [<ind>&#12416;&#12377;&#12417;&#12416;&#12371;</ind>]</trd>
   <trd lng="nl">schoonzoon</trd>
   <trd lng="pl">zi&eogonek;&cacute;</trd>
   <trd lng="pt">genro</trd>
   <trd lng="ru">&c_z;&c_ja;&c_t;&c_mol;</trd>
   <trd lng="sk">za&tcaron;</trd>
   <trd lng="tr">damat</trd>
+  <trd lng="uk">&c_z;&#x44F;&c_t;&#x44C;</trd>
   <trd lng="vo">l&uuml;son</trd>
 </drv>
 
@@ -244,9 +333,9 @@
         amba&ubreve; estontajn bo<tld/>inojn
         <fnt>
           <aut>S. &Scirc;timec</aut>
-          <vrk>Morto en Melburna tramo</vrk>
+          <vrk><url ref="&Monato;/1997/005601.html">Morto en Melburna tramo</url></vrk>
           <bib>Monato</bib>
-          <lok>1997:8, p. 24a</lok>
+          <lok>1997/08, p. 24</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -267,14 +356,16 @@
   </trdgrp>
   <trd lng="fy">skoandochter</trd>
   <trd lng="hu">meny</trd>
-  <trd lng="id">menantu</trd>
+  <trd lng="id"><ind>menantu</ind> (perempuan)</trd>
   <trd lng="io">bofiliino</trd>
+  <trd lng="ja">&#12424;&#12417;</trd>
   <trd lng="nl">schoondochter</trd>
   <trd lng="pl">synowa</trd>
   <trd lng="pt">nora</trd>
   <trd lng="ru">&c_n;&c_je;&c_v;&c_je;&c_s;&c_t;&c_k;&c_a;</trd>
   <trd lng="sk">nevesta</trd>
   <trd lng="tr">gelin</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_v;&c_ib;&c_s;&c_t;&#x43A;&c_a;</trd>
   <trd lng="vo">l&uuml;daut</trd>
 </drv>
 
@@ -283,8 +374,8 @@
   <snc mrk="fil.duon0o.GEN">
     <uzo tip="fak">GEN</uzo>
     <dif>
-      <ref tip="lst" cel="fil.0o" lst="voko:parencoj"><tld
-      lit="F"/>o</ref> el anta&ubreve;a edzi&gcirc;o, rilate al la nova
+      <ref tip="lst" cel="fil.0o" lst="voko:parencoj"><tld lit="F"/>o</ref> el anta&ubreve;a edzi&gcirc;o, rilate
+      al la nova
       edzo a&ubreve; edzino.
     </dif>
   </snc>
@@ -298,6 +389,12 @@
   <trd lng="fr">beau-fils<klr tip="ind"> (fils du conjoint)</klr></trd>
   <trd lng="he">&bet;&fnun; &het;&vav;&resh;&gimel;</trd>
   <trd lng="hu">mostohafi&uacute;</trd>
+  <trd lng="id"><ind>anak</ind> tiri (laki-laki)</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D99;&#x606F;&#x5B50;  [<ind>&#x307E;&#x307E;&#12416;&#12377;&#12371;</ind>]</trd>,
+    <trd>&#30007;&#x306E;&#x7D99;&#x5B50;  [<ind>&#x304A;&#12392;&#12371;&#x306E;&#12388;&#12371;</ind>]</trd>,
+    <trd>&#x307E;&#x307E;&#x5B50;  [<ind>&#x307E;&#x307E;&#12371;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">stiefzoon</trd>
   <trd lng="pl">pasierb</trd>
   <trd lng="pt">enteado</trd>
@@ -307,6 +404,7 @@
     <trd>pastorok</trd>
   </trdgrp>
   <trd lng="tr">damat</trd>
+  <trd lng="uk">&#x43F;&c_a;&c_s;&c_i;&#x43D;&#x43E;&#x43A;</trd>
 </drv>
 
 <drv mrk="fil.duon0ino">
@@ -314,8 +412,8 @@
   <snc mrk="fil.duon0ino.GEN">
     <uzo tip="fak">GEN</uzo>
     <dif>
-      <ref tip="lst" cel="fil.0ino" lst="voko:parencoj"><tld
-      lit="F"/>ino</ref> el anta&ubreve;a edzi&gcirc;o, rilate al la nova
+      <ref tip="lst" cel="fil.0ino" lst="voko:parencoj"><tld lit="F"/>ino</ref> el anta&ubreve;a edzi&gcirc;o,
+      rilate al la nova
       edzo a&ubreve; edzino:
       <ekz>
         dume &scirc;i tenis sian duon<tld/>inon en severa servopreteco
@@ -335,15 +433,20 @@
   </trd>
   <trd lng="he">&bet;&tav; &het;&vav;&resh;&gimel;&tav;</trd>
   <trd lng="hu">mostohal&aacute;ny</trd>
+  <trd lng="id"><ind>anak</ind> tiri (perempuan)</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D99;&#x5A18;  [<ind>&#x307E;&#x307E;&#12416;&#12377;&#12417;</ind>]</trd>,
+    <trd>&#22899;&#x306E;&#x7D99;&#x5B50;  [<ind>&#x304A;&#12435;&#x306A;&#x306E;&#12388;&#12371;</ind>]</trd>,
+    <trd>&#x307E;&#x307E;&#x5B50;  [<ind>&#x307E;&#x307E;&#12371;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">stiefdochter</trd>
   <trd lng="pl">pasierbica</trd>
   <trd lng="pt">enteada</trd>
   <trd lng="ru">&c_p;&c_a;&c_d;&c_ch;&c_je;&c_r;&c_i;&c_c;&c_a;</trd>
   <trd lng="sk">nevlastn&aacute; dc&eacute;ra</trd>
   <trd lng="tr">gelin</trd>
+  <trd lng="uk">&#x43F;&c_a;&c_s;&c_je;&c_r;&c_b;&c_i;&c_c;&#x44F;</trd>
 </drv>
-
-
 
 <drv mrk="fil.ge0oj">
   <kap>ge<tld/>oj</kap>
@@ -374,12 +477,18 @@
     <trd lng="en">children</trd>
     <trd lng="fy">bern</trd>
     <trd lng="fr">enfants<klr tip="ind"> (fils et/ou filles)</klr></trd>
+    <trd lng="id"><ind>anak</ind> (kandung)</trd>
     <trd lng="io">filii</trd>
     <trd lng="nl">kinderen</trd>
-    <trd lng="tp">jan lili</trd>
+    <trd lng="tok">jan lili</trd>
     <trd lng="tr">&ccedil;ocuklar</trd>
     <trd lng="vo">cils</trd>
   </snc>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_i;&#x43D; &c_ib; &c_d;&#x43E;&c_ch;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&c_i;&#x43D;&c_i;&#xA0;&c_t;&c_a; &c_d;&#x43E;&c_ch;&#x43A;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fil.ge0o">
@@ -395,7 +504,9 @@
         kundiskuti la verkon.
         <fnt>
           <aut>Jorge Camacho</aut>
+          <vrk><url ref="&Monato;/2000/006810.php">Diskutige kaj diskutinde</url></vrk>
           <lok>Monato</lok>
+          <lok>2000/08, p. 25</lok>
         </fnt>;
       </ekz>
     </dif>
@@ -411,7 +522,7 @@
   <trd lng="io">filio</trd>
   <trd lng="jbo">panzi</trd>
   <trd lng="nl">kind</trd>
-  <trd lng="tp">jan lili</trd>
+  <trd lng="tok">jan lili</trd>
   <trd lng="tr">&ccedil;ocuk</trd>
   <trd lng="vo">cil</trd>
 </drv>
@@ -424,7 +535,7 @@
       Knabo, kiun plena&gcirc;ulo
       <ref tip="vid" cel="adopt.0i.JUR">adoptis</ref> kiel <tld/>on:
       <ekz>
-        kiam &scirc;i estis 87-jara&gcirc;a, mortis &scirc;ia <tld/>ita filo
+        kiam &scirc;i estis 87-jara&gcirc;a, mortis &scirc;ia adoptita <tld/>o
         <fnt>
           <aut>H. A. Welker</aut>
           <vrk><url
@@ -434,11 +545,19 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="nl">
+      <trd>pluszoon</trd>,
+      <trd>aangenomen <ind>zoon</ind></trd>
+    </trdgrp>
   </snc>
   <rim>
     La formo <ctl>adopta filo</ctl> estas anka&ubreve; uzata.
   </rim>
   <trd lng="fr">fils adoptif</trd>
+  <trdgrp lng="id">
+    <trd><ind>anak</ind> adopsi (laki-laki)</trd>,
+    <trd><ind>anak</ind> angkat (laki-laki)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fil.adoptita0ino">
@@ -450,12 +569,16 @@
       <ref tip="vid" cel="adopt.0i.JUR">adoptis</ref> kiel <tld/>inon:
       <ekz>
         la vikingedzino <klr>...</klr> vidos el tio, ke
-        &scirc;ia <tld/>ita filino vivas, estas feli&ccirc;a kaj &ccirc;iam
+        &scirc;ia adoptita <tld/>ino vivas, estas feli&ccirc;a kaj &ccirc;iam
         ankora&ubreve; ame &scirc;in memoras
         <fnt><bib>Fab4</bib>,
         <lok>Filino de la Mar&ccirc;a Re&gcirc;o</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="nl">
+      <trd>plusdochter</trd>,
+      <trd>aangenomen dochter</trd>
+    </trdgrp>
   </snc>
   <rim>
     La formo <ctl>adopta filino</ctl> estas anka&ubreve; uzata:
@@ -470,28 +593,35 @@
       </ekz>
   </rim>
   <trd lng="fr">fille adoptive</trd>
+  <trdgrp lng="id">
+    <trd><ind>anak</ind> adopsi (perempuan)</trd>,
+    <trd><ind>anak</ind> angkat (perempuan)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.131 2023/09/07 06:29:27
+Eko Nur Syah Hidayat: +trd id 2 kaj korekto iomete
+
+versio 1.129 2023/08/29 17:27:17
+Wolfram Diestel: ja: prononco
+
+versio 1.128 2023/05/14 12:41:16
+Paul Peeraerts: kor de eraraj tld/
+
+versio 1.126 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.49 2020/12/29 08:10:48
+Aleks Andre: bo
+
+versio 1.48 2020/04/13 18:11:00
+Peter Garami: aldono de slovenaj tradokajhoj
+
+Revision 1.47  2019/07/06 06:10:31  revo
+Aleks Andre: zh: indekso
+
 Revision 1.46  2018/05/02 15:10:18  revo
-Jeromo Vasxe: + adoptita filo/filino
-
-Revision 1.45  2017/07/27 13:10:13  revo
-Ludoviko Francisco: kor ekz lok
-
-Revision 1.44  2017/06/01 11:10:12  revo
-Ludoviko Francisco: +trd
-
-Revision 1.43  2017/05/08 18:10:12  revo
-Robin van der Vliet: gefiloj ne trovigxas en la Fundamento de Esperanto
-
-Revision 1.42  2017/05/08 17:10:13  revo
-Robin van der Vliet: +trd, +gefilo(j)
-
-Revision 1.41  2016/11/20 23:10:15  revo
-Robin van der Vliet: +trd tp
-
-Revision 1.40  2016/11/19 23:10:20  revo
 -->
 </vortaro>

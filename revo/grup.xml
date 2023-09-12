@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: grup.xml,v 1.69 2020/02/14 19:10:18 revo Exp $">
+<art mrk="$Id: grup.xml,v 1.157 2023/08/31 14:29:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>grup</rad>/o
@@ -50,7 +49,7 @@
           </fnt>;
         </ekz>
         <ekz>
-          aran&gcirc;u vin la&ubreve; <klr>[&#8230;]</klr> viaj <tld/>oj
+          aran&gcirc;u vin la&ubreve; <klr>[&#x2026;]</klr> viaj <tld/>oj
           <fnt>
             <bib>MT</bib>
             <lok>II. Kroniko 35:4</lok>
@@ -71,8 +70,7 @@
           </fnt>;
         </ekz>
         <ekz>
-          la taga <tld/>o <klr>(vd <ref tip="sub"
-          cel="skip.0o">skipo</ref>)</klr>
+          la taga <tld/>o <klr>(vd <ref tip="sub" cel="skip.0o">skipo</ref>)</klr>
           de la laboristoj <klr>[kaj]</klr> la laboristoj de la nokta
           <tld/>o
           <fnt>
@@ -141,6 +139,22 @@
           </fnt>!
         </ekz>
       </dif>
+      <ref tip="sin" cel="kun.0ularo">kunularo</ref>
+      <refgrp tip="sub">
+        <ref cel="band.0o">bando</ref>,
+        <ref cel="brigad.0o">brigado</ref>,
+        <ref cel="ensemb.0o.KOMUNE">ensemblo</ref>,
+        <ref cel="greg.0o">grego</ref>,
+        <ref cel="hord.0o.FIG">hordo</ref>,
+        <ref cel="karava.0o">karavano</ref>,
+        <ref cel="kolekt1.0o">kolektivo</ref>,
+        <ref cel="parti.0o.grupo">partio</ref>,
+        <ref cel="rot.0o">roto</ref>,
+        <ref cel="tacxme.0o">ta&ccirc;mento</ref>,
+        <ref cel="team.0o">teamo</ref>,
+        <ref cel="skip.0o">skipo</ref>,
+        <ref cel="svarm.0o.KOMUNE">svarmo</ref>, k.a.
+      </refgrp>
       <trd lng="de">Schar</trd>
       <trdgrp lng="pl">
         <trd>grupa</trd>,
@@ -198,6 +212,17 @@
           </fnt>.
         </ekz>
       </dif>
+      <refgrp tip="sub">
+        <ref cel="arkipe.0o.insularo">ar&hcirc;ipelago</ref>,
+        <ref cel="katego.0o">kategorio</ref>,
+        <ref cel="kolekt.0o">kolekto</ref>,
+        <ref cel="menagx.0o">mena&gcirc;erio</ref>,
+        <ref cel="seri.0o.aro">serio</ref>, ktp.
+      </refgrp>
+      <refgrp tip="vid">
+        <ref cel="arangx.0o">aran&gcirc;o</ref>,
+        <ref cel="kombin.0o">kombino</ref>        
+      </refgrp>
       <trdgrp lng="hu">
         <trd>csom&oacute;</trd>,
         <trd>rak&aacute;s</trd>,
@@ -230,8 +255,7 @@
         de <nom>Poaceae</nom>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=40002"
-              >Bambuo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=40002">Bambuo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -242,8 +266,8 @@
     <fnt><bib>MatTerm</bib>, <lok>p. 14</lok></fnt>
     <dif>
       Tia <ref tip="super" cel="grupoi.0o">grupoido</ref>
-      <frm am="(bb E,&#8224;)">(<g>E</g>,&#8224;)</frm>, ke &gcirc;ia
-      <ref cel="operac.0o.MAT">operacio</ref> <frm am="&#8224;">&#8224;</frm>
+      <frm am="(bb E,&#x2020;)">(<g>E</g>,&#x2020;)</frm>, ke &gcirc;ia
+      <ref cel="operac.0o.MAT">operacio</ref> <frm am="&#x2020;">&#x2020;</frm>
       estas
       <ref cel="asoci.0eca.MAT">asocieca</ref>,
       ke ekzistas <ref cel="neuxtr.0aelemento">ne&ubreve;tra elemento
@@ -256,18 +280,18 @@
         estas
         adicie signata)</klr>
         <fnt><bib>MatVort</bib></fnt>;
+        <trd lng="be">&c_a;&c_d;&c_y;&c_t;&c_y;&c_w;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
         <trd lng="de">additive <ind>Gruppe</ind></trd>
         <trd lng="en">additive <ind>group</ind></trd>
         <trd lng="fr">groupe additif</trd>
         <trd lng="hu">addit&iacute;v <ind>csoport</ind></trd>        
         <trd lng="pl">grupa addytywna</trd>
-        <trd lng="ru">
-        &c_a;&c_d;&c_d;&c_i;&c_t;&c_i;&c_v;&c_n;&c_a;&c_ja; 
-        <ind>&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;</ind></trd>
+        <trd lng="ru">&c_a;&c_d;&c_d;&c_i;&c_t;&c_i;&c_v;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;</ind></trd>
       </ekz>
       <ekz>
         <ind>multiplika <tld/>o</ind> <klr>(<tld/>o, kies operacio estas
         multiplike signata)</klr>;
+        <trd lng="be">&c_m;&c_u;&c_l;&c_mol;&c_t;&c_y;&c_p;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_y;&c_w;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
         <trd lng="de">multiplikative <ind>Gruppe</ind></trd>
         <trd lng="en">multiplicative <ind>group</ind></trd>
         <trd lng="fr">groupe multiplicatif</trd>
@@ -311,63 +335,138 @@
     <trd lng="pl">grupa<klr tip="ind"> (struktura algebraiczna)</klr>
     </trd>
   </snc>
+  <trd lng="af">groep</trd>
+  <trd lng="am">&#x1261;&#x12F5;&#x1295;</trd>
+  <trd lng="ar">&a_m;&a_j;&a_m;&a_w;&a_ayn;&a_t_marbuta;</trd>
+  <trd lng="az">qrup</trd>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_u;&c_p;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_u;&c_p;&c_o;&c_w;&c_k;&c_a;</trd>,
+    <trd>&c_g;&c_u;&c_r;&c_t;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x997;&#x9CD;&#x9B0;&#x9C1;&#x9AA;</trd>
   <trdgrp lng="cs">
     <trd>grupa</trd>,
     <trd>skupina</trd>
   </trdgrp>
+  <trd lng="cy">gr&wcirc;p</trd>
+  <trd lng="da">gruppe</trd>
   <trd lng="de">Gruppe</trd>
   <trd lng="en">group</trd>
   <trdgrp lng="es">
     <trd>grupo</trd>,
     <trd>conjunto</trd>
   </trdgrp>
+  <trd lng="et">r&uuml;hm</trd>
+  <trd lng="eu">taldea</trd>
   <trd lng="fr">groupe</trd>
+  <trd lng="fy">groep</trd>
+  <trd lng="ga">gr&uacute;pa</trd>
+  <trd lng="gd">buidheann</trd>
+  <trd lng="gl">grupo</trd>
+  <trd lng="gu">&#xA9C;&#xAC2;&#xAA5;</trd>
+  <trd lng="ha">tara</trd>
+  <trd lng="hi">&#x938;&#x92E;&#x942;&#x939;</trd>
+  <trd lng="hmn">pab pawg neeg</trd>
+  <trd lng="hr">skupina</trd>
+  <trd lng="ht">gwoup</trd>
   <trd lng="hu">csoport</trd>
+  <trd lng="hy">&#x56D;&#x578;&#x582;&#x574;&#x562;</trd>
+  <trd lng="ig">otu</trd>
+  <trd lng="is">h&oacute;pur</trd>
+  <trd lng="ja">&#x30B0;&#x30EB;&#x30FC;&#x30D7;</trd>
+  <trd lng="jv">klompok</trd>
+  <trd lng="ka">&#x10EF;&#x10D2;&#x10E3;&#x10E4;&#x10D8;</trd>
+  <trd lng="kk">&c_t;&c_o;&c_p;</trd>
+  <trd lng="km">&#x1780;&#x17D2;&#x179A;&#x17BB;&#x1798;</trd>
+  <trd lng="kn">&#xC97;&#xCC1;&#xC82;&#xCAA;&#xCC1;</trd>
+  <trd lng="ko">&#xADF8;&#xB8F9;</trd>
+  <trd lng="ku">kom</trd>
+  <trd lng="ky">&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;</trd>
+  <trd lng="lo">&#xE81;&#xEB8;&#xEC8;&#xEA1;</trd>
+  <trd lng="lt">grup&#x117;</trd>
+  <trd lng="lv">grupa</trd>
+  <trd lng="mg">vondrona</trd>
+  <trd lng="mi">r&#x14D;p&#x16B;</trd>
+  <trd lng="mk">&c_g;&c_r;&c_u;&c_p;&c_a;</trd>
+  <trd lng="ml">&#xD17;&#xD4D;&#xD30;&#xD42;&#xD2A;&#xD4D;&#xD2A;&#xD4D;</trd>
+  <trd lng="mn">&c_b;&#x4AF;&c_l;&c_e;&c_g;</trd>
+  <trd lng="mr">&#x917;&#x91F;</trd>
+  <trd lng="ms">kumpulan</trd>
+  <trd lng="mt">grupp</trd>
+  <trd lng="my">&#x1021;&#x1005;&#x102F;</trd>
+  <trd lng="ne">&#x938;&#x92E;&#x942;&#x939;</trd>
   <trd lng="nl">groep</trd>
+  <trd lng="ny">gulu</trd>
+  <trd lng="pa">&#xA17;&#xA30;&#xA41;&#xA71;&#xA2A; &#xA28;&#xA42;&#xA70;</trd>
   <trd lng="pl">grupa</trd>
+  <trd lng="ps">&#x689;&a_l;&a_h;</trd>
   <trd lng="pt">grupo</trd>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;</trd>
+  <trd lng="rw">itsinda</trd>
+  <trd lng="sd">&f_g;&a_r;&a_w;&f_p;</trd>
+  <trd lng="si">&#xDB4;&#xDD2;&#xDBB;&#xDD2;&#xDC3;&#xD9A;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>dru&zcaron;ina</trd>,
     <trd>grupa</trd>,
     <trd>oddiel</trd>,
     <trd>skupina</trd>
   </trdgrp>
-  <trd lng="tp">kulupu</trd>
+  <trd lng="sl">skupina</trd>
+  <trd lng="sm">vasega</trd>
+  <trd lng="sn">boka</trd>
+  <trd lng="so">kooxda</trd>
+  <trd lng="sq">grup</trd>
+  <trd lng="st">sehlopha</trd>
+  <trd lng="su">kumpulan</trd>
+  <trd lng="sw">kundi</trd>
+  <trd lng="ta">&#xB95;&#xBC1;&#xBB4;&#xBC1;</trd>
+  <trd lng="te">&#xC38;&#xC2E;&#xC42;&#xC39;&#xC02;</trd>
+  <trd lng="tg">&c_g;&c_u;&c_r;&#x4EF;&#x4B3;</trd>
+  <trd lng="th">&#xE01;&#xE25;&#xE38;&#xE48;&#xE21;</trd>
+  <trd lng="tl">pangkat</trd>
+  <trd lng="tok">kulupu</trd>
+  <trd lng="tt">&c_t;&#x4E9;&c_r;&c_k;&c_je;&c_m;</trd>
+  <trd lng="uk">&c_g;&c_r;&c_u;&c_p;&c_a;</trd>
+  <trd lng="ur">&f_g;&a_r;&a_w;&f_p;</trd>
+  <trd lng="uz">guruh</trd>
+  <trd lng="vi">nh&oacute;m</trd>
+  <trd lng="xh">iqela</trd>
+  <trd lng="yi">&gimel;&resh;&vav;&pe;&#x5BC;&ayin;</trd>
+  <trd lng="yo">&#x1EB9;gb&#x1EB9;</trd>
+  <trd lng="zu">iqoqo</trd>
 </drv>
 
 <drv mrk="grup.0acxo">
   <kap><tld/>a&ccirc;o, <var><kap>fi<tld/>o</kap></var></kap>
   <snc mrk="grup.0acxo.KOMUNE">
     <dif>
-      Malta&ubreve;ga a&ubreve; mal&scirc;atinda <ref tip="super"
-      cel="grup.0o.personoj"><tld/>o</ref>;
+      Malta&ubreve;ga a&ubreve; mal&scirc;atinda <ref tip="super" cel="grup.0o.personoj"><tld/>o</ref>;
       <ref tip="vid" cel="band.0o.bandacxo">bando<sncref/></ref>:
       <ekz>
         la viktimoj, &gcirc;enerale, ne apartenas al la menciitaj fi<tld/>oj
         <fnt>
-          <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="https://www.monato.net/2012/010647.php"
-              >Krimoj senviktimaj</url></vrk>
+          <vrk><url ref="&Monato;/2012/010647.php">Krimoj senviktimaj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/06, p. 5</lok>
         </fnt>;
       </ekz>
       <ekz>
-        ni <klr>[&#8230;]</klr> veturis al la oficejo de Scientologio
-        <klr>[&#8230;]</klr>, <nom>Elvis</nom>
+        ni <klr>[&#x2026;]</klr> veturis al la oficejo de Scientologio
+        <klr>[&#x2026;]</klr>, <nom>Elvis</nom>
         eliris kaj diris &leftquot;fi al tiuj uloj! nepre neniam mi ani&gcirc;os al tiu
         <tld/>a&ccirc;o&rightquot;
         <fnt>
-          <vrk><url ref="http://www.zz9pza.net/tradukoj/scientologio/"
-              >Scientologio</url></vrk>
+          <vrk><url ref="http://www.zz9pza.net/tradukoj/scientologio/">Scientologio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>a&ccirc;oj konkurencantaj por kontrolo de la a&ubreve;tokomerco
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=96448"
-              >Toljatti</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=96448">Toljatti</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -379,12 +478,21 @@
     fi<tld/>o agas
     malmorale, dum &gcirc;i interne povas esti tute bone organizita. &Ccirc;e la du
     supraj
-    ekzemploj pri &leftquot;<tld/>a&ccirc;o&rightquot; do ver&scirc;ajne &leftquot;fi<tld/>o&rightquot; estus la pli trafa
+    ekzemploj pri &leftquot;<tld/>a&ccirc;o&rightquot; do ver&scirc;ajne &leftquot;fi<tld/>o&rightquot; estus la
+    pli trafa
     esprimo.
   </rim>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_n;&c_d;&c_a;</trd>,
+    <trd>&c_z;&c_g;&c_r;&c_a;&c_ja;</trd>
+  </trdgrp>
   <trd lng="de">Bande</trd>
   <trd lng="fr">bande<klr tip="ind"> (groupe)</klr></trd>
   <trd lng="hu">banda</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F92;&#x515A;  [<ind>&#x3068;&#x3068;&#x3046;</ind>]</trd>,
+    <trd>&#x4E00;&#x5473;  [<ind>&#x3072;&#x3068;&#x3042;&#x3058;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bende</trd>
   <trdgrp lng="pl">
     <trd>banda</trd>,
@@ -399,6 +507,11 @@
     <trd>&c_g;&c_r;&c_u;&c_p;&c_p;&c_i;&c_r;&c_o;&c_v;&c_k;&c_a; 
     <klr>(&c_n;&c_je;&c_o;&c_d;&c_o;&c_b;&c_r;.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_g;&c_r;&c_a;&#x44F;</trd>,
+    <trd>&c_b;&c_a;&#x43D;&c_d;&c_a;</trd>,
+    <trd>&#x43A;&#x43B;&c_ib;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="grup.0igi">
@@ -412,19 +525,19 @@
       <ekz>
         oni <tld/>igas la ekzamenitojn
         <fnt>
-          <bib>Monato</bib>
           <aut>Hori Yasuo</aut>
-          <vrk><url ref="https://www.monato.net/2009/009700.php"
-              >Dikuloj maldiki&gcirc;u!</url></vrk>
+          <vrk><url ref="&Monato;/2009/009700.php">Dikuloj maldiki&gcirc;u!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/03, p. 20</lok>
         </fnt>;
       </ekz>
       <ekz>
         ili <tld/>igas sin, kunparolas, kelkaj krias a&ubreve; ridegas
         <fnt>
-          <bib>Monato</bib>
           <aut>Laure Patas d'Illiers</aut>
-          <vrk><url ref="https://www.monato.net/2015/011500.php"
-              >Kiel la aliaj</url></vrk>
+          <vrk><url ref="&Monato;/2015/011500.php">Kiel la aliaj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2015/08, p. 34</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -432,41 +545,43 @@
         re<tld/>igis sin
         malanta&ubreve; la rivero
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="https://www.monato.net/2015/011417.php"
-              >Du novaj muzeoj en Belgio</url></vrk>
+          <vrk><url ref="&Monato;/2015/011417.php">Du novaj muzeoj en
+          Belgio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2015/03, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>igitaj po du kaj tri, kompareble kun <klr>[&#8230;]</klr> la
+        <tld/>igitaj po du kaj tri, kompareble kun <klr>[&#x2026;]</klr> la
         nigraj klavoj en
         klavaro
         <fnt>
-          <bib>Monato</bib>
           <aut>Fons Doomen, prezidanto de Klavar-Unui&gcirc;o Nederlando</aut>
-          <vrk><url ref="https://www.monato.net/2005/008693.php"
-              >Klavarskribo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008693.php">Klavarskribo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/11, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la Plena Verkaro <klr>[&#8230;]</klr> <tld/>igas la zamenhofajn
+        la Plena Verkaro <klr>[&#x2026;]</klr> <tld/>igas la zamenhofajn
         verkojn la&ubreve; kategorioj
         <fnt>
-          <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.net/2007/009079.php"
-              >Mi estas homo</url></vrk>
+          <vrk><url ref="&Monato;/2007/009079.php">Mi estas homo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/05, p. 19</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la urbo <klr>[&#8230;]</klr> estas <tld/>igita en la unua kategorio de
+        la urbo <klr>[&#x2026;]</klr> estas <tld/>igita en la unua kategorio de
         banlokoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="https://www.monato.net/2012/010472.php"
-              >Varmaj vortoj por malvarmaj akvoj</url></vrk>
+          <vrk><url ref="&Monato;/2012/010472.php">Varmaj vortoj por malvarmaj
+          akvoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/10, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -483,14 +598,19 @@
         la disgrupigo de samfamiliaj lingvoj vekas fortajn diskutojn
         inter fakuloj
         <fnt>
-          <bib>Monato</bib>
           <aut>H&egrave;ctor Al&ograve;s i Font</aut>
-          <vrk><url ref="https://www.monato.net/2013/011015.php"
-              >La turka: pli granda, pli diversa familio</url></vrk>
+          <vrk><url ref="&Monato;/2013/011015.php">La turka: pli granda, pli diversa
+          familio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/06, p. 22</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_u;&c_p;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_g;&c_u;&c_r;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>sdru&zcaron;it</trd>,
     <trd>sdru&zcaron;ovat</trd>,
@@ -501,9 +621,14 @@
   <trd lng="es">agrupar</trd>
   <trd lng="fr">grouper</trd>
   <trd lng="hu">csoportos&iacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B0;&#x30EB;&#x30FC;&#x30D7;&#x306B;&#x3059;&#x308B;  [<ind>&#x3050;&#x308B;&#x30FC;&#x3077;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x307E;&#x3068;&#x3081;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">groeperen</trd>
   <trd lng="ru">&c_g;&c_r;&c_u;&c_p;&c_p;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">zoskupi&tcaron;</trd>
+  <trd lng="uk">&c_g;&c_r;&c_u;&#x43F;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="grup.0igxi">
@@ -555,7 +680,21 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_u;&c_p;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_g;&c_u;&c_r;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_c;&c_a; &c_r;&c_a;&c_z;&c_a;&c_m;</trd>
+  </trdgrp>
   <trd lng="de">sich <ind>gruppieren</ind></trd>
+  <trd lng="en">group</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B0;&#x30EB;&#x30FC;&#x30D7;&#x306B;&#x306A;&#x308B;  [<ind>&#x3050;&#x308B;&#x30FC;&#x3077;&#x306B;&#x306A;&#x308B;</ind>]</trd>,
+    <trd>&#x96C6;&#x56E3;&#x306B;&#x306A;&#x308B;  [<ind>&#x3057;&#x3085;&#x3046;&#x3060;&#x3093;&#x306B;&#x306A;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_u;&#x43F;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_g;&c_u;&c_r;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="grup.duon0o">
@@ -567,17 +706,17 @@
       <ref tip="super" cel="grupoi.0o">grupoido</ref>:
       <ekz>
         naturaj nombroj <klr>[estas]</klr> duon<tld/>o rilate al
-        multipliko kaj adicio &#8208;
+        multipliko kaj adicio &#x2010;
         do duonringo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=338"
-              >Aroj de nombroj</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=338">Aroj de nombroj</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="sub" cel="monoid.0o">monoido</ref>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_w;&c_g;&c_r;&c_u;&c_p;&c_a;</trd>
   <trdgrp lng="de">
     <trd>Halbgruppe</trd>
   </trdgrp>
@@ -605,22 +744,23 @@
         60-jarulo
         balbuti, dum 80-jarulo povas flue diskuti
         <fnt>
-          <bib>Monato</bib>
           <aut>Kees Ruig</aut>
-          <vrk><url ref="https://www.monato.net/2013/010843.php"
-              >Esplorego el Nimego</url></vrk>
+          <vrk><url ref="&Monato;/2013/010843.php">Esplorego el Nimego</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/03, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
         la gaela (skota, irlanda kaj manksa) sub<tld/>o apartenas al la
         tiel nomata
-        &leftquot;Q-kelta&#8221; kategorio, dum la kimra kaj la bretona apartenas al la
-        &leftquot;P-kelta&#8221;
+        &leftquot;Q-kelta&#x201D; kategorio, dum la kimra kaj la bretona apartenas al la
+        &leftquot;P-kelta&#x201D;
         <fnt>
+          <aut>Garvan Makaj (Garbhan MacAoidh)</aut>
+          <vrk><url ref="&Monato;/2013/010673.php">Malgravaj lingvoj
+          gravas</url></vrk>
           <bib>Monato</bib>
-          <aut>Garvan Makaj (Garbhan Macaoidh)</aut>
-          <vrk><url ref="https://www.monato.net/2013/010673.php"
-              >Malgravaj lingvoj gravas</url></vrk>
+          <lok>2013/11, p. 26</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -629,35 +769,37 @@
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>MatVort</bib></fnt>
     <dif>
-      <klr>(de <tld/>o <frm am="(bb E,&#8224;)">(<g>E</g>,&#8224;)</frm>)</klr>
+      <klr>(de <tld/>o <frm am="(bb E,&#x2020;)">(<g>E</g>,&#x2020;)</frm>)</klr>
       Tia <ref tip="super" cel="grup.0o.MAT"><tld/>o</ref>
-      <frm am="(bb A,&#8224;_A)">(<g>A</g>,&#8224;<sub>A</sub>)</frm>, ke
-      <frm am="bb A sub bb E"><g>A</g>&#8834;<g>E</g></frm> kaj
-      <frm am="x &#8224;_A y = x &#8224; y">x&#8224;<sub>A</sub>y =
-      x&#8224;y</frm>
-      por &ccirc;iuj <frm am="x, y in bb A">x, y&#8712;<g>A</g></frm>:
+      <frm am="(bb A,&#x2020;_A)">(<g>A</g>,&#x2020;<sub>A</sub>)</frm>, ke
+      <frm am="bb A sub bb E"><g>A</g>&#x2282;<g>E</g></frm> kaj
+      <frm am="x &#x2020;_A y = x &#x2020; y">x&#x2020;<sub>A</sub>y =
+      x&#x2020;y</frm>
+      por &ccirc;iuj <frm am="x, y in bb A">x, y&#x2208;<g>A</g></frm>:
       <ekz>
         nemalplena subaro estas sub<tld/>o nur, se al &gcirc;i apartenas
         rezultoj de la operacio inter kiu ajn unua elemento kaj
         ne&ubreve;triganto de kiu ajn dua;
       </ekz>
       <ekz>
-        geometria simetria grupo <klr>[&#8230;]</klr> estas sub<tld/>o de la 
+        geometria simetria grupo <klr>[&#x2026;]</klr> estas sub<tld/>o de la 
         izometria grupo de la koncernita spaco
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=104624"
-              >Geometria simetria grupo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=104624">Geometria simetria
+          grupo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;</trd>
   <trd lng="cs">podskupina</trd>
   <trd lng="de">Untergruppe</trd>
   <trd lng="en">subgroup</trd>
   <trd lng="es">subconjunto</trd>
   <trd lng="fr">sous-groupe</trd>
   <trd lng="hu">r&eacute;szcsoport</trd>
+  <trd lng="ja">&#x5C0F;&#x30B0;&#x30EB;&#x30FC;&#x30D7;  [<ind>&#x3057;&#x3087;&#x3046;&#x3050;&#x308B;&#x30FC;&#x3077;</ind>]</trd>
   <trd lng="nl">ondergroep</trd>
   <trd lng="pl">podgrupa</trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;</trd>
@@ -674,10 +816,10 @@
       <ekz>
         la konferenco konsistis el dekoj da prelegoj kaj diskut<tld/>oj
         <fnt>
+       <aut>Marc Vanden Bempt</aut>
+          <vrk><url ref="&Monato;/2000/006846.php">Perkomputila tradukado</url></vrk>
           <bib>Monato</bib>
-          <aut>Marc vanden Bempt</aut>
-          <lok><url ref="http://steloj.de/esperanto/monato2/006846.html"
-              >http://steloj.de/esperanto/monato2/006846.html</url></lok>
+          <lok>2000/07, p. 11</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -686,15 +828,15 @@
         informojn kaj i&gcirc;as
         kutimo aperigi sian genealogion en retpa&gcirc;o
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="https://www.monato.net/2006/008970.php"
-              >Genealogio</url></vrk>
+          <vrk><url ref="&Monato;/2006/008970.php">Genealogio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/08, p. 33</lok>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="fak">RET</uzo>
-        la diskut<tld/>oj <klr>[&#8230;]</klr> esperantlingvaj, forigitaj de
+        la diskut<tld/>oj <klr>[&#x2026;]</klr> esperantlingvaj, forigitaj de
         <nom>Yahoo</nom>,
         reaperis frue la 20-an de decembro     
         <fnt>
@@ -709,9 +851,16 @@
       <ref cel="forum.0o.komp">forumo<sncref/></ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_d;&c_y;&c_s;&c_k;&c_u;&c_s;&c_ib;&c_j;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
   <trd lng="cs">diskusn&iacute; krou&zcaron;ek</trd>
+  <trd lng="en">discussion group</trd>
   <trd lng="fr">groupe de discussion</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A0E;&#x8AD6;&#x30B0;&#x30EB;&#x30FC;&#x30D7;  [<ind>&#x3068;&#x3046;&#x308D;&#x3093;&#x3050;&#x308B;&#x30FC;&#x3077;</ind>]</trd>,
+    <trd>&#x30C7;&#x30A3;&#x30B9;&#x30AB;&#x30C3;&#x30B7;&#x30E7;&#x30F3;&#x30FB;&#x30B0;&#x30EB;&#x30FC;&#x30D7;  [<ind>&#x30C7;&#x30A3;&#x30B9;&#x30AB;&#x30C3;&#x30B7;&#x30E7;&#x30F3;&#x30FB;&#x3050;&#x308B;&#x30FC;&#x3077;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">diskusn&yacute; kr&uacute;&zcaron;ok</trd>
+  <trd lng="uk">&c_d;&c_i;&c_s;&#x43A;&c_u;&c_s;&c_ib;&c_j;&#x43D;&c_a; &c_g;&c_r;&c_u;&#x43F;&c_a;</trd>
 </drv>
 
 <drv mrk="grup.faktor0o">
@@ -741,48 +890,49 @@
         li iniciatis labor<tld/>on kun reprezentantoj de sciencaj
         institutoj
         <fnt>
+       <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/006881.php">Universala Retlingvo</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006881.html"
-              >Perkomputila Tradukado: Universala Retlingvo</url></vrk>
+          <lok>2000/04, p. 26</lok>
         </fnt>;
       </ekz>
       <ekz>
         labor<tld/>o de la E&ubreve;ropa Parlamento alvokis la E&ubreve;ropan
         Komisionon listigi
-        tabakfumon <klr>[&#8230;]</klr> kiel kancerigan
+        tabakfumon <klr>[&#x2026;]</klr> kiel kancerigan
         <fnt>
-          <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.net/2005/008581.php"
-              >&Ccirc;u senfuma E&ubreve;ropo?</url></vrk>
+          <vrk><url ref="&Monato;/2005/008581.php">&Ccirc;u senfuma E&ubreve;ropo?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/04, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
         kunordiga labor<tld/>o
         <fnt>
-          <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="https://www.monato.net/2013/011008.php"
-              >Starto al e&ubreve;ro</url></vrk>
+          <vrk><url ref="&Monato;/2013/011008.php">Starto al e&ubreve;ro</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/06, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
         en 2000 labor<tld/>o malfermis pacmuzeon
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="https://www.monato.net/2015/011417.php"
-              >Du novaj muzeoj en Belgio</url></vrk>
+          <vrk><url ref="&Monato;/2015/011417.php">Du novaj muzeoj en
+          Belgio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2015/03, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
         la restarigo de la labor<tld/>o de UEA &ccirc;e Unui&gcirc;intaj Nacioj
-        estas ta&ubreve;ga pa&scirc;o en la <klr>[&#8230;]</klr> strategio kiun
+        estas ta&ubreve;ga pa&scirc;o en la <klr>[&#x2026;]</klr> strategio kiun
         UEA entreprenu
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://www.liberafolio.org/2009/uea-restarigas-laborgrupon-ce-un">
+          <vrk><url ref="http://www.liberafolio.org/2009/uea-restarigas-laborgrupon-ce-un">
           UEA restarigas laborgrupon &ccirc;e UN</url></vrk>,
           <lok>libera folio, 2009-11-05</lok>
         </fnt>.
@@ -793,12 +943,23 @@
       <ref cel="grup.stud0o.POL">studgrupo</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
+  <trdgrp lng="en">
+    <trd>work group</trd>,
+    <trd>working group</trd>
+  </trdgrp>
   <trd lng="fr">groupe de travail</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F5C;&#x696D;&#x73ED;  [<ind>&#x3055;&#x304E;&#x3087;&#x3046;&#x306F;&#x3093;</ind>]</trd>,
+    <trd>&#x4F5C;&#x696D;&#x90E8;&#x4F1A;  [<ind>&#x3055;&#x304E;&#x3087;&#x3046;&#x3076;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x5206;&#x79D1;&#x4F1A;  [<ind>&#x3076;&#x3093;&#x304B;&#x304B;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">pracovn&aacute; skupina</trd>
   <trdgrp lng="cs">
     <trd>pracovn&iacute; parta</trd>,
     <trd>pracovn&iacute; supina</trd>
   </trdgrp>
+  <trd lng="uk">&c_r;&#x43E;&c_b;&#x43E;&c_ch;&c_a; &c_g;&c_r;&c_u;&#x43F;&c_a;</trd>
 </drv>
 
 <drv mrk="grup.muzik0o">
@@ -811,10 +972,10 @@
         en koncertsalono okazis koncerto de e&ubreve;ropaj &hcirc;oroj kaj
         muzik<tld/>oj
         <fnt>
-          <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref="https://www.monato.net/2003/007945.html"
-              >Bukedo de popolarto</url></vrk>
+          <vrk><url ref="&Monato;/2003/007945.html">Bukedo de popolarto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/07, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -822,10 +983,10 @@
         muzik<tld/>oj povas vendi
         al la tuta mondo
         <fnt>
-          <bib>Monato</bib>
           <aut>Thierry Salomon</aut>
-          <vrk><url ref="https://www.monato.net/2003/008016.html"
-              >La mondolingvo</url></vrk>
+          <vrk><url ref="&Monato;/2003/008016.html">La mondolingvo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/09, p. 25</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -833,14 +994,15 @@
         aperigis sian trian
         albumon: &leftquot;&ccirc;iamen plu&rightquot;
         <fnt>
-          <bib>Monato</bib>
           <aut>Rogier Huurman</aut>
-          <vrk><url ref="https://www.monato.net/2014/011175.php"
-              >Longe atendita, ne perdita</url></vrk>
+          <vrk><url ref="&Monato;/2014/011175.php">Longe atendita, ne
+          perdita</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/06, p. 25</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la muzik<tld/>o Kajto <klr>[&#8230;]</klr> prezentos koncerton dum la
+        la muzik<tld/>o Kajto <klr>[&#x2026;]</klr> prezentos koncerton dum la
         3a Novjara Renkonti&gcirc;o
         <fnt><aut>L. Wunsch-Rolshoven</aut>, <vrk>Kajto &ccirc;e la 3a
         Novjara
@@ -849,6 +1011,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_r;&c_t; <klr>(&c_m;&c_u;&c_z;&c_y;&c_ch;&c_n;&c_y;)</klr></trd>,
+    <trd>&c_g;&c_r;&c_u;&c_p;&c_a; <klr>(&c_m;&c_u;&c_z;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>,
+    <trd>&c_a;&c_n;&c_s;&c_a;&c_m;&c_b;&c_l;&c_mol; <klr>(&c_m;&c_u;&c_z;&c_y;&c_ch;&c_n;&c_y;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Musikgruppe</trd>,
     <trd>Band</trd>
@@ -862,6 +1029,10 @@
     <trd>groupe musical</trd>
   </trdgrp>
   <trd lng="hu">zenei <ind>egy&uuml;ttes</ind></trd>  
+  <trdgrp lng="ja">
+    <trd>&#x97F3;&#x697D;&#x30B0;&#x30EB;&#x30FC;&#x30D7;  [<ind>&#x304A;&#x3093;&#x304C;&#x304F;&#x3050;&#x308B;&#x30FC;&#x3077;</ind>]</trd>,
+    <trd>&#x30D0;&#x30F3;&#x30C9;  [<ind>&#x3070;&#x3093;&#x3069;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="grup.prem0o">
@@ -874,18 +1045,22 @@
       sia afero:
       <ekz>
         mondaj financaj prem<tld/>oj
-        <fnt>
+       <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio: 
+          kiu kiun mistifikas?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006947.html"
-              >Reago: Eks-Jugoslavio: kiu kiun mistifikas?</url></vrk>
+          <lok>2000/06, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         prem<tld/>oj subtenantaj la reformojn
         <fnt>
-          <aut>D. E. Rogers</aut>, <vrk>Ekonomia miraklo a&ubreve;
-          malsano?</vrk>, <bib>Monato</bib>,
-          <lok>1997:2, p. 14a</lok>
+          <aut>D. E. Rogers</aut>, 
+          <vrk><url ref="&Monato;/1997/005411.html">Ekonomia miraklo a&ubreve;
+          malsano?</url></vrk>, 
+          <bib>Monato</bib>,
+          <lok>1997/02, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -893,27 +1068,29 @@
         malfermis
         reprezentejojn en Bruselo
         <fnt>
-          <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.net/2004/008331.html"
-              >Judaj premgrupoj en Bruselo</url></vrk>
+          <vrk><url ref="&Monato;/2004/008331.html">Judaj premgrupoj en
+          Bruselo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/06, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
         granda prem<tld/>o en Irlando, la tiel nomata Forumo, postulas,
         ke la
-        irlandgaela <klr>[&#8230;]</klr> estu akceptita kiel laborlingvo de la
+        irlandgaela <klr>[&#x2026;]</klr> estu akceptita kiel laborlingvo de la
         unio
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008344.html">Babele babili</url></vrk>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.net/2004/008344.html"
-              >Babele babili</url></vrk>
+          <lok>2004/09, p. 19</lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="vid" cel="reprezent.0anto">reprezentanto</ref>
   </snc>
+  <trd lng="be">&c_l;&c_o;&c_b;&c_ib;</trd>
   <trd lng="cs">n&aacute;tlakov&aacute; skupina</trd>
   <trd lng="en">lobby</trd>
   <trdgrp lng="fr">
@@ -924,11 +1101,13 @@
     <trd>&eacute;rdekcsoport</trd>,
     <trd>lobby</trd>
   </trdgrp>
+  <trd lng="ja">&#x5727;&#x529B;&#x56E3;&#x4F53;  [<ind>&#x3042;&#x3064;&#x308A;&#x3087;&#x304F;&#x3060;&#x3093;&#x305F;&#x3044;</ind>]</trd>
   <trdgrp lng="ru">
     <trd>&c_g;&c_r;&c_u;&c_p;&c_p;&c_a; &c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_ja;</trd>,
     <trd>&c_l;&c_o;&c_b;&c_b;&c_i;</trd>
   </trdgrp>
   <trd lng="sk">n&aacute;tlakov&aacute; skupina</trd>
+  <trd lng="uk">&c_g;&c_r;&c_u;&#x43F;&c_a; &c_t;&c_i;&c_s;&#x43A;&c_u;/&#x43D;&c_a;&c_t;&c_i;&c_s;&#x43A;&c_u;</trd>
 </drv>
 
 <drv mrk="grup.risko0o">
@@ -944,21 +1123,22 @@
         malbona trasangado
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=224598"
-              >Ungomikozo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=224598">Ungomikozo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         inter la risko<tld/>oj de hepatito B oni kalkulas la
         sangoricevantojn
         <fnt>
-          <aut>V. Lemelev</aut>, <vrk>Virusaj hepatitoj</vrk>,
+          <aut>V. Lemelev</aut>, 
+          <vrk><url ref="&Monato;/2002/007746.html">Virusaj hepatitoj</url></vrk>,
           <bib>Monato</bib>,
-          <lok>2003:1, p. 18a</lok>
+          <lok>2003/01, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_p;&c_a; &c_r;&c_y;&c_z;&c_y;&c_k;&c_ib;</trd>
   <trd lng="de">Risikogruppe</trd>
   <trd lng="en">risk group</trd>
   <trd lng="fr">groupe &agrave; risque</trd>
@@ -972,36 +1152,38 @@
     <uzo tip="fak">FIZL</uzo>
     <dif>
       Iu el la diversaj bio&hcirc;emiaj sangospecoj, precipe tiuj,
-      kiuj karakterizas <tld/>ojn de homoj, inter kiuj <ref tip="vid" 
-      cel="transfuz.0o">transfuzo</ref> eblas: sango<tld/>oj A, B, AB, 
+      kiuj karakterizas <tld/>ojn de homoj, inter kiuj <ref tip="vid" cel="transfuz.0o">transfuzo</ref> eblas: sango<tld/>oj A, B, AB, 
       0...:
       <ekz>
-        pri la mikso li eksciis en 1997, kiam lia &leftquot;patrino&#8221;
+        pri la mikso li eksciis en 1997, kiam lia &leftquot;patrino&#x201D;
         enhospitali&gcirc;is kaj
         kontrolataj estis la sango<tld/>oj de amba&ubreve;
         <fnt>
-          <bib>Monato</bib>
           <aut>Hori Jasuo/pg</aut>
-          <vrk><url ref="https://www.monato.net/2005/008713.php"
-              >Sorto miksita</url></vrk>
+          <vrk><url ref="&Monato;/2005/008713.php">Sorto miksita</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/10, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
-        en Japanujo <klr>[&#8230;]</klr> babilado pri karakteroj la&ubreve; 
+        en Japanujo <klr>[&#x2026;]</klr> babilado pri karakteroj la&ubreve; 
         sango-<tld/>oj estas denove treege moda
         <fnt>
           <aut>Unyue</aut>,
           <vrk>Klas&ccirc;ambro de Unjo</vrk>,
-          <lok><url
-          ref="http://unyue.wordpress.com/2008/09/16/cxu-vi-kredas-pri-tio/">
+          <lok><url ref="http://unyue.wordpress.com/2008/09/16/cxu-vi-kredas-pri-tio/">
           2008-09-16</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_p;&c_a; &c_k;&c_r;&c_y;&c_v;&c_ib;</trd>
   <trd lng="cs">krevn&iacute; skupina</trd>
+  <trd lng="en">blood type</trd>
   <trd lng="fr">groupe sanguin</trd>
+  <trd lng="ja">&#x8840;&#x6DB2;&#x578B;  [<ind>&#x3051;&#x3064;&#x3048;&#x304D;&#x304C;&#x305F;</ind>]</trd>
   <trd lng="sk">krvn&aacute; skupina</trd>
+  <trd lng="uk">&c_g;&c_r;&c_u;&#x43F;&c_a; &#x43A;&c_r;&#x43E;&c_v;&c_ib;</trd>
 </drv>
 
 <drv mrk="grup.stud0o">
@@ -1015,19 +1197,20 @@
         volontuloj-kunlaborantoj de la universitata stud<tld/>o pri
         minacataj lingvo
         <fnt>
-          <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url ref="https://www.monato.net/2004/008346.html"
-              >Lingva bunto</url></vrk>
+          <vrk><url ref="&Monato;/2004/008346.html">Lingva bunto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/09, p. 15</lok>
         </fnt>;
       </ekz>
       <ekz>
         la teknika stud<tld/>o de UEFA
         <fnt>
-          <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="https://www.monato.net/2008/009595.php"
-              >Hispanio venkis, gastigantoj seniluziigis</url></vrk>
+          <vrk><url ref="&Monato;/2008/009595.php">Hispanio venkis, gastigantoj
+          seniluziigis</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/10, p. 26</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -1047,6 +1230,8 @@
       <ref cel="grup.labor0o.POL">laborgrupo</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_p;&c_a; &c_p;&c_a; &c_v;&c_y;&c_v;&c_u;&c_ch;&c_e;&c_n;&c_n;&c_ju;</trd>
+  <trd lng="en">study group</trd>
   <trd lng="fr">groupe d'&eacute;tude</trd>
   <trd lng="sk">&scaron;tudijn&aacute; skupina</trd>
   <trd lng="cs">studijn&iacute; skupina</trd>
@@ -1069,15 +1254,15 @@
         </fnt>;
       </ekz>
       <ekz>
-        prepozicio <klr>[&#8230;]</klr> staras anta&ubreve; alia vorto a&ubreve; vort<tld/>o
+        prepozicio <klr>[&#x2026;]</klr> staras anta&ubreve; alia vorto a&ubreve; vort<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=8893"
-              >Prepozicio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=8893">Prepozicio</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;&c_z;&c_l;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="de">Wortgruppe</trd>
   <trd lng="en">phrase</trd>
   <trdgrp lng="fr">
@@ -1088,6 +1273,7 @@
     <trd>sz&oacute;csoport</trd>,
     <trd>szintagma</trd>
   </trdgrp>
+  <trd lng="ja">&#x8A9E;&#x7FA4;  [<ind>&#x3054;&#x3050;&#x3093;</ind>]</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_l;&c_o;&c_v;&c_o;&c_s;&c_o;&c_ch;&c_je;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_s;&c_i;&c_n;&c_t;&c_a;&c_g;&c_m;&c_a;</trd>
@@ -1108,8 +1294,7 @@
       <ref cel="klas.nmodularesto0o">n-modulaj restoklasoj</ref>,
       provizita
       per la adicio
-      <frm am="(p+n ZZ)+(q+n ZZ) = (p+q)+n ZZ"
-      >(p+n<g>Z</g>)+(q+n<g>Z</g>) = (p+q)+n<g>Z</g></frm>:
+      <frm am="(p+n ZZ)+(q+n ZZ) = (p+q)+n ZZ">(p+n<g>Z</g>)+(q+n<g>Z</g>) = (p+q)+n<g>Z</g></frm>:
       <ekz>
         la <tld/>on de <frm am="n">n</frm>-modulaj restoklasoj oni
         signas per
@@ -1119,6 +1304,7 @@
     </dif>
     <ref tip="vid" cel="cikl.0a.grupo">cikla.</ref>
   </snc>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_p;&c_a; &c_r;&c_e;&c_sh;&c_t;&c_a;&c_w;</trd>
   <trd lng="cs">grupa t&rcaron;&iacute;dy zbytk&uring;</trd>
   <trd lng="de">Restklassengruppe</trd>
   <trd lng="en">residue class <ind>group</ind></trd>
@@ -1144,12 +1330,13 @@
         kutime signas per <frm am="A_n">A<sub>n</sub></frm>;
       </ekz>
       <ekz>
-        por <frm am="n &gt;= 5">n &#8805; 5</frm> la alterna <tld/>o
+        por <frm am="n &gt;= 5">n &#x2265; 5</frm> la alterna <tld/>o
         <frm am="A_n">A<sub>n</sub></frm> estas
         <ref cel="simpl.0a.grupo">simpla</ref>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_n;&c_a;&c_k;&c_a;&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
   <trd lng="cs">alternuj&iacute;c&iacute; grupa</trd>
   <trd lng="de">alternierende <ind>Gruppe</ind></trd>
   <trd lng="en">alternating <ind>group</ind></trd>
@@ -1180,6 +1367,7 @@
   <adm>
     Fonto trovenda. <aut>MB</aut>
   </adm>
+  <trd lng="be">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
   <trd lng="de">Fundamentalgruppe</trd>
   <trd lng="en">fundamental <ind>group</ind></trd>
   <trdgrp lng="fr">
@@ -1192,7 +1380,8 @@
     <trd>grupa fundamentalna</trd>
   </trdgrp>
   <trdgrp lng="ru">
-    <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;</ind></trd>,
+    <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+    <ind>&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;</ind></trd>,
     <trd>&c_g;&c_r;&c_u;&c_p;&c_p;&c_a; &c_P;&c_u;&c_a;&c_n;&c_k;&c_a;&c_r;&c_je;</trd>
   </trdgrp>
 </drv>
@@ -1204,21 +1393,18 @@
     <subsnc mrk="grup.galeza0o.de_superkorpo">
       <dif>
         <klr>(de <ref cel="korp.super0o">superkorpo</ref>
-        <frm am='hat bb K'><g>K'</g></frm>
-        de <ref cel="korp.0o.MAT">korpo</ref> <frm am="bb
-        K"><g>K</g></frm>) </klr>
+        <frm am="hat bb K"><g>K'</g></frm>
+        de <ref cel="korp.0o.MAT">korpo</ref> <frm am="bb         K"><g>K</g></frm>) </klr>
         <ref tip="super" cel="grup.0o.MAT"><tld lit="G"/>o</ref> de 
         &ccirc;iuj <ref cel="auxtom2.0o">a&ubreve;tomorfioj</ref> de 
-        <frm am='hat bb K'><g>K'</g></frm>, kiuj lasas la elementojn
+        <frm am="hat bb K"><g>K'</g></frm>, kiuj lasas la elementojn
         de
         <frm am="bb K"><g>K</g></frm> sen&scirc;an&gcirc;aj:
         <ekz>
-          la galezan <tld/>on de superkorpo <frm am='hat bb
-          K'></frm>
+          la galezan <tld/>on de superkorpo <frm am="hat bb           K"/>
           de
           <frm am="bb K"><g>K</g></frm> oni foje signas per
-          <frm am='Gal(hat bb K / bb
-          K)'>Gal(<g>K'</g>/<g>K</g>)</frm>.
+          <frm am="Gal(hat bb K / bb           K)">Gal(<g>K'</g>/<g>K</g>)</frm>.
         </ekz>
       </dif>
     </subsnc>
@@ -1234,6 +1420,10 @@
   <refgrp tip="vid">
      <ref cel="galez.0o">Galezo</ref>.
    </refgrp>
+   <trdgrp lng="be">
+     <trd>&c_g;&c_r;&c_u;&c_p;&c_a; &c_G;&c_a;&c_l;&c_ju;&c_a;</trd>,
+     <trd>&c_g;&c_a;&c_l;&c_je;&c_z;&c_a;&c_v;&c_a; &c_g;&c_r;&c_u;&c_p;&c_a;</trd>
+   </trdgrp>
   <trd lng="cs">Galoisova grupa <klr>(mnoho&ccaron;lenu| algebraick&eacute;
     rovnice)</klr></trd>
   <trd lng="de">Galoissche <ind>Gruppe</ind><klr tip="ind"> (von K' 
@@ -1244,7 +1434,8 @@
     &eacute;quation)</klr></trd>
   <trd lng="hu">Galois-csoport</trd>
   <trd lng="pl">grupa Galois</trd>
-  <trd lng="ru">&c_g;&c_r;&c_u;&c_p;&c_p;&c_a; &c_G;&c_a;&c_l;&c_u;&c_a; <klr tip="ind"> (K' &c_n;&c_a;&c_d; K,
+  <trd lng="ru">&c_g;&c_r;&c_u;&c_p;&c_p;&c_a; &c_G;&c_a;&c_l;&c_u;&c_a; <klr tip="ind"> (K'
+  &c_n;&c_a;&c_d; K,
     &c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_ja;)</klr></trd>
   <trd lng="sk">Galiosova grupa</trd>
   <adm>
@@ -1264,13 +1455,10 @@
       <frm am="bb H"><g>H</g></frm> de &gcirc;i) </klr>
       La aro de &ccirc;iuj
       <ref tip="prt" cel="klas.flanka0o">flankaj klasoj</ref> de
-      <frm am="bb G"><g>G</g></frm> rilate al <frm am="bb
-      H"><g>H</g></frm>, 
+      <frm am="bb G"><g>G</g></frm> rilate al <frm am="bb       H"><g>H</g></frm>, 
       provizita per la
-      operacio <frm am="(a bb H)*(b bb H) =
-      (a*b) bb H">(a<g>H</g>)&middot;(b<g>H</g>) =
-      (a&middot;b)<g>H</g></frm>; simb. <frm am="bb G / bb
-      H"><g>G</g>/<g>H</g></frm>.
+      operacio <frm am="(a bb H)*(b bb H) =       (a*b) bb H">(a<g>H</g>)&middot;(b<g>H</g>) =
+      (a&middot;b)<g>H</g></frm>; simb. <frm am="bb G / bb       H"><g>G</g>/<g>H</g></frm>.
     </dif>
     <rim>
       Ni preferas tiun terminon al la sinonima, malpli travidebla
@@ -1279,6 +1467,7 @@
       <fnt><bib>MatStokTerm</bib>, <lok>p. 19</lok></fnt>.
     </rim>
   </snc>
+  <trd lng="be">&c_f;&c_a;&c_k;&c_t;&c_a;&c_r;-&c_g;&c_r;&c_u;&c_p;&c_a;</trd>
   <trdgrp lng="de">
     <trd>Quotientengruppe</trd>,
     <trd>Faktorgruppe</trd>
@@ -1313,6 +1502,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_y;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
   <trd lng="de">symmetrische <ind>Gruppe</ind></trd>
   <trd lng="en">symmetrical <ind>group</ind></trd>
   <trd lng="fr">groupe sym&eacute;trique</trd>
@@ -1323,27 +1513,28 @@
 </drv>
 </art>
 <!--
-$Log: grup.xml,v $
-versio 1.69 2020/02/14 19:10:18
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.156 2023/05/13 05:26:54
+Paul Peeraerts: kor de tajperaro
 
-Revision 1.68  2020/02/13 15:10:14  revo
-Wolfram Diestel: formulo per atributo am
+versio 1.155 2023/05/11 18:30:09
+Paul Peeraerts: lok, + url
 
-Revision 1.67  2020/02/11 20:10:24  revo
-Wolfram Diestel: formuloj per AsciiMath
+versio 1.154 2023/04/25 12:45:49
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.66  2019/09/01 09:10:15  revo
-Wolfram Diestel: +ekz-oj, +snc sub~o KOMUNE
+versio 1.153 2023/04/24 15:27:49
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.65  2019/09/01 06:10:13  revo
-Wolfram Diestel: ~o: ekz-oj; +~igxi
+versio 1.152 2023/04/11 14:37:23
+aktualigo Monato-URL
 
-Revision 1.64  2016/02/28 19:10:34  revo
-Wolfram Diestel: riparo: adm forighis per skripto de Laer pro
-interlokita traduko
+versio 1.151 2023/04/07 15:26:59
+Paul Peeraerts: &Monato;
 
-Revision 1.63  2015/07/04 08:37:35  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.150 2023/01/07 09:26:10
+Wolfram Diestel: +ref-oj
+
+versio 1.149 2022/04/30 08:42:40
 -->
 </vortaro>

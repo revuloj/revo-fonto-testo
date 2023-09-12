@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kun.xml,v 1.57 2020/02/15 17:10:21 revo Exp $">
+<art mrk="$Id: kun.xml,v 1.146 2023/09/05 18:30:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kun</rad>
@@ -499,34 +498,111 @@
       </ekz>
     </rim>
   </snc>
+  <trd lng="af">met</trd>
+  <trd lng="am">&#x130B;&#x122D;</trd>
+  <trd lng="ar">&a_m;&a_ayn;</trd>
+  <trd lng="az">il&#601;</trd>
+  <trd lng="be">&c_z;</trd>
   <trd lng="bg">&c_s;</trd>
+  <trd lng="bn">&#x9B8;&#2457;&#x9CD;&#2455;&#x9C7;</trd>
+  <trd lng="bo">&t_ma;&t_nya;&t_ma;&t_tsheg;&t_da;&t_shabchu;&t_tsheg;</trd>
+  <trd lng="bs">s</trd>
   <trd lng="ca">amb</trd>
+  <trd lng="co">c&ugrave;</trd>
   <trdgrp lng="cs">
     <trd>s</trd>,
     <trd>se <klr>(7. p&aacute;d)</klr></trd>
   </trdgrp>
+  <trd lng="cy">gyda</trd>
+  <trd lng="da">med</trd>
   <trd lng="de">mit</trd>
   <trd lng="en">with</trd>
   <trd lng="es">con</trd>
+  <trd lng="et">koos</trd>
+  <trd lng="eu">honekin</trd>
   <trd lng="fr">avec</trd>
+  <trd lng="fy">sy</trd>
+  <trd lng="ga">le</trd>
+  <trd lng="gd">le</trd>
+  <trd lng="gl">con</trd>
+  <trd lng="gu">&#xAB8;&#xABE;&#xAA5;&#xAC7;</trd>
+  <trd lng="ha">tare da</trd>
+  <trd lng="hi">&#2360;&#x93E;&#2341;</trd>
+  <trd lng="hmn">nrog</trd>
+  <trd lng="hr">s</trd>
+  <trd lng="ht">ak</trd>
   <trdgrp lng="hu">
     <trd>-<ind>val</ind></trd>,
     <trd>-<ind>vel</ind></trd>
   </trdgrp>
+  <trd lng="hy">&#1392;&#1381;&#x57F;</trd>
+  <trd lng="ig">&#x1ECD;r&#x1EE5;</trd>
+  <trd lng="is">me&#xF0;</trd>
   <trd lng="it">con</trd>
+  <trd lng="ja">&#12392;&#12392;&#12418;&#x306B;</trd>
+  <trd lng="jv">karo</trd>
+  <trd lng="ka">&#x10D4;&#x10E0;&#x10D7;&#x10D0;&#x10D3;</trd>
+  <trd lng="kk">&c_b;&c_ib;&c_r;&c_g;&c_je;</trd>
+  <trd lng="km">&#6023;&#x17B6;&#6040;&#x17BD;&#6041;&#6035;&#x17B9;&#6020;</trd>
+  <trd lng="kn">&#xC9C;&#xCCA;&#xCA4;&#xCC6;</trd>
+  <trd lng="ko">&#xC640;</trd>
+  <trd lng="ku">bi</trd>
+  <trd lng="ky">&c_m;&c_je;&c_n;&c_je;&c_n;</trd>
+  <trd lng="lat">cum</trd>
+  <trd lng="lo">&#xE81;&#xEB1;&#xE9A;</trd>
+  <trd lng="lt">su</trd>
+  <trd lng="lv">ar</trd>
+  <trd lng="mg">amin&#8217;ny</trd>
+  <trd lng="mi">ki</trd>
+  <trd lng="mk">&c_s;&c_o;</trd>
+  <trd lng="ml">&#xD15;&#xD42;&#xD1F;&#xD46;</trd>
+  <trd lng="mn">&c_n;&c_mol;</trd>
+  <trd lng="mr">&#2360;&#2361;</trd>
+  <trd lng="ms">dengan</trd>
+  <trd lng="mt">ma</trd>
+  <trd lng="my">&#4116;&#x103E;&#4100;&#4151;&#x103A;</trd>
+  <trd lng="ne">&#2360;&#2306;&#2327;</trd>
   <trd lng="nl">met</trd>
+  <trd lng="ny">ndi</trd>
   <trdgrp lng="oc">
     <trd>amb</trd>,
     <trd>ambe</trd>
   </trdgrp>
-  <trd lng="pl">z <klr> (wraz)</klr></trd>     
-  <trd lng="ro">cu</trd>  
+  <trd lng="pa">&#xA26;&#xA47; &#xA28;&#xA3E;&#xA32;</trd>
+  <trd lng="pl">z <klr> (wraz)</klr></trd>
+  <trd lng="ps">&a_s;&a_r;&a_h;</trd>
+  <trd lng="ro">cu</trd>
   <trd lng="ru">&c_s;</trd>
+  <trd lng="rw">hamwe na</trd>
+  <trd lng="sd">&a_s;&a_A;&a_n;</trd>
+  <trd lng="si">&#xDC3;&#xDB8;&#xD9C;</trd>
   <trdgrp lng="sk">
     <trd>s</trd>,
     <trd>so</trd>
   </trdgrp>
+  <trd lng="sl">s</trd>
+  <trd lng="sm">i</trd>
+  <trd lng="sn">ne</trd>
+  <trd lng="so">la</trd>
+  <trd lng="sq">me</trd>
+  <trd lng="st">le</trd>
+  <trd lng="su">jeung</trd>
   <trd lng="sv">med</trd>
+  <trd lng="sw">kwa</trd>
+  <trd lng="ta">&#xB89;&#xB9F;&#xBA9;&#xBCD;</trd>
+  <trd lng="te">&#xC24;&#xC4B;</trd>
+  <trd lng="tg">&c_a;&c_z;</trd>
+  <trd lng="th">&#xE14;&#xE49;&#xE27;&#xE22;</trd>
+  <trd lng="tl">may</trd>
+  <trd lng="tt">&c_b;&c_je;&c_l;&#x4D9;&c_n;</trd>
+  <trd lng="uk">&c_je;&c_ja;&c_k;&c_ib;</trd>
+  <trd lng="ur">&f_k;&#x6D2; &a_s;&a_A;&a_t;&#x6BE;</trd>
+  <trd lng="uz">bilan</trd>
+  <trd lng="vi">v&#x1EDB;i</trd>
+  <trd lng="xh">kunye</trd>
+  <trd lng="yi">&mem;&yod;&tet;</trd>
+  <trd lng="yo">p&#x1EB9;lu</trd>
+  <trd lng="zu">nge</trd>
 </drv>
 </subart>
 
@@ -611,6 +687,15 @@
     </dif>
     <ref tip="vid" cel="op.0">-op</ref>
   </snc>
+  <trd lng="af">saam</trd>
+  <trd lng="am">&#x12A0;&#4757;&#x12F5; &#x120B;&#x12E8;</trd>
+  <trd lng="ar">&a_m;&a_ayn;&a_A;</trd>
+  <trd lng="az">birlikd&#601;</trd>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_a;&c_m;</trd>
+  <trd lng="bn">&#x98F;&#2453;&#x9B8;&#2457;&#x9CD;&#2455;&#x9C7;</trd>
+  <trd lng="bo">&t_ma;&t_nya;&t_ma;&t_tsheg;&t_da;&t_shabchu;&t_tsheg;</trd>
+  <trd lng="bs">zajedno</trd>
+  <trd lng="co">nsemmula</trd>
   <trdgrp lng="cs">
     <trd>celkem</trd>,
     <trd>dohromady</trd>,
@@ -618,16 +703,58 @@
     <trd>spolu</trd>,
     <trd>vcelku</trd>
   </trdgrp>
+  <trd lng="cy">gyda&#8217;i gilydd</trd>
+  <trd lng="da">sammen</trd>
   <trd lng="de">zusammen</trd>
   <trd lng="en">together</trd>
   <trdgrp lng="es">
     <trd>en com&uacute;n</trd>,
     <trd>conjuntamente<klr tip="ind"> (adv.)</klr></trd>
   </trdgrp>
+  <trd lng="et">kokku</trd>
+  <trd lng="eu">elkarrekin</trd>
   <trd lng="fr">ensemble<klr tip="ind"> (adv.)</klr></trd>
+  <trd lng="fy">mei-inoar</trd>
+  <trd lng="ga">le ch&eacute;ile</trd>
+  <trd lng="gd">c&ograve;mhla</trd>
+  <trd lng="gl">xuntos</trd>
+  <trd lng="gu">&#xA8F;&#xA95; &#xAB8;&#xABE;&#xAA5;&#xAC7;</trd>
+  <trd lng="ha">tare</trd>
+  <trd lng="hi">&#x90F;&#2325; &#2360;&#x93E;&#2341;</trd>
+  <trd lng="hmn">ua ke</trd>
+  <trd lng="hr">zajedno</trd>
+  <trd lng="ht">ansanm</trd>
   <trd lng="hu">egy&uuml;tt</trd>
+  <trd lng="hy">&#1396;&#x56B;&#1377;&#x57D;&#x56B;&#1398;</trd>
+  <trd lng="ig">&#x1ECD;n&#x1EE5;</trd>
+  <trd lng="is">saman</trd>
   <trd lng="it">assieme</trd>
+  <trd lng="ja">&#x4E00;&#x7DD2;&#x306B; [<ind>&#12356;&#12387;&#12375;&#12423;&#x306B;</ind>]</trd>
+  <trd lng="jv">bebarengan</trd>
+  <trd lng="ka">&#x10D4;&#x10E0;&#x10D7;&#x10D0;&#x10D3;</trd>
+  <trd lng="kk">&c_b;&c_ib;&c_r;&c_g;&c_je;</trd>
+  <trd lng="km">&#x179A;&#x17BD;&#6040;&#6018;&#x17D2;&#6035;&#x17B6;</trd>
+  <trd lng="kn">&#xC92;&#xC9F;&#xCCD;&#xC9F;&#xCBF;&#xC97;&#xCC6;</trd>
+  <trd lng="ko">&#xD568;&#xAED8;</trd>
+  <trd lng="ku">bihevra</trd>
+  <trd lng="ky">&c_b;&c_i;&c_r;&c_g;&c_je;</trd>
+  <trd lng="lat">simul</trd>
+  <trd lng="lo">&#xEAE;&#xEC8;&#xEA7;&#xEA1;&#xE81;&#xEB1;&#xE99;</trd>
+  <trd lng="lt">kartu</trd>
+  <trd lng="lv">kop&#x15D1;</trd>
+  <trd lng="mg">miara</trd>
+  <trd lng="mi">tahi</trd>
+  <trd lng="mk">&c_z;&c_a;&c_je;&c_d;&c_n;&c_o;</trd>
+  <trd lng="ml">&#xD12;&#xD28;&#xD4D;&#xD28;&#xD3F;&#xD1A;&#xD4D;&#xD1A;&#xD4D;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_m;&c_t;&c_d;&c_a;&c_a;</trd>
+  <trd lng="mr">&#x90F;&#2325;&#2340;&#x94D;&#2352;</trd>
+  <trd lng="ms">bersama-sama</trd>
+  <trd lng="mt">flimkien</trd>
+  <trd lng="my">&#4129;&#4112;&#4144;&#4112;&#4144;</trd>
+  <trd lng="ne">&#2360;&#2305;&#2327;&#2376;</trd>
   <trd lng="nl">samen</trd>
+  <trd lng="ny">pamodzi</trd>
+  <trd lng="pa">&#xA07;&#xA15;&#xA71;&#xA20;&#xA47; &#xA39;&#xA4B; &#xA15;&#xA47;</trd>
   <trdgrp lng="pl">
     <trd>pospo&lstroke;u</trd>,
     <trd>razem</trd>,
@@ -635,10 +762,36 @@
     <trd>wsp&oacute;lnie</trd>,
     <trd>zarazem</trd>
   </trdgrp>
+  <trd lng="ps">&f_p;&a_h; &#x6AB;&#1673;&a_h;</trd>
   <trd lng="ro">&icirc;mpreun&abreve;</trd>
   <trd lng="ru">&c_v;&c_m;&c_je;&c_s;&c_t;&c_je;</trd>
+  <trd lng="rw">hamwe</trd>
+  <trd lng="sd">&f_g;&#x68F;</trd>
+  <trd lng="si">&#xD91;&#xD9A;&#xDA7;</trd>
   <trd lng="sk">spolo&ccaron;ne</trd>
+  <trd lng="sl">skupaj</trd>
+  <trd lng="sm">fa&#x2BB;atasi</trd>
+  <trd lng="sn">pamwe chete</trd>
+  <trd lng="so">wada</trd>
+  <trd lng="sq">s&euml; bashku</trd>
+  <trd lng="st">hammoho</trd>
+  <trd lng="su">bareng</trd>
   <trd lng="sv">tillsammans</trd>
+  <trd lng="sw">pamoja</trd>
+  <trd lng="ta">&#xB92;&#xBA9;&#xBCD;&#xBB1;&#xBBE;&#xB95;</trd>
+  <trd lng="te">&#xC15;&#xC32;&#xC3F;&#xC38;&#xC3F;</trd>
+  <trd lng="tg">&#x4B3;&c_a;&c_m;&c_r;&c_o;&#x4B3;</trd>
+  <trd lng="th">&#xE40;&#xE02;&#xE49;&#xE32;&#xE14;&#xE49;&#xE27;&#xE22;&#xE01;&#xE31;&#xE19;</trd>
+  <trd lng="tl">magkasama</trd>
+  <trd lng="tt">&c_b;&c_je;&c_r;&c_g;&#x4D9;</trd>
+  <trd lng="uk">&c_r;&c_a;&c_z;&c_o;&c_m;</trd>
+  <trd lng="ur">&a_A;&f_y;&f_k; &a_s;&a_A;&a_t;&#x6BE; &a_m;&a_l; &f_k;&a_r;</trd>
+  <trd lng="uz">birga</trd>
+  <trd lng="vi">c&ugrave;ng</trd>
+  <trd lng="xh">kunye</trd>
+  <trd lng="yi">&tsadi;&vav;&zayin;&alef;&#x5B7;&mem;&ayin;&fnun;</trd>
+  <trd lng="yo">papo</trd>
+  <trd lng="zu">ndawonye</trd>
 </drv>
 
 <drv mrk="kun.0e0">
@@ -700,7 +853,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ja">&#xFF5E;<ind>&#12392;&#12356;&#12387;&#12375;&#12423;&#x306B;</ind></trd>
   <trd lng="lat">una cum</trd>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_a;&c_m; &c_z;</trd>
   <trdgrp lng="cs">
     <trd>s</trd>,
     <trd>se <klr>(7. p&aacute;d)</klr></trd>
@@ -721,7 +876,7 @@
   </trdgrp>
   <trd lng="it">assieme a</trd>
   <trd lng="nl">samen met</trd>
-  <trd lng="pl">razem z</trd>     
+  <trd lng="pl">razem z</trd>
   <trd lng="ro">&icirc;mpreun&abreve; cu</trd>
   <trd lng="ru">&c_v;&c_m;&c_je;&c_s;&c_t;&c_je; &c_s;</trd>
   <trdgrp lng="sk">
@@ -735,8 +890,7 @@
   <kap><tld/>a</kap>
   <snc mrk="kun.0a.KOMUNE">
     <dif>
-      <tld lit="K"/>e rilata; <ref tip="sin"
-      cel="komun.0a.rilata_al_pluraj">komuna</ref>;
+      <tld lit="K"/>e rilata; <ref tip="sin" cel="komun.0a.rilata_al_pluraj">komuna</ref>;
       havanta saman lokon a&ubreve; celon:
       <ekz>
         <tld/>a sufero, <tld/>a &gcirc;ojo
@@ -753,6 +907,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_m;&c_je;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="cs">spole&ccaron;n&yacute;</trd>
   <trdgrp lng="de">
     <trd>beisammen</trd>,
@@ -769,10 +927,15 @@
     <trd>unito<klr> (in relazione con)</klr></trd>,
     <trd>congiunto<klr> (in relazione con)</klr></trd>
   </trdgrp>
-  <trd lng="pl">wsp&oacute;lny</trd>     
+  <trdgrp lng="ja">
+    <trd>&#12356;&#12387;&#12375;&#12423;&#x306E;</trd>,
+    <trd>&#x540C;&#12376;  [<ind>&#x304A;&#x306A;&#12376;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">wsp&oacute;lny</trd>
   <trd lng="ro">comun</trd>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">spolo&ccaron;n&yacute;</trd>
+  <trd lng="uk">&c_s;&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="kun.0ajxo">
@@ -781,13 +944,13 @@
     <dif>
       Aro da <tld/>igitaj objektoj:
       <ekz>
-        EU ne estas &scirc;tato, sed ia speco de &leftquot;konfederacio&#8221;, nome
+        EU ne estas &scirc;tato, sed ia speco de &leftquot;konfederacio&#x201D;, nome
         <tld/>a&jcirc;o de &scirc;tatoj,
         kiuj interkonsentis pri komunaj agadoj en difinitaj kampoj
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.be/2004/008438.html">E&ubreve;ropo
+          <vrk><url ref="&Monato;/2004/008438.html">E&ubreve;ropo
           ekzemplo de bono kaj malbono</url></vrk>
           <lok>2004</lok>
         </fnt>.
@@ -799,6 +962,12 @@
       <ref cel="garb.0o">garbo</ref>,
       <ref cel="tut.0ajxo">tuta&jcirc;o</ref>.
     </refgrp>
+    <trdgrp lng="de">
+      <trd>Gebilde</trd>,
+      <trd>Gef&uuml;ge</trd>,
+      <trd>Verbindung</trd>,
+      <trd>Vereinigung</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>paquete</trd>,
       <trd>conjunto</trd>
@@ -826,7 +995,7 @@
       <ekz>
         la <tld/>a&jcirc;on de <frm am="bb E"><g>E</g></frm> kaj
         <frm am="bb F"><g>F</g></frm>
-        oni signas per <frm am="bb E uu bb F"><g>E</g>&#8746;<g>F</g></frm>
+        oni signas per <frm am="bb E uu bb F"><g>E</g>&#x222A;<g>F</g></frm>
         <klr> (legu: e a&ubreve; <nom>fo</nom>, a&ubreve;: e kun <nom>fo</nom>)</klr>;
       </ekz>
       <ekz>
@@ -850,9 +1019,17 @@
     <trd lng="ru">&c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;<klr tip="ind">
         (&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;)</klr></trd>
   </snc>
-  <trd lng="ro">rela&#539;ie comun&abreve;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5BC4;&#x305B;&#x96C6;&#12417;  [<ind>&#12424;&#x305B;&#12354;&#12388;&#12417;</ind>]</trd>,
+    <trd>&#x7D44;&#x307F;&#21512;&#x308F;&#x305B;  [<ind>&#x304F;&#x307F;&#12354;&#x308F;&#x305B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ro">rela&#x21B;ie comun&abreve;</trd>
   <trd lng="ru">&c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="it">complesso<klr> (sost.)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#8217;&c_jeu;&c_d;&c_n;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_b;&c_ib;&c_r;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kun.0eco">
@@ -887,6 +1064,10 @@
     <trd>Zusammensein</trd>,
     <trd>Beisammensein</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>togetherness</trd>,
+    <trd>company<klr> (companionship)</klr></trd>
+  </trdgrp>
   <trd lng="es">convivencia</trd>
   <trd lng="fr">coexistence</trd>
   <trdgrp lng="hu">
@@ -898,8 +1079,12 @@
     <trd>concomitanza</trd>,
     <trd>comunanza</trd>
   </trdgrp>
-  <trd lng="pl">wsp&oacute;lnota</trd>     
-  <trd lng="ro">comunitate</trd>  
+  <trdgrp lng="ja">
+    <trd>&#x95A2;&#x4FC2;  [<ind>&#x304B;&#12435;&#12369;&#12356;</ind>]</trd>,
+    <trd>&#x7D50;&#12403;&#12388;&#x304D;  [<ind>&#12416;&#12377;&#12403;&#12388;&#x304D;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">wsp&oacute;lnota</trd>
+  <trd lng="ro">comunitate</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_l;&c_i;&c_z;&c_o;&c_s;&c_t;&c_mol;</trd>
@@ -909,6 +1094,7 @@
     <trd>pospolitos&tcaron;</trd>,
     <trd>spolo&ccaron;enstvo</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
 </drv>
 
 <drv mrk="kun.0igi">
@@ -972,6 +1158,13 @@
       <ref cel="unu.0igi">unuigi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&#8217;&c_ja;&c_d;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_kha;&t_tsheg;&t_da;&t_ka;&t_rata;&t_gigu;&t_sa;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>d&aacute;t dohromady</trd>,
     <trd>sdru&zcaron;it</trd>,
@@ -980,10 +1173,17 @@
     <trd>stmelit</trd>
   </trdgrp>
   <trdgrp lng="de">
+    <trd>verbinden</trd>,
     <trd>vereinigen</trd>,
     <trd>vereinen</trd>,
     <trd>zusammentun</trd>,
     <trd>zusammenf&uuml;gen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>assemble</trd>,
+    <trd>join together</trd>,
+    <trd>put together</trd>,
+    <trd>bring together</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>reunir</trd>,
@@ -1009,6 +1209,12 @@
     <trd>accoppiare</trd>,
     <trd>agglomerare</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12356;&#12387;&#12375;&#12423;&#x306B;&#12377;&#x308B;</trd>,
+    <trd>&#x307E;&#12392;&#12417;&#x308B;</trd>,
+    <trd>&#x96C6;&#12417;&#x308B;  [<ind>&#12354;&#12388;&#12417;&#x308B;</ind>]</trd>,
+    <trd>&#x7D50;&#12403;&#12388;&#12369;&#x308B;  [<ind>&#12416;&#12377;&#12403;&#12388;&#12369;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">samenvoegen</trd>
   <trdgrp lng="pl">
     <trd>&lstroke;&aogonek;czy&cacute;</trd>,
@@ -1020,7 +1226,7 @@
   <trdgrp lng="ro">
     <trd>uni</trd>,
     <trd>al&abreve;tura</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_o;&c_v;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
@@ -1033,6 +1239,12 @@
   <trdgrp lng="sv">
     <trd>sammanf&ouml;ra</trd>,
     <trd>f&ouml;rena</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#8217;&c_jeu;&c_d;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_jeu;&c_d;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_p;&c_o;&c_l;&c_u;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i; &c_d;&c_o;&c_k;&c_u;&c_p;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -1048,6 +1260,8 @@
     <trd lng="ru">&c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;<klr tip="ind">
         (&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;)</klr></trd>
   </snc>
+  <trd lng="en">union (of sets)</trd>
+  <trd lng="uk">&c_s;&c_p;&c_o;&c_l;&c_u;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="kun.0igxi">
@@ -1132,8 +1346,20 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&#8217;&c_ja;&c_d;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>zusammenkommen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>come together</trd>,
+    <trd>join</trd>,
+    <trd>gather</trd>,
+    <trd>assemble</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>reunirse</trd>,
@@ -1151,10 +1377,20 @@
     <trd>accoppiarsi</trd>,
     <trd>conglomerarsi</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12356;&#12387;&#12375;&#12423;&#x306B;&#x306A;&#x308B;</trd>,
+    <trd>&#x307E;&#12392;&#x307E;&#x308B;</trd>,
+    <trd>&#x96C6;&#x307E;&#x308B;  [<ind>&#12354;&#12388;&#x307E;&#x308B;</ind>]</trd>,
+    <trd>&#x7D50;&#12403;&#12388;&#x304F;  [<ind>&#12416;&#12377;&#12403;&#12388;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">samenkomen</trd>
-  <trd lng="pl">pojedna&cacute; si&eogonek;</trd>     
+  <trd lng="pl">pojedna&cacute; si&eogonek;</trd>
   <trd lng="ro">reconciliate fi</trd>
   <trd lng="ru">&c_o;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#8217;&c_jeu;&c_d;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;&c_s;&c_ja; &c_d;&c_o;&c_k;&c_u;&c_p;&c_i;/&c_r;&c_a;&c_z;&c_o;&c_m;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kun.0ulo">
@@ -1172,7 +1408,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        tiu <klr>[&#8230;]</klr> ne faras malbonon al sia <tld/>ulo, 
+        tiu <klr>[&#8230;]</klr> ne faras malbonon al sia <tld/>ulo,
         kaj ne &jcirc;etas malhonoron sur sian proksimulon
         <fnt><bib>MT</bib>, <lok>&Psa; 15:2-3</lok></fnt>;
       </ekz>
@@ -1230,11 +1466,19 @@
     <trdgrp lng="de">
       <trd>Gef&auml;hrte</trd>,
       <trd>Kumpel</trd>,
+      <trd>Partner</trd>
     </trdgrp>
   </snc>
+  <trd lng="bo">&t_ra;&t_naro;&t_ga;&t_sa;&t_tsheg;&t_pa;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>druh</trd>,
     <trd>spole&ccaron;n&iacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>buddy</trd>,
+    <trd>companion</trd>,
+    <trd>comrade</trd>,
+    <trd>partner</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>compa&ntilde;ero</trd>,
@@ -1247,17 +1491,25 @@
   </trdgrp>
   <trd lng="hu">t&aacute;rs</trd>
   <trd lng="it">compagno</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EF2;&#38291;  [<ind>&#x306A;&#x304B;&#x307E;</ind>]</trd>,
+    <trd>&#36899;&#x308C;  [<ind>&#12389;&#x308C;</ind>]</trd>,
+    <trd>&#x540C;&#x4F34;&#32773;  [<ind>&#12393;&#12358;&#x306F;&#12435;&#12375;&#12419;</ind>]</trd>,
+    <trd>&#x76F8;&#x65B9;  [<ind>&#12354;&#12356;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x76F8;&#x68D2;  [<ind>&#12354;&#12356;&#x307C;&#12358;</ind>]</trd>,
+    <trd>&#x30D1;&#x30FC;&#x30C8;&#x30CA;&#x30FC;  [<ind>&#12401;&#x30FC;&#12392;&#x306A;&#x30FC;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">metgezel</trd>
   <trdgrp lng="pl">
     <trd>kompan</trd>,
     <trd>konkubent</trd>,
     <trd>kum</trd>
-  </trdgrp>    
+  </trdgrp>
   <trdgrp lng="ro">
-    <trd>&icirc;nso&#539;itor</trd>,
+    <trd>&icirc;nso&#x21B;itor</trd>,
     <trd>coabitant</trd>,
     <trd>prieten bun</trd>
-  </trdgrp>    
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_t;&c_o;&c_v;&c_a;&c_r;&c_i;&c_shch;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_ja;&c_t;&c_je;&c_l;&c_mol;</trd>
@@ -1265,6 +1517,11 @@
   <trdgrp lng="sk">
     <trd>partner</trd>,
     <trd>spolo&ccaron;n&iacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_i;&c_ja;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_t;&c_o;&c_v;&c_a;&c_r;&c_i;&c_sh;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_a;&c_r;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
 </drv>
 
@@ -1300,7 +1557,15 @@
       <trd>Gruppe</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&#8217;&c_ja;&c_d;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_s;&c_a;&c_d;&c_r;&c_u;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_ib;&c_ja;</trd>,
+    <trd>&c_t;&c_a;&c_v;&c_a;&c_r;&c_y;&c_s;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
   <trd lng="cs">spole&ccaron;n&iacute;ci</trd>
+  <trd lng="en">company<klr> (companions)</klr></trd>
   <trdgrp lng="es">
     <trd>compa&ntilde;&iacute;a<klr> (grupo de personas)</klr></trd>,
     <trd>grupo<klr> (de personas)</klr></trd>
@@ -1309,7 +1574,11 @@
     <trd>compagnie<klr> (groupe de personnes)</klr></trd>,
     <trd>groupe<klr> (de personnes)</klr></trd>
   </trdgrp>
-  <trd lng="pl">dru&zdot;yna <klr> (zast&eogonek;p towarzyszy)</klr></trd>     
+  <trdgrp lng="ja">
+    <trd>&#x4EF2;&#38291;  [<ind>&#x306A;&#x304B;&#x307E;</ind>]</trd>,
+    <trd>&#x4E00;&#x540C;  [<ind>&#12356;&#12385;&#12393;&#12358;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">dru&zdot;yna <klr> (zast&eogonek;p towarzyszy)</klr></trd>
   <trd lng="ro">companie <klr> (nu ca institutie !)</klr></trd>
   <trd lng="sk">spolo&ccaron;n&iacute;ci</trd>
 </drv>
@@ -1345,12 +1614,11 @@
         </fnt>;
       </ekz>
       <ekz>
-        li partoprenis la sportojn de la infanoj kun 
+        li partoprenis la sportojn de la infanoj kun
         <klr>[&#8230;]</klr> plenkora <tld/>uleco
         <fnt>
           <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
-          <vrk><url
-          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
           Princino de Marso</url></vrk>,
           <lok>1938</lok>
         </fnt>.
@@ -1358,9 +1626,14 @@
     </dif>
     <trd lng="de">Gemeinschaft</trd>
   </snc>
+  <trdgrp lng="en">
+    <trd>companionship</trd>,
+    <trd>comradeship</trd>,
+    <trd>fellowship</trd>
+  </trdgrp>
   <trd lng="es">camarader&iacute;a</trd>
   <trd lng="fr">camaraderie</trd>
-  <trd lng="pl">pojednawczo&sacute;&cacute;</trd> 
+  <trd lng="pl">pojednawczo&sacute;&cacute;</trd>
 </drv>
 
 <drv mrk="kun.cxi0a">
@@ -1373,7 +1646,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Eriko Navaro</aut>
-          <vrk><url ref="https://www.monato.be/2013/010691.php">Flugiloj
+          <vrk><url ref="&Monato;/2013/010691.php">Flugiloj
           de libereco</url></vrk>
           <lok>2013</lok>
         </fnt>.
@@ -1401,6 +1674,10 @@
     </refgrp>
     <trd lng="de">anbei</trd>
   </snc>
+  <trdgrp lng="en">
+    <trd>included</trd>,
+    <trd>herein</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>adjunto</trd>,
     <trd>incluido</trd>
@@ -1415,7 +1692,7 @@
     <dif>
       Rekonduki al sama loko, de kiu okazis disiro:
       <ekz>
-        la intendanto <klr>[&#8230;]</klr> re<tld/>igis ilin ka&scirc;e 
+        la intendanto <klr>[&#8230;]</klr> re<tld/>igis ilin ka&scirc;e
         kaj reorganizis ilian bandon
         <fnt>
           <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
@@ -1426,6 +1703,11 @@
     </dif>
     <trd lng="de">wieder vereinen</trd>
   </snc>
+  <trdgrp lng="en">
+    <trd>rejoin</trd>,
+    <trd>reassemble</trd>,
+    <trd>bring back together</trd>
+  </trdgrp>
   <trd lng="fr">rassembler</trd>
 </drv>
 
@@ -1453,7 +1735,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vil&ccirc;jo Simcock</aut>
-          <vrk><url ref="https://www.monato.be/2005/008514.php">Kiom
+          <vrk><url ref="&Monato;/2005/008514.php">Kiom
           varmega estas la infero?</url></vrk>
           <lok>2005</lok>
         </fnt>.
@@ -1465,8 +1747,13 @@
       <ref cel="koit.0i">koiti</ref>,
       <ref cel="kopula.0i">kopulacii</ref>
     </refgrp>
-    <trd lng="de">sexuell vereinigen</trd>
+   <trdgrp lng="de">
+     <trd>Geschlechtsverkehr miteinander haben</trd>,
+     <trd>miteinander Sex haben</trd>,
+     <trd>es miteinander treiben</trd>
+   </trdgrp>
   </snc>
+  <trd lng="en">have sex</trd>
   <trdgrp lng="es">
     <trd><ind>aparear</ind>se</trd>,
     <trd>hacer el <ind>amor</ind></trd>,
@@ -1479,6 +1766,10 @@
     <trd>co&iuml;ter</trd>,
     <trd>copuler</trd>,
     <trd>coucher<klr tip="ind"> (co&iuml;ter)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EA4;&#x5C3E;&#12377;&#x308B;  [<ind>&#12371;&#12358;&#12403;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#24615;&#x4EA4;&#12377;&#x308B;  [<ind>&#x305B;&#12356;&#12371;&#12358;&#12377;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="pl">sp&oacute;&lstroke;kowa&cacute;</trd>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_o;&c_k;&c_u;&c_p;&c_l;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
@@ -1514,6 +1805,7 @@
     </refgrp>
     <trd lng="de">sexuelle Vereinigung</trd>
   </snc>
+  <trd lng="en">sex</trd>
   <trdgrp lng="es">
     <trd>apareamiento</trd>,
     <trd>el sexo</trd>,
@@ -1528,6 +1820,10 @@
     <trd>co&iuml;t</trd>,
     <trd>copulation</trd>,
     <trd>relation sexuelle</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EA4;&#x63A5;  [<ind>&#12371;&#12358;&#x305B;&#12388;</ind>]</trd>,
+    <trd>&#x4EA4;&#x5C3E;  [<ind>&#12371;&#12358;&#12403;</ind>]</trd>
   </trdgrp>
   <trd lng="pl">stosunek <klr> (seksualny)</klr></trd>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_o;&c_k;&c_u;&c_p;&c_l;&c_je;&c_n;&c_i;&c_ja;</trd>
@@ -1560,14 +1856,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        la&ubreve; fre&scirc;a statistiko, 55&#8239;% de la edzoj kaj 45&#8239;% de la edzinoj
+        la&ubreve; fre&scirc;a statistiko, 55&#x202F;% de la edzoj kaj 45&#x202F;% de la edzinoj
         trompis almena&ubreve;
         unufoje sian viv<tld/>ulon
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.be/2011/010215.php"
-              >Ami, estimi kaj kokri</url></vrk>
+          <vrk><url ref="&Monato;/2011/010215.php">Ami, estimi kaj kokri</url></vrk>
           <lok>2011</lok>
         </fnt>.
       </ekz>
@@ -1581,6 +1876,10 @@
     <trd lng="de">Lebensgef&auml;hrte</trd>
   </snc>
   <trd lng="cs">dru&zcaron;ka ve spole&ccaron;n&eacute; dom&aacute;cnosti</trd>
+  <trdgrp lng="en">
+    <trd>living partner</trd>,
+    <trd>life partner</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>compa&ntilde;ero<klr tip="ind"> (persona con la que
     vive)</klr></trd>,
@@ -1605,12 +1904,16 @@
     <trd>copine<klr tip="ind"> (personne avec qui on vit)</klr></trd>
   </trdgrp>
   <trd lng="it">covivente</trd>
+  <trdgrp lng="ja">
+    <trd>&#x914D;&#20598;&#32773;  [<ind>&#x306F;&#12356;&#12368;&#12358;&#12375;&#12419;</ind>]</trd>,
+    <trd>&#x30D1;&#x30FC;&#x30C8;&#x30CA;&#x30FC;  [<ind>&#12401;&#x30FC;&#12392;&#x306A;&#x30FC;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">partner &zdot;yciowy</trd>
   <trdgrp lng="pt">
     <trd>companheiro</trd>,
     <trd>companheira</trd>
   </trdgrp>
-  <trd lng="ro">partener de via&#539;&abreve;</trd>
+  <trd lng="ro">partener de via&#x21B;&abreve;</trd>
   <trd lng="ru">&c_s;&c_p;&c_u;&c_t;&c_n;&c_i;&c_k; &c_zh;&c_i;&c_z;&c_n;&c_i;</trd>
   <trd lng="sk">dru&zcaron;ka</trd>
 </drv>
@@ -1621,14 +1924,13 @@
     <dif>
       Inseksa <ref tip="super" cel="kun.viv0ulo">viv<tld/>ulo</ref>:
       <ekz>
-        &ccirc;efa inter la helpantoj estis lia &leftquot;viv<tld/>ulino&#8221;, <nom>Olga
+        &ccirc;efa inter la helpantoj estis lia &leftquot;viv<tld/>ulino&#x201D;, <nom>Olga
         Fierz</nom>, kiu egale
         energie kaj sindone dedi&ccirc;is sin al la projekto
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.be/2006/008886.php"
-              >Prisilentita heroo</url></vrk>
+          <vrk><url ref="&Monato;/2006/008886.php">Prisilentita heroo</url></vrk>
           <lok>2006</lok>
         </fnt>;
       </ekz>
@@ -1641,6 +1943,10 @@
     <trd lng="de">Lebensgef&auml;hrtin</trd>
   </snc>
   <trd lng="cs">dru&zcaron;ka ve spole&ccaron;n&eacute; dom&aacute;cnosti</trd>
+  <trdgrp lng="en">
+    <trd>female living partner</trd>,
+    <trd>female life partner</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>compa&ntilde;era<klr tip="ind"> (persona con la que
     vive)</klr></trd>,
@@ -1658,12 +1964,11 @@
   <trd lng="it">covivente</trd>
   <trd lng="pl">partnerka &zdot;yciowa</trd>
   <trd lng="pt">companheira</trd>
-  <trd lng="ro">partener de via&#539;&abreve;</trd>
+  <trd lng="ro">partener de via&#x21B;&abreve;</trd>
   <trd lng="ru">&c_s;&c_p;&c_u;&c_t;&c_n;&c_i;&c_k; &c_zh;&c_i;&c_z;&c_n;&c_i;</trd>
   <trd lng="sk">dru&zcaron;ka</trd>
 </drv>
 </subart>
-
 
 <subart>
   <dif>
@@ -1677,55 +1982,30 @@
     <dif>
       Samlokecon:
       <ekz>
-        <ind><tld/>veni</ind> <klr>(veni <tld/> aliaj)</klr>,
-        <trd lng="hu">&ouml;sszej&ouml;n</trd>
-        <trdgrp lng="nl">
-          <trd>samenkomen</trd>,
-          <trd>vergaderen</trd>
-        </trdgrp>
-        <trdgrp lng="ru">
-          <trd>&c_s;&c_o;&c_j;&c_t;&c_i;&c_s;&c_mol;</trd>,
-          <trd>&c_s;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
-        </trdgrp>
+        <ref cel="ven.kun0i"><tld/>veni</ref> <klr>(veni <tld/> aliaj)</klr>;
       </ekz>
       <ekz>
-        <ind><tld/>sidi</ind> <klr>(sidi <tld/> aliaj)</klr>,
-        <trd lng="hu">&ouml;ssze&uuml;l</trd>
-        <trd lng="nl">vergaderen</trd>
-        <trd lng="ru">&c_z;&c_a;&c_s;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>
+        <ref cel="sid.kun0i"><tld/>sidi</ref> <klr>(sidi <tld/> aliaj)</klr>;
       </ekz>
       <ekz>
-        <ind><tld/>preni</ind> <klr>(preni <tld/> si)</klr>,
-        <trd lng="hu">mag&aacute;hoz <ind>vesz</ind></trd>
-        <trd lng="nl">meenemen</trd>
-        <trd lng="ru">&c_v;&c_z;&c_ja;&c_t;&c_mol; &c_s; &c_s;&c_o;&c_b;&c_o;&c_j;</trd>
+        <ref cel="pren.kun0i"><tld/>preni</ref> <klr>(preni <tld/> si)</klr>;
       </ekz>
       <ekz>
-        <ind><tld/>porti</ind>
-        <klr>(porti <tld/> si)</klr>,
-        <trd lng="hu">mag&aacute;val <ind>visz</ind></trd>
-        <trd lng="nl">meenemen</trd>
-        <trd lng="ru">&c_n;&c_je;&c_s;&c_t;&c_i; &c_s; &c_s;&c_o;&c_b;&c_o;&c_j;</trd>
+        <ref cel="port.kun0i"><tld/>porti</ref>
+        <klr>(porti <tld/> si)</klr>;
       </ekz>
       <ekz>
-        <ind><tld/>pu&scirc;i</ind> <klr>(pu&scirc;i unu alian)</klr>,
+        <ind><tld/>pu&scirc;i</ind> <klr>(pu&scirc;i unu alian)</klr>;
         <trd lng="hu">megl&ouml;kik egym&aacute;st</trd>
-        <trd lng="ru">&c_s;&c_t;&c_o;&c_l;&c_k;&c_n;&c_u;&c_t;&c_mol; <klr>(&c_ch;&c_t;&c_o;-&c_t;&c_o; &c_s;
+        <trd lng="ru">&c_s;&c_t;&c_o;&c_l;&c_k;&c_n;&c_u;&c_t;&c_mol;
+        <klr>(&c_ch;&c_t;&c_o;-&c_t;&c_o; &c_s;
             &c_ch;&c_je;&c_m;-&c_t;&c_o;)</klr></trd>
       </ekz>
       <ekz>
-        <ind><tld/>ligi</ind> <klr>(ligi ion <tld/> alia)</klr>,
-        <trd lng="hu">&ouml;sszek&ouml;t</trd>
-        <trd lng="ru">&c_s;&c_v;&c_ja;&c_z;&c_a;&c_t;&c_mol; <klr>(&c_ch;&c_t;&c_o;-&c_t;&c_o; &c_s;
-            &c_ch;&c_je;&c_m;-&c_t;&c_o;)</klr></trd>
+        <ref cel="lig.kun0i"><tld/>ligi</ref> <klr>(ligi ion <tld/> alia)</klr>;
       </ekz>
       <ekz>
-        <ind><tld/>meti</ind> <klr>(meti ion <tld/> alia)</klr>,
-        <trdgrp lng="hu">
-          <trd>&ouml;sszetesz</trd>,
-          <trd>&ouml;ssze&aacute;ll&iacute;t</trd>
-        </trdgrp>
-        <trd lng="nl">samenstellen</trd>
+        <ref cel="met.kun0i"><tld/>meti</ref> <klr>(meti ion <tld/> alia)</klr>;
       </ekz>
       <ekz>
         <tld/>sufiksa vorto, <tld/>folia arbo, <tld/>&scirc;tona vojo.
@@ -1752,16 +2032,14 @@
         <tld/>militi, <tld/>batali, <tld/>verki,
       </ekz>
       <ekz>
-        <ind><tld/>labori</ind>.
-        <trd lng="hu">egy&uuml;ttm&udblac;k&ouml;dik</trd>
-        <trdgrp lng="nl">
-          <trd>samenwerken</trd>,
-          <trd>meewerken</trd>
-        </trdgrp>
-        <trd lng="ru">&c_s;&c_o;&c_t;&c_r;&c_u;&c_d;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+        <ref cel="labor.kun0i"><tld/>labori</ref>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>co<klr> (prefix)</klr></trd>,
+    <trd>con<klr> (prefix)</klr></trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>&ouml;ssze-</trd>,
     <trd>-<ind>t&aacute;rs</ind></trd>,
@@ -1774,28 +2052,28 @@
 </subart>
 </art>
 <!--
-$Log: kun.xml,v $
-versio 1.57 2020/02/15 17:10:21
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.146 2023/09/05 18:30:13
+Wolfram Diestel: kor. ja ind.
 
-Revision 1.56  2020/01/26 11:10:18  revo
-Wolfram Diestel: cxi-~a...viv~ulino: ekz-oj, germ trd-oj
+versio 1.144 2023/08/29 10:31:27
+Wolfram Diestel: ja: +prononco
 
-Revision 1.55  2020/01/25 23:10:51  revo
-Wolfram Diestel: ~ulo..~uleco: ekz-oj
+versio 1.143 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.54  2020/01/19 11:10:35  revo
-Wolfram Diestel: ~igxi: ekz-oj
+versio 1.142 2022/04/06 13:44:08
+Ulrich Fellmann: kunulo: + 1 plia DE traduk; sekskunigxi: 3 novaj DE tradukoj
 
-Revision 1.53  2020/01/18 11:10:17  revo
-Wolfram Diestel: ~e: kunigis snc/ekz-ojn; ...~igi: fnt-oj/ekz-oj
+versio 1.141 2022/03/30 02:40:26
+Noam Mohr: +trd en kun
 
-Revision 1.52  2020/01/16 19:10:26  revo
-Wolfram Diestel: ~: fnt-oj
+versio 1.138 2021/11/17 09:31:40
+Dmitri Gabinski: + trd be
 
-Revision 1.51  2020/01/16 07:10:18  revo
-Wolfram Diestel: ~: fnt-oj/ekz-oj
+versio 1.137 2021/09/19 20:31:07
+Wolfram Diestel: ~ III (pref): ref-oj
 
-Revision 1.50  2018/03/02 19:10:14  revo
+versio 1.136 2021/08/17 08:33:24
 -->
 </vortaro>

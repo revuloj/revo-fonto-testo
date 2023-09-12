@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: financ.xml,v 1.11 2008/07/21 16:30:46 revo Exp $">
+<art mrk="$Id: financ.xml,v 1.21 2023/08/31 13:11:29 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>financ</rad>/o <fnt><bib>PV</bib></fnt>
@@ -49,10 +48,10 @@
         kosma le&gcirc;o 
         <fnt>
           <aut>H. Garc&iacute;a</aut>:
-          <vrk><url ref="&Monato;/rec/ktek.html">
+          <vrk><url ref="&Monato;/1998/ktek.html">
           Transplanti teknologion</url></vrk>, 
           <bib>Monato</bib>, 
-          <lok>1998:09</lok>
+          <lok>1998/09, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -61,10 +60,10 @@
         ministroj pri <tld/>o
         <fnt>
           <aut>J. Patera</aut>:
-          <vrk><url ref="&Monato;/007258.html">
+          <vrk><url ref="&Monato;/2000/007258.html">
           Post la kunsido de financistoj en Prago</url></vrk>, 
           <bib>Monato</bib>, 
-          <lok>2000:09</lok>
+          <lok>2000/09</lok>
         </fnt>.
       </ekz>
       </dif>
@@ -79,6 +78,11 @@
   <trd lng="ca">finances</trd>
   <trd lng="cs">finance</trd>
   <trd lng="es">finanzas</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CA1;&#x653F;  [<ind>&#x3056;&#x3044;&#x305B;&#x3044;</ind>]</trd>,
+    <trd>&#x8CA1;&#x52D9;  [<ind>&#x3056;&#x3044;&#x3080;</ind>]</trd>,
+    <trd>&#x91D1;&#x878D;  [<ind>&#x304D;&#x3093;&#x3086;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>financies</trd>,
     <trd>financi&euml;n</trd>
@@ -89,6 +93,10 @@
   </trdgrp>
   <trd lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_y;</trd>
   <trd lng="sk">financie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_ib;&#x43D;&c_a;&#x43D;&c_s;&c_i;</trd>,
+    <trd>&#x43A;&#x43E;&c_sh;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="financ.0a">
@@ -109,8 +117,14 @@
     <trd>p&eacute;nz&uuml;gyi</trd>,
     <trd>p&eacute;nz-</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8CA1;&#x653F;&#x4E0A;&#x306E;  [<ind>&#x3056;&#x3044;&#x305B;&#x3044;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x8CA1;&#x52D9;&#x306E;  [<ind>&#x3056;&#x3044;&#x3080;&#x306E;</ind>]</trd>,
+    <trd>&#x91D1;&#x878D;&#x4E0A;&#x306E;  [<ind>&#x304D;&#x3093;&#x3086;&#x3046;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">financieel</trd>
   <trd lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_o;&c_v;&c_y;&c_j;</trd>
+  <trd lng="uk">&c_f;&c_ib;&#x43D;&c_a;&#x43D;&c_s;&#x43E;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="financ.0i">
@@ -125,8 +139,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_f;&c_ib;&c_n;&c_a;&c_n;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="be">&c_f;&c_ib;&c_n;&c_a;&c_n;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">finan&ccedil;ar</trd>
   <trd lng="cs">financovat</trd>
   <trd lng="de">finanzieren</trd>
@@ -135,12 +148,21 @@
     <trd>subvencionar</trd>
   </trdgrp>
   <trd lng="fr">financer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x878D;&#x8CC7;&#x3059;&#x308B;  [<ind>&#x3086;&#x3046;&#x3057;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x51FA;&#x8CC7;&#x3059;&#x308B;  [<ind>&#x3057;&#x3085;&#x3063;&#x3057;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">financieren</trd>
-  <trd
-  lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>financova&tcaron;</trd>,
     <trd>poskytova&tcaron; peniaze</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_ib;&#x43D;&c_a;&#x43D;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_b;&c_je;&c_z;&#x43F;&c_je;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43A;&#x43E;&c_sh;&c_t;&c_a;&#x43C;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_d;&c_ib;&#x43B;&#x44F;&c_t;&c_i; &#x43A;&#x43E;&c_sh;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_g;&c_r;&#x43E;&c_sh;&c_ib;</trd>
   </trdgrp>
 </drv>
 
@@ -178,12 +200,23 @@
     <trd>p&eacute;nzember</trd>,
     <trd>p&eacute;nz&uuml;gyi vezet&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8CA1;&#x653F;&#x5BB6;  [<ind>&#x3056;&#x3044;&#x305B;&#x3044;&#x304B;</ind>]</trd>,
+    <trd>&#x8CA1;&#x52D9;&#x5B98;  [<ind>&#x3056;&#x3044;&#x3080;&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">financier</trd>
   <trd lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_i;&c_s;&c_t;</trd>
+  <trd lng="uk">&c_f;&c_ib;&#x43D;&c_a;&#x43D;&c_s;&c_i;&c_s;&c_t;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2023/05/03 12:45:52
+Paul Peeraerts: esperanto.be -> &Monato;
+
+versio 1.19 2023/04/09 19:20:55
+Paul Peeraerts: korekto de erara ref
+
 Revision 1.16  2019/02/18 15:10:20  revo
 Damien Brucker: -eraro cxe cel en ref
 
@@ -200,8 +233,5 @@ Revision 1.12  2011/05/25 13:10:09  revo
 Jeromo Vasxe: - num + mrk
 
 Revision 1.11  2008/07/21 16:30:46  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2007/06/01 16:30:58  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: helic.xml,v 1.18 2009/09/04 16:30:50 revo Exp $">
+<art mrk="$Id: helic.xml,v 1.26 2023/08/31 15:46:15 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>helic</rad>/o
@@ -16,8 +15,7 @@
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>MatTerm</bib><lok>p. 35</lok></fnt>
     <dif>
-      Tia neebena <ref tip="lst" lst="voko:formoj"
-      cel="kurb.0o.MAT">kurbo</ref>, ke la
+      Tia neebena <ref tip="lst" lst="voko:formoj" cel="kurb.0o.MAT">kurbo</ref>, ke la
       angulo inter &gcirc;ia <ref cel="tangx.0anto">tan&gcirc;anto</ref>
       &ccirc;e punkto <frm>M</frm> kaj la rekto kun difinita direkto 
       trairanta punkton <frm>M</frm> ne dependas de <frm>M</frm>:
@@ -27,10 +25,11 @@
       </ekz><ekz>
         duobla helico de DNA
         <fnt>
+          
+          <aut>Ste&ccirc;jo Norvell</aut>
+          <vrk><url ref="&Monato;/2000/007157.html">Vivo: Riboj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://www.esperanto.be/fel/mon/007157.html">Vivo:
-          Riboj</url></vrk>
+          <lok>2000/11, p. 16</lok>
         </fnt>;
       </ekz><ekz>
         li malfermis la pordon kaj vidis malvastan
@@ -88,8 +87,10 @@
         la pasa&gcirc;eraj avioj, kiuj funkciis per <tld/>oj, estis relative
         malrapidaj
         <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url>&Monato;/2000/007089.php</url></vrk>
           <bib>Monato</bib>
-          <vrk><url>http://www.esperanto.be/fel/mon/007089.html</url></vrk>
+          <lok>2000/08, p. 5</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -125,11 +126,25 @@
   <trd lng="es">h&eacute;lice</trd>
   <trd lng="fr">h&eacute;lice</trd>
   <trd lng="it">elica</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x308B;&#x307E;&#x304D;&#x7DDA;  [<ind>&#x3064;&#x308B;&#x307E;&#x304D;&#x305B;&#x3093;</ind>]</trd>,
+    <trd>&#x30B9;&#x30AF;&#x30EA;&#x30E5;&#x30FC;</trd>,
+    <trd>&#x30D7;&#x30ED;&#x30DA;&#x30E9;</trd>
+  </trdgrp>
   <trd lng="pt">h&eacute;lice</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&c_ib;&c_r;&c_a;&#x43B;&#x44C;</trd>,
+    <trd>&c_gu;&c_v;&c_i;&#x43D;&c_t;&#x43E;&#x43F;&#x43E;&c_d;&c_ib;&c_b;&#x43D;&c_a; &#x43D;&c_a;&c_r;&c_ib;&c_z;&#x43A;&c_a;</trd>,
+    <trd>&c_gu;&c_v;&c_i;&#x43D;&c_t;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&#x43F;&c_je;&#x43B;&c_je;&c_r;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/04/04 11:22:31
+Paul Peeraerts: &Monato;
+
 Revision 1.22  2016/12/05 08:10:19  revo
 Damien Brucker: -tajperaro cxe lst:voko
 

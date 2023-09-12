@@ -1,23 +1,21 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: skadr.xml,v 1.20 2023/09/03 18:39:54 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>skadr</rad>/o <fnt><bib>PV</bib></fnt>,
-  <var><kap><rad>skadron</rad>/o <fnt><bib>Far3</bib></fnt></kap></var>,
-  <var><kap><rad>eskadron</rad>/o <fnt><bib>Revizoro</bib></fnt></kap></var>
+  <var><kap><rad var="on">skadron</rad>/o <fnt><bib>Far3</bib></fnt></kap></var>,
+  <var><kap><rad var="e">eskadron</rad>/o <fnt><bib>Revizoro</bib></fnt></kap></var>
 </kap>
 <drv mrk="skadr.0o">
   <kap><ofc>*</ofc><tld/>o,
-  <var><kap>skadrono</kap></var>,
-  <var><kap>eskadrono</kap></var>
+  <var><kap><tld var="on"/>o</kap></var>,
+  <var><kap><tld var="e"/>o</kap></var>
   </kap>
   <snc mrk="skadr.0o.MIL">
     <uzo tip="fak">MIL</uzo>
     <dif>
-      Parto de kavaleria <ref tip="malprt"
-      cel="regime.0o">regimento</ref>
+      Parto de kavaleria <ref tip="malprt" cel="regime.0o">regimento</ref>
       komandata de oficiro havanta rangon
       inter kapitano kaj subkolonelo:
       <ekz>
@@ -38,14 +36,14 @@
       </ekz>
       <ekz>
         &ccirc;irka&ubreve; la palaco staris garde Azianoj, kaj apud la &ccirc;ambroj de lia sankteco la
-        skadrono, kiu kun <nom>Ramzes</nom> persekutis <nom>Tehennan</nom> en la dezerto
+        <tld var="on"/>o, kiu kun <nom>Ramzes</nom> persekutis <nom>Tehennan</nom> en la dezerto
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro V</lok>
         </fnt>;
       </ekz>
       <ekz>
-        kial ni tie &ccirc;i estas kvaza&ubreve; tuta eskadrono
+        kial ni tie &ccirc;i estas kvaza&ubreve; tuta <tld var="e"/>o
         <fnt><bib>Revizoro</bib>, <lok>akto 4a, sceno 1a</lok></fnt>?
       </ekz>
     </dif>
@@ -74,6 +72,8 @@
     <trd>svadron</trd>
   </trdgrp>
   <trd lng="it">squadrone<klr> (caval.)</klr></trd>
+  <trd lng="ja">&#x9A0E;&#x5175;&#x4E2D;&#x968A;  [<ind>&#x304D;&#x3078;&#x3044;&#x3061;&#x3085;&#x3046;&#x305F;&#x3044;</ind>]</trd>
+  <trd lng="kk">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_o;&c_n;</trd>
   <trd lng="nl">eskadron</trd>
   <trdgrp lng="pl">
     <trd>eskadra</trd>,
@@ -86,10 +86,17 @@
     <trd>eskadr&oacute;na</trd>,
     <trd>jazdn&aacute; rota</trd>
   </trdgrp>
+  <trd lng="uk">&#x435;&#x441;&#x43A;&#x430;&#x434;&#x440;&#x43E;&#x43D;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2021/11/07 17:34:54
+Dmitri Gabinski: + trd kk
+
+versio 1.17 2020/09/07 07:10:36
+Wolfram Diestel: +tld-var
+
 Revision 1.15  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -106,8 +113,5 @@ Revision 1.11  2009/08/12 16:30:40  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.10  2009/05/27 16:30:55  revo
-Russ Williams: +trd en
-
-Revision 1.9  2009/03/04 17:31:15  revo
 -->
 </vortaro>

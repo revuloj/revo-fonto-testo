@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: rap.xml,v 1.17 2020/01/09 21:10:17 revo Exp $">
+<art mrk="$Id: rap.xml,v 1.21 2023/09/03 07:53:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rap</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,20 +29,37 @@
   <trdgrp lng="en">
     <trd>turnip</trd>
   </trdgrp>
+  <trd lng="fr">navet</trd>
   <trd lng="he">&lamed;&pe;&tav;</trd>
   <trdgrp lng="hu">
     <trd>tarl&oacute;r&eacute;pa</trd>,
     <trd>kerekr&eacute;pa</trd>,
     <trd>feh&eacute;rr&eacute;pa</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30D6;</trd>,
+    <trd>&#x30AB;&#x30D6;&#x30E9;</trd>
+  </trdgrp>
   <trd lng="nl">raap</trd>
+  <trd lng="pl">rzepa</trd>
   <trd lng="pt">couve-r&aacute;bano</trd>
+  <trd lng="ro">nap</trd>
   <trd lng="ru">&c_r;&c_je;&c_p;&c_a;</trd>
   <trd lng="sk">repa vodnica</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_p;&c_a;</trd>,
+    <trd>&c_t;&c_u;&c_r;&c_n;&c_je;&c_p;&c_s;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log: rap.xml,v $
+$Log$
+versio 1.20 2023/05/20 07:16:07
+Jean-Marc Lugrin: +trd fr
+
+versio 1.19 2022/08/08 22:33:18
+Vito Redsky:  +trd pl  + trd ro 
+
 versio 1.17 2020/01/09 21:10:17
 Lusi Rimon: aldono hebrea
 
@@ -60,11 +76,5 @@ Revision 1.13  2008/11/23 19:12:12  revo
 Wieland Pusch: entoj por unikodo
 
 Revision 1.12  2008/10/31 17:30:46  revo
-Russ Williams: +trd en
-
-Revision 1.11  2006/11/26 17:30:22  revo
-Russ Williams: +trd en
-
-Revision 1.10  2006/02/19 17:32:05  revo
 -->
 </vortaro>

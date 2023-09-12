@@ -1,42 +1,52 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: arom.xml,v 1.21 2005/02/20 17:33:47 revo Exp $">
+<art mrk="$Id: arom.xml,v 1.31 2023/08/30 18:23:36 revo Exp $">
 <kap>
 <ofc>1</ofc>
 <rad>arom</rad>/o
 </kap>
 <drv mrk="arom.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="arom.0o.SEN">
     <dif>
-      Delikata, agrabla odoro, parfumo, precipe efikanta sur la
-      gustorgano:
+      Delikata <ref tip="super" cel="odor.bon0o.SEN">bonodoro</ref>,
+      precipe efikanta al la gustorgano:
       <ekz>
         <tld/>o de teo, de kafo, de vanilo;
       </ekz>
       <ekz>
         <tld/>o de spicoj kaj floroj levi&gcirc;is al ili
-        <fnt><bib>Fab1</bib>, <lok>&Gcirc;ardeno de la paradizo</lok></fnt>;
+        <fnt><bib>Fab1</bib> <lok>&Gcirc;ardeno de la paradizo</lok></fnt>;
       </ekz>
       <ekz>
         &ccirc;iu floro havis balzaman <tld/>on
-        <fnt><bib>Fab2</bib>, <lok>Dio de dormo</lok></fnt>;
+        <fnt><bib>Fab2</bib> <lok>Dio de dormo</lok></fnt>;
       </ekz>
       <ekz>
-        <ind><tld/>a</ind> likvoro<fnt>Z</fnt>,
-        <trd lng="ca">arom&agrave;tic</trd>
+        &gcirc;usta printempa tago por poeto, 
+        <klr>[&#x2026;]</klr> en la verda&jcirc;o estas tia <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        aero<fnt>Z</fnt>;
+        <tld/>o de &jcirc;us plugita kampo
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
       </ekz>
       <ekz>
         <tld/>aj la&ubreve;rarboj
-        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>;
+        <fnt><bib>Fab1</bib> <lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>;
       </ekz>
       <ekz>
-        <tld/>aj bran&ccirc;oj<fnt>Z</fnt>;
+        mi dormas sub <klr>[&#x2026;]</klr> <tld/>aj malsuprenpendantaj bran&ccirc;oj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -46,9 +56,17 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        <tld/>o de romantikeco.
+        ni amba&ubreve; enspiradis per plenaj pulmoj la <tld/>on de romaneco, kiu trovi&gcirc;is en
+        nia tuta aventuro
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="parfum.0o.bonodoro">parfumo<sncref/></ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_o;&c_d;&c_a;&c_r;</trd>,
@@ -58,10 +76,13 @@
   </trdgrp>
   <trd lng="ca">aroma</trd>
   <trdgrp lng="cs">
-    <trd>aróma</trd>,
-    <trd>vůně</trd>
+    <trd>ar&oacute;ma</trd>,
+    <trd>v&uring;n&ecaron;</trd>
   </trdgrp>
-  <trd lng="de">Aroma</trd>
+  <trdgrp lng="de">
+    <trd>Aroma</trd>,
+    <trd>Duft</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>aroma</trd>,
     <trd>smell</trd>,
@@ -72,6 +93,10 @@
     <trd>olor</trd>
   </trdgrp>
   <trd lng="fr">ar&ocirc;me</trd>
+  <trdgrp lng="he">
+    <trd>&alef;&#x5B2;&resh;&vav;&#x5B9;&mem;&#x5B8;&he;</trd>,
+    <trd>&nun;&yod;&het;&vav;&het;</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>aroma</trd>,
     <trd>illat</trd>
@@ -80,6 +105,10 @@
     <trd>aroma</trd>,
     <trd>profumo</trd>,
     <trd>fragranza</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x82B3;&#x9999;  [<ind>&#x307B;&#x3046;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x9999;&#x6C17;  [<ind>&#x3053;&#x3046;&#x304D;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>aroma</trd>,
@@ -91,20 +120,130 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>v&ocirc;&ncaron;a</trd>,
-    <trd>vôňa</trd>
+    <trd>v&ocirc;&ncaron;a</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>arom</trd>,
     <trd>doft</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_r;&c_o;&c_m;&c_a;&c_t;</trd>,
+    <trd>&c_p;&c_a;&c_h;&c_o;&c_shch;&c_ib;</trd>
+  </trdgrp>
 </drv>
+
+
+<drv mrk="arom.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="arom.0i.SEN">
+    <dif>
+      Havi <tld/>on, <ref tip="vid" cel="odor.bon0i">bonodori</ref>:
+      <ekz>
+        balda&ubreve; la kafo <tld/>is en la &ccirc;ambro
+        <fnt>
+          <aut>H. Laxness, trad. B. Ragnarsson</aut>
+          <vrk>Sendependaj homoj</vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        forte <tld/>is poploj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la kampo <tld/>is fre&scirc;e fal&ccirc;ita fojno
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        loge <tld/>as parfum' de l' aniz'
+        <fnt>
+          <bib>LSB</bib>
+          <lok>Moderna An&gcirc;eluso</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">desprendre aroma</trd>
+  <trd lng="cs">von&ecaron;t</trd>
+  <trdgrp lng="de">
+    <trd>Aroma <ind>verstr&ouml;men</ind></trd>,
+    <trd>duften</trd>
+  </trdgrp>
+  <trd lng="en">smell<klr> (like)</klr></trd>
+  <trd lng="es">oler</trd>
+  <trdgrp lng="fr">
+    <trd>r&eacute;pandre un <ind>ar&ocirc;me</ind></trd>,
+    <trd>embaumer<klr tip="ind"> (intr.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">illatozik</trd>
+  <trd lng="it">profumare<klr> (intr)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#x304A;&#x308B;</trd>,
+    <trd>&#x82B3;&#x9999;&#x3092;&#x653E;&#x3064;  [<ind>&#x307B;&#x3046;&#x3053;&#x3046;&#x3092;&#x306F;&#x306A;&#x3064;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>geuren</trd>,
+    <trd>ruiken<klr tip="ind"> (geuren)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_l;&c_a;&c_g;&c_o;&c_u;&c_h;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vo&ncaron;a&tcaron;</trd>
+</drv>
+
 
 <drv mrk="arom.0ajxo">
   <kap><tld/>a&jcirc;o</kap>
-  <snc>
+  <snc mrk="arom.0ajxo.KOMUNE">
     <dif>
-      Substanco havanta <tld/>on.
+      Substanco havanta <tld/>on:
+      <ekz>
+        kameloj portas <tld/>a&jcirc;ojn kaj balzamon kaj mirhon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 37:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prenu al vi plej bonajn <tld/>a&jcirc;ojn: da bonodora mirho <klr>[&#x2026;]</klr>, da
+        <tld/>a cinamo <klr>[&#x2026;]</klr> kaj da <tld/>a kano
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 30:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni bezonas malgrandan oleolampon <klr>[por]</klr> ekbruligi <tld/>a&jcirc;on
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la incensiloj oni ekbruligis <tld/>a&jcirc;ojn
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> ver&scirc;is tro da ostra sa&ubreve;co, da <tld/>a&jcirc;o, a&ubreve; ion similan en
+        &scirc;ian man&gcirc;a&jcirc;on
+        <fnt>
+          <bib>ChC</bib>
+          <lok>14</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="herb.arom0o">aromherbo</ref>,
+      <ref cel="incens.0o">incenso</ref>,
+      <ref cel="parfum.0ajxo">parfuma&jcirc;o</ref>,
+      <ref cel="spic.0ajxo">spica&jcirc;o</ref>
+    </refgrp>
   </snc>
   <trd lng="ca">subst&agrave;ncia arom&agrave;tica</trd>
   <trd lng="de">Aroma</trd>
@@ -121,59 +260,38 @@
     <trd>aroma<klr> (sostanza)</klr></trd>,
     <trd>essenza<klr> (sostanza aromatica)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9999;&#x6599;  [<ind>&#x3053;&#x3046;&#x308A;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x82B3;&#x9999;&#x5264;  [<ind>&#x307B;&#x3046;&#x3053;&#x3046;&#x3056;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>aromaat</trd>,
     <trd>geurstof</trd>
   </trdgrp>
   <trd lng="ru">&c_a;&c_r;&c_o;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
-</drv>
-
-<drv mrk="arom.0i">
-  <kap><tld/>i</kap>
-  <gra><vspec>ntr</vspec></gra>
-  <snc>
-    <dif>
-      Havi <tld/>on.
-    </dif>
-  </snc>
-  <trd lng="ca">desprendre aroma</trd>
-  <trd lng="cs">vonět</trd>
-  <trd lng="en">smell<klr> (like)</klr></trd>
-  <trd lng="es">oler</trd>
-  <trdgrp lng="fr">
-    <trd>r&eacute;pandre un <ind>ar&ocirc;me</ind></trd>,
-    <trd>embaumer<klr tip="ind"> (intr.)</klr></trd>
-  </trdgrp>
-  <trd lng="hu">illatozik</trd>
-  <trd lng="it">profumare<klr> (intr)</klr></trd>
-  <trdgrp lng="nl">
-    <trd>geuren</trd>,
-    <trd>ruiken<klr tip="ind"> (geuren)</klr></trd>
-  </trdgrp>
-  <trd lng="ru">&c_b;&c_l;&c_a;&c_g;&c_o;&c_u;&c_h;&c_a;&c_t;&c_mol;</trd>
-  <trd lng="sk">vo&ncaron;a&tcaron;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_p;&c_a;&c_sh;&c_n;&c_a; &c_r;&c_je;&c_ch;&c_o;&c_v;&c_i;&c_n;&c_a;</trd>
 </drv>
 
 <drv mrk="arom.0igi">
   <kap><tld/>igi</kap>
-  <snc>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="arom.0igi.KOMUNE">
     <dif>
-      Parfumi ion per <tld/>a&jcirc;o:
+      <ref cel="parfum.0i">Parfumi</ref> ion per <tld/>a&jcirc;o:
       <ekz>
         bukedoj da floroj <tld/>igis la
         aeron.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="odor.0o">odoro</ref>,
-      <ref cel="spic.0o">spico</ref>.
+      <ref cel="spic.0i">spici</ref>
     </refgrp>
   </snc>
   <trdgrp lng="ca">
     <trd>aromar</trd>,
     <trd>aromatitzar</trd>
   </trdgrp>
-  <trd lng="cs">navonět</trd>
+  <trd lng="cs">navon&ecaron;t</trd>
   <trd lng="de">aromatisieren</trd>
   <trd lng="en">aromatize</trd>
   <trd lng="es">aromatizar</trd>
@@ -183,55 +301,39 @@
     <trd>profumare<klr> (dare aroma)</klr></trd>,
     <trd>aromatizzare</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9999;&#x6599;&#x3092;&#x5165;&#x308C;&#x308B;  [<ind>&#x3053;&#x3046;&#x308A;&#x3087;&#x3046;&#x3092;&#x3044;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x9999;&#x308A;&#x3092;&#x6DFB;&#x3048;&#x308B;  [<ind>&#x304B;&#x304A;&#x308A;&#x3092;&#x305D;&#x3048;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">aromatiseren</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; <ind>&c_d;&c_u;&c_sh;&c_i;&c_s;&c_t;&c_y;&c_m;</ind></trd>,
     <trd>&c_a;&c_r;&c_o;&c_m;&c_a;&c_t;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>aromatizovať</trd>,
-    <trd>navoňať</trd>
+    <trd>aromatizova&tcaron;</trd>,
+    <trd>navo&ncaron;a&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_b;&c_i;&c_t;&c_i; &c_z;&c_a;&c_p;&c_a;&c_sh;&c_n;&c_i;&c_m;</trd>,
+    <trd>&c_a;&c_r;&c_o;&c_m;&c_a;&c_t;&c_n;&c_i;&c_m;</trd>,
+    <trd>&c_a;&c_r;&c_o;&c_m;&c_a;&c_t;&c_i;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
-<drv mrk="arom.0herbo">
-  <kap><tld/>herbo</kap>
-  <uzo tip="fak">KUI</uzo>
-  <snc>
-    <dif>
-      Herbo uzata por <tld/>igi pladojn.
-    </dif>
-  </snc>
-  <trdgrp lng="ca">
-    <trd>herba arom&agrave;tica</trd>,
-    <trd>fines herbes</trd>
-  </trdgrp>
-  <trdgrp lng="cs">
-    <trd>aromatická rostlina</trd>,
-    <trd>koření</trd>
-  </trdgrp>
-  <trdgrp lng="de">
-    <trd>aromatische <ind>Kr&auml;uter</ind></trd>
-  </trdgrp>
-  <trd lng="en">aromatic <ind>herb</ind></trd>
-  <trdgrp lng="fr">
-    <trd>aromate</trd>,
-    <trd>herbe <ind>aromatique</ind></trd>
-  </trdgrp>
-  <trd lng="hu">illatos <ind>f&udblac;szer</ind></trd>
-  <trdgrp lng="it">
-   <trd><ind>erba</ind> aromatica</trd>,
-   <trd>sapore<klr> (erba aromatica)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>aromatisch <ind>kruid</ind></trd>,
-    <trd>welriekend <ind>kruid</ind></trd>
-  </trdgrp>
-  <trd lng="sk">aromatická rastlina</trd>
-</drv>
+
 </art>
 <!--
 $Log$
+versio 1.30 2022/05/06 17:34:14
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+versio 1.29 2022/05/06 13:01:39
+Wolfram Diestel: ~herbo nun en herb', do anst. drv per ref
+
+versio 1.26 2020/11/29 16:51:49
+Jeromo Vasxe: ~i + ekz, + 2 ref
+
 Revision 1.24  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -245,17 +347,5 @@ Revision 1.21  2005/02/20 17:33:47  revo
 Wieland Pusch: +trd de
 
 Revision 1.20  2005/02/19 18:51:48  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.19  2003/08/29 16:31:21  revo
-Yury Finkel: +trd ru
-
-Revision 1.18  2002/11/26 21:48:02  revo
-Wolfram Diestel: kor. ref-tip
-
-Revision 1.17  2002/10/29 18:01:38  revo
-Christopher Zervic: + ang
-
-Revision 1.16  2002/10/23 20:37:41  revo
 -->
 </vortaro>

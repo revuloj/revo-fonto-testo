@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: religi.xml,v 1.41 2023/09/03 07:53:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>religi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -67,6 +66,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_l;&c_ib;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bo">&#xF46;&#xF7C;&#xF66;&#xF0B;&#xF63;&#xF74;&#xF42;&#xF66;&#xF0B;</trd>
   <trd lng="cs">n&aacute;bo&zcaron;enstv&iacute;</trd>
   <trd lng="de">Religion</trd>
   <trd lng="en">religion</trd>
@@ -74,6 +74,7 @@
   <trd lng="fr">religion</trd>
   <trd lng="hu">vall&aacute;s</trd>
   <trd lng="id">agama</trd>
+  <trd lng="ja">&#x5B97;&#x6559;  [<ind>&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>godsdienst</trd>,
     <trd>religie</trd>
@@ -83,6 +84,7 @@
   <trd lng="ro">religie</trd>
   <trd lng="ru">&c_r;&c_je;&c_l;&c_i;&c_g;&c_i;&c_ja;</trd>
   <trd lng="sk">n&aacute;bo&zcaron;enstvo</trd>
+  <trd lng="uk">&c_r;&c_je;&#x43B;&c_ib;&c_g;&c_ib;&#x44F;</trd>
 </drv>
 
 <drv mrk="religi.0a">
@@ -117,6 +119,14 @@
     <trd>agamis</trd>,
     <trd>religius</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B97;&#x6559;&#x4E0A;&#x306E;  [<ind>&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x5B97;&#x6559;&#x7684;&#x306A;  [<ind>&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x4FE1;&#x5FC3;&#x6DF1;&#x3044;  [<ind>&#x3057;&#x3093;&#x3058;&#x3093;&#x3076;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x656C;&#x8654;&#x306A;  [<ind>&#x3051;&#x3044;&#x3051;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x7D30;&#x5FC3;&#x306A;  [<ind>&#x3055;&#x3044;&#x3057;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x304D;&#x3061;&#x3087;&#x3046;&#x3081;&#x3093;&#x306A;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>godsdienstig</trd>,
     <trd>religieus</trd>
@@ -126,10 +136,13 @@
     <trd>pobo&zdot;ny</trd>,
     <trd>bogobojny</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_r;&c_je;&c_l;&c_i;&c_g;&c_i;&c_o;&c_z;&c_n;&c_y;&c_j;</trd>
+  <trd lng="ru">&c_r;&c_je;&c_l;&c_i;&c_g;&c_i;&c_o;&c_z;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">n&aacute;bo&zcaron;ensk&yacute;</trd>
-  <trd lng="tp">sewi</trd>
+  <trd lng="tok">sewi</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&#x43B;&c_ib;&c_g;&c_ib;&c_j;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&#x43E;&c_b;&#x43E;&c_zh;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="religi.0ulo">
@@ -193,11 +206,18 @@
     <trd>n&aacute;bo&zcaron;n&yacute; &ccaron;l.</trd>,
     <trd>p&rcaron;&iacute;slu&scaron;n&iacute;k c&iacute;rkve</trd>
   </trdgrp>
+  <trd lng="en">religious<klr> person</klr></trd>
   <trdgrp lng="es">
     <trd>religioso</trd>,
     <trd>religiosa</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B97;&#x6559;&#x5BB6;  [<ind>&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x304B;</ind>]</trd>,
+    <trd>&#x4FEE;&#x9053;&#x8005;  [<ind>&#x3057;&#x3085;&#x3046;&#x3069;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x4FE1;&#x5FC3;&#x5BB6;  [<ind>&#x3057;&#x3093;&#x3058;&#x3093;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">pr&iacute;slu&scaron;n&iacute;k cirkvi</trd>
+  <trd lng="uk">&c_r;&c_je;&#x43B;&c_ib;&c_g;&c_ib;&c_j;&#x43D;&c_a; &#x43B;&#x44E;&c_d;&c_i;&#x43D;&c_a;</trd>
 </drv>
 
 <drv mrk="religi.ali0ano">
@@ -218,10 +238,20 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_ib;&c_n;&c_sh;&c_a;&c_v;&c_je;&c_r;&c_a;&c_c;</trd>
   <trd lng="cs">jinov&ecaron;rec</trd>
   <trd lng="fr">infid&egrave;le<klr> (adepte d'une autre
   religion)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4ED6;&#x5B97;&#x6559;&#x306E;&#x4FE1;&#x8005;  [<ind>&#x305F;&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x306E;&#x3057;&#x3093;&#x3058;&#x3083;</ind>]</trd>,
+    <trd>&#x4ED6;&#x6559;&#x4FE1;&#x5F92;  [<ind>&#x305F;&#x304D;&#x3087;&#x3046;&#x3057;&#x3093;&#x3068;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>innowierca</trd>,
+    <trd>r&oacute;&zdot;nowierca</trd>
+  </trdgrp>
   <trd lng="sk">inoverec</trd>
+  <trd lng="uk">&c_ib;&#x43D;&#x43E;&c_v;&c_ib;&c_r;&c_je;&c_c;&#x44C;</trd>
 </drv>
 
 <drv mrk="religi.kontraux0a">
@@ -236,19 +266,25 @@
         alian <tld/>on, kiu estis kontra&ubreve;<tld/>a sciencismo
         <fnt>
           <aut>C. Piron</aut>,
-          <vrk><url
-          ref="http://www.esperanto.org.uk/eldonoj/piron/tekstoj/Cxu_li_venis_trakosme.html">
+          <vrk><url ref="http://www.esperanto.org.uk/eldonoj/piron/tekstoj/Cxu_li_venis_trakosme.html">
           &Ccirc;u li venis trakosme?</url></vrk>,
           <lok>1980</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_n;&c_t;&c_y;&c_r;&c_e;&c_l;&c_ib;&c_g;&c_ib;&c_j;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_n;&c_t;&c_y;&c_k;&c_l;&c_je;&c_r;&c_y;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="en">anti-religious</trd>
   <trd lng="es">antirreligioso</trd>
   <trdgrp lng="fr">
     <trd>antireligieux</trd>,
     <trd>anticlerical</trd>
   </trdgrp>
+  <trd lng="pl">antyreligijny</trd>
+  <trd lng="uk">&c_a;&#x43D;&c_t;&c_i;&c_r;&c_je;&#x43B;&c_ib;&c_g;&c_ib;&c_j;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="religi.sam0ano">
@@ -263,15 +299,28 @@
          <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 37</lok></fnt>.
        </ekz>
      </dif>
-   </snc>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;&c_v;&c_je;&c_r;&c_a;&c_c;</trd>
+  <trd lng="ca">correligionari</trd>  
   <trd lng="cs">p&rcaron;&iacute;slu&scaron;n&iacute;k stejn&eacute; c&iacute;rkve</trd>
   <trd lng="de">Glaubensbruder</trd>
-  <trd lng="es">correligionario</trd>
+  <trd lng="en">coreligionist</trd>
+   <trd lng="es">correligionario</trd>
   <trd lng="fr">cor&eacute;ligionnaire</trd>
+  <trdgrp lng="hu">
+    <trd>hitsorsos</trd>,
+    <trd>hittestv&eacute;r</trd>
+  </trdgrp>  
+  <trd lng="ja">&#x540C;&#x5B97;&#x8005;  [<ind>&#x3069;&#x3046;&#x5B97;&#x8005;</ind>]</trd>
+  <trd lng="nl">geloofsgenoot</trd>  
   <trd lng="pl">wsp&oacute;&lstroke;wyznawca</trd>
   <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_o;&c_v;&c_je;&c_r;&c_je;&c_c;
    </trd>
   <trd lng="sk">spoluveriaci</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_d;&#x43D;&#x43E;&c_v;&c_ib;&c_r;&c_je;&c_c;&#x44C;</trd>,
+    <trd>&c_jeu;&c_d;&c_i;&#x43D;&#x43E;&c_v;&c_ib;&c_r;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="religi.sen0ulo">
@@ -297,12 +346,47 @@
       <ref cel="di.sen0ulo.REL">sendiulo</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_b;&c_o;&c_zh;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_n;&c_ja;&c_v;&c_je;&c_r;&c_u;&c_ju;&c_ch;&c_y;</trd>,
+    <trd>&c_a;&c_t;&c_e;&c_ib;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trd lng="en">irreligious<klr> person</klr></trd>
   <trd lng="es">aconfesional</trd>
   <trd lng="fr">sans religion<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7121;&#x5B97;&#x6559;&#x8005;  [<ind>&#x3080;&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x7121;&#x4FE1;&#x4EF0;&#x8005;  [<ind>&#x3080;&#x3057;&#x3093;&#x3053;&#x3046;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ateista</trd>,
+    <trd>agnostyk</trd>,
+    <trd>bezwyznaniowiec</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_v;&c_ib;&c_r;&c_u;&#x44E;&c_ch;&c_i;&c_j; (&c_u; &c_z;&#x43D;&c_a;&c_ch;. &c_ib;&#x43C;.)</trd>,
+    <trd>&c_a;&c_t;&c_je;&c_ji;&c_s;&c_t;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_b;&#x43E;&c_zh;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.40 2023/05/31 22:28:01
+Vito Redsky: +trd pl 
+
+versio 1.39 2023/02/28 12:51:45
+Dmitri Gabinski: + trd be
+
+versio 1.38 2022/10/13 19:36:04
+Wolfram Diestel: sam~ano: +trd el sam/
+
+versio 1.37 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.35 2021/11/08 13:41:08
+Noam Mohr: +trd en religi-
+
 Revision 1.32  2016/11/13 17:10:20  revo
 Carlos Garcia: +trd ro -o, es -ulo
 
@@ -310,20 +394,5 @@ Revision 1.31  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.30  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.29  2014/08/15 08:10:12  revo
-Carlos Garcia: +trd es -o -a -ul sen-ulo kontraux-a sam-ano
-
-Revision 1.28  2014/06/10 10:10:31  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.27  2013/12/14 18:10:47  revo
-Jeromo Vasxe: + ali~ano, kontraux~a, sen~ulo
-
-Revision 1.26  2008/06/05 16:30:24  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.25  2008/06/02 16:30:38  revo
 -->
 </vortaro>

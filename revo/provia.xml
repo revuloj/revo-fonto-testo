@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: provia.xml,v 1.20 2023/09/03 12:45:13 revo Exp $">
 <kap>
   <rad>proviant</rad>/o <fnt>Z</fnt>
 </kap>
@@ -22,8 +21,7 @@
       <ekz>
         <uzo tip="stl">FIG</uzo>
         kiel <tld/>on por la voja&gcirc;o, <klr>[la Morto]</klr> elprenas tiun a&ubreve; tiun bonan
-        faron nian, kaj permesas, ke &gcirc;i iru kun ni, kaj tio povos esti tre pla&ccirc;a a&ubreve;
-        tre trava
+        faron nian, kaj permesas, ke &gcirc;i iru kun ni, kaj tio povos esti tre pla&ccirc;a
         <fnt>
           <bib>Fab4</bib>
           <lok>Turgardisto Ole</lok>
@@ -72,7 +70,16 @@
     <trd>&eacute;lelem <klr tip="ind">(katonai)</klr></trd>,
     <trd>&eacute;lelmiszer <klr tip="ind">(katonai)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x98DF;&#x7CE7;  [<ind>&#x3057;&#x3087;&#x304F;&#x308A;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x7CE7;&#x98DF;  [<ind>&#x308A;&#x3087;&#x3046;&#x3057;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x88DC;&#x7D66;&#x7269;&#x8CC7;  [<ind>&#x307B;&#x304D;&#x3085;&#x3046;&#x3076;&#x3063;&#x3057;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">proviand</trd>
+  <trdgrp lng="pl">
+    <trd>prowiant</trd>,
+    <trd>wiktua&lstroke;y {pl}</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_v;&c_i;&c_a;&c_n;&c_t;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_d;&c_o;&c_v;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
@@ -81,6 +88,10 @@
     <trd>proviant</trd>,
     <trd>z&aacute;soba potrav&iacute;n</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_v;&c_ib;&c_a;&#x43D;&c_t;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_d;&#x43E;&c_v;&#x43E;&#x43B;&#x44C;&c_ch;&c_i;&c_j; &c_z;&c_a;&#x43F;&c_a;&c_s;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="provia.0i">
@@ -88,7 +99,7 @@
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
-      (pp armeo) Havigi <tld/>on; <ref tip="dif" cel="proviz.0umi">provizumi</ref>:
+      (pri armeo) Havigi <tld/>on; <ref tip="dif" cel="proviz.0umi">provizumi</ref>:
       <ekz>
         necesis atendi la komenci&gcirc;on de la 19-a jc kaj la blokado<klr>[n]</klr> de <nom>Brest</nom>
         fare de la angloj, por konvinki Napoleonon la 1-an pri la strategia intereso
@@ -96,7 +107,8 @@
         arsenalojn de <nom>Brest</nom>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=389462">Kanalo inter Nantes kaj Brest</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=389462">Kanalo inter Nantes kaj
+          Brest</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -113,16 +125,52 @@
     <trd>provisionner</trd>
   </trdgrp>
   <trd lng="hu">&eacute;lelmez <klr tip="ind">(katonai)</klr></trd>
+  <trd lng="ja">&#x98DF;&#x7CE7;&#x3092;&#x88DC;&#x7D66;&#x3059;&#x308B;  [<ind>&#x3057;&#x3087;&#x304F;&#x308A;&#x3087;&#x3046;&#x3092;&#x307B;&#x304D;&#x3085;&#x3046;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">provianderen</trd>
+  <trdgrp lng="pl">
+    <trd>prowiantowa&cacute;</trd>,
+    <trd>aprowizowa&cacute;</trd>
+  </trdgrp>
   <trd lng="ru">&c_s;&c_n;&c_a;&c_b;&c_zh;&c_a;&c_t;&c_mol; &c_p;&c_r;&c_o;&c_v;&c_i;&c_a;&c_n;&c_t;&c_o;&c_m;</trd>
   <trd lng="sk">z&aacute;sobi&tcaron; potravinami</trd>
+  <trd lng="uk">&c_z;&c_a;&c_b;&c_je;&c_z;&#x43F;&c_je;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;
+  &#x43F;&c_r;&#x43E;&c_d;&#x43E;&c_v;&#x43E;&#x43B;&#x44C;&c_s;&c_t;&c_v;&#x43E;&#x43C;</trd>
+</drv>
+
+<drv mrk="provia.0ejo">
+  <kap>
+    <tld/>ejo
+  </kap>
+  <snc>
+    <dif>
+      Loko en kiu oni konservas ian kvanton da <tld/>o, da rezervaj man&gcirc;a&jcirc;oj:
+      <ekz>
+        li sufi&ccirc;e provizis sin &scirc;telante el la palacaj <tld/>ejoj
+        <fnt>
+          <aut>J. R. R. Tolkien, trad. C. Gledhill</aut>
+          <vrk>La Hobito</vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_a;&c_r;&c_ch;&c_o;&c_v;&c_y; <ind>&c_s;&c_k;&c_l;&c_a;&c_d;</ind></trd>
+<trdgrp lng="fr">
+    <trd>d&eacute;pense<klr> (garde-manger)</klr></trd>,
+    <trd>garde-manger</trd>,
+    <trd>resserre</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>magazyn</trd>,
+    <trd>sk&lstroke;ad</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="provia.0isto">
   <kap><tld/>isto</kap>
   <snc>
     <dif>
-      <ref tip="super" cel="ofic.0isto">Oficisto</ref>, kiu prizorgas la <tld/>adon:
+      <ref tip="super" cel="ofic.0isto">Oficisto</ref> kiu prizorgas la <tld/>adon:
       <ekz>
         la insulo nomi&gcirc;is tiel pro la <tld/>isto <nom>Mart&iacute;n Garc&iacute;a</nom>, kiu forpasis sur&scirc;ipe kaj
         estis tie surterigita
@@ -145,12 +193,35 @@
     <trd>&eacute;lelmez&odblac; tiszt</trd>,
     <trd>GH-s tiszt</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x88DC;&#x7D66;&#x4FC2;  [<ind>&#x307B;&#x304D;&#x3085;&#x3046;&#x304B;&#x304B;&#x308A;</ind>]</trd>,
+    <trd>&#x88DC;&#x7D66;&#x5C06;&#x6821;  [<ind>&#x307B;&#x304D;&#x3085;&#x3046;&#x3057;&#x3087;&#x3046;&#x3053;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>intendent</trd>,
+    <trd>aprowizator</trd>
+  </trdgrp>
   <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_n;&c_d;&c_a;&c_n;&c_t;</trd>
   <trd lng="sk">z&aacute;sobovate&lcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43D;&c_t;&c_je;&#x43D;&c_d;&c_a;&#x43D;&c_t;</trd>,
+    <trd>&c_shch;&#x43E; &c_z;&c_a;&c_j;&#x43C;&c_a;&c_jeu;&c_t;&#x44C;&c_s;&#x44F;
+    &#x43F;&c_r;&#x43E;&c_d;&#x43E;&c_v;&#x43E;&#x43B;&#x44C;&c_ch;&c_i;&#x43C;
+    &c_z;&c_a;&c_b;&c_je;&c_z;&#x43F;&c_je;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;&#x43C;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2023/06/22 22:33:09
+Vito Redsky: +trd pl 
+
+versio 1.18 2022/08/08 14:32:17
+Dmitri Gabinski: + trd be
+
+versio 1.16 2020/09/07 20:32:22
+Jeromo Vasxe: + ~ejo
+
 Revision 1.14  2018/11/20 20:10:21  revo
 Wolfram Diestel: +ekz-oj, germ trd-oj
 
@@ -164,14 +235,5 @@ Revision 1.11  2014/03/24 17:10:26  revo
 Damien Brucker: +trd fr
 
 Revision 1.10  2008/11/23 19:12:11  revo
-Wieland Pusch: entoj por unikodo
-
-Revision 1.9  2008/11/07 17:30:31  revo
-Russ Williams: +trd en
-
-Revision 1.8  2004/08/18 16:31:54  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7  2003/07/26 08:41:24  revo
 -->
 </vortaro>

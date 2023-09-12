@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: servut.xml,v 1.25 2023/09/03 18:39:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>servut</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,14 +12,35 @@
     <uzo tip="fak">HIS</uzo>
     <uzo tip="fak">POL</uzo>
     <dif>
-      Duonsklaveca stato de kamparano nehavanta la rajton transmigri sen
+      Duon<ref cel="sklav.0eco">sklaveca</ref> stato de kamparano nehavanta la rajton transmigri sen
       la konsento de la mastrosinjoro el la bieno, kies &ccirc;iama hereda
       farmanto li estas, kaj devanta plie senpage kulturi la
-      mastrosinjoran bienon.
+      mastrosinjoran bienon:
+      <ekz>
+        &ccirc;irka&ubreve; la 16a jarcento transloki&gcirc;is &ccirc;i tien <klr>[&#x2026;]</klr> tiuj, kiuj volis
+        eskapi militservadon kaj <tld/>on
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+            <vrk><url ref="&Monato;/2001/007273.php">Terlango -- natura valoro</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 21</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        estas en la mondo sinjoroj, kiuj devas ordoni kaj simpla popolo, kiu devas obei,
+        kaj tial &scirc;i ne mal&scirc;atis la <tld/>econ kaj la salutojn &gcirc;is la tero
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_r;&c_y;&c_g;&c_o;&c_n;&c_mol;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>,
       <trd>&c_p;&c_r;&c_y;&c_g;&c_o;&c_n;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Leibeigenschaft</trd>,
+      <trd>Knechtschaft</trd>
     </trdgrp>
     <trd lng="en">serfdom</trd>
     <trd lng="fr">servitude</trd>
@@ -33,38 +53,36 @@
   </snc>
   <snc mrk="servut.0o.POL_servo">
     <dif>
-      Laboro, kiun kamparano &scirc;uldas senpage al la mastrosinjoro a&ubreve; al
-      la &scirc;tato.
+      <ref tip="super" cel="labor.0o.KOMUNE">Laboro</ref>, kiun kamparano &scirc;uldas senpage al 
+      la mastrosinjoro a&ubreve; al la &scirc;tato:
+      <ekz>
+        sur la pli alta loko konstrui&gcirc;is, per multaj <tld/>oj, timeginda kastelo
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_n;&c_sh;&c_ch;&c_y;&c_n;&c_a;</trd>,
       <trd>&c_p;&c_a;&c_n;&c_sh;&c_ch;&c_y;&c_z;&c_n;&c_a;</trd>
     </trdgrp>
+    <trd lng="de">Frondienst</trd>
     <trd lng="en">bonded labor</trd>
     <trd lng="fr">corv&eacute;e</trd>
     <trd lng="hu">&uacute;rb&eacute;r</trd>
     <trd lng="ru">&c_b;&c_a;&c_r;&c_shch;&c_i;&c_n;&c_a;</trd>
-  </snc>
-  <snc mrk="servut.0o.FIG">
-    <dif>
-      Sklaveco:
-      <ekz>
-        <tld/>aj manieroj<fnt>B</fnt>.
-      </ekz>
-    </dif>
-    <trdgrp lng="en"><trd>slavery</trd>, <trd>thralldom</trd></trdgrp>
-    <trd lng="hu">jobb&aacute;gysors</trd>
-    <trd lng="it">servit&ugrave;<klr> (schiavit&ugrave;)</klr></trd>
-    <trd lng="ru">&c_k;&c_r;&c_je;&c_p;&c_o;&c_s;&c_t;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>robota</trd>,
     <trd>robotnictv&iacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>Frondienst</trd>,
-    <trd>Leibeigenschaft</trd>,
-    <trd>Knechtschaft</trd>
+    <trd>Fron</trd>,
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8CE6;&#x5F79;  [<ind>&#x3075;&#x3048;&#x304D;</ind>]</trd>,
+    <trd>&#x8FB2;&#x5974;&#x52B4;&#x50CD;  [<ind>&#x306E;&#x3046;&#x3084;&#x3064;&#x308D;&#x3046;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x82E6;&#x5F79;  [<ind>&#x304F;&#x3048;&#x304D;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">lijfeigenschap</trd>
   <trd lng="pt">servid&atilde;o</trd>
@@ -72,14 +90,116 @@
     <trd>poddanstvo</trd>,
     <trd>poroba</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_a;&#x43D;&c_shch;&c_i;&#x43D;&c_a;</trd>
+</drv>
+
+<drv mrk="servut.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o, metita sub <tld/>on:
+      <ekz>
+        mallar&gcirc;a irvojeto kondukis trans la <tld/>an grenkampon
+        <fnt>
+          <bib>Fab3</bib>
+          <vrk>&Ccirc;io sur sian &gcirc;ustan lokon!</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu el vi estas tiel <tld/>a, ke li volus esti sklavo?
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        portreto, kiu vere pla&ccirc;is al <nom>Jekaterina</nom>, estis farita de <tld/>a pentristo 
+        <nom>I. Argunov</nom>
+        <fnt>
+          <bib>KFl</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x8CE6;&#x5F79;&#x306E;</trd>,
+    <trd>&#x8FB2;&#x5974;&#x52B4;&#x50CD;&#x306E;  [<ind>&#x306E;&#x3046;&#x3084;&#x3064;&#x308D;&#x3046;&#x3069;&#x3046;&#x306E;</ind>]</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="servut.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="serv.0i.labori">Servi</ref>, trovi&gcirc;i sub <tld/>o:
+      <ekz>
+        pa&scirc;tisto kiu <tld/>is por la tiama reganto de Lidio
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la orjola kampulo <klr>[&#x2026;]</klr> lo&gcirc;as en a&ccirc;a tremol-ligna domo, <tld/>as, ne
+        okupi&gcirc;as pri komerco, man&gcirc;as malbone
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk><url ref="&Tekstaro;?nomo=ondo-de-esperanto">&Hcirc;orj kaj Kalini&ccirc; &dash; El &rightquot;Notoj
+          de &ccirc;asisto&#x201D; de Ivan Turgenev </url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">fr&ouml;hnen</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CE6;&#x5F79;&#x3092;&#x52E4;&#x3081;&#x308B;  [<ind>&#x8CE6;&#x5F79;&#x3092;&#x3064;&#x3068;&#x3081;&#x308B;</ind>]</trd>,
+    <trd>&#x8FB2;&#x5974;&#x52B4;&#x50CD;&#x3092;&#x3059;&#x308B;  [<ind>&#x306E;&#x3046;&#x3084;&#x3064;&#x308D;&#x3046;&#x3069;&#x3046;&#x3092;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_a;&c_c;&#x44E;&c_v;&c_a;&c_t;&c_i; &#x43D;&c_a; &#x43F;&c_a;&#x43D;&c_shch;&c_i;&#x43D;&c_ib;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_r;&#x43E;&c_b;&#x43B;&#x44F;&c_t;&c_i; &#x43F;&c_a;&#x43D;&c_shch;&c_i;&#x43D;&c_u;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="servut.0ulo">
   <kap><tld/>ulo</kap>
   <snc mrk="servut.0ulo.POL">
     <dif>
-      Homo submetita al <tld/>o.
+      Homo submetita al <tld/>o:
+      <ekz>
+        bienhavanto kun sia <tld/>ulo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la nokto la <tld/>uloj dormadis en la varma cindro, trempadis la fingrojn en
+        la grasa fulgo kaj lekadis ilin
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni a&ccirc;etis vin kiel <tld/>ulon, vi estas nia
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        do? do? &ndash; demandis li, <ind><tld/>ule</ind> kurante jen de unu flanko, jen de la alia
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>.
+        <trd lng="de">unterw&uuml;rfig</trd>
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="sklav.0o.POL">sklavo<sncref/></ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_g;&c_o;&c_n;&c_n;&c_y; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
   <trdgrp lng="cs">
@@ -93,19 +213,38 @@
   <trd lng="fr">serf</trd>
   <trd lng="hu">jobb&aacute;gy</trd>
   <trd lng="it"><ind>servo</ind> della gleba</trd>
+  <trd lng="ja">&#x8FB2;&#x5974;  [<ind>&#x306E;&#x3046;&#x3069;</ind>]</trd>
   <trd lng="nl">lijfeigene</trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_p;&c_o;&c_s;&c_t;&c_n;&c_o;&c_j; <klr>(&c_s;&c_u;&c_shch;.)</klr></trd>
   <trdgrp lng="sk">
     <trd>nevo&lcaron;n&iacute;k</trd>,
     <trd>poddan&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&c_r;&c_ib;&#x43F;&c_a;&#x43A;</trd>
 </drv>
 
 <drv mrk="servut.en0igi">
-  <kap>en<tld/>igi</kap>
+  <kap><tld/>igi, <var><kap>en<tld/>igi</kap></var></kap>
   <snc mrk="servut.en0igi.POL">
     <dif>
-      Submeti al <tld/>o:
+      <ref tip="super" cel="met.sub0i">Submeti</ref> al <tld/>o:
+      <ekz>
+        Romo, jam <tld/>igis rabitajn keltojn
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2000/007175.php">Muroj dumiljaraj solidas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 5</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        kiam danaj kaj germanaj grandsinjoroj en la fino de la mezepoko provis <tld/>igi
+        la liberajn malgrandbienulojn en nia lando, tiuj forpelis batale la sinjorojn
+        kaj iliajn soldatojn
+        <fnt>
+          <bib>ViV</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
         tiu volo de superrego ne povus kvieti&gcirc;i alie
@@ -113,13 +252,13 @@
         super &ccirc;iuj ceteraj en<tld/>igitaj
         <fnt>
           <aut>A. Spinelli, E. Rossi, trad. U. Broccatelli</aut>,
-          <vrk><url
-          ref="http://www.altierospinelli.org/manifesto/eo/html/manifesto1944eo.html">
+          <vrk><url ref="http://www.altierospinelli.org/manifesto/eo/html/manifesto1944eo.html">
           La Manifesto de Ventotene</url></vrk>,
           <lok>[2007]</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">der Frohn <ind>unterwerfen</ind></trd>
   </snc>
   <trd lng="en">to thrall</trd>
   <trd lng="fr">asservir</trd>
@@ -127,6 +266,21 @@
 </art>
 <!--
 $Log$
+versio 1.24 2023/05/06 14:26:04
+revo: aktualigo URL-unuoj
+
+versio 1.23 2023/05/01 13:28:20
+Paul Peeraerts: Steloj -> monato
+
+versio 1.22 2023/04/15 15:25:31
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.21 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2021/06/21 21:27:25
+Wolfram Diestel: +~a, ~i; ekz-oj, ref-oj, trd de
+
 Revision 1.17  2015/09/26 13:10:14  revo
 Cindy Moon McKee: +trd en
 
@@ -134,17 +288,5 @@ Revision 1.16  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.15  2015/06/29 16:33:23  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.14  2012/05/28 00:10:08  revo
-Jeromo Vasxe: + en~igi
-
-Revision 1.13  2009/10/29 17:31:24  revo
-Antonio Codazzi: +trd it
-
-Revision 1.12  2009/02/19 20:27:20  revo
-Russ Williams: +trd en
-
-Revision 1.11  2005/04/01 17:48:51  revo
 -->
 </vortaro>

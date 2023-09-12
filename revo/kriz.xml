@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kriz.xml,v 1.16 2010/07/04 16:30:20 revo Exp $">
+<art mrk="$Id: kriz.xml,v 1.25 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kriz</rad>/o <fnt><bib>PV</bib></fnt>
@@ -20,8 +19,7 @@
       </ekz>
       <ekz>
         &jcirc;us mi malfermis butikon &ccirc;e angulo de la stratoj Optimismo 
-        kaj Bonhumoro, kontra&ubreve; la konata statuo de la Granda <tld
-        lit="K"/>o
+        kaj Bonhumoro, kontra&ubreve; la konata statuo de la Granda <tld lit="K"/>o
         <fnt>
           <aut>Raymond Schwartz</aut>
           <vrk>La Stranga Butiko</vrk>
@@ -32,10 +30,11 @@
         pro ekonomia <tld/>o en la jaro 1873 la linio estis
         finkonstruita nur en 1897
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007045.html'>A&Ubreve;STRIO:
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2000/007045.php">A&Ubreve;STRIO:
           Et&scirc;puraj spuroj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/09, p. 11</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -43,8 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni GEORGIEV</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007307.html'>Pliigita
+          <vrk><url ref="&Monato;/2001/007307.html">Pliigita
           aktivado de LUKoil</url></vrk>
         </fnt>.
       </ekz>
@@ -60,8 +58,7 @@
         kelkfoje estas senkonscii&gcirc;o, ekkrioj senavertaj, faloj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=32558'>Epilepsio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=32558">Epilepsio</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -90,6 +87,12 @@
     <trd>v&aacute;ls&aacute;g</trd>,
     <trd>kr&iacute;zis</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5371;&#x6A5F;  [<ind>&#x304D;&#x304D;</ind>]</trd>,
+    <trd>&#x91CD;&#x5927;&#x5C40;&#x9762;  [<ind>&#x3058;&#x3085;&#x3046;&#x3060;&#x3044;&#x304D;&#x3087;&#x304F;&#x3081;&#x3093;</ind>]</trd>,
+    <trd>&#x6025;&#x5909;  [<ind>&#x304D;&#x3085;&#x3046;&#x3078;&#x3093;</ind>]</trd>,
+    <trd>&#x767A;&#x4F5C;  [<ind>&#x307B;&#x3063;&#x3055;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>crisis</trd>,
     <trd>noodsituatie</trd>
@@ -106,6 +109,10 @@
   </trdgrp>
   <trd lng="sk">kr&iacute;za</trd>
   <trd lng="sv">kris</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_r;&c_i;&c_z;&c_a;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&#x43B;&#x43E;&#x43C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kriz.0a">
@@ -128,21 +135,24 @@
         okazas <tld/>a redukto de elspezoj por la sociala sekurigo,
         sanprotektado kaj lerneja sistemo
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007258.html'>MONDAJ
-          FINANCOJ: Post la kunsido de financistoj en Prago</url></vrk>
+         
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/007184.html">Petrolo:
+          Nehaltigeblaj prezalti&gcirc;oj</url></vrk>
+           <bib>Monato</bib>
+           <lok>2000/11, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         ofte en <tld/>aj situacioj, ne estas unu a&ubreve; du ka&ubreve;zoj, sed aro
         da kialoj kiuj reciproke plifortigas sin
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Roland ROTSAERT</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007184.html'>PETROLO:
+         <fnt>
+         
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/007184.html">Petrolo:
           Nehaltigeblaj prezalti&gcirc;oj</url></vrk>
+           <bib>Monato</bib>
+           <lok>2000/11, p. 8</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -157,6 +167,7 @@
     <trd>v&aacute;ls&aacute;gkorszak</trd>,
     <trd>kr&iacute;ziskorszak</trd>
   </trdgrp>
+  <trd lng="ja">&#x5371;&#x6A5F;&#x7684;&#x306A;  [<ind>&#x304D;&#x304D;&#x3066;&#x304D;&#x306A;</ind>]</trd>
   <trd lng="nl">crisis-</trd>
   <trdgrp lng="pl">
     <trd>kryzysowy</trd>,
@@ -167,6 +178,11 @@
     <trd>&c_k;&c_r;&c_i;&c_z;&c_i;&c_s;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_k;&c_r;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_l;&c_o;&c_m;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_r;&c_i;&c_z;&#x43E;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43A;&c_r;&c_i;&c_t;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&#x43B;&#x43E;&#x43C;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -209,6 +225,7 @@
     <trd>v&aacute;ls&aacute;gban van</trd>,
     <trd>kr&iacute;zisben van</trd>
   </trdgrp>
+  <trd lng="ja">&#x5371;&#x6A5F;&#x306B;&#x3042;&#x308B;  [<ind>&#x304D;&#x304D;&#x306B;&#x3042;&#x308B;</ind>]</trd>
   <trd lng="nl">in <ind>crisis</ind> zijn</trd>
   <trdgrp lng="pl">
     <trd>by&cacute; w <ind>kryzysie</ind></trd>,
@@ -228,6 +245,9 @@
 </art>
 <!--
 $Log$
+versio 1.24 2023/04/09 12:41:22
+Paul Peeraerts: &Monato;/
+
 Revision 1.21  2018/04/23 15:10:18  revo
 Dmitri Gabinski: +trd be
 
@@ -246,6 +266,5 @@ Jeromo Vasxe: memstar. ~a, + ref sin
 
 Revision 1.16  2010/07/04 16:30:20  revo
 Agustin Garcia Lopez: +trd es
-
 -->
 </vortaro>

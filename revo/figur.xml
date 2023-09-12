@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: figur.xml,v 1.48 2020/02/22 19:10:28 revo Exp $">
+<art mrk="$Id: figur.xml,v 1.135 2023/09/04 18:29:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>figur</rad>/o <fnt><bib>PV</bib></fnt>
@@ -102,7 +101,7 @@
           en la kartludoj, la fanto (a&ubreve; bubo) estas la <tld/>o malsupera al la damo
           <fnt>
             <bib>Viki</bib>
-            <lok><url ref='https://eo.wikipedia.org/?curid=228079'>Fanto</url></lok>
+            <lok><url ref="https://eo.wikipedia.org/?curid=228079">Fanto</url></lok>
           </fnt>.
         </ekz>
       </dif>
@@ -137,11 +136,13 @@
       <ref tip="dif" cel="figur.stil0o">Stil<tld/>o</ref>:
       <ekz>
         ri&ccirc;a stilo kaj abundaj retorikaj <tld/>oj
-        <fnt>
+       <fnt>
           <bib>Monato</bib>
-          <aut>Gerrit Berveling</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007031.html'>Katolikismo: Johano Hus &dash; &ccirc;u ne plu herezulo?</url></vrk>
-        </fnt>;
+          <aut>Ji&rcaron;&iacute; Patera</aut>
+          <vrk><url ref="&Monato;/2000/007031.php">Katolikismo:
+           Johano Hus &#8208; &ccirc;u ne plu herezulo?</url></vrk>
+           <lok>2000/08, p. 19</lok>
+           </fnt>;
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -163,28 +164,103 @@
       <trd>przeno&sacute;nia</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">figuur</trd>
+  <trd lng="am">&#x121D;&#4661;&#x120D;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_r;&a_q;&a_m;</trd>
+  <trd lng="az">r&#601;q&#601;m</trd>
   <trd lng="be">&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a;</trd>
+  <trd lng="bn">&#x9AC;&#x9CD;&#x9AF;&#2453;&#x9CD;&#x9A4;&#x9BF;&#x9A4;&#x9CD;&#x9AC;</trd>
+  <trd lng="bs">slika</trd>
+  <trd lng="co">figura</trd>
   <trdgrp lng="cs">
     <trd>figura</trd>,
     <trd>obrazec</trd>,
     <trd>postava</trd>,
     <trd>&uacute;tvar</trd>
   </trdgrp>
+  <trd lng="cy">ffigur</trd>
+  <trd lng="da">figur</trd>
   <trdgrp lng="de">
     <trd>Figur</trd>
   </trdgrp>
   <trd lng="es">figura</trd>
+  <trd lng="et">joonis</trd>
+  <trd lng="eu">zifra</trd>
   <trd lng="fr">figure<klr tip="ind"> (tous sens sauf
   visage)</klr></trd>
+  <trd lng="fy">stal</trd>
+  <trd lng="ga">figi&uacute;r</trd>
+  <trd lng="gd">figear</trd>
+  <trd lng="gl">figura</trd>
+  <trd lng="gu">&#xA86;&#xA95;&#xAC3;&#xAA4;&#xABF;</trd>
+  <trd lng="ha">adadi</trd>
+  <trd lng="hi">&#2310;&#2306;&#2325;&#2337;&#x93C;&#x93E;</trd>
+  <trd lng="hmn">duab</trd>
+  <trd lng="hr">slika</trd>
+  <trd lng="ht">figi</trd>
+  <trd lng="hy">&#1379;&#1400;&#1408;&#x56E;&#x56B;&#1401;</trd>
+  <trd lng="ig">&#x1ECD;n&#x1EE5; &#x1ECD;g&#x1EE5;g&#x1EE5;</trd>
+  <trd lng="is">mynd</trd>
   <trd lng="it">figura</trd>
+  <trd lng="ja">&#x56F3; [<ind>&#x305A;</ind>]</trd>
+  <trd lng="jv">tokoh</trd>
+  <trd lng="ka">&#x10E4;&#x10D8;&#x10D2;&#x10E3;&#x10E0;&#x10D0;</trd>
+  <trd lng="kk">&c_s;&c_a;&c_n;</trd>
+  <trd lng="km">&#x178F;&#x17BD;&#x179B;&#x17C1;&#6017;</trd>
+  <trd lng="kn">&#xCB5;&#xCCD;&#xCAF;&#xC95;&#xCCD;&#xCA4;&#xCBF;</trd>
+  <trd lng="ko">&#xADF8;&#xB9BC;</trd>
+  <trd lng="ku">jimar</trd>
+  <trd lng="ky">&c_k;&#x4E9;&c_r;&c_s;&#x4E9;&c_t;&c_k;&#x4AF;&c_ch;</trd>
+  <trd lng="lat">figura</trd>
+  <trd lng="lo">&#xEAE;&#xEB9;&#xE9A;</trd>
+  <trd lng="lt">fig&#5691;ra</trd>
+  <trd lng="lv">skaitlis</trd>
+  <trd lng="mg">endrika</trd>
+  <trd lng="mi">ahua</trd>
+  <trd lng="mk">&c_S;&c_l;&c_i;&c_k;&c_a;</trd>
+  <trd lng="ml">&#xD1A;&#xD3F;&#xD24;&#xD4D;&#xD30;&#xD02;</trd>
+  <trd lng="mn">&c_z;&c_u;&c_r;&c_a;&c_g;</trd>
+  <trd lng="mr">&#2310;&#2325;&#2371;&#2340;&#2368;</trd>
+  <trd lng="ms">angka</trd>
+  <trd lng="mt">figura</trd>
+  <trd lng="my">&#4098;&#x100F;&#4116;&#x103A;&#4152;</trd>
+  <trd lng="ne">&#2310;&#2325;&#x93E;&#2352;</trd>
   <trd lng="nl">figuur</trd>
+  <trd lng="ny">chithunzi</trd>
+  <trd lng="pa">&#xA07;&#xA39; &#xA05;&#xA70;&#xA15;&#xA5C;&#xA3E;</trd>
+  <trd lng="ps">&a_r;&a_q;&a_m;</trd>
   <trd lng="pt">figura</trd>
   <trd lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</trd>
+  <trd lng="rw">ishusho</trd>
+  <trd lng="sd">&a_sh;&a_kh;&a_S;&a_y;&a_t;</trd>
+  <trd lng="si">&#xDA0;&#xDBB;&#xDD2;&#xDAD;&#xDBA;&#xD9A;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>diagram</trd>,
     <trd>sch&eacute;ma</trd>,
     <trd>zna&ccaron;ka</trd>
   </trdgrp>
+  <trd lng="sl">slika</trd>
+  <trd lng="sm">fuainumera</trd>
+  <trd lng="sn">figiri</trd>
+  <trd lng="so">jaantuska</trd>
+  <trd lng="sq">shif&euml;r</trd>
+  <trd lng="st">palo</trd>
+  <trd lng="su">angka</trd>
+  <trd lng="sw">takwimu</trd>
+  <trd lng="ta">&#xB8E;&#xBA3;&#xBCD;&#xBA3;&#xBBF;&#xB95;&#xBCD;&#xB95;&#xBC8;</trd>
+  <trd lng="te">&#xC2B;&#xC3F;&#xC17;&#xC30;&#xC4D;</trd>
+  <trd lng="tg">&c_r;&c_a;&#x49B;&c_a;&c_m;</trd>
+  <trd lng="th">&#xE23;&#xE39;&#xE1B;&#xE17;&#xE35;&#xE48;</trd>
+  <trd lng="tl">pigura</trd>
+  <trd lng="tt">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;&c_s;&c_y;</trd>
+  <trd lng="uk">&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a;</trd>
+  <trd lng="ur">&f_k;&#x6D2; &a_A;&a_ayn;&a_d;&a_A;&a_d; &a_w; &a_sh;&a_m;&a_A;&a_r;</trd>
+  <trd lng="uz">shakl</trd>
+  <trd lng="vi">con s&#x1ED1;</trd>
+  <trd lng="xh">inani</trd>
+  <trd lng="yi">&pe;&yod;&gimel;&vav;&resh;&ayin;</trd>
+  <trd lng="yo">n&#x1ECD;mba r&#x1EB9;</trd>
+  <trd lng="zu">ukulinganisa</trd>
 </drv>
 
 <drv mrk="figur.0a">
@@ -205,6 +281,7 @@
        <trd>Bild-</trd>,
        <trd>fig&uuml;rlich</trd>
     </trdgrp>
+    <trd lng="pl">figurowy</trd>
   </snc>
   <snc mrk="figur.0a.LIN">
     <uzo tip="fak">LIN</uzo>
@@ -214,15 +291,15 @@
         vorto uzata la&ubreve; la <tld/>a senco;
       </ekz>
       <ekz>
-        nuanco estas malgranda, apena&ubreve; sentebla diferenco inter koloroj a&ubreve; (en <tld/>a senco) inter samspecaj aferoj
+        nuanco estas malgranda, apena&ubreve; sentebla diferenco inter koloroj a&ubreve; (en <tld/>a senco) inter
+        samspecaj aferoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=24271'>Nuanco</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=24271">Nuanco</url></lok>
         </fnt>.
       </ekz>
     </dif>
-    <trd
-    lng="be">&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="be">&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
     <trdgrp lng="de">
       <trd>fig&uuml;rlich</trd>,
       <trd>&uuml;bertragen</trd>
@@ -235,8 +312,7 @@
     </trdgrp>
     <trd lng="it">figurato</trd>
     <trd lng="pl">obrazowy</trd>
-    <trd
-    lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+    <trd lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>figur&aacute;ln&iacute;</trd>,
@@ -244,9 +320,19 @@
     <trd>p&rcaron;enesen&yacute;</trd>
   </trdgrp>
   <trd lng="es">figurado</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F62;&#x8C61;&#x306E;  [<ind>&#12369;&#12356;&#12375;&#12423;&#12358;&#x306E;</ind>]</trd>,
+    <trd>&#x56F3;&#x793A;&#x306E;  [<ind>&#x305A;&#12375;&#x306E;</ind>]</trd>,
+    <trd>&#x8EE2;&#x7FA9;&#x306E;  [<ind>&#12390;&#12435;&#x304E;&#x306E;</ind>]</trd>,
+    <trd>&#x6BD4;&#x55A9;&#x306E;  [<ind>&#12402;&#12422;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>figur&aacute;lny</trd>,
     <trd>prenesen&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_f;&c_ib;&c_gu;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -261,10 +347,12 @@
         <fnt><bib>PIV1</bib></fnt>;
       </ekz>
       <ekz>
-        <tld/>i en la listo de la tutmondaj 200-regionoj, kiuj estas konsiderataj kiel elstaraj pri la naturkonservado
+        <tld/>i en la listo de la tutmondaj 200-regionoj, kiuj estas konsiderataj kiel elstaraj pri
+        la naturkonservado
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=472093'>Sudpacifik-insulaj arbaroj</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=472093">Sudpacifik-insulaj
+          arbaroj</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -297,8 +385,7 @@
       <trd>figureren</trd>
     </trdgrp>
     <trd lng="pl">figurowa&cacute;</trd>
-    <trd
-    lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trd lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="figur.0i.bildigi">
     <gra><vspec>tr</vspec></gra>
@@ -313,7 +400,7 @@
         simboloj iam uzataj en astronomio kaj nun en astrologio por <tld/>i diversajn astrojn
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=326670'>Astronomia simbolo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=326670">Astronomia simbolo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -353,7 +440,19 @@
     <trd>zobrazovat</trd>
   </trdgrp>
   <trd lng="es">figurar</trd>
+  <trdgrp lng="ja">
+    <trd>&#34920;&#12377;  [<ind>&#12402;&#12423;&#12358;&#12377;</ind>]</trd>,
+    <trd>&#x63CF;&#x304F;  [<ind>&#12360;&#x304C;&#x304F;</ind>]</trd>,
+    <trd>&#x304B;&#x305F;&#12393;&#x308B;</trd>,
+    <trd>&#xFF5E;&#x306E;&#x683C;&#x597D;&#12434;&#12377;&#x308B; 
+    [&#xFF5E;<ind>&#x306E;&#x304B;&#12387;&#12371;&#12358;&#12434;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x6F14;&#12376;&#x308B;  [<ind>&#12360;&#12435;&#12376;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">zobrazova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_f;&c_ib;&c_gu;&c_u;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="figur.0anto">
@@ -371,10 +470,11 @@
         </fnt>;
       </ekz>
       <ekz>
-        oni asertis erare ke <nom>Monroe</nom> aperis kiel <tld/>anto en aliaj filmoj de <nom>Fox</nom> dum tiu periodo
+        oni asertis erare ke <nom>Monroe</nom> aperis kiel <tld/>anto en aliaj filmoj de
+        <nom>Fox</nom> dum tiu periodo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=2977'>Marilyn Monroe</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=2977">Marilyn Monroe</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -400,6 +500,7 @@
     <trd>figurante<klr> (cin. e spettac.)</klr></trd>,
     <trd>comparsa<klr> (cin. e teat.)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x7AEF;&#x5F79;  [<ind>&#x306F;&#12420;&#x304F;</ind>]</trd>
   <trd lng="nl">figurant</trd>
   <trdgrp lng="pl">
     <trd>figurant</trd>,
@@ -411,6 +512,7 @@
     <trd>&c_s;&c_t;&c_a;&c_t;&c_i;&c_s;&c_t;</trd>
   </trdgrp>
   <trd lng="sk">&scaron;tatista</trd>
+  <trd lng="uk">&c_s;&c_t;&c_a;&c_t;&c_i;&c_s;&c_t;</trd>
 </drv>
 
 <drv mrk="figur.geometria0o">
@@ -444,12 +546,10 @@
       <ref cel="solid.0o.geometrio">solido</ref>.
     </refgrp>
   </snc>
-  <bld tip="svg" lok="../bld/e_elementaj_figuroj.svg" alt="800"
-  lrg="800">
+  <bld tip="svg" lok="../bld/e_elementaj_figuroj.svg" alt="800" lrg="800">
     elementaj geometriaj <tld/>oj
   </bld>
-  <trd lng="be">&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a; <klr
-      tip="amb">(&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trd lng="be">&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a; <klr tip="amb">(&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="de">Figur</trd>
   <trd lng="en">figure<klr tip="ind"> (geometric shape)</klr></trd>
   <trd lng="es">figura geom&eacute;trica</trd>
@@ -472,7 +572,7 @@
       <ref tip="vid" cel="form.mis0i.KOMUNE">misformi</ref>,
       <ref tip="vid" cel="tord.0i.misforme">tordi</ref>:
       <ekz>
-        en nia vila&gcirc;o estas <klr>[&#8230;]</klr> knabino kies 
+        en nia vila&gcirc;o estas <klr>[&#8230;]</klr> knabino kies
         viza&gcirc;on hazarde mis<tld/>igas variolumado
         <fnt>
           <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
@@ -484,6 +584,10 @@
   </snc>
   <trd lng="es">desfigurar</trd>
   <trd lng="fr">d&eacute;figurer</trd>
+  <trdgrp lng="pl">
+    <trd>&zacute;le przedstawia&cacute;</trd>,
+    <trd>niew&lstroke;a&sacute;ciwie uosabia&cacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="figur.stil0o">
@@ -496,18 +600,19 @@
       Esprimo, kiu uzas vortojn neordinare
       por atentiga a&ubreve; pla&ccirc;a efekto:
       <ekz>
-        <ref tip="sub" cel="oksimor.0o">oksimoro</ref> estas stil<tld/>o konsistanta el alproksimi&gcirc;o de du vortoj, kiuj forte antitezas sin
+        <ref tip="sub" cel="oksimor.0o">oksimoro</ref> estas stil<tld/>o konsistanta el alproksimi&gcirc;o
+        de du vortoj, kiuj forte antitezas sin
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=138461'>Oksimoro</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=138461">Oksimoro</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        <ref tip="sub" cel="litot.0o">litoto</ref> (a&ubreve; pli precize maltroigo) estas stil<tld/>o, 
+        <ref tip="sub" cel="litot.0o">litoto</ref> (a&ubreve; pli precize maltroigo) estas stil<tld/>o,
         kies vortoj formas esprimon malpli drastan a&ubreve; energian ol la ideo, kiun &gcirc;i esprimu
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=138464'>Litoto</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=138464">Litoto</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -516,6 +621,8 @@
       <ref cel="trop.0o">tropo</ref>,
       <ref cel="figur.vort0o">vort<tld/>o</ref>
     </refgrp>
+    <url ref="https://www.ilei.info/novajxoj/Stilfiguroj.pdf">Stilfiguroj en &leftquot;Festeno&rightquot; de Raymond
+    Schwartz</url>
   </snc>
   <trdgrp lng="be">
     <trd>&c_f;&c_ib;&c_g;&c_u;&c_r;&c_a; &c_m;&c_o;&c_v;&c_y;</trd>,
@@ -542,6 +649,11 @@
     <trd>tr&oacute;pus</trd>
   </trdgrp>
   <trd lng="it">figura<klr> stilistica</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A00;&#33865;&#x306E;&#12354;&#12420;  [<ind>&#12371;&#12392;&#12400;&#x306E;&#12354;&#12420;</ind>]</trd>,
+    <trd>&#25991;&#x5F69;  [<ind>&#12406;&#12435;&#12373;&#12356;</ind>]</trd>,
+    <trd>&#x6BD4;&#x55A9;  [<ind>&#12402;&#12422;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">stijlfiguur</trd>
   <trdgrp lng="pl">
     <trd>figura retoryczna</trd>,
@@ -568,8 +680,7 @@
     <uzo tip="fak">KRI</uzo>
     <dif>
       Unu el la
-      <ref tip="lst" cel="fest.dekduopa0o.KRI"
-      lst="voko:festoj">dekduopaj 
+      <ref tip="lst" cel="fest.dekduopa0o.KRI" lst="voko:festoj">dekduopaj
       festoj</ref>
       kristanaj, rememore pri la apero de
       <ref cel="jesu.0o.homo">Jesuo</ref> en glora supernatura
@@ -580,10 +691,11 @@
         en 1975&ndash;1977
         <fnt>
           <aut>Saliko</aut>:
-          <vrk>La hereda&jcirc;o de orientaj ortodoksuloj</vrk>
-          <bib>Monato</bib>.
+          <vrk><url ref="&Monato;/2002/007907.html">La hereda&jcirc;o de orientaj ortodoksuloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/12, p. 14</lok>
         </fnt>.
-      </ekz>        
+      </ekz>
     </dif>
   </snc>
   <trd lng="en">Transfiguration</trd>
@@ -591,8 +703,55 @@
   <trd lng="fr">transfiguration</trd>
   <trd lng="it">Trasfigurazione<klr> di Nostro Signore</klr></trd>
   <trd lng="pl">Przeistoczenie</trd>
-  <trd
-  lng="ru">&c_P;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ru">&c_P;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="uk">&c_P;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_n;&c_ja; (&c_G;&c_o;&c_s;&c_p;&c_o;&c_d;&c_n;&c_jeu;)</trd>
+</drv>
+
+<drv mrk="figur.vaks0o">
+  <kap>
+    vaks<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="plasti.0o">Plastiko</ref> figuranta homon,
+      kun ha&ubreve;to modlita per vakso, ordinare en viva grandeco:
+      <ekz>
+        en Vieno estis malfermita filio de la londona
+        vaks<tld/>a muzeo <klr>(vd <ref tip="malprt" cel="panoptik.0o">panoptiko</ref>)</klr>
+        de <nom>Madame Tussaud</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="https://www.monato.be/2011/010363.php">Vakso vokas ...</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la muzeo trovi&gcirc;as vaks<tld/>oj de la a&ubreve;stra imperiestra paro <nom>Franz Joseph</nom> kaj
+        <nom>Elisabeth</nom> (<nom>Sissi</nom>), samkiel steluloj kiel la usonaj geaktoroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="https://www.monato.be/2011/010363.php">Vakso vokas ...</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vizitinte &Ccirc;inion, nia filo priskribis la partian hierar&hcirc;ion kiel maljunajn
+        vaks<tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="https://www.monato.be/2015/011612.php">Vestoj kaj investoj</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Wachsfigur</trd>
+  <trd lng="en">wax sculpture</trd>
+  <trd lng="fr"> statue en cire</trd>
+  <trd lng="ru">&c_v;&c_o;&c_s;&c_k;&c_o;&c_v;&c_a;&c_ja; &c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</trd>
 </drv>
 
 <drv mrk="figur.vort0o">
@@ -603,11 +762,12 @@
     <dif>
       <ref tip="dif" cel="figur.stil0o">Stil<tld/>o</ref>:
       <ekz>
-        <ref tip="sub" cel="ironi.0o">ironio</ref> estas vort<tld/>o 
-        a&ubreve; <ref tip="sin" cel="trop.0o">tropo</ref> kiu konsistas je diri la malon a&ubreve; kontra&ubreve;on de tio kion oni volas diri
+        <ref tip="sub" cel="ironi.0o">ironio</ref> estas vort<tld/>o
+        a&ubreve; <ref tip="sin" cel="trop.0o">tropo</ref> kiu konsistas je diri la malon a&ubreve; kontra&ubreve;on de
+        tio kion oni volas diri
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=50925'>Ironio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=50925">Ironio</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -637,6 +797,11 @@
     <trd>tr&oacute;pus</trd>
   </trdgrp>
   <trd lng="it">figura<klr> stilistica</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A00;&#33865;&#x306E;&#12354;&#12420;  [<ind>&#12371;&#12392;&#12400;&#x306E;&#12354;&#12420;</ind>]</trd>,
+    <trd>&#x8EE2;&#29992;  [<ind>&#12390;&#12435;&#12424;&#12358;</ind>]</trd>,
+    <trd>&#x6BD4;&#x55A9;  [<ind>&#12402;&#12422;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">stijlfiguur</trd>
   <trdgrp lng="pl">
     <trd>figura retoryczna</trd>,
@@ -646,31 +811,35 @@
   <trd lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;
   &c_r;&c_je;&c_ch;&c_i;</trd>
   <trd lng="sk">slovn&yacute; &uacute;tvar</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_l;&c_o;&c_v;&c_je;&c_s;&c_n;&c_i;&c_j; &c_o;&c_b;&c_r;&c_a;&c_z;</trd>,
+    <trd>&c_s;&c_l;&c_o;&c_v;&c_je;&c_s;&c_n;&c_a; &c_f;&c_ib;&c_gu;&c_u;&c_r;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log: figur.xml,v $
-versio 1.48 2020/02/22 19:10:28
-Wolfram Diestel: svg anst. gif
+$Log$
+versio 1.135 2023/09/04 18:29:32
+Wolfram Diestel: kor. ja ind
 
-Revision 1.47  2017/05/11 16:10:14  revo
-Wolfram Diestel: prilaboris strukturon kaj ekz-ojn
+versio 1.133 2023/08/29 16:35:08
+Wolfram Diestel: ja: prononco
 
-Revision 1.46  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.132 2023/05/28 12:39:00
+Wolfram Diestel: +vaks~o
 
-Revision 1.45  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.131 2023/05/12 17:27:01
+Paul Peeraerts: + lok +url
 
-Revision 1.44  2015/04/02 05:10:18  revo
-Carlos Garcia: +trd es -o2 -o3 -o4 -a -ant geometria mis-ig Trans-igx stil- vort-
+versio 1.130 2023/04/18 23:25:59
+Vito Redsky: +trd pl
 
-Revision 1.43  2015/02/16 00:10:16  revo
-Jeromo Vasxe: + 1 ref
+versio 1.129 2023/03/27 07:26:20
+Paul Peeraerts: &Monato;
 
-Revision 1.42  2014/12/14 18:10:14  revo
-Jeromo Vasxe: + mis~igi
+versio 1.128 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.41  2013/11/02 12:10:16  revo
+versio 1.127 2022/04/24 12:48:18
 -->
 </vortaro>

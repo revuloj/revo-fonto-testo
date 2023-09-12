@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kompen1.xml,v 1.18 2007/01/05 17:30:17 revo Exp $">
+<art mrk="$Id: kompen1.xml,v 1.30 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kompens</rad>/i <fnt><bib>PV</bib></fnt>
@@ -143,8 +142,7 @@
         giroskope
         <fnt>
           <bib>Viki</bib>,
-          <vrk><url
-          ref="http://eo.wikipedia.org/wiki/Satelita_televido">
+          <vrk><url ref="&Viki;/Satelita_televido">
           Satelita televido</url></vrk>,
           <lok>2016-02-22</lok>
         </fnt>.
@@ -167,6 +165,14 @@
   <trdgrp lng="hu">
     <trd>kompenz&aacute;l</trd>,
     <trd>korrig&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x88DC;&#x511F;&#x3059;&#x308B;  [<ind>&#x307B;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8CE0;&#x511F;&#x3059;&#x308B;  [<ind>&#x3070;&#x3044;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5F01;&#x511F;&#x3059;&#x308B;  [<ind>&#x3079;&#x3093;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x88DC;&#x3046;  [<ind>&#x304A;&#x304E;&#x306A;&#x3046;</ind>]</trd>,
+    <trd>&#x76F8;&#x6BBA;&#x3059;&#x308B;  [<ind>&#x305D;&#x3046;&#x3055;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x57CB;&#x3081;&#x5408;&#x308F;&#x305B;&#x308B;  [<ind>&#x3046;&#x3081;&#x3042;&#x308F;&#x305B;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>compenseren</trd>,
@@ -198,6 +204,10 @@
     <trd>kompenzova&tcaron;</trd>,
     <trd>vynahradi&tcaron;</trd>,
     <trd>vyrovna&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;&#x43F;&c_je;&#x43D;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_sh;&#x43A;&#x43E;&c_d;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -261,6 +271,12 @@
     <trd>kompenz&aacute;ci&oacute;</trd>,
     <trd>ellent&eacute;telez&eacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x88DC;&#x511F;  [<ind>&#x307B;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x8CE0;&#x511F;  [<ind>&#x3070;&#x3044;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5F01;&#x511F;  [<ind>&#x3079;&#x3093;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x511F;&#x3044;  [<ind>&#x3064;&#x3050;&#x306A;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>compensatie</trd>,
     <trd>vergoeding</trd>
@@ -271,7 +287,7 @@
     <trd>rabat</trd>
   </trdgrp>
   <trdgrp lng="ro">
-    <trd>compensa&#539;ie</trd>,
+    <trd>compensa&#x21B;ie</trd>,
     <trd>desp&abreve;gubire</trd>
   </trdgrp>   
   <trdgrp lng="ru">
@@ -281,6 +297,10 @@
   <trdgrp lng="sk">
     <trd>kompenz&aacute;cia</trd>,
     <trd>n&aacute;hrada</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;&#x43F;&c_je;&#x43D;&c_s;&c_a;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_sh;&#x43A;&#x43E;&c_d;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -297,6 +317,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_u; &c_ja;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_k;&c_a;&c_m;&c_p;&c_e;&c_n;&c_s;&c_a;&c_c;&c_y;&c_ib;</ind></trd>
   <trdgrp lng="fr">
     <trd>en <ind>compensation</ind></trd>,
     <trd>en <ind>contrepartie</ind></trd>,
@@ -308,11 +329,20 @@
     <trd>k&aacute;rp&oacute;tl&aacute;sul</trd>,
     <trd>ellent&eacute;telez&eacute;s&uuml;l</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EE3;&#x511F;&#x3068;&#x3057;&#x3066;  [<ind>&#x3060;&#x3044;&#x3057;&#x3087;&#x3046;&#x3068;&#x3057;&#x3066;</ind>]</trd>,
+    <trd>&#x305D;&#x308C;&#x306B;&#x53CD;&#x3057;&#x3066;  [<ind>&#x305D;&#x308C;&#x306B;&#x306F;&#x3093;&#x3057;&#x3066;</ind>]</trd>,
+    <trd>&#x305D;&#x306E;&#x4EE3;&#x308F;&#x308A;  [<ind>&#x305D;&#x306E;&#x304B;&#x308F;&#x308A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>jako odszkodowanie</trd>,
     <trd>w zamian</trd>
   </trdgrp> 
   <trd lng="ro">compensare</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a; &c_v;&c_ib;&c_d;&c_sh;&#x43A;&#x43E;&c_d;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_z;&c_a;&c_t;&c_je;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompen1.0epro">
@@ -339,6 +369,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_u; &c_ja;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_k;&c_a;&c_m;&c_p;&c_e;&c_n;&c_s;&c_a;&c_c;&c_y;&c_ib;</ind> &c_z;&c_a;&#x2026;</trd>
   <trdgrp lng="fr">
     <trd>en <ind>&eacute;change</ind> de</trd>,
     <trd>en <ind>compensation</ind> de</trd>,
@@ -395,18 +426,26 @@
     <trd>k&aacute;rp&oacute;tl&aacute;s</trd>,
     <trd>kompenz&aacute;ci&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x88DC;&#x511F;&#x91D1;  [<ind>&#x307B;&#x3057;&#x3087;&#x3046;&#x304D;&#x3093;</ind>]</trd>,
+    <trd>&#x8CE0;&#x511F;&#x7269;  [<ind>&#x3070;&#x3044;&#x3057;&#x3087;&#x3046;&#x3076;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>compensatie</trd>,
     <trd>vergoeding</trd>
   </trdgrp>
   <trd lng="pl">odszkodowanie</trd>
   <trdgrp lng="ro">
-    <trd>compensa&#539;ie</trd>,
+    <trd>compensa&#x21B;ie</trd>,
     <trd>desp&abreve;gubire</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_m;&c_p;&c_je;&c_n;&c_s;&c_a;&c_c;&c_i;&c_ja;</trd>,
     <trd>&c_v;&c_o;&c_z;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;&#x43F;&c_je;&#x43D;&c_s;&c_a;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_sh;&#x43A;&#x43E;&c_d;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -428,6 +467,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_e;&c_n;&c_s;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   <trdgrp lng="fr">
     <trd>se <ind>compenser</ind></trd>,
     <trd>se <ind>contrebalancer</ind><klr tip="ind">
@@ -461,7 +501,7 @@
         <tld/>iloj
         <fnt>
           <bib>Viki</bib>,
-          <vrk><url ref='https://eo.wikipedia.org/?curid=356101'>Valvo
+          <vrk><url ref="https://eo.wikipedia.org/?curid=356101">Valvo
           (blovinstrumento)</url></vrk>,
           <lok>2016-01-28</lok>
         </fnt>.
@@ -474,6 +514,10 @@
   <trd lng="en">compensator</trd>
   <trd lng="fr">compensateur</trd>
   <trd lng="hu">kompenz&aacute;tor</trd>
+  <trdgrp lng="ja">
+    <trd>&#x88DC;&#x511F;&#x5668;  [<ind>&#x307B;&#x3057;&#x3087;&#x3046;&#x3046;&#x3064;&#x308F;</ind>]</trd>,
+    <trd>&#x88DC;&#x511F;&#x677F;  [<ind>&#x307B;&#x3057;&#x3087;&#x3046;&#x3044;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">compensator</trd>
   <trd lng="pl">kompensator</trd>     
   <trd lng="ro">compensator</trd>
@@ -482,6 +526,10 @@
     <trd>&c_u;&c_r;&c_a;&c_v;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">kompenz&aacute;tor</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;&#x43F;&c_je;&#x43D;&c_s;&c_a;&c_t;&#x43E;&c_r;</trd>,
+    <trd>&c_z;&c_r;&c_ib;&c_v;&#x43D;&#x44E;&c_v;&c_a;&c_ch;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompen1.mon0o">
@@ -502,20 +550,21 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Thibault</aut>
-          <vrk><url ref='&Monato;/2008/009538.php'>Nombro
+          <vrk><url ref="&Monato;/2008/009538.php">Nombro
           de militistaj invalidoj kreskas</url></vrk>
           <lok>2008</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_e;&c_n;&c_s;&c_a;&c_c;&c_y;&c_ja; <klr>(&c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_a;&c_ja;)</klr></trd>
   <trdgrp lng="cs">
     <trd>pen&ecaron;&zcaron;it&aacute; &uacute;hrada</trd>,
     <trd>relutum</trd>
   </trdgrp>
   <trd lng="fr">d&eacute;dommagement</trd>
   <trd lng="pl">rekompensata pieni&eogonek;&zdot;na</trd>     
-  <trd lng="ro">compensa&#539;ii b&abreve;ne&#537;ti</trd>
+  <trd lng="ro">compensa&#x21B;ii b&abreve;ne&#x219;ti</trd>
   <trd lng="sk">pe&ncaron;a&zcaron;it&aacute; &uacute;hrada</trd>
 </drv>
 
@@ -572,6 +621,15 @@
 </art>
 <!--
 $Log$
+versio 1.29 2022/06/14 08:37:03
+Dmitri Gabinski: + trd be
+
+versio 1.28 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2021/09/07 15:32:51
+Dmitri Gabinski: +trd be
+
 Revision 1.24  2018/07/30 19:10:13  revo
 Vito Redsky: +trd pl +trd ro
 
@@ -585,14 +643,5 @@ Revision 1.21  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.20  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2013/12/20 02:10:15  revo
-Jeromo Vasxe: + mon~o
-
-Revision 1.18  2007/01/05 17:30:17  revo
-Tulio Flores: +tr pt
-
-Revision 1.17  2005/05/28 16:32:24  revo
 -->
 </vortaro>

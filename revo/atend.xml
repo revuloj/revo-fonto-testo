@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: atend.xml,v 1.29 2010/03/10 17:30:39 revo Exp $">
+<art mrk="$Id: atend.xml,v 1.123 2023/08/30 18:23:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>atend</rad>/i <fnt><bib>PV</bib></fnt>
@@ -15,30 +14,60 @@
     <dif>
       Resti &gcirc;is iu alvenos a&ubreve; io okazos:
       <ekz>
-        <tld/>i amikon, sciigon;
+        &scirc;i <klr>[&#x2026;]</klr> lin petis <tld/>i ankora&ubreve; minuton
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>is, <tld/>is &gcirc;is lin &ccirc;erko etendis
-        <fnt><bib>PrV</bib></fnt>;
+        mi <klr>[&#x2026;]</klr> ordonas al la aliaj <tld/>i anta&ubreve; la pordego, &gcirc;is ili a&ubreve;dos
+        mian fajfon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i la horon de la malfermo;
+        &ccirc;i tiun tagon ni <tld/>is
+        <fnt>
+          <bib>MT</bib>
+          <lok>Plorkanto 2:16</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>a salono;
+        la maljunulino kvaza&ubreve; <tld/>is ilin
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Pa&scirc;tistino de anseroj apud puto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li petas Kolumbon <tld/>i, &gcirc;is li faros la lastan provon
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FRAZ</uzo>
         <ind>li <tld/>as, ke la okazo venu al lia nazo</ind>
-        <fnt><bib>PrV</bib></fnt>.
-        <trd lng="pl"><ind>czeka</ind>, a&zdot; okazja sama wpadnie mu 
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="pl"><ind>czeka</ind>, a&zdot; okazja sama wpadnie mu
         w r&eogonek;ce</trd>
+      </ekz>
+      <ekz>
+        <tld/>is, <tld/>is &gcirc;is lin &ccirc;erko etendis
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="okaz.0o.bonsxanco">okazo<sncref/></ref>,
-      <ref cel="kurier.0o">kuriero</ref>.
+      <ref cel="pacien.0i">pacienci</ref>,
+      <ref cel="kurier.0o">kuriero</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd>abwarten</trd>,
+      <trd>warten (auf)</trd>
+    </trdgrp>
     <trd lng="nl">wachten</trd>
     <trdgrp lng="pl">
       <trd>czeka&cacute;</trd>,
@@ -52,31 +81,41 @@
       <ref tip="super" cel="vid.antaux0i">Anta&ubreve;vidi</ref> ion
       kiel probablan a&ubreve; devatan:
       <ekz>
-        <tld/>i balda&ubreve;an sukceson;
+        dankon kaj kunsenton oni ne povas <tld/>i en &ccirc;i tiu mondo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Sterkskarabo</lok>
+        </fnt>!
       </ekz>
       <ekz>
         sorto ofte alsendas, kion oni ne <tld/>as
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        de nia nuna kongreso ni
-        ne povas <tld/>i gravajn decidojn<fnt>Z</fnt>;
+        de nia nuna kongreso ni <klr>[&#x2026;]</klr>
+        ne povas <tld/>i gravajn decidojn
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en
+          Washington en la 15a de a&ubreve;gusto 1910</vrk>
+        </fnt>;
       </ekz>
       <ekz>
-        mi <tld/>as de vi favoran respondon;
+        la nobla <nom>Sargon</nom> <tld/>as favoran respondon
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        tion oni ne povas <tld/>i de lingvo internacia<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        tia <klr>...</klr> estas la plej natura decido, kiun
+        tia <klr>[&#x2026;]</klr> estas la plej natura decido, kiun
         ni povas <tld/>i de la registare elektota komitato
         <fnt><aut>&Z;</aut>:
         <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista</vrk>
         </fnt>;
       </ekz>
       <ekz>
-        <klr>(la lingvo),</klr> kiu <klr>...</klr> en la praktiko
+        <klr>[la lingvo],</klr> kiu <klr>[&#x2026;]</klr> en la praktiko
         tiel bonege plenumas &ccirc;ion tion, kion ni povas <tld/>i de
         lingvo internacia
         <fnt><bib>EE</bib>, <lok>&ccirc;apitro VII.</lok></fnt>.
@@ -96,6 +135,7 @@
       <ref cel="postul.0i">postuli</ref>,
       <ref cel="prepar.0i">prepari</ref>
     </refgrp>
+    <trd lng="de">erwarten</trd>
     <trd lng="nl">verwachten</trd>
     <trdgrp lng="pl">
       <trd>czeka&cacute;</trd>,
@@ -106,34 +146,61 @@
     <dif>
       Esti jam okazonta, esti jam preta, destinita por iu:
       <ekz>
-        jam la morto lin <tld/>as;
+        malri&ccirc;egeco kaj rompita vivo &mdash; jen estas &ccirc;io, kio lin tie <tld/>as
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        granda surprizo vin <tld/>as.
+        puno <tld/>as tiun, kiu forlasas la vojon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 15:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia propra rigardo kun teruro estis direktita <klr>[&#x2026;]</klr> en la senfundan
+        abismon de la sorto, kiu &scirc;in <tld/>as
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        granda feli&ccirc;o vin <tld/>as
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">erwartet (sie/ihn)</trd>
     <trd lng="nl">wachten</trd>
     <trdgrp lng="pl">
       <trd>czeka&cacute;</trd>,
       <trd>oczekiwa&cacute;</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">verwag</trd>
+  <trd lng="am">&#x12ED;&#x1320;&#x1265;&#x1241;</trd>
+  <trd lng="ar">&#x62A;&a_w;&a_q;&a_ayn;</trd>
+  <trd lng="az">g&#xF6;zl&#x259;yirik</trd>
   <trd lng="be">&c_ch;&c_a;&c_k;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="bg">
     <trd>&c_ch;&c_a;&c_k;&c_a;&c_m;</trd>,
     <trd>&c_p;&c_o;&c_ch;&c_a;&c_k;&c_a;&c_m;</trd>,
     <trd>&c_o;&c_ch;&c_a;&c_k;&c_v;&c_a;&c_m;</trd>
   </trdgrp>
+  <trd lng="bn">&#x986;&#x9B6;&#x9BE; &#x995;&#x9B0;&#x9BE;</trd>
+  <trd lng="bo">&#xF66;&#xF92;&#xF74;&#xF42;&#xF0B;</trd>
   <trd lng="br">gortoz</trd>
+  <trd lng="bs">o&#x10D;ekujem</trd>
+  <trd lng="co">m&#x2019;aspettu</trd>
   <trdgrp lng="cs">
     <trd>o&ccaron;ek&aacute;vat</trd>,
     <trd>po&ccaron;kat</trd>,
     <trd>&ccaron;ekat</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>warten</trd>,
-    <trd>erwarten</trd>
-  </trdgrp>
+  <trd lng="cy">disgwyl</trd>
+  <trd lng="da">forventer</trd>
   <trdgrp lng="en">
     <trd>await</trd>,
     <trd>expect</trd>,
@@ -141,30 +208,120 @@
     <trd>wait</trd>
   </trdgrp>
   <trd lng="es">esperar</trd>
+  <trd lng="et">ootama</trd>
+  <trd lng="eu">espero</trd>
   <trd lng="fr">attendre</trd>
+  <trd lng="fy">wachtsje</trd>
+  <trd lng="ga">ag s&#xFA;il leis</trd>
+  <trd lng="gd">an d&#xF9;il</trd>
+  <trd lng="gl">esperar</trd>
+  <trd lng="gu">&#xA85;&#xAAA;&#xAC7;&#xA95;&#xACD;&#xAB7;&#xABE;</trd>
+  <trd lng="ha">sa ran</trd>
+  <trd lng="he">&lamed;&#x5B7;&het;&#x5B2;&kaf;&vav;&#x5B9;&tav;</trd>
+  <trd lng="hi">&#x909;&#x92E;&#x94D;&#x92E;&#x940;&#x926;</trd>
+  <trd lng="hmn">cia siab tias</trd>
+  <trd lng="hr">o&#x10D;ekujemo</trd>
+  <trd lng="ht">espere</trd>
   <trd lng="hu">v&aacute;r</trd>
+  <trd lng="hy">&#x561;&#x56F;&#x576;&#x56F;&#x561;&#x56C;&#x578;&#x582;&#x574;</trd>
+  <trd lng="ig">na-at&#x1EE5; anya</trd>
+  <trd lng="is">b&#xFA;ast</trd>
   <trd lng="it">attendere</trd>
-  <trd lng="ro">a a&scedil;tepta</trd>
+  <trd lng="ja">&#x671F;&#x5F85;&#x3059;&#x308B; [<ind>&#x304D;&#x305F;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  <trd lng="jv">nyana</trd>
+  <trd lng="ka">&#x10D5;&#x10D4;&#x10DA;&#x10D8;&#x10D7;</trd>
+  <trd lng="kk">&#x43A;&#x4AF;&c_t;&c_u;</trd>
+  <trd lng="km">&#x179A;&#x17C6;&#x1796;&#x17B9;&#x1784;&#x1790;&#x17B6;&#x1793;&#x17B9;&#x1784;&#x1798;&#x17B6;&#x1793;</trd>
+  <trd lng="kn">&#xCA8;&#xCBF;&#xCB0;&#xCC0;&#xC95;&#xCCD;&#xCB7;&#xCC6;</trd>
+  <trd lng="ko">&#xAE30;&#xB300;</trd>
+  <trd lng="ku">bendeman</trd>
+  <trd lng="ky">&#x43A;&#x4AF;&c_t;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">sperare</trd>
+  <trd lng="lo">&#xE84;&#xEB2;&#xE94;&#xEAB;&#xEA7;&#xEB1;&#xE87;&#xEA7;&#xEC8;&#xEB2;&#xE81;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">tik&#x117;tis</trd>
+  <trd lng="lv">gaid&#x12B;t</trd>
+  <trd lng="mg">manantena</trd>
+  <trd lng="mi">e ti&#x2019;aturi</trd>
+  <trd lng="mk">&#x43E;&c_ch;&c_je;&#x43A;&c_u;&c_v;&c_a;&#x43C;&c_je;</trd>
+  <trd lng="ml">&#xD2A;&#xD4D;&#xD30;&#xD24;&#xD40;&#xD15;&#xD4D;&#xD37;</trd>
+  <trd lng="mn">&#x43D;&c_a;&c_j;&c_d;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x905;&#x92A;&#x947;&#x915;&#x94D;&#x937;&#x93E;</trd>
+  <trd lng="ms">mengharapkan</trd>
+  <trd lng="mt">jistennew</trd>
+  <trd lng="my">&#x1019;&#x103C;&#x103B;&#x103E;&#x1031;&#x102C;&#x101C;&#x1004;&#x103B;&#x1037;</trd>
+  <trd lng="ne">&#x92A;&#x94D;&#x930;&#x924;&#x940;&#x915;&#x94D;&#x937;&#x93E;</trd>
+  <trd lng="ny">kuyembekezera</trd>
+  <trd lng="pa">&#xA09;&#xA2E;&#xA40;&#xA26; &#xA39;&#xA48;</trd>
+  <trd lng="ps">&#x62A;&a_m;&a_h;</trd>
+  <trd lng="ro">a&#x219;tepta</trd>
   <trdgrp lng="ru">
     <trd>&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_zh;&c_i;&c_d;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="rw">tegereza</trd>
+  <trd lng="sd">&a_A;&a_m;&#x64A;&#x62F;</trd>
+  <trd lng="si">&#xDB6;&#xDBD;&#xDCF;&#xDB4;&#xDDC;&#xDBB;&#xDDC;&#xDAD;&#xDCA;&#xDAD;&#xDD4;</trd>
   <trdgrp lng="sk">
     <trd>&ccaron;aka&tcaron;</trd>,
     <trd>vy&ccaron;ka&tcaron;</trd>,
     <trd>vy&ccaron;k&aacute;va&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">pri&#x10D;akujejo</trd>
+  <trd lng="sm">faamoemoe</trd>
+  <trd lng="sn">kutarisira</trd>
+  <trd lng="so">filayaan</trd>
+  <trd lng="sq">presin</trd>
+  <trd lng="st">lebella</trd>
+  <trd lng="su">ngaharepkeun</trd>
   <trd lng="sv">v&auml;nta</trd>
-  <trd lng="tp">awen</trd>
+  <trd lng="sw">kutarajia</trd>
+  <trd lng="ta">&#xB8E;&#xBA4;&#xBBF;&#xBB0;&#xBCD;&#xBAA;&#xBBE;&#xBB0;&#xBCD;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC06;&#xC36;&#xC3F;&#xC02;&#xC1A;&#xC47;</trd>
+  <trd lng="tg">&c_i;&#x43D;&c_t;&c_i;&c_z;&#x43E;&c_r;</trd>
+  <trd lng="th">&#xE04;&#xE32;&#xE14;&#xE2B;&#xE27;&#xE31;&#xE07;&#xE27;&#xE48;&#xE32;</trd>
+  <trd lng="tl">maghintay</trd>
+  <trd lng="tok">awen</trd>
+  <trd lng="tt">&#x43A;&#x4E9;&c_t;&c_je;&c_g;&c_je;&c_z;</trd>
+  <trd lng="uk">&#x43E;&c_ch;&c_ib;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&#x62A;&a_w;&a_q;&a_ayn;</trd>
+  <trd lng="uz">kutyapmiz</trd>
+  <trd lng="vi">mong &#x111;&#x1EE3;i</trd>
+  <trd lng="xh">silindele</trd>
+  <trd lng="yi">&#x5D3;&#x5E2;&#x5E8;&#x5D5;&#x5D5;&#x5D0;&#x5B7;&#x5E8;&#x5D8;&#x5DF;</trd>
+  <trd lng="yo">reti</trd>
+  <trd lng="zu">bheka</trd>
 </drv>
 
 <drv mrk="atend.0o">
   <kap><tld/>o</kap>
   <snc mrk="atend.0o.KOMUNE">
     <dif>
-      Ago de tiu, kiu <tld/>as:
+      Ago de tiu, kiu <tld/>as; tio, kion oni anta&ubreve;vidas:
       <ekz>
-        lia <tld/>o estis trompita.
+        timoplena <tld/>o de ju&gcirc;o
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 10:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> sukceso superis &ccirc;iujn <tld/>ojn
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tro longa <tld/>o &gcirc;is fino de l' vendo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de <tld/>o kaj espero pereis multaj sur la tero
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -172,14 +329,65 @@
     <trd>&c_ch;&c_a;&c_k;&c_a;&c_n;&c_je;</trd>,
     <trd>&c_o;&c_ch;&c_a;&c_k;&c_v;&c_a;&c_n;&c_je;</trd>
   </trdgrp>
+  <trd lng="de">Erwartung</trd>
   <trd lng="fr">attente</trd>
+  <trd lng="he">&he;&mem;&tav;&nun;&he;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F85;&#x6A5F;  [<ind>&#x305F;&#x3044;&#x304D;</ind>]</trd>,
+    <trd>&#x5F85;&#x3064;&#x3053;&#x3068;  [<ind>&#x307E;&#x3064;&#x3053;&#x3068;</ind>]</trd>,
+    <trd>&#x4E88;&#x60F3;  [<ind>&#x3088;&#x305D;&#x3046;</ind>]</trd>,
+    <trd>&#x4E88;&#x671F;  [<ind>&#x3088;&#x304D;</ind>]</trd>,
+    <trd>&#x671F;&#x5F85;  [<ind>&#x304D;&#x305F;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">oczekiwanie</trd>
+  <trd lng="ro">a&#x219;teptare</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_je;&#x43A;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_d;&#x43E;&c_zh;&c_i;&c_d;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43E;&c_ch;&c_ib;&#x43A;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_d;&c_b;&c_a;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_s;&#x43F;&#x43E;&c_d;&c_ib;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atend.0ejo">
   <kap><tld/>ejo</kap>
   <snc mrk="atend.0ejo.KOMUNE">
     <dif>
-      Loko, &ccirc;ambro por <tld/>i, &ccirc;e stacidomo, kuracisto kc.
+      Loko, <ref tip="super" cel="cxambr.0o">&ccirc;ambro</ref> por <tld/>i,
+      &ccirc;e stacidomo, kuracisto kc.
+      <ekz>
+        lia <klr>[kuracista]</klr> <tld/>ejo enpleni&gcirc;is de mateno al vespero
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vic-re&gcirc;o <klr>[&#x2026;]</klr> transiris en la <tld/>ejon, kie kolekti&gcirc;is lia
+        sekvantaro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li senpacience restas en la aviadila <tld/>ejo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>G. O. &Ograve;sh&oacute;-Davies</aut>
+          <vrk><url ref="&Monato;/2012/010385.php">La perfekta edzino</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>ejo de la stacidomo ne estis granda, sed la homoj ne estis multaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julian Modest</aut>
+          <vrk><url ref="&Monato;/2013/010962.php">La iluziisto</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_l;&c_ja;
@@ -190,26 +398,36 @@
   </trdgrp>
   <trd lng="br">sal-c'hortoz</trd>
   <trd lng="cs">&ccaron;ek&aacute;rna</trd>
-  <trd lng="de">Wartesaal</trd>
+  <trdgrp lng="de">
+    <trd>Wartesaal</trd>,
+    <trd>Wartezimmer</trd>
+  </trdgrp>
   <trd lng="en">waiting <ind>room</ind></trd>
   <trd lng="es">sala de espera</trd>
   <trd lng="fr">salle d'attente</trd>
+  <trd lng="he">&het;&dalet;&resh; &he;&mem;&tav;&nun;&he;</trd>
   <trdgrp lng="hu">
     <trd>v&aacute;r&oacute;terem</trd>,
     <trd>v&aacute;r&oacute;szoba</trd>
   </trdgrp>
   <trd lng="it">sala d'aspetto</trd>
+  <trd lng="ja">&#x5F85;&#x5408;&#x5BA4;  [<ind>&#x307E;&#x3061;&#x3042;&#x3044;&#x3057;&#x3064;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>wachtzaal</trd>,
     <trd>wachtkamer</trd>
   </trdgrp>
   <trd lng="pl">poczekalnia</trd>
-  <trd
-  lng="ru">&c_z;&c_a;&c_l;&c_o;&c_zh;&c_i;&c_d;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="ro">sal&abreve; de a&#x219;teptare</trd>
+  <trd lng="ru">&c_z;&c_a;&c_l;&c_o;&c_zh;&c_i;&c_d;&c_a;&c_n;&c_i;&c_ja;</trd>
   <trd lng="sk">&ccaron;ak&aacute;re&ncaron;</trd>
   <trdgrp lng="sv">
     <trd>v&auml;nthall</trd>,
     <trd>v&auml;ntrum</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43B; &c_ch;&c_je;&#x43A;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_ch;&c_je;&#x43A;&c_a;&#x43B;&#x44C;&#x43D;&#x44F;</trd>,
+    <trd>&#x43F;&#x43E;&c_ch;&c_je;&#x43A;&c_a;&#x43B;&#x44C;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -218,7 +436,19 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="atend.gxis0i.KOMUNE">
     <dif>
-      <tld lit="A"/>i &gcirc;is efektivi&gcirc;o de...:
+      <tld lit="A"/>i <ref cel="gxis.0.konj">&gcirc;is</ref> efektivi&gcirc;o de...:
+      <ekz>
+        &gcirc;is<tld/>i pli konvenan tempon
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi apena&ubreve; povis &gcirc;is<tld/>i la finon de la laboro
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         li volis &gcirc;is<tld/>i revenon de la patro
         <fnt>
@@ -226,11 +456,27 @@
           Vondrou&scaron;ek</aut>,
           <vrk>La plej eminenta inter Pierotoj</vrk>,
           <lok>2001</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;o &gcirc;is<tld/>is sian edzini&gcirc;onton en la valo <klr>[kaj]</klr> plantis aleon
+        de siringoj kiel simbolon de amo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dimitrije Jani&ccaron;i&cacute;</aut>
+          <vrk><url ref="&Monato;/2015/011479.php">Siringoj kaj ringoj
+          geedzecaj</url></vrk>
+          <lok>2015</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_a;&c_ch;&c_a;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
   <trd lng="bg">&c_d;&c_o;&c_ch;&c_a;&c_k;&c_v;&c_a;&c_m;</trd>
+  <trd lng="de"><ind>warten</ind> auf</trd>
+  <trd lng="ja">&#x5F85;&#x3061;&#x53D7;&#x3051;&#x308B;  [<ind>&#x307E;&#x3061;&#x3046;&#x3051;&#x308B;</ind>]</trd>
+  <trd lng="pl">doczeka&cacute;</trd>
+  <trd lng="ro">a&#x219;tepta</trd>
 </drv>
 
 <drv mrk="atend.ne0ita">
@@ -238,27 +484,91 @@
   <var><kap>sen<tld/>a</kap></var></kap>
   <snc mrk="atend.ne0ita.KOMUNE">
     <dif>
-      Kiun oni ne <tld/>is, kiu venis surprize:
+      Kiun oni ne <tld/>is, kiu venis <ref cel="surpri.0a">surprize</ref>:
+      <ekz>
+        la ne<tld/>ita demando iom mirigis <klr>[lin]</klr>
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        foje reveninte ne<tld/>ita, li ekvidis en la korto <klr>[&#x2026;]</klr> areton da
+        nudaj infanoj, kiuj gaje ludis
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         kontra&ubreve; bato sen<tld/>a ekzistas nenia defendo
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="subit.0a">subita</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_ch;&c_a;&c_k;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_p;&c_a;&c_d;&c_z;&c_ja;&c_v;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_a;&c_d;&c_b;&c_a;&c_ch;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="bg">&c_n;&c_je;&c_o;&c_ch;&c_a;&c_k;&c_v;&c_a;&c_n;</trd>
   <trd lng="fr">inattendu</trd>
+  <trdgrp lng="ja">
+    <trd>&#x601D;&#x3044;&#x304C;&#x3051;&#x306A;&#x3044;  [<ind>&#x304A;&#x3082;&#x3044;&#x304C;&#x3051;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x4E88;&#x671F;&#x3057;&#x306A;&#x3044;  [<ind>&#x3088;&#x304D;&#x3057;&#x306A;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">nieoczekiwany</trd>
+  <trd lng="ro">neprev&abreve;zut</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_zh;&c_d;&c_a;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="atend.ne0ite">
-  <kap>ne<tld/>ite</kap>
+  <kap>ne<tld/>ite, <var><kap>sen<tld/>e</kap></var>
+  </kap>
   <snc>
     <dif>
-      La&ubreve; ne<tld/>ita maniero:
+      En ne<tld/>ita momento a&ubreve; maniero:
       <ekz>
-        ne<tld/>ite li aperis;
+        Josuo venis al ili ne<tld/>ite
+        <fnt>
+          <bib>MT</bib>
+          <lok>Josuo 10:9</lok>
+        </fnt>;
       </ekz>
-      <ekz>Venu sur lin pereo neatendite
-      <fnt><bib>MT</bib> <lok>&Psa; 35:8</lok></fnt>.</ekz>
+      <ekz>
+       venu sur lin pereo neatendite
+       <fnt><bib>MT</bib> <lok>&Psa; 35:8</lok></fnt>;
+      </ekz>
+      <ekz>
+        se iu mortos apud li subite, ne<tld/>ite, <klr>[&#x2026;]</klr> li pritondu sian kapon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 6:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi lasis min kapti ne<tld/>ite, <klr>[&#x2026;]</klr> tial mi havas la rajton anka&ubreve;
+        miaflanke fari al ili ne<tld/>ita&jcirc;on
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Sterkskarabo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi sen<tld/>e ekvidis na&ubreve;zan spektaklon
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen<tld/>e larmoj plenigis miajn okulojn
+        <fnt>
+          <aut>Anna L&ouml;wenstein</aut>
+          <vrk>La &scirc;tona urbo</vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -267,6 +577,7 @@
     </trd>
   </trdgrp>
   <trd lng="bg">&c_n;&c_a;&c_o;&c_ch;&c_a;&c_k;&c_v;&c_a;&c_n;&c_o;</trd>
+  <trd lng="bo">&#xF67;&#xF7C;&#xF56;&#xF0B;&#xF4F;&#xF7A;&#xF0B;&#xF41;&#xF0B;&#xF63;&#xF0B;</trd>
   <trd lng="br">dic'hortoz<klr tip="ind"> (adv.)</klr></trd>
   <trdgrp lng="cs">
     <trd>bez o&ccaron;ek&aacute;v&aacute;n&iacute;</trd>,
@@ -282,8 +593,10 @@
   </trdgrp>
   <trd lng="hu">v&aacute;ratlanul</trd>
   <trd lng="it">inaspettatamente</trd>
+  <trd lng="ja">&#x601D;&#x3044;&#x304C;&#x3051;&#x306A;&#x304F;  [<ind>&#x304A;&#x3082;&#x3044;&#x304C;&#x3051;&#x306A;&#x304F;</ind>]</trd>
   <trd lng="nl">onverwachts</trd>
   <trd lng="pl">nieoczekiwanie</trd>
+  <trd lng="ro">pe nea&#x219;teptate</trd>
   <trd lng="ru">&c_n;&c_je;&c_o;&c_zh;&c_i;&c_d;&c_a;&c_n;&c_n;&c_o;
   </trd>
   <trdgrp lng="sk">
@@ -293,28 +606,32 @@
     <trd>n&aacute;hle</trd>
   </trdgrp>
   <trd lng="sv">ov&auml;ntat</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_zh;&c_d;&c_a;&#x43D;&#x43E;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.33  2015/12/31 23:10:16  revo
-Jeromo Vasxe: + ~o gxis~i ne~ita
+versio 1.122 2023/08/29 13:30:10
+Wolfram Diestel: ja: +prononco
 
-Revision 1.32  2015/07/04 08:37:31  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.121 2022/07/18 16:48:10
+Vito Redsky:  +trd pl  +kor trd ro
 
-Revision 1.31  2015/06/28 12:03:36  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.120 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.30  2012/01/29 19:10:09  revo
-Antonio Codazzi: +trd it
+versio 1.119 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
 
-Revision 1.29  2010/03/10 17:30:39  revo
- Evandro Avellar: + trd pt
+versio 1.118 2022/04/10 18:35:09
+Ulrich Fellmann: atendi: distingo de la tri sencoj rilate la DE tradukoj
 
-Revision 1.28  2009/10/12 16:30:31  revo
-Paul Peeraerts: +nl
+versio 1.115 2021/07/28 13:35:37
+Dmitri Gabinski: + trd be
 
-Revision 1.27  2009/10/06 16:44:37  revo
+versio 1.37 2021/04/08 14:50:39
+Wolfram Diestel: gxis~i..sen~e: ekz-oj
+
+versio 1.36 2021/04/06 20:50:19
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: karbun1.xml,v 1.11 2010/04/10 16:30:20 revo Exp $">
+<art mrk="$Id: karbun1.xml,v 1.17 2023/09/01 13:58:56 revo Exp $">
 <kap>
   <rad>karbunkol</rad>/o
   <fnt><bib>ElektFab</bib></fnt>
@@ -13,8 +12,7 @@
   <snc mrk="karbun1.0o.MIN">
     <uzo tip="fak">MIN</uzo>
     <dif>
-      Hele ru&gcirc;a <ref tip="super" 
-      cel="sxton.juvel0o.MIN">juvel&scirc;tono</ref>, ekzemple rubeno a&ubreve;
+      Hele ru&gcirc;a <ref tip="super" cel="sxton.juvel0o.MIN">juvel&scirc;tono</ref>, ekzemple rubeno a&ubreve;
       grenato:
       <ekz>
         &scirc;i havis sur la kapo grandegan oran kronon, ornamitan per
@@ -42,9 +40,17 @@
     <ref cel="karbun.0o">karbunklo</ref>.
   </rim>
   <trd lng="cs">karbunkul</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D05;&#x7389;  [<ind>&#x3053;&#x3046;&#x304E;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x8D64;&#x3044;&#x5B9D;&#x77F3;  [<ind>&#x3042;&#x304B;&#x3044;&#x307B;&#x3046;&#x305B;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">karbunku&lstroke; <klr>(dawn. rubin, granat)</klr></trd>     
   <trd lng="ro">buboi</trd>
   <trd lng="sk">karbunkul</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x440;&#x431;&#x443;&#x43D;&#x43A;&#x443;&#x43B;</trd>,
+    <trd>&#x447;&#x435;&#x440;&#x432;&#x43E;&#x43D;&#x438;&#x439; &#x491;&#x440;&#x430;&#x43D;&#x430;&#x442;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

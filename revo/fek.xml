@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fek.xml,v 1.37 2020/03/06 13:45:22 revo Exp $">
+<art mrk="$Id: fek.xml,v 1.44 2023/08/31 13:11:28 revo Exp $">
 <kap>
   <ofc>9</ofc> <rad>fek</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -18,8 +17,7 @@
         necesejo estas loko por <tld/>i kaj urini
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=30262'>Necesejo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30262">Necesejo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -27,8 +25,7 @@
         kaj staras al tarsa sinteno por man&gcirc;i a&ubreve; <tld/>i
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=16516'>Emuo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=16516">Emuo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -61,6 +58,10 @@
     <trd>defekasi</trd>
   </trdgrp>
   <trd lng="it">defecare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x4FBF;&#x3092;&#x3059;&#x308B;  [<ind>&#x3060;&#x3044;&#x3079;&#x3093;&#x3092;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x7CDE;&#x3092;&#x3059;&#x308B;  [<ind>&#x304F;&#x305D;&#x3092;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">stoelgang hebben</trd>
   <trdgrp lng="pl">
     <trd>wypr&oacute;&zdot;nia&cacute; si&eogonek;</trd>,
@@ -72,8 +73,7 @@
     <trd>evacuar</trd>,
     <trd>cagar</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_i;&c_s;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="ru">&c_i;&c_s;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
   <trdgrp lng="sk">
     <trd>ma&tcaron; stolicu</trd>,
     <trd>vypr&aacute;zdni&tcaron; &ccaron;rev&aacute;</trd>
@@ -81,6 +81,10 @@
   <trdgrp lng="sv">
     <trd>bajsa</trd>,
     <trd>skita</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43F;&#x43E;&c_r;&#x43E;&c_zh;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_s;&c_r;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -97,8 +101,7 @@
         &leftquot;Panjo, mi bezonas novan krajonon!&rightquot;
         <fnt>
           <aut>A. Mendelawitz</aut>,
-          <vrk><url
-          ref="http://groups.yahoo.com/group/esperantoaustralia/message/663">
+          <vrk><url ref="http://groups.yahoo.com/group/esperantoaustralia/message/663">
           Bona krajono</url></vrk>,
           <lok>[forumo] Esperanto Australia, 2005-04</lok>
         </fnt>.
@@ -114,7 +117,7 @@
     <trd>crap !</trd>,
     <trd>shit !</trd>
   </trdgrp>
-  <trd lng="es">&#161;mierda!</trd>
+  <trd lng="es">&#xA1;mierda!</trd>
   <trd lng="fr">merde !</trd>
   <trd lng="nl">shit<klr tip="ind"> (uitroep)</klr></trd>
   <trdgrp lng="id">
@@ -138,8 +141,7 @@
         ne per papero sed per vergo ligna
         <fnt>
           <aut>B. Y. Takata</aut>,
-          <vrk><url
-          ref="http://groups.yahoo.co.jp/group/gajagaja/messages/334?expand=1">
+          <vrk><url ref="http://groups.yahoo.co.jp/group/gajagaja/messages/334?expand=1">
           Spatelo por forvi&scirc;i feka&jcirc;ojn!</url></vrk>,
           <lok>2000-11</lok>
         </fnt>.
@@ -178,7 +180,7 @@
        rektumon kaj la anuson
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=856'>Digesta
+          <lok><url ref="https://eo.wikipedia.org/?curid=856">Digesta
           sistemo</url></lok>
         </fnt>;
       </ekz>
@@ -188,7 +190,7 @@
         blankigas ilin
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=17326'>Blanka
+          <lok><url ref="https://eo.wikipedia.org/?curid=17326">Blanka
           cikonio</url></lok>
         </fnt>.
       </ekz>
@@ -233,6 +235,7 @@
     ~a&jcirc;o &gcirc;i donas kolektivan sencon. &Ccirc;u sa&gcirc;e?
     <aut>MB</aut>
   </adm>
+  <trd lng="bo">&#xF66;&#xF90;&#xFB1;&#xF42;&#xF0B;&#xF54;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>exkrement</trd>,
     <trd>stolice</trd>,
@@ -252,6 +255,11 @@
     <trd>excremento</trd>,
     <trd>mierda</trd>,
     <trd>defecaci&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x4FBF;  [<ind>&#x3060;&#x3044;&#x3079;&#x3093;</ind>]</trd>,
+    <trd>&#x304F;&#x305D;</trd>,
+    <trd>&#x7CDE;  [<ind>&#x3075;&#x3093;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_i;&c_s;&c_p;&c_r;&c_a;&c_zh;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
@@ -276,8 +284,7 @@
         <tld/>adon
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=92776'>Vindotuko</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=92776">Vindotuko</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -285,8 +292,7 @@
         <tld/>ado, kaj reproduktado
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=8733'>Mamuloj</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=8733">Mamuloj</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -317,6 +323,10 @@
     <trd>defekasi</trd>
   </trdgrp>
   <trd lng="it">defecazione</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6392;&#x4FBF;  [<ind>&#x306F;&#x3044;&#x3079;&#x3093;</ind>]</trd>,
+    <trd>&#x8131;&#x7CDE;  [<ind>&#x3060;&#x3063;&#x3077;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
       <trd>stoelgang<klr tip="ind"> (handeling)</klr></trd>,
       <trd>ontlasting<klr tip="ind"> (handeling)</klr></trd>
@@ -338,6 +348,7 @@
     <trd>bajsande<klr> (handling)</klr></trd>,
     <trd>skitande<klr> (handling)</klr></trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&#x43F;&#x43E;&c_r;&#x43E;&c_zh;&#x43D;&c_je;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="fek.0ajxo">
@@ -357,12 +368,12 @@
       <ekz>
         torfo sur <tld/>a&jcirc;on &scirc;utita helpas ne nur forigi malbonajn
         odorojn sed anka&ubreve; malkomponigi la resta&jcirc;ojn
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Saliko</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007162.html'>&Gcirc;ojoj kaj
-          &gcirc;uoj de finna somero</url></vrk>
+        <fnt><aut>Saliko</aut>
+        <vrk><url ref="&Monato;/2000/007162.html">&Gcirc;ojoj kaj
+        &gcirc;uoj 
+        de finna somero</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/12, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -370,8 +381,7 @@
         kvanto da besta <tld/>a&jcirc;o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=4458'>Vegetarismo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4458">Vegetarismo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -438,6 +448,10 @@
   <trdgrp lng="it">
    <trd>cagata</trd>, <trd>merdata</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x4FBF;  [<ind>&#x3060;&#x3044;&#x3079;&#x3093;</ind>]</trd>,
+    <trd>&#x7CDE;  [<ind>&#x3075;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
       <trd>stoelgang<klr tip="ind"> (voorwerp)</klr></trd>,
       <trd>ontlasting<klr tip="ind"> (voorwerp)</klr></trd>
@@ -456,6 +470,15 @@
     <trd>skit<klr> (subst.)</klr></trd>,
     <trd>avf&ouml;ring</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43F;&#x43E;&c_r;&#x43E;&c_zh;&#x43D;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_je;&#x43A;&c_s;&#x43A;&c_r;&c_je;&#x43C;&c_je;&#x43D;&c_t;&c_i;</trd>,
+    <trd>&c_f;&c_je;&#x43A;&c_a;&#x43B;&c_ib;&c_ji;</trd>,
+    <trd>&c_g;&c_ib;&c_v;&#x43D;&#x43E;</trd>,
+    <trd>&c_g;&#x43D;&c_ib;&c_j;</trd>,
+    <trd>&#x43F;&#x43E;&#x43A;&c_i;&c_d;&#x44C;&#x43A;&c_i;</trd>,
+    <trd>&#x43B;&c_a;&c_j;&#x43D;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fek.0ejo">
@@ -470,13 +493,14 @@
         poste li nudigis sin kaj deklaris: &leftquot;Tiu &ccirc;i domo estas 
         la plej granda fekejo, en kiu mi &gcirc;is nun estis!&rightquot;
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/006938.html'>Arkitekturo:
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2000/006938.php">Arkitekturo:
           
             Friedensreich Hundertwasser 1928 -
           
             2000</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/07, p. 12</lok>
         </fnt>
       </ekz>
     </dif>
@@ -487,6 +511,7 @@
     <trd>Klo</trd>
   </trdgrp>
   <trd lng="es">cagadero</trd>
+  <trd lng="fr">les <ind>chiottes</ind></trd>
 </drv>
 
 <drv mrk="fek.0ulo">
@@ -509,8 +534,7 @@
         finfine tiu <tld/>a <tld/>ulo mortis
         <fnt>
           <aut>Vanege</aut>
-          <vrk><url
-          ref="https://medium.com/@Vanege/miaj-sentoj-%C4%89irka%C5%AD-6-animeoj-8a9e5dda9b7a">
+          <vrk><url ref="https://medium.com/@Vanege/miaj-sentoj-%C4%89irka%C5%AD-6-animeoj-8a9e5dda9b7a">
             Miaj sentoj &ccirc;irka&ubreve; 6 animeoj</url></vrk>
           <lok>Medium, 2017-06-24</lok>
         </fnt>;
@@ -519,8 +543,7 @@
         la <tld/>o multas, kaj la <tld/>uloj e&ccirc; pli
         <fnt>
           <aut>Evgenij Georgiev</aut>
-          <vrk><url
-          ref="https://tekstaro.com/t?nomo=kontakto-2011-2019&amp;uzistreketojn=&amp;tipo=&amp;sekcio=kontakto-691&amp;antauasekcio=1&amp;postasekcio=1">
+          <vrk><url ref="&Tekstaro;?nomo=kontakto-2011-2019&amp;uzistreketojn=&amp;tipo=&amp;sekcio=kontakto-691&amp;antauasekcio=1&amp;postasekcio=1">
             Socia justeco</url></vrk>
           <lok>novelo eldonita en Kontakto</lok>
         </fnt>.
@@ -531,6 +554,7 @@
       <ref cel="fi.0ulo">fiulo</ref>
     </refgrp>
   </snc>
+  <ref tip="hom" cel="fekul.0o">fekulo (amelo)</ref>
   <trd lng="de">Arschloch<klr tip="ind"> (Person)</klr></trd>
   <trdgrp lng="en">
     <trd>asshole<klr tip="ind"> (person)</klr></trd>,
@@ -540,19 +564,41 @@
     <trd>piece of shit</trd>
   </trdgrp>
   <trd lng="fr">connard</trd>
+  <trdgrp lng="ja">
+    <trd>&#x304F;&#x305D;&#x91CE;&#x90CE;  [<ind>&#x30AF;&#x30BD;&#x3084;&#x308D;&#x3046;</ind>]</trd>,
+    <trd>&#x304F;&#x305D;&#x3063;&#x305F;&#x308C;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>zak<klr tip="ind"> (persoon)</klr></trd>,
     <trd>lul<klr tip="ind"> (persoon)</klr></trd>,
     <trd>klootzak<klr tip="ind"> (persoon)</klr></trd>,
     <trd>klojo</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43A;&c_i;&c_d;&#x44C;&#x43E;&#x43A;</trd>,
+    <trd>&#x43F;&#x43E;&#x43A;&c_i;&c_d;&#x44C;</trd>,
+    <trd>&c_g;&c_ib;&c_v;&#x43D;&#x44E;&#x43A;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_r;&c_a;&#x43D;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 
 </art>
 <!--
-$Log: fek.xml,v $
-versio 1.37 2020/03/06 13:45:22
+$Log$
+versio 1.43 2023/05/04 16:16:09
+revo: aktualigo URL-unuoj
+
+versio 1.42 2023/04/06 09:25:47
+Paul Peeraerts: &Monato;
+
+versio 1.39 2021/05/24 19:25:33
+Wolfram Diestel: +ref-hom
+
+versio 1.38 2020/05/12 15:28:09
+Damien Brucker: +trd fr
+
+Revision 1.37  2020/03/06 12:45:21  revo
 Sam Penter: + ~ulo, kun du fontoj prenitaj el fekul.xml
 
 Revision 1.36  2019/09/03 10:10:18  revo
@@ -562,17 +608,5 @@ Revision 1.35  2018/08/07 16:10:15  revo
 Michel Cantigneaux: aperas unue en PV (1934), oficialaj en 9OA (2007)
 
 Revision 1.34  2017/07/15 16:10:16  revo
-Vito Redsky: +trd ro
-
-Revision 1.33  2017/05/03 20:10:13  revo
-Wolfram Diestel: ekz-oj, germ trd-oj, ref-oj
-
-Revision 1.32  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.31  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.30  2014/06/26 14:10:20  revo
 -->
 </vortaro>

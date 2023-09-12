@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
-
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: barel.xml,v 1.26 2009/03/02 17:30:48 revo Exp $">
+<art mrk="$Id: barel.xml,v 1.39 2023/08/31 08:48:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>barel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,14 +11,41 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="barel.0o.TEK">
     <dif>
-      Ronda ventroforma ujo el lignaj kurbaj tabuletoj kunfirmigitaj per
+      Ronda ventroforma ujo el lignaj kurbaj tabuletoj
+      <klr>(<ref tip="prt" cel="dauxb.0o">da&ubreve;boj</ref>)</klr> kunfirmigitaj per
       feraj a&ubreve; lignaj ringoj kun du plataj fundoj, uzata por
       enteni akvon, vinon a&ubreve; alian flua&jcirc;on:
       <ekz>
-        la kelestro <klr>...</klr> iris al alia <tld/>o, el kiu la
-        mar&scirc;alo
-        trinkis
+        <klr>[li]</klr> donacis al mi <tld/>on da plej bona vino
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kelestro <klr>[&#x2026;]</klr> iris al alia <tld/>o, el kiu la
+        mar&scirc;alo trinkis
         <fnt><bib>ElektFab</bib>, <lok>du fratoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i &ccirc;erpas la na&gcirc;antan buteron el la <tld/>o kaj metas &gcirc;in en argilan poton
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sekve de lia instruo la mondo disfalus, kiel <tld/>o sen ringtenilo
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pli allogas kulero da mielo, ol da vinagro <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
       </ekz>
       <ekz>
         <tld/>o malplena sonas plej la&ubreve;te
@@ -28,11 +53,10 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
-    <refgrp tip="vid">
-      <ref cel="kuv.0o">kuvo</ref>,
-      <ref cel="sitel.0o">sitelo</ref>
-    </refgrp>    
-    <trd lng="be">&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>
+    <trdgrp lng="be">
+      <trd>&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>,
+      <trd>&c_b;&c_o;&c_n;&c_d;&c_a;</trd>
+    </trdgrp>
     <trd lng="bg">&c_b;&c_malmol;&c_ch;&c_v;&c_a;</trd>
     <trdgrp lng="br">
       <trd>barrikenn</trd>,
@@ -66,23 +90,69 @@
     <trd lng="ru">&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>
     <trd lng="sk">sud</trd>
   </snc>
+  <snc mrk="barel.0o.similforma">
+    <dif>
+      Similforma a&ubreve; cilindra granda ujo:
+      <ekz>
+        tie staris argilaj <tld/>oj, plenaj de ora sablo
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la turbo <klr>[&#x2026;]</klr> saltis en <tld/>on de balaa&jcirc;oj, en kiu ku&scirc;is diversaj
+        for&jcirc;eta&jcirc;oj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Gefian&ccirc;oj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj da peklita viando
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili posedas <tld/>on da oro, kaj tamen ili estis vestitaj simple
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Malnova tomba &scirc;tono</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kuv.0o">kuvo</ref>,
+      <ref cel="pelv.0o.vazo">pelvo<sncref/></ref>,
+      <ref cel="sitel.0o">sitelo</ref>,
+      <ref cel="tin.0o">tino</ref>,
+      <ref cel="trog.0o">trogo</ref>
+    </refgrp>
+    <trd lng="be">&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>
+  </snc>
   <snc mrk="barel.0o.MEZ">
     <dif>
       <ref tip="super" cel="unu.mezur0o.SCI">Mezurunuo</ref>
       responda al la enhavo de barelo kun diversaj historiaj
       valoroj, interalie por nafto kaj tiam valoranta 159 litrojn:
       <ekz>
-        en 1992 Occidental ricevis permeson ekspluati terenon kiu 
+        en 1992 <nom>Occidental</nom> ricevis permeson ekspluati terenon kiu
         enhavis 2 bilionojn da <tld/>oj de nafto
         <fnt>
         <aut>S. Oceransky, trad. R. Torres</aut>,
-        <vrk><url
-        ref="http://www.geocities.com/andajondoj/okt99/Uua.htm">Vivo a&ubreve;
+        <vrk><url ref="http://www.geocities.com/andajondoj/okt99/Uua.htm">Vivo a&ubreve;
         morto por la indi&gcirc;ena popolo Uua</url></vrk>,
         <lok>[vidita en 2006]</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="busxel.0o">bu&scirc;elo</ref>,
+      <ref cel="galjon.0o">galjono</ref>
+    </refgrp>
+    <trd lng="be">&c_b;&c_a;&c_r;&c_e;&c_l;&c_mol;</trd>
     <trd lng="it">barile</trd>
     <trd lng="fr">baril</trd>
     <trd lng="pl">bary&lstroke;ka</trd>
@@ -90,6 +160,12 @@
   <trdgrp lng="cs">
     <trd>barel</trd>,
     <trd>be&ccaron;ka</trd>
+  </trdgrp>
+  <trd lng="he">&het;&#x5B8;&bet;&#x5B4;&yod;&tav;</trd>
+  <trd lng="ja">&#x6A3D;  [<ind>&#x305F;&#x308B;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_b;&c_o;&c_d;&c_n;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -121,8 +197,10 @@
   <trd lng="fr">tonnellerie<klr tip="ind"> (fabrique)</klr></trd>
   <trd lng="hu">k&aacute;d&aacute;rm&udblac;hely</trd>
   <trd lng="it">bottificio</trd>
+  <trd lng="ja">&#x6A3D;&#x5DE5;&#x5834;  [<ind>&#x305F;&#x308B;&#x3053;&#x3046;&#x3058;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="ru">&c_b;&c_o;&c_n;&c_d;&c_a;&c_r;&c_n;&c_ja;</trd>
   <trd lng="sk">v&yacute;rob&ncaron;a sudov</trd>
+  <trd lng="uk">&c_b;&c_o;&c_n;&c_d;&c_a;&c_r;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="barel.0eto">
@@ -132,7 +210,36 @@
       Malgranda <tld/>o:
       <ekz>
         jen estas <tld/>eto da tritiko
-        <fnt><bib>FK</bib>, <lok>4, la hejmo de la metiisto</lok></fnt>.
+        <fnt><bib>FK</bib>, <lok>4, la hejmo de la metiisto</lok></fnt>;
+      </ekz>
+      <ekz>
+        li povas trinki du <tld/>etojn da juli-mielo
+        <fnt>
+          <bib>SrT</bib>
+          <lok>Libro IX.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> mem iradis kun la bier<tld/>eto al la homoj sur la vendejon
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Dekdu per la po&scirc;to</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havas lad<tld/>eton kun du litroj da brando
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Moa Martinson</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        jen fine guto de optimismo en tiun <tld/>eton de &ccirc;agreno
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 10 (108)</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -165,8 +272,7 @@
     <subsnc mrk="barel.0eto.KAL">
       <uzo tip="fak">KAL</uzo>
       <dif>
-        Ujo, en kiu trovi&gcirc;as la risorto de <ref tip="malprt"
-        cel="horlog.0o.KAL">horlo&gcirc;o</ref>.
+        Ujo, en kiu trovi&gcirc;as la risorto de <ref tip="malprt" cel="horlog.0o.KAL">horlo&gcirc;o</ref>.
       </dif>
       <trdgrp lng="it">
         <trd>bariletto<klr> (dell'orologio)</klr></trd>,
@@ -208,13 +314,27 @@
     <trd>barillet</trd>,
     <trd>tonnelet</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x6A3D;  [<ind>&#x304A;&#x305F;&#x308B;</ind>]</trd>,
+    <trd>&#x5F3E;&#x5009;  [<ind>&#x3060;&#x3093;&#x305D;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_b;&c_a;&c_r;&c_i;&c_l;&c_o;</trd>
 </drv>
 
 <drv mrk="barel.0isto">
   <kap><tld/>isto</kap>
   <snc mrk="barel.0isto.TEK">
     <dif>
-      <tld lit="B"/>faristo.
+      <tld lit="B"/>faristo:
+      <ekz>
+        la kolosa ligna <tld/>o de la teleskopo estis farita de urbaj bier<tld/>istoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2010/009731.php">Tajg kaj Tomas</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_o;&c_n;&c_d;&c_a;&c_r;</trd>
@@ -233,18 +353,21 @@
     <trd>coopersmith</trd>
   </trdgrp>
   <trd lng="fr">tonnelier</trd>
+  <trd lng="he">&yod;&tsadi;&resh;&nun;&yod;&tav; &het;&bet;&yod;&vav;&tav;</trd>
   <trdgrp lng="hu">
     <trd>k&aacute;d&aacute;r</trd>,
     <trd>bogn&aacute;r</trd>
   </trdgrp>
   <trd lng="it">bottaio</trd>
+  <trd lng="ja">&#x6A3D;&#x8077;&#x4EBA;  [<ind>&#x305F;&#x308B;&#x3057;&#x3087;&#x304F;&#x306B;&#x3093;</ind>]</trd>
   <trd lng="pl">bednarz</trd>
   <trd lng="ru">&c_b;&c_o;&c_ch;&c_a;&c_r;</trd>
  <trd lng="sk">v&yacute;robca sudov</trd>
+  <trd lng="uk">&c_b;&c_o;&c_n;&c_d;&c_a;&c_r;</trd>
 </drv>
 
 <drv mrk="barel.0igxi">
-  <kap><tld/>i&gcirc;i<fnt>Z</fnt></kap>
+  <kap><tld/>i&gcirc;i</kap>
   <snc mrk="barel.0igxi.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
@@ -279,6 +402,8 @@
     <trd lng="ru">&c_r;&c_a;&c_s;&c_t;&c_o;&c_l;&c_s;&c_t;&c_je;&c_t;&c_mol;
     &c_k;&c_a;&c_k; <ind>&c_b;&c_o;&c_ch;&c_k;&c_a;</ind></trd>
   </snc>
+  <trd lng="ja">&#x592A;&#x9F13;&#x8179;&#x306B;&#x592A;&#x308B;  [<ind>&#x305F;&#x3044;&#x3053;&#x306F;&#x3089;&#x306B;&#x3075;&#x3068;&#x308B;</ind>]</trd>
+  <trd lng="uk">&c_n;&c_a;&c_ji;&c_s;&c_t;&c_i; &c_zh;&c_i;&c_v;&c_ib;&c_t; &c_ja;&c_k; &c_b;&c_o;&c_ch;&c_k;&c_a;/&c_b;&c_o;&c_d;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="barel.en0igi">
@@ -287,7 +412,7 @@
     <uzo tip="klr">(precipe pri likva&jcirc;o)</uzo>
     <dif>
       Meti en <tld/>on.
-    </dif>   
+    </dif>
   </snc>
   <trdgrp lng="cs">
     <trd>nal&iacute;t do sudu</trd>,
@@ -328,7 +453,8 @@
     <uzo tip="klr">(precipe pri likva&jcirc;o)</uzo>
     <dif>
       Eligi el <tld/>o.
-    </dif>  
+    </dif>
+  <trd lng="de">aus dem Fass <ind>holen</ind></trd>
   </snc>
   <trdgrp lng="cs">
     <trd>vyl&iacute;t ze sudu</trd>,
@@ -343,7 +469,7 @@
     <ind>&c_b;&c_o;&c_ch;&c_k;&c_ib;</ind></trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>aus dem Fass <ind>holen</ind></trd>,
+    <trd>zapfen</trd>,
     <trd>absch&uuml;tten</trd>
   </trdgrp>
   <trd lng="en">decant</trd>
@@ -367,23 +493,30 @@
   <snc mrk="barel.nagx0o.MAR">
     <uzo tip="fak">MAR</uzo>
     <dif>
-      <ref tip="dif" cel="bu.0o">buo</ref>:
+      <ref tip="dif" cel="bu.0o">Buo</ref>:
       <ekz>
         sola na&gcirc;<tld/>o <klr>[...]</klr>
         montris la turnpunkton de la vojo &ccirc;irka&ubreve; dan&gcirc;era rifo da rokegoj
         ka&scirc;itaj en la maro
         <fnt>
           <aut>Vaganto</aut>
-          <vrk><url
-          ref="http://eo.wikisource.org/wiki/La_na%C4%9Dbarelo">
+          <vrk><url ref="http://eo.wikisource.org/wiki/La_na%C4%9Dbarelo">
           La na&gcirc;barelo</url></vrk>
           <lok>Esperantista Gazeto Danlando, 1912-08 (2)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni devis &gcirc;in utiligi <klr>[&#x2026;]</klr> kiel na&gcirc;<tld/>on: &gcirc;i devis nin subteni, por
+        ke, nin apogante sur &gcirc;in, ni povu resti sur la supra&jcirc;o de l&#x2019; ondo
+        <fnt>
+          <bib>ChL</bib>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_u;&c_j;</trd>,
+    <trd>&c_b;&c_u;&c_jo;&c_k;</trd>,
     <trd>&c_b;&c_a;&c_k;&c_je;&c_n;</trd>
   </trdgrp>
   <trdgrp lng="bg">
@@ -391,10 +524,19 @@
     <trd>&c_b;&c_u;&c_j;</trd>,
     <trd>&c_b;&c_a;&c_k;&c_je;&c_n;</trd>
   </trdgrp>
-  <trd lng="ca">boia</trd>
+  <trd lng="br">boue<klr tip="ind"> (merdeadurezh)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>boia</trd>,
+    <trd>balisa</trd>
+  </trdgrp>
+  <trd lng="cs">b&oacute;je</trd>
   <trd lng="de">Boje</trd>
   <trd lng="en">buoy</trd>
   <trd lng="es">boya</trd>
+  <trdgrp lng="fa">
+    <trd>&a_sh;&a_n;&a_A;&a_w;&a_h;</trd>,
+    <trd>&a_b;&a_w;&f_y;&a_h;</trd>
+  </trdgrp>
   <trd lng="fr">bou&eacute;e</trd>
   <trdgrp lng="hu">
     <trd>b&oacute;ja</trd>,
@@ -405,6 +547,10 @@
     <trd>boei</trd>,
     <trd>baken</trd>
   </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&uacute;sz&oacute;</trd>,
+    <trd>b&oacute;ja</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>boja</trd>,
     <trd>p&lstroke;awa</trd>,
@@ -412,6 +558,7 @@
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_b;&c_u;&c_j;</trd>,
+    <trd>&c_b;&c_u;&c_jo;&c_k;</trd>,
     <trd>&c_b;&c_a;&c_k;&c_je;&c_n;</trd>
   </trdgrp>
   <trdgrp lng="sk">
@@ -423,6 +570,21 @@
 <!--
 
 $Log$
+versio 1.38 2023/07/25 12:50:19
+Dmitri Gabinski: + trd be
+
+versio 1.37 2023/04/11 05:36:20
+aktualigo Monato-URL
+
+versio 1.36 2023/02/16 07:24:24
+Wolfram Diestel: ~o:+snc similforma; +ekz-oj, ref
+
+versio 1.35 2022/11/09 09:32:02
+Dmitri Gabinski: + trd be
+
+versio 1.33 2021/08/17 17:32:12
+Wolfram Diestel: nagx~o: +ekz, trd el nagx.xml
+
 Revision 1.30  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -430,18 +592,6 @@ Revision 1.29  2015/06/29 16:29:35  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.28  2012/08/27 07:10:10  revo
-Sebastian Cyprych: +nagx~o
-
-Revision 1.27  2011/01/11 00:10:55  revo
-Antonio Codazzi: +trd it
-
-Revision 1.26  2009/03/02 17:30:48  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.25  2008/01/21 17:30:26  revo
-Wieland Pusch: +trd bg
-
-Revision 1.24  2006/04/28 16:31:51  revo
 -->
 
 </vortaro>

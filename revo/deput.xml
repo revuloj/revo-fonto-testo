@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: deput.xml,v 1.13 2009/06/04 16:30:42 revo Exp $">
+<art mrk="$Id: deput.xml,v 1.21 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>deput</rad>/i <fnt><bib>PV</bib></fnt>
@@ -26,9 +25,9 @@
   <trd lng="ca">diputar</trd>
   <trdgrp lng="cs">
     <trd>deputovat</trd>,
-    <trd>jmenovat členem delegace</trd>,
+    <trd>jmenovat &#x10D;lenem delegace</trd>,
     <trd>vyslat</trd>,
-    <trd>vysílat</trd>
+    <trd>vys&#xED;lat</trd>
   </trdgrp>
   <trdgrp lng="de">
      <trd>abordnen</trd>,
@@ -37,6 +36,11 @@
   <trd lng="en">depute</trd>
   <trd lng="es">diputar</trd>
   <trd lng="fr">d&eacute;puter</trd>
+  <trd lng="he">&#x5DC;&#x5D1;&#x5D7;&#x5D5;&#x5E8; &#x5E0;&#x5E6;&#x5D9;&#x5D2;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9078;&#x51FA;&#x3059;&#x308B;  [<ind>&#x305B;&#x3093;&#x3057;&#x3085;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x9001;&#x308A;&#x51FA;&#x3059;  [<ind>&#x304A;&#x304F;&#x308A;&#x3060;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">deputowa&cacute;</trd>
   <trdgrp lng="pt">
     <trd>deputar</trd>,
@@ -45,9 +49,10 @@
   <trd lng="ru">&c_i;&c_z;&c_b;&c_r;&c_a;&c_t;&c_mol;
   &c_d;&c_je;&c_p;&c_u;&c_t;&c_a;&c_t;&c_a;</trd>
   <trdgrp lng="sk">
-    <trd>menovať členom delegácie</trd>,
-    <trd>vysielať</trd>
+    <trd>menova&tcaron; &#x10D;lenom deleg&#xE1;cie</trd>,
+    <trd>vysiela&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk"> &#x43E;&#x431;&#x438;&#x440;&#x430;&#x442;&#x438; &#x434;&#x435;&#x43F;&#x443;&#x442;&#x430;&#x442;&#x43E;&#x43C;</trd>
 </drv>
 
 <drv mrk="deput.0ito">
@@ -61,6 +66,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_e;&c_p;&c_u;&c_t;&c_a;&c_t;</trd>
   <trd lng="ca">diputat</trd>
   <trdgrp lng="cs">
     <trd>poslanec</trd>,
@@ -72,8 +78,16 @@
   </trdgrp>
   <trd lng="es">Diputado, -a</trd>
   <trd lng="fr">d&eacute;put&eacute;</trd>
+  <trd lng="he">&#x5E6;&#x5D9;&#x5E8; &#x5D1;&#x5D1;&#x5D9;&#x5EA;
+  &#x5D4;&#x5E0;&#x5D1;&#x5D7;&#x5E8;&#x5D9;&#x5DD;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EE3;&#x8B70;&#x58EB;  [<ind>&#x3060;&#x3044;&#x304E;&#x3057;</ind>]</trd>,
+    <trd>&#x4E0B;&#x9662;&#x8B70;&#x54E1;  [<ind>&#x304B;&#x3044;&#x3093;&#x304E;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x8846;&#x8B70;&#x9662;&#x8B70;&#x54E1;  [<ind>&#x3057;&#x3085;&#x3046;&#x304E;&#x3044;&#x3093;&#x304E;&#x3044;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">deputowany</trd>
   <trd lng="sk">deputant</trd>
+  <trd lng="uk">&#x434;&#x435;&#x43F;&#x443;&#x442;&#x430;&#x442;</trd>
 </drv>
 
 <drv mrk="deput.0itaro">
@@ -87,11 +101,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_e;&c_p;&c_u;&c_t;&c_a;&c_c;&c_k;&c_ib; &c_k;&c_o;&c_r;&c_p;&c_u;&c_s;</trd>
   <trdgrp lng="ca">
     <trd>diputaci&oacute;</trd>,
     <trd>parlament</trd>
   </trdgrp>
-  <trd lng="cs">dolní komora parlamentu</trd>
+  <trd lng="cs">doln&#xED; komora parlamentu</trd>
   <trdgrp lng="de">
      <trd>Abgeordnete</trd>,
      <trd>Abgeordnetenversammlung</trd>
@@ -99,11 +114,16 @@
   <trd lng="es">Asamblea Legislativa</trd>
   <trd lng="fr">assembl&eacute;e<klr tip="ind"> (ensembles
   d&eacute;put&eacute;s)</klr></trd>
-  <trd lng="sk">dolná komora parlamentu</trd>
+  <trd lng="ja">&#x56FD;&#x4F1A;&#x8B70;&#x54E1;&#x56E3;  [<ind>&#x3053;&#x3063;&#x304B;&#x3044;&#x304E;&#x3044;&#x3093;&#x3060;&#x3093;</ind>]</trd>
+  <trd lng="sk">doln&#xE1; komora parlamentu</trd>
+  <trd lng="uk">&#x434;&#x435;&#x43F;&#x443;&#x442;&#x430;&#x446;&#x456;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2021/07/12 08:33:33
+Dmitri Gabinski: +trd be
+
 Revision 1.16  2015/06/29 16:29:36  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -123,11 +143,5 @@ Revision 1.11  2006/03/03 17:31:05  revo
 Eduardo Navas: +trd es
 
 Revision 1.10  2005/04/14 16:33:53  revo
-Raul Salinas Monteagudo: +trd es
-
-Revision 1.9  2003/12/13 17:31:38  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/04/11 16:32:01  revo
 -->
 </vortaro>

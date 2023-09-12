@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kompoz.xml,v 1.12 2007/01/01 19:47:56 revo Exp $">
+<art mrk="$Id: kompoz.xml,v 1.19 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <rad>kompozici</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -42,15 +41,17 @@
     <trd>composition<klr tip="ind"> (musicale)</klr></trd>,
     <trd>&oelig;uvre <ind>musicale</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#x4F5C;&#x54C1;  [<ind>&#x3055;&#x304F;&#x3072;&#x3093;</ind>]</trd>
   <trd lng="nl">compositie</trd>
   <trd lng="pl">kompozycja</trd>
   <trd lng="pt">composi&ccedil;&atilde;o</trd>
-  <trd lng="ro">compozi&#539;ie</trd>
+  <trd lng="ro">compozi&#x21B;ie</trd>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_ja;</trd>
   <trdgrp lng="sk">
     <trd>kus</trd>,
     <trd>skladba</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&#x43E;&#x43C;&#x43F;&#x43E;&#x437;&#x438;&#x446;&#x456;&#x44F;</trd>
 </drv>
 
 <drv mrk="kompoz.0i">
@@ -65,8 +66,7 @@
         ke ili sufoku la diajn povojn pentri, <tld/>i, kanti, verki 
         <fnt>
           <aut>C. Oxenford</aut>,
-          <vrk><url
-          ref="http://arkivo.esperanto-france.org/divers/oxenford/vagabond.htm">
+          <vrk><url ref="http://arkivo.esperanto-france.org/divers/oxenford/vagabond.htm">
           La Historio de la Esperantista Vagabonda Klubo</url></vrk>,
           <lok>1912</lok>
         </fnt>.

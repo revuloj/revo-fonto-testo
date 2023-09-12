@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rakont.xml,v 1.118 2023/09/03 07:53:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rakont</rad>/i <fnt><bib>PV</bib></fnt>
@@ -36,6 +35,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en">narrate</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_s;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -52,7 +52,8 @@
   <trd lng="de">erz&auml;hlen</trd>
   <trdgrp lng="en">
     <trd>relate</trd>,
-    <trd>tell</trd>
+    <trd>tell</trd>,
+    <trd>recount</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>contar</trd>,
@@ -70,10 +71,16 @@
     <trd>elmes&eacute;l</trd>
   </trdgrp>
   <trdgrp lng="id">
-    <trd>[<ind>cerita</ind>] bercerita</trd>,
-    <trd>[<ind>cerita</ind>] menceritakan</trd>
+    <trd>ber<ind>cerita</ind></trd>,
+    <trd>men<ind>cerita</ind>kan</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7269;&#x8A9E;&#x308B;  [<ind>&#x3082;&#x306E;&#x304C;&#x305F;&#x308B;</ind>]</trd>,
+    <trd>&#x8A9E;&#x308B;  [<ind>&#x304B;&#x305F;&#x308B;</ind>]</trd>,
+    <trd>&#x8A71;&#x3092;&#x3059;&#x308B;  [<ind>&#x306F;&#x306A;&#x3057;&#x3092;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">vertellen</trd>
+  <trd lng="pl">opowiada&cacute;</trd>
   <trdgrp lng="pt">
     <trd>contar</trd>,
     <trd>narrar</trd>
@@ -87,6 +94,7 @@
     <trd>rozpoveda&tcaron;</trd>,
     <trd>rozpr&aacute;va&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_o;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="rakont.0o">
@@ -96,8 +104,8 @@
     <dif>
       Tio, kion iu <tld/>as:
       <ekz>
-        mi donis al li la <tld/>ojn pri la malproksima Nordo de Jack
-        London
+        mi donis al li la <tld/>ojn pri la malproksima Nordo de
+        <nom>Jack London</nom>
         <fnt><bib>&Ccirc;uk&ccirc;oj</bib>, <lok>la trimova
         &scirc;akproblemo</lok></fnt>.
       </ekz>
@@ -105,35 +113,51 @@
         en <ctl>La ludanta lumo</ctl> aperas tri erotikaj
         <tld/>oj
         <fnt>
-        <aut>S. Johansson</aut>,
-        <vrk>Hamburgero ne tre erotika</vrk>,
-        <bib>Monato</bib>,
-        <lok>1996:7a, p. 22a</lok>
-        </fnt>.
+          <aut>Sten Johansson</aut>,
+          <vrk><url ref="&Monato;/1996/005079.php">Hamburgero ne tre erotika</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>1996/07, p. 22</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">storie</trd>
+  <trd lng="am">&#x1273;&#x122A;&#x12AD;</trd>
+  <trd lng="ar">&a_q;&a_S;&a_t_marbuta;</trd>
+  <trd lng="az">hekay&#x259;</trd>
   <trdgrp lng="be">
     <trd>&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
     <trd>&c_a;&c_p;&c_o;&c_v;&c_ja;&c_d;</trd>
   </trdgrp>
+  <trd lng="bn">&#x997;&#x9B2;&#x9CD;&#x9AA;</trd>
+  <trd lng="bo">&t_sa;&t_gata;&t_rata;&t_shabchu;&t_nga;&t_tsheg;</trd>
+  <trd lng="bs">pri&ccaron;a</trd>
   <trdgrp lng="ca">
     <trd>conte</trd>,
     <trd>relat</trd>,
     <trd>narraci&oacute;</trd>
   </trdgrp>
+  <trd lng="co">storia</trd>
   <trdgrp lng="cs">
     <trd>historka</trd>,
     <trd>pov&iacute;dka</trd>,
     <trd>vypr&aacute;v&ecaron;n&iacute;</trd>
   </trdgrp>
+  <trd lng="cy">stori</trd>
+  <trd lng="da">historie</trd>
   <trd lng="de">Erz&auml;hlung</trd>
-  <trd lng="en">story</trd>
+  <trdgrp lng="en">
+    <trd>story</trd>,
+    <trd>narrative</trd>,
+    <trd>account</trd>,
+    <trd>tale</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>cuento</trd>,
     <trd>relato</trd>,
     <trd>narraci&oacute;n</trd>
   </trdgrp>
+  <trd lng="et">lugu</trd>
+  <trd lng="eu">istorioa</trd>
   <trdgrp lng="fa">
     <trd>&a_n;&a_q;&a_l;</trd>,
     <trd>&a_d;&a_A;&a_s;&a_t;&a_A;&a_n;</trd>,
@@ -143,14 +167,82 @@
     <trd>conte</trd>,
     <trd>r&eacute;cit</trd>
   </trdgrp>
+  <trd lng="fy">ferhaal</trd>
+  <trd lng="ga">sc&eacute;al</trd>
+  <trd lng="gd">sgeulachd</trd>
+  <trd lng="gl">historia</trd>
+  <trd lng="gu">&#xAB5;&#xABE;&#xAB0;&#xACD;&#xAA4;&#xABE;</trd>
+  <trd lng="hi">&#x915;&#x939;&#x93E;&#x928;&#x940;</trd>
+  <trd lng="hmn">zaj dab neeg</trd>
+  <trd lng="hr">pri&ccaron;a</trd>
+  <trd lng="ht">istwa</trd>
   <trd lng="hu">elbesz&eacute;l&eacute;s</trd>
+  <trd lng="hy">&#x57A;&#x561;&#x57F;&#x574;&#x578;&#x582;&#x569;&#x575;&#x578;&#x582;&#x576;</trd>
   <trd lng="id">cerita</trd>
+  <trd lng="ig">ak&#x1EE5;k&#x1ECD;</trd>
+  <trd lng="is">saga</trd>
+  <trd lng="ja">&#x7269;&#x8A9E; [<ind>&#x3082;&#x306E;&#x304C;&#x305F;&#x308A;</ind>]</trd>
+  <trd lng="jv">crita</trd>
+  <trd lng="ka">&#x10D8;&#x10E1;&#x10E2;&#x10DD;&#x10E0;&#x10D8;&#x10D0;</trd>
+  <trd lng="kk">&#x4D9;&#x4A3;&c_g;&c_ib;&c_m;&c_je;</trd>
+  <trd lng="km">&#x179A;&#x17BF;&#x1784;</trd>
+  <trd lng="kn">&#xC95;&#xCA5;&#xCC6;</trd>
+  <trd lng="ko">&#xC774;&#xC57C;&#xAE30;</trd>
+  <trd lng="ku">&Ccedil;&icirc;rok</trd>
+  <trd lng="ky">&c_b;&c_a;&c_ja;&c_n;</trd>
+  <trd lng="lat">fabula</trd>
+  <trd lng="lo">&#xEC0;&#xEA5;&#xEB7;&#xEC8;&#xEAD;&#xE87;</trd>
+  <trd lng="lt">istorija</trd>
+  <trd lng="lv">st&#x15D1;sts</trd>
+  <trd lng="mg">tantara</trd>
+  <trd lng="mi">k&#x161D;rero</trd>
+  <trd lng="mk">&c_p;&c_r;&c_i;&c_k;&c_a;&c_z;&c_n;&c_a;</trd>
+  <trd lng="ml">&#xD15;&#xD25;</trd>
+  <trd lng="mn">&c_t;&#x4AF;&#x4AF;&c_h;</trd>
+  <trd lng="mr">&#x915;&#x925;&#x93E;</trd>
+  <trd lng="ms">cerita</trd>
+  <trd lng="mt">istorja</trd>
+  <trd lng="my">&#x1007;&#x102C;&#x1010;&#x103A;&#x101C;&#x1019;&#x103A;&#x1038;</trd>
+  <trd lng="ne">&#x915;&#x925;&#x93E;</trd>
   <trd lng="nl">verhaal</trd>
+  <trd lng="ny">nkhani</trd>
+  <trd lng="pa">&#xA15;&#xA39;&#xA3E;&#xA23;&#xA40;</trd>
+  <trdgrp lng="pl">
+    <trd>opowiadanie</trd>,
+    <trd>powiastka</trd>,
+    <trd>przypowie&sacute;&cacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&f_k;&a_y;&a_s;&a_h;</trd>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_k;&c_a;&c_z;</trd>
+  <trd lng="rw">inkuru</trd>
+  <trd lng="sd">&#x6AA;&a_h;&a_A;&#x6BB;&a_y;</trd>
+  <trd lng="si">&#xD9A;&#xDAD;&#xDCF;&#xDC0;</trd>
   <trdgrp lng="sk">
     <trd>historka</trd>,
     <trd>rozpr&aacute;vka</trd>
   </trdgrp>
+  <trd lng="sl">zgodba</trd>
+  <trd lng="sm">tala</trd>
+  <trd lng="sn">nyaya</trd>
+  <trd lng="so">sheeko</trd>
+  <trd lng="sq">histori</trd>
+  <trd lng="st">pale</trd>
+  <trd lng="su">dongeng</trd>
+  <trd lng="sw">hadithi</trd>
+  <trd lng="ta">&#xB95;&#xBA4;&#xBC8;</trd>
+  <trd lng="te">&#xC15;&#xC25;</trd>
+  <trd lng="tg">&c_o;&c_sh;&c_jo;&c_n;&c_a;</trd>
+  <trd lng="th">&#xE40;&#xE23;&#xE37;&#xE48;&#xE2D;&#xE07;&#xE23;&#xE32;&#xE27;</trd>
+  <trd lng="tl">kuwento</trd>
+  <trd lng="tt">&c_h;&c_i;&c_k;&#x4D9;&c_ja;</trd>
+  <trd lng="uk">&c_ib;&c_s;&c_t;&c_o;&c_r;&c_ib;&c_ja;</trd>
+  <trd lng="ur">&f_k;&#x6C1;&a_A;&a_n;&f_y;</trd>
+  <trd lng="uz">hikoya</trd>
+  <trd lng="vi">c&acirc;u chuy&#x1EC7;n</trd>
+  <trd lng="xh">ibali</trd>
+  <trd lng="yi">&gimel;&ayin;&shin;&yod;&kaf;&tet;&ayin;</trd>
+  <trd lng="yo">itan</trd>
+  <trd lng="zu">indaba</trd>
 </drv>
 
 <drv mrk="rakont.0ema">
@@ -170,7 +262,35 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_r;&c_a;&c_s;&c_a;&c_m;&c_o;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_g;&c_a;&c_v;&c_a;&c_r;&c_k;&c_ib;</trd>
+  </trdgrp>
   <trd lng="fr">disert<klr> (qui raconte bien)</klr></trd>
+  <trd lng="pl">rozmowny</trd>
+</drv>
+
+<drv mrk="rakont.0ero">
+  <kap>
+    <tld/>ero
+  </kap>
+  <snc mrk="rakont.0ero.BELE">
+    <dif>
+      Parto de pli vasta <tld/>o,
+      <ref tip="vid" cel="epizod.0o.BELE">epizodo<sncref/></ref>:
+      <ekz>
+        mi sen&ccirc;ese revenas al la pentra&jcirc;o por havigi al mi la respondon, la <tld/>eron,
+        kiu &scirc;topos la mankon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a; <klr>(&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>,
+    <trd>&c_e;&c_p;&c_ib;&c_z;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trd lng="en">episode</trd>
+  <trd lng="fr">&eacute;pisode</trd>
+  <trd lng="pl">fragment</trd>
 </drv>
 
 <drv mrk="rakont.0inda">
@@ -191,6 +311,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_ib;&c_k;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_y; <ind>&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="en">worth telling</trd>
   <trdgrp lng="es">
     <trd>buena historia</trd>,
     <trd>digna de ser <ind>contada</ind></trd>
@@ -199,6 +324,7 @@
     <trd>bien bonne<klr> (histoire)</klr></trd>,
     <trd>digne d'&ecirc;tre <ind>racont&eacute;</ind></trd>
   </trdgrp>
+  <trd lng="pl">warte <ind>opowie&sacute;ci</ind></trd>
 </drv>
 
 <drv mrk="rakont.0isto">
@@ -212,17 +338,40 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_ch;</trd>,
+    <trd>&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_k;&c_a;&c_z;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_b;&c_a;&c_j;&c_k;&c_a;&c_r;</trd>
+  </trdgrp>
   <trd lng="ca">rondallaire</trd>
   <trd lng="cs">pov&iacute;dk&aacute;&rcaron;</trd>
-  <trd lng="en">storyteller</trd>
+  <trdgrp lng="en">
+    <trd>storyteller</trd>,
+    <trd>narrator</trd>
+  </trdgrp>
   <trd lng="es">narrador</trd>
   <trdgrp lng="fa">
-    <trd>&a_q;&a_S;&a_h;&zwnj;&f_g;&a_w;</trd>,
+    <trd>&a_q;&a_S;&a_h;&#x200C;&f_g;&a_w;</trd>,
     <trd>&a_n;&a_q;&a_A;&a_l;</trd>
   </trdgrp>
   <trd lng="fr">conteur</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A71;&#x306E;&#x3058;&#x3087;&#x3046;&#x305A;&#x306A;&#x4EBA;  [<ind>&#x306F;&#x306A;&#x3057;&#x306E;&#x3058;&#x3087;&#x3046;&#x305A;&#x306A;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x7269;&#x8A9E;&#x4F5C;&#x5BB6;  [<ind>&#x3082;&#x306E;&#x304C;&#x305F;&#x308A;&#x3055;&#x3063;&#x304B;</ind>]</trd>,
+    <trd>&#x8A9E;&#x308A;&#x624B;  [<ind>&#x304B;&#x305F;&#x308A;&#x3066;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verteller</trd>
+  <trdgrp lng="pl">
+    <trd>opowiadacz</trd>,
+    <trd>gaw&eogonek;dziarz</trd>,
+    <trd>narrator</trd>
+  </trdgrp>
   <trd lng="sk">rozpr&aacute;va&ccaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_ch;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_ch;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rakont.antaux0i">
@@ -239,6 +388,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_c;&c_mol; <klr>(&c_z;&c_a;&c_g;&c_a;&c_d;&c_z;&c_ja;, &c_p;&c_r;&c_a; &c_n;&c_je;&c_sh;&c_t;&c_a; &c_w; &c_b;&c_u;&c_d;&c_u;&c_ch;&c_y;&c_n;&c_ib;)</klr></trd>
   <trdgrp lng="ca">
     <trd>relatar per endavant</trd>,
     <trd>contar anticipadament</trd>
@@ -250,22 +400,22 @@
     <trd>raconter d'avance</trd>
   </trdgrp>
   <trd lng="nl">verklappen</trd>
+  <trd lng="pl">opowiedzie&cacute; z wyprzedzeniem</trd>
 </drv>
 
 <drv mrk="rakont.bild0o">
   <kap>bild<tld/>o</kap>
   <snc mrk="rakont.bild0o.BELA">
     <dif>
-      <tld lit="R"/>o prezentata precipe per <ref tip="prt"
-      cel="bild.0o">bildoj</ref>:
+      <tld lit="R"/>o prezentata precipe per <ref tip="prt" cel="bild.0o">bildoj</ref>:
       <ekz>
         <klr>[en]</klr> la fruaj bild<tld/>oj de la 19a jarcento
-        <klr>...</klr>
+        <klr>[&#x2026;]</klr>
         &ccirc;iu bildo montras scenon kiel &gcirc;i prezentas sin al la okulo,
         dum la akompana teksto devas klarigi &ccirc;ion, en normala,
         kontinua liriko a&ubreve; prozo
         <fnt><aut>M. Weichert</aut>, <vrk>Cent jaroj Yellow Kid
-        &#8208;
+        &#x2010;
         Jarmiloj da bildliteraturo</vrk>, <bib>LF</bib>, <lok>nov.-dec.
         1996</lok>,
         <url>http://www.esperanto.net/martin.weichert/bildlit.html</url>
@@ -307,10 +457,16 @@
     <trd>BD</trd>
   </trdgrp>
   <trd lng="id">komik</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D75;&#x7269;&#x8A9E;  [<ind>&#x3048;&#x3082;&#x306E;&#x304C;&#x305F;&#x308A;</ind>]</trd>,
+    <trd>&#x5287;&#x753B;  [<ind>&#x3052;&#x304D;&#x304C;</ind>]</trd>,
+    <trd>&#x6F2B;&#x753B;  [<ind>&#x307E;&#x3093;&#x304C;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">strip</trd>
+  <trd lng="pl">komiks</trd>
   <trdgrp lng="pt">
     <trd>hist&oacute;ria em quadrinhos</trd>,
-    <trd>HQ</trd>,    
+    <trd>HQ</trd>,
     <trd>banda desenhada</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_i;&c_k;&c_s;</trd>
@@ -318,6 +474,7 @@
     <trd>komiks</trd>,
     <trd>obr&aacute;zkov&yacute; seri&aacute;l</trd>
   </trdgrp>
+  <trd lng="uk">&c_k;&c_o;&c_m;&c_ib;&c_k;&c_s;</trd>
 </drv>
 
 <drv mrk="rakont.mir0o">
@@ -329,23 +486,35 @@
       esta&jcirc;oj kaj similaj:
       <ekz>
         karavanvoja&gcirc;istoj tre amas forpasigi la tempon sur la vojo, en
-        gastejoj <klr>...</klr> per <tld/>ado de mir<tld/>oj
+        gastejoj <klr>[&#x2026;]</klr> per <tld/>ado de mir<tld/>oj
         <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 6a</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_z;&c_k;&c_a;</trd>,
+    <trd>&c_b;&c_a;&c_j;&c_k;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>rondalla de la vora del foc</trd>,
     <trd>hist&ograve;ria fabulosa</trd>
   </trdgrp>
   <trd lng="cs">b&aacute;chorka</trd>
-  <trd lng="en">fairy tale</trd>
+  <trdgrp lng="en">
+    <trd>fairy tale</trd>,
+    <trd>fable</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>f&aacute;bula</trd>
   </trdgrp>
   <trd lng="fa">&a_q;&a_S;&a_h;&a_hamza_sure; &f_p;&a_r;&f_y;&a_A;&a_n;</trd>
   <trd lng="fr">conte merveilleux</trd>
+  <trd lng="ja">&#x304A;&#x3068;&#x304E;&#x8A71;  [<ind>&#x304A;&#x3068;&#x304E;&#x3070;&#x306A;&#x3057;</ind>]</trd>
   <trd lng="nl">sprookje</trd>
+  <trdgrp lng="pl">
+    <trd>cudowna  <ind>opowie&sacute;&cacute;</ind></trd>,
+    <trd>ba&sacute;&nacute;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>b&aacute;chorka</trd>,
     <trd>v&yacute;mysel</trd>
@@ -381,7 +550,9 @@
   </trdgrp>
   <trd lng="hu">n&eacute;pmese</trd>
   <trd lng="id"><ind>cerita</ind> rakyat</trd>
+  <trd lng="ja">&#x6C11;&#x8A71;  [<ind>&#x307F;&#x3093;&#x308F;</ind>]</trd>
   <trd lng="nl">volksverhaal</trd>
+  <trd lng="pl">opowie&sacute;&cacute; ludowa</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_je;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_s;&c_k;&c_a;&c_z;&c_a;&c_n;&c_i;&c_ja;</trd>
@@ -405,6 +576,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_e;&c_t;&c_a; &c_ib;&c_n;&c_sh;&c_a;&c_ja; <ind>&c_g;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_ja;</ind></trd>
   <trd lng="ca">aix&ograve; &eacute;s ja una altra hist&ograve;ria</trd>
   <trdgrp lng="en">
     <trd>that's another story</trd>,
@@ -413,28 +585,32 @@
   <trd lng="es">eso es otra historia</trd>
   <trd lng="fr">c'est une autre histoire</trd>
   <trd lng="nl">dat is een ander <ind>verhaal</ind></trd>
+  <trd lng="pl">to ju&zdot; jest inna  <ind>historia</ind></trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.30  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.117 2023/08/29 20:27:07
+Wolfram Diestel: ja: prononco
 
-Revision 1.29  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.116 2023/05/23 21:24:15
+Vito Redsky: +trd pl
 
-Revision 1.28  2014/12/02 10:10:15  revo
-Guillermo Molleda Jimena: trd es
+versio 1.115 2023/05/08 10:30:12
+Paul Peeraerts: + lok + url
 
-Revision 1.27  2014/06/03 15:10:35  revo
-Eko Nur Syah Hidayat: +id
+versio 1.114 2022/07/04 08:49:21
+Dmitri Gabinski: + trd be
 
-Revision 1.26  2014/02/08 16:10:31  revo
-Damien Brucker: -eraro cxe ref
+versio 1.113 2022/06/29 08:39:59
+Dmitri Gabinski: + trd be
 
-Revision 1.25  2013/12/20 02:10:16  revo
-Jeromo Vasxe: + ~inda
+versio 1.112 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.24  2011/11/23 11:10:10  revo
+versio 1.111 2022/04/06 10:40:26
+Noam Mohr: +trd en rakont-
+
+versio 1.33 2020/11/19 20:32:28
 -->
 </vortaro>

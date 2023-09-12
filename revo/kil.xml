@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kil.xml,v 1.15 2009/08/25 16:33:15 revo Exp $">
+<art mrk="$Id: kil.xml,v 1.22 2023/09/01 15:07:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kil</rad>/o
@@ -30,19 +29,28 @@
     <trd>haj&oacute;t&odblac;ke</trd>,
     <trd>haj&oacute;gerinc</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30AD;&#x30FC;&#x30EB;</trd>,
+    <trd>&#x7ADC;&#x9AA8;  [<ind>&#x308A;&#x3085;&#x3046;&#x3053;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kiel</trd>
   <trdgrp lng="pl">
     <trd>kil</trd>,
     <trd>st&eogonek;pka</trd>
   </trdgrp> 
-  <trd lng="ro">chil&abreve;</trd>
+  <trd lng="nl">kiel</trd>
+  <trd lng="pt">quilha</trd>
   <trd lng="ru">&c_k;&c_i;&c_l;&c_mol;</trd>
   <trd lng="sk">&ccaron;lnok</trd>
   <trd lng="tr">gemi omurgas&inodot;</trd>
+  <trd lng="uk">&#x43A;&#x456;&#x43B;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2020/05/11 14:10:16
+Celio Freitas Martins: aldono
+
 Revision 1.18  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

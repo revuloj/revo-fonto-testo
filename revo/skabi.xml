@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: skabi.xml,v 1.20 2023/09/03 18:39:54 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skabi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,8 +11,7 @@
   <snc mrk="skabi.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Infekta <ref tip="lst" cel="san.mal0o.MED"
-      lst="voko:malsanoj">malsano</ref>
+      Infekta <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
       de la ha&ubreve;to ka&ubreve;zata de malgrandaj akaroj
       kaj karakterizata de forta jukado:
       <ekz>
@@ -23,13 +21,13 @@
           <aut>J. Ribillard</aut>,
           <vrk>Vagado sub palmoj</vrk>,
           <lok>Rotterdam, 1956</lok>
-        </fnt>.        
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_r;&c_o;&c_s;&c_t;&c_a;</trd>
   <trdgrp lng="cs">
-    <trd>prašivina</trd>,
+    <trd>pra&scaron;ivina</trd>,
     <trd>skabies</trd>,
     <trd>svrab</trd>
   </trdgrp>
@@ -48,16 +46,25 @@
     <trd>kudis</trd>,
     <trd>skabies</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#x3044;&#x305B;&#x3093;</trd>,
+    <trd>&#x3072;&#x305C;&#x3093;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>schurft</trd>,
     <trd>scabi&euml;s</trd>
   </trdgrp>
+  <trd lng="pl">&sacute;wierzb</trd>
   <trd lng="ru">&c_ch;&c_je;&c_s;&c_o;&c_t;&c_k;&c_a;</trd>
   <trd lng="sk">svrab</trd>
+  <trd lng="uk">&#x43A;&#x43E;&c_r;&#x43E;&c_s;&c_t;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2023/09/02 21:21:34
+Vito Redsky: +trd pl 
+
 Revision 1.16  2015/06/29 16:33:23  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -77,11 +84,5 @@ Revision 1.11  2009/11/05 17:30:13  revo
 Jeromo Vasxe: + ekz + tez + trd fr
 
 Revision 1.10  2004/10/13 16:33:25  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2003/08/31 16:31:22  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/02/13 17:32:07  revo
 -->
 </vortaro>

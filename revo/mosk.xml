@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mosk.xml,v 1.11 2009/08/25 16:31:29 revo Exp $">
+<art mrk="$Id: mosk.xml,v 1.19 2023/09/02 06:04:14 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>mosk</rad>/o
@@ -11,22 +10,35 @@
   <kap><tld/>o</kap>
   <snc mrk="mosk.0o.PAR">
     <dif>
-      Tre odora substanco uzata por fabriki parfumojn, sekreciita de iuj
-      bestoj, precipe de iu rema&ccirc;ulo, analoga al kapreolo.
+      Tre odora substanco uzata por fabriki <ref cel="parfum.0o">parfumo</ref>jn, 
+      sekreciita de iuj bestoj, precipe de <ref cel="mosk.0ulo">moskulo</ref>, 
+      iam anka&ubreve; de <ref cel="zibet.0o">zibeto</ref>:
+      <ekz>
+        la materialo de la kvintesenco estas orienta safrano, ru&gcirc;a rozfolio,
+        <klr>[&#x2026;]</klr> kaj <tld/>o
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>Supersti&ccirc;o</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_u;&c_s;&c_k;&c_u;&c_s;</trd>
   <trdgrp lng="cs">
-    <trd>mošus</trd>,
-    <trd>pižmo</trd>
+    <trd>mo&scaron;us</trd>,
+    <trd>pi&zcaron;mo</trd>
   </trdgrp>
   <trd lng="de">Moschus</trd>
   <trd lng="en">musk</trd>
   <trd lng="fr">musc</trd>
+  <trd lng="ja">&#x3058;&#x3083;&#x9999;  [<ind>&#x3058;&#x3083;&#x304B;&#x304A;&#x308A;</ind>]</trd>
   <trd lng="nl">muscus</trd>
+  <trd lng="pl">pi&zdot;mo</trd>
   <trd lng="pt">alm&iacute;scar</trd>
+  <trd lng="ro">mosc</trd>
   <trd lng="ru">&c_m;&c_u;&c_s;&c_k;&c_u;&c_s;</trd>
-  <trd lng="sk">pižmo</trd>
+  <trd lng="sk">pi&zcaron;mo</trd>
+  <trd lng="uk">&c_m;&c_u;&c_s;&c_k;&c_u;&c_s;</trd>
 </drv>
 
 <drv mrk="mosk.0ulo">
@@ -34,28 +46,42 @@
   <snc mrk="mosk.0ulo.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="dif" cel="ondatr.0o">Ondatro</ref>:
+      <ref tip="lst" lst="voko:zoologiaj_genroj" cel="genr.0o.BIO">Genro</ref> de 
+      <ref tip="malprt" cel="huf.par0uloj">parhufuloj</ref> (<trd lng="la">Moschus</trd>), 
+      vivantaj precipe en la montaroj de suda Azio:
       <ekz>
         dek <tld/>ulaj feloj
         <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 105a, volumo 3a, p.
         367a</lok></fnt>.
       </ekz>
     </dif>
+    <bld lok="&WCU;/thumb/2/2f/Siberian_Musk_Deer.jpg/446px-Siberian_Musk_Deer.jpg" prm="CC0">siberia <tld/>o en Tajgo
+        <fnt>
+          <aut>Erik Adamsson, propra verko</aut>
+          <lok><url ref="&WCW;/File:Siberian_Musk_Deer.jpg">&WCW;/File:Siberian_Musk_Deer.jpg</url></lok>
+        </fnt>
+    </bld>
   </snc>
-  <trd lng="be">&c_a;&c_n;&c_d;&c_a;&c_t;&c_r;&c_a;</trd>
-  <trdgrp lng="de"><trd>Bisamratte</trd>,
-  <trd>Moschusratte</trd></trdgrp>
-  <trd lng="fr">rat musqu&eacute;</trd>
-  <trd lng="nl">muskusrat</trd>
-  <trdgrp lng="pt">
-   <trd>rato-almiscarado</trd>,
-    <trd>Ondatra zibethicus</trd>
-  </trdgrp>
-  <trd lng="ru">&c_o;&c_n;&c_d;&c_a;&c_t;&c_r;&c_a;</trd>
+  <trd lng="de">Moschustier</trd>
+  <trd lng="fr">moschus</trd>
+  <trd lng="ja">&#x30B8;&#x30E3;&#x30B3;&#x30A6;&#x30B8;&#x30AB;</trd>
+  <trd lng="pl">pi&zdot;mowiec syberyjski</trd>
+  <trd lng="ro">moschus</trd>
+  <trd lng="ru">&c_K;&c_a;&c_b;&c_a;&c_r;&c_g;&c_i;</trd>
+  <trd lng="uk">&c_k;&c_a;&c_b;&c_a;&c_r;&c_g;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2023/05/05 17:57:59
+revo: aktualigo URL-unuoj
+
+versio 1.17 2022/11/28 20:27:15
+Wolfram Diestel: ~o: +ekz, precizigo; ~ulo: dif ghustigita al genro M. kaj bildo, ioma korekto de trd-oj
+
+versio 1.15 2020/10/30 22:10:37
+Vito Redsky: +trd pl  + trd ro 
+
 Revision 1.13  2015/06/29 16:33:20  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -69,17 +95,5 @@ Revision 1.10  2007/12/17 17:30:14  revo
 Jeromo Vasxe: + trd fr
 
 Revision 1.9 2007/06/02 19:47:44 revo
-Wieland Pusch: +trd de
-
-Revision 1.8 2006/08/13 19:30:52 revo
-Tulio Flores: +tr pt
-
-Revision 1.7 2004/09/07 16:31:41 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.6 2001/11/28 19:04:31 revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/09/23 18:30:44 revo
 -->
 </vortaro>

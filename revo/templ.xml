@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: templ.xml,v 1.33 2023/09/04 18:15:46 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>templ</rad>/o
@@ -55,6 +54,7 @@
       </snc>
   <trd lng="be">&c_h;&c_r;&c_a;&c_m;</trd>
   <trd lng="bg">&c_h;&c_r;&c_a;&c_m;</trd>
+  <trd lng="bo">&#xF63;&#xFB7;&#xF0B;&#xF41;&#xF44;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>chr&aacute;m</trd>,
     <trd>posv&aacute;tn&eacute; m&iacute;sto</trd>,
@@ -68,9 +68,17 @@
         <trd>&a_m;&a_ayn;&a_b;&a_d;</trd>
       </trdgrp>
   <trd lng="fr">temple</trd>
-  <trd lng="hi">&#2350;&#2306;&#2342;&#2367;&#2352; [<ind>ma&#7745;dir</ind>]</trd>
+  <trd lng="hi">&#x92E;&#x902;&#x926;&#x93F;&#x930; [<ind>ma&#x1E41;dir</ind>]</trd>
   <trd lng="hu">templom</trd>
   <trd lng="it">tempio</trd>
+  <trdgrp lng="ja">
+    <trd>&#x795E;&#x6BBF;  [<ind>&#x3057;&#x3093;&#x3067;&#x3093;</ind>]</trd>,
+    <trd>&#x5BFA;&#x9662;  [<ind>&#x3058;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x8056;&#x5802;  [<ind>&#x305B;&#x3044;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x793C;&#x62DD;&#x5802;  [<ind>&#x308C;&#x3044;&#x306F;&#x3044;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x6559;&#x4F1A;&#x5802;  [<ind>&#x304D;&#x3087;&#x3046;&#x304B;&#x3044;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x6BBF;&#x5802;  [<ind>&#x3067;&#x3093;&#x3069;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tempel</trd>
   <trdgrp lng="pl">
         <trd>&sacute;wi&aogonek;tynia</trd>,
@@ -84,10 +92,11 @@
     <trd>chr&aacute;m</trd>,
     <trd>posv&auml;tn&eacute; miesto</trd>
   </trdgrp>
+  <trd lng="uk">&#x445;&#x440;&#x430;&#x43C;</trd>
   <trdgrp lng="zh">
-    <trd>&#27583;<klr> [di&agrave;n]</klr></trd>,
-    <trd>&#24217;<klr> [mi&agrave;o]</klr></trd>,
-    <trd>&#23546;&#65288;&#20315;&#23546;&#65289;<klr>[s&igrave;]</klr></trd>
+    <trd>&#x6BBF;<klr> [di&agrave;n]</klr></trd>,
+    <trd>&#x5E99;<klr> [mi&agrave;o]</klr></trd>,
+    <trd>&#x5BFA;&#xFF08;&#x4F5B;&#x5BFA;&#xFF09;<klr>[s&igrave;]</klr></trd>
   </trdgrp>
 </drv>
 

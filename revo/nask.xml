@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: nask.xml,v 1.80 2020/02/15 20:10:17 revo Exp $">
+  <art mrk="$Id: nask.xml,v 1.88 2023/09/02 12:44:20 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>nask</rad>/i
@@ -82,7 +81,7 @@
       <trd>gerar</trd>
     </trdgrp>
     <trd lng="hu">sz&uuml;l</trd>
-    <trd lng="ro">a na&scedil;te</trd>
+    <trd lng="ro">na&#x219;te</trd>
     <trd lng="ru">&c_r;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="nask.0i.estigi">
@@ -143,8 +142,7 @@
     <dif>
       Diri, ke aro <frm am="bb A"><g>A</g></frm> naskas aron
       <frm am="bb B"><g>B</g></frm> signifas, ke aro
-      <frm am="bb B"><g>B</g></frm> inkluzivas <frm am="bb
-      A"><g>A</g></frm> kaj
+      <frm am="bb B"><g>B</g></frm> inkluzivas <frm am="bb       A"><g>A</g></frm> kaj
       &ccirc;iujn rezultojn de iuj operacioj inter elementoj
       de <frm am="bb B"><g>B</g></frm>, sed nenion pli. Oni nomas aron
       <frm am="bb A"><g>A</g></frm> la <tld/>anta aro, &gcirc;iajn elementojn
@@ -155,8 +153,7 @@
         per <tld/>anta aro <frm am="{a,b}">{<k>a</k>,<k>b</k>}</frm>
         estas aro
         de &ccirc;iuj elementoj
-        <frm am="p xx a+q xx b"
-        ><k>p</k>&#215;<k>a</k>+<k>q</k>&#215;<k>b</k></frm>;
+        <frm am="p xx a+q xx b"><k>p</k>&#xD7;<k>a</k>+<k>q</k>&#xD7;<k>b</k></frm>;
       </ekz><ekz>
         en <ref cel="modul.0o.strukt">modulo</ref> a&ubreve;
         <ref cel="spac.vektora0o">vektora spaco</ref>, la subaro
@@ -196,6 +193,7 @@
       <trd>alkot</trd>
     </trdgrp>
     <trd lng="pl">generowa&cacute;</trd>
+    <trd lng="ro">genera</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>,
       <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
@@ -231,14 +229,28 @@
     <trd>susciter</trd>,
     <trd>mettre au <ind>monde</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x751F;&#x3080;  [<ind>&#x3046;&#x3080;</ind>]</trd>,
+    <trd>&#x51FA;&#x7523;&#x3059;&#x308B;  [<ind>&#x3057;&#x3085;&#x3063;&#x3055;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x751F;&#x307F;&#x51FA;&#x3059;  [<ind>&#x3046;&#x307F;&#x3060;&#x3059;</ind>]</trd>,
+    <trd>&#x751F;&#x3058;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3058;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">rodzi&cacute;</trd>
-  <trd lng="ro">a na&scedil;te</trd>
+  <trd lng="ro">na&#x219;te</trd>
   <trdgrp lng="sk">
     <trd>plodi&tcaron;</trd>,
     <trd>porodi&tcaron;</trd>,
     <trd>povi&tcaron;</trd>,
     <trd>rodi&tcaron;</trd>,
     <trd>tvori&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_d;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&c_r;&#x43E;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&#x43E;&c_r;&#x43E;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&#x43F;&#x43E;&c_r;&#x43E;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_v;&#x43E;&c_r;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_t;&c_v;&#x43E;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -285,12 +297,10 @@
       </ekz>
       <ekz>
         la sen&ccirc;esa rondo de <tld/>o kaj morto
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Guido Van Damme</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006958.html">Psiko sen
-          karno</url></vrk>
+        <fnt><aut>Elson Snow</aut>,
+        <vrk><url ref="&Monato;/2000/006958.php">Psiko sen karno</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/06, p. 4</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -317,23 +327,28 @@
          mem decidi pri la <tld/>o, la hejma <tld/>o kostas malpli
          por la &scirc;tato
          <fnt>
-           <vrk><url ref="http://eo.wikipedia.org/wiki/Hejma_nasko">
+           <vrk><url ref="&Viki;/Hejma_nasko">
             pri hejmaj naskoj</url></vrk>
          </fnt>.
        </ekz>
     </dif>
       <trd lng="de">Geburt</trd>
   </snc>
+  <trd lng="bo">&#xF66;&#xF90;&#xFB1;&#xF7A;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>porod zv&iacute;&rcaron;ete</trd>,
     <trd>vrh</trd>
   </trdgrp>
   <trd lng="es">nacimiento</trd>
   <trd lng="fr">naissance</trd>
+  <trd lng="ja">&#x51FA;&#x7523;  [<ind>&#x3057;&#x3085;&#x3063;&#x3055;&#x3093;</ind>]</trd>
+  <trd lng="pl">por&oacute;d</trd>
+  <trd lng="ro">na&#x219;tere</trd>
   <trdgrp lng="sk">
     <trd>p&ocirc;rod zviera&tcaron;a</trd>,
     <trd>vrh</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&#x43B;&#x43E;&c_g;&c_i;</trd>
 </drv>
 
 <drv mrk="nask.0antino">
@@ -372,10 +387,16 @@
   <trd lng="es">parturienta</trd>
   <trd lng="fr">parturiente</trd>
   <trd lng="hu">sz&uuml;l&odblac;</trd>
+  <trd lng="ja">&#x7523;&#x5A66;  [<ind>&#x3055;&#x3093;&#x3077;</ind>]</trd>
   <trd lng="nl">barende vrouw</trd>
   <trd lng="pl">rodz&aogonek;ca</trd>
+  <trd lng="ro">d&acirc;nd na&#x219;tere</trd>
   <trd lng="ru">&c_r;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_c;&c_a;</trd>
   <trd lng="sk">rodi&ccaron;ka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_r;&#x43E;&c_d;&c_ib;&#x43B;&#x43B;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_d;&c_ib;&#x43B;&#x43B;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nask.0anto">
@@ -399,6 +420,7 @@
           (math.)</klr></trd>
       <trd lng="hu">gener&aacute;l&oacute;elem</trd>
       <trd lng="pl">generator</trd>
+      <trd lng="ro">generator</trd>
       <trd lng="ru">&c_p;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_a;&c_ju;&c_shch;&c_i;&c_j;
         <ind>&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;</ind></trd>
     </subsnc>
@@ -437,6 +459,8 @@
           (vonalfel&uuml;let&eacute;)</klr></trd>
       <trd lng="pl">tworz&aogonek;ca<klr tip="ind">
           (powierzchni)</klr></trd>
+      <trd lng="ro">formare<klr tip="ind">
+          (suprafa&#x21B;&abreve;)</klr></trd>   
       <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_z;&c_u;&c_ju;&c_shch;&c_a;&c_ja;</trd>
     </subsnc>
   </snc>
@@ -460,14 +484,13 @@
         virinoj en <tld/>ema a&gcirc;o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=560443">Malfermita
+          <lok><url ref="https://eo.wikipedia.org/?curid=560443">Malfermita
           spino</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         la hitleremaj avoj per mono kaj per distinga simbolo &leftquot;Patrina
-        kruco&#8221; honoris <tld/>emajn virinojn
+        kruco&#x201D; honoris <tld/>emajn virinojn
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
@@ -496,12 +519,18 @@
     <trd>tr&egrave;s <ind>f&eacute;cond</ind></trd>
   </trdgrp>
   <trd lng="hu">term&eacute;keny</trd>
+  <trd lng="ja">&#x591A;&#x7523;&#x306E;  [<ind>&#x305F;&#x3055;&#x3093;&#x306E;</ind>]</trd>
   <trd lng="nl">vruchtbaar</trd>
   <trd lng="pl">p&lstroke;odna</trd>
+  <trd lng="ro">fertil</trd>
   <trd lng="ru">&c_p;&c_l;&c_o;&c_d;&c_o;&c_v;&c_i;&c_t;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>plodiv&yacute;</trd>,
     <trd>plodn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&#x43E;&c_d;&#x43E;&c_v;&c_i;&c_t;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&#x43B;&c_ib;&c_d;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -565,16 +594,25 @@
     <trd>procr&eacute;er</trd>,
     <trd>engendrer<klr tip="ind"> (en p. d'un m&acirc;le)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x751F;&#x307E;&#x305B;&#x308B;  [<ind>&#x3046;&#x307E;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x751F;&#x3058;&#x3055;&#x305B;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3058;&#x3055;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verwekken</trd>
   <trd lng="pl">p&lstroke;odzi&cacute;</trd>
+  <trd lng="ro">procrea</trd>
   <trd lng="ru">&c_p;&c_o;&c_r;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sk">splodi&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_r;&#x43E;&c_d;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &#x43F;&#x43E;&c_ch;&c_a;&c_t;&#x43E;&#x43A;</trd>,
+    <trd>&c_t;&c_v;&#x43E;&c_r;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nask.0igxi">
   <kap><ofc>*</ofc><tld/>i&gcirc;i <fnt><bib>F</bib>, <lok>Universala
-  Vortaro, <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5117">nask'i&gcirc;'</url></lok></fnt></kap>
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5117">nask'i&gcirc;'</url></lok></fnt></kap>
   <snc mrk="nask.0igxi.eligxi">
     <dif>
       Esti <tld/>ita, veni en la vivon, aperi en la mondon
@@ -639,7 +677,7 @@
       </ekz>
       <ekz>
         en nia tendaro subite <tld/>i&gcirc;is tia granda vento, kiu en la
-        da&ubreve;ro de momento minacis <klr>[&#8230;]</klr> al ni
+        da&ubreve;ro de momento minacis <klr>[&#x2026;]</klr> al ni
         <fnt>
           <bib>Paroloj</bib>
           <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden
@@ -647,9 +685,9 @@
         </fnt>;
       </ekz>
       <ekz>
-        li suferis konstante doloron de kapo <klr>[&#8230;]</klr> 
-         <klr>[tiu]</klr> doloro <tld/>i&gcirc;is <klr>[&#8230;]</klr> &ccirc;ar 
-         li trinkadis &ccirc;iam grandan kvanton da <klr>[&#8230;]</klr> 
+        li suferis konstante doloron de kapo <klr>[&#x2026;]</klr> 
+         <klr>[tiu]</klr> doloro <tld/>i&gcirc;is <klr>[&#x2026;]</klr> &ccirc;ar 
+         li trinkadis &ccirc;iam grandan kvanton da <klr>[&#x2026;]</klr> 
          vino en la nokto
         <fnt>
           <bib>FK</bib>
@@ -690,13 +728,20 @@
     <trd>&c_n;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="bo">&t_sa;&t_kata;&t_yata;&t_drengbu;&t_tsheg;</trd>
   <trd lng="br">beza&ntilde; <ind>ganet</ind></trd>
   <trd lng="de"><ind>geboren</ind> werden</trd>
+  <trd lng="en">be born</trd>
   <trd lng="es">nacer</trd>
   <trd lng="fr">naitre</trd>
+  <trdgrp lng="ja">
+    <trd>&#x751F;&#x307E;&#x308C;&#x308B;  [<ind>&#x3046;&#x307E;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x751F;&#x3058;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3058;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">urodzi&cacute; si&eogonek;</trd>
   <trd lng="pt">nascer</trd>
-  <trd lng="ro">a se na&scedil;te</trd>
+  <trd lng="ro">se na&#x219;te</trd>
+  <trd lng="uk">&#x43D;&c_a;&c_r;&#x43E;&c_d;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>
 </drv>
 
 <drv mrk="nask.0ito">
@@ -730,10 +775,16 @@
   </trdgrp>
   <trd lng="es">nacido</trd>
   <trd lng="nl">geborene</trd>
+  <trd lng="pl">potomek</trd>
+  <trd lng="ro">urma&#x219; </trd>
   <trd lng="ru">&c_r;&c_o;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_y;&c_j;<klr> (&c_s;&c_u;&c_shch;.)</klr></trd>
   <trdgrp lng="sk">
     <trd>die&tcaron;a</trd>,
     <trd>narodenec</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_shch;&c_a;&c_d;&#x43E;&#x43A;</trd>,
+    <trd>&#x43F;&#x43E;&c_t;&#x43E;&#x43C;&#x43E;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -779,10 +830,19 @@
     <trd>ivad&eacute;kok</trd>,
     <trd>ut&oacute;dok</trd>
   </trdgrp>
+  <trd lng="ja">&#x5B50;&#x5B6B;  [<ind>&#x3057;&#x305D;&#x3093;</ind>]</trd>
   <trd lng="nl">nageslacht</trd>
   <trd lng="pl">potomstwo</trd>
+  <trdgrp lng="ro">
+    <trd>posteritate</trd>,
+    <trd>progenitur&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_t;&c_o;&c_m;&c_s;&c_t;&c_v;&c_o;</trd>
   <trd lng="sk">potomstvo</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_shch;&c_a;&c_d;&#x43A;&c_i;</trd>,
+    <trd>&#x43F;&#x43E;&c_t;&#x43E;&#x43C;&c_s;&c_t;&c_v;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nask.de0akun0ita">
@@ -812,7 +872,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        kun<tld/>ita rubeolo, <klr>[&#8230;]</klr> prezentas la plej grandan
+        kun<tld/>ita rubeolo, <klr>[&#x2026;]</klr> prezentas la plej grandan
         dan&gcirc;eron por la nov<tld/>itoj
         <fnt>
           <bib>Monato</bib>
@@ -842,12 +902,11 @@
       <ekz>
         mi samopinias kun miaj infanoj, kiuj estas 14- kaj 16-jaraj
         de<tld/>aj 
-        esperantistoj, ke tiu &ccirc;i libreto estas &leftquot;&ccirc;arma kaj genia&#8221;
+        esperantistoj, ke tiu &ccirc;i libreto estas &leftquot;&ccirc;arma kaj genia&#x201D;
         <fnt>
           <bib>Monato</bib>
           <aut>Walter Klag</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/007809.html">De A &gcirc;is
+          <vrk><url ref="&Monato;/2003/007809.html">De A &gcirc;is
           Z</url></vrk>
         </fnt>.
       </ekz>
@@ -867,6 +926,10 @@
     <trd>de nacimiento</trd>,
     <trd>nativo</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x751F;&#x6765;&#x306E;  [<ind>&#x305B;&#x3044;&#x3089;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x751F;&#x307E;&#x308C;&#x306A;&#x304C;&#x3089;&#x306E;  [<ind>&#x3046;&#x307E;&#x308C;&#x306A;&#x304C;&#x3089;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">aangeboren</trd>
   <trd lng="fr">inn&eacute;</trd>
   <trdgrp lng="pl">
@@ -874,6 +937,11 @@
     <trd>wrodzony</trd>
   </trdgrp>
   <trd lng="ro">&icirc;nn&abreve;scut</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_r;&#x43E;&c_d;&c_zh;&c_je;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&c_r;&#x43E;&c_d;&c_zh;&c_je;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_u;&c_s;&#x43F;&c_a;&c_d;&#x43A;&#x43E;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nask.de0ulo">
@@ -900,8 +968,7 @@
           kiuj nun mem instruas Esperanton
           <fnt>
             <bib>Monato</bib>
-            <vrk><url
-            ref="https://www.monato.be/2003/007974.html">Alexander
+            <vrk><url ref="&Monato;/2003/007974.html">Alexander
             Shlafer</url></vrk>
           </fnt>.
         </ekz>
@@ -923,12 +990,15 @@
     <trd>native speaker</trd>
   </trdgrp>
   <trd lng="pl">rodowity</trd>
+  <trdgrp lng="ro">
+    <trd>autohton</trd>,
+    <trd>nativ</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nask.du0ito">
   <kap><ofc>*</ofc>du<tld/>ito <fnt><bib>F</bib>, <lok>Universala
-  Vortaro, <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5118">du'nask'it'</url></lok></fnt></kap>
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5118">du'nask'it'</url></lok></fnt></kap>
   <snc mrk="nask.du0ito.GEN">
     <uzo tip="fak">GEN</uzo>
     <fnt><bib>PV</bib><lok>&gcirc;emelo</lok></fnt>
@@ -951,8 +1021,7 @@
         alia havis sur la piedo ses fingrojn
         <fnt><aut>J. Ha&scaron;ek trad V. V&aacute;&ncaron;a</aut>
           <vrk>La brava soldato &Scirc;vejk</vrk>
-          <lok><url
-          ref="http://i-espero.info/files/elibroj/eo%20-%20hasek,%20jaroslav%20-%20la%20brava%20soldato%20svejk%204.pdf">http://i-espero.info/files/elibroj/eo%20-%20hasek,%20jaroslav%20-%20la%20brava%20soldato%20svejk%204.pdf</url></lok></fnt>;
+          <lok><url ref="http://i-espero.info/files/elibroj/eo%20-%20hasek,%20jaroslav%20-%20la%20brava%20soldato%20svejk%204.pdf">http://i-espero.info/files/elibroj/eo%20-%20hasek,%20jaroslav%20-%20la%20brava%20soldato%20svejk%204.pdf</url></lok></fnt>;
       </ekz>
       kaj analoge:
       <ekz>
@@ -981,8 +1050,11 @@
     <trd>jumeau<klr tip="ind"> (subst., enfant)</klr></trd>,
     <trd>besson</trd>
   </trdgrp>
+  <trd lng="pl">bli&zacute;niak</trd>
+  <trd lng="ro">geam&abreve;n</trd>
   <trd lng="ru">&c_d;&c_v;&c_o;&c_j;&c_n;&c_ja;&c_sh;&c_k;&c_a;</trd>
   <trd lng="sk">dvoj&ccaron;a</trd>
+  <trd lng="uk">&c_b;&#x43B;&c_i;&c_z;&#x43D;&#x44E;&#x43A;</trd>
 </drv>
 
 <drv mrk="nask.due0ito">
@@ -1000,7 +1072,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        due<tld/>ito de la bran&ccirc;o de Piemonto <klr>[&#8230;]</klr> fari&gcirc;is
+        due<tld/>ito de la bran&ccirc;o de Piemonto <klr>[&#x2026;]</klr> fari&gcirc;is
         Domestro de Savojo
         <fnt>
           <bib>Viki</bib>
@@ -1019,6 +1091,8 @@
     <trd>puin&eacute;<klr tip="ind"> (subst.)</klr></trd>,
     <trd>cadet<klr tip="ind"> (subst., pu&icirc;n&eacute;)</klr></trd>
   </trdgrp>
+  <trd lng="pl">drugi  <ind>urodzony</ind></trd>
+  <trd lng="ro">al doilea n&abreve;scut</trd>
   <trd lng="ru">&c_v;&c_t;&c_o;&c_r;&c_o;&c_j;<klr> (&c_s;&c_u;&c_shch;., &c_o; &c_r;&c_je;&c_b;&c_jo;&c_n;&c_k;&c_je; &c_v;
   &c_s;&c_je;&c_m;&c_mol;&c_je;)</klr></trd>
 </drv>
@@ -1031,13 +1105,12 @@
       Infano vivpova, sed naski&gcirc;inta anta&ubreve; la 39a
       semajno de gravedeco:
       <ekz>
-        oni uzas mampumpilon <klr>[&#8230;]</klr>
+        oni uzas mampumpilon <klr>[&#x2026;]</klr>
         se pro iaj kialoj la bebo ne povas su&ccirc;i rekte 
         &ccirc;e la mamo (fru<tld/>ito, fizika problemo, ktp.)
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=239233">Mampumpilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=239233">Mampumpilo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1053,13 +1126,22 @@
     <trd>pr&eacute;matur&eacute;<klr tip="ind"> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="hu">korasz&uuml;l&ouml;tt</trd>
+  <trd lng="ja">&#x65E9;&#x7523;&#x5150;  [<ind>&#x305D;&#x3046;&#x3056;&#x3093;&#x3058;</ind>]</trd>
   <trd lng="nl">prematuurtje</trd>
   <trd lng="pl">wcze&sacute;niak</trd>
+  <trdgrp lng="ro">
+    <trd>na&#x219;tere prematur&abreve;</trd>,
+    <trd>copil prematur</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_n;&c_je;&c_d;&c_o;&c_n;&c_o;&c_s;&c_o;&c_k;</trd>,
     <trd>&c_n;&c_je;&c_d;&c_o;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_n;&c_y;&c_j; &c_r;&c_je;&c_b;&c_jo;&c_n;&c_o;&c_k;</trd>
   </trdgrp>
   <trd lng="sk">pred&ccaron;asne naroden&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_d;&c_ch;&c_a;&c_s;&#x43D;&#x43E; &#x43D;&c_a;&c_r;&#x43E;&c_d;&c_zh;&c_je;&#x43D;&c_a; &c_d;&c_i;&c_t;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_d;&c_ch;&c_a;&c_s;&#x43D;&#x43E; &#x43D;&c_a;&c_r;&#x43E;&c_d;&c_zh;&c_je;&#x43D;&c_i;&c_j; (&c_ib;&#x43C;.)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nask.nov0ito_nove0ito">
@@ -1096,7 +1178,10 @@
     <trd>nourrisson</trd>,
     <trd>poupon<klr tip="ind"> (nouveau-n&eacute;)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x65B0;&#x751F;&#x5150;  [<ind>&#x3057;&#x3093;&#x305B;&#x3044;&#x3058;</ind>]</trd>
   <trd lng="nl">pasgeborene</trd>
+  <trd lng="pl">noworodek</trd>
+  <trd lng="ro">nou-n&abreve;scut</trd>
   <trd lng="ru">&c_n;&c_o;&c_v;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_n;&c_y;&c_j;<klr>
       (&c_s;&c_u;&c_shch;.)</klr></trd>
   <trd lng="sk">novorodenec</trd>
@@ -1113,7 +1198,7 @@
       </ekz>
       <ekz>
         Vilhelmo la 1-a (n. 1027; m. 9-an de septembro 1087), konata
-        <klr>[&#8230;]</klr> kiel Vilhelmo la Pek<tld/>ito
+        <klr>[&#x2026;]</klr> kiel Vilhelmo la Pek<tld/>ito
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=24212">Vilhelmo
@@ -1142,6 +1227,14 @@
     <trd>natuurlijk <ind>kind</ind></trd>,
     <trd>onwettig <ind>kind</ind></trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>b&eogonek;kart</trd>,
+    <trd>nie&sacute;lubne dziecko</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>bastard</trd>,
+    <trd>copil natural</trd>
+  </trdgrp>
   <trd lng="ru">&c_u;&c_b;&c_l;&c_ju;&c_d;&c_o;&c_k;</trd>
 </drv>
 
@@ -1169,6 +1262,7 @@
     <trd lng="hu">renesz&aacute;nsz</trd>
     <trd lng="nl">renaissance</trd>
     <trd lng="pl">Odrodzenie</trd>
+    <trd lng="ro">Rena&#x219;tere</trd>
     <trdgrp lng="ru">
       <trd>&c_r;&c_je;&c_n;&c_je;&c_s;&c_s;&c_a;&c_n;&c_s;</trd>,
       <trd>&c_V;&c_o;&c_z;&c_r;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -1205,9 +1299,10 @@
   </trdgrp>
   <trd lng="fr">enfant unique</trd>
   <trd lng="nl">eniggeboren <ind>kind</ind></trd>
+  <trd lng="pl">jedynak</trd>
+  <trd lng="ro">copil unic</trd>
   <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j; &c_r;&c_je;&c_b;&c_jo;&c_n;&c_o;&c_k;</trd>
 </drv>
-
 
 <drv mrk="nask.unue0ito">
   <kap>unue<tld/>ito, <var><kap>unua<tld/>ito</kap></var></kap>
@@ -1260,7 +1355,10 @@
     <trd>ain&eacute;<klr tip="ind"> (subst.)</klr></trd>,
     <trd>premier-n&eacute;</trd>
   </trdgrp>
+  <trd lng="ja">&#x9577;&#x5B50;  [<ind>&#x3061;&#x3087;&#x3046;&#x3057;</ind>]</trd>
   <trd lng="nl">eerstgeborene</trd>
+  <trd lng="pl">pierworodny</trd>
+  <trd lng="ro">primul n&abreve;scut </trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_v;&c_o;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;<klr> (&c_s;&c_u;&c_shch;.)</klr></trd>
   <trd lng="sk">prvoroden&yacute;</trd>
 </drv>
@@ -1286,12 +1384,11 @@
       <ctl><tld/>i</ctl>, rekomendindas malkomponi la terminon;
       ekz-e en la frazo:
       <ekz>
-        <nom>Sarah</nom> poste mortis <klr>[&#8230;]</klr> <tld/>ante malvive
+        <nom>Sarah</nom> poste mortis <klr>[&#x2026;]</klr> <tld/>ante malvive
         <tld/>itan filon
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref="https://eo.wikipedia.org/wiki/Abraham_Lincoln#Frua_vivo">Abraham
+          <lok><url ref="&Viki;/Abraham_Lincoln#Frua_vivo">Abraham
           Lincoln</url> (la&ubreve; la stato je
           2014-12-22)</lok>
         </fnt>
@@ -1299,7 +1396,7 @@
       eblas kombini la du participojn (<ctl><tld/>ante</ctl> kaj
       <ctl><tld/>itan</ctl>):
       <ekz>
-        <nom>Sarah</nom> poste mortis <klr>[&#8230;]</klr> <tld/>ante malvivan
+        <nom>Sarah</nom> poste mortis <klr>[&#x2026;]</klr> <tld/>ante malvivan
         filon.
       </ekz>
     </rim>
@@ -1310,7 +1407,7 @@
       (Pri projekto, afero, decido ktp)
       Kiu ne estas vivopova, kiu malta&ubreve;gas por realigo:
       <ekz>
-        la afero <klr>[&#8230;]</klr> montri&gcirc;is malvive <tld/>ita
+        la afero <klr>[&#x2026;]</klr> montri&gcirc;is malvive <tld/>ita
         <fnt>
           <aut>&Z;</aut>:
           <vrk>El la unua libro de la lingvo Esperanto</vrk>.
@@ -1324,6 +1421,12 @@
   <trd lng="en">stillborn</trd>
   <trd lng="es">mortinato</trd>
   <trd lng="fr">mort-n&eacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6B7B;&#x3093;&#x3067;&#x751F;&#x307E;&#x308C;&#x305F;  [<ind>&#x3057;&#x3093;&#x3067;&#x3046;&#x307E;&#x308C;&#x305F;</ind>]</trd>,
+    <trd>&#x6B7B;&#x7523;&#x306E;  [<ind>&#x3057;&#x3056;&#x3093;&#x306E;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">urodzony martwy</trd>
+  <trd lng="ro">n&abreve;scut mort</trd>
   <trd lng="ru">&c_m;&c_je;&c_r;&c_t;&c_v;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">m&racute;tvo naroden&yacute;</trd>
 </drv>
@@ -1343,8 +1446,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url
-          ref="&Monato;/2005/008747.php">EU-fiasko</url></vrk>
+          <vrk><url ref="&Monato;/2005/008747.php">EU-fiasko</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -1354,15 +1456,29 @@
       kaj <ctl>morta</ctl> estas evitinda kaj kontra&ubreve;fundamenta.
     </rim>
     <trd lng="es"><klr>(expresi&oacute;n err&oacute;nea, debe ser malvive y no
-    morte)</klr></trd>  
+    morte)</klr></trd>     
   </snc>
+  <trd lng="pl">poroniony</trd>
+  <trd lng="ro">avort</trd>
 </drv>
 
   </art>
   <!--
-  $Log: nask.xml,v $
-versio 1.80 2020/02/15 20:10:17
-Wolfram Diestel: formuloj per am
+  $Log$
+versio 1.87 2023/04/27 10:31:22
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.86 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.82 2021/05/11 21:53:02
+Vito Redsky: +trd pl +trd ro
+
+versio 1.81 2020/12/29 12:10:32
+Aleks Andre: +trd bo, en
+
+  Revision 1.80  2020/02/15 19:10:16  revo
+  Wolfram Diestel: formuloj per am
 
   Revision 1.79  2019/09/25 20:10:18  revo
   Wolfram Diestel: sintakso
@@ -1371,17 +1487,5 @@ Wolfram Diestel: formuloj per am
   Guillermo Molleda Jimena: trd es
 
   Revision 1.77  2019/09/24 11:10:17  revo
-  Guillermo Molleda Jimena: trd es
-
-  Revision 1.76  2019/06/30 18:21:48  revo
-  adaptis URL de Monato
-
-  Revision 1.75  2019/06/30 07:42:49  revo
-  adaptis URL de Monato
-
-  Revision 1.74  2018/11/19 06:10:11  revo
-  Guillermo Molleda Jimena: trd es cambio prolificio por prolifico con
-  tildes
-
 -->
 </vortaro>

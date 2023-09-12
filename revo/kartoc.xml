@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kartoc.xml,v 1.15 2010/06/10 16:30:48 revo Exp $">
+<art mrk="$Id: kartoc.xml,v 1.25 2023/09/01 13:58:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>karto&ccirc;</rad>/o
@@ -21,7 +20,7 @@
       kaj <ref tip="prt" cel="paf.0ajxo">pafa&jcirc;on</ref>:
       <ekz>
         kiam &gcirc;enerala malobeo skuis la &scirc;tatajn fundamentojn, estis pri&scirc;telitaj 1200 armeaj
-        kaj policaj deponejoj, el tiuj malaperis &ccirc;irka&ubreve; <klr>[&#8230;]</klr> 3,5 milionoj da 
+        kaj policaj deponejoj, el tiuj malaperis &ccirc;irka&ubreve; <klr>[&#x2026;]</klr> 3,5 milionoj da 
         mangrenadoj kaj 1,5 miliardoj da <tld/>oj
         <fnt>
           <bib>Monato</bib>
@@ -34,11 +33,12 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url ref="https://www.monato.be/2004/008445.html">Kolekti antikva&jcirc;ojn</url></vrk>
+          <vrk><url ref="&Monato;/2004/008445.html">Kolekti antikva&jcirc;ojn</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        &ccirc;iutage lokaj serboj perforte protestis, uzante &scirc;tonojn kaj e&ccirc; <tld/>ojn kaj grenadojn kontra&ubreve; la polico
+        &ccirc;iutage lokaj serboj perforte protestis, uzante &scirc;tonojn kaj e&ccirc; <tld/>ojn kaj grenadojn
+        kontra&ubreve; la polico
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
@@ -60,7 +60,8 @@
       <ref tip="super" cel="uj.0o">Ujeto</ref>
       enhavanta gason a&ubreve; flua&jcirc;on por provizi aparaton:
       <ekz>
-        trovi&gcirc;is senorde gasujoj en &ccirc;iuj grandecoj, de etaj <tld/>oj &gcirc;is iel oblikve parkumitaj grandaj gaskamionoj
+        trovi&gcirc;is senorde gasujoj en &ccirc;iuj grandecoj, de etaj <tld/>oj &gcirc;is iel oblikve parkumitaj
+        grandaj gaskamionoj
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
@@ -69,8 +70,8 @@
       </ekz>
       <ekz>
         truko de la industrio estas vendi aparatojn ne tro kostajn,
-        sed kiuj konstante bezonas <tld/>ojn <klr>[&#8230;]</klr>, ekzemplo estas
-        la novaj kafoma&scirc;inoj, kiuj funkcias per apartaj <tld/>oj <klr>[&#8230;]</klr> por &ccirc;iu unuopa taso
+        sed kiuj konstante bezonas <tld/>ojn <klr>[&#x2026;]</klr>, ekzemplo estas
+        la novaj kafoma&scirc;inoj, kiuj funkcias per apartaj <tld/>oj <klr>[&#x2026;]</klr> por &ccirc;iu unuopa taso
         <fnt>
           <bib>Monato</bib>
           <aut>Lode Van de Velde kaj Roland Rotsaert</aut>
@@ -88,6 +89,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_t;&c_r;&c_o;&c_n;</trd>,
+      <trd>&c_k;&c_a;&c_r;&c_t;&c_r;&c_y;&c_d;&c_zh;</trd>
+    </trdgrp>
     <trd lng="de">Kartusche <klr>(Gas, Tinte usw.)</klr></trd>
   </snc>
   <trd lng="bg">&c_p;&c_a;&c_t;&c_r;&c_o;&c_n;</trd>
@@ -100,10 +105,18 @@
   </trdgrp>
   <trd lng="es">cartucho</trd>
   <trd lng="it">cartuccia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x85AC;&#x5305;  [<ind>&#x3084;&#x304F;&#x307B;&#x3046;</ind>]</trd>,
+    <trd>&#x85AC;&#x83A2;  [<ind>&#x3084;&#x3063;&#x304D;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5F3E;&#x85AC;&#x7B52;  [<ind>&#x3060;&#x3093;&#x3084;&#x304F;&#x3064;&#x3064;</ind>]</trd>,
+    <trd>&#x30D1;&#x30C8;&#x30ED;&#x30FC;&#x30CD;</trd>,
+    <trd>&#x30AB;&#x30FC;&#x30C8;&#x30EA;&#x30C3;&#x30B8;</trd>
+  </trdgrp>
   <trd lng="nl">patroon</trd>
   <trd lng="pl">nab&oacute;j</trd>
-  <trd lng="ro">cartu&scedil;</trd> 
+  <trd lng="ro">cartu&#x219;</trd> 
   <trd lng="ru">&c_p;&c_a;&c_t;&c_r;&c_o;&c_n;</trd>
+  <trd lng="uk">&#x43F;&c_a;&c_t;&c_r;&#x43E;&#x43D;</trd>
 </drv>
 
 <drv mrk="kartoc.0ego">
@@ -130,6 +143,10 @@
   <trd lng="en">shell</trd>
   <trd lng="hu">t&uuml;z&eacute;rs&eacute;gi <ind>l&ouml;ved&eacute;k</ind></trd>
   <trd lng="it">munizione<klr> (di cannone)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x85AC;&#x5305;  [<ind>&#x3084;&#x304F;&#x307B;&#x3046;</ind>]</trd>,
+    <trd>&#x5F3E;&#x85AC;&#x7B52;  [<ind>&#x3060;&#x3093;&#x3084;&#x304F;&#x3064;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>kartacz</trd>,
     <trd>pocisk</trd>
@@ -139,6 +156,12 @@
 </art>
 <!--
 $Log$
+versio 1.24 2022/07/04 07:29:25
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.20  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
@@ -155,14 +178,5 @@ Revision 1.16  2015/09/18 06:10:15  revo
 Joop Eggen: +trd bg
 
 Revision 1.15  2010/06/10 16:30:48  revo
-Antonio Codazzi: +trd it
-
-Revision 1.14  2005/11/24 17:32:43  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.13  2004/12/05 17:33:07  revo
-Marc Bavant: +trd fr, kor ref tip sin; ~ego: +adm
-
-Revision 1.12  2004/03/11 17:31:39  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bub.xml,v 1.9 2009/03/31 16:30:31 revo Exp $">
+<art mrk="$Id: bub.xml,v 1.25 2023/08/31 08:48:54 revo Exp $">
   <kap>
     <ofc>*</ofc>
     <rad>bub</rad>/o <fnt><bib>PV</bib></fnt>
@@ -44,13 +43,16 @@
           <nom>Wiske</nom> estas konataj en &ccirc;iuj kontinentoj
           <fnt>
             <aut>P. Peeraerts</aut>,
-            <vrk><url
-            ref="http://esperanto-forum.org/index.php?topic=764.0">La
+            <vrk><url ref="http://esperanto-forum.org/index.php?topic=764.0">La
             patro de Cisko kaj Vinjo 100 jara!</url></vrk>,
             <lok>Esperanto-forumo, 2013-02-15</lok>
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="be">
+        <trd>&c_v;&c_ib;&c_s;&c_u;&c_s;</trd>,
+        <trd>&c_g;&c_a;&c_r;&c_e;&c_z;&c_a;</trd>
+      </trdgrp>
       <trdgrp lng="de">
         <trd>Bube</trd>,
         <trd>Junge</trd>
@@ -151,7 +153,19 @@
         <trd>spodok</trd>
       </trdgrp>
     </snc>
-  </drv>
+    <trd lng="he">&#x5E4;&#x5E8;&#x5D7;&#x5D7;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3044;&#x305F;&#x305A;&#x3089;&#x3063;&#x5B50;  [<ind>&#x3044;&#x305F;&#x305A;&#x3089;&#x3063;&#x3053;</ind>]</trd>,
+    <trd>&#x30B8;&#x30E3;&#x30C3;&#x30AF;  [<ind>&#x3058;&#x3083;&#x3063;&#x304F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_h;&#x43B;&#x43E;&#x43F;&c_ch;&c_a;&#x43A;</trd>,
+    <trd>&c_h;&#x43B;&#x43E;&#x43F;&c_ch;&c_i;&c_s;&#x44C;&#x43A;&#x43E;</trd>,
+    <trd>&#x43F;&c_a;&c_c;&c_a;&#x43D;</trd>,
+    <trd>&#x43F;&c_u;&c_s;&c_t;&c_u;&#x43D;</trd>,
+    <trd>&c_sh;&c_i;&c_b;&c_je;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
+</drv>
 
   <drv mrk="bub.0ino">
     <kap><tld/>ino</kap>
@@ -159,12 +173,11 @@
       <dif>
         Petola knabino:
         <ekz>
-          &rightquot;vi abomeninda <tld/>ino!&#8221; diris la patrino
+          &rightquot;vi abomeninda <tld/>ino!&#x201D; diris la patrino
           <fnt>
             <aut>H. C. Andersen, trad. d-ro L. L. Zamenhof</aut>,
-            <vrk><url
-            ref="http://www.steloj.de/esperanto/fabeloj2/negxregxino.html">Fabeloj
-            de Andersen &#8208; Malgranda rabistinfano</url></vrk>
+            <vrk><url ref="&Steloj;fabeloj2/negxregxino.html">Fabeloj
+            de Andersen &#x2010; Malgranda rabistinfano</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
@@ -177,6 +190,7 @@
         </ekz>
       </dif>
     </snc>
+    <trd lng="be">&c_g;&c_a;&c_r;&c_e;&c_z;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
     <trd lng="fa">&a_d;&a_kh;&a_t;&a_r;&a_b;&f_ch;&a_h;</trd>
     <trd lng="fr">gamine</trd>
     <trd lng="io">bubino</trd>
@@ -204,6 +218,11 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="be">
+        <trd>&c_sh;&c_a;&c_l;&c_a;&c_p;&c_u;&c_t;</trd>,
+        <trd>&c_h;&c_u;&c_l;&c_ib;&c_g;&c_a;&c_n;</trd>,
+        <trd>&c_g;&c_a;&c_l;&c_g;&c_a;&c_n;</trd>
+      </trdgrp>
       <trdgrp lng="de">
         <trd>Bengel</trd>,
         <trd>Schlingel</trd>,
@@ -239,7 +258,12 @@
         <trd>&c_h;&c_u;&c_l;&c_i;&c_g;&c_a;&c_n;</trd>
       </trdgrp>
     </snc>
-  </drv>
+    <trd lng="he">&#x5E4;&#x5E8;&#x5D7;&#x5D7;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x975E;&#x884C;&#x5C11;&#x5E74;  [<ind>&#x3072;&#x3053;&#x3046;&#x3057;&#x3087;&#x3046;&#x306D;&#x3093;</ind>]</trd>,
+    <trd>&#x304C;&#x304D;</trd>
+  </trdgrp>
+</drv>
 
 <drv mrk="bub.0ajxo">
   <kap><tld/>a&jcirc;o</kap>
@@ -258,8 +282,7 @@
         tute ordinara <tld/>a&jcirc;o &ndash; el kiu oni faris kolosan aferon
         <fnt>
           <aut>J. Pru&scirc;a, trad. A. Stanura</aut>
-          <vrk><url
-          ref="http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/nlr/nlr44/cigana.html">Cigana
+          <vrk><url ref="&DonH;Revuoj/nlr/nlr44/cigana.html">Cigana
           historio</url></vrk>
           <lok>la nica literatura revuo, 1959-03 &gcirc;is 04 (4/4), p.
           147a-151a</lok>
@@ -276,11 +299,24 @@
     <trd lng="fa">&a_sh;&f_y;&a_T;&a_n;&a_t;</trd>
     <trd lng="fr">polissonnerie</trd>
   </snc>
+  <trd lng="be">&c_s;&c_v;&c_a;&c_v;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="he">&#x5DE;&#x5E2;&#x5E9;&#x5D4; &#x5E7;&#x5D5;&#x5E0;&#x5D3;&#x5E1;</trd>
+  <trd lng="ja">&#x3044;&#x305F;&#x305A;&#x3089;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&#x43B;&#x43E;&#x43F;&#x2019;&#x44F;&c_c;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&c_b;&c_je;&c_sh;&#x43A;&c_je;&c_t;&#x43D;&c_i;&c_c;&c_t;&c_v;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.24 2023/06/23 09:29:14
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.19  2019/10/05 13:10:16  revo
 Robin van der Vliet: +ekz/fnt
 
@@ -297,8 +333,5 @@ Revision 1.15  2017/07/07 19:10:13  revo
 Vito Redsky: +trd ro
 
 Revision 1.14  2017/02/28 16:10:25  revo
-Robin van der Vliet: +bubino
-
-Revision 1.13  2017/02/28 03:10:28  revo
 -->
 </vortaro>

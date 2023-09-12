@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: konus.xml,v 1.20 2009/09/10 16:33:03 revo Exp $">
+<art mrk="$Id: konus.xml,v 1.27 2023/09/01 15:46:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konus</rad>/o <fnt><bib>PV</bib></fnt>
@@ -22,8 +21,7 @@
         la
         <tld/>o)</klr>, kaj sekcas fiksan linion
         <klr>(&gcirc;ian
-        <ref tip="prt"
-        cel="direkt.0anto.linio">direktanton</ref>)</klr>:
+        <ref tip="prt" cel="direkt.0anto.linio">direktanton</ref>)</klr>:
         <ekz>
           cirkla, elipsa, kvadrata ks <tld/>o <klr>(kies direktanto
           estas
@@ -37,7 +35,7 @@
       </dif>
       <refgrp tip="vid">
         <ref cel="konik.0o">koniko</ref>,
-        <ref cel="rekt.0ara.surfaco">rektara.</ref>
+        <ref cel="rekt.0ara.surfaco">rektara</ref>
       </refgrp>
       <trdgrp lng="de">
         <trd>Kegel</trd>,
@@ -98,17 +96,64 @@
     <dif>
       Objekto, havanta formon de <tld/>o:
       <ekz>
-        suker<tld/>o;
+        <tld/>oj da sukero
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <tld/>o el lumradioj;
       </ekz>
       <ekz>
-        <tld/>formaj funeloj.
+        <tld/>formaj funeloj;
+      </ekz>
+      <ekz>
+        per siaj ridinde malgrandaj manetoj <klr>[&scirc;i]</klr> formis <tld/>on el opio
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        maro sabla, sur kiu tie &ccirc;i kaj tie oni vidas pintajn <tld/>ojn, kiuj levi&gcirc;as
+        iafoje &gcirc;is unueta&gcirc;a alto
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vulkanmontoj plej ofte havas la formon de plataj <tld/>oj
+        <fnt><aut>Evgeni Georgiev</aut>: 
+          <vrk><url ref="&Monato;/2001/007234.html">Vulkanoj</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/02, p. 22</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Kegel</trd>
     <trd lng="hu">k&uacute;pos</trd>    
+  </snc>
+  <snc mrk="konus.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="dif" cel="strobi.0o">Strobilo</ref>:
+      <ekz>
+        maljuna gnomo <klr>[kun]</klr> abiaj <tld/>oj sur la kapo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sub la arboj ili kolektis piceajn <tld/>ojn
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Zapfen</trd>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_n;&c_u;&c_s;</trd>
   <trdgrp lng="cs">
@@ -120,6 +165,11 @@
   </trdgrp>
   <trd lng="en">cone</trd>
   <trd lng="fr">c&ocirc;ne</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5186;&#x9310;  [<ind>&#x307E;&#x308B;&#x304E;&#x308A;</ind>]</trd>,
+    <trd>&#x5186;&#x9310;&#x5F62;&#x306E;&#x3082;&#x306E;  [<ind>&#x3048;&#x3093;&#x3059;&#x3044;&#x304B;&#x305F;&#x306E;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x7403;&#x679C;  [<ind>&#x304D;&#x3085;&#x3046;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>conus</trd>,
     <trd>kegel<klr tip="ind"> (conus)</klr></trd>
@@ -146,8 +196,7 @@
         bastonetoj
         <fnt>
           <aut>R. F&ouml;ssmeier</aut>
-          <vrk><url
-          ref="http://www.ais-sanmarino.org/kursoj/s1/koloroj/koloroj1.html">
+          <vrk><url ref="http://www.ais-sanmarino.org/kursoj/s1/koloroj/koloroj1.html">
           Komputila kodado de koloraj bildoj</url></vrk>
           <lok>[vidita en 2018]</lok>
         </fnt>.
@@ -156,12 +205,24 @@
     <refgrp tip="vid">
       <ref cel="baston.0eto.FIZL">bastoneto</ref>
     </refgrp>
+    <trd lng="be">&c_k;&c_o;&c_w;&c_b;&c_a;&c_ch;&c_k;&c_a; <klr>(&c_u; &c_v;&c_o;&c_k;&c_u;)</klr></trd>
+  <trd lng="de">Zapfen <klr>(Netzhaut)</klr></trd>
   </snc>
   <trd lng="fr">c&ocirc;ne<klr> (cellule visuelle)</klr></trd>
+  <trd lng="ja">&#x9310;&#x72B6;&#x4F53;  [<ind>&#x304D;&#x308A;&#x3058;&#x3087;&#x3046;&#x305F;&#x3044;</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2023/04/19 11:24:09
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.25 2022/09/16 09:36:55
+Dmitri Gabinski: + trd be
+
+versio 1.24 2022/06/02 16:49:13
+Wolfram Diestel: +ekz-oj, trd de; +snc BIO
+
 Revision 1.22  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -175,11 +236,5 @@ Revision 1.19  2005/03/28 17:14:30  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.18  2004/05/07 16:31:22  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.17  2003/04/23 16:31:46  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.16  2003/01/02 17:48:02  revo
 -->
 </vortaro>

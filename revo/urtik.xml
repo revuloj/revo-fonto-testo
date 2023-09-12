@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: urtik.xml,v 1.30 2023/09/05 09:43:53 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>urtik</rad>/o
@@ -12,10 +11,7 @@
    <uzo tip="fak">BOT</uzo>
    <snc>
      <dif>
-       <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
-      tip="malprt"
-       cel="urtika.0oj"><tld/>acoj</ref>
+       <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="urtika.0oj"><tld/>acoj</ref>
        (<trd lng="la">Urtica</trd>),
        kies folioj kaj trunketo pikas sentigante brulumon:
        <ekz><tld/>on frosto ne difektas
@@ -41,15 +37,17 @@
    <trd lng="fr">ortie</trd>
    <trd lng="hu">csal&aacute;n</trd>
    <trd lng="it">ortica</trd>
-   <trd lng="nl">brandnetel</trd>
+   <trd lng="ja">&#x30A4;&#x30E9;&#x30AF;&#x30B5;</trd>
+  <trd lng="nl">brandnetel</trd>
    <trd lng="pl">pokrzywa</trd>
    <trd lng="pt">urtiga</trd>
    <trd lng="ru">&c_k;&c_r;&c_a;&c_p;&c_i;&c_v;&c_a;</trd>
   <trdgrp lng="sk">
-    <trd>pŕhľava</trd>,
-    <trd>žihľava</trd>
+    <trd>p&#x155;h&#x13E;ava</trd>,
+    <trd>&#x17E;ih&#x13E;ava</trd>
   </trdgrp>
-  <trd lng="cs">kopřiva</trd>
+  <trd lng="cs">kop&#x159;iva</trd>
+  <trd lng="uk">&#x43A;&#x440;&#x43E;&#x43F;&#x438;&#x432;&#x430;</trd>
 </drv>
 
 </art>

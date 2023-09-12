@@ -1,21 +1,20 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: he.xml,v 1.13 2010/05/31 16:30:22 revo Exp $">
+<art mrk="$Id: he.xml,v 1.20 2023/08/31 15:46:16 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>he</rad> <fnt><bib>PV</bib></fnt>,
-  <var><kap><rad>hej</rad> <fnt><bib>PIV1</bib></fnt></kap></var>
+  <var><kap><rad var="j">hej</rad> <fnt><bib>PIV1</bib></fnt></kap></var>
 </kap>
 <drv mrk="he.0">
-  <kap><tld/>, <var><kap>hej</kap></var></kap>
+  <kap><tld/>, <var><kap><tld var="j"/></kap></var></kap>
   <gra><vspec>ekkrio</vspec></gra>
   <snc mrk="he.0.SON">
     <dif>
       Atentu, vigli&gcirc;u!:
       <ekz>
-        &ccirc;u ne vere, <tld/> vi? &dash; li demandis kaj surpa&scirc;is sur la sakon, ke &gcirc;i knaris
+        &ccirc;u ne vere, <tld/> vi? &#x2010; li demandis kaj surpa&scirc;is sur la sakon, ke &gcirc;i knaris
         <fnt>
           <bib>Fab1</bib>
           <lok>Malgranda Niko kaj granda Niko</lok>
@@ -30,7 +29,7 @@
         </fnt>!
       </ekz>
       <ekz>
-        hej, civitano, helpu aresti la krimulon
+        <tld var="j"/>, civitano, helpu aresti la krimulon
         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 4a, p. 41a</lok></fnt>!
       </ekz>
     </dif>
@@ -40,6 +39,11 @@
   <trdgrp lng="en">
     <trd>eh!</trd>,
     <trd>hey!</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304A;&#x3044;&#xFF01;</trd>,
+    <trd>&#x3082;&#x3057;&#x3082;&#x3057;&#xFF01;</trd>,
+    <trd>&#x304A;&#x3084;&#x304A;&#x3084;&#xFF01;</trd>
   </trdgrp>
   <trd lng="nl">he</trd>
   <trd lng="fr">h&eacute;</trd>
@@ -56,6 +60,9 @@
 </art>
 <!--
 $Log$
+versio 1.19 2020/09/09 15:10:34
+Wolfram Diestel: +tld-var
+
 Revision 1.17  2018/10/01 08:10:14  revo
 Wolfram Diestel: +ekz-oj
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: larm.xml,v 1.21 2006/08/30 15:11:30 revo Exp $">
+<art mrk="$Id: larm.xml,v 1.32 2023/09/01 19:10:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>larm</rad>/o
@@ -37,6 +36,7 @@
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_l;&c_ja;&c_z;&c_a;</trd>
   <trd lng="bg">&c_s;&c_malmol;&c_l;&c_z;&c_a;</trd>
+  <trd lng="bo">&#xF62;&#xF63;&#xF0B;</trd>
   <trd lng="br">daerenn</trd>
   <trd lng="ca">ll&agrave;grima</trd>
   <trd lng="cs">slza</trd>
@@ -47,6 +47,11 @@
   <trd lng="fr">larme</trd>
   <trd lng="hu">k&ouml;nny</trd>
   <trd lng="id"><ind>air</ind> mata</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D99;  [<ind>&#x306A;&#x307F;&#x3060;</ind>]</trd>,
+    <trd>&#x4E00;&#x6EF4;  [<ind>&#x3044;&#x3063;&#x3066;&#x304D;</ind>]</trd>,
+    <trd>&#x3057;&#x305A;&#x304F;</trd>
+  </trdgrp>
   <trd lng="nl">traan</trd>
   <trd lng="pl">&lstroke;za</trd>
   <trd lng="pt">l&aacute;grima</trd>
@@ -55,6 +60,7 @@
   <trd lng="sk">slza</trd>
   <trd lng="sv">t&aring;r</trd>
   <trd lng="tr">g&ouml;zya&scedil;&inodot;</trd>
+  <trd lng="uk">&#x441;&#x43B;&#x44C;&#x43E;&#x437;&#x430;</trd>
 </drv>
 
 <drv mrk="larm.0i">
@@ -98,7 +104,11 @@
   <trd lng="es">llorar</trd>
   <trd lng="fr">pleurer</trd>
   <trd lng="hu">k&ouml;nnyezik</trd>
-  <trd lng="id">[<ind>tangis</ind>] menangis</trd>
+  <trd lng="id"><baz>tangis</baz>menangis</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D99;&#x3092;&#x6D41;&#x3059;  [<ind>&#x306A;&#x307F;&#x3060;&#x3092;&#x306A;&#x304C;&#x3059;</ind>]</trd>,
+    <trd>&#x6D99;&#x3092;&#x6D6E;&#x304B;&#x3079;&#x308B;  [<ind>&#x306A;&#x307F;&#x3060;&#x3092;&#x3046;&#x304B;&#x3079;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>huilen</trd>,
     <trd>tranen</trd>
@@ -114,10 +124,17 @@
   <trd lng="ro">pl&acirc;nge</trd>
   <trd lng="ru">&c_l;&c_i;&c_t;&c_mol; &c_s;&c_l;&c_jo;&c_z;&c_y;</trd>
   <trd lng="sk">slzi&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&#x430;&#x43A;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x440;&#x43E;&#x43B;&#x438;&#x432;&#x430;&#x442;&#x438; &#x441;&#x43B;&#x44C;&#x43E;&#x437;&#x438;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.29 2020/05/06 14:10:24
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.27  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: komun.xml,v 1.47 2020/02/15 10:10:32 revo Exp $">
+<art mrk="$Id: komun.xml,v 1.130 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>komun</rad>/a
@@ -57,8 +56,7 @@
       </ekz>
       <ekz>
         <ind>malfeli&ccirc;o <tld/>a estas malpli premanta</ind>
-        <klr>(vd <ref tip="vid"
-        cel="kompan.0o.kunestado">kompanio</ref>)</klr>
+        <klr>(vd <ref tip="vid" cel="kompan.0o.kunestado">kompanio</ref>)</klr>
         <fnt><bib>PrV</bib></fnt>;
         <trdgrp lng="fr">
           <trd>malheur <ind>partag&eacute;</ind> n'est malheur
@@ -71,7 +69,7 @@
         kun malpacema edzino en <tld/>a domo
         <fnt>
           <bib>MT</bib>
-          <lok>Sentencoj 21:9</lok>
+          <lok>&Sen; 21:9</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -143,7 +141,7 @@
       </ekz>
       <ekz>
         fakto, la&ubreve; la <tld/>a dirmaniero, estas fakto
-        <fnt><bib>MkM</bib><lok>&ccirc;ap. Epilogo</lok></fnt>;
+        <fnt><bib>MkM</bib> <lok>&ccirc;ap. Epilogo</lok></fnt>;
       </ekz>
       <ekz>
         enkondukita en <tld/>an uzadon
@@ -186,7 +184,7 @@
         <tld/>a &gcirc;entila&jcirc;o
         <fnt>
         <aut>H. Vallienne</aut>
-        <vrk>&Ccirc;u li?</vrk><lok>&ccirc;ap. 14</lok>
+        <vrk>&Ccirc;u li?</vrk> <lok>&ccirc;ap. 14</lok>
         </fnt>
       </ekz>
       (prefere: banala, kutima),
@@ -219,6 +217,44 @@
     <trd lng="nl">algemeen</trd>
     <trd lng="pl">og&oacute;lny</trd>
   </snc>
+  <trd lng="af">gemeenskaplike</trd>
+  <trd lng="am">&#x12E8;&#x1270;&#x1208;&#x1218;&#x12F0;</trd>
+  <trd lng="ar">&a_m;&a_sh;&a_t;&a_r;&a_k;</trd>
+  <trd lng="az">&uuml;mumi</trd>
+  <trd lng="bn">&#x9B8;&#x9BE;&#x9A7;&#x9BE;&#x9B0;&#x9A3;</trd>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_u;&c_s;&c_je;&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ra;&t_dzata;&t_ga;&t_tsheg;&t_ta;&t_naro;&t_tsheg;</trd>
+  <trd lng="bs">zajedni&ccaron;ke</trd>
+  <trd lng="co">cumuni</trd>
+  <trd lng="cy">gyffredin</trd>
+  <trd lng="da">f&aelig;lles</trd>
+  <trd lng="et">&uuml;hise</trd>
+  <trd lng="eu">ohikoa</trd>
+  <trd lng="fy">gewoan</trd>
+  <trd lng="ga">coitianta</trd>
+  <trd lng="gd">cumanta</trd>
+  <trd lng="gl">com&uacute;n</trd>
+  <trd lng="gu">&#xAB8;&#xABE;&#xAAE;&#xABE;&#xAA8;&#xACD;&#xAAF;</trd>
+  <trd lng="ha">na kowa</trd>
+  <trd lng="hi">&#x906;&#x92E;</trd>
+  <trd lng="hmn">ntau</trd>
+  <trd lng="hr">zajedni&ccaron;ki</trd>
+  <trd lng="ht">komen</trd>
+  <trd lng="hy">&#x568;&#x576;&#x564;&#x570;&#x561;&#x576;&#x578;&#x582;&#x580;</trd>
+  <trd lng="ig">&#x1ECD;s&#x1ECD;</trd>
+  <trd lng="is">algengar</trd>
+  <trd lng="ja">&#x4E00;&#x822C;&#x7684;&#x306A; [<ind>&#x3044;&#x3063;&#x3071;&#x3093;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  <trd lng="jv">umum</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10D4;&#x10E0;&#x10D7;&#x10DD;</trd>
+  <trd lng="kk">&c_o;&c_r;&c_t;&c_a;&#x49B;</trd>
+  <trd lng="km">&#x1787;&#x17B6;&#x179A;&#x17BF;&#x1784;&#x1792;&#x1798;&#x17D2;&#x1798;&#x178F;&#x17B6;</trd>
+  <trd lng="kn">&#xCB8;&#xCBE;&#xCAE;&#xCBE;&#xCA8;&#xCCD;&#xCAF;</trd>
+  <trd lng="ko">&#xACF5;&#xD1B5;&#xC758;</trd>
+  <trd lng="ku">hevre</trd>
+  <trd lng="ky">&c_zh;&c_a;&c_l;&c_p;&c_y;</trd>
   <trd lng="lat">communis</trd>
   <trdgrp lng="cs">
     <trd>kolektivn&iacute;</trd>,
@@ -228,14 +264,54 @@
     <trd>spole&ccaron;n&yacute;</trd>
   </trdgrp>
   <trd lng="en">common</trd>
+  <trd lng="lo">&#xE97;&#xEBB;&#xEC8;&#xEA7;&#xEC4;&#xE9B;</trd>
+  <trd lng="lt">bendras</trd>
+  <trd lng="lv">kop&#x15E3;ja</trd>
+  <trd lng="mg">iombonana</trd>
+  <trd lng="mi">noa</trd>
+  <trd lng="mk">&c_z;&c_a;&c_je;&c_d;&c_n;&c_i;&c_ch;&c_k;&c_i;</trd>
+  <trd lng="ml">&#xD2A;&#xD4A;&#xD24;&#xD41;&#xD35;&#xD3E;&#xD2F;</trd>
+  <trd lng="mn">&c_n;&c_i;&c_j;&c_t;&c_l;&c_e;&c_g;</trd>
+  <trd lng="mr">&#x938;&#x93E;&#x92E;&#x93E;&#x928;&#x94D;&#x92F;</trd>
+  <trd lng="ms">biasa</trd>
+  <trd lng="mt">komuni</trd>
+  <trd lng="my">&#x1018;&#x102F;&#x1036;</trd>
+  <trd lng="ny">wamba</trd>
+  <trd lng="pa">&#xA06;&#xA2E;</trd>
+  <trd lng="ps">&a_ayn;&a_A;&a_m;</trd>
   <trd lng="pt">comum</trd>
   <trd lng="ru">&c_o;&c_b;&c_shch;&c_i;&c_j;</trd>
+  <trd lng="rw">rusange</trd>
+  <trd lng="sd">&a_ayn;&a_A;&a_m;</trd>
+  <trd lng="si">&#xDB4;&#xDDC;&#xDAF;&#xDD4;</trd>
   <trdgrp lng="sk">
     <trd>pospolit&yacute;</trd>,
     <trd>spolo&ccaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="sl">pogosti</trd>
+  <trd lng="sm">masani</trd>
+  <trd lng="sn">zvakajairika</trd>
+  <trd lng="so">caadi</trd>
+  <trd lng="sq">p&euml;rbashk&euml;t</trd>
+  <trd lng="st">tloaelehileng</trd>
+  <trd lng="su">umum</trd>
   <trd lng="sv">gemensam</trd>
-  <trd lng="tp">kulupu</trd>
+  <trd lng="sw">kawaida</trd>
+  <trd lng="ta">&#xBAA;&#xBCA;&#xBA4;&#xBC1;</trd>
+  <trd lng="te">&#xC38;&#xC3E;&#xC27;&#xC3E;&#xC30;&#xC23;</trd>
+  <trd lng="tg">&c_u;&c_m;&c_u;&c_m;&#x4E3;</trd>
+  <trd lng="th">&#xE17;&#xE35;&#xE48;&#xE1E;&#xE1A;&#xE1A;&#xE48;&#xE2D;&#xE22;</trd>
+  <trd lng="tl">karaniwan</trd>
+  <trd lng="tok">kulupu</trd>
+  <trd lng="tt">&c_u;&c_r;&c_t;&c_a;&c_k;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_g;&c_a;&c_l;&c_mol;&c_n;&c_a;</trd>
+  <trd lng="ur">&a_ayn;&a_A;&a_m;</trd>
+  <trd lng="uz">umumiy</trd>
+  <trd lng="vi">ph&#x1ED5; bi&#x1EBF;n</trd>
+  <trd lng="xh">eqhelekileyo</trd>
+  <trd lng="yi">&pe;&#x5BC;&resh;&alef;&#x5B8;&samekh;&tet;</trd>
+  <trd lng="yo">w&#x1ECD;p&#x1ECD;</trd>
+  <trd lng="zu">ezivamile</trd>
 </drv>
 
 <drv mrk="komun.0o">
@@ -246,10 +322,14 @@
      <ref tip="dif" cel="komun.0eco"><tld lit="K"/>eco</ref>:
       <ekz>
         ni kunvenas por horo de silento en <tld/>o anta&ubreve; Dio
-        <fnt><lok><url
-        ref="http://www.kveker.org/kredo_kaj_vivo.htm">http://www.kveker.org/kredo_kaj_vivo.htm</url></lok></fnt>.
+        <fnt><lok><url ref="http://www.kveker.org/kredo_kaj_vivo.htm">http://www.kveker.org/kredo_kaj_vivo.htm</url></lok></fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_je;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
     <trd lng="nl">gemeenschap</trd>
   </snc>
   <snc mrk="komun.0o.0umo">
@@ -257,10 +337,14 @@
       <ref tip="dif" cel="komun.0umo.societo"><tld lit="K"/>umo
       <sncref/></ref>:
       <ekz>
-        &ccirc;u mi devas anka&ubreve; la domon fordoni al la komuno?
-        <fnt><bib>Metrop</bib><lok>&ccirc;ap. 5</lok></fnt>.
+        &ccirc;u mi devas anka&ubreve; la domon fordoni al la <tld/>o?
+        <fnt><bib>Metrop</bib> <lok>&ccirc;ap. 5</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_m;&c_u;&c_n;&c_a;</trd>,
+      <trd>&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_a;</trd>
+    </trdgrp>
     <trdgrp lng="nl">
       <trd>gemeenschap</trd>,
       <trd>gemeente</trd>
@@ -275,6 +359,7 @@
     <trd>obec</trd>,
     <trd>osada</trd>
   </trdgrp>
+  <trd lng="en">commonness</trd>
   <trdgrp lng="sk">
     <trd>komunita</trd>,
     <trd>obec</trd>,
@@ -307,7 +392,7 @@
         nenia ofero estus tro granda, se ni povus per &gcirc;i akiri
         al ni lingvon <ind><tld/>ehoma</ind>n
         <klr>(<tld/>a al la tuta homaro)</klr>
-        <fnt><bib>FK</bib><lok>El la Unua Libro de la lingvo
+        <fnt><bib>FK</bib> <lok>El la Unua Libro de la lingvo
         Esperanto</lok></fnt>.
         <trdgrp lng="fr">
           <trd>de l'<ind>humanit&eacute;</ind></trd>,
@@ -316,6 +401,11 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="kun.0e">kune</ref>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_a;&c_z;&c_a;&c_m;</trd>,
+      <trd>&c_s;&c_u;&c_m;&c_je;&c_s;&c_n;&c_a;</trd>,
+      <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_a;</trd>
+    </trdgrp>
     <trd lng="de">zusammen</trd>
     <trd lng="es">com&uacute;nmente</trd>
     <trd lng="it">comunemente</trd>
@@ -354,6 +444,11 @@
       <ref cel="ordina.0e">ordinare</ref>,
       <ref cel="oft.0e">ofte</ref>
     </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_v;&c_y;&c_ch;&c_a;&c_j;&c_n;&c_a;</trd>,
+      <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;</trd>,
+      <trd>&c_a;&c_g;&c_u;&c_l;&c_a;&c_m;</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>commun&eacute;ment</trd>,
       <trd>couramment</trd>,
@@ -368,13 +463,25 @@
       <trd>&c_v;&c_o;&c_o;&c_b;&c_shch;&c_je;</trd>
     </trdgrp>
   </snc>
+  <trd lng="bo">&t_ma;&t_nya;&t_ma;&t_tsheg;&t_da;&t_shabchu;&t_tsheg;</trd>
   <trd lng="cs">spole&ccaron;n&ecaron; <klr>(s)</klr></trd>
   <trd lng="de">gemeinsam</trd>
+  <trd lng="en">commonly</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x7DD2;&#x306B;  [<ind>&#x3044;&#x3063;&#x3057;&#x3087;&#x306B;</ind>]</trd>,
+    <trd>&#x5171;&#x540C;&#x3067;  [<ind>&#x304D;&#x3087;&#x3046;&#x3069;&#x3046;&#x3067;</ind>]</trd>,
+    <trd>&#x666E;&#x901A;&#x306B;  [<ind>&#x3075;&#x3064;&#x3046;&#x306B;</ind>]</trd>,
+    <trd>&#x4E00;&#x822C;&#x7684;&#x306B;  [<ind>&#x3044;&#x3063;&#x3071;&#x3093;&#x3066;&#x304D;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tezamen</trd>
   <trdgrp lng="sk">
     <trd>napospol</trd>,
     <trd>spolo&ccaron;ne</trd>,
     <trd>vospolok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_a;&c_z;&c_o;&c_m;</trd>,
+    <trd>&c_s;&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_o;</trd>
   </trdgrp>
 </drv>
 
@@ -385,12 +492,12 @@
       Io komuna al pluraj personoj:
       <ekz>
         kian <tld/>a&jcirc;on havas lumo kun mallumo
-        <fnt><bib>NT</bib><lok>&Ko2; 6:14</lok></fnt>?
+        <fnt><bib>NT</bib> <lok>&Ko2; 6:14</lok></fnt>?
       </ekz>
       <ekz>
         ekde la mezepoko ekzistis apud &ccirc;iu vila&gcirc;o <tld/>a pa&scirc;tejo, sur
-        kiu la vila&gcirc;anoj 
-        rajtis pa&scirc;ti sian brutaron <klr>[&#8230;]</klr> dum la 19a jarcento
+        kiu la vila&gcirc;anoj
+        rajtis pa&scirc;ti sian brutaron <klr>[&#x2026;]</klr> dum la 19a jarcento
         tiuj <tld/>a&jcirc;oj iom post iom malaperis
         <fnt>
           <bib>Monato</bib>
@@ -411,10 +518,18 @@
           <lok>2010</lok>
         </fnt>?
       </ekz>
-    </dif>
+    </dif><trdgrp lng="be">
+      <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_je; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,
+      <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y; &c_z;&c_d;&c_a;&c_b;&c_y;&c_t;&c_a;&c_k;</trd>,
+      <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_w;&c_l;&c_a;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Gemeinsamkeit</trd>,
       <trd>Gemeineigentum</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>commonality</trd>,
+      <trd>commons</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>communaut&eacute;<klr tip="ind"> (chose commune)</klr></trd>,
@@ -437,15 +552,14 @@
       <klr>(de <ref cel="ar.0o.MAT">aroj</ref>)</klr>
       Aro de la elementoj, kiuj komune apartenas al &ccirc;iuj aroj:
       <ekz>
-        la <tld/>a&jcirc;o de <frm
-        am="{a,b,c}">{<k>a</k>,<k>b</k>,<k>c</k>}</frm>
+        la <tld/>a&jcirc;o de <frm am="{a,b,c}">{<k>a</k>,<k>b</k>,<k>c</k>}</frm>
         kaj <frm am="{a,c,d}">{<k>a</k>,<k>c</k>,<k>d</k>}</frm> estas
         <frm am="{a,c}">{<k>a</k>,<k>c</k>}</frm>;
       </ekz>
       <ekz>
         la <tld/>a&jcirc;on de <frm am="bb E"><g>E</g></frm> kaj
         <frm am="bb F"><g>F</g></frm>
-        oni signas per <frm am="bb E nn bb F"><g>E</g>&#8745;<g>F</g></frm>
+        oni signas per <frm am="bb E nn bb F"><g>E</g>&#x2229;<g>F</g></frm>
         <klr> (legu: e kaj fo)</klr>;
       </ekz>
       <ekz>
@@ -453,7 +567,7 @@
         de &ccirc;iuj subaroj en la aro)</klr>;
       </ekz>
       <ekz>
-        la normala kerno de subgrupo <klr>[&#8230;]</klr> estas la <tld/>a&jcirc;o
+        la normala kerno de subgrupo <klr>[&#x2026;]</klr> estas la <tld/>a&jcirc;o
         de la konjugacioj de la donita subgrupo
         <fnt>
           <bib>Viki</bib>
@@ -472,6 +586,7 @@
       ag-substantivon, kiu servas anka&ubreve; por nomi la operacian
       rezulton.
     </rim>
+    <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_s;&c_ja;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_m;&c_n;&c_o;&c_s;&c_t;&c_v;&c_a;&c_w;)</klr></trd>
     <trdgrp lng="de">
       <trd>Gemeinsames</trd>,
       <trd>Schnittmenge</trd>,
@@ -493,11 +608,15 @@
     <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;<klr tip="ind">
     (&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;)</klr></trd>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x5171;&#x901A;&#x70B9;  [<ind>&#x304D;&#x3087;&#x3046;&#x3064;&#x3046;&#x3066;&#x3093;</ind>]</trd>,
+    <trd>&#x5171;&#x6709;&#x7269;  [<ind>&#x304D;&#x3087;&#x3046;&#x3086;&#x3046;&#x3076;&#x3064;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="komun.0eco">
   <kap><tld/>eco</kap>
-  <snc>
+  <snc mrk="komun.0eco.KOMUNE">
     <dif>
       Eco de io <tld/>a:
       <ekz>
@@ -519,11 +638,23 @@
         de iliaj kondolencoj min dolorus
         <fnt>
         <aut>H. Vallienne</aut>
-        <vrk>Kastelo de Prelongo</vrk><lok>&ccirc;ap. 11</lok>
+        <vrk>Kastelo de Prelongo</vrk>
+        <lok>1907</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_je;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="en">commonness</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5171;&#x901A;&#x6027;  [<ind>&#x304D;&#x3087;&#x3046;&#x3064;&#x3046;&#x305B;&#x3044;</ind>]</trd>,
+    <trd>&#x5171;&#x540C;  [<ind>&#x304D;&#x3087;&#x3046;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x5171;&#x6709;  [<ind>&#x304D;&#x3087;&#x3046;&#x3086;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="lat">communitas, atis</trd>
   <trdgrp lng="cs">
     <trd>obecnost</trd>,
@@ -553,9 +684,9 @@
 
 <drv mrk="komun.0ismo">
   <kap><tld/>ismo</kap>
-  <snc>
-  <uzo tip="fak">MAH</uzo>
-  <uzo tip="fak">POL</uzo>
+  <snc mrk="komun.0ismo.POL">
+    <uzo tip="fak">MAH</uzo>
+    <uzo tip="fak">POL</uzo>
     <dif>
       Socipolitika doktrino, kiu celas anstata&ubreve;i kapitalismon,
       detrui la
@@ -563,21 +694,20 @@
       iniciaton, bazi la ekonomian vivon sur <tld/>eco de la havo:
       <ekz>
         la&ubreve; mia scio <tld/>ismo estas depratempa revo de la homaro pri
-        la justa komunumo, 
+        la justa komunumo,
         kie inter la homoj regas frateco kaj justeco kaj inter la
         popoloj konkordo kaj paco
         <fnt>
           <bib>Monato</bib>
           <aut>Zden&ecaron;k Zavodn&yacute;</aut>
-          <vrk><url
-          ref="&Monato;/2014/011246.php">Depratempa
+          <vrk><url ref="&Monato;/2014/011246.php">Depratempa
           revo</url></vrk>
           <lok>2014</lok>
         </fnt>;
       </ekz>
       <ekz>
         oni komprenis en Jugoslavio, ke <tld/>ismo diferencas de
-        okcidenta privata kapitalismo 
+        okcidenta privata kapitalismo
         kaj fari&gcirc;is efektive &scirc;tata kapitalismo
         <fnt>
           <bib>Monato</bib>
@@ -600,30 +730,34 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="social.0ismo">socialismo</ref>,
+      <ref cel="anarhx.0ismo">anar&hcirc;iismo</ref>,
       <ref cel="bolsxe.0o">bol&scirc;evismo</ref>,
-      <ref cel="anarhx.0ismo">anarkismo</ref>.
+      <ref cel="social.0ismo">socialismo</ref>.
     </refgrp>
     <ref tip="ant" cel="kredit.0social">sociala kredito</ref>
-    <trd lng="bg">&c_k;&c_o;&c_m;&c_u;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
-    <trd lng="de">Kommunismus</trd>
-    <trd lng="fr">communisme</trd>
-    <trd lng="it">comunismo</trd>
-    <trd lng="lat">communismus, i</trd>
-    <trd lng="nl">communisme</trd>
-    <trd lng="es">Comunismo</trd>
-    <trd lng="pl">komunizm</trd>
-    <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_n;&c_i;&c_z;&c_m;</trd>
-    <trd lng="sv">kommunism</trd>
-    <trd lng="zh">&#20849;&#20135;&#20027;&#20041; <klr>(tr. &#20849;&#29986;&#20027;&#32681;)</klr>
-    [<ind>g&ograve;ngch&#462;nzh&#468;y&igrave;</ind>]</trd>
   </snc>
-<trd lng="de">Kommunismus</trd>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_u;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_m;&c_u;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="bo">&t_da;&t_ma;&t_ra;&t_tsheg;&t_pa;&t_naro;&t_-a;&t_gigu;&t_tsheg;&t_ra;&t_gigu;&t_nga;&t_tsheg;&t_la;&t_shabchu;&t_ga;&t_sa;&t_tsheg;</trd>
+  <trd lng="de">Kommunismus</trd>
+  <trd lng="en">communism</trd>
+  <trd lng="fr">communisme</trd>
+  <trd lng="it">comunismo</trd>
+  <trd lng="ja">&#x5171;&#x7523;&#x4E3B;&#x7FA9;  [<ind>&#x304D;&#x3087;&#x3046;&#x3055;&#x3093;&#x3057;&#x3085;&#x304E;</ind>]</trd>
+  <trd lng="lat">communismus, i</trd>
+  <trd lng="nl">communisme</trd>
+  <trd lng="es">Comunismo</trd>
+  <trd lng="pl">komunizm</trd>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_n;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sv">kommunism</trd>
+  <trd lng="uk">&c_k;&c_o;&c_m;&c_u;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="zh">&#x5171;&#x4EA7;&#x4E3B;&#x4E49; <klr>(tr. &#x5171;&#x7522;&#x4E3B;&#x7FA9;)</klr>
+  [<ind>g&ograve;ngch&#x1CE;nzh&#x1D4;y&igrave;</ind>]</trd>
 </drv>
 
 <drv mrk="komun.0isto">
   <kap><tld/>isto</kap>
-  <snc>
+  <snc mrk="komun.0isto.POL">
     <dif>
       Adepto de <tld/>ismo:
       <ekz>
@@ -632,8 +766,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Alice Liu</aut>
-          <vrk><url
-          ref="&Monato;/2015/011403.php">Misiisto, mar&scirc;ado
+          <vrk><url ref="&Monato;/2015/011403.php">Misiisto, mar&scirc;ado
           kaj detenanta mano</url></vrk>
           <lok>2015</lok>
         </fnt>;
@@ -651,9 +784,10 @@
       </ekz>
       <ekz>
         anka&ubreve; multaj germanoj estis senkulpaj viktimoj dum la naziisma
-        epoko, 
-        kiel la <tld/>isto Ernst Th&auml;lmann, la mense handikapita Dorothea
-        Kasten, la teologo Dietrich Bohnhoeffer
+        epoko,
+        kiel la <tld/>isto <nom>Ernst Th&auml;lmann</nom>,
+        la mense handikapita <nom>Dorothea Kasten</nom>,
+        la teologo <nom>Dietrich Bohnhoeffer</nom>
         <fnt>
           <bib>Monato</bib>
           <aut>Mikaelo Sims</aut>
@@ -663,20 +797,23 @@
         </fnt>.
       </ekz>
     </dif>
-    <trd lng="bg">&c_k;&c_o;&c_m;&c_u;&c_n;&c_i;&c_s;&c_t;</trd>
-    <trd lng="de">Kommunist</trd>
-    <trd lng="fr">communiste</trd>
-    <trd lng="lat">communista, ae</trd>
-    <trd lng="nl">communist</trd>
-    <trd lng="it">comunista</trd>
-    <trd lng="es">comunista</trd>
-    <trd lng="pl">komunista</trd>
-    <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_n;&c_i;&c_s;&c_t;</trd>
-    <trd lng="sv">kommunist</trd>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_u;&c_n;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_m;&c_u;&c_n;&c_i;&c_s;&c_t;</trd>
   <trd lng="cs">komunista</trd>
   <trd lng="de">Kommunist</trd>
+  <trd lng="en">communist</trd>
+  <trd lng="fr">communiste</trd>
+  <trd lng="ja">&#x5171;&#x7523;&#x4E3B;&#x7FA9;&#x8005;  [<ind>&#x304D;&#x3087;&#x3046;&#x3055;&#x3093;&#x3057;&#x3085;&#x304E;&#x3057;&#x3083;</ind>]</trd>
+  <trd lng="lat">communista, ae</trd>
+  <trd lng="nl">communist</trd>
+  <trd lng="it">comunista</trd>
+  <trd lng="es">comunista</trd>
+  <trd lng="pl">komunista</trd>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_u;&c_n;&c_i;&c_s;&c_t;</trd>
   <trd lng="sk">komunista</trd>
+  <trd lng="sv">kommunist</trd>
+  <trd lng="uk">&c_k;&c_o;&c_m;&c_u;&c_n;&c_ib;&c_s;&c_t;</trd>
 </drv>
 
 <drv mrk="komun.0umo">
@@ -692,6 +829,11 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="municip.0o">municipo.</ref>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_m;&c_u;&c_n;&c_a;</trd>,
+      <trd>&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_a;</trd>,
+      <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_k;&c_a;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Gemeinde</trd>,
       <trd>Kommune</trd>
@@ -716,17 +858,17 @@
         <ind><tld/>umo de Izrael</ind>
         <fnt>
           <bib>NT</bib>
-          <lok>Efesanoj 2:12</lok>
+          <lok>&Efe; 2:12</lok>
         </fnt>
         <fnt>
           <bib>MT</bib>
-          <lok>II. Kroniko</lok>
+          <lok>&Kr2;</lok>
         </fnt>;
         <trd lng="es">El pueblo de Israel</trd>
       </ekz>
       <ekz>
         <tld/>umo de liberkredantoj
-        <fnt><bib>OV</bib><lok>&para; Homaranismo (III-9)</lok></fnt>;
+        <fnt><bib>OV</bib> <lok>&para; Homaranismo (III-9)</lok></fnt>;
       </ekz>
       <ekz>
         la homa <tld/>umo;
@@ -740,6 +882,10 @@
         <ind>religia <tld/>umo</ind>.
         <trd lng="es">Comunidad Religiosa</trd>
       </ekz>
+      <trdgrp lng="be">
+        <trd>&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_a;</trd>,
+        <trd>&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_t;&c_v;&c_a;</trd>
+      </trdgrp>
     </dif>
     <trd lng="de">Kommune</trd>
     <trd lng="es">comunidad<klr> (grupo de gente que tiene algo en
@@ -751,7 +897,7 @@
     <trd lng="nl">gemeenschap</trd>
     <trd lng="pl">komuna</trd>
     <trd lng="ru">&c_s;&c_o;&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
-    <trd lng="tp">kulupu</trd>
+    <trd lng="tok">kulupu</trd>
   </snc>
   <snc mrk="komun.0umo.internacio">
   <uzo tip="fak">POL</uzo>
@@ -759,31 +905,42 @@
       Internacia grupi&gcirc;o de &scirc;tatoj kun <tld/>aj interesoj:
       <ekz>
         <ind>E&ubreve;ropa <tld lit="K"/>umo</ind>
-        <klr>(anta&ubreve;a nomo de E&ubreve;ropa Unio)</klr>
+        <klr>(nomo de la E&ubreve;ropa Ekonomia Komunumo ekde &gcirc;ia fandi&gcirc;o en la E&ubreve;ropan Union)</klr>
         <fnt>
           <bib>Monato</bib>
           <aut>Albisturo Kvinke</aut>
-          <vrk><url
-          ref='&Monato;/2015/011241.php'>Rondvoja&gcirc;i
+          <vrk><url ref="&Monato;/2015/011241.php">Rondvoja&gcirc;i
           trajne</url></vrk>
           <lok>2015</lok>
         </fnt>.
         <trd lng="fr">Communaut&eacute; Europ&eacute;enne</trd>
       </ekz>
     </dif>
+    <trd lng="be">&c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol; <klr>(&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;&c_w;)</klr></trd>
     <trd lng="de">Gemeinschaft</trd>
-    <trd lng="fr">communaut&eacute;<klr> (europ&eacute;enne ou
-    internationale)</klr></trd>
+    <trd lng="fr">communaut&eacute;<klr> (d'&eacute;tats)</klr></trd>
   </snc>
-<rim>
-Pro la evoluo tiu vorto prezentas hodia&ubreve; tri &ccirc;efajn
-signifojn<fnt>AdE</fnt>.
-</rim>
+  <rim>
+    Pro la evoluo tiu vorto prezentas hodia&ubreve; tri &ccirc;efajn
+    signifojn<fnt>AdE</fnt>.
+  </rim>
+  <trdgrp lng="en">
+    <trd>commune</trd>,
+    <trd>community</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5171;&#x540C;&#x4F53;  [<ind>&#x304D;&#x3087;&#x3046;&#x3069;&#x3046;&#x305F;&#x3044;</ind>]</trd>,
+    <trd>&#x81EA;&#x6CBB;&#x4F53;  [<ind>&#x3058;&#x3061;&#x305F;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>pospolitos&tcaron;</trd>,
     <trd>spolo&ccaron;enstvo</trd>
   </trdgrp>
   <trd lng="cs">spole&ccaron;enstv&iacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_m;&c_u;&c_n;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_o;&c_m;&c_a;&c_d;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="komun.0uma">
@@ -799,9 +956,9 @@ signifojn<fnt>AdE</fnt>.
       </ekz>
       <ekz>
         ali&gcirc;i al tiu liberkreda <tld/>umo tute oficiale kaj heredigeble
-        kaj 
-        akcepti <klr>[&#8230;]</klr> &gcirc;iajn <tld/>umajn aran&gcirc;ojn, &gcirc;iajn
-        nedevigajn 
+        kaj
+        akcepti <klr>[&#x2026;]</klr> &gcirc;iajn <tld/>umajn aran&gcirc;ojn, &gcirc;iajn
+        nedevigajn
         ne&ubreve;trale-homajn festojn kaj morojn
         <fnt>
           <bib>Homaranismo</bib>
@@ -810,12 +967,18 @@ signifojn<fnt>AdE</fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_m;&c_u;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_k;&c_ib;</trd>,
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>komun&aacute;ln&iacute;</trd>,
     <trd>obecn&iacute;</trd>,
     <trd>obecn&yacute;</trd>,
     <trd>spole&ccaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="en">communal</trd>
   <trdgrp lng="es">
     <trd>comunal</trd>,
     <trd>de la comunidad</trd>,
@@ -825,6 +988,7 @@ signifojn<fnt>AdE</fnt>.
     <trd>communal</trd>,
     <trd>communautaire</trd>
   </trdgrp>
+  <trd lng="ja">&#x5171;&#x540C;&#x4F53;&#x306E;  [<ind>&#x304D;&#x3087;&#x3046;&#x3069;&#x3046;&#x305F;&#x3044;&#x306E;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>gemeentelijk</trd>,
     <trd>gemeenschaps-</trd>
@@ -847,7 +1011,7 @@ signifojn<fnt>AdE</fnt>.
 <drv mrk="komun.en0e">
   <kap>en<tld/>e</kap>
   <uzo tip="stl">ARK</uzo>
-  <snc>
+  <snc mrk="komun.en0e.entute">
     <dif>
       <ref tip="dif" cel="tut.en0e">Entute</ref>:
       <ekz>
@@ -859,6 +1023,11 @@ signifojn<fnt>AdE</fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_a;&c_m;</trd>,
+    <trd>&c_c;&c_a;&c_l;&c_k;&c_a;&c_m;</trd>,
+    <trd>&c_u;&c_v;&c_o;&c_g;&c_u;&c_l;&c_je;</trd>
+  </trdgrp>
   <trd lng="pl">ca&lstroke;o&sacute;ciowo</trd>
   <trd lng="ru">&c_v;&c_o;&c_o;&c_b;&c_shch;&c_je;</trd>
 </drv>
@@ -876,8 +1045,7 @@ signifojn<fnt>AdE</fnt>.
       <ctl>-on</ctl>,
       nek pri faka uzo de <ref cel="on.0o.frakcio">ono <sncref/></ref>
       a&ubreve;
-      <ref cel="on.0o.cifero">ono <sncref/></ref>. Ja <frm
-      am="3pi">3&pi;</frm>
+      <ref cel="on.0o.cifero">ono <sncref/></ref>. Ja <frm am="3pi">3&pi;</frm>
       kaj
       <frm am="2pi">2&pi;</frm> estas <tld/>onaj, sed neniu riskus diri, ke
       <frm am="pi">&pi;</frm>
@@ -885,6 +1053,7 @@ signifojn<fnt>AdE</fnt>.
       (faktoro) de tiuj nombroj.
     </rim>
   </snc>
+  <trd lng="be">&c_s;&c_u;&c_v;&c_y;&c_m;&c_je;&c_r;&c_n;&c_y;</trd>
 </drv>
 
 <drv mrk="komun.0uza">
@@ -902,6 +1071,11 @@ signifojn<fnt>AdE</fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_w;&c_zh;&c_y;&c_v;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_z;&c_v;&c_y;&c_ch;&c_a;&c_j;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>b&ecaron;&zcaron;n&yacute;</trd>,
     <trd>obecn&ecaron; u&zcaron;&iacute;van&yacute;</trd>
@@ -909,6 +1083,10 @@ signifojn<fnt>AdE</fnt>.
   <trdgrp lng="de">
     <trd>gemeineigen</trd>,
     <trd>gemeinn&uuml;tzig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>commonly used</trd>,
+    <trd>in common use</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>de uso com&uacute;n</trd>,
@@ -926,16 +1104,67 @@ signifojn<fnt>AdE</fnt>.
     <trd>ordinaire<klr tip="ind"> (commun&eacute;ment
     usit&eacute;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E38;&#x7528;&#x306E;  [<ind>&#x3058;&#x3087;&#x3046;&#x3088;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x65E5;&#x7528;&#x306E;  [<ind>&#x306B;&#x3061;&#x3088;&#x3046;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">potoczny</trd>
   <trd lng="ru">&c_o;&c_b;&c_shch;&c_je;&c_u;&c_p;&c_o;&c_t;&c_r;&c_je;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>be&zcaron;n&yacute;</trd>,
     <trd>v&scaron;eobecne uzn&aacute;van&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_g;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_g;&c_o; &c_k;&c_o;&c_r;&c_i;&c_s;&c_t;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komun.Euxropa_Ekonomia_0umo">
+  <kap>
+    E&ubreve;ropa Ekonomia <tld/>umo
+  </kap>
+  <mlg>EEK</mlg>
+  <snc mrk="komun.Euxropa_Ekonomia_0umo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Ekonomia interligo de e&ubreve;ropaj &scirc;tatoj fondita en 1957, i&gcirc;inta parto de la posta
+      E&ubreve;ropa Unio:
+      <ekz>
+        La E&ubreve;ropa Ekonomia <tld lit="K"/>umo <klr>[&#x2026;]</klr> estis kreita fine de la
+        1950-aj jaroj fare de ses okcident-e&ubreve;ropaj landoj
+        <fnt>
+          <aut>morico</aut>
+          <vrk><url ref="https://lernu.net/forumo/temo/27035/2">Esperanto, justa komuna lingvo</url></vrk>
+          <lok>lernu.net, 2019-08-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_E;&c_w;&c_r;&c_a;&c_p;&c_je;&c_j;&c_s;&c_k;&c_a;&c_ja; &c_e;&c_k;&c_a;&c_n;&c_a;&c_m;&c_ib;&c_ch;&c_n;&c_a;&c_ja; &c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="de">Europ&auml;ische Wirtschaftsgemeinschaft</trd>
+  <trd lng="en">European Economic Community</trd>
+  <trd lng="fr">Communaut&eacute; &eacute;conomique europ&eacute;enne</trd>
+  <trd lng="it">Comunit&agrave; economica europea</trd>
 </drv>
 </art>
 <!--
-$Log: komun.xml,v $
+$Log$
+versio 1.129 2023/08/29 10:31:31
+Wolfram Diestel: ja: +prononco
+
+versio 1.128 2023/01/03 12:50:02
+Dmitri Gabinski: + trd be
+
+versio 1.127 2022/07/07 18:36:54
+Jeromo Vasxe: + euxropa ekonomia ~umo
+
+versio 1.126 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.123 2021/11/03 13:41:10
+Noam Mohr: +trd en komun-
+
 versio 1.47 2020/02/15 10:10:32
 Wolfram Diestel: formuloj per am
 
@@ -943,20 +1172,5 @@ Revision 1.46  2019/07/07 11:10:20  revo
 Aleks Andre: zh: indekso
 
 Revision 1.45  2019/06/30 18:21:03  revo
-adaptis URL de Monato
-
-Revision 1.44  2018/10/09 20:10:16  revo
-Wolfram Diestel: kor. ref-cel
-
-Revision 1.43  2017/12/19 18:10:17  revo
-Michel Cantigneaux: ligilo municipo en komunumo
-
-Revision 1.42  2017/10/15 10:10:21  revo
-Wolfram Diestel: dif chrikau dif-ref, prilboris ekz-ojn, germ trd-ojn
-
-Revision 1.41  2017/09/26 13:10:15  revo
-Filippo Botta: traduko italen
-
-Revision 1.40  2015/07/04 08:37:37  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: akord.xml,v 1.28 2010/07/19 16:30:31 revo Exp $">
+<art mrk="$Id: akord.xml,v 1.127 2023/08/30 18:23:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>akord</rad>/o <fnt><bib>NT</bib></fnt>
@@ -20,6 +19,14 @@
         </fnt>;
       </ekz>
       <ekz>
+        mirigis min vidi tiom da homoj movi&gcirc;i en tiel granda <tld/>o, kvaza&ubreve; mankus al
+        ili &ccirc;iuj propraj sentoj kaj deziroj
+        <fnt>
+          <bib>StU</bib>
+          <lok>Britujo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         kio <tld/>e ne sonas, tio rimon ne donas
         <fnt>
           <bib>PrV</bib>
@@ -34,8 +41,7 @@
         chat</trd>
       </ekz>
     </dif>
-    <ref tip="sin"
-    cel="akord.inter0o.konveneco">inter<tld/>o<sncref/></ref>
+    <ref tip="sin" cel="akord.inter0o.konveneco">inter<tld/>o<sncref/></ref>
     <refgrp tip="vid">
       <ref cel="harmon1.0o.arangxo">harmonio</ref>,
       <ref cel="kongru.0eco">kongrueco</ref>,
@@ -68,8 +74,7 @@
         </fnt>.
       </ekz>
     </dif>
-    <ref tip="sin"
-    cel="akord.inter0o.samopinieco">inter<tld/>o<sncref/></ref>
+    <ref tip="sin" cel="akord.inter0o.samopinieco">inter<tld/>o<sncref/></ref>
     <refgrp tip="vid">
       <ref cel="harmon1.0o.paco">harmonio</ref>,
       <ref cel="konkor.0o">konkordo</ref>,
@@ -89,6 +94,7 @@
     <trd lng="ca">acord</trd>
     <trdgrp lng="de">
       <trd>Gleichklang</trd>,
+      <trd>Konsens</trd>,
       <trd>&Uuml;bereinstimmung</trd>
     </trdgrp>
     <trd lng="es">acuerdo</trd>
@@ -175,10 +181,10 @@
       <ekz>
         <tld/>o, kiun la 14 &scirc;tatoj neniam atingis
         <fnt>
+       <aut>Vinko O&Scaron;LAK/pg</aut>
+          <vrk><url ref="&Monato;/2000/006952.php">A&ubreve;strio kaj la ceteraj</url></vrk>
           <bib>Monato</bib>
-          <aut>PGubbins</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006952.html"
-              >Reago: A&ubreve;strio kaj la ceteraj</url></vrk>
+          <lok>2000/06, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -186,7 +192,7 @@
         triaj landoj
         <fnt>
           <aut>D. ap Fergus</aut>
-          <lok><url ref="http://esperanto.org/Ondo/Df2002.htm">LoDE
+          <lok><url ref="&LOdE;Df2002.htm">LoDE
           2002:5</url></lok>
         </fnt>;
       </ekz>
@@ -196,8 +202,7 @@
         <fnt>
           <aut>trad. V. Lutermano</aut>
           <vrk>Le Monde Diplomatique en Esperanto</vrk>
-          <lok><url
-          ref="http://eo.mondediplo.com/article842.html">2003-12</url></lok>
+          <lok><url ref="&Mondediplo;article842.html">2003-12</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -230,14 +235,20 @@
       Fenomeno, per kiu la formo de iuj vortoj konformi&gcirc;as al
       tiu de aliaj, kun kiuj ili estas en sintaksa rilato:
       <ekz>
-        <tld/>o de adjektivo kun substantivo
-        <klr>(a&ubreve;: inter adjektivo kaj substantivo)</klr>
+        <tld/>o inter adjektivo kaj substantivo
+        <fnt>
+          <bib>LAE</bib>
+          <lok>3. MORFOLOGIO</lok>
+        </fnt>
         la&ubreve; kazo kaj nombro;
       </ekz>
       <ekz>
-        male al la latina, la Esperanta verbo ne montras
-        <tld/>on de persono <klr>(a&ubreve;: la&ubreve; persono)</klr> kun la
-        subjekto.
+        inter verbo kaj la personpronoma subjekto Esperanto ne havas <tld/>on: mi
+        skribas, vi skribas, li skribas
+        <fnt>
+          <bib>LAE</bib>
+          <lok>3. Morfologio</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="fr">accord<klr tip="ind"> (gramm.)</klr></trd>
@@ -245,12 +256,92 @@
   <refgrp tip="vid">
     Ne konfuzu kun <ref cel="agord.0o">agordo</ref>
   </refgrp>
-  <trd lng="sk">akord, s&uacute;zvuk aspo&ncaron; troch t&oacute;nov</trd>
+  <trd lng="af">koord</trd>
+  <trd lng="am">&#x12AE;&#x122D;&#x12F5;</trd>
+  <trd lng="ar">&a_w;&a_t;&a_r;</trd>
+  <trd lng="bn">&#x99C;&#x9CD;&#x9AF;&#x9BE;</trd>
+  <trd lng="bs">akord</trd>
+  <trd lng="co">bascule</trd>
+  <trd lng="cy">tant</trd>
+  <trd lng="da">akkord</trd>
+  <trd lng="et">akord</trd>
+  <trd lng="eu">akordeak</trd>
+  <trd lng="fy">akkoard</trd>
+  <trd lng="ga">corda</trd>
+  <trd lng="gl">acorde</trd>
+  <trd lng="gu">&#xAA4;&#xABE;&#xAB0;</trd>
+  <trd lng="ha">tsirkiya</trd>
+  <trd lng="he">&he;&#x5B6;&samekh;&kaf;&#x5BC;&#x5B5;&fmem;</trd>
+  <trd lng="hi">&#x930;&#x93E;&#x917;</trd>
+  <trd lng="hr">akord</trd>
+  <trd lng="ht">k&ograve;d</trd>
+  <trd lng="hy">&#x56F;&#x561;&#x57A;&#x561;&#x576;</trd>
+  <trd lng="ig">mmagba</trd>
+  <trd lng="is">hlj&oacute;murinn</trd>
+  <trd lng="ja">&#x548C;&#x97F3; [<ind>&#x308F;&#x304A;&#x3093;</ind>]</trd>
+  <trd lng="jv">penghubung</trd>
+  <trd lng="ka">&#x10D0;&#x10D9;&#x10DD;&#x10E0;&#x10D3;&#x10D8;</trd>
+  <trd lng="kk">&c_a;&c_k;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="km">&#x17A2;&#x1784;&#x17D2;&#x1780;&#x178F;&#x17CB;&#x1792;&#x17D2;&#x1793;&#x17BC;</trd>
+  <trd lng="kn">&#xCB8;&#xCCD;&#xCB5;&#xCB0;&#xCAE;&#xCC7;&#xCB3;</trd>
+  <trd lng="ko">&#xCF54;&#xB4DC;</trd>
+  <trd lng="ku">denglihevan&icirc;n&icirc;</trd>
+  <trd lng="ky">&c_a;&c_k;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="lat">chorda</trd>
+  <trd lng="lo">&#xE81;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">styga</trd>
+  <trd lng="lv">akords</trd>
+  <trd lng="mk">&c_a;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="ml">&#xD36;&#xD2C;&#xD4D;&#xD26;&#xD35;&#xD32;&#xD2F;&#xD02;</trd>
+  <trd lng="mn">&c_h;&#x4E9;&c_v;&c_ch;</trd>
+  <trd lng="mr">&#x91C;&#x940;&#x935;&#x93E;</trd>
+  <trd lng="ms">kord</trd>
+  <trd lng="mt">korda</trd>
+  <trd lng="my">&#x1000;&#x103C;&#x102D;&#x102F;&#x1038;</trd>
+  <trd lng="ny">poyambira</trd>
+  <trd lng="pa">&#xA15;&#xA4B;&#xA30;&#xA3F;&#xA1C;&#xA3C;</trd>
+  <trdgrp lng="pl">
+    <trd>akord</trd>,
+    <trd>harmonia d&zacute;wi&eogonek;k&oacute;w</trd>,
+    <trd>porozumienie si&eogonek;</trd>,
+    <trd>ugoda</trd>
+  </trdgrp>
+  <trd lng="ps">&a_A;&a_ayn;&a_S;&a_A;&a_b;&a_w;</trd>
+  <trdgrp lng="ro">
+    <trd>coard&abreve;</trd>,
+    <trd>armonia sunetelor</trd>,
+    <trd>&icirc;n&#x21B;elegerea</trd>,
+    <trd>acord</trd>
+  </trdgrp>
+  <trd lng="rw">inanga</trd>
+  <trd lng="sd">&a_r;&a_A;&f_g; &f_g;&a_r;&a_y;</trd>
+  <trd lng="si">&#xDC4;&#xDD0;&#xD9F;&#xDD3;&#xDB8;&#xDCA;
+  &#xD87;&#xDC0;&#xDD2;&#xDC3;&#xDCA;&#xDC3;&#xDD4;&#xDC0;&#xDDA;</trd>
   <trd lng="sk">akord, s&uacute;zvuk aspo&ncaron; troch t&oacute;nov</trd>
   <trdgrp lng="cs">
     <trd>akord</trd>,
     <trd>souzvuk alespo&ncaron; t&rcaron;&iacute; t&oacute;n&uring;</trd>
   </trdgrp>
+  <trd lng="sl">tetiva</trd>
+  <trd lng="sm">kotu</trd>
+  <trd lng="sn">kodhi</trd>
+  <trd lng="so">shaqoxannibista</trd>
+  <trd lng="sq">akord</trd>
+  <trd lng="st">samjun</trd>
+  <trd lng="sw">gumzo</trd>
+  <trd lng="ta">&#xBA8;&#xBBE;&#xBA3;&#xBCD;</trd>
+  <trd lng="te">&#xC24;&#xC40;&#xC17;</trd>
+  <trd lng="tg">&c_a;&c_k;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="th">&#xE04;&#xE2D;&#xE23;&#xE4C;&#xE14;</trd>
+  <trd lng="tt">&c_a;&c_k;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="uk">&c_a;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="ur">&a_r;&a_A;&f_g;</trd>
+  <trd lng="uz">akkord</trd>
+  <trd lng="vi">h&#x1EE3;p &acirc;m</trd>
+  <trd lng="xh">ikhodi</trd>
+  <trd lng="yi">&qof;&alef;&#x5B8;&resh;&dalet;</trd>
+  <trd lng="yo">okun</trd>
+  <trd lng="zu">kuzithinta</trd>
 </drv>
 
 <drv mrk="akord.0a">
@@ -269,8 +360,7 @@
           <fnt>
           <aut>Zuo Yan</aut>
           <vrk>&Ccirc;inio plenumas sian promeson al MKO</vrk>
-          <lok><url
-          ref="http://www.chinareport.com.cn/18s/wto/wto-12.htm">El Popola
+          <lok><url ref="http://www.chinareport.com.cn/18s/wto/wto-12.htm">El Popola
           &Ccirc;inio</url></lok>
           </fnt>.
         </ekz>
@@ -303,8 +393,7 @@
           plenajn personajn kaj hava&jcirc;ajn rajtojn
           <fnt>
           <vrk>Egalecaj Rajtoj kaj Interesoj en Geedzi&gcirc;o kaj Familio</vrk>
-          <lok><url
-          ref="http://es.chinabroadcast.cn/chinaabc/chapter12/chapter120505.htm">&Ccirc;ina
+          <lok><url ref="http://es.chinabroadcast.cn/chinaabc/chapter12/chapter120505.htm">&Ccirc;ina
           Radio Internacia</url></lok>
           </fnt>;
         </ekz>
@@ -346,8 +435,7 @@
           kadencon
           <fnt>
           <vrk>Klozulo</vrk>
-          <lok><url
-          ref="http://eo.wikipedia.org/wiki/Klozulo">Vikipedio</url></lok>
+          <lok><url ref="&Viki;/Klozulo">Vikipedio</url></lok>
           </fnt>.
         </ekz>
       </dif>
@@ -363,8 +451,7 @@
         kaj jam la&ubreve;takte mar&scirc;as harmoniaj sonoj
         <fnt>
         <aut>A. Mickiewicz, trad. A. Grabowski</aut>
-        <vrk><url
-        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5602/mickiewiczu.html">Sinjoro
+        <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5602/mickiewiczu.html">Sinjoro
         Tadeo</url></vrk>
         <lok>Norda
         Prismo, 1956:2 p. 94-95a</lok>
@@ -376,7 +463,7 @@
       </ekz>
       <ekz>
         Sargonon ja sekvis la plej bonaj asiriaj
-        batalistoj <klr>[&#8230;]</klr>,
+        batalistoj <klr>[&#x2026;]</klr>,
         sed mi ne vidis e&ccirc; ses soldatojn, sciantajn mar&scirc;i
         <tld/>e en rekta vico
         <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 13a</lok></fnt>.
@@ -389,6 +476,16 @@
   <trdgrp lng="cs">
     <trd>kompatibiln&iacute;</trd>,
     <trd>slu&ccaron;iteln&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bezkonfliktowy</trd>,
+    <trd>uk&lstroke;adny</trd>,
+    <trd>zgodny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>f&abreve;r&abreve; conflict</trd>,
+    <trd>politicos</trd>,
+    <trd>compatibil</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>kompatibiln&yacute;</trd>,
@@ -446,8 +543,7 @@
         li pretis obei min
         <fnt>
         <aut>W. F. Hermans, trad. M. Meuwissen</aut>
-        <vrk><url
-        ref="http://www.purl.org/NET/mihxil/8/wimshurst.html">La
+        <vrk><url ref="http://www.purl.org/NET/mihxil/8/wimshurst.html">La
         elektrilo de Wimshurst</url></vrk>
         <lok>[vidita en 2012]</lok>
         </fnt>.
@@ -477,7 +573,7 @@
         kazo, genro, kaj nombro
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref="http://eo.wikipedia.org/wiki/Klasika_latina">
+          <lok><url ref="&Viki;/Klasika_latina">
           Klasika latina</url>, 2011-03-21</lok>
         </fnt>.
       </ekz>
@@ -500,10 +596,20 @@
   </trdgrp>
   <trd lng="en">accord</trd>
   <trd lng="es">estar de acuerdo</trd>
+  <trd lng="he">&lamed;&he;&tav;&alef;&yod;&fmem;</trd>
+  <trd lng="ja">&#x8ABF;&#x548C;&#x3057;&#x3066;&#x3044;&#x308B;  [<ind>&#x3061;&#x3087;&#x3046;&#x308F;&#x3057;&#x3066;&#x3044;&#x308B;</ind>]</trd>
   <trd lng="nl">overeenstemmen</trd>
+  <trdgrp lng="pl">
+    <trd>zgadza&cacute; si&eogonek;</trd>,
+    <trd>podziela&cacute; to samo zdanie</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>acordar</trd>,
     <trd>estar de acordo</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>accepta</trd>,
+    <trd>s&abreve; par&abreve; de aceea&#x219;i p&abreve;rere</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_b;&c_y;&c_t;&c_mol; &c_v; <ind>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_i;</ind></trd>,
@@ -527,6 +633,13 @@
     <dif>
       Igi <tld/>a:
       <ekz>
+        <tld/>igi la formon al la enhavo
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         se du komplementoj estas ligataj per la vorto &leftquot;kiel&rightquot;, tiam mi ordinare
         <tld/>igas kaze la sekvantan komplementon kun la komplemento anta&ubreve;iranta
         <fnt>
@@ -535,11 +648,19 @@
         </fnt>;
       </ekz>
       <ekz>
-        peni por <tld/>igi la naciajn fierecojn
-        <klr>(<ref tip="vid" cel="pac.0igi">pacigi</ref>)</klr>;
+        kiamaniere ni povos <tld/>igi tiun novan sciigon kun la aliaj informoj
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>?
       </ekz>
       <ekz>
-        <tld/>igi horlo&gcirc;ojn.
+        kun lerteco de profunda diplomatiisto lia kunulo trovis rimedon por <tld/>igi
+        kune tiujn du neakordigeblajn decidojn
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Deka</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -571,10 +692,12 @@
       <trd>marier<klr tip="ind"> (harmoniser)</klr></trd>
     </trdgrp>
     <trd lng="nl">doen <ind>overeenstemmen</ind></trd>
+    <trd lng="pl">godzi&cacute;</trd>
     <trdgrp lng="pt">
       <trd>p&ocirc;r de acordo</trd>,
       <trd>concordar</trd>
     </trdgrp>
+    <trd lng="ro">reconcilia</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_k; <ind>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_ju;</ind>
       <klr>(&c_l;&c_ju;&c_d;&c_je;&c_j;)</klr></trd>,
@@ -589,10 +712,17 @@
     <trd>uspo&rcaron;&aacute;dat</trd>,
     <trd>vyladit</trd>
   </trdgrp>
+  <trd lng="he">&lamed;&he;&tav;&alef;&yod;&fmem;</trd>
+  <trd lng="ja">&#x4E00;&#x81F4;&#x3055;&#x305B;&#x308B;  [<ind>&#x3044;&#x3063;&#x3061;&#x3055;&#x305B;&#x308B;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>by&tcaron; v s&uacute;lade</trd>,
     <trd>harmonizova&tcaron;</trd>,
     <trd>ladi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_t;&c_i; &c_d;&c_o; &c_z;&c_g;&c_o;&c_d;&c_i;/&c_z;&c_l;&c_a;&c_g;&c_o;&c_d;&c_i; (&c_l;&c_ju;&c_d;&c_je;&c_j;)</trd>,
+    <trd>&c_p;&c_o;&c_g;&c_o;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_z;&c_g;&c_o;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_d;&c_ib;&c_ji;)</trd>
   </trdgrp>
 </drv>
 
@@ -606,8 +736,7 @@
         <fnt>
         <aut>S. Pokrovskij</aut>
         <vrk>Homlingvaj alfabetoj</vrk>
-        <lok><url
-        ref="http://www.iis.nsk.su/persons/pok/Eo/KompLeks/html/SUROGATO.html">Komputada
+        <lok><url ref="http://www.iis.nsk.su/persons/pok/Eo/KompLeks/html/SUROGATO.html">Komputada
         Leksikono</url></lok>
         </fnt>;
       </ekz>
@@ -616,8 +745,7 @@
         <tld/>igeblan kun la homa eraremo
         <fnt>
         <vrk>Al la legantoj</vrk>
-        <lok><url
-        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr16/enkondukou.html">Nica
+        <lok><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr16/enkondukou.html">Nica
         Literatura Revuo</url></lok>
         </fnt>;
       </ekz>
@@ -625,8 +753,11 @@
         &ccirc;u la aktuala propono por la lingvoreguligo &ccirc;e la
         Komunuma Patento estas <tld/>igebla kun la principo de
         nediskriminacio de la komunumaj lingvoj
-        <fnt><aut>M. Naoki Lins</aut>, <vrk>Patentoj</vrk>, <lok><url
-        ref="https://www.monato.be/2003/008126.html">Monato</url></lok></fnt>?
+        <fnt>
+        <aut>M. Naoki Lins</aut>,
+        <vrk><url ref="&Monato;/2003/008126.html">Patentoj</url></vrk>,
+        <bib>Monato</bib>
+        <lok>2003/07, p. 26</lok></fnt>?
       </ekz>
     </dif>
   </snc>
@@ -635,6 +766,8 @@
     <trd>conciliable</trd>,
     <trd>compatible</trd>
   </trdgrp>
+  <trd lng="pl">daj&aogonek;cy si&eogonek; pogodzi&cacute;</trd>
+  <trd lng="ro">reconciliabile</trd>
   <trd lng="sk">zlu&ccaron;ite&lcaron;n&yacute;</trd>
 </drv>
 
@@ -671,10 +804,10 @@
         la konceptoj krea&jcirc;o kaj kreinto ne <tld/>i&gcirc;as kun la neimagebla vasteco de la
         universo
         <fnt>
+       <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2000/006847.php">Sobraj pensoj de sobrulo</url></vrk>
           <bib>Monato</bib>
-          <aut>Albisturo Kvinke</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006847.html"
-              >Opinio: Sobraj pensoj de sobrulo</url></vrk>
+          <lok>2000/03, p. 22</lok>
         </fnt>.
       </ekz>
     </subsnc>
@@ -716,10 +849,10 @@
         la&ubreve; nombro kaj kazo, kaj anka&ubreve; la&ubreve; genro
         <fnt>
         <aut>B. Kendal</aut>
-          <vrk>La pola, la lingvo de Zamenhof</vrk>
-          <lok><url
-          ref="https://www.monato.be/2002/007888.html">Monato</url></lok>
-        </fnt>;
+          <vrk><url ref="&Monato;/2002/007888.html">La pola, la lingvo de Zamenhof</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/11, p. 20</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <uzo tip="fak">GRA</uzo>
@@ -763,13 +896,29 @@
     qn)</klr></trd>
     <trd><ind>aller</ind> avec</trd>
   </trdgrp>
+  <trd lng="he">&lamed;&he;&samekh;&kaf;&yod;&fmem;</trd>
+  <trd lng="ja">&#x4E00;&#x81F4;&#x3059;&#x308B;  [<ind>&#x3044;&#x3063;&#x3061;&#x3059;&#x308B;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>pogodzi&cacute; si&eogonek;</trd>,
+    <trd>pojedna&cacute; si&eogonek;</trd>,
+    <trd>porozumiewa&cacute; si&eogonek;</trd>
+  </trdgrp>
   <trd lng="pt">entrar em acordo</trd>
+  <trdgrp lng="ro">
+    <trd>fi &icirc;mp&abreve;cat</trd>,
+    <trd>reconcilia</trd>,
+    <trd>comunica</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_k;
     <ind>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_ju;</ind></trd>
     <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
   <trd lng="sk">zladi&tcaron; sa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_g;&c_o;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_h;&c_o;&c_d;&c_i;&c_t;&c_i; &c_d;&c_o; &c_z;&c_g;&c_o;&c_d;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akord.inter0o">
@@ -777,7 +926,24 @@
   <uzo tip="stl">RAR</uzo>
   <snc mrk="akord.inter0o.samopinieco">
     <fnt><bib>PV</bib><lok>harmonio</lok></fnt>
-    <ref tip="dif" cel="akord.0o.samopinieco"><tld/>o<sncref/></ref>
+    <dif>
+      <ref tip="dif" cel="akord.0o.samopinieco"><tld lit="A"/>o<sncref/></ref>:
+      <ekz>
+        ni prave nomu &ccirc;i tiun unuanimecon prudento, &ccirc;i tiun inter<tld/>on de la plej
+        malbonaj kaj la plej bonaj
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Kvar</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter<tld/>o de la kredoj de la regantoj kaj de la regatoj
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Kvar</lok>
+        </fnt>.
+      </ekz>
+    </dif>
     <trdgrp lng="fr">
       <trd>accord<klr tip="ind"> (fait d'&ecirc;tre en accord)</klr></trd>,
       <trd>entente<klr tip="ind"> (accord)</klr></trd>,
@@ -812,6 +978,12 @@
     <trd>kompatibilnost</trd>,
     <trd>shoda</trd>
   </trdgrp>
+  <trd lng="de">Konsens</trd>
+  <trd lng="pl">zgoda</trd>
+  <trdgrp lng="ro">
+    <trd>acord</trd>,
+    <trd>reconciliere</trd>
+  </trdgrp>
   <trd lng="sk">zhoda</trd>
 </drv>
 
@@ -819,8 +991,7 @@
   <kap>mal<tld/>o</kap>
   <snc mrk="akord.mal0o.malsamopinieco">
     <dif>
-      <ref tip="sin" cel="konfli.0o">Konflikto</ref>, <ref tip="sin"
-      cel="kverel.0o.dauxra">kverelo<sncref/></ref>:
+      <ref tip="sin" cel="konfli.0o">Konflikto</ref>, <ref tip="sin" cel="kverel.0o.dauxra">kverelo<sncref/></ref>:
       <ekz>
         artritaj sentadoj estas &ccirc;iam akompanataj de mal<tld/>o de la me&hcirc;anikaj vibracioj
         <fnt>
@@ -836,21 +1007,21 @@
       <ekz>
         ofte eblas anta&ubreve;vidi kaj e&ccirc; eviti interetnajn mal<tld/>ojn
         <fnt>
+       <aut>Werner Schad</aut>
+          <vrk><url ref="&Monato;/2000/006953.php">Bezonata: nova &leftquot;fremdula legio&#x201D;</url></vrk>
           <bib>Monato</bib>
-          <aut>PGubbins</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006953.html"
-              >Opinio: Bezonata: nova &leftquot;fremdula legio&rightquot;</url></vrk>
+          <lok>2000/07, p. 27</lok>
         </fnt>;
       </ekz>
       <ekz>
-        en <nom>Vilvoorde</nom> <klr>[&#8230;]</klr> ekestis mal<tld/>o inter
+        en <nom>Vilvoorde</nom> <klr>[&#x2026;]</klr> ekestis mal<tld/>o inter
         liberaluloj kaj la kristandemokrata partio
         <fnt>
-          <aut>G. Van Damme</aut>,
-          <vrk>Demokratio blokita</vrk>,
-          <lok><url
-          ref="http://www.esperanto.be/fel/mon/007259.html">Monato</url></lok>
-        </fnt>.
+          <aut>Guido van Damme</aut>
+          <vrk><url ref="&Monato;/2001/007259.php">Demokratio blokita</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 8</lok>
+          </fnt>.
       </ekz>
     </dif>
     <ref tip="ant" cel="akord.0o.samopinieco"><tld/>o<sncref/></ref>
@@ -878,11 +1049,37 @@
     <trd>rozvrat</trd>,
     <trd>&uacute;pln&aacute; neshoda</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Dissens</trd>,
+    <trd>Hader</trd>,
+    <trd>Uneinigkeit</trd>,
+    <trd>Widerstreit</trd>,
+    <trd>Zwietracht</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x548C;  [<ind>&#x3075;&#x308F;</ind>]</trd>,
+    <trd>&#x4E0D;&#x4E00;&#x81F4;  [<ind>&#x3075;&#x3044;&#x3063;&#x3061;</ind>]</trd>,
+    <trd>&#x4E0D;&#x8ABF;&#x548C;  [<ind>&#x3075;&#x3061;&#x3087;&#x3046;&#x308F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dysonans</trd>,
+    <trd>rozterka</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>disonan&#x21B;&abreve;</trd>,
+    <trd>indecizie</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>konflikt</trd>,
     <trd>nezhoda</trd>,
     <trd>rozpor</trd>,
     <trd>rozvrat</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_b;&c_ib;&c_zh;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_l;&c_a;&c_d;</trd>,
+    <trd>&c_n;&c_je;&c_m;&c_i;&c_l;&c_o;&c_z;&c_v;&c_u;&c_ch;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_i;&c_s;&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_ib;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -891,7 +1088,7 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="akord.mal0i.KOMUNE">
     <dif>
-      <ref tip="vid" cel="konfli.0i">Konflikti</ref>:
+      <ref cel="konfli.0i">Konflikti</ref>:
       <ekz>
         via rakonto, profesoro, estas tre interesa, kvankam &gcirc;i
         tute mal<tld/>as kun la Evangelioj
@@ -900,16 +1097,32 @@
       <ekz>
         multaj esperantistoj mal<tld/>os kun mi pri tio
         <fnt>
+       <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2000/007078.php">Gramatiko detala kaj tradicia</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007078.html"
-              >Gramatiko detala kaj tradicia</url></vrk>
+          <lok>2000/11, p. 27</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="konsen.mal0i">malkonsenti</ref>,
+      <ref cel="opini.dis0i">malsamopinii</ref>
+    </refgrp>
     <ref tip="ant" cel="akord.0i"><tld/>i</ref>
+    <refgrp tip="vid">
+      <ref cel="disput.0i">disputi</ref>,
+      <ref cel="kverel.0i">kvereli</ref>,
+      <ref cel="pac.mal0i">malpaci</ref>
+    </refgrp>
   </snc>
   <trd lng="cs">b&yacute;t v rozporu</trd>
+  <trdgrp lng="de">
+    <trd><ind>uneins</ind> sein</trd>,
+    <trd>miteinander <ind>hadern</ind></trd>,
+    <trd>widerstreiten</trd>,
+    <trd><ind>gespalten</ind> sein</trd>,
+    <trd>&uuml;ber <ind>Kreuz</ind> liegen</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&ecirc;tre en <ind>d&eacute;saccord</ind></trd>,
     <trd>&ecirc;tre en <ind>conflit</ind></trd>,
@@ -918,6 +1131,14 @@
     <trd>avoir un <ind>diff&eacute;rend</ind></trd>,
     <trd>avoir un <ind>litige</ind></trd>,
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nie zgadza&cacute; si&eogonek;</trd>,
+    <trd>wa&sacute;ni&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>nu sunt de  <ind>acord</ind></trd>,
+    <trd>s&abreve; se &icirc;nv&acirc;rt&abreve;</trd>
+  </trdgrp>
   <trd lng="sk">by&tcaron; v rozpore</trd>
 </drv>
 
@@ -925,7 +1146,7 @@
   <kap>mal<tld/>a</kap>
   <snc mrk="akord.mal0a.KOMUNE">
     <dif>
-      <ref tip="vid" cel="konfli.0a">Konflikta</ref>:   
+      <ref tip="vid" cel="konfli.0a">Konflikta</ref>:
       <ekz>
         la elementoj estas kunmiksitaj, la animoj mal<tld/>aj kaj
         se vi ne savos nin, sinjoro, la horoj de nia vivo estas
@@ -938,8 +1159,7 @@
         <fnt>
         <aut>Zuo Yan</aut>,
         <vrk>&Ccirc;inio plenumas sian promeson al MKO</vrk>,
-        <lok><url
-        ref="http://www.chinareport.com.cn/18s/wto/wto-12.htm">El Popola
+        <lok><url ref="http://www.chinareport.com.cn/18s/wto/wto-12.htm">El Popola
         &Ccirc;inio</url></lok>
         </fnt>;
       </ekz>
@@ -952,6 +1172,15 @@
     <ref tip="ant" cel="akord.0a"><tld/>a</ref>
   </snc>
   <trd lng="cs">nejednotn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>unvereinbar</trd>,
+    <trd>widerstreitend</trd>,
+    <trd>grundverschieden</trd>,
+    <trd>nicht <ind>zusammenpassen</ind>d</trd>,
+    <trd>im <ind>Widerspruch</ind> zueinander</trd>,
+    <trd>diskrepant</trd>,
+    <trd>kontr&auml;r</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>en <ind>d&eacute;saccord</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
     <trd>en <ind>inad&eacute;quation</ind><klr tip="ind"> (loc.
@@ -964,6 +1193,16 @@
     <trd>incoh&eacute;rent</trd>,
     <trd>inharmonieux</trd>,
     <trd>oppos&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>sprzeczny</trd>,
+    <trd>niezgodny</trd>,
+    <trd>dysonansowy</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>contradictoriu</trd>,
+    <trd>discordie</trd>,
+    <trd>dissonant&abreve;</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>bez ladu nes&uacute;ladn&yacute;</trd>,
@@ -991,6 +1230,14 @@
     <trd>incompatible</trd>,
     <trd>irr&eacute;conciliable</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nie do pogodzenia</trd>,
+    <trd>sprzeczny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>neconciliabil</trd>,
+    <trd>contradictoriu</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akord.mis0o">
@@ -1004,8 +1251,7 @@
         <fnt>
         <aut>N. Boileau, trad. G. Waringhien</aut>,
         <vrk>La arto poezia: Unua kanto</vrk>,
-        <lok><url
-        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr26/Boileau/kanto_unuau.html">Nica
+        <lok><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr26/Boileau/kanto_unuau.html">Nica
         Literatura Revuo</url></lok>
         </fnt>;
       </ekz>
@@ -1015,8 +1261,7 @@
         <fnt>
         <aut>trad. J.-M. Cash</aut>,
         <vrk>Le Monde Diplomatique en Esperanto</vrk>,
-        <lok><url
-        ref="http://eo.mondediplo.com/article887.html">2004-03</url></lok>
+        <lok><url ref="&Mondediplo;article887.html">2004-03</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1025,6 +1270,15 @@
       <ref cel="akord.mal0o">mal<tld/>o</ref>.
     </rim>
   </snc>
+  <trdgrp lng="de">
+    <trd>Missstimmung</trd>,
+    <trd>Spannung</trd>,
+    <trd>Verstimmtheit</trd>,
+    <trd>Verstimmung</trd>,
+    <trd>Dysharmonie</trd>,
+    <trd>Unstimmigkeit</trd>,
+    <trd>Verwerfung</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>dissonance<klr tip="ind"> (fig.)</klr></trd>,
     <trd>fausse <ind>note</ind><klr tip="ind"> (fig.)</klr></trd>,
@@ -1033,6 +1287,14 @@
     <trd>discordance</trd>,
     <trd>divergence de <ind>vue</ind>s</trd>,
     <trd>friction<klr tip="ind"> (divergence de vues)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>niezgoda</trd>,
+    <trd>rozbie&zdot;no&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>ceart&abreve;</trd>,
+    <trd>dezacord</trd>
   </trdgrp>
 </drv>
 
@@ -1047,8 +1309,7 @@
         <fnt>
         <aut>trad. J.-M. Cash</aut>,
         <vrk>Le Monde Diplomatique en Esperanto</vrk>,
-        <lok><url
-        ref="http://eo.mondediplo.com/article988.html">2005-01</url></lok>
+        <lok><url ref="&Mondediplo;article988.html">2005-01</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1063,7 +1324,19 @@
     <trd>incompatible</trd>,
     <trd>irr&eacute;conciliable</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bez mo&zdot;liwo&sacute;ci pogodzenia</trd>,
+    <trd>niezgodny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>f&abreve;r&abreve; posibilitatea reconcilierii</trd>,
+    <trd>nu este compatibil</trd>
+  </trdgrp>
   <trd lng="sk">nezladite&lcaron;n&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_m;&c_i;&c_r;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_m;&c_i;&c_r;&c_i;&c_m;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akord.0ekun">
@@ -1079,8 +1352,7 @@
         <tld/>e kun la tradicio de la gastiganta urbo
         <fnt>
           <aut>Hispana Esperanto-Federacio</aut>,
-          <vrk><url
-          ref="http://www.esperanto.es/hef/images/kongreso/almagro/anoncokongresoalmagro.pdf">
+          <vrk><url ref="http://www.esperanto.es/hef/images/kongreso/almagro/anoncokongresoalmagro.pdf">
           71-a Hispana Kongreso de Esperanto</url></vrk>,
           <lok>[vidita en 2012]</lok>
         </fnt>;
@@ -1088,19 +1360,20 @@
       <ekz>
         la konstruado okazas <tld/>e kun la enlanda juro
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007207.html"
-              >La mezepokaj judaj mortintoj fine trankvilaj</url></vrk>
+	<aut>Ji&rcaron;i Patera</aut>
+	<vrk><url ref="&Monato;/2001/007207.php">La mezepokaj judaj mortintoj fine
+          trankvilaj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/01, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
-        dum la dua mondmilito, <tld/>e al la militarisma politiko por 
-        ekspansii suden, Japanio pluapa&scirc;e disvolvis en <nom>Taiwan</nom> diversajn 
+        dum la dua mondmilito, <tld/>e al la militarisma politiko por
+        ekspansii suden, Japanio pluapa&scirc;e disvolvis en <nom>Taiwan</nom> diversajn
         industriojn rilatajn al la milito
         <fnt>
           <aut>&Ccirc;ina Radio Internacia</aut>,
-          <vrk><url
-          ref="http://esperanto.cri.cn/chinaabc/chapter10/chapter100501.htm">
+          <vrk><url ref="&CRI;chinaabc/chapter10/chapter100501.htm">
           Ekspluata Historio de Taiwan</url></vrk>,
           <lok>[vidita en 2012]</lok>
         </fnt>.
@@ -1108,6 +1381,8 @@
     </dif>
   </snc>
   <trd lng="fr">en accord avec</trd>
+  <trd lng="pl"><ind>zgodnie</ind>  z</trd>
+  <trd lng="ro">&icirc;n  <ind>conformitate</ind>  cu</trd>
 </drv>
 
 <drv mrk="akord.mal0ekun">
@@ -1123,8 +1398,7 @@
         la bapton de infanoj
         <fnt>
           <aut>E. Pauli</aut>,
-          <vrk><url
-          ref="http://cfh.ufsc.br/~simpozio/Esperanto/ANABAPTISMO.html">
+          <vrk><url ref="http://cfh.ufsc.br/~simpozio/Esperanto/ANABAPTISMO.html">
           Enciklopedio simpozio</url></vrk>,
           <lok>artikolo &leftquot;anabaptismo&rightquot;, [1999]</lok>
         </fnt>.
@@ -1132,6 +1406,8 @@
     </dif>
   </snc>
   <trd lng="fr">en d&eacute;saccord avec</trd>
+  <trd lng="pl"><ind>niezgodnie</ind>  z</trd>
+  <trd lng="ro">nu este  <ind>compatibil</ind>  cu</trd>
 </drv>
 
 <drv mrk="akord.veni_en_0on">
@@ -1159,29 +1435,34 @@
     <trd>se <ind>marier</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
     <trd>se mettre en <ind>phase</ind><klr tip="ind"> (avec qc ou
     qn)</klr></trd>
+    <trd lng="pl">doj&sacute;&cacute; do  <ind>porozumienia</ind></trd>
+    <trd lng="ro">ajunge la o  <ind>&icirc;n&#x21B;elegere</ind></trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.36  2019/06/29 12:19:25  revo
-adaptis URL de Monato
+versio 1.126 2023/08/29 20:28:09
+Wolfram Diestel: ja: prononco
 
-Revision 1.35  2017/03/07 18:10:17  revo
-Jeromo Vasxe: nimimumon -> minimumon, - ekz kun antarktika (= antarkta)
+versio 1.125 2023/05/13 07:22:54
+Paul Peeraerts: kor de erara url
 
-Revision 1.34  2016/11/20 17:10:15  revo
-Wolfram Diestel: prilaboris referencojn
+versio 1.124 2023/05/13 06:30:03
+Paul Peeraerts: + lok + url
 
-Revision 1.33  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.123 2023/04/23 06:30:48
+Paul Peeraerts: &steloj -> monato.be
 
-Revision 1.32  2015/06/29 16:39:29  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.122 2023/04/22 16:33:01
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.31  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.121 2023/04/22 15:25:49
+Paul Peeraerts: &steloj -> monato.be
 
-Revision 1.30  2012/01/18 01:10:08  revo
+versio 1.120 2023/04/22 11:22:13
+Paul Peeraerts: &steloj -> monato.be
+
+versio 1.119 2023/04/21 12:44:33
 -->
 </vortaro>

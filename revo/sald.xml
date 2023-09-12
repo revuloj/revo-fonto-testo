@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sald.xml,v 1.27 2023/09/03 12:09:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>sald</rad>/o
@@ -19,17 +18,16 @@
         debet<tld/>o
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko"
-              >La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>o de kuranta konto
         <fnt>
-          <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006821.html"
-              >E&ubreve;ropa Unio: E&ubreve;ro unujara</url></vrk>
+	<aut>Marc Vanden Bempt</aut>
+	<vrk><url ref="&Monato;/2000/006821.php">E&ubreve;ro unujara</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -37,8 +35,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stanis&lstroke;aw &Sacute;migielski</aut>
-          <vrk><url ref="https://www.monato.be/2003/007947.html"
-              >Eksporto nur al Okcidento</url></vrk>
+          <vrk><url ref="&Monato;/2003/007947.html">Eksporto nur al Okcidento</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -47,22 +44,24 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Zlatko Hin&scaron;t</aut>
-          <vrk><url ref="&Monato;/2007/009212.php"
-              >Kiel oni (trans)vivas en Kroatio</url></vrk>
+          <vrk><url ref="&Monato;/2007/009212.php">Kiel oni (trans)vivas en Kroatio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        se bilanci la tuton, la fina <tld/>o estas tre favora <klr>[&#8230;]</klr>, la
+        se bilanci la tuton, la fina <tld/>o estas tre favora <klr>[&#x2026;]</klr>, la
         recenzita verko sendube alportas signifan kontribuon
         <fnt>
           <bib>Monato</bib>
           <aut>Reinaldo Marcelo Ferreira</aut>
-          <vrk><url ref="&Monato;/2007/009078.php"
-              >Interlingvistiko por &ccirc;iuj</url></vrk>
+          <vrk><url ref="&Monato;/2007/009078.php">Interlingvistiko por &ccirc;iuj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="bilanc.0o">bilanco</ref>,
+      <ref cel="kont.0o.KOME">konto</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_l;&c_mol;&c_d;&c_a;</trd>
   <trdgrp lng="bg">
@@ -81,7 +80,12 @@
   <trd lng="he">&mem;&alef;&zayin;&fnun;</trd>
   <trd lng="hu">egyenleg</trd>
   <trd lng="it">saldo<klr> (econ.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CB8;&#x501F;&#x5DEE;&#x5F15;&#x9AD8;  [<ind>&#x305F;&#x3044;&#x3057;&#x3083;&#x304F;&#x3055;&#x3057;&#x3072;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x5DEE;&#x5F15;&#x6B8B;&#x9AD8;  [<ind>&#x3055;&#x3057;&#x3072;&#x3056;&#x3093;&#x3060;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">saldo</trd>
+  <trd lng="pl">saldo</trd>
   <trdgrp lng="pt">
    <trd>saldo</trd>
   </trdgrp>
@@ -89,6 +93,11 @@
   <trdgrp lng="sk">
     <trd>saldo</trd>,
     <trd>zostatok &uacute;&ccaron;tu</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;. &c_s;&c_a;&#x43B;&#x44C;&c_d;&#x43E;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_s;&c_u;&#x43C;&#x43E;&#x43A;</trd>,
+    <trd>&c_z;&c_a;&#x43B;&c_i;&c_sh;&#x43E;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -98,7 +107,25 @@
   <uzo tip="fak">EKON</uzo>
   <snc>
     <dif>
-      Starigi la <tld/>on.
+      Starigi la <tld/>on; rezulti je <tld/>o:
+      <ekz>
+        la libroservo de UEA <tld/>is siajn vendojn en 1998 per la impona sumo de
+        297&#x202F;165 gld
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 4 (54)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        mi povos trovi tiujn kanajlojn <klr>[&#x2026;]</klr> por <tld/>i mian kalkulon kun ili
+        <klr>(vd <ref cel="regul.0igi.konformigi">reguligi</ref> 
+        <ref cel="kont.0o.KOME">konton</ref>)</klr>
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XXIII</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol; <ind>&c_s;&c_a;&c_l;&c_mol;&c_d;&c_a;</ind></trd>
@@ -114,7 +141,15 @@
   <trd lng="fr">solder</trd>
   <trd lng="he">&lamed;<ind>&alef;&zayin;&fnun;</ind></trd>
   <trd lng="hu">egyenleget von</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CB8;&#x501F;&#x52D8;&#x5B9A;&#x3092;&#x3059;&#x308B;  [<ind>&#x305F;&#x3044;&#x3057;&#x3083;&#x304F;&#x304B;&#x3093;&#x3058;&#x3087;&#x3046;&#x3092;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6E05;&#x7B97;&#x3059;&#x308B;  [<ind>&#x305B;&#x3044;&#x3055;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">het <ind>saldo</ind> opmaken</trd>
+  <trdgrp lng="pl">
+    <trd>bilansowa&cacute;</trd>,
+    <trd>rozlicza&cacute;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_d;&c_s;&c_ch;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol; <ind>&c_s;&c_a;&c_l;&c_mol;&c_d;&c_o;</ind></trd>,
     <trd>&c_p;&c_o;&c_d;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_i;&c_t;&c_o;&c_g;</trd>
@@ -123,10 +158,23 @@
     <trd>saldova&tcaron;</trd>,
     <trd>z&uacute;&ccaron;tova&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_ib;&c_d;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i; &#x43F;&c_ib;&c_d;&c_s;&c_u;&#x43C;&#x43E;&#x43A;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2023/07/01 22:30:41
+Vito Redsky: +trd pl 
+
+versio 1.25 2023/04/24 05:28:20
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.24 2022/05/05 05:09:55
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2022/03/22 16:50:41
+Wolfram Diestel: ~i: +ekz, ref
+
 Revision 1.20  2019/06/30 07:43:29  revo
 adaptis URL de Monato
 
@@ -137,20 +185,5 @@ Revision 1.18  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.17  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.16  2013/08/13 08:10:10  revo
-Joop Eggen: +trd bg
-
-Revision 1.15  2010/07/13 16:30:21  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.14  2010/02/21 17:30:49  revo
-Russ Williams: +trd en
-
-Revision 1.13  2009/09/22 17:18:10  revo
-Antonio Codazzi: +trd it
-
-Revision 1.12  2006/02/07 17:32:02  revo
 -->
 </vortaro>

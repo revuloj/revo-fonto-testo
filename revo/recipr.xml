@@ -1,26 +1,99 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: recipr.xml,v 1.29 2023/09/03 07:53:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>reciprok</rad>/a
+  <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="recipr.0a">
   <kap><ofc>*</ofc><tld/>a</kap>
   <snc>
     <dif>
-      Adj. kvalifikanta la agadon, senton a&ubreve; efikon de du
-      personoj a&ubreve;
-      objektoj, el kiuj unu agas, sentas a&ubreve; efikas sur la duan
-      tute
-      same,
-      kiel la dua agas, sentas a&ubreve; efikas sur la unuan:
+      <klr>(pri ago, efiko, sento)</klr> Tia, ke &gcirc;i okazas same en amba&ubreve; direktoj:
       <ekz>
-        <tld/>a amo, konfido, abomeno, donaco.
+        <tld/>a amo
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 13:8</lok>
+        </fnt>;
       </ekz>
-     </dif>
+      <ekz>
+        <tld/>a edifo
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 14:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a simpatio
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>&leftquot;Bela&rightquot;</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a malkonfido kaj avideco
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter virtuloj ekzistas <tld/>a favoro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 14:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen&ccirc;esa <tld/>a batalado de la diversaj gentoj kaj religioj
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur principoj de <tld/>a frateco, egaleco kaj justeco
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estu inter ni <tld/>a kura&gcirc;igo, per la komuna fido, egale via kaj mia
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 1:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du sinjoroj en unu bieno, du mastrinoj &ccirc;e unu kameno &dash; neniam vivas sen <tld/>a
+        malbeno
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis iam granda gastokunveno, kiel ofte okazas ka&ubreve;ze de <tld/>a intervivado
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li fari&gcirc;is vigla kaj komencis <tld/>an incitetadon kun <nom>Bellissima</nom> &dash; tiel estis
+        nomata la hundeto
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Kupra porko</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flank.ambaux0a">amba&ubreve;flanka</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_u;&c_z;&c_a;&c_je;&c_m;&c_n;&c_y;</trd>
   <trd lng="ca">rec&iacute;proc</trd>
@@ -37,55 +110,130 @@
   <trd lng="es">rec&iacute;proco</trd>
   <trd lng="fr">r&eacute;ciproque<klr> (adj.)</klr></trd>
   <trd lng="hu">k&ouml;lcs&ouml;n&ouml;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76F8;&#x4E92;&#x306E;  [<ind>&#x305D;&#x3046;&#x3054;&#x306E;</ind>]</trd>,
+    <trd>&#x304A;&#x4E92;&#x3044;&#x306E;  [<ind>&#x304A;&#x305F;&#x304C;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x4E92;&#x6075;&#x7684;&#x306A;  [<ind>&#x3054;&#x3051;&#x3044;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>wederkerig</trd>,
     <trd>onderling</trd>,
     <trd>wederzijds</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>obop&oacute;lny</trd>,
+    <trd>wzajemny</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_z;&c_a;&c_i;&c_m;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>recipro&ccaron;n&yacute;</trd>,
     <trd>vz&aacute;jomn&yacute;</trd>
   </trdgrp>
-  <trd lng="zh">&#30456;&#20114;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_z;&c_a;&c_jeu;&c_m;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_o;&c_b;&c_o;&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x76F8;&#x4E92;</trd>
 </drv>
 
 <drv mrk="recipr.0e">
   <kap><tld/>e</kap>
   <snc>
     <dif>
-    En <tld/>a maniero:
-    </dif>
-    <ekz>
-        sin <tld/>e pardoni<klr> (=pardoni unu la alian)</klr>;
+      En <tld/>a maniero:
+      <ekz>
+        ili <klr>[&#x2026;]</klr> &jcirc;uris al si <tld/>e
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 26:31</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        &ccirc;iuj sin <tld/>e komprenas<fnt>Z</fnt><klr> (=&ccirc;iuj
-        komprenas unu
-        la alian)</klr>;
+        ili demandis sin <tld/>e pri la farto
+        <klr>(unu la alian)</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 18:7</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        premi al si <tld/>e la manojn<klr> (=premi inter si la
-        manojn)</klr><fnt>Z</fnt>;
+        ili kisis sin <tld/>e, kaj ploris amba&ubreve; kune
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 20:41</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <ind><tld/>e</ind> batalantaj nacioj<klr> (=inter si batalantaj
-        nacioj)</klr><fnt>Z</fnt>.
+        &ccirc;iuj interbatalas <ind><tld/>e</ind>
+        <fnt>
+          <bib>NT</bib>
+          <lok>Galatoj 5:17</lok>
+        </fnt>;
         <trd lng="be">&c_u;&c_z;&c_a;&c_je;&c_m;&c_n;&c_a;</trd>
         <trd lng="ca">rec&iacute;procament</trd>
         <trd lng="hu">k&ouml;lcs&ouml;n&ouml;sen</trd>
         <trd lng="ru">&c_v;&c_z;&c_a;&c_i;&c_m;&c_n;&c_o;</trd>
       </ekz>
+      <ekz>
+        la ma&scirc;oj devas esti <tld/>e aran&gcirc;itaj unu kontra&ubreve; alia
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 26:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montradi al si <tld/>e la dentojn
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sango komuna <tld/>e sin altiras
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <tld/>e nin konas, klarigon ne bezonas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiel ni amba&ubreve; renkontis nin <tld/>e la unuan fojon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="si.inter0">inter si</ref>,
+      <ref cel="si.0">si</ref>,
+      <ref cel="unu.0_la_alian">unu la alian</ref>
+    </refgrp>
   </snc>
-  <ref tip="vid" cel="si.0">si</ref>
+  <trd lng="cs">navz&aacute;jem</trd>
+  <trdgrp lng="de">
+    <trd>gegenseitig</trd>,
+    <trd>untereinander</trd>
+  </trdgrp>
   <trd lng="fr">r&eacute;ciproquement</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76F8;&#x4E92;&#x306B;  [<ind>&#x305D;&#x3046;&#x3054;&#x306B;</ind>]</trd>,
+    <trd>&#x304A;&#x4E92;&#x3044;&#x306B;  [<ind>&#x304A;&#x305F;&#x304C;&#x3044;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>onderling</trd>,
     <trd>over en weer</trd>,
     <trd>onder elkaar</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nawzajem</trd>,
+    <trd>wzajemnie</trd>
+  </trdgrp>
   <trd lng="sk">navz&aacute;jom</trd>
-  <trd lng="cs">navz&aacute;jem</trd>
+  <trd lng="uk">&c_v;&c_z;&c_a;&c_jeu;&c_m;&c_n;&c_o;</trd>
 </drv>
 
 <drv mrk="recipr.0i">
@@ -93,16 +241,38 @@
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
-      <tld lit="R"/>e plenumi:
+      <tld lit="R"/>e plenumi, <ref tip="sin" cel="sxangx.inter0i">inter&scirc;an&gcirc;i</ref>:
       <ekz>
-        mi <tld/>as viajn bondezirojn;
+        ni &gcirc;oje kaj kontente <tld/>as lian deziron
+        <fnt>
+          <aut>Elfriede Kruse</aut>
+            <vrk><url ref="&Monato;/2000/007122.php">Rideto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 34</lok>
+          </fnt>;
       </ekz>
       <ekz>
-        <tld/>i saluton.
+        <tld/>is akuzoj, tiel ke ordinaraj civitanoj svenas anta&ubreve; la ka&scirc;itaj luda&ccirc;oj de
+        la politikistoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Fidilalao Henriel</aut>
+          <vrk><url ref="&Monato;/2012/010816.php">Restas nur espero</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvaza&ubreve; &scirc;i sentus tiun rigardon, <klr>[&scirc;i]</klr> malfermis la okulojn kaj &gcirc;in
+        <tld/>is
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Maljunulo de la Migranta Monto</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="inter">inter</ref>.
+    <refgrp tip="vid">
+      <ref cel="inter.0.pref_rilatece.reciproke">inter-<sncref/></ref>
     </refgrp>
   </snc>
   <trdgrp lng="be">
@@ -123,34 +293,112 @@
   </trdgrp>
   <trd lng="fr">r&eacute;ciproquer</trd>
   <trd lng="hu">viszonoz</trd>
+  <trd lng="ja">&#x4EA4;&#x3057;&#x5408;&#x3046;  [<ind>&#x304B;&#x308F;&#x3057;&#x3042;&#x3046;</ind>]</trd>
   <trdgrp lng="nl">
     <trd><klr tip="amb">(iets) </klr>terugdoen</trd>,
     <trd><klr tip="amb">(iets) </klr>beantwoorden</trd>,
     <trd>vergelden</trd>
   </trdgrp>
+  <trd lng="pl">odwzajemnia&cacute;</trd>
   <trd lng="sk">op&auml;tova&tcaron;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_t;&c_i; &c_v;&c_z;&c_a;&c_jeu;&c_m;&c_n;&c_ib;&c_s;&c_t;&c_ju;</trd>
 </drv>
+
+<drv mrk="recipr.0o">
+  <kap>
+    <tld/>o,
+    <var><kap><tld/>eco</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Eco de io efikanta amba&ubreve;direkte, respondata sammaniere:
+      <ekz>
+        &scirc;ia amo trovis <tld/>econ
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Sub la saliko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Neeble nun akcepti &scirc;in &parsl; &Ccirc;e li kun ama <tld/>o
+        <fnt>
+          <bib>LSB</bib>
+          <lok>La&ubreve; Vidpunkto De Heliko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la elemento de <tld/>eco <klr>[&#x2026;]</klr> estas fundamenta por iu ajn federacio
+        <fnt>
+          <bib>FSp</bib>
+          <lok>Dua Parto: Svisa SpertO</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la delikata <tld/>eco de l&#x2019; mensogado estas preska&ubreve; la &ccirc;efa konvencio de la rusa
+        societo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi min donis al ci <klr>[&#x2026;]</klr> sed mi postulas kompense <tld/>econ
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Unua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="replik.0o">repliko</ref>,
+      <ref cel="respon.0o">respondo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Gegenseitigkeit</trd>,
+    <trd>Erwiderung</trd>,
+    <trd>Reziprozit&auml;t</trd>
+  </trdgrp>
+  <trd lng="en">reciprocity</trd>
+  <trd lng="fr">r&eacute;ciprocit&eacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76F8;&#x4E92;&#x95A2;&#x4FC2;  [<ind>&#x305D;&#x3046;&#x3054;&#x304B;&#x3093;&#x3051;&#x3044;</ind>]</trd>,
+    <trd>&#x76F8;&#x4E92;&#x6027;  [<ind>&#x305D;&#x3046;&#x3054;&#x305B;&#x3044;</ind>]</trd>,
+    <trd>&#x4E92;&#x6075;  [<ind>&#x3054;&#x3051;&#x3044;</ind>]</trd>
+  </trdgrp>
+</drv>
+
+
+
+
+
+
+
+
 </art>
 <!--
 $Log$
+versio 1.28 2023/06/03 09:21:46
+Wolfram Diestel: +ref
+
+versio 1.27 2023/06/03 08:25:49
+Wolfram Diestel: simpligo dif, +ref, ~o/~eco
+
+versio 1.26 2023/05/18 23:25:21
+Vito Redsky: +trd pl 
+
+versio 1.25 2023/05/01 11:23:24
+Paul Peeraerts: Steloj -> monato
+
+versio 1.24 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2020/08/29 10:32:38
+Wolfram Diestel: +ekz-oj
+
 Revision 1.20  2016/12/10 21:10:10  revo
 Darcy Shen: + trd zh
 
 Revision 1.19  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.18  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.17  2014/05/25 12:10:38  revo
-Damien Brucker: +ref
-
-Revision 1.16  2014/05/24 07:10:12  revo
-Damien Brucker: +klr
-
-Revision 1.15  2014/05/21 09:10:39  revo
-Damien Brucker: +~e
-
-Revision 1.14  2014/05/04 08:10:25  revo
 -->
 </vortaro>

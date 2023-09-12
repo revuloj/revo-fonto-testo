@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kupol.xml,v 1.15 2006/01/12 21:52:49 revo Exp $">
+<art mrk="$Id: kupol.xml,v 1.22 2023/09/01 15:46:46 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kupol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,8 +11,7 @@
   <snc mrk="kupol.0o.ARKI">
     <uzo tip="fak">ARKI</uzo>
     <dif>
-      Duonsfera tegmenta parto de <ref tip="malprt"
-      cel="konstr.0ajxo">konstrua&jcirc;o</ref>:
+      Duonsfera tegmenta parto de <ref tip="malprt" cel="konstr.0ajxo">konstrua&jcirc;o</ref>:
       <ekz>
         la baziliko situis proksime al Kremlo, sur la bordo de
         Moskvo-rivero, kaj &gcirc;ia ora <tld/>o estis videbla de malproksime
@@ -42,6 +40,12 @@
     <trd>d&ocirc;me</trd>
   </trdgrp>
   <trd lng="hu">kupola</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5186;&#x5929;&#x4E95;  [<ind>&#x307E;&#x308B;&#x3066;&#x3093;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x4E38;&#x5C4B;&#x6839;  [<ind>&#x307E;&#x308B;&#x3084;&#x306D;</ind>]</trd>,
+    <trd>&#x30C9;&#x30FC;&#x30E0;</trd>,
+    <trd>&#x7832;&#x5854;  [<ind>&#x307B;&#x3046;&#x3068;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">koepel</trd>
   <trd lng="pl">kopu&lstroke;a</trd>
   <trd lng="pt">c&uacute;pula</trd>
@@ -49,6 +53,10 @@
   <trd lng="ru">&c_k;&c_u;&c_p;&c_o;&c_l;</trd>
   <trd lng="sk">kupola</trd>
   <trd lng="sv">kupol</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x443;&#x43F;&#x43E;&#x43B;</trd>,
+    <trd>&#x431;&#x430;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

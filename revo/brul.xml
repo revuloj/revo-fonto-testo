@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: brul.xml,v 1.35 2010/09/28 16:30:38 revo Exp $">
+<art mrk="$Id: brul.xml,v 1.135 2023/08/31 08:48:53 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>brul</rad>/i <fnt><bib>PV</bib></fnt>
@@ -12,12 +11,33 @@
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="brul.0i.konsumigxi">
     <dif>
-      Konsumi&gcirc;i per fajro:
+      <ref cel="oksid.0o">Oksid</ref>i&gcirc;i produktante <ref tip="prt" cel="varm.0o.FIZ">varmo</ref>n
+      kaj <ref tip="prt" cel="lum.0o.FIZ">lumo</ref>n:
       <ekz>
-        la ligno, la kandelo <tld/>as;
+        jen la arbeta&jcirc;o <tld/>as en la fajro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 3:2</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        fajro <tld/>etas sub la cindro;
+        fendita ligno facile ek<tld/>as
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen fajro ne <tld/>as e&ccirc; pajlo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; la trono <tld/>is sep fajraj tor&ccirc;oj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Apokalipso 4:5</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -42,15 +62,54 @@
       <trd>incendiar-se</trd>
     </trdgrp>
   </snc>
+  <snc mrk="brul.0i.konsumi">
+    <dif>
+      Elmontri varmon kaj lumon de io, kio <tld/>as:
+      <ekz>
+        abunda fajro brulis sur la kameno
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        blue <tld/>anta flamo <klr>[&#x2026;]</klr> lumigis la tutan salonon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lampo <klr>[&#x2026;]</klr> <tld/>as kaj lumas
+        <fnt>
+          <bib>NT</bib>
+          <lok>Johano 5:35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eterna fajro <tld/>u sur la altaro, ne estingi&gcirc;u
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 6:13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
   <snc mrk="brul.0i.varmi">
     <dif>
-      Esti varmega kiel fajro:
+      Esti varmega, doloriga kiel io <tld/>anta:
+      <ekz>
+        <tld/>e varmega fero
+        <fnt><bib>NT</bib>, <lok>&Ti1; 4:2</lok></fnt>;
+      </ekz>
       <ekz>
         via mano <tld/>as de febro;
       </ekz>
       <ekz>
-        <tld/>e varmega fero
-        <fnt><bib>NT</bib>, <lok>&Ti1; 4:2</lok></fnt>.
+        <uzo tip="stl">FIG</uzo>
+        se kalumnio ne <tld/>as, &gcirc;i almena&ubreve; makulas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="nl">gloeien</trd>
@@ -78,6 +137,20 @@
         <fnt>
           <bib>Revizoro</bib>
           <lok>Akto kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia koro <klr>[&#x2026;]</klr> <tld/>is en ni, dum li parolis
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 24:32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la virino <tld/>is en sia volupto
+        <fnt>
+          <bib>NT</bib>
+          <lok>Romanoj 1:27</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -136,9 +209,11 @@
   <trd lng="en">burn</trd>
   <trd lng="es">quemar</trd>
   <trd lng="fr">bruler <klr tip="ind">(intr.)</klr></trd>
+  <trd lng="he">&lamed;&shin;&resh;&vav;&fpe;</trd>
   <trd lng="hu">&eacute;g</trd>
-  <trd lng="id">[<ind>bakar</ind>] terbakar</trd>
-  <trd lng="ro">arde</trd> 
+  <trd lng="id">ter<ind>bakar</ind></trd>
+  <trd lng="ja">&#x71C3;&#x3048;&#x308B;  [<ind>&#x3082;&#x3048;&#x308B;</ind>]</trd>
+  <trd lng="ro">arde</trd>
   <trdgrp lng="ru">
     <trd>&c_g;&c_o;&c_r;&c_je;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_g;&c_o;&c_r;&c_a;&c_t;&c_mol;</trd>,
@@ -146,13 +221,18 @@
     <trd>&c_p;&c_o;&c_l;&c_y;&c_h;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">horie&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_o;&c_r;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_g;&c_o;&c_r;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="brul.0o">
   <kap><tld/>o</kap>
   <snc mrk="brul.0o.KOMUNE">
     <dif>
-      Stato de <tld/>anta&jcirc;o:
+      La procezo kaj rezultanta varmo kaj lumo dum io <tld/>as:
       <ekz>
         kia granda <tld/>o
         <fnt><bib>F</bib>, <lok>&FE; 31</lok></fnt>!
@@ -164,7 +244,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        li <klr>[...]</klr> rimarkas <tld/>on komenci&gcirc;antan en la
+        li <klr>[&#x2026;]</klr> rimarkas <tld/>on komenci&gcirc;antan en la
         kvartalo
         <fnt>
           <bib>Far1</bib>
@@ -172,7 +252,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        &gcirc;i anoncadis <klr>[...]</klr> alarmon pri <tld/>o
+        &gcirc;i anoncadis <klr>[&#x2026;]</klr> alarmon pri <tld/>o
         <fnt>
           <bib>Fab4</bib>
           <lok>Malnova pre&gcirc;eja sonorilo</lok>
@@ -193,14 +273,14 @@
         </fnt>;
       </ekz>
       <ekz>
-        la fra&ubreve;linoj <klr>[...]</klr> rapide estingis la <tld/>on
+        la fra&ubreve;linoj <klr>[&#x2026;]</klr> rapide estingis la <tld/>on
         <fnt>
           <bib>Fab2</bib>
           <lok>Abio</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la gardisto fajfis, &#8208; estis <tld/>o, la tuta strato estis hele
+        la gardisto fajfis, &dash; estis <tld/>o, la tuta strato estis hele
         lumita
         <fnt>
           <bib>Fab3</bib>
@@ -221,11 +301,16 @@
     <trd>combusti&oacute;n</trd>
   </trdgrp>
   <trd lng="fr">combustion</trd>
+  <trd lng="he">&shin;&resh;&yod;&pe;&he;</trd>
   <trdgrp lng="hu">
     <trd>&eacute;g&eacute;s</trd>,
     <trd>t&udblac;z</trd>
   </trdgrp>
-  <trd lng="id">[<ind>bakar</ind>] pembakaran</trd>
+  <trd lng="id">pem<ind>bakar</ind>an</trd>
+  <trdgrp lng="ja">
+    <trd>&#x71C3;&#x713C;  [<ind>&#x306D;&#x3093;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x706B;&#x4E8B;  [<ind>&#x304B;&#x3058;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">brand</trd>
   <trdgrp lng="pl">
     <trd>spalanie</trd>
@@ -235,6 +320,7 @@
   </trdgrp>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">horenie</trd>
+  <trd lng="uk">&c_g;&c_o;&c_r;&c_ib;&c_n;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="brul.0a">
@@ -276,7 +362,7 @@
       <trd>candente</trd>,
       <trd>incandescente</trd>
     </trdgrp>
-    <trd lng="ro">aprins</trd> 
+    <trd lng="ro">aprins</trd>
     <trd lng="ru">&c_g;&c_o;&c_r;&c_ja;&c_shch;&c_i;&c_j;</trd>
     <trd lng="sk">horiaci</trd>
   </snc>
@@ -309,6 +395,11 @@
     <trd>o&zcaron;ehav&yacute;</trd>,
     <trd>pal&ccaron;iv&yacute;</trd>
   </trdgrp>
+  <trd lng="he">&bet;&vav;&ayin;&resh;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x71C3;&#x3048;&#x308B;&#x3088;&#x3046;&#x306A;  [<ind>&#x3082;&#x3048;&#x308B;&#x3088;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x71C3;&#x713C;&#x306E;  [<ind>&#x306D;&#x3093;&#x3057;&#x3087;&#x3046;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>vznetliv&yacute;</trd>,
     <trd>z&aacute;paln&yacute;</trd>
@@ -322,7 +413,7 @@
       Granda <tld/>o, ka&ubreve;zanta difektojn kaj perdojn:
       <ekz>
         ve, la granda urbo, en unu horo pereis <klr>[...]</klr> kaj &ccirc;iuj
-        <klr>[...]</klr> 
+        <klr>[...]</klr>
         staris malproksime kaj kriis, vidante la fumon de &scirc;ia <tld/>ego
         <fnt>
           <bib>NT</bib>
@@ -343,14 +434,19 @@
   <trd lng="en">inferno</trd>
   <trd lng="es">incendio</trd>
   <trd lng="fr">incendie</trd>
+  <trd lng="he">&shin;&resh;&yod;&pe;&he;</trd>
   <trdgrp lng="hu">
     <trd>t&udblac;z</trd>,
     <trd>t&udblac;zv&eacute;sz</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x706B;&#x4E8B;  [<ind>&#x304A;&#x304A;&#x304B;&#x3058;</ind>]</trd>,
+    <trd>&#x706B;&#x707D;  [<ind>&#x304B;&#x3055;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">brand</trd>
   <trd lng="pl">po&zdot;ar</trd>
   <trd lng="pt">inc&ecirc;ndio</trd>
-  <trd lng="ro">incendiu</trd> 
+  <trd lng="ro">incendiu</trd>
   <trd lng="ru">&c_p;&c_o;&c_zh;&c_a;&c_r;</trd>
   <trd lng="sk">po&zcaron;iar</trd>
   <trd lng="uk">&c_p;&c_o;&c_zh;&c_je;&c_zh;&c_a;</trd>
@@ -366,21 +462,19 @@
       </ekz>
       <ekz>
         <klr>[li]</klr> ekzamenis la esti&gcirc;intan gason kaj realigis la
-        eksperimenton 
+        eksperimenton
         nomatan nuntempe teston de oksihidrogeno, kiu bruligis la gason,
-        
+
         li tial nomis &gcirc;in <tld/>ema aero
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=1601'>Hidrogeno</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1601">Hidrogeno</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <ref tip="vid" cel="brul.0igxema"><tld/>i&gcirc;ema</ref>
-  <trd
-  lng="be">&c_l;&c_jo;&c_g;&c_k;&c_a;&c_w;&c_z;&c_g;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="be">&c_l;&c_jo;&c_g;&c_k;&c_a;&c_w;&c_z;&c_g;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="de">entz&uuml;ndlich</trd>
   <trdgrp lng="en">
     <trd>combustible</trd>,
@@ -389,6 +483,7 @@
   <trd lng="es">inflamable</trd>
   <trd lng="fr">inflammable</trd>
   <trd lng="hu">gy&uacute;l&eacute;kony</trd>
+  <trd lng="ja">&#x71C3;&#x3048;&#x3084;&#x3059;&#x3044;  [<ind>&#x3082;&#x3048;&#x3084;&#x3059;&#x3044;</ind>]</trd>
   <trd lng="nl">ontvlambaar</trd>
   <trd lng="pl">&lstroke;atwopalny</trd>
   <trd lng="pt">inflam&aacute;vel</trd>
@@ -398,6 +493,64 @@
     <trd>vznetliv&yacute;</trd>,
     <trd>z&aacute;paln&yacute;</trd>
   </trdgrp>
+</drv>
+
+<drv mrk="brul.sub0i">
+  <kap>
+    <tld/>eti, <var><kap>sub<tld/>i</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Apena&ubreve; a&ubreve; interne <tld/>i:
+      <ekz>
+        sur la planko ku&scirc;is stumpeto de cigaredo, kaj dum momento mi supozis, ke &gcirc;i
+        ankora&ubreve; sub<tld/>as kaj eligas fumon, sed eble tio estis nur imago mia
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2006/008788.php">Tenebro</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li prenis el la korbo malgrandan vazon, en kiu malrapide <tld/>etis me&ccirc;o, kaj
+        ree eklumigis la tor&ccirc;on
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        en la koroj de unuj kaj de l' aliaj <tld/>etis la malnova malamo
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        en <klr>[li]</klr> <tld/>etis ankora&ubreve; ia fajrero de amo
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XLIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kandelo, kiu jam sen tio <tld/>etas nur per la lastaj gutoj de sia oleo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ard.0i.brulegi">ardi<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">schwelen</trd>
+  <trd lng="en">smolder</trd>
+  <trd lng="ja">&#x3061;&#x3087;&#x308D;&#x3061;&#x3087;&#x308D;&#x71C3;&#x3048;&#x308B;  [<ind>&#x3061;&#x3087;&#x308D;&#x3061;&#x3087;&#x308D;&#x3082;&#x3048;&#x308B;</ind>]</trd>
 </drv>
 
 <drv mrk="brul.0igi">
@@ -441,6 +594,10 @@
     </dif>
     <trd lng="hu">meg&eacute;get</trd>
   </snc>
+  <trd lng="af">brand</trd>
+  <trd lng="am">&#x121B;&#x1243;&#x1320;&#x120D;</trd>
+  <trd lng="ar">&a_H;&a_r;&a_q;</trd>
+  <trd lng="az">yand&inodot;rmaq</trd>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_l;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_p;&c_a;&c_l;&c_ib;&c_c;&c_mol;</trd>,
@@ -449,6 +606,9 @@
     <trd>&c_a;&c_p;&c_ja;&c_k;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_p;&c_ja;&c_ch;&c_y;</trd>
   </trdgrp>
+  <trd lng="bn">&#x9AC;&#x9BE;&#x9B0;&#x9CD;&#x9A8;</trd>
+  <trd lng="bo">&t_ma;&t_drengbu;&t_tsheg;&t_ga;&t_ta;&t_naro;&t_nga;&t_tsheg;</trd>
+  <trd lng="co">brusgia</trd>
   <trdgrp lng="cs">
     <trd>podp&aacute;lit</trd>,
     <trd>spalovat</trd>,
@@ -458,6 +618,8 @@
     <trd>zap&aacute;lit</trd>,
     <trd>za&zcaron;ehovat</trd>
   </trdgrp>
+  <trd lng="cy">llosgi</trd>
+  <trd lng="da">br&aelig;nde</trd>
   <trd lng="de">verbrennen</trd>
   <trdgrp lng="en">
     <trd>burn</trd>
@@ -466,14 +628,54 @@
     <trd>quemar <klr tip="ind">(tr.)</klr></trd>,
     <trd>incendiar</trd>
   </trdgrp>
+  <trd lng="et">p&otilde;letada</trd>
+  <trd lng="eu">erre</trd>
   <trd lng="fr">bruler <klr tip="ind">(tr.)</klr></trd>
-  <trd lng="id">[<ind>bakar</ind>] membakar</trd>
+  <trd lng="ga">sruth&aacute;n</trd>
+  <trd lng="gd">loisgidh</trd>
+  <trd lng="gl">queimar</trd>
+  <trd lng="gu">&#xAAC;&#xAB0;&#xACD;&#xAA8;</trd>
+  <trd lng="ha">&#x199;ona</trd>
+  <trd lng="he">&lamed;&shin;&resh;&vav;&fpe;</trd>
+  <trd lng="hi">&#x91C;&#x932;&#x93E;</trd>
+  <trd lng="hmn">hlawv</trd>
+  <trd lng="hr">spali</trd>
+  <trd lng="ht">boule</trd>
+  <trd lng="hy">&#x561;&#x575;&#x580;&#x565;&#x56C;</trd>
+  <trd lng="id">mem<ind>bakar</ind></trd>
+  <trd lng="ig">&#x1ECD;k&#x1EE5;</trd>
+  <trd lng="is">brenna</trd>
+  <trd lng="ja">&#x71C3;&#x3084;&#x3059; [<ind>&#x3082;&#x3084;&#x3059;</ind>]</trd>
+  <trd lng="jv">diobong</trd>
+  <trd lng="ka">&#x10D3;&#x10D0;&#x10DB;&#x10EC;&#x10D5;&#x10E0;&#x10DD;&#x10D1;&#x10D0;</trd>
+  <trd lng="kk">&c_k;&#x4AF;&c_j;&c_ib;&c_k;</trd>
+  <trd lng="km">&#x178A;&#x17BB;&#x178F;</trd>
+  <trd lng="kn">&#xCAC;&#xCB0;&#xCCD;&#xCA8;&#xCCD;</trd>
+  <trd lng="ko">&#xAD6C;&#xC6B8;</trd>
+  <trd lng="ku">bir&icirc;na &scedil;ewat&ecirc;</trd>
+  <trd lng="ky">&#x4E9;&c_r;&c_t;&c_t;&#x4E9;&#x4E9;</trd>
+  <trd lng="lat">comburet</trd>
+  <trd lng="lo">&#xEC4;&#xEAB;&#xEA1;&#xEC9;</trd>
+  <trd lng="lt">deginti</trd>
+  <trd lng="lv">dedzin&#x15D1;t</trd>
+  <trd lng="mg">hodorana</trd>
+  <trd lng="mi">tahu</trd>
+  <trd lng="mk">&c_i;&c_z;&c_g;&c_o;&c_r;&c_i;</trd>
+  <trd lng="ml">&#xD15;&#xD24;&#xD4D;&#xD24;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_sh;&c_a;&c_r;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x91C;&#x93E;&#x933;&#x923;&#x947;</trd>
+  <trd lng="ms">membakar</trd>
+  <trd lng="my">&#x1019;&#x102E;&#x1038;&#x101C;&#x1031;&#x102C;&#x1004;&#x103A;</trd>
+  <trd lng="ne">&#x92C;&#x93E;&#x932;&#x94D;&#x928;</trd>
   <trd lng="nl">verbranden</trd>
+  <trd lng="ny">kutentha</trd>
+  <trd lng="pa">&#xA28;&#xA42;&#xA70; &#xA38;&#xA3E;&#xA5C;</trd>
   <trdgrp lng="pl">
     <trd>pali&cacute;</trd>,
     <trd>spala&cacute;</trd>,
     <trd>parzy&cacute;</trd>
   </trdgrp>
+  <trd lng="ps">&a_s;&a_w;&#x681;&a_w;&a_y;</trd>
   <trdgrp lng="pt">
     <trd>queimar</trd>,
     <trd>atear <klr>(fogo)</klr></trd>,
@@ -482,17 +684,42 @@
     <trd>p&ocirc;r fogo</trd>,
     <trd>tacar <klr>(fogo)</klr></trd>
   </trdgrp>
-  <trd lng="ro">arde</trd> 
+  <trd lng="ro">arde</trd>
   <trdgrp lng="ru">
     <trd>&c_zh;&c_je;&c_ch;&c_mol;</trd>,
     <trd>&c_o;&c_b;&c_zh;&c_i;&c_g;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="rw">gutwika</trd>
+  <trd lng="sd">&a_s;&a_A;&#x699;&a_y;&a_w;</trd>
+  <trd lng="si">&#xDB4;&#xDD2;&#xDC5;&#xDD2;&#xDC3;&#xDCA;&#xDC3;&#xDD4;&#xDB8;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>p&aacute;li&tcaron;</trd>,
     <trd>pop&aacute;li&tcaron;</trd>,
     <trd>sp&aacute;li&tcaron;</trd>,
     <trd>up&aacute;li&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">gorijo</trd>
+  <trd lng="sm">m&#x163B;</trd>
+  <trd lng="sn">pisa</trd>
+  <trd lng="so">gubi</trd>
+  <trd lng="sq">djeg</trd>
+  <trd lng="st">chesa</trd>
+  <trd lng="su">pameuleuman</trd>
+  <trd lng="sw">kuchoma</trd>
+  <trd lng="ta">&#xB8E;&#xBB0;&#xBBF;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC2C;&#xC30;&#xC4D;&#xC28;&#xC4D;</trd>
+  <trd lng="tg">&c_s;&#x4EF;&c_z;&c_o;&c_n;&c_d;&c_a;&c_n;</trd>
+  <trd lng="th">&#xE40;&#xE1C;&#xE32;</trd>
+  <trd lng="tl">sumunog</trd>
+  <trd lng="tt">&c_ja;&c_n;&c_d;&c_y;&c_r;&c_u;</trd>
+  <trd lng="uk">&c_s;&c_p;&c_a;&c_l;&c_i;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_j;&a_l;&a_A;</trd>
+  <trd lng="uz">kuyish</trd>
+  <trd lng="vi">ghi</trd>
+  <trd lng="xh">aqhumisele</trd>
+  <trd lng="yi">&bet;&resh;&ayin;&nun;&ayin;&fnun;</trd>
+  <trd lng="yo">in&aacute;</trd>
+  <trd lng="zu">bashise</trd>
 </drv>
 
 <drv mrk="brul.0igajxo">
@@ -503,32 +730,30 @@
       varmon a&ubreve; peli motoron per <tld/>igo:
       <ekz>
         <ref tip="sub" cel="torf.0o">torfo</ref> estas spongeca
-        substanco, 
+        substanco,
         samnatura kiel karbo, esti&gcirc;anta en mar&ccirc;oj pro malkomponi&gcirc;o de
-        vegeta&jcirc;oj, 
+        vegeta&jcirc;oj,
         loke uzata kiel <tld/>iga&jcirc;o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=34341'>Torfo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=34341">Torfo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         generatoro nutrata per <tld/>iga&jcirc;o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=70509'>Generatoro</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=70509">Generatoro</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         depende de la kvanto de <tld/>iga&jcirc;o necesa por &gcirc;ustigi &ccirc;iun
-        orbiton, 
+        orbiton,
         la &ccirc;efa misio de la sondilo &ccirc;esos en 2008, post 74 orbitoj
         &ccirc;irka&ubreve; Saturno
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=3733'>Saturno
+          <lok><url ref="https://eo.wikipedia.org/?curid=3733">Saturno
           (planedo)</url></lok>
         </fnt>.
       </ekz>
@@ -563,7 +788,7 @@
     <trd>paliwo</trd>
   </trdgrp>
   <trd lng="pt">combust&iacute;vel</trd>
-  <trd lng="ro">combustibil</trd> 
+  <trd lng="ro">combustibil</trd>
   <trd lng="ru">&c_t;&c_o;&c_p;&c_l;&c_i;&c_v;&c_o;</trd>
 </drv>
 
@@ -593,7 +818,9 @@
   </trdgrp>
   <trd lng="es">combustible <klr tip="ind">(adj.)</klr></trd>
   <trd lng="fr">combustible <klr tip="ind">(adj.)</klr></trd>
+  <trd lng="he">&dalet;&#x5B8;&lamed;&#x5B4;&yod;&qof;</trd>
   <trd lng="hu">&eacute;ghet&odblac;</trd>
+  <trd lng="ja">&#x53EF;&#x71C3;&#x6027;&#x306E;  [<ind>&#x304B;&#x306D;&#x3093;&#x305B;&#x3044;&#x306E;</ind>]</trd>
   <trd lng="nl">brandbaar</trd>
   <trd lng="pl">palny</trd>
   <trd lng="pt">combust&iacute;vel</trd>
@@ -617,12 +844,16 @@
         <klr>[...]</klr> &gcirc;i seki&gcirc;as kaj i&gcirc;as pli <tld/>i&gcirc;ema
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=292557'>Arbara
+          <lok><url ref="https://eo.wikipedia.org/?curid=292557">Arbara
           incendio</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_jo;&c_g;&c_k;&c_a;&c_w;&c_z;&c_g;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_v;&c_o;&c_g;&c_n;&c_je;&c_n;&c_je;&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="en">inflammable</trd>
   <trd lng="es">inflamable</trd>
   <trd lng="fr">inflammable</trd>
@@ -644,7 +875,7 @@
         malgranda gas<tld/>ilo, uzata por varmigi en laboratorio
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=476850'>Brulilo
+          <lok><url ref="https://eo.wikipedia.org/?curid=476850">Brulilo
           de Bunsen</url></lok>
         </fnt>.
       </ekz>
@@ -662,17 +893,21 @@
   </trdgrp>
   <trd lng="es">quemador</trd>
   <trd lng="fr">bruleur</trd>
+  <trd lng="he">&mem;&tsadi;&tav;</trd>
   <trd lng="hu">&eacute;g&odblac;</trd>
+  <trd lng="id">(alat) pem<ind>bakar</ind></trd>
+  <trd lng="ja">&#x706B;&#x53E3;  [<ind>&#x307B;&#x304F;&#x3061;</ind>]</trd>
   <trd lng="nl">brander</trd>
   <trd lng="pl">palnik</trd>
   <trd lng="pt">pavio</trd>
-  <trd lng="ro">arz&abreve;tor</trd> 
+  <trd lng="ro">arz&abreve;tor</trd>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_je;&c_l;&c_k;&c_a;</trd>
   <trd lng="sk">hor&aacute;k</trd>
   <trdgrp lng="cs">
     <trd>ho&rcaron;&aacute;k</trd>,
     <trd>laboratorn&iacute; kahan</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
 </drv>
 
 <drv mrk="brul.0umo">
@@ -683,25 +918,23 @@
       <ref tip="dif" cel="inflam.0o">Inflamo</ref>:
       <ekz>
         personoj, kiuj rigardis la eklipson sen speciala protekto
-        <klr>...</klr>, estas enhospitaligitaj kun pli malpli gravaj
+        <klr>[&#x2026;]</klr>, estas enhospitaligitaj kun pli malpli gravaj
         retin<tld/>umoj
         <fnt>
         <aut>P. Levy</aut>,
         <vrk>Re: Eklipso kaj katastrofo - Transmonden!</vrk>,
         <lok>
-        <url
-        ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo"
-        >soc.culture.esperanto</url>, 1999-08-18</lok></fnt>;
+        <url ref="&SCE;">soc.culture.esperanto</url>,
+        1999-08-18</lok></fnt>;
       </ekz>
       <ekz>
-        La infano havas <tld/>umon de la spira kanalo,
+        la infano havas <tld/>umon de la spira kanalo,
         tiel nomatan bronkiton
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="be">&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trdgrp lng="cs">
     <trd>vzplanut&iacute;</trd>,
     <trd>z&aacute;pal</trd>
@@ -715,17 +948,19 @@
     <trd>combusti&oacute;n</trd>
   </trdgrp>
   <trd lng="fr">inflammation</trd>
+  <trd lng="he">&shin;&resh;&yod;&pe;&he;</trd>
   <trd lng="hu">gyullad&aacute;s</trd>
   <trd lng="id">inflamasi</trd>
+  <trd lng="ja">&#x708E;&#x75C7;  [<ind>&#x3048;&#x3093;&#x3057;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="nl">ontsteking<klr tip="ind"> (ziekte)</klr></trd>
   <trd lng="pl">zapalenie</trd>
   <trd lng="pt">inflama&ccedil;&atilde;o</trd>
-  <trd
-  lng="ru">&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ru">&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>vzplanutie</trd>,
     <trd>z&aacute;pal</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="brul.al0i">
@@ -741,6 +976,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_g;&c_a;&c_r;&c_e;&c_c;&c_mol;</trd>
+  <trd lng="de">anbrennen <klr>(am Topfboden usw.)</klr></trd>
   <trd lng="es">cocinarse</trd>
   <trd lng="fr">attacher<klr> (cuisine)</klr></trd>
   <trdgrp lng="hu">
@@ -780,6 +1016,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_g;&c_a;&c_r;&c_e;&c_c;&c_mol;</trd>
+  <trd lng="de">anbrennen <klr>(au&szlig;en herum)</klr></trd>
   <trd lng="es">quemar<klr tip="ind"> (intr., por
   el exterior)</klr></trd>
   <trd lng="fr">bruler<klr tip="ind"> (intr., en
@@ -809,8 +1046,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        oni ek<tld/>igis la lumojn (vd <ref tip="sin"
-        cel="lum.ek0igi">eklumigi</ref>)
+        oni ek<tld/>igis la lumojn (vd <ref tip="sin" cel="lum.ek0igi">eklumigi</ref>)
         <fnt>
           <bib>Far2</bib>
           <lok>&Ccirc;apitro XXIII</lok>
@@ -849,6 +1085,7 @@
     <trd>mettre le <ind>feu</ind> (&agrave;)</trd>
   </trdgrp>
   <trd lng="hu">meggy&uacute;jt</trd>
+  <trd lng="ja">&#x70B9;&#x706B;&#x3059;&#x308B;  [<ind>&#x3066;&#x3093;&#x304B;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">aansteken</trd>
   <trd lng="oc">alucar</trd>
   <trdgrp lng="pl">
@@ -871,6 +1108,106 @@
     <trd>prip&aacute;li&tcaron;</trd>,
     <trd>zap&aacute;li&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_ib;&c_d;&c_p;&c_a;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="brul.for0i">
+  <kap>
+    for<tld/>i,
+    <var><kap>el<tld/>i</kap></var>,
+    <var><kap>dis<tld/>i</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Tute <ref tip="super" cel="konsum.0igxi">konsumi&gcirc;i</ref> de fajro:
+      <ekz>
+        la tuta skribrula&jcirc;o for<tld/>is sur la fajro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 36:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kandeloj el<tld/>is &gcirc;is la bran&ccirc;oj, kaj tiam oni ilin estingis
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Abio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        triono de la arboj for<tld/>is, kaj la tuta verda herbo for<tld/>is
+        <fnt>
+          <bib>NT</bib>
+          <lok>Apokalipso 8:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la seka pajlo ek<tld/>is, la tuta domo for<tld/>is
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Najbaraj familioj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i for<tld/>u &gcirc;is la fundamento
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la domo dis<tld/>is &gcirc;is polvo
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dektria &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la malgranda forno &ccirc;iuj karboj el<tld/>is
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la olivoleo en mia lanterno el<tld/>is
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ses el liaj tor&ccirc;oj jam for<tld/>is
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la &scirc;tiparo for<tld/>is iu alia kristano
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de malgranda kandelo for<tld/>is granda kastelo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>verbrennen</trd>,
+    <trd>abbrennen</trd>,
+    <trd>niederbrennen</trd>
+  </trdgrp>
+  <trd lng="en">burn down</trd>
+  <trd lng="ja">&#x71C3;&#x3048;&#x3064;&#x304D;&#x308B;  [<ind>&#x3082;&#x3048;&#x3064;&#x304D;&#x308B;</ind>]</trd>
 </drv>
 
 <drv mrk="brul.0difekti">
@@ -937,6 +1274,11 @@
       Ne brulema, kapabla rezisti al <tld/>o.
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_z;&c_g;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_v;&c_o;&c_g;&c_n;&c_je;&c_t;&c_r;&c_y;&c_v;&c_a;&c_l;&c_y;</trd>,
+    <trd>&c_a;&c_g;&c_n;&c_ja;&c_s;&c_t;&c_o;&c_j;&c_k;&c_ib;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>odoln&yacute; proti ohni</trd>,
     <trd>ohnivzdorn&yacute;</trd>
@@ -946,6 +1288,7 @@
     <trd>incombustible</trd>
   </trdgrp>
   <trd lng="fr">incombustible</trd>
+  <trd lng="ja">&#x8010;&#x706B;&#x6027;&#x306E;  [<ind>&#x305F;&#x3044;&#x304B;&#x305B;&#x3044;&#x306E;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>trudnopalny</trd>,
     <trd>niepalny</trd>
@@ -955,28 +1298,68 @@
     <trd>&c_o;&c_g;&c_n;&c_je;&c_u;&c_p;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sk">oh&ncaron;ovzdorn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_o;&c_g;&c_n;&c_je;&c_t;&c_r;&c_i;&c_v;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_o;&c_g;&c_n;&c_je;&c_s;&c_t;&c_ib;&c_j;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="brul.sun0umo">
+  <kap>
+    sun<tld/>umo, <var><kap>sun<tld/>o</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="brul.0umo">Brulumo</ref> de la ha&ubreve;to eksponita tro longe al sunradioj:
+      <ekz>
+        estos ne elteneble varma vetero kaj mi sunbruli&gcirc;os
+        <fnt>
+          <bib>Kon11</bib>
+          <aut>Bernard Gnancadja</aut>
+          <vrk>Benino</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u ne &ccirc;iu individuo plej bone scias, kiel protekti sian ha&ubreve;ton? neniu instanco
+        rajtas preskribi al mi, kion kiam mi faru por eviti dama&gcirc;on per sun<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2005/008747.php">EU-fiasko</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Sonnenbrand</trd>
+  <trd lng="en">sunburn</trd>
+  <trd lng="fr">coup de soleil</trd>
+</drv>
+
 </art>
 <!--
 $Log$
-Revision 1.46  2017/12/18 23:10:27  revo
-Michel Cantigneaux: "brul/ig/i" : ekzemplo de ig' en Universala Vortaro,
-do fundamenta kunmetajxo
+versio 1.134 2023/08/29 20:26:31
+Wolfram Diestel: ja: prononco
 
-Revision 1.45  2017/02/25 20:10:19  revo
-Wolfram Diestel: ekz-oj
+versio 1.133 2023/05/03 16:39:01
+revo: aktualigo URL-unuoj
 
-Revision 1.44  2015/10/26 15:10:16  revo
-Guillermo Molleda Jimena: trd es
+versio 1.132 2023/04/14 06:29:21
+Wolfram Diestel: +~eti/sub~i; +for/el/dis~
 
-Revision 1.43  2015/07/04 08:37:31  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.131 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.42  2015/06/29 16:29:36  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.130 2022/03/16 15:39:06
+Wolfram Diestel: kor. trd
 
-Revision 1.41  2014/06/12 04:10:13  revo
-Eko Nur Syah Hidayat: +id
+versio 1.128 2021/12/22 08:37:07
+Dmitri Gabinski: + trd be
 
+versio 1.127 2021/11/07 15:30:27
+Wolfram Diestel: +sun~umo
+
+versio 1.126 2021/07/20 09:33:13
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: terapi.xml,v 1.19 2020/03/02 16:12:37 revo Exp $">
+<art mrk="$Id: terapi.xml,v 1.26 2023/09/04 18:15:46 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>terapi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +12,40 @@
   <snc mrk="terapi.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Metoda <ref tip="super" cel="kurac.0ado">kuracado</ref>:
+      Metoda <ref tip="super" cel="kurac.0o">kuracado</ref>:
+      <ekz>
+        vane Maziero <klr>[&#x2026;]</klr> konsumis unu post la alia la &ccirc;iujn provizojn de la
+        <tld/>o
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la karesoj de lia edzino estas certe la plej bona el &ccirc;iuj <tld/>aj rimedoj
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekdua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grimpado estas uzata kiel <tld/>o por infanoj kun mov- kaj evolu-problemoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2013/010872.php">Grimpado kiel terapio</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        necesas frua kaj longeda&ubreve;ra kombinita <tld/>o per tri-kvar medikamentoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2011/010389.php">Dan&gcirc;era malamiko revenas</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         nur &ccirc;irka&ubreve; 500 el ili ricevadas la modernan <tld/>on per tri
         medikamentoj
@@ -22,6 +54,34 @@
           <vrk>Novaj strategioj en Rusio</vrk>,
           <bib>Monato</bib>,
           <lok>2001:5, p. 14a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        insulin-<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2015/011367.php">Noviga apliko je dispono de kuracistoj kaj pacientoj</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rememoro-<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo/pg</aut>
+          <vrk><url ref="&Monato;/2006/008762.php">Tro vivi foje ne bonas</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia kuracisto proponis kurson de &leftquot;subtena terapio&rightquot;, kio vere signifas
+        &leftquot;komfortigi lin, &gcirc;is li mortas&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Steven K. Smith</aut>
+          <vrk><url ref="&Monato;/2009/009659.php">La Helpanto</url></vrk>
+          <lok>2009</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -40,11 +100,20 @@
     <trd>gy&oacute;gykezel&eacute;s</trd>,
     <trd>ter&aacute;pia</trd>,
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7642;&#x6CD5;  [<ind>&#x308A;&#x3087;&#x3046;&#x307B;&#x3046;</ind>]</trd>,
+    <trd>&#x6CBB;&#x7642;&#x6CD5;  [<ind>&#x3061;&#x308A;&#x3087;&#x3046;&#x307B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">therapie</trd>
   <trd lng="pl">terapia</trd>
   <trd lng="pt">terapia</trd>
   <trd lng="ru">&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
   <trd lng="sk">lie&ccaron;ba</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_je;&c_r;&c_a;&c_p;&c_ib;&c_ja;</trd>,
+    <trd>&c_t;&c_je;&c_r;&c_a;&c_p;&c_je;&c_v;&c_t;&c_i;&c_k;&c_a;</trd>,
+    <trd>&c_l;&c_ib;&c_k;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="terapi.0i">
@@ -58,15 +127,74 @@
         neniam ankora&ubreve; kuracisto <tld/>is iun per tiom da hirudoj
         <fnt>
           <aut>Hevesi L., trad. Vizi L.</aut>,
-          <vrk><url
-          ref="https://sites.google.com/site/laaventurojdeandreojelky">La
+          <vrk><url ref="https://sites.google.com/site/laaventurojdeandreojelky">La
           aventuroj de Andreo Jelky</url></vrk>,
           <lok>[2010]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_l;&c_ja;&c_ch;&c_y;&c_c;&c_mol;</trd>
 </drv>
+
+<drv mrk="terapi.0isto">
+  <kap>
+    <tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      Iu, kies precipa okupo estas <tld/>i:
+      <ekz>
+        tri-kvar aliaj <tld/>istoj ali&gcirc;is al la specialistaro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2007/009080.php">Kial la malestimo je la afrika medicino?</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>isto komence ne povas kredi je la spertoj de la paciento
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Miland Joshi</aut>
+          <vrk><url ref="&Monato;/2008/009520.php">Nevideblaj mondoj</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tiaj novaj situacioj infanoj bezonas longan tempon por adapti&gcirc;i,
+        pro tio <tld/>isto, kiu apartenas al la esplorteamo, konsilas, ke vicgepatroj ne tro
+        provadu montri&gcirc;i bona patrino a&ubreve; patro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="&Monato;/2011/010262.php">Grave &scirc;an&gcirc;i&gcirc;as la familia vivo</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estus pli efike, se ju&gcirc;isto lasus la decidon pri la da&ubreve;ro de enkarcerigo al
+        teamo de <tld/>istoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ivo Durwael</aut>
+          <vrk><url ref="&Monato;/2012/010566.php">Pri kulpo de kulpigisto</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Therapeuth</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6CBB;&#x7642;&#x5C02;&#x9580;&#x5BB6;  [<ind>&#x3061;&#x308A;&#x3087;&#x3046;&#x305B;&#x3093;&#x3082;&#x3093;&#x304B;</ind>]</trd>,
+    <trd>&#x7642;&#x6CD5;&#x58EB;  [<ind>&#x308A;&#x3087;&#x3046;&#x307B;&#x3046;&#x3057;</ind>]</trd>,
+    <trd>&#x30BB;&#x30E9;&#x30D4;&#x30B9;&#x30C8;</trd>
+  </trdgrp>
+</drv>
+
+
+
 
 <drv mrk="terapi.galvano0o">
   <kap>galvano<tld/>o</kap>
@@ -83,6 +211,7 @@
   <trd lng="en">galvanotherapy</trd>
   <trd lng="fr">galvanoth&eacute;rapie</trd>
   <trd lng="hu">galvanoter&aacute;pia</trd>
+  <trd lng="ja">&#x76F4;&#x6D41;&#x96FB;&#x6C17;&#x7642;&#x6CD5;  [<ind>&#x3061;&#x3087;&#x304F;&#x308A;&#x3085;&#x3046;&#x3067;&#x3093;&#x304D;&#x308A;&#x3087;&#x3046;&#x307B;&#x3046;</ind>]</trd>
   <trd lng="nl">galvanotherapie</trd>
   <trd lng="pt">galvanoterapia</trd>
   <trd lng="ru">&c_g;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_n;&c_o;&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
@@ -108,8 +237,10 @@
   <trd lng="en">serotherapy</trd>
   <trd lng="fr">s&eacute;roth&eacute;rapie</trd>
   <trd lng="hu">szeroter&aacute;pia</trd>
+  <trd lng="ja">&#x8840;&#x6E05;&#x7642;&#x6CD5;  [<ind>&#x3051;&#x3063;&#x305B;&#x3044;&#x308A;&#x3087;&#x3046;&#x307B;&#x3046;</ind>]</trd>
   <trd lng="nl">serumtherapie</trd>
   <trd lng="ru">&c_s;&c_je;&c_r;&c_o;&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
+  <trd lng="uk">&c_s;&c_je;&c_r;&c_o;&c_t;&c_je;&c_r;&c_a;&c_p;&c_ib;&c_ja;</trd>
 </drv>
 
 <drv mrk="terapi.hormon0o">
@@ -120,6 +251,7 @@
       Uzado de <ref cel="hormon.0o">hormonoj</ref> por medicinaj celoj.
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_a;&c_t;&c_e;&c_r;&c_a;&c_p;&c_ib;&c_ja;</trd>
   <trd lng="de">Hormontherapie</trd>
   <trdgrp lng="en">
     <trd>hormone therapy</trd>,
@@ -132,7 +264,19 @@
 
 </art>
 <!--
-$Log: terapi.xml,v $
+$Log$
+versio 1.25 2023/04/11 19:23:01
+aktualigo Monato-URL
+
+versio 1.24 2023/01/04 21:24:51
+Wolfram Diestel: +ekz-oj; +~isto
+
+versio 1.23 2022/11/10 10:35:52
+Dmitri Gabinski: + trd be
+
+versio 1.20 2021/05/15 16:02:32
+Wolfram Diestel: kor. ref-cel
+
 versio 1.19 2020/03/02 16:12:37
 Robin van der Vliet: +hormon~o, +trd
 
@@ -143,17 +287,5 @@ Revision 1.17  2019/03/24 19:10:15  revo
 Wolfram Diestel: +sero~o
 
 Revision 1.16  2015/07/04 08:37:44  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.15  2015/06/29 16:40:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.14  2011/12/09 15:10:08  revo
-Jeromo Vasxe: + ~i
-
-Revision 1.13  2006/04/21 16:31:46  revo
-Tulio Flores: +tr pt
-
-Revision 1.12  2006/02/15 17:33:10  revo
 -->
 </vortaro>

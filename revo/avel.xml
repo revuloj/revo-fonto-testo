@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: avel.xml,v 1.24 2009/10/30 17:30:34 revo Exp $">
+<art mrk="$Id: avel.xml,v 1.35 2023/08/30 18:23:38 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>avel</rad>/o
@@ -19,7 +18,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sigmond J&uacute;lia</aut>
-          <vrk><url ref="https://www.monato.be/2007/008896.php">Sep citronsemoj</url></vrk>
+          <vrk><url ref="&Monato;/2007/008896.php">Sep citronsemoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -27,13 +26,13 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julian Modest</aut>
-          <vrk><url ref="https://www.monato.be/2013/010962.php">La iluziisto</url></vrk>
+          <vrk><url ref="&Monato;/2013/010962.php">La iluziisto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        ne&gcirc;leporo <klr>[&#8230;]</klr> man&gcirc;as bran&ccirc;ojn, &scirc;osojn kaj &scirc;elojn
+        ne&gcirc;leporo <klr>[&#x2026;]</klr> man&gcirc;as bran&ccirc;ojn, &scirc;osojn kaj &scirc;elojn
         de falfoliaj arboj, kiaj poplo, birdokaptista sorbuso, saliko, 
-        betulo, <tld/>ujo, <klr>[&#8230;]</klr>
+        betulo, <tld/>ujo, <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=49904">Ne&gcirc;leporo</url></lok>
@@ -45,17 +44,17 @@
     <dif>
       <ref tip="dif" cel="avel.0ujo"><tld lit="A"/>ujo</ref>:
       <ekz>
-        la virino <klr>[&#8230;]</klr> &scirc;irkolektis al si plenan po&scirc;on da nuksoj <tld/>aj
+        la virino <klr>[&#x2026;]</klr> &scirc;irkolektis al si plenan po&scirc;on da nuksoj <tld/>aj
         <fnt>
           <bib>Fab3</bib>
-          <lok><url ref="http://www.steloj.de/esperanto/fabeloj3/">Ib kaj malgranda kristino</url></lok>
+          <lok><url ref="&Steloj;fabeloj3/">Ib kaj malgranda kristino</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         kiam li rajdis tra verdaj arbetoj, <tld/>a bran&ccirc;eto ekbatis lin kaj de&jcirc;etis lian &ccirc;apelon
         <fnt>
           <bib>ElektFab</bib>
-          <lok><url ref="http://www.steloj.de/esperanto/gfabeloj/index.html">Cindrulino</url></lok>
+          <lok><url ref="&Steloj;gfabeloj/index.html">Cindrulino</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -75,8 +74,13 @@
   </trdgrp>
   <trd lng="es">avellana</trd>
   <trd lng="fr">noisette</trd>
+  <trd lng="he">&#x5D0;&#x5D2;&#x5D5;&#x5D6; &#x5DC;&#x5D5;&#x5D6;</trd>
   <trd lng="hu">mogyor&oacute;</trd>
   <trd lng="it">nocciola<klr> (bot.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30CF;&#x30B7;&#x30D0;&#x30DF;&#x306E;&#x5B9F;  [<ind>&#x306F;&#x3057;&#x3070;&#x307F;&#x306E;&#x307F;</ind>]</trd>,
+    <trd>&#x30D8;&#x30FC;&#x30BC;&#x30EB;&#x30CA;&#x30C3;&#x30C4;</trd>
+  </trdgrp>
   <trd lng="nl">hazelnoot</trd>
   <trd lng="pl">orzech laskowy</trd>
   <trd lng="pt">avel&atilde;</trd>
@@ -105,24 +109,20 @@
         sub la <tld/>arbetoj, kie la nuksoj pendis en formo de pezaj faskoj, sidis viro kaj virino
         <fnt>
           <bib>Fab3</bib>
-          <lok><url ref="http://www.steloj.de/esperanto/fabeloj3/">Historio de la jaro</url></lok>
+          <lok><url ref="&Steloj;fabeloj3/">Historio de la jaro</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         la tombo de la patrino sub la <tld/>arbo
         <fnt>
           <bib>ElektFab</bib>
-          <lok><url ref="http://www.steloj.de/esperanto/gfabeloj/index.html">Cindrulino</url></lok>
+          <lok><url ref="&Steloj;gfabeloj/index.html">Cindrulino</url></lok>
         </fnt>.
       </ekz>
     </dif>
-    <bld
-      lok="&WCU;/thumb/6/60/Corylus_avellana.jpg/640px-Corylus_avellana.jpg"
-      prm="CC-BY-SA-3.0"
-      >nuksoj kaj folioj de <tld/>o (Corylus avellana)
+    <bld lok="&WCU;/thumb/6/60/Corylus_avellana.jpg/640px-Corylus_avellana.jpg" prm="CC-BY-SA-3.0">nuksoj kaj folioj de <tld/>o (Corylus avellana)
         <fnt>
-          <lok><url ref="https://commons.wikimedia.org/wiki/File:Corylus_avellana.jpg"
-              >https://commons.wikimedia.org/wiki/File:Corylus_avellana.jpg</url></lok>
+          <lok><url ref="&WCW;/File:Corylus_avellana.jpg">&WCW;/File:Corylus_avellana.jpg</url></lok>
         </fnt>
     </bld>
   </snc>
@@ -140,8 +140,10 @@
   <trd lng="de">Haselstrauch</trd>
   <trd lng="en">hazel tree</trd>
   <trd lng="fr">noisetier</trd>
+  <trd lng="he">&#x5E2;&#x5E5; &#x5D0;&#x5B1;&#x5D2;&#x5D5;&#x5B9;&#x5D6;&#x5B5;&#x5D9; &#x5DC;&#x5D5;&#x5BC;&#x5D6;</trd>
   <trd lng="hu">mogyor&oacute;cserje</trd>
   <trd lng="it">nocciolo<klr> (albero)</klr></trd>
+  <trd lng="ja">&#x30CF;&#x30B7;&#x30D0;&#x30DF;</trd>
   <trd lng="nl">hazelaar</trd>
   <trdgrp lng="pl">
     <trd>leszczyna</trd>,
@@ -159,6 +161,12 @@
 </art>
 <!--
 $Log$
+versio 1.34 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.33 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.30  2018/10/27 11:10:16  revo
 Wolfram Diestel: +ekz-oj, snc 2, bld
 
@@ -175,11 +183,5 @@ Revision 1.26  2013/11/17 12:10:12  revo
 Joop Eggen: +trd bg
 
 Revision 1.25  2011/10/05 09:10:24  revo
-Antonio Codazzi: +trd it
-
-Revision 1.24  2009/10/30 17:30:34  revo
-Paul Peeraerts: +nl
-
-Revision 1.23  2007/10/30 17:30:26  revo
 -->
 </vortaro>

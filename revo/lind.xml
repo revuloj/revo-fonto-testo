@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: lind.xml,v 1.7 2023/05/05 17:57:58 revo Exp $">
     <kap>
       <rad>lind</rad>/a
     </kap>
@@ -11,15 +10,25 @@
   <kap><tld/>a</kap>
   <snc>
     <dif>
-      Pla&ccirc;aspekta, modere bela:
+      Pla&ccirc;aspekta, modere <ref tip="super" cel="bel.0a">bela</ref>:
       <ekz>
         la butiketo de <tld/>a maljunulino kiu mortis anta&ubreve; pli ol du jaroj
         <fnt>
-          <vrk><url ref="https://imjxalamondo.blogspot.com/"
-              >Im&jcirc;ala Mondo</url></vrk>
+          <vrk><url ref="https://imjxalamondo.blogspot.com/">Im&jcirc;ala Mondo</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
+        <tld/>a junulino, vestita per uniformo
+        <fnt>
+          <aut>Louis Beaucaire</aut>
+          <vrk><url ref="&Tekstaro;?nomo=kruko-kaj-baniko">Kruko kaj Baniko el
+          Bervalo</url></vrk>
+          <lok>Por &ccirc;iu faro estas horo</lok>
+        </fnt>;
+      </ekz><ekz>
+        <tld/>aj knabinoj, &ccirc;e la diablo, estas vere! kelkaj kompreneble tute ne atentis
+        min, sed &gcirc;uste tiuj, kiuj min alridis, plej &ccirc;armis
+        <fnt><bib>Mortul&Scirc;ip</bib></fnt>;
+      </ekz><ekz>
         <tld/>ulino.
       </ekz>
     </dif>
@@ -30,11 +39,44 @@
     </refgrp>
     <trd lng="de">h&uuml;bsch</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_je;&c_k;&c_n;&c_y;</trd>
+  </trdgrp>
+<trd
+lng="bo">&#xF66;&#xF99;&#xF72;&#xF44;&#xF0B;&#xF62;&#xF97;&#xF7A;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
+  <trd lng="en">pretty</trd>
+  <trd lng="fr">jolie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_a;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_m;&c_i;&c_l;&c_o;&c_v;&c_i;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_h;&c_o;&c_r;&c_o;&c_sh;&c_je;&c_n;&c_mol;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_l;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_m;&c_a;&c_z;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_a;&c_r;&c_n;&c_je;&c_n;&c_mol;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_ch;&c_a;&c_r;&c_ib;&c_v;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_ch;&c_a;&c_r;&c_ib;&c_v;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_a;&c_b;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_n;&c_a;&c_d;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
   </art>
 
 <!--
 $Log$
+versio 1.7 2023/05/05 17:57:58
+revo: aktualigo URL-unuoj
+
+versio 1.6 2022/05/26 10:35:06
+Dmitri Gabinski: + trd be
+
+versio 1.5 2022/05/12 08:49:19
+Sergio Pokrovskij: +trd=ru
+
+versio 1.2 2021/01/31 10:44:01
+Wolfram Diestel: ekz-oj, trd en, fr
 -->
 </vortaro>

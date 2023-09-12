@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: nitrat.xml,v 1.3 2009/07/08 16:31:00 revo Exp $">
+<art mrk="$Id: nitrat.xml,v 1.11 2023/09/03 06:36:21 revo Exp $">
 <kap><rad>nitrat</rad>/o</kap>
 <drv mrk="nitrat.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">KEM</uzo>
   <snc>
     <dif>
-      Salo de <ref cel="nitrat.0a.acido">nitrata acido</ref>:
+      Salo de <ref cel="nitrat.0a_acido">nitrata acido</ref>:
       <ekz>
         la doloro emas malaperi kutime post la uzo de <tld/>oj (kuraciloj vazodilataj)
         <fnt>
@@ -27,6 +26,7 @@
   <trd lng="en">nitrate</trd>
   <trd lng="fr">nitrate</trd>
   <trd lng="hu">nitr&aacute;t</trd>
+  <trd lng="ja">&#x785D;&#x9178;&#x5869;  [<ind>&#x3057;&#x3087;&#x3046;&#x3055;&#x3093;&#x3048;&#x3093;</ind>]</trd>
   <trd lng="nl">nitraat</trd>
   <trd lng="pl">nitrat</trd>
   <trd lng="pt">nitrato</trd>
@@ -34,7 +34,7 @@
   <trd lng="sk">dusi&ccaron;nan</trd>
   <trd lng="uk">&c_n;&c_ib;&c_t;&c_r;&c_a;&c_t;</trd>
 </drv>
-<drv mrk="nitrat.0a.acido">
+<drv mrk="nitrat.0a_acido">
   <kap><tld/>a acido</kap>
   <uzo tip="fak">KEM</uzo>
   <snc>
@@ -60,6 +60,7 @@
 	<trd>Scheidewasser</trd>
   </trdgrp>
   <trd lng="en">azotic acid</trd>
+  <trd lng="ja">&#x785D;&#x9178;  [<ind>&#x3057;&#x3087;&#x3046;&#x3055;&#x3093;</ind>]</trd>
   <trd lng="pt">&aacute;cido n&iacute;trico</trd>
   <trd lng="es">&aacute;cido <ind>n&iacute;trico</ind></trd>
   <trd lng="fr">acide <ind>nitrique</ind></trd>
@@ -79,6 +80,12 @@
 
 <!--
 $Log$
+versio 1.10 2021/05/11 14:52:32
+Wolfram Diestel: +kor. ref-cel
+
+versio 1.9 2021/05/10 05:53:22
+Wolfram Diestel: kor. drv@mrk
+
 Revision 1.7  2018/10/23 19:10:21  revo
 Wolfram Diestel: +ekz-oj
 
@@ -95,10 +102,5 @@ Revision 1.3  2009/07/08 16:31:00  revo
 Paul Peeraerts: +trd nl
 
 Revision 1.2  2004/07/13 16:31:41  revo
-Gert Bolten Maizonave: +trd pt
-
-Revision 1.1  2004/07/12 16:47:01  revo
-Dmitri Gabinski: nova artikolo
-
 -->
 </vortaro>

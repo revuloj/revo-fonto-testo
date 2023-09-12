@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: dand.xml,v 1.19 2009/08/11 16:31:09 revo Exp $">
+<art mrk="$Id: dand.xml,v 1.28 2023/08/31 10:43:57 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>dand</rad>/o
@@ -29,16 +29,14 @@
         forgesu modajn <tld/>ojn
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko"
-              >La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         forgesu kavajn vortojn de <tld/>a kavaliro
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko"
-              >La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -48,13 +46,12 @@
         </fnt>;
       </ekz>
       <ekz>
-        tiuj &ccirc;i <tld/>oj, nomataj anka&ubreve; &leftquot;parizanoj&#8221;, &ccirc;ar ili pasigis tempon en la franca
+        tiuj &ccirc;i <tld/>oj, nomataj anka&ubreve; &leftquot;parizanoj&#x201D;, &ccirc;ar ili pasigis tempon en la franca
         &ccirc;efurbo Parizo, sin vestas per luksaj vesta&jcirc;oj, e&ccirc; frakoj
         <fnt>
           <bib>Monato</bib>
           <aut>Jean-Louis Madzella/pg</aut>
-          <vrk><url ref="&Monato;/2006/009015.php"
-              >La stilo estas la homo</url></vrk>
+          <vrk><url ref="&Monato;/2006/009015.php">La stilo estas la homo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -91,12 +88,18 @@
     <trd>dandy</trd>,
     <trd>&eacute;l&eacute;gant<klr tip="ind">
     (dandy)</klr></trd></trdgrp>
+  <trd lng="he">&#x5D2;&#x5E0;&#x5D3;&#x5E8;&#x5DF;</trd>
   <trdgrp lng="hu">
     <trd>dendi</trd>,
     <trd>divath&odblac;s</trd>,
     <trd>piperk&odblac;c</trd>,
     <trd>fics&uacute;r</trd>
  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3057;&#x3083;&#x308C;&#x7537;  [<ind>&#x3057;&#x3083;&#x308C;&#x304A;&#x3068;&#x3053;</ind>]</trd>,
+    <trd>&#x4F0A;&#x9054;&#x7537;  [<ind>&#x3060;&#x3066;&#x304A;&#x3068;&#x3053;</ind>]</trd>,
+    <trd>&#x30C0;&#x30F3;&#x30C7;&#x30A3;&#x30FC;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
    <trd>dandy</trd>,
    <trd>fat</trd>
@@ -126,6 +129,11 @@
     <trd>fi&ccaron;&uacute;r</trd>,
     <trd>svet&aacute;k</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x444;&#x440;&#x430;&#x43D;&#x442;</trd>,
+    <trd>&#x434;&#x435;&#x43D;&#x434;&#x456;</trd>,
+    <trd>&#x447;&#x435;&#x43F;&#x443;&#x440;&#x443;&#x43D;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dand.0i">
@@ -152,6 +160,11 @@
   <trd lng="be">&c_f;&c_a;&c_r;&c_s;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="ca">ser un <ind>dandi</ind></trd>
   <trd lng="cs">chovat se sv&ecaron;t&aacute;cky</trd>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5EA;&#x5D2;&#x5E0;&#x5D3;&#x5E8;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3057;&#x3083;&#x308C;&#x7537;&#x3076;&#x308B;  [<ind>&#x3057;&#x3083;&#x308C;&#x304A;&#x3068;&#x3053;&#x3076;&#x308B;</ind>]</trd>,
+    <trd>&#x4F0A;&#x9054;&#x3076;&#x308B;  [<ind>&#x3060;&#x3066;&#x3076;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>zich als een <ind>dandy</ind> gedragen</trd>,
     <trd>zich als een <ind>fat</ind> gedragen</trd>
@@ -161,11 +174,18 @@
     <trd>&c_f;&c_r;&c_a;&c_n;&c_t;&c_i;&c_t;&c_mol;</trd>
  </trdgrp>
   <trd lng="sk">chova&tcaron; sa svet&aacute;cky</trd>
+  <trdgrp lng="uk">
+    <trd>&#x444;&#x440;&#x430;&#x43D;&#x442;&#x438;&#x442;&#x438;</trd>,
+    <trd>&#x445;&#x438;&#x437;&#x443;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.27 2022/04/26 17:11:47
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.23  2019/01/26 23:10:17  revo
 Wolfram Diestel: +ekz-oj
 
@@ -185,8 +205,5 @@ Revision 1.18  2009/04/28 16:30:43  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.17  2009/02/28 17:31:14  revo
-Marcus Curdeius: +pl
-
-Revision 1.16  2007/07/15 16:30:41  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lumb.xml,v 1.17 2010/12/02 17:30:49 revo Exp $">
+<art mrk="$Id: lumb.xml,v 1.26 2023/09/02 05:33:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lumb</rad>/o
@@ -14,10 +13,36 @@
   <uzo tip="fak">ANA</uzo>
   <snc>
     <dif>
-      Malsupra parto de la dorso, amba&ubreve;flanke de la spino, inter tiu kaj
-      la koksoj:
+      Malsupra parto de la <ref tip="malprt" cel="dors.0o.ANA">dorso</ref>,
+      amba&ubreve;flanke de la spino, inter tiu kaj la koksoj:
       <ekz>
-        zonu vian <tld/>on per glavo<fnt>Z</fnt>.
+        <nom>Jakob</nom> dis&scirc;iris siajn vestojn kaj metis saka&jcirc;on &ccirc;irka&ubreve; sian <tld/>on kaj funebris
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 37:34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via <tld/>o estu zonita, viaj &scirc;uoj sur viaj piedoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 12:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Gideon</nom> havis sepdek filojn, kiuj eliris el liaj <tld/>oj, &ccirc;ar li havis multe da
+        edzinoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 8:30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        zonu vian <tld/>on per glavo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 45:3</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -38,11 +63,19 @@
     <trd>zona lombare</trd>,
     <trd>lombo</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8170;  [<ind>&#x3053;&#x3057;</ind>]</trd>,
+    <trd>&#x8170;&#x90E8;  [<ind>&#x3088;&#x3046;&#x3076;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">lende</trd>
   <trd lng="pl">l&eogonek;d&zacute;wie</trd>
   <trd lng="pt">lombo</trd>
   <trd lng="ru">&c_p;&c_o;&c_ja;&c_s;&c_n;&c_i;&c_c;&c_a;</trd>
   <trd lng="sv">l&auml;nd</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43F;&#x435;&#x440;&#x435;&#x43A;</trd>,
+    <trd>&#x43A;&#x440;&#x438;&#x436;&#x456;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lumb.0ajxo">
@@ -52,7 +85,20 @@
   <uzo tip="fak">KUI</uzo>
   <snc>
     <dif>
-      Sama parto de la bu&ccirc;bestoj destinita por man&gcirc;o.
+      Sama parto de la bu&ccirc;bestoj destinita por <ref cel="mangx.0o.ajxo">man&gcirc;o</ref>:
+      <ekz>
+        forprenu la ostojn de la <tld/>a&jcirc;o, metu &gcirc;in sur tran&ccirc;tabulon kun grasa flanko
+        sube
+        <fnt>
+          <vrk><url ref="http://fagot.alain.free.fr/kuirado/Rpf07/html/SKS02.php">Porko-lumba&jcirc;o kun Holstein Sa&ubreve;rkra&ubreve;to</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bifsteko estas tran&ccirc;ita el la supra parto de senmembranigita bov<tld/>a&jcirc;o
+        <fnt>
+          <vrk><url ref="&Viki;/%C4%88atobriando">&Ccirc;atobriando</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_l;&c_je;&c_j;&c_n;&c_a;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</trd>
@@ -73,14 +119,28 @@
      <trd>h&aacute;tsz&iacute;n</trd>
   </trdgrp>
   <trd lng="it">lombata</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8170;&#x8089;  [<ind>&#x3053;&#x3057;&#x306B;&#x304F;</ind>]</trd>,
+    <trd>&#x30D2;&#x30EC;&#x8089;  [<ind>&#x30D2;&#x30EC;&#x306B;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">lendestuk</trd>
   <trd lng="pt">lombo</trd>
   <trd lng="ru">&c_f;&c_i;&c_l;&c_je;&c_j;&c_n;&c_a;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sv">l&auml;ndstycke</trd>
+  <trdgrp lng="uk">
+    <trd>&#x444;&#x456;&#x43B;&#x435;</trd>,
+    <trd>&#x444;&#x456;&#x43B;&#x435;&#x439;&#x43D;&#x430; &#x447;&#x430;&#x441;&#x442;&#x438;&#x43D;&#x430; (&#x44F;&#x43B;&#x43E;&#x432;&#x438;&#x447;&#x438;&#x43D;&#x438;)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2020/12/03 20:34:26
+Wolfram Diestel: +ekz-oj
+
 Revision 1.21  2014/12/12 13:10:19  revo
 Alain Gerard: korekto
 
@@ -97,8 +157,5 @@ Revision 1.17  2010/12/02 17:30:49  revo
 Antonio Codazzi: +trd it
 
 Revision 1.16  2010/10/30 16:30:33  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.15  2005/02/21 18:55:38  revo
 -->
 </vortaro>

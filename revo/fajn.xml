@@ -1,21 +1,23 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fajn.xml,v 1.19 2010/03/03 17:30:57 revo Exp $">
+<art mrk="$Id: fajn.xml,v 1.103 2023/08/29 20:26:41 revo Exp $">
 <kap>
   <rad>fajn</rad>/a
 </kap>
 <drv mrk="fajn.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="fajn.0a.rafinita">
     <dif>
-      Ekstrakvalita, pursubstanca:
+      Ekstra<ref cel="kvalit.0a">kvalita</ref>, pursubstanca:
       <ekz>
-        <tld/>a oro, &scirc;tono;
+        <tld/>a oro
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <ind><tld/>igi</ind> metalon.
+        <ind><tld/>igi</ind> metalon;
         <trdgrp lng="ca">
           <trd>refinar</trd>,
           <trd>afinar</trd>,
@@ -25,7 +27,72 @@
         <trd lng="hu">finom&iacute;t</trd>
         <trd lng="nl">raffineren</trd>
       </ekz>
+      <ekz>
+        la restoracio estis agrabla, la man&gcirc;o bongusta, la vino <tld/>a...
+        <fnt>
+          <bib>ChB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[sur]</klr> la skribotablo <klr>[&#8230;]</klr> amaso da <tld/>a papero kiun mi
+        plenigas
+        <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk>Ombro sur interna pejza&gcirc;o</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bebeto kun <tld/>a ha&ubreve;to rozkolora
+        <fnt>
+          <bib>SkandalJozef</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        disigu la fajron disde la tero, la <tld/>on disde la mal<tld/>o, milde, kun
+        plena komprenemo
+        <fnt>
+          <bib>SatirRak</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        eleganta, kristale <tld/>a lingvo-uzo
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>sablaj pla&gcirc;oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marc Gassion</aut>
+          <vrk><url ref="&Monato;/2003/007934.html">Aude</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        plej <tld/>aj belec-re&gcirc;inoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2003/008015.html">Misa mondo</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="klr">(sarkasme)</uzo> jen <tld/>a societo: kontrabandi, falsi deklarojn, trompi
+        havenajn instancojn
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="sin">
+       <ref cel="krud.mal0a">malkruda</ref>,
+       <ref cel="rafin.0ita">rafinita</ref>
+    </refgrp>
+    <ref tip="super" cel="pur.0a">pura</ref>
     <trd lng="de">fein</trd>
     <trd lng="nl">zuiver</trd>
     <trdgrp lng="hu">
@@ -38,20 +105,132 @@
       <trd>&c_r;&c_a;&c_f;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
-  <snc>
+  <snc mrk="fajn.0a.delikata">
     <dif>
-      Prezentanta a&ubreve; distinganta akre subtilajn diferencojn:
+      Prezentanta a&ubreve; distinganta akre
+      <ref tip="sin" cel="subtil.0a">subtila</ref>jn diferencojn:
       <ekz>
-        <tld/>a tolo, man&gcirc;a&jcirc;o, orelo;
+        <klr>[li]</klr> videble kapablas je tre detalaj stilaj studoj kaj havas <tld/>an
+        orelon por nuancoj
+        <fnt>
+          <aut>Boulton</aut>
+          <vrk>Ne nur leteroj de plumamikoj</vrk>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>e kanelita disko de gramofono;
+        por &#8218;rapida&#8216; la embaraso de ri&ccirc;eco prezentas almena&ubreve; ses vortojn, &ccirc;iujn <tld/>e
+        sencmalsamajn
+        <fnt>
+          <aut>Wells</aut>
+          <vrk>Lingvistikaj aspektoj de Esperanto</vrk>
+        </fnt>;
       </ekz>
       <ekz>
-        <uzo tip="stl">FIG</uzo>
-        <tld/>a gusto.
+        la araba skribo ne favoras ta&ubreve;gan transsendon de tiaj <tld/>aj sonnuanco
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>eco de l&#8217;&#8239;trajtoj, la densa nigra hararo, la rekta nazo, <klr>[&#8230;]</klr>
+        &ccirc;io disradiis neoftan belecon
+        <fnt>
+          <bib>ChC</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis poeto kun <klr>[&#8230;]</klr> kapablo ellabori anka&ubreve; komplikan materialon en
+        <tld/>a, emociveka maniero
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e ni tiuj sentoj estas multe pli <tld/>aj, delikataj, komplikaj kaj intensaj,
+        &ccirc;ar tio apartenas al la kultura vivo
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia sanga grupo koincidas kun la konkludoj tiritaj el la specimenoj de spermo,
+        kiun ni trovis &ccirc;e la viktimoj, e&ccirc; la&ubreve; la tre <tld/>aj subdividoj, kiujn oni
+        nun uzas
+        <fnt>
+          <bib>ChM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne estus <tld/>e! <klr>[&#8230;]</klr> preparu nin al &scirc;tormosalt'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Lamentado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        farbi &gcirc;in per gua&scirc;o kaj tre <tld/>a peniko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sylvain Lelarge</aut>
+          <vrk><url ref="&Monato;/2004/008496.html">La argilaj najbaretoj de Jesuo
+          provenca tradicio</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj filigranoj
+        <fnt>
+          <aut>Julian Modest</aut>
+            <vrk><url ref="&Monato;/2001/007140.html">Vetiha</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 26</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>kontura silueto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Frank Roger</aut>
+          <vrk><url ref="&Monato;/2004/008248.html">La brulanta virino</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ludoj kun <tld/>aj kaj
+        movi&gcirc;antaj tridimensiaj grafika&jcirc;oj estas la &ccirc;efaj aferoj
+        <fnt>
+          <aut>Franck Arnaud</aut>
+            <vrk><url ref="&Monato;/2000/007114.html">Intel alfrontas konkurencon</url></vrk>
+           <bib>Monato</bib>
+            <lok>2000/10, p. 16</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la dua fermentado (a&ubreve; maturi&gcirc;procedo) <tld/>igas la guston kaj atribuas pli da
+        mildeco al la biero
+        <fnt>
+          <aut>Lode van de Velde</aut>
+          <vrk><url ref="&Monato;/2001/007144.php">Bierlando Belgio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 18</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="ant" cel="rustik.0a">rustika</ref>
+    <refgrp tip="vid">
+       <ref cel="nobl.0a">nobla</ref>
+    </refgrp>
+    <rim>
+      Io <ref tip="sin" cel="delika.0a">delikata</ref> <ref cel="mild.0a">milde</ref>
+      kaj malforte impresas la sentumojn kaj estu tu&scirc;ata
+      nur malforte pro rompi&gcirc;emo, dum io <em><tld/>a</em> bezonas akrajn sentumojn
+      por povi distingi &gcirc;iajn <ref cel="nuanc.0o">nuanco</ref>jn. Io <ref tip="sin"
+      cel="subtil.0a">subtila</ref>
+      impresas same, sed kutime senpere kaj nature, dum <em><tld/>eco</em> fari&gcirc;as per kulturado,
+      edukado, prilaborado.
+      Io <ref cel="sublim.0a">sublima</ref> impresas la animon, la spiriton.
+    </rim>
     <trd lng="nl">delicaat</trd>
     <trd lng="hu">finom</trd>
     <trdgrp lng="ru">
@@ -61,6 +240,10 @@
       <trd>&c_i;&c_z;&c_y;&c_s;&c_k;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">fyn</trd>
+  <trd lng="am">&#4848;&#4613;&#4755;</trd>
+  <trd lng="ar">&a_gh;&a_r;&a_A;&a_m;&a_t_marbuta;</trd>
+  <trd lng="az">g&ouml;z&#601;l</trd>
   <trdgrp lng="be">
     <trd>&c_f;&c_a;&c_j;&c_n;&c_y;</trd>,
     <trd>&c_t;&c_o;&c_n;&c_k;&c_ib;</trd>,
@@ -70,6 +253,8 @@
     <trd>&c_v;&c_y;&c_s;&c_a;&c_k;&c_a;&c_ja;&c_k;&c_a;&c_s;&c_n;&c_y;</trd>,
     <trd>&c_v;&c_y;&c_s;&c_a;&c_k;&c_a;&c_p;&c_r;&c_o;&c_b;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="bn">&#2460;&#2480;&#2495;&#2478;&#2494;&#2472;&#2494;</trd>
+  <trd lng="bs">u redu</trd>
   <trdgrp lng="ca">
     <trd>fi</trd>,
     <trd>pur</trd>,
@@ -77,19 +262,64 @@
     <trd>delicat</trd>,
     <trd>exquisit</trd>
   </trdgrp>
+  <trd lng="co">a grana</trd>
   <trdgrp lng="cs">
     <trd>fajn</trd>,
-    <trd>hladký</trd>,
-    <trd>jemný</trd>,
-    <trd>ušlechtilý</trd>,
-    <trd>vybraný</trd>,
-    <trd>vytříbený</trd>
+    <trd>hladk&yacute;</trd>,
+    <trd>jemn&yacute;</trd>,
+    <trd>u&scaron;lechtil&yacute;</trd>,
+    <trd>vybran&yacute;</trd>,
+    <trd>vyt&rcaron;&iacute;ben&yacute;</trd>
+  </trdgrp>
+  <trd lng="cy">dirwy</trd>
+  <trd lng="da">b&oslash;de</trd>
+  <trdgrp lng="de">
+    <trd>fein</trd>,
+    <trd>rein</trd>
   </trdgrp>
   <trd lng="en">fine</trd>
+  <trd lng="et">trahvi</trd>
+  <trd lng="eu">fina</trd>
   <trdgrp lng="fr">
     <trd>fin<klr tip="ind"> (d'une grande puret&eacute;)</klr></trd>,
     <trd>raffin&eacute;</trd>
   </trdgrp>
+  <trd lng="fy">moai</trd>
+  <trd lng="ga">f&iacute;ne&aacute;il</trd>
+  <trd lng="gd">c&agrave;in</trd>
+  <trd lng="gl">multa</trd>
+  <trd lng="gu">&#2726;&#2690;&#2721;</trd>
+  <trd lng="ha">lafiya</trd>
+  <trd lng="hi">&#2336;&#2368;&#2325;</trd>
+  <trd lng="hmn">zoo</trd>
+  <trd lng="hr">fino</trd>
+  <trd lng="ht">amann</trd>
+  <trd lng="hy">&#1407;&#1400;&#1410;&#1379;&#1377;&#1398;&#1412;</trd>
+  <trd lng="ig">mma</trd>
+  <trd lng="is">f&iacute;nn</trd>
+  <trd lng="ja">&#32624;&#37329; [<ind>&#12400;&#12387;&#12365;&#12435;</ind>]</trd>
+  <trd lng="jv">nggoleki</trd>
+  <trd lng="ka">&#4335;&#4304;&#4320;&#4312;&#4315;&#4304;</trd>
+  <trd lng="kk">&c_a;&c_j;&c_y;&c_p;&c_p;&#1201;&c_l;</trd>
+  <trd lng="km">&#6016;&#6070;&#6042;&#6037;&#6070;&#6016;&#6038;&#6071;&#6035;&#6096;&#6041;</trd>
+  <trd lng="kn">&#3238;&#3202;&#3233;</trd>
+  <trd lng="ko">&#51096;</trd>
+  <trd lng="ku">ba&scedil;</trd>
+  <trd lng="ky">&c_a;&c_j;&c_y;&c_p;</trd>
+  <trd lng="lat">postremo</trd>
+  <trd lng="lo">&#3757;&#3761;&#3737;&#3732;&#3765;&#3719;&#3762;&#3745;</trd>
+  <trd lng="lt">gerai</trd>
+  <trd lng="mg">tsara dia tsara</trd>
+  <trd lng="mi">pai</trd>
+  <trd lng="mk">&c_p;&c_a;&c_r;&c_i;&c_ch;&c_n;&c_a; &c_k;&c_a;&c_z;&c_n;&c_a;</trd>
+  <trd lng="ml">&#3370;&#3391;&#3380;</trd>
+  <trd lng="mn">&c_n;&c_a;&c_r;&c_i;&c_j;&c_n;</trd>
+  <trd lng="mr">&#2360;&#2369;&#2352;&#2375;&#2326;</trd>
+  <trd lng="ms">denda</trd>
+  <trd lng="mt">multa</trd>
+  <trd lng="my">&#4096;&#4145;&#4140;&#4100;&#4154;&#4152;&#4126;&#4145;&#4140;</trd>
+  <trd lng="ny">zabwino</trd>
+  <trd lng="pa">&#2588;&#2625;&#2608;&#2606;&#2622;&#2600;&#2622;</trd>
   <trdgrp lng="pl">
     <trd>doskona&lstroke;y</trd>,
     <trd>pierwszorz&eogonek;dny</trd>,
@@ -103,18 +333,44 @@
     <trd>subtelny</trd>,
     <trd>wra&zdot;liwy</trd>
   </trdgrp>
+  <trd lng="ps">&#1690;&a_h;</trd>
   <trdgrp lng="pt">
     <trd>pur&iacute;ssimo</trd>,
     <trd>extrafino</trd>,
     <trd>de <ind>primeira</ind></trd>,
     <trd>refinado</trd>
   </trdgrp>
+  <trd lng="rw">neza</trd>
+  <trd lng="sd">&#1658;&a_y;&#1706;</trd>
+  <trd lng="si">&#3503;&#3497;</trd>
   <trdgrp lng="sk">
-    <trd>drobný</trd>,
-    <trd>jemný</trd>,
-    <trd>subtílny</trd>,
-    <trd>útly</trd>
+    <trd>drobn&yacute;</trd>,
+    <trd>jemn&yacute;</trd>,
+    <trd>subt&iacute;lny</trd>,
+    <trd>&uacute;tly</trd>
   </trdgrp>
+  <trd lng="sl">fina</trd>
+  <trd lng="sm">lelei</trd>
+  <trd lng="sn">naka</trd>
+  <trd lng="so">ganaax</trd>
+  <trd lng="sq">gjob&euml;</trd>
+  <trd lng="st">ntle</trd>
+  <trd lng="su">dengda</trd>
+  <trd lng="sw">faini</trd>
+  <trd lng="ta">&#2984;&#2985;&#3021;&#2993;&#3006;&#2965;</trd>
+  <trd lng="te">&#3100;&#3120;&#3135;&#3118;&#3134;&#3112;&#3134;</trd>
+  <trd lng="tg">&c_h;&c_u;&c_b;</trd>
+  <trd lng="th">&#3611;&#3619;&#3633;&#3610;</trd>
+  <trd lng="tl">mainam</trd>
+  <trd lng="tt">&#1241;&c_j;&c_b;&#1241;&c_t;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_m;&c_ib;&c_n;&c_n;&c_o;</trd>
+  <trd lng="ur">&#1657;&#1726;&f_y;&f_k;</trd>
+  <trd lng="uz">jarima</trd>
+  <trd lng="vi">t&#7889;t</trd>
+  <trd lng="xh">isohlwayo</trd>
+  <trd lng="yi">&pe;&yod;&yod;&#1463;&fnun;</trd>
+  <trd lng="yo">o dara</trd>
+  <trd lng="zu">emihle</trd>
 </drv>
 
 <drv mrk="fajn.pli0a">
@@ -140,16 +396,16 @@
       <ref cel="filtr.0ilo.MAT">filtrilo</ref>.
     </refgrp>
     <rim>
-      Tiu &ccirc;i termino estas klare internacia, kaj ni preferis ne 
-      sekvi <fnt><bib>MatStokTerm</bib><lok>p. 53</lok></fnt>, kiu 
-      proponas uzi verbojn de la tipo <ctl>pli(al)i</ctl> a&ubreve; 
-      <ctl>men(al)i</ctl> por kompari la topologiojn. Se iu ne 
+      Tiu &ccirc;i termino estas klare internacia, kaj ni preferis ne
+      sekvi <fnt><bib>MatStokTerm</bib><lok>p. 53</lok></fnt>, kiu
+      proponas uzi verbojn de la tipo <ctl>pli(al)i</ctl> a&ubreve;
+      <ctl>men(al)i</ctl> por kompari la topologiojn. Se iu ne
       &scirc;atas la terminon <ctl>esti
       pli fajna</ctl>, li simple uzu <ctl>inkluzivi</ctl>.
     </rim>
   </snc>
   <trd lng="ca">m&eacute;s fi[na] (mat. topol.)</trd>
-  <trd lng="cs">jemnější</trd>
+  <trd lng="cs">jemn&ecaron;j&scaron;&iacute;</trd>
   <trd lng="de">feiner</trd>
   <trd lng="en">finer<klr tip="ind"> (math.)</klr></trd>
   <trd lng="fr">plus <ind>fin</ind><klr tip="ind"> (math.)</klr></trd>
@@ -158,35 +414,32 @@
   <trd lng="ru">&c_b;&c_o;&c_l;&c_je;&c_je; <ind>
   &c_t;&c_o;&c_n;&c_k;&c_i;&c_j;</ind><klr tip="ind"> (&c_m;&c_a;&c_t;.)
   </klr></trd>
-  <trd lng="sk">jemnejší</trd>
+  <trd lng="sk">jemnej&scaron;&iacute;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.21  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.103 2023/08/29 20:26:41
+Wolfram Diestel: ja: prononco
 
-Revision 1.20  2012/08/29 17:10:10  revo
-Marc Rausell: + trd ca
+versio 1.102 2023/04/30 08:28:48
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.19  2010/03/03 17:30:57  revo
-Russ Williams: +trd en
+versio 1.101 2023/04/14 05:27:16
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.18  2009/10/19 16:30:43  revo
-Paul Peeraerts: +nl
+versio 1.100 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.17  2007/12/05 17:30:23  revo
-Sebastian Cyprych: +trd pl
+versio 1.99 2021/12/07 20:34:03
+Wolfram Diestel: +tld
 
-Revision 1.16  2007/05/13 16:30:40  revo
-Tulio Flores: +tr pt
+versio 1.98 2021/06/24 21:25:35
+Wolfram Diestel: ekz-oj el Tekstaro, rim: nuancigo de pli malpli sinonimaj adjektivoj
 
-Revision 1.15  2005/02/07 17:31:55  revo
-Dmitri Gabinski: +trd be
+versio 1.24 2020/09/12 08:32:31
+Wolfram Diestel: +snc-mrk, pliaj ref-oj (sin/ant)
 
-Revision 1.14  2003/09/17 16:31:28  revo
-Yury Finkel: kor ref cel
-
-Revision 1.13 2003/09/16 16:31:23 revo
+versio 1.23 2020/09/11 06:32:23
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: inflam.xml,v 1.28 2010/02/22 17:30:23 revo Exp $">
+<art mrk="$Id: inflam.xml,v 1.34 2023/08/31 16:40:57 revo Exp $">
 <kap>
   <ofc>4</ofc> <rad>inflam</rad>/o
 </kap>
@@ -26,11 +25,11 @@
   <trd lng="be">&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trdgrp lng="cs">
     <trd>inflamace</trd>,
-    <trd>vznícení</trd>,
-    <trd>vznět</trd>,
-    <trd>vzplanutí</trd>,
-    <trd>zapálení</trd>,
-    <trd>zážeh</trd>
+    <trd>vzn&#xED;cen&#xED;</trd>,
+    <trd>vzn&#x11B;t</trd>,
+    <trd>vzplanut&#xED;</trd>,
+    <trd>zap&#xE1;len&#xED;</trd>,
+    <trd>z&#xE1;&#x17E;eh</trd>
   </trdgrp>
   <trd lng="de">Entz&uuml;ndung<klr tip="ind"> (Med.)</klr></trd>
   <trd lng="en">inflammation</trd>
@@ -38,13 +37,15 @@
   <trd lng="fr">inflammation<klr tip="ind"> (m&eacute;d.)</klr></trd>
   <trd lng="hu">gyullad&aacute;s</trd>
   <trd lng="it">infiammazione<klr> (med.)</klr></trd>
+  <trd lng="ja">&#x708E;&#x75C7;  [<ind>&#x3048;&#x3093;&#x3057;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="nl">ontsteking<klr tip="ind"> (med.)</klr></trd>
   <trd lng="pt">inflama&ccedil;&atilde;o<klr tip="amb"> (medicina)</klr></trd>
   <trd lng="ru">&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>vzplanutie</trd>,
-    <trd>zapálenie</trd>
+    <trd>zap&#xE1;lenie</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&c_a;&#x43F;&c_a;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="inflam.0i">
@@ -56,9 +57,14 @@
       Esti en stato de <tld/>o.
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_ja;&c_t;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; &c_s;&c_t;&c_a;&c_n;&c_je; <ind>&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  </trdgrp>
   <trdgrp lng="cs">
-    <trd>být zanícen</trd>,
-    <trd>zanítit se</trd>
+    <trd>b&#xFD;t zan&#xED;cen</trd>,
+    <trd>zan&#xED;tit se</trd>
   </trdgrp>
   <trd lng="de">entz&uuml;ndet sein</trd>
   <trd lng="en">be inflamed</trd>
@@ -70,10 +76,12 @@
     <trd>gyulladt</trd>
   </trdgrp>
   <trd lng="it">essere <ind>infiammato</ind><klr> (med.)</klr></trd>
+  <trd lng="ja">&#x708E;&#x75C7;&#x3092;&#x8D77;&#x3053;&#x3057;&#x3066;&#x3044;&#x308B;  [<ind>&#x3048;&#x3093;&#x3057;&#x3087;&#x3046;&#x3092;&#x304A;&#x3053;&#x3057;&#x3066;&#x3044;&#x308B;</ind>]</trd>
   <trd lng="nl">ontstoken zijn</trd>
   <trd lng="pt">inflamar-se<klr tip="amb"> (medicina)</klr></trd>
   <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; <ind>&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_m;</ind></trd>
-  <trd lng="sk">zapáliť sa <klr>(lek.)</klr></trd>
+  <trd lng="sk">zap&#xE1;li&tcaron; sa <klr>(lek.)</klr></trd>
+  <trd lng="uk">&c_b;&c_u;&c_t;&c_i; &c_v; &c_s;&c_t;&c_a;&#x43D;&c_ib; &c_z;&c_a;&#x43F;&c_a;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="inflam.0a">
@@ -84,9 +92,14 @@
       En stato de <tld/>o.
     </dif>
   </snc>
-  <trd lng="cs">zanícený</trd>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_l;&c_jo;&c_n;&c_y;</trd>,
+    <trd>&c_u; &c_s;&c_t;&c_a;&c_n;&c_je; <ind>&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="cs">zan&#xED;cen&#xFD;</trd>
   <trd lng="en">inflamed</trd>
-  <trd lng="sk">zapálený</trd>
+  <trd lng="sk">zap&#xE1;len&#xFD;</trd>
+  <trd lng="uk">&c_z;&c_a;&#x43F;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="inflam.0igi">
@@ -97,6 +110,7 @@
       Ka&ubreve;zi <tld/>on.
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol; <ind>&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   <trd lng="de">entz&uuml;nden</trd>
   <trdgrp lng="en">
     <trd>inflame</trd>,
@@ -106,9 +120,11 @@
   <trd lng="fr">enflammer<klr tip="ind"> (m&eacute;d.)</klr></trd>
   <trd lng="hu">gyullad&aacute;sba hoz</trd>
   <trd lng="it">infiammare<klr> (med.)</klr></trd>
+  <trd lng="ja">&#x708E;&#x75C7;&#x3092;&#x8D77;&#x3053;&#x3055;&#x305B;&#x308B;  [<ind>&#x3048;&#x3093;&#x3057;&#x3087;&#x3046;&#x3092;&#x304A;&#x3053;&#x3055;&#x305B;&#x308B;</ind>]</trd>
   <trd lng="nl">ontsteking veroorzaken<klr tip="ind"> (med.)</klr></trd>
   <trd lng="pt">inflamar<klr tip="amb"> (medicina)</klr></trd>
   <trd lng="ru">&c_v;&c_y;&c_z;&c_v;&c_a;&c_t;&c_mol; <ind>&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="uk">&c_v;&c_i;&#x43A;&#x43B;&c_i;&#x43A;&c_a;&c_t;&c_i; &c_z;&c_a;&#x43F;&c_a;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="inflam.gorgx0o">
@@ -117,6 +133,7 @@
   <snc>
     <ref tip="dif" cel="laring1.0o">laringito</ref>
   </snc>
+  <trd lng="be">&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; <ind>&c_g;&c_o;&c_r;&c_l;&c_a;</ind></trd>
   <trd lng="de">Halsentz&uuml;ndung</trd>
   <trdgrp lng="en">
     <trd>throat inflammation</trd>,
@@ -128,6 +145,7 @@
     <trd><ind>infiammazione</ind> della gola</trd>,
     <trd>mal di <ind>gola</ind><klr> (infiammazione)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x5589;&#x982D;&#x708E;  [<ind>&#x3053;&#x3046;&#x3068;&#x3046;&#x3048;&#x3093;</ind>]</trd>
   <trd lng="nl">keelontsteking</trd>
   <trd lng="pt">inflama&ccedil;&atilde;o de garganta</trd>
   <trd lng="ru">&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je; &c_g;&c_o;&c_r;&c_l;&c_a;</trd>
@@ -139,7 +157,8 @@
   <snc>
     <ref tip="dif" cel="oftalm.0o">oftalmito</ref>
   </snc>
-  <trd lng="cs">oční zánět</trd>
+  <trd lng="be">&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; <ind>&c_v;&c_o;&c_k;&c_a;</ind></trd>
+  <trd lng="cs">o&#x10D;n&#xED; z&#xE1;n&#x11B;t</trd>
   <trd lng="de">Augenentz&uuml;ndung</trd>
   <trd lng="en">eye inflammation</trd>
   <trd lng="hu">szemgyullad&aacute;s</trd>
@@ -147,10 +166,11 @@
     <trd>oftalmite</trd>,
     <trd><ind>infiammazione</ind> degli occhi</trd>
   </trdgrp>
+  <trd lng="ja">&#x773C;&#x708E;  [<ind>&#x304C;&#x3093;&#x3048;&#x3093;</ind>]</trd>
   <trd lng="nl">oogontsteking</trd>
   <trd lng="pt">inflama&ccedil;&atilde;o de olho</trd>
   <trd lng="ru">&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je; &c_g;&c_l;&c_a;&c_z;&c_a;</trd>
-  <trd lng="sk">očný zápal</trd>
+  <trd lng="sk">o&#x10D;n&#xFD; z&#xE1;pal</trd>
 </drv>
 
 <drv mrk="inflam.orel0o">
@@ -159,6 +179,10 @@
   <snc>
     <ref tip="dif" cel="otit.0o">otito</ref>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; <ind>&c_v;&c_u;&c_h;&c_a;</ind></trd>,
+    <trd>&c_a;&c_t;&c_y;&c_t;</trd>
+  </trdgrp>
   <trd lng="de">Mittelohrentz&uuml;ndung</trd>
   <trdgrp lng="en">
     <trd>ear inflammation</trd>,
@@ -166,6 +190,7 @@
   </trdgrp>
   <trd lng="fr">otite</trd>
   <trd lng="it">otite</trd>
+  <trd lng="ja">&#x8033;&#x708E;  [<ind>&#x3058;&#x3048;&#x3093;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>oorontsteking</trd>,
     <trd>otitis</trd>
@@ -178,8 +203,12 @@
   <snc>
     <ref tip="dif" cel="pneuxm2.0o">pne&ubreve;monio</ref>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; <ind>&c_l;&c_jo;&c_g;&c_k;&c_ib;&c_h;</ind></trd>,
+    <trd>&c_p;&c_n;&c_e;&c_w;&c_m;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  </trdgrp>
   <trd lng="ca">pneum&ograve;nia</trd>
-  <trd lng="cs">zápal plic</trd>
+  <trd lng="cs">z&#xE1;pal plic</trd>
   <trdgrp lng="de">
     <trd>Pneumonie</trd>,
     <trd>Lungenentz&uuml;ndung</trd>
@@ -194,6 +223,7 @@
   </trdgrp>
   <trd lng="hu">t&uuml;d&odblac;gyullad&aacute;s</trd>
   <trd lng="it">polmonite</trd>
+  <trd lng="ja">&#x80BA;&#x708E;  [<ind>&#x306F;&#x3044;&#x3048;&#x3093;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>longontsteking</trd>,
     <trd>pneumonie</trd>
@@ -203,11 +233,14 @@
     <trd>&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je; &c_l;&c_jo;&c_g;&c_k;&c_i;&c_h;</trd>,
     <trd>&c_p;&c_n;&c_je;&c_v;&c_m;&c_o;&c_n;&c_i;&c_ja;</trd>
   </trdgrp>
-  <trd lng="sk">zápal pľúc</trd>
+  <trd lng="sk">z&#xE1;pal p&#x13E;&#xFA;c</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.33 2023/03/29 12:51:49
+Dmitri Gabinski: + trd be
+
 Revision 1.30  2015/06/29 16:33:15  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -227,11 +260,5 @@ Revision 1.25  2009/08/08 16:34:21  revo
 Wieland Pusch: +trd de
 
 Revision 1.24  2009/07/11 16:31:02  revo
-Mireille Corobu: aldonoj:orelinflamo
-
-Revision 1.23  2007/07/12 16:30:46  revo
-Wieland Pusch: +trd de
-
-Revision 1.22  2005/11/01 17:32:33  revo
 -->
 </vortaro>

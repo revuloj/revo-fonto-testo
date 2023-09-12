@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: estr.xml,v 1.20 2010/04/01 16:30:43 revo Exp $">
+<art mrk="$Id: estr.xml,v 1.38 2023/09/03 18:27:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>estr</rad>/
@@ -10,15 +9,87 @@
 <subart>
 <drv mrk="estr.0">
   <kap>-<tld/></kap>
-  <snc>
-  <dif>
-  Sufikso signifanta tiun, kiu efektive direktas, funkciigas la aferon,
-  montritan de la radiko:
-  <ekz>
-  &scirc;ip<tld/>o, ofic<tld/>o, hotel<tld/>o, urb<tld/>o,
-  regn<tld/>o<fnt>Z</fnt>.
-  </ekz>
-  </dif>
+  <snc mrk="estr.0.sufikso">
+    <dif>
+      Sufikso signifanta tiun, kiu efektive direktas, funkciigas la aferon,
+      montritan de la radiko:
+      <ekz>
+        la &scirc;ipanoj devas obei la &scirc;ip<tld/>on
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la regn<tld/>o de nia lando estas <klr>[&#8230;]</klr> sa&gcirc;a re&gcirc;o
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 37</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        imperi<tld/>ino
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        milit<tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 21:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mil<tld/>oj, cent<tld/>oj, kvindek<tld/>oj, kaj dek<tld/>oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 18:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        polic<tld/>o
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Faraono koleri&gcirc;is kontra&ubreve; siaj du korteganoj, kontra&ubreve; la vinist<tld/>o kaj
+        kontra&ubreve; la bakist<tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 40:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la palac<tld/>o kaj la urb<tld/>o kaj la pleja&gcirc;uloj <klr>[&#8230;]</klr> sendis al <nom>Jehu</nom>
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 10:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la urb<tld/>o staris &ccirc;e la malfermita fenestro
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;i estis tute senta&ubreve;ga</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lokomotiv<tld/>oj estas egale fieraj, kiam iliaj ma&scirc;inoj estas ornamitaj,
+        kiel dom<tld/>ino, kiam &scirc;iaj &ccirc;ambroj estas ordigitaj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vila&gcirc;ano kreditas, vila&gcirc;<tld/>o pruntas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
   <trd lng="io">-estr</trd>
 </drv>
@@ -26,21 +97,70 @@
 
 <subart>
 <dif>
-Samsignifa memstara vortero.
+  Samsignifa memstara vortero.
 </dif>
 <drv mrk="estr.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc>
     <dif>
       Iu, kiu estas &ccirc;e supera kaj unua rango, kaj posedas
-      efektivan
-      ordonpovon:
+      efektivan ordonpovon:
       <ekz>
-        el la <tld/>o vi fari&gcirc;os sklavo;
+        la <tld/>oj de la komunumo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 4:34</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        lernej<tld/>o, labor<tld/>o<fnt>Z</fnt>,
-        cent<tld/>o<fnt>Z</fnt>, gardist<tld/>o<fnt>Z</fnt>.
+        la <tld/>oj de la triboj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 1:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ho filino de la &Hcirc;aldeoj, &ccirc;ar oni ne plu nomos vin <tld/>ino de regnoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 47:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Klaro turnis sin al la <tld/>ino de la laborejo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> <tld/>o de la korpogardistoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 37:36</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la malliberejo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 39:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Jozef</nom> estis la estro super la lando, kaj li estis la vendanto de la greno por la
+        tuta popolo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 42:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Jozef</nom> ordonis al la <tld/>o de sia domo jene: plenigu la sakojn de tiuj homoj
+        per greno tiom, kiom ili nur povas porti
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 44:1</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
@@ -63,7 +183,8 @@ Samsignifa memstara vortero.
   </trdgrp>
   <trdgrp lng="de">
     <trd>Leiter</trd>,
-    <trd>Vorsitzender</trd>
+    <trd>Vorsitzender</trd>,
+    <trd>Vorsteher</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>leader</trd>,
@@ -88,6 +209,10 @@ Samsignifa memstara vortero.
     <trd>f&odblac;n&ouml;k</trd>
   </trdgrp>
   <trd lng="io">chefo</trd>
+  <trdgrp lng="ja">
+    <trd>&#38263;  [<ind>&#x306A;&#x304C;</ind>]</trd>,
+    <trd>&#38263;&#x5B98;  [<ind>&#x304B;&#x307F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>leider</trd>,
     <trd>hoofd<klr tip="ind"> (leider)</klr></trd>,
@@ -116,7 +241,14 @@ Samsignifa memstara vortero.
     <trd>predstaven&yacute;</trd>,
     <trd>ved&uacute;ci</trd>
   </trdgrp>
-  <trd lng="tp">jan lawa</trd>
+  <trd lng="tok">jan lawa</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_ch;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&#x43A;&#x43E;&#x43C;&c_a;&#x43D;&c_d;&c_i;&c_r;</trd>,
+    <trd>&c_d;&c_i;&c_r;&c_je;&#x43A;&c_t;&#x43E;&c_r;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_ib;&c_d;&c_u;&c_v;&c_a;&c_ch;</trd>,
+    <trd>&c_v;&c_a;&c_t;&c_a;&c_zh;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="estr.0i">
@@ -126,14 +258,32 @@ Samsignifa memstara vortero.
     <dif>
       Esti <tld/>o super, regi:
       <ekz>
-        <tld/>i firmon;
+        rigardinte la okulojn <klr>[&#8230;]</klr> de homo, kiu kutimis <tld/>i milionojn, la
+        pastro klini&gcirc;is &gcirc;is la tero
+        <fnt>
+          <bib>IKr</bib>
+          <vrk>La Miraklo de Purun Bhagat</vrk>
+        </fnt>;
       </ekz>
       <ekz>
-        en sia hejmo <tld/>as karbisto<fnt>Z</fnt>;
+        li nun trogranda&gcirc;is por labori, kaj lia filo nun <tld/>is la &scirc;ipon
+        <fnt>
+          <bib>Rob</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        li estrigis lin super la tuta Egipta lando
-        <fnt><bib>MT</bib>, <lok>&Gen; 41:43</lok></fnt>.
+        vi pensas, ke li havas grandan influon je <nom>Anna Sergeevna</nom>? &ndash; jes, sed neniu povas
+        longe <tld/>i &scirc;in
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la diablo <klr>[&#8230;]</klr> estras ilin kaj povas pereigi anka&ubreve; vin
+        <fnt>
+          <bib>ElektFab</bib>
+          <vrk>Du fratoj</vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -156,7 +306,10 @@ Samsignifa memstara vortero.
     <trd>velet</trd>,
     <trd>v&eacute;st</trd>
   </trdgrp>
-  <trd lng="de">leiten</trd>
+  <trdgrp lng="de">
+    <trd>leiten</trd>,
+    <trd>vorstehen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd><klr tip="ind">to </klr>lead</trd>,
     <trd>be the <ind>leader</ind> of</trd>,
@@ -166,11 +319,16 @@ Samsignifa memstara vortero.
     <trd>commander<klr tip="ind"> (diriger)</klr></trd>,
     <trd>diriger<klr tip="ind"> (exercer le commandement)</klr></trd>
   </trdgrp>
+  <trd lng="he">&lamed;&nun;&he;&lamed;</trd>
   <trdgrp lng="hu">
     <trd>vezet&odblac;</trd>,
     <trd>ir&aacute;ny&iacute;t&oacute;</trd>,
     <trd>f&odblac;n&ouml;k</trd>,
     <trd>vez&eacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#x306E;&#38263;&#12391;&#12354;&#x308B;  [&#xFF5E;<ind>&#x306E;&#12385;&#12423;&#12358;&#12391;&#12354;&#x308B;</ind>]</trd>,
+    <trd>&#29575;&#12356;&#x308B;  [<ind>&#12402;&#x304D;&#12356;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>leiden</trd>,
@@ -195,30 +353,56 @@ Samsignifa memstara vortero.
     <trd>by&tcaron; na &ccaron;ele</trd>,
     <trd>ovl&aacute;da&tcaron;</trd>
   </trdgrp>
-  <trd lng="tp">lawa</trd>
+  <trd lng="tok">lawa</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_je;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &#x43D;&c_a;&c_ch;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&#x43A;&#x43E;&#x43C;</trd>,
+    <trd>&#x43E;&c_ch;&#x43E;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="estr.0ado">
   <kap><tld/>ado</kap>
   <snc>
     <dif>
-      Ago <tld/>i.
+      Ago <tld/>i:
+      <ekz>
+        <klr>[li]</klr> devis akompani lin en la voja&gcirc;o kaj en la <tld/>ado
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Varsovia Akademio de Komputilaj Sciencoj kaj <tld lit="E"/>ado kaj Administrado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010636.php">La slovaka komputile</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <rim>
-      Ne konfuzu kun <ref cel="estrad.0o">estrad-o</ref>.
+      Ne konfuzu kun <ref tip="hom" cel="estrad.0o">estrad&middot;o</ref>.
     </rim>
   </snc>
-  <trd
-  lng="be">&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="be">&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trdgrp lng="cs">
     <trd>estr&aacute;da</trd>,
     <trd>p&oacute;dium</trd>
   </trdgrp>
   <trd lng="de">Leitung</trd>
   <trd lng="fr">direction<klr tip="ind"> (action de diriger)</klr></trd>
+  <trd lng="he">&dalet;&vav;&#x5BC;&kaf;&#x5B8;&fnun;</trd>
   <trdgrp lng="hu">
     <trd>vezet&eacute;s</trd>,
     <trd>ir&aacute;ny&iacute;t&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D71;&#29575;  [<ind>&#12392;&#12358;&#x305D;&#12388;</ind>]</trd>,
+    <trd>&#x91C7;&#x914D;  [<ind>&#12373;&#12356;&#x306F;&#12356;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>zarz&aogonek;dzanie</trd>,
@@ -228,62 +412,95 @@ Samsignifa memstara vortero.
     <trd>zwierzchnictwo</trd>
   </trdgrp>
   <trdgrp lng="ru">
-    <trd>&c_r;&c_u;&c_k;&c_o;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;<klr
-    tip="ind"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>,
-    <trd>&c_u;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;<klr
-    tip="amb"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
+    <trd>&c_r;&c_u;&c_k;&c_o;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;<klr tip="ind"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>,
+    <trd>&c_u;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;<klr tip="amb"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>vedenie</trd>,
     <trd>velenie</trd>
   </trdgrp>
-</drv>
-
-<drv mrk="estr.0eco">
-  <kap><tld/>eco</kap>
-  <snc>
-    <dif>
-      Ordonpovo de <tld/>o:
-      <ekz>
-        la kadukulejo, kiu estas sub lia <tld/>eco<fnt>Z</fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd
-  lng="be">&c_v;&c_ja;&c_r;&c_sh;&c_e;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
-  <trdgrp lng="cs">
-    <trd>vedouc&iacute; postaven&iacute;</trd>,
-    <trd>v&uring;dcovstv&iacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_je;&c_s;&c_t;&c_r;&c_a;&c_d;&c_a;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&#x43C;&#x43E;&c_s;&c_t;&#x43A;&c_i;</trd>
   </trdgrp>
-  <trd lng="de">Leitung</trd>
-  <trdgrp lng="fr">
-    <trd>autorit&eacute;</trd>,
-    <trd>direction<klr tip="ind"> (pouvoir de diriger)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>vezet&eacute;s</trd>,
-    <trd>ir&aacute;ny&iacute;t&aacute;s</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>w&lstroke;adza</trd>,
-    <trd>rz&aogonek;dy</trd>,
-    <trd>zwierzchno&sacute;&cacute;</trd>
-  </trdgrp>
-  <trd
-  lng="ru">&c_g;&c_l;&c_a;&c_v;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
-  <trd lng="sk">ved&uacute;ce postavenie</trd>
 </drv>
 
 <drv mrk="estr.0aro">
   <kap><ofc>*</ofc> <tld/>aro</kap>
   <snc>
     <dif>
-      Grupo de homoj, kiuj kune estas la plej alta gvida organo de
-      organiza&jcirc;o:
+      Grupo de homoj, kiuj kune estas la plej alta
+      gvida <ref tip="super" cel="organ.0o.KOMUNE">organo</ref> de
+      <ref tip="malprt" cel="organi2.0ajxo">organiza&jcirc;o</ref>:
       <ekz>
-        la <tld/>aro de kongreso, de firmo, de societo.
+        &ccirc;u eble la <tld/>aro certe scias, ke &ccirc;i tiu estas la Kristo?
+        <fnt>
+          <bib>NT</bib>
+          <lok>Johano 7:26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> neniun volis ofendi, precipe sian <tld/>aron
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova strata lanterno</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la alta <tld/>aro <klr>[&#8230;]</klr> eldiris la verdikton
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Kuristoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        koran dankon al la Kembri&gcirc;a urb<tld/>aro, kiu gastame zorgis pri nia bono
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne scias, kiel la <tld/>aro povis konfidi al li tian oficon: li estas pli
+        malbona ol jakobeno
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri tio povas ju&gcirc;i nur la <tld/>aro de la Lingva Komitato
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Vortaroj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;losilon <klr>[&#8230;]</klr> li transdonadis poste nur al la germana po&scirc;ta
+        <tld/>aro en Bremeno
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        skandalon en Irlando ka&ubreve;zis la kandidatigo de iama ju&gcirc;isto al la <tld/>aro de la
+        E&ubreve;ropa Investobanko
+        <fnt>
+          <aut>Garbhan MacAoidh/pg</aut>
+            <vrk><url ref="&Monato;/2000/007134.php">Malbona investo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 12</lok>
+          </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="jxuri.0o">&jcirc;urio</ref>,
+      <ref cel="komisi.0o">komisio</ref>,
+      <ref cel="komita.0o">komitato</ref>,
+      <ref cel="parti.0o.POL">partio<sncref/></ref>,
+      <ref cel="prezid.0anto">prezidanto</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_a;</trd>,
@@ -307,11 +524,17 @@ Samsignifa memstara vortero.
     <trd>conjunto de jefes</trd>
   </trdgrp>
   <trd lng="fr">direction<klr tip="ind"> (les dirigeants)</klr></trd>
+  <trd lng="he">&he;&nun;&he;&lamed;&he;</trd>
   <trdgrp lng="hu">
     <trd>vezet&odblac;s&eacute;g</trd>,
     <trd>f&odblac;n&ouml;ks&eacute;g</trd>
   </trdgrp>
   <trd lng="io">direktanta komitato</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E79;&#x90E8;  [<ind>&#x304B;&#12435;&#12406;</ind>]</trd>,
+    <trd>&#x5F79;&#x54E1;&#x4F1A;  [<ind>&#12420;&#x304F;&#12356;&#12435;&#x304B;&#12356;</ind>]</trd>,
+    <trd>&#29702;&#x4E8B;&#x4F1A;  [<ind>&#x308A;&#12376;&#x304B;&#12356;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>bestuur</trd>,
     <trd>directie</trd>,
@@ -336,44 +559,207 @@ Samsignifa memstara vortero.
     <trd>predstavenstvo</trd>,
     <trd>vrchnos&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_a;&c_v;&#x43B;&c_ib;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43A;&c_je;&c_r;&c_ib;&c_v;&#x43D;&c_i;&c_c;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&#x43D;&c_a;&c_ch;&c_a;&#x43B;&#x44C;&c_s;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_sh;&c_i;&#x43D;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="estr.0eco">
+  <kap><tld/>eco</kap>
+  <snc>
+    <dif>
+      Ordonpovo de <tld/>o:
+      <ekz>
+        <nom>Diotrefes</nom> <klr>[&#8230;]</klr> amas la <tld/>econ inter ili
+        <fnt>
+          <bib>NT</bib>
+          <lok>IIi. Johano 1:9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la patro balda&ubreve; fordonos al li la <tld/>econ kaj vivos ripoze en siaj kasteloj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la traveturanta oficisto volos anta&ubreve; &ccirc;io &ccirc;irka&ubreve;rigardi la kadukulejojn, kiuj
+        estas sub via <tld/>eco
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto unua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_ja;&c_r;&c_sh;&c_e;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>vedouc&iacute; postaven&iacute;</trd>,
+    <trd>v&uring;dcovstv&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Leitung</trd>
+  <trdgrp lng="fr">
+    <trd>autorit&eacute;</trd>,
+    <trd>direction<klr tip="ind"> (pouvoir de diriger)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vezet&eacute;s</trd>,
+    <trd>ir&aacute;ny&iacute;t&aacute;s</trd>
+  </trdgrp>
+  <trd lng="ja">&#x5A01;&#x4FE1;  [<ind>&#12356;&#12375;&#12435;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>w&lstroke;adza</trd>,
+    <trd>rz&aogonek;dy</trd>,
+    <trd>zwierzchno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_l;&c_a;&c_v;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">ved&uacute;ce postavenie</trd>
+  <trd lng="uk">&c_v;&c_je;&c_r;&c_h;&#x43E;&c_v;&c_je;&#x43D;&c_s;&c_t;&c_v;&#x43E;</trd>
+</drv>
+
+<drv mrk="estr.0igi">
+  <kap>
+    <tld/>igi
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="posten.en0igi">Enpostenigi</ref> kiel <tld/>o:
+      <ekz>
+        li <tld/>igis lin super sia domo, kaj transdonis en liajn manojn &ccirc;ion, kion li
+        havis
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 39:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kial do vi <tld/>igas vin super la komunumo <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 16:3</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        kiun mi <tld/>igu super ili? &ndash; <tld/>igu min, sinjoro &ndash; diris <nom>Domitius</nom>
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="avanc.0i">avanci</ref>gi,
+      <ref cel="ofic.en0igi">enoficigi</ref>,
+      <ref cel="instal.0i.enpostenigi">instali<sncref/></ref>,
+      <ref cel="kron.0i.honore">kroni<sncref/></ref>,
+      <ref cel="rang.pli0igi">plirangigi</ref>,
+      <ref cel="promoc.0i.POL">promocii<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_y;&c_c;&c_mol; <ind>&c_k;&c_ib;&c_r;&c_a;&c_w;&c_n;&c_ib;&c_k;&c_o;&c_m;</ind></trd>
+  <trdgrp lng="de">
+    <trd>als Vorstand <ind>einsetzen</ind></trd>,
+    <trd>die Leitung <ind>&uuml;bergeben</ind></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="estr.0arano">
   <kap><tld/>arano</kap>
   <snc>
     <dif>
-      Membro de <tld/>aro.
+      Membro de <tld/>aro:
+      <ekz>
+        la ministro pri edukado <klr>[estas]</klr> <tld/>arano de la separatisma partio
+       <fnt>
+       <aut>IRL</aut>
+          <vrk><url ref="&Monato;/2000/006826.php">&Ccirc;u pa&scirc;oj al paco?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ja dum pli ol 40 jaroj li okupis &scirc;losilajn poziciojn <klr>[&#8230;]</klr> kiel
+        prezidanto a&ubreve; <tld/>arano de TEJO kaj UEA
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2007/009211.php">Opinioj plej kompetentaj</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la teknikan funkciigon faris <klr>[li]</klr> kadre de sia agado kiel <tld/>arano
+        de Universala Esperanto-Asocio pri informado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Grigorij Arosev, Andrej Grigorjevskij</aut>
+          <vrk><url ref="&Monato;/2004/008210.html">Abonu!</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#8230;]</klr> volas silentigi la kritikon per revizio de la interna regularo
+        pri la <tld/>aranoj de Japana Banko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="&Monato;/2006/009053.php">Prezidanto de la japana centra banko
+          profitis</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estontece 35&#x202F;% de la <tld/>aranoj estu virinoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2011/010346.php">Koalicia kompromiso</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_ch;&c_a;&c_l;&c_je;&c_c; &c_r;&c_a;&c_d;&c_y; <ind>&c_d;&c_y;&c_r;&c_e;&c_k;&c_t;&c_a;&c_r;&c_a;&c_w;</ind></trd>
   <trdgrp lng="en">
     <trd>board member</trd>,
     <trd>director</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5F79;&#x54E1;  [<ind>&#12420;&#x304F;&#12356;&#12435;</ind>]</trd>,
+    <trd>&#29702;&#x4E8B;  [<ind>&#x308A;&#12376;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bestuurslid</trd>
+  <trd lng="uk">&c_ch;&#x43B;&c_je;&#x43D; &#x43F;&c_r;&c_a;&c_v;&#x43B;&c_ib;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 </subart>
 </art>
 <!--
 $Log$
-Revision 1.26  2017/12/19 15:10:24  revo
-Michel Cantigneaux: "estr/ar/o" fundamenta kunmetajxo el la U.V.
+versio 1.38 2023/09/03 18:27:40
+Wolfram Diestel: kor. ja ind
 
-Revision 1.25  2016/12/04 14:10:18  revo
-Robin van der Vliet: +trd
+versio 1.36 2023/04/30 07:23:42
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.24  2016/07/27 10:10:25  revo
-Agustin Garcia Lopez: +trd(es) -aro
+versio 1.35 2023/04/20 06:33:31
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.23  2015/07/04 08:37:33  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.34 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.22  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.33 2022/03/22 09:30:55
+Dmitri Gabinski: + trd be
 
-Revision 1.21  2014/02/05 16:10:13  revo
-Damien Brucker: Alia prezento kaj -adm
+versio 1.31 2021/05/22 14:50:58
+Wolfram Diestel: +ref-hom
 
-Revision 1.20  2010/04/01 16:30:43  revo
+versio 1.30 2021/04/02 07:51:29
+Wolfram Diestel: +~igi; ~i..~ano: ekz-oj
+
+versio 1.29 2021/04/01 20:50:43
 -->
 </vortaro>

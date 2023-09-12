@@ -1,18 +1,16 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: morusa.xml,v 1.5 2005/01/24 19:04:04 revo Exp $">
+<art mrk="$Id: morusa.xml,v 1.17 2022/03/23 14:02:26 revo Exp $">
 <kap>
   <rad>morusac</rad>/oj
 </kap>
 <drv mrk="morusa.0oj">
   <kap><tld/>oj</kap>
-  <uzo tip="fak">BOT</uzo>
   <snc mrk="morusa.0oj.BOT">
+  <uzo tip="fak">BOT</uzo>
     <dif>
-       <ref tip="lst" lst="voko:botanikaj_familioj"
-       cel="famili.0o.BIO">Familio</ref> de arboj  kaj arbedoj 
+       <ref tip="lst" lst="voko:botanikaj_familioj" cel="famili.0o.BIO">Familio</ref> de arboj  kaj arbedoj 
       el la ordo de rozoparencaj
       <ref tip="malprt" cel="flor.0oplant">floroplantoj</ref>
       (<trd lng="la">Moraceae</trd>) kun:
@@ -27,8 +25,7 @@
         lianoj el e&ubreve;forbiacoj, Fiscus elastica el <tld/>oj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=20149'>Ka&ubreve;&ccirc;uko</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=20149">Ka&ubreve;&ccirc;uko</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -38,8 +35,7 @@
         estas arbo origine de Orient-Hindio kaj Pacifikaj insuloj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=41583'>Panarbo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=41583">Panarbo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -49,15 +45,24 @@
   <trd lng="bg">&c_ch;&c_je;&c_r;&c_n;&c_i;&c_ch;&c_je;&c_v;&c_i;</trd>
   <trd lng="cs">moru&scaron;ovn&iacute;kovit&eacute;</trd>
   <trd lng="de">Maulbeergew&auml;chse</trd>
+  <trd lng="fr">Morac&eacute;es</trd>
   <trd lng="hu">eperfaf&eacute;l&eacute;k</trd>
   <trd lng="nl">moerbeienfamilie</trd>
-  <trd lng="ru">&c_t;&c_u;&c_t;&c_o;&c_v;&c_y;&c_je; <klr
-tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trd lng="pl">morwowate</trd>     
+  <trd lng="ro">moraceae</trd>
+  <trd lng="ru">&c_t;&c_u;&c_t;&c_o;&c_v;&c_y;&c_je; <klr tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
   <trd lng="sk">moru&scaron;ovit&eacute;</trd>
+  <trd lng="uk">&#x448;&#x43E;&#x432;&#x43A;&#x43E;&#x432;&#x438;&#x446;&#x435;&#x432;&#x456;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.16 2020/10/19 20:11:16
+Vito Redsky: +trd pl  + trd ro 
+
+versio 1.15 2020/05/18 10:10:43
+Damien Brucker: +trd fr
+
 Revision 1.13  2017/04/16 19:34:30  revo
 Wolfram Diestel: lst="voko:botanikaj_familioj"
 
@@ -74,8 +79,5 @@ Revision 1.9  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.8  2015/06/29 16:33:20  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.7  2013/11/10 18:10:17  revo
 -->
 </vortaro>

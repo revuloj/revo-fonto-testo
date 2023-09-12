@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dekolt.xml,v 1.12 2009/06/27 16:31:22 revo Exp $">
+<art mrk="$Id: dekolt.xml,v 1.19 2023/08/31 10:43:58 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>dekolt</rad>/i
@@ -37,18 +36,27 @@
     <trd>cut low</trd>
   </trdgrp>
   <trd lng="fr">d&eacute;colleter</trd>
+  <trd lng="he">&#x5DC;&#x5D7;&#x5E9;&#x5D5;&#x5E3;</trd>
   <trdgrp lng="hu">
     <trd>kiv&aacute;g<klr tip="ind"> (ruh&aacute;t)</klr></trd>,
     <trd>dekolt&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304F;&#x308B;</trd>,
+    <trd>&#x80A9;&#x3092;&#x3042;&#x3089;&#x308F;&#x306B;&#x3059;&#x308B;  [<ind>&#x304B;&#x305F;&#x3092;&#x3042;&#x3089;&#x308F;&#x306B;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>dekoltowa&cacute;</trd>,
     <trd>wydekoltowa&cacute;</trd>
   </trdgrp>
   <trd lng="pt">decotar</trd>
-  <trd
-  lng="ru">&c_d;&c_je;&c_k;&c_o;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_d;&c_je;&c_k;&c_o;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">dekoltova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x435;&#x43A;&#x43E;&#x43B;&#x44C;&#x442;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43E;&#x433;&#x43E;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438; &#x448;&#x438;&#x44E;</trd>,
+    <trd>&#x43F;&#x43B;&#x435;&#x447;&#x456;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dekolt.0ajxo">
@@ -65,7 +73,7 @@
         mia rigardo enprofundi&gcirc;is tra la <tld/>a&jcirc;o &gcirc;is la anta&ubreve;korto de &scirc;ia &leftquot;for&gcirc;ejo&rightquot;
         <fnt>
           <aut>Louis Beaucaire</aut>
-          <vrk><url ref='http://www.rulit.me/books/el-la-vivo-de-bervala-senta-read-400066-14.html'>El la vivo de bervala senta&ubreve;gulo</url></vrk>
+          <vrk><url ref="http://www.rulit.me/books/el-la-vivo-de-bervala-senta-read-400066-14.html">El la vivo de bervala senta&ubreve;gulo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -81,9 +89,14 @@
     <trd>d&eacute;colletage</trd>
   </trdgrp>
   <trd lng="fr">d&eacute;collet&eacute;</trd>
+  <trd lng="he">&#x5DE;&#x5D7;&#x5E9;&#x5D5;&#x5E3;</trd>
   <trdgrp lng="hu">
     <trd>ruhakiv&aacute;g&aacute;s</trd>,
     <trd>dekolt&aacute;zs</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30C7;&#x30B3;&#x30EB;&#x30C6;</trd>,
+    <trd>&#x895F;&#x3050;&#x308A;  [<ind>&#x3048;&#x308A;&#x3050;&#x308A;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>dekolt</trd>,
@@ -95,6 +108,7 @@
     <trd>&c_v;&c_y;&c_r;&c_je;&c_z;<klr tip="amb"> (&c_n;&c_a;
     &c_p;&c_l;&c_a;&c_t;&c_mol;&c_je;)</klr></trd>
   </trdgrp>
+  <trd lng="uk">&#x434;&#x435;&#x43A;&#x43E;&#x43B;&#x44C;&#x442;&#x435;</trd>
 </drv>
 
 <drv mrk="dekolt.0ita">
@@ -108,7 +122,7 @@
         korsa&jcirc;o <klr>[...]</klr> havas forpreneblajn manikojn a&ubreve; neniujn manikojn, ofte dekoltita, portita en E&ubreve;ropo de la 16-a jarcento &gcirc;is la 18-a jarcento
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=490290'>Korsa&jcirc;o</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=490290">Korsa&jcirc;o</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -131,10 +145,12 @@
   <trd lng="ca">escotat</trd>
   <trd lng="de">ausgeschnitten <klr>(Kleid)</klr></trd>
   <trd lng="en">d&eacute;collet&eacute;</trd>
+  <trd lng="he">&#x5D7;&#x5E9;&#x5D5;&#x5E3;</trd>
   <trdgrp lng="hu">
     <trd>kiv&aacute;gott<klr tip="ind"> (ruha)</klr></trd>,
     <trd>dekolt&aacute;lt</trd>
   </trdgrp>
+  <trd lng="ja">&#x895F;&#x3050;&#x308A;&#x306E;&#x5927;&#x304D;&#x3044;  [<ind>&#x3048;&#x308A;&#x3050;&#x308A;&#x306E;&#x304A;&#x304A;&#x304D;&#x3044;</ind>]</trd>
   <trd lng="pl">wydekoltowany</trd>
   <trd lng="pt">decotado</trd>
   <trd lng="ru">&c_d;&c_je;&c_k;&c_o;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>

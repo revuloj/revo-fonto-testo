@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: teatr.xml,v 1.49 2023/09/04 18:15:45 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
   <rad>teatr</rad>/o
@@ -22,21 +21,22 @@
         <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>;
       </ekz>
       <ekz>
-        &scirc;i ne dancas, &#8208; &scirc;i ne fumas, <klr>[&#8230;]</klr> &scirc;i ne revas pri
+        &scirc;i ne dancas, &#x2010; &scirc;i ne fumas, <klr>[&#x2026;]</klr> &scirc;i ne revas pri
         <tld/>o
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         la historio de e&ubreve;ropa <tld/>o
         <fnt>
+          <aut>div.</aut>
+          <vrk><url ref="&Monato;/1993/A931002.php">Noticoj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato1/monato-9310-artikoletoj.txt">Malkopiilo</url></vrk>
-        </fnt>;
+          <lok>1993/10, p. 4</lok>
+         </fnt>;
       </ekz>
       <ekz>
         de miaj infanaj jaroj mi amas la <tld/>on
@@ -49,11 +49,10 @@
         iuj instancoj estis ekscititaj, aliaj parolis pri somera <tld/>o
         <klr>(politika <ref tip="sub" cel="fars.0o">farso</ref> dum
         someraj ferioj)</klr>
-        <fnt>
+        <fnt><aut>Maul Stefan</aut>: 
+          <vrk><url ref="&Monato;/2000/007149.php">Reform-fiasko</url></vrk>,
           <bib>Monato</bib>
-          <aut>Maul Stefan</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007149.html">Reform-fiasko</url></vrk>
+          <lok>2000/11, p. 12</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -69,7 +68,7 @@
     <dif>
       <ref tip="dif" cel="teatr.0ejo"><tld lit="T"/>ejo</ref>:
       <ekz>
-         oni kure kolekti&gcirc;is <klr>[&#8230;]</klr> en la <tld/>on
+         oni kure kolekti&gcirc;is <klr>[&#x2026;]</klr> en la <tld/>on
         <fnt>
           <bib>NT</bib>
           <lok>La agoj 19:29</lok>
@@ -84,14 +83,14 @@
       </ekz>
       <ekz>
         vespere okazis prezentado en fama amatora <tld/>o,
-        <klr>[&#8230;]</klr> &ccirc;iuj lokoj en la <tld/>o estis okupitaj
+        <klr>[&#x2026;]</klr> &ccirc;iuj lokoj en la <tld/>o estis okupitaj
         <fnt>
           <bib>Fab1</bib>
           <lok>Galo&scirc;oj de feli&ccirc;o</lok>
         </fnt>;
       </ekz>
       <ekz>
-        pro &scirc;ia bela vo&ccirc;o <klr>[&#8230;]</klr> oni &scirc;in akceptis en la <tld/>on
+        pro &scirc;ia bela vo&ccirc;o <klr>[&#x2026;]</klr> oni &scirc;in akceptis en la <tld/>on
         <fnt>
           <bib>Fab3</bib>
           <lok>Sub la saliko</lok>
@@ -104,7 +103,7 @@
     </dif>
     <trd lng="es">teatro</trd>
     <trd lng="pl">teatr</trd>
-    <trd lng="zh">&#21095;&#22330; [<ind>j&ugrave;ch&#462;ng</ind>]</trd>
+    <trd lng="zh">&#x5267;&#x573A; [<ind>j&ugrave;ch&#x1CE;ng</ind>]</trd>
   </snc>
   <snc mrk="teatr.0o.spektantaro">
     <uzo tip="stl">FIG</uzo>
@@ -137,7 +136,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la vivo tie estas delikata <klr>[&#8230;]</klr>: <tld/>oj, hundoj por
+        la vivo tie estas delikata <klr>[&#x2026;]</klr>: <tld/>oj, hundoj por
         vi dancas, kaj &ccirc;io, kion vi volas
         <fnt>
           <bib>Revizoro</bib>
@@ -156,6 +155,7 @@
   </snc>
 -->
   <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bo">&#xF5F;&#xFB3;&#xF7C;&#xF66;&#xF0B;&#xF42;&#xF62;&#xF0B;&#xF41;&#xF44;&#xF0B;</trd>
   <trd lng="cs">divadlo</trd>
   <trd lng="de">Theater</trd>
   <trd lng="en">theatre</trd>
@@ -165,6 +165,13 @@
   </trdgrp>
   <trd lng="hu">sz&iacute;nh&aacute;z</trd>
   <trd lng="id">teater</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5287;&#x5834;  [<ind>&#x3052;&#x304D;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x821E;&#x53F0;  [<ind>&#x3076;&#x305F;&#x3044;</ind>]</trd>,
+    <trd>&#x5287;&#x56E3;  [<ind>&#x3052;&#x304D;&#x3060;&#x3093;</ind>]</trd>,
+    <trd>&#x6F14;&#x5287;  [<ind>&#x3048;&#x3093;&#x3052;&#x304D;</ind>]</trd>,
+    <trd>&#x829D;&#x5C45;  [<ind>&#x3057;&#x3070;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>theater</trd>,
     <trd>toneel</trd>
@@ -176,6 +183,7 @@
   <trd lng="ru">&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
   <trd lng="sk">divadlo</trd>
   <trd lng="sv">teater</trd>
+  <trd lng="uk">&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
 </drv>
 
 <drv mrk="teatr.0a">
@@ -235,6 +243,13 @@
     <trd>th&eacute;&acirc;tral</trd>
     <trd>th&eacute;&acirc;trale</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5287;&#x5834;&#x306E;  [<ind>&#x3052;&#x304D;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x5287;&#x306E;  [<ind>&#x3052;&#x304D;&#x306E;</ind>]</trd>,
+    <trd>&#x6F14;&#x5287;&#x306E;  [<ind>&#x3048;&#x3093;&#x3052;&#x304D;&#x306E;</ind>]</trd>,
+    <trd>&#x829D;&#x5C45;&#x304C;&#x304B;&#x3063;&#x305F;  [<ind>&#x3057;&#x3070;&#x3044;&#x304C;&#x304B;&#x3063;&#x305F;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_t;&c_je;&c_a;&c_t;&c_r;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <!-- sola ekz-o - &#331;i jam aperas sub ~o
@@ -289,10 +304,10 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
       <ekz>
         tio estis mirinde bela <tld/>a&jcirc;o kaj tute ne malgaja, sed &gcirc;uste
         en la
-        momento, kiam la re&gcirc;ino sin levis <klr>[&#8230;]</klr> la hundo, ne
+        momento, kiam la re&gcirc;ino sin levis <klr>[&#x2026;]</klr> la hundo, ne
         tenata
-        <klr>[&#8230;]</klr> saltis en la <tld/>on, kaptis la re&gcirc;inon
-        <klr>[&#8230;]</klr>
+        <klr>[&#x2026;]</klr> saltis en la <tld/>on, kaptis la re&gcirc;inon
+        <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Fab1</bib>
           <lok>Vojkamarado</lok>
@@ -303,7 +318,7 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
         <fnt>
           <bib>Monato</bib>
           <aut>Thomas S&Uuml;LZLE</aut>
-          <vrk><url ref="https://www.monato.be/2003/007993.html">Komenco
+          <vrk><url ref="&Monato;/2003/007993.html">Komenco
           de la teatra maratono</url></vrk>
         </fnt>;
       </ekz>
@@ -333,6 +348,11 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
     <trd>sz&iacute;nm&udblac;</trd>,
     <trd>sz&iacute;ndarab</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x622F;&#x66F2;  [<ind>&#x304E;&#x304D;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x5287;  [<ind>&#x3052;&#x304D;</ind>]</trd>,
+    <trd>&#x51FA;&#x3057;&#x7269;  [<ind>&#x3060;&#x3057;&#x3082;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">toneelstuk</trd>
   <trdgrp lng="pl">
     <trd>sztuka <ind>teatralna</ind></trd>,
@@ -340,6 +360,10 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
     <trd>spektakl <ind>teatralny</ind></trd>,
   </trdgrp>
   <trd lng="ru">&c_p;&c_mol;&c_je;&c_s;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x2019;&c_jeu;&c_s;&c_a;</trd>,
+    <trd>&c_t;&c_je;&c_a;&c_t;&c_r;&c_a;&#x43B;&#x44C;&#x43D;&c_a; &#x43F;&#x43E;&c_s;&c_t;&c_a;&#x43D;&#x43E;&c_v;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="teatr.0ejo">
@@ -383,7 +407,7 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
   <trd lng="ru">&c_t;&c_je;&c_a;&c_t;&c_r;<klr tip="amb">
   (&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;)</klr></trd>
   <trd lng="sk">divadlo <klr>(budova)</klr></trd>
-  <trd lng="zh">&#21095;&#22330; [<ind>j&ugrave;ch&#462;ng</ind>]</trd>
+  <trd lng="zh">&#x5267;&#x573A; [<ind>j&ugrave;ch&#x1CE;ng</ind>]</trd>
 </drv>
 
 <drv mrk="teatr.film0o">
@@ -399,8 +423,7 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
         solena remalfermo en la <nom>Merkur</nom>-film<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=453186">Popolaltlernejo
+          <lok><url ref="https://eo.wikipedia.org/?curid=453186">Popolaltlernejo
           Arnstadt-Ilmenau</url></lok>
         </fnt>;
       </ekz>
@@ -432,10 +455,12 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
   <trd lng="es">cine</trd>
   <trd lng="fr">cin&eacute;matographe</trd>
   <trd lng="hu">filmsz&iacute;nh&aacute;z</trd>
+  <trd lng="ja">&#x6620;&#x753B;&#x9928;  [<ind>&#x3048;&#x3044;&#x304C;&#x304B;&#x3093;</ind>]</trd>
   <trd lng="nl">bioscoop</trd>
   <trd lng="pl">kino</trd>
   <trd lng="ru">&c_k;&c_i;&c_n;&c_o;&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
   <trd lng="sk">kino</trd>
+  <trd lng="uk">&#x43A;&c_ib;&#x43D;&#x43E;&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
 </drv>
 
 <drv mrk="teatr.ombro0o">
@@ -450,18 +475,16 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
         16-a jarcento el Egiptio
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=1766">Islamo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1766">Islamo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         <nom>Longdong</nom>-ombro<tld/>o tre furoris en la dinastioj
         <nom>Ming</nom> kaj <nom>Qing</nom>
-        <klr>[&#8230;]</klr> de la 14-a jarcento &gcirc;is la 19-a jarcento
+        <klr>[&#x2026;]</klr> de la 14-a jarcento &gcirc;is la 19-a jarcento
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://esperanto.cri.cn/chinaabc/chapter21/chapter210101.htm">
+          <vrk><url ref="&CRI;chinaabc/chapter21/chapter210101.htm">
           Ombroteatro</url></vrk>,
           <lok>&Ccirc;ina abc, [vidita en 2013]</lok>
         </fnt>.
@@ -469,6 +492,7 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
     </dif>
     <trd lng="de">Schattentheater</trd>
   </snc>
+  <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_a;&c_r; &c_c;&c_je;&c_n;&c_ja;&c_w;</trd>
   <trd lng="cs">st&iacute;nov&eacute; divadlo</trd>
   <trdgrp lng="es">
     <trd>teatro de sombras chinescas</trd>,
@@ -479,8 +503,10 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
     <trd>ombres chinoises</trd>,
     <trd>th&eacute;&acirc;tre d'ombres</trd>
   </trdgrp>
+  <trd lng="ja">&#x5F71;&#x7D75;&#x829D;&#x5C45;  [<ind>&#x304B;&#x3052;&#x3048;&#x3057;&#x3070;&#x3044;</ind>]</trd>
   <trd lng="pl">teatr cieni</trd>
   <trd lng="sk">tie&ncaron;ov&eacute; divadlo</trd>
+  <trd lng="uk">&c_t;&c_je;&c_a;&c_t;&c_r; &c_t;&c_ib;&#x43D;&c_je;&c_j;</trd>
 </drv>
 
 <drv mrk="teatr.pup0o">
@@ -515,7 +541,7 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
       <ekz>
         en la granda drink&ccirc;ambro de la gastejo estis tre multe da homoj,
         &ccirc;ar tie trovi&gcirc;is pup<tld/>isto
-        <klr>[&#8230;]</klr>, li &jcirc;us starigis sian malgrandan <tld/>on, kaj la
+        <klr>[&#x2026;]</klr>, li &jcirc;us starigis sian malgrandan <tld/>on, kaj la
         homoj sidis &ccirc;irka&ubreve;e, por rigardi la komedion
         <fnt>
           <bib>Fab1</bib>
@@ -535,6 +561,7 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
     <trd>th&eacute;&acirc;tre de marionnettes</trd>
   </trdgrp>
   <trd lng="hu">b&aacute;bsz&iacute;nh&aacute;z</trd>
+  <trd lng="ja">&#x4EBA;&#x5F62;&#x5287;  [<ind>&#x306B;&#x3093;&#x304E;&#x3087;&#x3046;&#x3052;&#x304D;</ind>]</trd>
   <trd lng="nl">poppentheater</trd>
   <trdgrp lng="pl">
     <trd>teatr lalek</trd>,
@@ -543,6 +570,7 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
   <trd lng="ru">&c_k;&c_u;&c_k;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_t;&c_je;&c_a;&c_t;&c_r;</ind></trd>
   <trd lng="sk">b&aacute;bkov&eacute; divadlo</trd>
   <trd lng="sv">dockteater</trd>
+  <trd lng="uk">&#x43B;&#x44F;&#x43B;&#x44C;&#x43A;&#x43E;&c_v;&c_i;&c_j; &c_t;&c_je;&c_a;&c_t;&c_r;</trd>
 </drv>
 
 <drv mrk="teatr.varieta0o">
@@ -558,8 +586,7 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
         <tld/>o en 1915
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=10511">Bochum</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=10511">Bochum</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -594,6 +621,10 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
     <trd>orfeum</trd>,
     <trd>zen&eacute;s kabar&eacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30D0;&#x30E9;&#x30A8;&#x30C6;&#x30A3;&#x30FC;&#x5287;&#x5834;  [<ind>&#x3070;&#x3089;&#x3048;&#x3066;&#x3043;&#x30FC;&#x3052;&#x304D;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5BC4;&#x5E2D;  [<ind>&#x3088;&#x305B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">variet&eacute;-theater</trd>
   <trdgrp lng="pl">
     <trd>kabaret</trd>,
@@ -604,10 +635,23 @@ manierojn <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>.
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_a;&c_t;&c_r; <ind>&c_v;&c_a;&c_r;&c_mol;&c_je;&c_t;&c_je;</ind></trd>
   <trd lng="sk">varietn&eacute; divadlo</trd>
+  <trd lng="uk">&c_t;&c_je;&c_a;&c_t;&c_r; &c_je;&c_s;&c_t;&c_r;&c_a;&c_d;&c_i;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.48 2023/04/19 14:28:04
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.47 2023/04/11 12:45:49
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.46 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.40 2022/01/27 15:42:10
+Dmitri Gabinski: + trd be
+
 Revision 1.37  2019/07/03 07:10:16  revo
 Aleks Andre: zh: teatro.2, teatrejo
 
@@ -618,14 +662,5 @@ Revision 1.35  2019/06/30 07:43:30  revo
 adaptis URL de Monato
 
 Revision 1.34  2018/08/09 17:10:14  revo
-Wolfram Diestel: prilaboris ekz-ojn; forigis troan snc, drv; germ-aj
-trd-oj
-
-Revision 1.33  2017/12/17 20:10:17  revo
-Michel Cantigneaux: aldonita per 1a OA kaj klarige fundamenta per 7a OA
-+ ekzemplo el la Ekzercaro
-
-Revision 1.32  2017/11/17 12:10:20  revo
-Guillermo Molleda Jimena: trd es
 -->
 </vortaro>

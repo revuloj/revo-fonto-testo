@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: horizo.xml,v 1.19 2009/09/17 16:30:54 revo Exp $">
+<art mrk="$Id: horizo.xml,v 1.27 2023/08/31 15:46:18 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>horizont</rad>/o
@@ -33,7 +32,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        suriri la supron de l' turo <klr>[&#8230;]</klr> kaj &ccirc;irka&ubreve;preni per la rigardo pli
+        suriri la supron de l' turo <klr>[&#x2026;]</klr> kaj &ccirc;irka&ubreve;preni per la rigardo pli
         vastan <tld/>on
         <fnt>
           <bib>Far2</bib>
@@ -105,8 +104,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Alberto Garc&iacute;a Fumero</aut>
-          <vrk><url ref="https://www.monato.be/2014/011252.php"
-              >Scienco kaj religio kunfluu, ne kverelu</url></vrk>
+          <vrk><url ref="&Monato;/2014/011252.php">Scienco kaj religio kunfluu, ne
+          kverelu</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -115,8 +114,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="https://www.monato.be/2015/011499.php"
-              >Limoj de lingvo, limoj de mondo</url></vrk>
+          <vrk><url ref="&Monato;/2015/011499.php">Limoj de lingvo, limoj de mondo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -125,8 +123,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Reinaldo Marcelo Ferreira</aut>
-          <vrk><url ref="https://www.monato.be/2007/009078.php"
-              >Interlingvistiko por &ccirc;iuj</url></vrk>
+          <vrk><url ref="&Monato;/2007/009078.php">Interlingvistiko por &ccirc;iuj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -135,8 +132,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="https://www.monato.be/2006/009006.php"
-              >Monar&hcirc;o-mistero: &ccirc;u murdo a&ubreve; sinmortigo?</url></vrk>
+          <vrk><url ref="&Monato;/2006/009006.php">Monar&hcirc;o-mistero: &ccirc;u murdo a&ubreve;
+          sinmortigo?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -144,8 +141,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marc Vanden Bempt kaj Pa&ubreve;l Peeraerts</aut>
-          <vrk><url ref="https://www.monato.be/2009/009714.php"
-              >Savintoj ne savitaj</url></vrk>
+          <vrk><url ref="&Monato;/2009/009714.php">Savintoj ne savitaj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -153,18 +149,18 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan MacAoidh</aut>
-          <vrk><url ref="https://www.monato.be/2005/008718.php"
-              >La gaela romanarto</url></vrk>
+          <vrk><url ref="&Monato;/2005/008718.php">La gaela romanarto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         tempo-<tld/>o
         <fnt>
-          <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007093.html"
-              >Internacia kunsido de financistoj en Prago</url></vrk>
-        </fnt>.
+          <aut>jpa</aut>
+            <vrk><url ref="&Monato;/2000/007093.php">Internacia kunsido de financistoj en
+            Prago</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 9</lok>
+          </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="hu">
@@ -184,15 +180,34 @@
   <trd lng="es">horizonte</trd>
   <trd lng="fr">horizon</trd>
   <trd lng="it">orizzonte</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5730;&#x5E73;&#x7DDA;  [<ind>&#x3061;&#x3078;&#x3044;&#x305B;&#x3093;</ind>]</trd>,
+    <trd>&#x6C34;&#x5E73;&#x7DDA;  [<ind>&#x3059;&#x3044;&#x3078;&#x3044;&#x305B;&#x3093;</ind>]</trd>,
+    <trd>&#x8996;&#x754C;  [<ind>&#x3057;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x7BC4;&#x56F2;  [<ind>&#x306F;&#x3093;&#x3044;</ind>]</trd>,
+    <trd>&#x5C64;&#x6E96;  [<ind>&#x305D;&#x3046;&#x3058;&#x3085;&#x3093;</ind>]</trd>,
+    <trd>&#x571F;&#x58CC;&#x306E;&#x5C64;&#x4F4D;  [<ind>&#x3069;&#x3058;&#x3087;&#x3046;&#x306E;&#x305D;&#x3046;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">horizon</trd>
   <trd lng="pl">horyzont</trd>
   <trd lng="pt">horizonte</trd>
   <trd lng="ru">&c_g;&c_o;&c_r;&c_i;&c_z;&c_o;&c_n;&c_t;</trd>
   <trd lng="sk">horizont</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_b;&c_r;&c_ib;&c_j;</trd>,
+    <trd>&c_v;&c_i;&c_d;&#x43D;&#x43E;&#x43A;&#x43E;&#x43B;&#x43E;</trd>,
+    <trd>&c_g;&#x43E;&c_r;&c_i;&c_z;&#x43E;&#x43D;&c_t;</trd>
+  </trdgrp>
 </drv>
   </art>
   <!--
   $Log$
+versio 1.26 2023/04/30 12:42:31
+Paul Peeraerts: Steloj -> monato
+
+versio 1.25 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
   Revision 1.22  2016/09/27 12:10:14  revo
   Sebastian Cyprych: +trd pl
 
@@ -209,38 +224,5 @@
   Russ Williams: +trd en
 
   Revision 1.17  2005/08/13 16:33:11  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.16  2005/06/26 16:33:54  revo
-  Alan ar Gall: +trd br
-
-  Revision 1.15  2005/04/28 16:36:12  revo
-  Raul Salinas Monteagudo: korekto trd es
-
-  Revision 1.14  2005/01/06 17:31:24  revo
-  Sergio Pokrovskij: +snc-mrk
-
-  Revision 1.13  2004/01/16 17:30:47  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.12  2002/10/23 20:38:57  revo
-  aktualigo de malnovaj fnt-indikoj enkondukante <bib>
-
-  Revision 1.11  2002/10/14 16:34:44  revo
-  Alejandro Mejia Greene: ald 1 his trd
-
-  Revision 1.10  2002/07/17 17:32:23  revo
-  Eduardo M. Kalinowski: ald trd el, pt
-
-  Revision 1.9  2002/01/23 17:31:34  revo
-  Marc Bavant: +trd fr, kor (f)
-
-  Revision 1.8  2001/11/30 17:32:44  revo
-  Paul Peeraerts: ald trd nl
-
-  Revision 1.7 2001/05/29 18:19:01 revo
-  Yury Finkel: +trd ru
-
-  Revision 1.6 2001/02/11 12:38:24 revo
-  -->
+-->
 </vortaro>

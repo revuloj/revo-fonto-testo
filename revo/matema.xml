@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: matema.xml,v 1.28 2009/10/11 16:30:24 revo Exp $">
+<art mrk="$Id: matema.xml,v 1.43 2023/09/02 06:04:10 revo Exp $">
 <kap>
    <ofc>1</ofc>
    <rad>matematik</rad>/o
@@ -15,8 +14,7 @@
      <uzo tip="fak">MAT</uzo>
      <uzo tip="fak">SCI</uzo>
      <dif>
-       <ref tip="lst" cel="scienc.0o.fako"
-       lst="voko:sciencoj">Scienco</ref>,
+       <ref tip="lst" cel="scienc.0o.fako" lst="voko:sciencoj">Scienco</ref>,
        kiu per rezonado, studas la ecojn de abstraktaj objektoj
        (nombroj,
        geometriaj figuroj, strukturoj, ktp) kaj la rilatojn inter ili.
@@ -41,8 +39,8 @@
      </adm>
    </snc>
   <trd lng="be">&c_m;&c_a;&c_t;&c_e;&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
-  <trd
-  lng="bg">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="bo">&#xF68;&#xF44;&#xF0B;&#xF62;&#xFA9;&#xF72;&#xF66;&#xF0B;</trd>
   <trd lng="br">matematik</trd>
   <trd lng="ca">matem&agrave;tica</trd>
   <trdgrp lng="cs">
@@ -63,15 +61,16 @@
   <trd lng="hu">matematika</trd>
   <trd lng="id">matematika</trd>
   <trd lng="io">matematiko</trd>
+  <trd lng="ja">&#x6570;&#x5B66;  [<ind>&#x3059;&#x3046;&#x304C;&#x304F;</ind>]</trd>
   <trd lng="nl">wiskunde</trd>
   <trd lng="pl">matematyka</trd>
   <trd lng="pt">matem&aacute;tica</trd>
   <trd lng="ro">matematic&abreve;</trd>
-   <trd
-   lng="ru">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+   <trd lng="ru">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
   <trd lng="sk">matematika</trd>
   <trd lng="sv">matematik</trd>
   <trd lng="tr">matematik</trd>
+  <trd lng="uk">&#x43C;&#x430;&#x442;&#x435;&#x43C;&#x430;&#x442;&#x438;&#x43A;&#x430;</trd>
   <trd lng="vo">matemat</trd>
 </drv>
 
@@ -102,6 +101,7 @@ C&eacute;r&eacute;sole, in&gcirc;eniero kaj
   <trd lng="hu">matematikus</trd>
   <trd lng="id">matematikawan</trd>
   <trd lng="io">matematikisto</trd>
+  <trd lng="ja">&#x6570;&#x5B66;&#x8005;  [<ind>&#x3059;&#x3046;&#x304C;&#x304F;&#x3057;&#x3083;</ind>]</trd>
   <trdgrp lng="nl">
      <trd>mathematicus</trd>,
      <trd>wiskundige</trd>
@@ -109,6 +109,7 @@ C&eacute;r&eacute;sole, in&gcirc;eniero kaj
    <trd lng="pt">matem&aacute;tico</trd>
   <trd lng="ru">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;</trd>
   <trd lng="sk">matematik</trd>
+  <trd lng="uk">&#x43C;&#x430;&#x442;&#x435;&#x43C;&#x430;&#x442;&#x438;&#x43A;</trd>
   <trd lng="vo">matematan</trd>
 </drv>
 </art>

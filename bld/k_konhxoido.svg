@@ -9,7 +9,8 @@
 ]>
 
 <svg version="1.1" 
-  width="21cm" height="10cm" 
+  xmlns="http://www.w3.org/2000/svg"
+  width="840" height="400" 
   viewBox="0 0 840 400"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   onload="start(evt,&scale;)">
@@ -46,7 +47,7 @@
         var t0 = -Math.PI/2, t1 = Math.PI/2;
         var parm, scale_xy;
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
+        var svgdoc = evt.target.ownerDocument;
 
         // Montri la aksojn
         var objet = svgdoc.getElementById("x_akso_pinto");
@@ -178,8 +179,8 @@
     -->
 
     <path id="kurbo1" class="kurbo" d=""/>
-    <text class="parametro">
-      <textPath xlink:href="#kurbo1" dy="-5" startOffset="76.5%">
+    <text class="parametro" dy="-5">
+      <textPath xlink:href="#kurbo1" startOffset="76.5%">
         <tspan style="font-style: italic">l</tspan> = 0,5
       </textPath>
     </text>
@@ -195,11 +196,11 @@
     <circle id="naskanto_1a" cx="" cy="" r="4" class="konstrupunkto"/>
     <circle id="naskanto_1b" cx="" cy="" r="4" class="konstrupunkto"/>
     <circle id="mezo_1" cx="" cy="" r="4" class="konstrupunkto"/>
-    <text id="naskanto_nomo_1a" x="" y="" class="punkto">
-      M<tspan baseline-shift="-50%" class="indico">1</tspan>
+    <text id="naskanto_nomo_1a" dx="-4" x="" y="" class="punkto">
+      M<tspan dy="5" class="indico">1</tspan>
     </text>
-    <text id="naskanto_nomo_1b" x="" y="" class="punkto">
-      M<tspan baseline-shift="-50%" class="indico">2</tspan>
+    <text id="naskanto_nomo_1b" dx="-4" x="" y="" class="punkto">
+      M<tspan dy="5" class="indico">2</tspan>
     </text>
     <text id="mezo_nomo_1" x="" y="" class="punkto">N</text>
 
@@ -207,17 +208,17 @@
       Klarigo
     -->
 
-    <g transform="translate(-70,-10) rotate(-90)">
-      <rect x="0" y="0" width="175" height="50" class="klarigo"/>
+    <g transform="translate(-70,15) rotate(-90)">
+      <rect x="0" y="0" width="210" height="50" class="klarigo"/>
       <text x="10" y="18" class="klarigo">
-        M<tspan baseline-shift="-50%" class="indico">1</tspan>N = 
-        M<tspan baseline-shift="-50%" class="indico">2</tspan>N = 
+        M<tspan dy="5" class="indico">1</tspan><tspan dy="-5">N = 
+        M</tspan><tspan dy="5" class="indico">2</tspan><tspan dy="-5">N = </tspan>
         <tspan style="font-style: italic">l</tspan>
       </text>
       <text x="10" y="40" class="klarigo">
-        O, M<tspan baseline-shift="-50%" class="indico">1</tspan>, 
-        M<tspan baseline-shift="-50%" class="indico">2</tspan>, N
-        samrektaj
+        O, M<tspan dy="5" class="indico">1</tspan><tspan dy="-5">, 
+        M</tspan><tspan dy="5" class="indico">2</tspan><tspan dy="-5">, N
+        samrektaj</tspan>
       </text>
     </g>
 
@@ -235,8 +236,8 @@
       <text x="0" y="&scale;" class="komento" text-anchor="begin">Konĥoido de rekto</text -->
 
       <path id="kurbo2" class="kurbo" d=""/>
-      <text class="parametro">
-        <textPath xlink:href="#kurbo2" dy="-5" startOffset="77%">
+      <text class="parametro" dy="-5">
+        <textPath xlink:href="#kurbo2" startOffset="77%">
           <tspan style="font-style: italic">l</tspan> = 1
         </textPath>
       </text>
@@ -252,11 +253,11 @@
       <circle id="naskanto_2a" cx="" cy="" r="4" class="konstrupunkto"/>
       <circle id="naskanto_2b" cx="" cy="" r="4" class="konstrupunkto"/>
       <circle id="mezo_2" cx="" cy="" r="4" class="konstrupunkto"/>
-      <text id="naskanto_nomo_2a" x="" y="" class="punkto">
-        M<tspan baseline-shift="-50%" class="indico">1</tspan>
+      <text id="naskanto_nomo_2a" dx="-4" x="" y="" class="punkto">
+        M<tspan dy="5" class="indico">1</tspan>
       </text>
-      <text id="naskanto_nomo_2b" x="" y="" class="punkto">
-        M<tspan baseline-shift="-50%" class="indico">2</tspan>
+      <text id="naskanto_nomo_2b" dx="-4" x="" y="" class="punkto">
+        M<tspan dy="5" class="indico">2</tspan>
       </text>
       <text id="mezo_nomo_2" x="" y="" class="punkto">N</text>
     </svg>
@@ -271,8 +272,8 @@
       <use xlink:href="#kadro"/>
 
       <path id="kurbo3" class="kurbo" d=""/>
-      <text class="parametro">
-        <textPath xlink:href="#kurbo3" dy="-5" startOffset="78.5%">
+      <text class="parametro" dy="-5">
+        <textPath xlink:href="#kurbo3" startOffset="78.5%">
           <tspan style="font-style: italic">l</tspan> = 1,5
         </textPath>
       </text>
@@ -288,11 +289,11 @@
       <circle id="naskanto_3a" cx="" cy="" r="4" class="konstrupunkto"/>
       <circle id="naskanto_3b" cx="" cy="" r="4" class="konstrupunkto"/>
       <circle id="mezo_3" cx="" cy="" r="4" class="konstrupunkto"/>
-      <text id="naskanto_nomo_3a" x="" y="" class="punkto">
-        M<tspan baseline-shift="-50%" class="indico">1</tspan>
+      <text id="naskanto_nomo_3a" dx="-4" x="" y="" class="punkto">
+        M<tspan dy="5" class="indico">1</tspan>
       </text>
-      <text id="naskanto_nomo_3b" x="" y="" class="punkto">
-        M<tspan baseline-shift="-50%" class="indico">2</tspan>
+      <text id="naskanto_nomo_3b" dx="-4" x="" y="" class="punkto">
+        M<tspan dy="5" class="indico">2</tspan>
       </text>
       <text id="mezo_nomo_3" x="" y="" class="punkto">N</text>
     </svg>

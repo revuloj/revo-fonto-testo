@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dekliv.xml,v 1.15 2009/09/23 17:25:25 revo Exp $">
+<art mrk="$Id: dekliv.xml,v 1.26 2023/08/31 10:43:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dekliv</rad>/o
@@ -11,14 +10,47 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="dekliv.0o.KOMUNE">
     <dif>
-      Oblikva, klinita supra&jcirc;o rilate al la horizontalo:
+      <ref cel="oblikv.0a">Oblikva</ref>, klinita supra&jcirc;o 
+      rilate al la horizontalo:
       <ekz>
-        kruta <tld/>o de monto.
+        la <tld/>o de la valoj <klr>[&#x2026;]</klr> turni&gcirc;as al la kolonio
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 21:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multe da homoj iras <klr>[&#x2026;]</klr> la&ubreve; la <tld/>o de la monto
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 13:34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen ili staris sur kruta <tld/>o apud klara lago
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Ib kaj malgranda kristino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ekvidis arbarkovritan <tld/>on senpere apud klara golfeto
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malgranda Tuk</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        milde levi&gcirc;anta <tld/>o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malgranda Tuk</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="th">
-      <trd>&#3621;&#3634;&#3604;</trd>,
-      <trd>&#3648;&#3629;&#3637;&#3618;&#3591;</trd>
+      <trd>&#xE25;&#xE32;&#xE14;</trd>,
+      <trd>&#xE40;&#xE2D;&#xE35;&#xE22;&#xE07;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -36,8 +68,18 @@
     <trd>svah</trd>
   </trdgrp>
   <trd lng="de">Abhang</trd>
+  <trdgrp lng="de">
+    <trd>Abhang</trd>,
+    <trd>Hang</trd>,
+    <trd>Gef&auml;lle</trd>,
+    <trd>Neigung</trd>
+  </trdgrp>
   <trd lng="en">slope</trd>
-  <trd lng="es">declive</trd>
+  <trdgrp lng="es">
+    <trd>declive</trd>,
+    <trd>inclinaci&oacute;n</trd>,
+    <trd>pendiente</trd>
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_s;&a_r;&a_A;&a_z;&f_y;&a_r;&f_y;</trd>,
     <trd>&a_s;&a_r;&a_A;&a_sh;&f_y;&a_b;&f_y;</trd>,
@@ -48,7 +90,16 @@
     <trd>pente</trd>,
     <trd>versant</trd>
   </trdgrp>
+  <trdgrp lng="he">
+    <trd>&mem;&#x5B4;&dalet;&resh;&vav;&#x5B9;&fnun;</trd>,
+    <trd>&shin;&yod;&pe;&vav;&ayin;</trd>
+  </trdgrp>
   <trd lng="hu">lejt&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5742;  [<ind>&#x3055;&#x304B;</ind>]</trd>,
+    <trd>&#x659C;&#x9762;  [<ind>&#x3057;&#x3083;&#x3081;&#x3093;</ind>]</trd>,
+    <trd>&#x50BE;&#x659C;  [<ind>&#x3051;&#x3044;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">helling</trd>
   <trdgrp lng="pl">
     <trd>pochy&lstroke;o&sacute;&cacute;</trd>,
@@ -72,7 +123,59 @@
     <trd>&c_s;&c_k;&c_a;&c_t;</trd>
   </trdgrp>
   <trd lng="sk">svah</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_h;&c_i;&#x43B;</trd>,
+    <trd>&c_s;&#x43F;&c_a;&c_d;</trd>,
+    <trd>&c_u;&#x43A;&c_ib;&c_s;</trd>,
+    <trd>&#x43E;&c_b;&c_r;&c_i;&c_v;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="dekliv.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Havanta klinitan supra&jcirc;on:
+      <ekz>
+        <nom>Phut</nom> metis la piedojn sur la <tld/>an plankon 
+        kaj tra la lar&gcirc;a koridoro komencis iri malsupren
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu grava konstrua&jcirc;o havis <tld/>ajn murojn, kvaza&ubreve; kuni&gcirc;antajn supren
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;evaloj pa&scirc;ti&gcirc;as sur la <ind><tld/>a&jcirc;o</ind>
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>.
+        <trd lng="de">B&ouml;schung</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>geneigt</trd>,
+    <trd>schr&auml;g</trd>,
+    <trd>absch&uuml;ssig</trd>
+  </trdgrp>
+  <trd lng="ja">&#x50BE;&#x659C;&#x3057;&#x305F;  [<ind>&#x3051;&#x3044;&#x3057;&#x3083;&#x3057;&#x305F;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_h;&c_i;&#x43B;&c_i;&c_j;</trd>,
+    <trd>&c_s;&#x43F;&c_a;&c_d;&c_i;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&#x43E;&#x43B;&#x43E;&c_zh;&c_i;&c_s;&c_t;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
 
 <drv mrk="dekliv.0i">
   <kap><tld/>i</kap>
@@ -80,13 +183,24 @@
     <dif>
       Havi alsupre a&ubreve; alsube klinitan surfacon:
       <ekz>
-        la vojo <klr>...</klr> zigzagis &ccirc;iudirekten, <tld/>ante
-        unue
-        supren kaj poste malsupren
+        &gcirc;uste ekster mia pordo la strato <tld/>is malsupren al malalta&jcirc;o
+        <fnt>
+          <bib>Kiso</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vojo <klr>[&#x2026;]</klr> zigzagis &ccirc;iudirekten, <tld/>ante
+        unue supren kaj poste malsupren
         <fnt><bib>DOz</bib>, <lok>&leftquot;la kavo de la
         draketoj&rightquot;</lok></fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="supr.al0i">alsupri</ref>,
+      <ref cel="ascend.0i.supreniri">ascendi</ref>,
+      <ref cel="descend.0i">descendi</ref>,
+      <ref cel="supr.de0i">desupri</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="ca">
     <trd>inclinar-se</trd>,
@@ -96,11 +210,21 @@
     <trd>m&iacute;t sklon</trd>,
     <trd>sva&zcaron;ovat se</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd><ind>schr&auml;g</ind> verlaufen</trd>,
+    <trd>sich <ind>neigen</ind></trd>
+  </trdgrp>
   <trd lng="en">slope</trd>
+  <trdgrp lng="es">
+    <trd>inclinarse</trd>,
+    <trd>tener pendiente</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>s'incliner<klr tip="amb"> (&ecirc;tre en pente)</klr></trd>,
     <trd>&ecirc;tre en <ind>pente</ind></trd>
   </trdgrp>
+  <trd lng="he">&mem;&#x5B4;&dalet;&resh;&vav;&#x5B9;&fnun;</trd>
+  <trd lng="ja">&#x50BE;&#x659C;&#x3057;&#x3066;&#x3044;&#x308B;  [<ind>&#x3051;&#x3044;&#x3057;&#x3083;&#x3057;&#x3066;&#x3044;&#x308B;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>hellen</trd>,
     <trd>glooien</trd>
@@ -117,6 +241,15 @@
 </art>
 <!--
 $Log$
+versio 1.25 2022/04/21 23:29:17
+Ulrich Fellmann: deklivo: + 3 DE trdj; dekliva: +1 DE trd
+
+versio 1.23 2021/10/09 07:25:30
+Wolfram Diestel: +~a; ekz-oj, ref-oj, trd de
+
+versio 1.22 2021/05/15 20:52:03
+Guillermo Molleda Jimena: +trd es
+
 Revision 1.19  2016/03/16 14:10:22  revo
 Warut Bunprasert: +trd th
 
@@ -130,11 +263,5 @@ Revision 1.16  2012/09/04 09:10:15  revo
 Marc Rausell: + trd ca
 
 Revision 1.15  2009/09/23 17:25:25  revo
-Paul Peeraerts: +nl
-
-Revision 1.14  2009/04/30 16:31:01  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.13  2007/07/19 16:31:18  revo
 -->
 </vortaro>

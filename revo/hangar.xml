@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hangar.xml,v 1.14 2009/08/28 16:32:59 revo Exp $">
+<art mrk="$Id: hangar.xml,v 1.22 2023/08/31 15:46:14 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>hangar</rad>/o <fnt><bib>SPV</bib></fnt>
@@ -48,6 +47,12 @@
   <trd>hangar</trd>, 
   <trd>aviorimessa</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x683C;&#x7D0D;&#x5EAB;  [<ind>&#x304B;&#x304F;&#x306E;&#x3046;&#x3053;</ind>]</trd>,
+    <trd>&#x7D0D;&#x5C4B;  [<ind>&#x306A;&#x3084;</ind>]</trd>,
+    <trd>&#x4E0A;&#x5C4B;  [<ind>&#x3046;&#x308F;&#x3084;</ind>]</trd>,
+    <trd>&#x5009;&#x5EAB;  [<ind>&#x305D;&#x3046;&#x3053;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>hangar</trd>,
     <trd>loods<klr tip="ind"> (hangar)</klr>
@@ -58,6 +63,7 @@
   <trd lng="ru">&c_a;&c_n;&c_g;&c_a;&c_r;</trd>
   <trd lng="sk">hang&aacute;r</trd>
   <trd lng="sv">hangar</trd>
+  <trd lng="uk">&#x430;&#x43D;&#x491;&#x430;&#x440;</trd>
 </drv>
 </art>
 <!--

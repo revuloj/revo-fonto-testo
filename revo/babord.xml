@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
- <art mrk="$Id: babord.xml,v 1.15 2009/02/10 14:19:03 revo Exp $">
+ <art mrk="$Id: babord.xml,v 1.22 2023/08/31 08:48:48 revo Exp $">
   <kap>
    <rad>babord</rad>/o
    <fnt>Z</fnt>
@@ -12,8 +11,7 @@
   <uzo tip="fak">MAR</uzo>
   <snc>
    <dif>
-    Maldekstra flanko de &scirc;ipo rigardante al la <ref tip="vid"
-    cel="pru.0o">pruo</ref>:
+    Maldekstra flanko de &scirc;ipo rigardante al la <ref tip="vid" cel="pru.0o">pruo</ref>:
     <ekz>
       la <tld/>o estas signita per ru&gcirc;a fajro.
     </ekz>
@@ -25,13 +23,14 @@
   <trd lng="bg">&c_p;&c_o;&c_r;&c_t;</trd>
   <trd lng="br">babourzh</trd>
   <trd lng="ca">babord</trd>
-  <trd lng="cs">levá strana lodi</trd>
+  <trd lng="cs">lev&#xE1; strana lodi</trd>
   <trd lng="de">Backbord</trd>
   <trd lng="en">port</trd>
   <trd lng="es">babor</trd>
   <trd lng="fr">babord</trd>
   <trd lng="hu">haj&oacute; <ind>baloldala</ind></trd>
   <trd lng="it">babordo</trd>
+  <trd lng="ja">&#x5DE6;&#x8237;  [<ind>&#x3055;&#x3052;&#x3093;</ind>]</trd>
   <trd lng="nl">bakboord</trd>
   <trdgrp lng="pl">
     <trd>bakburta</trd>,
@@ -42,8 +41,12 @@
    <trd>&c_b;&c_a;&c_k;&c_b;&c_o;&c_r;&c_t;</trd>,
    <trd>&c_l;&c_je;&c_v;&c_y;&c_j; &c_b;&c_o;&c_r;&c_t;</trd>
   </trdgrp>
-  <trd lng="sk">ľavá strana lode</trd>
+  <trd lng="sk">&#x13E;av&#xE1; strana lode</trd>
   <trd lng="sv">babord</trd>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x430;&#x43A;&#x431;&#x43E;&#x440;&#x442;</trd>,
+    <trd>&#x43B;&#x456;&#x432;&#x438;&#x439; &#x431;&#x43E;&#x440;&#x442;</trd>
+  </trdgrp>
 </drv>
  </art>
 <!--

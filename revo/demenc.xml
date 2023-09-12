@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: demenc.xml,v 1.5 2009/06/03 16:30:47 revo Exp $">
+<art mrk="$Id: demenc.xml,v 1.15 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <rad>demenc</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -41,19 +40,30 @@
       <ref cel="kaduk.0ega">kadukega</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_d;&c_e;&c_m;&c_e;&c_n;&c_c;&c_y;&c_ja;</trd>
   <trd lng="ca">dem&egrave;ncia</trd>
   <trdgrp lng="cs">
     <trd>demence</trd>,
-    <trd>šílenství</trd>
+    <trd>&scaron;&#xED;lenstv&#xED;</trd>
   </trdgrp>
   <trd lng="de">Demenz</trd>
   <trd lng="en">dementia</trd>
   <trd lng="fr">d&eacute;mence</trd>
+  <trd lng="he">&#x5D3;&#x5DE;&#x5E0;&#x5E6;&#x5D9;&#x5D4;</trd>
   <trd lng="id">demensia</trd>
   <trd lng="it">demenza</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A8D;&#x77E5;&#x75C7;  [<ind>&#x306B;&#x3093;&#x3061;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x75F4;&#x5446;  [<ind>&#x3061;&#x307B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">demencja</trd>
   <trd lng="pt">dem&ecirc;ncia</trd>
-  <trd lng="sk">slabomyseľnosť</trd>
+  <trd lng="sk">slabomyse&#x13E;nos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_je;&#x43C;&c_je;&#x43D;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_s;&#x43B;&c_a;&c_b;&#x43E;&c_u;&#x43C;&c_s;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&c_b;&#x43E;&c_zh;&c_je;&c_v;&c_ib;&#x43B;&#x43B;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="demenc.0i">
@@ -64,6 +74,7 @@
       Agi kun simptomoj de <tld/>o.
     </dif>
   </snc>
+  <trd lng="be">&c_h;&c_v;&c_a;&c_r;&c_e;&c_c;&c_mol; &c_n;&c_a; <ind>&c_d;&c_e;&c_m;&c_e;&c_n;&c_c;&c_y;&c_ju;</ind></trd>
   <trd lng="ca">patir <ind>dem&egrave;ncia</ind></trd>
   <trd lng="fr">&ecirc;tre <ind>d&eacute;ment</ind></trd>
   <trd lng="pl">mie&cacute; <ind>demencj&eogonek;</ind></trd>
@@ -86,6 +97,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_a;&c_h;&c_v;&c_a;&c_r;&c_e;&c_c;&c_mol; &c_n;&c_a; <ind>&c_d;&c_e;&c_m;&c_e;&c_n;&c_c;&c_y;&c_ju;</ind></trd>
   <trd lng="fr">devenir <ind>d&eacute;ment</ind></trd>
 </drv>
 
@@ -109,16 +121,25 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_h;&c_v;&c_o;&c_r;&c_y; &c_n;&c_a; <ind>&c_d;&c_e;&c_m;&c_e;&c_n;&c_c;&c_y;&c_ju;</ind></trd>
   <trd lng="ca">dement</trd>
-  <trd lng="cs">dementní člověk</trd>
+  <trd lng="cs">dementn&#xED; &#x10D;lov&#x11B;k</trd>
   <trd lng="de">Demenzkranker</trd>
   <trd lng="fr">d&eacute;ment<klr tip="amb"> (subst.)</klr></trd>
-  <trd lng="sk">dementný človek</trd>
+  <trd lng="ja">&#x8A8D;&#x77E5;&#x75C7;&#x60A3;&#x8005;  [<ind>&#x306B;&#x3093;&#x3061;&#x3057;&#x3087;&#x3046;&#x304B;&#x3093;&#x3058;&#x3083;</ind>]</trd>
+  <trd lng="sk">dementn&#xFD; &#x10D;lovek</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_d;&#x43E;&c_u;&#x43C;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_b;&#x43E;&c_zh;&c_je;&c_v;&c_ib;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.14 2023/04/28 07:24:36
+Dmitri Gabinski: + trd be
+
 Revision 1.10  2015/06/29 16:29:36  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -138,11 +159,5 @@ Revision 1.5  2009/06/03 16:30:47  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.4  2008/07/29 16:30:58  revo
-Jeromo Vasxe: + 1 ekz - rim
-
-Revision 1.3  2007/07/19 16:31:45  revo
-Tulio Flores: +tr pt
-
-Revision 1.2  2006/03/06 17:31:44  revo
 -->
 </vortaro>

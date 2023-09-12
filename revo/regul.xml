@@ -1,84 +1,333 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: regul.xml,v 1.41 2020/02/22 20:10:32 revo Exp $">
+<art mrk="$Id: regul.xml,v 1.131 2023/09/03 07:53:10 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>regul</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="regul.0o">
-   <kap><ofc>*</ofc><tld/>o</kap>
-   <snc>
-     <dif>
-       Tio, kio estas difinita por gvidi la agadon, konduton, studon,
-       verkadon kaj similajn:
-       <ekz>
-         ne ekzistas <tld/>o sen escepto
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Tio, kio estas difinita por gvidi la agadon, konduton, studon,
+      verkadon ks:
+      <ekz>
+         ne ekzistas <tld/>o sen 
+         <ref tip="ant" cel="escept.0o">escepto</ref>
          <fnt><bib>PrV</bib></fnt>;
-       </ekz>
-       <ekz>
-         gramatika <tld/>o.
-       </ekz>
-     </dif>
-     <refgrp tip="vid">
+      </ekz>
+      <ekz>
+        tio &ccirc;i tute ne estas deviga <tld/>o, ni faras &gcirc;in nur por ne rompi subite kun la
+        kutimoj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Dua Parto &ndash; Gramatiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li faros bruloferon la&ubreve; la <tld/>oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 5:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        a&ubreve;skultu la le&gcirc;ojn kaj la <tld/>ojn, kiujn mi instruas al vi, ke vi ilin plenumu
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 4:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fundamentaj <tld/>oj de nia lingvo
+        <fnt>
+          <bib>LR</bib>
+          <lok>Dua Parto &ndash; Gramatiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o 15 de nia gramatiko
+        <fnt>
+          <bib>LR</bib>
+          <lok>Unua Parto &ndash; Leksikologio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj pri la uzado de la interpunkcioj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Dua Parto &ndash; Gramatiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o por difini la tagon en malproksima jaro
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas tiel akurata en la obeo al la <tld/>oj de la migranta kavaliraro
+        <fnt>
+          <bib>DKM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vivmaniero certe ne konforma al la <tld/>oj de la higieno
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prediko devas esti mallonga: simple <tld/>o, prenita el la le&gcirc;oj moralaj,
+        filozofiaj, artismaj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu ne aplikas &ccirc;iujn tiujn <tld/>ojn povas verki unu a&ubreve; du tragediojn,
+        <klr>[&#x2026;]</klr> sed neniam li okupos lokon inter la grandaj verkistoj
+        <fnt>
+          <bib>Kandid</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="konven1.0o.gxenerale">konvencio</ref>,
+       <ref cel="kutim.0o.MOR">kutimo<sncref/></ref>,
        <ref cel="legx.0o">le&gcirc;o</ref>,
-       <ref cel="princi.0o">principo</ref>
-     </refgrp>
-   </snc>
+       <ref cel="princi.0o">principo</ref>,
+       <ref cel="tradic.0o">tradicio</ref>,
+       <ref cel="uzanc.0o">uzanco</ref>
+    </refgrp>
+  </snc>
+  <trd lng="af">re&euml;l</trd>
+  <trd lng="am">&#x12F0;&#x1295;&#x1265;</trd>
+  <trd lng="ar">&a_H;&a_k;&a_m;</trd>
+  <trd lng="az">qayda</trd>
   <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_a;</trd>
+  <trd lng="bn">&#x9A8;&#x9BF;&#x9AF;&#x9BC;&#x9AE;</trd>
+  <trd lng="bo">&t_da;&t_ba;&t_nga;&t_tsheg;&t_sa;&t_gata;&t_yata;&t_shabchu;&t_ra;&t_tsheg;&t_ba;&t_yata;&t_drengbu;&t_da;&t_tsheg;</trd>
+  <trd lng="bs">pravilo</trd>
   <trd lng="ca">regla</trd>
+  <trd lng="co">r&egrave;gula</trd>
   <trdgrp lng="cs">
     <trd>pravidlo</trd>,
     <trd>p&rcaron;edpis</trd>
   </trdgrp>
+  <trd lng="cy">rheol</trd>
+  <trd lng="da">regel</trd>
   <trd lng="de">Regel</trd>
   <trd lng="en">rule</trd>
   <trd lng="es">regla</trd>
+  <trd lng="et">reegel</trd>
+  <trd lng="eu">arau</trd>
   <trd lng="fr">r&egrave;gle</trd>
+  <trd lng="fy">regel</trd>
+  <trd lng="ga">riail</trd>
+  <trd lng="gd">riaghailt</trd>
+  <trd lng="gl">regra</trd>
+  <trd lng="gu">&#xAA8;&#xABF;&#xAAF;&#xAAE;</trd>
+  <trd lng="ha">mulkin</trd>
+  <trd lng="hi">&#x928;&#x93F;&#x92F;&#x92E;</trd>
+  <trd lng="hmn">txoj cai</trd>
+  <trd lng="hr">pravilo</trd>
+  <trd lng="ht">r&egrave;g</trd>
   <trd lng="hu">szab&aacute;ly</trd>
+  <trd lng="hy">&#x56F;&#x561;&#x576;&#x578;&#x576;</trd>
+  <trd lng="ig">&#x1ECD;ch&#x1ECB;ch&#x1ECB;</trd>
+  <trd lng="is">regla</trd>
+  <trd lng="ja">&#x30EB;&#x30FC;&#x30EB;</trd>
+  <trd lng="jv">aturan</trd>
+  <trd lng="ka">&#x10EC;&#x10D4;&#x10E1;&#x10D8;</trd>
+  <trd lng="kk">&c_je;&c_r;&c_je;&c_zh;&c_je;</trd>
+  <trd lng="km">&#x1785;&#x17D2;&#x1794;&#x17B6;&#x1794;&#x17CB;</trd>
+  <trd lng="kn">&#xCA8;&#xCBF;&#xCAF;&#xCAE;</trd>
+  <trd lng="ko">&#xADDC;&#xCE59;</trd>
+  <trd lng="ku">r&ecirc;z</trd>
+  <trd lng="ky">&c_b;&c_i;&c_j;&c_l;&c_i;&c_k;</trd>
+  <trd lng="lat">imperium</trd>
+  <trd lng="lo">&#xE81;&#xEBB;&#xE94;&#xEA5;&#xEB0;&#xE9A;&#xEBD;&#xE9A;</trd>
+  <trd lng="lt">taisykl&#x117;</trd>
+  <trd lng="lv">noteikums</trd>
+  <trd lng="mg">fitsipika</trd>
+  <trd lng="mi">tikanga</trd>
+  <trd lng="mk">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_o;</trd>
+  <trd lng="ml">&#xD1A;&#xD1F;&#xD4D;&#xD1F;&#xD02;</trd>
+  <trd lng="mn">&c_d;&#x4AF;&c_r;&c_e;&c_m;</trd>
+  <trd lng="mr">&#x928;&#x93F;&#x92F;&#x92E;</trd>
+  <trd lng="ms">peraturan</trd>
+  <trd lng="mt">regola</trd>
+  <trd lng="my">&#x1021;&#x102F;&#x1015;&#x103A;&#x1001;&#x103B;&#x102F;&#x1015;&#x103A;</trd>
+  <trd lng="ne">&#x928;&#x93F;&#x92F;&#x92E;</trd>
   <trd lng="nl">regel</trd>
-  <trd lng="pl">regu&lstroke;a</trd>
+  <trd lng="ny">ulamuliro</trd>
+  <trd lng="pa">&#xA28;&#xA3F;&#xA2F;&#xA2E; &#xA26;&#xA47;</trd>
+  <trdgrp lng="pl">
+    <trd>regu&lstroke;a</trd>,
+    <trd>przepis</trd>
+  </trdgrp>
+  <trd lng="ps">&a_H;&a_A;&f_k;&a_m;&f_y;&a_t;</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_o;</trd>
+  <trd lng="rw">amategeko</trd>
+  <trd lng="sd">&a_r;&a_A;&#x684;</trd>
+  <trd lng="si">&#xDB4;&#xDCF;&#xDBD;&#xDB1;&#xDBA;</trd>
   <trdgrp lng="sk">
     <trd>pravidlo</trd>,
     <trd>predpis</trd>
   </trdgrp>
+  <trd lng="sl">pravilo</trd>
+  <trd lng="sm">tulafono</trd>
+  <trd lng="sn">mutemo</trd>
+  <trd lng="so">xeerka</trd>
+  <trd lng="sq">rregull</trd>
+  <trd lng="st">busa</trd>
+  <trd lng="su">aturan</trd>
+  <trd lng="sw">utawala</trd>
+  <trd lng="ta">&#xB86;&#xB9F;&#xBCD;&#xB9A;&#xBBF;</trd>
+  <trd lng="te">&#xC2A;&#xC3E;&#xC32;&#xC28;</trd>
+  <trd lng="tg">&c_v;&c_o;&c_l;&c_o;&c_i;&c_ja;&c_t;&c_i;</trd>
+  <trd lng="th">&#xE01;&#xE0E;</trd>
+  <trd lng="tl">panuntunan</trd>
+  <trd lng="tt">&c_k;&c_a;&c_g;&c_y;&c_j;&c_d;&#x4D9;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_o;</trd>
+  <trd lng="ur">&a_A;&a_S;&a_w;&a_l;</trd>
+  <trd lng="uz">qoida</trd>
+  <trd lng="vi">quy t&#x1EAF;c</trd>
+  <trd lng="xh">umthetho</trd>
+  <trd lng="yi">&he;&ayin;&resh;&shin;&fnun;</trd>
+  <trd lng="yo">ofin</trd>
+  <trd lng="zu">ukubusa</trd>
 </drv>
 
 <drv mrk="regul.0a">
-   <kap><tld/>a</kap>
-   <snc mrk="regul.0a.konforma">
-     <dif>
-       Konforma al la <tld/>o; la&ubreve;<tld/>a.
-     </dif>
-     <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
-     <trd lng="de">regul&auml;r</trd>
-     <trd lng="hu">szab&aacute;lyos</trd>
-     <trd lng="pl">regularny</trd> 
-     <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_o;</trd>
-   </snc>
-   <snc mrk="regul.0a.perioda">
-     <dif>
-       Ripeti&gcirc;anta &ccirc;e la fiksita perioda tempo:
-       <ekz>
-         <tld/>e ricevi gazeton;
-       </ekz>
-       <ekz>
-         <tld/>e progresi<fnt>Z</fnt>;
-       </ekz>
-       <ekz>
-         en a&ubreve;tuno <tld/>e venadis arbohakistoj.
-       </ekz>
-     </dif>
-     <trd lng="be">&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;</trd>
-     <trd lng="de">regelm&auml;&szlig;ig</trd>
-     <trd lng="es">regular</trd>
-     <trd lng="hu">rendszeres</trd>
-     <trd lng="pl">regularny</trd>
-     <trd lng="ru">&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;</trd>
-   </snc>
-   <snc mrk="regul.0a.MAT">
+  <kap><tld/>a</kap>
+  <snc mrk="regul.0a.konforma">
+    <dif>
+      <ref tip="super" cel="konfor.0a.KOMUNE">Konforma</ref> al unu a&ubreve; pluraj <tld/>oj; 
+      <ref tip="sin" cel="regul.laux0a">la&ubreve;<tld/>a</ref>:
+      <ekz>
+        sova&gcirc;uloj, kiuj preferis la &scirc;teladon <klr>[&#x2026;]</klr> ol <tld/>an laboron
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelke da <tld/>aj regimentoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj deklinacioj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aran&gcirc;o de <tld/>a kaj rajtigita kongresa vo&ccirc;donado
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen en la 21a de a&ubreve;gusto
+          1911</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia viza&gcirc;o kun sufi&ccirc;e <tld/>aj trajtoj ne havis ian klare difinitan karakteran
+        esprimon
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj liaj familiaktoj estas tre <tld/>aj, kaj lia konduto tute ne ripro&ccirc;inda
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la junulo estis kondamnita la&ubreve; <tld/>a ju&gcirc;o
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="legx.laux0a">la&ubreve;le&gcirc;a</ref>,
+      <ref cel="oficia.0a">oficiala</ref>
+    </refgrp>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="de">regul&auml;r</trd>
+    <trd lng="hu">szab&aacute;lyos</trd>
+    <trd lng="pl">regularny</trd> 
+    <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_o;</trd>
+  </snc>
+  <snc mrk="regul.0a.perioda">
+    <dif>
+      Obeanta al firma, ripeti&gcirc;anta ritmo a&ubreve; ordo:
+      <ekz>
+        &ccirc;iu ne&gcirc;a floko <klr>[&#x2026;]</klr> aspektis kiel belega floro a&ubreve; dekpinta stelo
+        <klr>[&#x2026;]</klr> en ili trovi&gcirc;as nenia eraro, ili estas tute <tld/>aj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        postulante grandan, sen&ccirc;esan kaj <tld/>an laboron
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a kaj paca progresado
+        <fnt>
+          <bib>F</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        a&ubreve;skultinte la facilan kaj <tld/>an spiradon de sia infano
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>a tik-tako de l&#x2019; horlo&gcirc;o
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj pla&ubreve;di&gcirc;antaj eksvingoj de remiloj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekzistas tuta aro da <tld/>aj klientoj, kiuj vizitas la vendejon pli por babili
+        <klr>[&#x2026;]</klr> ol por ion a&ccirc;eti
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="period.0a.tempe">perioda<sncref/></ref>,
+      <ref cel="simetr.0a">simetria</ref>
+    </refgrp>
+    <trd lng="be">&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;</trd>
+    <trd lng="de">regelm&auml;&szlig;ig</trd>
+    <trd lng="es">regular</trd>
+    <trd lng="hu">rendszeres</trd>
+    <trd lng="pl">regularny</trd>
+    <trd lng="ru">&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="regul.0a.MAT">
      <uzo tip="fak">MAT</uzo>
      <subsnc mrk="regul.0a.plurlatero">
        <fnt><bib>MatTerm</bib>, <lok>p. 28</lok></fnt>
@@ -164,7 +413,7 @@
          <frm am="T">T</frm>)</klr>
          Tia, ke la bildo per &gcirc;i de &ccirc;iu testa funkcio
          <frm am="phi">&phi;</frm> estas esprimebla per
-         <frm am="int_(-oo)^(oo)h(x)phi(x)dx">&#8747;<sub>]-&#8734;,+&#8734;[</sub>
+         <frm am="int_(-oo)^(oo)h(x)phi(x)dx">&#x222B;<sub>]-&#x221E;,+&#x221E;[</sub>
          <k>h</k>(<k>x</k>)&phi;(<k>x</k>)d<k>x</k></frm>
          por iu funkcio <frm am="h"><k>h</k></frm>
          <klr> (funkcio asociita al la distribucio)</klr>:
@@ -176,8 +425,7 @@
          Oni ofte identigas <tld/>an distribucion kun &gcirc;ia asociita
          funkcio. E&ccirc; por distribucioj, kiuj ne estas <tld/>aj, oni
          tradicie uzas funkciecajn skriba&jcirc;ojn, ekz-e de la tipo
-         <frm  am="int delta(x-a)phi(x)dx"
-         >&#8747;&delta;(<k>x</k>-<k>a</k>)&phi;(<k>x</k>)d<k>x</k></frm>
+         <frm am="int delta(x-a)phi(x)dx">&#x222B;&delta;(<k>x</k>-<k>a</k>)&phi;(<k>x</k>)d<k>x</k></frm>
          anstata&ubreve; <frm am="delta_a(phi)">&delta;<sub><k>a</k></sub>(&phi;)</frm>.
        </rim>
        <adm>
@@ -202,46 +450,107 @@ Distribution)</klr></trd>
     <trd>&rcaron;&aacute;dn&yacute;</trd>
   </trdgrp>
   <trd lng="fr">r&eacute;gulier</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x898F;&#x306E;  [<ind>&#x305B;&#x3044;&#x304D;&#x306E;</ind>]</trd>,
+    <trd>&#x898F;&#x5247;&#x306B;&#x304B;&#x306A;&#x3063;&#x305F;  [<ind>&#x304D;&#x305D;&#x304F;&#x306B;&#x304B;&#x306A;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x898F;&#x5247;&#x6B63;&#x3057;&#x3044;  [<ind>&#x304D;&#x305D;&#x304F;&#x305F;&#x3060;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x898F;&#x5247;&#x7684;&#x306A;  [<ind>&#x304D;&#x305D;&#x304F;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x5B9A;&#x671F;&#x7684;&#x306A;  [<ind>&#x3066;&#x3044;&#x304D;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">regelmatig</trd>
+  <trdgrp lng="pl">
+    <trd>prawid&lstroke;owy</trd>,
+    <trd>regularny</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>pravideln&yacute;</trd>,
     <trd>regul&aacute;rny</trd>,
     <trd>riadny</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_a;&c_v;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_je;&c_gu;&c_u;&#x43B;&#x44F;&c_r;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="regul.0igi">
-   <kap><tld/>igi</kap>
-   <gra><vspec>tr</vspec></gra>
-   <snc mrk="regul.0igi.konformigi">
-     <dif>
-       Konformigi al la <tld/>o:
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="regul.0igi.konformigi">
+    <dif>
+      <ref tip="super" cel="konfor.0igi">Konformigi</ref> al <tld/>o:
+      <ekz>
+        la popolo lo&gcirc;anta en la valo de Nilo devis <klr>[&#x2026;]</klr> <tld/>igi la akvojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ne <tld/>igis definitive la kontojn kun <klr>[li]</klr>
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekzistas inter ni malnova konto <tld/>igota pli poste, da&ubreve;rigis malvarme la
+        kapitano
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>.
+      </ekz>
+<!--
        <ekz>
          <ind><tld/>igi la kontojn</ind> kun iu<fnt>B</fnt>.
          <trd lng="ru">&c_s;&c_v;&c_je;&c_s;&c_t;&c_i;
          &c_s;&c_ch;&c_jo;&c_t;&c_y;</trd>
        </ekz>
+-->
      </dif>
+     <refgrp tip="vid">
+        <ref cel="ekvili.0igi">ekvilibrigi</ref>,
+        <ref cel="nivel.0i">niveli</ref>
+     </refgrp>
      <trdgrp lng="de">
-       <trd>abgleichen</trd>,
-       <trd>abschlie&szlig;en</trd>
+       <trd>ausgleichen</trd>
      </trdgrp>
      <trd lng="fr">r&eacute;gulariser</trd>
      <trd lng="hu">rendez</trd>
-   </snc>
-   <snc mrk="regul.0igi.submeti">
-     <dif>
-       Submeti al <tld/>aro.
+  </snc>
+  <snc mrk="regul.0igi.submeti">
+    <dif>
+      <ref tip="super" cel="met.sub0i">Submeti</ref> al <tld/>aro:
+      <ekz>
+        <tld/>igi la rilatojn de tiu &ccirc;i grupo al la &ccirc;irka&ubreve;anta mondo
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Dogmoj de Hilelismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la parolarto <klr>[&#x2026;]</klr> estas konscie <tld/>igita elokventeco
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igi la inter&scirc;an&gcirc;on de la varoj
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
      </dif>
-     <trdgrp lng="de">
-       <trd>regulieren</trd>,
-       <trd>regeln</trd>
-     </trdgrp>
-   </snc>
+    <refgrp tip="vid">
+      <ref cel="ord.0igi">ordigi</ref>,
+      <ref cel="organi2.0i">organizi</ref>,
+      <ref cel="strukt.0i">strukturi</ref>
+    </refgrp>
+  </snc>
   <trdgrp lng="be">
      <trd>&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
      <trd>&c_u;&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
-   </trdgrp>
+  </trdgrp>
   <trd lng="ca">regular <klr>(verb)</klr></trd>
   <trdgrp lng="cs">
     <trd>d&aacute;t do po&rcaron;&aacute;dku</trd>,
@@ -249,28 +558,98 @@ Distribution)</klr></trd>
     <trd>upravit</trd>,
     <trd>uspo&rcaron;&aacute;dat</trd>
   </trdgrp>
+  <trdgrp lng="de">
+      <trd>regulieren</trd>,     
+      <trd>regeln</trd>
+  </trdgrp>
   <trd lng="es">regular</trd>
   <trd lng="fr">r&eacute;gulariser</trd>
   <trd lng="hu">szab&aacute;lyoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x898F;&#x306E;&#x3082;&#x306E;&#x306B;&#x3059;&#x308B;  [<ind>&#x305B;&#x3044;&#x304D;&#x306E;&#x3082;&#x306E;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x898F;&#x5247;&#x901A;&#x308A;&#x306B;&#x3059;&#x308B;  [<ind>&#x304D;&#x305D;&#x304F;&#x3069;&#x304A;&#x308A;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x898F;&#x5236;&#x3059;&#x308B;  [<ind>&#x304D;&#x305B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8ABF;&#x6574;&#x3059;&#x308B;  [<ind>&#x3061;&#x3087;&#x3046;&#x305B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8ABF;&#x7BC0;&#x3059;&#x308B;  [<ind>&#x3061;&#x3087;&#x3046;&#x305B;&#x3064;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">regelen</trd>
+  <trdgrp lng="pl">
+    <trd>regulowa&cacute;</trd>,
+    <trd>retuszowa&cacute;</trd>,
+    <trd>unormowa&cacute;</trd>,
+    <trd>ustawia&cacute;</trd>
+  </trdgrp>
   <trdgrp lng="ru"> 
      <trd>&c_r;&c_je;&c_g;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>, 
      <trd>&c_u;&c_r;&c_je;&c_g;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
      <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i; &c_v; &c_p;&c_o;&c_r;&c_ja;&c_d;&c_o;&c_k;</trd>
-   </trdgrp>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>regulova&tcaron;</trd>,
     <trd>riadi&tcaron;</trd>,
     <trd>upravi&tcaron;</trd>,
     <trd>usporiada&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&c_gu;&c_u;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="regul.0aro">
    <kap><tld/>aro</kap>
    <snc mrk="regul.0aro.KOMUNE">
      <dif>
-       Tuto de la <tld/>oj de iu organiza&jcirc;o a&ubreve; societo.
+       Tuto de la <tld/>oj de iu organiza&jcirc;o a&ubreve; societo:
+      <ekz>
+        sama <tld/>aro estu por vi, kiel por la fremdulo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 9:14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li projektis starigon de ne&ubreve;trale-homa etika <tld/>aro
+        <fnt>
+          <bib>Zam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>aro de la Ligo de la Nacioj
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la internaj <tld/>aroj <klr>[&#x2026;]</klr> de parlamentoj
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> programo estu preparita la&ubreve; la kongresa <tld/>aro
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; nia <tld/>aro, pastrino en tre esceptaj okazoj povas fari&gcirc;i edzino
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi neniam ellernos la <tld/>aron de la kipuo, &ccirc;ar &gcirc;i absolute ne ekzistas
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne pu&scirc;u vian <tld/>aron en fremdan anaron
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
      </dif>
      <refgrp tip="vid">
        <ref cel="statut.0o">statuto</ref>
@@ -296,6 +675,11 @@ Distribution)</klr></trd>
   <trd lng="es">reglamento</trd>
   <trd lng="fr">r&egrave;glement<klr tip="ind"> (r&egrave;gles)</klr></trd>
   <trd lng="hu">szab&aacute;lyzat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898F;&#x5247;&#x96C6;  [<ind>&#x304D;&#x305D;&#x304F;&#x3057;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x898F;&#x7D04;  [<ind>&#x304D;&#x3084;&#x304F;</ind>]</trd>,
+    <trd>&#x4F1A;&#x5247;  [<ind>&#x304B;&#x3044;&#x305D;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">reglement</trd>
   <trd lng="pl">regulamin</trd>
   <trd lng="ru">&c_r;&c_je;&c_g;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
@@ -304,15 +688,38 @@ Distribution)</klr></trd>
     <trd>pravidl&aacute;</trd>,
     <trd>stanovy</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_b;&c_ib;&c_r;&#x43D;&c_i;&#x43A; &#x43F;&c_r;&c_a;&c_v;&c_i;&#x43B;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_t;&c_u;&c_t;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="regul.0eco">
-   <kap><tld/>eco</kap>
-   <snc mrk="regul.0eco.KOMUNE">
-     <dif>
-       Konformeco al la <tld/>oj.
-     </dif>
-   </snc>
+  <kap><tld/>eco</kap>
+  <snc mrk="regul.0eco.KOMUNE">
+    <dif>
+      <ref tip="super" cel="konfor.0eco">Konformeco</ref> al 
+      koncernaj <tld/>oj:
+      <ekz>
+        facileco kaj <tld/>eco de la gramatiko
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multekostaj mebloj staris kun la ordinara <tld/>eco apud la muroj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al Bazarov ne pla&ccirc;is &ccirc;i tiu mezurita, iom solena <tld/>eco de la &ccirc;iutaga vivo
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
   <trd lng="ca">regularitat</trd>
   <trdgrp lng="cs">
     <trd>pravidelnost</trd>,
@@ -325,6 +732,11 @@ Distribution)</klr></trd>
      <trd>szab&aacute;lyoss&aacute;g</trd>,
      <trd>rendszeress&eacute;g</trd>
    </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9069;&#x5408;&#x6027;  [<ind>&#x3066;&#x304D;&#x3054;&#x3046;&#x305B;&#x3044;</ind>]</trd>,
+    <trd>&#x898F;&#x5247;&#x6027;  [<ind>&#x304D;&#x305D;&#x304F;&#x305B;&#x3044;</ind>]</trd>,
+    <trd>&#x898F;&#x5247;&#x6B63;&#x3057;&#x3055;  [<ind>&#x304D;&#x305D;&#x304F;&#x305F;&#x3060;&#x3057;&#x3055;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">regelmaat</trd>
   <trdgrp lng="pl">
      <trd>praworz&aogonek;dno&sacute;&cacute;</trd>,
@@ -338,6 +750,62 @@ Distribution)</klr></trd>
   <trdgrp lng="sk">
     <trd>pravidelnos&tcaron;</trd>,
     <trd>regul&aacute;rnos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_a;&c_v;&c_i;&#x43B;&#x44C;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_r;&c_je;&c_gu;&c_u;&#x43B;&#x44F;&c_r;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regul.laux0a">
+  <kap>
+    la&ubreve;<tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Obeanta la <tld/>ojn:
+      <ekz>
+        liaj aliaj aktopaperoj <klr>[&#x2026;]</klr> &scirc;ajnas tute la&ubreve;<tld/>aj
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la oratoro tute simple surmetas la veston, kiu estas kutima a&ubreve; la&ubreve;<tld/>a en la
+        koncerna lando kaj por la koncerna situacio
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mian rolon oni ne rajtos mencii, &ccirc;ar &gcirc;i estas ne la&ubreve;<tld/>a
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="regul.0a.konforma">regula<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="ord.bon0a.io">bonorda<sncref/></ref>,
+      <ref cel="formal.0a.lauxkutima">formala<sncref/></ref>,
+      <ref cel="konven1.0a">konvencia</ref>,
+      <ref cel="kutim.0a">kutima</ref>,
+      <ref cel="ord.0a">orda</ref>,
+<ref cel="tradic.0a">tradicia</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>gem&auml;&szlig; der <ind>Regel</ind>n</trd>,
+    <trd>regelrecht</trd>,
+    <trd>in <ind>Ordnung</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>prawid&lstroke;owy</trd>,
+    <trd>poprawny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_g;&c_ib;&c_d;&#x43D;&c_i;&c_j; &c_z; &#x43F;&c_r;&c_a;&c_v;&c_i;&#x43B;&c_a;&#x43C;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&#x43F;&#x43E;&c_v;&c_ib;&c_d;&#x43D;&c_i;&c_j; &c_d;&#x43E; &#x43F;&c_r;&c_a;&c_v;&c_i;&#x43B;</trd>
   </trdgrp>
 </drv>
 
@@ -354,13 +822,26 @@ Distribution)</klr></trd>
            <aut>Ueyama M.</aut>,
            <vrk>Pardonon!</vrk>,
            <lok>1970</lok>
-         </fnt>.
+         </fnt>;
        </ekz>
+      <ekz>
+        la&ubreve; la trafik<tld/>aro oni cedu la vojon al la a&ubreve;toj kun bluaj signallampoj sur
+        la tegmento
+        <fnt>
+          <aut>Dmitri Bre&ccirc;alov</aut>
+          <vrk><url ref="&Monato;/2012/010608.php">Manifestacioj sed kontra&ubreve;, ne por</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/02, p. 8</lok>
+        </fnt>.
+      </ekz>
      </dif>
    </snc>
   <trd lng="ca">codi de circulaci&oacute;</trd>
   <trd lng="cs">dopravn&iacute; pravidla</trd>
-  <trdgrp lng="fr">
+  <trdgrp lng="de">
+    <trd>Stra&szlig;enverkehrsordnung</trd>,
+    <trd>Verkehrsregeln</trd>
+  </trdgrp><trdgrp lng="fr">
      <trd>code de la navigation</trd>,
      <trd>code de la route</trd>
    </trdgrp>
@@ -374,27 +855,48 @@ Distribution)</klr></trd>
      <trd>kodeks ruchu drogowego</trd>
    </trdgrp>
   <trd lng="sk">dopravn&eacute; pravidl&aacute;</trd>
+  <trd lng="uk">&#x43F;&c_r;&c_a;&c_v;&c_i;&#x43B;&c_a;
+  &c_d;&#x43E;&c_r;&#x43E;&c_zh;&#x43D;&#x44C;&#x43E;&c_g;&#x43E;/&c_v;&c_u;&#x43B;&c_i;&c_ch;&#x43D;&#x43E;&c_g;&#x43E; &c_r;&c_u;&c_h;&c_u;</trd>
 </drv>
 
 <drv mrk="regul.viv0o">
   <kap>viv<tld/>o</kap>
   <snc mrk="regul.viv0o.FIL">
     <dif>
-      <tld lit="R"/>o pri &ccirc;iutaga vivo, pri agado, pri moro:
+      <tld lit="R"/>o pri &ccirc;iutaga vivo, 
+      pri agado, pri <ref cel="mor.0o">moro</ref>:
       <ekz>
         la junaj inaj generacioj facile kaj rapide konformi&gcirc;is al la 
         novaj viv<tld/>oj
         <fnt>
           <aut>N. Cescotti Covelli</aut>,
-          <vrk><url
-          ref="http://www.ueci.it/kongresoj/kng_2007/Prelego_1.htm">
+          <vrk><url ref="http://www.ueci.it/kongresoj/kng_2007/Prelego_1.htm">
           La virino en la islama mondo</url></vrk>,
           <lok>[21a kongreso de UECI], 2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Volter</nom> opiniis necesa la kredon je dio por starigo de moralaj principoj kaj
+        viv<tld/>oj inter la homoj
+        <fnt>
+          <bib>Kandid</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ceteraj viv<tld/>oj de la behinoj estas ja amaso da freneza&jcirc;oj
+        <fnt>
+          <bib>VaK</bib>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="deviz.0o">devizo</ref>,
+      <ref cel="konven1.0o.gxenerale">konvencio<sncref/></ref>,
+      <ref cel="norm.0o.konvencio">normo<sncref/></ref>
+    </refgrp>
   </snc>
   <trd lng="fr">r&egrave;gle de vie</trd>
+  <trd lng="pl">regu&lstroke;a &zdot;ycia</trd>
 </drv>
 
 <drv mrk="regul.0esprimo">
@@ -404,8 +906,24 @@ Distribution)</klr></trd>
      <dif>
        En redaktilo, dosieradministrilo, retumilo ktp, ser&ccirc;a
        &scirc;ablono, difinanta <tld/>on por rekoni
-       <ref cel="kongru.0a">kongruajn</ref> signo&ccirc;enojn.
+       <ref cel="kongru.0a">kongruajn</ref> signo&ccirc;enojn:
+      <ekz>
+        sufi&ccirc;as ser&ccirc;i per la <tld/>esprimo &leftquot;+kaj +la +kiu +estas&rightquot; uzante ser&ccirc;ilon kia
+        <nom>Alta Vista</nom>
+        <fnt>
+          <vrk><url ref="https://bertilow.com/div/komputada_leksikono/W.html">Komputada Leksikono:
+          W</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <frm>s/\d+/-1/</frm> <klr>[&#x2026;]</klr>  montras la uzon de <tld/>esprimo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3341">Perl</url></lok>
+        </fnt>.
+      </ekz>
      </dif>
+<ref tip="prt" cel="jxoker.0o.KOMP">&jcirc;okero<sncref/></ref>
    </snc>
    <trd lng="be">&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y; 
 &c_v;&c_y;&c_r;&c_a;&c_z;</trd>
@@ -421,35 +939,36 @@ Distribution)</klr></trd>
      <trd>szab&aacute;lyos kifejez&eacute;s</trd>,
      <trd>regul&aacute;ris kifejez&eacute;s</trd>
    </trdgrp>
-   <trd lng="nl">reguliere <ind>expressie</ind></trd>
+   <trd lng="ja">&#x6B63;&#x898F;&#x8868;&#x73FE;  [<ind>&#x305B;&#x3044;&#x304D;&#x3072;&#x3087;&#x3046;&#x3052;&#x3093;</ind>]</trd>
+  <trd lng="nl">reguliere <ind>expressie</ind></trd>
    <trd lng="pl">wyra&zdot;enie <ind>regularne</ind></trd>
    <trd lng="ru">&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_o;&c_je; 
 &c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
 </drv>
 </art>
 <!--
-$Log: regul.xml,v $
-versio 1.41 2020/02/22 20:10:32
-Wolfram Diestel: svg anst. gif
+$Log$
+versio 1.130 2023/06/06 18:30:03
+Vito Redsky: +trd pl 
 
-Revision 1.40  2020/02/15 23:10:47  revo
-Wolfram Diestel: formuloj per am
+versio 1.129 2023/06/04 11:21:32
+Paul Peeraerts: + lok
 
-Revision 1.39  2016/09/26 06:10:22  revo
-Sebastian Cyprych: +trd pl
+versio 1.128 2022/10/22 09:38:27
+Damien Brucker: -eraro cxel cel en ref
 
-Revision 1.38  2016/09/12 22:10:18  revo
-Alain Gerard: +trd fr
+versio 1.127 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.37  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.124 2022/01/28 06:35:20
+Wolfram Diestel: -tajperaro
 
-Revision 1.36  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.123 2022/01/24 06:38:36
+Wolfram Diestel: kor. ref
 
-Revision 1.35  2015/03/12 23:10:15  revo
-Jeromo Vasxe: + viv~o
+versio 1.122 2022/01/22 09:26:54
+Wolfram Diestel: +la&ubreve;~a
 
-Revision 1.34  2011/12/10 15:10:21  revo
+versio 1.121 2022/01/21 12:45:21
 -->
 </vortaro>

@@ -1,63 +1,85 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vizagx.xml,v 1.114 2023/09/05 09:43:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>viza&gcirc;</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="vizagx.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <uzo tip="fak">ANA</uzo>
   <snc mrk="vizagx.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
     <dif>
-      Anta&ubreve;a parto de l' homa <ref tip="malprt"
-      cel="kap.0o.ANA">kapo</ref>:
+      Anta&ubreve;a parto de l' homa <ref tip="malprt" cel="kap.0o.ANA">kapo</ref>:
       <ekz>
-        nur pano kun froma&gcirc;o, sed afabla <tld/>o
-        <fnt><bib>PrV</bib></fnt>;
+        &scirc;i kovris sian <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 38:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li lavis sian <tld/>on kaj eliris
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 43:31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne aperu plu anta&ubreve; mia <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 44:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la &scirc;vito de via <tld/>o vi man&gcirc;ados panon, &gcirc;is vi revenos en la teron, el kiu
+        vi estas prenita
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 3:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;arma milda <tld/>o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun subite ru&gcirc;i&gcirc;inta <tld/>o kaj flamantaj okuloj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        virojn mi ser&ccirc;as, kiuj rigardas al la morto en la <tld/>on kaj lasas la dan&gcirc;eron
+        ludi &ccirc;irka&ubreve; ili
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        trafi per la parolo rekte en la <tld/>on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
       </ekz>
       <ekz>
         bela <tld/>o estas duono da doto
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
-        ridanta, larma, senhonta <tld/>o<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        la heroo rigardas al la morto en la <tld/>on
-        (<ref tip="vid" cel="vid.0al0e">vidalvide</ref>);
-      </ekz>
-      <ekz>
-        diru tion al mi rekte en la <tld/>o;
-      </ekz>
-      <ekz>
-        mokadi iun &gcirc;uste en la <tld/>on<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        <uzo tip="stl">FIG</uzo>
-        la <tld/>a flanko de la domo estis turnita
-        orienten<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        <uzo tip="stl">FIG</uzo>
-        la <tld/>o <klr>(supra&jcirc;o)</klr> de la tero<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        <uzo tip="stl">FIG</uzo>
-        malgranda drinkejo montris sian afablan <tld/>on al
-        la voja&gcirc;anto<fnt>Z</fnt>
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="frunt.0o.ANA">frunto <sncref/></ref>,
+      <ref cel="frunt.0o.ANA">frunto<sncref/></ref>,
       <ref cel="mien.0o">mieno</ref>
     </refgrp>
     <trd lng="be">&c_t;&c_v;&c_a;&c_r;</trd>
     <trd lng="cs">obli&ccaron;ej</trd>
-    <trd
-    lng="el">&pi;&rho;&omega_ton;&sigma;&omikron;&pi;&omikron;</trd>
+    <trd lng="el">&pi;&rho;&omega_ton;&sigma;&omikron;&pi;&omikron;</trd>
     <trd lng="en">face</trd>
     <trdgrp lng="es">
       <trd>cara</trd>,
@@ -97,12 +119,43 @@
     </trdgrp>
     <trd lng="ru">&c_l;&c_i;&c_c;&c_o;</trd>
   </snc>
-  <snc mrk="vizagx.0o.indo">
+    <snc mrk="vizagx.0o.MIEN">
     <dif>
-      Publika senripro&ccirc;eco, pro kiu oni povas senhonte <tld/>i al
-      homoj:
+      La <tld/>o rigardata kiel signo de sentoj, de emocioj, de karaktero;
+      <ref tip="vid" cel="mien.0o.ANA">mieno<sncref/></ref>,
+      <ref tip="vid" cel="fizion.0o.MIEN">fizionomio<sncref/></ref>:
       <ekz>
-        Matrono Xing publike perdigis al &scirc;i la <tld/>on
+        nur pano kun froma&gcirc;o, sed afabla <tld/>o
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <klr>[&#x2026;]</klr> kisis lin kun senhonta <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Sen; 7:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        hazarda vorto subite &scirc;an&gcirc;is lian <tld/>on
+        <fnt>
+          <aut>M. Proust, trad. J.-L. Tortel</aut>
+          <vrk>Unu amo de Swann</vrk>
+          <lok>2019</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_v;&c_a;&c_r;</trd>,
+      <trd>&c_m;&c_ib;&c_n;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vizagx.0o.indo">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Publika senripro&ccirc;eco,
+      <ref tip="vid" cel="honor.0o">honoro</ref>:
+      <ekz>
+        matrono <nom>Xing</nom> publike perdigis al &scirc;i la <tld/>on
         <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 71a, volumo 2a, p.
         511a</lok></fnt>;
       </ekz>
@@ -111,7 +164,7 @@
         <tld/>on</ind>
         de via bopatrino
         <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 73a, volumo 2a, p.
-        545a</lok></fnt>;
+        545a</lok></fnt>.
         <trd lng="fr">sauver la <ind>face</ind></trd>
         <trd lng="hu">megmenti a <ind>becs&uuml;let&eacute;t</ind></trd>
         <trd lng="it">salvare la <ind>faccia</ind></trd>
@@ -122,6 +175,7 @@
           <ind>&c_ch;&c_je;&c_s;&c_t;&c_mol;</ind></trd>
         </trdgrp>
       </ekz>
+<!-- mankas cita&jcirc;oj:
       <ekz>
         <ind>konservi la <tld/>on</ind>;
         <trd lng="fr">garder la <ind>face</ind></trd>
@@ -135,9 +189,9 @@
         <ind>perdi la <tld/>on</ind>.
         <trdgrp lng="fa">
           <trd>&a_m;&a_f;&a_t;&a_D;&a_H; &a_sh;&a_d;&a_n;</trd>,
-          <trd>&a_b;&f_y;&zwnj;&a_H;&f_y;&a_th;&f_y;&a_t;
+          <trd>&a_b;&f_y;&#8204;&a_H;&f_y;&a_th;&f_y;&a_t;
           &a_sh;&a_d;&a_n;</trd>,
-          <trd>&a_b;&f_y;&zwnj;&a_A_madda;&a_b;&a_r;&a_w;
+          <trd>&a_b;&f_y;&#8204;&a_A_madda;&a_b;&a_r;&a_w;
           &a_sh;&a_d;&a_n;</trd>
         </trdgrp>
         <trd lng="fr">perdre la <ind>face</ind></trd>
@@ -146,12 +200,13 @@
         <trd lng="ru">&c_p;&c_o;&c_t;&c_je;&c_r;&c_ja;&c_t;&c_mol;
         <ind>&c_l;&c_i;&c_c;&c_o;</ind></trd>
       </ekz>
+-->
     </dif>
     <refgrp tip="vid">
       <ref cel="aplomb.0o">aplombo</ref>,
-      <ref cel="honor.0o">honoro</ref>,
       <ref cel="fid.mem0o">memfido</ref>
     </refgrp>
+    <trd lng="be">&c_t;&c_v;&c_a;&c_r;</trd>
     <trdgrp lng="fa">
       <trd>&a_A_madda;&a_b;&a_r;&a_w;</trd>,
       <trd>&a_H;&f_y;&a_th;&f_y;&a_t;</trd>
@@ -164,13 +219,120 @@
       <trd>&c_ch;&c_je;&c_s;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <snc mrk="vizagx.0o.de_objekto">
+    <uzo tip="stl">RAR</uzo>
+    <dif>
+      La videbla, anta&ubreve;a parto de objekto,
+      &gcirc;ia <ref tip="vid" cel="front.0o.antauxo">fronto<sncref/></ref>,
+      &gcirc;ia <ref tip="vid" cel="fasad.0o.ARKI">fasado<sncref/></ref>:
+      <ekz>
+        la <tld/>a flanko de la domo estis turnita orienten
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Jeh; 47:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o <klr>(supra&jcirc;o)</klr> de la tero
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Nom; 22:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malgranda drinkejo <klr>[&#x2026;]</klr> montris sian afablan <tld/>on al
+        la voja&gcirc;anto
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_v;&c_a;&c_r;</trd>,
+      <trd>&c_f;&c_a;&c_s;&c_a;&c_d;</trd>,
+      <trd>&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ja;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="af">gesig</trd>
+  <trd lng="am">&#x134A;&#x1275;</trd>
+  <trd lng="ar">&a_w;&a_j;&a_h;</trd>
   <trd lng="bg">&c_l;&c_i;&c_c;&c_je;</trd>
+  <trd lng="bn">&#x9AE;&#x9C1;&#x996;</trd>
+  <trd lng="bo">&t_ga;&t_da;&t_naro;&t_nga;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="bs">lice</trd>
   <trdgrp lng="ca">
     <trd>cara</trd>,
     <trd>rostre</trd>
   </trdgrp>
+  <trd lng="co">faccia</trd>
+  <trd lng="cy">wyneb</trd>
+  <trd lng="da">ansigt</trd>
   <trd lng="de">Gesicht</trd>
+  <trd lng="et">n&auml;gu</trd>
+  <trd lng="eu">aurpegi</trd>
+  <trd lng="fy">gesicht</trd>
+  <trd lng="ga">aghaidh</trd>
+  <trd lng="gd">aghaidh</trd>
+  <trd lng="gl">cara</trd>
+  <trd lng="gu">&#xA9A;&#xAB9;&#xAC7;&#xAB0;&#xACB;</trd>
+  <trd lng="hi">&#x91A;&#x947;&#x939;&#x930;&#x93E;</trd>
+  <trd lng="hmn">lub ntsej muag</trd>
+  <trd lng="ht">figi</trd>
+  <trd lng="hy">&#x564;&#x565;&#x574;&#x584;&#x568;</trd>
+  <trd lng="ig">ihu</trd>
+  <trd lng="is">andlit</trd>
+  <trd lng="ja">&#x9854; [<ind>&#x304B;&#x3093;&#x3070;&#x305B;</ind>]</trd>
+  <trd lng="jv">pasuryan</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10EE;&#x10D4;</trd>
+  <trd lng="kk">&c_b;&c_je;&c_t;</trd>
+  <trd lng="km">&#x1798;&#x17BB;&#x1781;</trd>
+  <trd lng="kn">&#xCAE;&#xCC1;&#xC96;</trd>
+  <trd lng="ko">&#xC5BC;&#xAD74;</trd>
+  <trd lng="ku">r&ucirc;</trd>
+  <trd lng="ky">&c_b;&c_je;&c_t;</trd>
+  <trd lng="lat">faciem</trd>
+  <trd lng="lo">&#xEC3;&#xE9A;&#xEAB;&#xE99;&#xEC9;&#xEB2;</trd>
+  <trd lng="lt">veido</trd>
+  <trd lng="lv">seja</trd>
+  <trd lng="mg">endrika</trd>
+  <trd lng="mi">kanohi</trd>
+  <trd lng="mk">&c_l;&c_i;&c_c;&c_je;</trd>
+  <trd lng="ml">&#xD2E;&#xD41;&#xD16;&#xD02;</trd>
+  <trd lng="mn">&c_n;&#x4AF;&#x4AF;&c_r;</trd>
+  <trd lng="mr">&#x91A;&#x947;&#x939;&#x930;&#x93E;</trd>
+  <trd lng="ms">muka</trd>
+  <trd lng="mt">wi&#x10B;&#x10B;</trd>
+  <trd lng="my">&#x1019;&#x103B;&#x1000;&#x103A;&#x1014;&#x103E;&#x102C;</trd>
+  <trd lng="ne">&#x905;&#x928;&#x941;&#x939;&#x93E;&#x930;</trd>
+  <trd lng="ny">nkhope</trd>
   <trd lng="oc">cara</trd>
+  <trd lng="pa">&#xA26;&#xA3E; &#xA1A;&#xA3F;&#xA39;&#xA30;&#xA3E;</trd>
+  <trd lng="ps">&a_m;&a_kh;</trd>
+  <trd lng="rw">mu maso</trd>
+  <trd lng="sd">&a_m;&a_n;&a_h;&a_n;</trd>
+  <trd lng="si">&#xDB8;&#xDD4;&#xDC4;&#xDD4;&#xDAB;</trd>
+  <trd lng="sl">obraz</trd>
+  <trd lng="sm">mata</trd>
+  <trd lng="sn">uso</trd>
+  <trd lng="so">weji</trd>
+  <trd lng="sq">fytyr&euml;</trd>
+  <trd lng="st">sefahleho</trd>
+  <trd lng="su">beungeut</trd>
+  <trd lng="sw">uso</trd>
+  <trd lng="ta">&#xBAE;&#xBC1;&#xB95;&#xBA4;&#xBCD;&#xBA4;&#xBC8;</trd>
+  <trd lng="te">&#xC2E;&#xC41;&#xC16;&#xC02;</trd>
+  <trd lng="tg">&c_r;&#x4EF;&c_j;</trd>
+  <trd lng="th">&#xE43;&#xE1A;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
+  <trd lng="tl">mukha</trd>
+  <trd lng="tt">&c_j;&#x4E9;&c_z;</trd>
+  <trd lng="uk">&c_o;&c_s;&c_o;&c_b;&c_a;</trd>
+  <trd lng="ur">&f_ch;&#x6C1;&a_r;&#x6D2;</trd>
+  <trd lng="uz">yuz</trd>
+  <trd lng="vi">khu&ocirc;n m&#x1EB7;t</trd>
+  <trd lng="xh">ubuso</trd>
+  <trd lng="yi">&pe;&#x5BC;&nun;&yod;&fmem;</trd>
+  <trd lng="yo">oju</trd>
+  <trd lng="zu">ubuso</trd>
 </drv>
 
 <drv mrk="vizagx.0i">
@@ -178,8 +340,7 @@
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="vizagx.0i.KOMUNE">
     <dif>
-      Teni la <tld/>on, <ref tip="vid"
-      cel="rigard.0i.direkte">rigardi</ref> al iu flanko:
+      Teni la <tld/>on, <ref tip="vid" cel="rigard.0i.direkte">rigardi</ref> al iu flanko:
       <ekz>
         &ccirc;ar &scirc;i <tld/>is al alia direkto, li ne povis rekoni
         &scirc;in
@@ -187,7 +348,10 @@
         101a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de">sich <ind>hinwenden</ind></trd>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_v;&c_a;&c_r;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a; <ind>&c_t;&c_v;&c_a;&c_r;&c_a;&c_m;</ind></trd>
+  <trd lng="en">face</trd>
   <trd lng="fa">&a_r;&a_w; &f_k;&a_r;&a_d;&a_n;<klr tip="amb">
   (&a_b;&a_h; &a_s;&a_w;&f_y; &f_k;&a_s;&f_y; &f_y;&a_A;
   &f_ch;&f_y;&a_z;&f_y;)</klr></trd>
@@ -200,18 +364,73 @@
   <trd lng="it">volgersi<klr> (volgere il viso verso)</klr></trd>
 </drv>
 
+<drv mrk="vizagx.0altere">
+  <kap>
+    <tld/>altere
+  </kap>
+  <snc>
+    <dif>
+      Kun la <tld/>o turnita malsupren; alteren:
+      <ekz>
+        <nom>Abraham</nom> &jcirc;etis sin <tld/>altere, kaj ekridis
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 17:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li levi&gcirc;is renkonte al ili kaj klini&gcirc;is <tld/>altere
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 19:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi senkonscie falis <tld/>altere
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 10:9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ib;&c_c;</trd>,
+    <trd>&c_n;&c_ib;&c_c;&c_m;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>mit dem <ind>Gesicht</ind> zum Boden</trd>,
+    <trd>zu <ind>Boden</ind> gewandt</trd>
+  </trdgrp>
+  <trd lng="en">face down</trd>
+  <trd lng="ja">&#x3046;&#x3064;&#x4F0F;&#x305B;&#x306B;  [<ind>&#x3046;&#x3064;&#x3076;&#x305B;&#x306B;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_i;&c_c;&#x44C;</trd>,
+    <trd>&#x43B;&c_i;&c_c;&c_je;&#x43C; &c_d;&#x43E; &c_z;&c_je;&#x43C;&#x43B;&c_ib;</trd>
+  </trdgrp>
+</drv>
+
 <drv mrk="vizagx.0al0e">
   <kap><tld/>al<tld/>e</kap>
   <snc mrk="vizagx.0al0e.KOMUNE">
     <dif>
       Rigardante unu al la alia:
       <ekz>
-        la pladoj <klr>...</klr> estis metitaj sur ronda
+        la pladoj <klr>[&#x2026;]</klr> estis metitaj sur ronda
         tableto, &ccirc;e kiu ni sidis <tld/>-al-<tld/>e
         <fnt>
           <aut>Ba Jin, trad. Li Shijun</aut>,
           <vrk>A&ubreve;tuno en la Printempo</vrk>,
           <lok>1980</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la homoj vivadis en malgrandaj grupoj en <tld/>'-al-<tld/>a proksimo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2008/009513.php">Punkto de malekvilibrigo</url></vrk>
+          <lok>2008</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -219,30 +438,39 @@
       <ref cel="front.0al0e.KOMUNE">frontalfronte</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_t;&c_v;&c_a;&c_r; &c_u; &c_t;&c_v;&c_a;&c_r;</trd>
   <trd lng="bg">&c_l;&c_i;&c_c;&c_je; &c_v; &c_l;&c_i;&c_c;&c_je;</trd>
+  <trdgrp lng="de">
+    <trd><ind>Gesicht</ind> zu Gesicht</trd>,
+    <trd>dem Anderen <ind>zugewandt</ind></trd>
+  </trdgrp>
+  <trd lng="en">face-to-face</trd>
   <trd lng="fr">face &agrave; face</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.30  2014/08/18 01:10:13  revo
-Jeromo Vasxe: + ~al~e
+versio 1.113 2023/08/29 13:30:03
+Wolfram Diestel: ja: +prononco
 
-Revision 1.29  2014/05/30 15:10:59  revo
-Eko Nur Syah Hidayat: +id
+versio 1.112 2023/03/14 07:28:31
+Dmitri Gabinski: + trd be
 
-Revision 1.28  2013/10/23 20:10:15  revo
-Benito Subejrano: + trd oc
+versio 1.111 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.27  2011/11/21 17:10:13  revo
-Marc Rausell: kataluna traduko
+versio 1.109 2021/11/08 07:40:27
+Noam Mohr: +trd en visagx-
 
-Revision 1.26  2010/11/19 17:30:47  revo
-Antonio Codazzi: +trd it
+versio 1.108 2021/07/28 22:25:16
+Jeromo Vasxe: kor 1 fak k 1 ref
 
-Revision 1.25  2009/08/23 16:32:52  revo
-Wieland Pusch: +trd bg
+versio 1.107 2021/07/27 21:28:34
+Jeromo Vasxe: ~o + snc mieno
 
-Revision 1.24  2009/08/21 16:31:03  revo
+versio 1.106 2021/06/24 12:42:00
+Dmitri Gabinski: + trd be
+
+versio 1.32 2021/03/28 17:32:40
 -->
 </vortaro>

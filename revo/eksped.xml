@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: eksped.xml,v 1.15 2009/09/23 17:25:54 revo Exp $">
+<art mrk="$Id: eksped.xml,v 1.26 2023/08/31 11:49:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>eksped</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,9 +12,39 @@
   <snc mrk="eksped.0i.POSX">
     <uzo tip="fak">POSX</uzo>
     <dif>
-      Sendi al difinita adreso, loko:
+      <ref tip="super" cel="send.el0i.KOMUNE">Elsendi</ref> al difinita adreso, loko:
       <ekz>
-        <tld/>i leteron, komerca&jcirc;on, armeon.
+        <tld/>i leteron, komerca&jcirc;on, armeon;
+      </ekz>
+      <ekz>
+        ni <tld/>as al vi <klr>[&#x2026;]</klr> keston enhavantan 60 botelojn da vinoj
+        diversaj, konforme je la mendo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;efa generalo <tld/>is spionojn al la proksimi&gcirc;antaj Libianoj, por ekscii
+        ilian nombron
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u oni ne povas por &ccirc;iu okazo &ccirc;iam havi &ccirc;e si pulvoreton, kiu vin tute silente
+        <tld/>os trans la A&hcirc;eronon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        neniun mi volus tro frue <tld/>i en la &ccirc;ielon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -50,6 +79,11 @@
     <trd>k&uuml;ld<klr tip="ind"> (felad)</klr></trd>,
     <trd>felad<klr tip="ind"> (k&uuml;ld)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x9001;&#x3059;&#x308B;  [<ind>&#x306F;&#x3063;&#x305D;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x9001;&#x308B;  [<ind>&#x304A;&#x304F;&#x308B;</ind>]</trd>,
+    <trd>&#x6D3E;&#x9063;&#x3059;&#x308B;  [<ind>&#x306F;&#x3051;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>verzenden</trd>,
     <trd>versturen</trd>
@@ -67,7 +101,7 @@
     <trd>enviar</trd>,
     <trd>despachar</trd>
   </trdgrp>
-  <trd lng="ro">trimite prin po&scedil;t&abreve;</trd>
+  <trd lng="ro">trimite prin po&#x219;t&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_t;&c_s;&c_y;&c_l;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_p;&c_r;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
@@ -77,14 +111,39 @@
     <trd>vypravi&tcaron;</trd>,
     <trd>zasla&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_s;&c_i;&#x43B;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="eksped.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="eksped.0o.ado">
     <dif>
-      <tld lit="E"/>ado.
+      <tld lit="E"/>ado:
+      <ekz>
+        koncerne vian proponon pri drapoj, mi beda&ubreve;ras, <klr>[&#x2026;]</klr> atendante vian
+        raporton pri la <tld/>o <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvin tagojn post la <tld/>o la unuaj japanaj abonantoj sciigis pri la (aera)
+        alveno de la maja numero
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Peeraerts</aut>
+          <vrk><url ref="&Monato;/2003/008156.html">Statistiko</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_d;&c_s;&c_y;&c_l;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_a;&c_d;&c_p;&c_r;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>
+    </trdgrp>
     <trdgrp lng="ca">
       <trd>expedici&oacute;</trd>,
       <trd>tramesa</trd>
@@ -108,10 +167,11 @@
       <trd>wysy&lstroke;ka</trd>
     </trdgrp>
   </snc>
-  <snc>
+  <snc mrk="eksped.0o.itajxo">
     <dif>
       <tld lit="E"/>ita&jcirc;o.
     </dif>
+    <trd lng="be">&c_a;&c_d;&c_p;&c_r;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_r;&c_e;&c_ch;)</klr></trd>
     <trdgrp lng="ca">
       <trd>cosa expedida</trd>,
       <trd>cosa tramesa</trd>
@@ -132,12 +192,63 @@
     <trd>envoi</trd>,
     <trd>exp&eacute;dition<klr tip="ind"> (envoi)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x9001;  [<ind>&#x306F;&#x3063;&#x305D;&#x3046;</ind>]</trd>,
+    <trd>&#x6D3E;&#x9063;  [<ind>&#x306F;&#x3051;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">przesy&lstroke;ka</trd>
   <trdgrp lng="sk">
     <trd>expedovanie</trd>,
     <trd>odoslanie</trd>,
     <trd>vypravenie</trd>,
     <trd>zaslanie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&#x43F;&c_r;&c_a;&c_v;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&#x43F;&c_r;&c_a;&c_v;&#x43A;&c_a;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_s;&c_i;&#x43B;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eksped.0ejo">
+  <kap>
+    <tld/>ejo
+  </kap>
+  <snc mrk="eksped.0ejo.loko">
+    <dif>
+      Loko destinita por <tld/>ado:
+      <ekz>
+        la <tld/>ejo <klr>[&#x2026;]</klr> ku&scirc;is tre oportune sur la bazaro post malfermita
+        pordo <klr>[&#x2026;]</klr>, tiel ke la kolera farmanto, kiu postulis proceson, kun
+        la plej granda facileco povis ensalti
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        gvidanto de la <tld/>ejo de SEU
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>ejo, oni plenigas kontenerojn per ru&gcirc;aj kestoj, numerita plumbsigelo
+        fermas la &leftquot;skatolegon&rightquot;: ek al Afriko
+        <fnt>
+          <bib>MD17</bib>
+          <vrk>&Ccirc;inaj falsitaj produktoj por Afriko</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t; &c_a;&c_d;&c_p;&c_r;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Versandb&uuml;ro</trd>,
+    <trd>Expeditionsb&uuml;ro</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_je;&#x43A;&c_s;&#x43F;&c_je;&c_d;&c_i;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_d;&c_ib;&#x43B;&c_je;&#x43D;&#x43D;&#x44F; &c_d;&#x43B;&#x44F; &c_v;&c_ib;&c_d;&#x43F;&c_r;&c_a;&c_v;&#x43A;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -151,22 +262,36 @@
         mi donas la mendilon al iu <tld/>isto
         <fnt>
          <aut>Yao Yongzhong, red. Xie Ruifeng</aut>,
-         <vrk><url
-         ref="http://esperanto.china.org.cn/2015-07/02/content_35967223.htm">
+         <vrk><url ref="http://esperanto.china.org.cn/2015-07/02/content_35967223.htm">
          Fari&gcirc;i verkisto kaj starigi retbutikon...</url></vrk>,
          <lok>El Popola &Ccirc;inio, 2015-07-02</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_e;&c_d;&c_y;&c_t;&c_a;&c_r;</trd>
   <trdgrp lng="fr">
     <trd>entreprise d'exp&eacute;dition</trd>,
     <trd>entreprise de routage</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x9001;&#x4FC2;  [<ind>&#x306F;&#x3063;&#x305D;&#x3046;&#x304B;&#x304B;&#x308A;</ind>]</trd>,
+    <trd>&#x904B;&#x9001;&#x696D;&#x8005;  [<ind>&#x3046;&#x3093;&#x305D;&#x3046;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_je;&#x43A;&c_s;&#x43F;&c_je;&c_d;&c_i;&c_t;&#x43E;&c_r;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/07/19 08:31:11
+Dmitri Gabinski: + trd be
+
+versio 1.24 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/09/05 18:31:46
+Wolfram Diestel: +ekz-oj, +~ejo
+
 Revision 1.20  2015/08/30 17:10:15  revo
 Jeromo Vasxe: + ~isto
 
@@ -180,11 +305,5 @@ Revision 1.17  2013/12/15 18:10:39  revo
 Joop Eggen: +trd bg
 
 Revision 1.16  2012/09/05 08:10:33  revo
-Marc Rausell: + trd ca
-
-Revision 1.15  2009/09/23 17:25:54  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.14  2009/08/26 16:30:56  revo
 -->
 </vortaro>

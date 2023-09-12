@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: minera.xml,v 1.14 2009/07/11 16:31:54 revo Exp $">
+<art mrk="$Id: minera.xml,v 1.24 2023/09/02 06:04:12 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>mineral</rad>/o
@@ -27,18 +26,16 @@
         <fnt>
           <bib>Monato</bib>
           <aut>MU Binghua</aut>
-          <vrk><url ref="https://www.monato.be/2003/008055.html"
-              >Mineralaj ri&ccirc;a&jcirc;oj balda&ubreve; mankos</url></vrk>
+          <vrk><url ref="&Monato;/2003/008055.html">Mineralaj ri&ccirc;a&jcirc;oj balda&ubreve; mankos</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la <tld/>oj estas bazo por la disvolvo de la nacia ekonomio kaj <klr>[&#8230;]</klr>
+        la <tld/>oj estas bazo por la disvolvo de la nacia ekonomio kaj <klr>[&#x2026;]</klr>
         en ia senco, ilia kvanto kaj kvalito rekte influas la &scirc;tatan sekurecon
         <fnt>
           <bib>Monato</bib>
           <aut>Mu Binghua</aut>
-          <vrk><url ref="https://www.monato.be/2003/008055.html"
-              >Mineralaj ri&ccirc;a&jcirc;oj balda&ubreve; mankos</url></vrk>
+          <vrk><url ref="&Monato;/2003/008055.html">Mineralaj ri&ccirc;a&jcirc;oj balda&ubreve; mankos</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -46,8 +43,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="https://www.monato.be/2003/008119.html"
-              >Taglibro de l' milito ... el la lando de &Scirc;ekspiro</url></vrk>
+          <vrk><url ref="&Monato;/2003/008119.html">Taglibro de l' milito ... el la lando de &Scirc;ekspiro</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -56,8 +52,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="&Monato;/2010/009963.php"
-              >Ora febro en Litovio</url></vrk>
+          <vrk><url ref="&Monato;/2010/009963.php">Ora febro en Litovio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -65,8 +60,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="&Monato;/2011/010212.php"
-              >La marmora groto Gadime</url></vrk>
+          <vrk><url ref="&Monato;/2011/010212.php">La marmora groto Gadime</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -74,8 +68,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="&Monato;/2011/010474.php"
-              >Ri&ccirc;a tero, malri&ccirc;a popolo</url></vrk>
+          <vrk><url ref="&Monato;/2011/010474.php">Ri&ccirc;a tero, malri&ccirc;a popolo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -85,8 +78,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="&Monato;/2013/010881.php"
-              >Gasojlo el lignaj defala&jcirc;oj</url></vrk>
+          <vrk><url ref="&Monato;/2013/010881.php">Gasojlo el lignaj defala&jcirc;oj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -94,8 +86,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="&Monato;/2014/011269.php"
-              >Pioniro de sendrata te&hcirc;nologio</url></vrk>
+          <vrk><url ref="&Monato;/2014/011269.php">Pioniro de sendrata te&hcirc;nologio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -113,17 +104,34 @@
   <trd lng="fa">&f_k;&a_A;&a_n;&f_y;</trd>
   <trd lng="fr">min&eacute;ral<klr tip="amb"> (subst.)</klr></trd>
   <trd lng="hu">&aacute;sv&aacute;ny</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9271;&#x7269;  [<ind>&#x3053;&#x3046;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x7121;&#x6A5F;&#x7269;  [<ind>&#x3080;&#x304D;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x30DF;&#x30CD;&#x30E9;&#x30EB;</trd>
+  </trdgrp>
   <trd lng="nl">mineraal</trd>
+  <trd lng="pl">minera&lstroke;</trd>
   <trd lng="pt">mineral <klr>(subst.)</klr></trd>
+  <trd lng="ro">mineral</trd>
   <trd lng="ru">&c_m;&c_i;&c_n;&c_je;&c_r;&c_a;&c_l;</trd>
   <trdgrp lng="sk">
     <trd>hornina</trd>,
     <trd>nerast</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x456;&#x43D;&#x435;&#x440;&#x430;&#x43B;</trd>,
+    <trd>&#x43A;&#x43E;&#x43F;&#x430;&#x43B;&#x438;&#x43D;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2020/08/25 22:10:33
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.19  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
@@ -140,14 +148,5 @@ Revision 1.15  2013/08/19 13:10:15  revo
 Joop Eggen: +trd bg
 
 Revision 1.14  2009/07/11 16:31:54  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.13  2006/08/03 16:31:58  revo
-Tulio Flores: +tr pt
-
-Revision 1.12  2005/12/17 17:31:45  revo
-Jeromo Vasxe: + fak min
-
-Revision 1.11  2005/04/07 16:31:26  revo
 -->
 </vortaro>

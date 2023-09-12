@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: sucx.xml,v 1.30 2020/02/03 08:10:16 revo Exp $">
+<art mrk="$Id: sucx.xml,v 1.39 2023/09/04 15:14:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>su&ccirc;</rad>/i
@@ -63,12 +62,12 @@
         <tld/>botelo
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
           <lok>Vagonrestoracio</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>i fumon el <klr>[&#8230;]</klr> akvopipo
+        <tld/>i fumon el <klr>[&#x2026;]</klr> akvopipo
         <fnt>
           <aut>Michael Ende, trad. Wolfram Diestel</aut>
           <vrk>La Sen&ccirc;esa Rakonto</vrk>
@@ -80,7 +79,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Joyce Bunting</aut>
-          <vrk><url ref="https://www.monato.be/2013/010846.php">Taktiko por noveca tritiko</url></vrk>
+          <vrk><url ref="&Monato;/2013/010846.php">Taktiko por noveca
+          tritiko</url></vrk>
           <lok>2013</lok>
         </fnt>;
       </ekz>
@@ -90,15 +90,16 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Walter Klag</aut>
-          <vrk><url ref="https://www.monato.be/2013/010935.php">Briko-muzeo</url></vrk>
+          <vrk><url ref="&Monato;/2013/010935.php">Briko-muzeo</url></vrk>
           <lok>2013</lok>
         </fnt>;
       </ekz>
       <ekz>
-        en la <klr>[&#8230;]</klr> <tld/>infana periodo de nia lingvo
+        en la <klr>[&#x2026;]</klr> <tld/>infana periodo de nia lingvo
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -107,6 +108,10 @@
       <ref cel="cxerp.0i">&ccirc;erpi</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_s;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_m;&c_a;&c_k;&c_t;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>saugen</trd>,
     <trd>zutschen</trd>
@@ -116,12 +121,21 @@
   <trd lng="fa">&a_m;&f_k;&f_y;&a_d;&a_n;</trd>
   <trd lng="fr">sucer</trd>
   <trd lng="hu">sz&iacute;v</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5438;&#x3046;  [<ind>&#x3059;&#x3046;</ind>]</trd>,
+    <trd>&#x3059;&#x3059;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">zuigen</trd>
   <trdgrp lng="pl">
     <trd>ssa&cacute;</trd>,
     <trd>zasysa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_o;&c_s;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_s;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_g;&#x43E;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F; &c_g;&c_r;&c_u;&c_d;&#x44C;&#x43C;&c_i;</trd>,
+    <trd>&c_u;&c_s;&#x43C;&#x43E;&#x43A;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i; (&#x43F;&c_r;&#x43E; &#x43D;&c_a;&c_s;&#x43E;&c_s;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sucx.0igi">
@@ -130,7 +144,7 @@
     <dif>
       Mamnutri:
       <ekz>
-        virino <klr>[&#8230;]</klr> <tld/>igis sian infanon
+        virino <klr>[&#x2026;]</klr> <tld/>igis sian infanon
         <fnt>
           <bib>MT</bib>
           <lok>I. Samuel 1:23</lok>
@@ -160,6 +174,10 @@
     </dif>
     <trd lng="de">s&auml;ugen</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_s;&c_s;&c_a;&c_c;&c_mol;</ind></trd>,
+    <trd>&c_k;&c_a;&c_r;&c_m;&c_ib;&c_c;&c_mol; &c_g;&c_r;&c_u;&c_d;&c_z;&c_mol;&c_m;&c_ib;</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>give <ind>suck</ind></trd>,
     <trd>nurse</trd>,
@@ -169,10 +187,18 @@
   <trd lng="fa">&a_sh;&f_y;&a_r; &a_d;&a_A;&a_d;&a_n;<klr tip="amb"> (&a_b;&a_h; &f_k;&a_w;&a_d;&f_k;)</klr></trd>
   <trd lng="fr">allaiter</trd>
   <trd lng="hu">szoptat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5438;&#x308F;&#x305B;&#x308B;  [<ind>&#x3059;&#x308F;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x6388;&#x4E73;&#x3059;&#x308B;  [<ind>&#x3058;&#x3085;&#x306B;&#x3085;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zogen</trd>
   <trdgrp lng="pl">
     <trd>da&cacute; <ind>ssa&cacute;</ind></trd>,
     <trd>karmi&cacute; <ind>piersi&aogonek;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_s;&c_s;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_g;&#x43E;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i; &c_g;&c_r;&c_u;&c_d;&#x44C;&#x43C;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -183,10 +209,10 @@
     <dif>
       Ekstera <tld/>a organo de diversaj bestoj:
       <ekz>
-        la papilioj <klr>[&#8230;]</klr> estis elrulintaj siajn <tld/>ilojn
+        la papilioj <klr>[&#x2026;]</klr> estis elrulintaj siajn <tld/>ilojn
         <fnt>
           <aut>P. T. Justesen</aut>
-          <vrk><url ref="http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/np/np5702/papilio.html">
+          <vrk><url ref="&DonH;Revuoj/np/np5702/papilio.html">
           Papilio</url></vrk>
           <lok>Malgranda Revuo, 1943</lok>
         </fnt>;
@@ -199,11 +225,11 @@
         </fnt>;
       </ekz>
       <ekz>
-        cefalopodoj <klr>[&#8230;]</klr> en la plejo da vivantaj specioj,
+        cefalopodoj <klr>[&#x2026;]</klr> en la plejo da vivantaj specioj,
         havas <tld/>ilojn (ekzemple sepio, na&ubreve;tilo)
         <fnt>
           <aut>K. Lendon</aut>
-          <vrk><url ref="http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/np/np5702/papilio.html">
+          <vrk><url ref="&DonH;Revuoj/np/np5702/papilio.html">
           Glosaro de la Origino de Specioj</url></vrk>
           <lok>2009</lok>
         </fnt>.
@@ -212,6 +238,7 @@
     <refgrp tip="vid">
       <ref cel="kup.0o.ZOO">kupo<sncref/></ref>
     </refgrp>
+    <trd lng="en">suction cup</trd>
   </snc>
   <snc mrk="sucx.0ilo.HEJM">
     <dif>
@@ -225,7 +252,21 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en">pacifier</trd>
   </snc>
+  <trd lng="be">&c_s;&c_m;&c_o;&c_ch;&c_a;&c_k;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5438;&#x53E3;  [<ind>&#x3059;&#x3044;&#x304F;&#x3061;</ind>]</trd>,
+    <trd>&#x5438;&#x7BA1;  [<ind>&#x3059;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x5438;&#x76E4;  [<ind>&#x304D;&#x3085;&#x3046;&#x3070;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_h;&#x43E;&c_b;&#x43E;&c_t;&#x43E;&#x43A; (&c_u; &#x43A;&#x43E;&#x43C;&c_a;&c_h;)</trd>,
+    <trd>&#x43F;&c_r;&c_i;&c_s;&#x43E;&c_s;&#x43E;&#x43A; (&c_u; &c_r;&#x43E;&c_s;&#x43B;&c_i;&#x43D;)</trd>,
+    <trd>&#x43F;&c_r;&c_i;&c_j;&#x43E;&#x43C;&#x43D;&c_i;&c_j; &c_sh;&#x43B;&c_a;&#x43D;&c_g;</trd>,
+    <trd>&c_v;&c_i;&c_t;&#x44F;&c_zh;&#x43D;&c_i;&c_j; &#x43F;&c_a;&c_t;&c_r;&c_u;&c_b;&#x43E;&#x43A;</trd>,
+    <trd>&c_s;&#x43E;&c_s;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sucx.0umo">
@@ -238,11 +279,12 @@
       kiun oni donas al bebo, por ke &gcirc;i trankvili&gcirc;u <tld/>ante &gcirc;in;
       <ref tip="dif" cel="sucx.0ilo.HEJM">su&ccirc;ilo<sncref/></ref>:
       <ekz>
-        la plej malgrandaj knaboj sub la premo far la gepatroj <klr>[&#8230;]</klr> sin sentas
+        la plej malgrandaj knaboj sub la premo far la gepatroj <klr>[&#x2026;]</klr> sin sentas
         devigitaj rezigni la uzadon de la <tld/>umo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=56749">Kataluna kristnaska ciklo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=56749">Kataluna kristnaska
+          ciklo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -250,6 +292,7 @@
       <ref cel="cic.0umo">cicumo</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_s;&c_o;&c_s;&c_k;&c_a;</trd>
   <trd lng="de">Schnuller</trd>
   <trdgrp lng="en"><trd>pacifier</trd>, <trd>dummy</trd></trdgrp>
   <trdgrp lng="es">
@@ -262,6 +305,7 @@
     <trd>cucli</trd>,
     <trd>cumi</trd>
   </trdgrp>
+  <trd lng="ja">&#x304A;&#x3057;&#x3083;&#x3076;&#x308A;</trd>
   <trd lng="pl">smoczek</trd>
   <trd lng="ro">biberon</trd>  
 </drv>
@@ -273,7 +317,7 @@
     <dif>
       Eltiri per alspirado de bu&scirc;o la tutan flua&jcirc;on el io; elsekigi:
       <ekz>
-        li <klr>[&#8230;]</klr> el<tld/>is el &scirc;ia dekstra brusto tri gutojn da sango kaj
+        li <klr>[&#x2026;]</klr> el<tld/>is el &scirc;ia dekstra brusto tri gutojn da sango kaj
         elkra&ccirc;is ilin
         <fnt>
           <bib>ElektFab</bib>
@@ -297,7 +341,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="https://www.monato.be/2004/008223.html">&Ccirc;e-telefone ... kiu?</url></vrk>
+          <vrk><url ref="&Monato;/2004/008223.html">&Ccirc;e-telefone ... kiu?</url></vrk>
           <lok>2004</lok>
         </fnt>;
       </ekz>
@@ -305,9 +349,10 @@
         la ekonomia liberaligo ebligis revigligi la ekonomion de la lando anta&ubreve;e
         el<tld/>ita
         <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
           <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006831.html">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <lok>2000/02, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -332,7 +377,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url ref="https://www.monato.be/2014/011375.php">Kanibalismo - kaj kazinoj</url></vrk>
+          <vrk><url ref="&Monato;/2014/011375.php">Kanibalismo - kaj
+          kazinoj</url></vrk>
           <lok>2014</lok>
         </fnt>.
       </ekz>
@@ -344,13 +390,23 @@
     </trdgrp>
     <trd lng="es">acabar</trd>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_s;&c_s;&c_a;&c_c;&c_mol;</trd>
   <trd lng="de">aussaugen</trd>
   <trd lng="en">deplete</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5438;&#x3044;&#x51FA;&#x3059;  [<ind>&#x3059;&#x3044;&#x3060;&#x3059;</ind>]</trd>,
+    <trd>&#x5438;&#x3044;&#x3064;&#x304F;&#x3059;  [<ind>&#x3059;&#x3044;&#x3064;&#x304F;&#x3059;</ind>]</trd>,
+    <trd>&#x6D88;&#x8017;&#x3055;&#x305B;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3082;&#x3046;&#x3055;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">uitzuigen</trd>
   <trd lng="pl">wyssa&cacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_y;&c_s;&c_o;&c_s;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_s;&c_a;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_s;&#x43C;&#x43E;&#x43A;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_i;&c_s;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -411,6 +467,10 @@
       la <tld/>ata afero, se ne temas pri mampinto.
     </rim>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_s;&c_a;&c_c;&c_mol; &c_g;&c_r;&c_u;&c_d;&c_z;&c_ib;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_m;&c_ib;&c_c;&c_c;&c_a; &c_g;&c_r;&c_u;&c_d;&c_z;&c_mol;&c_m;&c_ib;</trd>
+  </trdgrp>
   <trd lng="br">dena&ntilde;</trd>
   <trd lng="ca">mamar</trd>
   <trd lng="de">an der <ind>Brust</ind> trinken</trd>
@@ -421,6 +481,7 @@
   <trd lng="fr">t&eacute;ter</trd>
   <trd lng="he">&lamed;<ind>&yod;&nun;&vav;&qof;</ind></trd>
   <trd lng="hu">szopik</trd>
+  <trd lng="ja">&#x98F2;&#x3080;  [<ind>&#x306E;&#x3080;</ind>]</trd>
   <trdgrp lng="lat">
     <trd>lacteo, ere</trd>,
     <trd>sugo, ere</trd>
@@ -430,6 +491,7 @@
   <trd lng="pt">mamar</trd>
   <trd lng="ru">&c_s;&c_o;&c_s;&c_a;&c_t;&c_mol;
   &c_g;&c_r;&c_u;&c_d;&c_mol;</trd>
+  <trd lng="uk">&c_s;&c_s;&c_a;&c_t;&c_i; &c_g;&c_r;&c_u;&c_d;&c_i;</trd>
 </drv>
 
 <drv mrk="sucx.mam0igi">
@@ -456,15 +518,16 @@
     </dif>
     <trd lng="de">s&auml;ugen</trd>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_r;&c_m;&c_ib;&c_c;&c_mol; &c_g;&c_r;&c_u;&c_d;&c_z;&c_mol;&c_m;&c_ib;</trd>
   <trd lng="fr">allaiter</trd>
   <trd lng="he">&lamed;<ind>&he;&yod;&nun;&yod;&qof;</ind></trd>
   <trd lng="hu">szoptat</trd>
   <trd lng="nl">zogen</trd>
   <trd lng="pl">karmi&cacute; <ind>piersi&aogonek;</ind></trd>
   <trd lng="pt">amamentar</trd>
-  <trd lng="ru">&c_k;&c_o;&c_r;&c_m;&c_i;&c_t;&c_mol;
-  &c_g;&c_r;&c_u;&c_d;&c_mol;&c_ju;</trd>
+  <trd lng="ru">&c_k;&c_o;&c_r;&c_m;&c_i;&c_t;&c_mol; &c_g;&c_r;&c_u;&c_d;&c_mol;&c_ju;</trd>
   <trd lng="tr">emzirmek</trd>
+  <trd lng="uk">&c_g;&#x43E;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i; &c_g;&c_r;&c_u;&c_d;&#x44C;&#x43C;&c_i;</trd>
 </drv>
 
 <drv mrk="sucx.polvo0ilo">
@@ -479,11 +542,12 @@
       <ekz>
         la kompanio enkondukis teknikojn de malseka kaj seka polvo<tld/>ilo
         <fnt>
-          <vrk><url ref="https://www.btmeac.com/eo/about-us/">Pri bona - Shandong Pli bona Motoro Co., Ltd</url></vrk>
+          <vrk><url ref="https://www.btmeac.com/eo/about-us/">Pri bona - Shandong Pli bona Motoro
+          Co., Ltd</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        tiaj personaj robotoj <klr>[&#8230;]</klr> &leftquot;scipovas&rightquot; purigi per polvo<tld/>ilo
+        tiaj personaj robotoj <klr>[&#x2026;]</klr> &leftquot;scipovas&rightquot; purigi per polvo<tld/>ilo
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=12982">Roboto</url></lok>
@@ -491,20 +555,41 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_y;&c_l;&c_a;&c_s;&c_o;&c_s;</trd>
   <trd lng="bg">&c_p;&c_r;&c_a;&c_h;&c_o;&c_s;&c_m;&c_u;&c_k;&c_a;&c_ch;&c_k;&c_a;</trd>
   <trd lng="de">Staubsauger</trd>
   <trd lng="en">vacuum cleaner</trd>
   <trd lng="es">aspiradora</trd>
   <trd lng="fr">aspirateur</trd>
   <trd lng="hu">porsz&iacute;v&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96FB;&#x6C17;&#x6383;&#x9664;&#x6A5F;  [<ind>&#x3067;&#x3093;&#x304D;&#x305D;&#x3046;&#x3058;&#x304D;</ind>]</trd>,
+    <trd>&#x771F;&#x7A7A;&#x6383;&#x9664;&#x6A5F;  [<ind>&#x3057;&#x3093;&#x304F;&#x3046;&#x305D;&#x3046;&#x3058;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">stofzuiger</trd>
   <trd lng="pl">odkurzacz</trd>
   <trd lng="ru">&c_p;&c_y;&c_l;&c_je;&c_s;&c_o;&c_s;</trd>
+  <trd lng="uk">&#x43F;&c_i;&#x43B;&#x43E;&c_s;&#x43E;&c_s;</trd>
 </drv>
 
 </art>
 <!--
-$Log: sucx.xml,v $
+$Log$
+versio 1.38 2023/05/27 17:27:30
+Bradford Carl Smith: dividu anglajn vortojn por "sucxilo" laux senco
+
+versio 1.37 2023/05/27 04:29:07
+Bradford Carl Smith: aldonu anglajn vortojn por "sucxilo"
+
+versio 1.36 2023/04/20 06:33:21
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.35 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/03/16 09:30:10
+Dmitri Gabinski: + trd be
+
 versio 1.30 2020/02/03 08:10:16
 Wolfram Diestel: el~i...: ekz-oj
 
@@ -512,20 +597,5 @@ Revision 1.29  2020/02/02 12:10:19  revo
 Wolfram Diestel: ~ilo, ~umo: ekz-oj; +polvo~ilo
 
 Revision 1.28  2020/02/02 09:10:17  revo
-Wolfram Diestel: ~i, ~igi: ekz-oj
-
-Revision 1.27  2020/01/04 18:26:40  revo
-Wolfram Diestel: +fnt
-
-Revision 1.26  2018/04/27 09:10:21  revo
-Jeromo Vasxe: ~ilo + snc ZOO, rearangx ~ilo/~umo
-
-Revision 1.25  2016/01/26 16:10:30  revo
-Neil Roberts: +trd en
-
-Revision 1.24  2013/12/10 13:10:16  revo
-Damien Brucker: +trd fr
-
-Revision 1.23  2013/09/29 20:10:10  revo
 -->
 </vortaro>

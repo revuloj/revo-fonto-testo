@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kalvar.xml,v 1.17 2009/08/23 16:33:01 revo Exp $">
+<art mrk="$Id: kalvar.xml,v 1.29 2023/08/31 19:24:09 revo Exp $">
 <kap>
   <rad>Kalvari</rad>/o
   <fnt><bib>Marta</bib></fnt>
@@ -28,14 +27,26 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_K;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_r;&c_y;&c_ja;</trd>,
+    <trd>&c_G;&c_a;&c_l;&c_mol;&c_g;&c_o;&c_t;&c_a;</trd>
+  </trdgrp>
   <trd lng="br">Kalvar</trd>
   <trdgrp lng="ca">
     <trd>el <ind>Calvari</ind></trd>,
     <trd>el <ind>G&ograve;lgota</ind></trd>
   </trdgrp>
   <trd lng="cs">Kalv&aacute;rie</trd>
-  <trd lng="de">Berg <ind>Golgota</ind></trd>
-  <trd lng="en">Calvary</trd>
+  <trdgrp lng="de">
+    <trd>Berg <ind>Golgota</ind></trd>,
+    <trd>Golgota</trd>,
+    <trd>Golgatha</trd>,
+    <trd>Golgotha</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Calvary</trd>,
+    <trd>Golgotha</trd>
+  </trdgrp>
   <trd lng="es">Calvario</trd>
   <trdgrp lng="fr">
     <trd>Calvaire</trd>,
@@ -52,7 +63,7 @@
     <trd>Golgota</trd>
   </trdgrp>   
   <trdgrp lng="ro">
-    <trd>C&abreve;p&abreve;&tcedil;&acirc;na</trd>,
+    <trd>C&abreve;p&abreve;&#x21B;&acirc;na</trd>,
     <trd>Golgota</trd>
   </trdgrp> 
   <trd lng="ru">&c_G;&c_o;&c_l;&c_g;&c_o;&c_f;&c_a;</trd>
@@ -64,15 +75,16 @@
   <uzo tip="fak">KRI</uzo>
   <snc mrk="kalvar.k0o.monumento">
     <dif>
-      Monumento, prezentanta la krucumadon de
+      <ref tip="super" cel="monume.0o">Monumento</ref>, prezentanta la krucumadon de
       <ref cel="jesu.0o.homo">Jesuo</ref>, kaj kutime
       situanta &ccirc;e vojkruci&gcirc;o a&ubreve; sur monteto:
       <ekz>
         &ccirc;irka&ubreve;e vidindas multegaj kapeloj, skulptitaj <tld lit="k"/>oj
         <fnt>
-          <bib>Monato</bib>
           <aut>Josette Ducloyer</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006851.html">Francio: Quimper</url></vrk>
+          <vrk><url ref="&Monato;/2000/006851.php">Quimper</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -87,7 +99,16 @@
       </ekz>
     </dif>
     <trd lng="ca">calvari</trd>
-    <trd lng="de">Kalvarienberg</trd>
+    <trdgrp lng="de">
+      <trd>Kalvarienberg</trd>,
+      <trd>Stationsberg</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>calvary</trd>,
+      <trd>calvary hill</trd>,
+      <trd>Sacred Mount</trd>,
+      <trd>Sacred Mountain</trd>
+    </trdgrp>
     <trd lng="fr">calvaire<klr tip="ind"> (monument)</klr></trd>
     <trd lng="hu">k&aacute;lv&aacute;ria</trd>  
     <trd lng="nl">calvarieberg<klr tip="ind"> (afbeelding)</klr></trd>  
@@ -101,12 +122,17 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.be/2013/010955.php">Ne trudu, ne mortigu ...</url></vrk>
+          <vrk><url ref="&Monato;/2013/010955.php">Ne trudu, ne mortigu ...</url></vrk>
           <lok>2013</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="ca">viacrucis</trd>
+    <trd lng="de">Kreuzweg</trd>
+    <trdgrp lng="en">
+      <trd>Stations of the Cross</trd>,
+      <trd>Way of the Cross</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>calvaire<klr tip="ind"> (fig.)</klr></trd>,
       <trd>chemin de <ind>croix</ind><klr tip="ind"> (propre et
@@ -118,10 +144,13 @@
     <trd lng="hu">kereszt&uacute;t</trd> 
     <trd lng="nl">kruisweg</trd>   
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_r;&c_y;&c_ja;</trd>
   <trd lng="cs">Kalv&aacute;rie</trd>
+  <trd lng="ja">&#x30AB;&#x30EB;&#x30D0;&#x30EA;</trd>
   <trd lng="pl">kalwaria</trd>     
   <trd lng="ro">calvar</trd>
   <trd lng="sk">Kalv&aacute;ria</trd>
+  <trd lng="uk">&c_K;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_r;&c_ib;&c_ja;</trd>
 </drv>
 
 <drv mrk="kalvar.k0avojo">
@@ -135,8 +164,14 @@
     </dif>                         
     <trd lng="br">Hent ar Groaz</trd>
     <trd lng="ca">viacrucis</trd>
-    <trd lng="de">Kreuzweg</trd>
-    <trd lng="en">stations of the cross</trd>
+    <trdgrp lng="de">
+      <trd>Kreuzweg</trd>,
+      <trd>Prozessionsweg</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>Stations of the Cross</trd>,
+      <trd>Way of the Cross</trd>
+    </trdgrp>
     <trd lng="hu">kereszt&uacute;t</trd>    
     <trd lng="nl">kruisweg</trd>
     <trd lng="ru">&c_k;&c_r;&c_je;&c_s;&c_t;&c_n;&c_y;&c_je; &c_m;&c_u;&c_k;&c_i;</trd>
@@ -167,7 +202,9 @@
     <trd lng="nl">lijdensweg</trd>
     <trd lng="ru">&c_t;&c_je;&c_r;&c_n;&c_i;&c_s;&c_t;&c_y;&c_j; &c_p;&c_u;&c_t;&c_mol;</trd>
   </snc>
+  <trd lng="be">&c_k;&c_r;&c_y;&c_zh;&c_o;&c_v;&c_y; &c_sh;&c_l;&c_ja;&c_h;</trd>
   <trd lng="cs">K&rcaron;&iacute;&zcaron;ov&aacute; cesta</trd>
+  <trd lng="en">Way of Sorrows</trd>
   <trd lng="es">calvario</trd>
   <trdgrp lng="fr">
     <trd>calvaire<klr tip="ind"> (fig.)</klr></trd>,
@@ -180,15 +217,37 @@
   <trd lng="pl">droga krzy&zdot;owa</trd>     
   <trd lng="ro">Calea Crucii</trd>
   <trd lng="sk">Kr&iacute;&zcaron;ov&aacute; cesta</trd>
+  <trdgrp lng="uk">
+    <trd>&c_H;&c_r;&c_je;&c_s;&c_n;&c_a; &c_d;&c_o;&c_r;&c_o;&c_g;&c_a;</trd>,
+    <trd>&c_t;&c_je;&c_r;&c_n;&c_i;&c_s;&c_t;&c_i;&c_j; &c_sh;&c_l;&c_ja;&c_h;</trd>,
+    <trd>&c_m;&c_u;&c_ch;&c_je;&c_n;&c_i;&c_c;&c_mol;&c_k;&c_je; &c_zh;&c_i;&c_t;&c_t;&c_ja;</trd>
+  </trdgrp>
 </drv>
 <adm>
   Pro la reverkado indas kontroli la
   tradukojn de, en, ru, hu, es.
   <aut>MB</aut>
+  Mi kontrolis kaj kompletigis de, en.
+  <aut>CS</aut>  
 </adm>
 </art>
 <!--
 $Log$
+versio 1.28 2023/04/28 08:30:19
+Dmitri Gabinski: + trd be
+
+versio 1.27 2023/04/27 17:25:37
+Christian Siefkes: +trd de, en
+
+versio 1.26 2023/04/13 16:34:14
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.25 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2021/07/04 08:32:11
+Wolfram Diestel: +ref
+
 Revision 1.21  2018/12/16 23:10:22  revo
 Vito Redsky: +trd pl +trd ro
 
@@ -196,17 +255,5 @@ Revision 1.20  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.19  2015/06/29 16:33:16  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.18  2012/09/01 08:10:13  revo
-Marc Rausell: + trd ca
-
-Revision 1.17  2009/08/23 16:33:01  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.16  2005/10/24 16:31:57  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.15  2005/04/21 17:18:21  revo
 -->
 </vortaro>

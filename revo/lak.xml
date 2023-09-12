@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lak.xml,v 1.20 2009/09/22 17:17:11 revo Exp $">
+<art mrk="$Id: lak.xml,v 1.33 2023/09/01 19:10:57 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lak</rad>/o
@@ -21,7 +20,14 @@
       <ref cel="glace.0a">glacea</ref>,
       <ref cel="glazur.0o.TEK">glazuro<sncref/></ref>
     </refgrp>
-    <trd lng="de">Lackfirnis</trd>
+    <trd lng="de">Lackfirnis</trd>    
+    <trdgrp lng="de">
+      <trd>Lack</trd>,
+      <trd>Firnis</trd>,
+      <trd>Lasur</trd>,
+      <trd>Anstrich</trd>,
+      <trd>Politur</trd>
+    </trdgrp>
   </snc>
   <!--
   <snc>
@@ -42,6 +48,10 @@
     <trd>vernis</trd>
   </trdgrp>
   <trd lng="hu">lakk</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E9;&#x30C3;&#x30AB;&#x30FC;</trd>,
+    <trd>&#x6F06;  [<ind>&#x3046;&#x308B;&#x3057;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">lak</trd>
   <trd lng="pl">lakier</trd>
   <trdgrp lng="pt">
@@ -57,6 +67,7 @@
     <trd>lak</trd>,
     <trd>lakov&eacute; barvivo</trd>
   </trdgrp>
+  <trd lng="uk">&#x43B;&c_a;&#x43A;</trd>
 </drv>
 
 <drv mrk="lak.0i">
@@ -90,14 +101,23 @@
     <trd>vernir</trd>
   </trdgrp>
   <trd lng="hu">lakkoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E9;&#x30C3;&#x30AB;&#x30FC;&#x3092;&#x5857;&#x308B;  [<ind>&#x30E9;&#x30C3;&#x30AB;&#x30FC;&#x3092;&#x306C;&#x308B;</ind>]</trd>,
+    <trd>&#x6F06;&#x3092;&#x5857;&#x308B;  [<ind>&#x3046;&#x308B;&#x3057;&#x3092;&#x306C;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">lakken</trd>
   <trd lng="pl">lakierowa&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>envernizar</trd>
+    <trd>laquear</trd>
+  </trdgrp>
   <trd lng="ru">
   &c_l;&c_a;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>lakova&tcaron;</trd>,
     <trd>prikr&aacute;&scaron;&lcaron;ova&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43B;&c_a;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="lak.0ajxo">
@@ -107,8 +127,10 @@
     <dif>
       Arta&jcirc;o kovrita kaj beligita de <tld/>o:
       <ekz>
-        por ri&ccirc;igi la kolorojn de <tld/>a&jcirc;oj, la <tld/>istoj a&ubreve; inkrustis <tld/>a&jcirc;ojn
-        per perlamoto, oro, ar&gcirc;ento kc., a&ubreve; &ccirc;izis strekojn sur la surfaco de
+        por ri&ccirc;igi la kolorojn de <tld/>a&jcirc;oj, la <tld/>istoj a&ubreve;
+        inkrustis <tld/>a&jcirc;ojn
+        per perlamoto, oro, ar&gcirc;ento kc., a&ubreve; &ccirc;izis strekojn sur la
+        surfaco de
         <tld/>a&jcirc;oj por doni kolorojn
         <fnt>
           <aut>Qiao Shiguang</aut>
@@ -120,6 +142,8 @@
     </dif>
   </snc>
   <trd lng="fr">laque<klr> (objet)</klr></trd>
+  <trd lng="ja">&#x6F06;&#x5668;  [<ind>&#x3057;&#x3063;&#x304D;</ind>]</trd>
+  <trd lng="uk">&#x43B;&c_a;&#x43A;&#x43E;&c_v;&c_a;&#x43D;&c_i;&c_j; &c_v;&c_i;&c_r;&c_ib;&c_b;</trd>
 </drv>
 
 <drv mrk="lak.ungo0o">
@@ -160,16 +184,34 @@
   <trd lng="es">laca de u&ntilde;as</trd>
   <trd lng="fr">vernis &agrave; ongles</trd>
   <trd lng="hu">k&ouml;r&ouml;mlakk</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30CD;&#x30A4;&#x30EB;&#x30FB;&#x30E9;&#x30C3;&#x30AB;&#x30FC;</trd>,
+    <trd>&#x30DE;&#x30CB;&#x30AD;&#x30E5;&#x30A2;</trd>
+  </trdgrp>
   <trd lng="nl">nagellak</trd>
   <trd lng="it">lacca per unghie</trd>
   <trd lng="pl">lakier do paznokci</trd>
+  <trd lng="pt">esmalte<klr> (de unhas)</klr></trd>
   <trd lng="sk">lak na nechty</trd>
   <trd lng="cs">lak na nehty</trd>
+  <trd lng="uk">&#x43B;&c_a;&#x43A; &c_d;&#x43B;&#x44F; &#x43D;&c_ib;&c_g;&c_t;&c_ib;&c_v;</trd>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.32 2023/03/05 20:29:09
+Jean-Marc Lugrin: Sxangi la lingvon de fr al pt
+
+versio 1.31 2022/11/30 21:27:04
+Ulrich Fellmann: lako: +5 novaj DE trdj anst. 1 jama
+
+versio 1.28 2020/03/24 04:10:50
+James Rezende Piton: +trd pt  ~i, ~ajxo, ungo~
+
+Revision 1.27  2019/04/09 16:10:15  revo
+Jeromo Vasxe: + ~ajxo
+
 Revision 1.26  2016/01/20 21:10:14  revo
 Wolfram Diestel: sintaksaj korektoj de citajxoj che ungolako
 
@@ -180,14 +222,5 @@ Revision 1.24  2015/06/29 16:33:18  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.23  2013/02/19 15:10:15  revo
-Dmitri Gabinski: redakto: +trd be
-
-Revision 1.22  2012/08/12 10:10:21  revo
-Marc Rausell: + trd ca
-
-Revision 1.21  2012/03/13 01:10:10  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.20  2009/09/22 17:17:11  revo
 -->
 </vortaro>

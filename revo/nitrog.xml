@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: nitrog.xml,v 1.19 2010/02/27 17:30:20 revo Exp $">
+<art mrk="$Id: nitrog.xml,v 1.33 2023/09/03 06:36:21 revo Exp $">
 <kap>
   <rad>nitrogen</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -14,7 +13,8 @@
     <dif>
       <ref tip="dif" cel="azot.0o">Azoto</ref>:
       <ekz>
-        la plej grava propreco de la humuso estas ties kapablo
+        la plej grava propreco de la humuso <klr>(<ref cel="hum.0o">humo</ref>)</klr> estas ties
+        kapablo
         teni la elementon <tld/>o en organika kombina&jcirc;o 
         <fnt>
           <aut>W. F. Rolt</aut>,
@@ -27,8 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>D. E. Rogers</aut>
-          <vrk><url ref="https://www.monato.be/2013/011137.php"
-              >Protestoj kaj kampanjoj</url></vrk>
+          <vrk><url ref="&Monato;/2013/011137.php">Protestoj kaj kampanjoj</url></vrk>
           <lok>2013</lok>
         </fnt>.
       </ekz>
@@ -79,14 +78,17 @@
   <trd lng="fr">azote</trd>
   <trd lng="hu">nitrog&eacute;n</trd>
   <trd lng="it">azoto</trd>
+  <trd lng="ja">&#x7A92;&#x7D20;  [<ind>&#x3061;&#x3063;&#x305D;</ind>]</trd>
   <trd lng="la">Nitrogenium</trd>
   <trd lng="nl">stikstof</trd>
   <trd lng="no">nitrogen</trd>
+  <trd lng="pl">azot</trd>
   <trdgrp lng="pt">
     <trd>nitrog&ecirc;nio</trd>,
     <trd>nitrog&eacute;nio <klr>(Port.)</klr></trd>,    
     <trd>azoto</trd>
   </trdgrp>
+  <trd lng="ro">azot</trd>
   <trd lng="ru">&c_a;&c_z;&c_o;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>dus&iacute;k</trd>,
@@ -98,10 +100,23 @@
     <trd>nitrogen</trd>,
     <trd>nitrogenium</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_ib;&c_t;&c_r;&#x43E;&c_g;&c_je;&#x43D; (&c_je;&#x43B;&c_je;&#x43C;&c_je;&#x43D;&c_t;)</trd>,
+    <trd>&c_a;&c_z;&#x43E;&c_t; (&#x43F;&c_r;&#x43E;&c_s;&c_t;&c_a; &c_r;&c_je;&c_ch;&#x43E;&c_v;&c_i;&#x43D;&c_a;)</trd>
+  </trdgrp>
 </drv>
 </art>
   <!--
   $Log$
+versio 1.32 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/04/19 14:39:06
+Wolfram Diestel: +klr
+
+versio 1.29 2021/03/21 22:56:05
+Vito Redsky: +trd pl +trd ro
+
   Revision 1.27  2015/07/04 08:37:40  revo
   aldono de trd cs per skripto de M. von Laer
 
@@ -115,35 +130,5 @@
   Sergio Pokrovskij: red rim
 
   Revision 1.23  2013/10/10 03:10:11  revo
-  Sergio Pokrovskij: red rim
-
-  Revision 1.22  2013/10/09 15:10:10  revo
-  Sergio Pokrovskij: red rim
-
-  Revision 1.21  2013/10/09 04:10:10  revo
-  Sergio Pokrovskij: red rim
-
-  Revision 1.20  2011/11/12 16:10:10  revo
-  Jeromo Vasxe: + ekz
-
-  Revision 1.19  2010/02/27 17:30:20  revo
-  Filip van Laenen: Tradukoj en norvegan
-
-  Revision 1.18  2006/07/02 16:31:06  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.17  2006/06/01 16:32:16  revo
-  Sebastian Cyprych: +mlg +trd pl,la
-
-  Revision 1.16  2005/04/16 16:33:03  revo
-  Alan ar Gall: +trd br
-
-  Revision 1.15  2004/08/12 16:32:40  revo
-  Jean Hennebert: +trd fr
-
-  Revision 1.14  2004/05/26 16:32:00  revo
-  Sergio Pokrovskij: +rim; dif movita sub "azot"on
-
-  Revision 1.13  2004/01/10 17:33:57  revo
-  -->
+-->
 </vortaro>

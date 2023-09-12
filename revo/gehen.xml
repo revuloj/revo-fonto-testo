@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gehen.xml,v 1.12 2009/08/18 19:18:35 revo Exp $">
+<art mrk="$Id: gehen.xml,v 1.19 2023/08/31 14:29:51 revo Exp $">
 <kap><rad>gehen</rad>/o
 <fnt>Z</fnt></kap>
 <drv mrk="gehen.0o">
@@ -17,8 +16,7 @@
         A&ubreve; al geheno, al ekstermo
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko"
-              >La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -26,8 +24,7 @@
         de <nom>Dante Alighieri</nom>, ilustrita de <nom>Gustave Dor&eacute;</nom>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=4001"
-              >Satano</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4001">Satano</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -64,6 +61,10 @@
     <trd>gyehenna</trd>,
     <trd>pokol</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5730;&#x7344;  [<ind>&#x3058;&#x3054;&#x304F;</ind>]</trd>,
+    <trd>&#x82E6;&#x96E3;&#x306E;&#x5730;  [<ind>&#x304F;&#x306A;&#x3093;&#x306E;&#x3061;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">hel</trd>
   <trdgrp lng="pt">
    <trd>geena</trd>,
@@ -74,10 +75,17 @@
     <trd>&c_p;&c_r;&c_je;&c_i;&c_s;&c_p;&c_o;&c_d;&c_n;&c_ja;&c_ja;</trd>
   </trdgrp>
   <trd lng="sk">peklo</trd>
+  <trdgrp lng="uk">
+    <trd>&#x433;&#x435;&#x454;&#x43D;&#x430;</trd>,
+    <trd>&#x43F;&#x435;&#x43A;&#x43B;&#x43E;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.15  2015/07/04 08:37:35  revo
 aldono de trd cs per skripto de M. von Laer
 

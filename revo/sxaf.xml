@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sxaf.xml,v 1.50 2023/09/04 15:14:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;af</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,12 +11,74 @@
   <snc mrk="sxaf.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">Genro</ref> el la familio 
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el la familio
       <ref tip="malprt" cel="boved.0oj">bovedoj</ref>
-      (<trd lng="la">Ovis</trd>), kiun homoj bredas pro 
-      <ref cel="lan.0o">lano</ref> kaj viando.
+      (<trd lng="la">Ovis</trd>), kiun homoj bredas pro
+      <ref tip="prt" cel="lan.0o">lano</ref> kaj viando:
+      <ekz>
+        sur tiuj &ccirc;i vastaj kaj herbori&ccirc;aj kampoj pa&scirc;tas sin <klr>[&#x2026;]</klr> aroj da
+        bellanaj <tld/>oj
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havis <tld/>ojn kaj bovojn kaj azenojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 12:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tondi siajn <tld/>ojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 31:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Abraham</nom> iris kaj prenis la vir<tld/>on, kaj oferis &gcirc;in kiel bruloferon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 22:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Moseo pa&scirc;tis la <tld/>ojn <klr>[&#x2026;]</klr> kaj li forkondukis la <tld/>ojn en
+        malproksiman parton de la dezerto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 3:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        disigitaj, kiel <tld/>oj ne havantaj pa&scirc;tiston
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 9:36</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        gardatan <tld/>on e&ccirc; lupo timas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de malbona <tld/>o estas bona e&ccirc; tufo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="sub" cel="muflon.0o">muflono</ref>
+    <refgrp tip="vid">
+      <ref cel="alpak.0o.besto">alpako</ref>,
+      <ref cel="cxam.0o">&ccirc;amo</ref>,
+      <ref cel="kapr.0o">kapro</ref>
+    </refgrp>
+    <trd lng="bo">&t_la;&t_shabchu;&t_ga;&t_tsheg;</trd>
     <trd lng="he">&kaf;&bet;&shin;</trd>
     <trdgrp lng="id">
       <trd>domba</trd>,
@@ -25,33 +86,52 @@
     </trdgrp>
     <trd lng="it">pecora</trd>
   </snc>
-  <snc mrk="sxaf.0o.FIG_bona">
+  <snc mrk="sxaf.0o.FIG_naiva">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      <ref tip="super" cel="hom.0o">Homo</ref> tro 
-      <ref cel="bon.0a">bona:</ref>
-      <ekz>se vi faros vin <tld/>o, la lupoj vin
-        man&gcirc;os
-    <fnt><bib>PrV</bib></fnt>.</ekz>
-    </dif>
-   <trd lng="it">agnello</trd>
-  </snc>
-  <snc mrk="sxaf.0o.FIG_sekvema">
-    <uzo tip="stl">FIG</uzo>
-    <dif>
-      <ref tip="super" cel="hom.0o">Homo</ref> blinde 
-      <ref cel="imit.0i">imitema</ref>:
+      <ref tip="super" cel="hom.0o">Homo</ref>
+      naive <ref cel="kor.bon0a">bonkora</ref>
+      a&ubreve; blinde <ref cel="imit.0i">imitema</ref>:
       <ekz>
-        <tld/>e sekvi la anta&ubreve;irantojn.
+        &ccirc;u pergameno ne estas farata el &scirc;afa felo? &dash; <tld/>oj <klr>[&#x2026;]</klr> estas tiuj,
+        kiuj en &gcirc;i ser&ccirc;as certecon
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi perdis, malsa&gcirc;a <tld/>o, mian tutan sa&gcirc;on
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvina</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        nu, vi estas naiva <tld/>o, ili ka&scirc;e mar&ccirc;andas ion
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi povas certigi vin, ke <klr>[li]</klr> senkulpa kiel <tld/>o
+        <fnt>
+          <bib>SkandalJozef</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se vi faros vin <tld/>o, la lupoj vin
+        man&gcirc;os
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
    <trdgrp lng="it">
-    <trd>pecora</trd>, 
+    <trd>agnello</trd>,
+    <trd>pecora</trd>,
     <trd>pecorone</trd>
   </trdgrp>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_a;&c_v;&c_je;&c_ch;&c_k;&c_a;</trd>, 
+    <trd>&c_a;&c_v;&c_je;&c_ch;&c_k;&c_a;</trd>,
     <trd>&c_b;&c_a;&c_r;&c_a;&c_n;</trd>
   </trdgrp>
   <trd lng="bg">&c_o;&c_v;&c_c;&c_a;</trd>
@@ -87,25 +167,32 @@
 <drv mrk="sxaf.Sx0o">
   <kap><tld lit="&Scirc;"/>o</kap>
   <mlg>Ari</mlg>
-  <mlg>&#9800;&#xFE0E;</mlg>
+  <mlg>&#x2648;&#xFE0E;</mlg>
   <snc mrk="sxaf.Sx0o.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      <ref tip="lst" cel="stel.0figuro"
-      lst="voko:zodiakaj_signoj">Stelfiguro</ref> kaj 
-      signo de la 
-      <ref tip="malprt" cel="zodiak.0o">zodiako</ref>
-      (<trd lng="la">Aries</trd>).
+      <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj">Stelfiguro</ref> kaj
+      signo de la <ref tip="malprt" cel="zodiak.0o">zodiako</ref>
+      (<trd lng="la">Aries</trd>):
+      <ekz>
+        NGC 870 estas galaksio en konstelacio <tld lit="&Scirc;"/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=110472">NGC 870</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_A;&c_v;&c_je;&c_n;</trd>, 
-    <trd>&c_B;&c_a;&c_r;&c_a;&c_n;</trd>
+    <trd>&c_A;&c_v;&c_je;&c_n;</trd>,
+    <trd>&c_B;&c_a;&c_r;&c_a;&c_n; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#x2019;&c_je;)</klr></trd>
   </trdgrp>
   <trd lng="bg">&c_O;&c_v;&c_je;&c_n;</trd>
+  <trd lng="bo">&t_la;&t_shabchu;&t_ga;&t_tsheg;</trd>
   <trd lng="ca">&Agrave;ries</trd>
   <trd lng="de">Widder</trd>
   <trd lng="el">&Kappa;&rho;&jota;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">Aries</trd>
   <trd lng="es">Aries</trd>
   <trdgrp lng="fa">
     <trd>&a_b;&a_r;&a_j; <ind>&a_H;&a_fatha;&a_m;&a_fatha;&a_l;</ind></trd>,
@@ -120,33 +207,165 @@
     <trd>Mesa</trd>
   </trdgrp>
   <trd lng="it">Ariete</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D2;&#x30C4;&#x30B8;</trd>,
+    <trd>&#x5F93;&#x9806;&#x306A;&#x4EBA;  [<ind>&#x3058;&#x3085;&#x3046;&#x3058;&#x3085;&#x3093;&#x306A;&#x3058;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">Ram</trd>
   <trd lng="pt">&Aacute;ries</trd>
-  <trd lng="pl">baran</trd>
-  <trd lng="ro">Berbecul</trd>
+  <trd lng="pl">Baran  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Berbecul  <klr>(constela&#x21B;ie)</klr></trd>
   <trd lng="ru">&c_O;&c_v;&c_je;&c_n;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_v;&c_c;&c_ja;</trd>,
+    <trd>&c_b;&c_a;&c_r;&c_a;&c_n;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="sxaf.0aro">
+  <kap>
+    <tld/>aro
+  </kap>
+  <snc>
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Aro de kune bredataj <tld/>oj:
+      <ekz>
+        sub kies zorgado vi lasis tiun malgrandan <tld/>aron en la dezerto
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 17:28</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        pa&scirc;tistoj trejn<klr>[a]</klr>s hundojn por protekti la <tld/>arojn
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Tri</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unu fava <tld/>o tutan <tld/>aron infektas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aro harmonia lupon ne timas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="greg.0o.ZOO">grego</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_v;&c_je;&c_ch;&c_y; <ind>&c_s;&c_t;&c_a;&c_t;&c_a;&c_k;</ind></trd>
+  <trd lng="de">Schafherde</trd>
+  <trd lng="en">flock of sheep</trd>
+  <trd lng="fr">troupeau de moutons</trd>
+  <trd lng="ja">&#x7F8A;&#x306E;&#x7FA4;&#x308C;  [<ind>&#x3072;&#x3064;&#x3058;&#x306E;&#x3080;&#x308C;</ind>]</trd>
+</drv>
+
+<drv mrk="sxaf.0isto">
+  <kap>
+    <tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="pasxt.0isto">Pa&scirc;tisto</ref> de <tld/>oj:
+      <ekz>
+        kiomfoje la <tld/>isto malsatis, li bu&ccirc;is unu el la <tld/>oj
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        Romo estis kiel <tld/>isto, kaj la aliaj popoloj &ndash; kiel <tld/>oj
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ne &ccirc;esis kura&gcirc;igi per stimulaj vortoj la kamparanojn, <klr>[&#x2026;]</klr>
+        almozpetulojn, <tld/>istojn
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_s;&c_t;&c_u;&c_h;</trd>,
+    <trd>&c_ch;&c_a;&c_b;&c_a;&c_n;</trd>
+  </trdgrp>
+  <trd lng="de">Sch&auml;fer</trd>
+  <trd lng="en">shepherd</trd>
+  <trd lng="ja">&#x7F8A;&#x98FC;&#x3044;  [<ind>&#x3072;&#x3064;&#x3058;&#x304B;&#x3044;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>owczarz</trd>,
+    <trd>pasterz</trd>
+  </trdgrp>
+  <trd lng="ro">p&abreve;storit</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_a;&c_b;&c_a;&c_n;</trd>,
+    <trd>&c_v;&c_ib;&c_v;&c_ch;&c_a;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxaf.hidrauxlika_vir0o">
+  <kap>
+    hidra&ubreve;lika vir<tld/>o
+  </kap>
+  <snc>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Akvobata <ref tip="super" cel="pump.0ilo">pumpilo</ref>:
+      <ekz>
+        se la fluo de la akvo estas subite haltigita &ccirc;e la tubfina elfluo per iu valvo
+        <klr>[tio]</klr> rezultigas abruptan kreskon de la akvopremo, kun la&ubreve;tega
+        &leftquot;bato&rightquot;, <klr>[tio estas]</klr> konata anka&ubreve; sub la nomoj &leftquot;akva vir<tld/>o&rightquot;,
+        &leftquot;hidra&ubreve;lika vir<tld/>o&rightquot; a&ubreve; &leftquot;ariesa bato&rightquot;
+        <fnt>
+          <vrk><url ref="&Monato;/2001/007230.php">Teoria bazo de la akvobata
+          pumpilo</url></vrk>
+           <bib>Monato</bib>
+          <lok>2001/07, p. 18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_ib;&c_d;&c_r;&c_a;&c_w;&c_l;&c_ib;&c_ch;&c_n;&c_y; <ind>&c_t;&c_a;&c_r;&c_a;&c_n;</ind></trd>
+  <trd lng="de">Wasserwidder</trd>
+  <trd lng="en">hydraulic ram</trd>
+  <trd lng="pl">taran hydrauliczny</trd>
+  <trd lng="ro">berbec hidraulic</trd>
+</drv>
+
 </art>
 <!--
 $Log$
-Revision 1.37  2017/06/06 16:10:21  revo
-Ludoviko Francisco: +klr trd fr
+versio 1.49 2023/08/18 23:21:56
+David Dichelle: +trd en
 
-Revision 1.36  2017/05/22 18:10:13  revo
-Vito Redsky: trd pl+trd ro
+versio 1.48 2023/08/03 08:30:44
+Dmitri Gabinski: + trd be
 
-Revision 1.35  2014/06/06 16:10:13  revo
-Eko Nur Syah Hidayat: +id
+versio 1.47 2023/05/13 12:41:38
+Paul Peeraerts: + lok + url
 
-Revision 1.34  2013/09/24 07:10:20  revo
-Wolfram Diestel: nur lst zodiakaj signoj
+versio 1.46 2023/05/06 14:26:05
+revo: aktualigo URL-unuoj
 
-Revision 1.33  2013/09/23 19:10:17  revo
-Wolfram Diestel: ref al list zodiakoaj signoj, mlg
+versio 1.45 2023/02/23 18:33:31
+Wolfram Diestel: +~aro
 
-Revision 1.32  2013/09/01 13:11:04  revo
-Wolfram Diestel: referenco al listo zoo genroj
+versio 1.44 2022/10/21 21:34:49
+Vito Redsky: +trd pl + trd ro
 
-Revision 1.31  2013/08/25 08:10:44  revo
+versio 1.42 2022/01/30 21:23:49
+Wolfram Diestel: +~isto
+
+versio 1.41 2021/09/02 19:21:16
 -->
 </vortaro>

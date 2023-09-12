@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pen.xml,v 1.42 2023/09/03 12:45:06 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>pen</rad>/i <fnt><bib>PV</bib></fnt>
@@ -15,13 +14,13 @@
        Energie kaj lacige stre&ccirc;i siajn fortojn por atingi
        rezulton:
        <ekz>
-         en korespondado <klr>[&#8230;]</klr> estas bone &ccirc;iam <tld/>i
+         en korespondado <klr>[&#x2026;]</klr> estas bone &ccirc;iam <tld/>i
          uzadi
          nur vortojn el la <ctl>Fundamento</ctl>
          <fnt><bib>F</bib>, <lok>Anta&ubreve;parolo</lok></fnt>;
        </ekz>
        <ekz>
-         la maljuna &ccirc;evalo <klr>[&#8230;]</klr> <ind>vane <tld/>i</ind>s
+         la maljuna &ccirc;evalo <klr>[&#x2026;]</klr> <ind>vane <tld/>i</ind>s
          kuri
          pli rapide
          <fnt><bib>FK</bib>, <lok>Arturo</lok></fnt>;
@@ -116,14 +115,31 @@
      <trd>peiner</trd>
    </trdgrp>
    <trd lng="hu">f&aacute;radozik</trd>
-   <trdgrp lng="nl">
+   <trdgrp lng="ja">
+    <trd>&#x52AA;&#x3081;&#x308B;  [<ind>&#x3064;&#x3068;&#x3081;&#x308B;</ind>]</trd>,
+    <trd>&#x52AA;&#x529B;&#x3059;&#x308B;  [<ind>&#x3069;&#x308A;&#x3087;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x82E6;&#x52B4;&#x3059;&#x308B;  [<ind>&#x304F;&#x308D;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x9AA8;&#x3092;&#x6298;&#x308B;  [<ind>&#x307B;&#x306D;&#x3092;&#x304A;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
      <trd>trachten</trd>,
      <trd>moeite doen</trd>
+   </trdgrp>
+   <trdgrp lng="pl">
+     <trd>d&aogonek;&zdot;y&cacute;</trd>,
+     <trd>usi&lstroke;owa&cacute;</trd>,
+     <trd>stara&cacute; si&eogonek;</trd>,
+     <trd>trudzi&cacute; si&eogonek;</trd>
    </trdgrp>
   <trdgrp lng="pt">
     <trd>esfor&ccedil;ar-se por</trd>,
     <trd>empenhar-se em</trd>,
     <trd>dar-se ao <ind>trabalho</ind> de</trd>    
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>se str&abreve;dui</trd>,
+    <trd>&icirc;ncerca</trd>,
+    <trd>&icirc;ntrista</trd>
   </trdgrp>
    <trdgrp lng="ru">
      <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
@@ -140,6 +156,12 @@
     <trd>d&rcaron;&iacute;t se</trd>,
     <trd>nam&aacute;hat se</trd>,
     <trd>usilovat</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&#x43D;&c_a;&#x43C;&c_a;&c_g;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_s;&c_i;&#x43B;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_d;&#x43E;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_t;&c_i; &c_z;&c_u;&c_s;&c_i;&#x43B;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -205,7 +227,8 @@
      <trd>M&uuml;he</trd>,
      <trd>Anstrengung</trd>
    </trdgrp>
-  <trd lng="es">esfuerzo</trd>
+  <trd lng="en">effort</trd>
+   <trd lng="es">esfuerzo</trd>
   <trdgrp lng="fr">
      <trd>efforts</trd>,
      <trd>peine<klr tip="amb"> (efforts)</klr></trd>
@@ -215,7 +238,20 @@
      <trd>f&aacute;radoz&aacute;s</trd>,
      <trd>er&odblac;fesz&iacute;t&eacute;s</trd>
    </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x82E6;&#x52B4;  [<ind>&#x304F;&#x308D;&#x3046;</ind>]</trd>,
+    <trd>&#x9AA8;&#x6298;&#x308A;  [<ind>&#x307B;&#x306D;&#x304A;&#x308A;</ind>]</trd>,
+    <trd>&#x52AA;&#x529B;  [<ind>&#x3069;&#x308A;&#x3087;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">moeite</trd>
+  <trdgrp lng="pl">
+    <trd>trud</trd>,
+    <trd>fatyga</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>efort</trd>,
+    <trd>durere</trd>
+  </trdgrp>
   <trdgrp lng="ru">
      <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_n;&c_i;&c_je;</trd>,
      <trd>&c_u;&c_s;&c_i;&c_l;&c_i;&c_je;</trd>
@@ -225,6 +261,11 @@
     <trd>drav&aacute; t&uacute;&zcaron;ba</trd>,
     <trd>n&aacute;por</trd>,
     <trd>&uacute;silie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43D;&c_a;&#x43C;&c_a;&c_g;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_z;&c_u;&c_s;&c_i;&#x43B;&#x43B;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -251,6 +292,10 @@
        </ekz>
      </dif>
    </snc>
+   <trdgrp lng="be">
+     <trd>&c_p;&c_r;&c_y;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol; &c_u;&c_s;&c_je; <ind>&c_n;&c_a;&c_m;&c_a;&c_g;&c_a;&c_n;&c_mol;&c_n;&c_ib;</ind></trd>,
+     <trd>&c_b;&c_ib;&c_c;&c_c;&c_a; <klr>(&c_n;&c_a;&c_d; &c_ch;&c_y;&c_m;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+   </trdgrp>
   <trd lng="bg">&c_p;&c_o;&c_l;&c_a;&c_g;&c_a;&c_m; &c_v;&c_s;&c_i;&c_ch;&c_k;&c_i; &c_u;&c_s;&c_i;&c_l;&c_i;&c_ja;</trd>
    <trd lng="br">kia&ntilde;</trd>
   <trdgrp lng="ca">
@@ -263,18 +308,30 @@
     <trd>usilovat</trd>
   </trdgrp>
   <trd lng="de">sich &uuml;berm&auml;&szlig;ig <ind>anstrengen</ind></trd>
+  <trdgrp lng="es">
+     <trd>afanarse</trd>,
+     <trd>esforzarse intensamente</trd>
+   </trdgrp>
   <trdgrp lng="fr">
      <trd>s'escrimer &agrave;</trd>,
      <trd>s'&eacute;vertuer &agrave;</trd>
    </trdgrp>
   <trd lng="nl">zich <ind>uitsloven</ind></trd>
+  <trdgrp lng="pl">
+    <trd>trudzi&cacute; si&eogonek;</trd>,
+    <trd>mozoli&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>trudi</trd>,
+    <trd>nec&abreve;ji</trd>,
+    <trd>plod departe</trd>
+  </trdgrp>
   <trdgrp lng="ru">
      <trd>&c_b;&c_i;&c_t;&c_mol;&c_s;&c_ja;<klr tip="amb">
      (&c_n;&c_a;&c_d; &c_ch;&c_je;&c_m;-&c_l;.)</klr></trd>,
      <trd>&c_p;&c_r;&c_i;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;
      &c_v;&c_s;&c_je; &c_u;&c_s;&c_i;&c_l;&c_i;&c_ja;<klr tip="amb">
-     (&c_k;
-     &c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
+     (&c_k; &c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
    </trdgrp>
   <trdgrp lng="sk">
     <trd>pechori&tcaron; sa</trd>,
@@ -307,8 +364,7 @@
         generacio
         <fnt>
           <aut>He Jia</aut>,
-          <vrk><url
-          ref="http://esperanto.china.org.cn/2013-11/28/content_30734707.htm">
+          <vrk><url ref="http://esperanto.china.org.cn/2013-11/28/content_30734707.htm">
           Strebo kaj konfuzo de migrantaj
           kamparano-laborantoj...</url></vrk>,
           <lok>Esperanto.china.org.cn, 2013-11-28</lok>
@@ -316,10 +372,36 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_r;&c_u;&c_p;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_k;&c_l;&c_a;&c_p;&c_a;&c_t;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_d;&c_b;&c_a;&c_j;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="bg">&c_s;&c_t;&c_a;&c_r;&c_a;&c_t;&c_je;&c_l;&c_je;&c_n;</trd>
   <trd lng="cs">usilovn&yacute;</trd>
+  <trd lng="en">hardworking</trd>
+  <trd lng="es">laborioso</trd>
   <trd lng="fr">laborieux</trd>
+  <trdgrp lng="ja">
+    <trd>&#x52E4;&#x52C9;&#x306A;  [<ind>&#x304D;&#x3093;&#x3079;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x9AA8;&#x60DC;&#x3057;&#x307F;&#x3057;&#x306A;&#x3044;  [<ind>&#x307B;&#x306D;&#x304A;&#x3057;&#x307F;&#x3057;&#x306A;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pieczo&lstroke;owity</trd>,
+    <trd>skrz&eogonek;tny</trd>,
+    <trd>wytrwa&lstroke;y</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>asiduu</trd>,
+    <trd>st&abreve;ruitor</trd>
+  </trdgrp>
   <trd lng="sk">usilovn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&#x43D;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_a;&#x43F;&#x43E;&#x43F;&c_a;&c_d;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_je;&c_v;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pen.0ego">
@@ -328,7 +410,7 @@
      <dif>
        Tre granda sinstre&ccirc;o por iu celo:
       <ekz>
-        la <tld/>egoj de sciencistoj <klr>[&#8230;]</klr> kapablas
+        la <tld/>egoj de sciencistoj <klr>[&#x2026;]</klr> kapablas
         kontra&ubreve;stari al &ccirc;iu plago, minaconta la homaron
         <fnt>
           <bib>Monato</bib>
@@ -348,6 +430,10 @@
       </ekz>
      </dif>
    </snc>
+   <trdgrp lng="be">
+     <trd>&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_a;&c_je; <ind>&c_n;&c_a;&c_m;&c_a;&c_g;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>,
+     <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+   </trdgrp>
   <trdgrp lng="bg">
      <trd>&c_o;&c_g;&c_r;&c_o;&c_m;&c_n;&c_o; &c_s;&c_t;&c_a;&c_r;&c_a;&c_n;&c_i;&c_je;</trd>,
      <trd>&c_o;&c_g;&c_r;&c_o;&c_m;&c_n;&c_o; &c_u;&c_s;&c_i;&c_l;&c_i;&c_je;</trd>
@@ -362,8 +448,21 @@
     <trd>n&aacute;maha</trd>,
     <trd>sv&iacute;zel</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>esfuerzo enorme</trd>,
+    <trd>empe&ntilde;o</trd>,
+    <trd>sacrificio</trd>
+  </trdgrp>
   <trd lng="fr">efforts &eacute;normes</trd>
   <trd lng="nl">uitsloven<klr tip="ind"> (zn.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>ciemi&eogonek;ga</trd>,
+    <trd>moz&oacute;&lstroke;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>trud&abreve;</trd>,
+    <trd>efort</trd>
+  </trdgrp>
   <trd lng="ru">&c_o;&c_g;&c_r;&c_o;&c_m;&c_n;&c_o;&c_je;
   <ind>&c_u;&c_s;&c_i;&c_l;&c_i;&c_je;</ind></trd>
   <trdgrp lng="sk">
@@ -371,6 +470,7 @@
     <trd>nam&aacute;hav&aacute;</trd>,
     <trd>&tcaron;a&zcaron;k&aacute; pr&aacute;ca</trd>
   </trdgrp>
+  <trd lng="uk">&c_t;&c_r;&c_u;&c_d;</trd>
 </drv>
 
 <drv mrk="pen.0iga">
@@ -429,9 +529,23 @@
      <trd>anstrengend</trd>,
      <trd>m&uuml;hevoll</trd>
    </trdgrp>
+  <trd lng="en">arduous</trd>
+  <trdgrp lng="es">
+     <trd>arduo</trd>,
+     <trd>penoso</trd>
+   </trdgrp>
   <trd lng="fr">p&eacute;nible</trd>
   <trd lng="hu">f&aacute;rads&aacute;gos</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9AA8;&#x306E;&#x6298;&#x308C;&#x308B;  [<ind>&#x3053;&#x3064;&#x306E;&#x304A;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x3064;&#x3089;&#x3044;</trd>
+  </trdgrp>
   <trd lng="nl">moeitevol</trd>
+  <trdgrp lng="pl">
+    <trd>ci&eogonek;&zdot;ki</trd>,
+    <trd>&zdot;mudny</trd>
+  </trdgrp>
+  <trd lng="ro">harnic</trd>
   <trdgrp lng="ru">
      <trd>&c_u;&c_t;&c_o;&c_m;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
      <trd>&c_t;&c_ja;&c_zh;&c_jo;&c_l;&c_y;&c_j;</trd>,
@@ -440,6 +554,12 @@
   <trdgrp lng="sk">
     <trd>nam&aacute;hav&yacute;</trd>,
     <trd>&tcaron;a&zcaron;k&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&#x43E;&#x43C;&#x43B;&#x44E;&#x44E;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_a;&c_zh;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_t;&#x44F;&c_zh;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_t;&c_r;&c_u;&c_d;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -458,20 +578,38 @@
   </snc>
   <trd lng="be">&c_v;&c_a;&c_r;&c_t;&c_y;
   <ind>&c_v;&c_y;&c_s;&c_ib;&c_l;&c_k;&c_a;&c_w;</ind></trd>
-  <trd lng="bg">&c_z;&c_a;&c_s;&c_l;&c_u;&c_zh;&c_a;&c_v;&c_a;&c_shch; &c_u;&c_s;&c_i;&c_l;&c_i;&c_ja;</trd>
+  <trd lng="bg">&c_z;&c_a;&c_s;&c_l;&c_u;&c_zh;&c_a;&c_v;&c_a;&c_shch;
+  &c_u;&c_s;&c_i;&c_l;&c_i;&c_ja;</trd>
    <trd lng="br">a dalv ar boan</trd>
   <trd lng="ca">que val la pena</trd>
   <trd lng="cs">stoj&iacute;c&iacute; za n&aacute;mahu</trd>
   <trd lng="de">der M&uuml;he wert</trd>
+  <trdgrp lng="en">
+    <trd>worth trying</trd>,
+    <trd>worth the effort</trd>
+  </trdgrp>
   <trd lng="es">que vale la <ind>pena</ind></trd>
   <trdgrp lng="hu">
      <trd>f&aacute;radoz&aacute;sra m&eacute;lt&oacute;</trd>,
      <trd>f&aacute;radoz&aacute;sra &eacute;rdemes</trd>
    </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9AA8;&#x6298;&#x308A;&#x304C;&#x3044;&#x306E;&#x3042;&#x308B;  [<ind>&#x3053;&#x3063;&#x305B;&#x3064;&#x308A;&#x304C;&#x3044;&#x306E;&#x3042;&#x308B;</ind>]</trd>,
+    <trd>&#x3084;&#x308A;&#x304C;&#x3044;&#x306E;&#x3042;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">de <ind>moeite</ind> waard</trd>
+  <trdgrp lng="pl">
+    <trd>wart wysi&lstroke;ku</trd>,
+    <trd>warty zachodu</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>care are valoare</trd>,
+    <trd>care merit&abreve; osteneala</trd>
+  </trdgrp>
   <trd lng="ru">&c_d;&c_o;&c_s;&c_t;&c_o;&c_j;&c_n;&c_y;&c_j;
   <ind>&c_u;&c_s;&c_i;&c_l;&c_i;&c_j;</ind></trd>
   <trd lng="sk">stojaci za n&aacute;mahu</trd>
+  <trd lng="uk">&c_v;&c_a;&c_r;&c_t;&c_i;&c_j; &c_z;&c_u;&c_s;&c_i;&#x43B;&#x44C;/&c_s;&c_t;&c_a;&c_r;&c_a;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="pen.0indi">
@@ -489,13 +627,20 @@
         </fnt>.
       </ekz>
     </dif>
-  </snc>                      
+  </snc>
+ <trd lng="be">&c_b;&c_y;&c_c;&c_mol; &c_v;&c_a;&c_r;&c_t;&c_y;&c_m; <ind>&c_v;&c_y;&c_s;&c_ib;&c_l;&c_k;&c_a;&c_w;</ind></trd>                   
    <trd lng="br">talvezout ar boan</trd>
    <trd lng="ca">valer la pena</trd>
    <trd lng="de">der <ind>M&uuml;he</ind> wert sein</trd>
-   <trd lng="es">valer la <ind>pena</ind></trd>
+   <trd lng="en">be worth the effort</trd>
+  <trd lng="es">valer la <ind>pena</ind></trd>
    <trd lng="fr">valoir la peine</trd>
    <trd lng="nl">de <ind>moeite</ind> waard zijn</trd>
+   <trd lng="pl">warto zrobi&cacute; co&sacute;</trd>
+   <trdgrp lng="ro">
+     <trd>merita</trd>,
+     <trd>valora</trd>
+   </trdgrp>
    <trd lng="ru">&c_s;&c_t;&c_o;&c_i;&c_t;&c_mol;
    &c_u;&c_s;&c_i;&c_l;&c_i;&c_j;</trd>
 </drv>
@@ -512,23 +657,41 @@
         malvigle, neserioze
         <fnt>
           <aut>Lao She, trad. Wang Chongfang</aut>,
-          <vrk><url
-          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
           Kamelo &Scirc;jangzi</url></vrk>,
           <lok>1988</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_d;&c_b;&c_a;&c_j;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_t;&c_a;&c_r;&c_a;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_g;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_ja;&c_v;&c_a;&c_t;&c_y;</trd>
+  </trdgrp>
   <trd lng="bg">&c_n;&c_je;&c_s;&c_t;&c_a;&c_r;&c_a;&c_t;&c_je;&c_l;&c_je;&c_n;</trd>
   <trdgrp lng="de">
     <trd>tr&auml;ge</trd>,
     <trd>faul</trd>,
     <trd><ind>M&uuml;he</ind> scheuend</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>indolente</trd>,
+    <trd>perezoso</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>indolent</trd>,
     <trd>nonchalant</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ospa&lstroke;y</trd>,
+    <trd>leniwy</trd>,
+    <trd>nonszalancki</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>f&abreve;r&abreve; effort</trd>,
+    <trd>lene&#x219;</trd>,
+    <trd>puturos</trd>
   </trdgrp>
 </drv>
 
@@ -540,7 +703,7 @@
        fortostre&ccirc;o
        a&ubreve; laci&gcirc;o:
        <ekz>
-         ah, bona afero estas la rajdado, <klr>[&#8230;]</klr> oni sidas
+         ah, bona afero estas la rajdado, <klr>[&#x2026;]</klr> oni sidas
          kvaza&ubreve; sur se&gcirc;o, ne faletas sur &scirc;tono, indulgas la
          &scirc;uojn kaj sen<tld/>e voja&gcirc;as
          <fnt><bib>ElektFab</bib>, <lok>Feli&ccirc;a
@@ -578,6 +741,7 @@
     <trd>lehce</trd>
   </trdgrp>
   <trd lng="de">m&uuml;helos</trd>
+  <trd lng="en">effortlessly</trd>
   <trd lng="es">sin <ind>esfuerzo</ind></trd>
   <trdgrp lng="fr">
      <trd>ais&eacute;ment</trd>,
@@ -587,9 +751,21 @@
      <trd>k&ouml;nnyed&eacute;n</trd>,
      <trd>minden k&uuml;l&ouml;n&ouml;sebb n&eacute;lk&uuml;l</trd>
    </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3089;&#x304F;&#x3089;&#x304F;&#x3068;</trd>,
+    <trd>&#x305F;&#x3084;&#x3059;&#x304F;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
      <trd>moeiteloos</trd>,
      <trd>gemakkelijk</trd>
+   </trdgrp>
+   <trdgrp lng="pl">
+     <trd>bez trudu</trd>,
+     <trd>&lstroke;atwo</trd>
+   </trdgrp>
+   <trdgrp lng="ro">
+     <trd>cu u&#x219;urin&#x21B;&abreve;</trd>,
+     <trd>facil</trd>
    </trdgrp>
   <trdgrp lng="ru">
      <trd>&c_l;&c_je;&c_g;&c_k;&c_o;</trd>,
@@ -598,6 +774,10 @@
   <trdgrp lng="sk">
     <trd>bez n&aacute;mahy</trd>,
     <trd>&lcaron;ahko</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z; <klr>(&c_zh;&#x43E;&c_d;&#x43D;&c_i;&c_h;)</klr> &c_z;&c_u;&c_s;&c_i;&#x43B;&#x44C;</trd>,
+    <trd>&#x43B;&c_je;&c_g;&#x43A;&#x43E;</trd>
   </trdgrp>
 </drv>
 
@@ -637,31 +817,47 @@
 <!--
       <ekz>
        <ind>ne valoras la <tld/>on</ind> ekzameni la aferon.
-       <trd lng="hu">nem &eacute;ri meg a
-       <ind>f&aacute;rads&aacute;got</ind></trd>
+       <trd lng="hu">nem &eacute;ri meg a <ind>f&aacute;rads&aacute;got</ind></trd>
       </ekz>
 -->
     </dif>
-  </snc>         
-   <trd lng="bg">&c_s;&c_t;&c_r;&c_u;&c_v;&c_a;&c_m; &c_s;&c_i; &c_u;&c_s;&c_i;&c_l;&c_i;&c_ja;&c_t;&c_a;</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_v;&c_a;&c_c;&c_mol; <ind>&c_v;&c_y;&c_s;&c_ib;&c_l;&c_k;&c_ib;</ind></trd>
+   <trd lng="bg">&c_s;&c_t;&c_r;&c_u;&c_v;&c_a;&c_m; &c_s;&c_i;
+   &c_u;&c_s;&c_i;&c_l;&c_i;&c_ja;&c_t;&c_a;</trd>
    <trd lng="br">talvezout ar boan</trd>
    <trd lng="ca">pagar (valer) la pena</trd>
    <trdgrp lng="de">
     <trd>die <ind>M&uuml;he</ind> lohnen</trd>,
     <trd>die <ind>Anstrengung</ind> wert sein</trd>
   </trdgrp>
+  <trd lng="en">be worth the effort</trd>
   <trd lng="es">valer la <ind>pena</ind></trd>
    <trd lng="fr">valoir la peine</trd>
    <trd lng="nl">de <ind>moeite</ind> waard zijn</trd>
+   <trd lng="pl">warty trudu</trd>
   <trdgrp lng="pt">
    <trd>valer a pena</trd> 
   </trdgrp>
+  <trd lng="ro">merit&abreve; efortul</trd>
    <trd lng="ru">&c_s;&c_t;&c_o;&c_i;&c_t;&c_mol;
    &c_u;&c_s;&c_i;&c_l;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.41 2023/04/07 10:28:54
+Dmitri Gabinski: + trd be
+
+versio 1.40 2022/08/26 16:44:59
+Vito Redsky:  +trd pl  + trd ro 
+
+versio 1.38 2021/11/08 17:41:09
+Noam Mohr: +trd en pen-
+
+versio 1.37 2021/03/11 10:32:20
+Guillermo Molleda Jimena: +trd es
+
 Revision 1.35  2019/06/30 18:21:48  revo
 adaptis URL de Monato
 
@@ -672,14 +868,5 @@ Revision 1.33  2018/02/21 21:10:27  revo
 Wolfram Diestel: prilaboris ekz-ojn
 
 Revision 1.32  2017/03/22 15:10:19  revo
-Lyubomir Vasilev: +trd bg
-
-Revision 1.31  2016/10/09 01:10:19  revo
-Alain Gerard: +trd fr
-
-Revision 1.30  2015/07/04 08:37:41  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.29  2015/06/29 16:40:17  revo
 -->
 </vortaro>

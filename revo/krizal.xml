@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: krizal.xml,v 1.10 2006/04/28 16:31:35 revo Exp $">
+<art mrk="$Id: krizal.xml,v 1.23 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <rad>krizalid</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -20,16 +19,17 @@
       <ref cel="rauxp.0o">ra&ubreve;po</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_k;&c_u;&c_k;&c_a;&c_l;&c_k;&c_a;</trd>
   <trd lng="bg">&c_k;&c_a;&c_k;&c_a;&c_v;&c_i;&c_d;&c_a;</trd>
   <trd lng="ca">cris&agrave;lide</trd>
   <trdgrp lng="cs">
     <trd>kukla hmyzu</trd>,
     <trd>pupa</trd>
   </trdgrp>
-  <trdgrp lng="de">
-     <trd>Chrysalide</trd>,
-     <trd>Puppe</trd>
-  </trdgrp>
+    <trdgrp lng="de">
+     <trd>Nymphe</trd>,
+      <trd>Chrysalide</trd>
+    </trdgrp>
   <trdgrp lng="en">
     <trd>chrysalis</trd>,
     <trd>pupa</trd>
@@ -37,12 +37,21 @@
   <trd lng="es">cris&aacute;lida</trd>
   <trd lng="fr">chrysalide</trd>
   <trd lng="hu">b&aacute;b</trd>
+  <trdgrp lng="id">
+    <trd>kepompong</trd>,
+    <trd>pupa</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3055;&#x306A;&#x304E;</trd>,
+    <trd>&#x6E96;&#x5099;&#x671F;  [<ind>&#x3058;&#x3085;&#x3093;&#x3073;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">pop<klr tip="ind"> (v.insect)</klr></trd>
   <trd lng="pl">poczwarka</trd>
   <trd lng="pt">cris&aacute;lida</trd>
   <trd lng="ro">pup&abreve;</trd>
   <trd lng="ru">&c_k;&c_u;&c_k;&c_o;&c_l;&c_k;&c_a;<klr> (&c_b;&c_a;&c_b;&c_o;&c_ch;&c_k;&c_i;)</klr></trd>
   <trd lng="sk">kukla hmyzu</trd>
+  <trd lng="uk">&#x43B;&#x44F;&#x43B;&c_je;&c_ch;&#x43A;&c_a; (&#x43A;&#x43E;&#x43C;&c_a;&c_h;&c_i;)</trd>
 </drv>
 
 <drv mrk="krizal.0igxi">
@@ -56,14 +65,14 @@
         kaj eli&gcirc;os kiel flugantaj papilioj en a&ubreve;gusto
         <fnt>
           <aut>Sakari</aut>,
-          <vrk><url
-          ref="https://nordanaturo.wordpress.com/2010/08/04/nova-papilia-generacio-kreskas/">
+          <vrk><url ref="https://nordanaturo.wordpress.com/2010/08/04/nova-papilia-generacio-kreskas/">
           Nova papilia generacio kreskas</url></vrk>,
           <lok>Norda naturo, 2010-08-04</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_k;&c_u;&c_k;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   <trd lng="fr">se <ind>chrysalider</ind></trd>
   <trd lng="pl">przepoczwarzy&cacute; si&eogonek;</trd>     
   <trd lng="ro">transforma</trd>
@@ -71,6 +80,18 @@
 </art>
 <!--
 $Log$
+versio 1.22 2022/12/04 18:31:14
+Ulrich Fellmann: krizalido: parta sxangxo de DE trdj
+
+versio 1.21 2022/11/02 07:33:09
+Dmitri Gabinski: + trd be
+
+versio 1.20 2022/08/11 16:43:17
+Ulrich Fellmann: krizalido: +1 plia trad
+
+versio 1.18 2020/05/04 10:10:22
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.16  2018/05/17 09:10:14  revo
 Joop Eggen: +trd bg
 
@@ -81,14 +102,5 @@ Revision 1.14  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.13  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.12  2012/08/04 10:10:12  revo
-Marc Rausell: + trd ca
-
-Revision 1.11  2011/06/07 07:10:13  revo
-Jeromo Vasxe: kor. mrk, + trd fr
-
-Revision 1.10  2006/04/28 16:31:35  revo
 -->
 </vortaro>

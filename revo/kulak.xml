@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kulak.xml,v 1.6 2009/07/09 16:30:54 revo Exp $">
+<art mrk="$Id: kulak.xml,v 1.12 2023/09/01 15:46:46 revo Exp $">
 <kap>
   <rad>kulak</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -26,11 +25,15 @@
   <trd lng="bg">&c_k;&c_u;&c_l;&c_a;&c_k;</trd>
   <trdgrp lng="cs">
     <trd>kulak</trd>,
-    <trd>velký rolník</trd>
+    <trd>velk&#xFD; roln&#xED;k</trd>
   </trdgrp>
   <trd lng="de">Kulak</trd>
   <trd lng="en">kulak</trd>
   <trd lng="fr">koulak</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AF;&#x30E9;&#x30FC;&#x30AF;</trd>,
+    <trd>&#x5BCC;&#x8FB2;  [<ind>&#x3075;&#x306E;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">koelak</trd>
   <trd lng="pl">ku&lstroke;ak</trd>
   <trdgrp lng="pt">
@@ -40,8 +43,9 @@
   <trd lng="ru">&c_k;&c_u;&c_l;&c_a;&c_k;</trd>
   <trdgrp lng="sk">
     <trd>kulak</trd>,
-    <trd>veľký roľník</trd>
+    <trd>ve&#x13E;k&#xFD; ro&#x13E;n&#xED;k</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&#x443;&#x440;&#x43A;&#x443;&#x43B;&#x44C; (&#x431;&#x430;&#x433;&#x430;&#x442;&#x438;&#x439; &#x441;&#x435;&#x43B;&#x44F;&#x43D;&#x438;&#x43D;-&#x432;&#x43B;&#x430;&#x441;&#x43D;&#x438;&#x43A;)</trd>
 </drv>
 </art>
 

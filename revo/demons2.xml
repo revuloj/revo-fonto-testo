@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: demons2.xml,v 1.14 2010/04/26 16:30:23 revo Exp $">
+<art mrk="$Id: demons2.xml,v 1.21 2023/08/31 10:43:59 revo Exp $">
 <kap>
 <ofc>2</ofc>
 <rad>demonstrativ</rad>/o
@@ -20,8 +19,7 @@
         adjektivo)
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=1586"
-              >Hispana lingvo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1586">Hispana lingvo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -31,8 +29,7 @@
         a&ubreve; &leftquot;<nac>la</nac>&rightquot; (tio, tiu virino)
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=37892"
-              >Spokil</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=37892">Spokil</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -57,17 +54,22 @@
     <trd>&a_S;&a_f;&a_t; &a_A;&a_sh;&a_A;&a_r;&a_h;</trd>
   </trdgrp>
   <trd lng="fr">d&eacute;monstratif<klr tip="ind"> (grammaire)</klr></trd>
+  <trd lng="he">&#x5DB;&#x5D9;&#x5E0;&#x5D5;&#x5D9; &#x5E8;&#x5D5;&#x5DE;&#x5D6;</trd>
   <trd lng="hu">mutat&oacute; <ind>n&eacute;vm&aacute;s</ind></trd>
-  <trd lng="pl">zaimek lub przymiotnik wskazuj&aogonek;cy</trd>
+  <trd lng="ja">&#x6307;&#x793A;&#x8A5E;  [<ind>&#x3057;&#x3058;&#x3057;</ind>]</trd>
+  <trd lng="pl">zaimek wskazuj&aogonek;cy</trd>
   <trd lng="pt">demonstrativo</trd>
-  <trd
-lng="ru">&c_u;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
-&c_m;&c_je;&c_s;&c_t;&c_o;&c_i;&c_m;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ro">pronume demonstrativ</trd>
+  <trd lng="ru">&c_u;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_m;&c_je;&c_s;&c_t;&c_o;&c_i;&c_m;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">ukazovacie z&aacute;meno</trd>
+  <trd lng="uk">&c_v;&#x43A;&c_a;&c_z;&c_ib;&c_v;&#x43D;&c_i;&c_j; &c_z;&c_a;&c_j;&#x43C;&c_je;&#x43D;&#x43D;&c_i;&#x43A;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2023/03/14 20:35:36
+Vito Redsky: +trd pl + trd ro
+
 Revision 1.16  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 

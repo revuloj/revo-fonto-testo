@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lukt.xml,v 1.12 2004/06/01 17:24:26 revo Exp $">
+<art mrk="$Id: lukt.xml,v 1.30 2023/09/02 05:33:11 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>lukt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -14,10 +13,26 @@
     <dif>
       Korpe batali kontra&ubreve; iu:
       <ekz>
-        <tld/>i kun iu<fnt>Z</fnt>;
+        iu <tld/>is kun li &gcirc;is la apero de la matenru&gcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 32:24</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i en batalo &gcirc;is la morto.
+        la glavo estis akrigata, la <tld lit="L"/>istoj <tld/>is pri la diino de beleco
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Kupra porko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la aliaj friponoj kaptis lin, <tld/>is kun li, fleksis lin tiel, ke lia kapo
+        atingis liajn piedojn
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -38,14 +53,25 @@
     <dif>
       Peni, klopodi por venki malhelpon a&ubreve; atingi malfacilan rezulton:
       <ekz>
-        <tld/>i por siaj ideoj;
-      </ekz>
-      <ekz>
-        <tld/>i por kandidato, kontra&ubreve; la tuberkulozo, kontra&ubreve; mizero,
+        <tld/>i por siaj ideoj, por kandidato, kontra&ubreve; la tuberkulozo, kontra&ubreve; mizero,
         morto, ventego, konkurenco;
       </ekz>
       <ekz>
-        <tld/>i kontra&ubreve; la sorto, la timo.
+        mi turmenti&gcirc;is, mi <tld/>is kaj strebis por la infano, mi frotpurigadis
+        &scirc;tuparojn kaj lavadis tola&jcirc;on <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;i estis tute senta&ubreve;ga</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vere, nun mi sufi&ccirc;e suferis kaj <tld/>is <klr>[kontra&ubreve; la tento]</klr>! nun mi
+        opinias, ke mi estas tiel same bona, kiel multaj el tiuj, kiuj sidas en la
+        pre&gcirc;ejo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ru&gcirc;aj &scirc;uoj</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="hu">
@@ -78,34 +104,112 @@
   <trd lng="es">luchar</trd>
   <trd lng="fr">lutter</trd>
   <trd lng="hu">birk&oacute;z&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x683C;&#x95D8;&#x3059;&#x308B;  [<ind>&#x304B;&#x304F;&#x3068;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x30EC;&#x30B9;&#x30EA;&#x30F3;&#x30B0;&#x3092;&#x3059;&#x308B;  [<ind>&#x308C;&#x3059;&#x308A;&#x3093;&#x3050;&#x3092;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x95D8;&#x3046;  [<ind>&#x305F;&#x305F;&#x304B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">lutar</trd>
   <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_t;&c_mol;&c_s;&c_ja;</trd>
   <trd lng="sk">z&aacute;pasi&tcaron;</trd>
+  <trd lng="uk">&c_b;&#x43E;&c_r;&#x43E;&c_t;&c_i;&c_s;&#x44F;</trd>
 </drv>
 
 <drv mrk="lukt.0o">
   <kap><tld/>o</kap>
+  <snc mrk="lukt.0o.ago">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        <nom>Ra&hcirc;el</nom> diris: per Dia <tld/>o mi <tld/>is kun mia fratino, kaj mi venkis
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 30:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ve! post <tld/>o vanas larmofer'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Pri Somero</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la a&ubreve;toro eliris de la principo, ke <tld/>o kontra&ubreve; rasismo komenci&gcirc;as per
+        edukado
+        <fnt>
+	<aut>Jorge Camacho</aut>
+	<vrk><url ref="&Monato;/2000/006810.php">Diskutige kaj diskutinde</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de povoj, <tld/>o de interesoj, <tld/>o por la tutmonda hegemonio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2003/008022.html">Tridek jaroj da sa&gcirc;o</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Ringen</trd>
+  </snc>
   <snc mrk="lukt.0o.SPO">
     <uzo tip="fak">SPO</uzo>
     <dif>
       Iu el la <ref tip="super" cel="sport.0o.SPO">sportoj</ref>
       en kiuj praktikanto penas sub difinitaj reguloj
-      teren renversi a&ubreve; senmovigi la kontra&ubreve;ulon.
+      teren renversi a&ubreve; senmovigi la kontra&ubreve;ulon:
+      <ekz>
+        sumoo, la japana tradicia <tld/>o rigardata kiel nacia sporto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="&Monato;/2010/010127.php">Malplenaj kapoj, plenaj
+          korpoj</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &jcirc;udo estas internacia <tld/>osporto kaj olimpika ludo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2015/011410.php">Malmoli&gcirc;as la mola vojo</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <trdgrp lng="cs">
+      <trd>boj</trd>,
+      <trd>z&aacute;pas</trd>
+    </trdgrp>
+    <trd lng="de">Ringkampf</trd>
+    <trd lng="en">wrestling<klr tip="ind"> (sport)</klr></trd>
+    <trd lng="es">lucha<klr> (deporte)</klr></trd>
+    <trd lng="fr">lutte</trd>
+    <trd lng="nl">worstelen<klr tip="ind"> (sport)</klr></trd>
+    <trd lng="pl">zapasy</trd>
+    <trdgrp lng="sk">
+      <trd>boj</trd>,
+      <trd>z&aacute;pas</trd>
+    </trdgrp>
   </snc>
-  <trdgrp lng="cs">
-    <trd>boj</trd>,
-    <trd>z&aacute;pas</trd>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_m;&c_a;&c_g;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_d;&c_u;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_b;&c_a;&c_r;&c_a;&c_c;&c_mol;&c_b;&c_a;</trd>,
+      <trd>&c_b;&c_o;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x683C;&#x95D8;  [<ind>&#x304B;&#x304F;&#x3068;&#x3046;</ind>]</trd>,
+    <trd>&#x30EC;&#x30B9;&#x30EA;&#x30F3;&#x30B0;</trd>,
+    <trd>&#x95D8;&#x3044;  [<ind>&#x305F;&#x305F;&#x304B;&#x3044;</ind>]</trd>
   </trdgrp>
-  <trd lng="en">wrestling<klr tip="ind"> (sport)</klr></trd>
-  <trd lng="es">lucha<klr> (deporte)</klr></trd>
-  <trd lng="fr">lutte</trd>
-  <trd lng="nl">worstelen<klr tip="ind"> (sport)</klr></trd>
-  <trd lng="pl">zapasy</trd>
-  <trdgrp lng="sk">
-    <trd>boj</trd>,
-    <trd>z&aacute;pas</trd>
-  </trdgrp>
+  <trd lng="uk">&c_b;&#x43E;&c_r;&#x43E;&c_t;&#x44C;&c_b;&c_a;</trd>
 </drv>
 
 <drv mrk="lukt.inter0i">
@@ -115,12 +219,13 @@
     <dif>
       <tld lit="L"/>i unu kontra&ubreve; la alia:
       <ekz>
-        al mi pla&ccirc;us vidi, se Lauri kaj Eero inter<tld/>us
+        al mi pla&ccirc;us vidi, se <nom>Lauri</nom> kaj <nom>Eero</nom> inter<tld/>us
         <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
         fratoj</vrk>, <lok>1947</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_m;&c_a;&c_g;&c_a;&c_c;&c_c;&c_a; <klr>(&c_p;&c_a;&c_m;&c_ib;&c_zh;&c_s;&c_o;&c_b;&c_k;&c_u;)</klr></trd>
   <trd lng="fr">se <ind>combattre</ind></trd>
 </drv>
 
@@ -145,6 +250,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_e;&c_k;&c_a;-&c_r;&c_y;&c_m;&c_s;&c_k;&c_a;&c_ja; <ind>&c_b;&c_a;&c_r;&c_a;&c_c;&c_mol;&c_b;&c_a;</ind></trd>,
+    <trd>&c_k;&c_l;&c_ja;&c_s;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_b;&c_a;&c_r;&c_a;&c_c;&c_mol;&c_b;&c_a;</ind></trd>
+  </trdgrp>
   <trd lng="cs">&rcaron;ecko&rcaron;&iacute;msk&yacute; z&aacute;pas</trd>
   <trd lng="en">Greco-Roman wrestling</trd>
   <trd lng="fr">lutte gr&eacute;co-romaine</trd>
@@ -155,6 +264,21 @@
 </art>
 <!--
 $Log$
+versio 1.29 2023/04/24 09:26:34
+Paul Peeraerts: @Sxteloj -> @Monato
+
+versio 1.28 2022/07/11 13:05:31
+Dmitri Gabinski: + trd be
+
+versio 1.27 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2021/11/09 08:35:24
+Dmitri Gabinski: + trd be
+
+versio 1.24 2021/01/19 07:17:04
+Wolfram Diestel: +ekz-oj, ~o: snc ago
+
 Revision 1.22  2018/09/02 14:10:15  revo
 Sam Penter: +trd nl
 
@@ -162,17 +286,5 @@ Revision 1.21  2015/10/29 06:10:16  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.20  2015/10/16 06:10:12  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.19  2015/09/24 17:10:16  revo
-Cindy Moon McKee: +trd en
-
-Revision 1.18  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.17  2015/06/29 16:33:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.16  2014/06/28 19:10:13  revo
 -->
 </vortaro>

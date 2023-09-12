@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cxapel.xml,v 1.29 2010/08/12 16:30:34 revo Exp $">
+<art mrk="$Id: cxapel.xml,v 1.43 2023/08/31 10:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;apel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -33,9 +32,7 @@
     </trdgrp>
     <trd lng="bg">&c_sh;&c_a;&c_p;&c_k;&c_a;</trd>
     <trd lng="ca">barret</trd>
-    <trd
-    lng="el">&kappa;&alfa;&pi;&epsilon_ton;&lambda;&lambda;&omikron;
-    </trd>
+    <trd lng="el">&kappa;&alfa;&pi;&epsilon_ton;&lambda;&lambda;&omikron;</trd>
     <trd lng="en">hat</trd>
     <trd lng="es">sombrero</trd>
     <trd lng="fr">chapeau</trd>
@@ -61,13 +58,14 @@
         estas striita
         <fnt>
           <aut>P. Desmet'</aut>,
-          <vrk><url
-          ref="http://www.ipernity.com/blog/petro_desmet/259965">
+          <vrk><url ref="http://www.ipernity.com/blog/petro_desmet/259965">
           &Hcirc;ameleona Fungeto?</url></vrk>,
           <lok>2010-06-30</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="nl">hoed</trd>
+    <trd lng="pl">kapelusz</trd>
   </snc>
   <snc mrk="cxapel.0o.supersigno">
     <uzo tip="fak">GRA</uzo>
@@ -114,19 +112,28 @@
       <trd>kapje<klr tip="ind"> (^)</klr></trd>
     </trdgrp>
     <trdgrp lng="pl">
-      <trd>cirkumfleks</trd>,
+      <trd>cyrkumfleks</trd>,
       <trd>daszek<klr> (pot.)</klr></trd>
     </trdgrp>
     <trd lng="pt">circunflexo</trd>
+    <trd lng="ro">circumflex</trd>
     <trd lng="ru">&c_k;&c_r;&c_y;&c_sh;&c_a;</trd>
     <trdgrp lng="sk">
       <trd>vok&aacute;&ncaron;</trd>,
       <trd>strie&scaron;ka</trd>
     </trdgrp>
   </snc>
+  <trd lng="bo">&#xF58;&#xF46;&#xF7C;&#xF51;&#xF0B;&#xF41;&#xF44;&#xF0B;</trd>
   <trd lng="cs">klobouk</trd>
   <trd lng="de">Hut</trd>
+  <trd lng="he">&#x5DB;&#x5BC;&#x5D5;&#x5B9;&#x5D1;&#x5B7;&#x5E2;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30AF;&#x30B5;&#x30F3;&#x30B7;&#x30EB;&#x30B3;&#x30F3;&#x30D5;&#x30EC;&#x30C3;&#x30AF;&#x30B9;</trd>,
+    <trd>&#x30CF;&#x30C3;&#x30C8;</trd>
+  </trdgrp>
   <trd lng="sv">hatt</trd>
+  <trd lng="sw">kofia</trd>
+  <trd lng="uk">&#x43A;&c_a;&#x43F;&c_je;&#x43B;&#x44E;&c_h;</trd>
 </drv>
 
 <drv mrk="cxapel.0isto">
@@ -138,8 +145,7 @@
         la heroino Sofi estas 18-jara <tld/>istino
         <fnt>
         <aut>Vastalto</aut>,
-        <vrk><url
-        ref="http://www.vastalto.com/blog">Akvosfero</url></vrk>
+        <vrk><url ref="http://www.vastalto.com/blog">Akvosfero</url></vrk>
         <lok>La Militregna Epoko..., 2006-01-03</lok>
         </fnt>.
       </ekz>
@@ -151,7 +157,12 @@
     <trd>cappellaio<klr> (per uomo)</klr></trd>, 
     <trd>modista<klr> (per donna)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E3D;&#x5B50;&#x88FD;&#x9020;&#x696D;&#x8005;  [<ind>&#x307C;&#x3046;&#x3057;&#x305B;&#x3044;&#x305E;&#x3046;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x5E3D;&#x5B50;&#x5C4B;  [<ind>&#x307C;&#x3046;&#x3057;&#x3084;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">kapelusznik</trd>
+  <trd lng="ro">p&abreve;l&abreve;rier</trd>
 </drv>
 
 <drv mrk="cxapel.bul0o">
@@ -176,6 +187,12 @@
     </dif>
   </snc>
   <trd lng="fr">chapeau-melon</trd>
+  <trd lng="ja">&#x5C71;&#x9AD8;&#x5E3D;  [<ind>&#x3084;&#x307E;&#x305F;&#x304B;&#x307C;&#x3046;</ind>]</trd>
+  <trd lng="pl">melonik</trd>
+  <trdgrp lng="ro">
+    <trd>melonier&abreve;</trd>,
+    <trd>p&abreve;l&abreve;rie bombat&abreve;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cxapel.cilindro0o">
@@ -198,6 +215,8 @@
     </dif>
   </snc>
   <trd lng="fr">haut-de-forme</trd>
+  <trd lng="pl">cylinder  <klr>(kapelusz)</klr></trd>
+  <trd lng="ro">p&abreve;l&abreve;rie cilindric&abreve;</trd>
 </drv>
 
 <drv mrk="cxapel.klak0o">
@@ -228,12 +247,64 @@
     <trd>klakk</trd>,
     <trd>rug&oacute;s <ind>cilinder</ind> <klr tip="ind">(kalap)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x30AA;&#x30DA;&#x30E9;&#x30CF;&#x30C3;&#x30C8;</trd>
   <trd lng="nl">klakhoed</trd>
+  <trdgrp lng="pl">
+    <trd>szapoklak</trd>,
+    <trd>cylinder sk&lstroke;adany</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>fedora</trd>,
+    <trd>p&abreve;l&abreve;rie cu boruri late</trd>
+  </trdgrp>
   <trd lng="ru">&c_sh;&c_a;&c_p;&c_o;&c_k;&c_l;&c_ja;&c_k;</trd>
+</drv>
+
+<drv mrk="cxapel.levi_la_0on">
+  <kap>
+    levi la <tld/>on,
+    <var><kap>demeti la <tld/>on</kap></var>
+  </kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc mrk="cxapel.levi_la_0on.saluti">
+    <dif>
+      <ref tip="vid" cel="salut.0i.MOR">Saluti<sncref/></ref>,
+      gratuli, esprimi <ref cel="respek.0o.elmontro">respekton</ref>
+      <klr>(iam en Okcidento efektiva saluta gesto flanke de viroj)</klr>:
+      <ekz>
+        sinjoro, mi levas pro vi la <tld/>on... vi estas la sola homo kiu tiel malka&scirc;e
+        parolis al mi en la da&ubreve;ro de la nuna jaro
+        <fnt>
+          <aut>J. Merchant</aut>
+          <vrk><url ref="http://www.autodidactproject.org/other/merchant_klem.html">Kompatinda
+          Klem</url></vrk>
+          <lok>1931</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">tirer son chapeau</trd>
+  <trdgrp lng="pl">
+    <trd>zdj&aogonek;&cacute; <ind>kapelusz</ind></trd>,
+    <trd>zdj&aogonek;&cacute; <ind>czapk&eogonek;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>a se ridica  <ind>p&abreve;l&abreve;ria</ind></trd>,
+    <trd>a se scoati  <ind>p&abreve;l&abreve;ria</ind></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.41 2023/03/26 10:28:39
+Paul Peeraerts: korekto de fnt
+
+versio 1.40 2023/02/23 15:31:53
+Vito Redsky: +trd pl + trd ro
+
+versio 1.36 2020/10/01 20:32:25
+Jeromo Vasxe: + levi la ~on
+
 Revision 1.34  2017/10/14 12:10:15  revo
 Vito Redsky: +trd ro
 
@@ -247,11 +318,5 @@ Revision 1.31  2014/06/29 08:10:12  revo
 Eko Nur Syah Hidayat: +id
 
 Revision 1.30  2013/12/28 18:10:13  revo
-Damien Brucker: +ref
-
-Revision 1.29  2010/08/12 16:30:34  revo
-Jeromo Vasxe: + funga ~o
-
-Revision 1.28  2009/04/27 16:31:14  revo
 -->
 </vortaro>

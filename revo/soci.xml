@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: soci.xml,v 1.27 2020/03/14 10:59:09 revo Exp $">
+<art mrk="$Id: soci.xml,v 1.30 2023/09/04 05:14:55 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>soci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -88,13 +87,22 @@
   <trd lng="it">societ&agrave;</trd>
   <trd lng="fr">soci&eacute;t&eacute;</trd>
   <trd lng="hu">t&aacute;rsadalom</trd>
+  <trdgrp lng="ja">
+    <trd>&#x793E;&#x4F1A;  [<ind>&#x3057;&#x3083;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x4E16;&#x9593;  [<ind>&#x305B;&#x3051;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>maatschappij</trd>,
     <trd>samenleving</trd>
   </trdgrp>
   <trd lng="ru">&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
   <trd lng="sv">samh&auml;lle</trd>
-  <trd lng="tp">kulupu</trd>
+  <trd lng="tok">kulupu</trd>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x443;&#x441;&#x43F;&#x456;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x43E;</trd>,
+    <trd>&#x433;&#x440;&#x43E;&#x43C;&#x430;&#x434;&#x441;&#x44C;&#x43A;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x43F;&#x43E;&#x43F;&#x443;&#x43B;&#x44F;&#x446;&#x456;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="soci.0a">
@@ -146,6 +154,11 @@
     <trd>t&aacute;rsadalmi</trd>,
     <trd>szoci&aacute;lis</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x793E;&#x4F1A;&#x306E;  [<ind>&#x3057;&#x3083;&#x304B;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x793E;&#x4F1A;&#x7684;&#x306A;  [<ind>&#x3057;&#x3083;&#x304B;&#x3044;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x793E;&#x4F1A;&#x751F;&#x6D3B;&#x3092;&#x55B6;&#x3080;  [<ind>&#x3057;&#x3083;&#x304B;&#x3044;&#x305B;&#x3044;&#x304B;&#x3064;&#x3092;&#x3044;&#x3068;&#x306A;&#x3080;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">maatschappelijk</trd>
   <trd lng="pl">spo&lstroke;eczny</trd>
   <trdgrp lng="ru">
@@ -154,7 +167,12 @@
   </trdgrp>
   <trd lng="sk">spolo&ccaron;ensk&yacute;</trd>
   <trd lng="sv">social</trd>
-  <trd lng="tp">kulupu</trd>
+  <trd lng="tok">kulupu</trd>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x443;&#x441;&#x43F;&#x456;&#x43B;&#x44C;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x433;&#x440;&#x43E;&#x43C;&#x430;&#x434;&#x441;&#x44C;&#x43A;&#x438;&#x439;</trd>,
+    <trd>&#x441;&#x43E;&#x446;&#x456;&#x430;&#x43B;&#x44C;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="soci.0emo">
@@ -174,7 +192,7 @@
         nura komerca afero, kiu nur da&ubreve;ras dum ili bezonas &gcirc;in
         <fnt>
           <aut>M. de Sabl&eacute;, trad. W. Kirschstein</aut>,
-          <vrk><url ref="http://esperanto.org/Ondo/Tl-fr02.htm">
+          <vrk><url ref="&LOdE;Tl-fr02.htm">
           Maksimoj</url></vrk>,
           <bib>LOdE</bib>,
           <lok>1998:11 (49)</lok>
@@ -264,6 +282,15 @@
 </art>
 <!--
 $Log$
+versio 1.29 2022/05/05 05:09:57
+aktualigo lingvokodoj kaj URL-unuoj
+
+Revision 1.27  2020/03/14 10:59:09  revo
+adaptis URL de Ondo
+
+Revision 1.26  2017/09/26 13:10:17  revo
+Filippo Botta: traduko italen
+
 Revision 1.25  2015/10/28 10:10:16  revo
 Guillermo Molleda Jimena: trd es
 
@@ -277,11 +304,5 @@ Revision 1.22  2013/11/22 02:10:20  revo
 Jeromo Vasxe: kor mrk
 
 Revision 1.21  2013/08/11 20:10:11  revo
-Jeromo Vasxe: + kontraux~ulo
-
-Revision 1.20  2012/09/04 12:10:09  revo
-Jeromo Vasxe: + en~igxo
-
-Revision 1.19  2009/12/06 17:30:48  revo
 -->
 </vortaro>

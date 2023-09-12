@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frap.xml,v 1.18 2009/01/28 17:30:17 revo Exp $">
+<art mrk="$Id: frap.xml,v 1.54 2023/09/12 06:27:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>frap</rad>/i <fnt><bib>PV</bib></fnt>
@@ -15,33 +14,119 @@
     <dif>
       <ref tip="dif" cel="bat.0i.ektusxegi">Bati<sncref/></ref>:
       <ekz>
-        <tld/>i iun per bastono, per kuglo;
+        Moseo levis sian manon kaj <tld/>is la rokon per sia bastono du fojojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 20:11</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>ita de la fulmo;
+        li staras kvaza&ubreve; <tld/>ita de fulmo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i vazon por &gcirc;in rompi;
+        pluvo <tld/>adis la lapajn foliojn
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Feli&ccirc;a familio</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i al si la kapon, la ventron;
+        metu <nom>Urijan</nom> en la fronton de la plej forta batalo, <klr>[&#8230;]</klr> ke li estu
+        <tld/>ita kaj mortu
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 11:15</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i al iu la vangon;
+        &scirc;tono <klr>[&#8230;]</klr> <tld/>is la <klr>[&#8230;]</klr> piedojn, kaj frakasis ilin
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 2:34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> prenis la kanon kaj <tld/>is lian kapon
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 27:30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la respektinda mastro <tld/>is al si la bruston, tordis la manojn kaj premis
+        sian kapon per amba&ubreve; manoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al tiu, kiu <tld/>as vin sur la vango, prezentu anka&ubreve; la alian
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 6:29</lok>
+        </fnt>;
       </ekz>
       <ekz>
         li <tld/>is la birdon sur la bekon
-        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de
-        feli&ccirc;o</lok></fnt>;
+        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>;
       </ekz>
       <ekz>
-        malseka aero <tld/>is iliajn viza&gcirc;ojn<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        <tld/>ita de la radioj de la suno, li &gcirc;uis trankvilan
-        plezuron<fnt>Z</fnt>.
+        densa ondo da mucida, malseka aero <tld/>is la viza&gcirc;ojn de amba&ubreve; enirantaj
+        virinoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <subsnc mrk="frap.0i.SPO">
+      <uzo tip="fak">SPO</uzo>
+      <dif>
+        Forte <ref tip="super" cel="pusx.0i.delokigi">pu&scirc;i</ref> ludilon ks por &jcirc;eti &gcirc;in al certa
+        direkto:
+        <ekz>
+          ludantoj de tabloteniso <klr>[&#8230;]</klr> <tld/>as
+          la pilkon tien kaj reen
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Garvan Makaj</aut>
+            <vrk><url ref="&Monato;/2011/010383.php">Mikspoto politika</url></vrk>
+            <lok>2011</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[en flugpilkludo]</klr> la pilkon oni nur <tld/>u, sed ne kaptu a&ubreve; &scirc;ovu
+          <fnt>
+            <bib>Viki</bib>
+            <lok><url ref="https://eo.wikipedia.org/?curid=45391">Volejbalo</url></lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          a&ccirc;humora, li pied<tld/>is plastan botelon, kiu <klr>[nun&#8230;]</klr> ruli&gcirc;is
+          malproksime sur la trotuaro
+          <fnt>
+            <bib>ChV</bib>
+            <lok>17</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="sxot.0i">&scirc;oti</ref>,
+        <ref cel="paf.0i.SPO">pafi<sncref/></ref>
+      </refgrp>
+      <trd lng="de">schie&szlig;en <klr>(Ball)</klr></trd>
+      <trd lng="en">kick<klr> (vt)</klr></trd>
+      <trd lng="fr">lancer</trd>
+    </subsnc>
+    <trdgrp lng="de">
+      <trd>klopfen</trd>,
+      <trd>pochen</trd>,
+      <trd>schlagen</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>golpear (algo o a alguien)</trd>
     </trdgrp>
@@ -69,30 +154,50 @@
     <dif>
       Batante produkti sonon:
       <ekz>
-        <tld/>i tamburon, cimbalon;
+        li <tld/>is &ccirc;e la pordo
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 12:13</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i &ccirc;e<fnt>Z</fnt>,
-        je la pordo<fnt>Z</fnt>,
-        sur la pordon de iu;
+        iu <tld/>is delikate la pordon
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        oni <tld/>as;
+        kiu <tld/>as, al tiu oni malfermas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        kiu <tld/>as, al tiu oni malfermas<fnt><bib>PrV</bib></fnt>;
+        la maro <tld/>adis sur la rokon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la maro <tld/>as &ccirc;e la rokoj;
+        &scirc;ia koro <tld/>is forte kaj kun granda rapideco
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        lia koro <tld/>is kun granda rapideco<fnt>Z</fnt>;
+        oni kun<tld/>os pri li la manojn kaj oni fajfos pri li sur lia loko
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 27:23</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        lia pulso, la tempioj forte <tld/>is pro emocio;
-      </ekz>
-      <ekz>
-        kun<tld/>i la manojn <klr>(klaki per la manoj)</klr>.
+        Marta <tld/>is la lastan akordon de la sentimentala melodio <klr>[&#8230;]</klr> ne
+        levante <klr>[&#8230;]</klr> la manojn de la klavoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -100,6 +205,11 @@
       <ref cel="bat.0i.movi">bati<sncref/></ref>,
       <ref cel="plauxd.0i">pla&ubreve;di</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd>klopfen</trd>,
+      <trd>klatschen <klr>(Wellen)</klr></trd>,
+      <trd>pochen</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>percutir</trd>,
       <trd>golpear haciendo ruido</trd>
@@ -118,21 +228,84 @@
   <snc mrk="frap.0i.mirigi">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Subite kaj forte atentigi, mirigi:
+      Subite kaj forte <ref tip="super" cel="atent.0igi">atentigi</ref>,
+      <ref tip="super" cel="mir.0igi">mirigi</ref>:
       <ekz>
-        <tld/>i la atenton, la okulojn<fnt>Z</fnt>;
+        <tld/>ita de la majesta ekstera&jcirc;o <klr>[li]</klr> demandas lin, kiu li estas
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <ind><tld/>(ant)a</ind> ekzemplo, argumento, simileco;
+        <tld/>anta simileco kun la imperiestro A&ubreve;gusto
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen reale, vivanta viro, kiu <tld/>e similas al tiu mia elrevito
+        <fnt>
+          <bib>SkandalJozef</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;idino estis <tld/>ante pala kaj havis sur si karbonigran veston
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;io en tiu &ccirc;i neordinara persono de longe profunde <tld/>is &scirc;ian imagon
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la saloneto <klr>[&#8230;]</klr> ne estis vasta, tial des pli <tld/>is la okulojn la
+        eleganteco de &gcirc;ia aran&gcirc;o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[per]</klr> <tld/>aj sloganoj <klr>(vd <ref cel="fraz.frap0o">frapfrazo</ref>)</klr>
+        allogi homojn
+         <fnt>
+          <aut>Stefan Maul</aut>
+
+          <vrk><url ref="&Monato;/1993/A930802.php">Alarmsignalo el Italio</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/08, p. 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>antaj ekzemploj de lingva disfragmenti&gcirc;o
+        <fnt>
+	<aut>Garbhan MacAoidh</aut>
+	<vrk><url ref="&Monato;/2000/006815.php">&Ccirc;u nova &scirc;anco por malfortaj lingvoj?</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>frapa</ind> argumento pri kosto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2004/007797.html">Mikrosofto ektimas Linukson</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
         <trdgrp lng="fr">
           <trd>frappant</trd>,
           <trd>saisissant<klr tip="ind"> (frappant)</klr></trd>
         </trdgrp>
       </ekz>
-      <ekz>
-        <tld/>ante bela, pala<fnt>Z</fnt>.
-      </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>frappieren</trd>,
+      <trd>ins Auge <ind>fallen</ind></trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>asombrar</trd>,
       <trd>atraer la atenci&oacute;n</trd>
@@ -143,20 +316,30 @@
   <snc mrk="frap.0i.tusxegi">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Malmilde trafi, subite tu&scirc;egi:
+      Malmilde <ref tip="super" cel="traf.0i">trafi</ref>, subite <ref tip="super" cel="tusx.0egi">tu&scirc;egi</ref>:
       <ekz>
-        kvaza&ubreve; tiuj vortoj
-        <tld/>us &scirc;in per ia rememoro<fnt>Z</fnt>;
+        kvaza&ubreve; tiuj vortoj <tld/>us &scirc;in per ia subita, ordona rememoro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        penso, kiu <tld/>is &scirc;ian koron<fnt>Z</fnt>;
+        penso pri la mal&gcirc;ojo en tiu &ccirc;i domo <klr>[&#8230;]</klr> <tld/>is &scirc;ian molan koron
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
       </ekz>
       <ekz>
         teruro lin <tld/>is
         <fnt><bib>MT</bib>, <lok>&Jes; 21:4</lok></fnt>;
       </ekz>
       <ekz>
-        <tld/>ita de blindeco.
+        li anta&ubreve; la portreto de la formortinta sinjoro subite haltis, kvaza&ubreve; <tld/>ita
+        de tondro
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -165,6 +348,7 @@
       <ref cel="kapt.0i">kapti</ref>,
       <ref cel="sku.0i">skui</ref>.
     </refgrp>
+    <trd lng="de">treffen <klr>(schlagartig)</klr></trd>
     <trdgrp lng="es">
       <trd>captar de golpe</trd>,
       <trd>comprender de repente</trd>
@@ -175,13 +359,24 @@
   <snc mrk="frap.0i.punbati">
     <uzo tip="fak">BIB</uzo>
     <dif>
-      Punbati, puni:
+      Punbati, <ref tip="super" cel="pun.0i">puni</ref>:
       <ekz>
-        ili estis <tld/>itaj de la Dia kolero;
+        <nom>Efraim</nom> estas premata, <tld/>ita de la ju&gcirc;o, &ccirc;ar li memvole sekvis homan ordonon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ho&scirc;ea 5:11</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la Eternulo <tld/>is la popolon per granda <tld/>o
-        <fnt><bib>MT</bib>, <lok>&Sa1; 6:19</lok></fnt>.
+        <fnt><bib>MT</bib>, <lok>&Sa1; 6:19</lok></fnt>;
+      </ekz>
+      <ekz>
+        la Eternulo <tld/>os vin per frenezeco kaj per blindeco kaj per senkapableco
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 28:28</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -189,6 +384,7 @@
       <ref cel="plag.0i">plagi</ref>,
       <ref cel="vip.0i">vipi</ref>.
     </refgrp>
+    <trd lng="de">schlagen <klr>(Strafe, Blindheit...)</klr></trd>
     <trdgrp lng="es">
       <trd>sancionar</trd>,
       <trd>penalizar</trd>
@@ -208,17 +404,17 @@
   <trdgrp lng="de">
     <trd>klopfen</trd>,
     <trd>schlagen</trd>,
-    <trd>treffen</trd>,
-    <trd>pochen</trd>,
-    <trd>frappieren</trd>
+    <trd>einschlagen</trd>,
+    <trd>treffen <klr>(Blitzschlag)</klr></trd>,
   </trdgrp>
   <trdgrp lng="en">
-    <trd>hit</trd>,
-    <trd>knock</trd>,
-    <trd>rap</trd>,
-    <trd>slap</trd>,
-    <trd>smack</trd>,
-    <trd>strike</trd>
+    <trd>hit<klr> (vt)</klr></trd>,
+    <trd>knock<klr> (vt)</klr></trd>,
+    <trd>rap<klr> (vt)</klr></trd>,
+    <trd>slap<klr> (vt)</klr></trd>,
+    <trd>smack<klr> (vt)</klr></trd>,
+    <trd>strike<klr> (vt)</klr></trd>,
+    <trd>impact<klr> (vt)</klr></trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>golpear</trd>,
@@ -233,9 +429,14 @@
     <trd>saisir<klr tip="ind"> (frapper)</klr></trd>,
     <trd>taper</trd>
   </trdgrp>
-  <trdgrp lng="id">
-    <trd>[<ind>ketok</ind>] mengetok</trd>,
-    <trd>[<ind>ketuk</ind>] mengetuk</trd>
+  <trd lng="id"><baz>ketok</baz> mengetok</trd>
+  <trd lng="id"><baz>ketuk</baz> mengetuk</trd>
+  <trdgrp lng="ja">
+    <trd>&#12383;&#12383;&#12367;</trd>,
+    <trd>&#25171;&#12388;  [<ind>&#12406;&#12388;</ind>]</trd>,
+    <trd>&#12383;&#12383;&#12356;&#12390;&#38899;&#12434;&#20986;&#12377;  [<ind>&#12383;&#12383;&#12356;&#12390;&#12362;&#12392;&#12434;&#12384;&#12377;</ind>]</trd>,
+    <trd>&#12399;&#12387;&#12392;&#12373;&#12379;&#12427;</trd>,
+    <trd>&#39514;&#12363;&#12377;  [<ind>&#12362;&#12393;&#12429;&#12363;&#12377;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">slaan</trd>
   <trdgrp lng="pt">
@@ -244,7 +445,13 @@
     <trd>percutir</trd>
   </trdgrp>
   <trd lng="sk">zab&uacute;cha&tcaron;</trd>
-  <trd lng="tp">utala</trd>
+  <trd lng="tok">utala</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_u;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_d;&c_a;&c_r;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_a;&c_l;&c_a;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frap.0">
@@ -257,14 +464,19 @@
       <ref tip="vid" cel="bat.0.SON">bat</ref>:
       <ekz>
         signalo estis trifoja <tld/>o sur plej alta &scirc;tupo
-        <klr>...</klr> - <tld/>! - <tld/>! - <tld/>!
+        <klr>[&#8230;]</klr> - <tld/>! - <tld/>! - <tld/>
         <fnt>
           <aut>J. Mahen, trad. Moraviaj Esperanto-Pioniroj</aut>,
-          <vrk><url
-          ref="http://eo.wikisource.org/wiki/La_koboldo_Ondra">
+          <vrk><url ref="http://eo.wikisource.org/wiki/La_koboldo_Ondra">
           La koboldo Ondra</url></vrk>,
           <lok>1921</lok>
-        </fnt>.
+        </fnt>!
+      </ekz>
+      <ekz>
+        &leftquot;bonan matenon, sinjorino, mi reprezen...&rightquot; &dash; &leftquot;ne, dankon!&rightquot; <tld/>
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>!
       </ekz>
     </dif>
   </snc>
@@ -273,14 +485,80 @@
     <trd>&c_b;&c_u;&c_m;!</trd>,
     <trd>&c_b;&c_a;&c_m;!</trd>
   </trdgrp>
+  <trd lng="de">klopf!</trd>
   <trdgrp lng="es">
-    <trd>&#161;tan, tan!</trd>,
-    <trd>&#161;ratapl&aacute;n!</trd>
+    <trd>¡tan, tan!</trd>,
+    <trd>¡ratapl&aacute;n!</trd>
   </trdgrp>
   <trd lng="fr">pan !</trd>
   <trd lng="id">tok !</trd>
 </drv>
 
+<drv mrk="frap.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Tia, ke &gcirc;i <tld/>as:
+      <ekz>
+        li elpensos por la cezaro ion ne nur grandiozan, sed anka&ubreve; <tld/>an
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XXIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en genia cerbo de junulo disvolvi&gcirc;is tiu bildo kun precizo <tld/>a
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        frapa kontra&ubreve;ekzemplo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 3 (53)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a sceno, spertita dum trajnvoja&gcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Edmund Grimley Evans</aut>
+          <vrk><url ref="&Monato;/2011/010156.php">Akutagawa: patro de la japana novelo</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ora &ccirc;okolado havas esceptan guston, estas iomete pli acida, havas <tld/>ajn
+        fruktajn kaj florajn gustojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2014/011379.php">Medala &ccirc;okolado</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abrupt.0a">abrupta</ref>,
+      <ref cel="akr.0a.vigla">akra<sncref/></ref>,
+      <ref cel="drast.0a">drasta</ref>,
+      <ref cel="energi.0a.drasta">energia<sncref/></ref>,
+      <ref cel="frap.okul0a">okulfrapa</ref>,
+      <ref cel="radika.0a">radikala</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>aufallend</trd>,
+    <trd>frappant</trd>,
+    <trd>schlagend</trd>
+  </trdgrp>
+  <trd lng="en">striking<klr> (adj)</klr></trd>
+  <trd lng="fr">frappant</trd>
+</drv>
 
 <drv mrk="frap.0o">
   <kap><tld/>o</kap>
@@ -288,18 +566,74 @@
     <dif>
       Ago de <tld/>anto, a&ubreve; rezulto de tiu ago:
       <ekz>
-        oni a&ubreve;dis tri <tld/>ojn sur la muro;
+        malsa&gcirc;ulineto! diris <nom>Fanny</nom>, donante al sia amikino nefortan <tld/>on per la
+        ventumilo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <ind>vango<tld/>o</ind><fnt>Z</fnt>;
-        <trdgrp lng="fr">
-          <trd>claque<klr tip="ind"> (soufflet)</klr></trd>,
-          <trd>soufflet<klr tip="ind"> (claque)</klr></trd>
-        </trdgrp>
-        <trd lng="nl">kaakslag</trd>
+        mi aldonos sepoble da <tld/>oj la&ubreve; viaj pekoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 26:21</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        tiu morto estis por li neatendita <tld/>o.
+        neniam lia kredo je homoj, je ilia honesteco ricevis tian fortan <tld/>on
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ricevus tian pugno<tld/>on en la ventron, ke la lango elirus
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen la fi&scirc;kaptistoj saltas en la akvon, tiras la boaton al la tero, kaj &ccirc;iu
+        <tld/>o de la ondoj ilin helpas
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni a&ubreve;dis <tld/>ojn de hakilo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[subite]</klr> kvaza&ubreve; la&ubreve; sor&ccirc;a <tld/>o, &ccirc;io muti&gcirc;is
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grekaj ta&ccirc;mentoj, kies egalaj pa&scirc;oj similis <tld/>ojn de pezaj marteloj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i kun etenditaj flugiloj mallevi&gcirc;is &ccirc;iam pli kaj pli malalten, faris ankora&ubreve;
+        kelke da <tld/>oj per la flugiloj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne doloras <tld/>o sur fremda kapo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -309,17 +643,27 @@
     <trd>klepnut&iacute;</trd>,
     <trd>&uacute;der</trd>
   </trdgrp>
+  <trd lng="de">Schlag</trd>
   <trdgrp lng="en">
-    <trd>hit</trd>,
-    <trd>knock</trd>,
-    <trd>strike</trd>,
-    <trd>stroke</trd>
+    <trd>hit<klr> (n)</klr></trd>,
+    <trd>knock<klr> (n)</klr></trd>,
+    <trd>strike<klr> (n)</klr></trd>,
+    <trd>stroke<klr> (n)</klr></trd>,
+    <trd>rap<klr> (n)</klr></trd>,
+    <trd>slap<klr> (n)</klr></trd>,
+    <trd>smack<klr> (n)</klr></trd>,
+    <trd>impact<klr> (n)</klr></trd>
   </trdgrp>
   <trd lng="es">golpe</trd>
   <trd lng="fr">coup</trd>
   <trdgrp lng="id">
-    <trd>[<ind>ketok</ind>] ketokan</trd>,
-    <trd>[<ind>ketuk</ind>] ketukan</trd>
+    <trd><ind>ketok</ind>an</trd>,
+    <trd><ind>ketuk</ind>an</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12383;&#12383;&#12367;&#12371;&#12392;</trd>,
+    <trd>&#25171;&#25731;  [<ind>&#12384;&#12370;&#12365;</ind>]</trd>,
+    <trd>&#34909;&#25731;  [<ind>&#12375;&#12423;&#12358;&#12370;&#12365;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">slag</trd>
   <trdgrp lng="pl">
@@ -338,15 +682,56 @@
     <trd>klepnutie</trd>,
     <trd>&uacute;der</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_u;&c_k;&c_ib;&c_t;</trd>,
+    <trd>&c_u;&c_d;&c_a;&c_r;</trd>,
+    <trd>&c_u;&c_d;&c_a;&c_r;&c_n;&c_i;&c_j; <klr>(&c_z;&c_v;&c_u;&c_k;)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frap.0ado">
   <kap><tld/>ado</kap>
   <snc mrk="frap.0ado.KOMUNE">
     <dif>
-      Ago de <tld/>anto:
+      Ago <tld/>i:
       <ekz>
-        almozula <tld/>ado &ccirc;e multaj pordoj.
+        almozula <tld/>ado &ccirc;e multaj pordoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ali&gcirc;is al ili &ccirc;iam pli la&ubreve;ta <tld/>ado de homaj piedoj, kiuj kuris sur la &scirc;tonoj
+        de la trotuaro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de malproksime <klr>[a&ubreve;di&gcirc;is]</klr> pied<tld/>ado de &ccirc;evaloj
+        <fnt>
+          <bib>Fab3</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        muziko ne konsistas en sola <tld/>ado de klavoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eksonis fluto kaj <tld/>ado de l' pokaloj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter<tld/>ado de la glasoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -360,6 +745,17 @@
     <trd>tlukot</trd>,
     <trd>tlu&ccaron;en&iacute;</trd>
   </trdgrp>
+  <trd lng="de">Klopfen</trd>
+  <trdgrp lng="en">
+    <trd>hitting<klr> (n, act of)</klr></trd>,
+    <trd>knocking<klr> (n, act of)</klr></trd>,
+    <trd>striking<klr> (n, act of)</klr></trd>,
+    <trd>rapping<klr> (n, act of)</klr></trd>,
+    <trd>slapping<klr> (n, act of)</klr></trd>,
+    <trd>smacking<klr> (n, act of)</klr></trd>,
+    <trd>impacting<klr> (n, act of)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#12383;&#12383;&#12365;&#32154;&#12369;&#12427;&#12371;&#12392;  [<ind>&#12383;&#12383;&#12365;&#12388;&#12389;&#12369;&#12427;&#12371;&#12392;</ind>]</trd>
   <trd lng="nl">het <ind>slaan</ind></trd>
   <trdgrp lng="pl">
     <trd>uderzanie</trd>,
@@ -370,6 +766,11 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_t;&c_u;&c_k;</trd>
   <trd lng="sk">klopanie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_u;&c_k;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_u;&c_d;&c_a;&c_r;&c_ja;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_k;&c_a;&c_l;&c_a;&c_t;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frap.0ilo">
@@ -378,15 +779,42 @@
     <dif>
       &Ccirc;io por <tld/>i:
       <ekz>
-        <tld/>ilo de pordo, horlo&gcirc;o, sonorilego
-        <klr>(svingilo)</klr>.
+        en la fino de la koridoro estis pordo, la veninto trovis palpe <tld/>ilon kaj
+        ekfrapis trifoje
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> pendigis kiel insignon super sia tendo sonorilon, kiu
+        <klr>[&#8230;]</klr> estis gudrita kaj ne havis <tld/>ilon
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sonorilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la bilardejo gravaj konkursoj okazas, <klr>[tie]</klr> sidas eble dudek
+        maljunuloj, kiuj neniam prenis <tld/>ilon en la manon sed tiu fakto ne
+        malhelpas ke ili &ccirc;iuj faru konsilojn
+        <fnt>
+          <bib>KKl</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="bat.0ilo">batilo</ref>,
+      <ref cel="raked.0o">rakedo</ref>,
+      <ref cel="sving.0ilo">svingilo</ref>
+    </refgrp>
   </snc>
   <trd lng="cs">klepadlo</trd>
   <trdgrp lng="de">
     <trd>T&uuml;rklopfer</trd>,
-    <trd>Schlagwerk <klr tip="ind">(Uhr)</klr></trd>
+    <trd>Schlagwerk <klr tip="ind">(Uhr)</klr></trd>,
+    <trd>Kl&ouml;ppel</trd>,
+    <trd>Queue</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>knocker</trd>,
@@ -399,6 +827,10 @@
   <trdgrp lng="fr">
     <trd>battant<klr tip="ind"> (de cloche)</klr></trd>,
     <trd>heurtoir</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12494;&#12483;&#12459;&#12540;</trd>,
+    <trd>&#12400;&#12385;</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>klopper</trd>,
@@ -413,18 +845,39 @@
     <trd>klopadlo</trd>,
     <trd>klop&aacute;&ccaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_a;&c_l;&c_a;&c_t;&c_a;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_u;&c_k;&c_a;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_i;&c_ja;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_ja;&c_z;&c_i;&c_k; <klr>(&c_d;&c_z;&c_v;&c_o;&c_n;&c_a;)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frap.0igxi">
   <kap><tld/>i&gcirc;i</kap>
   <snc mrk="frap.0igxi.KOMUNE">
     <dif>
-      Ektu&scirc;egi, pu&scirc;tu&scirc;egi kontra&ubreve; io:
+      Esti trafata de <tld/>o, <ref tip="super" cel="pusx.0igxi">pu&scirc;i&gcirc;i</ref> kontra&ubreve; io:
       <ekz>
-        <tld/>i&gcirc;i kontra&ubreve; tablo, muro;
+        &ccirc;u vi falis a&ubreve; <tld/>i&gcirc;is? &scirc;i demandis malla&ubreve;te kun okuloj fiksitaj sur la
+        malluma makulo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        &ccirc;u vi falis a&ubreve; <tld/>i&gcirc;is?<fnt>Z</fnt>
+        &scirc;ia kapo fortege <tld/>i&gcirc;is kontra&ubreve; la tualettablon, la doloro rapide &scirc;in
+        eltiris el sia sveno
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        desuper liaj genuoj, ligite per &ccirc;enoj, pendis du pezaj kupraj kuboj, kiuj
+        &ccirc;iupa&scirc;e dolorige <tld/>i&gcirc;is al liaj kruroj
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -433,6 +886,15 @@
     <trd>&c_b;&c_l;&c_malmol;&c_s;&c_k;&c_a;&c_m; &c_s;&c_je;</trd>
   </trdgrp>
   <trd lng="de">sich <ind>sto&szlig;en</ind></trd>
+  <trdgrp lng="en">
+    <trd>be <ind>hit</ind><klr> (vi)</klr></trd>,
+    <trd>be <ind>knocked</ind><klr> (vi)</klr></trd>,
+    <trd>be <ind>struck</ind><klr> (vi)</klr></trd>,
+    <trd>be <ind>rapped</ind><klr> (vi)</klr></trd>,
+    <trd>be <ind>slapped</ind><klr> (vi)</klr></trd>,
+    <trd>be <ind>smacked</ind><klr> (vi)</klr></trd>,
+    <trd>be <ind>impacted</ind><klr> (vi)</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd><ind>golpear</ind>se</trd>,
     <trd><ind>chocar</ind>se</trd>
@@ -440,6 +902,10 @@
   <trdgrp lng="fr">
     <trd>se <ind>cogner</ind><klr tip="ind"> (contre qc)</klr></trd>,
     <trd>se <ind>heurter</ind><klr tip="ind"> (&agrave; qc)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12406;&#12388;&#12363;&#12427;</trd>,
+    <trd>&#34909;&#31361;&#12377;&#12427;  [<ind>&#12375;&#12423;&#12358;&#12392;&#12388;&#12377;&#12427;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">zich <ind>stoten</ind></trd>
   <trdgrp lng="pl">
@@ -451,6 +917,7 @@
     <trd>&c_u;&c_d;&c_a;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_s;&c_t;&c_u;&c_k;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trd lng="uk">&c_u;&c_d;&c_a;&c_r;&c_ja;&c_t;&c_i;&c_s;&c_ja; <klr>(&c_o;&c_b; &c_shch;&c_o;-&c_n;.)</klr></trd>
 </drv>
 
 <drv mrk="frap.inter0igxi">
@@ -460,7 +927,33 @@
     <dif>
       Esti malmilde trafita, malmilde intertu&scirc;egi&gcirc;i:
       <ekz>
-        liaj dentoj inter<tld/>i&gcirc;is.
+        liaj genuoj tremante kun<tld/>i&gcirc;adis
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 5:6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        a&ubreve;di&gcirc;is bruo de la flugiloj de la kreita&jcirc;oj, kiuj kun<tld/>i&gcirc;adis unuj kun la
+        aliaj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 3:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la du metaloj inter<tld/>i&gcirc;inte donis sonon puran kaj da&ubreve;ran
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amba&ubreve; potoj inter<tld/>i&gcirc;is tiel, ke en la &ccirc;ambro ekflugis potpecoj, fajro kaj
+        cindro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Kupra porko</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -469,12 +962,16 @@
     <trd>&c_u;&c_d;&c_r;&c_ja;&c_m; &c_s;&c_je; &c_je;&c_d;&c_i;&c_n; &c_v; &c_d;&c_r;&c_u;&c_g;</trd>
   </trdgrp>
   <trd lng="de">zusammenschlagen <klr tip="ind">(Z&auml;hne)</klr></trd>
-  <trd lng="en">clap</trd>
+  <trdgrp lng="en">
+    <trd>be <ind>clapped</ind> together<klr> (vi)</klr></trd>,
+    <trd>be <ind>knocked</ind> together<klr> (vi)</klr></trd>
+  </trdgrp>
   <trd lng="es">colisionar</trd>
   <trdgrp lng="fr">
     <trd>se <ind>heurter</ind></trd>,
     <trd>se <ind>tamponner</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#12406;&#12388;&#12363;&#12426;&#21512;&#12358;  [<ind>&#12406;&#12388;&#12363;&#12426;&#12354;&#12358;</ind>]</trd>
   <trd lng="nl">klapperen</trd>
   <trdgrp lng="pl">
     <trd>zderza&cacute; si&eogonek;</trd>
@@ -484,35 +981,80 @@
     <trd>&c_u;&c_d;&c_a;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;
     &c_d;&c_r;&c_u;&c_g; &c_o; &c_d;&c_r;&c_u;&c_g;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_u;&c_k;&c_n;&c_u;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_z;&c_ib;&c_t;&c_k;&c_n;&c_u;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_u;&c_d;&c_a;&c_r;&c_i;&c_t;&c_i;&c_s;&c_ja; &c_o;&c_d;&c_i;&c_n; &c_o;&c_b; &c_o;&c_d;&c_n;&c_o;&c_g;&c_o;</trd>,
+    <trd>&c_k;&c_l;&c_a;&c_c;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_u;&c_k;&c_o;&c_t;&c_ib;&c_t;&c_i; <klr>(&c_p;&c_r;&c_o; &c_z;&c_u;&c_b;&c_i;)</klr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frap.okul0a">
-  <kap>okul<tld/>a</kap>
+  <kap>okul<tld/>a, <var><kap>okul<tld/>anta</kap></var></kap>
   <uzo tip="stl">FRAZ</uzo>
   <snc mrk="frap.okul0a.KOMUNE">
     <dif>
-      La&ubreve; sia aspekto atentiga, kiun oni nepre rimarkas:
+      La&ubreve; sia aspekto <ref tip="super" cel="kapt.atento0a">atentokapta</ref>, kiun oni nepre
+      rimarkas:
       <ekz>
-        tre malmultaj atentis pri <ctl>Vanessa polychloros</ctl>,
-        iu <klr>...</klr> ne tre okul<tld/>a taga papilio 
+        kiaj gustoplenaj kaj samtempe okul<tld/>antaj ringoj ornamis tiujn dikajn
+        fingrojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        kun silenta admiro <klr>[li]</klr> rigardis la okul<tld/>an vida&jcirc;on
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj estis senbarbaj &ndash; okul<tld/>anta kontrasto kun la &gcirc;enerala kutimo de la
+        lando
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tre malmultaj atentis pri &leftquot;<nom>Vanessa polychloros</nom>&rightquot;,
+        iu <klr>[&#8230;]</klr> ne tre okul<tld/>a taga papilio
         <fnt>
           <aut>P. T. Justesen</aut>,
-          <vrk><url
-          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5702/papiliou.html">
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5702/papiliou.html">
           Papilio</url></vrk>,
           <lok>Malgranda Revuo, 1943</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="rimark.0inda">rimarkinda</ref>,
+       <ref cel="spir.0kapta">spirkapta</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>n&aacute;padn&yacute;</trd>,
     <trd>okat&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>augenf&auml;llig</trd>,
+    <trd>bemerkenswert <klr>(zu sehen)</klr></trd>,
+    <trd>ins <ind>Auge</ind> springen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>eyecatching</trd>,
+    <trd>eyepopping</trd>,
+    <trd>eyegrabbing</trd>
+  </trdgrp>
   <trd lng="es">llamativo</trd>
   <trdgrp lng="fr">
     <trd>flagrant</trd>,
     <trd>voyant</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#30446;&#12434;&#35211;&#24373;&#12427;&#12424;&#12358;&#12394;  [<ind>&#12417;&#12434;&#12415;&#12399;&#12427;&#12424;&#12358;&#12394;</ind>]</trd>,
+    <trd>&#12417;&#12374;&#12414;&#12375;&#12356;</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>krik&lcaron;av&yacute;</trd>,
@@ -520,6 +1062,7 @@
     <trd>okat&yacute;</trd>,
     <trd>zjavn&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&c_ja;&c_k;&c_i;&c_j;/&c_shch;&c_o; &c_v;&c_p;&c_a;&c_d;&c_a;&c_jeu; &c_u; &c_v;&c_ib;&c_ch;&c_ib;</trd>
 </drv>
 
 <drv mrk="frap.orel0a">
@@ -528,7 +1071,29 @@
     <dif>
       Kiun oni rimarkas pro &gcirc;ia aparta, rimarkinda sono:
       <ekz>
-        Espo Despo estas internacia muzikgrupo kiu kreadas kaj 
+        regis stranga silento, ia orel<tld/>a silento, kian oni rimarkas, kiam
+        longeda&ubreve;ra kaj forta bruo subite &ccirc;esas
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum parolado &scirc;ia &leftquot;s&rightquot; iom orel<tld/>e sonas
+        <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk>Ombro sur interna pejza&gcirc;o</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la alilandano super&scirc;utis Anjon per ceremoniaj salutoj kaj emfazaj dankoj,
+        riverencis, forte premis &scirc;ian manon kaj diris kun orel<tld/>a eksterlanda
+        prononco <klr>[&#8230;]</klr>
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Espo Despo</nom> estas internacia muzikgrupo kiu kreadas kaj
         prezentas proprajn ritmajn &ndash; ofte dancigajn kaj
         orel<tld/>ajn kantojn
         <fnt>
@@ -539,42 +1104,96 @@
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="abrupt.0a">abrupta</ref>,
+      <ref cel="drast.0a">drasta</ref>,
+      <ref cel="rimark.0inda">rimarkinda</ref>,
+      <ref cel="sxir.orel0a">orel&scirc;ira</ref>,
+      <ref cel="subit.0a">subita</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>auff&auml;llig <klr>(Klang)</klr></trd>,
+      <trd>bemerkenswert <klr>(Klang)</klr></trd>
+    </trdgrp>
   </snc>
+  <trdgrp lng="en">
+    <trd>arresting<klr> (adj, a sound that makes one notice)</klr></trd>,
+    <trd>catching the ear</trd>,
+    <trd>earcatching</trd>
+  </trdgrp>
   <trd lng="es">pegadizo<klr> (sonido)</klr></trd>
   <trd lng="fr">&eacute;clatant<klr> (son)</klr></trd>
 </drv>
 
+<drv mrk="frap.pied0i">
+  <kap>
+    pied<tld/>i
+  </kap>
+  <snc>
+    <gra><vspec>x</vspec></gra>
+    <dif>
+      <tld/>i per piedo:
+      <ekz>
+        <nom>Ramzes</nom> malpacience pied<tld/>is la teron
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la popolamaso komencis pied<tld/>i kaj kriegi
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Quo Vadis?</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li pied<tld/>is tiel forte sur la plankon, ke la mebloj ekdancis
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne povis sin deteni kaj perforte pied<tld/>is la senkulpan &scirc;tupon, sur kiu li
+        staris
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Unua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tret.0i">treti</ref>,
+      <ref cel="stamf.0i">stamfi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">aufstampfen</trd>
+  <trd lng="en">stamp</trd>
+</drv>
+
 <drv mrk="frap.sun0o">
   <kap>sun<tld/>o</kap>
-  <snc mrk="frap.sun0o.hauxta">
-    <uzo tip="fak">MED</uzo>
-    <dif>
-      Ha&ubreve;ta inflamo ka&ubreve;zita de suna varmego.
-    </dif>
-    <trd lng="de">Sonnenbrand</trd>
-    <trd lng="en">sunburn</trd>
-    <trd lng="es">golpe de calor</trd>
-    <trdgrp lng="fr">
-      <trd>coup de soleil</trd>,
-      <trd>h&eacute;liodermite aigu&euml;</trd>
-    </trdgrp>
-    <trd lng="nl">zonnebrand</trd>
-    <trd lng="pl">pora&zdot;enie s&lstroke;oneczne</trd>
-    <trd lng="ru">&c_s;&c_o;&c_l;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;
-    &c_o;&c_zh;&c_o;&c_g;</trd>
-  </snc>
   <snc mrk="frap.sun0o.cerba">
     <uzo tip="fak">MED</uzo>
     <dif>
-      Cerba <ref tip="lst" cel="san.mal0o.MED"
-      lst="voko:malsanoj">malsano</ref> ka&ubreve;zita de suna varmego.
+      <ref tip="super" cel="kolaps.0o.MED">Kolapso</ref> ka&ubreve;zita de troa
+      korpovarmi&gcirc;o en suna varmego:
+      <ekz>
+        se mi estus la sunradio, tiam mi farus al &ccirc;iu el ili sun<tld/>on, &dash; sed tio
+        farus ilin plej efektive frenezaj, kaj tiaj ili sen tio fari&gcirc;os
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Kuristoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Ivano, &jcirc;us min preska&ubreve; trafis sun<tld/>o, mi e&ccirc; kvaza&ubreve; halucini&gcirc;is
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>.
+      </ekz>
     </dif>
-    <adm>
-      &Ccirc;u vere &leftquot;cerba&rightquot;? La&ubreve; mi temas pri
-      malsaneca
-      stato tu&scirc;anta preska&ubreve; la tutan organismon.
-      <aut>MB</aut>
-    </adm>
     <trd lng="de">Sonnenstich</trd>
     <trd lng="en">sunstroke</trd>
     <trd lng="es">insolaci&oacute;n</trd>
@@ -587,34 +1206,137 @@
     <trd lng="ru">&c_s;&c_o;&c_l;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;
     &c_u;&c_d;&c_a;&c_r;</trd>
   </snc>
+  <snc mrk="frap.sun0o.hauxta">
+    <uzo tip="fak">MED</uzo>
+    <ref tip="dif" cel="brul.sun0umo">sunbrulumo</ref>
+    <trd lng="de">Sonnenbrand</trd>
+    <trd lng="en">sunburn</trd>
+    <trd lng="es">golpe de calor</trd>
+    <trdgrp lng="fr">
+      <trd>coup de soleil</trd>,
+      <trd>h&eacute;liodermite aigu&euml;</trd>
+    </trdgrp>
+    <trd lng="nl">zonnebrand</trd>
+    <trd lng="pl">pora&zdot;enie s&lstroke;oneczne</trd>
+    <trd lng="ru">&c_s;&c_o;&c_l;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;
+    &c_o;&c_zh;&c_o;&c_g;</trd>
+  </snc>
   <trd lng="bg">&c_s;&c_l;&c_malmol;&c_n;&c_ch;&c_je;&c_v; &c_u;&c_d;&c_a;&c_r;</trd>
   <trd lng="cs">sp&aacute;lenina || &uacute;&zcaron;eh</trd>
+  <trd lng="ja">&#26085;&#23556;&#30149;  [<ind>&#12395;&#12387;&#12375;&#12419;&#12403;&#12423;&#12358;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>sp&aacute;lenie poko&zcaron;ky</trd>,
     <trd>&uacute;&zcaron;eh</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&c_o;&c_n;&c_ja;&c_ch;&c_n;&c_i;&c_j; &c_u;&c_d;&c_a;&c_r;</trd>
 </drv>
+
+<drv mrk="frap.vango0o">
+  <kap>
+    vango<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Bato, kutime permana, sur la vango:
+      <ekz>
+        se vi ankora&ubreve; unu fojon vekos min, vi ricevos vango<tld/>on
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Tri oraj haroj de la diablo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi rekompence donis krakantan vango<tld/>on
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Sambuka virineto</lok>
+        </fnt>!
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="vang.sur0o">vangobato, survango</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_o;&c_w;&c_h;&c_a;</trd>,
+    <trd>&c_a;&c_p;&c_l;&c_ja;&c_v;&c_u;&c_h;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_l;&c_je;&c_s;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>flac'had</trd>,
+    <trd>jodad</trd>,
+    <trd>skouarnad</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>galtada</trd>,
+    <trd>bufetada</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ohrfeige</trd>,
+    <trd>Backpfeife</trd>
+  </trdgrp>
+  <trd lng="en">slap on the face</trd>
+  <trd lng="es">bofetada</trd>
+  <trdgrp lng="fa">
+    <trd>&a_s;&f_y;&a_l;&f_y;</trd>,
+    <trd>&f_ch;&a_fatha;&f_k;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>gifle</trd>,
+    <trd>claque<klr tip="ind"> (soufflet)</klr></trd>,
+    <trd>soufflet<klr> (gifle)</klr></trd>,
+    <trd>torgnole</trd>
+  </trdgrp>
+  <trd lng="he">&samekh;&tet;&yod;&resh;&tav; &lamed;&het;&yod;</trd>
+  <trdgrp lng="hu">
+    <trd>pofon</trd>,
+    <trd>arculcsap&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>ceffone</trd>,
+    <trd>sberla</trd>,
+    <trd>schiaffo<klr> (sul viso)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12403;&#12435;&#12383;</trd>,
+    <trd>&#24179;&#25163;&#25171;&#12385;  [<ind>&#12402;&#12425;&#12390;&#12358;&#12385;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>oorveeg</trd>,
+    <trd>kaakslag</trd>
+  </trdgrp>
+  <trd lng="pl">policzek</trd>
+  <trd lng="pt">bofetada</trd>
+  <trd lng="ru">&c_p;&c_o;&c_shch;&c_jo;&c_ch;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sv">&ouml;rfil</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_ja;&c_p;&c_a;&c_s;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_ch;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+</drv>
+
 </art>
 <!--
 $Log$
-Revision 1.32  2017/03/24 09:10:16  revo
-Lyubomir Vasilev: +trd bg
+versio 1.54 2023/09/12 06:27:14
+Wolfram Diestel: +pied~i
 
-Revision 1.31  2016/09/02 16:10:13  revo
-Guillermo Molleda Jimena: trd es
+versio 1.52 2023/05/01 22:26:01
+Robert Baruch: +trd: en
 
-Revision 1.30  2016/09/02 13:10:23  revo
-Guillermo Molleda Jimena: trd es
+versio 1.51 2023/04/24 08:32:28
+Paul Peeraerts: @Sxteloj -> @Monato
 
-Revision 1.29  2016/02/28 23:10:16  revo
-Jeromo Vasxe: + orel~a
+versio 1.50 2023/04/12 07:24:50
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.28  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.49 2023/04/11 14:37:22
+aktualigo Monato-URL
 
-Revision 1.27  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.48 2023/04/08 15:25:19
+Wolfram Diestel: +ref-oj
 
-Revision 1.26  2015/02/24 21:10:18  revo
+versio 1.47 2022/10/15 11:29:27
+Wolfram Diestel: +subsnc SPO
+
+versio 1.46 2022/05/23 20:33:33
 -->
 </vortaro>

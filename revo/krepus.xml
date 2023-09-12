@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: krepus.xml,v 1.15 2010/02/05 17:30:33 revo Exp $">
+<art mrk="$Id: krepus.xml,v 1.31 2023/09/08 08:28:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krepusk</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,10 +12,63 @@
     <uzo tip="fak">KAL</uzo>
     <uzo tip="fak">MET</uzo>
     <dif>
-      Nehela lumo, kiun estigas sunaj radioj resendataj
+      Nehela <ref tip="super" cel="lum.0o.FIZ">lumo</ref>, kiun estigas sunaj radioj resendataj
       de la tera atmosfero post subiro de la suno a&ubreve;
-      anta&ubreve; &gcirc;ia levi&gcirc;o.
+      anta&ubreve; &gcirc;ia levi&gcirc;o:
+      <ekz>
+        ili levi&gcirc;is en <tld/>o, por iri en la tendaron de la Sirianoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 7:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis jam vespera <tld/>o, nuboj kolekti&gcirc;is
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        falis la <tld/>o
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> malgra&ubreve; la <tld/>o, rimarkis la forkurantajn lo&gcirc;antojn
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liaj okuloj alkutimi&gcirc;is al la <tld/>o
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> rapidege malaperis en la duon<tld/>o de la strato
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam li veki&gcirc;is en la posta mateno, la taglumo jam venkis la persistan
+        vintro<tld/>on
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="auxror.0o.KAL">a&ubreve;roro</ref>,
+      <ref cel="lum.duon0o.KOMUNE">duonlumo</ref>
+    </refgrp>
     <trdgrp lng="en">
       <trd>twilight</trd>,
       <trd>dawn <klr>(matenru&gcirc;o)</klr></trd>,
@@ -30,29 +82,46 @@
   <snc mrk="krepus.0o.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Kadukeco, malforteco:
+      Transiro al pli esperiga stato post
+      longa stagnado a&ubreve; malespero:
       <ekz>
-        mia cerbo na&gcirc;as kvaza&ubreve; en <tld/>o.
+        post tiom da suferoj ekru&gcirc;is por la mondo la <tld/>o de la eterna paco
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>Kain kaj Abel</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio &gcirc;ermigas &ccirc;e ni la esperon, <klr>[&#8230;]</klr> kaj ke en vivaj <tld/>oj ili
+        sendube havas &scirc;ancon por admiri magian &gcirc;ojigan supreniron
+        <fnt>
+          <bib>FSI</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="agoni.0o">agonio</ref>,
-      <ref cel="dekade.0o">dekadenco</ref>.
+      <ref cel="auxror.0o.FIG">a&ubreve;roro<sncref/></ref>
     </refgrp>
-    <trd lng="nl">schemering</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_m;&c_r;&c_o;&c_k;</trd>,
     <trd>&c_z;&c_m;&c_r;&c_o;&c_k;&c_ib;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_c;&c_je;&c_m;&c_a;&c_k;</trd>
   </trdgrp>
+  <trd lng="bo">&t_na;&t_ma;&t_tsheg;&t_la;&t_nga;&t_sa;&t_tsheg;</trd>
   <trdgrp lng="cs">
-    <trd>ztráta životních sil</trd>,
-    <trd>zubožení</trd>
+    <trd>ztr&aacute;ta &zcaron;ivotn&iacute;ch sil</trd>,
+    <trd>zubo&zcaron;en&iacute;</trd>
   </trdgrp>
   <trd lng="de">D&auml;mmerung</trd>
   <trd lng="es">crep&uacute;sculo</trd>
   <trd lng="fr">cr&eacute;puscule</trd>
+  <trdgrp lng="ja">
+    <trd>&#34180;&#x660E;&#x308A;  [<ind>&#12358;&#12377;&#12354;&#x304B;&#x308A;</ind>]</trd>,
+    <trd>&#x305F;&#x305D;&#x304C;&#x308C;</trd>,
+    <trd>&#34928;&#12360;  [<ind>&#x304A;&#12392;&#x308D;&#12360;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>zmierzch</trd>,
     <trd>zmrok</trd>,
@@ -61,9 +130,17 @@
   <trd lng="ro">crepuscul</trd>
   <trd lng="ru">&c_s;&c_u;&c_m;&c_je;&c_r;&c_k;&c_i;</trd>
   <trdgrp lng="sk">
-    <trd>brieždenie</trd>,
-    <trd>súmrak</trd>,
-    <trd>šero</trd>
+    <trd>brie&zcaron;denie</trd>,
+    <trd>s&uacute;mrak</trd>,
+    <trd>&scaron;ero</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&c_t;&c_ib;&c_n;&c_k;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_m;&c_je;&c_r;&c_k;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_m;&c_je;&c_r;&c_k;</trd>,
+    <trd>&c_s;&c_m;&c_je;&c_r;&c_k;</trd>,
+    <trd>&c_s;&c_u;&c_t;&c_ib;&c_n;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_u;&c_t;&c_ib;&c_n;&c_mol;</trd>
   </trdgrp>
 </drv>
 
@@ -73,7 +150,24 @@
     <dif>
       Karakterizata per <tld/>o:
       <ekz>
-        <tld/>a lumo.
+        en la <tld/>a mallumo &scirc;i ne povis klare vidi
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la cigno dispelis per la fortaj batoj de siaj flugiloj la <tld/>an nebulon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Cigna nesto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>a &ccirc;ambro ekregis silento
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -82,7 +176,12 @@
     <dif>
       Malluma, malvigla, malgaja:
       <ekz>
-        la <tld/>a periodo de la vivo<fnt>B</fnt>.
+        Pa&ubreve;lo, kontra&ubreve;e, mal&gcirc;oja fra&ubreve;lo, komencis la <tld/>an periodon de la vivo,
+        periodon de beda&ubreve;roj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>VII</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -91,8 +190,8 @@
     <trd>&c_p;&c_r;&c_y;&c_c;&c_je;&c_m;&c_n;&c_y;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>zašeřený</trd>,
-    <trd>šerý</trd>
+    <trd>za&scaron;e&rcaron;en&yacute;</trd>,
+    <trd>&scaron;er&yacute;</trd>
   </trdgrp>
   <trd lng="de">d&auml;mmerig</trd>
   <trd lng="es">crepuscular</trd>
@@ -100,49 +199,134 @@
     <trd>cr&eacute;pusculaire</trd>,
     <trd>cr&eacute;pusculin</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x305F;&#x305D;&#x304C;&#x308C;&#x306E;</trd>,
+    <trd>&#34180;&#x660E;&#x306E;  [<ind>&#x306F;&#x304F;&#12417;&#12356;&#x306E;</ind>]</trd>,
+    <trd>&#34180;&#26263;&#12356;  [<ind>&#12358;&#12377;&#12368;&#12425;&#12356;</ind>]</trd>,
+    <trd/>,
+    <trd>&#34928;&#36864;&#x306E;  [<ind>&#12377;&#12356;&#x305F;&#12356;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>schemerend</trd>,
     <trd>schemerachtig</trd>
   </trdgrp>
   <trd lng="pl">mroczny</trd>
   <trd lng="ru">&c_s;&c_u;&c_m;&c_je;&c_r;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sk">šerý</trd>
+  <trd lng="sk">&scaron;er&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_m;&c_je;&c_r;&c_k;&c_o;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_m;&c_je;&c_r;&c_k;&c_o;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_u;&c_t;&c_ib;&c_n;&c_k;&c_o;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="krepus.0igxi">
-  <kap><tld/>i&gcirc;i</kap>
-  <snc mrk="krepus.0igxi.KAL">
+<drv mrk="krepus.0i">
+  <kap><tld/>i,
+    <var><kap><tld/>i&gcirc;i</kap></var>
+  </kap>
+  <snc mrk="krepus.0i.KAL">
     <dif>
-      &Scirc;an&gcirc;i&gcirc;i en <tld/>on, i&gcirc;i duonhela.
+      Malhele lumi transire de tago al nokto a&ubreve; inverse:
       <ekz>
-        la tago <tld/>i&gcirc;is kaj la <tld/>o densi&gcirc;is en nokton 
-        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
-        fratoj</vrk>, <lok>1947</lok></fnt>.
+        komencis <tld/>i, post unu horo la suno estis levi&gcirc;onta
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vespero komencis <tld/>i
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LXXI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tia humoro <tld/>is la mateno
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sepa &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neordinare frue <tld/>i&gcirc;is kaj la senhomaj stratoj aspektis ankora&ubreve; pli malgajaj
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tago <tld/>i&gcirc;is kaj la <tld/>o densi&gcirc;is en nokton
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
+        fratoj</vrk>, <lok>1947</lok></fnt>;
+      </ekz>
+      <ekz>
+        jam <tld/>is kaj la prujno ekaperis sur la tegmentoj
+        <fnt>
+          <bib>KrM</bib>
+          <lok>7. Belaj Rakontoj El Trans La Montoj.</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="auxror.0i.KAL">a&ubreve;rori</ref>,
+      <ref cel="maten.0igxi">mateni&gcirc;i</ref>,
+      <ref cel="nokt.0igxi">nokti&gcirc;i</ref>
+    </refgrp>
     <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_r;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
-    <trd lng="de">d&auml;mmern</trd>
+    <trdgrp lng="de">
+      <trd>d&auml;mmern</trd>,
+      <trd>anbrechen <klr>(Morgen)</klr></trd>,
+      <trd>hereinbrechen <klr>(Nacht)</klr></trd>
+    </trdgrp>
     <trd lng="nl">beginnen te <ind>schemeren</ind></trd>
     <trd lng="pl">zmierzcha&cacute;</trd>
     <trd lng="ru">&c_s;&c_m;&c_je;&c_r;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </snc>
-  <snc mrk="krepus.0igxi.FIG">
+  <snc mrk="krepus.0i.FIG">
     <dif>
-      Ekkaduki&gcirc;i:
+      Transiri de longa periodo de malespero, de stagnado al pli
+      esperiga stato:
       <ekz>
-        lia spirito <tld/>i&gcirc;as.
+        pli kaj pli ru&gcirc;e ek<tld/>is la espero de la delonge ne gustumita, varma,
+        kolorplena homa vivo
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Oka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post jardekoj da ekonomia stagnado nun malmultekosta fonto de energio <tld/>as
+        kiel la a&ubreve;roro de nova erao
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2013/011023.php">Frakasado igos Usonon
+          energio-sendependa</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="klin.0igxi">klini&gcirc;i</ref>.
+      <ref cel="auxror.0i.FIG">a&ubreve;rori<sncref/></ref>,
+      <ref cel="nask.0igxi.FIG">naski&gcirc;i<sncref/></ref>
     </refgrp>
-    <trd lng="de">in D&auml;mmerung fallen</trd>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a; <klr>(&c_p;&c_a;&c_v;&c_o;&c_l;&c_mol;&c_n;&c_a;)</klr></trd>
+    </trdgrp>
+    <trd lng="de">in <ind>D&auml;mmerung</ind> fallen</trd>
     <trdgrp lng="nl">
       <trd>verzwakken</trd>,
       <trd>tanen</trd>
     </trdgrp>
     <trd lng="ru">&c_k;&c_l;&c_o;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja; &c_k; &c_z;&c_a;&c_k;&c_a;&c_t;&c_u;</trd>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x305F;&#x305D;&#x304C;&#x308C;&#x308B;</trd>,
+    <trd>&#26263;&#x304F;&#x306A;&#x308B;  [<ind>&#x304F;&#12425;&#x304F;&#x306A;&#x308B;</ind>]</trd>,
+    <trd>&#34928;&#12360;&#x306F;&#12376;&#12417;&#x308B;  [<ind>&#x304A;&#12392;&#x308D;&#12360;&#x306F;&#12376;&#12417;&#x308B;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krepus.0igxo">
@@ -151,18 +335,25 @@
     <dif>
       Tempo, kiam esti&gcirc;as <tld/>o:
       <ekz>
-        li <klr>...</klr> ripozis sibarite sur sia lito &gcirc;is la 
+        li <klr>[&#8230;]</klr> ripozis sibarite sur sia lito &gcirc;is la
         <tld/>i&gcirc;o
         <fnt>
           <aut>N. Gogol, trad. A. Kor&jcirc;enkov</aut>,
-          <vrk><url
-          ref="http://www.esperanto-ondo.ru/Libroj/V_bibl07.pdf">
+          <vrk><url ref="&LOdE;Libroj/V_bibl07.pdf">
           Palto</url></vrk>,
           <lok>2011</lok>
-        </fnt>..
+        </fnt>;
+      </ekz>
+      <ekz>
+        jam &ccirc;e la <tld/>i&gcirc;o neniu estas surstrate, &ccirc;iuj enfermas sin en siaj hejmoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2004, &#8470; 1 (111)</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_r;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="fr">cr&eacute;puscule</trd>
 </drv>
 
@@ -170,7 +361,7 @@
   <kap>el<tld/>i&gcirc;i</kap>
   <snc mrk="krepus.el0igxi.KAL">
     <dif>
-      Proksimi&gcirc;i, veni, pp tago.
+      Eli&gcirc;i el <tld/>o.
     </dif>
     <trdgrp lng="be">
       <trd>&c_d;&c_n;&c_je;&c_c;&c_mol;</trd>,
@@ -185,9 +376,13 @@
   <snc mrk="krepus.el0igxi.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Klari&gcirc;i, naski&gcirc;i:
+      Klari&gcirc;i, <ref cel="nask.0igxi.FIG">naski&gcirc;i</ref>:
       <ekz>
-        grandaj ideoj el<tld/>i&gcirc;as en mia animo<fnt>Z</fnt>.
+        grandaj ideoj el<tld/>i&gcirc;as en mia animo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -197,39 +392,48 @@
     </trdgrp>
       <trd lng="nl">ontspruiten</trd>
   </snc>
-  <trd lng="de">licht werden</trd>
+  <trd lng="de"><ind>licht</ind> werden</trd>
+  <trdgrp lng="ja">
+    <trd>&#x591C;&#x304C;&#12354;&#12369;&#x308B;  [<ind>&#12424;&#x304C;&#12354;&#12369;&#x308B;</ind>]</trd>,
+    <trd>&#x76EE;&#x899A;&#12417;&#x308B;  [<ind>&#12417;&#12374;&#12417;&#x308B;</ind>]</trd>,
+    <trd>&#x82BD;&#12400;&#12360;&#x308B;  [<ind>&#12417;&#12400;&#12360;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_ja;&c_s;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_s;&c_v;&c_je;&c_t;&c_l;&c_je;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_v;&c_i;&c_d;&c_n;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_d;&c_n;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_v;&c_ib;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.19  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.31 2023/09/08 08:28:26
+Dmitri Gabinski: + trd be
 
-Revision 1.18  2015/04/20 06:10:17  revo
-Alain Gerard: +trd (fr)
+versio 1.29 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
 
-Revision 1.17  2014/08/15 08:10:15  revo
-Carlos Garcia: +trd es -o -a
+versio 1.28 2023/04/11 16:10:37
+aktualigo Monato-URL
 
-Revision 1.16  2014/08/09 01:10:10  revo
-Jeromo Vasxe: + ~igxo
+versio 1.27 2022/08/22 14:28:42
+Wolfram Diestel: +kor. snc-mrk
 
-Revision 1.15  2010/02/05 17:30:33  revo
-Orlando de Oliveira: +trd fr
+versio 1.26 2022/08/19 16:46:05
+Wolfram Diestel: kor. snc-mrk
 
-Revision 1.14  2009/09/13 16:57:23  revo
-Paul Peeraerts: +nl
+versio 1.25 2022/08/18 16:52:55
+Wolfram Diestel: ~(i&gcirc;)o, ~a: +ekz-oj, ref, redif. snc FIG
 
-Revision 1.13  2006/11/02 17:31:30  revo
-Tulio Flores: +tr pt
+versio 1.24 2022/08/18 06:37:43
+Wolfram Diestel: +~i
 
-Revision 1.12  2006/03/01 17:32:38  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.11  2005/07/07 16:32:53  revo
+versio 1.23 2022/07/16 15:28:58
 -->
 </vortaro>

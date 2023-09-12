@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: facet.xml,v 1.16 2010/06/17 16:30:34 revo Exp $">
+<art mrk="$Id: facet.xml,v 1.24 2023/08/31 13:11:26 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>facet</rad>/o
@@ -42,6 +41,12 @@
     <trd>lap<klr tip="ind"> (dr&aacute;gak&odblac;)</klr></trd>,
     <trd>faszetta</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5207;&#x308A;&#x5B50;&#x9762;  [<ind>&#x304D;&#x308A;&#x3053;&#x304A;&#x3082;&#x3066;</ind>]</trd>,
+    <trd>&#x5C0F;&#x9762;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3093;</ind>]</trd>,
+    <trd>&#x5C40;&#x9762;  [<ind>&#x304D;&#x3087;&#x304F;&#x3081;&#x3093;</ind>]</trd>,
+    <trd>&#x69D8;&#x76F8;  [<ind>&#x3088;&#x3046;&#x305D;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">facet<klr tip="ind"> (v.edelsteen)</klr></trd>
   <trdgrp lng="pl">
     <trd>faseta</trd>,
@@ -52,7 +57,16 @@
     <trd>&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>,
     <trd>&c_f;&c_a;&c_s;&c_je;&c_t;</trd>
   </trdgrp>
-  <trd lng="sk">drobná plôška na oku hmyzu</trd>
+  <trd lng="sk">drobn&aacute; pl&ocirc;&scaron;ka na oku hmyzu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_k;&c_a;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_je;&c_t;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_je;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_je; &c_v;&c_ib;&c_ch;&c_k;&c_o;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_t;&c_i;&c_n;&c_a; &c_s;&c_k;&c_l;&c_a;&c_d;&c_n;&c_o;&c_g;&c_o; &c_o;&c_k;&c_a;
+    &c_k;&c_o;&c_m;&c_a;&c_h;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="facet.0i">
@@ -66,9 +80,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_r;&c_a;&c_n;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="ca">facetar</trd>
-  <trd lng="cs">brousit plošky <klr>(na drahém kameni| sklu| diamantu)</klr></trd>
+  <trd lng="cs">brousit plo&scaron;ky <klr>(na drah&eacute;m kameni| sklu| diamantu)</klr></trd>
   <trd lng="de">schleifen</trd>
+  <trdgrp lng="en">
+    <trd>facet</trd>,
+    <trd>cut a facet into<klr> (e.g. a gemstone)</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>hacer facetas</trd>,
     <trd>tallar<klr tip="amb"> (una joya)</klr></trd>
@@ -81,12 +100,14 @@
     <trd>csiszol<klr tip="ind"> (dr&aacute;gak&odblac;vet)</klr></trd>,
     <trd>metsz<klr tip="ind"> (dr&aacute;gak&odblac;vet)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x5207;&#x308A;&#x5B50;&#x9762;&#x3092;&#x523B;&#x3080;  [<ind>&#x304D;&#x308A;&#x3053;&#x304A;&#x3082;&#x3066;&#x3092;&#x304D;&#x3056;&#x3080;</ind>]</trd>
   <trd lng="nl">slijpen<klr tip="ind"> (v.diamant)</klr></trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
-    <trd>brúsiť <klr>(sklo, diamant)</klr></trd>,
-    <trd>brúsiť <klr>(sklo| diamant)</klr></trd>
+    <trd>br&uacute;si&tcaron; <klr>(sklo, diamant)</klr></trd>,
+    <trd>br&uacute;si&tcaron; <klr>(sklo| diamant)</klr></trd>
   </trdgrp>
+  <trd lng="uk">&c_g;&c_r;&c_a;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="facet.mult0a">
@@ -100,25 +121,50 @@
         <fnt>
         <aut>W. Ruck</aut>,
         <vrk>Reagoj</vrk>,
-        <lok><url
-        ref="http://www.eventoj.hu/arkivo/eve-041.htm">Eventoj,
+        <lok><url ref="http://www.eventoj.hu/arkivo/eve-041.htm">Eventoj,
         1993-09, numero 41a</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_n;&c_a;&c_g;&c_a;&c_g;&c_r;&c_a;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_n;&c_a;&c_g;&c_a;&c_g;&c_r;&c_a;&c_n;&c_je;&c_v;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>polifac&egrave;tic</trd>,
     <trd>divers</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>vielseitig</trd>,
+    <trd>vielf&auml;ltig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>multifaceted</trd>,
+    <trd>versatile</trd>,
+    <trd>variegated</trd>,
+    <trd>diverse</trd>,
+    <trd>manifold</trd>,
+    <trd>multifarious</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>divers<klr> (vari&eacute;)</klr></trd>,
     <trd>multiple et vari&eacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x591A;&#x5F69;&#x306A;  [<ind>&#x305F;&#x3055;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x591A;&#x69D8;&#x306A;  [<ind>&#x305F;&#x3088;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/05/21 12:38:50
+Christian Siefkes: +trd de, en
+
+versio 1.22 2023/05/16 12:48:46
+Dmitri Gabinski: + trd be
+
 Revision 1.19  2015/06/29 16:39:29  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -135,17 +181,5 @@ Revision 1.15  2010/04/09 16:31:54  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.14  2006/05/01 18:12:09  revo
-Tulio Flores: +tr pt
-
-Revision 1.13  2006/04/17 16:34:03  revo
-Jeromo Vasxe: + mult~a
-
-Revision 1.12 2004/07/25 21:01:15 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11 2003/09/17 16:31:27 revo
-Yury Finkel: kor mrk
-
-Revision 1.10 2003/09/12 16:32:07 revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dekora.xml,v 1.14 2009/06/03 16:30:32 revo Exp $">
+<art mrk="$Id: dekora.xml,v 1.26 2023/08/31 10:43:58 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>dekoraci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -11,11 +10,14 @@
   <kap><tld/>o</kap>
   <snc mrk="dekora.0o.ornamajxo">
     <dif>
-      Objekta a&ubreve; grafika <ref tip="super"
-      cel="ornam.0ajxo">ornama&jcirc;o</ref>
+      <ref tip="super" cel="ornam.0ajxo">Ornama&jcirc;o</ref> a&ubreve; artisma aran&gcirc;o
       de &ccirc;ambro, domo, &gcirc;ardeno, urbo:
       <ekz>
-        nia standardo estas <tld/>o por niaj kongresoj<fnt>Z</fnt>.
+        nia standardo estas <klr>[&#x2026;]</klr> <tld/>o por niaj kongresoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <lok>Cambridge, 1907</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -53,10 +55,20 @@
     </trdgrp>
   </snc>
   <snc mrk="dekora.0o.TEA">
+    <uzo tip="fak">KIN</uzo>
     <uzo tip="fak">TEA</uzo>
     <dif>
-      Pentritaj toloj prezentantaj vida&jcirc;on de la loko, kie okazas
-      teatra sceno.
+      Pentritaj toloj a&ubreve; aliaj aran&gcirc;oj prezentantaj vida&jcirc;on de la loko,
+      kie okazas teatra a&ubreve; kina sceno:
+      <ekz>
+        sceneja <tld/>o
+        <fnt>
+          <aut>E. About, trad. G. Moch</aut>
+          <vrk><url ref="&Gutenberg;files/65835/65835-0.txt">La Re&gcirc;o de la
+          Montoj</url></vrk>
+          <lok>1909</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="be">&c_d;&c_e;&c_k;&c_a;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
     <trd lng="ca">decorat</trd>
@@ -78,6 +90,7 @@
   <snc mrk="dekora.0o.ordeninsigno">
     <fnt>B</fnt>
     <ref tip="dif" cel="orden.0o.insigno">ordeno</ref>
+    <trd lng="be">&c_o;&c_r;&c_d;&c_e;&c_n;</trd>
     <trd lng="ca">condecoraci&oacute;</trd>
     <trdgrp lng="fr">
       <trd>d&eacute;coration<klr tip="ind"> (insigne)</klr></trd>,
@@ -91,7 +104,20 @@
     <trd>ozdoba</trd>,
     <trd>v&yacute;zdoba</trd>
   </trdgrp>
+  <trd lng="he">&tav;&#x5B7;&pe;&alef;&vav;&#x5BC;&resh;&#x5B8;&he;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x88C5;&#x98FE;  [<ind>&#x305D;&#x3046;&#x3057;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x98FE;&#x308A;&#x4ED8;&#x3051;  [<ind>&#x304B;&#x3056;&#x308A;&#x3064;&#x3051;</ind>]</trd>,
+    <trd>&#x821E;&#x53F0;&#x88C5;&#x7F6E;  [<ind>&#x3076;&#x305F;&#x3044;&#x305D;&#x3046;&#x3061;</ind>]</trd>,
+    <trd>&#x80CC;&#x666F;  [<ind>&#x306F;&#x3044;&#x3051;&#x3044;</ind>]</trd>,
+    <trd>&#x66F8;&#x5272;  [<ind>&#x304B;&#x304D;&#x308F;&#x308A;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">ozdoba</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_i;&#x43A;&c_r;&c_a;&c_s;&c_a;</trd>,
+    <trd>&c_h;&c_u;&c_d;&#x43E;&c_zh;&#x43D;&c_jeu; &#x43E;&c_f;&#x43E;&c_r;&#x43C;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_d;&c_je;&#x43A;&#x43E;&c_r;&c_a;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dekora.0i">
@@ -133,16 +159,22 @@
     <trd>orner</trd>,
     <trd>parer<klr tip="ind"> (orner)</klr></trd>
   </trdgrp>
+  <trd lng="he">&lamed;&qof;&shin;&tet;</trd>
   <trdgrp lng="hu">
     <trd>feld&iacute;sz&iacute;t</trd>,
     <trd>dekor&aacute;l</trd>
   </trdgrp>
+  <trd lng="ja">&#x88C5;&#x98FE;&#x3059;&#x308B;  [<ind>&#x305D;&#x3046;&#x3057;&#x3087;&#x304F;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="pl">dekorowa&cacute;</trd>
   <trd lng="ru">&c_d;&c_je;&c_k;&c_o;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>dekorova&tcaron;</trd>,
     <trd>ozdobova&tcaron;</trd>,
     <trd>vyzdobi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_je;&#x43A;&#x43E;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_h;&c_u;&c_d;&#x43E;&c_zh;&#x43D;&#x44C;&#x43E; &#x43E;&c_f;&#x43E;&c_r;&#x43C;&#x43B;&#x44F;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -154,7 +186,7 @@
       Profesiulo, kiu planas la aran&gcirc;on de spacoj,
       tega&jcirc;oj, farboj kaj beliga&jcirc;oj en domo:
       <ekz>
-        la anglaj <tld/>istoj <klr>...</klr> dekretas,
+        la anglaj <tld/>istoj <klr>[&#x2026;]</klr> dekretas,
         ke &ccirc;ambro estas bela nur kondi&ccirc;e, ke &gcirc;i enhavu nur a&jcirc;ojn
         al ni utilajn
         <fnt>
@@ -164,17 +196,36 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="cs">
+      <trd>aran&zcaron;&eacute;r</trd>,
+      <trd>dekorat&eacute;r</trd>
+    </trdgrp>
     <trd lng="fr">architecte d'int&eacute;rieur</trd>
+    <trd lng="he">&mem;&#x5B0;&ayin;&#x5B7;&tsadi;&#x5B5;&bet;</trd>
+    <trd lng="sk">aran&zcaron;&eacute;r</trd>
   </snc>
-  <trdgrp lng="cs">
-    <trd>aran&zcaron;&eacute;r</trd>,
-    <trd>dekorat&eacute;r</trd>
+  <trd lng="be">&c_d;&c_e;&c_k;&c_a;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5BA4;&#x5185;&#x88C5;&#x98FE;&#x5BB6;  [<ind>&#x3057;&#x3064;&#x306A;&#x3044;&#x305D;&#x3046;&#x3057;&#x3087;&#x304F;&#x304B;</ind>]</trd>,
+    <trd>&#x30A4;&#x30F3;&#x30C6;&#x30EA;&#x30A2;&#x30C7;&#x30B6;&#x30A4;&#x30CA;&#x30FC;</trd>,
+    <trd>&#x80CC;&#x666F;&#x753B;&#x5BB6;  [<ind>&#x306F;&#x3044;&#x3051;&#x3044;&#x304C;&#x304B;</ind>]</trd>
   </trdgrp>
-  <trd lng="sk">aran&zcaron;&eacute;r</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/06/13 13:30:05
+Dmitri Gabinski: + trd be
+
+versio 1.24 2022/04/26 17:11:47
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2022/04/08 06:36:58
+Dmitri Gabinski: + trd be
+
+versio 1.21 2021/11/16 23:28:43
+Jeromo Vasxe: ~o + ekz
+
 Revision 1.18  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -185,14 +236,5 @@ Revision 1.16  2015/05/06 22:10:20  revo
 Jeromo Vasxe: + ~isto arki
 
 Revision 1.15  2012/09/04 09:10:19  revo
-Marc Rausell: + trd ca
-
-Revision 1.14  2009/06/03 16:30:32  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.13  2009/06/01 16:30:45  revo
-Russ Williams: +trd en
-
-Revision 1.12  2007/07/19 16:31:21  revo
 -->
 </vortaro>

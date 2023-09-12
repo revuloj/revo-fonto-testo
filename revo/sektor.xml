@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sektor.xml,v 1.25 2023/09/03 18:39:28 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>sektor</rad>/o
@@ -31,7 +30,8 @@
       </ekz>
     </dif>
     <trd lng="en">sector</trd>
-    <trd lng="hu">szektor</trd>    
+    <trd lng="hu">szektor</trd>
+    <trd lng="pl">sektor</trd>
   </snc>
   <snc mrk="sektor.0o.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -91,22 +91,35 @@
   <trd lng="ca">sector</trd>
   <trdgrp lng="cs">
     <trd>sektor</trd>,
-    <trd>úsek</trd>
+    <trd>&#xFA;sek</trd>
   </trdgrp>
   <trd lng="de">Sektor</trd>
   <trd lng="es">sector</trd>
   <trd lng="fr">secteur</trd>
   <trd lng="it">settore</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6247;&#x5F62;  [<ind>&#x304A;&#x3046;&#x304E;&#x304C;&#x305F;</ind>]</trd>,
+    <trd>&#x9632;&#x885B;&#x533A;&#x57DF;  [<ind>&#x307C;&#x3046;&#x3048;&#x3044;&#x304F;&#x3044;&#x304D;</ind>]</trd>,
+    <trd>&#x90E8;&#x9580;  [<ind>&#x3076;&#x3082;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">sector</trd>
   <trd lng="ru">&c_s;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
   <trdgrp lng="sk">
     <trd>sektor</trd>,
-    <trd>úsek</trd>
+    <trd>&#xFA;sek</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_je;&#x43A;&c_t;&#x43E;&c_r;</trd>,
+    <trd>&#x43E;&#x43A;&c_r;&c_u;&c_g;</trd>,
+    <trd>&c_d;&c_ib;&#x43B;&#x44F;&#x43D;&#x43A;&c_a;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/08/03 21:23:33
+Vito Redsky: +trd pl 
+
 Revision 1.21  2015/06/29 16:33:23  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -126,11 +139,5 @@ Revision 1.16  2004/10/05 16:58:29  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.15  2003/03/23 17:33:50  revo
-Marc Bavant: ~o MAT: +trd pl
-
-Revision 1.14  2003/01/13 17:34:34  revo
-Marc Bavant: ~o (cirklo): +trd en/ru
-Revision 1.13  2003/01/02 17:51:05  revo
-Marc Bavant: +trd pl
 -->
 </vortaro>

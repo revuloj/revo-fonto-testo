@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cxiom.xml,v 1.17 2009/07/08 16:31:02 revo Exp $">
+<art mrk="$Id: cxiom.xml,v 1.27 2023/08/31 10:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>7</ofc>
   <rad>&ccirc;iom</rad> <fnt> <bib>PV</bib></fnt>
@@ -18,8 +17,7 @@
         <klr>(<ref tip="sin" cel="avid.0a">avida</ref>)</klr>
         <fnt>
           <aut>Dolchamar</aut>
-          <vrk><url ref="https://lyricstranslate.com/en/dolchamar-la-fariseo-lyrics.html"
-              >La Fariseo</url></vrk>
+          <vrk><url ref="https://lyricstranslate.com/en/dolchamar-la-fariseo-lyrics.html">La Fariseo</url></vrk>
         </fnt>;
         <trd lng="de">reichst du ihm den kleinen Finger, nimmt er die ganze Hand</trd>
       </ekz>
@@ -27,18 +25,16 @@
         <tld/> li prenis;
       </ekz>
       <ekz>
-        la Budho <klr>[&#8230;]</klr>, kiu vivis anta&ubreve; pli ol 2&#8239;500 jaroj kaj kiu elpurigis
+        la Budho <klr>[&#x2026;]</klr>, kiu vivis anta&ubreve; pli ol 2&#x202F;500 jaroj kaj kiu elpurigis
         sian menson de &ccirc;iuj korupta&jcirc;oj kaj kreskigis en &gcirc;i <tld/> da &gcirc;ia potenco
         <fnt>
-          <vrk><url ref="http://www.budhana.org/Artikoloj/LaBudho.html"
-              >La Budho</url></vrk>
+          <vrk><url ref="http://www.budhana.org/Artikoloj/LaBudho.html">La Budho</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        <tld/> el la detiamaj krimoj <klr>[&#8230;]</klr> rekte devenas el &ccirc;i tiu pramaljusteco
+        <tld/> el la detiamaj krimoj <klr>[&#x2026;]</klr> rekte devenas el &ccirc;i tiu pramaljusteco
         <fnt>
-          <vrk><url ref="http://www.pacujo.net/esperanto/politiko/palestino/enkonduko.html"
-              >La origino de la konflikto inter Israelo kaj Palestino</url></vrk>
+          <vrk><url ref="http://www.pacujo.net/esperanto/politiko/palestino/enkonduko.html">La origino de la konflikto inter Israelo kaj Palestino</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -65,6 +61,10 @@
     <trd>tutto</trd>,
     <trd>tutto<klr> quanto</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5168;&#x90E8;  [<ind>&#x305C;&#x3093;&#x3076;</ind>]</trd>,
+    <trd>&#x3059;&#x3063;&#x304B;&#x308A;</trd>
+  </trdgrp>
   <trd lng="nl">de hele <ind>hoeveelheid</ind></trd>
   <trd lng="no">alt sammen</trd>
   <trdgrp lng="pl">
@@ -80,6 +80,7 @@
   <trd lng="ru">&c_v;&c_s;&c_jo; <klr>(&c_o; &c_k;&c_o;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_je;)</klr></trd>
   <trd lng="sk">v&scaron;etko <klr>(&ccaron;&iacute;slovka)</klr></trd>
   <trd lng="sv">alltsammans</trd>
+  <trd lng="uk">&#x432;&#x435;&#x441;&#x44C;</trd>
 </drv>
 
 <drv mrk="cxiom.0a">
@@ -94,15 +95,13 @@
       <ekz>
         je <tld/>a kosto
         <fnt>
-          <vrk><url ref="https://mojose.wordpress.com/2010/03/13/fanaj-filmoj-por-senpaciencaj-hobitoj/"
-              >Fanaj Filmoj Por Senpaciencaj Hobitoj</url></vrk>
+          <vrk><url ref="https://mojose.wordpress.com/2010/03/13/fanaj-filmoj-por-senpaciencaj-hobitoj/">Fanaj Filmoj Por Senpaciencaj Hobitoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         la <tld/>a kvanto estos pagenda kiam okazos la liverado
         <fnt>
-          <vrk><url ref="https://glosbe.com/en/eo/total"
-              >Glosbe</url></vrk>
+          <vrk><url ref="https://glosbe.com/en/eo/total">Glosbe</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -122,6 +121,10 @@
     <trd>teljes</trd>,
     <trd>&ouml;sszes</trd>,
     <trd>tot&aacute;lis</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5168;&#x90E8;&#x306E;  [<ind>&#x305C;&#x3093;&#x3076;&#x306E;</ind>]</trd>,
+    <trd>&#x3042;&#x308A;&#x3063;&#x305F;&#x3051;&#x306E;</trd>
   </trdgrp>
   <trd lng="nl">geheel<klr tip="ind"> (hoeveelheid)</klr></trd>
   <trd lng="no">hele<klr tip="ind"> (mengde)</klr></trd>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: parlam.xml,v 1.22 2023/09/03 12:45:04 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>parlament</rad>/o <fnt><bib>PV</bib></fnt>
@@ -20,13 +19,14 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_p;&c_a;&c_r;&c_l;&c_ja;&c_m;&c_e;&c_n;&c_t;</trd>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_l;&c_ja;&c_m;&c_e;&c_n;&c_t; <klr>(&c_v;&c_o;&c_r;&c_g;&c_a;&c_n;)</klr></trd>
   <trd lng="bg">&c_p;&c_a;&c_r;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trd lng="bo">&#xF62;&#xF92;&#xFB1;&#xF63;&#xF0B;&#xF61;&#xF7C;&#xF44;&#xF66;&#xF0B;&#xF42;&#xFB2;&#xF7C;&#xF66;&#xF0B;&#xF5A;&#xF7C;&#xF42;&#xF66;&#xF0B;</trd>
   <trdgrp lng="cs">
-    <trd>Národní shromáždění</trd>,
+    <trd>N&aacute;rodn&iacute; shrom&aacute;&zcaron;d&ecaron;n&iacute;</trd>,
     <trd>parlament</trd>,
-    <trd>sněm</trd>,
-    <trd>sněmovna</trd>
+    <trd>sn&ecaron;m</trd>,
+    <trd>sn&ecaron;movna</trd>
   </trdgrp>
   <trd lng="de">Parlament</trd>
   <trd lng="en">parliament</trd>
@@ -34,13 +34,20 @@
   <trd lng="fr">parlement</trd>
   <trd lng="hu">parlament</trd>
   <trd lng="it">parlamento</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8B70;&#x4F1A;  [<ind>&#x304E;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x56FD;&#x4F1A;  [<ind>&#x3053;&#x3063;&#x304B;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">parlement</trd>
+  <trd lng="pl">parlament</trd>
   <trd lng="pt">parlamento</trd>
+  <trd lng="ro">parlament</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>parlament</trd>,
-    <trd>snemovňa</trd>
+    <trd>snemov&ncaron;a</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_a;&c_r;&#x43B;&c_a;&#x43C;&c_je;&#x43D;&c_t;</trd>
 </drv>
 
 <drv mrk="parlam.0ano">
@@ -61,7 +68,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_l;&c_ja;&c_m;&c_e;&c_n;&c_t;&c_a;&c_r;&c_y;&c_j;</trd>
   <trd lng="fr">parlementaire<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8B70;&#x54E1;  [<ind>&#x304E;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x56FD;&#x4F1A;&#x8B70;&#x54E1;  [<ind>&#x3053;&#x3063;&#x304B;&#x3044;&#x304E;&#x3044;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">parlamentarzysta</trd>
+  <trd lng="ro">parlamentar</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&#x43B;&c_je;&#x43D; &#x43F;&c_a;&c_r;&#x43B;&c_a;&#x43C;&c_je;&#x43D;&c_t;&c_u;</trd>,
+    <trd>&#x43F;&c_a;&c_r;&#x43B;&c_a;&#x43C;&c_je;&#x43D;&c_t;&c_a;&c_r;&c_ib;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parlam.0ejo">
@@ -80,15 +98,23 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_l;&c_ja;&c_m;&c_e;&c_n;&c_t; <klr>(&c_m;&c_je;&c_s;&c_c;&c_a; &c_p;&c_a;&c_s;&c_je;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_w;)</klr></trd>
   <trdgrp lng="cs">
     <trd>parlament <klr>(budova)</klr></trd>,
-    <trd>sněmovna</trd>
+    <trd>sn&ecaron;movna</trd>
   </trdgrp>
   <trd lng="fr">parlement<klr> (b&acirc;timent)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8B70;&#x4E8B;&#x5802;  [<ind>&#x304E;&#x3058;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x56FD;&#x4F1A;&#x8B70;&#x4E8B;&#x5802;  [<ind>&#x3053;&#x3063;&#x304B;&#x3044;&#x304E;&#x3058;&#x3069;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">parlament  <klr>(dom)</klr></trd>
+  <trd lng="ro">parlament  <klr>(casa)</klr></trd>
   <trdgrp lng="sk">
     <trd>parlament</trd>,
-    <trd>snemovňa</trd>
+    <trd>snemov&ncaron;a</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_a;&c_r;&#x43B;&c_a;&#x43C;&c_je;&#x43D;&c_t; (&c_b;&c_u;&c_d;&c_ib;&c_v;&#x43B;&#x44F;)</trd>
 </drv>
 
 <drv mrk="parlam.0ismo">
@@ -105,21 +131,35 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_l;&c_ja;&c_m;&c_e;&c_n;&c_t;&c_a;&c_r;&c_y;&c_z;&c_m;</trd>
   <trdgrp lng="cs">
-    <trd>parlamentní systém</trd>,
-    <trd>parlamentní zřízení</trd>
+    <trd>parlamentn&iacute; syst&eacute;m</trd>,
+    <trd>parlamentn&iacute; z&rcaron;&iacute;zen&iacute;</trd>
   </trdgrp>
   <trd lng="de">Parlamentarismus</trd>
   <trd lng="fa">&f_p;&a_A;&a_r;&a_l;&a_m;&a_A;&a_n;&a_t;&a_A;&a_r;&f_y;&a_s;&a_m;</trd>
   <trd lng="fr">parlementarisme</trd>
   <trd lng="hu">parlamentarizmus</trd>
   <trd lng="it">parlamentarismo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8B70;&#x4F1A;&#x653F;&#x6CBB;  [<ind>&#x304E;&#x304B;&#x3044;&#x305B;&#x3044;&#x3058;</ind>]</trd>,
+    <trd>&#x8B70;&#x4F1A;&#x5236;&#x5EA6;  [<ind>&#x304E;&#x304B;&#x3044;&#x305B;&#x3044;&#x3069;</ind>]</trd>,
+    <trd>&#x8B70;&#x4F1A;&#x4E3B;&#x7FA9;  [<ind>&#x304E;&#x304B;&#x3044;&#x3057;&#x3085;&#x304E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">parlementarisme</trd>
+  <trd lng="pl">parlamentaryzm</trd>
+  <trd lng="ro">parlamentarism</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_i;&c_z;&c_m;</trd>
-  <trd lng="sk">parlamentný systém</trd>
+  <trd lng="sk">parlamentn&yacute; syst&eacute;m</trd>
+  <trd lng="uk">&#x43F;&c_a;&c_r;&#x43B;&c_a;&#x43C;&c_je;&#x43D;&c_t;&c_a;&c_r;&c_i;&c_z;&#x43C;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.21 2022/06/28 22:33:14
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.18 2021/04/19 07:02:23
+Dmitri Gabinski: +trd be
+
 Revision 1.16  2015/06/29 16:40:17  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -136,14 +176,5 @@ Revision 1.12  2010/04/24 17:06:30  revo
 Wieland Pusch: +trd bg
 
 Revision 1.11  2010/04/21 16:30:31  revo
-Fabio Bettani: +trd en it
-
-Revision 1.10  2006/02/25 17:32:04  revo
-Tulio Flores: +trd pt
-
-Revision 1.9  2003/07/17 16:32:52  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/12/12 17:30:49  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bastar.xml,v 1.17 2009/08/27 16:33:45 revo Exp $">
+<art mrk="$Id: bastar.xml,v 1.23 2023/08/31 08:48:49 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>bastard</rad>/o
@@ -10,11 +9,33 @@
 <drv mrk="bastar.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">GEN</uzo>
-  <snc>
+  <uzo tip="stl">ARK</uzo>
+  <snc mrk="bastar.0o.infano">
     <dif>
-      Infano naskita ekster la&ubreve;le&gcirc;a edzeco:
+      <ref tip="super" cel="infan.0o.GEN">Infano</ref> naskita ekster la&ubreve;le&gcirc;a edzeco:
       <ekz>
-        <uzo tip="stl">FIG</uzo><tld/>inoj<klr>...</klr>! Vin tondro kaj
+        silente min sekvu, <tld/>o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        vi estas <tld/>oj, kaj ne filoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Hebreoj 12:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pereu liaj infanoj kaj plenigu lian domon <tld/>oj, kiuj kra&ccirc;os sur lin kaj lin
+        elpelos
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo><tld/>inoj<klr>[&#x2026;]</klr>! vin tondro kaj
         fulmo frapu
         <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 59a, p.
         298a</lok></fnt>!
@@ -23,7 +44,7 @@
   </snc>
   <trdgrp lng="cs">
     <trd>bastard</trd>,
-    <trd>levoboček</trd>,
+    <trd>levobo&ccaron;ek</trd>,
     <trd>panchart</trd>,
     <trd>parchant</trd>
   </trdgrp>
@@ -39,6 +60,11 @@
   <trdgrp lng="hu">
     <trd>fatty&uacute;</trd>,
     <trd>t&ouml;rv&eacute;nytelen gyermek</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5AE1;&#x51FA;&#x3067;&#x306A;&#x3044;&#x5B50;  [<ind>&#x3061;&#x3083;&#x304F;&#x3057;&#x3085;&#x3064;&#x3067;&#x306A;&#x3044;&#x3053;</ind>]</trd>,
+    <trd>&#x5EB6;&#x5B50;  [<ind>&#x3057;&#x3087;&#x3057;</ind>]</trd>,
+    <trd>&#x79C1;&#x751F;&#x5B50;  [<ind>&#x3057;&#x305B;&#x3044;&#x3057;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>b&eogonek;kart<klr> (obra&zacute;l.)</klr></trd>,
@@ -56,22 +82,36 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>bastard</trd>,
-    <trd>nemanželské dieťa</trd>
+    <trd>neman&zcaron;elsk&eacute; die&tcaron;a</trd>
   </trdgrp>
   <trd lng="tr">pi&ccedil;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x430;&#x439;&#x441;&#x442;&#x440;&#x44E;&#x43A;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x431;&#x430;&#x442;&#x447;&#x435;&#x43D;&#x43A;&#x43E;</trd>,
+    <trd>&#x43D;&#x435;&#x448;&#x43B;&#x44E;&#x431;&#x43D;&#x430; &#x434;&#x438;&#x442;&#x438;&#x43D;&#x430;</trd>,
+    <trd>&#x441;&#x445;&#x440;&#x435;&#x449;&#x435;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43F;&#x43E;&#x43C;&#x456;&#x441;&#x44C;</trd>,
+    <trd>&#x433;&#x456;&#x431;&#x440;&#x438;&#x434;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bastar.0eco">
   <kap><tld/>eco</kap>
   <uzo tip="fak">GEN</uzo>
-  <snc>
+  <snc mrk="bastar.0eco.stato">
     <dif>
-      Stato de <tld/>o.
+      Stato de <tld/>o:
+      <ekz>
+        &ccirc;u vere la puno de la <tld/>eco estas morto
+        <fnt>
+          <vrk><url ref="http://verkoj.com/verkistoj/marianne-pierquin-kaj-said-balucimarianne-pierquin/mamurzo/">Mamurzo - Verkoj</url></vrk>
+        </fnt>?
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>bastardství</trd>,
-    <trd>nepodařenost</trd>
+    <trd>bastardstv&iacute;</trd>,
+    <trd>nepoda&rcaron;enost</trd>
   </trdgrp>
   <trdgrp lng="de">
      <trd>uneheliche Kindschaft</trd>
@@ -79,13 +119,19 @@
   <trd lng="es">bastard&iacute;a</trd>
   <trd lng="fr">b&acirc;tardise</trd>
   <trd lng="he">&mem;&mem;&zayin;&resh;&vav;&tav;</trd>
-  <trd
-  lng="ru">&c_n;&c_je;&c_z;&c_a;&c_k;&c_o;&c_n;&c_n;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
-  <trd lng="sk">nepodarenosť</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5EB6;&#x751F;</trd>,
+    <trd>&#x79C1;&#x751F;  [<ind>&#x3057;&#x305B;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_je;&c_z;&c_a;&c_k;&c_o;&c_n;&c_n;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">nepodarenos&tcaron;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.21 2020/06/30 18:32:34
+Wolfram Diestel: +ekz-oj, +ARK
+
 Revision 1.19  2015/06/29 16:29:35  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -105,11 +151,5 @@ Revision 1.14  2005/06/22 16:31:15  revo
 Yury Finkel: +trd ru
 
 Revision 1.13  2003/06/17 16:31:32  revo
-Allon Rothfarb: +trd he
-
-Revision 1.12  2003/04/06 16:31:20  revo
-Ulrich Fellmann: + 4 trd=de
-
-Revision 1.11  2003/01/13 17:35:44  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: kalik.xml,v 1.20 2010/05/31 16:30:33 revo Exp $">
+  <art mrk="$Id: kalik.xml,v 1.33 2023/08/31 19:24:09 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>kalik</rad>/o
@@ -41,11 +40,6 @@
             <fnt><bib>Far3</bib>, <lok>&ccirc;ap. 6</lok></fnt>.
           </ekz>
         </dif>
-        <trdgrp lng="be">
-          <trd>&c_k;&c_je;&c_l;&c_ib;&c_h;</trd>,
-          <trd>&c_k;&c_ib;&c_l;&c_ib;&c_sh;&c_a;&c_k;</trd>,
-          <trd>&c_k;&c_u;&c_b;&c_a;&c_k;</trd>
-        </trdgrp>
         <trdgrp lng="de">
           <trd>Becher</trd>,
           <trd>Kelch</trd>
@@ -97,8 +91,7 @@
         <uzo tip="stl">FIG</uzo>
         <uzo tip="fak">BIB</uzo>
         <dif>
-          Metafora esprimo por la <ref tip="vid"
-          cel="sort.0o">sorto</ref>
+          Metafora esprimo por la <ref tip="vid" cel="sort.0o">sorto</ref>
           destinita al la homoj:
           <ekz>
             brula vento estos <tld/>o destinita por ili
@@ -173,9 +166,8 @@
             ol la petaloj
             <fnt>
               <bib>Viki</bib>
-          <vrk><url>https://eo.wikipedia.org/?curid=566578</url></vrk>  
-           <lok><url
-          ref='https://eo.wikipedia.org/?curid=566578'>Astrantio</url></lok>
+          <vrk><url>https://eo.wikipedia.org/?curid=566578</url></vrk>
+           <lok><url ref="https://eo.wikipedia.org/?curid=566578">Astrantio</url></lok>
             </fnt>.
           </ekz>
         </dif>
@@ -183,13 +175,26 @@
         <trd lng="en">calyx</trd>
         <trd lng="fr">calice<klr tip="ind"> (bot.)</klr></trd>
         <trd lng="hu">cs&eacute;sze<klr tip="ind">(vir&aacute;glev&eacute;l)</klr></trd>
-        <trd lng="ru">&c_ch;&c_a;&c_sh;&c_je;&c_ch;&c_k;&c_a; <klr
-        tip="amb">(&c_c;&c_v;&c_je;&c_t;&c_k;&c_a;)</klr></trd>
+        <trd lng="ru">&c_ch;&c_a;&c_sh;&c_je;&c_ch;&c_k;&c_a; <klr tip="amb">(&c_c;&c_v;&c_je;&c_t;&c_k;&c_a;)</klr></trd>
       </snc>
+        <trdgrp lng="be">
+          <trd>&c_k;&c_je;&c_l;&c_ib;&c_h;</trd>,
+          <trd>&c_k;&c_ib;&c_l;&c_ib;&c_sh;&c_a;&c_k;</trd>,
+          <trd>&c_k;&c_u;&c_b;&c_a;&c_k;</trd>,
+          <trd>&c_ch;&c_a;&c_sh;&c_a;</trd>,
+          <trd>&c_p;&c_a;&c_c;&c_ib;&c_r;</trd>,
+          <trd>&c_ch;&c_a;&c_r;&c_a;</trd>
+        </trdgrp>
   <trd lng="ca">calze</trd>
   <trdgrp lng="cs">
     <trd>kalich</trd>,
     <trd>kal&iacute;&scaron;ek</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x676F;  [<ind>&#x306F;&#x305F;</ind>]</trd>,
+    <trd>&#x8056;&#x676F;  [<ind>&#x305B;&#x3044;&#x306F;&#x3044;</ind>]</trd>,
+    <trd>&#x304C;&#x304F;</trd>,
+    <trd>&#x676F;&#x72B6;&#x5668;&#x5B98;  [<ind>&#x3055;&#x304B;&#x305A;&#x304D;&#x3058;&#x3087;&#x3046;&#x304D;&#x304B;&#x3093;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">kelk</trd>
   <trdgrp lng="pl">
@@ -198,16 +203,24 @@
     <trd>kieliszek</trd>,
     <trd>misa</trd>,
     <trd>puchar</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>caliciu</trd>,
     <trd>castron</trd>,
-    <trd>cea&#537;c&abreve;</trd>,
+    <trd>cea&#x219;c&abreve;</trd>,
     <trd>cup&abreve;</trd>,
     <trd>pahar</trd>,
     <trd>potir</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="sk">kalich</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_a;&c_sh;&c_a;</trd>,
+    <trd>&#x43A;&c_u;&c_b;&#x43E;&#x43A;</trd>,
+    <trd>&#x43A;&c_je;&#x43B;&c_i;&c_h;</trd>,
+    <trd>&c_ch;&c_a;&c_r;&c_a;</trd>,
+    <trd>&c_ch;&c_a;&c_sh;&c_je;&c_ch;&#x43A;&c_a;</trd>,
+    <trd>&c_ch;&c_a;&c_sh;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 
     <drv mrk="kalik.krom0o">
@@ -228,14 +241,17 @@
         <trd>k&uuml;ls&odblac; cs&eacute;sze</trd>,
         <trd>&aacute;lcs&eacute;sze</trd>
       </trdgrp>
-      <trd lng="nl">bijkelk</trd>
+      <trd lng="ja">&#x526F;&#x843C;  [<ind>&#x3075;&#x304F;&#x304C;&#x304F;</ind>]</trd>
+  <trd lng="nl">bijkelk</trd>
       <trd lng="pl">okwiat</trd>
       <trd lng="ro">periant</trd>
       <trdgrp lng="ru">
         <trd>&c_p;&c_o;&c_d;&c_ch;&c_a;&c_sh;&c_i;&c_je;</trd>,
         <trd>&c_e;&c_p;&c_i;&c_k;&c_a;&c_l;&c_i;&c_k;&c_s;</trd>
       </trdgrp>
-    </drv>
+      <trd lng="be">&c_p;&c_a;&c_d;&c_ch;&c_a;&c_sh;&c_sh;&c_a;</trd>
+      <trd lng="uk">&#x43F;&c_ib;&c_d;&c_ch;&c_a;&c_sh;&c_sh;&#x44F;</trd>
+</drv>
 
     <drv mrk="kalik.0afolio">
       <kap><tld/>a folio</kap>
@@ -248,6 +264,10 @@
         </dif>
         <ref tip="sin" cel="sepal.0o">sepalo</ref>
       </snc>
+      <trdgrp lng="be">
+        <trd>&c_p;&c_a;&c_d;&c_v;&c_ja;&c_n;&c_o;&c_ch;&c_k;&c_a;&c_v;&c_y; &c_l;&c_ib;&c_s;&c_t;&c_o;&c_k;</trd>,
+        <trd>&c_ch;&c_a;&c_sh;&c_a;&c_l;&c_ib;&c_s;&c_mol;&c_c;&c_ib;&c_k;</trd>
+      </trdgrp>
       <trd lng="ca">s&egrave;pal</trd>
       <trd lng="de">Kelchblatt</trd>
       <trd lng="en">sepal</trd>
@@ -256,13 +276,19 @@
       </trdgrp>
       <trd lng="hu">cs&eacute;szelev&eacute;l</trd>
       <trd lng="nl">kelkblad</trd>
-      <trd lng="pl">kielich</trd>     
+      <trd lng="pl">kielich</trd>
       <trd lng="ro">sepal&abreve;</trd>
       <trd lng="ru">&c_ch;&c_a;&c_sh;&c_je;&c_l;&c_i;&c_s;&c_t;&c_n;&c_i;&c_k;</trd>
     </drv>
   </art>
   <!--
   $Log$
+versio 1.32 2023/07/06 12:55:40
+Dmitri Gabinski: + trd be
+
+versio 1.31 2022/05/17 08:38:35
+Dmitri Gabinski: + trd be
+
   Revision 1.28  2018/12/16 23:10:20  revo
   Vito Redsky: +trd pl +trd ro
 
@@ -279,44 +305,5 @@
   aldono de trd cs per skripto de M. von Laer
 
   Revision 1.23  2015/06/29 16:33:16  revo
-  aldono de trd sk per skripto de M. von Laer
-
-  Revision 1.22  2012/03/26 07:10:11  revo
-  Dominique Pelle: kalikjn -> kalikojn
-
-  Revision 1.21  2012/01/05 15:10:12  revo
-  Marc Rausell: +trd ca
-
-  Revision 1.20  2010/05/31 16:30:33  revo
-  Agustin Garcia Lopez: +trd es
-
-  Revision 1.19  2009/08/23 16:32:42  revo
-  Paul Peeraerts: +trd nl
-
-  Revision 1.18  2008/06/20 16:30:16  revo
-  Sergio Pokrovskij: kor trd=ru
-
-  Revision 1.17  2005/04/26 16:31:49  revo
-  Yury Finkel: +trd ru
-
-  Revision 1.16  2004/10/24 16:32:41  revo
-  Marc Bavant: +drv krom~o, mod trd fr
-
-  Revision 1.15 2003/08/29 16:31:16 revo
-  Yury Finkel: +trd ru
-
-  Revision 1.14 2002/10/25 16:33:09 revo
-  Christopher Zervic: + ang
-
-  Revision 1.13 2002/10/20 16:31:06 revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.12 2002/05/03 16:34:15 revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.11 2002/01/12 17:31:17 revo
-  Jerome Vachey: kor fnt NT MT, + trd fr
-
-  Revision 1.10 2001/11/02 10:27:14 revo
-  -->
+-->
 </vortaro>

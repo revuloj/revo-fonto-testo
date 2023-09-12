@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: discip.xml,v 1.22 2020/01/09 00:10:38 revo Exp $">
+<art mrk="$Id: discip.xml,v 1.33 2023/08/31 10:44:00 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>disciplin</rad>/o
@@ -11,23 +10,59 @@
   <kap><tld/>o</kap>
   <snc mrk="discip.0o.MOR">
     <dif>
-      Deviga regularo kaj lernita obeo necesa por la bonordo de iu
-      anaro:
+      Lernita submeti&gcirc;o, <ref tip="super" cel="obe.0ado">obeado</ref> al reguloj,
+      necesa por la bonordo de iu anaro:
       <ekz>
-        militista, mona&hcirc;a <tld/>o;
+        li enkondukis severan <tld/>on inter la pastroj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        mi al <klr>[&#8230;]</klr> &ccirc;iuj instruis <tld/>on
+        <klr>[tiu]</klr> skriba&jcirc;o <klr>[&#x2026;]</klr> estas anka&ubreve; utila por <klr>[&#x2026;]</klr>
+        <tld/>o en justeco
+        <fnt>
+          <bib>NT</bib>
+          <lok>II. Timoteo 3:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili venkos, &ccirc;ar ilia militistaro estas glora pro sia <tld/>o
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia armeo perdos la <tld/>on, kiam <klr>[&#x2026;]</klr> en &gcirc;ian fronton englitis
+        perfiduloj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi al <klr>[&#x2026;]</klr> &ccirc;iuj instruis <tld/>on
         <fnt><bib>Revizoro</bib></fnt>;
       </ekz>
       <ekz>
-        <tld/>a cedo de la malplimulto<fnt>Z</fnt>;
+        inflacio ne estos pli granda obstaklo ol financa <tld/>o
+        <fnt>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2011/010398.php">E&ubreve;ro da&ubreve;re allogas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/10, p. 20</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        ne deklini&gcirc;i de la <tld/>a vojo<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        <tld/>e aligi siajn fortojn al la komuna armeo<fnt>Z</fnt>.
+        anta&ubreve; 50 jaroj mal<tld/>o estis, se ni ka&scirc;e babilis dum leciono, ridis a&ubreve; sendis
+        letereton al alia
+        <fnt>
+          <aut>Lenke Sz&aacute;sz</aut>
+          <vrk><url ref="&Monato;/2015/011475.php">La klasa fototabulo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2015/08, p. 30</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -48,20 +83,61 @@
   </snc>
   <snc mrk="discip.0o.metodo">
     <dif>
-      Reguloj rekomendindaj por certigi la bonan funkciadon de la homaj
-      kapabloj;
-      <ref tip="vid" cel="metod.0o">metodo</ref>,
-      <ref tip="vid" cel="sistem.0o.plano">sistemo<sncref/></ref>:
+      <ref tip="super" cel="regul.0aro">Regularo</ref> obeenda de anaro, por certigi
+      ties bonan funkciadon:
       <ekz>
-        intelekta, scienca <tld/>o.
+        ni akceptas la <tld/>on de niaj klasaj organizoj
+        <fnt>
+          <bib>Lanti</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne konas tian paragrafon en la soldata <tld/>o, kiu malpermesus tion
+        <fnt>
+          <bib>SatirRak</bib>
+        </fnt>;
       </ekz>
     </dif>
     <trdgrp lng="de">
-      <trd>Disziplin</trd>,
-      <trd>Zweig</trd>
+      <trd>Regelwerk</trd>,
+      <trd>Vorgaben</trd>,
     </trdgrp>
     <trd lng="nl">tak<klr tip="ind"> (v.wetenschap bv.)</klr></trd>
     <trd lng="pl">dyscyplina</trd>
+  </snc>
+  <snc mrk="discip.0o.brancxo">
+    <dif>
+      <ref tip="dif" cel="brancx.0o.FIG">Bran&ccirc;o</ref> de scienco, instruado, sporto, kun aparta
+      regularo:
+      <ekz>
+        lia faka verkado ampleksis anka&ubreve; historion, filozofion, sociologion kaj aliajn
+        <tld/>ojn
+        <fnt>
+          <aut>Bo Sandelin</aut>
+          <vrk><url ref="&Monato;/2001/pdf/monato200105.pdf#page=12">La 19a jarcento: krisolo
+          de ekonomikaj skoloj, Marksismo</url></vrk>
+           <bib>Monato</bib>
+          <lok>2001/05, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        necesas turni sin al la sub-<tld/>o psikokrokodilologio
+        <fnt>
+          <bib>GhR</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi faru lozajn rimarkojn pri diverstipaj soci-intelektaj kondutoj, miaj rimarkoj
+        ne pretendas al scienca <tld/>o, sed estas frukto de <klr>[libera
+        pensado]</klr>
+        <fnt>
+          <bib>LOdE</bib>
+          <aut>Walter Zelazny </aut>
+          <vrk>Pri la rilatoj inter inteligencio kaj plebo en la movado</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Zweig</trd>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_s;&c_c;&c_y;&c_p;&c_l;&c_ib;&c_n;&c_a;</trd>
   <trd lng="ca">disciplina</trd>
@@ -70,6 +146,7 @@
     <trd>k&aacute;ze&ncaron;</trd>,
     <trd>&rcaron;&aacute;d</trd>
   </trdgrp>
+  <trd lng="de">Disziplin</trd>
   <trd lng="en">discipline</trd>
   <trd lng="es">disciplina</trd>
   <trd lng="fa">&a_r;&a_sh;&a_t;&a_h;<klr tip="amb">
@@ -77,6 +154,13 @@
   &a_t;&a_kh;&a_S;&a_S;&f_y;)</klr></trd>
   <trd lng="fr">discipline</trd>
   <trd lng="hu">fegyelem</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898F;&#x5F8B;  [<ind>&#x304D;&#x308A;&#x3064;</ind>]</trd>,
+    <trd>&#x98A8;&#x7D00;  [<ind>&#x3075;&#x3046;&#x304D;</ind>]</trd>,
+    <trd>&#x8A13;&#x7DF4;  [<ind>&#x304F;&#x3093;&#x308C;&#x3093;</ind>]</trd>,
+    <trd>&#x3057;&#x3064;&#x3051;</trd>,
+    <trd>&#x6212;&#x5F8B;  [<ind>&#x304B;&#x3044;&#x308A;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">discipline</trd>
   <trd lng="pt">disciplina</trd>
   <trd lng="ru">&c_d;&c_i;&c_s;&c_c;&c_i;&c_p;&c_l;&c_i;&c_n;&c_a;</trd>
@@ -84,46 +168,55 @@
     <trd>discipl&iacute;na</trd>,
     <trd>poriadok</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_i;&c_s;&c_c;&c_i;&#x43F;&#x43B;&c_ib;&#x43D;&c_a;</trd>,
+    <trd>&c_d;&c_i;&c_s;&c_c;&c_i;&#x43F;&#x43B;&c_ib;&#x43D;&c_a;</trd>,
+    <trd>&#x43F;&c_r;&c_je;&c_d;&#x43C;&c_je;&c_t; (&#x43D;&c_a;&c_v;&c_ch;&c_a;&#x43D;&#x43D;&#x44F;)</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="discip.0emo">
-  <kap><tld/>emo</kap>
-  <snc mrk="discip.0emo.MOR">
+<drv mrk="discip.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
     <dif>
-      Volonta absoluta obeo al iu regularo:
+      Montranta <tld/>on, kun <tld/>o:
       <ekz>
-        <tld/>emo estas nepre necesa en nia movado.
+        <tld/>a cedo de la malplimulto
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <klr>[ne]</klr> deklini&gcirc;u de nia <tld/>a vojo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado en la Guildhall (Londono) en la 21a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili balda&ubreve; <tld/>e aligos siajn fortojn al tiu komuna granda armeo
+        <fnt>
+          <bib>OV</bib>
+          <lok>p. 448</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="sever.0a.iu">severa<sncref/></ref>,
+       <ref cel="rigid.0a.necedeme">rigida<sncref/></ref>,
+       <ref cel="rigor.0a">rigora</ref>
+    </refgrp>
   </snc>
-  <trd lng="be">&c_d;&c_y;&c_s;&c_c;&c_y;&c_p;&c_l;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
-  <trdgrp lng="ca">
-    <trd>obedi&egrave;ncia</trd>,
-    <trd>acatament</trd>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_y;&c_s;&c_c;&c_y;&c_p;&c_l;&c_ib;&c_n;&c_a;&c_r;&c_n;&c_y;</trd>,
+    <trd>&c_d;&c_y;&c_s;&c_c;&c_y;&c_p;&c_l;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
   </trdgrp>
-  <trd lng="cs">uk&aacute;zn&ecaron;nost</trd>
-  <trdgrp lng="de">
-    <trd>Disziplin</trd>,
-    <trd>Unterordnung</trd>
-  </trdgrp>
-  <trd lng="en">obedience</trd>
-  <trdgrp lng="fa">
-    <trd>&a_f;&a_r;&a_m;&a_A;&a_n;&a_b;&a_r;&a_d;&a_A;&a_r;&f_y;</trd>
-    <trd>&a_A;&a_T;&a_A;&a_ayn;&a_t;</trd>
-  </trdgrp>
-  <trdgrp lng="fr">
-    <trd>discipline</trd>,
-    <trd>ob&eacute;issance</trd>
-  </trdgrp>
-  <trd lng="hu">fegyelmezetts&eacute;g</trd>
-  <trd lng="nl">discipline<klr tip="ind"> (onderdanigheid)</klr></trd>
-  <trdgrp lng="pl">
-    <trd>zdycyplinowanie</trd>,
-    <trd>karno&sacute;&cacute;</trd>,
-    <trd>podporz&aogonek;dkowanie</trd>
-  </trdgrp>
-  <trd lng="ru">&c_d;&c_i;&c_s;&c_c;&c_i;&c_p;&c_l;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
-  <trd lng="sk">disciplinovanos&tcaron;</trd>
+  <trd lng="de">diszipliniert</trd>
+  <trd lng="ja">&#x898F;&#x5F8B;&#x4E0A;&#x306E;  [<ind>&#x304D;&#x308A;&#x3064;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>
+  <trd lng="uk">&c_d;&c_i;&c_s;&c_c;&c_i;&#x43F;&#x43B;&c_ib;&#x43D;&c_a;&c_r;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="discip.0i">
@@ -135,14 +228,34 @@
       Alkutimigi iun obei al <tld/>o;
       <ref tip="vid" cel="obe.0igi">obeigi</ref>:
       <ekz>
-        li balda&ubreve; <tld/>is la lernantojn;
+        la militista rigoro, vere, <tld/>is por ia tempo lian memvolon
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i siajn impulsojn.
+        la grekaj regimentoj ne estas sufi&ccirc;e <tld/>itaj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la debato estis fervora, <klr>[&#x2026;]</klr> sed <tld/>ita kaj demokrata
+        <fnt>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2007/009291.php">La mallonga politika kariero de Hortensia
+          Kvinke</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/10, p. 8</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="eduk.0i.infanon">eduki<sncref/></ref>
+      <ref cel="dres.0i">dresi</ref>,
+      <ref cel="eduk.0i.infanon">eduki<sncref/></ref>,
+      <ref cel="met.sub0i">submeti</ref>,
+      <ref cel="trejn.0i">trejni</ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_s;&c_c;&c_y;&c_p;&c_l;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -170,7 +283,13 @@
     <trd>discipliner</trd>,
     <trd>mettre au pas</trd>
   </trdgrp>
+  <trd lng="he">&lamed;&he;&resh;&gimel;&yod;&lamed; &lamed;&mem;&shin;&mem;&ayin;&tav;</trd>
   <trd lng="hu">(meg)<ind>fegyelmez</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x898F;&#x5F8B;&#x3065;&#x3051;&#x308B;  [<ind>&#x304D;&#x308A;&#x3064;&#x3065;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x935B;&#x7DF4;&#x3059;&#x308B;  [<ind>&#x305F;&#x3093;&#x308C;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3057;&#x3064;&#x3051;&#x3092;&#x3059;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">disciplineren</trd>
   <trd lng="pl">dyscyplinowa&cacute;</trd>
   <trd lng="ru">&c_d;&c_i;&c_s;&c_c;&c_i;&c_p;&c_l;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
@@ -178,7 +297,67 @@
     <trd>disciplinova&tcaron;</trd>,
     <trd>dodr&zcaron;iava&tcaron; discipl&iacute;nu</trd>
   </trdgrp>
+  <trd lng="uk">&c_d;&c_i;&c_s;&c_c;&c_i;&#x43F;&#x43B;&c_ib;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
+
+
+<drv mrk="discip.0emo">
+  <kap><tld/>emo</kap>
+  <snc mrk="discip.0emo.MOR">
+    <dif>
+      Volonta <ref tip="super" cel="obe.0ado">obeado</ref> al iu regularo:
+      <ekz>
+        impulsi&gcirc;emo de sudulo <klr>[&#x2026;]</klr> kaj <tld/>emo de nordulo
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk>Vortoj de Komitatano Z</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <klr>[&#x2026;]</klr> vizitantoj tuj &ccirc;ion komprenas kaj estas tre <tld/>emaj
+        <fnt>
+          <bib>LOdE</bib>
+          <aut>Sergio Pokrovskij </aut>
+          <vrk>Spertoj pri tutmondi&gcirc;o</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_s;&c_c;&c_y;&c_p;&c_l;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>obedi&egrave;ncia</trd>,
+    <trd>acatament</trd>
+  </trdgrp>
+  <trd lng="cs">uk&aacute;zn&ecaron;nost</trd>
+  <trdgrp lng="de">
+    <trd>Disziplin</trd>,
+    <trd>Unterordnung</trd>
+  </trdgrp>
+  <trd lng="en">obedience</trd>
+  <trdgrp lng="fa">
+    <trd>&a_f;&a_r;&a_m;&a_A;&a_n;&a_b;&a_r;&a_d;&a_A;&a_r;&f_y;</trd>
+    <trd>&a_A;&a_T;&a_A;&a_ayn;&a_t;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>discipline</trd>,
+    <trd>ob&eacute;issance</trd>
+  </trdgrp>
+  <trd lng="hu">fegyelmezetts&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898F;&#x5F8B;&#x6B63;&#x3057;&#x3055;  [<ind>&#x304D;&#x308A;&#x3064;&#x305F;&#x3060;&#x3057;&#x3055;</ind>]</trd>,
+    <trd>&#x81EA;&#x5236;&#x5FC3;  [<ind>&#x3058;&#x305B;&#x3044;&#x3057;&#x3093;</ind>]</trd>,
+    <trd>&#x3057;&#x3064;&#x3051;&#x306E;&#x3088;&#x3055;</trd>
+  </trdgrp>
+  <trd lng="nl">discipline<klr tip="ind"> (onderdanigheid)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>zdycyplinowanie</trd>,
+    <trd>karno&sacute;&cacute;</trd>,
+    <trd>podporz&aogonek;dkowanie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_i;&c_s;&c_c;&c_i;&c_p;&c_l;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">disciplinovanos&tcaron;</trd>
+</drv>
+
 
 <drv mrk="discip.mem0o">
   <kap>
@@ -186,8 +365,7 @@
   </kap>
   <snc mrk="discip.mem0o.PED">
     <dif>
-      Direktado de siaj pensoj a&ubreve; agoj la&ubreve; propra volo,
-      prefere ol la&ubreve; impulsoj kaj emocioj;
+      Obeado al reguloj donitaj al si mem por atingi celon;
       sistema <ref cel="reg.mem0ado.PSI">memrego<sncref/></ref>:
       <ekz>
         nervaj malordoj estas, la&ubreve; iu vidpunkto, malsanoj de la mem<tld/>o
@@ -195,36 +373,77 @@
           <aut>C. Baudouin</aut>
           <vrk>La Arto de Memdisciplino: Psikagogio</vrk>
           <lok>1926</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li diris, malmole, <klr>[&#x2026;]</klr> sed tio kostis al li grandan mem<tld/>on: &ndash;
+        tuj forlasu tiun &ccirc;i &ccirc;ambron!
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en sociaj-kulturaj organiza&jcirc;oj foresto de mem<tld/>o ka&ubreve;zas formortadon kaj
+        malaperon
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        korupto <klr>[&#x2026;]</klr> estas superebla per la racio, la honesteco de a&ubreve;tentaj
+        homoj kun mem<tld/>o
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2002/pdf/monato200201.pdf#page=8">Esenco de korupto</url></vrk>
+        <bib>Monato</bib>
+        <lok>2002/01, p. 8</lok>
+        </fnt>
+      </ekz>
+      <ekz>
+        sen le&gcirc;oj e&ccirc; en la plej mem<tld/>a socio aperas en la homo la sova&gcirc;eco de la
+        prabesto
+        <fnt>
+          <bib>VaK</bib>
         </fnt>.
       </ekz>
     </dif>
-  </snc>
+  </snc> 
+  <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_d;&c_y;&c_s;&c_c;&c_y;&c_p;&c_l;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="de">Selbstdisziplin</trd>
+  <trd lng="es">autodisciplina</trd>
+  <trd lng="fi">itsekuri</trd>
   <trd lng="fr">autodiscipline</trd>
+  <trd lng="hu">&ouml;nfegyelem</trd>
+  <trd lng="nl">zelfdiscipline</trd>
+  <trd lng="pl">samodyscyplina</trd>
+  <trd lng="ro">auto-disciplina</trd>
+  <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_d;&c_i;&c_s;&c_c;&c_i;&c_p;&c_l;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sv">sj&auml;lvdisciplin</trd>  
 </drv>
 </art>
 <!--
-$Log: discip.xml,v $
-versio 1.22 2020/01/09 00:10:38
-Jeromo Vasxe: + kk ref, + mem~o
+$Log$
+versio 1.32 2023/05/19 12:43:08
+Paul Peeraerts: + aut k lok
 
-Revision 1.21  2015/07/04 08:37:32  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.31 2023/05/03 16:39:01
+revo: aktualigo URL-unuoj
 
-Revision 1.20  2015/06/29 16:29:37  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.30 2023/01/13 19:23:19
+Wolfram Diestel: mem~o: +trdj el mem/
 
-Revision 1.19  2012/08/04 10:10:17  revo
-Marc Rausell: + trd ca
+versio 1.29 2022/11/02 08:40:23
+Dmitri Gabinski: + trd be
 
-Revision 1.18  2009/06/21 16:30:56  revo
-Behnam Tabatabai: korr arabaj/persaj koderoj
+versio 1.28 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.17  2009/06/19 05:09:27  revo
-Sebastian Cyprych: +trd pl
+versio 1.26 2021/03/20 14:53:06
+Wolfram Diestel: +ref-oj
 
-Revision 1.16  2009/05/17 16:31:20  revo
-Behnam Tabatabai: +trd fa
+versio 1.25 2021/03/20 10:52:24
+Wolfram Diestel: ~i: ekz-oj
 
-Revision 1.15  2009/02/15 14:19:00  revo
+versio 1.24 2021/03/20 09:52:31
 -->
 </vortaro>

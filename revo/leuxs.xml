@@ -1,14 +1,13 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: leuxs.xml,v 1.10 2006/09/02 20:22:43 revo Exp $">
+<art mrk="$Id: leuxs.xml,v 1.21 2023/05/16 12:48:48 revo Exp $">
 <kap>
   <rad>le&ubreve;s</rad>/o <fnt><bib>PV</bib></fnt>,
-  <var><kap><rad>loes</rad>/o <fnt><bib>SPV</bib></fnt></kap></var>
+  <var><kap><rad var="oe">loes</rad>/o <fnt><bib>SPV</bib></fnt></kap></var>
 </kap>
 <drv mrk="leuxs.0o">
-  <kap><tld/>o, <var><kap>loeso</kap></var></kap>
+  <kap><tld/>o, <var><kap><tld var="oe"/>o</kap></var></kap>
   <snc mrk="leuxs.0o.GRU">
     <uzo tip="fak">MIN</uzo>
     <dif>
@@ -22,21 +21,20 @@
         en Germanujo superas nur la <nom>Magdeburger B&ouml;rde</nom>
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=3046">Nordrejn-Vestfalio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3046">Nordrejn-Vestfalio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         sian karakterizan koloron <klr>[&#8230;]</klr> ka&ubreve;zis <klr>[&#8230;]</klr> la <tld/>o, kiun
         la Flava Rivero kaj aliaj riveroj portas al la flava maro
         <fnt>
-          <vrk><url ref="https://vrftxhjdt.blogspot.com/2019/04/flava-maro.html"
-              >Flava Maro - vrftxhjdt.blogspot.com</url></vrk>
+          <vrk><url ref="https://vrftxhjdt.blogspot.com/2019/04/flava-maro.html">Flava Maro -
+          vrftxhjdt.blogspot.com</url></vrk>
         </fnt>;
       </ekz>    
       <ekz>
         tiun fajnan polvon transportitan de la vento
-        oni nomas loeso, kaj en la norda &Ccirc;inio &gcirc;i
+        oni nomas <tld var="oe"/>o, kaj en la norda &Ccirc;inio &gcirc;i
         kovras vastan areon
         <fnt>
           <aut>W. F. Rolt</aut>,
@@ -46,20 +44,25 @@
       </ekz>
       <ekz>
         la argilo, el kiu oni faris la figurojn, estas simila al la nigra 
-        argilo proksime de la ma&ubreve;zoleo, sed diferenca de la tiea loeso 
+        argilo proksime de la ma&ubreve;zoleo, sed diferenca de la tiea <tld var="oe"/>o 
         kaj tute malsimila al la argilo de <nom>Yaozhou</nom>
         <fnt>
           <aut>&Ccirc;ina Interreta Informa Centro</aut>,
-          <vrk><url
-          ref="http://sars.china.com.cn/world/shi-wenhua/arkeologio/18.htm">
+          <vrk><url ref="http://sars.china.com.cn/world/shi-wenhua/arkeologio/18.htm">
           Kie oni bakis la argilajn figurojn de la ma&ubreve;zoleo...?</url></vrk>,
           <lok>[vidita en 2011]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_jo;&c_s; <klr tip="amb">(&c_g;&c_je;&c_a;&c_l;.)</klr></trd>,
+    <trd>&c_l;&c_jo;&c_e;&c_s;</trd>,
+    <trd>&c_zh;&c_o;&c_w;&c_t;&c_a;&c_ja; &c_g;&c_l;&c_ib;&c_n;&c_a;</trd>
+  </trdgrp>
   <trd lng="ca">loess</trd>
   <trd lng="de">L&ouml;ss</trd>
+  <trd lng="en">loess</trd>
   <trd lng="fa">&a_b;&a_A;&a_d;&a_r;&a_damma;&a_f;&a_t;</trd>
   <trd lng="fr">l&oelig;ss</trd>
   <trd lng="hu">l&ouml;sz</trd>
@@ -75,10 +78,20 @@
     <trd>&c_l;&c_jo;&c_s;&c_s;</trd>,
     <trd>&c_zh;&c_je;&c_l;&c_t;&c_o;&c_z;&c_jo;&c_m;</trd>
   </trdgrp>
+  <trd lng="uk">&c_l;&c_je;&c_s;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.21 2023/05/16 12:48:48
+Dmitri Gabinski: + trd be
+
+versio 1.20 2023/01/27 23:25:09
+Robert Baruch: +trd: en
+
+versio 1.18 2020/09/08 20:10:47
+Wolfram Diestel: +tld-var
+
 Revision 1.16  2019/12/26 12:10:15  revo
 Wolfram Diestel: kunigo kun loes', ekz, precizigis dif
 
@@ -92,11 +105,5 @@ Revision 1.13  2018/10/15 19:10:15  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.12  2012/07/22 16:10:12  revo
-Marc Rausell: + trd ca
-
-Revision 1.11  2011/12/23 20:10:09  revo
-Jeromo Vasxe: + mrk + trd fr
-
-Revision 1.10  2006/09/02 20:22:43  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: plor.xml,v 1.46 2023/09/03 12:45:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plor</rad>/i
@@ -13,10 +12,11 @@
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="plor.0i.KOMUNE">
     <dif>
-      Montri sian doloron <ref tip="prt" cel="larm.0i">larmante</ref> kaj
+      Montri sian doloron <ref tip="prt" cel="larm.0i">larmante</ref>
+      kaj
       <ref tip="prt" cel="gxem.0i.vocxi">&gcirc;emetante</ref>:
       <ekz>
-        li demandis &scirc;in <klr>[&#8230;]</klr> pro kio &scirc;i <tld/>as
+        li demandis &scirc;in <klr>[&#x2026;]</klr> pro kio &scirc;i <tld/>as
         <fnt><bib>F</bib>, <lok>&FE; 21</lok></fnt>;
       </ekz>
       <ekz>
@@ -30,7 +30,8 @@
         <tld/>i pri la morto de infano;
       </ekz>
       <ekz>
-        &scirc;i &jcirc;us mortis, la maljuna homo estis tre ekscitita kaj <tld/>is kiel infano
+        &scirc;i &jcirc;us mortis, la maljuna homo estis tre ekscitita kaj <tld/>is
+        kiel infano
         <fnt>
           <bib>Fab3</bib>
           <lok>Malnova tomba &scirc;tono</lok>
@@ -66,8 +67,8 @@
       <ekz>
         <uzo tip="stl">FIG</uzo>
         la vento <tld/>as
-        <klr>(<ref tip="vid" cel="gxem.0i.FIG">&gcirc;emas</ref>, 
-        <ref tip="vid" cel="mugx.0i.FIG">mu&gcirc;as</ref>, 
+        <klr>(<ref tip="vid" cel="gxem.0i.FIG">&gcirc;emas</ref>,
+        <ref tip="vid" cel="mugx.0i.FIG">mu&gcirc;as</ref>,
         <ref tip="vid" cel="hurl.0i.bruo">hurlas</ref>)</klr>.
       </ekz>
     </dif>
@@ -84,13 +85,22 @@
     <trd>&c_r;&c_y;&c_d;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_p;&c_l;&c_a;&c_ch;</trd>
+  <trd lng="bs">nevolje</trd>
   <trd lng="cs">bre&ccaron;et</trd>
   <trd lng="de">weinen</trd>
   <trdgrp lng="en"><trd>to weep</trd>, <trd>cry</trd></trdgrp>
   <trd lng="es">llorar</trd>
+  <trd lng="et">nutma</trd>
+  <trd lng="eu">oihu</trd>
   <trd lng="fr">pleurer</trd>
   <trd lng="hu">s&iacute;r</trd>
-  <trd lng="id">[<ind>tangis</ind>] menangis</trd>
+  <trd lng="id"><baz>tangis</baz>menangis</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6CE3;&#x304F;  [<ind>&#x306A;&#x304F;</ind>]</trd>,
+    <trd>&#x6D99;&#x3092;&#x6D41;&#x3059;  [<ind>&#x306A;&#x307F;&#x3060;&#x3092;&#x306A;&#x304C;&#x3059;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ka">&#x10E2;&#x10D8;&#x10E0;&#x10D8;&#x10DA;&#x10D8;</trd>
+  <trd lng="ne">&#x92A;&#x941;&#x915;&#x93E;&#x930;&#x93E;</trd>
   <trdgrp lng="nl">
     <trd>huilen</trd>,
     <trd>wenen</trd>,
@@ -111,6 +121,8 @@
     <trd>reva&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">gr&aring;ta</trd>
+  <trd lng="uk">&c_p;&c_l;&c_a;&c_k;&c_a;&c_t;&c_i;</trd>
+  <trd lng="yi">&vav;&vav;&yod;&yod;&nun;&ayin;&fnun;</trd>
 </drv>
 
 <drv mrk="plor.0o">
@@ -131,7 +143,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        li <klr>[&#8230;]</klr> petegis lin kun <tld/>o
+        li <klr>[&#x2026;]</klr> petegis lin kun <tld/>o
         <fnt>
           <bib>MT</bib>
           <lok>Ho&scirc;ea 12:4</lok>
@@ -153,7 +165,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lin Sheng</aut>
-          <vrk><url ref="&Monato;/2006/008670.php">Forpasis mia karulino</url></vrk>
+          <vrk><url ref="&Monato;/2006/008670.php">Forpasis mia
+          karulino</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -161,7 +174,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julia Sigmond</aut>
-          <vrk><url ref="&Monato;/2015/011386.php">Cent fabeloj</url></vrk>
+          <vrk><url ref="&Monato;/2015/011386.php">Cent
+          fabeloj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -187,8 +201,9 @@
   <trd lng="hu">s&iacute;r&aacute;s</trd>
   <trdgrp lng="id">
     <trd>tangis</trd>,
-    <trd>tangisan</trd>
+    <trd><ind>tangis</ind>an</trd>
   </trdgrp>
+  <trd lng="ja">&#x6CE3;&#x304F;&#x3053;&#x3068;  [<ind>&#x306A;&#x304F;&#x3053;&#x3068;</ind>]</trd>
   <trd lng="nl">geween</trd>
   <trd lng="pl">p&lstroke;acz</trd>
   <trdgrp lng="ru">
@@ -197,6 +212,10 @@
   </trdgrp>
   <trd lng="sk">pla&ccaron;</trd>
   <trd lng="sv">gr&aring;t</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_l;&c_a;&c_ch;</trd>,
+    <trd>&c_r;&c_i;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="plor.0ema">
@@ -214,7 +233,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        mi trovis telefon-mesa&gcirc;on de nia <tld/>ema, apena&ubreve; kohera, forte timigita filino
+        mi trovis telefon-mesa&gcirc;on de nia <tld/>ema, apena&ubreve; kohera, forte
+        timigita filino
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
@@ -225,14 +245,24 @@
     </dif>
     <trd lng="de">weinerlich</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_a;&c_k;&c_s;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_s;&c_mol;&c_l;&c_ja;&c_z;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
   <trd lng="cs">pla&ccaron;tiv&yacute;</trd>
   <trdgrp lng="en">
     <trd>given to tears</trd>,
     <trd>tearful</trd>, <trd>lachrymose</trd>
   </trdgrp>
   <trd lng="fr">pleureur<klr> (adj.)</klr></trd>
+  <trd lng="id">cengeng</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D99;&#x3082;&#x308D;&#x3044;  [<ind>&#x306A;&#x307F;&#x3060;&#x3082;&#x308D;&#x3044;</ind>]</trd>,
+    <trd>&#x6CE3;&#x304D;&#x866B;&#x306E;  [<ind>&#x306A;&#x304D;&#x3080;&#x3057;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">p&lstroke;aczliwy</trd>
   <trd lng="sk">pla&ccaron;liv&yacute;</trd>
+  <trd lng="uk">&c_p;&c_l;&c_a;&c_k;&c_s;&c_i;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="plor.0inda">
@@ -249,7 +279,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la faraono  <klr>[&#8230;]</klr> vidas la <tld/>indan staton de Egipto
+        la faraono  <klr>[&#x2026;]</klr> vidas la <tld/>indan staton de Egipto
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro III</lok>
@@ -259,7 +289,8 @@
         hu-u-u! kaj tio estis <tld/>eginda afero
         <fnt>
           <bib>Fab4</bib>
-          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj
+          filinoj</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -267,7 +298,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Manuel Halvelik</aut>
-          <vrk><url ref="&Monato;/2007/008949.php">Atentinda solvo por kompleksega problemo</url></vrk>
+          <vrk><url ref="&Monato;/2007/008949.php">Atentinda solvo por
+          kompleksega problemo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -276,6 +308,11 @@
       <trd>zu <ind>beweinen</ind></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_y; <ind>&c_zh;&c_a;&c_l;&c_ju;</ind></trd>,
+    <trd>&c_zh;&c_a;&c_l;&c_a;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_sh;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>woeful</trd>,
     <trd>lamentable</trd>
@@ -291,14 +328,16 @@
       Virino, kiu profesie partoprenas en funebroj, kunplorante
       kaj lamentante:
       <ekz>
-        ser&ccirc;u kaj voku <tld/>istinojn, ke ili venu, sendu voki lertulinojn en tia afero, ke ili venu
+        ser&ccirc;u kaj voku <tld/>istinojn, ke ili venu, sendu voki
+        lertulinojn en tia afero, ke ili venu
         <fnt>
           <bib>MT</bib>
           <lok>Jeremia 9:17</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la dancistinoj fari&gcirc;is <tld/>istinoj, kaj anstata&ubreve; danci, &scirc;iris siajn harojn, kio anka&ubreve; alportis al ili profiton
+        la dancistinoj fari&gcirc;is <tld/>istinoj, kaj anstata&ubreve; danci, &scirc;iris
+        siajn harojn, kio anka&ubreve; alportis al ili profiton
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro V</lok>
@@ -317,12 +356,37 @@
     </dif>
     <trd lng="de">Klageweib</trd>
   </snc>
+  <trd lng="be">&c_p;&c_l;&c_a;&c_k;&c_a;&c_l;&c_mol;&c_sh;&c_ch;&c_y;&c_c;&c_a;</trd>
   <trd lng="en">professional mourner <klr>(female)</klr></trd>
-  <trd lng="es">pla&ntilde;idera</trd> 
+  <trd lng="es">pla&ntilde;idera</trd>
   <trd lng="fr">pleureuse<klr> (subst.)</klr></trd>
-  <trd lng="id">cengeng</trd>
   <trd lng="pl">p&lstroke;aczka</trd>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_k;&c_a;&c_l;&c_mol;&c_shch;&c_i;&c_c;&c_a;</trd>
+</drv>
+
+<drv mrk="plor.post0i">
+  <kap>
+    post<tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="plor.post0i.KOMUNE">
+    <dif>
+      <tld lit="P"/>i, <ref tip="vid" cel="plor.pri0i">pri<tld/>i</ref>
+      eksan, perditan aferon:
+      <ekz>
+        ne pensu, ke mi post<tld/>as pasintecon
+        <fnt>
+          <aut>Esperantoluna</aut>
+          <vrk><url ref="https://www.liberafolio.org/arkivo/www.liberafolio.org/2010/pola-radio-haltigas-la-esperanto-elsendojn/">en: Pola Radio haltigas la Esperanto-elsendojn</url></vrk>
+          <lok>libera folio, 2010-05-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="funebr.0i">funebri</ref>
+  </refgrp>
+  <trd lng="fr">pleurer<klr> (une chose perdue)</klr></trd>
 </drv>
 
 <drv mrk="plor.pri0i">
@@ -347,16 +411,20 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="&Monato;/2005/008555.php">&Scirc;uisto kaj silkokomercisto</url></vrk>
+          <vrk><url ref="&Monato;/2005/008555.php">&Scirc;uisto kaj
+          silkokomercisto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        ni aliaj povas pri<tld/>i la situacion, sed &gcirc;i estas tia: la sola 
-        ekstrem-potenco povas agi tute la&ubreve; propra bontrovo kaj kontra&ubreve; la interesoj de l' tuta cetera mondo
+        ni aliaj povas pri<tld/>i la situacion, sed &gcirc;i estas tia: la
+        sola
+        ekstrem-potenco povas agi tute la&ubreve; propra bontrovo kaj kontra&ubreve;
+        la interesoj de l' tuta cetera mondo
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2003/008137.html">Mondo alia</url></vrk>
+          <vrk><url ref="&Monato;/2003/008137.html">Mondo
+          alia</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -367,23 +435,27 @@
   <trd lng="en">to bewail</trd>
   <trd lng="fr">pleurer<klr> (tr.)</klr></trd>
   <trd lng="hu">megsirat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5606;&#x304F;  [<ind>&#x306A;&#x3052;&#x304F;</ind>]</trd>,
+    <trd>&#x6CE3;&#x304D;&#x60B2;&#x3057;&#x3080;  [<ind>&#x306A;&#x304D;&#x304B;&#x306A;&#x3057;&#x3080;</ind>]</trd>,
+    <trd>&#x60BC;&#x3080;  [<ind>&#x3044;&#x305F;&#x3080;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bewenen</trd>
   <trd lng="pl">op&lstroke;akiwa&cacute;</trd>
   <trd lng="ru">&c_o;&c_p;&c_l;&c_a;&c_k;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">oplaka&tcaron;</trd>
   <trd lng="sv">begr&aring;ta</trd>
+  <trd lng="uk">&c_o;&c_p;&c_l;&c_a;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="plor.gxem0i">
-  <kap>&gcirc;em<tld/>i,
-    <var><kap><tld/>&gcirc;emi</kap></var>
-  </kap>
+  <kap>&gcirc;em<tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="plor.gxem0i.KOMUNE">
     <dif>
       <ref tip="dif" cel="gxem.plor0i"><tld lit="P"/>&gcirc;emi</ref>:
       <ekz>
-        &scirc;i &gcirc;em<tld/>is tiel, ke e&ccirc; &scirc;tono <klr>[&#8230;]</klr> devis
+        &scirc;i &gcirc;em<tld/>is tiel, ke e&ccirc; &scirc;tono <klr>[&#x2026;]</klr> devis
         moli&gcirc;i
         <fnt><bib>Fab2</bib>, <lok>pa&scirc;tistino kaj
         kamentubisto</lok></fnt>;
@@ -408,7 +480,7 @@
     <trd>&c_p;&c_l;&c_a;&c_k;&c_a;&c_c;&c_mol; &c_n;&c_a;&c_w;&c_z;&c_r;&c_y;&c_d;</trd>
   </trdgrp>
   <trd lng="en">to sob</trd>
-  <trd lng="es">pla&ntilde;ir</trd>  
+  <trd lng="es">pla&ntilde;ir</trd>
   <trd lng="fr">sangloter</trd>
   <trd lng="hu">zokog</trd>
   <trdgrp lng="it">
@@ -431,12 +503,13 @@
         kaj ne plu estis sola kun sia doloro
         <fnt>
           <aut>T. Storm, trad. H. Heinm&uuml;ller</aut>:
-          <vrk><url ref="http://www.luin.se/inko/103-8.pdf">La blank&ccirc;evala rajdanto</url></vrk>.
+          <vrk><url ref="http://www.luin.se/inko/103-8.pdf">La
+          blank&ccirc;evala rajdanto</url></vrk>.
           <lok>1929</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la virino sat<tld/>inte da&ubreve;rigis: <klr>[&#8230;]</klr>
+        la virino sat<tld/>inte da&ubreve;rigis: <klr>[&#x2026;]</klr>
 	 <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 12a</lok></fnt>;
       </ekz>
       <ekz>
@@ -447,6 +520,7 @@
     </dif>
     <trd lng="de">ausheulen</trd>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_l;&c_a;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
   <trd lng="cs">do syta se vyplakat</trd>
   <trdgrp lng="en">
     <trd>have a good <ind>cry</ind></trd>,
@@ -461,6 +535,21 @@
 </art>
 <!--
 $Log$
+versio 1.45 2023/06/25 13:31:05
+Jeromo Vasxe: + post~i
+
+versio 1.44 2023/03/24 08:30:53
+Dmitri Gabinski: + trd be
+
+versio 1.43 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2021/06/07 20:09:27
+Wolfram Diestel: -var (jam estas ref)
+
+versio 1.34 2020/05/06 14:10:23
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.32  2019/06/30 07:43:29  revo
 adaptis URL de Monato
 
@@ -468,23 +557,5 @@ Revision 1.31  2018/03/03 11:10:14  revo
 Wolfram Diestel: kor. mrk, prilaboris ekz-ojn, germ trd
 
 Revision 1.30  2015/11/12 06:10:19  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.29  2015/10/19 13:10:16  revo
-Cindy Moon McKee: +trd en
-
-Revision 1.28  2015/07/04 08:37:41  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.27  2015/06/29 16:40:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.26  2014/08/25 20:10:10  revo
-Jeromo Vasxe: + ~inda
-
-Revision 1.25  2014/05/29 08:10:15  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.24  2013/09/27 01:10:14  revo
 -->
 </vortaro>

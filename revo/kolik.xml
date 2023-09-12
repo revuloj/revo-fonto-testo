@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kolik.xml,v 1.11 2007/07/22 16:30:45 revo Exp $">
+<art mrk="$Id: kolik.xml,v 1.18 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kolik</rad>/o
@@ -41,12 +40,21 @@
   <trd lng="es">c&oacute;lico</trd>
   <trd lng="fr">colique<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="id">kolik</trd>
+  <trdgrp lng="ja">
+    <trd>&#x759D;&#x75DB;  [<ind>&#x305B;&#x3093;&#x3064;&#x3046;</ind>]</trd>,
+    <trd>&#x5DEE;&#x3057;&#x8FBC;&#x307F;  [<ind>&#x3055;&#x3057;&#x3053;&#x307F;</ind>]</trd>,
+    <trd>&#x8179;&#x75DB;  [<ind>&#x3075;&#x304F;&#x3064;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">koliek</trd>
   <trd lng="pl">kolka</trd>     
   <trd lng="ro">colic&abreve;</trd>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_i;&c_k;&c_a;</trd>
   <trd lng="sk">kolika</trd>
   <trd lng="cs">kolika <klr>(z&aacute;chvat)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43B;&#x44C;&#x43A;&#x430;</trd>,
+    <trd>&#x440;&#x456;&#x437;&#x44C;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

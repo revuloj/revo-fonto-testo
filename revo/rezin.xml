@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rezin.xml,v 1.23 2023/09/03 07:53:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rezin</rad>/o <fnt><bib>PV</bib></fnt>
@@ -34,8 +33,7 @@
         <fnt>
         <aut>E. Raus, trad. A. De Salvo</aut>,
         <vrk>Nova kuracmetodo...</vrk>,
-        <lok><url
-        ref="http://www.esperokatolika.org/ek19761980/ek1976_07.htm">
+        <lok><url ref="http://www.esperokatolika.org/ek19761980/ek1976_07.htm">
         Espero Katolika, 1976, numero 7a</url></lok>
         </fnt>.
       </ekz>
@@ -59,16 +57,22 @@
   <trd lng="es">resina</trd>
   <trd lng="fr">r&eacute;sine</trd>
   <trd lng="hu">gyanta</trd>
+  <trd lng="ja">&#x6A39;&#x8102;  [<ind>&#x3058;&#x3085;&#x3057;</ind>]</trd>
   <trd lng="nl">hars</trd>
   <trdgrp lng="no">
     <trd>harpiks</trd>,
     <trd>kvae</trd>
   </trdgrp>
+  <trd lng="pl">&zdot;ywica</trd>
   <trd lng="pt">resina</trd>
   <trd lng="ru">&c_d;&c_r;&c_je;&c_v;&c_je;&c_s;&c_n;&c_a;&c_ja; <ind>&c_s;&c_m;&c_o;&c_l;&c_a;</ind></trd>
   <trdgrp lng="sk">
     <trd>smola</trd>,
     <trd>&zcaron;ivica</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_v;&c_i;&c_c;&c_ja;</trd>,
+    <trd>&c_d;&c_je;&c_r;&c_je;&c_v;&c_n;&c_a; &c_s;&c_m;&c_o;&c_l;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -79,23 +83,22 @@
     <dif>
       <ref tip="dif" cel="rezin.0o.KEM">Rezino <sncref/></ref>,
       konsistanta el homo- a&ubreve; hetero-polimero de epoksihava(j)
-    molekulo(j), industrie uzata por gluoj, en <ref tip="dif"
-      cel="elektronik.0o.ELE">elektroniko</ref> kaj en
+    molekulo(j), industrie uzata por gluoj, en <ref tip="dif" cel="elektronik.0o.ELE">elektroniko</ref> kaj en
       elektrotekniko:
       <ekz>
         la impregnaj materioj povas esti produkta&jcirc;oj de mineraloleo,
         vaksoj, epoksi-<tld/>o
         <fnt>
-          <vrk><url
-          ref="http://espleono.uw.hu/kondensiloj.pdf">Kondensiloj</url>
+          <vrk><url ref="http://espleono.uw.hu/kondensiloj.pdf">Kondensiloj</url>
           </vrk>.
         </fnt>
       </ekz>
     </dif>
     <ref tip="vid" cel="kart.cirkvit0o">cirkvitkarto</ref>
   </snc>
-  <trd lng="de">Epoxidharz</trd>  
+  <trd lng="de">Epoxidharz</trd>
   <trd lng="fr">r&eacute;sine d'&eacute;poxy</trd>
+<trd lng="pl">&zdot;ywica epoksydowa</trd>
 </drv>
 
 <drv mrk="rezin.arta0o">
@@ -117,13 +120,17 @@
   </trdgrp>
   <trd lng="de">Kunstharz</trd>
   <trd lng="fr">r&eacute;sine synth&eacute;tique</trd>
+  <trd lng="ja">&#x5408;&#x6210;&#x6A39;&#x8102;  [<ind>&#x3054;&#x3046;&#x305B;&#x3044;&#x3058;&#x3085;&#x3057;</ind>]</trd>
+  <trd lng="pl">&zdot;ywica syntetyczna</trd>
   <trd lng="sk">umel&aacute; &zcaron;ivica</trd>
 </drv>
-
 
 </art>
 <!--
 $Log$
+versio 1.22 2023/06/16 21:20:58
+Vito Redsky: +trd pl
+
 Revision 1.19  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 

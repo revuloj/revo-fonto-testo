@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tambur1.xml,v 1.22 2023/09/04 17:49:39 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>tamburin</rad>/o
@@ -22,7 +21,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Mirjam</nom>, la profetino <klr>[&#8230;]</klr> prenis <tld/>on en sian manon,
+        <nom>Mirjam</nom>, la profetino <klr>[&#x2026;]</klr> prenis <tld/>on en sian manon,
         kaj &ccirc;iuj virinoj eliris post &scirc;i kun <tld/>oj kaj dancante
         <fnt>
           <bib>MT</bib>
@@ -38,15 +37,11 @@
         </fnt>.
       </ekz>
     </dif>
-    <bld
-      lok="&WCU;/thumb/2/27/Eugen_Napoleon_Neureuther_Junge_R%C3%B6merin_mit_Tamburin_c1837.jpg/392px-Eugen_Napoleon_Neureuther_Junge_R%C3%B6merin_mit_Tamburin_c1837.jpg"
-      prm="PD"
-      >&leftquot;Juna romanino kun <tld/>o&rightquot;, desegno el 1837
+    <bld lok="&WCU;/thumb/2/27/Eugen_Napoleon_Neureuther_Junge_R%C3%B6merin_mit_Tamburin_c1837.jpg/392px-Eugen_Napoleon_Neureuther_Junge_R%C3%B6merin_mit_Tamburin_c1837.jpg" prm="PD">&leftquot;Juna romanino kun <tld/>o&rightquot;, desegno el 1837
     
         <fnt>
           <aut>Eugen Napoleon Neureuther, Galerio Bassenge</aut>
-          <lok><url ref="&WCW;/File:Eugen_Napoleon_Neureuther_Junge_R%C3%B6merin_mit_Tamburin_c1837.jpg"
-              >&WCW;/File:Eugen_Napoleon_Neureuther_Junge_R%C3%B6merin_mit_Tamburin_c1837.jpg</url></lok>
+          <lok><url ref="&WCW;/File:Eugen_Napoleon_Neureuther_Junge_R%C3%B6merin_mit_Tamburin_c1837.jpg">&WCW;/File:Eugen_Napoleon_Neureuther_Junge_R%C3%B6merin_mit_Tamburin_c1837.jpg</url></lok>
         </fnt>
     </bld>
     <trdgrp lng="be">
@@ -80,6 +75,7 @@
   <trd lng="de">Tamburin</trd>
   <trd lng="en">tambourine</trd>
   <trd lng="fr">tambourin</trd>
+  <trd lng="ja">&#x30BF;&#x30F3;&#x30D0;&#x30EA;&#x30F3;</trd>
   <trd lng="nl">tamboerijn</trd>
   <trdgrp lng="pt">
    <trd>pandeiro</trd>
@@ -90,6 +86,10 @@
     <trd>tambur&iacute;na</trd>
   </trdgrp>
   <trd lng="sv">tamburin</trd>
+  <trdgrp lng="uk">
+    <trd>&#x442;&#x430;&#x43C;&#x431;&#x443;&#x440;&#x438;&#x43D;</trd>,
+    <trd>&#x431;&#x443;&#x431;&#x43E;&#x43D;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

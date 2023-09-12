@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kret.xml,v 1.14 2006/11/02 17:31:20 revo Exp $">
+<art mrk="$Id: kret.xml,v 1.19 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kret</rad>/o
@@ -94,19 +93,29 @@
      <trd>stukje <ind>krijt</ind></trd>
     </trdgrp>
   </snc>
+  <ref tip="hom" cel="kret1.0o">Kreto (greka insulo)</ref>
   <trd lng="be">&c_k;&c_r;&c_e;&c_j;&c_d;&c_a;</trd>
   <trd lng="en">chalk</trd>
   <trd lng="fr">craie</trd>
   <trd lng="hu">kr&eacute;ta</trd>
   <trd lng="id">kapur</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C1;&#x30E7;&#x30FC;&#x30AF;</trd>,
+    <trd>&#x767D;&#x58A8;  [<ind>&#x306F;&#x304F;&#x307C;&#x304F;</ind>]</trd>,
+    <trd>&#x767D;&#x4E9C;  [<ind>&#x306F;&#x304F;&#x3042;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">kreda</trd>
   <trd lng="pt">giz</trd>
   <trd lng="ru">&c_m;&c_je;&c_l;</trd>
   <trd lng="sv">krita</trd>
+  <trd lng="uk">&#x43A;&#x440;&#x435;&#x439;&#x434;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.17 2021/05/23 19:52:31
+Wolfram Diestel: ref-hom
+
 Revision 1.15  2014/06/08 11:10:21  revo
 Eko Nur Syah Hidayat: +id
 

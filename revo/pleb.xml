@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: pleb.xml,v 1.20 2020/03/20 22:10:25 revo Exp $">
+<art mrk="$Id: pleb.xml,v 1.23 2023/09/03 12:45:08 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>pleb</rad>/o
@@ -38,6 +37,11 @@
     <trd>pl&egrave;be</trd>
   </trdgrp>
   <trd lng="hu">plebs</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E73;&#x6C11;&#x968E;&#x7D1A;  [<ind>&#x3078;&#x3044;&#x307F;&#x3093;&#x304B;&#x3044;&#x304D;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x5EB6;&#x6C11;  [<ind>&#x3057;&#x3087;&#x307F;&#x3093;</ind>]</trd>,
+    <trd>&#x4E0B;&#x5C64;&#x6C11;  [<ind>&#x304B;&#x305D;&#x3046;&#x305F;&#x307F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">plebs</trd>
   <trd lng="pl">plebs</trd>
   <trd lng="pt">plebe</trd>
@@ -47,6 +51,11 @@
     <trd>&c_p;&c_l;&c_je;&c_b;&c_s;</trd>
   </trdgrp>
   <trd lng="sk">ple&ccaron;ka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_je;&c_b;&c_s;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_s;&c_t;&#x43E;&#x43B;&#x44E;&c_d;</trd>,
+    <trd>&c_ch;&c_je;&c_r;&#x43D;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pleb.0ano">
@@ -62,6 +71,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_l;&c_je;&c_b;&c_e;&c_j;</trd>
   <trdgrp lng="cs">
     <trd>plebejec</trd>,
     <trd>p&rcaron;&iacute;slu&scaron;n&iacute;k &rcaron;&iacute;m. chudiny</trd>
@@ -74,13 +84,28 @@
   <trdgrp lng="fr">
     <trd>pl&eacute;b&eacute;ien<klr> (subst.)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x5E73;&#x6C11;  [<ind>&#x3078;&#x3044;&#x307F;&#x3093;</ind>]</trd>
   <trd lng="nl">plebejer</trd>
   <trd lng="pl">plebejczyk</trd>
+  <trd lng="pt">plebeu</trd>
   <trd lng="sk">plebejec</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_je;&c_b;&c_je;&c_j;</trd>,
+    <trd>&c_shch;&c_je; &c_s;&#x43C;&c_je;&c_r;&c_d;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2022/11/15 18:36:17
+Dmitri Gabinski: +trd be
+
+versio 1.20 2020/03/20 22:10:25
+James Rezende Piton: +trd pt
+
+Revision 1.19  2018/04/22 19:10:15  revo
+Dmitri Gabinski: +trd be
+
 Revision 1.18  2015/10/27 11:10:19  revo
 Sebastian Cyprych: +trd pl
 
@@ -94,11 +119,5 @@ Revision 1.15  2009/10/25 17:31:11  revo
 Paul Peeraerts: +nl +kor en de
 
 Revision 1.14  2008/02/22 17:30:15  revo
-Wieland Pusch: +trd de
-
-Revision 1.13  2008/02/16 17:30:15  revo
-Russ Williams: +trd en
-
-Revision 1.12  2006/03/06 17:32:34  revo
 -->
 </vortaro>

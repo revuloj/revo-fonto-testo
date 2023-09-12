@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: alfabe.xml,v 1.24 2005/08/05 16:31:20 revo Exp $">
+<art mrk="$Id: alfabe.xml,v 1.52 2023/09/11 22:23:10 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
   <rad>alfabet</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,35 +12,42 @@
   <snc>
     <uzo tip="fak">GRA</uzo>
     <dif>
-      Listo da &ccirc;iuj <ref tip="prt"
-      cel="liter.0o">literoj</ref>
+      Listo da &ccirc;iuj <ref tip="prt" cel="liter.0o">literoj</ref>
       de iu lingvo, aran&gcirc;ita la&ubreve; norma ordo:
       <ekz>
         la Esperanta <tld/>o enhavas 28 literojn, de A &gcirc;is Z;
-      </ekz>
-      <ekz>
-      la literojn de nia <tld/>o mi proponas nomi en la sekvanta
-      maniero: a, bo, co, &ccirc;o, do, e, fo, go, &gcirc;o, ho,
-      &hcirc;o, i, jo ,&jcirc;o,
-      ko, lo, mo, no, o, po, ro, so, &scirc;o, to, u, &ubreve;o, vo,
-      zo<fnt><bib>LR</bib></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
+        la literojn de nia <tld/>o mi proponas nomi en la sekvanta
+        maniero: a, bo, co, &ccirc;o, do, e, fo, go, &gcirc;o, ho, &hcirc;o, i, jo ,&jcirc;o,
+        ko, lo, mo, no, o, po, ro, so, &scirc;o, to, u, &ubreve;o, vo,
+        zo<fnt><bib>LR</bib></fnt>;
+      </ekz><ekz>
+        Kiel rezulto de evoluo de la hieroglifaj skriboj, meze de la
+        2ª jarmilo a.K. aperis la fenica <tld/>o
+        <fnt><aut>M. Korotkov</aut>:
+          <vrk>Skribsistemoj: Interesaj paralelismoj inter alfabetoj</vrk>.
+          <bib>Monato</bib>. <lok>&#8470;012670</lok></fnt>;
+      </ekz><ekz>
+        &Gcirc;i <klr>(Unikodo)</klr> ampleksas anka&ubreve; la <tld/>ojn cirilan,
+        araban, hebrean, armenan, kartvelan, <klr>&#8230;</klr>
+        <fnt><aut>J.C. Wells</aut>:
+         <vrk>Supersignoj, trasignoj kaj subsignoj</vrk>.
+         <lok><url ref="htww.phon.ucl.ac.uk/home/wells/dia/supersignoj.htm">Internacia Kongresa Universitato, Prago 1996-07-26</url>
+         </lok>
+        </fnt>;
+      </ekz><ekz>
         <ind>li neniam venkis la <tld/>on</ind>
         <fnt><bib>PrV</bib></fnt>;
         <trdgrp lng="de">
           <trd>er ist niemals &uuml;ber die <ind>Grundlagen</ind>
-          hinaus
-          gekommen</trd>,
-          <trd>er ist niemals &uuml;ber das <ind>Abc</ind> hinaus
-          gekommen</trd>
+          hinaus gekommen</trd>,
+          <trd>er ist niemals &uuml;ber das <ind>Abc</ind> hinaus gekommen</trd>
         </trdgrp>
         <trdgrp lng="fr">
           <trd>il ne <ind>sait</ind> ni a ni b</trd>,
           <trd>c'est un <ind>ignorant</ind></trd>
-        </trdgrp>    
-      </ekz>
-      <ekz>
+        </trdgrp>
+      </ekz><ekz>
         <ind>li &scirc;vitas ankora&ubreve; super la <tld/>o</ind>
         <fnt><bib>PrV</bib></fnt>.
         <trdgrp lng="de">
@@ -56,43 +62,58 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="aboc.0o.alfabeto">aboco<sncref/></ref>.
-    </refgrp>        
+      <ref cel="a1.0BC.alfabeto">aboco<sncref/></ref>.
+    </refgrp>
   </snc>
-<trdgrp lng="be">
+  <trdgrp lng="be">
     <trd>&c_a;&c_l;&c_mol;&c_f;&c_a;&c_b;&c_e;&c_t;</trd>,
     <trd>&c_a;&c_b;&c_e;&c_c;&c_e;&c_d;&c_a;</trd>
   </trdgrp>
+  <trd lng="he">&alef;&lamed;&fpe; &bet;&yod;&tav;</trd>
+  <trdgrp lng="ja">
+    <trd>&#12450;&#12523;&#12501;&#12449;&#12505;&#12483;&#12488;</trd>,
+    <trd>&#23383;&#27597;  [<ind>&#12376;&#12412;</ind>]</trd>
+  </trdgrp>
   <trd lng="ms">huruf</trd>
-<trd lng="br">lizherenneg</trd>
-<trdgrp lng="cs">
-<trd>abeceda</trd>,
-<trd>alfabeta</trd>
-</trdgrp>
-<trdgrp lng="de">
+  <trd lng="bo">&t_ka;&t_tsheg;&t_kha;&t_tsheg;</trd>
+  <trd lng="br">lizherenneg</trd>
+  <trdgrp lng="cs">
+    <trd>abeceda</trd>,
+    <trd>alfabeta</trd>
+  </trdgrp>
+  <trdgrp lng="de">
     <trd>Alphabet</trd>,
     <trd>Alfabet</trd>,
     <trd>Abc</trd>,
     <trd>Buchstabenfolge</trd>
   </trdgrp>
-<trd lng="en">alphabet</trd>
-<trdgrp lng="es">
+  <trd lng="en">alphabet</trd>
+  <trdgrp lng="es">
     <trd>alfabeto</trd>,
     <trd>abec&eacute;</trd>,
     <trd>abecedario</trd>
   </trdgrp>
-<trd lng="fr">alphabet</trd>
-<trdgrp lng="hu">
+  <trd lng="fr">alphabet</trd>
+  <trdgrp lng="hu">
     <trd>&aacute;b&eacute;c&eacute;</trd>,
     <trd>alfab&eacute;tum</trd>
   </trdgrp>
-<trd lng="id">alfabet</trd>
-<trd lng="nl">alfabet</trd>
-<trd lng="pt">alfabeto</trd>
-<trd lng="ro">alfabet</trd>
+  <trd lng="id">alfabet</trd>
+  <trd lng="nl">alfabet</trd>
+  <trdgrp lng="pl">
+    <trd>abecad&lstroke;o</trd>,
+    <trd>alfabet</trd>
+  </trdgrp>
+  <trd lng="pt">alfabeto</trd>
+  <trd lng="ro">alfabet</trd>
   <trd lng="ru">&c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;</trd>
-<trd lng="sk">abeceda</trd>
-<trd lng="sv">alfabet</trd>
+  <trd lng="sk">abeceda</trd>
+  <trd lng="sv">alfabet</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_b;&c_je;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_a;&c_l;&c_f;&c_a;&c_v;&c_ib;&c_t;</trd>,
+    <trd>&c_a;&c_z;&c_b;&c_u;&c_k;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="alfabe.0a">
@@ -108,11 +129,9 @@
           <bib>Monato</bib>,
           <lok>1994:2, p. 22a</lok>
         </fnt>;
-        <trd
-        lng="ru">&c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;&c_n;&c_y;&c_j;
+        <trd lng="ru">&c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;&c_n;&c_y;&c_j;
           &c_u;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         jen la respondoj (en <ind><tld/>a ordo</ind> de la
         &ccirc;efnomoj)
         <fnt>
@@ -125,7 +144,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_f;&c_a;&c_b;&c_e;&c_t;&c_n;&c_y;</trd>
   <trd lng="cs">abecedn&iacute;</trd>
+  <trd lng="en">alphabetic</trd>
   <trdgrp lng="es">
     <trd>alfab&eacute;tico</trd>,
     <trd>alfab&eacute;tica</trd>
@@ -136,7 +157,10 @@
     <trd>&aacute;b&eacute;c&eacute;-</trd>
   </trdgrp>
   <trd lng="id">alfabetis</trd>
+  <trd lng="ja">&#12450;&#12523;&#12501;&#12449;&#12505;&#12483;&#12488;&#12398;  [<ind>&#12354;&#12427;&#12405;&#12353;&#12409;&#12387;&#12392;&#12398;</ind>]</trd>
+  <trd lng="pl">alfabetyczny</trd>
   <trd lng="pt">alfab&eacute;tico</trd>
+  <trd lng="ro">alfabetic</trd>
   <trd lng="ru">&c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">abecedn&yacute;</trd>
 </drv>
@@ -162,31 +186,31 @@
           <fnt>
             <aut>J. C. Wells</aut>,
             <vrk>Supersignoj, trasignoj kaj subsignoj</vrk>,
-            <lok><url
- ref="http://www.uea.org/cgi/m.cgi?m=ghu;d=kongresoj/1996/supersignoj.html"
-                >Internacia Kongresa Universitato, Prago
+            <lok><url ref="&UEA;cgi/m.cgi?m=ghu;d=kongresoj/1996/supersignoj.html">Internacia
+            Kongresa Universitato, Prago
                 1996-07-26</url>
             </lok>
           </fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           &ccirc;u tiam ni <tld/>igu re&gcirc;ojn anta&ubreve; la
           litero 'A'
           (&ccirc;ar mankas familia nomo), &ccirc;u la&ubreve; ilia
           persona nomo,
           a&ubreve; &ccirc;u &ccirc;iujn sub 'R' <klr>...</klr>?
-          <fnt><vrk><url
-                ref="http://eo.wikipedia.org/wiki/Vikipedio_diskuto:Nomoj_de_titoloj"
-                >Vikipedio-diskuto:Nomoj de
+          <fnt><vrk><url ref="&Viki;/Vikipedio_diskuto:Nomoj_de_titoloj">Vikipedio-diskuto:Nomoj
+          de
                 titoloj</url></vrk></fnt>.
         </ekz>
       </dif>
+      <trd lng="be">&c_u;&c_p;&c_a;&c_r;&c_a;&c_d;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol; &c_p;&c_a;&c_v;&c_o;&c_d;&c_l;&c_je; &c_a;&c_l;&c_mol;&c_f;&c_a;&c_b;&c_e;&c_t;&c_u;</trd>
       <trd lng="es">alfabetizar</trd>
       <trdgrp lng="hu">
           <trd>bet&udblac;rendbe szed</trd>,
           <trd>&aacute;b&eacute;c&eacute;rendbe szed</trd>
-        </trdgrp>
-        <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol; &c_p;&c_o; &c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;&c_u;</trd>
+      </trdgrp>
+      <trd lng="pl">ustawia&cacute; w porz&aogonek;dku  <ind>alfabetycznym</ind></trd>
+      <trd lng="ro">s&abreve; fie &icirc;n ordine  <ind>alfabetic&abreve;</ind></trd>
+      <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol; &c_p;&c_o; &c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;&c_u;</trd>
     </subsnc>
     <subsnc mrk="alfabe.0igi.literigi">
       <dif>
@@ -199,8 +223,7 @@
             <lok>Artikoltitolo en &leftquot;Monato&rightquot;,
             2001:3, p. 4a.</lok>
           </fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           kvankam la movado por Esperanto tu&scirc;is plurajn
           gravajn
           intelektajn fluojn de la dudeka jarcento (de
@@ -212,22 +235,19 @@
             <aut>H. Tonkin</aut>,
             <vrk>Esperanto: Lingvo preta por la internacia
               vivo</vrk>,
-            <lok><url
-                ref="http://www.espero.com.cn/z-uk-2004/04z-05f/04z-uk-05-1.htm"
-                >Kontribuo al la 89-a Universala Kongreso de
+            <lok><url ref="http://www.espero.com.cn/z-uk-2004/04z-05f/04z-uk-05-1.htm">Kontribuo al
+            la 89-a Universala Kongreso de
                 Esperanto kaj la 3-a Nitobe-Simpozio,
                 Pekino, julio 2004</url></lok>
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_v;&c_je;&c_s;&c_mol;&c_c;&c_ib; &c_n;&c_a; &c_a;&c_l;&c_mol;&c_f;&c_a;&c_b;&c_e;&c_t;</trd>
       <trd lng="es">transliterar</trd>
       <trd lng="hu">latinbet&udblac;sre &aacute;t&iacute;r</trd>
-      <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_v;&c_je;&c_s;&c_t;&c_i;
-      &c_n;&c_a;
-        &c_b;&c_u;&c_k;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
-        &c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;</trd>
+      <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_v;&c_je;&c_s;&c_t;&c_i; &c_n;&c_a; &c_b;&c_u;&c_k;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; &c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;</trd>
     </subsnc>
-  </snc>
+      </snc>
 
   <snc mrk="alfabe.0igi.malanalfabetigi">
     <uzo tip="stl">EVI</uzo>
@@ -236,7 +256,7 @@
       anka&ubreve; skribi):
       <ekz>
         kursoj por <tld/>igi en la nacia lingvo afganajn
-        analfabetajn 
+        analfabetajn
         rifu&gcirc;intojn
         <fnt>
           <aut>R. Corsetti</aut>,
@@ -281,13 +301,24 @@
       neniel povas signifi <ctl>instrui al iu kalkulon</ctl>.
       <aut>Sergio Pokrovskij</aut>
     </rim>
+    <trd lng="cs">u&ccaron;it &ccaron;&iacute;st</trd>
+    <trd lng="be">&c_v;&c_u;&c_ch;&c_y;&c_c;&c_mol; &c_g;&c_r;&c_a;&c_m;&c_a;&c_c;&c_je;</trd>
     <trd lng="es">alfabetizar</trd>
+    <trd lng="fr">alphab&eacute;tiser</trd>
+    <trd lng="pl">uczy&cacute; <ind>czyta&cacute;</ind></trd>
     <trd lng="pt">alfabetizar</trd>
-    <trd lng="ru">&c_u;&c_ch;&c_i;&c_t;&c_mol;
-    &c_g;&c_r;&c_a;&c_m;&c_o;&c_t;&c_je;</trd>
-  </snc>
-<trd lng="cs">u&ccaron;it &ccaron;&iacute;st</trd>
-<trd lng="sk">u&ccaron;i&tcaron; &ccaron;&iacute;ta&tcaron;</trd>
+    <trd lng="ru">&c_u;&c_ch;&c_i;&c_t;&c_mol; &c_g;&c_r;&c_a;&c_m;&c_o;&c_t;&c_je;</trd>
+    <trd lng="sk">u&ccaron;i&tcaron; &ccaron;&iacute;ta&tcaron;</trd>
+    <trdgrp lng="uk">
+      <trd>&c_n;&c_a;&c_v;&c_ch;&c_a;&c_t;&c_i; &c_g;&c_r;&c_a;&c_m;&c_o;&c_t;&c_i;</trd>,
+      <trd>&c_n;&c_a;&c_v;&c_ch;&c_a;&c_t;&c_i; &c_ch;&c_i;&c_t;&c_a;&c_t;&c_i;</trd>
+     </trdgrp>
+    </snc>
+    <trd lng="en">alphabetize</trd>
+    <trdgrp lng="ja">
+    <trd>&#35672;&#23383;&#25945;&#32946;&#12434;&#26045;&#12377;  [<ind>&#12375;&#12365;&#12376;&#12365;&#12423;&#12358;&#12356;&#12367;&#12434;&#12411;&#12393;&#12371;&#12377;</ind>]</trd>,
+    <trd>&#35501;&#12415;&#26360;&#12365;&#12434;&#25945;&#12360;&#12427;  [<ind>&#12424;&#12415;&#12363;&#12365;&#12434;&#12362;&#12375;&#12360;&#12427;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="alfabe.0igo">
@@ -301,14 +332,13 @@
         <tld/>igo <klr>(= <tld/>a ordigo)</klr> kun <em>cx...ux</em>
         okazas preska&ubreve; senerare
         <fnt>
-          <vrk><url
-          ref="http://www.geocities.com/Paris/9231/translit.htm"
-              >La cx-transskribo (&leftquot;Kopenhaga
+          <vrk><url ref="http://www.geocities.com/Paris/9231/translit.htm">La cx-transskribo
+          (&leftquot;Kopenhaga
               Rekomendo&rightquot;)</url></vrk>
         </fnt>;
       </ekz>
-      <trd
-      lng="ru">&c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;&c_n;&c_o;&c_je;
+      <trd lng="be">&c_u;&c_p;&c_a;&c_r;&c_a;&c_d;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je; &c_p;&c_a;&c_v;&c_o;&c_d;&c_l;&c_je; &c_a;&c_l;&c_mol;&c_f;&c_a;&c_b;&c_e;&c_t;&c_u;</trd>
+      <trd lng="ru">&c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;&c_n;&c_o;&c_je;
 &c_u;&c_p;&c_o;&c_r;&c_ja;&c_d;&c_o;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
     </subsnc>
     <subsnc mrk="alfabe.0igo.legopovigo">
@@ -322,10 +352,14 @@
           <lok>2002:1</lok>
         </fnt>.
       </ekz>
+      <trd lng="be">&c_n;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je; &c_g;&c_r;&c_a;&c_m;&c_a;&c_c;&c_je;</trd>
       <trd lng="ru">&c_o;&c_b;&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je; &c_g;&c_r;&c_a;&c_m;&c_o;&c_t;&c_je;</trd>
     </subsnc>
   </snc>
+  <trd lng="en">alphabetization</trd>
   <trd lng="es">alfabetizaci&oacute;n</trd>
+  <trd lng="fr">alphab&eacute;tisation</trd>
+  <trd lng="pl">alfabetyzacja</trd>
   <trd lng="pt">alfabetiza&ccedil;&atilde;o</trd>
   <trd lng="ro">alfabetizare</trd>
 </drv>
@@ -338,7 +372,7 @@
     </dif>
     <refgrp tip="sin">
       <ref cel="libr.aboco0o">abocolibro</ref>,
-      <ref cel="aboc.0o.alfabetumo">aboco <sncref/></ref>.
+      <ref cel="aboc.0o.alfabeto">aboco <sncref/></ref>.
     </refgrp>
   </snc>
 <trdgrp lng="be">
@@ -351,15 +385,23 @@
     <trd>Abc-Buch</trd>,
     <trd>Fibel</trd>
   </trdgrp>
-<trd lng="en">book of ABC's</trd>
+<trdgrp lng="en">
+  <trd>primer</trd>,
+  <trd>alphabet book</trd>
+</trdgrp>
 <trd lng="es">abec&eacute;</trd>
   <trdgrp lng="fr">
     <trd>ab&eacute;c&eacute;daire</trd>,
     <trd>ABC<klr tip="ind"> (ab&eacute;c&eacute;daire)</klr></trd>
   </trdgrp>
-<trd lng="hu">&aacute;b&eacute;c&eacute;sk&ouml;nyv</trd>
-<trd lng="nl">ABC-boek</trd>
+<trd lng="he">&samekh;&pe;&resh; &lamed;&yod;&mem;&vav;&dalet;
+&lamed;&alef;&lamed;&fpe;-&bet;&yod;&tav;</trd>
+  <trd lng="hu">&aacute;b&eacute;c&eacute;sk&ouml;nyv</trd>
+<trd lng="ja">&#21021;&#27497;&#35501;&#26412;  [<ind>&#12375;&#12423;&#12411;&#12392;&#12367;&#12411;&#12435;</ind>]</trd>
+  <trd lng="nl">ABC-boek</trd>
+<trd lng="pl">elementarz</trd>
 <trd lng="pt">cartilha de alfabetiza&ccedil;&atilde;o</trd>
+<trd lng="ro">abecedar</trd>
 <trdgrp lng="ru">
     <trd>&c_b;&c_u;&c_k;&c_v;&c_a;&c_r;&c_mol;</trd>,
     <trd>&c_a;&c_z;&c_b;&c_u;&c_k;&c_a;</trd>
@@ -369,24 +411,27 @@
 </art>
 <!--
 $Log$
-Revision 1.37  2017/12/11 03:10:18  revo
-Michel Cantigneaux: vorto de la 1 OA fundamentita per la 7a OA
+versio 1.52 2023/09/11 22:23:10
+David Dichelle: +trd en
 
-Revision 1.36  2017/03/06 23:10:20  revo
-Jeromo Vasxe: preskau -> preskaux
+versio 1.50 2023/07/05 06:36:43
+Sergio Pokrovskij: TEZ
 
-Revision 1.35  2017/01/28 13:10:24  revo
-Adam Eng: + trd
+versio 1.49 2023/05/02 15:56:27
+revo: aktualigo URL-unuoj
 
-Revision 1.34  2016/10/25 23:10:13  revo
-Carlos Garcia: +trd ro,es -o -a -igi -igo -um
+versio 1.48 2023/02/07 18:33:27
+Wolfram Diestel: kor. ref-cel
 
-Revision 1.33  2016/05/21 07:10:27  revo
-Eko Nur Syah Hidayat: +trd id
+versio 1.47 2023/02/07 16:39:10
+Damien Brucker: -erato cxe cel en ref
 
-Revision 1.32  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.46 2023/02/06 07:26:08
+Wolfram Diestel: kor. ref
 
-Revision 1.31  2015/06/28 12:03:35  revo
+versio 1.45 2023/01/27 22:28:54
+Vito Redsky: +trd pl + trd ro
+
+versio 1.44 2022/04/25 15:10:59
 -->
 </vortaro>

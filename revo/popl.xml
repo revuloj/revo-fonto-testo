@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: popl.xml,v 1.24 2023/09/03 12:45:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>popl</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,13 +11,9 @@
   <snc mrk="popl.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
-      tip="malprt"
-      cel="salikac.0oj">salikacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="salikac.0oj">salikacoj</ref>
       (<trd lng="la">Populus</trd>) de
-      <ref tip="lst" cel="arb.0o"
-      lst="voko:malpigioparencoj">arboj</ref>
+      <ref tip="lst" cel="arb.0o" lst="voko:malpigioparencoj">arboj</ref>
       kaj arbedoj kun triangulaj, kor- a&ubreve; ovoformaj longtigaj folioj,
       kun <ref tip="prt" cel="ament.0o">amentoj</ref>
       kaj <ref tip="prt" cel="kapsul.0o.BOT">kapsuloj</ref>
@@ -41,6 +36,10 @@
   <trd lng="en">poplar</trd>
   <trd lng="fr">peuplier</trd>
   <trd lng="hu">ny&aacute;r(fa)</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DD;&#x30D7;&#x30E9;</trd>,
+    <trd>&#x30CF;&#x30B3;&#x30E4;&#x30CA;&#x30AE;</trd>
+  </trdgrp>
   <trd lng="nl">populier</trd>
   <trd lng="pl">topola</trd>
   <trdgrp lng="pt">
@@ -51,6 +50,7 @@
   <trd lng="ru">&c_t;&c_o;&c_p;&c_o;&c_l;&c_mol;</trd>
   <trd lng="sk">topo&lcaron;</trd>
   <trd lng="sv">poppel</trd>
+  <trd lng="uk">&#x442;&#x43E;&#x43F;&#x43E;&#x43B;&#x44F;</trd>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kromol.xml,v 1.9 2009/09/17 16:30:24 revo Exp $">
+<art mrk="$Id: kromol.xml,v 1.17 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <rad>kromolitografi</rad>/o
 </kap>
@@ -15,7 +14,7 @@
       <ref tip="super" cel="litogr1.0o.TIP">litografio</ref>, desegnojn en
       pluraj koloroj:
       <ekz>
-        la kromolitografio <klr>[&#8230;]</klr> estis disvolvigita &ccirc;efe de la german-franca
+        la kromolitografio <klr>[&#x2026;]</klr> estis disvolvigita &ccirc;efe de la german-franca
         litografo <nom>Godefroy Engelmann de Mulhouse</nom> (1788&ndash;1839) kiu patentigis la
         proceduron en 1837
         <fnt>
@@ -25,6 +24,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_h;&c_r;&c_o;&c_m;&c_a;&c_l;&c_ib;&c_t;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
   <trd lng="cs">barevn&yacute; kamenotisk</trd>
   <trdgrp lng="de">
     <trd>Chromolithographie</trd>,
@@ -35,6 +35,7 @@
     <trd>sz&iacute;nes <ind>k&odblac;nyom&aacute;s</ind></trd>,
     <trd>kromolitogr&aacute;fia</trd>
   </trdgrp>
+  <trd lng="ja">&#x7740;&#x8272;&#x77F3;&#x7248;&#x8853;  [<ind>&#x3061;&#x3083;&#x304F;&#x3057;&#x3087;&#x304F;&#x3044;&#x3057;&#x306F;&#x3093;&#x3058;&#x3085;&#x3064;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>kleurensteendruk</trd>,
     <trd>chromolitografie</trd>
@@ -44,10 +45,14 @@
   <trd lng="ro">cromolitografii</trd>
   <trd lng="ru">&c_h;&c_r;&c_o;&c_m;&c_o;&c_l;&c_i;&c_t;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
   <trd lng="sk">chromolitograf</trd>
+  <trd lng="uk">&c_h;&c_r;&#x43E;&#x43C;&#x43E;&#x43B;&c_ib;&c_t;&#x43E;&c_g;&c_r;&c_a;&c_f;&c_ib;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.16 2023/08/14 12:43:30
+Dmitri Gabinski: + trd be
+
 Revision 1.13  2018/10/02 18:10:22  revo
 Vito Redsky: +trd pl +trd ro
 

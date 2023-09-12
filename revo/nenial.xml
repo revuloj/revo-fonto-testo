@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: nenial.xml,v 1.13 2006/06/09 16:31:27 revo Exp $">
+<art mrk="$Id: nenial.xml,v 1.23 2023/09/02 12:44:20 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>7</ofc>
   <rad>nenial</rad> <fnt><bib>PV</bib></fnt>
@@ -13,7 +12,7 @@
     <dif>
       Adv. signifanta &leftquot;pro neniu ajn ka&ubreve;zo, motivo&rightquot;:
       <ekz>
-Aldonante la prefikson &leftquot;nen&#8221;, ni ricevas vortojn neajn: nenia, nenial,
+Aldonante la prefikson &leftquot;nen&#x201D;, ni ricevas vortojn neajn: nenia, nenial,
 neniam, nenie, neniel, nenies, nenio, neniom, neniu.
       <fnt><bib>F</bib>, <lok>&FE; 30</lok></fnt>.
       </ekz>
@@ -52,6 +51,7 @@ neniam, nenie, neniel, nenies, nenio, neniom, neniu.
     <trd>semmi&eacute;rt<klr tip="ind"> (semmilyen okb&oacute;l)</klr></trd>,
     <trd>semmilyen okn&aacute;n&aacute;l fogva</trd>
   </trdgrp>
+  <trd lng="ja">&#x3069;&#x3093;&#x306A;&#x308F;&#x3051;&#x3067;&#x3082;&#xFF5E;&#x306A;&#x3044;</trd>
   <trd lng="nl">om geen enkele <ind>reden</ind></trd>
   <trdgrp lng="pl">
     <trd>z &zdot;adnego <ind>powodu</ind></trd>,
@@ -72,6 +72,11 @@ neniam, nenie, neniel, nenies, nenio, neniom, neniu.
   <trdgrp lng="sk">
     <trd>bezd&ocirc;vodne</trd>,
     <trd>pre ni&ccaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x43E; &#x442;&#x430;&#x43A;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x43F;&#x440;&#x438;&#x447;&#x438;&#x43D;&#x43D;&#x43E;</trd>,
+    <trd>&#x431;&#x435;&#x437; &#x436;&#x43E;&#x434;&#x43D;&#x43E;&#x457; &#x43F;&#x440;&#x438;&#x447;&#x438;&#x43D;&#x438;</trd>
   </trdgrp>
 </drv>
 </art>

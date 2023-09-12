@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sxah.xml,v 1.22 2023/09/04 15:14:34 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>&scirc;ah</rad>/o
@@ -18,8 +17,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gerrit Berveling</aut>
-          <vrk><url ref="&Monato;/2003/008061.html"
-              >Usono inter Irano kaj Irako</url></vrk>
+          <vrk><url ref="&Monato;/2003/008061.html">Usono inter Irano kaj Irako</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -45,13 +43,20 @@
   <trd>sci&agrave;</trd>
   <trd>shah</trd>
   </trdgrp>
+  <trd lng="ja">&#x30B7;&#x30E3;&#x30FC;</trd>
   <trd lng="nl">sjah</trd>
+  <trd lng="pl">szach  <klr>(w&lstroke;adca)</klr></trd>
   <trd lng="pt">x&aacute;</trd>
+  <trd lng="ro">padi&#x219;ah</trd>
   <trd lng="ru">&c_sh;&c_a;&c_h;</trd>
+  <trd lng="uk">&#x448;&#x430;&#x445; (&#x442;&#x438;&#x442;&#x443;&#x43B;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2020/06/12 15:10:38
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.18  2019/02/14 21:10:24  revo
 Wolfram Diestel: +ekz
 
@@ -71,8 +76,5 @@ Revision 1.13  2009/03/30 16:30:46  revo
 Wieland Pusch: +trd bg
 
 Revision 1.12  2009/03/28 17:30:57  revo
-Antonio Codazzi: +trd it
-
-Revision 1.11  2002/10/11 16:32:32  revo
 -->
 </vortaro>

@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
-
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: blov.xml,v 1.24 2009/03/18 17:32:08 revo Exp $">
+<art mrk="$Id: blov.xml,v 1.42 2023/08/31 08:48:52 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>blov</rad>/i <fnt><bib>PV</bib></fnt>
@@ -19,22 +17,69 @@
         <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 11a</lok></fnt>;
       </ekz>
       <ekz>
-        <tld/>i sur la varman supon;
+        falis pluvo, kaj <klr>[&#x2026;]</klr> <tld/>is ventoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 7:25</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i sur la fajron por &gcirc;in eksciti;
+        la a&ubreve;tuna vento jam <tld/>is tra la truoj de la tegmento
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Koboldo &ccirc;e la butikisto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i en fluton;
+        la vento <tld/>is en &scirc;ian mantelon, kiu etendi&gcirc;adis &ccirc;iuflanken simile al granda
+        velo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>u per trumpeto inter la nacioj
-        <fnt><bib>MT</bib>, <lok>&Jer; 51:27</lok></fnt>;
+        ili ek<tld/>is per la trumpetoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 7:19</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i per la korno de ribelo<fnt>Z</fnt>.
+        mi <tld/>is sur la ardantajn karbojn, ili prilumis lian krete blankan viza&gcirc;on,
+        kiu de tio iom ru&gcirc;eti&gcirc;is
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la malgranda knabo devis longe <klr>[&#x2026;]</klr> vapor<tld/>i sur la fenestrojn,
+        por ricevi truon, tra kiu li povus rigardi
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova domo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>is al ili en la fa&ubreve;kon tiel, ke ili lernis teni la bekon fermita
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i per la korno de ribelo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="instru2.blov0o">blovinstrumento</ref>,
+       <ref cel="spir.0i">spiri</ref>
+    </refgrp>
     <trdgrp lng="pl">
       <trd>dmucha&cacute;</trd>,
       <trd>d&aogonek;&cacute;</trd>,
@@ -47,22 +92,55 @@
     <dif>
       Pu&scirc;i la aeron sur a&ubreve; en ion:
       <ekz>
-        <tld/>i la supon<fnt>Z</fnt>;
+        <klr>[li]</klr> <tld/>is sian teon, por &gcirc;in iom malvarmigi
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i la teon<fnt>Z</fnt>;
+        la vento <tld/>is la velojn kaj la &scirc;ipo glitis facile
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i trumpeton<fnt>Z</fnt>;
+        <klr>[mi la]</klr> sablon turno<tld/>is alten en formo de grandaj kolonoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <uzo tip="stl">FIG</uzo>
-        tiu espero <tld/>as fre&scirc;an forton en niajn brustojn;
+        &scirc;i re<tld/>as en li la fajron de l&#x2019; ven&gcirc;emo
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        re<tld/>i en iu la fajron de l' ven&gcirc;emo<fnt>Z</fnt>.
+        el<tld/>i
+        <fnt>
+          <bib>Fab3</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        trans<tld/>i
+        <fnt>
+          <bib>Fab3</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve;<tld/>i
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Ccirc;e la plej ekstrema maro</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="ekscit.0i">eksciti</ref>,
+       <ref cel="flam.0igi">flamigi</ref>
+    </refgrp>
     <trdgrp lng="pl">
       <trd>dmucha&cacute;<klr> na co&sacute;, w co&sacute;</klr></trd>,
       <trd>d&aogonek;&cacute;<klr> w co&sacute;</klr></trd>
@@ -74,6 +152,7 @@
     <trd>&c_d;&c_z;&c_mol;&c_m;&c_u;&c_h;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_d;&c_z;&c_ib;&c_m;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF55;&#xF74;&#xF0B;&#xF62;&#xF92;&#xFB1;&#xF42;&#xF0B;</trd>
   <trd lng="br">c'hwezha&ntilde;</trd>
   <trdgrp lng="cs">
     <trd>fouknout</trd>,
@@ -90,7 +169,17 @@
   <trd lng="en">blow</trd>
   <trd lng="es">soplar</trd>
   <trd lng="fr">souffler</trd>
+  <trdgrp lng="he">
+    <trd>&#x5DC;&#x5E0;&#x5E9;&#x5D5;&#x5E3;</trd>,
+    <trd>&#x5DC;&#x5E0;&#x5E9;&#x5D5;&#x5D1;</trd>
+  </trdgrp>
   <trd lng="hu">f&uacute;j</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5439;&#x304F;  [<ind>&#x3075;&#x304F;</ind>]</trd>,
+    <trd>&#x606F;&#x3092;&#x5410;&#x304F;  [<ind>&#x3044;&#x304D;&#x3092;&#x306F;&#x304F;</ind>]</trd>,
+    <trd>&#x5439;&#x304D;&#x9CF4;&#x3089;&#x3059;  [<ind>&#x3075;&#x304D;&#x306A;&#x3089;&#x3059;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ne">&#x91D;&#x91F;&#x915;&#x93E;</trd>
   <trd lng="pt">soprar</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_u;&c_t;&c_mol;</trd>,
@@ -100,6 +189,12 @@
   <trdgrp lng="sk">
     <trd>pref&uacute;ka&tcaron; <klr>(r&uacute;ru)</klr></trd>,
     <trd>tiahnu&tcaron; (o prievane)</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i; <klr>(&c_shch;&#x43E;-&#x43D;.)</klr></trd>,
+    <trd>&c_u;&#x43B;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -115,7 +210,7 @@
           <aut>L. Dilling, trad. E. Hall</aut>,
           <vrk>La Porcio da Glacia&jcirc;o</vrk>,
           <bib>FK</bib>
-        </fnt>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -124,9 +219,14 @@
     <trd>z&aacute;van</trd>
   </trdgrp>
   <trd lng="fr">souffle</trd>
+  <trd lng="he">&#x5DE;&#x5E9;&#x5D1;</trd>
   <trdgrp lng="hu">
     <trd>f&uacute;j&aacute;s</trd>,
     <trd>fuvallat</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x98A8;  [<ind>&#x3075;&#x3046;</ind>]</trd>,
+    <trd>&#x4E00;&#x5439;&#x304D;  [<ind>&#x3072;&#x3068;&#x3075;&#x304D;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>podmuch</trd>,
@@ -137,6 +237,7 @@
   <trd lng="ro">sufla</trd>
   <trd lng="ru">&c_d;&c_u;&c_n;&c_o;&c_v;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">z&aacute;van</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_d;&c_u;&c_v;</trd>
 </drv>
 
 <drv mrk="blov.0ado">
@@ -176,7 +277,13 @@
     <trd>vanut&iacute;</trd>
   </trdgrp>
   <trd lng="fr">souffle</trd>
+  <trd lng="he">&#x5DE;&#x5B7;&#x5E9;&#x5C1;&#x5B8;&#x5D1;</trd>
   <trd lng="hu">f&uacute;v&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5D50;  [<ind>&#x3042;&#x3089;&#x3057;</ind>]</trd>,
+    <trd>&#x9001;&#x98A8;  [<ind>&#x305D;&#x3046;&#x3075;&#x3046;</ind>]</trd>,
+    <trd>&#x5439;&#x594F;  [<ind>&#x3059;&#x3044;&#x305D;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>wicher</trd>
   </trdgrp>
@@ -218,9 +325,15 @@
     <trd>bouff&eacute;e</trd>,
     <trd>exhalaison</trd>
   </trdgrp>
+  <trd lng="he">&#x5DE;&#x5B7;&#x5E9;&#x5C1;&#x5B8;&#x5D1;</trd>
   <trdgrp lng="hu">
     <trd>fuvallat</trd>,
     <trd>fuvalom</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7A7A;&#x6C17;  [<ind>&#x304F;&#x3046;&#x304D;</ind>]</trd>,
+    <trd>&#x306B;&#x304A;&#x3044;</trd>,
+    <trd>&#x606F;  [<ind>&#x305D;&#x304F;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>podmuch</trd>,
@@ -235,15 +348,21 @@
     <dif>
       Speciala ilo por <tld/>i:
       <ekz>
-        li revigligis la fajron per <tld/>ilo.
+        li revigligis la fajron per <tld/>ilo;
+      </ekz>
+      <ekz>
+        la <tld/>ilo bruldifekti&gcirc;is, la plumbo malaperis en la fajro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 6:29</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="prt">
       <ref cel="balg.0o">balgo</ref>
     </refgrp>
   </snc>
-  <trd lng="be">&c_m;&c_je;&c_h; <klr
-  tip="amb">(&c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a;)</klr></trd>
+  <trd lng="be">&c_m;&c_je;&c_h; <klr tip="amb">(&c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a;)</klr></trd>
   <trdgrp lng="br">
     <trd>megin</trd>,
     <trd>c'hwezherez</trd>
@@ -251,11 +370,16 @@
   <trd lng="cs">m&ecaron;ch <klr>(varhan)</klr></trd>
   <trd lng="de">Blasebalg</trd>
   <trd lng="fr">soufflet<klr tip="ind"> (instrument)</klr></trd>
+  <trd lng="he">&#x5DE;&#x5B7;&#x5E4;&#x5BC;&#x5D5;&#x5BC;&#x5D7;&#x5B7;</trd>
   <trd lng="hu">f&uacute;jtat&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3075;&#x3044;&#x3054;</trd>,
+    <trd>&#x9001;&#x98A8;&#x6A5F;  [<ind>&#x305D;&#x3046;&#x3075;&#x3046;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">dmuchawa</trd>
-  <trd lng="ru">&c_m;&c_je;&c_h;&c_i; <klr
-  tip="amb">(&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+  <trd lng="ru">&c_m;&c_je;&c_h;&c_i; <klr tip="amb">(&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
   <trd lng="sk">f&uacute;ka&ccaron; <klr>(n&aacute;stroj)</klr></trd>
+  <trd lng="uk">&#x43A;&#x43E;&c_v;&c_a;&#x43B;&#x44C;&c_s;&#x44C;&#x43A;&c_i;&c_j; &#x43C;&c_ib;&c_h;</trd>
 </drv>
 
 <drv mrk="blov.cxirkaux0i">
@@ -272,6 +396,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">umwehen</trd>
   <trd lng="hu">k&ouml;rbef&uacute;j</trd>  
   <trd lng="pl">owiewa&cacute;</trd>
   <trdgrp lng="ru">
@@ -291,13 +416,20 @@
         <fnt><bib>MT</bib>, <lok>&Psa; 1:4</lok></fnt>;
       </ekz>
       <ekz>
+        <nom>Saul</nom> dis<tld/>igis per trumpeto <klr>(<ref cel="sci.0igi">sciigis</ref>)</klr>
+        tra la tuta lando <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 13:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
         dis<tld/>i la iluziojn de iu.
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_r;&c_a;&c_z;&c_mol;&c_v;&c_je;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_v;&c_je;&c_ja;&c_c;&c_mol;</trd>
   <trd lng="cs">rozfoukat <klr>(od sebe)</klr></trd>
   <trdgrp lng="de">
     <trd>wegblasen</trd>,
@@ -307,13 +439,16 @@
     <trd>souffler <klr tip="ind">(disperser en soufflant)</klr></trd>,
     <trd>dissiper <klr tip="ind">(fig.)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5E0;&#x5E9;&#x5D5;&#x5D1; &#x5D5;&#x5DC;&#x5E4;&#x5D6;&#x5E8;</trd>
   <trd lng="hu">sz&eacute;tf&uacute;j</trd>
+  <trd lng="ja">&#x5439;&#x304D;&#x6563;&#x3089;&#x3059;  [<ind>&#x3075;&#x304D;&#x3061;&#x3089;&#x3059;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>rozwiewa&cacute;</trd>,
     <trd>rozdmuchiwa&cacute;</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_je;&c_ja;&c_t;&c_mol;</trd>
   <trd lng="sk">rozf&uacute;ka&tcaron;</trd>
+  <trd lng="uk">&#x440;&#x43E;&#x437;&#x432;&#x456;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="blov.dis0igxi">
@@ -328,8 +463,7 @@
         &Scirc;iaj densaj brunaj haroj...
         <fnt>
           <aut>V. N. Devjatnin</aut>,
-          <vrk><url
-          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Poezio/velga.html">
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Poezio/velga.html">
           Velga</url></vrk>,
           <lok>[19??]</lok>
         </fnt>.
@@ -348,6 +482,20 @@
   <snc mrk="blov.en0i.KOMUNE">
     <dif>
       <tld lit="B"/>i al la interno de...:
+      <ekz>
+        Li en<tld/>is en lian nazon spiron de vivo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 2:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la diablo en<tld/>is al li spliton en la okulon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         en<tld/>is vento tiel glacia, ke &scirc;ajnis, ke &gcirc;i venas 
         rekte de la suda poluso
@@ -368,15 +516,17 @@
         novan spiriton per elpensado de novaj teknikoj
         <fnt>
           <aut>Nguyen Xuan Thu</aut>,
-          <vrk><url
-          ref="http://www.ipernity.com/blog/xuanautuno32/427884">
+          <vrk><url ref="http://www.ipernity.com/blog/xuanautuno32/427884">
           La vjetnama tradicia silko-pentrarto</url></vrk>,
           <lok>Ipernity, 2012-11-08</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">hinein <ind>blasen</ind></trd>
   <trd lng="fr">insuffler</trd>
+  <trd lng="ja">&#x5439;&#x304D;&#x8FBC;&#x3080;  [<ind>&#x3075;&#x304D;&#x3053;&#x3080;</ind>]</trd>
+  <trd lng="uk">&#x432;&#x434;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="blov.for0i">
@@ -390,7 +540,25 @@
         <fnt><bib>F</bib>, <lok>&FE; 39</lok></fnt>;
       </ekz>
       <ekz>
-        la vento for<tld/>is la nubojn<fnt>Z</fnt>.
+        se la tempo for<tld/>is, ni jam helpi ne povas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la florkronojn <klr>[&#x2026;]</klr> la vento for<tld/>is de la tomboj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;irka&ubreve; la bu&scirc;o ludis infana rideto, mi ne povis &gcirc;in for<tld/>i
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -407,6 +575,7 @@
   <trd lng="fr">souffler <klr tip="ind">(enlever en
   soufflant)</klr></trd>
   <trd lng="hu">elf&uacute;j</trd>
+  <trd lng="ja">&#x5439;&#x304D;&#x3068;&#x3070;&#x3059;  [<ind>&#x3075;&#x304D;&#x3068;&#x3070;&#x3059;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>wydmuchiwa&cacute;</trd>,
     <trd>wywiewa&cacute;</trd>
@@ -415,6 +584,10 @@
   <trdgrp lng="sk">
     <trd>odf&uacute;knu&tcaron;</trd>,
     <trd>odvia&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x432;&#x456;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x433;&#x430;&#x43D;&#x44F;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 
@@ -440,12 +613,14 @@
   </trdgrp>
   <trd lng="fr">courant d'air</trd>
   <trd lng="hu">huzat</trd>
+  <trd lng="ja">&#x98A8;&#x901A;&#x3057;  [<ind>&#x304B;&#x305C;&#x3068;&#x304A;&#x3057;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>przeci&aogonek;g</trd>,
     <trd>przewiew</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_k;&c_v;&c_o;&c_z;&c_n;&c_ja;&c_k;</trd>
   <trd lng="sk">prievan</trd>
+  <trd lng="uk">&#x43F;&#x440;&#x43E;&#x442;&#x44F;&#x433;</trd>
 </drv>
 
 <drv mrk="blov.plen0i">
@@ -455,10 +630,18 @@
     <dif>
       &Scirc;veligi, pufigi per <tld/>o:
       <ekz>
-        plen<tld/>i sapan vezikon;
+        la meleagro plen<tld/>is sin per &ccirc;iuj fortoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        plen<tld/>ita velo<fnt>B</fnt>;
+        iliaj vangoj aspektis multe pli plen<tld/>itaj ol anta&ubreve;e
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova domo</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <ind>plen<tld/>i la lipojn</ind>
@@ -468,7 +651,7 @@
       </ekz>
       <ekz>
         plen<tld/>i sin de malhumileco
-        <fnt><bib>Fab2</bib>, <lok>poligono</lok></fnt>.
+        <fnt><bib>Fab2</bib>, <lok>Poligono</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -487,6 +670,7 @@
   </trdgrp>
   <trd lng="fr">gonfler <klr tip="ind">(tr.)</klr></trd>
   <trd lng="hu">felf&uacute;j</trd>
+  <trd lng="ja">&#x81A8;&#x3089;&#x307E;&#x305B;&#x308B;  [<ind>&#x3075;&#x304F;&#x3089;&#x307E;&#x305B;&#x308B;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>nadmuchiwa&cacute;</trd>,
     <trd>nadyma&cacute;</trd>,
@@ -502,6 +686,7 @@
     <trd>naf&uacute;knu&tcaron;</trd>,
     <trd>plni&tcaron; vzduchom</trd>
   </trdgrp>
+  <trd lng="uk">&#x43D;&#x430;&#x434;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="blov.spir0i">
@@ -511,8 +696,8 @@
     <dif>
       <tld lit="B"/>i elspirante:
       <ekz>
-        la maljuna &ccirc;evalo <klr>...</klr> svingadis la voston,
-        spir<tld/>adis kaj <klr>...</klr> vane penis kuri pli rapide
+        la maljuna &ccirc;evalo <klr>[&#x2026;]</klr> svingadis la voston,
+        spir<tld/>adis kaj <klr>[&#x2026;]</klr> vane penis kuri pli rapide
         <fnt>
           <aut>V. D. Devjatnin</aut>,
           <vrk>Arturo</vrk>,
@@ -530,6 +715,7 @@
     <trd>f&uacute;jtat <klr tip="ind">(nehezen
     l&eacute;legzik)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x606F;&#x3092;&#x5410;&#x304F;  [<ind>&#x3044;&#x304D;&#x3092;&#x306F;&#x304F;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>dmucha&cacute;</trd>,
     <trd>chucha&cacute;</trd>,
@@ -557,24 +743,27 @@
       Eksciti <tld/>ante:
       <ekz>
         <tld/>ekscitante la fajron
-        <fnt><bib>Marta</bib></fnt>
+        <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ib;&c_m;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ib;&c_m;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">c'hwezha&ntilde;<klr tip="ind"> (an tan)</klr></trd>
   <trdgrp lng="cs">
     <trd>rozdm&yacute;chat</trd>,
     <trd>rozfoukat</trd>,
     <trd>vzru&scaron;ovat fouk&aacute;n&iacute;m</trd>
   </trdgrp>
-  <trd lng="de">anfachen</trd>
+  <trdgrp lng="de">
+    <trd>anfachen</trd>,
+    <trd>entfachen</trd>
+  </trdgrp>
   <trd lng="fr">attiser</trd>
   <trdgrp lng="hu">
     <trd>f&uacute;j <klr tip="ind">(t&uuml;zet)</klr></trd>,
     <trd>&eacute;leszt <klr tip="ind">(t&uuml;zet)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x5439;&#x3044;&#x3066;&#x304A;&#x3053;&#x3059;  [<ind>&#x3075;&#x3044;&#x3066;&#x304A;&#x3053;&#x3059;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>rozdmuchiwa&cacute;<klr> (&zdot;ar, ogie&nacute;)</klr></trd>
     <trd>wznieca&cacute;<klr> (ogie&nacute;)</klr></trd>
@@ -586,6 +775,10 @@
   <trdgrp lng="sk">
     <trd>rozf&uacute;ka&tcaron;</trd>,
     <trd>vzru&scaron;ova&tcaron; f&uacute;kan&iacute;m</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_d;&#x43C;&c_u;&c_h;&c_u;&c_v;&c_a;&c_t;&c_i; <klr>(&c_v;&#x43E;&c_g;&#x43E;&#x43D;&#x44C;)</klr></trd>
   </trdgrp>
 </drv>
 
@@ -620,6 +813,7 @@
   <trd lng="fr">souffler <klr tip="ind">(sur qc pour
   l'&eacute;teindre)</klr></trd>
   <trd lng="hu">elf&uacute;j <klr tip="ind">(t&uuml;zet)</klr></trd>
+  <trd lng="ja">&#x5439;&#x304D;&#x6D88;&#x3059;  [<ind>&#x3075;&#x304D;&#x3051;&#x3059;</ind>]</trd>
   <trd lng="pl">zdmuchn&aogonek;&cacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>,
@@ -629,10 +823,17 @@
     <trd>&c_z;&c_a;&c_d;&c_u;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_d;&c_u;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&c_a;&c_d;&#x43C;&c_u;&c_h;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.36 2022/03/14 09:30:39
+Wolfram Diestel: kor. trd
+
+versio 1.31 2021/01/03 14:45:01
+Wolfram Diestel: +ekz-oj
+
 Revision 1.29  2017/08/02 10:10:13  revo
 Jeromo Vasxe: + en-i, -estingi + ekz
 
@@ -649,9 +850,6 @@ Revision 1.25  2015/06/29 16:29:35  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.24  2009/03/18 17:32:08  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.23  2005/06/27 19:22:00  revo
 -->
 
 </vortaro>

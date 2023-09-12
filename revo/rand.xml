@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: rand.xml,v 1.38 2020/02/16 00:10:45 revo Exp $">
+<art mrk="$Id: rand.xml,v 1.43 2023/09/07 07:20:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rand</rad>/o
@@ -91,8 +90,7 @@
       <ekz>
 	<uzo tip="stl">FIG</uzo>
 	trovi&gcirc;i &ccirc;e la <tld/>o
-	<klr>(tute proksime. <ref tip="sin"
-	cel="sojl.0o">sojlo</ref>)</klr>
+	<klr>(tute proksime. <ref tip="sin" cel="sojl.0o">sojlo</ref>)</klr>
 	de senfunda&jcirc;o <klr>(ruino, pereo)</klr>, de la morto;
       </ekz>
       <ekz>
@@ -141,8 +139,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        faru ma&scirc;ojn el blua teksa&jcirc;o sur la <tld/>o de unu tapi&scirc;o, 
-        sur la <tld/>o de la kuni&gcirc;o, kaj tiel same faru sur la <tld/>o 
+        faru ma&scirc;ojn el blua teksa&jcirc;o sur la <tld/>o de unu tapi&scirc;o,
+        sur la <tld/>o de la kuni&gcirc;o, kaj tiel same faru sur la <tld/>o
         de la ekstrema tapi&scirc;o, sur la dua <tld/>o de kuni&gcirc;o
         <fnt>
           <bib>MT</bib>
@@ -184,12 +182,10 @@
         <fnt>
           <aut>Ma&ubreve; Zedong, trad. -</aut>,
           <vrk>Bejdajhe</vrk>,
-          <lok>en: <url
-          ref="http://www.elerno.cn/elibro/poemo_de_mao.pdf">
+          <lok>en: <url ref="http://www.elerno.cn/elibro/poemo_de_mao.pdf">
           Poemoj</url>, 1979</lok>
         </fnt>
-        <klr>(vd <ref
-        cel="horizo.0o.limo">horizonto<sncref/></ref>)</klr>;
+        <klr>(vd <ref cel="horizo.0o.limo">horizonto<sncref/></ref>)</klr>;
         <trd lng="be">&c_g;&c_a;&c_r;&c_y;&c_z;&c_o;&c_n;&c_t;</trd>
         <trd lng="br">dremmwel</trd>
         <trd lng="de">Horizont</trd>
@@ -203,6 +199,7 @@
         </trdgrp>
         <trd lng="it">orizzonte</trd>
         <trd lng="nl">horizon</trd>
+        <trd lng="pl">horyzont</trd>
         <trd lng="pt">horizonte</trd>
         <trd lng="ru">&c_g;&c_o;&c_r;&c_i;&c_z;&c_o;&c_n;&c_t;</trd>
       </ekz>
@@ -247,8 +244,11 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
+      <ref cel="cxirka.0ajxo">&ccirc;irka&ubreve;a&jcirc;o</ref>,
       <ref cel="bord.0o">bordo</ref>,
-      <ref cel="lim.0o">limo</ref>.
+      <ref cel="lim.0o">limo</ref>,
+      <ref cel="margxe.0o">mar&gcirc;eno</ref>,
+      <ref cel="perife.0o">periferio</ref>
     </refgrp>
     <trd lng="ca">vora</trd>
     <trd lng="de">Rand</trd>
@@ -272,11 +272,16 @@
       <trd>kant</trd>
     </trdgrp>
     <trd lng="oc">b&ograve;rd</trd>
+    <trdgrp lng="pl">
+      <trd>kant</trd>,
+      <trd>obrze&zdot;e</trd>,
+      <trd>kraw&eogonek;d&zacute;</trd>
+    </trdgrp>
   <trdgrp lng="pt">
     <trd>borda</trd>,
-    <trd>beira</trd>,	 
-    <trd>margem</trd>,	  
-    <trd>extremidade</trd>,    
+    <trd>beira</trd>,
+    <trd>margem</trd>,
+    <trd>extremidade</trd>,
     <trd>aba</trd>
   </trdgrp>
     <trdgrp lng="ru">
@@ -336,7 +341,7 @@
 	<trd>fronti&egrave;re<klr tip="ind"> (d'une figure)</klr></trd>,
 	<trd>extr&eacute;mit&eacute;<klr tip="ind"> (d'un segment)</klr></trd>
       </trdgrp>
-      <trd lng="hu">hat&aacute;r<klr tip="ind"> (alakzat&eacute;)</klr></trd>      
+      <trd lng="hu">hat&aacute;r<klr tip="ind"> (alakzat&eacute;)</klr></trd>
       <trdgrp lng="pl">
 	<trd>brzeg<klr tip="ind"> (figury)</klr></trd>,
 	<trd>koniec<klr tip="ind"> (odcinka)</klr></trd></trdgrp>
@@ -364,7 +369,7 @@
       <trd lng="en">end<klr tip="ind"> (of an interval)</klr></trd>
       <trd lng="fr">extr&eacute;mit&eacute;<klr tip="ind"> (d'un
       intervalle)</klr></trd>
-      <trd lng="hu">v&eacute;gpont<klr tip="ind"> (intervallum&eacute;)</klr></trd>   
+      <trd lng="hu">v&eacute;gpont<klr tip="ind"> (intervallum&eacute;)</klr></trd>
       <trd lng="pl">koniec<klr tip="ind">
       (przedzia&lstroke;u)</klr></trd>
       <trd lng="ru">&c_k;&c_r;&c_a;&c_j;&c_n;&c_ja;&c_ja; <ind>&c_t;&c_o;&c_ch;&c_k;&c_a;</ind><klr tip="ind">
@@ -389,7 +394,7 @@ arc)</klr></trd>,
 	    <trd>origine<klr tip="ind"> (d'un arc de graphe)</klr></trd>,
 	    <trd>extr&eacute;mit&eacute; initiale</trd>
           </trdgrp>
-	  <trd lng="hu">kezd&odblac;cs&uacute;cs<klr tip="ind"> (gr&aacute;f&eacute;l&eacute;)</klr></trd>   
+	  <trd lng="hu">kezd&odblac;cs&uacute;cs<klr tip="ind"> (gr&aacute;f&eacute;l&eacute;)</klr></trd>
 	  <trd lng="pl">pocz&aogonek;tek<klr tip="ind"> (&lstroke;uku)</klr></trd>
 	  <trdgrp lng="ru">
 	    <trd>&c_n;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_v;&c_je;&c_r;&c_sh;&c_i;&c_n;&c_a;</ind></trd>,
@@ -412,7 +417,7 @@ arc)</klr></trd>
 	    <trd>extr&eacute;mit&eacute;<klr tip="ind"> (d'un arc de graphe)</klr></trd>,
 	    <trd>extr&eacute;mit&eacute; terminale</trd>
           </trdgrp>
-	  <trd lng="hu">v&eacute;gpont<klr tip="ind"> (gr&aacute;f&eacute;l&eacute;)</klr></trd>     
+	  <trd lng="hu">v&eacute;gpont<klr tip="ind"> (gr&aacute;f&eacute;l&eacute;)</klr></trd>
 	  <trd lng="pl">koniec<klr tip="ind"> (&lstroke;uku)</klr></trd>
 	  <trdgrp lng="ru">
 	    <trd>&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_v;&c_je;&c_r;&c_sh;&c_i;&c_n;&c_a;</ind></trd>,
@@ -443,7 +448,7 @@ graphe)</klr></trd>
       <trd lng="de">Integrationsgrenze</trd>
       <trd lng="en">limit<klr tip="ind"> (of integration)</klr></trd>
       <trd lng="fr">borne<klr tip="ind"> (d'int&eacute;gration)</klr></trd>
-      <trd lng="hu">hat&aacute;r<klr tip="ind"> (integr&aacute;l&eacute;)</klr></trd>	 
+      <trd lng="hu">hat&aacute;r<klr tip="ind"> (integr&aacute;l&eacute;)</klr></trd>
       <trd lng="pl">granica<klr tip="ind"> (ca&lstroke;kowania)</klr></trd>
       <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;<klr tip="ind">
 (&c_i;&c_n;&c_t;&c_je;&c_g;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;)</klr></trd>
@@ -456,8 +461,7 @@ graphe)</klr></trd>
     <subsnc mrk="rand.0o.topologio">
       <fnt><bib>MatStokTerm</bib><lok>p. 46</lok></fnt>
       <dif>
-	<klr>(de subaro <frm am="bb A"><g>A</g></frm> en <ref
-	cel="spac.topologia0o">
+	<klr>(de subaro <frm am="bb A"><g>A</g></frm> en <ref cel="spac.topologia0o">
 	topologia spaco</ref>)</klr>
 	Aro de la <ref cel="punkt.0o.spaco">punktoj</ref> en
 	<frm am="bb A"><g>A</g></frm>, kiuj apartenas nek al
@@ -482,8 +486,7 @@ graphe)</klr></trd>
           de topologia spaco
           <frm am="bb X"><g>X</g></frm> estas aro de punktoj kiuj povas
           esti aliritaj
-          amba&ubreve; de <frm am="bb S"><g>S</g></frm> kaj de ekstere de <frm
-          am="bb S"><g>S</g></frm>
+          amba&ubreve; de <frm am="bb S"><g>S</g></frm> kaj de ekstere de <frm am="bb S"><g>S</g></frm>
           <fnt>
             <bib>Viki</bib>
             <lok><url ref="https://eo.wikipedia.org/?curid=248579">Rando
@@ -505,18 +508,33 @@ graphe)</klr></trd>
 	<trd>boundary</trd>
       </trdgrp>
       <trd lng="fr">fronti&egrave;re<klr tip="ind"> (math.)</klr></trd>
-      <trd lng="hu">hat&aacute;r<klr tip="ind"> (matematikai)</klr></trd>	 
+      <trd lng="hu">hat&aacute;r<klr tip="ind"> (matematikai)</klr></trd>
       <trd lng="pl">brzeg<klr tip="ind"> (zbioru)</klr></trd>
       <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;<klr tip="ind"> (&c_m;&c_a;&c_t;.)</klr></trd>
     </subsnc>
   </snc>
+  <trd lng="bo">&t_ma;&t_tha;&t_-a;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>kraj</trd>,
     <trd>okraj</trd>,
     <trd>pokraj</trd>,
     <trd>tex. okolek</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#32257;  [<ind>&#12408;&#12426;</ind>]</trd>,
+    <trd>&#12408;&#12426;</trd>,
+    <trd>&#31471;  [<ind>&#12383;&#12435;</ind>]</trd>,
+    <trd>&#21608;&#36794;  [<ind>&#12375;&#12421;&#12358;&#12408;&#12435;</ind>]</trd>,
+    <trd>&#22659;  [<ind>&#12373;&#12363;&#12356;</ind>]</trd>,
+    <trd>&#12399;&#12378;&#12428;</trd>
+  </trdgrp>
   <trd lng="sk">integra&ccaron;n&aacute; hranica</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_r;&c_a;&c_j;</trd>,
+    <trd>&c_k;&c_ib;&c_n;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_u;&c_g;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_j;&c_k;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rand.0a">
@@ -546,14 +564,17 @@ graphe)</klr></trd>
         kiel <tld/>a fako al hidrologio
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=7844">Meteologio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=7844">Meteologio</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="hu">
       <trd>sz&eacute;ls&odblac;</trd>,
       <trd>hat&aacute;r-</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>skrajny</trd>,
+      <trd>graniasty</trd>
     </trdgrp>
     <trd lng="ru">&c_k;&c_r;&c_a;&c_j;&c_n;&c_i;&c_j;</trd>
   </snc>
@@ -566,8 +587,7 @@ graphe)</klr></trd>
       <ref cel="spac.topologia0o">topologia spaco</ref>,
       rilate al subaro <frm am="bb A"><g>A</g></frm>)</klr>
       Tia, ke &gcirc;i apartenas al la
-      <ref cel="rand.0o.topologio"><tld/>o</ref> de <frm am="bb
-      A"><g>A</g></frm>:
+      <ref cel="rand.0o.topologio"><tld/>o</ref> de <frm am="bb       A"><g>A</g></frm>:
       <ekz>
 	<tld/>a punkto estas
 	<ref cel="intern.0a.punkto">interna punkto</ref> nek de
@@ -596,11 +616,18 @@ graphe)</klr></trd>
     <trd>krajn&iacute;</trd>,
     <trd>okrajov&yacute; <klr>(bod)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#32257;&#12398;  [<ind>&#12360;&#12435;&#12398;</ind>]</trd>,
+    <trd>&#12408;&#12426;&#12398;</trd>,
+    <trd>&#21608;&#36794;&#12398;  [<ind>&#12375;&#12421;&#12358;&#12408;&#12435;&#12398;</ind>]</trd>,
+    <trd>&#22659;&#12398;  [<ind>&#12373;&#12363;&#12356;&#12398;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>hrani&ccaron;n&yacute;</trd>,
     <trd>krajn&yacute;</trd>,
     <trd>okrajov&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&c_k;&c_r;&c_a;&c_j;&c_n;&c_ib;&c_j;</trd>
 </drv>
 
 <drv mrk="rand.0i">
@@ -620,7 +647,7 @@ graphe)</klr></trd>
         </fnt>;
       </ekz>
       <ekz>
-        lia lingva&jcirc;o jam <tld/>as la neeblecon &gcirc;in traduki 
+        lia lingva&jcirc;o jam <tld/>as la neeblecon &gcirc;in traduki
         <fnt>
           <bib>Monato</bib>
           <aut>Geraldo Mattos</aut>
@@ -634,8 +661,7 @@ graphe)</klr></trd>
         praktikoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=23250">Luktosporto</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=23250">Luktosporto</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -670,6 +696,10 @@ graphe)</klr></trd>
     </trdgrp>
   </snc>
   <trd lng="cs">b&yacute;t na kraji</trd>
+  <trdgrp lng="pl">
+    <trd>obramowa&cacute;</trd>,
+    <trd>oblamowa&cacute;</trd>
+  </trdgrp>
   <trd lng="sk">by&tcaron; na okraji</trd>
 </drv>
 
@@ -700,11 +730,82 @@ graphe)</klr></trd>
     <ref tip="vid" cel="margxe.0o">mar&gcirc;eno</ref>
   </snc>
   <trd lng="de">Rand <klr>(von Kleidern usw.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#32257;&#12398;&#37096;&#20998;  [<ind>&#12360;&#12435;&#12398;&#12406;&#12406;&#12435;</ind>]</trd>,
+    <trd>&#32257;&#21462;&#12426;  [<ind>&#12405;&#12385;&#12393;&#12426;</ind>]</trd>,
+    <trd>&#12388;&#12400;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>obw&oacute;dka</trd>,
+    <trd>r&aogonek;bek</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_r;&c_i;&c_s;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_ja; (&c_k;&c_a;&c_p;&c_je;&c_l;&c_ju;&c_h;&c_a;)</trd>,
+    <trd>&c_o;&c_b;&c_l;&c_ja;&c_m;&c_ib;&c_v;&c_k;&c_a;</trd>,
+    <trd>&c_l;&c_i;&c_sh;&c_t;&c_v;&c_a; (&c_o;&c_d;&c_ja;&c_g;&c_u; &c_ib; &c_t;.&c_p;.)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rand.0e_de">
+  <kap>
+    <tld/>e de
+  </kap>
+  <snc>
+    <dif>
+      &Ccirc;e la <tld/>o de:
+      <ekz>
+        la damo sidi&gcirc;is nur <tld/>e de la se&gcirc;o
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        platanoj <klr>[&#8230;]</klr> vice staras <tld/>e de la aleo
+        <fnt>
+          <bib>ChR</bib>
+          <lok>ABZ de murdo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu, kiu vidis tiun vojeton la&ubreve;<tld/>e de la klifo scias, ke de tempo al tempo
+        iu tie falas
+        <fnt>
+          <bib>ChV</bib>
+          <lok>27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Bruselo, Luksemburgo kaj Strasburgo &ndash; situas &ccirc;iuj <tld/>e de la franca
+        kultur-areo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2003/008051.html"
+              >Bruselo-Babelo: lingvo-kulturo en E&ubreve;ropa Unio</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="apud.0ede">apude de</ref>,
+      <ref cel="flank.0o_cxe_0o">flank-&ccirc;e-flanke</ref>,
+      <ref cel="najbar.0ede">najbare de</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">am <ind>Rand</ind> von</trd>
 </drv>
 
 </art>
 <!--
-$Log: rand.xml,v $
+$Log$
+versio 1.43 2023/09/07 07:20:44
+Wolfram Diestel: +ref, +~e de
+
+versio 1.41 2023/05/27 20:25:56
+Vito Redsky: +trd pl
+
 versio 1.38 2020/02/16 00:10:45
 Wolfram Diestel: formuloj per am
 
@@ -720,11 +821,5 @@ ekz-oj manke de vasta uzo
 
 Revision 1.34  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
-
-Revision 1.33  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.32  2014/07/19 01:10:10  revo
-Jeromo Vasxe: + cxiel~o
 -->
 </vortaro>

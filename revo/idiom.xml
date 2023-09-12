@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: idiom.xml,v 1.14 2009/09/26 16:31:38 revo Exp $">
+  <art mrk="$Id: idiom.xml,v 1.20 2023/08/31 16:40:55 revo Exp $">
     <kap>
       <ofc>2</ofc>
       <rad>idiom</rad>/o
@@ -49,20 +48,31 @@
         <trd>idi&oacute;ma</trd>,
         <trd>nyelv</trd>
       </trdgrp>
-      <trdgrp lng="nl">
+      <trd lng="ja">&#x56FA;&#x6709;&#x8A00;&#x8A9E;  [<ind>&#x3053;&#x3086;&#x3046;&#x3052;&#x3093;&#x3054;</ind>]</trd>
+  <trdgrp lng="nl">
         <trd>taaleigen</trd>,
         <trd>idioom</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>idiom</trd>,
+        <trd>narzecze prowincjonalne</trd>
       </trdgrp>
       <trd lng="pt">idioma</trd>
       <trd lng="ru">&c_i;&c_d;&c_i;&c_o;&c_m;</trd>
       <trdgrp lng="sk">
-    <trd>idióm</trd>,
-    <trd>jazykový zvláštnosť</trd>
+    <trd>idi&#xF3;m</trd>,
+    <trd>jazykov&#xFD; zvl&#xE1;&scaron;tnos&tcaron;</trd>
   </trdgrp>
   <trdgrp lng="cs">
     <trd>idiom</trd>,
-    <trd>jazyk. zvláštnost</trd>,
-    <trd>ustálené rčení</trd>
+    <trd>jazyk. zvl&#xE1;&scaron;tnost</trd>,
+    <trd>ust&#xE1;len&#xE9; r&#x10D;en&#xED;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&c_v;&c_a;</trd>,
+    <trd>&c_g;&#x43E;&c_v;&c_ib;&c_r;</trd>,
+    <trd>&c_g;&#x43E;&c_v;&c_ib;&c_r;&#x43A;&c_a;</trd>,
+    <trd>&#x43D;&c_a;&c_r;&c_ib;&c_ch;&c_ch;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -95,17 +105,27 @@
         <trd>idiomatizmus</trd>,
         <trd>nyelvi saj&aacute;toss&aacute;g</trd>
       </trdgrp>
-      <trd lng="nl">idiotisme</trd>
+      <trd lng="ja">&#x6163;&#x7528;&#x8A9E;&#x6CD5;  [<ind>&#x304B;&#x3093;&#x3088;&#x3046;&#x3054;&#x307B;&#x3046;</ind>]</trd>
+  <trd lng="nl">idiotisme</trd>
+      <trd lng="pl">idiomatyczne wyra&zdot;enie</trd>
       <trd lng="pt">express&atilde;o <ind>idiom&aacute;tica</ind></trd>
       <trdgrp lng="ru">
         <trd>&c_i;&c_d;&c_i;&c_o;&c_m;&c_a;</trd>,
         <trd>&c_i;&c_d;&c_i;&c_o;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
         <trd>&c_f;&c_r;&c_a;&c_z;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_z;&c_m;</trd>
       </trdgrp>
-    </drv>
+      <trdgrp lng="uk">
+    <trd>&c_ib;&c_d;&c_ib;&#x43E;&#x43C;&c_a;</trd>,
+    <trd>&c_ib;&c_d;&c_ib;&#x43E;&#x43C;</trd>,
+    <trd>&c_ib;&c_d;&c_ib;&#x43E;&#x43C;&c_a;&c_t;&c_i;&c_z;&#x43C;</trd>
+  </trdgrp>
+</drv>
   </art>
   <!--
   $Log$
+versio 1.19 2023/06/01 23:26:50
+Vito Redsky: +trd pl 
+
   Revision 1.16  2015/06/29 16:33:15  revo
   aldono de trd sk per skripto de M. von Laer
 
@@ -125,23 +145,5 @@
   Jozefo Horvath: +trd hu
 
   Revision 1.10  2003/03/28 17:31:32  revo
-  Sergio Pokrovskij: dif
-
-  Revision 1.9  2003/01/02 17:52:45  revo
-  Alejandro Mejia Greene: ald 1 his trd
-
-  Revision 1.8  2002/01/23 17:32:56  revo
-  Marc Bavant: +trd fr; ~o: kor dif (El), kor ekz (LA Centreuxropo), kor
-  ref tip sin; ~ajxo: +uzo LIN
-
-  Revision 1.7 2001/11/07 19:19:20 revo
-  Paul Peeraerts: ald trd nl
-
-  Revision 1.6 2001/08/31 18:15:49 revo
-  Ulrich Fellmann: + 4 germ trdj
-
-  Revision 1.5 2001/05/31 18:11:51 revo
-  Yury Finkel: +trd ru
-
-  -->
+-->
 </vortaro>

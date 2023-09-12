@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: koloid.xml,v 1.12 2007/07/22 16:30:47 revo Exp $">
+<art mrk="$Id: koloid.xml,v 1.18 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <rad>koloid</rad>/o
 </kap>
@@ -12,10 +11,14 @@
   <uzo tip="fak">KEM</uzo>
   <snc>
     <dif>
-      Nomo de likva substanco, kiu tre malfacile trairas organajn
-      membranojn:
-      <ekz>la gumoj, albumino, gelateno, kolodio.</ekz>
+      <ref tip="super" cel="miks.0ajxo">Miksa&jcirc;o</ref> de eretoj a&ubreve; gutetoj 
+      dispersitaj en alia substanco (gaso, likva&jcirc;o, solida&jcirc;o):
+      <ekz>
+        gumoj, albumino, gelateno, kolodio
+        estas <tld/>oj.
+      </ekz>
     </dif>
+    <ref tip="sin" cel="disper.0ajxo.KEM">dispersa&jcirc;o</ref>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_l;&c_jo;&c_ib;&c_d;</trd>
   <trdgrp lng="cs">
@@ -26,12 +29,17 @@
   <trd lng="en">colloid</trd>
   <trd lng="es">coloide</trd>
   <trd lng="fr">collo&iuml;de</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B3;&#x30ED;&#x30A4;&#x30C9;</trd>,
+    <trd>&#x81A0;&#x8CEA;  [<ind>&#x3053;&#x3046;&#x3057;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">collo&iuml;de</trd>
   <trd lng="pl">koloid</trd>     
   <trd lng="pt">col&oacute;ide</trd>
   <trd lng="ro">coloid</trd>
   <trd lng="ru">&c_k;&c_o;&c_l;&c_l;&c_o;&c_i;&c_d;</trd>
   <trd lng="sk">koloid</trd>
+  <trd lng="uk">&c_k;&c_o;&c_l;&c_o;&c_ji;&c_d;</trd>
 </drv>
 
 <drv mrk="koloid.0a">
@@ -39,7 +47,24 @@
   <snc>
     <dif>
       Havanta la proprecon de <tld/>o:
-      <ekz><tld/>a elektrolito, &hcirc;emio, muelilo.</ekz>
+      <ekz>
+        <tld/>a elektrolito, &hcirc;emio, muelilo;
+      </ekz>
+      <ekz>
+        &ccirc;ina inko estas <tld/>a solva&jcirc;o de grafito kaj fulgoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=46676">Grafito</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        albumino estas la &ccirc;efa proteino en plasmo, kaj &gcirc;i funkcias por reguligi la
+        <tld/>an osmozan premon de la sango
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=16617">Sango</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_l;&c_jo;&c_ib;&c_d;&c_n;&c_y;</trd>
@@ -50,6 +75,7 @@
   <trd lng="de">kolloidal</trd>
   <trd lng="es">coloidal</trd>
   <trd lng="fr">collo&iuml;dal</trd>
+  <trd lng="ja">&#x30B3;&#x30ED;&#x30A4;&#x30C9;&#x72B6;&#x306E;  [<ind>&#x30B3;&#x30ED;&#x30A4;&#x30C9;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>
   <trd lng="nl">collo&iuml;daal</trd>
   <trd lng="pl">koloidowy</trd> 
   <trd lng="ru">&c_k;&c_o;&c_l;&c_l;&c_o;&c_i;&c_d;&c_n;&c_y;&c_j;</trd>
@@ -57,6 +83,9 @@
 </art>
 <!--
 $Log$
+versio 1.17 2023/05/04 17:25:00
+Wolfram Diestel: +ekz, ref-oj
+
 Revision 1.14  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: paf.xml,v 1.157 2023/09/03 12:45:03 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>paf</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -13,16 +12,35 @@
   <snc mrk="paf.0i.KOMUNE">
     <dif>
       <ref tip="super" cel="jxet.0i.tra_aero">&Jcirc;eti</ref>
-      a&jcirc;on tre
-      rapide al iu celo a&ubreve; direkto:
+      a&jcirc;on tre rapide al iu celo a&ubreve; direkto:
       <ekz>
-        <tld/>i &scirc;tonon per &scirc;ton&jcirc;etilo;
+        mi <tld/>is sagon en la aeron
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        senpa&ubreve;ze fulmoj <tld/>is, tondroj bruis
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Urbo de Imperiestroj</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        francino, <tld/>ante per la ridantaj okuloj
+        &ccirc;u vere, <klr>[ili]</klr> <tld/>as <klr>(lan&ccirc;igas, startas)</klr> tiom
+        multajn kosmoraketojn al la Luno
         <fnt>
-          <bib>Marta</bib>
+          <bib>SatirRak</bib>
+          <lok>Enciclopeditis</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        mi blinde <tld/>os, eble trafos
+        <fnt>
+          <bib>PrV</bib>
         </fnt>;
       </ekz>
       <ekz>
@@ -41,24 +59,6 @@
           <tld/>i kuglon per karabeno, obuson per kanono;
         </ekz>
         <ekz>
-          li <tld/>&jcirc;etis la
-          sagon<fnt><bib>MT</bib><lok>&Sa1;
-          20:36</lok></fnt>;
-        </ekz>
-        <ekz>
-          hodia&ubreve; vi <tld/>os vian prov<tld/>on, por ke mi povu proklami vin &ccirc;asistoj
-          <fnt>
-            <bib>ElektFab</bib>
-            <lok>Du fratoj</lok>
-          </fnt>;
-        </ekz>
-        <ekz>
-          mi blinde <tld/>os, eble trafos
-          <fnt>
-            <bib>PrV</bib>
-          </fnt>;
-        </ekz>
-        <ekz>
           mi <tld/>os preter &gcirc;in tri sagojn, kvaza&ubreve; <tld/>ante al celo
           <fnt>
             <bib>MT</bib>
@@ -66,10 +66,82 @@
           </fnt>;
         </ekz>
         <ekz>
-          <tld/>i birdon, al birdo;
+          li <tld/>&jcirc;etis la sagon
+          <fnt><bib>MT</bib><lok>&Sa1; 20:36</lok></fnt>;
         </ekz>
         <ekz>
-          <tld/>i kontra&ubreve; iu;
+          la re&gcirc;a filo <klr>[&#x2026;]</klr> <tld/>is, sed maltrafis la vulpon
+          <fnt>
+            <bib>ElektFab</bib>
+            <lok>La ora birdo</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          hodia&ubreve; vi <tld/>os vian prov<tld/>on, por ke mi povu proklami
+          vin &ccirc;asistoj
+          <fnt>
+            <bib>ElektFab</bib>
+            <lok>Du fratoj</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>u, mi ne timas viajn kuglojn
+          <fnt>
+            <bib>ElektFab</bib>
+            <lok>Du fratoj</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          mi &gcirc;uste en tiu tago ne el<tld/>is ankora&ubreve; e&ccirc; unu karto&ccirc;on
+          <fnt>
+            <bib>Rabistoj</bib>
+            <lok>Akto Dua</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          mi min <tld/>os, min <tld/>os! &dash; li diris
+          <fnt>
+            <bib>Revizoro</bib>
+            <lok>Akto kvina</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la soldatoj de la galeroj <tld/>is per multnombra artilerio
+          <fnt>
+            <bib>DKM</bib>
+            <lok>&Ccirc;apitro LXI</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          en tiu momento mi vere volonte tuj <tld/>us pugnon al li
+          <fnt>
+            <bib>Mortul&Scirc;ip</bib>
+            <lok>&Ccirc;apitro 3</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          mi <tld/>us boton mezen de iliaj grimaciloj
+          <fnt>
+            <bib>Mortul&Scirc;ip</bib>
+            <lok>&Ccirc;apitro 7</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          esperantistoj kuris, &jcirc;etis kaj <tld/>is &gcirc;is plena el&ccirc;erpi&gcirc;o en la akvobatalo
+          organizita de la Verdaj skoltoj
+          <fnt>
+            <bib>Kon11</bib>
+            <lok>June kaj kune en Badajoz</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <tld/>i birdon<fnt>
+            <bib>Rob</bib>
+            <lok>Parto I</lok>
+          </fnt>, al birdo;
+        </ekz>
+        <ekz>
+          <tld/>i kontra&ubreve;, sur iu;
         </ekz>
         <ekz>
           <uzo tip="stl">FIG</uzo>
@@ -78,7 +150,54 @@
           <fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
-      <trd lng="pl">strzela&cacute;</trd>
+      <refgrp tip="vid">
+        <ref cel="cel.0i">celi</ref>,
+        <ref cel="paf.for0i">forpafi</ref>,
+        <ref cel="traf.0i">trafi</ref>
+      </refgrp>
+      <trdgrp lng="de">
+        <trd>abfeuern</trd>,
+        <trd>feuern</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="paf.0i.auxdigi">
+      <dif>
+        Eksplodigi la &scirc;argon de pulvo<tld/>ilo (t.e. <tld/>i en la aeron, eventuale sen pafa&jcirc;o,
+        per lummunicio ks) por <ref cel="avert.0i.pridangxero">averti</ref>, <ref cel="salut.0i.MOR">saluti</ref>,
+        <ref cel="honor.0i">honori</ref>:
+        <ekz>
+          en malproksimo li vidis &scirc;ipojn, kiuj alarme <tld/>is
+          <fnt>
+            <bib>ElektFab</bib>
+            <lok>Fi&scirc;kaptisto kaj lia edzino</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la grafo <tld/>is el la kale&scirc;o en la aeron, la rajdantoj forkuris
+          <fnt>
+            <bib>Rabistoj</bib>
+            <lok>Akto Dua</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          floraj girlandoj ornamis la stratojn, la knabaro <tld/>is petardojn
+          <fnt>
+            <bib>KPr</bib>
+            <lok>&Ccirc;apitro Dekunua</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la &scirc;ipeto <tld/>is la haltsignalon
+          <fnt>
+            <bib>Mortul&Scirc;ip</bib>
+            <lok>&Ccirc;apitro 41</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="alarm.0i">alarmi</ref>,
+        <ref cel="signal.0i">signali</ref>
+      </refgrp>
     </subsnc>
     <subsnc mrk="paf.0i.SPO">
       <uzo tip="fak">SPO</uzo>
@@ -91,19 +210,98 @@
             <aut>-</aut>,
             <vrk><url ref="http://www.esperanto.ch/komentoj/sxercoj.html">komentoj</url></vrk>,
             <lok>2006</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          per prembutono oni liberigas la risorton, kaj la falombrelo estas &jcirc;etata supren en la
+          aeron,
+          <klr>[&#x2026;]</klr> rava ludilo <klr>[&#x2026;]</klr> necesis nur <tld/>i unu en la aeron, kaj
+          la homoj a&ccirc;etis
+          <fnt>
+            <bib>KrM</bib>
+            <lok>23. Kasteloj En Aero.</lok>
           </fnt>.
         </ekz>
       </dif>
-      <trd lng="pl">strzela&cacute;</trd>
+      <refgrp tip="vid">
+        <ref cel="frap.0i.SPO">frapi<sncref/></ref>,
+        <ref cel="bat.pied0i">piedbati</ref>,
+        <ref cel="sxot.0i">&scirc;oti</ref>
+      </refgrp>
     </subsnc>
+  </snc>
+  <snc mrk="paf.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Forte <ref tip="super" cel="jxet.0i.agon">&jcirc;eti<sncref/></ref> rigardon,
+      vortojn por averti, timigi, silentigi, sondi ks:
+      <ekz>
+        se la favoritino estus povinta vidi la viperan rigardon, kiun al &scirc;i <tld/>is &scirc;ia
+        konkurantino
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la junulo <tld/>is al sia kunulino tiel pasian rigardon, ke fra&ubreve;lino Kolardo
+        sentis sin profunde konfuzita
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;male, filo&rightquot;, la pastro kontra&ubreve;<tld/>is
+        <fnt>
+          <bib>ChB</bib>
+          <lok>10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia lango ma&scirc;in<tld/>is elokventon je apena&ubreve; sekvebla kadenco
+        <fnt>
+          <bib>ChB</bib>
+          <lok>10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>is la lastan demandon, kiu eblis: &leftquot;kian monon vi pagas?&rightquot;
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        francino, <tld/>ante per la ridantaj okuloj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        blondaj, brunaj, flavru&gcirc;aj, por &ccirc;iuj gustoj, kuris <klr>[&#x2026;]</klr> kaj
+        okul<tld/>is
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Neniam Plu!</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;iaj belaj okuloj <tld/>is al la fremdulo rigardon tiel borantan, ke &gcirc;i &scirc;ajnis
+        fosonta lian cerbon tra la kranio
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Sepa</lok>
+        </fnt>.
+      </ekz>
+    </dif>
     <refgrp tip="vid">
-      <ref cel="cel.0i">celi</ref>,
-      <ref cel="for.0pafi">forpafi</ref>,
-      <ref cel="traf.0i">trafi</ref>
+      <ref cel="okul.0i">okuli</ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_l;&c_ja;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_s;&c_t;&c_r;&c_je;&c_l;&c_ja;&c_m;</trd>
+  <trd lng="bo">&t_ma;&t_da;&t_-a;&t_tsheg;&t_ra;&t_gata;&t_yata;&t_ga;&t_tsheg;</trd>
   <trdgrp lng="ca">
     <trd>llan&ccedil;ar</trd>,
     <trd>disparar</trd>
@@ -121,12 +319,21 @@
   <trd lng="he">&lamed;&yod;&resh;&vav;&tav;
   \<ind>&yod;&resh;&he;</ind>\</trd>
   <trd lng="hu">l&odblac;</trd>
-  <trd lng="id">[<ind>tembak</ind>] menembak</trd>
+  <trd lng="id"><baz>tembak</baz>menembak</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6483;&#x3064;  [<ind>&#x3046;&#x3064;</ind>]</trd>,
+    <trd>&#x5C04;&#x308B;  [<ind>&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x5C04;&#x6483;&#x3059;&#x308B;  [<ind>&#x3057;&#x3083;&#x3052;&#x304D;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5C04;&#x51FA;&#x3059;&#x308B;  [<ind>&#x3044;&#x3067;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x767A;&#x5C04;&#x3059;&#x308B;  [<ind>&#x306F;&#x3063;&#x3057;&#x3083;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">schieten</trd>
   <trd lng="no">skyte</trd>
+  <trd lng="pl">strzela&cacute;</trd>
   <trdgrp lng="pt">
     <trd>atirar</trd>
   </trdgrp>
+  <trd lng="ro">trage</trd>
   <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>streli&tcaron;</trd>,
@@ -134,6 +341,7 @@
     <trd>zastreli&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">skjuta</trd>
+  <trd lng="uk">&c_s;&c_t;&c_r;&c_ib;&c_l;&c_ja;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="paf.0">
@@ -145,7 +353,20 @@
       de <tld/>o, de eksplodo, de frakaso:
       <ekz>
         la oficiro ekcelas la trian fojon &mdash; <tld/>! li trafis
-        <fnt><bib>FK</bib></fnt>.
+        <fnt><bib>FK</bib></fnt>;
+      </ekz>
+      <ekz>
+        pif, <tld/>! eksonis subite krakoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malbela anasido</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas tute simple: <tld/> el &ccirc;as<tld/>ilo kaj la fino
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>!
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -161,15 +382,17 @@
     <trd>pum!</trd>
   </trdgrp>
   <trd lng="de">Peng!</trd>
+  <trd lng="en">bang<klr> (shooting sound)</klr></trd>
   <trdgrp lng="fr">
     <trd>boum !</trd>,
     <trd>paf !</trd>
   </trdgrp>
-  <trd lng="id">dor!</trd>
+  <trd lng="id"><ind>dor</ind>!</trd>
   <trdgrp lng="pl">
     <trd>pif! paf!</trd>,
     <trd>paf!</trd>
   </trdgrp>
+  <trd lng="ro">PIF! Paf! paf! paf!</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_i;&c_f;!</trd>,
     <trd>&c_p;&c_a;&c_f;!</trd>,
@@ -242,12 +465,19 @@
   <trd lng="he">&yod;&resh;&yod;&yod;&he;</trd>
   <trd lng="hu">l&oacute;v&eacute;s</trd>
   <trd lng="id"><ind>tembak</ind>an</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C04;&#x6483;  [<ind>&#x3057;&#x3083;&#x3052;&#x304D;</ind>]</trd>,
+    <trd>&#x5C04;&#x51FA;  [<ind>&#x3057;&#x3083;&#x3057;&#x3085;&#x3064;</ind>]</trd>,
+    <trd>&#x767A;&#x5C04;  [<ind>&#x306F;&#x3063;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">schot</trd>
   <trd lng="no">skudd</trd>
   <trd lng="pl">strza&lstroke;</trd>
+  <trd lng="ro">&#x219;ut</trd>
   <trd lng="ru">&c_v;&c_y;&c_s;&c_t;&c_r;&c_je;&c_l;</trd>
   <trd lng="sk">stre&lcaron;ba</trd>
   <trd lng="sv">skott</trd>
+  <trd lng="uk">&c_z; &c_p;&c_je;&c_r;&c_sh;&c_o;&c_g;&c_o; &c_p;&c_o;&c_s;&c_t;&c_r;&c_ib;&c_l;&c_u;</trd>
 </drv>
 
 <drv mrk="paf.0ado">
@@ -262,15 +492,16 @@
         <fnt><bib>F</bib>, <lok>Ekzercaro, &para;40</lok></fnt>;
       </ekz>
       <ekz>
-        la afero fini&gcirc;is, kiel la <tld/>ado &ccirc;e Hornbergo, kaj ili devis foriri kun longa
-        nazo
+        la afero fini&gcirc;is, kiel <ind>la <tld/>ado &ccirc;e Hornbergo</ind>, kaj ili devis
+        foriri kun longa nazo
         <fnt>
           <bib>Rabistoj</bib>
           <lok>Akto Unua</lok>
         </fnt>;
+        <trd lng="de">das <ind>Hornberg</ind>er Schie&szlig;en</trd>
       </ekz>
       <ekz>
-        kia <tld/>aro! <klr>[&#8230;]</klr> unu &mdash; du &mdash; tri
+        kia <tld/>aro! <klr>[&#x2026;]</klr> unu &mdash; du &mdash; tri
         <fnt>
           <bib>BdV</bib>
         </fnt>;
@@ -309,6 +540,11 @@
   <trd lng="he">&yod;&resh;&yod;</trd>
   <trd lng="hu">l&ouml;v&ouml;ld&ouml;z&eacute;s</trd>
   <trd lng="id">salvo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C04;&#x6483;  [<ind>&#x3057;&#x3083;&#x3052;&#x304D;</ind>]</trd>,
+    <trd>&#x9283;&#x6483;  [<ind>&#x3058;&#x3085;&#x3046;&#x3052;&#x304D;</ind>]</trd>,
+    <trd>&#x5C04;&#x6483;&#x7AF6;&#x6280;  [<ind>&#x3057;&#x3083;&#x3052;&#x304D;&#x304D;&#x3087;&#x3046;&#x304E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">salvo</trd>
   <trd lng="no">salve</trd>
   <trdgrp lng="pl">
@@ -316,12 +552,22 @@
     <trd>palba</trd>,
     <trd>kanonada</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>salv&abreve;</trd>,
+    <trd>foc</trd>,
+    <trd>canonad&abreve;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_b;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_l;&c_p;</trd>
   </trdgrp>
   <trd lng="sk">salva</trd>
   <trd lng="sv">skutande</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_r;&c_ib;&c_l;&c_mol;&c_b;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_ib;&c_l;&c_ja;&c_n;&c_n;&c_ja;</trd>,
+    <trd><klr>(&c_b;&c_je;&c_z;&c_p;&c_je;&c_r;&c_je;&c_r;&c_v;&c_n;&c_a; &c_ib; &c_b;&c_je;&c_z;&c_l;&c_a;&c_d;&c_n;&c_a; &c_shch;&c_je;)</klr> &c_s;&c_t;&c_r;&c_ib;&c_l;&c_ja;&c_n;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="paf.0ajxo">
@@ -329,16 +575,31 @@
   <snc mrk="paf.0ajxo.ARM">
     <dif>
       &Ccirc;io ajn, kion oni <tld/>as per <tld/>ilo:
-      <ekz>la <tld/>a&jcirc;o eksplode atingis la celon
-       <fnt>
+      <ekz>
+        fajfado de la plumfinitaj <tld/>a&jcirc;oj miksis sin kun hurlado de la bestoj
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+       la <tld/>a&jcirc;o eksplode atingis la celon
+        <fnt>
          <aut>E. Rice Borroughs, trad. K. R. C. Sturmer</aut>
          <vrk>Princino de Marso</vrk>
          <lok>1938</lok>
-       </fnt>;
+        </fnt>;
       </ekz>
-      <ekz>la lastan <tld/>a&jcirc;on mi el<tld/>is, kiel vi scias, al
-      la
-      korniko
+      <ekz>
+        trovi&gcirc;is <klr>[&#x2026;]</klr> tri sakoj da <tld/>a&jcirc;o, kiuj estas granda akiro
+        <fnt>
+          <bib>Rob</bib>
+          <lok>Parto IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lastan <tld/>a&jcirc;on mi el<tld/>is, kiel vi scias, al
+        la korniko
         <fnt>
           <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K.
           Proch&aacute;zka</aut>
@@ -351,18 +612,24 @@
       <ref cel="kugl.0o">kuglo</ref>,
       <ref cel="obus.0o">obuso</ref>,
       <ref cel="sag.0o">sago</ref>,
-      <ref cel="sxton.0o">&scirc;tono</ref>.
+      <ref cel="sxton.0o">&scirc;tono</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="munici.0o">municio</ref>,
+      <ref cel="sxarg.0o.pafilo">&scirc;argo<sncref/></ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_n;&c_a;&c_r;&c_a;&c_d;</trd>
   <trd lng="bg">&c_s;&c_n;&c_a;&c_r;&c_ja;&c_d;</trd>
   <trd lng="ca">projectil</trd>
+  <trdgrp lng="en">
+    <trd>projectile</trd>,
+    <trd>ammunition</trd>
+  </trdgrp>
   <trd lng="fr">projectile</trd>
   <trdgrp lng="de">
-    <trd>Gescho&szlig;</trd>,
-    <trd>Projektil</trd>,
-    <trd>Munition</trd>,
-    <trd>Ladung <klr>(Gewehr)</klr></trd>
+    <trd>Geschoss</trd>,
+    <trd>Projektil</trd>
   </trdgrp>
   <trdgrp lng="he">
     <trd>&qof;&lamed;&yod;&ayin;</trd>,
@@ -370,12 +637,24 @@
   </trdgrp>
   <trd lng="hu">l&ouml;ved&eacute;k</trd>
   <trd lng="id">proyektil</trd>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x5C04;&#x7269;  [<ind>&#x306F;&#x3063;&#x3057;&#x3083;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x5F3E;&#x4E38;  [<ind>&#x3060;&#x3093;&#x304C;&#x3093;</ind>]</trd>,
+    <trd>&#x7832;&#x5F3E;  [<ind>&#x307B;&#x3046;&#x3060;&#x3093;</ind>]</trd>,
+    <trd>&#x77E2;  [<ind>&#x3084;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">projectiel</trd>
   <trd lng="pl">pocisk</trd>
+  <trd lng="ro">proiectil</trd>
   <trd lng="ru">&c_s;&c_n;&c_a;&c_r;&c_ja;&c_d;</trd>
   <trdgrp lng="sv">
     <trd>skott</trd>,
     <trd>projektil</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_n;&c_a;&c_r;&c_ja;&c_d;</trd>,
+    <trd>&c_k;&c_u;&c_l;&c_ja;</trd>,
+    <trd>&c_ja;&c_d;&c_r;&c_o;</trd>
   </trdgrp>
 </drv>
 
@@ -383,7 +662,7 @@
   <kap><tld/>ejo</kap>
   <snc mrk="paf.0ejo.ARM">
     <dif>
-      Loko, kie oni sin ekzercas <tld/>adon:
+      Loko, kie oni sin ekzercas pri <tld/>ado:
       <ekz>
         la <tld/>ejo finis oriente per kruta muro
         <fnt>
@@ -399,6 +678,13 @@
           <vrk>La aventuroj de la brava soldato &Scirc;vejk dum la
           mondmilito</vrk>
           <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        atinginte la <tld/>ejon, <nom>Alice</nom> eni&gcirc;as la vicon kaj sub aprobaj ekkrioj de la
+        &ccirc;eestantoj trabatas per &scirc;rotero &ccirc;apon de blankgvardiano
+        <fnt>
+          <bib>Metrop</bib>
         </fnt>.
       </ekz>
     </dif>
@@ -418,13 +704,19 @@
   <trd lng="fr">stand de tir</trd>
   <trd lng="he">&mem;&tet;&vav;&vav;&het;</trd>
   <trd lng="hu">l&odblac;t&eacute;r</trd>
+  <trd lng="ja">&#x5C04;&#x6483;&#x5834;  [<ind>&#x3057;&#x3083;&#x3052;&#x304D;&#x3058;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="nl">schietstand</trd>
   <trd lng="pl">strzelnica</trd>
+  <trd lng="ro">poligon de tragere</trd>
   <trd lng="ru">&c_t;&c_i;&c_r;</trd>
   <trd lng="sk">strelnica</trd>
   <trdgrp lng="sv">
     <trd>skjutf&auml;lt</trd>,
     <trd>skjutbana</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_i;&c_r;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_ib;&c_l;&c_mol;&c_b;&c_i;&c_shch;&c_je;</trd>
   </trdgrp>
 </drv>
 
@@ -444,19 +736,38 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        docento de botaniko, kiu, dum klasekskurso en arbaro, ekmalaperas kaj trovi&gcirc;as
-        morta pro <tld/>i&gcirc;o
+        kiel vaporo la du vizitintoj <tld/>is sin for el la lo&gcirc;ejo tiel mistere kaj
+        senspure, kiel ili envenis
         <fnt>
-          <bib>Monato</bib>
-          <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.be/2007/009132.php">Nova krimromano el A&ubreve;stralio</url></vrk>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 9</lok>
         </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="for.0pafigxi">forpafi&gcirc;i, forpafi sin</ref>,
+      <ref cel="paf.for0igxi">forpafi&gcirc;i, forpafi sin</ref>,
+      <ref cel="fuz.0i">fuzi</ref>
     </refgrp>
   </snc>
+  <snc mrk="paf.0igxi.morte">
+    <dif>
+      Morti per (propra) <tld/>o:
+      <ekz>
+        docento de botaniko, kiu, dum klasekskurso en arbaro,
+        ekmalaperas kaj trovi&gcirc;as morta pro <tld/>i&gcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2007/009132.php">Nova
+          krimromano el A&ubreve;stralio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_r;&c_e;&c_l;&c_ib;&c_c;&c_mol; &c_u; &c_s;&c_ja;&c_b;&c_je;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_r;&c_e;&c_l;&c_ib;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="bg">&c_i;&c_z;&c_s;&c_t;&c_r;&c_je;&c_l;&c_v;&c_a;&c_m;
   &c_s;&c_je;</trd>
   <trdgrp lng="cs">
@@ -465,7 +776,17 @@
     <trd>vyst&rcaron;elit</trd>,
     <trd>zast&rcaron;elit</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>shoot</trd>,
+    <trd>get shot</trd>
+  </trdgrp>
   <trd lng="fr">se <ind>propulser</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x98DB;&#x3073;&#x51FA;&#x3059;  [<ind>&#x3068;&#x3073;&#x3060;&#x3059;</ind>]</trd>,
+    <trd>&#x7A81;&#x9032;&#x3059;&#x308B;  [<ind>&#x3068;&#x3063;&#x3057;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">zastrzeli&cacute; si&eogonek;</trd>
+  <trd lng="ro">s&abreve; te  <ind>&icirc;mpu&#x219;ti</ind></trd>
   <trdgrp lng="sk">
     <trd>streli&tcaron;</trd>,
     <trd>vystreli&tcaron;</trd>,
@@ -475,8 +796,8 @@
 
 <drv mrk="paf.0ilo">
   <kap><ofc>*</ofc><tld/>ilo
-  <fnt><bib>F</bib>, <lok>Universala Vortaro, 
-      <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5136">paf'il'</url></lok></fnt>
+  <fnt><bib>F</bib>, <lok>Universala Vortaro,
+      <url ref="&AdE;/fundamento/universala_vortaro.html#av-5136">paf'il'</url></lok></fnt>
   </kap>
   <snc mrk="paf.0ilo.ARM">
     <dif>
@@ -514,10 +835,12 @@
     <trd lng="es">arma de fuego</trd>
     <trd lng="fr">arme lance-projectiles</trd>
     <trd lng="he">&kaf;&lamed;&yod;-&nun;&shin;&qof;</trd>
+    <trd lng="hu">l&odblac;fegyver</trd>
     <trd lng="id">pistol</trd>
     <trd lng="nl">vuurwapen</trd>
     <trd lng="no">gev&aelig;r</trd>
-    <trd lng="hu">l&odblac;fegyver</trd>
+    <trd lng="pl">bro&nacute; palna</trd>
+    <trd lng="ro">arm&abreve; de foc</trd>
     <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_k;&c_o;&c_v;&c_o;&c_je;
     <ind>&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</ind></trd>
     <trd lng="sv">skjutvapen</trd>
@@ -536,7 +859,8 @@
     <dif>
       <ref tip="dif" cel="fusil.0o">Fusilo</ref>:
       <ekz>
-        Adolfo kaj Jono pafis per la <tld/>arkoj super la tombon, &ccirc;ar ili ne havis
+        Adolfo kaj Jono pafis per la <tld/>arkoj super la tombon, &ccirc;ar
+        ili ne havis
         <tld/>ilojn a&ubreve; kanonojn
         <fnt>
           <bib>Fab1</bib>
@@ -558,7 +882,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        pli vere kuglo rekuros en la tubon de la <tld/>ilo kaj dancos en la interna&jcirc;o de
+        pli vere kuglo rekuros en la tubon de la <tld/>ilo kaj dancos en
+        la interna&jcirc;o de
         sia pafanto
         <fnt>
           <bib>Rabistoj</bib>
@@ -568,7 +893,7 @@
     </dif>
     <refgrp tip="prt">
         <ref cel="cel.0ilo">celilo</ref>,
-        <ref cel="cel.0grajno">celgrajno</ref>,
+        <ref cel="grajn.cel0o.pafila">celgrajno</ref>,
         <ref cel="cxan.0o">&ccirc;ano</ref>,
         <ref cel="kolb.0o">kolbo</ref>
     </refgrp>
@@ -587,19 +912,89 @@
       <aut>MB</aut>
     </adm>
   </snc>
+  <trd lng="af">geweer</trd>
+  <trd lng="am">&#x123D;&#x1309;&#x1325;</trd>
+  <trd lng="ar">&a_b;&a_n;&a_d;&a_q;&a_y;&a_t_marbuta;</trd>
+  <trd lng="az">top</trd>
+  <trd lng="bn">&#x9AC;&#x9A8;&#x9CD;&#x9A6;&#x9C1;&#x995;</trd>
+  <trd lng="bo">&t_ma;&t_drengbu;&t_tsheg;&t_ma;&t_da;&t_-a;&t_tsheg;</trd>
+  <trd lng="bs">pi&scaron;tolj</trd>
+  <trd lng="co">cannone</trd>
   <trdgrp lng="cs">
     <trd>pu&scaron;ka</trd>,
     <trd>st&rcaron;el. zbra&ncaron;</trd>
   </trdgrp>
+  <trd lng="cy">gwn</trd>
+  <trd lng="da">pistol</trd>
+  <trd lng="eu">pistola</trd>
+  <trd lng="ga">gunna</trd>
+  <trd lng="gd">gunna</trd>
+  <trd lng="gl">arma</trd>
+  <trd lng="gu">&#xAAC;&#xA82;&#xAA6;&#xAC2;&#xA95;</trd>
+  <trd lng="hi">&#x92C;&#x902;&#x926;&#x942;&#x915;</trd>
+  <trd lng="hmn">phom</trd>
+  <trd lng="hr">pu&scaron;ka</trd>
+  <trd lng="ht">zam</trd>
+  <trd lng="hy">&#x561;&#x57F;&#x580;&#x573;&#x561;&#x576;&#x561;&#x56F;</trd>
+  <trd lng="ig">&eacute;gb&egrave;</trd>
+  <trd lng="is">byssu</trd>
+  <trd lng="ja">&#x9283; [<ind>&#x3058;&#x3085;&#x3046;</ind>]</trd>
+  <trd lng="ka">&#x10D8;&#x10D0;&#x10E0;&#x10D0;&#x10E6;&#x10D8;</trd>
+  <trd lng="kk">&c_m;&c_y;&c_l;&c_t;&c_y;&#x49B;</trd>
+  <trd lng="km">&#x1780;&#x17B6;&#x17C6;&#x1797;&#x17D2;&#x179B;&#x17BE;&#x1784;</trd>
+  <trd lng="kn">&#xC97;&#xCA8;&#xCCD;</trd>
+  <trd lng="ko">&#xCD1D;</trd>
+  <trd lng="ku">tiving</trd>
+  <trd lng="ky">&c_k;&c_u;&c_r;&c_a;&c_l;</trd>
+  <trd lng="lo">&#xE9B;&#xEB7;&#xE99;</trd>
+  <trd lng="lt">pistoletas</trd>
+  <trd lng="lv">lielgabals</trd>
+  <trd lng="mg">basy</trd>
+  <trd lng="mi">p&#x163B;</trd>
+  <trd lng="mk">&c_p;&c_i;&c_sh;&c_t;&c_o;&c_l;</trd>
+  <trd lng="ml">&#xD28;&#xD4B;&#xD15;&#xD4D;&#xD15;&#xD4D;</trd>
+  <trd lng="mn">&c_b;&c_u;&c_u;</trd>
+  <trd lng="mr">&#x924;&#x94B;&#x92B;&#x93E;</trd>
+  <trd lng="ms">pistol</trd>
+  <trd lng="my">&#x101E;&#x1031;&#x1014;&#x1010;&#x103A;</trd>
+  <trd lng="ne">&#x92C;&#x928;&#x94D;&#x926;&#x942;&#x915;</trd>
+  <trd lng="ny">mfuti</trd>
+  <trd lng="pa">&#xA2C;&#xA70;&#xA26;&#xA42;&#xA15;</trd>
+  <trd lng="pl">pistolet</trd>
+  <trd lng="ps">&#x67C;&a_w;&f_p;&f_k;</trd>
+  <trd lng="ro">revolver</trd>
+  <trd lng="rw">imbunda</trd>
+  <trd lng="sd">&f_g;&a_n;</trd>
+  <trd lng="si">&#xDAD;&#xDD4;&#xDC0;&#xD9A;&#xDCA;&#xD9A;&#xDD4;&#xDC0;&#xD9A;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>pu&scaron;ka</trd>,
     <trd>streln&aacute; zbra&ncaron;</trd>
   </trdgrp>
+  <trd lng="sm">fana</trd>
+  <trd lng="sn">pfuti</trd>
+  <trd lng="so">qoriga</trd>
+  <trd lng="sq">arm&euml;</trd>
+  <trd lng="st">sethunya</trd>
+  <trd lng="su">bedil</trd>
+  <trd lng="sw">bunduki</trd>
+  <trd lng="ta">&#xBA4;&#xBC1;&#xBAA;&#xBCD;&#xBAA;&#xBBE;&#xB95;&#xBCD;&#xB95;&#xBBF;</trd>
+  <trd lng="te">&#xC24;&#xC41;&#xC2A;&#xC3E;&#xC15;&#xC40;</trd>
+  <trd lng="tg">&c_t;&c_a;&c_p;&c_p;&c_o;&c_n;&c_ch;&c_a;&c_i;</trd>
+  <trd lng="th">&#xE1B;&#xE37;&#xE19;</trd>
+  <trd lng="tt">&c_m;&c_y;&c_l;&c_t;&c_y;&c_k;</trd>
+  <trd lng="uk">&c_p;&c_ib;&c_s;&c_t;&c_o;&c_l;&c_je;&c_t;</trd>
+  <trd lng="ur">&a_b;&a_n;&a_d;&a_w;&a_q;</trd>
+  <trd lng="uz">kun</trd>
+  <trd lng="vi">s&uacute;ng</trd>
+  <trd lng="xh">umpu</trd>
+  <trd lng="yi">&bet;&yod;&qof;&samekh;</trd>
+  <trd lng="yo">ibon</trd>
+  <trd lng="zu">isibhamu</trd>
 </drv>
 
 <drv mrk="paf.0ilego">
   <kap><ofc>*</ofc><tld/>ilego <fnt><bib>F</bib>, <lok>Universala
-  Vortaro, <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5137">paf'il'eg'</url></lok></fnt><fnt><bib>F</bib>,
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5137">paf'il'eg'</url></lok></fnt><fnt><bib>F</bib>,
   <lok>Ekzercaro, &para;
   38</lok></fnt></kap>
   <snc mrk="paf.0ilego.ARM">
@@ -646,13 +1041,16 @@
   <trd lng="fr">canon</trd>
   <trd lng="hu">l&ouml;veg</trd>
   <trd lng="id">meriam</trd>
+  <trd lng="ja">&#x5927;&#x7832;  [<ind>&#x305F;&#x3044;&#x307B;&#x3046;</ind>]</trd>
   <trd lng="nl">kanon</trd>
   <trd lng="no">kanon</trd>
   <trdgrp lng="pl">
     <trd>armata</trd>,
     <trd>dzia&lstroke;o</trd>
   </trdgrp>
+  <trd lng="ro">tun</trd>
   <trd lng="ru">&c_o;&c_r;&c_u;&c_d;&c_i;&c_je; <klr tip="amb">(&c_a;&c_r;&c_t;.)</klr></trd>
+  <trd lng="uk">&c_g;&c_a;&c_r;&c_m;&c_a;&c_t;&c_a;</trd>
 </drv>
 
 <drv mrk="paf.0isto">
@@ -674,7 +1072,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2003/008191.html">Kompatindaj irakanoj</url></vrk>
+          <vrk><url ref="&Monato;/2003/008191.html">Kompatindaj
+          irakanoj</url></vrk>
         </fnt>;
         <trd lng="de">Heckensch&uuml;tze</trd>
         <trd lng="en">sniper</trd>
@@ -684,7 +1083,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2009/009838.php">Kia konsekvenco!</url></vrk>
+          <vrk><url ref="&Monato;/2009/009838.php">Kia
+          konsekvenco!</url></vrk>
         </fnt>;
         <trd lng="de">Sportsch&uuml;tze</trd>
       </ekz>
@@ -717,29 +1117,34 @@
     </trdgrp>
     <trd lng="hu">l&ouml;v&eacute;sz</trd>
     <trd lng="pl">strzelec</trd>
+    <trd lng="ro">s&abreve;get&abreve;tor</trd>
     <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_o;&c_k;</trd>
   </snc>
   <trd lng="bg">&c_s;&c_t;&c_r;&c_je;&c_l;&c_je;&c_c;</trd>
   <trd lng="cs">st&rcaron;elec</trd>
   <trd lng="de">Sch&uuml;tze</trd>
+  <trd lng="id"><baz>tembak</baz>penembak jitu</trd>
   <trd lng="sk">strelec</trd>
 </drv>
 
 <drv mrk="paf.P0isto">
-  <kap><tld lit="P"/>isto</kap>  
+  <kap><tld lit="P"/>isto</kap>
   <mlg>Sgr</mlg>
-  <mlg>&#9808;&#65038;</mlg>
+  <mlg>&#x2650;&#xFE0E;</mlg>
   <snc mrk="paf.P0isto.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj" val="9">Stelfiguro</ref> kaj signo de la
+      <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj" val="9">Stelfiguro</ref> kaj
+      signo de la
       <ref tip="malprt" cel="zodiak.0o">zodiako</ref>
       (<trd lng="la">Sagittarius</trd>):
       <ekz>
-        la plej suda stelo en la Serpento &ccirc;e la limo kun la najbara konstelacio <tld lit="P"/>isto
+        la plej suda stelo en la Serpento &ccirc;e la limo kun la najbara
+        konstelacio <tld lit="P"/>isto
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=115052">Serpento (konstelacio)</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=115052">Serpento
+          (konstelacio)</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -765,9 +1170,107 @@
     <trd>Sagitarius</trd>
   </trdgrp>
   <trd lng="nl">boogschutter</trd>
-  <trd lng="pl">strzelec</trd>
+  <trd lng="pl">Strzelec  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">S&abreve;get&abreve;tor  <klr>(constela&#x21B;ie)</klr></trd>
   <trd lng="ru">&c_S;&c_t;&c_r;&c_je;&c_l;&c_je;&c_c;</trd>
   <trd lng="sk">strelec</trd>
+  <trd lng="uk">&c_s;&c_t;&c_r;&c_ib;&c_l;&c_je;&c_c;&c_mol;</trd>
+</drv>
+
+<drv mrk="paf.for0i">
+  <kap>
+    for<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="P"/>e forigi (<tld/>a&jcirc;on a&ubreve; cela&jcirc;on):
+      <ekz>
+        li metis unu pizon en la <tld/>ilon kaj for<tld/>is &gcirc;in
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kvin en unu silikvo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Vilhelmo for<tld/>is la pomon de la kapo de sia filo
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi iam povis for<tld/>i &ccirc;erizon de la bu&scirc;o
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kutimaj sakrokanonadoj for<tld/>is &ccirc;ian municion
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>wegschie&szlig;en</trd>
+    <trd>abschie&szlig;en</trd>,
+    <trd>umschie&szlig;en</trd>,
+    <trd>verscheuchen</trd>
+  </trdgrp>
+  <trd lng="en">shoot away</trd>
+  <trdgrp lng="es">
+    <trd>ahuyentar</trd>,
+    <trd>espantar</trd>
+  </trdgrp>
+  <trd lng="fr">effaroucher</trd>
+  <trd lng="nl">wegschieten</trd>
+  <trd lng="ru">&c_o;&c_t;&c_s;&c_t;&c_r;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_s;&c_t;&c_r;&c_ib;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_t;&c_r;&c_ib;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="paf.for0igxi">
+  <kap>for<tld/>i&gcirc;i,
+  <var><kap>sin for<tld/>i</kap></var></kap>
+  <snc>
+    <dif>
+      Subite <ref cel="aper.mal0i.nevidebligxi">malaperi</ref>; forkuri:
+      <ekz>
+        malaperante kiel vaporo la du vizitintoj <tld/>is sin for el la lo&gcirc;ejo tiel
+        mistere kaj senspure, kiel ili envenis
+        <fnt>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li pafis sin for
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">pry&ccaron;</trd>
+  <trdgrp lng="de">
+    <trd>davonschie&szlig;en</trd>,
+    <trd>davonsausen</trd>,
+    <trd>davoneilen</trd>
+    <trd>sich <ind>verpissen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>salir disparado</trd>,
+    <trd>despegar<klr> (un cohete)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>se tirer<klr tip="ind"> (s'en aller)</klr></trd>,
+    <trd>filer<klr tip="ind"> (s'en aller)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">wegschieten<klr tip="ind"> (snel weglopen)</klr></trd>
+  <trd lng="sk">pre&ccaron;</trd>
 </drv>
 
 <drv mrk="paf.fingro0o">
@@ -787,11 +1290,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_s;&c_t;&c_r;&c_y;&c_ch;&c_k;&c_a; &c_p;&c_a;&c_l;&c_mol;&c_c;&c_a;&c_m;&c_ib;</trd>
   <trd lng="de">Fingerschnips</trd>
   <trdgrp lng="fr">
     <trd>chiquenaude</trd>,
     <trd>pichenette</trd>
   </trdgrp>
+  <trd lng="pl">pstrykni&eogonek;cie palcami</trd>
+  <trd lng="ro">pocnesc din degete</trd>
 </drv>
 
 <drv mrk="paf.masxin0ilo">
@@ -839,29 +1345,62 @@
   <trd lng="he">&mem;&kaf;&vav;&nun;&tav;
   &yod;&resh;&yod;&yod;&he;</trd>
   <trd lng="hu">g&eacute;puska</trd>
+  <trdgrp lng="id">
+    <trd><ind>senapan</ind> mesin</trd>,
+    <trd>mitraliur</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6A5F;&#x95A2;&#x9283;  [<ind>&#x304D;&#x304B;&#x3093;&#x3058;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x30DE;&#x30B7;&#x30F3;&#x30AC;&#x30F3;</trd>
+  </trdgrp>
   <trd lng="nl">machinegeweer</trd>
   <trd lng="no">maskingev&aelig;r</trd>
   <trdgrp lng="pl">
     <trd>karabin</trd>,
     <trd>pistolet maszynowy</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>pu&#x219;c&abreve;</trd>,
+    <trd>mitralier&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;</trd>
   <trd lng="sv">maskingev&auml;r</trd>
+  <trd lng="uk">&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;</trd>
 </drv>
 
 <drv mrk="paf.mort0i">
   <kap>mort<tld/>i</kap>
   <snc mrk="paf.mort0i.KOMUNE">
-    <ref tip="dif" cel="mort.paf0igi"><tld/>mortigi</ref>
+    <dif>
+      <ref tip="dif" cel="mort.paf0igi"><tld lit="P"/>mortigi</ref>:
+      <ekz>
+        mort<tld/>u min kaj detran&ccirc;u miajn piedojn kaj kapon
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La ora birdo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li diris, ke li sin mort<tld/>os
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li lasis sin mort<tld/>i por ni, li estis brava hometo
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>.
+      </ekz>
+    </dif>
     <rim>
       Kvankam &leftquot;mort<tld/>i&rightquot; estas pli mallonga, tamen
-      &leftquot;<tld/>mortigi&rightquot; estas pli kutima kaj
-      preferinda:
-      unue, &ccirc;ar temas pri mortigo per pafo (sed se temas pri
+      &leftquot;<tld/>mortigi&rightquot; estas pli kutima kaj preferinda:
+      unue, &ccirc;ar temas pri mortigo per <tld/>o (sed se temas pri
       neintenca <tld/>o morta, &leftquot;mort<tld/>i&rightquot; povas
-      pli
-      konveni);
-      kaj due, pro la similsencaj vortoj kiel
+      pli konveni); kaj due, pro la similsencaj vortoj kiel
       &leftquot;&scirc;tonmortigi&rightquot;.
       <aut>S. Pokrovskij</aut>
     </rim>
@@ -885,10 +1424,15 @@
     <trd>flinguer</trd>
   </trdgrp>
   <trd lng="hu">agyonl&odblac;</trd>
-  <trd lng="id">[<ind>tembak</ind>] menembak mati</trd>
+  <trd lng="id"><baz>tembak</baz>menembak mati</trd>
+  <trd lng="ja">&#x5C04;&#x6BBA;&#x3059;&#x308B;  [<ind>&#x3057;&#x3083;&#x3055;&#x3064;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">neerschieten</trd>
   <trd lng="no">skyte ned</trd>
   <trd lng="pl">zastrzeli&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>omor&icirc;</trd>,
+    <trd>trage</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_r;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_s;&c_t;&c_r;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
@@ -896,6 +1440,10 @@
   <trdgrp lng="sk">
     <trd>odstreli&tcaron;</trd>,
     <trd>zastreli&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_r;&c_je;&c_l;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_s;&c_t;&c_r;&c_ib;&c_l;&c_ja;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -921,7 +1469,13 @@
     <trd lng="en">firearm</trd>
     <trd lng="fr">arme &agrave; feu</trd>
     <trd lng="hu">t&udblac;zfegyver</trd>
+    <trdgrp lng="id">
+      <trd><ind>senjata</ind> api</trd>,
+      <trd>senpi</trd>
+    </trdgrp>
     <trd lng="nl">vuurwapen</trd>
+    <trd lng="pl">bro&nacute; palna</trd>
+    <trd lng="ro">arm&abreve; de foc</trd>
     <trd lng="ru">&c_o;&c_g;&c_n;&c_je;&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
       <ind>&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</ind></trd>
   </snc>
@@ -936,7 +1490,7 @@
     PIV1.
     Tial mi &gcirc;in elektis. Tamen sub "armi" PIV1 enkondukis
     "pafarmilo"
-    kun &gcirc;uste tiu senco kaj tio aspektas la mi nek logika (ja
+    kun &gcirc;uste tiu senco kaj tio aspektas la&ubreve;  mi nek logika (ja
     "pafi"
     ne neprigas uzon de pulvo), nek kohera kun la ceteraj artikoloj.
     <aut>MB</aut>
@@ -944,13 +1498,17 @@
   <trd lng="bg">&c_o;&c_g;&c_n;&c_je;&c_s;&c_t;&c_r;&c_je;&c_l;&c_n;&c_o;
   &c_o;&c_r;&c_malmol;&c_zh;&c_i;&c_je;</trd>
   <trd lng="de">Feuerwaffe</trd>
+  <trdgrp lng="ja">
+    <trd>&#x706B;&#x5668;  [<ind>&#x304B;&#x304D;</ind>]</trd>,
+    <trd>&#x9283;&#x7832;  [<ind>&#x3058;&#x3085;&#x3046;&#x307B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">streln&aacute; zbra&ncaron;</trd>
   <trd lng="cs">paln&aacute; zbra&ncaron;</trd>
 </drv>
 
 <drv mrk="paf.sag0o">
   <kap>sag<tld/>o</kap>
-  <snc mrk="paf.sag0x.MEZ">
+  <snc mrk="paf.sag0o.MEZ">
     <dif>
       Malformala
       <ref tip="lst" cel="unu.mezur0o" lst="voko:longoj">mezurunuo</ref>
@@ -958,7 +1516,7 @@
       <ekz>
         dekon da sag<tld/>oj okcidenten
         <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la
-        Hunoj</vrk>, 
+        Hunoj</vrk>,
         <lok>2011</lok></fnt>.
       </ekz>
     </dif>
@@ -968,7 +1526,10 @@
       <trd>Wurfreichweite</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_jo;&c_t; &c_s;&c_t;&c_r;&c_a;&c_l;&c_y; <klr>(&c_m;&c_je;&c_r;&c_a; &c_a;&c_d;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   <trd lng="fr">port&eacute;e de fl&egrave;che</trd>
+  <trd lng="pl">odleg&lstroke;o&sacute;&cacute; na strza&lstroke; z &lstroke;uku</trd>
+  <trd lng="ro">distan&#x21B;a pe lovitur&abreve; de la arc</trd>
 </drv>
 
 <drv mrk="paf.sxrot0ilo">
@@ -976,15 +1537,14 @@
   <snc mrk="paf.sxrot0ilo.ARM">
     <dif>
       <ref tip="super" cel="paf.0ilo.ARM"><tld lit="P"/>ilo</ref>
-      <tld/>anta 
-      <ref tip="vid" cel="sxrot.0o.ARM">&scirc;roton</ref>,
-      tio estas metalpecetojn;
-      <ref tip="sin" cel="sxroter.0o.ARM">&scirc;rotero</ref>:
+      <tld/>anta
+      <ref tip="vid" cel="sxrot.0o.MIL">&scirc;roton</ref>,
+      tio estas metalpecetojn:
       <ekz>
         mi ekkaptis mian &scirc;rot<tld/>ilon
         <fnt>
           <aut>M. Twain, trad. R. Williams</aut>,
-          <vrk><url ref="http://sezonoj.ru/2014/05/twain/">
+          <vrk><url ref="&Sezonoj;2014/05/twain/">
           La familio McWilliams kaj la kontra&ubreve;&scirc;telista
           alarmilo</url></vrk>,
           <lok>La Ondo de Esperanto, 2014:3 (234)</lok>
@@ -992,8 +1552,15 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_r;&c_a;&c_b;&c_a;&c_v;&c_ib;&c_k;</trd>
   <trd lng="de">Schrotflinte</trd>
   <trd lng="fr">fusil de chasse</trd>
+  <trd lng="pl">strzelba na &sacute;rut</trd>
+  <trd lng="ro">pu&#x219;c&abreve; pentru &#x219;urub</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_r;&c_o;&c_b;&c_o;&c_v;&c_a; &c_r;&c_u;&c_sh;&c_n;&c_i;&c_c;&c_ja;</trd>,
+    <trd>&c_d;&c_r;&c_o;&c_b;&c_o;&c_v;&c_i;&c_k;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="paf.0ilkapo">
@@ -1027,6 +1594,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_k;&c_l;&c_a;&c_d;
+    <klr>(&c_s;&c_t;&c_r;&c_e;&c_l;&c_mol;&c_b;&c_y;)</klr></trd>,
+    <trd>&c_r;&c_u;&c_k;&c_a;&c_ja;&c_c;&c_mol;
+    <klr>(&c_p;&c_ib;&c_s;&c_t;&c_a;&c_l;&c_je;&c_t;&c_a;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_p;&c_r;&c_i;&c_k;&c_l;&c_a;&c_d;</trd>,
     <trd>&c_d;&c_r;&c_malmol;&c_zh;&c_k;&c_a;</trd>
@@ -1037,34 +1610,41 @@
     <trd>puskatus</trd>,
     <trd>agy<klr tip="amb"> (pusk&aacute;&eacute;)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x5E8A;&#x5C3E;  [<ind>&#x3068;&#x3053;&#x304A;</ind>]</trd>
+  <trd lng="pl">kolba</trd>
+  <trd lng="ro">pat de pu&#x219;c&abreve;</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_k;&c_l;&c_a;&c_d;</trd>
   <trd lng="sk">hlave&ncaron; <klr>(strelnej zbrane)</klr></trd>
   <trdgrp lng="cs">
     <trd>hlave&ncaron;</trd>,
     <trd>lauf <klr>(hovor.)</klr></trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_k;&c_l;&c_a;&c_d; (&c_r;&c_u;&c_sh;&c_n;&c_i;&c_c;&c_ib; &c_ib; &c_t;.&c_p;.)</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.60  2018/11/09 23:10:43  revo
-Wolfram Diestel: kontrau-emoji-signo
+versio 1.156 2023/08/29 16:34:25
+Wolfram Diestel: ja: prononco
 
-Revision 1.59  2018/06/09 04:10:16  revo
-Dusan Juretic: +trd es
+versio 1.155 2022/12/07 07:23:07
+Wolfram Diestel: ~, ~a&jcirc;o, ~ejo, mort~i: +ekzoj; ~o: +ref-oj
 
-Revision 1.58  2017/12/20 08:10:13  revo
-Michel Cantigneaux: "paf/il/o" &amp; "paf/il/eg/o fundamentaj kunmetajxoj el
-la U.V.
+versio 1.154 2022/12/06 07:23:16
+Wolfram Diestel: ~i: +snc salute, averte; +aparta snc FIG; multaj ekz-oj
 
-Revision 1.57  2017/12/19 10:10:25  revo
-Michel Cantigneaux: fundamenta "pafado" kaj "pafilo" al la U.V.
+versio 1.153 2022/11/21 14:29:48
+Damien Brucker: -eraro cxe cel en ref
 
-Revision 1.56  2017/11/04 12:10:14  revo
-Jeromo Vasxe: + fingro~o
+versio 1.152 2022/11/21 13:52:12
+Damien Brucker: -eraro cxe cel en ref
 
-Revision 1.55  2017/09/07 11:10:15  revo
-Jeromo Vasxe: - superflua fnt F (= *)
+versio 1.151 2022/11/20 11:23:23
+Wolfram Diestel: +for~i&gcirc;i
 
+versio 1.150 2022/11/20 09:26:54
+Wolfram Diestel: +for~i
+
+versio 1.149 2022/10/15 07:36:53
 -->
 </vortaro>

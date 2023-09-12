@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bulgar.xml,v 1.28 2020/02/28 22:11:14 revo Exp $">
+<art mrk="$Id: bulgar.xml,v 1.32 2023/08/31 08:48:54 revo Exp $">
 <kap>
    <ofc>8</ofc>
    <rad>bulgar</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -10,8 +9,7 @@
 
 <drv mrk="bulgar.0o">
    <kap><ofc>8</ofc><tld/>o
-   <fnt><aut>Akademio de Esperanto</aut>, <vrk><url
-   ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html"> 8a
+   <fnt><aut>Akademio de Esperanto</aut>, <vrk><url ref="&AdE;/aktoj/aktoj2/8oa.html"> 8a
    Oficiala Aldono</url></vrk>, <lok>II.C.1</lok></fnt></kap>
    <snc mrk="bulgar.0o.KOMUNE">
       <uzo tip="stl">KOMUNE</uzo>
@@ -34,7 +32,7 @@
       <trd lng="pl">Bu&lstroke;gar</trd>
       <trd lng="pt">b&uacute;lgaro</trd>
       <trd lng="ru">&c_b;&c_o;&c_l;&c_g;&c_a;&c_r;&c_i;&c_n;</trd>
-      <trd lng="tp">jan pi ma Pokasi</trd>
+      <trd lng="tok">jan pi ma Pokasi</trd>
       <trd lng="vo">Bulgar&auml;nan</trd>
    </snc>
    <snc mrk="bulgar.0o.HIS">
@@ -51,7 +49,10 @@
   <trd lng="cs">Bulhar</trd>
   <trd lng="de">Bulgare</trd>
   <trd lng="en">Bulgarian</trd>
+  <trd lng="he">&#x5D1;&#x5D5;&#x5DC;&#x5D2;&#x5E8;&#x5D9;</trd>
+  <trd lng="ja">&#x30D6;&#x30EB;&#x30AC;&#x30EA;&#x30A2;&#x4EBA;  [<ind>&#x30D6;&#x30EB;&#x30AC;&#x30EA;&#x30A2;&#x3058;&#x3093;</ind>]</trd>
   <trd lng="sk">Bulhar</trd>
+  <trd lng="uk">&#x431;&#x43E;&#x43B;&#x433;&#x430;&#x440;&#x438;&#x43D;</trd>
 </drv>
 
 <drv mrk="bulgar.0a">
@@ -75,7 +76,7 @@
       <trd lng="pl">bu&lstroke;garski</trd>
       <trd lng="pt">b&uacute;lgaro</trd>
       <trd lng="ru">&c_b;&c_o;&c_l;&c_g;&c_a;&c_r;&c_s;&c_k;&c_i;&c_j;</trd>
-      <trd lng="tp">pi ma Pokasi</trd>
+      <trd lng="tok">pi ma Pokasi</trd>
       <trd lng="vo">Bulgar&auml;nik</trd>
    </snc>
    <snc mrk="bulgar.0a.HIS">
@@ -95,7 +96,10 @@
    <trd lng="be">&c_b;&c_a;&c_w;&c_g;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>
    <trd lng="de">bulgarisch</trd>
    <trd lng="en">Bulgarian</trd>
-   <trd lng="sk">bulharsk&yacute;</trd>
+   <trd lng="he">&#x5D1;&#x5D5;&#x5DC;&#x5D2;&#x5E8;&#x5D9;&#x5EA;</trd>
+  <trd lng="ja">&#x30D6;&#x30EB;&#x30AC;&#x30EA;&#x30A2;&#x306E;  [<ind>&#x3076;&#x308B;&#x304C;&#x308A;&#x3042;&#x306E;</ind>]</trd>
+  <trd lng="sk">bulharsk&yacute;</trd>
+  <trd lng="uk">&#x431;&#x43E;&#x43B;&#x433;&#x430;&#x440;&#x441;&#x44C;&#x43A;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="bulgar.B0ujo">
@@ -107,8 +111,7 @@
    <uzo tip="fak">GEOG</uzo>
    <uzo tip="fak">POL</uzo>
       <dif>
-         &Scirc;tato en sudorienta <ref tip="malprt"
-         cel="euxrop1.E0o">E&ubreve;ropo</ref> (Balkano), kies &ccirc;efurbo estas
+         &Scirc;tato en sudorienta <ref tip="malprt" cel="euxrop1.E0o">E&ubreve;ropo</ref> (Balkano), kies &ccirc;efurbo estas
          Sofio.
       </dif>
    <ref tip="sin" cel="bulgari.B0o">Bulgario</ref>
@@ -133,7 +136,7 @@
    </trdgrp>
    <trd lng="ru">&c_B;&c_o;&c_l;&c_g;&c_a;&c_r;&c_i;&c_ja;</trd>
    <trd lng="sk">Bulharsko</trd>
-   <trd lng="tp">ma Pokasi</trd>
+   <trd lng="tok">ma Pokasi</trd>
    <trd lng="vo">Bulgar&auml;n</trd>
 </drv>
 
@@ -173,8 +176,7 @@
    <snc>
    <uzo tip="fak">HIS</uzo>
       <dif>
-         Tjurka &scirc;tato kiu ekzistis en la 7a jc &ccirc;irka&ubreve; la <ref
-         cel="mar.AzovaM0o">Azova Maro</ref>, &gcirc;is la disiro de la
+         Tjurka &scirc;tato kiu ekzistis en la 7a jc &ccirc;irka&ubreve; la <ref cel="mar.AzovaM0o">Azova Maro</ref>, &gcirc;is la disiro de la
          pra<tld/>oj Okcidenten kaj Nord-Orienten.
       </dif>
    </snc>
@@ -209,7 +211,10 @@
 
 </art>
 <!--
-$Log: bulgar.xml,v $
+$Log$
+versio 1.31 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 versio 1.28 2020/02/28 22:11:14
 Robin van der Vliet: +trd, koherigo kun aliaj landoartikoloj
 
@@ -229,8 +234,5 @@ Revision 1.23  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.22  2015/06/29 16:29:36  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.21  2014/06/14 03:10:32  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cxies.xml,v 1.19 2009/04/27 16:31:26 revo Exp $">
+<art mrk="$Id: cxies.xml,v 1.28 2023/08/31 10:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>7</ofc>
   <rad>&ccirc;ies</rad> <fnt><bib>PV</bib></fnt>
@@ -50,6 +49,11 @@
     <trd>mindenki&eacute;</trd>
   </trdgrp>
   <trd lng="it">di tutti</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5404;&#x4EBA;&#x306E;  [<ind>&#x304B;&#x304F;&#x3058;&#x3093;&#x306E;</ind>]</trd>,
+    <trd>&#x307F;&#x3093;&#x306A;&#x306E;</trd>,
+    <trd>&#x4E07;&#x4EBA;&#x306E;  [<ind>&#x307E;&#x3093;&#x308A;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ieders</trd>
   <trdgrp lng="pl">
     <trd>wszystkich</trd>,
@@ -68,6 +72,10 @@
     <trd><ind>var</ind> och ens</trd>,
     <trd>allas</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x437;&#x430;&#x433;&#x430;&#x43B;&#x44C;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x440;&#x438;&#x43D;&#x430;&#x43B;&#x435;&#x436;&#x43D;&#x438;&#x439; &#x43A;&#x43E;&#x436;&#x43D;&#x43E;&#x43C;&#x443;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cxies.0ulino">
@@ -75,6 +83,7 @@
   <snc>
     <ref tip="dif" cel="prosti.0itino">prostituitino</ref>
   </snc>
+  <trd lng="bo">&#xF42;&#xF5E;&#xF44;&#xF0B;&#xF5A;&#xF7C;&#xF44;&#xF0B;&#xF58;&#xF0B;</trd>
   <trd lng="de">Prostituierte</trd>
   <trdgrp lng="es">
     <trd>prostituta</trd>,
@@ -89,16 +98,22 @@
     <trd>putain</trd>,
     <trd>tapineuse</trd>,
   </trdgrp>
+  <trd lng="he">&#x5E4;&#x5E8;&#x5D5;&#x5E6;&#x5D4;</trd>
   <trdgrp lng="it">
     <trd>prostituta</trd>,
     <trd>puttana</trd>,
     <trd>meretrice</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd/>,
+    <trd>&#x5A3C;&#x5A66;  [<ind>&#x3057;&#x3087;&#x3046;&#x3075;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>wszetecznica</trd>,
     <trd>kobieta <ind>wszeteczna</ind></trd>
   </trdgrp>
   <trd lng="ro">prostituat&abreve;</trd>
+  <trd lng="uk">&#x43F;&#x43E;&#x432;&#x456;&#x44F;</trd>
 </drv>
 
 </art>

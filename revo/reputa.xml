@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: reputa.xml,v 1.20 2023/09/03 07:53:10 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>reputaci</rad>/o
@@ -30,13 +29,14 @@
     <trd>&c_s;&c_l;&c_a;&c_v;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_r;&c_je;&c_p;&c_u;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="bo">&#xF66;&#xF99;&#xF53;&#xF0B;&#xF42;&#xFB2;&#xF42;&#xF66;&#xF0B;</trd>
   <trd lng="ca">reputaci&oacute;</trd>
   <trdgrp lng="cs">
-    <trd>jméno</trd>,
+    <trd>jm&#xE9;no</trd>,
     <trd>proslulost</trd>,
     <trd>reputace</trd>,
-    <trd>vážnost</trd>,
-    <trd>úcta</trd>
+    <trd>v&#xE1;&#x17E;nost</trd>,
+    <trd>&#xFA;cta</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Reputation</trd>,
@@ -56,17 +56,34 @@
     <trd>tekint&eacute;ly</trd>,
     <trd>reput&aacute;ci&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A55;&#x5224;  [<ind>&#x3072;&#x3087;&#x3046;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x4E16;&#x8A55;  [<ind>&#x305B;&#x3072;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">reputatie</trd>
+  <trdgrp lng="pl">
+    <trd>reputacja</trd>,
+    <trd>imi&eogonek;  <klr>(opinia)</klr></trd>
+  </trdgrp>
   <trd lng="pt">reputa&ccedil;&atilde;o</trd>
+  <trd lng="ro">nume<klr>  (opinie)</klr></trd>
   <trd lng="ru">&c_r;&c_je;&c_p;&c_u;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
   <trdgrp lng="sk">
-    <trd>dobrá povesť</trd>,
-    <trd>dobré meno</trd>
+    <trd>dobr&#xE1; poves&tcaron;</trd>,
+    <trd>dobr&#xE9; meno</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&#x43F;&c_u;&c_t;&c_a;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&#x43F;&#x43E;&#x43F;&c_u;&#x43B;&#x44F;&c_r;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_d;&#x43E;&c_b;&c_r;&c_je; &c_ib;&#x43C;&#x2019;&#x44F;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2022/09/23 15:39:17
+Vito Redsky: +trd pl + trd ro
+
 Revision 1.15  2015/06/29 16:33:22  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -86,11 +103,5 @@ Revision 1.10  2003/08/17 17:27:57  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2002/08/01 17:31:42  revo
-Jeromo Vasxe: + ekz, + vid, + trd fr
-
-Revision 1.8 2002/01/11 17:35:56 revo
-Yury Finkel: +trd ru
-
-Revision 1.7 2001/06/13 18:14:25 revo
 -->
 </vortaro>

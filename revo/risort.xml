@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: risort.xml,v 1.25 2023/09/03 07:53:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>risort</rad>/o <fnt><bib>PV</bib></fnt>
@@ -33,8 +32,8 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>pero</trd>,
-    <trd>pružina</trd>,
-    <trd>péro</trd>
+    <trd>pru&zcaron;ina</trd>,
+    <trd>p&eacute;ro</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Feder</trd>,
@@ -45,7 +44,16 @@
   <trd lng="fa">&a_f;&a_n;&a_r;</trd>
   <trd lng="fr">ressort</trd>
   <trd lng="hu">rug&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3070;&#x306D;</trd>,
+    <trd>&#x305C;&#x3093;&#x307E;&#x3044;</trd>,
+    <trd>&#x30B9;&#x30D7;&#x30EA;&#x30F3;&#x30B0;</trd>
+  </trdgrp>
   <trd lng="nl">veer</trd>
+  <trdgrp lng="pl">
+    <trd>resor</trd>,
+    <trd>spr&eogonek;&zdot;yna</trd>
+  </trdgrp>
   <trd lng="pt">mola</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_u;&c_zh;&c_i;&c_n;&c_a;</trd>,
@@ -53,10 +61,14 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>pero</trd>,
-    <trd>pružina</trd>,
+    <trd>pru&zcaron;ina</trd>,
     <trd>struna</trd>
   </trdgrp>
   <trd lng="sv">fj&auml;der</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_u;&c_zh;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&c_r;&c_je;&c_s;&#x43E;&c_r;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="risort.0aro">
@@ -71,20 +83,26 @@
         &ccirc;e nia kariolo, vi sciu, <tld/>aro difekti&gcirc;is
         <fnt>
           <aut>A. &Ccirc;e&hcirc;ov, trad. A. Kor&jcirc;enkov</aut>,
-          <vrk><url
-          ref="http://www.esperanto-ondo.ru/Libroj/V_bibl02.pdf">
+          <vrk><url ref="&LOdE;Libroj/V_bibl02.pdf">
           Sveda alumeto</url></vrk>,
           <lok>2004-2010</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">pérování <klr>(vozidla)</klr></trd>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_v;&c_je;&c_s;&c_k;&c_a; <klr>(&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_a;&c_g;&c_a; &c_s;&c_r;&c_o;&c_d;&c_k;&c_u;)</klr></trd>
+  <trd lng="cs">p&eacute;rov&aacute;n&iacute; <klr>(vozidla)</klr></trd>
   <trd lng="fr">syst&egrave;me de <ind>suspension</ind></trd>
-  <trdgrp lng="sk">
-    <trd>pruženie <klr>(auta)</klr></trd>,
-    <trd>pérovanie</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B5;&#x30B9;&#x30DA;&#x30F3;&#x30B7;&#x30E7;&#x30F3;</trd>,
+    <trd>&#x61F8;&#x67B6;&#x88C5;&#x7F6E;  [<ind>&#x304B;&#x304B;&#x304B;&#x304B;&#x305D;&#x3046;&#x3061;</ind>]</trd>
   </trdgrp>
+  <trd lng="pl">resorowanie</trd>
+  <trdgrp lng="sk">
+    <trd>pru&zcaron;enie <klr>(auta)</klr></trd>,
+    <trd>p&eacute;rovanie</trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&c_s;&#x43E;&c_r;&c_i;</trd>
 </drv>
 
 <drv mrk="risort.0igxi">
@@ -107,12 +125,26 @@
     <trd>abfedern</trd>,
     <trd>zur&uuml;ckfedern</trd>
   </trdgrp>
-  <trd lng="hu">rug&oacute;zik</trd>  
+  <trd lng="hu">rug&oacute;zik</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8DF3;&#x306D;&#x8FD4;&#x308B;  [<ind>&#x306F;&#x306D;&#x304B;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x306F;&#x305A;&#x3080;</trd>
+  </trdgrp>
+  <trd lng="pl">spr&eogonek;&zdot;ynowa&cacute;</trd>
   <trd lng="ru">&c_p;&c_r;&c_u;&c_zh;&c_i;&c_n;&c_i;&c_t;&c_mol;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/07/31 22:29:04
+Vito Redsky: +trd pl 
+
+versio 1.23 2023/05/06 14:26:04
+revo: aktualigo URL-unuoj
+
+versio 1.21 2021/12/21 09:32:37
+Dmitri Gabinski: + trd be
+
 Revision 1.19  2015/06/29 16:33:22  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -126,17 +158,5 @@ Revision 1.16  2009/08/23 16:31:13  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.15  2006/02/21 17:33:03  revo
-Tulio Flores: +trd pt
-
-Revision 1.14  2004/09/16 16:32:33  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13  2003/11/08 08:20:09  revo
-Alejandro Mejia Greene: ald 1 his trd
-
-Revision 1.12  2003/08/17 17:32:30  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2003/01/22 17:34:21  revo
 -->
 </vortaro>

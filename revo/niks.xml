@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: niks.xml,v 1.7 2008/06/16 16:53:43 revo Exp $">
+<art mrk="$Id: niks.xml,v 1.13 2023/09/03 06:36:21 revo Exp $">
 <kap>
   <rad>niks</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,6 +23,7 @@
       <ref cel="siren.0o.MIT">sireno<sncref/></ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_v;&c_a;&c_d;&c_z;&c_ja;&c_n;&c_ib;&c_k;</trd>
   <trdgrp lng="cs">
     <trd>vodn&iacute;k</trd>,
     <trd>zelen&yacute; mu&zcaron;&iacute;k</trd>
@@ -34,6 +34,7 @@
   </trdgrp>
   <trd lng="fr">nixe</trd>
   <trd lng="hu">v&iacute;zit&uuml;nd&eacute;r</trd>
+  <trd lng="ja">&#x30CB;&#x30C3;&#x30AF;&#x30B9;</trd>
   <trdgrp lng="nl">
     <trd>nix</trd>,
     <trd>nixe</trd>
@@ -49,6 +50,7 @@
   </trdgrp>
   <trd lng="sk">vodn&iacute;k</trd>
   <trd lng="sv">sj&ouml;jungfru</trd>
+  <trd lng="uk">&c_v;&#x43E;&c_d;&#x44F;&#x43D;&c_i;&#x43A;</trd>
 </drv>
 
 <drv mrk="niks.0ino">
@@ -67,12 +69,17 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_u;&c_s;&c_a;&c_l;&c_k;&c_a;</trd>
   <trd lng="fr">nixe</trd>
+  <trd lng="uk">&c_r;&c_u;&c_s;&c_a;&#x43B;&#x43A;&c_a;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.12 2022/06/10 08:35:51
+Dmitri Gabinski: + trd be
+
 Revision 1.9  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 

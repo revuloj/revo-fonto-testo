@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: telefo.xml,v 1.65 2023/09/04 18:15:45 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>telefon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,11 +13,55 @@
     <uzo tip="fak">TEL</uzo>
     <uzo tip="fak">ELET</uzo>
     <dif>
-      Elektra aparato ebliganta interparoladon je distanco
+      Elektra <ref tip="super" cel="aparat.0o.TEK">aparato</ref> ebliganta interparoladon je
+      distanco
       per starigo de komunika kanalo inter la partoprenantoj
-      de la interparolo.
+      de la interparolo:
+      <ekz>
+        &scirc;i krias el la <tld/>o: la germanoj kapitulacis! Norvegujo estas libera
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <tld/>oj tintis, tintigaj kaj teruraj dira&jcirc;oj ventege pelis unu la alian
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        turninte trifoje per la fingro radeton de a&ubreve;tomata <tld/>o, li alvokis
+        <nom>Vinokurov</nom>&#x2019;on
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi e&ubreve;ropanoj estas sa&gcirc;aj, <klr>[&#x2026;]</klr> vi inventis anka&ubreve; vapor&scirc;ipon,
+        aeroplanon, a&ubreve;tomobilon, elektran lumon, <tld/>on, telegrafon, radion,
+        kinofilmojn kaj multajn aliajn mirinda&jcirc;ojn
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia lingvo estas kvaza&ubreve; <tld/>aparato, kiu bezonas esti fadenligita kun similaj
+        aparatoj por povi utile funkcii
+        <fnt>
+          <bib>Lanti</bib>
+        </fnt>.
+      </ekz>
     </dif>
-    <ref tip="vid" cel="hola.0">halo, hola</ref>
+    <refgrp tip="vid">
+      <ref cel="hola.0">halo, hola</ref>,
+      <ref cel="line.0o">lineo</ref>,
+      <ref cel="telefoni.0o">telefonio</ref>,
+      <ref cel="bud.telefon0o">telefonbudo</ref>,
+      <ref cel="kart.telefon0o">telefonkarto</ref>,
+      <ref cel="kod.telefon0o">telefonkodo</ref>,
+      <ref cel="libr.telefon0o">telefonlibro</ref>,
+      <ref cel="telefo.0numero">telefonnumero</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>
   <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>
@@ -34,6 +77,10 @@
     <trd>t&aacute;vbesz&eacute;l&odblac;</trd>
   </trdgrp>
   <trd lng="id">telepon</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96FB;&#x8A71;  [<ind>&#x3067;&#x3093;&#x308F;</ind>]</trd>,
+    <trd>&#x96FB;&#x8A71;&#x6A5F;  [<ind>&#x3067;&#x3093;&#x308F;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">telefoon</trd>
   <trdgrp lng="pl">
     <trd>telefon</trd>,
@@ -43,7 +90,8 @@
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>
   <trd lng="sv">telefon</trd>
   <trd lng="sk">telef&oacute;n</trd>
-  <trd lng="zh">&#30005;&#35805; <klr>(tr. &#38651;&#35441;)</klr> [<ind>di&agrave;nhu&agrave;</ind>]</trd>
+  <trd lng="uk">&c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;</trd>
+  <trd lng="zh">&#x7535;&#x8BDD; <klr>(tr. &#x96FB;&#x8A71;)</klr> [<ind>di&agrave;nhu&agrave;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>po&scaron;ta</trd>,
     <trd>telef&oacute;n</trd>,
@@ -52,14 +100,104 @@
   <trd lng="cs">telefon</trd>
 </drv>
 
+<drv mrk="telefo.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc mrk="telefo.0a.rilata">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        mia <tld/>a sistemo estas eksterordinare kompleksa
+         <fnt>
+          <aut>Will Green</aut>
+          <vrk><url ref="&Monato;/1994/A940103.php">Will Green kondukas vin tra sia telefona
+          labirinto</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/01, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>po&scirc;<tld/>a reto</ind>
+        <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/007052.php">Verda
+          nature, science, socie</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 8</lok>
+        </fnt>;
+        <trd lng="de">Mobilfunknetz</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="telefo.0a.per">
+    <dif>
+      Per <tld/>o:
+      <ekz>
+        temis pri <tld/>a konsultado pri savi perditan leteron en la komputilo de mia
+        avino
+        <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/02, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        maldungi 4000 britojn, kiuj respondas tage al dekmiloj da <tld/>aj demandoj, kaj
+        ilin anstata&ubreve;igi per skipoj de samrespondeculoj en Barato, &scirc;paros grandajn
+        monsumojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2004/008223.html">&Ccirc;e-telefone ... kiu?</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">telefonisch</trd>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y;</trd>
+  <trd lng="ja">&#x96FB;&#x8A71;&#x306E;  [<ind>&#x3067;&#x3093;&#x308F;&#x306E;</ind>]</trd>
+  <trd lng="uk">&c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;&#x43D;&c_i;&c_j;</trd>
+</drv>
+
+
 <drv mrk="telefo.0i">
   <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="telefo.0i.TEL">
     <dif>
-      Transsendi per <tld/>o, paroli per <tld/>o:
+      <ref tip="super" cel="parol.0i.diri">Paroli</ref> per <tld/>o:
       <ekz>
-        <tld/>i nova&jcirc;on<fnt>B</fnt>.
+        por pli da informo, mi <tld/>is al la itala konsulejo
+        <fnt>
+       <aut>Thomas Eccardt</aut>
+          <vrk><url ref="&Monato;/2000/006859.php">Urbeto a&ubreve; sendependa lando?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        po&scirc;<tld/>o <klr>[ebligas]</klr> <tld/>i &ccirc;iam kaj &ccirc;ie
+        <fnt>
+          <aut>Astrid Hanke</aut>
+            <vrk><url ref="&Monato;/2000/007153.php">La benoj de po&scirc;telefono</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 30</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>is al mi en <nom>Zagreb</nom> iu vira vo&ccirc;o, radioamatoro, kiu diris, ke li
+        &leftquot;havas
+        <nom>Alma</nom> el Sarajevo je sia linio&rightquot;
+        <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk><url ref="&Monato;/1993/A931201.php">Saluton el Absurdistano</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/12, p. 9</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -71,6 +209,7 @@
    <trd>&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_i;&c_r;&c_a;&c_m;</trd>,
     <trd>&c_g;&c_o;&c_v;&c_o;&c_r;&c_ja; &c_p;&c_o; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_a;</trd>
   </trdgrp>
+  <trd lng="bo">&t_kha;&t_tsheg;&t_pa;&t_ra;&t_tsheg;&t_ga;&t_ta;&t_naro;&t_nga;&t_tsheg;</trd>
   <trd lng="cs">telefonovat</trd>
   <trd lng="de">telefonieren</trd>
   <trdgrp lng="en">
@@ -84,7 +223,11 @@
   </trdgrp>
   <trd lng="fr">t&eacute;l&eacute;phoner</trd>
   <trd lng="hu">telefon&aacute;l</trd>
-  <trd lng="id">[<ind>telepon</ind>] menelepon</trd>
+  <trd lng="id"><baz>telepon</baz>menelepon</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96FB;&#x8A71;&#x3059;&#x308B;  [<ind>&#x3067;&#x3093;&#x308F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x96FB;&#x8A71;&#x3067;&#x8A71;&#x3059;  [<ind>&#x3067;&#x3093;&#x308F;&#x3067;&#x306F;&#x306A;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>telefoneren</trd>,
     <trd>opbellen</trd>
@@ -95,8 +238,10 @@
   </trdgrp>
   <trd lng="pt">telefonar</trd>
   <trdgrp lng="ru">
-    <trd>&c_z;&c_v;&c_o;&c_n;&c_i;&c_t;&c_mol; &c_p;&c_o; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_u;</trd>,
-    <trd>&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol; &c_p;&c_o; <ind>&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_u;</ind></trd>,
+    <trd>&c_z;&c_v;&c_o;&c_n;&c_i;&c_t;&c_mol; &c_p;&c_o;
+    &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_u;</trd>,
+    <trd>&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol; &c_p;&c_o;
+    <ind>&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_u;</ind></trd>,
     <trd>&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
@@ -107,11 +252,86 @@
     <trd>telefonera</trd>,
     <trd>prata i <ind>telefon</ind></trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_v;&c_ib;&c_d;&#x43E;&#x43C;&#x43B;&#x44F;&c_t;&c_i; &#x43F;&#x43E;
+    &c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;&c_u;</trd>,
+    <trd>&c_d;&c_z;&c_v;&#x43E;&#x43D;&c_i;&c_t;&c_i;/&c_g;&#x43E;&c_v;&#x43E;&c_r;&c_i;&c_t;&c_i; &#x43F;&#x43E; &c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;&c_u;</trd>,
+    <trd>&c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="telefo.0ejo">
+  <kap>
+    <tld/>ejo
+  </kap>
+  <snc>
+    <dif>
+      Telefonbudo:
+      <ekz>
+        li jam staris en la plej proksima <tld/>ejo kaj <tld/>is al sia kolego
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li tuj eniris la hotelan <tld/>ejon
+        <fnt>
+          <bib>TAA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni eniris <tld/>ejon por elekti adreson <klr>[&#x2026;]</klr>, arkitekton, ne estis
+        malfacile trovi sur la urbokarto, kie estas la strato
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_b;&c_u;&c_d;&c_k;&c_a;</trd>
+  <trd lng="de">Telefonzelle</trd>
+  <trd lng="en">phone booth</trd>
+  <trd lng="ja">&#x96FB;&#x8A71;&#x5BA4;  [<ind>&#x3067;&#x3093;&#x308F;&#x3057;&#x3064;</ind>]</trd>
+</drv>
+
+<drv mrk="telefo.0isto">
+  <kap>
+    <tld/>isto
+  </kap>
+  <snc mrk="telefo.0isto.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      <klr>(anta&ubreve; a&ubreve;tomata perado)</klr> Homo, kiu akceptas vokanton kaj konektas kun la dezirata
+      numero:
+      <ekz>
+        &ccirc;i tie &gcirc;is la mateno kriis <tld/>istoj, &ccirc;iuminute elkuradis kurieroj kaj knaris
+        per plumoj skribistoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;<nac>mil deux cent six? bien, merci,</nac>&rightquot; diris la <tld/>istino
+        <fnt>
+          <bib>TAA</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_a;&c_n;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="de">Telefonist</trd>
+  <trd lng="en">switchboard operator</trd>
+  <trd lng="fr">t&eacute;l&eacute;phoniste</trd>
+  <trd lng="ja">&#x96FB;&#x8A71;&#x4EA4;&#x63DB;&#x624B;  [<ind>&#x3067;&#x3093;&#x308F;&#x3053;&#x3046;&#x304B;&#x3093;&#x3057;&#x3085;</ind>]</trd>
+  <trd lng="uk">&c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;&c_ib;&c_s;&c_t;</trd>
 </drv>
 
 <drv mrk="telefo.al0ado">
-  <kap>al<tld/>ado,
-  <var><kap><tld/>alvoko</kap></var></kap>
+  <kap>
+    al<tld/>ado,
+    <var><kap><tld/>alvoko</kap></var>,
+    <var><kap><tld/>voko</kap></var>
+  </kap>
   <snc mrk="telefo.al0ado.TEL">
     <uzo tip="fak">TEL</uzo>
     <dif>
@@ -126,19 +346,37 @@
         </fnt>;       
       </ekz>
       <ekz>
+        li estis minacata de anonimaj <tld/>vokoj
+        <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2000/006909.php">Novjara kla&ccirc;o super konjako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 25</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
         li restis hejme, por atendi al<tld/>adon de iu el tiuj
         institucioj
         <fnt>
           <aut>Liu Yichang</aut>
-          <vrk><url
-          ref="http://esperanto.cri.cn/1/2005/03/11/1@22006.htm">
+          <vrk><url ref="&CRI;1/2005/03/11/1@22006.htm">
           Erare!</url></vrk>
           <lok>&Ccirc;ina Radio Internacia, 2005-03-11</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_v;&c_a;&c_n;&c_o;&c_k; <klr>(&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y;)</klr></trd>,
+    <trd>&c_t;&c_e;&c_l;&c_je;&c_f;&c_a;&c_n;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="en">phone call</trd>
   <trd lng="fr">appel t&eacute;l&eacute;phonique</trd>
+  <trd lng="id"><ind>panggil</ind>an telepon</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96FB;&#x8A71;&#x306E;&#x547C;&#x3073;&#x51FA;&#x3057;  [<ind>&#x3067;&#x3093;&#x308F;&#x306E;&#x3088;&#x3073;&#x3060;&#x3057;</ind>]</trd>,
+    <trd>&#x901A;&#x8A71;  [<ind>&#x3064;&#x3046;&#x308F;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="telefo.lerta0o">
@@ -154,8 +392,7 @@
         populari&gcirc;o de la lertaj <tld/>oj
         <fnt>
           <aut>P. Peeraerts</aut>,
-          <vrk>en: <url
-          ref="http://www.liberafolio.org/2010/elektronikaj-libroj-enmerkatigas-en-esperantujo">
+          <vrk>en: <url ref="http://www.liberafolio.org/2010/elektronikaj-libroj-enmerkatigas-en-esperantujo">
           Elektronikaj libroj enmerkati&gcirc;as en Esperantujo</url></vrk>,
           <lok>libera folio, 2010-03-10</lok>
         </fnt>;
@@ -164,8 +401,7 @@
         &gcirc;ia sistemo estos integrita kun la inteligentaj <tld/>oj
         <fnt>
           <aut>Wang Yin, Zhang Shuangm Wang Lihua</aut>,
-          <vrk><url
-          ref="http://www.espero.com.cn/se/txt/2013-01/24/content_514205.htm">
+          <vrk><url ref="http://www.espero.com.cn/se/txt/2013-01/24/content_514205.htm">
           Beidou -- nova elekto por la tergloba navigada satelita
           sistemo en &Ccirc;inio</url></vrk>,
           <lok>Espero.com.cn, 2013-01-24</lok>
@@ -173,6 +409,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_m;&c_a;&c_r;&c_t;&c_f;&c_o;&c_n;</trd>
+  <trdgrp lng="de">
+    <trd>Smartphone</trd>,
+    <trd>Smartfon</trd>,
+    <trd>Schlaufon<klr> [ugs.]</klr></trd>
+  </trdgrp>
   <trd lng="en">smartphone</trd>
   <trd lng="fr">t&eacute;l&eacute;phone intelligent</trd>
   <trdgrp lng="id">
@@ -182,34 +424,48 @@
 </drv>
 
 <drv mrk="telefo.posx0o">
-  <kap>po&scirc;<tld/>o<fnt><bib>HejmVort</bib></fnt>,
-  <var><kap>&ccirc;el<tld/>o</kap></var></kap>
+  <kap>
+    po&scirc;<tld/>o <fnt><bib>HejmVort</bib></fnt>,
+    <var><kap>&ccirc;el<tld/>o</kap></var>,
+    <var><kap>sendrata <tld/>o</kap></var>
+  </kap>
   <snc mrk="telefo.posx0o.TEL">
     <uzo tip="fak">TEL</uzo>
     <dif>
       Portebla sen&scirc;nura <tld/>o:
       <ekz>
-        la po&scirc;<tld/>a reto <klr>...</klr> transportas nur datumojn
-        <fnt><aut>Pejno S.</aut>:
-        <vrk><url ref="&Monato;/007219.html">Prefere pakete</url></vrk>,
-        <bib>Monato</bib>,
-        <lok>2001:2</lok>
+        la po&scirc;<tld/>a reto <klr>[&#x2026;]</klr> transportas nur datumojn
+        <fnt>
+          <aut>Pejno Simono</aut>:
+          <vrk><url ref="&Monato;/2001/007219.html">Prefere pakete</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/02, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
         &ccirc;el<tld/>o devus plifaciligi la kontakton al aliaj homoj
         <fnt>
           <aut>A. Oberndorfer</aut>,
-          <vrk><url
-          ref="http://peranto.posterous.com/celtelefonoj-malakcelas-konversaciojn">
+          <vrk><url ref="http://peranto.posterous.com/celtelefonoj-malakcelas-konversaciojn">
           &Ccirc;eltelefonoj malakcelas konversaciojn</url></vrk>,
           <lok>Esperanta retradio, 2012-10-12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia familio donacis al mi <klr>[&#x2026;]</klr> sendratan <tld/>on
+         <fnt>
+          <aut>Will Green</aut>
+          <vrk><url ref="&Monato;/1994/A940103.php">Will Green kondukas vin tra sia telefona
+          labirinto</url></vrk>
+          <bib>Monato</bib>
+          <lok>1994/01, p. 13</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_m;&c_a;&c_b;&c_ib;&c_l;&c_mol;&c_n;&c_y; <ind>&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;</ind></trd>,
+    <trd>&c_m;&c_a;&c_b;&c_ib;&c_l;&c_mol;&c_n;&c_y;
+    <ind>&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;</ind></trd>,
     <trd>&c_s;&c_o;&c_t;&c_a;&c_v;&c_y; <ind>&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;</ind></trd>
   </trdgrp>
   <trdgrp lng="bg">
@@ -246,6 +502,7 @@
     <trd><ind>telepon</ind> genggam</trd>,
   </trdgrp>
   <trd lng="it">telefonino</trd>
+  <trd lng="ja">&#x643A;&#x5E2F;&#x96FB;&#x8A71;  [<ind>&#x3051;&#x3044;&#x305F;&#x3044;&#x3067;&#x3093;&#x308F;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>GSM</trd>,
     <trd>mobieltje <klr>(Nederlando)</klr></trd>,
@@ -258,10 +515,12 @@
   </trdgrp>
   <trd lng="pt">celular</trd>
   <trdgrp lng="ru">
-    <trd>&c_m;&c_o;&c_b;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>,
+    <trd>&c_m;&c_o;&c_b;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;
+    &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>,
     <trd>&c_s;&c_o;&c_t;&c_o;&c_v;&c_y;&c_j; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>
   </trdgrp>
   <trd lng="sv">mobiltelefon</trd>
+  <trd lng="uk">&#x43C;&#x43E;&c_b;&c_ib;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;</trd>
 </drv>
 
 <drv mrk="telefo.strat0o">
@@ -276,6 +535,12 @@
   <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;-&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;</trd>
   <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_a; &c_k;&c_a;&c_b;&c_i;&c_n;&c_a;</trd>
   <trd lng="cs">pouli&ccaron;n&iacute; telefon</trd>
+  <trdgrp lng="de">
+    <trd>&ouml;ffentlicher <ind>Fernsprecher</ind><klr> [ark]</klr></trd>,
+    <trd>&ouml;ffentliches <ind>Telefon</ind><klr> [ugs.]</klr></trd>,
+    <trd>M&uuml;nztelefon</trd>,
+    <trd>Kartentelefon</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>public <ind>telephone</ind></trd>,
     <trd>pay <ind>telephone</ind></trd>,
@@ -285,6 +550,7 @@
   <trd lng="fr">t&eacute;l&eacute;phone public</trd>
   <trd lng="hu">utcai <ind>telefon</ind></trd>
   <trd lng="id"><ind>telepon</ind> umum</trd>
+  <trd lng="ja">&#x516C;&#x8846;&#x96FB;&#x8A71;  [<ind>&#x3053;&#x3046;&#x3057;&#x3085;&#x3046;&#x3067;&#x3093;&#x308F;</ind>]</trd>
   <trd lng="nl">openbare <ind>telefoon</ind></trd>
   <trdgrp lng="pl">
     <trd>budka <ind>telefoniczna</ind></trd>,
@@ -297,6 +563,7 @@
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;-&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;</trd>
   <trd lng="sk">pouli&ccaron;n&yacute; telef&oacute;n</trd>
+  <trd lng="uk">&c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;-&c_a;&c_v;&c_t;&#x43E;&#x43C;&c_a;&c_t;</trd>
 </drv>
 
 <drv mrk="telefo.0numero">
@@ -304,10 +571,29 @@
   <snc mrk="telefo.0numero.TEL">
     <uzo tip="fak">TEL</uzo>
     <dif>
-      Numero identiganta unu telefonaparaton.
+      Numero identiganta unu telefonaparaton:
+      <ekz>
+        facile estas tiel enmemorigi la telefonnumerojn
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ricevas retadreson, iom da TTT-spaco, kaj la eblon konekti&gcirc;i per <tld/>numero
+       <fnt>
+          <aut>Edmund Grimley Evans</aut>
+            <vrk><url ref="&Monato;/2000/007132.html">Interreto senpage</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 23</lok>
+          </fnt>.
+      </ekz>
     </dif>
+    <adm>
+      &Scirc;ovu al numer/
+      <aut>WD</aut>
+    </adm>
   </snc>
-  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y; &c_n;&c_u;&c_m;&c_a;&c_r;</trd>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y; <ind>&c_n;&c_u;&c_m;&c_a;&c_r;</ind></trd>
   <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_je;&c_n; &c_n;&c_o;&c_m;&c_je;&c_r;</trd>
   <trd lng="cs">telefonn&iacute; &ccaron;&iacute;slo</trd>
   <trd lng="de">Telefonnummer</trd>
@@ -319,33 +605,39 @@
   <trd lng="fr">num&eacute;ro de t&eacute;l&eacute;phone</trd>
   <trd lng="hu">telefonsz&aacute;m</trd>
   <trd lng="id"><ind>nomor</ind> telepon</trd>
+  <trd lng="ja">&#x96FB;&#x8A71;&#x756A;&#x53F7;  [<ind>&#x3067;&#x3093;&#x308F;&#x3070;&#x3093;&#x3054;&#x3046;</ind>]</trd>
   <trd lng="nl">telefoonnummer</trd>
   <trd lng="pl">numer <ind>telefoniczny</ind></trd>
-  <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y;&c_j; &c_n;&c_o;&c_m;&c_je;&c_r;</trd>
+  <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y;&c_j;
+  &c_n;&c_o;&c_m;&c_je;&c_r;</trd>
   <trd lng="sk">&ccaron;&iacute;slo telef&oacute;nu</trd>
   <trd lng="sv">telefonnummer</trd>
+  <trd lng="uk">&#x43D;&#x43E;&#x43C;&c_je;&c_r; &c_t;&c_je;&#x43B;&c_je;&c_f;&#x43E;&#x43D;&c_u;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.44  2019/07/03 08:10:29  revo
-Aleks Andre: zh: prononcado en -ind- por la indekso
+versio 1.64 2023/05/01 12:44:39
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.43  2019/02/12 19:10:25  revo
-Wolfram Diestel: kor. ref halo
+versio 1.63 2023/04/26 08:31:46
+Paul Peeraerts: kor de eraraj ref
 
-Revision 1.42  2018/11/16 20:10:14  revo
-Jeromo Vasxe: + al~ado
+versio 1.62 2023/04/24 16:34:59
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.41  2015/07/04 08:37:44  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.61 2023/04/17 06:32:50
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.40  2015/06/29 16:40:19  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.60 2023/04/14 16:34:52
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.39  2014/06/13 07:10:17  revo
-Damien Brucker: +ref
+versio 1.59 2023/04/13 14:27:51
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.38  2014/06/07 16:10:22  revo
+versio 1.58 2023/04/12 15:27:32
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.57 2023/04/10 12:43:40
 -->
 </vortaro>

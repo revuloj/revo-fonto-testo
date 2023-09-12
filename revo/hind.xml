@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hind.xml,v 1.29 2020/02/28 00:10:48 revo Exp $">
+<art mrk="$Id: hind.xml,v 1.33 2023/08/31 15:46:17 revo Exp $">
 <kap>
   <rad>hind</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -50,11 +49,16 @@
   </trdgrp>
   <trd lng="hu">hindu (nemzetis&eacute;g&udblac;)</trd>
   <trd lng="it">indiano<klr> (dell'India - sost.)</klr></trd>
+  <trd lng="ja">&#x30A4;&#x30F3;&#x30C9;&#x4EBA;  [<ind>&#x30A4;&#x30F3;&#x30C9;&#x3058;&#x3093;</ind>]</trd>
   <trd lng="nl">Indi&euml;r</trd>
   <trd lng="pl">Hindus</trd>
   <trd lng="pt">indiano</trd>
   <trd lng="ru">&c_i;&c_n;&c_d;&c_i;&c_je;&c_c;</trd>
   <trd lng="sk">Ind</trd>
+  <trdgrp lng="uk">
+    <trd>&#x456;&#x43D;&#x434;&#x456;&#x454;&#x446;&#x44C;</trd>,
+    <trd>&#x433;&#x456;&#x43D;&#x434;&#x456; (&#x43C;&#x43E;&#x432;&#x430;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hind.0a">
@@ -82,6 +86,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_d;&c_y;&c_j;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="bo">&#xF62;&#xF92;&#xFB1;&#xF0B;&#xF42;&#xF62;&#xF0B;&#xF66;&#xF90;&#xF51;&#xF0B;</trd>
   <trd lng="ca">indi<klr> (adj.)</klr></trd>
   <trd lng="cs">indick&yacute;</trd>
   <trd lng="de">indisch</trd>
@@ -98,11 +103,13 @@
     <trd>indiai</trd>
   </trdgrp>
   <trd lng="it">indiano<klr> (dell'India - agg.)</klr></trd>
+  <trd lng="ja">&#x30A4;&#x30F3;&#x30C9;&#x306E;  [<ind>&#x3044;&#x3093;&#x3069;&#x306E;</ind>]</trd>
   <trd lng="nl">Indisch</trd>
   <trd lng="pl">indyjski</trd>
   <trd lng="pt">indiano</trd>
   <trd lng="ru">&c_i;&c_n;&c_d;&c_i;&c_j;&c_s;&c_k;&c_i;&c_j;</trd>
   <trd lng="sk">indick&yacute;</trd>
+  <trd lng="uk">&#x456;&#x43D;&#x434;&#x456;&#x439;&#x441;&#x44C;&#x43A;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="hind.H0ujo">
@@ -116,8 +123,7 @@
       de Himalajo norde &gcirc;is en la <tld lit="H"/>an
       Oceanon sude:
       <ekz>
-        la ideo de Kolumbo ke devas ekzisti okcidenta vojo <tld
-        lit="H"/>ujon
+        la ideo de Kolumbo ke devas ekzisti okcidenta vojo <tld lit="H"/>ujon
         &scirc;ajnas al ni nun tiel simpla, tiel natura
         <fnt><bib>EE</bib>, <lok>&ccirc;ap. 1</lok></fnt>.
       </ekz>
@@ -128,8 +134,7 @@
     <dif>
       <ref tip="dif" cel="barat.B0o">Barato</ref>:
       <ekz>
-        tio estis en la tempo de A&hcirc;a&scirc;vero&scirc;, kiu re&gcirc;is de <tld
-        lit="H"/>ujo &gcirc;is Etiopujo super cent dudek sep landoj
+        tio estis en la tempo de A&hcirc;a&scirc;vero&scirc;, kiu re&gcirc;is de <tld lit="H"/>ujo &gcirc;is Etiopujo super cent dudek sep landoj
         <fnt><bib>MT</bib>, <lok>&Est; 1:1</lok></fnt>;
       </ekz>
       <ekz>
@@ -158,29 +163,6 @@
   <trd lng="ru">&c_I;&c_n;&c_d;&c_i;&c_ja;</trd>
 </drv>
 
-<drv mrk="hind.H0aOceano">
-  <kap><tld lit="H"/>a Oceano</kap>
-  <snc>
-    <uzo tip="fak">GEOG</uzo>
-    <dif>
-      Parto de la <ref tip="malprt" cel="ocean.0o">oceano</ref> inter
-      Afriko, Azio kaj Oceanio.
-    </dif>
-  </snc>
-  <trd lng="be">&c_Ib;&c_n;&c_d;&c_y;&c_j;&c_s;&c_k;&c_ib; &c_a;&c_k;&c_ib;&c_ja;&c_n;</trd>
-  <trd lng="ca">oce&agrave; &Iacute;ndic</trd>
-  <trd lng="de">Indischer Ozean</trd>
-  <trd lng="es">Oceano <ind>&Iacute;ndico</ind></trd>
-  <trd lng="fr">Oc&eacute;an Indien</trd>
-  <trd lng="hu">Indiai-&oacute;ce&aacute;n</trd>
-  <trd lng="it">Oceano <ind>Indiano</ind></trd>
-  <trd lng="nl">Indian Ocean</trd>
-  <trd lng="nl">Indische Oceaan</trd>
-  <trd lng="pl">Ocean <ind>Indyjski</ind></trd>
-  <trd lng="pt">Oceano &Iacute;ndico</trd>
-  <trd lng="ru">&c_I;&c_n;&c_d;&c_i;&c_j;&c_s;&c_k;&c_i;&c_j; &c_o;&c_k;&c_je;&c_a;&c_n;</trd>
-</drv>
-
 <drv mrk="hind.0euxropa">
   <kap><tld/>e&ubreve;ropa</kap>
   <tezrad fak="LIN"/>
@@ -195,8 +177,7 @@
         estimo por la lingvaj tradicioj, a&ubreve; lingvistika ludismo
         <fnt>
           <aut>V. Barandovsk&aacute;-Frank</aut>,
-          <vrk><url
-          ref="http://www.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/07-int.htm">Enkonduka
+          <vrk><url ref="http://www.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/07-int.htm">Enkonduka
           lernolibro de interlingvistiko</url></vrk>,
           <lok>1995</lok>
         </fnt>.
@@ -217,10 +198,14 @@
   <trd lng="pl">indoeuropejski</trd>
   <trd lng="hu">indoeur&oacute;pai</trd>
   <trd lng="ru">&c_i;&c_n;&c_d;&c_o;&c_je;&c_v;&c_r;&c_o;&c_p;&c_je;&c_j;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="uk">&#x456;&#x43D;&#x434;&#x43E;&#x454;&#x432;&#x440;&#x43E;&#x43F;&#x435;&#x439;&#x441;&#x44C;&#x43A;&#x438;&#x439;</trd>
 </drv>
 </art>
 <!--
-$Log: hind.xml,v $
+$Log$
+versio 1.30 2021/03/08 17:29:23
+Wolfram Diestel: movi H~a Oceano al ocean/
+
 versio 1.29 2020/02/28 00:10:48
 Robin van der Vliet: difinoj, +trd
 
@@ -240,8 +225,5 @@ Revision 1.24  2014/04/05 19:10:17  revo
 Damien Brucker: +trd fr
 
 Revision 1.23  2012/07/20 08:10:13  revo
-Marc Rausell: + trd ca
-
-Revision 1.22  2011/01/04 21:10:12  revo
 -->
 </vortaro>

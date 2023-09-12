@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: komple3.xml,v 1.9 2007/07/23 16:30:48 revo Exp $">
+<art mrk="$Id: komple3.xml,v 1.16 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <rad>kompletiv</rad>/a
 </kap>
@@ -22,8 +21,7 @@
         subjunkcio de la dependa demando
         <fnt>
           <aut>K. Kalocsay, G. Waringhien</aut>
-          <vrk><url ref="http://luisguillermo.com/PAG/Plena_Analiza_Gramatiko_(K._Kalocsay,_G._Waringhien).pdf"
-              >Plena Analiza Gramatiko</url></vrk>
+          <vrk><url ref="http://luisguillermo.com/PAG/Plena_Analiza_Gramatiko_(K._Kalocsay,_G._Waringhien).pdf">Plena Analiza Gramatiko</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -31,10 +29,12 @@
       <ref cel="kondic1.0eke">ke</ref>.
     </refgrp>
   </snc>
+  <trd lng="be">&c_d;&c_a;&c_p;&c_a;&c_w;&c_n;&c_ja;&c_l;&c_mol;&c_n;&c_y; <klr>(&c_s;&c_k;&c_a;&c_z;)</klr></trd>
   <trd lng="cs">dopl&ncaron;kov&yacute;</trd>
   <trd lng="de">kompletiv</trd>
   <trd lng="es">completiva</trd>
   <trd lng="fr">compl&eacute;tif</trd>
+  <trd lng="ja">&#x88DC;&#x8DB3;&#x306E;  [<ind>&#x307B;&#x305D;&#x304F;&#x306E;</ind>]</trd>
   <trd lng="nl">bepalend</trd>
   <trdgrp lng="pl">
     <trd>dope&lstroke;nieniowy</trd>,
@@ -45,10 +45,14 @@
   <trd lng="ru">&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; <klr>(&c_o; &c_p;&c_r;&c_i;&c_d;&c_a;&c_t;&c_o;&c_ch;&c_n;&c_o;&c_m;
   &c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
   <trd lng="sk">doplnkov&yacute;</trd>
+  <trd lng="uk">&#x434;&#x43E;&#x434;&#x430;&#x442;&#x43A;&#x43E;&#x432;&#x438;&#x439;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.14 2022/02/16 08:32:57
+Dmitri Gabinski: + trd be
+
 Revision 1.12  2018/06/15 23:10:16  revo
 Vito Redsky: +trd pl +trd ro
 

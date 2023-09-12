@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rekome.xml,v 1.23 2023/09/03 07:53:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rekomend</rad>/i <fnt><bib>PV</bib></fnt>
@@ -52,6 +51,7 @@
       <trd>&c_r;&c_a;&c_ib;&c_c;&c_mol;</trd>
     </trdgrp>
   <trd lng="bg">&c_p;&c_r;&c_je;&c_p;&c_o;&c_r;&c_malmol;&c_ch;&c_v;&c_a;&c_m;</trd>
+  <trd lng="bo">&#xF62;&#xF92;&#xFB1;&#xF56;&#xF0B;&#xF66;&#xFA3;&#xF7C;&#xF53;&#xF0B;&#xF56;&#xFB1;&#xF7A;&#xF51;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>doporu&ccaron;it</trd>,
     <trd>doporu&ccaron;ovat</trd>,
@@ -61,13 +61,26 @@
   <trd lng="en">recommend</trd>
   <trd lng="fr">recommander</trd>
   <trd lng="hu">aj&aacute;nl</trd>
+  <trdgrp lng="ja">
+    <trd>&#x63A8;&#x85A6;&#x3059;&#x308B;  [<ind>&#x3059;&#x3044;&#x305B;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x63A8;&#x5968;&#x3059;&#x308B;  [<ind>&#x3059;&#x3044;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x7D39;&#x4ECB;&#x3059;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x304B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x52E7;&#x3081;&#x308B;  [<ind>&#x3059;&#x3059;&#x3081;&#x308B;</ind>]</trd>,
+    <trd>&#x52E7;&#x544A;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3053;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">aanbevelen</trd>
+  <trdgrp lng="pl">
+    <trd>rekomendowa&cacute;</trd>,
+    <trd>nastr&eogonek;cza&cacute;</trd>,
+    <trd>poleca&cacute;</trd>
+  </trdgrp>
   <trd lng="pt">recomendar</trd>
   <trd lng="ru">&c_r;&c_je;&c_k;&c_o;&c_m;&c_je;&c_n;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>odporu&ccaron;i&tcaron;</trd>,
     <trd>odpor&uacute;&ccaron;a&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&#x43A;&#x43E;&#x43C;&c_je;&#x43D;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="rekome.0o">
@@ -79,8 +92,7 @@
         <tld/>oj de la akademio
         <fnt>
           <aut>Akademio de Esperanto</aut>,
-          <vrk><url
-          ref="http://akademio-de-esperanto.org/aktoj/aktoj2/rekomendoj.html">
+          <vrk><url ref="&AdE;/aktoj/aktoj2/rekomendoj.html">
           Aktoj de la Akademio II 1968-1974</url></vrk>,
           <lok>[1974?]</lok>
         </fnt>;
@@ -90,7 +102,23 @@
       </ekz> 
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_k;&c_a;&c_m;&c_e;&c_n;&c_d;&c_a;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_d;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_d;&c_a;</trd>
+  </trdgrp>
   <trd lng="fr">recommandation</trd>
+  <trdgrp lng="ja">
+    <trd>&#x63A8;&#x85A6;  [<ind>&#x3059;&#x3044;&#x305B;&#x3093;</ind>]</trd>,
+    <trd>&#x63A8;&#x5968;  [<ind>&#x3059;&#x3044;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x52E7;&#x3081;  [<ind>&#x3059;&#x3059;&#x3081;</ind>]</trd>,
+    <trd>&#x52E7;&#x544A;  [<ind>&#x304B;&#x3093;&#x3053;&#x304F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>polecenie</trd>,
+    <trd>zalecenie</trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&#x43A;&#x43E;&#x43C;&c_je;&#x43D;&c_d;&c_a;&c_c;&c_ib;&#x44F;</trd>
 </drv>
 
 <drv mrk="rekome.mal0i">
@@ -106,14 +134,24 @@
         <fnt>
           <aut>H. Barron</aut>,
           <vrk>La 93a UK de Esperanto en Roterdamo, 2008</vrk>,
-          <lok><url
-          ref="http://www.esperanto-chicago.org/newsletters/08_08.pdf">
+          <lok><url ref="http://www.esperanto-chicago.org/newsletters/08_08.pdf">
           Saluton!, 2008-08</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_r;&c_a;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_g;&c_a;&c_v;&c_o;&c_r;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;conseiller</trd>
+  <trdgrp lng="ja">
+    <trd>&#x60AA;&#x304F;&#x8A00;&#x3046;  [<ind>&#x308F;&#x308B;&#x304F;&#x3044;&#x3046;</ind>]</trd>,
+    <trd>&#x3051;&#x306A;&#x3059;</trd>,
+    <trd>&#x3053;&#x304D;&#x4E0B;&#x308D;&#x3059;  [<ind>&#x3053;&#x304D;&#x304A;&#x308D;&#x3059;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">odradza&cacute;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_r;&c_a;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="rekome.mal0o">
@@ -126,19 +164,32 @@
         mal<tld/>oj
         <fnt>
           <aut>M. Kramer</aut>,
-          <vrk>en: <url
-          ref="http://www.liberafolio.org/2013/fresa-pomego-malkomplike-korektas">
+          <vrk>en: <url ref="http://www.liberafolio.org/2013/fresa-pomego-malkomplike-korektas">
           Fre&scirc;a PoMEGo malkomplike korektas</url></vrk>,
           <lok>libera folio, 2013-06-17</lok>
         </fnt>
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_d;&c_g;&c_a;&c_v;&c_o;&c_r;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="fr">d&eacute;sapprobation</trd>
+  <trdgrp lng="pl">
+    <trd>dezaprobata</trd>,
+    <trd>zniech&eogonek;canie</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/06/07 22:28:47
+Vito Redsky: +trd pl 
+
+versio 1.21 2023/05/06 14:26:04
+revo: aktualigo URL-unuoj
+
+versio 1.20 2022/09/26 14:06:59
+Dmitri Gabinski: + trd be
+
 Revision 1.16  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -152,11 +203,5 @@ Revision 1.13  2006/02/19 17:32:20  revo
 Tulio Flores: +trd pt
 
 Revision 1.12  2005/12/12 17:31:06  revo
-Axel Rousseau: +trd fr
-
-Revision 1.11  2004/09/06 16:35:13  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2003/08/17 17:27:27  revo
 -->
 </vortaro>

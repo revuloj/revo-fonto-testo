@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lauxb.xml,v 1.14 2006/09/01 18:30:05 revo Exp $">
+<art mrk="$Id: lauxb.xml,v 1.18 2022/12/04 18:31:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>la&ubreve;b</rad>/o
@@ -12,19 +11,55 @@
   <snc mrk="lauxb.0o.HOR">
     <uzo tip="fak">HOR</uzo>
     <dif>
-      Artefarita volbo el foliaro a&ubreve; arbetoj en &gcirc;ardeno (ordinare
+      Arte farita volbo el foliaro a&ubreve; arbetoj en <ref tip="malprt" cel="gxarde.0o">&gcirc;ardeno</ref>
+      (ordinare
       subtenita per diversspeca subtenilo):
       <ekz>
-        <tld/>o el bastonoj kunplektitaj de konvolvuloj kaj
-        pizoj<fnt>B</fnt>.
+        jasmena <tld/>o
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malgranda frukta &gcirc;ardeno post malnova &scirc;tona domo kun longa <tld/>o anta&ubreve; la pordo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Klaro trakuris la &gcirc;ardenon kaj haltis &ccirc;e la krado apud la siringa <tld/>o
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o, perfekte kovrita de grimpantaj kreska&jcirc;oj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en <tld/>oj lo&gcirc;u dum sep tagoj, &ccirc;iu indi&gcirc;eno en <nom>Izrael</nom> lo&gcirc;u en <tld/>oj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 23:42</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="fest.0odelauxboj">Festo de La&ubreve;boj</ref>,
+       <ref cel="pergol.0o">pergolo</ref>,
+       <ref cel="pavilo.0o">pavilono</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_t;&c_a;&c_n;&c_k;&c_a;</trd>
   <trd lng="br">pratell<klr tip="ind"> (el liorzho&ugrave;)</klr></trd>
   <trdgrp lng="de">
     <trd>Laube</trd>,
-    <trd>Gartenlaube</trd>
+    <trd>Gartenlaube</trd>,
+    <trd>Laubengang</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>arbor</trd>,
@@ -46,10 +81,18 @@
   <trd lng="ro">foi&#537;or</trd>
   <trd lng="ru">&c_b;&c_je;&c_s;&c_je;&c_d;&c_k;&c_a;</trd>
   <trd lng="es">p&eacute;rgola</trd>
+  <trd lng="uk">&c_a;&#x43B;&#x44C;&c_t;&c_a;&#x43D;&#x43A;&c_a; (&#x43E;&#x43F;&#x43E;&c_v;&c_i;&c_t;&c_a;
+  &c_z;&c_je;&#x43B;&c_je;&#x43D;&#x43D;&#x44E;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2022/12/04 18:31:15
+Ulrich Fellmann: lauxbo: +1 plia DE trd
+
+versio 1.16 2020/11/07 10:33:24
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.14  2006/09/01 18:30:05  revo
 Tulio Flores: +tr pt
 
@@ -66,8 +109,5 @@ Revision 1.10 2002/10/27 17:11:20 revo
 Manuel Pancorbo: ald hisp trd
 
 Revision 1.9 2002/09/22 16:31:58 revo
-Ulrich Fellmann: + 2 trd de
-
-Revision 1.8 2002/07/09 17:33:59 revo
 -->
 </vortaro>

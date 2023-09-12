@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: forn.xml,v 1.28 2008/03/28 17:30:40 revo Exp $">
+<art mrk="$Id: forn.xml,v 1.48 2023/08/31 13:11:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>forn</rad>/o <fnt><bib>PV</bib></fnt>
@@ -84,7 +83,17 @@
   <trd lng="es">horno</trd>
   <trd lng="fr">four</trd>
   <trd lng="nl">oven</trd>
+  <trdgrp lng="pl">
+    <trd>kocio&lstroke;</trd>,
+    <trd>kuchnia</trd>,
+    <trd>piec  <klr>(do ogrzewania)</klr></trd>
+  </trdgrp>
   <trd lng="pt">forno</trd>
+  <trdgrp lng="ro">
+    <trd>c&abreve;ldare</trd>,
+    <trd>sob&abreve;</trd>,
+    <trd>cuptor  <klr>(pentru &icirc;nc&abreve;lzire)</klr></trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_je;&c_ch;&c_mol;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
   <trdgrp lng="sk">
     <trd>kachle</trd>,
@@ -107,18 +116,18 @@
   <snc mrk="forn.F0o.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Sud-hemisfera <ref tip="lst"
-      cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd
-      lng="la">Fornax</trd>):
+      Sud-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd lng="la">Fornax</trd>):
       <ekz>
         NGC 689 <klr>[...]</klr> estas galaksio en konstelacio <tld lit="F"/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=110273'>NGC 689</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=110273">NGC 689</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_P;&c_je;&c_ch; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#x2019;&c_je;)</klr></trd>
+  <trd lng="bo">&#xF50;&#xF56;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>kamna</trd>,
     <trd>pec</trd>
@@ -127,13 +136,23 @@
   <trd lng="en">Fornax</trd>
   <trd lng="es">Horno</trd>
   <trd lng="fr">Fourneau<klr tip="ind"> (constellation)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7089;  [<ind>&#x308D;</ind>]</trd>,
+    <trd>&#x304B;&#x307E;&#x3069;</trd>,
+    <trd>&#x6696;&#x7089;  [<ind>&#x3060;&#x3093;&#x308D;</ind>]</trd>,
+    <trd>&#x30B9;&#x30C8;&#x30FC;&#x30D6;</trd>,
+    <trd>&#x3053;&#x3093;&#x308D;</trd>
+  </trdgrp>
   <trd lng="nl">Oven<klr> (sterrenbeeld)</klr></trd>
   <trd lng="no">Smelteovnen<klr> (stjernebilde)</klr></trd>
+  <trd lng="pl">Piec  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Cuptorul  <klr>(constela&#x21B;ie)</klr></trd>
   <trdgrp lng="sk">
     <trd>kachle</trd>,
     <trd>pec</trd>,
     <trd>&scaron;por&aacute;k</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_ib;&c_ch;</trd>
 </drv>
 
 <drv mrk="forn.0ego">
@@ -161,13 +180,23 @@
   <trd lng="cs">velk&aacute; pec || vysok&aacute; pec</trd>
   <trd lng="de">Hochofen</trd>
   <trd lng="fr">haut-fourneau</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x304B;&#x307E;&#x3069;  [<ind>&#x3060;&#x3044;&#x304B;&#x307E;&#x3069;</ind>]</trd>,
+    <trd>&#x9AD8;&#x7089;  [<ind>&#x3053;&#x3046;&#x308D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">hoogoven</trd>
+  <trd lng="pl">piec hutniczy</trd>
+  <trd lng="ro">cuptor de turn&abreve;torie</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
     <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;
     &c_p;&c_je;&c_ch;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">ve&lcaron;k&aacute; pec</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&#x43C;&c_je;&#x43D;&#x43D;&c_a; &#x43F;&c_ib;&c_ch;</trd>,
+    <trd>&c_d;&#x43E;&#x43C;&#x43D;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="forn.alt0o">
@@ -186,7 +215,14 @@
     </dif>
   </snc>
   <trd lng="cs">vysok&aacute; pec</trd>
+  <trd lng="ja">&#x9AD8;&#x7089;  [<ind>&#x3053;&#x3046;&#x308D;</ind>]</trd>
+  <trd lng="pl">wielki  <ind>piec</ind></trd>
+  <trd lng="ro">furnal</trd>
   <trd lng="sk">vysok&aacute; pec</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&#x43C;&c_je;&#x43D;&#x43D;&c_a; &#x43F;&c_ib;&c_ch;</trd>,
+    <trd>&c_d;&#x43E;&#x43C;&#x43D;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="forn.bak0o">
@@ -203,28 +239,39 @@
         produktado de &Ccirc;inio
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://www.china.org.cn/esperanto1/world/shi-kaogu/tang.htm">
+          <vrk><url ref="http://www.china.org.cn/esperanto1/world/shi-kaogu/tang.htm">
           Nova Elkovro de Porcelanaj Bakujoj...</url></vrk>,
           <lok>[1999?]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_je;&c_ch; <klr>(&c_p;&c_ja;&c_k;&c_a;&c_r;&c_n;&c_a;&c_ja;)</klr></trd>
   <trdgrp lng="cs">
     <trd>peka&rcaron;sk&aacute; pec</trd>,
     <trd>pe&ccaron;&iacute;c&iacute; trouba</trd>
   </trdgrp>
   <trd lng="fr">four de cuisson</trd>
+  <trd lng="he">&#x5EA;&#x5E0;&#x5D5;&#x5E8; &#x5D0;&#x5E4;&#x5D9;&#x5D4;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D1;&#x30F3;&#x713C;&#x304D;&#x304C;&#x307E;  [<ind>&#x3071;&#x3093;&#x3084;&#x304D;&#x304C;&#x307E;</ind>]</trd>,
+    <trd>&#x30AA;&#x30FC;&#x30D6;&#x30F3;  [<ind>&#x304A;&#x30FC;&#x3076;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>piekarnik</trd>,
+    <trd>piec chlebowy</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>forno</trd>,
     <trd>fog&atilde;o</trd>,
     <trd>estufa</trd>
   </trdgrp>
+  <trd lng="ro">cuptor de p&acirc;ine</trd>
   <trdgrp lng="sk">
     <trd>pec na pe&ccaron;enie</trd>,
     <trd>pec na vypa&lcaron;ovanie hrncov</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_ib;&c_ch; &c_d;&#x43B;&#x44F; &c_v;&c_i;&#x43F;&c_ib;&#x43A;&c_a;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="forn.fand0o">
@@ -237,14 +284,14 @@
         fandado okazas en speciala fand<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=274923'>Orbatisto</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=274923">Orbatisto</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         rekonstruo de fergisado en fumanta fand<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=311887'>W&lstroke;odzimierz Sedlak</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=311887">W&lstroke;odzimierz Sedlak</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -259,7 +306,10 @@
   </trdgrp>
   <trd lng="de">Hochofen</trd>
   <trd lng="fr">haut-fourneau</trd>
+  <trd lng="ja">&#x6EB6;&#x9271;&#x7089;  [<ind>&#x3088;&#x3046;&#x3053;&#x3046;&#x308D;</ind>]</trd>
   <trd lng="nl">hoogoven</trd>
+  <trd lng="pl">piec odlewniczy</trd>
+  <trd lng="ro">cuptor de turn&abreve;torie</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
     <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;
@@ -269,6 +319,7 @@
     <trd>taviaca</trd>,
     <trd>vysok&aacute; pec</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&#x43B;&c_a;&c_v;&c_i;&#x43B;&#x44C;&#x43D;&c_a; &#x43F;&c_ib;&c_ch;</trd>
 </drv>
 
 <drv mrk="forn.hejto0o">
@@ -289,7 +340,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_p;&c_je;&c_ch;</trd>
+  <trd lng="be">&c_p;&c_je;&c_ch; <klr>(&c_a;&c_c;&c_ja;&c_p;&c_l;&c_ja;&c_l;&c_mol;&c_n;&c_a;&c_ja;)</klr></trd>
   <trdgrp lng="cs">
     <trd>kamna na vyt&aacute;p&ecaron;n&iacute;</trd>,
     <trd>pokojov&aacute; kamna</trd>
@@ -299,9 +350,16 @@
     <trd>k&aacute;lyha</trd>,
     <trd>t&udblac;zhely</trd>
   </trdgrp>
+  <trd lng="ja">&#x30B9;&#x30C8;&#x30FC;&#x30D6;</trd>
+  <trd lng="pl">piec grzewczy</trd>
   <trd lng="pt">aquecedor <klr tip="amb">(aparelho)</klr></trd>
+  <trd lng="ro">soba de  &icirc;nc&abreve;lzire</trd>
   <trd lng="ru">&c_p;&c_je;&c_ch;&c_mol;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
   <trd lng="sk">izbov&eacute; kachle</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_u;&c_b;&#x43A;&c_a;</trd>,
+    <trd>&#x43E;&#x43F;&c_a;&#x43B;&#x44E;&c_v;&c_a;&#x43B;&#x44C;&#x43D;&c_a; &#x43F;&c_ib;&c_ch;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="forn.kuir0o">
@@ -317,25 +375,39 @@
         <fnt>
           <aut>Tahira M.</aut>,
           <vrk>Kataj familioj apud mi</vrk>,
-          <lok><url
-          ref="http://groups.yahoo.com/group/verdakato/message/440">
+          <lok><url ref="http://groups.yahoo.com/group/verdakato/message/440">
           grupo verdakato, 2007-11-09</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_je;&c_ch; <klr>(&c_k;&c_u;&c_h;&c_o;&c_n;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="cs">spor&aacute;k</trd>
   <trd lng="fr">four de cuisine</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6599;&#x7406;&#x7528;&#x304B;&#x307E;&#x3069;  [<ind>&#x308A;&#x3087;&#x3046;&#x308A;&#x3088;&#x3046;&#x304B;&#x307E;&#x3069;</ind>]</trd>,
+    <trd>&#x30EC;&#x30F3;&#x30B8;</trd>,
+    <trd>&#x3053;&#x3093;&#x308D;</trd>
+  </trdgrp>
+  <trd lng="pl">piec do gotowania</trd>
   <trdgrp lng="pt">
     <trd>forno</trd>,
     <trd>fog&atilde;o</trd>,
     <trd>estufa</trd>
   </trdgrp>
+  <trd lng="ro">cuptor pentru g&abreve;tit</trd>
   <trd lng="sk">spor&aacute;k</trd>
+  <trd lng="uk">&#x43A;&c_u;&c_h;&#x43E;&#x43D;&#x43D;&c_a; &#x43F;&c_ib;&c_ch;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.47 2023/03/27 06:33:21
+Dmitri Gabinski: + trd be
+
+versio 1.46 2022/09/24 19:28:23
+Vito Redsky: +trd pl + trd ro
+
 Revision 1.36  2017/04/25 08:10:24  revo
 Ludoviko Francisco: +trd
 
@@ -352,8 +424,5 @@ Revision 1.32  2014/12/12 19:10:11  revo
 Filip van Laenen: +trd(nl,no)
 
 Revision 1.31  2014/04/06 18:10:19  revo
-Wolfram Diestel: kor. sud-hemisfera stelfiguro
-
-Revision 1.30  2013/08/25 08:10:26  revo
 -->
 </vortaro>

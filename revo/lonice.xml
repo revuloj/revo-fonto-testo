@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lonice.xml,v 1.21 2020/02/12 00:11:05 revo Exp $">
+<art mrk="$Id: lonice.xml,v 1.25 2023/09/02 05:33:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lonicer</rad>/o
@@ -14,8 +13,7 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">Genro</ref> el familio
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio
       <ref tip="malprt" cel="kaprif1.0oj">kaprifoliacoj</ref>
       (<trd lng="la">Lonicera</trd>),
       grimpanta arbeto kun tordaj tubformaj bonodoraj floroj:
@@ -38,19 +36,17 @@
       </ekz>
     </dif>
     <ref tip="sub" cel="kaprif.0o">kaprifolio</ref>
-    <bld
-      lok="&WCU;/thumb/d/de/Lonicera_nigra_(Schwarz-Heckenkirsche)_IMG_6312.JPG/640px-Lonicera_nigra_(Schwarz-Heckenkirsche)_IMG_6312.JPG"
-      prm="CC0"
-      >bran&ccirc;oj kun beroj de Nigra <tld/>o (Lonicera nigra)
+    <bld lok="&WCU;/thumb/d/de/Lonicera_nigra_(Schwarz-Heckenkirsche)_IMG_6312.JPG/640px-Lonicera_nigra_(Schwarz-Heckenkirsche)_IMG_6312.JPG" prm="CC0">bran&ccirc;oj kun beroj de Nigra <tld/>o (Lonicera nigra)
         <fnt>
           <aut>HermannSchachner, propra verko</aut>
-          <lok><url
-          ref="&WCW;/File:Lonicera_nigra_(Schwarz-Heckenkirsche)_IMG_6312.JPG"
-              >https://commons.wikimedia.org/wiki/File:Lonicera_nigra_(Schwarz-Heckenkirsche)_IMG_6312.JPG</url></lok>
+          <lok><url ref="&WCW;/File:Lonicera_nigra_(Schwarz-Heckenkirsche)_IMG_6312.JPG">&WCW;/File:Lonicera_nigra_(Schwarz-Heckenkirsche)_IMG_6312.JPG</url></lok>
         </fnt>
     </bld>
   </snc>
-  <trd lng="be">&c_b;&c_r;&c_u;&c_zh;&c_m;&c_je;&c_l;&c_mol;</trd> 
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_u;&c_zh;&c_m;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_b;&c_r;&c_u;&c_zh;&c_m;&c_je;&c_n;&c_mol;</trd>
+  </trdgrp>
   <trd lng="br">gwezvoudenn</trd>   
   <trdgrp lng="ca">
     <trd>mare-selva</trd>,
@@ -61,9 +57,10 @@
     <trd>Gei&szlig;blatt</trd>
   </trdgrp>
   <trd lng="en">honeysuckle</trd>
-  <trd lng="fa">&f_p;&f_y;&f_ch; &a_A;&a_m;&f_y;&a_n;&zwnj;&a_A;&a_l;&a_d;&a_w;&a_l;&a_h;</trd>
+  <trd lng="fa">&f_p;&f_y;&f_ch; &a_A;&a_m;&f_y;&a_n;&#x200C;&a_A;&a_l;&a_d;&a_w;&a_l;&a_h;</trd>
   <trd lng="fr">ch&egrave;vrefeuille</trd>
   <trd lng="hu">lonc</trd>
+  <trd lng="ja">&#x30B9;&#x30A4;&#x30AB;&#x30BA;&#x30E9;</trd>
   <trd lng="nl">kamperfolie</trd>
   <trd lng="pl">wiciokrzew</trd>
   <trdgrp lng="pt">
@@ -72,10 +69,20 @@
   </trdgrp>
   <trd lng="ro">caprifoi</trd>
   <trd lng="ru">&c_zh;&c_i;&c_m;&c_o;&c_l;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&#x43C;&#x43E;&#x43B;&#x43E;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_d;&c_je;&c_r;&c_je;&c_v;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log: lonice.xml,v $
+$Log$
+versio 1.24 2023/04/27 08:30:46
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
 versio 1.21 2020/02/12 00:11:05
 Vito Redsky: +trd pl +trd ro  
 
@@ -92,11 +99,5 @@ Revision 1.17  2009/09/10 16:31:51  revo
 Russ Williams: +trd en
 
 Revision 1.16  2009/06/19 05:09:14  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.15  2007/09/23 16:30:53  revo
-Tulio Flores: +tr pt
-
-Revision 1.14  2005/04/16 16:31:40  revo
 -->
 </vortaro>

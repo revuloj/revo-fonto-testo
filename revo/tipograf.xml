@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tipograf.xml,v 1.9 2023/09/04 19:01:52 revo Exp $">
 <kap>
   <ofc>7</ofc><rad>tipograf</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -14,7 +13,7 @@
       <ref tip="dif" cel="tipogr.0a.TIP">Tipografiisto</ref>:
       <ekz>
         en la unuaj monatoj de mia estado en Parizo mi konati&gcirc;is kun 
-        mia samlandano S-ro <nom>V. Polg&aacute;r</nom>, <tld/>o <klr>[&#8230;]</klr> kaj 
+        mia samlandano S-ro <nom>V. Polg&aacute;r</nom>, <tld/>o <klr>[&#x2026;]</klr> kaj 
         laboristo en la Presa Esperantista Societo
         <fnt>
           <aut>P. De Lengyel</aut>,
@@ -36,14 +35,34 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_y;&c_p;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>,
+    <trd>&c_d;&c_r;&c_u;&c_k;&c_a;&c_r;</trd>
+  </trdgrp>
   <trd lng="ca">tip&ograve;graf</trd>
   <trd lng="de">Setzer</trd>
   <trd lng="fr">typographe</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D3B;&#x7248;&#x5370;&#x5237;&#x6280;&#x8853;&#x8005;  [<ind>&#x304B;&#x3063;&#x3071;&#x3093;&#x3044;&#x3093;&#x3055;&#x3064;&#x304E;&#x3058;&#x3085;&#x3064;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x30BF;&#x30A4;&#x30DD;&#x30B0;&#x30E9;&#x30D5;&#x30A1;&#x30FC;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>typograaf</trd>,
+    <trd>zetter</trd>
+  </trdgrp>
+  <trd lng="ro">tipograf</trd>
+  <trd lng="uk">&c_d;&c_r;&c_u;&#x43A;&c_a;&c_r;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.8 2023/03/24 12:44:37
+Dmitri Gabinski: + trd be
+
+versio 1.7 2023/03/20 10:33:27
+Paul Peeraerts: + trd ro nl
+
 Revision 1.4  2018/01/02 19:10:22  revo
 Michel Cantigneaux: Aldonita per 7a OA
 
@@ -55,6 +74,5 @@ Marc Rausell: + trd ca
 
 Revision 1.1  2008/01/24 19:49:34  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: elokve.xml,v 1.19 2010/01/27 17:30:29 revo Exp $">
+<art mrk="$Id: elokve.xml,v 1.28 2023/08/31 11:49:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>elokvent</rad>/a <fnt><bib>PV</bib></fnt>
@@ -73,11 +72,26 @@
   </trdgrp>
   <trd lng="en">eloquent</trd>
   <trd lng="es">elocuente</trd>
+  <trdgrp lng="fa">
+    <trd>&a_z;&a_b;&a_A;&a_n;&zwnj;&a_A_madda;&a_w;&a_r;</trd>
+    <trd>&a_f;&a_S;&f_y;&a_H;</trd>,
+    <trd>&a_r;&a_s;&a_A;</trd>,
+    <trd>&a_sh;&f_y;&a_w;&a_A;</trd>
+  </trdgrp>
   <trd lng="fr">&eacute;loquent</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96C4;&#x5F01;&#x306A;  [<ind>&#x3086;&#x3046;&#x3079;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x8AAC;&#x5F97;&#x529B;&#x306E;&#x3042;&#x308B;  [<ind>&#x305B;&#x3063;&#x3068;&#x304F;&#x3061;&#x304B;&#x3089;&#x306E;&#x3042;&#x308B;</ind>]</trd>,
+    <trd>&#x8868;&#x60C5;&#x306E;&#x8C4A;&#x304B;&#x306A;  [<ind>&#x3072;&#x3087;&#x3046;&#x3058;&#x3087;&#x3046;&#x306E;&#x3086;&#x305F;&#x304B;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">welsprekend</trd>
   <trd lng="pt">eloq&uuml;ente</trd>
   <trd lng="sk">v&yacute;re&ccaron;n&yacute;</trd>
   <trd lng="sv">v&auml;ltalig</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x440;&#x430;&#x441;&#x43D;&#x43E;&#x43C;&#x43E;&#x432;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x432;&#x438;&#x440;&#x430;&#x437;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="elokve.0i">
@@ -92,10 +106,13 @@
       </ekz> 
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_a;&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol; <ind>&c_k;&c_r;&c_a;&c_s;&c_a;&c_m;&c_o;&c_w;&c_n;&c_a;</ind></trd>
   <trd lng="cs">kraso&rcaron;e&ccaron;nit</trd>
   <trd lng="en">to speak eloquently</trd>
   <trd lng="fr">faire preuve d'<ind>&eacute;loquence</ind></trd>
+  <trd lng="ja">&#x96C4;&#x5F01;&#x3092;&#x3075;&#x308B;&#x3046;  [<ind>&#x3086;&#x3046;&#x3079;&#x3093;&#x3092;&#x3075;&#x308B;&#x3046;</ind>]</trd>
   <trd lng="sk">krasore&ccaron;ni&tcaron;</trd>
+  <trd lng="uk">&#x431;&#x443;&#x442;&#x438; &#x43A;&#x440;&#x430;&#x441;&#x43D;&#x43E;&#x43C;&#x43E;&#x432;&#x43D;&#x438;&#x43C;</trd>
 </drv>
 
 <drv mrk="elokve.0o">
@@ -129,8 +146,17 @@
   </trdgrp>
   <trd lng="en">eloquence</trd>
   <trd lng="es">elocuencia</trd>
+  <trdgrp lng="fa">
+    <trd>&a_z;&a_b;&a_A;&a_n;&zwnj;&a_A_madda;&a_w;&a_r;&f_y;</trd>,
+    <trd>&a_f;&a_S;&a_A;&a_H;&a_t;</trd>,
+    <trd>&a_b;&a_l;&a_A;&a_gh;&a_t;</trd>
+  </trdgrp>
   <trd lng="fr">&eacute;loquence</trd>
   <trd lng="hu">&eacute;kessz&oacute;l&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96C4;&#x5F01;  [<ind>&#x3086;&#x3046;&#x3079;&#x3093;</ind>]</trd>,
+    <trd>&#x8AAC;&#x5F97;&#x529B;  [<ind>&#x305B;&#x3063;&#x3068;&#x304F;&#x308A;&#x3087;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">welsprekendheid</trd>
   <trdgrp lng="pl">
     <trd>elokwencja</trd>,
@@ -138,10 +164,17 @@
   </trdgrp>
   <trd lng="ru">&c_k;&c_r;&c_a;&c_s;&c_n;&c_o;&c_r;&c_je;&c_ch;&c_i;&c_je;</trd>
   <trd lng="sk">v&yacute;re&ccaron;nos&tcaron;</trd>
+  <trd lng="uk">&#x43A;&#x440;&#x430;&#x441;&#x43D;&#x43E;&#x43C;&#x43E;&#x432;&#x441;&#x442;&#x432;&#x43E;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2021/12/16 09:32:04
+Dmitri Gabinski: + trd be
+
+versio 1.25 2021/02/18 19:10:32
+Behnam Tabatabai: +trd fa
+
 Revision 1.23  2015/09/18 13:10:23  revo
 Jeromo Vasxe: + ekz
 
@@ -158,8 +191,5 @@ Revision 1.19  2010/01/27 17:30:29  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.18  2009/02/19 20:27:12  revo
-Russ Williams: +trd en
-
-Revision 1.17  2007/06/27 16:31:56  revo
 -->
 </vortaro>

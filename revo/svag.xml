@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: svag.xml,v 1.9 2020/02/19 11:10:16 revo Exp $">
+<art mrk="$Id: svag.xml,v 1.15 2023/05/06 11:23:22 revo Exp $">
 <kap>
     <rad>svag</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -15,9 +14,7 @@
       <ref tip="dif" cel="preciz.mal0a.KOMUNE">Malpreciza</ref>,
       <ref tip="dif" cel="nebul.0a.FIG">nebula <sncref/></ref>:
       <ekz>
-        la tolo <klr>[&#8230;]</klr> &scirc;ajnis vasti&gcirc;i al la <tld/>aj kaj nebulaj
-        
-        muroj 
+        la tolo <klr>[&#8230;]</klr> &scirc;ajnis vasti&gcirc;i al la <tld/>aj kaj nebulaj muroj 
         <fnt>
           <aut>J. Camacho</aut>,
           <vrk>La Majstro kaj Martinelli</vrk>,
@@ -29,8 +26,7 @@
         <tld/>e kaj apena&ubreve; plu legeble
         <fnt>
           <aut>Lukiano, trad. G. Berveling</aut>, 
-          <vrk><url
-          ref="http://www.esperanto.gr/lit/els/rakontoj.pdf">veraj 
+          <vrk><url ref="http://www.esperanto.gr/lit/els/rakontoj.pdf">veraj 
             rakontoj</url> &#8208; 2005</vrk>
         </fnt>;
       </ekz>
@@ -38,31 +34,30 @@
         <klr>[li]</klr> celas precizigi &ccirc;ion, kio &ccirc;e <nom>Zamenhof</nom>
         restis ambigua, <tld/>a a&ubreve; e&ccirc; rekte erara
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006820.html">Plia
-          libro biblia</url></vrk>
+	<aut>Jorge Camacho</aut>
+	<vrk><url ref="&Monato;/2000/006820.php">Plia libro biblia</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>aj limoj inter realo kaj son&gcirc;o, inter efektivo kaj imago,
         inter frenezo kaj racio
         <fnt>
+       <aut>Jorge Camacho</aut>
+          <vrk><url ref="&Monato;/2000/006836.php">Pri realo kaj la malo</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006836.html">Pri realo
-          kaj la malo</url></vrk>
+          <lok>2000/09, p. 23</lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>aj memoroj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2003/007921.html">Ho,
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007921.html">Ho,
           mistera pi!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/06, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -70,7 +65,10 @@
         el 
         ni devus la&ubreve;vole, libere ne atence retrovi sian propran bildon
         <fnt>
+        <aut>Gilbert Ledon</aut>
+         <vrk><url ref="&Monato;/2000/007018.php">Kulturo de milito</url></vrk>
           <bib>Monato</bib>
+          <lok>2000/06, p. 5</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -85,6 +83,11 @@
       <trd>nebul&ouml;s</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_v;&c_y;&c_r;&c_a;&c_z;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_ja;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_l;&c_y;&c_v;&c_ib;&c_s;&c_t;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_n;&c_je;&c_ja;&c_s;&c_je;&c_n;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_m;&c_i;&c_t;&c_a;<klr tip="amb">
@@ -114,11 +117,32 @@
     <trd>nejasn&yacute;</trd>,
     <trd>neur&ccaron;it&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&#x43B;&c_i;&c_v;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_ch;&c_ib;&c_t;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&#x44F;&c_s;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_v;&c_i;&c_r;&c_a;&c_z;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
-$Log: svag.xml,v $
+$Log$
+versio 1.15 2023/05/06 11:23:22
+Paul Peeraerts: + lok +  aut +  vrk
+
+versio 1.14 2023/04/24 15:27:43
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.13 2023/04/23 12:44:16
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.12 2023/04/13 08:31:25
+Dmitri Gabinski: + trd be
+
+versio 1.11 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
 versio 1.9 2020/02/19 11:10:16
 Santiago Amposta: +trd es
 
@@ -126,20 +150,5 @@ Revision 1.8  2019/06/30 07:43:30  revo
 adaptis URL de Monato
 
 Revision 1.7  2018/06/24 18:10:13  revo
-Wolfram Diestel: + trd de
-
-Revision 1.6  2018/06/24 17:10:16  revo
-Wolfram Diestel: ekz-oj kaj germ trd-oj
-
-Revision 1.5  2015/07/04 08:37:44  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.4  2015/06/29 16:33:25  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.3  2015/06/25 14:10:15  revo
-Joop Eggen: +trd bg en nl
-
-Revision 1.2  2010/06/09 16:30:24  revo
 -->
 </vortaro>

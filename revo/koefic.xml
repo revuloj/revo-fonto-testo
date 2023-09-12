@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: koefic.xml,v 1.32 2020/02/13 17:10:15 revo Exp $">
+<art mrk="$Id: koefic.xml,v 1.35 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>koeficient</rad>/o
@@ -73,11 +72,9 @@
         <ekz>
           la <frm am="k">k</frm>-a <tld/>o (t.e. rilata al indico
           <frm am="k">k</frm>) de la <frm am="n">n</frm>-a
-          potenco de <frm am="b*bb X+a*bb 1"
-          >(b&middot;<g>X</g>+a&middot;<g>1</g>)</frm>
+          potenco de <frm am="b*bb X+a*bb 1">(b&middot;<g>X</g>+a&middot;<g>1</g>)</frm>
           estas
-          <frm am="K_n^ka^(n-k)b^k"
-          >K<sup>k</sup><sub>n</sub>a<sup>n-k</sup>b<sup>k</sup></frm>.
+          <frm am="K_n^ka^(n-k)b^k">K<sup>k</sup><sub>n</sub>a<sup>n-k</sup>b<sup>k</sup></frm>.
         </ekz>
       </dif>
       <ref tip="sin" cel="term.0o.polinomo">termo.</ref>
@@ -133,13 +130,19 @@
   <trd lng="es">coeficiente</trd>
   <trd lng="fr">coefficient</trd>
   <trd lng="hu">egy&uuml;tthat&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4FC2;&#x6570;  [<ind>&#x3051;&#x3044;&#x3059;&#x3046;</ind>]</trd>,
+    <trd>&#x7387;  [<ind>&#x308A;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">co&euml;ffici&euml;nt</trd>
   <trd lng="pl">wsp&oacute;&lstroke;czynnik</trd>
+  <trd lng="pt">coeficiente</trd>
   <trd lng="ru">&c_k;&c_o;&c_e;&c_f;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>koeficient</trd>,
     <trd>s&uacute;&ccaron;inite&lcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&#x43E;&#x435;&#x444;&#x456;&#x446;&#x456;&#x454;&#x43D;&#x442;</trd>
 </drv>
 
 <drv mrk="koefic.angula0o">
@@ -169,6 +172,7 @@
   </trdgrp>
   <trd lng="hu">meredeks&eacute;g <klr tip="ind">(egyenes&eacute;)</klr></trd>
   <trd lng="pl">wsp&oacute;&lstroke;czynnik kierunkowy</trd>
+  <trd lng="pt">coeficiente angular</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_a;&c_k;&c_l;&c_o;&c_n;</trd>,
     <trd>&c_u;&c_g;&c_l;&c_o;&c_v;&c_o;&c_j; <ind>&c_k;&c_o;&c_e;&c_f;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t;</ind></trd>
@@ -179,7 +183,10 @@
 </art>
 <!--
 $Log: koefic.xml,v $
-versio 1.32 2020/02/13 17:10:15
+versio 1.33 2020/03/21 00:10:43
+James Rezende Piton: +trd pt
+
+Revision 1.32  2020/02/13 16:10:14  revo
 Wolfram Diestel: formulo per atributo am
 
 Revision 1.31  2015/07/04 08:37:37  revo
@@ -198,8 +205,5 @@ Revision 1.27  2005/10/09 16:31:20  revo
 Marc Bavant: kor duobligitan punkton
 
 Revision 1.26  2005/06/10 16:31:01  revo
-Jozefo Horvath: + trd hu
-
-Revision 1.25  2005/04/05 16:37:01  revo
 -->
 </vortaro>

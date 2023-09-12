@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ateist.xml,v 1.19 2009/07/01 17:22:12 revo Exp $">
+<art mrk="$Id: ateist.xml,v 1.27 2023/08/30 18:23:37 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>ateist</rad>/o <fnt><bib>Rabistoj</bib></fnt>
@@ -28,7 +27,8 @@
       </ekz>
       <ekz>
         neniu tolerema homo permesus al si publike insulti la anojn de
-        alia religio, sed ial la homoj sentas sin absolute liberaj kritiki
+        alia religio, sed ial la homoj sentas sin absolute liberaj
+        kritiki
         <tld/>ojn
         <fnt>
           <aut>A. L&ouml;wenstein</aut>,
@@ -54,6 +54,7 @@
   <trdgrp lng="fr">
     <trd>ath&eacute;e<klr> (subst.)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5D0;&#x5B8;&#x5EA;&#x5B5;&#x5D0;&#x5B4;&#x5D9;&#x5E1;&#x5B0;&#x5D8;</trd>
   <trdgrp lng="hu">
     <trd>ateista</trd>,
     <trd>istentagad&oacute;</trd>
@@ -62,10 +63,12 @@
     <trd>ateo<klr> (sost.)</klr></trd>
     <trd>ateista<klr> (sost.)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x7121;&#x795E;&#x8AD6;&#x8005;  [<ind>&#x3080;&#x3057;&#x3093;&#x308D;&#x3093;&#x3057;&#x3083;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>athe&iuml;st</trd>,
     <trd>goddeloze</trd>
   </trdgrp>
+  <trd lng="pt">ateu</trd>
   <trd lng="ru">&c_a;&c_t;&c_je;&c_i;&c_s;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>ateista</trd>,
@@ -74,6 +77,10 @@
     <trd>neznaboh</trd>
   </trdgrp>
   <trd lng="sv">ateist</trd>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x442;&#x435;&#x457;&#x441;&#x442;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x431;&#x43E;&#x436;&#x43D;&#x438;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ateist.0a">
@@ -88,7 +95,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        eble &ccirc;ar kaj li kaj mi estis&#8239;/&#8239;estas <tld/>aj <klr>[&#8230;]</klr> ni
+        eble &ccirc;ar kaj li kaj mi estis&#x202F;/&#x202F;estas <tld/>aj <klr>[&#x2026;]</klr> ni
         amba&ubreve; povis senanta&ubreve;ju&gcirc;e pritaksi la diversajn
         tradukoproblemojn,
         kiujn amase prezentas la <ctl>Psalmoj</ctl>
@@ -112,11 +119,17 @@
   </trdgrp>
   <trd lng="en">atheistic</trd>
   <trd lng="fr">ath&eacute;e<klr> (adj.)</klr></trd>
+  <trd lng="he">&#x5D0;&#x5B8;&#x5EA;&#x5B5;&#x5D0;&#x5B4;&#x5D9;&#x5E1;&#x5B0;&#x5D8;&#x5D9;</trd>
   <trd lng="it">ateo<klr> (agg.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7121;&#x795E;&#x8AD6;&#x8005;&#x306E;  [<ind>&#x3080;&#x3057;&#x3093;&#x308D;&#x3093;&#x3057;&#x3083;&#x306E;</ind>]</trd>,
+    <trd>&#x7121;&#x795E;&#x8AD6;&#x7684;&#x306A;  [<ind>&#x3080;&#x3057;&#x3093;&#x308D;&#x3093;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>athe&iuml;stisch</trd>,
     <trd>goddeloos</trd>
   </trdgrp>
+  <trd lng="pt">ateu<klr> (adj.)</klr></trd>
   <trdgrp lng="sk">
     <trd>ateistick&yacute;</trd>,
     <trd>nevereck&yacute;</trd>
@@ -124,7 +137,13 @@
 </drv>
 </art>
 <!--
-$Log$
+$Log: ateist.xml,v $
+versio 1.24 2020/03/29 00:10:32
+James Rezende Piton: +trd pt
+
+Revision 1.23  2019/10/01 07:10:18  revo
+Wolfram Diestel: +ekz-oj
+
 Revision 1.22  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -141,8 +160,5 @@ Revision 1.18  2008/07/31 17:47:58  revo
 Jeromo Vasxe: kor ref dif
 
 Revision 1.17  2007/06/27 16:30:39  revo
-Russ Williams: korektas misliterumatan anglan de versio 1.14
-
-Revision 1.16  2006/09/05 15:23:47  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: sens.xml,v 1.24 2020/01/05 13:10:20 revo Exp $">
+<art mrk="$Id: sens.xml,v 1.39 2023/09/03 18:39:28 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>sens</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,11 +18,10 @@
       <ekz>
         en kinejo oni povas uzi nur du el la kvin <tld/>oj
         <fnt>
+       <aut>Lode van de Velde</aut>
+          <vrk><url ref="&Monato;/2000/006862.php">Kvin homoj, kvin sensoj</url></vrk>
           <bib>Monato</bib>
-          <aut>Paul Gubbins</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006862.html">Kinarto:
-          Kvin homoj, kvin sensoj</url></vrk>
+          <lok>2000/06, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -31,8 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pa&ubreve;lo Sergio Viana</aut>
-          <vrk><url
-          ref="&Monato;/2013/011162.php">Kataraktotrakto
+          <vrk><url ref="&Monato;/2013/011162.php">Kataraktotrakto
           revivigas</url></vrk>
         </fnt>;
       </ekz>
@@ -42,13 +39,12 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url
-          ref="&Monato;/2007/009011.php">Malutopio</url></vrk>
+          <vrk><url ref="&Monato;/2007/009011.php">Malutopio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         tu&scirc;-<tld/>o, viv-<tld/>o, mov-<tld/>o kaj ekvilibr-<tld/>o estas
-        nomataj 
+        nomataj
         &leftquot;malsupraj <tld/>oj&rightquot; &ccirc;ar ili rilatas kun korpa sistemo de volo
         kaj de metabolismo
         <fnt>
@@ -103,13 +99,14 @@
        <ref cel="vid.0ado">vidado</ref>,
        <ref cel="flar.0ado">flarado</ref>,
        <ref cel="gust.0umi">gustumado</ref>,
-       <ref cel="palp.0ado.senso">palpado<sncref/></ref>
+       <ref cel="palp.0ado.ago">palpado</ref>
     </refgrp>
     <refgrp tip="vid">
       <ref cel="blind.0a">blinda</ref>,
       <ref cel="surd.0a">surda</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_ch;&c_u;&c_c;&c_mol;&c_c;&c_je;</trd>
   <trdgrp lng="cs">
     <trd>schopnost vn&iacute;mat</trd>,
     <trd>smysl <klr>(vn&iacute;mac&iacute;)</klr></trd>
@@ -121,14 +118,24 @@
   <trd lng="fr">sens<klr> (perceptif)</klr></trd>
   <trd lng="hu">&eacute;rz&eacute;kszerv</trd>
   <trd lng="it">senso<klr> (percezione)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x611F;&#x899A;  [<ind>&#x304B;&#x3093;&#x304B;&#x304F;</ind>]</trd>,
+    <trd>&#x77E5;&#x899A;  [<ind>&#x3061;&#x304B;&#x304F;</ind>]</trd>,
+    <trd>&#x30BB;&#x30F3;&#x30B9;  [<ind>&#x305B;&#x3093;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zintuig</trd>
   <trd lng="pl">zmys&lstroke;</trd>
+  <trd lng="pt">sentido</trd>
   <trd lng="ru">&c_ch;&c_u;&c_v;&c_s;&c_t;&c_v;&c_o; <klr tip="amb">(&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;
   &c_v;&c_o;&c_s;&c_p;&c_r;&c_i;&c_ja;&c_t;&c_i;&c_ja;:
   &c_s;&c_l;&c_u;&c_h;, &c_z;&c_r;&c_je;&c_n;&c_i;&c_je; &c_i; &c_t;.&c_p;.)</klr></trd>
   <trdgrp lng="sk">
     <trd>zmyslov&yacute; org&aacute;n</trd>,
     <trd>&uacute;stroj</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_u;&c_t;&c_t;&c_ja;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_ch;&c_u;&c_t;&c_t;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -149,14 +156,29 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="en">sense</trd>
   <trdgrp lng="es">
     <trd>sentir</trd>,
     <trd>percibir</trd>
   </trdgrp>
   <trd lng="fr">percevoir</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611F;&#x3058;&#x308B;  [<ind>&#x304B;&#x3093;&#x3058;&#x308B;</ind>]</trd>,
+    <trd>&#x77E5;&#x899A;&#x3059;&#x308B;  [<ind>&#x3061;&#x304B;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>odczuwa&cacute;</trd>,
     <trd>czu&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">sentir</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_ch;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_i;&c_j;&c_m;&c_a;&c_t;&c_i; &c_z;&c_a; &c_d;&c_o;&c_p;&c_o;&c_m;&c_o;&c_g;&c_o;&c_ju; &c_o;&c_d;&c_n;&c_o;&c_g;&c_o; &c_z; &c_ch;&c_u;&c_t;&c_t;&c_ib;&c_v;</trd>
   </trdgrp>
 </drv>
 
@@ -168,11 +190,8 @@
       <ref tip="sin" cel="sent.0umajxo">sentuma&jcirc;o</ref>:
       <ekz>
         li ne plu sentis la pezecon de sia korpo, li &ccirc;irka&ubreve;palpis per la
-        manoj kaj ekkonsciis, ke li &scirc;vebis <klr>[&#8230;]</klr> estis mirakla,
-        
-        neniam konata <tld/>a&jcirc;o, sento de nedependeco kaj
-        
-        senlima
+        manoj kaj ekkonsciis, ke li &scirc;vebis <klr>[&#x2026;]</klr> estis mirakla,
+        neniam konata <tld/>a&jcirc;o, sento de nedependeco kaj  senlima
         libereco
         <fnt>
           <aut>Michael Ende, trad. Wolfram Diestel</aut>
@@ -181,32 +200,35 @@
         </fnt>;
       </ekz>
       <ekz>
-        halucino <klr>[&#8230;]</klr> estas erara percepto de <tld/>a&jcirc;o
+        halucino <klr>[&#x2026;]</klr> estas erara percepto de <tld/>a&jcirc;o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=244404">Halucino</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=244404">Halucino</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        la teproduktanto <klr>[&#8230;]</klr> rostis la velkintajn
+        la teproduktanto <klr>[&#x2026;]</klr> rostis la velkintajn
         tefoliojn tuj per pinbran&ccirc;oj, kaj tiel li akiris teon
-        <klr>[&#8230;]</klr> kun fuma&jcirc;ita <tld/>a&jcirc;o
+        <klr>[&#x2026;]</klr> kun fuma&jcirc;ita <tld/>a&jcirc;o
         <fnt>
           <aut>Pluveta</aut>,
-          <vrk><url
-          ref="http://esperanto.cri.cn/2521/2016/06/27/180s187243.htm">
+          <vrk><url ref="&CRI;2521/2016/06/27/180s187243.htm">
           Longa Historio de Bruna Teo</url></vrk>,
           <lok>&Ccirc;ina radio Internacia, 2016-06-27</lok>
         </fnt>.
       </ekz>
-    </dif> 
+    </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_ch;&c_u;&c_c;&c_mol;&c_c;&c_jo;</trd>,
+    <trd>&c_u;&c_s;&c_p;&c_r;&c_y;&c_m;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Sinneswahrnehmung</trd>,
     <trd>Empfindung</trd>,
     <trd>Wahrnehmung <klr>(Sinn)</klr></trd>
   </trdgrp>
+  <trd lng="en">sensation</trd>
   <trd lng="es">sensaci&oacute;n</trd>
   <trd lng="fr">sensation</trd>
   <trdgrp lng="hu">
@@ -214,10 +236,19 @@
     <trd>&eacute;rz&eacute;klet</trd>
   </trdgrp>
   <trd lng="it">sensazione</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611F;&#x899A;  [<ind>&#x304B;&#x3093;&#x304B;&#x304F;</ind>]</trd>,
+    <trd>&#x611F;&#x3058;  [<ind>&#x304B;&#x3093;&#x3058;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zintuiglijke <ind>waarneming</ind></trd>
   <trdgrp lng="pl">
     <trd>odczucie</trd>,
     <trd>czucie</trd>
+  </trdgrp>
+  <trd lng="pt">sensa&ccedil;&atilde;o</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_ch;&c_u;&c_t;&c_t;&c_ja;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_i;&c_j;&c_n;&c_ja;&c_t;&c_t;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -228,7 +259,7 @@
       La tuto de la <tld/>oj de organismo:
       <ekz>
         Tomaso, kiu opiniadis ke la kono estas atingebla nur pere de la
-        <tld/>aro, 
+        <tld/>aro,
         rifuzas la konceptadon pri kono de A&ubreve;gusteno, por kiu la kono
         okazas nur per la dia iluminigo
         <fnt>
@@ -239,7 +270,7 @@
       </ekz>
       <ekz>
         kvin el la tapi&scirc;oj estas ordinare interpretataj kiel figura&jcirc;oj
-        de la <tld/>aro: 
+        de la <tld/>aro:
         la gusto, la a&ubreve;dsenso, la vidpovo, la flarado kaj la tu&scirc;ado
         <fnt>
           <bib>Viki</bib>
@@ -249,13 +280,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_ch;&c_u;&c_c;&c_mol;&c_c;&c_ib;</trd>
   <trd lng="cs">vn&iacute;mac&iacute; smysly</trd>
   <trd lng="de">die <ind>Sinne</ind></trd>
+  <trd lng="en">the senses</trd>
   <trd lng="es">los cinco <ind>sentidos</ind></trd>
   <trd lng="fr">les cinq <ind>sens</ind></trd>
   <trd lng="hu">az &ouml;t <ind>&eacute;rz&eacute;kszerv</ind></trd>
   <trd lng="it">i cinque <ind>sensi</ind></trd>
+  <trd lng="ja">&#x4E94;&#x611F;  [<ind>&#x3054;&#x304B;&#x3093;</ind>]</trd>
   <trd lng="nl">zintuigen</trd>
+  <trd lng="pl">zmys&lstroke;y {pl}</trd>
+  <trd lng="pt">os cinco <ind>sentidos</ind></trd>
   <trd lng="sk">vn&iacute;macie zmysly</trd>
 </drv>
 
@@ -264,7 +300,7 @@
   <snc mrk="sens.0ilo.BIO">
     <uzo tip="fak">BIO</uzo>
     <dif>
-      &Ccirc;ia simpla a&ubreve; malsimpla (de &ccirc;elo &gcirc;is organo) kopoparto
+      &Ccirc;ia simpla a&ubreve; malsimpla (de &ccirc;elo &gcirc;is organo) korpoparto
       kun funkcio
       <ref tip="vid" cel="sens.0i.SEN">sensi</ref>;
       <ref tip="vid" cel="sent.0ilo.BIO">sentilo<sncref/></ref>:
@@ -273,16 +309,18 @@
         <tld/>iloj, &ccirc;efe bazite sur modifoj de multaj &hcirc;etoj (hareta&jcirc;oj)
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=366">Artropodoj</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=366">Artropodoj</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sub">
       <ref cel="organ.sens0o.ANA"><tld/>organo</ref>
     </refgrp>
+    <trd lng="be">&c_u;&c_s;&c_p;&c_r;&c_y;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_v;&c_o;&c_r;&c_g;&c_a;&c_n;</trd>
     <trd lng="de">Sinnesorgan</trd>
     <trd lng="es">&oacute;rgano sensorial</trd>
+    <trd lng="pl">organ <ind>zmys&lstroke;u</ind></trd>
+    <trd lng="pt">&oacute;rg&atilde;o do sentido</trd>
   </snc>
   <snc mrk="sens.0ilo.TEK">
     <uzo tip="fak">TEK</uzo>
@@ -295,8 +333,7 @@
         100 &Omega; &ccirc;e 0 &deg;C
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=17065">Temperatursensilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=17065">Temperatursensilo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -304,8 +341,7 @@
         akceptitaj per <tld/>ilo kaj transformitaj al cifereca formo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=32821">Skanilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=32821">Skanilo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -319,6 +355,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_a;&c_t;&c_ch;&c_y;&c_k;</trd>,
+      <trd>&c_s;&c_e;&c_n;&c_s;&c_a;&c_r;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Geberger&auml;t</trd>,
       <trd>Sensor</trd>
@@ -328,6 +368,7 @@
       <trd>czujnik</trd>,
       <trd>sensor</trd>
     </trdgrp>
+    <trd lng="pt">sensor</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>bu&ncaron;ka p&rcaron;&iacute;jmaj&iacute;c&iacute; vjemy</trd>,
@@ -350,6 +391,11 @@
     <trd>szenzor</trd>
   </trdgrp>
   <trd lng="it">sensore</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611F;&#x899A;&#x5668;  [<ind>&#x304B;&#x3093;&#x304B;&#x304F;&#x304D;</ind>]</trd>,
+    <trd>&#x30BB;&#x30F3;&#x30B5;&#x30FC;</trd>,
+    <trd>&#x691C;&#x77E5;&#x5668;  [<ind>&#x3051;&#x3093;&#x3061;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="ru">
       <trd>&c_d;&c_a;&c_t;&c_ch;&c_i;&c_k;</trd>;
       <trd>&c_shch;&c_u;&c_p;</trd>
@@ -368,10 +414,9 @@
       Doktrino, la&ubreve; kiu &ccirc;ia kono venas de <tld/>a&jcirc;oj kaj nur de
       ili; <ref tip="sin" cel="sensua.0o">sensualismo</ref>:
       <ekz>
-        <nom>Condillac</nom> <klr>[&#8230;]</klr> neis la ekziston de la
+        <nom>Condillac</nom> <klr>[&#x2026;]</klr> neis la ekziston de la
         &leftquot;meditado&rightquot;, dua fonto de konaro krom la
-        sentoj, kreante sian propran filozofion, konata kiel <tld
-        lit="S"/>ismo
+        sentoj, kreante sian propran filozofion, konata kiel <tld lit="S"/>ismo
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=453557">&Eacute;tienne
@@ -383,18 +428,24 @@
       <ref cel="empiri.0ismo">empiriismo</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_s;&c_e;&c_n;&c_s;&c_u;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="cs">senzualizmus</trd>
   <trd lng="de">Sensualismus</trd>
+  <trd lng="en">sensualism</trd>
   <trd lng="es">sensualismo</trd>
   <trd lng="fr">sensualisme<klr> (philosophique)</klr></trd>
   <trd lng="hu">szenzualizmus</trd>
   <trdgrp lng="it">
-    <trd>sensismo<klr> (fil.)</klr></trd>, 
+    <trd>sensismo<klr> (fil.)</klr></trd>,
     <trd>sensualismo<klr> (fil.)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x611F;&#x899A;&#x8AD6;  [<ind>&#x304B;&#x3093;&#x304B;&#x304F;&#x308D;&#x3093;</ind>]</trd>
   <trd lng="nl">sensualisme</trd>
+  <trd lng="pl">sensualizm</trd>
+  <trd lng="pt">sensorialismo</trd>
   <trd lng="ru">&c_s;&c_je;&c_n;&c_s;&c_u;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
   <trd lng="sk">senzualizmus</trd>
+  <trd lng="uk">&c_s;&c_je;&c_n;&c_s;&c_u;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
 </drv>
 
 <drv mrk="sens.auxd0o">
@@ -407,8 +458,7 @@
         vidsenso, la a&ubreve;d<tld/>o kaj la korpmovado
         <fnt>
           <aut>Danka Leyk</aut>
-          <vrk><url
-          ref="http://gresillon.org/IMG/rtf/cirklodancoj.rtf">Cirklodancoj</url></vrk>
+          <vrk><url ref="http://gresillon.org/IMG/rtf/cirklodancoj.rtf">Cirklodancoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -416,16 +466,17 @@
         a&ubreve;d<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=137234">Belo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=137234">Belo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_l;&c_y;&c_h;</trd>
   <trdgrp lng="de">
     <trd>Geh&ouml;r</trd>,
     <trd>H&ouml;rverm&ouml;gen</trd>
   </trdgrp>
+  <trd lng="en">sense of hearing</trd>
   <trdgrp lng="es">
     <trd>audici&oacute;n<klr> (sentido)</klr></trd>,
     <trd>o&iacute;do<klr> (sentido)</klr></trd>
@@ -438,6 +489,8 @@
   <trd lng="nl">gehoor</trd>
   <trd lng="no">h&oslash;rsel</trd>
   <trd lng="pl">s&lstroke;uch</trd>
+  <trd lng="pt">audi&ccedil;&atilde;o<klr> (sentido)</klr></trd>
+  <trd lng="uk">&c_s;&c_l;&c_u;&c_h;</trd>
 </drv>
 
 <drv mrk="sens.elektro0o">
@@ -452,17 +505,23 @@
         pli bone tralasas la elektrajn signalojn ol aero
         <fnt>
           <aut>F. van Hertrooij</aut>
-          <vrk><url
-          ref="https://scivolemo.wordpress.com/2018/05/02/mamuloj-kiuj-venas-el-ovoj-la-monotremoj/">
+          <vrk><url ref="https://scivolemo.wordpress.com/2018/05/02/mamuloj-kiuj-venas-el-ovoj-la-monotremoj/">
           Mamuloj kiuj venas el ovoj: la&nbsp;monotremoj</url></vrk>
           <lok>Scivolemo, 2018-05-02</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_r;&c_e;&c_c;&c_e;&c_p;&c_c;&c_y;&c_ja;</trd>
   <trd lng="de">Elektrosinn</trd>
+  <trd lng="en">electroreception</trd>
   <trd lng="es">electrorrecepci&oacute;n</trd>
   <trd lng="fr">&eacute;lectroperception</trd>
+  <trd lng="pl">zmys&lstroke; elektryczny</trd>
+  <trdgrp lng="pt">
+     <trd>eletrorrecep&ccedil;&atilde;o</trd>
+    <trd>eletropercep&ccedil;&atilde;o</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sens.flar0o">
@@ -484,17 +543,15 @@
         de homoj, ne estas tiom bona kiom tiu de hundo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=774">&Ccirc;evalo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=774">&Ccirc;evalo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        murenoj <klr>[&#8230;]</klr> &ccirc;asas aliajn bestojn per tre fajna
+        murenoj <klr>[&#x2026;]</klr> &ccirc;asas aliajn bestojn per tre fajna
         flar<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=131721">Mureno</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=131721">Mureno</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -504,22 +561,29 @@
     <trd>Riechsinn</trd>,
     <trd>Geruchssinn</trd>
   </trdgrp>
+  <trd lng="en">sense of smell</trd>
   <trd lng="es">olfato<klr> (sentido)</klr></trd>
   <trdgrp lng="fr">
     <trd>flair</trd>,
     <trd>odorat</trd>
   </trdgrp>
   <trd lng="hu">szagl&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x81ED;&#x899A;  [<ind>&#x3057;&#x3085;&#x3046;&#x304B;&#x304F;</ind>]</trd>,
+    <trd>&#x55C5;&#x899A;  [<ind>&#x304D;&#x3085;&#x3046;&#x304B;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">reukzin</trd>
   <trdgrp lng="pl">
     <trd>w&eogonek;ch</trd>,
     <trd>powonienie</trd>
   </trdgrp>
+  <trd lng="pt">olfato</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_ju;&c_h;</trd>,
     <trd>&c_o;&c_b;&c_o;&c_n;&c_ja;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_ch;&c_u;&c_t;&c_mol;&c_jo;</trd>
   </trdgrp>
+  <trd lng="uk">&c_n;&c_ju;&c_h;</trd>
 </drv>
 
 <drv mrk="sens.gusto0o">
@@ -531,7 +595,7 @@
       en la bu&scirc;o:
       <ekz>
         iuj el ili iam, ekzemple unufoje dum kelkaj semajnoj,
-        por kontentigi gusto<tld/>on, man&gcirc;as ion a&ubreve; trinkas  
+        por kontentigi gusto<tld/>on, man&gcirc;as ion a&ubreve; trinkas
         <fnt>
           <aut>J. M. Werdin</aut>,
           <vrk><url ref="http://inedia.info/esperant/">
@@ -541,22 +605,26 @@
       </ekz>
       <ekz>
         <klr>[&ccirc;e la proteo]</klr> la bur&gcirc;onoj de la gusto<tld/>o estas
-        en la muka 
+        en la muka
         epitelio de la bu&scirc;o, plej parto &ccirc;e la supra flanko de la lango
-        kaj en 
+        kaj en
         la enirejo al la truoj de la brankoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=208425">Proteo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=208425">Proteo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_m;&c_a;&c_k; <klr tip="amb">(&c_p;&c_a;&c_ch;&c_u;&c_c;&c_mol;&c_c;&c_je;)</klr></trd>
   <trd lng="de">Geschmackssinn</trd>
+  <trd lng="en">sense of taste</trd>
   <trd lng="es">gusto<klr> (sentido)</klr></trd>
   <trd lng="fr">gout<klr> (sens)</klr></trd>
+  <trd lng="ja">&#x5473;&#x899A;  [<ind>&#x307F;&#x304B;&#x304F;</ind>]</trd>
+  <trd lng="pt">paladar</trd>
   <trd lng="pl">smak<klr> (zmys&lstroke;)</klr></trd>
+  <trd lng="uk">&c_s;&c_m;&c_a;&c_k;</trd>
 </drv>
 
 <drv mrk="sens.magneto0o">
@@ -572,16 +640,18 @@
         magneto<tld/>ado en <klr>...</klr> bananmu&scirc;oj
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref="https://eo.wikipedia.org/wiki/Magnetosensivo">
+          <lok><url ref="&Viki;/Magnetosensivo">
           magnetosensivo</url>, 2017-08-09</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_a;&c_g;&c_n;&c_ib;&c_t;&c_a;&c_r;&c_e;&c_c;&c_e;&c_p;&c_c;&c_y;&c_ja;</trd>
   <trd lng="de">Magnetsinn</trd>
   <trd lng="en">magnetoreception</trd>
   <trd lng="es">magnetorrecepci&oacute;n</trd>
   <trd lng="fr">magn&eacute;toception</trd>
+  <trd lng="pl">zmys&lstroke; magnetyczny</trd>
 </drv>
 
 <drv mrk="sens.tusxo0o">
@@ -596,8 +666,7 @@
         je la tu&scirc;o<tld/>o &gcirc;i estas glata, malvarma kaj malmola
         <fnt>
           <aut>B. Russell, trad. J. Alkasaro</aut>,
-          <vrk><url
-          ref="http://www.enxarxa.com/esperanto/RUSSELL%20La%20problemoj%20de%20la%20filozofio.pdf">
+          <vrk><url ref="http://www.enxarxa.com/esperanto/RUSSELL%20La%20problemoj%20de%20la%20filozofio.pdf">
            La problemoj de la filozofio</url></vrk>,
           <lok>[2004?]</lok>
         </fnt>;
@@ -613,10 +682,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_o;&c_t;&c_y;&c_k; <klr tip="amb">(&c_p;&c_a;&c_ch;&c_u;&c_c;&c_mol;&c_c;&c_je;)</klr></trd>
   <trd lng="de">Tastsinn</trd>
+  <trdgrp lng="en">
+    <trd>haptic perception</trd>,
+    <trd>sense of touch</trd>
+  </trdgrp>
   <trd lng="es">tacto<klr> (sentido)</klr></trd>
   <trd lng="fr">toucher<klr> (sens)</klr></trd>
+  <trd lng="ja">&#x89E6;&#x899A;  [<ind>&#x3057;&#x3087;&#x3063;&#x304B;&#x304F;</ind>]</trd>
   <trd lng="pl">dotyk<klr> (zmys&lstroke;)</klr></trd>
+  <trd lng="pt">tato<klr> (sentido)</klr></trd>
+  <trd lng="uk">&c_d;&c_o;&c_t;&c_i;&c_k; <klr>(&c_ch;&c_u;&c_t;&c_t;&c_ja;)</klr></trd>
 </drv>
 
 <drv mrk="sens.vid0o">
@@ -625,17 +702,16 @@
     <dif>
       <ref tip="dif" cel="vid.0povo.SEN">Vidpovo</ref>:
       <ekz>
-        la lumintensa funkcio <klr>[&#8230;]</klr> priskribas la mezan
+        la lumintensa funkcio <klr>[&#x2026;]</klr> priskribas la mezan
         spektran <tld/>a&jcirc;on de homa vid<tld/>o de brileco
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=480167">Lumintensa
+          <lok><url ref="https://eo.wikipedia.org/?curid=480167">Lumintensa
           funkcio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        <nom>B&eacute;la Julesz</nom> <klr>[&#8230;]</klr> faris gravajn kontribuojn
+        <nom>B&eacute;la Julesz</nom> <klr>[&#x2026;]</klr> faris gravajn kontribuojn
         al la teorio de homa vid<tld/>o
         <fnt>
           <bib>Viki</bib>
@@ -651,42 +727,47 @@
     <trd>Sehf&auml;higkeit</trd>,
     <trd>Gesichtssinn</trd>
   </trdgrp>
-  <trd lng="en">ability to see</trd>
+  <trdgrp lng="en">
+    <trd>ability to see</trd>,
+    <trd>sight</trd>
+  </trdgrp>
   <trd lng="es">vista<klr> (sentido)</klr></trd>
   <trd lng="fr">vue<klr> (sens)</klr></trd>
   <trd lng="hu">l&aacute;t&oacute;k&eacute;pess&eacute;g</trd>
+  <trd lng="ja">&#x8996;&#x899A;  [<ind>&#x3057;&#x304B;&#x304F;</ind>]</trd>
   <trd lng="pl">wzrok</trd>
+  <trd lng="pt">vis&atilde;o<klr> (sentido)</klr></trd>
   <trd lng="ru">&c_z;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>schopnos&tcaron; vidie&tcaron;</trd>,
     <trd>videnie</trd>,
     <trd>zrak</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&c_ib;&c_r;</trd>
 </drv>
-</art>
-<!--
-$Log: sens.xml,v $
-versio 1.24 2020/01/05 13:10:20
-Guillermo Molleda Jimena: trd es
+</art><!--
+$Log$
+versio 1.38 2023/08/14 20:27:03
+Vito Redsky: +trd pl 
 
-Revision 1.23  2019/07/16 09:10:17  revo
-Sebastian Cyprych: +trd pl
+versio 1.37 2023/04/25 06:32:38
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.22  2019/06/30 18:21:49  revo
-adaptis URL de Monato
+versio 1.36 2022/11/22 08:40:12
+Dmitri Gabinski: + trd be
 
-Revision 1.21  2018/06/27 18:10:13  revo
-Jeromo Vasxe: + magneto~o
+versio 1.35 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.20  2018/06/13 15:10:14  revo
-Jeromo Vasxe: ~ilo renvers. prioritaton kun sentilo
+versio 1.34 2022/04/01 06:40:27
+Noam Mohr: +trd en sens-
 
-Revision 1.19  2018/06/08 11:10:13  revo
-Jeromo Vasxe: + ~i
+versio 1.27 2020/11/22 09:10:47
+Damien Brucker: -sncref
 
-Revision 1.18  2018/06/03 20:10:17  revo
-Wolfram Diestel: prilaboris ekz-ojn (dua parto), germ trd-oj
+versio 1.26 2020/11/21 10:11:15
+Damien Brucker: -eraro cxe cel en ref
 
-Revision 1.17  2018/06/02 16:10:13  revo
+Revision 1.25  2020/03/20 20:10:20  revo
 -->
 </vortaro>

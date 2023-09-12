@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-    <art mrk="$Id: kvar.xml,v 1.39 2010/10/21 16:30:30 revo Exp $">
+    <art mrk="$Id: kvar.xml,v 1.131 2023/09/10 15:34:07 revo Exp $">
       <kap>
         <ofc>*</ofc>
         <rad>kvar</rad>
@@ -19,42 +18,114 @@
               <fnt><bib>F</bib>, <lok>&FE;27.</lok></fnt>.
             </ekz>
           </dif>
-          <ref tip="lst" cel="nombr.0o.MAT"
-          lst="voko:nombroj" val="4">nombro</ref>
+          <ref tip="lst" cel="nombr.0o.MAT" lst="voko:nombroj" val="4">nombro</ref>
         </snc>
+  <trd lng="af">vier</trd>
+  <trd lng="am">&#x12A0;&#x122B;&#x1275;</trd>
+  <trd lng="ar">&a_A_hamza_sure;&a_r;&a_b;&a_ayn;&a_t_marbuta;</trd>
+  <trd lng="az">d&#xF6;rd</trd>
   <trd lng="be">&c_ch;&c_a;&c_t;&c_y;&c_r;&c_y;</trd>
   <trd lng="bg">&c_ch;&c_je;&c_t;&c_i;&c_r;&c_i;</trd>
+  <trd lng="bn">&#x99A;&#x9BE;&#x9B0;</trd>
+  <trd lng="bo">&#xF56;&#xF5E;&#xF72;&#xF0B;</trd>
   <trdgrp lng="br">
           <trd>pevar<klr> [vira]</klr></trd>,
           <trd>peder<klr> [ina]</klr></trd>
         </trdgrp>
+  <trd lng="bs">&#x10D;etiri</trd>
+  <trd lng="co">quattru</trd>
   <trdgrp lng="cs">
     <trd>&ccaron;ty&rcaron;i</trd>,
     <trd>&ccaron;ty&rcaron;i</trd>
   </trdgrp>
+  <trd lng="cy">pedwar</trd>
+  <trd lng="da">fire</trd>
   <trd lng="de">vier</trd>
   <trd lng="en">four</trd>
   <trd lng="es">cuatro</trd>
+  <trd lng="et">neli</trd>
+  <trd lng="eu">lau</trd>
   <trd lng="fi">nelj&auml;</trd>
   <trd lng="fr">quatre</trd>
+  <trd lng="fy">fjouwer</trd>
+  <trd lng="ga">ceithre</trd>
+  <trd lng="gd">ceithir</trd>
+  <trd lng="gl">catro</trd>
+  <trd lng="gu">&#xA9A;&#xABE;&#xAB0;</trd>
+  <trd lng="ha">hudu</trd>
   <trd lng="he">&alef;&resh;&bet;&ayin;</trd>
-  <trd lng="hi">&#2330;&#2366;&#2352; [<ind>c&#257;r</ind>]</trd>
+  <trd lng="hi">&#x91A;&#x93E;&#x930; [<ind>cār</ind>]</trd>
+  <trd lng="hmn">plaub</trd>
+  <trd lng="hr">&#x10D;etiri</trd>
+  <trd lng="ht">kat</trd>
   <trd lng="hu">n&eacute;gy</trd>
+  <trd lng="hy">&#x579;&#x578;&#x580;&#x57D;</trd>
   <trd lng="id">empat</trd>
-  <trd lng="ja">&#22235; [<ind>&#12375;</ind>]
-          [<ind>&#12424;&#12435;</ind>]</trd>
+  <trd lng="ig">an&#x1ECD;</trd>
+  <trd lng="is">fj&#xF3;rir</trd>
+  <trd lng="ja">&#x56DB; [<ind>&#x3057;</ind>]
+          [<ind>&#x3088;&#x3093;</ind>]</trd>
+  <trd lng="jv">papat</trd>
+  <trd lng="ka">&#x10DD;&#x10D7;&#x10EE;</trd>
+  <trd lng="kk">&c_t;&#x4E9;&c_r;&c_t;</trd>
+  <trd lng="km">&#x1794;&#x17BD;&#x1793;&#x1793;&#x17B6;&#x1780;&#x17CB;</trd>
+  <trd lng="kn">&#xCA8;&#xCBE;&#xCB2;&#xCCD;&#xC95;&#xCC1;</trd>
+  <trd lng="ko">&#xB124;</trd>
   <trd lng="ku">&ccedil;ar</trd>
+  <trd lng="ky">&c_t;&#x4E9;&c_r;&c_t;</trd>
   <trd lng="la">quattuor</trd>
+  <trd lng="lat">quatuor</trd>
+  <trd lng="lo">&#xEAA;&#xEB5;&#xEC8;</trd>
+  <trd lng="lt">keturi</trd>
+  <trd lng="lv">&#x10D;etri</trd>
+  <trd lng="mg">efatra</trd>
+  <trd lng="mi">e wha</trd>
+  <trd lng="mk">&c_ch;&c_je;&c_t;&c_i;&c_r;&c_i;</trd>
+  <trd lng="ml">&#xD28;&#xD3E;&#xD32;&#xD4D;</trd>
+  <trd lng="mn">&c_d;&#x4E9;&c_r;&c_v;&#x4E9;&#x43D;</trd>
+  <trd lng="mr">&#x91A;&#x93E;&#x930;</trd>
+  <trd lng="ms">empat</trd>
+  <trd lng="mt">erbg&#x127;a</trd>
+  <trd lng="my">&#x101C;&#x1031;&#x1038;</trd>
+  <trd lng="ne">&#x91A;&#x93E;&#x930;</trd>
   <trd lng="nl">vier</trd>
+  <trd lng="ny">zinayi</trd>
+  <trd lng="pa">&#xA28;&#xA42;&#xA70; &#xA1A;&#xA3E;&#xA30;</trd>
   <trd lng="pl">cztery</trd>
+  <trd lng="ps">&#x685;&a_l;&a_w;&a_r;</trd>
   <trd lng="pt">quatro</trd>
   <trd lng="ro">patru</trd>
   <trd lng="ru">&c_ch;&c_je;&c_t;&c_y;&c_r;&c_je;</trd>
+  <trd lng="rw">bine</trd>
+  <trd lng="sd">&f_ch;&a_A;&a_r;</trd>
+  <trd lng="si">&#xDC4;&#xDAD;&#xDBB;</trd>
   <trd lng="sk">&scaron;tyri</trd>
+  <trd lng="sl">&scaron;tiri</trd>
+  <trd lng="sm">fa</trd>
+  <trd lng="sn">china</trd>
+  <trd lng="so">afar</trd>
+  <trd lng="sq">kat&#xEB;r</trd>
+  <trd lng="st">tse &#x2018;ne</trd>
+  <trd lng="su">opat</trd>
   <trd lng="sv">fyra</trd>
+  <trd lng="sw">nne</trd>
+  <trd lng="ta">&#xBA8;&#xBBE;&#xBA9;&#xBCD;&#xB95;&#xBC1;</trd>
+  <trd lng="te">&#xC28;&#xC3E;&#xC32;&#xC41;&#xC17;&#xC41;</trd>
+  <trd lng="tg">&c_ch;&c_a;&#x4B3;&#x43E;&c_r;</trd>
+  <trd lng="th">&#xE2A;&#xE35;&#xE48;</trd>
+  <trd lng="tl">apat</trd>
   <trd lng="tr">d&ouml;rt</trd>
+  <trd lng="tt">&c_d;&#x4AF;&c_r;&c_t;</trd>
+  <trd lng="uk">&c_ch;&#x43E;&c_t;&c_i;&c_r;&c_i;</trd>
+  <trd lng="ur">&f_ch;&a_A;&a_r;</trd>
+  <trd lng="uz">to&#x2019;rt</trd>
+  <trd lng="vi">b&#x1ED1;n</trd>
   <trd lng="vo">fol</trd>
-  <trd lng="zh">&#22235;<klr> [s&igrave;]</klr></trd>
+  <trd lng="xh">ne</trd>
+  <trd lng="yi">&#x5E4;&#x5D9;&#x5E8;</trd>
+  <trd lng="yo">m&#x1EB9;rin</trd>
+  <trd lng="zh">&#x56DB;<klr> [s&igrave;]</klr></trd>
+  <trd lng="zu">ezine</trd>
 </drv>
 
       <drv mrk="kvar.0a">
@@ -69,7 +140,7 @@
             </ekz>
           </dif>
         </snc>
-  <trd lng="be">&c_ch;&c_a;&c_c;&c_mol;&c_v;&c_je;&c_r;&c_t;&c_y;</trd>
+  <trd lng="be">&c_ch;&c_a;&c_c;&c_mol;&c_v;&c_jo;&c_r;&c_t;&c_y;</trd>
   <trdgrp lng="br">
           <trd>pevare<klr tip="ind"> (ag.)</klr></trd>,
           <trd>pevarvet<klr> [vira]</klr></trd>,
@@ -82,12 +153,17 @@
   <trd lng="fi">nelj&auml;s</trd>
   <trd lng="fr">quatri&egrave;me</trd>
   <trd lng="hu">negyedik</trd>
+  <trd lng="id">ke<ind>empat</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF14;&#x756A;&#x76EE;&#x306E;  [<ind>&#x3088;&#x3063;&#x3070;&#x3093;&#x3081;&#x306E;</ind>]</trd>,
+    <trd>&#x7B2C;&#x56DB;&#x306E;  [<ind>&#x3060;&#x3044;&#x3088;&#x3063;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="la">quartus</trd>
   <trd lng="nl">vierde</trd>
   <trd lng="pl">czwarty</trd>
   <trdgrp lng="ro">
-          <trd>a patra</trd>,
-          <trd>al patrulea</trd>,
+          <trd>patra</trd>,
+          <trd>patrulea</trd>,
         </trdgrp>
   <trd lng="ru">&c_ch;&c_je;&c_t;&c_v;&c_jo;&c_r;&c_t;&c_y;&c_j;</trd>
   <trd lng="sk">&scaron;tvrt&yacute;</trd>
@@ -101,6 +177,7 @@
             En la <tld/>a loko, post tri anta&ubreve;aj.
           </dif>
         </snc>
+        <trd lng="be">&c_p;&c_a;-&c_ch;&c_a;&c_c;&c_v;&c_jo;&c_r;&c_t;&c_a;&c_je;</trd>
   <trd lng="br">da <ind>bevare</ind></trd>
   <trd lng="cs">za &ccaron;tvrt&eacute;</trd>
   <trdgrp lng="de">
@@ -110,13 +187,17 @@
   <trd lng="en">fourthly</trd>
   <trd lng="fi">nelj&auml;nneksi</trd>
   <trd lng="fr">quatri&egrave;mement</trd>
-  <trd lng="hu">negyedszer <klr
-            tip="ind">(felsorol&aacute;sn&aacute;l)</klr></trd>
+  <trd lng="hu">negyedszer <klr tip="ind">(felsorol&aacute;sn&aacute;l)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF14;&#x756A;&#x76EE;&#x306B;  [<ind>&#x3088;&#x3063;&#x3070;&#x3093;&#x3081;&#x306B;</ind>]</trd>,
+    <trd>&#x7B2C;&#x56DB;&#x306B;  [<ind>&#x3060;&#x3044;&#x3088;&#x3063;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ten <ind>vierde</ind></trd>
   <trd lng="pl">po czwarte</trd>
   <trd lng="ro">pentru a patra oar&abreve;</trd>
   <trd lng="ru">&c_v;-&c_ch;&c_je;&c_t;&c_v;&c_jo;&c_r;&c_t;&c_y;&c_h;</trd>
   <trd lng="sk">za &scaron;tvrt&eacute;</trd>
+  <trd lng="uk">&#x43F;&#x43E;-&c_ch;&c_je;&c_t;&c_v;&c_je;&c_r;&c_t;&c_je;</trd>
 </drv>
 
       <drv mrk="kvar.0angula">
@@ -141,8 +222,10 @@
   <trd lng="hu">n&eacute;gysz&ouml;g&udblac;</trd>
   <trd lng="nl">vierhoekig</trd>
   <trd lng="pl">czterok&aogonek;tny</trd>
+  <trd lng="ro">patruunghiular</trd>
   <trd lng="ru">&c_ch;&c_je;&c_t;&c_y;&c_r;&c_jo;&c_h;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">&scaron;tvoruho&lcaron;n&iacute;kov&yacute;</trd>
+  <trd lng="uk">&c_ch;&#x43E;&c_t;&c_i;&c_r;&c_i;&#x43A;&c_u;&c_t;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
       <drv mrk="kvar.0ono">
@@ -155,6 +238,7 @@
           </dif>
         </snc>
   <trd lng="be">&c_ch;&c_v;&c_e;&c_r;&c_c;&c_mol;</trd>
+  <trd lng="bo">&#xF56;&#xF5E;&#xF72;&#xF0B;&#xF46;&#xF0B;&#xF42;&#xF45;&#xF72;&#xF42;&#xF0B;</trd>
   <trdgrp lng="br">
           <trd>kard</trd>,
           <trd>pevarvedenn</trd>,
@@ -176,6 +260,11 @@
   <trd lng="fr">quart</trd>
   <trd lng="he">&resh;&bet;&ayin;</trd>
   <trd lng="hu">negyed</trd>
+  <trd lng="id">per<ind>empat</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x56DB;&#x5206;&#x306E;&#x4E00;  [<ind>&#x3088;&#x3063;&#x3075;&#x3093;&#x306E;&#x3072;&#x3068;</ind>]</trd>,
+    <trd>&#x56DB;&#x5206;&#x97F3;&#x7B26;  [<ind>&#x3057;&#x3076;&#x304A;&#x3093;&#x3077;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vierde<klr tip="ind"> (deel)</klr></trd>
   <trdgrp lng="pl">
           <trd>&cacute;wier&cacute;</trd>,
@@ -190,16 +279,15 @@
     <trd>&scaron;tvrtina</trd>,
     <trd>&scaron;tvrtka</trd>
   </trdgrp>
+  <trd lng="uk">&c_ch;&c_v;&c_je;&c_r;&c_t;&#x44C;</trd>
 </drv>
 
       <drv mrk="kvar.0onjaro">
         <kap><tld/>onjaro</kap>
         <snc mrk="kvar.0onjaro.ajna">
           <dif>
-            <tld lit="K"/>ono da <ref tip="malprt"
-cel="jar.0o.AST">jaro</ref>,
-            duono da <ref tip="malprt"
-            cel="jar.duon0o.AST">duonjaro</ref>:
+            <tld lit="K"/>ono da <ref tip="malprt" cel="jar.0o.AST">jaro</ref>,
+            duono da <ref tip="malprt" cel="jar.duon0o.AST">duonjaro</ref>:
             <ekz>
               unue mi havos bonan rosta&jcirc;on, poste multe da graso, kiu
               gutos kaj sufi&ccirc;os por pano dum <tld/>onjaro
@@ -230,18 +318,29 @@ Jo&ccirc;jo</vrk>
           <uzo tip="fak">KAL</uzo>
           <ref tip="dif" cel="kvar.jar0ono.KAL">jar<tld/>ono</ref>
         </snc>
+        <trd lng="be">&c_k;&c_v;&c_a;&c_r;&c_t;&c_a;&c_l; <klr tip="amb">(&c_g;&c_o;&c_d;&c_a;)</klr></trd>
   <trdgrp lng="cs">
     <trd>kvart&aacute;l</trd>,
     <trd>&ccaron;tvrtlet&iacute;</trd>
   </trdgrp>
   <trd lng="id">triwulan</trd>
+  <trd lng="ja">&#x56DB;&#x534A;&#x671F;  [<ind>&#x3057;&#x306F;&#x3093;&#x304D;</ind>]</trd>
   <trdgrp lng="nl">
-          <trd>kwartaal</trd>,
-          <trd>trimester</trd>
-        </trdgrp>
+    <trd>kwartaal</trd>,
+    <trd>trimester</trd>
+   </trdgrp>
+   <trd lng="pl">kwarta&lstroke;</trd>
+   <trdgrp lng="ro">
+     <trd>sfert</trd>,
+     <trd>an calendaristic</trd>
+   </trdgrp>
   <trdgrp lng="sk">
     <trd>kvart&aacute;l</trd>,
     <trd>&scaron;tvr&tcaron;rok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_v;&c_a;&c_r;&c_t;&c_a;&#x43B;</trd>,
+    <trd>&c_ch;&c_v;&c_je;&c_r;&c_t;&#x44C; &c_r;&#x43E;&#x43A;&c_u;</trd>
   </trdgrp>
 </drv>
 
@@ -274,12 +373,12 @@ koresponda&jcirc;oj
               pozitiva jar<tld/>ono por firmao FIAT
               <fnt>
                 <aut>Radio Itala Internacia</aut>,
-                <lok><url
-ref="http://radioarkivo.org/vidu.php/2312">2005-07-30</url></lok>
+                <lok><url ref="http://radioarkivo.org/vidu.php/2312">2005-07-30</url></lok>
               </fnt>
             </ekz>
           </dif>
         </snc>
+        <trd lng="be">&c_k;&c_v;&c_a;&c_r;&c_t;&c_a;&c_l; <klr tip="amb">(&c_g;&c_o;&c_d;&c_a;)</klr></trd>
   <trdgrp lng="cs">
     <trd>kvart&aacute;l</trd>,
     <trd>&ccaron;tvrtlet&iacute;</trd>
@@ -291,10 +390,13 @@ ref="http://radioarkivo.org/vidu.php/2312">2005-07-30</url></lok>
         </trdgrp>
   <trd lng="fi">vuosinelj&auml;nnes</trd>
   <trd lng="fr">trimestre</trd>
+  <trd lng="ja">&#x56DB;&#x534A;&#x671F;  [<ind>&#x3057;&#x306F;&#x3093;&#x304D;</ind>]</trd>
   <trdgrp lng="nl">
-          <trd>kwartaal</trd>,
-          <trd>trimester</trd>
-        </trdgrp>
+    <trd>kwartaal</trd>,
+    <trd>trimester</trd>
+  </trdgrp>
+  <trd lng="pl">trymestr</trd> 
+  <trd lng="ro">trimestru</trd>     
   <trd lng="ru">&c_k;&c_v;&c_a;&c_r;&c_t;&c_a;&c_l;<klr> &c_g;&c_o;&c_d;&c_a;</klr></trd>
   <trdgrp lng="sk">
     <trd>kvart&aacute;l</trd>,
@@ -338,9 +440,9 @@ ref="http://radioarkivo.org/vidu.php/2312">2005-07-30</url></lok>
   <trd lng="he">&resh;&bet;&ayin;&vav;&nun;&yod;</trd>
   <trd lng="hu">negyed&eacute;vi</trd>
   <trdgrp lng="nl">
-          <trd>trimestrieel</trd>,
-          <trd>driemaandelijks</trd>
-        </trdgrp>
+    <trd>trimestrieel</trd>,
+    <trd>driemaandelijks</trd>
+  </trdgrp>
   <trd lng="pl">kwartalny</trd>
   <trd lng="ro">trimestrul</trd>
   <trd lng="sk">&scaron;tvr&tcaron;ro&ccaron;n&yacute;</trd>
@@ -349,86 +451,28 @@ ref="http://radioarkivo.org/vidu.php/2312">2005-07-30</url></lok>
     </art>
     <!--
     $Log$
+versio 1.131 2023/09/10 15:34:07
+revo: korekto de transskribo
+
+versio 1.129 2022/08/31 07:49:47
+Dmitri Gabinski: + trd be
+
+versio 1.128 2022/08/27 22:30:38
+Vito Redsky:  +trd pl  + kor trd ro 
+
+versio 1.127 2022/05/01 08:09:26
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.124 2021/08/31 12:47:57
+Dmitri Gabinski: + trd be
+
+versio 1.50 2020/12/29 11:10:33
+Aleks Andre: +trd bo
+
     Revision 1.47  2019/07/04 14:10:31  revo
     Aleks Andre: hi: kvar
 
     Revision 1.46  2017/12/19 08:10:25  revo
-    Michel Cantigneaux: fundamenta "kvarono" el la Universala Vortaro
-
-    Revision 1.45  2015/07/04 08:37:38  revo
-    aldono de trd cs per skripto de M. von Laer
-
-    Revision 1.44  2015/06/29 16:33:18  revo
-    aldono de trd sk per skripto de M. von Laer
-
-    Revision 1.43  2013/11/11 20:10:24  revo
-    Wolfram Diestel: +mlg
-
-    Revision 1.42  2013/10/31 11:10:30  revo
-    Wolfram Diestel: +val
-
-    Revision 1.41  2013/09/25 18:10:17  revo
-    Wolfram Diestel: ref al listo nombroj
-
-    Revision 1.40  2013/04/26 15:10:13  revo
-    Eko Nur Syah Hidayat: +trd id
-
-    Revision 1.39  2010/10/21 16:30:30  revo
-    Russ Williams: +trd en
-
-    Revision 1.38  2009/08/27 16:32:42  revo
-    Emmanuel Debanne: +trd ku
-
-    Revision 1.37  2009/08/18 19:17:32  revo
-    Paul Peeraerts: +trd nl
-
-    Revision 1.36  2009/02/15 14:18:49  revo
-    Russ Williams: +trd en
-
-    Revision 1.35  2007/12/23 17:30:25  revo
-    Dennis Wibrow: +trd de sv
-
-    Revision 1.34  2007/09/28 16:30:50  revo
-    Zmicier Lapcionak: + ja trd
-
-    Revision 1.33  2007/07/25 20:12:18  revo
-    Harri Laine: +trd fi
-
-    Revision 1.32  2006/12/02 17:30:17  revo
-    Wieland Pusch: +trd de
-
-    Revision 1.31  2006/09/28 16:30:26  revo
-    Tulio Flores: +tr pt
-
-    Revision 1.30  2006/06/25 16:31:46  revo
-    Sergio Pokrovskij: interpunkcio
-
-    Revision 1.29  2006/06/22 16:31:03  revo
-    Sergio Pokrovskij: -tajperaro, +ekz, TEZ
-
-    Revision 1.28  2006/06/21 16:31:00  revo
-    Sergio Pokrovskij: +~onjaro, ekz
-
-    Revision 1.27  2006/06/11 16:31:08  revo
-    Jeromo Vasxe: + jar~ono
-
-    Revision 1.26 2006/03/04 17:32:26 revo
-    Vito Redsky: +trd pl +trd ro
-
-    Revision 1.25 2005/03/06 17:32:59 revo
-    Alan ar Gall: +trd br
-
-    Revision 1.24 2005/01/12 18:22:09 revo
-    Wieland Pusch: +trd de
-
-    Revision 1.23 2004/10/17 16:32:35 revo
-    Wolfram Diestel: kor. germ trd
-
-    Revision 1.22 2004/03/25 18:27:48 revo
-    Jozefo Horvath: +trd hu
-
-    Revision 1.21 2003/10/30 17:32:29 revo
-    Alejandro Mejia Greene: ald 3 his trd
-    -->
+-->
 
 </vortaro>

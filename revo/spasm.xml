@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: spasm.xml,v 1.17 2023/09/04 05:14:56 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>spasm</rad>/o <fnt><bib>PV</bib></fnt>
@@ -23,17 +22,21 @@
     </refgrp>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_s;&c_p;&c_a;&c_z;&c_m;&c_a;</trd>, 
-    <trd>&c_s;&c_u;&c_t;&c_a;&c_r;&c_g;&c_a;</trd> 
+    <trd>&c_s;&c_p;&c_a;&c_z;&c_m;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_t;&c_a;&c_r;&c_g;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>křeč</trd>,
+    <trd>k&rcaron;e&#x10D;</trd>,
     <trd>spazmus</trd>
   </trdgrp>
   <trd lng="de">Krampf</trd>
   <trd lng="en">spasmo</trd>
   <trd lng="fr">spasme</trd>
   <trd lng="hu">g&ouml;rcs</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3051;&#x3044;&#x308C;&#x3093;</trd>,
+    <trd>&#x5F15;&#x304D;&#x3064;&#x308A;  [<ind>&#x3072;&#x304D;&#x3064;&#x308A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kramp</trd>,
     <trd>spasme</trd>
@@ -43,8 +46,14 @@
     <trd>&c_s;&c_p;&c_a;&c_z;&c_m;&c_a;</trd>,
     <trd>&c_s;&c_u;&c_d;&c_o;&c_r;&c_o;&c_g;&c_a;</trd>
   </trdgrp>
-  <trd lng="sk">kŕč</trd>
+  <trd lng="sk">k&racute;&#x10D;</trd>
   <trd lng="sv">spasm</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&c_a;&c_z;&#x43C;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_d;&#x43E;&#x43C;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_d;&#x43E;&c_r;&#x43E;&c_g;&c_a;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&c_ch;&c_ib;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="spasm.0i">
@@ -56,7 +65,7 @@
     <dif>
       Subite, nevole ektiri&gcirc;i:
       <ekz>
-        liaj lipoj <tld/>is dekstren kaj maldekstren, 
+        liaj lipoj <tld/>is dekstren kaj maldekstren,
         eligante ian sonon, senkoheran kiel murmuro
         <fnt>
           <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
@@ -66,16 +75,27 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">mít křeč</trd>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_o;&c_r;&c_ch;&c_y;&c_c;&c_c;&c_a; &c_w; <ind>&c_s;&c_u;&c_t;&c_a;&c_r;&c_g;&c_a;&c_h;</ind></trd>,
+    <trd>&c_a;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_c;&c_mol; <ind>&c_s;&c_p;&c_a;&c_z;&c_m;&c_y;</ind></trd>
+  </trdgrp>
+  <trd lng="cs">m&#xED;t k&rcaron;e&#x10D;</trd>
   <trdgrp lng="fr">
     <trd>se <ind>convulser</ind></trd>,
     <trd>se <ind>crisper</ind></trd>
   </trdgrp>
-  <trd lng="sk">mať kŕč</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3051;&#x3044;&#x308C;&#x3093;&#x3092;&#x8D77;&#x3053;&#x3059;  [<ind>&#x3051;&#x3044;&#x308C;&#x3093;&#x3092;&#x304A;&#x3053;&#x3059;</ind>]</trd>,
+    <trd>&#x5F15;&#x304D;&#x3064;&#x308B;  [<ind>&#x3072;&#x304D;&#x3064;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="sk">ma&tcaron; k&racute;&#x10D;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.16 2023/08/17 07:23:56
+Dmitri Gabinski: + trd be
+
 Revision 1.13  2015/06/29 16:33:24  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -95,11 +115,5 @@ Revision 1.8  2002/02/15 17:33:21  revo
 Yury Finkel: +trd ru
 
 Revision 1.7 2001/10/07 18:16:36 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.6 2001/08/01 18:12:24 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.5 2001/05/16 18:11:44 revo
 -->
 </vortaro>

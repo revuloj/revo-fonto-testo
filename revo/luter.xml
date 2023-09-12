@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: luter.xml,v 1.13 2010/06/30 16:30:48 revo Exp $">
+<art mrk="$Id: luter.xml,v 1.24 2023/09/02 05:33:11 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>7</ofc>
   <rad>Luter</rad>/o
@@ -15,7 +14,8 @@
     <dif>
       Germane <nom>Martin</nom> <trd lng="de">Luther</trd>,
       1483&ndash;1546, gvidanto de <ref cel="reform.0o">Reformacio</ref>
-      en Germanujo, <ref tip="lst" lst="voko:historiaj_personoj" cel="fond.0into">fondinto</ref> de germana
+      en Germanujo, <ref tip="lst" lst="voko:historiaj_personoj" cel="fond.0into">fondinto</ref> de
+      germana
       <ref cel="protes1.0ismo">protestantismo</ref>:
       <ekz>
         jam anta&ubreve; la epoko de <tld/>o, la &ccirc;e&hcirc;a regiono estis la naski&gcirc;loko de la estonta
@@ -23,19 +23,17 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.net/2006/008886.php"
-              >Prisilentita heroo</url></vrk>
+          <vrk><url ref="&Monato;/2006/008886.php">Prisilentita heroo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         Adriano postulis de <tld/>o senhezite rekoni la a&ubreve;toritaton de la eklezio de
         Romo kaj de la papo, sed aliflanke li klare esprimis la kulpon de Romo
-        <klr>[&#8230;]</klr> pri la misa&jcirc;oj, kiuj kondukis al la agado de <tld/>o
+        <klr>[&#x2026;]</klr> pri la misa&jcirc;oj, kiuj kondukis al la agado de <tld/>o
         <fnt>
           <bib>Monato</bib>
           <aut>Gerrit Berveling</aut>
-          <vrk><url ref="https://www.monato.net/2009/009781.php"
-              >La sola nederlanddevena papo</url></vrk>
+          <vrk><url ref="&Monato;/2009/009781.php">La sola nederlanddevena papo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -44,8 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj</aut>
-          <vrk><url ref="https://www.monato.net/2012/010679.php"
-              >Lingvoj, &ccirc;u naturaj, &ccirc;u artefaritaj?</url></vrk>
+          <vrk><url ref="&Monato;/2012/010679.php">Lingvoj, &ccirc;u naturaj, &ccirc;u artefaritaj?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -58,23 +55,29 @@
   <trd lng="fr">Luther<klr tip="ind"> (Martin)</klr></trd>
   <trd lng="hu">Luther<klr tip="ind"> (M&aacute;rton)</klr></trd>
   <trd lng="it">Lutero<klr tip="ind"> (Martin)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30EB;&#x30BF;&#x30FC;</trd>,
+    <trd>&#x30EB;&#x30FC;&#x30C6;&#x30EB;</trd>
+  </trdgrp>
   <trd lng="nl">Luther<klr tip="ind"> (Martin)</klr></trd>
+  <trd lng="pl">Luter<klr tip="ind"> (Martin)</klr></trd>
+  <trd lng="ro">Luther<klr tip="ind"> (Martin)</klr></trd>
   <trd lng="ru">&c_L;&c_ju;&c_t;&c_je;&c_r;<klr tip="ind"> (&c_M;&c_a;&c_r;&c_t;&c_i;&c_n;)</klr></trd>
   <trdgrp lng="sk">
     <trd>Luther<klr tip="ind"> (Martin)</klr></trd>,
     <trd>M.Luther</trd>
   </trdgrp>
+  <trd lng="uk">&#x41B;&#x44E;&c_t;&c_je;&c_r;</trd>
 </drv>
 
 <drv mrk="luter.l0ano">
-  <kap><ofc>*</ofc><tld />ano</kap>
+  <kap><ofc>*</ofc><tld/>ano</kap>
   <snc mrk="luter.l0ano.KRI">
     <uzo tip="fak">KRI</uzo>
     <dif>
       Membro de <tld lit="l"/>anisma konfesio:
       <ekz>
-         <tld />anoj kaj <ref tip="vid"
-         cel="kalvin.k0ano">Kalvinanoj</ref> estas kristanoj
+         <tld/>anoj kaj <ref tip="vid" cel="kalvin.k0ano">Kalvinanoj</ref> estas kristanoj
          <fnt><bib>F</bib>, <lok>&FE;37.</lok></fnt>;
       </ekz>
       <ekz>
@@ -88,10 +91,10 @@
         male al la granda plimulto de la finnoj, &scirc;i ne membras en la <tld lit="l"/>ana
         (a&ubreve; alia) eklezio, kvankam &scirc;i konsideras sin kiel kristanon
         <fnt>
+       <aut>JSL</aut>
+          <vrk><url ref="&Monato;/2000/006901.php">Novtipa prezidanto</url></vrk>
           <bib>Monato</bib>
-          <aut>JSL</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006901.html"
-              >Finnlando: Novtipa prezidanto</url></vrk>
+          <lok>2000/04, p. 9</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -100,8 +103,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ipfelkofer Jomo</aut>
-          <vrk><url ref="https://www.monato.net/2004/008189.html"
-              >Festo unika en la mondo</url></vrk>
+          <vrk><url ref="&Monato;/2004/008189.html">Festo unika en la mondo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -116,14 +118,15 @@
   <trd lng="hu">luter&aacute;nus</trd>
   <trd lng="it">luterano<klr> (sost.)</klr></trd>
   <trd lng="nl">lutheraan</trd>
+  <trd lng="pl">protestant</trd>
   <trd lng="pt">luterano</trd>
+  <trd lng="ro">protestantism</trd>
   <trd lng="ru">&c_l;&c_ju;&c_t;&c_je;&c_r;&c_a;&c_n;&c_i;&c_n;</trd>
   <trd lng="sk">luter&aacute;n</trd>
 </drv>
 
 <drv mrk="luter.l0ismo">
-  <kap><tld lit="l"/>anismo, <var><kap><tld
-  lit="l"/>ismo</kap></var></kap>
+  <kap><tld lit="l"/>anismo, <var><kap><tld lit="l"/>ismo</kap></var></kap>
   <snc mrk="luter.l0ismo.KRI">
     <uzo tip="fak">KRI</uzo>
     <dif>
@@ -136,13 +139,12 @@
         neis <ref tip="vid" cel="katoli.0ismo">katolikajn</ref> ritojn;
       </ekz>
       <ekz>
-        <klr>[Per]</klr> Koncilio de Trento <klr>[&#8230;]</klr> estis difinita la reformo de
+        <klr>[Per]</klr> Koncilio de Trento <klr>[&#x2026;]</klr> estis difinita la reformo de
         la eklezio (katolika reformacio) kaj precizigitaj la kredreguloj kontra&ubreve; la
         doktrino de kalvinismo kaj <tld lit="l"/>anismo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=300488"
-              >Koncilio de Trento</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=300488">Koncilio de Trento</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -164,14 +166,29 @@
     <trd>lutheranisme</trd>,
     <trd>lutherdom</trd>
   </trdgrp>
+  <trd lng="pl">luteranizm</trd>
   <trd lng="pt">luteranismo</trd>
+  <trd lng="ro">luteranism</trd>
   <trd lng="ru">&c_l;&c_ju;&c_t;&c_je;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
   <trd lng="sk">luter&aacute;nstvo</trd>
+  <trd lng="uk">&#x43B;&#x44E;&c_t;&c_je;&c_r;&c_a;&#x43D;&c_s;&c_t;&c_v;&#x43E;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.23 2023/04/26 06:32:09
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.22 2023/04/11 16:10:37
+aktualigo Monato-URL
+
+versio 1.21 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2020/10/02 16:42:16
+Vito Redsky: +trd pl  + trd ro
+
 Revision 1.17  2019/08/14 19:10:19  revo
 Wolfram Diestel: ekz-oj
 
@@ -182,14 +199,5 @@ Revision 1.15  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.14  2015/06/29 16:33:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.13  2010/06/30 16:30:48  revo
-Jeromo Vasxe: - kramp
-
-Revision 1.12  2009/11/30 17:30:24  revo
-Wieland Pusch: +trd bg
-
-Revision 1.11  2009/11/28 17:30:53  revo
 -->
 </vortaro>

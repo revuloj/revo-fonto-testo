@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: stik.xml,v 1.9 2023/09/04 15:14:32 revo Exp $">
 <kap>
   <rad>stik</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -21,8 +20,7 @@
         <fnt>
           <aut>M. Furness</aut>,
           <vrk>Mia Nova &Scirc;atokupo: Savado de Malnovaj Rozoj</vrk>,
-          <lok><url
-          ref="http://www.gazetejo.org/system/files/gazetoj/In0802.pdf">
+          <lok><url ref="http://www.gazetejo.org/system/files/gazetoj/In0802.pdf">
           Inter ni, 2008-02 (262)</url></lok>
         </fnt>.
       </ekz>
@@ -31,6 +29,7 @@
       <ref cel="markot.0i.HOR">markoti</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_ch;&c_a;&c_r;&c_a;&c_n;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">plantar esqueixos</trd>
   <trd lng="cs">&rcaron;&iacute;zkovat</trd>
   <trd lng="de">Steckling pflanzen</trd>
@@ -39,7 +38,12 @@
     <trd>strike</trd>
   </trdgrp>
   <trd lng="fr">bouturer</trd>
+  <trd lng="ja">&#x633F;&#x3057;&#x6728;&#x3059;&#x308B;  [<ind>&#x3055;&#x3057;&#x304D;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="sk">pch&aacute;&ccaron;kova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_v;&c_c;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&#x43D;&#x43E;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i; &c_ch;&c_je;&c_r;&c_je;&c_sh;&#x43A;&c_a;&#x43C;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stik.0ajxo">
@@ -60,15 +64,25 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_ch;&c_a;&c_r;&c_a;&c_n;&c_o;&c_k;</trd>
   <trd lng="ca">esqueix</trd>
   <trd lng="de">Steckling</trd>
   <trd lng="en">cutting</trd>
   <trd lng="fr">bouture</trd>
+  <trd lng="ja">&#x633F;&#x3057;&#x6728;  [<ind>&#x3055;&#x3057;&#x304D;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&c_je;&c_r;&c_je;&c_sh;&#x43E;&#x43A;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_s;&c_a;&c_d;&#x43E;&#x43A;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_g;&c_ib;&#x43B;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.8 2023/01/06 08:33:30
+Dmitri Gabinski: + trd be
+
 Revision 1.5  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -83,6 +97,5 @@ Wieland Pusch: +trd de
 
 Revision 1.1  2011/11/13 21:10:10  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

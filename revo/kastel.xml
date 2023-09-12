@@ -1,22 +1,51 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kastel.xml,v 1.18 2010/06/10 16:30:45 revo Exp $">
+<art mrk="$Id: kastel.xml,v 1.33 2023/09/01 13:58:57 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kastel</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="kastel.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">ARKI</uzo>
   <snc mrk="kastel.0o.MIL">
-    <uzo tip="fak">ARKI</uzo>
     <uzo tip="fak">MIL</uzo>
     <dif>
-      Lo&gcirc;loko, defendata kiel <ref tip="super"
-      cel="fortik.0ajxo">fortika&jcirc;o</ref> per fosa&jcirc;o, remparoj kaj
-      turoj.
+      Lo&gcirc;loko, defendata kiel <ref tip="super" cel="fortik.0ajxo">fortika&jcirc;o</ref> per fosa&jcirc;o,
+      remparoj kaj
+      turoj:
+      <ekz>
+        &ccirc;iujn iliajn <tld/>ojn ili forbruligis per fajro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 31:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur apena&ubreve; atingebla alta&jcirc;o en la insulo <klr>[<nom>Ailsa Craig</nom>]</klr> estas ruinoj
+        de kapelo kaj tre antikva <tld/>o
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008289.html">Mistera insulo Ailsa Craig</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/07, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o <nom>Schlaining</nom> vizitindas pro sia historia ri&ccirc;eco
+        <fnt>
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007044.php">De perforto al paco</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 12</lok>
+          </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="burg.0o">burgo</ref>,
+       <ref cel="citade.0o">citadelo</ref>
+    </refgrp>
     <trd lng="de">Burg</trd>
     <trdgrp lng="en">
       <trd>castle</trd>,
@@ -34,10 +63,40 @@
   <snc mrk="kastel.0o.palaco">
     <dif>
       <ref tip="super" cel="konstr.0ajxo">Konstrua&jcirc;o</ref> servanta
-      kiel luksa sinjora domego en la kamparo:
+      kiel luksa sinjora domego:
+      <ekz>
+        oni trovis en <nom>A&hcirc;meta</nom>, la re&gcirc;a <tld/>o en la Meda lando, unu skribrula&jcirc;on, en kiu
+        estis skribita la sekvanta pormemora&jcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ezra 6:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la re&gcirc;o <nom>A&hcirc;a&scirc;vero&scirc;</nom> sidis sur sia re&gcirc;a trono en la <tld/>urbo &Scirc;u&scirc;an
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ester 1:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        elektu al vi la plej indajn el la bando kaj konduku ilin rekte al la <tld/>o de
+        la nobelo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni iras al la edzi&gcirc;a festo en la re&gcirc;a <tld/>o
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Cindrulino</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         <ctl><tld lit="K"/>o de Prelongo</ctl>
-        <klr>(originala romano de H. Vallienne)</klr>
+        <klr>(originala romano de <nom>H. Vallienne</nom>)</klr>
         <fnt>
           <aut>H. Vallienne</aut>,
           <vrk>Kastelo de Prelongo</vrk>,
@@ -46,7 +105,8 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="palac.0o">palaco</ref>
+      <ref cel="palac.0o">palaco</ref>,
+      <ref cel="zigurat.0o">zigurato</ref>
     </refgrp>
     <trd lng="de">Schloss</trd>
     <trdgrp lng="en">
@@ -57,6 +117,7 @@
     <trd lng="hu">kast&eacute;ly</trd>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_m;&c_a;&c_k;</trd>
+  <trd lng="bo">&#xF58;&#xF41;&#xF62;&#xF0B;</trd>
   <trd lng="br">kastell</trd>
   <trdgrp lng="cs">
     <trd>hrad</trd>,
@@ -68,6 +129,12 @@
     <trd>manoir</trd>
   </trdgrp>
   <trd lng="it">castello</trd>
+  <trdgrp lng="ja">
+    <trd>&#x57CE;  [<ind>&#x304D;</ind>]</trd>,
+    <trd>&#x57CE;&#x90ED;  [<ind>&#x3058;&#x3087;&#x3046;&#x304B;&#x304F;</ind>]</trd>,
+    <trd>&#x5927;&#x90B8;&#x5B85;  [<ind>&#x3060;&#x3044;&#x3066;&#x3044;&#x305F;&#x304F;</ind>]</trd>,
+    <trd>&#x9928;  [<ind>&#x3080;&#x308D;&#x3064;&#x307F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kasteel</trd>,
     <trd>slot <klr tip="ind">(kasteel)</klr></trd>
@@ -77,6 +144,7 @@
     <trd>hrad</trd>,
     <trd>z&aacute;mok</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&c_a;&#x43C;&#x43E;&#x43A;</trd>
 </drv>
 
 <drv mrk="kastel.0oenaero">
@@ -94,29 +162,52 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
+        <tld/>' en aero &dash; malsato sur tero
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         konstrui <tld/>on sur glacio
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        kiom da absurdaj aer<tld/>oj!
+        kiom da absurdaj aer<tld/>oj
         <fnt>
           <aut>S. Rodin</aut>,
           <vrk>Bildoj pri Norda Lando</vrk>,
           <lok>2006</lok>
-        </fnt>.
+        </fnt>!
       </ekz>
     </dif>
     <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y; <ind>&c_z;&c_a;&c_m;&c_a;&c_k;</ind></trd>
     <trd lng="br">kestell el Loar</trd>
     <trd lng="fr">ch&acirc;teau en Espagne</trd>
     <trd lng="it">castello in aria</trd>
-    <trd lng="nl">luchtkastel</trd>
+    <trd lng="nl">luchtkasteel</trd>
     <trd lng="pl">zamek na piasku</trd>
   </snc>
+<trd lng="de">Luftschloss</trd>
+  <trd lng="ja">&#x7A7A;&#x4E2D;&#x697C;&#x95A3;  [<ind>&#x304F;&#x3046;&#x3061;&#x3085;&#x3046;&#x308D;&#x3046;&#x304B;&#x304F;</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.32 2023/05/11 04:29:57
+Paul Peeraerts: fnt, kor en nl
+
+versio 1.31 2023/04/30 14:25:40
+Paul Peeraerts: Steloj -> monato
+
+versio 1.30 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.27 2021/05/23 07:52:42
+Wolfram Diestel: ref-tip
+
+versio 1.26 2021/05/21 13:15:34
+Wolfram Diestel: ekz-oj, ref-oj
+
 Revision 1.24  2017/08/22 22:10:25  revo
 Vito Redsky: +trd ro
 
@@ -124,17 +215,5 @@ Revision 1.23  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.22  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.21  2014/09/16 09:10:29  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.20  2014/09/06 17:10:12  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.19  2011/05/11 12:10:12  revo
-Jeromo Vasxe: + aer~o
-
-Revision 1.18  2010/06/10 16:30:45  revo
 -->
 </vortaro>

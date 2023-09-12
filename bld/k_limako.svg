@@ -9,7 +9,8 @@
 ]>
 
 <svg version="1.1" 
-  width="21cm" height="10cm" 
+  xmlns="http://www.w3.org/2000/svg"
+  width="840" height="400" 
   viewBox="0 0 840 400"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   onload="start(evt,&scale;)">
@@ -42,7 +43,7 @@
         var t0 = -Math.PI, t1 = Math.PI;
         var parm, scal_xy;
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
+        var svgdoc = evt.target.ownerDocument;
 
         // Montri la aksojn
         var objet = svgdoc.getElementById("x_akso_pinto");
@@ -100,8 +101,8 @@
     -->
 
     <path id="kurbo1" class="kurbo" d=""/>
-    <text class="parametro">
-      <textPath xlink:href="#kurbo1" dy="-5" startOffset="26.5%">
+    <text class="parametro" dy="-5">
+      <textPath xlink:href="#kurbo1" startOffset="26.5%">
         <tspan style="font-style: italic">l</tspan> = 0,5
       </textPath>
     </text>
@@ -120,8 +121,8 @@
       <!-- kaj kardioido! -->
 
       <path id="kurbo2" class="kurbo" d=""/>
-      <text class="parametro">
-        <textPath xlink:href="#kurbo2" dy="-5" startOffset="24%">
+      <text class="parametro" dy="-5">
+        <textPath xlink:href="#kurbo2" startOffset="24%">
           <tspan style="font-style: italic">l</tspan> = 1
         </textPath>
       </text>
@@ -137,8 +138,8 @@
       <use xlink:href="#kadro"/>
 
       <path id="kurbo3" class="kurbo" d=""/>
-      <text class="parametro">
-        <textPath xlink:href="#kurbo3" dy="-5" startOffset="23%">
+      <text class="parametro" dy="-5">
+        <textPath xlink:href="#kurbo3" startOffset="23%">
           <tspan style="font-style: italic">l</tspan> = 1,4
         </textPath>
       </text>

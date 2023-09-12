@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mimeograf.xml,v 1.6 2009/08/20 16:31:00 revo Exp $">
+<art mrk="$Id: mimeograf.xml,v 1.15 2023/09/02 06:04:12 revo Exp $">
 <kap>
   <rad>mimeograf</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -17,6 +16,7 @@
       folioj.
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_ib;&c_m;&c_e;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>
   <trdgrp lng="en">
     <trd>mimeograph</trd>,
     <trd>stencil duplicator</trd>
@@ -35,6 +35,7 @@
     <trd>ron&eacute;otype</trd>
   </trdgrp>
   <trd lng="hu">stencilg&eacute;p</trd>
+  <trd lng="ja">&#x8B04;&#x5199;&#x7248;  [<ind>&#x3068;&#x3046;&#x3057;&#x3083;&#x3070;&#x3093;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>mimeograaf</trd>,
     <trd>stencilmachine</trd>
@@ -44,6 +45,7 @@
     <trd>cyklostyl</trd>,
     <trd>rozmno&zcaron;ovac&iacute; stroj</trd>
   </trdgrp>
+  <trd lng="uk">&#x43C;&#x456;&#x43C;&#x435;&#x43E;&#x433;&#x440;&#x430;&#x444;</trd>
 </drv>
 
 <drv mrk="mimeograf.0i">
@@ -66,6 +68,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_ja;&c_v;&c_a;&c_c;&c_mol; &c_n;&c_a; <ind>&c_m;&c_ib;&c_m;&c_e;&c_o;&c_g;&c_r;&c_a;&c_f;&c_y;</ind></trd>
   <trd lng="en">to mimeograph</trd>
   <trd lng="ca">ciclostilar</trd>
   <trd lng="cs">cyklostylovat</trd>
@@ -75,13 +78,25 @@
     <trd>ron&eacute;otyper</trd>
   </trdgrp>
   <trd lng="hu">stencilez</trd>
+  <trd lng="ja">&#x8B04;&#x5199;&#x7248;&#x3067;&#x5237;&#x308B;  [<ind>&#x8B04;&#x5199;&#x306F;&#x3093;&#x3067;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">stencilen</trd>
+  <trd lng="pt">mimeografar</trd>
   <trd lng="sk">cyklostylova&tcaron;</trd>
+  <trd lng="uk">&#x440;&#x43E;&#x437;&#x43C;&#x43D;&#x43E;&#x436;&#x443;&#x432;&#x430;&#x442;&#x438; &#x43D;&#x430; &#x43C;&#x456;&#x43C;&#x435;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x456;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.13 2021/12/06 08:36:30
+Dmitri Gabinski: + trd be
+
+versio 1.12 2020/03/22 22:10:40
+James Rezende Piton: +trd pt ~i
+
+Revision 1.11  2018/06/15 15:10:14  revo
+Wieland Pusch: ligo kun http
+
 Revision 1.10  2015/09/17 14:10:15  revo
 Cindy Moon McKee: +trd en
 
@@ -95,11 +110,5 @@ Revision 1.7  2012/08/13 00:10:25  revo
 Marc Rausell: + trd ca
 
 Revision 1.6  2009/08/20 16:31:00  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.5  2007/05/19 17:02:19  revo
-Wieland Pusch: +trd de
-
-Revision 1.4  2007/02/20 17:30:27  revo
 -->
 </vortaro>

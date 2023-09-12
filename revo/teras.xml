@@ -1,21 +1,44 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: teras.xml,v 1.23 2023/09/04 18:15:46 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>teras</rad>/o
 </kap>
 <drv mrk="teras.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <snc>
+  <uzo tip="fak">ARKI</uzo><uzo tip="fak">AGR</uzo>
+  <snc mrk="teras.0o.ebeno">
     <dif>
-      Alta ebena teramaso subtenita per masona&jcirc;o kaj
-      aran&gcirc;ita en &gcirc;ardeno por &gcirc;ui belvidon a&ubreve;
-      faciligi promenadon:
+      Ebena <ref tip="super" cel="are.0o.KOMUNE">areo</ref> apud domo a&ubreve; 
+      en &gcirc;ardeno, la&ubreve;bezone subtenita per masona&jcirc;o,
+      &ccirc;u aran&gcirc;ita por sidado, &ccirc;u por niveli deklivon:
       <ekz>
-        anta&ubreve; la kastelo etendi&gcirc;as vasta <tld/>o
+        li fumis cigaredon sur la nefermita <tld/>o, kie la malvarmeta aero estis plena
+        de la odoro de oran&gcirc;oj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        trinkejaj <tld/>oj
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Moderna An&gcirc;eluso</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni sidis kune sur la <tld/>o de mia vilao
+        <fnt>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2003/008041.html">La aristarka raporto de Albisturo
+          Kvinke</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/07, p. 33</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
@@ -23,42 +46,122 @@
       <ref cel="belved.0o">belvedero</ref>,
       <ref cel="balkon.0o">balkono</ref>.
     </refgrp>
+    <trd lng="de">Terrasse</trd>
     <trd lng="pl">taras</trd>
   </snc>
-  <snc>
+  <snc mrk="teras.0o.tegmento">
     <dif>
-      Ebena tegmento kun balustrado.
+      Ebena <ref tip="super" cel="tegmen.0o">tegmento</ref> kun balustrado:
+      <ekz>
+        la domo <klr>[&#x2026;]</klr> estis ligna, unueta&gcirc;a, kiel kutime kun <tld/>o, super kiu
+        pendis tola tendo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la plata tegmento de &ccirc;i tiu konstrua&jcirc;o staris denove kvadrata <tld/>o, kelke
+        da metroj alta <klr>[&#x2026;]</klr> kaj sur &gcirc;i, unu sur la alia, du turoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> instruistoj <klr>[&#x2026;]</klr> &ccirc;iutage observis la monton sur
+        tegmenta <tld/>o de la lernejo
+        <fnt>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2013/011050.php">Monto Fu&jcirc;i</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/08, p. 17</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <trd lng="de">Dachterasse</trd>
     <trd lng="pl">taras</trd>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_r;&c_a;&c_s;&c_a;</trd>
   <trd lng="ca">terrassa</trd>
   <trd lng="cs">terasa</trd>
-  <trd lng="de">Terrasse</trd>
+  
   <trd lng="en">terrace</trd>
   <trd lng="fr">terrasse</trd>
   <trd lng="hu">terasz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C6;&#x30E9;&#x30B9;</trd>,
+    <trd>&#x9732;&#x53F0;  [<ind>&#x308D;&#x3060;&#x3044;</ind>]</trd>,
+    <trd>&#x5C4B;&#x4E0A;&#x9732;&#x53F0;  [<ind>&#x304A;&#x304F;&#x3058;&#x3087;&#x3046;&#x308D;&#x3060;&#x3044;</ind>]</trd>,
+    <trd>&#x53F0;&#x5730;  [<ind>&#x3060;&#x3044;&#x3061;</ind>]</trd>,
+    <trd>&#x9AD8;&#x53F0;  [<ind>&#x305F;&#x304B;&#x3060;&#x3044;</ind>]</trd>,
+    <trd>&#x7BC9;&#x5C71;  [<ind>&#x3064;&#x304D;&#x3084;&#x307E;</ind>]</trd>,
+    <trd>&#x6BB5;&#x4E18;  [<ind>&#x3060;&#x3093;&#x304D;&#x3085;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">terras</trd>
   <trdgrp lng="pt">
     <trd>terra&ccedil;o</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_r;&c_r;&c_a;&c_s;&c_a;</trd>
   <trd lng="sk">terasa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_je;&c_r;&c_a;&c_s;&c_a;</trd>,
+    <trd>&c_v;&c_u;&c_z;&#x44C;&#x43A;&c_a; &c_b;&c_a;&c_z;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="teras.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="teras.0a.rilata">
+    <uzo tip="fak">AGR</uzo>
     <dif>
-      Formanta <tld/>ojn:
+      Rilata al <tld/>o; kun <tld/>o ktp:
       <ekz>
-        la urbo sin levas <tld/>e
-        <klr>(&scirc;tupare)</klr>.
+        oni disponigis al &scirc;i <tld/>an apartamenton kun spirhaltiga panoramo
+        <fnt>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2011/010183.php">Terasa apartamento</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/01, p. 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelnerino alportis man&gcirc;ilaron sur la <tld/>an tablon
+        <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk><url ref="&Monato;/2001/007015.php">Zagrebaj Solistoj en Bonaero</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/07, p. 22</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="amfite.0o">amfiteatro</ref>.
+  </snc>
+  <snc mrk="teras.0a.formanta">
+    <dif>
+      Formanta <tld/>ojn, <tld/>ita:
+      <ekz>
+        ili ekrigardis la valon: la arbaro, la <tld/>aj kampoj, la pa&scirc;tejoj tran&ccirc;ataj de
+        vojetoj
+        <fnt>
+          <bib>IKr</bib>
+          <vrk>La Miraklo de Purun Bhagat</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la poeziaj <tld/>aj rizkampoj de Mekongo
+        <fnt>
+          <bib>MD14</bib>
+          <vrk>Rusaj chart-aviadiloj por Vjetnamujo</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="amfite.0o">amfiteatro</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd>terrassenf&ouml;rmig</trd>,
+      <trd>terassiert</trd>
+    </trdgrp>
     <trd lng="pl">tarasowy</trd>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_r;&c_a;&c_s;&c_n;&c_y;</trd>
@@ -66,14 +169,49 @@
     <trd>formant terrasses</trd>,
     <trd>graonat</trd>
   </trdgrp>
-  <trd lng="de">terrassenf&ouml;rmig</trd>
+  
   <trd lng="hu">teraszos</trd>
   <trd lng="nl">terrasvormig</trd>
   <trd lng="ru">&c_t;&c_je;&c_r;&c_r;&c_a;&c_s;&c_n;&c_y;&c_j;</trd>
 </drv>
+
+<drv mrk="teras.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <snc mrk="teras.0i.arangxi">
+    <dif>
+      Aran&gcirc;i deklivan &gcirc;ardenon a&ubreve; kampon la&ubreve; ebenaj &scirc;tupegoj:
+      <ekz>
+        ni vidis virinojn plugi <tld/>itajn kampojn
+        <fnt>
+          <aut>Vera Barandovsk&aacute;-Frank</aut>
+          <vrk><url ref="&Monato;/2004/008388.html">Nepalo tra e&ubreve;ropaj okuloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/09, p. 16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">terrassieren</trd>
+  </snc>  
+</drv>
+
+
 </art>
 <!--
 $Log$
+versio 1.22 2023/05/13 08:29:19
+Paul Peeraerts: kor de erara url
+
+versio 1.21 2023/05/06 15:11:57
+revo: aktualigo URL-unuoj
+
+versio 1.20 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2021/04/03 19:09:48
+Wolfram Diestel: +ekz-oj
+
 Revision 1.16  2015/06/29 16:40:19  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -84,20 +222,5 @@ Revision 1.14  2012/07/14 13:10:19  revo
 Marc Rausell: + trd ca
 
 Revision 1.13  2009/02/15 14:19:01  revo
-Russ Williams: +trd en
-
-Revision 1.12  2008/11/07 17:30:57  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.11  2006/02/15 17:33:14  revo
-Tulio Flores: +trd pt
-
-Revision 1.10  2004/11/26 17:32:00  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2003/09/18 16:31:01  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/06/11 17:33:35  revo
 -->
 </vortaro>

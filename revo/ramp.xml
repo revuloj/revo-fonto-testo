@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: ramp.xml,v 1.33 2023/09/03 07:53:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ramp</rad>/i
@@ -172,7 +171,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la mu&scirc;oj ne forflugis <klr>[&#8230;]</klr> iliaj flugiloj estis el&scirc;iritaj, ili povis nur <tld/>i
+        la mu&scirc;oj ne forflugis <klr>[&#x2026;]</klr> iliaj flugiloj estis el&scirc;iritaj, ili povis nur <tld/>i
         <fnt>
           <bib>Fab4</bib>
           <lok>Knabino, kiu pa&scirc;is sur panon</lok>
@@ -240,7 +239,7 @@
       </ekz>
       <ekz>
         genuojn homoj fleksas ja nur tiam, 
-        se la <tld/>ad&#8217; profiton donas
+        se la <tld/>ad&#x2019; profiton donas
         <fnt>
           <bib>Hamlet</bib>
         </fnt>.
@@ -268,6 +267,13 @@
     <trd>k&uacute;szik</trd>,
     <trd>m&aacute;szik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9019;&#x3046;  [<ind>&#x306F;&#x3046;</ind>]</trd>,
+    <trd>&#x9019;&#x3063;&#x3066;&#x9032;&#x3080;  [<ind>&#x306F;&#x3063;&#x3066;&#x3059;&#x3059;&#x3080;</ind>]</trd>,
+    <trd>&#x530D;&#x5310;&#x3059;&#x308B;  [<ind>&#x307B;&#x3075;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x306E;&#x308D;&#x306E;&#x308D;&#x9032;&#x3080;  [<ind>&#x306E;&#x308D;&#x306E;&#x308D;&#x3059;&#x3059;&#x3080;</ind>]</trd>,
+    <trd>&#x306F;&#x3044;&#x3064;&#x304F;&#x3070;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">kruipen</trd>
   <trdgrp lng="pl">
     <trd>czo&lstroke;ga&cacute; si&eogonek;</trd>,
@@ -283,6 +289,16 @@
     <trd>liez&tcaron;</trd>,
     <trd>plazi&tcaron; sa</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&#x430;&#x437;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x432;&#x437;&#x442;&#x438;</trd>,
+    <trd>&#x43B;&#x456;&#x437;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x432;&#x437;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x438;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x441;&#x442;&#x435;&#x43B;&#x438;&#x442;&#x438;&#x441;&#x44F; &#x43F;&#x43E; &#x437;&#x435;&#x43C;&#x43B;&#x456; (&#x43F;&#x440;&#x43E; &#x440;&#x43E;&#x441;&#x43B;&#x438;&#x43D;&#x438;)</trd>,
+    <trd>&#x43F;&#x43B;&#x430;&#x437;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x440;&#x438;&#x43D;&#x438;&#x436;&#x443;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ramp.0ajxo">
@@ -292,7 +308,7 @@
     <fnt>
       <bib>F</bib>, 
       <lok>Universala Vortaro, 
-      <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5177">ramp'a&jcirc;'</url></lok>
+      <url ref="&AdE;/fundamento/universala_vortaro.html#av-5177">ramp'a&jcirc;'</url></lok>
     </fnt>
     <dif>
       Besto, kiu movas sin rampante, ekz serpento, lacerto, limako, vermo kc:
@@ -342,6 +358,8 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ja">&#x530D;&#x5310;&#x690D;&#x7269;  [<ind>&#x307B;&#x3075;&#x304F;&#x3057;&#x3087;&#x304F;&#x3076;&#x3064;</ind>]</trd>
+  <trd lng="uk">&#x432;&#x438;&#x442;&#x43A;&#x430;/&#x441;&#x43B;&#x430;&#x43D;&#x43A;&#x430; &#x440;&#x43E;&#x441;&#x43B;&#x438;&#x43D;&#x430;</trd>
 </drv>
 
 <drv mrk="ramp.0uloj">
@@ -373,6 +391,7 @@
   <trd lng="es">reptiles</trd>
   <trd lng="fr">reptile <klr>(arch.)</klr></trd>
   <trd lng="hu">h&uuml;ll&odblac;k</trd>
+  <trd lng="ja">&#x722C;&#x866B;&#x985E;  [<ind>&#x306F;&#x3061;&#x3085;&#x3046;&#x308B;&#x3044;</ind>]</trd>
   <trd lng="nl">reptielen</trd>
   <trd lng="pl">p&lstroke;azy</trd>
   <trd lng="tr">s&uuml;r&uuml;ngenler</trd>
@@ -381,11 +400,14 @@
 <trd>&c_p;&c_r;&c_je;&c_s;&c_m;&c_y;&c_k;&c_a;&c_ju;&c_shch;&c_i;&c_je;&c_s;&c_ja;</trd>,
     <trd>&c_r;&c_je;&c_p;&c_t;&c_i;&c_l;&c_i;&c_i;</trd>
   </trdgrp>
-  <trd lng="tp">akesi</trd>
+  <trd lng="tok">akesi</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.32 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.29  2018/03/25 11:10:13  revo
 Wolfram Diestel: kor. mrk, prilaboris ekz-ojn, kunigis du snc-ojn
 
@@ -405,8 +427,5 @@ Revision 1.24  2013/08/31 16:10:38  revo
 Wolfram Diestel: prilaboris dif de ~uloj sendante al reptilioj
 
 Revision 1.23  2006/09/06 15:15:43  revo
-Axel Rousseau: +trd tp
-
-Revision 1.22  2006/03/21 17:32:35  revo
 -->
 </vortaro>

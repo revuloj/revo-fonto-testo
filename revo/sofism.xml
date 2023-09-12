@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sofism.xml,v 1.18 2023/09/04 05:14:55 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
   <rad>sofism</rad>/o
@@ -23,7 +22,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        &leftquot;dialektiko&rightquot; <klr>[&#8230;]</klr> por antikvoj <klr>[&#8230;]</klr> estis
+        &leftquot;dialektiko&rightquot; <klr>[&#x2026;]</klr> por antikvoj <klr>[&#x2026;]</klr> estis
         nenio <klr>[ol]</klr> la logiko de iluzio, &gcirc;i estis <tld/>a arto veni al persona nescio
         <fnt>
           <bib>Viki</bib>
@@ -31,7 +30,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        paradokso de Akilo estas <klr>[&#8230;]</klr> la <tld/>o kontra&ubreve; movo, la dua el la kvar tiucelaj argumentoj de Zenono el Elajo
+        paradokso de Akilo estas <klr>[&#x2026;]</klr> la <tld/>o kontra&ubreve; movo, la dua el la kvar tiucelaj argumentoj de Zenono el Elajo
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=253869">Paradokso de Akilo</url></lok>
@@ -60,6 +59,11 @@
     <trd>szofizmus</trd>,
     <trd>sz&odblac;rsz&aacute;lhasogat&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x601D;&#x5F01;&#x54F2;&#x5B66;  [<ind>&#x3057;&#x3079;&#x3093;&#x3066;&#x3064;&#x304C;&#x304F;</ind>]</trd>,
+    <trd>&#x8A6D;&#x5F01;  [<ind>&#x304D;&#x3079;&#x3093;</ind>]</trd>,
+    <trd>&#x5C41;&#x7406;&#x5C48;  [<ind>&#x3078;&#x308A;&#x304F;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">sofisme</trd>
   <trd lng="pl">sofizmat</trd>
   <trd lng="ru">&c_s;&c_o;&c_f;&c_i;&c_z;&c_m;</trd>
@@ -68,6 +72,7 @@
     <trd>m&auml;t&uacute;ca argument&aacute;cia</trd>,
     <trd>&uacute;skok</trd>
   </trdgrp>
+  <trd lng="uk">&#x441;&#x43E;&#x444;&#x456;&#x437;&#x43C;</trd>
 </drv>
 </art>
 <!--

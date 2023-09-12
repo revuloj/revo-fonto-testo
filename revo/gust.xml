@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gust.xml,v 1.27 2007/05/28 16:30:39 revo Exp $">
+<art mrk="$Id: gust.xml,v 1.50 2023/08/31 14:29:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gust</rad>/o <fnt><bib>PV</bib></fnt>
@@ -32,6 +31,8 @@
         &iacute;ze</trd>
       </ekz>
     </dif>
+    <lstref lst="voko:gustoj"><tld/>oj</lstref>
+    <trd lng="be">&c_s;&c_m;&c_a;&c_k;</trd>
     <trd lng="es">sabor</trd>
     <trd lng="hu">&iacute;z</trd>
   </snc>
@@ -50,6 +51,7 @@
         la organo de la <tld/>o.
       </ekz>
     </dif>
+    <trd lng="be">&c_s;&c_m;&c_a;&c_k;</trd>
     <trd lng="es">sentido del gusto</trd>
     <trd lng="hu">&iacute;zlel&odblac;k&eacute;pess&eacute;g</trd>
   </snc>
@@ -94,6 +96,7 @@
         <klr>(pla&ccirc;i al)</klr>.
       </ekz>
     </dif>
+    <trd lng="be">&c_g;&c_u;&c_s;&c_t;</trd>
     <trd lng="es">gusto personal</trd>
     <trd lng="hu">&iacute;zl&eacute;s</trd>
   </snc>
@@ -109,9 +112,11 @@
         oni povas distingi la naturan kaj la akiritan <tld/>ojn.
       </ekz>
     </dif>
+    <trd lng="be">&c_g;&c_u;&c_s;&c_t;</trd>
     <trd lng="es">sentido de la belleza</trd>
     <trd lng="hu">sz&eacute;p&eacute;rz&eacute;k</trd>
   </snc>
+  <trd lng="bo">&t_ra;&t_naro;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>chu&tcaron;</trd>,
     <trd>gusto</trd>,
@@ -125,6 +130,14 @@
     <trd>sabor</trd> 
   </trdgrp>
   <trd lng="fr">go&ucirc;t</trd>
+  <trd lng="id">rasa</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5473;  [<ind>&#x307F;</ind>]</trd>,
+    <trd>&#x98A8;&#x5473;  [<ind>&#x3075;&#x3046;&#x307F;</ind>]</trd>,
+    <trd>&#x5473;&#x899A;  [<ind>&#x307F;&#x304B;&#x304F;</ind>]</trd>,
+    <trd>&#x8DA3;&#x5473;  [<ind>&#x3057;&#x3085;&#x307F;</ind>]</trd>,
+    <trd>&#x597D;&#x307F;  [<ind>&#x3054;&#x306E;&#x307F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">smaak</trd>
   <trdgrp lng="pt">
     <trd>gosto</trd>, 
@@ -135,6 +148,7 @@
     <trd>chu&tcaron;</trd>,
     <trd>vkus</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&#x43C;&c_a;&#x43A;</trd>
 </drv>
 
 <drv mrk="gust.0i">
@@ -180,11 +194,19 @@
     <trd>avoir du <ind>go&ucirc;t</ind></trd>,
     <trd>d&eacute;lecter</trd>
   </trdgrp>
+  <trd lng="id">te<ind>rasa</ind></trd>
+  <trd lng="ja">&#x5473;&#x304C;&#x3059;&#x308B;  [<ind>&#x3042;&#x3058;&#x304C;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">smaken</trd>
   <trd lng="ru">&c_i;&c_m;&c_je;&c_t;&c_mol; <ind>&c_v;&c_k;&c_u;&c_s;</ind>
 <klr>(&c_ch;&c_je;&c_g;&c_o;-&c_l;., &c_k;&c_a;&c_k;
 &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
   <trd lng="sk">ma&tcaron; chu&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43C;&c_a;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_a;&c_t;&c_i; &c_s;&#x43C;&c_a;&#x43A;&#xA0;(&c_ch;&#x43E;&c_g;&#x43E;-&#x43D;.)</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_ch;&c_u;&c_t;&c_i;&#xA0;(&c_ch;&c_i;&#x43C;-&#x43D;.)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gust.0igi">
@@ -212,6 +234,7 @@
       <trd>meg&iacute;zes&iacute;t</trd>
       <trd>&iacute;zletess&eacute; tesz</trd>
     </trdgrp>
+    <trd lng="id">mem<ind>bumbu</ind>i</trd>
   </snc>
   <snc mrk="gust.0igi.agrabligi">
     <uzo tip="stl">FIG</uzo>
@@ -223,6 +246,7 @@
     </dif>
     <trd lng="hu">megkedveltet</trd>
   </snc>
+  <trd lng="be">&c_m;&c_je;&c_c;&c_mol; <ind>&c_s;&c_m;&c_a;&c_k;</ind></trd>
   <trd lng="cs">ochutit</trd>
   <trdgrp lng="es">
     <trd>dar <ind>sabor</ind></trd>,
@@ -234,15 +258,19 @@
     <trd>assaisonner</trd>,
     <trd>relever<klr tip="ind"> (le go&ucirc;t de)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x5473;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x3042;&#x3058;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>
   <trd lng="nl">doen <ind>smaken</ind></trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; &c_v;&c_k;&c_u;&c_s;</trd>
   <trd lng="sk">ochuti&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_s;&#x43C;&c_a;&#x43A;&c_u;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gust.0umi">
   <kap><ofc>*</ofc><tld/>umi <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5041">gust'um'</url></lok></fnt></kap>
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5041">gust'um'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="gust.0umi.perLango">
     <dif>
@@ -264,11 +292,22 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_sh;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_a; &c_s;&c_m;&c_a;&c_k;)</klr></trd>,
+    <trd>&c_p;&c_a;&c_k;&c_a;&c_sh;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_v;&c_je;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF56;&#xFB2;&#xF7C;&#xF0B;&#xF56;&#xF0B;&#xF58;&#xFB1;&#xF7C;&#xF44;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>chutnat</trd>,
     <trd>ochutn&aacute;vat</trd>
   </trdgrp>
-  <trd lng="de">kosten</trd>
+  <trdgrp lng="de">
+    <trd>kosten</trd>,
+    <trd>verkosten</trd>,
+    <trd>abschmecken</trd>,
+    <trd>probieren</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>to taste</trd>,
     <trd>sample</trd>
@@ -281,6 +320,16 @@ plaisir
     <trd>d&eacute;guster</trd>
   </trdgrp>
   <trd lng="hu">meg&iacute;zlel</trd>
+  <trdgrp lng="id">
+    <trd>men<ind>cicip</ind>i</trd>,
+    <trd>me<ind>rasa</ind>i</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5473;&#x308F;&#x3046;  [<ind>&#x3042;&#x3058;&#x308F;&#x3046;</ind>]</trd>,
+    <trd>&#x5473;&#x898B;&#x3059;&#x308B;  [<ind>&#x3042;&#x3058;&#x307F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x697D;&#x3057;&#x3080;  [<ind>&#x305F;&#x306E;&#x3057;&#x3080;</ind>]</trd>,
+    <trd>&#x9451;&#x8CDE;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">proeven</trd>
   <trdgrp lng="pt">
    <trd>provar<klr tip="ind"> (comida)</klr></trd>, 
@@ -293,6 +342,10 @@ plaisir
     <trd>&c_d;&c_je;&c_g;&c_u;&c_s;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">ochutna&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_b;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43D;&c_a; &c_s;&#x43C;&c_a;&#x43A;</trd>,
+    <trd>&#x43A;&c_u;&c_sh;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gust.0uminda">
@@ -310,8 +363,17 @@ plaisir
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_y;, &c_k;&c_a;&c_b; <ind>&c_p;&c_a;&c_k;&c_a;&c_sh;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</ind></trd>,
+    <trd>&c_s;&c_m;&c_a;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="en">tasty</trd>
   <trd lng="fr">d&eacute;licieux</trd>
+  <trdgrp lng="id">
+    <trd>enak</trd>,
+    <trd>lezat</trd>,
+    <trd>sedap</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gust.antaux0o">
@@ -327,6 +389,7 @@ plaisir
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="de">Vorgeschmack</trd>
   <trd lng="en">foretaste</trd>
   <trd lng="es">imaginar (anticipar) el sabor</trd>
@@ -345,6 +408,7 @@ plaisir
         bon<tld/>a viando, vesto, meblaro, dramo.
       </ekz>
     </dif>
+    <trd lng="be">&c_s;&c_m;&c_a;&c_ch;&c_n;&c_y;</trd>
     <trdgrp lng="de">
       <trd>k&ouml;stlich</trd>,
       <trd>vorz&uuml;glich</trd>,
@@ -375,6 +439,7 @@ plaisir
         bon<tld/>a kritikisto.
       </ekz>
     </dif>
+    <trd lng="be">&c_g;&c_u;&c_s;&c_t;&c_o;&c_w;&c_n;&c_y;</trd>
     <trd lng="de">geschmackvoll</trd>
     <trd lng="es">con <ind>gusto</ind></trd>
     <trd lng="fr">de bon <ind>gout</ind></trd>
@@ -384,12 +449,27 @@ plaisir
     (pessoa)</klr></trd>
     <trd lng="ru">&c_s; &c_h;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_m; <ind>&c_v;&c_k;&c_u;&c_s;&c_o;&c_m;</ind></trd>
   </snc>
+  <trd lng="bo">&#xF56;&#xFB2;&#xF7C;&#xF56;&#xF0B;&#xF46;&#xF7A;&#xF53;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>chutn&yacute;</trd>,
     <trd>lahodn&yacute;</trd>
   </trdgrp>
   <trd lng="en">tasteful</trd>
+  <trdgrp lng="id">
+    <trd>enak</trd>,
+    <trd>lezat</trd>,
+    <trd>sedap</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304A;&#x3044;&#x3057;&#x3044;</trd>,
+    <trd>&#x3046;&#x307E;&#x3044;</trd>,
+    <trd>&#x8DA3;&#x5473;&#x306E;&#x826F;&#x3044;  [<ind>&#x3057;&#x3085;&#x307F;&#x306E;&#x3044;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">chutn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43C;&c_a;&c_ch;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&#x43E;&c_b;&c_r;&c_i;&c_j; (&#x43D;&c_a; &c_s;&#x43C;&c_a;&#x43A;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gust.bon0i">
@@ -405,6 +485,10 @@ plaisir
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_c;&c_mol; &c_d;&c_o;&c_b;&c_r;&c_y; <ind>&c_s;&c_m;&c_a;&c_k;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_s;&c_m;&c_a;&c_ch;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>b&yacute;t chutn&yacute;</trd>,
     <trd>chutnat</trd>
@@ -428,13 +512,13 @@ plaisir
         maljuneco povas esti amuza, sed kun &ccirc;iama tragedia krom<tld/>o
         <fnt>
           <aut>S. Belov</aut>,
-          <vrk><url
-          ref="http://stanobelov.blogspot.fr/2017/02/la-lasta-tago-en-bonaero.html">
+          <vrk><url ref="http://stanobelov.blogspot.fr/2017/02/la-lasta-tago-en-bonaero.html">
           La lasta tago en Bonaero</url></vrk>,
           <lok>2016-04-17</lok>
         </fnt>
       </ekz>
     </dif>
+    <trd lng="be">&c_p;&c_r;&c_y;&c_s;&c_m;&c_a;&c_k; <klr>(&c_p;&c_a;&c_b;&c_o;&c_ch;&c_n;&c_y; &c_s;&c_m;&c_a;&c_k;)</klr></trd>
   </snc>
 </drv>
 
@@ -465,6 +549,7 @@ plaisir
     <trd>ut&oacute;&iacute;z</trd>,
     <trd>sz&aacute;j&iacute;z</trd>
   </trdgrp>
+  <trd lng="ja">&#x5F8C;&#x5473;  [<ind>&#x3042;&#x3068;&#x3042;&#x3058;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>nasmaak</trd>,
     <trd>afdronk</trd>
@@ -473,6 +558,7 @@ plaisir
     <trd>&c_p;&c_r;&c_i;&c_v;&c_k;&c_u;&c_s;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_l;&c_je;&c_v;&c_k;&c_u;&c_s;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_r;&c_i;&c_s;&#x43C;&c_a;&#x43A;</trd>
 </drv>
 
 <drv mrk="gust.sen0a">
@@ -492,6 +578,10 @@ plaisir
         sen<tld/>a &scirc;erco, la&ubreve;do, poemo.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_ja;&c_s;&c_m;&c_a;&c_ch;&c_n;&c_y;</trd>,
+      <trd>&c_b;&c_ja;&c_z; <ind>&c_s;&c_m;&c_a;&c_k;&c_u;</ind></trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>ins&iacute;pido</trd>, 
       <trd>insulso</trd> 
@@ -507,6 +597,10 @@ plaisir
     <dif>
       Ne posedanta estetikan <tld/>on.
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_b;&c_je;&c_z;&c_g;&c_u;&c_s;&c_t;&c_o;&c_w;&c_n;&c_y;</trd>,
+      <trd>&c_n;&c_je;&c_e;&c_s;&c_t;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+    </trdgrp>
     <trd lng="hu">&iacute;zl&eacute;stelen</trd>
   </snc>
   <trdgrp lng="cs">
@@ -527,6 +621,12 @@ plaisir
     <trd>insipide</trd>,
     <trd>vulgaire<klr tip="ind"> (d&eacute;pourvu de go&ucirc;t)</klr></trd>
   </trdgrp>
+  <trd lng="id">hambar</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5473;&#x306E;&#x306A;&#x3044;  [<ind>&#x3042;&#x3058;&#x306E;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x304A;&#x3082;&#x3057;&#x308D;&#x307F;&#x306E;&#x306A;&#x3044;</trd>,
+    <trd>&#x7121;&#x5473;&#x4E7E;&#x71E5;&#x306A;  [<ind>&#x3080;&#x307F;&#x304B;&#x3093;&#x305D;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">smaakloos</trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_v;&c_k;&c_u;&c_s;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
@@ -534,6 +634,11 @@ plaisir
     <trd>bez vkusu</trd>,
     <trd>nechutn&yacute;</trd>,
     <trd>nevkusn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_s;&#x43C;&c_a;&c_ch;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&#x43E;&c_z;&c_b;&c_a;&c_v;&#x43B;&c_je;&#x43D;&c_i;&c_j; &c_s;&#x43C;&c_a;&#x43A;&c_u;</trd>,
+    <trd>&c_b;&c_je;&c_z; &c_s;&#x43C;&c_a;&#x43A;&c_u;</trd>
   </trdgrp>
 </drv>
 
@@ -551,6 +656,7 @@ plaisir
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_e;&c_g;&c_u;&c_s;&c_t;&c_a;&c_t;&c_a;&c_r; &c_v;&c_ib;&c_n;</trd>
   <trdgrp lng="cs">
     <trd>ko&scaron;t&eacute;r</trd>,
     <trd>ko&scaron;t&eacute;&rcaron;</trd>,
@@ -565,6 +671,8 @@ plaisir
   </trdgrp>
   <trd lng="fr">d&eacute;gustateur<klr tip="ind"> (de vin)</klr></trd>
   <trd lng="hu">bork&oacute;stol&oacute;</trd>
+  <trd lng="id">pen<ind>cicip</ind> anggur</trd>
+  <trd lng="ja">&#x30EF;&#x30A4;&#x30F3;&#x9451;&#x5B9A;&#x4EBA;  [<ind>&#x308F;&#x3044;&#x3093;&#x304B;&#x3093;&#x3066;&#x3044;&#x3058;&#x3093;</ind>]</trd>
   <trd lng="nl">wijnproever</trd>
   <trdgrp lng="pt">
    <trd>degustador</trd>
@@ -572,28 +680,32 @@ plaisir
   </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_g;&c_u;&c_s;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>
   <trd lng="sk">ochutn&aacute;va&ccaron; v&iacute;na</trd>
+  <trd lng="uk">&c_d;&c_je;&c_gu;&c_u;&c_s;&c_t;&c_a;&c_t;&#x43E;&c_r; &c_v;&c_i;&#x43D;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.49 2022/08/07 20:32:02
+Ulrich Fellmann: gustumi: + 3 pliaj DE trdj
+
+versio 1.48 2022/05/27 08:38:32
+Dmitri Gabinski: + trd be
+
+versio 1.47 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.40 2021/04/11 17:29:54
+Wolfram Diestel: +lst ~oj
+
+versio 1.39 2020/12/28 16:10:34
+Aleks Andre: bo
+
+versio 1.38 2020/05/09 14:10:13
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.36  2017/06/20 15:10:16  revo
 Jeromo Vasxe: + krom~o
 
 Revision 1.35  2017/03/21 21:10:20  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.34  2016/02/12 21:10:18  revo
-Cindy Moon McKee: +trd en, korektis 'elseligxas'
-
-Revision 1.33  2015/12/01 19:10:24  revo
-Jeromo Vasxe: + ~uminda
-
-Revision 1.32  2015/07/04 08:37:35  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.31  2015/06/29 16:29:39  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.30  2014/12/22 21:10:17  revo
 -->
 </vortaro>

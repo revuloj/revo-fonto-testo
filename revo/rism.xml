@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rism.xml,v 1.18 2023/09/03 07:53:11 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>rism</rad>/o
@@ -12,29 +11,61 @@
   <snc mrk="rism.0o.TIP">
     <uzo tip="fak">TIP</uzo>
     <dif>
-      Aro da 500 paperfolioj:
+      <ref tip="lst" lst="voko:kvantoj" cel="ar.0o.KOMUNE">Aro</ref> da 500 paperfolioj:
       <ekz>
         mi mendas de vi, por provo, cent <tld/>ojn da papero konforma je
         specimeno n-ro 1
-        <fnt><bib>FK</bib>, <lok>5, el la vivo kaj sciencoj,
-        korespondado
-        komerca, (de L. de Beaufront)</lok></fnt>.
+        <fnt>
+          <bib>FK</bib>, <lok>5, el la vivo kaj sciencoj, korespondado
+          komerca, (de L. de Beaufront)</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        mia <klr>[&#x2026;]</klr> edzino transdonis al mi <tld/>on da artikoloj,
+        fiktiva&jcirc;oj kaj eseoj por Literatura Verniso
+        <fnt>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 8</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_z;</trd>,
+    <trd>&c_r;&c_e;&c_z;&c_a; <klr>(&c_p;&c_a;&c_p;&c_je;&c_r;&c_y;)</klr></trd>
+  </trdgrp>
   <trd lng="cs">rys pap&iacute;ru</trd>
   <trd lng="de">Ries</trd>
   <trd lng="en">ream</trd>
   <trd lng="fr">ramette</trd>
   <trd lng="hu">rizsma <klr tip="amb">(ezer &iacute;v)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30EA;&#x30FC;&#x30E0;</trd>,
+    <trd>&#x9023;  [<ind>&#x3080;&#x3089;&#x3058;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">riem<klr tip="ind"> (papier)</klr></trd>
+  <trd lng="pl">ryza</trd>
   <trd lng="pt">resma</trd>
+  <trd lng="ro">top de h&acirc;rtie</trd>
   <trd lng="ru">&c_s;&c_t;&c_o;&c_p;&c_a; <klr tip="amb">(&c_m;&c_je;&c_r;&c_a; &c_b;&c_u;&c_m;&c_a;&c_g;&c_i;)</klr></trd>
   <trd lng="sk">rys papieru</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_o;&c_p;&c_a; (&c_p;&c_a;&c_p;&c_je;&c_r;&c_u;)</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;&c_n;&c_a; &c_p;&c_a;&c_ch;&c_k;&c_a; &c_p;&c_a;&c_p;&c_je;&c_r;&c_u; (500 &c_l;&c_i;&c_s;&c_t;&c_ib;&c_v;)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.17 2023/06/26 10:35:37
+Dmitri Gabinski: + trd be
+
+versio 1.16 2022/11/30 20:30:06
+Vito Redsky: +trd pl + trd ro
+
+versio 1.15 2022/09/21 17:42:52
+Wolfram Diestel: +ekz, ref-lst
+
 Revision 1.12  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -48,11 +79,5 @@ Revision 1.9  2005/03/14 18:36:43  revo
 Jeromo Vasxe: + fak tip, + ekz, + trd fr
 
 Revision 1.8 2004/09/16 16:32:34 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7 2002/01/29 17:34:11 revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/06/22 18:12:06 revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: liber.xml,v 1.37 2009/12/09 17:30:27 revo Exp $">
+<art mrk="$Id: liber.xml,v 1.55 2023/09/01 19:10:59 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>liber</rad>/a <fnt><bib>PV</bib></fnt>
@@ -234,12 +233,14 @@
     </trdgrp>
     <trd lng="de">linear <ind>unabh&auml;ngig</ind></trd>
     <trd lng="en">linearly <ind>independent</ind></trd>
+    <trd lng="es">linealmente <ind>independiente</ind></trd>
     <trdgrp lng="fr">
       <trd>lin&eacute;airement <ind>ind&eacute;pendant</ind></trd>,
       <trd>libre<klr tip="ind"> (lin&eacute;airement ind&eacute;pendant)</klr></trd>
     </trdgrp>
     <trd lng="pl">liniowo <ind>niezale&zdot;ny</ind></trd>
     <trd lng="pt">linearmente independente</trd>
+    <trd lng="ro">liniar <ind>independent</ind></trd>
     <trd lng="ru">&c_l;&c_i;&c_n;&c_je;&c_j;&c_n;&c_o; <ind>&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_y;&c_j;</ind></trd>
     <adm>
       Mi ne trovis a&ubreve;toritatan fonton por tiu termino.
@@ -251,6 +252,7 @@
     <trd>&c_s;&c_v;&c_a;&c_b;&c_o;&c_d;&c_n;&c_y;</trd>,
     <trd>&c_v;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF66;&#xF9F;&#xF7C;&#xF44;&#xF0B;&#xF54;&#xF0B;</trd>
   <trd lng="ca">lliure</trd>
   <trdgrp lng="cs">
     <trd>neobsazen&yacute;</trd>,
@@ -267,13 +269,34 @@
     <trd>mentes</trd>
   </trdgrp>
   <trd lng="it">libero</trd>
+  <trdgrp lng="ja">
+    <trd>&#x81EA;&#x7531;&#x306A;  [<ind>&#x3058;&#x3086;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x72EC;&#x7ACB;&#x306E;  [<ind>&#x3069;&#x304F;&#x308A;&#x3064;&#x306E;</ind>]</trd>,
+    <trd>&#x675F;&#x7E1B;&#x3055;&#x308C;&#x306A;&#x3044;  [<ind>&#x305D;&#x304F;&#x3070;&#x304F;&#x3055;&#x308C;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x514D;&#x308C;&#x305F;  [<ind>&#x307E;&#x306C;&#x304C;&#x308C;&#x305F;</ind>]</trd>,
+    <trd>&#x3072;&#x307E;&#x306A;</trd>,
+    <trd>&#x7A7A;&#x3044;&#x3066;&#x3044;&#x308B;  [<ind>&#x3042;&#x3044;&#x3066;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x5E83;&#x3005;&#x3057;&#x305F;  [<ind>&#x3072;&#x308D;&#x3073;&#x308D;&#x3057;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="ku">azad</trd>
+  <trd lng="ne">&#x928;&#x93F;&#x903;&#x936;&#x941;&#x932;&#x94D;&#x915;</trd>
   <trd lng="nl">vrij</trd>
+  <trdgrp lng="pl">
+    <trd>wolny</trd>,
+    <trd>swobodny</trd>
+  </trdgrp>
   <trd lng="pt">livre</trd>
+  <trd lng="ro">liber&abreve;</trd>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>slobodn&yacute;</trd>,
     <trd>vo&lcaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x456;&#x43B;&#x44C;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x435;&#x437;&#x430;&#x43B;&#x435;&#x436;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x435;&#x437;&#x430;&#x439;&#x43D;&#x44F;&#x442;&#x438;&#x439;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x43F;&#x435;&#x440;&#x435;&#x448;&#x43A;&#x43E;&#x434;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
   <trd lng="vo">libik</trd>
 </drv>
@@ -341,10 +364,30 @@
   <trd lng="fr">librement</trd>
   <trd lng="hu">szabadon</trd>
   <trd lng="it">liberamente</trd>
+  <trdgrp lng="ja">
+    <trd>&#x81EA;&#x7531;&#x306B;  [<ind>&#x3058;&#x3086;&#x3046;&#x306B;</ind>]</trd>,
+    <trd>&#x597D;&#x304D;&#x52DD;&#x624B;&#x306B;  [<ind>&#x3059;&#x304D;&#x304B;&#x3063;&#x3066;&#x306B;</ind>]</trd>,
+    <trd>&#x9060;&#x616E;&#x306A;&#x304F;  [<ind>&#x3048;&#x3093;&#x308A;&#x3087;&#x306A;&#x304F;</ind>]</trd>,
+    <trd>&#x81EA;&#x5728;&#x306B;  [<ind>&#x3058;&#x3056;&#x3044;&#x306B;</ind>]</trd>,
+    <trd>&#x3068;&#x3089;&#x308F;&#x308C;&#x305A;&#x306B;</trd>
+  </trdgrp>
   <trd lng="nl">vrijuit</trd>
+  <trdgrp lng="pl">
+    <trd>wolno</trd>,
+    <trd>nieskr&eogonek;powanie</trd>,
+    <trd>swobodnie</trd>
+  </trdgrp>
   <trd lng="pt">livremente</trd>
+  <trdgrp lng="ro">
+    <trd>lent</trd>,
+    <trd>&icirc;ncet</trd>,
+    <trd>libertate</trd>,
+    <trd>gratuit</trd>,
+    <trd>&icirc;n mod liber</trd>
+  </trdgrp>   
   <trd lng="ru">&c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_n;&c_o;</trd>
   <trd lng="sk">slobodne</trd>
+  <trd lng="uk">&#x432;&#x456;&#x43B;&#x44C;&#x43D;&#x43E;</trd>
   <trd lng="vo">libiko</trd>
 </drv>
 
@@ -359,7 +402,7 @@
           <fnt><bib>FK</bib>, <lok>3, anekdotoj</lok></fnt>.
         </ekz>
         <ekz>
-          prefere tuj mortigu min <klr>[&#8230;]</klr> se mi devas perdi la <tld/>on
+          prefere tuj mortigu min <klr>[&#x2026;]</klr> se mi devas perdi la <tld/>on
           <fnt>
             <bib>Far2</bib>
             <lok>&Ccirc;apitro XIX</lok>
@@ -377,6 +420,7 @@
       <trd>&c_v;&c_o;&c_l;&c_ja;</trd>
     </trdgrp>
     <trd lng="ca">llibertat</trd>
+    <trd lng="cs">svoboda</trd>
     <trd lng="de">Freiheit</trd>
     <trd lng="el">&epsilon;&lambda;&epsilon;&ypsilon;&theta;&epsilon;&rho;&jota_ton;&alfa;</trd>
     <trdgrp lng="en">
@@ -388,7 +432,12 @@
     <trd lng="hu">szabads&aacute;g</trd>
     <trd lng="it">libert&agrave;</trd>
     <trd lng="nl">vrijheid</trd>
+    <trdgrp lng="pl">
+      <trd>wolno&sacute;&cacute;</trd>,
+      <trd>swoboda</trd>
+    </trdgrp>
     <trd lng="pt">liberdade</trd>
+    <trd lng="ro">libertate <klr>(filozofie)</klr></trd>
     <trd lng="ru">&c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_a;</trd>
     <trd lng="vo">lib</trd>
     <trd lng="ku">azad&icirc;</trd>
@@ -396,8 +445,16 @@
       <trd>sloboda</trd>,
       <trd>vo&lcaron;nos&tcaron;</trd>
     </trdgrp>
-    <trd lng="cs">svoboda</trd>
+    
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x81EA;&#x7531;  [<ind>&#x3058;&#x3086;&#x3046;</ind>]</trd>,
+    <trd>&#x72EC;&#x7ACB;  [<ind>&#x3069;&#x304F;&#x308A;&#x3064;</ind>]</trd>,
+    <trd>&#x89E3;&#x653E;  [<ind>&#x304B;&#x3044;&#x307B;&#x3046;</ind>]</trd>,
+    <trd>&#x514D;&#x9664;  [<ind>&#x3081;&#x3093;&#x3058;&#x3087;</ind>]</trd>,
+    <trd>&#x6A29;&#x5229;  [<ind>&#x3051;&#x3093;&#x308A;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&#x431;&#x43E;&#x440;&#x43E;&#x442;&#x44C;&#x431;&#x430; &#x437;&#x430; &#x432;&#x43E;&#x43B;&#x44E;</trd>
 </drv>
 
 <drv mrk="liber.0eco">
@@ -472,12 +529,22 @@
   <trd lng="fr">libert&eacute;</trd>
   <trd lng="hu">szabads&aacute;g</trd>
   <trd lng="it">libert&agrave;</trd>
-  <trd lng="nl">vrijheid</trd>
+  <trd lng="ja">&#x81EA;&#x7531;&#x3055;  [<ind>&#x3058;&#x3086;&#x3046;&#x3055;</ind>]</trd>
+  <trd lng="nl">vrijheid</trd>    
+  <trdgrp lng="pl">
+    <trd>wolno&sacute;&cacute;</trd>,
+    <trd>swoboda</trd>
+  </trdgrp>
   <trd lng="pt">liberdade</trd>
+  <trd lng="ro">libertate <klr>(filozofie)</klr></trd>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>sloboda</trd>,
     <trd>vo&lcaron;nos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x43E;&#x43B;&#x44F;</trd>,
+    <trd>&#x441;&#x432;&#x43E;&#x431;&#x43E;&#x434;&#x430;</trd>
   </trdgrp>
   <trd lng="vo">lib</trd>
 </drv>
@@ -565,6 +632,7 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_z;&c_v;&c_a;&c_l;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_z;&c_v;&c_a;&c_l;&c_ja;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="ca">
@@ -593,14 +661,35 @@
     <trd>mentes&iacute;t</trd>
   </trdgrp>
   <trd lng="it">liberare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x89E3;&#x304D;&#x653E;&#x3059;  [<ind>&#x3068;&#x304D;&#x306F;&#x306A;&#x3059;</ind>]</trd>,
+    <trd>&#x89E3;&#x653E;&#x3059;&#x308B;  [<ind>&#x304B;&#x3044;&#x307B;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x514D;&#x9664;&#x3059;&#x308B;  [<ind>&#x3081;&#x3093;&#x3058;&#x3087;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x81EA;&#x7531;&#x5316;&#x3059;&#x308B;  [<ind>&#x3058;&#x3086;&#x3046;&#x304B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x7A7A;&#x3051;&#x308B;  [<ind>&#x3046;&#x3064;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bevrijden</trd>
+  <trdgrp lng="pl">
+    <trd>oswobodzi&cacute;</trd>,
+    <trd>uwolni&cacute;</trd>,
+    <trd>wyzwoli&cacute;</trd>
+  </trdgrp> 
   <trd lng="pt">libertar</trd>
+  <trdgrp lng="ro">
+    <trd>elibera</trd>,
+    <trd>declan&#x219;a</trd>,
+    <trd>dezl&abreve;n&#x21B;ui</trd>
+  </trdgrp>
   <trd lng="ru">&c_o;&c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>oslobodi&tcaron;</trd>,
     <trd>prepusti&tcaron; na slobodu</trd>,
     <trd>vyprosti&tcaron;</trd>,
     <trd>vyslobodi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x437;&#x432;&#x43E;&#x43B;&#x44F;&#x442;&#x438;</trd>,
+    <trd>&#x437;&#x432;&#x456;&#x43B;&#x44C;&#x43D;&#x44F;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 
@@ -618,12 +707,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_z;&c_v;&c_a;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
   <trdgrp lng="ca">
     <trd>alliberar-se, emancipar-se, lliurar-se</trd>,
     <trd>soltar-se</trd>
   </trdgrp>
   <trd lng="de">befreien</trd>
   <trd lng="en">get free</trd>
+  <trdgrp lng="es">
+    <trd><ind>liberar</ind>se</trd>,
+    <trd>emanciparse</trd>,
+    <trd>soltarse</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>d&eacute;livrer</ind></trd>,
     <trd>se <ind>lib&eacute;rer</ind></trd>
@@ -639,6 +734,25 @@
     obligation)</klr></trd>
   </trdgrp>
   <trd lng="it">liberarsi</trd>
+  <trdgrp lng="ja">
+    <trd>&#x89E3;&#x653E;&#x3055;&#x308C;&#x308B;  [<ind>&#x304B;&#x3044;&#x307B;&#x3046;&#x3055;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x514D;&#x9664;&#x3055;&#x308C;&#x308B;  [<ind>&#x3081;&#x3093;&#x3058;&#x3087;&#x3055;&#x308C;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>uwolni&cacute; si&eogonek;</trd>,
+    <trd>wyrwa&cacute; si&eogonek;</trd>,
+    <trd>upora&cacute; si&eogonek;</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>desc&abreve;rca</trd>,
+    <trd>evada</trd>,
+    <trd>iesi din</trd>,
+    <trd>&icirc;nvinge</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x437;&#x432;&#x43E;&#x43B;&#x44F;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x437;&#x432;&#x456;&#x43B;&#x44C;&#x43D;&#x44F;&#x442;&#x438;&#x441;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="liber.for0igi">
@@ -668,12 +782,20 @@
       <ref cel="dung.mal0i">maldungi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_z;&c_v;&c_a;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_z;&c_mol; &c_n;&c_ja;&c_v;&c_o;&c_l;&c_ib;, &c_n;&c_a; &c_v;&c_o;&c_l;&c_ju;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>deixar anar, llibertar</trd>,
     <trd>emancipar, soltar</trd>
   </trdgrp>
   <trd lng="cs">osvobodit vy&rcaron;azen&iacute;m</trd>
   <trd lng="de">entlassen</trd>
+  <trdgrp lng="es">
+    <trd>libertar</trd>,
+    <trd>emancipar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>laisser <ind>partir</ind></trd>
     <trd>affranchir<klr tip="ind"> (un esclave)</klr></trd>
@@ -684,7 +806,17 @@
     <trd>affrancare<klr tip="ind"> (uno schiavo)</klr></trd>
     <trd>congedare<klr tip="ind"> (da un'occupazione)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x81EA;&#x7531;&#x306B;&#x7ACB;&#x3061;&#x53BB;&#x3089;&#x305B;&#x308B;  [<ind>&#x3058;&#x3086;&#x3046;&#x306B;&#x305F;&#x3061;&#x3055;&#x3089;&#x305B;&#x308B;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>puszcza&cacute;</trd>,
+    <trd>pu&sacute;ci&cacute; <ind>wolno</ind></trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>l&abreve;sa</trd>,
+    <trd>sa mergem</trd>
+  </trdgrp>
   <trd lng="sk">oslobodi&tcaron;</trd>
+  <trd lng="uk">&#x432;&#x456;&#x434;&#x43F;&#x443;&#x441;&#x43A;&#x430;&#x442;&#x438; (&#x43D;&#x430; &#x432;&#x43E;&#x43B;&#x44E;)</trd>
 </drv>
 
 <drv mrk="liber.mal0a">
@@ -703,7 +835,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="&Monato;/2008/009299.php">Fabeloj tradiciaj kaj moderne verkitaj</url></vrk>
+          <vrk><url ref="&Monato;/2008/009299.php">Fabeloj tradiciaj kaj moderne
+          verkitaj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -742,6 +875,11 @@
     <trd>unfrei</trd>,
     <trd>gefangen</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>prisionero (adj.)</trd>,
+    <trd>cautivo</trd>,
+    <trd>privado de <ind>libertad</ind></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>prisonnier (adj.)</trd>,
     <trd>captif</trd>,
@@ -749,12 +887,35 @@
   </trdgrp>
   <trd lng="hu">rab</trd>
   <trd lng="it">prigioniero<klr> (aggettivo)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x81EA;&#x7531;&#x306A;  [<ind>&#x3075;&#x3058;&#x3086;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x675F;&#x7E1B;&#x3055;&#x308C;&#x305F;  [<ind>&#x305D;&#x304F;&#x3070;&#x304F;&#x3055;&#x308C;&#x305F;</ind>]</trd>,
+    <trd>&#x5F93;&#x5C5E;&#x3057;&#x305F;  [<ind>&#x3058;&#x3085;&#x3046;&#x305E;&#x304F;&#x3057;&#x305F;</ind>]</trd>,
+    <trd>&#x3068;&#x3089;&#x308F;&#x308C;&#x305F;</trd>
+  </trdgrp>
   <trd lng="ku">darazxwar</trd>
   <trd lng="nl">gevangen</trd>
+  <trdgrp lng="pl">
+    <trd>niewolny</trd>,
+    <trd>zachowawczy</trd>,
+    <trd>uwi&eogonek;ziony</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>obliga&#x21B;iune</trd>,
+    <trd>conservator</trd>,
+    <trd>prizonier</trd>
+  </trdgrp>
   <trd lng="ru">&c_n;&c_je;&c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>uv&auml;znen&yacute;</trd>,
     <trd>zajat&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x435;&#x432;&#x456;&#x43B;&#x44C;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x43E;&#x43D;&#x435;&#x432;&#x43E;&#x43B;&#x435;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x43E;&#x437;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x439; &#x432;&#x43E;&#x43B;&#x456;</trd>,
+    <trd>&#x440;&#x456;&#x434;&#x448;&#x435; &#x437;&#x430;&#x439;&#x43D;&#x44F;&#x442;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x435;&#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
 
@@ -770,7 +931,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        Arturon arestis la polico <klr>[&#8230;]</klr> li estis du a&ubreve; tri 
+        Arturon arestis la polico <klr>[&#x2026;]</klr> li estis du a&ubreve; tri 
         semajnojn en la mal<tld/>ejo, el kiu li lerte forkuris kaj malaperis, oni ne scias kien
         <fnt>
           <bib>FK</bib>
@@ -790,8 +951,10 @@
   <trdgrp lng="be">
     <trd>&c_m;&c_je;&c_s;&c_c;&c_a; &c_p;&c_a;&c_z;&c_b;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_ja; &c_v;&c_o;&c_l;&c_ib;</trd>,
     <trd>&c_t;&c_u;&c_r;&c_m;&c_a;</trd>,
-    <trd>&c_v;&c_ja;&c_z;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
+    <trd>&c_v;&c_ja;&c_z;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_s;&c_t;&c_r;&c_o;&c_g;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF56;&#xF59;&#xF7C;&#xF53;&#xF0B;&#xF41;&#xF44;&#xF0B;</trd>
   <trdgrp lng="ca">
     <trd>c&agrave;rcer</trd>,
     <trd>pres&oacute;</trd>
@@ -826,7 +989,16 @@
     <trd>penitenziario</trd>
     <trd>prigione</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5211;&#x52D9;&#x6240;  [<ind>&#x3051;&#x3044;&#x3080;&#x3057;&#x3087;</ind>]</trd>,
+    <trd>&#x62D8;&#x7F6E;&#x6240;  [<ind>&#x3053;&#x3046;&#x3061;&#x3057;&#x3087;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">gevangenis</trd>
+  <trdgrp lng="pl">
+    <trd>zak&lstroke;ad karny</trd>,
+    <trd>wi&eogonek;zienie</trd>
+  </trdgrp>
+  <trd lng="ro">&icirc;nchisoare</trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_je;&c_s;&c_t;&c_o; &c_l;&c_i;&c_sh;&c_je;&c_n;&c_i;&c_ja; &c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_y;</trd>,
     <trd>&c_t;&c_ju;&c_r;&c_mol;&c_m;&c_a;</trd>,
@@ -836,6 +1008,10 @@
     <trd>trestnica</trd>,
     <trd>v&auml;znica</trd>,
     <trd>&zcaron;al&aacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x2019;&#x44F;&#x437;&#x43D;&#x438;&#x446;&#x44F;</trd>,
+    <trd>&#x442;&#x44E;&#x440;&#x43C;&#x430;</trd>
   </trdgrp>
 </drv>
 
@@ -859,7 +1035,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        en tiaj okazoj, kie kelka <tld/>eco alportas al ni nenian malutilon, kial ni devus senbezone nin mal<tld/>igi?
+        en tiaj okazoj, kie kelka <tld/>eco alportas al ni nenian malutilon, kial ni devus senbezone
+        nin mal<tld/>igi?
         <fnt>
           <bib>LR</bib>
           <vrk>Respondo 38, La Revuo, 1908, Majo</vrk>
@@ -868,6 +1045,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_mol;&c_n;&c_ja;&c_v;&c_o;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">empresonar</trd>
   <trdgrp lng="cs">
     <trd>uv&ecaron;znit</trd>,
@@ -879,6 +1057,10 @@
     <trd>festsetzen</trd>
   </trdgrp>
   <trd lng="en">imprison</trd>
+  <trdgrp lng="es">
+    <trd>encarcelar</trd>,
+    <trd>recluir</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>emprisonner</trd>,
     <trd>incarc&eacute;rer</trd>
@@ -888,9 +1070,23 @@
     <trd>incarcerare</trd>
     <trd>rinchiudere<klr> (in carcere)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5211;&#x52D9;&#x6240;&#x306B;&#x5165;&#x308C;&#x308B;  [<ind>&#x3051;&#x3044;&#x3080;&#x3057;&#x3087;&#x306B;&#x3044;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x62D8;&#x675F;&#x3059;&#x308B;  [<ind>&#x3053;&#x3046;&#x305D;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x675F;&#x7E1B;&#x3059;&#x308B;  [<ind>&#x305D;&#x304F;&#x3070;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">wi&eogonek;zi&cacute;</trd>     
+  <trd lng="ro">re&#x21B;ine</trd>
   <trdgrp lng="sk">
     <trd>uv&auml;zni&tcaron;</trd>,
     <trd>zatkn&uacute;&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43D;&#x435;&#x432;&#x43E;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x437;&#x431;&#x430;&#x432;&#x43B;&#x44F;&#x442;&#x438; &#x432;&#x43E;&#x43B;&#x456;</trd>,
+    <trd>&#x443;&#x432;&#x2019;&#x44F;&#x437;&#x43D;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43A;&#x438;&#x434;&#x430;&#x442;&#x438;/&#x441;&#x430;&#x434;&#x438;&#x442;&#x438; &#x437;&#x430; &#x491;&#x440;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43A;&#x438;&#x434;&#x430;&#x442;&#x438;/&#x441;&#x430;&#x434;&#x438;&#x442;&#x438; &#x443; &#x432;&#x2019;&#x44F;&#x437;&#x43D;&#x438;&#x446;&#x44E;/&#x432; &#x442;&#x44E;&#x440;&#x43C;&#x443;</trd>
   </trdgrp>
 </drv>
 
@@ -922,6 +1118,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ja;&c_z;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_z;&c_mol;&c_n;&c_ja;&c_v;&c_o;&c_l;&c_je;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_s;&c_t;&c_r;&c_o;&c_zh;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF56;&#xF59;&#xF7C;&#xF53;&#xF0B;&#xF54;&#xF0B;</trd>
   <trd lng="ca">presoner</trd>
   <trdgrp lng="cs">
     <trd>trestanec</trd>,
@@ -930,12 +1132,32 @@
   </trdgrp>
   <trd lng="de">Gefangener</trd>
   <trd lng="en">prisoner</trd>
+  <trdgrp lng="es">
+    <trd>preso</trd>,
+    <trd>prisionero</trd>
+  </trdgrp>   
   <trd lng="fr">prisonnier</trd>
   <trd lng="it">prigioniero<ind> (sostantivo)</ind></trd>
+  <trd lng="ja">&#x56DA;&#x4EBA;  [<ind>&#x3057;&#x3085;&#x3046;&#x3058;&#x3093;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>niewolnik</trd>,
+    <trd>wi&eogonek;zie&nacute;</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>sclav</trd>,
+    <trd>de&#x21B;inu&#x21B;i</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>trestanec</trd>,
     <trd>v&auml;ze&ncaron;</trd>,
     <trd>zajatec</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x435;&#x432;&#x456;&#x43B;&#x44C;&#x43D;&#x438;&#x43A;</trd>,
+    <trd>&#x432;&#x2019;&#x44F;&#x437;&#x435;&#x43D;&#x44C;</trd>,
+    <trd>&#x443;&#x432;&#x2019;&#x44F;&#x437;&#x43D;&#x435;&#x43D;&#x438;&#x439; (&#x456;&#x43C;.)</trd>,
+    <trd>&#x43F;&#x43E;&#x43B;&#x43E;&#x43D;&#x435;&#x43D;&#x438;&#x439; (&#x456;&#x43C;.)</trd>,
+    <trd>&#x431;&#x440;&#x430;&#x43D;&#x435;&#x446;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -958,11 +1180,28 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_v;&c_a;&c_b;&c_o;&c_d;&c_a; &c_s;&c_l;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_s;&c_v;&c_a;&c_b;&c_o;&c_d;&c_a; &c_v;&c_y;&c_k;&c_a;&c_z;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja; &c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_w;</trd>
+  </trdgrp>
+  <trd lng="es">libertad de expresi&oacute;n</trd>
   <trd lng="fr">libert&eacute; d'expression</trd>
+  <trd lng="ja">&#x8868;&#x73FE;&#x306E;&#x81EA;&#x7531;  [<ind>&#x3072;&#x3087;&#x3046;&#x3052;&#x3093;&#x306E;&#x3058;&#x3086;&#x3046;</ind>]</trd>
+  <trd lng="pl">wolno&sacute;&cacute; s&lstroke;owa</trd>     
+  <trd lng="ro">libertatea de exprimare</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.53 2021/12/06 08:36:26
+Dmitri Gabinski: + trd be
+
+versio 1.49 2021/04/29 07:02:38
+Guillermo Molleda Jimena: +trd es
+
+versio 1.48 2020/07/13 21:10:42
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.46  2019/06/30 18:21:03  revo
 adaptis URL de Monato
 
@@ -976,11 +1215,5 @@ Revision 1.43  2017/11/30 21:10:50  revo
 Wolfram Diestel: rilaboris ekz-ojn
 
 Revision 1.42  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.41  2015/06/29 16:33:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.40  2015/01/18 03:10:15  revo
 -->
 </vortaro>

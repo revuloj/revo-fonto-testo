@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: panter.xml,v 1.27 2023/09/03 12:45:04 revo Exp $">
 <kap><ofc>*</ofc><rad>panter</rad>/o</kap>
 <drv mrk="panter.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
@@ -46,9 +45,7 @@
   </snc>
   <snc mrk="panter.0o.genro">
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
-      tip="malprt" cel="felise.0oj">felisedoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="felise.0oj">felisedoj</ref>
       (<trd lng="la">Panther</trd>), al kiu apartenas
       <refgrp tip="sub">
         <ref cel="jaguar.0o">jaguaro</ref>,
@@ -64,15 +61,22 @@
     <trd lng="ru">&c_p;&c_a;&c_n;&c_t;&c_je;&c_r;&c_a; <klr>(&c_r;&c_o;&c_d;)</klr></trd>
   </snc>
   <trd lng="cs">panter</trd>
+  <trd lng="ja">&#x30D2;&#x30E7;&#x30A6;</trd>
   <trd lng="nl">panter</trd>
+  <trd lng="pl">lampart</trd>
+  <trd lng="ro">leopard</trd>
   <trdgrp lng="sk">
     <trd>panter</trd>,
     <trd>&ccaron;ierny leopard</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&#x430;&#x43D;&#x442;&#x435;&#x440;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2021/10/31 23:30:24
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.23  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 

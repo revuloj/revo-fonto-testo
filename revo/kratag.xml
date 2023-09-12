@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kratag.xml,v 1.18 2010/10/20 16:31:17 revo Exp $">
+<art mrk="$Id: kratag.xml,v 1.26 2023/09/01 15:46:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kratag</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,9 +12,7 @@
     <uzo tip="fak">BOT</uzo>
     <dif>
       Arbeto de mezvarmaj landoj kun fruprintempaj blankaj floroj,
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
-      tip="malprt" cel="rozac.0oj">rozacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">genro</ref> el familio <ref tip="malprt" cel="rozac.0oj">rozacoj</ref>
       (<trd lng="la">Crataegus</trd>):
       <ekz>
         la formoj &leftquot;<tld/>o&rightquot; kaj &leftquot;vipuro&rightquot; ne estas preseraroj
@@ -32,14 +29,10 @@
       </ekz>
     </dif>
   </snc>
-  <bld
-     lok="&WCU;/thumb/d/d8/Crataegus-oxyacantha-flowers.JPG/640px-Crataegus-oxyacantha-flowers.JPG"
-     prm="CC BY-SA 3.0"
-     >floroj kaj folioj de <ind>dustilusa <tld/>o</ind> (Crataegus laevigata), Malling, Jutlando
+  <bld lok="&WCU;/thumb/d/d8/Crataegus-oxyacantha-flowers.JPG/640px-Crataegus-oxyacantha-flowers.JPG" prm="CC BY-SA 3.0">floroj kaj folioj de <ind>dustilusa <tld/>o</ind> (Crataegus laevigata), Malling, Jutlando
        <fnt>
          <aut>Sten, propra foto</aut>
-         <lok><url ref="&WCW;/File:Crataegus-oxyacantha-flowers.JPG"
-             >&WCW;/File:Crataegus-oxyacantha-flowers.JPG</url></lok>
+         <lok><url ref="&WCW;/File:Crataegus-oxyacantha-flowers.JPG">&WCW;/File:Crataegus-oxyacantha-flowers.JPG</url></lok>
        </fnt>
     <trd lng="en">midland hawthorn</trd>
     <trd lng="la">Crataegus laevigata</trd>
@@ -58,6 +51,7 @@
   <trd lng="en">hawthorn</trd>
   <trd lng="fr">aub&eacute;pine</trd>
   <trd lng="hu">galagonya</trd>
+  <trd lng="ja">&#x30B5;&#x30F3;&#x30B6;&#x30B7;</trd>
   <trd lng="nl">meidoorn</trd>
   <trd lng="pl">g&lstroke;&oacute;g</trd>
   <trd lng="pt">cratego</trd>
@@ -69,6 +63,7 @@
   <trd lng="sv">hagtorn</trd>
   <trd lng="sk">hloh</trd>
   <trd lng="cs">hloh</trd>
+  <trd lng="uk">&#x433;&#x43B;&#x456;&#x434;</trd>
 </drv>
 </art>
 <!--

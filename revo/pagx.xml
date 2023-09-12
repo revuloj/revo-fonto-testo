@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pagx.xml,v 1.116 2023/09/03 12:45:03 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>pa&gcirc;</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -35,10 +34,11 @@
       <ekz>
         kovril<tld/>o
         <fnt>
-          <bib>Monato</bib>
-          <aut>Carlo MINNAJA</aut>
-          <vrk><url ref="https://www.monato.be/2003/008067.html">Marioneto
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2003/008067.html">Marioneto
            &ccirc;iam aktuala</url></vrk>
+           <bib>Monato</bib>
+           <lok>2003/06, p. 20</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -48,39 +48,42 @@
     <dif>
       Skriba&jcirc;o aperanta sur iu el la flankoj de paperfolio:
       <ekz>
-        tuj de la unua <tld/>o ili divenas, ke sur la lasta ili trovos venkon
+        tuj de la unua <tld/>o ili divenas, ke sur la lasta ili trovos
+        venkon
         <fnt>
           <bib>Marta</bib>
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i <klr>[&#8230;]</klr> komencis avide legi <tld/>on post <tld/>o
+        &scirc;i <klr>[&#x2026;]</klr> komencis avide legi <tld/>on post <tld/>o
         <fnt>
           <bib>FK</bib>
         </fnt>;
       </ekz>
       <ekz>
-        li <klr>[&#8230;]</klr> trakuris per la okuloj la unuan <tld/>on
+        li <klr>[&#x2026;]</klr> trakuris per la okuloj la unuan <tld/>on
         <fnt>
           <bib>Fab1</bib>
           <lok>Galo&scirc;oj de feli&ccirc;o</lok>
         </fnt>;
       </ekz>
       <ekz>
-        tri linioj <klr>[da APL]</klr> sufi&ccirc;is por skribi programon, kiu faras la 
-        samon kiel tuta <tld/>o da C a&ubreve; Basic
+        tri linioj <klr>[da APL]</klr> sufi&ccirc;is por skribi programon, kiu
+        faras la samon kiel tuta <tld/>o da C a&ubreve; <nac>Basic</nac>
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007082.html">Komputiko 
-           kaj Esperanto</url></vrk>
-        </fnt>;
+          <aut>J.S. Brilleaud</aut>
+            <vrk><url ref="&Monato;/2000/007082.php">Komputiko kaj Esperanto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 4</lok>
+          </fnt>;
       </ekz>
       <ekz>
         doni tre mallongajn klarigojn malsupre de la <tld/>o pri nocioj
         <fnt>
           <bib>Monato</bib>
           <aut>Nina Kor&jcirc;enevskaja-Gouriou</aut>
-          <vrk><url ref="&Monato;/2006/008819.php">Kial lundo ekas sabate?</url></vrk>
+          <vrk><url ref="&Monato;/2006/008819.php">Kial lundo ekas
+          sabate?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -98,7 +101,8 @@
         de nia afero
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden
+          en la 17a de a&ubreve;gusto 1908</vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -122,108 +126,248 @@
     <dif>
       <ref tip="dif" cel="pagx.ret0o">Retpa&gcirc;o</ref>:
       <ekz>
-        la pentra&jcirc;o aperis somere 2001 en la inter artistoj populara interreta <tld/>o art.scene.lt
+        la pentra&jcirc;o aperis somere 2001 en la inter artistoj populara
+        interreta <tld/>o <nom>art.scene.lt</nom>
         <fnt>
-          <bib>Monato</bib>
           <aut>Antanas Grincevi&ccaron;ius</aut>
-          <vrk><url ref="https://www.monato.be/2003/007879.html">&Ccirc;okolada konflikto</url></vrk>
+          <vrk><url ref="&Monato;/2003/007879.html">&Ccirc;okolada
+          konflikto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/01, p. 30</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">bladsy</trd>
+  <trd lng="am">&#x1308;&#x133D;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_S;&a_f;&a_H;&a_t_marbuta;</trd>
+  <trd lng="az">s&#x259;hif&#x259;</trd>
   <trd lng="be">&c_s;&c_t;&c_a;&c_r;&c_o;&c_n;&c_k;&c_a;</trd>
+  <trd lng="bn">&#x9AA;&#x9C3;&#x9B7;&#x9CD;&#x9A0;&#x9BE;</trd>
   <trd lng="br">pajenn</trd>
+  <trd lng="bs">stranicu</trd>
+  <trd lng="co">pagina</trd>
   <trd lng="cs">str&aacute;nka</trd>
+  <trd lng="cy">dudalen</trd>
+  <trd lng="da">side</trd>
   <trd lng="de">Seite</trd>
   <trd lng="en">page</trd>
   <trd lng="es">p&aacute;gina</trd>
+  <trd lng="et">lehek&uuml;lg</trd>
+  <trd lng="eu">orria</trd>
   <trd lng="fr">page</trd>
+  <trd lng="fy">side</trd>
+  <trd lng="ga">leathanach</trd>
+  <trd lng="gd">duilleag</trd>
+  <trd lng="gl">p&aacute;xina</trd>
+  <trd lng="gu">&#xAAA;&#xABE;&#xAA8;&#xAC1;&#xA82;</trd>
+  <trd lng="hi">&#x92A;&#x947;&#x91C;</trd>
+  <trd lng="hr">stranica</trd>
+  <trd lng="ht">paj</trd>
   <trd lng="hu">oldal</trd>
-  <trd lng="mo">&c_p;&c_a;&#1218;&c_i;&c_n;&c_a;</trd>
+  <trd lng="hy">&#x567;&#x57B;</trd>
+  <trd lng="ig">peeji nke</trd>
+  <trd lng="is">s&iacute;&#xF0;u</trd>
+  <trd lng="ja">&#x30DA;&#x30FC;&#x30B8;</trd>
+  <trd lng="jv">kaca</trd>
+  <trd lng="ka">&#x10D2;&#x10D5;&#x10D4;&#x10E0;&#x10D3;&#x10D8;</trd>
+  <trd lng="kk">&c_b;&c_je;&c_t;</trd>
+  <trd lng="km">&#x1791;&#x17C6;&#x1796;&#x17D0;&#x179A;</trd>
+  <trd lng="kn">&#xCAA;&#xCC1;&#xC9F;</trd>
+  <trd lng="ko">&#xD398;&#xC774;&#xC9C0;</trd>
+  <trd lng="ku">r&ucirc;pel</trd>
+  <trd lng="ky">&c_b;&c_je;&c_t;</trd>
+  <trd lng="lo">&#xEAB;&#xE99;&#xEC9;&#xEB2;</trd>
+  <trd lng="lt">puslapis</trd>
+  <trd lng="lv">lapa</trd>
+  <trd lng="mg">pejy</trd>
+  <trd lng="mi">wh&#x15D1;rangi</trd>
+  <trd lng="mk">&c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="ml">&#xD2A;&#xD47;&#xD1C;&#xD4D;</trd>
+  <trd lng="mn">&c_h;&c_u;&c_u;&c_d;&c_a;&c_s;</trd>
+  <trd lng="mo">&c_p;&c_a;&#x4C2;&c_i;&c_n;&c_a;</trd>
+  <trd lng="mr">&#x92A;&#x943;&#x937;&#x94D;&#x920;</trd>
+  <trd lng="ms">laman</trd>
+  <trd lng="mt">pa&#x121;na</trd>
+  <trd lng="my">&#x1005;&#x102C;&#x1019;&#x103B;&#x1000;&#x103A;&#x1014;&#x103E;&#x102C;</trd>
+  <trd lng="ne">&#x92A;&#x943;&#x937;&#x94D;&#x920;</trd>
   <trd lng="nl">bladzijde</trd>
   <trd lng="no">side</trd>
+  <trd lng="ny">tsamba</trd>
+  <trd lng="pa">&#xA38;&#xA2B;&#xA3C;&#xA3E;</trd>
   <trd lng="pl">strona</trd>
+  <trd lng="ps">&a_m;&a_kh;</trd>
   <trd lng="pt">p&aacute;gina</trd>
+  <trd lng="ro">pagin&abreve;</trd>
   <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="rw">urupapuro</trd>
+  <trd lng="sd">&a_S;&a_f;&a_H;&a_w;</trd>
+  <trd lng="si">&#xDB4;&#xDD2;&#xDA7;&#xDD4;&#xDC0;</trd>
+  <trd lng="sl">stran</trd>
+  <trd lng="sm">itulau</trd>
+  <trd lng="sn">peji</trd>
+  <trd lng="so">bogga</trd>
+  <trd lng="sq">faqe</trd>
+  <trd lng="st">leqepheng la</trd>
+  <trd lng="su">kaca</trd>
   <trd lng="sv">sida</trd>
+  <trd lng="sw">ukurasa</trd>
+  <trd lng="ta">&#xBAA;&#xB95;&#xBCD;&#xB95;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC2A;&#xC47;&#xC1C;&#xC40;</trd>
+  <trd lng="tg">&c_s;&c_a;&#x4B3;&c_i;&c_f;&c_a;</trd>
+  <trd lng="th">&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
+  <trd lng="tl">pahina</trd>
   <trd lng="tr">sayfa</trd>
+  <trd lng="tt">&c_b;&c_i;&c_t;</trd>
+  <trd lng="uk">&c_s;&c_t;&c_o;&c_r;&c_ib;&c_n;&c_k;&c_a;</trd>
+  <trd lng="ur">&a_S;&a_f;&a_H;&#x6C1;</trd>
+  <trd lng="uz">bet</trd>
+  <trd lng="vi">trang</trd>
+  <trd lng="xh">iphepha</trd>
+  <trd lng="yo">iwe</trd>
 </drv>
 
 <drv mrk="pagx.0aro">
   <kap>
     <tld/>aro
   </kap>
-  <snc>
+  <snc mrk="pagx.0aro.RET">
     <uzo tip="fak">RET</uzo>
     <dif>
       <ref tip="dif" cel="pagx.ret0aro">Retpa&gcirc;aro</ref>:
       <ekz>
-        la Interretaj <tld/>aroj pri Ido asertas, ke idistojn oni nombras inter 2000 kaj 5000
+        la Interretaj <tld/>aroj pri Ido asertas, ke idistojn oni
+        nombras inter 2000 kaj 5000
         <fnt>
-          <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="&Monato;/2010/009999.php">Interlingvo: komparo inter du solvoj</url></vrk>
+          <vrk><url ref="&Monato;/2010/009999.php">Interlingvo: komparo
+          inter du solvoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/04, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Flickr</nom> provis fliki sian <tld/>aron la&ubreve; malbone pripensita maniero
+        <nom>Flickr</nom> provis fliki sian <tld/>aron la&ubreve; malbone
+        pripensita maniero
         <fnt>
-          <bib>Monato</bib>
           <aut>pp</aut>
-          <vrk><url ref="&Monato;/2007/009267.php">Flickr malbone flikas</url></vrk>
+          <vrk><url ref="&Monato;/2007/009267.php">Flickr malbone
+          flikas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/08, p. 11</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="fr">site<klr> (web)</klr></trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_j;&c_t;</trd>,
+    <trd>&c_v;&c_e;&c_b;-&c_s;&c_a;&c_j;&c_t;</trd>
+  </trdgrp>
   <trd lng="de">Site</trd>
+  <trd lng="pl">strony {pl} sieci</trd>
+  <trd lng="ro">pagini web</trd>
 </drv>
 
 <drv mrk="pagx.en0igi">
   <kap>
     en<tld/>igi
   </kap>
-  <snc>
+  <snc mrk="pagx.en0igi.TIP">
     <uzo tip="fak">TIP</uzo>
     <dif>
       Preparante eldonadon, aran&gcirc;i tekstojn kaj bildojn sur <tld/>oj:
+      <ref tip="sin" cel="kompos.0i">komposti</ref>:
       <ekz>
-        ni nun aplikas plej novan teknikon por en<tld/>igi kaj prespretigi la revuon
+        ni nun aplikas plej novan teknikon por en<tld/>igi kaj
+        prespretigi la revuon
         <fnt>
+        <aut>Stefan Maul</aut>
+        <vrk><url ref="&Monato;/2000/007058.php">Estimataj gelegantoj,</url></vrk>
           <bib>Monato</bib>
+          <lok>2000/07, p. 3</lok>
         </fnt>;
       </ekz>
       <ekz>
         iom post iom estis tro stre&ccirc;e en<tld/>igi, eldoni, presi kaj 
         administri, sed helpantojn li ne povis dungi pro financaj kialoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Maul Stefan</aut>
-          <vrk><url ref="https://www.monato.be/2004/008228.html">Retrorigarde kaj perspektive</url></vrk>
+          <vrk><url ref="&Monato;/2004/008228.html">Retrorigarde kaj
+          perspektive</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/01, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
         en<tld/>igistoj sidas anta&ubreve; longa vico da tekstoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2003/008130.html">&Scirc;topi&gcirc;o</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
-        eldono bela kiel kutime, misen<tld/>igo de p. 267-269, sed facile &gcirc;ustigebla sen troa &gcirc;eno &ccirc;e legado
-        <fnt>
+          <vrk><url ref="&Monato;/2003/008130.html">&Scirc;topi&gcirc;o</url></vrk>
           <bib>Monato</bib>
-          <aut>Carlo Minnaja</aut>
-          <vrk><url ref="&Monato;/2014/011108.php">Perfidita popolo</url></vrk>
+          <lok>2003/06, p. 5</lok>
         </fnt>.
       </ekz>
     </dif>
-    <ref tip="sin" cel="kompos.0i">komposti</ref>
   </snc>
+  <trd lng="be">&c_v;&c_ja;&c_r;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>
   <trd lng="de">setzen <klr>(Seite)</klr></trd>
+  <trd lng="fr">mettre en page</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D44;&#x307F;&#x4ED8;&#x3051;&#x308B;  [<ind>&#x304F;&#x307F;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x30DA;&#x30FC;&#x30B8;&#x306B;&#x7D44;&#x3080;  [<ind>&#x307A;&#x30FC;&#x3058;&#x306B;&#x304F;&#x3080;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">&lstroke;ama&cacute; szpalty druku</trd>
+  <trd lng="pt">paginar<klr> (tipografia)</klr></trd>
+  <trd lng="ro">sparge coloanele de tipar</trd>
+  <trd lng="uk">&c_v;&c_je;&c_r;&c_s;&c_t;&c_a;&c_t;&c_i;</trd>
 </drv>
 
-
+<drv mrk="pagx.en0igo">
+  <kap>
+    en<tld/>igo
+  </kap>
+  <snc>
+    <dif>
+      Grafika aran&gcirc;o de tekstoj, bildoj en <tld/>oj de dokumento:
+      <ekz>
+        mi <klr>[&#x2026;]</klr> zorgas pri la finpretigo de la presa&jcirc;oj, en<tld/>igo kaj pri
+        diversaj teknika&jcirc;oj
+        <fnt>
+          <aut>Guido Baeyens</aut>
+          <vrk><url ref="&Monato;/2002/007829.html">Monato sin prezentas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/09, p. 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eldono bela kiel kutime, misen<tld/>igo de p. 267-269, sed
+        facile &gcirc;ustigebla sen troa &gcirc;eno &ccirc;e legado
+        <fnt>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2014/011108.php">Perfidita
+          popolo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/01, p. 19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_jo;&c_r;&c_s;&c_t;&c_k;&c_a;</trd>
+  <trd lng="fr">mise en page</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D44;&#x307F;&#x4ED8;&#x3051;  [<ind>&#x304F;&#x307F;&#x3064;&#x3051;</ind>]</trd>,
+    <trd>&#x30EC;&#x30A4;&#x30A2;&#x30A6;&#x30C8;  [<ind>&#x308C;&#x3044;&#x3042;&#x3046;&#x3068;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>uk&lstroke;ad  <ind>strony</ind></trd>,
+    <trd>szablon</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>aspect  <ind>pagin&abreve;</ind></trd>,
+    <trd>&#x219;ablon</trd>
+  </trdgrp>
+</drv>
 
 <drv mrk="pagx.flavaj0oj">
   <kap>flavaj <tld/>oj</kap>
@@ -234,7 +378,7 @@
       listo de lokoj, informejoj...:
       <ekz>
         &leftquot;La Flavaj <tld lit="P"/>oj&rightquot;, Esperanto en la
-        Reto &dash; kelkaj rapidaj referencoj
+        Reto &#x2010; kelkaj rapidaj referencoj
         <fnt>
         <aut>M. Weichert</aut>,
         <vrk>Flavaj Pa&gcirc;oj</vrk>,
@@ -255,15 +399,11 @@
   <trd lng="nl">gouden gids</trd>
   <trd lng="no">gule sider</trd>
   <trd lng="pl">&zdot;&oacute;&lstroke;te <ind>strony</ind></trd>
+  <trd lng="pt">p&aacute;ginas amarelas<klr> (cat&aacute;logo)</klr></trd>
+  <trd lng="ro">pagini aurii</trd>
   <trdgrp lng="ru">
-    <trd>
-    &c_zh;&c_jo;&c_l;&c_t;&c_y;&c_je;
-    &c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_c;&c_y;
-    </trd>,
-    <trd>
-    &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y;&c_j;
-    &c_s;&c_p;&c_r;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_i;&c_k;
-    </trd>
+    <trd>&c_zh;&c_jo;&c_l;&c_t;&c_y;&c_je; &c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_c;&c_y;</trd>,
+    <trd>&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y;&c_j; &c_s;&c_p;&c_r;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
 </drv>
 
@@ -282,13 +422,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        1512 adresoj de 1132 personoj el 63 landoj kun <klr>[&#8230;]</klr>
+        1512 adresoj de 1132 personoj el 63 landoj kun <klr>[&#x2026;]</klr>
         256 hejm<tld/>oj
         <fnt>
           <aut>D. Ederveen</aut>,
           <vrk>Esperanto-Adresaro: nova versio kun pli ol 250
           hejmpa&gcirc;oj</vrk>,
-          <lok><url ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+          <lok><url ref="&SCE;">
           soc.culture.esperanto</url>, 1997-05-31</lok>
         </fnt>;
       </ekz>
@@ -298,123 +438,175 @@
         <fnt>
           <aut>G. Brownell, trad. I. Fantom</aut>,
           <vrk>Re: Newsweek: favora artikolo pri Esperanto</vrk>,
-          <lok><url ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+          <lok><url ref="&SCE;">
           soc.culture.esperanto</url>, 2003-08-10</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Homepage</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_h;&c_a;&c_t;&c_n;&c_ja;&c_ja; &c_s;&c_t;&c_a;&c_r;&c_o;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_g;&c_a;&c_l;&c_o;&c_w;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_a;&c_r;&c_o;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
   <trd lng="en">home page</trd>
   <trd lng="es">p&aacute;gina principal <klr>(internet)</klr></trd>
   <trd lng="fr">page d'accueil<klr tip="ind"> (internet)</klr></trd>
+  <trd lng="ja">&#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;</trd>
   <trdgrp lng="nl">
     <trd>thuispagina</trd>,
     <trd>homepage</trd>
   </trdgrp>
   <trd lng="no">hjemmeside</trd>
   <trd lng="pl"><ind>strona</ind> domowa<klr> (internetowa)</klr></trd>
+  <trd lng="ro">pagina de start  <klr>(site web)</klr></trd>
 </drv>
 
 <drv mrk="pagx.ret0o">
   <kap>
     ret<tld/>o
   </kap>
-  <snc>
+  <snc mrk="pagx.ret0o.RET">
     <uzo tip="fak">RET</uzo>
     <dif>
       Peco de hiperteksto trovebla en TTT per retadreso (URL):
       <ekz>
         eta bildo trovi&gcirc;as fine de la ret<tld/>o
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="&Monato;/2005/008680.php">Creative Commons: a&ubreve;toraj rajtoj la&ubreve;mezure</url></vrk>
+          <vrk><url ref="&Monato;/2005/008680.php">Creative Commons:
+          a&ubreve;toraj rajtoj la&ubreve;mezure</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/07, p. 21</lok>
         </fnt>;
       </ekz>
       <ekz>
         se oni kredas la ret<tld/>ojn, lastatempe la &ccirc;efa okupo de 
         Seborgo devas esti la 100 mil turistoj, kiuj jare vizitas
         la aspirantan mikro&scirc;taton
-        <fnt>
+       <fnt>
+       <aut>Thomas Eccardt</aut>
+          <vrk><url ref="&Monato;/2000/006859.php">Urbeto a&ubreve; sendependa lando?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006859.html">Seborgo: Urbeto a&ubreve; sendependa lando?</url></vrk>
+          <lok>2000/05, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
-        simple mankas la rimedoj por traduki &ccirc;iujn ret<tld/>ojn en &ccirc;iujn lingvojn
-        <fnt>
+        simple mankas la rimedoj por traduki &ccirc;iujn ret<tld/>ojn en &ccirc;iujn
+        lingvojn
+       <fnt>
+       <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/006881.php">Universala Retlingvo</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006881.html">Perkomputila Tradukado: Universala Retlingvo</url></vrk>
+          <lok>2000/04, p. 26</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la ret<tld/>oj de la internacia asocio de konferencinterpretistoj
+        la ret<tld/>oj de la internacia asocio de
+        konferencinterpretistoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.be/2004/008309.html">Plurlingvismo valoras siajn kostojn</url></vrk>
+          <vrk><url ref="&Monato;/2004/008309.html">Plurlingvismo
+          valoras siajn kostojn</url></vrk>
+           <bib>Monato</bib>
+          <lok>2004/06, p. 23</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_e;&c_b;-&c_s;&c_t;&c_a;&c_r;&c_o;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_ib;&c_n;&c_t;&c_e;&c_r;&c_n;&c_e;&c_t;-&c_s;&c_t;&c_a;&c_r;&c_o;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Webseite</trd>,
     <trd>Netzseite</trd>
   </trdgrp>
+  <trd lng="fr">page web</trd>
+  <trd lng="ja">&#x30A6;&#x30A7;&#x30D6;&#x30DA;&#x30FC;&#x30B8;</trd>
+  <trd lng="pl">strona internetowa</trd>
+  <trd lng="pt">p&aacute;gina<klr> (na Internet)</klr></trd>
+  <trd lng="ro">pagin&abreve; web</trd>
 </drv>
 
 <drv mrk="pagx.ret0aro">
   <kap>
     ret<tld/>aro
   </kap>
-  <snc>
+  <snc mrk="pagx.ret0aro.RET">
     <uzo tip="fak">RET</uzo>
     <dif>
-       Kolekto da retpa&gcirc;oj, precipe se ili havas komunan temaron a&ubreve; a&ubreve;toron:
+       Kolekto da retpa&gcirc;oj, precipe se ili havas komunan temaron a&ubreve;
+       a&ubreve;toron:
       <ekz>
-        la ret<tld/>aro de la Nord-Irlanda Instituto pri Regado, Publika Politiko kaj Socia Esplorado
+        la ret<tld/>aro de la Nord-Irlanda Instituto pri Regado, Publika
+        Politiko kaj Socia Esplorado
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007983.html">Lingvo
+          kiel politikilo</url></vrk>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2003/007983.html">Lingvo kiel politikilo</url></vrk>
+          <lok>2003/07, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
-        kompletan superrigardon de la rezultoj liveras la ret<tld/>aro pri EU-balotoj
+        kompletan superrigardon de la rezultoj liveras la ret<tld/>aro
+        pri EU-balotoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.be/2004/008365.html">Civitanoj perdas intereson pri E&ubreve;ropo</url></vrk>
+          <vrk><url ref="&Monato;/2004/008365.html">Civitanoj perdas
+          intereson pri E&ubreve;ropo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/09, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
-        kiuj finlegis la libron, certe povas post&gcirc;ui &gcirc;in, vizitante la ret<tld/>aron de la a&ubreve;toro
+        kiuj finlegis la libron, certe povas post&gcirc;ui &gcirc;in, vizitante la
+        ret<tld/>aron de la a&ubreve;toro
         <fnt>
-          <bib>Monato</bib>
           <aut>Lode van de Velde</aut>
-          <vrk><url ref="&Monato;/2005/008430.php">Suspenso de komenco &gcirc;is fino</url></vrk>
+          <vrk><url ref="&Monato;/2005/008430.php">Suspenso de komenco
+          &gcirc;is fino</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/07, p. 27</lok>
         </fnt>;
       </ekz>
       <ekz>
         por la muzeo oni instalis ret<tld/>aron
         <fnt>
-          <bib>Monato</bib>
           <aut>Alice Liu</aut>
-          <vrk><url ref="&Monato;/2007/009263.php">Nova mono por malnovaj domoj</url></vrk>
+          <vrk><url ref="&Monato;/2007/009263.php">Nova mono por
+          malnovaj domoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/08, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         vikipedio-stila ret<tld/>aro
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="&Monato;/2010/010175.php">Simplaj solvoj por premaj problemoj</url></vrk>
+          <vrk><url ref="&Monato;/2010/010175.php">Simplaj solvoj por
+          premaj problemoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/12, p. 17</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-<trd lng="de">Website</trd>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_j;&c_t;</trd>,
+    <trd>&c_v;&c_e;&c_b;-&c_s;&c_a;&c_j;&c_t;</trd>
+  </trdgrp>
+  <trd lng="de">Website</trd>
+  <trd lng="fr">site<klr> (web)</klr></trd>
+  <trd lng="ja">&#x30A6;&#x30A7;&#x30D6;&#x30B5;&#x30A4;&#x30C8;</trd>
+  <trd lng="pl">og&oacute;lno&sacute;wiatowa sie&cacute; komputerowa  <klr>(www)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>site</trd>
+    <trd>s&iacute;tio<klr> (na Internet)</klr></trd>
+    <trd>website</trd>
+  </trdgrp>
+  <trd lng="ro">retea mondiala de calculatoare  <klr>(www)</klr></trd>
 </drv>
 
 <drv mrk="pagx.titol0o">
@@ -422,70 +614,86 @@
   <snc mrk="pagx.titol0o.TIP">
     <uzo tip="fak">TIP</uzo>
     <dif>
-      Iu el la unuaj pa&gcirc;oj de <ref tip="malprt" cel="libr.0o.presajxo">libro</ref> prezentanta la titolon de la 
+      Iu el la unuaj pa&gcirc;oj de <ref tip="malprt" cel="libr.0o.presajxo">libro</ref> prezentanta la
+      titolon de la 
       verko, la a&ubreve;tornomon kaj aliajn eldoninformojn:
       <ekz>
-        mi <klr>[&#8230;]</klr> komencas rigardi la titol<tld/>ojn de la 
-        libroj <klr>[&#8230;]</klr> ku&scirc;antaj tie
+        mi <klr>[&#x2026;]</klr> komencas rigardi la titol<tld/>ojn de la 
+        libroj <klr>[&#x2026;]</klr> ku&scirc;antaj tie
         <fnt>
-           <aut>U. Matthias</aut>, <vrk><url ref="http://www.u-matthias.de/verko/fajron.htm">Fajron sentas 
-          mi interne</url></vrk>, <lok>Pro Esperanto, 1990</lok>
+           <aut>U. Matthias</aut>, <vrk><url ref="http://www.u-matthias.de/verko/fajron.htm">Fajron
+           sentas
+           
+          mi interne</url></vrk>, <lok>Pro Esperanto,
+           
+          1990</lok>
         </fnt>;
       </ekz>
       <ekz>
-        temas pri la titol<tld/>o de ege rara kaj antikva biblio en la gaela lingvo, tradukita el la hebrea
+        temas pri la titol<tld/>o de ege rara kaj antikva biblio en la
+        gaela lingvo, tradukita el la hebrea
         <fnt>
-          <bib>Monato</bib>
           <aut>Garbhan MacAoidh</aut>
-          <vrk><url ref="&Monato;/2006/008950.php">Ne irlandgaela, sed skotgaela</url></vrk>
+          <vrk><url ref="&Monato;/2006/008950.php">Ne irlandgaela, sed
+          skotgaela</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/07, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
         kvankam li post la infanaj jaroj ne plu lo&gcirc;is en sia naski&gcirc;urbo,
-        li &ccirc;iam menciis sian devenon en la titol<tld/>oj de siaj trakta&jcirc;oj
+        li &ccirc;iam menciis sian devenon en la titol<tld/>oj de siaj
+        trakta&jcirc;oj
         <fnt>
-          <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
           <vrk><url ref="&Monato;/2010/010141.php">Homo 
-           universala, homo moderna: Johann Joachim Becher naski&gcirc;is anta&ubreve; 375 jaroj</url></vrk>
+           universala, homo moderna: Johann Joachim Becher naski&gcirc;is
+           anta&ubreve; 375 jaroj</url></vrk>
+           <bib>Monato</bib>
+           <lok>2010/11, p. 21</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Titelseite</trd>
   </snc>
+  <trd lng="be">&c_t;&c_y;&c_t;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_a;&c_r;&c_o;&c_n;&c_k;&c_a;</trd>
   <trd lng="en">title page</trd>
   <trd lng="es">portada <klr>(libro)</klr></trd>
   <trd lng="fr">page de titre</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6249;  [<ind>&#x3068;&#x3073;&#x3089;</ind>]</trd>,
+    <trd>&#x6A19;&#x984C;&#x7D19;  [<ind>&#x3072;&#x3087;&#x3046;&#x3060;&#x3044;&#x3057;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">titelbladzijde</trd>
   <trd lng="pl"><ind>strona</ind> tytu&lstroke;owa</trd>
+  <trd lng="pt">p&aacute;gina de rosto</trd>
+  <trd lng="ro">prima  <ind>pagin&abreve;</ind></trd>
+  <trd lng="uk">&c_t;&c_i;&c_t;&c_u;&#x43B;&#x44C;&#x43D;&c_a; &c_s;&c_t;&#x43E;&c_r;&c_ib;&#x43D;&#x43A;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.33  2019/06/30 07:43:29  revo
-adaptis URL de Monato
+versio 1.115 2023/05/09 10:32:37
+Paul Peeraerts: + lok + url
 
-Revision 1.32  2018/09/10 19:10:24  revo
-Wolfram Diestel: +ret~o, ret~aro
+versio 1.114 2023/05/01 07:25:17
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.31  2018/02/03 21:10:15  revo
-Wolfram Diestel: prilaboris ekz-ojn, adaptis mrk, +~aro, en~igi
+versio 1.113 2023/04/25 12:45:54
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.30  2017/04/21 14:10:12  revo
-Ludoviko Francisco: kor trd fr
+versio 1.112 2023/04/24 16:34:47
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.29  2014/09/01 20:10:10  revo
-Guillermo Molleda Jimena: trd es
+versio 1.111 2022/06/13 22:30:46
+Vito Redsky: + trd pl + trd ro 
 
-Revision 1.28  2010/01/24 17:30:35  revo
- Filip van Laenen: Tradukoj en anglan kaj norvegan
+versio 1.110 2022/05/01 17:51:18
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.27  2009/10/18 16:30:25  revo
-Paul Peeraerts: korekto en nl
+versio 1.107 2021/12/29 09:32:04
+Dmitri Gabinski: + trd be
 
-Revision 1.26  2009/10/16 16:30:42  revo
-Paul Peeraerts: +nl -erara ligilo
-
-Revision 1.25  2008/04/22 17:50:06  revo
+versio 1.106 2021/07/12 18:36:48
 -->
 </vortaro>

@@ -4,13 +4,16 @@
   "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
   <!ENTITY scale "100">
   <!ENTITY scale_2 "200">
+  <!ENTITY scale_4 "400">
+  <!ENTITY offset_0 "0">
   <!ENTITY offset_1 "200">
   <!ENTITY offset_2 "400">
   <!ENTITY offset_3 "600">
 ]>
 
 <svg version="1.1" 
-  width="20cm" height="20cm" 
+  xmlns="http://www.w3.org/2000/svg"
+  width="800" height="800" 
   viewBox="0 0 800 800"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   onload="start(evt,&scale;)">
@@ -24,7 +27,7 @@
     <script type="text/javascript"><![CDATA[
       function start(evt, scale) {
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
+        var svgdoc = evt.target.ownerDocument;
         var scale_xy = 80;
 
 
@@ -85,7 +88,7 @@
         Klarigo
       -->
 
-      <rect x="-98" y="-98" width="100" height="30" class="klarigo" style="fill-opacity: 0.8" />
+      <rect x="-98" y="-98" width="120" height="30" class="klarigo" style="fill-opacity: 0.8" />
       <text x="-90" y="-80" class="klarigo">A, B : randoj</text>
     </svg>
   </g>
@@ -115,7 +118,7 @@
         Klarigo
       -->
 
-      <rect x="-98" y="-98" width="85" height="30" class="klarigo" style="fill-opacity: 0.8" />
+      <rect x="-98" y="-98" width="105" height="30" class="klarigo" style="fill-opacity: 0.8" />
       <text x="-90" y="-80" class="klarigo">O : origino</text>
     </svg>
   </g>
@@ -211,7 +214,7 @@
         </g>
         <circle cx="0" cy="0" r="4" class="konstrupunkto"/>
       </g>
-      <text x="-2" y="20" class="punkto">O</text>
+      <text x="-2" y="20" class="punkto">I</text>
 
       <!--
         Komento
@@ -223,8 +226,8 @@
         Klarigo
       -->
 
-      <rect x="-98" y="-98" width="110" height="30" class="klarigo" style="fill-opacity: 0.8" />
-      <text x="-90" y="-80" class="klarigo">O : intersekco</text>
+      <rect x="-98" y="-98" width="130" height="30" class="klarigo" style="fill-opacity: 0.8" />
+      <text x="-90" y="-80" class="klarigo">I : intersekco</text>
     </svg>
   </g>
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: astm.xml,v 1.16 2007/05/24 16:30:40 revo Exp $">
+<art mrk="$Id: astm.xml,v 1.24 2023/08/30 18:23:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>astm</rad>/o
@@ -13,8 +12,7 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      <ref tip="lst" cel="san.mal0o.MED"
-      lst="voko:malsanoj">Malsano</ref> karakterizata de malfacila
+      <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">Malsano</ref> karakterizata de malfacila
       spirado kun konvulsioj de la
       spiraj muskoloj:
       <ekz>
@@ -27,16 +25,18 @@
   <trd lng="be">&c_a;&c_s;&c_t;&c_m;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>astma</trd>,
-    <trd>dušnost</trd>,
-    <trd>záducha</trd>
+    <trd>du&#x161;nost</trd>,
+    <trd>z&#xE1;ducha</trd>
   </trdgrp>
   <trd lng="de">Asthma</trd>
   <trd lng="en">asthma</trd>
   <trd lng="es">asma</trd>
   <trd lng="fr">asthme</trd>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5E1;&#x5B0;&#x5EA;&#x5B0;&#x5DE;&#x5B8;&#x5D4;</trd>
   <trd lng="hu">asztma</trd>
   <trd lng="id">asma</trd>
   <trd lng="it">asma</trd>
+  <trd lng="ja">&#x5598;&#x606F;  [<ind>&#x305C;&#x3093;&#x305D;&#x304F;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>aamborstigheid</trd>,
     <trd>astma</trd>
@@ -44,8 +44,12 @@
   <trd lng="ru">&c_a;&c_s;&c_t;&c_m;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>astma</trd>,
-    <trd>dýchavica</trd>,
-    <trd>záduch</trd>
+    <trd>d&#xFD;chavica</trd>,
+    <trd>z&#xE1;duch</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x441;&#x442;&#x43C;&#x430;</trd>,
+    <trd>&#x44F;&#x434;&#x443;&#x445;&#x430;</trd>
   </trdgrp>
 </drv>
 </art>

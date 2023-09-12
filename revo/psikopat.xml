@@ -1,14 +1,13 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: psikopat.xml,v 1.12 2023/04/24 14:28:25 revo Exp $">
 <kap>
   <rad>psikopat</rad>/o <fnt><bib>PIV1</bib></fnt>,
-  <var><kap><rad>psi&hcirc;opat</rad>/o</kap></var>
+  <var><kap><rad var="&hcirc;">psi&hcirc;opat</rad>/o</kap></var>
 </kap>
 <drv mrk="psikopat.0o">
-  <kap><tld/>o, <var><kap>psi&hcirc;opato</kap></var></kap>
+  <kap><tld/>o, <var><kap><tld var="&hcirc;"/>o</kap></var></kap>
   <uzo tip="stl">RAR</uzo>
   <snc mrk="psikopat.0o.MED">
     <uzo tip="fak">MED</uzo>
@@ -39,13 +38,15 @@
         noto verkita de psikopato, kies kruelo 
         certe pensigas pri la putpendola <nom>Poe</nom>
         <fnt>
+       <aut>Jorge Camacho</aut>
+          <vrk><url ref="&Monato;/2000/006836.php">Pri realo kaj la malo</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006836.html">Pri realo kaj la malo</url></vrk>
+          <lok>2000/09, p. 23</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Charles Manson</nom> <klr>[&#8230;]</klr> i&gcirc;is vera psi&hcirc;opato, kiu vidis sin kiel enkorpi&gcirc;on
+        <nom>Charles Manson</nom> <klr> [&#8230;]</klr> i&gcirc;is vera <tld var="&hcirc;"/>o, kiu vidis sin kiel
+        enkorpi&gcirc;on
         de Kristo kaj la Satano
         <fnt>
           <bib>Viki</bib>
@@ -54,16 +55,35 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_s;&c_y;&c_h;&c_a;&c_p;&c_a;&c_t;</trd>
   <trd lng="cs">psychopat</trd>
   <trd lng="de">Psychopat</trd>
   <trd lng="fr">psychopathe</trd>
   <trd lng="nl">psychopaat</trd>
+  <trd lng="pl">psychopata</trd>
+  <trd lng="ro">psihopat&abreve;</trd>
   <trd lng="sk">psychopat</trd>
+  <trd lng="uk">&#x43F;&c_s;&c_i;&c_h;&#x43E;&#x43F;&c_a;&c_t;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.12 2023/04/24 14:28:25
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.11 2022/07/13 21:31:37
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.10 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.8 2021/10/15 05:27:29
+Dmitri Gabinski: +trd be
+
+versio 1.7 2020/09/07 20:10:33
+Wolfram Diestel: +tld-var
+
 Revision 1.5  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -71,13 +91,5 @@ Revision 1.4  2015/06/29 16:40:19  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.3  2014/04/11 15:10:20  revo
-Damien Brucker: +trd fr
-
-Revision 1.2  2009/10/16 16:30:35  revo
-Paul Peeraerts: +nl
-
-Revision 1.1  2009/10/15 16:32:55  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

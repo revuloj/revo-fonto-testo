@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kontraux.xml,v 1.33 2010/07/12 16:30:22 revo Exp $">
+<art mrk="$Id: kontraux.xml,v 1.125 2023/06/01 12:44:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>kontra&ubreve;</rad> <fnt><bib>PV</bib></fnt>
+  <rad>kontra&ubreve;</rad> 
+  <fnt> <bib>PV</bib></fnt>
 </kap>
 <subart>
   <drv mrk="kontraux.0">
@@ -34,7 +34,7 @@
           la alia
           <fnt>
             <bib>MT</bib>
-            <lok>Genezo 15:10</lok>
+            <lok>&Gen; 15:10</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -73,14 +73,14 @@
           supereco de homo <tld/> bruto ne ekzistas
           <fnt>
             <bib>MT</bib>
-            <lok>Predikanto 3:19</lok>
+            <lok>&Pre; 3:19</lok>
           </fnt>;
         </ekz>
         <ekz>
           multigu vin miloble <tld/> via nuna nombro
           <fnt>
             <bib>MT</bib>
-            <lok>Readmono 1:11</lok>
+            <lok>&Rea; 1:11</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -106,7 +106,7 @@
           <klr>[&#8230;]</klr> kontra&ubreve; viaj komerca&jcirc;oj
           <fnt>
             <bib>MT</bib>
-            <lok>Je&hcirc;ezkel 27:21</lok>
+            <lok>&Jeh; 27:21</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -179,9 +179,6 @@
           vi estas tro bona <tld/> mi;
         </ekz>
         <ekz>
-          agi fiere <tld/> iu;
-        </ekz>
-        <ekz>
           anka&ubreve; &scirc;i ne estas indiferenta <tld/>
           li<fnt>Z</fnt>;
         </ekz>
@@ -195,7 +192,7 @@
           kiel li agis <tld/> mi, tiel mi agos <tld/> li
           <fnt>
             <bib>MT</bib>
-            <lok>Sentencoj 24:29</lok>
+            <lok>&Sen; 24:29</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -204,14 +201,14 @@
           vokos kaj ne estos a&ubreve;skultata
           <fnt>
             <bib>MT</bib>
-            <lok>Sentencoj 21:13</lok>
+            <lok>&Sen; 21:13</lok>
           </fnt>;
         </ekz>
         <ekz>
           malobeemaj vi estis <tld/> la Eternulo
           <fnt>
             <bib>MT</bib>
-            <lok>Readmono 9:24</lok>
+            <lok>&Rea; 9:24</lok>
           </fnt>.
         </ekz>
       </dif>
@@ -274,7 +271,7 @@
           panon vi donis al ili <tld/> ilia malsato
           <fnt>
             <bib>MT</bib>
-            <lok>Ne&hcirc;emja 9:15</lok>
+            <lok>&Neh; 9:15</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -288,7 +285,7 @@
           li savis Danielon <tld/> leonoj
           <fnt>
             <bib>MT</bib>
-            <lok>Daniel 6:27</lok>
+            <lok>&Dan; 6:27</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -296,14 +293,6 @@
         </ekz>
         <ekz>
           diskuti pri la por kaj la <tld/>;
-        </ekz>
-        <ekz>
-          e&ccirc; <tld/> pastra prediko trovi&gcirc;as kritiko
-          <fnt><bib>PrV</bib></fnt>;
-        </ekz>
-        <ekz>
-          <tld/> peko batalu, sed pekanton ne tu&scirc;u
-          <fnt><bib>PrV</bib></fnt>;
         </ekz>
         <ekz>
           elpa&scirc;i kontra&ubreve; iun
@@ -334,8 +323,7 @@
           Svisujo
           <fnt>
             <aut>L. L. Zamenhof</aut>
-            <vrk><url
-            ref="http://www.gutenberg.org/files/49233/49233-h/49233-h.htm">The
+            <vrk><url ref="&Gutenberg;files/49233/49233-h/49233-h.htm">The
             Esperantist</url></vrk>
           </fnt>;
         </ekz>
@@ -356,7 +344,7 @@
           mi levos <tld/> vin nacion, kiu premos vin
           <fnt>
             <bib>MT</bib>
-            <lok>Amos 6:14</lok>
+            <lok>&Amo; 6:14</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -364,7 +352,7 @@
           lin
           <fnt>
             <bib>MT</bib>
-            <lok>Genezo 4:8</lok>
+            <lok>&Gen; 4:8</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -394,21 +382,101 @@
       </trdgrp>
       <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;</trd>
     </snc>
-    <trd lng="es">contra, enfrente de</trd>
-    <trdgrp lng="pl">
+    <trd lng="af">teen</trd>
+  <trd lng="am">&#4619;&#4845;</trd>
+  <trd lng="ar">&a_D;&a_d;</trd>
+  <trd lng="az">qar&scedil;&inodot;</trd>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="bn">&#2476;&#2495;&#2480;&#2497;&#2470;&#2509;&#2471;&#2503;</trd>
+  <trd lng="bo">&t_kha;&t_tsheg;&t_tha;&t_da;&t_tsheg;&t_da;&t_shabchu;&t_tsheg;</trd>
+  <trd lng="bs">protiv</trd>
+  <trd lng="co">contru &agrave;</trd>
+  <trd lng="cy">erbyn</trd>
+  <trd lng="da">mod</trd>
+  <trd lng="es">contra, enfrente de</trd>
+    <trd lng="et">vastu</trd>
+  <trd lng="eu">aurka</trd>
+  <trd lng="fy">tsjin</trd>
+  <trd lng="ga">i gcoinne</trd>
+  <trd lng="gd">aghaidh</trd>
+  <trd lng="gl">contra</trd>
+  <trd lng="gu">&#2744;&#2750;&#2734;&#2759;</trd>
+  <trd lng="ha">da</trd>
+  <trd lng="hi">&#2325;&#2375; &#2326;&#2367;&#2354;&#2366;&#2347;</trd>
+  <trd lng="hmn">tawm tsam</trd>
+  <trd lng="hr">protiv</trd>
+  <trd lng="ht">kont</trd>
+  <trd lng="hy">&#1380;&#1381;&#1396;</trd>
+  <trd lng="ig">megide</trd>
+  <trd lng="is">gegn</trd>
+  <trd lng="ja">&#12395;&#23550;&#12377;&#12427;</trd>
+  <trd lng="jv">marang</trd>
+  <trd
+  lng="ka">&#4332;&#4312;&#4316;&#4304;&#4304;&#4326;&#4315;&#4307;&#4308;&#4306;</trd>
+  <trd lng="kk">&#1179;&c_a;&c_r;&c_s;&c_y;</trd>
+  <trd lng="km">&#6036;&#6098;&#6042;&#6022;&#6070;&#6086;&#6020;&#6035;&#6073;&#6020;</trd>
+  <trd lng="kn">&#3253;&#3263;&#3248;&#3265;&#3238;&#3277;&#3239;</trd>
+  <trd lng="ko">&#50640; &#45824;&#54616;&#50668;</trd>
+  <trd lng="ku">dij&icirc;</trd>
+  <trd lng="ky">&c_k;&c_a;&c_r;&c_sh;&c_y;</trd>
+  <trd lng="lat">contra</trd>
+  <trd lng="lo">&#3733;&#3789;&#3784;</trd>
+  <trd lng="lt">prie&scaron;</trd>
+  <trd lng="lv">pret</trd>
+  <trd lng="mg">manohitra</trd>
+  <trd lng="mi">ki</trd>
+  <trd lng="mk">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;</trd>
+  <trd lng="ml">&#3342;&#3364;&#3391;&#3376;&#3390;&#3375;&#3391;</trd>
+  <trd lng="mn">&c_e;&c_s;&c_r;&c_e;&c_g;</trd>
+  <trd lng="mr">&#2357;&#2367;&#2352;&#2369;&#2342;&#2381;&#2343;</trd>
+  <trd lng="mt">kontra</trd>
+  <trd lng="my">&#4102;&#4116;&#4151;&#4154;&#4096;&#4155;&#4100;&#4154;</trd>
+  <trd lng="ne">&#2357;&#2367;&#2352;&#2369;&#2342;&#2381;&#2343;</trd>
+  <trd lng="ny">motsutsa</trd>
+  <trd lng="pa">&#2598;&#2631; &#2582;&#2623;&#2610;&#2622;&#2603;</trd>
+  <trdgrp lng="pl">
       <trd>przeciw</trd>,
       <trd>przeciwko</trd>,
       <trd>wbrew</trd>,
       <trd>wobec</trd>,
       <trd>anty-</trd>
     </trdgrp>   
-    <trdgrp lng="ro">
+    <trd lng="ps">&f_p;&a_h; &a_w;&#1683;&a_A;&a_n;&a_d;&#1744;</trd>
+  <trdgrp lng="ro">
       <trd>contra</trd>,
       <trd>&icirc;mpotriva</trd>,
       <trd>anti-</trd>,
       <trd>in comparatie</trd>
     </trdgrp> 
-  </drv>
+    <trd lng="rw">kurwanya</trd>
+  <trd lng="sd">&a_kh;&a_l;&a_A;&a_f;</trd>
+  <trd lng="si">&#3473;&#3515;&#3545;&#3524;&#3538;&#3520;</trd>
+  <trd lng="sl">proti</trd>
+  <trd lng="sm">faasaga i</trd>
+  <trd lng="sn">pamusoro</trd>
+  <trd lng="so">ka hor</trd>
+  <trd lng="sq">kund&euml;r</trd>
+  <trd lng="st">khahlanong le</trd>
+  <trd lng="su">ngalawan</trd>
+  <trd lng="sw">dhidi ya</trd>
+  <trd lng="ta">&#2958;&#2980;&#3007;&#2992;&#3006;&#2985;</trd>
+  <trd lng="te">&#3125;&#3149;&#3119;&#3108;&#3135;&#3120;&#3143;&#3093;&#3074;&#3095;&#3134;</trd>
+  <trd lng="tg">&c_b;&c_a;&c_r; &c_z;&c_i;&c_d;&c_d;&c_i;</trd>
+  <trd lng="th">&#3585;&#3633;&#3610;</trd>
+  <trd lng="tl">laban</trd>
+  <trd lng="tt">&c_k;&c_a;&c_r;&c_sh;&c_y;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_t;&c_i;</trd>
+  <trd lng="ur">&f_k;&#1746; &a_kh;&a_l;&a_A;&a_f;</trd>
+  <trd lng="uz">qarshi</trd>
+  <trd lng="vi">ch&#7889;ng l&#7841;i</trd>
+  <trd lng="xh">ngokuchasene</trd>
+  <trd lng="yi">&qof;&ayin;&gimel;&fnun;</trd>
+  <trd lng="yo">lodi si</trd>
+  <trd lng="zu">ngokumelene</trd>
+</drv>
 </subart>
 
 <subart>
@@ -513,19 +581,15 @@
         &leftquot;kontra&ubreve;lateraj
         anguloj&rightquot;</lok></fnt>
         <dif>
-          <klr>(p.p. du <ref
-          cel="rekt.duon0o.MAT">duonrektoj</ref>)</klr>
+          <klr>(p.p. du <ref cel="rekt.duon0o.MAT">duonrektoj</ref>)</klr>
           Kies origino estas ilia nura komuna punkto, kaj inkluzivataj
-          de
-          unu
-          komuna rekto; alidire: ilia kuna&jcirc;o estas rekto:
+          de unu komuna rekto; alidire: ilia kuna&jcirc;o estas rekto:
           <ekz>
             du <tld/>aj duonrektoj formas
             <ref cel="strecx.0ita.angulo">stre&ccirc;itan</ref> angulon.
           </ekz>
         </dif>
-        <trd lng="de">zueinander <ind>entgegengesetzt</ind><klr
-        tip="ind">
+        <trd lng="de">zueinander <ind>entgegengesetzt</ind><klr tip="ind">
         (-er Strahl)</klr></trd>
         <trd lng="en">opposite<klr tip="ind"> (half-line)</klr></trd>
         <trd lng="fr"><klr tip="amb">(demi-droite)
@@ -646,7 +710,15 @@
         <aut>MB</aut>
       </adm>
     </snc>
-  </drv>
+      <trdgrp lng="be">
+        <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_l;&c_je;&c_g;&c_l;&c_y;</trd>,
+        <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_l;&c_je;&c_zh;&c_n;&c_y;</trd>,
+        <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_ib;&c_w;&c_n;&c_y;</trd>,
+        <trd>&c_a;&c_n;&c_t;&c_a;&c_g;&c_a;&c_n;&c_ib;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+      </trdgrp>
+    <trd lng="bo">&t_pha;&t_ra;&t_tsheg;&t_pha;&t_yata;&t_naro;&t_ga;&t_sa;&t_tsheg;</trd>
+  <trd lng="ne">&#2357;&#2367;&#2346;&#2352;&#2368;&#2340;</trd>
+</drv>
 
   <drv mrk="kontraux.0e">
     <kap><ofc>*</ofc><tld/>e</kap>
@@ -664,6 +736,10 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="be">
+        <trd>&c_n;&c_a;&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</trd>,
+        <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;</trd>
+      </trdgrp>
       <trd lng="de">gegen&uuml;ber</trd>
       <trdgrp lng="es">
         <trd>contrariamente</trd>,
@@ -704,6 +780,10 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="be">
+        <trd>&c_u; &c_a;&c_d;&c_v;&c_a;&c_r;&c_o;&c_t;&c_n;&c_y;&c_m; <ind>&c_n;&c_a;&c_p;&c_r;&c_a;&c_m;&c_k;&c_u;</ind></trd>,
+        <trd>&c_n;&c_a;&c_a;&c_d;&c_v;&c_a;&c_r;&c_o;&c_t;</trd>
+      </trdgrp>
       <trd lng="ca">al contrari</trd>
       <trd lng="de">dagegen</trd>
       <trdgrp lng="es">
@@ -770,6 +850,7 @@
       <ref cel="kontra8.0eal.KOMUNE">kontraste al</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&#8230;</trd>
   <trd lng="fr">au contraire de</trd>
   <trdgrp lng="pl">
     <trd>niezgodnie z</trd>,
@@ -789,13 +870,18 @@
         Esti <tld/>a al:
         <ekz>
           mi a&ubreve;dis Filonon kaj Oreston paroli
-          <klr>...</klr> ili absolute <tld/>as &ccirc;ion,
+          <klr>[&#8230;]</klr> ili absolute <tld/>as &ccirc;ion,
           kion Pa&ubreve;lo faras
           <fnt><aut>A. L&ouml;wenstein</aut>, <vrk>La &scirc;tona
           urbo</vrk>, 
           <lok>1999</lok></fnt>
         </ekz>
       </dif>
+      <trdgrp lng="be">
+        <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</trd>,
+        <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</ind></trd>,
+        <trd>&c_v;&c_y;&c_s;&c_t;&c_u;&c_p;&c_a;&c_c;&c_mol; <ind>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</ind></trd>
+      </trdgrp>
       <trd lng="de">dagegen sein</trd>
       <trdgrp lng="hu">
         <trd>szemben van</trd>,
@@ -815,6 +901,10 @@
            </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="be">
+        <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</trd>,
+        <trd>&c_p;&c_je;&c_r;&c_a;&c_sh;&c_k;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_mol;</trd>
+      </trdgrp>
       <trd lng="de">behindern</trd>
       <trdgrp lng="hu">
         <trd>akad&aacute;lyoz</trd>,
@@ -834,6 +924,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="be">&c_p;&c_ja;&c_r;&c_e;&c_ch;&c_y;&c_c;&c_mol;</trd>
       <trd lng="de">entgegnen</trd>
       <trdgrp lng="hu">
         <trd>ellentmond</trd>,
@@ -873,7 +964,7 @@
           </fnt>;
         </ekz>
         <ekz>
-          Stetten estis rekte la <tld/>a&jcirc;o de sia amiko
+          <nom>Stetten</nom> estis rekte la <tld/>a&jcirc;o de sia amiko
           <fnt>
             <bib>FK</bib>
           </fnt>;
@@ -888,6 +979,13 @@
         </ekz>
       </dif>
     </snc>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_l;&c_je;&c_g;&c_l;&c_a;&c_je; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,
+      <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_l;&c_je;&c_g;&c_l;&c_a;&c_je; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_sh;&c_k;&c_o;&c_d;&c_a;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Gegensatz</trd>,
       <trd>Hindernis</trd>
@@ -926,7 +1024,7 @@
           akra kaj profunda <tld/>eco;
         </ekz>
         <ekz>
-          pozicio <klr>[&#8230;]</klr> en plena kontra&ubreve;eco kun la homa
+          pozicio <klr>[&#8230;]</klr> en plena <tld/>eco kun la homa
           anatomio kaj kun la le&gcirc;oj de la egalpezo
           <fnt>
             <bib>BdV</bib>
@@ -944,11 +1042,10 @@
           konfesia <tld/>eco al la universalaj supereco kaj senerareco,
           kiun la papo atribuas al si
           <fnt>
+          <aut>Duilio Magnani</aut>
+            <vrk><url ref="&Monato;/2001/007299.php">Fondi eklezion?</url></vrk>
             <bib>Monato</bib>
-            <aut>Pastro Duilio MAGNANI</aut>
-            <vrk><url
-            ref="http://steloj.de/esperanto/monato2/007299.html">Fondi
-            eklezion?</url></vrk>
+            <lok>2001/01, p. 4</lok>
           </fnt>.
         </ekz>
       </dif>
@@ -957,6 +1054,11 @@
         <ref cel="antipo.0o">antipodo</ref>
       </refgrp>
     </snc>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_ja;&c_r;&c_e;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    </trdgrp>
     <trd lng="de">Gegens&auml;tzlichkeit</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
@@ -984,6 +1086,11 @@
         </ekz>
       </dif>
     </snc>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_ib;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_p;&c_a;&c_w;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol; &c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+    </trdgrp>
     <trd lng="de"><klr>(sich)</klr> <ind>entgegen</ind> stellen</trd>
     <trd lng="es">oponerse</trd>
     <trd lng="fr">s'<ind>&eacute;lever</ind> contre</trd>
@@ -1035,20 +1142,26 @@
           neniel timigitaj de la <tld/>uloj
           <fnt>
             <bib>NT</bib>
-            <lok>Filipianoj 1:28</lok>
+            <lok>&Fil; 1:28</lok>
           </fnt>;
         </ekz>
         <ekz>
           konsentu rapide kun via <tld/>ulo, dum vi estas kun li sur la
-          vojo, por ke la kontra&ubreve;ulo ne transdonu vin al la ju&gcirc;isto
+          vojo, por ke la <tld/>ulo ne transdonu vin al la ju&gcirc;isto
           <fnt>
             <bib>NT</bib>
-            <lok>Mateo 5:25</lok>
+            <lok>&Mat; 5:25</lok>
           </fnt>.
         </ekz>
       </dif>
     </snc>
-    <trd lng="de">Gegner</trd>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_ib;&c_w;&c_n;&c_ib;&c_k;</trd>,
+      <trd>&c_a;&c_p;&c_a;&c_n;&c_e;&c_n;&c_t;</trd>,
+      <trd>&c_a;&c_n;&c_t;&c_a;&c_g;&c_a;&c_n;&c_ib;&c_s;&c_t;</trd>
+    </trdgrp>
+    <trd lng="bo">&t_kha;&t_tsheg;&t_ga;&t_ta;&t_da;&t_tsheg;</trd>
+  <trd lng="de">Gegner</trd>
     <trdgrp lng="es">
       <trd>adversario</trd>,
       <trd>contrario</trd>
@@ -1066,61 +1179,51 @@
       <trd>rywal</trd>
       <trd>przeciwnik</trd>
     </trdgrp> 
-    <trd lng="ro">du&scedil;man</trd>
+    <trd lng="ro">du&#537;man</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_n;&c_i;&c_k;</trd>
   </drv>
+
+<drv mrk="kontraux.ne0ebla">
+  <kap>
+    ne<tld/>ebla
+  </kap>
+  <snc mrk="kontraux.ne0ebla.KOMUNE">
+    <dif>
+      Kiun oni ne povas <tld/>i,
+      ne<tld/>starebla,
+      <ref tip="vid" cel="rezist.ne0ebla">nerezistebla</ref>:
+      <ekz>
+        la argumento de la frato estis por mi ne<tld/>ebla
+        <fnt>
+          <aut>M. K. Gandhi, trad. A Giridhar Rao</aut>
+          <vrk><url ref="http://agrao.50webs.com/gandhi/eksperimentoj/dua/unua_sxoko.htm">
+          Eksperimentoj kun la Vero</url></vrk>
+          <lok>2001-2020</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ja;&c_k;&c_o;&c_m;&c_u; &c_n;&c_je;&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_a; <ind>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</ind></trd>
+  <trdgrp lng="fr">
+    <trd>imp&eacute;rieux</trd>,
+    <trd>irr&eacute;sistible</trd>
+  </trdgrp>
+</drv>
 </subart>
   
 <subart>
   <dif>
-    Prefikso kun la sencoj de <ref tip="vid"
-    cel="kontraux.0.kuspe"><tld/>
-    <sncref/></ref> kaj <ref tip="vid" cel="kontraux.0.opone"><tld/>
-    <sncref/></ref>:
+    Prefikso kun la sencoj de <ref cel="kontraux.0.kuspe"><tld/><sncref/></ref> 
+    kaj <ref cel="kontraux.0.opone"><tld/><sncref/></ref>:
   </dif>
   <snc>
-    <ekz>
-      <ind><tld/>stari</ind> <klr>(malcedi al)</klr>
-        <fnt>
-          <bib>FK</bib>
-        </fnt>
-        <fnt>
-          <bib>Ifigenio</bib>
-        </fnt>
-        <fnt>
-          <bib>Hamlet</bib>
-        </fnt>;
-      <trd lng="hu">ellen&aacute;ll</trd>
-      <trd lng="nl">niet <ind>akkoord</ind> gaan</trd>
-      <trd lng="pl">przeciwstawia&cacute; si&eogonek;</trd>
-      <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol;</trd>
-    </ekz>
     <ekz>
       <klr>[&ccirc;u]</klr> per la <tld/>staro ilin fini
       <fnt>
         <bib>Hamlet</bib>
       </fnt>?
     </ekz>
-    <ekz>
-      <ind><tld/>batali</ind> <klr>(tr)</klr>
-        <fnt>
-          <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en
-          Washington en la 15a de a&ubreve;gusto 1910</vrk>
-        </fnt>
-        <fnt>
-          <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en
-          la 11a de a&ubreve;gusto 1912</vrk>
-        </fnt>;
-      <trdgrp lng="hu">
-        <trd>k&uuml;zd ellene</trd>,
-        <trd>harcol ellene</trd>
-      </trdgrp>
-      <trd lng="pl">zwalcza&cacute;</trd> 
-      <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_b;&c_o;&c_r;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-      <trd lng="nl">tegenwerken</trd>
-    </ekz>
+<!-- movita al met/
     <ekz>
       <ind><tld/>meti</ind> <klr>(tr)</klr>
         <fnt>
@@ -1142,33 +1245,8 @@
         <lok>Du fratoj</lok>
       </fnt>;
     </ekz>
-    <ekz>
-      <ind><tld/>paroli</ind> ion
-        <fnt>
-          <bib>FK</bib>
-        </fnt> al iu;
-      <trd lng="pl">sprzeciwia&cacute; si&eogonek;</trd>  
-      <trdgrp lng="ru">
-        <trd>&c_v;&c_o;&c_z;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>,
-        <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_r;&c_je;&c_ch;&c_i;&c_t;&c_mol;</trd>
-      </trdgrp>
-    </ekz>
-    <ekz>
-      por &ccirc;iu veneno ekzistas <ind><tld/>veneno</ind>
-      <fnt>
-        <aut>Michael Ende, trad. Wolfram Diestel</aut>
-        <vrk>La Sen&ccirc;esa Rakonto</vrk>
-        <lok>La Geermitoj</lok>
-      </fnt>;
-      <trd lng="de">Gegengift</trd>
-      <trd lng="hu">ellenm&eacute;reg</trd>
-      <trd lng="nl">tegengif</trd>
-      <trdgrp lng="pl">
-        <trd>odtrutka</trd>,
-        <trd>antidotum</trd>
-      </trdgrp> 
-      <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_ja;&c_d;&c_i;&c_je;</trd>
-    </ekz>
+-->
+<!-- movita al mal'ver/
     <ekz>
       <tld/>vera&jcirc;o
       <fnt>
@@ -1176,49 +1254,48 @@
         <lok>Sentencoj 2:12</lok>
       </fnt>;
     </ekz>
-    <ekz>
-      <ind><tld/>vole</ind>
-        <fnt>
-          <bib>FK</bib>
-        </fnt>
-        <fnt>
-          <bib>EE</bib>
-        </fnt>
-        <fnt>
-          <bib>Ifigenio</bib>
-        </fnt>.
-      <trdgrp lng="hu">
-        <trd>akarata ellen&eacute;re</trd>,
-        <trd>akaratlanul</trd>
-      </trdgrp>
-      <trd lng="nl">tegen zijn <ind>wil</ind> in</trd>
-      <trd lng="pl">niech&eogonek;tnie</trd>
-      <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;
-      &c_v;&c_o;&c_l;&c_i;</trd>
-    </ekz>
+-->
+    <refgrp tip="vid">
+      <ref cel="batal.kontraux0i">kontra&ubreve;batali</ref>,
+      <ref cel="met.kontraux0i">kontra&ubreve;meti</ref>,
+      <ref cel="parol.kontraux0i">kontra&ubreve;paroli</ref>,
+      <ref cel="star.kontraux0i">kontra&ubreve;stari</ref>,
+      <ref cel="venen.kontraux0o">kontra&ubreve;veneno</ref>,
+      <ref cel="ver.mal0a">kontra&ubreve;vera</ref>,
+      <ref cel="vol.kontraux0a">kontra&ubreve;vola</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;-</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;-</trd>,
+      <trd>&c_a;&c_n;&c_t;&c_y;-</trd>,
+      <trd>&c_n;&c_je;-</trd>
+    </trdgrp>
   </snc>
 </subart>
 </art>
 <!--
 $Log$
+versio 1.125 2023/06/01 12:44:20
+Wolfram Diestel: ~ III: anst. ekz per ref al met/, ver/
+
+versio 1.124 2023/06/01 08:27:39
+Wolfram Diestel: ~ III: anst. kelkajn unuvortajn ekz per ref
+
+versio 1.123 2023/04/30 15:25:50
+Paul Peeraerts: Steloj -> monato
+
+versio 1.122 2022/10/04 07:41:42
+Dmitri Gabinski: + trd be
+
+versio 1.121 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.43 2021/03/20 13:07:04
+Jeromo Vasxe: + ne~ebla
+
 Revision 1.41  2018/09/18 23:10:14  revo
 Vito Redsky: +trd pl +trd ro
 
 Revision 1.40  2017/11/13 18:10:13  revo
-Wolfram Diestel: kompletigis ekz-ojn kaj germ trd-ojn
-
-Revision 1.39  2017/11/11 21:10:15  revo
-Wolfram Diestel: fnt-oj de ekz-oj
-
-Revision 1.38  2017/01/27 14:10:24  revo
-Adam Eng: +trd ms
-
-Revision 1.37  2016/11/03 16:10:14  revo
-Carlos Garcia: +trd es ~ulo ~igxi ~ajxo ~i ~e ~a *~
-
-Revision 1.36  2015/06/06 16:10:17  revo
-Jeromo Vasxe: + ~e al, ~ajxo, ~eco, ~igxi, ~ulo
-
-Revision 1.35  2013/06/30 16:10:09  revo
 -->
 </vortaro>

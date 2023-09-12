@@ -1,64 +1,145 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: objekt1.xml,v 1.19 2010/04/24 17:06:38 revo Exp $">
+<art mrk="$Id: objekt1.xml,v 1.26 2023/09/03 07:12:33 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>objektiv</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="objekt1.0a">
   <kap><tld/>a</kap>
-  <snc mrk="objekt1.0a.FIL">
-    <uzo tip="fak">FIL</uzo>
-    <dif>
-      Efektive ekzistanta ekster la penso:
-      <ekz>
-        Kant neas la <tld/>an realecon de
-        niaj ideoj.
-      </ekz>
-    </dif>
-  </snc>
   <snc mrk="objekt1.0a.KOMUNE">
     <dif>
       Bazita sur senpartia esploro, sendependa de individuaj pla&ccirc;oj;
       mal<ref tip="ant" cel="subjek1.0a">subjektiva</ref>:
       <ekz>
-        tre malmultaj homoj kapablas observi kaj raporti <tld/>e.
+        tiuj &ccirc;i tiel diversaspecaj plendoj tute ne trovas sin en difinita interrilato al
+        la <tld/>a stato
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e la kronika kataro de la konjunktivo la <tld/>e trovataj &scirc;an&gcirc;oj estas entute
+        malmulte signifaj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi dubas, ke &ccirc;iuj malfacila&jcirc;oj, kiujn renkontas la sovetia proletaro, estas
+        sekvo nur de l&#x2019; <tld/>aj ka&ubreve;zoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni volas esti science <tld/>aj
+        <fnt>
+          <bib>ChV</bib>
+          <lok>14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj malfacila&jcirc;oj fari&gcirc;as <tld/>aj obstakloj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por korekta kompreno kaj <tld/>a taksado de la pozicio de Esperanto en la kadroj
+        de tiu &ccirc;i &gcirc;enerala lingvoevoluo, la menciitaj faktoj havas unuarangan signifon
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi en mia priskribo &ccirc;iam klopodis persisti al la severe <tld/>aj faktoj
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Unua &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia abomeninda <tld/>a certeco min ekstreme kolerigis
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sepa &Ccirc;apitro</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="ant" cel="subjek1.0a.individua">subjektiva<sncref/></ref>
+  </snc>
+  <snc mrk="objekt1.0a.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Efektive ekzistanta ekster la penso:
+      <ekz>
+        <nom>Kant</nom> neas la <tld/>an realecon de
+        niaj ideoj.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="efekti.0a">efektiva</ref>,
+      <ref cel="real.0a">reala</ref>,
+      <ref cel="ver.0a.LOG">vera<sncref/></ref>
+    </refgrp>
   </snc>
   <ref tip="hom" cel="objekt2.0o">objektivo</ref>
   <trd lng="be">&c_a;&c_b;'&c_ja;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
   <trd lng="ca">objectiu</trd>
+  <trdgrp lng="cs">
+    <trd>nep&rcaron;edpojat&yacute;</trd>,
+    <trd>nestrann&yacute;</trd>,
+    <trd>objektivn&iacute;</trd>,
+    <trd>v&ecaron;cn&yacute;</trd>
+  </trdgrp> 
   <trd lng="de">objektiv</trd>
   <trd lng="el">&alfa;&ny;&tau;&jota;&kappa;&epsilon;&jota;&my;&epsilon;&ny;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">objective</trd>
+  <trd lng="es">objetivo</trd>
   <trdgrp lng="fr">
     <trd>objectif</trd>,
     <trd>objective</trd>
   </trdgrp>
-  <trd lng="en">objective</trd>
-  <trd lng="es">objetivo</trd>
-  <trd lng="nl">objectief</trd>
-  <trd lng="pt">obje(c)tivo</trd>
   <trdgrp lng="hu">
     <trd>objekt&iacute;v</trd>,
     <trd>t&aacute;rgyilagos</trd>
   </trdgrp>
-  <trd lng="id">objektif</trd>
-  <trd lng="ru">&c_o;&c_b;&c_malmol;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sv">objektiv</trd>
+  <trd lng="id">objektif</trd> 
+  <trdgrp lng="ja">
+    <trd>&#x5BA2;&#x89B3;&#x7684;&#x306A;  [<ind>&#x304D;&#x3083;&#x3063;&#x304B;&#x3093;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x5B9F;&#x5728;&#x306E;  [<ind>&#x3058;&#x3064;&#x3056;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x504F;&#x308A;&#x306E;&#x306A;&#x3044;  [<ind>&#x304B;&#x305F;&#x3088;&#x308A;&#x306E;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x516C;&#x6B63;&#x306A;  [<ind>&#x3053;&#x3046;&#x305B;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x4ED6;&#x899A;&#x6027;&#x306E;  [<ind>&#x305F;&#x3055;&#x3068;&#x3057;&#x305B;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x5BFE;&#x7269;&#x306E;  [<ind>&#x305F;&#x3044;&#x3076;&#x3064;&#x306E;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">objectief</trd>
+  <trdgrp lng="pl">
+    <trd>obiektywny</trd>,
+    <trd>rzeczowy</trd>,
+    <trd>przedmiotowy</trd>
+  </trdgrp>  
+  <trd lng="pt">obje(c)tivo</trd>
+  <trdgrp lng="ro">
+    <trd>obiectiv</trd>,
+    <trd>adev&abreve;rat</trd>,
+    <trd>subiect</trd>
+  </trdgrp>  
+  <trd lng="ru">&c_o;&c_b;&c_malmol;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>  
   <trdgrp lng="sk">
-    <trd>nestranný</trd>,
-    <trd>objektívny</trd>,
-    <trd>vecný</trd>
+    <trd>nestrann&yacute;</trd>,
+    <trd>objekt&iacute;vny</trd>,
+    <trd>vecn&yacute;</trd>
   </trdgrp>
-  <trdgrp lng="cs">
-    <trd>nepředpojatý</trd>,
-    <trd>nestranný</trd>,
-    <trd>objektivní</trd>,
-    <trd>věcný</trd>
-  </trdgrp>
+  <trd lng="sv">objektiv</trd>
+
+  <trd lng="uk">&#x43E;&#x431;&#x2019;&#x454;&#x43A;&#x442;&#x438;&#x432;&#x43D;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="objekt1.0eco">
@@ -67,14 +148,27 @@
     <dif>
       Karaktero de io <tld/>a:
       <ekz>
-        la <tld/>eco de niaj konoj;
+        li demandis kun <tld/>eco preska&ubreve; kortu&scirc;a, al kiu <klr>[&#x2026;]</klr> humileco ne
+        mankis
+        <fnt>
+          <bib>ChB</bib>
+          <lok>30</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la a&ubreve;toro ne deflanki&gcirc;is de la plej severa
-        <tld/>eco en la prezento de la demando;
+        <klr>[tion]</klr> &scirc;i diris per la sama indiferenta <tld/>eco, krom kiu alian mi
+        ne a&ubreve;dis &ccirc;i tie
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sepa &Ccirc;apitro</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        kutime forestas <tld/>eco en &ccirc;iu ajn agitado.
+        tiun penson li nepre forpu&scirc;u, se li volas ne fu&scirc;i la <tld/>econ necesan
+        <fnt>
+          <bib>ChC</bib>
+          <lok>1</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -82,12 +176,12 @@
   <trd lng="ca">objectivitat</trd>
   <trdgrp lng="cs">
     <trd>nepodjatost</trd>,
-    <trd>nepředpojatost</trd>,
+    <trd>nep&rcaron;edpojatost</trd>,
     <trd>nestrannost</trd>,
     <trd>nezaujatost</trd>,
     <trd>objektivita</trd>,
     <trd>objektivnost</trd>,
-    <trd>věcnost</trd>
+    <trd>v&ecaron;cnost</trd>
   </trdgrp>
   <trd lng="de">Objektivit&auml;t</trd>
   <trd lng="el">&alfa;&ny;&tau;&jota;&kappa;&epsilon;&jota;&my;&epsilon;&ny;&jota;&kappa;&omikron_ton;&tau;&eta;&tau;&alfa;</trd>
@@ -99,19 +193,35 @@
     <trd>objektivit&aacute;s</trd>
   </trdgrp>
   <trd lng="id">objektivitas</trd>
+  <trd lng="ja">&#x5BA2;&#x89B3;&#x6027;  [<ind>&#x304D;&#x3083;&#x3063;&#x304B;&#x3093;&#x305B;&#x3044;</ind>]</trd>
   <trd lng="nl">objectiviteit</trd>
+  <trdgrp lng="pl">
+    <trd>obiektywno&sacute;&cacute;</trd>,
+    <trd>bezstronno&sacute;&cacute;</trd>
+  </trdgrp>
   <trd lng="pt">obje(c)tividade</trd>
+  <trdgrp lng="ro">
+    <trd>obiectivitate</trd>,
+    <trd>impar&#x21B;ialitate</trd>
+  </trdgrp>
   <trd lng="ru">&c_o;&c_b;&c_malmol;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
-    <trd>nestrannosť</trd>,
-    <trd>objektívnosť</trd>,
-    <trd>vecnosť <klr>(vlastnosť)</klr></trd>
+    <trd>nestrannos&tcaron;</trd>,
+    <trd>objekt&iacute;vnos&tcaron;</trd>,
+    <trd>vecnos&tcaron; <klr>(vlastnos&tcaron;)</klr></trd>
   </trdgrp>
   <trd lng="sv">objektivitet</trd>
+  <trd lng="uk">&#x43E;&#x431;&#x2019;&#x454;&#x43A;&#x442;&#x438;&#x432;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2022/02/13 20:28:23
+Wolfram Diestel: ekz-oj, ref-oj
+
+versio 1.23 2021/06/01 22:27:49
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.21  2015/06/29 16:33:21  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -128,14 +238,5 @@ Revision 1.17  2010/04/16 16:31:14  revo
 Russ Williams: ligi al subjektiva
 
 Revision 1.16  2008/12/14 17:30:32  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.15  2006/07/29 16:33:26  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.14  2002/09/26 16:32:04  revo
-Christopher Zervic: + ang
-
-Revision 1.13  2002/09/03 17:32:07  revo
 -->
 </vortaro>

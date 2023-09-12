@@ -1,137 +1,231 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
-    <kap>
-      <ofc>3</ofc>
-      <rad>unik</rad>/a
-    </kap>
+<art mrk="$Id: unik.xml,v 1.30 2023/09/05 09:43:52 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>unik</rad>/a
+</kap>
 
-    <drv mrk="unik.0a">
-      <kap><tld/>a</kap>
-      <snc mrk="unik.0a.ununura">
-        <dif>
-          Sola en sia speco,
-          <ref tip="sin" cel="nur.unu0a">ununura</ref>:
-          <ekz>
-            Tiu, kiu estas <tld/>a Sinjoro de la vivo kaj de la morto,
-            Li mem, plilongigis &ccirc;i tiun vivon, iamaniere Li donacis
-            &gcirc;in denove al mi
-            <fnt>
-              <vrk>Spirita testamento de Johano Pa&ubreve;lo la 2a</vrk>,
-              <lok><url
- ref="http://www.ikue.org/papoj/johanopaulodua/testamento.html"
-                  >IKUE</url></lok>
-            </fnt>;
-          </ekz><ekz>
-            plej konata, kvankam ne <tld/>a, estis la afero en Salem en
-            1692, kiun multaj iom konas per la brila dramo de Arthur
-            Miller
-            <fnt>
-              <aut>D-ino Marjorie BOULTON</aut>:
-              <vrk>La proceso, la sor&ccirc;istino kaj &scirc;ia kato</vrk>.
-              <lok>IKU 1996, Prago</lok>
-            </fnt>.
-          </ekz>
-        </dif>
-        <rim>
-          Pro la konfuzeblo kun
-          <tld/>a<sncref ref="unik.0a.eksterordinara"/> la franceca
-          <ctl><tld/>a filo</ctl> (kiam temas pri filo ununura) sonas
-          iom
-          komike por la rusoj &dash; anka&ubreve; formale temas ne pri
-          <ctl>sola en sia speco</ctl>, sed pri <ctl>sola en la
-          familio</ctl>.
-          Pli klaraj estas <ctl>sola, ununura filo</ctl>.
-          <aut>Sergio Pokrovskij</aut>
-        </rim>
-        <trdgrp lng="fa">
-          <trd>&f_y;&f_g;&a_A;&a_n;&a_h;</trd>,
-          <trd>&f_y;&f_k;&a_t;&a_A;</trd>
-        </trdgrp>
-        <trdgrp lng="fi">
-          <trd>ainoa</trd>,
-          <trd>uniikki</trd>
-        </trdgrp>
-        <trd lng="he">&yod;&het;&yod;&dalet; &bet;&mem;&yod;&nun;&vav;</trd>
-        <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
-      </snc>
-      <snc mrk="unik.0a.eksterordinara">
-        <uzo tip="stl">FIG</uzo>
-        <dif>
-          Senkompara, sensimila:
-          <ekz>
-            grandioza <tld/>a spektaklo, pejza&gcirc;o;
-          </ekz><ekz>
-            &ccirc;iuokaze la edzini&gcirc;o de princino Margareta en la 
-            Vestminstra Abatejo estis ja sufi&ccirc;e <tld/>a evento
-            <fnt>
-              <aut>PEJNO Simono</aut>:
-              <vrk><url
- ref="http://ourworld.compuserve.com/homepages/profcon/e_konjak.htm"
-                  >&Ccirc;u vi volas konjakon?</url></vrk>
-            </fnt>.
-          </ekz>
-        </dif>
-        <rim>
-          En la &jcirc;urnalista &jcirc;argono tiu vorto estas sinonimo por
-          <refgrp tip="sin">
-            <ref cel="apart.0a.speciala">aparta</ref>,
-            <ref cel="ordina.ekster0a">eksterordinara</ref>
-          </refgrp>.
-          Cetere, al iuj esperantistoj tia uzo de <tld/>a &scirc;ajnas
-          bombasta kaj evitinda.  Aliflanke, la PIV-oj prezentas tiun
-          hiperbolan signifon kiel la &ccirc;efan.
-          <aut>Sergio Pokrovskij</aut>
-        </rim>
-        <trdgrp lng="fa">
-          <trd>&a_b;&f_y;&zwnj;&a_m;&a_A;&a_n;&a_n;&a_d;</trd>,
-          <trd>&a_b;&f_y;&zwnj;&a_h;&a_m;&a_t;&a_A;</trd>,
-          <trd>&a_b;&f_y;&zwnj;&a_n;&a_Z;&f_y;&a_r;</trd>
-        </trdgrp>
-        <trd lng="fi">ainutlaatuinen</trd>
-        <trd lng="he">&yod;&het;&vav;&dalet;&yod;</trd>
-        <trd lng="ru">&c_u;&c_n;&c_i;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
-      </snc>
+<drv mrk="unik.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="unik.0a.ununura">
+    <dif>
+      Sola en sia speco,
+      <ref tip="sin" cel="nur.unu0a">ununura</ref>:
+      <ekz>
+        Tiu, kiu estas <tld/>a Sinjoro de la vivo kaj de la morto,
+        Li mem, plilongigis &ccirc;i tiun vivon, iamaniere Li donacis
+        &gcirc;in denove al mi
+        <fnt>
+          <vrk>Spirita testamento de Johano Pa&ubreve;lo la 2a</vrk>,
+          <lok><url ref="http://www.ikue.org/papoj/johanopaulodua/testamento.html">IKUE</url></lok>
+        </fnt>;
+      </ekz><ekz>
+        plej konata, kvankam ne <tld/>a, estis la afero en <nom>Salem</nom> en
+        1692, kiun multaj iom konas per la brila dramo de <nom>Arthur</nom>
+        <nom>Miller</nom>
+        <fnt>
+          <aut>D-ino Marjorie BOULTON</aut>:
+          <vrk>La proceso, la sor&ccirc;istino kaj &scirc;ia kato</vrk>.
+          <lok>IKU 1996, Prago</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Pro la konfuzeblo kun
+      <tld/>a<sncref ref="unik.0a.eksterordinara"/> la franceca
+      <ctl><tld/>a filo</ctl> (kiam temas pri filo ununura) sonas
+      iom
+      komike por la rusoj &dash; anka&ubreve; formale temas ne pri
+      <ctl>sola en sia speco</ctl>, sed pri <ctl>sola en la
+      familio</ctl>.
+      Pli klaraj estas <ctl>sola, ununura filo</ctl>.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trdgrp lng="fa">
+      <trd>&f_y;&f_g;&a_A;&a_n;&a_h;</trd>,
+      <trd>&f_y;&f_k;&a_t;&a_A;</trd>
+    </trdgrp>
+    <trdgrp lng="fi">
+      <trd>ainoa</trd>,
+      <trd>uniikki</trd>
+    </trdgrp>
+    <trd lng="he">&yod;&het;&yod;&dalet; &bet;&mem;&yod;&nun;&vav;</trd>
+    <trd lng="ru">&c_je;&c_d;&c_i;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="unik.0a.eksterordinara">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Senkompara, sensimila:
+      <ekz>
+        grandioza <tld/>a spektaklo, pejza&gcirc;o;
+      </ekz><ekz>
+        &ccirc;iuokaze la edzini&gcirc;o de princino Margareta en la 
+        Vestminstra Abatejo estis ja sufi&ccirc;e <tld/>a evento
+        <fnt>
+          <aut>PEJNO Simono</aut>:
+          <vrk><url ref="http://ourworld.compuserve.com/homepages/profcon/e_konjak.htm">&Ccirc;u vi volas
+          konjakon?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      En la &jcirc;urnalista &jcirc;argono tiu vorto estas sinonimo por
+      <refgrp tip="sin">
+        <ref cel="apart.0a.speciala">aparta</ref>,
+        <ref cel="ordina.ekster0a">eksterordinara</ref>
+      </refgrp>.
+      Cetere, al iuj esperantistoj tia uzo de <tld/>a &scirc;ajnas
+      bombasta kaj evitinda.  Aliflanke, la PIV-oj prezentas tiun
+      hiperbolan signifon kiel la &ccirc;efan.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trdgrp lng="fa">
+      <trd>&a_b;&f_y;&#x200C;&a_m;&a_A;&a_n;&a_n;&a_d;</trd>,
+      <trd>&a_b;&f_y;&#x200C;&a_h;&a_m;&a_t;&a_A;</trd>,
+      <trd>&a_b;&f_y;&#x200C;&a_n;&a_Z;&f_y;&a_r;</trd>
+    </trdgrp>
+    <trd lng="fi">ainutlaatuinen</trd>
+    <trd lng="he">&yod;&het;&vav;&dalet;&yod;</trd>
+    <trd lng="ru">&c_u;&c_n;&c_i;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
   <trd lng="be">&c_u;&c_n;&c_ib;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="ca">&uacute;nic</trd>
   <trdgrp lng="cs">
-    <trd>jedinečný</trd>,
-    <trd>unikátní</trd>
+    <trd>jedine&ccaron;n&yacute;</trd>,
+    <trd>unik&aacute;tn&iacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
-        <trd>einzig</trd>,
-        <trd>einmalig</trd>,
-        <trd>einzigartig</trd>
-      </trdgrp>
+    <trd>einzig</trd>,
+    <trd>einmalig</trd>,
+    <trd>einzigartig</trd>
+  </trdgrp>
   <trd lng="en">unique</trd>
   <trd lng="es">&uacute;nico</trd>
   <trd lng="fr">unique</trd>
   <trdgrp lng="hu">
-        <trd>egyed&uuml;l&aacute;ll&oacute;</trd>,
-        <trd>egyetlen</trd>,
-        <trd>unik&aacute;lis</trd>
-      </trdgrp>
+    <trd>egyed&uuml;l&aacute;ll&oacute;</trd>,
+    <trd>egyetlen</trd>,
+    <trd>unik&aacute;lis</trd>
+  </trdgrp>
   <trd lng="it">unico</trd>
+  <trdgrp lng="ja">
+    <trd>&#x985E;&#x306E;&#x306A;&#x3044;  [<ind>&#x308B;&#x3044;&#x306E;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x7279;&#x7570;&#x306A;  [<ind>&#x3068;&#x304F;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x72EC;&#x7279;&#x306E;  [<ind>&#x3069;&#x304F;&#x3068;&#x304F;&#x306E;</ind>]</trd>,
+    <trd>&#x72EC;&#x81EA;&#x306E;  [<ind>&#x3069;&#x304F;&#x3058;&#x306E;</ind>]</trd>,
+    <trd>&#x552F;&#x4E00;&#x306E;  [<ind>&#x3086;&#x3044;&#x3044;&#x3064;&#x306E;</ind>]</trd>,
+    <trd>&#x4E00;&#x610F;&#x306E;  [<ind>&#x3044;&#x3061;&#x3044;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">uniek</trd>
   <trdgrp lng="pl">
-        <trd>unikalny</trd>,
-        <trd>jedyny<klr> (w swoim rodzaju)</klr></trd>
-      </trdgrp>
+    <trd>unikalny</trd>,
+    <trd>jedyny<klr> (w swoim rodzaju)</klr></trd>
+  </trdgrp>
   <trd lng="pt">&uacute;nico</trd>
   <trdgrp lng="sk">
-    <trd>jedinečný</trd>,
-    <trd>nenapodobiteľný</trd>,
-    <trd>neporovnateľný</trd>,
-    <trd>ojedinelý</trd>,
-    <trd>unikátny</trd>
+    <trd>jedine&ccaron;n&yacute;</trd>,
+    <trd>nenapodobite&lcaron;n&yacute;</trd>,
+    <trd>neporovnate&lcaron;n&yacute;</trd>,
+    <trd>ojedinel&yacute;</trd>,
+    <trd>unik&aacute;tny</trd>
   </trdgrp>
   <trd lng="sv">unik</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&#x43D;&c_ib;&#x43A;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_jeu;&c_d;&c_i;&#x43D;&c_i;&c_j; &c_u; &c_s;&c_v;&#x43E;&c_jeu;&#x43C;&c_u; &c_r;&#x43E;&c_d;&c_ib;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="unik.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="objekt.0o">Objekto</ref> ekzistanta nur kiel ununura ekzemplero:
+      <ekz>
+        &ccirc;iu <tld/>a&jcirc;o i&gcirc;as pli kaj pli valora en nia senespere unuformi&gcirc;anta mondo
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007156.php">Sutroj kaj sa&ubreve;dadoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 25</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        pro la sukceso de la unua aran&gcirc;o, planita kiel <tld/>a&jcirc;o, oni nun &ccirc;iujare
+        ripetas la feston
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="&Monato;/2005/008585.php">Sekku sakee malseka</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el ekonomia vidpunkto la sistemo de internaciaj respondkuponoj estas <tld/>a&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2007/009087.php">Internaciaj respondkuponoj: &ccirc;u fino
+          alproksimi&gcirc;as?</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lo&gcirc;antoj de la vila&gcirc;o fieras pri e&ubreve;ropa <tld/>a&jcirc;o &ndash; malvarmega gejsero, kiu
+        sputas akvon el profundo de 405&#x202F;m &gcirc;is alteco de 30&#x202F;-&#x202F;40&#x202F;m
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julius Hauser</aut>
+          <vrk><url ref="&Monato;/2012/010472.php">Varmaj vortoj por malvarmaj akvoj</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen <tld/>a&jcirc;o: mansaketo el kaca ha&ubreve;to
+        <fnt>
+          <bib>KrB</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi ne sentas, ke vi tenas <tld/>a&jcirc;on en viaj brakoj
+        <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk>Ombro sur interna pejza&gcirc;o</vrk>
+        </fnt>?
+      </ekz>
+    </dif>
+    <ref tip="super" cel="rar.0ajxo">rara&jcirc;o</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Unikat</trd>,
+    <trd>Einzelst&uuml;ck</trd>,
+    <trd>Ein&#xAD;ma&#xAD;lig&#xAD;keit</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7279;&#x7570;&#x306A;&#x7269;  [<ind>&#x3068;&#x304F;&#x3044;&#x306A;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x72EC;&#x7279;&#x306E;&#x7269;  [<ind>&#x3069;&#x304F;&#x3068;&#x304F;&#x306E;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x552F;&#x4E00;&#x306E;&#x7269;  [<ind>&#x3086;&#x3044;&#x3044;&#x3064;&#x306E;&#x3076;&#x3064;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_u;&#x43D;&c_ib;&#x43A;&c_u;&#x43C;</trd>
+</drv>
+
+
   </art>
   <!--
   $Log$
+versio 1.29 2023/05/01 12:44:59
+Paul Peeraerts: Steloj -> monato
+
+versio 1.28 2022/05/06 12:17:08
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2021/04/12 17:34:18
+Wolfram Diestel: +~ajxo
+
   Revision 1.24  2015/06/28 12:03:41  revo
   aldono de trd sk per skripto de M. von Laer
 
@@ -145,52 +239,5 @@
   Sergio Pokrovskij: precioza => bombasta
 
   Revision 1.20  2009/08/18 19:19:17  revo
-  Antonio Codazzi: +trd it
-
-  Revision 1.19  2008/03/11 17:30:18  revo
-  Sebastian Cyprych: +trd pl
-
-  Revision 1.18  2007/06/19 16:31:17  revo
-  Harri Laine: +trd fi
-
-  Revision 1.17  2005/04/14 16:33:27  revo
-  Raul Salinas Monteagudo: +trd ca,es
-
-  Revision 1.16  2003/07/14 16:32:38  revo
-  Allon Rothfarb: +trd he
-
-  Revision 1.15  2002/08/05 17:32:18  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.14  2002/05/09 18:45:04  revo
-  Eduardo M. Kalinowski: ald trd pt
-
-  Revision 1.13  2002/01/12 17:31:31  revo
-  Sergio Pokrovskij: +rim, disigis trd=rus
-
-  Revision 1.12  2002/01/09 17:33:30  revo
-  Sergio Pokrovskij: snc-mrk, rim-oj
-
-  Revision 1.11  2001/10/14 08:48:26  revo
-  Zmicier Lapcionak: + trd be
-
-  Revision 1.10  2001/05/22 18:13:05  revo
-  Jerano Zachrisson: +trd sv
-
-  Revision 1.9  2001/03/22 17:41:27  revo
-  Dennis Wibrow: +trd germ
-
-  Revision 1.8  2001/02/18 20:09:10  revo
-  oficialeco per programo de JM Lugrin
-
-  Revision 1.7  2001/01/30 17:12:03  revo
-  Philippe Combot: Aldono de franca traduko
-
-  Revision 1.6  2000/11/22 17:12:05  revo
-  Joost Witteveen: +trd nl
-
-  Revision 1.5  2000/10/18 16:12:34  revo
-  Yury Finkel: +rusa trd
-
-  -->
+-->
 </vortaro>

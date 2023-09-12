@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: makulatur.xml,v 1.9 2023/09/02 06:04:08 revo Exp $">
 <kap>
   <rad>makulatur</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -49,16 +48,36 @@
     </trdgrp>
     <trd lng="fr">torchon<klr> (mauvais &eacute;crit)</klr></trd>
   </snc>
+  <trd lng="be">&c_m;&c_a;&c_k;&c_u;&c_l;&c_ja;&c_t;&c_u;&c_r;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>arch tisku nane&ccaron;isto</trd>,
     <trd>makulatura</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x640D;&#x7D19;  [<ind>&#x305D;&#x3093;&#x3057;</ind>]</trd>,
+    <trd>&#x5237;&#x308A;&#x640D;&#x3058;  [<ind>&#x3059;&#x308A;&#x305D;&#x3093;&#x3058;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>makulatura</trd>,
+    <trd>&sacute;mieci</trd>
+  </trdgrp>   
+<trdgrp lng="ro">
+    <trd>reciclarea h&acirc;rtiei</trd>,
+    <trd>gunoi</trd>
+  </trdgrp>
   <trd lng="sk">tla&ccaron; str&aacute;nky na ne&ccaron;isto</trd>
+  <trd lng="uk">&#x43C;&c_a;&#x43A;&c_u;&#x43B;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.8 2022/04/25 11:28:47
+Dmitri Gabinski: + trd be
+
+versio 1.6 2020/05/03 14:10:17
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.4  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -70,6 +89,5 @@ Jeromo Vasxe: kor. en ekz
 
 Revision 1.1  2011/12/07 23:10:15  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

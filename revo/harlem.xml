@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: harlem.xml,v 1.9 2009/09/01 04:53:48 revo Exp $">
+<art mrk="$Id: harlem.xml,v 1.14 2023/04/11 14:37:23 revo Exp $">
 <kap>
   <rad>Harlem</rad>/o
 </kap>
@@ -11,7 +11,7 @@
   <uzo tip="fak">GEOG</uzo>
   <snc mrk="harlem.H0o.nl">
     <dif>
-      <ref tip="super" cel="urb.0o">Urbo</ref> en la nederlanda provinco
+      <ref tip="lst" lst="voko:urboj" cel="urb.0o">Urbo</ref> en la nederlanda provinco
       <ref tip="malprt" cel="holand.NordH0o">Nord-Holando</ref>
       (4&deg;18'E, 52&deg;05'N):
       <ekz>
@@ -22,6 +22,17 @@
         </aut>:
         <vrk>Rembrandt</vrk>,
         <lok>Norda Prismo, 56/6, pa&gcirc;oj 229-238</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+la festparolado de Ivo Lapenna por la 39a UK en <tld/>o
+ <fnt>
+          <bib>Monato</bib>
+          <aut>Sen Rodin</aut>
+          <vrk><url ref="&Monato;/2007/009131.php">Tri diskoj kun ses paroladoj de Ivo
+          Lapenna
+</url></vrk>
+          <lok>2007</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -29,7 +40,8 @@
   </snc>
   <snc mrk="harlem.H0o.us">
     <dif>
-      Urbero de Novjorko.
+      <ref tip="super" cel="kvarta.0o">Kvartalo</ref> de 
+      <ref tip="malprt" cel="jork.nov0o">Novjorko</ref>.
     </dif>
     <adm>Cxu ne temas pri nura urbero de Novjorko? (Ulriko)</adm>
     <trd lng="ru">&c_G;&c_a;&c_r;&c_l;&c_je;&c_m;</trd>
@@ -47,6 +59,15 @@
 </art>
 <!--
 $Log$
+versio 1.14 2023/04/11 14:37:23
+aktualigo Monato-URL
+
+versio 1.13 2023/03/19 19:23:14
+Paul Peeraerts: + dua ekz
+
+versio 1.12 2021/04/11 07:01:28
+Wolfram Diestel: lst urboj, ref-oj
+
 Revision 1.10  2011/02/17 12:10:56  revo
 Luiz Portella: kor. ref k mrk
 
@@ -60,11 +81,5 @@ Revision 1.7  2007/04/26 16:30:33  revo
 Tulio Flores: +tr pt
 
 Revision 1.6  2004/01/10 17:32:43  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.5  2002/07/09 17:33:24  revo
-Ulrich Fellmann: + 1 trd de
-
-Revision 1.4  2002/03/14 17:33:59  revo
 -->
 </vortaro>

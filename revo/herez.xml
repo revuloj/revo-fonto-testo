@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: herez.xml,v 1.17 2009/09/10 16:32:09 revo Exp $">
+<art mrk="$Id: herez.xml,v 1.23 2023/08/31 15:46:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>herez</rad>/o <fnt><bib>PV</bib></fnt>
@@ -58,6 +57,10 @@
   <trd lng="fr">h&eacute;r&eacute;sie</trd>
   <trd lng="hu">eretneks&eacute;g</trd>
   <trd lng="it">eresia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7570;&#x7AEF;  [<ind>&#x3044;&#x305F;&#x3093;</ind>]</trd>,
+    <trd>&#x7570;&#x8AAC;  [<ind>&#x3044;&#x305B;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ketterij</trd>
   <trdgrp lng="pl">
     <trd>herezja</trd>, <trd>kacerstwo</trd>
@@ -65,6 +68,10 @@
   <trd lng="pt">heresia</trd>
   <trd lng="ru">&c_je;&c_r;&c_je;&c_s;&c_mol;</trd>
   <trd lng="sk">kac&iacute;rstvo</trd>
+  <trdgrp lng="uk">
+    <trd>&#x454;&#x440;&#x435;&#x441;&#x44C;</trd>,
+    <trd>&#x43F;&#x441;&#x435;&#x432;&#x434;&#x43E;&#x432;&#x447;&#x435;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="herez.0i">
@@ -108,6 +115,7 @@
     <trd>essere <ind>eretico</ind></trd>,
     <trd>dire una <ind>eresia</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#x7570;&#x7AEF;&#x3092;&#x5531;&#x3048;&#x308B;  [<ind>&#x3044;&#x305F;&#x3093;&#x3092;&#x3068;&#x306A;&#x3048;&#x308B;</ind>]</trd>
   <trd lng="nl">ketteren</trd>
   <trdgrp lng="pl">
     <trd>by&cacute; heretykiem</trd>,
@@ -148,6 +156,7 @@
   <trd lng="fr">h&eacute;r&eacute;tique<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="hu">eretnek</trd>
   <trd lng="it">eretico<klr> (sost.)</klr></trd>
+  <trd lng="ja">&#x7570;&#x7AEF;&#x8005;  [<ind>&#x3044;&#x305F;&#x3093;&#x3057;&#x3083;</ind>]</trd>
   <trd lng="nl">ketter</trd>
   <trdgrp lng="pl">
     <trd>heretyk</trd>, <trd>kacerz</trd>
@@ -158,6 +167,7 @@
   </trdgrp>
   <trd lng="ru">&c_je;&c_r;&c_je;&c_t;&c_i;&c_k;</trd>
   <trd lng="sk">heretik</trd>
+  <trd lng="uk">&#x454;&#x440;&#x435;&#x442;&#x438;&#x43A;</trd>
 </drv>
 
 <drv mrk="herez.cxef0ulo">
@@ -183,6 +193,7 @@
   <trd lng="fr">h&eacute;r&eacute;siarque</trd>
   <trd lng="hu">f&odblac;eretnek</trd>
   <trd lng="it">eresiarca</trd>
+  <trd lng="ja">&#x7570;&#x7AEF;&#x306E;&#x958B;&#x7956;  [<ind>&#x3044;&#x305F;&#x3093;&#x306E;&#x304B;&#x3044;&#x305D;</ind>]</trd>
   <trd lng="nl">aartsketter</trd>
   <trd lng="pl">herezjarcha</trd>
   <trd lng="ru">&c_je;&c_r;&c_je;&c_s;&c_i;&c_a;&c_r;&c_h;</trd>

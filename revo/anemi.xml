@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: anemi.xml,v 1.13 2003/11/09 17:31:18 revo Exp $">
+<art mrk="$Id: anemi.xml,v 1.19 2023/08/30 18:23:34 revo Exp $">
 <kap>
   <rad>anemi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -34,6 +33,11 @@
   <trd lng="en">anemia</trd>
   <trd lng="es">anemia</trd>
   <trd lng="fr">an&eacute;mie</trd>
+  <trd lng="he">&#x5D0;&#x5B2;&#x5E0;&#x5B6;&#x5DE;&#x5B4;&#x5D9;&#x5B8;&#x5D4;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CA7;&#x8840;  [<ind>&#x3072;&#x3093;&#x3051;&#x3064;</ind>]</trd>,
+    <trd>&#x8CA7;&#x8840;&#x75C7;  [<ind>&#x3072;&#x3093;&#x3051;&#x3064;&#x3057;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">anemie</trd>
   <trdgrp lng="ru">
     <trd>&c_m;&c_a;&c_l;&c_o;&c_k;&c_r;&c_o;&c_v;&c_i;&c_je;</trd>,
@@ -41,8 +45,12 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>an&eacute;mia</trd>,
-    <trd>málokrvnosť</trd>,
-    <trd>nedostatok červených krviniek</trd>
+    <trd>m&#xE1;lokrvnos&#x165;</trd>,
+    <trd>nedostatok &#x10D;erven&#xFD;ch krviniek</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x43D;&#x435;&#x43C;&#x456;&#x44F;</trd>,
+    <trd>&#x43D;&#x435;&#x434;&#x43E;&#x43A;&#x440;&#x456;&#x432;&#x2019;&#x44F;</trd>
   </trdgrp>
 </drv>
 </art>

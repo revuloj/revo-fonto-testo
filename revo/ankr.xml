@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ankr.xml,v 1.21 2009/12/15 17:30:46 revo Exp $">
+<art mrk="$Id: ankr.xml,v 1.35 2023/08/30 18:23:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ankr</rad>/o
@@ -13,22 +12,68 @@
   <snc mrk="ankr.0o.MAR">
     <uzo tip="fak">MAR</uzo>
     <dif>
-      Peza&jcirc;o, ordinare fera kun du hokegoj, kiun oni enakvigas por
-      fiksi
-      &scirc;ipon:
+      Peza&jcirc;o, ordinare fera kun du hokegoj, kiun oni surfundigas por
+      fiksi na&gcirc;antan objekton (<ref tip="malprt" cel="sxip.0o">&scirc;ipo</ref>n,
+      marsignon, platformon):
       <ekz>
-        Johano <klr>...</klr> ordonis levi la <tld/>on
+        ili &jcirc;etis kvar <tld/>ojn el la &scirc;ipmalanta&ubreve;o, kaj pre&gcirc;is, ke tagi&gcirc;u
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 27:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Johano <klr>[&#x2026;]</klr> ordonis levi la <tld/>on
         <fnt><bib>ElektFab</bib>, <lok>fidela Johano</lok></fnt>;
       </ekz>
       <ekz>
-        &jcirc;eti <tld/>on;
+        malproksime en la maro la akvo estas <klr>[&#x2026;]</klr> pli profunda, ol povas
+        atingi ia <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>;
       </ekz>
       <ekz>
         kun bruo la <tld/>oj estas delasitaj
-        <fnt><bib>FK</bib>, <lok>5, el la vivo kaj sciencoj, el la
-        po&scirc;to</lok></fnt>.
+        <fnt>
+          <bib>FK</bib>, <lok>5, el la vivo kaj sciencoj, el la
+          po&scirc;to</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;ipo &jcirc;etis <tld/>on en la haveno
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;ipo staris sur <tld/>o &ccirc;e tiu bordo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis kvaza&ubreve; fortikaj <tld/>o&scirc;nuroj, <klr>[&#x2026;]</klr> tiradis la koboldon supren
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Koboldo &ccirc;e la butikisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu speco de varo estis a&ccirc;etebla, &leftquot;de pinglo &gcirc;is ankro&rightquot;, kiel diras la angla
+        esprimo
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="kapsta.0o">kapstano</ref>,
+       <ref cel="vindas.0o">vindaso</ref>
+    </refgrp>
     <trdgrp lng="de">
       <trd>Anker</trd>,
       <trd>Schiffsanker</trd>
@@ -50,6 +95,7 @@
   <trd lng="en">anchor</trd>
   <trd lng="es">ancla</trd>
   <trd lng="fr">ancre</trd>
+  <trd lng="he">&ayin;&vav;&gimel;&fnun;</trd>
   <trdgrp lng="hu">
     <trd>horgony</trd>,
     <trd>vasmacska</trd>
@@ -59,6 +105,7 @@
     <trd>sauh</trd>
   </trdgrp>
   <trd lng="it">ancora</trd>
+  <trd lng="ja">&#x9328;  [<ind>&#x3044;&#x304B;&#x308A;</ind>]</trd>
   <trd lng="nl">anker</trd>
   <trd lng="pl">kotwica</trd>
   <trd lng="pt">&acirc;ncora</trd>
@@ -66,30 +113,71 @@
   <trd lng="ru">&c_ja;&c_k;&c_o;&c_r;&c_mol;</trd>
   <trd lng="sk">kotva</trd>
   <trd lng="sv">ankare</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&c_r;.&#xA0;&#x44F;&#x43A;&c_ib;&c_r;</trd>,
+    <trd>&#x43A;&#x43E;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ankr.0i">
-  <kap><tld/>i</kap>
-  <gra><vspec>ntr</vspec></gra>
+  <kap><tld/>i, <var><kap><tld/>umi</kap></var></kap>
   <uzo tip="fak">MAR</uzo>
   <snc mrk="ankr.0i.MAR">
+    <gra><vspec>ntr</vspec></gra>
     <dif>
-      Restadi en loko, kie oni &jcirc;etis <tld/>on:
+      <ref tip="super" cel="rest.0adi">Restadi</ref> en loko, kie oni &jcirc;etis <tld/>on:
       <ekz>
         ni devis <tld/>i &gcirc;is la difekto estis riparita
         <fnt><bib>Mortul&Scirc;ip</bib>, <lok>dua libro, &ccirc;apitro
-        33a</lok></fnt>.
+        33a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la generalo <tld/>is apud la malbordo
+        <fnt>
+          <bib>DKM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni nun <tld/>umis en &ccirc;i tiu haveno
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kelkaj remis al la rifo por <tld/>umi
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la forteco de la uragano certe rompis la &ccirc;enojn per kiuj la subakvigitaj
+        eksplod-minoj, fiksitaj dum la milito de la rusoj, estas <tld/>igitaj
+        <fnt>
+          <bib>KKl</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol; &c_n;&c_a; <ind>&c_ja;&c_k;&c_a;&c_r;&c_y;</ind></trd>
+    <trd lng="de"><klr>vor </klr>Anker <ind>liegen</ind></trd>
   </snc>
- <rim>
-     Estas ne klare, &ccirc;u "ankri" estas netransitiva a&ubreve;
-     transitiva.
-     En la literaturo okazas amba&ubreve; uzoj,
-     do "&scirc;ipo ankras en haveno" kaj "maristo ankras &scirc;ipon en
-     haveno".
-     PV/PIV &scirc;an&gcirc;is la difinon tien kaj reen tra la jaroj.
-   </rim>  
+  <snc mrk="ankr.0i.ekankri">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      <ref tip="super" cel="fiks.0i.flagon">Fiksi</ref> per <tld/>o:
+       <ekz>
+          la kruta rando de la lago <klr>[&#x2026;]</klr> preska&ubreve; ne permesas <tld/>i boaton
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Werner Schad</aut>
+            <vrk><url ref="&Monato;/1998/monato199804.pdf#page=29">Argentino &dash; Supreniri
+            solecajn montopintojn</url></vrk>
+            <lok>1998/04, p. 29</lok>
+          </fnt>.
+        </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; &c_n;&c_a; <ind>&c_ja;&c_k;&c_a;&c_r;</ind></trd>
+    <trd lng="de">verankern</trd>
+  </snc>
   <trdgrp lng="br">
     <trd>eoria&ntilde;</trd>,
     <trd>beza&ntilde; war <ind>eor</ind></trd>
@@ -97,7 +185,6 @@
   <trd lng="cs">b&yacute;t zakotven na kotvi&scaron;ti</trd>
   <trdgrp lng="de">
     <trd>ankern</trd>,
-    <trd><klr>vor </klr>Anker <ind>liegen</ind></trd>
   </trdgrp>
   <trd lng="en">anchor</trd>
   <trd lng="es">anclar</trd>
@@ -105,20 +192,26 @@
     <trd>mouiller</trd>,
     <trd>s'<ind>ancrer</ind></trd>
   </trdgrp>
+  <trd lng="he">&lamed;&he;&tet;&yod;&lamed; &ayin;&vav;&gimel;&fnun;</trd>
   <trdgrp lng="hu">
     <trd>lehorgonyoz</trd>,
     <trd>horgonyt vet</trd>
   </trdgrp>
-  <trd lng="id">[<ind>labuh</ind>] berlabuh</trd>
+  <trd lng="id">ber<ind>labuh</ind></trd>
   <trdgrp lng="it">
     <trd>ancorare</trd>,
     <trd>ancorarsi</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9328;&#x3092;&#x304A;&#x308D;&#x3059;  [<ind>&#x3044;&#x304B;&#x308A;&#x3092;&#x304A;&#x308D;&#x3059;</ind>]</trd>,
+    <trd>&#x4FC2;&#x7559;&#x3059;&#x308B;  [<ind>&#x3051;&#x3044;&#x308A;&#x3085;&#x3046;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">ankeren</trd>
   <trd lng="pl">kotwiczy&cacute;</trd>
   <trd lng="ru">&c_v;&c_s;&c_t;&c_a;&c_t;&c_mol; &c_n;&c_a; <ind>&c_ja;&c_k;&c_o;&c_r;&c_mol;</ind></trd>
   <trd lng="sk">kotvi&tcaron;</trd>
   <trd lng="sv">ankra</trd>
+  <trd lng="uk">&c_s;&c_t;&#x43E;&#x44F;&c_t;&c_i; &#x43D;&c_a;&#xA0;&#x44F;&#x43A;&#x43E;&c_r;&c_ib;</trd>
 </drv>
 
 <drv mrk="ankr.0ejo">
@@ -126,17 +219,26 @@
   <uzo tip="fak">MAR</uzo>
   <snc mrk="ankr.0ejo.MAR">
     <dif>
-      Loko, kie oni povas <tld/>adi, <ref tip="sin"
-      cel="rod.0o">rodo</ref>:
+      Loko, kie oni povas <tld/>adi, <ref tip="sin" cel="rod.0o">rodo</ref>:
       <ekz>
-        la anglaj maraj rabistoj <klr>...</klr> forprenis &scirc;ipojn de la
+        la anglaj maraj rabistoj <klr>[&#x2026;]</klr> forprenis &scirc;ipojn de la
         <tld/>ejo
-        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de feli&ccirc;o, 2, kio okazis al
-        la
-        jura konsilisto</lok></fnt>.
+        <fnt>
+          <bib>Fab1</bib>, 
+          <lok>galo&scirc;oj de feli&ccirc;o, 2, kio okazis al la jura konsilisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Angloj staris sur la <tld/>adejo, en la tago, kiu estas glora en la kronikoj
+        de Danujo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dano Holger</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_ja;&c_k;&c_a;&c_r;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_a;&c_ja;&c_n;&c_k;&c_a;</trd>
   <trd lng="br">eorlec'h</trd>
   <trd lng="cs">kotvi&scaron;t&ecaron;</trd>
   <trdgrp lng="de">
@@ -149,36 +251,36 @@
     <trd>mouillage</trd>
   </trdgrp>
   <trd lng="hu">horgonyz&oacute;hely</trd>
-  <trd lng="id">[<ind>labuh</ind>] pelabuhan</trd>
+  <trd lng="id">pe<ind>labuh</ind>an</trd>
   <trd lng="it">ormeggio<klr> (luogo)</klr></trd>
+  <trd lng="ja">&#x6295;&#x9328;&#x5730;  [<ind>&#x3068;&#x3046;&#x3044;&#x304B;&#x308A;&#x3061;</ind>]</trd>
   <trd lng="nl">ankerplaats</trd>
   <trd lng="pl">reda</trd>
   <trd lng="ro">rad&abreve;</trd>
   <trd lng="ru">&c_r;&c_je;&c_j;&c_d; <klr tip="amb">(&c_m;&c_o;&c_r;.)</klr></trd>
   <trd lng="sk">kotvi&scaron;te</trd>
   <trd lng="sv">ankringsplats</trd>
+  <trdgrp lng="uk">
+    <trd>&#x44F;&#x43A;&c_ib;&c_r;&#x43D;&c_a; &c_s;&c_t;&#x43E;&#x44F;&#x43D;&#x43A;&c_a;</trd>,
+    <trd>&#x44F;&#x43A;&c_ib;&c_r;&#x43D;&c_je; &#x43C;&c_ib;&c_s;&c_c;&c_je;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.26  2016/02/28 20:10:15  revo
-Wolfram Diestel: riparo: rim  forighis per skripto de M.Laer pro
-interlokita traduko
+versio 1.34 2023/05/20 05:26:54
+Paul Peeraerts: + aut + lok
 
-Revision 1.25  2015/09/11 02:10:19  revo
-Evandro Avellar: +trd pt
+versio 1.33 2023/05/02 15:56:28
+revo: aktualigo URL-unuoj
 
-Revision 1.24  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.32 2023/02/08 10:34:28
+Dmitri Gabinski: + trd be
 
-Revision 1.23  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.30 2021/05/08 07:48:55
+Wolfram Diestel: ekz-oj, +var ~umi, ~i tr, dif-vortumo
 
-Revision 1.22  2014/11/14 09:10:17  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.21  2009/12/15 17:30:46  revo
-Antonio Codazzi: +trd it
-
+versio 1.28 2020/05/03 07:10:22
+Eko Nur Syah Hidayat: korekteto
 -->
 </vortaro>

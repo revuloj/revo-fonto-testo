@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: intuic.xml,v 1.17 2010/01/13 17:30:59 revo Exp $">
+<art mrk="$Id: intuic.xml,v 1.28 2023/08/31 16:40:58 revo Exp $">
 <kap>
-  <rad>intuici</rad>/o <fnt>Z</fnt>,
-  <var><kap><rad>intu</rad>/o <fnt>Y</fnt></kap> <uzo tip="stl">RAR</uzo></var> 
+  <rad>intuici</rad>/o <fnt><bib>PV</bib></fnt>,
+  <var><kap><rad var="u">intu</rad>/o <fnt><bib>PV</bib></fnt></kap> <uzo tip="stl">RAR</uzo></var> 
 </kap>
 
 <drv mrk="intuic.0o">
-  <kap><tld/>o, <var><kap>intuo</kap></var></kap>
+  <kap><tld/>o, <var><kap><tld var="u"/>o</kap></var></kap>
   <snc mrk="intuic.0o.instinkto">
     <dif>
       La kapablo senpere, kvaza&ubreve; instinkte kompreni sen
@@ -36,14 +35,14 @@
         li per genia <tld/>o ekkaptis novan sciencan le&gcirc;on.
       </ekz>
       <ekz>
-        subite gestoj ne respondas al vortoj de la persono, via intuo tuj eksaltas
+        subite gestoj ne respondas al vortoj de la persono, via <tld var="u"/>o tuj eksaltas
         <fnt>
           <vrk><url ref="https://eo.tierient.com/gesto/">Gesto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         pri kio li pensas? pri la akcidento? pri la estonto? patrina 
-        intuo sugestis ke pri neniu el tiuj
+        <tld var="u"/>o sugestis ke pri neniu el tiuj
         <fnt>
           <aut>J. Francis</aut>,
           <vrk>La Granda Kaldrono</vrk>,
@@ -87,15 +86,24 @@
     <trd>intuizione<klr> (capacit&agrave;)</klr></trd>,
     <trd>intuito</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x76F4;&#x89B3;  [<ind>&#x3061;&#x3087;&#x3063;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x76F4;&#x611F;  [<ind>&#x3061;&#x3087;&#x3063;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x52D8;  [<ind>&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">intu&iuml;tie</trd>
   <trd lng="pl">intuicja</trd>
   <trd lng="pt">intui&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_i;&c_n;&c_t;&c_u;&c_i;&c_c;&c_i;&c_ja;</trd>
   <trd lng="sk">intu&iacute;cia</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43D;&c_t;&c_u;&c_ji;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_d;&c_ch;&c_u;&c_t;&c_t;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="intuic.0a">
-  <kap><tld/>a, <var><kap>intua</kap></var></kap>
+  <kap><tld/>a, <var><kap><tld var="u"/>a</kap></var></kap>
   <snc mrk="intuic.0a.instinkta">
     <dif>
       Karakterizata per <tld/>o:
@@ -110,31 +118,32 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Guido Van Damme</aut>
-          <vrk><url ref="https://www.monato.be/2009/009742.php"
-              >Edikto el oriento?</url></vrk>
+          <vrk><url ref="&Monato;/2009/009742.php">Edikto el oriento?</url></vrk>
           <lok>2009</lok>
         </fnt>;
       </ekz>
       <ekz>
         rapida, facile alirebla kaj <tld/>a en la uzado, la internacia retejo entenas
-        entute 200&#8239;000 filmetojn: &ccirc;iu el ili respondas al unuopa signo, malanta&ubreve; kiu
+        entute 200&#x202F;000 filmetojn: &ccirc;iu el ili respondas al unuopa signo, malanta&ubreve; kiu
         ka&scirc;i&gcirc;as vortoj, &ccirc;iutagaj frazoj kaj nombroj
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.be/2014/011278.php"
-              >Vortaro intuicia, horizonto internacia</url></vrk>
+          <vrk><url ref="&Monato;/2014/011278.php">Vortaro intuicia, horizonto
+          internacia</url></vrk>
           <lok>2014</lok>
         </fnt>;
       </ekz>
       <ekz>
-        agrabla, grafika kaj intua interfaco
+        agrabla, grafika kaj <tld var="u"/>a interfaco
         <fnt>
-          <vrk><url ref="https://lernu.net/fr/forumo/temo/24680/2">Linukso kaj Esperanto paralele</url></vrk>
+          <vrk><url ref="https://lernu.net/fr/forumo/temo/24680/2">Linukso kaj Esperanto
+          paralele</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Fajrfokso</nom> estas <klr>[&#8230;]</klr> rekodita por esti rapida, malpeza, intua kaj
+        <nom>Fajrfokso</nom> estas <klr>[&#x2026;]</klr> rekodita por esti rapida, malpeza, <tld var="u"/>a
+        kaj
         etendebla
         <fnt>
           <vrk><url ref="http://www.andywest.org/eo/esearo/fajrfokso/resumo.html">Fajrfokso</url></vrk>
@@ -155,16 +164,22 @@
     <trd>&ouml;szt&ouml;n&ouml;s</trd>
   </trdgrp>
   <trd lng="it">intuitivo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76F4;&#x611F;&#x7684;&#x306A;  [<ind>&#x3061;&#x3087;&#x3063;&#x304B;&#x3093;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x52D8;&#x306E;&#x92ED;&#x3044;  [<ind>&#x304B;&#x3093;&#x306E;&#x3059;&#x308B;&#x3069;&#x3044;</ind>]</trd>,
+    <trd>&#x76F4;&#x89B3;&#x7684;&#x306A;  [<ind>&#x3061;&#x3087;&#x3063;&#x304B;&#x3093;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">intu&iuml;tief</trd>
   <trd lng="pl">intuicyjny</trd>
   <trd lng="pt">intuitivo</trd>
   <trd lng="ru">
   &c_i;&c_n;&c_t;&c_u;&c_i;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+  <trd lng="uk">&c_ib;&#x43D;&c_t;&c_u;&c_ji;&c_t;&c_i;&c_v;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="intuic.0e">
   <kap>
-    <tld/>e, <var><kap>intue</kap></var>
+    <tld/>e, <var><kap><tld var="u"/>e</kap></var>
   </kap>
   <snc mrk="intuic.0e.instinkte">
     <dif>
@@ -175,25 +190,25 @@
       </ekz>
       <ekz>
         nur trovi&gcirc;is iu nekaptebla, <tld/>e atendata anta&ubreve;sento de io
-        <fnt>
+       <fnt>
+          <aut>Konstanten Krysakov</aut>
+          <vrk><url ref="&Monato;/2000/006805.php">Kota akvo</url></vrk>
           <bib>Monato</bib>
-          <aut>Geraldo Mattos</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006805.html"
-              >Kota Akvo: Konstanten Krysakov</url></vrk>
-        </fnt>;
+          <lok>2000/03, p. 28</lok>
+          </fnt>;
       </ekz>
       <ekz>
         li <tld/>e divenis, ke homaj ecoj ne povas esti egale fortaj
         <fnt>
           <bib>Monato</bib>
           <aut>Dmitrio Lytov</aut>
-          <vrk><url ref="https://www.monato.be/2003/008175.html"
-              >Novaj ideoj jungitaj al malnovaj teorioj</url></vrk>
+          <vrk><url ref="&Monato;/2003/008175.html">Novaj ideoj jungitaj al malnovaj
+          teorioj</url></vrk>
           <lok>2003</lok>
         </fnt>;
       </ekz>
       <ekz>
-        vizitante Sovetion en 1923, li intue sentas, ke la
+        vizitante Sovetion en 1923, li <tld var="u"/>e sentas, ke la
         revolucio fiaskos. Nur dek jarojn poste lian <tld/>on
         pravigas faktoj ka&scirc;itaj sed nekontesteblaj
         <fnt>
@@ -205,11 +220,16 @@
     </dif>
   </snc>
   <trd lng="de">intuitiv</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76F4;&#x89B3;&#x7684;&#x306B;  [<ind>&#x3061;&#x3087;&#x3063;&#x304B;&#x3093;&#x3066;&#x304D;&#x306B;</ind>]</trd>,
+    <trd>&#x76F4;&#x611F;&#x7684;&#x306B;  [<ind>&#x3061;&#x3087;&#x3063;&#x304B;&#x3093;&#x3066;&#x304D;&#x306B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_ib;&#x43D;&c_t;&c_u;&c_ji;&c_t;&c_i;&c_v;&#x43D;&#x43E;</trd>
 </drv>
 
 
 <drv mrk="intuic.0i">
-  <kap><tld/>i, <var><kap>intui</kap></var></kap>
+  <kap><tld/>i, <var><kap><tld var="u"/>i</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="intuic.0i.kompreni">
     <dif>
@@ -223,24 +243,25 @@
           <aut>Mauro Nervi</aut>:
           <vrk>Kafka en Prago. Kiel oni vivas en ka&gcirc;o sen
           kradoj</vrk>.
-          <lok><url ref="http://uea.org/kongresoj/1996/kafka.html">
+          <lok><url ref="&UEA;kongresoj/1996/kafka.html">
           IKU 1996, Prago</url></lok>
         </fnt>;
       </ekz><ekz>
-        <nom>Laura</nom> <tld/>as la veron: <klr>[&#8230;]</klr>
+        <nom>Laura </nom> <tld/>as la veron: <klr>[&#x2026;]</klr>
         <fnt>
           <aut>Trevor Steele</aut>:
           <vrk>
            <url ref="http://ourworld.compuserve.com/homepages/profcon/a_steele.htm">
-              Patrick White &#8208; Vivo kaj verko</url></vrk>
+              Patrick White &#x2010; Vivo kaj verko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        vi, kiuj amas la poezion <klr>[la&ubreve;]</klr> titolo de mia prelego, rapide intuas,
+        vi, kiuj amas la poezion <klr>[la&ubreve;]</klr> titolo de mia prelego, rapide <tld var="u"/>as,
         ke mi intencas paroladi pri <nom>Antonio Machado</nom>, unu el la plej elstaraj poetoj
         de nia epoko
         <fnt>
-          <vrk><url ref="https://sites.google.com/site/fratecoamb/prelegoj/2003---pri-antonio-machado">2000 - La poeto de la intimismaj kolokvoj - Antonio Marco Botella</url></vrk>
+          <vrk><url ref="https://sites.google.com/site/fratecoamb/prelegoj/2003---pri-antonio-machado">2000 -
+          La poeto de la intimismaj kolokvoj - Antonio Marco Botella</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -250,16 +271,36 @@
   <trd lng="cs">m&iacute;t intuici</trd>
   <trd lng="en">intuit</trd>
   <trd lng="it">intuire</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76F4;&#x89B3;&#x3059;&#x308B;  [<ind>&#x3061;&#x3087;&#x3063;&#x304B;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x76F4;&#x611F;&#x3059;&#x308B;  [<ind>&#x3061;&#x3087;&#x3063;&#x304B;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">intuir</trd>
   <trd lng="ru">&c_i;&c_n;&c_t;&c_u;&c_i;&c_t;&c_i;&c_v;&c_n;&c_o;
 &c_p;&c_o;&c_n;&c_ja;&c_t;&c_mol;</trd>
   <trd lng="sk">ma&tcaron; intu&iacute;ciu</trd>
+  <trd lng="uk">&c_s;&#x43F;&c_r;&c_i;&c_j;&#x43C;&c_a;&c_t;&c_i; &c_ib;&#x43D;&c_t;&c_u;&c_ji;&c_t;&c_i;&c_v;&#x43D;&#x43E;</trd>
 </drv>
 
 
 </art>
   <!--
   $Log$
+versio 1.27 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
+
+versio 1.26 2023/04/17 15:28:17
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.25 2022/11/11 18:40:30
+Wolfram Diestel: fnt PV
+
+versio 1.24 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2020/09/09 15:10:34
+Wolfram Diestel: +tld-var
+
   Revision 1.20  2015/07/04 08:37:36  revo
   aldono de trd cs per skripto de M. von Laer
 
@@ -267,49 +308,5 @@
   aldono de trd sk per skripto de M. von Laer
 
   Revision 1.18  2012/01/03 15:10:16  revo
-  Marc Rausell: +trd ca
-
-  Revision 1.17  2010/01/13 17:30:59  revo
-  Russ Williams: +trd en
-
-  Revision 1.16  2009/03/28 17:30:31  revo
-  Antonio Codazzi: +trd it
-
-  Revision 1.15  2008/03/10 17:30:14  revo
-  Wieland Pusch: +trd bg
-
-  Revision 1.14  2008/03/07 17:30:13  revo
-  Sebastian Cyprych: +trd pl
-
-  Revision 1.13  2005/12/06 17:32:06  revo
-  Luiz Portella: +trd pt
-
-  Revision 1.12  2005/03/28 17:16:12  revo
-  Sergio Pokrovskij: +~i
-
-  Revision 1.11  2005/03/20 17:51:37  revo
-  Sergio Pokrovskij: dif, +ekz
-
-  Revision 1.10  2004/09/06 16:36:42  revo
-  Marc Bavant: +trd fr
-
-  Revision 1.9 2004/03/30 16:32:37 revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.8 2004/02/16 20:48:32 revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.7 2003/04/08 16:33:10 revo
-  Alejandro Mejia Greene: ald 2 his trd
-
-  Revision 1.6 2001/11/11 19:22:19 revo
-  Paul Peeraerts: ald trd nl
-
-  Revision 1.5 2001/06/17 18:12:12 revo
-  Yury Finkel: +trd ru
-
-  Revision 1.4 2001/02/07 18:53:28 revo
-  Dennis Wibrow: +trd germ
-
-  -->
+-->
 </vortaro>

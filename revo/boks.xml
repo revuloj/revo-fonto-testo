@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: boks.xml,v 1.16 2009/03/20 17:30:26 revo Exp $">
+<art mrk="$Id: boks.xml,v 1.29 2023/08/31 08:48:52 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>boks</rad>/i <fnt><bib>PV</bib></fnt>
@@ -25,20 +24,28 @@
       </ekz> 
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_j;&c_m;&c_a;&c_c;&c_c;&c_a; <ind>&c_b;&c_o;&c_k;&c_s;&c_a;&c_m;</ind></trd>
+  </trdgrp>
   <trd lng="ca">boxar</trd>
   <trd lng="cs">boxovat</trd>
   <trd lng="de">boxen</trd>
   <trd lng="en">box</trd>
   <trd lng="es">boxear</trd>
   <trd lng="fr">boxer</trd>
+  <trd lng="he">&lamed;&he;&tav;&alef;&gimel;&resh;&fpe;</trd>
   <trd lng="hu">bokszol</trd>
   <trdgrp lng="it">
      <trd>boxare</trd>,
      <trd>pugilare</trd></trdgrp>
+  <trd lng="ja">&#x62F3;&#x95D8;&#x3059;&#x308B;  [<ind>&#x3051;&#x3093;&#x3068;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  <trd lng="nl">boksen</trd>
   <trd lng="pl">boksowa&cacute;</trd>
   <trd lng="ru">&c_b;&c_o;&c_k;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">boxova&tcaron;</trd>
   <trd lng="sv">boxas</trd>
+  <trd lng="uk">&c_b;&c_o;&c_k;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="boks.0o">
@@ -77,6 +84,7 @@
     <trd>pugilismo</trd>
   </trdgrp>
   <trd lng="fr">boxe <klr tip="ind">(sport)</klr></trd>
+  <trd lng="he">&alef;&#x5B4;&gimel;&resh;&vav;&#x5BC;&fpe;</trd>
   <trdgrp lng="hu">
      <trd>&ouml;k&ouml;lv&iacute;v&aacute;s</trd>,
      <trd>boksz</trd>
@@ -85,10 +93,16 @@
      <trd>boxe</trd>,
      <trd>pugilato</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x62F3;&#x95D8;  [<ind>&#x3051;&#x3093;&#x3068;&#x3046;</ind>]</trd>,
+    <trd>&#x30DC;&#x30AF;&#x30B7;&#x30F3;&#x30B0;  [<ind>&#x307C;&#x304F;&#x3057;&#x3093;&#x3050;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">boksen<klr> (de sport)</klr></trd>
   <trd lng="pl">boks</trd>
   <trd lng="ru">&c_b;&c_o;&c_k;&c_s;</trd>
   <trd lng="sk">box</trd>
   <trd lng="sv">boxning</trd>
+  <trd lng="uk">&c_b;&c_o;&c_k;&c_s;</trd>
 </drv>
 
 <drv mrk="boks.angla0o">
@@ -103,14 +117,23 @@
         Pa&ubreve;&ccirc;jo a&ubreve;skultis la unuan mallongan lekcion pri la angla <tld/>o
         <fnt>
           <aut>N. Ostrovskij, trad. S. Cins</aut>
-          <vrk><url
-          ref="http://www.elerno.cn/elibro/kiel_sxtalo_estas_hardata.pdf">
+          <vrk><url ref="http://www.elerno.cn/elibro/kiel_sxtalo_estas_hardata.pdf">
           Kiel &scirc;talo estis hardata</url></vrk>
           <lok>[1997]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_n;&c_g;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_ib; <ind>&c_b;&c_o;&c_k;&c_s;</ind></trd>
+  <trdgrp lng="de">
+    <trd>englisches Boxen</trd>,
+    <trd>Boxen <klr>(nach Queensberry-Regeln)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>English boxing</trd>,
+    <trd>Western boxing</trd>,
+    <trd>modern boxing <klr>(following the Queensbury Rules)</klr></trd>
+  </trdgrp>
   <trd lng="fr">boxe anglaise</trd>
 </drv>
 
@@ -127,12 +150,20 @@
         en kiuj la luktantoj kutime uzas &scirc;uojn
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/wiki/Franca_bokso">
+          <lok><url ref="&Viki;/Franca_bokso">
           Franca bokso</url>, 2015-11-21</lok>
         </fnt>.
       </ekz>
     </dif>
-  </snc>  
+  </snc>
+  <trd lng="be">&c_f;&c_r;&c_a;&c_n;&c_c;&c_u;&c_s;&c_k;&c_ib; <ind>&c_b;&c_o;&c_k;&c_s;</ind></trd>
+  <trd lng="de">Savate <klr>(franz&ouml;sischer Kampfsport)</klr></trd>
+  <trdgrp lng="en">
+    <trd>savate</trd>,
+    <trd>savate boxing</trd>,
+    <trd>French boxing</trd>,
+    <trd>French footfighting</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>boxe fran&ccedil;aise</trd>,
     <trd>savate<klr> (boxe fran&ccedil;aise)</klr></trd>
@@ -153,17 +184,38 @@
         pro sia intenseco kaj rigoreco
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/wiki/Taja_bokso">
+          <lok><url ref="&Viki;/Taja_bokso">
           Taja bokso</url>, 2015-11-21</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_a;&c_j;&c_s;&c_k;&c_ib; <ind>&c_b;&c_o;&c_k;&c_s;</ind></trd>
+  <trdgrp lng="de">
+    <trd>Thaiboxen</trd>,
+    <trd>Muay Thai</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Thai boxing</trd>,
+    <trd>Muay Thai</trd>
+  </trdgrp>
   <trd lng="fr">boxe tha&iuml;e</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/05/27 11:21:19
+Paul Peeraerts:  + trd nl
+
+versio 1.27 2023/05/21 12:38:49
+Christian Siefkes: +trd de, en
+
+versio 1.26 2023/05/15 07:26:21
+Dmitri Gabinski: + trd be
+
+versio 1.25 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.21  2017/06/14 17:10:13  revo
 Ludoviko Francisco: +ekz
 
@@ -174,14 +226,5 @@ Revision 1.19  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.18  2015/06/29 16:29:35  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.17  2012/08/01 09:10:37  revo
-Marc Rausell: + trd ca
-
-Revision 1.16  2009/03/20 17:30:26  revo
-Antonio Codazzi: +trd it
-
-Revision 1.15  2009/03/18 17:32:40  revo
 -->
 </vortaro>

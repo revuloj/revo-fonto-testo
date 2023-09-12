@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ombr.xml,v 1.24 2010/10/11 16:30:18 revo Exp $">
+<art mrk="$Id: ombr.xml,v 1.39 2023/09/03 07:12:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ombr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,7 +29,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la <tld/>o movi&gcirc;adis, <klr>[&#8230;]</klr> ka&ubreve;zata de 
+        la <tld/>o movi&gcirc;adis, <klr>[&#x2026;]</klr> ka&ubreve;zata de 
         la neregula movi&gcirc;ado de la kandela flamo
         <fnt>
           <bib>Fab2</bib>
@@ -108,14 +107,16 @@
       a&ubreve; kredita kiel <ref cel="fantom.0o">fantoma</ref>
       reala&jcirc;o:
       <ekz>
-        kiam la homo mortas, lia <tld/>o vivas kaj sin montras al la homoj
+        kiam la homo mortas, lia <tld/>o vivas kaj sin montras al la
+        homoj
         <fnt>
           <bib>Far2</bib>
           <lok>&Ccirc;apitro XXII</lok>
         </fnt>;
       </ekz>
       <ekz>
-        mi foriros senrevene en la landon de mallumo kaj de morta <tld/>o  
+        mi foriros senrevene en la landon de mallumo kaj de morta
+        <tld/>o  
         <fnt>
           <bib>MT</bib>
           <lok>Ijob 10:21</lok>
@@ -125,7 +126,8 @@
         &scirc;ia <tld/>o &scirc;ajnis klini sin al mia lito;
       </ekz>
       <ekz>
-        en noktomeza silentego aperas anta&ubreve; ili ia <tld/>o simila tute al la patro via
+        en noktomeza silentego aperas anta&ubreve; ili ia <tld/>o simila tute
+        al la patro via
         <fnt>
           <bib>Hamlet</bib>
         </fnt>;
@@ -139,7 +141,8 @@
         kamaradoj
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en
+          la 11a de a&ubreve;gusto 1912</vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -239,10 +242,24 @@
     <trd><ind>bayang</ind>an</trd>,
     <trd><ind>bayang</ind>-bayang</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9670;  [<ind>&#x307B;&#x3068;</ind>]</trd>,
+    <trd>&#x65E5;&#x9670;  [<ind>&#x3072;&#x304B;&#x3052;</ind>]</trd>,
+    <trd>&#x5F71;  [<ind>&#x304B;&#x3052;</ind>]</trd>,
+    <trd>&#x5F71;&#x6CD5;&#x5E2B;  [<ind>&#x304B;&#x3052;&#x307C;&#x3046;&#x3057;</ind>]</trd>,
+    <trd>&#x9670;&#x5F71;  [<ind>&#x3044;&#x3093;&#x3048;&#x3044;</ind>]</trd>,
+    <trd>&#x6697;&#x90E8;  [<ind>&#x3042;&#x3093;&#x3076;</ind>]</trd>,
+    <trd>&#x95C7;  [<ind>&#x3084;&#x307F;</ind>]</trd>,
+    <trd>&#x304B;&#x3052;&#x308A;</trd>,
+    <trd>&#x4EA1;&#x970A;  [<ind>&#x307C;&#x3046;&#x308C;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">schaduw</trd>
+  <trd lng="pl">cie&nacute;</trd>
   <trd lng="pt">sombra</trd>
+  <trd lng="ro">umbr&abreve;</trd>
   <trd lng="ru">&c_t;&c_je;&c_n;&c_mol;</trd>
   <trd lng="sv">skugga</trd>
+  <trd lng="uk">&c_t;&c_ib;&#x43D;&#x44C;</trd>
 </drv>
 
 <drv mrk="ombr.0a">
@@ -269,7 +286,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        li eniris en la <tld/>oplenan &gcirc;ardenon kaj malaperis inter la arboj
+        li eniris en la <tld/>oplenan &gcirc;ardenon kaj malaperis inter la
+        arboj
         <fnt>
           <bib>IK</bib>
         </fnt>;
@@ -301,12 +319,19 @@
     <trd>&aacute;rnyas</trd>
   </trdgrp>
   <trd lng="id">teduh</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F71;&#x306E;&#x3042;&#x308B;  [<ind>&#x304B;&#x3052;&#x306E;&#x3042;&#x308B;</ind>]</trd>,
+    <trd>&#x65E5;&#x306E;&#x5F53;&#x305F;&#x3089;&#x306A;&#x3044;  [<ind>&#x306B;&#x3061;&#x306E;&#x3042;&#x305F;&#x3089;&#x306A;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">schaduwrijk</trd>
+  <trd lng="pl">cienisty</trd>
+  <trd lng="ro">umbrit&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_je;&c_n;&c_je;&c_v;&c_o;&c_j;</trd>,
     <trd>&c_t;&c_je;&c_n;&c_i;&c_s;&c_t;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sv">skuggig</trd>
+  <trd lng="uk">&c_t;&c_ib;&#x43D;&c_i;&c_s;&c_t;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="ombr.0i">
@@ -316,13 +341,15 @@
     <dif>
       &Jcirc;eti <tld/>on sur ion:
       <ekz>
-        kiu plantis anta&ubreve; la domo la belajn kreska&jcirc;ojn, kiuj tiel pentrinde &gcirc;in <tld/>as?
+        kiu plantis anta&ubreve; la domo la belajn kreska&jcirc;ojn, kiuj tiel
+        pentrinde &gcirc;in <tld/>as?
         <fnt>
           <bib>IK</bib>
         </fnt>;
       </ekz>
       <ekz>
-        unu arbeta&jcirc;o de tiu &ccirc;i kreska&jcirc;o <tld/>as la spacon de tri kvadrataj metroj
+        unu arbeta&jcirc;o de tiu &ccirc;i kreska&jcirc;o <tld/>as la spacon de tri
+        kvadrataj metroj
         <fnt>
           <bib>FK</bib>
         </fnt>;
@@ -334,7 +361,9 @@
         </fnt>;
       </ekz>
       <ekz>
-        Atrejo <tld/>is sian viza&gcirc;on per la mano kaj ekvidis je proksimuma distanco de duono de mejlo neregule formitan &scirc;tonpordegon
+        Atrejo <tld/>is sian viza&gcirc;on per la mano kaj ekvidis je
+        proksimuma distanco de duono de mejlo neregule formitan
+        &scirc;tonpordegon
         <fnt>
           <aut>Michael Ende, trad. Wolfram Diestel</aut>
           <vrk>La Sen&ccirc;esa Rakonto</vrk>
@@ -366,17 +395,34 @@
     <trd>&aacute;rny&eacute;kol</trd>,
     <trd>be&aacute;rny&eacute;kol</trd>
   </trdgrp>
-  <trdgrp lng="id">
-    <trd>[<ind>naung</ind>] menaungi</trd>,
-    <trd>[<ind>payung</ind>] memayungi</trd>
+  <trd lng="id">me<ind>naung</ind>i</trd>
+  <trd lng="id"><baz>payung</baz>memayungi</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F71;&#x3092;&#x843D;&#x3068;&#x3059;  [<ind>&#x304B;&#x3052;&#x3092;&#x304A;&#x3068;&#x3059;</ind>]</trd>,
+    <trd>&#x9670;&#x3089;&#x3059;  [<ind>&#x304B;&#x3052;&#x3089;&#x3059;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">beschaduwen</trd>
+  <trdgrp lng="pl">
+    <trd>rzuca&cacute;  <ind>cie&nacute;</ind></trd>,
+    <trd>zacienia&cacute;</trd>,
+    <trd>zaciemnia&cacute;</trd>
+  </trdgrp> 
   <trd lng="pt">sombrear</trd>
+  <trdgrp lng="ro">
+    <trd>arunc&abreve; o  <ind>umbr&abreve;</ind></trd>,
+    <trd>adumbri</trd>,
+    <trd>&icirc;ntuneca</trd>
+  </trdgrp> 
   <trdgrp lng="ru">
     <trd>&c_b;&c_r;&c_o;&c_s;&c_a;&c_t;&c_mol; <ind>&c_t;&c_je;&c_n;&c_mol;</ind></trd>,
     <trd>&c_z;&c_a;&c_t;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sv">skugga</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_i;&c_d;&c_a;&c_t;&c_i; &c_t;&c_ib;&#x43D;&#x44C;</trd>,
+    <trd>&c_z;&c_a;&c_t;&c_ib;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_t;&c_ib;&#x43D;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ombr.0ajxo">
@@ -389,7 +435,8 @@
         promeni sub densaj <tld/>a&jcirc;oj;
       </ekz>
       <ekz>
-        sa&gcirc;a dervi&scirc;o kiu pasis multe da tempo sub la <tld/>a&jcirc;o de loka arbo kaj poste estis entombigita apud &gcirc;i
+        sa&gcirc;a dervi&scirc;o kiu pasis multe da tempo sub la <tld/>a&jcirc;o de loka
+        arbo kaj poste estis entombigita apud &gcirc;i
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=383818">Aleksandropolo</url></lok>
@@ -411,6 +458,8 @@
   <trd lng="fr">ombrage</trd>
   <trd lng="hu">&aacute;rny&eacute;kos hely</trd>  
   <trd lng="nl">schaduwrijke plek</trd>
+  <trd lng="pl">ch&lstroke;odnik  <klr>(miejsce ocienione)</klr></trd>
+  <trd lng="ro">loc  <ind>umbrit</ind></trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_je;&c_n;&c_mol;</trd>,
     <trd>&c_t;&c_je;&c_n;&c_i;&c_s;&c_t;&c_o;&c_je; &c_m;&c_je;&c_s;&c_t;&c_o;</trd>
@@ -448,13 +497,20 @@
     <trd>&aacute;rny&eacute;kba borul</trd>,
     <trd>be&aacute;rny&eacute;kol&oacute;dik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#x3052;&#x308B;</trd>,
+    <trd>&#x9670;&#x306B;&#x306A;&#x308B;  [<ind>&#x3044;&#x3093;&#x306B;&#x306A;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">overschaduwd worden</trd>
+  <trd lng="pl">zciemnie&cacute;</trd>
   <trd lng="pt">sombrear</trd>
+  <trd lng="ro">&icirc;ntunecat&abreve;</trd>
   <trdgrp lng="sv">
     <trd>skuggas</trd>,
     <trd>f&ouml;rm&ouml;rkas</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_k;&c_r;&c_y;&c_t;&c_mol;&c_s;&c_ja; &c_t;&c_je;&c_n;&c_mol;&c_ju;</trd>
+  <trd lng="uk">&#x43F;&#x43E;&#x43A;&c_r;&c_i;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F; &c_t;&c_ib;&#x43D;&#x43D;&#x44E;</trd>
 </drv>
 
 <drv mrk="ombr.0umi">
@@ -465,16 +521,18 @@
     <dif>
       Malheligi, obtuzigi:
       <ekz>
-        somero de l' amo min premas sur vojo, sen via <tld/>umo mi mortus sen &gcirc;ojo
+        somero de l' amo min premas sur vojo, sen via <tld/>umo mi
+        mortus sen &gcirc;ojo
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga
+          Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="fak">MUZ</uzo>
         kvankam Mercury la&ubreve;nature estis tenoro, li scipovis multmaniere
-        <tld/>umi la diversajn registrojn de sia 3½-oktavo-vo&ccirc;o
+        <tld/>umi la diversajn registrojn de sia 3&#xBD;-oktavo-vo&ccirc;o
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=141581">Falseto</url></lok>
@@ -489,6 +547,7 @@
       Marki per strekoj a&ubreve; koloriloj, kiuj prezentas <tld/>ojn en
       desegno a&ubreve; pentra&jcirc;o.
     </dif>
+    <ref tip="vid" cel="hacx.0i">ha&ccirc;i</ref>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_c;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>,
@@ -498,11 +557,21 @@
   <trd lng="de">schattieren</trd>
   <trd lng="fr">ombrer</trd>
   <trd lng="hu">sat&iacute;roz</trd>  
+  <trd lng="ja">&#x9670;&#x5F71;&#x3092;&#x4ED8;&#x3051;&#x308B;  [<ind>&#x3044;&#x3093;&#x3048;&#x3044;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>
   <trd lng="nl">schaduwen<klr tip="ind"> (v.tekening)</klr></trd>
+  <trd lng="pl">cieniowa&cacute;</trd>
   <trd lng="pt">sombrear</trd>
+  <trd lng="ro">umbr&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_t;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_o;&c_t;&c_t;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_t;&c_i; &c_t;&c_ib;&#x43D;&c_ib;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_t;&c_ib;&#x43D;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_t;&c_ib;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_t;&c_u;&c_sh;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&c_t;&c_r;&c_i;&c_h;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43C;&c_a;&#x43B;&#x44E;&#x43D;&#x43E;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -514,9 +583,12 @@
     <dif>
       <ref tip="vid" cel="teatr.ombro0o.TEA">Ombroteatro</ref>:
       <ekz>
-        oni tradicie kredas <tld/>oludon origina de &Ccirc;inio (en multaj lingvoj,
-        &gcirc;i estas kromnomata &leftquot;&ccirc;inaj <tld/>oj&rightquot;, pli ver&scirc;ajne &gcirc;i aperis en insulo Javo, 
-        &ccirc;irka&ubreve; 5 000 a.k., a&ubreve; Barato, el kie &gcirc;i disvasti&gcirc;is en Sud-Orientan Azion
+        oni tradicie kredas <tld/>oludon origina de &Ccirc;inio (en multaj
+        lingvoj,
+        &gcirc;i estas kromnomata &leftquot;&ccirc;inaj <tld/>oj&rightquot;, pli ver&scirc;ajne &gcirc;i aperis en
+        insulo Javo, 
+        &ccirc;irka&ubreve; 5 000 a.k., a&ubreve; Barato, el kie &gcirc;i disvasti&gcirc;is en
+        Sud-Orientan Azion
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=298505">Ombroludo</url></lok>
@@ -533,20 +605,40 @@
         </fnt>;
       </ekz>
       <ekz>
-        la feino riverencas, kun &ccirc;inaj <tld/>oj sur la muro, la infano estas ravita kaj apla&ubreve;das
+        la feino riverencas, kun &ccirc;inaj <tld/>oj sur la muro, la infano
+        estas ravita kaj apla&ubreve;das
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=263146">Ballade de la f&eacute;conductrice (filmo)</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=263146">Ballade
+          de la f&eacute;conductrice (filmo)</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Schattentheater</trd>
   </snc>
+  <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_a;&c_r; &c_c;&c_je;&c_n;&c_ja;&c_w;</trd>
   <trd lng="fr">ombres chinoises</trd>
+  <trd lng="pl">chi&nacute;skie  <ind>cienie</ind>  <klr>(teatr cieni)</klr></trd>
+  <trd lng="ro">umbre chineze&#x219;ti   <klr>(teatru de umbre)</klr></trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.38 2022/12/26 08:33:05
+Dmitri Gabinski: + trd be
+
+versio 1.37 2022/05/01 17:17:00
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.35 2021/12/31 21:28:32
+Vito Redsky: + trd pl + trd ro
+
+versio 1.34 2021/08/11 11:26:25
+Wolfram Diestel: +ref
+
+versio 1.33 2020/05/04 11:10:25
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.31  2018/01/19 08:10:13  revo
 Wolfram Diestel: pliaj ekz-oj
 
@@ -554,17 +646,5 @@ Revision 1.30  2018/01/18 19:10:15  revo
 Wolfram Diestel: aldonis kelkajn fnt-ojn
 
 Revision 1.29  2017/10/06 08:10:13  revo
-Jeromo Vasxe: kor ekz
-
-Revision 1.28  2017/10/04 09:10:15  revo
-Jeromo Vasxe: ~o snc/subsnc, memstar hxinaj -> cxinaj ombroj
-
-Revision 1.27  2016/06/24 22:10:23  revo
-Jeromo Vasxe: eatas -> estas, malkontenco -> malkontenteco
-
-Revision 1.26  2014/07/06 16:10:25  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.25  2012/10/23 00:13:13  revo
 -->
 </vortaro>

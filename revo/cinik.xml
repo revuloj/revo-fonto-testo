@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cinik.xml,v 1.20 2009/08/14 16:30:33 revo Exp $">
+<art mrk="$Id: cinik.xml,v 1.32 2023/08/31 10:10:27 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>cinik</rad>/a <fnt><bib>PV</bib></fnt>
@@ -16,30 +15,102 @@
       Rilata al antikva skolo de filozofoj (<tld/>ismo), kiuj afekte
       mal&scirc;atis la komforton kaj sociajn decregulojn:
       <ekz>
-        <tld/>a doktrino, filozofo.
+        do, vi sekvas <tld/>ajn doktrinojn, la&ubreve; kiu sa&gcirc;ulo restu super la tuta mondo,
+        moraloj kaj le&gcirc;oj, malestimu la devigan perforton, subpremon, same kiel la
+        limigitajn &gcirc;ojojn de vivo
+        <fnt>
+          <bib>SatirRak</bib>
+          <lok>Pythagoras</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <trd
-    lng="bg">&c_k;&c_i;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_je;&c_n;</trd>
+    <trd lng="bg">&c_k;&c_i;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_je;&c_n;</trd>
     <trd lng="de">kynisch</trd>
-    <trd
-    lng="ru">&c_k;&c_i;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+    <trd lng="ru">&c_k;&c_i;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
   </snc>
   <snc mrk="cinik.0a.KOMUNE">
     <uzo tip="stl">KOMUNE</uzo>
     <dif>
-      Senhonte maldeca; senhontega; montranta indiferentecon kaj
-      mal&scirc;aton por &ccirc;iu ajn nobla&jcirc;o:
+      Senhonte maldeca; <ref tip="super" cel="hont.sen0a">senhontega</ref>; 
+      montranta indiferentecon kaj mal&scirc;aton por &ccirc;iu ajn nobla&jcirc;o:
       <ekz>
         <tld/>a parolo, konduto;
-      </ekz><ekz>
-        afekti <ind><tld/>ismo</ind>n;
-      </ekz><ekz>
-        la <ind><tld/>eco</ind> de tiu propono &scirc;okis
-        &ccirc;iujn.
+      </ekz>
+      <ekz>
+        &scirc;i sendis al mi rideton, kiun mi trovis rabema kaj <tld/>a
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Bol&ccirc;jo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sento, kiu lin turmentis kaj kolerigis kaj kiun li tuj neus kun malestima rido
+        kaj <tld/>a insulto, se iu farus e&ccirc; plej malgrandan aludon
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        frivola kaj ofte malkonvena konduto <klr>[&#x2026;]</klr> kaj preska&ubreve; <tld/>a
+        amindumado al &scirc;i de du viroj na&ubreve;zis &scirc;in
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi konsterni&gcirc;is pro la a&ubreve;daco, ke li povas senkonscience kaj <tld/>e kalumnii
+        nian socion per la kulpoj de ilia socio
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Oka &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Vi tiel do en trinkbutik' &#x2AFD; La rolon ludas kun cinik' &#x2AFD; De farizeo en la templo,
+        &#x2AFD; Kaj des pli mi malamas vin
+        <fnt>
+          <bib>LSB</bib>
+          <lok>Kremkaful'!</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a makiavelismo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jomo Ipfelkofer</aut>
+          <vrk><url ref="&Monato;/2005/008677.php">Frato Pa&ubreve;lo: pacamanto</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e cianide
+        <fnt><aut>Katalin Smid&eacute;liusz</aut>: 
+          <vrk><url ref="&Monato;/2000/006912.php">Cinike cianide -- &ccirc;u respondecas
+          Okcidento?</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/04, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili maltrankvili&gcirc;as pri la <ind><tld/>eco</ind> de la registaro, kiu senka&scirc;e protektas
+        kompaniojn kaj ilin privatigas per rusa kapitalo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>last/pg</aut>
+          <vrk><url ref="&Monato;/2006/008808.php">&Scirc;erci serioze</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+        <trd lng="de">Zynismus</trd>
         <trd lng="fr">cynisme</trd>
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="amar.0a.sento">amara<sncref/></ref>,
+      <ref cel="indife.0a.iu">indiferenta</ref>,
+      <ref cel="iluzi.sen0a">seniluzia</ref>
+    </refgrp>
     <trd lng="bg">&c_c;&c_i;&c_n;&c_i;&c_ch;&c_je;&c_n;</trd>
     <trd lng="de">zynisch</trd>
     <trd lng="pl">cyniczny</trd>
@@ -51,13 +122,18 @@
     <trd>cynick&yacute;</trd>,
     <trd>kynick&yacute;</trd>
   </trdgrp>
-  <trd
-  lng="el">&kappa;&ypsilon_ton;&ny;&jota;&kappa;&omikron;&sigma_fina;</trd>
+  <trd lng="el">&kappa;&ypsilon_ton;&ny;&jota;&kappa;&omikron;&sigma_fina;</trd>
   <trd lng="en">cynical</trd>
   <trd lng="es">c&iacute;nico</trd>
   <trd lng="fr">cynique <klr tip="ind">(adj.)</klr></trd>
+  <trd lng="he">&tsadi;&#x5B4;&yod;&nun;&#x5B4;&yod;</trd>
   <trd lng="hu">cinikus</trd>
   <trd lng="it">cinico<klr> (agg.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x51B7;&#x7B11;&#x7684;&#x306A;  [<ind>&#x308C;&#x3044;&#x3057;&#x3087;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x4E16;&#x3092;&#x3059;&#x306D;&#x305F;  [<ind>&#x3088;&#x3092;&#x3059;&#x306D;&#x305F;</ind>]</trd>,
+    <trd>&#x72AC;&#x5112;&#x5B66;&#x6D3E;&#x306E;  [<ind>&#x3044;&#x306C;&#x3058;&#x3085;&#x304C;&#x304F;&#x306F;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">cynisch</trd>
   <trd lng="pt">c&iacute;nico</trd>
   <trdgrp lng="sk">
@@ -65,7 +141,41 @@
     <trd>bezoh&lcaron;adn&yacute;</trd>,
     <trd>cynick&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&c_c;&c_i;&c_n;&c_ib;&c_ch;&c_n;&c_i;&c_j;</trd>
 </drv>
+
+<drv mrk="cinik.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="cinik.0o.eco">
+    <dif>
+      <tld/>eco.
+    </dif>
+  </snc>
+  <snc mrk="cinik.0o.ulo">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <tld/>ulo:
+      <ekz>
+        mi estas <tld/>o, sinjoro, &ccirc;ar mi havas truitan mantelon, mi estas stoiko, &ccirc;ar
+        mi elportas pacience mizeron, kaj mi estas peripatetiko, &ccirc;ar, ne posedante
+        portilon, mi piediras de vinejo al vinejo kaj envoje instruas
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <!-- ne traduku EVI -->
+  </snc>
+</drv>
+
+
+
+
+
+
 
 <drv mrk="cinik.0ismo">
   <kap><tld/>ismo</kap>
@@ -85,13 +195,28 @@
     <uzo tip="stl">KOMUNE</uzo>
     <dif>
       Senhonte kaj arogante neglekta, nihilisma rilato al io,
-      precipe moralo, kulturo, socio.
+      precipe moralo, kulturo, socio:
+      <ekz>
+        kia monstrino ci estas do? min teruras tiuj malka&scirc;oj, kies <tld/>ismon ci ne
+        &scirc;ajnas konjekti
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        min konsternis la senkora <tld/>ismo, ke ankora&ubreve; nun li havas emon fari
+        senspritan &scirc;ercon pri sia homfrato, peteganta pri sia vivo
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekkvina &Ccirc;apitro</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="be">&c_c;&c_y;&c_n;&c_ib;&c_z;&c_m;</trd>
     <trd lng="bg">&c_c;&c_i;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
     <trd lng="de">Zynismus</trd>
-    <trd
-    lng="el">&kappa;&ypsilon;&ny;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
+    <trd lng="el">&kappa;&ypsilon;&ny;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
     <trd lng="it">cinismo</trd>
     <trd lng="nl">cynisme</trd>
     <trd lng="pl">cynizm</trd>
@@ -103,6 +228,11 @@
   <trd lng="en">cynicism</trd>
   <trd lng="es">cinismo</trd>
   <trd lng="fr">cynisme</trd>
+  <trd lng="he">&tsadi;&#x5B4;&yod;&nun;&#x5B4;&yod;&vav;&#x5BC;&tav;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76AE;&#x8089;  [<ind>&#x3072;&#x306B;&#x304F;</ind>]</trd>,
+    <trd>&#x72AC;&#x5112;&#x54F2;&#x5B66;  [<ind>&#x3044;&#x306C;&#x5112;&#x3066;&#x3064;&#x304C;&#x304F;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cinik.0isto">
@@ -118,6 +248,7 @@
   </snc>
   <trd lng="bg">&c_k;&c_i;&c_n;&c_i;&c_k;</trd>
   <trd lng="ca">c&iacute;nic<klr> (subst. filos.)</klr></trd>
+  <trd lng="de">Kyniker</trd>
   <trd lng="en">cynic</trd>
   <trd lng="fr">cynique <klr tip="ind">(subst., phil.)</klr></trd>
   <trd lng="hu">cinikus</trd>
@@ -130,7 +261,22 @@
   <kap><tld/>ulo</kap>
   <snc mrk="cinik.0ulo.KOMUNE">
     <dif>
-        <tld lit="C"/>a homo.
+      <tld lit="C"/>a homo:
+      <ekz>
+        li a&ubreve;dis la <tld/>ulon nomi lin la plej senespera idioto, la plej molkapa
+        kredemulo
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li opiniis lin fierulo, brava&ccirc;ulo, <tld/>ulo, plebano
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>X</lok>
+        </fnt>;
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_c;&c_y;&c_n;&c_ib;&c_k;</trd>
@@ -143,8 +289,14 @@
   </trdgrp>
   <trd lng="en">cynic</trd>
   <trd lng="fr">cynique <klr tip="ind">(personne)</klr></trd>
+  <trd lng="he">&tsadi;&#x5B4;&yod;&nun;&#x5B4;&yod;&qof;&#x5B8;&fnun;</trd>
   <trd lng="hu">cinikus ember</trd>
   <trd lng="it">cinico<klr> (sost.- comun.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x76AE;&#x8089;&#x5C4B;  [<ind>&#x3072;&#x306B;&#x304F;&#x3084;</ind>]</trd>,
+    <trd>&#x4E16;&#x3092;&#x3059;&#x306D;&#x305F;&#x4EBA;  [<ind>&#x3088;&#x3092;&#x3059;&#x306D;&#x305F;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x72AC;&#x5112;&#x5B66;&#x6D3E;&#x306E;&#x4EBA;  [<ind>&#x3044;&#x306C;&#x3058;&#x3085;&#x304C;&#x304F;&#x306F;&#x306E;&#x3058;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">cynicus</trd>
   <trd lng="pl">cynik</trd>
   <trd lng="pt">c&iacute;nico</trd>
@@ -153,10 +305,20 @@
     <trd>bezcitn&iacute;k</trd>,
     <trd>cynik</trd>
   </trdgrp>
+  <trd lng="uk">&c_c;&c_i;&c_n;&c_ib;&c_k;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.31 2023/04/19 11:23:47
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.30 2023/04/11 05:36:21
+aktualigo Monato-URL
+
+versio 1.29 2023/02/27 07:25:01
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
 Revision 1.25  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -170,11 +332,5 @@ Revision 1.22  2013/11/22 02:10:15  revo
 Jeromo Vasxe: + mrk
 
 Revision 1.21  2012/08/26 20:10:10  revo
-Marc Rausell: + trd ca
-
-Revision 1.20  2009/08/14 16:30:33  revo
-Antonio Codazzi: +trd it
-
-Revision 1.19  2009/04/17 19:49:51  revo
 -->
 </vortaro>

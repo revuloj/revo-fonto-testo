@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: atest.xml,v 1.22 2009/09/05 16:30:33 revo Exp $">
+<art mrk="$Id: atest.xml,v 1.45 2023/08/30 18:23:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>atest</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,11 +12,34 @@
   <snc mrk="atest.0i.JUR">
     <uzo tip="fak">JUR</uzo>
     <dif>
-      Certigi fakton, kiel vidinto, a&ubreve;dinto a&ubreve; eksciinto:
+      <ref tip="super" cel="cert.0igi.aserti">Certigi</ref>
+      fakton, kiel vidinto, a&ubreve;dinto a&ubreve; eksciinto:
       <ekz>
-        <tld/>i la senkulpecon de la akuzito.
+        <tld/>i la senkulpecon de la akuzito;
+      </ekz><ekz>
+        via bu&scirc;o <tld/>as kontra&ubreve; vi per tio, ke vi diris: mi mortigis <klr>[&#x2026;]</klr>
+        <fnt><bib>MT</bib> <lok>&Sa2; 1:16</lok></fnt>;
+      </ekz><ekz>
+        la signoj de iliaj viza&gcirc;oj <tld/>is kontra&ubreve; ili
+        <fnt><bib>MT</bib> <lok>&Jes; 3:9</lok></fnt>;
+      </ekz><ekz>
+        multaj malvere <tld/>is kontra&ubreve; li, kaj iliaj <tld/>oj ne akordi&gcirc;is
+        <fnt>
+          <bib>NT</bib>
+          <lok>Marko 14:56</lok>
+        </fnt>;
+      </ekz><ekz>
+        multnombra parencaro <tld/>is pri lia &ccirc;eesto tie
+        <fnt><bib>ChB</bib></fnt>;
+      </ekz><ekz>
+        mi povus <tld/>i, ke la ambasadoro mensogas
+        <fnt><bib>ChM</bib></fnt>;
+      </ekz><ekz>
+        Dio povas <tld/>i, ke mi miaflanke enportis en tion ne pli da laboro, ol kiom mi
+        la&ubreve; mia malforta povo devis fari
+        <fnt><bib>Fab3</bib> <lok>Lino</lok></fnt>.
       </ekz>
-    </dif>
+   </dif>
    <trdgrp lng="it">
     <trd>deporre</trd>,
     <trd>testimoniare</trd>
@@ -29,17 +51,38 @@
   </snc>
   <snc mrk="atest.0i.KOMUNE">
     <dif>
-      Pruvi, montri:
+      <ref cel="pruv.0i.KOMUNE_io">Pruvi</ref>, <ref cel="montr.0i.konigi">montri</ref>:
       <ekz>
-        via hezito <tld/>as, ke vi mensogas;
+        &ccirc;io <tld/>is pri bonhaveco kaj bona gusto
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
+      </ekz><ekz>
+        atesti, surbaze de rigora ekzameno, la kapablon instrui Esperanton je supera
+        nivelo
+        <fnt><bib>EeP</bib></fnt>;
+      </ekz><ekz>
+        la petanto gluas la marketon sur la leteron kaj tiamaniere <tld/>as sian
+        membrecon
+        <fnt><bib>EeP</bib></fnt>;
+      </ekz><ekz>
+        <nom>Faust</nom> devas esti juna, &ccirc;ar tion postulas la spektaklo, kaj devas esti maljuna,
+        &ccirc;ar tion <tld/>as la teksto de la monologo
+        <fnt><bib>KFl</bib></fnt>;
+      </ekz><ekz>
+        &ccirc;i tiuj eventoj <tld/>is pri avanco de magmo al la supra&jcirc;o kaj pri ebla balda&ubreve;a
+        erupcio
+        <fnt><bib>Kon11</bib></fnt>;
+      </ekz><ekz>
+        griza barbo sa&gcirc;on ne <tld/>as
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
-      <ekz>
-        per tia ago vi <tld/>is vian perfidon;
-      </ekz>
-      <ekz>
-        griza barbo sa&gcirc;on ne <tld/>as<fnt><bib>PrV</bib></fnt>.
-      </ekz>
-    </dif>
+   </dif>
+    <refgrp tip="vid">
+      <ref cel="manife.0i">manifesti</ref>
+    </refgrp>
+   <trd lng="de">zeugen<klr> (von)</klr></trd>
    <trdgrp lng="it">
     <trd>certificare</trd>,
     <trd>attestare</trd>
@@ -83,6 +126,10 @@
     <trd>tan&uacute;s&iacute;t</trd>,
     <trd>igazol</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A3C;&#x8A00;&#x3059;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3052;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8A3C;&#x660E;&#x3059;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>getuigen</trd>,
     <trd>attesteren</trd>
@@ -97,6 +144,11 @@
     <trd>sved&ccaron;i&tcaron;</trd>,
     <trd>testova&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_v;&c_ib;&c_d;&c_ch;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_s;&c_v;&c_ib;&c_d;&c_ch;&c_je;&c_n;&c_n;&c_ja; (&c_a;&c_b;&c_o;&nbsp;&c_p;&c_o;&c_k;&c_a;&c_z;&c_i;)</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_v;&c_ib;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atest.0o">
@@ -105,22 +157,30 @@
     <dif>
       Ago, vortoj, dokumento, per kio oni <tld/>as ion:
       <ekz>
-        alvoki la <tld/>on de &ccirc;iuj, kiuj partoprenis<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        fari &ccirc;e la ju&gcirc;ejo sensacian <tld/>on;
-      </ekz>
-      <ekz>
-        <tld/>o pri kapableco, pri bona konduto;
-      </ekz>
-      <ekz>
-        ricev<tld/>o;
-      </ekz>
-      <ekz>
-        unua <tld/>o estas la vesto<fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
-        la statistikoj liveras pri tio elokventan <tld/>on.
+        ni faru interligon, mi kaj vi, kaj &gcirc;i estu <tld/>o inter mi kaj vi
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 31:44</lok>
+        </fnt>;
+      </ekz><ekz>
+        ne parolu kontra&ubreve; via proksimulo malveran <tld/>on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 20:16</lok>
+        </fnt>;
+      </ekz><ekz>
+        Franca Esperanto-Instituto <klr>[&#x2026;]</klr> liveras kvin kategoriojn de <tld/>oj,
+        de elementa grado &gcirc;is diplomo
+        <fnt><bib>EeP</bib></fnt>;
+      </ekz><ekz>
+        &ccirc;ies <tld/>oj akordis, kio estas malofta&jcirc;o en policaj esploroj
+        <fnt><bib>ChB</bib></fnt>;
+      </ekz><ekz>
+        unua <tld/>o estas la vesto
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        sendemanda ekprotesto estas ofte kulp<tld/>o
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -133,7 +193,10 @@
     <trd>vysv&ecaron;d&ccaron;en&iacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>Zeugnis</trd>, <trd>Urkunde</trd>
+    <trd>Zeugnis</trd>,
+    <trd>Urkunde</trd>,
+    <trd>Zertifikat</trd>,
+    <trd>Attest</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>attestation</trd>,
@@ -163,6 +226,10 @@
     <trd>attestato</trd>,
     <trd>contrassegno</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A3C;&#x8A00;  [<ind>&#x3057;&#x3087;&#x3046;&#x3052;&#x3093;</ind>]</trd>,
+    <trd>&#x8A3C;&#x660E;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>attest</trd>,
     <trd>getuigenis</trd>
@@ -171,7 +238,7 @@
     <trd>&sacute;wiadectwo</trd>,
     <trd>za&sacute;wiadczenie</trd>
   </trdgrp>
-  <trdgrp lng="ru">   
+  <trdgrp lng="ru">
     <trd>&c_s;&c_v;&c_i;&c_d;&c_je;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_u;&c_d;&c_o;&c_s;&c_t;&c_o;&c_v;&c_je;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_a;&c_t;&c_t;&c_je;&c_s;&c_t;&c_a;&c_t;</trd>,
@@ -182,6 +249,16 @@
     <trd>svedectvo</trd>,
     <trd>v&yacute;pove&dcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_v;&c_ib;&c_d;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_v;&c_ib;&c_d;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_v;&c_ib;&c_d;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_v;&c_ib;&c_d;&c_o;&c_c;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_a;&c_t;&c_je;&c_s;&c_t;&c_a;&c_t;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_m;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_v;&c_ib;&c_d;&c_k;&c_a;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_p;&c_i;&c_s;&c_k;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atest.0anto">
@@ -189,21 +266,46 @@
   <snc mrk="atest.0anto.JUR">
     <uzo tip="fak">JUR</uzo>
     <dif>
-      Persono, kiu certigas, ke li &ccirc;eestis,
-      vidis, konstatis ion:
+      Persono, kiu certigas, ke li &ccirc;eestis, vidis, konstatis ion:
       <ekz>
+        unu <tld/>anto ne sufi&ccirc;as, por kondamni homon al morto
+        <fnt><bib>MT</bib> <lok>&Nom; 35:30</lok></fnt>;
+      </ekz><ekz>
         mi vokas Dion kiel <tld/>anton
-        <fnt><bib>NT</bib>, <lok>&Ko2;, 1, 23</lok></fnt>.
+        <fnt><bib>NT</bib>, <lok>&Ko2;, 1, 23</lok></fnt>;
+      </ekz><ekz>
+        la le&gcirc;o postulas ke estu <tld/>anto dum mi traser&ccirc;as la oficejon
+        <fnt><bib>ChB</bib></fnt>;
+      </ekz><ekz>
+        mi ne volis havi <tld/>anton al mia konfeso, e&ccirc; ne mian amikon
+        <fnt><bib>KKr</bib></fnt>;
+      </ekz><ekz>
+        la <tld/>antoj de Jehovo
+        <fnt><bib>EeP</bib></fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">FIG</uzo>
+        malnovaj remparoj <klr>[&#x2026;]</klr> estas nun &ccirc;i tie la lastaj videblaj <tld/>antoj
+        de la hejmo de via juneco
+        <fnt><bib>Fab4</bib> <lok>Peco da perlovico</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_d;&c_k;&c_a;</trd>
   <trd lng="cs">sv&ecaron;dek</trd>
+  <trd lng="de">Zeuge</trd>
   <trd lng="en">witness</trd>
   <trd lng="es">testigo</trd>
   <trd lng="fr">t&eacute;moin</trd>
+  <trd lng="he">&ayin;&#x5B5;&dalet;</trd>
+  <trd lng="ja">&#x8A3C;&#x4EBA;  [<ind>&#x3057;&#x3087;&#x3046;&#x306B;&#x3093;</ind>]</trd>
   <trd lng="nl">getuige</trd>
   <trd lng="pl">&sacute;wiadek</trd>
+  <trd lng="ru">&c_s;&c_v;&c_i;&c_d;&c_je;&c_t;&c_je;&c_l;&c_mol;</trd>
   <trd lng="sk">svedok</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_v;&c_ib;&c_d;&c_o;&c_k;</trd>,
+    <trd>&c_o;&c_ch;&c_je;&c_v;&c_i;&c_d;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atest.0ilo">
@@ -211,29 +313,44 @@
   <snc mrk="atest.0ilo.JUR">
     <uzo tip="fak">JUR</uzo>
     <dif>
-      Objekto, plejofte oficiala dokumento, kiu <tld/>as
+      Objekto, plejofte oficiala <ref tip="super" cel="dokume.0o">dokumento</ref>, kiu <tld/>as
       pri iu situacio, rajtigo, agnosko:
       <ekz>
-        post sukcesa ekzameni&gcirc;o la studinto ricevas <tld/>ilon kiu 
-        certigas la rezultojn de la ekzameno 
+        post sukcesa ekzameni&gcirc;o la studinto ricevas <tld/>ilon kiu
+        certigas la rezultojn de la ekzameno
         <fnt>
           <aut>K. Kov&aacute;ts</aut>,
-          <vrk><url
-          ref="http://www.edukado.net/klerigejo/rite/regularo">
+          <vrk><url ref="http://www.edukado.net/klerigejo/rite/regularo">
           Rite, regularo</url></vrk>,
           <lok>2011</lok>
-        </fnt>.
+        </fnt>;
+      </ekz><ekz>
+        la &gcirc;isnuna pozicio de la lingvoscienco <klr>[estas]</klr> la plej malbona
+        <tld/>ilo, kiun &gcirc;i povis doni ne al Esperanto, sed al si mem
+        <fnt><bib>Ret</bib></fnt>;
+      </ekz><ekz>
+        mi neniam mal&scirc;atis pli na&ubreve;ze paperon, ol &ccirc;i tiun inversan morto-<tld/>ilon, kiu
+        pruvas al la mortintoj mian kompatindan vivantan staton
+        <fnt><bib>VaK</bib></fnt>;
+      </ekz><ekz>
+        havi tiun KER-<tld/>ilon donas plurajn avanta&gcirc;ojn
+        <fnt><bib>Kon11</bib></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="diplom.0o.PED">diplomo</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_a;&c_t;&c_e;&c_s;&c_t;&c_a;&c_t;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>doklad</trd>,
     <trd>stvrzenka</trd>,
     <trd>vysv&ecaron;d&ccaron;en&iacute;</trd>
   </trdgrp>
+  <trd lng="de">Urkunde</trd>
   <trd lng="en">certificate</trd>
   <trdgrp lng="es">
     <trd>atestado</trd>,
@@ -243,9 +360,16 @@
     <trd>attestation<klr> (&eacute;crite)</klr></trd>,
     <trd>certificat</trd>
   </trdgrp>
+  <trd lng="he">&tav;&#x5B0;&ayin;&vav;&#x5BC;&dalet;&#x5B8;&he;</trd>
+  <trd lng="ja">&#x8A3C;&#x660E;&#x66F8;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;&#x3057;&#x3087;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>&sacute;wiadectwo</trd>,
     <trd>za&sacute;wiadczenie</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_v;&c_i;&c_d;&c_je;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;<klr> (&c_d;&c_o;&c_k;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>,
+    <trd>&c_a;&c_t;&c_t;&c_je;&c_s;&c_t;&c_a;&c_t;</trd>,
+    <trd>&c_s;&c_je;&c_r;&c_t;&c_i;&c_f;&c_i;&c_k;&c_a;&c_t;</trd>
   </trdgrp>
   <trd lng="sk">vysved&ccaron;enie</trd>
 </drv>
@@ -269,10 +393,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je; &c_a;&c_b; &c_sh;&c_l;&c_ju;&c_b;&c_u;</trd>
+  <trd lng="de">Heiratsurkunde</trd>
   <trd lng="en">marriage license</trd>
   <trd lng="es">certificado de matrimonio</trd>
   <trd lng="fr">certificat de mariage</trd>
   <trd lng="pl">&sacute;wiadectwo &sacute;lubu</trd>
+  <trd lng="ru">&c_s;&c_v;&c_i;&c_d;&c_je;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o; &c_o; &c_b;&c_r;&c_a;&c_k;&c_je;</trd>
 </drv>
 
 <drv mrk="atest.naskigx0ilo">
@@ -284,22 +411,28 @@
       pri dato kaj loko de ies naski&gcirc;o, ordinare kun mencio
       de gepatroj kaj aliaj aparta&jcirc;oj:
       <ekz>
-        kontrolu la naski&gcirc;<tld/>ilojn kaj aliajn dokumentojn de la 
+        la arkitekto sukcesis havigi al &scirc;i falsajn <klr>[&#x2026;]</klr> naski&gcirc;-<tld/>ilon,
+        familian dokumentaron, ktp
+        <fnt><bib>ChB</bib></fnt>;
+      </ekz><ekz>
+        kontrolu la naski&gcirc;<tld/>ilojn kaj aliajn dokumentojn de la
         kandidatoj
         <fnt>
           <aut>A. Gofen</aut>,
-          <vrk><url ref="https://www.monato.be/2009/009811.php">
+          <vrk><url ref="&Monato;/2009/009811.php">
           Obamena&jcirc;o, a&ubreve; haladzo de socialisma aventurismo</url></vrk>,
-          <bib>Monato</bib>,
-          <lok>2009:06, p. 10a</lok>
+          <bib>Monato</bib>, <lok>2009:06, p. 10a</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je; &c_a;&c_b; &c_n;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_ib;</trd>
+  <trd lng="de">Geburtsurkunde</trd>
   <trd lng="en">birth certificate</trd>
   <trd lng="es">certificado de nacimiento</trd>
   <trd lng="fr">acte de naissance</trd>
   <trd lng="pl">&sacute;wiadectwo urodzenia</trd>
+  <trd lng="ru">&c_s;&c_v;&c_i;&c_d;&c_je;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o; &c_o; &c_r;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_i;</trd>
 </drv>
 
 <drv mrk="atest.sxargx0o">
@@ -307,8 +440,13 @@
   <uzo tip="fak">EKON</uzo>
   <fnt><bib>PIV1</bib></fnt>
   <snc mrk="atest.sxargx0o.EKON">
-    <ref tip="dif" cel="konosament.0o">konosamento</ref>
+    <ref tip="dif" cel="leter.frajt0o">frajtletero</ref>
+    <ref tip="vid" cel="konosament.0o">konosamento</ref>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_d;&c_a;&c_k;&c_u;&c_m;&c_e;&c_n;&c_t;)</klr></trd>,
+    <trd>&c_k;&c_a;&c_n;&c_a;&c_s;&c_a;&c_m;&c_e;&c_n;&c_t;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Frachtbrief</trd>,
     <trd>Konnossement</trd>,
@@ -339,32 +477,33 @@
     <trd>&c_g;&c_r;&c_u;&c_z;&c_o;&c_v;&c_o;&c_j; &c_d;&c_o;&c_k;&c_u;&c_m;&c_je;&c_n;&c_t;</trd>,
     <trd>&c_k;&c_o;&c_n;&c_o;&c_s;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
   </trdgrp>
+  <trd lng="uk">&c_k;&c_o;&c_n;&c_o;&c_s;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
 </drv>
 
 </art>
 <!--
 $Log$
-Revision 1.32  2018/06/21 15:10:21  revo
-Guillermo Molleda Jimena: trd es
+versio 1.44 2023/08/28 09:26:40
+Dmitri Gabinski: + trd be
 
-Revision 1.31  2015/10/22 05:10:26  revo
-Sebastian Cyprych: +trd pl
+versio 1.43 2023/07/06 05:33:17
+Sergio Pokrovskij: +trd=ru
 
-Revision 1.30  2015/10/14 08:10:17  revo
-Sebastian Cyprych: +trd pl
+versio 1.42 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
 
-Revision 1.29  2015/09/24 11:10:19  revo
-Cindy Moon McKee: +trd en
+versio 1.41 2022/04/10 18:35:10
+Ulrich Fellmann: atesto: korekto de DE misskribo Atest
 
-Revision 1.28  2015/09/17 12:10:20  revo
-Evandro Avellar: +trd pt
+versio 1.38 2022/01/16 12:46:55
+Wolfram Diestel: +ref
 
-Revision 1.27  2015/07/04 08:37:31  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.37 2022/01/16 09:29:34
+Wolfram Diestel: ekz-oj, ref-oj, trd de
 
-Revision 1.26  2015/06/28 12:03:36  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.36 2021/08/11 07:30:07
+Dmitri Gabinski: + trd be
 
-Revision 1.25  2014/12/07 19:10:12  revo
+versio 1.34 2021/02/01 16:30:34
 -->
 </vortaro>

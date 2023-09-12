@@ -1,20 +1,35 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: koncen1.xml,v 1.4 2006/12/23 17:30:38 revo Exp $">
+<art mrk="$Id: koncen1.xml,v 1.11 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <ofc>(1)</ofc><rad>koncentr</rad>/a
 </kap>
 <drv mrk="koncen1.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="koncen1.0a.samcentra">
     <uzo tip="stl">ARK</uzo>
     <fnt><bib>VdE</bib></fnt>
     <dif>
       <ref tip="dif" cel="centr.sam0a">Samcentra</ref>:
       <ekz>
-        du <tld/>aj rondoj.
+        du <tld/>aj rondoj;
+      </ekz>
+      <ekz>
+        ciferplato de galaksia horlo&gcirc;o kun tri <tld/>aj ringoj de gradoj altiris la
+        atenton
+        <fnt>
+          <aut>Efremov Ivan</aut>
+          <vrk><url ref="https://www.litmir.me/br/?b=87611&amp;p=8">La nebulozo de Andromedo</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dupolusa kablo kun <tld/>a konstruo <klr>[&#x2026;]</klr> konsistas el interna
+        kondukilo, kiun &ccirc;irka&ubreve;as ekstera kondukilo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=258436">Samaksa kablo</url></lok>
+        </fnt>.
       </ekz>
     </dif>
     <rim>
@@ -26,17 +41,21 @@
       Universala Vortaro decidis maloficialigi &ccirc;i tiun radikon, kiu
       estis oficialigita per la Unua Oficiala Aldono al la Universala
       Vortaro, kaj anstata&ubreve;e oficialigis la samforman sed alisignifan
-      radikon <ref tip="hom" cel="koncen.0i">KONCENTR/</ref>. Oni
+      radikon &leftquot;<ref tip="hom" cel="koncen.0i">koncentr/</ref>&rightquot;. Oni
       atentu, ke temas pri du radikoj kun malsamaj signifoj. &Ccirc;i tiu
       maloficialigo estas kontestata de kelkaj esperantologoj, kiuj
       opinias, ke oni ne povas maloficialigi ion oficialigitan.
     </rim>
   </snc>
- </drv>
+   <trdgrp lng="ja">
+    <trd>&#x96C6;&#x4E2D;&#x7684;&#x306A;  [<ind>&#x3057;&#x3085;&#x3046;&#x3061;&#x3085;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x6FC3;&#x539A;&#x306A;  [<ind>&#x306E;&#x3046;&#x3053;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
+</drv>
 
 <drv mrk="koncen1.0igi">
   <kap><tld/>igi</kap>
-  <snc>
+  <snc mrk="koncen1.0igi.centrigi">
     <uzo tip="stl">ARK</uzo>
     <fnt><bib>VdE</bib></fnt>
     <dif>
@@ -69,21 +88,20 @@
     </dif>
     <ref tip="sin" cel="fokus.0i">fokusi</ref>
     <rim>
-      Ne konfuzu kun: <ref tip="hom"
-      cel="koncen.0igi">koncentrigi</ref>.
+      Ne konfuzu kun: <ref tip="hom" cel="koncen.0igi">koncentrigi</ref> (igi koncentri).
     </rim>
   </snc>
 </drv>
 
 <drv mrk="koncen1.0igxi">
   <kap><tld/>i&gcirc;i</kap>
-  <snc>
+  <snc mrk="koncen1.0igxi.centrigxi">
     <uzo tip="stl">ARK</uzo>
     <dif>
       Kolekti&gcirc;i &ccirc;irka&ubreve; komuna centro:
       <ekz>
-        &ccirc;iam pli vasti&gcirc;ados la regionoj glaciaj, <klr>[&#8230;]</klr> vivo
-        <klr>[&#8230;]</klr> 
+        &ccirc;iam pli vasti&gcirc;ados la regionoj glaciaj, <klr>[&#x2026;]</klr> vivo
+        <klr>[&#x2026;]</klr> 
         iom post iom <tld/>i&gcirc;os en la regionoj subekvatoraj
         <fnt>
           <bib>FK</bib>
@@ -100,23 +118,32 @@
         <fnt><bib>Far3</bib><lok>&ccirc;ap. 10</lok></fnt>;
       </ekz>
       <ekz>
-        en tiu oficejo <tld/>i&gcirc;as la laboroj<fnt>Z</fnt>;
+        en tiu oficejo <tld/>i&gcirc;as la laboroj
+        <fnt><bib>PV</bib></fnt>;
       </ekz>
       <ekz>
-        komence liaj pensoj <tld/>i&gcirc;is sur la mono<fnt>B</fnt>.
+        komence liaj pensoj <tld/>i&gcirc;is sur la mono
+        <fnt><bib>PV</bib></fnt>.
       </ekz>
     </dif>
     <ref tip="sin" cel="fokus.0igxi">fokusi&gcirc;i</ref>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x96C6;&#x4E2D;&#x3059;&#x308B;  [<ind>&#x3057;&#x3085;&#x3046;&#x3061;&#x3085;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6FC3;&#x7E2E;&#x3055;&#x308C;&#x308B;  [<ind>&#x306E;&#x3046;&#x3057;&#x3085;&#x304F;&#x3055;&#x308C;&#x308B;</ind>]</trd>
+  </trdgrp>
 </drv>
-<adm>
+<!--
   Por eviti konfuzojn estas preferinde ne aldoni nacilingvajn
   tradukojn.
   <aut>MB</aut>
-</adm>
+-->
 </art>
 <!--
 $Log$
+versio 1.10 2020/05/09 09:10:11
+Wolfram Diestel: +2 ekz, modifetoj
+
 Revision 1.8  2019/11/20 13:10:16  revo
 Robin van der Vliet: rimarko pri oficialeco
 
@@ -135,6 +162,5 @@ Tulio Flores: -tr pt
 
 Revision 1.3  2006/10/07 16:30:23  revo
 Tulio Flores: +tr pt
-
 -->
 </vortaro>

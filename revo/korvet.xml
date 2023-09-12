@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: korvet.xml,v 1.16 2010/06/17 16:30:40 revo Exp $">
+<art mrk="$Id: korvet.xml,v 1.22 2023/09/01 15:46:44 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>korvet</rad>/o
@@ -23,14 +22,14 @@
         <fnt>
         <aut>Edward Everett Hale, trad. E. L. Robinson, trad. Don
         Harlow</aut>,
-        <vrk><url
-        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/La_Viro_Senpatria.html">La
+        <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/La_Viro_Senpatria.html">La
         viro senpatria</url></vrk>,
         <lok>1907 kaj 1994</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <ref tip="hom" cel="korv.0eto">korveto (birdo: monedo)</ref>
   <trd lng="be">&c_k;&c_a;&c_r;&c_v;&c_e;&c_t;</trd>
   <trd lng="bg">&c_k;&c_o;&c_r;&c_v;&c_je;&c_t;&c_a;</trd>
   <trd lng="ca">corbeta</trd>
@@ -49,6 +48,7 @@
     <trd>k&iacute;s&eacute;r&odblac; nasz&aacute;d</trd>,
   </trdgrp>
   <trd lng="it">corvetta</trd>
+  <trd lng="ja">&#x30B3;&#x30EB;&#x30D9;&#x30C3;&#x30C8;</trd>
   <trd lng="nl">korvet</trd>
   <trd lng="pl">korweta</trd>  
   <trd lng="pt">corveta <klr tip="amb">(&ecirc;)</klr></trd>
@@ -59,6 +59,9 @@
 </art>
 <!--
 $Log$
+versio 1.21 2021/05/23 19:52:28
+Wolfram Diestel: ref-hom
+
 Revision 1.19  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

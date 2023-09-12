@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kompan.xml,v 1.27 2020/01/15 22:11:12 revo Exp $">
+<art mrk="$Id: kompan.xml,v 1.39 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kompani</rad>/o
@@ -23,7 +22,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="asoci.0o">asocio</ref>.
+      <ref cel="asoci.0o">asocio</ref>
     </refgrp>
     <trd lng="de">Gesellschaft</trd>
     <trd lng="fr">compagnie<klr tip="ind"> (association de
@@ -63,42 +62,48 @@
       <ekz>
         supernaciaj <tld/>oj
         <fnt>
+       <aut>Ji&rcaron;&iacute; Patera</aut>
+          <vrk><url ref="&Monato;/2001/007258.html">Post la kunsido de financistoj en
+          Prago</url></vrk>
           <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007258.html"
-              >Mondaj Financoj: Post la kunsido de financistoj en Prago</url></vrk>
+          <lok>2001/01, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         telefona <tld/>o
-        <fnt>
+         <fnt>
+          <aut>Will Green</aut>
+          <vrk><url ref="&Monato;/1994/A940103.php">Will Green kondukas vin tra sia telefona
+          labirinto</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9401-telefona-labirinto.txt"
-              >Will Green kondukas vin tra sia</url></vrk>
-          <lok>94/01</lok>
+          <lok>1994/01, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
         transport<tld/>o
         <fnt>
-          <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006830.html"
-              >Litovio &dash; Britio: Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
         opinio-sondada <tld/>o
         <fnt>
+       <aut>LAST/pg</aut>
+          <vrk><url ref="&Monato;/2000/006828.php">Mizero en la mezo</url></vrk>
           <bib>Monato</bib>
-          <aut>Last</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006828.html"
-              >Litovio: Mizero en la mezo</url></vrk>
+          <lok>2000/09, p. 14</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="sin">
+      <ref cel="entrep.0o.EKON">entrepreno<sncref/></ref>,
+      <ref cel="firm1.0o">firmo, firmao</ref>
+    </refgrp>
     <refgrp tip="vid">
-      <ref cel="societ.0o">societo</ref>.
+      <ref cel="societ.0o">societo</ref>
     </refgrp>
     <trd lng="de">Gesellschaft</trd>
     <trd lng="fr">compagnie<klr tip="ind"> (soci&eacute;t&eacute;)</klr></trd>
@@ -215,7 +220,8 @@
         <tld/>o
         <fnt>
           <aut>S. Pokrovskij</aut>:
-          <vrk><url ref="http://www.esperanto.be/fel/mon/priutf/850-8.html">Moskvo jubileas</url></vrk>. <bib>Monato</bib>
+          <vrk><url ref="https://www.esperanto.be/fel/mon/priutf/850-8.html">Moskvo
+          jubileas</url></vrk>. <bib>Monato</bib>
         </fnt>.            
       </ekz>
     </dif>
@@ -246,6 +252,12 @@
   <trd lng="es">compa&ntilde;&iacute;a</trd>
   <trd lng="he">&het;&bet;&resh;&he;</trd>
   <trd lng="hu">sz&aacute;zad</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F1A;&#x793E;  [<ind>&#x304B;&#x3044;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x4EF2;&#x9593;  [<ind>&#x306A;&#x304B;&#x307E;</ind>]</trd>,
+    <trd>&#x4E00;&#x540C;  [<ind>&#x3044;&#x3061;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x4E00;&#x884C;  [<ind>&#x3044;&#x3063;&#x3053;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>ekipa</trd>,
     <trd>kompania</trd>,
@@ -277,8 +289,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.be/2010/010163.php"
-              >&Ccirc;asantoj &ccirc;asataj</url></vrk>
+          <vrk><url ref="&Monato;/2010/010163.php">&Ccirc;asantoj &ccirc;asataj</url></vrk>
           <lok>2010</lok>
         </fnt>;
       </ekz>
@@ -287,8 +298,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2003/008000.html"
-              >Jur-renverso</url></vrk>
+          <vrk><url ref="&Monato;/2003/008000.html">Jur-renverso</url></vrk>
           <lok>2003</lok>
         </fnt>.
       </ekz>
@@ -297,6 +307,10 @@
        <ref cel="akompa.0atede">akompanate de, en akompano de</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="de">
+    <trd>im <ind>Beisein</ind> von</trd>,
+    <trd>in <ind>Gesellschaft</ind> von</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>avec<klr tip="ind"> (en compagnie de)</klr></trd>,
     <trd>en <ind>compagnie</ind> de</trd>,
@@ -352,7 +366,10 @@
         <fnt><bib>NT</bib><lok>&Luk; 5:7</lok></fnt>.
       </ekz>
     </dif>
-    <trd lng="de">Begleiter</trd>
+    <trdgrp lng="de">
+      <trd>Begleiter</trd>,
+      <trd>Kumpan</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>compagnon<klr tip="ind"> (personne qui
       accompagne)</klr></trd>,
@@ -374,6 +391,10 @@
     <trd>kumpa&ncaron;on</trd>,
     <trd>pr&uring;vodce</trd>,
     <trd>spole&ccaron;n&iacute;k <klr>(obch.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5171;&#x540C;&#x51FA;&#x8CC7;&#x8005;  [<ind>&#x304D;&#x3087;&#x3046;&#x3069;&#x3046;&#x3057;&#x3085;&#x3063;&#x3057;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x4F1A;&#x793E;&#x54E1;  [<ind>&#x304B;&#x3044;&#x3057;&#x3083;&#x3044;&#x3093;</ind>]</trd>
   </trdgrp>
   <trd lng="pl">wsp&oacute;lnik</trd>     
   <trd lng="ro">partener</trd>
@@ -418,6 +439,7 @@
     <trd>cavaliere<klr> (fig.)</klr></trd>,
     <trd>accompagnatore</trd>
   </trdgrp>
+  <trd lng="ja">&#x4EF2;&#x9593;  [<ind>&#x306A;&#x304B;&#x307E;</ind>]</trd>
   <trd lng="nl">metgezel</trd>
   <trdgrp lng="pl">
     <trd>cz&lstroke;onek <klr>(ekipy)</klr></trd>,
@@ -446,12 +468,12 @@
         juro, estas parto de la akcia <tld/>o <nom>Deutsche Post AG</nom>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=569949"
-              >DHL (firmao)</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=569949">DHL (firmao)</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_a;&c_v;&c_a;&c_r;&c_y;&c_s;&c_t;&c_v;&c_a; &c_z; &c_a;&c_b;&c_m;&c_je;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_a;&c_j; &c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ju;</trd>
   <trdgrp lng="cs">
     <trd>spole&ccaron;nost s ru&ccaron;en&iacute;m omezen&yacute;m</trd>,
     <trd>zkr. s.r.o.</trd>
@@ -492,10 +514,11 @@
       rajtojn de la <tld/>anoj (akciuloj) ilin posedantaj:
       <ekz>
         a&ubreve;stralia akcio-<tld/>o
-        <fnt>
+        <fnt><aut>Katalin Smid&eacute;liusz</aut>: 
+          <vrk><url ref="&Monato;/2000/006912.php">Cinike cianide -- &ccirc;u respondecas
+          Okcidento?</url></vrk>,
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006912.html"
-              >Poluado: Cinike cianide &dash; &ccirc;u respondecas Okcidento?</url></vrk>
+          <lok>2000/04, p. 15</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -513,6 +536,7 @@
       <ref cel="korpor.0o">korporacio</ref>.
     </rim>
   </snc>
+  <trd lng="be">&c_a;&c_k;&c_c;&c_y;&c_j;&c_n;&c_a;&c_je; &c_t;&c_a;&c_v;&c_a;&c_r;&c_y;&c_s;&c_t;&c_v;&c_a;</trd>
   <trd lng="cs">akciov&aacute; spole&ccaron;nost</trd>
   <trdgrp lng="de">
     <trd>Aktiengesellschaft</trd>,
@@ -528,8 +552,9 @@
     <trd>soci&eacute;t&eacute; par actions<klr> (SA)</klr></trd>
   </trdgrp>
   <trd lng="hu">r&eacute;szv&eacute;nyt&aacute;rsas&aacute;g</trd>
+  <trd lng="ja">&#x682A;&#x5F0F;&#x4F1A;&#x793E;  [<ind>&#x304B;&#x3076;&#x3057;&#x304D;&#x304C;&#x3044;&#x3057;&#x3083;</ind>]</trd>
   <trd lng="pl">sp&oacute;&lstroke;ka akcyjna <klr>(S.A.)</klr></trd>     
-  <trd lng="ro">societate pe ac&#539;iuni</trd>
+  <trd lng="ro">societate pe ac&#x21B;iuni</trd>
   <trdgrp lng="ru">
     <trd>&c_a;&c_k;&c_c;&c_i;&c_o;&c_n;&c_je;&c_r;&c_n;&c_o;&c_je;
       &c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>,
@@ -544,28 +569,28 @@
 </drv>
   </art>
   <!--
-  $Log: kompan.xml,v $
-versio 1.27 2020/01/15 22:11:12
-Wolfram Diestel: ekz-oj, sintakso, germ trd-oj
+  $Log$
+versio 1.38 2023/04/24 12:46:20
+Paul Peeraerts: @Steloj -> @Monato
 
-  Revision 1.26  2019/04/19 12:10:26  revo
-  Vito Redsky: +trd pl +trd ro
+versio 1.37 2023/04/23 16:33:02
+Paul Peeraerts: &Steloj -> &Monato
 
-  Revision 1.25  2016/11/21 11:10:27  revo
-  Damien Brucker: -eraro cxe ref en cel
+versio 1.36 2023/04/21 12:44:28
+Paul Peeraerts: Steloj -> monato.be
 
-  Revision 1.24  2015/07/04 08:37:37  revo
-  aldono de trd cs per skripto de M. von Laer
+versio 1.35 2023/04/19 11:23:52
+Paul Peeraerts: Steloj -> monato.be
 
-  Revision 1.23  2015/06/29 16:33:17  revo
-  aldono de trd sk per skripto de M. von Laer
+versio 1.34 2023/04/12 15:27:30
+Paul Peeraerts: Steloj -> monato.be
 
-  Revision 1.22  2014/01/05 10:10:12  revo
-  Damien Brucker: +trd fr
+versio 1.33 2023/03/27 08:33:43
+Paul Peeraerts: &Monato;
 
-  Revision 1.21  2011/01/18 12:10:09  revo
-  Russ Williams: +kompanio kun limigita respondeco, akcia kompanio
+versio 1.32 2022/08/21 08:35:43
+Wolfram Diestel: +trd de
 
-  Revision 1.20  2010/06/16 16:30:25  revo
+versio 1.31 2022/05/01 08:09:24
 -->
 </vortaro>

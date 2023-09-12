@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: longan.xml,v 1.8 2020/02/09 13:10:28 revo Exp $">
+<art mrk="$Id: longan.xml,v 1.10 2022/03/22 18:26:51 revo Exp $">
 <kap>
   <rad>longan</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -12,8 +11,7 @@
     <uzo tip="fak">KUI</uzo>
     <dif>
       <ref tip="super" cel="frukt.0o.KUI">Frukto</ref>
-      de <tld/>arbo, malgranda ovoforma <ref tip="super"
-      cel="drup.0o">drupo</ref> roz- a&ubreve; purpurkolora kun blanka, suka
+      de <tld/>arbo, malgranda ovoforma <ref tip="super" cel="drup.0o">drupo</ref> roz- a&ubreve; purpurkolora kun blanka, suka
       karno:
       <ekz>
         <tld/>e granda perlo
@@ -32,6 +30,7 @@
   </trdgrp>
   <trd lng="ro">longan</trd>
   <trd lng="sk">longan</trd>
+  <trd lng="uk">&#x43B;&#x43E;&#x43D;&#x433;&#x430;&#x43D;</trd>
 </drv>
 
 <drv mrk="longan.0arbo">
@@ -58,6 +57,7 @@
   <trd lng="fr">longanier</trd>
   <trd lng="hu">longanfa</trd>
   <trd lng="pl">longan</trd>
+  <trd lng="pt">longana</trd>
   <trd lng="ro">longan</trd>
   
 </drv>
@@ -65,8 +65,11 @@
 
 <!--
 $Log: longan.xml,v $
-versio 1.8 2020/02/09 13:10:28
-Vito Redsky: +trd pl +trd ro  
+versio 1.9 2020/03/22 19:10:37
+James Rezende Piton: +trd pt
+
+Revision 1.8  2020/02/09 12:10:27  revo
+Vito Redsky: +trd pl +trd ro
 
 Revision 1.7  2017/02/15 10:10:14  revo
 Jeromo Vasxe: pupurkolora -> purpurkolora
@@ -84,8 +87,5 @@ Revision 1.3  2005/09/01 16:31:15  revo
 Wieland Pusch: +trd de
 
 Revision 1.2  2004/05/27 16:32:23  revo
-Jozefo Horvath: +trd hu, Euphoria longan > Euphoria longana
-
-Revision 1.1  2004/03/25 18:28:11  revo
 -->
 </vortaro>

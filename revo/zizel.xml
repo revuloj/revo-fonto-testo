@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: zizel.xml,v 1.24 2023/09/05 09:43:57 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>zizel</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,11 +11,9 @@
   <snc mrk="zizel.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Malgranda <ref tip="lst" cel="rongx.0ulo"
-      lst="voko:ron&gcirc;uloj">ron&gcirc;ulo</ref> grupe lo&gcirc;anta en subteraj
+      Malgranda <ref tip="lst" cel="rongx.0ulo" lst="voko:ron&gcirc;uloj">ron&gcirc;ulo</ref> grupe lo&gcirc;anta en subteraj
       fosa&jcirc;oj ekster arbaroj en la norda duonsfero;
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">genro</ref>  el familio 
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">genro</ref>  el familio 
       <ref tip="malprt" cel="sciure.0oj">sciuredoj</ref>
       (<trd lng="la">Spermophilus</trd>):
       <ekz>
@@ -24,8 +21,7 @@
         kie estas nur malalta herbo
         <fnt>
           <aut>O. Arno&scaron;t Fischer</aut>,
-          <vrk><url
-          ref="http://www.ipernity.com/doc/192647/album/244567?view=1">
+          <vrk><url ref="http://www.ipernity.com/doc/192647/album/244567?view=1">
           Mambestoj</url></vrk>,
           <lok>2011</lok>
         </fnt>.
@@ -45,6 +41,10 @@
     <trd>spermophile</trd>
   </trdgrp>
   <trd lng="hu">&uuml;rge</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B8;&#x30EA;&#x30B9;</trd>,
+    <trd>&#x30CF;&#x30BF;&#x30EA;&#x30B9;</trd>
+  </trdgrp>
   <trd lng="nl">Syberische <ind>marmot</ind></trd>
   <trd lng="pt">zizel</trd>
   <trd lng="ru">&c_s;&c_u;&c_s;&c_l;&c_i;&c_k;</trd>
@@ -53,6 +53,7 @@
     <trd>citello</trd>,
     <trd>spermophilus</trd>
   </trdgrp>
+  <trd lng="uk">&#x445;&#x43E;&#x432;&#x440;&#x430;&#x445;</trd>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: derm.xml,v 1.13 2010/11/10 17:30:32 revo Exp $">
+<art mrk="$Id: derm.xml,v 1.21 2023/08/31 10:43:59 revo Exp $">
 <kap>
 <rad>derm</rad>/o
 </kap>
@@ -19,8 +18,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="&Monato;/2007/009243.php"
-              >Epidemiaj sekvoj en E&ubreve;ropo</url></vrk>
+          <vrk><url ref="&Monato;/2007/009243.php">Epidemiaj sekvoj en E&ubreve;ropo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -29,8 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="&Monato;/2008/009550.php"
-              >Batalo kontra&ubreve; mortiga malsano</url></vrk>
+          <vrk><url ref="&Monato;/2008/009550.php">Batalo kontra&ubreve; mortiga malsano</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -53,8 +50,10 @@
   <trd lng="en">dermus</trd>
   <trd lng="es">dermis</trd>
   <trd lng="fr">derme</trd>
+  <trd lng="he">&#x5E9;&#x5DB;&#x5D1;&#x5EA; &#x5E2;&#x5D5;&#x5E8;</trd>
   <trd lng="hu">irha</trd>
   <trd lng="it">derma</trd>
+  <trd lng="ja">&#x771F;&#x76AE;  [<ind>&#x3057;&#x3093;&#x3074;</ind>]</trd>
   <trd lng="pl">sk&oacute;ra</trd>
   <trdgrp lng="pt">
     <trd>derme</trd>,
@@ -62,6 +61,10 @@
   </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_r;&c_m;&c_a;</trd>
   <trd lng="sk">ko&zcaron;a</trd>
+  <trdgrp lng="uk">
+    <trd>&#x448;&#x43A;&#x456;&#x440;&#x430;</trd>,
+    <trd>&#x434;&#x435;&#x440;&#x43C;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: erp.xml,v 1.14 2010/03/02 17:30:37 revo Exp $">
+<art mrk="$Id: erp.xml,v 1.24 2023/08/31 11:49:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>erp</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,22 +12,36 @@
   <snc mrk="erp.0i.AGR">
     <uzo tip="fak">AGR</uzo>
     <dif>
-      Skrapi kampon, disrompante la terbulojn per tiucela instrumento:
+      <ref tip="super" cel="skrap.0i.grati">Skrapi</ref> kampon,
+      aparte post <ref cel="plug.0i">plugado</ref>,
+      disrompante la terbulojn per tiucela instrumento:
+      <ekz>
+        la plugisto <klr>[&#x2026;]</klr> sulkaran&gcirc;as kaj <tld/>as sian kampon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 28:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni plugas kaj oni <tld/>as profunde la drenitan grundon
+        <fnt>
+          <vrk><url ref="https://apetito.ikso.net/artikolo/citrono">Citrono</url></vrk>
+        </fnt>;
+      </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        <tld/>i la maron<fnt>Z</fnt>
+        <tld/>i la maron
         <klr>(provi neeblan a&ubreve; vanan, senefikan faron)</klr>.
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_b;&c_a;&c_r;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="ca">
     <trd>rastellar</trd>,
     <trd>rasclar</trd>,
     <trd>esterrossar</trd>
   </trdgrp>
-  <trd lng="cs">vláčet <klr>(pole)</klr></trd>
+  <trd lng="cs">vl&aacute;&ccaron;et <klr>(pole)</klr></trd>
   <trd lng="de">eggen</trd>
   <trdgrp lng="en">
     <trd>harrow</trd>,
@@ -37,6 +50,7 @@
   </trdgrp>
   <trd lng="fr">herser</trd>
   <trd lng="hu">boron&aacute;l</trd>
+  <trd lng="ja">&#x307E;&#x3050;&#x308F;&#x3067;&#x306A;&#x3089;&#x3059;</trd>
   <trd lng="nl">eggen</trd>
   <trd lng="pl">bronowa&cacute;</trd>
   <trdgrp lng="pt">
@@ -48,9 +62,10 @@
     <trd>&c_b;&c_o;&c_r;&c_o;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>brániť</trd>,
-    <trd>vláčiť</trd>
+    <trd>br&aacute;ni&tcaron;</trd>,
+    <trd>vl&aacute;&ccaron;i&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&#x431;&#x43E;&#x440;&#x43E;&#x43D;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="erp.0ilo">
@@ -59,7 +74,7 @@
     <uzo tip="fak">AGR</uzo>
     <uzo tip="fak">TEK</uzo>
     <dif>
-      Denta instrumento por <tld/>i:
+      Denta <ref tip="super" cel="instru2.0o">instrumento</ref> por <tld/>i:
       <ekz>
         oni disrompas la terbulojn kaj iom
         ebenigas la surfacon per <tld/>ilo
@@ -70,27 +85,42 @@
         </fnt>.
       </ekz>
     </dif>
+    <bld lok="&WCU;/thumb/8/88/Les_Tr&egrave;s_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg/414px-Les_Tr&egrave;s_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg" prm="PD">kamparanoj preparante kampon por vintro per <tld/>ilo kaj semante vintran
+        grenon, fone la Luvra kastelo, &ccirc;. 1410
+        <fnt>
+          <lok><url ref="&WCW;/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg">&WCW;/File:Les_Tr&egrave;s_Riches_Heures_du_duc_de_Berry_octobre_detail.jpg</url></lok>
+        </fnt>
+    </bld>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_n;&c_a;</trd>
   <trdgrp lng="ca">
     <trd>rascle</trd>,
     <trd>esterrossador</trd>
   </trdgrp>
-  <trd lng="cs">brány</trd>
+  <trd lng="cs">br&aacute;ny</trd>
   <trd lng="de">Egge</trd>
   <trd lng="fr">herse</trd>
+  <trd lng="he">&#x5DE;&#x5B7;&#x5E9;&#x5C1;&#x5D3;&#x5B5;&#x5D3;&#x5B8;&#x5D4;</trd>
   <trd lng="hu">borona</trd>
+  <trd lng="ja">&#x307E;&#x3050;&#x308F;</trd>
   <trdgrp lng="nl">
     <trd>eg</trd>,
     <trd>egge</trd>
   </trdgrp>
   <trd lng="pl">brona</trd>
   <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>
-  <trd lng="sk">brány</trd>
+  <trd lng="sk">br&aacute;ny</trd>
+  <trd lng="uk">&#x431;&#x43E;&#x440;&#x43E;&#x43D;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2020/11/29 20:32:48
+Wolfram Diestel: +ekz, +bld
+
 Revision 1.18  2015/06/29 16:29:37  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -107,14 +137,5 @@ Revision 1.14  2010/03/02 17:30:37  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.13  2010/01/18 17:31:12  revo
-Russ Williams: +trd en
-
-Revision 1.12  2007/07/06 18:03:49  revo
-Tulio Flores: +tr pt
-
-Revision 1.11  2003/12/18 17:33:00  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10  2003/06/11 17:06:00  revo
 -->
 </vortaro>

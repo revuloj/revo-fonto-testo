@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: verben.xml,v 1.26 2023/09/05 09:43:55 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>verben</rad>/o
@@ -25,21 +24,17 @@
       </ekz>
       <ekz>
         oficina <tld/>o havas maldikan suprenirantan tigon kaj povas atingi
-        alton de 100&#8239;cm &ccirc;e kio la malsupra parto de la tigo ligni&gcirc;as
+        alton de 100&#x202F;cm &ccirc;e kio la malsupra parto de la tigo ligni&gcirc;as
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=371410">Verbena officinalis</url></lok>
         </fnt>.
       </ekz>
     </dif>
-    <bld
-      lok="&WCU;/thumb/f/fe/Verbena_californica_%28California_vervain%29_%2828969583753%29.jpg/640px-Verbena_californica_%28California_vervain%29_%2828969583753%29.jpg"
-      prm="CC BY 2.0"
-      >kalifornia <tld/>o (Verbena californica)
+    <bld lok="&WCU;/thumb/f/fe/Verbena_californica_%28California_vervain%29_%2828969583753%29.jpg/640px-Verbena_californica_%28California_vervain%29_%2828969583753%29.jpg" prm="CC BY 2.0">kalifornia <tld/>o (Verbena californica)
         <fnt>
           <aut>Ronnie el Singapuro</aut>
-          <lok><url ref="&WCW;/File:Verbena_californica_(California_vervain)_(28969583753).jpg"
-              >&WCW;/File:Verbena_californica_(California_vervain)_(28969583753).jpg</url></lok>
+          <lok><url ref="&WCW;/File:Verbena_californica_(California_vervain)_(28969583753).jpg">&WCW;/File:Verbena_californica_(California_vervain)_(28969583753).jpg</url></lok>
         </fnt>
     </bld>
   </snc>
@@ -58,6 +53,11 @@
     <trd>vasf&udblac;</trd>,
     <trd>verb&eacute;na</trd>,
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30AF;&#x30DE;&#x30C4;&#x30C5;&#x30E9;</trd>,
+    <trd>&#x30D0;&#x30FC;&#x30D9;&#x30CA;</trd>,
+    <trd>&#x30D3;&#x30B8;&#x30E7;&#x30B6;&#x30AF;&#x30E9;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>ijzerkruid</trd>,
     <trd>verbena</trd>,
@@ -66,6 +66,7 @@
   <trd lng="pt">verbena</trd>
   <trd lng="ru">&c_v;&c_je;&c_r;&c_b;&c_je;&c_n;&c_a;</trd>
   <trd lng="sk">&zcaron;elezn&iacute;k</trd>
+  <trd lng="uk">&#x432;&#x435;&#x440;&#x431;&#x435;&#x43D;&#x430;</trd>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: burd.xml,v 1.18 2009/11/10 17:30:17 revo Exp $">
+<art mrk="$Id: burd.xml,v 1.25 2023/08/31 08:48:54 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>burd</rad>/o
@@ -13,9 +12,7 @@
   <snc mrk="burd.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
-      tip="malprt" cel="abeled.0oj">abeledoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="abeled.0oj">abeledoj</ref>
       (<trd lng="la">Bombus</trd>), pli peza ol abelo:
       <ekz>
         grafoj kaj princoj tie sin pu&scirc;as kaj zumas, kiel <tld/>oj,
@@ -39,13 +36,16 @@
   <trd lng="en">bumblebee</trd>
   <trd lng="es">abejorro</trd>
   <trd lng="fr">bourdon<klr tip="ind"> (insecte)</klr></trd>
+  <trd lng="he">&#x5D3;&#x5D1;&#x5D5;&#x5E8;</trd>
   <trd lng="hu">poszm&eacute;h</trd>
+  <trd lng="ja">&#x30DE;&#x30EB;&#x30CF;&#x30CA;&#x30D0;&#x30C1;</trd>
   <trd lng="nl">hommel</trd>
   <trd lng="pl">trzmiel</trd>
   <trd lng="pt">zang&atilde;o</trd>
   <trd lng="ru">&c_sh;&c_m;&c_je;&c_l;&c_mol;</trd>
   <trd lng="sk">&ccaron;meliak</trd>
   <trd lng="sv">humla</trd>
+  <trd lng="uk">&#x434;&#x436;&#x43C;&#x456;&#x43B;&#x44C;</trd>
 </drv>
 </art>
 <!--

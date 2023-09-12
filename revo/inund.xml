@@ -1,40 +1,24 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: inund.xml,v 1.13 2005/12/06 17:32:11 revo Exp $">
+<art mrk="$Id: inund.xml,v 1.22 2023/08/31 16:40:58 revo Exp $">
 <kap>
   <ofc>4</ofc>
-  <rad>inund</rad>/i
+  <rad>inund</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="inund.0i">
   <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="inund.0i.MET">
     <dif>
-      Kovri per nenormala superfluo da akvo:
+      <ref tip="sin" cel="akv.super0i.KOMUNE">Superakvi</ref>:
       <ekz>
-        la rivero <tld/>is la kampojn, detruante la rikoltojn;
-      </ekz>
-      <ekz>
-        la <ind><tld/>o</ind> kovris la tutan ebena&jcirc;on.
-        <trdgrp lng="fr">
-          <trd>inondation</trd>,
-          <trd>crue</trd>
-        </trdgrp>
-        <trdgrp lng="hu">
-          <trd>&aacute;rad&aacute;s</trd>,
-          <trd>&aacute;rv&iacute;z</trd>
-        </trdgrp>
-        <trd lng="be">&c_n;&c_a;&c_v;&c_a;&c_d;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
-        <trd lng="pl">pow&oacute;d&zacute;</trd>
-        <trd lng="ru">&c_n;&c_a;&c_v;&c_o;&c_d;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+        la rivero <tld/>is la kampojn, detruante la rikoltojn.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="bord.super0igxi">superbordi&gcirc;i</ref>,
       <ref cel="versx.super0i">superver&scirc;i</ref>,
-      <ref cel="diluv.0o">diluvo</ref>
     </refgrp>
   </snc>
   <trdgrp lng="be">
@@ -61,9 +45,11 @@
     <trd>el&aacute;raszt</trd>,
     <trd>el&ouml;nt</trd>
   </trdgrp>
-  <trdgrp lng="id">
-    <trd>banjir</trd>,
-    <trd>[<ind>banjir</ind>] membanjiri</trd>
+  <trd lng="id">mem<ind>banjir</ind>i</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6C3E;&#x6FEB;&#x3059;&#x308B;  [<ind>&#x306F;&#x3093;&#x3089;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6C34;&#x6D78;&#x3057;&#x306B;&#x3059;&#x308B;  [<ind>&#x307F;&#x305A;&#x3073;&#x305F;&#x3057;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3042;&#x3075;&#x308C;&#x308B;</trd>
   </trdgrp>
   <trd lng="nl">overstromen</trd>
   <trdgrp lng="pl">
@@ -77,10 +63,62 @@
     <trd>&c_n;&c_a;&c_v;&c_o;&c_d;&c_n;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">zaplavi&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x437;&#x430;&#x442;&#x43E;&#x43F;&#x43B;&#x44F;&#x442;&#x438;</trd>,
+    <trd>&#x437;&#x430;&#x43B;&#x438;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43D;&#x430;&#x432;&#x43E;&#x434;&#x43D;&#x44F;&#x442;&#x438;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inund.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="inund.0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      <ref tip="sin" cel="akv.super0o.MET">Superakvo</ref>:
+      <ekz>
+        la <ind><tld/>o</ind> kovris la tutan ebena&jcirc;on.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_v;&c_a;&c_d;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="bo">&#xF46;&#xF74;&#xF0B;&#xF63;&#xF7C;&#xF42;&#xF0B;</trd>
+  <trdgrp lng="fr">
+    <trd>crue</trd>,
+    <trd>inondation</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;rad&aacute;s</trd>,
+    <trd>&aacute;rv&iacute;z</trd>
+  </trdgrp>
+  <trd lng="id">banjir</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6C3E;&#x6FEB;  [<ind>&#x306F;&#x3093;&#x3089;&#x3093;</ind>]</trd>,
+    <trd>&#x6D2A;&#x6C34;  [<ind>&#x3053;&#x3046;&#x305A;&#x3044;</ind>]</trd>,
+    <trd>&#x5145;&#x6E80;  [<ind>&#x3058;&#x3085;&#x3046;&#x307E;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">pow&oacute;d&zacute;</trd>
+  <trd lng="ru">&c_n;&c_a;&c_v;&c_o;&c_d;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x432;&#x456;&#x43D;&#x44C;</trd>,
+    <trd>&#x43F;&#x43E;&#x432;&#x456;&#x434;&#x44C;</trd>,
+    <trd>&#x43F;&#x430;&#x432;&#x43E;&#x434;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log$
+$Log: inund.xml,v $
+versio 1.19 2020/05/01 10:10:20
+Eko Nur Syah Hidayat: korekteto
+
+versio 1.18 2020/03/29 14:10:20
+Jeromo Vasxe: memstar. ~o, ref dif
+
+Revision 1.17  2015/09/22 12:10:16  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.16  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -94,11 +132,5 @@ Revision 1.13  2005/12/06 17:32:11  revo
 Luiz Portella: +trd pt
 
 Revision 1.12  2004/09/06 16:36:46  revo
-Marc Bavant: +trd fr, mod ref tip
-
-Revision 1.11 2004/03/30 16:32:39 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10 2004/02/16 20:48:34 revo
 -->
 </vortaro>

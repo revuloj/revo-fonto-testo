@@ -1,31 +1,56 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tempes.xml,v 1.24 2023/09/04 18:15:46 revo Exp $">
 <kap>
   <ofc>8</ofc>
-  <rad>tempest</rad>/o <fnt><aut>A. Grabowski</aut>, <vrk>Slownik jezyka
-  Esperanto</vrk>, <lok>[1910-1916?]</lok></fnt>
-  <fnt><bib>PV</bib></fnt>
+  <rad>tempest</rad>/o 
+    <fnt>
+      <aut>A. Grabowski</aut>,
+      <vrk>Slownik jezyka Esperanto</vrk>, <lok>[1910-1916?]</lok>
+    </fnt>
+    <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="tempes.0o">
   <kap><tld/>o</kap>
   <snc mrk="tempes.0o.MET">
     <uzo tip="fak">MET</uzo>
     <dif>
-      Forta <ref tip="vid" cel="sxtorm.0o">&scirc;tormo</ref>:
+      Tre <ref tip="vid" cel="sxtorm.0o">&scirc;torm</ref>a vetero,
+      ofte kun pluvo, ne&gcirc;o a&ubreve; sablo (en dezertoj):
       <ekz>
         inter montoj surprizis lin ega <tld/>o
-        <fnt><bib>RabistFab</bib></fnt>.
+        <fnt><bib>RabistFab</bib></fnt>;
+      </ekz>
+      <ekz>
+        somera <tld/>o torentis sur la monteton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>J&uacute;lia Sigmond</aut>
+          <vrk><url ref="&Monato;/2009/009693.php">La mistera nokto</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj forrapidis, ja la <tld/>o i&gcirc;is pli kaj pli neeltenebla
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julia Sigmond</aut>
+          <vrk><url ref="&Monato;/2015/011386.php">Cent fabeloj</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i-jare tutmonde estis aparte multaj &scirc;tormegoj, <tld/>oj, uraganoj kaj precipe
+        tajfunoj, ciklonoj kaj tornadoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2004/008474.html">Koincido</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <rim>
-    Tempesto estas forta vento ofte kun pluvo, ne&gcirc;o a&ubreve;
-    sablo (&ccirc;e dezertoj).
-    &Scirc;tormo estas tempesto sur maro.
-    <aut>SC</aut>
-    </rim>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_u;&c_r;&c_a;</trd>,
@@ -33,7 +58,11 @@
     <trd>&c_sh;&c_t;&c_o;&c_r;&c_m;</trd>
   </trdgrp>
   <trd lng="cs">bou&rcaron;e</trd>
-  <trd lng="de">Sturm</trd>
+  <trdgrp lng="de">
+    <trd>Unwetter</trd>,
+    <trd>st&uuml;rmisches <ind>Wetter</ind></trd>,
+    <trd>Sturm</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>storm</trd>,
     <trd>tempest</trd>
@@ -44,6 +73,11 @@
   </trdgrp>
   <trd lng="fr">temp&ecirc;te</trd>
   <trd lng="hu">vihar</trd>
+  <trd lng="it">temporale</trd>
+  <trdgrp lng="ja">
+    <trd>&#x66B4;&#x98A8;&#x96E8;  [<ind>&#x307C;&#x3046;&#x3075;&#x3046;&#x3046;</ind>]</trd>,
+    <trd>&#x66B4;&#x98A8;  [<ind>&#x307C;&#x3046;&#x3075;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">storm</trd>
   <trdgrp lng="pl">
     <trd>burza</trd>,
@@ -58,10 +92,23 @@
     <trd>ve&lcaron;k&aacute; b&uacute;rka</trd>,
     <trd>v&iacute;chrica</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x443;&#x440;&#x44F;</trd>,
+    <trd>&#x448;&#x442;&#x43E;&#x440;&#x43C;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2021/08/25 20:31:02
+Wolfram Diestel: +trd it
+
+versio 1.20 2020/11/14 12:11:39
+Wolfram Diestel: precizigis dif, +ekz-oj, germ trd
+
 Revision 1.18  2017/09/07 11:10:18  revo
 Jeromo Vasxe: fnt G
 
@@ -75,11 +122,5 @@ Revision 1.15  2008/10/30 19:25:40  revo
 Sebastian Cyprych: +trd pl +rim
 
 Revision 1.14  2006/02/15 17:32:08  revo
-Tulio Flores: +trd pt
-
-Revision 1.13  2005/12/16 17:30:58  revo
-Jeromo Vasxe: + ekz
-
-Revision 1.12 2005/04/07 16:31:49 revo
 -->
 </vortaro>

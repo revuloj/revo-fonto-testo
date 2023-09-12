@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: apati.xml,v 1.15 2009/07/08 16:31:22 revo Exp $">
+<art mrk="$Id: apati.xml,v 1.21 2023/08/30 18:23:35 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>apati</rad>/o
@@ -11,14 +10,61 @@
   <kap><tld/>o</kap>
   <snc>
     <dif>
-      Malvigleco, indiferenteco:
+      <ref tip="sin" cel="vigl.mal0o">Malvigleco</ref>, 
+      <ref tip="sin" cel="indife.0eco">indiferenteco</ref>:
       <ekz>
-        kun malespero kaj <tld/>o lasi fali la
-        manojn<fnt>Z</fnt>.
+        li sukcesis tiel rapide forigi de la viza&gcirc;o de la laca maljunulo maldol&ccirc;on kaj
+        <tld/>on!
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lacaj de la sendanka laborado, ni kun malespero kaj <tld/>o lasus fali la
+        manojn, &dash; tute egale
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fra&ubreve;lino, nek malbona, nek gaja, &scirc;toni&gcirc;inta en la <tld/>o de sia vivo
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen pensoj, sen ribelo, en kompleta <tld/>o ili faris tion
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i frostis, sed ankora&ubreve; sentis la dol&ccirc;on de la panpeco kaj &scirc;i subite revivi&gcirc;is
+        el sia <tld/>o
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la viza&gcirc;o de <nom>Omar</nom> sin montris <tld/>o, kiu tamen subite &scirc;an&gcirc;i&gcirc;is en rigardon
+        de granda surprizo
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la unua katastrofo de la tago li jam toleris tiun &ccirc;i duan kun la <tld/>o de
+        martiroj
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>;
       </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="marasm.0o">marasmo</ref>.
+    <refgrp tip="vid">
+      <ref cel="deprim.0o">deprimo</ref>,
+      <ref cel="inert.0eco.psika">inerteco<sncref/></ref>,
+      <ref cel="flegm.0o">flegmo</ref>,
+      <ref cel="marasm.0o">marasmo</ref>
     </refgrp>
   </snc>
   <trdgrp lng="be">
@@ -36,12 +82,18 @@
   <trd lng="en">apathy</trd>
   <trd lng="es">apat&iacute;a</trd>
   <trd lng="fr">apathie</trd>
+  <trd lng="he">&alef;&#x5B2;&dalet;&#x5B4;&yod;&shin;&#x5C1;&vav;&#x5BC;&tav;</trd>
   <trdgrp lng="hu">
     <trd>ap&aacute;tia</trd>,
     <trd>egykedv&udblac;s&eacute;g</trd>
   </trdgrp>
   <trdgrp lng="it">
     <trd>apatia</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7121;&#x611F;&#x52D5;  [<ind>&#x3080;&#x304B;&#x3093;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x7121;&#x95A2;&#x5FC3;  [<ind>&#x3080;&#x304B;&#x3093;&#x3057;&#x3093;</ind>]</trd>,
+    <trd>&#x51B7;&#x6DE1;  [<ind>&#x308C;&#x3044;&#x305F;&#x3093;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">apathie</trd>
   <trdgrp lng="ru">
@@ -51,14 +103,22 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>apatia</trd>,
-    <trd>nevšímavosť</trd>,
-    <trd>otupenosť</trd>,
-    <trd>ľahostajnosť voči okoliu</trd>
+    <trd>nev&scaron;&iacute;mavos&tcaron;</trd>,
+    <trd>otupenos&tcaron;</trd>,
+    <trd>&lcaron;ahostajnos&tcaron; vo&ccaron;i okoliu</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x43F;&#x430;&#x442;&#x456;&#x44F;</trd>,
+    <trd>&#x431;&#x430;&#x439;&#x434;&#x443;&#x436;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x431;&#x430;&#x439;&#x434;&#x443;&#x436;&#x456;&#x441;&#x442;&#x44C;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2022/01/09 20:31:15
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.16  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -78,11 +138,5 @@ Revision 1.11  2002/10/21 16:36:47  revo
 Christopher Zervic: + ang
 
 Revision 1.10  2002/09/07 17:41:46  revo
-Viliam Bur: +sk trd
-
-Revision 1.9  2002/05/10 16:33:28  revo
-Alejandro Mejia Greene: ald his trd
-
-Revision 1.8  2002/02/23 19:55:29  revo
 -->
 </vortaro>

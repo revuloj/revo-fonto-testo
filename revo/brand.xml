@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: brand.xml,v 1.17 2009/10/06 16:44:07 revo Exp $">
+<art mrk="$Id: brand.xml,v 1.29 2023/08/31 08:48:53 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>brand</rad>/o <fnt><bib>PV</bib></fnt>
@@ -70,9 +69,19 @@
     <trd>ko&rcaron;alka</trd>,
     <trd>p&aacute;lenka</trd>
   </trdgrp>
+  <trd lng="he">&#x5D1;&#x5E8;&#x5E0;&#x5D3;&#x5D9;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x84B8;&#x7559;&#x9152;  [<ind>&#x3058;&#x3087;&#x3046;&#x308A;&#x3085;&#x3046;&#x3057;&#x3085;</ind>]</trd>,
+    <trd>&#x30D6;&#x30E9;&#x30F3;&#x30C7;&#x30FC;</trd>,
+    <trd>&#x713C;&#x914E;  [<ind>&#x3057;&#x3087;&#x3046;&#x3061;&#x3085;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>brandy</trd>,
     <trd>p&aacute;lenka</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&#x43E;&c_r;&c_ib;&#x43B;&#x43A;&c_a;</trd>,
+    <trd>&c_b;&c_r;&c_je;&#x43D;&c_d;&c_ib;</trd>
   </trdgrp>
 </drv>
 
@@ -124,6 +133,7 @@
     <trd>jalovcov&aacute;</trd>
   </trdgrp>
   <trd lng="sk">borovi&ccaron;ka</trd>
+  <trd lng="uk">&#x44F;&#x43B;&c_ib;&c_v;&c_c;&c_ib;&c_v;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="brand.prun0o">
@@ -137,7 +147,7 @@
         la urbo <klr>[Vizovice]</klr> estas sidejo de mondfama prun<tld/>ofarejo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=218086'>Vizovice</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=218086">Vizovice</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -148,8 +158,13 @@
     </trdgrp>
     <trd lng="pl">&sacute;liwowica</trd>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_ja;&c_n;&c_k;&c_a; <klr>(&c_n;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_k;)</klr></trd>
   <trd lng="cs">slivovice</trd>
   <trd lng="sk">slivovica</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43B;&c_i;&c_v;&#x2019;&#x44F;&#x43D;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&#x43B;&c_i;&c_v;&#x43E;&c_v;&c_i;&c_c;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="brand.cxeriz0o">
@@ -163,7 +178,7 @@
         al la krono de &ccirc;iuj spiritoj decas la <klr>[...]</klr> &ccirc;erizbrando
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=497876'>Waldulm</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=497876">Waldulm</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -171,10 +186,21 @@
     <trd lng="fr"><ind>eau-de-vie</ind> de cerises</trd>
     <trd lng="pl">wi&sacute;ni&oacute;wka</trd>
   </snc>
+  <trd lng="be">&c_v;&c_ib;&c_sh;&c_n;&c_jo;&c_w;&c_k;&c_a; <klr>(&c_n;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_k;)</klr></trd>
+  <trd lng="he">&#x5D1;&#x5E8;&#x5E0;&#x5D3;&#x5D9;
+  &#x5D3;&#x5D5;&#x5D1;&#x5D3;&#x5D1;&#x5E0;&#x5D9;&#x5DD;</trd>
+  <trd lng="ja">&#x30C1;&#x30A7;&#x30EA;&#x30FC;&#x30D6;&#x30E9;&#x30F3;&#x30C7;&#x30FC;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_sh;&#x43D;&c_ib;&c_v;&#x43A;&c_a;</trd>,
+    <trd>&c_v;&c_i;&c_sh;&#x43D;&#x44F;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2022/04/01 07:29:34
+Dmitri Gabinski: + trd be
+
 Revision 1.21  2015/10/06 03:10:24  revo
 Evandro Avellar: +trd pt
 

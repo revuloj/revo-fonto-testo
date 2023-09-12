@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gaj.xml,v 1.27 2009/11/02 17:30:23 revo Exp $">
+<art mrk="$Id: gaj.xml,v 1.38 2023/08/31 14:29:50 revo Exp $">
   <kap>
     <ofc>*</ofc>
     <rad>gaj</rad>/a <fnt><bib>PV</bib></fnt>
@@ -122,6 +121,7 @@
     <trd lng="pt">alegre</trd>
   </snc>
   <trd lng="be">&c_v;&c_ja;&c_s;&c_jo;&c_l;&c_y;</trd>
+  <trd lng="bo">&#xF41;&#xFB1;&#xF51;&#xF0B;&#xF58;&#xF5A;&#xF62;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
   <trd lng="cs">vesel&yacute;</trd>
   <trdgrp lng="de">
         <trd>fr&ouml;hlich</trd>,
@@ -139,6 +139,13 @@
         <trd>v&iacute;g</trd>,
         <trd>vid&aacute;m</trd>
       </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x967D;&#x6C17;&#x306A;  [<ind>&#x3088;&#x3046;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x5FEB;&#x6D3B;&#x306A;  [<ind>&#x304B;&#x3044;&#x304B;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x6109;&#x5FEB;&#x306A;  [<ind>&#x3086;&#x304B;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x306B;&#x304E;&#x3084;&#x304B;&#x306A;</trd>,
+    <trd>&#x6D6E;&#x304D;&#x6D6E;&#x304D;&#x3057;&#x305F;  [<ind>&#x3046;&#x304D;&#x3046;&#x304D;&#x3057;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
         <trd>blij</trd>,
         <trd>vrolijk</trd>
@@ -146,7 +153,12 @@
   <trd lng="ru">&c_v;&c_je;&c_s;&c_jo;&c_l;&c_y;&c_j;</trd>
   <trd lng="sk">vesel&yacute;</trd>
   <trd lng="sv">glad</trd>
+  <trdgrp lng="sw">
+    <trd>-enye furaha</trd>,
+    <trd>-enye hali ya kuchekacheka</trd>
+  </trdgrp>
   <trd lng="tr">ne&scedil;eli</trd>
+  <trd lng="uk">&c_v;&c_je;&c_s;&c_je;&#x43B;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="gaj.0i">
@@ -186,6 +198,10 @@
         <trd>gioire</trd>,
         <trd>essere <ind>allegro</ind></trd>
       </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6109;&#x5FEB;&#x306A;&#x6C17;&#x6301;&#x3061;&#x3067;&#x3044;&#x308B;  [<ind>&#x3086;&#x304B;&#x3044;&#x306A;&#x304D;&#x3082;&#x3061;&#x3067;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x6674;&#x308C;&#x6674;&#x308C;&#x3057;&#x3066;&#x3044;&#x308B;  [<ind>&#x306F;&#x308C;&#x3070;&#x308C;&#x3057;&#x3066;&#x3044;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">blij zijn</trd>
   <trdgrp lng="pt">
         <trd>estar <ind>alegre</ind></trd>, 
@@ -197,6 +213,10 @@
           <ind>&c_n;&c_a;&c_s;&c_t;&c_r;&c_o;&c_je;&c_n;&c_i;&c_i;</ind></trd>
       </trdgrp>
   <trd lng="sk">by&tcaron; vesel&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_je;&c_s;&c_je;&#x43B;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_v; &c_g;&c_a;&c_r;&#x43D;&#x43E;&#x43C;&c_u; &#x43D;&c_a;&c_s;&c_t;&c_r;&#x43E;&c_ji;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gaj.0igi">
@@ -266,6 +286,7 @@
         <trd>allietare</trd>,
         <trd>rallegrare</trd>
       </trdgrp>
+  <trd lng="ja">&#x697D;&#x3057;&#x304F;&#x3059;&#x308B;  [<ind>&#x305F;&#x306E;&#x3057;&#x304F;&#x3059;&#x308B;</ind>]</trd>
   <trdgrp lng="nl">
         <trd>blij maken</trd>,
         <trd>leuk maken</trd>
@@ -277,6 +298,11 @@
         <trd>ne&scedil;elendirmek</trd>,
         <trd>e&gbreve;lendirmek</trd>
       </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_je;&c_s;&c_je;&#x43B;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_v;&c_je;&c_s;&c_je;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_v;&c_je;&c_s;&c_je;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gaj.0iga">
@@ -302,6 +328,12 @@
       <ref cel="rid">ridiga</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_w;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_c;&c_je;&c_sh;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_v;&c_ja;&c_s;&c_jo;&c_l;&c_y;</trd>
+  </trdgrp>
   <trd lng="cs">z&aacute;bavn&yacute;</trd>
   <trdgrp lng="de">
         <trd>erheiternd</trd>,
@@ -319,9 +351,12 @@
         <trd>gaio</trd>,
         <trd>gioioso</trd>
        </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x697D;&#x3057;&#x304F;&#x3059;&#x308B;  [<ind>&#x305F;&#x306E;&#x3057;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6C17;&#x6674;&#x3089;&#x3057;&#x306B;&#x306A;&#x308B;  [<ind>&#x304D;&#x3070;&#x3089;&#x3057;&#x306B;&#x306A;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">leuk</trd>
-  <trd lng="pt">alegre <klr tip="amb"> (que causa alegria)</klr><klr
-      tip="ind"> (adj.)</klr></trd>
+  <trd lng="pt">alegre <klr tip="amb"> (que causa alegria)</klr><klr tip="ind"> (adj.)</klr></trd>
   <trdgrp lng="ru">
         <trd>&c_v;&c_je;&c_s;&c_je;&c_l;&c_ja;&c_shch;&c_i;&c_j;</trd>,
         <trd>&c_u;&c_v;&c_je;&c_s;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
@@ -332,6 +367,7 @@
        <trd>ne&scedil;elendiren</trd>,
        <trd>e&gbreve;lendiren</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&c_v;&c_je;&c_s;&c_je;&#x43B;&#x44F;&#x44E;&c_ch;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="gaj.mal0a">
@@ -384,6 +420,12 @@
         <trd>fosco</trd>, 
         <trd>funereo</trd>, 
        </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9670;&#x6C17;&#x306A;  [<ind>&#x3044;&#x3093;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x6C17;&#x5206;&#x306E;&#x6C88;&#x3093;&#x3060;  [<ind>&#x304D;&#x3076;&#x3093;&#x306E;&#x3057;&#x305A;&#x3093;&#x3060;</ind>]</trd>,
+    <trd>&#x3075;&#x3055;&#x304E;&#x8FBC;&#x3093;&#x3060;  [<ind>&#x3075;&#x3055;&#x304E;&#x3053;&#x3093;&#x3060;</ind>]</trd>,
+    <trd>&#x9B31;&#x9676;&#x3057;&#x3044;  [<ind>&#x3046;&#x3063;&#x3068;&#x3046;&#x3057;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
         <trd>triest</trd>,
         <trd>bedroefd</trd>,
@@ -404,6 +446,7 @@
         <trd>gaml&inodot;</trd>
         <trd>h&uuml;z&uuml;nl&uuml;</trd>
       </trdgrp>
+  <trd lng="uk">&c_s;&c_u;&#x43C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
     <drv mrk="gaj.mal0i">
@@ -447,6 +490,10 @@
         <trd>rattristare</trd>,
         <trd>contristare</trd>
        </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#x5206;&#x304C;&#x6C88;&#x3093;&#x3067;&#x3044;&#x308B;  [<ind>&#x304D;&#x3076;&#x3093;&#x304C;&#x3057;&#x305A;&#x3093;&#x3067;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x3075;&#x3055;&#x304E;&#x8FBC;&#x3093;&#x3067;&#x3044;&#x308B;  [<ind>&#x3075;&#x3055;&#x304E;&#x3053;&#x3093;&#x3067;&#x3044;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
         <trd>bedroefd zijn</trd>,
         <trd>treurig zijn</trd>
@@ -463,6 +510,7 @@
         <trd>h&uuml;z&uuml;nlenmek</trd>,
         <trd>gamlanmak</trd>
       </trdgrp>
+  <trd lng="uk">&c_s;&c_u;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="gaj.mal0o">
@@ -481,6 +529,13 @@
 
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_m;&c_u;&c_t;&c_a;&c_k;</trd>,
+    <trd>&c_s;&c_u;&c_m;</trd>,
+    <trd>&c_zh;&c_u;&c_r;&c_b;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_r;&c_k;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_t;&c_u;&c_g;&c_a;</trd>
+  </trdgrp>
   <trd lng="cs">smutek</trd>
   <trd lng="fr">tristesse</trd>
   <trdgrp lng="hu">
@@ -497,6 +552,10 @@
       </trdgrp>
   <trd lng="sk">sm&uacute;tok</trd>
   <trd lng="tr">mutsuzluk</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&#x43C;</trd>,
+    <trd>&c_s;&#x43C;&c_u;&c_t;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
     <drv mrk="gaj.G0o">
@@ -504,8 +563,8 @@
       <snc mrk="gaj.G0o.NOM">
         <uzo tip="fak">NOM</uzo>
         <dif>
-          Vira <ref tip="lst" cel="nom.antaux0o"
-      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> latindevena:
+          Vira <ref tip="lst" cel="nom.antaux0o" lst="voko:personaj_nomoj">anta&ubreve;nomo</ref>
+          latindevena:
           <ekz>
             <tld lit="G"/>o Julio <ref cel="cezar.0o.PERS">Cezaro</ref>;
           </ekz><ekz>
@@ -533,6 +592,7 @@
         konservis la &gcirc;ustan sonformon kun [g].
         <aut>Sergio Pokrovskij</aut>
       </rim>
+      <trd lng="be">&c_G;&c_a;&c_j; <klr>(&c_ib;&c_m;&c_ja;)</klr></trd>
       <trdgrp lng="de">
         <trd>Gaius</trd>
       </trdgrp>
@@ -573,6 +633,9 @@
   </art>
   <!--
   $Log$
+versio 1.36 2023/03/09 07:27:47
+Dmitri Gabinski: + trd be
+
   Revision 1.31  2015/07/04 08:37:34  revo
   aldono de trd cs per skripto de M. von Laer
 
@@ -592,41 +655,5 @@
   Emmanuel Debanne: +trd tr
 
   Revision 1.25  2006/06/12 16:31:41  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.24  2005/09/28 16:31:57  revo
-  Wieland Pusch: +trd de
-
-  Revision 1.23  2005/08/15 16:32:07  revo
-  Luiz Portella: +trd pt
-
-  Revision 1.22  2005/06/12 16:31:14  revo
-  Sergio Pokrovskij: kor rim1
-
-  Revision 1.21  2005/06/11 16:31:54  revo
-  Sergio Pokrovskij: +NOM
-
-  Revision 1.20  2005/06/09 17:41:09  revo
-  Yury Finkel: +trd ru
-
-  Revision 1.19  2003/10/25 16:30:41  revo
-  Jeromo Vasxe: kor mrk, + 1 ekz, sxov. trd de mal~a al la kapvorto
-
-  Revision 1.18 2003/10/22 16:30:39 revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.17 2003/08/03 16:30:43 revo
-  jxerom vasxe: + mal~a mal~o, + mrk
-
-  Revision 1.16 2002/09/30 16:32:56 revo
-  Alejandro Mejia Greene: ald 5 his trd
-
-  Revision 1.15 2002/09/18 16:37:53 revo
-  Eduardo M. Kalinowski: ald trd pt
-
-  Revision 1.14 2002/06/29 17:46:55 revo
-  Ulrich Fellmann: + 10 pliaj trd de
-
-  Revision 1.13 2001/12/11 18:22:37 revo
-  -->
+-->
 </vortaro>

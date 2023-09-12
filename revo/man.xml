@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: man.xml,v 1.37 2010/12/02 17:30:55 revo Exp $">
+<art mrk="$Id: man.xml,v 1.149 2023/09/06 11:22:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>man</rad>/o <fnt><bib>PV</bib></fnt>
@@ -97,6 +96,13 @@
         </fnt>.
       </ekz>
     </dif>
+        <bld lok="&WCU;/thumb/4/4a/Raczka4.jpg/360px-Raczka4.jpg" prm="CC-BY-SA-3.0">tipa homa mano
+        <fnt>
+          <aut>Krzysztof P. Jasiutowicz</aut>
+          <lok><url
+          ref="&WCW;/File:Raczka4.jpg">https://commons.wikimedia.org/wiki/File:Raczka4.jpg</url></lok>
+        </fnt>
+    </bld>
   </snc>
   <snc mrk="man.0o.agado">
     <dif>
@@ -119,7 +125,11 @@
         </fnt>;
       </ekz>
       <ekz>
-        havi pruvon en la <tld/>o<fnt>B</fnt>;
+        ni havos en la <tld/>oj pruvojn, ke la &ccirc;efpastroj estas perfiduloj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <klr>(ekkapti iun)</klr> kun la peko en <tld/>o
@@ -183,13 +193,14 @@
         en siaj <tld/>oj la sorton de <klr>[...]</klr>;
       </ekz>
       <ekz>
-        la sorto de la afero ku&scirc;as en la <tld/>oj (dependas) de
-        tiu
-        ligo<fnt>Z</fnt>;
+        la sorto de l' afero estas nun <klr>[&#8230;]</klr> en la <tld/>oj
+        <klr>(dependas)</klr> de ni &ccirc;iuj
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        fali en la <tld/>ojn <klr>(sub la povo)</klr> de
-        iu
+        fali en la <tld/>ojn <klr>(sub la povo)</klr> de iu
         <fnt>
           <bib>NT</bib>
           <lok>Hebreoj 10:31</lok>
@@ -212,40 +223,161 @@
       <ref cel="reg.0i">regi</ref>
     </refgrp>
   </snc>
-  <trd lng="be">&c_r;&c_u;&c_k;&c_a; <klr
-  tip="amb">(&c_k;&c_ib;&c_s;&c_mol;&c_c;&c_mol;)</klr></trd>
+  <trd lng="af">hand</trd>
+  <trd lng="am">&#x12A5;&#4869;</trd>
+  <trd lng="ar">&a_y;&a_d;</trd>
+  <trd lng="az">&#601;l</trd>
+  <trd lng="be">&c_r;&c_u;&c_k;&c_a; <klr tip="amb">(&c_k;&c_ib;&c_s;&c_mol;&c_c;&c_mol;)</klr></trd>
   <trd lng="bg">&c_r;&c_malmol;&c_k;&c_a;</trd>
+  <trd lng="bn">&#x9B9;&#x9BE;&#x9A4;</trd>
+  <trd lng="bo">&t_la;&t_ga;&t_tsheg;&t_pa;&t_tsheg;</trd>
   <trd lng="br">dorn</trd>
+  <trd lng="bs">ruku</trd>
+  <trd lng="co">manu</trd>
   <trd lng="cs">ruka</trd>
+  <trd lng="cy">llaw</trd>
+  <trd lng="da">h&aring;nd</trd>
   <trd lng="de">Hand</trd>
   <trd lng="en">hand</trd>
   <trd lng="es">mano</trd>
+  <trd lng="et">k&auml;si</trd>
+  <trd lng="eu">eskuko</trd>
   <trd lng="fr">main</trd>
+  <trd lng="fy">h&acirc;n</trd>
+  <trd lng="ga">l&aacute;mh</trd>
+  <trd lng="gd">l&agrave;imh</trd>
+  <trd lng="gl">man</trd>
+  <trd lng="gu">&#xAB9;&#xABE;&#xAA5;</trd>
+  <trd lng="ha">hannu</trd>
+  <trd lng="hi">&#2361;&#x93E;&#2341;</trd>
+  <trd lng="hmn">tes</trd>
+  <trd lng="hr">ruka</trd>
+  <trd lng="ht">men</trd>
   <trd lng="hu">k&eacute;z</trd>
+  <trd lng="hy">&#1393;&#1381;&#x57C;&#1412;</trd>
   <trd lng="id">tangan</trd>
+  <trd lng="ig">aka</trd>
+  <trd lng="is">h&ouml;nd</trd>
   <trd lng="it">mano</trd>
+  <trd lng="ja">&#x624B; [<ind>&#12390;</ind>]</trd>
+  <trd lng="jv">tangan</trd>
+  <trd lng="ka">&#x10EE;&#x10D4;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&#x49B;&c_o;&c_l;</trd>
+  <trd lng="km">&#x178A;&#x17C3;</trd>
+  <trd lng="kn">&#xC95;&#xCC8;</trd>
+  <trd lng="ko">&#xC190;</trd>
+  <trd lng="ku">dest</trd>
+  <trd lng="ky">&c_k;&c_o;&c_l;</trd>
+  <trd lng="lat">manibus</trd>
+  <trd lng="lo">&#xEA1;&#xEB7;</trd>
+  <trd lng="lt">rank&#371;</trd>
+  <trd lng="lv">roku</trd>
+  <trd lng="mg">tanana</trd>
+  <trd lng="mi">ringa</trd>
+  <trd lng="mk">&c_s;&c_t;&c_r;&c_a;&c_n;&c_a;</trd>
+  <trd lng="ml">&#xD15;&#xD48;</trd>
+  <trd lng="mn">&c_g;&c_a;&c_r;</trd>
+  <trd lng="mr">&#2361;&#x93E;&#2340;</trd>
+  <trd lng="ms">tangan</trd>
+  <trd lng="mt">idejn</trd>
+  <trd lng="my">&#x101C;&#4096;&#x103A;</trd>
+  <trd lng="ne">&#2361;&#x93E;&#2340;</trd>
   <trd lng="nl">hand</trd>
+  <trd lng="ny">dzanja</trd>
+  <trd lng="pa">&#xA26;&#xA3E; &#xA39;&#xA71;&#xA25;</trd>
   <trd lng="pl">r&eogonek;ka</trd>
+  <trd lng="ps">&a_d; &a_l;&a_A;&a_s;</trd>
   <trd lng="pt">m&atilde;o</trd>
   <trd lng="ro">m&acirc;n&abreve;</trd>
-  <trd lng="ru">&c_r;&c_u;&c_k;&c_a; <klr
-  tip="amb">(&c_k;&c_i;&c_s;&c_t;&c_mol;)</klr></trd>
+  <trd lng="ru">&c_r;&c_u;&c_k;&c_a; <klr tip="amb">(&c_k;&c_i;&c_s;&c_t;&c_mol;)</klr></trd>
+  <trd lng="rw">ukuboko</trd>
+  <trd lng="sd">&a_h;&#x67F;</trd>
+  <trd lng="si">&#xD85;&#xDAD;</trd>
   <trd lng="sl">roka</trd>
   <trd lng="sk">ruka</trd>
+  <trd lng="sm">lima</trd>
+  <trd lng="sn">ruoko</trd>
+  <trd lng="so">gacanta</trd>
+  <trd lng="sq">dor&euml;</trd>
+  <trd lng="st">letsoho la</trd>
+  <trd lng="su">panangan</trd>
   <trd lng="sv">hand</trd>
-  <trd lng="tp">luka</trd>
-  <trd lng="zh">&#25163;</trd>
+  <trd lng="sw">mkono</trd>
+  <trd lng="ta">&#xB95;&#xBC8;&#xBAF;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC1A;&#xC47;&#xC24;&#xC3F;</trd>
+  <trd lng="tg">&c_d;&c_a;&c_s;&c_t;</trd>
+  <trd lng="th">&#xE21;&#xE37;&#xE2D;</trd>
+  <trd lng="tl">kamay</trd>
+  <trd lng="tok">luka</trd>
+  <trd lng="tt">&c_k;&c_u;&c_l;</trd>
+  <trd lng="uk">&c_r;&c_u;&c_k;&c_a;</trd>
+  <trd lng="ur">&#x6C1;&a_A;&a_t;&#x6BE;</trd>
+  <trd lng="uz">qo&#8217;l</trd>
+  <trd lng="vi">tay</trd>
+  <trd lng="xh">isandla</trd>
+  <trd lng="yi">&he;&alef;&#x5B7;&nun;&tet;</trd>
+  <trd lng="yo">&#x1ECD;w&#x1ECD;</trd>
+  <trd lng="zh">&#x624B;</trd>
+  <trd lng="zu">isandla</trd>
 </drv>
-
 
 <drv mrk="man.0ego">
   <kap><ofc>*</ofc><tld/>ego
   <fnt><bib>F</bib>, <lok>Universala Vortaro, -eg'</lok></fnt></kap>
-  <snc>
+  <snc mrk="man.0ego.ANA">
     <dif>
-    Granda, dika mano.
+      Granda, dika mano:
+      <ekz>
+        la grakanta &ccirc;ifonulino havis en la <tld/>ego krizantemon tiel bluan, kian vi
+        povas nur deziri
+        <fnt>
+          <vrk><url
+          ref="https://lek.esperanto.sk/2018.12.15_PosxRakontoj/TEKSTOJ-TEXTY/02%20BLUA%20KRIZANTEMO.pdf">Blua
+          Krizantemo</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_u;&c_ch;&c_y;&c_sh;&c_ch;&c_a;</trd>
+  <trd lng="fr">paluche</trd>
+  <trd lng="ja">&#22823;&#x304D;&#x306A;&#x624B;  [<ind>&#x304A;&#x304A;&#x304D;&#x306A;&#12390;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_a;&c_p;&c_a;</trd>,
+    <trd>&c_r;&c_u;&c_ch;&c_i;&c_shch;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="man.0umi">
+  <kap>
+    <tld/>umi
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="man.0umi.KOMUNE">
+    <dif>
+      Tu&scirc;adi, prenadi, turnadi, movi per<tld/>e;
+      <tld/>uzi,
+      <ref cel="manipu.0i.KOMUNE">manipuli<sncref/></ref>:
+      <ekz>
+        <tld/>umi bastonegon
+        <fnt>
+          <aut>E. About, trad. G. Moch</aut>
+          <vrk><url ref="&Gutenberg;files/65835/65835-0.txt">La Re&gcirc;o de la
+          Montoj</url></vrk>
+          <lok>1909</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_n;&c_ib;&c_p;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; &c_n;&c_je;&c_sh;&c_t;&c_a; <ind>&c_r;&c_u;&c_k;&c_a;&c_m;&c_ib;</ind></trd>
+  </trdgrp>
+  <trd lng="fr">manipuler</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_o;&c_l;&c_o;&c_d;&c_ib;&c_t;&c_i; &c_r;&c_u;&c_k;&c_o;&c_ju;</trd>,
+    <trd>&c_o;&c_r;&c_u;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i; &c_r;&c_u;&c_k;&c_o;&c_ju;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_l;&c_u;&c_g;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja; &c_r;&c_u;&c_k;&c_o;&c_ju;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="man.0umo">
@@ -253,21 +385,20 @@
   <snc mrk="man.0umo.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
-      Ekstrema parto de la <ref tip="malprt"
-      cel="manik.0o">maniko</ref>,
+      Ekstrema parto de la
+      <ref tip="malprt" cel="manik.0o">maniko</ref>,
       kiu &ccirc;irka&ubreve;as la <tld/>radikon, a&ubreve; aparta peco
-      da tolo
-      almetebla al
+      da tolo almetebla al
       la maniko kaj &ccirc;irka&ubreve;anta la radikon:
       <ekz>
         &ccirc;emizojn, kolumojn, <tld/>umojn kaj ceterajn similajn
-        objektojn ni nomas tola&jcirc;o, kvankam ili ne &ccirc;iam estas 
+        objektojn ni nomas tola&jcirc;o, kvankam ili ne &ccirc;iam estas
         faritaj el tolo
         <fnt><bib>F</bib>, <lok>&FE; 35</lok></fnt>;
       </ekz>
       <ekz>
-        <tld/>oj, kiuj, blankaj kaj malgrandaj, el&scirc;ovi&gcirc;is el la blankaj
-        <tld/>umoj
+        <tld/>oj, kiuj, blankaj kaj malgrandaj,
+        el&scirc;ovi&gcirc;is el la blankaj <tld/>umoj
         <fnt>
           <bib>Marta</bib>
         </fnt>.
@@ -281,17 +412,27 @@
   <trd lng="bg">&c_m;&c_a;&c_n;&c_sh;&c_je;&c_t;</trd>
   <trd lng="br">berrva&ntilde;ch</trd>
   <trd lng="cs">man&zcaron;eta</trd>
+  <trdgrp lng="de">
+    <trd>&Auml;rmelaufschlag</trd>,
+    <trd>Manschette</trd>
+  </trdgrp>
   <trd lng="en">cuff</trd>
   <trd lng="es">pu&ntilde;o<klr> (de camisa)</klr></trd>
   <trdgrp lng="fr">
     <trd>manchette</trd>,
     <trd>poignet</trd>
   </trdgrp>
+  <trd lng="id">manset</trd>
   <trd lng="it">polsino</trd>
+  <trdgrp lng="ja">
+    <trd>&#x305D;&#12391;&#x53E3;  [<ind>&#x305D;&#12391;&#12368;&#12385;</ind>]</trd>,
+    <trd>&#x30AB;&#x30D5;&#x30B9;</trd>
+  </trdgrp>
   <trd lng="nl">manchet</trd>
   <trd lng="pl">mankiet</trd>
   <trd lng="ru">&c_m;&c_a;&c_n;&c_zh;&c_je;&c_t;&c_a;</trd>
   <trd lng="sk">man&zcaron;eta</trd>
+  <trd lng="uk">&c_m;&c_a;&c_n;&c_zh;&c_je;&c_t;&c_a;</trd>
 </drv>
 
 <drv mrk="man.dekstra0a">
@@ -307,6 +448,7 @@
     </dif>
     <trd lng="de">rechtsh&auml;ndig</trd>
     <trd lng="fr">droitier<klr tip="ind"> (adj.)</klr></trd>
+    <trd lng="id">kinan</trd>
     <trdgrp lng="it">
       <trd>destro<klr> (agg.)</klr></trd>,
       <trd>destrorso</trd>
@@ -327,9 +469,17 @@
     <trd lng="nl">rechter<klr tip="ind"> (voor de
     rechterhand)</klr></trd>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;&c_r;&c_u;&c_ch;&c_n;&c_y;</trd>
   <trdgrp lng="es">
     <trd>diestro</trd>,
     <trd>diestra</trd>
+  </trdgrp>
+  <trd lng="ja">&#x53F3;&#21033;&#x304D;&#x306E; 
+  [<ind>&#x307F;&#x304E;&#x304D;&#x304D;&#x306E;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_r;&c_u;&c_ch;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_ja;&c_k;&c_i;&c_j; &c_l;&c_je;&c_g;&c_sh;&c_je; &c_v;&c_o;&c_l;&c_o;&c_d;&c_ib;&c_jeu; &c_p;&c_r;&c_a;&c_v;&c_o;&c_ju;
+    &c_r;&c_u;&c_k;&c_o;&c_ju;</trd>
   </trdgrp>
 </drv>
 
@@ -341,14 +491,12 @@
       Jam uzita, ne nova, brokanta;
       raportata, onidira:
       <ekz>
-        eblas multon fari <klr>...</klr> a&ccirc;eti malpli, a&ccirc;eti
-        
+        eblas multon fari <klr>[&#8230;]</klr> a&ccirc;eti malpli, a&ccirc;eti
         dua<tld/>ajn aferojn, partopreni en senmonaj
         inter&scirc;an&gcirc;aj retoj
         <fnt>
           <aut>Marion</aut>,
-          <vrk><url
-          ref="http://www.ipernity.com/blog/59826/227996#comment9175807">
+          <vrk><url ref="http://www.ipernity.com/blog/59826/227996#comment9175807">
           Revolucio?!</url></vrk>,
           <lok>2010</lok>
         </fnt>;
@@ -364,6 +512,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_n;&c_o;&c_v;&c_y;</trd>,
+    <trd>&c_u;&c_zh;&c_y;&c_v;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_z; &c_d;&c_r;&c_u;&c_g;&c_ib;&c_h; <ind>&c_r;&c_u;&c_k;</ind></trd>,
+    <trd>&c_p;&c_a;&c_t;&c_r;&c_y;&c_m;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_k;&c_o;&c_j;&c_t;&c_o; &c_je; &c_v;&c_t;&c_o;&c_r;&c_a; &c_r;&c_malmol;&c_k;&c_a;</trd>,
     <trd>&c_u;&c_p;&c_o;&c_t;&c_r;&c_je;&c_b;&c_ja;&c_v;&c_a;&c_n;</trd>
@@ -373,6 +527,8 @@
     <trd>de segunda mano</trd>
   </trdgrp>
   <trd lng="fr">de <ind>seconde main</ind></trd>
+  <trd lng="id">kikan</trd>
+  <trd lng="nl">tweedehands</trd>
 </drv>
 
 <drv mrk="man.maldekstra0a">
@@ -409,6 +565,7 @@
     <trd lng="nl">linker<klr tip="ind"> (voor de
     linkerhand)</klr></trd>
   </snc>
+    <trd lng="be">&c_l;&c_je;&c_v;&c_a;&c_r;&c_u;&c_ch;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
     <trd>lev&aacute;k <klr>(adj.)</klr></trd>,
     <trd>&scaron;ikovn&yacute; na levou ruku</trd>
@@ -417,12 +574,18 @@
     <trd>zurdo</trd>,
     <trd>cucho</trd>
   </trdgrp>
+  <trd lng="ja">&#x5DE6;&#21033;&#x304D;&#x306E;  [<ind>&#12402;&#12384;&#x308A;&#x304D;&#x304D;&#x306E;</ind>]</trd>
   <trd lng="sk">&lcaron;av&aacute;k</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_ib;&c_v;&c_o;&c_r;&c_u;&c_ch;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_ja;&c_k;&c_i;&c_j; &c_l;&c_je;&c_g;&c_sh;&c_je; &c_v;&c_o;&c_l;&c_o;&c_d;&c_ib;&c_jeu; &c_l;&c_ib;&c_v;&c_o;&c_ju;
+    &c_r;&c_u;&c_k;&c_o;&c_ju;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="man.cxe0e">
   <kap>&ccirc;e<tld/>e</kap>
-  <snc mrk="man.cx0e.proksime">
+  <snc mrk="man.cxe0e.proksime">
     <dif>
       Sufi&ccirc;e proksime, ke per la mano oni tu&scirc;as a&ubreve;
       facile povas
@@ -439,6 +602,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_d;&c_r;&c_u;&c_ch;&c_n;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_d; <ind>&c_r;&c_u;&c_k;&c_o;&c_j;</ind></trd>
+  </trdgrp>
   <trdgrp lng="br">
     <trd>dindan <ind>dorn</ind></trd>,
     <trd>dindan e zorn</trd>
@@ -452,26 +619,51 @@
     <trd>al alcance</trd>
   </trdgrp>
   <trdgrp lng="fr">
-    <trd>&agrave; la main</trd>,
-    <trd>&agrave; port&eacute;e de main</trd>
+    <trd>&agrave; port&eacute;e de main</trd>,
   </trdgrp>
   <trd lng="it">sottomano</trd>
+  <trdgrp lng="ja">
+    <trd>&#x624B;&#20803;&#12391;  [<ind>&#12390;&#12418;&#12392;&#12391;</ind>]</trd>,
+    <trd>&#x624B;&#20803;&#x306B;  [<ind>&#12390;&#12418;&#12392;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bij de <ind>hand</ind></trd>
-  <trd lng="pl">pod r&eogonek;k&aogonek;</trd>   
+  <trd lng="pl">pod r&eogonek;k&aogonek;</trd>
   <trd lng="ru">&c_p;&c_o;&c_d; &c_r;&c_u;&c_k;&c_o;&c_j;</trd>
+  <trd lng="uk">&c_m;&c_a;&c_t;&c_i; &c_shch;&c_o;&c_s;&c_mol; &c_p;&c_ib;&c_d; &c_r;&c_u;&c_k;&c_a;&c_m;&c_i;</trd>
 </drv>
 
 <drv mrk="man.cxirkaux0o">
   <kap><ofc>*</ofc>&ccirc;irka&ubreve;<tld/>o <fnt><bib>F</bib>, <lok>Universala
   Vortaro, <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-4996">&ccirc;irka&ubreve;'man'</url></lok></fnt></kap>
+  ref="&AdE;/fundamento/universala_vortaro.html#av-4996">&ccirc;irka&ubreve;'man'</url></lok></fnt></kap>
+  <uzo tip="stl">EVI</uzo>
   <snc mrk="man.cxirkaux0o.TEKS">
     <dif>
       <ref tip="super" cel="bracel.0o">Braceleto</ref> portata &ccirc;e
-      la
-      <tld/>radiko.
+      la <tld/>radiko:
+      <ekz>
+        Sara estis kvaza&ubreve; alnajlita al la loko &ccirc;e la vido de la <klr>[&#8230;]</klr> oraj
+        &ccirc;irka&ubreve;<tld/>oj kaj &ccirc;irka&ubreve;koloj, de la tuta brila&jcirc;aro
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i portis grandajn briliantojn, <klr>[&#8230;]</klr> sonorigis dek &ccirc;irka&ubreve;<tld/>ojn
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Neniam Plu!</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <rim>
+    Kvankam fundamenta, tiu formo kontra&ubreve;as la 11-an regulon. Cetere &gcirc;i ne apena&ubreve;
+    la <tld/>on, sed la <tld/>radikon a&ubreve; malsupran brakon.
+    Do prefere uzu &leftquot;<ref cel="ring.brak0o">brakringo</ref>&rightquot;
+    a&ubreve; &leftquot;<ref cel="bracel.0o">braceleto</ref>&rightquot;
+  </rim>
   <trd lng="be">&c_b;&c_r;&c_a;&c_n;&c_z;&c_a;&c_l;&c_je;&c_t;</trd>
   <trd lng="br">tro-vrec'h</trd>
   <trd lng="de">Armband</trd>
@@ -481,8 +673,9 @@
   <trd lng="hu">karperec</trd>
   <trd lng="it">braccialetto</trd>
   <trd lng="nl">armband</trd>
-  <trd lng="pl">bransoletka</trd>   
+  <trd lng="pl">bransoletka</trd>
   <trd lng="ru">&c_b;&c_r;&c_a;&c_s;&c_l;&c_je;&c_t;</trd>
+  <trd lng="uk">&c_b;&c_r;&c_a;&c_s;&c_l;&c_je;&c_t;</trd>
 </drv>
 
 <drv mrk="man.en0igi">
@@ -503,7 +696,7 @@
         8a</lok></fnt>;
       </ekz>
     </dif>
-    <trd lng="pl">wr&eogonek;cza&cacute;</trd>   
+    <trd lng="pl">wr&eogonek;cza&cacute;</trd>
   </snc>
   <snc mrk="man.en0igi.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -533,17 +726,27 @@
     <trd>prendre en main</trd>
   </trdgrp>
   <trd lng="it">mettere in <ind>mano</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#20837;&#x624B;&#12377;&#x308B;  [<ind>&#x306B;&#12421;&#12358;&#12375;&#12421;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x624B;&#x6E21;&#12377;  [<ind>&#12390;&#x308F;&#x305F;&#12377;</ind>]</trd>,
+    <trd>&#x8A17;&#12377;  [<ind>&#x305F;&#x304F;&#12377;</ind>]</trd>,
+    <trd>&#x4EFB;&#x305B;&#x308B;  [<ind>&#x307E;&#x304B;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">overhandigen</trd>
   <trd lng="pl">powierza&cacute;</trd>
   <trd lng="ru">&c_v;&c_r;&c_u;&c_ch;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sk">doru&ccaron;i&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_r;&c_u;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_v; &c_r;&c_u;&c_k;&c_u;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="man.manen0e.kun">
+<drv mrk="man.manen0e_kun">
   <kap><tld/>en<tld/>e kun, <var><kap><tld/>-en-<tld/>e
   kun</kap></var></kap>
   <gra><vspec>prepozicia&jcirc;o</vspec></gra>
-  <snc>
+  <snc mrk="man.manen0e_kun.KOMUNE">
     <dif>
       <ref tip="super" cel="kun.0.kunage">Kun</ref>, fide kaj
       akorde, per reciproka helpo:
@@ -566,8 +769,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_u;&c_k;&c_a; &c_w; &c_r;&c_u;&c_k;&c_u;</trd>
   <trd lng="bg">&c_r;&c_malmol;&c_k;&c_a; &c_z;&c_a; &c_r;&c_malmol;&c_k;&c_a; &c_s;</trd>
-  <trd lng="br">dorn-ha-dorn gant</trd>  
+  <trd lng="br">dorn-ha-dorn gant</trd>
   <trd lng="en">hand in hand</trd>
   <trd lng="es">mano a mano</trd>
   <trdgrp lng="fr">
@@ -576,9 +780,8 @@
     <trd>main dans la main avec</trd>
   </trdgrp>
   <trd lng="nl"><ind>hand</ind> in hand</trd>
-  <trd lng="pl">r&eogonek;ka w r&eogonek;k&eogonek;</trd>   
-  <trd lng="ru">&c_r;&c_u;&c_k;&c_a; &c_o;&c_b;
-  &c_r;&c_u;&c_k;&c_u;</trd>
+  <trd lng="pl">r&eogonek;ka w r&eogonek;k&eogonek;</trd>
+  <trd lng="ru">&c_r;&c_u;&c_k;&c_a; &c_o;&c_b; &c_r;&c_u;&c_k;&c_u;</trd>
 </drv>
 
 <drv mrk="man.petiies0on">
@@ -593,6 +796,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_ib;&c_c;&c_mol; &c_r;&c_u;&c_k;&c_ib;</trd>
   <trd lng="bg">&c_m;&c_o;&c_l;&c_ja; &c_z;&c_a; &c_n;&c_je;&c_ch;&c_i;&c_ja; &c_r;&c_malmol;&c_k;&c_a;</trd>
   <trd lng="br">goulenn dorn ub.</trd>
   <trd lng="de">um jemandes <ind>Hand bitten</ind></trd>
@@ -601,7 +805,7 @@
   <trd lng="fr">demander la main<klr> (de)</klr></trd>
   <trd lng="it">chiedere la <ind>mano</ind></trd>
   <trd lng="nl">iem. om zijn/haar <ind>hand</ind> vragen</trd>
-  <trd lng="pl">prosi&cacute; o r&eogonek;k&eogonek;</trd>   
+  <trd lng="pl">prosi&cacute; o r&eogonek;k&eogonek;</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol;
   &c_ch;&c_mol;&c_je;&c_j;-&c_l;&c_i;&c_b;&c_o;
   &c_r;&c_u;&c_k;&c_i;</trd>
@@ -610,7 +814,7 @@
 <drv mrk="man.plen0o">
   <kap>plen<tld/>o</kap>
   <uzo tip="stl">ARK</uzo>
-  <snc>
+  <snc mrk="man.plen0o.MEZ">
     <dif>
       <ref tip="dif" cel="man.0pleno"><tld lit="M"/>pleno</ref>:
       <ekz>
@@ -627,14 +831,54 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_zh;&c_m;&c_je;&c_n;&c_ja;</trd>
   <trd lng="cs">hrst <klr>(n&ecaron;&ccaron;eho)</klr></trd>
   <trdgrp lng="it">
     <trd>manata<klr> (quantit&agrave;)</klr></trd>,
     <trd>manciata</trd>,
     <trd>pugno<klr> (quantit&agrave;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12402;&#12392;&#x63E1;&#x308A;  [<ind>&#12402;&#12392;&#x306B;&#x304E;&#x308A;</ind>]</trd>,
+    <trd>&#12402;&#12392;&#12388;&#x304B;&#x307F;</trd>
+  </trdgrp>
   <trd lng="nl">handvol<klr tip="ind"> (arch.)</klr></trd>
   <trd lng="sk">hrs&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_m;&c_je;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_g;&c_o;&c_r;&c_shch;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="man.propra0e">
+  <kap>
+    propra<tld/>e
+  </kap>
+  <snc mrk="man.propra0e.KOMUNE">
+    <dif>
+      Per sia <tld/>o, <ref cel="mem.0.sola">mem<sncref/></ref>,
+      surprenante la taskon, la respondecon:
+      <ekz>
+        propra<tld/>e mi mortigis la drakon
+        <fnt>
+          <aut>J. R. R. Tolkien, trad. C. Gledhill</aut>
+          <vrk>La Hobito</vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_l;&c_a;&c_s;&c_n;&c_a;&c_r;&c_u;&c_ch;&c_n;&c_a;</trd>
+<trd lng="fr">de sa propre main</trd>
+  <trdgrp lng="ja">
+    <trd>&#x81EA;&#20998;&#x306E;&#x624B;&#12391;  [<ind>&#12376;&#12406;&#12435;&#x306E;&#12390;&#12391;</ind>]</trd>,
+    <trd>&#x81EA;&#x529B;&#12391;  [<ind>&#12376;&#x308A;&#x304D;&#12391;</ind>]</trd>,
+    <trd>&#x81EA;&#x7B46;&#12391;  [<ind>&#12376;&#12402;&#12388;&#12391;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_l;&c_a;&c_s;&c_n;&c_o;&c_r;&c_u;&c_ch;&c_n;&c_o;</trd>,
+    <trd>&c_v;&c_l;&c_a;&c_s;&c_n;&c_o;&c_r;&c_u;&c_ch;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="man.sub0ajxo">
@@ -655,6 +899,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_u;&c_sh;&c_a;&c_ch;&c_k;&c_a; &c_p;&c_a;&c_d; &c_z;&c_a;&c_p;&c_ja;&c_s;&c_mol;&c_c;&c_je;</trd>
   <trd lng="fr">sous-main</trd>
 </drv>
 
@@ -669,14 +914,14 @@
         kaj trans<tld/>igis &gcirc;in al li
         <fnt>
           <aut>Princo Toneri k.a., trad. K. Nohara</aut>,
-          <vrk><url
-          ref="http://vastalto.com/librejo/KroJap/KroJap1.html">
+          <vrk><url ref="http://vastalto.com/librejo/KroJap/KroJap1.html">
           Kroniko Japana</url></vrk>,
           <lok>1935</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_z; &c_r;&c_u;&c_k; &c_u; &c_r;&c_u;&c_k;&c_ib;)</klr></trd>
   <trdgrp lng="fr">
     <trd>donner<klr> (de main &agrave; main)</klr></trd>,
     <trd>passer<klr> (de main &agrave; main)</klr></trd>
@@ -712,12 +957,16 @@
   <trd lng="en">wrist</trd>
   <trd lng="es">mu&ntilde;eca<klr> (articulaci&oacute;n)</klr></trd>
   <trd lng="fr">poignet</trd>
+  <trd lng="id">per<ind>gelang</ind>an tangan</trd>
   <trd lng="it">polso</trd>
+  <trd lng="ja">&#x624B;&#39318;&#x306E;&#x95A2;&#x7BC0; 
+  [<ind>&#12390;&#x304F;&#12403;&#x306E;&#x304B;&#12435;&#x305B;&#12388;</ind>]</trd>
   <trd lng="nl">pols</trd>
   <trd lng="pl">przegub r&eogonek;ki</trd>
   <trd lng="ru">&c_z;&c_a;&c_p;&c_ja;&c_s;&c_t;&c_mol;&c_je;</trd>
   <trd lng="sk">k&lacute;b z&aacute;p&auml;stia</trd>
   <trd lng="sv">handled</trd>
+  <trd lng="uk">&c_z;&c_a;&c_p;&#8217;&c_ja;&c_s;&c_t;&c_ja;</trd>
 </drv>
 
 <drv mrk="man.0dorso">
@@ -725,24 +974,18 @@
   <snc mrk="man.0dorso.ANA">
     <uzo tip="fak">ANA</uzo>
     <dif>
-      Ekstera flanko de <ref tip="malprt"
-      cel="man.0o.ANA"><tld/>o</ref>:
+      Ekstera flanko de <ref tip="malprt" cel="man.0o.ANA"><tld/>o</ref>:
       <ekz>
         lentugoj sur <tld/>dorso
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=210742">Lentugo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=210742">Lentugo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         ni metis lin en la &ccirc;erkon, kaj en &gcirc;i ni metis necesa&jcirc;ojn por lia
-        
         ekvoja&gcirc;o, nome <tld/>dorso-kovrilojn, suro-bendojn,
-        
-        &scirc;trumpetojn,
-        
-        pajlajn sandalojn, bastonon kaj glavon
+        &scirc;trumpetojn, pajlajn sandalojn, bastonon kaj glavon
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo</aut>
@@ -752,99 +995,25 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_t;&c_y;&c_l;&c_mol;&c_n;&c_y; &c_b;&c_o;&c_k;
-  <ind>&c_d;&c_a;&c_l;&c_o;&c_n;&c_ib;</ind></trd>
+  <trd lng="be">&c_t;&c_y;&c_l;&c_mol;&c_n;&c_y; &c_b;&c_o;&c_k; <ind>&c_d;&c_a;&c_l;&c_o;&c_n;&c_ib;</ind></trd>
   <trd lng="bg">&c_o;&c_p;&c_a;&c_k;&c_o;&c_t;&c_o; &c_n;&c_a; &c_r;&c_malmol;&c_k;&c_a;&c_t;&c_a;</trd>
   <trd lng="br">kil an dorn</trd>
   <trd lng="de">Handr&uuml;cken</trd>
   <trd lng="en">back of the hand</trd>
   <trd lng="es">dorso<klr> (de la mano)</klr></trd>
   <trd lng="fr">dos de la main</trd>
+  <trd lng="id"><ind>punggung</ind> tangan</trd>
   <trd lng="it">dorso<klr> della mano</klr></trd>
+  <trd lng="ja">&#x624B;&#x306E;&#30002;  [<ind>&#12390;&#x306E;&#12371;&#12358;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>handrug</trd>,
     <trd>rug<klr tip="ind"> (v.d.hand)</klr></trd>
   </trdgrp>
-  <trd lng="pl">wierzch d&lstroke;oni</trd>   
+  <trd lng="pl">wierzch d&lstroke;oni</trd>
   <trd lng="ru">&c_t;&c_y;&c_l;&c_mol;&c_n;&c_a;&c_ja;
   &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_a;
 <ind>&c_l;&c_a;&c_d;&c_o;&c_n;&c_i;</ind></trd>
-</drv>
-
-<drv mrk="man.0laboro">
-  <kap><tld/>laboro</kap>
-  <snc>
-    <dif>
-      Laboro postulanta precipe muskolan penadon kontraste kun ma&scirc;ina a&ubreve;
-      cerba
-      laboro:
-      <ekz>
-        &scirc;i neniam eliras, ne prenante kun si sian <tld/>laboron, 
-        anka&ubreve; &ccirc;i tie &scirc;i havis &gcirc;in kun si
-        <fnt>
-          <bib>Fab4</bib>
-          <lok>Knabino, kiu pa&scirc;is sur panon</lok>
-        </fnt>;
-      </ekz>
-      <ekz>
-        alkuradis el tuta mondo persekutataj Hebreoj por starigi
-        <tld/>laboron kaj komercon la&ubreve; invito re&gcirc;a
-        <fnt>
-          <bib>VivZam</bib>
-        </fnt>;
-      </ekz>
-      <ekz>
-        praktikado de miaj preferataj hobioj &ndash; &ccirc;arpentado (kaj aliaj
-        <tld/>laboroj en nia feria domo)
-        <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="https://www.monato.be/2003/008009.html">Stefan
-          Maul</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
-        en granda vendejo de materialoj por <tld/>laboro, la vizitanto
-        komprenas, 
-        ke &ccirc;i tie virinoj &scirc;atas krei ion per la <tld/>oj dum longaj
-        hejmvesperoj en la mallumaj sezonoj
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Saliko</aut>
-          <vrk><url ref="&Monato;/2015/011433.php">Krozi
-          la&ubreve; la norvega marbordo</url></vrk>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="be">&c_r;&c_u;&c_ch;&c_n;&c_a;&c_ja;
-  <ind>&c_p;&c_r;&c_a;&c_c;&c_a;</ind></trd>
-  <trdgrp lng="bg">
-    <trd>&c_r;&c_malmol;&c_ch;&c_n;&c_a; &c_r;&c_a;&c_b;&c_o;&c_t;&c_a;</trd>,
-    <trd>&c_r;&c_malmol;&c_ch;&c_je;&c_n; &c_t;&c_r;&c_u;&c_d;</trd>
-  </trdgrp>
-  <trd lng="br">labour dorn</trd>
-  <trdgrp lng="cs">
-    <trd>manu&aacute;ln&iacute; pr&aacute;ce</trd>,
-    <trd>rukod&ecaron;lba</trd>,
-    <trd>ru&ccaron;n&iacute; pr&aacute;ce</trd>
-  </trdgrp>
-  <trd lng="de">Handarbeit</trd>
-  <trd lng="en">manual labor</trd>
-  <trd lng="es">trabajo manual</trd>
-  <trd lng="fr">travail manuel</trd>
-  <trd lng="it"><ind>lavoro</ind> manuale</trd>
-  <trdgrp lng="nl">
-    <trd>handarbeid</trd>,
-    <trd>handenarbeid</trd>
-  </trdgrp>
-  <trd lng="pl">praca fizyczna</trd>
-  <trdgrp lng="ru">
-    <trd>&c_r;&c_u;&c_ch;&c_n;&c_o;&c_j; &c_t;&c_r;&c_u;&c_d;</trd>,
-    <trd>&c_r;&c_u;&c_ch;&c_n;&c_a;&c_ja;
-    &c_r;&c_a;&c_b;&c_o;&c_t;&c_a;</trd>
-  </trdgrp>
-  <trd lng="sk">ru&ccaron;n&aacute; pr&aacute;ca</trd>
+  <trd lng="uk">&c_t;&c_i;&c_l; &c_k;&c_i;&c_s;&c_t;&c_ib;</trd>
 </drv>
 
 <drv mrk="man.0pleno">
@@ -873,7 +1042,7 @@
         <fnt>
           <aut>W. Blanke</aut>,
           <vrk><url ref="http://mujweb.cz/Kultura/malovec/wblanke.htm">
-          Terminologia Esperanto-Centro: Spertoj, 
+          Terminologia Esperanto-Centro: Spertoj,
           problemoj, perspektivoj</url></vrk>
         </fnt>.
       </ekz>
@@ -898,7 +1067,7 @@
     <trd>pugno<klr> (quantit&agrave;)</klr></trd>
   </trdgrp>
   <trd lng="nl">handvol</trd>
-  <trd lng="pl">gar&sacute;&cacute;</trd>   
+  <trd lng="pl">gar&sacute;&cacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_g;&c_o;&c_r;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_g;&c_o;&c_r;&c_sh;&c_n;&c_ja;</trd>
@@ -906,6 +1075,7 @@
   <trd lng="sv">handfull</trd>
   <trd lng="sk">hrs&tcaron;</trd>
   <trd lng="cs">hrst</trd>
+  <trd lng="uk">&c_zh;&c_m;&c_je;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="man.0radiko">
@@ -919,19 +1089,16 @@
         trompema lernanto
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=113809">Suflorslipeto</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=113809">Suflorslipeto</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         la pteroido, osto trovebla nur &ccirc;e flugsa&ubreve;roj, konekti&gcirc;is al la
-        <tld/>radiko 
-        kaj helpis subteni membranon, la propatagion, inter la
+        <tld/>radiko kaj helpis subteni membranon, la propatagion, inter la
         <tld/>radiko kaj la &scirc;ultro
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=129519">Flugsa&ubreve;roj</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=129519">Flugsa&ubreve;roj</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -944,12 +1111,15 @@
   <trd lng="en">wrist</trd>
   <trd lng="es">mu&ntilde;eca<klr> (articulaci&oacute;n)</klr></trd>
   <trd lng="fr">poignet</trd>
+  <trd lng="id">per<ind>gelang</ind>an tangan</trd>
   <trd lng="it">polso</trd>
+  <trd lng="ja">&#x624B;&#39318;  [<ind>&#12390;&#x304F;&#12403;</ind>]</trd>
   <trd lng="nl">pols</trd>
   <trd lng="pl">przegub r&eogonek;ki</trd>
   <trd lng="ru">&c_z;&c_a;&c_p;&c_ja;&c_s;&c_t;&c_mol;&c_je;</trd>
   <trd lng="sk">z&aacute;p&auml;stie</trd>
   <trd lng="sv">handled</trd>
+  <trd lng="uk">&c_z;&c_a;&c_p;&#8217;&c_ja;&c_s;&c_t;&c_ja;</trd>
 </drv>
 
 <drv mrk="man.0supro">
@@ -960,65 +1130,59 @@
       <ref tip="dif" cel="man.0dorso.ANA"><tld lit="M"/>dorso</ref>:
       <ekz>
         &hcirc;amso estas same simbolo por da&ubreve;remeco, kura&gcirc;o, parte lojaleco
-        kaj 
+        kaj
         pento, &gcirc;i estas ofte portata kiel talismano en formo de <tld/>o,
         ofte kun okulo meze de la <tld/>supro
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=225361">&Hcirc;amso</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=225361">&Hcirc;amso</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_t;&c_y;&c_l;&c_mol;&c_n;&c_y; &c_b;&c_o;&c_k;
-  <ind>&c_d;&c_a;&c_l;&c_o;&c_n;&c_ib;</ind></trd>
+  <trd lng="be">&c_t;&c_y;&c_l;&c_mol;&c_n;&c_y; &c_b;&c_o;&c_k; <ind>&c_d;&c_a;&c_l;&c_o;&c_n;&c_ib;</ind></trd>
   <trd lng="bg">&c_o;&c_p;&c_a;&c_k;&c_o;&c_t;&c_o; &c_n;&c_a; &c_r;&c_malmol;&c_k;&c_a;&c_t;&c_a;</trd>
   <trd lng="br">kil an dorn</trd>
   <trd lng="de">Handr&uuml;cken</trd>
   <trd lng="en">back of the hand</trd>
   <trd lng="es">dorso <klr>(de la mano)</klr></trd>
   <trd lng="fr">dos de la main</trd>
+  <trd lng="id"><ind>punggung</ind> tangan</trd>
   <trd lng="it">dorso<klr> della mano</klr></trd>
   <trdgrp lng="nl">
     <trd>handrug</trd>,
     <trd>rug<klr tip="ind"> (v.d.hand)</klr></trd>
   </trdgrp>
-  <trd lng="pl">wierzch d&lstroke;oni</trd>   
+  <trd lng="pl">wierzch d&lstroke;oni</trd>
   <trd lng="ru">&c_t;&c_y;&c_l;&c_mol;&c_n;&c_a;&c_ja;
-    &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_a;
-    <ind>&c_l;&c_a;&c_d;&c_o;&c_n;&c_i;</ind>
+    &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_a; <ind>&c_l;&c_a;&c_d;&c_o;&c_n;&c_i;</ind>
   </trd>
 </drv>
-
 
 </art>
 <!--
 $Log$
-Revision 1.54  2019/06/30 07:42:48  revo
-adaptis URL de Monato
+versio 1.149 2023/09/06 11:22:32
+Eko Nur Syah Hidayat: +trd id
 
-Revision 1.53  2018/11/02 13:10:17  revo
-Peter Garami: hungara kaj slovena tradukoj aldonitaj
+versio 1.147 2023/08/29 16:34:12
+Wolfram Diestel: ja: prononco
 
-Revision 1.52  2017/12/19 14:10:28  revo
-Michel Cantigneaux: "cxirkaux/man/o" fundamenta kunmetajxo el la U.V.
+versio 1.146 2023/08/26 09:20:33
+Mahaer Mahmud: aldonis bildon
 
-Revision 1.51  2017/12/19 09:10:15  revo
-Michel Cantigneaux: fundamenta "manego" al la Universala Vortaro
+versio 1.145 2023/03/18 16:35:21
+Paul Peeraerts: +nl
 
-Revision 1.50  2017/12/08 19:10:21  revo
-Wolfram Diestel: dif chirkau dif-ref, prilaboris ekz-ojn, -~uzi pro
-manko de citajhoj kaj malbona stilo
+versio 1.144 2023/01/10 06:32:18
+Wolfram Diestel: &ccirc;irka&ubreve;~o: +ekz, rim, EVI
 
-Revision 1.49  2017/01/27 12:10:16  revo
-Lyubomir Vasilev: +trd bg
+versio 1.143 2022/07/17 22:30:07
+Ulrich Fellmann: manumo: +2 DE trdj
 
-Revision 1.48  2016/11/13 08:10:27  revo
-Darcy Shen: + trd zh
+versio 1.142 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.47  2016/11/11 11:10:14  revo
-Carlos Garcia: +trd ro -o, es  ~pleno peti ies ~on ~en~e kun en~igi 
-cxe~e mal/dekstra~a  dua~a
+versio 1.141 2022/04/06 07:29:35
 -->
 </vortaro>

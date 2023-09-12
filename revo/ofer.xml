@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ofer.xml,v 1.29 2009/02/15 14:19:22 revo Exp $">
+<art mrk="$Id: ofer.xml,v 1.44 2023/09/03 07:12:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ofer</rad>/i <fnt><bib>PV</bib></fnt>
@@ -85,7 +84,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        al la afero, kiun mi nun proponas al la <klr>[&#8230;]</klr> publiko,
+        al la afero, kiun mi nun proponas al la <klr>[&#x2026;]</klr> publiko,
         mi <tld/>is miajn plej bonajn jarojn
         <fnt>
           <bib>FK</bib>, 
@@ -113,7 +112,7 @@
         <tld/>i monon por la malri&ccirc;uloj, por konstruado de kirko;
       </ekz>
       <ekz>
-        se sinjoro Britain volos <tld/>i al ni iom da inko <klr>[&#8230;]</klr>,
+        se sinjoro Britain volos <tld/>i al ni iom da inko <klr>[&#x2026;]</klr>,
         ni kiel eble pli balda&ubreve; subskribu
         <fnt>
           <bib>BdV</bib>
@@ -135,7 +134,7 @@
     <rim>
       PV donis &ccirc;e tiu &ccirc;i senco difinon kaj ekzemplojn kiujn
       mi opinias mal&gcirc;ustaj kaj evitindaj (pli similajn al la franca
-      <em>offrir</em>) &dash; mi uzus tiusence
+      <em>offrir</em>) &#x2010; mi uzus tiusence
       <ref cel="ofert.0i">oferti</ref> a&ubreve;
       <ref cel="propon.0i">proponi</ref> a&ubreve;
       <tld/>i<sncref ref="ofer.0i.dedicxi"/>:
@@ -153,7 +152,8 @@
         al nia kongreso
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne sur Mer en la 5a de a&ubreve;gusto
+          1905</vrk>
         </fnt>.
       </ekz>
       PIV2 tiujn ekzemplojn ne transprenis, krom la lastan
@@ -188,21 +188,22 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
-    <trd>&c_p;&c_r;&c_y;&c_n;&c_o;&c_s;&c_ib;&c_c;&c_mol; &c_u;
-    <ind>&c_a;&c_h;&c_v;&c_ja;&c_r;&c_u;</ind></trd>
+    <trd>&c_p;&c_r;&c_y;&c_n;&c_o;&c_s;&c_ib;&c_c;&c_mol; &c_u; <ind>&c_a;&c_h;&c_v;&c_ja;&c_r;&c_u;</ind></trd>
   </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;&c_m;</trd>,
     <trd>&c_p;&c_o;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;&c_m;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_n;&c_a;&c_s;&c_ja;&c_m; &c_v; &c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>
   </trdgrp>
+  <trd lng="bo">&t_sa;&t_data;&t_nga;&t_tsheg;&t_pa;&t_naro;&t_tsheg;&t_ba;&t_yata;&t_drengbu;&t_da;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>ob&ecaron;tovat</trd>,
     <trd>vynalo&zcaron;it</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>sacrifice</trd>,
-    <trd>offer</trd>
+    <trd>offer</trd>,
+    <trd>make an ritual offering of</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>ofrendar</trd>,
@@ -222,6 +223,23 @@
     <trd>fel&aacute;ldoz</trd>,
     <trd>&aacute;ldozatot hoz</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3055;&#x3055;&#x3052;&#x308B;</trd>,
+    <trd>&#x4F9B;&#x3048;&#x308B;  [<ind>&#x305D;&#x306A;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x72A0;&#x7272;&#x306B;&#x3059;&#x308B;  [<ind>&#x304E;&#x305B;&#x3044;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8CBB;&#x3084;&#x3059;  [<ind>&#x3064;&#x3044;&#x3084;&#x3059;</ind>]</trd>,
+    <trd>&#x9032;&#x5448;&#x3059;&#x308B;  [<ind>&#x3057;&#x3093;&#x3066;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>darzy&cacute;</trd>,
+    <trd>ofiarowa&cacute;</trd>,
+    <trd>&lstroke;o&zdot;y&cacute;</trd>
+  </trdgrp> 
+  <trdgrp lng="ro">
+    <trd>dona</trd>,
+    <trd>oferi</trd>,
+    <trd>pl&abreve;ti</trd>
+  </trdgrp> 
   <trdgrp lng="ru">
     <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
@@ -233,6 +251,10 @@
     <trd>oferova&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">offra</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&#x43D;&#x43E;&c_s;&c_i;&c_t;&c_i; (&c_v;) &c_zh;&c_je;&c_r;&c_t;&c_v;&c_u;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ofer.0o">
@@ -245,7 +267,8 @@
         li komparu tion &ccirc;i kun la grandegaj <tld/>oj, kiujn postulas la lernado de &ccirc;iu lingvo natura
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne sur Mer en la 5a de a&ubreve;gusto
+          1905</vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -287,18 +310,35 @@
     </dif>
     <trd lng="sv">offer</trd>    
   </snc>
+  <trd lng="be">&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>ob&ecaron;tov&aacute;n&iacute;</trd>,
     <trd>ob&ecaron;&tcaron; <klr>(u&ccaron;in&ecaron;n&aacute;)</klr></trd>
   </trdgrp>
   <trd lng="de">Opfer</trd>
+  <trdgrp lng="en">
+    <trd>sacrifice</trd>,
+    <trd>offering (ritual)</trd>
+  </trdgrp>
   <trd lng="es">ofrenda</trd>
   <trd lng="hu">&aacute;ldozat</trd>
+  <trdgrp lng="pl">
+    <trd>ofiara</trd>,
+    <trd>po&sacute;wi&eogonek;cenie</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>ofrand&abreve;</trd>,
+    <trd>sacrificiu</trd>
+  </trdgrp>
   <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>obetovanie</trd>,
     <trd>obe&tcaron;</trd>,
     <trd>&zcaron;ertva</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&#x43E;&#x43F;&c_r;&c_i;&#x43D;&#x43E;&c_sh;&c_je;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -327,10 +367,12 @@
         </fnt>;
       </ekz>
       <ekz>
-        niaj unuaj jaroj, kiam la akiro de &ccirc;iu nova Esperantisto estis ligita kun senfina laborado kaj <tld/>ado
+        niaj unuaj jaroj, kiam la akiro de &ccirc;iu nova Esperantisto estis ligita kun senfina laborado
+        kaj <tld/>ado
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -349,7 +391,8 @@
   <trd lng="de">Opfern</trd>
   <trdgrp lng="en">
     <trd>sacrifice</trd>,
-    <trd>offering</trd>
+    <trd>offering<klr> (ritual)</klr></trd>,
+    <trd>sacrificing</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>sacrifice</trd>
@@ -359,14 +402,28 @@
       <trd>&aacute;ldoz&aacute;s</trd>,
       <trd>&aacute;ldozatbemutat&aacute;s</trd>
     </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5949;&#x7D0D;  [<ind>&#x307B;&#x3046;&#x306E;&#x3046;</ind>]</trd>,
+    <trd>&#x5BC4;&#x9032;  [<ind>&#x304D;&#x3057;&#x3093;</ind>]</trd>,
+    <trd>&#x5BC4;&#x4ED8;  [<ind>&#x304D;&#x3075;</ind>]</trd>,
+    <trd>&#x72A0;&#x7272;  [<ind>&#x3044;&#x3051;&#x306B;&#x3048;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
       <trd>aanbod</trd>
       <trd>offer</trd>,
       <trd>opoffering</trd>
     </trdgrp>
+    <trdgrp lng="pl">
+      <trd>sk&lstroke;adanie  <ind>ofiar</ind></trd>,
+      <trd>ofiarowanie</trd>
+    </trdgrp>
   <trdgrp lng="pt">
     <trd>oferta</trd>,
     <trd>oferecimento</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>face ofrande</trd>,
+    <trd>sacrificarea</trd>
   </trdgrp>
   <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_p;&c_r;&c_i;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
@@ -377,6 +434,10 @@
   <trdgrp lng="sv">
     <trd>offrande</trd>,
     <trd>uppoffring</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&#x43E;&#x43F;&c_r;&c_i;&#x43D;&#x43E;&c_sh;&c_je;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -424,7 +485,7 @@
   <trd lng="de">Opfer</trd>
   <trdgrp lng="en">
     <trd>sacrifice</trd>,
-    <trd>offering</trd>
+    <trd>offering<klr> (ritual)</klr></trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>offrande</trd>
@@ -435,16 +496,33 @@
     <trd>&mem;&nun;&het;&he; <klr tip="ind">(&zayin;&bet;&het;)</klr></trd>
   </trdgrp>
   <trd lng="hu">&aacute;ldozat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F9B;&#x3048;&#x7269;  [<ind>&#x305D;&#x306A;&#x3048;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x5949;&#x7D0D;&#x54C1;  [<ind>&#x307B;&#x3046;&#x306E;&#x3046;&#x3057;&#x306A;</ind>]</trd>,
+    <trd>&#x5BC4;&#x4ED8;&#x306E;&#x54C1;  [<ind>&#x304D;&#x3075;&#x306E;&#x3057;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>offer</trd>,
     <trd>offerande</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>darowizna</trd>,
+    <trd>ofiara</trd>
   </trdgrp>
   <trdgrp lng="pt">
     <trd>oferta</trd>,
     <trd>oferenda</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>dona&#x21B;ie</trd>,
+    <trd>jertf&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>
   <trd lng="sv">offer</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_r;&c_ib;&c_d;&c_sh;&c_je; &#x43E;&c_f;&c_ib;&c_r;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ofer.0ema">
@@ -474,8 +552,7 @@
     <ref cel="don.sin0a">sindona</ref>
   </refgrp>
   <trdgrp lng="be">
-    <trd>&c_g;&c_a;&c_t;&c_o;&c_v;&c_y; &c_d;&c_a;
-    &c_a;&c_h;&c_v;&c_ja;&c_r;</trd>,
+    <trd>&c_g;&c_a;&c_t;&c_o;&c_v;&c_y; &c_d;&c_a; &c_a;&c_h;&c_v;&c_ja;&c_r;</trd>,
     <trd>&c_s;&c_a;&c_m;&c_a;&c_a;&c_d;&c_d;&c_a;&c_n;&c_y;</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -507,15 +584,23 @@
     <trd>&aacute;ldozatos</trd>,
     <trd>&aacute;ldozatk&eacute;sz</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x732E;&#x8EAB;&#x7684;&#x306A;  [<ind>&#x3051;&#x3093;&#x3057;&#x3093;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x5949;&#x4ED5;&#x7684;&#x306A;  [<ind>&#x307B;&#x3046;&#x3057;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>opofferingsgezind</trd>,
     <trd>vrijgevig</trd>
   </trdgrp>
+  <trd lng="pl">ofiarny</trd>
+  <trdgrp lng="ro">
+    <trd>generos</trd>,
+    <trd>darnic</trd>,
+    <trd>sacrificial</trd>
+  </trdgrp> 
   <trdgrp lng="ru">
-    <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_y;&c_j; &c_n;&c_a;
-    <ind>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_y;</ind></trd>,
-    <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_y;&c_j; &c_n;&c_a;
-    <ind>&c_s;&c_a;&c_m;&c_o;&c_p;&c_o;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</ind></trd>,
+    <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_y;&c_j; &c_n;&c_a; <ind>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_y;</ind></trd>,
+    <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_y;&c_j; &c_n;&c_a; <ind>&c_s;&c_a;&c_m;&c_o;&c_p;&c_o;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</ind></trd>,
     <trd>&c_s;&c_a;&c_m;&c_o;&c_o;&c_t;&c_v;&c_je;&c_r;&c_zh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="sv">
@@ -527,6 +612,7 @@
     <trd>sebaobetav&yacute;</trd>
   </trdgrp>
   <trd lng="cs">ob&ecaron;tav&yacute;</trd>
+  <trd lng="uk">&c_zh;&c_je;&c_r;&c_t;&#x43E;&c_v;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="ofer.brul0o">
@@ -537,7 +623,8 @@
       <ref tip="super" cel="ofer.0o"><tld lit="O"/>o</ref> per bruligo
       de viktimo:
       <ekz>
-        li prenis el &ccirc;iuj puraj brutoj kaj el &ccirc;iuj puraj birdoj kaj <tld/>is brul<tld/>ojn sur la altaro
+        li prenis el &ccirc;iuj puraj brutoj kaj el &ccirc;iuj puraj birdoj kaj <tld/>is brul<tld/>ojn sur la
+        altaro
         <fnt>
           <bib>MT</bib>
           <lok>Genezo 8:20</lok>
@@ -569,10 +656,23 @@
   <trd lng="he">&ayin;&vav;&lamed;&he;
   <klr>(&zayin;&bet;&het;)</klr></trd>
   <trd lng="hu">&eacute;g&odblac; <ind>&aacute;ldozat</ind></trd>
+  <trd lng="ja">&#x4F9B;&#x7269;  [<ind>&#x304F;&#x3082;&#x3064;</ind>]</trd>
   <trd lng="nl">brandoffer</trd>
+  <trdgrp lng="pl">
+    <trd>ca&lstroke;opalenie</trd>,
+    <trd>ofiara ca&lstroke;opalna</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>arderea de tot</trd>,
+    <trd>victim&abreve; total&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_v;&c_s;&c_je;&c_s;&c_o;&c_zh;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">z&aacute;paln&aacute; obe&tcaron;</trd>
   <trd lng="sv">eldoffer</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a; &c_v;&c_s;&c_je;&#x43F;&c_a;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_v;&c_s;&c_je;&#x43F;&c_a;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ofer.bucx0o">
@@ -583,7 +683,8 @@
       <ref tip="super" cel="ofer.0o"><tld lit="O"/>o</ref> per
       bu&ccirc;ado de viktimo:
       <ekz>
-        la sango de viaj bu&ccirc;<tld/>oj estu elver&scirc;ata sur la altaron de la Eternulo, via Dio, kaj la viandon vi povas man&gcirc;i
+        la sango de viaj bu&ccirc;<tld/>oj estu elver&scirc;ata sur la altaron de la Eternulo, via Dio, kaj la
+        viandon vi povas man&gcirc;i
         <fnt>
           <bib>MT</bib>
           <lok>Readmono 12:27</lok>
@@ -602,11 +703,54 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a; <klr>(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_y;)</klr></trd>
   <trd lng="de">Schlachtopfer</trd>
   <trd lng="fr">immolation</trd>
   <trd lng="hu">&eacute;l&odblac; <ind>&aacute;ldozat</ind></trd>
+  <trdgrp lng="pl">
+    <trd>krwawa ofiara</trd>,
+    <trd>ofiara ze zwierz&aogonek;t</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>victim&abreve; s&acirc;ngeroas&abreve;</trd>,
+    <trd>sacrificiu de animale</trd>
+  </trdgrp>
   <trd lng="sv">slaktoffer</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a; &c_z;&c_a;&#x43A;&#x43B;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43A;&c_r;&c_i;&c_v;&c_a;&c_v;&c_a; &c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="ofer.dank0o">
+  <kap>
+    dank<tld/>o
+</kap>
+  <snc mrk="ofer.dank0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      <tld lit="O"/>o por danki al dio(j):
+      <ekz>
+        Mi ne akceptas <klr>[...]</klr> viajn grasajn dank<tld/>ojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Amos 5:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li rekonstruis la altaron de la Eternulo kaj faris sur &gcirc;i
+        pacoferojn kaj dank<tld/>ojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Kroniko 33:16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a; <klr>(&c_n;&c_a; &c_z;&c_n;&c_a;&c_k; &c_u;&c_d;&c_z;&c_ja;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  <trd lng="de">Dankopfer</trd>
+</drv>
+
 
 <drv mrk="ofer.for0i">
   <kap>for<tld/>i</kap>
@@ -622,15 +766,17 @@
         sin for<tld/>i por la publika utilo;
       </ekz>
       <ekz>
-        tiu pse&ubreve;dohumanismo celas &gcirc;uste <klr>[&#8230;]</klr> ke neniu homo estu &leftquot;foroferita&rightquot;
+        tiu pse&ubreve;dohumanismo celas &gcirc;uste <klr>[&#x2026;]</klr> ke neniu homo estu
+        &leftquot;foroferita&rightquot;
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=348973">Demokratio kaj Kristanismo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=348973">Demokratio kaj
+          Kristanismo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         la reprezentantoj de amba&ubreve; <klr>[stenografiaj]</klr> sistemoj ektraktis pri 
-        unui&gcirc;o <klr>[&#8230;]</klr>, Schrey devis kontra&ubreve;vole for<tld/>i kelkajn siajn 
+        unui&gcirc;o <klr>[&#x2026;]</klr>, Schrey devis kontra&ubreve;vole for<tld/>i kelkajn siajn 
         eltrova&jcirc;ojn, pri kiuj li aparte fieris
         <fnt>
           <bib>Viki</bib>
@@ -645,10 +791,20 @@
     <trd>sacrifier<klr> (accepter la perte de)</klr></trd>
   </trdgrp>
   <trd lng="hu">fel&aacute;ldoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x624B;&#x653E;&#x3059;  [<ind>&#x3066;&#x3070;&#x306A;&#x3059;</ind>]</trd>,
+    <trd>&#x306A;&#x3052;&#x3046;&#x3064;</trd>
+  </trdgrp>
   <trd lng="nl">wegschenken</trd>
+  <trd lng="pl">dobrowolnie po&sacute;wi&eogonek;ci&cacute; kogo&sacute;/co&sacute; za co&sacute;</trd>
+  <trd lng="ro">sacrifica voluntar pe cineva/ceva pentru ceva</trd>
   <trd lng="ru">&c_p;&c_o;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">obetova&tcaron;</trd>
   <trd lng="sv">uppoffra</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_i;&#x43D;&#x43E;&c_s;&c_i;&c_t;&c_i; &c_v; &c_zh;&c_je;&c_r;&c_t;&c_v;&c_u;</trd>,
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ofer.0bucxi">
@@ -665,7 +821,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        estis por &scirc;i plezuro trempi siajn blankajn manojn en la varma sango de la <tld/>bu&ccirc;ita &ccirc;evalo
+        estis por &scirc;i plezuro trempi siajn blankajn manojn en la varma sango de la <tld/>bu&ccirc;ita
+        &ccirc;evalo
         <fnt>
           <bib>Fab4</bib>
           <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
@@ -684,9 +841,16 @@
     <trd>immoler</trd>
   </trdgrp>
   <trd lng="hu">le&ouml;l <klr tip="ind">(&aacute;ldozatul)</klr></trd>
+  <trd lng="ja">&#x751F;&#x8D04;&#x3068;&#x3057;&#x3066;&#x6BBA;&#x3059;  [<ind>&#x3044;&#x3051;&#x306B;&#x3048;&#x3068;&#x3057;&#x3066;&#x3053;&#x308D;&#x3059;</ind>]</trd>
   <trd lng="nl">een <ind>offerdier</ind> slachten</trd>
+  <trd lng="pl">zabija&cacute; i sk&lstroke;ada&cacute; w  <ind>ofierze</ind></trd>
+  <trd lng="ro">ucide &#x219;i a se  <ind>sacrifica</ind></trd>
   <trd lng="ru">&c_z;&c_a;&c_k;&c_l;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sv">offerslakta</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_i;&#x43D;&#x43E;&c_s;&c_i;&c_t;&c_i; &c_v; &c_zh;&c_je;&c_r;&c_t;&c_v;&c_u;</trd>,
+    <trd>&c_zh;&c_je;&c_r;&c_t;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ofer.sin0o">
@@ -731,13 +895,26 @@
   <trd lng="he">&he;&qof;&resh;&bet;&he;
   &ayin;&tsadi;&mem;&yod;&tav;</trd>
   <trd lng="hu">&ouml;nfel&aacute;ldoz&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x732E;&#x8EAB;  [<ind>&#x3051;&#x3093;&#x3057;&#x3093;</ind>]</trd>,
+    <trd>&#x81EA;&#x5DF1;&#x72A0;&#x7272;  [<ind>&#x3058;&#x3053;&#x304E;&#x305B;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zelfopoffering</trd>
+  <trdgrp lng="pl">
+    <trd>samoofiara</trd>,
+    <trd>samopo&sacute;wi&eogonek;cenie</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>sacrificiu de sine</trd>,
+    <trd>autodeterminare</trd>
+  </trdgrp>
   <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_p;&c_o;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>samo&zcaron;ertva</trd>,
     <trd>sebaobetovanie</trd>
   </trdgrp>
   <trd lng="sv">sj&auml;lvuppoffring</trd>
+  <trd lng="uk">&c_s;&c_a;&#x43C;&#x43E;&#x43F;&#x43E;&c_zh;&c_je;&c_r;&c_t;&c_v;&c_a;</trd>
 </drv>
 
 <drv mrk="ofer.versx0o">
@@ -748,7 +925,7 @@
       <ref tip="super" cel="ofer.0o"><tld lit="O"/>o</ref> per
       forver&scirc;o de vino, oleo a&ubreve; alia kosta flua&jcirc;o:
       <ekz>
-        pretigu <klr>[&#8230;]</klr> kiel ver&scirc;<tld/>on kvaronon de hino da vino
+        pretigu <klr>[&#x2026;]</klr> kiel ver&scirc;<tld/>on kvaronon de hino da vino
         <fnt>
           <bib>MT</bib>
           <lok>Levidoj 23:12</lok>
@@ -761,15 +938,36 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_l;&c_ib;&c_b;&c_a;&c_c;&c_y;&c_ja;</trd>
   <trd lng="de">Gie&szlig;opfer</trd>
+  <trd lng="en">libation</trd>
   <trd lng="fr">libation</trd>
   <trd lng="hu">ital&aacute;ldozat</trd>
-  <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
-  <ind>&c_v;&c_o;&c_z;&c_l;&c_i;&c_ja;&c_n;&c_i;&c_je;</ind></trd>
+  <trdgrp lng="pl">
+    <trd>libacja</trd>,
+    <trd>wylanie p&lstroke;ynu w  <ind>ofierze</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>liba&#x21B;ie</trd>,
+    <trd>revarsand fluid in  <ind>sacrificiu</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; <ind>&c_v;&c_o;&c_z;&c_l;&c_i;&c_ja;&c_n;&c_i;&c_je;</ind></trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.43 2023/04/26 05:28:03
+Wolfram Diestel: +dank~o (el dank/)
+
+versio 1.40 2022/03/11 08:34:58
+Dmitri Gabinski: + trd be
+
+versio 1.39 2022/02/18 05:40:26
+Noam Mohr: +trd en ofert-
+
+versio 1.38 2021/12/25 22:30:36
+Vito Redsky: + trd pl + trd ro
+
 Revision 1.35  2018/01/15 20:10:14  revo
 Wolfram Diestel: prilaboris ekz-ojn
 
@@ -780,17 +978,5 @@ Revision 1.33  2017/01/26 11:10:15  revo
 Lyubomir Vasilev: +trd bg
 
 Revision 1.32  2015/07/04 08:37:40  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.31  2015/06/29 16:33:21  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.30  2012/02/13 14:10:16  revo
-Carlos Garcia: +trd es -i
-
-Revision 1.29  2009/02/15 14:19:22  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.28  2005/08/25 16:33:33  revo
 -->
 </vortaro>

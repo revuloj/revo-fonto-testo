@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kanzon.xml,v 1.16 2009/08/23 16:33:37 revo Exp $">
+<art mrk="$Id: kanzon.xml,v 1.26 2023/09/01 13:58:55 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>kanzon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -47,6 +46,11 @@
      <trd>dal</trd>,
      <trd>n&oacute;ta</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B7;&#x30E3;&#x30F3;&#x30BD;&#x30F3;  [<ind>&#x3057;&#x3083;&#x3093;&#x305D;&#x3093;</ind>]</trd>,
+    <trd>&#x6B4C;&#x8B21;&#x66F2;  [<ind>&#x304B;&#x3088;&#x3046;&#x304D;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x30AB;&#x30F3;&#x30C4;&#x30A9;&#x30FC;&#x30CD;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>lied</trd>,
     <trd>luisterlied</trd>,
@@ -64,7 +68,12 @@
     <trd>&ccaron;astu&scaron;ka</trd>,
     <trd>&scaron;ans&oacute;n</trd>
   </trdgrp>
-  <trd lng="th">&#3648;&#3614;&#3621;&#3591;</trd>
+  <trd lng="th">&#xE40;&#xE1E;&#xE25;&#xE07;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x43D;&#x446;&#x43E;&#x43D;&#x430;</trd>,
+    <trd>&#x448;&#x430;&#x43D;&#x441;&#x43E;&#x43D;&#x435;&#x442;&#x43A;&#x430;</trd>,
+    <trd>&#x43F;&#x456;&#x441;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

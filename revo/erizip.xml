@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: erizip.xml,v 1.12 2010/03/02 17:30:29 revo Exp $">
+<art mrk="$Id: erizip.xml,v 1.19 2023/08/31 11:49:30 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>erizipel</rad>/o
@@ -12,19 +11,19 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Infekta <ref tip="lst" cel="san.mal0o.MED"
-      lst="voko:malsanoj">malsano</ref>, karakterizata de febro kaj
+      Infekta <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>, karakterizata de
+      febro kaj
       inflamo de la ha&ubreve;to, precipe kaj plej ofte de la viza&gcirc;a ha&ubreve;to:
       <ekz>
-        J&aacute;nos Kabay <klr>[&#8230;]</klr> mortis de <tld/>o, postoperacia
+        J&aacute;nos Kabay <klr>[&#x2026;]</klr> mortis de <tld/>o, postoperacia
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=22013"
-              >J&aacute;nos Kabay</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=22013">J&aacute;nos Kabay</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_o;&c_zh;&c_a; <klr tip="amb">(&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;)</klr></trd>
   <trd lng="ca">erisipela</trd>
   <trdgrp lng="cs">
     <trd>erysipel</trd>,
@@ -40,6 +39,7 @@
     <trd>&eacute;rysip&egrave;le</trd>
   </trdgrp>
   <trd lng="hu">orb&aacute;nc</trd>
+  <trd lng="ja">&#x4E39;&#x6BD2;  [<ind>&#x305F;&#x3093;&#x3069;&#x304F;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>r&oacute;&zdot;a</trd>,
     <trd>r&oacute;&zdot;yczka<klr> (pot.)</klr></trd>
@@ -52,10 +52,17 @@
     &c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
   <trd lng="sk">ru&zcaron;a</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_sh;&c_i;&c_h;&c_a;</trd>,
+    <trd>&c_r;&#x43E;&c_zh;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2023/08/30 14:30:15
+Dmitri Gabinski: + trd be
+
 Revision 1.15  2015/07/04 08:37:33  revo
 aldono de trd cs per skripto de M. von Laer
 

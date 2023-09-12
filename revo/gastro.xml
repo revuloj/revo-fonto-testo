@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gastro.xml,v 1.13 2010/10/21 16:30:34 revo Exp $">
+<art mrk="$Id: gastro.xml,v 1.19 2023/08/31 14:29:51 revo Exp $">
 <kap><rad>gastronom</rad>/o
 <fnt>Z</fnt></kap>
 <drv mrk="gastro.0o">
@@ -13,11 +12,10 @@
       gastejestro:
       <ekz>
         Mikula&scirc;an brindzon pro &gcirc;ia tipa gusto kaj kvalito postulis <tld/>oj ne nur en
-        Hungario, A&ubreve;strio, <klr>[&#8230;]</klr>
+        Hungario, A&ubreve;strio, <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=171840"
-              >Liptovsk&yacute; Mikul&aacute;&scaron;</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=171840">Liptovsk&yacute; Mikul&aacute;&scaron;</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -38,6 +36,10 @@
     <trd>gastronome</trd>,
     <trd>gourmet</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x98DF;&#x901A;  [<ind>&#x3057;&#x3087;&#x304F;&#x3064;&#x3046;</ind>]</trd>,
+    <trd>&#x7F8E;&#x98DF;&#x5BB6;  [<ind>&#x3073;&#x3057;&#x3087;&#x304F;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">gastronoom</trd>
   <trd lng="pt">gastr&ocirc;nomo</trd>
   <trdgrp lng="ru">
@@ -51,6 +53,7 @@
     <trd>gurm&aacute;n</trd>,
     <trd>labu&zcaron;n&iacute;k</trd>
   </trdgrp>
+  <trd lng="uk">&#x433;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x43D;&#x43E;&#x43C;&#xA0;(&#x43F;&#x440;&#x43E; &#x43B;&#x44E;&#x434;&#x438;&#x43D;&#x443;)</trd>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: protek.xml,v 1.118 2023/09/03 12:45:13 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>protekt</rad>/i
@@ -22,7 +21,8 @@
         malbonaj faroj
         <fnt>
           <aut>Jean-Baptiste Moli&egrave;re, trad. L. L. Zamenhof </aut>
-          <vrk><url ref="https://www.scribd.com/document/47176682/Georgo-Dandin">Georgo Dandin</url></vrk>
+          <vrk><url ref="https://www.scribd.com/document/47176682/Georgo-Dandin">Georgo
+          Dandin</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -36,10 +36,11 @@
         <uzo tip="stl">FIG</uzo>
         morala sistemo volas <tld/>i la vivon
         <fnt>
-          <bib>Monato</bib>
           <aut>Reinhard Haupenthal</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006848.html">Mallogika kaj senracia</url></vrk>
-        </fnt>.
+          <vrk><url ref="&Monato;/2000/006848.php">Mallogika kaj senracia</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 4</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -73,10 +74,10 @@
         </fnt>;
       </ekz>
       <ekz>
-        permane <klr>[&#8230;]</klr> protekti sin de l' vid'
+        permane <klr>[&#x2026;]</klr> protekti sin de l' vid'
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -91,17 +92,21 @@
       </ekz>
       <ekz>
         pilolo &dash; kiu ne <tld/>as kontra&ubreve; aidoso
-        <fnt>
+         <fnt>
+          <aut>Guido van Damme</aut>
+          <vrk><url ref="&Monato;/1995/A950102.php">Gejunula seksumado</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9501-seksaj-rilatoj.txt">Seksaj Rilatoj</url></vrk>
+          <lok>1995/01, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
-        neniu efektive lin <tld/>is, male oni traktis lin <klr>[&#8230;]</klr> kvaza&ubreve; li estus pleja krimulo
+        neniu efektive lin <tld/>is, male oni traktis lin <klr>[&#x2026;]</klr> kvaza&ubreve; li estus pleja
+        krimulo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Gerrit Berveling</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006823.html">Opinio: Tro Senkosta Pentemo</url></vrk>
+	<aut>Gerrit Berveling</aut>
+	<vrk><url ref="&Monato;/2000/006823.html">Tro senkosta pentemo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 22</lok>
         </fnt>.
       </ekz>
      </dif>
@@ -120,35 +125,115 @@
       <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_h;&c_r;&c_a;&c_n;&c_ja;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">beskerm</trd>
+  <trd lng="am">&#x12ED;&#x1320;&#x1265;&#x1241;</trd>
+  <trd lng="ar">&a_H;&a_m;&a_A;&a_y;&a_t_marbuta;</trd>
+  <trd lng="az">qorumaq</trd>
   <trd lng="be">&c_a;&c_b;&c_a;&c_r;&c_a;&c_n;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="bn">&#x9B0;&#x995;&#x9CD;&#x9B7;&#x9BE;</trd>
+  <trd lng="bo">&t_sa;&t_rata;&t_shabchu;&t_nga;&t_tsheg;&t_sa;&t_kata;&t_yata;&t_naro;&t_ba;&t_tsheg;&t_ba;&t_yata;&t_drengbu;&t_da;&t_tsheg;</trd>
+  <trd lng="bs">&scaron;tite</trd>
+  <trd lng="co">pruteghje</trd>
   <trdgrp lng="cs">
     <trd>chr&aacute;nit</trd>,
     <trd>prot&ecaron;&zcaron;ovat</trd>,
     <trd>zast&aacute;vat se</trd>
   </trdgrp>
+  <trd lng="cy">amddiffyn</trd>
+  <trd lng="da">beskytte</trd>
   <trdgrp lng="de">
     <trd>sch&uuml;tzen</trd>,
     <trd>besch&uuml;tzen</trd>
   </trdgrp>
   <trd lng="en">protect</trd>
   <trd lng="es">proteger</trd>
+  <trd lng="et">kaitsta</trd>
+  <trd lng="eu">babesteko</trd>
   <trd lng="fr">prot&eacute;ger</trd>
+  <trd lng="fy">beskermje</trd>
+  <trd lng="ga">chosaint</trd>
+  <trd lng="gd">dh&igrave;on</trd>
+  <trd lng="gl">protexer</trd>
+  <trd lng="gu">&#xAB0;&#xA95;&#xACD;&#xAB7;&#xAA3;</trd>
+  <trd lng="ha">kare</trd>
+  <trd lng="hi">&#x930;&#x915;&#x94D;&#x937;&#x93E;</trd>
+  <trd lng="hmn">tiv thaiv</trd>
+  <trd lng="hr">za&scaron;tititi</trd>
+  <trd lng="ht">pwoteje</trd>
   <trdgrp lng="hu">
     <trd>v&eacute;d</trd>,
     <trd>&oacute;v</trd>
   </trdgrp>
+  <trd lng="hy">&#x57A;&#x561;&#x577;&#x57F;&#x57A;&#x561;&#x576;&#x565;&#x56C;</trd>
+  <trd lng="ig">chebe</trd>
+  <trd lng="is">vernda</trd>
+  <trd lng="ja">&#x5B88;&#x308B; [<ind>&#x307E;&#x3082;&#x308B;</ind>]</trd>
+  <trd lng="jv">nglindhungi</trd>
+  <trd lng="ka">&#x10D3;&#x10D0;&#x10EA;&#x10D5;&#x10D0;</trd>
+  <trd lng="kk">&#x49B;&c_o;&c_r;&#x493;&c_a;&c_u;</trd>
+  <trd lng="km">&#x1780;&#x17B6;&#x179A;&#x1796;&#x17B6;&#x179A;</trd>
+  <trd lng="kn">&#xCB0;&#xC95;&#xCCD;&#xCB7;&#xCBF;&#xCB8;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xBCF4;&#xD638;</trd>
+  <trd lng="ku">parastin</trd>
+  <trd lng="ky">&c_k;&c_o;&c_r;&c_g;&c_o;&c_o;</trd>
+  <trd lng="lat">protegat</trd>
+  <trd lng="lo">&#xE9B;&#xEBB;&#xE81;&#xE9B;&#xEB1;&#xE81;&#xEAE;&#xEB1;&#xE81;&#xEAA;&#xEB2;</trd>
+  <trd lng="lt">apsaugoti</trd>
+  <trd lng="lv">aizsarg&#x15D1;t</trd>
+  <trd lng="mg">miaro</trd>
+  <trd lng="mi">te tiaki</trd>
+  <trd lng="mk">&c_z;&c_a;&c_sh;&c_t;&c_i;&c_t;&c_a; &c_n;&c_a;</trd>
+  <trd lng="ml">&#xD38;&#xD02;&#xD30;&#xD15;&#xD4D;&#xD37;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_m;&c_g;&c_a;&c_a;&c_l;&c_a;&c_h;,</trd>
+  <trd lng="mr">&#x938;&#x902;&#x930;&#x915;&#x94D;&#x937;&#x923;</trd>
+  <trd lng="ms">melindungi</trd>
+  <trd lng="mt">jipprote&#x121;u</trd>
+  <trd lng="my">&#x1000;&#x102C;&#x1000;&#x103D;&#x101A;&#x103A;</trd>
+  <trd lng="ne">&#x938;&#x941;&#x930;&#x915;&#x94D;&#x937;&#x93E;</trd>
   <trd lng="nl">beschermen</trd>
+  <trd lng="ny">kuteteza</trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA30;&#xA71;&#xA16;&#xA3F;&#xA06;</trd>
+  <trdgrp lng="pl">
+    <trd>protegowa&cacute;</trd>,
+    <trd>strzec</trd>
+  </trdgrp>
+  <trd lng="ps">&a_s;&a_A;&a_t;&a_n;&a_h;</trd>
   <trdgrp lng="pt">
     <trd>proteger</trd>,
     <trd>patrocinar</trd>,
     <trd>salvaguardar</trd>,
-    <trd>apadrinhar</trd>    
+    <trd>apadrinhar</trd>
   </trdgrp>
+  <trd lng="rw">kurinda</trd>
+  <trd lng="sd">&a_j;&a_y; &a_H;&a_f;&a_A;&a_Z;&a_t;</trd>
+  <trd lng="si">&#xD86;&#xDBB;&#xD9A;&#xDCA;&#xDC2;&#xDCF;</trd>
   <trdgrp lng="sk">
     <trd>chr&aacute;ni&tcaron;</trd>,
     <trd>prote&zcaron;ova&tcaron;</trd>,
     <trd>zasta&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">za&scaron;&ccaron;ito</trd>
+  <trd lng="sm">puipui</trd>
+  <trd lng="sn">chengetedza</trd>
+  <trd lng="so">ilaaliyaan</trd>
+  <trd lng="sq">mbrojtur</trd>
+  <trd lng="st">sireletsa</trd>
+  <trd lng="su">ngalindungan</trd>
+  <trd lng="sw">kulinda</trd>
+  <trd lng="ta">&#xB95;&#xBBE;&#xBAA;&#xBCD;&#xBAA;&#xBBE;&#xBB1;&#xBCD;&#xBB1;&#xBC1;</trd>
+  <trd lng="te">&#xC30;&#xC15;&#xC4D;&#xC37;&#xC3F;&#xC02;&#xC1A;&#xC47;&#xC02;&#xC26;&#xC41;&#xC15;&#xC41;</trd>
+  <trd lng="tg">&c_m;&c_u;&#x4B3;&c_o;&c_f;&c_i;&c_z;&c_a;&c_t;</trd>
+  <trd lng="th">&#xE1B;&#xE49;&#xE2D;&#xE07;&#xE01;&#xE31;&#xE19;</trd>
+  <trd lng="tl">ipagtanggol</trd>
+  <trd lng="tt">&c_s;&c_a;&c_k;&c_l;&c_a;</trd>
+  <trd lng="uk">&c_z;&c_a;&c_h;&c_i;&c_s;&c_t;&c_u;</trd>
+  <trd lng="ur">&a_H;&a_f;&a_A;&a_Z;&a_t;</trd>
+  <trd lng="uz">himoya</trd>
+  <trd lng="vi">b&#x1EA3;o v&#x1EC7;</trd>
+  <trd lng="xh">khusela</trd>
+  <trd lng="yi">&bet;&alef;&#x5B7;&shin;&yod;&tsadi;&fnun;</trd>
+  <trd lng="yo">dabobo</trd>
+  <trd lng="zu">ukuvikela</trd>
 </drv>
 
 <drv mrk="protek.0a">
@@ -161,42 +246,47 @@
         <fnt><bib>Fab2</bib>, <lok>malbela anasido</lok></fnt>;
       </ekz>
       <ekz>
-        la <tld/>a spirito de la domo 
+        la <tld/>a spirito de la domo
         <fnt>
           <bib>Fab3</bib>
           <lok>Lasta perlo</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <klr>[&scirc;in]</klr> forlasis &ccirc;io, kio <klr>[&#8230;]</klr> &gcirc;is nun estis por &scirc;i amika kaj <tld/>a
+        <klr>[&scirc;in]</klr> forlasis &ccirc;io, kio <klr>[&#x2026;]</klr> &gcirc;is nun estis por &scirc;i amika kaj <tld/>a
         <fnt>
           <bib>Marta</bib>
         </fnt>;
       </ekz>
       <ekz>
-        la ma&scirc;inindustria parto de la &ccirc;ina medi<tld/>a sektoro teknike ankora&ubreve; restas sur tre malalta nivelo
+        la ma&scirc;inindustria parto de la &ccirc;ina medi<tld/>a sektoro teknike ankora&ubreve; restas sur tre
+        malalta nivelo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Mu Binghua</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007256.html">Mediprotekta industrio havas esperigan estonton</url></vrk>
-        </fnt>;
+          <aut>MU Binghua</aut>
+            <vrk><url ref="&Monato;/2001/007256.php">Mediprotekta industrio havas esperigan
+            estonton</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 10</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <ind>Natur<tld/>a Monda Fonda&jcirc;o</ind>
-        <fnt>
+        <fnt><aut>Katalin Smid&eacute;liusz</aut>:
+          <vrk><url ref="&Monato;/2000/006912.php">Cinike cianide -- &ccirc;u respondecas
+          Okcidento?</url></vrk>,
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006912.html">Poluado: 
-         Cinike cianide &dash; &ccirc;u respondecas Okcidento?</url></vrk>
+          <lok>2000/04, p. 15</lok>
         </fnt>;
         <trd lng="de">WWF</trd>
       </ekz>
       <ekz>
         <ind>la infan<tld/>a organiza&jcirc;o de Unui&gcirc;intaj Nacioj</ind>
         <fnt>
-          <bib>Monato</bib>
           <aut>Christian Fabossou</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007037.html">Afriko: Sklavoj &dash; kvinjara&gcirc;aj</url></vrk>
-        </fnt>.
+            <vrk><url ref="&Monato;/2000/007037.php">Sklavoj -- kvinjara&gcirc;aj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 14</lok>
+          </fnt>.
         <trdgrp lng="de">
           <trd>UNICEF</trd>,
           <trd>Kinderhilfswerk der Vereinten Nationen</trd>
@@ -204,18 +294,32 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_ch;&c_y;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="de">
   <trd>sch&uuml;tzend</trd>,
   <trd>Schutz-</trd>
   </trdgrp>
   <trd lng="es">protector</trd>
   <trd lng="fr">protecteur<klr tip="amb"> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4FDD;&#x8B77;&#x306E;  [<ind>&#x307B;&#x3054;&#x306E;</ind>]</trd>,
+    <trd>&#x4FDD;&#x8B77;&#x3059;&#x308B;  [<ind>&#x307B;&#x3054;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">beschermend</trd>
+  <trd lng="pl">ochronny</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_shch;&c_i;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_h;&c_r;&c_a;&c_n;&c_ja;&c_ju;&c_shch;&c_i;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_o;&c_k;&c_r;&c_o;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_i;&c_c;&c_mol;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_o;&c_p;&c_ib;&c_k;&c_u;&c_n;&c_s;&c_mol;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_je;&c_k;&c_c;&c_ib;&c_o;&c_n;&c_ib;&c_s;&c_t;&c_s;&c_mol;&c_k;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -248,7 +352,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>o de la limoj 
+        <tld/>o de la limoj
         <fnt>
           <bib>Far2</bib>
           <lok>&Ccirc;apitro XXIII</lok>
@@ -257,18 +361,18 @@
       <ekz>
         <tld/>o kontra&ubreve; bankroto
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007334.html">Belgio:
-          Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
-        </fnt>;
+          <vrk><url ref="&Monato;/2001/007334.php">Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/02, p. 8</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <tld/>o kontra&ubreve; atakoj
         <fnt>
           <bib>Monato</bib>
           <aut>Sincere via Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2003/008116.html">Milit-litoj</url></vrk>
+          <vrk><url ref="&Monato;/2003/008116.html">Milit-litoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -285,7 +389,20 @@
     <trd>t&aacute;mogat&aacute;s</trd>,
     <trd>v&eacute;delem</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4FDD;&#x8B77;  [<ind>&#x307B;&#x3054;</ind>]</trd>,
+    <trd>&#x5E87;&#x8B77;  [<ind>&#x3072;&#x3054;</ind>]</trd>,
+    <trd>&#x64C1;&#x8B77;  [<ind>&#x304A;&#x3046;&#x3054;</ind>]</trd>,
+    <trd>&#x5B88;&#x8B77;  [<ind>&#x3057;&#x3085;&#x3054;</ind>]</trd>,
+    <trd>&#x9632;&#x8B77;  [<ind>&#x307C;&#x3046;&#x3054;</ind>]</trd>,
+    <trd>&#x5F8C;&#x63F4;  [<ind>&#x3053;&#x3046;&#x3048;&#x3093;</ind>]</trd>,
+    <trd>&#x5F8C;&#x308D;&#x76FE;  [<ind>&#x3046;&#x3057;&#x308D;&#x3060;&#x3066;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bescherming</trd>
+  <trdgrp lng="pl">
+    <trd>auspicja</trd>,
+    <trd>egida</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_shch;&c_i;&c_t;&c_a;</trd>,
     <trd>&c_p;&c_o;&c_k;&c_r;&c_o;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>,
@@ -295,6 +412,13 @@
     <trd>ochrana</trd>,
     <trd>protekcia</trd>,
     <trd>z&aacute;&scaron;tita</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_i;&c_c;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>,
+    <trd>&c_o;&c_p;&c_ib;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_je;&c_k;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>&c_b;&c_l;&c_a;&c_t;</trd>
   </trdgrp>
 </drv>
 
@@ -311,7 +435,8 @@
         la <tld/>ado al la malfortuloj estas la devo de &ccirc;iu vera homo;
       </ekz>
       <ekz>
-        &scirc;i estas nepre necesa hejme <klr>[&#8230;]</klr> oni ne povas lasi <klr>[&#8230;]</klr> la infanojn sen <tld/>ado
+        &scirc;i estas nepre necesa hejme <klr>[&#x2026;]</klr> oni ne povas lasi <klr>[&#x2026;]</klr> la infanojn sen
+        <tld/>ado
         <fnt>
           <bib>IK</bib>
         </fnt>;
@@ -325,12 +450,13 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FRAZ</uzo>
-        la plej respektan dankon <klr>[al]</klr> 
+        la plej respektan dankon <klr>[al]</klr>
         la <ind>alta <tld/>ado</ind> de nia kvara kongreso
         <klr>(vd <ref tip="vid" cel="egid.0o.protekto">egido <sncref/></ref>)</klr>
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
         </fnt>.
         <trd lng="cs">vysok&aacute; ochrana</trd>
         <trd lng="de">Schirmherrschaft</trd>
@@ -348,6 +474,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_a;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_t;&c_e;&c_k;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>h&aacute;jen&iacute;</trd>,
     <trd>ochrana</trd>
@@ -355,7 +487,9 @@
   <trd lng="de">Schutz</trd>
   <trd lng="es">protecci&oacute;n</trd>
   <trd lng="fr">protection</trd>
+  <trd lng="ja">&#x4FDD;&#x8B77;  [<ind>&#x307B;&#x3054;</ind>]</trd>
   <trd lng="nl">bescherming</trd>
+  <trd lng="pl">protektorat</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_shch;&c_i;&c_t;&c_a;</trd>,
     <trd>&c_p;&c_o;&c_k;&c_r;&c_o;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>,
@@ -365,6 +499,13 @@
     <trd>ochrana</trd>,
     <trd>protekcia</trd>,
     <trd>z&aacute;&scaron;tita</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_i;&c_c;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>,
+    <trd>&c_o;&c_p;&c_ib;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_je;&c_k;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>&c_b;&c_l;&c_a;&c_t;</trd>
   </trdgrp>
 </drv>
 
@@ -412,7 +553,8 @@
         kiun li faris al nia afero, prenante sur sin la <ind><tld/>anteco</ind>n super nia kongreso
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen en la 21a de a&ubreve;gusto 1911</vrk>
+          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen en la 21a de a&ubreve;gusto
+          1911</vrk>
         </fnt>.
         <trd lng="fr">&eacute;gide</trd>
         <trdgrp lng="hu">
@@ -427,12 +569,84 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_p;&c_a;&c_t;&c_r;&c_o;&c_n;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_cha;&t_naro;&t_sa;&t_tsheg;&t_sa;&t_kata;&t_yata;&t_naro;&t_nga;&t_tsheg;</trd>
   <trdgrp lng="de">
     <trd>Patron</trd>,
     <trd>Besch&uuml;tzer</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4FDD;&#x8B77;&#x8005;  [<ind>&#x307B;&#x3054;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x64C1;&#x8B77;&#x8005;  [<ind>&#x3088;&#x3046;&#x3054;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x5F8C;&#x63F4;&#x8005;  [<ind>&#x3053;&#x3046;&#x3048;&#x3093;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">poplecznik</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_h;&c_i;&c_s;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_o;&c_p;&c_ib;&c_k;&c_u;&c_n;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_r;&c_o;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
 </drv>
 
+<drv mrk="protek.0ejo">
+  <kap>
+    <tld/>ejo
+  </kap>
+  <snc>
+    <dif>
+      Loko, tereno por <tld/>i iujn a&ubreve; ion de malfavoraj cirkonstancoj:
+      <ekz>
+        la &scirc;tato Ohio decidis estigi parkon apud la best<tld/>ejoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>John Goodhand</aut>
+          <vrk><url ref="&Monato;/2005/008509.php">Nekutima feriejo</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nombro de orfoj kaj judaj kaj germanaj en &Ccirc;e&hcirc;oslovakio estis giganta, Do
+        anka&ubreve; germanaj infanoj trovis rifu&gcirc;on en la protektejo-edukejo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2006/008886.php">Prisilentita heroo</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la germana registaro &jcirc;us realigis la planon, fari el la iama mortiga zono
+        natur<tld/>ejon kun pli ol 120 000 hektaroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2006/009013.php">Unika biotopo</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="azil.0ejo">azilejo</ref>,
+      <ref cel="rezerv.natur0ejo">naturrezervejo</ref>,
+      <ref cel="rifugx.0ejo">rifu&gcirc;ejo</ref>,
+      <ref cel="sxirm.0ejo">&scirc;irmejo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Schutzgebiet</trd>,
+    <trd>Reservat</trd>,
+    <trd>Wohnheim</trd>,
+    <trd>Wohnstift</trd>
+  </trdgrp>
+  <trd lng="en">reservation</trd>
+  <trd lng="pl">schronienie</trd>
+</drv>
 
 <drv mrk="protek.0ismo">
   <kap><tld/>ismo</kap>
@@ -442,14 +656,16 @@
       Ekonomia doktrino a&ubreve; politiko, metanta altajn doganojn sur
       importa&jcirc;ojn por <tld/>i la enlandan industrion a&ubreve; komercon:
       <ekz>
-        konflikto inter libera komerco de industriaj varoj kaj servoj kun reteno de <tld/>ismo sur farmsubvencioj al hejma agrikultura sektoro
+        konflikto inter libera komerco de industriaj varoj kaj servoj kun reteno de <tld/>ismo sur
+        farmsubvencioj al hejma agrikultura sektoro
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=12315">Monda Organiza&jcirc;o pri Komerco</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=12315">Monda Organiza&jcirc;o pri
+          Komerco</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        la japana registaro planis uzi <klr>[la sistemon]</klr> por personaj komputiloj 
+        la japana registaro planis uzi <klr>[la sistemon]</klr> por personaj komputiloj
         en japanaj lernejoj, sed devis nuligi la planojn, &ccirc;ar Usono minacis sankciojn pro <tld/>ismo
         <fnt>
           <bib>Viki</bib>
@@ -477,12 +693,15 @@
   <trd lng="es">proteccionismo</trd>
   <trd lng="fr">protectionnisme</trd>
   <trd lng="hu">protekcionizmus</trd>
+  <trd lng="ja">&#x4FDD;&#x8B77;&#x8CBF;&#x6613;&#x4E3B;&#x7FA9;  [<ind>&#x307B;&#x3054;&#x307C;&#x3046;&#x3048;&#x304D;&#x3057;&#x3085;&#x304E;</ind>]</trd>
   <trd lng="nl">protectionisme</trd>
+  <trd lng="pl">protekcjonizm</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_je;&c_k;&c_c;&c_i;&c_o;&c_n;&c_i;&c_z;&c_m;</trd>
   <trdgrp lng="sk">
     <trd>protekcionizmus</trd>,
     <trd>syst&eacute;m ochrann&yacute;ch ciel</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_t;&c_je;&c_k;&c_c;&c_ib;&c_o;&c_n;&c_ib;&c_z;&c_m;</trd>
 </drv>
 
 <drv mrk="protek.medi0o">
@@ -492,11 +711,11 @@
     <dif>
       <ref tip="dif" cel="protek.natur0o.EKOL">Natur<tld/>o</ref>:
       <ekz>
-        &Ccirc;inio mobilizas &ccirc;iujn civitanojn kaj familiojn fari siajn 
+        &Ccirc;inio mobilizas &ccirc;iujn civitanojn kaj familiojn fari siajn
         kontribuojn al energi&scirc;paro kaj medi<tld/>o
         <fnt>
           <aut>&Ccirc;ina Radio Internacia</aut>,
-          <vrk><url ref="http://esperanto.cri.cn/362/2007/10/12/1@70906.htm">
+          <vrk><url ref="&CRI;362/2007/10/12/1@70906.htm">
           &Ccirc;inio atingis komencan sukceson</url></vrk>,
           <lok>2007-10-12</lok>
         </fnt>;
@@ -504,16 +723,23 @@
       <ekz>
         medi<tld/>a industrio havas esperigan estonton
         <fnt>
-          <bib>Monato</bib>
-          <aut>Mu Binghua</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007256.html">Mediprotekta industrio havas esperigan estonton</url></vrk>
-        </fnt>.
+          <aut>MU Binghua</aut>
+            <vrk><url ref="&Monato;/2001/007256.php">Mediprotekta industrio havas esperigan
+            estonton</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 10</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_h;&c_o;&c_v;&c_a; &c_p;&c_r;&c_y;&c_r;&c_o;&c_d;&c_y;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_v;&c_a; &c_n;&c_a;&c_v;&c_a;&c_k;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_g;&c_a; &c_a;&c_s;&c_ja;&c_r;&c_o;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_ja;</trd>
+  </trdgrp>
   <trd lng="de">Umweltschutz</trd>
   <trd lng="es">protecci&oacute;n medioambiental</trd>
   <trd lng="nl">milieubescherming</trd>
+  <trd lng="pl">ochrona &sacute;rodowiska</trd>
 </drv>
 
 <drv mrk="protek.natur0o">
@@ -527,14 +753,14 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="https://www.monato.be/2004/008396.html">Profunda
+          <vrk><url ref="&Monato;/2004/008396.html">Profunda
           struktur&scirc;an&gcirc;o en meza kaj orienta E&ubreve;ropo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        vintre la mar&ccirc;ego estis tre dan&gcirc;era, &ccirc;ar la taga akvonivelo de 
+        vintre la mar&ccirc;ego estis tre dan&gcirc;era, &ccirc;ar la taga akvonivelo de
         la apuda lago Erio ofte &scirc;an&gcirc;i&gcirc;is &dash; nun la mar&ccirc;ego estas plejparte sekigita,
-        <klr>[&#8230;]</klr> centoj da hektaroj de ties areo trovi&gcirc;as sub natur<tld/>o
+        <klr>[&#x2026;]</klr> centoj da hektaroj de ties areo trovi&gcirc;as sub natur<tld/>o
         <fnt>
           <bib>Monato</bib>
           <aut>John Goodhand</aut>
@@ -561,38 +787,41 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_h;&c_o;&c_v;&c_a; &c_p;&c_r;&c_y;&c_r;&c_o;&c_d;&c_y;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_v;&c_a; &c_n;&c_a;&c_v;&c_a;&c_k;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_g;&c_a; &c_a;&c_s;&c_ja;&c_r;&c_o;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_ja;</trd>
+  </trdgrp>
   <trd lng="de">Naturschutz</trd>
   <trd lng="es">protecci&oacute;n de la naturaleza</trd>
   <trd lng="fr">protection de la nature</trd>
+  <trd lng="ja">&#x81EA;&#x7136;&#x4FDD;&#x8B77;  [<ind>&#x3057;&#x305C;&#x3093;&#x307B;&#x3054;</ind>]</trd>
   <trd lng="nl">natuurbescherming</trd>
+  <trd lng="pl">ochrona przyrody</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.26  2019/06/30 07:43:29  revo
-adaptis URL de Monato
+versio 1.117 2023/08/29 16:34:11
+Wolfram Diestel: ja: prononco
 
-Revision 1.25  2018/03/19 19:10:18  revo
-Wolfram Diestel: prilaboris ekz-ojn, subordigis "alta ~ado/~anto/~anteco"
+versio 1.116 2023/05/01 08:31:46
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.24  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.115 2023/04/24 12:46:34
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.23  2015/06/29 16:40:19  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.114 2023/04/19 11:23:54
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.22  2015/04/23 00:10:14  revo
-Carlos Garcia: ~i ~a ~o ~ado ~ismo medi~o natur~o
+versio 1.113 2023/04/15 12:43:20
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.21  2009/10/06 16:44:27  revo
-Paul Peeraerts: +nl
+versio 1.112 2023/04/15 08:29:10
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.20  2008/11/05 17:30:44  revo
-Peter Hauser: + trad. de / + "Alta Protektanto"
+versio 1.111 2023/04/12 09:25:51
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.19  2008/08/23 16:31:01  revo
-Jeromo Vasxe: + medi/natur~o
-
-Revision 1.18  2006/04/02 17:02:57  revo
+versio 1.110 2023/04/11 18:56:01
 -->
 </vortaro>

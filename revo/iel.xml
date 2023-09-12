@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: iel.xml,v 1.18 2009/04/01 16:30:28 revo Exp $">
+<art mrk="$Id: iel.xml,v 1.23 2023/08/31 16:40:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>iel</rad>
@@ -24,6 +23,11 @@
   </snc>
   <trd lng="be">&c_ja;&c_k;-&c_n;&c_je;&c_b;&c_u;&c_d;&c_z;&c_mol;</trd>
   <trd lng="de">irgendwie</trd>
+  <trdgrp lng="en">
+    <trd>in some way</trd>,
+    <trd>in any way</trd>,
+    <trd>somehow</trd>
+  </trdgrp>
   <trdgrp lng="es">
    <trd>de alg&uacute;n <ind>modo</ind></trd>, 
    <trd>de alguna <ind>manera</ind></trd> 
@@ -39,6 +43,7 @@
    <trd>in qualche <ind>modo</ind></trd>, 
    <trd>in qualche <ind>maniera</ind></trd> 
   </trdgrp>
+  <trd lng="ja">&#x3069;&#x3046;&#x306B;&#x304B;&#x3057;&#x3066;</trd>
   <trd lng="nl">op een of andere <ind>wijze</ind></trd>
   <trdgrp lng="pl">
    <trd>jako&sacute;</trd>, 
@@ -57,6 +62,14 @@
     <trd>&c_k;&c_a;&c_k;-&c_n;&c_i;&c_b;&c_u;&c_d;&c_mol;</trd>
   </trdgrp>
   <trd lng="sv">p&aring; n&aring;got <ind>s&auml;tt</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_ja;&c_k;-&c_n;&c_je;&c_b;&c_u;&c_d;&c_mol;</trd>,
+    <trd>&c_ja;&c_k;&c_o;&c_s;&c_mol;</trd>,
+    <trd>&c_b;&c_o;&c_z;&c_n;&c_a;-&c_ja;&c_k;</trd>,
+    <trd>&c_k;&c_a;&c_z;&c_n;&c_a;</trd>,
+    <trd>&c_ja;&c_k;</trd>,
+    <trd>&c_h;&c_t;&c_o;&c_z;&c_n;&c_a;-&c_ja;&c_k;</trd>
+  </trdgrp>
   <trd lng="vo">semlik</trd>
 </drv>
 
@@ -72,6 +85,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_ja;&c_k;-&c_n;&c_je;&c_b;&c_u;&c_d;&c_z;&c_mol;</trd>
+  <trdgrp lng="en">
+    <trd>in some way</trd>,
+    <trd>in any way</trd>,
+    <trd>somehow</trd>
+  </trdgrp>
   <trdgrp lng="es">
    <trd>de un <ind>modo</ind> u otro</trd>, 
    <trd>de una <ind>manera</ind> u otra</trd> 
@@ -83,6 +101,7 @@
   <trdgrp lng="it">
    <trd>in un <ind>modo</ind> o nell'altro</trd>
   </trdgrp>
+  <trd lng="ja">&#x3069;&#x3046;&#x306B;&#x304B;&#x3057;&#x3066;</trd>
   <trd lng="nl">op een of andere <ind>wijze</ind></trd>
   <trdgrp lng="pl">
    <trd>jako&sacute;</trd>, 
@@ -98,6 +117,9 @@
 </art>
 <!--
 $Log$
+versio 1.22 2023/03/18 20:25:33
+Robert Baruch: +trd: en
+
 Revision 1.19  2017/10/28 22:11:21  revo
 Vito Redsky: +trd ro
 

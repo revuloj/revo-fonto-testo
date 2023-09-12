@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: manik1.xml,v 1.7 2009/10/09 16:31:08 revo Exp $">
+<art mrk="$Id: manik1.xml,v 1.17 2023/09/02 06:04:09 revo Exp $">
 <kap>
   <rad>Manik</rad>/o
 </kap>
@@ -14,10 +13,13 @@
       <ref tip="vid" cel="kol.mar0o">Markolo</ref> inter 
       Francujo kaj Britujo:
       <ekz>
-         <tld/>aj (Anglonormandaj) Insuloj, kiuj estas kvaza&ubreve; fe&ubreve;daj &scirc;tatetoj ene de la brita regno
+         <tld/>aj (Anglonormandaj) Insuloj, kiuj estas kvaza&ubreve; fe&ubreve;daj
+         &scirc;tatetoj ene de la brita regno
         <fnt>
+       <aut>IRL</aut>
+          <vrk><url ref="&Monato;/2000/006826.php">&Ccirc;u pa&scirc;oj al paco?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006826.html">Irlando: &Ccirc;u pa&scirc;oj al paco?</url></vrk>
+          <lok>2000/06, p. 7</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -33,15 +35,34 @@
   <trd lng="de">&Auml;rmelkanal</trd>
   <trd lng="en">English Channel</trd>
   <trd lng="fr">Manche</trd>
+  <trd lng="ja">&#x30DE;&#x30F3;&#x30B7;&#x30E5;&#x770C;  [<ind>&#x30DE;&#x30F3;&#x30B7;&#x30E5;&#x3051;&#x3093;</ind>]</trd>
   <trd lng="nl">Het <ind>Kanaal</ind></trd>
+  <trd lng="pl">La Manche</trd>
   <trd lng="pt">Mancha</trd>
+  <trd lng="ro">Canalul M&acirc;necii</trd>
   <trd lng="ru">&c_L;&c_a;-&c_M;&c_a;&c_n;&c_sh;</trd>
   <trd lng="sk">Laman&scaron;sk&yacute; prieliv</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_t;&#x43E;&#x43A;&c_a; &#x41B;&c_a;-&#x41C;&c_a;&#x43D;&c_sh;</trd>,
+    <trd>&#x41C;&c_a;&#x43D;&c_sh; (&c_d;&c_je;&#x43F;&c_a;&c_r;&c_t;&c_a;&#x43C;&c_je;&#x43D;&c_t;)</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.16 2023/04/20 06:33:34
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.15 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.13 2020/06/04 17:10:33
+Vito Redsky: +trd pl +trd ro
+
+versio 1.12 2020/05/30 20:10:39
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.10  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -52,14 +73,5 @@ Revision 1.8  2012/08/19 11:10:51  revo
 Marc Rausell: + trd ca
 
 Revision 1.7  2009/10/09 16:31:08  revo
-Paul Peeraerts: +nl
-
-Revision 1.6  2006/07/29 16:32:46  revo
-Tulio Flores: +tr pt
-
-Revision 1.5  2005/08/31 16:32:09  revo
-Yury Finkel: +trd ru
-
-Revision 1.4  2005/04/11 16:32:48  revo
 -->
 </vortaro>

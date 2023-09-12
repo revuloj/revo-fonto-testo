@@ -1,34 +1,82 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: monarh.xml,v 1.14 2009/03/01 17:34:51 revo Exp $">
+<art mrk="$Id: monarh.xml,v 1.29 2023/09/02 06:04:13 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>monar&hcirc;</rad>/o, 
-  <var><kap><ofc>8</ofc><rad>monark</rad>/o <fnt><bib>PV</bib></fnt></kap></var>
+  <var><kap><ofc>8</ofc><rad var="k">monark</rad>/o <fnt><bib>PV</bib></fnt></kap></var>
 </kap>
 
 <drv mrk="monarh.0o">
   <kap><ofc>*</ofc><tld/>o,
-  <var><kap><ofc>8</ofc>monarko <fnt><lok>Akademio de Esperanto, <url
-  ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html">8a
-  Oficiala Aldono</url>, II.A.1</lok></fnt></kap></var>
+  <var><kap><ofc>8</ofc><tld var="k"/>o</kap></var>
   </kap> 
   <uzo tip="fak">JUR</uzo>
   <uzo tip="fak">POL</uzo>
   <snc>
     <dif>
-      Regnestro en <ref tip="malprt" cel="monarh1">monarkio</ref>:
-      emiro, &hcirc;alifo, &hcirc;ano, imperiestro, princo, re&gcirc;o, sultano ktp.:
+      <ref tip="super" cel="regn.0estro">Regnestro</ref> en <ref tip="malprt" cel="monarh1">monarkio</ref>:
+      <refgrp tip="sub">
+        <ref cel="emir.0o">emiro</ref>, <ref cel="faraon.0o">faraono</ref>,
+        <ref cel="kalif.0o">&hcirc;alifo</ref>, <ref cel="hxan.0o">&hcirc;ano</ref>, 
+        <ref cel="imperi.0estro">imperiestro</ref>, <ref cel="princ.0o.regnestro">princo</ref>,
+        <ref cel="regx.0o.monarko">re&gcirc;o</ref>, <ref cel="sultan.0o">sultano</ref> 
+      </refgrp> ktp.:
+      <ekz>
+        la granda <tld/>o tre favore adia&ubreve;is sian filon kaj heredonton
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         la filo de potenca <tld/>o
         <fnt>
           <aut>Wilhelm Hauff, trad. J. W. Eggleton</aut>
-          <vrk><url ref="http://www.gutenberg.org/ebooks/22070"> La
+          <vrk><url ref="&Gutenberg;ebooks/22070"> La
           Karavano</url></vrk>
-        </fnt>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        fine li estis perdinta tion, kio sufi&ccirc;us por ri&ccirc;igi dudek <tld var="k"/>ojn
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tronparoladoj de <tld var="k"/>oj en konstituciaj monarkioj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj nordirlandaj parlamentanoj kaj publikaj funkciuloj &jcirc;uru fidelecon al brita
+        <tld/>o
+        <fnt>
+       <aut>IRL</aut>
+          <vrk><url ref="&Monato;/2000/006826.php">&Ccirc;u pa&scirc;oj al paco?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la imperiestro <nom>Hongwu</nom>, la unua de la dinastio <nom>Ming</nom>, en la 14a jarcento
+        <klr>[&#x2026;]</klr> dekretis, ke la nomo de la erao restu sama dum la regado de
+        &ccirc;iu <tld/>o
+        <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2000/006852.php">&Ccirc;u vere kristana erao?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/04, p. 17</lok>
+          </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="auxtok.0o">a&ubreve;tokrato</ref>,
+      <ref cel="despot.0o">despoto</ref>
+    </refgrp>
   </snc>                      
   <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_r;&c_h;</trd>
   <trd lng="bg">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;</trd>
@@ -45,12 +93,25 @@
     <trd>egyeduralkod&oacute;</trd>,
     <trd>monarcha</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x541B;&#x4E3B;  [<ind>&#x304F;&#x3093;&#x3057;&#x3085;</ind>]</trd>,
+    <trd>&#x5E1D;&#x738B;  [<ind>&#x3066;&#x3044;&#x304A;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>vorst</trd>,
     <trd>monarch</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>monarcha</trd>,
+    <trd>panuj&aogonek;cy</trd>
+  </trdgrp>
   <trd lng="pt">monarca</trd>
+  <trdgrp lng="ro">
+    <trd>rege</trd>,
+    <trd>monarh</trd>
+  </trdgrp>
   <trd lng="ru">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;</trd>
+  <trd lng="uk">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;</trd>
 </drv>
 
 <drv mrk="monarh.0ismo">
@@ -58,9 +119,12 @@
   <uzo tip="fak">POL</uzo>
   <snc>
     <dif>
-      Monarkiismo, politika doktrino de partianoj de monarkia
-      re&gcirc;imo.
+      Politika <ref tip="super" cel="doktri.0o">doktrino</ref> de partianoj de monarkia
+      re&gcirc;imo; monarkiismo.
     </dif>
+    <adm>
+      Necesas difini "monarkiismo"!
+    </adm>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_r;&c_h;&c_ib;&c_z;&c_m;</trd>
   <trd lng="bg">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_i;&c_ja;</trd>
@@ -75,8 +139,15 @@
     <trd>monarchisme</trd>
   </trdgrp>
   <trd lng="hu">monarchizmus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x541B;&#x4E3B;&#x5236;&#x4E3B;&#x7FA9;  [<ind>&#x304F;&#x3093;&#x3057;&#x3085;&#x305B;&#x3044;&#x3057;&#x3085;&#x304E;</ind>]</trd>,
+    <trd>&#x738B;&#x653F;&#x4E3B;&#x7FA9;  [<ind>&#x304A;&#x3046;&#x305B;&#x3044;&#x3057;&#x3085;&#x304E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">monarchisme</trd>
+  <trd lng="pl">monarchizm</trd>
+  <trd lng="ro">regalism</trd>
   <trd lng="ru">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_i;&c_z;&c_m;</trd>
+  <trd lng="uk">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_ib;&c_z;&c_m;</trd>
 </drv>
 
 <drv mrk="monarh.0isto">
@@ -84,7 +155,18 @@
   <uzo tip="fak">POL</uzo>
   <snc>
     <dif>
-      Partiano de monarkia re&gcirc;imo.
+      Partiano de monar&hcirc;ia re&gcirc;imo:
+      <ekz>
+        la nuna brita &ccirc;efministro, <nom>Tony Blair</nom>, estas <tld var="k"/>isto, kiu defendas la
+        re&gcirc;inon
+        kontra&ubreve; kritikado
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2005/008702.php">Monarkia mistiko</url></vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="ant">
       <ref cel="respub.0isto">respublikisto</ref>
@@ -100,30 +182,40 @@
     <trd>monarchiste</trd>
   </trdgrp>
   <trd lng="hu">monarchista</trd>
+  <trdgrp lng="ja">
+    <trd>&#x541B;&#x4E3B;&#x5236;&#x4E3B;&#x7FA9;&#x8005;  [<ind>&#x304F;&#x3093;&#x3057;&#x3085;&#x305B;&#x3044;&#x3057;&#x3085;&#x304E;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x738B;&#x653F;&#x4E3B;&#x7FA9;&#x8005;  [<ind>&#x304A;&#x3046;&#x305B;&#x3044;&#x3057;&#x3085;&#x304E;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">monarchist</trd>
+  <trd lng="pl">monarchista</trd>
+  <trd lng="ro">monarhist</trd>
   <trd lng="ru">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_i;&c_s;&c_t;</trd>
+  <trd lng="uk">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_ib;&c_s;&c_t;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/04/20 06:33:35
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.27 2023/04/18 09:26:21
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.26 2023/04/11 16:10:38
+aktualigo Monato-URL
+
+versio 1.25 2022/05/28 12:48:12
+Wolfram Diestel: +ekz-oj, ref
+
+versio 1.24 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/02/27 17:11:10
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.20  2018/08/06 22:10:54  revo
 Michel Cantigneaux: aperas unue en PV (1934), oficiala en 8OA (1974)
 
 Revision 1.19  2017/12/21 17:10:28  revo
-Michel Cantigneaux: aldono ligilo al la 8a OA
-
-Revision 1.18  2017/11/28 08:10:13  revo
-Andrew Sly: + ekz
-
-Revision 1.17  2013/08/23 14:10:13  revo
-Joop Eggen: +trd bg
-
-Revision 1.16  2012/10/23 00:13:03  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.15  2012/07/17 13:10:14  revo
-Marc Rausell: + trd ca
-
-Revision 1.14  2009/03/01 17:34:51  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: grifel.xml,v 1.18 2010/03/13 17:30:26 revo Exp $">
+  <art mrk="$Id: grifel.xml,v 1.22 2023/08/31 14:29:55 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>grifel</rad>/o
@@ -141,8 +140,8 @@
         <trd lng="ru">&c_p;&c_je;&c_r;&c_o;</trd>
       </snc>
   <trdgrp lng="cs">
-    <trd>břidličné pisátko</trd>,
-    <trd>kamének na psaní</trd>,
+    <trd>b&#x159;idli&#x10D;n&#xE9; pis&#xE1;tko</trd>,
+    <trd>kam&#xE9;nek na psan&#xED;</trd>,
     <trd>rydlo</trd>
   </trdgrp>
   <trdgrp lng="fr">
@@ -150,10 +149,19 @@
         <trd>poin&ccedil;on</trd>,
         <trd>style<klr tip="ind"> (instrument pour &eacute;crire)</klr></trd>,
         <trd>mine d'ardoise</trd></trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x77F3;&#x7B46;  [<ind>&#x305B;&#x304D;&#x3072;&#x3064;</ind>]</trd>,
+    <trd>&#x5F6B;&#x523B;&#x5200;  [<ind>&#x3061;&#x3087;&#x3046;&#x3053;&#x304F;&#x3068;&#x3046;</ind>]</trd>,
+    <trd>&#x30BF;&#x30C3;&#x30C1;&#x30DA;&#x30F3;  [<ind>&#x305F;&#x3063;&#x3061;&#x307A;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
-    <trd>bridlicové písadlo</trd>,
+    <trd>bridlicov&#xE9; p&#xED;sadlo</trd>,
     <trd>grifel</trd>,
     <trd>rydlo</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x491;&#x440;&#x438;&#x444;&#x435;&#x43B;&#x44C;</trd>,
+    <trd>&#x440;&#x456;&#x437;&#x435;&#x446;&#x44C;&#xA0;(&#x491;&#x440;&#x430;&#x432;&#x435;&#x440;&#x430;)</trd>
   </trdgrp>
 </drv>
   </art>

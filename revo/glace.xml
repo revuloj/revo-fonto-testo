@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: glace.xml,v 1.11 2005/08/19 19:15:03 revo Exp $">
+<art mrk="$Id: glace.xml,v 1.19 2023/08/31 14:29:53 revo Exp $">
 <kap>
   <rad>glace</rad>/a <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -56,6 +55,10 @@
     <trd>f&eacute;nyezett</trd>,
     <trd>glasz&eacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5149;&#x6CA2;&#x306E;&#x3042;&#x308B;  [<ind>&#x3053;&#x3046;&#x305F;&#x304F;&#x306E;&#x3042;&#x308B;</ind>]</trd>,
+    <trd>&#x3064;&#x3084;&#x51FA;&#x3057;&#x3057;&#x305F;  [<ind>&#x3064;&#x3084;&#x3060;&#x3057;&#x3057;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>glac&eacute;-</trd>,
     <trd>blinkend</trd>
@@ -72,6 +75,12 @@
   <trd>glac&eacute;</trd>,
   <trd>hladen&yacute;</trd>,
   <trd>le&scaron;ten&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&#x43B;&#x44F;&#x43D;&c_c;&c_je;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_gu;&#x43B;&#x44F;&#x43D;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&#x43B;&#x43E;&c_shch;&c_je;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_gu;&#x43B;&c_a;&c_z;&c_u;&c_r;&#x43E;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -104,6 +113,11 @@
   </trdgrp>
   <trd lng="hu">f&eacute;nyez<klr tip="ind"> (pl.
   b&odblac;rt)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5149;&#x6CA2;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x3053;&#x3046;&#x305F;&#x304F;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x3064;&#x3084;&#x51FA;&#x3057;&#x3059;&#x308B;  [<ind>&#x3064;&#x3084;&#x3060;&#x3057;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x30B0;&#x30E9;&#x30C3;&#x30BB;&#x3059;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">glaceren</trd>
   <trdgrp lng="pt">
       <trd>dar <ind>brilho</ind></trd>, 
@@ -114,6 +128,12 @@
       <trd>&c_n;&c_a;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_g;&c_l;&c_ja;&c_n;&c_je;&c_c;</trd>
     </trdgrp>
   <trd lng="sk">pokry&tcaron; polevou <klr>(tortu)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x43E;&c_shch;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_gu;&#x43B;&#x44F;&#x43D;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&#x43D;&#x43E;&c_s;&c_i;&c_t;&c_i; &c_g;&#x43B;&#x44F;&#x43D;&c_je;&c_c;&#x44C;</trd>,
+    <trd>&c_gu;&#x43B;&c_a;&c_z;&c_u;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glace.0igxi">
@@ -130,6 +150,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_l;&c_ja;&c_n;&c_c;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   <trd lng="fr">se <ind>lustrer</ind></trd>
 </drv>
 
@@ -146,6 +167,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_a;&c_t;&c_a;&c_v;&c_y; <klr tip="amb">(&c_n;&c_ja;&c_g;&c_l;&c_ja;&c_n;&c_c;&c_a;&c_v;&c_y;)</klr></trd>
   <trd lng="bg">&c_m;&c_a;&c_t;&c_o;&c_v;</trd>
   <trd lng="en">matt(e)</trd>
   <trd lng="fr">mat</trd>
@@ -156,6 +178,9 @@
 </art>
 <!--
 $Log$
+versio 1.18 2023/04/26 08:31:47
+Dmitri Gabinski: + trd be
+
 Revision 1.15  2017/03/07 09:10:20  revo
 Lyubomir Vasilev: +trd bg
 

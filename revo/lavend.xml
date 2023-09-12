@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lavend.xml,v 1.16 2006/09/01 18:30:12 revo Exp $">
+<art mrk="$Id: lavend.xml,v 1.26 2023/09/01 19:10:58 revo Exp $">
 <kap>
 <ofc>1</ofc>
 <rad>lavend</rad>/o
@@ -12,14 +11,11 @@
   <snc>
     <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
-      tip="malprt" cel="lamiac.0oj">lamiacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="lamiac.0oj">lamiacoj</ref>
       (<trd lng="la">Lavandula</trd>),
       el kies unu specio <trd lng="la">Lavandula angustifolia</trd>
       oni produktas bonodoran oleon; 
-      duon<ref tip="lst" cel="arbust.0o" 
-      lst="voko:lamioparencoj">arbusto</ref>,
+      duon<ref tip="lst" cel="arbust.0o" lst="voko:lamioparencoj">arbusto</ref>,
       foje arbusto a&ubreve; sta&ubreve;do,
       kun nesimetriaj kvinlobaj intense bluaj a&ubreve; violkoloraj floroj,
       kies mallongaj stiluso kaj stamenoj ka&scirc;i&gcirc;as en la
@@ -39,16 +35,18 @@
   <trd lng="en">lavander</trd>
   <trd lng="fr">lavande</trd>
   <trd lng="hu">levendula</trd>
+  <trd lng="ja">&#x30E9;&#x30D9;&#x30F3;&#x30C0;&#x30FC;  [<ind>&#x3089;&#x3079;&#x3093;&#x3060;&#x30FC;</ind>]</trd>
   <trd lng="nl">lavendel</trd>
   <trd lng="pl">lawenda</trd>
   <trdgrp lng="pt">
     <trd>lavanda <klr tip="amb">(bot.)</klr></trd>,
     <trd>alfazema <klr tip="amb">(bot.)</klr></trd>
   </trdgrp>
-  <trd lng="ro">lev&abreve;n&#539;ic&abreve; </trd>
+  <trd lng="ro">lev&abreve;n&#x21B;ic&abreve; </trd>
   <trd lng="ru">&c_l;&c_a;&c_v;&c_a;&c_n;&c_d;&c_a;</trd>
   <trd lng="sk">levandu&lcaron;a</trd>
   <trd lng="sv">lavendel</trd>
+  <trd lng="uk">&#x43B;&#x430;&#x432;&#x430;&#x43D;&#x434;&#x430;</trd>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: apendi.xml,v 1.23 2010/11/05 17:30:26 revo Exp $">
+  <art mrk="$Id: apendi.xml,v 1.30 2023/08/30 18:23:35 revo Exp $">
     <kap>
       <rad>apendic</rad>/o
     </kap>
@@ -57,8 +56,7 @@
       </snc>
       <rim>
 	La senco anatomia <tld/>o<sncref ref="apendi.0o.ANA"/> estas
-	konsiderinde pli internacia ol la senco <tld/>o<sncref
-	ref="apendi.0o.kromajxo"/>
+	konsiderinde pli internacia ol la senco <tld/>o<sncref ref="apendi.0o.kromajxo"/>
 	kiu povas aspekti kiel malagrabla kaj nelogika stranga&jcirc;o.
 	<aut>Sergio Pokrovskij</aut>
       </rim>
@@ -67,13 +65,21 @@
       <trd lng="es">ap&eacute;ndice</trd>
       <trd lng="fr">appendice</trd>
       <trd lng="it">appendice</trd>
-      <trd lng="tr">apandis</trd>
+      <trdgrp lng="ja">
+    <trd>&#x4ED8;&#x9332;  [<ind>&#x3075;&#x308D;&#x304F;</ind>]</trd>,
+    <trd>&#x866B;&#x5782;  [<ind>&#x3061;&#x3085;&#x3046;&#x3059;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trd lng="tr">apandis</trd>
       <trd lng="sk">dodatok, pr&iacute;loha</trd>
       <trd lng="ms">lampiran</trd>
   <trd lng="sk">dodatok, pr&iacute;loha</trd>
   <trdgrp lng="cs">
     <trd>apendix</trd>,
     <trd>p&rcaron;&iacute;v&ecaron;sek slep&eacute;ho st&rcaron;eva</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x438;&#x434;&#x430;&#x442;&#x43E;&#x43A;</trd>,
+    <trd>&#x432;&#x456;&#x434;&#x440;&#x43E;&#x441;&#x442;&#x43E;&#x43A;; &#x430;&#x43F;&#x435;&#x43D;&#x434;&#x438;&#x43A;&#x441;</trd>
   </trdgrp>
 </drv>
   </art>

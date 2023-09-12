@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tor.xml,v 1.24 2023/09/04 19:01:53 revo Exp $">
 <kap>
   <rad>tor</rad>/o
 </kap>
@@ -58,6 +57,7 @@
       elstara&jcirc;o
       &ccirc;irka&ubreve; kolono.
     </dif>
+    <trd lng="be">&c_t;&c_o;&c_r;&c_u;&c_s; <klr>(&c_a;&c_r;&c_h;.)</klr></trd>
     <trd lng="en">torus</trd>
     <trd lng="hu">p&aacute;rnatag<klr tip="amb"> (oszlopon)</klr></trd>
     <trd lng="nl">voetring<klr tip="ind"> (v.e.zuil)</klr></trd>
@@ -77,14 +77,27 @@
     <trd>bocel</trd>
   </trdgrp>
   <trd lng="fr">tore</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7389;&#x7E01;  [<ind>&#x305F;&#x307E;&#x3048;&#x3093;</ind>]</trd>,
+    <trd>&#x5186;&#x74B0;&#x9762;  [<ind>&#x3048;&#x3093;&#x304B;&#x3093;&#x3081;&#x3093;</ind>]</trd>,
+    <trd>&#x30C8;&#x30FC;&#x30E9;&#x30B9;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>kruhov&yacute; prstenec</trd>,
     <trd>torus</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&#x43E;&c_r;</trd>,
+    <trd>&#x43A;&c_ib;&#x43B;&#x44C;&c_c;&c_je;</trd>,
+    <trd>&c_v;&c_a;&#x43B;&c_i;&#x43A;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2022/09/15 07:42:16
+Dmitri Gabinski: + trd be
+
 Revision 1.20  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: edikt.xml,v 1.15 2010/05/07 16:30:38 revo Exp $">
+<art mrk="$Id: edikt.xml,v 1.25 2023/08/31 11:49:26 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>edikt</rad>/o
@@ -20,9 +19,10 @@
         plimulto defias papajn <tld/>ojn pri ekzemple abortigo kaj seksrilatoj
         anta&ubreve;-geedzaj
         <fnt>
+       <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2000/006948.php">Kie la toleremo?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006948.html"
-              >Opinio: Kie la toleremo?</url></vrk>
+          <lok>2000/07, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -31,19 +31,17 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lucette &Eacute;chapp&eacute;</aut>
-          <vrk><url ref="&Monato;/2013/010930.php"
-              >Vizito al Nanto</url></vrk>
+          <vrk><url ref="&Monato;/2013/010930.php">Vizito al Nanto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        imperiestro Teodozio <klr>[&#8230;]</klr> per la <tld/>o de Tesaloniko (380 p. Kr.)
+        imperiestro Teodozio <klr>[&#x2026;]</klr> per la <tld/>o de Tesaloniko (380 p. Kr.)
         proklamis religio de la &scirc;tato la kristanismon kaj metis eksterle&gcirc;en la
         paganajn kultojn
         <fnt>
           <bib>Monato</bib>
           <aut>Armando Zecchin</aut>
-          <vrk><url ref="&Monato;/2006/008871.php"
-              >&Scirc;tato, eklezio kaj ideologia laikeco</url></vrk>
+          <vrk><url ref="&Monato;/2006/008871.php">&Scirc;tato, eklezio kaj ideologia laikeco</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -67,7 +65,8 @@
   </trdgrp>
   <trdgrp lng="de">
      <trd>Erlass</trd>,
-     <trd>Edikt</trd>
+     <trd>Edikt<klr> [ark]</klr></trd>,
+     <trd>Dekret<klr> [ark]</klr></trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>edict</trd>,
@@ -83,6 +82,7 @@
      <trd>ediktum</trd>,
      <trd>uralkod&oacute;i <ind>rendelet</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#x52C5;&#x4EE4;  [<ind>&#x3061;&#x3087;&#x304F;&#x308C;&#x3044;</ind>]</trd>
   <trd lng="nl">edict</trd>
   <trdgrp lng="pl">
     <trd>edykt</trd>,
@@ -101,10 +101,24 @@
     <trd>v&yacute;nos</trd>
   </trdgrp>
   <trd lng="sv">p&aring;bud</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&#x43A;&c_a;&c_z;</trd>,
+    <trd>&#x43F;&#x43E;&c_s;&c_t;&c_a;&#x43D;&#x43E;&c_v;&c_a;</trd>,
+    <trd>&c_je;&c_d;&c_i;&#x43A;&c_t;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/04/20 12:45:47
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.23 2022/06/19 11:26:32
+Ulrich Fellmann: edikto: +1 plia DE trd
+
+versio 1.22 2022/04/27 14:38:53
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.19  2019/01/09 17:10:14  revo
 Wolfram Diestel: +ekz-oj
 
@@ -118,14 +132,5 @@ Revision 1.16  2013/08/30 20:10:16  revo
 Joop Eggen: +trd bg
 
 Revision 1.15  2010/05/07 16:30:38  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.14  2010/02/21 17:30:51  revo
-Russ Williams: +trd en
-
-Revision 1.13  2009/08/28 16:32:16  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.12  2007/06/22 17:25:10  revo
 -->
 </vortaro>

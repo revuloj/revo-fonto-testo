@@ -1,18 +1,48 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: ronk.xml,v 1.22 2023/09/08 21:21:52 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ronk</rad>/i
 </kap>
+
+<drv mrk="ronk.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="ronk.0.SON">
+    <dif>
+      Bruo de forta, embarasata spirado:
+      <ekz>
+        &leftquot;<tld/>, <tld/>&rightquot; ronkis Sinjorino Urso, &leftquot;<tld/>, <tld/>, <tld/>&rightquot;
+        &leftquot;Ho, ne!&rightquot; diris Sinjoro Urso, &leftquot;mi ne povas toleri tion.&rightquot;
+        <fnt>
+           <aut>J. Murphy, trad. Nikola kaj Martin Markarian</aut>
+          <vrk><url ref="http://www.phys.ens.fr/~jacobsen/infanlibroj/Ursoj.pdf">
+          Paco .. finfine</url></vrk>
+          <lok>[vidita en 2023]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">ron<klr> (ronflement)</klr></trd>
+</drv>
+
 <drv mrk="ronk.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
-  <snc>
+  <snc mrk="ronk.0i.FIZL">
     <dif>
-      Eligi bruon spirante dum la dormo.
+      Eligi bruon <ref tip="vid" cel="spir.0i.FIZL">spirante</ref> dum la dormo:
+      <ekz>
+        Ili <tld/>is, dormege tiel, ke, sen veko, |
+        Kun lanternoj eniris da homoj kelkdeko
+        <fnt>
+          <aut>A. Mickiewicz, trad. A. Grabowski</aut>
+          <vrk>Sinjoro Tadeo</vrk>
+          <lok>1918</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="be">&c_h;&c_r;&c_a;&c_p;&c_c;&c_ib;</trd>
     <trdgrp lng="ca">
@@ -24,18 +54,28 @@
     <trdgrp lng="es">
       <trd>roncar</trd>
     </trdgrp>
-    <trd lng="hu">horkol</trd>    
+    <trd lng="hu">horkol</trd>
     <trd lng="nl">snurken</trd>
+    <trd lng="pl">chrapa&cacute;</trd>
     <trd lng="pt">roncar</trd>
+    <trd lng="ro">sfor&abreve;i</trd>
     <trd lng="ru">&c_h;&c_r;&c_a;&c_p;&c_je;&c_t;&c_mol;</trd>
     <trd lng="sv">snarka</trd>
   </snc>
-  <snc>
+  <snc mrk="ronk.0i.SON">
     <dif>
       Eligi bruon similantan al <tld/>ado;
-      <ref tip="sin" cel="grunt.0i">grunti</ref>:
+      <ref tip="vid" cel="grunt.0i">grunti</ref>:
       <ekz>
-        li <tld/>is kiel porko, kiel kolera leonido<fnt>B</fnt>.
+        li <tld/>is kiel porko, kiel kolera leonido<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        atentu, ke la muloj ne <tld/>u!
+        <fnt>
+          <aut>H. Sienkiewicz, trad. Lidja Zamenhof</aut>
+          <vrk>Quo Vadis</vrk>
+          <lok>1933</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -61,6 +101,8 @@
       <trd>knorren</trd>,
       <trd>grommen</trd>
     </trdgrp>
+    <trd lng="pl">chrapa&cacute;</trd>
+    <trd lng="ro">sfor&abreve;i</trd>
     <trdgrp lng="ru">
       <trd>&c_h;&c_r;&c_ju;&c_k;&c_a;&c_t;&c_mol;</trd>,
       <trd>&c_f;&c_y;&c_r;&c_k;&c_a;&c_t;&c_mol;</trd>,
@@ -73,15 +115,33 @@
     <trd>frkat <klr>(k&uring;&ncaron;)</klr></trd>
   </trdgrp>
   <trd lng="de">schnarchen</trd>
-  <trd lng="fr">ronfler</trd>
+  <trdgrp lng="fr">
+    <trd>ren&acirc;cler</trd>,
+    <trd>ronfler</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#12356;&#12403;&#x304D;&#12434;&#x304B;&#x304F;</trd>,
+    <trd>&#12372;&#12358;&#12372;&#12358;&#12358;&#x306A;&#x308B;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>chrochta&tcaron;</trd>,
     <trd>chr&aacute;pa&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_r;&#x43E;&#x43F;&c_t;&c_i;</trd>,
+    <trd>&c_h;&c_r;&#x44E;&#x43A;&c_a;&c_t;&c_i; (&#x43F;&c_r;&#x43E; &c_s;&c_v;&c_i;&#x43D;&#x44E;)</trd>,
+    <trd>&c_f;&c_i;&c_r;&#x43A;&c_a;&c_t;&c_i; (&#x43F;&c_r;&#x43E; &#x43A;&#x43E;&#x43D;&#x44F;)</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/09/08 21:21:52
+Jeromo Vasxe: + ~. + kk ekz
+
+versio 1.20 2023/01/14 14:26:10
+Vito Redsky: +trd pl + trd ro
+
 Revision 1.17  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -98,8 +158,5 @@ Revision 1.13  2004/09/14 16:31:18  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.12  2004/05/25 16:34:31  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11  2002/01/31 17:32:19  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: haloge.xml,v 1.15 2009/08/28 16:32:44 revo Exp $">
+<art mrk="$Id: haloge.xml,v 1.23 2023/08/31 15:46:13 revo Exp $">
 <kap>
   <rad>halogen</rad>/o
 </kap>
@@ -24,7 +23,7 @@
       &leftquot;salnaskanto&rightquot;)</klr>:
       <ekz>
         la <tld/>a familio konsistas el la elementoj de la 
-        kolumno 17 (VIIB) en la perioda tabelo <klr>[&#8230;]</klr>, en 1811,
+        kolumno 17 (VIIB) en la perioda tabelo <klr>[&#x2026;]</klr>, en 1811,
         la germana fizikisto <nom>Johann Schweigger</nom> (1779-1857) eltrovis, ke 
         kloro, la unua <tld/>o malkovrita, kuni&gcirc;as rekte kun metalo 
         por formi salon, kaj li elpensis la vorton &leftquot;halogeno&rightquot; 
@@ -53,6 +52,7 @@
   </trdgrp>
   <trd lng="id">halogen</trd>
   <trd lng="it">alogeno</trd>
+  <trd lng="ja">&#x30CF;&#x30ED;&#x30B2;&#x30F3;</trd>
   <trd lng="nl">halogeen</trd>
   <trd lng="pl">halogenek</trd>
   <trd lng="pt">halog&ecirc;nio</trd>
@@ -61,6 +61,10 @@
     <trd>&c_g;&c_a;&c_l;&c_o;&c_i;&c_d;</trd>
   </trdgrp>
   <trd lng="sk">halog&eacute;n</trd>
+  <trdgrp lng="uk">
+    <trd>&#x433;&#x430;&#x43B;&#x43E;&#x433;&#x435;&#x43D;</trd>,
+    <trd>&#x433;&#x430;&#x43B;&#x43E;&#x457;&#x434;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

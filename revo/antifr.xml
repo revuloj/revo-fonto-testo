@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: antifr.xml,v 1.10 2010/05/15 16:30:48 revo Exp $">
+<art mrk="$Id: antifr.xml,v 1.18 2023/08/30 18:23:35 revo Exp $">
 <kap>
   <rad>antifraz</rad>/o
 </kap>
@@ -10,26 +9,69 @@
   <kap><tld/>o</kap>
   <uzo tip="fak">BELE</uzo>
   <uzo tip="fak">LIN</uzo>
-  <snc>
+  <snc mrk="antifr.0o.stilfiguro">
     <dif>
       <ref tip="super" cel="figur.stil0o">Stilfiguro</ref>
       per kiu oni ironie uzas vorton a&ubreve; esprimon
-      en senco kontra&ubreve;a al &gcirc;ia normala signifo.
+      en senco kontra&ubreve;a al &gcirc;ia normala signifo:
+      <ekz>
+        <tld/>o estas ironia a&ubreve; e&ccirc; sarkasma <ref cel="euxfem.0o">e&ubreve;femismo</ref>
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;tradukisto, perfidisto&rightquot;: la bone konata itala diro esprimas per <tld/>o la
+        utopian ideon de traduka&jcirc;o kiel perfekta duobla&jcirc;o de originalo
+        <fnt>
+          <bib>MD14</bib>
+          <vrk>Literaturo &dash; Traduki &Scirc;ekspiron</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nomata <tld/>e &leftquot;simpligita traktato&rightquot; <klr>[&#x2026;]</klr> la nova teksto
+        <klr>[&#x2026;]</klr> enhavas ne malpli ol ducent kvindek ses pa&gcirc;ojn kun preska&ubreve;
+        tricent modifoj
+        <fnt>
+          <bib>MD05</bib>
+          <vrk>En Lisbono, en la Dorso de la Popoloj</vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_f;&c_r;&c_a;&c_z;&c_y;&c_s;</trd>
   <trd lng="ca">ant&iacute;frasi</trd>
-  <trd lng="cs">antifráze</trd>
+  <trd lng="cs">antifr&aacute;ze</trd>
   <trd lng="de">Antiphrase</trd>
   <trd lng="en">antiphrase</trd>
   <trd lng="es">ant&iacute;frasis</trd>
   <trd lng="fa">&a_b;&f_y;&a_A;&a_n; &a_m;&a_ayn;&f_k;&a_w;&a_s;</trd>
   <trd lng="fr">antiphrase</trd>
   <trd lng="hu">antifr&aacute;zis</trd>
-  <trd lng="sk">úmyselné použitie slova alebo výrazu v opačnom význame</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A9E;&#x610F;&#x306E;&#x53CD;&#x7528;  [<ind>&#x3054;&#x3044;&#x306E;&#x306F;&#x3093;&#x3088;&#x3046;</ind>]</trd>,
+    <trd>&#x53CD;&#x8A9E;  [<ind>&#x306F;&#x3093;&#x3054;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">antyfraza</trd>
+  <trd lng="ro">antifraza</trd>
+  <trd lng="sk">&uacute;myseln&eacute; pou&zcaron;itie slova alebo v&yacute;razu v opa&ccaron;nom v&yacute;zname</trd>
+  <trd lng="uk">&c_a;&#x43D;&c_t;&c_i;&c_f;&c_r;&c_a;&c_z;&c_i;&c_s;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.17 2023/05/14 19:21:02
+Dmitri Gabinski: kor de trd be
+
+versio 1.16 2023/01/31 16:38:33
+Vito Redsky: +trd pl + trd ro
+
+versio 1.15 2023/01/06 08:33:28
+Dmitri Gabinski: + trd be
+
+versio 1.13 2021/05/25 17:51:14
+Wolfram Diestel: ekz-oj
+
 Revision 1.11  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -40,19 +82,5 @@ Revision 1.9  2005/04/04 16:36:32  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.8  2003/02/27 17:31:03  revo
-Ulrich Fellmann: + 1 trd = de
-
-Revision 1.7  2002/10/08 17:58:11  revo
-Christopher Zervic: + ang
-
-Revision 1.6  2002/08/21 17:32:03  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.5  2002/05/20 16:34:55  revo
-Jeromo Vasxe: + fak bele lin, + tez
-
-Revision 1.4 2000/09/24 16:11:05 revo
-Marc Bavant: aldono de franca traduko
-
 -->
 </vortaro>

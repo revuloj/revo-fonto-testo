@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: psikia.xml,v 1.21 2023/09/03 12:45:13 revo Exp $">
 <kap>
-  <rad>psikiatr</rad>/o <fnt><bib>PIV1</bib></fnt>
+  <rad>psikiatr</rad>/o <fnt><bib>PIV1</bib></fnt>,
+  <var><kap><rad var="&hcirc;">psi&hcirc;iatr</rad>/o</kap></var>
 </kap>
 <drv mrk="psikia.0o">
-  <kap><tld/>o</kap>
+  <kap><tld/>o,
+    <var><kap><tld var="&hcirc;"/>o</kap></var>
+  </kap>
   <snc mrk="psikia.0o.MED">
   <uzo tip="fak">MED</uzo>
   <uzo tip="fak">PSI</uzo>
@@ -17,7 +19,17 @@
       <ekz>
         mi rekomendis al &scirc;i konsulti <tld/>on kaj, &ccirc;agrenite, &scirc;i foriris
         <fnt><aut>Werner Schad</aut>: <vrk>Nenio perfektas</vrk>,
-        <bib>Monato</bib><lok>jaro 2002a, numero 4a, p. 9a</lok></fnt>.
+        <bib>Monato</bib><lok>jaro 2002a, numero 4a, p. 9a</lok></fnt>;
+      </ekz>
+      <ekz>
+        voli trudi la feli&ccirc;on al iu anstata&ubreve; li, la&ubreve; certaj 
+        <tld var="&hcirc;"/>oj estas formo de perverso
+        <fnt>
+          <aut>A.-C. Robert, trad. V. Lutermano</aut>,
+          <vrk><url ref="&Mondediplo;article2479.html">Stumpigitaj
+          parlamentoj</url></vrk>,
+          <lok>Le Monde diplomatique, 2017-04</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -30,21 +42,38 @@
   </trdgrp>
   <trd lng="en">psychiatrist</trd>
   <trd lng="fr">psychiatre</trd>
+  <trd lng="fy">psychiater</trd>
   <trdgrp lng="hu">
     <trd>pszichi&aacute;ter</trd>,
     <trd>idegorvos</trd>
   </trdgrp>
+  <trd lng="ja">&#x7CBE;&#x795E;&#x79D1;&#x533B;  [<ind>&#x305B;&#x3044;&#x3057;&#x3093;&#x304B;&#x3044;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>psychiater</trd>,
     <trd>zenuwarts</trd>
   </trdgrp>
+  <trd lng="pl">psychiatra</trd>
   <trd lng="pt">psiquiatra</trd>
+  <trd lng="ro">psihiatru</trd>
   <trd lng="ru">&c_p;&c_s;&c_i;&c_h;&c_i;&c_a;&c_t;&c_r;</trd>
   <trd lng="sk">psychiater</trd>
+  <trd lng="uk">&#x43F;&c_s;&c_i;&c_h;&c_ib;&c_a;&c_t;&c_r;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2022/07/13 21:31:36
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.19 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.17 2020/09/07 20:10:34
+Wolfram Diestel: +tld-var
+
+versio 1.16 2020/08/04 18:10:30
+Robin van der Vliet: +alternativa termino, +trd
+
 Revision 1.14  2015/06/29 16:40:19  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -55,20 +84,5 @@ Revision 1.12  2010/01/19 17:30:43  revo
 Russ Williams: +trd en
 
 Revision 1.11  2006/04/12 16:31:36  revo
-Tulio Flores: +tr pt
-
-Revision 1.10  2004/08/17 18:10:52  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2003/07/26 08:43:29  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/08/03 18:54:12  revo
-Jeromo Vasxe: + ekz
-
-Revision 1.7 2002/05/13 16:32:12 revo
-Jeromo Vasxe: + tez, + fak psi, + trd fr
-
-Revision 1.6 2001/12/25 17:34:33 revo
 -->
 </vortaro>

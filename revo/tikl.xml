@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tikl.xml,v 1.29 2023/09/04 19:01:52 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tikl</rad>/i
@@ -76,6 +75,11 @@
   <trd lng="es">hacer <ind>cosquillas</ind></trd>
   <trd lng="fr">chatouiller</trd>
   <trd lng="hu">csiklandoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x304F;&#x3059;&#x3050;&#x308B;</trd>,
+    <trd>&#x8EFD;&#x304F;&#x89E6;&#x308C;&#x3066;&#x3080;&#x305A;&#x3080;&#x305A;&#x3055;&#x305B;&#x308B;  [<ind>&#x304B;&#x308B;&#x304F;&#x3075;&#x308C;&#x3066;&#x3080;&#x305A;&#x3080;&#x305A;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x5FEB;&#x304F;&#x523A;&#x6FC0;&#x3059;&#x308B;  [<ind>&#x3053;&#x3053;&#x308D;&#x3088;&#x304F;&#x3057;&#x3052;&#x304D;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kietelen</trd>,
     <trd>kriebelen</trd>
@@ -90,6 +94,7 @@
   </trdgrp>
   <trd lng="ru">&c_shch;&c_je;&c_k;&c_o;&c_t;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">&scaron;tekli&tcaron;</trd>
+  <trd lng="uk">&#x43B;&#x43E;&c_s;&#x43A;&#x43E;&c_t;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="tikl.0a">
@@ -100,12 +105,18 @@
       <ekz>
         de la maro alflugis friska, <tld/>a vento, kiu odoris je salo, fi&scirc;oj kaj algoj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007140.html">de Julian Modest</url></vrk>
-        </fnt>.
+          <aut>Julian Modest</aut>
+            <vrk><url ref="&Monato;/2001/007140.html">Vetiha</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 26</lok>
+          </fnt>.
       </ekz>
     </dif>
-    <trd lng="de">kitzelnd</trd>
+    <trdgrp lng="de">
+      <trd>sanft</trd>,
+      <trd>kitzelnd</trd>,
+      <trd>leicht</trd>
+    </trdgrp>
     <trd lng="hu">csikland&oacute;s</trd>
     <trd lng="nl">kietelend</trd>
     <trdgrp lng="pl">
@@ -150,32 +161,37 @@
         gardu vin bone, &ccirc;ar inter nobeloj tio &ccirc;i estas <tld/>aj aferoj
         <fnt>
           <aut>Moli&egrave;re, trad. L. L. Zamenhof</aut>
-          <vrk><url ref="https://tekstaro.com/pl/prenitutantekston.pl?nomo=georgo-dandin">Georgo Dandin</url></vrk>
+          <vrk><url ref="https://tekstaro.com/pl/prenitutantekston.pl?nomo=georgo-dandin">Georgo
+          Dandin</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         priparoli aktualajn <tld/>ajn aferojn en A&ubreve;strio: pensioj, fremdlaboristoj,
         fidrogoj
         <fnt>
+       <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2000/006885.php">Kiu estas J&ouml;rg Haider?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006885.html">Naziaj kruela&jcirc;oj</url></vrk>
+          <lok>2000/03, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         en usonaj elektokampanjoj &scirc;ajne oni &ccirc;iam bezonas aparte <tld/>ajn temojn, por
         logi elektontojn
         <fnt>
-          <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <lok><url ref="http://steloj.de/esperanto/monato2/007090.html">http://steloj.de/esperanto/monato2/007090.html</url></lok>
-        </fnt>;
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007090.php">Kanajlo-&scirc;tatoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 05</lok>
+          </fnt>;
       </ekz>
       <ekz>
         la lingva demando estas da&ubreve;re tiom <tld/>a afero, ke oni apena&ubreve; povas tu&scirc;i &gcirc;in
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.be/2003/008051.html">Bruselo-Babelo: lingvo-kulturo en E&ubreve;ropa Unio</url></vrk>
+          <vrk><url ref="&Monato;/2003/008051.html">Bruselo-Babelo: lingvo-kulturo en
+          E&ubreve;ropa Unio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -191,7 +207,20 @@
     <trd>lechtiv&yacute;</trd>,
     <trd>o&zcaron;ehav&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304F;&#x3059;&#x3050;&#x3063;&#x305F;&#x3044;</trd>,
+    <trd>&#x3080;&#x305A;&#x3080;&#x305A;&#x3055;&#x305B;&#x308B;</trd>,
+    <trd>&#x5384;&#x4ECB;&#x306A;  [<ind>&#x3084;&#x3063;&#x304B;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x6271;&#x3044;&#x306B;&#x304F;&#x3044;  [<ind>&#x3042;&#x3064;&#x304B;&#x3044;&#x306B;&#x304F;&#x3044;</ind>]</trd>,
+    <trd>&#x5FAE;&#x5999;&#x306A;  [<ind>&#x3073;&#x307F;&#x3087;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">&scaron;tekliv&yacute; <klr>(o veci)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x43E;&c_s;&#x43A;&#x43E;&c_t;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43B;&#x43E;&c_s;&#x43A;&c_ib;&c_t;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43B;&#x43E;&c_s;&#x43A;&#x43E;&c_t;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43B;&#x43E;&c_s;&#x43A;&c_ib;&c_t;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tikl.0igxema">
@@ -206,7 +235,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url ref="https://www.monato.be/2007/009031.php">Kredo kaj angla lingvo</url></vrk>
+          <vrk><url ref="&Monato;/2007/009031.php">Kredo kaj angla lingvo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -225,6 +254,10 @@
   <klr>(aquell qui t&eacute; pessigolles...)</klr></trd>
   <trd lng="fr">chatouilleux</trd>
   <trd lng="hu">csikland&oacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x304F;&#x3059;&#x3050;&#x3063;&#x305F;&#x304C;&#x308A;&#x306E;</trd>,
+    <trd>&#x654F;&#x611F;&#x306A;  [<ind>&#x3073;&#x3093;&#x304B;&#x3093;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kittelorig</trd>,
     <trd>lichtgeraakt</trd>
@@ -234,10 +267,26 @@
   </trdgrp>
   <trd lng="ru">&c_ch;&c_u;&c_v;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
   &c_k; <ind>&c_shch;&c_je;&c_k;&c_o;&c_t;&c_k;&c_je;</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_r;&c_a;&c_z;&#x43B;&c_i;&c_v;&c_i;&c_j; &c_d;&#x43E; &#x43B;&#x43E;&c_s;&#x43A;&#x43E;&c_t;&c_ib;&c_v;</trd>,
+    <trd>&c_r;&c_ib;&c_d;&c_sh;&c_je; &#x43B;&#x43E;&c_s;&#x43A;&#x43E;&c_t;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/05/01 12:44:45
+Paul Peeraerts: Steloj -> monato
+
+versio 1.27 2023/04/25 13:30:29
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.26 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2022/04/07 18:35:46
+Ulrich Fellmann: tikla: + 2 pliaj DE traduk
+
 Revision 1.22  2019/09/27 10:10:21  revo
 Wolfram Diestel: +snc-mrk
 
@@ -248,14 +297,5 @@ Revision 1.20  2015/06/29 16:40:19  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.19  2009/01/05 18:12:54  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.18  2008/08/31 16:30:26  revo
-Carlos Garcia: +ind "es"
-
-Revision 1.17  2008/01/21 17:30:18  revo
-Wieland Pusch: +trd bg
-
-Revision 1.16  2006/02/15 17:34:21  revo
 -->
 </vortaro>

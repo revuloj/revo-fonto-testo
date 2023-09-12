@@ -6,8 +6,9 @@
   <!ENTITY scale_2 "400">
 ]>
 
-<svg version="1.1" 
-  width="10cm" height="10cm" 
+<svg version="1.1"
+  xmlns="http://www.w3.org/2000/svg" 
+  width="400" height="400" 
   viewBox="-130 -&scale; &scale_2; &scale_2;"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   onload="start(evt,&scale;)">
@@ -37,7 +38,7 @@
           return d;
         }
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
+        var svgdoc = evt.target.ownerDocument;
 
         // Desegni la kurbon
         var scale_xy = 60, parm = 1.6;
@@ -179,23 +180,23 @@
     style="stroke-width:2" class="streketita"/>
 
   <circle id="fokuso_1" cx="" cy="" r="4" class="konstrupunkto"/>
-  <text id="fokuso_nomo_1" x="" y="" class="punkto">
-    F<tspan baseline-shift="-50%" class="indico">1</tspan>
+  <text id="fokuso_nomo_1" x="" y="" dx="-5" class="punkto">
+    F<tspan dy="5" dx="-2" class="indico">1</tspan>
   </text>
   <circle id="fokuso_2" cx="" cy="" r="4" class="konstrupunkto"/>
   <text id="fokuso_nomo_2" x="" y="" class="punkto">
-    F<tspan baseline-shift="-50%" class="indico">2</tspan>
+    F<tspan dy="5" dx="-2" class="indico">2</tspan>
   </text>
 
   <line id="direktanto_1" x1="" y1="" x2="" y2="" 
     style="stroke-width:2" class="streketita"/>
   <text id="direktanto_nomo_1" x="" y="" class="nomo">
-    d<tspan baseline-shift="-50%" class="indico">1</tspan>
+    d<tspan dy="5" dx="-2" class="indico">1</tspan>
   </text>
   <line id="direktanto_2" x1="" y1="" x2="" y2="" 
     style="stroke-width:2" class="streketita"/>
   <text id="direktanto_nomo_2" x="" y="" class="nomo">
-    d<tspan baseline-shift="-50%" class="indico">2</tspan>
+    d<tspan dy="5" dx="-2" class="indico">2</tspan>
   </text>
   <text id="projekciaĵo_nomo" x="" y="" class="punkto">D</text>
   <line id="strekoprojekciaĵo" x1="" y1="" x2="" y2="" 
@@ -209,24 +210,24 @@
     Klarigo
   -->
 
-  <rect x="+48" y="-198" width="180" height="90" class="klarigo"/>
+  <rect x="+48" y="-198" width="205" height="90" class="klarigo"/>
 
   <text x="+50" y="-180" class="klarigo">
-    F<tspan baseline-shift="-50%" class="indico">1</tspan>,
-    F<tspan baseline-shift="-50%" class="indico">2</tspan> : fokusoj 
+    F<tspan dy="5" dx="-2" class="indico">1</tspan><tspan dy="-5" dx="2">,</tspan>
+    F<tspan dy="5" dx="-2" class="indico">2</tspan><tspan dy="-5" dx="2">: fokusoj </tspan>
   </text>
   <text x="+50" y="-160" class="klarigo">
-    d<tspan baseline-shift="-50%" class="indico">1</tspan>,
-    d<tspan baseline-shift="-50%" class="indico">2</tspan> : direktantoj 
+    d<tspan dy="5" dx="-2" class="indico">1</tspan><tspan dy="-5" dx="2">,</tspan>
+    d<tspan dy="5" dx="-2" class="indico">2</tspan><tspan dy="-5" dx="2">: direktantoj </tspan>
   </text>
 
-  <text x="+50" y="-140" class="klarigo">
-    |MF<tspan baseline-shift="-50%" class="indico">1</tspan> - 
-    MF<tspan baseline-shift="-50%" class="indico">2</tspan>| = konstanto 
+  <text x="+48" y="-140" class="klarigo">
+    &#x2502;MF<tspan dy="5" dx="-2" class="indico">1</tspan
+    ><tspan dy="-5" dx="2">-MF</tspan><tspan dy="5" dx="-2" class="indico">2</tspan><tspan dy="-5" dx="2">&#x2502; = konstanto </tspan>
   </text>
   <text x="+50" y="-120" class="klarigo">
-    MF<tspan baseline-shift="-50%" class="indico">1</tspan> / MD =
-    discentreco
+    MF<tspan dy="5" dx="-2" class="indico">1</tspan><tspan dy="-5" dx="2">/MD =
+    discentreco</tspan>
   </text>
 
 </svg>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: elefan1.xml,v 1.9 2009/06/21 16:30:59 revo Exp $">
+<art mrk="$Id: elefan1.xml,v 1.17 2023/08/31 11:49:28 revo Exp $">
 <kap>
   <rad>elefantiaz</rad>/o
 </kap>
@@ -15,11 +14,10 @@
       kiu igas la ha&ubreve;ton raspece malglata simile al tiu de elefanto
       kaj kiu kelkfoje ka&ubreve;zas &scirc;velon de la &ccirc;ela histo:
       <ekz>
-        <nom>Fabiano de Cristo</nom> <klr>[&#8230;]</klr> suferis erizipelon kaj <tld/>on
+        <nom>Fabiano de Cristo</nom> <klr>[&#x2026;]</klr> suferis erizipelon kaj <tld/>on
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=33156"
-              >Fabiano de Cristo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=33156">Fabiano de Cristo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -36,12 +34,17 @@
   <trd>elefantiasis</trd>,
   <trd><ind>kaki</ind> gajah</trd>
 </trdgrp>
+  <trd lng="ja">&#x8C61;&#x76AE;&#x75C5;  [<ind>&#x305E;&#x3046;&#x3072;&#x3073;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="pt">elefant&iacute;ase</trd>
   <trdgrp lng="ru">
   <trd>&c_e;&c_l;&c_je;&c_f;&c_a;&c_n;&c_t;&c_i;&c_a;&c_z;&c_i;&c_s;</trd>,
   <trd>&c_s;&c_l;&c_o;&c_n;&c_o;&c_v;&c_a;&c_ja; &c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_mol;</trd>
 </trdgrp>
   <trd lng="sk">elefanti&aacute;za</trd>
+  <trdgrp lng="uk">
+    <trd>&#x435;&#x43B;&#x435;&#x444;&#x430;&#x43D;&#x442;&#x456;&#x430;&#x437;</trd>,
+    <trd>&#x441;&#x43B;&#x43E;&#x43D;&#x43E;&#x432;&#x430; &#x445;&#x432;&#x43E;&#x440;&#x43E;&#x431;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

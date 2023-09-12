@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: inklin.xml,v 1.27 2020/02/15 00:10:37 revo Exp $">
+<art mrk="$Id: inklin.xml,v 1.42 2023/09/03 18:27:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>inklin</rad>/a <fnt><bib>PV</bib></fnt>
@@ -11,16 +10,58 @@
   <kap><ofc>*</ofc><tld/>a</kap>
   <snc mrk="inklin.0a.PSI">
     <dif>
-      Da&ubreve;re a&ubreve; neda&ubreve;re impulsata al io de natura
-      movo de la animo:
+      Modere volanta kaj anime <ref cel="pret.0a">preta</ref>, altirata al io:
       <ekz>
-        <tld/>a al virto, por studo, al obeo, al kontra&ubreve;diro, por
-        matematiko;
+        mi ne mirus, se vi komencus disrompi spegulojn kaj vitrojn de fenestroj
+        <klr>[&#8230;]</klr> &mdash; mi estus sufi&ccirc;e <tld/>a por tio &ccirc;i
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        mi estas <tld/>a akcepti vian proponon ne fari tion<fnt>Z</fnt>.
+        e&ccirc; la plej bona homo ne povas esti en &ccirc;iu momento <klr>[&#8230;]</klr> <tld/>a por
+        plenumado de bonaj faroj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi estas <tld/>a atenti mian konsilon
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        <nom>Hamadan</nom> estis <klr>[&#8230;]</klr> pli <tld/>a sekvi aliajn ol konduki mem
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a al la belaj kaj noblaj aferoj
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Tria &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter la a&ubreve;skultantoj trovi&gcirc;as personoj pli a&ubreve; malpli <tld/>aj al la oratoro
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="em.0a">ema</ref>
+    <refgrp tip="vid">
+      <ref cel="favor.0a.helpema">favora</ref>,
+      <ref cel="vol.liber0a">libervola</ref>,
+      <ref cel="prefer.0e">prefere</ref>,
+      <ref cel="volont.0e">volonte</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>inklina&ccaron;n&iacute;</trd>,
@@ -30,7 +71,11 @@
     <trd>geneigt</trd>,
     <trd>hingezogen sein <klr tip="ind">(zu etwas)</klr></trd>
   </trdgrp>
-  <trd lng="en">inclined</trd>
+  <trdgrp lng="en">
+    <trd>inclined</trd>,
+    <trd>amenable</trd>,
+    <trd>disposed</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>inclinado</trd>,
     <trd>propenso a</trd>
@@ -45,6 +90,11 @@
     <trd>hajlamos</trd>,
     <trd>hajland&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x50BE;&#21521;&#x306E;&#12354;&#x308B;  [<ind>&#12369;&#12356;&#12371;&#12358;&#x306E;&#12354;&#x308B;</ind>]</trd>,
+    <trd>&#x5FC3;&#x306E;&#x50BE;&#12356;&#x305F; 
+    [<ind>&#12371;&#12371;&#x308D;&#x306E;&#x304B;&#x305F;&#12416;&#12356;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">geneigd</trd>
   <trdgrp lng="pl">
       <trd>z <ind>zami&lstroke;owaniem</ind></trd>,
@@ -53,11 +103,12 @@
       <trd>sk&lstroke;onny</trd>
     </trdgrp>
   <trdgrp lng="pt">
-   <trd>inclinado<klr tip="amb"> (f)</klr></trd>, 
-   <trd>propenso</trd> 
+   <trd>inclinado<klr tip="amb"> (f)</klr></trd>,
+   <trd>propenso</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_k;&c_l;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">n&aacute;chyln&yacute;</trd>
+  <trd lng="uk">&c_s;&c_h;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="inklin.0i">
@@ -67,15 +118,58 @@
     <dif>
       Esti <tld/>a, havi, senti <tld/>on al:
       <ekz>
-        mi <tld/>as akcepti;
+        &ccirc;iam pli mi <tld/>as al virtuloj
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XLV</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        oni tro <tld/>as forgesi;
+        ekzistas anka&ubreve; oratoroj, kiuj, &ccirc;u pro eksciti&gcirc;o &ccirc;u pro alia ka&ubreve;zo, <tld/>as
+        paroli per la plej altaj tonoj de sia vo&ccirc;o
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        mi <tld/>as al la opinio, ke...
+        ekzistas du profesioj, al kiuj angla homo jam denaske <tld/>as: la navigado kaj
+        la teksindustrio
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sesa &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la funda idealismo ne tiel komplete forputris, kiel li mem <tld/>us pensi
+        <fnt>
+          <bib>ChV</bib>
+          <lok>12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la franca junularo malmulte <tld/>is lerni la internacilingvon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vulkankratero <tld/>as al &scirc;topi&gcirc;o, esti&gcirc;as premo, kiu fine ka&ubreve;zas pli a&ubreve; malpli
+        spektaklan eksplodon
+       <fnt><aut>Evgeni Georgiev</aut>:
+          <vrk><url ref="&Monato;/2001/007234.html">Vulkanoj</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/02, p. 22</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="em.0i">emi</ref>
+    <refgrp tip="vid">
+      <ref cel="vol.bon0i">bonvoli</ref>,
+      <ref cel="favor.0i">favori</ref>,
+      <ref cel="prefer.0i">preferi</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>lnout k n&ecaron;komu</trd>,
@@ -84,15 +178,18 @@
     <trd>t&iacute;hnout k n&ecaron;komu</trd>
   </trdgrp>
   <trd lng="de">neigen<klr tip="ind"> zu</klr></trd>
-  <trd lng="en">be inclined</trd>
+  <trdgrp lng="en">
+    <trd>be inclined</trd>,
+    <trd>be disposed</trd>,
+    <trd>be amenable</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&ecirc;tre <ind>dispos&eacute;</ind> (&agrave;)<klr tip="ind">
     (enclin)</klr></trd>,
     <trd>&ecirc;tre <ind>enclin</ind> (&agrave;)</trd>,
     <trd>&ecirc;tre <ind>port&eacute;</ind> (&agrave;)<klr tip="ind">
     (enclin)</klr></trd>,
-    <trd>&ecirc;tre <ind>pr&eacute;dispos&eacute;</ind> (&agrave;)<klr
-    tip="ind">
+    <trd>&ecirc;tre <ind>pr&eacute;dispos&eacute;</ind> (&agrave;)<klr tip="ind">
     (enclin)</klr></trd>,
     <trd>incliner (&agrave;)<klr tip="ind"> (intr.)</klr></trd>,
     <trd>pencher (pour)<klr tip="ind"> (&ecirc;tre enclin)</klr></trd>
@@ -100,6 +197,13 @@
   <trdgrp lng="hu">
     <trd>hajlik <klr tip="amb">(vmire)</klr></trd>,
     <trd>hajland&oacute; <klr tip="amb">(vmire)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#x306E;&#x50BE;&#21521;&#x304C;&#12354;&#x308B; 
+    [&#xFF5E;<ind>&#x306E;&#12369;&#12356;&#12371;&#12358;&#x304C;&#12354;&#x308B;</ind>]</trd>,
+    <trd>&#x597D;&#12416;  [<ind>&#12371;&#x306E;&#12416;</ind>]</trd>,
+    <trd>&#xFF5E;&#12377;&#x308B;&#x6C17;&#x306B;&#x306A;&#12387;&#12390;&#12356;&#x308B; 
+    [&#xFF5E;<ind>&#12377;&#x308B;&#x304D;&#x306B;&#x306A;&#12387;&#12390;&#12356;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">neigen</trd>
   <trdgrp lng="pl">
@@ -109,8 +213,8 @@
     <trd>mie&cacute; <ind>&zdot;y&lstroke;k&eogonek;</ind></trd>
   </trdgrp>
   <trdgrp lng="pt">
-   <trd>ser <ind>inclinado</ind><klr tip="amb"> (f)</klr></trd>, 
-   <trd>ser <ind>propenso</ind></trd> 
+   <trd>ser <ind>inclinado</ind><klr tip="amb"> (f)</klr></trd>,
+   <trd>ser <ind>propenso</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_b;&c_y;&c_t;&c_mol;
   &c_s;&c_k;&c_l;&c_o;&c_n;&c_n;&c_y;&c_m; <klr>(&c_k;
@@ -119,31 +223,63 @@
     <trd>ma&tcaron; z&aacute;&lcaron;ubu</trd>,
     <trd>n&aacute;klonnos&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_h;&c_i;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_s;&c_h;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_m;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="inklin.0o">
   <kap><tld/>o</kap>
   <snc mrk="inklin.0o.KOMUNE">
     <dif>
-      Natura da&ubreve;ra a&ubreve; neda&ubreve;ra impulso de la animo
-      al io a&ubreve; iu:
-      <ekz>
-        infana <tld/>o restas &gcirc;is la fino
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
-        li havas <tld/>on al la maldiligenteco;
-      </ekz>
+      Modera volo kaj anima preteco, altiro al io:
       <ekz>
         la popolo havas <tld/>on al malbono
         <fnt><bib>MT</bib><lok>&Eli; 32:22</lok></fnt>;
       </ekz>
       <ekz>
-        deziro kaj <tld/>o ordonon ne obeas
-        <fnt><bib>PrV</bib></fnt>;
+        ni, sentante por vi koran <tld/>on, volonte tiam dividus kun vi
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Tesalonikanoj 2:8</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        havi la <tld/>on entuziasmi&gcirc;i<fnt>Z</fnt>;
+        mi certe havas la <tld/>on frenezi&gcirc;i!
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        terura estas via <tld/>o al la milito
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi neniam sentis <tld/>on sidi&gcirc;i sur randon de puto
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>La ora birdo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la idilia pa&scirc;tistino havas <klr>[&#8230;]</klr> magnetan <tld/>on al la monujo de sia
+        pa&scirc;tisto
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi sentas en mia koro <tld/>on por vi
+        <fnt>
+          <bib>GDn</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
       </ekz>
       <ekz>
         kiam mi zorge sondas <klr>[mian koron]</klr> mi apena&ubreve;
@@ -152,21 +288,26 @@
         <fnt><bib>Revadoj</bib>, <lok>Unua promenado</lok></fnt>;
       </ekz>
       <ekz>
-        havi <tld/>on <klr>(kor<tld/>on)</klr> por iu<fnt>Z</fnt>;
+        deziro kaj <tld/>o ordonon ne obeas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        edzi&gcirc;o pro <tld/>o <klr>(pro amo)</klr>.
+        infana <tld/>o restas &gcirc;is la fino
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="em.0o">emo</ref>,
       <ref cel="instin.0o">instinkto</ref>,
       <ref cel="tenden1.0o">tendenco</ref>,
-      <ref cel="volont.0eco">volonteco</ref>.
+      <ref cel="volont.0eco">volonteco</ref>
     </refgrp>
     <trdgrp lng="de">
       <trd>Neigung</trd>,
-      <trd>Hang<klr tip="ind"> (zu etwas)</klr></trd>
+      <trd>Hang<klr tip="ind"> (zu etwas)</klr></trd>,
+      <trd>Veranlagung <klr>(Neigung)</klr></trd>
     </trdgrp>
     <trd lng="en">inclination</trd>
     <trd lng="es">inclinaci&oacute;n</trd>
@@ -191,41 +332,35 @@
       <trd>sk&lstroke;onno&sacute;&cacute;</trd>
     </trdgrp>
     <trdgrp lng="pt">
-     <trd>inclina&ccedil;&atilde;o<klr tip="amb"> (f)</klr></trd>, 
-     <trd>propens&atilde;o</trd> 
+     <trd>inclina&ccedil;&atilde;o<klr tip="amb"> (f)</klr></trd>,
+     <trd>propens&atilde;o</trd>
     </trdgrp>
-    <trd
-    lng="ru">&c_s;&c_k;&c_l;&c_o;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    <trd lng="ru">&c_s;&c_k;&c_l;&c_o;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="inklin.0o.MAT">
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>EKV</bib><lok>&para;174</lok></fnt>
     <dif>
       <klr>(de <ref cel="rekt.0o.MAT">rekto</ref>, rilate tian
-      ortan ununorman koordinatsistemon <frm am="(O,bb i, bb j)"
-      >(O, <g>i</g>, <g>j</g>)</frm>,
+      ortan ununorman koordinatsistemon <frm am="(O,bb i, bb j)">(O, <g>i</g>, <g>j</g>)</frm>,
       ke <frm am="bb j"><g>j</g></frm> ne direktas la rekton)</klr>
       La konstanta <ref cel="rilat.0o.kvociento">rilato</ref> de la
       diferenco de <ref cel="ordina1.0o">ordinatoj</ref> de du punktoj
       de la rekto
       al la diferenco de iliaj <ref cel="abscis.0o">abscisoj</ref>;
       simb.
-      <frm am="a=(y_2-y_1) // (x_2-x_1)"
-      > <k>a</k> = (<k>y</k><sub>2</sub>-<k>y</k><sub>1</sub>) /
+      <frm am="a=(y_2-y_1) // (x_2-x_1)"> <k>a</k> = (<k>y</k><sub>2</sub>-<k>y</k><sub>1</sub>) /
       (<k>x</k><sub>2</sub>-<k>x</k><sub>1</sub>)</frm>:
       <ekz>
-        la kartezia ekvacio de rekto kun <tld/>o <frm
-        am="a"><k>a</k></frm>
-        estas
-        de la tipo <frm am="y=ax+b"><k>y</k> = <k>ax</k>+<k>b</k></frm>;
+        la kartezia ekvacio de rekto kun <tld/>o <frm am="a"><k>a</k></frm>
+        estas de la tipo <frm am="y=ax+b"><k>y</k> = <k>ax</k>+<k>b</k></frm>;
       </ekz>
       <ekz>
         la <tld/>o egalas al la <ref cel="tangen.0o">tangento</ref> de
-        la
-        angulo inter la abscisa akso kaj la koncerna rekto.
+        la angulo inter la abscisa akso kaj la koncerna rekto.
       </ekz>
     </dif>
-    <ref tip="sin" cel="koefic.angula0o">angula koeficiento.</ref>
+    <ref tip="sin" cel="koefic.angula0o">angula koeficiento</ref>
     <trd lng="cs">sm&ecaron;rnice</trd>
     <trdgrp lng="de">
       <trd>Steigung</trd>,
@@ -240,8 +375,7 @@
       <trd>coefficient directeur</trd>
     </trdgrp>
     <trdgrp lng="hu">
-      <trd>elhajl&aacute;s <klr
-      tip="amb">(egyenest&odblac;l)</klr></trd>,
+      <trd>elhajl&aacute;s <klr tip="amb">(egyenest&odblac;l)</klr></trd>,
       <trd>inklin&aacute;ci&oacute;</trd>
     </trdgrp>
     <trd lng="pl">wsp&oacute;&lstroke;czynnik kierunkowy</trd>
@@ -253,13 +387,26 @@
       <ind>&c_k;&c_o;&c_e;&c_f;&c_f;&c_i;&c_c;&c_i;&c_je;&c_n;&c_t;</ind></trd>
     </trdgrp>
   </snc>
+  <trd lng="bo">&t_ga;&t_shabchu;&t_ga;&t_tsheg;&amp;t_-a;&t_kha;&t_yata;&t_naro;&t_ga;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>inklinace</trd>,
     <trd>n&aacute;chylnost</trd>,
     <trd>sklon</trd>,
     <trd>z&aacute;liba</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>tendency</trd>,
+    <trd>penchance</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x50BE;&#21521;  [<ind>&#12369;&#12356;&#12371;&#12358;</ind>]</trd>,
+    <trd>&#24615;&#21521;  [<ind>&#x305B;&#12356;&#12371;&#12358;</ind>]</trd>,
+    <trd>&#24615;&#30294;  [<ind>&#x305B;&#12356;&#12408;&#x304D;</ind>]</trd>,
+    <trd>&#x597D;&#x307F;  [<ind>&#12372;&#x306E;&#x307F;</ind>]</trd>,
+    <trd>&#x610F;&#21521;  [<ind>&#12356;&#12371;&#12358;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">n&aacute;chylnos&tcaron;</trd>
+  <trd lng="uk">&c_s;&c_h;&c_i;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
 </drv>
 
 <drv mrk="inklin.0igi">
@@ -269,22 +416,39 @@
     <dif>
       Igi <tld/>a:
       <ekz>
-        tio, anstata&ubreve; <tld/>igi <klr>(favorigi)</klr> ilin al nia
-        afero,
-        ankora&ubreve; pli ilin malproksimigas de ni<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        sincera pento <tld/>igas la mastron al pardono;
-      </ekz>
-      <ekz>
-        &ccirc;iuj, kiujn <tld/>igis la koro, alportis <klr>[...]</klr>
-        oran oferdonon al la Eternulo
-        <fnt><bib>MT</bib><lok>&Eli; 35:22</lok></fnt>;
+        &ccirc;iu, kiun <tld/>igis lia spirito, alportis la oferdonon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 35:21</lok>
+        </fnt>;
       </ekz>
       <ekz>
         via orelo atente a&ubreve;skultos sa&gcirc;on
         kaj vian koron vi <tld/>igos al komprenado
-        <fnt><bib>MT</bib><lok>&Sen; 2:2</lok></fnt>.
+        <fnt><bib>MT</bib><lok>&Sen; 2:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        la knabo koncerne akvon estis e&ccirc; tia timemulo, ke estis ne eble <tld/>igi lin
+        preni en somero banon &ccirc;e la marbordo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Sub la saliko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia seka kaj komika maniero <klr>[&#8230;]</klr> <tld/>igis lin esti malkovrita kaj
+        pli parolema
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i komencis <tld/>igi &scirc;in al ripozo, necesa post la sendorme pasigita nokto
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -297,10 +461,13 @@
     <trd>vyvolat z&aacute;jem</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>gewogen machen</trd>,
+    <trd><ind>gewogen</ind> machen</trd>,
     <trd><klr tip="ind">(jmd. f&uuml;r etwas)</klr> gewinnen</trd>
   </trdgrp>
-  <trd lng="en">induce</trd>
+  <trdgrp lng="en">
+    <trd>incline</trd>,
+    <trd>dispose</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>incliner (&agrave;)<klr tip="ind"> (tr.)</klr></trd>,
     <trd>disposer (&agrave;)<klr tip="ind"> (rendre enclin)</klr></trd>,
@@ -313,6 +480,12 @@
     <trd>hajlamos&iacute;t</trd>,
     <trd>hajlamoss&aacute; tesz</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#12375;&#x305F;&#12356;&#x6C17;&#x306B;&#12373;&#x305B;&#x308B; 
+    [&#xFF5E;<ind>&#12375;&#x305F;&#12356;&#x304D;&#x306B;&#12373;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#xFF5E;&#x306E;&#x50BE;&#21521;&#12434;&#x4E0E;&#12360;&#x308B; 
+    [&#xFF5E;<ind>&#x306E;&#12369;&#12356;&#12371;&#12358;&#12434;&#12354;&#x305F;&#12360;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">doen <ind>neigen</ind></trd>
   <trdgrp lng="pl">
     <trd>nak&lstroke;ania&cacute;</trd>,
@@ -323,6 +496,10 @@
   <klr>(&c_k;&c_o;&c_g;&c_o;-&c_l;. &c_k;
   &c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
   <trd lng="sk">vyvola&tcaron; n&aacute;klonnos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_h;&c_i;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_a;&c_h;&c_i;&c_l;&c_ja;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="inklin.0igxi">
@@ -334,14 +511,31 @@
         mi <tld/>i&gcirc;as sekvi vian konsilon;
       </ekz>
       <ekz>
-        ilia koro <tld/>i&gcirc;is al Abimele&hcirc;,
+        ilia koro <tld/>i&gcirc;is al <nom>Abimele&hcirc;</nom>,
         &ccirc;ar ili diris: Li estas nia frato
-        <fnt><bib>MT</bib><lok>&Jug; 9:3</lok></fnt>.
+        <fnt><bib>MT</bib><lok>&Jug; 9:3</lok></fnt>;
+      </ekz>
+      <ekz>
+        la prefero <tld/>i&gcirc;is al la tute nova lingvoprojekto Ido
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. M. A. De Smet</aut>
+          <vrk><url ref="&Monato;/2004/008418.html">Edward Croegaert, la forgesita
+          lingvokreanto</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="de">Gefallen finden</trd>
-  <trd lng="en">become inclined</trd>
+  <trdgrp lng="de">
+    <trd><ind>Gefallen</ind> finden</trd>,
+    <trd>sich <ind>zuneigen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>become inclined</trd>,
+    <trd>become disposed</trd>,
+    <trd>become amenable</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>devenir <ind>enclin</ind> (&agrave;)</trd>,
     <trd>devenir <ind>port&eacute;</ind> (&agrave;)<klr tip="ind">
@@ -353,6 +547,12 @@
   <trdgrp lng="hu">
     <trd>hajlamoss&aacute; v&aacute;lik</trd>,
     <trd>kezd hajlani r&aacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#x306B;&#x5FC3;&#x304C;&#x50BE;&#x304F; 
+    [&#xFF5E;<ind>&#x306B;&#12371;&#12371;&#x308D;&#x304C;&#x304B;&#x305F;&#12416;&#x304F;</ind>]</trd>,
+    <trd>&#xFF5E;&#12375;&#x305F;&#12356;&#x6C17;&#x306B;&#x306A;&#x308B; 
+    [&#xFF5E;<ind>&#12375;&#x305F;&#12356;&#x304D;&#x306B;&#x306A;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">ertoe <ind>overhellen</ind></trd>
   <trdgrp lng="pl">
@@ -374,15 +574,32 @@
     <dif>
       Sentanta naturan movon de la animo forpu&scirc;antan de io:
       <ekz>
-        li estas mal<tld/>a al, kontra&ubreve; &ccirc;iaj oficialaj
-        ceremonioj;
+        <nom>Omar</nom> aspektis malgaja kaj enpensa, kaj videble mal<tld/>a paroli
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        mal<tld/>a por plenumado de tiaj faroj<fnt>Z</fnt>;
+        li estis malinklina malka&scirc;i siajn plej internajn sentojn al iu el ili
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        mi ne estas mal<tld/>a ekscii ion de la misteroj de supera
-        mondo<fnt>Z</fnt>.
+        mal<tld/>a por plenumado de kompatemaj faroj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <klr>[&#8230;]</klr> tute ne estas mal<tld/>a ekscii ion de la misteroj de supera
+        mondo
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Rakonto Pri Spiritoj</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -391,7 +608,12 @@
     </refgrp>
   </snc>
   <trd lng="de">abgeneigt</trd>
-  <trd lng="en">disinclined</trd>
+  <trdgrp lng="en">
+    <trd>disinclined</trd>,
+    <trd>averse</trd>,
+    <trd>loath</trd>,
+    <trd>reluctant</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>non <ind>enclin</ind></trd>,
     <trd>d&eacute;favorable<klr tip="ind"> (non enclin)</klr></trd>,
@@ -404,6 +626,10 @@
     <trd>idegenked&odblac;</trd>,
     <trd>undorod&oacute;</trd>,
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#x5ACC;&#12356;&#x306A;  [&#xFF5E;<ind>&#x304D;&#12425;&#12356;&#x306A;</ind>]</trd>,
+    <trd>&#x51B7;&#x6DE1;&#x306A;  [<ind>&#x308C;&#12356;&#x305F;&#12435;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">afkerig</trd>
   <trdgrp lng="pl">
     <trd>odpychaj&aogonek;cy</trd>,
@@ -411,14 +637,22 @@
     <trd>odstr&eogonek;czaj&aogonek;cy</trd>
   </trdgrp>
   <trdgrp lng="pt">
-   <trd>embirrado</trd>, 
-   <trd>contr&aacute;rio</trd> 
+   <trd>embirrado</trd>,
+   <trd>contr&aacute;rio</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_n;&c_je;&c_s;&c_k;&c_l;&c_o;&c_n;&c_n;&c_y;&c_j; <klr>(&c_k;
     &c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>,
     <trd>&c_ch;&c_u;&c_zh;&c_d;&c_y;&c_j;
     <klr>(&c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_je;&c_o;&c_h;&c_o;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_h;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_h;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_u;&c_p;&c_je;&c_r;&c_je;&c_d;&c_zh;&c_je;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_a;&c_l;&c_je;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_o;&c_r;&c_o;&c_zh;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -431,10 +665,31 @@
       <ekz>
         mi mal<tld/>is prisilenti a&ubreve; vuali ion ajn min
         kulpigantan
-        <fnt><bib>Revadoj</bib><lok>Kvara promenado</lok></fnt>.
+        <fnt><bib>Revadoj</bib><lok>Kvara promenado</lok></fnt>;
+      </ekz>
+      <ekz>
+        kohera, sed fakte mal&gcirc;usta rezona&jcirc;o, kiun homo senkonscie uzas por klarigi al si
+        ion, kion li mal<tld/>as vidi ekzakte
+        <fnt>
+          <bib>ChC</bib>
+          <lok>Glosaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la konservativa burokratio ankora&ubreve; mal<tld/>is komplete frakasi la tutan Movadon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>be disinclined</trd>,
+    <trd>be reluctant</trd>,
+    <trd>be loath</trd>,
+    <trd>be averse</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>r&eacute;pugner<klr tip="ind"> (ne pas
     incliner)</klr></trd>,
@@ -452,14 +707,41 @@
   <kap>mal<tld/>o</kap>
   <snc mrk="inklin.mal0o.PSI">
     <dif>
-      Spontanea malemo, nedeziro:
+      Spontanea <ref tip="sin" cel="em.mal0o">malemo</ref>, nedeziro:
       <ekz>
         mi neniam pli sentis mian naturan mal<tld/>on al
         mensogado, ol dum mi verkis la Konfesojn
-        <fnt><bib>Revadoj</bib>, <lok>Kvara promenado</lok></fnt>.
+        <fnt><bib>Revadoj</bib>, <lok>Kvara promenado</lok></fnt>;
+      </ekz>
+      <ekz>
+        la juvelisto en tiu ridado videble trovis konfirmon de siaj timoj kaj mal<tld/>oj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne povis dubi, ke ekzistas inter <nom>Lemuel</nom> kaj <nom>Zalmuna</nom>
+        reciproka mal<tld/>o, a&ubreve; e&ccirc; efektiva malamikeco
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        konsiderante tamen la rifuzon de <nom>Vinicius</nom> kiel momentan mal<tld/>on
+        <klr>[&#8230;]</klr>, li turnis sin al la sklavino
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>disinclination</trd>,
+    <trd>reluctance</trd>,
+    <trd>aversion</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>aversion</trd>,
     <trd>r&eacute;pugnance</trd>
@@ -468,6 +750,11 @@
     <trd>idegenked&eacute;s</trd>,
     <trd>averzi&oacute;</trd>,
     <trd>undorod&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_je;&c_h;&c_ib;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_h;&c_i;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_p;&c_je;&c_r;&c_je;&c_d;&c_zh;&c_je;&c_n;&c_n;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -486,6 +773,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">have affection towards</trd>
   <trd lng="fr">avoir de l'<ind>affection</ind> pour</trd>
 </drv>
 
@@ -496,8 +784,7 @@
       Ama <tld/>o:
       <ekz>
         tiel same ni, sentante por vi koran <tld/>on, volonte tiam
-        dividus
-        kun vi <klr>[...]</klr> niajn proprajn animojn, &ccirc;ar vi
+        dividus kun vi <klr>[...]</klr> niajn proprajn animojn, &ccirc;ar vi
         fari&gcirc;is por ni tre karaj
         <fnt><bib>NT</bib> <lok>&Te1; 2:8</lok></fnt>;
       </ekz>
@@ -509,17 +796,28 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="bo">&t_ba;&t_yata;&t_ma;&t_sa;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>n&aacute;klonnost</trd>,
     <trd>sympatie</trd>
   </trdgrp>
-  <trd lng="en">fondness</trd>
+  <trd lng="de">Zuneigung</trd>
+  <trdgrp lng="en">
+    <trd>affection</trd>,
+    <trd>fondness</trd>,
+    <trd>affection</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>affection</trd>,
     <trd>penchant<klr tip="ind"> (affection)</klr></trd>,
     <trd>inclination<klr tip="ind"> (affection)</klr></trd>
   </trdgrp>
   <trd lng="hu">vonzalom</trd>
+  <trdgrp lng="ja">
+    <trd>&#x597D;&#x307F;  [<ind>&#12372;&#x306E;&#x307F;</ind>]</trd>,
+    <trd>&#x611B;&#30528;  [<ind>&#12354;&#12356;&#12376;&#12419;&#x304F;</ind>]</trd>,
+    <trd>&#x611B;&#x60C5;  [<ind>&#12354;&#12356;&#12376;&#12423;&#12358;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>inklinacja</trd>,
     <trd>afektacja</trd>,
@@ -551,6 +849,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de"><ind>Zuneigung</ind> gewinnen</trd>
   <trdgrp lng="fr">
     <trd>se prendre d'<ind>affection</ind></trd>,
     <trd>s'<ind>affectionner</ind></trd>
@@ -561,28 +860,28 @@
 </drv>
 </art>
 <!--
-$Log: inklin.xml,v $
-versio 1.27 2020/02/15 00:10:37
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.42 2023/09/03 18:27:37
+Wolfram Diestel: kor. ja ind
 
-Revision 1.26  2018/07/28 20:10:13  revo
-Jeromo Vasxe: + kor~i
+versio 1.40 2023/08/14 20:26:59
+Wolfram Diestel: +trd de
 
-Revision 1.25  2018/06/14 15:10:17  revo
-Dusan Juretic: +trd es
+versio 1.39 2023/04/19 11:24:08
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.24  2017/10/20 20:10:15  revo
-Jeromo Vasxe: memstar. mal~ i/o kor~ igxi
+versio 1.38 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.23  2015/07/04 08:37:36  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.37 2022/03/28 02:41:05
+Noam Mohr: +trd en inklin-
 
-Revision 1.22  2015/06/29 16:33:15  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.34 2022/03/18 15:40:00
+Wolfram Diestel: +trd de
 
-Revision 1.21  2012/10/23 00:11:51  revo
-Neil Roberts: aldonu la etikedon <var>
+versio 1.33 2022/03/17 19:23:33
+Wolfram Diestel: ~igi..mal~o: ekz-oj
 
-Revision 1.20  2009/06/24 16:30:48  revo
+versio 1.32 2022/03/17 18:33:57
 -->
 </vortaro>

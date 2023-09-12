@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: telegr1.xml,v 1.21 2023/09/04 18:15:45 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>telegram</rad>/o
@@ -10,20 +9,52 @@
 <drv mrk="telegr1.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">TEL</uzo>
-  <snc>
+  <snc mrk="telegr1.0o.sciigo">
     <dif>
-      Sciigo sendita per telegrafo:
+      <ref tip="super" cel="sci.0igo">Sciigo</ref> sendita per <ref cel="telegr.0o">telegrafo</ref>:
+      <ekz>
+        jubilea <tld/>o
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a <klr>(<ref cel="lakon.0a">lakona</ref>)</klr>
+        stilo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel fondinto de Esperanto, mi ricevis en tiu tago multajn gratulajn <tld/>ojn
+        kaj leterojn
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        imagu, karaj, kio estus okazinta, se la mondo estus eksciinta tion anstata&ubreve; per
+        <tld/>o nur per normale afrankita letero
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Telegramo</lok>
+        </fnt>!
+      </ekz>
       <ekz>
         servistino-historio, kiu tiom fremdas en la lasta jardeko de la
-        nuna jarcento kiom vaporlokomotivoj a&ubreve; <tld/>oj<fnt><aut>Paul
-        Gubbins</aut>: <vrk>Materialismo kaj &jcirc;aluzo (Geraldo Mattos, La
+        nuna jarcento kiom vaporlokomotivoj a&ubreve; <tld/>oj
+        <fnt><aut>Paul Gubbins</aut>: <vrk>Materialismo kaj &jcirc;aluzo (Geraldo Mattos, La
         servorajto - kaj - La sinmortigo)</vrk>,
         <bib>Monato</bib><lok>jaro 1998a, numero 4a, p. 23a</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="depesx.0o">depe&scirc;o</ref>
+      <ref cel="depesx.0o">depe&scirc;o</ref>,
+      <ref cel="mesagx.0o">mesa&gcirc;o</ref>
     </refgrp>
+    <ref tip="hom" cel="telegr2.0o">Telegramo (tujmesa&gcirc;ilo)</ref>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
   <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
@@ -36,6 +67,7 @@
     <trd>t&eacute;l&eacute;gramme</trd>
   </trdgrp>
   <trd lng="hu">t&aacute;virat</trd>
+  <trd lng="ja">&#x96FB;&#x5831;  [<ind>&#x3067;&#x3093;&#x307D;&#x3046;</ind>]</trd>
   <trd lng="nl">telegram</trd>
   <trd lng="pl">telegram</trd>
   <trdgrp lng="pt">
@@ -43,10 +75,17 @@
   </trdgrp>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;</trd>
   <trd lng="sk">telegram</trd>
+  <trd lng="uk">&#x442;&#x435;&#x43B;&#x435;&#x433;&#x440;&#x430;&#x43C;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2021/06/14 21:27:10
+Wolfram Diestel: ekz-oj, ref-oj
+
 Revision 1.16  2015/06/29 16:40:19  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -63,14 +102,5 @@ Revision 1.12  2004/11/19 17:31:59  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.11  2002/09/18 16:36:41  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.10  2002/07/17 17:33:12  revo
-Jeromo Vasxe: + fak tel, depesxo - sin + vid, + ekz, + trd fr
-
-Revision 1..9 2002/03/04 17:31:35 revo
-Yury Finkel: +trd ru
-
-Revision 1.8 2001/04/30 16:25:03 revo
 -->
 </vortaro>

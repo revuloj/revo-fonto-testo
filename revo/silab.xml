@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: silab.xml,v 1.104 2023/09/03 18:39:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>silab</rad>/o <fnt><bib>PV</bib></fnt>
@@ -51,32 +50,98 @@
       <aut>MB</aut>
     </rim>
   </snc>
+  <trd lng="af">lettergreep</trd>
+  <trd lng="am">&#x1232;&#x120A;&#x1265;&#x120D;</trd>
+  <trd lng="ar">&a_m;&a_q;&a_T;&a_ayn; &a_l;&a_f;&a_Z;&#x64A;</trd>
+  <trd lng="az">heca</trd>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;
   <klr>(&c_s;&c_l;&c_o;&c_v;&c_a;)</klr></trd>
+  <trd lng="bn">&#x9B6;&#x9AC;&#x9CD;&#x9A6;&#x9BE;&#x982;&#x9B6;</trd>
+  <trd lng="bs">slog</trd>
   <trd lng="ca">s&iacute;l&middot;laba</trd>
+  <trd lng="co">sillabba</trd>
   <trdgrp lng="cs">
     <trd>slabika</trd>,
     <trd>sylaba</trd>
   </trdgrp>
+  <trd lng="cy">sillaf</trd>
+  <trd lng="da">stavelse</trd>
   <trd lng="de">Silbe</trd>
   <trd lng="en">syllable</trd>
   <trd lng="es">s&iacute;laba</trd>
+  <trd lng="et">silp</trd>
+  <trd lng="eu">silaba</trd>
   <trd lng="fr">syllabe</trd>
+  <trd lng="fy">wurdlid</trd>
+  <trd lng="ga">siolla</trd>
+  <trd lng="gd">lide</trd>
+  <trd lng="gl">s&#xED;laba</trd>
+  <trd lng="gu">&#xA89;&#xA9A;&#xACD;&#xA9A;&#xABE;&#xAB0;&#xAA3;</trd>
+  <trd lng="hi">&#x936;&#x92C;&#x94D;&#x926;&#x93E;&#x902;&#x936;</trd>
+  <trd lng="hmn">sylla</trd>
+  <trd lng="hr">slog</trd>
+  <trd lng="ht">silab</trd>
   <trd lng="hu">sz&oacute;tag</trd>
+  <trd lng="hy">&#x57E;&#x561;&#x576;&#x56F;</trd>
+  <trd lng="ig">nkeji okwu</trd>
+  <trd lng="is">s&#xE9;rhlj&#xF3;&#xF0;a</trd>
+  <trd lng="ja">&#x97F3;&#x7BC0; [<ind>&#x304A;&#x3093;&#x305B;&#x3064;</ind>]</trd>
+  <trd lng="kk">&c_s;&#x43B;&#x43E;&c_g;</trd>
+  <trd lng="km">&#x1796;&#x17D2;&#x1799;&#x17B6;&#x1784;&#x17D2;&#x1782;</trd>
+  <trd lng="kn">&#xC89;&#xC9A;&#xCCD;&#xC9A;&#xCBE;&#xCB0;&#xC97;&#xCB3;&#xCC1;</trd>
+  <trd lng="ko">&#xC74C;&#xC808;</trd>
+  <trd lng="ku">yekejimariy&#xEA; ye</trd>
+  <trd lng="ky">&#x43C;&c_u;&c_u;&#x43D;</trd>
+  <trd lng="lat">syllabae</trd>
+  <trd lng="lo">&#xEAA;&#xEB9;&#xE87;&#xEAA;&#xEB8;&#xE94;</trd>
+  <trd lng="lt">skiemuo</trd>
+  <trd lng="lv">zilbe</trd>
+  <trd lng="mg">vanin</trd>
+  <trd lng="mi">hauk&#x16B;oro</trd>
+  <trd lng="mk">&c_s;&#x43B;&#x43E;&c_g;</trd>
+  <trd lng="ml">&#xD05;&#xD15;&#xD4D;&#xD37;&#xD30;&#xD19;&#xD4D;&#xD19;&#xD7E;</trd>
+  <trd lng="mn">&#x4AF;&c_je;&c_t;</trd>
+  <trd lng="mr">&#x905;&#x915;&#x94D;&#x937;&#x930;</trd>
+  <trd lng="ms">suku kata</trd>
+  <trd lng="mt">sillaba</trd>
+  <trd lng="ne">&#x936;&#x92C;&#x94D;&#x926;&#x93E;&#x902;&#x936;</trd>
   <trd lng="nl">lettergreep</trd>
+  <trd lng="pa">&#xA3F;&#xA38;&#xA39;&#xA3E;&#xA30;&#xA40;</trd>
   <trdgrp lng="pl">
     <trd>sylaba</trd>,
     <trd>zg&lstroke;oska</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_l;&c_o;&c_g;</trd>
+  <trd lng="rw">indangantego</trd>
+  <trd lng="sd">&#x67E;&#x62F;&a_n;</trd>
   <trd lng="sk">slabika</trd>
+  <trd lng="sl">zlog</trd>
+  <trd lng="sm">mataitusi</trd>
+  <trd lng="sn">mabhii</trd>
+  <trd lng="so">xarfaha</trd>
+  <trd lng="sq">rrokje</trd>
+  <trd lng="st">senoko sa lentsoe se</trd>
+  <trd lng="su">suku kata</trd>
   <trd lng="sv">stavelse</trd>
+  <trd lng="sw">silabi</trd>
+  <trd lng="ta">&#xB85;&#xB9A;&#xBC8;&#xBAF;&#xBBE;&#xB95;</trd>
+  <trd lng="te">&#xC05;&#xC15;&#xC4D;&#xC37;&#xC30;&#xC02;</trd>
+  <trd lng="th">&#xE1E;&#xE22;&#xE32;&#xE07;&#xE04;&#xE4C;</trd>
+  <trd lng="tl">pantig</trd>
+  <trd lng="tt">&c_b;&c_u;&#x44B;&#x43D;</trd>
+  <trd lng="uk">&c_s;&#x43A;&#x43B;&c_a;&c_d;</trd>
+  <trd lng="ur">&a_sh;&a_b;&#x62F;&a_A;&a_n;&a_sh;</trd>
+  <trd lng="uz">bo&#x2019;g&#x2019;in</trd>
+  <trd lng="vi">&#xE2;m ti&#x1EBF;t</trd>
+  <trd lng="xh">nelungu</trd>
+  <trd lng="yi">&#x5E1;&#x5D9;&#x5DC;&#x5D0;&#x5B7;&#x5D1;&#x5D0;&#x5B7;&#x5DC;</trd>
+  <trd lng="yo">kohun</trd>
+  <trd lng="zu">uhlamvu</trd>
 </drv>
 
 <drv mrk="silab.0i">
   <kap><ofc>*</ofc><tld/>i <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5200">silab'i</url></lok></fnt></kap>
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5200">silab'i</url></lok></fnt></kap>
   <snc mrk="silab.0i.FON">
     <dif>
       Eldiri, disigante la <tld/>ojn:
@@ -92,6 +157,15 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_y;&c_t;&c_a;&c_c;&c_mol; &c_p;&c_a; <ind>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_h;</ind></trd>,
+    <trd>&c_v;&c_y;&c_m;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; &c_p;&c_a; <ind>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_h;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>silbifizieren</trd>,
+    <trd>Silben hervorheben</trd>,
+    <trd>Silben getrennt sprechen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>to articulate</trd>,
     <trd>enunciate syllables</trd>, <trd>to syllable
@@ -102,7 +176,12 @@
     <trd>silabar</trd>
   </trdgrp>
   <trd lng="fr">&eacute;peler</trd>
+  <trdgrp lng="ja">
+    <trd>&#x97F3;&#x7BC0;&#x306B;&#x5206;&#x3051;&#x3066;&#x767A;&#x97F3;&#x3059;&#x308B;  [<ind>&#x304A;&#x3093;&#x305B;&#x3064;&#x306B;&#x308F;&#x3051;&#x3066;&#x306F;&#x3064;&#x304A;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x97F3;&#x7BC0;&#x306B;&#x533A;&#x5207;&#x308B;  [<ind>&#x304A;&#x3093;&#x305B;&#x3064;&#x306B;&#x304F;&#x304E;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">sylabizowa&cacute;</trd>
+  <trd lng="uk">&c_v;&c_i;&#x43C;&#x43E;&c_v;&#x43B;&#x44F;&c_t;&c_i; &#x43F;&#x43E; &c_s;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_h;</trd>
 </drv>
 
 <drv mrk="silab.0aro">
@@ -125,6 +204,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_a;&c_b;&c_l;&c_ib;&c_c;&c_a; <ind>&c_s;&c_k;&c_l;&c_a;&c_d;&c_o;&c_w;</ind></trd>
   <trdgrp lng="cs">
     <trd>tabulka slabik</trd>,
     <trd>u n&ecaron;kter&yacute;ch jazyk&uring;
@@ -136,6 +216,7 @@
   <trd lng="pl">sylabariusz</trd>
   <trd lng="ro">silabar</trd>
   <trd lng="sk">tabu&lcaron;ka slab&iacute;k</trd>
+  <trd lng="uk">&c_t;&c_a;&c_b;&#x43B;&c_i;&c_c;&#x44F; &c_s;&#x43A;&#x43B;&c_a;&c_d;&c_ib;&c_v;</trd>
 </drv>
 
 <drv mrk="silab.0iga">
@@ -146,8 +227,7 @@
       Povanta per si sola formi <tld/>on.
     </dif>
   </snc>
-  <trd
-  lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="ca">que forma s&iacute;l&middot;laba</trd>
   <trdgrp lng="cs">
     <trd>slabikotvorn&yacute;</trd>,
@@ -157,13 +237,20 @@
   <trd lng="de">silbenbildend</trd>
   <trd lng="en">syllabifying</trd>
   <trd lng="fr">formant syllabe</trd>
+  <trdgrp lng="ja">
+    <trd>&#x97F3;&#x7BC0;&#x3092;&#x306A;&#x3059;  [<ind>&#x304A;&#x3093;&#x305B;&#x3064;&#x3092;&#x306A;&#x3059;</ind>]</trd>,
+    <trd>&#x6210;&#x7BC0;&#x306E;  [<ind>&#x306A;&#x305B;&#x3064;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>sylabotw&oacute;rczy</trd>,
     <trd>zg&lstroke;oskotw&oacute;rczy</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_s;&c_l;&c_o;&c_g;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>
+  <trd lng="ru">&c_s;&c_l;&c_o;&c_g;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>
   <trd lng="sk">slabikotvorn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;&#x43E;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;&#x43E;&c_t;&c_v;&#x43E;&c_r;&c_ch;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="silab.0olimo">
@@ -204,8 +291,7 @@
       .
     </rim>
   </snc>
-  <trd lng="be">&c_m;&c_ja;&c_zh;&c_a;
-  <ind>&c_s;&c_k;&c_l;&c_a;&c_d;&c_u;</ind></trd>
+  <trd lng="be">&c_m;&c_ja;&c_zh;&c_a; <ind>&c_s;&c_k;&c_l;&c_a;&c_d;&c_u;</ind></trd>
   <trdgrp lng="ca">
     <trd>l&iacute;mit sil&middot;l&agrave;bic</trd>,
     <trd>tall intersil&middot;l&agrave;bic</trd>
@@ -218,6 +304,7 @@
   <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;
   <ind>&c_s;&c_l;&c_o;&c_g;&c_a;</ind></trd>
   <trd lng="sk">koniec slabiky</trd>
+  <trd lng="uk">&c_s;&#x43A;&#x43B;&c_a;&c_d;&#x43E;&c_v;&c_a; &#x43C;&c_je;&c_zh;&c_a;</trd>
 </drv>
 
 <drv mrk="silab.n0o">
@@ -255,31 +342,27 @@
         <trd lng="ca">octos&iacute;l&middot;lab</trd>
         <trd lng="en">octosyllable</trd>
         <trd lng="fr">octosyllabe</trd>
-        <trd
-        lng="ru">&c_v;&c_o;&c_s;&c_mol;&c_m;&c_i;&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
+        <trd lng="ru">&c_v;&c_o;&c_s;&c_mol;&c_m;&c_i;&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
       </ekz>
       <ekz>
         <ind>dek<tld/>o</ind>,
         <trd lng="ca">decas&iacute;l&middot;lab</trd>
         <trd lng="en">decasyllable</trd>
         <trd lng="fr">d&eacute;casyllabe</trd>
-        <trd
-        lng="ru">&c_d;&c_je;&c_s;&c_ja;&c_t;&c_i;&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
+        <trd lng="ru">&c_d;&c_je;&c_s;&c_ja;&c_t;&c_i;&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
       </ekz>
       <ekz>
         <ind>dekunu<tld/>o</ind>,
         <trd lng="ca">hendecas&iacute;l&middot;lab</trd>
         <trd lng="en">hendecasyllable</trd>
         <trd lng="fr">hend&eacute;casyllabe</trd>
-        <trd
-        lng="ru">&c_o;&c_d;&c_i;&c_n;&c_n;&c_a;&c_d;&c_c;&c_a;&c_t;&c_i;&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
+        <trd lng="ru">&c_o;&c_d;&c_i;&c_n;&c_n;&c_a;&c_d;&c_c;&c_a;&c_t;&c_i;&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
       </ekz>
       <ekz>
         <ind>dekses<tld/>o</ind>...
         <trd lng="ca">octonari</trd>
         <trd lng="fr">hexad&eacute;casyllabe</trd>
-        <trd
-        lng="ru">&c_sh;&c_je;&c_s;&c_t;&c_n;&c_a;&c_d;&c_c;&c_a;&c_t;&c_i;&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
+        <trd lng="ru">&c_sh;&c_je;&c_s;&c_t;&c_n;&c_a;&c_d;&c_c;&c_a;&c_t;&c_i;&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>
       </ekz>
     </dif>
     <rim>
@@ -292,13 +375,24 @@
     <trd lng="en">syllable count in syllabic meter</trd>
     <trd lng="hu">n <ind>sz&oacute;tagos</ind> verssor</trd>
     <trd lng="pl">n-<ind>zg&lstroke;oskowy</ind></trd>
-    <trd
-    lng="ru">n-<ind>&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</ind></trd>
+    <trd lng="ru">n-<ind>&c_s;&c_l;&c_o;&c_zh;&c_n;&c_i;&c_k;</ind></trd>
   </snc>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.103 2023/08/29 12:44:32
+Wolfram Diestel: ja: +prononco
+
+versio 1.102 2023/04/30 15:26:06
+Ulrich Fellmann: silabi: +3 DE trdj
+
+versio 1.101 2023/04/18 09:26:10
+Dmitri Gabinski: + trd be
+
+versio 1.100 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.30  2016/10/25 22:10:15  revo
 Carlos Garcia: +trd ro,es -i -ar
 
@@ -309,14 +403,5 @@ Revision 1.28  2016/01/10 21:10:22  revo
 Cindy Moon McKee: +trd en
 
 Revision 1.27  2015/09/18 13:10:24  revo
-Jeromo Vasxe: + ~i
-
-Revision 1.26  2015/07/04 08:37:43  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.25  2015/06/29 16:33:23  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.24  2014/08/10 12:10:12  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: tost.xml,v 1.21 2020/02/01 01:10:26 revo Exp $">
+<art mrk="$Id: tost.xml,v 1.23 2023/09/04 19:01:53 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>tost</rad>/o
@@ -38,6 +37,12 @@
     <trd>&aacute;ldom&aacute;s</trd>,
     <trd>t&oacute;szt</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E7E;&#x676F;  [<ind>&#x304B;&#x3093;&#x3071;&#x3044;</ind>]</trd>,
+    <trd>&#x795D;&#x676F;  [<ind>&#x3057;&#x3085;&#x304F;&#x306F;&#x3044;</ind>]</trd>,
+    <trd>&#x4E7E;&#x676F;&#x306E;&#x97F3;&#x982D;  [<ind>&#x304B;&#x3093;&#x3071;&#x3044;&#x306E;&#x304A;&#x3093;&#x3069;</ind>]</trd>,
+    <trd>&#x4E7E;&#x676F;&#x306E;&#x6328;&#x62F6;  [<ind>&#x304B;&#x3093;&#x3071;&#x3044;&#x306E;&#x3042;&#x3044;&#x3055;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>toast</trd>,
     <trd>dronk</trd>,
@@ -58,6 +63,7 @@
     <trd>pr&iacute;pitok</trd>,
     <trd>zdravica</trd>
   </trdgrp>
+  <trd lng="uk">&#x442;&#x43E;&#x441;&#x442;</trd>
 </drv>
 
 <drv mrk="tost.0i">
@@ -78,7 +84,7 @@
         mi &scirc;atas vin kaj <tld/>as je via sano!
         <fnt>
           <aut>A. Kor&jcirc;enkov</aut>
-          <vrk>&rightquot;Literatura Foiro&#8221; jubileas</vrk>
+          <vrk>&rightquot;Literatura Foiro&#x201D; jubileas</vrk>
           <lok>La Ondo de Esperanto, 2000:6 (68)</lok>
         </fnt>.
       </ekz>
@@ -100,6 +106,10 @@
     <trd>&aacute;ldom&aacute;st mond</trd>,
     <trd>t&oacute;sztot mond</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E7E;&#x676F;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3071;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x795D;&#x676F;&#x3092;&#x3042;&#x3052;&#x308B;  [<ind>&#x3057;&#x3085;&#x304F;&#x306F;&#x3044;&#x3092;&#x3042;&#x3052;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">een <ind>toast</ind> uitbrengen</trd>
   <trdgrp lng="pl">
     <trd>wznosi&cacute; <ind>toast</ind></trd>,
@@ -112,6 +122,7 @@
     <trd>poveda&tcaron; pr&iacute;pitok</trd>,
     <trd>zdravicu</trd>
   </trdgrp>
+  <trd lng="uk">&#x432;&#x438;&#x433;&#x43E;&#x43B;&#x43E;&#x448;&#x443;&#x432;&#x430;&#x442;&#x438; &#x442;&#x43E;&#x441;&#x442;</trd>
 </drv>
 </art>
 <!--

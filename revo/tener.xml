@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tener.xml,v 1.18 2023/09/04 18:15:46 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>tener</rad>/a <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -39,6 +38,7 @@
     <trd>&c_n;&c_je;&c_zh;&c_je;&c_n;</trd>,
     <trd>&c_l;&c_ju;&c_b;&c_ja;&c_shch;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF66;&#xF7A;&#xF58;&#xF66;&#xF0B;&#xF56;&#xF5F;&#xF44;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
   <trdgrp lng="ca">
     <trd>tendre</trd>,
     <trd>dol&ccedil;</trd>
@@ -71,6 +71,10 @@
     <trd>gyeng&eacute;d</trd>,
     <trd>l&aacute;gy</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x512A;&#x3057;&#x3044;  [<ind>&#x3084;&#x3055;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x611B;&#x60C5;&#x306E;&#x3053;&#x3082;&#x3063;&#x305F;  [<ind>&#x3042;&#x3044;&#x3058;&#x3087;&#x3046;&#x306E;&#x3053;&#x3082;&#x3063;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>czu&lstroke;y</trd>,
     <trd>delikatny</trd>,
@@ -89,6 +93,10 @@
   <trdgrp lng="sk">
     <trd>l&aacute;skypln&yacute;</trd>,
     <trd>ne&zcaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x456;&#x436;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43B;&#x430;&#x441;&#x43A;&#x430;&#x432;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
 
@@ -156,6 +164,10 @@
     <trd>&c_s; <ind>&c_l;&c_ju;&c_b;&c_o;&c_v;&c_mol;&c_ju;</ind></trd>
   </trdgrp>
   <trd lng="sk">ne&zcaron;ne</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x456;&#x436;&#x43D;&#x43E;</trd>,
+    <trd>&#x43B;&#x430;&#x441;&#x43A;&#x430;&#x432;&#x43E;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

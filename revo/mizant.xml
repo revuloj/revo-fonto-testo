@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mizant.xml,v 1.12 2010/02/03 17:30:29 revo Exp $">
+<art mrk="$Id: mizant.xml,v 1.22 2023/09/02 06:04:13 revo Exp $">
 <kap>
   <rad>mizantrop</rad>/o <fnt>B</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -12,7 +11,15 @@
     <dif>
       Homevitulo,
       <ref tip="vid" cel="soci.kontraux0ulo.MOD">kontra&ubreve;sociulo</ref>,
-      <ref tip="vid" cel="ermit.0o.FIG">ermito<sncref/></ref>.
+      <ref tip="vid" cel="ermit.0o.FIG">ermito<sncref/></ref>:
+      <ekz>
+        &leftquot;Al <tld lit="M"/>oj&rightquot;
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Al Mizantropoj</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_z;&c_a;&c_n;&c_t;&c_r;&c_o;&c_p;</trd>
@@ -29,18 +36,35 @@
     <trd>emberker&uuml;l&odblac;</trd>,
     <trd>mizantr&oacute;p</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EBA;&#x9593;&#x5ACC;&#x3044;&#x306E;&#x4EBA;  [<ind>&#x306B;&#x3093;&#x3052;&#x3093;&#x304D;&#x3089;&#x3044;&#x306E;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x53AD;&#x4E16;&#x5BB6;  [<ind>&#x3048;&#x3093;&#x305B;&#x3044;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>mensenhater</trd>,
     <trd>misantroop</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>mizantrop</trd>,
+    <trd>odludek</trd>
   </trdgrp>
   <trdgrp lng="pt">
    <trd>misantropo</trd>,
    <trd>antrop&oacute;fobo</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>mizantrop</trd>,
+    <trd>pustnic</trd>
+  </trdgrp>
   <trd lng="ru">&c_m;&c_i;&c_z;&c_a;&c_n;&c_t;&c_r;&c_o;&c_p;</trd>
   <trdgrp lng="sk">
     <trd>mizantrop</trd>,
-    <trd>odľud</trd>
+    <trd>od&lcaron;ud</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x456;&#x437;&#x430;&#x43D;&#x442;&#x440;&#x43E;&#x43F;</trd>,
+    <trd>&#x43B;&#x44E;&#x434;&#x438;&#x43D;&#x43E;&#x43D;&#x435;&#x43D;&#x430;&#x432;&#x438;&#x441;&#x43D;&#x438;&#x43A;</trd>,
+    <trd>&#x432;&#x456;&#x434;&#x43B;&#x44E;&#x434;&#x43E;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -67,10 +91,21 @@
     <trd>asociaal</trd>,
     <trd>misantropisch</trd>
   </trdgrp>
+  <trd lng="pl">odludny</trd>     
+  <trd lng="ro">solitar</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.21 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2020/09/30 18:32:55
+Wolfram Diestel: +ekz
+
+versio 1.18 2020/09/18 22:10:59
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.16  2015/06/29 16:33:20  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -84,17 +119,5 @@ Revision 1.13  2012/08/20 00:10:50  revo
 Marc Rausell: + trd ca
 
 Revision 1.12  2010/02/03 17:30:29  revo
-Russ Williams: +trd en
-
-Revision 1.11  2009/08/19 18:42:11  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.10  2006/08/07 16:31:48  revo
-Tulio Flores: +tr pt
-
-Revision 1.9  2004/02/17 17:30:39  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/11/19 17:32:13  revo
 -->
 </vortaro>

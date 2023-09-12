@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: prun.xml,v 1.39 2023/09/03 12:45:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prun</rad>/o
@@ -17,14 +16,16 @@
       <ref tip="super" cel="drup.0o">drupo</ref>
       flava, ru&gcirc;a a&ubreve; violkolora, kun bona acideta a&ubreve; dol&ccirc;a gusto:
       <ekz>
-        plej bonguste vaporis rostita ansero, far&ccirc;ita per <tld/>oj kaj pomoj
+        plej bonguste vaporis rostita ansero, far&ccirc;ita per <tld/>oj kaj
+        pomoj
         <fnt>
           <bib>Fab2</bib>
           <lok>Knabineto kun alumetoj</lok>
         </fnt>;
       </ekz>
       <ekz>
-        sekigitaj prunoj, kiuj jam de sep jaroj ku&scirc;as en la barelo, &ccirc;e mi e&ccirc; komizo &gcirc;in
+        sekigitaj prunoj, kiuj jam de sep jaroj ku&scirc;as en la barelo, &ccirc;e
+        mi e&ccirc; komizo &gcirc;in
         ne volus man&gcirc;i
         <fnt>
           <bib>Revizoro</bib>
@@ -32,14 +33,16 @@
         </fnt>;
       </ekz>
       <ekz>
-        la deserto estis &ccirc;iam a&ubreve; rabarbo kun kustardo (ova&jcirc;o), a&ubreve; sekaj <tld/>oj kun
-        kustardo (tradicia angla deserto, al kiu la filoj de la angla elito estas
-        alkutimi&gcirc;intaj en la tiel nomataj publikaj &ndash; t.e. privataj &ndash; lernejoj)
+        la deserto estis &ccirc;iam a&ubreve; rabarbo kun kustardo (ova&jcirc;o), a&ubreve; sekaj
+        <tld/>oj kun
+        kustardo (tradicia angla deserto, al kiu la filoj de la angla
+        elito estas
+        alkutimi&gcirc;intaj en la tiel nomataj publikaj &ndash; t.e. privataj &ndash;
+        lernejoj)
         <fnt>
           <bib>Monato</bib>
           <aut>Albisturo Kvinke</aut>
-          <vrk><url ref="&Monato;/2012/010361.php"
-              >Lisuarte</url></vrk>
+          <vrk><url ref="&Monato;/2012/010361.php">Lisuarte</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -65,12 +68,19 @@
   </trdgrp>
   <trd lng="fr">prune</trd>
   <trd lng="hu">szilva</trd>
+  <trd lng="id">prem</trd>
+  <trdgrp lng="ja">
+    <trd>&#x897F;&#x6D0B;&#x3059;&#x3082;&#x3082;  [<ind>&#x305B;&#x3044;&#x3088;&#x3046;&#x3059;&#x3082;&#x3082;</ind>]</trd>,
+    <trd>&#x3059;&#x3082;&#x3082;</trd>,
+    <trd>&#x30D7;&#x30E9;&#x30E0;</trd>
+  </trdgrp>
   <trd lng="nl">pruim</trd>
   <trd lng="pl">&sacute;liwka</trd>
   <trd lng="pt">ameixa</trd>
   <trd lng="ru">&c_s;&c_l;&c_i;&c_v;&c_a;</trd>
   <trd lng="sk">slivka <klr>(ovocie)</klr></trd>
   <trd lng="tr">erik</trd>
+  <trd lng="uk">&#x441;&#x43B;&#x438;&#x432;&#x430;</trd>
 </drv>
 
 <drv mrk="prun.0ujo">
@@ -81,9 +91,7 @@
   <snc mrk="prun.0ujo.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="lst" cel="speci.0o.BIO"
-      lst="voko:botanikaj_specioj">Specio</ref> de <ref tip="malprt"
-      cel="prunus.0o">prunuso</ref>
+      <ref tip="lst" cel="speci.0o.BIO" lst="voko:botanikaj_specioj">Specio</ref> de <ref tip="malprt" cel="prunus.0o">prunuso</ref>
       (<trd lng="la">Prunus domestica</trd>);
       <ref tip="lst" cel="arb.0o" lst="voko:rozoparencoj">arbo</ref>
       kulturata pro la fruktoj:
@@ -95,7 +103,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        tie a&ubreve; alie staris sola pomarbo a&ubreve; <tld/>arbo, sen tio oni neniam povus
+        tie a&ubreve; alie staris sola pomarbo a&ubreve; <tld/>arbo, sen tio oni
+        neniam povus
         suspekti, ke tio estas &gcirc;ardeno
         <fnt>
           <bib>Fab2</bib>
@@ -103,23 +112,19 @@
         </fnt>;
       </ekz>
       <ekz>
-        krom olivojn, la levensanoj kultivis a&ubreve; rikoltis fruktarbojn: &ccirc;efe vinberujo,
-        figarbo, <tld/>ujo kaj &ccirc;eri<klr>[z]</klr>arbo <klr>[&#8230;]</klr>
+        krom olivojn, la levensanoj kultivis a&ubreve; rikoltis fruktarbojn:
+        &ccirc;efe vinberujo,
+        figarbo, <tld/>ujo kaj &ccirc;eri<klr>[z]</klr>arbo <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=149070"
-              >Levens</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=149070">Levens</url></lok>
         </fnt>.
       </ekz>
     </dif>
-    <bld
-      lok="&WCU;/thumb/6/67/Fruits_Prunus_domestica.jpg/640px-Fruits_Prunus_domestica.jpg"
-      prm="CC BY-SA 3.0"
-      ><tld/>oj &ccirc;e <tld/>ujo (Prunus domestica)
+    <bld lok="&WCU;/thumb/6/67/Fruits_Prunus_domestica.jpg/640px-Fruits_Prunus_domestica.jpg" prm="CC BY-SA 3.0"><tld/>oj &ccirc;e <tld/>ujo (Prunus domestica)
         <fnt>
           <aut>Yamamaya, propra foto</aut>
-          <lok><url ref="&WCW;/File:Fruits_Prunus_domestica.jpg"
-              >https://commons.wikimedia.org/wiki/File:Fruits_Prunus_domestica.jpg</url></lok>
+          <lok><url ref="&WCW;/File:Fruits_Prunus_domestica.jpg">&WCW;/File:Fruits_Prunus_domestica.jpg</url></lok>
         </fnt>
     </bld>
   </snc>
@@ -139,19 +144,23 @@
   </trdgrp>
   <trd lng="fr">prunier</trd>
   <trd lng="hu">szilvafa</trd>
+  <trd lng="ja">&#x30BB;&#x30A4;&#x30E8;&#x30A6;&#x30B9;&#x30E2;&#x30E2;</trd>
   <trdgrp lng="nl">
     <trd>pruimenboom</trd>,
     <trd>pruimelaar</trd>
   </trdgrp>
   <trd lng="pl">&sacute;liwa</trd>
   <trd lng="pt">ameixeira</trd>
-  <trd lng="ru">&c_s;&c_l;&c_i;&c_v;&c_a; <klr
-tip="amb">(&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
+  <trd lng="ru">&c_s;&c_l;&c_i;&c_v;&c_a; <klr tip="amb">(&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
   <trd lng="sk">slivka <klr>(strom)</klr></trd>
+  <trd lng="uk">&#x441;&#x43B;&#x438;&#x432;&#x430; (&#x434;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x44F;) (&#x434;&#x435;&#x440;&#x435;&#x432;&#x43E;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.38 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.34  2018/11/20 20:10:16  revo
 Wolfram Diestel: +ekz-oj, +bld
 
@@ -171,8 +180,5 @@ Revision 1.29  2013/10/28 19:10:20  revo
 Wolfram Diestel: ~ujo: ref al rozoparencoj, prilaboris dif
 
 Revision 1.28  2013/08/29 07:10:42  revo
-Wolfram Diestel: referenco al listo bot specioj
-
-Revision 1.27  2012/09/20 10:10:14  revo
 -->
 </vortaro>

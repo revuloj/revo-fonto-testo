@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: merd.xml,v 1.3 2009/08/20 16:31:06 revo Exp $">
+<art mrk="$Id: merd.xml,v 1.13 2023/08/10 07:26:13 revo Exp $">
 <kap>
   <rad>merd</rad>/o
 </kap>
 <drv mrk="merd.0o">
-  <kap><tld/>o</kap> 
+  <kap><tld/>o</kap>
   <uzo tip="stl">VULG</uzo>
   <snc mrk="merd.0o.fekajxo">
     <dif>
@@ -17,7 +16,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Nina Kor&jcirc;enevskaja-Gouriou</aut>
-          <vrk><url ref="https://www.monato.be/2006/008819.php">Kial lundo ekas sabate?</url></vrk>
+          <vrk><url ref="&Monato;/2006/008819.php">Kial lundo ekas sabate?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -30,13 +29,17 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.be/2014/011218.php"
-              >Sen besto-testoj mi estus mortinta ...</url></vrk>
+          <vrk><url ref="&Monato;/2014/011218.php">Sen besto-testoj mi estus mortinta
+          ...</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="super" cel="acx.0">a&ccirc;-</ref>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_j;&c_n;&c_o;</trd>,
+    <trd>&c_g;&c_a;&c_w;&c_n;&c_o;</trd>
+  </trdgrp>
   <trd lng="ca">merda</trd>
   <trdgrp lng="cs">
     <trd>fek&aacute;lie</trd>,
@@ -53,16 +56,37 @@
     <trd>kak<klr tip="ind"> (ontr.)</klr></trd>,
     <trd>poep<klr tip="ind"> (ontr.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>g&oacute;wno</trd>,
+    <trd>kupa</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>c&abreve;cat</trd>,
+    <trd>caca</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>fek&aacute;lie</trd>,
     <trd>hovno</trd>,
     <trd>lajno</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_ib;&c_v;&#x43D;&#x43E;</trd>,
+    <trd>&#x43B;&c_a;&c_j;&#x43D;&#x43E;</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.13 2023/08/10 07:26:13
+Dmitri Gabinski: + trd be
+
+versio 1.12 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2020/08/25 20:10:34
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.8  2018/01/29 13:10:13  revo
 Marcus Griep: Traduku al la angla
 
@@ -76,11 +100,5 @@ Revision 1.5  2013/12/03 08:10:11  revo
 Damien Brucker: +trd fr
 
 Revision 1.4  2012/08/19 19:10:24  revo
-Marc Rausell: + trd ca
-
-Revision 1.3  2009/08/20 16:31:06  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.2  2008/11/21 17:56:47  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: kapibar.xml,v 1.5 2023/09/01 13:58:55 revo Exp $">
 <kap>
   <rad>kapibar</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -20,24 +19,31 @@
         banis sin en varma fonto
         <fnt>
           <aut>Segilo</aut>,
-          <vrk><url
-          ref="http://segilo.cocolog-nifty.com/taglibro/2005/03/kapibaroj_en_va.html">
+          <vrk><url ref="http://segilo.cocolog-nifty.com/taglibro/2005/03/kapibaroj_en_va.html">
           Kapibaroj en varma fonto</url></vrk>,
           <lok>2005-03-20</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_b;&c_a;&c_r;&c_a;</trd>
   <trd lng="fr">cabia&iuml;</trd>
+  <trd lng="ja">&#x30AB;&#x30D4;&#x30D0;&#x30E9;</trd>
   <trd lng="pl">kapibara</trd>     
   <trd lng="ro">capibara</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x43E;&#x434;&#x43E;&#x441;&#x432;&#x438;&#x43D;&#x43A;&#x430; &#x43F;&#x456;&#x432;&#x434;&#x435;&#x43D;&#x43D;&#x43E;&#x430;&#x43C;&#x435;&#x440;&#x438;&#x43A;&#x430;&#x43D;&#x441;&#x44C;&#x43A;&#x430;</trd>,
+    <trd>&#x43A;&#x430;&#x43F;&#x456;&#x431;&#x430;&#x440;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.3 2021/04/11 08:57:42
+Dmitri Gabinski: + trd be
+
 Revision 1.1  2012/12/08 12:10:10  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

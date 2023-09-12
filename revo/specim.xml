@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: specim.xml,v 1.26 2023/09/04 05:14:57 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>specimen</rad>/o
@@ -11,30 +10,90 @@
   <kap><tld/>o</kap>
   <snc>
     <dif>
-      Prov-ekzemplero a&ubreve; -ekzempleroj, eta kvanto da venda&jcirc;oj
+      Unu a&ubreve; kelkaj provekzempleroj; eta kvanto da venda&jcirc;oj
       a&ubreve; koninda&jcirc;oj montrataj por veki scivolon, informi,
       reklami, ebligi takson, studon:
       <ekz>
-        li forportis la sango<tld/>on<fnt><aut>David Curtis</aut>:
-        <vrk>Koratako</vrk>, <bib>Monato</bib><lok>jaro 2002a, numero
-        1a,
-        p. 28a</lok></fnt>.
+        mi permesas al mi adresi al vi <klr>[&#x2026;]</klr> kelkajn <tld/>ojn de la
+        vendobjektoj paperaj kaj kartonaj, kiujn mi havas ordinare en mia magazeno
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        Tiaj kolektoj pruvas kiel la kolektantoj de naturaj <tld/>oj
+        mielkuko<klr>[j&#x2026;]</klr> ku&scirc;is kiel <tld/>oj sur la tablo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Sub la saliko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi sendos al vi <tld/>ojn de tieaj teksa&jcirc;oj
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estus bonega <tld/>o de bonvivanto
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Sia propra mastro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la edzi&gcirc;o, kvankam nature ne vere kortu&scirc;anta <tld/>o de &leftquot;La Granda Pasio&rightquot;, &scirc;ajne
+        kontentigis amba&ubreve;
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi mem prezentis al &scirc;i hodia&ubreve; <tld/>on de via gusto kaj poezia talento
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Petro la Granda komencis kolektadi <tld/>ojn de diversaj lingvoj sur la
+        teritorio de la Rusa Imperio
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li forportis la sango<tld/>on
+        <fnt>
+          <aut>David Curtis</aut>
+          <vrk><url ref="&Monato;/2002/pdf/monato200201.pdf#page=28">Koratako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/01, p. 28</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiaj kolektoj pruvas kiel la kolektantoj de naturaj <tld/>oj
         stimulis la botanikon, kiu dum la renesanco apartigis sin de la
-        medicino<fnt><aut>Johan Van Eenoo</aut>: <vrk>La bru&gcirc;a
-        Centuriae
-        plantarum rariorum retrovita en Krakovo</vrk>,
-        <bib>Monato</bib><lok>jaro 1998a, numero 1a, p. 16a</lok></fnt>.
+        medicino
+        <fnt><aut>Johan van Eenoo</aut>
+          <vrk><url ref="&Monato;/1998/005856.html">La bru&gcirc;a Centuriae plantarum rariorum retrovita
+          en Krakovo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1998/01, p. 16</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="ekzemp.0o">ekzemplo</ref>,
+      <ref cel="ekzemp1.0o">ekzemplero</ref>,
+      <ref cel="protot.0o.TEK">prototipo</ref>,
+      <ref cel="prov.0ajxo">prova&jcirc;o</ref>,
+      <ref cel="tip.0o">tipo</ref>
+    </refgrp>
   </snc>
-  <refgrp tip="vid">
-    <ref cel="ekzemp.0o">ekzemplo</ref>,
-    <ref cel="ekzemp1.0o">ekzemplero</ref>,
-    <ref cel="tip.0o">tipo</ref>
-  </refgrp>
   <trdgrp lng="be">
     <trd>&c_u;&c_z;&c_o;&c_r;</trd>,
     <trd>&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_n;&c_y; &c_e;&c_k;&c_z;&c_e;&c_m;&c_p;&c_l;&c_ja;&c_r;</trd>
@@ -53,6 +112,11 @@
   <trdgrp lng="hu">
     <trd>minta</trd>,
     <trd>&aacute;ruminta</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x672C;  [<ind>&#x307F;&#x307B;&#x3093;</ind>]</trd>,
+    <trd>&#x30B5;&#x30F3;&#x30D7;&#x30EB;  [<ind>&#x3055;&#x3093;&#x3077;&#x308B;</ind>]</trd>,
+    <trd>&#x6A19;&#x672C;  [<ind>&#x3072;&#x3087;&#x3046;&#x307B;&#x3093;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>specimen</trd>,
@@ -74,8 +138,19 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>specimen</trd>,
-    <trd>ukázka</trd>,
-    <trd>vzorek zboží</trd>
+    <trd>uk&aacute;zka</trd>,
+    <trd>vzorek zbo&zcaron;&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Muster</trd>,
+    <trd>Probe</trd>,
+    <trd>Probest&uuml;ck</trd>,
+    <trd>Anschauungsst&uuml;ck</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_r;&c_a;&c_z;&c_o;&c_k;</trd>,
+    <trd>&c_v;&c_z;&c_ib;&c_r;&c_je;&c_c;&c_mol;</trd>,
+    <trd>(&c_s;&c_t;&c_a;&c_t;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_n;&c_a;) &c_v;&c_i;&c_b;&c_ib;&c_r;&c_k;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -86,27 +161,51 @@
       Kolektitaj <tld/>oj de diversaj rilataj a&jcirc;oj kune konservataj
       por komparo, studo, &gcirc;uo:
       <ekz>
-        &Ccirc;ie konataj estis liaj botanikaj &gcirc;ardenoj kaj naturaj
-        <tld/>aroj<fnt><aut>Johan Van Eenoo</aut>: <vrk>La bru&gcirc;a
-        Centuriae
-        plantarum rariorum retrovita en Krakovo</vrk>,
-        <bib>Monato</bib><lok>jaro 1998a, numero 1a, p. 16a</lok></fnt>.
+        eksterordinara <tld/>aro pri stiloj, dialogaj metodoj, &gcirc;enraj teknikoj
+        <fnt>
+          <bib>Plumamikoj</bib>
+          <lok>Dramoj en esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ie konataj estis liaj botanikaj &gcirc;ardenoj kaj naturaj
+        <tld/>aroj
+        <fnt><aut>Johan van Eenoo</aut>
+          <vrk><url ref="&Monato;/1998/005856.html">La bru&gcirc;a Centuriae plantarum rariorum retrovita
+          en Krakovo</url></vrk>
+          <bib>Monato</bib>
+          <lok>1998/01, p. 16</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="kabine.0o.ekspozicio">kabineto <sncref
-      ref="kabine.0o.ekspozicio"/></ref>,
-      <ref cel="kolekt.0o.art">kolekto <sncref
-      ref="kolekt.0o.art"/></ref>
-      <ref cel="muze.0o.kolekto">muzeo <sncref
-      ref="muze.0o.kolekto"/></ref>
+      <ref cel="kabine.0o.ekspozicio">kabineto<sncref ref="kabine.0o.ekspozicio"/></ref>,
+      <ref cel="kolekt.0o.art">kolekto<sncref ref="kolekt.0o.art"/></ref>,
+      <ref cel="muze.0o.kolekto">muzeo<sncref ref="muze.0o.kolekto"/></ref>
     </refgrp>
+    <rim>
+      Por la statistike esplorita ono de <ref tip="malprt" cel="populaci.0o">populacio</ref>
+      iuj uzas la neologismojn <ref cel="sampl.0o.SCI">samplo resp. muestro</ref>.
+    </rim>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_l;&c_je;&c_k;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_z;&c_b;&c_o;&c_r;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>col&middot;lecci&oacute;</trd>,
     <trd>mostrari</trd>
   </trdgrp>
-  <trd lng="en">collection</trd>
+  <trdgrp lng="de">
+    <trd>Sammlung</trd>,
+    <trd>Stichprobe</trd>,
+    <trd>Kollektion</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>sample</trd>,
+    <trd>collection</trd>
+  </trdgrp>
+  <trd lng="es">muestra</trd>
   <trdgrp lng="fr">
     <trd>collection</trd>
   </trdgrp>
@@ -127,30 +226,27 @@
 </art>
 <!--
 $Log$
+versio 1.25 2023/08/16 14:28:49
+Dmitri Gabinski: + trd be
+
+versio 1.24 2023/05/14 06:29:38
+Paul Peeraerts: + aut + lok + url
+
+versio 1.23 2023/02/26 14:27:40
+Wolfram Diestel: rim-vortigo
+
+versio 1.22 2023/02/26 13:30:31
+Wolfram Diestel: +rim
+
+versio 1.21 2023/02/24 20:31:37
+Wolfram Diestel: +trd en, es
+
+versio 1.20 2022/09/21 17:42:51
+Wolfram Diestel: +ekz-oj, ref, trd de
+
+versio 1.19 2022/08/05 21:29:08
+Ulrich Fellmann: specimenaro: + 1 DE trad
+
 Revision 1.16  2015/06/29 16:33:24  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.15  2013/04/19 05:10:18  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.14  2011/12/06 13:10:15  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.13  2009/06/02 18:47:29  revo
-Russ Williams: +trd en
-
-Revision 1.12  2005/06/28 20:26:56  revo
-Yury Finkel: +trd ru
-
-Revision 1.11  2004/10/21 16:31:59  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2004/10/08 16:32:58  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2002/09/25 16:31:30  revo
-Jeromo Vasxe: memkor + ,
-
-Revision 1.8 2002/07/25 17:35:06 revo
 -->
 </vortaro>

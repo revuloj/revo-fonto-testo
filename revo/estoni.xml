@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: estoni.xml,v 1.3 2010/01/25 17:30:25 revo Exp $">
+<art mrk="$Id: estoni.xml,v 1.15 2023/08/31 11:49:30 revo Exp $">
 <kap>
   <rad>Estoni</rad>/o
 </kap>
@@ -17,29 +16,31 @@
       <ekz>
         <tld lit="E"/>o estas lando en nordorienta E&ubreve;ropo apud la
         Balta maro.
-        <fnt><bib>Viki</bib>, <lok><url 
-        ref="http://eo.wikipedia.org/wiki/Estonio">Estonio</url></lok>:</fnt>.
+        <fnt><bib>Viki</bib>, <lok><url ref="&Viki;/Estonio">Estonio</url></lok>:</fnt>.
       </ekz>
       <ekz>
         jam de jaroj da&ubreve;ras inter <tld/>o kaj Rusio politikaj intertraktadoj
         <fnt>
+           <aut>Helju Viires</aut>      
+          <vrk><url ref="&Monato;/1993/A930901.php">Hejmen la rusoj ...?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9309-estonio.txt"
-              >Estonio</url></vrk>
+
+          <lok>1993/09, p. 9</lok>
         </fnt>;
       </ekz>
       <ekz>
         plej bonajn rezultojn denove prezentis <tld/>o, kies indico de ekonomia libereco
         en la jaro 1997 estis 6,8
         <fnt>
+       <aut>LAST</aut>
+          <vrk><url ref="&Monato;/2000/006855.php">Ekonomia libereco</url></vrk>
           <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006855.html"
-              >Baltio: Ekonomia libereco</url></vrk>
+          <lok>2000/05, p. 7</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_E;&c_s;&c_t;&c_o;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_Je;&c_s;&c_t;&c_o;&c_n;&c_i;&c_ja;</trd>
   <trd lng="cs">Estonsko</trd>
   <trd lng="da">Estland</trd>
@@ -50,16 +51,30 @@
     <trd>R&eacute;publique d'Estonie</trd>
   </trdgrp>
   <trd lng="id">Estonia</trd>
+  <trd lng="ja">&#x30A8;&#x30B9;&#x30C8;&#x30CB;&#x30A2;</trd>
   <trd lng="nl">Estland</trd>
   <trd lng="no">Estland</trd>
   <trd lng="pl">Estonia</trd>
   <trd lng="sk">Est&oacute;nsko</trd>
   <trd lng="sv">Estland</trd>
+  <trd lng="uk">&c_Je;&c_s;&c_t;&#x43E;&#x43D;&c_ib;&#x44F;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.14 2023/04/25 05:28:01
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.13 2023/04/12 13:30:40
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.12 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2020/11/04 15:11:26
+Dmitri Gabinski: +trd be
+
 Revision 1.8  2017/12/27 21:10:16  revo
 Michel Cantigneaux: rimarko pri radiko kaj sufikso
 
@@ -70,14 +85,5 @@ Revision 1.6  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.5  2014/06/06 15:10:31  revo
-Damien Brucker: +trd fr
-
-Revision 1.4  2014/06/04 04:10:40  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.3  2010/01/25 17:30:25  revo
- Filip van Laenen: Tradukoj en norvegan kaj nederlandan
-
-Revision 1.2  2009/04/29 16:31:43  revo
 -->
 </vortaro>

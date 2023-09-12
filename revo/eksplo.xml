@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: eksplo.xml,v 1.24 2010/06/09 16:30:20 revo Exp $">
+<art mrk="$Id: eksplo.xml,v 1.40 2023/08/31 11:49:27 revo Exp $">
 <kap><ofc>*</ofc>
-<rad>eksplod</rad>/i</kap> <fnt><bib>PV</bib></fnt>
+  <rad>eksplod</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
 <drv mrk="eksplo.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
@@ -48,8 +48,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007234.html'>Vulkanoj</url></vrk>
+          <vrk><url ref="&Monato;/2001/007234.php">Vulkanoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -139,11 +138,11 @@
       <ekz>
         tuj <tld/>is interna kverelo inter du lojalismaj organiza&jcirc;oj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macadoih</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007172.html'>Bojas sova&gcirc;a
+          
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2000/007172.html">Bojas sova&gcirc;a
           hundo</url></vrk>
+          <bib>Monato</bib>
         </fnt>.
       </ekz>
     </dif>
@@ -167,7 +166,7 @@
     <trd>explodieren</trd>,
     <trd>ausbrechen</trd>
   </trdgrp>
-  <trd lng="en">explode</trd>
+  <trd lng="en">explode<klr> (ntr)</klr></trd>
   <trd lng="es">explotar</trd>
   <trdgrp lng="fr">
     <trd>&eacute;clater</trd>,
@@ -178,6 +177,12 @@
     <trd>esplodere</trd>,
     <trd>scoppiare</trd>,
     <trd>detonare</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7206;&#x767A;&#x3059;&#x308B;  [<ind>&#x3070;&#x304F;&#x306F;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x7834;&#x88C2;&#x3059;&#x308B;  [<ind>&#x306F;&#x308C;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6FC0;&#x9AD8;&#x3059;&#x308B;  [<ind>&#x3052;&#x304D;&#x3053;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x52C3;&#x767A;&#x3059;&#x308B;  [<ind>&#x307C;&#x3063;&#x3071;&#x3064;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>ontploffen</trd>,
@@ -198,6 +203,16 @@
     <trd>vyletie&tcaron; do povetria</trd>
   </trdgrp>
   <trd lng="sv">explodera</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_b;&c_u;&c_h;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43B;&#x43E;&#x43F;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_r;&c_ib;&c_s;&#x43A;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43A;&#x43E;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_s;&#x43A;&c_i;&#x43F;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_s;&#x43F;&c_a;&#x43B;&c_a;&c_h;&#x43D;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_b;&c_u;&c_h;&#x43D;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_r;&#x44F;&c_d;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="eksplo.0o">
@@ -231,8 +246,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Araneo</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007026.html'>Mis-ilo</url></vrk>
+          <vrk><url ref="&Monato;/2000/007026.php">Mis-ilo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -241,8 +255,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Araneo</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/006949.html'>Ukrainio:
+          <vrk><url ref="&Monato;/2000/006949.php">Ukrainio:
           Subtera katastrofo</url></vrk>
         </fnt>.
       </ekz>
@@ -304,9 +317,9 @@
       <ekz>
         post la <tld/>o de la eventoj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007140.html'>de
-          Julian Modest</url></vrk>
+          <bib>Monato</bib><aut>Julian Modest</aut>
+          <vrk><url ref="&Monato;/2001/007140.html">Vetiha
+          </url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -328,12 +341,14 @@
     <trd>Explosion</trd>,
     <trd>Ausbruch</trd>
   </trdgrp>
+  <trd lng="en">explosion</trd>
   <trd lng="es">explosi&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;tonation</trd>,
     <trd>explosion<klr tip="ind"> (bombe, rire,...)</klr></trd>,
     <trd>flamb&eacute;e<klr tip="ind"> (explosion, fig.)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5D4;&#x5B4;&#x5EA;&#x5B0;&#x5E4;&#x5BC;&#x5D5;&#x5B9;&#x5E6;&#x5B0;&#x5E6;&#x5D5;&#x5BC;&#x5EA;</trd>
   <trdgrp lng="hu">
     <trd>robban</trd>,
     <trd>felrobban</trd>,
@@ -343,6 +358,14 @@
     <trd>esplosione</trd>,
     <trd>scoppio</trd>,
     <trd>detonazione</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7206;&#x767A;  [<ind>&#x3070;&#x304F;&#x306F;&#x3064;</ind>]</trd>,
+    <trd>&#x7834;&#x88C2;  [<ind>&#x306F;&#x308C;&#x3064;</ind>]</trd>,
+    <trd>&#x6FC0;&#x9AD8;  [<ind>&#x3052;&#x304D;&#x3060;&#x304B;</ind>]</trd>,
+    <trd>&#x61A4;&#x6FC0;  [<ind>&#x3075;&#x3093;&#x3052;&#x304D;</ind>]</trd>,
+    <trd>&#x52C3;&#x767A;  [<ind>&#x307C;&#x3063;&#x3071;&#x3064;</ind>]</trd>,
+    <trd>&#x6025;&#x5897;  [<ind>&#x304D;&#x3085;&#x3046;&#x305E;&#x3046;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>ontploffing</trd>,
@@ -360,6 +383,10 @@
     <trd>v&yacute;buch</trd>
   </trdgrp>
   <trd lng="sv">explosion</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_b;&c_u;&c_h;</trd>,
+    <trd>&c_s;&#x43F;&c_a;&#x43B;&c_a;&c_h; (&c_je;&#x43F;&c_ib;&c_d;&c_je;&#x43C;&c_ib;&c_j; &c_ib; &c_t;.&#x43F;.)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="eksplo.0ajxo">
@@ -378,8 +405,7 @@
         <tld/>a&jcirc;ojn (dinamito, eksploda gelateno)
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=22228'>Nitroglicerino</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=22228">Nitroglicerino</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -387,14 +413,14 @@
         <tld/>as malpli rapide ol rapido de sono
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=32640'>Nigra
+          <lok><url ref="https://eo.wikipedia.org/?curid=32640">Nigra
           pulvo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        &#8208; &Ccirc;u malbona nova&jcirc;o, &Ccirc;efo?
-        &#8208; Ne, knabo, nur iom tro tu&scirc;otima <tld/>a&jcirc;o
+        &#x2010; &Ccirc;u malbona nova&jcirc;o, &Ccirc;efo?
+        &#x2010; Ne, knabo, nur iom tro tu&scirc;otima <tld/>a&jcirc;o
         <klr>(tro dan&gcirc;era informo)</klr>
         <fnt><bib>UrdHadda</bib>, <lok>p. 16</lok></fnt>.
       </ekz>
@@ -403,14 +429,20 @@
   <trd lng="be">&c_v;&c_y;&c_b;&c_u;&c_h;&c_o;&c_w;&c_k;&c_a;</trd>
   <trd lng="ca">explosiu<klr> (subst.)</klr></trd>
   <trd lng="de">Sprengstoff</trd>
+  <trd lng="en">explosive<klr> (subst.)</klr></trd>
   <trd lng="es">explosivo</trd>
   <trd lng="fr">explosif<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="he">&#x5D7;&#x5D5;&#x5DE;&#x5E8; &#x5E0;&#x5E4;&#x5E5;</trd>
   <trdgrp lng="hu">
     <trd>robban&oacute;anyag</trd>,
     <trd>robban&oacute;szer</trd>
   </trdgrp>
   <trdgrp lng="it">
     <trd>esplosivo<klr> (sost.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7206;&#x767A;&#x7269;  [<ind>&#x3070;&#x304F;&#x306F;&#x3064;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x7206;&#x85AC;  [<ind>&#x3070;&#x304F;&#x3084;&#x304F;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>springstof</trd>,
@@ -423,6 +455,10 @@
   <trdgrp lng="ru">
     <trd>&c_v;&c_z;&c_r;&c_y;&c_v;&c_ch;&c_a;&c_t;&c_k;&c_a;</trd>,
     <trd>&c_v;&c_z;&c_r;&c_y;&c_v;&c_ch;&c_a;&c_t;&c_o;&c_je; &c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_b;&c_u;&c_h;&c_ib;&c_v;&#x43A;&c_a;</trd>,
+    <trd>&c_v;&c_i;&c_b;&c_u;&c_h;&#x43E;&c_v;&c_a; &c_r;&c_je;&c_ch;&#x43E;&c_v;&c_i;&#x43D;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -441,8 +477,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007234.html'>Vulkanoj</url></vrk>
+          <vrk><url ref="&Monato;/2001/007234.html">Vulkanoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -468,7 +503,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/006866.html'>La
+          <vrk><url ref="&Monato;/2000/006866.php">La
           blua &leftquot;oro&rightquot; &ccirc;iam malsufi&ccirc;os</url></vrk>
         </fnt>.
       </ekz>
@@ -489,16 +524,22 @@
     <trd>trhac&iacute;</trd>,
     <trd>v&yacute;bu&scaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="en">explosive<klr> (adj.)</klr></trd>
   <trdgrp lng="fr">
     <trd>bouillant<klr tip="ind"> (caract&egrave;re)</klr></trd>,
     <trd>explosif<klr tip="ind"> (adj.)</klr></trd>,
     <trd>volcanique<klr tip="ind"> (caract&egrave;re)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5E0;&#x5E4;&#x5D9;&#x5E5;</trd>
   <trdgrp lng="it">
     <trd>esplosivo<klr> (fig.)</klr></trd>,
     <trd>prorompente<klr> (fig.)</klr></trd>,
     <trd>infiammabile<klr> (fig.)</klr></trd>,
     <trd>collerico<klr> (fig.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7206;&#x767A;&#x6027;&#x306E;  [<ind>&#x3070;&#x304F;&#x306F;&#x3064;&#x305B;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x6FC0;&#x3057;&#x3084;&#x3059;&#x3044;  [<ind>&#x306F;&#x3052;&#x3057;&#x3084;&#x3059;&#x3044;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>ontplofbaar</trd>,
@@ -509,6 +550,10 @@
   <trdgrp lng="sk">
     <trd>trhac&iacute;</trd>,
     <trd>v&yacute;bu&scaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_b;&c_u;&c_h;&#x43E;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_a;&#x43F;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -528,14 +573,13 @@
         <tld/>igi bombon, koleron, ribelon;
       </ekz>
       <ekz>
-        A-bombo estas atombombo, kies energion produktas la nuklea 
+        A-bombo estas atombombo, kies energion produktas la nuklea
         fendi&gcirc;o de uraniaj (a&ubreve; similaj) atomkernoj, &ccirc;i tiajn <tld/>igis
-        Usono en 1945, 
+        Usono en 1945,
         interalie en Hiro&scirc;imo kaj Nagasako
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=25201'>Atombombo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=25201">Atombombo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -567,11 +611,17 @@
     col&egrave;re,...)</klr></trd>,
     <trd>faire <ind>exploser</ind></trd>
   </trdgrp>
+  <trd lng="en">explode<klr> (tr)</klr></trd>
+  <trd lng="he">&#x5DC;&#x5E4;&#x5D5;&#x5E6;&#x5E5;</trd>
   <trdgrp lng="it">
     <trd>fare <ind>esplodere</ind></trd>,
     <trd>fare <ind>scoppiare</ind></trd>,
     <trd>fare <ind>detonare</ind></trd>,
     <trd>brillare<klr> (esplosivo)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7206;&#x767A;&#x3055;&#x305B;&#x308B;  [<ind>&#x3070;&#x304F;&#x306F;&#x3064;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x7206;&#x7834;&#x3059;&#x308B;  [<ind>&#x3070;&#x304F;&#x306F;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">doen <ind>ontploffen</ind></trd>
   <trdgrp lng="pl">
@@ -600,6 +650,7 @@
     <trd>podn&iacute;tit (nap&rcaron;. v&aacute;lku)</trd>,
     <trd>rozpoutat</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_ib;&c_d;&c_r;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="eksplo.0igilo">
@@ -614,8 +665,7 @@
         detonacio per akustika <tld/>igilo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=223143'>Ruhrstahl
+          <lok><url ref="https://eo.wikipedia.org/?curid=223143">Ruhrstahl
           X-4</url></lok>
         </fnt>.
       </ekz>
@@ -630,6 +680,7 @@
       <trd>rozbu&scaron;ka</trd>
     </trdgrp>
     <trd lng="de">Z&uuml;nder</trd>
+    <trd lng="en">detonator</trd>
     <trd lng="fr">d&eacute;tonateur</trd>
     <trdgrp lng="hu">
       <trd>gy&uacute;jt&oacute;szerkezet</trd>,
@@ -658,15 +709,22 @@
       <ref tip="dif" cel="eksplo.0ajxo">Eksploda&jcirc;o</ref>:
       <ekz>
         amonia nitrato <klr>[...]</klr> estas &ccirc;efe uzata kiel sterko, &gcirc;i
-        same uzatas kiel <tld/>igilo 
+        same uzatas kiel <tld/>igilo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=529500'>Amonia
+          <lok><url ref="https://eo.wikipedia.org/?curid=529500">Amonia
           nitrato</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="he">&#x5E0;&#x5E4;&#x5E5;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96F7;&#x7BA1;  [<ind>&#x3089;&#x3044;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x4FE1;&#x7BA1;  [<ind>&#x3057;&#x3093;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x8D77;&#x7206;&#x88C5;&#x7F6E;  [<ind>&#x304D;&#x3070;&#x304F;&#x305D;&#x3046;&#x3061;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_d;&c_je;&c_t;&#x43E;&#x43D;&c_a;&c_t;&#x43E;&c_r;</trd>
 </drv>
 
 <drv mrk="eksplo.pra0o">
@@ -681,8 +739,7 @@
         kaj heliumo, kiuj preska&ubreve; neniom formi&gcirc;is okaze de la pra<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=187'>Astronomio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=187">Astronomio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -691,7 +748,7 @@
         ili
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=1058'>Edwin
+          <lok><url ref="https://eo.wikipedia.org/?curid=1058">Edwin
           Hubble</url></lok>
         </fnt>.
       </ekz>
@@ -705,13 +762,16 @@
   <trd lng="en">Big Bang</trd>
   <trd lng="fi">Alkur&auml;j&auml;hdys</trd>
   <trd lng="fr">Big bang</trd>
+  <trd lng="he">&#x5D4;&#x5DE;&#x5E4;&#x5E5; &#x5D4;&#x5D2;&#x5D3;&#x5D5;&#x5DC;</trd>
   <trd lng="hu">&odblac;srobban&aacute;s</trd>
+  <trd lng="ja">&#x30D3;&#x30C3;&#x30B0;&#x30D0;&#x30F3;</trd>
   <trd lng="nl">oerknal</trd>
   <trd lng="pl">Wielki Wybuch</trd>
   <trd lng="pt">Grande Explos&atilde;o</trd>
   <trd lng="ru">&c_B;&c_o;&c_l;&c_mol;&c_sh;&c_o;&c_j; &c_V;&c_z;&c_r;&c_y;&c_v;</trd>
   <trd lng="sk">ve&lcaron;k&yacute; tresk</trd>
   <trd lng="tr">B&uuml;y&uuml;k Patlama</trd>
+  <trd lng="uk">&c_v;&c_je;&#x43B;&c_i;&#x43A;&c_i;&c_j; &c_v;&c_i;&c_b;&c_u;&c_h;</trd>
 </drv>
 
 <drv mrk="eksplo.0akonsonanto">
@@ -730,9 +790,8 @@
         /ge-o-gra-f&iacute;-o/)
         <fnt>
           <aut>Marc Bavant</aut>: <vrk>Silabo kaj silabado</vrk>.
-          <lok><url
- ref="http://lingvakritiko.com/2006/12/20/silabo-kaj-silabado/"
-              >Lingva kritiko</url></lok></fnt>.
+          <lok><url ref="http://lingvakritiko.com/2006/12/20/silabo-kaj-silabado/">Lingva
+          kritiko</url></lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -757,11 +816,12 @@
     <trd>okkluz&iacute;va</trd>
   </trdgrp>
   <trd lng="nl">plofklank</trd>
+  <trd lng="pl">sp&oacute;&lstroke;g&lstroke;oska wybuchowa</trd>
   <trdgrp lng="pt">
     <trd>explosiva <klr>(subst.)</klr></trd>,
     <trd>consoante explosiva</trd>,
-    <trd>oclusiva <klr>(subst.)</klr></trd>,    
-    <trd>consoante oclusiva</trd>    
+    <trd>oclusiva <klr>(subst.)</klr></trd>,
+    <trd>consoante oclusiva</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_z;&c_r;&c_y;&c_v;&c_n;&c_o;&c_j; &c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;</trd>,
@@ -772,6 +832,21 @@
 </art>
 <!--
 $Log$
+versio 1.39 2023/05/03 12:45:38
+Paul Peeraerts: esperanto.be -> &Monato;
+
+versio 1.38 2023/04/02 13:26:46
+Paul Peeraerts: &Monato;
+
+versio 1.37 2023/03/22 22:24:35
+Vito Redsky: +trd pl 
+
+versio 1.36 2023/01/24 01:54:16
+Robert Baruch: +trd: en
+
+versio 1.35 2022/12/04 08:32:29
+Wolfram Diestel: fnt-korekteto
+
 Revision 1.30  2017/03/23 20:10:13  revo
 Wolfram Diestel: kompletigis ekz-ojn
 
@@ -779,17 +854,5 @@ Revision 1.29  2015/07/04 08:37:33  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.28  2015/06/29 16:29:37  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.27  2015/01/15 07:10:16  revo
-Sergio Pokrovskij: TEZ
-
-Revision 1.26  2015/01/06 07:10:14  revo
-Sergio Pokrovskij: +~a konsonanto
-
-Revision 1.25  2012/09/05 08:10:39  revo
-Marc Rausell: + trd ca
-
-Revision 1.24  2010/06/09 16:30:20  revo
 -->
 </vortaro>

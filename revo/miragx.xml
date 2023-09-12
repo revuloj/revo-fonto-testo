@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: miragx.xml,v 1.15 2010/08/03 16:31:28 revo Exp $">
+<art mrk="$Id: miragx.xml,v 1.18 2023/09/02 06:04:12 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>mira&gcirc;</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -26,14 +25,13 @@
   <snc mrk="miragx.0o.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Erariga alloga <ref tip="super" 
-      cel="iluzi.0o.KOMUNE">iluzio</ref>:
+      Erariga alloga <ref tip="super" cel="iluzi.0o.KOMUNE">iluzio</ref>:
       <ekz>
         pensu pri la mondo kiel pri veziko; rigardu &gcirc;in kiel <tld/>on
         <fnt>
           <aut>trad. T. T. Anuruddha</aut>,
           <vrk>La Vojo al Nirvano a&ubreve; la Dhammapado, 13:170</vrk>,
-          <lok>B&#7891;-T&aacute;t-Csoma-Instituto por Budhologio, 1973</lok>
+          <lok>B&#x1ED3;-T&aacute;t-Csoma-Instituto por Budhologio, 1973</lok>
         </fnt>
       </ekz>
     </dif>
@@ -54,15 +52,31 @@
     <trd>d&eacute;lib&aacute;b</trd>,
     <trd>&aacute;br&aacute;ndk&eacute;p</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8703;&#x6C17;&#x697C;  [<ind>&#x3057;&#x3093;&#x304D;&#x308D;&#x3046;</ind>]</trd>,
+    <trd>&#x5E7B;&#x5F71;  [<ind>&#x3052;&#x3093;&#x3048;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>luchtspiegeling</trd>,
     <trd>fatamorgana</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>mira&zdot;</trd>,
+    <trd>z&lstroke;udzenie optyczne</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>miraj</trd>,
+    <trd>iluzie optic&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_m;&c_i;&c_r;&c_a;&c_zh;</trd>
+  <trd lng="uk">&#x43C;&#x456;&#x440;&#x430;&#x436;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.16 2020/08/29 22:10:32
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.14  2009/03/01 17:33:05  revo
 Russ Williams: + 9OA
 

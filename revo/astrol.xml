@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: astrol.xml,v 1.18 2020/01/08 18:10:33 revo Exp $">
+<art mrk="$Id: astrol.xml,v 1.22 2023/08/30 18:23:37 revo Exp $">
 <kap>
   <rad>astrolab</rad>/o
 </kap>
@@ -16,22 +15,18 @@
       per mezuro de la angula pozicio de astro super la horizonto:
       <ekz>
         de la 16-a jarcento al la 18-a jarcento (kiam la sekstanto estis
-        inventita kaj
-        anstata&ubreve;is la <tld/>on), la <tld/>o estis la &ccirc;efa mara navigilo
+        inventita kaj anstata&ubreve;is la <tld/>on), la <tld/>o estis la &ccirc;efa mara navigilo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=7753"
-              >Astrolabo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=7753">Astrolabo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Geoffrey Chaucer</nom> <klr>[&#8230;]</klr> fami&gcirc;is anka&ubreve; kiel
-        alkemiisto kaj astronomo kaj
-        komponis traktaton pri <tld/>o
+        <nom>Geoffrey Chaucer</nom> <klr>[&#x2026;]</klr> fami&gcirc;is anka&ubreve; kiel
+        alkemiisto kaj astronomo kaj komponis traktaton pri <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=640"
-              >Geoffrey Chaucer</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=640">Geoffrey Chaucer</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -47,25 +42,28 @@
   <trd lng="he">&alef;&samekh;&tet;&resh;&vav;&lamed;&bet;&he;</trd>
   <trd lng="hu">asztrol&aacute;bium</trd>
   <trd lng="it">astrolabio</trd>
+  <trd lng="ja">&#x30A2;&#x30B9;&#x30C8;&#x30ED;&#x30E9;&#x30FC;&#x30D9;</trd>
   <trd lng="ru">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_ja;&c_b;&c_i;&c_ja;</trd>
   <trd lng="sk">hvezd&aacute;rsky uhlomer</trd>
+  <trd lng="uk">&#x430;&#x441;&#x442;&#x440;&#x43E;&#x43B;&#x44F;&#x431;&#x456;&#x44F;</trd>
 </drv>
-    <bld
-      lok="&WCU;/thumb/0/02/MHS_42680_Astrolabe.jpg/576px-MHS_42680_Astrolabe.jpg"
-      prm="CC BY-SA 4.0"
-      >Astrolabe, item 42680 in the collection of the Museum of the
-      History of Science,
-        Oxford
+    <bld lok="&WCU;/thumb/0/02/MHS_42680_Astrolabe.jpg/576px-MHS_42680_Astrolabe.jpg" prm="CC BY-SA 4.0"><tld/>o, kolektero 42680 en Muzeo de Historio kaj Scienco,
+        Oksfordo
         <fnt>
-          <lok><url ref="&WCW;/File:MHS_42680_Astrolabe.jpg"
-              >https://commons.wikimedia.org/wiki/File:MHS_42680_Astrolabe.jpg</url></lok>
+          <lok><url ref="&WCW;/File:MHS_42680_Astrolabe.jpg">&WCW;/File:MHS_42680_Astrolabe.jpg</url></lok>
         </fnt>
     </bld>
 </art>
 <!--
-$Log: astrol.xml,v $
-versio 1.18 2020/01/08 18:10:33
-Lusi Rimon: aldono hebrea&bildo
+$Log$
+versio 1.21 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.19 2020/12/20 20:10:31
+Wolfram Diestel: e-igis la bildsubskribon
+
+Revision 1.18  2020/01/08 17:10:31  revo
+Lusi Rimon: aldono hebrea&amp;bildo
 
 Revision 1.17  2019/01/21 18:10:20  revo
 Wolfram Diestel: +ekz-oj
@@ -80,11 +78,5 @@ Revision 1.14  2012/01/31 18:10:20  revo
 Antonio Codazzi: +trd it
 
 Revision 1.13  2009/12/06 17:30:32  revo
-Wieland Pusch: +trd bg
-
-Revision 1.12  2009/12/01 17:30:26  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.11  2003/11/13 18:49:00  revo
 -->
 </vortaro>

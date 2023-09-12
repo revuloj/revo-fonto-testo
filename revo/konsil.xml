@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: konsil.xml,v 1.19 2009/09/07 16:31:17 revo Exp $">
+<art mrk="$Id: konsil.xml,v 1.39 2023/09/08 14:27:07 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konsil</rad>/i <fnt><bib>PV</bib></fnt>
@@ -17,28 +16,23 @@
       <ekz>
         la kuracisto <tld/>is al mi iri en &scirc;vitbanejon
         <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         la montritajn na&ubreve; vortojn mi <tld/>as bone ellerni
         <fnt><bib>F</bib>, <lok>&FE; 30</lok></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         oni <tld/>as kaj konsolas sed helpi ne
         volas<fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         ne<tld/>ebla karaktero<fnt>Z</fnt>
         <klr>(kiu ne volas esti <tld/>ata)</klr>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         nek helpeble, nek <tld/>eble
         <fnt>
           <bib>PrV</bib>
         </fnt>
         <klr>(pp tute embarasita situacio, pri kiu oni povas nek helpi,
         nek <tld/>i)</klr>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         kie ne estas <tld/>eble, tie ne estas helpeble
         <klr>(necesas <tld/>i por helpi)</klr>
         <fnt>
@@ -49,6 +43,10 @@
   </snc>
   <ref tip="sin" cel="rekome.0i.agon">rekomendi</ref>
   <ref tip="super" cel="instig.0i">instigi</ref>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="cs">radit</trd>
   <trd lng="es">aconsejar</trd>
   <trdgrp lng="de">
@@ -59,9 +57,14 @@
   <trdgrp lng="en"><trd>to advise</trd>, <trd>counsel</trd></trdgrp>
   <trd lng="fr">conseiller</trd>
   <trdgrp lng="id">
-    <trd>[<ind>anjur</ind>] menganjurkan</trd>,
-    <trd>[<ind>nasihat</ind>] menasihati</trd>,
-    <trd>[<ind>saran</ind>] menyarankan</trd>
+    <trd>meng<ind>anjur</ind>kan</trd>,
+    <trd>me<ind>nasihat</ind>i</trd>
+  </trdgrp>
+  <trd lng="id"><baz>saran</baz>menyarankan</trd>
+  <trdgrp lng="ja">
+    <trd>&#x52A9;&#x8A00;&#12377;&#x308B;  [<ind>&#12376;&#12423;&#12370;&#12435;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x52E7;&#12417;&#x308B;  [<ind>&#12377;&#12377;&#12417;&#x308B;</ind>]</trd>,
+    <trd>&#x5FE0;&#x544A;&#12377;&#x308B;  [<ind>&#12385;&#12421;&#12358;&#12371;&#x304F;&#12377;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">aanraden</trd>
   <trd lng="ms">menasihat</trd>
@@ -88,28 +91,31 @@
       <ekz>
         sa&gcirc;ulo a&ubreve;skultas <tld/>on
         <fnt>
-          <bib>MT</bib>
-          <lok>Sentencoj 12:15</lok>
+          <bib>MT</bib>. <lok>Sentencoj 12:15</lok></fnt>;
+      </ekz><ekz>
+        Kaj vi de mi akceptu la <tld/>on, //
+        Ne amu tro la sunon kaj la stelojn
+        <fnt>
+          <aut>Goeto, tr. &Z;</aut>:
+          <vrk>Ifigenio en Ta&ubreve;rido</vrk>. <lok>3:1</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
+        vi ne sekvis la <tld/>on de fidelulo!
+        <fnt>
+          <aut>Goeto, tr. &Z;</aut>:
+          <vrk>Ifigenio en Ta&ubreve;rido</vrk>. <lok>4:2</lok>
+        </fnt>;
+      </ekz><ekz>
         montroj kaj <tld/>oj estas facilaj
         <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         post dorma trankvilo venas bona <tld/>o
         <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         peti <tld/>on de iu
         <fnt>
-          <bib>MT</bib>
-          <lok>Jesaja 40:14</lok>
-        </fnt>
-        <fnt>
-          <bib>Far2</bib>
-          <lok>&Ccirc;apitro XXIII</lok>
-        </fnt>.
+          <bib>MT</bib>. <lok>Jesaja 40:14</lok></fnt>
+        <fnt><bib>Far2</bib>. <lok>&Ccirc;apitro XXIII</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -145,11 +151,9 @@
       <ekz>
         kontra&ubreve; &ccirc;iu malfacilo ekzistas <tld/>o
         <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         ni ne scias alian <tld/>on ol prokrasti la aferon;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         ne ekzistas sa&gcirc;o, ne ekzistas prudento,
         ne ekzistas <tld/>o kontra&ubreve; la Eternulo
         <fnt>
@@ -185,6 +189,9 @@
     <trd lng="pl">rada</trd>
     -->
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_d;&c_a;</trd>
+  <trd
+  lng="bo">&#xF56;&#xF66;&#xFB3;&#xF56;&#xF0B;&#xF56;&#xFB1;&#xF0B;&#xF62;&#xF92;&#xFB1;&#xF42;&#xF0B;</trd>
   <trd lng="cs">rada <klr>(ud&ecaron;lovan&aacute;)</klr></trd>
   <trdgrp lng="en">
     <trd>council</trd>,
@@ -193,9 +200,14 @@
   <trd lng="fr">conseil</trd>
   <trdgrp lng="id">
     <trd>advis</trd>,
-    <trd><ind>anjur</ind> anjuran</trd>,
+    <trd><ind>anjur</ind>an</trd>,
     <trd>nasihat</trd>,
     <trd>saran</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x52A9;&#x8A00;  [<ind>&#12376;&#12423;&#12370;&#12435;</ind>]</trd>,
+    <trd>&#x52E7;&#x544A;  [<ind>&#x304B;&#12435;&#12371;&#x304F;</ind>]</trd>,
+    <trd>&#x5FE0;&#x544A;  [<ind>&#12385;&#12421;&#12358;&#12371;&#x304F;</ind>]</trd>
   </trdgrp>
   <trd lng="ru">&c_s;&c_o;&c_v;&c_je;&c_t;</trd>
   <trd lng="sk">rada</trd>
@@ -207,6 +219,7 @@
   <snc mrk="konsil.0anaro.KOMUNE">
     <ref tip="dif" cel="konsil.0istaro"><tld/>istaro</ref>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>konsilium</trd>,
     <trd>rada <klr>(sbor)</klr></trd>
@@ -232,22 +245,19 @@
         <fnt>
           <bib>BdV</bib>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         kortega <tld/>anto
         <fnt>
           <bib>Revizoro</bib>
           <lok>Akto kvara</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         kortegano-<tld/>anto
         <fnt>
           <bib>Hamlet</bib>
         </fnt>;
-      </ekz>
-      <ekz>
-        venko venas per multe da <tld/>antoj  
+      </ekz><ekz>
+        venko venas per multe da <tld/>antoj
         <fnt>
           <bib>MT</bib>
           <lok>Sentencoj 24:6</lok>
@@ -255,6 +265,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_a;&c_r;&c_a;&c_d;&c_c;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>konzultant</trd>,
     <trd>poradce</trd>,
@@ -272,7 +283,11 @@
   <trd lng="fr">conseiller</trd>
   <trdgrp lng="id">
     <trd>konselor</trd>,
-    <trd>[<ind>nasihat</ind>] penasihat</trd>
+    <trd>pe<ind>nasihat</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x52A9;&#x8A00;&#32773;  [<ind>&#12376;&#12423;&#12370;&#12435;&#12375;&#12419;</ind>]</trd>,
+    <trd>&#39015;&#x554F;  [<ind>&#12371;&#12418;&#12435;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>raadgever</trd>,
@@ -295,7 +310,7 @@
 <drv mrk="konsil.0antaro">
   <kap><tld/>antaro</kap>
   <snc mrk="konsil.0antaro.KOMUNE">
-    <dif> 
+    <dif>
       <ref tip="dif" cel="konsil.0istaro"><tld lit="K"/>istaro</ref>:
       <ekz>
         li povas pli bone klarigi &ccirc;ion al mia sinjoro, &ccirc;ar li estas
@@ -304,8 +319,7 @@
           <bib>Far3</bib>
           <lok>&Ccirc;apitro V</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         sidanta en la <tld/>antaro de la sa&gcirc;uloj
         <fnt>
           <bib>MT</bib>
@@ -314,6 +328,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>konsilium</trd>,
     <trd>rada <klr>(sbor)</klr></trd>
@@ -321,6 +336,7 @@
   <trd lng="en">council</trd>
   <trd lng="fr">conseil<klr> (groupe de conseillers)</klr></trd>
   <trd lng="id">dewan</trd>
+  <trd lng="ja">&#39015;&#x554F;&#x56E3;  [<ind>&#12371;&#12418;&#12435;&#12384;&#12435;</ind>]</trd>
   <trd lng="nl">raad<klr tip="ind"> (raadgevend
   lichaam)</klr></trd>
   <trd lng="pl">rada <klr>(organ doradczy)</klr></trd>
@@ -340,8 +356,7 @@
           <bib>Fab2</bib>
           <lok>La najtingalo</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         la jura <tld/>isto <klr>[&#8230;]</klr> havis tre bone en la memoro la
         okazinta&jcirc;ojn de la jaro 1801
         <fnt>
@@ -366,14 +381,12 @@
           <bib>LR</bib>
           <lok>11. Verboj</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         ni vokos &ccirc;iujn sa&gcirc;ajn <tld/>istojn
         <fnt>
           <bib>Hamlet</bib>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         li estis la <tld/>isto de la milita ministro
         <fnt>
           <bib>Far2</bib>
@@ -392,6 +405,10 @@
       <trd>&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_n;&c_t;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_r;&c_a;&c_d;&c_c;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_n;&c_t;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>konzultant</trd>,
     <trd>poradce</trd>,
@@ -402,6 +419,12 @@
     <trd>adviser</trd>, <trd>advisor</trd>, <trd>consultant</trd>
   </trdgrp>
   <trd lng="fr">conseiller</trd>
+  <trdgrp lng="ja">
+    <trd>&#x53C2;&#x8B70;  [<ind>&#12373;&#12435;&#x304E;</ind>]</trd>,
+    <trd>&#39015;&#x554F;&#x5B98;  [<ind>&#12371;&#12418;&#12435;&#x304B;&#12435;</ind>]</trd>,
+    <trd>&#x53C2;&#x4E8B;&#x5B98;  [<ind>&#12373;&#12435;&#12376;&#x304B;&#12435;</ind>]</trd>,
+    <trd>&#x53C2;&#x8B70;&#38498;&#x8B70;&#x54E1;  [<ind>&#12373;&#12435;&#x304E;&#12356;&#12435;&#x304E;&#12356;&#12435;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>poradca</trd>,
     <trd>radca</trd>
@@ -416,8 +439,7 @@
       distrikto ktp:
       <ekz>
         la <tld/>istaro de la Ligo de Nacioj;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         la re&gcirc;o kunvokis la <tld/>istaron
         <fnt>
           <bib>ElektFab</bib>
@@ -430,6 +452,7 @@
     <ref cel="komita.0o">komitato</ref>.
     </refgrp>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_a;</trd>
   <trdgrp lng="de">
     <trd>Rat</trd>,
     <trd>Ratsversammlung</trd>
@@ -455,15 +478,13 @@
           <bib>MT</bib>
           <lok>II. Re&gcirc;oj 6:8</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         li <tld/>i&gcirc;is kun siaj eminentuloj kaj fortuloj
         <fnt>
           <bib>MT</bib>
           <lok>II. Kroniko 32:3</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         mi devas <klr>[&#8230;]</klr> inter<tld/>i&gcirc;i kun miaj servistoj
         <fnt>
           <bib>Far3</bib>
@@ -472,6 +493,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>um Rat fragen</trd>,
     <trd>um Rat bitten</trd>,
@@ -482,7 +507,12 @@
     <trd>consult <klr>(with someone)</klr></trd>
   </trdgrp>
   <trd lng="fr">demander conseil</trd>
-  <trd lng="id">[<ind>konsultasi</ind>] berkonsultasi</trd>
+  <trd lng="id">ber<ind>konsultasi</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x52A9;&#x8A00;&#12434;&#x6C42;&#12417;&#x308B;  [<ind>&#12376;&#12423;&#12370;&#12435;&#12434;&#12418;&#12392;&#12417;&#x308B;</ind>]</trd>,
+    <trd>&#x76F8;&#x8AC7;&#12377;&#x308B;  [<ind>&#x305D;&#12358;&#12384;&#12435;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x5BE9;&#x8B70;&#12377;&#x308B;  [<ind>&#12375;&#12435;&#x304E;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">beraadslagen</trd>
   <trdgrp lng="pl">
     <trd>radzi&cacute; si&eogonek;</trd>,
@@ -512,6 +542,7 @@
       <ref cel="admon.de0i">deadmoni</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_a;&c_d;&c_r;&c_a;&c_ib;&c_c;&c_mol;</trd>
   <trdgrp lng="de">
     <trd>abraten</trd>
   </trdgrp>
@@ -521,6 +552,12 @@
   </trdgrp>
   <trd lng="es">desaconsejar</trd>
   <trd lng="fr">d&eacute;conseiller</trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#12375;&#x306A;&#12356;&#12424;&#12358;&#x52E7;&#12417;&#x308B;  [&#xFF5E;<ind>&#12375;&#x306A;&#12356;&#12424;&#12358;&#12377;&#12377;&#12417;&#x308B;</ind>]</trd>,
+    <trd>&#12420;&#12417;&#x308B;&#12424;&#12358;&#x306B;&#x8A00;&#12358;  [<ind>&#12420;&#12417;&#x308B;&#12424;&#12358;&#x306B;&#12356;&#12358;</ind>]</trd>,
+    <trd>&#x601D;&#12356;&#12392;&#x307E;&#12425;&#x305B;&#x308B; 
+    [<ind>&#x304A;&#12418;&#12356;&#12392;&#x307E;&#12425;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">afraden</trd>
   <trd lng="pl">odradza&cacute;</trd>
   <trd lng="ru">&c_o;&c_t;&c_s;&c_o;&c_v;&c_je;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
@@ -532,18 +569,21 @@
     <dif>
       Ne scianta kiel agi kaj ne ricevanta konsilojn pri tio:
       <ekz>
-        ili staris sen<tld/>aj, rigardante sin reciproke per necertaj 
-        rigardoj         
+        ili staris sen<tld/>aj, rigardante sin reciproke per necertaj
+        rigardoj
         <fnt>
           <aut>H. Sienkiewicz, trad. M. Sygnarski</aut>,
-          <vrk><url
-          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0001/0010.php">
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0001/0010.php">
           Tra dezerto kaj praarbaro</url></vrk>,
           <lok>1978</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_r;&c_a;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_zh;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="cs">bezradn&yacute;</trd>
   <trd lng="de">ratlos</trd>
   <trdgrp lng="fr">
@@ -552,7 +592,13 @@
     <trd>&eacute;perdu</trd>
   </trdgrp>
   <trd lng="id">putus asa</trd>
+  <trdgrp lng="ja">
+    <trd>&#36884;&#x65B9;&#x306B;&#x66AE;&#x308C;&#x305F; 
+    [<ind>&#12392;&#x307B;&#12358;&#x306B;&#x304F;&#x308C;&#x305F;</ind>]</trd>,
+    <trd>&#x304A;&#x624B;&#x4E0A;&#12370;&#x306E;  [<ind>&#x304A;&#12390;&#12354;&#12370;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">bezradny</trd>
+  <trd lng="ru">&c_b;&c_je;&c_s;&c_p;&c_o;&c_m;&c_o;&c_shch;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">bezradn&yacute;</trd>
 </drv>
 
@@ -560,51 +606,50 @@
   <kap>sen<tld/>eco</kap>
   <snc mrk="konsil.sen0eco.KOMUNE">
     <dif>
-      Stato de tiu, kiu agas sen memcerto, ne sciante &ccirc;u bone a&ubreve; 
+      Stato de tiu, kiu agas sen memcerto, ne sciante &ccirc;u bone a&ubreve;
       malbone:
       <ekz>
-        liaj problemoj ligi&gcirc;as <klr>...</klr> al la 
+        liaj problemoj ligi&gcirc;as <klr>...</klr> al la
         sen<tld/>eco de patrino devanta lin eduki sola
         <fnt>
           <aut>C. Piron</aut>,
-          <vrk><url
-          ref="http://esperanto.org.uk/eldonoj/piron/tekstoj/Tien.html">
+          <vrk><url ref="http://esperanto.org.uk/eldonoj/piron/tekstoj/Tien.html">
           Tien</url></vrk>,
           <lok>1997</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_b;&c_je;&c_z;&c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="de">Ratlosigkeit</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;tresse</trd>,
     <trd>trouble</trd>
   </trdgrp>
-  <trd lng="id">[<ind>putus asa</ind>] keputusasaan</trd>
+  <trd lng="id"><baz>putus asa</baz>keputusasaan</trd>
   <trd lng="pl">bezradno&sacute;&cacute;</trd>
+  <trd lng="ru">&c_b;&c_je;&c_s;&c_p;&c_o;&c_m;&c_o;&c_shch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">bezradnos&tcaron;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.29  2017/11/07 20:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn, dif chirkau dif-ref, germ trd
+versio 1.39 2023/09/08 14:27:07
+Wolfram Diestel: kor. ja ind.
 
-Revision 1.28  2017/01/28 12:10:18  revo
-Adam Eng: + trd
+versio 1.37 2022/11/28 14:28:00
+Dmitri Gabinski: + trd be
 
-Revision 1.27  2016/10/03 11:10:36  revo
-Sebastian Cyprych: +trd pl
+versio 1.36 2021/08/17 15:34:13
+Sergio Pokrovskij: +ekz, +trd=ru
 
-Revision 1.26  2016/02/08 20:10:17  revo
-Alain Gerard: +trd fr
+versio 1.34 2021/04/12 07:07:59
+Dmitri Gabinski: +trd uz
 
-Revision 1.25  2015/11/23 18:10:12  revo
-Cindy Moon McKee: +trd en
+versio 1.33 2020/05/05 08:10:35
+Eko Nur Syah Hidayat: korekteto
 
-Revision 1.24  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.23  2015/06/29 16:33:18  revo
+versio 1.32 2020/05/03 05:10:38
+Eko Nur Syah Hidayat: korekteto
 -->
 </vortaro>

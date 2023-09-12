@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rosin.xml,v 1.13 2023/09/03 07:53:12 revo Exp $">
 <kap>
   <rad>rosin</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -25,12 +24,11 @@
       </ekz>
       <ekz>
         tradicia e&ubreve;ropa fruktosalato konsistas el &scirc;elitaj dispecigitaj pomoj, piroj,
-        oran&gcirc;oj kaj bananoj <klr>[&#8230;]</klr> anka&ubreve; sekaj fruktoj kiel <tld/>oj, aveloj,
+        oran&gcirc;oj kaj bananoj <klr>[&#x2026;]</klr> anka&ubreve; sekaj fruktoj kiel <tld/>oj, aveloj,
         migdaloj ktp. estas foje aldonitaj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=248072"
-              >Fruktosalato</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=248072">Fruktosalato</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -52,12 +50,18 @@
     <trd>raisin de Corinthe</trd>
   </trdgrp>
   <trd lng="hu">mazsola</trd>
+  <trd lng="ja">&#x30EC;&#x30FC;&#x30BA;&#x30F3;</trd>
   <trd lng="pl">rodzynek</trd>
   <trdgrp lng="pt">
     <trd>uva-passa</trd>,
     <trd>passa <klr>(de uva)</klr></trd>
   </trdgrp>
   <trd lng="sk">hrozienko</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x434;&#x437;&#x438;&#x43D;&#x43A;&#x430;</trd>,
+    <trd>&#x456;&#x437;&#x44E;&#x43C;</trd>,
+    <trd>&#x43A;&#x438;&#x448;&#x43C;&#x438;&#x448;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: nuk.xml,v 1.22 2010/12/02 17:31:13 revo Exp $">
+<art mrk="$Id: nuk.xml,v 1.36 2023/09/03 06:36:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nuk</rad>/o
@@ -29,7 +28,7 @@
       Malanta&ubreve;a parto de la kapo,
       <ref tip="sin" cel="okcipi.0o">okcipito</ref>:
       <ekz>
-        Antono dubeme gratis sian <tld/>&c_o;n
+        Antono dubeme gratis sian <tld/>on
         <fnt><aut>Hans Weinhengst</aut>:
           <vrk>Tur-Strato 4</vrk>
           <lok>Literatura Mondo, Budapest, 1934</lok></fnt>;
@@ -76,6 +75,12 @@
     <trd>tengkuk</trd>
   </trdgrp>
   <trd lng="it">nuca</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3046;&#x306A;&#x3058;</trd>,
+    <trd>&#x9996;&#x7B4B;  [<ind>&#x304F;&#x3073;&#x3059;&#x3058;</ind>]</trd>,
+    <trd>&#x895F;&#x9996;  [<ind>&#x3048;&#x308A;&#x304F;&#x3073;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ne">&#x918;&#x93E;&#x901;&#x91F;&#x940;</trd>
   <trd lng="nl">nek</trd>
   <trd lng="pl">kark</trd>
   <trd lng="pt">nuca</trd>
@@ -86,6 +91,7 @@
     <trd>&scaron;ija</trd>
   </trdgrp>
   <trd lng="sv">nacke</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_t;&c_i;&#x43B;&c_i;&c_c;&#x44F;</trd>
 </drv>
 
 <drv mrk="nuk.rigid0a">
@@ -138,6 +144,10 @@
   </trdgrp>
   <trd lng="id"><ind>keras</ind> kepala</trd>
   <trd lng="it">ostinato<klr> (fiero)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F37;&#x60C5;&#x306A;  [<ind>&#x3054;&#x3046;&#x3058;&#x3087;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x53CD;&#x6297;&#x7684;&#x306A;  [<ind>&#x306F;&#x3093;&#x3053;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">hardnekkig</trd>
   <trdgrp lng="pt">
     <trd>teimoso</trd>,
@@ -156,10 +166,18 @@
     <trd>zatvrdilec</trd>
   </trdgrp>
   <trd lng="sv">styvnackad</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x43E;&c_r;&#x43E;&c_v;&c_i;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&#x43F;&#x43E;&#x43A;&c_ib;&c_r;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&#x43F;&#x43E;&#x43A;&c_ib;&c_r;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.35 2023/05/04 23:26:29
+Robin van der Vliet: cirila litero sxangxita al latina litero, en esperanta teksto
+
 Revision 1.31  2019/11/03 05:10:14  revo
 Sergio Pokrovskij: + okcipito
 

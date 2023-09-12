@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kompoz1.xml,v 1.13 2007/12/07 17:30:36 revo Exp $">
+<art mrk="$Id: kompoz1.xml,v 1.21 2022/03/22 15:44:12 revo Exp $">
 <kap>
   <rad>kompozit</rad>/oj <fnt><bib>PV</bib></fnt>
 </kap>
@@ -21,7 +20,7 @@
       </ekz>
     </dif>
   </snc>
-  <rim mrk="kompoz1.0o.RIM_HOM">
+  <rim mrk="kompoz1.0oj.RIM_HOM">
     <ref tip="hom" cel="kompozit.0o">Kompozito</ref> estas 
     anka&ubreve; nomo de materialo el fibro kaj plasto.
   </rim>
@@ -51,10 +50,17 @@
     <trd>hv&ecaron;zdicovit&eacute;</trd>,
     <trd>slo&zcaron;nokv&ecaron;t&eacute; <klr>(&ccaron;ele&dcaron;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&#x439;&#x441;&#x442;&#x440;&#x43E;&#x432;&#x456;</trd>,
+    <trd>&#x441;&#x43A;&#x43B;&#x430;&#x434;&#x43D;&#x43E;&#x446;&#x432;&#x456;&#x442;&#x456;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2021/05/13 13:13:04
+Wolfram Diestel: kor. rim@mrk
+
 Revision 1.18  2018/06/15 22:10:20  revo
 Vito Redsky: +trd pl +trd ro
 

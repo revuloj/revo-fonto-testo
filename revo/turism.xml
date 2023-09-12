@@ -1,23 +1,81 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: turism.xml,v 1.37 2023/09/04 19:01:55 revo Exp $">
 <kap>
   <ofc>2</ofc>
-  <rad>turism</rad>/o <fnt><bib>PV</bib></fnt>
+  <rad>turism</rad>/o <fnt><bib>Paroloj</bib></fnt>
 </kap>
 <drv mrk="turism.0o">
   <kap><tld/>o</kap>
   <snc mrk="turism.0o.TUR">
     <dif>
-      Voja&gcirc;ado a&ubreve; ekskursado por plezuro a&ubreve; sporto.
+      Voja&gcirc;ado a&ubreve; ekskursado por plezuro a&ubreve; sporto:
+      <ekz>
+        ne vidama <tld/>o en&scirc;ipigis nin
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto
+          1910</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a duoninsulo kun belegaj strandoj, klifoj, fi&scirc;havenoj
+        <fnt>
+          <aut>Josette Ducloyer</aut>
+          <vrk><url ref="&Monato;/2000/006851.php">Quimper</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a industrio
+        <fnt>
+       <aut>Thomas Eccardt</aut>
+          <vrk><url ref="&Monato;/2000/006859.php">Urbeto a&ubreve; sendependa lando?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>o-agentejo</ind>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hori Jasuo</aut>
+          <vrk><url ref="&Monato;/2006/008864.php">Kiam beboj fari&gcirc;as malbeboj</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+        <trd lng="de">Reiseb&uuml;ro</trd>
+      </ekz>
+      <ekz>
+        verki <klr>[&#x2026;]</klr> turisman gvidilon pri Santiago
+        <fnt>
+          <aut>Rafaela Urue&ntilde;a</aut>
+          <vrk><url ref="&Monato;/2000/006809.php">Vojoj al la sankta urbo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> insulo Komodo estas jam unu el la &ccirc;efaj <tld/>a&jcirc;oj de Indonezio
+        <fnt>
+          <aut>Wim de Smet</aut>
+          <vrk><url ref="&Monato;/2000/006900.php">La &leftquot;drakoj&#x201D; de Komodo:
+          Gigantaj bestoj sur izola insulo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 18</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="turist.0o">turisto</ref>,
+       <ref cel="vid.0indajxo">vidinda&jcirc;o</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_t;&c_u;&c_r;&c_y;&c_z;&c_m;</trd>
   <trd lng="ca">turisme</trd>
   <trdgrp lng="cs">
-    <trd>cizinecký ruch</trd>,
+    <trd>cizineck&yacute; ruch</trd>,
     <trd>turistika</trd>,
     <trd>turizmus</trd>
   </trdgrp>
@@ -30,16 +88,140 @@
     <trd>turizmus</trd>
   </trdgrp>
   <trd lng="it">turismo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x89B3;&#x5149;  [<ind>&#x304B;&#x3093;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x89B3;&#x5149;&#x65C5;&#x884C;  [<ind>&#x304B;&#x3093;&#x3053;&#x3046;&#x308A;&#x3087;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x89B3;&#x5149;&#x4E8B;&#x696D;  [<ind>&#x304B;&#x3093;&#x3053;&#x3046;&#x3058;&#x304E;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">toerisme</trd>
   <trd lng="pl">turystyka</trd>
   <trd lng="pt">turismo</trd>
   <trd lng="ru">&c_t;&c_u;&c_r;&c_i;&c_z;&c_m;</trd>
   <trdgrp lng="sk">
-    <trd>cestovný ruch</trd>,
+    <trd>cestovn&yacute; ruch</trd>,
     <trd>turistika</trd>
   </trdgrp>
   <trd lng="sv">turism</trd>
+  <trd lng="uk">&c_t;&c_u;&c_r;&c_i;&c_z;&c_m;</trd>
 </drv>
+
+<drv mrk="turism.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="vojagx.0i">Voja&gcirc;i</ref> pro plezuro a&ubreve; sporto:
+      <ekz>
+        &ccirc;iujare centmiloj da germanoj <tld/>as en Italio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2003/008168.html">EU-reformeto</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <tld/>os en historia palaco, la budhisma mona&hcirc;ejo <nom>Rumtek</nom> kaj &ccirc;e la belega
+        lago <nom>Cangu</nom>
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Internacia Ekskurso &ccirc;e Katmando</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[krom]</klr> viziti la gepatrojn <klr>[&#x2026;]</klr>
+        ni do <tld/>as nur iomete, flanke, gvidate de &ccirc;i tiuj plej a&ubreve;tentaj barcelonanoj
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>Tiel la mondo...</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="vojagx.rond0i">rondvoja&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de"><ind>Tourismus</ind> betreiben</trd>
+  <trd lng="ja">&#x89B3;&#x5149;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3053;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+</drv>
+
+
+<drv mrk="turism.agro0o">
+  <kap>agro<tld/>o</kap>
+  <snc mrk="turism.agro0o.TUR">
+    <dif>
+      <ref tip="vid" cel="feri.0i">Feriado</ref> en 
+      <ref tip="vid" cel="bien.0o.kampara">farmbieno</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_g;&c_r;&c_a;&c_t;&c_u;&c_r;&c_y;&c_z;&c_m;</trd>
+  <trd lng="ca">agro<ind>turisme</ind></trd>
+  <trd lng="cs">agroturistika</trd>
+  <trd lng="de"><ind>Ferien</ind> auf dem Bauernhof</trd>
+  <trd lng="en">farm holidays</trd>
+  <trd lng="es">turismo rural</trd>
+  <trd lng="fr">vacances &agrave; la ferme</trd>
+  <trd lng="hu">falusi <ind>turizmus</ind></trd>
+  <trd lng="it">agriturismo</trd>
+  <trd lng="pl">agroturystyka</trd>
+  <trd lng="sk">agroturistika</trd>
+</drv>
+
+<drv mrk="turism.san0o">
+  <kap>san<tld/>o</kap>
+  <snc mrk="turism.san0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Vizito al alia lando por profiti &gcirc;iajn
+      pli bonajn sanservojn, malsanulejojn...:
+      <ekz>
+        en la hispana gazetaro okazas populisma
+        diskuto pri la san<tld/>o
+        <fnt>
+          <aut>A. Kuenzli</aut>,
+          <vrk>en <url ref="http://www.liberafolio.org/2013/ribelo-skuas-civitan-sidejon#1378372617651258">
+          Ribelo skuas Civitan sidejon</url></vrk>,
+          <lok>libera folio, 2013-09-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_e;&c_d;&c_y;&c_c;&c_y;&c_n;&c_s;&c_k;&c_ib; <ind>&c_t;&c_u;&c_r;&c_y;&c_z;&c_m;</ind></trd>,
+    <trd>&c_a;&c_z;&c_d;&c_a;&c_r;&c_a;&c_w;&c_l;&c_je;&c_n;&c_ch;&c_y; <ind>&c_t;&c_u;&c_r;&c_y;&c_z;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Gesundheitstourismus</trd>
+  <trdgrp lng="fr">
+    <trd>tourisme m&eacute;dical</trd>,
+    <trd>tourisme sanitaire</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="turism.seks0o">
+  <kap>seks<tld/>o</kap>
+  <snc mrk="turism.seks0o.TUR">
+    <dif>
+      Turismado en lando
+      por profiti tiean prostituadon:
+      <ekz>
+        &leftquot;<nac>I'm not in Thailand only for ruins</nac>&rightquot;,
+        flustras en lia orelo kvindekjara turisto,
+        fiera subtenanto de seks<tld/>o
+        <fnt>
+          <aut>S. Bellenger, trad. B.-A. Legault</aut>,
+          <vrk><url ref="http://eo.hades-presse.com/n2/tajlando.shtml">
+          Tajlanda turismo por vakeroj</url></vrk>,
+          <lok>Hades, [2009?], (2)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_e;&c_k;&c_s;-&c_t;&c_u;&c_r;&c_y;&c_z;&c_m;</trd>
+  <trd lng="de">Sextourismus</trd>
+  <trd lng="fr">tourisme sexuel</trd>
+</drv>
+
 
 <drv mrk="turism.Monda_Organizajxo_pri_T0o">
   <kap>Monda Organiza&jcirc;o pri <tld lit="T"/>o</kap>
@@ -48,8 +230,7 @@
   <snc mrk="turism.Monda_Organizajxo_pri_T0o.POL">
     <uzo tip="fak">POL</uzo>
     <dif>
-      Speciala <ref tip="lst"
-cel="organi2.0ajxo" lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
+      Speciala <ref tip="lst" cel="organi2.0ajxo" lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
       <ref tip="malprt" cel="naci.Unuigxintaj_0oj">Unui&gcirc;intaj
 Nacioj</ref>
       por akceli inter&scirc;tatan <tld/>on:
@@ -58,10 +239,10 @@ Nacioj</ref>
         la&ubreve;dis Latvion kaj Estonion pro progreso, atingita en
         turismo.
         <fnt><aut>LAST</aut>,
-        <vrk><url ref="&Monato;/007005.html">Pozitiva
+        <vrk><url ref="&Monato;/2000/007005.html">Pozitiva
 evoluo</url></vrk>,
         <bib>Monato</bib>,
-        <lok>2000:08</lok>
+        <lok>2000/08</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -71,9 +252,10 @@ evoluo</url></vrk>,
     <trd>Organitzaci&oacute; Mundial del Turisme</trd>,
     <trd>OMT</trd>
   </trdgrp>
+  <trd lng="de">Weltorganisation f&uuml;r Tourismus</trd>
   <trdgrp lng="en">
     <trd>World <ind>Tourism</ind> Organisation</trd>,
-    <trd>WTO</trd>
+    <trd>UNWTO</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>Organizaci&oacute;n Mundial del <ind>Turismo</ind></trd>,
@@ -108,101 +290,30 @@ evoluo</url></vrk>,
   </trdgrp>
 </drv>
 
-<drv mrk="turism.agro0o">
-  <kap>agro<tld/>o</kap>
-  <snc mrk="turism.agro0o.TUR">
-    <dif>
-      <ref tip="vid" cel="feri.0i">Feriado</ref> en 
-      <ref tip="vid" cel="bien.0o.kampara">farmbieno</ref>.
-    </dif>
-  </snc>
-  <trd lng="be">&c_a;&c_g;&c_r;&c_a;&c_t;&c_u;&c_r;&c_y;&c_z;&c_m;</trd>
-  <trd lng="ca">agro<ind>turisme</ind></trd>
-  <trd lng="cs">agroturistika</trd>
-  <trd lng="de">Ferien auf dem Bauernhof</trd>
-  <trd lng="en">farm holidays</trd>
-  <trd lng="es">turismo rural</trd>
-  <trd lng="fr">vacances &agrave; la ferme</trd>
-  <trd lng="hu">falusi <ind>turizmus</ind></trd>
-  <trd lng="it">agriturismo</trd>
-  <trd lng="pl">agroturystyka</trd>
-  <trd lng="sk">agroturistika</trd>
-</drv>
-
-<drv mrk="turism.san0o">
-  <kap>san<tld/>o</kap>
-  <snc mrk="turism.san0o.MED">
-    <uzo tip="fak">MED</uzo>
-    <dif>
-      Vizito al alia lando por profiti &gcirc;iajn
-      pli bonajn sanservojn, malsanulejojn...:
-      <ekz>
-        en la hispana gazetaro okazas populisma
-        diskuto pri la san<tld/>o
-        <fnt>
-          <aut>A. Kuenzli</aut>,
-          <vrk>en <url
-          ref="http://www.liberafolio.org/2013/ribelo-skuas-civitan-sidejon#1378372617651258">
-          Ribelo skuas Civitan sidejon</url></vrk>,
-          <lok>libera folio, 2013-09-05</lok>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="fr">
-    <trd>tourisme m&eacute;dical</trd>,
-    <trd>tourisme sanitaire</trd>
-  </trdgrp>
-</drv>
-
-<drv mrk="turism.seks0o">
-  <kap>seks<tld/>o</kap>
-  <snc mrk="turism.seks0o.TUR">
-    <dif>
-      Turismado en lando
-      por profiti tiean prostituadon:
-      <ekz>
-        &leftquot;I'm not in Thailand only for ruins&#8223;,
-        flustras en lia orelo kvindekjara turisto,
-        fiera subtenanto de seks<tld/>o
-        <fnt>
-          <aut>S. Bellenger, trad. B.-A. Legault</aut>,
-          <vrk><url ref="http://eo.hades-presse.com/n2/tajlando.shtml">
-          Tajlanda turismo por vakeroj</url></vrk>,
-          <lok>Hades, [2009?], (2)</lok>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="fr">tourisme sexuel</trd>
-</drv>
 </art>
 <!--
 $Log$
-Revision 1.24  2015/06/29 16:40:20  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.36 2023/04/24 16:35:01
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.23  2013/09/14 16:10:23  revo
-Wolfram Diestel: MOT: ref al lst organizajhoj
+versio 1.35 2023/04/13 18:31:26
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.22  2013/09/14 01:10:16  revo
-Jeromo Vasxe: + san/seks~o
+versio 1.34 2023/04/13 16:34:24
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.21  2013/04/03 14:10:08  revo
-Antonio Codazzi: +tr it
+versio 1.33 2023/04/13 15:27:16
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.20  2012/08/14 15:10:32  revo
-Marc Rausell: + trd ca
+versio 1.32 2023/04/11 19:23:02
+aktualigo Monato-URL
 
-Revision 1.19  2012/05/24 11:10:22  revo
-Dmitri Gabinski: +trd be
+versio 1.31 2023/04/10 12:43:45
+Paul Peeraerts: kor de erara ref
 
-Revision 1.18  2008/07/23 16:30:33  revo
-Jozefo Horvath: +trd hu
+versio 1.30 2022/11/28 13:35:32
+Wolfram Diestel: +~i
 
-Revision 1.17  2007/08/27 16:30:24  revo
-Sebastian Cyprych: Monda Organizajxo .. +trd pl
-
-Revision 1.16  2007/08/23 16:30:52  revo
+versio 1.29 2022/07/04 08:49:24
 -->
 </vortaro>

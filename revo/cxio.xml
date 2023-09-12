@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cxio.xml,v 1.23 2009/08/08 16:33:29 revo Exp $">
+<art mrk="$Id: cxio.xml,v 1.29 2023/08/31 10:10:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;io</rad>
@@ -85,6 +84,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_s;&c_jo;</trd>
+  <trd lng="bo">&#xF5A;&#xF44;&#xF0B;&#xF58;&#xF0B;</trd>
   <trd lng="de">alles</trd>
   <trd lng="en">everything</trd>
   <trd lng="es">todo</trd>
@@ -92,6 +92,7 @@
   <trd lng="he">&kaf;&lamed; &dalet;&bet;&resh;</trd>
   <trd lng="hu">minden</trd>
   <trd lng="it">tutto<klr> (ogni cosa)</klr></trd>
+  <trd lng="ja">&#x3059;&#x3079;&#x3066;</trd>
   <trd lng="nl">alles</trd>
   <trd lng="pl">wszystko</trd>
   <trd lng="pt">tudo</trd>
@@ -102,15 +103,19 @@
   </trdgrp>
   <trd lng="ru">&c_v;&c_s;&c_jo;</trd>
   <trd lng="sk">v&scaron;etko</trd>
-  <trdgrp lng="tp">
+  <trdgrp lng="tok">
     <trd>ale</trd>,
     <trd>ali</trd>
   </trdgrp>
+  <trd lng="uk">&#x443;&#x441;&#x435;</trd>
   <trd lng="vo">valikos</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2022/04/26 16:27:52
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.24  2011/12/16 19:10:08  revo
 Eduardo Navas: +trad es
 

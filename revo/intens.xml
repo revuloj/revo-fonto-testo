@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: intens.xml,v 1.17 2010/04/24 17:07:30 revo Exp $">
+<art mrk="$Id: intens.xml,v 1.22 2023/08/31 16:40:58 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>intens</rad>/a
@@ -79,10 +78,17 @@
       <trd>belterjes</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_n;&c_t;&c_e;&c_n;&c_s;&c_y;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_o;&c_c;&c_n;&c_y;</trd>,
+    <trd>&c_ja;&c_r;&c_k;&c_ib;</trd>,
+    <trd>&c_z;&c_y;&c_r;&c_k;&c_ib;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
-    <trd>intenzivní</trd>,
-    <trd>prudký</trd>,
-    <trd>silný</trd>
+    <trd>intenzivn&iacute;</trd>,
+    <trd>prudk&yacute;</trd>,
+    <trd>siln&yacute;</trd>
   </trdgrp>
   <trd lng="de">intensiv</trd>
   <trd lng="es">intenso</trd>
@@ -90,6 +96,14 @@
   <trdgrp lng="fr">
     <trd>intense</trd>,
     <trd>intensif</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5F37;&#x70C8;&#x306A;  [<ind>&#x304D;&#x3087;&#x3046;&#x308C;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x6FC0;&#x3057;&#x3044;  [<ind>&#x306F;&#x3052;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x5F37;&#x5EA6;&#x306E;  [<ind>&#x304D;&#x3087;&#x3046;&#x3069;&#x306E;</ind>]</trd>,
+    <trd>&#x96C6;&#x4E2D;&#x7684;&#x306A;  [<ind>&#x3057;&#x3085;&#x3046;&#x3061;&#x3085;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x96C6;&#x7D04;&#x7684;&#x306A;  [<ind>&#x3057;&#x3085;&#x3046;&#x3084;&#x304F;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x5FB9;&#x5E95;&#x7684;&#x306A;  [<ind>&#x3066;&#x3063;&#x3066;&#x3044;&#x3066;&#x304D;&#x306A;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>intens</trd>,
@@ -102,8 +116,13 @@
     <trd>&c_u;&c_s;&c_i;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>intenzívny</trd>,
-    <trd>prenikavý</trd>
+    <trd>intenz&iacute;vny</trd>,
+    <trd>prenikav&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x456;&#x43D;&#x442;&#x435;&#x43D;&#x441;&#x438;&#x432;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x430;&#x43F;&#x440;&#x443;&#x436;&#x435;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x43E;&#x441;&#x438;&#x43B;&#x435;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
 
@@ -123,6 +142,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_n;&c_t;&c_e;&c_n;&c_s;&c_y;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="cs">intenzita</trd>
   <trd lng="de">Intensit&auml;t</trd>
   <trd lng="es">intensidad</trd>
@@ -132,6 +155,11 @@
     <trd>intenzt&aacute;s</trd>,
     <trd>er&odblac;ss&eacute;g</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6FC0;&#x3057;&#x3055;  [<ind>&#x306F;&#x3052;&#x3057;&#x3055;</ind>]</trd>,
+    <trd>&#x5F37;&#x3055;  [<ind>&#x3064;&#x3088;&#x3055;</ind>]</trd>,
+    <trd>&#x5F37;&#x70C8;  [<ind>&#x304D;&#x3087;&#x3046;&#x308C;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">intensiteit</trd>
   <trd lng="pt">intensidade</trd>
   <trdgrp lng="ru">
@@ -139,10 +167,13 @@
     <trd>&c_n;&c_a;&c_p;&c_r;&c_ja;&c_zh;&c_jo;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_ja;&c_r;&c_k;&c_o;&c_s;&c_t;&c_mol;<klr tip="amb"> (&c_o; 
 &c_c;&c_v;&c_je;&c_t;&c_je;)</klr></trd>,
-    <trd>&c_n;&c_a;&c_s;&c_y;&c_shch;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;<klr 
-tip="amb"> (&c_o; &c_c;&c_v;&c_je;&c_t;&c_je;)</klr></trd>
+    <trd>&c_n;&c_a;&c_s;&c_y;&c_shch;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;<klr tip="amb"> (&c_o; &c_c;&c_v;&c_je;&c_t;&c_je;)</klr></trd>
   </trdgrp>
   <trd lng="sk">intenzita</trd>
+  <trdgrp lng="uk">
+    <trd>&#x456;&#x43D;&#x442;&#x435;&#x43D;&#x441;&#x438;&#x432;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x43D;&#x430;&#x43F;&#x440;&#x443;&#x436;&#x435;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="intens.0igi">
@@ -164,6 +195,11 @@ tip="amb"> (&c_o; &c_c;&c_v;&c_je;&c_t;&c_je;)</klr></trd>
       <ref cel="insist.0i">insisti</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_n;&c_t;&c_e;&c_n;&c_s;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_k;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_z;&c_m;&c_a;&c_c;&c_n;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="cs">intenzifikovat</trd>
   <trd lng="de">intensivieren</trd>
   <trd lng="es">intensificar</trd>
@@ -180,6 +216,10 @@ tip="amb"> (&c_o; &c_c;&c_v;&c_je;&c_t;&c_je;)</klr></trd>
     <trd>intenz&iacute;vebb&eacute; tesz</trd>,
     <trd>feler&odblac;s&iacute;t</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5F37;&#x3081;&#x308B;  [<ind>&#x3064;&#x3088;&#x3081;&#x308B;</ind>]</trd>,
+    <trd>&#x6FC0;&#x3057;&#x304F;&#x3059;&#x308B;  [<ind>&#x306F;&#x3052;&#x3057;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>verhogen</trd>,
     <trd>versterken</trd>
@@ -191,13 +231,20 @@ tip="amb"> (&c_o; &c_c;&c_v;&c_je;&c_t;&c_je;)</klr></trd>
     <trd>&c_u;&c_s;&c_i;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>stupňovať</trd>,
-    <trd>zintenzívniť</trd>
+    <trd>stup&ncaron;ova&tcaron;</trd>,
+    <trd>zintenz&iacute;vni&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x456;&#x43D;&#x442;&#x435;&#x43D;&#x441;&#x438;&#x444;&#x456;&#x43A;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x456;&#x434;&#x441;&#x438;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2021/09/20 15:32:36
+Dmitri Gabinski: kor de be
+
 Revision 1.18  2015/06/29 16:33:16  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -217,11 +264,5 @@ Revision 1.13  2004/02/08 17:49:35  revo
 Marc Bavant: kor ref tip sin; +aldonaj trad fr
 
 Revision 1.12 2003/07/19 16:30:35 revo
-Sergio Pokrovskij: -tajperaroj
-
-Revision 1.11 2003/07/17 16:31:48 revo
-Sergio Pokrovskij: -tajperaro
-
-Revision 1.10 2003/07/16 17:50:46 revo
 -->
 </vortaro>

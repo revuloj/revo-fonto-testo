@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: transi1.xml,v 1.32 2020/02/16 11:10:26 revo Exp $">
+<art mrk="$Id: transi1.xml,v 1.35 2023/09/04 19:01:53 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>transitiv</rad>/a
@@ -28,6 +27,7 @@
     <trd lng="pl">przechodni</trd>
       <trd lng="pt">trasitivo</trd>
     <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_h;&c_o;&c_d;&c_n;&c_y;&c_j; <klr tip="amb">(&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;)</klr></trd>
+    
   </snc>
   <snc mrk="transi1.0a.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -35,11 +35,9 @@
       <fnt><bib>PIV1</bib><lok>rilato</lok></fnt>
       <dif>
         <klr>(p.p. <ref cel="rilat.interna0o">interna rilato</ref>
-        <frm am="bb R"><g>R</g></frm> ene de aro <frm am="bb
-        E"><g>E</g></frm>)</klr>
+        <frm am="bb R"><g>R</g></frm> ene de aro <frm am="bb         E"><g>E</g></frm>)</klr>
         Tia, ke la <ref cel="lig.kun0ajxo.rilatoj">kunliga&jcirc;o</ref>
-        <frm am="bb R circ bb R sub bb
-        R"><g>R</g>&#9702;<g>R</g>&#8834;<g>R</g></frm>:
+        <frm am="bb R circ bb R sub bb         R"><g>R</g>&#x25E6;<g>R</g>&#x2282;<g>R</g></frm>:
         <ekz>
           <ref cel="rilat.idento0o">la idento-rilato</ref> estas
           <tld/>a;
@@ -110,11 +108,13 @@
   <trd lng="en">transitive</trd>
   <trd lng="es">transitivo</trd>
   <trd lng="fr">transitif</trd>
+  <trd lng="ja">&#x4ED6;&#x52D5;&#x306E;  [<ind>&#x305F;&#x3069;&#x3046;&#x306E;</ind>]</trd>
   <trd lng="nl">transitief</trd>
   <trdgrp lng="sk">
     <trd>prechodn&yacute;</trd>,
     <trd>tranzit&iacute;vny</trd>
   </trdgrp>
+<trd lng="th">&#xE2A;&#xE01;&#xE23;&#xE23;&#xE21;&#xE01;&#xE23;&#xE34;&#xE22;&#xE32;</trd>
 </drv>
 
 <drv mrk="transi1.ne0a">
@@ -165,12 +165,21 @@
     <trd>j&iacute;zdou nep&rcaron;ekonateln&yacute;</trd>,
     <trd>nep&rcaron;echodn&yacute;</trd>
   </trdgrp>
+  <trd lng="ja">&#x81EA;&#x52D5;&#x306E;  [<ind>&#x3058;&#x3069;&#x3046;&#x306E;</ind>]</trd>
   <trd lng="sk">neprechodn&yacute; <klr>(sloveso)</klr></trd>
+<trd lng="th">&#xE2D;&#xE01;&#xE23;&#xE23;&#xE21;&#xE01;&#xE23;&#xE34;&#xE22;&#xE32;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x435;&#x43F;&#x435;&#x440;&#x435;&#x445;&#x456;&#x434;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x435;&#x442;&#x440;&#x430;&#x43D;&#x437;&#x438;&#x442;&#x438;&#x432;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log: transi1.xml,v $
-versio 1.32 2020/02/16 11:10:26
+$Log$
+versio 1.33 2020/05/12 07:10:50
+Warut Bunprasert: +trd th
+
+Revision 1.32  2020/02/16 10:10:25  revo
 Wolfram Diestel: formuloj per am
 
 Revision 1.31  2019/11/02 19:10:18  revo
@@ -189,8 +198,5 @@ Revision 1.27  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.26  2015/06/29 16:40:20  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.25  2012/08/14 13:10:14  revo
 -->
 </vortaro>

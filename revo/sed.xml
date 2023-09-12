@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sed.xml,v 1.104 2023/08/02 01:39:01 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>sed</rad>
@@ -92,6 +91,10 @@
        <ref cel="tamen.0">tamen</ref>
      </refgrp>
    </snc>
+  <trd lng="af">maar</trd>
+  <trd lng="am">&#x130D;&#4757;</trd>
+  <trd lng="ar">&a_l;&a_k;&a_n;</trd>
+  <trd lng="az">lakin</trd>
   <trdgrp lng="be">
      <trd>&c_a;&c_l;&c_je;</trd>,
      <trd>&c_a;</trd>
@@ -101,53 +104,146 @@
      <trd>&c_o;&c_b;&c_a;&c_ch;&c_je;</trd>,
      <trd>&c_a;</trd>
    </trdgrp>
+  <trd lng="bn">&#2453;&#x9BF;&#x9A8;&#x9CD;&#x9A4;&#x9C1;</trd>
+  <trd lng="bo">&#xF61;&#xF72;&#xF53;&#xF0B;&#xF53;&#xF0B;&#xF61;&#xF44;&#xF0B;</trd>
+  <trd lng="bs">ali</trd>
+  <trd lng="co">ma</trd>
   <trdgrp lng="cs">
     <trd>ale</trd>,
-    <trd>avšak</trd>,
-    <trd>jenže</trd>,
-    <trd>nýbrž</trd>,
-    <trd>ovšem</trd>,
-    <trd>ovšemže</trd>
+    <trd>av&scaron;ak</trd>,
+    <trd>jen&#x17E;e</trd>,
+    <trd>n&#xFD;br&#x17E;</trd>,
+    <trd>ov&scaron;em</trd>,
+    <trd>ov&scaron;em&#x17E;e</trd>
   </trdgrp>
-  <trd lng="de">aber</trd>
+  <trd lng="cy">ond</trd>
+  <trd lng="da">men</trd>
+    <trdgrp lng="de">
+      <trd>aber</trd>,
+      <trd>jedoch</trd>,
+      <trd>allein</trd>,
+      <trd>allerdings</trd>,
+      <trd>sondern<klr> [konj]</klr></trd>
+    </trdgrp>
   <trd lng="en">but</trd>
   <trd lng="es">pero</trd>
+  <trd lng="et">kuid</trd>
+  <trd lng="eu">baina</trd>
   <trdgrp lng="fi">
      <trd>mutta</trd>,
      <trd>vaan</trd>
    </trdgrp>
   <trd lng="fr">mais</trd>
+  <trd lng="fy">wat</trd>
+  <trd lng="ga">ach</trd>
+  <trd lng="gd">ach</trd>
+  <trd lng="gl">pero</trd>
+  <trd lng="gu">&#xAAA;&#xAB0;&#xA82;&#xAA4;&#xAC1;</trd>
+  <trd lng="ha">amma</trd>
   <trdgrp lng="he">
      <trd>&alef;&bet;&lamed;</trd>,
      <trd>&alef;&fkaf;</trd>
    </trdgrp>
+  <trd lng="hi">&#2354;&#2375;&#2325;&#x93F;&#2344;</trd>
+  <trd lng="hmn">tab sis</trd>
+  <trd lng="hr">ali</trd>
+  <trd lng="ht">men</trd>
   <trdgrp lng="hu">
      <trd>de</trd>,
      <trd>azonban</trd>
    </trdgrp>
+  <trd lng="hy">&#1378;&#1377;&#1397;&#1409;</trd>
   <trd lng="id">tetapi</trd>
+  <trd lng="ig">ma</trd>
+  <trd lng="is">en</trd>
   <trdgrp lng="it">
      <trd>ma</trd>,
      <trd>per&ograve;</trd>
    </trdgrp>
+  <trd lng="ja">&#12375;&#x304B;&#12375;</trd>
+  <trd lng="jv">nanging</trd>
+  <trd lng="ka">&#x10DB;&#x10D0;&#x10D2;&#x10E0;&#x10D0;&#x10DB;</trd>
+  <trd lng="kk">&c_b;&c_ib;&c_r;&c_a;&#x49B;</trd>
+  <trd lng="km">&#6036;&#x17C9;&#x17BB;&#6035;&#x17D2;&#x178F;&#x17C2;&#6016;&#x17B6;&#x179A;</trd>
+  <trd lng="kn">&#xC86;&#xCA6;&#xCB0;&#xCC6;</trd>
+  <trd lng="ko">&#xD558;&#xC9C0;&#xB9CC;</trd>
+  <trd lng="ku">leb&#xEA;</trd>
+  <trd lng="ky">&c_b;&c_i;&c_r;&#x43E;&#x43A;</trd>
+  <trd lng="lat">sed</trd>
+  <trd lng="lo">&#xEC1;&#xE95;&#xEC8;&#xEA7;&#xEC8;&#xEB2;</trd>
+  <trd lng="lt">ta&#x10D;iau</trd>
+  <trd lng="lv">bet</trd>
+  <trd lng="mg">fa</trd>
+  <trd lng="mi">engari</trd>
+  <trd lng="mk">&#x43D;&#x43E;</trd>
+  <trd lng="ml">&#xD2A;&#xD15;&#xD4D;&#xD37;&#xD47;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_r;&c_i;&#x43D;</trd>
+  <trd lng="mr">&#x92A;&#2352;&#2306;&#2340;&#2369;</trd>
+  <trd lng="ms">tetapi</trd>
+  <trd lng="mt">imma</trd>
+  <trd lng="my">&#4114;&#x102B;&#4117;&#4145;&#4121;&#4146;&#4151;</trd>
+  <trd lng="ne">&#2340;&#2352;</trd>
   <trd lng="nl">maar</trd>
+  <trd lng="ny">koma</trd>
+  <trd lng="pa">&#xA2A;&#xA30;</trd>
+  <trdgrp lng="pl">
+    <trd>ale</trd>,
+    <trd>lecz</trd>,
+    <trd>ale&zdot;</trd>,
+    <trd>za&sacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&#x62E;&a_w;</trd>
   <trdgrp lng="ru">
      <trd>&c_n;&c_o;</trd>,
      <trd>&c_a;</trd>
    </trdgrp>
+  <trd lng="rw">ariko</trd>
+  <trd lng="sd">&#x67E;&a_r;</trd>
+  <trd lng="si">&#xDB1;&#xDB8;&#xDD4;&#xDAD;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>ale</trd>,
-    <trd>avšak</trd>,
-    <trd>keď</trd>,
+    <trd>av&scaron;ak</trd>,
+    <trd>ke&#x10F;</trd>,
     <trd>no</trd>
   </trdgrp>
+  <trd lng="sl">vendar</trd>
+  <trd lng="sm">ae</trd>
+  <trd lng="sn">asi</trd>
+  <trd lng="so">laakiin</trd>
+  <trd lng="sq">por</trd>
+  <trd lng="st">empa</trd>
+  <trd lng="su">tapi</trd>
   <trd lng="sv">men</trd>
-  <trd lng="tp">taso</trd>
+  <trd lng="sw">lakini</trd>
+  <trd lng="ta">&#xB86;&#xBA9;&#xBBE;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC15;&#xC3E;&#xC28;&#xC40;</trd>
+  <trd lng="tg">&c_a;&#x43C;&#x43C;&#x43E;</trd>
+  <trd lng="th">&#xE41;&#xE15;&#xE48;</trd>
+  <trd lng="tl">ngunit</trd>
+  <trd lng="tok">taso</trd>
+  <trd lng="tt">&#x43B;&#x4D9;&#x43A;&c_i;&#x43D;</trd>
+  <trd lng="uk">&c_a;&#x43B;&c_je;</trd>
+  <trd lng="ur">&a_l;&#x6CC;&#x6A9;&a_n;</trd>
+  <trd lng="uz">lekin</trd>
+  <trd lng="vi">nh&#x1B0;ng</trd>
   <trd lng="vo">ab</trd>
+  <trd lng="xh">kodwa</trd>
+  <trd lng="yi">&#x5D0;&#x5B8;&#x5D1;&#x5E2;&#x5E8;</trd>
+  <trd lng="yo">&#x1E63;ugb&#x1ECD;n</trd>
+  <trd lng="zu">kodwana</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.104 2023/08/02 01:39:01
+Vito Redsky: +trd pl 
+
+versio 1.103 2023/04/22 21:23:21
+Ulrich Fellmann: sed: +4 pliaj DE trdj
+
+versio 1.102 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.24  2015/06/29 16:33:23  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -161,17 +257,5 @@ Revision 1.21  2007/07/27 16:30:20  revo
 Harri Laine: +trd fi; korektis unu ekz-on
 
 Revision 1.20  2006/09/12 16:30:11  revo
-Marek Blahus: +trd tp
-
-Revision 1.19  2005/09/27 16:30:58  revo
-Mario Mazzalai: +trd it
-
-Revision 1.18  2005/08/22 16:31:19  revo
-Wieland Pusch: +trd bg
-
-Revision 1.17  2004/01/14 18:45:57  revo
-Jeromo Vasxe: + bib fundamento en ekz
-
-Revision 1.16 2003/03/06 17:10:27 revo
 -->
 </vortaro>

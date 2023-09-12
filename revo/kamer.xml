@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kamer.xml,v 1.16 2010/11/24 17:30:29 revo Exp $">
+<art mrk="$Id: kamer.xml,v 1.31 2023/08/31 19:24:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kamer</rad>/o <fnt><bib>PV</bib></fnt>
@@ -74,8 +73,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Peeraerts</aut>
-          <vrk><url
-          ref='https://www.monato.be/2004/008280.html'>Komposta
+          <vrk><url ref="&Monato;/2004/008280.html">Komposta
           revolucio kaj presada stabileco</url></vrk>
           <lok>2004</lok>
         </fnt>.
@@ -84,6 +82,7 @@
     <ref tip="vid" cel="kamer.senluma_0o">senluma <tld/>o</ref>
     <trd lng="be">&c_k;&c_a;&c_m;&c_e;&c_r;&c_a;</trd>
     <trd lng="ca">c&agrave;mera</trd>
+    <trd lng="en">camera <klr>(especially its inner parts)</klr></trd>
     <trd lng="hu">kamera</trd>
     <trd lng="nl">kamer <klr tip="ind">(van fototoestel)</klr></trd>
     <trd lng="ru">&c_k;&c_a;&c_m;&c_je;&c_r;&c_a;</trd>
@@ -107,7 +106,7 @@
         <fnt>
           <bib>Viki</bib>
           <vrk><url>https://eo.wikipedia.org/?curid=190223</url></vrk>
-          <lok><url ref='https://eo.wikipedia.org/?curid=190223'>Fluto
+          <lok><url ref="https://eo.wikipedia.org/?curid=190223">Fluto
           fajfila</url></lok>
         </fnt>;
       </ekz>
@@ -117,8 +116,7 @@
         <fnt>
           <bib>Viki</bib>
           <vrk><url>https://eo.wikipedia.org/?curid=246467</url></vrk>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=246467'>Nebulkamero</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=246467">Nebulkamero</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -142,11 +140,11 @@
         <fnt>
           <bib>Viki</bib>
           <vrk><url>https://eo.wikipedia.org/?curid=209054</url></vrk>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=209054'>&Gcirc;irga</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=209054">&Gcirc;irga</url></lok>
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="en">chamber</trd>
   </snc>
 
   <trd lng="cs">komora <klr>(m&iacute;stnost i instituce)</klr></trd>
@@ -161,9 +159,21 @@
     <trd>chambre<klr tip="ind"> (photo., techn.)</klr></trd>
   </trdgrp>
   <trd lng="it">camera<klr> (anat., tec., mil.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x6697;&#x5BA4;  [<ind>&#x3042;&#x3093;&#x3057;&#x3064;</ind>]</trd>,
+    <trd>&#x7A93;&#x306E;&#x306A;&#x3044;&#x5C0F;&#x90E8;&#x5C4B;  [<ind>&#x307E;&#x3069;&#x306E;&#x306A;&#x3044;&#x3057;&#x3087;&#x3046;&#x3078;&#x3084;</ind>]</trd>,
+    <trd>&#x7BB1;  [<ind>&#x306F;&#x3053;</ind>]</trd>,
+    <trd>&#x6697;&#x7BB1;  [<ind>&#x3042;&#x3093;&#x3070;&#x3053;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>kamera</trd>,
     <trd>komora</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_m;&c_o;&c_r;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_je;&c_r;&c_a;</trd>,
+    <trd>&c_k;&c_ib;&c_m;&c_n;&c_a;&c_t;&c_a; &c_b;&c_je;&c_z; &c_v;&c_ib;&c_k;&c_o;&c_n;</trd>,
+    <trd>&c_k;&c_ib;&c_n;&c_o;&c_k;&c_a;&c_m;&c_je;&c_r;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -192,8 +202,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url
-          ref='&Monato;/2006/008784.php'>Taglibroj de
+          <vrk><url ref="&Monato;/2006/008784.php">Taglibroj de
           murdita infano</url></vrk>
           <lok>2006</lok>
         </fnt>.
@@ -203,9 +212,13 @@
   <trd lng="be">&c_g;&c_a;&c_z;&c_a;&c_v;&c_a;&c_ja; <ind>&c_k;&c_a;&c_m;&c_e;&c_r;&c_a;</ind></trd>
   <trd lng="ca"><ind>cambra</ind> de gas</trd>
   <trd lng="cs">plynov&aacute; komora</trd>
+  <trd lng="de">Gaskammer</trd>
+  <trd lng="en">gas chamber</trd>
   <trd lng="es">c&aacute;mara de gas</trd>
   <trd lng="fr">chambre &agrave; gaz</trd>
+  <trd lng="ja">&#x30AC;&#x30B9;&#x5BA4;  [<ind>&#x30AC;&#x30B9;&#x3057;&#x3064;</ind>]</trd>
   <trd lng="sk">plynov&aacute; komora</trd>
+  <trd lng="uk">&c_g;&c_a;&c_z;&c_o;&c_v;&c_a; &c_k;&c_a;&c_m;&c_je;&c_r;&c_a;</trd>
 </drv>
 
 <drv mrk="kamer.senluma_0o">
@@ -216,8 +229,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url
-          ref='&Monato;/2012/010750.php'>Rivelita: la
+          <vrk><url ref="&Monato;/2012/010750.php">Rivelita: la
           movado de la suno</url></vrk>
           <lok>2012</lok>
         </fnt>
@@ -229,14 +241,14 @@
      <dif>
        Malluma &ccirc;ambro a&ubreve; kesto kun truo, tra kiu objektoj projekci&gcirc;ias:
        <ekz>
-        la lumo <klr>[&#8230;]</klr> estas enfokusigita per la lenso sur la
+        la lumo <klr>[&#x2026;]</klr> estas enfokusigita per la lenso sur la
         retino 
         kie &gcirc;i formas bildon similan al tio formita per lumo pasanta tra
         pingltoruo en senluma <tld/>o
         <fnt>
           <bib>Viki</bib>
           <vrk><url>https://eo.wikipedia.org/?curid=2104</url></vrk>
-          <lok><url ref='https://eo.wikipedia.org/?curid=2104'>Immanuel
+          <lok><url ref="https://eo.wikipedia.org/?curid=2104">Immanuel
           Kant</url></lok>
         </fnt>;
        </ekz>
@@ -245,8 +257,7 @@
          <tld/>o
          <fnt>
            <aut>Jorge Camacho</aut>
-           <vrk><url
-           ref='http://www.gutenberg.org/files/27593/27593-h/27593-h.htm'>La
+           <vrk><url ref="&Gutenberg;files/27593/27593-h/27593-h.htm">La
            Majstro kaj Martinelli</url></vrk>
          </fnt>.
        </ekz>
@@ -257,6 +268,9 @@
      <trd lng="nl">kamer <klr tip="ind">(van fototoestel)</klr></trd>
      <trd lng="ru">&c_k;&c_a;&c_m;&c_je;&c_r;&c_a;</trd>
    </snc>
+<trd lng="de">Camera obscura</trd>
+<trd lng="en">camera obscura</trd>
+  <trd lng="ja">&#x6697;&#x7BB1;  [<ind>&#x3042;&#x3093;&#x3070;&#x3053;</ind>]</trd>
 </drv>
 
 
@@ -264,6 +278,12 @@
 </art>
 <!--
 $Log$
+versio 1.30 2023/06/10 12:39:12
+Christian Siefkes: +trd de, en
+
+versio 1.29 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.25  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
@@ -280,14 +300,5 @@ Revision 1.21  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.20  2015/06/29 16:33:16  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2012/09/01 08:10:19  revo
-Marc Rausell: + trd ca
-
-Revision 1.18  2011/12/31 04:10:09  revo
-Eduardo Navas: +trad es
-
-Revision 1.17  2011/10/27 22:10:10  revo
 -->
 </vortaro>

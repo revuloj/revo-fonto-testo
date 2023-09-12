@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kribr.xml,v 1.22 2009/09/15 16:30:59 revo Exp $">
+<art mrk="$Id: kribr.xml,v 1.32 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kribr</rad>/i
@@ -26,8 +25,8 @@
       <ref cel="filtr.0i">filtri</ref>.
     </refgrp>
   </snc>
-  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_ja;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_r;&c_a;&c_z;&c_mol; &c_s;&c_ib;&c_t;&c_a;,
-  &c_r;&c_e;&c_sh;&c_a;&c_t;&c_a;)</klr></trd>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_ja;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_r;&c_a;&c_z;&c_mol;
+  &c_s;&c_ib;&c_t;&c_a;, &c_r;&c_e;&c_sh;&c_a;&c_t;&c_a;)</klr></trd>
   <trdgrp lng="ca">
     <trd>tamisar</trd>,
     <trd>colar</trd>,
@@ -50,6 +49,7 @@
     <trd>szit&aacute;l</trd>,
     <trd>rost&aacute;l</trd>
   </trdgrp>
+  <trd lng="ja">&#x3075;&#x308B;&#x3044;&#x306B;&#x304B;&#x3051;&#x308B;</trd>
   <trdgrp lng="nl">
     <trd>zeven<klr tip="ind"> (ziften)</klr></trd>,
     <trd>ziften</trd>
@@ -60,6 +60,15 @@
   <trdgrp lng="sk">
     <trd>osieva&tcaron;</trd>,
     <trd>preosieva&tcaron;</trd>
+  </trdgrp>
+<trdgrp lng="th">
+    <trd>&#xE01;&#xE23;&#xE2D;&#xE07;</trd>,
+    <trd>&#xE23;&#xE48;&#xE2D;&#xE19;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_ib;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_ib;&c_v;&c_a;&c_t;&c_i; (&c_ch;&c_je;&c_r;&c_je;&c_z; &c_s;&c_i;&c_t;&c_o;</trd>,
+    <trd>&c_r;&c_je;&c_sh;&c_je;&c_t;&c_o;)</trd>
   </trdgrp>
 </drv>
 
@@ -74,6 +83,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;
+  <klr>(&c_p;&c_r;&c_a;&c_z;&c_mol; &c_s;&c_ib;&c_t;&c_a;,
+  &c_r;&c_e;&c_sh;&c_a;&c_t;&c_a;)</klr></trd>
   <trdgrp lng="ca">
     <trd>cerndre's</trd>,
     <trd>colar-se</trd>
@@ -85,6 +97,7 @@
     <trd>megsz&udblac;r&odblac;dik</trd>,
   </trdgrp>
   <trd lng="es">colarse</trd>
+  <trd lng="ja">&#x3075;&#x308B;&#x3044;&#x306B;&#x304B;&#x304B;&#x308B;</trd>
   <trdgrp lng="nl">
     <trd>gezeefd worden</trd>,
     <trd>gezift worden</trd>
@@ -131,7 +144,10 @@
   <trd lng="de">Sieb</trd>
   <trdgrp lng="en">
     <trd>seive</trd>,
-    <trd>riddle</trd>
+    <trd>riddle</trd>,
+    <trd>strainer</trd>,
+    <trd>sifter</trd>,
+    <trd>colander</trd>
   </trdgrp>
   <trd lng="es">colador</trd>
   <trd lng="fa">&a_A;&a_l;&f_k;</trd>
@@ -141,6 +157,10 @@
   <trdgrp lng="hu">
     <trd>szita</trd>,
     <trd>rosta</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3075;&#x308B;&#x3044;</trd>,
+    <trd>&#x9078;&#x5225;&#x6A5F;  [<ind>&#x305B;&#x3093;&#x3079;&#x3064;&#x304D;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>zeef</trd>,
@@ -160,10 +180,28 @@
     <trd>rie&ccaron;ica</trd>,
     <trd>sito</trd>
   </trdgrp>
+<trdgrp lng="th">
+    <trd>&#xE17;&#xE35;&#xE48;&#xE01;&#xE23;&#xE2D;&#xE07;</trd>,
+    <trd>&#xE01;&#xE23;&#xE30;&#xE0A;&#xE2D;&#xE19;</trd>,
+    <trd>&#xE15;&#xE30;&#xE41;&#xE01;&#xE23;&#xE07;&#xE01;&#xE23;&#xE2D;&#xE07;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_i;&c_t;&c_o;</trd>,
+    <trd>&c_r;&c_je;&c_sh;&c_je;&c_t;&c_o;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.31 2022/03/25 07:40:27
+Noam Mohr: +trd en
+
+versio 1.29 2021/12/06 05:41:12
+Warut Bunprasert: +trd th
+
+versio 1.28 2021/06/16 06:38:36
+Dmitri Gabinski: + trd be
+
 Revision 1.26  2018/10/05 20:10:15  revo
 Behnam Tabatabai: +trd fa
 
@@ -177,11 +215,5 @@ Revision 1.23  2012/08/25 10:10:13  revo
 Marc Rausell: + trd ca
 
 Revision 1.22  2009/09/15 16:30:59  revo
-Paul Peeraerts: +nl
-
-Revision 1.21  2009/02/10 14:17:42  revo
-Sebastian Cyprych: -fusxaj linirompoj en trd
-
-Revision 1.20  2007/07/05 16:30:24  revo
 -->
 </vortaro>

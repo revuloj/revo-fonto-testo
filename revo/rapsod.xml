@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rapsod.xml,v 1.10 2023/09/03 07:53:09 revo Exp $">
 <kap>
   <rad>rapsod</rad>/o
 </kap>
@@ -14,17 +13,23 @@
     <uzo tip="fak">POE</uzo>
     <fnt><bib>PIV2</bib></fnt>
     <dif>
-      En la komenco de la helena civilizacio, migra deklamisto de 
-      eposoj:
+      En la komenco de la helena civilizacio, migra 
+      <ref tip="super" cel="deklam.0isto">deklamisto</ref> de eposoj:
       <ekz>eblas konsideri siaspecaj &jcirc;urnalistoj diversajn <tld/>ojn,
       aedojn, skaldojn kaj bardojn
         <fnt>
           <aut>Karel &Ccirc;apek</aut>
-          <vrk><url
-          ref="http://esperanto-ondo.ru/68-lode.htm#68-21">La&ubreve;do de
+          <vrk><url ref="&LOdE;68-lode.htm#68-21">La&ubreve;do de
           &jcirc;urnaloj</url></vrk>
           <lok>La Ondo de Esperanto, 2000:6</lok>
-        </fnt>
+        </fnt>;
+      </ekz>
+      <ekz>
+        personoj kiuj ne ekzistas en la urbo pro neceso, ekzemple, <klr>[&#x2026;]</klr> poetoj
+        kun siaj helpistoj, <tld/>oj, aktoroj, dancistoj
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -39,12 +44,25 @@
     <trd lng="sv">rapsod</trd>
   </snc>
   <trd lng="cs">raps&oacute;d</trd>
+  <trd lng="de">Rhapsode</trd>
+  <trd lng="grc">&rho_densa;&alfa;&psi;&omega_subj;&delta;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="ja">&#x541F;&#x904A;&#x8A69;&#x4EBA;  [<ind>&#x304E;&#x3093;&#x3086;&#x3046;&#x3057;&#x3058;&#x3093;</ind>]</trd>
   <trd lng="sk">raps&oacute;d</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x430;&#x43F;&#x441;&#x43E;&#x434;</trd>,
+    <trd>&#x43E;&#x43F;&#x43E;&#x432;&#x456;&#x434;&#x430;&#x447; &#x43A;&#x430;&#x437;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.9 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.7 2021/04/07 14:50:49
+Wolfram Diestel: +ekz, trd de, grc
+
 Revision 1.5  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -59,6 +77,5 @@ Jerano Zachrisson: +trd sv
 
 Revision 1.1  2009/02/10 14:18:50  revo
 Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

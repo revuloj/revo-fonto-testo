@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: akupunktur.xml,v 1.16 2009/06/16 16:30:55 revo Exp $">
+<art mrk="$Id: akupunktur.xml,v 1.20 2023/08/30 18:23:32 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>akupunktur</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -34,7 +33,12 @@ difinitaj
     <trd>acuponcture</trd>,
     <trd>acupuncture</trd>
   </trdgrp>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5E7;&#x5D5;&#x5BC;&#x5E4;&#x5BC;&#x5D5;&#x5BC;&#x5E0;&#x5E7;&#x5D8;&#x5D5;&#x5BC;&#x5E8;&#x5B8;&#x5D4;</trd>
   <trd lng="hu">akupunkt&uacute;ra</trd>
+  <trdgrp lng="ja">
+    <trd>&#x937C;&#x7642;&#x6CD5;  [<ind>&#x306F;&#x308A;&#x308A;&#x3087;&#x3046;&#x307B;&#x3046;</ind>]</trd>,
+    <trd>&#x937C;&#x6CBB;&#x7642;  [<ind>&#x306F;&#x308A;&#x3061;&#x308A;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">acupunctuur</trd>
   <trdgrp lng="pt">
    <trd>acupuntura</trd>
@@ -43,6 +47,11 @@ difinitaj
     <trd>&c_a;&c_k;&c_u;&c_p;&c_u;&c_n;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
     <trd>&c_i;&c_g;&c_l;&c_o;&c_u;&c_k;&c_a;&c_l;&c_y;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_i;&c_g;&c_l;&c_o;&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x43A;&#x443;&#x43F;&#x443;&#x43D;&#x43A;&#x442;&#x443;&#x440;&#x430;</trd>,
+    <trd>&#x433;&#x43E;&#x43B;&#x43A;&#x43E;&#x442;&#x435;&#x440;&#x430;&#x43F;&#x456;&#x44F;</trd>,
+    <trd>&#x433;&#x43E;&#x43B;&#x43A;&#x43E;&#x432;&#x43A;&#x43E;&#x43B;&#x44E;&#x432;&#x430;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 

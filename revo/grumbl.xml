@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: grumbl.xml,v 1.16 2009/12/01 17:30:34 revo Exp $">
+<art mrk="$Id: grumbl.xml,v 1.24 2023/08/31 14:29:55 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>grumbl</rad>/i
@@ -12,31 +11,47 @@
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="grumbl.0i.SON">
     <dif>
-      Vo&ccirc;<ref tip="super" cel="bru.0i.soni">brui</ref> obtuze, 
+      Vo&ccirc;<ref tip="super" cel="bru.0i.soni">brui</ref> obtuze,
       malkontente:
       <ekz>
-        hejme la filo <tld/>is kie &scirc;i restas tiom longe
+        hejme la filo <tld/>is, kie &scirc;i restas tiom longe
         <fnt>
-          <aut>S. &Scirc;timec</aut>,
-          <vrk>Morto en Melburna tramo</vrk>,
-          <bib>Monato</bib>,
-          <lok>jaro 1997a, numero 8a, p. 24a</lok>
+          <aut>S. &Scirc;timec</aut>
+          <vrk>Morto en Melburna tramo</vrk>
+          <bib>Monato</bib>
+          <lok>1997:8, p. 24a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la laboristoj vivis en plena nescio pri la estonteco
+        <klr>[&#x2026;]</klr>, <tld/>is
+        kaj blasfemis kaj &ccirc;iutage centfoje rema&ccirc;is la samajn
+        frazojn pri senlaboreco
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li forte <tld/>us al mi, se li kaptus min sen laboro en la mano
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 2</lok>
         </fnt>;
       </ekz>
       <ekz>
         kial iuj maljunuloj <tld/>as kaj trudas sin al pli
         junaj
         <fnt>
-          <aut>I. Gon&ccirc;arova</aut>,
-          <vrk>Vivi plu: kial? (G. Pausewang: La avo en la
-          &ccirc;areto)</vrk>,
+          <aut>I. Gon&ccirc;arova</aut>
+          <vrk>Vivi plu: kial?</vrk>
           <bib>Monato</bib>,
-          <lok>jaro 2002a, numero 6a, p. 20a</lok>
+          <lok>2002:6, p. 20a</lok>
         </fnt>?
       </ekz>
     </dif>
     <refgrp tip="sin">
-      <ref cel="murmur.0i.protesti">murmuri <sncref/></ref>.
+      <ref cel="murmur.0i.protesti">murmuri <sncref/></ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_b;&c_u;&c_r;&c_ch;&c_a;&c_c;&c_mol;</trd>
@@ -47,9 +62,9 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>brblat</trd>,
-    <trd>bručet</trd>,
-    <trd>hučet</trd>,
-    <trd>mručet</trd>
+    <trd>bru&ccaron;et</trd>,
+    <trd>hu&ccaron;et</trd>,
+    <trd>mru&ccaron;et</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>brummen</trd>,
@@ -76,22 +91,95 @@
     <trd>d&ouml;rm&ouml;g</trd>,
     <trd>z&uacute;gol&oacute;dik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x307C;&#x3084;&#x304F;</trd>,
+    <trd>&#x3076;&#x3064;&#x3076;&#x3064;&#x4E0D;&#x5E73;&#x3092;&#x8A00;&#x3046;  [<ind>&#x3076;&#x3064;&#x3076;&#x3064;&#x3075;&#x3078;&#x3044;&#x3092;&#x3044;&#x3046;</ind>]</trd>,
+    <trd>&#x611A;&#x75F4;&#x3092;&#x3053;&#x307C;&#x3059;  [<ind>&#x3050;&#x3061;&#x3092;&#x3053;&#x307C;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>mopperen</trd>,
     <trd>brommen</trd>
   </trdgrp>
   <trdgrp lng="pt">
-   <trd>resmungar</trd>, 
-   <trd>rosnar</trd> 
+   <trd>resmungar</trd>,
+   <trd>rosnar</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_o;&c_r;&c_ch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_r;&c_ju;&c_z;&c_zh;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>hundrať</trd>,
-    <trd>mrmlať</trd>,
-    <trd>šomrať</trd>
+    <trd>hundra&tcaron;</trd>,
+    <trd>mrmla&tcaron;</trd>,
+    <trd>&scaron;omra&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_r;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_o;&c_r;&c_k;&c_o;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_u;&c_r;&c_k;&c_o;&c_t;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="grumbl.0ema">
+  <kap>
+    <tld/>ema
+  </kap>
+  <snc mrk="grumbl.0ema.SON">
+    <dif>
+      Kiu volonte <tld/>as, a&ubreve;deble
+      <ref cel="humor.malbon0a">mishumoras</ref>:
+      <ekz>
+        ili estis <tld/>emaj, &ccirc;ar li timigis ilin
+        <fnt>
+          <aut>J. R. R. Tolkien, trad. C. Gledhill</aut>
+          <vrk>La Hobito</vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        haveno, profunda nokto, la <tld/>emaj arganoj
+        &ccirc;esas interparoli per knarantaj
+        vo&ccirc;oj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fotita junulo esprimis &ccirc;iutrajte gajecon,
+        kio ege kontrastis kun la <tld/>ema
+        urso de hodia&ubreve;
+        <fnt>
+          <bib>ChV</bib>
+          <lok>17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="konten.mal0a">malkontenta</ref>
+  </snc>
+  <trd lng="be">&c_b;&c_u;&c_r;&c_k;&c_l;&c_ib;&c_v;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>brummig</trd>,
+    <trd>n&ouml;rgelig</trd>,
+    <trd>m&uuml;rrisch</trd>,
+    <trd>misslaunig</trd>,
+    <trd>griesgr&auml;mig</trd>,
+    <trd>gnatzig</trd>,
+    <trd>missmutig</trd>,
+    <trd>verdrossen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>grognon<klr> (adj.)</klr></trd>,
+    <trd>ronchon</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D76;&#x3048;&#x305A;&#x4E0D;&#x5E73;&#x3092;&#x8A00;&#x3046;  [<ind>&#x305F;&#x3048;&#x305A;&#x3075;&#x3078;&#x3044;&#x3092;&#x3044;&#x3046;</ind>]</trd>,
+    <trd>&#x4E0D;&#x5E73;&#x4E0D;&#x6E80;&#x306E;&#x591A;&#x3044;  [<ind>&#x3075;&#x3078;&#x3044;&#x3075;&#x307E;&#x3093;&#x306E;&#x304A;&#x304A;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_r;&c_k;&c_o;&c_t;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_o;&c_r;&c_k;&c_o;&c_t;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_u;&c_r;&c_k;&c_o;&c_t;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -99,7 +187,26 @@
   <kap><tld/>ulo</kap>
   <snc mrk="grumbl.0ulo.SON">
     <dif>
-      Homo, kiu kutimas <tld/>i.
+      Homo, kiu kutimas <tld/>i:
+      <ekz>
+        oni satigis min &ccirc;i tie &gcirc;is abomeno per
+        kontra&ubreve;sovetaj anekdotoj kaj mi mem
+        fari&gcirc;is iu <tld/>ulo
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        miaopinie estus tre bonvena iu klariga piednoto
+        tiurilate <klr>[&#x2026;]</klr> sed nu,
+        nur <tld/>ulo tion menciu
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gerrit Berveling</aut>
+          <vrk><url ref="https://www.monato.be/2015/011307.php">Rekomendinda romano en matura lingva&jcirc;o</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -111,8 +218,8 @@
     <trd>remugador</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>bručoun</trd>,
-    <trd>bubák</trd>,
+    <trd>bru&ccaron;oun</trd>,
+    <trd>bub&aacute;k</trd>,
     <trd>kakabus</trd>,
     <trd>morous</trd>,
     <trd>protiva</trd>
@@ -122,7 +229,7 @@
     <trd>m&uuml;rrischer Mensch</trd>,
     <trd>N&ouml;rgler</trd>,
     <trd>Griesgram</trd>,
-    <trd>Kn&ouml;rer [sudgermana]</trd>
+    <trd>Kn&ouml;rer <klr>(sudgermana)</klr></trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>grognon<klr tip="ind"> (subst.)</klr></trd>,
@@ -134,6 +241,10 @@
     <trd>morg&oacute;s ember</trd>,
     <trd>zs&eacute;mbes ember</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x5E73;&#x5BB6;  [<ind>&#x3075;&#x3078;&#x3044;&#x304B;</ind>]</trd>,
+    <trd>&#x4E0D;&#x5E73;&#x5C4B;  [<ind>&#x3075;&#x3078;&#x3044;&#x3084;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>mopperaar</trd>,
     <trd>brombeer</trd>
@@ -144,8 +255,8 @@
     <trd>&c_b;&c_r;&c_ju;&c_z;&c_g;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>hundroš</trd>,
-    <trd>mrmloš</trd>
+    <trd>hundro&scaron;</trd>,
+    <trd>mrmlo&scaron;</trd>
   </trdgrp>
 </drv>
 
@@ -156,18 +267,29 @@
     <dif>
       <tld lit="G"/>i de malanta&ubreve;e, al iu malproksimi&gcirc;anta:
       <ekz>
-        &mdash; Belan taskon mi havas! &mdash; ofendite ekkriis la rufulo, kaj
-        post<tld/>is en &scirc;ian dorson: &mdash; Stulta ino!
-        <fnt><bib>MkM</bib><lok>&ccirc;ap. 19</lok></fnt>.
+        belan taskon mi havas! &mdash; ofendite ekkriis la rufulo, kaj
+        post<tld/>is en &scirc;ian dorson: &mdash; stulta ino!
+        <fnt><bib>MkM</bib> <lok>&ccirc;ap. 19a</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_b;&c_u;&c_r;&c_ch;&c_a;&c_c;&c_mol; &c_u;&c_s;&c_mol;&c_l;&c_je;&c_d;</trd>
   <trd lng="ca">rondinar a l'esquena d'alg&uacute;</trd>
+  <trd lng="de">hinterher brummen</trd>
   <trd lng="fr">ronchonner<klr> (par derri&egrave;re)</klr></trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/07/09 14:27:45
+Wolfram Diestel: +ekz, ref, trd de
+
+versio 1.22 2022/06/01 07:33:25
+Dmitri Gabinski: + trd be
+
+versio 1.20 2020/09/07 20:32:22
+Jeromo Vasxe: + ~ ema
+
 Revision 1.18  2015/06/29 16:29:39  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -181,17 +303,5 @@ Revision 1.15  2007/09/19 16:30:17  revo
 Jeromo Vasxe: kor mu*r*muri + mrk + tez
 
 Revision 1.14  2005/10/11 16:31:22  revo
-Luiz Portella: +trd pt +"-" >> "&mdash;"
-
-Revision 1.13  2004/07/20 22:21:16  revo
-Marc Bavant: +drv post~i
-
-Revision 1.12 2004/01/10 17:31:35 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11 2003/11/13 18:50:36 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10 2002/09/19 16:32:55 revo
 -->
 </vortaro>

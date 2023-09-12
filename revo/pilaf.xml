@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pilaf.xml,v 1.14 2023/09/03 12:45:07 revo Exp $">
 <kap>
-  <rad>pilaf</rad>/o <fnt>Z</fnt> <fnt><bib>SPV</bib></fnt>
+  <rad>pilaf</rad>/o
+  <fnt><bib>SPV</bib></fnt>
 </kap>
 <drv mrk="pilaf.0o">
   <kap><tld/>o</kap>
@@ -12,10 +12,9 @@
     <uzo tip="fak">KUI</uzo>
     <dif>
       <ref tip="super" cel="plad.0o.mangx">Plado</ref> el
-      rizo kaj diversaj legomoj, viandoj, spicoj,
+      stufitaj <ref tip="prt" cel="riz.0o">rizo</ref>, diversaj legomoj, viandoj, spicoj,
       fruktoj ktp, diversforme ekzistanta en la kuirarto
-      de multaj popoloj de la mondo (ekz-e la hispana
-      <ref tip="sub" cel="paelj.0o">paeljo</ref>):
+      de multaj popoloj de la mondo:
       <ekz>
         la gvidanto kuiras por li <tld/>on (&gcirc;i estas preparata el
         kokina viando kaj rizo), por vesperman&gcirc;o
@@ -26,14 +25,21 @@
         ne&ubreve;traligas &ccirc;iun malbonan efikon de la graso
         <fnt>
         <aut>E. Perevertajlo</aut>,
-        <vrk><url ref="http://www.esperanto.de/psi/1998/pilafo.html"
-        >Pilafo (Uzbeka kuirrecepto)</url></vrk>
+          <vrk><url ref="http://www.esperanto.de/psi/1998/pilafo.html">Pilafo (Uzbeka kuirrecepto)</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="paelj.0o">paeljo</ref>
+    </refgrp>
   </snc>
+  <trd lng="be">&c_p;&c_l;&c_o;&c_w;</trd>
   <trd lng="ca">arr&ograve;s pilaf</trd>
   <trd lng="cs">pilaf</trd>
+  <trdgrp lng="de">
+    <trd>Pilaw</trd>,
+    <trd>Pilau</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>pilaf</trd>,
     <trd>pilau</trd>,
@@ -43,6 +49,7 @@
     <trd>pilaf</trd>,
     <trd>pilau</trd>
   </trdgrp>
+  <trd lng="ja">&#x30D4;&#x30E9;&#x30D5;</trd>
   <trd lng="nl">pilaf</trd>
   <trd lng="pl">pilaw</trd>
   <trd lng="ru">&c_p;&c_l;&c_o;&c_v;</trd>
@@ -50,10 +57,20 @@
     <trd>pilaf</trd>,
     <trd>pilav</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_ib;&c_l;&c_a;&c_v;</trd>,
+    <trd>&c_p;&c_l;&c_o;&c_v;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.13 2023/04/15 15:23:15
+Wolfram Diestel: ref-tip, trd de, dif: +stufitaj
+
+versio 1.11 2021/04/09 07:53:47
+Dmitri Gabinski: + trd be
+
 Revision 1.9  2015/06/29 16:40:18  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -69,15 +86,5 @@ Paul Peeraerts: +nl
 
 Revision 1.5  2009/03/04 17:31:24  revo
 Marcus Curdeius: +pl
-
-Revision 1.4  2006/07/21 18:03:11  revo
-Jeromo Vasxe: kor mrk, + fnt
-
-Revision 1.3 2006/07/11 16:31:22 revo
-jxeromo vasxe: kor rad pliaf -> pilaf
-
-Revision 1.2 2006/06/11 16:31:45 revo
-Sergio Pokrovskij: -tajperaro
-
 -->
 </vortaro>

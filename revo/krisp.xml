@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: krisp.xml,v 1.11 2010/11/25 17:30:44 revo Exp $">
+<art mrk="$Id: krisp.xml,v 1.21 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krisp</rad>/o
@@ -11,42 +10,44 @@
   <kap>
     <ofc>*</ofc><tld/>o
   </kap>
-  <snc>
-  <uzo tip="fak">ANA</uzo> 
+
+  <snc mrk="krisp.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
     <dif>
-      Refaldo de <ref tip="malprt" cel="perito.0o">peritoneo</ref>,
-      kiu fiksas la diversajn partojn de intestoj.
-    </dif>
-    <trd lng="de">Gekr&ouml;se</trd>
-    <trd lng="en">mesentery</trd>
-    <trd lng="fr">m&eacute;sent&egrave;re</trd>
-    <trd lng="hu">b&eacute;lfodor</trd>
-    <trdgrp lng="it">
-      <trd>mesentere</trd>,
-      <trd>mesenterio</trd>
-    </trdgrp>
-    <trdgrp lng="nl">
-      <trd>darmscheil</trd>,
-      <trd>mesenterium</trd>
-    </trdgrp>
-    <trd lng="pl">krezka</trd>
-    <trd lng="pt">mesent&eacute;rio</trd>
-    <trd lng="ro">flan&scedil;&abreve;</trd>
-    <trd lng="ru">&c_b;&c_r;&c_y;&c_zh;&c_je;&c_j;&c_k;&c_a;</trd>
-  </snc>
-  <snc>
-    <dif>
-      Duobla kolumo, kun ameligitaj tubformaj faldoj, surmetita de viroj
-      kaj virinoj dum 16-a jarcento:
+      Ondigita a&ubreve; <ref cel="fald.0umi">faldumi</ref>ta kolumo, aparte el tiaj, kiuj dum 
+      mezepoko protektis la kolon kontra&ubreve; glavbatoj, 
+      a&ubreve; tiaj, ornamcele surmetitaj de viroj kaj virinoj dum 16-a/17-a jarcento:
       <ekz>
-        kol<tld/>o<fnt>Z</fnt>
+        iliajn edzojn oni vidis vestitajn vestitajn en &scirc;talo a&ubreve; en <klr>[&#x2026;]</klr> multekostaj
+        manteloj,
+        sub&scirc;tofitaj per sciuraj feloj, kaj kun blueta kol<tld/>o
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">ZOO</uzo>
+        karakteriza&jcirc;o de multaj <klr>[vulturoj]</klr> estas kol<tld/>o, el kiu longa
+        nuda a&ubreve; mallongplumita kolo levi&gcirc;as
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/Vulturo">Vulturo</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
+    <refgrp tip="vid">
       <ref cel="jxabot.0o">&jcirc;aboto</ref>,
-      <ref cel="falbal.0o">falbalo</ref>.
+      <ref cel="falbal.0o">falbalo</ref>,
+      <ref cel="plis.0i">plisi</ref>
     </refgrp>
-    <trd lng="de">Krause</trd>
+    <bld lok="&WCU;/thumb/6/64/Plooikraag%2C_fraise_&agrave;_la_confusion.jpg/320px-Plooikraag%2C_fraise_&agrave;_la_confusion.jpg" prm="CC0">kol<tld/>o, proksimume 1615 - 1635
+        <fnt>
+          <aut>Nekonata a&ubreve;toro, Rijksmuseum</aut>
+          <lok><url ref="&WCW;/File:Plooikraag,_fraise_%C3%A0_la_confusion.jpg">&WCW;/File:Plooikraag,_fraise_&agrave;_la_confusion.jpg</url></lok>
+        </fnt>
+    </bld>
+    <trd lng="de"><klr>(Hals-)</klr>Krause</trd>
     <trdgrp lng="en">
       <trd>frill</trd>,
       <trd>frilled collar</trd>,
@@ -64,45 +65,112 @@
       <trd>falbanka</trd>
     </trdgrp>
     <trd lng="pt">gola pregueada</trd>
-    <trd lng="ro">flan&scedil;&abreve;</trd>
+    <trd lng="ro">flan&#x219;&abreve;</trd>
     <trdgrp lng="ru">
       <trd>&c_b;&c_r;&c_y;&c_zh;&c_i;</trd>,
       <trd>&c_zh;&c_a;&c_b;&c_o;</trd>
     </trdgrp>
   </snc>
+  <snc mrk="krisp.0o.ANA">
+    <uzo tip="fak">ANA</uzo> 
+    <dif>
+      Refaldo de <ref tip="malprt" cel="perito.0o">peritoneo</ref>,
+      kiu fiksas la diversajn partojn de intestoj.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Gekr&ouml;se</trd>,
+      <trd>Mesenterium</trd>
+    </trdgrp>
+    <trd lng="en">mesentery</trd>
+    <trd lng="fr">m&eacute;sent&egrave;re</trd>
+    <trd lng="hu">b&eacute;lfodor</trd>
+    <trdgrp lng="it">
+      <trd>mesentere</trd>,
+      <trd>mesenterio</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>darmscheil</trd>,
+      <trd>mesenterium</trd>
+    </trdgrp>
+    <trd lng="pl">krezka</trd>
+    <trd lng="pt">mesent&eacute;rio</trd>
+    <trd lng="ro">flan&#x219;&abreve;</trd>
+    <trd lng="ru">&c_b;&c_r;&c_y;&c_zh;&c_je;&c_j;&c_k;&c_a;</trd>
+  </snc>
+  <rim>
+    La&ubreve; la tradukoj en UV de &F; amba&ubreve; supraj sencoj estas fundamentaj.
+  </rim>
+  <trdgrp lng="ja">
+    <trd>&#x4E38;&#x3072;&#x3060;&#x3048;&#x308A;  [<ind>&#x307E;&#x308B;&#x3072;&#x3060;&#x3048;&#x308A;</ind>]</trd>,
+    <trd>&#x3072;&#x3060;&#x98FE;&#x308A;  [<ind>&#x3072;&#x3060;&#x304B;&#x3056;&#x308A;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_r;&c_i;&c_zh;&c_ib;</trd>,
+    <trd>&c_b;&c_r;&c_i;&c_zh;&c_ib;</trd>,
+    <trd>&c_zh;&c_a;&c_b;&c_o;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krisp.0a">
   <kap>
-    <tld/>a
+    <tld/>a <fnt><bib>MT</bib></fnt>
   </kap>
-  <snc>
+  <snc mrk="krisp.0a.KOMUNE">
     <dif>
-      Prezentanta supra&jcirc;on similan al tiu de <tld/>o a&ubreve;
-      de krepo, kun
-      multaj neregulaj bukletoj a&ubreve; ondetoj:
+      <klr>(pp haroj ks)</klr> Onde, 
+      bukle <ref tip="super" cel="glat.mal0a">malglata</ref>:
       <ekz>
-        <tld/>aj kapetoj de infanoj<fnt>B</fnt>;
+        anstata&ubreve; <tld/>aj haroj estos kalvo
+        (<ref tip="sin" cel="friz">frizita</ref>)
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 3:24</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        anstata&ubreve; <tld/>aj haroj estos kalvo<fnt>Z</fnt>
-        (<ref tip="sin" cel="friz">frizita</ref>);
+        kvankam el liaj haroj fluis la akvo, ili tamen estis tre &ccirc;arme <tld/>aj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Malbonkonduta knabo</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>a plumaro<fnt>Z</fnt>;
+        la princo karesis la <tld/>an kapon de l' sklavo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>aj folioj;
+        <tld/>a plumaro
+        <klr>(vd <ref cel="lanug.0o.birdo">lanugo</ref>)</klr>
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malbela anasido</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        timante &ccirc;ifi siajn <tld/>ajn kaj malsimplajn
-        vestojn<fnt>B</fnt>;
+        kiam levi&gcirc;is vento, <klr>[&#x2026;]</klr> la ondoj <tld/>i&gcirc;is kaj montris sin en vesto
+        el &scirc;a&ubreve;mo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la vento blovas super la herbo, tiam &ccirc;i tiu <tld/>i&gcirc;as kiel trankvila akvo,
+        sed kiam la vento blovas super la greno, tiam &ccirc;i tiu ondi&gcirc;as kiel la maro
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <tld/>a &scirc;tofo <klr>(krepo)</klr>;
       </ekz>
       <ekz>
-        la <tld/>a mento<fnt>Z</fnt>.
+        la <tld/>a mento <fnt><bib>PV</bib></fnt>
+        <klr>(<nom>Mentha spicata</nom>)</klr>.
       </ekz>
     </dif>
   </snc>
@@ -113,7 +181,8 @@
   <trdgrp lng="en">
      <trd>wavy</trd>,
      <trd>crimped</trd>,
-     <trd>crinkled</trd>
+     <trd>crinkled</trd>,
+    <trd>ruffled</trd>
   </trdgrp>
   <trd lng="fr">cr&eacute;pu</trd>
   <trdgrp lng="hu">
@@ -127,6 +196,11 @@
      <trd>arricciato</trd>,
      <trd>crespo</trd>.
      <trd>ondulato</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3072;&#x3060;&#x306E;&#x3042;&#x308B;</trd>,
+    <trd>&#x7E2E;&#x308C;&#x305F;  [<ind>&#x3061;&#x3062;&#x308C;&#x305F;</ind>]</trd>,
+    <trd>&#x3057;&#x308F;&#x306E;&#x5BC4;&#x3063;&#x305F;  [<ind>&#x3057;&#x308F;&#x306E;&#x3088;&#x3063;&#x305F;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>kroes</trd>,
@@ -143,45 +217,45 @@
     <trd>&c_v;&c_o;&c_l;&c_n;&c_i;&c_s;&c_t;&c_y;&c_j;</trd>,
     <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_ch;&c_a;&c_t;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_u;&c_ch;&c_je;&c_r;&c_ja;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_i;&c_t;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_u;&c_ch;&c_je;&c_r;&c_ja;&c_v;&c_l;&c_je;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_m;&c_o;&c_r;&c_sh;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krisp.0igi">
   <kap>
     <tld/>igi
   </kap>
-  <snc>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="krisp.0igi.KOMUNE">
     <dif>
       Fari ion <tld/>a:
       <ekz>
         <tld/>igi harojn, falbalon;
       </ekz>
       <ekz>
-        &scirc;i komencis enuigan <tld/>igon de la ekstremoj de
-lar&gcirc;a silka
-        skarpo<fnt>B</fnt>
-        <klr>(sulketigi)</klr>;
-      </ekz>
-      <ekz>
-        varma vento <tld/>igis la akvon<fnt>B</fnt>
-        (<ref tip="sin" cel="fald.0i">faldi</ref>);
-      </ekz>
-      <ekz>
-        <tld/>igi artefaritajn rozpetalojn
-        (<ref tip="sin" cel="friz.0i">frizi</ref>);
-      </ekz>
-      <ekz>
-        la ondoj <tld/>i&gcirc;is kaj &scirc;a&ubreve;mis<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        la oraj grenkampoj ond<tld/>i&gcirc;as.
+        &scirc;i komencis enuigan <tld/>igon 
+        de la ekstremoj de lar&gcirc;a silka skarpo
+        <fnt>
+          <aut>E. Orzeszko, trad. Kabe</aut>
+          <vrk><url ref="https://edoc.pub/bona-sinjorino-pdf-free.html">Bona Sinjorino</url></vrk>
+          <lok>1909</lok>
+        </fnt>.       
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="cxif.0i">&ccirc;ifi</ref>
+    </refgrp>
   </snc>
   <trd lng="de">kr&auml;useln</trd>
   <trdgrp lng="en">
     <trd>crimp</trd>,
     <trd>curl</trd>,
-    <trd>wave</trd>
+    <trd>wave</trd>,
+    <trd>ruffle</trd>
   </trdgrp>
   <trd lng="fr">cr&ecirc;per</trd>
   <trdgrp lng="hu">
@@ -195,6 +269,11 @@ lar&gcirc;a silka
      <trd>raggrinzare</trd>.
      <trd>ondulare</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3072;&#x3060;&#x3092;&#x3064;&#x3051;&#x308B;</trd>,
+    <trd>&#x7E2E;&#x3089;&#x305B;&#x308B;  [<ind>&#x3061;&#x3062;&#x3089;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x30AE;&#x30E3;&#x30B6;&#x30FC;&#x3092;&#x3064;&#x3051;&#x308B;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>doen <ind>krullen</ind></trd>,
     <trd>doen <ind>rimpelen</ind></trd>
@@ -202,14 +281,62 @@ lar&gcirc;a silka
   <trd lng="pl">zmarszczy&cacute;</trd>     
   <trd lng="ro">plisa</trd>
   <trdgrp lng="ru">
-    <trd>&c_z;&c_a;&c_v;&c_i;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_o; &c_v;&c_o;&c_l;&c_o;&c_s;&c_a;&c_h;)</klr></trd>,
+    <trd>&c_z;&c_a;&c_v;&c_i;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_o;
+    &c_v;&c_o;&c_l;&c_o;&c_s;&c_a;&c_h;)</klr></trd>,
     <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; &c_s;&c_k;&c_l;&c_a;&c_d;&c_k;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_v;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_b;&c_i;&c_t;&c_i; &c_s;&c_k;&c_l;&c_a;&c_d;&c_k;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_o;&c_r;&c_k;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_m;&c_o;&c_r;&c_shch;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="krisp.0igilo">
+  <kap>
+    <tld/>igilo
+  </kap>
+  <snc mrk="krisp.0igilo.FRIZ">
+    <dif>
+      <ref tip="super" cel="friz.0ilo">Frizilo</ref>
+      per kiu oni <tld/>igas hararojn:
+      <ekz>
+        <klr>[trovi&gcirc;is en la po&scirc;o&#x2026;]</klr> tondilo en ingo, plenmano da vitraj perloj,
+        kelkaj buloj da fadeno, kudrilujo, plena kolekto de <tld/>igiloj de haroj
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>crimper</trd>,
+    <trd>waver</trd>
+  </trdgrp>
+  <trd lng="fr">fer &agrave; friser</trd>
+  <trd lng="uk">&c_shch;&c_i;&c_p;&c_c;&c_ib; &c_d;&c_l;&c_ja; &c_z;&c_a;&c_v;&c_i;&c_v;&c_k;&c_i;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.20 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2022/03/29 14:40:28
+Noam Mohr: +trd en krisp-
+
+versio 1.17 2020/09/14 20:32:21
+Jeromo Vasxe: + ~igilo
+
+versio 1.16 2020/06/22 16:32:14
+Wolfram Diestel: ekz-oj, rim F
+
+versio 1.15 2020/06/22 08:10:35
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.13  2019/10/16 19:10:19  revo
 Alain Gerard: +trd fr
 
@@ -217,17 +344,5 @@ Revision 1.12  2019/09/12 22:10:19  revo
 Vito Redsky: +trd pl +trd ro
 
 Revision 1.11  2010/11/25 17:30:44  revo
-Antonio Codazzi: +trd it
-
-Revision 1.10  2009/09/15 16:31:20  revo
-Paul Peeraerts: +nl, forigis rim post priparolo en revuloj, ref al
-peritoneo
-
-Revision 1.9  2008/02/12 17:30:31  revo
-Russ Williams: +trd en
-
-Revision 1.8  2006/11/02 17:31:02  revo
-Tulio Flores: +tr pt
-
 -->
 </vortaro>

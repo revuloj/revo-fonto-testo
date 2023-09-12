@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: negr.xml,v 1.16 2010/04/27 16:30:29 revo Exp $">
+<art mrk="$Id: negr.xml,v 1.27 2022/03/24 10:41:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>negr</rad>/o
@@ -13,16 +12,18 @@
   <uzo tip="stl">EVI</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="afrik.0ano">Afrikano</ref> kun malhela ha&ubreve;to:
+      <ref tip="dif" cel="nigr.0ulo.ETN">Nigrulo</ref>:
       <ekz>
-        kiam mi estis en Afriko <klr>[mi]</klr> vidis <tld/>on tiel nigran, 
+        kiam mi estis en Afriko <klr>[mi]</klr> vidis <tld/>on tiel
+        nigran, 
         ke oni bezonis, por lin rigardi, ekbruligi kandelon
         <fnt>
           <bib>FK</bib>
         </fnt>;
       </ekz>
       <ekz>
-        ses centojn da <tld/>oj mi &ccirc;e <nom>Senegal</nom> akiris je prezo profita
+        ses centojn da <tld/>oj mi &ccirc;e <nom>Senegal</nom> akiris je prezo
+        profita
         <fnt>
           <bib>FK</bib>
           <lok>La sklavo&scirc;ipo</lok>
@@ -49,10 +50,9 @@
         </fnt>.
       </ekz>
     </dif>
-    <ref tip="sin" cel="nigr.0ulo">nigrulo</ref>
   </snc>
   <rim>
-    La vorto ekestis en la 15 jc pro la sklavokomerco portugala 
+    La vorto ekestis en la 15 jarcento pro la sklavokomerco portugala
     kaj hispana kaj do estas forte asociita kun sklavismo kaj rasismo.
     Pro tio nuntempe oni evitas &gcirc;in.
   </rim>
@@ -94,7 +94,7 @@
   </trdgrp>
   <trd lng="id">negro</trd>
   <trd lng="io">nigro</trd>
-  <trd lng="ja">&#40658;&#20154;[<ind>&#12371;&#12367;&#12376;&#12435;</ind>]</trd>
+  <trd lng="ja">&#x9ED2;&#x4EBA;[<ind>&#x3053;&#x304F;&#x3058;&#x3093;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>zwarte</trd>,
     <trd>neger</trd>
@@ -108,10 +108,14 @@
   <trd lng="sk">&ccaron;ernoch</trd>
   <trd lng="sv">neger</trd>
   <trd lng="tr">zenci</trd>
+  <trd lng="uk">&#x43D;&#x435;&#x433;&#x440;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2020/05/31 14:10:33
+Robin van der Vliet: evitinda vorto ne estu cxefa
+
 Revision 1.24  2017/07/07 18:10:22  revo
 Robin van der Vliet: +trd; inversa ordo, laux ofteco
 

@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: sx.xml,v 1.9 2023/09/04 15:14:36 revo Exp $">
     <kap>
       <ofc>*</ofc><ofc>7</ofc><rad>&scirc;o</rad>
     </kap>
 
-<drv mrk="sx.0.nomo">
+<drv mrk="sx.0">
     <kap><tld/></kap>
     <uzo tip="fak">LIN</uzo>
     <uzo tip="fak">GRA</uzo>
@@ -22,16 +21,20 @@
           <fnt>
             <bib>F</bib>
             <lok>&FE; 1</lok>
-          </fnt>
-      </ekz>.
+          </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="fr">ch</trd>
+  <trd lng="ja">&#x30B7;&#x30E7;&#x30FC;  [<ind>&#x3057;&#x3087;&#x30FC;</ind>]</trd>
 </drv>
   </art>
 
   <!--
   $Log$
+versio 1.8 2021/05/09 13:53:20
+Wolfram Diestel: kor. drv@mrk
+
   Revision 1.6  2017/11/30 21:10:43  revo
   Michel Cantigneaux: aldonita kaj fundamenta par 7a OA
 
@@ -50,5 +53,6 @@
   Revision 1.1  2013/12/28 13:10:13  revo
   Damien Brucker: nova artikolo
 
-  -->
+  
+-->
 </vortaro>

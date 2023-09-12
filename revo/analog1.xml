@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: analog1.xml,v 1.26 2020/02/02 17:10:17 revo Exp $">
+<art mrk="$Id: analog1.xml,v 1.30 2023/08/30 18:23:34 revo Exp $">
 <kap>
   <ofc>(1)</ofc><rad>analogi</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -26,8 +25,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Edward Kusters</aut>
-          <vrk><url ref="https://www.monato.be/2006/009100.php"
-              >Alfred Nobel: nobelo inter la sciencistoj kaj
+          <vrk><url ref="&Monato;/2006/009100.php">Alfred Nobel: nobelo inter la sciencistoj kaj
               lingvistoj</url></vrk>
         </fnt>;
       </ekz>
@@ -38,18 +36,16 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Geraldo Mattos</aut>
-          <vrk><url ref="https://www.monato.be/2008/009422.php"
-              >Rezulto de preseraro</url></vrk>
+          <vrk><url ref="&Monato;/2008/009422.php">Rezulto de preseraro</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        li &ccirc;iam diris, <klr>[&#8230;]</klr> &ndash; ke manko de eduko estas pli
+        li &ccirc;iam diris, <klr>[&#x2026;]</klr> &ndash; ke manko de eduko estas pli
         terura ol kancero, kvankam tia <tld/>o estis iom stranga
         <fnt>
           <bib>Monato</bib>
           <aut>G. O. &Ograve;sh&oacute;-Davies</aut>
-          <vrk><url ref="https://www.monato.be/2012/010421.php"
-              >Po&scirc;telefono</url></vrk>
+          <vrk><url ref="&Monato;/2012/010421.php">Po&scirc;telefono</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -76,8 +72,13 @@
   <trd lng="en">analogy</trd>
   <trd lng="es">analog&iacute;a</trd>
   <trd lng="fr">analogie</trd>
+  <trdgrp lng="he">
+    <trd>&#x5D0;&#x5B2;&#x5E0;&#x5B8;&#x5DC;&#x5D5;&#x5B9;&#x5D2;&#x5B4;&#x5D9;&#x5B8;&#x5D4;</trd>,
+    <trd>&#x5D4;&#x5E9;&#x5D5;&#x5D5;&#x5D0;&#x5D4;</trd>
+  </trdgrp>
   <trd lng="hu">anal&oacute;gia</trd>
   <trd lng="it">analogia</trd>
+  <trd lng="ja">&#x985E;&#x63A8;  [<ind>&#x308B;&#x3044;&#x3059;&#x3044;</ind>]</trd>
   <trd lng="nl">analogie</trd>
   <trd lng="pl">analogia</trd>
   <trd lng="ro">analogie</trd>
@@ -86,6 +87,10 @@
     <trd>anal&oacute;gia</trd>,
     <trd>anal&oacute;gia</trd>,
     <trd>&uacute;pln&aacute; podoba</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x434;&#x456;&#x431;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x430;&#x43D;&#x430;&#x43B;&#x43E;&#x433;&#x456;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -132,7 +137,9 @@
     <trd>anal&oacute;gico</trd>
   </trdgrp>
   <trd lng="fr">analogique</trd>
+  <trd lng="he">&#x5D0;&#x5B2;&#x5E0;&#x5B8;&#x5DC;&#x5D5;&#x5B9;&#x5D2;&#x5B4;&#x5D9;&#x5B8;&#x5D4;</trd>
   <trd lng="hu">anal&oacute;g</trd>
+  <trd lng="ja">&#x985E;&#x63A8;&#x306B;&#x57FA;&#x3065;&#x3044;&#x305F;  [<ind>&#x308B;&#x3044;&#x3059;&#x3044;&#x306B;&#x3082;&#x3068;&#x3065;&#x3044;&#x305F;</ind>]</trd>
   <trd lng="nl">analoog</trd>
   <trd lng="pl">analogiczny</trd>
   <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
@@ -140,7 +147,10 @@
 </drv>
 </art>
 <!--
-$Log: analog1.xml,v $
+$Log$
+versio 1.29 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
 versio 1.26 2020/02/02 17:10:17
 Wolfram Diestel: +snc-mrk
 
@@ -160,7 +170,5 @@ Revision 1.21  2017/12/11 10:10:14  revo
 Michel Cantigneaux: Gxi ne estas oficiala vorto laux la Akademia
 Vortaro, nek de la 1OA nek alia ajn
 
-Revision 1.20  2017/05/22 19:10:13  revo
-Vito Redsky: trd pl+trd ro
 -->
 </vortaro>

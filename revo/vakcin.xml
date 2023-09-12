@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vakcin.xml,v 1.33 2023/09/05 09:43:53 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>vakcin</rad>/o
@@ -20,8 +19,7 @@
         <tld/>oj kontra&ubreve; e&ubreve;ropaj malsanoj
         <fnt><aut>Lubovj Lukina, E&ubreve;geno Lukin, trad. Jurij
         Finkel</aut>,
-        <vrk>La misiistoj</vrk>, <lok><url
-        ref="http://www.esperanto.mv.ru/Lukin/mis3.html">parto
+        <vrk>La misiistoj</vrk>, <lok><url ref="http://www.esperanto.mv.ru/Lukin/mis3.html">parto
         3a</url></lok></fnt>.
       </ekz>
     </dif>
@@ -40,8 +38,8 @@
     <trd>vacuna</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>očkovací látka</trd>,
-    <trd>vakcína</trd>
+    <trd>o&#x10D;kovac&#xED; l&#xE1;tka</trd>,
+    <trd>vakc&#xED;na</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Impfstoff</trd>,
@@ -62,6 +60,7 @@
     <trd>olt&oacute;anyag</trd>,
     <trd>vakcina</trd>
   </trdgrp>
+  <trd lng="ja">&#x30EF;&#x30AF;&#x30C1;&#x30F3;</trd>
   <trdgrp lng="nl">
     <trd>vaccin</trd>,
     <trd>entstof</trd>
@@ -72,8 +71,9 @@
   </trdgrp>
   <trd lng="pt">vacina</trd>
   <trd lng="ru">&c_v;&c_a;&c_k;&c_c;&c_i;&c_n;&c_a;</trd>
-  <trd lng="sk">očkovacia látka</trd>
+  <trd lng="sk">o&#x10D;kovacia l&#xE1;tka</trd>
   <trd lng="tr">a&scedil;&inodot;</trd>
+  <trd lng="uk">&#x432;&#x430;&#x43A;&#x446;&#x438;&#x43D;&#x430;</trd>
 </drv>
 
 <drv mrk="vakcin.0i">
@@ -110,7 +110,7 @@
     <trd>vacunar</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>očkovat <klr>(proti)</klr></trd>,
+    <trd>o&#x10D;kovat <klr>(proti)</klr></trd>,
     <trd>vakcinovat</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -124,6 +124,11 @@
   <trd lng="fr">vacciner</trd>
   <trd lng="he">&lamed;<ind>&het;&samekh;&fnun;</ind></trd>
   <trd lng="hu">beolt <klr tip="ind">(sz&eacute;rummal)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30EF;&#x30AF;&#x30C1;&#x30F3;&#x63A5;&#x7A2E;&#x3059;&#x308B;  [<ind>&#x30EF;&#x30AF;&#x30C1;&#x30F3;&#x305B;&#x3063;&#x3057;&#x3085;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x4E88;&#x9632;&#x63A5;&#x7A2E;&#x3059;&#x308B;  [<ind>&#x3088;&#x307C;&#x3046;&#x305B;&#x3063;&#x3057;&#x3085;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x4E88;&#x9632;&#x6CE8;&#x5C04;&#x3059;&#x308B;  [<ind>&#x3088;&#x307C;&#x3046;&#x3061;&#x3085;&#x3046;&#x3057;&#x3083;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>vaccineren</trd>,
     <trd>inenten</trd>
@@ -139,11 +144,16 @@
     <trd>&c_p;&c_r;&c_i;&c_v;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd><klr>(na)</klr>očkovať</trd>,
-    <trd>dať sérovú injekciu</trd>,
-    <trd>štepiť</trd>
+    <trd><klr>(na)</klr>o&#x10D;kova&#x165;</trd>,
+    <trd>da&#x165; s&#xE9;rov&#xFA; injekciu</trd>,
+    <trd>&#x161;tepi&#x165;</trd>
   </trdgrp>
   <trd lng="tr">a&scedil;&inodot;lamak</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x430;&#x43A;&#x446;&#x438;&#x43D;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x431;&#x438;&#x442;&#x438; &#x449;&#x435;&#x43F;&#x43B;&#x435;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x449;&#x435;&#x43F;&#x438;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vakcin.0ado">
@@ -173,8 +183,8 @@
     <trd>vacunaci&oacute;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>očkování pomocí vakcín</trd>,
-    <trd>tj. oslabení choroboplodných zárodků</trd>,
+    <trd>o&#x10D;kov&#xE1;n&#xED; pomoc&#xED; vakc&#xED;n</trd>,
+    <trd>tj. oslaben&#xED; choroboplodn&#xFD;ch z&#xE1;rodk&#x16F;</trd>,
     <trd>vakcinace</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -187,6 +197,11 @@
   <trd lng="fr">vaccination</trd>
   <trd lng="he">&het;&yod;&samekh;&vav;&fnun;</trd>
   <trd lng="hu">olt&aacute;s <klr tip="ind">(sz&eacute;rummal)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E88;&#x9632;&#x63A5;&#x7A2E;  [<ind>&#x3088;&#x307C;&#x3046;&#x305B;&#x3063;&#x3057;&#x3085;</ind>]</trd>,
+    <trd>&#x4E88;&#x9632;&#x6CE8;&#x5C04;  [<ind>&#x3088;&#x307C;&#x3046;&#x3061;&#x3085;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x7A2E;&#x75D8;  [<ind>&#x3057;&#x3085;&#x3068;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>vaccinatie</trd>,
     <trd>inenting</trd>
@@ -198,10 +213,14 @@
     <trd>&c_p;&c_r;&c_i;&c_v;&c_i;&c_v;&c_k;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>očkovanie vakcínami</trd>,
-    <trd>vakcinácia</trd>
+    <trd>o&#x10D;kovanie vakc&#xED;nami</trd>,
+    <trd>vakcin&#xE1;cia</trd>
   </trdgrp>
   <trd lng="tr">a&scedil;&inodot;lama</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x430;&#x43A;&#x446;&#x438;&#x43D;&#x430;&#x446;&#x456;&#x44F;</trd>,
+    <trd>&#x449;&#x435;&#x43F;&#x43B;&#x435;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

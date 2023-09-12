@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: krad.xml,v 1.20 2006/11/02 17:31:59 revo Exp $">
+<art mrk="$Id: krad.xml,v 1.36 2023/09/01 15:46:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krad</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
+
 <drv mrk="krad.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="krad.0o.KOMUNE">
@@ -15,12 +15,83 @@
       Aro da lignaj a&ubreve; feraj stangoj, interspace kunigitaj per
       transversaj samspecaj stangoj, kaj servanta kiel forta barilo:
       <ekz>
-        la <tld/>oj de parko, domo, fenestro, mona&hcirc;ejo,
-        malliberejo;
+        <tld/>o en formo de kupra reto
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 27:4</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        kameno &ccirc;irka&ubreve;ita de arte aran&gcirc;ita
-        <tld/>a&jcirc;o<fnt>Z</fnt>.
+        tra la fera <tld/>o anta&ubreve; sia malgranda fenestro povis vidi, kiel la popolo el
+        la urbo rapide alkuras
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Fajrilo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>fenestraj malliberejoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Bildo el kastelremparo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <klr>[&#x2026;]</klr> fermis la <tld/>pordon
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Petra</nom> jam dormis en sia <tld/>lito
+        <fnt><aut>Jouko Lindstedt</aut>,
+        <vrk><url ref="&Monato;/2000/006918.php">La helikoj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/07, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili amis sekvi la eksteran muradon de la parko, kaj poste alveni anta&ubreve; la
+        <tld/>ego, tra kiu subite senvuali&gcirc;is la frontego de la vasta palaco
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malanta&ubreve; la malalta <tld/>o, estis ombra aleo
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la hospitalo estas apartigita de la strato per sufi&ccirc;e alta <tld/>o, en kiu la
+        dikaj feraj stangoj estas tiel malproksimaj unu de la alia, ke <klr>[&#x2026;]</klr>
+        maldikaj lo&gcirc;antoj de tiu institucio sin trapremas
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la tombojn, <klr>[&#x2026;]</klr> &ccirc;irka&ubreve;as <ref cel="ajxur.0a">a&jcirc;ura</ref> marmora <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Anatoli Ionesov</aut>
+          <vrk><url ref="&Monato;/2006/008920.php">Perlo &ccirc;e la Silka Vojo</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ru&gcirc;a <tld/>o <klr>(<tld/>desegno, kp <ref cel="hacx.0i.BELA">ha&ccirc;i</ref>)</klr>
+        frontpa&gcirc;e, <klr>[&#x2026;]</klr> fotoj estis relative malmultaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2004/008384.html">Alveno al la moderna
+          vivo</url></vrk>
+          <lok>2004</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -56,26 +127,61 @@
       <trd>cancela</trd>    
     </trdgrp>
   </snc>
+  <snc mrk="krad.0o.fajra">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Tia aran&gcirc;o de metalstangoj, uzataj por rostado super fajro:
+      <ekz>
+        oni portis <klr>[&#x2026;]</klr> <tld/>ojn por la fornoj, turnrostilojn, dutenilajn
+        potojn
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref cel="rost.krad0i">kradrosti</ref>, 
+        <ref tip="malprt" cel="rost.krad0ilo">kradrostilo</ref>.
+      </ekz>
+    </dif>
+    <trd lng="de">Grillrost</trd>
+  </snc>
   <snc mrk="krad.0o.komp">
     <uzo tip="fak">KOMP</uzo>
     <dif>
-      Nomo de la signo # (Askie 35).
+      Nomo de la signo # (Askie 35):
+      <ekz>
+        jam aperis la tvitera <ind><tld/>vorto</ind> <nom>#indy2</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ed Robertson</aut>
+          <vrk><url ref="&Monato;/2014/011383.php">Kien nun?</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+        <trd lng="en">hashtag</trd>
+        <trd lng="de">Hashtag</trd>
+      </ekz>
     </dif>
     <rim>
       En Askion la signo trafis pro la Usona negocista tradicio,
-      kie &gcirc;i servis por enkonduki numeron (<ctl>track #3</ctl> t.e.
-      <ctl>trako n-ro 3</ctl>) a&ubreve; funtojn (<ctl>a 5# sack of
-      sugar</ctl> t.e. <ctl>kvinfunta sukersako</ctl>). En
+      kie &gcirc;i servis por enkonduki numeron (&leftquot;<nac>track #3</nac>&rightquot; t.e.
+      <ctl>trako n-ro 3</ctl>) a&ubreve; funtojn (&leftquot;<nac>a 5# sack of
+      sugar</nac>&rightquot; t.e. <ctl>kvinfunta sukersako</ctl>). En
       komputado &gcirc;i balda&ubreve; ricevis aliajn uzojn, ofte tute
       senrilatajn kun la indikitaj (ekz-e kiel surogato por signi
-      neegalon, anstata&ubreve; &#8800;). La nomoj
+      neegalon, anstata&ubreve; &#x2260;). La nomoj
       <ctl>numersigno</ctl> kaj <ctl>funtsigno</ctl> estas
       nerekomendindaj &ccirc;ar ekster Usono ili estas malklaraj kaj
       eble e&ccirc; erarigaj (oni povas havi aliajn
-      <ctl>numersignojn</ctl>, ekz-e &#8470; en Rusio).
+      <ctl>numersignojn</ctl>, ekz-e &#x2116; en Rusio).
     </rim>
     <ref tip="sin" cel="dies.0o.komp">dieso</ref>
     <ref tip="malprt" cel="aski.0o">Askio</ref>
+    <ref tip="vid" cel="lozang.0o.figuro">lozan&gcirc;o<sncref/></ref>
+    <trdgrp lng="de">
+      <trd>Lattenzaun</trd>,
+      <trd>Raute</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>number sign</trd>, <trd>hash</trd>, <trd>pound sign</trd>,
       <trd>grid</trd>, <trd>octothorpe</trd>, <trd>sharp</trd>,
@@ -104,9 +210,11 @@
     <trd>m&rcaron;&iacute;&zcaron;ov&iacute;</trd>,
     <trd>ro&scaron;t</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>Lattenzaun</trd>,
-    <trd>Raute</trd>
+  <trdgrp lng="ja">
+    <trd>&#x683C;&#x5B50;  [<ind>&#x3053;&#x3046;&#x3057;</ind>]</trd>,
+    <trd>&#x683C;&#x5B50;&#x67F5;  [<ind>&#x3053;&#x3046;&#x3057;&#x3055;&#x304F;</ind>]</trd>,
+    <trd>&#x683C;&#x5B50;&#x72B6;&#x306E;&#x3082;&#x306E;  [<ind>&#x3053;&#x3046;&#x3057;&#x3058;&#x3087;&#x3046;&#x306E;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x30B0;&#x30EA;&#x30C3;&#x30C9;</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>krata</trd>,
@@ -119,6 +227,17 @@
     <trd>mre&zcaron;a</trd>,
     <trd>ro&scaron;t</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_je;&c_sh;&c_ib;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_h;&c_je;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_h;&c_je;&c_t;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_s;&c_ib;&c_t;&c_k;&c_a; (&c_v; &c_je;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_ib;&c_j; &c_l;&c_a;&c_m;&c_p;&c_ib;)</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_o;&c_s;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_o;&c_s;&c_n;&c_i;&c_k;&c_o;&c_v;&c_a; &c_r;&c_je;&c_sh;&c_ib;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_gu;&c_r;&c_a;&c_t;&c_n;&c_i;&c_c;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_sh;&c_p;&c_je;&c_r;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krad.0i">
@@ -129,7 +248,7 @@
       Provizi per <tld/>o:
       <ekz>
         malgranda birdo alflugas al la <tld/>ita fenestro
-        <fnt><bib>Fab2</bib>, <lok>Bildo el kastelremparo</lok></fnt>
+        <fnt><bib>Fab2</bib>, <lok>Bildo el kastelremparo</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -138,12 +257,14 @@
     <trd>&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; &c_r;&c_a;&c_sh;&c_o;&c_t;&c_k;&c_u;</trd>
   </trdgrp>
   <trd lng="cs">zam&rcaron;&iacute;&zcaron;ovat</trd>
+  <trd lng="de">vergittern</trd>
   <trd lng="es">enrejar</trd>
   <trd lng="fr">grillager</trd>
   <trdgrp lng="hu">
     <trd>r&aacute;csoz</trd>,
     <trd>ber&aacute;csoz</trd>
   </trdgrp>
+  <trd lng="ja">&#x683C;&#x5B50;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x3053;&#x3046;&#x3057;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>
   <trd lng="pl">okratowa&cacute;</trd>     
   <trd lng="ro">frige pe gr&abreve;tar</trd>
   <trd lng="ru">&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;
@@ -152,37 +273,157 @@
     <trd>omre&zcaron;ova&tcaron;</trd>,
     <trd>zamre&zcaron;ova&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_i; &c_gu;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_gu;&c_r;&c_a;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_g;&c_o;&c_r;&c_o;&c_d;&c_i;&c_t;&c_i; &c_sh;&c_t;&c_a;&c_h;&c_je;&c_t;&c_a;&c_m;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="krad.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc mrk="krad.0a.provizita">
+    <dif>
+      Provizita per <tld/>o:
+      <ekz>
+        la vento fajfadis tra la <tld/>a fenestro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &gcirc;ardenon &ccirc;irka&ubreve;is fera <ind><tld/>a barilo</ind>
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova domo</lok>
+        </fnt>.
+        <trd lng="de">Gitterzaun</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_sh;&c_e;&c_c;&c_ib;&c_s;&c_t;&c_y;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_t;&c_ch;&c_a;&c_t;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">m&rcaron;&iacute;&zcaron;ovit&yacute;</trd>
+  <trd lng="de">vergittert</trd> 
+  <trd lng="fr">&agrave; <ind>claire-voie</ind></trd>
+  <trdgrp lng="hu">
+    <trd>r&aacute;csos</trd>,
+    <trd>kock&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x683C;&#x5B50;&#x306E;  [<ind>&#x3053;&#x3046;&#x3057;&#x306E;</ind>]</trd>,
+    <trd>&#x683C;&#x5B50;&#x306E;&#x4ED8;&#x3044;&#x305F;  [<ind>&#x3053;&#x3046;&#x3057;&#x306E;&#x3064;&#x3044;&#x305F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kratowy</trd>,
+    <trd>okratowany</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>z&abreve;brele</trd>,
+    <trd>barat</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_sh;&c_jo;&c_t;&c_ch;&c_a;&c_t;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>mre&zcaron;ovit&yacute;</trd>,
+    <trd>mrie&zcaron;kovit&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_r;&c_a;&c_t;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_je;&c_sh;&c_ib;&c_t;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_ib;&c_t;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_h;&c_je;&c_t;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_o;&c_s;&c_n;&c_i;&c_k;&c_o;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="krad.0ajxo">
+  <kap>
+    <tld/>a&jcirc;o
+  </kap>
+  <snc>
+    <dif>
+      Objekto konsistanta el <tld/>o, provizita per <tld/>o:
+      <ekz>
+        &ccirc;irka&ubreve; la krono estis <tld/>a&jcirc;o kaj granatoj, &ccirc;io el kupro
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 52:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la blanke farbita ligna <tld/>a&jcirc;o <klr>[&#x2026;]</klr> staris rozarbeto
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Bona humoro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lokon oni &ccirc;irka&ubreve;baris per ora <tld/>a&jcirc;o, kaj tage kaj nokte apud &gcirc;i staris
+        gardostaranto
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Folio el la &ccirc;ielo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eleganta kameneto, &ccirc;irka&ubreve;ita de fera, arte aran&gcirc;ita <tld/>a&jcirc;o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Verhau</trd>,
+    <trd>Dratgeflecht</trd>
+  </trdgrp>
+  <trd lng="ja">&#x683C;&#x5B50;&#x7D44;  [<ind>&#x3053;&#x3046;&#x3057;&#x304F;&#x307F;</ind>]</trd>
 </drv>
 
 <drv mrk="krad.0ita">
   <kap><tld/>ita</kap>
+  <snc mrk="krad.0ita.kun_grado">
+    <refgrp tip="vid">
+       <ref cel="krad.0a">krada</ref>,
+       <ref cel="krad.0i">kradi</ref>
+    </refgrp>
+  </snc>
   <snc mrk="krad.0ita.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
       Ornamita per <tld/>forme interkruci&gcirc;antaj linioj:
       <ekz>
-        mikskolore <tld/>ita &scirc;tofo<fnt>Z</fnt>.
+        silkaj vestoj <klr>[de kiuj]</klr> unu flanko estis &ccirc;ielarke <ref cel="stri.0i">strii</ref>ta kaj la dua
+        mikskolore <tld/>ita
+        <fnt>
+          <bib>RBa</bib>
+        </fnt>.
       </ekz>
     </dif>
     <ref tip="vid" cel="kvadra1.0umi0i">kvadratita</ref>
     <ref tip="sin" cel="plejd.0o">plejda</ref>
+    <trd lng="cs">zam&rcaron;&iacute;&zcaron;ovan&yacute;</trd>
+    <trd lng="de">kariert</trd> 
+    <trd lng="en">plaid</trd>
+    <trdgrp lng="fr">
+      <trd>&eacute;cossais<klr> (motif)</klr></trd>
+      <trd>vichy<klr> (motif)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>r&aacute;csos</trd>,
+      <trd>kock&aacute;s</trd>
+    </trdgrp>
+    <trd lng="pl">kraciasty</trd>     
+    <trd lng="ro">cadrilat</trd>
+    <trd lng="ru">&c_sh;&c_o;&c_t;&c_l;&c_a;&c_n;&c_d;&c_k;&c_a;
+    <klr>(&c_t;&c_k;&c_a;&c_n;&c_mol;)</klr></trd>
+    <trd lng="sk">zamre&zcaron;ovan&yacute;</trd>
   </snc>
-  <trd lng="cs">zam&rcaron;&iacute;&zcaron;ovan&yacute;</trd>
-  <trd lng="de">kariert</trd>
-  <trd lng="en">plaid</trd>
-  <trdgrp lng="fr">
-    <trd>&eacute;cossais<klr> (motif)</klr></trd>
-    <trd>vichy<klr> (motif)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>r&aacute;csos</trd>,
-    <trd>kock&aacute;s</trd>
-  </trdgrp>
-  <trd lng="pl">kraciasty</trd>     
-  <trd lng="ro">cadrilat</trd>
-  <trd lng="ru">&c_sh;&c_o;&c_t;&c_l;&c_a;&c_n;&c_d;&c_k;&c_a;
-  <klr>(&c_t;&c_k;&c_a;&c_n;&c_mol;)</klr></trd>
-  <trd lng="sk">zamre&zcaron;ovan&yacute;</trd>
 </drv>
 
 <drv mrk="krad.cxirkaux0i">
@@ -191,14 +432,31 @@
   <fnt><bib>PIV2</bib></fnt>
   <snc mrk="krad.cxirkaux0i.KOMUNE">
     <dif>
-      &Ccirc;irka&ubreve;igi per <tld/>o.
+      &Ccirc;irka&ubreve;igi per <tld/>o:
+      <ekz>
+        trovi&gcirc;is anka&ubreve; &ccirc;irka&ubreve;<tld/>ita estrado, sur kies balustrado staris diversaj
+        sanktaj objektoj
+        <fnt>
+          <bib>RBa</bib>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="vid" cel="bar.cxirkaux0i.fermi">&ccirc;irka&ubreve;bari<sncref/></ref>
   </snc>
+  <trdgrp lng="de">
+    <trd>mit einem Gitter <ind>umgeben</ind></trd>,
+    <trd>umz&auml;unen <klr>(Gitter)</klr></trd>
+  </trdgrp>
   <trd lng="fr">grillager</trd>
   <trd lng="pl">ogrodzi&cacute; krat&aogonek;</trd>     
   <trd lng="ro">gard z&abreve;brele</trd>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_b;&c_g;&c_o;&c_r;&c_o;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i; &c_r;&c_je;&c_sh;&c_ib;&c_t;&c_k;&c_o;&c_ju;</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_h;&c_je;&c_t;&c_a;&c_m;&c_i;</trd>
+  </trdgrp>
 </drv>
 
+<!-- sen fonto:
 <drv mrk="krad.de0i">
   <kap>de<tld/>i<fnt>Z</fnt></kap>
   <gra><vspec>tr</vspec></gra>
@@ -217,51 +475,41 @@
   <trd lng="ro">gril&abreve; separat&abreve;</trd>
   <trd lng="sk">odstr&aacute;ni&tcaron; mre&zcaron;u</trd>
 </drv>
+-->
 
-<drv mrk="krad.0eca">
-  <kap><tld/>a<fnt>Z</fnt>, <var><kap><tld/>eca</kap></var></kap>
-  <snc mrk="krad.0eca.FORM">
-    <dif>
-      Prezentanta intencajn interspacojn, same kiel <tld/>o;
-      <ref tip="vid" cel="ajxur.0a">a&jcirc;ura</ref>:
-      <ekz>
-        tra la <tld/>a aperturo de la pordego<fnt>Z</fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_r;&c_a;&c_sh;&c_e;&c_c;&c_ib;&c_s;&c_t;&c_y;</trd>,
-    <trd>&c_k;&c_r;&c_a;&c_t;&c_ch;&c_a;&c_t;&c_y;</trd>
-  </trdgrp>
-  <trd lng="cs">m&rcaron;&iacute;&zcaron;ovit&yacute;</trd>
-  <trd lng="fr">&agrave; <ind>claire-voie</ind></trd>
-  <trdgrp lng="hu">
-    <trd>r&aacute;csos</trd>,
-    <trd>kock&aacute;s</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>kratowy</trd>,
-    <trd>okratowany</trd>
-  </trdgrp>   
-  <trdgrp lng="ro">
-    <trd>z&abreve;brele</trd>,
-    <trd>barat</trd>
-  </trdgrp>
-  <trd lng="ru">&c_r;&c_je;&c_sh;&c_jo;&c_t;&c_ch;&c_a;&c_t;&c_y;&c_j;</trd>
-  <trdgrp lng="sk">
-    <trd>mre&zcaron;ovit&yacute;</trd>,
-    <trd>mrie&zcaron;kovit&yacute;</trd>
-  </trdgrp>
-</drv>
 
 <drv mrk="krad.lat0o">
   <kap>lat<tld/>o</kap>
   <snc mrk="krad.lat0o.HOR">
     <uzo tip="fak">HOR</uzo>
     <dif>
-      <tld lit="K"/>a lataro uzata en &gcirc;ardenoj por surkreskigi lianojn,
-      a&ubreve; kiel ornama&jcirc;o.
+      <tld lit="K"/>a <ref cel="lat.0aro">lataro</ref> uzata en &gcirc;ardenoj por surkreskigi
+      lianojn, a&ubreve; kiel ornama&jcirc;o:
+      <ekz>
+        oni kondukas <nom>Kandid</nom> en la&ubreve;bon <klr>[&#x2026;]</klr> el lat<tld/>oj, kiuj entenis
+        papagojn, kolibrojn, numidojn
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        gvatis de malanta&ubreve; sia kukuma lat<tld/>o
+        <fnt>
+          <vrk><url ref="http://literaturo.esperanto.net/bk/verk/brokant.html">Belartaj Konkursoj:
+          Brokante</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="lauxb.0o">la&ubreve;bo</ref>,
+      <ref cel="pergol.0o">pergolo</ref>,
+      <ref cel="spalir.0o">spaliro</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Kletterhilfe <klr>(Garten)</klr></trd>,
+      <trd>Rankger&uuml;st</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_sh;&c_e;&c_c;&c_ib;&c_s;&c_t;&c_a;&c_ja; &c_a;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_a;</trd>
   <trd lng="cs">&scaron;pal&iacute;r</trd>
@@ -286,102 +534,30 @@
   <trd lng="sk">&scaron;palier</trd>
 </drv>
 
-<drv mrk="krad.0rosti">
-  <kap><tld/>rosti</kap>
-  <gra><vspec>tr</vspec></gra>
-  <uzo tip="fak">KUI</uzo>
-  <snc>
-    <dif>
-      <ref tip="super" cel="kuir.0i">Kuiri</ref> man&gcirc;a&jcirc;on
-sur krado super
-      fajro.
-    </dif>
-  </snc>
-  <trd lng="be">&c_s;&c_m;&c_a;&c_zh;&c_y;&c_c;&c_mol; &c_n;&c_a;
-<ind>&c_g;&c_r;&c_y;&c_l;&c_ib;</ind></trd>
-  <trd lng="cs">op&eacute;kat na ro&scaron;tu</trd>
-  <trd lng="en">grill</trd>
-  <trd lng="fr">faire <ind>griller</ind></trd>
-  <trdgrp lng="hu">
-    <trd>roston s&uuml;t</trd>,
-    <trd>grillez</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>piec na ruszcie</trd>,
-    <trd>grilowa&cacute;</trd>
-  </trdgrp>   
-  <trdgrp lng="ro">
-    <trd>friptur&abreve; la gr&abreve;tar</trd>,
-    <trd>gr&abreve;tar</trd>
-  </trdgrp>
-  <trd lng="ru">&c_zh;&c_a;&c_r;&c_i;&c_t;&c_mol; &c_n;&c_a;
-<ind>&c_g;&c_r;&c_i;&c_l;&c_je;</ind></trd>
-  <trd lng="sk">opeka&tcaron; na ro&scaron;te</trd>
-</drv>
-
-<drv mrk="krad.0rostilo">
-  <kap><tld/>rostilo</kap>
-  <uzo tip="fak">KUI</uzo>
-  <snc>
-    <dif>
-      Kuireja aparato, konsistanta el paralelaj ferstangetoj, sur
-      kiujn oni metas viandon a&ubreve; fi&scirc;on, por &gcirc;in
-ekrosti per vigla
-      fajro.
-    </dif>
-    <trd lng="be">&c_g;&c_r;&c_y;&c_l;&c_mol; <klr
-tip="amb">(&c_r;&c_a;&c_sh;&c_o;&c_t;&c_k;&c_a; &c_d;&c_l;&c_ja;
-&c_s;&c_m;&c_a;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
-    <trd lng="de">Grill</trd>
-    <trd lng="en">grill</trd>
-    <trd lng="es">parrilla</trd>
-    <trd lng="fr">grill</trd>
-    <trdgrp lng="hu">
-      <trd>s&uuml;t&odblac;rost&eacute;ly</trd>,
-      <trd>grills&uuml;t&odblac;</trd>
-    </trdgrp>
-    <trdgrp lng="ru">
-      <trd>&c_r;&c_a;&c_sh;&c_p;&c_je;&c_r;</trd>,
-      <trd>&c_r;&c_je;&c_sh;&c_jo;&c_t;&c_k;&c_a;<klr tip="amb">
-(&c_d;&c_l;&c_ja; &c_zh;&c_a;&c_r;&c_k;&c_i;)</klr></trd>,
-      <trd>&c_g;&c_r;&c_i;&c_l;&c_mol;</trd>
-    </trdgrp>
-  </snc>
-  <trdgrp lng="cs">
-    <trd>ro&scaron;t k op&eacute;k&aacute;n&iacute;</trd>,
-    <trd>ro&scaron;tov&yacute; gril</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>grill</trd>,
-    <trd>ruszt</trd>
-  </trdgrp>   
-  <trdgrp lng="ro">
-    <trd>rotisor</trd>,
-    <trd>gr&abreve;tar</trd>
-  </trdgrp>
-  <trd lng="sk">ro&scaron;t na pe&ccaron;enie m&auml;sa</trd>
-</drv>
 </art>
 <!--
 $Log$
-Revision 1.25  2017/02/15 15:10:27  revo
-Jeromo Vasxe: interkucigxantaj -> interkrucigxantaj
+versio 1.35 2023/04/26 14:28:31
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.24  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.34 2022/09/22 16:50:34
+Wolfram Diestel: lat~o: +ekz, ref
 
-Revision 1.23  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.33 2022/06/07 21:28:18
+Ulrich Fellmann: krado: translokigo de 2 DE trdj
 
-Revision 1.22  2013/09/01 01:10:12  revo
-Carlos Garcia: +trd es -o -i -rostilo
+versio 1.32 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.21  2012/10/23 00:12:33  revo
-Neil Roberts: aldonu la etikedon <var>
+versio 1.30 2021/05/24 11:02:16
+Wolfram Diestel: kor. ref-cel
 
-Revision 1.20  2006/11/02 17:31:59  revo
-Tulio Flores: +tr pt
+versio 1.29 2021/05/23 10:55:48
+Wolfram Diestel: chirkau~i, lat~o: ekz-oj, ref-oj, trd de
 
-Revision 1.19  2006/09/19 05:36:07  revo
+versio 1.28 2021/05/23 09:57:29
+Wolfram Diestel: +snc KUI, movis ~rosti, ~rostilo al rost/
+
+versio 1.27 2021/05/23 08:56:20
 -->
 </vortaro>

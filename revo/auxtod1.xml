@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: auxtod1.xml,v 1.15 2010/06/24 16:30:21 revo Exp $">
+<art mrk="$Id: auxtod1.xml,v 1.24 2023/04/25 11:23:15 revo Exp $">
 <kap>
   <rad>a&ubreve;todidakt</rad>/o
 </kap>
@@ -46,18 +45,18 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="https://www.monato.be/2005/008666.php"
-              >Folklora festivalo en Kaustinen</url></vrk>
+          <vrk><url ref="&Monato;/2005/008666.php">Folklora festivalo en
+          Kaustinen</url></vrk>
           <lok>2005</lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>a konstruisto inventis &gcirc;in
         <fnt>
+       <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2000/006877.php">Nekutimaj transportiloj</url></vrk>
           <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006877.html"
-              >Nekutimaj transportiloj</url></vrk>
+          <lok>2000/06, p. 21</lok>
         </fnt>.
       </ekz>  
     </dif>  
@@ -71,12 +70,17 @@
   </trdgrp>
   <trd lng="es">autodidacta</trd>
   <trd lng="fr">autodidacte<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="he">
+    <trd>&#x5D0;&#x5D5;&#x5D8;&#x5D5;&#x5D3;&#x5D9;&#x5D3;&#x5E7;&#x5D8;</trd>,
+    <trd>&#x5DC;&#x5D5;&#x5DE;&#x5D3; &#x5D1;&#x5E2;&#x5E6;&#x5DE;&#x5D5;</trd>
+  </trdgrp>
   <trd lng="hu">autodidakta</trd>
   <trd lng="it">autodidatta</trd>
   <trd lng="nl">autodidact</trd>
   <trd lng="pl">samouk</trd>
   <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_u;&c_ch;&c_k;&c_a;</trd>
   <trd lng="sk">samouk</trd>
+  <trd lng="uk">&c_s;&c_a;&#x43C;&#x43E;&c_u;&#x43A;</trd>
 </drv>
 
 <drv mrk="auxtod1.0e">
@@ -91,8 +95,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.be/2007/009010.php"
-              >Resume de l' mio</url></vrk>
+          <vrk><url ref="&Monato;/2007/009010.php">Resume de l' mio</url></vrk>
           <lok>2007</lok>
         </fnt>;
       </ekz>
@@ -102,8 +105,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gilbert Ledon</aut>
-          <vrk><url ref="https://www.monato.be/2003/008015.html"
-              >Misa mondo</url></vrk>
+          <vrk><url ref="&Monato;/2003/008015.html">Misa mondo</url></vrk>
           <lok>2003</lok>
         </fnt>;
       </ekz>
@@ -113,20 +115,33 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.be/2006/008956.php"
-              >Unika vortaro por lernantoj</url></vrk>
+          <vrk><url ref="&Monato;/2006/008956.php">Unika vortaro por
+          lernantoj</url></vrk>
           <lok>2006</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="de">autodidaktisch</trd>
+  <trd lng="he">&#x5D0;&#x5D5;&#x5D8;&#x5D5;&#x5D3;&#x5D9;&#x5D3;&#x5E7;&#x5D8;</trd>
 </drv>
 
 
 </art>
   <!--
   $Log$
+versio 1.24 2023/04/25 11:23:15
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.23 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.21 2022/03/16 16:54:25
+Wolfram Diestel: kor. trd
+
   Revision 1.17  2017/06/18 20:10:15  revo
   Vito Redsky: +trd pl
 
@@ -137,26 +152,5 @@
   Sergio Pokrovskij: disigis la sencojn, ekz
 
   Revision 1.14  2006/01/25 17:31:15  revo
-  Jeromo Vasxe: + fak ped
-
-  Revision 1.13 2002/12/17 20:13:11 revo
-  Ulrich Fellmann: + 1 trd = de
-
-  Revision 1.12 2002/11/01 09:17:49 revo
-  Christopher Zervic: + ang
-
-  Revision 1.11 2002/09/24 16:32:03 revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.10 2002/05/15 16:39:30 revo
-  Alejandro Mejia Greene: ald his trd
-
-  Revision 1.9 2002/04/01 18:50:52 revo
-  Zmicier Lapcionak: + trd be
-
-  Revision 1.8 2002/03/21 18:37:41 revo
-  Yury Finkel: formatigis
-
-  Revision 1.7 2002/01/10 17:31:40 revo
-  -->
+-->
 </vortaro>

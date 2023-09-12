@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: flik.xml,v 1.18 2008/11/23 19:13:21 revo Exp $">
+<art mrk="$Id: flik.xml,v 1.26 2023/08/31 13:11:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>flik</rad>/i
@@ -49,6 +48,7 @@
     <trd>&c_l;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_c;&c_y;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF63;&#xFB7;&#xF53;&#xF0B;&#xF54;&#xF0B;&#xF62;&#xF92;&#xFB1;&#xF42;&#xF0B;</trd>
   <trdgrp lng="ca">
     <trd>adobar</trd>,
     <trd>aparracar</trd>,
@@ -78,6 +78,11 @@
     <trd>racommoder</trd>,
     <trd>rapi&eacute;cer</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x304E;&#x3092;&#x5F53;&#x3066;&#x308B;  [<ind>&#x3064;&#x304E;&#x3092;&#x3042;&#x3066;&#x308B;</ind>]</trd>,
+    <trd>&#x53D6;&#x308A;&#x7E55;&#x3046;  [<ind>&#x3068;&#x308A;&#x3064;&#x304F;&#x308D;&#x3046;</ind>]</trd>,
+    <trd>&#x30D1;&#x30C3;&#x30C1;&#x3092;&#x5F53;&#x3066;&#x308B;  [<ind>&#x3071;&#x3063;&#x3061;&#x3092;&#x3042;&#x3066;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">oplappen</trd>
   <trd lng="pl">&lstroke;ata&cacute;</trd>
   <trdgrp lng="pt">
@@ -92,6 +97,10 @@
     <trd>&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; &c_z;&c_a;&c_p;&c_l;&c_a;&c_t;&c_u;</trd>
   </trdgrp>
   <trd lng="sk">pl&aacute;ta&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x430;&#x442;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x448;&#x442;&#x43E;&#x43F;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flik.0ajxo">
@@ -106,6 +115,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_a;&c_t;&c_k;&c_a;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x304E;</trd>,
+    <trd>&#x30D1;&#x30C3;&#x30C1;</trd>
+  </trdgrp>
   <trd lng="pt">peda&ccedil;</trd>
   <trd lng="de">Flicken</trd>
   <trd lng="en">patch</trd>
@@ -122,6 +135,7 @@
   <trd lng="nl">oplapping</trd>
   <trd lng="pl">&lstroke;ata</trd>
   <trd lng="ru">&c_z;&c_a;&c_p;&c_l;&c_a;&c_t;&c_a;</trd>
+  <trd lng="uk">&#x43B;&#x430;&#x442;&#x43A;&#x430;</trd>
 </drv>
 
 <drv mrk="flik.0isto">
@@ -141,6 +155,10 @@
   </trdgrp>
   <trd lng="fr">rapi&eacute;ceur</trd>
   <trd lng="hu">foltoz&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7E55;&#x3044;&#x8077;&#x4EBA;  [<ind>&#x3064;&#x304F;&#x308D;&#x3044;&#x3057;&#x3087;&#x304F;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x639B;&#x3051;&#x306F;&#x304E;&#x5C4B;  [<ind>&#x304B;&#x3051;&#x306F;&#x304E;&#x3084;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">oplapper</trd>
   <trd lng="sk">z&aacute;plat&aacute;r</trd>
 </drv>
@@ -160,6 +178,7 @@
   <trd lng="es">remendar</trd>
   <trd lng="fr">rapetasser</trd>
   <trd lng="hu">&ouml;sszetoldoz</trd>  
+  <trd lng="ja">&#x4E0D;&#x7D30;&#x5DE5;&#x306B;&#x3064;&#x304E;&#x3092;&#x5F53;&#x3066;&#x308B;  [<ind>&#x3076;&#x3055;&#x3044;&#x304F;&#x306B;&#x3064;&#x304E;&#x3092;&#x3042;&#x3066;&#x308B;</ind>]</trd>
 </drv>
 </art>
 <!--

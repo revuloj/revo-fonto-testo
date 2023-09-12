@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: kebeki.xml,v 1.15 2023/09/01 15:07:02 revo Exp $">
 <kap>
   <rad>Kebeki</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -18,8 +17,7 @@
         siajn amerikajn teritoriojn, kaj Anglio kreas la provincon <tld/>o
         <fnt>
           <aut>Esperanto-Societo Kebekia</aut>,
-          <vrk><url
-          ref="http://www.esperanto.qc.ca/html/quebec-historio-eo-u.htm">Informoj
+          <vrk><url ref="http://www.esperanto.qc.ca/html/quebec-historio-eo-u.htm">Informoj
           pri Kebekio</url></vrk>,
           <lok>[vidita en 2012]</lok>
         </fnt>;
@@ -28,31 +26,29 @@
         en <tld/>o la <tld lit="k"/>anoj etne formas integran nacion, regatan tamen de
         anglo-saksa re&gcirc;imo
         <fnt>
+          <aut>Remigiusz Mielcarek</aut>
+          <vrk><url ref="&Monato;/1994/A940101.php">Enmigrintoj en ora ka&gcirc;o</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9401-kanado.txt"
-              >Kanado</url></vrk>
-          <lok>94/01</lok>
+          <lok>1994/01, p. 15</lok>
         </fnt>;
       </ekz>
       <ekz>
         vel&scirc;ipon, kiu tenis 700 tonelojn, konstruis skoto en 1847 en <tld/>o
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008277.html">Renaski&gcirc;o de vel&scirc;ipo Jeanie Johnson</url></vrk>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2004/008277.html"
-              >Renaski&gcirc;o de vel&scirc;ipo Jeanie Johnson</url></vrk>
-          <lok>2004</lok>
+          <lok>2004/05, p. 21</lok>
         </fnt>;
       </ekz>
       <ekz>
         la franclingva kanada provinco <tld/>o provas plian fojon fari&gcirc;i la plej nova
         nord-amerika regno
         <fnt>
-          <bib>Monato</bib>
           <aut>Lenio Marobin</aut>
-          <vrk><url ref="https://www.monato.be/2014/011316.php"
-              >Grava elemento de monda nestabileco</url></vrk>
-          <lok>2014</lok>
+          <vrk><url ref="&Monato;/2014/011316.php">Grava elemento de monda nestabileco</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/10, p. 25</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -67,17 +63,29 @@
   <trd lng="en">Quebec</trd>
   <trd lng="es">Quebec</trd>
   <trd lng="fr">Qu&eacute;bec<klr> (province)</klr></trd>
+  <trd lng="ja">&#x30B1;&#x30D9;&#x30C3;&#x30AF;&#x5DDE;  [<ind>&#x30B1;&#x30D9;&#x30C3;&#x30AF;&#x3057;&#x3085;&#x3046;</ind>]</trd>
   <trd lng="nl">Qu&eacute;bec</trd>
   <trd lng="pl">Quebec</trd>
   <trdgrp lng="sk">
     <trd>Quebec</trd>,
     <trd>Quebek</trd>
   </trdgrp>
+  <trd lng="ro">Qu&eacute;bec&gt;</trd>
+  <trd lng="uk">&#x41A;&c_v;&c_je;&c_b;&c_je;&#x43A;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.14 2023/05/11 04:29:55
+Paul Peeraerts: fnt, trd ro
+
+versio 1.13 2023/04/11 16:34:19
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.12 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.9  2019/10/21 20:10:15  revo
 Robin van der Vliet: ligo al Kebeko
 
@@ -91,11 +99,5 @@ Revision 1.6  2014/11/04 20:10:23  revo
 Filip van Laenen: +trd nl
 
 Revision 1.5  2014/08/30 19:10:21  revo
-Carlos Garcia: +trd es -o
-
-Revision 1.4  2014/03/02 10:10:15  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.3  2014/01/13 07:10:23  revo
 -->
 </vortaro>

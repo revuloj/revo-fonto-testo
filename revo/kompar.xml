@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kompar.xml,v 1.16 2009/10/10 16:30:30 revo Exp $">
+<art mrk="$Id: kompar.xml,v 1.106 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kompar</rad>/i
@@ -29,7 +28,7 @@
       </ekz>
       <ekz>
         vi <tld/>as la pagon, kiun ricevas la laborantinoj &ccirc;e sinjorino
-        N., kun tiu pago, 
+        N., kun tiu pago,
         kiun povas doni nia malri&ccirc;a laborejo, kaj &scirc;ajnas al vi, ke ni
         pagas tro malmulte...
         <fnt>
@@ -38,7 +37,7 @@
       </ekz>
       <ekz>
         ni bezonas nur <tld/>i la lingvojn rusan kaj polan, kaj ni
-        vidos, ke tute tio sama, 
+        vidos, ke tute tio sama,
         kion ni faris en nia lingvo, estis jam anta&ubreve;e farita de la
         naturo mem en la natura lingvo pola
         <fnt>
@@ -48,7 +47,7 @@
       </ekz>
       <ekz>
         &scirc;i ne povis tuj <tld/>i la estontan laborenspezon kun la
-        estontaj bezonoj kaj 
+        estontaj bezonoj kaj
         klare rimarki la nesufi&ccirc;econ de la unua, la pezon de la lastaj
         <klr>(vd <ref cel="pes.0i.valoron">pesi<sncref/></ref>)</klr>
         <fnt>
@@ -56,9 +55,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        <ind><tld/>i siajn fortojn</ind> 
-        <klr>(<ref cel="batal.0i">batali</ref>, vd <ref
-        cel="mezur.0i">mezuri</ref>)</klr>
+        <ind><tld/>i siajn fortojn</ind>
+        <klr>(<ref cel="batal.0i">batali</ref>, vd <ref cel="mezur.0i">mezuri</ref>)</klr>
         <fnt>
           <bib>MT</bib>
           <lok>II. Kroniko 25:21</lok>
@@ -70,8 +68,7 @@
         <tld/>i malsamajn versiojn de dosieroj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=710'>CVS</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=710">CVS</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -97,15 +94,25 @@
     </dif>
     <ref tip="vid" cel="analog.0eco">analogeco</ref>
   </snc>
-  <trd
-  lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="af">vergelyk</trd>
+  <trd lng="am">&#x12A0;&#x12C8;&#x12F3;&#x12F5;&#x122D;</trd>
+  <trd lng="ar">&a_m;&a_q;&a_A;&a_r;&a_n;&a_t_marbuta;</trd>
+  <trd lng="az">m&#xFC;qayis&#x259; etm&#x259;k</trd>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bn">&#x9A4;&#x9C1;&#x9B2;&#x9A8;&#x9BE;</trd>
+  <trd lng="bs">usporediti</trd>
+  <trd lng="co">parauni</trd>
   <trdgrp lng="cs">
     <trd>p&rcaron;irovn&aacute;vat</trd>,
     <trd>srovn&aacute;vat</trd>
   </trdgrp>
+  <trd lng="cy">cymharu</trd>
+  <trd lng="da">sammenligne</trd>
   <trd lng="de">vergleichen</trd>
   <trd lng="en">compare</trd>
   <trd lng="es">comparar</trd>
+  <trd lng="et">v&#xF5;rrelda</trd>
+  <trd lng="eu">alderatu</trd>
   <trdgrp lng="fr">
     <trd>comparer</trd>,
     <trd>confronter<klr tip="ind"> (mettre en
@@ -114,24 +121,87 @@
     <trd>rapprocher<klr tip="ind"> (mettre en
     parall&egrave;le)</klr></trd>
   </trdgrp>
+  <trd lng="fy">ferlykje</trd>
+  <trd lng="ga">a chur i gcompar&#xE1;id</trd>
+  <trd lng="gd">coimeas a dh&#xE8;anamh eadar</trd>
+  <trd lng="gl">comparar</trd>
+  <trd lng="gu">&#xAB8;&#xAB0;&#xA96;&#xABE;&#xAAE;&#xAA3;&#xAC0;</trd>
+  <trd lng="ha">kwatanta</trd>
+  <trd lng="hi">&#x924;&#x941;&#x932;&#x928;&#x93E;</trd>
+  <trd lng="hmn">piv</trd>
+  <trd lng="hr">usporedbu</trd>
+  <trd lng="ht">konpare</trd>
+  <trd lng="hy">&#x570;&#x561;&#x574;&#x565;&#x574;&#x561;&#x57F;&#x565;&#x56C;</trd>
+  <trd lng="ig">t&#x1EE5;nyere</trd>
+  <trd lng="is">bera</trd>
+  <trd lng="ja">&#x6BD4;&#x8F03;&#x3059;&#x308B; [<ind>&#x3072;&#x304B;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  <trd lng="jv">mbandhingak&#xE9;</trd>
+  <trd lng="ka">&#x10E8;&#x10D4;&#x10D3;&#x10D0;&#x10E0;&#x10D4;&#x10D1;&#x10D0;</trd>
+  <trd lng="kk">&c_s;&c_a;&#x43B;&#x44B;&c_s;&c_t;&#x44B;&c_r;&c_u;</trd>
+  <trd lng="km">&#x1794;&#x17D2;&#x179A;&#x17C0;&#x1794;&#x1792;&#x17C0;&#x1794;</trd>
+  <trd lng="kn">&#xCB9;&#xCCB;&#xCB2;&#xCBF;&#xCB8;&#xCBF;</trd>
+  <trd lng="ko">&#xBE44;&#xAD50;</trd>
+  <trd lng="ku">m&#xFB;qayesekirin</trd>
+  <trd lng="ky">&c_s;&c_a;&#x43B;&#x44B;&c_sh;&c_t;&#x44B;&c_r;&c_u;&c_u;</trd>
+  <trd lng="lo">&#xEAA;&#xEBB;&#xEA1;&#xE97;&#xEBD;&#xE9A;</trd>
+  <trd lng="lt">palyginti</trd>
+  <trd lng="lv">sal&#x12B;dzin&#x15D1;t</trd>
+  <trd lng="mg">ampitahao amin&#x2019;ny</trd>
+  <trd lng="mi">whakatairite i</trd>
+  <trd lng="mk">&c_s;&#x43F;&#x43E;&c_r;&c_je;&c_d;&c_i;</trd>
+  <trd lng="ml">&#xD24;&#xD3E;&#xD30;&#xD24;&#xD2E;&#xD4D;&#xD2F;&#xD02;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_r;&#x44C;&c_c;&c_u;&c_u;&#x43B;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x924;&#x941;&#x932;&#x928;&#x93E;</trd>
+  <trd lng="ms">membandingkan</trd>
+  <trd lng="mt">iqabblu</trd>
+  <trd lng="my">&#x1014;&#x103E;&#x102D;&#x102F;&#x1004;&#x103A;&#x1038;&#x101A;&#x103E;&#x1009;&#x103A;&#x1000;&#x103C;&#x100A;&#x1037;&#x103A;</trd>
+  <trd lng="ne">&#x924;&#x941;&#x932;&#x928;&#x93E; &#x917;&#x930;&#x94D;&#x928;&#x941;&#x939;&#x94B;&#x938;&#x94D;</trd>
   <trd lng="nl">vergelijken</trd>
+  <trd lng="ny">yerekezerani</trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA24;&#xA41;&#xA32;&#xA28;&#xA3E; &#xA15;&#xA30;&#xA4B;</trd>
   <trdgrp lng="pl">
     <trd>por&oacute;wna&cacute;</trd>,
     <trd>por&oacute;wnywa&cacute;</trd>
-  </trdgrp>   
+  </trdgrp>
+  <trd lng="ps">&#x67E;&a_h; &#x67E;&a_r;&#x62A;&a_l;&a_h;</trd>
   <trdgrp lng="pt">
     <trd>comparar</trd>,
     <trd>confrontar</trd>,
     <trd>aferir</trd>,
-    <trd>cotejar</trd>,            
+    <trd>cotejar</trd>,
     <trd>p&ocirc;r em <ind>paralelo</ind></trd>
   </trdgrp>
   <trd lng="ro">compara</trd>
   <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="rw">gereranya</trd>
+  <trd lng="sd">&a_S;&a_w;&a_r;&#x62A;</trd>
+  <trd lng="si">&#xDC3;&#xD82;&#xDC3;&#xDB1;&#xDCA;&#xDAF;&#xDB1;&#xDBA;</trd>
   <trdgrp lng="sk">
     <trd>porovna&tcaron;</trd>,
     <trd>prirovna&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">primerjati</trd>
+  <trd lng="sm">fa&#x2BB;atusatusa</trd>
+  <trd lng="sn">enzanisa</trd>
+  <trd lng="so">barbardhigi</trd>
+  <trd lng="sq">t&#xEB; krahasuar</trd>
+  <trd lng="st">bapisa</trd>
+  <trd lng="su">ngabandingkeun</trd>
+  <trd lng="sw">kulinganisha</trd>
+  <trd lng="ta">&#xB92;&#xBAA;&#xBCD;&#xBAA;&#xBBF;&#xB9F;&#xBCD;&#xB9F;&#xBC1;</trd>
+  <trd lng="te">&#xC38;&#xC30;&#xC3F;&#xC2A;&#xC4B;&#xC32;&#xC4D;&#xC1A;&#xC02;&#xC21;&#xC3F;</trd>
+  <trd lng="tg">&#x43D;&c_i;&c_s;&c_b;&c_a;&c_t; &c_b;&c_a;</trd>
+  <trd lng="th">&#xE40;&#xE1B;&#xE23;&#xE35;&#xE22;&#xE1A;&#xE40;&#xE17;&#xE35;&#xE22;&#xE1A;</trd>
+  <trd lng="tl">ihambing</trd>
+  <trd lng="tt">&c_ch;&c_a;&c_g;&#x44B;&c_sh;&c_t;&#x44B;&c_r;&#x44B;&c_g;&#x44B;&c_z;</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_r;&c_ib;&c_v;&#x43D;&#x44F;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_m;&a_w;&a_A;&a_z;&a_n;&#x6C1;</trd>
+  <trd lng="uz">solishtirish</trd>
+  <trd lng="vi">so s&#xE1;nh</trd>
+  <trd lng="xh">thelekisa</trd>
+  <trd lng="yi">&#x5E4;&#x5D0;&#x5B7;&#x5E8;&#x5D2;&#x5DC;&#x5D9;&#x5D9;&#x5B7;&#x5DB;&#x5DF;</trd>
+  <trd lng="yo">afiwe</trd>
+  <trd lng="zu">qhathanisa</trd>
 </drv>
 
 <drv mrk="kompar.0o">
@@ -168,9 +238,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        generalo ne povas havi e&ccirc; la plej malgrandan <tld/>on 
-        <klr>(<ref tip="vid"
-        cel="simil.0eco.gxenerale">simileco</ref>n)</klr> kun li
+        generalo ne povas havi e&ccirc; la plej malgrandan <tld/>on
+        <klr>(<ref tip="vid" cel="simil.0eco.gxenerale">simileco</ref>n)</klr> kun li
         <fnt>
           <bib>Revizoro</bib>
           <lok>Akto tria</lok>
@@ -192,8 +261,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trdgrp lng="cs">
     <trd>porovn&aacute;n&iacute;</trd>,
     <trd>p&rcaron;&iacute;m&ecaron;r</trd>,
@@ -210,13 +278,22 @@
     <trd>parall&egrave;le<klr tip="ind"> (rapprochement)</klr></trd>,
     <trd>rapprochement<klr tip="ind"> (comparaison)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6BD4;&#x8F03;  [<ind>&#x3072;&#x304B;&#x304F;</ind>]</trd>,
+    <trd>&#x5BFE;&#x6BD4;  [<ind>&#x305F;&#x3044;&#x3072;</ind>]</trd>,
+    <trd>&#x305F;&#x3068;&#x3048;</trd>
+  </trdgrp>
   <trd lng="nl">vergelijking</trd>
   <trd lng="pl">por&oacute;wnanie</trd>
-  <trd lng="ro">compara&tcedil;ie</trd>
+  <trd lng="ro">compara&#x21B;ie</trd>
   <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>porovn&aacute;vanie</trd>,
     <trd>prirovnanie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_r;&c_ib;&c_v;&#x43D;&#x44F;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_z;&c_ib;&c_s;&c_t;&c_a;&c_v;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -238,13 +315,13 @@
       </ekz>
       <ekz>
         la raporto plenumas <tld/>adon inter la progresoj, kiuj estas
-        registritaj 
+        registritaj
         en landoj kun plej bona sanstato, kaj tiuj estintaj en malpli
         evoluintaj landoj
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref='&Monato;/2013/011063.php'>Aspektoj
+          <vrk><url ref="&Monato;/2013/011063.php">Aspektoj
           de vivekspekto</url></vrk>
           <lok>2013</lok>
         </fnt>;
@@ -254,15 +331,13 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ji&rcaron;&iacute; LAUBE</aut>
-          <vrk><url
-          ref='https://www.monato.be/2003/007734.html'>La rolo de
+          <vrk><url ref="&Monato;/2003/007734.html">La rolo de
           lingvoj &ccirc;e la pensado</url></vrk>
           <lok>2003</lok>
         </fnt>.
       </ekz>
     </dif>
-    <trd
-    lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="de">Vergleichung</trd>
     <trdgrp lng="fr">
       <trd>comparaison</trd>,
@@ -283,8 +358,7 @@
         <fnt><bib>FK</bib><lok>Plena gramatiko de Esperanto</lok></fnt>.
       </ekz>
     </dif>
-    <trd
-    lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;
+    <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;
     <klr tip="amb">(&c_u;
     &c_g;&c_r;&c_a;&c_m;&c_a;&c_t;&c_y;&c_c;&c_y;)</klr></trd>
     <trdgrp lng="de">
@@ -296,22 +370,22 @@
     <trd lng="fr">comparaison<klr tip="ind"> (gramm.)</klr></trd>
     <trd lng="nl">trappen van <ind>vergelijking</ind></trd>
     <trd lng="pl">stopniowanie <klr>(gram.)</klr></trd>
-    <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;<klr
-    tip="amb">
+    <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;<klr tip="amb">
     (&c_g;&c_r;&c_a;&c_m;.)</klr></trd>
   </snc>
   <trdgrp lng="cs">
     <trd>komparace</trd>,
     <trd>srovn&aacute;v&aacute;n&iacute;</trd>
   </trdgrp>
-  <trd lng="ro">compara&tcedil;ie</trd>
+  <trd lng="ja">&#x6BD4;&#x8F03;  [<ind>&#x3072;&#x304B;&#x304F;</ind>]</trd>
+  <trd lng="ro">compara&#x21B;ie</trd>
   <trdgrp lng="sk">
     <trd>porovn&aacute;vanie</trd>,
     <trd>prirovnanie</trd>
   </trdgrp>
 </drv>
 
-<drv mrk="kompar.0e.kun">
+<drv mrk="kompar.0e_kun">
   <kap><tld/>e kun, <var><kap>en <tld/>o kun</kap></var></kap>
   <gra><vspec>prepozicia&jcirc;o</vspec></gra>
   <snc>
@@ -332,6 +406,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_u; &c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_ib; &c_z;&#x2026;</trd>
   <trd lng="de">verglichen mit</trd>
   <trd lng="es">en comparaci&oacute;n con</trd>
   <trdgrp lng="fr">
@@ -342,6 +417,7 @@
     <trd>par <ind>rapport</ind> &agrave;</trd>,
     <trd>en <ind>regard</ind> de</trd>
   </trdgrp>
+  <trd lng="ja">&#x3068;&#x6BD4;&#x3079;&#x3066;  [<ind>&#x3068;&#x304F;&#x3089;&#x3079;&#x3066;</ind>]</trd>
   <trd lng="nl">in <ind>vergelijking</ind> met</trd>
   <trd lng="pl">w por&oacute;wnaniu z </trd>
   <trdgrp lng="ro">
@@ -354,9 +430,8 @@
   <kap>ne<tld/>ebla</kap>
   <snc>
     <dif>
-      <ref tip="dif" cel="kompar.sen0a">Sen<tld/>a</ref>, 
-      <ref tip="sin"
-      cel="ordina.ekster0a.lau_grado">eksterordinara<sncref/></ref>,
+      <ref tip="dif" cel="kompar.sen0a">Sen<tld/>a</ref>,
+      <ref tip="sin" cel="ordina.ekster0a.lau_grado">eksterordinara<sncref/></ref>,
       de plej alta grado:
       <ekz>
         ne<tld/>ebla beleco
@@ -382,8 +457,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_n;&c_je;&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="cs">neporovnateln&yacute;</trd>
   <trdgrp lng="de">
     <trd>nicht <ind>vergleichbar</ind></trd>,
@@ -398,11 +472,15 @@
     <trd>sans <ind>pareil</ind></trd>,
     <trd>unique<klr tip="ind"> (hors pair)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6BD4;&#x3079;&#x308B;&#x7269;&#x306E;&#x306A;&#x3044;  [<ind>&#x304F;&#x3089;&#x3079;&#x308B;&#x3076;&#x3064;&#x306E;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x6BD4;&#x985E;&#x306E;&#x306A;&#x3044;  [<ind>&#x3072;&#x308B;&#x3044;&#x306E;&#x306A;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">onvergelijkelijk</trd>
   <trdgrp lng="pl">
     <trd>niezr&oacute;wnany</trd>,
     <trd>nadzwyczajny</trd>
-  </trdgrp>   
+  </trdgrp>
 <trdgrp lng="ro">
     <trd>necomparat</trd>,
     <trd>extraordinar</trd>
@@ -412,6 +490,7 @@
     <trd>&c_b;&c_je;&c_s;&c_p;&c_o;&c_d;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sk">neporovnate&lcaron;n&yacute;</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_z;&c_r;&c_ib;&c_v;&#x43D;&#x44F;&#x43D;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="kompar.sen0a">
@@ -462,8 +541,7 @@
       <ref cel="origin1.0a">originala</ref>
     </refgrp>
   </snc>
-  <trd
-  lng="be">&c_n;&c_je;&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="cs">neporovnateln&yacute;</trd>
   <trdgrp lng="de">
     <trd>nicht <ind>vergleichbar</ind></trd>,
@@ -481,12 +559,16 @@
     <trd>sans <ind>pareil</ind></trd>,
     <trd>unique<klr tip="ind"> (hors pair)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6BD4;&#x3079;&#x308B;&#x7269;&#x306E;&#x306A;&#x3044;  [<ind>&#x304F;&#x3089;&#x3079;&#x308B;&#x3076;&#x3064;&#x306E;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x6BD4;&#x985E;&#x306E;&#x306A;&#x3044;  [<ind>&#x3072;&#x308B;&#x3044;&#x306E;&#x306A;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">onvergelijkelijk</trd>
   <trdgrp lng="pl">
     <trd>bezprzyk&lstroke;adny</trd>,
     <trd>niepor&oacute;wnywalny</trd>,
     <trd>niezwyk&lstroke;y</trd>
-  </trdgrp>   
+  </trdgrp>
 <trdgrp lng="ro">
     <trd>incomparabil</trd>,
     <trd>necomparabil</trd>,
@@ -497,10 +579,23 @@
     <trd>&c_b;&c_je;&c_s;&c_p;&c_o;&c_d;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sk">neporovnate&lcaron;n&yacute;</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_z;&c_r;&c_ib;&c_v;&#x43D;&#x44F;&#x43D;&#x43D;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.105 2023/08/29 20:26:46
+Wolfram Diestel: ja: prononco
+
+versio 1.104 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.102 2021/08/09 06:38:34
+Dmitri Gabinski: + trd be
+
+versio 1.27 2021/05/10 07:03:26
+Wolfram Diestel: kor. drv@mrk
+
 Revision 1.25  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
@@ -511,20 +606,5 @@ Revision 1.23  2017/09/24 14:10:15  revo
 Wolfram Diestel: kor. mrk
 
 Revision 1.22  2017/09/21 19:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn, dif chirkau dif-ref
-
-Revision 1.21  2016/11/09 12:10:13  revo
-Vito Redsky: kor lit rumana t
-
-Revision 1.20  2016/11/03 15:10:18  revo
-Carlos Garcia: +trd ro -o, es sen~a  ne~ebla ~e kun ~o ~i
-
-Revision 1.19  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.18  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.17  2012/10/23 00:12:16  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cxast.xml,v 1.23 2020/01/05 11:10:22 revo Exp $">
+<art mrk="$Id: cxast.xml,v 1.29 2023/08/31 10:10:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&ccirc;ast</rad>/a
@@ -90,7 +89,16 @@
   <trd lng="en">chaste</trd>
   <trd lng="es">casto</trd>
   <trd lng="fr">chaste</trd>
+  <trdgrp lng="he">
+    <trd>&#x5E6;&#x5E0;&#x5D5;&#x5E2;</trd>,
+    <trd>&#x5D8;&#x5D4;&#x5D5;&#x5E8;</trd>
+  </trdgrp>
   <trd lng="it">casto</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8C9E;&#x7BC0;&#x306A;</trd>,
+    <trd>&#x7D14;&#x6F54;&#x306A;  [<ind>&#x3058;&#x3085;&#x3093;&#x3051;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x6E05;&#x7D14;&#x306A;  [<ind>&#x305B;&#x3044;&#x3058;&#x3085;&#x3093;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">casto</trd>
   <trd lng="nl">kuis</trd>
   <trdgrp lng="ru">
@@ -99,6 +107,11 @@
     <trd>&c_n;&c_je;&c_p;&c_o;&c_r;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sv">kysk</trd>
+  <trdgrp lng="uk">
+    <trd>&#x446;&#x43D;&#x43E;&#x442;&#x43B;&#x438;&#x432;&#x438;&#x439;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x43D;&#x435;&#x432;&#x438;&#x43D;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x435;&#x43F;&#x43E;&#x440;&#x43E;&#x447;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cxast.0eco">
@@ -145,22 +158,34 @@
   <trd lng="de">Keuschheit</trd>
   <trd lng="es">castidad</trd>
   <trd lng="fr">chastet&eacute;</trd>
+  <trd lng="he">&#x5E6;&#x5B0;&#x5E0;&#x5B4;&#x5D9;&#x5E2;&#x5D5;&#x5BC;&#x5EA;</trd>
   <trdgrp lng="hu">
     <trd>sz&udblac;zess&eacute;g</trd>,
     <trd>sz&udblac;ziess&eacute;g</trd>
     <trd>romlatlans&aacute;g</trd>
   </trdgrp>
   <trd lng="it">castit&agrave;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8C9E;&#x64CD;  [<ind>&#x3066;&#x3044;&#x305D;&#x3046;</ind>]</trd>,
+    <trd>&#x7D14;&#x6F54;  [<ind>&#x3058;&#x3085;&#x3093;&#x3051;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>czysto&sacute;&cacute;</trd>,
     <trd>niewinno&sacute;&cacute;</trd>,
     <trd>przyzwoito&sacute;&cacute;</trd>
   </trdgrp>
+  <trd lng="pt">castidade</trd>
   <trdgrp lng="ru">
     <trd>&c_c;&c_je;&c_l;&c_o;&c_m;&c_u;&c_d;&c_r;&c_i;&c_je;</trd>,
     <trd>&c_c;&c_je;&c_l;&c_o;&c_m;&c_u;&c_d;&c_r;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_je;&c_v;&c_i;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_je;&c_p;&c_o;&c_r;&c_o;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x446;&#x43D;&#x43E;&#x442;&#x430;</trd>,
+    <trd>&#x446;&#x43D;&#x43E;&#x442;&#x43B;&#x438;&#x432;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x43D;&#x435;&#x432;&#x438;&#x43D;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x43D;&#x435;&#x43F;&#x43E;&#x440;&#x43E;&#x447;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -213,6 +238,10 @@
     <trd>impuro<klr> (moralmente)</klr></trd>,
     <trd>immorale</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x8C9E;&#x306E;</trd>,
+    <trd>&#x307F;&#x3060;&#x3089;&#x306A;</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>nieczysty</trd>,
     <trd>nieprzywoity</trd>,
@@ -220,12 +249,22 @@
     <trd>rozpustny</trd>,
     <trd>bezpruderyjny</trd>
   </trdgrp>
+  <trdgrp lng="pt">
+  <trd>impudico</trd>
+  <trd>depravado</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_v;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_v;&c_r;&c_a;&c_shch;&c_jo;&c_n;&c_n;&c_y;&c_j;
 </trd>,
     <trd>&c_p;&c_o;&c_r;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_p;&c_u;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x431;&#x435;&#x449;&#x435;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x43E;&#x440;&#x43E;&#x447;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x442;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
 
@@ -268,12 +307,24 @@
     <trd>impudicizia<klr> (atto)</klr></trd>,
     <trd>sconcezza<klr> (atto)</klr></trd>    
   </trdgrp>  
+  <trd lng="ja">&#x307F;&#x3060;&#x3089;&#x306A;&#x884C;&#x70BA;  [<ind>&#x307F;&#x3060;&#x3089;&#x306A;&#x3053;&#x3046;&#x3044;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>rozpusta</trd>,
     <trd>wyuzdanie</trd>,
     <trd>deprawacja</trd>
   </trdgrp>
+  <trdgrp lng="pt">
+  <trd>deprava&ccedil;&atilde;o</trd>
+  <trd>imoralidade</trd>
+  <trd>impudic&iacute;cia</trd>
+  <trd>indec&ecirc;ncia</trd>
+  </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_r;&c_a;&c_t;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x43D;&#x438;&#x439; &#x432;&#x447;&#x438;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x442;&#x441;&#x442;&#x432;&#x43E;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x442;&#x430;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cxast.mal0eco">
@@ -325,10 +376,20 @@
     <trd>wyuzdanie</trd>,
     <trd>deprawacja</trd>
   </trdgrp>
+  <trdgrp lng="pt">
+  <trd>deprava&ccedil;&atilde;o</trd>
+  <trd>imoralidade</trd>
+  <trd>impudic&iacute;cia</trd>
+  <trd>indec&ecirc;ncia</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_v;&c_r;&c_a;&c_t;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_p;&c_u;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_v;&c_r;&c_a;&c_shch;&c_jo;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x442;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -355,8 +416,7 @@
       <ekz>
         en la mal<tld/>ejo, tio estas en la domo de la cezaro
         <fnt>
-          <vrk><url
-          ref="https://eduinf.waw.pl/esp/lern/librejo/0002/0006.php">Quo
+          <vrk><url ref="&EduInf;lern/librejo/0002/0006.php">Quo
           Vadis</url></vrk>
         </fnt>.
       </ekz>
@@ -390,6 +450,7 @@
     <trd>casa chiusa</trd>,
     <trd>bordello</trd>
   </trdgrp>
+  <trd lng="ja">&#x58F2;&#x6625;&#x5BBF;  [<ind>&#x3070;&#x3044;&#x3057;&#x3085;&#x3093;&#x3084;&#x3069;</ind>]</trd>
   <trd lng="nl">bordeel</trd>
   <trdgrp lng="pl">
     <trd>burdel</trd>,
@@ -397,14 +458,18 @@
     <trd>dom schadzek</trd>,
     <trd>miejsce <ind>rozpusty</ind><klr> (obraz.)</klr></trd>
   </trdgrp>
-  <trd lng="pt">bordel</trd>
-  <trdgrp lng="ru">
+  <trdgrp lng="pt">
+  <trd>bordel</trd>
+  <trd>prost&iacute;bulo</trd>
+  </trdgrp>
+    <trdgrp lng="ru">
     <trd>&c_p;&c_u;&c_b;&c_l;&c_i;&c_ch;&c_n;&c_y;&c_j;
     &c_d;&c_o;&c_m;</trd>,
     <trd>&c_b;&c_o;&c_r;&c_d;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_g;&c_n;&c_je;&c_z;&c_d;&c_o;
     <ind>&c_r;&c_a;&c_z;&c_v;&c_r;&c_a;&c_t;&c_a;</ind></trd>
   </trdgrp>
+  <trd lng="uk">&#x434;&#x456;&#x43C;/&#x431;&#x443;&#x434;&#x438;&#x43D;&#x43E;&#x43A; &#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="cxast.mal0i">
@@ -420,7 +485,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i faris malhonora&jcirc;on <klr>[&#8230;]</klr> mal<tld/>ante en la domo de
+        &scirc;i faris malhonora&jcirc;on <klr>[&#x2026;]</klr> mal<tld/>ante en la domo de
         sia patro
         <fnt>
           <bib>MT</bib>
@@ -431,8 +496,7 @@
   </snc>
   <snc mrk="cxast.mal0i.malvirta">
     <dif>
-      Konduti <ref cel="virt.mal0a">malvirte</ref>, <ref
-      cel="pi.mal0a">malpie</ref>:
+      Konduti <ref cel="virt.mal0a">malvirte</ref>, <ref cel="pi.mal0a">malpie</ref>:
       <ekz>
         tiu popolo komencos mal<tld/>i post fremdaj dioj
         <fnt>
@@ -465,6 +529,7 @@
     <trd>buj&aacute;lkodik</trd>
   </trdgrp>
   <trd lng="it">fornicare</trd>
+  <trd lng="ja">&#x4E0D;&#x8C9E;&#x3092;&#x306F;&#x305F;&#x3089;&#x304F;</trd>
   <trd lng="nl">onkuisheid bedrijven</trd>
   <trdgrp lng="pl">
     <trd>by&cacute; <ind>rozpustnym</ind></trd>,
@@ -480,6 +545,11 @@
     <trd>&c_r;&c_a;&c_z;&c_v;&c_r;&c_a;&c_t;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;
     &c_p;&c_o;&c_r;&c_o;&c_k;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x442;&#x43D;&#x438;&#x447;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x442;&#x432;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x43D;&#x438;&#x447;&#x430;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 
@@ -543,9 +613,16 @@
     <trd>m&eogonek;ska prostytutka</trd>,
     <trd>m&eogonek;ska kurwa<klr> (obra&zacute;l.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="pt">
+  <trd>garoto de programa</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_zh;&c_i;&c_g;&c_o;&c_l;&c_o;</trd>,
     <trd>&c_a;&c_l;&c_mol;&c_f;&c_o;&c_n;&c_s;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x43D;&#x438;&#x43A;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x442;&#x43D;&#x438;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -568,7 +645,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Jifta&hcirc;</nom> <klr>[&#8230;]</klr> estis heroa militisto, sed li
+        <nom>Jifta&hcirc;</nom> <klr>[&#x2026;]</klr> estis heroa militisto, sed li
         estis filo de mal<tld/>ulino
         <fnt>
           <bib>MT</bib>
@@ -611,6 +688,12 @@
     <trd>prostytutka</trd>,
     <trd>kurwa<klr> (obra&zacute;l.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="pt">
+  <trd>garota de programa</trd>
+  <trd>meretriz</trd>
+  <trd>mulher da vida</trd>
+  <trd>prostituta</trd>
+  </trdgrp>
   <trdgrp lng="it">
     <trd>prostituta</trd>,
     <trd>puttana</trd>,
@@ -621,11 +704,22 @@
     <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_i;&c_t;&c_u;&c_t;&c_k;&c_a;</trd>,
     <trd>&c_p;&c_u;&c_t;&c_a;&c_n;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x441;&#x43D;&#x438;&#x446;&#x44F;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x443;&#x442;&#x43D;&#x438;&#x446;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log: cxast.xml,v $
-versio 1.23 2020/01/05 11:10:22
+$Log$
+versio 1.28 2022/04/26 16:27:52
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2020/03/20 13:10:24
+James Rezende Piton: pt por cxasteco, malcxasta, malcxastajxo, malcxastejo, malcxastulo, malcxastulino
+
+
+Revision 1.23  2020/01/05 10:10:21  revo
 Guillermo Molleda Jimena: trd es
 
 Revision 1.22  2019/11/05 07:10:14  revo
@@ -640,12 +734,5 @@ Sebastian Cyprych: +trd pl
 Revision 1.19  2009/03/25 17:30:47  revo
 Wieland Pusch: +trd bg,de
 
-Revision 1.18  2009/03/24 17:30:49  revo
-Antonio Codazzi: +trd it
-
-Revision 1.17  2005/05/26 16:31:42  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.16  2005/02/03 17:32:04  revo
 -->
 </vortaro>

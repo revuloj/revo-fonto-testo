@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: komisi.xml,v 1.17 2009/09/03 16:30:43 revo Exp $">
+<art mrk="$Id: komisi.xml,v 1.32 2023/09/04 18:29:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>komisi</rad>/i
@@ -40,7 +39,7 @@
       </ekz>
       <ekz>
         la komitato povus <tld/>i la laboron al kiu ajn, zorgante nur,
-        ke la 
+        ke la
         elektitoj estu homoj prudentaj kaj senpartiaj kaj komprenu la
         tutan respondecon
         <fnt>
@@ -59,6 +58,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x59D4;&#x8A17;&#12377;&#x308B;  [<ind>&#12356;&#x305F;&#x304F;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x59D4;&#x4EFB;&#12377;&#x308B;  [<ind>&#12356;&#x306B;&#12435;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="kek"><trd>ab&#789;enank</trd><trd>ab&#789;enak</trd></trdgrp>
   <trd lng="be">&c_d;&c_a;&c_r;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">pov&ecaron;&rcaron;it <klr>(n&ecaron;koho n&ecaron;&ccaron;&iacute;m)</klr></trd>
@@ -88,7 +91,7 @@
     <trd>poleca&cacute;</trd>,
     <trd>porucza&cacute;</trd>,
     <trd>zleca&cacute;</trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>comissionar</trd>,
     <trd>incumbir</trd>,
@@ -99,10 +102,11 @@
   </trdgrp>
   <trdgrp lng="ro">
     <trd>recomanda</trd>,
-    <trd>&icirc;ncredin&#539;a</trd>
+    <trd>&icirc;ncredin&#x21B;a</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_r;&c_u;&c_ch;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sk">poveri&tcaron; <klr>(niekoho nie&ccaron;&iacute;m)</klr></trd>
+  <trd lng="uk">&c_d;&#x43E;&c_r;&c_u;&c_ch;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="komisi.0o">
@@ -217,6 +221,10 @@
     <trd lng="nl">commissie<klr tip="ind"> (arch.)</klr></trd>
   </snc>
   <trd lng="es">comit&eacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x59D4;&#x8A17;  [<ind>&#12356;&#x305F;&#x304F;</ind>]</trd>,
+    <trd>&#x59D4;&#x4EFB;  [<ind>&#12356;&#x306B;&#12435;</ind>]</trd>
+  </trdgrp>
   <trd lng="kek">ab&#789;en</trd>
   <trdgrp lng="cs">
     <trd>komise</trd>,
@@ -228,15 +236,16 @@
   <trdgrp lng="pl">
     <trd>komis</trd>,
     <trd>zlecenie</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>comision</trd>,
     <trd>misiune</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>poverenie</trd>,
     <trd>pr&iacute;kaz</trd>
   </trdgrp>
+  <trd lng="uk">&c_d;&#x43E;&c_r;&c_u;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="komisi.0ede">
@@ -252,33 +261,31 @@
         li, <tld/>e de la a&ubreve;stra-hungara imperiestrino Maria Tereza,
         kreis pentra&jcirc;ojn de vida&jcirc;oj de Vieno
         <fnt>
-          <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url
-          ref='&Monato;/2007/009224.php'>Canaletto: Imponaj
+          <vrk><url ref="&Monato;/2007/009224.php">Canaletto: Imponaj
           pentra&jcirc;oj de e&ubreve;ropaj urbvida&jcirc;oj</url></vrk>
-          <lok>2007</lok>
+          <bib>Monato</bib>
+          <lok>2007/11, p. 19</lok>
         </fnt>;
       </ekz>
       <ekz>
         &ccirc;u oni torturas ilin <tld/>e de diktatoro a&ubreve; de demokrato, la
         suferoj estas la samaj
         <fnt>
-          <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url
-          ref='https://www.monato.be/2004/008349.html'>Morala
+          <vrk><url ref="&Monato;/2004/008349.html">Morala
           degenero</url></vrk>
-          <lok>2004</lok>
+          <bib>Monato</bib>
+          <lok>2004/07, p. 9</lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>e de UEA, li kontaktis d-ron Uchida
         <fnt>
+       <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/006881.php">Universala Retlingvo</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref='http://steloj.de/esperanto/monato2/006881.html'>Perkomputila
-          Tradukado: Universala Retlingvo</url></vrk>
+          <lok>2000/04, p. 26</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -297,15 +304,17 @@
     <trd>au <ind>nom</ind> de</trd>,
     <trd>de la <ind>part</ind> de</trd>
   </trdgrp>
+  <trd lng="ja">&#xFF5E;&#x306E;&#x59D4;&#x8A17;&#12434;&#x53D7;&#12369;&#12390; 
+  [&#xFF5E;<ind>&#x306E;&#12356;&#x305F;&#x304F;&#12434;&#12358;&#12369;&#12390;</ind>]</trd>
   <trd lng="nl">in <ind>opdracht</ind> van</trd>
   <trdgrp lng="pl">
     <trd>na zlecenie</trd>,
     <trd>w imieniu</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>la comanda</trd>,
     <trd>&icirc;n numele</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o; &c_p;&c_o;&c_r;&c_u;&c_ch;&c_je;&c_n;&c_i;&c_ju;</trd>
 </drv>
 
@@ -318,12 +327,12 @@
         ja &scirc;atata de siaj <tld/>antoj ri&ccirc;uloj, li &ccirc;iam devis lukti por
         la propra vivtenado
         <fnt>
-          <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref='&Monato;/2010/010141.php'>Homo
-          universala, homo moderna: 
+          <vrk><url ref="&Monato;/2010/010141.php">Homo
+          universala, homo moderna:
             Johann Joachim Becher naski&gcirc;is anta&ubreve; 375 jaroj</url></vrk>
-          <lok>2010</lok>
+            <bib>Monato</bib>
+          <lok>2010/11, p. 21</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -339,8 +348,7 @@
         la nomo de <tld/>anto, mem havante nenian financan riskon
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=434349'>Makleristo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=434349">Makleristo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -358,11 +366,12 @@
   <trdgrp lng="pl">
     <trd>zleceniodawca</trd>,
     <trd>mocodawca</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>client</trd>,
     <trd>principal</trd>
-  </trdgrp> 
+  </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&c_r;&c_u;&c_ch;&c_i;&c_t;&c_je;&#x43B;&#x44C;</trd>
 </drv>
 
 <drv mrk="komisi.0isto">
@@ -381,8 +390,7 @@
         administracio, a&ubreve;skulto kaj trompkontra&ubreve;staro
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=303683'>Teramikoj
+          <lok><url ref="https://eo.wikipedia.org/?curid=303683">Teramikoj
           internacie</url></lok>
         </fnt>.
       </ekz>
@@ -424,10 +432,14 @@
     <trd>apoderado</trd>,
     <trd>encomendero</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4EE3;&#29702;&#x696D;&#32773;  [<ind>&#12384;&#12356;&#x308A;&#x304E;&#12423;&#12358;&#12375;&#12419;</ind>]</trd>,
+    <trd>&#x53D6;&#x6B21;&#x696D;&#32773;  [<ind>&#12392;&#x308A;&#12388;&#x304E;&#x304E;&#12423;&#12358;&#12375;&#12419;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>komisant</trd>,
     <trd>przedstawiciel</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>comisionar</trd>,
     <trd>agent comisionar</trd>
@@ -438,6 +450,12 @@
     <trd>&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
   <trd lng="sk">komision&aacute;r</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;&c_ib;&c_s;&c_ib;&#x43E;&#x43D;&c_je;&c_r;</trd>,
+    <trd>&c_a;&c_gu;&c_je;&#x43D;&c_t;</trd>,
+    <trd>&#x43F;&#x43E;&c_s;&c_je;&c_r;&c_je;&c_d;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_s;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j; (&c_ib;&#x43C;.)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="komisi.0ito">
@@ -452,16 +470,15 @@
       </ekz>
       <ekz>
         la Alta <tld lit="K"/>ito pri Rifu&gcirc;intoj &ccirc;e UN anoncis, ke fine
-        de 2014 
+        de 2014
         mondskale &ccirc;irka&ubreve; 60 milionoj estis elpelitaj el sia hejmo pro
         milito a&ubreve; persekutado
         <fnt>
-          <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url
-          ref='&Monato;/2015/011541.php'>Statistikoj
+          <vrk><url ref="&Monato;/2015/011541.php">Statistikoj
           pensigaj</url></vrk>
-          <lok>2015</lok>
+          <bib>Monato</bib>
+          <lok>2015/10, p. 15</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -479,13 +496,23 @@
     <trd>pr&eacute;pos&eacute;<klr tip="ind"> (personne qu'on a charg&eacute; de
     commission)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x59D4;&#x54E1;  [<ind>&#12356;&#12356;&#12435;</ind>]</trd>,
+    <trd>&#x4EE3;&#29702;&#x4EBA;  [<ind>&#12384;&#12356;&#x308A;&#x306B;&#12435;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">afgevaardigde</trd>
-  <trd lng="pl">deputowany <klr>(cz&lstroke;onek komisji)</klr></trd>     
+  <trd lng="pl">deputowany <klr>(cz&lstroke;onek komisji)</klr></trd>
   <trd lng="ro">membru al comitetului</trd>
   <trd lng="ru">&c_d;&c_o;&c_v;&c_je;&c_r;&c_je;&c_n;&c_n;&c_o;&c_je; &c_l;&c_i;&c_c;&c_o;</trd>
   <trdgrp lng="sk">
     <trd>poverenec</trd>,
     <trd>poveren&iacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&#x43D;&c_d;&c_a;&c_t;&c_a;&c_r;&c_ib;&c_j;</trd>,
+    <trd>&c_u;&#x43F;&#x43E;&c_v;&#x43D;&#x43E;&c_v;&c_a;&c_zh;&c_je;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&#x43E;&c_v;&c_ib;&c_r;&c_je;&#x43D;&c_i;&c_j; (&c_u; &c_z;&#x43D;&c_a;&c_ch;. &c_ib;&#x43C;.)</trd>,
+    <trd>&#x43F;&#x43E;&c_s;&#x43B;&c_a;&#x43D;&c_je;&c_c;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -506,12 +533,12 @@
       </ekz>
       <ekz>
         Max Weber <klr>[&#8230;]</klr> estis unu el la germanaj reprezentantoj
-        en 
+        en
         la Traktato de Versajlo kaj ano de la <tld/>itaro por
         skiza<klr>[d]</klr>o de la Konstitucio de Weimar
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=301092'>Max
+          <lok><url ref="https://eo.wikipedia.org/?curid=301092">Max
           Weber</url></lok>
         </fnt>.
       </ekz>
@@ -527,15 +554,16 @@
   en comisi&oacute;n)</klr></trd>
   <trd lng="fr">commission<klr tip="ind"> (groupe de personnes
   commises)</klr></trd>
+  <trd lng="ja">&#x59D4;&#x54E1;&#x4F1A;  [<ind>&#12356;&#12356;&#12435;&#x304B;&#12356;</ind>]</trd>
   <trd lng="nl">commissie</trd>
   <trdgrp lng="pl">
     <trd>komisja</trd>,
     <trd>komitet</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>comitet</trd>,
     <trd>comisie</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_m;&c_i;&c_t;&c_je;&c_t;</trd>,
     <trd>&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_i;&c_ja;</trd>
@@ -559,7 +587,7 @@
         <tld/>ulo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=32897'>B&eacute;la
+          <lok><url ref="https://eo.wikipedia.org/?curid=32897">B&eacute;la
           Kun</url></lok>
         </fnt>.
       </ekz>
@@ -572,8 +600,9 @@
   <trd lng="cs">pov&ecaron;&rcaron;enec</trd>
   <trd lng="de">Beauftragter</trd>
   <trd lng="es">representante</trd>
+  <trd lng="ja">&#x4EE3;&#29702;&#x4EBA;  [<ind>&#12384;&#12356;&#x308A;&#x306B;&#12435;</ind>]</trd>
   <trd lng="nl">afgevaardigde<klr tip="ind"> (arch.)</klr></trd>
-  <trd lng="pl">delegat <klr>(cz&lstroke;onek komisji)</klr></trd>     
+  <trd lng="pl">delegat <klr>(cz&lstroke;onek komisji)</klr></trd>
   <trd lng="ro">membru al comitetului</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_i;&c_o;&c_n;&c_je;&c_r;</trd>,
@@ -584,6 +613,7 @@
     <trd>poverenec</trd>,
     <trd>poveren&iacute;k</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&c_s;&c_je;&c_r;&c_je;&c_d;&#x43D;&c_i;&#x43A;</trd>
 </drv>
 
 <drv mrk="komisi.0pago">
@@ -604,6 +634,11 @@
   <trd lng="es">comisi&oacute;n</trd>
   <trd lng="fr">commission<klr tip="ind"> (pourcentage d'un
   interm&eacute;diaire)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x59D4;&#x8A17;&#x624B;&#25968;&#26009;  [<ind>&#12356;&#x305F;&#x304F;&#12390;&#12377;&#12358;&#x308A;&#12423;&#12358;</ind>]</trd>,
+    <trd>&#x53E3;&#x92AD;  [<ind>&#12371;&#12358;&#x305B;&#12435;</ind>]</trd>,
+    <trd>&#x30B3;&#x30DF;&#x30C3;&#x30B7;&#x30E7;&#x30F3;</trd>
+  </trdgrp>
   <trd lng="nl">commissieloon</trd>
   <trd lng="pl">komisja</trd>
   <trdgrp lng="ro">
@@ -615,6 +650,18 @@
 </art>
 <!--
 $Log$
+versio 1.32 2023/09/04 18:29:31
+Wolfram Diestel: kor. ja ind
+
+versio 1.30 2023/05/23 15:29:12
+Paul Peeraerts: + lok
+
+versio 1.29 2023/04/25 12:45:50
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.28 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.25  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
@@ -625,20 +672,5 @@ Revision 1.23  2018/06/21 20:10:13  revo
 Guillermo Molleda Jimena: trd es
 
 Revision 1.22  2017/09/19 20:10:13  revo
-Wolfram Diestel: ekz-oj, dif chrikau dif-ref
-
-Revision 1.21  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.20  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2012/10/23 00:12:13  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.18  2011/11/07 01:10:23  revo
- Anchise Inzaghi: traduko q'eqchi'
-
-Revision 1.17  2009/09/03 16:30:43  revo
 -->
 </vortaro>

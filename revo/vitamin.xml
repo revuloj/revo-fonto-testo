@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vitamin.xml,v 1.14 2023/09/05 09:43:56 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>vitamin</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -23,6 +22,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_t;&c_a;&c_m;&c_ib;&c_n;</trd>
+  <trd lng="bo">&#xF66;&#xF9F;&#xF7C;&#xF56;&#xF0B;&#xF66;&#xF90;&#xFB1;&#xF7A;&#xF51;&#xF0B;</trd>
   <trd lng="ca">vitamina</trd>
   <trd lng="de">Vitamin</trd>
   <trd lng="el">&beta;&jota;&tau;&alfa;&my;&jota_ton;&ny;&eta;</trd>
@@ -32,10 +32,16 @@
     <trd>vitamine</trd>
   </trdgrp>
   <trd lng="hu">vitamin</trd>
+  <trd lng="ja">&#x30D3;&#x30BF;&#x30DF;&#x30F3;  [<ind>&#x3073;&#x305F;&#x307F;&#x3093;</ind>]</trd>
   <trd lng="nl">vitamine</trd>
   <trd lng="pt">vitamina</trd>
   <trd lng="ru">&c_v;&c_i;&c_t;&c_a;&c_m;&c_i;&c_n;</trd>
   <trd lng="sk">vitam&iacute;n</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x456;&#x442;&#x430;&#x43C;&#x456;&#x43D; &#x420;&#x420;</trd>,
+    <trd>&#x43D;&#x456;&#x43A;&#x43E;&#x442;&#x438;&#x43D;&#x43E;&#x432;&#x430; &#x43A;&#x438;&#x441;&#x43B;&#x43E;&#x442;&#x430;</trd>,
+    <trd>&#x43D;&#x456;&#x43A;&#x43E;&#x442;&#x438;&#x43D;&#x430;&#x43C;&#x456;&#x434;</trd>
+  </trdgrp>
 </drv>
 </art>
 

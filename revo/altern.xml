@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: altern.xml,v 1.39 2020/02/22 17:10:24 revo Exp $">
+<art mrk="$Id: altern.xml,v 1.42 2023/08/30 18:23:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>altern</rad>/i
@@ -43,7 +42,9 @@
   <trd lng="en">alternate</trd>
   <trd lng="es">alternar</trd>
   <trd lng="fr">alterner</trd>
+  <trd lng="he">&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5D7;&#x5DC;&#x5B4;&#x5D9;&#x5E3;</trd>
   <trd lng="it">alternare</trd>
+  <trd lng="ja">&#x4EA4;&#x4E92;&#x306B;&#x8D77;&#x3053;&#x308B;  [<ind>&#x3053;&#x3046;&#x3054;&#x306B;&#x304A;&#x3053;&#x308B;</ind>]</trd>
   <trd lng="nl">wisselen</trd>
   <trdgrp lng="pl">
     <trd>przemienia&cacute;</trd>,
@@ -66,6 +67,11 @@
     <trd>strieda&tcaron; sa</trd>,
     <trd>strieda&tcaron;</trd>,
     <trd>vystrieda&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x447;&#x435;&#x440;&#x433;&#x443;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x437;&#x43C;&#x456;&#x43D;&#x44E;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F; &#x43F;&#x43E;&#x447;&#x435;&#x440;&#x433;&#x43E;&#x432;&#x43E;</trd>,
+    <trd>&#x43F;&#x440;&#x438;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x438; &#x43D;&#x430; &#x437;&#x43C;&#x456;&#x43D;&#x443; &#x43E;&#x434;&#x438;&#x43D; &#x43E;&#x434;&#x43D;&#x43E;&#x43C;&#x443;</trd>
   </trdgrp>
 </drv>
 
@@ -167,9 +173,9 @@
     </rim>
     <bld lok="../bld/e_anguloj_alternaj.svg" tip="svg">
       anguloj kun samaj literoj estas <tld/>aj,
-      &ccirc;u ekstere &#8208;
-      (&alfa;,&alfa;') kaj (&beta;,&beta;') &#8208;,
-      &ccirc;u interne &#8208;
+      &ccirc;u ekstere &#x2010;
+      (&alfa;,&alfa;') kaj (&beta;,&beta;') &#x2010;,
+      &ccirc;u interne &#x2010;
       (&gamma;,&gamma;') kaj (&delta;,&delta;')
     </bld>
     <trd lng="de">Wechsel-<klr tip="amb">(winkel)</klr></trd>
@@ -183,9 +189,18 @@
     <trd>alternuj&iacute;c&iacute;</trd>,
     <trd>st&rcaron;&iacute;dav&yacute;</trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5B0;&#x5D4;&#x5B7;&#x5D7;&#x5DC;&#x5B4;&#x5D9;&#x5E3;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EA4;&#x4E92;&#x306E;  [<ind>&#x3053;&#x3046;&#x3054;&#x306E;</ind>]</trd>,
+    <trd>&#x4EA4;&#x6D41;&#x306E;  [<ind>&#x3053;&#x3046;&#x308A;&#x3085;&#x3046;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>meniaci sa</trd>,
     <trd>striedav&yacute;, meniaci sa</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x44F;&#x43A;&#x438;&#x439; &#x447;&#x435;&#x440;&#x433;&#x443;&#x454;&#x442;&#x44C;&#x441;&#x44F;</trd>,
+    <trd>&#x437;&#x43C;&#x456;&#x43D;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
 </art>

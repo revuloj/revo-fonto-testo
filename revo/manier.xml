@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: manier.xml,v 1.24 2010/08/31 16:30:27 revo Exp $">
+<art mrk="$Id: manier.xml,v 1.60 2023/09/02 06:04:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>manier</rad>/o <fnt><bib>PV</bib></fnt>
@@ -69,7 +68,7 @@
           </fnt>;
         </ekz>
         <ekz>
-          tutan straton <klr>[&#8230;]</klr> li povus plenpavimi sole per
+          tutan straton <klr>[&#x2026;]</klr> li povus plenpavimi sole per
           grandaj ar&gcirc;entaj moneroj, 
           tamen tion li ne faris, li uzadis sian monon en alia <tld/>o,
           kiam li elspezis
@@ -82,7 +81,7 @@
         <ekz>
           li rakontis en plej interesa <tld/>o pri la fieraj nordaj
           rokoj kaj pri la falakvoj, 
-          kiuj sa&ubreve;mante falegas malsupren kun bruo
+          kiuj &scirc;a&ubreve;mante falegas malsupren kun bruo
           <fnt>
             <bib>Fab2</bib>
             <lok>Monteto de elfoj</lok>
@@ -132,12 +131,10 @@
         </ekz>
         <ekz>
           iu tipo de vualo plene kovras la figuron ekde la kap-pinto &gcirc;is
-          
           la pied-fingroj, alia nur la figuron sen viza&gcirc;o kaj
-          
           manoj,
           tria nur 
-          la kapon kaj la hararon &ndash; <klr>[&#8230;]</klr> la&ubreve; pluraj diversaj
+          la kapon kaj la hararon &ndash; <klr>[&#x2026;]</klr> la&ubreve; pluraj diversaj
           naciaj vest<tld/>oj
           <fnt>
             <bib>Monato</bib>
@@ -171,6 +168,11 @@
     <trdgrp lng="pt">
       <trd>maneira</trd>,
       <trd>modo</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>fel</trd>,
+      <trd>manier&abreve;</trd>,
+      <trd>mod</trd>
     </trdgrp>
     <trd lng="sv">s&auml;tt</trd>
   </snc>
@@ -210,6 +212,10 @@
       <trd>mani&egrave;res<klr> (comportement)</klr></trd>
     </trdgrp>
     <trd lng="pl">maniera</trd>
+    <trdgrp lng="ro">
+      <trd>comportament</trd>,
+      <trd>conduit&abreve;</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_p;&c_o;&c_s;&c_a;&c_b;</trd>,
@@ -224,6 +230,12 @@
     <trd>viselked&eacute;sm&oacute;d</trd>,
     <trd>modor</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3084;&#x308A;&#x65B9;  [<ind>&#x3084;&#x308A;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x4ED5;&#x65B9;  [<ind>&#x3057;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x69D8;&#x5F0F;  [<ind>&#x3088;&#x3046;&#x3057;&#x304D;</ind>]</trd>,
+    <trd>&#x6D41;&#x5100;  [<ind>&#x308A;&#x3085;&#x3046;&#x304E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">manier</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;</trd>,
@@ -231,6 +243,12 @@
   </trdgrp>
   <trd lng="sk">sp&ocirc;sob</trd>
   <trd lng="sv">man&eacute;r</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_p;&c_o;&c_s;&c_ib;&c_b;</trd>,
+    <trd>&c_s;&c_p;&c_o;&c_s;&c_ib;&c_b; &c_d;&c_ib;&c_ji;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_j;&c_o;&c_m;</trd>,
+    <trd>&c_m;&c_a;&c_n;&c_je;&c_r;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="manier.0ismo">
@@ -247,8 +265,7 @@
         la&ubreve; dukurbaj linioj, &gcirc;in oni ofte nomas anka&ubreve; malfrua renesanco
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=24340">Manierismo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=24340">Manierismo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -258,9 +275,12 @@
   <trd lng="es">manierismo</trd>
   <trd lng="fr">mani&eacute;risme</trd>
   <trd lng="hu">manierizmus</trd>
+  <trd lng="ja">&#x30DE;&#x30CB;&#x30A8;&#x30EA;&#x30B9;&#x30E0;</trd>
   <trd lng="nl">manierisme</trd>
   <trd lng="pl">manieryzm</trd>
+  <trd lng="ro">manierism</trd>
   <trd lng="ru">&c_m;&c_a;&c_n;&c_mol;&c_je;&c_r;&c_i;&c_z;&c_m;</trd>
+  <trd lng="uk">&c_m;&c_a;&c_n;&c_mol;&c_jeu;&c_r;&c_i;&c_z;&c_m;</trd>
 </drv>
 
 <drv mrk="manier.ag0o">
@@ -270,7 +290,7 @@
       <tld lit="M"/>o, kiel iu agas, &gcirc;enerale a&ubreve; en aparta 
       cirkonstanco:
       <ekz>
-        se ili lernos la ag<tld/>on de Mia popolo <klr>[&#8230;]</klr> tiam
+        se ili lernos la ag<tld/>on de Mia popolo <klr>[&#x2026;]</klr> tiam
         ili estos konstrue 
         aran&gcirc;itaj inter Mia popolo, sed se ili ne a&ubreve;skultos, tiam Mi
         tute el&scirc;iros tiun popolon kaj ekstermos &gcirc;in
@@ -281,24 +301,22 @@
       </ekz>
       <ekz>
         tial ke vi estas sciigitaj pri la cerba stato de sinjorino 
-        Herbeno <klr>...</klr> &scirc;iaj ag<tld/>oj ne vin mirigos plu
+        Herbeno <klr>[&#x2026;]</klr> &scirc;iaj ag<tld/>oj ne vin mirigos plu
         <fnt><aut>H. Vallienne</aut>, <vrk>&Ccirc;u 
         li?</vrk>,<lok>1908</lok></fnt>;
       </ekz>
       <ekz>
         <klr>[li]</klr> pravigis sian ag<tld/>on komentante: mi ne
         parolas kun tiaj homoj
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Guido Van Damme</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006921.html">Belgio:
-          Malvuali nigran fantomon</url></vrk>
+        <fnt><aut>Guido van Damme</aut>,
+        <vrk><url ref="&Monato;/2000/006921.php">Malvuali nigran fantomon</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/04, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         en la fikcia &scirc;tato venkis ne la rajtoj de honestaj homoj, sed la
-        <klr>[&#8230;]</klr> koruptaj ag<tld/>oj, nome de demokratio
+        <klr>[&#x2026;]</klr> koruptaj ag<tld/>oj, nome de demokratio
         <fnt>
           <bib>Monato</bib>
         </fnt>;
@@ -307,12 +325,11 @@
         la registaro fundamente &scirc;an&gcirc;is sian ag<tld/>on rilate al tiu aro
         da etnaj lingvoj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Guido Van Damme</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007000.html">Atento
-          por etaj kaj monda lingvoj</url></vrk>
-        </fnt>;
+          <aut>Andr&eacute; Albault</aut>
+            <vrk><url ref="&Monato;/2000/007000.php">Atento por etaj kaj monda lingvoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/06, p. 4</lok>
+          </fnt>;
       </ekz>
       <ekz>
         se vaska popolo vere apogas ETAn, la&ubreve; radikale sendependentisma
@@ -320,8 +337,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>MADRIDANO</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008182.html">Vaskoj kaj
+          <vrk><url ref="&Monato;/2003/008182.html">Vaskoj kaj
           ETA</url></vrk>
         </fnt>?
       </ekz>
@@ -340,12 +356,22 @@
       <trd>styl dzia&lstroke;ania</trd>,
       <trd>styl pracy</trd>
     </trdgrp>
+    <trdgrp lng="ro">
+      <trd>modul de ac&#x21B;iune</trd>,
+      <trd>stilul de ac&#x21B;iune</trd>,
+      <trd>stilul de lucru</trd>
+    </trdgrp>
   </snc>
+  <trd lng="be">&c_s;&c_p;&c_o;&c_s;&c_a;&c_b; &c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_ja;</trd>
   <trdgrp lng="cs">
     <trd>chov&aacute;n&iacute; <klr>(v&uring;&ccaron;i n&ecaron;komu)</klr></trd>,
     <trd>postup</trd>
   </trdgrp>
   <trd lng="de">Handlungsweise</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3084;&#x308A;&#x65B9;  [<ind>&#x3084;&#x308A;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x884C;&#x52D5;&#x69D8;&#x5F0F;  [<ind>&#x3053;&#x3046;&#x3069;&#x3046;&#x3088;&#x3046;&#x3057;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">spr&aacute;vanie sa <klr>(vo&ccaron;i niekomu)</klr></trd>
 </drv>
 
@@ -366,12 +392,12 @@
         </fnt>;
       </ekz>
       <ekz>
-        vi do ne scias, Sara, kiom valoras &ccirc;i tiu pokalo <klr>[&#8230;]</klr>
-        &#8208; mi ne povas akcepti... &#8208; <klr>[&#8230;]</klr> sensenca&jcirc;o!... vi,
+        vi do ne scias, Sara, kiom valoras &ccirc;i tiu pokalo <klr>[&#x2026;]</klr>
+        &#x2010; mi ne povas akcepti... &#x2010; <klr>[&#x2026;]</klr> sensenca&jcirc;o!... vi,
         Sara, 
-        pagos al mi por &ccirc;i tiu pokalo ali<tld/>e <klr>[&#8230;]</klr> virino
-        tiel bela kiel vi <klr>[&#8230;]</klr>
-        &#8208; mi ne povas!... &#8208; murmuretis Sara, ne ka&scirc;ante abomenon
+        pagos al mi por &ccirc;i tiu pokalo ali<tld/>e <klr>[&#x2026;]</klr> virino
+        tiel bela kiel vi <klr>[&#x2026;]</klr>
+        &#x2010; mi ne povas!... &#x2010; murmuretis Sara, ne ka&scirc;ante abomenon
         <fnt>
           <bib>Far1</bib>
           <lok>&Ccirc;apitro XIII</lok>
@@ -387,14 +413,18 @@
         kutime oni manipulas balotilojn sed &ccirc;i-foje la registaro
         ali<tld/>e agis
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007284.html">Listo de
-          ruzo kaj manipulado</url></vrk>
-        </fnt>.
+          <aut>Bardhyl Selimi</aut>
+            <vrk><url ref="&Monato;/2001/007284.html">Listo de ruzo kaj manipulado</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 7</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_n;&c_sh;&c_y;&c_m; &c_s;&c_p;&c_o;&c_s;&c_a;&c_b;&c_a;&c_m;</trd>,
+    <trd>&c_ib;&c_n;&c_a;&c_ch;&c_a;&c_j;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>jinak</trd>,
     <trd>jin&yacute;m zp&uring;sobem</trd>
@@ -408,9 +438,19 @@
     <trd>d'une autre fa&ccedil;on</trd>,
     <trd>d'une autre mani&egrave;re</trd>
   </trdgrp>
+  <trd lng="ja">&#x5225;&#x306E;&#x3084;&#x308A;&#x65B9;&#x3067;  [<ind>&#x3079;&#x3064;&#x306E;&#x3084;&#x308A;&#x304B;&#x305F;&#x3067;</ind>]</trd>
+  <trd lng="pl">w inny <ind>spos&oacute;b</ind></trd>
+  <trd lng="ro">&icirc;ntr-un mod diferit</trd>
   <trdgrp lng="sk">
     <trd>in&aacute;&ccaron;</trd>,
     <trd>in&yacute;m sp&ocirc;sobom</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&c_n;&c_sh;&c_i;&c_m; &c_ch;&c_i;&c_n;&c_o;&c_m;</trd>,
+    <trd>&c_ib;&c_n;&c_sh;&c_i;&c_m; &c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_o;&c_m;</trd>,
+    <trd>&c_ib;&c_n;&c_sh;&c_i;&c_m; &c_r;&c_o;&c_b;&c_o;&c_m;</trd>,
+    <trd>&c_ib;&c_n;&c_a;&c_k;&c_sh;&c_je;</trd>,
+    <trd>&c_p;&c_o;-&c_ib;&c_n;&c_sh;&c_o;&c_m;&c_u;</trd>
   </trdgrp>
 </drv>
 
@@ -455,16 +495,38 @@
     </dif>
     <ref tip="ant" cel="manier.sam0e">sammaniere</ref>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_o;&c_z;&c_n;&c_y;&c_m;&c_ib; &c_s;&c_p;&c_o;&c_s;&c_a;&c_b;&c_a;&c_m;&c_ib;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>in <ind>unterschiedlicher</ind> Weise</trd>,
     <trd>verschieden</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3044;&#x308D;&#x3044;&#x308D;&#x306A;&#x3084;&#x308A;&#x65B9;&#x3067;  [<ind>&#x3044;&#x308D;&#x3044;&#x308D;&#x306A;&#x3084;&#x308A;&#x304B;&#x305F;&#x3067;</ind>]</trd>,
+    <trd>&#x3055;&#x307E;&#x3056;&#x307E;&#x306B;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozmaicie</trd>,
+    <trd>w r&oacute;&zdot;ny <ind>spos&oacute;b</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>&icirc;n mod diferit</trd>,
+    <trd>&icirc;n diverse feluri</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_i;&c_m; &c_ch;&c_i;&c_n;&c_o;&c_m;</trd>,
+    <trd>&c_p;&c_o;-&c_r;&c_ib;&c_z;&c_n;&c_o;&c_m;&c_u;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_i;&c_m;&c_i; &c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_a;&c_m;&c_i;</trd>,
+    <trd>&c_ib; &c_t;&c_a;&c_k; &c_ib; &c_s;&c_ja;&c_k;</trd>
   </trdgrp>
 </drv>
 
 
 <drv mrk="manier.ia0e">
   <kap>ia<tld/>e,
-  <var><kap>en ia <tld/>o</kap></var></kap>
+  <var><kap>en ia <tld/>o</kap></var>, <var><kap>certa<tld/>e</kap></var></kap>
   <snc mrk="manier.ia0e.KOMUNE">
     <dif>
       En ia <tld/>o, per ia a&ubreve; alia rimedo;
@@ -478,7 +540,7 @@
       </ekz>
       <ekz>
         neniu vin trompu ia<tld/>e, &ccirc;ar nepre anta&ubreve;e okazos
-        <klr>[&#8230;]</klr>
+        <klr>[&#x2026;]</klr>
         <fnt>
           <bib>NT</bib>
           <lok>II. Tesalonikanoj 2:3</lok>
@@ -493,17 +555,28 @@
         </fnt>;
       </ekz>
       <ekz>
-        fantazio kreis tiun mondon <klr>...</klr>
+        fantazio kreis tiun mondon <klr>[&#x2026;]</klr>
         tamen li sentas, ke &gcirc;i en ia <tld/>o estas 
         tute vera  
         <fnt>
           <aut>S. Engholm</aut>,
           <vrk>Homoj sur la tero</vrk>,
           <lok>1932</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej forta religio <klr>[&#x2026;]</klr> devigos aliajn certa<tld/>e akcepti
+        duagradan pozicion
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko Ti&scaron;ljar</aut>
+          <vrk><url ref="&Monato;/2008/009575.php">Unueco kaj diverseco</url></vrk>
+          <lok>2008</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_y;&c_m; &c_c;&c_ib; &c_ib;&c_n;&c_sh;&c_y;&c_m; &c_s;&c_p;&c_o;&c_s;&c_a;&c_b;&c_a;&c_m;</trd>
   <trd lng="de">irgendwie</trd>
   <trdgrp lng="es">
     <trd>de una manera o de otra</trd>,
@@ -512,6 +585,15 @@
   <trdgrp lng="fr">
     <trd>d'une mani&egrave;re ou d'une autre</trd>,
     <trd>d'une certaine fa&ccedil;on</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F55;&#x304B;&#x306E;&#x65B9;&#x6CD5;&#x3067;  [<ind>&#x306A;&#x3093;&#x304B;&#x306E;&#x307B;&#x3046;&#x307B;&#x3046;&#x3067;</ind>]</trd>,
+    <trd>&#x306A;&#x3093;&#x3068;&#x304B;&#x3057;&#x3066;</trd>
+  </trdgrp>
+  <trd lng="pl">w jaki&sacute; <ind>spos&oacute;b</ind></trd>
+  <trdgrp lng="ro">
+    <trd>&icirc;ntr-un fel</trd>,
+    <trd>cumva</trd>
   </trdgrp>
 </drv>
 
@@ -568,8 +650,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&Ouml;SSLER</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008358.html">Kuracbaneje</url></vrk>
+          <vrk><url ref="&Monato;/2004/008358.html">Kuracbaneje</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -585,10 +666,27 @@
       <trd>jak</trd>,
       <trd>w jaki <ind>spos&oacute;b</ind></trd>
     </trdgrp>
+    <trdgrp lng="ro">
+      <trd>cum</trd>,
+      <trd>ce</trd>
+    </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ja;&c_k;</trd>,
+    <trd>&c_ja;&c_k;&c_ib;&c_m; &c_s;&c_p;&c_o;&c_s;&c_a;&c_b;&c_a;&c_m;</trd>
+  </trdgrp>
 <trdgrp lng="de">
     <trd>wie</trd>,
     <trd>in welcher <ind>Weise</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#x3069;&#x306E;&#x3088;&#x3046;&#x306B;&#x3057;&#x3066;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ja;&c_k;</trd>,
+    <trd>&c_ja;&c_k;&c_i;&c_m; &c_ch;&c_i;&c_n;&c_o;&c_m;</trd>,
+    <trd>&c_ja;&c_k;&c_i;&c_m; &c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_o;&c_m;</trd>,
+    <trd>&c_ja;&c_k;&c_i;&c_m; &c_r;&c_o;&c_b;&c_o;&c_m;</trd>,
+    <trd>&c_u; &c_ja;&c_k;&c_i;&c_j; &c_s;&c_p;&c_o;&c_s;&c_ib;&c_b;</trd>,
+    <trd>&c_p;&c_o;-&c_ja;&c_k;&c_o;&c_m;&c_u;</trd>
   </trdgrp>
 </drv>
 
@@ -605,13 +703,12 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url
-          ref="&Monato;/2007/009097.php">Atentinda
+          <vrk><url ref="&Monato;/2007/009097.php">Atentinda
           dramarta&jcirc;o</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        mi tuj konscii&gcirc;is, ke multaj kristanoj sam<tld/> parolas pri
+        mi tuj konscii&gcirc;is, ke multaj kristanoj sam<tld/>e parolas pri
         Jesuo, kvaza&ubreve; simple Dio li estus
         <fnt>
           <bib>Monato</bib>
@@ -621,11 +718,11 @@
         </fnt>;
       </ekz>
       <ekz>
-        Po&scaron;ka tran&ccirc;is sufi&ccirc;e grandan pecon de la trunko, forigis &gcirc;ian
+        <nom>Po&scaron;ka</nom> tran&ccirc;is sufi&ccirc;e grandan pecon de la trunko, forigis &gcirc;ian
         interna&jcirc;on,
         metis sur &gcirc;in fojnan tegmenton, ellaboris fenestretojn, pordon
-        kaj ene aran&gcirc;is etan ejon <klr>[&#8230;]</klr>, 
-        post dek du jaroj Po&scaron;ka decidis sam<tld/>e ellabori la duan
+        kaj ene aran&gcirc;is etan ejon <klr>[&#x2026;]</klr>, 
+        post dek du jaroj <nom>Po&scaron;ka</nom> decidis sam<tld/>e ellabori la duan
         kverkan ejon nur iom pli etan
         <fnt>
           <bib>Monato</bib>
@@ -636,9 +733,24 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_n;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_v;&c_y;&c_m; &c_s;&c_p;&c_o;&c_s;&c_a;&c_b;&c_a;&c_m;</trd>,
+    <trd>&c_a;&c_d;&c_n;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_v;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>genauso</trd>,
     <trd>in <ind>gleicher</ind> Weise</trd>
+  </trdgrp>
+  <trd lng="ja">&#x540C;&#x3058;&#x3084;&#x308A;&#x65B9;&#x3067;  [<ind>&#x304A;&#x306A;&#x3058;&#x3084;&#x308A;&#x304B;&#x305F;&#x3067;</ind>]</trd>
+  <trd lng="pl">w ten sam <ind>spos&oacute;b</ind></trd>
+  <trdgrp lng="ro">
+    <trd>&icirc;n acela&#x219;i fel</trd>,
+    <trd>asemenea</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_a;&c_k; &c_s;&c_a;&c_m;&c_o;</trd>,
+    <trd>&c_t;&c_a;&c_k;&c_i;&c_m; &c_zh;&c_je; &c_ch;&c_i;&c_n;&c_o;&c_m;</trd>,
+    <trd>&c_t;&c_a;&c_k;&c_i;&c_m; &c_zh;&c_je; &c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_o;&c_m;</trd>
   </trdgrp>
 </drv>
 
@@ -664,26 +776,24 @@
       </ekz>
       <ekz>
         e&ccirc; grandvaloraj verkistoj falis en la kaptilon, ellasante
-        senpripense la erarajn dirm<tld/>ojn
-        <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006937.html">Genroj
-           En La Franca: Sinjorino &leftquot;Le secr&eacute;taire&rightquot; (la
-           sekretario)</url></vrk>
+        senpripense la erarajn dir<tld/>ojn
+        <fnt><aut>Andr&eacute; Cherpillod</aut>,
+        <vrk><url ref="&Monato;/2000/006937.php">Sinjorino Le secr&eacute;taire ...</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/07, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
         tia dir<tld/>o estas tute neebla en la franca lingvo
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007059.html">La influo
-          de la hebrea lingvo sur Esperanto</url></vrk>
+	<aut>Andr&eacute; Cherpillod</aut>
+	<vrk><url ref="&Monato;/2000/007059.php">La influo de la hebrea lingvo sur Esperanto</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/12, p. 18-19</lok>
         </fnt>;
       </ekz>
       <ekz>
-        plenumi&gcirc;as la franca dir<tld/>o &leftquot;ekstremoj tu&scirc;as unu la alian&#8221;
+        plenumi&gcirc;as la franca dir<tld/>o &leftquot;ekstremoj tu&scirc;as unu la alian&#x201D;
         <fnt>
           <bib>Monato</bib>
           <aut>Vinko O&scaron;lak</aut>
@@ -713,6 +823,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_m;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_n;&c_e;&c_r;&c_a; &c_g;&c_a;&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="cs">zp&uring;sob vyjad&rcaron;ov&aacute;n&iacute;</trd>
   <trdgrp lng="de">
     <trd>Redensart</trd>,
@@ -725,9 +839,20 @@
     <trd>fa&ccedil;on de parler</trd>,
     <trd>tournure</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A00;&#x3044;&#x65B9;  [<ind>&#x3044;&#x3044;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x8A00;&#x3044;&#x56DE;&#x3057;  [<ind>&#x3044;&#x3044;&#x307E;&#x308F;&#x3057;</ind>]</trd>,
+    <trd>&#x8868;&#x73FE;&#x6CD5;  [<ind>&#x3072;&#x3087;&#x3046;&#x3052;&#x3093;&#x307B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl"><ind>wijze</ind> van spreken</trd>
   <trd lng="pl">wymowa</trd>
+  <trd lng="ro">pronun&#x21B;ie</trd>
   <trd lng="sk">sp&ocirc;sob re&ccaron;i</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_s;&c_l;&c_ib;&c_v;</trd>,
+    <trd>&c_s;&c_p;&c_o;&c_s;&c_ib;&c_b; &c_v;&c_i;&c_s;&c_l;&c_o;&c_v;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_v;&c_i;&c_m;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="manier.est0o">
@@ -739,8 +864,7 @@
         natura est<tld/>o
         <fnt>
           <aut>P. Silas</aut>,
-          <vrk><url
-          ref="http://www.paulosilas.com/2015/03/malsameco.html">
+          <vrk><url ref="http://www.paulosilas.com/2015/03/malsameco.html">
           Malsameco</url></vrk>,
           <lok>2015-03-27</lok>
         </fnt>;
@@ -757,6 +881,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_l;&c_a;&c_d; &c_zh;&c_y;&c_c;&c_mol;&c_c;&c_ja;</trd>
   <trdgrp lng="de">
     <trd>Seiensart</trd>,
     <trd>Lebensweise</trd>,
@@ -765,6 +890,11 @@
   <trdgrp lng="fr">
     <trd>mani&egrave;re d'&ecirc;tre</trd>,
     <trd>style<klr> (de comportement)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">spos&oacute;b bycia</trd>
+  <trdgrp lng="ro">
+    <trd>mod de a fi</trd>,
+    <trd>comportament</trd>
   </trdgrp>
 </drv>
 
@@ -776,9 +906,9 @@
     <dif>
        Metodo a&ubreve; rimedo, formo per kiu oni pagas:
       <ekz>
-        &ccirc;irka&ubreve; 20% de la salajroj estas pagataj &leftquot;en kovertoj&#8221;
-        <klr>[&#8230;]</klr>,
-        la metodo estas tre favora por entreprenoj, <klr>[&#8230;]</klr>
+        &ccirc;irka&ubreve; 20% de la salajroj estas pagataj &leftquot;en kovertoj&#x201D;
+        <klr>[&#x2026;]</klr>,
+        la metodo estas tre favora por entreprenoj, <klr>[&#x2026;]</klr>
         dungitoj ne
         protestas kontra&ubreve; tia pag<tld/>o
         <fnt>
@@ -807,20 +937,21 @@
        <ref cel="kambi.0o">kambio</ref>
      </refgrp>
   </snc>
+  <trd lng="be">&c_s;&c_p;&c_o;&c_s;&c_a;&c_b; &c_a;&c_p;&c_l;&c_a;&c_t;&c_y;</trd>
   <trdgrp lng="de">
     <trd>Zahlungsweise</trd>,
     <trd>Zahlungsmittel</trd>
   </trdgrp>
+  <trd lng="pl">spos&oacute;b p&lstroke;atno&sacute;ci</trd>
+  <trd lng="ro">modalitate de plat&abreve;</trd>
 </drv>
-
-
 
 <drv mrk="manier.pens0o">
   <kap>pens<tld/>o</kap>
   <snc mrk="manier.pens0o.KOMUNE">
     <dif>
-      Kutima opinio, rezono, <ref tip="vid"
-      cel="punkt.vid0o.FIG">vidpunkto</ref> de homo a&ubreve; homgrupo
+      Kutima opinio, rezono, <ref tip="vid" cel="punkt.vid0o.FIG">vidpunkto</ref> de homo a&ubreve;
+      homgrupo
       pri iu 
       temo:
       <ekz>
@@ -854,7 +985,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        kelkaj vivis tute solece <klr>[&#8230;]</klr> kaj havis tute
+        kelkaj vivis tute solece <klr>[&#x2026;]</klr> kaj havis tute
         originalan pens<tld/>on kaj strangajn kutimojn
         <fnt>
           <bib>Fab3</bib>
@@ -869,6 +1000,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_o;&c_s;&c_a;&c_b; &c_m;&c_y;&c_s;&c_mol;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_m;&c_e;&c_n;&c_t;&c_a;&c_l;&c_ib;&c_t;&c_e;&c_t;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>mentalita</trd>,
     <trd>zp&uring;sob my&scaron;len&iacute;</trd>
@@ -879,6 +1014,7 @@
   </trdgrp>
   <trd lng="es">mentalidad</trd>
   <trd lng="fr">mentalit&eacute;</trd>
+  <trd lng="ja">&#x8003;&#x3048;&#x65B9;  [<ind>&#x304B;&#x3093;&#x304C;&#x3048;&#x304B;&#x305F;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>denkwijze</trd>,
     <trd>mentaliteit</trd>
@@ -886,6 +1022,10 @@
   <trdgrp lng="pl">
     <trd>spos&oacute;b my&sacute;lenia</trd>,
     <trd>mentalno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>un mod de g&acirc;ndire</trd>,
+    <trd>mentalitate</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>sp&ocirc;sob myslenia</trd>,
@@ -897,16 +1037,17 @@
   <kap>
     skrib<tld/>o
   </kap>
-  <snc>
+  <snc mrk="manier.skrib0o.mana">
     <dif>
-      Uzata signaro, stilo, esprimaj konvencioj de skribado:
+      <ref tip="dif" cel="skrib.0karaktero">Skribkaraktero</ref>, skribstilo:
       <ekz>
-        li sendis leterojn en &ccirc;iujn landojn de la re&gcirc;o, en &ccirc;iun landon
-        la&ubreve; &gcirc;ia skrib<tld/>o kaj al &ccirc;iu popolo en &gcirc;ia lingvo
+        la koverto estis surskribita per junece nestabila, kvaza&ubreve;
+        infaneca skrib<tld/>o
         <fnt>
-          <bib>MT</bib>
-          <lok>Ester 1:22</lok>
-        </fnt>;
+          <aut>N. Lavrentjeva, trad. A. Sidorov</aut>,
+          <vrk>Po&scirc;trestante</vrk>,
+          <lok>Nica Literatura Revuo, 3(1).</lok>
+      </fnt>;
       </ekz>
       <ekz>
         rimarkinde, la skrib<tld/>o debofronta estis seka, rigida, tro
@@ -916,28 +1057,104 @@
         </fnt>;
       </ekz>
       <ekz>
-        reguloj de nia lingvo permesas presi &leftquot;h&rightquot; anstata&ubreve; supersigno,
-        <klr>[&#8230;]</klr> sed se vi deziras anstata&ubreve;igi la supersignon en
-        &leftquot;&ccirc;&rightquot; kaj &leftquot;&scirc;&rightquot;, vi 
-        nepre devas anstata&ubreve;igi &gcirc;in anka&ubreve; en &leftquot;&jcirc;&rightquot;, &leftquot;&hcirc;&rightquot; kaj &leftquot;&gcirc;&rightquot;, &ccirc;ar &ccirc;iu
-        el la amba&ubreve; 
-        skrib<tld/>oj aparte estas permesita en nia lingvo, sed uzado de
-        ia 
-        skrib<tld/>o miksita estus jam arbitra&jcirc;o kaj kondukus al &hcirc;aoso
+        datoj mankas, sed la malsamaj inkkoloro kaj skrib<tld/>o
+        pruvas, ke &gcirc;i estis skribita en malsamaj tempoj
         <fnt>
-          <bib>LR</bib>
-          <lok>1. Alfabeto</lok>
+          <aut>Lusin, trad. Elpin</aut>,
+          <vrk>La Taglibro de Frenezulo</vrk>,
+          <lok>&Ccirc;ina Antologio (1919-1949), 1986</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_o;&c_ch;&c_y;&c_r;&c_k;</trd>,
+      <trd>&c_s;&c_t;&c_y;&c_l;&c_mol; &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Schreibweise</trd>,
+      <trd>Schreibstil</trd>
+    </trdgrp>
+    <trd lng="en">handwriting</trd>
+    <trd lng="id"><ind>tulis</ind>an tangan</trd>
+    <trdgrp lng="it">
+      <trd>scrittura<klr> (modo personale)</klr></trd>,
+      <trd>calligrafia<klr> (scrittura)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">schrijfwijze</trd>
+    <trd lng="ru">&c_p;&c_o;&c_ch;&c_je;&c_r;&c_k;</trd>
+    <trd lng="sv">handstil</trd>
   </snc>
-  <trdgrp lng="de">
-    <trd>die Art zu <ind>Schreiben</ind></trd>,
-    <trd>Schreibweise</trd>
+  <snc mrk="manier.skrib0o.sistemo">
+    <dif>
+      <tld lit="M"/>o aran&gcirc;i skribon (ortografiaj konvencioj, skriba sistemo
+      ktp):
+      <ekz>
+        disa, kuna, minuskla skrib<tld/>o;
+      </ekz>
+      <ekz>
+        li sendis leterojn en &ccirc;iujn landojn de la re&gcirc;o, en &ccirc;iun landon
+        la&ubreve; &gcirc;ia skrib<tld/>o kaj al &ccirc;iu popolo en &gcirc;ia lingvo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ester 1:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sed, se vi deziras anstata&ubreve;igi la supersignon en &ccirc; kaj &scirc;, vi
+        nepre devas anstata&ubreve;igi &gcirc;in anka&ubreve; en &jcirc;, &hcirc; kaj &gcirc;, &ccirc;ar
+        <klr>[&#x2026;]</klr> uzado de ia skrib<tld/>o miksita estus jam
+        arbitra&jcirc;o kaj kondukus al &hcirc;aoso
+        <fnt><aut>&Z;</aut>, <vrk>Lingva respondo 45</vrk>,
+          <lok>La Revuo, 1908-08</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_o;</trd>,
+      <trd>&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a; &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_a;</trd>
+    </trdgrp>
+    <trd lng="de">Schriftsystem</trd>
+    <trd lng="id"><ind>sistem</ind> penulisan</trd>
+    <trdgrp lng="it">
+      <trd>scrittura<klr> (sistema)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">zetwijze</trd>
+    <trd lng="pl">rejestracja</trd>     
+    <trd lng="ro">&icirc;nregistrare</trd>
+    <trd lng="ru">&c_n;&c_a;&c_p;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>charakter p&iacute;sma</trd>,
+    <trd>rukopis</trd>,
+    <trd>zp&uring;sob psan&iacute;</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>escritura</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;criture</trd>
+  </trdgrp>
+  <trd lng="hu">&iacute;r&aacute;sm&oacute;d</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7B46;&#x8DE1;  [<ind>&#x3072;&#x3063;&#x305B;&#x304D;</ind>]</trd>,
+    <trd>&#x66F8;&#x304D;&#x65B9;  [<ind>&#x304B;&#x304D;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x66F8;&#x6CD5;  [<ind>&#x3057;&#x3087;&#x307B;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>charakter pisma</trd>,
+    <trd>spos&oacute;b pisania</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>charakter p&iacute;sma</trd>,
+    <trd>rukopis</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>scris</trd>,
+    <trd>mod de scriere</trd>,
+    <trd>scris de m&acirc;n&abreve;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_p;&c_o;&c_s;&c_ib;&c_b; &c_n;&c_a;&c_p;&c_i;&c_s;&c_a;&c_n;&c_n;&c_ja;</trd>
 </drv>
-
-
 
 <drv mrk="manier.viv0o">
   <kap>viv<tld/>o</kap>
@@ -953,7 +1170,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        tio estis vivm<tld/>o certe ne konforma al la reguloj de la
+        tio estis viv<tld/>o certe ne konforma al la reguloj de la
         higieno, 
         kaj tamen la strioj de malsaneca flavo malaperis de la viza&gcirc;o
         <fnt>
@@ -970,12 +1187,11 @@
       <ekz>
         plej moda viv<tld/>o de la nuntempaj japanaj junuloj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Igarasi Takeo</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007171.html">Junaj
-          liberaj laboristoj</url></vrk>
-        </fnt>;
+          <aut>IGARASI Takeo</aut>
+            <vrk><url ref="&Monato;/2000/007171.php">Junaj liberaj laboristoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 11</lok>
+          </fnt>;
       </ekz>
       <ekz>
         oni povas veturi &scirc;ipe a&ubreve; aviadile al la Aran-Insuloj, kie
@@ -983,13 +1199,13 @@
         gaela lingvo
         <fnt>
           <bib>Monato</bib>
-          <aut>Garbhan MACAOIDH</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008094.html">Galway &#8208;
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008094.html">Galway &#x2010;
           urbo de triboj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_s;&c_t;&c_y;&c_l;&c_mol; &c_zh;&c_y;&c_c;&c_mol;&c_c;&c_ja;</trd>
     <trdgrp lng="es">
       <trd>modo de vida</trd>,
       <trd>estilo de vida</trd>
@@ -1007,6 +1223,11 @@
     <trdgrp lng="pt">
      <trd>modo de vida</trd>
     </trdgrp>
+    <trdgrp lng="ro">
+    <trd>stil de via&#x21B;&abreve;</trd>,
+    <trd>mod de via&#x21B;&abreve;</trd>,
+    <trd>idee pentru via&#x21B;&abreve;</trd>
+  </trdgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>zp&uring;sob &zcaron;ivota</trd>,
@@ -1017,10 +1238,20 @@
     <trd>Lebensart</trd>,
     <trd>Lebensweise</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x751F;&#x6D3B;&#x69D8;&#x5F0F;  [<ind>&#x305B;&#x3044;&#x304B;&#x3064;&#x3088;&#x3046;&#x3057;&#x304D;</ind>]</trd>,
+    <trd>&#x66AE;&#x3057;&#x65B9;  [<ind>&#x304F;&#x3089;&#x3057;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x751F;&#x304D;&#x65B9;  [<ind>&#x3044;&#x304D;&#x304B;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">&zcaron;ivotn&yacute; &scaron;t&yacute;l</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_p;&c_o;&c_s;&c_ib;&c_b; &c_zh;&c_i;&c_t;&c_t;&c_ja;</trd>,
+    <trd>&c_u;&c_k;&c_l;&c_a;&c_d; &c_zh;&c_i;&c_t;&c_t;&c_ja;</trd>,
+    <trd>&c_zh;&c_i;&c_t;&c_t;&c_jeu;&c_v;&c_i;&c_j; &c_u;&c_k;&c_l;&c_a;&c_d;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="manier.tia0eke">
+<drv mrk="manier.tia0e">
   <kap>tia<tld/>e</kap>
   <snc mrk="manier.tia0e.KOMUNE">
     <dif>
@@ -1035,15 +1266,10 @@
         </fnt>;
       </ekz>
       <ekz>
-        en la tago de enterigo de sia patrino &scirc;i ricevis la ru&gcirc;ajn &scirc;uojn
-        
-        <klr>[&#8230;]</klr>, por funebro ili certe estis ne tre
-        
-        konvenaj, sed
-        &scirc;i ja ne
-        havis aliajn, kaj tial &scirc;i metis ilin sur siajn nudajn piedetojn
-        kaj tia<tld/>e 
-        iris post la mizera &ccirc;erko
+        en la tago de enterigo de sia patrino &scirc;i ricevis la ru&gcirc;ajn &scirc;uojn        
+        <klr>[&#x2026;]</klr>, por funebro ili certe estis ne tre        
+        konvenaj, sed &scirc;i ja ne havis aliajn, kaj tial &scirc;i metis ilin sur siajn nudajn piedetojn
+        kaj tia<tld/>e iris post la mizera &ccirc;erko
         <fnt>
           <bib>Fab2</bib>
           <lok>Ru&gcirc;aj &scirc;uoj</lok>
@@ -1071,6 +1297,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_k;</trd>,
+    <trd>&c_t;&c_a;&c_k;&c_ib;&c_m; &c_s;&c_p;&c_o;&c_s;&c_a;&c_b;&c_a;&c_m;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>in solcher <ind>Weise</ind></trd>,
     <trd>solcherart</trd>
@@ -1083,11 +1313,25 @@
     <trd>de telle mani&egrave;re que</trd>,
     <trd>de telle sorte que</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x305D;&#x3093;&#x306A;&#x98A8;&#x306B;&#x3057;&#x3066;  [<ind>&#x305D;&#x3093;&#x306A;&#x304B;&#x305C;&#x306B;&#x3057;&#x3066;</ind>]</trd>,
+    <trd>&#x305D;&#x3046;&#x3044;&#x3046;&#x98A8;&#x306B;  [<ind>&#x305D;&#x3046;&#x3044;&#x3046;&#x304B;&#x305C;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">op die <ind>manier</ind></trd>
   <trdgrp lng="pl">
-    <trd>w ten <ind>spos&oacute;b</ind>, &zdot;e</trd>,
-    <trd>w taki <ind>spos&oacute;b</ind>, &zdot;e</trd>,
-    <trd>tak, &zdot;e</trd>
+    <trd>w ten <ind>spos&oacute;b</ind>, &zdot;e...</trd>,
+    <trd>w taki <ind>spos&oacute;b</ind>, &zdot;e...</trd>,
+    <trd>tak, &zdot;e...</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>&icirc;n a&#x219;a fel &icirc;nc&acirc;t&#x2026;</trd>,
+    <trd>astfel &icirc;nc&acirc;t ...</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_a;&c_k;</trd>,
+    <trd>&c_t;&c_a;&c_k;&c_i;&c_m; &c_ch;&c_i;&c_n;&c_o;&c_m;</trd>,
+    <trd>&c_t;&c_a;&c_k;&c_i;&c_m; &c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_o;&c_m;</trd>,
+    <trd>&c_u; &c_t;&c_a;&c_k;&c_i;&c_j; &c_s;&c_p;&c_o;&c_s;&c_ib;&c_b;</trd>
   </trdgrp>
 </drv>
 
@@ -1137,8 +1381,7 @@
         mondunumo, nomitaj anka&ubreve; bonaj <tld/>oj.
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref="http://eo.wikipedia.org/wiki/Etiketo_(reguloj)">
+          <lok><url ref="&Viki;/Etiketo_(reguloj)">
            Etiketo</url>, 2014-01-25</lok>
        </fnt>.
       </ekz>
@@ -1147,6 +1390,7 @@
   <refgrp tip="vid">
     <ref cel="etiket.0o.MOR">etiketo</ref>
   </refgrp>
+  <trd lng="be">&c_d;&c_o;&c_b;&c_r;&c_y;&c_ja; &c_m;&c_a;&c_n;&c_e;&c_r;&c_y;</trd>
   <trdgrp lng="de">
     <trd>gute Manieren</trd>,
     <trd>Anstand</trd>,
@@ -1156,34 +1400,32 @@
   <trd lng="es">buenos <ind>modales</ind></trd>
   <trd lng="fr">bonnes mani&egrave;res</trd>
   <trd lng="pl">dobre <ind>maniery</ind></trd>
+  <trd lng="ro">bune maniere</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.37  2019/06/30 07:42:48  revo
-adaptis URL de Monato
+versio 1.59 2023/04/30 18:29:13
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.36  2018/07/03 09:10:15  revo
-Jeromo Vasxe: kor 1 ref
+versio 1.58 2023/04/27 15:26:43
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.35  2017/12/23 23:10:17  revo
-Wolfram Diestel: kor. mrk
+versio 1.57 2023/04/27 06:33:49
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.34  2017/12/10 15:10:15  revo
-Wolfram Diestel: +pag~o, sam~e, divers~e, pliaj ekz-oj
+versio 1.56 2023/04/26 16:34:31
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.33  2017/12/10 11:10:14  revo
-Wolfram Diestel: prilaboris ekz-ojn, + skrib~o
+versio 1.55 2023/04/23 08:29:36
+Paul Peeraerts: &Steloj -> monato.be
 
-Revision 1.32  2015/07/04 08:37:39  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.54 2023/04/11 16:10:37
+aktualigo Monato-URL
 
-Revision 1.31  2015/06/29 16:33:19  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.53 2023/03/12 20:26:07
+Wolfram Diestel: +var certa~e
 
-Revision 1.30  2015/04/23 19:10:22  revo
-Jeromo Vasxe: + est~o
-
-Revision 1.29  2015/04/22 09:10:16  revo
+versio 1.52 2022/05/01 12:05:12
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: parol.xml,v 1.163 2023/09/11 12:42:25 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>parol</rad>/i
@@ -51,7 +50,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        li <tld/>is: Ho Eternulo, Dio de Izrael!
+        li <tld/>is: Ho Eternulo, Dio de <nom>Izrael</nom>!
         <fnt>
           <bib>MT</bib>
           <lok>I. Re&gcirc;oj 8:23</lok>
@@ -162,8 +161,7 @@
         oni ne devas uzi tiun fina&jcirc;on kiam la verbo <tld/>as pri la
         stato de la subjekto mem
         <fnt>
-          <vrk><url
-          ref="https://fabigen.wordpress.com/ekzercilo-por-la-akuzativo-2/">Ekzerciloj
+          <vrk><url ref="https://fabigen.wordpress.com/ekzercilo-por-la-akuzativo-2/">Ekzerciloj
           Por La Akuzativo | Plur-lingvismo kaj Esperanto</url></vrk>
         </fnt>;
       </ekz>
@@ -171,25 +169,25 @@
         Konsiderinte kaj la ekonomiajn kaj la politikajn argumentojn, ni
         konkludas,
         ke tiuj faktoroj, kiuj <tld/>as kontra&ubreve; sveda partopreno jam en
-        1999, 
+        1999,
         estas pli fortaj ol tiuj, kiuj <tld/>as por partopreno
         <fnt>
-          <bib>Monato</bib>
           <aut>Bo Sandelin</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008235.html">Svedoj
+          <vrk><url ref="&Monato;/2004/008235.html">Svedoj
           balotis kontra&ubreve; e&ubreve;ro</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/01, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
-        Homoj, kiuj havas malsanigan vivstilon &ndash; la esprimo <tld/>as 
+        Homoj, kiuj havas malsanigan vivstilon &ndash; la esprimo <tld/>as
         per si mem &ndash; povas ekhavi sanproblemojn jam ekde sia 50-jari&gcirc;o
         <fnt>
-          <bib>Monato</bib>
-          <aut>Lode Van De Velde</aut>
-          <vrk><url
-          ref="&Monato;/2013/010934.php">Sablohorlo&gcirc;o
+          <aut>Lode van de Velde</aut>
+          <vrk><url ref="&Monato;/2013/010934.php">Sablohorlo&gcirc;o
           for&scirc;ovas piramidon</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/07, p. 19</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -203,14 +201,40 @@
     </trdgrp>
   </snc>
   <rim>
-    Dum &leftquot;<ref tip="sin" cel="dir.0i">diri</ref>&rightquot; kaj &leftquot;<ref tip="sin"
-    cel="rakont.0i">rakonti</ref>&rightquot;
+    Dum &leftquot;<ref tip="sin" cel="dir.0i">diri</ref>&rightquot; kaj &leftquot;<ref tip="sin" cel="rakont.0i">rakonti</ref>&rightquot;
     akcentas la enhavon, la ideon, la historion, kiun oni esprimas,
-    &leftquot;paroli&rightquot; 
+    &leftquot;paroli&rightquot;
     esprimas la manieron, la <ref cel="lingv.0o">lingvon</ref>
-    ktp, kiun oni uzas por <ref tip="super"
-    cel="esprim.0i">esprimi&gcirc;i</ref>.
+    ktp, kiun oni uzas por <ref tip="super" cel="esprim.0i">esprimi&gcirc;i</ref>.
   </rim>
+  <trd lng="af">praat</trd>
+  <trd lng="am">&#4720;&#4755;&#4872;&#x122D;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_k;&a_l;&a_A;&a_m;</trd>
+  <trd lng="az">dan&inodot;&#x15F;maq</trd>
+  <trd lng="bn">&#2453;&#x9A5;&#x9BE; &#x9AC;&#x9B2;&#x9A4;&#x9C7;</trd>
+  <trd lng="bo">&#xF66;&#xF90;&#xF51;&#xF0B;&#xF46;&#xF0B;&#xF56;&#xF64;&#xF51;&#xF0B;</trd>
+  <trd lng="bs">govori</trd>
+  <trd lng="co">parl&#xE0;</trd>
+  <trd lng="cy">siarad</trd>
+  <trd lng="da">tale</trd>
+  <trd lng="et">r&#xE4;&#xE4;kida</trd>
+  <trd lng="eu">hitz egin</trd>
+  <trd lng="fy">sprekke</trd>
+  <trd lng="ga">labhairt</trd>
+  <trd lng="gd">bruidhinn</trd>
+  <trd lng="gl">falar</trd>
+  <trd lng="gu">&#xAB5;&#xABE;&#xAA4;</trd>
+  <trd lng="ha">yi magana</trd>
+  <trd lng="hi">&#x92C;&#x94B;&#2354;&#2344;&#x93E;</trd>
+  <trd lng="hmn">hais lus</trd>
+  <trd lng="hr">govoriti</trd>
+  <trd lng="ht">pale</trd>
+  <trd lng="hy">&#x56D;&#1400;&#x57D;&#1381;&#x56C;</trd>
+  <trd lng="ig">na-ekwu okwu</trd>
+  <trd lng="is">tala</trd>
+  <trd lng="ja">&#x8A71;&#12377; [<ind>&#x306F;&#x306A;&#12377;</ind>]</trd>
+  <trd lng="jv">nganggo</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10E3;&#x10D1;&#x10D0;&#x10E0;&#x10D8;</trd>
   <trdgrp lng="kek">
     <trd>aatinak</trd>,
     <trd>aatinamank</trd>
@@ -239,20 +263,68 @@
     <trd>besz&eacute;l</trd>,
     <trd>sz&oacute;l</trd>
   </trdgrp>
-  <trd lng="id">[<ind>bicara</ind>] berbicara</trd>
+  <trd lng="id">ber<ind>bicara</ind></trd>
   <trdgrp lng="it">
     <trd>parlare</trd>,
     <trd>discorrere</trd>,
     <trd>dire</trd>
   </trdgrp>
+  <trd lng="kk">&c_a;&c_j;&c_t;&c_u;</trd>
+  <trd lng="km">&#6035;&#x17B7;&#6041;&#x17B6;&#6041;</trd>
+  <trd lng="kn">&#xCAE;&#xCBE;&#xCA4;&#xCA8;&#xCBE;&#xCA1;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xC774;&#xC57C;&#xAE30;</trd>
+  <trd lng="ku">axaftin</trd>
+  <trd lng="ky">&c_s;&#x4AF;&c_j;&#x43B;&#x4E9;&#x4E9;</trd>
+  <trd lng="lat">dicere</trd>
+  <trd lng="lo">&#xEC0;&#xEA7;&#xEBB;&#xEC9;&#xEB2;</trd>
+  <trd lng="lt">kalb&#279;ti</trd>
+  <trd lng="lv">run&#x15D1;t</trd>
+  <trd lng="mg">miteny</trd>
+  <trd lng="mi">korero</trd>
+  <trd lng="mk">&c_z;&c_b;&#x43E;&c_r;&c_u;&c_v;&c_a;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD38;&#xD02;&#xD38;&#xD3E;&#xD30;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&#x4AF;&c_g; &c_h;&#x44D;&#x43B;&#x44D;&c_h;</trd>
+  <trd lng="mr">&#x92C;&#x94B;&#2354;&#2340;&#x93E;</trd>
+  <trd lng="ms">bercakap</trd>
+  <trd lng="mt">jitkellmu</trd>
+  <trd lng="my">&#4101;&#4096;&#x102C;&#4152;&#4117;&#x103C;&#4145;&#x102C;</trd>
+  <trd lng="ne">&#x92C;&#x94B;&#2354;&#x94D;&#2344;</trd>
   <trd lng="nl">spreken</trd>
+  <trd lng="ny">kulankhula</trd>
+  <trd lng="pa">&#xA17;&#xA71;&#xA32; &#xA15;&#xA30;&#xA4B;</trd>
+  <trd lng="ps">&#x62E;&a_b;&a_r;&#x6D0;</trd>
   <trd lng="pt">falar</trd>
   <trd lng="ru">&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="rw">vuga</trd>
+  <trd lng="sd">&#x6B3;&a_A;&a_l;&a_h;&a_A;&a_y_hamza;&#x6BB;</trd>
+  <trd lng="si">&#xD9A;&#xDAD;&#xDCF;</trd>
   <trdgrp lng="sk">
     <trd>hovori&tcaron;</trd>,
     <trd>rozpr&aacute;va&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">govorijo</trd>
+  <trd lng="sm">tautala</trd>
+  <trd lng="sn">taura</trd>
+  <trd lng="so">hadlaan</trd>
+  <trd lng="sq">flasin</trd>
+  <trd lng="st">bua</trd>
+  <trd lng="su">ngomong</trd>
+  <trd lng="sw">kusema</trd>
+  <trd lng="ta">&#xBAA;&#xBC7;&#xB9A;</trd>
+  <trd lng="te">&#xC2E;&#xC3E;&#xC1F;&#xC4D;&#xC32;&#xC3E;&#xC21;&#xC1F;&#xC02;</trd>
+  <trd lng="tg">&c_s;&c_u;&c_h;&c_a;&#x43D;</trd>
+  <trd lng="th">&#xE1E;&#xE39;&#xE14;</trd>
+  <trd lng="tl">magsalita</trd>
+  <trd lng="tt">&c_s;&#x4E9;&c_j;&#x43B;&#x4D9;&c_sh;</trd>
+  <trd lng="uk">&c_g;&#x43E;&c_v;&#x43E;&c_r;&c_i;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_b;&a_A;&#x62A;</trd>
+  <trd lng="uz">gapirish</trd>
+  <trd lng="vi">n&#xF3;i</trd>
   <trd lng="vo">p&uuml;k&ouml;n</trd>
+  <trd lng="xh">thetha</trd>
+  <trd lng="yi">&#x5E8;&#x5E2;&#x5D3;&#x5DF;</trd>
+  <trd lng="yo">s&#x1ECD;</trd>
+  <trd lng="zu">ukhulume</trd>
 </drv>
 
 <drv mrk="parol.0o">
@@ -421,7 +493,7 @@
       </ekz>
       <ekz>
         via <tld/>o estu: Jes, jes, ne, ne; &ccirc;io ekster tio estas el
-        malbono 
+        malbono
         <fnt>
           <bib>NT</bib>
           <lok>Mateo 5:37</lok>
@@ -437,11 +509,11 @@
       <ekz>
         libero de <tld/>o ne estas vere absoluta
         <fnt>
-          <bib>Monato</bib>
           <aut>Juan Jacobo Schmitter-soto</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008257.html">Lando de la
+          <vrk><url ref="&Monato;/2004/008257.html">Lando de la
           (mal)liberuloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/03, p. 14</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -496,9 +568,10 @@ lingvo en la vortaron:
   <snc mrk="parol.0o.konsiloj">
     <dif>
       <klr>(uzata plurale)</klr>
-      Konsilo, ideo, persvado esprimata en serio kun aliaj samcelaj:
+      <ref tip="lst" lst="voko:komunikoj" cel="konsil.0o.ideo">Konsilo</ref>,
+      ideo, persvado esprimata en serio kun aliaj samcelaj:
       <ekz>
-        a&ubreve;skultu do, Ijob, miajn <tld/>ojn, kaj atentu &ccirc;iujn miajn
+        a&ubreve;skultu do, <nom>Ijob</nom>, miajn <tld/>ojn, kaj atentu &ccirc;iujn miajn
         vortojn
         <fnt>
           <bib>MT</bib>
@@ -539,22 +612,79 @@ lingvo en la vortaron:
 
   <refgrp tip="vid">
     <ref cel="rekt.ne0a.LIN">nerekta</ref>,
-    <ref cel="rekt.0a.LIN">rekta</ref>    
+    <ref cel="rekt.0a.LIN">rekta</ref>
   </refgrp>
+  <trd lng="af">toespraak</trd>
+  <trd lng="am">&#4757;&#x130D;&#x130D;&#x122D;</trd>
+  <trd lng="ar">&#x62E;&a_T;&a_A;&a_b;</trd>
+  <trd lng="az">&#xE7;&inodot;x&inodot;&#x15F;</trd>
+  <trd lng="bn">&#x9AC;&#2453;&#x9CD;&#x9A4;&#x9C3;&#x9A4;&#x9BE;</trd>
+  <trd lng="bo">&#xF66;&#xF90;&#xF51;&#xF0B;&#xF46;&#xF0B;</trd>
   <trd lng="br">komz<klr tip="ind"> (ak.)</klr></trd>
   <trdgrp lng="be">
     <trd>&c_g;&c_a;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>,
     <trd>&c_g;&c_u;&c_t;&c_a;&c_r;&c_k;&c_a;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_m;&c_o;&c_v;&c_a;</trd>
   </trdgrp>
+  <trd lng="bs">govora</trd>
+  <trd lng="co">discorsu</trd>
+  <trd lng="cy">lleferydd</trd>
+  <trd lng="da">tale</trd>
   <trd lng="en">speech</trd>
   <trd lng="es">habla</trd>
+  <trd lng="et">k&#xF5;ne</trd>
+  <trd lng="eu">hitzaldian</trd>
   <trdgrp lng="fr">
     <trd>parole</trd>
   </trdgrp>
-  <trd lng="id">[<ind>bicara</ind>] pembicaraan</trd>
+  <trd lng="fy">spraak</trd>
+  <trd lng="ga">urlabhra</trd>
+  <trd lng="gd">&#xF2;raid</trd>
+  <trd lng="gl">discurso</trd>
+  <trd lng="gu">&#xAAD;&#xABE;&#xAB7;&#xAA3;</trd>
+  <trd lng="ha">jawabin</trd>
+  <trd lng="hi">&#x92D;&#x93E;&#2359;&#2339;</trd>
+  <trd lng="hmn">hais lus</trd>
+  <trd lng="hr">govor</trd>
+  <trd lng="ht">diskou</trd>
+  <trd lng="hy">&#x56D;&#1400;&#x57D;&#1412;</trd>
+  <trd lng="id">pem<ind>bicara</ind>an</trd>
+  <trd lng="ig">okwu</trd>
+  <trd lng="is">r&#xE6;&#xF0;u</trd>
+  <trd lng="ja">&#x30B9;&#x30D4;&#x30FC;&#x30C1;</trd>
+  <trd lng="jv">wicara</trd>
+  <trd lng="ka">&#x10E1;&#x10D8;&#x10E2;&#x10E7;&#x10D5;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_s;&#x4E9;&c_j;&#x43B;&c_je;&c_u;</trd>
+  <trd lng="km">&#x179F;&#x17BB;&#6035;&#x17D2;&#6033;&#x179A;&#6016;&#6032;&#x17B6;</trd>
+  <trd lng="kn">&#xCAD;&#xCBE;&#xCB7;&#xCA3;</trd>
+  <trd lng="ko">&#xC74C;&#xC131;</trd>
+  <trd lng="ku">axaftin</trd>
+  <trd lng="ky">&c_s;&#x4AF;&c_j;&#x43B;&#x4E9;&#x4E9;</trd>
+  <trd lng="lat">oratio</trd>
+  <trdgrp lng="lo">
+    <trd>&#xE9B;&#xEB2;&#xE81;&#xEC0;&#xEA7;&#xEBB;&#xEC9;&#xEB2;</trd>,
+    <trd>&#xE82;&#xEB5;&#xE94;</trd>
+  </trdgrp>
+  <trd lng="lt">kalbos</trd>
+  <trd lng="lv">runas</trd>
+  <trd lng="mg">miteny</trd>
+  <trd lng="mi">kupu</trd>
+  <trd lng="mk">&c_g;&#x43E;&c_v;&#x43E;&c_r;</trd>
+  <trd lng="ml">&#xD2E;&#xD4A;&#xD34;&#xD3F;</trd>
+  <trd lng="mn">&c_h;&#x44D;&#x43B; &#x44F;&c_r;&c_i;&c_a;</trd>
+  <trd lng="mr">&#x92D;&#x93E;&#2359;&#2339;</trd>
+  <trd lng="ms">ucapan</trd>
+  <trd lng="mt">diskors</trd>
+  <trd lng="my">&#4121;&#x102D;&#4116;&#4151;&#x103A;&#4097;&#x103D;&#4116;&#x103A;&#4152;</trd>
+  <trd lng="ne">&#x92C;&#x94B;&#2354;&#2368;</trd>
+  <trd lng="ny">zolankhula</trd>
+  <trd lng="pa">&#xA2C;&#xA4B;&#xA32;&#xA23; &#xA26;&#xA40;</trd>
+  <trd lng="ps">&a_w;&#x6CC;&a_n;&a_A;</trd>
   <trd lng="ru">&c_r;&c_je;&c_ch;&c_mol;</trd>
   <trd lng="kek">aatin</trd>
+  <trd lng="rw">imvugo</trd>
+  <trd lng="sd">&#x62A;&a_q;&a_r;&#x64A;&a_r;</trd>
+  <trd lng="si">&#xD9A;&#xDAD;&#xDCF;&#xDC0;</trd>
   <trdgrp lng="sk">
     <trd>prejav</trd>,
     <trd>re&ccaron;nenie</trd>
@@ -564,6 +694,28 @@ lingvo en la vortaron:
     <trd>projev</trd>,
     <trd>&rcaron;e&ccaron;n&ecaron;n&iacute;</trd>
   </trdgrp>
+  <trd lng="sl">govor</trd>
+  <trd lng="sm">tautala</trd>
+  <trd lng="sn">nhaurwa</trd>
+  <trd lng="so">hadalka</trd>
+  <trd lng="sq">fjalim</trd>
+  <trd lng="st">puo</trd>
+  <trd lng="su">pidato</trd>
+  <trd lng="sw">hotuba</trd>
+  <trd lng="ta">&#xBAA;&#xBC7;&#xB9A;&#xBCD;&#xB9A;&#xBC1;</trd>
+  <trd lng="te">&#xC2A;&#xC4D;&#xC30;&#xC38;&#xC02;&#xC17;&#xC02;</trd>
+  <trd lng="tg">&c_s;&c_u;&c_h;&c_a;&#x43D;&c_r;&#x43E;&#x43D;&#x4E3;</trd>
+  <trd lng="th">&#xE04;&#xE33;&#xE1E;&#xE39;&#xE14;</trd>
+  <trd lng="tl">na salita</trd>
+  <trd lng="tt">&c_s;&#x4E9;&c_j;&#x43B;&#x4D9;&#x43C;</trd>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_v;&c_u;</trd>
+  <trd lng="ur">&#x62A;&a_q;&a_r;&#x6CC;&a_r;</trd>
+  <trd lng="uz">nutq</trd>
+  <trd lng="vi">b&#xE0;i ph&#xE1;t bi&#x1EC3;u</trd>
+  <trd lng="xh">intetho</trd>
+  <trd lng="yi">&#x5E8;&#x5E2;&#x5D3;&#x5E2;</trd>
+  <trd lng="yo">&#x1ECD;r&#x1ECD;</trd>
+  <trd lng="zu">inkulumo</trd>
 </drv>
 
 <drv mrk="parol.0a">
@@ -585,12 +737,12 @@ lingvo en la vortaron:
         la man&ccirc;ura kiel <tld/>a lingvo malaperos en dek jaroj, se oni ne
         alprenos ur&gcirc;ajn rimedojn
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007025.html">La
-          Man&ccirc;ura:
-          Formortanta lingvo de malplimulto en &Ccirc;inio</url></vrk>
-        </fnt>.
+          <aut>Sabeo Fu/Yamasaki Seik&ocirc;</aut>
+            <vrk><url ref="&Monato;/2001/007025.php">Formortanta lingvo de malplimulto en
+            &Ccirc;inio</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 22</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
@@ -661,6 +813,10 @@ lingvo en la vortaron:
     <trd>orale</trd>,
     <trd>verbale<klr> (a parole)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x53E3;&#x982D;&#12391;&#x306E;  [<ind>&#12371;&#12358;&#12392;&#12358;&#12391;&#x306E;</ind>]</trd>,
+    <trd>&#x8A00;&#33865;&#x306E;  [<ind>&#12371;&#12392;&#12400;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">mondeling</trd>
   <trdgrp lng="pl">
     <trd>s&lstroke;owny</trd>,
@@ -675,6 +831,11 @@ lingvo en la vortaron:
     <trd>slovn&yacute;</trd>,
     <trd>&uacute;stny</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43B;&#x43E;&c_v;&c_je;&c_s;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43C;&#x43E;&c_v;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_u;&c_s;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parol.0ado">
@@ -688,7 +849,7 @@ lingvo en la vortaron:
       </ekz>
       <ekz>
         Moseo finis la <tld/>adon de &ccirc;iuj &ccirc;i tiuj vortoj anta&ubreve; la tuta
-        Izrael
+        <nom>Izrael</nom>
         <fnt>
           <bib>MT</bib>
           <lok>Readmono 32:45</lok>
@@ -750,7 +911,7 @@ lingvo en la vortaron:
       </ekz>
       <ekz>
         post la pompa <tld/>ado pri la graveco de l' sciencoj, la
-        instruisto 
+        instruisto
         prenis krajonon kaj sur la alabastra muro komencis skribi la
         alfabeton
         <fnt>
@@ -762,23 +923,21 @@ lingvo en la vortaron:
         tiel sin esprimis anta&ubreve; nelonge, dum <tld/>ado en la albana
         parlamento, la &ccirc;efo de la plej granda opozicia demokrata partio
         <fnt>
-          <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006858.html">Albanio:
-          Diktaturo de impostoj</url></vrk>
+	<aut>Bardhyl Selimi Mezini</aut>
+	<vrk><url ref="&Monato;/2000/006858.php">Diktaturo de impostoj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/05, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
         la piloto faris la kutiman <tld/>adon, bonvenigante la
         pasa&gcirc;erojn kaj donante kelkajn informojn pri la flugo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007159.html">Flugilhavaj
-          vortoj</url></vrk>
-        </fnt>.
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007159.php">Flugilhavaj vortoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 22</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sub">
@@ -819,6 +978,10 @@ lingvo en la vortaron:
       <trd>&c_v;&c_y;&c_s;&c_t;&c_u;&c_p;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x6F14;&#x8AAC;  [<ind>&#12360;&#12435;&#x305C;&#12388;</ind>]</trd>,
+    <trd>&#x8AC7;&#x8A71;  [<ind>&#12384;&#12435;&#x308F;</ind>]</trd>
+  </trdgrp>
   <trd lng="kek">aatin</trd>
   <trdgrp lng="cs">
     <trd>mluven&iacute;</trd>,
@@ -836,6 +999,12 @@ lingvo en la vortaron:
   <trdgrp lng="sk">
     <trd>prejav</trd>,
     <trd>re&ccaron;nenie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&c_v;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&#x43E;&c_v;&c_a;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_v;&c_a;</trd>,
+    <trd>&#x43F;&c_u;&c_b;&#x43B;&c_ib;&c_ch;&#x43D;&c_i;&c_j; &c_v;&c_i;&c_s;&c_t;&c_u;&#x43F;</trd>
   </trdgrp>
 </drv>
 
@@ -862,7 +1031,7 @@ lingvo en la vortaron:
       </ekz>
       <ekz>
         la advokato tre kredeble konis bone la homon <klr>[kaj]</klr>
-        havis bonan 
+        havis bonan
         influon sur la &ccirc;agrenon de la kliento kaj inklinigis lin esti
         malkovrita kaj pli <tld/>ema
         <fnt>
@@ -871,6 +1040,11 @@ lingvo en la vortaron:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_v;&c_a;&c_r;&c_k;&c_ib;</trd>,
+    <trd>&c_b;&c_a;&c_l;&c_b;&c_a;&c_t;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_g;&c_u;&c_t;&c_a;&c_r;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
   <trd lng="cs">hovorn&yacute;</trd>
   <trdgrp lng="de">
     <trd>redselig</trd>,
@@ -894,6 +1068,8 @@ lingvo en la vortaron:
     <trd>loquace</trd>,
     <trd>ciarliero</trd>
   </trdgrp>
+  <trd lng="ja">&#x8A71;&#x597D;&#x304D;&#x306E; 
+  [<ind>&#x306F;&#x306A;&#12375;&#12377;&#x304D;&#x306E;</ind>]</trd>
   <trd lng="nl">spraakzaam</trd>
   <trdgrp lng="pl">
     <trd>gadatliwy</trd>,
@@ -903,6 +1079,11 @@ lingvo en la vortaron:
   <trdgrp lng="sk">
     <trd>radovravn&yacute;</trd>,
     <trd>zhovor&ccaron;iv&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_a;&#x43B;&c_a;&#x43A;&c_u;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&c_g;&#x43E;&c_v;&c_ib;&c_r;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_a;&#x43B;&c_a;&#x43A;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -939,7 +1120,7 @@ lingvo en la vortaron:
         <trd lng="de">Bauchredner</trd>
       </ekz>
       <ekz>
-        dum pafilegoj fabriki&gcirc;is, jam laboris gazetistoj, <tld/>istoj, 
+        dum pafilegoj fabriki&gcirc;is, jam laboris gazetistoj, <tld/>istoj,
         e&ccirc; poetoj &scirc;ovinistaj, por formi senton &gcirc;eneralan
         <fnt>
           <bib>VivZam</bib>
@@ -949,25 +1130,31 @@ lingvo en la vortaron:
         <tld/>isto de la prezidanto diris: &leftquot;Nia politiko <klr>[&#8230;]</klr>
         ne &scirc;an&gcirc;i&gcirc;is.&rightquot;
         <fnt>
-        <aut>S. Maul</aut>,
-        <vrk>Jur-renverso</vrk>,
+        <aut>Stefan Maul</aut>,
+        <vrk><url ref="&Monato;/2003/008000.html">Jur-renverso</url></vrk>,
         <bib>Monato</bib>,
-        <lok>2003:1, p. 9a</lok>
+        <lok>2003/01, p. 9</lok>
         </fnt>;
       </ekz>
       <ekz>
         li trovis laboron de <tld/>isto <klr>[&#8230;]</klr> en la rusa
-        sekcio de la brita radiostacio BBC
+        sekcio de la brita radiostacio <nom>BBC</nom>
         <fnt>
-        <aut>B. Kolker</aut>,
-        <vrk>Aktoro malliberigita</vrk>,
+        <aut>Boris Kolker</aut>,
+        <vrk><url ref="&Monato;/2001/pdf/monato200102.pdf#page=28">Aktoro malliberigita</url></vrk>,
         <bib>Monato</bib>,
-        <lok>2001:2, p. 28a</lok>
+        <lok>2001/02, p. 28</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Redner</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_p;&c_ib;&c_k;&c_je;&c_r;</trd>,
+    <trd>&c_a;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>,
+    <trd>&c_d;&c_y;&c_k;&c_t;&c_a;&c_r;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_o;&c_w;&c_c;&c_a; <klr>(&c_p;&c_r;&c_a;&c_f;&c_e;&c_s;&c_ib;&c_j;&c_n;&c_y;)</klr></trd>
+  </trdgrp>
   <trd lng="br">komzer</trd>
   <trdgrp lng="en">
     <trd>speaker</trd>,
@@ -995,7 +1182,7 @@ lingvo en la vortaron:
     <trd>bemond&oacute;</trd>
   </trdgrp>
   <trdgrp lng="id">
-    <trd>[<ind>bicara</ind>] pembicara</trd>,
+    <trd>pem<ind>bicara</ind></trd>,
     <trd><ind>juru</ind> bicara</trd>,
     <trd>orator</trd>,
     <trd>presenter</trd>
@@ -1062,12 +1249,14 @@ lingvo en la vortaron:
       <ekz>
         la franca ministro &ccirc;eestis kaj al<tld/>is fremdajn
         ambasadorojn
-        <fnt><aut>S. Maul</aut>, <vrk>Lingvopakto</vrk>,
-        <bib>Monato</bib>, <lok>2000:12, p.
-        7a</lok></fnt>.
+        <fnt><aut>Stefan Maul</aut>,
+        <vrk><url ref="&Monato;/2000/007185.html">Lingvopakto</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/12, p. 7</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="ja">&#x8A71;&#12375;&#x304B;&#12369;&#x308B;  [<ind>&#x306F;&#x306A;&#12375;&#x304B;&#12369;&#x308B;</ind>]</trd>
   <trd lng="kek">aatinank</trd>
   <trd lng="be">&c_z;&c_mol;&c_v;&c_ja;&c_r;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>
   <trd lng="br">komz (ouzh)</trd>
@@ -1086,7 +1275,7 @@ lingvo en la vortaron:
     <trd>interpeler</trd>,
   </trdgrp>
   <trd lng="hu">megsz&oacute;l&iacute;t</trd>
-  <trd lng="id">[<ind>utara</ind>] mengutarakan</trd>
+  <trd lng="id">meng<ind>utara</ind>kan</trd>
   <trdgrp lng="it">
     <trd>arringare</trd>,
     <trd><ind>rivolgersi</ind> a</trd>,
@@ -1108,6 +1297,10 @@ lingvo en la vortaron:
     <trd>oslovi&tcaron;</trd>,
     <trd>prihovori&tcaron; <klr>(sa)</klr></trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_g;&#x43E;&c_v;&#x43E;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i; (&c_z; &#x43A;&c_i;&#x43C;-&#x43D;.)</trd>,
+    <trd>&c_z;&c_v;&c_je;&c_r;&c_t;&c_a;&c_t;&c_i;&c_s;&#x44F; (&c_z;&c_ib; &c_s;&#x43B;&#x43E;&c_v;&c_a;&#x43C;&c_i;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parol.antaux0i">
@@ -1124,6 +1317,7 @@ lingvo en la vortaron:
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_s;&c_t;&c_u;&c_p;&c_a;&c_c;&c_mol; &c_z; &c_p;&c_r;&c_a;&c_m;&c_o;&c_v;&c_a;&c_j;</trd>
   <trd lng="br">komz<klr tip="ind"> (dirak tud)</klr></trd>
   <trd lng="es">hablar<klr tip="ind"> (delante de un
   p&uacute;blico)</klr></trd>
@@ -1153,16 +1347,20 @@ lingvo en la vortaron:
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        ke la fabeloj estis efektive kolektitaj de fratoj Grimm kaj
+        ke la fabeloj estis efektive kolektitaj de fratoj <nom>Grimm</nom> kaj
         diktitaj
-        de kamparaj rakontantoj, &#8208; tion plej bone montras la sekvanta
-        fragmento el la anta&ubreve;<tld/>o de fratoj Grimm
+        de kamparaj rakontantoj, &dash; tion plej bone montras la sekvanta
+        fragmento el la anta&ubreve;<tld/>o de fratoj <nom>Grimm</nom>
         <fnt>
           <bib>ElektFab</bib>
           <lok>Anta&ubreve;parolo de la tradukinto</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="konduk.en0o.antauparolo">enkonduko</ref>,
+      <ref cel="prolog.0o">prologo</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_m;&c_o;&c_v;&c_a;</trd>
   <trdgrp lng="br">
@@ -1194,8 +1392,8 @@ lingvo en la vortaron:
   </trdgrp>
   <trd lng="hu">el&odblac;sz&oacute;</trd>
   <trdgrp lng="id">
-    <trd>[<ind>buka</ind>] pembukaan</trd>,
-    <trd>[<ind>dahulu</ind>] pendahuluan</trd>,
+    <trd>pem<ind>buka</ind>an</trd>,
+    <trd>pen<ind>dahulu</ind>an</trd>,
     <trd><ind>kata</ind> pengantar</trd>,
     <trd>mukadimah</trd>,
     <trd>preambul</trd>,
@@ -1213,6 +1411,10 @@ lingvo en la vortaron:
   </trdgrp>
   <trd lng="pl">przedmowa</trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_i;&c_s;&c_l;&c_o;&c_v;&c_i;&c_je;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_d;&#x43C;&#x43E;&c_v;&c_a;</trd>,
+    <trd>&c_v;&c_s;&c_t;&c_u;&#x43F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parol.cxirkaux0i">
@@ -1224,11 +1426,10 @@ lingvo en la vortaron:
       ne tu&scirc;ante &gcirc;in rekte:
       <ekz>
         ofte oni povas &ccirc;irka&ubreve;<tld/>i la pronomon uzante esprimon kiel
-        &leftquot;tiu (homo)&rightquot;    
+        &leftquot;tiu (homo)&rightquot;
         <fnt>
           <aut>ox8eli</aut>
-          <vrk><url
-          ref="https://www.reddit.com/user/ox8eli">forumkontributo
+          <vrk><url ref="https://www.reddit.com/user/ox8eli">forumkontributo
           &leftquot;Sekso en esperanto&rightquot;</url></vrk>
         </fnt>;
       </ekz>
@@ -1246,8 +1447,7 @@ lingvo en la vortaron:
         la senton
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=98058">E&ubreve;femismo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=98058">E&ubreve;femismo</url></lok>
         </fnt>;
         <trd lng="de">Umschreibung</trd>
         <trd lng="es">circunloquio</trd>
@@ -1320,13 +1520,12 @@ lingvo en la vortaron:
       <ref tip="sin" cel="pronon.0i">prononci</ref>:
       <ekz>
         ili diris al li: diru: &leftquot;<ind>&Scirc;ibolet</ind>&rightquot;, li diris:
-        &leftquot;Sibolet&rightquot;, &ccirc;ar li ne povis el<tld/>i &gcirc;uste
+        &leftquot;<nac>Sibolet</nac>&rightquot;, <klr>(kp <ref cel="sxibolet.0o">&scirc;iboleto</ref>)</klr> &ccirc;ar li ne povis
+        el<tld/>i &gcirc;uste
         <fnt>
           <bib>MT</bib>
           <lok>Ju&gcirc;istoj 12:6</lok>
         </fnt>;
-        <trd lng="de">Schibboleth</trd>
-        <trd lng="en">shibboleth</trd>
       </ekz>
       <ekz>
         ili ricevas francan nomon, kiun mi ne povas el<tld/>i kaj kiu
@@ -1366,11 +1565,12 @@ lingvo en la vortaron:
   <trd lng="es">pronunciar</trd>
   <trd lng="fr">prononcer</trd>
   <trd lng="hu">kiejt</trd>
-  <trd lng="id">[<ind>ucap</ind>] mengucapkan</trd>
+  <trd lng="id">meng<ind>ucap</ind>kan</trd>
   <trdgrp lng="it">
     <trd>proferire</trd>,
     <trd>pronunciare</trd>
   </trdgrp>
+  <trd lng="ja">&#x767A;&#x97F3;&#12377;&#x308B;  [<ind>&#x306F;&#12388;&#x304A;&#12435;&#12377;&#x308B;</ind>]</trd>
   <trd lng="nl">uitspreken</trd>
   <trd lng="pl">wymawia&cacute;</trd>
   <trdgrp lng="ru">
@@ -1382,6 +1582,7 @@ lingvo en la vortaron:
     <trd>vyslovi&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">uttala</trd>
+  <trd lng="uk">&c_v;&c_i;&#x43C;&#x43E;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="parol.fest0ado">
@@ -1391,12 +1592,13 @@ lingvo en la vortaron:
       Publika, solena <tld/>ado en aparta okazo:
       <ekz>
         mi legigis al mia filino Serena (denaska) la tekston de la
-        fest<tld/>ado de Ivo Lapenna por la 39a UK en Harlemo
+        fest<tld/>ado de Ivo <nom>Lapenna</nom> por la 39a UK en Harlemo
         <fnt>
-          <bib>Monato</bib>
           <aut>Sen Rodin (Filippo Franceschi)</aut>
           <vrk><url ref="&Monato;/2007/009131.php">Tri
           diskoj kun ses paroladoj de Ivo Lapenna</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/06, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -1405,25 +1607,28 @@ lingvo en la vortaron:
         la UK-oj en Helsinko (1969) kaj Vieno (1970)
         <fnt>
           <aut>UEA</aut>,
-          <vrk><url
-          ref="http://www.uea.org/dokumentoj/komunikoj/gk.php?no=338">
+          <vrk><url ref="&UEA;dokumentoj/komunikoj/gk.php?no=338">
           Malferma Tago pri Ivo Lapenna</url></vrk>,
           <lok>Gazetaraj Komunikoj, 2009-09-01 (338)</lok>
         </fnt>;
       </ekz>
       <ekz>
         la novelektita prezidanto en la fest<tld/>ado diris, ke nek li,
-        nek 
+        nek
         Serbio akceptos Kosovon kiel novan &scirc;taton sur serba teritorio
         <fnt>
-          <bib>Monato</bib>
           <aut>Dimitrije Jani&ccaron;i&cacute;</aut>
-          <vrk><url
-          ref="&Monato;/2008/009439.php">Sendependeco
+          <vrk><url ref="&Monato;/2008/009439.php">Sendependeco
            ne akceptebla</url></vrk>
+           <bib>Monato</bib>
+           <lok>2008/04, p. 9</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_m;&c_o;&c_v;&c_a;</trd>,
+      <trd>&c_v;&c_y;&c_s;&c_t;&c_u;&c_p; <klr>(&c_n;&c_a; &c_w;&c_r;&c_a;&c_ch;&c_y;&c_s;&c_t;&c_y;&c_m; &c_m;&c_je;&c_r;&c_a;&c_p;&c_r;&c_y;&c_je;&c_m;&c_s;&c_t;&c_v;&c_je;)</klr></trd>
+    </trdgrp>
     <trd lng="de">Festansprache</trd>
     <trdgrp lng="en">
       <trd>speech</trd>,
@@ -1438,6 +1643,7 @@ lingvo en la vortaron:
     <trd>alocuci&oacute;n</trd>,
     <trd>discurso debido a un acontecimiento</trd>
   </trdgrp>
+  <trd lng="ja">&#x795D;&#x8CC0;&#x6F14;&#x8AAC;  [<ind>&#12375;&#12421;&#x304F;&#x304C;&#12360;&#12435;&#x305C;&#12388;</ind>]</trd>
   <trd lng="sk">sl&aacute;vnostn&yacute; prejav</trd>
 </drv>
 
@@ -1457,7 +1663,7 @@ lingvo en la vortaron:
       </ekz>
       <ekz>
         &leftquot;ili bezonos krei aliajn nomojn por fiparoli pri ni!&rightquot;, li diris,
-        
+
         jam anta&ubreve;vidante la kritikojn, kiujn ili ricevos
         <fnt>
           <bib>Viki</bib>
@@ -1467,6 +1673,7 @@ lingvo en la vortaron:
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_z;&c_a;&c_c;&c_mol; &c_b;&c_r;&c_y;&c_d;&c_o;&c_t;&c_y;</trd>
   <trdgrp lng="es">
     <trd>decir palabrotas</trd>,
     <trd>hablar mal</trd>
@@ -1501,6 +1708,11 @@ lingvo en la vortaron:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_k;&c_o;&c_j; &c_d;&c_l;&c_ja; &c_p;&c_je;&c_r;&c_a;&c_m;&c_o;&c_v;&c_a;&c_w;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_jo;&c_m;&c_n;&c_a;&c_ja; <klr>(&c_v;&c_a; &c_w;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_je;)</klr></trd>,
+    <trd>&c_p;&c_a;&c_k;&c_o;&c_j; &c_d;&c_l;&c_ja; &c_n;&c_a;&c_v;&c_je;&c_d;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;&c_a;&c_w; <klr>(&c_u; &c_v;&c_ja;&c_z;&c_mol;&c_n;&c_ib;&c_c;&c_y;, &c_b;&c_o;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_y;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>locutorio</trd>,
     <trd>parlatorio</trd>,
@@ -1550,15 +1762,20 @@ lingvo en la vortaron:
       <ekz>
         ju pli ni inter<tld/>is, des pli mi konvinki&gcirc;is, ke li
         i&gcirc;is &scirc;ovinisto
-        <fnt><aut>JeZo</aut>, <vrk>Krimoj en Krimeo</vrk>,
-        <bib>Monato</bib>, <lok>2002:6, p.
-        10a</lok></fnt>.
+        <fnt><aut>JeZo</aut>,
+        <vrk><url ref="&Monato;/2002/007805.html">Krimoj en Krimeo</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2002/06, p. 10</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="negoc.0i">negoci</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; <klr>(&c_p;&c_a;&c_m;&c_ib;&c_zh;&c_s;&c_o;&c_b;&c_k;&c_u;)</klr></trd>,
+    <trd>&c_v;&c_je;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_r;&c_a;&c_z;&c_m;&c_o;&c_v;&c_u;</ind></trd>
+  </trdgrp>
   <trd lng="br">kendivizout</trd>
   <trd lng="cs">v&eacute;st rozhovor</trd>
   <trdgrp lng="de">
@@ -1583,7 +1800,7 @@ lingvo en la vortaron:
     <trd>besz&eacute;lget</trd>,
     <trd>t&aacute;rsalog</trd>
   </trdgrp>
-  <trd lng="id">[<ind>diskusi</ind>] berdiskusi</trd>
+  <trd lng="id">ber<ind>diskusi</ind></trd>
   <trdgrp lng="it">
     <trd>dialogare</trd>,
     <trd>colloquiare</trd>,
@@ -1591,6 +1808,7 @@ lingvo en la vortaron:
     <trd>discutere<klr> (parlare)</klr></trd>,
     <trd>conversare</trd>
   </trdgrp>
+  <trd lng="ja">&#x4F1A;&#x8A71;&#12377;&#x308B;  [<ind>&#x304B;&#12356;&#x308F;&#12377;&#x308B;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>discussi&euml;ren</trd>,
     <trd>bespreken</trd>
@@ -1601,14 +1819,18 @@ lingvo en la vortaron:
     <trd>&c_p;&c_je;&c_r;&c_je;&c_g;&c_o;&c_v;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
   <trd lng="sk">zhov&aacute;ra&tcaron; sa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&#x43E;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&c_g;&#x43E;&c_v;&#x43E;&c_r;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_ib;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43C;&c_ib;&c_zh; &c_s;&#x43E;&c_b;&#x43E;&#x44E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parol.inter0o">
   <kap><ofc>*</ofc>inter<tld/>o</kap>
   <snc>
     <dif>
-      Pluropa inter&scirc;an&gcirc;o de informoj kaj pensoj; <ref tip="sin"
-      cel="konver2.0o">konversacio</ref>:
+      Pluropa inter&scirc;an&gcirc;o de informoj kaj pensoj; <ref tip="sin" cel="konver2.0o">konversacio</ref>:
       <ekz>
         Georgo ne atentis tiun inter<tld/>on, diris adia&ubreve; kaj iris
         <fnt>
@@ -1654,12 +1876,24 @@ lingvo en la vortaron:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_a;&c_b;&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Besprechung</trd>,
     <trd>Gespr&auml;ch</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>conversaci&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F1A;&#x8A71;  [<ind>&#x304B;&#12356;&#x308F;</ind>]</trd>,
+    <trd>&#x4F1A;&#x8AC7;  [<ind>&#x304B;&#12356;&#12384;&#12435;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&#x43E;&c_v;&c_a;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_ib;&c_d;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -1687,7 +1921,7 @@ lingvo en la vortaron:
       </ekz>
       <ekz>
         kiam oni montris al la homoj la forton de la vaporo kaj &gcirc;ian
-        uzeblecon <klr>[&#8230;]</klr> 
+        uzeblecon <klr>[&#8230;]</klr>
         kia prudenta homo povus ion kontra&ubreve;<tld/>i kontra&ubreve; &gcirc;i
         <fnt>
           <bib>FK</bib>
@@ -1745,6 +1979,10 @@ lingvo en la vortaron:
     <trd>&c_v;&c_o;&c_z;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_r;&c_je;&c_ch;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43F;&c_je;&c_r;&c_je;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_u;&#x43F;&c_je;&c_r;&c_je;&c_ch;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parol.kun0anto">
@@ -1765,7 +2003,7 @@ lingvo en la vortaron:
         <klr>[&#8230;]</klr> kaj sentas sin &gcirc;enata anta&ubreve; sia kun<tld/>anto
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne 
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne
          sur Mer en la 5a de a&ubreve;gusto 1905</vrk>
         </fnt>;
       </ekz>
@@ -1796,6 +2034,7 @@ lingvo en la vortaron:
   <trd lng="fr">interlocuteur</trd>
   <trd lng="hu">besz&eacute;lget&odblac;t&aacute;rs</trd>
   <trd lng="it">interlocutore</trd>
+  <trd lng="ja">&#x8A71;&#12375;&#x76F8;&#x624B;  [<ind>&#x306F;&#x306A;&#12375;&#12354;&#12356;&#12390;</ind>]</trd>
   <trd lng="nl">gesprekspartner</trd>
   <trd lng="pl">rozm&oacute;wca</trd>
   <trd lng="ru">&c_s;&c_o;&c_b;&c_je;&c_s;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
@@ -1811,24 +2050,23 @@ lingvo en la vortaron:
       <ref tip="sin" cel="lauxdaci.0o.BELE">la&ubreve;dacio</ref>,
       <ref tip="dif" cel="panegi.0o.BELE">panegiro</ref>:
       <ekz>
-        la filmo montras la la&ubreve;d<tld/>on de prezidanto 
-        Probal Dasgupta al la jubileulo
+        la filmo montras la la&ubreve;d<tld/>on de prezidanto
+        <nom>Probal Dasgupta</nom> al la jubileulo
         <fnt>
           <aut>UEA</aut>,
           <vrk>Novaj filmoj en la reta kinejo</vrk>,
-          <lok><url
-          ref="http://www.uea.org/dokumentoj/komunikoj/gk.php?no=361">
+          <lok><url ref="&UEA;dokumentoj/komunikoj/gk.php?no=361">
           Gazetaraj Komunikoj, 2010-02-01</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        amaskomunikiloj oma&gcirc;is per raportoj kaj 
-        la&ubreve;d<tld/>adoj la 75-an naski&gcirc;datrevenon de Ornette 
-        Coleman
+        amaskomunikiloj oma&gcirc;is per raportoj kaj
+        la&ubreve;d<tld/>adoj la 75-an naski&gcirc;datrevenon de <nom>Ornette
+        Coleman</nom>
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref="http://eo.wikipedia.org/wiki/Ornette_Coleman">
-          Ornette Coleman</url>, 
+          <lok><url ref="&Viki;/Ornette_Coleman">
+          Ornette Coleman</url>,
           2014-02-06</lok></fnt>.
       </ekz>
     </dif>
@@ -1837,6 +2075,10 @@ lingvo en la vortaron:
       <trd>Laudatio</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_h;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_a;&c_m;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_h;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_je; &c_s;&c_l;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>elogio</trd>,
     <trd>alabanza</trd>,
@@ -1854,27 +2096,27 @@ lingvo en la vortaron:
     <dif>
       Persono, kiu defendas la interesojn de iu
       a&ubreve; de ia afero anta&ubreve; iu;
-      <ref tip="sin"
-      cel="advoka.0o.porparolanto">advokato<sncref/></ref>:
+      <ref tip="sin" cel="advoka.0o.porparolanto">advokato<sncref/></ref>:
       <ekz>
         &leftquot;estas evidente, ke tiu mono poste mankos aliloke&rightquot;, diris la
         por<tld/>anto de la ministrejo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007093.html">Internacia
-           kunsido de financistoj en Prago</url></vrk>
-        </fnt>;
+          <aut>jpa</aut>
+            <vrk><url ref="&Monato;/2000/007093.php">Internacia kunsido de financistoj en
+            Prago</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 9</lok>
+          </fnt>;
       </ekz>
       <ekz>
         malpermeso de tabakfumo en la laborejoj ankora&ubreve; ne aktualas,
         konfirmis komisiona por<tld/>anto
         <fnt>
-          <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
           <vrk><url ref="&Monato;/2005/008581.php">&Ccirc;u
           senfuma E&ubreve;ropo?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/04, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -1883,15 +2125,21 @@ lingvo en la vortaron:
         sendependi&gcirc;o, volis, ke referendumilo prezentu tri eblojn por
         determini la sorton de Skotlando
         <fnt>
-          <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
           <vrk><url ref="&Monato;/2013/010900.php">Angla
           hundo, skota vosto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/01, p. 5</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">F&uuml;rsprecher</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_c;&c_a; <klr>(&c_s;&c_l;&c_o;&c_v;&c_a;&c_m;; &c_u; &c_s;&c_u;&c_d;&c_z;&c_je;)</klr></trd>,
+    <trd>&c_a;&c_d;&c_v;&c_a;&c_k;&c_a;&c_t;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
   <trdgrp lng="br">
     <trd>alvokad<klr tip="ind"> (dre skeud.)</klr></trd>,
     <trd>breutaer<klr tip="ind"> (dre skeud.)</klr></trd>
@@ -1915,7 +2163,7 @@ lingvo en la vortaron:
     <trd>sz&oacute;sz&oacute;l&oacute;</trd>
   </trdgrp>
   <trdgrp lng="id">
-    <trd>[<ind>acara</ind>] pengacara</trd>,
+    <trd>peng<ind>acara</ind></trd>,
     <trd>advokat</trd>
   </trdgrp>
   <trdgrp lng="it">
@@ -1955,22 +2203,22 @@ lingvo en la vortaron:
         en la post<tld/>o oni donas interesajn informojn pri ekestaj
         fazoj dum la preparado de la libro
         <fnt>
-          <bib>Monato</bib>
           <aut>Jorma Ahom&auml;ki</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008348.html">Nova
+          <vrk><url ref="&Monato;/2004/008348.html">Nova
           vortarego en Estonio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/09, p. 26</lok>
         </fnt>;
       </ekz>
       <ekz>
         en iom mallongigita formo publikigita en la prezentata libro
         kiel post<tld/>o
         <fnt>
-          <bib>Monato</bib>
           <aut>Nikolao Gudskov</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008392.html">Reveno de
+          <vrk><url ref="&Monato;/2004/008392.html">Reveno de
           heroo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/09, p. 22</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -2003,6 +2251,10 @@ lingvo en la vortaron:
     <trd>epilogo</trd>,
     <trd>conclusione<klr> (capitolo)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5F8C;&#x66F8;&#x304D;  [<ind>&#12354;&#12392;&#x304C;&#x304D;</ind>]</trd>,
+    <trd>&#x5F8C;&#x8A18;  [<ind>&#12371;&#12358;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>nawoord</trd>,
     <trd>epiloog</trd>,
@@ -2015,6 +2267,10 @@ lingvo en la vortaron:
     <trd>konkl&uacute;zia</trd>,
     <trd>uz&aacute;ver</trd>,
     <trd>z&aacute;ver</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_ib;&c_s;&#x43B;&#x44F;&#x43C;&#x43E;&c_v;&c_a;</trd>,
+    <trd>&c_je;&#x43F;&c_ib;&#x43B;&#x43E;&c_g;</trd>
   </trdgrp>
 </drv>
 
@@ -2065,6 +2321,11 @@ lingvo en la vortaron:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_m;&c_ja;&c_r;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_b;&c_g;&c_a;&c_v;&c_o;&c_r;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF66;&#xF90;&#xF51;&#xF0B;&#xF46;&#xF0B;&#xF56;&#xF64;&#xF51;&#xF0B;</trd>
   <trd lng="br">komz diwar-benn</trd>
   <trd lng="cs">projednat</trd>
   <trdgrp lng="de">
@@ -2084,12 +2345,13 @@ lingvo en la vortaron:
     <trd>discuter<klr> (qqch)</klr></trd>
   </trdgrp>
   <trd lng="hu">megbesz&eacute;l</trd>
-  <trd lng="id">[<ind>diskusi</ind>] berdiskusi</trd>
+  <trd lng="id">ber<ind>diskusi</ind></trd>
   <trdgrp lng="it">
     <trd>commentare</trd>,
     <trd><ind>discutere</ind> di</trd>,
     <trd><ind>dire</ind> su</trd>
   </trdgrp>
+  <trd lng="ja">&#x8A00;&#x53CA;&#12377;&#x308B;  [<ind>&#12370;&#12435;&#x304D;&#12421;&#12358;&#12377;&#x308B;</ind>]</trd>
   <trd lng="nl">bespreken</trd>
   <trdgrp lng="pl">
     <trd>omawia&cacute;</trd>,
@@ -2101,6 +2363,7 @@ lingvo en la vortaron:
     <trd>&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol; &c_o;</trd>
   </trdgrp>
   <trd lng="sk">pohovori&tcaron; si o nie&ccaron;om</trd>
+  <trd lng="uk">&#x43E;&c_b;&c_g;&#x43E;&c_v;&#x43E;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="parol.pri0inda">
@@ -2118,9 +2381,9 @@ lingvo en la vortaron:
         </fnt>;
       </ekz>
       <ekz>
-        aperis nova versio sub la titolo &leftquot;Lernolibro de la lingvo 
-        Esperanto&rightquot;, ekzistas anka&ubreve; prilaborita reta versio, kiun 
-        el&scirc;utis miloj de personoj, la lernolibro estas uzata en amasa 
+        aperis nova versio sub la titolo &leftquot;Lernolibro de la lingvo
+        Esperanto&rightquot;, ekzistas anka&ubreve; prilaborita reta versio, kiun
+        el&scirc;utis miloj de personoj, la lernolibro estas uzata en amasa
         reta kurso &ndash; tio estas tri aparte pri<tld/>indaj historioj
         <fnt>
           <aut>B. Kolker</aut>,
@@ -2131,6 +2394,10 @@ lingvo en la vortaron:
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_a;&c_r;&c_t;&c_y; <ind>&c_a;&c_b;&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>,
+      <trd>&c_c;&c_ib;&c_k;&c_a;&c_v;&c_y;</trd>
+    </trdgrp>
     <trd lng="de">zu <ind>besprechen</ind></trd>
     <trd lng="es">discutible</trd>
   </snc>
@@ -2153,21 +2420,22 @@ lingvo en la vortaron:
         ke la da&ubreve;rigo de la diskuto inter la partoprenantaj partioj
         helpos solvi la restantajn demandojn
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007207.html">La
-           mezepokaj judaj mortintoj fine trankvilaj</url></vrk>
+	<aut>Ji&rcaron;&iacute; Patera</aut>
+	<vrk><url ref="&Monato;/2001/007207.php">La mezepokaj judaj mortintoj fine
+          trankvilaj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/01, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
         la polico ricevas vidbendon, kie la&ubreve;dira pro<tld/>anto de
         Alkaido atribuas al &gcirc;i la atencojn
         <fnt>
-          <bib>Monato</bib>
           <aut>Hektor Alos I Font</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008300.html">Kronologio
+          <vrk><url ref="&Monato;/2004/008300.html">Kronologio
           de kanajla mistifikado</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/05, p. 10</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -2175,7 +2443,7 @@ lingvo en la vortaron:
       Malgra&ubreve; la biblia ekzemplo &ccirc;i tiu vorto
       &scirc;ajnas evitinda pro la malfacilo interpreti &gcirc;in
       surbaze de la normala senco de prepozicio <ctl>pro</ctl>.
-      &Scirc;ajnas esti pa&ubreve;sa&jcirc;o el la latina: &leftquot;pro et contra&rightquot;
+      &Scirc;ajnas esti pa&ubreve;sa&jcirc;o el la latina: &leftquot;<nac>pro et contra</nac>&rightquot;
     </rim>
     <trd lng="de">F&uuml;rsprecher</trd>
     <trdgrp lng="it">
@@ -2190,6 +2458,13 @@ lingvo en la vortaron:
       <trd>rzecznik</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30DD;&#x30FC;&#x30AF;&#x30B9;&#x30DE;&#x30F3; 
+    [<ind>&#12377;&#x307D;&#x30FC;&#x304F;&#12377;&#x307E;&#12435;</ind>]</trd>,
+    <trd>&#22577;&#36947;&#x5B98;  [<ind>&#x307B;&#12358;&#12393;&#12358;&#x304B;&#12435;</ind>]</trd>,
+    <trd>&#x4EE3;&#x5F01;&#x4EBA;  [<ind>&#12384;&#12356;&#12409;&#12435;&#12376;&#12435;</ind>]</trd>,
+    <trd>&#x4EE3;&#29702;&#x4EBA;  [<ind>&#12384;&#12356;&#x308A;&#x306B;&#12435;</ind>]</trd>
+  </trdgrp>
   <trd lng="kek">aatinahom</trd>
   <trdgrp lng="cs">
     <trd>p&rcaron;&iacute;mluvce</trd>,
@@ -2199,6 +2474,10 @@ lingvo en la vortaron:
   <trdgrp lng="sk">
     <trd>pr&iacute;hovorca</trd>,
     <trd>z&aacute;stanca</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_r;&c_a;&c_z;&#x43D;&c_i;&#x43A; &c_ch;&c_i;&c_jeu;&c_ji;&c_s;&#x44C; &c_d;&c_u;&#x43C;&#x43A;&c_i;</trd>,
+    <trd>&c_a;&c_d;&c_v;&#x43E;&#x43A;&c_a;&c_t;</trd>
   </trdgrp>
 </drv>
 
@@ -2221,6 +2500,11 @@ lingvo en la vortaron:
       <trd>ausreden <klr>(zu Ende)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_k;&c_a;&c_z;&c_a;&c_c;&c_c;&c_a; <klr>(&c_c;&c_a;&c_l;&c_k;&c_a;&c_m;)</klr></trd>,
+    <trd>&c_n;&c_a;&c_g;&c_a;&c_v;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_y;&c_g;&c_a;&c_v;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="es">decir todo lo que se piensa</trd>
   <trdgrp lng="fr">
     <trd>dire tout ce qu'on a sur le c&oelig;ur</trd>,
@@ -2242,30 +2526,27 @@ lingvo en la vortaron:
 </art>
 <!--
 $Log$
-Revision 1.70  2019/06/30 07:43:29  revo
-adaptis URL de Monato
+versio 1.163 2023/09/11 12:42:25
+Dmitri Gabinski: + trd be
 
-Revision 1.69  2018/11/01 16:10:16  revo
-Guillermo Molleda Jimena: trd es
+versio 1.161 2023/08/29 20:28:11
+Wolfram Diestel: ja: prononco
 
-Revision 1.68  2018/02/27 21:10:18  revo
-Wolfram Diestel: kor. mrk
+versio 1.160 2023/08/04 08:29:59
+Wolfram Diestel: +ref
 
-Revision 1.67  2018/02/25 18:10:14  revo
-Wolfram Diestel: prilaboris ekz-ojn (cetera parto)
+versio 1.159 2023/05/26 09:26:00
+Paul Peeraerts: + lok + url
 
-Revision 1.66  2018/02/25 16:10:13  revo
-Wolfram Diestel: ~o: subordigis agajn sencojn, prilaboris ekz-ojn (dua
-parto)
+versio 1.158 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
 
-Revision 1.65  2018/02/25 14:10:15  revo
-Wolfram Diestel: ~i, ~o: prilaboris ekz-ojn, forigis du ne-proprajn
-sencojn
+versio 1.157 2023/05/01 07:25:28
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.64  2017/12/20 09:10:14  revo
+versio 1.156 2023/04/23 13:27:43
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.63  2017/06/19 08:10:17  revo
-Jeromo Vasxe: + pri~inda
-
+versio 1.155 2023/02/09 17:29:30
 -->
 </vortaro>

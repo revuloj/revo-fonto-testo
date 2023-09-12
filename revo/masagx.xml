@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: masagx.xml,v 1.15 2009/10/24 16:32:22 revo Exp $">
+<art mrk="$Id: masagx.xml,v 1.25 2023/09/02 06:04:09 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>masa&gcirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,7 +18,7 @@
         post rapida tempopaso postrestas nur senviva maso: <tld/>o
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -50,6 +49,7 @@
     <trd>massz&iacute;roz</trd>,
     <trd>gy&uacute;r</trd>
   </trdgrp>  
+  <trd lng="ja">&#x30DE;&#x30C3;&#x30B5;&#x30FC;&#x30B8;&#x3059;&#x308B;  [<ind>&#x307E;&#x3063;&#x3055;&#x30FC;&#x3058;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">masseren</trd>
   <trd lng="pl">masowa&cacute;</trd>
   <trdgrp lng="ru">
@@ -57,6 +57,10 @@
     <trd>&c_m;&c_a;&c_s;&c_s;&c_a;&c_zh;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">mas&iacute;rova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&c_s;&c_a;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &#x43C;&c_a;&c_s;&c_a;&c_zh;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="masagx.0o">
@@ -65,24 +69,26 @@
     <dif>
       Ago <tld/>i:
       <ekz>
-        li demetis al si la okulvitrojn kaj <tld/>is al si la du ru&gcirc;etajn faltojn amba&ubreve;flanke de la nazo
+        li demetis al si la okulvitrojn kaj <tld/>is al si la du ru&gcirc;etajn faltojn amba&ubreve;flanke de la
+        nazo
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref="https://www.monato.be/2003/007991.html">Espero</url></vrk>
+          <vrk><url ref="&Monato;/2003/007991.html">Espero</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>istino kaj kinesiterape&ubreve;tino
         <fnt>
+       <aut>Lode van de Velde</aut>
+          <vrk><url ref="&Monato;/2000/006862.php">Kvin homoj, kvin sensoj</url></vrk>
           <bib>Monato</bib>
-          <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006862.html">Kinarto: Kvin homoj, kvin sensoj</url></vrk>
+          <lok>2000/06, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
         pluvivado de la apokalipsa principo, ke la venkanto heredos &ccirc;ion,
-        kune kun aliaj &scirc;an&gcirc;oj proponataj por &leftquot;<tld/>i&#8221; elekto-distriktojn 
+        kune kun aliaj &scirc;an&gcirc;oj proponataj por &leftquot;<tld/>i&#x201D; elekto-distriktojn 
         favore al konservativuloj, signifas, ke maldekstruloj, verduloj kaj aliaj
         restos dividitaj, sen efika politika influo &ccirc;e la urnoj
         <fnt>
@@ -105,6 +111,7 @@
     <trd>massz&iacute;roz&aacute;s</trd>,
     <trd>gy&uacute;r&aacute;s</trd>
   </trdgrp>
+  <trd lng="ja">&#x30DE;&#x30C3;&#x30B5;&#x30FC;&#x30B8;  [<ind>&#x307E;&#x3063;&#x3055;&#x30FC;&#x3058;</ind>]</trd>
   <trd lng="nl">massage</trd>
   <trd lng="pl">masa&zdot;</trd>
   <trdgrp lng="pt">
@@ -113,10 +120,20 @@
   </trdgrp>
   <trd lng="ru">&c_m;&c_a;&c_s;&c_s;&c_a;&c_zh;</trd>
   <trd lng="sk">mas&aacute;&zcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&c_s;&c_a;&c_zh;</trd>,
+    <trd>&#x43C;&c_a;&c_s;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/04/25 06:32:27
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.23 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.20  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
@@ -133,14 +150,5 @@ Revision 1.16  2012/08/19 15:10:38  revo
 Marc Rausell: ++ trd ca
 
 Revision 1.15  2009/10/24 16:32:22  revo
-Russ Williams: +trd en
-
-Revision 1.14  2006/07/30 16:31:18  revo
-Tulio Flores: +tr pt
-
-Revision 1.13  2005/07/08 16:33:03  revo
-Alan ar Gall: +trd br fr
-
-Revision 1.12  2005/04/18 16:32:48  revo
 -->
 </vortaro>

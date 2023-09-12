@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: operac.xml,v 1.60 2020/02/14 15:10:20 revo Exp $">
+<art mrk="$Id: operac.xml,v 1.70 2023/09/03 07:12:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>operaci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -26,9 +25,9 @@
         <uzo tip="stl">FIG</uzo>
         li montris al ni la okulojn de la kato, supren&scirc;ovante &gcirc;iajn
         palpebrojn
-        <klr>[&#8230;]</klr> kaj la kato, kvankam la <tld/>o &scirc;ajne ne tre
+        <klr>[&#x2026;]</klr> kaj la kato, kvankam la <tld/>o &scirc;ajne ne tre
         pla&ccirc;is al &gcirc;i, tamen 
-        <klr>[&#8230;]</klr> tenis sin tre trankvile
+        <klr>[&#x2026;]</klr> tenis sin tre trankvile
         <fnt>
           <bib>FK</bib>
         </fnt>;
@@ -38,8 +37,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ian Fantom</aut>
-          <lok><url
-          ref="&Monato;/2007/009196.php">2007</url></lok>
+          <lok><url ref="&Monato;/2007/009196.php">2007</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -50,14 +48,13 @@
         instrumentoj, por modifi la staton de organo, a&ubreve; por
         fortran&ccirc;i malsanan nekuraceblan parton de korpo:
         <ekz>
-          beda&ubreve;rinde, praktikadon de <klr>[&#8230;]</klr> pentrado kaj
+          beda&ubreve;rinde, praktikadon de <klr>[&#x2026;]</klr> pentrado kaj
           biciklado 
           &ndash; iom malhelpas sekvoj de ses <tld/>oj, kiujn suferis mia
           dekstra mano
           <fnt>
             <bib>Monato</bib>
-            <vrk><url
-            ref="https://www.monato.be/2003/008009.html">Stefan
+            <vrk><url ref="&Monato;/2003/008009.html">Stefan
             Maul</url></vrk>
           </fnt>;
         </ekz>
@@ -67,8 +64,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Gilbert Ledon</aut>
-            <vrk><url
-            ref="https://www.monato.be/2003/008015.html">Misa
+            <vrk><url ref="&Monato;/2003/008015.html">Misa
             mondo</url></vrk>
           </fnt>;
         </ekz>
@@ -117,11 +113,11 @@
           pretecon kunlabori en 
           la batalo kontra&ubreve; &leftquot;forlavo&rightquot; de malpura mono
           <fnt>
+          <aut>Evgeni Georgiev</aut>
+            <vrk><url ref="&Monato;/2000/007128.html">&Ccirc;u venos fino de la impostaj
+            paradizoj?</url></vrk>
             <bib>Monato</bib>
-            <aut>Roland Rotsaert</aut>
-            <vrk><url
-            ref="http://steloj.de/esperanto/monato2/007128.html">&Ccirc;u 
-             venos fino de la impostaj paradizoj?</url></vrk>
+            <lok>2000/10, p. 10</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -130,8 +126,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>D. E. Rogers</aut>
-            <vrk><url
-            ref="https://www.monato.be/2004/008269.html">Libera
+            <vrk><url ref="&Monato;/2004/008269.html">Libera
             programaro: nova rimedo komerci</url></vrk>
           </fnt>.
         </ekz>
@@ -154,8 +149,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Laimius STRA&Zcaron;NICKAS</aut>
-            <vrk><url
-            ref="https://www.monato.be/2003/007998.html">Via
+            <vrk><url ref="&Monato;/2003/007998.html">Via
             malamiko estas nia malamiko</url></vrk>
           </fnt>;
         </ekz>
@@ -219,7 +213,7 @@
         <klr>(en <ref cel="ar.0o.MAT">aro</ref>
         <frm am="bb E"><g>E</g></frm>) </klr>
         <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref> de
-        <frm am="bb E xx bb E"><g>E</g>&#215;<g>E</g></frm> al
+        <frm am="bb E xx bb E"><g>E</g>&#xD7;<g>E</g></frm> al
         <frm am="bb E"><g>E</g></frm>:
         <ekz>
           la aritmetika adicio estas <tld/>o, kiu al &ccirc;iu duopo
@@ -256,20 +250,20 @@
           <frm am="x+y"><k>x</k>+<k>y</k></frm>,
         </ekz> multiplike:
         <ekz>
-          <frm am="x xx y"><k>x</k>&#215;<k>y</k></frm>,
+          <frm am="x xx y"><k>x</k>&#xD7;<k>y</k></frm>,
         </ekz>
         <ekz>
-          <frm am="x*y"><k>x</k>&#8729;<k>y</k></frm>,
+          <frm am="x*y"><k>x</k>&#x2219;<k>y</k></frm>,
         </ekz>
         <ekz>
           <frm am="xy"><k>x</k><k>y</k></frm>
         </ekz>
         a&ubreve; per ajna ta&ubreve;ga signo
         <ekz>
-          <frm am="x&#8224;y"><k>x</k>&#8224;<k>y</k></frm>,
+          <frm am="x&#x2020;y"><k>x</k>&#x2020;<k>y</k></frm>,
         </ekz>
         <ekz>
-          <frm am="x&#9830;y"><k>x</k>&#9830;<k>y</k></frm>,
+          <frm am="x&#x2666;y"><k>x</k>&#x2666;<k>y</k></frm>,
         </ekz>
         <ekz>
           <frm am="x ** y"><k>x</k>*<k>y</k></frm>...
@@ -320,18 +314,17 @@
         la ma&scirc;inoj obeu al la planitaj funkcioj <klr>[per]</klr>
         simplaj, 
         logikaj operacioj pere de facila rezonado kaj manipulado
-        <fnt>
-          <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006916.html">Bugra
-          bug-insekto</url></vrk>
+        <fnt><aut>Gilbert Ledon</aut>,
+        <vrk><url ref="&Monato;/2000/006916.php">Bugra bug-insekto</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/05, p. 5</lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="malprt" cel="procez.0o.KOMP">procezo<sncref/></ref>
     <trd lng="nl">bewerking</trd>
   </snc>
+  <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
   <trd lng="bg">&c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
   <trdgrp lng="cs">
     <trd>akce</trd>,
@@ -343,7 +336,14 @@
   <trd lng="es">operaci&oacute;n</trd>
   <trd lng="fr">op&eacute;ration</trd>
   <trd lng="it">operazione</trd>
+  <trdgrp lng="ja">
+    <trd>&#x624B;&#x8853;  [<ind>&#x3057;&#x3085;&#x3058;&#x3085;&#x3064;</ind>]</trd>,
+    <trd>&#x64CD;&#x4F5C;  [<ind>&#x305D;&#x3046;&#x3055;</ind>]</trd>,
+    <trd>&#x6F14;&#x7B97;  [<ind>&#x3048;&#x3093;&#x3056;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">operacja</trd>
   <trd lng="pt">opera&ccedil;&atilde;o</trd>
+  <trd lng="ro">opera&#x21B;ie</trd>
   <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
   <trdgrp lng="sk">
     <trd>akcia</trd>,
@@ -351,6 +351,7 @@
     <trd>&uacute;kon</trd>
   </trdgrp>
   <trd lng="sv">operation</trd>
+  <trd lng="uk">&#x43E;&#x43F;&c_je;&c_r;&c_a;&c_c;&c_ib;&#x44F;</trd>
 </drv>
 
 <drv mrk="operac.0i">
@@ -371,10 +372,10 @@
           kirurgoj &ccirc;e la hospitalo unue ne volis <tld/>i lin pri hernio,
           &ccirc;ar la paciento pezis malpli ol 45 kg
           <fnt>
+          <aut>Sabeo Fu</aut>
+            <vrk><url ref="&Monato;/2000/007127.php">Escepto-recepto</url></vrk>
             <bib>Monato</bib>
-            <aut>Sabeo Fu</aut>
-            <vrk><url
-            ref="http://steloj.de/esperanto/monato2/007127.html">Escepto-recepto</url></vrk>
+            <lok>2000/11, p. 14</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -383,22 +384,20 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Zlatko Ti&scaron;ljar</aut>
-            <vrk><url
-            ref="&Monato;/2006/008928.php">Prezidi la
+            <vrk><url ref="&Monato;/2006/008928.php">Prezidi la
             propran psikon</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
-          &leftquot;dipitrena kuntiri&gcirc;o&#8221; ka&ubreve;zas, ke la fingroj kurbi&gcirc;as, oni &gcirc;is
+          &leftquot;dipitrena kuntiri&gcirc;o&#x201D; ka&ubreve;zas, ke la fingroj kurbi&gcirc;as, oni &gcirc;is
           hodia&ubreve; ne 
           povas kuraci la malsanon, nur <tld/>i la manojn, eltran&ccirc;ante
-          la &leftquot;sova&gcirc;ajn&#8221;
+          la &leftquot;sova&gcirc;ajn&#x201D;
           partojn, tiel ke la fingroj denove estas rektaj
           <fnt>
             <bib>Monato</bib>
             <aut>Stefan Maul</aut>
-            <vrk><url
-            ref="&Monato;/2010/009965.php">Progreso
+            <vrk><url ref="&Monato;/2010/009965.php">Progreso
             medicina</url></vrk>
           </fnt>.
         </ekz>
@@ -414,8 +413,8 @@
         <ekz>
           estas beda&ubreve;rinde ekvidi privatan fremdan firmaon retiri&gcirc;i de
           la 
-          albana merkato <klr>[&#8230;]</klr> &ccirc;ar estas malfacile <tld/>i
-          <klr>[&#8230;]</klr>, 
+          albana merkato <klr>[&#x2026;]</klr> &ccirc;ar estas malfacile <tld/>i
+          <klr>[&#x2026;]</klr>, 
           kie la publikaj &scirc;tataj entreprenoj kaj anka&ubreve; la civitanoj
           elektas la opcion de nepago de siaj &scirc;uldoj
           <fnt>
@@ -493,9 +492,28 @@
   <trd lng="es">operar</trd>
   <trd lng="fr">op&eacute;rer</trd>
   <trd lng="it">operare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x624B;&#x8853;&#x3059;&#x308B;  [<ind>&#x3057;&#x3085;&#x3058;&#x3085;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x64CD;&#x4F5C;&#x3059;&#x308B;  [<ind>&#x305D;&#x3046;&#x3055;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6F14;&#x7B97;&#x3059;&#x308B;  [<ind>&#x3048;&#x3093;&#x3056;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ne">&#x938;&#x91E;&#x94D;&#x91A;&#x93E;&#x932;&#x928;</trd>
+  <trdgrp lng="pl">
+    <trd>dzia&lstroke;a&cacute;</trd>,
+    <trd>operowa&cacute;</trd>
+  </trdgrp>
   <trd lng="pt">operar</trd>
+  <trdgrp lng="ro">
+    <trd>merge</trd>,
+    <trd>func&#x21B;iona</trd>
+  </trdgrp>
   <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">previes&tcaron; oper&aacute;ciu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i; &#x43E;&#x43F;&c_je;&c_r;&c_a;&c_c;&c_ib;&#x44E;</trd>,
+    <trd>&#x43E;&#x43F;&c_je;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="operac.0ato">
@@ -523,6 +541,8 @@
       <trd>soggetto sotto operazione</trd>
     </trdgrp>
     <trd lng="nl">pati&euml;nt<klr tip="ind"> (bij operatie)</klr></trd>
+    <trd lng="pl">operowany</trd>
+    <trd lng="ro">operate</trd>
     <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_i;&c_r;&c_u;&c_je;&c_m;&c_y;&c_j;</trd>
   </snc>
   <snc mrk="operac.0ato.MAT">
@@ -546,9 +566,14 @@
     <trd lng="fr">op&eacute;rande</trd>
     <trd lng="it">argomento<klr> (mat.)</klr></trd>
     <trd lng="pl">argument dzia&lstroke;ania</trd>
+    <trdgrp lng="ro">
+      <trd>operand</trd>,
+      <trd>argumentul ac&#x21B;iunii</trd>
+    </trdgrp>
     <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_a;&c_n;&c_d;</trd>
   </snc>
   <trd lng="cs">operovan&yacute;  pacient</trd>
+  <trd lng="ja">&#x624B;&#x8853;&#x4E2D;&#x306E;&#x60A3;&#x8005;  [<ind>&#x3057;&#x3085;&#x3058;&#x3085;&#x3064;&#x3061;&#x3085;&#x3046;&#x306E;&#x304B;&#x3093;&#x3058;&#x3083;</ind>]</trd>
   <trd lng="sk">operovan&yacute; pacient</trd>
 </drv>
 
@@ -570,6 +595,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_j;&c_n;&c_a;&c_ja; <klr>(&c_p;&c_a;&c_m;&c_ja;&c_sh;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>
   <trd lng="cs">opera&ccaron;n&iacute; s&aacute;l</trd>
   <trdgrp lng="de">
       <trd>Operationssaal</trd>,
@@ -582,9 +608,12 @@
   </trdgrp>
   <trd lng="nl">operatiekamer</trd>
   <trd lng="pl">sala <ind>operacyjna</ind></trd>
+  <trd lng="ro">sal&abreve; de  <ind>opera&#x21B;ii</ind></trd>
   <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja;</trd>
   <trd lng="sk">opera&ccaron;n&aacute; sie&ncaron;</trd>
   </snc>
+  <trd lng="ja">&#x624B;&#x8853;&#x5BA4;  [<ind>&#x3057;&#x3085;&#x3058;&#x3085;&#x3064;&#x3057;&#x3064;</ind>]</trd>
+  <trd lng="uk">&#x43E;&#x43F;&c_je;&c_r;&c_a;&c_c;&c_ib;&c_j;&#x43D;&c_a;</trd>
 </drv>
 
 <drv mrk="operac.0umo">
@@ -629,19 +658,18 @@
       <ekz>
         macOS, anta&ubreve;e Mac OS X kaj OS X, estas <tld/>umo de Apple por
         Macintosh-komputiloj,
-        <klr>[&#8230;]</klr> Unix-, OpenStep-, kaj Darwin-bazita kun lingvoj
+        <klr>[&#x2026;]</klr> Unix-, OpenStep-, kaj Darwin-bazita kun lingvoj
         C++ kaj Objective-C
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=19333">MacOS</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19333">MacOS</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="malprt" cel="progra.sistema_0aro">sistema programaro</ref>
     <rim>
       Alia uzata termino estas
-      <ref tip="sin" cel="mastr.0uma_sistemo">mastruma
+      <ref tip="sin" cel="sistem.mastrum0o">mastruma
       sistemo</ref>. Verdire, <ctl>mastrumado</ctl> estas nur
       unu el la multaj funkcioj de <tld/>umo, kaj ne la plej
       grava funkcio (la celatan sencon pli trafe esprimus
@@ -660,11 +688,14 @@
     <trd lng="pt">sistema operacional</trd>
     <trd lng="hu">oper&aacute;ci&oacute;s rendszer</trd>
     <trd lng="it">sistema operativo</trd>
-    <trd lng="pl">system operacyjny</trd>
+    <trd lng="pl">system <ind>operacyjny</ind></trd>
+    <trd lng="ro">sistem de  <ind>operare</ind></trd>
     <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
     <trd lng="sv">operativsystem</trd>
   </snc>
+ <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_j;&c_n;&c_a;&c_ja; &c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;</trd> 
 <trd lng="de">Betriebssystem</trd>
+  <trd lng="uk">&#x43E;&#x43F;&c_je;&c_r;&c_a;&c_c;&c_ib;&c_j;&#x43D;&c_a; &c_s;&c_i;&c_s;&c_t;&c_je;&#x43C;&c_a;</trd>
 </drv>
 
 <drv mrk="operac.0esploro">
@@ -681,8 +712,7 @@
          <tld/>esploro
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=104280">Optimumigo
+          <lok><url ref="https://eo.wikipedia.org/?curid=104280">Optimumigo
           (matematiko)</url></lok>
         </fnt>;
       </ekz>
@@ -711,6 +741,8 @@
     <trd>operational research</trd>,
     <trd>operations research</trd>
   </trdgrp>
+  <trd lng="pl">badanie  <ind>operacyjne</ind></trd>
+  <trd lng="ro">examinare  <ind>opera&#x21B;ional&abreve;</ind></trd>
   <trd lng="ru">&c_i;&c_s;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je; &c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_j;</trd>
   <trd lng="sk">opera&ccaron;n&yacute; prieskum</trd>
 </drv>
@@ -727,7 +759,7 @@
       <ekz>
         duloka <tld/>o estas operacio, kies loknombro egalas al 2, plej
         ofte temas pri
-        funkcio &jcirc;etanta kartezian produton S&#215;S al S &mdash; tiun apartan
+        funkcio &jcirc;etanta kartezian produton S&#xD7;S al S &mdash; tiun apartan
         okazon oni nomas interna <tld/>o
         <fnt>
           <bib>Viki</bib>
@@ -741,8 +773,8 @@
   <trd lng="en">internal composition <ind>law</ind></trd>
   <trd lng="fr">loi de composition interne</trd>
   <trd lng="pl">dzia&lstroke;anie wewn&eogonek;trzne</trd>
-  <trd lng="ru">&c_z;&c_a;&c_k;&c_o;&c_n; &c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_je;&c_j;
-  &c_k;&c_o;&c_m;&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_i;</trd>
+  <trd lng="ro">&icirc;nchidere</trd>
+  <trd lng="ru">&c_z;&c_a;&c_k;&c_o;&c_n; &c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_je;&c_j; &c_k;&c_o;&c_m;&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_i;</trd>
 </drv>
 
 <drv mrk="operac.ekstera0o">
@@ -751,18 +783,16 @@
   <snc mrk="operac.ekstera0o.aro">
     <fnt><bib>EKV</bib><lok>&para;110</lok></fnt>
     <dif>
-      <klr>(de <ref cel="ar.0o.MAT">aro</ref> <frm am="bb
-      R"><g>R</g></frm>
+      <klr>(de <ref cel="ar.0o.MAT">aro</ref> <frm am="bb       R"><g>R</g></frm>
       super aro <frm am="bb E"><g>E</g></frm>)</klr>
       <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref> de
-      <frm am="bb R xx bb E"><g>R</g>&#215;<g>E</g></frm> al
+      <frm am="bb R xx bb E"><g>R</g>&#xD7;<g>E</g></frm> al
       <frm am="bb E"><g>E</g></frm>:
       <ekz>
         la bildigo, kiu al entjero <frm am="n"><k>n</k></frm> kaj
         elemento <frm am="x"><k>x</k></frm> de grupoido
-        <frm am="(bb E,&#8224;)">(<g>E</g>,&#8224;)</frm>
-        asocias <frm am="n*x= x&#8224;x&#8224;...&#8224;x"
-        ><k>n</k>&#8729;<k>x</k> = <k>x</k>&#8224;<k>x</k>&#8224;...&#8224;<k>x</k></frm>
+        <frm am="(bb E,&#x2020;)">(<g>E</g>,&#x2020;)</frm>
+        asocias <frm am="n*x= x&#x2020;x&#x2020;...&#x2020;x"><k>n</k>&#x2219;<k>x</k> = <k>x</k>&#x2020;<k>x</k>&#x2020;...&#x2020;<k>x</k></frm>
         <klr> (<frm am="n"><k>n</k></frm> termoj en la dekstra
         flanko)</klr>,
         estas ekstera <tld/>o de la entjeroj super
@@ -783,26 +813,29 @@
     <trd lng="en">external composition <ind>law</ind></trd>
     <trd lng="fr">loi de composition externe</trd>
     <trd lng="pl">dzia&lstroke;anie zewn&eogonek;trzne</trd>
+    <trdgrp lng="ro">
+      <trd>unire extern&abreve;</trd>,
+      <trd>ac&#x21B;iune extern&abreve;</trd>
+    </trdgrp>
     <trd lng="ru">&c_z;&c_a;&c_k;&c_o;&c_n; &c_v;&c_n;&c_je;&c_sh;&c_n;&c_je;&c_j; &c_k;&c_o;&c_m;&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_i;</trd>
   </snc>
   <snc mrk="operac.ekstera0o.elemento">
     <dif>
-      <klr>(de <frm am="tau in bb R">&tau;&#8712;<g>R</g></frm> super
+      <klr>(de <frm am="tau in bb R">&tau;&#x2208;<g>R</g></frm> super
       <ref cel="ar.0o.MAT">aro</ref> <frm am="bb E"><g>E</g></frm>,
       kadre de
       ekstera <tld/>o <sncref ref="operac.ekstera0o.aro"/>
-      <frm am="***">&#8729;</frm>
-      de <frm am="bb R"><g>R</g></frm> super <frm
-      am="E"><g>E</g></frm>)</klr>
+      <frm am="***">&#x2219;</frm>
+      de <frm am="bb R"><g>R</g></frm> super <frm am="E"><g>E</g></frm>)</klr>
       Tia <ref tip="super" cel="bild.0igo.MAT">bildigo</ref> de
       <frm am="bb E"><g>E</g></frm> al si mem, ke la bildo de
       <frm am="x"><k>x</k></frm>
-      estas <frm am="tau***x">&tau;&#8729;<k>x</k></frm>:
+      estas <frm am="tau***x">&tau;&#x2219;<k>x</k></frm>:
       <ekz>
         la ekstera <tld/>o de <ref cel="vektor.nul0o">nulvektoro</ref>
         super <ref cel="spac.afina0o">afina spaco</ref>
         <frm am="bb E"><g>E</g></frm> estas
-        <frm am='"id"_(bb E)'>id<sub><g>E</g></sub></frm>.
+        <frm am="&quot;id&quot;_(bb E)">id<sub><g>E</g></sub></frm>.
       </ekz>
     </dif>
   </snc>
@@ -816,9 +849,9 @@
     <dif>
       Regulo, kiu asocias <ref cel="propoz.0o.aserto">propozicion</ref>
       al unu a&ubreve; pluraj propozicioj, difinante &gcirc;ian
-      <ref cel="valor.ver0o">vervaloron</ref> &#8208; depende de la
+      <ref cel="valor.ver0o">vervaloron</ref> &#x2010; depende de la
       vervaloro de
-      la argumentoj &#8208; per iu <ref cel="tabel.ver0o">vertabelo</ref>:
+      la argumentoj &#x2010; per iu <ref cel="tabel.ver0o">vertabelo</ref>:
       <ekz>
         ekzistas <frm>4</frm> eblaj unuargumentaj logikaj <tld/>oj
         kaj <frm>16</frm> duargumentaj;
@@ -829,8 +862,7 @@
         frazeroj estas veraj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=38093">Konjunkcio
+          <lok><url ref="https://eo.wikipedia.org/?curid=38093">Konjunkcio
           (logiko)</url></lok>
         </fnt>.
       </ekz>
@@ -861,6 +893,7 @@
       <ref cel="ekviva.0o.logika">ekvivalento</ref>.
     </refgrp>
   </snc>
+  <trd lng="be">&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_a;&c_ja; &c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
   <trd lng="cs">logick&aacute; operace</trd>
   <trd lng="de">logische <ind>Operation</ind></trd>
   <trd lng="en">logical <ind>operation</ind></trd>
@@ -870,33 +903,34 @@
   </trdgrp>
   <trd lng="it"><ind>operazione</ind> logica</trd>
   <trd lng="pl">sp&oacute;jnik logiczny</trd>
+  <trd lng="ro">conector logic </trd>
   <trd lng="ru">&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; <ind>&c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_ja;</ind></trd>
   <trd lng="sk">logick&aacute; oper&aacute;cia</trd>
 </drv>
 </art>
 <!--
-$Log: operac.xml,v $
-versio 1.60 2020/02/14 15:10:20
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.69 2023/05/01 06:32:06
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.59  2019/06/30 18:21:48  revo
-adaptis URL de Monato
+versio 1.68 2023/04/26 13:30:20
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.58  2019/06/30 07:43:29  revo
-adaptis URL de Monato
+versio 1.67 2022/05/01 17:17:01
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.57  2018/03/19 18:10:13  revo
+versio 1.65 2022/01/10 08:38:35
+Dmitri Gabinski: + trd be
+
+versio 1.64 2022/01/04 22:31:57
+Vito Redsky: + trd pl + trd ro
+
+versio 1.63 2021/06/15 15:35:43
 Damien Brucker: -eraro cxe cel en ref
 
-Revision 1.56  2018/01/27 12:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn
+versio 1.61 2021/04/19 07:02:22
+Dmitri Gabinski: +trd be
 
-Revision 1.55  2018/01/26 23:10:15  revo
-Wolfram Diestel: ~o: prilaboris ekz-ojn
-
-Revision 1.54  2017/12/14 18:10:14  revo
-Wolfram Diestel: kor. ref-cel
-
-Revision 1.53  2016/10/27 20:10:19  revo
+versio 1.60 2020/02/14 15:10:20
 -->
 </vortaro>

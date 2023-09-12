@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tensi.xml,v 1.26 2023/09/04 18:15:46 revo Exp $">
 <kap>
   <rad>tensi</rad>/o
 </kap>
@@ -27,15 +26,18 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franck Arnaud</aut>
-          <vrk><url ref="https://www.monato.be/2004/008261.html">Kvietigu tiun komputilon!</url></vrk>
+          <vrk><url ref="&Monato;/2004/008261.html">Kvietigu tiun
+          komputilon!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
         <nom>Ros</nom> ektremis, kvaza&ubreve; <tld/>o pasus tra &scirc;ia tuta korpo
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007215.html">La peko de Ros</url></vrk>
+	<aut>Julian Modest</aut>
+	<vrk><url ref="&Monato;/2001/007215.php">La peko de Ros</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/01, p. 24</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -60,8 +62,7 @@
       Stre&ccirc;orezisto de organa parieto al &gcirc;ia enhavo:
       <ekz>
         <ind>arteria <tld/>o</ind>.
-        <trd lng="be">&c_a;&c_r;&c_t;&c_e;&c_r;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_y;
-        &c_c;&c_ib;&c_s;&c_k;</trd>
+        <trd lng="be">&c_a;&c_r;&c_t;&c_e;&c_r;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_y; &c_c;&c_ib;&c_s;&c_k;</trd>
           <trdgrp lng="hu">
             <trd>ver&odblac;eres
             <ind>v&eacute;rnyom&aacute;s</ind></trd>,
@@ -72,8 +73,7 @@
           <ind>&c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
       </ekz>
     </dif>
-    <trd lng="be">&c_c;&c_ib;&c_s;&c_k;
-      <klr tip="amb">(&c_m;&c_e;&c_d;.)</klr></trd>
+    <trd lng="be">&c_c;&c_ib;&c_s;&c_k; <klr tip="amb">(&c_m;&c_e;&c_d;.)</klr></trd>
       <trd lng="de">Gef&auml;&szlig;widerstand</trd>
     <trd lng="en">tension</trd>
     <trdgrp lng="hu">
@@ -100,15 +100,17 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref="https://www.monato.be/2009/009871.php">Kverelas la komunumoj</url></vrk>
+          <vrk><url ref="&Monato;/2009/009871.php">Kverelas la komunumoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         psikologia krimromano kun bonega <tld/>plena krimfadeno
+        <klr>(vd <ref tip="sin" cel="suspens.0o">suspenso</ref>)</klr>
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="https://www.monato.be/2013/011040.php">Toter Lehrer, guter Lehrer</url></vrk>
+          <vrk><url ref="&Monato;/2013/011040.php">Toter Lehrer, guter
+          Lehrer</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -117,10 +119,16 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Luiza Carol</aut>
-          <vrk><url ref="https://www.monato.be/2011/010287.php">Inter videbleco kaj nevidebleco</url></vrk>
+          <vrk><url ref="&Monato;/2011/010287.php">Inter videbleco kaj
+          nevidebleco</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="akord.mal0o">malakordo</ref>,
+      <ref cel="harmon1.mal0o">malharmonio</ref>
+    </refgrp>
+    <trd lng="be">&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="de">Verwerfung</trd>
   </snc>
   <trdgrp lng="cs">
@@ -135,6 +143,13 @@
     <trd>voltage</trd>
   </trdgrp>
   <trd lng="hu">fesz&uuml;lts&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F35;&#x529B;  [<ind>&#x3061;&#x3087;&#x3046;&#x308A;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x5FDC;&#x529B;  [<ind>&#x304A;&#x3046;&#x308A;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x96FB;&#x5727;  [<ind>&#x3067;&#x3093;&#x3042;&#x3064;</ind>]</trd>,
+    <trd>&#x7DCA;&#x5F35;  [<ind>&#x304D;&#x3093;&#x3061;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x8840;&#x5727;  [<ind>&#x3051;&#x3064;&#x3042;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">spanning</trd>
   <trdgrp lng="pt">
     <trd>ten&atilde;o</trd>,
@@ -146,12 +161,17 @@
     <trd>tlak</trd>
   </trdgrp>
   <trdgrp lng="th">
-    <trd>&#3649;&#3619;&#3591;&#3605;&#3638;&#3591;</trd>,
-    <trd>&#3588;&#3623;&#3634;&#3617;&#3648;&#3588;&#3619;&#3637;&#3618;&#3604;</trd>
+    <trd>&#xE41;&#xE23;&#xE07;&#xE15;&#xE36;&#xE07;</trd>,
+    <trd>&#xE04;&#xE27;&#xE32;&#xE21;&#xE40;&#xE04;&#xE23;&#xE35;&#xE22;&#xE14;</trd>
   </trdgrp>
-    <adm>
-      Enkonduki "rezistilo". <aut>MB</aut>
-    </adm>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_g;&c_a;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_u;&c_zh;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_t;&c_ja;&c_g;</trd>,
+    <trd>&c_t;&c_i;&c_s;&c_k;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tensi.kontinua0o">
@@ -161,19 +181,32 @@
       <tld lit="T"/>o, konstanta la&ubreve; grando kaj direkto.
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_l;&c_a;&c_je; <ind>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   <trd lng="de">Gleichspannung</trd>
   <trd lng="en">DC voltage <klr>(direct current voltage)</klr></trd>
   <trd lng="fr">tension continue</trd>
   <trd lng="hu">egyenfesz&uuml;lts&eacute;g</trd>
+  <trd lng="ja">&#x5B9A;&#x96FB;&#x5727;  [<ind>&#x3066;&#x3044;&#x3067;&#x3093;&#x3042;&#x3064;</ind>]</trd>
   <trd lng="pl">sta&lstroke;e <ind>napi&eogonek;cie</ind></trd>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_o;&c_je;
   <ind>&c_n;&c_a;&c_p;&c_r;&c_ja;&c_zh;&c_je;&c_n;&c_i;&c_je;</ind>
   <klr tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;.)</klr></trd>
-  <trd lng="th">&#3652;&#3615;&#3615;&#3657;&#3634;&#3585;&#3619;&#3632;&#3649;&#3626;&#3605;&#3619;&#3591;</trd>
+  <trd lng="th">&#xE44;&#xE1F;&#xE1F;&#xE49;&#xE32;&#xE01;&#xE23;&#xE30;&#xE41;&#xE2A;&#xE15;&#xE23;&#xE07;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/08/22 06:27:54
+Wolfram Diestel: +ref, -adm
+
+versio 1.24 2023/04/23 14:27:15
+
+versio 1.23 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2022/03/21 14:34:54
+Dmitri Gabinski: + trd be
+
 Revision 1.19  2016/11/28 14:10:14  revo
 Warut Bunprasert: +trd th
 
@@ -185,13 +218,5 @@ aldono de trd cs per skripto de M. von Laer
 
 Revision 1.16  2015/06/29 16:40:19  revo
 aldono de trd sk per skripto de M. von Laer
-
-Revision 1.15  2012/10/23 00:14:01  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.14  2010/04/16 16:31:55  revo
-Russ Williams: tensio / strecxo misuzo?
-
-Revision 1.13  2009/01/27 17:30:33  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: enket.xml,v 1.16 2010/02/02 17:30:25 revo Exp $">
+<art mrk="$Id: enket.xml,v 1.31 2023/08/31 11:49:29 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>enket</rad>/o <fnt><bib>MT</bib></fnt>
@@ -13,7 +12,8 @@
     <dif>
       Ju&gcirc;a a&ubreve; oficiala <ref tip="super" cel="esplor.0o">esploro</ref>:
       <ekz>
-        se viro ku&scirc;as kun <klr>[&#8230;]</klr> sklavino, ordonita al viro <klr>[&#8230;]</klr>, tiam
+        se viro ku&scirc;as kun <klr>[&#x2026;]</klr> sklavino, ordonita al viro
+        <klr>[&#x2026;]</klr>, tiam
         devas esti <tld/>o, sed ili ne mortu, &ccirc;ar &scirc;i ne estis libera
         <fnt>
           <bib>MT</bib>
@@ -21,11 +21,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        Nun malfermu, civitan', / De ekstere sonas peto, / La policokapitan' / Al vi
+        Nun malfermu, civitan', / De ekstere sonas peto, / La
+        policokapitan' / Al vi
         venas por enketo
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga
+          Butiko</url></vrk>
           <lok>&Ccirc;astemulino</lok>
         </fnt>!
       </ekz>
@@ -34,8 +36,8 @@
         rezulto estis same klara kaj evidenta kiel post la unua
         <tld/>o
         <fnt><aut>S. Maul</aut>, <vrk>Supra&jcirc;eco super
-        &ccirc;io</vrk>, <bib>Monato</bib>, <lok>jaro 2001a, numero 5a,
-        p. 5a</lok></fnt>.
+        &ccirc;io</vrk>, <bib>Monato</bib>, <lok>2001/05,
+        p. 5</lok></fnt>.
       </ekz>
     </dif>
     <trd lng="de">Ermittlung</trd>
@@ -64,28 +66,32 @@
     <dif>
       Metoda esploro pri ia okaza&jcirc;o a&ubreve; opinio:
       <ekz>
-        la rezultoj de la <tld/>o certe &scirc;okis kaj instruistojn kaj gepatrojn
-        <fnt>
+        la rezultoj de la <tld/>o certe &scirc;okis kaj instruistojn kaj
+        gepatrojn
+         <fnt>
+          <aut>Guido van Damme</aut>
+          <vrk><url ref="&Monato;/1995/A950102.php">Gejunula seksumado</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9501-seksaj-rilatoj.txt">Seksaj Rilatoj</url></vrk>
-          <lok>95/01</lok>
+          <lok>1995/01, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
         la <tld/>o atentigis anka&ubreve;, ke en &Ccirc;inio inter la
-        mortintoj pro fumado 45&#8239;% suferis pro kronika malsano 
-        &ccirc;e pulmo, 15&#8239;% malsani&gcirc;is je pulma kancero
+        mortintoj pro fumado 45&#x202F;% suferis pro kronika malsano 
+        &ccirc;e pulmo, 15&#x202F;% malsani&gcirc;is je pulma kancero
         <fnt><aut>Mu Binghua</aut>, <vrk>Mortintoj pro
-        fumado</vrk>, <bib>Monato</bib>, <lok>jaro 2000a, numero 3a, p.
-        21a</lok></fnt>;
+        fumado</vrk>, <bib>Monato</bib>, <lok>2000/03, p.
+        21</lok></fnt>;
       </ekz>
       <ekz>
-        la <tld/>instituto <nom>Eurostat</nom> konstatas, ke &gcirc;is 2025 la EU-lo&gcirc;antaro kreskos nur
+        la <tld/>instituto <nom>Eurostat</nom> konstatas, ke &gcirc;is 2025 la
+        EU-lo&gcirc;antaro kreskos nur
         iomete, kaj nur danke al enmigrado
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.be/2005/008602.php">Ago pro a&gcirc;o</url></vrk>
+          <vrk><url ref="&Monato;/2005/008602.php">Ago pro
+          a&gcirc;o</url></vrk>
           <lok>2005</lok>
         </fnt>.
       </ekz>
@@ -104,6 +110,11 @@
       <trd>ankieta</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_l;&c_je;&c_d;&c_z;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_d;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
   <trd lng="cs">anketa</trd>
   <trd lng="de">Untersuchung</trd>
   <trdgrp lng="en">
@@ -120,8 +131,19 @@
     <trd>indagine</trd>,
     <trd>inchiesta</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8ABF;&#x67FB;  [<ind>&#x3061;&#x3087;&#x3046;&#x3055;</ind>]</trd>,
+    <trd>&#x30A2;&#x30F3;&#x30B1;&#x30FC;&#x30C8;  [<ind>&#x3042;&#x3093;&#x3051;&#x30FC;&#x3068;</ind>]</trd>,
+    <trd>&#x53D6;&#x8ABF;&#x3079;  [<ind>&#x3068;&#x308A;&#x3057;&#x3089;&#x3079;</ind>]</trd>,
+    <trd>&#x67FB;&#x554F;  [<ind>&#x3055;&#x3082;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">enqu&ecirc;te</trd>
   <trd lng="sk">anketa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&c_s;&#x43B;&c_ib;&c_d;&c_zh;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_s;&#x43B;&c_ib;&c_d;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_d;&c_ib;&c_z;&#x43D;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="enket.0i">
@@ -133,9 +155,10 @@
       <ekz>
         la polico nun <tld/>as pri pliaj 140 eventuale suspektaj mortoj
         <fnt>
+       <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2000/006872.php">Doktoro Morto</url></vrk>
           <bib>Monato</bib>
-          <aut>Paul GUBBINS</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006872.html">BRITIO: Doktoro Morto</url></vrk>
+          <lok>2000/05, p. 11</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -143,29 +166,37 @@
         aermalpura&jcirc;oj sur la pezon de koreaj beboj
         <fnt>
         <aut>P. S. Viana</aut>, <vrk>Tro malpezaj beboj</vrk>,
-        <bib>Monato</bib>, <lok>jaro 2002a, numero 3a, p.
-        20a</lok></fnt>;
+        <bib>Monato</bib>, <lok>2002/03, p.
+        20</lok></fnt>;
       </ekz>
       <ekz>
-        ja anta&ubreve;e lernejanoj seksumis: tiam, tamen, tio estis socie netolerebla kaj do
+        ja anta&ubreve;e lernejanoj seksumis: tiam, tamen, tio estis socie
+        netolerebla kaj do
         neniu parolis, neniu prie <tld/>is
-        <fnt>
+         <fnt>
+          <aut>Guido van Damme</aut>
+          <vrk><url ref="&Monato;/1995/A950102.php">Gejunula seksumado</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9501-seksaj-rilatoj.txt">Seksaj Rilatoj</url></vrk>
-          <lok>95/01</lok>
+          <lok>1995/01, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
-        post vasta <tld/>ado inter religiuloj evidenti&gcirc;is ke ili ne esprimis
+        post vasta <tld/>ado inter religiuloj evidenti&gcirc;is ke ili ne
+        esprimis
         malagrablajn sentojn rilate la virgulinon
         <fnt>
+          <aut>div.</aut>
+          <vrk><url ref="&Monato;/1993/A931002.php">Noticoj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9310-artikoletoj.txt">Malkopiilo</url></vrk>
-          <lok>93/10</lok>
-        </fnt>;
+          <lok>1993/10, p. 4</lok>
+         </fnt>;
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>dotazovat se <klr>(anketn&ecaron;)</klr></trd>,
     <trd>prov&aacute;d&ecaron;t anketu</trd>
@@ -182,15 +213,26 @@
   </trdgrp>
   <trd lng="es">encuestar</trd>
   <trd lng="fr">enqu&ecirc;ter</trd>
+  <trd lng="he">&#x5DC;&#x5D7;&#x5E7;&#x5D5;&#x5E8;</trd>
   <trd lng="it">indagare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30F3;&#x30B1;&#x30FC;&#x30C8;&#x3092;&#x3068;&#x308B;  [<ind>&#x3042;&#x3093;&#x3051;&#x30FC;&#x3068;&#x3092;&#x3068;&#x308B;</ind>]</trd>,
+    <trd>&#x8ABF;&#x67FB;&#x3059;&#x308B;  [<ind>&#x3061;&#x3087;&#x3046;&#x3055;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x53D6;&#x8ABF;&#x3079;&#x308B;  [<ind>&#x3068;&#x308A;&#x3057;&#x3089;&#x3079;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">enqu&ecirc;teren</trd>
   <trdgrp lng="pl">
     <trd>prowadzi&cacute; <ind>&sacute;ledztwo</ind></trd>,
     <trd>prowadzi&cacute; <ind>dochodzenie</ind></trd>,
     <trd>przeprowadza&cacute; <ind>ankiet&eogonek;</ind></trd>
   </trdgrp>
+  <trd lng="pt">investigar</trd>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">prev&aacute;dza&tcaron; anketu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&c_s;&#x43B;&c_ib;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i; &c_d;&#x43E;&c_v;&c_ib;&c_d;&#x43A;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="enket.0ilo">
@@ -202,9 +244,10 @@
       <ekz>
         la eldonejo sendis malgrandan <tld/>ilon al 500 abonantoj
         <fnt>
-          <bib>Monato</bib>
+          
           <aut>Paul Peeraerts</aut>
-          <vrk><url ref="https://www.monato.be/2003/008156.html">Statistiko</url></vrk>
+          <vrk><url ref="&Monato;/2003/008156.html">Statistiko</url></vrk>
+          <bib>Monato</bib>
           <lok>2003</lok>
         </fnt>;
       </ekz>
@@ -215,22 +258,28 @@
           <aut>K. Van Damme</aut>,
           <vrk>enketilo</vrk>,
           <lok>
-          <url ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+          <url ref="&SCE;">
           soc.culture.esperanto</url>,
           2007-01-22</lok>
         </fnt>;
       </ekz>
       <ekz>
-        en la hoteloj de <nom>Vilnius</nom> estis disvastigitaj <tld/>iloj, sur kiuj oni petis
+        en la hoteloj de <nom>Vilnius</nom> estis disvastigitaj
+        <tld/>iloj, sur kiuj oni petis
         pritaksi la urbon je turisma vidpunkto
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url ref="https://www.monato.be/2004/008425.html">Turisma &scirc;oko</url></vrk>
+          <vrk><url ref="&Monato;/2004/008425.html">Turisma
+          &scirc;oko</url></vrk>
           <lok>2004</lok>
         </fnt>.
       </ekz>
     </dif>    
+    <trdgrp lng="be">
+      <trd>&c_a;&c_p;&c_y;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+      <trd>&c_a;&c_n;&c_k;&c_je;&c_t;&c_a;</trd>
+    </trdgrp>
     <trd lng="de">Fragebogen</trd>
     <trd lng="es">cuestionario</trd>
     <trd lng="fr">questionnaire d'enqu&ecirc;te</trd>
@@ -240,6 +289,8 @@
       <trd>kwestionariusz</trd>
     </trdgrp>
   </snc>
+  <trd lng="ja">&#x30A2;&#x30F3;&#x30B1;&#x30FC;&#x30C8;&#x7528;&#x7D19;  [<ind>&#x30A2;&#x30F3;&#x30B1;&#x30FC;&#x30C8;&#x3088;&#x3046;&#x3057;</ind>]</trd>
+  <trd lng="pt">question&aacute;rio</trd>
   <trd lng="cs">anketn&iacute; l&iacute;stek</trd>
   <trd lng="sk">anketov&yacute; l&iacute;stok</trd>
 </drv>
@@ -253,31 +304,35 @@
         la <tld/>istoj neas, ke estas iu rekta rilato inter tiu kazo kaj
         la <nom>Dutroux</nom>-afero<fnt>
         <aut>G. Van Damme</aut>, <vrk>Tagluma
-        ko&scirc;maro</vrk>, <bib>Monato</bib>, <lok>jaro 1996a, numero
-        11a, p. 14a</lok></fnt>;
+        ko&scirc;maro</vrk>, <bib>Monato</bib>, <lok>1996/11, p. 14</lok></fnt>;
       </ekz>
       <ekz>
-        70-jara&gcirc;a sinjorino, kiu rolis en la ju&gcirc;ejo kaj polica <tld/>istejo kiel
+        70-jara&gcirc;a sinjorino, kiu rolis en la ju&gcirc;ejo kaj polica
+        <tld/>istejo kiel
         interpretistino de la bulgara
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="https://www.monato.be/2004/008284.html">Juste interpreti ...</url></vrk>
+          <vrk><url ref="&Monato;/2004/008284.html">Juste
+          interpreti ...</url></vrk>
           <lok>2004</lok>
         </fnt>;
       </ekz>
       <ekz>
-        tion kredas <tld/>istoj, kiuj sondis opiniojn pri geedzi&gcirc;o inter &ccirc;irka&ubreve; 500
+        tion kredas <tld/>istoj, kiuj sondis opiniojn pri geedzi&gcirc;o inter
+        &ccirc;irka&ubreve; 500
         japanaj gefra&ubreve;loj
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo/pg</aut>
-          <vrk><url ref="https://www.monato.be/2005/008728.php">Trezoro &ccirc;iam pli a&gcirc;a</url></vrk>
+          <vrk><url ref="&Monato;/2005/008728.php">Trezoro
+          &ccirc;iam pli a&gcirc;a</url></vrk>
           <lok>2005</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_l;&c_je;&c_d;&c_ch;&c_y;</trd>
   <trdgrp lng="de">
     <trd>Ermittler</trd>,
     <trd>Statistiker</trd>
@@ -305,6 +360,12 @@
     <trd>dochodzeniowiec</trd>,
     <trd>ankieter</trd>
   </trdgrp>
+  <trd lng="pt">investigador</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&c_s;&#x43B;&c_ib;&c_d;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&#x43E;&c_b;&c_s;&#x43B;&c_ib;&c_d;&c_u;&c_v;&c_a;&c_ch;</trd>,
+    <trd>&c_s;&#x43B;&c_ib;&c_d;&c_ch;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="enket.opini0o">
@@ -321,27 +382,32 @@
         6a</lok></fnt>;
       </ekz>
       <ekz>
-        grava inform-esplora organiza&jcirc;o en Pekino faris opini<tld/>on, por informi&gcirc;i,
+        grava inform-esplora organiza&jcirc;o en Pekino faris opini<tld/>on,
+        por informi&gcirc;i,
         kiel peza estos tiu &scirc;ar&gcirc;o
         <fnt>
           <bib>Monato</bib>
           <aut>Mu Binghua</aut>
-          <vrk><url ref="https://www.monato.be/2006/009055.php"
-              >Pezaj enlandaj &scirc;ar&gcirc;oj por la registaro</url></vrk>
+          <vrk><url ref="&Monato;/2006/009055.php">Pezaj enlandaj &scirc;ar&gcirc;oj por la
+          registaro</url></vrk>
           <lok>2006</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la opini<tld/>o de majo 1990 <klr>[&#8230;]</klr> en Sarajevo kontra&ubreve; la militdan&gcirc;ero
+        la opini<tld/>o de majo 1990 <klr>[&#x2026;]</klr> en Sarajevo kontra&ubreve;
+        la militdan&gcirc;ero
         montris, ke ties popolo ne deziris la disi&gcirc;on
         <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio: 
+          kiu kiun mistifikas?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006947.html"
-              >Reago: Eks-Jugoslavio: kiu kiun mistifikas?</url></vrk>
+          <lok>2000/06, p. 8</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_p;&c_y;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_k;&c_a;&c_j; &c_d;&c_u;&c_m;&c_k;&c_ib;)</klr></trd>
   <trd lng="de">Meinungsumfrage</trd>
   <trd lng="en">opinion survey</trd>
   <trdgrp lng="es">
@@ -353,7 +419,9 @@
     <trd>sondage<klr> (enqu&ecirc;te d'opinion)</klr></trd>
   </trdgrp>
   <trd lng="it">sondaggio<klr> d'opinione</klr></trd>
+  <trd lng="ja">&#x4E16;&#x8AD6;&#x8ABF;&#x67FB;  [<ind>&#x3088;&#x308D;&#x3093;&#x3061;&#x3087;&#x3046;&#x3055;</ind>]</trd>
   <trd lng="nl">opiniepeiling</trd>
+  <trd lng="pt">pesquisa<klr> (de opini&atilde;o)</klr></trd>
   <trdgrp lng="pl">
     <trd>ankieta</trd>,
     <trd>sonda&zdot;</trd>,
@@ -363,24 +431,27 @@
 </art>
 <!--
 $Log$
-Revision 1.20  2016/05/21 07:10:29  revo
-Eko Nur Syah Hidayat: +trd id
+versio 1.30 2023/04/25 12:45:28
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.19  2015/09/01 08:10:18  revo
-Guillermo Molleda Jimena: trd es
+versio 1.29 2023/04/12 09:25:46
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.18  2015/07/04 08:37:33  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.28 2023/04/11 12:45:38
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.17  2015/06/29 16:29:37  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.27 2023/04/07 15:27:02
+Paul Peeraerts: &Monato;
 
-Revision 1.16  2010/02/02 17:30:25  revo
-Sebastian Cyprych: +trd pl
+versio 1.26 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.15  2009/03/15 17:31:00  revo
-Antonio Codazzi: +trd it
+versio 1.24 2022/01/21 07:28:09
+Dmitri Gabinski: + trd be
 
-Revision 1.14  2009/03/02 17:30:29  revo
+versio 1.22 2020/03/21 02:10:52
+James Rezende Piton: +trd pt ~i, ~ilo, ~isto, opini~
+
+Revision 1.21  2019/11/12 08:10:14  revo
 -->
 </vortaro>

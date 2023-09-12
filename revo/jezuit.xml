@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: jezuit.xml,v 1.17 2009/08/19 18:42:05 revo Exp $">
+<art mrk="$Id: jezuit.xml,v 1.27 2023/08/31 18:25:29 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>jezuit</rad>/o
@@ -16,7 +15,8 @@
       de la religiula societo (propranome kompanio) fondita de
       Ignaco de <nom>Lojola</nom>:
       <ekz>
-        la <tld/>oj permesis fumi kaj flari tabakon tiom, kiom &gcirc;i servas al la digestado kaj al la sano
+        la <tld/>oj permesis fumi kaj flari tabakon tiom, kiom &gcirc;i servas al la digestado kaj al la
+        sano
         <fnt>
           <bib>FK</bib>
         </fnt>;
@@ -49,11 +49,14 @@
       <ekz>
         vipura &jcirc;urnalismo en stilo de <tld/>o
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007264.html">Morti miskomprene (1)</url></vrk>
-        </fnt>.
+          <aut>Gilbert Ledon</aut>
+            <vrk><url ref="&Monato;/2000/007264.php">Morti miskomprene (1)</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 4</lok>
+          </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_k;&c_r;&c_y;&c_v;&c_a;&c_d;&c_u;&c_sh;&c_n;&c_ib;&c_k;</trd>
     <trd lng="de">Heuchler</trd>
     <trd lng="en">jesuit</trd>
     <trdgrp lng="fr">
@@ -77,13 +80,31 @@
       <trd>ipocrita</trd>,
       <trd>gesuita<klr> (fig.)</klr></trd>
     </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30A4;&#x30A8;&#x30BA;&#x30B9;&#x4F1A;&#x58EB;  [<ind>&#x30A4;&#x30A8;&#x30BA;&#x30B9;&#x304B;&#x3044;&#x3057;</ind>]</trd>,
+    <trd>&#x9670;&#x967A;&#x306A;&#x4EBA;  [<ind>&#x3044;&#x3093;&#x3051;&#x3093;&#x306A;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x7B56;&#x8B00;&#x5BB6;  [<ind>&#x3055;&#x304F;&#x307C;&#x3046;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">jezu&iacute;ta</trd>
   <trd lng="ru">&c_i;&c_je;&c_z;&c_u;&c_i;&c_t;</trd>
   <trd lng="sk">jezuita</trd>
+  <trdgrp lng="uk">
+    <trd>&c_jeu;&c_z;&c_u;&c_ji;&c_t; (&c_t;&c_zh; &#x43F;&c_je;&c_r;&c_je;&#x43D;.)</trd>,
+    <trd>&c_ch;&#x43B;&c_je;&#x43D; &c_jeu;&c_z;&c_u;&c_ji;&c_t;&c_s;&#x44C;&#x43A;&#x43E;&c_g;&#x43E; &#x43E;&c_r;&c_d;&c_je;&#x43D;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2023/08/22 09:26:02
+Dmitri Gabinski: + trd be
+
+versio 1.25 2023/04/30 13:26:25
+Paul Peeraerts: Steloj -> monato
+
+versio 1.24 2022/04/30 08:42:43
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.21  2018/12/15 18:10:20  revo
 Wolfram Diestel: +ekz-oj
 
@@ -97,14 +118,5 @@ Revision 1.18  2013/09/02 14:10:14  revo
 Joop Eggen: +trd bg
 
 Revision 1.17  2009/08/19 18:42:05  revo
-Russ Williams: +trd en
-
-Revision 1.16  2009/03/15 17:31:16  revo
-Antonio Codazzi: +trd it
-
-Revision 1.15  2009/03/12 17:31:28  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.14  2004/09/26 16:32:13  revo
 -->
 </vortaro>

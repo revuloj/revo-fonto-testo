@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: arleke.xml,v 1.17 2009/02/26 17:31:24 revo Exp $">
+<art mrk="$Id: arleke.xml,v 1.27 2023/08/30 18:23:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>arleken</rad>/o <fnt><bib>Rabistoj</bib></fnt>
@@ -73,7 +72,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2006/009105.php">Du mil ses</url></vrk>
+          <vrk><url ref="&Monato;/2006/009105.php">Du mil ses</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -82,6 +81,7 @@
       <ref cel="bufon.0o">bufono</ref>,
       <ref cel="pajac.0o">pajaco</ref>
     </refgrp>
+    <trd lng="be">&c_b;&c_l;&c_a;&c_z;&c_a;&c_n;</trd>
     <trdgrp lng="de">
       <trd>Spa&szlig;macher</trd>,
       <trd>Hofnarr</trd>
@@ -94,14 +94,30 @@
     <trd>komediant</trd>,
     <trd>&scaron;a&scaron;ek</trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5B5;&#x5D9;&#x5E6;&#x5B8;&#x5DF;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30EB;&#x30EB;&#x30AB;&#x30F3;</trd>,
+    <trd>&#x30A2;&#x30EB;&#x30EC;&#x30C3;&#x30AD;&#x30FC;&#x30CE;</trd>,
+    <trd>&#x9053;&#x5316;&#x8005;  [<ind>&#x3069;&#x3046;&#x3051;&#x3082;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>&scaron;a&scaron;o</trd>,
     <trd>&scaron;a&scaron;o, harlek&yacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_r;&#x43B;&c_je;&#x43A;&c_ib;&#x43D;</trd>,
+    <trd>&c_b;&#x43B;&c_a;&c_z;&c_je;&#x43D;&#x44C;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2022/12/15 08:34:08
+Dmitri Gabinski: + trd be
+
+versio 1.25 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.21  2015/09/17 04:10:13  revo
 Evandro Avellar: +trd pt
 
@@ -118,8 +134,5 @@ Revision 1.17  2009/02/26 17:31:24  revo
 Antonio Codazzi: +trd it
 
 Revision 1.16  2007/05/06 16:30:22  revo
-Jeromo Vasxe: + ekz
-
-Revision 1.15  2005/06/20 16:31:10  revo
 -->
 </vortaro>

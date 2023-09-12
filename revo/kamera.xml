@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kamera.xml,v 1.12 2010/11/25 17:30:26 revo Exp $">
+<art mrk="$Id: kamera.xml,v 1.25 2023/08/31 19:24:09 revo Exp $">
 <kap>
   <rad>kamera</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -53,6 +52,7 @@
     <trd>felvev&odblac;g&eacute;p</trd>,
     <trd>filmfelvev&odblac;</trd>
   </trdgrp>
+  <trd lng="ja">&#x30AB;&#x30E1;&#x30E9;  [<ind>&#x304B;&#x3081;&#x3089;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>filmcamera</trd>,
     <trd>televisiecamera</trd>
@@ -62,6 +62,11 @@
   <trd lng="ru">&c_k;&c_a;&c_m;&c_je;&c_r;&c_a;<klr tip="amb"> (&c_f;&c_o;&c_t;&c_o;, &c_v;&c_i;&c_d;&c_je;&c_o;, &c_T;&c_V; &c_i;
   &c_t;.&c_p;.)</klr></trd>
   <trd lng="sk">sn&iacute;macia kamera</trd>
+  <trdgrp lng="uk">
+    <trd>&#x444;&#x43E;&#x442;&#x43E; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;</trd>,
+    <trd>&#x444;&#x43E;&#x442;&#x43E;&#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;</trd>,
+    <trd>&#x43A;&#x456;&#x43D;&#x43E;&#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kamera.0i">
@@ -73,6 +78,7 @@
     </dif>
     <ref tip="sin" cel="film.0i">filmi</ref>
   </snc>
+  <trd lng="be">&c_z;&c_d;&c_y;&c_m;&c_a;&c_c;&c_mol; &c_n;&c_a; &c_k;&c_a;&c_m;&c_e;&c_r;&c_u;</trd>
   <trdgrp lng="ca">
     <trd>enregistrar</trd>,
     <trd>filmar</trd>
@@ -107,6 +113,7 @@
       Profesiulo, kiu <tld/>as, ekzemple nova&jcirc;bultenon, kina&jcirc;on.
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_a;&c_t;&c_a;&c_r; <klr>(&c_k;&c_a;&c_m;&c_e;&c_r;&c_y;)</klr></trd>
   <trdgrp lng="ca">
     <trd>c&agrave;mera</trd>,
     <trd>camer&agrave;man</trd>,
@@ -128,6 +135,10 @@
     <trd>operat&odblac;r</trd>,
     <trd>kameraman</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30E1;&#x30E9;&#x30DE;&#x30F3;  [<ind>&#x304B;&#x3081;&#x3089;&#x307E;&#x3093;</ind>]</trd>,
+    <trd>&#x64AE;&#x5F71;&#x6280;&#x5E2B;  [<ind>&#x3055;&#x3064;&#x3048;&#x3044;&#x304E;&#x3057;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">cameraman</trd>
   <trdgrp lng="pl">
     <trd>kamerzysta</trd>,
@@ -135,7 +146,37 @@
   </trdgrp>
   <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_a;&c_t;&c_o;&c_r;<klr tip="amb"> (&c_v;&c_i;&c_d;&c_je;&c_o;, &c_T;&c_V; &c_i; &c_t;.&c_p;.)</klr></trd>
   <trd lng="sk">kameraman</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43F;&#x435;&#x440;&#x430;&#x442;&#x43E;&#x440;</trd>,
+    <trd>&#x43A;&#x456;&#x43D;&#x43E;&#x43E;&#x43F;&#x435;&#x440;&#x430;&#x442;&#x43E;&#x440;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="kamera.gvat0o">
+  <kap>
+    gvat<tld/>o
+  </kap>
+  <snc mrk="kamera.gvat0o.KOMUNE">
+    <dif>
+      A&ubreve;tomate, da&ubreve;re funkcianta <tld/>o, per kiu oni kontrolas
+      okaza&jcirc;ojn en la loko, kiun &gcirc;i gvatas:
+      <ekz>
+        nombro de gvat<tld/>oj kompare al tiu de lo&gcirc;antoj
+        estas la plej alta en la lando
+        <fnt>
+          <aut>RG72</aut>
+          <vrk><url ref="https://eo.wikinews.org/wiki/Francio_en_konfronti%C4%9Do_kontra%C5%AD_la_islama_mondo">Francio en konfronti&gcirc;o kontra&ubreve; la islama mondo</url></vrk>
+          <lok>Vikinova&jcirc;oj, 2020-11-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_e;&c_r;&c_a; &c_n;&c_a;&c_z;&c_ib;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
+  <trd lng="fr">cam&eacute;ra de <ind>vid&eacute;osurveillance</ind></trd>
+  <trd lng="ja">&#x76E3;&#x8996;&#x30AB;&#x30E1;&#x30E9;  [<ind>&#x304B;&#x3093;&#x3057;&#x30AB;&#x30E1;&#x30E9;</ind>]</trd>
+  <trd lng="uk">&#x43F;&#x440;&#x438;&#x445;&#x43E;&#x432;&#x430;&#x43D;&#x430; &#x43A;&#x430;&#x43C;&#x435;&#x440;&#x430;</trd>
+</drv>
+
 
 <drv mrk="kamera.vide0o">
   <kap>vide<tld/>o, <var><kap>video<tld/>o</kap></var></kap>
@@ -150,19 +191,20 @@
         <fnt>
           <aut>E. Fabian</aut>,
           <vrk>Necesas instruado...</vrk>,
-          <lok><url
-          ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+          <lok><url ref="&SCE;">
           soc.culture.esperanto</url>, 2009-04-25</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_ib;&c_d;&c_e;&c_a;&c_k;&c_a;&c_m;&c_e;&c_r;&c_a;</trd>
   <trd lng="ca"><ind>c&agrave;mera</ind> de v&iacute;deo</trd>
   <trdgrp lng="fr">
     <trd>cam&eacute;ra vid&eacute;o</trd>,
     <trd>cam&eacute;scope</trd>
   </trdgrp>
   <trd lng="es">videoc&aacute;mara</trd>
+  <trd lng="ja">&#x30D3;&#x30C7;&#x30AA;&#x30AB;&#x30E1;&#x30E9;</trd>
   <trd lng="pl">kamera wideo</trd>
 </drv>
 <adm>
@@ -177,6 +219,15 @@
 </art>
 <!--
 $Log$
+versio 1.24 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2021/11/04 07:29:19
+Dmitri Gabinski: + trd be
+
+versio 1.20 2020/11/08 20:32:12
+Jeromo Vasxe: + gvat~o
+
 Revision 1.18  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -190,11 +241,5 @@ Revision 1.15  2014/03/04 19:10:23  revo
 Agustin Garcia Lopez: +trd (es) -i
 
 Revision 1.14  2012/09/01 08:10:20  revo
-Marc Rausell: + trd ca
-
-Revision 1.13  2011/12/31 04:10:08  revo
-Eduardo Navas: +trad es
-
-Revision 1.12  2010/11/25 17:30:26  revo
 -->
 </vortaro>

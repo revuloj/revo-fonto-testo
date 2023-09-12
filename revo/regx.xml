@@ -1,23 +1,21 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
-    <kap>
-      <ofc>*</ofc>
-      <rad>re&gcirc;</rad>/o
-    </kap>
+<art mrk="$Id: regx.xml,v 1.137 2023/09/10 15:34:09 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>re&gcirc;</rad>/o
+</kap>
 
 <drv mrk="regx.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="regx.0o.monarko">
     <uzo tip="fak">POL</uzo>
     <dif>
-      Dumviva, ordinare hereda, <ref tip="super"
-      cel="regn.0estro">regnestro</ref>:
+      Dumviva, ordinare hereda, <ref tip="super" cel="regn.0estro">regnestro</ref>:
       <ekz>
         la regnestro de nia lando estas bona kaj sa&gcirc;a <tld/>o
-        <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>;
+        <fnt><bib>F</bib> <lok>&FE; 37</lok></fnt>;
       </ekz>
       <ekz>
         la filoj, nepoj kaj pranepoj de <tld/>o estas re&gcirc;idoj
@@ -41,17 +39,17 @@
         </fnt>;
       </ekz>
       <ekz>
-        la <tld/>o de Sodom
+        la <tld/>o de <nom>Sodom</nom>
         <fnt>
           <bib>MT</bib>
-          <lok>Genezo 14:22</lok>
+          <lok>&Gen; 14:22</lok>
         </fnt>;
       </ekz>
       <ekz>
-        Abimele&hcirc;, la <tld/>o de la Fili&scirc;toj
+        <nom>Abimele&hcirc;</nom>, la <tld/>o de la Fili&scirc;toj
         <fnt>
           <bib>MT</bib>
-          <lok>Genezo 26:8</lok>
+          <lok>&Gen; 26:8</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -59,7 +57,7 @@
         Izraelidojn el sia lando
         <fnt>
           <bib>MT</bib>
-          <lok>Eliro 6:11</lok>
+          <lok>&Eli; 6:11</lok>
         </fnt>;
       </ekz>&ccirc;evalo
       <ekz>
@@ -85,7 +83,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la <klr>[&#8230;]</klr> juna princo edzi&gcirc;is <klr>[&#8230;]</klr> kaj estis
+        la <klr>[&#x2026;]</klr> juna princo edzi&gcirc;is <klr>[&#x2026;]</klr> kaj estis
         proklamita heredonto de la <tld/>o
         <fnt>
           <bib>ElektFab</bib>
@@ -117,7 +115,7 @@
         la homoj, tiuj &ccirc;i <tld/>oj de la tero, tiuj &ccirc;i plej altaj
         reprezentantoj
         de la monda inteligenteco, tiuj &ccirc;i duon-dioj, en la da&ubreve;ro de
-        tutaj 
+        tutaj
         miljaroj vivis unuj apud la aliaj, ne komprenante unuj la aliajn
         <fnt>
           <bib>EE</bib>
@@ -152,7 +150,7 @@
       <trd>&c_k;&c_a;&c_r;&c_o;&c_l;&c_mol;</trd>,
       <trd>&c_c;&c_a;&c_r;</trd>
     </trdgrp>
-    <trd lng="hi">&#2352;&#2366;&#2332;&#2366; [<ind>r&#257;j&#257;</ind>]</trd>
+    <trd lng="hi">&#x930;&#x93E;&#x91C;&#x93E; [<ind>rāj&#x15D1;</ind>]</trd>
     <trd lng="pl">kr&oacute;l</trd>
     <trdgrp lng="ru">
       <trd>&c_k;&c_o;&c_r;&c_o;&c_l;&c_mol;</trd>,
@@ -169,8 +167,8 @@
         la nigra, la blanka <tld/>o;
       </ekz>
       <ekz>
-        la nomo de &scirc;ako estas: <tld/>o, soldato, damo, <klr>[&#8230;]</klr>
-        kuriero, <klr>[&#8230;]</klr> &ccirc;evalo, <klr>[&#8230;]</klr> turo
+        la nomo de &scirc;ako estas: <tld/>o, soldato, damo, <klr>[&#x2026;]</klr>
+        kuriero, <klr>[&#x2026;]</klr> &ccirc;evalo, <klr>[&#x2026;]</klr> turo
         <fnt>
           <bib>LR</bib>
           <lok>2. Vortuzo</lok>
@@ -194,7 +192,7 @@
       </ekz>
       <ekz>
         se ni havas ason de pikoj, ni ne rajtas preni ason aliembleman
-        <klr>[&#8230;]</klr> 
+        <klr>[&#x2026;]</klr>
         sed ja ajnan karton (3, 6, 9, eventuale <tld/>on, fanton ...) de
         pikoj
         <fnt>
@@ -216,16 +214,86 @@
     <trd lng="pl">kr&oacute;l</trd>
     <trd lng="ru">&c_k;&c_o;&c_r;&c_o;&c_l;&c_mol;</trd>
   </snc>
+  <trd lng="af">koning</trd>
+  <trd lng="am">&#x1295;&#x1309;&#x1235;</trd>
+  <trd lng="ar">&a_m;&a_l;&a_k;</trd>
+  <trd lng="az">kral</trd>
+  <trd lng="bn">&#x9B0;&#x9BE;&#x99C;&#x9BE;</trd>
+  <trd lng="bo">&t_ra;&t_gata;&t_yata;&t_la;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
+  <trd lng="bs">kralj</trd>
+  <trd lng="co">re</trd>
+  <trd lng="cy">brenin</trd>
+  <trd lng="da">konge</trd>
   <trd lng="de">K&ouml;nig</trd>
   <trd lng="en">king</trd>
   <trd lng="es">rey</trd>
+  <trd lng="et">kuningas</trd>
   <trd lng="fr">roi</trd>
+  <trd lng="fy">kening</trd>
+  <trd lng="ga">r&iacute;</trd>
+  <trd lng="gd">righ</trd>
+  <trd lng="gl">rei</trd>
+  <trd lng="gu">&#xAB0;&#xABE;&#xA9C;&#xABE;</trd>
+  <trd lng="ha">sarkin</trd>
+  <trd lng="hmn">huab tais</trd>
+  <trd lng="hr">kralj</trd>
+  <trd lng="ht">wa</trd>
   <trd lng="hu">kir&aacute;ly</trd>
+  <trd lng="hy">&#x569;&#x561;&#x563;&#x561;&#x57E;&#x578;&#x580;&#x568;</trd>
   <trd lng="id">raja</trd>
+  <trd lng="ig">eze</trd>
+  <trd lng="is">konungur</trd>
+  <trd lng="ja">&#x738B; [<ind>&#x304A;&#x304A;&#x304D;&#x307F;</ind>]</trd>
+  <trd lng="ka">&#x10DB;&#x10D4;&#x10E4;&#x10D4;</trd>
+  <trd lng="kk">&c_p;&c_a;&c_t;&c_sh;&c_a;</trd>
+  <trd lng="km">&#x179F;&#x17D2;&#x178F;&#x17C1;&#x1785;</trd>
+  <trd lng="kn">&#xCB0;&#xCBE;&#xC9C;</trd>
+  <trd lng="ko">&#xC655;</trd>
+  <trd lng="ku">qiral</trd>
+  <trd lng="ky">&c_p;&c_a;&c_d;&c_y;&c_sh;&c_a;</trd>
+  <trd lng="lat">rex</trd>
+  <trd lng="lo">&#xE84;&#xEBB;&#xE99;</trd>
+  <trd lng="lt">karalius</trd>
+  <trd lng="lv">karalis</trd>
+  <trd lng="mg">mpanjaka</trd>
+  <trd lng="mi">te kingi</trd>
+  <trd lng="mk">&c_k;&c_r;&c_a;&c_l;</trd>
+  <trd lng="ml">&#xD30;&#xD3E;&#xD1C;&#xD3E;&#xD35;&#xD4D;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_a;&c_n;</trd>
+  <trd lng="mr">&#x930;&#x93E;&#x91C;&#x93E;</trd>
+  <trd lng="ms">raja</trd>
+  <trd lng="my">&#x1019;&#x1004;&#x103A;&#x1038;&#x1000;&#x103C;&#x102E;&#x1038;&#x101E;&#x100A;&#x103A;</trd>
+  <trd lng="ne">&#x930;&#x93E;&#x91C;&#x93E;</trd>
   <trd lng="nl">koning</trd>
+  <trd lng="ny">mfumu</trd>
+  <trd lng="pa">&#xA30;&#xA3E;&#xA1C;&#xA47; &#xA28;&#xA47;</trd>
+  <trd lng="ps">&f_p;&a_A;&f_ch;&a_A;</trd>
   <trd lng="pt">rei</trd>
+  <trd lng="rw">umwami</trd>
+  <trd lng="sd">&a_b;&a_A;&a_d;&a_sh;&a_A;&a_h;&a_h;</trd>
+  <trd lng="si">&#xDBB;&#xDA2;&#xDD4;</trd>
+  <trd lng="sm">tupu</trd>
+  <trd lng="sn">mambo</trd>
+  <trd lng="so">oo boqorkii</trd>
+  <trd lng="sq">mbreti</trd>
+  <trd lng="st">morena</trd>
+  <trd lng="su">raja</trd>
+  <trd lng="sw">mfalme</trd>
+  <trd lng="ta">&#xBB0;&#xBBE;&#xB9C;&#xBBE;</trd>
+  <trd lng="te">&#xC30;&#xC3E;&#xC1C;&#xC41;</trd>
+  <trd lng="tg">&c_sh;&c_o;&#x4B3;</trd>
+  <trd lng="th">&#xE01;&#xE29;&#xE31;&#xE15;&#xE23;&#xE34;&#xE22;&#xE4C;</trd>
+  <trd lng="tt">&c_p;&c_a;&c_t;&c_sh;&c_a;</trd>
+  <trd lng="uk">&c_k;&c_o;&c_r;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="ur">&a_b;&a_A;&a_d;&a_sh;&a_A;&#x6C1;</trd>
+  <trd lng="uz">qirol</trd>
+  <trd lng="vi">vua</trd>
   <trd lng="vo">reg</trd>
-  <trd lng="zh">&#29579;<klr> [w&aacute;ng]</klr></trd>
+  <trd lng="xh">ukumkani</trd>
+  <trd lng="yi">&qof;&ayin;&nun;&yod;&gimel;</trd>
+  <trd lng="yo">&#x1ECD;ba</trd>
+  <trd lng="zh">&#x738B;<klr> [w&aacute;ng]</klr></trd>
+  <trd lng="zu">inkosi</trd>
 </drv>
 
 <drv mrk="regx.0oderegxoj">
@@ -239,14 +307,14 @@
       <ekz>
         li estas Sinjoro de sinjoroj, kaj <tld lit="R"/>o de
         <tld/>oj
-        <fnt><bib>NT</bib>, <lok>&Apo; 17:14</lok></fnt>;
+        <fnt><bib>NT</bib> <lok>&Apo; 17:14</lok></fnt>;
       </ekz>
       <ekz>
-        la etiopia vic-re&gcirc;o sin opinias egala al la <tld/>o de l'
+        la etiopia vic-<tld/>o sin opinias egala al la <tld/>o de l'
         <tld/>oj
         <fnt>
           <bib>Far1</bib>
-          <lok>&Ccirc;apitro III</lok>
+          <lok>&ccirc;apitro 3a</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -256,6 +324,10 @@
     <ref tip="sin" cel="imperi.0estro">imperiestro</ref>.
     <aut>Sergio Pokrovskij</aut>
   </rim>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_a;&c_r; &c_c;&c_a;&c_r;&c_o;&c_w;</trd>,
+    <trd>&c_sh;&c_a;&c_h;&c_ib;&c_n;&c_sh;&c_a;&c_h;</trd>
+  </trdgrp>
   <trd lng="en">king of kings</trd>
   <trd lng="es">rey de reyes</trd>
   <trd lng="fr">roi des rois</trd>
@@ -278,7 +350,7 @@
       Apartenanta al <tld/>o, rilata al <tld/>o:
       <ekz>
         <ind>via <tld/>a mo&scirc;to</ind>, pardonu min
-        <fnt><bib>F</bib>, <lok>&FE; 42</lok></fnt>!
+        <fnt><bib>F</bib> <lok>&FE; 42</lok></fnt>!
         <trd lng="hu">fels&eacute;ged</trd>
       </ekz>
       <ekz>
@@ -298,24 +370,23 @@
         <tld/>a urbo
         <fnt>
           <bib>MT</bib>
-          <lok>I. Samuel 27:5</lok>
+          <lok>&Sa1; 27:5</lok>
         </fnt>;
       </ekz>
       <ekz>
         Salomono jam sidi&gcirc;is sur la <tld/>a trono
         <fnt>
           <bib>MT</bib>
-          <lok>I. Re&gcirc;oj 1:46</lok>
+          <lok>&Re1; 1:46</lok>
         </fnt>;
       </ekz>
       <ekz>
-        l<tld/>a bar&gcirc;o, kiun veturigis 78 remistoj kaj kiun komandis
+        <tld/>a bar&gcirc;o, kiun veturigis 78 remistoj kaj kiun komandis
         <tld/>ino Maria la 1a
         <fnt>
           <bib>Monato</bib>
           <aut>William Simcock</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/007873.html">Impresoj pri
+          <vrk><url ref="&Monato;/2003/007873.html">Impresoj pri
           Portugalio</url></vrk>
         </fnt>.
       </ekz>
@@ -333,6 +404,11 @@
   </trdgrp>
   <trd lng="fr">royal</trd>
   <trd lng="hu">kir&aacute;lyi</trd>
+  <trdgrp lng="ja">
+    <trd>&#x738B;&#x306E;  [<ind>&#x304A;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x56FD;&#x738B;&#x306E;  [<ind>&#x3053;&#x304F;&#x304A;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x738B;&#x7ACB;&#x306E;  [<ind>&#x304A;&#x3046;&#x308A;&#x3064;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">koninklijk</trd>
   <trd lng="pl">kr&oacute;lewski</trd>
   <trdgrp lng="pt">
@@ -345,6 +421,10 @@
     &c_k;&c_o;&c_r;&c_o;&c_l;&c_je;&c_v;&c_s;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_c;&c_a;&c_r;&c_s;&c_k;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_c;&c_a;&c_r;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&#x43E;&#x43B;&c_ib;&c_v;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="regx.0i">
@@ -354,24 +434,25 @@
     <dif>
       Esti <tld/>o, posedi la <tld/>an potencon:
       <ekz>
-        la tempo, dum kiu Salomono <tld/>is en Jerusalem super
-        la tuta Izrael, estis kvardek jaroj
+        la tempo, dum kiu Salomono <tld/>is en <nom>Jerusalem</nom> super
+        la tuta <nom>Izrael</nom>, estis kvardek jaroj
         <fnt><bib>MT</bib>, <lok>&Re1; 11:42</lok></fnt>;
-      </ekz><ekz>
-        tiu A&hcirc;a&scirc;vero&scirc;, kiu <tld/>is de Hindujo &gcirc;is Etiopujo, super
+      </ekz>
+      <ekz>
+        tiu <nom>A&hcirc;a&scirc;vero&scirc;</nom>, kiu <tld/>is de Hindujo &gcirc;is Etiopujo, super
         127 landoj
-        <fnt><bib>MT</bib>, <lok>&Est; 1:1</lok></fnt>;
-      </ekz><ekz>
+        <fnt><bib>MT</bib> <lok>&Est; 1:1</lok></fnt>;
+      </ekz>
+      <ekz>
         anstata&ubreve; li ek<tld/>is lia filo Asa
-        <fnt><bib>MT</bib>, <lok>&Re1; 15:8</lok></fnt>;
+        <fnt><bib>MT</bib> <lok>&Re1; 15:8</lok></fnt>;
       </ekz>
       <ekz>
         en la Respubliko <klr>[de Amba&ubreve; Nacioj]</klr> <tld/>o <tld/>as
-        sed ne regas 
+        sed ne regas
         <fnt>
           <bib>Viki</bib>,
-          <vrk><url
-          ref="https://eo.wikipedia.org/wiki/Respubliko_de_Amba%C5%AD_Nacioj">Respubliko
+          <vrk><url ref="&Viki;/Respubliko_de_Amba%C5%AD_Nacioj">Respubliko
             de Amba&ubreve; Nacioj</url></vrk>
         </fnt>;
       </ekz>
@@ -418,9 +499,11 @@
       <ref tip="dif" cel="reg.0i.FIG_iun">Regi <sncref/></ref>:
       <ekz>
         tie la akvoj <tld/>as<fnt>B</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <tld/>is plena malla&ubreve;to<fnt>B</fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         la frazo <tld/>as super la spiritoj de la homoj
       </ekz>
       <ekz>
@@ -428,16 +511,13 @@
          morto
         <fnt>
           <aut>Nikolaj Afrikanovi&ccirc; Borovko</aut>
-          <vrk><url
-          ref="http://www.esperanto.net/literaturo/noveloj/01.html">En
+          <vrk><url ref="http://www.esperanto.net/literaturo/noveloj/01.html">En
           la Tombo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
-    <trdgrp lng="id">
-      <trd>[<ind>atur</ind>] mengatur</trd>,
-      <trd>[<ind>kuasa</ind>] menguasai</trd>
-    </trdgrp>
+    <trd lng="id">meng<ind>atur</ind></trd>
+    <trd lng="id"><baz>kuasa</baz>menguasai</trd>
     <trdgrp lng="pl">
       <trd>kr&oacute;lowa&cacute;</trd>,
       <trd>panowa&cacute;</trd>,
@@ -462,7 +542,129 @@
   </trdgrp>
   <trd lng="fr">r&eacute;gner</trd>
   <trd lng="hu">uralkodik</trd>
+  <trdgrp lng="ja">
+    <trd>&#x541B;&#x81E8;&#x3059;&#x308B;  [<ind>&#x304F;&#x3093;&#x308A;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x738B;&#x4F4D;&#x306B;&#x3042;&#x308B;  [<ind>&#x304A;&#x3046;&#x3044;&#x306B;&#x3042;&#x308B;</ind>]</trd>,
+    <trd>&#x652F;&#x914D;&#x3059;&#x308B;  [<ind>&#x3057;&#x306F;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">regeren</trd>
+  <trdgrp lng="uk">
+    <trd>&c_c;&c_a;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_a;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regx.0ido">
+  <kap><ofc>*</ofc><tld/>ido</kap>
+  <snc>
+    <dif>
+      Filo de <tld/>o:
+      <ekz>
+        estis iam <tld/>ido, kiu volis edzi&gcirc;i kun <tld/>idino
+        <fnt><bib>Fab1</bib>
+        <lok>Re&gcirc;idino sur pizo</lok></fnt>;
+      </ekz>
+      <ekz>
+        budho en la sanskrita signifas &leftquot;veki&gcirc;inta&rightquot;, <klr>[&gcirc;i]</klr>
+        estis la kromnomo de la <tld/>ido <nom>Siddharta Gotama</nom> (623-544
+        a.K.)
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dina Newman kaj Firda&ubreve;s &Scirc;ukurov</aut>
+          <vrk><url ref="&Monato;/2008/009332.php">Budhismo en
+          Ta&gcirc;ikio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_l;&c_je;&c_v;&c_ib;&c_ch;</trd>,
+    <trd>&c_c;&c_a;&c_r;&c_e;&c_v;&c_ib;&c_ch;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_n;&c_c;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>K&ouml;nigssohn</trd>,
+    <trd>Prinz<klr> (K&ouml;nigssohn)</klr></trd>
+  </trdgrp>
+  <trd lng="en">prince</trd>
+  <trd lng="es">pr&iacute;ncipe</trd>
+  <trd lng="fr">prince<klr> (fils de roi)</klr></trd>
+  <trd lng="hu">kir&aacute;lyfi</trd>
+  <trd lng="id">pangeran</trd>
+  <trd lng="ja">&#x738B;&#x5B50;  [<ind>&#x304A;&#x3046;&#x3058;</ind>]</trd>
+  <trd lng="nl">koningszoon</trd>
+  <trd lng="pl">kr&oacute;lewicz</trd>
+  <trd lng="pt">pr&iacute;ncipe</trd>
+  <trd lng="ru">&c_k;&c_o;&c_r;&c_o;&c_l;&c_je;&c_v;&c_i;&c_ch;</trd>
+  <trd lng="uk">&#x43A;&#x43E;&c_r;&#x43E;&#x43B;&c_je;&c_v;&c_i;&c_ch;</trd>
+</drv>
+
+<drv mrk="regx.0idino">
+  <kap><tld/>idino</kap>
+  <snc>
+    <dif>
+      Filino de <tld/>o:
+      <ekz>
+        en sia plena ornamo estas interne la <tld/>idino,
+        el ora teksa&jcirc;o estas &scirc;ia vesto
+        <fnt><bib>MT</bib>, <lok>&Psa; 45:13</lok></fnt>;
+      </ekz><ekz>
+        &ccirc;ar la pli a&gcirc;aj filoj de l' faraono, naskitaj de
+        la <tld/>idino de <nom>&Hcirc;iti</nom>, pro neklarigebla sor&ccirc;o
+        estis posedataj de malbona spirito
+        <fnt><bib>Far1</bib> <lok>&ccirc;apitro 1a.</lok></fnt>;
+      </ekz><ekz>
+        mi edzinigis al mi tri <tld/>idinojn de orientaj regnoj
+        <fnt>
+         <aut>K. &Ccaron;apek, trad. J. Vondrou&scaron;ek</aut>:
+          <vrk>Aleksandro la Granda</vrk>,
+          <lok>Libro de apokrifoj</lok>
+        </fnt>;
+      </ekz><ekz>
+        sur la balkonoj staris <tld/>idinoj, kaj &ccirc;iuj ili
+        estis malgrandaj knabinoj, kiujn <nom>Hjalmar</nom> tre bone konis
+        <fnt><bib>Fab2</bib> <lok>Dio de dormo</lok></fnt>;
+      </ekz>
+      <ekz>
+        pro la <tld/>idina naturo de <nom>Antigona</nom>, ili timas &scirc;in mortigi
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Donald Broadribb</aut>
+          <vrk><url ref="&Monato;/2012/010433.php">Antikva
+          dramo en moderna vesto ankora&ubreve; trafas</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_n;&c_c;&c_e;&c_s;&c_a;</trd>,
+    <trd>&c_c;&c_a;&c_r;&c_e;&c_w;&c_n;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_l;&c_je;&c_w;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>K&ouml;nigstochter</trd>,
+    <trd>Prinzessin<klr> (K&ouml;nigstochter)</klr></trd>
+  </trdgrp>
+  <trd lng="en">princess</trd>
+  <trdgrp lng="es">
+    <trd>princesa</trd>,
+    <trd>infanta</trd>
+  </trdgrp>
+  <trd lng="fr">princesse</trd>
+  <trd lng="hu">kir&aacute;lyl&aacute;ny</trd>
+  <trd lng="id">putri</trd>
+  <trd lng="ja">&#x738B;&#x5973;  [<ind>&#x304A;&#x3046;&#x3058;&#x3087;</ind>]</trd>
+  <trd lng="nl">koningsdochter</trd>
+  <trd lng="pl">kr&oacute;lewna</trd>
+  <trd lng="pt">princesa</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_r;&c_o;&c_l;&c_je;&c_v;&c_n;&c_a;</trd>,
+    <trd>&c_c;&c_a;&c_r;&c_je;&c_v;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_c;&c_a;&c_r;&c_ib;&c_v;&#x43D;&c_a;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&#x43E;&#x43B;&c_ib;&c_v;&#x43D;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="regx.0ino">
@@ -471,10 +673,10 @@
     <dif>
       Virino, kiu <tld/>as:
       <ekz>
-        la <tld/>ino de &Scirc;eba a&ubreve;dis la famon pri Salomono
+        la <tld/>ino de <nom>&Scirc;eba</nom> a&ubreve;dis la famon pri Salomono
         <fnt>
           <bib>MT</bib>
-          <lok>I. Re&gcirc;oj 10:1</lok>
+          <lok>&Re1; 10:1</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -505,10 +707,10 @@
     <dif>
       La edzino de <tld/>o:
       <ekz>
-        la re&gcirc;o ekamis Esteron <klr>[&#8230;]</klr> kaj faris &scirc;in <tld/>ino
+        la re&gcirc;o ekamis Esteron <klr>[&#x2026;]</klr> kaj faris &scirc;in <tld/>ino
         <fnt>
           <bib>MT</bib>
-          <lok>Ester 2:17</lok>
+          <lok>&Est; 2:17</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -549,8 +751,7 @@
         &scirc;ako de freneza <tld/>ino
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=4074">&Scirc;ako</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4074">&Scirc;ako</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -623,114 +824,69 @@
     </trdgrp>
     <trd lng="ru">&c_d;&c_a;&c_m;&c_a;<klr> (&c_v; &c_k;&c_a;&c_r;&c_t;&c_a;&c_h;)</klr></trd>
   </snc>
+  <trd lng="bo">&t_da;&t_ba;&t_nga;&t_tsheg;&t_ma;&t_naro;&t_tsheg;</trd>
   <trd lng="de">K&ouml;nigin</trd>
   <trd lng="en">queen</trd>
   <trd lng="es">reina</trd>
   <trd lng="fr">reine</trd>
   <trd lng="fy">keningin</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5973;&#x738B;  [<ind>&#x3058;&#x3087;&#x304A;&#x3046;</ind>]</trd>,
+    <trd>&#x738B;&#x5983;  [<ind>&#x304A;&#x3046;&#x3072;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">koningin</trd>
+  <trdgrp lng="uk">
+    <trd>&c_c;&c_a;&c_r;&c_i;&c_c;&#x44F;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&#x43E;&#x43B;&c_je;&c_v;&c_a;</trd>
+  </trdgrp>
   <trd lng="vo">jireg</trd>
 </drv>
 
-<drv mrk="regx.0ido">
-  <kap><ofc>*</ofc><tld/>ido</kap>
-  <snc>
+<drv mrk="regx.0ismo">
+  <kap>
+    <tld/>ismo
+  </kap>
+  <snc mrk="regx.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
     <dif>
-      Filo de <tld/>o:
+      Politika re&gcirc;imo de regno kies suvereno <tld/>as,
+      formo de <ref tip="super" cel="monarh.0ismo">monarkismo</ref>;
+      <ref tip="sin" cel="rojali.0o">rojalismo</ref>:
       <ekz>
-        estis iam <tld/>ido, kiu volis edzi&gcirc;i kun <tld/>idino
-        <fnt><bib>Fab1</bib>,
-        <lok>re&gcirc;idino sur pizo</lok></fnt>;
-      </ekz>
-      <ekz>
-        budho en la sanskrita signifas &leftquot;veki&gcirc;inta&rightquot;, <klr>[&gcirc;i]</klr>
-        estis la kromnomo de la <tld/>ido Siddharta Gotama (623-544
-        a.K.)
+        la batalo de la germana, aparte de la prusa bur&gcirc;aro kontra&ubreve; la fe&ubreve;distoj kaj la
+        absoluta <tld/>ismo, unuvorte la liberala movado, pliseriozi&gcirc;is
         <fnt>
-          <bib>Monato</bib>
-          <aut>Dina Newman kaj Firda&ubreve;s &Scirc;ukurov</aut>
-          <vrk><url ref="&Monato;/2008/009332.php">Budhismo en
-          Ta&gcirc;ikio</url></vrk>
+          <aut>K. Markso, F. Engelso, trad. D. Blanke</aut>
+          <vrk><url ref="https://www.marxists.org/esperanto/marx-engels/1848/manifesto/manifesto-2011-01-07.pdf">
+          Manifesto de la Komunista Partio</url></vrk>
+          <lok>1990</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trdgrp lng="be">
-    <trd>&c_k;&c_a;&c_r;&c_a;&c_l;&c_je;&c_v;&c_ib;&c_ch;</trd>,
-    <trd>&c_c;&c_a;&c_r;&c_e;&c_v;&c_ib;&c_ch;</trd>
+  <trd lng="be">&c_r;&c_a;&c_ja;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>monarchizmus</trd>,
+    <trd>roajalizmus</trd>,
+    <trd>royalizmus</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>K&ouml;nigssohn</trd>,
-    <trd>Prinz<klr> (K&ouml;nigssohn)</klr></trd>
+  <trd lng="de">Royalismus</trd>
+  <trd lng="en">royalism</trd>
+  <trd lng="fr">royalisme</trd>
+  <trdgrp lng="hu">
+    <trd>kir&aacute;lyp&aacute;rtis&aacute;g</trd>,
+    <trd>royalizmus</trd>
   </trdgrp>
-  <trd lng="en">prince</trd>
-  <trd lng="es">pr&iacute;ncipe</trd>
-  <trd lng="fr">prince<klr> (fils de roi)</klr></trd>
-  <trd lng="hu">kir&aacute;lyfi</trd>
-  <trd lng="id">pangeran</trd>
-  <trd lng="nl">koningszoon</trd>
-  <trd lng="pl">kr&oacute;lewicz</trd>
-  <trd lng="pt">pr&iacute;ncipe</trd>
-  <trd
-  lng="ru">&c_k;&c_o;&c_r;&c_o;&c_l;&c_je;&c_v;&c_i;&c_ch;</trd>
-</drv>
-
-<drv mrk="regx.0idino">
-  <kap><tld/>idino</kap>
-  <snc>
-    <dif>
-      Filino de <tld/>o:
-      <ekz>
-        en sia plena ornamo estas interne la <tld/>idino,
-        el ora teksa&jcirc;o estas &scirc;ia vesto
-        <fnt><bib>MT</bib>, <lok>&Psa; 45:13</lok></fnt>;
-      </ekz><ekz>
-        &ccirc;ar la pli a&gcirc;aj filoj de l' faraono, naskitaj de
-        la <tld/>idino de &Hcirc;iti, pro neklarigebla sor&ccirc;o
-        estis posedataj de malbona spirito
-        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 1a.</lok></fnt>;
-      </ekz><ekz>
-        mi edzinigis al mi tri <tld/>idinojn de orientaj regnoj
-        <fnt>
-         <aut>Karel &Ccaron;apek, tr. Josef Vondrou&scaron;ek</aut>:
-          <vrk>Aleksandro la Granda</vrk>,
-          <lok>Libro de apokrifoj</lok>
-        </fnt>;
-      </ekz><ekz>
-        sur la balkonoj staris <tld/>idinoj, kaj &ccirc;iuj ili
-        estis malgrandaj knabinoj, kiujn Hjalmar tre bone konis
-        <fnt><bib>Fab2</bib>, <lok>Dio de dormo</lok></fnt>;
-      </ekz>
-      <ekz>
-        pro la <tld/>idina naturo de Antigona, ili timas &scirc;in mortigi
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Donald Broadribb</aut>
-          <vrk><url ref="&Monato;/2012/010433.php">Antikva 
-          dramo en moderna vesto ankora&ubreve; trafas</url></vrk>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="de">
-    <trd>K&ouml;nigstochter</trd>,
-    <trd>Prinzessin<klr> (K&ouml;nigstochter)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>royalisme</trd>,
+    <trd>koningsgezindheid</trd>
   </trdgrp>
-  <trd lng="en">princess</trd>
-  <trdgrp lng="es">
-    <trd>princesa</trd>,
-    <trd>infanta</trd>
+  <trdgrp lng="pt">
+    <trd>realismo</trd>,
+    <trd>monarquismo</trd>
   </trdgrp>
-  <trd lng="fr">princesse</trd>
-  <trd lng="hu">kir&aacute;lyl&aacute;ny</trd>
-  <trd lng="id">putri</trd>
-  <trd lng="nl">koningsdochter</trd>
-  <trd lng="pl">kr&oacute;lewna</trd>
-  <trd lng="pt">princesa</trd>
-  <trdgrp lng="ru">
-    <trd>&c_k;&c_o;&c_r;&c_o;&c_l;&c_je;&c_v;&c_n;&c_a;</trd>,
-    <trd>&c_c;&c_a;&c_r;&c_je;&c_v;&c_n;&c_a;</trd>
-  </trdgrp>
+  <trd lng="ru">&c_r;&c_o;&c_ja;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">royalizmus</trd>
 </drv>
 
 <drv mrk="regx.0lando">
@@ -744,7 +900,7 @@
         <klr>(Persujo)</klr>;
       </ekz>
       <ekz>
-         mi salutas la saksan re&gcirc;landon, kiu <klr>[&#8230;]</klr> aran&gcirc;is
+         mi salutas la saksan re&gcirc;landon, kiu <klr>[&#x2026;]</klr> aran&gcirc;is
          belan akcepton
         <fnt>
           <bib>Paroloj</bib>
@@ -753,12 +909,11 @@
         </fnt>;
       </ekz>
       <ekz>
-        en la nordo li <klr>(imperiestro Pa&ccirc;akutek)</klr>
-        konkeris la <tld/>ujojn &Ccirc;imuan kaj de Kito
+        en la nordo li <klr>(imperiestro <nom>Pa&ccirc;akutek</nom>)</klr>
+        konkeris la <tld/>ujojn <nom>&Ccirc;imuan</nom> kaj de Kito
         <fnt>
           <bib>Viki</bib>,
-          <vrk><url
-          ref="https://eo.wikipedia.org/wiki/Pacha_Kutiq">Pacha
+          <vrk><url ref="&Viki;/Pacha_Kutiq">Pacha
           Kutiq</url></vrk>
         </fnt>.
       </ekz>
@@ -774,8 +929,9 @@
   <trd lng="fr">royaume</trd>
   <trd lng="fy">keninkryk</trd>
   <trd lng="hu">kir&aacute;lys&aacute;g</trd>
-  <trd lng="id">[<ind>raja</ind>] kerajaan</trd>
+  <trd lng="id">ke<ind>raja</ind>an</trd>
   <trd lng="io">rejio</trd>
+  <trd lng="ja">&#x738B;&#x56FD;  [<ind>&#x304A;&#x3046;&#x3053;&#x304F;</ind>]</trd>
   <trd lng="nl">koninkrijk</trd>
   <trd lng="pl">kr&oacute;lestwo</trd>
   <trd lng="pt">reino</trd>
@@ -783,120 +939,91 @@
     <trd>&c_k;&c_o;&c_r;&c_o;&c_l;&c_je;&c_v;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&c_r;&#x43E;&#x43B;&c_ib;&c_v;&c_s;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&#x43E;</trd>
+  </trdgrp>
   <trd lng="vo">reg&auml;n</trd>
 </drv>
-  </art>
+
+<drv mrk="regx.Karlo0o">
+  <kap>
+    Karlo<tld/>o
+  </kap>
+  <snc mrk="regx.Karlo0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      La urbo <nom>Charleroi</nom> en la belga provinco
+      <ref tip="malprt" cel="henegov.H0o">Henegovio</ref>, &ccirc;e la bordo
+      de la rivero <ref tip="vid" cel="sambr.S0o">Sambro</ref> (4&#x2DA;29'E,
+      50&#x2DA;25'N):
+      <ekz>
+        allogaj festoj, organizotaj de la Karlo<tld/>a grupo
+        <fnt>
+          <vrk><url ref="https://archive.org/stream/BelgaEsperantisto_1911_n031_maj/BelgaEsperantisto_(1911)_n031_maj_djvu.txt">Belga
+          Esperantisto n-ro 31 (maj 1911)</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        butikisto el Karlo<tld/>o en la sudo de Belgio fiksis &scirc;telinton al lanterna fosto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>pp</aut>
+          <vrk><url ref="&Monato;/2009/009703.php">Pilorio senpolica</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Tia la&ubreve;vorta traduko de loknomo kontra&ubreve;as al la reguloj 11 kaj 15 de la
+      Fundamenta Gramatiko. Ja ne temas pri re&gcirc;o, sed urbo. Pli ta&ubreve;gaj
+      esperantigoj estas &leftquot;&Ccirc;arlerojo&rightquot;:
+      <ekz>
+        regulaj flugoj de Parizo, Amsterdamo, <ind>&Ccirc;arlerojo</ind>
+        <fnt>
+          <vrk><url ref="https://satesperanto.org/spip.php?article1260">Kongreso de SAT-Amikaro -
+          Informo</url></vrk>
+        </fnt>;
+        <trd lng="be">&c_Sh;&c_a;&c_r;&c_l;&c_je;&c_r;&c_u;&c_a;</trd>
+        <trd lng="ca">Charleroi</trd>
+        <trd lng="es">Charleroy</trd>
+        <trd lng="de">Charleroi</trd>
+        <trd lng="fr">Charleroi</trd>
+        <trd lng="hu">Charleroi</trd>
+        <trd lng="nl">Charleroi</trd>
+        <trd lng="pl">Charleroi</trd>
+        <trd lng="pt">Charleroi</trd>
+        <trd lng="ro">Charleroi</trd>
+        <trd lng="ru">&c_Sh;&c_a;&c_r;&c_l;&c_je;&c_r;&c_u;&c_a;</trd>
+      </ekz> a&ubreve; &leftquot;<esc>&Scirc;arlervao</esc>&rightquot;.
+    </rim>
+  </snc>
+</drv>
+</art>
   <!--
   $Log$
-  Revision 1.55  2019/07/04 15:10:37  revo
-  Aleks Andre: +trd hi
+versio 1.137 2023/09/10 15:34:09
+revo: korekto de transskribo
 
-  Revision 1.54  2019/07/02 17:10:29  revo
-  Aleks Andre: zh: regxo
+versio 1.135 2023/08/29 12:44:26
+Wolfram Diestel: ja: +prononco
 
-  Revision 1.53  2019/06/30 18:21:49  revo
-  adaptis URL de Monato
+versio 1.134 2022/09/05 09:33:35
+Dmitri Gabinski: + trd be
 
-  Revision 1.52  2019/06/30 07:43:29  revo
-  adaptis URL de Monato
+versio 1.133 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
 
-  Revision 1.51  2018/03/26 19:10:13  revo
-  Wolfram Diestel: prilaboris ekz-ojn (cetero)
+versio 1.130 2022/03/16 20:45:12
+Jeromo Vasxe: + ~ismo
 
-  Revision 1.50  2018/03/25 18:10:14  revo
-  Wolfram Diestel: ~o: difino gheneraligita iom, prilaboris ekz-ojn
+versio 1.129 2021/11/15 07:29:19
+Dmitri Gabinski: + trd be
 
-  Revision 1.49  2017/12/23 07:10:13  revo
-  Guillermo Molleda Jimena: trd es
+versio 1.58 2021/04/17 14:48:42
+Wolfram Diestel: +Karloregho (forigonte ties apartan artikolon)
 
-  Revision 1.48  2017/12/19 15:10:19  revo
-  Robin van der Vliet: +regxino (sxaka), +trd
-
-  Revision 1.47  2016/05/12 16:10:17  revo
-  Sergio Pokrovskij: +ekz
-
-  Revision 1.46  2014/06/30 12:10:11  revo
-  Eko Nur Syah Hidayat: +id
-
-  Revision 1.45  2011/08/24 07:10:17  revo
-  Sebastian Cyprych: +trd pl; +ref al kartoj
-
-  Revision 1.44  2009/07/02 16:30:56  revo
-  Paul Peeraerts: +trd nl
-
-  Revision 1.43  2008/06/17 16:30:35  revo
-  Sebastian Cyprych: +ref al damo; kor trd pl
-
-  Revision 1.42  2008/06/12 19:06:54  revo
-  Sebastian Cyprych: +trd pl
-
-  Revision 1.41  2008/06/10 16:30:18  revo
-  Carlos Garcia: +trd "es" -idino
-
-  Revision 1.40  2008/06/06 16:30:17  revo
-  Sergio Pokrovskij: kor trd=ru, +rim
-
-  Revision 1.39  2008/05/16 16:31:21  revo
-  Carlos Garcia: +trd "es" -i ankaux mi forigas tradukon ripetitan de la
-  germana cxe -i
-
-  Revision 1.38  2008/03/28 17:30:25  revo
-  Felix Gagne: +trd fr > ~idino
-
-  Revision 1.37  2007/11/22 17:30:48  revo
-  Miguel Hernandez: +trd es
-
-  Revision 1.36  2007/09/13 16:30:14  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.35  2007/09/11 16:30:22  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.34  2007/07/24 19:11:59  revo
-  Sergio Pokrovskij: +~ujo
-
-  Revision 1.33  2007/06/10 16:32:00  revo
-  Russ Williams: +trd en
-
-  Revision 1.32  2007/03/17 17:30:17  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.31  2007/01/31 17:30:31  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.30  2006/10/12 16:30:29  revo
-  Wieland Pusch: +trd de
-
-  Revision 1.29  2006/09/02 20:22:42  revo
-  Wieland Pusch: +trd de
-
-  Revision 1.28  2006/02/19 17:32:08  revo
-  Tulio Flores: +trd pt
-
-  Revision 1.27  2005/12/21 17:32:47  revo
-  Sergio Pokrovskij: +~idino, ekz
-
-  Revision 1.26  2005/04/28 16:34:05  revo
-  Raul Salinas Monteagudo: korekto trd es
-
-  Revision 1.25  2004/12/18 19:19:30  revo
-  Jeromo Vasxe: + ~o de ~oj
-
-  Revision 1.24 2004/09/18 16:32:34 revo
-  Marc Bavant: kor duobligitan punkton
-
-  Revision 1.23 2004/09/06 16:35:03 revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.22 2004/08/29 16:31:55 revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.21 2004/07/06 16:34:43 revo
-  jxeromo vasxe: + ekz el fundam., + fak spo, + mrk, + trd fr
-
-  Revision 1.20 2003/03/04 17:32:22 revo
-  Ulrich Fellmann: + 2 trd=vo
-
-  Revision 1.19 2002/10/24 20:00:07 revo
-  -->
+versio 1.57 2020/05/05 09:10:27
+-->
 </vortaro>

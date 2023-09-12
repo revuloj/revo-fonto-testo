@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cirkul.xml,v 1.17 2009/08/14 16:31:01 revo Exp $">
+<art mrk="$Id: cirkul.xml,v 1.29 2023/08/31 10:10:27 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>cirkul</rad>/i <fnt><bib>PV</bib></fnt>
@@ -35,7 +34,7 @@
       <dif>
         Da&ubreve;re, rondire, cikle movi&gcirc;i (kutime pri io likva,
         gasa,
-        nenombreble masa &#8208; a&ubreve; ara, kolektiva, amasa):
+        nenombreble masa &#x2010; a&ubreve; ara, kolektiva, amasa):
         <ekz>
           la sango <tld/>as de la koro al la koro tra la pulmoj;
         </ekz>
@@ -53,8 +52,7 @@
       </trdgrp>
       <trdgrp lng="ru">
         <trd>&c_c;&c_i;&c_r;&c_k;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
-        <trd>&c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr
-        tip="ind">
+        <trd>&c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr tip="ind">
         (&c_c;&c_i;&c_r;&c_k;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;)</klr></trd>
       </trdgrp>
     </subsnc>
@@ -103,7 +101,7 @@
         La subjekto de <tld/>i normale estas nenombrebla a&ubreve;
         kolektiva nomo, tial la movi&gcirc;o <ctl>tien kaj reen</ctl>
         povas koncerni diversajn objektojn: unu objekto movi&gcirc;as
-        <ctl>tien</ctl>, alia <ctl>reen</ctl> &#8208; kaj kvankam
+        <ctl>tien</ctl>, alia <ctl>reen</ctl> &#x2010; kaj kvankam
         &ccirc;iu el
         ili movi&gcirc;as en sia unu direkto, la tuta amaso entenas
         movojn
@@ -116,7 +114,7 @@
         </ekz>
         Adresite al unuopa pasanto tio devus signifi, la&ubreve; la
         propra
-        difino de PIV2, <ctl>Movu vin tien kaj reen!</ctl> &#8208; dum la
+        difino de PIV2, <ctl>Movu vin tien kaj reen!</ctl> &#x2010; dum la
         normala maniero esprimi la intencatan sencon estus:
         <ekz>
           estas malpermesite stari &ccirc;i tie:
@@ -158,16 +156,32 @@
     <trd>avoir cours<klr> (monnaie...)</klr></trd>,
     <trd>circuler</trd>
   </trdgrp>
+  <trdgrp lng="he">
+    <trd>&#x5DC;&#x5E1;&#x5D5;&#x5D1;&#x5D1;</trd>,
+    <trd>&#x5DC;&#x5D4;&#x5E7;&#x5D9;&#x5E3;</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>kering</trd>,
     <trd>cirkul&aacute;l</trd>,
     <trd>k&ouml;zlekedik</trd>
   </trdgrp>
   <trd lng="it">circolare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5FAA;&#x74B0;&#x3059;&#x308B;  [<ind>&#x3058;&#x3085;&#x3093;&#x304B;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5F80;&#x6765;&#x3059;&#x308B;  [<ind>&#x304A;&#x3046;&#x3089;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6D41;&#x901A;&#x3059;&#x308B;  [<ind>&#x308A;&#x3085;&#x3046;&#x3064;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">circular</trd>
   <trdgrp lng="sk">
     <trd>cirkulova&tcaron;</trd>,
     <trd>obieha&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x446;&#x438;&#x440;&#x43A;&#x443;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x443;&#x445;&#x430;&#x442;&#x438;&#x441;&#x44F; &#x43F;&#x43E; &#x43A;&#x43E;&#x43B;&#x443;</trd>,
+    <trd>&#x43A;&#x440;&#x443;&#x436;&#x43B;&#x44F;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x443;&#x445;&#x430;&#x442;&#x438;&#x441;&#x44F; &#x432;&#x437;&#x430;&#x434; &#x456; &#x432;&#x43F;&#x435;&#x440;&#x435;&#x434;</trd>,
+    <trd>&#x43E;&#x431;&#x435;&#x440;&#x442;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -185,8 +199,7 @@
         reguligi la <tld/>adon de akvo surtera kaj subtera
         <fnt>
         <aut>Zuo Yan</aut>,
-        <vrk><url
-        ref="http://www.espero.com.cn/08h/08h-03/2003-08h-3-6.htm">
+        <vrk><url ref="http://www.espero.com.cn/08h/08h-03/2003-08h-3-6.htm">
         Mediprotektado de mar&ccirc;o Lalu</url></vrk>
         <lok>2004</lok>
         </fnt>;
@@ -220,19 +233,25 @@
   <trd lng="en">circulation</trd>
   <trd lng="es">circulaci&oacute;n</trd>
   <trd lng="fr">circulation</trd>
+  <trd lng="he">&#x5DE;&#x5D7;&#x5D6;&#x5D5;&#x5E8;</trd>
   <trdgrp lng="hu">
     <trd>kering&eacute;s</trd>,
     <trd>cirkul&aacute;ci&oacute;</trd>,
     <trd>k&ouml;zleked&eacute;s</trd>
   </trdgrp>
   <trd lng="it">circolazione</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5FAA;&#x74B0;  [<ind>&#x3058;&#x3085;&#x3093;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x5F80;&#x6765;  [<ind>&#x304A;&#x3046;&#x3089;&#x3044;</ind>]</trd>,
+    <trd>&#x6D41;&#x901A;  [<ind>&#x308A;&#x3085;&#x3046;&#x3064;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>cyrkulacja</trd>,
     <trd>kr&aogonek;&zdot;enie</trd>,
     <trd>obieg</trd>
   </trdgrp>
   <trd lng="pt">circula&ccedil;&atilde;o</trd>
-  <trd lng="ro">circula&tcedil;ie</trd>
+  <trd lng="ro">circula&#x21B;ie</trd>
   <trdgrp lng="ru">
     <trd>&c_c;&c_i;&c_r;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>,
     <trd>&c_o;&c_b;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
@@ -247,6 +266,11 @@
     <trd>cirkulace</trd>,
     <trd>kolob&ecaron;h</trd>,
     <trd>ob&ecaron;h</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x446;&#x438;&#x440;&#x43A;&#x443;&#x43B;&#x44F;&#x446;&#x456;&#x44F;</trd>,
+    <trd>&#x43E;&#x431;&#x456;&#x433;</trd>,
+    <trd>&#x440;&#x443;&#x445;</trd>
   </trdgrp>
 </drv>
 
@@ -263,14 +287,14 @@
         de turfalko
         <fnt>
           <aut>Pola Radio</aut>,
-          <vrk><url
-          ref="http://www.polskieradio.pl/eo/dokument.aspx?iid=52118">
+          <vrk><url ref="http://www.polskieradio.pl/eo/dokument.aspx?iid=52118">
           Trarigardo de la Esperanto Gazetaro</url></vrk>,
           <lok>2007-05-08</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_u;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; &c_u; <ind>&c_a;&c_b;&c_a;&c_r;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   <trd lng="ca">posar en <ind>circulaci&oacute;</ind></trd>
   <trd lng="de">in <ind>Verkehr</ind> bringen</trd>
   <trd lng="fr">mettre en <ind>circulation</ind></trd>
@@ -304,6 +328,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_r;&c_o;&c_v;&c_a;&c_z;&c_v;&c_a;&c_r;&c_o;&c_t;</trd>
   <trd lng="ca">circulaci&oacute; sangu&iacute;nia</trd>
   <trd lng="cs">krevn&iacute; ob&ecaron;h</trd>
   <trdgrp lng="de">
@@ -313,6 +338,7 @@
   <trd lng="en">blood circulation</trd>
   <trd lng="fr">circulation sanguine</trd>
   <trd lng="it"><ind>circolazione</ind> sanguigna</trd>
+  <trd lng="ja">&#x8840;&#x6DB2;&#x5FAA;&#x74B0;  [<ind>&#x3051;&#x3064;&#x3048;&#x304D;&#x3058;&#x3085;&#x3093;&#x304B;&#x3093;</ind>]</trd>
   <trd lng="pl">kr&aogonek;&zdot;enie<klr tip="amb"> krwi</klr></trd>
   <trd lng="ru">&c_k;&c_r;&c_o;&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">krvn&yacute; obeh</trd>
@@ -320,6 +346,9 @@
 </art>
 <!--
 $Log$
+versio 1.27 2022/03/11 07:28:47
+Dmitri Gabinski: + trd be
+
 Revision 1.24  2017/03/01 20:10:16  revo
 Wolfram Diestel: shovo de tr-oj al ghusta loko, +germ trd-oj
 

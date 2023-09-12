@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: benin.xml,v 1.2 2009/05/08 16:30:28 revo Exp $">
+<art mrk="$Id: benin.xml,v 1.14 2023/08/31 08:48:50 revo Exp $">
 <kap>
   <rad>Benin</rad>/o
   <fnt><bib>RLN</bib></fnt>
@@ -31,11 +30,11 @@
         en februaro datrevene konferencis en <tld/>o politikistoj, sociologoj
         kaj aliaj eminentuloj por konsideri dek jarojn da &scirc;an&gcirc;oj en Afriko
         <fnt>
-          <bib>Monato</bib>
           <aut>Christian Fabossou</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007042.html"
-              >Afriko: &Scirc;an&gcirc;oj &dash; ankora&ubreve; ne sufi&ccirc;aj</url></vrk>
-        </fnt>;
+            <vrk><url ref="&Monato;/2000/007042.php">&Scirc;an&gcirc;oj -- ankora&ubreve; ne sufi&ccirc;aj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 7</lok>
+          </fnt>;
       </ekz>
       <ekz>
         la bronzaj plaka&jcirc;oj, kiuj ornamis palacon en <nom>Oba</nom> (<tld/>o) montras, ke
@@ -43,8 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref="https://www.monato.be/2006/008835.php"
-              >500 &ccirc;efverkoj en Monako</url></vrk>
+          <vrk><url ref="&Monato;/2006/008835.php">500 &ccirc;efverkoj en Monako</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -53,8 +51,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref="https://www.monato.be/2006/008835.php"
-              >500 &ccirc;efverkoj en Monako</url></vrk>
+          <vrk><url ref="&Monato;/2006/008835.php">500 &ccirc;efverkoj en Monako</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -67,7 +64,9 @@
     <trd>B&eacute;nin</trd>,
     <trd>R&eacute;publique du B&eacute;nin</trd>
   </trdgrp>
+  <trd lng="he">&#x5D1;&#x5E0;&#x5D9;&#x5DF;</trd>
   <trd lng="id">Benin</trd>
+  <trd lng="ja">&#x30D9;&#x30CA;&#x30F3;</trd>
   <trdgrp lng="pl">
     <trd>Benin</trd>,
     <trd>Republika <ind>Beninu</ind></trd>
@@ -79,6 +78,12 @@
 
 <!--
 $Log$
+versio 1.13 2023/04/29 17:25:39
+Paul Peeraerts: Steloj -> monato
+
+versio 1.12 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.9  2019/02/13 19:10:45  revo
 Wolfram Diestel: kor. ref-cel
 
@@ -95,11 +100,5 @@ Revision 1.5  2013/02/10 02:10:21  revo
 Evandro Avellar: Traduko al Pt
 
 Revision 1.4  2013/02/04 12:10:24  revo
-Dmitri Gabinski: redakto: +trd be
-
-Revision 1.3  2011/02/14 13:10:39  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.2  2009/05/08 16:30:28  revo
 -->
 </vortaro>

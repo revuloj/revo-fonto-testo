@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sutr.xml,v 1.18 2023/09/04 15:14:34 revo Exp $">
 <kap>
   <rad>sutr</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -21,6 +20,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_t;&c_r;&c_a;</trd>
+  <trd lng="bo">&#xF58;&#xF51;&#xF7C;&#xF0B;</trd>
   <trd lng="cs">s&uacute;tra</trd>
   <trd lng="de">Sutra</trd>
   <trd lng="en">sutra</trd>
@@ -28,15 +28,22 @@
     <trd>soutra</trd>,
     <trd>sutra</trd>
   </trdgrp>
-  <trd lng="hi">&#2360;&#2370;&#2340;&#2381;&#2352; [<ind>s&#363;tra</ind>]</trd>
+  <trd lng="hi">&#x938;&#x942;&#x924;&#x94D;&#x930; [<ind>s&#x16B;tra</ind>]</trd>
   <trd lng="hu">szutra</trd>
   <trdgrp lng="it">
     <trd>sutra</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D4C;  [<ind>&#x3051;&#x3044;</ind>]</trd>,
+    <trd>&#x7D4C;&#x5178;  [<ind>&#x304D;&#x3087;&#x3046;&#x3066;&#x3093;</ind>]</trd>,
+    <trd>&#x30B9;&#x30FC;&#x30C8;&#x30E9;</trd>,
+    <trd>&#x7BB4;&#x8A00;&#x96C6;  [<ind>&#x3057;&#x3093;&#x3052;&#x3093;&#x3057;&#x3085;&#x3046;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">soetra</trd>
   <trd lng="pt">sutra</trd>
   <trd lng="ru">&c_s;&c_u;&c_t;&c_r;&c_a;</trd>
   <trd lng="sk">sutra</trd>
+  <trd lng="uk">&#x441;&#x443;&#x442;&#x440;&#x430; (&#x443; &#x431;&#x443;&#x434;&#x434;&#x438;&#x437;&#x43C;&#x456;)</trd>
 </drv>
 </art>
 <!--

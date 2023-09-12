@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sput.xml,v 1.20 2023/09/04 05:14:57 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sput</rad>/i
@@ -21,6 +20,10 @@
       <klr>(&c_k;&c_r;&c_y;&c_v;&c_jo;&c_ju;, 
       &c_s;&c_mol;&c_l;&c_ib;&c_z;&c_mol;&c_z;&c_ju;)</klr>
     </trd>
+    <trdgrp lng="de">
+      <trd>speien</trd>,
+      <trd>ausspeien</trd>
+  </trdgrp>
     <trd lng="es">esputar<klr tip="amb"> (excepto saliva)</klr></trd>
     <trd lng="hu">k&ouml;p</trd>
     <trd lng="ru">&c_h;&c_a;&c_r;&c_k;&c_a;&c_t;&c_mol;</trd>
@@ -45,6 +48,9 @@
       <ref cel="vom.0i">vomi</ref>
     </refgrp>
     <trd lng="be">&c_v;&c_y;&c_v;&c_ja;&c_r;&c_g;&c_a;&c_c;&c_mol;</trd> 
+    <trdgrp lng="de">
+      <trd>auswerfen</trd>
+  </trdgrp>
     <trd lng="hu">ok&aacute;d</trd>
     <trd lng="ru">&c_i;&c_z;&c_v;&c_je;&c_r;&c_g;&c_a;&c_t;&c_mol;</trd>
   </snc>
@@ -53,21 +59,29 @@
     <trd>chrlit</trd>,
     <trd>odka&scaron;l&aacute;vat</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>spucken</trd>,
-    <trd>speien</trd>
-  </trdgrp>
   <trd lng="en">spit</trd>
   <trd lng="fr">cracher</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5410;&#x304F;  [<ind>&#x306F;&#x304F;</ind>]</trd>,
+    <trd>&#x5410;&#x304D;&#x51FA;&#x3059;  [<ind>&#x306F;&#x304D;&#x3060;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>spugen</trd>,
     <trd>spuwen</trd>
   </trdgrp>
   <trd lng="sk">p&lcaron;uva&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_a;&c_r;&#x43A;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&#x43F;&#x43B;&#x44C;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43A;&c_r;&#x43E;&c_v;</trd>,
+    <trd>&c_s;&#x43B;&c_i;&c_z;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2023/05/18 19:22:12
+Ulrich Fellmann: sputi: disigo de DE trdj, -1, +2
+
 Revision 1.16  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 

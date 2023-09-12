@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: akcipi.xml,v 1.24 2009/08/21 16:31:58 revo Exp $">
+<art mrk="$Id: akcipi.xml,v 1.33 2023/08/30 18:23:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>akcipitr</rad>/o
@@ -31,7 +30,7 @@
       </ekz>
       <ekz>
         li prezidis en &ccirc;iu milita konsila kunveno, &ccirc;eestis &ccirc;e la esploro de &ccirc;iu spiono,
-        kaj &ccirc;iun nova&jcirc;on <klr>[&#8230;]</klr> signis sur karto per propra mano, li tiel
+        kaj &ccirc;iun nova&jcirc;on <klr>[&#x2026;]</klr> signis sur karto per propra mano, li tiel
         rapide pasis de unu loko al alia, ke atendata &ccirc;ie li tamen falis &ccirc;iam, kvaza&ubreve;
         <tld/>o
         <fnt>
@@ -45,28 +44,22 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="https://www.monato.be/2011/010318.php"
-              >La mankanta j ...</url></vrk>
+          <vrk><url ref="&Monato;/2011/010318.php">La mankanta j ...</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        &leftquot;&Ccirc;U MI???!!!&#8221; &scirc;i kri&ccirc;is <tld/>e
+        &leftquot;&Ccirc;U MI???!!!&#x201D; &scirc;i kri&ccirc;is <tld/>e
         <fnt>
           <bib>Monato</bib>
           <aut>Julia Sigmond kaj Sen Rodin</aut>
-          <vrk><url ref="https://www.monato.be/2010/009988.php"
-              >La mal&jcirc;aluzo de Klorinda</url></vrk>
+          <vrk><url ref="&Monato;/2010/009988.php">La mal&jcirc;aluzo de Klorinda</url></vrk>
         </fnt>.
       </ekz>
     </dif>
-    <bld
-      lok="&WCU;/thumb/c/cb/Little_sparrowhawk_(Accipiter_minullus)_03.jpg/640px-Little_sparrowhawk_(Accipiter_minullus)_03.jpg"
-      prm="CC BY-SA 4.0"
-      ><tld/>o (Accipiter minullus), KwaZulu Natal, Sudafriko
+    <bld lok="&WCU;/thumb/c/cb/Little_sparrowhawk_(Accipiter_minullus)_03.jpg/640px-Little_sparrowhawk_(Accipiter_minullus)_03.jpg" prm="CC BY-SA 4.0"><tld/>o (Accipiter minullus), KwaZulu Natal, Sudafriko
         <fnt>
           <aut>Charles J Sharp, propra verko</aut>
-          <lok><url ref="&WCW;/File:Little_sparrowhawk_(Accipiter_minullus)_03.jpg"
-              >https://commons.wikimedia.org/wiki/File:Little_sparrowhawk_(Accipiter_minullus)_03.jpg</url></lok>
+          <lok><url ref="&WCW;/File:Little_sparrowhawk_(Accipiter_minullus)_03.jpg">&WCW;/File:Little_sparrowhawk_(Accipiter_minullus)_03.jpg</url></lok>
         </fnt>
     </bld>
   </snc>
@@ -93,7 +86,13 @@
     <trd>autour<klr tip="amb"> (oiseau)</klr></trd>,
     <trd>&eacute;pervier</trd>
   </trdgrp>
+  <trd lng="he">&#x5E0;&#x5B5;&#x5E5;</trd>
   <trd lng="hu">h&eacute;ja</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30BF;&#x30AB;  [<ind>&#x305F;&#x304B;</ind>]</trd>,
+    <trd/>,
+    <trd>&#x30CF;&#x30A4;&#x30BF;&#x30AB;</trd>
+  </trdgrp>
   <trd lng="nl">havik</trd>
   <trd lng="pl">jastrz&aogonek;b</trd>
   <trdgrp lng="pt">
@@ -107,10 +106,17 @@
   </trdgrp>
   <trd lng="sk">jastrab</trd>
   <trd lng="sv">h&ouml;k</trd>
+  <trd lng="uk">&#x44F;&#x441;&#x442;&#x440;&#x443;&#x431;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.32 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.27  2019/01/28 20:10:30  revo
 Wolfram Diestel: +ekz-oj, +bld
 
@@ -127,11 +133,5 @@ Revision 1.23  2009/01/03 17:30:57  revo
 Wieland Pusch: +trd bg
 
 Revision 1.22  2005/02/20 17:33:59  revo
-Alan ar Gall: + trd br
-
-Revision 1.21  2005/01/23 17:32:46  revo
-Marc Bavant: kor finan komenton
-
-Revision 1.20  2005/01/06 17:31:08  revo
 -->
 </vortaro>

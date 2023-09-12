@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: akcept.xml,v 1.33 2010/07/19 16:30:29 revo Exp $">
+<art mrk="$Id: akcept.xml,v 1.64 2023/09/11 22:23:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>akcept</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,7 +12,8 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="akcept.0i.ricevi">
     <dif>
-      Konsenti ricevi ion, kion iu donas a&ubreve; proponas:
+      <ref tip="prt" cel="konsen.0i">Konsenti</ref> <ref tip="prt" cel="ricev.0i">ricevi</ref>
+      ion, kion iu donas a&ubreve; proponas:
       <ekz>
         mi proponis al li cigaron, kiun li kun danko <tld/>is
         <fnt>
@@ -24,7 +24,7 @@
       </ekz>
     </dif>
     <rim>
-      <em>Akcepti</em> diferencas de ricevi, per tio, ke &gcirc;i
+      <em>Akcepti</em> diferencas de <ref cel="ricev.0i">ricevi</ref>, per tio, ke &gcirc;i
       montras la jeson, la konsenton de la ricevonto.
     </rim>
     <trd lng="de">annehmen</trd>
@@ -44,22 +44,31 @@
     <dif>
       Lasi eniri iun hejmen:
       <ekz>
-        la malfeli&ccirc;a knabino, <klr>...</klr> trovinte neniun,
-        kiu volus &scirc;in <tld/>i, balda&ubreve; mortis en 
-        <klr>...</klr> arbaro
+        la malfeli&ccirc;a knabino, <klr>[&#8230;]</klr> trovinte neniun,
+        kiu volus &scirc;in <tld/>i, balda&ubreve; mortis en
+        <klr>[&#8230;]</klr> arbaro
         <fnt><bib>F</bib>, <lok>&FE; 23</lok></fnt>;
+      </ekz><ekz>
+        &scirc;i enirigis lin en la domon de sia patro <klr>[kiu]</klr>
+        <tld/>is lin kun &gcirc;ojo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 19:3</lok>
+        </fnt>;
       </ekz><ekz>
         sinjorino Ajnulo <tld/>as &ccirc;iun &jcirc;a&ubreve;don;
       </ekz><ekz>
         oni <tld/>as la&ubreve; viza&gcirc;o, oni forlasas
-        la&ubreve;
-        sa&gcirc;o<fnt><bib>PrV</bib></fnt>;
+        la&ubreve; sa&gcirc;o
+        <fnt><bib>PrV</bib></fnt>;
       </ekz><ekz>
-      la esprimo <ctl>mi estas feli&ccirc;a akceptonte vin</ctl>
-      estas
-      bona<fnt><bib>LR</bib></fnt>.
+        la esprimo <ctl>mi estas feli&ccirc;a akceptonte vin</ctl>
+        estas bona
+        <fnt><bib>LR</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="de">empfangen</trd>
+    <trd lng="en">receive (guests etc.)</trd>
     <trd lng="nl">ontvangen</trd>
     <trdgrp lng="pl">
       <trd>akceptowa&cacute;</trd>,
@@ -76,22 +85,30 @@
     <dif>
       Konsenti pri io, allasi ion:
       <ekz>
+        liaj fratoj <tld/>is lian proponon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 37:27</lok>
+        </fnt>;
+      </ekz><ekz>
+        ni <tld/>is <klr>[tion]</klr> kiel devon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ne&hcirc;emja 10:35</lok>
+        </fnt>;
+      </ekz><ekz>
         li nun volonte <tld/>is la laboreton
-        <fnt> 
+        <fnt>
           <aut>L. E. Meier</aut>,
           <vrk>Nur Unu Vorton!</vrk>,
           <bib>FK</bib>
         </fnt>;
-      </ekz>
-      <ekz>
-        la propono estis <tld/>ita de &ccirc;iuj;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <tld/>i la batalon.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="pren.0i">preni sur sin</ref>.
+      <ref cel="pren.0i">preni sur sin</ref>
     </refgrp>
     <trd lng="nl">aannemen</trd>
     <trdgrp lng="pl">
@@ -107,24 +124,69 @@
       <trd>antaga</trd>
     </trdgrp>
   </snc>
+  <snc mrk="akcept.0i.opinion">
+    <dif>
+      Konscii, kompreni, rigardi opinion a&ubreve; aserton kiel realan,
+      veran, validan, prudentan:
+      <ekz>
+        se niaj argumentoj estas &gcirc;ustaj, <tld/>u ilin
+        <fnt><bib>EE</bib></fnt>;
+      </ekz><ekz>
+        &gcirc;i estis bazita sur tiu simpla kaj komune <tld/>ita regulo,
+        ke, por diri ion pri la valoro kaj ecoj de objekto, oni devas
+        &gcirc;in anta&ubreve;e &ccirc;irka&ubreve;rigardi, taksi kaj almezuri
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz><ekz>
+        en la okazo de la kristanaj eklezioj, se ni <tld/>as, ke Dio
+        mem fari&gcirc;is karno por nia savo, tio estas des pli priplorinda
+        <fnt><aut>Alberto Garc&iacute;a Fumero</aut>:
+          <vrk>Scienco kaj religio kunfluu, ne kverelu</vrk>
+          <bib>FK</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="agnosk.0i">agnoski</ref>,
+      <ref cel="aprob.0i">aprobi</ref>,
+      <ref cel="ten.sub0i">subteni</ref>
+    </refgrp>
+  </snc>
   <snc mrk="akcept.0i.trafite">
     <dif>
-      Esti trafita de iu ago, kiu modifas la staton de la trafita 
+      Esti trafita de iu ago, kiu modifas la staton de la trafita
       objekto, povi ricevi econ, ekhavi ian econ:
       <ekz>
         tiu regulo <tld/>as multajn esceptojn;
       </ekz><ekz>
         <tld/>i tre diversajn formojn;
       </ekz><ekz>
-        por respondi al la demando kien, la vortoj <tld/>as la
-        fina&jcirc;on de l' akuzativo<fnt>Z</fnt>;
+        la verbo <klr>[je]</klr> la tempo estanta <tld/>as la fini&gcirc;on <nom>-as</nom>
+        <fnt><bib>FK</bib></fnt>;
       </ekz><ekz>
-        li <tld/>is seriozan mienon<fnt>Z</fnt>;
+        la adverbo <tld/>as post si tiun prepozicion
+        <fnt>
+          <bib>LR</bib>
+          <lok>13. Prepozicioj</lok>
+        </fnt>;
       </ekz><ekz>
-        la okuloj <tld/>is esprimon de prudento kaj
-        memkonscio<fnt>Z</fnt>.
+        jes, kuzino, respondis la juna homo, subite <tld/>ante
+        <klr>(<ref tip="prt" cel="pren.al0i">alprenante</ref>)</klr>
+        seriozan mienon
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz><ekz>
+        la okuloj <tld/>is <klr>[&#8230;]</klr> esprimon de prudento kaj
+        memkonscio
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>allow for</trd>,
+      <trd>take on</trd>,
+      <trd>permit</trd>
+    </trdgrp>
     <trd lng="nl">aannemen</trd>
     <trdgrp lng="pl">
       <trd>przyjmowa&cacute;</trd>,
@@ -145,10 +207,12 @@
     <ref cel="las.al0i">allasi</ref>,
     <ref cel="las.en0i">enlasi</ref>,
     <ref cel="jes.0i">jesi</ref>,
-    <ref cel="konsen.0i">konsenti</ref>,
-    <ref cel="ricev.0i">ricevi</ref>
+    <ref cel="toler.0i">toleri</ref>
   </refgrp>
-  <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_k;&c_c;&c_e;&c_p;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="br">degemer<klr tip="ind"> (verb)</klr></trd>
   <trd lng="cs">p&rcaron;ijmout</trd>
   <trdgrp lng="de">
@@ -163,6 +227,7 @@
     <trd>admettre</trd>,
     <trd>recevoir</trd>
   </trdgrp>
+  <trd lng="he">&lamed;&#1456;&qof;&#1463;&bet;&#1468;&#1461;&lamed;</trd>
   <trdgrp lng="hu">
     <trd>elfogad</trd>,
     <trd>fogad<klr tip="ind"> (vend&eacute;get)</klr></trd>,
@@ -170,6 +235,12 @@
     <trd>megenged<klr tip="ind"> (elfogad)</klr></trd>
   </trdgrp>
   <trd lng="it">accettare</trd>
+  <trdgrp lng="ja">
+    <trd>&#21463;&#20837;&#12428;&#12427;  [<ind>&#12358;&#12369;&#12356;&#12428;&#12427;</ind>]</trd>,
+    <trd>&#21463;&#29702;&#12377;&#12427;  [<ind>&#12376;&#12421;&#12426;&#12377;&#12427;</ind>]</trd>,
+    <trd>&#36814;&#12360;&#20837;&#12428;&#12427;  [<ind>&#12416;&#12363;&#12360;&#12356;&#12428;&#12427;</ind>]</trd>,
+    <trd>&#23481;&#35469;&#12377;&#12427;  [<ind>&#12424;&#12358;&#12395;&#12435;&#12377;&#12427;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">admitir</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;</trd>,
@@ -188,6 +259,10 @@
 <trd>p&rcaron;&iacute;jmat</trd>,
 <trd>uzn&aacute;vat</trd>
 </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u; &c_r;&c_ib;&c_z;&c_n;. &c_z;&c_n;&c_a;&c_ch;. &c_p;&c_r;&c_i;&c_j;&c_m;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_h;&c_v;&c_a;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akcept.0o">
@@ -199,16 +274,43 @@
       <ekz>
         la <tld/>o de posteno trudas devojn;
       </ekz><ekz>
-        foje vespere, kiam ili trankvile sidis kune, iu frapis la
-        pordon,
-        kvaza&ubreve; petante <tld/>on
+        <tld/>o de altranguloj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIII</lok>
+        </fnt>;
+      </ekz><ekz>
+        kiam ili trankvile sidis kune, iu frapis la
+        pordon, kvaza&ubreve; petante <tld/>on
         <fnt><bib>ElektFab</bib>, <lok>Ne&gcirc;ulino kaj
         Rozulino</lok>
         </fnt>;
       </ekz><ekz>
-        prepari<fnt>Z</fnt> <tld/>on al iu.
+        simpatiplenan <tld/>on preparis por ni la urbo Barcelono
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en Barcelona en la 6a de septembro
+          1909</vrk>
+        </fnt>;
+      </ekz><ekz>
+        kolekti siajn fortojn por preti&gcirc;i al la <tld/>o de la bato, kiu &scirc;in atendis
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz><ekz>
+        la <tld/>o de via tre duba <klr>[&#8230;]</klr> plibona&jcirc;o ruinigus la laboron
+        <klr>[&#8230;]</klr> de miloj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado en la Guildhall (Londono) en la 21a de a&ubreve;gusto 1907</vrk>
+        </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_y;&c_n;&c_ja;&c_c;&c_mol;&c_c;&c_je;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_j;&c_m;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_jo;&c_m;</trd>
+    </trdgrp>
     <trd lng="br">degemer<klr tip="ind"> (anv-kadarn)</klr></trd>
     <trdgrp lng="de">
       <trd>Annahme</trd>,
@@ -246,6 +348,10 @@
         <ind>elfogadv&aacute;ny</ind></trd>
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_k;&c_c;&c_e;&c_p;&c_t;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_a;&c_k;&c_c;&c_e;&c_p;&c_t;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Akzept</trd>
     </trdgrp>
@@ -274,7 +380,15 @@
     <trd>accueil</trd>,
     <trd>acceptation</trd>
   </trdgrp>
-<trdgrp lng="sk">
+<trd lng="he">&qof;&#1463;&bet;&#1468;&#1464;&lamed;&#1464;&he;</trd>
+  <trdgrp lng="ja">
+    <trd>&#21463;&#20837;&#12428;  [<ind>&#12358;&#12369;&#12356;&#12428;</ind>]</trd>,
+    <trd>&#21463;&#29702;  [<ind>&#12376;&#12421;&#12426;</ind>]</trd>,
+    <trd>&#24540;&#25509;  [<ind>&#12362;&#12358;&#12379;&#12388;</ind>]</trd>,
+    <trd>&#24540;&#23550;  [<ind>&#12362;&#12358;&#12383;&#12356;</ind>]</trd>,
+    <trd>&#23481;&#35469;  [<ind>&#12424;&#12358;&#12395;&#12435;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
 <trd>akcept&aacute;cia</trd>,
 <trd>prijatie</trd>
 </trdgrp>
@@ -282,50 +396,221 @@
     <trd>kar&scedil;&inodot;lama</trd>,
     <trd>kabullenme</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_j;&c_o;&c_m;</trd>
+</drv>
+
+<drv mrk="akcept.0ebla">
+  <kap>
+    <tld/>ebla
+  </kap>
+  <snc>
+    <dif>
+      Tia, ke oni povas <tld/>i &gcirc;in:
+      <ekz>
+        li trovos neniajn <tld/>eblajn fundamentojn por tiuj &ccirc;i frazoj
+        <fnt>
+          <bib>EE</bib>
+          <lok>V</lok>
+        </fnt>;
+      </ekz><ekz>
+        certe la kapitano Herbeno estas por ci tre <tld/>ebla edzi&gcirc;onto
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz><ekz>
+        ne<tld/>ebla hipotezo
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz><ekz>
+        la supozo, ke vi mensogas <klr>[&#8230;]</klr> estis ne <tld/>ebla
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz><ekz>
+        viaj postuloj estas tute ne <tld/>eblaj
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konsen.0ebla">konsentebla</ref>,
+      <ref cel="toler.0ebla">tolerebla</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>annehmbar</trd>,
+    <trd>akzeptabel</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>acceptable</trd>,
+    <trd>reasonable</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#21463;&#12369;&#20837;&#12428;&#21487;&#33021;&#12394;  [<ind>&#12358;&#12369;&#12356;&#12428;&#12363;&#12398;&#12358;&#12394;</ind>]</trd>,
+    <trd>&#21463;&#29702;&#12391;&#12365;&#12427;  [<ind>&#12376;&#12421;&#12426;&#12391;&#12365;&#12427;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_j;&c_n;&c_ja;&c_t;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="akcept.0ejo">
   <kap><tld/>ejo</kap>
   <snc mrk="akcept.0ejo.TUR">
     <dif>
-      Loko en laborejo, institucio, servejo, al kiu vizitanto sin
-      unue
-      turnu por informoj kaj gvido:
+      <ref cel="lok.0o.spaca">Loko</ref> en laborejo, institucio,
+      servejo, al kiu <ref cel="vizit.0anto">vizitanto</ref>
+      sin unue turnu por informoj kaj gvido:
       <ekz>
+        klientaro ne plenigis lian <tld/>ejon
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz><ekz>
         en la <tld/>ejon de la fama psikiatria kliniko
-        <klr>...</klr>
+        <klr>[&#8230;]</klr>
         pa&scirc;is viro kun pinta barbeto
         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 6a, p.
-        55a</lok></fnt>.
+        55a</lok></fnt>;
+      </ekz><ekz>
+        en la <tld/>ejo de la Naturscienca Societo sidis profesoro inter antikvaj mebloj
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>;
+      </ekz><ekz>
+        la alvenantoj bruis kiel kongresanoj en <tld/>eja salono
+        <fnt>
+          <bib>ChB</bib>
+        </fnt>;
+      </ekz><ekz>
+        Stefano rendevuis kun <klr>[li]</klr> &ccirc;e la <tld/>ejo de hotelo <nom>Ala-Tau</nom>
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz><ekz>
+        la homamasojn <klr>[&#8230;]</klr> koncentri&gcirc;as en la <tld/>ejaj haloj de multaj
+        flughavenoj <klr>(vd <ref cel="terminal1.0o">terminalo</ref>)</klr>
+        <fnt>
+          <aut>Ivo Schenkel</aut>
+          <vrk><url ref="&Monato;/2010/009985.php">Fluge tra la flughaveno</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/03, p. 10</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <ref tip="vid" cel="atend.0ejo">atendejo</ref>
+    <refgrp tip="vid">
+      <ref cel="cxambr.antaux0o.porAkcepto">anta&ubreve;&ccirc;ambro<sncref/></ref>,
+      <ref cel="atend.0ejo">atendejo</ref>,
+      <ref cel="fojer.0o">fojero</ref>,
+      <ref cel="kancel.0o.sekretariejo">kancelario<sncref/></ref>,
+      <ref cel="sekret1.0ejo">sekretariejo</ref>,
+      <ref cel="staci.0o.haltejo">stacio<sncref/></ref>,
+      <ref cel="vest.0ejo">vestejo</ref>,
+      <ref cel="vestib.0o.ARKI">vestiblo<sncref/></ref>
+    </refgrp>
     <trd lng="th">&#3648;&#3588;&#3634;&#3609;&#3660;&#3648;&#3605;&#3629;&#3619;&#3660;&#3605;&#3657;&#3629;&#3609;&#3619;&#3633;&#3610;</trd>
   </snc>
-<trd lng="br">degemer<klr tip="ind"> (lec'h)</klr></trd>
-<trdgrp lng="cs">
-<trd>hovorna</trd>,
-<trd>p&rcaron;&iacute;jmac&iacute; kancel&aacute;&rcaron;</trd>,
-<trd>p&rcaron;&iacute;jmac&iacute; m&iacute;stnost</trd>,
-<trd>recepce</trd>
-</trdgrp>
-<trd lng="de">Rezeption</trd>
-<trd lng="es">recepci&oacute;n<klr tip="amb"> (en un edificio,
-empresa,
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_jo;&c_m;&c_n;&c_a;&c_ja; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,
+    <trd>&c_p;&c_r;&c_y;&c_jo;&c_m;&c_n;&c_y; <ind>&c_p;&c_a;&c_k;&c_o;&c_j;</ind></trd>
+  </trdgrp>
+  <trd lng="br">degemer<klr tip="ind"> (lec'h)</klr></trd>
+  <trdgrp lng="cs">
+  <trd>hovorna</trd>,
+  <trd>p&rcaron;&iacute;jmac&iacute; kancel&aacute;&rcaron;</trd>,
+  <trd>p&rcaron;&iacute;jmac&iacute; m&iacute;stnost</trd>,
+  <trd>recepce</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Empfangsbereich</trd>,
+    <trd>Empfang</trd>,
+    <trd>Empfangstisch</trd>,
+    <trd>Empfangstresen</trd>,
+    <trd>Anmeldung</trd>,
+    <trd>Rezeption</trd>,
+    <trd>Vorzimmer</trd>
+  </trdgrp>
+  <trd lng="en">reception, reception desk</trd>
+  <trd lng="es">recepci&oacute;n<klr tip="amb"> (en un edificio,
+  empresa,
       etc)</klr></trd>
-<trd lng="fr">accueil<klr> (lieu)</klr></trd>
-<trdgrp lng="hu">
+  <trd lng="fr">accueil<klr> (lieu)</klr></trd>
+  <trd lng="he">&qof;&bet;&lamed;&he;</trd>
+  <trdgrp lng="hu">
     <trd>recepci&oacute;</trd>,
     <trd>fogad&oacute;helyis&eacute;g</trd>
   </trdgrp>
-<trd lng="nl">receptie</trd>
-<trd lng="pl">recepcja</trd>
-<trd lng="ru">&c_p;&c_r;&c_i;&c_jo;&c_m;&c_n;&c_a;&c_ja;</trd>
-<trdgrp lng="sk">
-<trd>prij&iacute;macia kancel&aacute;ria</trd>,
-<trd>recepcia</trd>
+  <trdgrp lng="ja">
+    <trd>&#24540;&#25509;&#23460;  [<ind>&#12362;&#12358;&#12379;&#12388;&#12375;&#12388;</ind>]</trd>,
+    <trd>&#21463;&#20184;&#25152;  [<ind>&#12358;&#12369;&#12388;&#12369;&#12375;&#12423;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">receptie</trd>
+  <trd lng="pl">recepcja</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_jo;&c_m;&c_n;&c_a;&c_ja;</trd>
+  <trdgrp lng="sk">
+  <trd>prij&iacute;macia kancel&aacute;ria</trd>,
+  <trd>recepcia</trd>
+  </trdgrp>
+  <trd lng="tr">resepsiyon</trd>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_j;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_ja;</trd>
+</drv>
+
+<drv mrk="akcept.0ema">
+  <kap>
+    <tld/>ema
+  </kap>
+  <snc>
+    <dif>
+      Inklina, preta <tld/>i ion a&ubreve; iun:
+      <ekz>
+        afabla, komfortema, <tld/>ema
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>;
+      </ekz><ekz>
+        lar&gcirc;kora <tld/>emo,
+        <fnt>
+          <bib>BonaLingvo</bib>
+        </fnt>;
+      </ekz><ekz>
+        koro ankora&ubreve; fre&scirc;a kaj juna kaj ankora&ubreve; <tld/>ema por feli&ccirc;o
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz><ekz>
+        en &scirc;ia rigardo <klr>[&#8230;]</klr> trovi&gcirc;is nur <tld/>ema vivo&gcirc;ojo
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>;
+      </ekz><ekz>
+        la kuracistoj estis <tld/>emaj al novaj ideoj
+        <fnt>
+          <bib>Sol</bib>
+        </fnt>;
+      </ekz><ekz>
+        se li konservos <klr>[&#8230;]</klr> sian <tld/>emon por intelektula vivo, &ndash; &gcirc;uste tio
+        estas inteligenteco&#8221;
+        <fnt>
+          <bib>KFl</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dispon.0ita">disponita</ref>,
+      <ref cel="ferm.mal0ita.PSI">malfermita<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_t;&c_o;&c_v;&c_y; &c_p;&c_r;&c_y;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_k;&c_r;&c_y;&c_t;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">aufnahmebereit</trd>
+<trdgrp lng="en">
+  <trd>accepting</trd>,
+  <trd>receptive</trd>,
+  <trd>welcoming</trd>
 </trdgrp>
-<trd lng="tr">resepsiyon</trd>
 </drv>
 
 <drv mrk="akcept.0isto">
@@ -333,7 +618,24 @@ empresa,
   <snc mrk="akcept.0isto.TUR">
     <dif>
       Homo, kiu profesie <tld/>as gastojn, enirantojn, klientojn,
-      kaj komfortigas ilin, ekzemple en hotelo, kinejo, veturilo.
+      objektojn kc, ekzemple en hotelo, kinejo, veturilo, flughaveno:
+      <ekz>
+        la pasa&gcirc;ero <klr>[&#8230;]</klr> transdonas la baga&gcirc;on al fluglinia <tld/>isto
+        <fnt>
+          <aut>Ivo Schenkel</aut>
+          <vrk><url ref="&Monato;/2010/009985.php">Fluge tra la flughaveno</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/03, p. 10</lok>
+        </fnt>;
+      </ekz><ekz>
+        nun li alvenis &ccirc;e hotela svingopordo, la <tld/>istino tamen postkuris lin
+        <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007580.php">Tagmeze en Tunizo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/11, p. 24</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="cxicxe.0o">&ccirc;i&ccirc;erono</ref>,
@@ -341,8 +643,17 @@ empresa,
     </refgrp>
     <trd lng="th">&#3612;&#3609;&#3633;&#3585;&#3591;&#3634;&#3609;&#3605;&#3657;&#3629;&#3609;&#3619;&#3633;&#3610;</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_y; &c_z;&c_a; <ind>&c_p;&c_r;&c_y;&c_jo;&c_m;</ind></trd>,
+    <trd>&c_k;&c_a;&c_n;&c_s;&c_mol;&c_je;&c_r;&c_zh;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_a;&c_r;&c_a;&c_d;&c_ch;&c_y;&c_k; <klr>(&c_p;&c_r;&c_y;&c_jo;&c_m;&c_u;)</klr></trd>,
+    <trd>&c_a;&c_d;&c_m;&c_ib;&c_n;&c_ib;&c_s;&c_t;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
 <trd lng="cs">recep&ccaron;n&iacute;</trd>
-<trd lng="de">Rezeptionist</trd>
+<trdgrp lng="de">
+    <trd>Rezeptionist</trd>,
+    <trd>Empfangsdame</trd>
+  </trdgrp>
 <trdgrp lng="en">
 <trd>usher</trd>,
 <trd>receptionist</trd>, <trd>host(ess)</trd>
@@ -369,10 +680,9 @@ empresa,
       Ne konsenti ricevi, preni, uzi, profiti ion a&ubreve; iun:
       <ekz>
         la teatra&jcirc;oj estis mal<tld/>itaj, kaj la letero estis
-        en
-        tute ne &gcirc;entila tono
-	    <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de
-	    feli&ccirc;o</lok></fnt>;
+        en tute ne &gcirc;entila tono
+	<fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de
+	  feli&ccirc;o</lok></fnt>;
       </ekz><ekz>
         kiam la maljunaj kamaradoj de la patro komencis
         &gcirc;entile
@@ -383,8 +693,8 @@ empresa,
         </fnt>;
       </ekz><ekz>
         la poeto kaj la posedanto de la cigaredujo ekfumis, la
-        nefumulo Berlioz mal<tld/>is
-        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 1a</lok></fnt>; 
+        nefumulo <nom>Berlioz</nom> mal<tld/>is
+        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 1a</lok></fnt>;
       </ekz><ekz>
         li mal<tld/>is la inviton de Gajo resti en la vilao
         <fnt>
@@ -413,7 +723,8 @@ empresa,
     <trd lng="de">ablehnen</trd>
     <trdgrp lng="en">
       <trd>decline</trd>,
-      <trd>reject</trd>
+      <trd>reject</trd>,
+      <trd>refuse</trd>
     </trdgrp>
     <trd lng="fr">refuser</trd>
     <trd lng="es">rechazar</trd>
@@ -444,14 +755,21 @@ empresa,
       <ref cel="plant.trans0i">transplantita</ref> organo a&ubreve;
       histo, ne <tld/>i &gcirc;in estkiel parton de sia korpo:
       <ekz>
-        lia imuna sistemo mal<tld/>is &scirc;ian renon.
+        <klr>[la]</klr> malsanuloj uzis specialajn medikamentojn, kiuj subpremas imunan
+        reagon por preventi mal<tld/>on de transplantitaj organoj
+        <fnt>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2007/008991.php">La &ccirc;efaj murdistoj de
+          HIV-infektitoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/01, p. 19</lok>
+        </fnt>.
       </ekz>
     </dif>
     <rim>
       Mal<tld/>o de transplanta&jcirc;o estas alia fenomeno ol
       <ref cel="toler.ne0o.MED">netolero</ref> de medikamento
-      a&ubreve;
-      nutra&jcirc;o.
+      a&ubreve; nutra&jcirc;o.
     </rim>
     <trd lng="de">absto&szlig;en</trd>
     <trd lng="en">reject</trd>
@@ -460,33 +778,53 @@ empresa,
       <trd>&c_o;&c_t;&c_t;&c_o;&c_r;&c_g;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je; <ind>&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</ind></trd>,
+    <trd>&c_a;&c_d;&c_r;&c_y;&c_n;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_h;&c_ib;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_m;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; <klr>(&c_u; &c_p;&c_r;&c_y;&c_jo;&c_m;&c_je;)</klr></trd>
+  </trdgrp>
 <trdgrp lng="cs">
 <trd>nep&rcaron;ijmout</trd>,
 <trd>odm&iacute;tnout</trd>
 </trdgrp>
-<trd lng="sk">odmietn&uacute;&tcaron;</trd>
+<trdgrp lng="ja">
+    <trd>&#25298;&#32118;&#12377;&#12427;  [<ind>&#12365;&#12423;&#12380;&#12388;&#12377;&#12427;</ind>]</trd>,
+    <trd>&#26029;&#12427;  [<ind>&#12371;&#12392;&#12431;&#12427;</ind>]</trd>,
+    <trd>&#21542;&#35469;&#12377;&#12427;  [<ind>&#12402;&#12395;&#12435;&#12377;&#12427;</ind>]</trd>,
+    <trd>&#21542;&#27770;&#12377;&#12427;  [<ind>&#12402;&#12369;&#12388;&#12377;&#12427;</ind>]</trd>
+  </trdgrp>
+  <trd lng="sk">odmietn&uacute;&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_k;&c_i;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_h;&c_i;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_r;&c_a;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.41  2016/07/30 12:10:23  revo
-Warut Bunprasert: +trd th
+versio 1.64 2023/09/11 22:23:10
+David Dichelle: +trd en
 
-Revision 1.40  2015/09/21 14:10:16  revo
-Cindy Moon McKee: +trd en
+versio 1.62 2023/08/21 08:30:43
+Dmitri Gabinski: + trd be
 
-Revision 1.39  2015/07/04 08:37:29  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.61 2023/05/19 14:27:25
+Paul Peeraerts: + aut, url,  lok
 
-Revision 1.38  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.60 2023/05/02 15:56:27
+revo: aktualigo URL-unuoj
 
-Revision 1.37  2014/03/04 10:10:14  revo
-Damien Brucker: +ekz
+versio 1.59 2022/12/23 16:36:47
+Wolfram Diestel: +ref
 
-Revision 1.36  2012/11/11 12:10:07  revo
-Sergio Pokrovskij: -tajperaroj
+versio 1.58 2022/12/14 12:48:37
+Wolfram Diestel: +trd de
 
-Revision 1.35  2012/11/09 08:10:08  revo
+versio 1.57 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.56 2022/04/07 18:35:48
 -->
 </vortaro>

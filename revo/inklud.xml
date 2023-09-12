@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: inklud.xml,v 1.13 2009/10/04 16:30:37 revo Exp $">
+<art mrk="$Id: inklud.xml,v 1.22 2023/08/31 16:40:57 revo Exp $">
 <kap>
   <rad>inklud</rad>/i
 </kap>
@@ -16,14 +15,14 @@
       <ekz>
         ne &ccirc;iuj leksikografoj <tld/>is &gcirc;in en vortaroj<klr>[n]</klr>
         <fnt><aut>Bernard Golden</aut>: 
-          <vrk>Katamito: seksologia faktermino</vrk>,
+          <vrk><url ref="&Monato;/1996/005300.php">Katamito: seksologia faktermino</url></vrk>,
           <bib>Monato</bib>
-          <lok>jaro 1996a, numero 12a, p. 16a</lok>
+          <lok>1996/12, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
         la misiistoj lastatempe volas <tld/>i e&ccirc; la gardantojn en la
-        rondon familian &dash; &ccirc;u pro kristana amo, &ccirc;u pro taktiko
+        rondon familian &#x2010; &ccirc;u pro kristana amo, &ccirc;u pro taktiko
         <fnt>
           <aut>Sten Johansson</aut>: <vrk>Garantiulo</vrk>.
           <lok>En: Denaska kongresano, ISBN 91-7303-070-0, p.
@@ -57,7 +56,8 @@
       <trd>abranger</trd>, 
       <trd>abarcar</trd> 
     </trdgrp>
-    <trd lng="ru">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;<klr> (&c_v; &c_s;&c_je;&c_b;&c_ja;)</klr></trd>
+    <trd lng="ru">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;<klr> (&c_v;
+    &c_s;&c_je;&c_b;&c_ja;)</klr></trd>
   </snc>
   <snc mrk="inklud.0i.inkluzivi">
     <uzo tip="stl">FIG</uzo>
@@ -68,17 +68,18 @@
         ilustra&jcirc;ojn de <nom>John Tenniel</nom>, kiu<klr>[j]</klr> aperis en la
         unua angla originalo
         <fnt>
-          <aut>Garbhan Macaoidh</aut>: <vrk>Inversigita mondo</vrk>.
+          <aut>Garbhan MacAoidh</aut>: <vrk>Inversigita mondo</vrk>.
           <bib>Monato</bib>
+          <lok>2002/01, p. 25</lok>
         </fnt>;
       </ekz>
       <ekz>
         la katalogo <tld/>as plurajn vortarojn de la iam malestimata skota lingvo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006815.html"
-              >Opinio: &Ccirc;u nova &scirc;anco por malfortaj lingvoj?</url></vrk>
+	<aut>Garbhan MacAoidh</aut>
+	<vrk><url ref="&Monato;/2000/006815.php">&Ccirc;u nova &scirc;anco por malfortaj lingvoj?</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 23</lok>
         </fnt>;
       </ekz><ekz>
         <ctl>mondoparto</ctl> estas geografia regiono kiu <tld/>as
@@ -103,15 +104,30 @@
     <trd>obsahovat</trd>,
     <trd>zahrnovat</trd>
   </trdgrp>
+  <trd lng="en">include</trd>
   <trd lng="es">incluir</trd>
+  <trd lng="ja">&#x542B;&#x3093;&#x3067;&#x3044;&#x308B;  [<ind>&#x3075;&#x304F;&#x3093;&#x3067;&#x3044;&#x308B;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>obsahova&tcaron;</trd>,
     <trd>zahrnova&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_i;</trd>
 </drv>
 </art>
   <!--
   $Log$
+versio 1.21 2023/05/11 06:30:56
+Paul Peeraerts: + lok + url
+
+versio 1.20 2023/04/24 08:32:30
+Paul Peeraerts: @Sxteloj -> @Monato
+
+versio 1.19 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.18 2022/03/23 05:40:27
+Noam Mohr: +trd en inkludi
+
   Revision 1.15  2015/07/04 08:37:36  revo
   aldono de trd cs per skripto de M. von Laer
 
@@ -122,32 +138,5 @@
   Paul Peeraerts: +nl
 
   Revision 1.12  2009/09/26 16:32:11  revo
-  Jozefo Horvath: kor. trd hu
-
-  Revision 1.11  2009/09/23 17:26:01  revo
-  Sergio Pokrovskij: reverkita
-
-  Revision 1.10  2005/11/02 17:32:05  revo
-  Luiz Portella: +trd pt
-
-  Revision 1.9  2004/08/31 16:32:38  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.8  2004/01/22 17:31:20  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.7  2003/07/15 16:32:33  revo
-  Marc Bavant: mod trd fr
-
-  Revision 1.6  2003/01/21 17:32:00  revo
-  Alejandro Mejia Greene: ald 1 his trd
-
-  Revision 1.5  2002/09/16 16:31:13  revo
-  Jeromo Vasxe: + ekz, + trd fr
-
-  Revision 1.4 2002/08/03 18:53:26 revo
-  Ulrich Fellmann: + 3 trd de
-
-  Revision 1.3 2002/03/14 17:34:59 revo
-  -->
+-->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bistr.xml,v 1.9 2005/03/14 18:36:04 revo Exp $">
+<art mrk="$Id: bistr.xml,v 1.19 2023/08/31 08:48:51 revo Exp $">
 <kap>
   <rad>bistr</rad>/o
   <fnt>Z</fnt>
@@ -20,7 +19,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.be/2010/009936.php">Franda&jcirc;o por kleruloj</url></vrk>
+          <vrk><url ref="&Monato;/2010/009936.php">Franda&jcirc;o por kleruloj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -30,6 +29,7 @@
       <aut>WD</aut>
     </adm> 
   </snc>
+  <trd lng="be">&c_b;&c_ib;&c_s;&c_t;&c_r; <klr>(&c_f;&c_a;&c_r;&c_b;&c_a;)</klr></trd>
   <trd lng="cs">bistro</trd>
   <trd lng="de">Bister</trd>
   <trdgrp lng="en">
@@ -37,13 +37,19 @@
     <trd>bistre</trd>
   </trdgrp>
   <trd lng="fr">bistre <klr tip="ind">(subst.)</klr></trd>
+  <trd lng="he">&#x5E6;&#x5D1;&#x5E2; &#x5D7;&#x5D5;&#x5DD; &#x5E9;&#x5D7;&#x5D5;&#x5E8;</trd>
   <trdgrp lng="hu">
     <trd>biszter</trd>,
     <trd>barnalakk</trd>
   </trdgrp>
+  <trd lng="ja">&#x30D3;&#x30B9;&#x30BF;</trd>
   <trd lng="pl">bistr <klr>(barwnik)</klr></trd>
   <trd lng="ru">&c_b;&c_i;&c_s;&c_t;&c_r; <klr>(&c_k;&c_o;&c_r;&c_i;&c_ch;&c_n;&c_je;&c_v;&c_a;&c_ja; &c_k;&c_r;&c_a;&c_s;&c_k;&c_a;)</klr></trd>
   <trd lng="sk">bister</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_ib;&c_s;&c_t;&c_r;</trd>,
+    <trd>&c_t;&c_je;&#x43C;&#x43D;&#x43E;-&#x43A;&#x43E;&c_r;&c_i;&c_ch;&#x43D;&c_je;&c_v;&c_a; &c_f;&c_a;&c_r;&c_b;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bistr.0a">
@@ -53,7 +59,7 @@
       <ref tip="super" cel="brun.0a">Bruna</ref> kiel <tld/>o:
       <ekz>
         la leda martestudo vivas en Pacifiko, Hinda Oceano kaj Atlantiko, 
-        <klr>[&#8230;]</klr> &gcirc;ia dorso estas <tld/>a kun <esc>helflavaj</esc> makuloj
+        <klr>[&#x2026;]</klr> &gcirc;ia dorso estas <tld/>a kun <esc>helflavaj</esc> makuloj
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=49886">Leda martestudo</url></lok>
@@ -61,11 +67,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ib;&c_s;&c_t;&c_r;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_c;&c_jo;&c_m;&c_n;&c_a;-&c_k;&c_a;&c_r;&c_y;&c_ch;&c_n;&c_je;&c_v;&c_y;</trd>
+  </trdgrp>
   <trd lng="fr">bistre <klr tip="ind">(adj.)</klr></trd>
   <trdgrp lng="en">
     <trd>bistre brown</trd>
   </trdgrp>
   <trd lng="hu">mang&aacute;nbarna</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D3;&#x30B9;&#x30BF;&#x8272;&#x306E;  [<ind>&#x30D3;&#x30B9;&#x30BF;&#x3044;&#x308D;&#x306E;</ind>]</trd>,
+    <trd>&#x7126;&#x3052;&#x8336;&#x8272;&#x306E;  [<ind>&#x3053;&#x3052;&#x3061;&#x3083;&#x3044;&#x308D;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>barwy <ind>bistru</ind></trd>,
     <trd>ciemnobrunatny</trd>,
@@ -76,6 +90,12 @@
 </art>
 <!--
 $Log$
+versio 1.18 2023/06/15 10:32:39
+Dmitri Gabinski: + trd be
+
+versio 1.17 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.13  2018/08/14 17:10:20  revo
 Wolfram Diestel: +ekz-oj, germ trd, precizigis dif
 
@@ -92,11 +112,5 @@ Revision 1.9  2005/03/14 18:36:04  revo
 Yury Finkel: +trd ru
 
 Revision 1.8 2003/03/15 17:31:14 revo
-Christopher Zervic: + ang
-
-Revision 1.7 2002/06/11 17:32:38 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.6 2001/03/01 20:03:41 revo
 -->
 </vortaro>

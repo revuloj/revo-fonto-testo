@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: avokad.xml,v 1.6 2009/09/14 16:31:20 revo Exp $">
+<art mrk="$Id: avokad.xml,v 1.16 2023/08/30 18:23:38 revo Exp $">
 <kap>
   <ofc>9</ofc>
   <rad>avokad</rad>/o
@@ -43,8 +42,15 @@
   <trd lng="gl">aguacate</trd>
   <trd lng="he">&alef;&bet;&vav;&qof;&dalet;&vav;</trd>
   <trd lng="hu">avok&aacute;d&oacute;</trd>
+  <trdgrp lng="id">
+    <trd>alpukat</trd>,
+    <trd>avokad</trd>
+  </trdgrp>
   <trd lng="it">avocado</trd>
+  <trd lng="ja">&#x30A2;&#x30DC;&#x30AB;&#x30C9;</trd>
   <trd lng="pt">abacate, abacado</trd>
+  <trd lng="ru">&c_a;&c_v;&c_o;&c_k;&c_a;&c_d;&c_o;<klr> (&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="uk">&#x430;&#x432;&#x43E;&#x43A;&#x430;&#x434;&#x43E;&#xA0;(&#x43F;&#x43B;&#x456;&#x434;)</trd>
 </drv>
 
 <drv mrk="avokad.0ujo">
@@ -53,10 +59,9 @@
   <snc mrk="avokad.0ujo.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      Arbo el Centrameriko, kultivata en tropikaj landoj pro siaj
-      fruktoj,
-      el familio <ref tip="super"
-      cel="lauxrac.0oj">la&ubreve;racoj</ref>
+      Arbo el Centra Ameriko, kultivata en tropikaj landoj pro siaj
+      fruktoj, el la familio
+      <ref tip="super" cel="lauxrac.0oj">la&ubreve;racoj</ref>
       (<trd lng="la">Persea americana</trd>).
     </dif>
   </snc>
@@ -72,11 +77,17 @@
   <trd lng="gl">aguacate</trd>
   <trd lng="hu">avok&aacute;d&oacute;fa</trd>
   <trd lng="it">avocado</trd>
+  <trd lng="ja">&#x30A2;&#x30DC;&#x30AB;&#x30C9;</trd>
   <trd lng="pt">abacateiro</trd>
+  <trd lng="ru">&c_a;&c_v;&c_o;&c_k;&c_a;&c_d;&c_o;<klr> (&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
+  <trd lng="uk">&#x430;&#x432;&#x43E;&#x43A;&#x430;&#x434;&#x43E;&#xA0;(&#x434;&#x435;&#x440;&#x435;&#x432;&#x43E;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.14 2021/05/02 13:11:15
+Sergio Pokrovskij: +trd=ru
+
 Revision 1.11  2018/05/13 20:10:19  revo
 Benoit Soubeyran: + he
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: miaux.xml,v 1.14 2010/06/01 16:30:24 revo Exp $">
+<art mrk="$Id: miaux.xml,v 1.19 2022/03/23 14:01:46 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>mia&ubreve;</rad>/i <fnt><bib>PV</bib></fnt>
@@ -26,7 +25,7 @@
     </dif>
   </snc>
   <trd lng="fr">miaou !</trd>
-  <trd lng="id">meong!</trd>
+  <trd lng="id"><ind>meong</ind>!</trd>
 </drv>
 
 <drv mrk="miaux.0i">
@@ -48,21 +47,21 @@
   <trd lng="es">maullar</trd>
   <trd lng="fr">miauler</trd>
   <trd lng="he">&lamed;<ind>&yod;&lamed;&lamed;</ind> &kaf;&het;&tav;&vav;&lamed;</trd>
-  <trd lng="id">[<ind>meong</ind>] mengeong</trd>
+  <trd lng="id"><baz>meong</baz>mengeong</trd>
   <trd lng="nl">miauwen</trd>
   <trdgrp lng="pt">
    <trd>miar</trd>,
    <trd>dar <ind>miados</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_ja;&c_u;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="uk">&#x43D;&#x44F;&#x432;&#x43A;&#x430;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="miaux.0o">
   <kap><tld/>o</kap>
   <snc mrk="miaux.0o.SON">
     <dif>
-      Kata bleko a&ubreve; simila <ref tip="lst" cel="son.0o"
-      lst="voko:sonoj">sono</ref>:
+      Kata bleko a&ubreve; simila <ref tip="lst" cel="son.0o" lst="voko:sonoj">sono</ref>:
       <ekz>
         tiel grandan bruon faris <klr>...</klr> la <tld/>oj de la katoj
         <fnt><bib>DonKihxoto</bib>, <lok>dua parto, &ccirc;apitro 46a, p.
@@ -78,10 +77,17 @@
   <trd lng="es">maullido</trd>
   <trd lng="fr">miaulement</trd>
   <trd lng="id"><ind>meong</ind>an</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x44F;&#x432;&#x43A;&#x430;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43D;&#x44F;&#x432;&#x447;&#x430;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2020/05/04 10:10:32
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.16  2013/10/10 20:10:20  revo
 Jeromo Vasxe: + ~
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mal.xml,v 1.10 2009/10/09 16:30:54 revo Exp $">
+<art mrk="$Id: mal.xml,v 1.21 2023/09/02 06:04:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mal</rad>-
@@ -26,7 +25,7 @@
       <ref cel="ig">ig I- 4- c) Rim. 2</ref>,
       <ref cel="ne.0">ne</ref>,
       <ref cel="dis.0">dis</ref>,
-      <ref cel="sen.0.prefikso">sen</ref>.
+      <ref cel="sen.0_">sen</ref>.
     </refgrp>
     <rim>
       Kelkfoje <em>mal</em> egalvaloras <em>ne</em>; tamen &gcirc;i
@@ -37,7 +36,9 @@
     <trd lng="es">prefijo formador de <ind>ant&oacute;nimos</ind></trd>
     <trd lng="io">des-</trd>
     <trd lng="nl">on-</trd>
+    <trd lng="pl">przedrostek okre&sacute;laj&aogonek;cy przeciwie&nacute;stwo</trd>
     <trd lng="pt">prefixo formador de <ind>ant&ocirc;nimos</ind></trd>
+    <trd lng="ro">prefix opus</trd>
 </drv>
 </subart>
 
@@ -68,9 +69,19 @@ Samsignifa memstara vortero.
           <trd>ellent&eacute;te</trd>,
           <trd>ellentettje</trd>
         </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x53CD;&#x5BFE;  [<ind>&#x305B;&#x3044;&#x306F;&#x3093;&#x305F;&#x3044;</ind>]</trd>,
+    <trd>&#x9006;  [<ind>&#x3055;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tegengestelde<klr tip="ind"> (zn.)</klr></trd>
+  <trd lng="pl">przeciwie&nacute;stwo</trd>
+  <trd lng="ro">contrar</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">opak</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x43E;&#x442;&#x438;&#x43B;&#x435;&#x436;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x43F;&#x440;&#x43E;&#x442;&#x438;&#x43B;&#x435;&#x436;&#x43D;&#x435;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mal.0a">
@@ -95,13 +106,30 @@ Samsignifa memstara vortero.
     <trd>ellenkez&odblac;</trd>,
     <trd>ellent&eacute;tes</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x53CD;&#x5BFE;&#x306E;  [<ind>&#x305B;&#x3044;&#x306F;&#x3093;&#x305F;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x9006;&#x306E;  [<ind>&#x304E;&#x3083;&#x304F;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tegengestelde<klr tip="ind"> (bn.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>przeciwny</trd>,
+    <trd>przeciwstawny</trd>,    
+    <trd>odwrotny</trd>,
+    <trd>opaczny</trd>
+  </trdgrp>  
   <trdgrp lng="pt">
     <trd>contr&aacute;rio <klr>(subst.)</klr></trd>,
     <trd>ant&ocirc;nimo</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>contrar</trd>,
+    <trd>antagonic</trd>,
+    <trd>invers</trd>,
+    <trd>gre&#x219;it</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">opa&ccaron;n&yacute;</trd>
+  <trd lng="uk">&#x43F;&#x440;&#x43E;&#x442;&#x438;&#x43B;&#x435;&#x436;&#x43D;&#x438;&#x439;</trd>
 </drv>
    
 <drv mrk="mal.0e">
@@ -122,33 +150,55 @@ Samsignifa memstara vortero.
   <trd lng="en">on the contrary</trd>
   <trd lng="es">contrariamente</trd>
   <trdgrp lng="fr">
-          <trd>au contraire</trd>,
-          <trd>contrairement<klr> (&agrave;)</klr></trd>
-        </trdgrp>
+    <trd>au contraire</trd>,
+    <trd>contrairement<klr> (&agrave;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="hu">
-          <trd>ellenkez&odblac;leg</trd>,
-          <trd>ellent&eacute;tesen</trd>,
-          <trd>ellent&eacute;tben</trd>
-        </trdgrp>
+    <trd>ellenkez&odblac;leg</trd>,
+    <trd>ellent&eacute;tesen</trd>,
+    <trd>ellent&eacute;tben</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x53CD;&#x5BFE;&#x306B;  [<ind>&#x306F;&#x3093;&#x305F;&#x3044;&#x306B;</ind>]</trd>,
+    <trd>&#x9006;&#x306B;  [<ind>&#x304E;&#x3083;&#x304F;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">integendeel</trd>
+  <trdgrp lng="pl">
+    <trd>natomiast</trd>,
+    <trd>przeciwnie</trd>,
+    <trd>za&sacute;</trd>
+  </trdgrp> 
   <trdgrp lng="pt">
-          <trd>ao <ind>contr&aacute;rio</ind></trd>,
-          <trd>contrariamente</trd>
-        </trdgrp>
+    <trd>ao <ind>contr&aacute;rio</ind></trd>,
+    <trd>contrariamente</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>&icirc;n timp ce</trd>,
+    <trd>contrar</trd>,  
+    <trd>&#x219;i</trd>,
+    <trd>iar</trd>
+  </trdgrp>
   <trdgrp lng="ru">
-          <trd>&c_n;&c_a;&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;</trd>,
-          <trd>&c_n;&c_a;&c_o;&c_b;&c_o;&c_r;&c_o;&c_t;</trd>
-        </trdgrp>
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;</trd>,
+    <trd>&c_n;&c_a;&c_o;&c_b;&c_o;&c_r;&c_o;&c_t;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>naopak</trd>,
     <trd>opa&ccaron;ne</trd>
   </trdgrp>
+  <trd lng="uk">&#x43D;&#x430;&#x432;&#x43F;&#x430;&#x43A;&#x438;</trd>
 </drv>
 </subart>
 </art>
 
 <!--
 $Log$
+versio 1.19 2021/05/12 14:51:33
+Wolfram Diestel: kor. ref-cel
+
+versio 1.18 2020/10/22 21:11:01
+Vito Redsky: +trd pl  + trd ro 
+
 Revision 1.16  2016/11/22 23:10:29  revo
 Robin van der Vliet: +trd
 
@@ -165,8 +215,5 @@ Revision 1.12  2014/02/05 21:10:15  revo
 Damien Brucker: +trd fr
 
 Revision 1.11  2014/02/05 15:10:17  revo
-Damien Brucker: +kap
-
-Revision 1.10  2009/10/09 16:30:54  revo
 -->
 </vortaro>

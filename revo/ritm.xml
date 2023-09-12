@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: ritm.xml,v 1.28 2023/09/03 07:53:11 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ritm</rad>/o
@@ -47,7 +46,7 @@ alterno mem:
   <trd lng="bg">&c_r;&c_i;&c_t;&c_malmol;&c_m;</trd>
   <trd lng="ca">ritme</trd>
   <trdgrp lng="cs">
-    <trd>básnická stopa</trd>,
+    <trd>b&#xE1;snick&#xE1; stopa</trd>,
     <trd>rytmus</trd>
   </trdgrp>
   <trd lng="de">Rhythmus</trd>
@@ -59,6 +58,12 @@ alterno mem:
   </trdgrp>
   <trd lng="fr">rythme</trd>
   <trd lng="hu">ritmus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30EA;&#x30BA;&#x30E0;  [<ind>&#x308A;&#x305A;&#x3080;</ind>]</trd>,
+    <trd>&#x5F8B;&#x52D5;  [<ind>&#x308A;&#x3064;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x5468;&#x671F;&#x7684;&#x5909;&#x52D5;  [<ind>&#x3057;&#x3085;&#x3046;&#x304D;&#x3066;&#x304D;&#x3078;&#x3093;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x97FB;&#x5F8B;  [<ind>&#x3044;&#x3093;&#x308A;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ritme</trd>
   <trd lng="pl">rytm</trd>
   <trd lng="pt">ritmo</trd>
@@ -69,6 +74,10 @@ alterno mem:
     <trd>tempo</trd>
   </trdgrp>
   <trd lng="sv">rytm</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x438;&#x442;&#x43C;</trd>,
+    <trd>&#x442;&#x435;&#x43C;&#x43F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

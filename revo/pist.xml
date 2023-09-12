@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pist.xml,v 1.29 2023/09/03 12:45:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pist</rad>/i
@@ -38,7 +37,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la pastraron <klr>[&#8230;]</klr> li volis dis<tld/>i <klr>(subpremi)</klr>
+        la pastraron <klr>[&#x2026;]</klr> li volis dis<tld/>i <klr>(subpremi)</klr>
         kaj fari &gcirc;in sia servisto
         <fnt>
           <bib>Far1</bib>
@@ -77,18 +76,29 @@
     <trd>piler</trd>
   </trdgrp>
   <trd lng="hu">apr&oacute;ra <ind>t&ouml;r</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x304D;&#x7815;&#x304F;  [<ind>&#x3064;&#x304D;&#x304F;&#x3060;&#x304F;</ind>]</trd>,
+    <trd>&#x7C89;&#x306B;&#x3059;&#x308B;  [<ind>&#x3053;&#x306A;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x7C89;&#x7815;&#x3059;&#x308B;  [<ind>&#x3075;&#x3093;&#x3055;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3059;&#x308A;&#x3064;&#x3076;&#x3059;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>stampen<klr tip="ind"> (fijnstampen)</klr></trd>,
     <trd>fijnstampen</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>t&lstroke;uc<klr> (na proszek)</klr></trd>,
-    <trd>roziera&cacute;<klr> (na proszek)</klr></trd>
+    <trd>rozciera&cacute;<klr> (na proszek)</klr></trd>
   </trdgrp>
   <trdgrp lng="pt">
     <trd>pisar (no <klr tip="amb">gral</klr>)</trd>,
     <trd>triturar</trd>,
     <trd>socar</trd>    
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>m&abreve;cina</trd>,
+    <trd>sparge</trd>,
+    <trd>pulveriza</trd>
   </trdgrp>
   <trd lng="ru">&c_t;&c_o;&c_l;&c_o;&c_ch;&c_mol;</trd>
   <trdgrp lng="sk">
@@ -96,6 +106,11 @@
     <trd>rozdrvi&tcaron;</trd>,
     <trd>t&lacute;c&tcaron;</trd>,
     <trd>&scaron;rotova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&#x43E;&c_v;&#x43A;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&c_d;&c_r;&c_ib;&c_b;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -117,6 +132,8 @@
     </dif>
   </snc>
   <trd lng="fr">concasserie</trd>
+  <trd lng="pl">proszkownia</trd>
+  <trd lng="ro">moara cu pulbere</trd>
 </drv>
 
 <drv mrk="pist.0ilo">
@@ -141,7 +158,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Christian Bertin</aut>
-          <vrk><url ref="https://www.monato.be/2004/008255.html">Re&gcirc;ino de la maroj</url></vrk>
+          <vrk><url ref="&Monato;/2004/008255.html">Re&gcirc;ino de la maroj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -150,6 +167,7 @@
     <trd lng="fr">pilon</trd>
     <trd lng="hu">mozs&aacute;rt&ouml;r&odblac;</trd>
     <trd lng="pl">t&lstroke;uczek</trd>
+    <trd lng="ro">pistil</trd>
   </snc>
   <snc mrk="pist.0ilo.ujo">
     <fnt><bib>Far1</bib> </fnt>
@@ -165,7 +183,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        &ccirc;i tie vi havas fajrujon, tie benkon, sur kiu oni povas dormi, <tld/>ilon por la tritiko kaj vazon por la pasto
+        &ccirc;i tie vi havas fajrujon, tie benkon, sur kiu oni povas dormi, <tld/>ilon por la tritiko kaj
+        vazon por la pasto
         <fnt>
           <bib>Far2</bib>
           <lok>&Ccirc;apitro IX</lok>
@@ -184,6 +203,11 @@
   <trdgrp lng="cs">
     <trd>sami&ccaron;&iacute; okv&ecaron;t&iacute;</trd>,
     <trd>sami&ccaron;&iacute; org&aacute;ny kv&ecaron;tu</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304D;&#x306D;</trd>,
+    <trd>&#x3059;&#x308A;&#x3053;&#x304E;</trd>,
+    <trd>&#x4E73;&#x68D2;  [<ind>&#x306B;&#x3085;&#x3046;&#x307C;&#x3046;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">stamper</trd>
   <trd lng="ru">&c_p;&c_je;&c_s;&c_t;&c_i;&c_k;</trd>
@@ -228,17 +252,33 @@
   <trd lng="fa">&a_h;&a_A;&a_w;&a_n;</trd>
   <trd lng="fr">mortier</trd>
   <trd lng="hu">mozs&aacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3046;&#x3059;</trd>,
+    <trd>&#x3059;&#x308A;&#x9262;  [<ind>&#x3059;&#x308A;&#x3070;&#x3061;</ind>]</trd>,
+    <trd>&#x4E73;&#x9262;  [<ind>&#x306B;&#x3085;&#x3046;&#x3070;&#x3061;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>vijzel</trd>,
     <trd>mortier</trd>
   </trdgrp>
   <trd lng="pl">mo&zacute;dzierz</trd>
+  <trd lng="ro">mojar</trd>
   <trd lng="ru">&c_s;&c_t;&c_u;&c_p;&c_a;</trd>
   <trd lng="sk">ma&zcaron;iar <klr>(n&aacute;doba)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_u;&#x43F;&c_a;</trd>,
+    <trd>&#x43C;&c_a;&#x43A;&c_ib;&c_t;&c_r;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2022/11/16 23:30:26
+Vito Redsky: +trd pl + trd ro
+
+versio 1.27 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.24  2018/09/14 17:10:18  revo
 Wolfram Diestel: +ekz-oj
 
@@ -255,11 +295,5 @@ Revision 1.20  2012/07/13 08:10:11  revo
 Carlos Garcia: +trd -i -ujo
 
 Revision 1.19  2012/07/03 10:10:08  revo
-Axel Rousseau: +trd fr
-
-Revision 1.18  2009/09/13 16:56:44  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.17  2006/07/03 16:31:21  revo
 -->
 </vortaro>

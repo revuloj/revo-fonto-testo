@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: radiol.xml,v 1.16 2023/09/03 07:53:08 revo Exp $">
 <kap>
   <rad>radiolog</rad>/o
 </kap>
@@ -14,7 +13,7 @@
     <dif>
       Scienculo a&ubreve; kuracisto, okupi&gcirc;anta pri la <ref tip="vid" cel="radiol1.0o">radiologio</ref>:
       <ekz>
-        <nom>Erik Forfota</nom> <klr>[&#8230;]</klr> estis hungara kuracisto, <tld/>o, universitata profesoro naskita en Kolo&jcirc;varo
+        <nom>Erik Forfota</nom> <klr>[&#x2026;]</klr> estis hungara kuracisto, <tld/>o, universitata profesoro naskita en Kolo&jcirc;varo
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=345108">Erik Forfota</url></lok>
@@ -36,6 +35,10 @@
     <trd>radiol&oacute;gus</trd>,
     <trd>r&ouml;ntgenol&oacute;gus</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x653E;&#x5C04;&#x7DDA;&#x5B66;&#x8005;  [<ind>&#x307B;&#x3046;&#x3057;&#x3083;&#x305B;&#x3093;&#x304C;&#x304F;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x653E;&#x5C04;&#x7DDA;&#x533B;  [<ind>&#x307B;&#x3046;&#x3057;&#x3083;&#x305B;&#x3093;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">radioloog</trd>
   <trd lng="pl">radiolog</trd>
   <trd lng="pt">radiologista</trd>
@@ -43,6 +46,7 @@
     <trd>&c_r;&c_a;&c_d;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>,
     <trd>&c_r;&c_je;&c_n;&c_t;&c_g;&c_je;&c_n;&c_o;&c_l;&c_o;&c_g;</trd>
   </trdgrp>
+  <trd lng="uk">&#x440;&#x430;&#x434;&#x456;&#x43E;&#x43B;&#x43E;&#x433;</trd>
 </drv>
 </art>
 <!--

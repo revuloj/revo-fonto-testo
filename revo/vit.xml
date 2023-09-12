@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vit.xml,v 1.29 2023/09/05 09:43:56 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>vit</rad>/o
@@ -12,13 +11,15 @@
   <snc>
     <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="dif" cel="vin.0berarbo0berujo">Vinberujo</ref>:
+      <ref tip="dif" cel="vin.0berarbo">Vinberujo</ref>:
       <ekz>
         pro la malvarma klimato <tld/>o ne vegetas en Irlando
         <fnt>
+          <aut>M&aacute;ire NicAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006878.php">&Gcirc;ardenumi</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006878.html">Dommastrumo: &Gcirc;ardenumi</url></vrk>
-        </fnt>;
+          <lok>2000/04, p. 20</lok>
+          </fnt>;
       </ekz>
       <ekz>
         ankora&ubreve; trovi&gcirc;as resova&gcirc;i&gcirc;intaj <tld/>oj sur la sunaj deklivoj de la 
@@ -56,6 +57,7 @@
   <trd lng="fr">vigne</trd>
   <trd lng="hu">sz&odblac;l&odblac;<klr tip="ind">
 (n&ouml;v&eacute;ny)</klr></trd>
+  <trd lng="ja">&#x30D6;&#x30C9;&#x30A6;  [<ind>&#x3076;&#x3069;&#x3046;</ind>]</trd>
   <trd lng="nl">wijnstok</trd>
   <trd lng="pt">parreira</trd>
   <trdgrp lng="ru">
@@ -72,10 +74,23 @@
     <trd>vinn&aacute; r&eacute;va</trd>,
     <trd>v&iacute;no</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43D;&#x43E;&c_g;&c_r;&c_a;&c_d; (&c_r;&#x43E;&c_s;&#x43B;&c_i;&#x43D;&c_a;)</trd>,
+    <trd>&c_v;&c_i;&#x43D;&#x43E;&c_g;&c_r;&c_a;&c_d;&#x43D;&c_i;&c_j; &#x43A;&c_u;&c_shch;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/04/15 11:22:45
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.27 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2021/05/16 13:55:58
+Wolfram Diestel: kor. ref-cel
+
 Revision 1.23  2018/08/15 17:10:20  revo
 Wolfram Diestel: +ekz-oj
 
@@ -89,14 +104,5 @@ Revision 1.20  2015/06/28 12:03:50  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.19  2015/04/23 09:10:14  revo
-Damien Brucker: +hom al Vito
-
-Revision 1.18  2013/12/02 13:10:37  revo
-Damien Brucker: +trd fr
-
-Revision 1.17  2013/11/01 16:10:14  revo
-Wolfram Diestel: struktura sxangxeto
-
-Revision 1.16  2012/08/12 17:10:22  revo
 -->
 </vortaro>

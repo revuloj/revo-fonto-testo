@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: prem.xml,v 1.47 2020/02/16 12:10:35 revo Exp $">
+<art mrk="$Id: prem.xml,v 1.67 2023/09/03 12:45:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prem</rad>/i
@@ -46,7 +45,7 @@
           <trd lng="es">apretar la mano de alguien</trd>
           <trd lng="fr">serrer la main de qn</trd>
           <trd lng="hu">kezet szor&iacute;t</trd>
-          <trd lng="pl">naciska&cacute;</trd>
+          <trd lng="pl">u&sacute;cisn&aogonek;&cacute; d&lstroke;o&nacute; kogo&sacute;</trd>
         </ekz>
         <ekz>
           <tld/>i sian kapon per amba&ubreve; manoj<fnt>B</fnt>;
@@ -95,14 +94,14 @@
         </ekz>
         <ekz>
           li denove <tld/>is la sonorilbutonon
-          <fnt><bib>UrdHadda</bib>, <lok>p. 7a</lok></fnt>;
+          <fnt><bib>UrdHadda</bib>, <lok>p. 7</lok></fnt>;
         </ekz>
         <ekz>
           <uzo tip="fak">KOMP</uzo>
           <tld/>i la musbutonon, klavon;
         </ekz>
         <ekz>
-          <nom>Ilu-ittia</nom> <klr>[&#8230;]</klr>, trovinte platon el &scirc;tono,
+          <nom>Ilu-ittia</nom> <klr>[&#x2026;]</klr>, trovinte platon el &scirc;tono,
           kiun li
           ser&ccirc;is, <tld/>is per la tuta pezo de sia korpo kontra&ubreve;
           &gcirc;in
@@ -268,6 +267,10 @@
       <ref cel="embara.0i">embarasi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_ib;&c_s;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>lisovat</trd>,
     <trd>ma&ccaron;kat</trd>,
@@ -295,6 +298,16 @@
     <trd>presser<klr tip="ind"> (exercer une pression)</klr></trd>,
     <trd>serrer</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x62BC;&#x3048;&#x308B;  [<ind>&#x304A;&#x3055;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x62BC;&#x3059;  [<ind>&#x304A;&#x3059;</ind>]</trd>,
+    <trd>&#x5727;&#x8FEB;&#x3059;&#x308B;  [<ind>&#x3042;&#x3063;&#x3071;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x63E1;&#x308A;&#x7DE0;&#x3081;&#x308B;  [<ind>&#x306B;&#x304E;&#x308A;&#x3057;&#x3081;&#x308B;</ind>]</trd>,
+    <trd>&#x5727;&#x529B;&#x3092;&#x52A0;&#x3048;&#x308B;  [<ind>&#x3042;&#x3064;&#x308A;&#x3087;&#x304F;&#x3092;&#x304F;&#x308F;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x6291;&#x5727;&#x3059;&#x308B;  [<ind>&#x3088;&#x304F;&#x3042;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x82E6;&#x3057;&#x3081;&#x308B;  [<ind>&#x304F;&#x308B;&#x3057;&#x3081;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ne">&#x92A;&#x94D;&#x930;&#x947;&#x938;</trd>
   <trdgrp lng="pt">
     <trd>comprimir</trd>,
     <trd>premir</trd>,
@@ -306,6 +319,16 @@
     <trd>om&iacute;na&tcaron;</trd>,
     <trd>stisn&uacute;&tcaron;</trd>,
     <trd>tla&ccaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_i;&c_s;&c_n;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_i;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_i;&c_s;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd><klr>(&c_p;&c_r;&c_o; &c_o;&c_d;&c_ja;&c_g;, &c_v;&c_z;&c_u;&c_t;&c_t;&c_ja; &c_shch;&c_je;)</klr> &c_m;&c_u;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_m;&c_u;&c_l;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -321,7 +344,7 @@
         <lok>1932</lok></fnt>;
       </ekz>
       <ekz>
-        &ccirc;iuj konkure rapidas al la pordo <klr>[&#8230;]</klr>, tiu a&ubreve; alia
+        &ccirc;iuj konkure rapidas al la pordo <klr>[&#x2026;]</klr>, tiu a&ubreve; alia
         ricevas ek<tld/>on
         <fnt>
           <bib>Revizoro</bib>
@@ -377,11 +400,10 @@
       <ekz>
         pro la insista <tld/>o de la movadgvidantoj li ne legis la duan
         parton
-        <klr>[&#8230;]</klr> kun sia homaranisma doktrino
+        <klr>[&#x2026;]</klr> kun sia homaranisma doktrino
         <fnt>
           <aut>Aleksander Kor&jcirc;enkov</aut>
-          <vrk><url
-          ref="http://esperanto-ondo.ru/Knigi/Kniga119.htm">Unu el
+          <vrk><url ref="&LOdE;Knigi/Kniga119.htm">Unu el
           verkoj, kiuj honorigas la homaron</url></vrk>
         </fnt>;
       </ekz>
@@ -475,15 +497,25 @@
     <trd lng="nl">druk</trd>
     <trd lng="ru">&c_p;&c_o;&c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>
+  <trd lng="be">&c_c;&c_ib;&c_s;&c_k;</trd>
   <trdgrp lng="cs">
     <trd>n&aacute;tlak</trd>,
     <trd>tlak</trd>,
     <trd>t&iacute;se&ncaron;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5727;&#x529B;  [<ind>&#x3042;&#x3064;&#x308A;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x5727;&#x8FEB;  [<ind>&#x3042;&#x3063;&#x3071;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>n&aacute;tlak</trd>,
     <trd>stisk</trd>,
     <trd>tlak</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_i;&c_s;&c_k;</trd>,
+    <trd>&c_n;&c_a;&c_t;&c_i;&c_s;&c_k;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_ib;&c_r;</trd>
   </trdgrp>
 </drv>
 
@@ -558,6 +590,10 @@
     <trd>nyomaszt&oacute;</trd>,
     <trd>fojt&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x62BC;&#x3057;&#x3064;&#x3051;&#x308B;&#x3088;&#x3046;&#x306A;  [<ind>&#x304A;&#x3057;&#x3064;&#x3051;&#x308B;&#x3088;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x91CD;&#x82E6;&#x3057;&#x3044;  [<ind>&#x304A;&#x3082;&#x304F;&#x308B;&#x3057;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">drukkend</trd>
   <trdgrp lng="pl">
     <trd>cisn&aogonek;cy</trd>,
@@ -588,6 +624,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_c;&c_ib;&c_s;&c_k;</trd>
   <trdgrp lng="cs">
     <trd>tisknut&iacute;</trd>,
     <trd>tla&ccaron;en&iacute;</trd>
@@ -601,6 +638,11 @@
   </trdgrp>
   <trd lng="fr">pression</trd>
   <trd lng="hu">nyom&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5727;&#x529B;  [<ind>&#x3042;&#x3064;&#x308A;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x5727;&#x8FEB;  [<ind>&#x3042;&#x3063;&#x3071;&#x304F;</ind>]</trd>,
+    <trd>&#x6291;&#x5727;  [<ind>&#x3088;&#x304F;&#x3042;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">druk</trd>
   <trdgrp lng="pl">
     <trd>nacisk</trd>,
@@ -608,6 +650,14 @@
   </trdgrp>
   <trd lng="ru">&c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">tla&ccaron;enie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_i;&c_s;&c_n;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_t;&c_i;&c_s;&c_k;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_ch;&c_a;&c_v;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_i;&c_r;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_s;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.0ajxo">
@@ -619,13 +669,12 @@
         tio ne estas la <tld/>a&jcirc;o de simio
         <fnt>
           <aut>Arthur Conan Doyle</aut>
-          <vrk><url
-          ref="http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/MondaKulturo/Somero65/kriplulou.html">La
+          <vrk><url ref="&DonH;Revuoj/MondaKulturo/Somero65/kriplulou.html">La
           aventuro de la kriplulo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la <tld/>a&jcirc;oj de &gcirc;iaj grandegaj <klr>[&#8230;]</klr>piedoj facile
+        la <tld/>a&jcirc;oj de &gcirc;iaj grandegaj <klr>[&#x2026;]</klr>piedoj facile
         estis distingeblaj
         <fnt>
           <aut>Michael Ende, trad. Wolfram Diestel</aut>
@@ -636,8 +685,7 @@
       <ekz>
         la montrofingro estas premata kaj la <tld/>a&jcirc;o bite sendita
         <fnt>
-          <vrk><url
-          ref="http://esperantofre.com/prenu/bvs201503sep.pdf">La
+          <vrk><url ref="http://esperantofre.com/prenu/bvs201503sep.pdf">La
           migranto-krizo</url></vrk>
         </fnt>.
       </ekz>
@@ -645,8 +693,16 @@
     <refgrp tip="sub">
        <ref cel="prem.fingro0ajxo">fingroprema&jcirc;o</ref>
     </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_d;&c_b;&c_ib;&c_t;&c_a;&c_k;</trd>,
+      <trd>&c_s;&c_mol;&c_l;&c_je;&c_d;</trd>
+    </trdgrp>
     <trd lng="de">Abdruck <klr>(Spur)</klr></trd>
     <trd lng="en">trace</trd>
+    <trdgrp lng="pl">
+      <trd>odcisk</trd>,
+      <trd>&sacute;lad</trd>
+    </trdgrp>
   </snc>
   <snc mrk="prem.0ajxo.MED">
     <uzo tip="fak">MED</uzo>
@@ -665,6 +721,9 @@
       <ref cel="pilol.0o.MED">pilolo</ref>,
       <ref cel="tablojd.0o">tablojdo</ref>.
     </refgrp>
+    <trd lng="be">&c_t;&c_a;&c_b;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+    <trd lng="pl">tabletka <klr>(sprasowana)</klr></trd>
+    
   </snc>
   <trdgrp lng="ca">
     <trd>comprimit</trd>,
@@ -678,9 +737,10 @@
   </trdgrp>
   <trd lng="fr">comprim&eacute;</trd>
   <trd lng="hu">pasztilla</trd>
+  <trd lng="ja">&#x9320;&#x5264;  [<ind>&#x3058;&#x3087;&#x3046;&#x3056;&#x3044;</ind>]</trd>
   <trd lng="nl">tablet</trd>
-  <trd lng="pl">tabletka <klr>(sprasowana)</klr></trd>
   <trd lng="ru">&c_t;&c_a;&c_b;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+  <trd lng="uk">&c_t;&c_a;&c_b;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
 </drv>
 
 <drv mrk="prem.0ateco">
@@ -689,7 +749,7 @@
     <dif>
       Stato de iu <tld/>ata de la homoj a&ubreve; okaza&jcirc;oj:
       <ekz>
-        la Eternulo <klr>[&#8230;]</klr> vidis nian mizeron kaj
+        la Eternulo <klr>[&#x2026;]</klr> vidis nian mizeron kaj
         nian laboradon kaj nian <tld/>atecon
         <fnt><bib>MT</bib>, <lok>&Rea; 26:7</lok></fnt>;
       </ekz>
@@ -709,6 +769,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_g;&c_n;&c_je;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="de">Unterdr&uuml;ckung</trd>
   <trdgrp lng="en"><trd>oppression</trd>, <trd>pressure</trd></trdgrp>
   <trdgrp lng="es">
@@ -725,12 +786,32 @@
     <trd>szorults&aacute;g</trd>,
     <trd>szorongatotts&aacute;g</trd>,
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5727;&#x8FEB;&#x611F;  [<ind>&#x3042;&#x3063;&#x3071;&#x304F;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x606F;&#x82E6;&#x3057;&#x3055;  [<ind>&#x3044;&#x304D;&#x3050;&#x308B;&#x3057;&#x3055;</ind>]</trd>,
+    <trd>&#x91CD;&#x5727;  [<ind>&#x3058;&#x3085;&#x3046;&#x3042;&#x3064;</ind>]</trd>,
+    <trd>&#x82E6;&#x60A9;  [<ind>&#x304F;&#x306E;&#x3046;</ind>]</trd>,
+    <trd>&#x96D1;&#x8E0F;  [<ind>&#x3056;&#x3063;&#x3068;&#x3046;</ind>]</trd>,
+    <trd>&#x6DF7;&#x96D1;  [<ind>&#x3053;&#x3093;&#x3056;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>druk</trd>,
     <trd>onderdrukking</trd>
   </trdgrp>
   <trd lng="pl">ucisk <klr>(sytuacja)</klr></trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_i;&c_s;&c_k;</trd>,
+    <trd>&c_t;&c_i;&c_s;&c_n;&c_ja;&c_v;&c_a;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_k;&c_a;</trd>,
+    <trd>&c_g;&c_n;&c_ib;&c_t;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_g;&c_n;&c_ib;&c_ch;&c_je;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_g;&c_n;&c_o;&c_b;&c_l;&c_je;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_g;&c_o;&c_l;&c_o;&c_m;&c_sh;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_b;&c_i;&c_t;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_t;&c_r;&c_u;&c_d;&c_n;&c_je;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_a;&c_zh;&c_k;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.0ejo">
@@ -753,6 +834,10 @@
     </dif>
     <trd lng="de">Kelterei</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_d;&c_u;&c_sh;&c_y;&c_l;&c_mol;&c_n;&c_ja;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Presswerk</trd>,
   </trdgrp>
@@ -790,15 +875,23 @@
         honto
         <fnt>
           <aut>Henryk Sienkiewicz, trad. Mieczys&lstroke;aw Sygnarski</aut>
-          <vrk><url
-          ref="https://eduinf.waw.pl/esp/lern/librejo/0001/0007.php"
-              >Tra dezerto kaj praarbaro</url></vrk>
+          <vrk><url ref="&EduInf;lern/librejo/0001/0007.php">Tra dezerto kaj
+          praarbaro</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="es"><ind>apretar</ind>se</trd>
   <trd lng="fr">se <ind>serrer</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x62BC;&#x3055;&#x3048;&#x3064;&#x3051;&#x3089;&#x308C;&#x308B;  [<ind>&#x304A;&#x3055;&#x3048;&#x3064;&#x3051;&#x3089;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x7DE0;&#x3081;&#x3064;&#x3051;&#x3089;&#x308C;&#x308B;  [<ind>&#x3057;&#x3081;&#x3064;&#x3051;&#x3089;&#x308C;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">by&cacute;  <ind>naciskanym</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_i;&c_s;&c_n;&c_u;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_s;&c_t;&c_i;&c_s;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.0ilo">
@@ -819,7 +912,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Emile Malanda Nianga</aut>
-          <vrk><url ref="https://www.monato.be/2005/008529.php">Edukado
+          <vrk><url ref="&Monato;/2005/008529.php">Edukado
           ne ekspluatado</url></vrk>
         </fnt>;
       </ekz>
@@ -836,6 +929,7 @@
     <trd lng="fr">pressoir<klr tip="ind"> (machine)</klr></trd>
     <trd lng="hu">pr&eacute;s</trd>
     <trd lng="nl">pers</trd>
+    <trd lng="pl">prasa<klr>  (maszyna)</klr></trd>
     <trd lng="ru">&c_d;&c_a;&c_v;&c_i;&c_l;&c_o;</trd>
   </snc>
   <snc mrk="prem.0ilo.TEK">
@@ -850,16 +944,14 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gerrit Berveling</aut>
-          <vrk><url
-          ref="https://www.monato.be/2010/009856.php">Respektinda
+          <vrk><url ref="&Monato;/2010/009856.php">Respektinda
           virino. Granda animo &ccirc;u iom naiva?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         al&gcirc;ustigebla <tld/>ilo kiu tenas la pentra&jcirc;on sur fiksita loko
         <fnt>
-          <vrk><url
-          ref="https://howlingpixel.com/i-eo/Pentrista_stablo">Pentrista
+          <vrk><url ref="https://howlingpixel.com/i-eo/Pentrista_stablo">Pentrista
           stablo</url></vrk>
         </fnt>.
       </ekz>
@@ -876,9 +968,9 @@
     comprimer)</klr></trd>
     <trd lng="nl">pers</trd>
     <trdgrp lng="pl">
-      <trd>prasa</trd>,
       <trd>t&lstroke;ocznia</trd>,
       <trd>wyciskacz</trd>,
+      <trd>narz&eogonek;dzie do naciskania</trd>,
     </trdgrp>
     <trd lng="ru">&c_p;&c_r;&c_je;&c_s;&c_s;</trd>
   </snc>  <adm>
@@ -889,6 +981,10 @@
     ilon" aspektas al mi sensenca.
     <aut>MB</aut>
   </adm>
+  <trdgrp lng="ja">
+    <trd>&#x30D7;&#x30EC;&#x30B9;&#x5668;&#x5177;  [<ind>&#x3077;&#x308C;&#x3059;&#x304D;&#x3050;</ind>]</trd>,
+    <trd>&#x7D5E;&#x308A;&#x5668;  [<ind>&#x3057;&#x307C;&#x308A;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>depresor</trd>,
     <trd>stl&aacute;&ccaron;a&ccaron;</trd>
@@ -897,6 +993,7 @@
     <trd>depresor</trd>,
     <trd>stla&ccaron;ova&ccaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_je;&c_s;</trd>
 </drv>
 
 <drv mrk="prem.al0i">
@@ -935,6 +1032,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>p&rcaron;itisknout <klr>(k)</klr></trd>,
     <trd>p&rcaron;ivinout</trd>
@@ -956,6 +1054,10 @@
     <trd>odaszor&iacute;t</trd>,
     <trd>r&aacute;szor&iacute;t</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x62BC;&#x3057;&#x3064;&#x3051;&#x308B;  [<ind>&#x304A;&#x3057;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x8FFD;&#x3044;&#x3064;&#x3081;&#x308B;  [<ind>&#x304A;&#x3044;&#x3064;&#x3081;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>aandrukken</trd>,
     <trd>wegdrukken</trd>
@@ -963,6 +1065,7 @@
   <trdgrp lng="pl">
     <trd>dociska&cacute;</trd>,
     <trd>przyciska&cacute;</trd>,
+    <trd>zatamowa&cacute;</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_zh;&c_i;&c_m;&c_a;&c_t;&c_mol;</trd>,
@@ -973,6 +1076,10 @@
     <trd>pritisn&uacute;&tcaron;</trd>,
     <trd>privin&uacute;&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_i;&c_t;&c_i;&c_s;&c_k;&c_a;&c_t;&c_i; &c_p;&c_r;&c_i;&c_d;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_g;&c_o;&c_r;&c_t;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.al0igxi">
@@ -982,7 +1089,7 @@
     <dif>
       Sin <tld/>i, sin alpu&scirc;i al...:
       <ekz>
-        &scirc;ia infano <klr>[&#8230;]</klr> al<tld/>i&gcirc;is al &scirc;ia koro
+        &scirc;ia infano <klr>[&#x2026;]</klr> al<tld/>i&gcirc;is al &scirc;ia koro
         <fnt>
           <bib>Fab4</bib>
           <lok>Infano en la tombo</lok>
@@ -1006,6 +1113,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
   <trdgrp lng="es">
     <trd><ind>apretar</ind>se (contra)</trd>,
     <trd><ind>presionar</ind>se(contra)</trd>
@@ -1014,6 +1122,10 @@
     <trd>se <ind>blottir</ind> (contre)</trd>,
     <trd>se <ind>presser</ind> (contre)</trd>,
     <trd>se <ind>serrer</ind> (contre)</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dociska&cacute; si&eogonek;</trd>,
+    <trd>zatamowa&cacute; si&eogonek;</trd>
   </trdgrp>
 </drv>
 
@@ -1038,8 +1150,8 @@
         ni &ccirc;irka&ubreve;<tld/>is kaj adia&ubreve;is nin
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref="https://www.monato.be/2003/008041.html"
-              >La aristarka raporto de Albisturo Kvinke</url></vrk>
+          <vrk><url ref="&Monato;/2003/008041.html">La aristarka raporto de Albisturo
+          Kvinke</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -1050,6 +1162,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_a;&c_b;&c_d;&c_y;&c_m;&c_k;&c_a;&c_h;)</klr></trd>
   <trdgrp lng="de">
     <trd>umarmen</trd>,
     <trd>dr&uuml;cken <klr>(umarmen)</klr></trd>
@@ -1068,6 +1181,10 @@
   <trd lng="pl">&sacute;ciska&cacute; <klr>(w ramionach)</klr></trd>
   <trd lng="ru">&c_s;&c_zh;&c_i;&c_m;&c_a;&c_t;&c_mol; &c_v;
   &c_o;&c_b;&c_malmol;&c_ja;&c_t;&c_i;&c_ja;&c_h;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_i;&c_s;&c_k;&c_a;&c_t;&c_i; <klr>(&c_z; &c_u;&c_s;&c_ib;&c_h; &c_b;&c_o;&c_k;&c_ib;&c_v;)</klr></trd>,
+    <trd>&c_z;&c_d;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.de0i">
@@ -1080,10 +1197,10 @@
         poste mi fermis miajn okulojn kaj de<tld/>is la &scirc;altilon:
         tintis sonorilo
         <fnt>
-        <aut>W. Auld</aut>
-        <vrk>Tempo fu&gcirc;as</vrk>
-        <lok><url
-        ref="http://www.esperanto.be/fel/mon/002000.html">Monato</url></lok>
+        <aut>William Auld</aut>
+        <vrk><url ref="&Monato;/2001/002000.html">Tempo fu&gcirc;as</url></vrk>
+        <bib>Monato</bib>
+        <lok>1987/03, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -1091,8 +1208,7 @@
         <fnt>
         <aut>K. Kraft, M. Malovec</aut>
         <vrk>Esperanta-&ccirc;e&hcirc;a vortaro</vrk>
-        <lok><url
-        ref="http://mujweb.atlas.cz/Veda/traxler/ev3.htm">http://mujweb.atlas.cz/Veda/traxler/ev3.htm</url></lok>
+        <lok><url ref="http://mujweb.atlas.cz/Veda/traxler/ev3.htm">http://mujweb.atlas.cz/Veda/traxler/ev3.htm</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1111,6 +1227,7 @@
       <trd>appuyer<klr tip="ind"> (de haut en bas)</klr></trd>
     </trdgrp>
     <trd lng="nl">neerdrukken</trd>
+    <trd lng="pl">odgniata&cacute;</trd>
   </snc>
   <snc mrk="prem.de0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -1132,8 +1249,7 @@
         <fnt>
         <aut>J. E. Esslemont, trad. Lidja Zamenhof</aut>
         <vrk>Bah&aacute;'u'll&aacute;h kaj la nova epoko</vrk>
-        <lok><url
-        ref="http://www.bahai.de/bahaaeligo/H-tekstoj/BNE-H3.htm">http://www.bahai.de/bahaaeligo/H-tekstoj/BNE-H3.htm</url></lok>
+        <lok><url ref="http://www.bahai.de/bahaaeligo/H-tekstoj/BNE-H3.htm">http://www.bahai.de/bahaaeligo/H-tekstoj/BNE-H3.htm</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1199,6 +1315,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_d;&c_u;&c_sh;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>rozma&ccaron;kat</trd>,
     <trd>roztla&ccaron;it</trd>
@@ -1221,12 +1341,22 @@
     <trd>sz&eacute;tnyom</trd>,
     <trd>sz&eacute;ttapos</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x62BC;&#x3057;&#x3064;&#x3076;&#x3059;  [<ind>&#x304A;&#x3057;&#x3064;&#x3076;&#x3059;</ind>]</trd>,
+    <trd>&#x7C89;&#x7815;&#x3059;&#x308B;  [<ind>&#x3075;&#x3093;&#x3055;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3075;&#x307F;&#x306B;&#x3058;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">uiteendrukken</trd>
   <trd lng="pl">rozgniata&cacute;</trd>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_d;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>rozpu&ccaron;i&tcaron;</trd>,
     <trd>roztla&ccaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_d;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_ch;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -1329,7 +1459,14 @@
     <trd>ausdr&uuml;cken</trd>,
     <trd>ausquetschen</trd>
   </trdgrp>
+  <trd lng="ja">&#x7D5E;&#x308A;&#x51FA;&#x3059;  [<ind>&#x3057;&#x307C;&#x308A;&#x3060;&#x3059;</ind>]</trd>
   <trd lng="sk">vypudzova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_t;&c_i;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_d;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_ch;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_d;&c_u;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.en0i">
@@ -1383,8 +1520,12 @@
     qc)</klr></trd>
   </trdgrp>
   <trd lng="hu">benyom</trd>
+  <trd lng="ja">&#x62BC;&#x3057;&#x8FBC;&#x3080;  [<ind>&#x304A;&#x3057;&#x3053;&#x3080;</ind>]</trd>
   <trd lng="nl">indrukken</trd>
-  <trd lng="pl">wciska&cacute;</trd>
+  <trdgrp lng="pl">
+    <trd>wciska&cacute;</trd>,
+    <trd>wepchn&aogonek;&cacute;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_zh;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_d;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
@@ -1392,6 +1533,10 @@
   <trdgrp lng="sk">
     <trd>natisn&uacute;&tcaron; do</trd>,
     <trd>vtisn&uacute;&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_t;&c_i;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_d;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -1413,14 +1558,17 @@
       <ekz>
         li proklamis la imperion por kontra&ubreve;<tld/>i la japanan minacon
         <fnt>
-          <vrk><url
-          ref="https://eo.wikipedia.org/wiki/Go%C4%9Dong_de_Koreio"
-              >Go&gcirc;ong de Koreio</url></vrk>
+          <vrk><url ref="&Viki;/Go%C4%9Dong_de_Koreio">Go&gcirc;ong de
+          Koreio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="de">dagegen dr&uuml;cken</trd>
+  <trdgrp lng="pl">
+    <trd>przeciwdzia&lstroke;a&cacute;</trd>,
+    <trd>stawia&cacute; op&oacute;r</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.kun0i">
@@ -1457,7 +1605,7 @@
         <fnt><bib>Fab3</bib>, <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok></fnt>;
       </ekz>
       <ekz>
-        li <klr>[&#8230;]</klr> ploris malespere kun<tld/>ante la kapon per la
+        li <klr>[&#x2026;]</klr> ploris malespere kun<tld/>ante la kapon per la
         manoj
         <fnt>
           <bib>ElektFab</bib>
@@ -1489,6 +1637,7 @@
     </dif>
     <trd lng="hu">&ouml;sszepr&eacute;sel</trd>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>semknout</trd>,
     <trd>sev&rcaron;&iacute;t</trd>,
@@ -1508,7 +1657,14 @@
     <trd>comprimer</trd>,
     <trd>serrer</trd>
   </trdgrp>
-  <trd lng="pl">&sacute;ciska&cacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5727;&#x643E;&#x3059;&#x308B;  [<ind>&#x3042;&#x3063;&#x3055;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5727;&#x7E2E;&#x3059;&#x308B;  [<ind>&#x3042;&#x3063;&#x3057;&#x3085;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&sacute;ciska&cacute;</trd>,
+    <trd>docisn&aogonek;&cacute; razem</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_zh;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_zh;&c_i;&c_m;&c_a;&c_t;&c_mol;</trd>
@@ -1516,6 +1672,10 @@
   <trdgrp lng="sk">
     <trd>stla&ccaron;i&tcaron;</trd>,
     <trd>zovrie&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_i;&c_s;&c_k;&c_a;&c_t;&c_i; &c_r;&c_a;&c_z;&c_o;&c_m;</trd>,
+    <trd>&c_s;&c_t;&c_i;&c_s;&c_k;&c_a;&c_t;&c_i; &c_d;&c_o;&c_k;&c_u;&c_p;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -1533,7 +1693,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        knabineto <klr>[&#8230;]</klr> kun<tld/>i&gcirc;inte sidis anta&ubreve; la kameno
+        knabineto <klr>[&#x2026;]</klr> kun<tld/>i&gcirc;inte sidis anta&ubreve; la kameno
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -1555,6 +1715,10 @@
     <trd><ind>apretar</ind>se unos contra otros</trd>
   </trdgrp>
   <trd lng="fr">se <ind>serrer</ind> les uns contre les autres</trd>
+  <trdgrp lng="pl">
+    <trd>&sacute;ciska&cacute; si&eogonek;</trd>,
+    <trd>zewrze&cacute; si&eogonek;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.kun0ilo">
@@ -1570,8 +1734,8 @@
         la duan
         inter&scirc;an&gcirc;ilon, kiu estas la kondensilo
         <fnt>
-          <vrk><url ref="https://eo.wikipedia.org/wiki/Varmopumpilo"
-              >Varmopumpilo - Vikipedio</url></vrk>
+          <vrk><url ref="&Viki;/Varmopumpilo">Varmopumpilo -
+          Vikipedio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -1579,14 +1743,20 @@
   <adm>
     PIV1 konas ankaux "kompresoro" cxi-sence. <aut>MB</aut>
   </adm>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_r;&c_e;&c_s;&c_a;&c_r;</trd>
   <trd lng="en">compressor</trd>
   <trd lng="es">compresor</trd>
   <trd lng="fr">compresseur</trd>
   <trd lng="hu">kompresszor</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5727;&#x643E;&#x6A5F;  [<ind>&#x3042;&#x3063;&#x3055;&#x304F;&#x304D;</ind>]</trd>,
+    <trd>&#x5727;&#x7E2E;&#x6A5F;  [<ind>&#x3042;&#x3063;&#x3057;&#x3085;&#x304F;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">spr&eogonek;&zdot;arka</trd>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_p;&c_r;&c_je;&c_s;&c_s;&c_o;&c_r;</trd>
   <trd lng="sk">kompresor</trd>
   <trd lng="cs">kompresor</trd>
+  <trd lng="uk">&c_k;&c_o;&c_m;&c_p;&c_r;&c_je;&c_s;&c_o;&c_r;</trd>
 </drv>
 
 <drv mrk="prem.mal0i">
@@ -1600,7 +1770,7 @@
         trenu la krucon &gcirc;is la punkto, kiun vi deziras uzi kiel
         novan originon, kaj mal<tld/>u la musbutonon
         <fnt>
-        <vrk><url ref="http://eo.openoffice.org/draw.html">Draw &#8208; la
+        <vrk><url ref="http://eo.openoffice.org/draw.html">Draw &#x2010; la
         desegnilo de OpenOffice.org</url></vrk>
         </fnt>;
       </ekz>
@@ -1611,21 +1781,25 @@
       <ekz>
         ni faras stre&ccirc;on kaj mallongigas la muskolon por ion reteni,
         sed la
-        birdo &#8208; male &#8208; devas kun forto mal<tld/>i la
+        birdo &#x2010; male &#x2010; devas kun forto mal<tld/>i la
         <ctl>fingrojn</ctl>
         por debran&ccirc;i&gcirc;i
         <fnt>
         <aut>O. Pel</aut>,
         <vrk>Veraj respondoj al ruzegaj infanaj demandoj</vrk>,
-        <lok><url
-        ref="http://abonu.com/archive/kulturo.mozaiko/200212/30175550.text">Informa
+        <lok><url ref="http://abonu.com/archive/kulturo.mozaiko/200212/30175550.text">Informa
         Kanalo Abonu.Com, n-ro 9</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_je;&c_sh;&c_t;&c_a; &c_s;&c_mol;&c_c;&c_ib;&c_s;&c_n;&c_u;&c_t;&c_a;&c_je;)</klr></trd>
+  </trdgrp>
   <trd lng="en">release</trd>
   <trd lng="es">dejar de presionar (soltar)</trd>
+  <trd lng="pl">odci&aogonek;&zdot;y&cacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_t;&c_zh;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_zh;&c_a;&c_t;&c_mol;</trd>
@@ -1649,8 +1823,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_a;&c_d;&c_n;&c_o; &c_z; &c_a;&c_d;&c_n;&c_y;&c_m;)</klr></trd>
   <trd lng="en">squeeze together</trd>
   <trd lng="hu">egym&aacute;shoz <ind>nyom</ind></trd>
+  <trdgrp lng="pl">
+    <trd>t&lstroke;oczy&cacute;</trd>,
+    <trd>&sacute;ciska&cacute;</trd>
+  </trdgrp>
   <trd lng="ru">&c_s;&c_zh;&c_i;&c_m;&c_a;&c_t;&c_mol;<klr> (&c_d;&c_r;&c_u;&c_g; &c_s;
   &c_d;&c_r;&c_u;&c_g;&c_o;&c_m;)</klr></trd>
 </drv>
@@ -1784,12 +1963,23 @@
     <trd>r&eacute;fr&eacute;ner</trd>,
     <trd>r&eacute;primer</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x62BC;&#x3055;&#x3048;&#x3064;&#x3051;&#x308B;  [<ind>&#x304A;&#x3055;&#x3048;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x5727;&#x8FEB;&#x3059;&#x308B;  [<ind>&#x3042;&#x3063;&#x3071;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6291;&#x5727;&#x3059;&#x308B;  [<ind>&#x3088;&#x304F;&#x3042;&#x3064;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">onderdrukken</trd>
   <trdgrp lng="sk">
     <trd>depta&tcaron;</trd>,
     <trd>potla&ccaron;i&tcaron;</trd>,
     <trd>utl&aacute;&ccaron;a&tcaron;</trd>,
     <trd>ututla&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_i;&c_d;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_g;&c_n;&c_ib;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_d;&c_u;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_g;&c_n;&c_o;&c_b;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -1842,6 +2032,7 @@
     <trd>prelisova&tcaron;</trd>,
     <trd>pretla&ccaron;i&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_t;&c_i;&c_s;&c_k;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="prem.aer0o">
@@ -1856,8 +2047,7 @@
         saturita per oksigeno
         <fnt>
           <aut>I. Efremov, trad. J. Finkel</aut>,
-          <vrk><url
-          ref="http://www.esperanto.mv.ru/Efremov/andromedo_06.html">
+          <vrk><url ref="http://www.esperanto.mv.ru/Efremov/andromedo_06.html">
           La nebulozo de Andromedo</url></vrk>,
           <lok>2006</lok>
         </fnt>?
@@ -1869,13 +2059,13 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url
-          ref="https://www.monato.be/2015/011497.php">Ekstremaj
+          <vrk><url ref="&Monato;/2015/011497.php">Ekstremaj
           veter-fenomenoj obli&gcirc;as</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     </snc>
+    <trd lng="be">&c_a;&c_t;&c_m;&c_a;&c_s;&c_f;&c_e;&c_r;&c_n;&c_y; &c_c;&c_ib;&c_s;&c_k;</trd>
   <trd lng="cs">tlak vzduchu</trd>
   <trd lng="de">Luftdruck</trd>
   <trdgrp lng="en">
@@ -1890,7 +2080,10 @@
     <trd>pression athmosph&eacute;rique</trd>,
     <trd>pression de l'air</trd>
   </trdgrp>
+  <trd lng="ja">&#x6C17;&#x5727;  [<ind>&#x304D;&#x3042;&#x3064;</ind>]</trd>
+  <trd lng="pl">ci&sacute;nienie powietrza</trd>
   <trd lng="sk">tlak vzduchu</trd>
+  <trd lng="uk">&c_a;&c_t;&c_m;&c_o;&c_s;&c_f;&c_je;&c_r;&c_n;&c_i;&c_j; &c_t;&c_i;&c_s;&c_k;</trd>
 </drv> 
 
 <drv mrk="prem.fingro0ajxo">
@@ -1906,23 +2099,26 @@
         <fnt><bib>UrdHadda</bib>, <lok>p. 18</lok></fnt>;
       </ekz>
       <ekz>
-        vizitantoj <klr>[&#8230;]</klr> devos a&ubreve; disponi pri nefalsigebla
+        vizitantoj <klr>[&#x2026;]</klr> devos a&ubreve; disponi pri nefalsigebla
         pasporto a&ubreve; submeti
         sin al enslipigo (foto kaj fingro<tld/>a&jcirc;o)
         <fnt>
-          <vrk><url ref="https://eo.mondediplo.com/article847.html"
-              >Le Monde diplomatique' en Esperanto]</url></vrk>
+          <vrk><url ref="&Mondediplo;article847.html">Le Monde diplomatique' en
+          Esperanto]</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_d;&c_b;&c_ib;&c_t;&c_a;&c_k; &c_p;&c_a;&c_l;&c_mol;&c_c;&c_a;&c_w;</trd>
   <trd lng="de">Fingerabdruck</trd>
   <trd lng="en">fingerprint</trd>
   <trd lng="es">huella dactilar</trd>
   <trd lng="fr">empreinte digitale</trd>
   <trd lng="hu">ujjlenyomat</trd>
-  <trd lng="ru">&c_o;&c_t;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_o;&c_k;
-  &c_p;&c_a;&c_l;&c_mol;&c_c;&c_je;&c_v;</trd>
+  <trd lng="ja">&#x6307;&#x7D0B;  [<ind>&#x3057;&#x3082;&#x3093;</ind>]</trd>
+  <trd lng="pl">odcisk palca</trd>
+  <trd lng="ru">&c_o;&c_t;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_o;&c_k; &c_p;&c_a;&c_l;&c_mol;&c_c;&c_je;&c_v;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_b;&c_i;&c_t;&c_o;&c_k; &c_p;&c_a;&c_l;&c_mol;&c_c;&c_ja;</trd>
 </drv>
 
 <drv mrk="prem.kor0ateco">
@@ -1931,7 +2127,7 @@
     <dif>
       Sento de tiu, kiu ricevas kor<tld/>on:
       <ekz>
-        de kelka tempo &scirc;i suferis de kor<tld/>ateco <klr>[&#8230;]</klr>
+        de kelka tempo &scirc;i suferis de kor<tld/>ateco <klr>[&#x2026;]</klr>
         kaj imagis, ke &scirc;i korpe fartas malbone
         <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 3</lok></fnt>.
       </ekz>
@@ -1946,6 +2142,7 @@
     <trd>cr&egrave;ve-c&oelig;ur</trd>,
     <trd>peine<klr> (morale)</klr></trd>
   </trdgrp>
+  <trd lng="pl">&sacute;ciskanie za serce</trd>
 </drv>
 
 <drv mrk="prem.kor0i">
@@ -1969,6 +2166,7 @@
     </dif>
     <trd lng="de">bedr&uuml;cken</trd>
   </snc>
+  <trd lng="be">&c_z;&c_a;&c_s;&c_m;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>dr&aacute;sat</trd>,
     <trd>p&uring;sobit t&iacute;se&ncaron;</trd>,
@@ -1984,6 +2182,7 @@
     <trd>accabler<klr> (moralement)</klr></trd>,
     <trd>oppresser</trd>
   </trdgrp>
+  <trd lng="pl">&sacute;ciska&cacute; czyje&sacute; serce</trd>
   <trdgrp lng="sk">
     <trd>p&ocirc;sobi&tcaron; tiese&ncaron;</trd>,
     <trd>sk&lcaron;u&ccaron;ova&tcaron;</trd>
@@ -2007,6 +2206,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_a;&c_s;&c_m;&c_u;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>
   <trdgrp lng="es">
     <trd>sentirse <ind>afligido</ind></trd>,
     <trd>sentirse <ind>oprimido</ind></trd>
@@ -2015,6 +2215,7 @@
     <trd>&ecirc;tre <ind>navr&eacute;</ind></trd>,
     <trd>se sentir <ind>oppress&eacute;</ind></trd>
   </trdgrp>
+  <trd lng="pl">smuci&cacute; si&eogonek;</trd>
 </drv>
 
 <drv mrk="prem.kor0o">
@@ -2033,6 +2234,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_a;&c_s;&c_m;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">st&iacute;sn&ecaron;nost</trd>
   <trd lng="en">heartache</trd>
   <trdgrp lng="es">
@@ -2041,6 +2243,7 @@
   </trdgrp>
   <trd lng="fr">chagrin<klr tip="amb"> (tristesse)</klr></trd>
   <trd lng="hu">sz&iacute;vszorong&aacute;s</trd>
+  <trd lng="ja">&#x80F8;&#x3092;&#x7DE0;&#x3081;&#x4ED8;&#x3051;&#x308B;&#x3088;&#x3046;&#x306A;&#x6C17;&#x6301;&#x3061;  [<ind>&#x3080;&#x306D;&#x3092;&#x3057;&#x3081;&#x3064;&#x3051;&#x308B;&#x3088;&#x3046;&#x306A;&#x304D;&#x3082;&#x3061;</ind>]</trd>
   <trd lng="pl">przygn&eogonek;bienie</trd>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_s;&c_n;&c_je;&c_n;&c_i;&c_je; &c_v; &c_g;&c_r;&c_u;&c_d;&c_i;</trd>
   <trdgrp lng="sk">
@@ -2067,8 +2270,7 @@
         forta kaj sentpera mano
         <fnt>
         <aut>F. Szil&aacute;gyi</aut>
-        <vrk><url
-        ref="http://www.best.com/~donh/Esperanto/Literaturo/Revuoj/np/np5606/portreto.html">Portreto
+        <vrk><url ref="http://www.best.com/~donh/Esperanto/Literaturo/Revuoj/np/np5606/portreto.html">Portreto
         memore al B.C.</url></vrk>
         <lok>Norda Prismo, 56/6</lok>
         </fnt>.
@@ -2090,10 +2292,15 @@
   </trdgrp>
   <trd lng="fr">poign&eacute;e de mains</trd>
   <trd lng="hu">k&eacute;zszor&iacute;t&aacute;s</trd>
+  <trd lng="ja">&#x63E1;&#x624B;  [<ind>&#x3042;&#x304F;&#x3057;&#x3085;</ind>]</trd>
   <trd lng="nl">handdruk</trd>
   <trd lng="pl">u&sacute;cisk <ind>d&lstroke;oni</ind></trd>
   <trd lng="ru">&c_r;&c_u;&c_k;&c_o;&c_p;&c_o;&c_zh;&c_a;&c_t;&c_i;&c_je;</trd>
   <trd lng="sk">stisk ruky</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_u;&c_k;&c_o;&c_s;&c_t;&c_i;&c_s;&c_k;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_t;&c_i;&c_s;&c_k; &c_r;&c_u;&c_k;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.nesub0ebla">
@@ -2123,6 +2330,7 @@
     <trd>incontenible</trd>
   </trdgrp>
   <trd lng="fr">irr&eacute;pressible</trd>
+  <trd lng="pl">nie do zatamowania</trd>
 </drv>
 
 <drv mrk="prem.paper0ilo">
@@ -2144,13 +2352,19 @@
     </dif>
     <trd lng="de">Papierpresse</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_ch; <klr>(&c_d;&c_l;&c_ja; &c_p;&c_a;&c_p;&c_je;&c_r;&c_y;)</klr></trd>,
+    <trd>&c_p;&c_r;&c_e;&c_s;-&c_p;&c_a;&c_p;&#x2019;&c_je;</trd>
+  </trdgrp>
   <trd lng="en">paperweight</trd>
   <trd lng="es">pisapapeles</trd>
   <trd lng="fr">presse-papier</trd>
   <trd lng="hu">pap&iacute;rnehez&eacute;k</trd>
+  <trd lng="ja">&#x6587;&#x93AE;  [<ind>&#x3076;&#x3093;&#x3061;&#x3093;</ind>]</trd>
   <trd lng="nl">presse-papier</trd>
   <trd lng="pl">przyciskacz <klr>(do papieru)</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_s;&c_s;-&c_p;&c_a;&c_p;&c_mol;&c_je;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_je;&c_s;-&c_p;&c_a;&c_p;&#x2019;&c_jeu;</trd>
 </drv>
 
 <drv mrk="prem.pied0i">
@@ -2183,6 +2397,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_p;&c_t;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_r;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>deptat</trd>,
     <trd>po&scaron;lapat</trd>,
@@ -2206,6 +2424,7 @@
     <trd>pi&eacute;tiner</trd>
   </trdgrp>
   <trd lng="hu">tapos</trd>
+  <trd lng="ja">&#x8E0F;&#x307F;&#x3064;&#x3051;&#x308B;  [<ind>&#x3075;&#x307F;&#x3064;&#x3051;&#x308B;</ind>]</trd>
   <trd lng="pl">depta&cacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_o;&c_p;&c_t;&c_a;&c_t;&c_mol;</trd>,
@@ -2216,6 +2435,12 @@
     <trd>depta&tcaron;</trd>,
     <trd>dl&aacute;vi&tcaron;</trd>,
     <trd>po&scaron;liapa&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_i;&c_d;&c_a;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i; &c_n;&c_o;&c_g;&c_o;&c_ju;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_u;&c_p;&c_a;&c_t;&c_i; &c_n;&c_o;&c_g;&c_o;&c_ju;</trd>,
+    <trd>&c_t;&c_o;&c_p;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_t;&c_o;&c_p;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -2241,12 +2466,12 @@
         buldozo de la mino-entrepreno rul<tld/>is sen anta&ubreve;a averto
         kabanojn
         <fnt>
-          <vrk><url
-          ref="http://www.verduloj.org/100_arg/100_Argum_1_11_eo.htm">Forpelado</url></vrk>
+          <vrk><url ref="http://www.verduloj.org/100_arg/100_Argum_1_11_eo.htm">Forpelado</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_k;&c_a;&c_t;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">v&aacute;lcovat</trd>
   <trd lng="de">walzen</trd>
   <trd lng="en">roll</trd>
@@ -2255,10 +2480,19 @@
   <trd lng="fr">rouler<klr tip="ind"> (aplatir avec un
   rouleau)</klr></trd>
   <trd lng="hu">hengerel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E73;&#x3089;&#x306B;&#x306A;&#x3089;&#x3059;  [<ind>&#x305F;&#x3044;&#x3089;&#x306B;&#x306A;&#x3089;&#x3059;</ind>]</trd>,
+    <trd>&#x30ED;&#x30FC;&#x30E9;&#x30FC;&#x3092;&#x304B;&#x3051;&#x308B;  [<ind>&#x308D;&#x30FC;&#x3089;&#x30FC;&#x3092;&#x304B;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">gnie&sacute;&cacute;</trd>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_k;&c_a;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;<klr tip="amb">
   (&c_n;&c_a;&c_p;&c_r;. &c_s;&c_k;&c_a;&c_l;&c_k;&c_o;&c_j;)</klr></trd>
   <trd lng="sk">valcova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_a;&c_ch;&c_a;&c_t;&c_i; <klr>(&c_t;&c_ib;&c_s;&c_t;&c_o; &c_ib; &c_t;.&c_p;.)</klr></trd>,
+    <trd>&c_r;&c_o;&c_z;&c_k;&c_a;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_a;&c_l;&c_mol;&c_c;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prem.rul0ilo">
@@ -2272,8 +2506,7 @@
         maldika
         <fnt>
           <aut>H. Heme, trad. L. L. Zamenhof</aut>
-          <vrk><url
-          ref="https://tekstaro.com/pl/prenitutantekston.pl?nomo=la-rabeno-de-bahharahh">La
+          <vrk><url ref="https://tekstaro.com/pl/prenitutantekston.pl?nomo=la-rabeno-de-bahharahh">La
           Rabeno de Ba&hcirc;arah</url></vrk>
         </fnt>.
       </ekz>
@@ -2293,9 +2526,8 @@
         <fnt>
           <aut>Claude Piron</aut>
           <vrk>Psikologiaj reagoj al Esperanto</vrk>
-          <lok><url
-          ref="http://www.esperantilo.org/cp_psychologikajreagoj_en.html">Baudouin
-          p. 225&#8239;-&#8239;229</url></lok>
+          <lok><url ref="http://www.esperantilo.org/cp_psychologikajreagoj_en.html">Baudouin
+          p. 225&#x202F;-&#x202F;229</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -2308,6 +2540,7 @@
     La termino "rulcilindro" aperas kiel ekz-o sub cilindro, sen difino.
     En PIV1 oni erare diras, ke &gcirc;i sinonimas al "tamburo 2".
   </adm>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_o;&c_k; <klr>(&c_d;&c_l;&c_ja; &c_w;&c_k;&c_l;&c_a;&c_d;&c_k;&c_ib; &c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;&c_u; &c_ib; &c_d;&c_a; &c_g;. &c_p;.)</klr></trd>
   <trdgrp lng="en">
     <trd>road roller</trd>,
     <trd>roller</trd>
@@ -2318,6 +2551,7 @@
   </trdgrp>
   <trd lng="fr">rouleau compresseur</trd>
   <trd lng="hu">&uacute;thenger</trd>
+  <trd lng="ja">&#x30ED;&#x30FC;&#x30E9;&#x30FC;&#x8ECA;  [<ind>&#x30ED;&#x30FC;&#x30E9;&#x30FC;&#x3057;&#x3083;</ind>]</trd>
   <trd lng="pl">wa&lstroke;ek</trd>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_o;&c_k;<klr> (&c_d;&c_l;&c_ja;
   &c_r;&c_a;&c_s;&c_k;&c_a;&c_t;&c_y;&c_v;&c_a;&c_n;&c_i;&c_ja;
@@ -2325,6 +2559,7 @@
   &c_t;.&c_p;.)</klr></trd>
   <trd lng="sk">val&ccaron;ek na rezance</trd>
   <trd lng="cs">v&aacute;le&ccaron;ek na nudle</trd>
+  <trd lng="uk">&c_k;&c_o;&c_t;&c_o;&c_k;</trd>
 </drv>
    
 <drv mrk="prem.sango0o">
@@ -2337,39 +2572,36 @@
         <nom>Liu Yulian</nom> mezuras sango<tld/>on por vila&gcirc;ano
         <fnt>
           <aut>Mao Yong</aut>,
-          <vrk><url
-          ref="http://esperanto.china.org.cn/socio/2010-01/15/content_19244450.htm">
+          <vrk><url ref="http://esperanto.china.org.cn/socio/2010-01/15/content_19244450.htm">
           Knabino-kuracistino de ujguroj</url></vrk>,
           <lok>2010-01-15</lok>
         </fnt>;
       </ekz>
       <ekz>
-        iuj plendas e&ccirc; pri <klr>[&#8230;]</klr> tro alta sango<tld/>o
+        iuj plendas e&ccirc; pri <klr>[&#x2026;]</klr> tro alta sango<tld/>o
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2007/009121.php"
-              >Malfeli&ccirc;iga televido</url></vrk>
+          <vrk><url ref="&Monato;/2007/009121.php">Malfeli&ccirc;iga televido</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        <klr>[ili]</klr> konstatis, ke post pre&gcirc;o <klr>[&#8230;]</klr> ilia
+        <klr>[ili]</klr> konstatis, ke post pre&gcirc;o <klr>[&#x2026;]</klr> ilia
         sango<tld/>o
         normali&gcirc;is
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url ref="https://www.monato.be/2004/008225.html"
-              >Mirakloj en arbarprofundo</url></vrk>
+          <vrk><url ref="&Monato;/2004/008225.html">Mirakloj en
+          arbarprofundo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        laktobakterioj favore influas <klr>[&#8230;]</klr> la sango<tld/>on
+        laktobakterioj favore influas <klr>[&#x2026;]</klr> la sango<tld/>on
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="https://www.monato.be/2013/011027.php"
-              >Oro blanka</url></vrk>
+          <vrk><url ref="&Monato;/2013/011027.php">Oro blanka</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -2378,6 +2610,7 @@
     </refgrp>
     <trd lng="de">Blutdruck</trd>
   </snc>
+  <trd lng="be">&c_k;&c_r;&c_y;&c_v;&c_ja;&c_n;&c_y; <ind>&c_c;&c_ib;&c_s;&c_k;</ind></trd>
   <trd lng="cs">krevn&iacute; tlak</trd>
   <trd lng="en">blood pressure</trd>
   <trdgrp lng="es">
@@ -2388,7 +2621,37 @@
     <trd>pression art&eacute;rielle</trd>,
     <trd>pression sanguine</trd>
   </trdgrp>
+  <trd lng="ja">&#x8840;&#x5727;  [<ind>&#x3051;&#x3064;&#x3042;&#x3064;</ind>]</trd>
+  <trd lng="pl">ci&sacute;nienie krwi</trd>
   <trd lng="sk">krvn&yacute; tlak</trd>
+  <trd lng="uk">&c_k;&c_r;&c_o;&c_v;&#x2019;&c_ja;&c_n;&c_i;&c_j; &c_t;&c_i;&c_s;&c_k;</trd>
+</drv>
+
+<drv mrk="prem.tempo0o">
+  <kap>
+    tempo<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <ref cel="urgx.0o">Ur&gcirc;o</ref>:
+      <ekz>
+        tiu provizora elekto do donos al nia Asocio la eblecon sen plej granda
+        tempo<tld/>o ser&ccirc;i kaj ta&ubreve;gan personaron
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#x2116;12</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hast.0o">hasto</ref>,
+      <ref cel="rapid.0o">rapido</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Zeitdruck</trd>
+  <trd lng="en">time pressure</trd>
+  <trd lng="fr">pression du temps</trd>
+  <trd lng="pl">presja czasu</trd>
 </drv>
 
 <drv mrk="prem.vin0anto">
@@ -2410,12 +2673,14 @@
     </dif>
     <trd lng="de">Kelter <klr>(Mensch)</klr></trd>
   </snc>
+  <trd lng="be">&c_d;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_sh;&c_ch;&c_y;&c_k;</trd>
   <trdgrp lng="en">
     <trd>winemaker</trd>,
     <trd>vintner</trd>
   </trdgrp>
   <trd lng="es">pisa&uacute;vas</trd>
   <trd lng="fr">fouleur<klr tip="amb"> (de raisin)</klr></trd>
+  <trd lng="pl">producent <ind>wina</ind></trd>
   <trd lng="ru">&c_d;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_shch;&c_i;&c_k;</trd>
 </drv>
 
@@ -2441,8 +2706,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gilbert Ledon</aut>
-          <vrk><url ref="https://www.monato.be/2003/008015.html"
-              >Misa mondo</url></vrk>
+          <vrk><url ref="&Monato;/2003/008015.html">Misa mondo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -2452,6 +2716,7 @@
     uzo. Povas esti aliaj, pli gravaj nuancoj. Necesas trovi
     ekz-ojn kaj aldoni klarigan rim. <aut>MB</aut>
   </adm>
+  <trd lng="be">&c_p;&c_r;&c_e;&c_s;</trd>
   <trd lng="en">press</trd>
   <trd lng="es">prensa<klr tip="ind"> (m&aacute;quina de comprimir)</klr></trd>
   <trd lng="fr">presse<klr tip="ind"> (machine &agrave; comprimer)</klr></trd>
@@ -2459,9 +2724,14 @@
     <trd>sajtol&oacute;g&eacute;p</trd>,
     <trd>pr&eacute;sg&eacute;p</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5727;&#x643E;&#x6A5F;  [<ind>&#x3042;&#x3063;&#x3055;&#x304F;&#x304D;</ind>]</trd>,
+    <trd>&#x30D7;&#x30EC;&#x30B9;&#x6A5F;  [<ind>&#x30D7;&#x30EC;&#x30B9;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">prasa <klr>(maszyna)</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_s;&c_s;</trd>
   <trd lng="de">Presse</trd>
+  <trd lng="uk">&c_m;&c_je;&c_h;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_i;&c_j; &c_p;&c_r;&c_je;&c_s;</trd>
 </drv>
 
 <drv mrk="prem.0devigi0necesigi0trudi">
@@ -2477,10 +2747,11 @@
         ke tiuj sin
         <tld/>trudu en registaran pozicion
         <fnt>
-          <bib>Monato</bib>
+          
           <aut>Guido van Damme</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007259.html">Belgio</url></vrk>
+          <vrk><url ref="&Monato;/2001/007259.php">Belgio: demokratio blokita</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 8</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -2494,14 +2765,22 @@
     Vd la lastan rim.
     <aut>MB</aut>
   </adm>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_m;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="de">zwingen</trd>
   <trd lng="en">pressure</trd>
   <trdgrp lng="hu">
     <trd>k&eacute;nyszer&iacute;t</trd>,
     <trd>nyom&aacute;st gyakorol r&aacute;</trd>
   </trdgrp>
+  <trd lng="ja">&#x5727;&#x529B;&#x3092;&#x304B;&#x3051;&#x3066;&#x7121;&#x7406;&#x5F37;&#x3044;&#x3059;&#x308B;  [<ind>&#x3042;&#x3064;&#x308A;&#x3087;&#x304F;&#x3092;&#x304B;&#x3051;&#x3066;&#x3080;&#x308A;&#x3058;&#x3044;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">opdringen</trd>
-  <trd lng="pl">wymusza&cacute;</trd>
+  <trdgrp lng="pl">
+    <trd>wymusza&cacute;</trd>,
+    <trd>zmusza&cacute;</trd>
+  </trdgrp>
   <trd lng="sk">vn&uacute;ti&tcaron;</trd>
   <trd lng="cs">vnutit</trd>
 </drv>
@@ -2520,28 +2799,28 @@
 </rim>
 </art>
 <!--
-$Log: prem.xml,v $
-versio 1.47 2020/02/16 12:10:35
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.66 2023/04/23 01:54:31
+Vito Redsky: +trd pl 
 
-Revision 1.46  2019/09/21 16:10:15  revo
-Wolfram Diestel: fnt-oj, ekz-oj, germ trd-oj, ordo de drv, ~ajxo KOMUNE
+versio 1.65 2023/04/09 13:26:16
+Paul Peeraerts: &Monato;/
 
-Revision 1.45  2018/07/18 20:10:15  revo
-Alain Gerard: + ligiloj
+versio 1.64 2023/03/29 08:32:56
+Paul Peeraerts: &Monato;
 
-Revision 1.44  2018/05/04 09:10:15  revo
-Michel Cantigneaux: + ekzemplo por korpremi el Infanoj en Torento
+versio 1.63 2023/03/26 22:27:57
+Paul Peeraerts: &Monato;
 
-Revision 1.43  2018/01/03 09:10:13  revo
-Guillermo Molleda Jimena: trd es
+versio 1.62 2022/06/09 06:34:53
+Wolfram Diestel: +tempo~o
 
-Revision 1.42  2017/09/04 14:10:15  revo
-Jeromo Vasxe: + nesub~ebla
+versio 1.61 2022/05/04 18:30:33
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.41  2015/10/10 17:10:15  revo
-Cindy Moon McKee: +trd en
+versio 1.52 2021/11/25 08:35:27
+Dmitri Gabinski: + trd be
 
-Revision 1.40  2015/07/04 08:37:42  revo
+versio 1.51 2021/09/14 15:32:47
 -->
 </vortaro>

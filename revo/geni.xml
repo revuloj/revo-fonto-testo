@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: geni.xml,v 1.21 2009/08/24 16:31:34 revo Exp $">
+<art mrk="$Id: geni.xml,v 1.32 2023/08/31 14:29:52 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>geni</rad>/o <fnt><bib>FK</bib></fnt>
@@ -97,6 +96,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_je;&c_n;&c_ib;&c_j;</trd>,
+      <trd>&c_g;&c_je;&c_n;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="geni.0o.dajmono">
     <uzo tip="fak">MIT</uzo>
@@ -106,8 +109,7 @@
         lampo en kiu <tld/>o lo&gcirc;us
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=512312"
-              >Olelampo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=512312">Olelampo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -156,6 +158,11 @@
   <trd lng="es">genio</trd>
   <trd lng="fr">g&eacute;nie</trd>
   <trd lng="it">genio</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5929;&#x624D;  [<ind>&#x3066;&#x3093;&#x3055;&#x3044;</ind>]</trd>,
+    <trd>&#x5929;&#x5206;  [<ind>&#x3066;&#x3093;&#x3076;&#x3093;</ind>]</trd>,
+    <trd>&#x5B88;&#x8B77;&#x795E;  [<ind>&#x3057;&#x3085;&#x3054;&#x3058;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">genie</trd>
   <trd lng="ru">&c_g;&c_je;&c_n;&c_i;&c_j;</trd>
   <trdgrp lng="sk">
@@ -163,6 +170,10 @@
     <trd>ve&lcaron;duch</trd>
   </trdgrp>
   <trd lng="tr">dahi</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_h;</trd>,
+    <trd>&c_gu;&c_je;&#x43D;&c_ib;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="geni.0a">
@@ -209,7 +220,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la popolo lo&gcirc;anta en la valo de Nilo devis <klr>[&#8230;]</klr> reguligi la akvojn, se
+        la popolo lo&gcirc;anta en la valo de Nilo devis <klr>[&#x2026;]</klr> reguligi la akvojn, se
         &gcirc;i estis <tld/>a
         <fnt>
           <bib>Far1</bib>
@@ -250,6 +261,7 @@
     <trd>l&aacute;ngesz&udblac;</trd>
   </trdgrp>
   <trd lng="it">geniale</trd>
+  <trd lng="ja">&#x5929;&#x624D;&#x7684;&#x306A;  [<ind>&#x3066;&#x3093;&#x3055;&#x3044;&#x3066;&#x304D;&#x306A;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>geniaal</trd>,
     <trd>hoogbegaafd</trd>
@@ -258,6 +270,7 @@
   <trd lng="pt">genial</trd>
   <trd lng="ru">&c_g;&c_je;&c_n;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">geni&aacute;lny</trd>
+  <trd lng="uk">&c_gu;&c_je;&#x43D;&c_ib;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="geni.0ajxo">
@@ -266,7 +279,7 @@
     <dif>
       <tld lit="G"/>eca ideo, plenumo, invento:
       <ekz>
-        &scirc;i sugestis al mi <klr>[&#8230;]</klr> kelkajn &scirc;an&gcirc;etojn en la 
+        &scirc;i sugestis al mi <klr>[&#x2026;]</klr> kelkajn &scirc;an&gcirc;etojn en la
         internacia lingvo, kiuj estas veraj <tld/>a&jcirc;oj
         <fnt>
           <aut>L. Beaucaire</aut>
@@ -279,24 +292,36 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="https://www.monato.be/2013/010449.php">Versa&jcirc;oj elver&scirc;itaj</url></vrk>
+          <vrk><url ref="&Monato;/2013/010449.php">Versa&jcirc;oj elver&scirc;itaj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         emocioj, <tld/>a&jcirc;oj kaj perfidoj, &ccirc;io &ccirc;i povas esti entenata de kelkaj metroj da
         magneta bendo
-        <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006950.html">Alberto Garc&iacute;a Fumero</url></vrk>
+        <fnt><aut>Alberto Garc&iacute;a Fumero</aut>,
+        <vrk><url ref="&Monato;/2000/006950.php">Alfa ondo</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/08, p. 23</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_je;&c_sh;&c_t;&c_a; <ind>&c_g;&c_je;&c_n;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_a;&c_je;</ind></trd>
   <trdgrp lng="de">
     <trd>Geniest&uuml;ck</trd>,
     <trd>Geniestreich</trd>
   </trdgrp>
   <trd lng="fr">trait de g&eacute;nie</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5929;&#x624D;&#x7684;&#x306A;&#x4F5C;&#x54C1;  [<ind>&#x3066;&#x3093;&#x3055;&#x3044;&#x3066;&#x304D;&#x306A;&#x3055;&#x304F;&#x3072;&#x3093;</ind>]</trd>,
+    <trd>&#x795E;&#x6280;  [<ind>&#x3057;&#x3093;&#x304E;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_je;&#x43D;&c_ib;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &c_t;&c_v;&c_ib;&c_r;</trd>,
+    <trd>&c_gu;&c_je;&#x43D;&c_ib;&c_a;&#x43B;&#x44C;&#x43D;&c_a; &c_r;&c_ib;&c_ch;</trd>,
+    <trd>&c_gu;&c_je;&#x43D;&c_ib;&c_a;&#x43B;&#x44C;&#x43D;&c_a; &c_ib;&c_d;&c_je;&#x44F;</trd>,
+    <trd>&c_ib; &c_t;.&#x43F;.</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="geni.0ulo">
@@ -305,7 +330,7 @@
     <dif>
       Homo havanta <tld/>on, grandegan talenton por iu afero:
       <ekz>
-        lin por tiaj <klr>[&#8230;]</klr> versoj mi konfesus <tld/>ulo
+        lin por tiaj <klr>[&#x2026;]</klr> versoj mi konfesus <tld/>ulo
         <fnt>
           <aut>H. Sienkewicz, trad. Lydia Zamenhof</aut>
           <vrk>Quo vadis?</vrk>
@@ -326,15 +351,30 @@
       </ekz>
     </dif>
   </snc>
+      <trdgrp lng="be">
+      <trd>&c_g;&c_je;&c_n;&c_ib;&c_j;</trd>,
+      <trd>&c_g;&c_je;&c_n;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
+    </trdgrp>
+
   <trdgrp lng="de">
     <trd>Hochbegabter</trd>,
     <trd>Genie <klr>(Mensch)</klr></trd>
   </trdgrp>
   <trd lng="fr">g&eacute;nie<klr> (personne)</klr></trd>
+  <trd lng="ja">&#x5929;&#x624D;  [<ind>&#x3066;&#x3093;&#x3055;&#x3044;</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.31 2023/07/27 13:33:48
+Dmitri Gabinski: + trd be
+
+versio 1.30 2023/04/27 10:31:20
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.29 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.26  2018/08/21 22:10:14  revo
 Jeromo Vasxe: + ~ulo
 
@@ -348,11 +388,5 @@ Revision 1.23  2015/06/01 19:10:17  revo
 Jeromo Vasxe: + ~ajxo
 
 Revision 1.22  2011/12/06 23:10:16  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.21  2009/08/24 16:31:34  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.20  2009/08/18 19:20:18  revo
 -->
 </vortaro>

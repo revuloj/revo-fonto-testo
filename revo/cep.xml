@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cep.xml,v 1.20 2009/05/22 16:30:49 revo Exp $">
+<art mrk="$Id: cep.xml,v 1.31 2023/08/31 10:10:26 revo Exp $">
 <kap>
 <ofc>8</ofc>
 <rad>cep</rad>/o
@@ -36,7 +35,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;aloto <klr>[&#8230;]</klr> gustas iom pli delikata ol ordinara <tld/>o kaj estas pli
+        &scirc;aloto <klr>[&#x2026;]</klr> gustas iom pli delikata ol ordinara <tld/>o kaj estas pli
         facile digestebla
         <fnt>
           <bib>Viki</bib>
@@ -47,12 +46,13 @@
     <bld lok="&WCU;/thumb/2/29/Allium_cepa_004.JPG/360px-Allium_cepa_004.JPG" prm="CC BY-SA 3.0">&gcirc;ardena cepo (Allium cepa), Karlsruhe, Germanujo
         <fnt>
           <aut>H. Zell, propra verko</aut>
-          <lok><url ref="&WCW;/File:Allium_cepa_004.JPG">https://commons.wikimedia.org/wiki/File:Allium_cepa_004.JPG</url></lok>
+          <lok><url ref="&WCW;/File:Allium_cepa_004.JPG">&WCW;/File:Allium_cepa_004.JPG</url></lok>
         </fnt>
     </bld>
   </snc>
   <trd lng="be">&c_c;&c_y;&c_b;&c_u;&c_l;&c_ja;</trd>
   <trd lng="bg">&c_l;&c_u;&c_k;</trd>
+  <trd lng="bo">&#xF59;&#xF7C;&#xF44;&#xF0B;</trd>
   <trd lng="br">ognon</trd>
   <trd lng="ca">ceba</trd>
   <trd lng="cs">cibule kuchy&ncaron;sk&aacute;</trd>
@@ -61,9 +61,14 @@
   <trd lng="en">onion</trd>
   <trd lng="es">cebolla</trd>
   <trd lng="fr">oignon</trd>
+  <trd lng="he">&#x5D1;&#x5E6;&#x5DC;</trd>
   <trd lng="hu">hagyma</trd>
   <trd lng="id">bawang merah</trd>
   <trd lng="it">cipolla</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7389;&#x30CD;&#x30AE;  [<ind>&#x305F;&#x307E;&#x306D;&#x304E;</ind>]</trd>,
+    <trd>&#x30BF;&#x30DE;&#x30CD;&#x30AE;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>ui</trd>,
     <trd>ajuin</trd>
@@ -74,10 +79,17 @@
     <klr>(&c_r;&c_je;&c_p;&c_ch;&c_a;&c_t;&c_y;&c_j;)</klr></trd>
   <trd lng="sk">cibu&lcaron;a</trd>
   <trd lng="tr">so&gbreve;an</trd>
+  <trdgrp lng="uk">
+    <trd>&#x446;&#x438;&#x431;&#x443;&#x43B;&#x44F;</trd>,
+    <trd>&#x446;&#x438;&#x431;&#x443;&#x43B;&#x438;&#x43D;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.30 2022/04/26 16:27:51
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.25  2019/01/18 12:10:17  revo
 Wolfram Diestel: +ekz-oj, +bld
 
@@ -97,8 +109,5 @@ Revision 1.20  2009/05/22 16:30:49  revo
 Antonio Codazzi: +trd it
 
 Revision 1.19  2007/05/07 16:30:20  revo
-Jozefo Horvath: kor. trd hu
-
-Revision 1.18  2007/01/13 17:30:33  revo
 -->
 </vortaro>

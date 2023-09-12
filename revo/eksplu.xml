@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: eksplu.xml,v 1.17 2009/09/23 17:25:49 revo Exp $">
+<art mrk="$Id: eksplu.xml,v 1.22 2023/08/31 11:49:27 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>ekspluat</rad>/i
@@ -88,16 +87,15 @@
     <trd lng="de">&uuml;berstrapazieren</trd>
     <trd lng="hu">vissza&eacute;l</trd>
   </snc>
-  <trd
-  lng="be">&c_e;&c_k;&c_s;&c_p;&c_l;&c_ju;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_l;&c_ju;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">explotar</trd>
   <trdgrp lng="cs">
-    <trd>odřít</trd>,
-    <trd>vykořistit</trd>,
-    <trd>vykořisťovat</trd>,
-    <trd>využít</trd>,
-    <trd>využívat</trd>,
-    <trd>zneužít</trd>
+    <trd>od&#x159;&#xED;t</trd>,
+    <trd>vyko&#x159;istit</trd>,
+    <trd>vyko&#x159;is&#x165;ovat</trd>,
+    <trd>vyu&#x17E;&#xED;t</trd>,
+    <trd>vyu&#x17E;&#xED;vat</trd>,
+    <trd>zneu&#x17E;&#xED;t</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>ausnutzen</trd>,
@@ -106,14 +104,25 @@
   <trd lng="en">exploit</trd>
   <trd lng="es">explotar</trd>
   <trd lng="fr">exploiter</trd>
+  <trdgrp lng="ja">
+    <trd>&#x958B;&#x767A;&#x3059;&#x308B;  [<ind>&#x304B;&#x3044;&#x306F;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3046;&#x307E;&#x304F;&#x5229;&#x7528;&#x3059;&#x308B;  [<ind>&#x3046;&#x307E;&#x304F;&#x308A;&#x3088;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x643E;&#x53D6;&#x3059;&#x308B;  [<ind>&#x3055;&#x304F;&#x3057;&#x3085;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x9177;&#x4F7F;&#x3059;&#x308B;  [<ind>&#x3053;&#x304F;&#x3057;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">wykorzystywa&cacute;</trd>
   <trd lng="pt">explorar</trd>
-  <trd
-  lng="ru">&c_e;&c_k;&c_s;&c_p;&c_l;&c_u;&c_a;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_e;&c_k;&c_s;&c_p;&c_l;&c_u;&c_a;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
-    <trd>dobývať</trd>,
-    <trd>vykorisťovať</trd>,
-    <trd>využívať</trd>
+    <trd>dob&#xFD;va&#x165;</trd>,
+    <trd>vykoris&#x165;ova&#x165;</trd>,
+    <trd>vyu&#x17E;&#xED;va&#x165;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x435;&#x43A;&#x441;&#x43F;&#x43B;&#x443;&#x430;&#x442;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x438;&#x437;&#x438;&#x441;&#x43A;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x438;&#x43A;&#x43E;&#x440;&#x438;&#x441;&#x442;&#x43E;&#x432;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x434;&#x43E;&#x431;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 
@@ -130,6 +139,10 @@
       <trd>zdziera&cacute;<klr> (pot.)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x643E;&#x53D6;&#x3059;&#x308B;  [<ind>&#x3055;&#x304F;&#x3057;&#x3085;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x9177;&#x4F7F;&#x3059;&#x308B;  [<ind>&#x3053;&#x304F;&#x3057;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

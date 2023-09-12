@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: anstat.xml,v 1.34 2010/06/16 16:30:42 revo Exp $">
+<art mrk="$Id: anstat.xml,v 1.45 2023/07/30 03:25:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>anstata&ubreve;</rad>
@@ -17,9 +16,8 @@
         en la funkcio de:
         <ekz>
           <tld/> kafo li donis al mi teon kun sukero, sed sen kremo
-          <fnt><bib>F</bib>, <lok>&FE;26.</lok></fnt>;
-        </ekz>
-        <ekz>
+          <fnt><bib>F</bib> <lok>&FE;26.</lok></fnt>;
+        </ekz><ekz>
           <ind>ne servas larmo <tld/> armo</ind>
           <fnt><bib>PrV</bib></fnt>.
           <trd lng="hu">fegyver helyett nem szolg&aacute;l a k&ouml;nny
@@ -35,43 +33,42 @@
         a&ubreve; kio estas <tld/>ata:
         <ekz>
           vi dormas <tld/> labori;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           Petro batis Pa&ubreve;lon <tld/> Vilhelmon
-          <fnt>
-          <bib>LR</bib>,
-          <lok>Respondo 51a, Oficiala Gazeto, IV, 1911, p. 2a.</lok>
+          <fnt><bib>LR</bib>,
+            <lok>Respondo 51a, Oficiala Gazeto, IV, 1911, p. 2a.</lok>
           </fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
+          Ne voku <tld/> Allahon alian Dion
+         <fnt>
+             <aut>Muhamado, tr. I. Chiussi</aut>: 
+             <vrk>La Nobla Korano</vrk>, <lok>28:89</lok>
+          </fnt>;
+        </ekz><ekz>
           vi sati&gcirc;is per honto <tld/> per honoro
           <fnt><bib>MT</bib>, <lok>&Hab; 2:16</lok></fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           neniu povas protesti, se vi skribos ekzemple per artifikaj
           gotaj literoj <tld/> per literoj ordinaraj
           <fnt><bib>LR</bib>,
           <lok>Respondo 45a, La Revuo, 1908, a&ubreve;gusto</lok></fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           &ccirc;iun, kiu en la da&ubreve;ro de tridek tagoj petos ion 
           de ia dio a&ubreve; homo <tld/> de vi, ho re&gcirc;o, oni 
           &jcirc;etu en kavon de leonoj
           <fnt><bib>MT</bib>, <lok>&Dan; 6:7</lok></fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           la malpli pezaj taskoj devos esti donataj al la virinoj
           <tld/> al la viroj
           <fnt>
-          <aut>Platono, tr. D. Broadribb</aut>: <vrk>La
-Respubliko</vrk>.
-          <lok>Parto 5a.</lok>;
+          <aut>Platono, trad. D. Broadribb</aut>
+          <vrk>La Respubliko</vrk>
+          <lok>Parto 5a</lok>
           </fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           <tld/> ke &ccirc;iu lernas diversajn lingvojn, &ccirc;iuj 
           ellernadu unu saman lingvon
-          <fnt><bib>EE</bib>, <lok>&ccirc;ap. 3a.</lok></fnt>.
+          <fnt><bib>EE</bib> <lok>&ccirc;ap. 3a.</lok></fnt>.
         </ekz>
       </dif>
       <adm>
@@ -121,12 +118,13 @@ Respubliko</vrk>.
       <trd>in place of</trd>
     </trdgrp>
     <trd lng="de">statt</trd>
-    <trdgrp  lng="es">
+    <trdgrp lng="es">
       <trd>en <ind>lugar</ind> de</trd>,
       <trd>en <ind>vez</ind> de</trd>
     </trdgrp>
     <trd lng="fr">au <ind>lieu</ind> de</trd>
-    <trdgrp lng="hu">
+    <trd lng="he">&bet;&mem;&qof;&vav;&fmem;</trd>
+  <trdgrp lng="hu">
       <trd>helyett</trd>,
       <trd>hely&eacute;be</trd>
     </trdgrp>
@@ -152,8 +150,9 @@ Respubliko</vrk>.
     <trd lng="ru">&c_v;&c_m;&c_je;&c_s;&c_t;&c_o;</trd>
     <trd lng="sk">namiesto</trd>
     <trd lng="sv">ist&auml;llet f&ouml;r</trd>
-   
-  </drv>    
+    <trd lng="th">&#3649;&#3607;&#3609;</trd>
+    <trd lng="uk">&c_p;&c_r;&c_i;&c_j;&c_m;.&nbsp;&c_z;&c_a;&c_m;&c_ib;&c_s;&c_t;&c_mol;</trd>
+</drv>    
 </subart>
 
 <subart>
@@ -161,7 +160,6 @@ Respubliko</vrk>.
     Vortero kun la senco
     <sncref ref="anstat.0.prep"/>:
   </dif>
-
   <drv mrk="anstat.0i">
     <kap><ofc>*</ofc><tld/>i</kap>
     <gra><vspec>tr</vspec></gra>
@@ -172,17 +170,13 @@ Respubliko</vrk>.
         <ekz>
           la fre&scirc;econ de mia sukoj <tld/>is sekeco de somero
           <fnt><bib>MT</bib><lok>&Psa; 32:4</lok></fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           mielo <tld/>as sukeron;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           nenio <tld/>as la sanon;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           dum mia foresto mia kolego <tld/>os min;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           tiam ne estis re&gcirc;o en Edomujo: estis
           <ind><tld/>anto</ind> de re&gcirc;o
           <fnt><bib>MT</bib><lok>&Re1; 22:47</lok></fnt>;
@@ -191,15 +185,13 @@ Respubliko</vrk>.
             <trd>suppl&eacute;ant<klr tip="ind"> (subst.)</klr></trd>
           </trdgrp>
           <trd lng="hu">helyettes</trd>
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           vi estos mia <tld/>anto en la religiaj devoj
           <fnt><bib>Far3</bib><lok>&ccirc;ap. 1</lok></fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           mi nomas mia religio nur tiun religion a&ubreve; 
           religi<tld/>antan sistemon, je kiu mi efektive kredas
-          <fnt><bib>OV</bib><lok>Deklaracio pri Homaranismo (III-9)
+          <fnt><bib>OV</bib> <lok>Deklaracio pri Homaranismo (III-9)
           </lok></fnt>.
         </ekz>
       </dif>
@@ -225,7 +217,8 @@ Respubliko</vrk>.
       <trd>suppl&eacute;er</trd>,
       <trd>tenir <ind>lieu</ind> (de)</trd>
     </trdgrp>
-    <trd lng="hu">helyettes&iacute;t</trd>
+    <trd lng="he">&bet;&mem;&qof;&vav;&fmem; &zayin;&alef;&tav;</trd>
+  <trd lng="hu">helyettes&iacute;t</trd>
     <trdgrp lng="nl">
       <trd>vervangen<klr tip="ind"> (plaats innemen van)</klr></trd>,
       <trd>plaats innemen van</trd>
@@ -254,9 +247,15 @@ Respubliko</vrk>.
       <trd>ers&auml;tta</trd>,
       <trd>substituera</trd>
     </trdgrp>
-  </drv>
+    <trdgrp lng="uk">
+    <trd>(&c_k;&c_o;&c_g;&c_o;</trd>,
+    <trd>&c_shch;&c_o;)&nbsp;&c_z;&c_a;&c_m;&c_ib;&c_n;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
 
-  <drv mrk="anstat.0o">
+<drv mrk="anstat.0o">
     <kap><tld/>o</kap>
     <uzo tip="stl">RAR</uzo>
     <snc mrk="anstat.0o.ajxo">
@@ -267,6 +266,12 @@ Respubliko</vrk>.
           <fnt><bib>MT</bib><lok>&Sen; 21:18</lok></fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="be">
+        <trd>&c_z;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+        <trd>&c_z;&c_a;&c_m;&c_ja;&c_n;&c_ja;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+        <trd>&c_s;&c_u;&c_r;&c_a;&c_g;&c_a;&c_t;</trd>,
+        <trd>&c_s;&c_u;&c_b;&c_s;&c_t;&c_y;&c_t;&c_u;&c_t;</trd>
+      </trdgrp>
       <trd lng="ca">substitut</trd>
       <trdgrp lng="en">
         <trd>replacement</trd>,
@@ -299,12 +304,10 @@ Respubliko</vrk>.
           <fnt>
           <aut>P. Giannellas</aut>
           <vrk>La tervalora imposto</vrk>
-          <lok><url
-ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5704/impo
-stou.html">Norda Prismo 57/4</url></lok>
+          <lok><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5704/impo
+          stou.html">Norda Prismo 57/4</url></lok>
           </fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           akuzativo: rekta objekto, direkto, tempopunkto, <tld/>o de
 prepozicio
           <fnt>
@@ -346,9 +349,9 @@ remplacer)</klr></trd>,
       <trd lng="pt">substitui&ccedil;&atilde;o</trd>
     </snc>
     <trd lng="ru">&c_z;&c_a;&c_m;&c_je;&c_n;&c_a;</trd>
-  </drv>
+</drv>
 
-  <drv mrk="anstat.0a">
+<drv mrk="anstat.0a">
     <kap><tld/>a</kap>
     <snc>
       <dif>
@@ -357,22 +360,20 @@ remplacer)</klr></trd>,
           <tld/>a edzino
           <fnt>
             <bib>Viki</bib>
-            <lok><url
-            ref='https://eo.wikipedia.org/?curid=9616'>Anstata&ubreve;a
+            <lok><url ref="https://eo.wikipedia.org/?curid=9616">Anstata&ubreve;a
             Edzino</url></lok>
           </fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           la Fundamenta <tld/>a skribsistemo (ch, gh, hh, jh, sh, u) ne
           estas oportuna
           <fnt>
             <bib>Viki</bib>
-            <lok><url
-            ref='https://eo.wikipedia.org/?curid=4584'>X-sistemo</url></lok>
+            <lok><url ref="https://eo.wikipedia.org/?curid=4584">X-sistemo</url></lok>
           </fnt>.
         </ekz>
       </dif>
     </snc>
+    <trd lng="be">&c_n;&c_a; <ind>&c_z;&c_a;&c_m;&c_je;&c_n;&c_u;</ind></trd>
     <trdgrp lng="en">
       <trd>replacement</trd>,
       <trd>substitute</trd>,
@@ -397,9 +398,9 @@ remplacer)</klr></trd>,
     <trd lng="ru">
     &c_z;&c_a;&c_m;&c_je;&c_n;&c_ja;&c_ju;&c_shch;&c_i;&c_j;</trd>
     <trd lng="sk">n&aacute;hradn&yacute;</trd>
-  </drv>
+</drv>
 
-  <drv mrk="anstat.0e">
+<drv mrk="anstat.0e">
     <kap><tld/>e</kap>
     <snc>
       <dif>
@@ -411,11 +412,10 @@ remplacer)</klr></trd>,
             <vrk>La Sen&ccirc;esa Rakonto</vrk>
             <lok>Graograman', la Bunta Morto</lok>
           </fnt>;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           mi ne povis mal&scirc;pari tempon en la liniotrajno,
-          sed <tld/>e iris aviadile al Rafael
-          <fnt><bib>&Scirc;talrato</bib><lok>&ccirc;ap. 10</lok></fnt>.
+          sed <tld/>e iris aviadile al <nom>Rafael</nom>
+          <fnt><bib>&Scirc;talrato</bib> <lok>&ccirc;ap. 10</lok></fnt>.
         </ekz>
       </dif>
     </snc>
@@ -430,7 +430,8 @@ remplacer)</klr></trd>,
       <trd>en <ind>remplacement</ind></trd>,
       <trd>&agrave; la <ind>place</ind></trd>
     </trdgrp>
-    <trd lng="hu">helyette</trd>
+    <trd lng="he">&bet;&mem;&qof;&vav;&fmem; &zayin;&alef;&tav;</trd>
+  <trd lng="hu">helyette</trd>
     <trdgrp lng="it">
         <trd>invece</trd>
         <trd>anzi</trd>
@@ -442,9 +443,9 @@ remplacer)</klr></trd>,
     </trdgrp>
     <trd lng="ru">&c_v;&c_z;&c_a;&c_m;&c_je;&c_n;</trd>
     <trd lng="sk">namiesto</trd>
-  </drv>
+</drv>
 
-  <drv mrk="anstat.0ajxo">
+<drv mrk="anstat.0ajxo">
     <kap><tld/>a&jcirc;o</kap>
     <snc>
       <dif>
@@ -453,19 +454,23 @@ remplacer)</klr></trd>,
           la fortika&jcirc;oj kaj turoj fari&gcirc;os por &ccirc;iam
           <tld/>a&jcirc;o de kavernoj, &gcirc;ojloko por sova&gcirc;aj 
           azenoj
-          <fnt><bib>MT</bib><lok>&Jes; 32:14</lok></fnt>;
-        </ekz>
-        <ekz>
+          <fnt><bib>MT</bib> <lok>&Jes; 32:14</lok></fnt>;
+        </ekz><ekz>
           <ctl>Gzip</ctl> estas <klr>[...]</klr> libera <tld/>a&jcirc;o
           por la programo <ctl>compress</ctl>
           <fnt>
             <bib>Viki</bib>
-            <lok><url
-            ref='https://eo.wikipedia.org/?curid=1469'>Gzip</url></lok>
+            <lok><url ref="https://eo.wikipedia.org/?curid=1469">Gzip</url></lok>
           </fnt>.
         </ekz>
       </dif>
     </snc>
+      <trdgrp lng="be">
+        <trd>&c_z;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+        <trd>&c_z;&c_a;&c_m;&c_ja;&c_n;&c_ja;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+        <trd>&c_s;&c_u;&c_r;&c_a;&c_g;&c_a;&c_t;</trd>,
+        <trd>&c_s;&c_u;&c_b;&c_s;&c_t;&c_y;&c_t;&c_u;&c_t;</trd>
+      </trdgrp>
     <trd lng="bg">&c_z;&c_a;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_je;&c_l;</trd>
     <trdgrp lng="en">
       <trd>replacement</trd>,
@@ -473,7 +478,8 @@ remplacer)</klr></trd>,
       <trd>surrogate</trd>
     </trdgrp>
     <trd lng="fr">substitut<klr tip="ind"> (qc qui remplace)</klr></trd>
-    <trd lng="hu">p&oacute;tl&eacute;k</trd>
+    <trd lng="he">&tav;&#1463;&het;&#1458;&lamed;&#1460;&yod;&fpe;</trd>
+  <trd lng="hu">p&oacute;tl&eacute;k</trd>
     <trd lng="it">surrogato</trd>
     <trdgrp lng="pl">
       <trd>namiastka</trd>,
@@ -482,33 +488,31 @@ remplacer)</klr></trd>,
     </trdgrp>
     <trd lng="ru">
     &c_z;&c_a;&c_m;&c_je;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
-  </drv>
+</drv>
   
-  <drv mrk="anstat.0anto">
+<drv mrk="anstat.0anto">
     <kap>
       <tld/>anto
     </kap>
     <snc>
       <dif>
-         Iu, kiu anstata&ubreve;as alian:
+         Iu, kiu <tld/>as alian:
           <ekz>
             oni alkondukis bovon kaj antilopon, kiujn devis mortigi
-            Ramzes XIII, sed mortigis ilin lia <tld/>anto religia, la
+            <nom>Ramzes XIII</nom>, sed mortigis ilin lia <tld/>anto religia, la
             &ccirc;efpastro
             <fnt>
               <bib>Far3</bib>
-              <lok>&Ccirc;apitro IX</lok>
+              <lok>&Ccirc;apitro 9a</lok>
             </fnt>;
-          </ekz>
-          <ekz>
+          </ekz><ekz>
             li estas mia <tld/>anto, kaj se vi legos ion interesan en la
             steloj, li komunikos al mi matene
             <fnt>
               <bib>Far3</bib>
-              <lok>&Ccirc;apitro III</lok>
+              <lok>&Ccirc;apitro 3a</lok>
             </fnt>;
-          </ekz>
-          <ekz>
+          </ekz><ekz>
             ne estis re&gcirc;o en Edomujo, estis <tld/>anto de
             re&gcirc;o
             <fnt>
@@ -523,6 +527,10 @@ remplacer)</klr></trd>,
       </refgrp>
       <ref tip="vid" cel="reprezent.0i">reprezenti</ref>
     </snc>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_k;&c_a;&c_n;&c_a;&c_w;&c_c;&c_a; &c_a;&c_b;&c_a;&c_v;&c_ja;&c_z;&c_k;&c_a;&c_w;</trd>,
+      <trd>&c_n;&c_a;&c_m;&c_je;&c_s;&c_mol;&c_n;&c_ib;&c_k;</trd>
+    </trdgrp>
     <trd lng="bg">&c_z;&c_a;&c_m;&c_je;&c_s;&c_t;&c_n;&c_i;&c_k;</trd>
     <trdgrp lng="de">
       <trd>Ersatzmann</trd>,
@@ -535,26 +543,25 @@ remplacer)</klr></trd>,
       <trd>deputy</trd>,
       <trd>steward</trd>
     </trdgrp>
-  </drv>
+    <trd lng="he">&tav;&het;&lamed;&yod;&fpe;</trd>
+</drv>
 
-  <drv mrk="anstat.0igi">
+<drv mrk="anstat.0igi">
     <kap><tld/>igi</kap>
-    <snc>
+    <snc mrk="anstat.0igi.KOMUNE">
       <dif>
         Meti en la lokon de; uzi <tld/>; doni al iu la rolon de:
         <ekz>
           se tamen iu <tld/>igos bruton per bruto, tiam &gcirc;i kaj
           anka&ubreve; &gcirc;ia <tld/>igito fari&gcirc;u konsekrita
-          <fnt><bib>MT</bib><lok>&Lev; 27:10</lok></fnt>;
-        </ekz>
-        <ekz>
+          <fnt><bib>MT</bib> <lok>&Lev; 27:10</lok></fnt>;
+        </ekz><ekz>
           <tld/>igi dornobarilon per muro, oficiston per oficistino;
-        </ekz>
-        <ekz>
+        </ekz><ekz>
           ne longe &scirc;i ser&ccirc;is, &gcirc;is &scirc;i eltrovis
-          la foreston de la cilindroj, kiujn Lemuel forprenis, kaj la
+          la foreston de la cilindroj, kiujn <nom>Lemuel</nom> forprenis, kaj la
           <ind><tld/>igo</ind>n per similaj skriba&jcirc;oj
-          <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 8</lok></fnt>;
+          <fnt><bib>I&scirc;tar</bib> <lok>&ccirc;ap. 8</lok></fnt>.
           <trdgrp lng="fr">
             <trd>remplacement<klr tip="ind"> (fait de remplacer)</klr>
             </trd>,
@@ -566,34 +573,6 @@ remplacer)</klr></trd>,
             <trd>csere</trd>,
             <trd>v&aacute;lt&aacute;s</trd>
           </trdgrp>
-        </ekz>
-        <ekz>
-          &ccirc;io alia &#8208; iloj, aparatoj, ma&scirc;inoj &#8208; 
-          estis <ind><tld/>igebla</ind> &ccirc;e bezono
-          <fnt><bib>&Scirc;talrato</bib><lok>&ccirc;ap. 13</lok></fnt>;
-          <trdgrp lng="fr">
-            <trd>rempla&ccedil;able</trd>,
-            <trd>substituable</trd>,
-            <trd>&eacute;changeable</trd>
-          </trdgrp>
-          <trdgrp lng="hu">
-            <trd>helyettes&iacute;thet&odblac;</trd>,
-            <trd>felv&aacute;lthat&oacute;</trd>,
-            <trd>lecser&eacute;lhet&odblac;</trd>
-          </trdgrp>
-        </ekz>
-        <ekz>
-          dank' al viaj zorgoj la lando perdis brilan scienciston,
-          <ind>ne<tld/>igebla</ind>n instruiston, kiu, memkompreneble,
-          nenion dan&gcirc;eran faris
-          <fnt>
-          <bib>Voja&gcirc;o</bib>
-          <aut>M. Bron&scirc;tejn</aut>
-          <vrk>Oni ne pafas en Jamburg</vrk>
-          <lok>leciono 11a</lok>
-          </fnt>.
-          <trd lng="fr">irrempla&ccedil;able</trd>
-          <trd lng="hu">p&oacute;tolhatatlan</trd>
         </ekz>
       </dif>
     </snc>
@@ -615,7 +594,8 @@ remplacer)</klr></trd>,
       <trd>substituer (&agrave;)<klr tip="ind"> 
       (mettre &agrave; la place de)</klr></trd>
     </trdgrp>
-    <trdgrp lng="hu">
+    <trd lng="he">&lamed;&he;&het;&lamed;&yod;&fpe;</trd>
+  <trdgrp lng="hu">
       <trd>kicser&eacute;l</trd>,
       <trd>felv&aacute;lt</trd>,
       <trd>hely&eacute;be tesz</trd>
@@ -634,9 +614,58 @@ remplacer)</klr></trd>,
     </trdgrp>
     <trd lng="ru">&c_z;&c_a;&c_m;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>
     <trd lng="sk">nahradi&tcaron;</trd>
-  </drv>
+</drv>
 
-  <drv mrk="anstat.0ilo">
+<drv mrk="anstat.0igebla">
+  <kap>
+    <tld/>igebla
+  </kap>
+  <snc mrk="anstat.0igebla.KOMUNE">
+    <dif>
+      Kiun oni povas <tld/>igi:
+      <ekz>
+          &ccirc;io alia &ndash; iloj, aparatoj, ma&scirc;inoj &ndash; 
+          estis <ind><tld/>igebla</ind> &ccirc;e bezono
+          <fnt><bib>&Scirc;talrato</bib> <lok>&ccirc;ap. 13</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&eacute;changeable</trd>,
+    <trd>rempla&ccedil;able</trd>,
+    <trd>substituable</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>helyettes&iacute;thet&odblac;</trd>,
+    <trd>felv&aacute;lthat&oacute;</trd>,
+    <trd>lecser&eacute;lhet&odblac;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="anstat.ne0igebla">
+  <kap>
+    ne<tld/>igebla
+  </kap>
+  <snc mrk="anstat.ne0igebla.KOMUNE">
+    <dif>
+      Kiun oni ne povas <tld/>igi:
+      <ekz>
+          dank' al viaj zorgoj la lando perdis brilan scienciston,
+          <ind>ne<tld/>igebla</ind>n instruiston, kiu, memkompreneble,
+          nenion dan&gcirc;eran faris
+          <fnt>
+          <aut>M. Bron&scirc;tejn</aut>
+          <vrk>Oni ne pafas en Jamburg</vrk>
+          <lok>1993</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">irrempla&ccedil;able</trd>
+  <trd lng="hu">p&oacute;tolhatatlan</trd>
+</drv>
+
+<drv mrk="anstat.0ilo">
     <kap><tld/>ilo</kap>
     <fnt><bib>PIV1</bib></fnt>
     <snc>
@@ -649,9 +678,8 @@ remplacer)</klr></trd>,
           <fnt>
           <aut>F. Szil&aacute;gy</aut>
           <vrk>Esperanto senvorta</vrk>
-          <lok><url
-ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5705/senv
-orta.html">Norda Prismo 57/5</url></lok>
+          <lok><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5705/senv
+          orta.html">Norda Prismo 57/5</url></lok>
           </fnt>.
         </ekz>
       </dif>
@@ -661,6 +689,12 @@ orta.html">Norda Prismo 57/5</url></lok>
         <ref cel="kauxci.0o">ka&ubreve;cio</ref>
       </refgrp>
     </snc>
+      <trdgrp lng="be">
+        <trd>&c_z;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+        <trd>&c_z;&c_a;&c_m;&c_ja;&c_n;&c_ja;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+        <trd>&c_s;&c_u;&c_r;&c_a;&c_g;&c_a;&c_t;</trd>,
+        <trd>&c_s;&c_u;&c_b;&c_s;&c_t;&c_y;&c_t;&c_u;&c_t;</trd>
+      </trdgrp>
     <trdgrp lng="en">
       <trd>replacement</trd>,
       <trd>substitution</trd>,
@@ -671,7 +705,8 @@ orta.html">Norda Prismo 57/5</url></lok>
       <trd>rechange</trd>,
       <trd>substitut</trd>
     </trdgrp>
-    <trd lng="hu">p&oacute;tszer</trd>
+    <trd lng="he">&tav;&het;&lamed;&yod;&fpe;</trd>
+  <trd lng="hu">p&oacute;tszer</trd>
     <trd lng="it">sostituente</trd>
     <trdgrp lng="pl">
       <trd>zamiennik</trd>,
@@ -693,19 +728,22 @@ orta.html">Norda Prismo 57/5</url></lok>
         <ekz>
           &ccirc;u ili volas averti min, ke ili havas por mi <tld/>ulon?
           <fnt><bib>Far2</bib><lok>&ccirc;ap. 8</lok></fnt>;
-        </ekz>
-        <ekz>
-          Hahnemann portempe laboris kiel <tld/>ulo de la oficiala urba
+        </ekz><ekz>
+          <nom>Hahnemann</nom> portempe laboris kiel <tld/>ulo de la oficiala urba
           kuracisto
           <fnt>
             <bib>Viki</bib>
-            <lok><url ref='https://eo.wikipedia.org/?curid=35751'>Samuel
+            <lok><url ref="https://eo.wikipedia.org/?curid=35751">Samuel
             Hahnemann</url></lok>
           </fnt>.
         </ekz>
       </dif>
       <ref tip="sin" cel="garant.0anto">garantianto</ref>
     </snc>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_k;&c_a;&c_n;&c_a;&c_w;&c_c;&c_a; &c_a;&c_b;&c_a;&c_v;&c_ja;&c_z;&c_k;&c_a;&c_w;</trd>,
+      <trd>&c_n;&c_a;&c_m;&c_je;&c_s;&c_mol;&c_n;&c_ib;&c_k;</trd>
+    </trdgrp>
     <trd lng="bg">&c_z;&c_a;&c_m;&c_je;&c_s;&c_t;&c_n;&c_i;&c_k;</trd>
     <trd lng="es">sustituto</trd>
     <trdgrp lng="fr">
@@ -716,7 +754,8 @@ orta.html">Norda Prismo 57/5</url></lok>
       <trd>Ersatzmann</trd>,
       <trd>Nachfolger</trd>
     </trdgrp>
-    <trd lng="hu">helyettes</trd>
+    <trd lng="he">&mem;&het;&lamed;&yod;&fpe;</trd>
+  <trd lng="hu">helyettes</trd>
     <trd lng="it">sustituto</trd>
     <trdgrp lng="pl">
       <trd>zmiennik</trd>,
@@ -729,6 +768,18 @@ orta.html">Norda Prismo 57/5</url></lok>
 </art>
 <!--
 $Log$
+versio 1.45 2023/07/30 03:25:11
+Sergio Pokrovskij: +ekz
+
+versio 1.44 2022/12/04 19:20:08
+Jeromo Vasxe: memstar. ~igebla ne~igebla
+
+versio 1.43 2022/09/16 08:39:41
+Dmitri Gabinski: + trd be
+
+versio 1.41 2021/12/10 03:40:27
+Warut Bunprasert: +trd th
+
 Revision 1.38  2016/12/21 23:10:13  revo
 Wolfram Diestel: +~anto; ekz-oj kaj fnt-oj
 
@@ -739,14 +790,5 @@ Revision 1.36  2013/11/25 14:10:13  revo
 Damien Brucker: +rim 1 -tajperaro
 
 Revision 1.35  2013/06/30 20:10:09  revo
-Benito Subejrano: + trd oc
-
-Revision 1.34  2010/06/16 16:30:42  revo
-Russ Williams: +trd en
-
-Revision 1.33  2009/03/04 17:30:55  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.32  2007/12/03 17:30:36  revo
 -->
 </vortaro>

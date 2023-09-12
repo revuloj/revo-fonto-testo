@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rubrik.xml,v 1.22 2023/09/03 07:53:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rubrik</rad>/o
@@ -66,6 +65,12 @@
   <trdgrp lng="fr">
     <trd>rubrique</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B04;  [<ind>&#x304A;&#x3070;&#x3057;&#x307E;</ind>]</trd>,
+    <trd>&#x898B;&#x51FA;&#x3057;  [<ind>&#x307F;&#x3060;&#x3057;</ind>]</trd>,
+    <trd>&#x6A19;&#x984C;  [<ind>&#x3072;&#x3087;&#x3046;&#x3060;&#x3044;</ind>]</trd>,
+    <trd>&#x30EB;&#x30D6;&#x30EA;&#x30AB;</trd>
+  </trdgrp>
   <trd lng="nl">rubriek</trd>
   <trdgrp lng="pt">
     <trd>rubrica</trd>,
@@ -79,6 +84,11 @@
   <trdgrp lng="sk">
     <trd>rubrika</trd>,
     <trd>st&lacute;pec</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x443;&#x431;&#x440;&#x438;&#x43A;&#x430;</trd>,
+    <trd>&#x432;&#x456;&#x434;&#x434;&#x456;&#x43B; (&#x443; &#x433;&#x430;&#x437;&#x435;&#x442;&#x456;</trd>,
+    <trd>&#x436;&#x443;&#x440;&#x43D;&#x430;&#x43B;&#x456;)</trd>
   </trdgrp>
 </drv>
 </art>

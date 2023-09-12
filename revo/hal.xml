@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hal.xml,v 1.15 2010/12/13 17:30:16 revo Exp $">
+<art mrk="$Id: hal.xml,v 1.33 2023/08/31 15:46:14 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>hal</rad>/o
@@ -17,14 +16,16 @@
       Konstrua&jcirc;o el tegmento kaj subtenantaj kolonoj,
       por &scirc;irmi bazaron kc:
       <ekz>
-        la kovritan sabatan halon <klr>[&#8230;]</klr> oni konstruis &ccirc;e la domo
+        la kovritan sabatan halon <klr>[&#x2026;]</klr> oni konstruis &ccirc;e la
+        domo
         <fnt>
           <bib>MT</bib>
           <lok>&Re2; 16:18</lok>
         </fnt>;
       </ekz>
       <ekz>
-        estis preska&ubreve; kiel en granda <tld/>o, kaj tamen samtempe anka&ubreve; kiel en arbaro
+        estis preska&ubreve; kiel en granda <tld/>o, kaj tamen samtempe anka&ubreve;
+        kiel en arbaro
         <fnt>
           <bib>Fab3</bib>
           <lok>En la lasta tago</lok>
@@ -50,15 +51,17 @@
         </fnt>;
       </ekz>
       <ekz>
-        potencan marmora pre&gcirc;ejo, kiu <klr>[&#8230;]</klr> prezentis la formojn de
-        <klr>[&#8230;]</klr> pintaj turoj kaj florornamitaj liberaj haloj
+        potencan marmora pre&gcirc;ejo, kiu <klr>[&#x2026;]</klr> prezentis la
+        formojn de
+        <klr>[&#x2026;]</klr> pintaj turoj kaj florornamitaj liberaj haloj
         <fnt>
           <bib>Fab3</bib>
           <lok>Sub la saliko</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la belegaj Ma&ubreve;raj <tld/>oj kun la oraj kupoloj kaj pentritaj muroj
+        la belegaj Ma&ubreve;raj <tld/>oj kun la oraj kupoloj kaj pentritaj
+        muroj
         <fnt>
           <bib>Fab4</bib>
           <lok>Historio el la dunoj</lok>
@@ -68,8 +71,7 @@
         bors<tld/>oj
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko"
-              >La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -77,37 +79,38 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="https://www.monato.be/2003/008164.html"
-              >La prienergiaj Oscar-premioj</url></vrk>
+          <vrk><url ref="&Monato;/2003/008164.html">La prienergiaj
+          Oscar-premioj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        li <klr>[&#8230;]</klr> eniris la stacidomejon, nek en la atendo<tld/>o, nek en la
+        li <klr>[&#x2026;]</klr> eniris la stacidomejon, nek en la
+        atendo<tld/>o, nek en la
         kas<tld/>o iu estis
         <fnt>
+          <aut>Konstanten Krysakov</aut>
+          <vrk><url ref="&Monato;/2000/006805.php">Kota akvo</url></vrk>
           <bib>Monato</bib>
-          <aut>Geraldo Mattos</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006805.html"
-              >Kota Akvo: Konstanten Krysakov</url></vrk>
-        </fnt>;
+          <lok>2000/03, p. 28</lok>
+          </fnt>;
       </ekz>
       <ekz>
         la <tld/>o, kie okazas la trejnado de dancistoj, estos pargetita
         <fnt>
-          <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006824.html"
-              >Litovio: Monda &ccirc;ampionado de dancoj</url></vrk>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006824.php">Monda &ccirc;ampionado de dancoj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/05, p. 17</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la groto <klr>[&#8230;]</klr> konsistas el tri eta&gcirc;oj, havas multajn malgrandajn
+        la groto <klr>[&#x2026;]</klr> konsistas el tri eta&gcirc;oj, havas multajn
+        malgrandajn
         lagojn, naturajn labirintojn kaj miraklajn <tld/>ojn
-        <fnt>
+        <fnt><aut>Bardhyl Selimi</aut>: 
+          <vrk><url ref="&Monato;/2001/007205.html">Voja&gcirc;impresoj, somero 2000</url></vrk>,
           <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007205.html"
-              >Kosovo: Voja&gcirc;impresoj, somero 2000</url></vrk>
+          <lok>2001/01, p. 26</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -117,10 +120,12 @@
     <trd lng="ca">sala</trd>
     <trd lng="br">sal veur</trd>
   </snc>
+  <ref tip="hom" cel="hola.0">halo (alvoko)</ref>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_l;&c_ja;</trd>,
     <trd>&c_h;&c_o;&c_l;</trd>
   </trdgrp>
+  <trd lng="bo">&t_-a;&t_da;&t_shabchu;&t_tsheg;&t_kha;&t_nga;&t_tsheg;</trd>
   <trd lng="de">Halle</trd>
   <trd lng="en">hall</trd>
   <trdgrp lng="es">
@@ -135,6 +140,12 @@
     <trd>csarnok</trd>,
     <trd>hall</trd></trdgrp>
     <trd lng="id">aula</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DB;&#x30FC;&#x30EB;  [<ind>&#x307B;&#x30FC;&#x308B;</ind>]</trd>,
+    <trd>&#x5927;&#x5E83;&#x9593;  [<ind>&#x304A;&#x304A;&#x3072;&#x308D;&#x307E;</ind>]</trd>,
+    <trd>&#x5E02;&#x5834;  [<ind>&#x3057;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5E02;&#x5834;&#x306E;&#x5EFA;&#x7269;  [<ind>&#x3044;&#x3061;&#x3070;&#x306E;&#x305F;&#x3066;&#x3082;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">hal</trd>
   <trd lng="pl">hala</trd>
   <trdgrp lng="pt">
@@ -145,6 +156,10 @@
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_l;</trd>,
     <trd>&c_h;&c_o;&c_l;&c_l;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_o;&c_l;</trd>,
+    <trd>&c_v;&c_je;&c_l;&c_i;&c_k;&c_i;&c_j; &c_z;&c_a;&c_l;</trd>
   </trdgrp>
 </drv>
 
@@ -158,12 +173,14 @@
       <tld lit="H"/>o funkcianta kiel <ref tip="super" cel="ir.en0ejo">enirejo</ref>,
       en kiu oni akceptas, eventuale atendigas vizitantojn:
       <ekz>
-        en enir<tld/>o ni povis admiri foto-ekspozicion pri Kroatio: la lando de mirinda
+        en enir<tld/>o ni povis admiri foto-ekspozicion pri Kroatio: la
+        lando de mirinda
         naturo
         <fnt>
           <aut>L. Gabalda</aut>
           <vrk><url ref="https://revuoesperanto.org/uk_liba">
-          La 104-a Universala Kongreso, impresoj de la partoprenanto</url></vrk>
+          La 104-a Universala Kongreso, impresoj de la
+          partoprenanto</url></vrk>
           <lok>Revuo Esperanto, 2019</lok>
         </fnt>.
       </ekz>
@@ -172,6 +189,10 @@
        <ref cel="atri.0o.ARKI">atrio<sncref/></ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="en">
+    <trd>lobby</trd>,
+    <trd>entrance hall</trd>
+  </trdgrp>
   <trd lng="fr">hall d'entr&eacute;e</trd>
 </drv>
 
@@ -185,7 +206,8 @@
       <tld lit="H"/>o por festoj, solena&jcirc;oj a&ubreve; aliaj publika&jcirc;oj;
       <ref tip="vid" cel="solen.0ejo.ARKI">solenejo</ref>:
       <ekz>
-        la homaro eniras la sanktejon, kiu nun fari&gcirc;is fest<tld/>o ornamita per
+        la homaro eniras la sanktejon, kiu nun fari&gcirc;is fest<tld/>o
+        ornamita per
         helkoloraj tapi&scirc;oj
         <fnt>
           <aut>A. Mikkelsen</aut>
@@ -196,7 +218,13 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_l;&c_ja;
+    &c_w;&c_r;&c_a;&c_ch;&c_y;&c_s;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_w;</trd>,
+    <trd>&c_f;&c_e;&c_s;&c_t;&c_y;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_z;&c_a;&c_l;&c_ja;</trd>
+  </trdgrp>
   <trd lng="br">sal ar gouelio&ugrave;</trd>
+  <trd lng="en">celebration hall</trd>
   <trd lng="fr">salle des f&ecirc;tes</trd>
 </drv>
 
@@ -211,39 +239,52 @@
       <tld lit="H"/>o funkcianta kiel <ref tip="super" cel="sport.0ejo.SPO">sportejo</ref>
       por ma&ccirc;oj a&ubreve; prezentoj:
       <ekz>
-        je 500 metroj okcidente de la stadiono estas la Laborista Sport<tld/>o, en kiu
+        je 500 metroj okcidente de la stadiono estas la Laborista
+        Sport<tld/>o, en kiu
         okazos bokskonkurso de la Pekinaj Olimpikoj
         <fnt>
           <aut>-</aut>
-          <vrk><url ref="http://esperanto.cri.cn/281/2007/07/16/1@65662.htm">
-          Laborista Stadiono kaj Laborista Sporthalo en Pekino</url></vrk>
+          <vrk><url ref="&CRI;281/2007/07/16/1@65662.htm">
+          Laborista Stadiono kaj Laborista Sporthalo en
+          Pekino</url></vrk>
           <lok>&Ccirc;ina Radio Internacia, 2007-07-16</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_s;&c_p;&c_a;&c_r;&c_t;&c_o;&c_v;&c_a;&c_ja; &c_z;&c_a;&c_l;&c_ja;</trd>
+    <trd lng="fr"><ind>halle</ind> aux sports</trd>
   </snc>
+  <trd lng="en">sports arena</trd>
+  <trd lng="ja">&#x4F53;&#x80B2;&#x9928;  [<ind>&#x305F;&#x3044;&#x3044;&#x304F;&#x304B;&#x3093;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_p;&c_o;&c_r;&c_t;&c_i;&c_v;&c_n;&c_i;&c_j; &c_z;&c_a;&c_l;</trd>,
+    <trd>&c_s;&c_p;&c_o;&c_r;&c_t;&c_z;&c_a;&c_l;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.20  2019/09/17 07:10:17  revo
-Wolfram Diestel: ekz-oj, aktualigis vortigon de dif konsiderante adm, PIV, ekz-ojn
+versio 1.32 2023/04/24 12:46:15
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.19  2017/09/13 17:10:14  revo
-Vito Redsky: +trd ro
+versio 1.31 2023/04/18 11:23:34
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.18  2016/05/21 07:10:22  revo
-Eko Nur Syah Hidayat: +trd id
+versio 1.30 2023/04/17 15:28:13
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.17  2014/07/03 08:10:12  revo
-Agustin Garcia Lopez: +err(es)
+versio 1.29 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.16  2012/07/17 10:10:20  revo
-Marc Rausell: + trd ca
+versio 1.28 2022/04/01 04:40:26
+Noam Mohr: +trd en hal-
 
-Revision 1.15  2010/12/13 17:30:16  revo
-Russ Williams: +trd en
+versio 1.25 2021/11/05 08:34:55
+Dmitri Gabinski: + trd be
 
-Revision 1.14  2008/04/17 17:52:11  revo
+versio 1.23 2021/05/23 13:17:21
+Wolfram Diestel: ref-hom
+
+versio 1.22 2020/05/12 14:15:23
 -->
 </vortaro>

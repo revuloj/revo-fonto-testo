@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: falcx.xml,v 1.21 2010/04/09 16:32:45 revo Exp $">
+<art mrk="$Id: falcx.xml,v 1.41 2023/08/31 13:11:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fal&ccirc;</rad>/i
@@ -10,18 +9,43 @@
 <drv mrk="falcx.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <uzo tip="fak">AGR</uzo>
   <snc mrk="falcx.0i.detrancxi">
+    <uzo tip="fak">AGR</uzo>
     <dif>
-      Detran&ccirc;i herbon kaj grenon per <tld/>ilo:
+      <ref tip="super" cel="trancx.de0i.KOMUNE">Detran&ccirc;i</ref> herbon kaj 
+      grenon per <tld/>ilo:
       <ekz>
-        <tld/>i grenon;
+        Li mallevi&gcirc;u, kiel pluvo sur <tld/>itan herbejon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 72:6</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>a (irareira) movado;
+        laboristoj <klr>[&#x2026;]</klr> <tld/>is viajn kampojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>Jakobo 5:4</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        pri<tld/>i kampon.
+        duan fojon oni <tld/>is la trifolion
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is sekalon kaj avenon, partoprenis la dra&scirc;adon
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la kampo aromis fre&scirc;e <tld/>ita fojno
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="be">&c_k;&c_a;&c_s;&c_ib;&c_c;&c_mol;
@@ -38,14 +62,37 @@
   <snc mrk="falcx.0i.bucxi">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Bu&ccirc;i, amase kaj rapide mortigi:
+      Rapide, grandnombre, <ref tip="super" cel="mort.0igi.malvivigi">mortigi</ref>:
       <ekz>
-        la pafado <tld/>is multajn rekrutojn;
+        juna vivo estis <tld/>ita en stulta, nekomprenebla akcidento
+        <fnt>
+          <bib>ChR</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        la tempo <tld/>as la homajn vivojn.
+        771 judoj de Kievo <tld/>itaj per mitralo, nudaj kaj alvicigitaj anta&ubreve; la fosoj
+        <fnt>
+          <bib>MD05</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        difterio <tld/>as la civitanojn
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 7 (69)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pesto <klr>[&#x2026;]</klr> <tld/>as tutajn popolojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2014/011108.php">Perfidita popolo</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_v;&c_y;&c_k;&c_o;&c_sh;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_je;&c_r;&c_a;&c_n;.)</klr></trd>
     <trd lng="ca">delmar</trd>
     <trdgrp lng="de">
       <trd>niederm&auml;hen</trd>,
@@ -62,6 +109,10 @@
   </trdgrp>
   <trd lng="hu">kasz&aacute;l</trd>
   <trd lng="it">falciare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#x307E;&#x3067;&#x5208;&#x308B;  [<ind>&#x304B;&#x307E;&#x3067;&#x304B;&#x308B;</ind>]</trd>,
+    <trd>&#x5927;&#x91CF;&#x306B;&#x6BBA;&#x3059;  [<ind>&#x305F;&#x3044;&#x308A;&#x3087;&#x3046;&#x306B;&#x3053;&#x308D;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">maaien</trd>
   <trdgrp lng="pt">
     <trd>segar</trd>,
@@ -70,19 +121,54 @@
     <trd>ro&ccedil;ar</trd>
   </trdgrp>
   <trd lng="ro">secera</trd>
+  <trd lng="uk">&#x43A;&#x43E;&c_s;&c_i;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="falcx.0ilo">
   <kap><ofc>*</ofc><tld/>ilo <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5019">fal&ccirc;'il'</url></lok></fnt></kap>
-  <uzo tip="fak">AGR</uzo>
-  <snc>
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5019">fal&ccirc;'il'</url></lok></fnt></kap>
+  <snc mrk="falcx.0ilo.AGR">
+    <uzo tip="fak">AGR</uzo>
     <dif>
-      Longa, lar&gcirc;a, iom kurba &scirc;tala klingo, fiksita al longa
-      ligna tenilo, kaj servanta por detran&ccirc;i herbon kaj grenon;
+      Ilo por detran&ccirc;i herbon kaj grenon, konsistanta el longa,
+      lar&gcirc;a, iom kurba metala klingo fiksita al longa
+      tenilo:
       <ekz>
-        <tld/>ilo estas atributo de Tempo.
+        kun sono de kvieta arbara susuro glitis la <tld/>iloj tra rospeza herbo, kiu
+        balda&ubreve; ku&scirc;is por seki&gcirc;o en lar&gcirc;aj strioj
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        forta maljuna viro kun <tld/>ilo en la mano kaj kun grandaj nigraj flugiloj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pli a&gcirc;aj knaboj estis provizitaj je <tld/>iloj,
+        sed malgranda <nom>Nonni</nom> devis helpi pri la rastado
+        <fnt>
+          <aut>H. Laxness, trad. B. Ragnarsson</aut>
+          <vrk>Sendependaj homoj</vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Otto</nom> <klr>[&#x2026;]</klr> malvolvis la ru&gcirc;an tolon kun <tld/>ilo 
+        <klr>(vd <ref tip="sub" cel="falcx.0ileto"><tld/>ileto</ref>)</klr>, 
+        martelo kaj ora surskribo
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>.
+      </ekz>
+      <ekz>
+        trafis <tld/>ilo sur &scirc;tonon
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -96,25 +182,47 @@
   <trd lng="gl">gada&ntilde;a</trd>
   <trd lng="hu">kasza</trd>
   <trd lng="it">falce</trd>
+  <trd lng="ja">&#x304B;&#x307E;</trd>
   <trd lng="nl">zeis</trd>
   <trd lng="pl">kosa</trd>
   <trd lng="pt">foice</trd>
   <trd lng="ru">&c_k;&c_o;&c_s;&c_a;
   <klr>(&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+  <trd lng="uk">&#x43A;&#x43E;&c_s;&c_a;</trd>
 </drv>
 
 <drv mrk="falcx.0ileto">
   <kap><tld/>ileto</kap>
-  <uzo tip="fak">AGR</uzo>
-  <snc>
+  <snc mrk="falcx.0ileto.AGR">
+    <uzo tip="fak">AGR</uzo>
     <dif>
       Malgranda <tld/>ilo, duonronde kurba kun mane longa tenilo,
-      por detran&ccirc;i grenon a&ubreve; herbon.
+      por detran&ccirc;i grenon a&ubreve; herbon:
+      <ekz>
+        per <tld/>ileto oni diligente tran&ccirc;adas la rizplantojn
+        <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/02, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        geedzi&gcirc;o inter turbano kaj <tld/>ileto
+        <fnt>
+          <bib>MD17</bib>
+        </fnt>.
+      </ekz>
     </dif>
-    <ref tip="sin" cel="serp.0o">serpo</ref>
+    <refgrp tip="sin">
+      <ref cel="rikolt.0ilo">rikoltilo</ref>,
+      <ref cel="serp.0o">serpo</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_s;&c_je;&c_r;&c_p;</trd>
   <trd lng="ca">fal&ccedil;</trd>
+  <trd lng="de">Sichel</trd>
   <trd lng="en">sickle</trd>
   <trd lng="es">hoz</trd>
   <trdgrp lng="fr">
@@ -122,27 +230,37 @@
     <trd>serpe</trd>
   </trdgrp>
   <trd lng="hu">sarl&oacute;</trd>
+  <trd lng="it">falcetta</trd>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#x307E;</trd>,
+    <trd>&#x624B;&#x938C;  [<ind>&#x3066;&#x304B;&#x307E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">sikkel</trd>
   <trd lng="pl">sierp</trd>
   <trd lng="ru">&c_s;&c_je;&c_r;&c_p;</trd>
+  <trd lng="uk">&c_s;&c_je;&c_r;&#x43F;</trd>
 </drv>
 
 <drv mrk="falcx.post0ajxo">
-  <kap>post<tld/>a&jcirc;o<fnt>Z</fnt></kap>
-  <uzo tip="fak">AGR</uzo>
-  <snc>
+  <kap>post<tld/>a&jcirc;o</kap>
+  <snc mrk="falcx.post0ajxo.AGR">
+    <uzo tip="fak">AGR</uzo>
     <dif>
       Herbo, kiu kreskas post la unua <tld/>o:
       <ekz>
         Li kreis akridojn en la komenco de kreskado de la
         post<tld/>a&jcirc;o
-        <fnt><bib>MT</bib><lok>&Amo; 7:1</lok></fnt>.
+        <fnt><bib>MT</bib> <lok>&Amo; 7:1</lok></fnt>.
       </ekz>
     </dif>
     <ref tip="vid" cel="fojn.post0o">postfojno</ref>
   </snc>
+  <trd lng="be">&c_a;&c_t;&c_a;&c_v;&c_a;</trd>
    <trd lng="ca">redall</trd>
-   <trd lng="en">second cutting of hay</trd>
+   <trdgrp lng="de">
+     <trd>Sp&auml;tsaat</trd>,
+     <trd>Nachsaat</trd>
+   </trdgrp><trd lng="en">second cutting of hay</trd>
    <trdgrp lng="fr">
      <trd>regain<klr tip="ind"> (herbe de seconde coupe)</klr></trd>
    </trdgrp>
@@ -150,69 +268,59 @@
    <trd lng="ru">&c_o;&c_t;&c_a;&c_v;&c_a;</trd>
 </drv>
 
-<drv mrk="falcx.0masxino">
-  <kap><tld/>ma&scirc;ino</kap>
-  <uzo tip="fak">AGR</uzo>
-  <snc>
-    <dif>
-      Ma&scirc;ino anstata&ubreve;anta <tld/>ilon por rapide kaj
-      grandakvante
-      <tld/>i rikoltojn.
-    </dif>
-  </snc>
-  <trd lng="be">&c_k;&c_a;&c_s;&c_ib;&c_l;&c_k;&c_a;</trd>
-  <trd lng="ca">segadora</trd>
-  <trd lng="de">M&auml;hmaschine</trd>
-  <trd lng="en">mower</trd>
-  <trd lng="es">segadora</trd>
-  <trd lng="fr">faucheuse<klr tip="ind"> (machine)</klr></trd>
-  <trd lng="hu">kasz&aacute;l&oacute;g&eacute;p</trd>
-  <trd lng="nl">maaimachine</trd>
-  <trd lng="pl">kosiarka</trd>
-  <trd lng="ru">&c_k;&c_o;&c_s;&c_i;&c_l;&c_k;&c_a;</trd>
-</drv>
+
 
 <drv mrk="falcx.krur0o">
   <kap>krur<tld/>o</kap>
-  <snc>
+  <snc mrk="falcx.krur0o.MOV">
     <dif>
       Kapto a&ubreve; baro de la piedo de iranto, ka&ubreve;zanta stumblon
       a&ubreve; falon:
       <ekz>
-        &ccirc;u <klr>...</klr> la diablo ne faligus min per
+        &ccirc;u <klr>[&#x2026;]</klr> la diablo ne faligus min per
         krur<tld/>o, por ke
         mi rompu al mi la kapon?
         <fnt><bib>DonKihxoto</bib>, <lok>dua parto, &ccirc;apitro 4a, p.
         419a</lok></fnt>
-      </ekz>
+      </ekz>.
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_n;&c_o;&c_zh;&c_k;&c_a; <klr tip="amb">(&c_u; &c_g;&c_u;&c_l;&c_mol;&c_n;&c_ib;)</klr></trd>
   <trd lng="ca">traveta</trd>
+  <trd lng="de">das Bein<ind>stellen</ind></trd>
   <trd lng="fr">croc-en-jambe</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8DB3;&#x6255;&#x3044;  [<ind>&#x3042;&#x3057;&#x3070;&#x3089;&#x3044;</ind>]</trd>,
+    <trd>&#x8DB3;&#x639B;&#x3051;  [<ind>&#x3042;&#x3057;&#x304B;&#x3051;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_n;&c_o;&c_zh;&c_k;&c_a;<klr tip="amb">
   (&c_p;&c_r;&c_i;&c_jo;&c_m;)</klr></trd>
+  <trd lng="uk">&#x43F;&c_ib;&c_d;&#x43D;&c_ib;&c_zh;&#x43A;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.26  2017/09/02 11:10:17  revo
-Vito Redsky: +trd ro
+versio 1.40 2023/05/14 18:59:00
+revo: movu drv falcx.0masxino al masxin/
 
-Revision 1.25  2016/09/06 19:10:15  revo
-Carlos Garcia: krktd es -ilo +trd es -ileto
+versio 1.39 2023/04/20 05:28:05
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.24  2015/10/13 13:10:19  revo
-Cindy Moon McKee: +trd en
+versio 1.38 2022/12/16 12:43:01
+Dmitri Gabinski: + trd be
 
-Revision 1.23  2012/01/02 19:10:18  revo
-Marc Rausell: +trd ca
+versio 1.37 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.22  2011/06/24 23:10:09  revo
-Dominique Pelle: kauzanta -> kauxzanta
+versio 1.34 2022/03/14 08:35:31
+Dmitri Gabinski: + trd be
 
-Revision 1.21  2010/04/09 16:32:45  revo
-Sebastian Cyprych: +trd pl
+versio 1.33 2022/01/17 17:40:28
+Wolfram Diestel: +trd
 
-Revision 1.20  2007/05/13 16:30:59  revo
+versio 1.32 2022/01/12 21:27:05
+Wolfram Diestel: +ref
+
+versio 1.31 2022/01/12 19:23:44
 -->
 </vortaro>

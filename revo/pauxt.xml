@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pauxt.xml,v 1.19 2023/04/11 18:56:01 revo Exp $">
 <kap>
   <rad>pa&ubreve;t</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -18,7 +17,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laure Patas d'Illiers</aut>
-          <vrk><url ref="https://www.monato.net/2015/011500.php">Kiel la
+          <vrk><url ref="&Monato;/2015/011500.php">Kiel la
           aliaj</url></vrk>
         </fnt>;
       </ekz>
@@ -40,6 +39,8 @@
     <trd>&c_c;&c_u;&c_p;&c_ja; &c_s;&c_je;</trd>,
     <trd>&c_m;&c_u;&c_s;&c_ja; &c_s;&c_je;</trd>
   </trdgrp>
+  <trd
+  lng="bo">&#xF42;&#xF51;&#xF7C;&#xF44;&#xF0B;&#xF53;&#xF42;&#xF0B;&#xF54;&#xF7C;&#xF0B;&#xF56;&#xF66;&#xF9F;&#xF53;&#xF0B;</trd>
   <trdgrp lng="br">
     <trd>mousklenni&ntilde;</trd>,
     <trd>ober ur vousklenn</trd>
@@ -52,10 +53,17 @@
   </trdgrp>
   <trd lng="hu">lebiggyeszti a sz&aacute;j&aacute;t</trd>
   <trd lng="nl">pruilen</trd>
+  <trd lng="pl">krzywi&cacute; si&eogonek;  <klr>(z niezadowolenia)</klr></trd>
   <trd lng="pt">fazer <ind>bei&ccedil;os&gt;</ind></trd>
+  <trd lng="ro">se &icirc;ncrunta</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_d;&c_u;&c_t;&c_mol; &c_g;&c_u;&c_b;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43A;&#x43E;&#x43F;&c_i;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i; &c_g;&c_u;&c_b;&c_i;</trd>,
+    <trd>&c_d;&c_u;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &#x43D;&c_je;&c_z;&c_a;&c_d;&#x43E;&c_v;&#x43E;&#x43B;&c_je;&#x43D;&c_i;&#x43C;</trd>
   </trdgrp>
 </drv>
 
@@ -70,14 +78,17 @@
         balet&scirc;uojn kaj, kun <tld/>o, iris al
         la scenejo
         <fnt>
-          <vrk><url
-          ref="http://www.elerno.cn/originala/orig119.htm">Vejdo</url></vrk>
+          <vrk><url ref="http://www.elerno.cn/originala/orig119.htm">Vejdo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="sin" cel="lip.dika0o.malkontenta">dika lipo</ref>
     <trd lng="de">Schnute</trd>
-  </snc>                       
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_d;&c_z;&c_mol;&c_m;&c_u;&c_t;&c_y; &c_v;&c_y;&c_g;&c_l;&c_ja;&c_d;</trd>,
+    <trd>&c_n;&c_a;&c_h;&c_m;&c_u;&c_r;&c_a;&c_n;&c_y; &c_v;&c_y;&c_g;&c_l;&c_ja;&c_d;</trd>
+  </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_n;&c_a;&c_c;&c_u;&c_p;&c_je;&c_n;&c_o; &c_i;&c_z;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_n;&c_a;&c_m;&c_u;&c_s;&c_je;&c_n;&c_o; &c_i;&c_z;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -86,8 +97,11 @@
   <trd lng="en">pout</trd>
   <trd lng="fr">moue</trd>
   <trd lng="hu">ajakbiggyeszt&eacute;s</trd>
+  <trd lng="pl">grymas niezadowolenia</trd>
+  <trd lng="ro">o grimas&abreve; de nemul&#539;umire</trd>
   <trd lng="ru">&c_n;&c_je;&c_d;&c_o;&c_v;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_ja;
   &c_g;&c_r;&c_i;&c_m;&c_a;&c_s;&c_a;</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_z;&c_a;&c_d;&#x43E;&c_v;&#x43E;&#x43B;&c_je;&#x43D;&c_a; &c_gu;&c_r;&c_i;&#x43C;&c_a;&c_s;&c_a;</trd>
 </drv>
 
 <drv mrk="pauxt.pri0i">
@@ -106,12 +120,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_d;&c_z;&c_ib;&c_m;&c_a;&c_c;&c_c;&c_a; <klr>(&c_n;&c_a; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;, &c_b;&c_y;&c_c;&c_mol; &c_n;&c_je;&c_z;&c_a;&c_d;&c_a;&c_v;&c_o;&c_l;&c_je;&c_n;&c_y;&c_m;)</klr></trd>
   <trd lng="fr">bouder<klr> (qqun)</klr></trd>
+  <trd lng="pl">d&aogonek;sa&cacute; si&eogonek;</trd>
+  <trd lng="ro">bosumfla</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.19 2023/04/11 18:56:01
+aktualigo Monato-URL
+
+versio 1.18 2023/01/23 23:27:36
+Vito Redsky: + trd pl + trd ro
+
+versio 1.17 2022/10/28 07:30:54
+Dmitri Gabinski: + trd be
+
 Revision 1.13  2019/08/27 07:10:21  revo
 Damien Brucker: -eraro cxe cel en ref
 
@@ -125,11 +151,5 @@ Revision 1.10  2019/04/09 11:10:15  revo
 Alain Gerard: +trd fr
 
 Revision 1.9  2017/02/22 11:10:13  revo
-Lyubomir Vasilev: +trd bg
-
-Revision 1.8  2015/08/25 22:10:14  revo
-Jeromo Vasxe: + pri~i
-
-Revision 1.7  2009/10/06 16:44:00  revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: scientologi.xml,v 1.5 2023/07/28 20:26:18 revo Exp $">
 <kap>
   <rad>Scientologi</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -21,7 +21,7 @@
           <aut>Y. Bellefeuille</aut>,
           <vrk>Pri Scientologio</vrk>,
           <lok><url
-          ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+          ref="&SCE;">
           soc.culture.esperanto</url>, 2001-08-31</lok>
         </fnt>.
       </ekz>
@@ -32,6 +32,7 @@
   <trd lng="en">Scientology</trd>
   <trd lng="fr">Scientologie</trd>
   <trd lng="nl">Scientology</trd>
+  <trd lng="pl">scjentologia</trd>
 </drv>
 
 <drv mrk="scientologi.0ano">
@@ -58,16 +59,22 @@
   <trd lng="en">scientologist</trd>
   <trd lng="fr">scientologue</trd>
   <trd lng="nl">scientoloog</trd>
+  <trd lng="pl">scjentolog</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.5 2023/07/28 20:26:18
+Vito Redsky: +trd pl 
+
+versio 1.4 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.2  2015/05/21 17:10:16  revo
 Joop Eggen: +trd bg de en nl
 
 Revision 1.1  2011/05/20 22:10:10  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

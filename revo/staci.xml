@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: staci.xml,v 1.116 2023/09/04 15:14:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>staci</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,17 +18,18 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Alice Liu</aut>
-          <vrk><url ref="https://www.monato.be/2007/009268.php">Favore al turismo</url></vrk>
+          <vrk><url ref="&Monato;/2007/009268.php">Favore al turismo</url></vrk>
           <lok>2007</lok>
         </fnt>;
       </ekz>
       <ekz>
-        oni gloris la <tld/>on, kiam <klr>[&#8230;]</klr> Rusio pafis la unuan <nom>ISS</nom>-modulon
+        oni gloris la <tld/>on, kiam <klr>[&#x2026;]</klr> Rusio pafis la unuan <nom>ISS</nom>-modulon
         <nom>Sarja</nom> kiel komponanton de la estonta laboratorio
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2009/009681.php">Politika sukceso, scienca fiasko</url></vrk>
+          <vrk><url ref="&Monato;/2009/009681.php">Politika sukceso, scienca
+          fiasko</url></vrk>
           <lok>2009</lok>
         </fnt>.
       </ekz>
@@ -43,7 +43,7 @@
           trafi tramon &ccirc;e l' <tld/>o
           <fnt>
             <aut>Raymond Schwartz</aut>
-            <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+            <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
             <lok>Nigra Tago</lok>
           </fnt>;
         </ekz>
@@ -52,7 +52,8 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Saliko</aut>
-            <vrk><url ref="https://www.monato.be/2009/009824.php">&Ccirc;arma urbo &ccirc;e la Finna Golfo</url></vrk>
+            <vrk><url ref="&Monato;/2009/009824.php">&Ccirc;arma urbo &ccirc;e la Finna
+            Golfo</url></vrk>
             <lok>2009</lok>
           </fnt>;
         </ekz>
@@ -68,9 +69,14 @@
         <trd>&c_p;&c_r;&c_y;&c_p;&c_y;&c_n;&c_a;&c_k;</trd>,
         <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_a;&c_n;&c_mol;</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd>Station</trd>,
+        <trd>Haltestelle</trd>,
+        <trd>Halt</trd>
+      </trdgrp>
       <trd lng="nl">station</trd>
       <trd lng="pl">stacja</trd>
-      <trd lng="ro">sta&tcedil;ie</trd>
+      <trd lng="ro">sta&#x21B;ie</trd>
       <trdgrp lng="ru">
         <trd>&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>,
         <trd>&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_a;</trd>,
@@ -94,10 +100,39 @@
         <trd>vakantieoord</trd>,
         <trd>kuuroord</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd>Pausenstation</trd>,
+        <trd>Zwischenhalt</trd>
+      </trdgrp>
       <trd lng="pl">stacja</trd>
     </subsnc>
 -->
-    <subsnc mrk="staci.0o.TEK">
+    <subsnc mrk="staci.0o.kalvaria_vojo">
+      <uzo tip="fak">KRI</uzo>
+      <dif>
+        Haltejo en <ref tip="vid" cel="kalvar.k0avojo.KRI">kalvaria
+        vojo</ref>:
+        <ekz>
+          &scirc;i staris <klr>[&#x2026;]</klr> &ccirc;e la komenco de sia Kalvaria vojo,
+          &scirc;i pasis ankora&ubreve; ne pli ol du &gcirc;iajn <tld/>ojn
+          <fnt><bib>Marta</bib></fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>Station</trd>,
+        <trd>Kreuzwegstation</trd>,
+        <trd>Fu&szlig;fallstation</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <snc mrk="staci.0o.TEK">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Scienca establejo por esplorado, a&ubreve; te&hcirc;nika establejo por servoj,
+      kun la ta&ubreve;ga ekipo:
+    </dif>
+    <subsnc mrk="staci.0o.ELE">
       <uzo tip="fak">ELE</uzo>
       <dif>
         Te&hcirc;nika establejo por generado, konservo a&ubreve; plusendo de
@@ -108,7 +143,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Jozefo Lej&ccirc;</aut>
-            <vrk><url ref="https://www.monato.be/2010/009949.php">Kuranta kurento-krizo</url></vrk>
+            <vrk><url ref="&Monato;/2010/009949.php">Kuranta kurento-krizo</url></vrk>
             <lok>2010</lok>
           </fnt>.
         </ekz>
@@ -116,6 +151,9 @@
       <refgrp tip="vid">
         <ref cel="centra1.0o">centralo</ref>
       </refgrp>
+      <trdgrp lng="de">
+        <trd>Kraftwerk</trd>
+      </trdgrp>
       <trd lng="nl">station</trd>
       <trd lng="ru">&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
     </subsnc>
@@ -132,41 +170,37 @@
           radioparolis <tld/>o <nom>Semarang</nom>
           <fnt>
             <aut>Raymond Schwartz</aut>
-            <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+            <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
             <lok>Telegramo</lok>
           </fnt>;
         </ekz>
         <ekz>
           pluraj <tld/>oj, kiuj dissendas samhore per la sama frekvenco
-          <fnt>
-            <bib>Monato</bib>
-            <aut>Pejno Simono</aut>
-            <vrk><url ref="http://steloj.de/esperanto/monato2/007219.html">Prefere pakete</url></vrk>
-          </fnt>;
+         <fnt>
+          <aut>Pejno Simono</aut>:
+          <vrk><url ref="&Monato;/2001/007219.html">Prefere pakete</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/02, p. 13</lok>
+        </fnt>;
         </ekz>
         <ekz>
           televida <tld/>o
           <fnt>
             <bib>Monato</bib>
             <aut>Zofia Banet-Fornalowa</aut>
-            <vrk><url ref="https://www.monato.be/2004/008391.html">Listo de Sendler</url></vrk>
+            <vrk><url ref="&Monato;/2004/008391.html">Listo de Sendler</url></vrk>
             <lok>2004</lok>
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="de">
+        <trd>Sendestation</trd>
+      </trdgrp>
     </subsnc>
-    <subsnc mrk="staci.0o.kalvaria_vojo">
-      <uzo tip="fak">KRI</uzo>
-      <dif>
-        Haltejo en <ref tip="vid" cel="kalvar.k0avojo.KRI">kalvaria
-        vojo</ref>:
-        <ekz>
-          &scirc;i staris <klr>[&#8230;]</klr> &ccirc;e la komenco de sia Kalvaria vojo,
-          &scirc;i pasis ankora&ubreve; ne pli ol du &gcirc;iajn <tld/>ojn
-          <fnt><bib>Marta</bib></fnt>.
-        </ekz>
-      </dif>
-    </subsnc>
+      <trdgrp lng="de">
+        <trd>Station</trd>,
+        <trd>Forschungsstation</trd>
+      </trdgrp>
   </snc>
   <snc mrk="staci.0o.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -184,50 +218,153 @@
       <ref cel="faz.0o.KOMUNE">fazo <sncref/></ref>,
       <ref cel="sxtup.0o.FIG">&scirc;tupo <sncref/></ref>
     </refgrp>
+      <trdgrp lng="de">
+        <trd>Zwischenstation</trd>,
+        <trd>Zwischenschritt</trd>,
+        <trd>Etappe</trd>,
+        <trd>Stufe</trd>
+      </trdgrp>
     <trd lng="nl">statie</trd>
     <trd lng="pl">stacja</trd>
     <trd lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_a;</trd>
   </snc>
+  <trd lng="af">stasie</trd>
+  <trd lng="am">&#x1218;&#x1223;&#x1348;&#x122A;&#x12EB;</trd>
+  <trd lng="ar">&a_m;&a_H;&a_T;&a_t_marbuta;</trd>
+  <trd lng="az">stansiya</trd>
   <trd lng="be">&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="bn">&#x9B8;&#x9CD;&#x99F;&#x9C7;&#x9B6;&#x9A8;</trd>
+  <trd lng="bo">&t_ba;&t_ba;&t_tsheg;&t_tsha;&t_shabchu;&t_ga;&t_sa;&t_tsheg;</trd>
+  <trd lng="bs">stanice</trd>
+  <trd lng="co">stazione</trd>
   <trd lng="cs">stanice</trd>
-  <trdgrp lng="de">
-    <trd>Station</trd>,
-    <trd>Haltestelle</trd>
-  </trdgrp>
+  <trd lng="cy">orsaf</trd>
+  <trd lng="da">stationen</trd>
   <trd lng="en">station</trd>
   <trd lng="es">estaci&oacute;n</trd>
+  <trd lng="et">jaama</trd>
+  <trd lng="eu">geltokia</trd>
   <trdgrp lng="fr">
     <trd>&eacute;tape<klr> (fig.)</klr></trd>,
     <trd>station</trd>
   </trdgrp>
+  <trd lng="fy">stasjon</trd>
+  <trd lng="ga">st&aacute;isi&uacute;n</trd>
+  <trd lng="gd">st&egrave;isean</trd>
+  <trd lng="gl">estaci&oacute;n</trd>
+  <trd lng="gu">&#xAB8;&#xACD;&#xA9F;&#xAC7;&#xAB6;&#xAA8;</trd>
   <trd lng="he">&tav;&het;&nun;&he;</trd>
+  <trd lng="hi">&#x938;&#x94D;&#x91F;&#x947;&#x936;&#x928;</trd>
+  <trd lng="hmn">chaw nres tsheb</trd>
+  <trd lng="hr">kolodvor</trd>
+  <trd lng="ht">estasyon</trd>
   <trd lng="hu">&aacute;llom&aacute;s</trd>
+  <trd lng="hy">&#x56F;&#x561;&#x575;&#x561;&#x576;</trd>
+  <trd lng="ig">ebe</trd>
+  <trd lng="is">st&ouml;&#xF0;</trd>
+  <trd lng="ja">&#x99C5; [<ind>&#x3048;&#x304D;</ind>]</trd>
+  <trd lng="jv">stasiun</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10D3;&#x10D2;&#x10E3;&#x10E0;&#x10D8;</trd>
+  <trd lng="kk">&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="km">&#x179F;&#x17D2;&#x1790;&#x17B6;&#x1793;&#x17B8;&#x1799;&#x17CD;</trd>
+  <trd lng="kn">&#xC95;&#xCC7;&#xC82;&#xCA6;&#xCCD;&#xCB0;</trd>
+  <trd lng="ko">&#xC5ED;</trd>
+  <trd lng="ku">meydan</trd>
+  <trd lng="ky">&c_b;&c_je;&c_k;&c_je;&c_t;&c_i;</trd>
+  <trd lng="lat">statio</trd>
+  <trd lng="lo">&#xEAA;&#xEB0;&#xE96;&#xEB2;&#xE99;&#xEB5;</trd>
+  <trd lng="lt">stotis</trd>
+  <trd lng="lv">stacija</trd>
+  <trd lng="mg">peo</trd>
+  <trd lng="mi">teihana</trd>
+  <trd lng="mk">&c_s;&c_t;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="ml">&#xD38;&#xD4D;&#xD31;&#xD4D;&#xD31;&#xD47;&#xD37;&#xD7B;</trd>
+  <trd lng="mn">&c_g;&c_a;&c_z;&c_a;&c_r;</trd>
+  <trd lng="mr">&#x938;&#x94D;&#x91F;&#x947;&#x936;&#x928;</trd>
+  <trd lng="ms">stesen</trd>
+  <trd lng="mt">istazzjon</trd>
+  <trd lng="my">&#x1018;&#x1030;&#x1010;&#x102C;&#x101B;&#x102F;&#x1036;</trd>
+  <trd lng="ne">&#x938;&#x94D;&#x91F;&#x947;&#x936;&#x928;</trd>
+  <trd lng="ny">siteshoni</trd>
+  <trd lng="pa">&#xA38;&#xA1F;&#xA47;&#xA38;&#xA3C;&#xA28;</trd>
   <trd lng="pl">stacja</trd>
+  <trd lng="ps">&a_s;&#x67C;&a_y;&a_sh;&a_n;</trd>
   <trd lng="pt">esta&ccedil;&atilde;o</trd>
+  <trd lng="rw">sitasiyo</trd>
+  <trd lng="sd">&a_A;&a_s;&#x67D;&a_y;&a_sh;&a_n;</trd>
+  <trd lng="si">&#xDC3;&#xDCA;&#xDAE;&#xDCF;&#xDB1;&#xDBA;</trd>
   <trd lng="sk">stanica</trd>
+  <trd lng="sl">postaja</trd>
+  <trd lng="sm">taunu&#x2BB;uga</trd>
+  <trd lng="sn">chiteshi</trd>
+  <trd lng="so">saldhiga</trd>
+  <trd lng="sq">stacion</trd>
+  <trd lng="st">seteisheneng</trd>
+  <trd lng="su">setasion</trd>
+  <trd lng="sw">kituo cha</trd>
+  <trd lng="ta">&#xBA8;&#xBBF;&#xBB2;&#xBC8;&#xBAF;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC38;&#xC4D;&#xC1F;&#xC47;&#xC37;&#xC28;&#xC4D;</trd>
+  <trd lng="tg">&c_i;&c_s;&c_t;&c_g;&c_o;&#x4B3;</trd>
+  <trd lng="th">&#xE2A;&#xE16;&#xE32;&#xE19;&#xE35;</trd>
+  <trd lng="tl">station</trd>
+  <trd lng="tt">&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="uk">&c_s;&c_t;&c_a;&c_n;&c_c;&c_ib;&c_ja;</trd>
+  <trd lng="ur">&a_A;&a_s;&#x679;&f_y;&a_sh;&a_n;</trd>
+  <trd lng="uz">bekat</trd>
+  <trd lng="vi">tr&#x1EA1;m</trd>
+  <trd lng="xh">isitishi</trd>
+  <trd lng="yi">&samekh;&tet;&alef;&#x5B7;&nun;&tsadi;&yod;&ayin;</trd>
+  <trd lng="yo">ibudo</trd>
+  <trd lng="zu">esiteshini</trd>
 </drv>
 
 <drv mrk="staci.akvo0o">
   <kap>akvo<tld/>o</kap>
-  <snc mrk="staci.akvo0o.TEK">
+  <snc mrk="staci.akvo0o.AKV">
     <uzo tip="fak">TEK</uzo>
     <dif>
       <ref tip="super" cel="staci.0o.TEK"><tld lit="S"/>o</ref> kiu
       konservas akvon kaj &gcirc;in provizas en iu loko:
       <ekz>
         <nom>Jim</nom> esploris la lanternon apud la akvo<tld/>o
-        <fnt><bib>FK</bib>, <lok>4, la nigra virino</lok></fnt>;
+        <fnt><bib>FK</bib> <lok>4, la nigra virino</lok></fnt>;
       </ekz>
       <ekz>
         &ccirc;e la akvo<tld/>o de la 36km-punkto mi kalkulis la restantan tempon
         <fnt>
-          <vrk><url ref="http://www.hokkajda-esp-ligo.jp/jp/HEROLDO_PDF/Heroldo_N-ro161.pdf">Heroldo de HEL</url></vrk>
+          <vrk><url ref="http://www.hokkajda-esp-ligo.jp/jp/HEROLDO_PDF/Heroldo_N-ro161.pdf">Heroldo
+          de HEL</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_a;&c_d;&c_a;&c_n;&c_a;&c_p;&c_o;&c_r;&c_n;&c_a;&c_ja; &c_v;&c_je;&c_zh;&c_a;</trd>
   <trd lng="de">Zapfstelle</trd>
   <trd lng="fr">ch&acirc;teau d'eau</trd>
+</drv>
+
+<drv mrk="staci.akvopuriga_0o">
+  <kap>
+    akvopuriga <tld/>o
+  </kap>
+  <snc mrk="staci.akvopuriga_0o.AKV">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="staci.0o.TEK"><tld lit="S"/>o</ref> en kiu oni purigas
+      rubakvon:
+      <ekz>
+        mi konas homojn en entrepreno, kiu konstruas na&gcirc;basenojn kaj akvopurigajn
+        <tld/>ojn
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Krimeo estas nia</vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja; &c_v;&c_o;&c_d;&c_a;&c_a;&c_ch;&c_y;&c_s;&c_t;&c_k;&c_ib;</trd>
+  <trd lng="fr">station d'&eacute;puration</trd>
 </drv>
 
 <drv mrk="staci.bus0o">
@@ -244,9 +381,9 @@
         en bus<tld/>o, lernejo a&ubreve; plej luksa restoracio
         la necesejoj a&ccirc;as
         <fnt>
-        <aut>B. Hekland</aut>,
-        <vrk>Kompreni &ccirc;i-landon? Neniam!</vrk>,
-        <bib>LOdE</bib>,
+        <aut>B. Hekland</aut>
+        <vrk>Kompreni &ccirc;i-landon? Neniam!</vrk>
+        <bib>LOdE</bib>
         <lok>1999:3</lok>
         </fnt>;
       </ekz>
@@ -254,8 +391,8 @@
         iam sur iu a&ubreve;tobusa <tld/>o okazas neplanita
         renkonti&gcirc;o
         <fnt>
-          <aut>V. O&scirc;lak</aut>,
-          <vrk>Kiam la silento krias</vrk>,
+          <aut>V. O&scirc;lak</aut>
+          <vrk>Kiam la silento krias</vrk>
           <lok><url ref="http://www.esperanto.net/literaturo/lf/krisilentrec.html">
           Literatura Foiro</url></lok>
         </fnt>;
@@ -264,9 +401,9 @@
         nove konstruita busa <tld/>o en <nom>Rondonpolis</nom>, Brazilo, ricevis
         indikilojn en Esperanto
         <fnt>
-          <aut>Universala Esperanto-Asocio</aut>,
-          <vrk>Elstaraj agadoj 2001</vrk>,
-          <lok><url ref="http://www.uea.org/dokumentoj/komunikoj/gaz145.html">Gazetaraj
+          <aut>Universala Esperanto-Asocio</aut>
+          <vrk>Elstaraj agadoj 2001</vrk>
+          <lok><url ref="&UEA;dokumentoj/komunikoj/gaz145.html">Gazetaraj
           Komunikoj</url>, jaro 2002a, numero 145a</lok>
         </fnt>.
       </ekz>
@@ -278,8 +415,9 @@
       <sncref/></ref>.
     </rim>
   </snc>
+  <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>
   <trd lng="de">Bushaltestelle</trd>
-  <trd lng="fr">station de bus</trd>
+  <trd lng="fr">gare routi&egrave;re</trd>
   <trd lng="pl">dworzec autobusowy</trd>
   <trd lng="pt">esta&ccedil;&atilde;o rodovi&aacute;ria</trd>
 </drv>
@@ -299,7 +437,7 @@
         kiu produktis elektron por lumigi la palacon kaj
         Vintran &Gcirc;ardenon
         <fnt>
-          <aut>A. &Ccaron;i&zcaron;ikait&#279;</aut>,
+          <aut>A. &Ccaron;i&zcaron;ikait&#x117;</aut>
           <vrk>Kretinga, kongresurbo</vrk>
           <lok>57a Kongreso de Internacia Katolika Unui&gcirc;o
           Esperantista</lok>
@@ -309,11 +447,13 @@
         &ccirc;ina konstruado de nuklea elektro<tld/>o komenci&gcirc;is en la
         80-jaroj de la lasta jarcento
         <fnt>
-        <vrk><url ref="http://es.chinabroadcast.cn/1/2005/06/14/1@25723.htm">&Ccirc;ina konstruado de nuklea elektrostacio</url></vrk>
+        <vrk><url ref="http://es.chinabroadcast.cn/1/2005/06/14/1@25723.htm">&Ccirc;ina konstruado de
+        nuklea elektrostacio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>
   <trd lng="cs">elektr&aacute;rna</trd>
   <trd lng="de">Kraftwerk</trd>
   <trd lng="fr">centrale &eacute;lectrique</trd>
@@ -328,9 +468,9 @@
       Iom granda, longe da&ubreve;ra konstrua&jcirc;o en la kosmo,
       eventuale lo&gcirc;ebla:
       <ekz>
-        anstata&ubreve; en metalaj kosmo<tld/>oj astrona&ubreve;toj povus orbiti la 
-        teron en balonoj la&ubreve; novaj planoj anoncitaj de usona 
-        kosmagentejo NASA 
+        anstata&ubreve; en metalaj kosmo<tld/>oj astrona&ubreve;toj povus orbiti la
+        teron en balonoj la&ubreve; novaj planoj anoncitaj de usona
+        kosmagentejo NASA
         <fnt>
           <aut>Arono kaj Karlina</aut>,
           <vrk><url ref="http://radioverda.com/programoj/2010/3/14/rv161-20100314.html">
@@ -344,14 +484,16 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2009/009929.php">Du mil na&ubreve;</url></vrk>
+          <vrk><url ref="&Monato;/2009/009929.php">Du mil na&ubreve;</url></vrk>
           <lok>2009</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_mol;&c_m;&c_ib;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</ind></trd>
   <trd lng="de">Raumstation</trd>
   <trd lng="fr">station spatiale</trd>
+  <trd lng="ja">&#x5B87;&#x5B99;&#x30B9;&#x30C6;&#x30FC;&#x30B7;&#x30E7;&#x30F3;  [<ind>&#x3046;&#x3061;&#x3085;&#x3046;&#x30B9;&#x30C6;&#x30FC;&#x30B7;&#x30E7;&#x30F3;</ind>]</trd>
 </drv>
 
 <drv mrk="staci.metro0o">
@@ -392,18 +534,21 @@
         <lok><url ref="http://bertilow.com/blogo/index.php?p=38">BBBlogo
         </url></lok>
       </fnt>.
-    </ekz>      
+    </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja; &c_m;&c_e;&c_t;&c_r;&c_o;</trd>
   <trd lng="cs">stanice metra</trd>
   <trdgrp lng="de">
     <trd>Metrostation</trd>,
     <trd>U-Bahnstation</trd>
   </trdgrp>
   <trd lng="fr">station de m&eacute;tro</trd>
+  <trd lng="ja">&#x5730;&#x4E0B;&#x9244;&#x99C5;  [<ind>&#x3061;&#x304B;&#x3066;&#x3064;&#x3048;&#x304D;</ind>]</trd>
   <trd lng="pl">stacja metra</trd>
   <trd lng="pt">esta&ccedil;&atilde;o de metr&ocirc;</trd>
   <trd lng="sk">stanica metra</trd>
+  <trd lng="uk">&c_s;&c_t;&c_a;&c_n;&c_c;&c_ib;&c_ja; &c_m;&c_je;&c_t;&c_r;&c_o;</trd>
 </drv>
 
 <drv mrk="staci.posxto0o">
@@ -411,7 +556,7 @@
   <snc mrk="staci.posxto0o.POSX">
     <uzo tip="fak">POSX</uzo>
     <dif>
-      Stacio de po&scirc;taj veturiloj:
+      <ref tip="super" cel="staci.0o.haltejo"><tld lit="S"/>o</ref> de po&scirc;taj veturiloj:
       <ekz>
         preninte &ccirc;evalojn, ni veturis al la po&scirc;to<tld/>o <nom>Koori</nom>
         <fnt>
@@ -432,10 +577,10 @@
   <snc mrk="staci.radi0o.TEK">
     <uzo tip="fak">RAD</uzo>
     <dif>
-      <ref tip="super" cel="staci.0o.TEK"><tld lit="S"/>o</ref> kiu
+      <ref tip="super" cel="staci.0o.elsendejo"><tld lit="S"/>o</ref> kiu
       elsendas radiofonie:
       <ekz>
-        informi la veterinaron <klr>[&#8230;]</klr> ili faris tion
+        informi la veterinaron <klr>[&#x2026;]</klr> ili faris tion
         multe pli rapide ol &ccirc;iuj radio<tld/>oj de la Nordo
         <fnt><bib>&Ccirc;uk&ccirc;oj</bib>, <lok>la trimova &scirc;akproblemo, 1.
         Kakume</lok></fnt>;
@@ -451,12 +596,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_y;&c_jo;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>
   <trdgrp lng="de">
     <trd>Rundfunkstation</trd>,
     <trd>Radiosender</trd>
   </trdgrp>
   <trd lng="fr">station radiophonique</trd>
   <trd lng="hu">r&aacute;di&oacute;&aacute;llom&aacute;s</trd>
+  <trd lng="ja">&#x30E9;&#x30B8;&#x30AA;&#x653E;&#x9001;&#x5C40;  [<ind>&#x3089;&#x3058;&#x304A;&#x307B;&#x3046;&#x305D;&#x3046;&#x304D;&#x3087;&#x304F;</ind>]</trd>
 </drv>
 
 <drv mrk="staci.televid0o">
@@ -464,7 +611,7 @@
   <snc mrk="staci.televid0o.TEK">
     <uzo tip="fak">TEK</uzo>
     <dif>
-      <ref tip="super" cel="staci.0o.TEK"><tld lit="S"/>o</ref> kiu
+      <ref tip="super" cel="staci.0o.elsendejo"><tld lit="S"/>o</ref> kiu
       dissendas televidprogramojn:
       <ekz>
         ekde 1996 ekzistas televid<tld/>o irlandlingva
@@ -477,38 +624,44 @@
         <fnt>
           <bib>Monato</bib>
           <aut>J.M. Parisot-Delourmel</aut>
-          <vrk><url ref="https://www.monato.be/2004/008286.html">Charles Chaplin kaj Esperanto</url></vrk>
+          <vrk><url ref="&Monato;/2004/008286.html">Charles Chaplin kaj
+          Esperanto</url></vrk>
           <lok>2004</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>
   <trdgrp lng="de">
     <trd>Fernsehsender</trd>
   </trdgrp>
   <trd lng="fr">station de t&eacute;l&eacute;vision</trd>
+  <trd lng="ja">&#x30C6;&#x30EC;&#x30D3;&#x653E;&#x9001;&#x5C40;  [<ind>&#x3066;&#x308C;&#x3073;&#x307B;&#x3046;&#x305D;&#x3046;&#x304D;&#x3087;&#x304F;</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.30  2015/07/04 08:37:44  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.115 2023/08/29 12:44:22
+Wolfram Diestel: ja: +prononco
 
-Revision 1.29  2015/06/29 16:33:24  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.114 2023/05/18 20:26:43
+Ulrich Fellmann: stacio: +15 DE trdj
 
-Revision 1.28  2012/06/18 09:10:07  revo
-Jeromo Vasxe: + posxt~o
+versio 1.113 2023/05/06 14:26:05
+revo: aktualigo URL-unuoj
 
-Revision 1.27  2011/02/18 16:10:17  revo
-Jeromo Vasxe: + 1 fak rad
+versio 1.112 2023/04/26 08:31:44
+Paul Peeraerts: kor de eraraj ref
 
-Revision 1.26  2010/06/15 16:30:57  revo
-Agustin Garcia Lopez: +trd es
+versio 1.111 2023/03/23 10:31:46
+Dmitri Gabinski: + trd be
 
-Revision 1.25  2010/03/19 17:30:48  revo
-Jeromo Vasxe: + kosmo~o, kor 1 trd fr laux adm
+versio 1.110 2022/08/19 20:30:57
+Jeromo Vasxe: + akvopuriga ~o, kor. kk internaj ref
 
-Revision 1.24 2006/07/15 17:04:36 revo
+versio 1.109 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.107 2022/02/09 08:34:10
 -->
 </vortaro>

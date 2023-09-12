@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: proksi.xml,v 1.121 2023/09/05 18:30:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>proksim</rad>/a <fnt><bib>PV</bib></fnt>
@@ -15,33 +14,62 @@
     </dif>
     <subsnc mrk="proksi.0a.kie">
       <dif>
-        En spaco:
-        <ekz>
-          <tld/>a urbo, najbaro, lando;
-        </ekz>
+        en spaco:
         <ekz>
           la malfeli&ccirc;a infano forkuris kaj ka&scirc;is sin en la plej <tld/>a
           arbaro
           <fnt><bib>F</bib>, <lok>&FE; 21</lok></fnt>;
         </ekz>
         <ekz>
-          <tld/>a je, al, de io;
+          &ccirc;i tiu urbo estas sufi&ccirc;e <tld/>a, por kuri tien, <klr>[&#8230;]</klr> mi savos min tien
+          <fnt>
+            <bib>MT</bib>
+            <lok>Genezo 19:20</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          rigardi ion de <tld/>e;
+          <klr>[la]</klr> najbaro plej <tld/>a al lia domo
+          <fnt>
+            <bib>MT</bib>
+            <lok>Eliro 12:4</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          alporti ion <ind>de mal<tld/>e</ind><fnt>Z</fnt>;
-          <trd lng="ru">&c_i;&c_z;&c_d;&c_a;&c_l;&c_je;&c_k;&c_a;</trd>
-          <trd lng="hu">messzir&odblac;l</trd>
+          aperis unu virino el la plej <tld/>a vila&gcirc;o
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>Kora sufero</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          sendi iun mal<tld/>en<fnt>Z</fnt>.
+          la sonoj fari&gcirc;is &ccirc;iam pli <tld/>aj
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>Sova&gcirc;aj cignoj</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          &ccirc;e pli <tld/>a observado de &ccirc;iu objekto fari&gcirc;is al mi klare, ke &gcirc;i ne povas
+          multe kosti
+          <fnt>
+            <bib>FK</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[li]</klr> trovos la ser&ccirc;atan plej <tld/>an vojon al Hindujo
+          <fnt>
+            <bib>FK</bib>
+          </fnt>.
         </ekz>
       </dif>
       <refgrp tip="vid">
+        <ref cel="apud.0a.KOMUNE">apuda<sncref/></ref>,
         <ref cel="najbar.0a">najbara</ref>
       </refgrp>
+      <trdgrp lng="de">
+        <trd><klr>a) </klr>unweit</trd>,
+        <trd>dicht an</trd>
+      </trdgrp>
       <trdgrp lng="en">
         <trd>close</trd>,
         <trd>near</trd>
@@ -49,53 +77,147 @@
     </subsnc>
     <subsnc mrk="proksi.0a.kiam">
       <dif>
-        En tempo:
+        en tempo:
         <ekz>
-          la <tld/>an (pasintan a&ubreve; venontan) jaron;
+          <tld/>a estas la tago de ilia malfeli&ccirc;o
+          <fnt>
+            <bib>MT</bib>
+            <lok>Readmono 32:35</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          nia savo estas pli <tld/>a, ol kiam ni ekkredis
+          <fnt>
+            <bib>NT</bib>
+            <lok>Romanoj 13:11</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la somero jam estas <tld/>a
+          <fnt>
+            <bib>NT</bib>
+            <lok>Luko 21:30</lok>
+          </fnt>;
         </ekz>
         <ekz>
           la tago de la edzi&gcirc;o estis <tld/>a;
         </ekz>
         <ekz>
-          <ind>la plej <tld/>a</ind> estonteco<fnt>Z</fnt>.
+          en <ind>la plej <tld/>a</ind> diman&ccirc;o
+          <fnt>
+            <bib>Fab2</bib>
+            <lok>La najtingalo</lok>
+          </fnt>;
+          <trd lng="de">n&auml;chster</trd>
           <trd lng="ru">&c_b;&c_l;&c_i;&c_zh;&c_a;&c_j;&c_sh;&c_i;&c_j;</trd>
         </ekz>
+        <ekz>
+          tiuj mizerulinoj estis jam <tld/>aj al la fino de la tera migrado
+          <fnt>
+            <bib>Marta</bib>
+          </fnt>.
+        </ekz>
       </dif>
+      <refgrp tip="vid">
+         <ref cel="baldau.0a">balda&ubreve;a</ref>,
+         <ref cel="ven.0onta">venonta</ref>
+      </refgrp>
+      <trdgrp lng="de">
+        <trd><klr>b) </klr>bald</trd>
+      </trdgrp>
       <trd lng="en">soon</trd>
       <trd lng="fr">prochain<klr> (adj.)</klr></trd>
     </subsnc>
     <subsnc mrk="proksi.0a.FIG">
       <dif>
-        Per metaforo:
+        per metaforo:
         <ekz>
-          <tld/>a parenco;
+          <tld/>a parenco
+          <fnt>
+            <bib>MT</bib>
+            <lok>Levidoj 21:2</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          jam <tld/>a <klr>(tuj preta)</klr> estas Lia helpo
-          al tiuj, kiuj Lin timas
-          <fnt><bib>MT</bib> <lok>&Psa; 85:9</lok></fnt>;
+          <tld/>a estas la Eternulo al tiuj, kies koro estas rompita
+          <fnt>
+            <bib>MT</bib>
+            <lok>Psalmaro 34:18</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          &gcirc;is la fina malapero de la muroj inter la popoloj, estas
-          ankora&ubreve;
-          tre mal<tld/>e<fnt>Z</fnt>.
+          <klr>[li]</klr> trovis &scirc;in en stato <tld/>a al frenezo
+          <fnt>
+            <bib>Far2</bib>
+            <lok>&Ccirc;apitro XIV</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[ili]</klr> rakontis &gcirc;in nur al siaj plej <tld/>aj amikinoj
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>La virineto de maro</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          fabelo kaj realeco estas tre <tld/>aj unu de la alia
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>Dorna vojo de la honoro</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          vo&ccirc;o tute ne decida kaj ne la&ubreve;ta, tre <tld/>a al petado
+          <fnt>
+            <bib>Revizoro</bib>
+            <lok>Akto dua</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          la senco de &leftquot;doma&gcirc;o&rightquot; estas tre <tld/>a al la senco de &leftquot;beda&ubreve;ro&rightquot;
+          <fnt>
+            <bib>LR</bib>
+            <lok>2. Vortuzo</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          pre&gcirc;ejo <tld/>a, sed Dio mal<tld/>a
+          <fnt>
+            <bib>PrV</bib>
+          </fnt>.
         </ekz>
       </dif>
-        <trdgrp lng="en">
+      <refgrp tip="vid">
+        <ref cel="famili1.0a">familiara</ref>,
+        <ref cel="intim.0a.sento">intima<sncref/></ref>
+      </refgrp>
+      <trdgrp lng="de">
+        <trd><klr>c) </klr>&auml;hnlich</trd>
+      </trdgrp>
+      <trdgrp lng="en">
         <trd>close</trd>,
         <trd>near</trd>
       </trdgrp>
     </subsnc>
   </snc>
   <trd lng="be">&c_b;&c_l;&c_ib;&c_z;&c_k;&c_ib;</trd>
+  <trd lng="bo">&t_-a;&t_kha;&t_rata;&t_gigu;&t_sa;&t_tsheg;&t_na;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>bl&iacute;zk&yacute;</trd>,
     <trd>p&rcaron;ibli&zcaron;n&yacute;</trd>
   </trdgrp>
-  <trd lng="de">nahe</trd>
+  <trdgrp lng="de">
+    <trd>nahe</trd>,
+    <trd>nah</trd>
+  </trdgrp>
   <trd lng="es">pr&oacute;ximo</trd>
   <trd lng="fr">proche</trd>
   <trd lng="hu">k&ouml;zeli</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8FD1;&#12356;  [<ind>&#12385;&#x304B;&#12356;</ind>]</trd>,
+    <trd>&#x8FD1;&#x63A5;&#12375;&#x305F;  [<ind>&#x304D;&#12435;&#x305B;&#12388;&#12375;&#x305F;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ne">&#2344;&#x93F;&#2325;&#x91F;</trd>
   <trd lng="nl">dichtbij</trd>
   <trdgrp lng="pl">
     <trd>bliski</trd>,
@@ -117,16 +239,60 @@
     <trd>bl&iacute;zky</trd>,
     <trd>pribli&zcaron;n&yacute;</trd>
   </trdgrp>
+<trd lng="th">&#xE43;&#xE01;&#xE25;&#xE49;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_l;&c_i;&c_z;&c_mol;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_b;&c_l;&c_i;&c_z;&c_mol;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_l;&c_i;&c_zh;&c_n;&c_ib;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="proksi.0igi">
-  <kap><tld/>igi</kap>
+  <kap><tld/>igi, <var><kap>al<tld/>igi</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="proksi.0igi.KOMUNE">
     <dif>
       Fari ion <tld/>a:
       <ekz>
-        <tld/>igu tiun se&gcirc;on.
+        la gasto <tld/>igis la se&gcirc;on al la kanapo kaj frapis la ri&ccirc;ulon je la femuro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> superforte <tld/>igis la boteleton al la bu&scirc;o
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>igis sian kapon al &scirc;ia
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la genton de via patro al<tld/>igu al vi, ili ali&gcirc;u al vi kaj servu vin
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 18:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio]</klr> al<tld/>igus la grandan komunehoman celon almena&ubreve; je unu pa&scirc;o
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i homaranismo <klr>[&#8230;]</klr> real<tld/>igas al la religio tiujn, kiuj
+        perdis &ccirc;ian religion
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Pri la homaranismo</vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -135,11 +301,18 @@
     <trd>&c_n;&c_a;&c_b;&c_l;&c_ib;&c_zh;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="cs">p&rcaron;ibl&iacute;&zcaron;it</trd>
-  <trd lng="de">ann&auml;hern</trd>
+  <trdgrp lng="de">
+    <trd>ann&auml;hern</trd>,
+    <trd>n&auml;herbringen</trd>
+  </trdgrp>
   <trd lng="en">to bring near</trd>
   <trd lng="es">aproximar</trd>
   <trd lng="fr">approcher<klr> (tr.)</klr></trd>
   <trd lng="hu">k&ouml;zel&iacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8FD1;&#12389;&#12369;&#x308B;  [<ind>&#12385;&#x304B;&#12389;&#12369;&#x308B;</ind>]</trd>,
+    <trd>&#x8FD1;&#x5BC4;&#x305B;&#x308B;  [<ind>&#12385;&#x304B;&#12424;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">naderbij brengen</trd>
   <trdgrp lng="pl">
     <trd>zbli&zdot;a&cacute;</trd>,
@@ -150,6 +323,11 @@
     <trd>&c_p;&c_r;&c_i;&c_b;&c_l;&c_i;&c_zh;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">pribl&iacute;&zcaron;i&tcaron;,</trd>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a;&c_b;&c_l;&c_i;&c_zh;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_l;&c_i;&c_zh;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_l;&c_i;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="proksi.0ede">
@@ -183,6 +361,8 @@
     <trd>k&ouml;zel vmihez</trd>,
     <trd>vmi <ind>k&ouml;zel&eacute;ben</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#xFF5E;&#x306E;&#x8FD1;&#x304F;&#x306B;
+  [&#xFF5E;<ind>&#x306E;&#12385;&#x304B;&#x304F;&#x306B;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>blisko</trd>,
     <trd>niedaleko</trd>,
@@ -202,21 +382,50 @@
     <dif>
       I&gcirc;i <tld/>a:
       <ekz>
-        ne <tld/>i&gcirc;u al la pordo de &scirc;ia domo<fnt>Z</fnt>;
+        ne <tld/>i&gcirc;u al la pordo de &scirc;ia domo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 5:8</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        via tasko <tld/>i&gcirc;as al la fino;
+        lia animo al<tld/>i&gcirc;as al la pereo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 33:22</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la vintro al<tld/>i&gcirc;as;
+        tiuj <tld/>i&gcirc;adis al la komenco de vivo krima
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        tiuj, kiuj mal<tld/>i&gcirc;as de Dio, pereas<fnt>Z</fnt>;
+        la vintro al<tld/>i&gcirc;as <klr>[&#8230;]</klr> en la montaro jam elfalis ne&gcirc;o
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Sub la saliko</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la popoloj inter<tld/>i&gcirc;as kiel unu familio<fnt>Z</fnt>.
+        tiuj, kiuj mal<tld/>i&gcirc;as de <klr>[Dio]</klr>, pereas
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 73:27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la popoloj inter<tld/>i&gcirc;us kiel unu familio
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="ir.al0i">aliri</ref>,
+      <ref cel="ven.al0i">alveni</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_b;&c_l;&c_ib;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>,
@@ -230,6 +439,10 @@
     <trd>s'<ind>approcher</ind> de</trd>
   </trdgrp>
   <trd lng="hu">k&ouml;zeledik</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8FD1;&#12389;&#x304F;  [<ind>&#12385;&#x304B;&#12389;&#x304F;</ind>]</trd>,
+    <trd>&#x8FD1;&#x5BC4;&#x308B;  [<ind>&#12385;&#x304B;&#12424;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">naderbij komen</trd>
   <trdgrp lng="pl">
     <trd>zbli&zdot;a&cacute; si&eogonek;</trd>,
@@ -239,26 +452,38 @@
     <trd>&c_p;&c_r;&c_i;&c_b;&c_l;&c_i;&c_z;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_b;&c_l;&c_i;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trd lng="uk">&c_n;&c_a;&c_b;&c_l;&c_i;&c_zh;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
 </drv>
 
 <drv mrk="proksi.0ulo">
   <kap><tld/>ulo</kap>
   <snc mrk="proksi.0ulo.KOMUNE">
     <dif>
-      &Ccirc;iu homo, rilate al alia:
+      &Ccirc;iu <ref tip="sin" cel="hom.0o">homo</ref>, en rilato, en kontakto kun alia:
       <ekz>
         amu vian <tld/>ulon kiel vin mem
         <fnt><bib>NT</bib>, <lok>&Mar;, 12:31</lok></fnt>;
       </ekz>
       <ekz>
-        &ccirc;iu vidu en sia <tld/>ulo nur homon kaj fraton<fnt>Z</fnt>.
+        &ccirc;iu <klr>[&#8230;]</klr> vidu en sia <tld/>ulo nur homon kaj fraton
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="amik.0o">amiko</ref>,
+      <ref cel="kamara.0o">kamarado</ref>,
+      <ref cel="kun.0ulo">kunulo</ref>,
+      <ref cel="najbar.0o">najbaro</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_l;&c_ib;&c_zh;&c_n;&c_ib;</trd>,
     <trd>&c_b;&c_l;&c_ib;&c_z;&c_k;&c_ib; <klr tip="amb">(&c_n;&c_a;&c_z;.)</klr></trd>
   </trdgrp>
+  <trd lng="bo">&t_kha;&t_yata;&t_gigu;&t_ma;&t_tsheg;&t_ma;&t_tsha;&t_drengbu;&t_sa;&t_tsheg;</trd>
   <trd lng="cs">bli&zcaron;n&iacute;</trd>
   <trd lng="de">N&auml;chster</trd>
   <trdgrp lng="en">
@@ -267,6 +492,10 @@
   </trdgrp>
   <trd lng="fr">prochain<klr> (subst.)</klr></trd>
   <trd lng="hu">felebar&aacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x96A3;&#x4EBA;  [<ind>&#x308A;&#12435;&#12376;&#12435;</ind>]</trd>,
+    <trd>&#20596;&#x8FD1;&#32773;  [<ind>&#x305D;&#12387;&#x304D;&#12435;&#12375;&#12419;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">naaste</trd>
   <trdgrp lng="pl">
     <trd>bli&zacute;ni</trd>,
@@ -277,6 +506,7 @@
     <trd>&c_b;&c_l;&c_i;&c_zh;&c_n;&c_i;&c_j; <klr tip="amb">(&c_s;&c_u;&c_shch;.)</klr></trd>
   </trdgrp>
   <trd lng="sk">bl&iacute;&zcaron;ny</trd>
+  <trd lng="uk">&c_b;&c_l;&c_i;&c_zh;&c_n;&c_ib;&c_j; (&c_ib;&c_m;.)</trd>
 </drv>
 
 <drv mrk="proksi.0uma">
@@ -285,10 +515,27 @@
     <dif>
       Ne tute &gcirc;usta, sed nur <tld/>a al la &gcirc;usto:
       <ekz>
-        <tld/>uma kalkulo de la lo&gcirc;antoj;
+        mi donos klarigon <tld/>uman, ne garantiante, ke mia klarigo ta&ubreve;gos por &ccirc;iuj
+        okazoj
+        <fnt>
+          <bib>LR</bib>
+          <lok>12. Adverboj kaj konjunkcioj</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>uma signifo de vorto<fnt>Z</fnt>.
+        mi penis trovi vorton, kiu havus eble nur signifon <tld/>uman
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> <tld/>uma pezo estas tri kilogramoj
+        <fnt>
+          <aut>Maxime Lechien</aut>
+          <vrk><url ref="&Monato;/2000/006955.php">Fama karnavalo en Binche</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 16</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -304,6 +551,10 @@
     <trd>k&ouml;r&uuml;lbel&uuml;li</trd>,
     <trd>megk&ouml;zel&iacute;t&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304A;&#12424;&#x305D;&#x306E;</trd>,
+    <trd>&#x8FD1;&#x4F3C;&#x306E;  [<ind>&#x304D;&#12435;&#12376;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">benaderend</trd>
   <trd lng="pl">przybli&zdot;ony</trd>
   <trdgrp lng="ru">
@@ -311,6 +562,7 @@
     <trd>&c_p;&c_r;&c_i;&c_m;&c_je;&c_r;&c_n;&c_y;&c_j;<klr tip="ind"> (&c_p;&c_r;&c_i;&c_b;&c_l;&c_i;&c_z;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;)</klr></trd>
   </trdgrp>
   <trd lng="sk">pribli&zcaron;n&yacute;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_b;&c_l;&c_i;&c_z;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="proksi.0ume">
@@ -319,19 +571,71 @@
     <dif>
       La&ubreve; ne preciza takso, ne plene trafante la veron a&ubreve; celon:
       <ekz>
-        la biblioteko enhavas <tld/>ume (&ccirc;irka&ubreve;e) 100 volumojn;
+        &ccirc;eestis <tld/>ume kvin mil viroj, <klr>[&#8230;]</klr> li diris al siaj dis&ccirc;iploj:
+        sidigu ilin en aroj, po <tld/>ume kvindek
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 9:14</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>ume post unu horo la buso haltis
-        <fnt><aut>G. L. Arosev</aut>, <vrk>Nerekonebla</vrk>,
-        <bib>Monato</bib>, <lok>2001:5, p. 26a</lok></fnt>.
+        li iris for de ili <tld/>ume &scirc;ton&jcirc;eton, kaj li genuis, kaj pre&gcirc;is
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 22:41</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li havis unu solan filinon, <tld/>ume dekdujaran
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 8:42</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ume en la mezo de la valo estis du grupoj de konstrua&jcirc;oj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ume tri tagojn ni uzis por veni <klr>[&#8230;]</klr> al Kopenhago
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Peco da perlovico</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiaj <tld/>ume estis la pensoj, per kiuj &ccirc;iu sin okupis dum la teatra prezentado
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;parmonujo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la domoj estis nenio alia ol lignaj budoj, <tld/>ume tiaj, kiajn ni ankora&ubreve; nun
+        vidas sur la vendejoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vorto &leftquot;kaperi&rightquot; signifas <tld/>ume &leftquot;rabi korsare&rightquot;
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. Vortuzo</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="cxirka.0e.proksimume">&ccirc;irka&ubreve;e<sncref/></ref>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_b;&c_l;&c_ib;&c_z;&c_n;&c_a;</trd>,
     <trd>&c_b;&c_l;&c_ib;&c_z;&c_u;</trd>
   </trdgrp>
+  <trd lng="bo">&t_ha;&t_tsheg;&t_la;&t_ma;&t_tsheg;</trd>
   <trd lng="ca">m&eacute;s o menys</trd>
   <trdgrp lng="cs">
     <trd>asi</trd>,
@@ -349,6 +653,11 @@
     <trd>megk&ouml;zel&iacute;t&odblac;leg</trd>,
     <trd>nagyj&aacute;b&oacute;l</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304A;&#12424;&#x305D;</trd>,
+    <trd>&#x307B;&#x307C;</trd>,
+    <trd>&#x8FD1;&#x4F3C;&#30340;&#x306B;  [<ind>&#x304D;&#12435;&#12376;&#12390;&#x304D;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="oc">a pauc pr&egrave;s</trd>
   <trdgrp lng="pl">
     <trd>w <ind>przybli&zdot;eniu</ind></trd>,
@@ -363,6 +672,102 @@
     <trd>pribli&zcaron;ne</trd>,
     <trd>zhruba</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_b;&c_l;&c_i;&c_z;&c_n;&c_o;</trd>
+</drv>
+
+<drv mrk="proksi.al0igxo">
+  <kap>
+    al<tld/>i&gcirc;o
+  </kap>
+  <snc mrk="proksi.al0igxo.spaca">
+    <dif>
+      Ago malgrandigi distancon:
+      <ekz>
+        lia nura al<tld/>i&gcirc;o kompromitis virinon
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        feli&ccirc;e, al<tld/>i&gcirc;o de aro da sinjoroj kaj sinjorinoj malhelpis furiozan batalon
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni a&ubreve;dis la al<tld/>i&gcirc;on de piedoj
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="proksi.al0igxo.tempa">
+    <dif>
+      <ref cel="ven.al0o">Alveno</ref> de certa tempo, certa evento:
+      <ekz>
+        gravedulino &ccirc;e la al<tld/>i&gcirc;o de la naskado turmenti&gcirc;as kaj krias en siaj doloroj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 26:17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al<tld/>i&gcirc;o de momento tre dezirata kaj samtempe terura
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la al<tld/>i&gcirc;o de la Saturna festo
+        <fnt>
+          <bib>StU</bib>
+          <lok>Al Romo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro la al<tld/>i&gcirc;o de la vintro, ili &ccirc;esigis la ekspedicion
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Feliks Nevos</aut>
+          <vrk><url ref="&Monato;/2012/010638.php">Ne&gcirc;o-re&gcirc;oj</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="proksi.al0igxo.problema">
+    <dif>
+      <ref cel="ir.al0o.FIG">Aliro</ref> al demando, problemo sen jam solvi &gcirc;in:
+      <ekz>
+        tiu al<tld/>i&gcirc;o al la demando ja estas komuna al la plimulto de la scienculoj,
+        la&ubreve; tiu, se vere ekzistas universalaj le&gcirc;oj pli-malpli validaj en la tuta
+        universo, oni rajtas kredi, ke fenomeno jam okazinta en unu loko de la
+        universo povas esti okazinta, okazanta a&ubreve; okazonta anka&ubreve; aliloke
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2012/010768.php">Kiel vi fartas, alimondanoj?</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Ansatz</trd>,
+      <trd>Approximation</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_b;&c_l;&c_ib;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_n;&c_a;&c_b;&c_l;&c_ib;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_h;&c_o;&c_d;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_b;&c_y;&c_c;&c_mol;&c_c;&c_jo;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_y;&c_h;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trd lng="de">Ann&auml;herung</trd>
+  <trd lng="en">approximation</trd>
 </drv>
 
 <drv mrk="proksi.mal0a">
@@ -376,14 +781,19 @@
         <fnt><bib>F</bib>, <lok>&FE; 13</lok></fnt>;
       </ekz>
       <ekz>
-        pre&gcirc;ejo <tld/>a, sed Dio mal<tld/>a;
-        <fnt><bib>PrV</bib></fnt>
+        mal<tld/>a de ni estas la deziro ribeli
+        <fnt>
+          <bib>MT</bib>
+          <lok>Josuo 22:29</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        mal<tld/>a de mi estas la deziro ribeli<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        mal<tld/>a de mi estas la opinio ke...;
+        lia animo estas tiel mal<tld/>a de ia sanga penso, kiel malproksima estas la
+        sudo de la nordo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -391,9 +801,20 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="for.0a">fora</ref>
   </snc>
+  <trd lng="af">verre</trd>
+  <trd lng="am">&#4649;&#4677;</trd>
+  <trd lng="ar">&a_b;&a_ayn;&a_y;&a_d;</trd>
+  <trd lng="az">uzaq</trd>
   <trd lng="be">&c_d;&c_a;&c_l;&c_jo;&c_k;&c_ib;</trd>
+  <trd lng="bn">&#x9A6;&#x9C2;&#x9B0;&#x9AC;&#x9B0;&#x9CD;&#x9A4;&#x9C0;</trd>
+  <trd lng="bo">&t_tha;&t_ga;&t_tsheg;&t_ra;&t_gigu;&t_nga;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
+  <trd lng="bs">udaljene</trd>
+  <trd lng="co">luntanu</trd>
   <trd lng="cs">vzd&aacute;len&yacute;</trd>
+  <trd lng="cy">bell</trd>
+  <trd lng="da">fjernt</trd>
   <trdgrp lng="de">
     <trd>fern</trd>,
     <trd>entfernt</trd>
@@ -402,25 +823,90 @@
     <trd>far</trd>,
     <trd>distant</trd>
   </trdgrp>
+  <trd lng="et">palju</trd>
+  <trd lng="eu">urrutiko</trd>
   <trdgrp lng="fr">
     <trd>distant</trd>,
     <trd>&eacute;loign&eacute;</trd>,
     <trd>lointain</trd>
   </trdgrp>
+  <trd lng="fy">fier</trd>
+  <trd lng="ga">i bhfad i gc&eacute;in</trd>
+  <trd lng="gd">fhaide air falbh</trd>
+  <trd lng="gl">lonxe</trd>
+  <trd lng="gu">&#xAA6;&#xAC2;&#xAB0;&#xAA8;&#xABE;</trd>
+  <trd lng="hi">&#2342;&#2370;&#2352;</trd>
+  <trd lng="hmn">nyob deb</trd>
+  <trd lng="hr">daleko</trd>
+  <trd lng="ht">byen lwen</trd>
   <trd lng="hu">t&aacute;voli</trd>
+  <trd lng="hy">&#1392;&#1381;&#x57C;&#1377;&#x57E;&#1400;&#1408;</trd>
+  <trd lng="ig">anya</trd>
+  <trd lng="is">fjarl&aelig;g</trd>
+  <trd lng="ja">&#36960;&#12356; [<ind>&#12392;&#x304A;&#12356;</ind>]</trd>
+  <trd lng="jv">adoh</trd>
+  <trd lng="ka">&#x10E8;&#x10DD;&#x10E0;&#x10D4;&#x10E3;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&c_a;&c_l;&c_y;&c_s;</trd>
+  <trd lng="km">&#6022;&#x17D2;&#6020;&#x17B6;&#6041;</trd>
+  <trd lng="kn">&#xCA6;&#xCC2;&#xCB0;&#xCA6;</trd>
+  <trd lng="ko">&#xBA3C;</trd>
+  <trd lng="ku">d&ucirc;r</trd>
+  <trd lng="ky">&c_a;&c_l;&c_y;&c_s;</trd>
+  <trd lng="lat">tantum</trd>
+  <trd lng="lo">&#xEAB;&#xEC8;&#xEB2;&#xE87;&#xEC4;&#xE81;</trd>
+  <trd lng="lt">tolimas</trd>
+  <trd lng="lv">t&#x15D1;ls</trd>
+  <trd lng="mg">lavitra</trd>
+  <trd lng="mi">tawhiti</trd>
+  <trd lng="mk">&c_d;&c_a;&c_l;&c_je;&c_ch;&c_n;&c_i;</trd>
+  <trd lng="ml">&#xD26;&#xD42;&#xD30;&#xD46;&#xD2F;&#xD41;&#xD33;&#xD4D;&#xD33;</trd>
+  <trd lng="mn">&c_h;&c_o;&c_l;&c_y;&c_n;</trd>
+  <trd lng="mr">&#2310;&#2340;&#x93E;&#x92A;&#2352;&#x94D;&#x92F;&#2306;&#2340;</trd>
+  <trd lng="ms">jauh</trd>
+  <trd lng="mt">bog&#295;od</trd>
+  <trd lng="my">&#x101D;&#4145;&#4152;&#4096;&#x103D;&#x102C;&#x101E;&#4145;&#x102C;</trd>
+  <trd lng="ne">&#x91F;&#x93E;&#2338;&#x93E;</trd>
+  <trd lng="ny">lakutali</trd>
+  <trd lng="pa">&#xA26;&#xA42;&#xA30;</trd>
   <trdgrp lng="pl">
     <trd>daleki</trd>,
     <trd>odleg&lstroke;y</trd>
   </trdgrp>
+  <trd lng="ps">&a_l;&a_r;&#x6D0;</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_d;&c_a;&c_l;&c_jo;&c_k;&c_i;&c_j;</trd>
   </trdgrp>
+  <trd lng="rw">kure</trd>
+  <trd lng="sd">&a_j;&a_y; &a_f;&a_A;&a_S;&a_l;&a_y; &a_t;&a_y;</trd>
+  <trd lng="si">&#xD88;&#xDAD;</trd>
   <trdgrp lng="sk">
     <trd>od&lcaron;ahl&yacute;</trd>,
     <trd>vzdialen&yacute;</trd>,
     <trd>&dcaron;alek&yacute;</trd>
   </trdgrp>
+  <trd lng="sl">oddaljeni</trd>
+  <trd lng="sm">mamao</trd>
+  <trd lng="sn">kure</trd>
+  <trd lng="so">fog</trd>
+  <trd lng="sq">i larg&euml;t</trd>
+  <trd lng="st">hole-hole</trd>
+  <trd lng="su">tebih</trd>
+  <trd lng="sw">mbali</trd>
+  <trd lng="ta">&#xBA4;&#xBCA;&#xBB2;&#xBC8;&#xBA4;&#xBC2;&#xBB0;</trd>
+  <trd lng="te">&#xC38;&#xC41;&#xC26;&#xC42;&#xC30;</trd>
+  <trd lng="tg">&c_d;&c_u;&c_r;</trd>
+  <trd lng="th">&#xE44;&#xE01;&#xE25;</trd>
+  <trd lng="tl">malayo</trd>
+  <trd lng="tt">&c_je;&c_r;&c_a;&c_k;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_d;&c_a;&c_l;&c_je;&c_n;&c_a;</trd>
+  <trd lng="ur">&a_d;&a_w;&a_r;</trd>
+  <trd lng="uz">uzoqdagi</trd>
+  <trd lng="vi">xa</trd>
+  <trd lng="xh">kude</trd>
+  <trd lng="yi">&vav;&vav;&yod;&yod;&#x5B7;&tet;</trd>
+  <trd lng="yo">o jina</trd>
+  <trd lng="zu">ezikude</trd>
 </drv>
 
 <drv mrk="proksi.mal0igi">
@@ -430,14 +916,47 @@
     <dif>
       Fari mal<tld/>a:
       <ekz>
-        la artikolo ankora&ubreve; pli ilin mal<tld/>igas de mi<fnt>Z</fnt>.
+        oni <klr>[&#8230;]</klr> forpelis jam en mal<tld/>igitajn bu&ccirc;ejojn la scenojn de
+        mortigado de bestoj, kiuj ne estas eblaj sen fluoj de sango
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        miajn fratojn Li mal<tld/>igis de mi kaj miaj konatoj forfremdi&gcirc;is de mi
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 19:13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi mal<tld/>igis de mi amanton kaj amikon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 88:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post tri minutoj oni mal<tld/>igu la &scirc;ra&ubreve;bon el la fajro
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011332.php">Dilati&gcirc;o, kuntiri&gcirc;o ... kaj
+          eksperimento por infana amuzi&gcirc;o</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="for.0igi">forigi</ref>
   </snc>
+  <trd lng="be">&c_a;&c_d;&c_d;&c_a;&c_l;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="cs">odd&aacute;lit</trd>
+  <trd lng="de">entfernen</trd>
   <trd lng="en">to distance</trd>
   <trd lng="fr">&eacute;loigner</trd>
+  <trd lng="ja">&#36960;&#12374;&#12369;&#x308B;  [<ind>&#12392;&#x304A;&#12374;&#12369;&#x308B;</ind>]</trd>
   <trd lng="sk">vzdiali&tcaron;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_d;&c_a;&c_l;&c_ja;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="proksi.mal0ede">
@@ -447,28 +966,58 @@
     <dif>
       Je granda distanco, longa vojo, tempo a&ubreve; strebo de:
       <ekz>
-        la stacio ku&scirc;as unu mejlon mal<tld/>e de mia domo;
+        mal<tld/>e de ili estis granda grego da porkoj, pa&scirc;ti&gcirc;antaj tie
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 8:30</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        resti mal<tld/>e de la celo;
+        li estis ne mal<tld/>e de la domo
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 7:6</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <uzo tip="stl">FIG</uzo>
-        tia projekto staras ankora&ubreve; mal<tld/>e de reali&gcirc;o<fnt>Z</fnt>;
+        tre mal<tld/>e de &ccirc;i tie, tie, kien flugas la hirundoj, anta&ubreve; ol venas nia vintro
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <uzo tip="stl">FIG</uzo>
-        stari mal<tld/>e de la vero.
+        de mal<tld/>e de la intermonto sonis vokado de kornoj
+        <fnt>
+          <bib>Fab3</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia fian&ccirc;i&gcirc;o tenas lin mal<tld/>e de &ccirc;iuj dibo&ccirc;a&jcirc;oj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Sterkskarabo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne falas frukto mal<tld/>e de l' arbo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="for.0.malproksimeco">for<sncref/></ref>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_l;&c_jo;&c_k;&c_a; &c_a;&c_d;</trd>
+  <trd lng="de"><ind>entfernt</ind> von</trd>
   <trdgrp lng="en">
     <trd>away</trd>,
     <trd>far off</trd>
   </trdgrp>
   <trd lng="fr">loin de</trd>
   <trd lng="hu">t&aacute;vol vmit&odblac;l</trd>
+  <trd lng="ja">&#xFF5E;&#x304B;&#12425;&#x96E2;&#x308C;&#12390;
+  [&#xFF5E;<ind>&#x304B;&#12425;&#x306F;&#x306A;&#x308C;&#12390;</ind>]</trd>
   <trd lng="pl">daleko <klr>od</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_d;&c_a;&c_l;&c_i; &c_o;&c_t;</trd>,
@@ -486,14 +1035,18 @@
         simbolo de la katastrofo de anta&ubreve; 60 jaroj
         <fnt>
           <aut>B. Pietrzak</aut>,
-          <vrk><url
-          ref="http://www.oomoto.or.jp/Esperanto/eoGast/bphirosximo.html">
+          <vrk><url ref="http://www.oomoto.or.jp/Esperanto/eoGast/bphirosximo.html">
           Al Hiro&scirc;imo</url></vrk>,
           <lok>Oomoto, 2004</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_u; &c_n;&c_je;&c_p;&c_a;&c_s;&c_r;&c_e;&c_d;&c_n;&c_a;&c_j; &c_b;&c_l;&c_ib;&c_z;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>,
+    <trd>&c_n;&c_a; &c_a;&c_d;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib; &c_v;&c_y;&c_p;&c_r;&c_a;&c_s;&c_t;&c_a;&c_n;&c_a;&c_j; &c_r;&c_u;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="de">zum <ind>Fassen</ind> nah</trd>
   <trdgrp lng="en">
     <trd>within reach</trd>,
     <trd>in reach</trd>
@@ -507,24 +1060,27 @@
 </art>
 <!--
 $Log$
-Revision 1.25  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.121 2023/09/05 18:30:15
+Wolfram Diestel: kor. ja ind.
 
-Revision 1.24  2015/06/29 16:40:19  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.120 2023/09/04 18:29:46
+Wolfram Diestel: kor. ja ind
 
-Revision 1.23  2015/04/23 19:10:21  revo
-Jeromo Vasxe: + mal~igi
+versio 1.118 2023/08/29 12:44:23
+Wolfram Diestel: ja: +prononco
 
-Revision 1.22  2014/09/12 06:10:09  revo
-Sebastian Cyprych: +trd pl
+versio 1.117 2023/04/14 15:25:48
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.21  2013/07/13 13:10:19  revo
-Benito Subejrano: + trd ca oc
+versio 1.116 2023/04/11 18:56:01
+aktualigo Monato-URL
 
-Revision 1.20  2011/05/13 09:10:10  revo
-Jeromo Vasxe: + tusx~a
+versio 1.115 2023/03/27 22:29:31
+Ulrich Fellmann: proksimigi: + 1 plia DE trd
 
-Revision 1.19  2010/08/27 16:30:23  revo
+versio 1.114 2023/02/18 16:37:21
+Ulrich Fellmann: proksima: +4 pliaj DE trdj
+
+versio 1.113 2023/02/09 07:26:15
 -->
 </vortaro>

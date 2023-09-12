@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: konfor.xml,v 1.27 2006/12/13 17:30:37 revo Exp $">
+<art mrk="$Id: konfor.xml,v 1.40 2023/09/05 06:31:13 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>konform</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
@@ -86,7 +85,7 @@
     </subsnc>
     <subsnc mrk="konfor.0a.celkonforma">
       <dif>
-        <ref  tip="dif" cel="konfor.cel0a.KOMUNE">Cel<tld/>a</ref>:
+        <ref tip="dif" cel="konfor.cel0a.KOMUNE">Cel<tld/>a</ref>:
         <ekz>
           <klr>[tiuj vestoj]</klr> estos <tld/>aj al vi kaj bone aspektas
           <fnt>
@@ -112,7 +111,8 @@
           kaj la natura irado de nia lingvo
           <fnt>
             <bib>Paroloj</bib>
-            <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto 1908</vrk>
+            <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+            1908</vrk>
           </fnt>?
         </ekz>
         <ekz>
@@ -200,7 +200,7 @@
   <trdgrp lng="pt">
     <trd>conforme</trd>,
     <trd>adequado</trd>,
-    <trd>apropriado</trd>    
+    <trd>apropriado</trd>
   </trdgrp>
     <trd lng="ru">&c_k;&c_o;&c_n;&c_f;&c_o;&c_r;&c_m;&c_n;&c_o;&c_je;<klr tip="amb"> (&c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;)</klr></trd>
   </snc>
@@ -211,14 +211,18 @@
     <trd>shodn&yacute;</trd>,
     <trd>vhodn&yacute;</trd>
   </trdgrp>
-  
+
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x81F4;&#12375;&#x305F;  [<ind>&#12356;&#12387;&#12385;&#12375;&#x305F;</ind>]</trd>,
+    <trd>&#36969;&#21512;&#12375;&#x305F;  [<ind>&#12390;&#x304D;&#12372;&#12358;&#12375;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>konforemny</trd>,
     <trd>nale&zdot;yty</trd>,
     <trd>odpowiedni</trd>,
     <trd>stosowny</trd>,
     <trd>zgodny</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>adecvat</trd>,
     <trd>conform</trd>,
@@ -240,14 +244,15 @@
       Esti <tld/>a:
       <ekz>
         plej ofte <em>la&ubreve;</em> montras ion, al kio io <tld/>as
-        <fnt><vrk><url ref="http://purl.oclc.org/net/pmego?d=pmeg/pmeg10/rv_lau.htm">PMEG</url></vrk></fnt>;
+        <fnt><vrk><url
+        ref="http://purl.oclc.org/net/pmego?d=pmeg/pmeg10/rv_lau.htm">PMEG</url></vrk></fnt>;
       </ekz>
       <ekz>
         la agoj de la tiea registaro ne <tld/>as al la originalaj ideoj
         <fnt>
           <bib>Monato</bib>
           <aut>W. H. Simcock</aut>
-          <vrk><url ref="https://www.monato.be/2003/008033.html">Esti homa kaj literaturema</url></vrk>
+          <vrk><url ref="&Monato;/2003/008033.html">Esti homa kaj literaturema</url></vrk>
           <lok>2003</lok>
         </fnt>;
       </ekz>
@@ -265,7 +270,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.be/2007/009081.php">Klasika versa romano</url></vrk>
+          <vrk><url ref="&Monato;/2007/009081.php">Klasika versa romano</url></vrk>
           <lok>2007</lok>
         </fnt>.
       </ekz>
@@ -310,6 +315,10 @@
     <trd>megfelel <klr>vminek</klr></trd>,
     <trd>megegyezik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#36969;&#21512;&#12375;&#12390;&#12356;&#x308B;  [<ind>&#12390;&#x304D;&#12372;&#12358;&#12375;&#12390;&#12356;&#x308B;</ind>]</trd>,
+    <trd>&#x4E00;&#x81F4;&#12375;&#12390;&#12356;&#x308B;  [<ind>&#12356;&#12387;&#12385;&#12375;&#12390;&#12356;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">pasowa&cacute;</trd>
   <trdgrp lng="ro">
     <trd>duce</trd>,
@@ -352,7 +361,8 @@
         <tld/>e al la &gcirc;isnuna moro
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -390,10 +400,15 @@
     <trd>vminek <ind>megfelel&odblac;en</ind></trd>,
     <trd>vmivel <ind>&ouml;sszhangban</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#x306B;&#x5FDC;&#12376;&#12390;  [&#xFF5E;<ind>&#x306B;&#x304A;&#12358;&#12376;&#12390;</ind>]</trd>,
+    <trd>&#xFF5E;&#x306B;&#x5F93;&#12387;&#12390;  [&#xFF5E;<ind>&#x306B;&#12375;&#x305F;&#x304C;&#12387;&#12390;</ind>]</trd>,
+    <trd>&#xFF5E;&#x306B;&#x6E96;&#x62E0;&#12375;&#12390;  [&#xFF5E;<ind>&#x306B;&#12376;&#12421;&#12435;&#x304D;&#12423;&#12375;&#12390;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>pod&lstroke;ug</trd>,
     <trd>zgodnie z</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>conform</trd>,
     <trd>&icirc;n conformitate cu</trd>
@@ -419,7 +434,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mihail Korotkov </aut>
-          <vrk><url ref="https://www.monato.be/2012/010634.php">La turka havas familion</url></vrk>
+          <vrk><url ref="&Monato;/2012/010634.php">La turka havas familion</url></vrk>
           <lok>2012</lok>
         </fnt>.
       </ekz>
@@ -446,6 +461,11 @@
     <trd>accord<klr tip="ind"> (ad&eacute;quation)</klr></trd>,
     <trd>ad&eacute;quation</trd>,
     <trd>concordance</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x81F4;  [<ind>&#12356;&#12387;&#12385;</ind>]</trd>,
+    <trd>&#21512;&#x81F4;  [<ind>&#x304C;&#12387;&#12385;</ind>]</trd>,
+    <trd>&#36969;&#21512;  [<ind>&#12390;&#x304D;&#12372;&#12358;</ind>]</trd>
   </trdgrp>
   <trd lng="pl">zgodno&sacute;&cacute;</trd>
   <trdgrp lng="ro">
@@ -513,6 +533,12 @@
     <trd>hozz&aacute;alak&iacute;t</trd>,
     <trd>&ouml;sszhangba hoz</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#21512;&#x81F4;&#12373;&#x305B;&#x308B;  [<ind>&#x304C;&#12387;&#12385;&#12373;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#36969;&#21512;&#12373;&#x305B;&#x308B;  [<ind>&#12390;&#x304D;&#12372;&#12358;&#12373;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x5F93;&#x308F;&#x305B;&#x308B; 
+    [<ind>&#12375;&#x305F;&#x304C;&#x308F;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">in <ind>overeenstemming</ind> brengen</trd>
   <trdgrp lng="pl">
     <trd>akomodowa&cacute;</trd>,
@@ -521,7 +547,7 @@
     <trd>przerabia&cacute; co&sacute; dla czego&sacute;</trd>,
     <trd>przystosowywa&cacute; co&sacute; do czego&sacute;</trd>,
     <trd>uzgadnia&cacute;</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>g&abreve;zdui</trd>,
     <trd>reglare fin&abreve;</trd>,
@@ -545,17 +571,20 @@
         la kalifornia urbo <nom>Berkeley</nom> restas fama pro siaj toleremo kaj
         ne-<tld/>ismo
         <fnt>
-          <aut>I. Onet</aut>
-          <vrk><url ref="http://www.eventoj.hu/arkivo/eve-098.htm">Rajton je nuda brusto!</url></vrk>,
+          <aut>I. One&#x21B;</aut>
+          <vrk><url ref="http://www.eventoj.hu/arkivo/eve-098.htm">Rajton je nuda
+          brusto!</url></vrk>,
           <lok>Eventoj, 1996-03, numero 98a</lok>
         </fnt>;
       </ekz>
       <ekz>
         ne<tld/>ismaj programoj estas barataj
         <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2000/006909.php">Novjara kla&ccirc;o super konjako</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006909.html">Japanio: Takasugi Sinsaku: Novjara kla&ccirc;o super konjako</url></vrk>
-        </fnt>;
+          <lok>2000/06, p. 25</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <tld/>ismo estus la&ubreve; mi fermi la okulojn pri iuj problemoj, ofte pro
@@ -563,7 +592,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Aimo Rantanen</aut>
-          <vrk><url ref="https://www.monato.be/2004/008379.html">Senkura&gcirc;o malbonas kiel konsilanto</url></vrk>
+          <vrk><url ref="&Monato;/2004/008379.html">Senkura&gcirc;o malbonas kiel konsilanto</url></vrk>
           <lok>2004</lok>
         </fnt>.
       </ekz>
@@ -578,6 +607,10 @@
   </snc>
   <trd lng="cs">konformizmus</trd>
   <trd lng="fr">conformisme</trd>
+  <trdgrp lng="ja">
+    <trd>&#38918;&#x5FDC;&#x4E3B;&#x7FA9;  [<ind>&#12376;&#12421;&#12435;&#x306E;&#12358;&#12375;&#12421;&#x304E;</ind>]</trd>,
+    <trd>&#x56FD;&#25945;&#x4FE1;&#22857;  [<ind>&#12371;&#12387;&#x304D;&#12423;&#12358;&#12375;&#12435;&#x307D;&#12358;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">konformizm</trd>
   <trdgrp lng="ro">
     <trd>conformism</trd>,
@@ -625,7 +658,7 @@
     <trd>se <ind>soumettre</ind><klr tip="ind"> (se
     conformer)</klr></trd>
   </trdgrp>
-  <trd lng="pl">przystosowywa&cacute; si&eogonek;</trd>     
+  <trd lng="pl">przystosowywa&cacute; si&eogonek;</trd>
   <trd lng="ro">adapta</trd>
 </drv>
 
@@ -651,7 +684,8 @@
         <tld/>i&gcirc;i <klr>[&#8230;]</klr> al la opinioj kaj deziroj de la plimulto
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -688,10 +722,14 @@
     <trd>illeszkedik</trd>,
     <trd>&ouml;sszhangba ker&uuml;l</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x81F4;&#12377;&#x308B;  [<ind>&#12356;&#12387;&#12385;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#38918;&#x5FDC;&#12377;&#x308B;  [<ind>&#12376;&#12421;&#12435;&#x306E;&#12358;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>adaptowa&cacute;</trd>,
     <trd>przystosowywa&cacute;</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="ro">adapta</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr tip="amb"> (&c_s; &c_ch;&c_je;&c_m;-&c_l;.)</klr></trd>,
@@ -717,7 +755,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="https://www.monato.be/2012/010782.php">Realaj arkitektoj</url></vrk>
+          <vrk><url ref="&Monato;/2012/010782.php">Realaj arkitektoj</url></vrk>
           <lok>2012</lok>
         </fnt>;
       </ekz>
@@ -726,7 +764,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mihail Korotkov</aut>
-          <vrk><url ref="https://www.monato.be/2011/010218.php">La origino de la homaj lingvoj</url></vrk>
+          <vrk><url ref="&Monato;/2011/010218.php">La origino de la homaj lingvoj</url></vrk>
           <lok>2011</lok>
         </fnt>.
       </ekz>
@@ -754,13 +792,16 @@
     <trd>opportun<klr tip="ind"> (appropri&eacute;)</klr></trd>
   </trdgrp>
   <trd lng="hu">c&eacute;lszer&udblac;</trd>
+  <trd lng="ja">&#x76EE;&#30340;&#x306B;&#21512;&#x81F4;&#12375;&#x305F; 
+  [<ind>&#12418;&#x304F;&#12390;&#x304D;&#x306B;&#x304C;&#12387;&#12385;&#12375;&#x305F;</ind>]</trd>
   <trd lng="pl">celowy</trd>
   <trdgrp lng="ro">
-    <trd>inten&#539;ionat</trd>,
-    <trd>inten&#539;ional</trd>
+    <trd>inten&#x21B;ionat</trd>,
+    <trd>inten&#x21B;ional</trd>
   </trdgrp>
   <trd lng="ru">&c_c;&c_je;&c_l;&c_je;&c_s;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">&uacute;&ccaron;eln&yacute;</trd>
+  <trd lng="uk">&c_d;&#x43E;&c_c;&c_ib;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="konfor.inter0igi">
@@ -823,6 +864,15 @@
 </art>
 <!--
 $Log$
+versio 1.40 2023/09/05 06:31:13
+Wolfram Diestel: kor. ja ind.
+
+versio 1.38 2023/04/17 06:32:38
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.37 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.34  2019/11/26 07:10:14  revo
 Wolfram Diestel: *~ig/igxi: ekz-oj
 
@@ -836,11 +886,5 @@ Revision 1.31  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.30  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.29  2014/10/07 10:10:34  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.28  2012/01/04 10:10:09  revo
 -->
 </vortaro>

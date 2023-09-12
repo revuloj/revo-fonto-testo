@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: atenc.xml,v 1.12 2009/06/24 16:31:03 revo Exp $">
+<art mrk="$Id: atenc.xml,v 1.27 2023/08/30 18:23:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>atenc</rad>/i
@@ -60,7 +59,12 @@
     <trd>outrager</trd>,
     <trd>attenter (&agrave;)</trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5EA;&#x5E0;&#x5E7;&#x5E9;</trd>
   <trd lng="it">attentare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5371;&#x5BB3;&#x3092;&#x52A0;&#x3048;&#x308B;  [<ind>&#x304D;&#x304C;&#x3044;&#x3092;&#x304F;&#x308F;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x4FB5;&#x5BB3;&#x3059;&#x308B;  [<ind>&#x3057;&#x3093;&#x304C;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">atentar</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_k;&c_u;&c_sh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
@@ -69,7 +73,14 @@
     <trd>&c_p;&c_o;&c_s;&c_ja;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">ohrozova&tcaron; <klr>(niekoho)</klr></trd>
-  <trd lng="tp">utala</trd>
+  <trd lng="tok">utala</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_ch;&c_i;&#x43D;&#x44F;&c_t;&c_i; &c_z;&c_a;&#x43C;&c_a;&c_h;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_j;&c_s;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i; &c_z;&c_a;&#x43C;&c_a;&c_h;</trd>,
+    <trd>&#x43F;&#x43E;&c_s;&#x44F;&c_g;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&#x43C;&c_ib;&c_r;&#x44F;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_z;&c_a;&c_z;&c_ib;&c_h;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atenc.0o">
@@ -82,8 +93,9 @@
         de NATO
         <fnt>
           <aut>Evgeni Georgiev</aut>,
-          <vrk><url ref="http://www.esperanto.be/fel/mon/">Artikoloj el
-          Monato - Jugoslavio</url></vrk>
+          <vrk>Atenco ne
+preteratentita</vrk><bib>Monato</bib>
+          <lok>2000/06, p. 6</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -96,8 +108,23 @@
     <trd>atent&aacute;t</trd>,
     <trd>&uacute;klad</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Anschlag</trd>,
+    <trd>Attentat</trd>
+  </trdgrp>
   <trd lng="fr">attentat</trd>
+  <trd lng="he">&#x5D4;&#x5EA;&#x5E0;&#x5E7;&#x5E9;&#x5D5;&#x5EA;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5371;&#x5BB3;  [<ind>&#x304D;&#x304C;&#x3044;</ind>]</trd>,
+    <trd>&#x4FB5;&#x5BB3;  [<ind>&#x3057;&#x3093;&#x304C;&#x3044;</ind>]</trd>,
+    <trd>&#x66B4;&#x884C;  [<ind>&#x307C;&#x3046;&#x3053;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">atent&aacute;t</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43C;&c_a;&c_h;</trd>,
+    <trd>&c_a;&c_t;&c_je;&#x43D;&c_t;&c_a;&c_t;</trd>,
+    <trd>&#x43F;&#x43E;&c_s;&#x44F;&c_g;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atenc.seks0i">
@@ -108,8 +135,8 @@
       koncernato:
       <ekz>
         nokte fiuloj kaptis tie virinojn, kaj seks<tld/>is ilin
-        <fnt><aut>J. S&aacute;rk&ouml;zi</aut>, <vrk><url 
-        ref="http://mek.niif.hu/04100/04194/04194.htm"></url>Filmo por 
+        <fnt><aut>J. S&aacute;rk&ouml;zi</aut>, <vrk><url ref="http://mek.niif.hu/04100/04194/04194.htm"/>Filmo
+        por 
         pli ol 16 jaruloj kaj aliaj noveloj</vrk>, 
         <lok>1995</lok></fnt>. 
       </ekz>
@@ -119,6 +146,10 @@
   <trd lng="bg">&c_i;&c_z;&c_n;&c_a;&c_s;&c_i;&c_l;&c_v;&c_a;&c_m;</trd>
   <trd lng="fr">agresser sexuellement</trd>
   <trd lng="it">violentare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F37;&#x59E6;&#x3059;&#x308B;  [<ind>&#x3054;&#x3046;&#x304B;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x30EC;&#x30A4;&#x30D7;&#x3059;&#x308B;  [<ind>&#x308C;&#x3044;&#x3077;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="atenc.seks0o">
@@ -133,8 +164,7 @@
         patrolo arestis lin pro seks<tld/>o en apuda parko
         <fnt>
           <aut>Louis Beaucaire</aut>,
-          <vrk><url
-          ref="http://www.esperanto.mv.ru/Kruko/kruko4.html">Kruko kaj
+          <vrk><url ref="http://www.esperanto.mv.ru/Kruko/kruko4.html">Kruko kaj
           Baniko el Bervalo</url></vrk>,
           <lok>1970</lok>
         </fnt>.
@@ -144,11 +174,25 @@
   <trd lng="bg">&c_i;&c_z;&c_n;&c_a;&c_s;&c_i;&c_l;&c_v;&c_a;&c_n;&c_je;</trd>
   <trd lng="cs">pohlavn&iacute; zn&aacute;siln&ecaron;n&iacute;</trd>
   <trd lng="fr">attentat &agrave; la pudeur</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F37;&#x59E6;  [<ind>&#x3054;&#x3046;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x6027;&#x7684;&#x66B4;&#x884C;  [<ind>&#x305B;&#x3044;&#x3066;&#x304D;&#x307C;&#x3046;&#x3053;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">pohlavn&eacute; zn&aacute;silnenie</trd>
+  <trd lng="uk">&c_s;&#x43F;&c_r;&#x43E;&c_b;&c_a; &c_z;&c_gu;&c_v;&c_a;&#x43B;&c_t;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2023/03/29 12:51:57
+Paul Peeraerts: &Monato;
+
+versio 1.25 2022/05/10 21:29:19
+Ulrich Fellmann: atenco: + 2 DE trdj
+
+versio 1.24 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.19  2017/03/29 14:10:15  revo
 Lyubomir Vasilev: +trd bg
 
@@ -162,11 +206,5 @@ Revision 1.16  2015/06/28 12:03:36  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.15  2015/02/06 19:10:14  revo
-Alain Gerard: + ~o + seks~o
-
-Revision 1.14  2012/03/11 20:10:15  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.13  2012/01/29 20:10:08  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sinago.xml,v 1.26 2023/09/03 18:39:30 revo Exp $">
   <kap>
     <ofc>2</ofc>
     <rad>sinagog</rad>/o
@@ -15,7 +14,8 @@
     <dif>
       Juda pre&gcirc;ejo:
       <ekz>
-        Jesuo trairis tra la tuta Galileo, instruante en iliaj <tld/>oj, kaj predikante la evangelion
+        Jesuo trairis tra la tuta Galileo, instruante en iliaj <tld/>oj, kaj predikante la
+        evangelion
         <fnt>
           <bib>NT</bib>
           <lok>Mateo 4:23</lok>
@@ -40,9 +40,10 @@
         la plej frua registro pri <tld/>o en Irlando dati&gcirc;as de 1660, kiam 
         estis establita pre&gcirc;eja &ccirc;ambro en vojeto <nac>Crane</nac> kontra&ubreve; la dublina kastelo
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/008105.html">Renkonti&gcirc;o kun &scirc;rumpanta komunumo</url></vrk>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2003/008105.html">Renkonti&gcirc;o kun &scirc;rumpanta komunumo</url></vrk>
+          <lok>2003/11, p. 12</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -52,7 +53,7 @@
     <trd lng="en">synagogue</trd>
     <trd lng="es">sinagoga</trd>
     <trd lng="fr">synagogue</trd>
-    <trd lng="he">&#64305;&yod;&tav; &#64315;&nun;&samekh;&tav;</trd>
+    <trd lng="he">&#xFB31;&yod;&tav; &#xFB3B;&nun;&samekh;&tav;</trd>
     <trdgrp lng="hu">
       <trd>zsid&oacute; <ind>templom</ind></trd>,
       <trd>zsinag&oacute;ga</trd>
@@ -81,14 +82,26 @@
     <trd>synagoga</trd>,
     <trd>&zcaron;idovsk&aacute; modlitebna</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B7;&#x30CA;&#x30B4;&#x30FC;&#x30B0;</trd>,
+    <trd>&#x30E6;&#x30C0;&#x30E4;&#x6559;&#x4F1A;&#x5802;  [<ind>&#x30E6;&#x30C0;&#x30E4;&#x304D;&#x3087;&#x3046;&#x304B;&#x3044;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x30E6;&#x30C0;&#x30E4;&#x4F1A;&#x8846;  [<ind>&#x3086;&#x3060;&#x3084;&#x304B;&#x3044;&#x3057;&#x3085;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>synag&oacute;ga</trd>,
     <trd>&zcaron;idovsk&aacute; modliteb&ncaron;a</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&c_i;&#x43D;&c_a;&c_g;&#x43E;&c_g;&c_a;</trd>
 </drv>
 </art>
   <!--
   $Log$
+versio 1.25 2023/05/06 20:24:34
+Paul Peeraerts: + lok
+
+versio 1.24 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
   Revision 1.21  2018/09/02 12:10:18  revo
   Wolfram Diestel: +ekz-oj
 
@@ -105,41 +118,5 @@
   aldono de trd sk per skripto de M. von Laer
 
   Revision 1.16  2013/08/06 01:10:12  revo
-  Carlos Garcia: +trd es -o
-
-  Revision 1.15  2009/10/12 16:30:54  revo
-  Antonio Codazzi: +trd it
-
-  Revision 1.14  2008/05/19 16:30:44  revo
-  Sebastian Cyprych: +trd pl
-
-  Revision 1.13  2004/10/12 16:31:56  revo
-  Jozefo Horvath: kor. trd hu
-
-  Revision 1.12  2003/12/02 17:30:26  revo
-  Sergio Pokrovskij: snc-mrk, rim, uzo-fak
-
-  Revision 1.11  2003/01/10 17:33:22  revo
-  Zmicier Lapcionak: + trd be
-
-  Revision 1.10  2002/08/02 10:13:48  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.9  2002/02/12 17:32:50  revo
-  Yury Finkel: +trd ru
-
-  Revision 1.8 2001/09/17 18:13:43 revo
-  Dennis Wibrow: +trd angl kaj frc
-
-  Revision 1.7 2001/07/27 19:32:42 revo
-  Paul Peeraerts: ald trd nl
-
-  Revision 1.6 2001/02/17 20:33:08 revo
-  oficialeco per programo de JM Lugrin
-
-  Revision 1.5 2001/02/06 18:51:56 revo
-  Ulrich Fellmann: aldono de fakindiko REL
-
-  Revision 1.4 2001/02/05 17:12:28 revo
-  -->
+-->
 </vortaro>

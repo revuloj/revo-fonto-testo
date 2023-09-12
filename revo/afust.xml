@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: afust.xml,v 1.16 2010/06/10 16:30:49 revo Exp $">
+<art mrk="$Id: afust.xml,v 1.22 2023/08/30 18:23:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>afust</rad>/o
@@ -18,8 +17,7 @@
         ses generaloj metis la &ccirc;erkon sur <tld/>on de ha&ubreve;bizo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=4256"
-              >Tom&aacute;&scaron; Garrigue Masaryk</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4256">Tom&aacute;&scaron; Garrigue Masaryk</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -32,12 +30,20 @@
   </trdgrp>
   <trd lng="en">gun carriage</trd>
   <trd lng="fr">aff&ucirc;t<klr tip="amb"> (de canon)</klr></trd>
+  <trdgrp lng="he">
+    <trd>&#x5DB;&#x5DF;</trd>,
+    <trd>&#x5D7;&#x5E6;&#x5D5;&#x5D1;&#x5D4;</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>&aacute;gy&uacute;talp</trd>,
     <trd>l&ouml;vegtalp</trd>,
     <trd>lafetta</trd>
   </trdgrp>
   <trd lng="it">affusto</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7832;&#x67B6;  [<ind>&#x307B;&#x3046;&#x304B;</ind>]</trd>,
+    <trd>&#x9283;&#x67B6;  [<ind>&#x3058;&#x3085;&#x3046;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">affuit</trd>
   <trd lng="pt">carreta<klr tip="amb"> (de canh&atilde;o ou
   metralhadora)</klr></trd>
@@ -46,6 +52,7 @@
     <trd>lafeta</trd>,
     <trd>lafeta <klr>(voj.)</klr></trd>
   </trdgrp>
+  <trd lng="uk">&#x432;&#x456;&#x439;&#x441;&#x44C;&#x43A;. &#x43B;&#x430;&#x444;&#x435;&#x442;</trd>
 </drv>
 </art>
 <!--

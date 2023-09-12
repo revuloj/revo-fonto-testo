@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: konjug1.xml,v 1.14 2006/12/10 17:30:17 revo Exp $">
+<art mrk="$Id: konjug1.xml,v 1.25 2023/09/01 15:46:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konjugaci</rad>/o
@@ -11,25 +10,44 @@
   <kap>
     <ofc>*</ofc><tld/>o
   </kap>
+  <snc mrk="konjug1.0o.sistemo">
   <uzo tip="fak">LIN</uzo>
   <uzo tip="fak">GRA</uzo>
-  <snc>
     <dif>
       Sistemo de la diversaj verbaj formoj, per kiu lingvo esprimas la
       cirkonstancojn de ago:
       <ekz>
-        la malregula <tld/>o en &ccirc;iuj lingvoj ne devigas nin
-        enkonduki
-        malregulan <tld/>on en nia lingvo<fnt>Z</fnt>;
+        tiuj enuigaj deklinacioj kaj <tld/>oj, super kiuj sur la tera
+        globo &ccirc;iutage
+        oscedas miloj da infanoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>      
+      <ekz>
+        en la lingvoj naturaj ekzistas <klr>[&#x2026;]</klr> <tld/>oj kun
+        <klr>[&#x2026;]</klr>
+        tuta serio da formoj <klr>[&#x2026;]</klr> ne sole por &ccirc;iu tempo kaj
+        modo <klr>[&#x2026;]</klr>, 
+        sed en &ccirc;iu el tiuj &ccirc;i tempoj kaj modoj ankora&ubreve; apartajn
+        formojn por &ccirc;iu persono kaj nombro
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        en la naturaj <tld/>oj vi havas por &ccirc;iu tempo kaj modo
-        tutajn
-        seriojn
-        da formoj, kaj apartajn formojn por &ccirc;iu persono kaj
-        nombro<fnt>Z</fnt>.
+        multaj el la hinde&ubreve;ropaj lingvoj malhavas specialan <tld/>an
+        formon por esprimi
+        faktitivon
+        <fnt>
+	<aut>Andr&eacute; Cherpillod</aut>
+	<vrk><url ref="&Monato;/2000/007059.php">La influo de la hebrea lingvo sur Esperanto</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/12, p. 18-19</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="konjug.0o.konjugacio">konjugo</ref>
     <trd lng="en">conjugation</trd>
     <trdgrp lng="de">
       <trd>Konjugation</trd>,
@@ -41,69 +59,89 @@
       <trd>konjug&aacute;ci&oacute;</trd>
     </trdgrp>
   </snc>
-  <snc>
-    <dif>
-      Ago <tld/>i verbon.
-    </dif>
-    <trd lng="en">conjugation</trd>
-  </snc>
-  <trd
-  lng="be">&c_s;&c_p;&c_r;&c_a;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="be">&c_s;&c_p;&c_r;&c_a;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="ca">conjugaci&oacute;</trd>
   <trd lng="fr">conjugaison</trd>
+  <trdgrp lng="ja">
+    <trd>&#x52D5;&#x8A5E;&#x6D3B;&#x7528;  [<ind>&#x3069;&#x3046;&#x3057;&#x304B;&#x3064;&#x3088;&#x3046;</ind>]</trd>,
+    <trd>&#x52D5;&#x8A5E;&#x5909;&#x5316;  [<ind>&#x3069;&#x3046;&#x3057;&#x3078;&#x3093;&#x304B;</ind>]</trd>,
+    <trd>&#x6D3B;&#x7528;&#x5F62;  [<ind>&#x304B;&#x3064;&#x3088;&#x3046;&#x3051;&#x3044;</ind>]</trd>,
+    <trd>&#x5909;&#x5316;&#x5F62;  [<ind>&#x3078;&#x3093;&#x304B;&#x3051;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vervoeging</trd>
   <trd lng="pl">koniugacja</trd>
   <trd lng="pt">conjuga&ccedil;&atilde;o</trd>
   <trd lng="ro">conjugare</trd>
   <trd lng="ru">&c_s;&c_p;&c_r;&c_ja;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
-  <trd lng="th">&#3585;&#3634;&#3619;&#3612;&#3633;&#3609;&#3585;&#3619;&#3636;&#3618;&#3634;</trd>
+  <trd lng="th">&#xE01;&#xE32;&#xE23;&#xE1C;&#xE31;&#xE19;&#xE01;&#xE23;&#xE34;&#xE22;&#xE32;</trd>
 </drv>
 <drv mrk="konjug1.0i">
   <kap>
     <tld/>i
   </kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="konjug1.0i.GRA">
+  <uzo tip="fak">GRA</uzo>
     <dif>
       La&ubreve;vice almeti al verba radiko la diversajn afiksojn, kiuj
-      servas
-      por
-      esprimi la &scirc;an&gcirc;ojn de persono, nombro, tempo, modo kaj
-      vo&ccirc;o.
+      servas por esprimi la &scirc;an&gcirc;ojn de persono, nombro, tempo, modo kaj
+      vo&ccirc;o:
+      <ekz>
+        ne &ccirc;iuj gejunuloj primajstris la francan lingvon: kelkaj grave
+        mis<tld/>is
+        francajn verbojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Pierre Grollemund</aut>
+          <vrk><url ref="&Monato;/2012/010804.php">Ekzameno ekzamenata</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="sin" cel="konjug.0i.GRA">konjugi</ref>
     <trd lng="en">conjugate</trd>
   </snc>
   <trd lng="be">&c_s;&c_p;&c_r;&c_a;&c_g;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">conjugar</trd>
-  <trd lng="de">konjugieren</trd>
+  <trdgrp lng="de">
+      <trd>beugen</trd>,
+      <trd>konjugieren</trd>
+  </trdgrp>
   <trd lng="fr">conjuguer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D3B;&#x7528;&#x3055;&#x305B;&#x308B;  [<ind>&#x304B;&#x3064;&#x3088;&#x3046;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x5909;&#x5316;&#x3055;&#x305B;&#x308B;  [<ind>&#x3078;&#x3093;&#x304B;&#x3055;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vervoegen</trd>
   <trd lng="pl">koniugowa&cacute;</trd>     
   <trd lng="ro">conjuga</trd>
   <trd lng="ru">&c_s;&c_p;&c_r;&c_ja;&c_g;&c_a;&c_t;&c_mol;</trd>
-  <trd lng="th">&#3612;&#3633;&#3609; (&#3585;&#3619;&#3636;&#3618;&#3634;)</trd>
+  <trd lng="th">&#xE1C;&#xE31;&#xE19; (&#xE01;&#xE23;&#xE34;&#xE22;&#xE32;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/04/23 08:29:35
+Paul Peeraerts: &Steloj -> monato.be
+
+versio 1.23 2022/06/07 21:28:17
+Ulrich Fellmann: konjugacii: +1 plia DE trd
+
+versio 1.22 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2020/04/17 08:10:19
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.20 2020/04/14 20:10:49
+Wolfram Diestel: ekz-oj, sinonimoj
+
+Revision 1.19  2018/12/15 23:10:16  revo
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.18  2017/07/14 13:10:14  revo
 Warut Bunprasert: +trd th
 
 Revision 1.17  2016/11/30 16:10:18  revo
-Warut Bunprasert: +trd th
-
-Revision 1.16  2013/12/17 16:10:10  revo
-Damien Brucker: +trd fr
-
-Revision 1.15  2012/07/20 08:10:17  revo
-Marc Rausell: + trd ca
-
-Revision 1.14  2006/12/10 17:30:17  revo
-Tulio Flores: +tr pt
-
-Revision 1.13  2004/05/08 16:54:14  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2002/08/09 19:33:23  revo
 -->
 </vortaro>

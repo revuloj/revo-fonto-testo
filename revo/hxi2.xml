@@ -1,52 +1,68 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-   <art mrk="$Id: hxi2.xml,v 1.6 2009/03/12 17:32:24 revo Exp $">
+   <art mrk="$Id: hxi2.xml,v 1.14 2023/08/31 15:46:20 revo Exp $">
      <kap><rad>&Hcirc;i</rad>/o</kap>
 
-     <drv mrk="hxi2.Hx0o">
-       <kap><tld/>o</kap>
-       <snc>
-  <uzo tip="fak">GEOG</uzo>
-  <dif>
-    Grekaj <ref tip="lst" cel="insul.0o" lst="voko:insuloj">insulo</ref>
-    kaj <ref tip="lst" cel="urb.0o" lst="voko:urboj">urbo</ref>, 
-    apud <ref cel="anatoli.0o">Anatolio</ref>:
-	   <ekz>
-	     kaj de la Metileno &gcirc;is <tld/>o estas 100 verstoj;
-	     tie ku&scirc;as sankta martiro Izidoro; sur tiu insulo 
-             naski&gcirc;as mastiko kaj bona vino kaj diversaj fruktoj
-	     <fnt>
-	       <aut>S. Pokrovskij</aut>:
-	       <vrk>Voja&gcirc;o en la Sanktan Landon</vrk>.
-	       <lok>LOdE, 1999, n-ro 61:11</lok>
-	     </fnt>.
-	   </ekz>
-  </dif>
-       </snc>
-       <trd lng="bg">&c_H;&c_i;&c_o;&c_s;</trd>
-       <trd lng="de">Chios</trd>
-       <trd lng="el">&Chi;&jota_ton;&omikron;&sigma_fina;</trd>
-       <trd lng="en">Chios</trd>
-       <trdgrp lng="fi">
+<drv mrk="hxi2.Hx0o">
+  <kap><tld/>o</kap>
+  <snc>
+     <uzo tip="fak">GEOG</uzo>
+     <dif>
+       Grekaj <ref tip="lst" cel="insul.0o" lst="voko:insuloj">insulo</ref>
+       kaj <ref tip="lst" cel="urb.0o" lst="voko:urboj">urbo</ref>, 
+       apud <ref cel="anatoli.0o">Anatolio</ref>:
+       <ekz>
+         kaj de la Metileno &gcirc;is <tld/>o estas 100 verstoj;
+         tie ku&scirc;as sankta martiro Izidoro; sur tiu insulo 
+         naski&gcirc;as mastiko kaj bona vino kaj diversaj fruktoj
+         <fnt>
+           <aut>S. Pokrovskij</aut>:
+           <vrk>Voja&gcirc;o en la Sanktan Landon</vrk>.
+           <lok>LOdE, 1999, n-ro 61:11</lok>
+         </fnt>.
+       </ekz>
+    </dif>
+  </snc>
+  <ref tip="hom" cel="hxio.0o">&hcirc;io (greka litero)</ref>  
+  <trd lng="be">&c_H;&c_ib;&c_ja;&c_s; <klr>(&c_v;&c_o;&c_s;&c_t;&c_r;&c_a;&c_w; &c_u; &c_E;&c_g;&c_je;&c_j;&c_s;&c_k;&c_ib;&c_m; &c_m;&c_o;&c_r;&c_y;)</klr></trd>
+   <trd lng="bg">&c_H;&c_i;&c_o;&c_s;</trd>
+   <trd lng="de">Chios</trd>
+   <trd lng="el">&Chi;&jota_ton;&omikron;&sigma_fina;</trd>
+   <trd lng="en">Chios</trd>
+   <trdgrp lng="es">
+	 <trd>Qu&iacute;os</trd>,
+	 <trd>Qu&iacute;o</trd>
+   </trdgrp>
+   <trdgrp lng="fi">
 	 <trd>Khios</trd>,
 	 <trd>Hios</trd>
-       </trdgrp>
-       <trd lng="fr">Chios</trd>
-       <trd lng="id">Khios</trd>
-       <trd lng="pt">Khios</trd>
-       <trd lng="ru">&c_H;&c_i;&c_o;&c_s;</trd>
-       <trdgrp lng="it">
+   </trdgrp>
+   <trd lng="fr">Chios</trd>
+   <trd lng="id">Khios</trd>
+   <trd lng="ja">&#x30AD;&#x30AA;&#x30B9;&#x5CF6;  [<ind>&#x30AD;&#x30AA;&#x30B9;&#x3057;&#x307E;</ind>]</trd>
+  <trd lng="pt">Khios</trd>
+   <trd lng="ru">&c_H;&c_i;&c_o;&c_s;</trd>
+   <trdgrp lng="it">
 	 <trd>Chios</trd>, 
 	 <trd>Chio</trd>
-       </trdgrp>
-     </drv>
+   </trdgrp>
+  <trd lng="uk">&c_K;&c_je;&c_ja;</trd>
+</drv>
 
-   </art>
+</art>
 
 <!--
 $Log$
+versio 1.13 2023/07/17 08:10:41
+Guillermo Molleda Jimena: trd es
+
+versio 1.12 2023/04/29 10:28:38
+Dmitri Gabinski: + trd be
+
+versio 1.10 2021/05/23 16:02:43
+Wolfram Diestel: ref-hom
+
 Revision 1.8  2014/04/10 16:10:50  revo
 Damien Brucker: +trd fr
 
@@ -60,11 +76,5 @@ Revision 1.5  2008/11/09 17:30:33  revo
 Wieland Pusch: +trd bg
 
 Revision 1.4  2008/11/07 17:30:27  revo
-Wieland Pusch: +trd de
-
-Revision 1.3  2007/06/16 16:30:38  revo
-Harri Laine: +trd fi
-
-Revision 1.2  2005/10/22 17:23:08  revo
 -->
 </vortaro>

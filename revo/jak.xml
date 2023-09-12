@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: jak.xml,v 1.23 2010/04/12 16:30:25 revo Exp $">
+<art mrk="$Id: jak.xml,v 1.33 2023/08/31 18:25:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>jak</rad>/o
@@ -12,25 +11,69 @@
   <snc mrk="jak.0o.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
-      Ekstera vira <ref tip="super" cel="vest.0o">vesto</ref>,
-      malfermi&gcirc;anta &ccirc;e ia anta&ubreve;a parto, 
-      manikhava, kovranta la korpon ekde la &scirc;ultroj &gcirc;is 
-      proksimume la koksoj: 
+      Ekstera <ref tip="lst" lst="voko:vesta&jcirc;oj" cel="vest.0o">vesto</ref>,
+      malfermi&gcirc;anta &ccirc;e ia anta&ubreve;a parto,
+      manikhava, kovranta la korpon ekde la &scirc;ultroj &gcirc;is
+      proksimume la koksoj:
       <ekz>
-	la <tld/>o estas la ordinara senceremonia vesto de la 
-	okcidentaj e&ubreve;ropanoj.
+	la <tld/>o estas la ordinara senceremonia vesto de la
+	okcidentaj e&ubreve;ropanoj;
+      </ekz>
+      <ekz>
+        el la felo faru <tld/>on
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ha&ccirc;jo kaj Grenjo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        indi&gcirc;enoj <klr>[&#x2026;]</klr> en siaj vilaj peltaj <tld/>oj prezentis strangan vida&jcirc;on
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Ccirc;e la plej ekstrema maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun ni povas havi &scirc;afan lakton, &scirc;afan froma&gcirc;on kaj lanajn &scirc;trumpojn, e&ccirc; lanajn
+        noktajn <tld/>ojn
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Kion la patro faras, estas &ccirc;iam &gcirc;usta</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la trumpetistoj rajdis dekkelko da asiriaj kavaliroj, en pintaj &ccirc;apoj,
+        <tld/>oj kaj malvastaj pantalonoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld lit="J"/>o, ve&scirc;to, e&ccirc; kalsono // &Gcirc;enus viajn movojn, dum &dash; // Sendepende de l' sezono
+        &dash; // Ta&ubreve;gas nur l' Adam-kostum'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>&Ccirc;astemulino</lok>
+        </fnt>!
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="kamizo.0o">kamizolo</ref>,
+      <ref cel="vesxt.0o">ve&scirc;to</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_ib;&c_n;&c_zh;&c_a;&c_k;</trd>,
     <trd>&c_k;&c_u;&c_r;&c_t;&c_k;&c_a;</trd>,
     <trd>&c_t;&c_u;&c_zh;&c_u;&c_r;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="bo">&t_sa;&t_tata;&t_naro;&t_da;&t_tsheg;&t_tha;&t_shabchu;&t_nga;&t_tsheg;</trd>
   <trd lng="ca">jaqu&eacute;</trd>
   <trdgrp lng="cs">
     <trd>kab&aacute;t</trd>,
-    <trd>krátký kabát</trd>,
+    <trd>kr&aacute;tk&yacute; kab&aacute;t</trd>,
     <trd>sako</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -51,6 +94,11 @@
       <trd>giubba</trd>,
       <trd>giubbotto</trd>
     </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x80CC;&#x5E83;  [<ind>&#x305B;&#x3073;&#x308D;</ind>]</trd>,
+    <trd>&#x30B8;&#x30E3;&#x30B1;&#x30C3;&#x30C8;  [<ind>&#x3058;&#x3083;&#x3051;&#x3063;&#x3068;</ind>]</trd>,
+    <trd>&#x4E0A;&#x7740;  [<ind>&#x3046;&#x308F;&#x304E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">jas</trd>
   <trdgrp lng="pt">
     <trd>palet&oacute;<klr tip="amb"> (de homem)</klr></trd>,
@@ -65,10 +113,15 @@
     <trd>&c_t;&c_u;&c_zh;&c_u;&c_r;&c_k;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>kabát</trd>,
+    <trd>kab&aacute;t</trd>,
     <trd>sako</trd>
   </trdgrp>
   <trd lng="sv">jacka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_u;&c_r;&c_t;&#x43A;&c_a;</trd>,
+    <trd>&c_t;&c_u;&c_zh;&c_u;&c_r;&#x43A;&c_a;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_zh;&c_a;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="jak.0eto">
@@ -128,23 +181,77 @@
   </snc>
   <trd lng="ca">jaqueta</trd>
   <trdgrp lng="cs">
-    <trd>kabátek</trd>,
+    <trd>kab&aacute;tek</trd>,
     <trd>kazajka</trd>,
-    <trd>sáčko</trd>,
-    <trd>žaket</trd>
+    <trd>s&aacute;&ccaron;ko</trd>,
+    <trd>&zcaron;aket</trd>
   </trdgrp>
   <trd lng="en">jacket</trd>
   <trd lng="hu">k&ouml;nyvbor&iacute;t&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B8;&#x30E3;&#x30B1;&#x30C3;&#x30C8;  [<ind>&#x3058;&#x3083;&#x3051;&#x3063;&#x3068;</ind>]</trd>,
+    <trd>&#x30AB;&#x30D0;&#x30FC;  [<ind>&#x304B;&#x3070;&#x30FC;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">jasje</trd>
   <trd lng="pt">sobrecapa</trd>
   <trdgrp lng="sk">
-    <trd>kabátik</trd>,
-    <trd>žaket</trd>
+    <trd>kab&aacute;tik</trd>,
+    <trd>&zcaron;aket</trd>
   </trdgrp>
+  <trd lng="uk">&c_zh;&c_a;&#x43A;&c_je;&c_t;</trd>
 </drv>
+
+<drv mrk="jak.trikita_0o">
+  <kap>
+    trikita <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="J"/>o trikita el lano, kotono ks, portata super &ccirc;emizo a&ubreve; bluzo:
+      <ekz>
+        &scirc;i ofte estis &jcirc;etanta sur liajn &scirc;ultrojn sian lanugan kaptukon, a&ubreve; la malnovan
+        trikitan jakon
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i tute ne bezonis eliri tage tiel al la arbaro <klr>[&#x2026;]</klr> vestita en longa
+        trikita <tld/>eto kaj &scirc;alo kaj malnovaj, duon&ccirc;ifonaj ne&gcirc;&scirc;uoj
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="pulover.0o">pulovero</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_o;&c_f;&c_t;&c_a;</trd>,
+    <trd>&c_v;&c_ja;&c_z;&c_a;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">Strickjacke</trd>
+  <trd lng="en">cardigan</trd>
+  <trd lng="fr">cardigan</trd>
+  <trd lng="ru">&c_k;&c_o;&c_f;&c_t;&c_a;</trd>
+</drv>
+
 </art>
 <!--
 $Log$
+versio 1.32 2023/07/24 12:46:59
+Dmitri Gabinski: + trd be
+
+versio 1.31 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2021/10/26 06:34:18
+Wolfram Diestel: +ekz-oj; +trikita ~o
+
+versio 1.27 2020/07/19 11:10:37
+Wolfram Diestel: lst vestajxoj, -vira
+
 Revision 1.25  2015/06/29 16:33:16  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -155,20 +262,5 @@ Revision 1.23  2010/04/12 16:30:25  revo
 Alejandro Mejia Greene: ald his trd
 
 Revision 1.22  2009/03/03 17:30:51  revo
-Antonio Codazzi: +trd it
-
-Revision 1.21  2008/11/19 09:28:13  revo
-Russ Williams: redakto: +trd en
-
-Revision 1.20  2007/05/23 16:30:48  revo
-Tulio Flores: +tr pt
-
-Revision 1.19  2007/04/19 16:30:52  revo
-Tulio Flores: +tr pt
-
-Revision 1.18  2006/09/22 12:27:03  revo
-Jeromo Vasxe: + mrk
-
-Revision 1.17  2004/10/11 16:32:46  revo
 -->
 </vortaro>

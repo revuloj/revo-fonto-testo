@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sinoni.xml,v 1.21 2023/09/03 18:39:30 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>sinonim</rad>/o <fnt><bib>PV</bib></fnt>
@@ -46,10 +45,15 @@
     <trd>szinonima</trd>,
     <trd>rokon &eacute;rtelm&udblac; sz&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x540C;&#x7FA9;&#x8A9E;  [<ind>&#x3069;&#x3046;&#x304E;&#x3054;</ind>]</trd>,
+    <trd>&#x985E;&#x7FA9;&#x8A9E;  [<ind>&#x308B;&#x3044;&#x304E;&#x3054;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">synoniem</trd>
   <trd lng="no">synonym</trd>
   <trd lng="ru">&c_s;&c_i;&c_n;&c_o;&c_n;&c_i;&c_m;</trd>
   <trd lng="sk">synonymum</trd>
+  <trd lng="uk">&#x441;&#x438;&#x43D;&#x43E;&#x43D;&#x456;&#x43C;</trd>
 </drv>
 
 <drv mrk="sinoni.0eco">
@@ -66,13 +70,13 @@
         <fnt>
           <aut>[J. Werner]</aut>,
           <vrk>&Ccirc;u motivigi terminojn kaj fari ilin travideblaj?</vrk>,
-          <lok><url
-          ref="http://fabien.galerio.org/kofo/cirkuleroj/kofo30.pdf">
+          <lok><url ref="http://fabien.galerio.org/kofo/cirkuleroj/kofo30.pdf">
           Konstru-forumo, 2011-09 (30)</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_y;&c_n;&c_a;&c_n;&c_ib;&c_m;&c_ib;&c_ja;</trd>
   <trdgrp lng="cs">
     <trd>souzna&ccaron;nost</trd>,
     <trd>synonymi&ccaron;nost</trd>,
@@ -80,14 +84,22 @@
   </trdgrp>
   <trd lng="en">synonymy</trd>
   <trd lng="fr">synonymie</trd>
+  <trdgrp lng="ja">
+    <trd>&#x540C;&#x7FA9;&#x6027;  [<ind>&#x3069;&#x3046;&#x304E;&#x305B;&#x3044;</ind>]</trd>,
+    <trd>&#x985E;&#x7FA9;&#x6027;  [<ind>&#x308B;&#x3044;&#x304E;&#x305B;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>rovnozna&ccaron;nos&tcaron;</trd>,
     <trd>synonymickos&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&#x441;&#x438;&#x43D;&#x43E;&#x43D;&#x456;&#x43C;&#x456;&#x447;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2022/03/14 07:29:01
+Dmitri Gabinski: + trd be
+
 Revision 1.17  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kariol.xml,v 1.12 2008/05/12 17:55:31 revo Exp $">
+<art mrk="$Id: kariol.xml,v 1.19 2023/09/01 13:58:56 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>kariol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,8 +18,7 @@
         de la taga laboro
         <fnt>
           <aut>A. &Ccirc;e&hcirc;ov, trad. A. Kor&jcirc;enkov</aut>,
-          <vrk><url
-          ref="http://www.esperanto-ondo.ru/Libroj/V_bibl02.pdf">
+          <vrk><url ref="&LOdE;Libroj/V_bibl02.pdf">
           Sveda alumeto</url></vrk>,
           <lok>2004-2010</lok>
         </fnt>.
@@ -40,14 +38,22 @@
   </trdgrp>
   <trd lng="fr">carriole</trd>
   <trd lng="hu">kord&eacute;</trd>
+  <trd lng="ja">&#x4E8C;&#x8F2A;&#x99AC;&#x8ECA;  [<ind>&#x306B;&#x308A;&#x3093;&#x3070;&#x3057;&#x3083;</ind>]</trd>
   <trd lng="nl">sjees</trd>
   <trd lng="pl">kariolka</trd>
   <trd lng="ru">&c_d;&c_v;&c_u;&c_k;&c_o;&c_l;&c_k;&c_a;</trd>
-  <trd lng="sk">dvojkolesový ľahký voz</trd>
+  <trd lng="sk">dvojkolesov&#xFD; &#x13E;ahk&#xFD; voz</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x435;&#x433;&#x43A;&#x438;&#x439; &#x434;&#x432;&#x43E;&#x43A;&#x43E;&#x43B;&#x456;&#x441;&#x43D;&#x438;&#x439; &#x435;&#x43A;&#x456;&#x43F;&#x430;&#x436;</trd>,
+    <trd>&#x431;&#x440;&#x438;&#x447;&#x43A;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
 Revision 1.15  2015/06/29 16:33:17  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -67,11 +73,5 @@ Revision 1.10 2004/07/06 16:34:29 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9 2004/03/10 17:30:46 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8 2001/10/26 18:14:22 revo
-Yury Finkel: +trd ru
-
-Revision 1.7 2001/10/24 18:25:50 revo
 -->
 </vortaro>

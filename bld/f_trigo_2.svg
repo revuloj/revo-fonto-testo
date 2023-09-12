@@ -7,7 +7,8 @@
 ]>
 
 <svg version="1.1" 
-  width="10cm" height="10cm" 
+  xmlns="http://www.w3.org/2000/svg"
+  width="400" height="400" 
   viewBox="-&scale; -&scale; &scale_2; &scale_2;"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   onload="start(evt,&scale;)">
@@ -69,7 +70,7 @@
         var inc = (x1-x0)/200;
         scale_x = scale_y = 0.93*Math.min(2*scale/(x1-x0), 2*scale/(y1-y0));
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
+        var svgdoc = evt.target.ownerDocument;
 
         // Montri la aksojn
         var objet = svgdoc.getElementById("x_akso_pinto");
@@ -135,35 +136,35 @@
   <path id="kurbo3" class="kurbo" d=""/>
   <path id="kurbo4" class="kurbo" d=""/>
 
-  <text class="parametro">
-    <textPath xlink:href="#kurbo1" dy="-5" startOffset="10%">
+  <text class="parametro" dy="15">
+    <textPath xlink:href="#kurbo1" startOffset="10%">
       sh(<tspan style="font-style: italic">x</tspan>)
     </textPath>
-    <textPath xlink:href="#kurbo1" dy="15" startOffset="80%">
+    <textPath xlink:href="#kurbo1" startOffset="80%">
       sh(<tspan style="font-style: italic">x</tspan>)
     </textPath>
   </text>
-  <text class="parametro">
-    <textPath xlink:href="#kurbo2" dy="-5" startOffset="10%">
+  <text class="parametro" dy="-7">
+    <textPath xlink:href="#kurbo2"  startOffset="10%">
       ch(<tspan style="font-style: italic">x</tspan>)
     </textPath>
-    <textPath xlink:href="#kurbo2" dy="-5" startOffset="80%">
+    <textPath xlink:href="#kurbo2"  startOffset="80%">
       ch(<tspan style="font-style: italic">x</tspan>)
     </textPath>
   </text>
-  <text class="parametro">
-    <textPath xlink:href="#kurbo3" dy="-5" startOffset="20%">
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo3" startOffset="20%">
       th(<tspan style="font-style: italic">x</tspan>)
     </textPath>
-    <textPath xlink:href="#kurbo3" dy="15" startOffset="80%">
+    <textPath xlink:href="#kurbo3" dy="15" startOffset="88%">
       th(<tspan style="font-style: italic">x</tspan>)
     </textPath>
   </text>
-  <text class="parametro">
-    <textPath xlink:href="#kurbo4" dy="-5" startOffset="30%">
+  <text class="parametro" dy="-7">
+    <textPath xlink:href="#kurbo4" startOffset="30%">
       coth(<tspan style="font-style: italic">x</tspan>)
     </textPath>
-    <textPath xlink:href="#kurbo4" dy="-5" startOffset="55%">
+    <textPath xlink:href="#kurbo4" startOffset="55%">
       coth(<tspan style="font-style: italic">x</tspan>)
     </textPath>
   </text>

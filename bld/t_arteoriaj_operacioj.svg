@@ -4,75 +4,153 @@
   "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
   <!ENTITY scale "100">
   <!ENTITY scale_2 "200">
+  <!ENTITY scale_4 "400">
+  <!ENTITY scale_8 "800">
   <!ENTITY offset_0 "0">
   <!ENTITY offset_1 "200">
   <!ENTITY offset_2 "400">
+  <!ENTITY offset_3 "600">
 ]>
 
-<svg version="1.1" 
-  width="15cm" height="10cm" 
-  viewBox="0 0 600 400"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  onload="start(evt,&scale;)">
+<svg xmlns="http://www.w3.org/2000/svg"
+  version="1.1" 
+  width="800" height="400" 
+  viewBox="0 0 &scale_8; &scale_4;"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
 
   <title>Arteoriaj operacioj</title>
-  <desc/>
-  
-  <defs>
-    <script type="text/javascript"><![CDATA[
-      function start(evt, scale) {
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
-        
-      }
-    ]]></script>
-  </defs>
+  <g transform="translate(100,100)">
 
-  <svg version="1.1" 
-    width="5cm" height="5cm" 
-    viewBox="-&scale; -&scale; &scale_2; &scale_2;">
+      <!--
+        Kadro
+      -->
 
-    <!--
-      Kadro
-    -->
+      <rect x="-90" y="-90" width="180" height="140" 
+        style="fill:white; stroke-width:2; stroke:black"/>
 
-    <rect x="-90" y="-90" width="180" height="140" 
-      style="fill:white; stroke-width:2; stroke:black"/>
+      <!-- 
+        Aroj
+      -->
 
-    <!-- 
-      Aroj
-    -->
-
-    <g id="aroj">
-      <path d="M -20 -40 A 50 30 0 1 1 20 00"
-        style="fill:none; stroke-width:2; stroke:black"/>
-      <path d="M -20 -40 A 50 30 0 0 1 20 00"
-        style="fill:none; stroke-width:2; stroke:black"/>
-      <path d="M -20 -40 A 50 30 0 1 0 20 00"
-        style="fill:none; stroke-width:2; stroke:black"/>
-      <path d="M -20 -40 A 50 30 0 0 0 20 00"
-        style="fill:none; stroke-width:2; stroke:black"/>
       <text x="-60" y="-50" class="nomo">A</text>
+      <path d="M -20 -40 A 50 30 0 1 0 20 00 M -20 -40 A 50 30 0 0 1 20 00"
+        style="fill:rgb(200,200,200); stroke-width:2; stroke:black"/>
+
+      <!-- 
+        Komento
+      -->
+
+      <text x="0" y="80" text-anchor="middle" class="nomo">aro A</text>
+  </g>
+
+  <g transform="translate(300,100)">
+
+      <!--
+        Kadro
+      -->
+
+      <rect x="-90" y="-90" width="180" height="140" 
+        style="fill:white; stroke-width:2; stroke:black"/>
+
+      <!-- 
+        Aroj
+      -->
+
+      <text x="-60" y="-50" class="nomo">A</text>
+      <path d="M -20 -40 A 50 30 0 1 0 20 00 M -20 -40 A 50 30 0 0 1 20 00"
+        style="fill:rgb(200,200,200); stroke-width:2; stroke:black"/>
+      <ellipse cx="-20" cy="-10" rx="30" ry="20"
+        style="fill:rgb(200,200,200); stroke-width:2; stroke:black"/>
+      <text x="-20" y="-10" class="nomo">C</text>
+
+      <!-- 
+        Komento
+      -->
+
+      <text x="0" y="80" text-anchor="middle" class="nomo">
+        C inkluzivata de A
+        (C<tspan style="font-family:'Lucida Sans Unicode'">&#8834;</tspan>A)
+      </text>
+  </g>
+
+  <g transform="translate(500,100)">
+      <rect x="-90" y="-90" width="180" height="140" 
+        style="fill:rgb(200,200,200); stroke-width:2; stroke:black"/>
+      <text x="-60" y="-50" class="nomo">A</text>
+      <path d="M -20 -40 A 50 30 0 1 0 20 00 M -20 -40 A 50 30 0 0 1 20 00"
+        style="fill:white; stroke-width:2; stroke:black"/>
+
+      <text x="0" y="80" text-anchor="middle" class="nomo">
+        komplemento de A
+        (<tspan style="font-family:'Lucida Sans Unicode'">&#8705;</tspan>A)
+      </text>
+  </g>
+
+  <g transform="translate(700,100)">
+
+      <!--
+        Kadro
+      -->
+
+      <rect x="-90" y="-90" width="180" height="140" 
+        style="fill:white; stroke-width:2; stroke:black"/>
+
+      <!-- 
+        Aroj
+      -->
+
       <text x="60" y="20" class="nomo">B</text>
-    </g>
+      <path d="M -20 -40 A 50 30 0 1 1 20 00 M -20 -40 A 50 30 0 0 0 20 00"
+        style="fill:rgb(200,200,200); stroke-width:2; stroke:black"/>
 
-    <path d="M -20 -40 A 50 30 0 0 1 20 00 M -20 -40 A 50 30 0 0 0 20 00"
-      style="fill:rgb(200,200,200); stroke-width:2; stroke:black"/>
+      <!-- 
+        Komento
+      -->
 
-    <!-- 
-      Komento
-    -->
+      <text x="0" y="80" text-anchor="middle" class="nomo">aro B</text>
+  </g>
 
-    <text x="0" y="80" text-anchor="middle" class="nomo">
-      kunaĵo 
-      (A<tspan style="font-family:'Lucida Sans Unicode'">&#8745;</tspan>B)
-    </text>
-  </svg>
+  <g transform="translate(100,300)">
 
-  <g transform="translate(&offset_1;,&offset_0;)">
-    <svg version="1.1" 
-      width="5cm" height="5cm" 
-      viewBox="-&scale; -&scale; &scale_2; &scale_2;">
+      <!--
+        Kadro
+      -->
+
+      <rect x="-90" y="-90" width="180" height="140" 
+        style="fill:white; stroke-width:2; stroke:black"/>
+
+      <!-- 
+        Aroj
+      -->
+
+      <g id="aroj">
+        <path d="M -20 -40 A 50 30 0 1 1 20 00"
+          style="fill:none; stroke-width:2; stroke:black"/>
+        <path d="M -20 -40 A 50 30 0 0 1 20 00"
+          style="fill:none; stroke-width:2; stroke:black"/>
+        <path d="M -20 -40 A 50 30 0 1 0 20 00"
+          style="fill:none; stroke-width:2; stroke:black"/>
+        <path d="M -20 -40 A 50 30 0 0 0 20 00"
+          style="fill:none; stroke-width:2; stroke:black"/>
+        <text x="-60" y="-50" class="nomo">A</text>
+        <text x="60" y="20" class="nomo">B</text>
+      </g>
+
+      <path d="M -20 -40 A 50 30 0 0 1 20 00 M -20 -40 A 50 30 0 0 0 20 00"
+        style="fill:rgb(200,200,200); stroke-width:2; stroke:black"/>
+
+      <!-- 
+        Komento
+      -->
+
+      <text x="0" y="80" text-anchor="middle" class="nomo">
+        komunaĵo 
+        (A<tspan style="font-family:'Lucida Sans Unicode'">&#8745;</tspan>B)
+      </text>
+  </g>
+
+  <g transform="translate(300,300)">
 
       <rect x="-90" y="-90" width="180" height="140" 
         style="fill:white; stroke-width:2; stroke:black"/>
@@ -83,34 +161,13 @@
         style="fill:rgb(200,200,200); stroke-width:2; stroke:black; fill-opacity: 0.7"/>
 
       <text x="0" y="80" text-anchor="middle" class="nomo">
-        komunaĵo
+        kunaĵo
         (A<tspan style="font-family:'Lucida Sans Unicode'">&#8746;</tspan>B)
       </text>
-    </svg>
   </g>
 
-  <g transform="translate(&offset_2;,&offset_0;)">
-    <svg version="1.1" 
-      width="5cm" height="5cm" 
-      viewBox="-&scale; -&scale; &scale_2; &scale_2;">
 
-      <rect x="-90" y="-90" width="180" height="140" 
-        style="fill:rgb(200,200,200); stroke-width:2; stroke:black"/>
-      <text x="-60" y="-50" class="nomo">A</text>
-      <path d="M -20 -40 A 50 30 0 1 0 20 00 M -20 -40 A 50 30 0 0 1 20 00"
-        style="fill:white; stroke-width:2; stroke:black"/>
-
-      <text x="0" y="80" text-anchor="middle" class="nomo">
-        komplemento
-        (<tspan style="font-family:'Lucida Sans Unicode'">&#8705;</tspan>A)
-      </text>
-    </svg>
-  </g>
-
-  <g transform="translate(&offset_0;,&offset_1;)">
-    <svg version="1.1" 
-      width="5cm" height="5cm" 
-      viewBox="-&scale; -&scale; &scale_2; &scale_2;">
+  <g transform="translate(500,300)">
 
       <rect x="-90" y="-90" width="180" height="140" 
         style="fill:white; stroke-width:2; stroke:black"/>
@@ -126,13 +183,9 @@
         diferenco
         (A\B)
       </text>
-    </svg>
   </g>
 
-  <g transform="translate(&offset_2;,&offset_1;)">
-    <svg version="1.1" 
-      width="5cm" height="5cm" 
-      viewBox="-&scale; -&scale; &scale_2; &scale_2;">
+  <g transform="translate(700,300)">
 
       <rect x="-90" y="-90" width="180" height="140" 
         style="fill:white; stroke-width:2; stroke:black"/>
@@ -148,6 +201,5 @@
         simetria diferenco
         (A<tspan style="font-family:'Lucida Sans Unicode'">&#8710;</tspan>B)
       </text>
-    </svg>
   </g>
 </svg>

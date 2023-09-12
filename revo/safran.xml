@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: safran.xml,v 1.26 2023/09/03 12:09:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>safran</rad>/o
@@ -26,14 +25,13 @@
     <uzo tip="fak">KUI</uzo>
     <dif>
       <ref tip="super" cel="spic.0o">Spico</ref> ekstraktata el
-      la floroj de <ref tip="malprt"
-      cel="safran.0o.floro"><tld/>o<sncref/></ref>.
+      la floroj de <ref tip="malprt" cel="safran.0o.floro"><tld/>o<sncref/></ref>.
     </dif>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_f;&c_r;&c_a;&c_n;</trd>
   <trd lng="bg">&c_sh;&c_a;&c_f;&c_r;&c_a;&c_n;</trd>
   <trd lng="ca">safr&agrave;</trd>
-  <trd lng="cs">šafrán setý</trd>
+  <trd lng="cs">&#x161;afr&#xE1;n set&#xFD;</trd>
   <trd lng="de">Safran</trd>
   <trd lng="es">azafr&aacute;n</trd>
   <trd lng="fr">safran</trd>
@@ -43,13 +41,18 @@
   </trdgrp>
   <trd lng="hu">s&aacute;fr&aacute;ny</trd>
   <trd lng="it">zafferano</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B5;&#x30D5;&#x30E9;&#x30F3;</trd>,
+    <trd>&#x30B5;&#x30D5;&#x30E9;&#x30F3;&#x7C89;  [<ind>&#x30B5;&#x30D5;&#x30E9;&#x30F3;&#x3053;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">saffraan</trd>
   <trd lng="pl">szafran</trd>
   <trdgrp lng="pt">
    <trd>a&ccedil;afr&atilde;o</trd>
   </trdgrp>
   <trd lng="ru">&c_sh;&c_a;&c_f;&c_r;&c_a;&c_n;</trd>
-  <trd lng="sk">šafran siaty</trd>
+  <trd lng="sk">&#x161;afran siaty</trd>
+  <trd lng="uk">&#x448;&#x430;&#x444;&#x440;&#x430;&#x43D;</trd>
 </drv>
 </art>
 <!--

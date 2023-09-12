@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: polus.xml,v 1.31 2023/09/03 12:45:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>polus</rad>/o <fnt><bib>PV</bib></fnt>
@@ -51,10 +50,8 @@
     <subsnc mrk="polus.0o.koordinatsistemo">
       <fnt><bib>PIV1</bib></fnt>
       <dif>
-        <klr>(de <tld/>a <ref
-        cel="koordi.0sistemo">koordinatsistemo</ref>)</klr>
-        &Gcirc;ia <ref
-        cel="origin.0o.de_polusa_koordinatsistemo">origino</ref>.
+        <klr>(de <tld/>a <ref cel="koordi.0sistemo">koordinatsistemo</ref>)</klr>
+        &Gcirc;ia <ref cel="origin.0o.de_polusa_koordinatsistemo">origino</ref>.
       </dif>
       <trdgrp lng="hu">
         <trd>p&oacute;luspont</trd>,
@@ -84,16 +81,26 @@
     <trd lng="ru">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
   </snc>
   <trd lng="be">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
+  <trd lng="bo">&#xF40;&#xF0B;&#xF62;&#xF92;&#xFB1;&#xF74;&#xF42;&#xF0B;</trd>
   <trd lng="ca">pol</trd>
   <trdgrp lng="cs">
-    <trd>pól</trd>,
-    <trd>točna</trd>
+    <trd>p&#xF3;l</trd>,
+    <trd>to&#x10D;na</trd>
   </trdgrp>
   <trd lng="es">polo</trd>
   <trd lng="id">kutub</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6975;  [<ind>&#x306F;&#x305F;&#x3066;</ind>]</trd>,
+    <trd>&#x96FB;&#x6975;  [<ind>&#x3067;&#x3093;&#x304D;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x78C1;&#x6975;  [<ind>&#x3058;&#x304D;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x6975;&#x70B9;  [<ind>&#x304D;&#x3087;&#x304F;&#x3066;&#x3093;</ind>]</trd>,
+    <trd>&#x5BFE;&#x6975;  [<ind>&#x305F;&#x3044;&#x304D;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x4E2D;&#x5FC3;  [<ind>&#x306A;&#x304B;&#x3054;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">pool</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
-  <trd lng="sk">pól <klr>(geogr.| astr.| fyz.| el.tech.)</klr></trd>
+  <trd lng="sk">p&#xF3;l <klr>(geogr.| astr.| fyz.| el.tech.)</klr></trd>
+  <trd lng="uk">&#x43F;&#x43E;&#x43B;&#x44E;&#x441;</trd>
 </drv>
 </art>
 <!--

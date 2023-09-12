@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: unifor.xml,v 1.26 2023/09/05 09:43:52 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>uniform</rad>/o
@@ -59,6 +58,10 @@ anoj el la sama
    <trd>uniforme<klr> (sost.)</klr></trd>, 
    <trd>divisa<klr> (sost.)</klr></trd>
    </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5236;&#x670D;  [<ind>&#x305B;&#x3044;&#x3075;&#x304F;</ind>]</trd>,
+    <trd>&#x30E6;&#x30CB;&#x30D5;&#x30A9;&#x30FC;&#x30E0;</trd>
+  </trdgrp>
   <trd lng="nl">uniform</trd>
   <trd lng="pt">uniforme</trd>
   <trdgrp lng="ru">
@@ -68,10 +71,16 @@ anoj el la sama
      <trd>&c_u;&c_n;&c_i;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
    </trdgrp>
   <trdgrp lng="sk">
-    <trd>rovnošata</trd>,
+    <trd>rovno&#x161;ata</trd>,
     <trd>uniforma</trd>
   </trdgrp>
   <trd lng="sv">uniform</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x443;&#x43D;&#x434;&#x438;&#x440;</trd>,
+    <trd>&#x444;&#x43E;&#x440;&#x43C;&#x435;&#x43D;&#x438;&#x439; &#x43E;&#x434;&#x44F;&#x433;</trd>,
+    <trd>&#x43E;&#x434;&#x43D;&#x43E;&#x441;&#x442;&#x440;&#x456;&#x439;</trd>,
+    <trd>&#x443;&#x43D;&#x456;&#x444;&#x43E;&#x440;&#x43C;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

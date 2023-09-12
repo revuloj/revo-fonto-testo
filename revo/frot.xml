@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frot.xml,v 1.13 2007/06/13 16:32:29 revo Exp $">
+<art mrk="$Id: frot.xml,v 1.99 2023/08/31 13:11:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>frot</rad>/i <fnt><bib>PV</bib></fnt> 
@@ -14,19 +13,92 @@
     <dif>
       Plurfoje tien kaj reen prem&scirc;ovi ion sur io:
       <ekz>
-        <tld/>i la ha&ubreve;ton per harmufo post bano;
+        li estas <tld/>ita kaj polurita
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i pargeton<fnt>B</fnt>;
+        <tld/>i per salo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 16:4</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        &ccirc;iuj vazoj brilis spegulsimile
-        <ind><tld/>purigi</ind>taj<fnt>Z</fnt>;
+        <tld/>ita per lardo
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li forman&gcirc;is sekan kukon <tld/>itan per ajlo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liaj dis&ccirc;iploj de&scirc;iris la spikojn, kaj man&gcirc;is, <tld/>ante ilin en la manoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 6:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <tld/>is Elizon per suko de juglando, tiel ke &scirc;i fari&gcirc;is tute mallume bruna
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Sova&gcirc;aj cignoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <tld/>is denove unu alumeton je la muro
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Knabineto kun alumetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la botelo kantadis, kiam oni &gcirc;in <tld/>is per la korko
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Kolo de botelo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ek&gcirc;emis, <tld/>is la okulojn, kvaza&ubreve; homo vekita
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        incensa&jcirc;o <klr>[&#x2026;]</klr> bone <tld/>miksita
+        <klr>(kp <ref cel="pist.0i">pisti</ref>)</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 30:35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <ind><tld/>purigi</ind>taj 
+        <klr>(kp <ref cel="polur.0i">poluri</ref>)</klr>
+        stanaj teleroj brilis
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
         <trd lng="be">&c_v;&c_y;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol; <klr>(&c_ch;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;)</klr></trd>
         <trd lng="fr">r&eacute;curer</trd>
       </ekz>
       <ekz>
-        <tld/>lavi tukojn.
+        <tld/>purigita pargeta planko
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -36,23 +108,76 @@
       <ref cel="visx.0i">vi&scirc;i</ref>
     </refgrp>
   </snc>
+  <trd lng="af">vryf</trd>
+  <trd lng="am">&#x121B;&#x123B;&#x1238;&#x1275;</trd>
+  <trd lng="ar">&a_f;&a_r;&a_k;</trd>
+  <trd lng="az">ovu&scedil;durmaq</trd>
   <trdgrp lng="be">
     <trd>&c_c;&c_je;&c_r;&c_c;&c_ib;</trd>,
     <trd>&c_n;&c_a;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="bn">&#x9AC;&#x9BF;&#x9AA;&#x9A4;&#x9CD;&#x9A4;&#x9BF;</trd>
+  <trd lng="bo">&t_-a;&t_pha;&t_shabchu;&t_ra;&t_tsheg;&t_-a;&t_pha;&t_shabchu;&t_ra;&t_tsheg;&t_ga;&t_ta;&t_naro;&t_nga;&t_tsheg;</trd>
   <trd lng="ca">fregar</trd>
   <trdgrp lng="cs">
     <trd>mnout</trd>,
-    <trd>protřít</trd>,
-    <trd>třít</trd>
+    <trd>prot&rcaron;&iacute;t</trd>,
+    <trd>t&rcaron;&iacute;t</trd>
   </trdgrp>
+  <trd lng="cy">rhwbio</trd>
+  <trd lng="da">gnide</trd>
   <trd lng="de">reiben</trd>
   <trd lng="en">rub</trd>
   <trd lng="es">frotar</trd>
+  <trd lng="et">h&otilde;&otilde;ruda</trd>
   <trd lng="fr">frotter</trd>
-  <trd lng="id">[<ind>gosok</ind>] menggosok</trd>
+  <trd lng="fy">rub</trd>
+  <trd lng="gd">suathadh</trd>
+  <trd lng="gl">fregar</trd>
+  <trd lng="gu">&#xA98;&#xAB8;&#xAB5;&#xAC1;&#xA82;</trd>
+  <trd lng="hi">&#x930;&#x917;&#x921;&#x93C;</trd>
+  <trd lng="hmn">xuas</trd>
+  <trd lng="hr">trljati</trd>
+  <trd lng="ht">fwote</trd>
+  <trd lng="hy">&#x577;&#x583;&#x578;&#x582;&#x574;</trd>
+  <trdgrp lng="id">
+    <trd>meng<ind>gosok</ind></trd>,
+    <trd>meng<ind>gesek</ind></trd>
+  </trdgrp>
+  <trd lng="ig">ite</trd>
+  <trd lng="is">nudda</trd>
+  <trd lng="ja">&#x3053;&#x3059;&#x308B;</trd>
+  <trd lng="jv">samubarang kang angel</trd>
+  <trd lng="ka">&#x10E0;&#x10E3;&#x10D1;&#x10DA;&#x10E1;
+  &#x10E8;&#x10D4;&#x10D0;&#x10D3;&#x10D2;&#x10D4;&#x10DC;&#x10E1;</trd>
+  <trd lng="kk">&c_r;&c_u;&c_b;</trd>
+  <trd lng="km">&#x179B;&#x17BB;&#x1794;</trd>
+  <trd lng="kn">&#xCB0;&#xCAC;&#xCCD;</trd>
+  <trd lng="ko">&#xBB38;&#xC9C0;</trd>
+  <trd lng="ku">dihevdan</trd>
+  <trd lng="ky">&c_r;&c_u;&c_b;</trd>
+  <trd lng="lat">fricabis</trd>
+  <trd lng="lo">&#xE96;&#xEB9;</trd>
+  <trd lng="lt">rubli&#x173;</trd>
+  <trd lng="lv">berz&#x15E3;t</trd>
+  <trd lng="mi">te horoitanga i</trd>
+  <trd lng="mk">&c_B;&c_r;&c_i;&c_sh;&c_je;&#x45A;&c_je;</trd>
+  <trd lng="ml">&#xD24;&#xD1F;&#xD35;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_u;&c_r;&c_e;&c_h;</trd>
+  <trd lng="mr">&#x918;&#x93E;&#x938;&#x923;&#x947;</trd>
+  <trd lng="ms">sapu</trd>
+  <trd lng="mt">tog&#x127;rokx</trd>
+  <trd lng="my">&#x1015;&#x103D;&#x1010;&#x103A;&#x1010;&#x102D;&#x102F;&#x1000;&#x103A;</trd>
+  <trd lng="ne">&#x926;&#x932;&#x94D;&#x928;&#x941;</trd>
   <trd lng="nl">wrijven</trd>
+  <trd lng="ny">pakani</trd>
+  <trd lng="pa">&#xA30;&#xA71;&#xA2C; &#xA26;&#xA40;</trd>
+  <trdgrp lng="pl">
+    <trd>naciera&cacute;</trd>,
+    <trd>szorowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&a_w;&a_m;&a_w;&#x69A;&a_y_hamza;</trd>
   <trdgrp lng="pt">
     <trd>esfregar</trd>,
     <trd>friccionar</trd>
@@ -62,16 +187,38 @@
     <trd>&c_n;&c_a;&c_t;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_t;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="sd">&#x6AA;&a_y;&a_n;&a_s;&a_l;</trd>
+  <trd lng="si">&#xD91;&#xDAD;&#xDD0;&#xDB1;&#xDBA;&#xDD2;</trd>
   <trdgrp lng="sk">
-    <trd>drhnúť</trd>,
+    <trd>drhn&uacute;&tcaron;</trd>,
     <trd>trie&tcaron;</trd>,
-    <trd>šúchať <klr>(pri praní)</klr></trd>
+    <trd>&scaron;&uacute;cha&tcaron; <klr>(pri pran&iacute;)</klr></trd>
   </trdgrp>
+  <trd lng="sm">mili</trd>
+  <trd lng="sn">kwiza</trd>
+  <trd lng="so">salaax</trd>
+  <trd lng="sq">fshij</trd>
+  <trd lng="st">tsoaetsa</trd>
+  <trd lng="sw">kusugua</trd>
+  <trd lng="ta">&#xBA4;&#xBC1;&#xB9F;&#xBC8;&#xBAA;&#xBCD;&#xBAA;&#xBBE;&#xBA9;&#xBCD;</trd>
+  <trd lng="te">&#xC30;&#xC2C;&#xC4D;</trd>
+  <trd lng="tg">&c_r;&c_u;&c_b;&c_l;</trd>
+  <trd lng="th">&#xE16;&#xE39;</trd>
+  <trd lng="tl">kuskusin</trd>
+  <trd lng="tt">&c_s;&#x4E9;&c_r;&c_t;&c_je;&c_g;&c_je;&c_z;</trd>
+  <trd lng="uk">&c_r;&c_u;&c_b;</trd>
+  <trd lng="ur">&a_m;&a_s;&a_H;</trd>
+  <trd lng="uz">ishqalamoq</trd>
+  <trd lng="vi">ch&agrave;</trd>
+  <trd lng="xh">hlikihla</trd>
+  <trd lng="yi">&resh;&yod;&yod;&#x5B7;&bet;&fnun;</trd>
+  <trd lng="yo">bi won ninu</trd>
+  <trd lng="zu">deda</trd>
 </drv>
 
 <drv mrk="frot.0a">
   <kap><tld/>a</kap>
-  <snc>
+  <snc mrk="frot.0a.rilata">
     <dif>
       Rilata al <tld/>o:
       <ekz>
@@ -80,18 +227,16 @@
         <fnt>
           <aut>Tibor Ujlaky-Nagy</aut>:
           <vrk>La sporta lingvo en Esperanto</vrk>.
-          <lok><url
-          ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf"
-              >Hungara Esperanto-Asocio, 1972</url></lok>
+          <lok><url ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf">Hungara
+          Esperanto-Asocio, 1972</url></lok>
         </fnt>;
       </ekz><ekz>
         la kupla&jcirc;o estas <tld/>a kupla&jcirc;o, a&ubreve; &ccirc;e la pli novaj
         &scirc;altiloj dentrada
         <fnt>
           <aut>Ir. J. R. G. Isbr&uuml;cker</aut>:
-          <vrk><url
- ref="http://www.eventoj.hu/steb/ingxenierado/telekomuniko/telefoniado1928/telefoniado1928.htm"
-              >Evoluo de telefonio</url></vrk>.
+          <vrk><url ref="&STEB;ingxenierado/telekomuniko/telefoniado1928/telefoniado1928.htm">Evoluo
+          de telefonio</url></vrk>.
           <lok>Biblioteko Tutmonda, n-roj 21&ndash;22, eldonejo Rudolf
             Mosse: Berlino, 1928</lok>
         </fnt>;
@@ -101,6 +246,12 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_r;&c_y;&c_k;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>,
+    <trd>&c_f;&c_r;&c_y;&c_k;&c_a;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_ja;&c_k;&c_ib; <ind>&c_t;&c_r;&c_e;&c_c;&c_c;&c_a;</ind></trd>
+  </trdgrp>
+  <trd lng="pl">&sacute;cierny</trd>
   <trdgrp lng="ru">
      <trd>&c_t;&c_r;&c_u;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>,
      <trd>&c_f;&c_r;&c_i;&c_k;&c_c;&c_i;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>,
@@ -122,6 +273,15 @@
       Rezisto de du objektoj, kiuj &scirc;ovi&gcirc;as unu sur alia;
       inter<tld/>i&gcirc;o:
       <ekz>
+        tio klarigis bremsotempon, <tld/>on kaj aliajn komplikajn konceptojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2015/011597.php">&Scirc;ton&jcirc;eto sen cenzuro</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
         <ind><tld/>punkto</ind> <klr>(malfacila&jcirc;o)</klr>.
         <trd lng="fr">point de friction<klr tip="ind">
@@ -134,45 +294,103 @@
   <trd lng="be">&c_t;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="ca">fregament</trd>
   <trdgrp lng="cs">
-    <trd>tření</trd>,
-    <trd>škrtnutí</trd>
+    <trd>t&rcaron;en&iacute;</trd>,
+    <trd>&scaron;krtnut&iacute;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>frottement</trd>,
     <trd>friction<klr tip="ind"> (frottement)</klr></trd>
   </trdgrp>
-  <trd lng="id"><ind>gesek</ind>an</trd>
+  <trdgrp lng="id">
+    <trd><ind>gosok</ind>an</trd>,
+    <trd><ind>gesek</ind>an</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6469;&#x64E6;  [<ind>&#x307E;&#x3055;&#x3064;</ind>]</trd>,
+    <trd>&#x3053;&#x3059;&#x308B;&#x3053;&#x3068;</trd>
+  </trdgrp>
   <trd lng="nl">wrijving</trd>
+  <trdgrp lng="pl">
+    <trd>tarcie</trd>,
+    <trd>froterowanie</trd>
+  </trdgrp>
   <trd lng="ru">&c_t;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
-    <trd>masáž</trd>,
+    <trd>mas&aacute;&zcaron;</trd>,
     <trd>trenie</trd>
   </trdgrp>
+  <trd lng="uk">&c_t;&c_je;&c_r;&c_t;&c_ja;</trd>
 </drv>
 
 <drv mrk="frot.de0i">
-  <kap>de<tld/>i</kap>
+  <kap>de<tld/>i, <var><kap>for<tld/>i</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="frot.de0i.forfroti">
     <dif>
       <tld lit="F"/>ante forigi:
       <ekz>
-        la surskribo sur la tomba &scirc;tono preska&ubreve; tute
-        de<tld/>i&gcirc;is<fnt>Z</fnt>.
+        oni povas tre bone vidi, ke tio estas tomba &scirc;tono <klr>[&#x2026;]</klr>, tamen la
+        surskribo <klr>[&#x2026;]</klr> preska&ubreve; tute de<tld/>i&gcirc;is
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Malnova tomba &scirc;tono</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        surbruste <klr>[&#x2026;]</klr> ikoneto kun duone for<tld/>ita bildo de nekonata
+        sanktulo
+        <fnt>
+          <bib>MkM</bib>
+          <lok>5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        maldikaj kotonvesta&jcirc;oj, ki<klr>[es]</klr> flormotivoj estis for<tld/>itaj de
+        koroda perua &scirc;mirsapo
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Harry Martinson</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="ca">
       <trd>esborrar</trd>,
       <trd>raspar</trd>
     </trdgrp>
-    <trd lng="de">abreiben</trd>
-    <trd lng="fr">effacer<klr tip="ind"> (en frottant)</klr></trd>
-    <trd lng="ru">&c_s;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>
-    <trd lng="sk">zotrie&tcaron;</trd>
+    <trdgrp lng="de">
+      <trd>abreiben</trd>,
+      <trd>wegreiben</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>effacer<klr tip="ind"> (en frottant)</klr></trd>,
+      <trd lng="fr">r&eacute;curer</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_t;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="sk">
+      <trd>zotrie&tcaron;</trd>,
+      <trd>vytiera&tcaron;</trd>
+      </trdgrp>
   </snc>
   <snc mrk="frot.de0i.skrapi">
     <dif>
-      Supra&jcirc;e skrapdifekti.
+      Supra&jcirc;e skrapdifekti:
+      <ekz>
+        &ccirc;iuj kapoj senhari&gcirc;is kaj &ccirc;iuj &scirc;ultroj de<tld/>i&gcirc;is
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 29:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ha&ubreve;to estis tiom for<tld/>ita, ke sangogutoj trapenetris &gcirc;in
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="ca">ratllar</trd>
     <trd lng="de">absch&uuml;rfen</trd>
@@ -182,19 +400,57 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
-  <trd lng="cs">setřít</trd>
-  <trd lng="nl">afwrijven</trd>
-  <trd lng="sk">ošúpať</trd>
+  <trd lng="cs">set&rcaron;&iacute;t</trd>
+  <trd lng="es">fregar</trd>        
+  <trdgrp lng="ja">
+    <trd>&#x3053;&#x3059;&#x308A;&#x843D;&#x3068;&#x3059;  [<ind>&#x3053;&#x3059;&#x308A;&#x304A;&#x3068;&#x3059;</ind>]</trd>,
+    <trd>&#x304B;&#x3059;&#x308A;&#x50B7;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x304B;&#x3059;&#x308A;&#x304D;&#x305A;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>wegkrabben</trd>,
+    <trd>afwrijven</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&sacute;ciera&cacute;</trd>,
+    <trd>wyciera&cacute;</trd>
+  </trdgrp>
+  <trd lng="sk">o&scaron;&uacute;pa&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_t;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frot.dis0i">
-  <kap>dis<tld/>i</kap>
+  <kap>dis<tld/>i, <var><kap>tra<tld/>i</kap></var></kap>
   <snc mrk="frot.dis0i.KOMUNE">
     <dif>
       Per <tld/>o diserigi,
       <ref tip="vid" cel="uz.el0i.foruzi">eluzi</ref> materialon:
       <ekz>
-        akvofaloj kaj torentoj <klr>...</klr> jarojn post
+        miksi &gcirc;in, bone dis<tld/>ante, kaj ricevinte specon de nedensa pasto
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        Mi dis<tld/>as ilin simile al polvo de la tero
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 22:43</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;nurego estis tro dika, mi ne povis tra<tld/>i &gcirc;in kaj mi ne povis elturni
+        miajn membrojn el &gcirc;i
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 48</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        akvofaloj kaj torentoj <klr>[&#x2026;]</klr> jarojn post
         jaroj dis<tld/>as la rokojn, sur kiuj ili fluas
         <fnt>
           <aut>W. F. Rolt</aut>,
@@ -204,10 +460,122 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">erosionar</trd>
-  <trd lng="cs">rozetřít</trd>
+  <trd lng="cs">rozet&rcaron;&iacute;t</trd>
+  <trdgrp lng="de">
+    <trd>zerreiben</trd>,
+    <trd>aufreiben</trd>,
+    <trd>zermalmen</trd>
+  </trdgrp>
   <trd lng="fr">effriter</trd>
-  <trd lng="sk">rozotrieť</trd>
+  <trd lng="ja">&#x3059;&#x308A;&#x3064;&#x3076;&#x3059;</trd>
+  <trd lng="pl">rozciera&cacute;</trd>
+  <trd lng="sk">rozotrie&tcaron;</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_t;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="frot.el0i">
+  <kap>
+    el<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="F"/>e forigi ion (ekz-e malpura&jcirc;on) el io:
+      <ekz>
+        pureco estas duono de vivo! &scirc;i diris kaj el<tld/>is la kaldronon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="skrap.el0i">elskrapi</ref>,
+      <ref cel="pur.frot0igi">frotpurigi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>ausreiben</trd>,
+    <trd>scheuern</trd>
+  </trdgrp>
+  <trd lng="en">rub out</trd>
+  <trd lng="fr">effacer</trd>
+  <trd lng="ja">&#x78E8;&#x304D;&#x3042;&#x3052;&#x308B;  [<ind>&#x307F;&#x304C;&#x304D;&#x3042;&#x3052;&#x308B;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>wytrze&cacute;</trd>,
+    <trd>zetrze&cacute;</trd>,
+    <trd>pucowa&cacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frot.en0i">
+  <kap>
+    en<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="F"/>i substancon sur io (ekz-e ha&ubreve;to) &gcirc;is &gcirc;i enprofundi&gcirc;as:
+      <ekz>
+        li en<tld/>is al &scirc;i la &scirc;mira&jcirc;on en la piedon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Vojkamarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi devis en<tld/>i al mi poste bonan porcion da tabako <klr>[en la nazon]</klr>
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per la manplato &scirc;i komencis en<tld/>i la pomadon sur la frunto kaj vangoj
+        <fnt>
+          <bib>MkM</bib>
+          <lok>20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="sxmir.0i.surmeti">&scirc;miri<sncref/></ref>
+  </snc>
+  <trd lng="de">einreiben</trd>
+  <trd lng="en">rub in</trd>
+  <trd lng="fr">insister sur</trd>
+  <trdgrp lng="pl">
+    <trd>natrze&cacute;</trd>,
+    <trd>wciera&cacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frot.inter0i">
+  <kap>
+    inter<tld/>i,
+    <var><kap>kun<tld/>i</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="F"/>i unu sur la alia, ekz-e por <tld/>varmigi:
+      <ekz>
+        per mallonga movo li inter<tld/>is la manojn
+        <fnt>
+          <bib>MkM</bib>
+          <lok>25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se ni kun<tld/>os ilin kvaza&ubreve; fajrobastonetojn, ni ekflamigos <klr>[fajron]</klr>
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Kvar</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">zusammenreiben</trd>
+  <trd lng="en">rub together</trd>
+  <trd lng="pl">trze&cacute; si&eogonek; wzajemnie</trd>
 </drv>
 
 <drv mrk="frot.0sono">
@@ -216,17 +584,16 @@
     <dif>
       Bruo produktata de <tld/>ado:       
       <ekz>
-        GRINCI: eligi malagrablan <tld/>sonon
+        grinci: eligi malagrablan <tld/>sonon
         <fnt>
           <aut>William Auld</aut>:
           <vrk>Pa&scirc;oj al plena posedo</vrk>.
-          <lok><url
- ref="http://www.elerno.cn/elibro/pasoj%20al%20plena%20posedo/dudeksesa.htm"
-              >Leciono
-          26&#170;.</url></lok>
+          <lok><url ref="http://www.elerno.cn/elibro/pasoj%20al%20plena%20posedo/dudeksesa.htm">Leciono
+          26&#xAA;.</url></lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_g;&c_u;&c_k; &c_t;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_ja;</trd>
   </snc>
   <snc mrk="frot.0sono.FON">
     <uzo tip="fak">FON</uzo>
@@ -238,13 +605,12 @@
       <ekz>
         ekzemplo de aktuale okazanta &scirc;an&gcirc;o en la angla prononco
         estas la evoluo de la dentaj <tld/>sonoj, [&theta;] kiel en
-        <ctl>mouth</ctl> kaj [&#240;] kiel en <ctl>smooth</ctl>, kiuj
+        &leftquot;<nac>mouth</nac>&rightquot; kaj [&#xF0;] kiel en &leftquot;<nac>smooth</nac>&rightquot;, kiuj
         iom post iom fari&gcirc;as lipo-dentaj [f], respektive [v]
         <fnt>
           <aut>John Wells</aut>:
-          <vrk><url
-          ref="http://esperanto.org.uk/lbe/arkivo/965/07.html"
-              >La Liverpola prononco</url></vrk>.
+          <vrk><url ref="http://esperanto.org.uk/lbe/arkivo/965/07.html">La Liverpola
+          prononco</url></vrk>.
           <lok>La Brita Esperantisto, a&ubreve;tuno 2008.</lok>
         </fnt>.
       </ekz>
@@ -266,6 +632,7 @@
       <trd>spirante<klr> (subst.)</klr></trd>
     </trdgrp>
     <trd lng="nl">fricatief</trd>
+    <trd lng="pl">sp&oacute;&lstroke;g&lstroke;oska szczelinowa</trd>
     <trdgrp lng="pt">
       <trd>consoante <ind>constritiva fricativa</ind></trd>,
       <trd>fricativa</trd>,
@@ -291,13 +658,12 @@
       (en Esperanto: <em>c, &ccirc;, &gcirc;</em>):
       <ekz>
         la silabolimo situas anta&ubreve; la konsonanto <klr>(...)</klr>
-        anka&ubreve;, se la konsonanto estas ek<tld/>a (/pro-c&eacute;-so/,
-        /fe-l&iacute;-&ccirc;a/, /p&aacute;-&gcirc;o/)
+        anka&ubreve;, se la konsonanto estas ek<tld/>a (/<esc>pro-c&eacute;-so</esc>/,
+        /<esc>fe-l&iacute;-&ccirc;a</esc>/, /<esc>p&aacute;-&gcirc;o</esc>/)
         <fnt>
           <aut>Marc Bavant</aut>: <vrk>Silabo kaj silabado</vrk>.
-          <lok><url
- ref="http://lingvakritiko.com/2006/12/20/silabo-kaj-silabado/"
-              >Lingva kritiko</url></lok></fnt>.
+          <lok><url ref="http://lingvakritiko.com/2006/12/20/silabo-kaj-silabado/">Lingva
+          kritiko</url></lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -318,7 +684,10 @@
     <trd>affrik&aacute;ta</trd>
   </trdgrp>
   <trd lng="it">affricata</trd>
-  <trd lng="pl">afrykata</trd>
+  <trdgrp lng="pl">
+    <trd>afrykata</trd>,
+    <trd>sp&oacute;&lstroke;g&lstroke;oska zwarto-szczelinowa</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>africado</trd>,
     <trd>explosivo-fricativo</trd>
@@ -329,30 +698,27 @@
 </art>
 <!--
 $Log$
-Revision 1.20  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.98 2023/03/29 22:29:43
+Vito Redsky: +trd pl 
 
-Revision 1.19  2015/01/06 07:10:12  revo
-Sergio Pokrovskij: +ek~a konsonanto
+versio 1.97 2023/02/16 18:31:04
+Wolfram Diestel: for~i: +trdj el for/
 
-Revision 1.18  2015/01/04 19:10:20  revo
-Sergio Pokrovskij: -tajperaroj
+versio 1.96 2023/02/16 06:32:52
+Wolfram Diestel: +var for~i
 
-Revision 1.17  2015/01/04 17:43:39  revo
-Sergio Pokrovskij: +~sono
+versio 1.95 2023/01/19 19:21:24
+Wolfram Diestel: +en~i, el~i, tra~i, inter~i, kun~i
 
-Revision 1.16  2014/06/23 16:10:12  revo
-Eko Nur Syah Hidayat: +id
+versio 1.94 2022/09/22 08:43:18
+Dmitri Gabinski: + trd be
 
-Revision 1.15  2012/07/30 09:10:25  revo
-Marc Rausell: + trd ca
+versio 1.93 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.14  2011/11/12 16:10:11  revo
-Jeromo Vasxe: + dis~i
+versio 1.23 2020/10/24 12:42:46
+Wolfram Diestel: ekz-oj
 
-Revision 1.13  2007/06/13 16:32:29  revo
-Tulio Flores: +tr pt
-
-Revision 1.12  2004/01/04 17:33:29  revo
+versio 1.22 2020/05/01 14:10:24
 -->
 </vortaro>

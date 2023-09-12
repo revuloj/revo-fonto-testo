@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: nov.xml,v 1.29 2010/07/19 16:30:34 revo Exp $">
+<art mrk="$Id: nov.xml,v 1.140 2023/09/05 12:43:07 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>nov</rad>/a <fnt><bib>PV</bib></fnt>
@@ -16,7 +15,7 @@
       aperanta:
       <ekz>
         kiam vi ekparolis, ni atendis a&ubreve;di ion <tld/>an
-        <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>;
+        <fnt><bib>F</bib> <lok>&FE; 40</lok></fnt>;
       </ekz><ekz>
         <tld/>a libro, modo;
       </ekz>
@@ -24,21 +23,21 @@
         <tld/>an kanton mi kantos
         <fnt>
           <bib>MT</bib>
-          <lok>Psalmaro 144:9</lok>
+          <lok>&Psa; 144:9</lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>a instruado
         <fnt>
           <bib>NT</bib>
-          <lok>Marko 1:27</lok>
+          <lok>&Mar; 1:27</lok>
         </fnt>;
       </ekz>
       <ekz>
         neniu enver&scirc;as <tld/>an vinon en mal<tld/>ajn felsakojn
         <fnt>
           <bib>NT</bib>
-          <lok>Marko 2:22</lok>
+          <lok>&Mar; 2:22</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -46,7 +45,7 @@
         mal<tld/>an veston
         <fnt>
           <bib>NT</bib>
-          <lok>Luko 5:36</lok>
+          <lok>&Luk; 5:36</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -89,9 +88,10 @@
       <ekz>
         <tld/>a gaela numerala sistemo
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/1993/A931103.php">Nova gaela numerala sistemo</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato1/monato-9311-matematiko.txt">Matematiko</url></vrk>
+          <lok>1993/11, p. 21</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -120,7 +120,7 @@
         pekuloj
         <fnt>
           <bib>MT</bib>
-          <lok>Nombroj 32:14</lok>
+          <lok>&Nom; 32:14</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -167,9 +167,18 @@
       <ref cel="jxus.0a">&jcirc;usa</ref>
     </refgrp>
   </snc>
+  <trd lng="af">nuwe</trd>
+  <trd lng="am">&#x12A0;&#x12F2;&#4661;</trd>
+  <trd lng="az">yeni</trd>
   <trd lng="be">&c_n;&c_o;&c_v;&c_y;</trd>
+  <trd lng="bn">&#x9A8;&#x9A4;&#x9C1;&#x9A8;</trd>
+  <trd lng="bo">&t_ga;&t_sa;&t_ra;&t_tsheg;</trd>
   <trd lng="br">nevez</trd>
+  <trd lng="bs">novi</trd>
+  <trd lng="co">novu</trd>
   <trd lng="cs">nov&yacute;</trd>
+  <trd lng="cy">newydd</trd>
+  <trd lng="da">ny</trd>
   <trd lng="de">neu</trd>
   <trdgrp lng="el">
     <trd>&ny;&epsilon_ton;&omikron;&sigma_fina;</trd>,
@@ -177,23 +186,94 @@
   </trdgrp>
   <trd lng="en">new</trd>
   <trd lng="es">nuevo</trd>
+  <trd lng="et">uus</trd>
+  <trd lng="eu">berria</trd>
   <trdgrp lng="fr">
     <trd>neuf<klr tip="amb"> (nouveau)</klr></trd>,
     <trd>nouveau</trd>
   </trdgrp>
+  <trd lng="fy">nij</trd>
+  <trd lng="ga">nua</trd>
+  <trd lng="gd">&ugrave;r</trd>
+  <trd lng="gl">novo</trd>
+  <trd lng="gu">&#xAA8;&#xAB5;&#xABE;</trd>
   <trd lng="he">&het;&dalet;&shin;</trd>
+  <trd lng="hi">&#2344;&#2312;</trd>
+  <trd lng="hmn">tshiab</trd>
+  <trd lng="hr">nova</trd>
+  <trd lng="ht">nouvo</trd>
   <trd lng="hu">&uacute;j</trd>
+  <trd lng="hy">&#1398;&#1400;&#1408;</trd>
   <trd lng="id">baru</trd>
+  <trd lng="ig">&#x1ECD;h&#x1EE5;r&#x1EE5;</trd>
   <trd lng="io">nova</trd>
+  <trd lng="is">n&yacute;</trd>
+  <trd lng="ja">&#x65B0;&#12375;&#12356; [<ind>&#12354;&#x305F;&#12425;&#12375;&#12356;</ind>]</trd>
+  <trd lng="jv">anyar</trd>
+  <trd lng="ka">&#x10D0;&#x10EE;&#x10D0;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&c_zh;&c_a;&#x4A3;&c_a;</trd>
+  <trd lng="km">&#6032;&#x17D2;&#6040;&#x17B8;</trd>
+  <trd lng="kn">&#xCB9;&#xCCA;&#xCB8;</trd>
+  <trd lng="ko">&#xC0C8;&#xB85C;&#xC6B4;</trd>
+  <trd lng="ku">n&scedil;h</trd>
+  <trd lng="ky">&c_zh;&c_a;&#x4A3;&c_y;</trd>
+  <trd lng="lat">novum</trd>
+  <trd lng="lo">&#xEC3;&#xEAB;&#xEA1;&#xEC8;</trd>
+  <trd lng="lt">nauja</trd>
+  <trd lng="lv">jaun&#x15D1;</trd>
+  <trd lng="mg">vaovao</trd>
+  <trd lng="mi">hou</trd>
+  <trd lng="mk">&c_n;&c_o;&c_v;&c_i;</trd>
+  <trd lng="ml">&#xD2A;&#xD41;&#xD24;&#xD3F;&#xD2F;</trd>
+  <trd lng="mn">&c_sh;&c_i;&c_n;&c_e;</trd>
+  <trd lng="mr">&#2344;&#2357;&#2368;&#2344;</trd>
+  <trd lng="ms">baru</trd>
+  <trd lng="mt">&#289;dida</trd>
+  <trd lng="my">&#4129;&#x101E;&#4101;&#x103A;</trd>
+  <trd lng="ne">&#2344;&#x92F;&#x93E;&#2305;</trd>
   <trdgrp lng="nl">
     <trd>opnieuw</trd>,
     <trd>weer<klr tip="ind"> (opnieuw)</klr></trd>
   </trdgrp><trd lng="nl">nieuw</trd>
+  <trd lng="ny">watsopano</trd>
+  <trd lng="pa">&#xA28;&#xA35;</trd>
+  <trdgrp lng="pl">
+    <trd>nowy</trd>,
+    <trd>nowa</trd>,
+    <trd>nowe</trd>
+  </trdgrp>
+  <trd lng="ps">&a_n;&a_w;&a_y;</trd>
   <trd lng="pt">novo</trd>
+  <trd lng="ro">nou</trd>
   <trd lng="ru">&c_n;&c_o;&c_v;&c_y;&c_j;</trd>
+  <trd lng="rw">gishya</trd>
+  <trd lng="sd">&a_n;&a_y_hamza;&a_w;&a_n;</trd>
+  <trd lng="si">&#xDB1;&#xDC0;</trd>
   <trd lng="sk">nov&yacute;</trd>
+  <trd lng="sl">novo</trd>
+  <trd lng="sm">fou</trd>
+  <trd lng="sn">itsva</trd>
+  <trd lng="so">cusub</trd>
+  <trd lng="sq">t&euml; reja</trd>
+  <trd lng="st">ncha</trd>
+  <trd lng="su">anyar</trd>
   <trd lng="sv">ny</trd>
+  <trd lng="sw">mpya</trd>
+  <trd lng="ta">&#xBAA;&#xBC1;&#xBA4;&#xBBF;&#xBAF;</trd>
+  <trd lng="te">&#xC15;&#xC4A;&#xC24;&#xC4D;&#xC24;</trd>
+  <trd lng="tg">&c_n;&c_a;&c_v;</trd>
+  <trd lng="th">&#xE43;&#xE2B;&#xE21;&#xE48;</trd>
+  <trd lng="tl">bago</trd>
+  <trd lng="tt">&c_ja;&#x4A3;&c_a;</trd>
+  <trd lng="uk">&c_n;&c_o;&c_v;&c_i;&c_j;</trd>
+  <trd lng="ur">&a_n;&a_y_hamza;&#x6D2;</trd>
+  <trd lng="uz">yangi</trd>
+  <trd lng="vi">m&#x1EDB;i</trd>
   <trd lng="vo">nulik</trd>
+  <trd lng="xh">olutsha</trd>
+  <trd lng="yi">&nun;&yod;&yod;&#x5B7;</trd>
+  <trd lng="yo">titun</trd>
+  <trd lng="zu">omusha</trd>
 </drv>
 
 <drv mrk="nov.0ajxo">
@@ -210,6 +290,7 @@
       </ekz>
     </dif>
     <trd lng="de">Neuigkeit</trd>
+    <trd lng="en">news</trd>
     <trd lng="hu">&uacute;jdons&aacute;g</trd>
   </snc>
   <snc mrk="nov.0ajxo.informo">
@@ -227,7 +308,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        kiam li demandis pri <tld/>a&jcirc;oj, oni respondis al li, 
+        kiam li demandis pri <tld/>a&jcirc;oj, oni respondis al li,
         ke anta&ubreve; kelke da tagoj naski&gcirc;is infano <klr>[&#8230;]</klr>
         <fnt>
           <bib>ElektFab</bib>
@@ -239,33 +320,35 @@
         mastro
         <fnt>
           <bib>Far1</bib>
-          <lok>&Ccirc;apitro XIX</lok>
+          <lok>&ccirc;apitro 19a</lok>
         </fnt>;
       </ekz>
       <ekz>
         mia filo ne vivas plu, jen estas la <tld/>a&jcirc;o
         <fnt>
           <bib>Far2</bib>
-          <lok>&Ccirc;apitro XVI</lok>
+          <lok>&ccirc;apitro 16a</lok>
         </fnt>;
       </ekz>
       <ekz>
         veturu, faru, kion mi diris, kaj revenu kun bonaj <tld/>a&jcirc;oj
         <fnt>
           <bib>Far1</bib>
-          <lok>&Ccirc;apitro XXII</lok>
+          <lok>&ccirc;apitro 22a</lok>
         </fnt>;
       </ekz>
       <ekz>
         en lia fajra fantazio ordi&gcirc;is la <tld/>a&jcirc;oj kaj formi&gcirc;is plano
         <fnt>
           <bib>Far2</bib>
-          <lok>&Ccirc;apitro V</lok>
+          <lok>&ccirc;apitro 5a</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Neuigkeit</trd>
+    <trd lng="en">news</trd>
     <trd lng="hu">h&iacute;r</trd>
+    <trd lng="th">&#xE02;&#xE48;&#xE32;&#xE27;</trd>
   </snc>
   <snc mrk="nov.0ajxo.invento">
     <dif>
@@ -280,7 +363,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la Lingva Komitato estas kreita ne por entrepreni diversajn 
+        la Lingva Komitato estas kreita ne por entrepreni diversajn
         dan&gcirc;erajn <tld/>a&jcirc;ojn, e&ccirc; ne por krei ion, sed nur por kontroli
         pasive
         <fnt>
@@ -289,7 +372,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        Zamenhof &ccirc;iam konsilis elprovi <tld/>a&jcirc;ojn per uzado
+        <nom>Zamenhof</nom> &ccirc;iam konsilis elprovi <tld/>a&jcirc;ojn per uzado
         <fnt>
           <bib>VivZam</bib>
         </fnt>;
@@ -311,10 +394,16 @@
       </ekz>
     </dif>
     <trd lng="de">Neuheit</trd>
+    <trd lng="en">novelty</trd>
     <trd lng="hu">&uacute;j&iacute;t&aacute;s</trd>
     <trd lng="ru">&c_n;&c_o;&c_v;&c_i;&c_n;&c_k;&c_a;</trd>
+    <trdgrp lng="th">
+      <trd>&#xE02;&#xE2D;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;</trd>,
+      <trd>&#xE2A;&#xE34;&#xE48;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="bo">&t_ga;&t_sa;&t_ra;&t_tsheg;&t_-a;&t_ga;&t_yata;&t_shabchu;&t_ra;&t_tsheg;</trd>
   <trd lng="br">nevezenti</trd>
   <trdgrp lng="el">
     <trd>&ny;&epsilon_ton;&omikron;</trd>,
@@ -330,9 +419,101 @@
     <trd>nouvelle<klr> (annonce)</klr></trd>
   </trdgrp>
   <trd lng="he">&het;&dalet;&shin;&he;</trd>
+  <trdgrp lng="id">
+    <trd>berita</trd>,
+    <trd>inovasi</trd>,
+    <trd>pem<ind>baru</ind>an</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30CB;&#x30E5;&#x30FC;&#x30B9;  [<ind>&#x306B;&#12421;&#x30FC;&#12377;</ind>]</trd>,
+    <trd>&#x65B0;&#x54C1;  [<ind>&#12375;&#12435;&#12404;&#12435;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">nieuws</trd>
+  <trdgrp lng="pl">
+    <trd>ciekawostka</trd>,
+    <trd>wiadomo&sacute;&cacute;</trd>,
+    <trd>nowina</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>curiozitate</trd>,
+    <trd>&#537;tire</trd>,
+    <trd>mesaj</trd>,
+    <trd>noutate</trd>
+  </trdgrp>
   <trd lng="ru">&c_n;&c_o;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sv">nyhet</trd>
+  <trdgrp lng="uk">
+    <trd>&c_shch;&c_o;&c_s;&c_mol; &c_n;&c_o;&c_v;&c_je;</trd>,
+    <trd>&c_n;&c_o;&c_v;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_n;&c_o;&c_v;&c_i;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nov.0ajxisto">
+  <kap>
+    <tld/>a&jcirc;isto
+  </kap>
+  <snc mrk="nov.0ajxisto.INF">
+    <dif>
+      <ref tip="super" cel="jxurna.0isto.INF">&Jcirc;urnalisto</ref>
+      kiu kolektas, redaktas, prezentas nova&jcirc;ojn:
+      <ekz>
+        la polico devigis al <nom>Li</nom> subskribi dokumenton,
+        kiu postulas ne paroli al <tld/>a&jcirc;istoj kaj amaskomunikiloj
+        <fnt>
+          <aut>Ariel</aut>
+          <vrk><url
+          ref="https://egalecen.org/2015/07/17/ci-tiu-cina-feministo-volas-esti-la-unua-malferme-lesba-advokato-kaj-polica-genado-ne-cesigos-rin/">&Ccirc;i
+          tiu &ccirc;ina feministo volas esti la unua malferme lesba advokato, kaj polica &gcirc;enado
+              ne &ccirc;esigos rin</url></vrk>
+          <lok>Egalecen, 2015-07-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_zh;&c_u;&c_r;&c_n;&c_a;&c_l;&c_ib;&c_s;&c_t; <klr>(&c_ja;&c_k;&c_ib; &c_z;&c_a;&c_j;&c_m;&c_a;&c_je;&c_c;&c_c;&c_a; &c_n;&c_a;&c_v;&c_ib;&c_n;&c_a;&c_m;&c_ib;)</klr></trd>,
+    <trd>&c_r;&c_e;&c_p;&c_a;&c_r;&c_t;&c_e;&c_r;</trd>
+  </trdgrp>
+  <trd lng="de">Nachrichtenreporter</trd>
+  <trdgrp lng="en">
+    <trd>newsman</trd>,
+    <trd><klr>(news) </klr>reporter</trd>
+  </trdgrp>
+  <trd lng="fr">journaliste d'information</trd>
+  <trd lng="nl">journalist</trd>
+</drv>
+
+<drv mrk="nov.0eca">
+  <kap><tld/>eca</kap>
+  <snc mrk="nov.0eca.KOMUNE">
+    <dif>havanta novan econ:
+    <ekz>kuracistoj sukcesis trakti la virinon, suferantan pro mama kancero, per <tld/>eca terapio
+    <fnt>
+      <aut>Roberto Pigro</aut>
+      <vrk><url ref="&Monato;/2018/012284.php">&Ccirc;u estonteca sanigilo por &ccirc;iuspecaj
+      tumoroj?</url></vrk>
+      <bib>Monato</bib>
+      <lok>2018/08-09, p. 24</lok>
+    </fnt></ekz>
+    <ekz><tld/>eca artefarita mano prezentita en Romo
+    <fnt>
+      <aut>Cristina Casella</aut>
+      <vrk><url ref="&Monato;/2018/012268.php">Noveca artefarita mano prezentita en Romo</url></vrk>
+      <bib>Monato</bib>
+      <lok>2018/08-09, p. 23</lok>
+    </fnt>
+    </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_n;&c_a;&c_v;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_v;&c_y;</trd>
+    </trdgrp>
+    <trd lng="en">innovative</trd>
+    <trd lng="it">innovativo</trd>
+    <trd lng="nl">innovatief</trd>
+  </snc>
+<trd lng="de">innovativ</trd>
 </drv>
 
 <drv mrk="nov.0ismo">
@@ -342,31 +523,40 @@
     <dif>
       <ref tip="sin" cel="neolog.0o">Neologismo</ref>:
       <ekz>
-        la <tld/>ismo &leftquot;diafilmo&rightquot; venas de la rusa vorto &leftquot;&c_d;&c_i;&c_a;&c_f;&c_i;&c_l;&c_mol;&c_m;&rightquot;,
-        hungare &leftquot;diafilm&rightquot;, &gcirc;i ne estas analizebla kiel &leftquot;dia filmo&rightquot;
+        la <tld/>ismo &leftquot;diafilmo&rightquot; venas de la rusa vorto &leftquot;<nac>&c_d;&c_i;&c_a;&c_f;&c_i;&c_l;&c_mol;&c_m;</nac>&rightquot;,
+        hungare &leftquot;<nac>diafilm</nac>&rightquot;, &gcirc;i ne estas analizebla kiel &leftquot;dia filmo&rightquot;
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=32898">Diafilmo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=32898">Diafilmo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         la <tld/>ismo <ctl>obsoleta</ctl> kies neceson en romano la
         leganto ne tuj kaptas
         <fnt>
-          <aut>P. Veenman</aut>,
-          <vrk>Krimoj... por &ccirc;iuj temperamentoj</vrk>,
-          <bib>Monato</bib>, <lok>1997:10, p. 19a</lok>
+          <aut>Paul Veenman</aut>,
+          <vrk><url ref="&Monato;/1997/ffoj.html">Krimoj... por &ccirc;iuj temperamentoj</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>1997/10, p. 19</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="be">&c_n;&c_e;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_z;&c_m;</trd>
     <trd lng="br">nevezc'her</trd>
     <trd lng="de">Neologismus</trd>
+    <trd lng="en">neologism</trd>
     <trd lng="fr">n&eacute;ologisme</trd>
     <trd lng="hu">neologizmus</trd>
+    <trd lng="id">neologisme</trd>
     <trd lng="nl">neologisme</trd>
+    <trd lng="pl">nowizm</trd>
+    <trd lng="ro">novismului</trd>
     <trd lng="ru">&c_n;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_z;&c_m;</trd>
+    <trdgrp lng="th">
+      <trd>&#xE04;&#xE33;&#xE2A;&#xE23;&#xE49;&#xE32;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;</trd>,
+      <trd>&#xE28;&#xE31;&#xE1E;&#xE17;&#xE4C;&#xE1A;&#xE31;&#xE0D;&#xE0D;&#xE31;&#xE15;&#xE34;
+      </trd>
+    </trdgrp>
   </snc>
   <snc mrk="nov.0ismo.BELA">
     <uzo tip="fak">BELA</uzo>
@@ -374,10 +564,8 @@
        Maniero, stilo krei artverkon celante rompi kun tradiciaj maniero
        kaj stilo:
       <ekz>
-        <tld/>ismo de Dus&iacute;k rilatas &ccirc;iujn paramtrojn de la muzika
-        esprimi&gcirc;o,
-        en harmonio Dus&iacute;k uzas komplikaj kromatajn sinsekvojn
-        <klr>[&#8230;]</klr>
+        <tld/>ismo de <nom>Dus&iacute;k</nom> rilatas &ccirc;iujn parametrojn de la muzika
+        esprimi&gcirc;o, en harmonio <nom>Dus&iacute;k</nom> uzas komplikajn kromatajn sinsekvojn
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=31310">Jan
@@ -389,10 +577,12 @@
        <ref cel="modern.0ismo.BELA">modernismo<sncref/></ref>,
        <ref cel="univer1.0ismo">universalismo</ref>
     </refgrp>
+    <trd lng="be">&c_m;&c_a;&c_d;&c_e;&c_r;&c_n;&c_ib;&c_z;&c_m;</trd>
     <trdgrp lng="de">
       <trd>Novismus</trd>,
       <trd>Modernismus</trd>
     </trdgrp>
+  <trd lng="en">modernism</trd>
   </snc>
 </drv>
 
@@ -413,16 +603,16 @@
         firme
         alrigardis, penante ekkoni la <tld/>ulojn
         <fnt>
-          <aut>J. London, trad. R. Rossetti</aut>,
-          <vrk>Dio de liaj prapatroj</vrk>,
+          <aut>J. London, trad. R. Rossetti</aut>
+          <vrk>Dio de liaj prapatroj</vrk>
           <lok>La nica literatura revuo, 1:4</lok>
         </fnt>;
       </ekz><ekz>
-        <ctl>Raportoj</ctl> havas interesan enhavon <klr>...</klr>
+        <ctl>Raportoj</ctl> havas interesan enhavon <klr>[&#8230;]</klr>
         kiu povas interesi kaj <tld/>ulojn, kaj spertulojn
         <fnt>
-          <aut>T. Abramowicz</aut>,
-          <vrk>Raporto de &leftquot;Varsovia Vento&rightquot;</vrk>,
+          <aut>T. Abramowicz</aut>
+          <vrk>Raporto de &leftquot;Varsovia Vento&rightquot;</vrk>
           <lok>Eventoj, 50:2 (marto 1994)</lok>.
         </fnt>
       </ekz>
@@ -439,15 +629,31 @@
   <trd>nov&aacute;&ccaron;ek</trd>
   </trdgrp>
   <trd lng="de">Neuling</trd>
+  <trdgrp lng="en">
+    <trd>novice</trd>,
+    <trd>newbie</trd>,
+    <trd>greenhorn</trd>,
+    <trd>newcomer</trd>,
+    <trd>neophyte</trd>
+  </trdgrp>
   <trd lng="es">principiante</trd>
   <trdgrp lng="fr">
       <trd>d&eacute;butant<klr tip="amb"> (subst.)</klr></trd>,
       <trd>nouveau<klr tip="amb"> (subst.)</klr></trd>
     </trdgrp>
   <trd lng="hu">kezd&odblac;</trd>
+  <trd lng="id">pe<ind>mula</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x65B0;&#x4EBA;  [<ind>&#12375;&#12435;&#12376;&#12435;</ind>]</trd>,
+    <trd>&#x65B0;&#x524D;  [<ind>&#12375;&#12435;&#x307E;&#12360;</ind>]</trd>,
+    <trd>&#x65B0;&#x53C2;&#32773;  [<ind>&#12375;&#12435;&#12374;&#12435;&#12418;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">nieuweling</trd>
+  <trd lng="pl">nowicjusz</trd>
+  <trd lng="ro">ucenic</trd>
   <trd lng="ru">&c_n;&c_o;&c_v;&c_i;&c_ch;&c_o;&c_k;</trd>
   <trd lng="sk">nov&aacute;&ccaron;ik</trd>
+  <trd lng="uk">&c_n;&c_o;&c_v;&c_a;&c_ch;&c_o;&c_k;</trd>
 </drv>
 
 <drv mrk="nov.de0e">
@@ -456,7 +662,7 @@
     <dif>
       Ree post pli a&ubreve; malpli longa &ccirc;eso:
       <ekz>
-        la fenestro longe estis nefermita, mi &gcirc;in fermis, 
+        la fenestro longe estis nefermita, mi &gcirc;in fermis,
         sed mia frato tuj &gcirc;in de<tld/>e malfermis
         <fnt>
           <bib>F</bib>
@@ -474,12 +680,12 @@
         </fnt>;
       </ekz>
       <ekz>
-        de<tld/>e Adam ekkonis sian edzinon, kaj &scirc;i naskis filon, 
-        kaj donis al li la nomon Set: &ccirc;ar Dio metis al mi alian 
-        semon anstata&ubreve; Habel, kiun mortigis Kain
+        de<tld/>e <nom>Adam</nom> ekkonis sian edzinon, kaj &scirc;i naskis filon,
+        kaj donis al li la nomon <nom>Set</nom>: &ccirc;ar Dio metis al mi alian
+        semon anstata&ubreve; <nom>Habel</nom>, kiun mortigis <nom>Kain</nom>
         <fnt>
           <bib>MT</bib>
-          <lok>Genezo 4:25</lok>
+          <lok>&Gen; 4:25</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -518,7 +724,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        anta&ubreve; ses jaroj li forlasis la Palosan mona&hcirc;ejon, 
+        anta&ubreve; ses jaroj li forlasis la <nom>Palosan</nom> mona&hcirc;ejon,
         kaj forte maljuni&gcirc;inta li nun de<tld/>e eniras en &gcirc;in
         <fnt>
           <bib>FK</bib>
@@ -539,11 +745,19 @@
       <ref cel="foj.re0e">refoje</ref>
     </refgrp>
   </snc>
+  <trd lng="af">weer</trd>
+  <trd lng="am">&#x12A5;&#4757;&#x12F0;&#4872;&#4755;</trd>
+  <trd lng="ar">&a_m;&a_r;&a_t_marbuta; &a_A_hamza_sure;&a_kh;&a_r;&a_A_maqsura;</trd>
+  <trd lng="az">yenid&#601;n</trd>
   <trd lng="be">&c_z;&c_n;&c_o;&c_w;</trd>
+  <trd lng="bn">&#2438;&#x9AC;&#x9BE;&#x9B0;</trd>
+  <trd lng="bo">&t_ya;&t_nga;&t_tsheg;&t_sa;&t_kata;&t_yata;&t_ra;&t_tsheg;</trd>
   <trdgrp lng="br">
     <trd>a-nevez</trd>,
     <trd>en-dro</trd>
   </trdgrp>
+  <trd lng="bs">opet</trd>
+  <trd lng="co">di novu</trd>
   <trdgrp lng="cs">
   <trd>nanovo</trd>,
   <trd>op&ecaron;t</trd>,
@@ -551,20 +765,110 @@
   <trd>zase</trd>,
   <trd>znovu</trd>
   </trdgrp>
-  <trd lng="de">erneut</trd>
+  <trd lng="cy">eto</trd>
+  <trd lng="da">igen</trd>
+  <trdgrp lng="de">
+    <trd>erneut</trd>,
+    <trd>wieder</trd>,
+    <trd>noch einmal</trd>,
+    <trd>noch mal</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>again</trd>,
+    <trd>anew</trd>,
+    <trd>afresh</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>de nuevo</trd>,
     <trd>nuevamente</trd>
   </trdgrp>
+  <trd lng="et">j&auml;lle</trd>
+  <trd lng="eu">berriro</trd>
   <trdgrp lng="fr">
     <trd>&agrave; nouveau</trd>,
     <trd>de nouveau</trd>
   </trdgrp>
+  <trd lng="fy">wer</trd>
+  <trd lng="ga">ar&iacute;s</trd>
+  <trd lng="gd">a-rithist</trd>
+  <trd lng="gl">novo</trd>
+  <trd lng="gu">&#xAAB;&#xAB0;&#xAC0;&#xAA5;&#xAC0;</trd>
+  <trd lng="ha">kuma</trd>
+  <trd lng="hi">&#x92B;&#x93F;&#2352;</trd>
+  <trd lng="hmn">dua</trd>
+  <trd lng="hr">opet</trd>
+  <trd lng="ht">ank&ograve;</trd>
+  <trd lng="hy">&#x56F;&#1408;&#x56F;&#x56B;&#1398;</trd>
+  <trd lng="id">lagi</trd>
+  <trd lng="ig">&#x1ECD;z&#x1ECD;</trd>
+  <trd lng="is">aftur</trd>
+  <trd lng="ja">&#x518D;&#12403; [<ind>&#12405;&#x305F;&#x305F;&#12403;</ind>]</trd>
+  <trd lng="jv">maneh</trd>
+  <trd lng="ka">&#x10D4;&#x10E0;&#x10D7;&#x10EE;&#x10D4;&#x10DA;</trd>
+  <trd lng="kk">&#x49B;&c_a;&c_j;&c_t;&c_a;&c_d;&c_a;&c_n;</trd>
+  <trd lng="km">&#6023;&#x17B6;&#6032;&#x17D2;&#6040;&#x17B8;&#6040;&#x17D2;&#x178F;&#6020;&#6033;&#x17C0;&#x178F;</trd>
+  <trd lng="kn">&#xCAE;&#xCA4;&#xCCD;&#xCA4;&#xCC6;</trd>
+  <trd lng="ko">&#xB2E4;&#xC2DC;</trd>
+  <trd lng="ku">d&icirc;sa</trd>
+  <trd lng="ky">&c_d;&c_a;&c_g;&c_y; &c_b;&c_i;&c_r; &c_zh;&c_o;&c_l;&c_u;</trd>
+  <trd lng="lat">rursus</trd>
+  <trd
+  lng="lo">&#xEAD;&#xEB5;&#xE81;&#xEC0;&#xE97;&#xEB7;&#xEC8;&#xEAD;&#xEAB;&#xE99;&#xEB6;&#xEC8;&#xE87;</trd>
+  <trd lng="lt">v&#279;l</trd>
+  <trd lng="lv">atkal</trd>
+  <trd lng="mg">indray</trd>
+  <trd lng="mi">ano</trd>
+  <trd lng="mk">&c_p;&c_o;&c_v;&c_t;&c_o;&c_r;&c_n;&c_o;</trd>
+  <trd lng="ml">&#xD35;&#xD40;&#xD23;&#xD4D;&#xD1F;&#xD41;&#xD02;</trd>
+  <trd lng="mn">&c_d;&c_a;&c_h;&c_i;&c_n;</trd>
+  <trd lng="mr">&#x92A;&#2369;&#2344;&#x94D;&#2361;&#x93E;</trd>
+  <trd lng="ms">lagi</trd>
+  <trd lng="mt">darb&#8217;o&#295;ra</trd>
+  <trd lng="my">&#4116;&#4145;&#x102C;&#4096;&#x103A;&#4112;&#4118;&#4116;&#x103A;&#4129;</trd>
+  <trd lng="ne">&#x92B;&#2375;&#2352;&#x93F;</trd>
+  <trd lng="ny">kachiwiri</trd>
+  <trd lng="pa">&#xA28;&#xA42;&#xA70; &#xA2B;&#xA3F;&#xA30;</trd>
+  <trdgrp lng="pl">
+    <trd>na <ind>nowo</ind></trd>,
+    <trd>od <ind>nowa</ind></trd>,
+    <trd>znowu</trd>
+  </trdgrp>
+  <trd lng="ps">&a_b;&a_y;&a_A;</trd>
+  <trdgrp lng="ro">
+    <trd>din <ind>nou</ind></trd>,
+    <trd>totul din <ind>nou</ind></trd>,
+    <trd>iar&abreve;&#537;i</trd>
+  </trdgrp>
+  <trd lng="rw">na none</trd>
+  <trd lng="sd">&#x67B;&a_y;&a_h;&a_r;</trd>
+  <trd lng="si">&#xDB1;&#xDD0;&#xDC0;&#xDAD;</trd>
   <trdgrp lng="sk">
   <trd>nanovo</trd>,
   <trd>op&auml;&tcaron;</trd>,
   <trd>znova</trd>
   </trdgrp>
+  <trd lng="sl">ponovno</trd>
+  <trd lng="sm">toe</trd>
+  <trd lng="sn">zvakare</trd>
+  <trd lng="so">mar kale</trd>
+  <trd lng="sq">p&euml;rs&euml;ri</trd>
+  <trd lng="st">hape</trd>
+  <trd lng="su">deui</trd>
+  <trd lng="sw">tena</trd>
+  <trd lng="ta">&#xBAE;&#xBC0;&#xBA3;&#xBCD;&#xB9F;&#xBC1;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC2E;&#xC33;&#xC4D;&#xC33;&#xC40;</trd>
+  <trd lng="tg">&c_a;&c_z; &c_n;&c_a;&c_v;</trd>
+  <trd lng="th">&#xE2D;&#xE35;&#xE01;&#xE04;&#xE23;&#xE31;&#xE49;&#xE07;</trd>
+  <trd lng="tl">muli</trd>
+  <trd lng="tt">&c_t;&c_a;&c_g;&c_y;&c_n;</trd>
+  <trd lng="uk">&c_o;&c_v;&c_u;</trd>
+  <trd lng="ur">&f_p;&#x6BE;&a_r;</trd>
+  <trd lng="uz">yana</trd>
+  <trd lng="vi">m&#x1ED9;t l&#x1EA7;n n&#x1EEF;a</trd>
+  <trd lng="xh">kwakhona</trd>
+  <trd lng="yi">&vav;&vav;&yod;&dalet;&ayin;&resh;</trd>
+  <trd lng="yo">l&#x1EB9;&#x1EB9;kansi</trd>
+  <trd lng="zu">futhi</trd>
 </drv>
 
 <drv mrk="nov.mal0a">
@@ -591,11 +895,8 @@
       </ekz>
       <ekz>
         tiu &ccirc;i reciproka &gcirc;entileco estis &ccirc;e la amba&ubreve; familioj mal<tld/>a
-        
         moro, &ccirc;ar ili &ccirc;iuj estis tre amikaj inter si kaj vivis
-        
-        en
-        agrabla senceremonieco
+        en agrabla senceremonieco
         <fnt>
           <bib>BdV</bib>
         </fnt>.
@@ -646,21 +947,21 @@
     <dif>
       Longe uzita kaj do subkomprenante: difektita de la longa uzado:
       <ekz>
-        ili iris kaj provizis sin per man&gcirc;a&jcirc;oj, kaj metis mal<tld/>ajn 
+        ili iris kaj provizis sin per man&gcirc;a&jcirc;oj, kaj metis mal<tld/>ajn
         sakojn sur siajn azenojn kaj mal<tld/>ajn dis&scirc;iritajn kaj
         flikitajn vinsakojn
         <fnt>
           <bib>MT</bib>
-          <lok>Josuo 9:4</lok>
+          <lok>&Jos; 9:4</lok>
         </fnt>;
       </ekz>
       <ekz>
         &scirc;uoj mal<tld/>aj kaj flikitaj estis sur iliaj piedoj,
         kaj vestoj mal<tld/>aj estis sur ili, kaj ilia tuta
-        pano estis malfre&scirc;a kaj &scirc;imi&gcirc;inta 
+        pano estis malfre&scirc;a kaj &scirc;imi&gcirc;inta
         <fnt>
           <bib>MT</bib>
-          <lok>Josuo 9:5</lok>
+          <lok>&Jos; 9:5</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -668,7 +969,7 @@
         alie la felsakoj krevos, kaj la vino elfluos
         <fnt>
           <bib>NT</bib>
-          <lok>Mateo 9:17</lok>
+          <lok>&Mat; 9:17</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -682,8 +983,7 @@
     </dif>
     <rim>
       &Ccirc;i tiu senco aperas en PV kaj en la PIV-oj pro miskompreno
-      kaj eble pro nacilingva konfuzo kun <ref
-      cel="jun.mal0a">maljuna</ref>.
+      kaj eble pro nacilingva konfuzo kun <ref cel="jun.mal0a">maljuna</ref>.
       La ekzemploj en tiuj vortaroj estas egale nekonvinkaj.
       Objekto mal<tld/>a povas esti kaduka kaj malmultekosta,
       sed tio ne estas esenca parto de la nocio, kaj tute bone
@@ -713,7 +1013,10 @@
       <trd>&c_v;&c_je;&c_t;&c_h;&c_i;&c_j;</trd>
     </trdgrp>
   </snc>
-  <trd lng="be">&c_s;&c_t;&c_a;&c_r;&c_y;</trd>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_y;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_d;&c_a;&c_w;&c_n;&c_ib;</trd>
+  </trdgrp>
   <trd lng="br">kozh<klr tip="ind"> (n'eo ket nevez)</klr></trd>
   <trd lng="ca">antic</trd>
   <trd lng="cs">star&yacute; <klr>(v&ecaron;c)</klr></trd>
@@ -726,17 +1029,45 @@
   </trdgrp>
   <trd lng="he">&yod;&shin;&fnun;</trd>
   <trd lng="hu">r&eacute;gi</trd>
+  <trdgrp lng="id">
+    <trd>lama</trd>,
+    <trd>tua</trd>
+  </trdgrp>
   <trd lng="io">anciena</trd>
+  <trdgrp lng="ja">
+    <trd>&#x53E4;&#12356;  [<ind>&#12405;&#x308B;&#12356;</ind>]</trd>,
+    <trd>&#26132;&#x306E;  [<ind>&#12416;&#x304B;&#12375;&#x306E;</ind>]</trd>,
+    <trd>&#26132;&#x304B;&#12425;&#x306E;  [<ind>&#12416;&#x304B;&#12375;&#x304B;&#12425;&#x306E;</ind>]</trd>,
+    <trd>&#x53E4;&#12403;&#x305F;  [<ind>&#12405;&#x308B;&#12403;&#x305F;</ind>]</trd>,
+    <trd>&#x4F7F;&#12356;&#x53E4;&#12375;&#x305F;  [<ind>&#12388;&#x304B;&#12356;&#12405;&#x308B;&#12375;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">oud</trd>
   <trd lng="oc">ancian</trd>
+  <trdgrp lng="pl">
+    <trd>dawny</trd>,
+    <trd>dawna</trd>,
+    <trd>dawne</trd>,
+    <trd>stary</trd>,
+    <trd>stara</trd>,
+    <trd>stare</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>vechi</trd>,
+    <trd>fost</trd>
+  </trdgrp>
   <trd lng="sk">star&yacute; <klr>(o veci)</klr></trd>
   <trd lng="sv">gammal</trd>
+  <trd lng="th">&#xE40;&#xE01;&#xE48;&#xE32;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_n;&c_ib;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nov.mal0ajxo">
   <kap><ofc>*</ofc>mal<tld/>a&jcirc;o
   <fnt><bib>F</bib>, <lok>Universala Vortaro, -a&jcirc;'</lok></fnt></kap>
-  <snc>
+  <snc mrk="nov.mal0ajxo.io">
     <dif>
       Io jam de longe ekzistanta a&ubreve; konata:
       <ekz>
@@ -749,7 +1080,7 @@
       <ekz>
         diversaj mal<tld/>a&jcirc;oj staris kaj ku&scirc;is tie, bretaroj plenaj
         je foliujoj kaj dokumentoj delonge ne plu bezonataj, stakitaj
-        lernbenkoj kun inkmakulitaj surfacoj, stativo, &ccirc;e kiu pendis 
+        lernbenkoj kun inkmakulitaj surfacoj, stativo, &ccirc;e kiu pendis
         deko da mal<tld/>i&gcirc;intaj mapoj, pluraj tabuloj de kiuj falis la
         nigra farbo, rustintaj feraj fornoj, ne plu uzeblaj
         gimnastikiloj <klr>[&#8230;]</klr>
@@ -760,15 +1091,33 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#xE02;&#xE2D;&#xE07;&#xE40;&#xE01;&#xE48;&#xE32;</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_ja; &c_r;&c_e;&c_ch;</trd>,
+    <trd>&c_r;&c_y;&c_z;&c_m;&c_a;&c_n;</trd>,
+    <trd>&c_l;&c_a;&c_h;&c_m;&c_a;&c_n;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ra;&t_nyata;&t_gigu;&t_nga;&t_tsheg;&t_pa;&t_tsheg;</trd>
   <trdgrp lng="de">
     <trd>Antiquit&auml;t</trd>,
     <trd>Tr&ouml;del</trd>,
     <trd>altes Zeug</trd>
   </trdgrp>
+  <trd lng="en">old stuff</trd>
   <trdgrp lng="fr">
-    <trd>chose ancienne</trd>,
-    <trd>vieux truc</trd>.
+    <trd>anciennet&eacute;</trd>,
+    <trd>chose ancienne</trd>
+  </trdgrp>
+  <trd lng="ja">&#x53E4;&#29289;  [<ind>&#12371;&#12406;&#12388;</ind>]</trd>
+  <trd lng="pl">staro&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>b&abreve;tr&acirc;ne&#x21b;ea</trd>,
+    <trd>in varsta</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a; &c_r;&c_ib;&c_ch;</trd>,
+    <trd>&c_m;&c_o;&c_t;&c_l;&c_o;&c_h;</trd>
   </trdgrp>
 </drv>
 
@@ -777,14 +1126,14 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="nov.re0igi.KOMUNE">
     <dif>
-      Fari ree (e&ccirc; se alimanere) <tld/>a, &scirc;an&gcirc;ante
+      Fari ree (e&ccirc; se alimaniere) <tld/>a, &scirc;an&gcirc;ante
       mal<tld/>an
       ekzempleron, mal<tld/>ajn partojn:
       <ekz>
         re<tld/>igi kutimon;
       </ekz><ekz>
         Vi re<tld/>igas la viza&gcirc;on de la tero
-        <fnt><bib>MT</bib>, <lok>&Psa; 104:30</lok></fnt>;
+        <fnt><bib>MT</bib> <lok>&Psa; 104:30</lok></fnt>;
       </ekz>
       <ekz>
         la junaj knabinoj iris al la tablo de Dio, re<tld/>igis sian
@@ -803,14 +1152,13 @@
       </ekz>
       <ekz>
         en decembro 1999 okazis solena ina&ubreve;guro de la re<tld/>igita
-        katedralo, 
+        katedralo,
         kun granda religia festo kaj koncertoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Josette Ducloyer</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006851.html">Francio:
-          Quimper</url></vrk>
+          <vrk><url ref="&Monato;/2000/006851.php">Quimper</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -824,11 +1172,16 @@
     <refgrp tip="vid">
       <ref cel="fresx.re0igi">refre&scirc;igi</ref>
     </refgrp>
+    <trdgrp lng="th">
+      <trd>&#xE1B;&#xE23;&#xE31;&#xE1A;&#xE1B;&#xE23;&#xE38;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;</trd>,
+      <trd>&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;&#xE41;&#xE1B;&#xE25;&#xE07;&#xE43;&#xE2B;&#xE21;&#xE48;</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_b;&c_n;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_d;&c_n;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="bo">&t_nya;&t_ma;&t_sa;&t_tsheg;&t_ga;&t_sa;&t_naro;&t_tsheg;&t_ba;&t_yata;&t_drengbu;&t_da;&t_tsheg;</trd>
   <trdgrp lng="br">
       <trd>adnevezi&ntilde;<klr tip="ind"> (v.k.)</klr></trd>,
       <trd>nevezi&ntilde;<klr tip="ind"> (v.k.)</klr></trd>
@@ -838,7 +1191,15 @@
   <trd>obnovit</trd>,
   <trd>rekonstruovat</trd>
   </trdgrp>
-  <trd lng="de">renovieren</trd>
+  <trdgrp lng="de">
+    <trd>renovieren</trd>,
+    <trd>erneuern</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>renovate</trd>,
+    <trd>refurbish</trd>,
+    <trd>renew</trd>
+  </trdgrp>
   <trd lng="es">renovar</trd>
     <trd lng="fr">renouveler</trd>
   <trdgrp lng="hu">
@@ -846,11 +1207,39 @@
       <trd>meg&uacute;j&iacute;t</trd>,
       <trd>fel&uacute;j&iacute;t</trd>
     </trdgrp>
-  <trd lng="ru">&c_o;&c_b;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
-  <trdgrp lng="sk">
-  <trd>obnovi&tcaron;</trd>,
-  <trd>rekon&scaron;truova&tcaron;</trd>,
-  <trd>renovova&tcaron;</trd>
+    <trdgrp lng="id">
+      <trd>memper<ind>baru</ind>i</trd>,
+      <trd>mem<ind>baru</ind>i</trd>,
+      <trd>me<ind>renovasi</ind></trd>
+    </trdgrp>
+    <trdgrp lng="ja">
+    <trd>&#x66F4;&#x65B0;&#12377;&#x308B;  [<ind>&#12371;&#12358;&#12375;&#12435;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x4FEE;&#x5FA9;&#12377;&#x308B;  [<ind>&#12375;&#12421;&#12358;&#12405;&#x304F;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+      <trd>od&sacute;wie&zdot;a&cacute;</trd>,
+      <trd>ponawia&cacute;</trd>,
+      <trd>wznawia&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>re&icirc;mprosp&abreve;ta</trd>,
+      <trd>&icirc;nnoi</trd>,
+      <trd>restabili</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_b;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
+    <trdgrp lng="sk">
+      <trd>obnovi&tcaron;</trd>,
+      <trd>rekon&scaron;truova&tcaron;</trd>,
+      <trd>renovova&tcaron;</trd>
+    </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_n;&c_o;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_n;&c_o;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_n;&c_o;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_n;&c_o;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_ib;&c_n;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_ib;&c_n;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_je;&c_s;&c_t;&c_a;&c_v;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -869,9 +1258,10 @@
         <ind>re<tld/>i&gcirc;antaj energifontoj</ind>
         <fnt>
           <aut>J. Werner</aut>,
-          <vrk>Nuklea energio: ne fidu la respondeculojn</vrk>,
+          <vrk><url ref="&Monato;/2002/007909.html">Nuklea energio: ne fidu la
+          respondeculojn&gt;</url></vrk>,
           <bib>Monato</bib>,
-          <lok>2002:10, p. 19a</lok></fnt>.
+          <lok>2002/10, p. 19</lok></fnt>.
         <trd lng="ru">&c_v;&c_o;&c_z;&c_o;&c_b;&c_n;&c_o;&c_v;&c_l;&c_ja;&c_je;&c_m;&c_y;&c_je;
         &c_i;&c_s;&c_t;&c_o;&c_ch;&c_n;&c_i;&c_k;&c_i;
         &c_e;&c_n;&c_je;&c_r;&c_g;&c_i;&c_i;</trd>
@@ -887,35 +1277,138 @@
     <trd>adnevezi&ntilde;<klr tip="ind"> (v.g.)</klr></trd>,
     <trd>nevezi&ntilde;<klr tip="ind"> (v.g.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>renew itself</trd>,
+    <trd>become new again</trd>
+  </trdgrp>
   <trd lng="es">renovarse</trd>
   <trd lng="fr">se <ind>renouveler</ind></trd>
   <trd lng="hu">meg&uacute;jul</trd>
+  <trd lng="id">mem<ind>baru</ind></trd>
+  <trd lng="pl">odnawia&cacute; si&eogonek;</trd>
+  <trd lng="ro">re&icirc;nnoi</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_b;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_v;&c_o;&c_z;&c_o;&c_b;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_n;&c_o;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_n;&c_o;&c_v;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_n;&c_o;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_n;&c_o;&c_v;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nov.tromp0ajxo">
+  <kap>
+    tromp<tld/>a&jcirc;o
+  </kap>
+  <snc mrk="nov.tromp0ajxo.INF">
+    <dif>
+      Intence mal&gcirc;usta informo, erariga <tld/>a&jcirc;o:
+      <ekz>
+        la multi&gcirc;o de la tromp<tld/>a&jcirc;oj ilustras la invadon de la publika spaco per
+        mensogoj
+        <fnt>
+          <aut>A.-C. Robert, trad. V. Lutermano</aut>
+          <vrk><url ref="&Mondediplo;article2922.html">Malapero de la
+          debatospaco</url></vrk>
+          <lok>Le Monde diplomatique, 2021-04-01</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="th">
+      <trd>&#xE02;&#xE48;&#xE32;&#xE27;&#xE1B;&#xE25;&#xE2D;&#xE21;</trd>,
+      <trd>&#xE02;&#xE48;&#xE32;&#xE27;&#xE25;&#xE27;&#xE07;</trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="nov.falsa_0ajxo.INF">falsa nova&jcirc;o</ref>,
+    <ref cel="inform.mis0o">misinformo</ref>,
+    <ref cel="mistifik.0o">mistifiko</ref>.
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_a;&c_l;&c_mol;&c_sh;&c_y;&c_v;&c_a;&c_ja; <ind>&c_n;&c_a;&c_v;&c_ib;&c_n;&c_a;</ind></trd>,
+    <trd>&c_f;&c_e;&c_j;&c_k;&c_a;&c_v;&c_a;&c_ja; <ind>&c_n;&c_a;&c_v;&c_ib;&c_n;&c_a;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Fake News</trd>
+  <trdgrp lng="en">
+    <trd>hoax</trd>,
+    <trd>fake news</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>infoxe</trd>,
+    <trd>intoxe</trd>
+  </trdgrp>
+  <trd lng="pl">fa&lstroke;szywa nowinka</trd>
+  <trd lng="ro">ve&#537;ti false</trd>
+</drv>
+
+<drv mrk="nov.falsa_0ajxo">
+  <kap>
+    falsa <tld/>a&jcirc;o
+  </kap>
+  <snc mrk="nov.falsa_0ajxo.INF">
+    <dif>
+      Mal&gcirc;usta, erariga informo pri <tld/>a&jcirc;o:
+      <ekz>
+        falsaj <tld/>a&jcirc;oj estas pli kaj pli popularaj inter interretuloj
+        <fnt>
+          <aut>komika</aut>
+          <vrk><url
+          ref="https://www.hebergementwebs.com/komika/coup-de-coeur-fake-news-the-info-which-does-not-turn-round-the-manual-which-demystifies-the-trueers">Falsaj
+          nova&jcirc;oj, mal&gcirc;ustaj informoj, la manlibro, kiu senvivigas la veremulojn</url></vrk>
+          <lok>2021-04-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="th">&#xE02;&#xE48;&#xE32;&#xE27;&#xE1B;&#xE25;&#xE2D;&#xE21;</trd>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="nov.tromp0ajxo.INF">trompnova&jcirc;o</ref>.
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_a;&c_l;&c_mol;&c_sh;&c_y;&c_v;&c_a;&c_ja; <ind>&c_n;&c_a;&c_v;&c_ib;&c_n;&c_a;</ind></trd>,
+    <trd>&c_f;&c_e;&c_j;&c_k;&c_a;&c_v;&c_a;&c_ja; <ind>&c_n;&c_a;&c_v;&c_ib;&c_n;&c_a;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Falschmeldung</trd>,
+    <trd>Zeitungsente</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>canard</trd>,
+    <trd>false report</trd>
+  </trdgrp>
+  <trd lng="fr">fausse nouvelle</trd>
+  <trd lng="nl">fake news</trd>
+  <trd lng="pl">fa&lstroke;szywa wiadomo&sacute;&cacute;</trd>
+  <trd lng="pt">not&iacute;cia falsa</trd>
+  <trd lng="ro">&#537;tiri false</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.39  2018/04/13 14:10:16  revo
-Dmitri Gabinski: +trd be
+versio 1.140 2023/09/05 12:43:07
+Wolfram Diestel: kor. ro t-comma
 
-Revision 1.38  2018/01/14 14:10:15  revo
-Wolfram Diestel: prilaboris ekz-ojn, +~ismo BELA
+versio 1.138 2023/08/29 16:34:58
+Wolfram Diestel: ja: prononco
 
-Revision 1.37  2017/12/19 10:10:24  revo
-Michel Cantigneaux: fundamenta "malnovajxo" el la U.V.
+versio 1.137 2023/08/29 15:27:50
+Wolfram Diestel: ja: prononco
 
-Revision 1.36  2016/12/02 19:10:15  revo
-Robin van der Vliet: +trd
+versio 1.136 2023/06/24 20:27:29
+Christian Siefkes: +trd de, en
 
-Revision 1.35  2016/07/11 17:10:25  revo
-Carlos Garcia: +trd es -ajxo (krktd) de-e re-igi re-igxi
+versio 1.135 2023/06/20 08:30:34
+Dmitri Gabinski: + trd be
 
-Revision 1.34  2016/07/02 20:10:27  revo
-Jeromo Vasxe: kadika -> kaduka
+versio 1.134 2023/05/27 08:29:00
+Paul Peeraerts:  + lok + trd nl
 
-Revision 1.33  2015/07/04 08:37:40  revo
+versio 1.133 2023/04/13 16:34:16
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.132 2023/04/12 12:45:53
 -->
 </vortaro>

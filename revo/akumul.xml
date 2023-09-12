@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: akumul.xml,v 1.32 2010/06/17 16:31:14 revo Exp $">
+<art mrk="$Id: akumul.xml,v 1.41 2023/08/30 18:23:32 revo Exp $">
 <kap>
   <rad>akumul</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -60,7 +59,8 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_z;&c_a;&c_p;&c_a;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>,
-    <trd>&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
+    <trd>&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="ca">acumular</trd>
   <trdgrp lng="cs">
@@ -72,16 +72,24 @@
     <trd>accumuler</trd>,
     <trd>amasser</trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5B4;&#x5E6;&#x5B0;&#x5D1;&#x5BC;&#x5D5;&#x5B9;&#x5E8;</trd>
   <trdgrp lng="hu">
     <trd>felhalmoz</trd>,
     <trd>akkumul&aacute;l</trd>
   </trdgrp>
+  <trd lng="ja">&#x84C4;&#x7A4D;&#x3059;&#x308B;  [<ind>&#x3061;&#x304F;&#x305B;&#x304D;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">accumuleren</trd>
   <trd lng="pt">acumular</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_p;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_k;&c_o;&c_p;&c_l;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_a;&c_k;&c_k;&c_u;&c_m;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_g;&c_r;&#x43E;&#x43C;&c_a;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&#x43A;&#x43E;&#x43F;&c_i;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_a;&#x43A;&c_u;&#x43C;&c_u;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -133,6 +141,7 @@
     </trdgrp>
     <trd lng="sk">hromadn&yacute; <klr>(bod)</klr></trd>
   </snc>
+  <trd lng="he">&#x5D4;&#x5E6;&#x5D8;&#x5D1;&#x5E8;&#x5D5;&#x5EA;</trd>
 </drv>
 
 <drv mrk="akumul.0igxi">
@@ -151,7 +160,18 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_z;&c_a;&c_p;&c_a;&c_sh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="fr">s'<ind>accumuler</ind></trd>
+  <trd lng="he">&#x5DC;&#x5E6;&#x5D1;&#x5D5;&#x5E8;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x305F;&#x307E;&#x308B;</trd>,
+    <trd>&#x96C6;&#x307E;&#x308B;  [<ind>&#x3042;&#x3064;&#x307E;&#x308B;</ind>]</trd>,
+    <trd>&#x84C4;&#x7A4D;&#x3059;&#x308B;  [<ind>&#x3061;&#x304F;&#x305B;&#x304D;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akumul.0ejo">
@@ -173,9 +193,10 @@
   <trd lng="ca">acumulador <klr>(de calculador)</klr></trd>
   <trdgrp lng="cs">
     <trd>registr</trd>,
-    <trd>střádač</trd>
+    <trd>st&rcaron;&#xE1;da&#x10D;</trd>
   </trdgrp>
   <trd lng="en">accumulator</trd>
+  <trd lng="he">&#x5D4;&#x5E6;&#x5D8;&#x5D1;&#x5E8;&#x5D5;&#x5EA;</trd>
   <trd lng="hu">akkumul&aacute;tor</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_u;&c_m;&c_m;&c_a;&c_t;&c_o;&c_r;</trd>,
@@ -190,15 +211,24 @@
     <uzo tip="fak">ELE</uzo>
     <ref tip="dif" cel="akumul1.0o">akumulatoro</ref>
   </snc>
+  <trd lng="be">&c_a;&c_k;&c_u;&c_m;&c_a;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
   <trd lng="ca">acumulador <klr>(d'energia)</klr></trd>
-  <trd lng="cs">akumulátor</trd>
+  <trd lng="cs">akumul&#xE1;tor</trd>
+  <trd lng="he">&#x5DE;&#x5B7;&#x5E6;&#x5D1;&#x5BC;&#x5B5;&#x5E8;</trd>
   <trd lng="hu">akkumul&aacute;tor</trd>
+  <trd lng="ja">&#x84C4;&#x96FB;&#x6C60;  [<ind>&#x3061;&#x304F;&#x3067;&#x3093;&#x3061;</ind>]</trd>
   <trd lng="ru">&c_a;&c_k;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
-  <trd lng="sk">akumulátor</trd>
+  <trd lng="sk">akumul&#xE1;tor</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.40 2022/03/24 07:29:23
+Dmitri Gabinski: + trd be
+
+versio 1.39 2022/03/16 15:39:09
+Wolfram Diestel: kor. trd
+
 Revision 1.35  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -215,14 +245,5 @@ Revision 1.31  2005/06/15 16:32:26  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.30  2003/09/10 16:30:44  revo
-Yury Finkel: +trd ru
-
-Revision 1.29 2003/05/28 16:30:59 revo
-Sergio Pokrovskij: dif, +~ilo, +~ejo
-
-Revision 1.28 2003/05/18 18:00:16 revo
-Viliam Bur: +trd sk
-
-Revision 1.27 2003/05/09 16:31:07 revo
 -->
 </vortaro>

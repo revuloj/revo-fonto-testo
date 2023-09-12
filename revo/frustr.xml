@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frustr.xml,v 1.4 2009/03/01 17:32:00 revo Exp $">
+<art mrk="$Id: frustr.xml,v 1.13 2023/08/31 13:11:32 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>frustr</rad>/i <fnt><bib>NeoGlo</bib></fnt>,
-  <var><kap><rad>frustraci</rad>/i <fnt><bib>PIV1</bib></fnt></kap></var>
+  <var><kap><rad var="aci">frustraci</rad>/i <fnt><bib>PIV1</bib></fnt></kap></var>
 </kap>
 <drv mrk="frustr.0i">
-  <kap><ofc>9</ofc><tld/>i, <var><kap>frustracii</kap></var></kap>
+  <kap><ofc>9</ofc><tld/>i, <var><kap><tld var="aci"/>i</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
   <snc mrk="frustr.0i.KOMUNE">
     <uzo tip="stl">KOMUNE</uzo>
    <dif>
@@ -28,61 +28,73 @@
         <tld/>itaj instruistoj klopodis inici min kaj miajn samklasanojn en la sekretojn
         de algebro, trigonometrio kaj logaritmoj
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007921.html">Ho, mistera pi!</url></vrk>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2003/007921.html">Ho, mistera pi!</url></vrk>
-          <lok>2003</lok>
+          <lok>2003/06, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
         la afero entute iel <tld/>is min iom post iom
         <fnt>
-          <bib>Monato</bib>
           <aut>Gotoo Hitosi</aut>
-          <vrk><url ref="https://www.monato.be/2011/010354.php">Frustri&gcirc;o de mar&gcirc;ena suferanto</url></vrk>
-          <lok>2011</lok>
+          <vrk><url ref="&Monato;/2011/010354.php">Frustri&gcirc;o de mar&gcirc;ena
+          suferanto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/06, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
-        pli ol 13&#8239;000 tagoj Israelo submetas la palestinanojn al arbitra kaj degradanta
+        pli ol 13&#x202F;000 tagoj Israelo submetas la palestinanojn al arbitra kaj degradanta
         okupado, &ccirc;u strange se homoj kiuj neniam spertis personan a&ubreve; kolektivan
         liberecon ekprovokas pro <tld/>i&gcirc;o
         <fnt>
-          <bib>Monato</bib>
           <aut>Eskil Svane</aut>
-          <vrk><url ref="https://www.monato.be/2003/008197.html">Misinformaj komentoj</url></vrk>
-          <lok>2003</lok>
+          <vrk><url ref="&Monato;/2003/008197.html">Misinformaj komentoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/11, p. 6</lok>
         </fnt>;
       </ekz>   
       <ekz>
-        post longa tempo &scirc;i ellasis malesperan krieton kaj frustracie reiris
+        post longa tempo &scirc;i ellasis malesperan krieton kaj <tld var="aci"/>e reiris
         en sian &ccirc;ambron
         <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 100a, volumo 3a, p.
         295a</lok></fnt>;
       </ekz>
       <ekz>
         apetitoveka interman&gcirc;eto, samtempe bongusta kaj sanefika: tiu ekzistas ne nur en
-        la revoj de prodietaj frustraciitoj, sed anka&ubreve; estas firmi&gcirc;inta realo en Kipro
+        la revoj de prodietaj <tld var="aci"/>itoj, sed anka&ubreve; estas firmi&gcirc;inta realo en Kipro
         <fnt>
-          <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.be/2011/010535.php">Sanige ... kaj sensukere</url></vrk>
-          <lok>2011</lok>
+          <vrk><url ref="&Monato;/2011/010535.php">Sanige ... kaj sensukere</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/12, p. 13</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="de">frustrieren</trd>
   <trd lng="en">frustrate</trd>
+  <trdgrp lng="es">
+    <trd>frustrar</trd>,
+    <trd>decepcionar</trd>
+  </trdgrp>
   <trd lng="fr">frustrer</trd>
+  <trd lng="ja">&#x6B32;&#x6C42;&#x4E0D;&#x6E80;&#x3092;&#x8D77;&#x3053;&#x3055;&#x305B;&#x308B;  [<ind>&#x3088;&#x3063;&#x304D;&#x3085;&#x3046;&#x3075;&#x307E;&#x3093;&#x3092;&#x304A;&#x3053;&#x3055;&#x305B;&#x308B;</ind>]</trd>
   <trdgrp lng="pt">
     <trd>frustrar</trd>,
     <trd>decepcionar</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_z;&c_a;&#x43A;&#x43E;&#x43D;&#x43D;&#x43E; &#x43F;&#x43E;&c_z;&c_b;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i;
+    &c_ch;&#x43E;&c_g;&#x43E;-&#x43D;.</trd>,
+    <trd>&#x43E;&c_b;&#x43C;&c_a;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i; &c_v; &#x43E;&#x43C;&c_a;&#x43D;&c_u;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frustr.0o">
-  <kap><tld/>o, <var><kap>frustracio</kap></var></kap>
+  <kap><tld/>o, <var><kap><tld var="aci"/>o</kap></var></kap>
   <snc mrk="frustr.0o.KOMUNE">
     <uzo tip="stl">KOMUNE</uzo>
     <dif>
@@ -101,27 +113,27 @@
         &ccirc;iuj ludantoj gajnas kutime ne malpli ol unu trufegon, kaj tio minimumigas la
         eventualan <tld/>acion pri perdo
         <fnt>
-          <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.be/2014/011351.php">Trufludo</url></vrk>
-          <lok>2014</lok>
+          <vrk><url ref="&Monato;/2014/011351.php">Trufludo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/11, p. 25</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la kolero, la detruemo, la frustracio de elementoj en la subaj tavoloj de la
+        la kolero, la detruemo, la <tld var="aci"/>o de elementoj en la subaj tavoloj de la
         socio
         <fnt>
-          <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="https://www.monato.be/2011/010478.php">Malstulta sezono</url></vrk>
-          <lok>2011</lok>
+          <vrk><url ref="&Monato;/2011/010478.php">Malstulta sezono</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/10, p. 7</lok>
         </fnt>;
       </ekz>
       <ekz>
         samkiel &ccirc;iuj totalismoj, Islamismo nutri&gcirc;as de la timo kaj la <tld/>o
         <fnt>
-          <vrk><url ref="http://www.delbarrio.eu/manifesto12.htm"
-              >Manifesto de la Dek Du pri totalismo, en Esperanto</url></vrk>
+          <vrk><url ref="http://www.delbarrio.eu/manifesto12.htm">Manifesto de la Dek Du pri
+          totalismo, en Esperanto</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -140,13 +152,33 @@
     <trd>Ohnmachtsgef&uuml;hl</trd>
   </trdgrp>
   <trd lng="en">frustration</trd>
+  <trd lng="es">frustraci&oacute;n</trd>
   <trd lng="fr">frustration</trd>
   <trd lng="pt">frustra&ccedil;&atilde;o</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_r;&c_u;&c_s;&c_t;&c_r;&c_a;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&c_s;&c_t;&c_a;&#x43D; &#x43D;&c_je;&c_v;&c_d;&#x43E;&c_v;&#x43E;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.12 2023/05/12 06:30:50
+Paul Peeraerts: + url + lok
+
+versio 1.11 2023/01/16 07:26:51
+Wolfram Diestel: +tr
+
+versio 1.10 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.8 2020/09/09 16:10:32
+Wolfram Diestel: +tld-var
+
+versio 1.7 2020/08/16 12:10:49
+Guillermo Molleda Jimena: trd es
+
 Revision 1.5  2014/04/14 12:10:22  revo
 Damien Brucker: +trd fr
 
@@ -154,13 +186,5 @@ Revision 1.4  2009/03/01 17:32:00  revo
 Russ Williams: +trd en 9OA
 
 Revision 1.3  2007/06/13 16:32:37  revo
-Tulio Flores: +tr pt
-
-Revision 1.2  2006/03/08 17:33:07  revo
-Tulio Flores: +tr pt
-
-Revision 1.1  2006/03/02 17:31:44  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

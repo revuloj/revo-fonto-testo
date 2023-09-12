@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: depon.xml,v 1.17 2009/09/14 16:31:05 revo Exp $">
+<art mrk="$Id: depon.xml,v 1.34 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>depon</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,32 +12,60 @@
   <snc mrk="depon.0i.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Konfidi al iu multvalora&jcirc;on gardotan:
+      <ref tip="super" cel="konfid.0i.fidante_transdoni">Konfidi</ref> 
+      al iu multvalora&jcirc;on gardotan:
       <ekz>
-        <tld/>i monon en banko<fnt>Z</fnt>;
+        ili demetu de si siajn vestojn <klr>[&#x2026;]</klr> kaj <tld/>u ilin en la sanktaj
+        &ccirc;ambroj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 44:19</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i monon en &scirc;parkaso;
+        oni ser&ccirc;u en la domo <klr>[&#x2026;]</klr> kie la trezoroj estis <tld/>itaj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ezra 6:1</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i paka&jcirc;on en stacia pakgardejo;
+        li trompe forprenis <klr>[&#x2026;]</klr> la <tld/>ita&jcirc;on <klr>[&#x2026;]</klr> <tld/>ita &ccirc;e
+        li
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 6:4</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i provizon da man&gcirc;a&jcirc;oj en
-        la kabano;
+        mia mono <klr>[&#x2026;]</klr> estas <tld/>ita en la oficejo
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        ili <tld/>u la vestojn en la sanktaj &ccirc;ambroj
-        <fnt><bib>MT</bib>, <lok>&Jeh; 44:19</lok></fnt>;
+        la bieno estis vendita kaj la mono <tld/>ita
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        &ccirc;iu traktato devas esti
-        <tld/>ita en la Sekretariejo de la Ligo;
-      </ekz>
-      <ekz>
-        <tld/>ita&jcirc;on trompe forpreni<fnt>Z</fnt>.
+        la materialon oni tamen povis savi, &ccirc;ar &gcirc;i estis &gcirc;ustatempe <tld/>ita en la
+        kastela kelo
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="konser.0i.protekti">konservi<sncref/></ref>,
+      <ref cel="stok.0i">stoki</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_e;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_a;&c_d;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; &c_n;&c_a; <ind>&c_d;&c_e;&c_p;&c_a;&c_z;&c_y;&c_t;</ind></trd>
+    </trdgrp>
     <trdgrp lng="ca">
       <trd>ingressar</trd>,
       <trd>dipositar</trd>
@@ -88,14 +115,13 @@
   <snc mrk="depon.0i.GEOL">
     <uzo tip="fak">GEOL</uzo>
     <dif>
-      Surfundigi, precipitigi, postlasi sur io:
+      Surfundigi, <ref cel="precip1.0i.MET">precipiti</ref>, postlasi sur io:
       <ekz>
         la sablo, se &gcirc;i ne estus elprenita, sin <tld/>us
         pli fore kaj &gcirc;enus la funkciadon de la stacio
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref="http://eo.wikipedia.org/wiki/Prilaboro_de_la_uzitaj_akvoj">
+          <lok><url ref="&Viki;/Prilaboro_de_la_uzitaj_akvoj">
           Prilaboro de la uzitaj akvoj</url>, 2012-06-16</lok>
         </fnt>.
       </ekz>
@@ -104,13 +130,27 @@
       <ref cel="precip1.0i.KEM">precipiti</ref>,
       <ref cel="sedime.0igxi.GEOL">sedimenti&gcirc;i</ref>
     </refgrp>
+    <trd lng="be">&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">ablagern</trd>
     <trd lng="fr">d&eacute;poser<klr> (hydrol.)</klr></trd>
   </snc>
   <trdgrp lng="cs">
-    <trd>provádět přepis <klr>(části dat z jedné paměti do jiné)</klr></trd>,
-    <trd>provádět výpis</trd>
+    <trd>prov&aacute;d&ecaron;t p&rcaron;epis <klr>(&ccaron;&aacute;sti dat z jedn&eacute; pam&ecaron;ti do jin&eacute;)</klr></trd>,
+    <trd>prov&aacute;d&ecaron;t v&yacute;pis</trd>
   </trdgrp>
-  <trd lng="sk">uložiť do úschovy</trd>
+  <trd lng="he">&lamed;&#x5B0;&he;&#x5B7;&pe;&#x5B0;&qof;&#x5B4;&yod;&dalet;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9810;&#x3051;&#x308B;  [<ind>&#x3042;&#x305A;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x9810;&#x91D1;&#x3059;&#x308B;  [<ind>&#x3088;&#x304D;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x4FDD;&#x5B58;&#x3059;&#x308B;  [<ind>&#x307B;&#x305E;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="sk">ulo&zcaron;i&tcaron; do &uacute;schovy</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_b;&c_je;&c_r;&c_ib;&c_g;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &#x43D;&c_a; &c_z;&c_b;&c_je;&c_r;&c_ib;&c_g;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_v;&#x43D;&#x43E;&c_s;&c_i;&c_t;&c_i; &c_v;&#x43A;&#x43B;&c_a;&c_d; (&c_u; &c_b;&c_a;&#x43D;&#x43A;)</trd>,
+    <trd>&c_d;&c_je;&#x43F;&#x43E;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="depon.0ajxo">
@@ -118,8 +158,24 @@
   <snc mrk="depon.0ajxo.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Tio, kion iu <tld/>as.
+      Tio, kion iu <tld/>as:
+      <ekz>
+        anstata&ubreve;igi la privatan proprieton per la komuna <klr>[&#x2026;]</klr>, tiel ke &gcirc;iaj
+        membroj ne havos e&ccirc; unu cendon da <tld/>a&jcirc;o
+        <fnt>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2011/010245.php">Floras enklavo komunista</url></vrk>
+           <bib>Monato</bib>
+          <lok>2011/02, p. 14</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_e;&c_p;&c_a;&c_z;&c_y;&c_t;</trd>,
+      <trd>&c_u;&c_k;&c_l;&c_a;&c_d; <klr>(&c_d;&c_e;&c_p;&c_a;&c_z;&c_y;&c_t;&c_n;&c_y;)</klr></trd>,
+      <trd>&c_d;&c_e;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_n;&c_a;&c_ja; &c_r;&c_e;&c_ch;</trd>
+    </trdgrp>
+    <trd lng="de">Verwahrgut</trd>
     <trd lng="fr">d&eacute;p&ocirc;t<klr> (de valeur)</klr></trd>
   </snc>
   <snc mrk="depon.0ajxo.GEOL">
@@ -130,7 +186,7 @@
       te&hcirc;nika okazo:
       <ekz>
         ostoj de terciaraj mamuloj estis malkovritaj
-        <klr>...</klr> en lagaj <tld/>a&jcirc;oj
+        <klr>[&#x2026;]</klr> en lagaj <tld/>a&jcirc;oj
         <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 9a</lok></fnt>.
       </ekz>
     </dif>
@@ -138,8 +194,25 @@
       <ref cel="fecx.0o.AGR">fe&ccirc;o<sncref/></ref>,
       <ref cel="sedime.0o">sedimento</ref>
     </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;</trd>,
+      <trd>&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_g;&c_je;&c_a;&c_l;.)</klr></trd>
+    </trdgrp>
+    <trd lng="de">Ablagerung</trd>
     <trd lng="fr">d&eacute;p&ocirc;t<klr> (g&eacute;ol.)</klr></trd>
   </snc>
+  <trd lng="he">&pe;&qof;&dalet;&vav;&fnun;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9810;&#x3051;&#x7269;  [<ind>&#x3042;&#x305A;&#x3051;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x59D4;&#x8A17;&#x7269;  [<ind>&#x3044;&#x305F;&#x304F;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x9810;&#x3051;&#x91D1;  [<ind>&#x3042;&#x305A;&#x3051;&#x304D;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_ch;</trd>,
+    <trd>&c_z;&c_d;&c_a;&#x43D;&c_a; &#x43D;&c_a; &c_z;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_v;&#x43D;&c_je;&c_s;&#x43E;&#x43A;</trd>,
+    <trd>&c_d;&c_je;&#x43F;&#x43E;&c_z;&c_i;&c_t;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="depon.0ejo">
@@ -147,14 +220,71 @@
   <snc mrk="depon.0ejo.loko">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Loko, kie oni <tld/>as multvalora&jcirc;on gardotan.
+      Loko, kie oni <tld/>as multvalora&jcirc;on gardotan:
+      <ekz>
+        du longajn murojn okupis <tld/>ejoj por dokumentoj kaj ricevitaj leteroj,
+        argilaj kaj papirusaj
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili estas anka&ubreve; dokumento-<tld/>ejoj kaj konsultejoj por historiistoj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la apuda pordo ekzemple indikas: kiras<tld/>ejo
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        enuigaj havenaj instala&jcirc;oj, <tld/>ejoj, staploj kaj al la tristaj kontor&ccirc;eloj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en Serbio estis konstruitaj novaj municio-<tld/>ejoj
+        <fnt>
+          <aut>Dimitrije Jani&ccaron;i&cacute;</aut>
+          <vrk><url ref="&Monato;/2013/010867.php">Detruo-dilemo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/01, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni planas anka&ubreve; la konstruon de grandaj gas<tld/>ejoj en Albanio
+        <fnt>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2013/010879.php">TAP: projekto por sud-e&ubreve;ropa
+          gaskoridoro</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/01, p. 16</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="arhxiv.0ejo">ar&hcirc;ivejo</ref>,
+      <ref cel="arsena.0o.armilejo">arsenalo<sncref/></ref>,
+      <ref cel="met.for0ejo">formetejo</ref>,
+      <ref cel="konser.0ejo">konservejo</ref>,
+      <ref cel="proviz.0ejo">provizejo</ref>,
+      <ref cel="stok.0ejo">stokejo</ref>,
+      <ref cel="ten.0ejo">tenejo</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_e;&c_p;&c_o;</trd>,
+      <trd>&c_s;&c_h;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Depot</trd>,
       <trd>Aufbewahrungsstelle</trd>
     </trdgrp>
     <trdgrp lng="fa">
-      <trd>&a_A;&a_n;&a_b;&a_A;&a_r; &a_s;&f_p;&a_r;&a_d;&a_h;&zwnj;&a_h;&a_A;</trd>,
+      <trd>&a_A;&a_n;&a_b;&a_A;&a_r; &a_s;&f_p;&a_r;&a_d;&a_h;&#x200C;&a_h;&a_A;</trd>,
       <trd>&a_s;&f_p;&a_r;&a_d;&a_n;&f_g;&a_A;&a_h;</trd>
     </trdgrp>
     <trdgrp lng="hu">
@@ -172,11 +302,96 @@
       <trd>&c_s;&c_k;&c_l;&c_a;&c_d;</trd>
     </trdgrp>
   </snc>
+  <snc mrk="depon.0ejo.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      <ref tip="dif" cel="kusx.0ejo.GEOL">Ku&scirc;ejo<sncref/></ref> de 
+      mineralo <ref cel="depon.0i.GEOL">deponita<sncref/></ref>:
+      <ekz>
+        Usono havas vastajn <tld/>ejojn de skisto kaj natura gaso
+        <fnt>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2013/011023.php">Frakasado igos Usonon
+          energio-sendependa</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/07, p. 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_d;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+    <trd lng="de">Lagerst&auml;tte</trd>
+  </snc>
+  <snc mrk="depon.0ejo.KOMUNE">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Loko, kien oni formetas grandajn kvantojn da &scirc;uta&jcirc;o, rubo ks:
+      <ekz>
+        <tld/>ejo de skorio, cindro, sablo;
+      </ekz>
+      <ekz>
+        arkeologoj malkovris rubo<tld/>ejon el la tria jarcento
+        <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2011/010488.php">Rubo de la romianoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/10, p. 19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ejoj de poluitaj resta&jcirc;oj
+        <fnt>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2010/009967.php">Adia&ubreve; al la nuklea &scirc;tato</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/03, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aran&gcirc;o de <tld/>ejo de uzita nuklea brula&jcirc;o, la plej dan&gcirc;era radioaktiva
+        resta&jcirc;o, kostus &ccirc;irka&ubreve; 2,6 miliardojn da e&ubreve;roj
+        <fnt>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2006/008809.php">Litovio volas resti nukle-energia
+          &scirc;tato</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/01, p. 15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[multaj]</klr> produktoj <klr>[&#x2026;]</klr> fini&gcirc;os en maro a&ubreve; rubo<tld/>ejo
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        faki&gcirc;i pri tersurfaca protekto (grundoprotekto, konstruado de rub<tld/>ejoj,
+        rekultivado de rub<tld/>ejoj <klr>[&#x2026;]</klr>)
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2001, &#x2116;3</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="rub.0ejo">rubejo</ref>
+    </refgrp>
+    <trd lng="be">&c_s;&c_mol;&c_m;&c_je;&c_t;&c_n;&c_ib;&c_k;</trd>
+    <trdgrp lng="de">
+      <trd>Halde</trd>,
+      <trd>Deponie</trd>,
+      <trd>Kippe</trd>
+    </trdgrp>
+  </snc>
   <snc mrk="depon.0ejo.konto">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Konto, kie oni <tld/>as libromonon, valorpaperojn k.s.
+      <ref tip="super" cel="kont.0o.KOME">Konto</ref>, kie oni <tld/>as libromonon, valorpaperojn
+      k.s.
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_e;&c_p;&c_a;&c_z;&c_y;&c_t;</trd>,
+      <trd>&c_u;&c_k;&c_l;&c_a;&c_d; <klr>(&c_b;&c_a;&c_n;&c_k;&c_a;&c_w;&c_s;&c_k;&c_ib;)</klr></trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Depot</trd>,
       <trd>Hinterlegungsstelle</trd>
@@ -193,12 +408,65 @@
   <trd lng="ca">dip&ograve;sit</trd>
   <trdgrp lng="cs">
     <trd>deponie</trd>,
-    <trd>skladiště</trd>,
-    <trd>skládka</trd>,
-    <trd>úschovna</trd>
+    <trd>skladi&scaron;t&ecaron;</trd>,
+    <trd>skl&aacute;dka</trd>,
+    <trd>&uacute;schovna</trd>
   </trdgrp>
-  <trd lng="sk">úschovňa</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4FDD;&#x7BA1;&#x6240;  [<ind>&#x307B;&#x304B;&#x3093;&#x3058;&#x3087;</ind>]</trd>,
+    <trd>&#x9810;&#x304B;&#x308A;&#x6240;  [<ind>&#x3042;&#x305A;&#x304B;&#x308A;&#x3058;&#x3087;</ind>]</trd>
+  </trdgrp>
+  <trd lng="sk">&uacute;schov&ncaron;a</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;</trd>,
+    <trd>&c_s;&c_h;&#x43E;&c_v;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&#x43A;&c_a;&#x43C;&c_je;&c_r;&c_a; &c_s;&c_h;&#x43E;&c_v;&c_u; (&c_b;&c_a;&c_gu;&c_a;&c_zh;&c_u;)</trd>,
+    <trd>&#x43A;&c_a;&c_s;&c_a; (&c_d;&#x43B;&#x44F; &c_z;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_je;&#x43D;&#x43D;&#x44F; &c_g;&c_r;&#x43E;&c_sh;&c_je;&c_j;)</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="depon.0ujo">
+  <kap>
+    <tld/>ujo
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="uj.0o">Ujo</ref> en kiu oni <tld/>as ion:
+      <ekz>
+        la akvobata pumpilo povas peli parton de la alvenanta akvo supren, &gcirc;is la
+        <tld/>ujo
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2001/007230.php">Hidra&ubreve;liko: Akvobata
+          pumpilo &ndash; forgesita sed utiligebla</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/07, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        lingvo kiel <tld/>ujo de kulturo
+        <fnt>
+          <aut>Chunlin Yao kaj Ghil'ad Zuckermann</aut>
+          <vrk><url ref="https://groups.io/g/uea-membroj/topic/lingva_diverseco_en_tibeto/78000091">Lingva
+          diverseco en Tibeto</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+       <ref cel="sil.0o">silo</ref>
+    </refgrp>
+    <refgrp tip="vid">
+       <ref cel="kolekt.0ujo">kolektujo</ref>,
+       <ref cel="rezerv.0ujo">rezervujo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Depot</trd>,
+    <trd>Aufbewahrungsbeh&auml;lter</trd>
+  </trdgrp>
+</drv>
+
 
 <drv mrk="depon.mal0i">
   <kap>mal<tld/>i</kap>
@@ -210,19 +478,25 @@
         ili povas mal<tld/>i maksimume 200000 enojn
         <fnt>
           <aut>Hori Y.</aut>,
-          <vrk><url
-          ref="http://www.satesperanto.org/La-22an-de-marto.html">
+          <vrk><url ref="http://www.satesperanto.org/La-22an-de-marto.html">
           La 22an de marto</url></vrk>,
           <lok>SAT, 2011=03-22</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_d;&c_y;&c_m;&c_a;&c_c;&c_mol; &c_z; <ind>&c_d;&c_e;&c_p;&c_a;&c_z;&c_y;&c_t;&c_a;</ind></trd>,
+    <trd>&c_z;&c_a;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol; &c_z; <ind>&c_d;&c_e;&c_p;&c_a;&c_z;&c_y;&c_t;&c_a;</ind></trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>retirar</trd>,
     <trd>treure</trd>
   </trdgrp>
-  <trd lng="fr">retirer<klr> (de l'argent)</klr></trd>
+  <trdgrp lng="de">
+    <trd>abheben <klr>(Depot)</klr></trd>,
+    <trd>entnehmen <klr>(Depot)</klr></trd>
+  </trdgrp><trd lng="fr">retirer<klr> (de l'argent)</klr></trd>
 </drv>
 
 <drv mrk="depon.0atesto">
@@ -255,36 +529,38 @@
       &c_s;&c_je;&c_r;&c_t;&c_i;&c_f;&c_i;&c_k;&c_a;&c_t;</trd>
     </trdgrp>
   </snc>
-  <trd lng="cs">stvrzenka o úschově</trd>
-  <trd lng="sk">potvrdenka o úschove</trd>
+  <trd lng="be">&c_d;&c_e;&c_p;&c_a;&c_z;&c_y;&c_t;&c_n;&c_y; &c_s;&c_e;&c_r;&c_t;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_t;</trd>
+  <trd lng="cs">stvrzenka o &uacute;schov&ecaron;</trd>
+  <trd lng="he">&tav;&ayin;&vav;&dalet;&tav; &pe;&yod;&qof;&dalet;&vav;&fnun;</trd>
+  <trd lng="ja">&#x9810;&#x308A;&#x8A3C;  [<ind>&#x3042;&#x305A;&#x304B;&#x308A;&#x3057;&#x3087;&#x3046;</ind>]</trd>
+  <trd lng="sk">potvrdenka o &uacute;schove</trd>
+  <trd lng="uk">&#x43A;&c_v;&c_i;&c_t;&c_a;&#x43D;&c_c;&c_ib;&#x44F; &#x43F;&c_r;&#x43E; &c_z;&c_b;&c_je;&c_r;&c_ib;&c_g;&c_a;&#x43D;&#x43D;&#x44F; (&c_v;
+  &#x43A;&c_a;&#x43C;&c_je;&c_r;&c_ib; &c_s;&c_h;&#x43E;&c_v;&c_u;)</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.21  2015/06/29 16:29:36  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.33 2023/05/19 12:43:12
+Paul Peeraerts: + aut k lok
 
-Revision 1.20  2012/10/10 14:10:12  revo
-Jeromo Vasxe: + ~ajxo + snc geol - ~banko portita al bank.xml
+versio 1.32 2023/05/03 16:39:01
+revo: aktualigo URL-unuoj
 
-Revision 1.19  2012/09/04 11:10:21  revo
-Marc Rausell: + trd ca
+versio 1.31 2022/10/28 08:46:57
+Dmitri Gabinski: + trd be
 
-Revision 1.18  2011/04/05 22:10:16  revo
-Jeromo Vasxe: + mal~i
+versio 1.30 2022/06/23 14:28:34
+Wolfram Diestel: kor. verbfomron, ref
 
-Revision 1.17  2009/09/14 16:31:05  revo
-Behnam Tabatabai: +trd fa
+versio 1.29 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.16  2009/06/04 16:30:38  revo
-Sebastian Cyprych: +trd pl
+versio 1.27 2022/01/05 19:23:44
+Wolfram Diestel: ~ejo: +ref-oj
 
-Revision 1.15  2007/07/19 16:32:12  revo
-Tulio Flores: +tr pt
+versio 1.26 2022/01/05 18:35:18
+Wolfram Diestel: ~ejo: +snc ku&scirc;ejo, rubejo; ekz-oj, ref-oj, trd de
 
-Revision 1.14  2003/09/04 16:30:33  revo
-Yury Finkel: kor trd ru
-
-Revision 1.13  2003/09/03 16:31:05  revo
+versio 1.25 2022/01/05 07:30:12
 -->
 </vortaro>

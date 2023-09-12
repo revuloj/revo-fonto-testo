@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pardon.xml,v 1.32 2023/09/03 12:45:04 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>pardon</rad>/i
 </kap>
@@ -79,6 +78,7 @@
       <trd>&c_p;&c_r;&c_a;&c_b;&c_a;&c_ch;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_v;&c_y;&c_b;&c_a;&c_ch;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
+  <trd lng="bo">&#xF56;&#xF5F;&#xF7C;&#xF51;&#xF0B;&#xF54;&#xF0B;&#xF66;&#xF92;&#xF7C;&#xF58;&#xF0B;</trd>
   <trd lng="br">pardoni&ntilde;</trd>
   <trd lng="ca">perdonar</trd>
   <trdgrp lng="cs">
@@ -99,16 +99,38 @@
       <trd>pardonner</trd>
     </trdgrp>
   <trd lng="hu">megbocs&aacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3086;&#x308B;&#x3059;</trd>,
+    <trd>&#x5BB9;&#x8D66;&#x3059;&#x308B;  [<ind>&#x3088;&#x3046;&#x3057;&#x3083;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x52D8;&#x5F01;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3079;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5927;&#x76EE;&#x306B;&#x898B;&#x308B;  [<ind>&#x304A;&#x304A;&#x3081;&#x306B;&#x307F;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="lat">
       <trd>excuso, are</trd>;
       <trd>ignosco, ere</trd>
     </trdgrp>
   <trd lng="nl">vergeven</trd>
+  <trdgrp lng="pl">
+    <trd>odpuszcza&cacute;</trd>,
+    <trd>przebacza&cacute;</trd>,
+    <trd>wybacza&cacute;</trd>
+  </trdgrp>
   <trd lng="pt">perdoar</trd>
+  <trdgrp lng="ro">
+    <trd>ierta</trd>,
+    <trd>scuza</trd>,
+    <trd>cru&#x21B;a</trd>
+  </trdgrp>
   <trdgrp lng="sk">
   <trd>odpusti&tcaron;</trd>,
   <trd>ospravedlni&tcaron;</trd>,
   <trd>prep&aacute;&ccaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_b;&c_a;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_b;&c_a;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_a;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -147,8 +169,21 @@
       <trd>bocs&aacute;nat</trd>,
       <trd>pardon</trd>
     </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3086;&#x308B;&#x3057;</trd>,
+    <trd>&#x5BB9;&#x8D66;  [<ind>&#x3088;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x52D8;&#x5F01;  [<ind>&#x304B;&#x3093;&#x3079;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="lat">uenia, ae</trd>
   <trd lng="nl">vergeving</trd>
+  <trdgrp lng="pl">
+    <trd>przebaczenie</trd>,
+    <trd>wybaczenie</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>iertare</trd>,
+    <trd>pardon</trd>
+  </trdgrp>
   <trdgrp lng="ru">
       <trd>&c_p;&c_r;&c_o;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
       <trd>&c_i;&c_z;&c_v;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -157,6 +192,11 @@
   <trd>milos&tcaron;</trd>,
   <trd>odpustenie</trd>,
   <trd>prep&aacute;&ccaron;enie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_b;&c_a;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_b;&c_a;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_shch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -177,14 +217,21 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_b;&c_a;&c_ch;&c_a;&c_j;&c_c;&c_je;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_p;&c_r;&c_a;&c_sh;&c_a;&c_ju;</trd>
+  </trdgrp>
   <trd lng="en">sorry</trd>
   <trd lng="fr">excusez-moi</trd>
+  <trd lng="pl">przepraszam</trd>
+  <trd lng="ro">scuz&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_i;&c_t;&c_je;</trd>,
     <trd>&c_i;&c_z;&c_v;&c_i;&c_n;&c_i;&c_t;&c_je;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_sh;&c_u; &c_p;&c_r;&c_o;&c_shch;&c_je;&c_n;&c_i;&c_ja;</trd>
   </trdgrp>
-  <trd lng="zh">&#23545;&#19981;&#36215;<klr> [du&igrave;b&ugrave;q&#464;]</klr>, &#21171;&#39550;<klr> [l&aacute;oji&agrave;]</klr></trd>
+  <trd lng="zh">&#x5BF9;&#x4E0D;&#x8D77;<klr> [du&igrave;b&ugrave;q&#x1D0;]</klr>, &#x52B3;&#x9A7E;<klr>
+  [l&aacute;oji&agrave;]</klr></trd>
 </drv>
 
 <drv mrk="pardon.0ema">
@@ -216,11 +263,26 @@
       <trd>megbocs&aacute;t&oacute;</trd>,
       <trd>b&eacute;k&uuml;l&eacute;keny</trd>
     </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5BDB;&#x5927;&#x306A;  [<ind>&#x304B;&#x3093;&#x3060;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x5BDB;&#x5BB9;&#x306A;  [<ind>&#x304B;&#x3093;&#x3088;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vergevingsgezind</trd>
+  <trdgrp lng="pl">
+    <trd>mi&lstroke;osierny</trd>,
+    <trd>mi&lstroke;o&sacute;ciwy</trd>
+  </trdgrp>
+  <trd lng="ro">milostiv</trd>
   <trd lng="ru">&c_s;&c_n;&c_i;&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>ochotn&yacute; odpusti&tcaron;</trd>,
     <trd>zhovievav&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_b;&c_a;&c_ch;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_b;&c_a;&c_ch;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_i;&c_b;&c_a;&c_ch;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&#x43E;&c_b;&#x43B;&c_a;&c_zh;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -234,8 +296,20 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_a;&c_b;&c_a;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_d;&c_a;&c_r;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="fr">impardonnable</trd>
+  <trd lng="ja">&#x8A31;&#x305B;&#x306A;&#x3044;  [<ind>&#x3086;&#x308B;&#x305B;&#x306A;&#x3044;</ind>]</trd>
+  <trd lng="pl">nieprzebaczalny</trd>
+  <trd lng="ro">impardonabil</trd>
   <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_o;&c_s;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&#x43F;&c_r;&#x43E;&c_shch;&c_je;&#x43D;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&#x43F;&c_r;&#x43E;&c_b;&c_a;&c_ch;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&#x43F;&c_r;&#x43E;&c_s;&c_t;&c_i;&#x43C;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pardon.0peti">
@@ -244,20 +318,72 @@
     <dif>
       Pro &gcirc;entileco peti ies <tld/>on:
       <ekz>
+        &ccirc;u li povas <tld/>peti pri siaj propraj pekoj?
+        <fnt>
+          <aut>Tr. G. Berveling</aut>:
+          <vrk>La sa&gcirc;eco de Jesuo Sira&hcirc;</vrk>. <lok>28:4</lok>
+        </fnt>;
+      </ekz><ekz>
         mi devas <tld/>peti pro erareto en mia lasta letero
-        <fnt><aut>Frieder Weigold</aut>, <bib>Monato</bib>.</fnt>.
+        <fnt><aut>Frieder Weigold</aut>, <bib>Monato</bib>.</fnt>;
+      </ekz><ekz>
+        Tamen, kiam mi relegas la modernajn librojn, enkore mi
+        <tld/>petas la Budape&scirc;tan korifeon
+        <fnt><aut>Karolo Pi&ccirc;</aut>: <vrk>Kolomano Kalocsay</vrk>.
+          <lok>Nica literatura revuo,  6/6 (n-ro 36)</lok></fnt>;
+      </ekz><ekz>
+         mi devas <tld/>peti de la regnanoj de la civilizita angla
+         &scirc;tato, ke mi ilin tedas per la priskribo de tiaj idiota&jcirc;oj
+         <fnt>
+          <aut>S&aacute;ndor Szathm&aacute;ri</aut>:
+          <vrk>Voja&gcirc;o al Kazohinio</vrk>. <lok>1938. &Ccirc;ap. 10&#xAA;</lok>
+        </fnt>;
+      </ekz><ekz>
+        tial mi <tld/>petas al &ccirc;iuj menciitaj en la letero
+        <fnt><aut>Jouko Lindstedt</aut>:
+          <vrk>Nefermita plendoletero</vrk>. <bib>LOdE</bib>,
+          <lok>2001. &#x2116;2</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_b;&c_a;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_s;&c_ib;&c_c;&c_mol; <ind>&c_p;&c_r;&c_a;&c_b;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_p;&c_r;&c_a;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3086;&#x308B;&#x3057;&#x3092;&#x8ACB;&#x3046;  [<ind>&#x3086;&#x308B;&#x3057;&#x3092;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x308F;&#x3073;&#x308B;</trd>,
+    <trd>&#x8B1D;&#x7F6A;&#x3059;&#x308B;  [<ind>&#x3057;&#x3083;&#x3056;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>przeprasza&cacute;</trd>,
+    <trd>prosi&cacute; o wybaczenie</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>scuza&#x21B;i</trd>,
+    <trd>cere iertare</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_i;&c_z;&c_v;&c_i;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol; &c_p;&c_r;&c_o;&c_shch;&c_je;&c_n;&c_i;&c_ja;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&c_s;&c_i;&c_t;&c_i;
+  &#x43F;&c_r;&#x43E;&c_b;&c_a;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;/&c_v;&c_i;&c_b;&c_a;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.31 2022/07/09 22:30:46
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.29 2022/02/25 12:46:06
+Dmitri Gabinski: + trd be
+
+versio 1.27 2020/11/09 04:11:10
+Sergio Pokrovskij: +ekz
+
 Revision 1.25  2019/06/10 14:10:14  revo
 Sergio Pokrovskij: + ~peti
 
@@ -271,11 +397,5 @@ Revision 1.22  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.21  2015/06/29 16:40:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.20  2011/11/21 23:10:14  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.19  2010/09/12 16:30:28  revo
 -->
 </vortaro>

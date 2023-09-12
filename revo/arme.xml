@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: arme.xml,v 1.23 2010/06/03 16:30:22 revo Exp $">
+<art mrk="$Id: arme.xml,v 1.44 2023/09/01 17:28:40 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>arme</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,7 +18,31 @@
       <ref tip="prt" cel="soldat.0o">soldatoj</ref>,
       <ref tip="prt" cel="oficir.sub0o">suboficiroj</ref> kaj
       <ref tip="prt" cel="oficir.0o">oficiroj</ref>,
-      <ref tip="prt" cel="arm.0ilo">armiloj</ref>.
+      <ref tip="prt" cel="arm.0ilo">armiloj</ref>:
+      <ekz>
+        brava junulo, via frato, &#8208; eble iom maltimema: sed en la <tld/>o tio estas
+        kvalito
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Deka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pa&ubreve;lo <nom>Petrovi&ccirc;</nom> eksi&gcirc;is el la <tld/>o malgra&ubreve; <klr>[&#8230;]</klr> la admonoj de la
+        superuloj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Aleksandro la Granda transplantis tiun novan komunan lingvon &ndash; <nom>koin&ecirc;</nom> &ndash; sur
+        lar&gcirc;ajn teritoriojn, konkeritajn de lia <tld/>o
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <ref tip="vid" cel="milit.0istaro">militistaro</ref>
     <refgrp tip="prt">
@@ -36,8 +59,7 @@
       <trd>wojsko</trd>,
       <trd><ind>si&lstroke;y</ind> zbrojne</trd>
     </trdgrp>
-    <trd
-    lng="ru">&c_v;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_jo;&c_n;&c_n;&c_y;&c_je;
+    <trd lng="ru">&c_v;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_jo;&c_n;&c_n;&c_y;&c_je;
     &c_s;&c_i;&c_l;&c_y;</trd>
   </snc>
   <snc mrk="arme.0o.unuo">
@@ -45,9 +67,15 @@
     <dif>
       Parto de
       <ref tip="malprt" cel="arme.0o.sxtata"><tld/>o<sncref/></ref>,
-      konsistanta el
-      <ref cel="korpus.0o.MIL">korpusoj</ref> a&ubreve; malpli
-      grandaj trupunuoj, komandata de unu &ccirc;efgeneralo.
+      konsistanta el <ref cel="korpus.0o.MIL">korpusoj</ref> a&ubreve; malpli
+      grandaj trupunuoj, komandataj de unu &ccirc;efgeneralo:
+      <ekz>
+        &ccirc;eestas en la vila&gcirc;o oficiro de l&#8217; Afrika <tld/>o
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Sepa</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="fr">
       <trd>arm&eacute;e<klr tip="ind"> (ensemble des troupes participant
@@ -62,6 +90,56 @@
       Multnombra kolekto da homoj a&ubreve; bestoj:
       <ekz>
         <tld/>o de la laboristoj, da akridoj, da petantoj<fnt>Z</fnt>.
+      </ekz>
+      <ekz>
+        granda, moda kaj ri&ccirc;a magazeno bezonas la servon de vera <tld/>o da komizoj
+        <klr>[kaj]</klr> oficistoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tuta <tld/>o da flugantaj vestoj sin portis en la ventego
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sendis Joabon kaj la tutan <tld/>on da kura&gcirc;uloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 10:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vidinte la sunon kaj la lunon kaj la stelojn kaj la tutan <tld/>on de la &ccirc;ielo,
+        ne forlogi&gcirc;u
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 4:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plor&gcirc;emante kiel <tld/>o da senesperaj spiritoj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tuta <tld/>o da instruistoj de la franca lingvo, da francaj artistoj kaj
+        teknikistoj invadis la kulturajn centrojn de Ruslando
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du kontra&ubreve; unu prezentas <tld/>on
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="fr">
@@ -86,21 +164,29 @@
     <trd>&c_a;&c_r;&c_m;&c_ib;&c_ja;</trd>,
     <trd>&c_v;&c_o;&c_j;&c_s;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="bo">&t_da;&t_ma;&t_ga;&t_tsheg;&t_da;&t_pa;&t_shabchu;&t_nga;&t_tsheg;</trd>
   <trd lng="ca">ex&egrave;rcit</trd>
   <trdgrp lng="cs">
     <trd>arm&aacute;da</trd>,
     <trd>vojsko</trd>
   </trdgrp>
   <trd lng="de">Armee</trd>
+  <trd lng="en">military</trd>
   <trdgrp lng="es">
     <trd>ej&eacute;rcito</trd>,
     <trd>armada</trd>
   </trdgrp>
+  <trd lng="he">&tsadi;&#x5B8;&bet;&#x5B8;&alef;</trd>
   <trdgrp lng="hu">
     <trd>hadsereg</trd>,
     <trd>sereg<klr tip="amb"> (&aacute;tv. is)</klr></trd>
   </trdgrp>
   <trd lng="it">armata</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8ECD;&#x968A;  [<ind>&#12368;&#12435;&#x305F;&#12356;</ind>]</trd>,
+    <trd>&#xFF5E;&#x8ECD;  [&#xFF5E;<ind>&#12368;&#12435;</ind>]</trd>,
+    <trd>&#22823;&#x7FA4;  [<ind>&#x305F;&#12356;&#12368;&#12435;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">leger</trd>
   <trd lng="oc">armada</trd>
   <trdgrp lng="ru">
@@ -111,6 +197,9 @@
     <trd>vojsko</trd>,
     <trd>arm&aacute;da</trd>
   </trdgrp>
+  <trd lng="uk">&c_a;&c_m;&c_je;
+(&c_s;&c_h;&c_ib;&c_d;&c_n;&c_o;&c_a;&c_z;&c_ib;&c_j;&c_s;&c_mol;&c_k;&c_a;
+&c_s;&c_t;&c_r;&c_a;&c_v;&c_a; &c_z; &c_s;&c_o;&c_l;&c_o;&c_d;&c_u;)</trd>
 </drv>
 
 <drv mrk="arme.aer0o">
@@ -123,22 +212,37 @@
       <ref tip="malprt" cel="arme.0o.sxtata"><tld/>o<sncref/></ref>,
       kiu okupi&gcirc;as &ccirc;efe pri aviaj operacioj:
       <ekz>
+        &Scirc;anhajo kaj &gcirc;iaj &ccirc;irka&ubreve;a&jcirc;oj estis bombitaj de usona aer<tld/>o kaj ruini&gcirc;is
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>El &Ccirc;inio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         la japana aer<tld/>o bombardis <nom>Songjiang</nom>-stacidomon
         <fnt>
           <aut>Hasegawa T.</aut>,
-          <vrk><url
-          ref="http://wikilivres.ca/wiki/En_%C4%88inio_Batalanta">
-          En &Ccirc;inio Batalanta</url></vrk>, 
+          <vrk><url ref="http://wikilivres.ca/wiki/En_%C4%88inio_Batalanta">
+          En &Ccirc;inio Batalanta</url></vrk>,
           <lok>1954</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Kep Enderby</nom> <klr>...</klr> en 1944 ali&gcirc;is al la 
+        la aermilito <klr>[&#8230;]</klr> celis detrui la irakan aer<tld/>on,
+        kontra&ubreve;-aviadilajn instala&jcirc;ojn, komando-infrastrukturon kaj aliajn militajn
+        celojn
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&Ccirc;efartikolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Kep Enderby</nom> <klr>[&#8230;]</klr> en 1944 ali&gcirc;is al la
         flug<tld/>o
         <fnt>
           <aut>UEA</aut>,
           <vrk>Kep Enderby forpasis</vrk>,
-          <lok><url ref="http://uea.org/gk/565a1">
+          <lok><url ref="&UEA;gk/565a1">
           Gazetaraj Komuniko, 2015-01-08 (565)</url></lok>
         </fnt>.
       </ekz>
@@ -155,9 +259,12 @@
     <trd>Luftwaffe</trd>,
     <trd>Luftstreitkr&auml;fte</trd>
   </trdgrp>
+  <trd lng="en">air force</trd>
   <trd lng="fr">arm&eacute;e de l'air</trd>
+  <trd lng="he">&het;&yod;&lamed; &he;&alef;&vav;&vav;&yod;&resh;</trd>
   <trd lng="hu">l&eacute;gier&odblac;</trd>
   <trd lng="it">aviazione<klr> militare</klr></trd>
+  <trd lng="ja">&#x7A7A;&#x8ECD;  [<ind>&#x304F;&#12358;&#12368;&#12435;</ind>]</trd>
   <trdgrp lng="pl">
     <trd><ind>flota</ind> powietrzna</trd>,
     <trd><ind>wojska</ind> powietrzne</trd>,
@@ -178,13 +285,42 @@
     <dif>
       Parto de
       <ref tip="malprt" cel="arme.0o.sxtata"><tld/>o<sncref/></ref>,
-      kiu okupi&gcirc;as &ccirc;efe pri surmaraj operacioj.
+      kiu okupi&gcirc;as &ccirc;efe pri surmaraj operacioj:
+      <ekz>
+        tiel estis anka&ubreve; en la mar<tld/>o de la imperiestro, &ccirc;iufoje, se proksimis io
+        eksterordinara, ni havis anta&ubreve;e kelkajn bonajn tagojn
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 47</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili estis metitaj en du kestojn kaj transportotaj de la usona mar<tld/>o de
+        Pekino al Usono por sekura konservo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2012/010707.php">Nova spuro pri perditaj fosilioj</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rusoj <klr>[&#8230;]</klr> aneksis al si regionon, kie situas historia haveno de ilia
+        mar<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2014/011316.php">Grava elemento de monda nestabileco</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="flot.0o.MIL">floto<sncref/></ref>,
       <ref cel="sxip.milit0aro">milit&scirc;iparo</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_v;&c_a;&c_j;&c_s;&c_k;&c_o;&c_v;&c_y; &c_f;&c_l;&c_o;&c_t;</trd>
   <trdgrp lng="cs">
     <trd>n&aacute;mo&rcaron;n&iacute; arm&aacute;da</trd>,
     <trd>n&aacute;mo&rcaron;n&iacute; s&iacute;ly</trd>
@@ -193,18 +329,21 @@
     <trd>Marine</trd>,
     <trd>Seestreitkr&auml;fte</trd>
   </trdgrp>
+  <trd lng="en">navy</trd>
   <trdgrp lng="fr">
     <trd>marine<klr tip="ind"> (arm&eacute;e de mer)</klr></trd>,
     <trd>arm&eacute;e de mer</trd>,
     <trd>marine nationale</trd>,
     <trd>marine de guerre<klr tip="ind"> (arm&eacute;e)</klr></trd>
-  </trdgrp><trd lng="fr">arm&eacute;e de terre</trd>
+  </trdgrp>
   <trd lng="it">marina<klr> militare</klr></trd>
+  <trd lng="ja">&#x6D77;&#x8ECD;  [<ind>&#x304B;&#12356;&#12368;&#12435;</ind>]</trd>
   <trdgrp lng="pl">
     <trd><ind>flota</ind> morska</trd>,
     <trd>marynarka <ind>wojenna</ind></trd>
   </trdgrp>
   <trd lng="sk">n&aacute;morn&eacute; sily</trd>
+  <trd lng="uk">&c_m;&c_o;&c_r;&c_s;&c_mol;&c_k;&c_a; &c_a;&c_r;&c_m;&c_ib;&c_ja;</trd>
 </drv>
 
 <drv mrk="arme.rugxa0o">
@@ -214,7 +353,14 @@
     <dif>
       De 1918 &gcirc;is 1946 oficiala, poste maloficiala nomo de la soveta armeo:
       <ekz>
-        amuza vespero aran&gcirc;ita <klr>...</klr>
+        iama cara oficiro, postenulo en la Ru&gcirc;a <tld lit="A"/>o
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        amuza vespero aran&gcirc;ita <klr>[&#8230;]</klr>
         por la profito de la malsanulejo de la
         Ru&gcirc;a <tld lit="A"/>o
         <fnt>
@@ -225,6 +371,8 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_Ch;&c_y;&c_r;&c_v;&c_o;&c_n;&c_a;&c_ja; &c_a;&c_r;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="en">Red Army</trd>
   <trd lng="fr">Arm&eacute;e rouge</trd>
 </drv>
 
@@ -232,26 +380,37 @@
   <kap>Sav<tld/>o</kap>
   <snc mrk="arme.sav0o.NRO">
     <dif>
-      Internacia religia organiza&jcirc;o bonfarada,
+      Internacia religia <ref tip="super" cel="organi2.0ajxo">organiza&jcirc;o</ref> bonfarada,
       fondita en 1878:
       <ekz>
         ili donacis liajn vesta&jcirc;ojn al la Sav<tld/>o
         <fnt>
           <aut>T. Jansson, trad. A. Nordstr&ouml;m</aut>
-          <vrk><url
-          ref="http://hem.bredband.net/andnor/lsg/lagranda.htm">
+          <vrk><url ref="http://hem.bredband.net/andnor/lsg/lagranda.htm">
           La granda voja&gcirc;o</url></vrk>
           <lok>[2010?]</lok>
-        </fnt>. 
+        </fnt>;
+      </ekz>
+      <ekz>
+        la disdonadon de la provizoj kunordigis la kristana Sav<tld/>o, sperta pri
+        komunuma helpo okaze de katastrofoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 4 (54)</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_A;&c_r;&c_m;&c_ib;&c_ja;
+  &c_v;&c_y;&c_r;&c_a;&c_t;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
   <trd lng="cs">Arm&aacute;da sp&aacute;sy</trd>
   <trd lng="de">Heilsarmee</trd>
+  <trd lng="en">Salvation Army</trd>
   <trd lng="es">Ejercito de Salvaci&oacute;n</trd>
   <trd lng="fr">Arm&eacute;e du salut</trd>
   <trd lng="hu">&uuml;dvhadsereg</trd>
   <trd lng="it"><ind>esercito</ind> della salvezza</trd>
+  <trd lng="ja">&#25937;&#x4E16;&#x8ECD;  [<ind>&#x304D;&#12421;&#12358;&#x305B;&#12356;&#12368;&#12435;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>Leger des Heils</trd>,
     <trd>Heilsleger</trd>
@@ -261,6 +420,7 @@
     <trd>Arm&aacute;da Sp&aacute;sy</trd>,
     <trd>Arm&aacute;da sp&aacute;sy</trd>
   </trdgrp>
+  <trd lng="uk">&c_A;&c_r;&c_m;&c_ib;&c_ja; &c_s;&c_p;&c_a;&c_s;&c_ib;&c_n;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="arme.ter0o">
@@ -283,38 +443,44 @@
     <trd>Heer</trd>,
     <trd>Landstreitkr&auml;fte</trd>
   </trdgrp>
+  <trd lng="en">army</trd>
   <trd lng="fr">arm&eacute;e de terre</trd>
   <trd lng="hu">sz&aacute;razf&ouml;ldi csapatok</trd>
   <trd lng="it">esercito</trd>
+  <trd lng="ja">&#38520;&#x8ECD;  [<ind>&#x308A;&#x304F;&#12368;&#12435;</ind>]</trd>
   <trdgrp lng="pl">
     <trd><ind>wojska</ind> l&aogonek;dowe</trd>,
     <trd><ind>wojska</ind> naziemne</trd>,
     <trd><ind>si&lstroke;y</ind> l&aogonek;dowe</trd>
   </trdgrp>
-  <trd lng="ru">&c_s;&c_u;&c_h;&c_o;&c_p;&c_u;&c_t;&c_n;&c_y;&c_je; &c_v;&c_o;&c_j;&c_s;&c_k;&c_a;</trd>
+  <trd lng="ru">&c_s;&c_u;&c_h;&c_o;&c_p;&c_u;&c_t;&c_n;&c_y;&c_je;
+  &c_v;&c_o;&c_j;&c_s;&c_k;&c_a;</trd>
   <trd lng="sk">pozemn&eacute; vojsko</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.29  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.44 2023/09/01 17:28:40
+Wolfram Diestel: ja kor. ind
 
-Revision 1.28  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.42 2023/05/02 15:56:28
+revo: aktualigo URL-unuoj
 
-Revision 1.27  2015/01/17 21:10:21  revo
-Jeromo Vasxe: + flug~o
+versio 1.41 2023/03/05 19:23:07
+Jean-Marc Lugrin: Forigu malgxustan francan tradukon
 
-Revision 1.26  2013/10/08 10:10:17  revo
-Benito Subejrano: + trd ca oc
+versio 1.40 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
 
-Revision 1.25  2012/09/19 10:10:12  revo
-Jeromo Vasxe: + ekz
+versio 1.39 2022/04/15 10:40:30
+Noam Mohr: +trd en armeo
 
-Revision 1.24  2011/11/06 18:10:09  revo
-Jeromo Vasxe: + 1 ekz
+versio 1.38 2022/04/03 15:29:18
+Wolfram Diestel: +ekz-oj
 
-Revision 1.23  2010/06/03 16:30:22  revo
+versio 1.34 2021/10/06 07:28:03
+Dmitri Gabinski: + trd be
+
+versio 1.33 2021/09/15 13:34:06
 -->
 </vortaro>

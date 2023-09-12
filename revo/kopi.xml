@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kopi.xml,v 1.17 2009/04/17 19:48:55 revo Exp $">
+<art mrk="$Id: kopi.xml,v 1.106 2023/09/01 15:46:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kopi</rad>/i
@@ -115,6 +114,7 @@
     <trd lng="es">imitar</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bo">&#xF56;&#xF64;&#xF74;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>kop&iacute;rovat</trd>,
     <trd>napodobovat</trd>,
@@ -129,6 +129,14 @@
   <trdgrp lng="hu">
     <trd>m&aacute;sol</trd>,
     <trd>lem&aacute;sol</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5199;&#x3057;&#x3068;&#x308B;  [<ind>&#x3046;&#x3064;&#x3057;&#x3068;&#x308B;</ind>]</trd>,
+    <trd>&#x8907;&#x5199;&#x3059;&#x308B;  [<ind>&#x3075;&#x304F;&#x3057;&#x3083;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6A21;&#x5199;&#x3059;&#x308B;  [<ind>&#x3082;&#x3057;&#x3083;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x30B3;&#x30D4;&#x30FC;&#x3059;&#x308B;  [<ind>&#x3053;&#x3074;&#x30FC;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x713C;&#x4ED8;&#x3051;&#x308B;  [<ind>&#x3084;&#x304D;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x713C;&#x5897;&#x3057;&#x3059;&#x308B;  [<ind>&#x3084;&#x304D;&#x307E;&#x3057;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">kopi&euml;ren</trd>
   <trdgrp lng="pl">
@@ -157,8 +165,7 @@
   <kap><tld/>o</kap>
   <snc mrk="kopi.0o.kopiajxo">
     <dif>
-      Nova a&jcirc;o, <tld/>e farita, imita de <ref tip="ant"
-      cel="origin1.0o">originalo</ref>:
+      Nova a&jcirc;o, <tld/>e farita, imita de <ref tip="ant" cel="origin1.0o">originalo</ref>:
       <ekz>
         tia traduko donas mal&gcirc;ustan <tld/>on de la tradukita
         verko<fnt>Z</fnt>;
@@ -179,15 +186,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">afskrif</trd>
+  <trd lng="am">&#x1245;&#x1305;</trd>
+  <trd lng="ar">&a_n;&a_s;&#x62E;&a_t_marbuta;</trd>
+  <trd lng="az">sur&#x259;ti</trd>
   <trd lng="be">&c_k;&c_o;&c_p;&c_ib;&c_ja;</trd>
+  <trd lng="bn">&#x995;&#x9AA;&#x9BF;</trd>
+  <trd lng="bs">kopija</trd>
   <trdgrp lng="ca">
     <trd>c&ograve;pia</trd>,
     <trd>reproducci&oacute;</trd>
   </trdgrp>
+  <trd lng="co">esemplariu</trd>
   <trdgrp lng="cs">
     <trd>kopie</trd>,
     <trd>opis <klr>(propisovan&yacute;)</klr></trd>
   </trdgrp>
+  <trd lng="cy">copi</trd>
+  <trd lng="da">kopi</trd>
   <trdgrp lng="de">
     <trd>Kopie</trd>,
     <trd>Abzug</trd>,
@@ -199,28 +215,94 @@
     <trd>copia</trd>,
     <trd>reproducci&oacute;n</trd>
   </trdgrp>
+  <trd lng="et">koopia</trd>
+  <trd lng="eu">kopia</trd>
   <trdgrp lng="fr">
     <trd>copie</trd>
   </trdgrp>
+  <trd lng="fy">kopy</trd>
+  <trd lng="ga">c&#xF3;ip</trd>
+  <trd lng="gd">leth-bhreac</trd>
+  <trd lng="gl">copia</trd>
+  <trd lng="gu">&#xAA8;&#xA95;&#xAB2;</trd>
+  <trd lng="ha">kofi</trd>
+  <trd lng="hi">&#x928;&#x915;&#x932;</trd>
+  <trd lng="hmn">daim ntawv luam</trd>
+  <trd lng="hr">kopija</trd>
+  <trd lng="ht">kopi</trd>
   <trd lng="hu">m&aacute;solat</trd>
+  <trd lng="hy">&#x585;&#x580;&#x56B;&#x576;&#x561;&#x56F;</trd>
+  <trd lng="ig">akw&#x1EE5;kw&#x1ECD;</trd>
+  <trd lng="is">eintak</trd>
+  <trd lng="ja">&#x30B3;&#x30D4;&#x30FC;</trd>
+  <trd lng="jv">salinan</trd>
+  <trd lng="ka">&#x10D0;&#x10E1;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&#x43A;&#x4E9;&c_sh;&c_ib;&c_r;&#x43C;&c_je;</trd>
+  <trd lng="km">&#x1785;&#x17D2;&#x1794;&#x17B6;&#x1794;&#x17CB;&#x1785;&#x1798;&#x17D2;&#x179B;&#x1784;</trd>
+  <trd lng="kn">&#xCAA;&#xCCD;&#xCB0;&#xCA4;&#xCBF;&#xCAF;&#xCA8;&#xCCD;&#xCA8;&#xCC1;</trd>
+  <trd lng="ko">&#xBCF5;&#xC0AC;</trd>
+  <trd lng="ku">kop&#xEE;</trd>
+  <trd lng="ky">&#x43A;&#x43E;&#x43F;&c_i;&#x44F;</trd>
+  <trd lng="lat">rescriptum</trd>
+  <trd lng="lo">&#xEAA;&#xECD;&#xEB2;&#xEC0;&#xE99;&#xEBB;&#xEB2;</trd>
+  <trd lng="lt">kopija</trd>
+  <trd lng="lv">kopija</trd>
+  <trd lng="mg">dika mitovy</trd>
+  <trd lng="mi">t&#x15D1;rua</trd>
+  <trd lng="mk">&#x43A;&#x43E;&#x43F;&c_i;&#x458;&c_a;</trd>
+  <trd lng="ml">&#xD2A;&#xD15;&#xD30;&#xD4D;&#xD2A;&#xD4D;&#xD2A;&#xD4D;</trd>
+  <trd lng="mn">&c_h;&c_u;&c_u;&#x43B;&c_b;&c_a;&c_r;</trd>
+  <trd lng="mr">&#x915;&#x949;&#x92A;&#x940;</trd>
+  <trd lng="ms">salinan</trd>
+  <trd lng="mt">kopja</trd>
+  <trd lng="my">&#x1019;&#x102D;&#x1010;&#x1039;&#x1010;&#x1030;</trd>
+  <trd lng="ne">&#x92A;&#x94D;&#x930;&#x924;&#x93F;&#x932;&#x93F;&#x92A;&#x93F;</trd>
   <trd lng="nl">kopie</trd>
+  <trd lng="ny">buku</trd>
+  <trd lng="pa">&#xA15;&#xA3E;&#xA2A;&#xA40;</trd>
   <trdgrp lng="pl">
     <trd>kopia</trd>,
     <trd>odbitka</trd>,
     <trd>odpis</trd>
   </trdgrp>   
-<trdgrp lng="ro">
+<trd lng="ps">&#x6A9;&a_A;&#x67E;&#x64A;</trd>
+  <trdgrp lng="ro">
     <trd>copie</trd>,
     <trd>extras</trd>,
     <trd>imprimat</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_p;&c_i;&c_ja;</trd>
+  <trd lng="rw">kopi</trd>
+  <trd lng="sd">&#x6AA;&a_A;&#x67E;&#x64A;</trd>
+  <trd lng="si">&#xDB4;&#xDD2;&#xDA7;&#xDB4;&#xDAD;&#xD9A;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>k&oacute;pia</trd>,
     <trd>odpis</trd>,
     <trd>prieklep</trd>,
     <trd>priepis</trd>
   </trdgrp>
+  <trd lng="sl">izvod</trd>
+  <trd lng="sm">ata</trd>
+  <trd lng="sn">mufananidzo</trd>
+  <trd lng="so">nuqul</trd>
+  <trd lng="sq">kopje</trd>
+  <trd lng="st">khopi</trd>
+  <trd lng="su">salinan</trd>
+  <trd lng="sw">nakala</trd>
+  <trd lng="ta">&#xBAA;&#xBBF;&#xBB0;&#xBA4;&#xBBF;&#xBAF;&#xBC8;</trd>
+  <trd lng="te">&#xC2A;&#xC4D;&#xC30;&#xC24;&#xC3F;&#xC28;&#xC3F;</trd>
+  <trd lng="tg">&#x43D;&c_u;&c_s;&c_h;&c_a;</trd>
+  <trd lng="th">&#xE2A;&#xE33;&#xE40;&#xE19;&#xE32;</trd>
+  <trd lng="tl">kopya</trd>
+  <trd lng="tt">&#x43A;&#x4AF;&c_ch;&c_je;&c_r;&c_je;&#x43F; &c_a;&#x43B;&c_u;</trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43F;&c_ib;&#x44F;</trd>
+  <trd lng="ur">&#x6A9;&a_A;&#x67E;&#x6CC;</trd>
+  <trd lng="uz">nusxa</trd>
+  <trd lng="vi">b&#x1EA3;n sao</trd>
+  <trd lng="xh">ikopi</trd>
+  <trd lng="yi">&#x5E7;&#x5D0;&#x5B8;&#x5E4;&#x5BC;&#x5D9;</trd>
+  <trd lng="yo">daak&#x1ECD;</trd>
+  <trd lng="zu">ikhophi</trd>
 </drv>
 
 <drv mrk="kopi.0ilo">
@@ -233,10 +315,10 @@
         folion kaj la&ubreve;bezone &scirc;ovi &gcirc;in tra la firmaa
         <tld/>ilo
         <fnt><aut>Pejno Simono</aut>:
-        <vrk><url ref="&Monato;/rec/subt.html">Foliaro
+        <vrk><url ref="&Monato;/1999/subt.html">Foliaro
         plukinda</url></vrk>,
         <bib>Monato</bib>,
-        <lok>n-ro 12/1999</lok>
+        <lok>1999/12, p. 24</lok>
         </fnt>
       </ekz>;
       <ekz>
@@ -244,7 +326,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref='&Monato;/2012/010663.php'>De
+          <vrk><url ref="&Monato;/2012/010663.php">De
           papero al komputilo: bitigo de presitaj dokumentoj</url></vrk>
           <lok>2012</lok>
         </fnt>;
@@ -253,11 +335,10 @@
         tele<tld/>ilo + 49 40 656 06 59
         <klr>(vd <ref cel="faks.0ilo">faksilo</ref>)</klr>
         <fnt>
+          
+          <vrk><url ref="&Monato;/1993/A930902.php">Noticoj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref='http://steloj.de/esperanto/monato1/monato-9309-noticoj.txt'>Esperanto
-          sen peno</url></vrk>
-          <lok>93/09</lok>
+          <lok>1993/09, p. 4</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -282,6 +363,10 @@
     <trd>m&aacute;sol&oacute;g&eacute;p</trd>,
     <trd>f&eacute;nym&aacute;sol&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8907;&#x5199;&#x6A5F;  [<ind>&#x3075;&#x304F;&#x3057;&#x3083;&#x304D;</ind>]</trd>,
+    <trd>&#x30B3;&#x30D4;&#x30FC;&#x6A5F;  [<ind>&#x30B3;&#x30D4;&#x30FC;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kopieerapparaat</trd>
   <trd lng="pl">kserokopiarka</trd>     
   <trd lng="ro">copie</trd>
@@ -302,7 +387,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Rob Ebenau</aut>
-          <vrk><url ref='&Monato;/2005/008528.php'>Kiel
+          <vrk><url ref="&Monato;/2005/008528.php">Kiel
           protekti kontra&ubreve; perdo kaj &scirc;telo?</url></vrk>
           <lok>2005</lok>
         </fnt>;
@@ -314,8 +399,7 @@
         <fnt>
           <bib>Viki</bib>
           <vrk><url>https://eo.wikipedia.org/?curid=115867</url></vrk>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=115867'>Sekurkopio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=115867">Sekurkopio</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -339,6 +423,7 @@
     <trd>copie de sauvegarde</trd>
   </trdgrp>
   <trd lng="hu">biztons&aacute;gi m&aacute;solat</trd>
+  <trd lng="ja">&#x30D0;&#x30C3;&#x30AF;&#x30A2;&#x30C3;&#x30D7;&#x30FB;&#x30B3;&#x30D4;&#x30FC;  [<ind>&#x3070;&#x3063;&#x304F;&#x3042;&#x3063;&#x3077;&#x30FB;&#x3053;&#x3074;&#x30FC;</ind>]</trd>
   <trd lng="nl">veiligheidscopie</trd>
   <trd lng="pl">kopia bezpiecze&nacute;stwa</trd>     
   <trd lng="ro">copie de rezerv&abreve;</trd>
@@ -348,6 +433,18 @@
 </art>
 <!--
 $Log$
+versio 1.105 2023/05/03 06:31:13
+Paul Peeraerts: esperanto.be -> &Monato;
+
+versio 1.104 2023/04/13 12:48:39
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.103 2023/04/10 06:31:32
+Paul Peeraerts: korekto de erara Monato-ref
+
+versio 1.102 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.24  2019/06/30 18:21:03  revo
 adaptis URL de Monato
 
@@ -358,14 +455,5 @@ Revision 1.22  2017/08/12 12:10:15  revo
 Wolfram Diestel: ekz-oj
 
 Revision 1.21  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.20  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2014/08/12 09:10:10  revo
-Guillermo Molleda Jimena: Hispana tradukado
-
-Revision 1.18  2011/11/23 17:10:10  revo
 -->
 </vortaro>

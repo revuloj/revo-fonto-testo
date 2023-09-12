@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: impon.xml,v 1.16 2009/09/10 16:32:36 revo Exp $">
+<art mrk="$Id: impon.xml,v 1.32 2023/08/31 16:40:56 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>impon</rad>/i <fnt><bib>PV</bib></fnt>
@@ -14,28 +13,81 @@
     <dif>
       Trudi al iu cedeman respekton, obeeman admiron pro sia supereco:
       <ekz>
-        forta volo <tld/>as &ccirc;iujn, al &ccirc;iuj;
+        tiuj densaj haroj havis <tld/>antan aspekton
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        trompe <tld/>i al iu per fanfaronado;
+        al la amaso tiaj instruitaj paroloj tre <tld/>as
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        la ministro esperis <tld/>i la popolon per ilia publika aresto;
+        nenio povas tiel bone <tld/>i al la amaso, kiel faktoj kaj konstantaj signoj de
+        vivo
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        pro sia &scirc;ajna kompetenteco li <tld/>is al la simpluloj.
+        luksaj vestoj kaj multego da <tld/>antaj ordenoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Unua Kongreso Esperantista en Boulogne sur Mer en la 5a de a&ubreve;gusto
+          1905</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kia <tld/>anta staturo! vi certe estas je duono da kapo pli alta ol mi
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>!
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="impres.0i">impresi</ref>
+    </refgrp>
   </snc>
+  <rim>
+    En unu frua verko trovi&gcirc;as diversloke &leftquot;<esc>impoz</esc>/&rightquot;:
+    <ekz>
+      en&scirc;losita preska&ubreve; &ccirc;ieflanke de aliaj konstrua&jcirc;oj <klr>[&#x2026;]</klr> &gcirc;i ne impozas la
+      rigardanton
+      <fnt>
+        <aut>Valdemar Langlet</aut>
+        <vrk><url ref="&Tekstaro;?nomo=vojaghimpresoj">Voja&gcirc;impresoj</url></vrk>
+        <lok>En Peterburgo</lok>
+      </fnt>.
+    </ekz>
+  </rim>
+  <ref tip="hom" cel="impoz.0i">impozi (aran&gcirc;i)</ref>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol; <ind>&c_p;&c_a;&c_v;&c_a;&c_g;&c_u;</ind></trd>,
+    <trd>&c_ib;&c_m;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="cs">imponovat</trd>
-  <trd lng="de">imponieren</trd>
+  <trdgrp lng="de">
+    <trd>imponieren</trd>,
+    <trd>beeindrucken</trd>
+  </trdgrp>
   <trd lng="en">impress</trd>
+  <trdgrp lng="es">
+    <trd>impresionar<klr tip="ind"> (suscitar
+    admiraci&oacute;n)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>impressionner<klr tip="ind"> (susciter
     l'admiration)</klr></trd>,
     <trd>en <ind>imposer</ind></trd>
   </trdgrp>
   <trd lng="hu">impon&aacute;l</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F37;&#x3044;&#x5370;&#x8C61;&#x3092;&#x4E0E;&#x3048;&#x308B;  [<ind>&#x3064;&#x3088;&#x3044;&#x3044;&#x3093;&#x3057;&#x3087;&#x3046;&#x3092;&#x3042;&#x305F;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x754F;&#x656C;&#x306E;&#x5FF5;&#x3092;&#x8D77;&#x3053;&#x3055;&#x305B;&#x308B;  [<ind>&#x3044;&#x3051;&#x3044;&#x306E;&#x306D;&#x3093;&#x3092;&#x304A;&#x3053;&#x3055;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>imponeren</trd>,
     <trd>indruk maken</trd>
@@ -47,6 +99,11 @@
   </trdgrp>
   <trd lng="sk">imponova&tcaron;</trd>
   <trd lng="sv">imponera</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43C;&#x43F;&#x43E;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&#x43A;&#x43B;&c_i;&#x43A;&c_a;&c_t;&c_i; &#x43F;&#x43E;&c_v;&c_a;&c_g;&c_u;</trd>,
+    <trd>&c_s;&#x43F;&c_r;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i; &c_g;&c_a;&c_r;&#x43D;&c_je; &c_v;&c_r;&c_a;&c_zh;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="impon.0a">
@@ -55,13 +112,52 @@
     <dif>
       Ka&ubreve;zanta admiron, surprize granda, brila:
       <ekz>
-        <tld/>a manifestacio;
+        <tld/>a renkonti&gcirc;o de la tutmonda ortodoksa eklezio
+        <fnt>
+          <aut>Evgeni Georgiev</aut>
+            <vrk><url ref="&Monato;/2000/007012.php">Jarmila festego ortodoksa</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 22</lok>
+          </fnt>;
       </ekz>
       <ekz>
-        <tld/>a monto, ruino, vida&jcirc;o, verko, monumento;
+        la plej <tld/>a vidinda&jcirc;o de la urbo estas ties gotika katedralo
+       <fnt>
+          <aut>Josette Ducloyer</aut>
+          <vrk><url ref="&Monato;/2000/006851.php">Quimper</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 16</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>aj ordenoj<fnt>Z</fnt>.
+        la <tld/>a montar&ccirc;eno de Andoj
+        <fnt>
+          <aut>Hose Marques</aut>
+            <vrk><url ref="&Monato;/2000/007055.php">Voja&gcirc;o al la provinco Tukumano</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 22</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        bestoj kun longeco de 2 &gcirc;is 3 metroj certe estas <tld/>aj, <klr>[&#x2026;]</klr>
+        ekzistas aliaj specioj de varanoj kun longeco de pli ol unu metro
+        <klr>[sed]</klr> la komoda specio <klr>[&#x2026;]</klr> estas la plej granda
+        <fnt>
+          <aut>Wim de Smet</aut>
+          <vrk><url ref="&Monato;/2000/006900.php">La &leftquot;drakoj&#x201D; de Komodo:
+          Gigantaj bestoj sur izola insulo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        Nun fanfarone li levis la nazon, / Nazon <tld/>an en form' de kukurb'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Tro Homa Sorto de iu Ne&gcirc;homo</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -71,18 +167,36 @@
       <ref cel="solen.0a">solena</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_p;&c_a;&c_z;&c_a;&c_n;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_u;&c_r;&c_a;&c_zh;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_v;&c_je;&c_l;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>honosn&yacute;</trd>,
     <trd>n&aacute;dhern&yacute;</trd>,
     <trd>ok&aacute;zal&yacute;</trd>
   </trdgrp>
-  <trd lng="de">imposant</trd>
+  <trdgrp lng="de">
+    <trd>imposant</trd>,
+    <trd>beeindruckend</trd>
+  </trdgrp>
   <trd lng="en">impressive</trd>
+  <trdgrp lng="es">
+    <trd>imponente</trd>,
+    <trd>impresionante</trd>,
+    <trd>majestuoso</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>imposant</trd>,
     <trd>impressionnant</trd>
   </trdgrp>
   <trd lng="hu">imponz&aacute;ns</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5370;&#x8C61;&#x6DF1;&#x3044;  [<ind>&#x3044;&#x3093;&#x3057;&#x3087;&#x3046;&#x3076;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x5802;&#x3005;&#x3068;&#x3057;&#x305F;  [<ind>&#x3069;&#x3046;&#x3069;&#x3046;&#x3068;&#x3057;&#x305F;</ind>]</trd>,
+    <trd>&#x5A01;&#x53B3;&#x306E;&#x3042;&#x308B;  [<ind>&#x3044;&#x3052;&#x3093;&#x306E;&#x3042;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">indrukwekkend</trd>
   <trd lng="pt">imponente</trd>
   <trdgrp lng="ru">
@@ -96,25 +210,53 @@
     <trd>ok&aacute;zal&yacute;</trd>
   </trdgrp>
   <trd lng="sv">imponerande</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43C;&#x43F;&#x43E;&c_z;&c_a;&#x43D;&c_t;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&#x43E;&#x43A;&c_a;&c_z;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&c_je;&c_z;&c_je;&#x43D;&c_t;&c_a;&c_b;&c_je;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_je;&#x43B;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="impon.0eco">
   <kap><tld/>eco</kap>
   <snc mrk="impon.0eco.KOMUNE">
     <dif>
-      Eco de iu a&ubreve; io, kion oni admiras, preska&ubreve; time respektas.
+      Eco de iu a&ubreve; io, kion oni admiras, preska&ubreve; time respektas:
+      <ekz>
+        la glaciejoj, kiuj blankigas la pintojn de la azia montaro, tiom konata pro sia
+        <tld/>eco
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/011067.php">Everesto mem blovospiras</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="auxtor1.0o">a&ubreve;toritato</ref>,
       <ref cel="presti1.0o">presti&gcirc;o</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_m;&c_p;&c_a;&c_z;&c_a;&c_n;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_je;&c_l;&c_ib;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="de">
      <trd>Gro&szlig;artigkeit</trd>,
      <trd>Imposanz</trd>
   </trdgrp>
   <trd lng="en">impressiveness</trd>
+  <trdgrp lng="es">
+    <trd>grandiosidad</trd>,
+    <trd>majestuosidad</trd>
+  </trdgrp>
   <trd lng="fr">&eacute;clat<klr tip="ind"> (caract&egrave;re imposant)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5A01;&#x53B3;  [<ind>&#x3044;&#x3052;&#x3093;</ind>]</trd>,
+    <trd>&#x8358;&#x53B3;&#x3055;  [<ind>&#x305D;&#x3046;&#x3054;&#x3093;&#x3055;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">indruk</trd>
   <trd lng="pt">impon&ecirc;ncia</trd>
   <trdgrp lng="ru">
@@ -122,6 +264,14 @@
     <trd>&c_v;&c_je;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_s;&c_t;&c_i;&c_zh;</trd>,
     <trd>&c_a;&c_v;&c_t;&c_o;&c_r;&c_i;&c_t;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43C;&#x43F;&#x43E;&c_z;&c_a;&#x43D;&c_t;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_v;&c_je;&#x43B;&c_i;&c_ch;</trd>,
+    <trd>&#x43F;&c_r;&c_je;&c_s;&c_t;&c_i;&c_zh;</trd>,
+    <trd>&c_a;&c_v;&c_t;&#x43E;&c_r;&c_i;&c_t;&c_je;&c_t;</trd>,
+    <trd>&c_s;&#x43B;&c_a;&c_v;&c_a;</trd>,
+    <trd>&#x43F;&#x43E;&#x43F;&c_u;&#x43B;&#x44F;&c_r;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -132,18 +282,34 @@
       Sinteno de tiu, kiu volas <tld/>i;
       memkontenta elmontremo:
       <ekz>
-        tie rolas ankora&ubreve; unu faktoro: la <tld/>emo; la 
-        &leftquot;inteligenta po&scirc;telefono&rightquot; <klr>...</klr> estas 
+        tie rolas ankora&ubreve; unu faktoro: la <tld/>emo: la 
+        &leftquot;inteligenta po&scirc;telefono&rightquot; <klr>[&#x2026;]</klr> estas 
         multekosta kaj efekta
         <fnt>
           <aut>S. Pokrovskij</aut>,
           <vrk>Po&scirc;komputilo</vrk>,
-          <lok><url ref="http://esperanto-ondo.ru/96-lode.htm">
+          <lok><url ref="&LOdE;96-lode.htm">
           </url>La Ondo de Esperanto, 2002:10</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="arogan.0a">aroganta</ref>,
+       <ref cel="fanfar1.0i">fanfaroni</ref>,
+       <ref cel="fier.0o.fiereco">fiero<sncref/></ref>,
+       <ref cel="orgojl.0o">orgojlo</ref>
+    </refgrp>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_y;&c_sh;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd>Imponiergehabe</trd>,
+    <trd>Angeberei</trd>,
+    <trd>Wichtigtuerei</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ostentaci&oacute;n</trd>,
+    <trd>presunci&oacute;n</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>ostentation</trd>,    
     <trd>pr&eacute;tention</trd>
@@ -158,7 +324,7 @@
       Admire, respekte ekvidi la neatenditan grandecon,
       la superecon de io:
       <ekz>
-        Mik ne nur devenis de la angla &ccirc;efurbo, sed estis tre fiera pri 
+        <nom>Mik</nom> ne nur devenis de la angla &ccirc;efurbo, sed estis tre fiera pri 
         tio, kaj estis konvinkita ke &ccirc;iuj aliaj same <tld/>i&gcirc;as anta&ubreve; &gcirc;i
         <fnt>
           <aut>J. Francis</aut>,
@@ -168,29 +334,34 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_b;&c_y;&c_c;&c_mol; &c_p;&c_a;&c_d; <ind>&c_u;&c_r;&c_a;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;&c_m;</ind></trd>
+  <trd lng="es">ser impresioado<klr> (por)</klr></trd>
   <trd lng="fr">&ecirc;tre impressionn&eacute;<klr> (par)</klr></trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.19  2015/07/04 08:37:36  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.31 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
 
-Revision 1.18  2015/06/29 16:33:15  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.30 2023/04/30 12:42:38
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.17  2015/02/04 23:10:17  revo
-Jeromo Vasxe: + ~emo
+versio 1.29 2023/04/27 18:31:10
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.16  2009/09/10 16:32:36  revo
-Jerano Zachrisson: +trd sv
+versio 1.28 2023/04/19 08:31:35
+Dmitri Gabinski: + trd be
 
-Revision 1.15  2009/02/15 14:17:33  revo
-Russ Williams: +trd en
+versio 1.27 2023/04/13 16:34:12
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.14  2005/10/26 16:31:49  revo
-Luiz Portella: +trd pt
+versio 1.26 2023/04/13 14:28:04
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.13  2003/11/29 20:06:37  revo
+versio 1.25 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2021/10/03 18:41:06
 -->
 </vortaro>

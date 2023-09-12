@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: volb.xml,v 1.24 2023/09/05 09:43:56 revo Exp $">
 <kap>
   <rad>volb</rad>/o
 </kap>
@@ -11,18 +10,46 @@
   <snc mrk="volb.0o.ARKI">
     <uzo tip="fak">ARKI</uzo>
     <dif>
-      Arka&jcirc;o el vicoj de &scirc;tonoj, kiuj konsistigas murojn kaj supre
-      kuni&gcirc;as
-      en kurba <ref tip="super" cel="plafon.0o.ARKI">plafono</ref>:
-      <ekz>
-        <uzo tip="stl">FIG</uzo>
-        la blua &ccirc;ielo <tld/>i&gcirc;is super ni;
-      </ekz>
+      <ref tip="super" cel="ark.0ajxo">Arka&jcirc;o</ref> el vicoj de &scirc;tonoj, 
+      kiuj konsistigas murojn kaj supre kuni&gcirc;as en kurba 
+      <ref tip="super" cel="plafon.0o.ARKI">plafono</ref>:
       <ekz>
         ponto kun rondaj arkaj <tld/>oj
-        <fnt><bib>Kiso</bib>, <lok>la brulanta urbo</lok></fnt>.
+        <fnt><bib>Kiso</bib>, <lok>la brulanta urbo</lok></fnt>;
+      </ekz>
+      <ekz>
+        apena&ubreve; <klr>[mi povis]</klr> savi min sub pordegan <tld/>on, kiam ekfuriozis la
+        &scirc;tormo
+        <fnt>
+          <bib>Kiso</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        du grandaj salonoj sur kies <tld/>o estis pentritaj siringviolaj &ccirc;evaloj
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>.
       </ekz>
     </dif>
+  </snc>
+  <snc mrk="volb.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Io <tld/>forma:
+      <ekz>
+        sub la stelornamita velur&scirc;tofo de la &ccirc;iela <tld/>o ek&scirc;vebis vualrubando de prae
+        orienta melodio
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ale.0o.TRA">aleo<sncref/></ref>,
+      <ref cel="lauxb.0o">la&ubreve;bo</ref>,
+      <ref cel="firmam.0o.BIB">firmamento<sncref/></ref>
+    </refgrp>
+    <trd lng="de">W&ouml;lbung</trd>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_l;&c_ja;&c_p;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="bg">&c_s;&c_v;&c_o;&c_d;</trd>
@@ -42,14 +69,126 @@
     <trd>voute</trd>
   </trdgrp>
   <trd lng="hu">boltozat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DC;&#x30FC;&#x30EB;&#x30C8;</trd>,
+    <trd>&#x30A2;&#x30FC;&#x30C1;&#x5F62;&#x5929;&#x4E95;  [<ind>&#x30A2;&#x30FC;&#x30C1;&#x304B;&#x305F;&#x3066;&#x3093;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x4E38;&#x5929;&#x4E95;  [<ind>&#x307E;&#x308B;&#x3066;&#x3093;&#x3058;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">gewelf</trd>
   <trd lng="pt">ab&oacute;bada</trd>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_d; <klr tip="amb">(&c_a;&c_r;&c_h;&c_i;&c_t;.)</klr></trd>
   <trd lng="sk">klenba</trd>
+  <trd lng="uk">&c_s;&#x43A;&#x43B;&c_je;&#x43F;&c_ib;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
+
+<drv mrk="volb.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc mrk="volb.0a.provizita">
+    <dif>
+      Provizita, konstruita per <tld/>oj:
+      <ekz>
+        mi &ccirc;irka&ubreve;rigardis en la multkolora, antikveca <tld/>a salono
+        <fnt>
+          <bib>SatirRak</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        renovigita <tld/>a&jcirc;kelo de la mona&hcirc;ejo
+        <fnt>
+        <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/007113.php">A&ubreve;strio &dash; Ser&ccirc;i la
+          perditan paradizon</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/10, p. 20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="volb.0a.oforma">
+    <dif>
+      <tld lit="V"/>oforma:
+      <ekz>
+        <tld/>a &ccirc;apelo
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi venis finfine al granda alte <tld/>i&gcirc;anta pordego, kiu aspektis tre antikva
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+       <ref cel="kurb.0a.FORM">kurba<sncref/></ref>,
+       <ref cel="rond.0a.FORM">ronda<sncref/></ref>
+    </refgrp>
+    <trd lng="de">gew&ouml;lbt</trd>
+  </snc>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_k;&c_l;&c_ja;&c_p;&c_je;&c_n;&c_ib;&c_s;&c_t;&c_y;</trd>,
+      <trd>&c_s;&c_k;&c_l;&c_ja;&c_p;&c_je;&c_n;&c_n;&c_y;</trd>,
+      <trd>&c_d;&c_u;&c_g;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>
+    </trdgrp>
+  <trd lng="ja">&#x30A2;&#x30FC;&#x30C1;&#x5F62;&#x5929;&#x4E95;&#x306E;  [<ind>&#x30A2;&#x30FC;&#x30C1;&#x304B;&#x305F;&#x3066;&#x3093;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43A;&#x43B;&c_je;&#x43F;&c_ib;&#x43D;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_u;&c_g;&#x43E;&#x43F;&#x43E;&c_d;&c_ib;&c_b;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="volb.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <snc>
+    <dif>
+      Super<ref tip="sin" cel="ark.0i">arki</ref> kiel <tld/>o:
+      <ekz>
+        alte super la tero kun &gcirc;ia mola krepuskolumo <tld/>is sin vasta, nubostriita
+        spaco
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per vere kosmaj proporcioj: giganta katedralo <tld/>anta la <klr>[&#x2026;]</klr>
+        printempan vivon
+        <fnt>
+          <bib>SatirRak</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_v;&c_ib;&c_s;&c_a;&c_c;&c_mol; <klr>(&c_s;&c_k;&c_l;&c_ja;&c_p;&c_je;&c_n;&c_mol;&c_n;&c_je;&c_m;)</klr></trd>
+  <trd lng="de">w&ouml;lben</trd>
+  <trd lng="ja">&#x30A2;&#x30FC;&#x30C1;&#x5F62;&#x5929;&#x4E95;&#x3092;&#x4ED8;&#x3051;&#x308B;  [<ind>&#x30A2;&#x30FC;&#x30C1;&#x304B;&#x305F;&#x3066;&#x3093;&#x3058;&#x3087;&#x3046;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>
+  <trd lng="uk">&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &c_s;&#x43A;&#x43B;&c_je;&#x43F;&c_ib;&#x43D;&#x43D;&#x44F;</trd>
+</drv>
+
+
 </art>
 <!--
 $Log$
+versio 1.23 2023/05/13 07:22:50
+Paul Peeraerts: kor de erara url
+
+versio 1.22 2023/05/06 15:12:06
+revo: aktualigo URL-unuoj
+
+versio 1.21 2022/11/02 07:33:09
+Dmitri Gabinski: + trd be
+
+versio 1.19 2021/12/06 07:29:49
+Dmitri Gabinski: + trd be
+
+versio 1.18 2021/04/09 13:06:19
+Wolfram Diestel: +~a, ~i; ekz-oj, ref-oj
+
 Revision 1.16  2015/06/28 12:03:50  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -57,23 +196,5 @@ Revision 1.15  2013/09/02 15:10:26  revo
 Joop Eggen: +trd bg
 
 Revision 1.14  2012/08/13 10:10:31  revo
-Marc Rausell: + trd ca
-
-Revision 1.13  2009/08/08 16:34:36  revo
-Russ Williams: +trd en
-
-Revision 1.12  2006/01/16 17:32:08  revo
-Jeromo Vasxe: + tez, simplig. dif, + 1 ekz
-
-Revision 1.11 2002/07/27 19:03:05 revo
-Eduardo M. Kalinowski: ald trd el, pt
-
-Revision 1.10 2002/07/12 17:34:19 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9 2002/05/30 17:30:48 revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.8 2002/03/19 17:34:40 revo
 -->
 </vortaro>

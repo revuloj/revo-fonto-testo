@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hxasid.xml,v 1.10 2009/07/02 16:30:59 revo Exp $">
+<art mrk="$Id: hxasid.xml,v 1.15 2023/07/16 16:35:38 revo Exp $">
    <kap><rad>&hcirc;asid</rad>/o</kap>
 
 <drv mrk="hxasid.0o">
@@ -33,8 +32,7 @@
         povoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=37446"
-              >Rabeno</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=37446">Rabeno</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -42,8 +40,7 @@
         kulturo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=108716"
-              >Klezmero</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=108716">Klezmero</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -67,6 +64,7 @@
      <trd>chassid</trd>,
      <trd>chassidita</trd>
    </trdgrp>
+  <trd lng="uk">&c_h;&c_a;&c_s;&c_i;&c_d;</trd>
 </drv>
 
 <drv mrk="hxasid.0ismo">
@@ -76,15 +74,14 @@
     <dif>
       En <ref tip="malprt" cel="jud.0ismo">judismo</ref>, mistika
       movado kaj vivmaniero bazita sur &gcirc;oje fida sindono al 
-      la Dia volo, unue meniciita en la 12a jc kaj refondita 
+      la Dia volo, unue menciita en la 12a jc kaj refondita 
       en la 18a jc inter la judoj polaj kaj ruslandaj:
       <ekz>
         la unuaj mencioj pri e&ubreve;ropa <tld/>ismo devenas el Germanio, kie en la 12-a &gcirc;is
         la 13-a jarcento tiu &ccirc;i mistika movado de piuloj disvasti&gcirc;is
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=52460"
-              >&Hcirc;asidismo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=52460">&Hcirc;asidismo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -92,8 +89,7 @@
         terenoj de la Respubliko de Amba&ubreve; Nacioj en la 18-a jarcento
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=332942"
-              >Baal &Scirc;em Tov</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=332942">Baal &Scirc;em Tov</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -113,12 +109,16 @@
    <trd lng="pt">chassidismo</trd>
    <trd lng="ru">&c_h;&c_a;&c_s;&c_i;&c_d;&c_i;&c_z;&c_m;</trd>
    <trd lng="it">chassidismo</trd>
+  <trd lng="uk">&c_h;&c_a;&c_s;&c_i;&c_d;&c_i;&c_z;&#x43C;</trd>
 </drv>
 
 </art>
 
 <!--
 $Log$
+versio 1.15 2023/07/16 16:35:38
+Wolfram Diestel: korekteto de mistajpo
+
 Revision 1.12  2017/06/08 17:10:14  revo
 Ludoviko Francisco: +trd fr +trd en
 

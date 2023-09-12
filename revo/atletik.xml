@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: atletik.xml,v 1.6 2007/05/22 16:31:16 revo Exp $">
+<art mrk="$Id: atletik.xml,v 1.19 2023/08/30 18:23:38 revo Exp $">
 <kap>
   <rad>atletik</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -12,27 +11,23 @@
   <snc mrk="atletik.0o.SPO">
     <uzo tip="fak">SPO</uzo>
     <dif>
-      <ref tip="dif" cel="atlet.0ismo">Atletismo</ref>:
-      <ekz>
-        jen komenci&gcirc;as konkuro de la malpeza <tld/>o
-        <fnt><bib>Metrop</bib></fnt>;
-      </ekz>
+      La grupo de sportoj, kiuj bezonas rimarkindan fortecon;
+      <ref tip="sin" cel="atlet.0ismo">atletismo</ref>:
       <ekz>
         a&ubreve;stralia heroino de <tld/>o fari&gcirc;is monde konata: estis &scirc;i, kiu metis fajron en
         la olimpian kalikon
         <fnt>
-          <bib>Monato</bib>
-          <aut>Igarasi Takeo</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007204.html"
-              >Tor&ccirc;o de hipokriteco</url></vrk>
-        </fnt>;
+          <aut>IGARASI Takeo</aut>
+            <vrk><url ref="&Monato;/2000/007204.html">Tor&ccirc;o de hipokriteco</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 15</lok>
+          </fnt>;
       </ekz>
       <ekz>
         kiuj interesi&gcirc;as pri <tld/>o a&ubreve; korpa prizorgado, tiuj ne nur 
         pensas pri sanstato kaj trejnado, sed siatempe anka&ubreve; pri 
         malstre&ccirc;o
-        <fnt><aut>Lukiano, trad. G. Berveling</aut>, <vrk><url 
-        ref="http://www.esperanto.gr/lit/els/rakontoj.pdf">veraj 
+        <fnt><aut>Lukiano, trad. G. Berveling</aut>, <vrk><url ref="http://www.esperanto.gr/lit/els/rakontoj.pdf">veraj 
         rakontoj</url>. - 2005</vrk></fnt>.
       </ekz>
     </dif>
@@ -44,19 +39,61 @@
   <trd lng="en">athletics</trd>
   <trd lng="es">atletismo</trd>
   <trd lng="fr">athl&eacute;tisme</trd>
+  <trd lng="he">&alef;&#x5B7;&tav;&lamed;&#x5B5;&tet;&#x5B4;&yod;&qof;&#x5B8;&he;</trd>
   <trd lng="hu">atl&eacute;tika</trd>
   <trd lng="it">atletica</trd>
+  <trdgrp lng="ja">
+    <trd>&#x904B;&#x52D5;&#x7AF6;&#x6280;  [<ind>&#x3046;&#x3093;&#x3069;&#x3046;&#x304D;&#x3087;&#x3046;&#x304E;</ind>]</trd>,
+    <trd>&#x9678;&#x4E0A;&#x7AF6;&#x6280;  [<ind>&#x308A;&#x304F;&#x3058;&#x3087;&#x3046;&#x304D;&#x3087;&#x3046;&#x304E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">atletiek</trd>
   <trd lng="pl">atletyka</trd>
   <trd lng="ro">atletism</trd>
   <trd lng="ru">&c_a;&c_t;&c_l;&c_je;&c_t;&c_i;&c_k;&c_a;</trd>
   <trd lng="sk">atletika</trd>
   <trd lng="sv">friidrott</trd>
+  <trd lng="uk">&c_a;&c_t;&#x43B;&c_je;&c_t;&c_i;&#x43A;&c_a;</trd>
 </drv>
+
+<drv mrk="atletik.malpeza_0o">
+  <kap>
+    malpeza <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      La sportoj de kurado, saltado, &jcirc;etado
+      (kontraste al peza <tld/>o, t.e. pezlevado, luktado ktp):
+      <ekz>
+        jen komenci&gcirc;as konkuro de la malpeza <tld/>o,
+        homoj simile al katoj saltas trans la barieroj
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_jo;&c_g;&c_k;&c_a;&c_ja; <ind>&c_a;&c_t;&c_l;&c_je;&c_t;&c_y;&c_k;&c_a;</ind></trd>
+  <trd lng="de">Leichtathletik</trd>
+</drv>
+
+
 </art>
 
 <!--
 $Log$
+versio 1.18 2023/04/29 16:32:03
+Paul Peeraerts: Steloj -> monato
+
+versio 1.17 2022/05/04 07:30:25
+Dmitri Gabinski: + trd be
+
+versio 1.16 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.14 2021/08/22 18:32:14
+Wolfram Diestel: korektetoj, aldonetoj
+
+versio 1.13 2021/08/22 17:31:23
+Wolfram Diestel: +dif (ref atletismo); +drv malpeza ~o
+
 Revision 1.10  2017/12/09 00:10:18  revo
 Vito Redsky: +trd ro +trd pl
 
@@ -64,17 +101,5 @@ Revision 1.9  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.8  2015/05/15 14:10:18  revo
-Joop Eggen: +trd bg nl k.a.
-
-Revision 1.7  2012/01/26 12:10:15  revo
-Antonio Codazzi: +trd it
-
-Revision 1.6  2007/05/22 16:31:16  revo
-Wieland Pusch: +trd de
-
-Revision 1.5  2006/09/20 10:21:30  revo
-Jeromo Vasxe: + 1 ekz + trd fr
-
-Revision 1.4  2005/09/08 16:31:28  revo
 -->
 </vortaro>

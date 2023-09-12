@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kast.xml,v 1.10 2004/12/05 17:33:34 revo Exp $">
+<art mrk="$Id: kast.xml,v 1.16 2023/09/01 13:58:57 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kast</rad>/o
@@ -26,7 +25,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        ser&ccirc;istoj de postesignoj en Hindujo formas apartan <tld/>on <klr>[&#8230;]</klr>
+        ser&ccirc;istoj de postesignoj en Hindujo formas apartan <tld/>on <klr>[&#x2026;]</klr>
         kompreneble la rezultatoj de tia sperto estas atingeblaj nur por la <tld/>o
         de khojoj kaj estas tenataj en plej granda sekreto anta&ubreve; la profanoj
         <fnt>
@@ -38,8 +37,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Dina Newman kaj Firda&ubreve;s &Scirc;ukurov</aut>
-          <vrk><url ref="&Monato;/2008/009332.php"
-              >Budhismo en Ta&gcirc;ikio</url></vrk>
+          <vrk><url ref="&Monato;/2008/009332.php">Budhismo en Ta&gcirc;ikio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -50,10 +48,16 @@
   <trd lng="es">casta</trd>
   <trd lng="fr">caste</trd>
   <trd lng="hu">kaszt</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30FC;&#x30B9;&#x30C8;</trd>,
+    <trd>&#x4E16;&#x8972;&#x7684;&#x793E;&#x4F1A;&#x968E;&#x7D1A;  [<ind>&#x305B;&#x3057;&#x3085;&#x3046;&#x3066;&#x304D;&#x3057;&#x3083;&#x304B;&#x3044;&#x304B;&#x3044;&#x304D;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x8EAB;&#x5206;  [<ind>&#x307F;&#x3076;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kaste</trd>
   <trd lng="pl">kasta</trd>     
   <trd lng="ro">cast&abreve;</trd>
   <trd lng="ru">&c_k;&c_a;&c_s;&c_t;&c_a;</trd>
+  <trd lng="uk">&#x43A;&#x430;&#x441;&#x442;&#x430;</trd>
 </drv>
 
 <drv mrk="kast.0ismo">
@@ -71,8 +75,7 @@
         domoj de ordinaraj urbanoj, manifestante la rigoran <tld/>ismon
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=57396"
-              >Pingyao</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=57396">Pingyao</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -82,10 +85,16 @@
   <trd lng="en">caste system</trd>
   <trd lng="fr">syst&egrave;me des <ind>caste</ind>s</trd>
   <trd lng="hu">kasztrendszer</trd>
+  <trd lng="ja">&#x30AB;&#x30FC;&#x30B9;&#x30C8;&#x5236;&#x5EA6;  [<ind>&#x30AB;&#x30FC;&#x30B9;&#x30C8;&#x305B;&#x3044;&#x3069;</ind>]</trd>
   <trd lng="nl">kastestelsel</trd>
   <trd lng="pl">kastowy system</trd>     
   <trd lng="ro">sistemul de caste</trd>
   <trd lng="ru">&c_k;&c_a;&c_s;&c_t;&c_o;&c_v;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x441;&#x442;&#x43E;&#x432;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x437;&#x430;&#x43C;&#x43A;&#x43D;&#x443;&#x442;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x432;&#x456;&#x434;&#x43E;&#x441;&#x43E;&#x431;&#x43B;&#x435;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

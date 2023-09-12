@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ksifi.xml,v 1.10 2006/10/27 16:30:53 revo Exp $">
+<art mrk="$Id: ksifi.xml,v 1.16 2023/09/01 15:46:46 revo Exp $">
 <kap>
   <rad>ksifi</rad>/o
 </kap>
@@ -28,15 +27,11 @@
         </fnt>.
       </ekz>
     </dif>
-    <bld
-       lok="&WCU;/thumb/6/6c/Xiphias_gladius_stuffed.jpg/640px-Xiphias_gladius_stuffed.jpg"
-       prm="CC BY-SA 3.0"
-       ><tld/>o (Xiphias gladius)
+    <bld lok="&WCU;/thumb/6/6c/Xiphias_gladius_stuffed.jpg/640px-Xiphias_gladius_stuffed.jpg" prm="CC BY-SA 3.0"><tld/>o (Xiphias gladius)
   
          <fnt>
-           <aut>© Citron, propra verko</aut>
-           <lok><url ref="&WCW;/File:Xiphias_gladius_stuffed.jpg"
-               >&WCW;/File:Xiphias_gladius_stuffed.jpg</url></lok>
+           <aut>&#xA9; Citron, propra verko</aut>
+           <lok><url ref="&WCW;/File:Xiphias_gladius_stuffed.jpg">&WCW;/File:Xiphias_gladius_stuffed.jpg</url></lok>
          </fnt>
     </bld>
   </snc>
@@ -45,6 +40,7 @@
   <trd lng="en">swordfish</trd>
   <trd lng="fr">espadon</trd>
   <trd lng="hu">kardhal</trd>
+  <trd lng="ja">&#x30E1;&#x30AB;&#x30B8;&#x30AD;</trd>
   <trd lng="la">Xiphias gladius</trd>
   <trd lng="nl">zwaardvis</trd>
   <trdgrp lng="pl">
@@ -52,8 +48,12 @@
     <trd>w&lstroke;&oacute;cznik</trd>
   </trdgrp>   
   <trd lng="pt">espadarte</trd>
-  <trd lng="ro">pe&#537;te spad&abreve;</trd>
+  <trd lng="ro">pe&#x219;te spad&abreve;</trd>
   <trd lng="ru">&c_m;&c_je;&c_ch;-&c_r;&c_y;&c_b;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x435;&#x447;&#x43E;&#x43D;&#x456;&#x441;</trd>,
+    <trd>&#x43C;&#x435;&#x447;-&#x440;&#x438;&#x431;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

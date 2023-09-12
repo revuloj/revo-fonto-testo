@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frost.xml,v 1.20 2009/03/04 17:31:19 revo Exp $">
+<art mrk="$Id: frost.xml,v 1.40 2023/08/31 13:11:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>frost</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,23 +11,59 @@
   <snc mrk="frost.0o.MET">
   <uzo tip="fak">MET</uzo>
     <dif>
-      Malalta temperaturo, malvarmo, kiu glaciigas akvon:
+      <ref tip="super" cel="varm.mal0o.FIZ">Malvarmo</ref>, kiu glaciigas akvon:
       <ekz>
-        la <tld/>o &ccirc;ion detruis en la &gcirc;ardeno;
+        dum la <tld/>o ili havas nenion, por sin kovri
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 24:7</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        tremi pro <tld/>o;
+        &scirc;in terure turmentis la <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la dika &scirc;afa pelto, malsekigita <klr>[&#x2026;]</klr> rigidi&gcirc;is de <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vintro venis frue, estis akra <tld/>o
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        kial mi sentas tian <tld/>on en miaj ostoj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>?
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
         la jura konsilisto eksentis <tld/>on en la dorso
-        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>
-        <klr>(ektimis)</klr>.
+        <klr>(ektimis)</klr>
+        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>;        
+      </ekz>
+      <ekz>
+        urtikon <tld/>o ne difektas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="glaci.0o">glacio</ref>,
-      <ref cel="prujn.0o">prujno</ref>.
+      <ref cel="prujn.0o">prujno</ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_r;&c_o;&c_z;</trd>
@@ -50,6 +85,11 @@
     <trd>froid glacial</trd>
   </trdgrp>
   <trd lng="hu">fagy</trd>
+  <trdgrp lng="ja">
+    <trd>&#x53B3;&#x5BD2;  [<ind>&#x3052;&#x3093;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x6C37;&#x70B9;&#x4E0B;&#x306E;&#x5BD2;&#x6C17;  [<ind>&#x3072;&#x3087;&#x3046;&#x3066;&#x3093;&#x304B;&#x306E;&#x304B;&#x3093;&#x304D;</ind>]</trd>,
+    <trd>&#x3072;&#x3069;&#x3044;&#x5BD2;&#x3051;  [<ind>&#x3072;&#x3069;&#x3044;&#x3055;&#x3080;&#x3051;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vorst<klr tip="ind"> (koude)</klr></trd>
   <trd lng="pl">mr&oacute;z</trd>
   <trdgrp lng="pt">
@@ -58,6 +98,12 @@
   </trdgrp>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_o;&c_z;</trd>
   <trd lng="sk">mr&aacute;z</trd>
+
+<trdgrp lng="th">
+  <trd>&#xE04;&#xE27;&#xE32;&#xE21;&#xE2B;&#xE19;&#xE32;&#xE27;&#xE40;&#xE22;&#xE37;&#xE2D;&#xE01;&#xE41;&#xE02;&#xE47;&#xE07;</trd>,
+  <trd>&#xE04;&#xE27;&#xE32;&#xE21;&#xE2B;&#xE19;&#xE32;&#xE27;&#xE08;&#xE31;&#xE14;</trd>
+</trdgrp>
+  <trd lng="uk">&c_t;&c_r;&c_je;&c_m;&c_t;&c_ib;&c_t;&c_i; &c_v;&c_ib;&c_d; &c_m;&c_o;&c_r;&c_o;&c_z;&c_u;</trd>
 </drv>
 
 <drv mrk="frost.0a">
@@ -65,15 +111,47 @@
   <snc mrk="frost.0a.MET">
   <uzo tip="fak">MET</uzo>
     <dif>
-      Glaciige malvarma:
+      Glaciige <ref tip="super" cel="varm.mal0a.fizike">malvarma</ref>:
       <ekz>
-        <tld/>a vetero, vento;
+        hodia&ubreve; estas bela <tld/>a vetero, tial mi prenos miajn glitilojn kaj iros gliti
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 34</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la <tld/>aj dezertoj de la poluso;
+        en la sekvanta tago estis serena <tld/>a vetero, kaj poste komencis degeli
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        hodia&ubreve; estas <tld/>e.
+        meze de la ne&gcirc;okovritaj stratoj en <tld/>a vintra nokto li mortis
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a pikanta aero
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        liaj dentoj ekmordis la <tld/>ajn buterpanojn
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Feli&ccirc;a homo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &scirc;ia <tld/>a mieno iom degelis
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Kuni&gcirc;o</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -96,6 +174,10 @@
     <trd>glacial</trd>
   </trdgrp>
   <trd lng="hu">fagyos</trd>
+  <trdgrp lng="ja">
+    <trd>&#x53B3;&#x5BD2;&#x306E;  [<ind>&#x3052;&#x3093;&#x304B;&#x3093;&#x306E;</ind>]</trd>,
+    <trd>&#x51CD;&#x308A;&#x3064;&#x304F;&#x3088;&#x3046;&#x306A;  [<ind>&#x3053;&#x304A;&#x308A;&#x3064;&#x304F;&#x3088;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>ijskoud</trd>,
     <trd>ijzig</trd>
@@ -103,25 +185,64 @@
   <trd lng="pl">mro&zacute;ny</trd>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_o;&c_z;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">mraziv&yacute;</trd>
+<trdgrp lng="th">
+  <trd>&#xE2B;&#xE19;&#xE32;&#xE27;&#xE40;&#xE22;&#xE37;&#xE2D;&#xE01;&#xE41;&#xE02;&#xE47;&#xE07;</trd>,
+  <trd>&#xE2B;&#xE19;&#xE32;&#xE27;&#xE08;&#xE31;&#xE14;</trd>
+</trdgrp>
+  <trd lng="uk">&c_m;&c_o;&c_r;&c_o;&c_z;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="frost.0i">
   <kap><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="frost.0i.MET">
-  <uzo tip="fak">MET</uzo>
+    <uzo tip="fak">MET</uzo>
     <dif>
-      Esti <tld/>e:
+      Esti <tld/>e malvarme:
       <ekz>
-        ofte <tld/>as ankora&ubreve; en marto;
+        ekstere estas tre malvarme, ne&gcirc;as kaj <tld/>as
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>!
       </ekz>
       <ekz>
-        <tld/>as al mi en la piedoj.
+        en la kamparo <klr>[&#x2026;]</klr> <tld/>is ankora&ubreve; kelke da gradoj pli ol en la urbo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_m;&c_a;&c_r;&c_o;&c_z;&c_ib;&c_c;&c_mol; <klr
-  tip="ind">(&c_b;&c_je;&c_z;&c_a;&c_s;&c_a;&c_b;.)</klr></trd>
+  <snc mrk="frost.0i.senti">
+    <dif>
+      Senti <tld/>an malvarmon:
+      <ekz>
+        mi <tld/>as &ccirc;i tie &ccirc;e la fajro, kiel ili devas <tld/>i kaj tremi tie supre
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Fabelo pri iu, kiu migris por ekkoni timon</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        &scirc;i frostis, sed ankora&ubreve; sentis la dol&ccirc;on de la panpeco kaj &scirc;i subite revivi&gcirc;is
+        el sia apatio
+        <fnt>
+          <bib>LGA</bib>
+          <lok>II.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        maljunulina&ccirc;o bezonas tion, &scirc;i <tld/>as tiel facile
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Bj&ouml;rn Erik H&ouml;ijer</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_o;&c_z;&c_ib;&c_c;&c_mol; <klr tip="ind">(&c_b;&c_je;&c_z;&c_a;&c_s;&c_a;&c_b;.)</klr></trd>
   <trdgrp lng="cs">
     <trd>mrazit</trd>,
     <trd>mrznout</trd>,
@@ -133,10 +254,18 @@
   <trd lng="es">helar</trd>
   <trd lng="fr">geler<klr tip="ind"> (impers.)</klr></trd>
   <trd lng="hu">fagy</trd>
+  <trdgrp lng="ja">
+    <trd>&#x51CD;&#x3048;&#x3066;&#x3044;&#x308B;  [<ind>&#x3053;&#x3054;&#x3048;&#x3066;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x51CD;&#x3063;&#x3066;&#x3044;&#x308B;  [<ind>&#x3053;&#x304A;&#x3063;&#x3066;&#x3044;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vriezen</trd>
   <trd lng="pl">mrozi&cacute;</trd>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_t;&c_mol;<klr tip="amb"> (&c_b;&c_je;&c_z;&c_l;.)</klr></trd>
   <trd lng="sk">mrzn&uacute;&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_je;&c_r;&c_z;&c_n;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_je;&c_r;&c_z;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frost.0igi">
@@ -145,23 +274,109 @@
     <dif>
       Fari ion glaciige malvarma, glaciigi:
       <ekz>
-        vintra vento <tld/>igas nin &gcirc;isoste;
-      </ekz>
-      <ekz>
         malvarmo <tld/>igis la riveron;
       </ekz>
       <ekz>
-        ili fosis penege en la <tld/>igita tero.
+        ili fosis penege en la <tld/>igita tero;
+      </ekz>
+      <ekz>
+        Se la naturo rigidi&gcirc;as &#x2AFD; De prem' de l'&#x202F;vintro <tld/>iganta
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igita viando
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igitaj, saligitaj kaj sekigitaj fungoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>LAST</aut>
+          <vrk><url ref="&Monato;/2004/008448.html">Fungoj litova eksportvaro</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la &ccirc;iam<tld/>a grundo de la norda Siberio certe ku&scirc;as multaj miloj da
+        <tld/>igitaj mamutoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2015/011414.php">Glaciaj mumioj sor&ccirc;as A&ubreve;strion</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="frost.0igi.sentigi">
+    <dif>
+      Sentigi <tld/>an malvarmon:
+      <ekz>
+        akra venteto, <klr>[&#x2026;]</klr> tran&ccirc;etis lian viza&gcirc;on kaj lin <tld/>igis &gcirc;is ostoj
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la glacio <klr>[&#x2026;]</klr> <tld/>igis la sentojn en &scirc;ia brusto
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        rigida, oficiala respondo min <tld/>igis kaj fortimigis
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sesa &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        subite aperis en mi memoro, kiu <tld/>igis mian koron pro teruro
+        <fnt>
+          <bib>Kiso</bib>
+          <lok>Son&gcirc;o Pri Maljuneco</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <snc mrk="frost.0igi.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Haltigi,
-      <ref tip="vid" cel="parali.0i.FIG">paralizi<sncref/></ref>:
+      <ref tip="super" cel="halt.0igi">Haltigi</ref>,
+      <ref cel="parali.0i.FIG">paralizi<sncref/></ref>:
       <ekz>
-        tiuj vortoj <tld/>igis la entuziasmon.
+        se UN decidus <tld/>igi tiun monon, kiu profitus
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Serge Zandandu Ntomono Zola</aut>
+          <vrk><url ref="&Monato;/2003/007982.html">Disrabado de naturaj ri&ccirc;a&jcirc;oj</url></vrk>
+          <lok>2003</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        &ccirc;u la dungantoj ne <tld/>igos la salajrojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2007/009205.php">Problemo pro salajroj</url></vrk>
+          <lok>2007</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        pastoroj <tld/>igas la rilaton kun adeptoj, kiuj ne plu kapablas doni multe
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gbeglo Koffi</aut>
+          <vrk><url ref="&Monato;/2010/009910.php">Ventreligio, dua r aldoni&gcirc;u</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -190,6 +405,12 @@
     <trd>fagyaszt</trd>,
     <trd>befagyaszt</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x51CD;&#x3048;&#x3055;&#x305B;&#x308B;  [<ind>&#x3053;&#x3054;&#x3048;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x51CD;&#x308A;&#x3064;&#x304B;&#x305B;&#x308B;  [<ind>&#x3053;&#x304A;&#x308A;&#x3064;&#x304B;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x51B7;&#x51CD;&#x3059;&#x308B;  [<ind>&#x308C;&#x3044;&#x3068;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x51CD;&#x7D50;&#x3059;&#x308B;  [<ind>&#x3068;&#x3046;&#x3051;&#x3064;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bevriezen</trd>
   <trdgrp lng="pl">
     <trd>zamrozi&cacute;</trd>,
@@ -197,24 +418,61 @@
   </trdgrp>
   <trd lng="ru">&c_z;&c_a;&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sk">zamrzn&uacute;&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_b;&c_je;&c_r;&c_ib;&c_g;&c_a;&c_t;&c_i; &c_v; &c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_l;&c_mol;&c_n;&c_ib;&c_j; &c_k;&c_a;&c_m;&c_je;&c_r;&c_ib;</trd>,
+    <trd>&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_o;&c_r;&c_o;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_b;&c_i;&c_t;&c_i; &c_m;&c_o;&c_r;&c_o;&c_z;&c_o;&c_m; (&c_r;&c_o;&c_s;&c_l;&c_i;&c_n;&c_i;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frost.0igilo">
-  <kap><tld/>igilo</kap>
+  <kap><tld/>igilo, <var><kap><tld/>ofako</kap></var></kap>
   <snc mrk="frost.0igilo.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
       Tiu parto de <ref tip="vid" cel="frid.0ujo">fridujo</ref>, kiu
       tenas sian temperaturon sub 0&deg;C.
     </dif>
-  <ref tip="vid" cel="frost.0ujo">frostujo</ref>  
+    <ref tip="vid" cel="frost.0ujo">frostujo</ref>
   </snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_a;&c_z;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_k;&c_a;&c_m;&c_e;&c_r;&c_a;
+  <klr>(&c_h;&c_a;&c_l;&c_a;&c_d;&c_z;&c_ib;&c_l;&c_mol;&c_n;&c_ib;&c_k;&c_a;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Gefrierfach</trd>,
+    <trd>Tiefk&uuml;hlfach</trd>
+  </trdgrp>
+    <trdgrp lng="en">
+    <trd>freezer</trd>,
+    <trd>freezer compartment</trd>
+  </trdgrp>
+  <trd lng="fr">bac &agrave; glace</trd>
+  <trd lng="hu">m&eacute;lyh&udblac;t&odblac;<klr tip="amb">
+  (h&udblac;t&odblac;szekr&eacute;nyben)</klr></trd>  
+  <trdgrp lng="ja">
+    <trd>&#x51B7;&#x51CD;&#x5BA4;  [<ind>&#x308C;&#x3044;&#x3068;&#x3046;&#x3057;&#x3064;</ind>]</trd>,
+    <trd>&#x30D5;&#x30EA;&#x30FC;&#x30B6;&#x30FC;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vriesvak</trd>,
+    <trd>diepvriesvak</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>komora zamra&zdot;arki</trd>,
+    <trd>zamra&zdot;alnik</trd>
+  </trdgrp>
+  <trd lng="pt">congelador</trd>
+  <trd lng="ru">&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_k;&c_a;&c_m;&c_je;&c_r;&c_a;<klr>
+  (&c_h;&c_o;&c_l;&c_o;&c_d;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_k;&c_a;)</klr></trd>
+  <trd lng="uk">&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
+<!--
+
   <trdgrp lng="en">
     <trd>freezer</trd>,
     <trd>freezer compartment</trd>
   </trdgrp>
   <trd lng="be">&c_m;&c_a;&c_r;&c_a;&c_z;&c_ib;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
-  <trd lng="de">Gefrierschrank</trd>
+  <trd lng="de">Gefrierfach</trd>
   <trdgrp lng="en">
     <trd>deep freeze</trd>,
     <trd>deep freezer</trd>
@@ -228,6 +486,8 @@
   <trd lng="pl">zamra&zdot;arka</trd>
   <trd lng="pt">freezer</trd>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
+  <trd lng="uk">&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
+-->
 </drv>
 
 <drv mrk="frost.0igxi">
@@ -236,19 +496,69 @@
     <dif>
       I&gcirc;i malmola, rigida a&ubreve; difektita pro frosto:
       <ekz>
-        rivereto, tero, floroj <tld/>i&gcirc;is;
+        <tld/>i&gcirc;as mar&ccirc;etoj sur la stratoj kaj la glacio krakas sub la piedoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        la <tld/>i&gcirc;intaj fingroj ne plu povas teni la plumingon.
+        hirundoj flugas al la varmaj landoj, se iu el ili malfrui&gcirc;as, tiam &gcirc;i <tld/>i&gcirc;as
+        tiel, ke &gcirc;i falas kvaza&ubreve; senviva
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Elinjo-fingreto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li sidis tute rigide kaj silente, oni povus pensi, ke li <tld/>i&gcirc;is
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la homoj en la malvarma Decembra nokto devas <tld/>i&gcirc;i
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pensante ke mi jam sufi&ccirc;e <tld/>i&gcirc;is, mi iris en la kajuton
+        <fnt>
+          <bib>Kiso</bib>
+          <lok>La Sakramento De La Komunio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la sango <tld/>i&gcirc;is en miaj vejnoj
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Na&ubreve;a &Ccirc;apitro</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <snc mrk="frost.0igxi.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      I&gcirc;i haltigita:
+      I&gcirc;i haltigita, paralizi&gcirc;i:
       <ekz>
-        ilia gajeco <tld/>i&gcirc;is &ccirc;e tiu terura vido.
+        sur liaj lipoj subite <tld/>i&gcirc;is la rido
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Na&ubreve;a &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;is diplomatiaj rilatoj pro diversaj kialoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2013/011128.php">Varmaj vortoj, malvarmaj rilatoj</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -271,12 +581,20 @@
     <trd>megfagy</trd>,
     <trd>befagy</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x51CD;&#x3048;&#x308B;  [<ind>&#x3053;&#x3054;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x51CD;&#x308A;&#x3064;&#x304F;  [<ind>&#x3053;&#x304A;&#x308A;&#x3064;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bevriezen</trd>
  <trdgrp lng="pl">
    <trd>marzn&aogonek;&cacute;</trd>,
    <trd>zamarzn&aogonek;&cacute;</trd>
  </trdgrp> 
   <trd lng="ru">&c_z;&c_a;&c_m;&c_jo;&c_r;&c_z;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_m;&c_je;&c_r;&c_z;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_m;&c_je;&c_r;&c_z;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frost.0ujo">
@@ -285,11 +603,21 @@
   <uzo tip="fak">KUI</uzo>
     <dif>
       &Scirc;ranko en kiu regas konstanta <tld/>a temperaturo, kaj en kiu oni
-      povas konservi man&gcirc;a&jcirc;ojn kaj trinka&jcirc;ojn dum pluraj monatoj.
+      povas konservi man&gcirc;a&jcirc;ojn kaj trinka&jcirc;ojn dum pluraj monatoj:
+      <ekz>
+        metu la &scirc;uon nelonge en <tld/>ujon kaj pro la malalta temperaturo e&ccirc; la plej
+        obstina gumo malglui&gcirc;os
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2011/010337.php">Konsiloj avinaj kaj neavinaj</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="glaci.0ujo0sxranko0tenejo">glaci&scirc;ranko</ref>,
-      <ref cel="frid.0ujo">fridujo</ref>.
+      <ref cel="frid.0ujo">fridujo</ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_r;&c_a;&c_z;&c_ib;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
@@ -303,13 +631,63 @@
     <trd>fagyaszt&oacute;szekr&eacute;ny</trd>,
     <trd>m&eacute;lyh&udblac;t&odblac;szekr&eacute;ny</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x51B7;&#x51CD;&#x5EAB;  [<ind>&#x308C;&#x3044;&#x3068;&#x3046;&#x3053;</ind>]</trd>,
+    <trd>&#x30D5;&#x30EA;&#x30FC;&#x30B6;&#x30FC;</trd>
+  </trdgrp>
   <trd lng="nl">diepvriezer</trd>
   <trd lng="pl">zamra&zdot;arka</trd>
   <trd lng="pt">freezer</trd>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
+<trd lng="th">&#xE15;&#xE39;&#xE49;&#xE41;&#xE0A;&#xE48;&#xE07;&#xE41;&#xE02;&#xE47;&#xE07;</trd>
 </drv>
 
-<drv mrk="frost.0ofako">
+<drv mrk="frost.cxiam0o">
+  <kap>
+    &ccirc;iam<tld/>o,
+    <var><kap>&ccirc;iama <tld/>o</kap></var>
+  </kap>
+  <snc mrk="frost.cxiam0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Stato de grundo, kiu restas konstante &ndash; almena&ubreve; dum du jaroj &ndash; frostita;
+      <ref tip="sin" cel="permafrost.0o">permafrosto</ref>:
+      <ekz>
+        la ovo estis preska&ubreve; globa kaj mirinde
+        bone konservi&gcirc;inta pro &ccirc;iama <tld/>o
+        <fnt>
+          <aut>K. Bulychov, trad. Barbulo</aut>
+          <vrk><url ref="http://miresperanto.com/por_infanoj/knabino/knabino-03.htm">
+          La knabineto, al kiu nenio okazos</url></vrk>
+          <lok>[vidita en 2020]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en norda Ruslando la &ccirc;iam<tld/>o atingas grundprofundon de 1.450 metroj
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/%C4%88iamfrosta_grundo">&Ccirc;iamfrosta grundo</url></vrk>
+          <lok>2019-09-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="negx.eterna0o">eterna ne&gcirc;o</ref>,
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_je;&c_ch;&c_n;&c_a;&c_ja; &c_m;&c_je;&c_r;&c_z;&c_l;&c_a;&c_t;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_u;&c_n;&c_t; &c_v;&c_je;&c_ch;&c_n;&c_a;&c_m;&c_jo;&c_r;&c_z;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trd lng="en">permafrost</trd>
+  <trd lng="fr">perg&eacute;lisol</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_ch;&c_n;&c_a; &c_m;&c_je;&c_r;&c_z;&c_l;&c_o;&c_t;&c_a;</trd>
+</drv>
+
+
+<!-- 
+provizore kunigita kun ~igilo; se trovi&gcirc;os signifonuanco eble reapartigu amba&ubreve;...
+drv mrk="frost.0ofako">
   <kap><tld/>ofako</kap>
   <snc mrk="frost.0ofako.KUI">
   <uzo tip="fak">KUI</uzo>
@@ -342,28 +720,33 @@
   <trd lng="pt">congelador</trd>
   <trd lng="ru">&c_m;&c_o;&c_r;&c_o;&c_z;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_k;&c_a;&c_m;&c_je;&c_r;&c_a;<klr>
   (&c_h;&c_o;&c_l;&c_o;&c_d;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_k;&c_a;)</klr></trd>
-</drv>
+</drv -->
+
+
 </art>
 <!--
 $Log$
-Revision 1.28  2017/11/01 19:10:35  revo
-Jeromo Vasxe: + mrk
+versio 1.39 2023/04/11 14:37:22
+aktualigo Monato-URL
 
-Revision 1.27  2016/10/13 07:10:15  revo
-Sebastian Cyprych: +trd el ~ujo al ~igilo
+versio 1.38 2023/03/08 17:30:20
+Dmitri Gabinski: +trd be
 
-Revision 1.26  2015/12/16 09:10:16  revo
-Alain Gerard: +trd (fr)
+versio 1.37 2022/11/21 06:36:35
+Wolfram Diestel: ~igi..~ujo: +ekz-oj
 
-Revision 1.25  2015/11/19 15:11:05  revo
-Cindy Moon McKee: +trd en
+versio 1.36 2022/11/20 21:24:47
+Wolfram Diestel: ~o..~i: +ekz-oj; ~i: distingu snc malvarmi k senti
 
-Revision 1.24  2015/11/10 14:10:15  revo
-Damien Brucker: +~igilo
+versio 1.35 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.23  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.34 2022/04/21 16:49:04
+Warut Bunprasert: red th
 
-Revision 1.22  2015/06/29 16:29:38  revo
+versio 1.31 2020/04/15 18:10:19
+Warut Bunprasert: +trd th
+
+versio 1.30 2020/03/29 19:10:27
 -->
 </vortaro>

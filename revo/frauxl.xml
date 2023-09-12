@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frauxl.xml,v 1.21 2009/08/28 16:31:33 revo Exp $">
+<art mrk="$Id: frauxl.xml,v 1.29 2023/06/28 12:54:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fra&ubreve;l</rad>/o
@@ -50,12 +49,16 @@
   </trdgrp>
   <trd lng="sv">ungkarl</trd>
   <trd lng="ku">ezeb<klr>(mer)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&#x43E;&#x43B;&#x43E;&c_s;&c_t;&#x44F;&#x43A;</trd>,
+    <trd>&#x43F;&c_a;&c_r;&c_u;&c_b;&#x43E;&#x43A;</trd>,
+    <trd>&#x43D;&c_je;&#x43E;&c_d;&c_r;&c_u;&c_zh;&c_je;&#x43D;&c_i;&c_j; (&c_ib;&#x43C;.)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frauxl.0ino">
   <kap><ofc>*</ofc><tld/>ino <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5031">fra&ubreve;l'in'</url></lok></fnt></kap>
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5031">fra&ubreve;l'in'</url></lok></fnt></kap>
   <mlg>f-ino</mlg>
   <snc mrk="frauxl.0ino.GEN">
     <uzo tip="fak">GEN</uzo>
@@ -129,6 +132,11 @@
     </trd>
   </trdgrp>
   <trd lng="sv">fr&ouml;ken</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_z;&c_a;&#x43C;&c_ib;&c_zh;&#x43D;&#x44F; (&c_u; &c_z;&#x43D;&c_a;&c_ch;. &c_ib;&#x43C;.)</trd>,
+    <trd>&#x43F;&c_a;&#x43D;&#x43D;&c_a; (&c_t;&c_zh; &#x44F;&#x43A; &c_v;&c_v;&c_ib;&c_ch;&#x43B;&c_i;&c_v;&c_je;
+    &c_z;&c_v;&c_je;&c_r;&c_t;&c_a;&#x43D;&#x43D;&#x44F;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frauxl.0a">
@@ -141,20 +149,22 @@
         <tld/>a nomo
         <fnt>
           <vrk>Josiah Willard Gibbs</vrk><lok>
-          <url
-          ref="http://eo.wikipedia.org/wiki/Josiah_Willard_Gibbs">Vikipedio</url></lok>
+          <url ref="&Viki;/Josiah_Willard_Gibbs">Vikipedio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         &scirc;i estis virga kaj <tld/>a en la plimulto de la versioj
         <fnt>
           <vrk>Ilitio</vrk><lok>
-          <url
-          ref="http://eo.wikipedia.org/wiki/Ilitio">Vikipedio</url></lok>
+          <url ref="&Viki;/Ilitio">Vikipedio</url></lok>
         </fnt>;
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_h;&c_a;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_c;&c_k;&c_ib;</trd>,
+    <trd>&c_d;&c_z;&c_ja;&c_v;&c_o;&c_ch;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>ledig</trd>,
     <trd>unverheiratet</trd>
@@ -173,6 +183,10 @@
     <trd>ongetrouwd</trd>
   </trdgrp>
   <trd lng="pl">nie&zdot;onaty</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_a;&c_r;&c_u;&c_b;&#x43E;&c_c;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_h;&#x43E;&#x43B;&#x43E;&c_s;&c_t;&#x44F;&c_c;&#x44C;&#x43A;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frauxl.0eco">
@@ -214,6 +228,12 @@
 </art>
 <!--
 $Log$
+versio 1.29 2023/06/28 12:54:11
+Dmitri Gabinski: + trd be
+
+versio 1.28 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.25  2017/03/09 02:10:13  revo
 Robin van der Vliet: +frauxla
 
@@ -230,8 +250,5 @@ Revision 1.21  2009/08/28 16:31:33  revo
 Emmanuel Debanne: +trd ku
 
 Revision 1.20  2009/08/18 19:18:18  revo
-Russ Williams: +trd en
-
-Revision 1.19  2009/04/28 16:30:35  revo
 -->
 </vortaro>

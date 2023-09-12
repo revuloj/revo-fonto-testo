@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kelk.xml,v 1.16 2010/07/10 16:30:48 revo Exp $">
+<art mrk="$Id: kelk.xml,v 1.102 2023/09/01 15:07:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kelk</rad>/a
@@ -18,31 +17,52 @@
       Nedifinitan kvanton de tuto, kies dividoj ne estas esprimeblaj per
       nombroj:
       <ekz>
-        metu <tld/>an ordon en vian paroladon<fnt>Z</fnt>;
+        metu <tld/>an ordon en vian paroladon
+        <fnt>
+          <bib>Hamlet</bib>
+          <lok>Hamleto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        anta&ubreve; <tld/>a tempo<fnt>Z</fnt>;
+        anta&ubreve; <tld/>a tempo
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 21:38</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        kun <tld/>a hezitado<fnt>Z</fnt>;
+        kun <tld/>a hezitado
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        en <tld/>a maniero<fnt>Z</fnt>,
+        homoj ri&ccirc;aj, en <tld/>a rilato influaj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        rilato<fnt>Z</fnt>;
+        doni <tld/>an klarigon
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Nefermita letero al s-ro de Beaufront.</vrk>
+        </fnt>;
       </ekz>
       <ekz>
-        doni <tld/>an klarigon<fnt>Z</fnt>;
+        respondo pri lia demando povus havi <tld/>an intereson anka&ubreve; por aliaj personoj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Tria Parto &ndash; Jurisprudenco</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        tiu, kiu opinias, ke respondo pri lia demando
-        povus havi <tld/>an intereson por aliaj personoj,
-        volu...<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        en tiaj okazoj, <tld/>a libereco alportas al ni nenian
-        malutilon<fnt>Z</fnt>;
+        en tiaj okazoj, <klr>[&#x2026;]</klr> <tld/>a libereco alportas al ni nenian malutilon
+        <fnt>
+          <bib>LR</bib>
+          <lok>Unua Parto &ndash; Leksikologio</lok>
+        </fnt>;
       </ekz>
       <ekz>
         <tld/>tempa &ccirc;eso ne estas forgeso
@@ -77,13 +97,21 @@
     <dif>
       Nedifinitan, sed difineblan kvanton:
       <ekz>
-        <tld/>a nombro da novaj vortoj<fnt>Z</fnt>;
+        &ccirc;iu nove aperanta vortaro ordinare enhavas en si <tld/>an nombron da novaj vortoj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Unua Parto &ndash; Leksikologio</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        falis <tld/>a nombro el la soldatoj<fnt>Z</fnt>.
+        falis <tld/>a nombro el la servantoj de <nom>David</nom>
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 11:17</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <ref tip="sin" cel="cert.0a.difinebla">certa <sncref/></ref>
+    <ref tip="sin" cel="cert.0a.difinebla">certa<sncref/></ref>
     <trdgrp lng="be">
       <trd>&c_n;&c_je;&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
       <trd>&c_n;&c_je;&c_j;&c_k;&c_ib;</trd>
@@ -104,11 +132,17 @@
     <trd>some</trd>,
     <trd>a little</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3044;&#x304F;&#x3064;&#x304B;&#x306E;</trd>,
+    <trd>&#x4F55;&#x4EBA;&#x304B;&#x306E;  [<ind>&#x306A;&#x3093;&#x308A;&#x304B;&#x306E;</ind>]</trd>,
+    <trd>&#x3044;&#x304F;&#x3089;&#x304B;&#x306E;</trd>,
+    <trd>&#x591A;&#x5C11;&#x306E;  [<ind>&#x305F;&#x3057;&#x3087;&#x3046;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>jaki&sacute;</trd>,
     <trd>niekt&oacute;ry</trd>,
     <trd>pewien</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>unii</trd>,
     <trd>sigur</trd>
@@ -117,6 +151,10 @@
     <trd>nejak&yacute;</trd>,
     <trd>niektor&yacute;</trd>,
     <trd>trocha</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ja;&c_k;&c_i;&c_j;&c_s;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_v;&c_n;&c_i;&c_j; (&c_p;&c_r;&c_o; &c_ch;&c_i;&c_s;&c_l;&c_o;)</trd>
   </trdgrp>
 </drv>
 
@@ -133,21 +171,41 @@
     </dif>
     <subsnc>
       <ekz>
-        atendu nur <tld/>ajn <klr>(malmultajn)</klr> minutojn;
+        en <tld/>aj <klr>(malmultaj)</klr> sekundoj amaso da homoj kolekti&gcirc;is &ccirc;irka&ubreve; li
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        ni prenos simple <tld/>ajn ekzemplerojn<fnt>Z</fnt>;
+        ni prenos <klr>[&#x2026;]</klr> simple <tld/>ajn ekzemplojn
+        <fnt>
+          <bib>EE</bib>
+          <lok>V</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>aj homoj sentas sin la plej feli&ccirc;aj, kiam ili
-        vidas la suferojn de siaj najbaroj;
+        <tld/>aj homoj sentas sin la plej feli&ccirc;aj, kiam ili vidas la suferojn de siaj
+        najbaroj
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 32</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        tiuj <tld/>aj <klr>(malmultaj)</klr> novaj E-istoj deziris dikti
-        le&gcirc;ojn al la tuta popolo E-ista<fnt>Z</fnt>;
+        dum &ccirc;i tiuj <tld/>aj tagoj li sentis sin renaskita
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro V</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>taga ekzerci&gcirc;o<fnt>Z</fnt>.
+        <tld/>taga ekzerci&gcirc;o
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
+        </fnt>.
       </ekz>
       <refgrp tip="vid">
         <ref cel="iu">iuj</ref>,
@@ -156,6 +214,7 @@
         <ref cel="pli">pli ol unu</ref>.
       </refgrp>
       <trd lng="be">&c_n;&c_je;&c_k;&c_a;&c_l;&c_mol;&c_k;&c_ib;</trd>
+      <trd lng="de">eine <ind>bestimmte</ind> ...</trd>
       <trdgrp lng="fr">
         <trd><ind>quelque</ind>s</trd>,
         <trd><ind>certain</ind>s</trd>
@@ -166,7 +225,11 @@
     <subsnc>
       <uzo tip="klr">(kun elipso de la substantivo)</uzo>
       <ekz>
-        <tld/>aj <klr>(personoj)</klr> pensas, ke...
+        kelkaj <klr>(personoj)</klr> pensas, ke <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>.
       </ekz>
       <trd lng="be">&c_n;&c_je;&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
       <trd lng="de">einige</trd>
@@ -180,70 +243,162 @@
       <trd lng="vo">ans</trd>
       <trd lng="ms">beberapa</trd>
     </subsnc>
+  <trdgrp lng="de">
+    <trd>etwas</trd>,
+    <trd>ein <ind>bisschen</ind></trd>
+  </trdgrp>
   </snc>
+  <trd lng="af">paar</trd>
+  <trd lng="am">&#x1325;&#x1242;&#x1276;&#x127D;</trd>
+  <trd lng="ar">&a_q;&a_l;&a_y;&a_l;</trd>
+  <trd lng="az">bir ne&ccedil;&#x259;</trd>
+  <trd lng="bn">&#x995;&#x9AF;&#x9BC;&#x9C7;&#x995;</trd>
+  <trd lng="bo">&t_nya;&t_shabchu;&t_nga;&t_tsheg;&t_nya;&t_shabchu;&t_nga;&t_tsheg;</trd>
+  <trd lng="bs">nekoliko</trd>
+  <trd lng="co">qualchi</trd>
   <trdgrp lng="cs">
     <trd>n&ecaron;kolik</trd>,
     <trd>n&ecaron;kte&rcaron;&iacute;</trd>
   </trdgrp>
+  <trd lng="cy">ychydig</trd>
+  <trd lng="da">f&aring;</trd>
   <trdgrp lng="en">
     <trd>several</trd>,
     <trd>a few</trd>
   </trdgrp>
   <trd lng="es">algunos</trd>
-  <trd lng="pl">kilka</trd> 
+  <trd lng="et">paari</trd>
+  <trd lng="eu">gutxi</trd>
+  <trd lng="fy">stikmannich</trd>
+  <trd lng="ga">beag</trd>
+  <trd lng="gd">beagan</trd>
+  <trd lng="gl">poucos</trd>
+  <trd lng="gu">&#xAA5;&#xACB;&#xAA1;&#xABE;</trd>
+  <trd lng="ha">&#x2018;yan</trd>
+  <trd lng="hi">&#x915;&#x941;&#x91B;</trd>
+  <trd lng="hmn">ob peb</trd>
+  <trd lng="hr">nekoliko</trd>
+  <trd lng="ht">k&egrave;k</trd>
+  <trd lng="hy">&#x584;&#x56B;&#x579;</trd>
+  <trd lng="ig">ole na ole</trd>
+  <trd lng="is">f&aacute;ir</trd>
+  <trd lng="ja">&#x5C11;&#x6570; [<ind>&#x3057;&#x3087;&#x3046;&#x3059;&#x3046;</ind>]</trd>
+  <trd lng="jv">sawetara</trd>
+  <trd lng="ka">&#x10E0;&#x10D0;&#x10DB;&#x10D3;&#x10D4;&#x10DC;&#x10D8;&#x10DB;&#x10D4;</trd>
+  <trd lng="kk">&c_b;&c_ib;&c_r;&c_n;&c_je;&c_sh;&c_je;</trd>
+  <trd lng="km">&#x1794;&#x17C9;&#x17BB;&#x1793;&#x17D2;&#x1798;&#x17B6;&#x1793;</trd>
+  <trd lng="kn">&#xC95;&#xCC6;&#xCB2;&#xCB5;&#xCC1;</trd>
+  <trd lng="ko">&#xC870;&#xAE08;</trd>
+  <trd lng="ku">k&ecirc;mane</trd>
+  <trd lng="ky">&c_b;&c_i;&c_r; &c_n;&c_je;&c_ch;&c_je;</trd>
+  <trd lng="lat">pauci</trd>
+  <trd lng="lo">&#xE9A;&#xECD;&#xEC8;&#xEAB;&#xEBC;&#xEB2;&#xE8D;&#xE9B;&#xEB2;&#xE99;&#xEC3;&#xE94;</trd>
+  <trd lng="lt">ma&zcaron;ai</trd>
+  <trd lng="lv">maz</trd>
+  <trd lng="mg">vitsivitsy</trd>
+  <trd lng="mi">torutoru</trd>
+  <trd lng="mk">&c_n;&c_je;&c_k;&c_o;&c_l;&c_k;&c_u;</trd>
+  <trd lng="ml">&#xD15;&#xD41;&#xD31;&#xD46;</trd>
+  <trd lng="mn">&c_h;&c_e;&c_d;&c_e;&c_n;</trd>
+  <trd lng="mr">&#x915;&#x93E;&#x939;&#x940;</trd>
+  <trd lng="mt">ftit</trd>
+  <trd lng="my">&#x1014;&#x100A;&#x103A;&#x1038;&#x101E;&#x1031;&#x102C;</trd>
+  <trd lng="ne">&#x915;&#x947;&#x939;&#x940;</trd>
+  <trd lng="ny">zochepa</trd>
+  <trd lng="pa">&#xA15;&#xA41;&#xA1D;</trd>
+  <trd lng="pl">kilka</trd>
+  <trd lng="ps">&#x685;&a_w;</trd>
   <trdgrp lng="ro">
-    <trd>ni&#537;te</trd>,
+    <trd>ni&#x219;te</trd>,
     <trd>c&acirc;teva</trd>
   </trdgrp>
+  <trd lng="rw">bake</trd>
+  <trd lng="sd">&f_ch;&a_n;&a_d;</trd>
+  <trd lng="si">&#xD9A;&#xDD2;&#xDC4;&#xDD2;&#xDB4;&#xDBA;&#xD9A;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>nieko&lcaron;ko</trd>,
     <trd>niektor&iacute;</trd>
   </trdgrp>
+  <trd lng="sl">nekaj</trd>
+  <trd lng="sm">nai</trd>
+  <trd lng="sn">shoma</trd>
+  <trd lng="so">yar</trd>
+  <trd lng="sq">pak</trd>
+  <trd lng="st">tse seng kae</trd>
+  <trd lng="su">saeutik</trd>
+  <trd lng="sw">chache</trd>
+  <trd lng="ta">&#xB9A;&#xBBF;&#xBB2;</trd>
+  <trd lng="te">&#xC15;&#xC4A;&#xC28;&#xC4D;&#xC28;&#xC3F;</trd>
+  <trd lng="tg">&c_ja;&c_k;&c_ch;&c_a;&c_n;&c_d;</trd>
+  <trd lng="th">&#xE19;&#xE49;&#xE2D;&#xE22;</trd>
+  <trd lng="tl">ilan</trd>
+  <trd lng="tt">&c_b;&c_i;&c_k; &c_a;&c_z;</trd>
+  <trd lng="uk">&c_k;&c_ib;&c_l;&c_mol;&c_k;&c_a;</trd>
+  <trd lng="ur">&f_ch;&a_n;&a_d;</trd>
+  <trd lng="uz">oz</trd>
+  <trd lng="vi">s&#x1ED1;</trd>
+  <trd lng="xh">mbalwa</trd>
+  <trd lng="yi">&vav;&vav;&yod;&yod;&nun;&yod;&qof;</trd>
+  <trd lng="yo">di&#x1EB9;</trd>
+  <trd lng="zu">ambalwa</trd>
 </drv>
 
 <drv mrk="kelk.0e">
   <kap><tld/>e</kap>
-  <snc>
+  <snc mrk="kelk.0e.KOMUNE">
     <dif>
-      Analoge kun <em>multe, iom kc</em>, tiu adverbo estas uzata kun la
+      Analoge kun &#x201A;multe&#x2018;, &#x201A;iom&#x2018; kaj ceteraj, tiu adverbo estas uzata kun la
       senco de substantivo montranta nedifinitan, sed ne tre grandan
       kvanton:
       <ekz>
         nur <tld/>e da homoj sidis en la &ccirc;ambro;
       </ekz>
       <ekz>
-        <tld/>e da ni<fnt>Z</fnt>;
+        mi volis doni al vi <tld/>e da violoj
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        permesu diri al vi <tld/>e da vortoj<fnt>Z</fnt>;
+        eniris <tld/>e da nudaj &Hcirc;aldeanoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        mi volis doni al &scirc;i <tld/>e da violoj<fnt>Z</fnt>
-        <klr>(= <tld/>on da a&ubreve; kelkajn)</klr>;
+        ili ellernis tiun &ccirc;i lingvon en la da&ubreve;ro de iaj <tld/>e da semajnoj
+        <fnt>
+          <bib>EE</bib>
+          <lok>V</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        oni ne povus tion fari la&ubreve; mendo en la da&ubreve;ro
-        de <tld/>e (malmulte) da semajnoj<fnt>Z</fnt>;
+        mi rememoris <tld/>e el tiuj libroj
+        <fnt>
+          <bib>Fab3</bib>
+          <vrk>Supo el kolbasaj bastonetoj</vrk>
+        </fnt>;
       </ekz>
       <ekz>
-        li donis al la almozulo la <tld/>e da spesdekoj, kiujn li
-        havis<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        dum la <tld/>e da minutoj de &ccirc;i tiu rigardado<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        ili ellernis tiun lingvon en la da&ubreve;ro de iaj <tld/>e
-        da semajnoj<fnt>Z</fnt>.
+        &leftquot;kial vi &ccirc;iam kvaza&ubreve; subpremas ridon, kiam mi vin kisas?&rightquot; li demandis kun nuanco
+        <tld/>e &ccirc;agrena en la vo&ccirc;o
+        <fnt>
+          <aut>J. Valano</aut>
+          <vrk>&Ccirc;u li venis trakosme?</vrk>
+          <lok>1980</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_k;&c_a;&c_l;&c_mol;&c_k;&c_ib;</trd>
+  <trd lng="de">einige</trd>
   <trd lng="es">algunos</trd>
   <trd lng="hu">n&eacute;h&aacute;ny</trd>
-  <trd lng="pl">kilka</trd>     
-  <trd lng="ro">pu&tcedil;in</trd>
+  <trd lng="pl">kilka</trd>
+  <trd lng="ro">pu&#x21B;in</trd>
   <trd lng="ru">&c_n;&c_je;&c_s;&c_k;&c_o;&c_l;&c_mol;&c_k;&c_o;</trd>
+  <trd lng="uk">&c_k;&c_ib;&c_l;&c_mol;&c_k;&c_a;</trd>
 </drv>
 
 <drv mrk="kelk.0ope">
@@ -260,15 +415,17 @@
     </dif>
   </snc>
   <trd lng="cs">po n&ecaron;kolika</trd>
+  <trd lng="de">zu <ind>einigen</ind> <klr>(Gruppe)</klr></trd>
   <trd lng="en">several together</trd>
   <trd lng="es">en grupos peque&ntilde;os</trd>
   <trd lng="fr">en petit <ind>groupe</ind></trd>
+  <trd lng="ja">&#x6570;&#x4EBA;&#x9023;&#x308C;&#x3067;  [<ind>&#x3059;&#x3046;&#x308A;&#x3064;&#x308C;&#x3067;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>kilka</trd>,
     <trd>kilku</trd>,
     <trd>kilkoro</trd>
-  </trdgrp> 
-  <trd lng="ro">mai mul&#539;i</trd>
+  </trdgrp>
+  <trd lng="ro">mai mul&#x21B;i</trd>
   <trd lng="sk">po nieko&lcaron;ko</trd>
 </drv>
 
@@ -293,7 +450,7 @@
     mia laboro valoras <tld/>oble pli, ol kiom
     vi donas al mi por &gcirc;i<fnt>Z</fnt>.
   </ekz>
-  La formo singulara <em>kelkiu</em>, uzata kun la senco de
+  La formo ununombra <em>kelkiu</em>, uzata kun la senco de
   <em>iu</em> estas tute malracia, &ccirc;ar <em>kelkaj</em> montras
   &ccirc;iam pli ol unu, kaj <em>kelka</em> ne povas esti uzata pri
   nombreblaj aferoj.
@@ -301,6 +458,18 @@
 </art>
 <!--
 $Log$
+versio 1.101 2023/08/29 16:34:37
+Wolfram Diestel: ja: prononco
+
+versio 1.100 2023/03/12 20:26:07
+Wolfram Diestel: +fnt-oj, trd de
+
+versio 1.99 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/01/20 23:11:37
+Jeromo Vasxe: ~e + aliformaj ekz
+
 Revision 1.20  2019/03/29 23:10:17  revo
 Vito Redsky: +trd pl +trd ro
 
@@ -311,14 +480,5 @@ Revision 1.18  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.17  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.16  2010/07/10 16:30:48  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.15  2009/06/01 16:31:37  revo
-Russ Williams: +trd en
-
-Revision 1.14  2005/11/20 17:31:47  revo
 -->
 </vortaro>

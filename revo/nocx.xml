@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: nocx.xml,v 1.7 2023/09/03 06:36:22 revo Exp $">
 <kap>
   <rad>no&ccirc;</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -18,7 +17,7 @@
         <tld/>ita
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref="http://eo.wikipedia.org/wiki/Aegle_marmelos">
+          <lok><url ref="&Viki;/Aegle_marmelos">
           Aegle marmelos</url>, 2014-11-25</lok>
         </fnt>.
       </ekz>
@@ -28,14 +27,31 @@
     <trd>cocher</trd>,
     <trd>faire une <ind>encoche</ind></trd>
   </trdgrp>
-  <trd lng="it">&#173;intaccare</trd>
+  <trd lng="it">&#xAD;intaccare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5207;&#x308C;&#x8FBC;&#x307F;&#x3092;&#x5165;&#x308C;&#x308B;  [<ind>&#x304D;&#x308C;&#x3053;&#x307F;&#x3092;&#x3044;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x523B;&#x307F;&#x76EE;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x304D;&#x3056;&#x307F;&#x3081;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>karbowa&cacute;</trd>,
+    <trd>nacina&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>grava</trd>,
+    <trd>t&abreve;ia</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x431;&#x438;&#x442;&#x438; &#x43A;&#x430;&#x440;&#x431;&#x438;</trd>,
+    <trd>&#x437;&#x430;&#x440;&#x443;&#x431;&#x43A;&#x438;</trd>,
+    <trd>&#x43D;&#x430;&#x441;&#x456;&#x447;&#x43A;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nocx.0o">
   <kap><tld/>o</kap>
   <snc mrk="nocx.0o.KOMUNE">
     <dif>
-      <ref tip="super" cel="mark.0o.sign">Marko</ref>
+      <ref tip="super" cel="mark.0o.signo">Marko</ref>
       entran&ccirc;ita en ligno a&ubreve; simila materialo:
       <ekz>
         bastono kun unu <tld/>o
@@ -52,13 +68,37 @@
     <trd>coche<klr> (encoche)</klr></trd>,
     <trd>encoche</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5207;&#x308C;&#x8FBC;&#x307F;  [<ind>&#x304D;&#x308C;&#x3053;&#x307F;</ind>]</trd>,
+    <trd>&#x5207;&#x6B20;&#x304D;  [<ind>&#x305B;&#x3064;&#x304B;&#x304D;</ind>]</trd>,
+    <trd>&#x523B;&#x307F;&#x76EE;  [<ind>&#x304D;&#x3056;&#x307F;&#x3081;</ind>]</trd>,
+    <trd>&#x30CE;&#x30C3;&#x30C1;</trd>
+  </trdgrp>
+  <trd lng="pl">karb</trd>
+  <trd lng="ro">crest&abreve;tur&abreve;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x440;&#x431;</trd>,
+    <trd>&#x437;&#x430;&#x440;&#x443;&#x431;&#x43A;&#x430;</trd>,
+    <trd>&#x43D;&#x430;&#x441;&#x456;&#x447;&#x43A;&#x430;</trd>,
+    <trd>&#x432;&#x438;&#x440;&#x456;&#x437;</trd>,
+    <trd>&#x437;&#x430;&#x437;&#x443;&#x431;&#x43B;&#x438;&#x43D;&#x430;</trd>,
+    <trd>&#x437;&#x443;&#x431; (&#x43D;&#x430; &#x43A;&#x43E;&#x43B;&#x435;&#x441;&#x456;)</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.6 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.4 2021/04/15 21:53:54
+Vito Redsky: +trd pl +trd ro
+
+versio 1.3 2020/10/26 09:11:05
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.1  2015/03/22 23:10:19  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

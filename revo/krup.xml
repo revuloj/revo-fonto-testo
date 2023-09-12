@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: krup.xml,v 1.12 2009/09/17 16:30:47 revo Exp $">
+<art mrk="$Id: krup.xml,v 1.19 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krup</rad>/o
@@ -23,7 +22,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        difterio <klr>[&#8230;]</klr> plej ofte montri&gcirc;as kiel difteria laringi<klr>[t]</klr>o
+        difterio <klr>[&#x2026;]</klr> plej ofte montri&gcirc;as kiel difteria laringi<klr>[t]</klr>o
         (<tld/>o), &ccirc;e kiu formi&gcirc;as sur la gor&gcirc;a mukozo falsaj membranoj,
         kiuj povas &scirc;topi la laringon kaj mortigi per asfiksio
         <fnt>
@@ -44,6 +43,10 @@
      <trd>krupp</trd>,
      <trd>dift&eacute;ri&aacute;s <ind>torokgyullad&aacute;s</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30AF;&#x30EB;&#x30FC;&#x30D7;</trd>,
+    <trd>&#x507D;&#x819C;&#x6027;&#x5589;&#x982D;&#x708E;  [<ind>&#x304E;&#x307E;&#x304F;&#x305B;&#x3044;&#x306E;&#x3069;&#x3042;&#x305F;&#x307E;&#x3048;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kroep</trd>,
     <trd>strottenhoofddifterie</trd>
@@ -55,6 +58,7 @@
     <trd>crup</trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_r;&c_u;&c_p; <klr>(&c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_mol;)</klr></trd>
+  <trd lng="uk">&#x43A;&#x440;&#x443;&#x43F;</trd>
 </drv>
 </art>
 

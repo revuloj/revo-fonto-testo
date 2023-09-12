@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: inspek.xml,v 1.15 2005/11/03 17:31:41 revo Exp $">
+<art mrk="$Id: inspek.xml,v 1.26 2023/08/31 16:40:57 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>inspekt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -12,13 +11,30 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="inspek.0i.KOMUNE">
     <dif>
-      Kontroli la&ubreve; ricevita komisio la funkciadon de io a&ubreve; la agadon de
-      iu:
+      <ref tip="super" cel="kontro.0i.administracie">Kontroli</ref> la&ubreve; ricevita komisio 
+      la funkciadon de io a&ubreve; la agadon de iu:
       <ekz>
         <tld/>i lernejon, &scirc;ipon, armeon, fabrikon;
       </ekz>
       <ekz>
-        <tld/>i laboristojn, oficistojn;
+        ili diligente <klr>[&#x2026;]</klr> <tld/>is detale &ccirc;iujn kestojn, valizojn kaj &scirc;rankojn
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kion vi faras tie &ccirc;i? &ndash; ni <tld/>as la uzinon, diris Alda 
+        kun &scirc;ajnigita seriozo
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Arne</nom> momente <tld/>is &scirc;in kaj diris sektone: <klr>[&#x2026;]</klr> aspektas afekteme,
+        rigardu, se mi metus &ccirc;apon <klr>[&#x2026;]</klr> tiamaniere
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
       </ekz>
       <ekz>
         <klr>[ili]</klr> starigis la Levidojn, havantajn la a&gcirc;on
@@ -29,8 +45,8 @@
     </dif>
     <refgrp tip="vid">
       <ref cel="ekzame.0i">ekzameni</ref>,
-      <ref cel="kontro.0i">kontroli</ref>,
-      <ref cel="revizi.0i">revizii</ref>.
+      <ref cel="revizi.0i">revizii</ref>,
+      <ref cel="rigard.super0i.FIG">superrigardi<sncref/></ref>
     </refgrp>
   </snc>
   <adm>
@@ -39,8 +55,7 @@
     "prizorgi". Cetere la tradukoj, kiujn mi trovas por "inspektisto"
     en franca versio de Biblio, perpleksigas: plejofte temas pri
     "skribisto". La ekz. el Fabeloj uzas "inspektadon" kun senco
-    proksima
-    al "superrigardado" (ne ekzistanta en REVO).
+    proksima al "superrigardado".
     <aut>MB</aut>
   </adm>
   <trdgrp lng="be">
@@ -67,6 +82,11 @@
     <trd>visiter<klr tip="ind"> (inspecter)</klr></trd>
   </trdgrp>
   <trd lng="hu">fel&uuml;gyel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x67FB;&#x5BDF;&#x3059;&#x308B;  [<ind>&#x3055;&#x3055;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x691C;&#x67FB;&#x3059;&#x308B;  [<ind>&#x3051;&#x3093;&#x3055;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x76E3;&#x67FB;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3055;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">inspecteren</trd>
   <trd lng="pt">inspecionar</trd>
   <trdgrp lng="ru">
@@ -84,16 +104,51 @@
     <trd>konat inspekci</trd>,
     <trd>prov&aacute;d&ecaron;t dohled</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_g;&#x43B;&#x44F;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_je;&c_zh;&c_i;&c_t;&c_i; (&c_z;&c_a; &c_ch;&c_i;&#x43C;-&#x43D;.</trd>,
+    <trd>&#x43A;&c_i;&#x43C;-&#x43D;.)</trd>,
+    <trd>&c_ib;&#x43D;&c_s;&#x43F;&c_je;&#x43A;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="inspek.0o">
   <kap><tld/>o, <var><kap><tld/>ado</kap></var></kap>
+  <snc mrk="inspek.0i.kontrolo">
+    <dif>
+      Ago <tld/>i, detala kontrolo:
+      <ekz>
+        ili ne frotis siajn mantelbutonojn dece brilaj 
+        kaj ili ne tenis la pafilon
+        sufi&ccirc;e stre&ccirc;e &ccirc;e la parada <tld/>ado
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montri&gcirc;is post <tld/>ado per speciala roboto, ke la 
+        reaktoroj <klr>[&#x2026;]</klr>
+        havas multajn mikroskopajn vezikojn en la metalo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Eddy Van den Bosch</aut>
+          <vrk><url ref="&Monato;/2014/011380.php">&Ccirc;u sabotado &ccirc;e nuklea centralo?</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_n;&c_s;&c_p;&c_e;&c_k;&c_c;&c_y;&c_ja;</trd>,
+      <trd>&c_k;&c_a;&c_n;&c_t;&c_r;&c_o;&c_l;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">Inspektion</trd>
+  </snc>
   <snc mrk="inspek.0o.KOMUNE">
     <dif>
       Garda prizorgado kaj kontrolado:
       <ekz>
-        anka&ubreve; Ester estis prenita en la re&gcirc;an domon sub la
-        <tld/>on de Hegaj, la gardisto de la virinoj
+        anka&ubreve; <nom>Ester</nom> estis prenita en la re&gcirc;an domon sub la
+        <tld/>on de <nom>Hegaj</nom>, la gardisto de la virinoj
         <fnt><bib>MT</bib>, <lok>&Est; 2:8</lok></fnt>;
       </ekz>
       <ekz>
@@ -109,17 +164,35 @@
         <fnt><bib>Fab3</bib>, <lok>Historio de unu patrino</lok></fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="zorg.0o.peno">zorgo<sncref/></ref>,
+      <ref cel="rigard.super0o.kontrolo">superrigardo<sncref/></ref>
+    </refgrp>
+    <trd lng="be">&c_n;&c_a;&c_g;&c_l;&c_ja;&c_d;</trd>
+    <trdgrp lng="de">
+      <trd>Aufsicht</trd>,
+      <trd>Obhut</trd>
+    </trdgrp>
+    <trd lng="fa">&a_b;&a_A;&a_z;&a_r;&a_s;&f_y;</trd>
+    <trdgrp lng="fr">
+      <trd>inspection</trd>,
+      <trd>surveillance</trd>
+    </trdgrp>
+    <trd lng="hu">fel&uuml;gyelet</trd>
   </snc>
-  <trd lng="fa">&a_b;&a_A;&a_z;&a_r;&a_s;&f_y;</trd>
-  <trdgrp lng="fr">
-    <trd>inspection</trd>,
-    <trd>surveillance</trd>
+  <trdgrp lng="ja">
+    <trd>&#x67FB;&#x5BDF;  [<ind>&#x3055;&#x3055;&#x3064;</ind>]</trd>,
+    <trd>&#x691C;&#x67FB;  [<ind>&#x3051;&#x3093;&#x3055;</ind>]</trd>,
+    <trd>&#x76E3;&#x67FB;  [<ind>&#x304B;&#x3093;&#x3055;</ind>]</trd>
   </trdgrp>
-  <trd lng="hu">fel&uuml;gyelet</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_g;&#x43B;&#x44F;&c_d;</trd>,
+    <trd>&c_ib;&#x43D;&c_s;&#x43F;&c_je;&#x43A;&c_c;&c_ib;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="inspek.0anto">
-  <kap><tld/>anto, <var><kap><tld/>isto<fnt>Z</fnt></kap></var></kap>
+  <kap><tld/>anto, <var><kap><tld/>isto</kap></var></kap>
   <snc mrk="inspek.0anto.KOMUNE">
     <dif>
       Oficisto komisiita por <tld/>i;
@@ -128,6 +201,28 @@
         la Izraelidoj havis <klr>[...]</klr> siajn <tld/>istojn,
         kiuj servis al la re&gcirc;o pri &ccirc;iuj aferoj de la aparta&jcirc;oj
         <fnt><bib>MT</bib>, <lok>&Kr1; 27:1</lok></fnt>.
+      </ekz>
+      <ekz>
+        mi mem administras la bienon kaj imagu, mia <tld/>isto 
+        <nom>Erofej</nom> estas rimarkinda
+        tipo
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili havas anka&ubreve; tuj la plej belan fulmotondron 
+        <klr>(&ccirc;agrenon)</klr> kun la <tld/>istoj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Postnikov</nom> estis <tld/>isto de la fervojoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 7 (69)</lok>
+        </fnt>.
       </ekz>
     </dif>    
   </snc>
@@ -154,6 +249,11 @@
     <trd>superviseur</trd>
   </trdgrp>
   <trd lng="hu">fel&uuml;gyel&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x67FB;&#x5BDF;&#x5B98;  [<ind>&#x3055;&#x3055;&#x3064;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x691C;&#x67FB;&#x5B98;  [<ind>&#x3051;&#x3093;&#x3055;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x76E3;&#x67FB;&#x5F79;  [<ind>&#x304B;&#x3093;&#x3055;&#x3084;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">inspecteur</trd>
   <trd lng="pt">inspetor</trd>
   <trdgrp lng="ru">
@@ -165,12 +265,30 @@
     <trd>dozorca</trd>,
     <trd>in&scaron;pektor</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43D;&c_s;&#x43F;&c_je;&#x43A;&c_t;&#x43E;&c_r;</trd>,
+    <trd>&#x43D;&c_a;&c_g;&#x43B;&#x44F;&c_d;&c_a;&c_ch;</trd>,
+    <trd>&c_ib;&#x43D;&c_s;&#x43F;&c_ib;&c_c;&c_ib;&c_jeu;&#x43D;&c_t; (&c_z;&c_v;&c_a;&#x43D;&#x43D;&#x44F; &c_s;&c_je;&c_r;&c_je;&c_d;&#x43D;&#x44C;&#x43E;&c_g;&#x43E;
+    &c_ch;&c_i;&#x43D;&#x43E;&c_v;&#x43D;&c_i;&#x43A;&c_a;)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/02/10 08:34:16
+Dmitri Gabinski: + trd be
+
+versio 1.24 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.22 2021/12/16 20:29:31
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+versio 1.21 2021/06/21 15:35:53
+Dmitri Gabinski: + trd be
+
 Revision 1.19  2015/11/09 21:10:15  revo
-Jeromo Vasxe: + ~o
+Jeromo Va&scirc;e: + ~o
 
 Revision 1.18  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
@@ -179,14 +297,5 @@ Revision 1.17  2015/06/29 16:33:15  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.16  2012/10/23 00:11:53  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.15  2005/11/03 17:31:41  revo
-Luiz Portella: +trd pt
-
-Revision 1.14  2005/06/23 16:31:49  revo
-Marc Bavant: kor ref cel al konfid
-
-Revision 1.13  2004/02/09 17:31:18  revo
 -->
 </vortaro>

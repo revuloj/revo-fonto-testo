@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kruel.xml,v 1.13 2009/09/17 16:30:46 revo Exp $">
+<art mrk="$Id: kruel.xml,v 1.18 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kruel</rad>/a
@@ -27,6 +26,9 @@
     </dif>
     <trdgrp lng="de">
      <trd>grausam</trd>,
+     <trd>herzlos</trd>,
+     <trd>gemein</trd>,
+     <trd>unbarmherzig</trd>,
      <trd>unmenschlich</trd>
     </trdgrp>
     <trd lng="hu">kegyetlen</trd>
@@ -64,6 +66,12 @@
   <trd lng="en">cruel</trd>
   <trd lng="es">cruel</trd>
   <trd lng="fr">cruel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6B8B;&#x9177;&#x306A;  [<ind>&#x3056;&#x3093;&#x3053;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x3080;&#x3054;&#x3044;</trd>,
+    <trd>&#x53B3;&#x3057;&#x3044;  [<ind>&#x304D;&#x3073;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x60B2;&#x60E8;&#x306A;  [<ind>&#x3072;&#x3055;&#x3093;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wreed</trd>
   <trd lng="pl">okrutny</trd>
   <trdgrp lng="pt">
@@ -76,12 +84,19 @@
     <trd>cruzime</trd>
   </trdgrp> 
   <trd lng="ru">&c_zh;&c_je;&c_s;&c_t;&c_o;&c_k;&c_i;&c_j;</trd>
-  <trd lng="th">&#3650;&#3627;&#3604;&#3619;&#3657;&#3634;&#3618;</trd>
+  <trd lng="th">&#xE42;&#xE2B;&#xE14;&#xE23;&#xE49;&#xE32;&#xE22;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&#x43E;&c_r;&c_s;&c_t;&#x43E;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x43B;&#x44E;&c_t;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.17 2022/04/25 11:28:52
+Ulrich Fellmann: kruela 1: +3 pliaj DE trdj
+
 Revision 1.14  2018/03/01 23:10:20  revo
 Vito Redsky: +trd pl +trd ro
 

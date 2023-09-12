@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rinoce.xml,v 1.24 2023/09/03 07:53:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rinocer</rad>/o
@@ -20,8 +19,7 @@
              <fnt>
         <aut>Rudyard Kipling, Trad. Wouter F. Pilger</aut>,
         <vrk>Tiel do: Rakontoj por malgrandaj infanoj</vrk>,
-        <lok><url ref=
-        "http://www.gutenberg.org/ebooks/48900">
+        <lok><url ref="&Gutenberg;ebooks/48900">
         gutenberg.org</url></lok>
         </fnt>.
       </ekz>
@@ -29,6 +27,7 @@
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_a;&c_r;&c_o;&c_g;</trd>
   <trd lng="bg">&c_n;&c_o;&c_s;&c_o;&c_r;&c_o;&c_g;</trd>
+  <trd lng="bo">&#xF56;&#xF66;&#xF7A;&#xF0B;&#xF62;&#xF74;&#xF0B;</trd>
   <trd lng="br">frikorneg</trd>
   <trd lng="ca">rinoceront</trd>
   <trd lng="cs">nosoro&zcaron;ec</trd>
@@ -43,19 +42,28 @@
     <trd>orrszarv&uacute;</trd>,
     <trd>rinoc&eacute;rosz</trd>
   </trdgrp>
+  <trd lng="ja">&#x30B5;&#x30A4;  [<ind>&#x3055;&#x3044;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>neushoorn</trd>,
     <trd>rinoceros</trd>
   </trdgrp>
   <trd lng="pl">nosoro&zdot;ec</trd>
   <trd lng="pt">rinoceronte</trd>
+  <trd lng="ro">rinocer</trd>
   <trd lng="ru">&c_n;&c_o;&c_s;&c_o;&c_r;&c_o;&c_g;</trd>
   <trd lng="sk">nosoro&zcaron;ec</trd>
   <trd lng="sv">nosh&ouml;rning</trd>
+  <trd lng="uk">&#x43D;&#x43E;&c_s;&#x43E;&c_r;&c_ib;&c_g;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2022/11/27 23:29:28
+Vito Redsky: +trd pl + trd ro
+
+versio 1.22 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.18  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -72,8 +80,5 @@ Revision 1.14  2006/02/21 17:32:49  revo
 Tulio Flores: +trd pt
 
 Revision 1.13  2005/04/14 16:32:14  revo
-Alan ar Gall: +trd br, fr
-
-Revision 1.12  2005/04/07 16:31:47  revo
 -->
 </vortaro>

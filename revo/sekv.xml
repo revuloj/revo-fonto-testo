@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sekv.xml,v 1.131 2023/09/10 15:34:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sekv</rad>/i
@@ -26,7 +25,7 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        la laboristinoj <tld/>is &scirc;in per siaj rigardoj, 
+        la laboristinoj <tld/>is &scirc;in per siaj rigardoj,
         la pli junaj kun simpatio <klr>[&#8230;]</klr>, la
         pli maljunaj kun kompato
         <klr>(vd <ref cel="akompa.0i">akompani</ref>)</klr>;
@@ -68,7 +67,11 @@
       <trd>&c_i;&c_d;&c_t;&c_i; <klr tip="amb">(&c_z;&c_a; &c_k;&c_je;&c_m;-&c_l;..,
       &c_ch;&c_je;&c_m;-&c_l;.)</klr></trd>
     </trdgrp>
-    <trd lng="zh">&#36319;&#38543; [<ind>g&#275;nsu&iacute;</ind>]</trd>
+    <trdgrp lng="th">
+      <trd>&#xE40;&#xE14;&#xE34;&#xE19;&#xE15;&#xE32;&#xE21;</trd>,
+      <trd>&#xE15;&#xE32;&#xE21;</trd>
+    </trdgrp>
+    <trd lng="zh">&#x8DDF;&#x968F; [<ind>gēnsu&iacute;</ind>]</trd>
   </snc>
   <snc mrk="sekv.0i.FIG">
     <dif>
@@ -87,7 +90,7 @@
           &ccirc;iu <tld/>as kun intereso la malfacilan bataladon
           <fnt>
             <bib>Paroloj</bib>
-            <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista 
+            <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista
             en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
           </fnt>;
         </ekz>
@@ -212,6 +215,10 @@
       <trd>se <ind>soumettre</ind><klr tip="ind"> (&agrave; un guide, &agrave; des
       principes)</klr></trd>
     </trdgrp>
+    <trdgrp lng="th">
+      <trd>&#xE17;&#xE33;&#xE15;&#xE32;&#xE21;</trd>,
+      <trd>&#xE1B;&#xE0F;&#xE34;&#xE1A;&#xE31;&#xE15;&#xE34;&#xE15;&#xE32;&#xE21;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="sekv.0i.okazi_post">
     <dif>
@@ -287,33 +294,114 @@
       <trd>resultar de</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">volg</trd>
+  <trd lng="am">&#4720;&#x12A8;&#4720;&#x120D;</trd>
+  <trd lng="ar">&a_t;&a_A;&a_b;&a_ayn;</trd>
+  <trd lng="az">izl&#601;m&#601;k</trd>
+  <trd lng="bn">&#2437;&#x9A8;&#x9C1;&#x9B8;&#x9B0;&#x9A3; &#2453;&#x9B0;&#x9BE;</trd>
+  <trd lng="bo">&t_ga;&t_zha;&t_shabchu;&t_ga;&t_sa;&t_tsheg;&t_la;&t_tsheg;&t_sha;&t_naro;&t_ga;&t_tsheg;</trd>
+  <trd lng="bs">slijediti</trd>
   <trd lng="ca">seguir</trd>
+  <trd lng="co">seguitate</trd>
   <trdgrp lng="cs">
     <trd>n&aacute;sledovat</trd>,
     <trd>sledovat</trd>,
     <trd>vypl&yacute;vat</trd>
   </trdgrp>
+  <trd lng="cy">dilyn</trd>
+  <trd lng="da">f&oslash;lg</trd>
   <trd lng="de">folgen</trd>
   <trd lng="en">follow</trd>
   <trd lng="es">seguir</trd>
+  <trd lng="et">j&auml;rgima</trd>
+  <trd lng="eu">jarraitu</trd>
   <trd lng="fr">suivre</trd>
+  <trd lng="fy">folgje</trd>
+  <trd lng="ga">lean&uacute;int</trd>
+  <trd lng="gd">a &#8216;leantainn</trd>
+  <trd lng="gl">siga</trd>
+  <trd lng="gu">&#xA85;&#xAA8;&#xAC1;&#xAB8;&#xAB0;&#xACB;</trd>
+  <trd lng="ha">bin</trd>
+  <trd lng="hi">&#2325;&#x93E; &#x92A;&#x93E;&#2354;&#2344; &#2325;&#2352;&#2375;&#2306;</trd>
+  <trd lng="hmn">ua raws li</trd>
+  <trd lng="hr">slijediti</trd>
+  <trd lng="ht">swiv</trd>
   <trdgrp lng="hu">
     <trd>k&ouml;vet</trd>,
     <trd>k&ouml;vetkezik</trd>
   </trdgrp>
+  <trd lng="hy">&#1392;&#1381;&#x57F;&#1381;&#1410;&#1381;&#x56C;</trd>
+  <trd lng="ig">na-eso</trd>
+  <trd lng="is">fylgja</trd>
+  <trd lng="ja">&#x7D9A;&#x304F; [<ind>&#12388;&#12389;&#x304F;</ind>]</trd>
+  <trd lng="jv">tindakake</trd>
+  <trd lng="ka">&#x10D3;&#x10D0;&#x10D8;&#x10EA;&#x10D5;&#x10D0;&#x10E1;</trd>
+  <trd lng="kk">&c_o;&c_r;&c_y;&c_n;&c_d;&c_a;&#x4A3;&c_y;&c_z;</trd>
+  <trd lng="km">&#x178F;&#x17B6;&#6040;</trd>
+  <trd lng="kn">&#xC85;&#xCA8;&#xCC1;&#xCB8;&#xCB0;&#xCBF;&#xCB8;&#xCBF;</trd>
+  <trd lng="ko">&#xB530;&#xB77C;</trd>
+  <trd lng="ku">p&ecirc;ketin</trd>
+  <trd lng="ky">&c_e;&c_e;&c_r;&c_ch;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">sequitur</trd>
+  <trd lng="lo">&#xE9B;&#xEB0;&#xE95;&#xEB4;&#xE9A;&#xEB1;&#xE94;&#xE95;&#xEB2;&#xEA1;</trd>
+  <trd lng="lt">sekti</trd>
+  <trd lng="lv">sekot</trd>
+  <trd lng="mg">manaraka</trd>
+  <trd lng="mi">te whai</trd>
+  <trd lng="mk">&c_s;&c_l;&c_je;&c_d;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD2A;&#xD3F;&#xD28;&#xD4D;&#xD24;&#xD41;&#xD1F;&#xD30;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_d;&c_a;&c_g;&c_a;&c_h;</trd>
+  <trd lng="mr">&#2309;&#2344;&#2369;&#2360;&#2352;&#2339;</trd>
+  <trd lng="ms">mengikuti</trd>
+  <trd lng="mt">isegwu</trd>
+  <trd lng="my">&#x101C;&#x102D;&#x102F;&#4096;&#x103A;</trd>
+  <trd lng="ne">&#x92A;&#x91B;&#x94D;&#x92F;&#x93E;&#2313;&#2344;</trd>
   <trd lng="nl">volgen</trd>
+  <trd lng="ny">kutsatira</trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA2A;&#xA3E;&#xA32;&#xA23;&#xA3E; &#xA15;&#xA30;&#xA4B;</trd>
+  <trdgrp lng="pl">
+    <trd>nast&eogonek;powa&cacute;</trd>,
+    <trd>pod&aogonek;&zdot;a&cacute;</trd>,
+    <trd>wynika&cacute;</trd>
+  </trdgrp>
+  <trd lng="ps">&a_t;&a_ayn;&a_q;&a_y;&a_b;</trd>
+  <trd lng="rw">kurikira</trd>
+  <trd lng="sd">&a_j;&a_y; &a_t;&a_A;&a_b;&a_ayn;&a_d;&a_A;&a_r;&a_y; &#x6AA;&a_r;&a_y;&a_w;</trd>
+  <trd lng="si">&#xD85;&#xDB1;&#xDD4;&#xD9C;&#xDB8;&#xDB1;&#xDBA;</trd>
   <trdgrp lng="sk">
     <trd>nasledova&tcaron;</trd>,
     <trd>sledova&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">sledite</trd>
+  <trd lng="sm">mulimuli</trd>
+  <trd lng="sn">tevera</trd>
+  <trd lng="so">raacaan</trd>
+  <trd lng="sq">ndjek</trd>
+  <trd lng="st">latela</trd>
+  <trd lng="su">ngiringan</trd>
+  <trd lng="sw">kufuata</trd>
+  <trd
+  lng="ta">&#xBAA;&#xBBF;&#xBA9;&#xBCD;&#xBAA;&#xBB1;&#xBCD;&#xBB1;&#xBB5;&#xBC1;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC05;&#xC28;&#xC41;&#xC38;&#xC30;&#xC3F;&#xC02;&#xC1A;&#xC02;&#xC21;&#xC3F;</trd>
+  <trd lng="tg">&c_p;&c_a;&c_j;&c_r;&c_a;&c_v;&#x4E3;</trd>
+
+  <trd lng="tl">sundin</trd>
+  <trd lng="tt">&c_i;&c_ja;&c_r;&c_je;&c_g;&c_je;&c_z;</trd>
+  <trd lng="uk">&c_s;&c_l;&c_ib;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_f;&a_A;&a_l;&a_w; &f_k;&a_r;&f_y;&#x6BA;</trd>
+  <trd lng="uz">rioya</trd>
+  <trd lng="vi">theo</trd>
+  <trd lng="xh">landela</trd>
+  <trd lng="yi">&nun;&alef;&#x5B8;&kaf;&pe;&alef;&#x5B8;&lamed;&gimel;&fnun;</trd>
+  <trd lng="yo">t&#x1EB9;le</trd>
+  <trd lng="zu">ukulandela</trd>
 </drv>
 
 <drv mrk="sekv.0o">
   <kap><tld/>o</kap>
   <snc mrk="sekv.0o.rezulto">
     <dif>
-      Io, kio <ref tip="vid"
-      cel="sekv.0i.rezulti"><tld/>as<sncref/></ref>,
+      Io, kio <ref tip="vid" cel="sekv.0i.rezulti"><tld/>as<sncref/></ref>,
       <ref tip="vid" cel="konsek1.0o">konsekvenco</ref>:
       <ekz>
         tio estas tute natura <tld/>o
@@ -348,16 +436,17 @@
         tio fakto restos dum <tld/>o de cent jaroj
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         televida bildo<tld/>o
-        <fnt>
+       <fnt>
+          <aut>PEJNO Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato1/monato-9504-radio.txt">Radio</url></vrk>
+          <lok>1995/04, p. 17</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -390,6 +479,18 @@
     <trd>okozat</trd>,
     <trd>eredm&eacute;ny</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E30;&#x7D50;  [<ind>&#x304D;&#12369;&#12388;</ind>]</trd>,
+    <trd>&#25104;&#x884C;  [<ind>&#x306A;&#x308A;&#12422;&#x304D;</ind>]</trd>,
+    <trd>&#x7D50;&#x679C;  [<ind>&#12369;&#12387;&#x304B;</ind>]</trd>,
+    <trd>&#25104;&#x679C;  [<ind>&#x305B;&#12356;&#x304B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nast&eogonek;pstwo</trd>,
+    <trd>skutek</trd>,
+    <trd>wynik</trd>,
+    <trd>sukcesja</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_l;&c_je;&c_d;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
@@ -398,6 +499,7 @@
     <trd>d&ocirc;sledok</trd>,
     <trd>n&aacute;sledok</trd>
   </trdgrp>
+  <trd lng="uk">&#x43D;&c_a;&c_s;&#x43B;&c_ib;&c_d;&#x43E;&#x43A;</trd>
 </drv>
 
 <drv mrk="sekv.0e">
@@ -455,8 +557,11 @@
     <trd>k&ouml;vetkez&eacute;sk&eacute;ppen</trd>,
     <trd>teh&aacute;t</trd>
   </trdgrp>
+  <trd lng="ja">&#12375;&#x305F;&#x304C;&#12387;&#12390;</trd>
+  <trd lng="pl">zatem</trd>
   <trd lng="ru">&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>
   <trd lng="sk">n&aacute;sledkom <klr>(nie&ccaron;oho)</klr></trd>
+  <trd lng="uk">&#x43E;&c_t;&c_zh;&c_je;</trd>
 </drv>
 
 <drv mrk="sekv.0ede">
@@ -471,20 +576,18 @@
         pliigos la laborkapablojn
         <fnt>
           <aut>N. Covelli</aut>,
-          <vrk><url
-          ref="http://trento.esperantoitalia.it/doc/etruscaFamilio.pdf">
+          <vrk><url ref="http://trento.esperantoitalia.it/doc/etruscaFamilio.pdf">
           Vivo, historio kaj legendo de la etruska familio</url></vrk>,
           <lok>2005</lok>
         </fnt>;
       </ekz>
       <ekz>
-        studento rajtas plenumi anta&ubreve;e aprobitan esplorlaboron kaj 
-        gajni kvin poentojn <tld/>e al la pozitiva ju&gcirc;o de la 
+        studento rajtas plenumi anta&ubreve;e aprobitan esplorlaboron kaj
+        gajni kvin poentojn <tld/>e al la pozitiva ju&gcirc;o de la
         esplorraporto
         <fnt>
           <aut>R. Moerbeek</aut>,
-          <vrk><url
-          ref="http://www.esperanto-nederland.nl/nieuws/sciigo20060205.php">
+          <vrk><url ref="http://www.esperanto-nederland.nl/nieuws/sciigo20060205.php">
           La Katedro pri Interlingvistiko...</url></vrk>,
           <lok>[2005]</lok>
         </fnt>.
@@ -504,6 +607,12 @@
   <trdgrp lng="fr">
     <trd>en cons&eacute;quence de</trd>,
     <trd>par suite de</trd>
+  </trdgrp>
+  <trd lng="ja">&#xFF5E;&#x306E;&#x7D50;&#x679C;  [&#xFF5E;<ind>&#x306E;&#12369;&#12387;&#x304B;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>wskutek</trd>,
+    <trd>w nast&eogonek;pstwie</trd>,
+    <trd>w wyniku czego&sacute;</trd>
   </trdgrp>
 </drv>
 
@@ -533,12 +642,11 @@
       </ekz>
       <ekz>
         for&jcirc;eta&jcirc;oj, <klr>[&#8230;]</klr> industriaj a&ubreve; komercaj ruba&jcirc;oj,
-        <tld/>a&jcirc;oj de privata agado 
+        <tld/>a&jcirc;oj de privata agado
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url
-          ref="&Monato;/2005/008511.php">Ruba&jcirc;trafiko</url></vrk>
+          <vrk><url ref="&Monato;/2005/008511.php">Ruba&jcirc;trafiko</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -559,7 +667,7 @@
         <trd>s&eacute;quelle</trd>
       </trdgrp>
       <trd lng="hu">sz&ouml;v&odblac;dm&eacute;ny</trd>
-      <trd lng="es">complicaciones<klr> (m&eacute;dicas)</klr></trd>    
+      <trd lng="es">complicaciones<klr> (m&eacute;dicas)</klr></trd>
       </subsnc>
       <subsnc mrk="sekv.0ajxo.BELA">
         <uzo tip="fak">BELA</uzo>
@@ -571,8 +679,7 @@
             Mirlando&rightquot;
             <fnt>
               <bib>Viki</bib>
-              <lok><url
-              ref="https://eo.wikipedia.org/?curid=55542">Trans la
+              <lok><url ref="https://eo.wikipedia.org/?curid=55542">Trans la
               spegulo</url></lok>
             </fnt>.
           </ekz>
@@ -585,8 +692,8 @@
       <trd>Fortsetzung</trd>
     </trdgrp>
     <trd lng="fr">suite<klr tip="ind"> (le reste de qc)</klr></trd>
-    <trd lng="hu">folytat&aacute;s</trd>    
-    <trd lng="es">la siguiente parte</trd>    
+    <trd lng="hu">folytat&aacute;s</trd>
+    <trd lng="es">la siguiente parte</trd>
   </snc>
   <snc mrk="sekv.0ajxo.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -596,6 +703,19 @@
     <trd lng="ca">successi&oacute;</trd>
     <trd lng="es">sucesi&oacute;n</trd>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x7D9A;&#x304D;  [<ind>&#12388;&#12389;&#x304D;</ind>]</trd>,
+    <trd>&#x6B21;  [<ind>&#12376;</ind>]</trd>,
+    <trd>&#x5F8C;&#x907A;&#x75C7;  [<ind>&#12371;&#12358;&#12356;&#12375;&#12423;&#12358;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>powik&lstroke;anie</trd>,
+    <trd>ci&aogonek;g dalszy</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_d;&#x43E;&c_v;&c_zh;&c_je;&#x43D;&#x43D;&#x44F; (&c_t;&c_je;&#x43A;&c_s;&c_t;&c_u; &c_ib; &c_t;.&#x43F;.)</trd>,
+    <trd>&#x43C;&c_je;&c_d;. &#x43D;&c_a;&c_s;&#x43B;&c_ib;&c_d;&#x43A;&c_i; (&c_h;&c_v;&#x43E;&c_r;&#x43E;&c_b;&c_i;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sekv.0igi">
@@ -633,12 +753,12 @@
       <trd>vigilar</trd>,
       <trd>hacer seguir</trd>
     </trdgrp>
-    <trd lng="hu">k&ouml;vettet</trd>    
+    <trd lng="hu">k&ouml;vettet</trd>
   </snc>
   <snc mrk="sekv.0igi.rezultigi">
     <dif>
       <ref tip="dif" cel="rezult.0igi">Rezultigi</ref> a&ubreve; konsekvencigi;
-      
+
       <ref tip="dif" cel="kauxz.0i">ka&ubreve;zi</ref>:
       <ekz>
         tia ali&gcirc;o certe <tld/>igos aliajn;
@@ -666,8 +786,7 @@
         <tld/>igi intereskonfliktojn kaj mankhavajn kontrolojn
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=224852">Administra
+          <lok><url ref="https://eo.wikipedia.org/?curid=224852">Administra
           etiko</url></lok>
         </fnt>.
       </ekz>
@@ -697,11 +816,75 @@
     <trd>okoz</trd>,
     <trd>kiv&aacute;lt</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5F8C;&#12434;&#x8FFD;&#x308F;&#x305B;&#x308B; 
+    [<ind>&#12354;&#12392;&#12434;&#x304A;&#x308F;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x5F93;&#x308F;&#x305B;&#x308B; 
+    [<ind>&#12375;&#x305F;&#x304C;&#x308F;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x5F93;&#12360;&#x308B;  [<ind>&#12375;&#x305F;&#x304C;&#12360;&#x308B;</ind>]</trd>,
+    <trd>&#x7D50;&#x679C;&#12434;&#x5C0E;&#x304F;  [<ind>&#12369;&#12387;&#x304B;&#12434;&#x307F;&#12385;&#12403;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">doen <ind>volgen</ind></trd>
+  <trdgrp lng="pl">
+    <trd>ci&aogonek;gn&aogonek;&cacute;</trd>,
+    <trd>prowadzi&cacute; ze sob&aogonek;</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_v;&c_l;&c_je;&c_ch;&c_mol; &c_z;&c_a; &c_s;&c_o;&c_b;&c_o;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>sp&ocirc;sobi&tcaron;</trd>,
     <trd>vyvola&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
+    <trd>&c_t;&#x44F;&c_g;&#x43D;&c_u;&c_t;&c_i; &c_z;&c_a; &c_s;&#x43E;&c_b;&#x43E;&#x44E;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&c_z;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_d;&#x43E;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i; (&c_d;&#x43E; &c_ch;&#x43E;&c_g;&#x43E;-&#x43D;.)</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_i;&#x43B;&c_a;&c_t;&c_i; &c_u;&c_s;&#x43B;&c_ib;&c_d; &c_z;&c_a; &#x43A;&c_i;&#x43C;-&#x43D;.</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sekv.0onta">
+  <kap>
+    <tld/>onta
+  </kap>
+  <snc>
+    <dif>
+      Kiu <tld/>os:
+      <ekz>
+        <klr>[li]</klr> ordonis, ke en la <tld/>onta tago li prezentu siajn subulojn
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum la dek <tld/>ontaj jaroj vi komencos militon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>onta tempo glorigos la apudmaran vojon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 9:1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de la <tld/>onta tago Marta devis komenci la profesion de kudristino
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="ven.0onta">venonta</ref>
+  </snc>
+  <trd lng="de">n&auml;chster</trd>
+  <trd lng="pl">nast&eogonek;pny</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_s;&c_t;&c_u;&#x43F;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43C;&c_a;&c_j;&c_b;&c_u;&c_t;&#x43D;&c_ib;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -715,15 +898,14 @@
         Oto la 1-a, la <tld/>ulo de Henriko la 1-a
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=215532">Boleslao la 1-a
+          <lok><url ref="https://eo.wikipedia.org/?curid=215532">Boleslao la 1-a
           (Bohemio)</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         kiu, post la morto de la vokisto <nom>M&auml;kel&auml;</nom>, fari&gcirc;is lia
         <tld/>ulo
-        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
         fratoj</vrk>, <lok>1947</lok></fnt>?
       </ekz>
     </dif>
@@ -731,7 +913,13 @@
   <trd lng="de">Nachfolger</trd>
   <trd lng="es">sucesor<klr> (subst.)</klr></trd>
   <trd lng="fr">successeur<klr> (subst.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>zwolennik</trd>,
+    <trd>adept</trd>,
+    <trd>stronnik</trd>
+  </trdgrp>
   <trd lng="sk">nohosled</trd>
+<trd lng="th">&#xE1C;&#xE39;&#xE49;&#xE15;&#xE34;&#xE14;&#xE15;&#xE32;&#xE21;</trd>
 </drv>
 
 <drv mrk="sekv.sin0o">
@@ -743,15 +931,15 @@
         la&ubreve; la &scirc;tuparo staris sin<tld/>o da soldatoj.
       </ekz>
       <ekz>
-        sin<tld/>o de tri nukleotidoj, pro la ordo de la bazoj 
+        sin<tld/>o de tri nukleotidoj, pro la ordo de la bazoj
         (adenino, citosino, guanino a&ubreve; uracilo), donas la kodon por
         unu aminoacido en proteina molekulo
         <fnt>
+          <aut>Ste&ccirc;jo Norvell</aut>
+          <vrk><url ref="&Monato;/2000/007157.html">Riboj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007157.html">Vivo:
-          Riboj</url></vrk>
-        </fnt>.
+          <lok>2000/11, p. 16-17</lok>
+          </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="ca">
@@ -762,7 +950,7 @@
       <trd>hilera</trd>,
       <trd>fila</trd>
     </trdgrp>
-    <trd lng="hu">sor</trd>    
+    <trd lng="hu">sor</trd>
   </snc>
   <snc mrk="sekv.sin0o.tempa">
     <dif>
@@ -780,29 +968,28 @@
       <ekz>
         konsonant-sin<tld/>oj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Christian Declerck</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006843.html">Kiun
-          vojon?</url></vrk>
+	<aut>Christian Declerck</aut>
+	<vrk><url ref="&Monato;/2000/006843.php">Kiun vojon?</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 4</lok>
         </fnt>;
       </ekz>
       <ekz>
         sin<tld/>o de subjektivaj asertoj kaj de historiaj falsa&jcirc;oj
         <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio:
+          kiu kiun mistifikas?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006947.html">Reago: 
-          Eks-Jugoslavio: kiu kiun mistifikas?</url></vrk>
+          <lok>2000/06, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         la arboj estas hakitaj la&ubreve; anta&ubreve;e elpensita kaj decidita
-        inter<tld/>o 
+        inter<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=313575">Arbarekspluatado</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=313575">Arbarekspluatado</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -811,8 +998,7 @@
         tute malsama ol en la nederlanda
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=23794">Afrikansa
+          <lok><url ref="https://eo.wikipedia.org/?curid=23794">Afrikansa
           lingvo</url></lok>
         </fnt>.
       </ekz>
@@ -825,7 +1011,7 @@
       <trd>sucesi&oacute;n</trd>,
       <trd>consecuci&oacute;n</trd>
     </trdgrp>
-    <trd lng="hu">sorozat</trd>    
+    <trd lng="hu">sorozat</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="cs">n&aacute;vaznost</trd>
@@ -841,12 +1027,25 @@
     <trd>s&eacute;rie</trd>,
     <trd>succession</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#36899;&#x7D9A;  [<ind>&#x308C;&#12435;&#x305E;&#x304F;</ind>]</trd>,
+    <trd>&#12402;&#12392;&#x7D9A;&#x304D;  [<ind>&#12402;&#12392;&#12388;&#12389;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>opeenvolging</trd>,
     <trd>volgorde</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>porz&aogonek;dek</trd>,
+    <trd>uszeregowanie</trd>,
+    <trd>szyk</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">nadv&auml;znos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x44F;&c_d;</trd>,
+    <trd>&#x43F;&#x43E;&c_s;&#x43B;&c_ib;&c_d;&#x43E;&c_v;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sekv.sin0a">
@@ -886,9 +1085,20 @@
     <trd>egym&aacute;st k&ouml;vet&odblac;</trd>,
     <trd>sorozatos</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B21;&#12293;&#x306E;  [<ind>&#12388;&#x304E;&#12388;&#x304E;&#x306E;</ind>]</trd>,
+    <trd>&#x76F8;&#x6B21;&#12368;  [<ind>&#12354;&#12356;&#12388;&#12368;</ind>]</trd>,
+    <trd>&#36899;&#x7D9A;&#12377;&#x308B;  [<ind>&#x308C;&#12435;&#x305E;&#x304F;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x4E00;&#36899;&#x306E;  [<ind>&#12356;&#12385;&#x308C;&#12435;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">opeenvolgend</trd>
+  <trdgrp lng="pl">
+    <trd>nast&eogonek;puj&aogonek;cy po sobie</trd>,
+    <trd>sekwencyjny</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">nadv&auml;zn&yacute;</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_s;&#x43B;&c_ib;&c_d;&#x43E;&c_v;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="sekv.okul0i">
@@ -907,7 +1117,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg r&ouml;ssler</aut>
-          <vrk><url ref="https://www.monato.be/2004/008357.html">La unua
+          <vrk><url ref="&Monato;/2004/008357.html">La unua
           nokto</url></vrk>
         </fnt>;
       </ekz>
@@ -925,17 +1135,18 @@
         la forirantajn gastojn
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://esperanto.cri.cn/1/2004/10/29/1@16555.htm">
+          <vrk><url ref="&CRI;1/2004/10/29/1@16555.htm">
           Kiu estis Han Xizai?</url></vrk>,
           <lok>&Ccirc;ina Radio Internacia, 2004-10-29</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_a;&c_ch;&c_y;&c_c;&c_mol; <klr>(&c_v;&c_a;&c_ch;&c_y;&c_m;&c_a;)</klr></trd>
   <trd lng="de">mit den Augen <ind>folgen</ind></trd>
   <trd lng="es">seguir con la mirada</trd>
   <trd lng="fr">suivre des yeux</trd>
+  <trd lng="pl">pod&aogonek;&zdot;a&cacute; oczami</trd>
 </drv>
 
 <drv mrk="sekv.post0i">
@@ -965,8 +1176,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/007861.html">Sekretaj vortoj
+          <vrk><url ref="&Monato;/2003/007861.html">Sekretaj vortoj
           de kura&gcirc;a presisto</url></vrk>
         </fnt>;
       </ekz>
@@ -987,6 +1197,14 @@
   <trd lng="de">nachfolgen</trd>
   <trd lng="es">seguir</trd>
   <trd lng="hu">k&ouml;vet</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F8C;&#x306B;&#12388;&#12356;&#12390;&#x884C;&#x304F;  [<ind>&#12354;&#12392;&#x306B;&#12388;&#12356;&#12390;&#12356;&#x304F;</ind>]</trd>,
+    <trd>&#x5C3E;&#x884C;&#12377;&#x308B;  [<ind>&#12403;&#12371;&#12358;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&sacute;ledzi&cacute;</trd>,
+    <trd>skutkowa&cacute;</trd>
+  </trdgrp>
   <trd lng="sk">sledova&tcaron;</trd>
 </drv>
 
@@ -997,7 +1215,7 @@
     <dif>
       Kiu post<tld/>as.
     </dif>
-    <trd lng="hu">k&ouml;vet&odblac;</trd>    
+    <trd lng="hu">k&ouml;vet&odblac;</trd>
   </snc>
   <snc mrk="sekv.post0anta.post_la_sekvanta">
     <dif>
@@ -1021,8 +1239,12 @@
       <trd>ulterior</trd>
       <trd>posterior al siguiente</trd>
     </trdgrp>
+    <trd lng="hu">ut&aacute;na k&ouml;vetkez&odblac;</trd>
     <trd lng="fr">ult&eacute;rieur</trd>
-    <trd lng="hu">ut&aacute;na k&ouml;vetkez&odblac;</trd>    
+    <trdgrp lng="pl">
+      <trd>skutkuj&aogonek;cy</trd>,
+      <trd>p&oacute;&zacute;niejszy</trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">encal&ccedil;ador</trd>
 </drv>
@@ -1070,29 +1292,41 @@
     <trd>suite<klr tip="ind"> (cons&eacute;quence)</klr></trd>
   </trdgrp>
   <trd lng="hu">k&ouml;vetkezm&eacute;ny</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D50;&#x679C;  [<ind>&#12369;&#12387;&#x304B;</ind>]</trd>,
+    <trd>&#x4E8B;&#x306E;&#25104;&#x308A;&#x884C;&#x304D; 
+    [<ind>&#12371;&#12392;&#x306E;&#x306A;&#x308A;&#12422;&#x304D;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>skutek</trd>,
+    <trd>konsekwencja</trd>
+  </trdgrp>
   <trd lng="sk">n&aacute;sledok</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.40  2019/06/30 18:21:49  revo
-adaptis URL de Monato
+versio 1.131 2023/09/10 15:34:09
+revo: korekto de transskribo
 
-Revision 1.39  2019/06/30 07:43:29  revo
-adaptis URL de Monato
+versio 1.130 2023/09/04 18:29:42
+Wolfram Diestel: kor. ja ind
 
-Revision 1.38  2018/06/02 12:10:13  revo
-Wolfram Diestel: kor. mkr, prilaboris ekz-ojn (cetero), germ trd
+versio 1.128 2023/08/29 17:27:20
+Wolfram Diestel: ja: prononco
 
-Revision 1.37  2018/06/01 17:10:13  revo
-Wolfram Diestel: ~ajho: reordigis lau trovitaj citajhoj
+versio 1.127 2023/08/13 16:30:16
+Vito Redsky: +trd pl
 
-Revision 1.36  2018/05/31 15:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn (dua parto)
+versio 1.126 2023/04/23 08:29:31
+Paul Peeraerts: &Steloj -> monato.be
 
-Revision 1.35  2018/05/28 20:10:15  revo
-Wolfram Diestel: ekz-fnt-oj
+versio 1.125 2023/04/17 12:46:54
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.34  2017/09/06 17:10:14  revo
+versio 1.124 2023/04/11 12:45:33
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.123 2023/04/07 16:34:01
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: burles.xml,v 1.14 2010/05/24 16:30:29 revo Exp $">
+<art mrk="$Id: burles.xml,v 1.27 2023/08/31 08:48:54 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>burlesk</rad>/a
@@ -13,10 +12,49 @@
     <uzo tip="fak">BELE</uzo>
     <uzo tip="fak">TEA</uzo>
     <dif>
-      Ekstravagance komika, kontrastiganta la noblecon de la temo kun la
-      trivialeco de la stilo:
+      Ekstravagance <ref tip="super" cel="komik.0a">komika</ref>,
+      kontrastiganta la noblecon de la temo kun la trivialeco de la stilo:
       <ekz>
-        <tld/>a poemo.
+        <tld/>a poemo;
+      </ekz>
+      <ekz>
+        centoj da maskitoj vagadas la&ubreve; la stratoj de <nom>Binche</nom>, &leftquot;intrigas&rightquot;, iras de
+        trinkejo al trinkejo, amuzante sin per multaj &scirc;erc<tld/>a&jcirc;oj
+        <fnt>
+          <aut>Maxime Lechien</aut>
+          <vrk><url ref="&Monato;/2000/006955.php">Fama karnavalo en Binche</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el la peza franca originalo fari&gcirc;as do poemo pli <tld/>a ol filozofia, pli
+        rakonta ol didaktika
+        <fnt>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2008/009455.php">Mezepokaj sekret(igit)aj sonetoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/08, p. 31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la situacio, almena&ubreve; en <tld/>a formo, spegulas la multe pli seriozan
+        mortpafadon en Londono
+        <fnt>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2005/008763.php">Faktoj senfaktaj kaj murdo en la
+          metroo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/10, p. 12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i similas <tld/>an ske&ccirc;on, sed ne politikan satiron
+        <fnt>
+          <aut>Etelo Liliano VOJNI&Ccirc;, trad. Vladimir OKC</aut>,
+          <vrk>Ojstro verkas pamfletojn</vrk>,
+          <lok>Parto II,  &Ccirc;apitro 3</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -30,11 +68,17 @@
   <trd lng="en">burlesque</trd>
   <trd lng="es">burlesco</trd>
   <trd lng="fr">burlesque</trd>
+  <trd lng="he">&#x5D1;&#x5BC;&#x5D5;&#x5BC;&#x5E8;&#x5DC;&#x5B6;&#x5E1;&#x5E7;&#x5B8;&#x5D4;</trd>
   <trdgrp lng="hu">
     <trd>burleszk</trd>,
     <trd>kacagtat&oacute;</trd>
   </trdgrp>
   <trd lng="it">burlesco</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6ED1;&#x7A3D;&#x306A;  [<ind>&#x3053;&#x3063;&#x3051;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x9053;&#x5316;&#x305F;  [<ind>&#x3069;&#x3046;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x8336;&#x5316;&#x3057;&#x305F;  [<ind>&#x3061;&#x3083;&#x304B;&#x3057;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>burleskowy</trd>,
     <trd>krotochwilny</trd>
@@ -51,6 +95,11 @@
     <trd>fra&scaron;kovit&yacute;</trd>,
     <trd>komick&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_r;&#x43B;&c_je;&c_s;&#x43A;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_i;&c_g;&c_a;&c_d;&#x43B;&c_i;&c_v;&#x43E;-&#x43A;&#x43E;&#x43C;&c_ib;&c_ch;&#x43D;&c_i;&c_j;&#xA0;(&#x43F;&c_r;&#x43E; &c_t;&c_v;&c_ib;&c_r; &c_ch;&c_i;
+    &c_v;&c_i;&c_s;&c_t;&c_a;&c_v;&c_u;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="burles.0o">
@@ -59,25 +108,18 @@
     <uzo tip="fak">BELE</uzo>
     <uzo tip="fak">TEA</uzo>
     <dif>
-      Burleska <ref tip="super" cel="teatr.0ajxo">teatra&jcirc;o</ref>
-      a&ubreve; poemo:
-      <ekz>
-        &Gcirc;i similas <tld/>an ske&ccirc;on, sed ne politikan satiron
-        <fnt>
-          <aut>Etelo Liliano VOJNI&Ccirc;, trad. Vladimir OKC</aut>,
-          <vrk>
-            Ojstro verkas pamfletojn
-          </vrk>,
-          <lok>Parto II,  &Ccirc;apitro 3</lok>
-        </fnt>
-      </ekz>
+      <tld lit="B"/>a <ref tip="super" cel="teatr.0ajxo">teatra&jcirc;o</ref>
+      a&ubreve; poemo.
     </dif>
     <ref tip="super" cel="komedi.0o.TEA">komedio</ref>
+    <ref tip="vid" cel="vodevi.0o">vodevilo</ref>
   </snc>
+  <trd lng="be">&c_b;&c_u;&c_r;&c_l;&c_je;&c_s;&c_k;</trd>
   <trdgrp lng="cs">
     <trd>fra&scaron;ka</trd>,
     <trd>&zcaron;ert</trd>
   </trdgrp>
+  <trd lng="de">Burlesque</trd>
   <trd lng="en">burlesque</trd>
   <trd lng="it">commedia burlesca</trd>
   <trdgrp lng="pl">
@@ -94,9 +136,29 @@
     <uzo tip="fak">TEA</uzo>
     <dif>
       <ref tip="super" cel="rol.0ulo.BELE">Rolulo</ref> kiu prezentas
-      malnoblan, komikan rolon, kontraste al pli noblaj.
+      malnoblan, komikan rolon, kontraste al pli noblaj:
+      <ekz>
+        ni restas ja la modernaj <tld/>uloj apud elito, kiu akceptas, ke ni moku &gcirc;in por
+        ke &gcirc;i &gcirc;uu la privilegion aspekti tolerema kaj kapabla ridi pri si mem
+        <fnt>
+          <vrk><url ref="&Tekstaro;?nomo=mondediplo-2011">Arto ta&ubreve;zata sed ankora&ubreve;
+          potenca</url></vrk>
+          <lok>Le Monde diplomatique en Esperanto 2011-2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        spektaklo recitata en miksita lingvo, kiu kunfandis kaj unuigis diversajn
+        dialektojn de norda Italio kun la lingvo de la mezepokaj <tld/>uloj, por
+        elvoki la rakontmanieron de la kamparanoj
+        <fnt>
+        <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2017/011993.php">&Ccirc;u vi parolas &leftquot;grammelot&#x201D;?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2017/07, p. 18</lok>
+        </fnt>.
+      </ekz>
     </dif>
-    <refgrp tip="vid">
+    <refgrp tip="super">
       <ref cel="amuz.0isto.KOMUNE">amuzisto</ref>
     </refgrp>
   </snc>
@@ -120,33 +182,44 @@
     <trd>buffone</trd>,
     <trd>comico</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9053;&#x5316;&#x5F79;&#x8005;  [<ind>&#x3069;&#x3046;&#x3051;&#x3084;&#x304F;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x9053;&#x5316;&#x5E2B;  [<ind>&#x3069;&#x3046;&#x3051;&#x3057;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_sh;&c_u;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>komik</trd>,
     <trd>paj&aacute;c</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&#x43A;&c_t;&#x43E;&c_r;-&#x43A;&#x43E;&#x43C;&c_ib;&#x43A;</trd>,
+    <trd>&c_b;&#x43B;&c_a;&c_z;&c_je;&#x43D;&#x44C;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2023/05/19 15:26:18
+Paul Peeraerts: + aut, url,  lok
+
+versio 1.25 2023/05/03 16:39:01
+revo: aktualigo URL-unuoj
+
+versio 1.24 2023/04/14 14:27:32
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.23 2022/12/14 10:30:43
+Dmitri Gabinski: + trd be
+
+versio 1.22 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2021/02/19 18:41:43
+Wolfram Diestel: ekz-oj, ref-oj
+
 Revision 1.17  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.16  2015/06/29 16:29:36  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.15  2011/12/05 23:10:19  revo
-Eduardo Navas: +trad es
-
-Revision 1.14  2010/05/24 16:30:29  revo
-Antonio Codazzi: +trd it
-
-Revision 1.13  2010/04/14 06:06:02  revo
-Jose Antonio del Barrio: +trd es
-
-Revision 1.12  2008/05/05 16:30:20  revo
-Sebastian Cyprych: + ~o +trd pl
-
-Revision 1.11  2005/04/18 16:31:26  revo
 -->
 </vortaro>

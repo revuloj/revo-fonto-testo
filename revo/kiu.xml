@@ -2,246 +2,399 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: kiu.xml,v 1.16 2009/08/25 16:33:24 revo Exp $">
-    <kap>
-      <ofc>*</ofc>
-      <rad>kiu</rad>
-    </kap>
+  <art mrk="$Id: kiu.xml,v 1.106 2023/08/29 17:27:30 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kiu</rad>
+</kap>
 
-    <drv mrk="kiu.0">
-      <kap><ofc>*</ofc><tld/></kap>
-      <snc>
-        <dif>
-          Demanda pronomo uzata sen ia resendo al apuda substantivo
-          kaj montranta personon:
-          <ekz>
-            <tld/> kura&gcirc;as rajdi sur leono?
-            <fnt><bib>F</bib>, <lok>&FE;7.</lok></fnt>;
-          </ekz><ekz>
-            <ctl><tld lit="K"/>j estis tiuj du personoj?</ctl>
-            demandis la ne&gcirc;ulo la &ccirc;enhundon
-	    <fnt><bib>Fab4</bib>, <lok>Ne&gcirc;ulo</lok></fnt>.
-          </ekz>
-        </dif>
-        <trd lng="be">&c_h;&c_t;&c_o;</trd>
-        <trd lng="de">wer</trd>
-        <trd lng="he">&mem;&yod;</trd>
-        <trdgrp lng="hu">
-          <trd>ki</trd>,
-          <trd>kicsoda</trd>
-        </trdgrp>
-        <trd lng="id">siapa</trd>
-        <trd lng="nl">wie</trd>
-        <trd lng="pl">kto</trd>
-        <trdgrp lng="ro">
-          <trd>care</trd>,
-          <trd>cine</trd>
-        </trdgrp>
-        <trd lng="ru">&c_k;&c_t;&c_o;</trd>
-        <trd lng="sv">vem</trd>
-        <trdgrp lng="vo">
-          <trd>kiomik<klr> [vira]</klr></trd>,
-          <trd>kiofik<klr> [ina]</klr></trd>,
-          <trd>kiosik<klr> [a&jcirc;a]</klr></trd>
-        </trdgrp>
-        <trd lng="tr">kim</trd>
-      </snc>
-      <snc>
-        <dif>
-          Demanda pronomo uzata por resendi al apuda substantivo kaj
-          montranta personon a&ubreve; objekton:
-          <ekz>
-            <tld/> el ni kapablus tion?;
-          </ekz><ekz>
-            el tiuj libroj <tld/>n vi prenos?.
-          </ekz>
-        </dif>
-        <trdgrp lng="be">
-          <trd>&c_h;&c_t;&c_o;</trd>,
-          <trd>&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
-          <trd>&c_ja;&c_k;&c_ib;</trd>
-        </trdgrp>
-        <trdgrp lng="de">
-          <trd>wer</trd>,
-          <trd>welcher</trd>,
-          <trd>welche</trd>,
-          <trd>welches</trd>
-        </trdgrp>
-        <trdgrp lng="hu">
-          <trd>ki</trd>,
-          <trd>melyik</trd>
-        </trdgrp>
-        <trdgrp lng="nl">
-          <trd>wie</trd>,
-          <trd>welk</trd>,
-          <trd>welke</trd>
-        </trdgrp>
-        <trdgrp lng="pl">
-          <trd>kt&oacute;ry</trd>,
-          <trd>kt&oacute;ra</trd>,
-          <trd>kt&oacute;re</trd>
-        </trdgrp>
-        <trdgrp lng="ru">
-          <trd>&c_k;&c_t;&c_o;</trd>,
-          <trd>&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>
-        </trdgrp>
-        <trdgrp lng="sv">
-          <trd>vem</trd>,
-          <trd>vilken</trd>,
-          <trd>vilket</trd>
-        </trdgrp>
-      </snc>
-      <snc>
-        <dif>
-          Demanda adjektivo pri personoj a&ubreve; a&jcirc;oj:
-          <ekz>
-            <tld/> lernanto tion faris?;
-          </ekz><ekz>
-            <tld/>n daton ni havas hodia&ubreve;?;
-          </ekz><ekz>
-            pri <tld/> libro vi parolas?;
-          </ekz><ekz>
-            <tld/>jn do objektojn vi povas kaj deziras instrui?
-            <fnt><bib>Marta</bib></fnt>.
-          </ekz>
-        </dif>
-        <trdgrp lng="be">
-          <trd>&c_h;&c_t;&c_o;</trd>,
-          <trd>&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
-          <trd>&c_ja;&c_k;&c_ib;</trd>
-        </trdgrp>
-        <trdgrp lng="de">
-          <trd>welcher</trd>,
-          <trd>welche</trd>,
-          <trd>welches</trd>
-        </trdgrp>
-        <trd lng="he">&alef;&yod;&zayin;&he;</trd>
-        <trd lng="hu">mely(ik)</trd>
-        <trdgrp lng="id">
-          <trd>apa</trd>,
-          <trd><ind>yang</ind> mana</trd>
-        </trdgrp>
-        <trdgrp lng="nl">
-          <trd>welk</trd>,
-          <trd>welke</trd>
-        </trdgrp>
-        <trdgrp lng="ru">
-          <trd>&c_k;&c_t;&c_o;</trd>,
-          <trd>&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>
-        </trdgrp>
-        <trdgrp lng="sv">
-          <trd>vilken</trd>,
-          <trd>vilket</trd>
-        </trdgrp>
-      </snc>
-      <snc>
-        <dif>
-          Relativa pronomo pri personoj a&ubreve; a&jcirc;oj:
-          <ekz>
-            <ind><tld/> vivos, tiu vidos</ind>
-            <fnt><bib>PrV</bib></fnt>;
-            <trd lng="fr">qui <ind>vivra</ind> verra</trd>
-            <trd lng="ru">&c_p;&c_o;&c_zh;&c_i;&c_v;&c_jo;&c_m; &ndash; &c_u;&c_v;&c_i;&c_d;&c_d;&c_i;&c_m;</trd>
-          </ekz><ekz>
-            <ind>plej bone ridas, <tld/> laste ridas</ind>
-            <fnt><bib>PrV</bib></fnt>.
-            <trd lng="fr">rira bien qui rira le dernier</trd>
-            <trd lng="ru">&c_h;&c_o;&c_r;&c_o;&c_sh;&c_o; &c_s;&c_m;&c_je;&c_jo;&c_t;&c_s;&c_ja; &c_t;&c_o;&c_t;, &c_k;&c_t;&c_o; &c_s;&c_m;&c_je;&c_jo;&c_t;&c_s;&c_ja;
-            &c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_n;&c_i;&c_m;</trd>
-            <trd lng="tr">son g&uuml;len iyi g&uuml;ler</trd>
-          </ekz>
-        </dif>
-        <trdgrp lng="be">
-          <trd>&c_h;&c_t;&c_o;</trd>,
-          <trd>&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
-          <trd>&c_ja;&c_k;&c_ib;</trd>
-        </trdgrp>
-        <trdgrp lng="de">
-          <trd>wer</trd>,
-          <trd>der</trd>,
-          <trd>die</trd>,
-          <trd>das</trd>
-        </trdgrp>
-        <trdgrp lng="he">
-          <trd>&shin;-</trd>,
-          <trd>&mem;&yod; &shin;-</trd>,
-          <trd>&alef;&vav;&tav;&vav;</trd>
-        </trdgrp>
-        <trdgrp lng="hu">
-          <trd>aki</trd>,
-          <trd>amelyik</trd>
-        </trdgrp>
-        <trdgrp lng="nl">
-          <trd>welke</trd>,
-          <trd>welk</trd>
-        </trdgrp>
-        <trdgrp lng="ru">
-          <trd>&c_k;&c_t;&c_o;</trd>,
-          <trd>&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>
-        </trdgrp>
-        <trd lng="sv">som</trd>
-        <trd lng="vo">kel</trd>
-      </snc>
-      <ref tip="vid" cel="ajn.0">ajn</ref>
+<drv mrk="kiu.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <snc mrk="kiu.0.pronomo_demanda">
+    <dif>
+      Demanda pronomo uzata sen ia resendo al apuda substantivo
+      kaj montranta personon:
+      <ekz>
+        <tld/> kura&gcirc;as rajdi sur leono
+        <fnt><bib>F</bib>, <lok>&FE;7</lok></fnt>?
+      </ekz>
+      <ekz>
+        rakontu al ni la nova&jcirc;ojn <klr>[&#8230;]</klr> &mdash; de <tld/> vi &gcirc;in a&ubreve;dis
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        <tld/> povis tie lo&gcirc;i
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        <ctl><tld/>j estis tiuj du personoj?</ctl>
+        demandis la ne&gcirc;ulo la &ccirc;enhundon
+	<fnt><bib>Fab4</bib>, <lok>Ne&gcirc;ulo</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_h;&c_t;&c_o;</trd>
+    <trd lng="bo">&t_sa;&t_shabchu;&t_tsheg;</trd>
+    <trd lng="de">wer</trd>
+    <trd lng="en">who</trd>
+    <trd lng="he">&mem;&yod;</trd>
+    <trdgrp lng="hu">
+      <trd>ki</trd>,
+      <trd>kicsoda</trd>
+    </trdgrp>
+    <trd lng="id">siapa</trd>
+    <trd lng="nl">wie</trd>
+    <trd lng="pl">kto</trd>
+    <trdgrp lng="ro">
+      <trd>care</trd>,
+      <trd>cine</trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_t;&c_o;</trd>
+    <trd lng="sv">vem</trd>
+    <trdgrp lng="th">
+      <trd>&#3651;&#3588;&#3619;</trd>,
+      <trd>&#3588;&#3609;&#3652;&#3627;&#3609;</trd>
+    </trdgrp>
+    <trdgrp lng="vo">
+      <trd>kiomik<klr> [vira]</klr></trd>,
+      <trd>kiofik<klr> [ina]</klr></trd>,
+      <trd>kiosik<klr> [a&jcirc;a]</klr></trd>
+    </trdgrp>
+    <trd lng="tr">kim</trd>
+  </snc>
+  <snc mrk="kiu.0.pronomo_resenda">
+    <dif>
+      Demanda pronomo uzata por resendi al apuda substantivo kaj
+      montranta personon a&ubreve; objekton:
+      <ekz>
+        <tld/> el ni kapablus tion?
+      </ekz>
+      <ekz>
+        <tld/> el amba&ubreve;
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Sepa</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        <tld/> el ni plej anta&ubreve;e devas iri kontra&ubreve; <klr>[&#8230;]</klr> ili
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ju&gcirc;istoj 1:1</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        el tiuj libroj <tld/>n vi prenos?
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_h;&c_t;&c_o;</trd>,
+      <trd>&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
+      <trd>&c_ja;&c_k;&c_ib;</trd>
+    </trdgrp>
+    <trd lng="bo">&t_sa;&t_shabchu;&t_tsheg;</trd>
+    <trdgrp lng="de">
+      <trd>wer</trd>,
+      <trd>welcher</trd>,
+      <trd>welche</trd>,
+      <trd>welches</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>who</trd>,
+      <trd>which</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>ki</trd>,
+      <trd>melyik</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>wie</trd>,
+      <trd>welk</trd>,
+      <trd>welke</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>kt&oacute;ry</trd>,
+      <trd>kt&oacute;ra</trd>,
+      <trd>kt&oacute;re</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_t;&c_o;</trd>,
+      <trd>&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>vem</trd>,
+      <trd>vilken</trd>,
+      <trd>vilket</trd>
+    </trdgrp>
+    <trdgrp lng="th">
+      <trd>&#3651;&#3588;&#3619;</trd>,
+      <trd>&#3588;&#3609;&#3652;&#3627;&#3609;</trd>,
+      <trd>&#3626;&#3636;&#3656;&#3591;&#3652;&#3627;&#3609;</trd>,
+      <trd>&#3629;&#3633;&#3609;&#3652;&#3627;&#3609;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kiu.0.adjektiva">
+    <dif>
+      Demanda adjektivo pri personoj a&ubreve; a&jcirc;oj:
+      <ekz>
+        <tld/> lernanto tion faris?
+      </ekz><ekz>
+        <tld/>n daton ni havas hodia&ubreve;?
+      </ekz>
+      <ekz>
+        <tld/> lingvo estas tiu
+        <fnt>
+          <bib>KKr</bib>
+          <lok>I</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        mi ne scias, al <tld/> kategorio mi apartenas
+        <fnt>
+          <bib>KKr</bib>
+          <lok>I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>jn do objektojn vi povas kaj deziras instrui
+        <fnt><bib>Marta</bib></fnt>?
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_h;&c_t;&c_o;</trd>,
+      <trd>&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
+      <trd>&c_ja;&c_k;&c_ib;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>welcher</trd>,
+      <trd>welche</trd>,
+      <trd>welches</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>which</trd>,
+      <trd>what</trd>
+    </trdgrp>
+    <trd lng="he">&alef;&yod;&zayin;&he;</trd>
+    <trd lng="hu">mely(ik)</trd>
+    <trdgrp lng="id">
+      <trd>apa</trd>,
+      <trd><ind>yang</ind> mana</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>welk</trd>,
+      <trd>welke</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_t;&c_o;</trd>,
+      <trd>&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>vilken</trd>,
+      <trd>vilket</trd>
+    </trdgrp>
+    <trdgrp lng="th">
+      <trd>&#3588;&#3609;&#3652;&#3627;&#3609;</trd>,
+      <trd>&#3652;&#3627;&#3609;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kiu.0.pronomo_relativa">
+    <dif>
+      Relativa pronomo pri personoj a&ubreve; a&jcirc;oj:
+      <ekz>
+        mia karmemora patro komencis la publikigadon de kvarlingva
+        frazeologio-proverbaro, super <tld/> li laboris
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la multaj promesoj, <tld/>jn mi ricevas,
+        kaj el <tld/>j tre granda parto estas
+        subskribita &leftquot;senkondi&ccirc;e&rightquot;, <klr>[&#8230;]</klr> min ne trompis
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/> vivos, tiu vidos</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">qui <ind>vivra</ind> verra</trd>
+        <trd lng="ru">&c_p;&c_o;&c_zh;&c_i;&c_v;&c_jo;&c_m; &ndash; &c_u;&c_v;&c_i;&c_d;&c_i;&c_m;</trd>
+      </ekz><ekz>
+        <ind>plej bone ridas, <tld/> laste ridas</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">rira bien qui rira le dernier</trd>
+        <trd lng="ru">&c_h;&c_o;&c_r;&c_o;&c_sh;&c_o; &c_s;&c_m;&c_je;&c_jo;&c_t;&c_s;&c_ja; &c_t;&c_o;&c_t;, &c_k;&c_t;&c_o; &c_s;&c_m;&c_je;&c_jo;&c_t;&c_s;&c_ja;
+        &c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_n;&c_i;&c_m;</trd>
+        <trd lng="tr">son g&uuml;len iyi g&uuml;ler</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_h;&c_t;&c_o;</trd>,
+      <trd>&c_k;&c_a;&c_t;&c_o;&c_r;&c_y;</trd>,
+      <trd>&c_ja;&c_k;&c_ib;</trd>
+    </trdgrp>
+    <trd lng="bo">&t_sa;&t_shabchu;&t_tsheg;</trd>
+    <trdgrp lng="de">
+      <trd>wer</trd>,
+      <trd>der</trd>,
+      <trd>die</trd>,
+      <trd>das</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>who</trd>,
+      <trd>which</trd>,
+      <trd>that</trd>
+    </trdgrp>
+    <trdgrp lng="he">
+      <trd>&shin;-</trd>,
+      <trd>&mem;&yod; &shin;-</trd>,
+      <trd>&alef;&vav;&tav;&vav;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>aki</trd>,
+      <trd>amelyik</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>welke</trd>,
+      <trd>welk</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_t;&c_o;</trd>,
+      <trd>&c_k;&c_o;&c_t;&c_o;&c_r;&c_y;&c_j;</trd>
+    </trdgrp>
+    <trd lng="sv">som</trd>
+    <trdgrp lng="th">
+      <trd>&#3588;&#3609;&#3652;&#3627;&#3609;</trd>,
+      <trd>&#3648;&#3611;&#3655;&#3609;&#3612;&#3641;&#3657;&#3595;&#3638;&#3656;&#3591;</trd>,
+      <trd>&#3648;&#3611;&#3655;&#3609;&#3626;&#3636;&#3656;&#3591;&#3595;&#3638;&#3656;&#3591;</trd>,
+      <trd>&#3648;&#3611;&#3655;&#3609;&#3612;&#3641;&#3657;&#3607;&#3637;&#3656;</trd>,
+      <trd>&#3648;&#3611;&#3655;&#3609;&#3626;&#3636;&#3656;&#3591;&#3607;&#3637;&#3656;</trd>
+    </trdgrp>
+    <trd lng="vo">kel</trd>
+  </snc>
+  <ref tip="vid" cel="ajn.0">ajn</ref>
+  <trd lng="af">wat</trd>
+  <trd lng="am">&#4840;&#4768;&#4616;&#4637; &#4900;&#4755; &#4853;&#4653;&#4869;&#4725;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_dh;&a_y;</trd>
+  <trd lng="az">kim</trd>
+  <trd lng="bn">&#2479;&#2494;&#2480;&#2494;</trd>
+  <trd lng="bs">koji</trd>
+  <trd lng="co">ch&igrave;</trd>
   <trdgrp lng="cs">
     <trd>jen&zcaron;</trd>,
     <trd>kdo</trd>,
     <trd>kdo&zcaron;</trd>,
     <trd>kter&yacute;</trd>
   </trdgrp>
+  <trd lng="cy">pwy</trd>
+  <trd lng="da">der</trd>
+  <trd lng="et">mis</trd>
+  <trd lng="eu">nor</trd>
   <trdgrp lng="fr">
-        <trd>qui</trd>,
-        <trd>que</trd>,
-        <trd>quel</trd>,
-        <trd>lequel</trd>
-      </trdgrp>
+    <trd>qui</trd>,
+    <trd>que</trd>,
+    <trd>quel</trd>,
+    <trd>lequel</trd>
+  </trdgrp>
+  <trd lng="fy">wa</trd>
+  <trd lng="ga">a</trd>
+  <trd lng="gd">a</trd>
+  <trd lng="gl">que</trd>
+  <trd lng="gu">&#2716;&#2759;</trd>
+  <trd lng="ha">wanda</trd>
+  <trd lng="hi">&#2325;&#2380;&#2344;</trd>
+  <trd lng="hmn">uas</trd>
+  <trd lng="hr">koji</trd>
+  <trd lng="ht">ki moun ki</trd>
+  <trd lng="hy">&#1400;&#1406;</trd>
+  <trd lng="ig">onye</trd>
+  <trd lng="is">sem</trd>
+  <trd lng="ja">&#35504; [<ind>&#12384;&#12428;</ind>]</trd>
+  <trd lng="jv">sing</trd>
+  <trd lng="ka">&#4309;&#4312;&#4316;&#4330;</trd>
+  <trd lng="kk">&c_k;&c_ib;&c_m;</trd>
+  <trd lng="km">&#6026;&#6082;&#6043;</trd>
+  <trd lng="kn">&#3247;&#3262;&#3248;&#3265;</trd>
+  <trd lng="ko">&#49324;&#46988;</trd>
+  <trd lng="ku">k&icirc;</trd>
+  <trd lng="ky">&c_k;&c_i;&c_m;</trd>
+  <trd lng="lat">qui</trd>
+  <trd lng="lo">&#3740;&#3769;&#3785;&#3735;&#3765;&#3784;</trd>
+  <trd lng="lt">kas</trd>
+  <trd lng="lv">kur&scaron;</trd>
+  <trd lng="mg">izay</trd>
+  <trd lng="mi">nei</trd>
+  <trd lng="mk">&c_k;&c_o;&c_i;</trd>
+  <trd lng="ml">&#3334;&#3376;&#3405;</trd>
+  <trd lng="mn">&c_h;&#1199;&c_n;</trd>
+  <trd lng="mr">&#2325;&#2379;&#2339;</trd>
+  <trd lng="ms">yang</trd>
+  <trd lng="mt">li</trd>
+  <trd lng="my">&#4129;&#4120;&#4122;&#4154;&#4126;&#4144;&#4126;&#4106;&#4154;</trd>
+  <trd lng="ne">&#2332;&#2379;</trd>
+  <trd lng="ny">amene</trd>
+  <trd lng="pa">&#2588;&#2635;</trd>
+  <trd lng="ps">&f_ch;&#1744;</trd>
+  <trd lng="rw">ninde</trd>
+  <trd lng="sd">&a_j;&a_w;</trd>
+  <trd lng="si">&#3482;&#3515;&#3505;</trd>
   <trdgrp lng="sk">
     <trd>kto</trd>,
     <trd>ktor&yacute;</trd>
   </trdgrp>
+  <trd lng="sl">ki</trd>
+  <trd lng="sm">o</trd>
+  <trd lng="sn">ani</trd>
+  <trd lng="so">kuwaas oo</trd>
+  <trd lng="sq">q&euml;</trd>
+  <trd lng="st">ba ba neng ba</trd>
+  <trd lng="su">saha</trd>
+  <trd lng="sw">ambao</trd>
+  <trd lng="ta">&#2991;&#3006;&#2992;&#3021;</trd>
+  <trd lng="te">&#3086;&#3125;&#3120;&#3137;</trd>
+  <trd lng="tg">&c_k;&#1251;</trd>
+  <trd lng="tl">kung sino</trd>
+  <trd lng="tt">&c_k;&c_je;&c_m;</trd>
+  <trd lng="uk">&c_h;&c_t;&c_o;</trd>
+  <trd lng="ur">&a_j;&a_w;</trd>
+  <trd lng="uz">kim</trd>
+  <trd lng="vi">ng&#432;&#7901;i</trd>
+  <trd lng="xh">ngubani</trd>
+  <trd lng="yi">&vav;&vav;&alef;&samekh;</trd>
+  <trd lng="yo">ti o</trd>
+  <trd lng="zu">ngubani</trd>
 </drv>
   </art>
   <!--
   $Log$
-  Revision 1.22  2017/02/24 14:10:22  revo
-  Damien Brucker: alilokigo de la rim
+versio 1.106 2023/08/29 17:27:30
+Wolfram Diestel: ja: prononco
 
-  Revision 1.21  2015/07/04 08:37:37  revo
-  aldono de trd cs per skripto de M. von Laer
+versio 1.105 2023/07/11 07:24:27
+Wolfram Diestel: +ekz-oj, snc-mrk
 
-  Revision 1.20  2015/06/29 16:33:17  revo
-  aldono de trd sk per skripto de M. von Laer
+versio 1.104 2023/07/01 16:32:18
+Christian Siefkes: +trd en
 
-  Revision 1.19  2015/04/11 16:10:16  revo
-  Vito Redsky: trd pl trd ro
+versio 1.103 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
 
-  Revision 1.18  2014/10/27 07:10:17  revo
-  Eko Nur Syah Hidayat: +trd id
+versio 1.102 2021/12/11 17:41:17
+Warut Bunprasert: red th xml
 
-  Revision 1.17  2011/12/15 12:10:09  revo
-  Sergio Pokrovskij: + ekz, trd=ru
+versio 1.101 2021/12/10 17:41:18
+Warut Bunprasert: red th
 
-  Revision 1.16  2009/08/25 16:33:24  revo
-  Emmanuel Debanne: +trd tr
+versio 1.100 2021/09/02 06:36:09
+Dmitri Gabinski: kor de trd ru
 
-  Revision 1.15  2004/12/13 17:33:11  revo
-  Marc Bavant: +trd fr
-
-  Revision 1.14 2004/05/14 17:48:10 revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.13 2003/05/18 18:01:24 revo
-  Allon Rothfarb: +trd he
-
-  Revision 1.12 2003/03/11 17:32:13 revo
-  Ulrich Fellmann: + 4 trd = vo
-
-  Revision 1.11 2002/11/17 18:26:23 revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.10 2002/01/11 19:09:27 revo
-  fontindiko PrV per programo de Jerome
-
-  Revision 1.9 2001/10/24 18:26:50 revo
-  -->
+versio 1.24 2021/01/11 13:11:05
+-->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: portre.xml,v 1.27 2023/09/03 12:45:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>portret</rad>/o <fnt><bib>PV</bib></fnt>
@@ -26,7 +25,7 @@
           pa&scirc;tela <tld/>o;
         </ekz>
         <ekz>
-          vi ne rajtas montri al li la lastan &ccirc;ambron <klr>...</klr>,
+          vi ne rajtas montri al li la lastan &ccirc;ambron <klr>[&#x2026;]</klr>,
           kie
           estas la <tld/>o de la princino de Ora Kupolo
           <fnt><bib>ElektFab</bib>, <lok>fidela Johano</lok></fnt>.
@@ -47,9 +46,13 @@
   <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;</trd>
   <trdgrp lng="cs">
     <trd>podobizna</trd>,
-    <trd>portrét</trd>
+    <trd>portr&eacute;t</trd>
   </trdgrp>
-  <trd lng="de">Portrait</trd>
+    <trdgrp lng="de">
+      <trd>Gesichtsbildnis</trd>,
+      <trd>Portrait</trd>,
+      <trd>Portr&auml;t</trd>
+    </trdgrp>
   <trd lng="en">portrait</trd>
   <trdgrp lng="es">
      <trd>retrato</trd>,
@@ -57,17 +60,32 @@
   </trdgrp>
   <trd lng="fr">portrait</trd>
   <trd lng="hu">portr&eacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8096;&#x50CF;  [<ind>&#x3057;&#x3087;&#x3046;&#x305E;&#x3046;</ind>]</trd>,
+    <trd>&#x8096;&#x50CF;&#x753B;  [<ind>&#x3057;&#x3087;&#x3046;&#x305E;&#x3046;&#x304C;</ind>]</trd>,
+    <trd>&#x8096;&#x50CF;&#x5199;&#x771F;  [<ind>&#x3057;&#x3087;&#x3046;&#x305E;&#x3046;&#x3057;&#x3083;&#x3057;&#x3093;</ind>]</trd>,
+    <trd>&#x4EBA;&#x7269;&#x63CF;&#x5199;  [<ind>&#x3058;&#x3093;&#x3076;&#x3064;&#x3073;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">portret</trd>
+  <trdgrp lng="pl">
+    <trd>portret</trd>,
+    <trd>wizerunek</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>retrato</trd>,
     <trd>ef&iacute;gie</trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>portret</trd>,
+    <trd>reflectare</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_r;&c_t;&c_r;&c_je;&c_t;</trd>
   <trdgrp lng="sk">
-    <trd>podobizeň</trd>,
-    <trd>portrét</trd>
+    <trd>podobize&ncaron;</trd>,
+    <trd>portr&eacute;t</trd>
   </trdgrp>
   <trd lng="sv">portr&auml;tt</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_r;&c_t;&c_r;&c_je;&c_t;</trd>
 </drv>
 
 <drv mrk="portre.0i">
@@ -82,15 +100,28 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol; &c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;</trd>
   <trdgrp lng="cs">
-    <trd>malovat portrét</trd>,
-    <trd>portrétovat</trd>
+    <trd>malovat portr&eacute;t</trd>,
+    <trd>portr&eacute;tovat</trd>
   </trdgrp>
+    <trdgrp lng="de">
+      <trd>portr&auml;tieren</trd>
+    </trdgrp>
   <trd lng="es">retratar<klr tip="amb"> (hacer una imagen de
   alguien)</klr></trd>
   <trd lng="fr">portraiturer</trd>
+  <trd lng="ja">&#x8096;&#x50CF;&#x3092;&#x63CF;&#x304F;  [<ind>&#x3057;&#x3087;&#x3046;&#x305E;&#x3046;&#x3092;&#x3048;&#x304C;&#x304F;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>portretowa&cacute;</trd>,
+    <trd>portret robi&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>portretizeaz&abreve;</trd>,
+    <trd>portret realizat</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol; <ind>&c_p;&c_o;&c_r;&c_t;&c_r;&c_je;&c_t;</ind></trd>
-  <trd lng="sk">maľovať portrét</trd>
+  <trd lng="sk">ma&lcaron;ova&tcaron; portr&eacute;t</trd>
 </drv>
 
 <drv mrk="portre.0isto">
@@ -111,7 +142,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;&c_y;&c_s;&c_t;</trd>
   <trd lng="fr">portraitiste</trd>
+  <trd lng="ja">&#x8096;&#x50CF;&#x753B;&#x5BB6;  [<ind>&#x3057;&#x3087;&#x3046;&#x305E;&#x3046;&#x304C;&#x304B;</ind>]</trd>
+  <trd lng="pl">portrecista</trd>
+  <trd lng="ro">portretist</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_r;&c_t;&c_r;&c_je;&c_t;&c_i;&c_s;&c_t;</trd>
 </drv>
 
 <drv mrk="portre.foto0o">
@@ -119,24 +155,51 @@
   <snc mrk="portre.foto0o.FOT">
     <uzo tip="fak">FOT</uzo>
     <dif>
-      <ref tip="super" cel="portre.0o.BELA"><tld lit="P"/>o</ref>
+      <ref tip="super" cel="portre.0o.BELA"><tld lit="P"/>o<sncref/></ref>
       farita per fotado:
       <ekz>
         en la medaliono estas foto<tld/>o de junulino en gimnazia a&gcirc;o
         <fnt>
           <aut>I. Bunin, trad. B. Malej</aut>,
-          <vrk><url
-          ref="http://www.esperanto.mv.ru/Arkivoj/Prozo/Facila_spiro.html">
+          <vrk><url ref="http://www.esperanto.mv.ru/Arkivoj/Prozo/Facila_spiro.html">
           Facila spiro</url></vrk>,
           <lok>1998</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_f;&c_o;&c_t;&c_a;&c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;</trd>
   <trdgrp lng="fr">
     <trd>photo d'identit&eacute;</trd>,
     <trd>portrait photo</trd>
   </trdgrp>
+  <trd lng="pl">portret fotograficzny</trd>
+  <trd lng="ro">portret fotografic</trd>
+</drv>
+
+<drv mrk="portre.grup0o">
+  <kap>
+    grup<tld/>o
+  </kap>
+  <snc mrk="portre.grup0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      <ref tip="super" cel="portre.0o.BELA"><tld lit="P"/>o<sncref/></ref> de pluraj kunestantoj:
+      <ekz>
+        grup<tld/>o de soldatoj
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="https://eo.artprinta.com/products/andre-adolphe-eugene-disderi-1870-group-portrait-of-soldiers-art-print-fine-art-reproduction-wall-art">Grupportreto
+          de soldatoj</url></vrk>
+          <lok>[vidita en 2021]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_p;&c_a;&c_v;&c_y; &c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;</trd>
+  <trd lng="fr">portrait de groupe</trd>
+  <trd lng="pl">portret zbiorowy</trd>
+  <trd lng="ro">portret de grup</trd>
 </drv>
 
 <drv mrk="portre.mem0o">
@@ -149,14 +212,14 @@
     <subsnc mrk="portre.mem0o.BELA">
       <uzo tip="fak">BELA</uzo>
       <dif>
-        Bildo de la bildiganto mem:
+        <ref tip="super" cel="portre.0o.BELA"><tld lit="P"/>o<sncref/></ref>, bildo de la bildiganto
+        mem:
         <ekz>
-          Van Gogh dum sia tuta kariero pentris <tld/>ojn, ofte 
+          <nom>Van Gogh</nom> dum sia tuta kariero pentris <tld/>ojn, ofte 
           mem<tld/>ojn, kiam li ne povis pagi modelojn
           <fnt>
             <aut>D. Brooks, trad. K. Kov&aacute;ts</aut>,
-            <vrk><url
-            ref="http://www.vggallery.com/international/esperanto/paintings/overview.htm">
+            <vrk><url ref="http://www.vggallery.com/international/esperanto/paintings/overview.htm">
             La pentra&jcirc;oj: superrigardo</url></vrk>,
             <lok>[1996-2008]</lok>
           </fnt>.
@@ -168,7 +231,7 @@
       <dif>
         Priskribo de la priskribanto mem:
         <ekz>
-          la novelo <klr>...</klr> pitoreske montras internan flankon 
+          la novelo <klr>[&#x2026;]</klr> pitoreske montras internan flankon 
           de siatempaj homoj per la mem<tld/>o de unu klerulo
           <fnt>
             <aut>Kim Seung-ok, trad. Choe Youngsuk</aut>,
@@ -179,16 +242,33 @@
       </dif>
     </subsnc>
   </snc>
+  <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;</trd>
   <trdgrp lng="cs">
-    <trd>autoportrét</trd>,
-    <trd>vlastní podobizna</trd>
+    <trd>autoportr&eacute;t</trd>,
+    <trd>vlastn&iacute; podobizna</trd>
   </trdgrp>
   <trd lng="fr">autoportrait</trd>
-  <trd lng="sk">autoportrét</trd>
+  <trd lng="ja">&#x81EA;&#x753B;&#x50CF;  [<ind>&#x3058;&#x304C;&#x305E;&#x3046;</ind>]</trd>
+  <trd lng="pl">autoportret</trd>
+  <trd lng="ro">autoportret</trd>
+  <trd lng="sk">autoportr&eacute;t</trd>
+  <trd lng="uk">&c_a;&c_v;&c_t;&#x43E;&#x43F;&#x43E;&c_r;&c_t;&c_r;&c_je;&c_t;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2023/01/01 18:30:44
+Vito Redsky: +trd pl + trd ro
+
+versio 1.25 2022/06/15 08:39:13
+Ulrich Fellmann: portreto: +2 pliaj DE trdj; portreti: +DE trd
+
+versio 1.22 2021/07/26 15:36:01
+Dmitri Gabinski: + trd be
+
+versio 1.21 2021/05/25 20:56:20
+Jeromo Vasxe: + grup~o
+
 Revision 1.19  2015/06/29 16:40:18  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -199,20 +279,5 @@ Revision 1.17  2010/10/06 16:30:25  revo
 Agustin Garcia Lopez: +trd es
 
 Revision 1.16  2006/03/15 17:31:36  revo
-Tulio Flores: +tr pt
-
-Revision 1.15  2005/08/25 16:32:49  revo
-Yury Finkel: +trd ru
-
-Revision 1.14  2005/08/20 16:31:11  revo
-Jeromo Vasxe: + ~i
-
-Revision 1.13 2003/07/17 16:38:26 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12 2002/06/17 17:31:41 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11 2002/02/27 18:03:44 revo
 -->
 </vortaro>

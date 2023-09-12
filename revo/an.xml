@@ -1,18 +1,16 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: an.xml,v 1.19 2010/08/22 16:30:23 revo Exp $">
+  <art mrk="$Id: an.xml,v 1.45 2023/08/30 18:23:35 revo Exp $">
     <kap><ofc>*</ofc>-<rad>an</rad>/</kap>
 
 <subart>
 
-
   <drv mrk="an.0">
     <kap>-<tld/></kap>
-  
+
     <dif>
-      Sufikso signifanta membron de:  
+      Sufikso signifanta membron de:
     </dif>
 
     <snc mrk="an.0.grupo">
@@ -37,8 +35,8 @@
         <ekz>
           movad<tld/>o, samide<tld/>ino
           <klr>(iu el la grupo difinita per komuna celo,
-          konvinko)</klr>;   
-            
+          konvinko)</klr>;
+
         </ekz>
         <ekz>
           samtemp<tld/>o, samsort<tld/>o,
@@ -46,13 +44,13 @@
         <ekz>
           samgent<tld/>oj
           <fnt>
-            <bib>Monato</bib>
-            <vrk><url
-            ref='http://www.esperanto.be/fel/mon/006947.html'>REAGO:
-            Eks-Jugoslavio: kiu kiun mistifikas?</url></vrk>
-          </fnt>
-          <klr>(iu el la grupo difinita per komuna cirkonstanco)</klr>; 
-             
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio:
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>;
+          <klr>(iu el la grupo difinita per komuna cirkonstanco)</klr>;
 
         </ekz>
         <ekz>
@@ -83,7 +81,7 @@
       <trd><klr>-</klr>er</trd>
       </trdgrp>
     </snc>
-      
+
     <snc mrk="an.0.lando">
       <dif>
         lando, kies radikalo havas landan signifon. La aldonita sufikso
@@ -99,6 +97,7 @@
         Sud-Afriko - sud-afrik<tld/>o; Pakistano-pakistan<tld/>o.
         </ekz>
         <ref tip="vid" cel="land.0nomo">landnomo</ref>
+        <trd lng="th">&#xE41;&#xE2A;&#xE14;&#xE07;&#xE04;&#xE27;&#xE32;&#xE21;&#xE40;&#xE1B;&#xE47;&#xE19;&#xE0A;&#xE32;&#xE27;</trd>
     </snc>
     <trdgrp lng="fr">
       <trd>-ien</trd>,
@@ -116,15 +115,16 @@
       <trd>-iste</trd>,
     </trdgrp>
     <trd lng="io">-an</trd>
+    <trd lng="th">&#xE41;&#xE2A;&#xE14;&#xE07;&#xE04;&#xE27;&#xE32;&#xE21;&#xE40;&#xE1B;&#xE47;&#xE19;&#xE2A;&#xE21;&#xE32;&#xE0A;&#xE34;&#xE01;</trd>
     <trd lng="vo">-an</trd>
   </drv>
 </subart>
-   
+
 <subart>
   <dif>
     Samsignifa radiko:
   </dif>
-      
+
   <drv mrk="an.0o">
     <kap><tld/>o</kap>
     <snc>
@@ -138,8 +138,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Antonjo Gambuti</aut>
-            <vrk><url
-            ref='http://www.esperanto.be/fel/mon/007305.html'>Vatikano
+            <vrk><url ref="&Monato;/2001/007305.html">Vatikano
             rebatas (1)</url></vrk>
           </fnt>;
         </ekz>
@@ -148,8 +147,7 @@
           &scirc;erpojn nur kiel <tld/>ojn de servista klaso
           <fnt>
             <bib>Monato</bib>
-            <vrk><url
-            ref='http://www.esperanto.be/fel/mon/007116.html'>Sir Edmund
+            <vrk><url ref="&Monato;/2001/007116.html">Sir Edmund
             Hillary: Vivo dedi&ccirc;e al la &scirc;erpoj</url></vrk>
           </fnt>.
         </ekz>
@@ -178,11 +176,13 @@
     <trd lng="en">member</trd>
     <trdgrp lng="es">
              <trd>partidario</trd>,
-             <trd>miembro<klr tip="amb"> (de un grupo)</klr></trd> 
+             <trd>miembro<klr tip="amb"> (de un grupo)</klr></trd>
           </trdgrp>
     <trd lng="fr">membre</trd>
-    <trd lng="io">membro</trd>
-    <trdgrp lng="pl">
+    <trd lng="he">&het;&bet;&resh;</trd>
+  <trd lng="io">membro</trd>
+    <trd lng="ja">&#x4F1A;&#x54E1;  [<ind>&#x304B;&#x3044;&#x3044;&#x3093;</ind>]</trd>
+  <trdgrp lng="pl">
       <trd>cz&lstroke;onek</trd>,
       <trd>adept</trd>,
     </trdgrp>
@@ -192,14 +192,42 @@
       <trd>pr&iacute;slu&scaron;n&iacute;k</trd>,
       <trd>st&uacute;penec</trd>
     </trdgrp>
-  </drv>
+    <trd lng="th">&#xE2A;&#xE21;&#xE32;&#xE0A;&#xE34;&#xE01;</trd>
+    <trd lng="uk">&c_ch;&c_l;&c_je;&c_n;</trd>
+</drv>
 
-  <drv mrk="an.0aro">
-    <kap><ofc>*</ofc><tld/>aro
-    
-<fnt><bib>F</bib>, <lok>Universala Vortaro, <url
-    
-ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-4969">an'ar'</url></lok></fnt></kap>
+<drv mrk="an.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <snc mrk="an.0i.POL">
+    <dif>
+      Esti <tld/>o, <ref tip="vid" cel="membr.0i">membri</ref>:
+      <ekz>
+        &scirc;i <klr>[&#x2026;]</klr> <tld/>is al la bando, kiel speco de morala kaj jura
+        konsilisto, avertante &gcirc;is kie ni povis iri sen transpasi la limojn
+        <fnt>
+          <aut>J. Valano</aut>
+          <vrk>&Ccirc;u li bremsis sufi&ccirc;e?</vrk>
+          <lok>1978</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis rekonebla nur ke li <tld/>is en la popola milico, &ccirc;ar estis brakbendo sur
+        lia mantelo
+        <fnt>
+          <aut>G. Grass, trad. W. Kirschstein</aut>
+          <vrk><url ref="https://esperanto-ondo.ru/Tl-ger03.htm">el: Mia Jarcento</url></vrk>
+          <lok>La Ondo de Esperanto, 1999:11 (61)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&ecirc;tre membre</trd>
+</drv>
+
+<drv mrk="an.0aro">
+    <kap><ofc>*</ofc><tld/>aro <fnt><bib>F</bib>, <lok>Universala Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-4969">an'ar'</url></lok></fnt></kap>
     <snc>
       <dif>
         Grupo, societo:
@@ -221,8 +249,8 @@ ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-
           </fnt>;
         </ekz>
         <ekz>
-          &ccirc;iu vera religiulo, humanisto a&ubreve; framasono, 
-          kiu el la <tld/>aro de la parolantoj kaj revantoj transiras 
+          &ccirc;iu vera religiulo, humanisto a&ubreve; framasono,
+          kiu el la <tld/>aro de la parolantoj kaj revantoj transiras
           al la <tld/>aro de la efektivigantoj, fari&gcirc;as per tio
           <ctl>homar<tld/>o</ctl>
           <fnt>
@@ -258,12 +286,19 @@ ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-
           </trdgrp>
     <trdgrp lng="fr">
         <trd>groupe</trd>,
-        <trd>collectif</trd></trdgrp>
-    <trdgrp lng="io">
+        <trd>collectif</trd>
+    </trdgrp>
+    <trd lng="he">&qof;&bet;&vav;&tsadi;&he;</trd>
+  <trdgrp lng="io">
       <trd>grupo</trd>,
       <trd>societo</trd>
     </trdgrp>
-    <trdgrp lng="pl">
+    <trdgrp lng="ja">
+    <trd>&#x96C6;&#x56E3;  [<ind>&#x3057;&#x3085;&#x3046;&#x3060;&#x3093;</ind>]</trd>,
+    <trd>&#x30B5;&#x30FC;&#x30AF;&#x30EB;  [<ind>&#x3055;&#x30FC;&#x304F;&#x308B;</ind>]</trd>,
+    <trd>&#x4F1A;  [<ind>&#x304B;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
       <trd>ekipa</trd>,
       <trd>zesp&oacute;&lstroke;</trd>,
     </trdgrp>
@@ -272,13 +307,22 @@ ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-
       <trd>ansamblu</trd>,
     </trdgrp>
     <trd lng="sk">&ccaron;lenstvo</trd>
-  </drv>
+    <trdgrp lng="th">
+      <trd>&#xE01;&#xE25;&#xE38;&#xE48;&#xE21;</trd>,
+      <trd>&#xE2D;&#xE07;&#xE04;&#xE4C;&#xE01;&#xE23;</trd>
+    </trdgrp>
+    <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_u;&c_p;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_je;&c_k;&c_t;&c_i;&c_v;</trd>
+  </trdgrp>
+</drv>
 
-  <drv mrk="an.0igxi">
+<drv mrk="an.0igxi">
     <kap><tld/>i&gcirc;i</kap>
-    <snc>
+    <snc mrk="an.0igxi.POL">
       <dif>
-        Eniri en grupon:
+        <ref tip="super" cel="al.0igxi">Ali&gcirc;i</ref> al
+        grupo, societo, organiza&jcirc;o:
         <ekz>
           <tld/>i&gcirc;i al la kongreso;
         </ekz>
@@ -286,9 +330,8 @@ ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-
           Hari <tld/>i&gcirc;as en la teamo de Kvidit&ccirc;o.
           <fnt>
             <bib>Viki</bib>
-            <vrk><url
-            ref='https://eo.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone'>Hari
-            
+            <vrk><url ref="&Viki;/Harry_Potter_and_the_Philosopher%27s_Stone">Hari
+
             Poter kaj la &Scirc;tono de la Sa&gcirc;uloj</url></vrk>
           </fnt>;
         </ekz>
@@ -296,13 +339,11 @@ ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-
           Petro Baka <tld/>i&gcirc;as al loka grupo kiu apartenas al la landa
           Esperanto-asocio
           <fnt>
-            <vrk><url
-            ref='http://autodidactproject.org/my/mariaemba.html'>Maria
+            <vrk><url ref="http://autodidactproject.org/my/mariaemba.html">Maria
             kaj la grupo - autodidactproject.org</url></vrk>
           </fnt>.
         </ekz>
       </dif>
-      <ref tip="super" cel="al.0igxi">ali&gcirc;i</ref>
     </snc>
     <trd lng="be">&c_u;&c_s;&c_t;&c_u;&c_p;&c_ib;&c_c;&c_mol; <klr>(&c_u; &c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_u;, &c_p;&c_a;&c_r;&c_t;&c_y;&c_ju; &c_ib; &c_d;&c_a;
     &c_g;.&c_p;.)</klr></trd>
@@ -319,104 +360,49 @@ ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-
            <trd>adherirse</trd>,
            <trd>ir en grupo</trd>
         </trdgrp>
-        <trd lng="fr">adh&eacute;rer</trd>
-    <trdgrp lng="pl">
+  <trd lng="fr">adh&eacute;rer</trd>
+    <trd lng="he">&lamed;&he;&tsadi;&tet;&resh;&fpe;</trd>
+  <trd lng="ja">&#x5165;&#x4F1A;&#x3059;&#x308B;  [<ind>&#x306B;&#x3085;&#x3046;&#x304B;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  <trdgrp lng="pl">
       <trd>zrzesza&cacute; si&eogonek;</trd>,
       <trd>zg&lstroke;asza&cacute; si&eogonek;</trd>,
     </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_v;&c_s;&c_t;&c_u;&c_p;&c_i;&c_t;&c_mol; <klr>(&c_v; &c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;, &c_p;&c_a;&c_r;&c_t;&c_i;&c_ju;)</klr></trd>,
       <trd>&c_v;&c_l;&c_i;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_v; &c_k;&c_o;&c_l;&c_l;&c_je;&c_k;&c_t;&c_i;&c_v;)</klr></trd></trdgrp>
-      </drv>
-    </subart>
-  </art>
+        <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_i;&c_jeu;&c_d;&c_n;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_s;&c_t;&c_u;&c_p;&c_i;&c_t;&c_i; &c_v; &c_s;&c_p;&c_ib;&c_l;&c_k;&c_u;</trd>,
+    <trd>&c_o;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_c;&c_ib;&c_ju;</trd>,
+    <trd>&c_u;&c_v;&c_ib;&c_j;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_l;&c_i;&c_t;&c_i;&c_s;&c_ja; &c_v; &c_k;&c_o;&c_l;&c_je;&c_k;&c_t;&c_i;&c_v;</trd>
+  </trdgrp>
+</drv>
+</subart>
+</art>
   <!--
   $Log$
+versio 1.44 2023/06/25 22:29:40
+Jeromo Vasxe: + ~i
+
+versio 1.43 2023/04/07 15:27:07
+Paul Peeraerts: korekto de propra fush
+
+versio 1.42 2023/03/30 11:24:17
+Paul Peeraerts: &Monato;
+
+versio 1.41 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.40 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.38 2021/12/10 03:40:26
+Warut Bunprasert: +trd th
+
   Revision 1.35  2017/06/13 18:10:18  revo
   Vito Redsky: +trd pl +trd ro
 
   Revision 1.34  2016/12/20 11:10:13  revo
-  Wolfram Diestel: ekz-oj
-
-  Revision 1.33  2016/11/23 18:10:14  revo
-  Robin van der Vliet: +trd
-
-  Revision 1.32  2015/07/04 08:37:30  revo
-  aldono de trd cs per skripto de M. von Laer
-
-  Revision 1.31  2015/06/28 12:03:35  revo
-  aldono de trd sk per skripto de M. von Laer
-
-  Revision 1.30  2015/04/22 07:10:15  revo
-  Damien Brucker: +ref
-
-  Revision 1.29  2015/01/06 09:10:13  revo
-  Damien Brucker: +ekz
-
-  Revision 1.28  2014/02/05 10:10:15  revo
-  Damien Brucker: +kap
-
-  Revision 1.27  2014/02/04 11:10:15  revo
-  Damien Brucker: +ref
-
-  Revision 1.26  2013/12/16 15:10:12  revo
-  Damien Brucker: +trd fr
-
-  Revision 1.25  2013/11/10 20:10:11  revo
-  Damien Brucker: Aldono de -an/ por landnomoj
-
-  Revision 1.24  2013/10/31 16:10:12  revo
-  Wolfram Diestel: forigis / por subteni sercxilon, iom (re)plibonigis
-  la strukturon
-
-  Revision 1.23  2013/10/28 09:10:10  revo
-  Damien Brucker: dauxrigo: sxangxo por la sercxilo
-
-  Revision 1.22  2013/10/24 13:10:10  revo
-  Damien Brucker: sxangxo por la sercxilo
-
-  Revision 1.21  2013/07/16 08:10:16  revo
-  Marc Rausell: + trd ca
-
-  Revision 1.20  2012/03/01 10:10:09  revo
-  Glavkos Xaon: greka defino de la vorto
-
-  Revision 1.19  2010/08/22 16:30:23  revo
-  Agustin Garcia Lopez: +trd es
-
-  Revision 1.18  2004/03/09 17:32:04  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.17  2003/04/12 16:32:01  revo
-  Sergio Pokrovskij: pluaj ekz
-
-  Revision 1.16  2003/04/09 16:30:59  revo
-  Sergio Pokrovskij: pli da ekz
-
-  Revision 1.15  2003/04/08 16:32:56  revo
-  Sergio Pokrovskij: +rim2, ref
-
-  Revision 1.14  2003/03/05 17:37:17  revo
-  Ulrich Fellmann: + 1 trd = vo
-
-  Revision 1.13  2003/02/15 17:33:34  revo
-  Ulrich Fellmann: + 8 trd = de
-
-  Revision 1.12  2002/10/08 17:56:35  revo
-  Christopher Zervic: + ang
-
-  Revision 1.11  2002/09/07 17:40:42  revo
-  Viliam Bur: +sk trd
-
-  Revision 1.10  2001/10/26 18:14:37  revo
-  Sergio Pokrovskij: PIV-igis rim
-
-  Revision 1.9  2000/12/06 17:10:42  revo
-  Sergio Pokrovskij: tajperaro
-
-  Revision 1.8  2000/12/05 17:10:42  revo
-  Sergio Pokrovskij: reverkis dif, ekz; mrk, trd=ru
-
-  Revision 1.7  2000/09/17 16:15:05  revo
-  -->
+-->
 </vortaro>

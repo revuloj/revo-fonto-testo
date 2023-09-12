@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dias.xml,v 1.9 2009/08/20 16:31:05 revo Exp $">
+<art mrk="$Id: dias.xml,v 1.13 2023/08/31 10:44:00 revo Exp $">
 <kap>
   <rad>dias</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -18,8 +17,7 @@
         tavol&scirc;tupon proksime de <nom>Osterode-D&uuml;na</nom>, deklivas suden
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=507278"
-              >Rhume-fonto</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=507278">Rhume-fonto</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -33,6 +31,7 @@
      <trd>perm</trd>,
      <trd>di&aacute;sz</trd>
   </trdgrp>
+  <trd lng="ja">&#x4E8C;&#x7573;&#x7CFB;  [<ind>&#x3075;&#x305F;&#x3058;&#x3087;&#x3046;&#x3051;&#x3044;</ind>]</trd>
   <trd lng="nl">perm<klr tip="ind"> (tijdperk)</klr></trd>
   <trd lng="pt">terreno <ind>di&aacute;sico</ind></trd>
   <trdgrp lng="ru">
@@ -46,6 +45,9 @@
 
 <!--
 $Log$
+versio 1.12 2022/03/16 16:54:14
+Wolfram Diestel: kor. trd
+
 Revision 1.9  2009/08/20 16:31:05  revo
 Paul Peeraerts: +trd nl
 
@@ -63,6 +65,5 @@ Ulrich Fellmann: + 2 germ trdj
 
 Revision 1.4  2002/03/20 17:33:24  revo
 Yury Finkel: +trd ru
-
 -->
 </vortaro>

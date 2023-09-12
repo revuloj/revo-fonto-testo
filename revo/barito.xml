@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: barito.xml,v 1.16 2010/05/28 16:30:33 revo Exp $">
+<art mrk="$Id: barito.xml,v 1.24 2023/08/31 08:48:49 revo Exp $">
 <kap><ofc>1</ofc>
 <rad>bariton</rad>/o</kap>
 
@@ -11,22 +10,22 @@
   <uzo tip="fak">MUZ</uzo>
   <snc mrk="barito.0o.registro">
     <dif>
-      Vira <ref tip="super" cel="bas.0o.registro">baso</ref> 
+      Vira <ref tip="super" cel="bas.0o.registro">baso</ref>
       kaj <ref tip="vid" cel="tenor.0o.vocxo">tenoro</ref>:
       <ekz>
-        soprano, mezosoprano, aldo, tenoro, 
-        <tld/>o, baso estas 
+        soprano, mezosoprano, aldo, tenoro,
+        <tld/>o, baso estas
         la malsamaj registroj de kantistoj kaj kantistinoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=30970'>Vo&ccirc;o</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30970">Vo&ccirc;o</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        la <ctl>Rapsodie n&egrave;gre</ctl> por <tld/>o kaj &ccirc;ambra ensemblo
+        la &leftquot;<nom>Rapsodie n&egrave;gre</nom>&rightquot; por <tld/>o kaj &ccirc;ambra ensemblo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=16885'>Francis Poulenc</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=16885">Francis Poulenc</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -42,7 +41,7 @@
         rumanuja hungara operkantisto, <tld/>o naski&gcirc;inta la 16-an de majo en 1978
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=63406'>&Aacute;rp&aacute;d S&aacute;ndor</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=63406">&Aacute;rp&aacute;d S&aacute;ndor</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -54,13 +53,19 @@
   <trd lng="de">Bariton</trd>
   <trd lng="en">baritone</trd>
   <trd lng="es">bar&iacute;tono</trd>
+  <trd lng="he">&bet;&#x5BC;&#x5B8;&resh;&#x5B4;&yod;&tet;&vav;&#x5B9;&fnun;</trd>
   <trd lng="hu">bariton&eacute;nekes</trd>
   <trd lng="it">baritono</trd>
+  <trd lng="ja">&#x30D0;&#x30EA;&#x30C8;&#x30F3;</trd>
   <trd lng="nl">bariton</trd>
   <trd lng="ru">&c_b;&c_a;&c_r;&c_i;&c_t;&c_o;&c_n;</trd>
   <trdgrp lng="sk">
     <trd>barit&oacute;n</trd>,
     <trd>baryt&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_a;&c_r;&c_i;&c_t;&c_o;&c_n; (&c_g;&c_o;&c_l;&c_o;&c_s;</trd>,
+    <trd>&c_d;&c_u;&c_h;&c_o;&c_v;&c_i;&c_j; &c_ib;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;)</trd>
   </trdgrp>
 </drv>
 
@@ -71,17 +76,17 @@
     <dif>
       Kantisto kun tia vo&ccirc;o:
       <ekz>
-        dum sia libera tempo Oller trovis laboron kiel <tld/>ulo en lokaj italaj operoj
+        dum sia libera tempo <nom>Oller</nom> trovis laboron kiel <tld/>ulo en lokaj italaj operoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=138604'>Francisco Oller</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=138604">Francisco Oller</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        dedi&ccirc;ita al Giuseppe Valdengo, <tld/>ulo elektita de Toscanini
+        dedi&ccirc;ita al <nom>Giuseppe Valdengo</nom>, <tld/>ulo elektita de <nom>Toscanini</nom>
         <fnt>
           <aut>Emilio Spedicato</aut>
-          <vrk><url ref='http://www00.unibg.it/dati/persone/636/2237.pdf'>Oma&gcirc;e al du gloroj de la itala muziko: 
+          <vrk><url ref="http://www00.unibg.it/dati/persone/636/2237.pdf">Oma&gcirc;e al du gloroj de la itala muziko:
             Arturo Toscanini kaj Magda Olivero </url></vrk>
         </fnt>.
       </ekz>
@@ -98,11 +103,16 @@
     <trd lng="ru">&c_b;&c_a;&c_r;&c_i;&c_t;&c_o;&c_n;</trd>
   </snc>
   <trd lng="cs">barytonista</trd>
+  <trd lng="ja">&#x30D0;&#x30EA;&#x30C8;&#x30F3;</trd>
   <trd lng="sk">barytonista</trd>
+  <trd lng="uk">&c_b;&c_a;&c_r;&c_i;&c_t;&c_o;&c_n;&nbsp;(&c_s;&c_p;&c_ib;&c_v;&c_a;&c_k;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/08/16 15:23:59
+Wolfram Diestel: sintakso
+
 Revision 1.19  2016/11/21 11:10:25  revo
 Damien Brucker: -eraro cxe snc en mrk
 

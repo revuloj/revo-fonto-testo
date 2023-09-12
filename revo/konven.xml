@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: konven.xml,v 1.13 2006/11/18 17:30:29 revo Exp $">
+<art mrk="$Id: konven.xml,v 1.102 2023/09/01 15:46:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konven</rad>/i <fnt><bib>PV</bib></fnt>
@@ -23,21 +22,27 @@
         </ekz>
         <ekz>
           tiu respondo ne <tld/>as
-          <klr>(ne estas trafa. <ref tip="vid"
-          cel="sxnur.0o">&scirc;nuro</ref>)</klr>;
+          <klr>(ne estas trafa. <ref tip="vid" cel="sxnur.0o">&scirc;nuro</ref>)</klr>;
         </ekz>
         <ekz>
-          &ccirc;u tiu &scirc;topilo <tld/>as al la botelo?;
+          &ccirc;u tiu &scirc;topilo <tld/>as al la botelo?
         </ekz>
         <ekz>
           tiu apartamento ne povas <tld/>i por vi;
         </ekz>
         <ekz>
-          la &ccirc;emizo estis multkolora, kiel <tld/>as por
-          la matena tualeto<fnt>B</fnt>;
+          la &ccirc;emizo ne estis blanka, sed multkolora, kiel <tld/>as por la matena tualeto
+          <fnt>
+            <bib>PatrojFiloj</bib>
+            <lok>V</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          tia vido <tld/>us nur al kampo de milito<fnt>Z</fnt>;
+          tia vido <tld/>us nur al kampo de milito
+          <fnt>
+            <bib>Hamlet</bib>
+            <lok>Hamleto</lok>
+          </fnt>;
         </ekz>
         <ekz>
           la verda koloro <tld/>as bone al la blondulinoj.
@@ -53,7 +58,7 @@
       </dif>
       <refgrp tip="vid">
         <ref cel="kongru.0i">kongrui</ref>,
-        <ref cel="tauxg.0i">ta&ubreve;gi</ref>.
+        <ref cel="tauxg.0i">ta&ubreve;gi</ref>
       </refgrp>
       <trdgrp lng="de">
         <trd>passen</trd>
@@ -67,23 +72,35 @@
       <dif>
         Bone adapti&gcirc;i al ies sentoj, karaktero a&ubreve; socia stato:
         <ekz>
-          al mia kor' <tld/>as nun funebri<fnt>Z</fnt>;
+          al malsa&gcirc;ulo ne <tld/>as alta parolado
+          <fnt>
+            <bib>MT</bib>
+            <lok>Sentencoj 17:7</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          la rubandoj <tld/>as al la junularo, kaj la varmaj peltoj al
-          la
-          maljunuloj<fnt>Z</fnt>;
+          al nia kor&#x2019; <tld/>us nun funebri
+          <fnt>
+            <bib>Hamlet</bib>
+            <lok>Hamleto</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          Kaj la rubandoj al la junularo &parsl; <tld lit="K"/>as en ne malpli alta grado, &parsl; Ol
+          la manteloj kaj la varmaj peltoj &parsl; Konvenas al maturaj maljunuloj
+          <fnt>
+            <bib>Hamlet</bib>
+            <lok>Hamleto</lok>
+          </fnt>;
         </ekz>
         <ekz>
           kio <tld/>as al sciuro ne <tld/>as al
-          vulturo<fnt><bib>PrV</bib></fnt>;</ekz>
-        <ekz>
-          al malsa&gcirc;ulo ne <tld/>as alta parolado<fnt>Z</fnt>.
+          vulturo<fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
       <trdgrp lng="de">
-        <trd>passen</trd>,
-        <trd>angemessen sein</trd>
+        <trd>taugen</trd>,
+        <trd><ind>brauchbar</ind> sein</trd>
       </trdgrp>
       <trdgrp lng="fr">
           <trd>convenir</trd>,
@@ -106,20 +123,27 @@
         <ref tip="sin" cel="dec.0i.konveni">deci<sncref/></ref>:
         <ekz>
           ne <tld/>as resti side, dum maljunula virino ne trovas lokon
-          por
-          sidi&gcirc;i;
+          por sidi&gcirc;i;
         </ekz>
         <ekz>
-          oni akceptis lin kun la respekto, kiu <tld/>as por
-          ambasadoro<fnt>B</fnt>;
+          mi ordonas <klr>[&#x2026;]</klr> akcepti la noblan Sargonon kun respekto, kiu <tld/>as
+          por la ambasadoro
+          <fnt>
+            <bib>Far2</bib>
+            <lok>&Ccirc;apitro X</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          li tuj ekregis sin, kiel <tld/>as al re&gcirc;a filo<fnt>B</fnt>.
+          kiel <tld/>as al re&gcirc;a filo, li tuj ekregis sin
+          <fnt>
+            <bib>Far2</bib>
+            <lok>&Ccirc;apitro XII</lok>
+          </fnt>.
         </ekz>
       </dif>
       <trdgrp lng="de">
-        <trd>sich <ind>ziemen</ind></trd>,
-        <trd>angebracht sein</trd>
+        <trd>stehen</trd>,
+        <trd>harmonieren</trd>
       </trdgrp>
       <trd lng="fr">convenir</trd>
       <trdgrp lng="hu">
@@ -132,7 +156,15 @@
         <trd>&c_p;&c_r;&c_i;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
     </subsnc>
+    <refgrp tip="vid">
+      <ref cel="akord.0i.konveni">akordi<sncref/></ref>,
+      <ref cel="konfor.0i">konformi</ref>
+    </refgrp>
   </snc>
+  <trd lng="af">pas</trd>
+  <trd lng="am">&#x1270;&#x1235;&#x121B;&#x121A;</trd>
+  <trd lng="ar">&a_t;&a_n;&a_A;&a_s;&a_b;</trd>
+  <trd lng="az">uy&gbreve;un</trd>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d;&c_y;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -143,9 +175,53 @@
     <trd>&c_p;&c_o;&c_d;&c_h;&c_o;&c_zh;&c_d;&c_a;&c_m;</trd>,
     <trd>&c_p;&c_a;&c_s;&c_v;&c_a;&c_m;</trd>
   </trdgrp>
+  <trd lng="bn">&#x9AE;&#x9BE;&#x9AA;&#x9B8;&#x987;</trd>
+  <trd lng="bs">odgovarati</trd>
+  <trd lng="co">j&igrave;ssi</trd>
+  <trd lng="cy">ffitio</trd>
+  <trd lng="da">passe</trd>
   <trd lng="en">suit</trd>
   <trd lng="es">ser conveniente</trd>
+  <trd lng="et">sobi</trd>
+  <trd lng="eu">kabitzen</trd>
+  <trd lng="fy">passe</trd>
+  <trd lng="ga">oiri&uacute;nach</trd>
+  <trd lng="gd">a &#x2018;freagairt</trd>
+  <trd lng="gl">caber</trd>
+  <trd lng="gu">&#xAAB;&#xABF;&#xA9F;</trd>
+  <trd lng="ha">shige</trd>
+  <trd lng="hi">&#x92B;&#x93F;&#x91F;</trd>
+  <trd lng="hmn">haum</trd>
+  <trd lng="hr">pristajati</trd>
+  <trd lng="ht">anf&ograve;m</trd>
+  <trd lng="hy">&#x57F;&#x565;&#x572;&#x561;&#x57E;&#x578;&#x580;&#x565;&#x56C;</trd>
+  <trd lng="ig">kwek&#x1ECD;r&#x1ECD;</trd>
+  <trd lng="is">passa</trd>
+  <trd lng="ja">&#x30D5;&#x30A3;&#x30C3;&#x30C8;</trd>
+  <trd lng="jv">pas</trd>
+  <trd lng="ka">&#x10EF;&#x10D3;&#x10D4;&#x10D1;&#x10D0;</trd>
+  <trd lng="km">&#x179F;&#x1798;</trd>
+  <trd lng="kn">&#xCB8;&#xCB0;&#xCBF;&#xCB9;&#xCCA;&#xC82;&#xCA6;&#xCA6;</trd>
+  <trd lng="ko">&#xC801;&#xD569;</trd>
+  <trd lng="ku">bihor&icirc;n</trd>
+  <trd lng="ky">&c_t;&c_u;&c_u;&c_r;&c_a;</trd>
+  <trd lng="lat">apta</trd>
+  <trd lng="lo">&#xEC0;&#xEAB;&#xEA1;&#xEB2;&#xEB0;</trd>
+  <trd lng="lt">tinka</trd>
+  <trd lng="lv">piem&emacron;rots</trd>
+  <trd lng="mg">antonona</trd>
+  <trd lng="mi">uru</trd>
+  <trd lng="mk">&c_o;&c_d;&c_g;&c_o;&c_v;&c_a;&c_r;&c_a;</trd>
+  <trd lng="ml">&#xD2F;&#xD4B;&#xD1C;&#xD2E;&#xD3E;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_t;&c_a;&c_a;&c_r;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x92B;&#x93F;&#x91F;</trd>
+  <trd lng="ms">muat</trd>
+  <trd lng="mt">tajbin</trd>
+  <trd lng="my">&#x1019;&#x1011;&#x102D;&#x102F;&#x1000;&#x103A;&#x1019;&#x1010;&#x1014;&#x103A;</trd>
+  <trd lng="ne">&#x938;&#x942;&#x91F;</trd>
   <trd lng="nl">passen</trd>
+  <trd lng="ny">agwirizane</trd>
+  <trd lng="pa">&#xA2B;&#xA3F;&#xA71;&#xA1F;</trd>
   <trdgrp lng="pl">
     <trd>odpowiednim by&cacute;</trd>,
     <trd>licowa&cacute;</trd>,
@@ -153,6 +229,7 @@
     <trd>godzi&cacute; si&eogonek;</trd>,
     <trd>nadawa&cacute; si&eogonek;</trd>
   </trdgrp>   
+  <trd lng="ps">&a_s;&a_r;&a_h; &a_b;&a_r;&a_A;&a_b;&a_r;</trd>
   <trdgrp lng="pt">
     <trd>convir</trd>,
     <trd>ser <ind>conveniente</ind></trd>,    
@@ -164,6 +241,29 @@
     <trd>s&abreve; fie &icirc;n armonie</trd>,
     <trd>potrivi</trd>
   </trdgrp> 
+  <trd lng="rw">bikwiye</trd>
+  <trd lng="sd">&a_m;&a_n;&a_A;&a_s;&a_b;</trd>
+  <trd lng="si">&#xDC3;&#xDD4;&#xDAF;&#xDD4;&#xDC3;&#xDD4;</trd>
+  <trd lng="sm">fa&#x2BB;afetaui</trd>
+  <trd lng="sn">fita</trd>
+  <trd lng="so">ku haboon</trd>
+  <trd lng="sq">p&euml;rshtaten</trd>
+  <trd lng="st">lumellane</trd>
+  <trd lng="su">ngepas</trd>
+  <trd lng="ta">&#xBAA;&#xBCA;&#xBB0;&#xBC1;&#xBA8;&#xBCD;&#xBA4;&#xBC1;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC38;&#xC30;&#xC3F;&#xC2A;&#xC4B;&#xC2F;&#xC47;</trd>
+  <trd lng="tg">&c_m;&c_u;&c_n;&c_o;&c_s;&c_i;&c_b;</trd>
+  <trd lng="th">&#xE1E;&#xE2D;&#xE14;&#xE35;</trd>
+  <trd lng="tl">umangkop</trd>
+  <trd lng="tt">&c_t;&c_u;&c_r;&c_y; &c_k;&c_i;&c_l;&#x4D9;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_p;&c_o;&c_v;&c_ib;&c_d;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_f;&#x679;</trd>
+  <trd lng="uz">mos</trd>
+  <trd lng="vi">ph&ugrave; h&#x1EE3;p v&#x1EDB;i</trd>
+  <trd lng="xh">ilingane</trd>
+  <trd lng="yi">&tsadi;&vav;&pe;&#x5BC;&alef;&#x5B7;&samekh;&fnun;</trd>
+  <trd lng="yo">dada</trd>
+  <trd lng="zu">linganisa</trd>
 </drv>
 
 <drv mrk="konven.0a">
@@ -182,11 +282,19 @@
           ser&ccirc;i en la vagonaro <tld/>an kupeon;
         </ekz>
         <ekz>
-          trovi <tld/>an por si okupon<fnt>B</fnt>;
+          niaj soldatoj trovos <tld/>an por si okupon
+          <fnt>
+            <bib>Far2</bib>
+            <lok>&Ccirc;apitro XVIII</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          por funebro tiuj ru&gcirc;aj &scirc;uoj certe
-          estis ne tre <tld/>aj<fnt>Z</fnt>;
+          por funebro <klr>[tiuj ru&gcirc;aj &scirc;uoj]</klr> certe
+          estis ne tre <tld/>aj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ru&gcirc;aj &scirc;uoj</lok>
+        </fnt>;
         </ekz>
         <ekz>
           <tld/>a tempo por efektivigi ion;
@@ -218,10 +326,18 @@
       <dif>
         <tld lit="K"/>anta al sentoj, al socia kondi&ccirc;aro:
         <ekz>
-          por via a&gcirc;o la pajlokolora vesto ne estas <tld/>a<fnt>Z</fnt>;
+          ha, panjo, por vi pajlokolora <klr>[vesto]</klr> ne estas al<tld/>a
+          <fnt>
+            <bib>Revizoro</bib>
+            <lok>Akto tria</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          ni rekompencos vin per  plej <tld/>a rekompenco<fnt>Z</fnt>.
+          Ni rekompencos la viziton vian &parsl; Per plej <tld/>a re&gcirc;a rekompenco
+          <fnt>
+            <bib>Hamlet</bib>
+            <lok>Hamleto</lok>
+          </fnt>.
         </ekz>
       </dif>
       <trdgrp lng="fr">
@@ -237,17 +353,28 @@
     </subsnc>
     <subsnc mrk="konven.0a.MOR">
       <dif>
-        <tld lit="K"/>anta al moroj, deca:
+        <tld lit="K"/>anta al moroj, <ref cel="dec.0a">deca</ref>:
         <ekz>
-          &ccirc;ar li estis en uniformo li opiniis ne<tld/>a la&ubreve;te
-          krii<fnt>Z</fnt>;
+          &ccirc;ar li estis en uniformo, li opiniis ne<tld/>a tiel la&ubreve;te krii
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>Persista stana soldato</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          ili metis la piedojn sur la tablo, &ccirc;ar ili
-          opiniis, ke &ccirc;io estas <tld/>a por ili<fnt>Z</fnt>;
+          <klr>[ili]</klr> metis la piedojn sur la tablo, &ccirc;ar ili
+          opiniis, ke &ccirc;io estas <tld/>a por ili
+          <fnt>
+            <bib>Fab2</bib>
+            <lok>Monteto de elfoj</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          severa moralisto trovos mian sinceron ne<tld/>a<fnt>B</fnt>;
+          severa moralisto trovos mian sinceron ne<tld/>a
+          <fnt>
+            <bib>PatrojFiloj</bib>
+            <lok>III</lok>
+          </fnt>;
         </ekz>
         <ekz>
           tiujn scenojn li ne konsideris <tld/>aj por la okuloj de
@@ -266,6 +393,12 @@
         <trd>illend&odblac;</trd>
       </trdgrp>
     </subsnc>
+    <refgrp tip="vid">
+      <ref cel="akord.0a.konveneco">akorda<sncref/></ref>,
+      <ref cel="konfor.0a.obea">konforma<sncref/></ref>,
+      <ref cel="konven1.0a">konvencia</ref>,
+      <ref cel="kutim.0a">kutima</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_d;&c_a;&c_t;&c_n;&c_y;</trd>,
@@ -273,8 +406,15 @@
     <trd>&c_n;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="bg">&c_p;&c_o;&c_d;&c_h;&c_o;&c_d;&c_ja;&c_shch;</trd>
+  <trd lng="bo">&t_sa;&t_tata;&t_ba;&t_sa;&t_tsheg;&t_ba;&t_da;&t_drengbu;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
   <trd lng="de">passend</trd>
   <trd lng="es">conveniente</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9069;&#x5207;&#x306A;  [<ind>&#x3066;&#x304D;&#x305B;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x3075;&#x3055;&#x308F;&#x3057;&#x3044;</trd>,
+    <trd>&#x5411;&#x3044;&#x3066;&#x3044;&#x308B;  [<ind>&#x3080;&#x3044;&#x3066;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x793C;&#x5100;&#x306B;&#x304B;&#x306A;&#x3063;&#x305F;  [<ind>&#x308C;&#x3044;&#x304E;&#x306B;&#x304B;&#x306A;&#x3063;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">passend</trd>
   <trdgrp lng="pl">
     <trd>adekwatny</trd>,
@@ -304,17 +444,61 @@
   <kap><tld/>e</kap>
   <snc mrk="konven.0e.KOMUNE">
     <dif>
-      &Gcirc;uste, ekzakte, proporcie, trafe, oportune:
+      <ref cel="gxust.0e.precize">&Gcirc;uste</ref>, ekzakte, 
+      proporcie, trafe, <ref cel="oportu.0e">oportune</ref>:
       <ekz>
-        <tld/>e plenumi sian taskon;
+        nejuna elfknabino <klr>[&#x2026;]</klr> krom la nuda dorso estis tre <tld/>e vestita
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Monteto de elfoj</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>e &scirc;ati iun.
+        <tld/>e honoru lin, kiel amikon
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        venu al la kontoro iun tagon, &dash; kiam estos <tld/>e? &dash; miaparte tuj
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Sia propra mastro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi povos pagi kiam estos <tld/>e al vi, kaj pri rento vi ne pensu
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Kuni&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas en efektiveco ne <tld/>e tion rakonti
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Estas tute certe</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Beatrico <tld/>e edzini&gcirc;is
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Unua</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_a;</trd>,
+    <trd>&c_d;&c_a;&c_r;&c_e;&c_ch;&c_n;&c_a;</trd>,
+    <trd>&c_s;&c_l;&c_u;&c_sh;&c_n;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="de">
-    <trd>passend</trd>
+    <trd>angemessen</trd>,
+    <trd>passend</trd>,
+    <trd>geb&uuml;hrend</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>convenablement</trd>,
@@ -328,6 +512,11 @@
     <trd>illend&odblac;en</trd>
   </trdgrp>
   <trd lng="es">convenientemente</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3075;&#x3055;&#x308F;&#x3057;&#x304F;</trd>,
+    <trd>&#x9069;&#x5207;&#x306B;  [<ind>&#x3066;&#x304D;&#x305B;&#x3064;&#x306B;</ind>]</trd>,
+    <trd>&#x884C;&#x5100;&#x6B63;&#x3057;&#x304F;  [<ind>&#x304E;&#x3087;&#x3046;&#x304E;&#x307E;&#x3055;&#x3057;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">toepasselijk</trd>
   <trdgrp lng="pl">
     <trd>odpowiednio</trd>,
@@ -359,10 +548,30 @@
           <aut>J. Francis</aut>,
           <vrk>La Granda Kaldrono</vrk>,
           <lok>1978</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun viza&gcirc;o plena je gajeco kaj espero tute <tld/>e al la bela mateno
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        retrorigardu la militon por pli bona futura kunlaboro <klr>[&#x2026;]</klr>, <tld/>e al
+        la &gcirc;enerala temo de la kongreso, &leftquot;Kunlaboro por Paco, Stabileco kaj Disvolvo&rightquot;
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 4 (54)</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_u; <ind>&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind> &c_z;</trd>
+  <trdgrp lng="de">
+    <trd>entsprechend</trd>,
+    <trd>dem ... <ind>angemessen</ind></trd>
+  </trdgrp>
   <trd lng="fr">en accord avec</trd>
   <trd lng="pl">prawid&lstroke;owo</trd>     
   <trd lng="ro">&icirc;n mod corect</trd>
@@ -393,12 +602,43 @@
   </snc>
   <snc>
     <dif>
-      Dececo:
+      <ref tip="dif" cel="dec.0o">Dececo</ref>:
       <ekz>
-        la reguloj de <tld/>eco<fnt>B</fnt>;
+        la reguloj de la <tld/>eco estis plenumitaj
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        nur por <tld/>eco li rigardis la desegna&jcirc;ojn<fnt>B</fnt>.
+        vi transpa&scirc;as la limojn de <tld/>eco
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro sento de alta <tld/>eco, la markizino ne volis, ke la gejunuloj
+        <klr>[&#x2026;]</klr> estu devigataj toleri la malagrabla&jcirc;ojn de sen&ccirc;esaj renkontoj
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via onklino ne &ccirc;eestas plu por permesi miajn vizitojn, la <tld/>eco min devigas
+        eliri
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur por <tld/>eco vi rigardas la desegna&jcirc;ojn
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XVI</lok>
+        </fnt>.
       </ekz>
     </dif>
     <rim>
@@ -408,6 +648,11 @@
       estas &ccirc;iam precize observata.
     </rim>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_r;&c_e;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_l;&c_u;&c_sh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_o;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="es">conveniencia</trd>
   <trdgrp lng="fr">
     <trd>biens&eacute;ance</trd>,
@@ -415,13 +660,62 @@
     <trd>savoir-vivre</trd>
   </trdgrp>
   <trd lng="hu">illend&odblac;s&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9069;&#x5207;&#x3055;  [<ind>&#x3066;&#x304D;&#x305B;&#x3064;&#x3055;</ind>]</trd>,
+    <trd>&#x9069;&#x6027;  [<ind>&#x3066;&#x304D;&#x305B;&#x3044;</ind>]</trd>,
+    <trd>&#x793C;&#x5100;&#x6B63;&#x3057;&#x3055;  [<ind>&#x308C;&#x3044;&#x304E;&#x305F;&#x3060;&#x3057;&#x3055;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>przyzwoito&sacute;&cacute;</trd>,
     <trd>nale&zdot;yto&sacute;&cacute;</trd>
   </trdgrp>
-  <trd lng="ro">decen&tcedil;&abreve;</trd>
+  <trd lng="ro">decen&#x21B;&abreve;</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_l;&c_i;&c_ch;&c_i;&c_je;</trd>
 </drv>
+
+<drv mrk="konven.0igi">
+  <kap>
+    <tld/>igi
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="konfor.0igi">Alkonformigi</ref> tiel, ke &gcirc;i estas <tld/>a:
+      <ekz>
+        defia tradukotasko &ndash; lerte plenumita, kune kun adaptetoj por <tld/>igi la verkon
+        por esperantista publiko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan MacGill</aut>
+          <vrk><url ref="https://www.monato.be/2010/010086.php">Perversa pedagogio - drameca didaktiko</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne povis kompreni kiamaniere simpla formulo civila kaj religia povas
+        <tld/>igi kaj e&ccirc; moraligi agon tiel tedegigan
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Sepa</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="adapt.0i">adapti</ref>,
+      <ref cel="akomod.0i">akomodi</ref>,
+      <ref cel="gxust.al0igi">al&gcirc;ustigi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">anpassen</trd>
+  <trd lng="en">adapt</trd>
+</drv>
+
+
+
+
+
+
+
+
 
 <drv mrk="konven.mal0a">
   <kap>mal<tld/>a</kap>
@@ -439,10 +733,33 @@
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="ekstra1.0a">ekstravaganca</ref>,
+      <ref cel="dec.mal0a">maldeca</ref>,
+      <ref cel="oportu.mal0a">maloportuna</ref>,
+      <ref cel="skuril.0a">skurila</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_y;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_w;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_sa;&t_tata;&t_ba;&t_sa;&t_tsheg;&t_ba;&t_da;&t_drengbu;&t_tsheg;&t_pa;&t_naro;&t_tsheg;&t_ma;&t_gigu;&t_da;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trdgrp lng="de">
+    <trd>unziemlich</trd>,
+    <trd>unangebracht</trd>,
+    <trd>daneben <klr>(benehmen)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>inappropri&eacute;</trd>,
     <trd>impropre</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x9069;&#x5F53;&#x306A;  [<ind>&#x3075;&#x3066;&#x304D;&#x3068;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x5834;&#x9055;&#x3044;&#x306A;  [<ind>&#x3070;&#x3061;&#x304C;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x4E0D;&#x4F3C;&#x5408;&#x3044;&#x306A;  [<ind>&#x3075;&#x306B;&#x3042;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x4E0D;&#x4F5C;&#x6CD5;&#x306A;  [<ind>&#x3076;&#x3055;&#x307B;&#x3046;&#x306A;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>nieodpowiedni</trd>,
@@ -461,47 +778,65 @@
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="konven.mal0i.KOMUNE">
     <dif>
-      Ne akordi kun cirkonstancoj, reguloj, deco:
+      Ne <ref tip="ant" cel="akord.0i.konveni">akordi</ref> kun cirkonstancoj, reguloj, deco:
       <ekz>
-        la parolo de Kyuma Fumio mal<tld/>as al lia rolo
+        la parolo de <nom>Kyuma Fumio</nom> mal<tld/>as al lia rolo
         kiel nacidefenda ministro
         <fnt>
           <aut>&Ccirc;ina Radio Internacia</aut>,
-          <vrk><url
-          ref="http://esperanto.cri.cn/161/2007/07/06/1@65160.htm">
+          <vrk><url ref="&CRI;161/2007/07/06/1@65160.htm">
           Abdiko de nacidefenda ministro embarasis japanan
           kabineton</url></vrk>,
           <lok>2007-07-06</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne mal<tld/>as scii, &ccirc;u li apogas serbojn, &ccirc;u kroatojn, por ke la&ubreve;eble mi
+        subtenu la antagonajn kaj tiel pu&scirc;u lin en sakstraton
+        <fnt>
+          <bib>MMa</bib>
+          <lok>&Ccirc;apitro 6</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je; &c_p;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_je; &c_a;&c_d;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sich nicht <ind>ziemen</ind></trd>,
+    <trd><ind>unangemessen</ind> sein</trd>
+  </trdgrp>
   <trd lng="fr">&ecirc;tre <ind>inappropri&eacute;</ind></trd>
   <trd lng="pl">nie pasowa&cacute;</trd>     
-  <trd lng="ro">nu se potrive&#537;te</trd>
+  <trd lng="ro">nu se potrive&#x219;te</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.101 2023/05/30 20:24:03
+Wolfram Diestel: +~igi
+
+versio 1.100 2022/11/13 23:33:38
+Ulrich Fellmann: konveni 1-3: korekto de DE trdj
+
+versio 1.99 2022/10/19 07:57:12
+Damien Brucker: -eraro cxe cel en ref
+
+versio 1.98 2022/10/18 06:23:30
+Wolfram Diestel: ~e, ~eco, mal~i: +ekz-oj, ref, trd de
+
+versio 1.97 2022/10/17 20:37:25
+Wolfram Diestel: +fnt-oj, ref, trd de
+
+versio 1.96 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.95 2021/11/25 08:35:30
+Dmitri Gabinski: + trd be
+
 Revision 1.19  2017/09/04 16:10:17  revo
-Jeromo Vasxe: + ~e al
-
-Revision 1.18  2017/02/15 15:10:24  revo
-Jeromo Vasxe: apartemento -> apartamento
-
-Revision 1.17  2015/09/01 22:10:14  revo
-Jeromo Vasxe: + mal~a/i
-
-Revision 1.16  2012/06/07 13:10:16  revo
-Joop Eggen: +trd bg
-
-Revision 1.15  2012/06/07 00:10:16  revo
-Joop Eggen: +trd nl, +trd bg
-
-Revision 1.14  2011/04/22 10:10:08  revo
-Mireille Corobu: trd fr
-
-Revision 1.13  2006/11/18 17:30:29  revo
 -->
 </vortaro>

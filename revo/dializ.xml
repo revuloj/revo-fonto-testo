@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dializ.xml,v 1.14 2009/06/10 16:30:29 revo Exp $">
+<art mrk="$Id: dializ.xml,v 1.25 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <rad>dializ</rad>/i
 </kap>
@@ -15,12 +14,15 @@
       Apartigi substancojn, uzante la diferencon de ilia penetra
       rapideco tra membrano.
     </dif>
+    <refgrp tip="vid">
+      <ref cel="rafin.0i.KEM">rafini<sncref/></ref>
+    </refgrp>
     <trd lng="pl">dializowa&cacute;</trd>
   </snc>
   <snc>
     <uzo tip="fak">MED</uzo>
     <dif>
-      Elfiltri urinon el la sango per <tld/>a metodo, tiel
+      El<ref tip="super" cel="filtr.0i">filtri</ref> urinon el la sango per <tld/>a metodo, tiel
       anstata&ubreve;igante la funkcion de malsana reno.
     </dif>
     <trd lng="pl">dializowa&cacute;</trd>
@@ -32,6 +34,7 @@
   <trd lng="es">dializar</trd>
   <trd lng="fr">dialyser</trd>
   <trd lng="hu">dializ&aacute;l</trd>
+  <trd lng="ja">&#x900F;&#x6790;&#x3059;&#x308B;  [<ind>&#x3068;&#x3046;&#x305B;&#x304D;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="pt">dialisar</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;
@@ -40,14 +43,24 @@
     <ind>&c_d;&c_i;&c_a;&c_l;&c_i;&c_z;&c_u;</ind></trd>
   </trdgrp>
   <trd lng="sk">robi&tcaron; dial&yacute;zu</trd>
+  <trd lng="uk">&c_d;&c_ib;&c_a;&c_l;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="dializ.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">KEM</uzo>
+  <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Ago <tld/>i.
+      Ago <tld/>i:
+      <ekz>
+        nur senprokrasta sango<tld/>o povas savi multajn malsanulojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2011/010451.php">E&ubreve;ropo en la fajro de la epidemio</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_ja;&c_l;&c_ib;&c_z;</trd>
@@ -60,10 +73,13 @@
   <trd lng="en">dialysis</trd>
   <trd lng="es">di&aacute;lisis</trd>
   <trd lng="fr">dialyse</trd>
+  <trd lng="he">&dalet;&yod;&alef;&lamed;&yod;&zayin;&he;</trd>
   <trd lng="hu">dial&iacute;zis</trd>
+  <trd lng="ja">&#x900F;&#x6790;  [<ind>&#x3068;&#x3046;&#x305B;&#x304D;</ind>]</trd>
   <trd lng="pl">dializa</trd>
   <trd lng="ru">&c_d;&c_i;&c_a;&c_l;&c_i;&c_z;</trd>
   <trd lng="sk">dial&yacute;za</trd>
+  <trd lng="uk">&c_d;&c_ib;&c_a;&c_l;&c_ib;&c_z;</trd>
 </drv>
 
 <drv mrk="dializ.0ilo">
@@ -73,21 +89,13 @@
       <ref tip="dif" cel="aparat.0o.TEK">Aparato</ref>
       por <tld/>i:
       <ekz>
-        nur senprokrasta sango<tld/>o povas savi multajn malsanulojn
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Vladimir Lemelev</aut>
-          <vrk><url ref="&Monato;/2011/010451.php"
-              >E&ubreve;ropo en la fajro de la epidemio</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
         aparte estos helpataj infanoj kun reno-problemoj: por ili oni a&ccirc;etos hejmajn
         <tld/>ilojn
         <fnt>
+       <aut>Zofia BANET-FORNALOWA/pg</aut>
+          <vrk><url ref="&Monato;/2000/006882.php">Kiam orkestro fari&gcirc;as orkesto</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006882.html"
-              >Pollando: Kiam orkestro fari&gcirc;as orkesto</url></vrk>
+          <lok>2000/05, p. 12</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -100,10 +108,12 @@
   <trd lng="de">Dialyseapparat</trd>
   <trd lng="en">dialyser</trd>
   <trd lng="fr">dialyseur</trd>
+  <trd lng="he">&mem;&kaf;&shin;&yod;&resh; &dalet;&yod;&alef;&lamed;&yod;&zayin;&he;</trd>
   <trdgrp lng="hu">
     <trd>dializ&aacute;tor</trd>,
     <trd>m&udblac;vese</trd>
   </trdgrp>
+  <trd lng="ja">&#x900F;&#x6790;&#x5668;  [<ind>&#x3068;&#x3046;&#x305B;&#x304D;&#x304D;</ind>]</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_i;&c_a;&c_l;&c_i;&c_z;&c_a;&c_t;&c_o;&c_r;</trd>,
     <trd>&c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;
@@ -111,10 +121,20 @@
     <ind>&c_p;&c_o;&c_ch;&c_k;&c_a;</ind>"</trd>
   </trdgrp>
   <trd lng="sk">dialyz&aacute;tor</trd>
+  <trd lng="uk">&c_d;&c_ib;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_t;&c_o;&c_r;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/04/25 14:28:36
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.23 2023/01/30 06:31:53
+Wolfram Diestel: &scirc;ovita ekz, +ref
+
+versio 1.22 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.18  2019/02/16 17:10:20  revo
 Wolfram Diestel: +ekz-oj
 
@@ -128,14 +148,5 @@ Revision 1.15  2011/04/01 12:10:09  revo
 Russ Williams: +trd en
 
 Revision 1.14  2009/06/10 16:30:29  revo
-Wieland Pusch: +trd bg
-
-Revision 1.13  2009/06/09 16:31:27  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.12  2007/07/24 19:11:45  revo
-Tulio Flores: +tr pt
-
-Revision 1.11  2005/03/28 17:14:39  revo
 -->
 </vortaro>

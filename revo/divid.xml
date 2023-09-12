@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: divid.xml,v 1.43 2020/02/14 14:10:20 revo Exp $">
+<art mrk="$Id: divid.xml,v 1.122 2023/08/31 10:44:01 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>divid</rad>/i <fnt><bib>PV</bib></fnt>
@@ -40,7 +39,7 @@
           <bib>FK</bib>
         </fnt>;
       </ekz><ekz>
-        la homaro <klr>[&#8230;]</klr> sin <tld/>is batale
+        la homaro <klr>[&#x2026;]</klr> sin <tld/>is batale
         <fnt>
           <aut>L. L. Zamenhof</aut>
           <vrk>Pre&gcirc;o sub la Verda Standardo</vrk>
@@ -60,8 +59,7 @@
         imperioj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=240928">Gujanoj</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=240928">Gujanoj</url></lok>
         </fnt>;
         <trd lng="de">sich <ind>aufteilen</ind></trd>
         <trd lng="ca">subdividir-se</trd>
@@ -197,7 +195,7 @@
       <ekz>
         <tld/>i <frm>10</frm> per <frm>2</frm>;
       </ekz><ekz>
-        <frm>5</frm> dividite per <frm>2</frm> estas <frm>2&#189;</frm>.
+        <frm>5</frm> dividite per <frm>2</frm> estas <frm>2&#xBD;</frm>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -210,19 +208,34 @@
     <trd lng="pl">dzieli&cacute;</trd>
   </snc>
 
+  <trd lng="af">aandeel</trd>
+  <trd lng="am">.&#x122D; &#x12EB;&#x12F5;&#x122D;&#x1309;</trd>
+  <trd lng="ar">&#x62D;&a_S;&a_t_marbuta;</trd>
+  <trd lng="az">pay</trd>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_z;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9AD;&#x9BE;&#x997;</trd>
+  <trd lng="bo">&#xF56;&#xF42;&#xF7C;&#xF0B;&#xF56;&#xF64;&#xF60;&#xF0B;&#xF62;&#xF92;&#xFB1;&#xF42;&#xF0B;</trd>
   <trd lng="ca">dividir</trd>
+  <trd lng="co">sparte</trd>
   <trdgrp lng="cs">
     <trd>d&ecaron;lit</trd>,
     <trd>d&ecaron;lit</trd>,
     <trd>rozd&ecaron;lit</trd>,
     <trd>&ccaron;lenit</trd>
   </trdgrp>
+  <trd lng="cy">rhannu</trd>
+  <trd lng="da">aktie</trd>
   <trdgrp lng="de">
     <trd>teilen</trd>
     <!-- trd>dividieren <klr>(en matematiko)</klr></trd -->
   </trdgrp>
   <trd lng="en">divide</trd>
   <trd lng="es">dividir</trd>
+  <trd lng="et">osa</trd>
+  <trd lng="eu">arraila</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;couper</trd>,
     <trd>diviser</trd>,
@@ -231,16 +244,78 @@
     <trd>s&eacute;parer</trd>,
     <trd>scinder</trd>
   </trdgrp>
+  <trd lng="fy">ferdiele</trd>
+  <trd lng="ga">scair</trd>
+  <trd lng="gd">sgaoil</trd>
+  <trd lng="gl">share</trd>
+  <trd lng="gu">&#xAB6;&#xAC7;&#xAB0;</trd>
+  <trd lng="hi">&#x936;&#x947;&#x92F;&#x930;</trd>
+  <trd lng="hmn">sib qhia</trd>
+  <trd lng="hr">udio</trd>
+  <trd lng="ht">pataje</trd>
+  <trd lng="hy">&#x562;&#x561;&#x56A;&#x576;&#x565;&#x57F;&#x578;&#x574;&#x57D;</trd>
+  <trd lng="ig">&#xF2;k&#xE8;</trd>
+  <trd lng="is">hlut</trd>
+  <trd lng="ja">&#x30B7;&#x30A7;&#x30A2;</trd>
+  <trd lng="jv">nuduhake</trd>
+  <trd lng="ka">&#x10EC;&#x10D8;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&#x4AF;&#x43B;&c_je;&c_s;</trd>
+  <trd lng="km">&#x1785;&#x17C6;&#x178E;&#x17C2;&#x1780;</trd>
+  <trd lng="kn">&#xCAA;&#xCBE;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xC8FC;</trd>
+  <trd lng="ku">par</trd>
+  <trd lng="ky">&#x4AF;&#x43B;&#x4AF;&c_sh;&#x4AF;</trd>
+  <trd lng="lo">&#xEAE;&#xEB8;&#xEC9;&#xE99;</trd>
+  <trd lng="lt">dalis</trd>
+  <trd lng="lv">da&#x13C;a</trd>
+  <trd lng="mg">anjara</trd>
+  <trd lng="mi">wehenga</trd>
+  <trd lng="mk">&c_u;&c_d;&c_je;&#x43B;</trd>
+  <trd lng="ml">&#xD2A;&#xD19;&#xD4D;&#xD15;&#xD3F;&#xD1F;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&#x44D;&c_z;&#x43B;&#x44D;&c_h; &c_h;&c_u;&c_v;&#x44C;</trd>
+  <trd lng="mr">&#x936;&#x947;&#x905;&#x930;</trd>
+  <trd lng="ms">saham</trd>
+  <trd lng="mt">sehem</trd>
+  <trd lng="my">&#x101D;&#x1031;&#x1005;&#x102F;</trd>
+  <trd lng="ne">&#x935;&#x93F;&#x92D;&#x93E;&#x91C;&#x93F;&#x924;</trd>
+  <trd lng="ny">gawo</trd>
+  <trd lng="pa">&#xA38;&#xA3C;&#xA47;&#xA05;&#xA30;</trd>
+  <trd lng="ps">&a_b;&a_r;&#x62E;&a_h;</trd>
   <trdgrp lng="pt">
     <trd>dividir</trd>,
     <trd>repartir</trd>,
     <trd>desmembrar</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="rw">kugabana</trd>
+  <trd lng="sd">&#x62D;&a_S;&a_w;</trd>
+  <trd lng="si">&#xD9A;&#xDDC;&#xDA7;&#xDC3;</trd>
   <trdgrp lng="sk">
     <trd>deli&tcaron;</trd>,
     <trd>&ccaron;leni&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">dele&#x17E;</trd>
+  <trd lng="sm">sea</trd>
+  <trd lng="sn">mugove</trd>
+  <trd lng="so">saamiga</trd>
+  <trd lng="sq">pjesa</trd>
+  <trd lng="st">kabelo</trd>
+  <trd lng="su">ngabagikeun</trd>
+  <trd lng="sw">kushiriki</trd>
+  <trd lng="ta">&#xBAA;&#xB99;&#xBCD;&#xB95;&#xBC1;</trd>
+  <trd lng="te">&#xC35;&#xC3E;&#xC1F;&#xC3E;</trd>
+  <trd lng="tg">&c_s;&c_a;&#x4B3;&#x43C;</trd>
+  <trd lng="th">&#xE2A;&#xE48;&#xE27;&#xE19;&#xE41;&#xE1A;&#xE48;&#xE07;</trd>
+  <trd lng="tl">magbahagi</trd>
+  <trd lng="tt">&c_b;&#x4AF;&#x43B;&c_je;&c_sh;&#x4AF;</trd>
+  <trd lng="uk">&c_ch;&c_a;&c_s;&c_t;&#x43A;&c_a;</trd>
+  <trd lng="ur">&#x62D;&a_S;&#x6C1;</trd>
+  <trd lng="uz">ulushi</trd>
+  <trd lng="vi">chia s&#x1EBB;</trd>
+  <trd lng="xh">isabelo</trd>
+  <trd lng="yi">&#x5E6;&#x5E2;&#x5D8;&#x5D9;&#x5D9;&#x5DC;&#x5DF;</trd>
+  <trd lng="yo">pin</trd>
+  <trd lng="zu">ingxenye</trd>
 </drv>
 
 <drv mrk="divid.0o">
@@ -259,9 +334,9 @@
         <fnt><bib>NT</bib>, <lok>&Heb; 4:12</lok></fnt>;
       </ekz>
       <ekz>
-       la grandega sekvantaro de lia sankteco restis <klr>[&#8230;]</klr>
+       la grandega sekvantaro de lia sankteco restis <klr>[&#x2026;]</klr>
        kvaza&ubreve; fendita en du partojn
-       <klr>[&#8230;]</klr>, la <klr>[&#8230;]</klr> faraono tuj rimarkis la
+       <klr>[&#x2026;]</klr>, la <klr>[&#x2026;]</klr> faraono tuj rimarkis la
        <tld/>on de la altranguloj
         <fnt>
           <bib>Far3</bib>
@@ -336,6 +411,7 @@
       <aut>MB</aut>
     </adm>
   </snc>
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="ca">divisi&oacute;</trd>
   <trdgrp lng="cs">
     <trd>d&ecaron;len&iacute;</trd>,
@@ -344,10 +420,22 @@
   <trd lng="de">Division</trd>
   <trd lng="en">division</trd>
   <trd lng="es">divisi&oacute;n</trd>
+  <trd lng="he">&#x5D7;&#x5DC;&#x5D5;&#x5E7;&#x5D4;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5206;&#x5272;  [<ind>&#x3076;&#x308F;&#x308A;</ind>]</trd>,
+    <trd>&#x533A;&#x5207;&#x308A;  [<ind>&#x304F;&#x304E;&#x308A;</ind>]</trd>,
+    <trd>&#x5206;&#x914D;  [<ind>&#x3076;&#x3093;&#x3071;&#x3044;</ind>]</trd>,
+    <trd>&#x5272;&#x308A;&#x7B97;  [<ind>&#x308F;&#x308A;&#x3056;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; <klr>(&c_t;&c_o;&c_ch;&c_n;&c_o;&c_je;)</klr></trd>
   <trdgrp lng="sk">
     <trd>delenie</trd>,
     <trd>rozdelenie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_ib;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43F;&#x43E;&c_d;&c_ib;&#x43B;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&#x43E;&c_d;&c_ib;&#x43B;</trd>
   </trdgrp>
 </drv>
 
@@ -361,12 +449,11 @@
         merkato<tld/>a&jcirc;on, estis tre
         limigitaj
         <fnt>
-          <bib>Monato</bib>
           <aut>Franck Arnaud</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007114.html">Intel
-          alfrontas konkurencon</url></vrk>
-        </fnt>;
+            <vrk><url ref="&Monato;/2000/007114.html">Intel alfrontas konkurencon</url></vrk>
+           <bib>Monato</bib>
+            <lok>2000/10, p. 16</lok>
+          </fnt>;
       </ekz>
       <ekz>
         por &ccirc;iu kalendaro estas priskribitaj &gcirc;iaj historio, strukturo,
@@ -375,8 +462,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Anna kaj Mati Pentus</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008070.html">Franda&jcirc;o por
+          <vrk><url ref="&Monato;/2003/008070.html">Franda&jcirc;o por
           scivolemuloj</url></vrk>
         </fnt>.
       </ekz>
@@ -387,6 +473,10 @@
       <ref cel="sekci.0o">sekcio</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_o;&c_l;&c_ja;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>part</trd>,
     <trd>fracci&oacute;</trd>
@@ -401,9 +491,14 @@
     <trd>fraction<klr tip="ind"> (part)</klr></trd>,
     <trd>part</trd>
   </trdgrp>
+  <trd lng="he">&#x5D7;&#x5B2;&#x5DC;&#x5D5;&#x5BC;&#x5E7;&#x5B8;&#x5D4;</trd>
   <trdgrp lng="hu">
     <trd>(kiosztott) <ind>r&eacute;sz</ind></trd>,
     <trd>r&eacute;szesed&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5206;&#x5272;&#x3055;&#x308C;&#x305F;&#x90E8;&#x5206;  [<ind>&#x3076;&#x3093;&#x304B;&#x3064;&#x3055;&#x308C;&#x305F;&#x3076;&#x3076;&#x3093;</ind>]</trd>,
+    <trd>&#x5206;&#x3051;&#x524D;  [<ind>&#x308F;&#x3051;&#x307E;&#x3048;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_d;&c_o;&c_l;&c_ja;</trd>,
@@ -432,17 +527,21 @@
       La nombro, per kiu oni <ref cel="divid.0i.MAT"><tld/>as</ref>.
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">divisor</trd>
   <trd lng="cs">d&ecaron;litel</trd>
   <trd lng="de">Divisor</trd>
   <trd lng="en">divisor<klr tip="ind"> (in a division)</klr></trd>
   <trd lng="es">divisor</trd>
   <trd lng="fr">diviseur<klr tip="ind"> (dans une division)</klr></trd>
+  <trd lng="he">&#x5DE;&#x5D7;&#x5DC;&#x5E7;</trd>
   <trd lng="hu">oszt&oacute;</trd>
+  <trd lng="ja">&#x9664;&#x6570;  [<ind>&#x3058;&#x3087;&#x3059;&#x3046;</ind>]</trd>
   <trd lng="pl">dzielnik<klr tip="ind"> (w dzia&lstroke;aniu
   dzielenia)</klr></trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;<klr tip="ind"> (&c_p;&c_r;&c_i; &c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
   <trd lng="sk">delite&lcaron;</trd>
+  <trd lng="uk">&c_d;&c_ib;&#x43B;&#x44C;&#x43D;&c_i;&#x43A;</trd>
 </drv>
 
 <drv mrk="divid.0ato">
@@ -454,6 +553,7 @@
       La nombro, kiun oni <ref cel="divid.0i.MAT"><tld/>as</ref>.
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_z;&c_je;&c_l;&c_ib;&c_v;&c_a;</trd>
   <trd lng="ca">dividend</trd>
   <trdgrp lng="cs">
     <trd>d&ecaron;lenec</trd>,
@@ -463,10 +563,13 @@
   <trd lng="en">dividend</trd>
   <trd lng="es">dividendo</trd>
   <trd lng="fr">dividende<klr tip="ind"> (dans une division)</klr></trd>
+  <trd lng="he">&#x5DE;&#x5D7;&#x5D5;&#x5DC;&#x5E7;</trd>
   <trd lng="hu">osztand&oacute;</trd>
+  <trd lng="ja">&#x88AB;&#x9664;&#x6570;  [<ind>&#x3072;&#x3058;&#x3087;&#x3059;&#x3046;</ind>]</trd>
   <trd lng="pl">dzielna</trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_m;&c_o;&c_je;</trd>
   <trd lng="sk">delenec</trd>
+  <trd lng="uk">&c_d;&c_ib;&#x43B;&c_je;&#x43D;&c_je;</trd>
 </drv>
 
 <drv mrk="divid.0ebla">
@@ -480,8 +583,7 @@
       <ref cel="ring.0o.MAT">ringo</ref>)</klr>
       Oni diras, ke <frm am="a"><k>a</k></frm> estas <tld/>ebla per 
       <frm am="b"><k>b</k></frm>, se <frm am="b"><k>b</k></frm> estas
-      <ref cel="divizo.0o.ringo">divizoro</ref> de <frm
-      am="a"><k>a</k></frm>:
+      <ref cel="divizo.0o.ringo">divizoro</ref> de <frm am="a"><k>a</k></frm>:
       <ekz>
         17, 18 kaj 19 ne estas <tld/>eblaj je 4
         <fnt>
@@ -498,8 +600,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        se <frm am="a"><k>a</k></frm> estas <tld/>ebla per <frm
-        am="b"><k>b</k></frm>,
+        se <frm am="a"><k>a</k></frm> estas <tld/>ebla per <frm am="b"><k>b</k></frm>,
         oni signas tion per la skriba&jcirc;o
         <frm am="b | a"><k>b</k>|<k>a</k></frm>;
       </ekz><ekz>
@@ -507,6 +608,7 @@
         &gcirc;ia lasta cifero estas <frm>0</frm> a&ubreve; <frm>5</frm>;
       </ekz><ekz>
         kriterioj pri <ind><tld/>eblo</ind>.
+        <trd lng="be">&c_p;&c_a;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
         <trd lng="ca">divisibilitat</trd>
         <trd lng="de">Teilbarkeit</trd>
         <trd lng="en">divisibility</trd>
@@ -538,6 +640,7 @@
       en la difino.
     </rim>  
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="ca">divisible</trd>
   <trd lng="cs">d&ecaron;liteln&yacute;</trd>
   <trd lng="de">teilbar</trd>
@@ -545,11 +648,16 @@
   <trd lng="es">divisible</trd>
   <trd lng="fr">divisible</trd>
   <trd lng="hu">oszthat&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5206;&#x5272;&#x3067;&#x304D;&#x308B;  [<ind>&#x3076;&#x3093;&#x304B;&#x3064;&#x3067;&#x304D;&#x308B;</ind>]</trd>,
+    <trd>&#x5272;&#x308A;&#x5207;&#x308C;&#x308B;  [<ind>&#x308F;&#x308A;&#x304D;&#x308C;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>dzielny</trd>,
     <trd>podzielny</trd></trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>
   <trd lng="sk">delite&lcaron;n&yacute;</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_d;&c_ib;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="divid.cxel0igxo">
@@ -564,8 +672,7 @@
         blokado de &ccirc;el<tld/>i&gcirc;o, sed &gcirc;i estas rezulto de &ccirc;el-detruado
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://www.freeweb.hu/eventoj/steb/inventajxoj/culevit/culevit-eo.htm">
+          <vrk><url ref="http://www.freeweb.hu/eventoj/steb/inventajxoj/culevit/culevit-eo.htm">
           La pasiva antitumora defenda sistemo</url></vrk>,
           <lok>[vidita en 2010]</lok>
         </fnt>;
@@ -574,29 +681,31 @@
         <tld/>i&gcirc;o
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref="http://eo.wikipedia.org/wiki/%C4%88elo_(biologio)">
+          <lok><url ref="&Viki;/%C4%88elo_(biologio)">
           &ccirc;elo</url>, 2010-08-24</lok>
         </fnt>;
       </ekz>
       <ekz>
         telomeroj i&gcirc;as iom pli mallongaj post &ccirc;iu &ccirc;ela <tld/>i&gcirc;o
-        <klr>[&#8230;]</klr>, sciencistoj <klr>[&#8230;]</klr> malkovris, ke, dum la
+        <klr>[&#x2026;]</klr>, sciencistoj <klr>[&#x2026;]</klr> malkovris, ke, dum la
         <tld/>i&gcirc;o de kancera &ccirc;elo,
         la telomero perdita estas tuj riparata
         <fnt>
           <bib>Monato</bib>
           <aut>Jorge Montanari</aut>
-          <vrk><url ref="https://www.monato.be/2013/011064.php"
-              >Telomero: &ccirc;u rimedo kontra&ubreve; kancero?</url></vrk>
+          <vrk><url ref="&Monato;/2013/011064.php">Telomero: &ccirc;u rimedo kontra&ubreve;
+          kancero?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; &c_k;&c_l;&c_je;&c_t;&c_a;&c_k;</trd>
   <trd lng="ca">divisi&oacute; cel&middot;lular</trd>
   <trd lng="de">Zellteilung</trd>
   <trd lng="en">cell division</trd>
   <trd lng="fr">division cellulaire</trd>
+  <trd lng="he">&#x5D7;&#x5DC;&#x5D5;&#x5E7;&#x5EA; &#x5EA;&#x5D0;</trd>
+  <trd lng="ja">&#x7D30;&#x80DE;&#x5206;&#x88C2;  [<ind>&#x3055;&#x3044;&#x307C;&#x3046;&#x3076;&#x3093;&#x308C;&#x3064;</ind>]</trd>
 </drv>
 
 <drv mrk="divid.0o_kun_resto">
@@ -606,11 +715,14 @@
   <snc>
     <ref tip="dif" cel="divid.euxklida0o">e&ubreve;klida <tld/>o.</ref>
   </snc>
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; &c_z; &c_r;&c_e;&c_sh;&c_t;&c_a;&c_j;</trd>
   <trd lng="ca">divisi&oacute; entera</trd>
   <trd lng="cs">d&ecaron;len&iacute; se zbytkem</trd>
   <trd lng="de">Division mit Rest</trd>
   <trd lng="en">division with remainder</trd>
   <trd lng="fr">division euclidienne</trd>
+  <trd lng="he">&#x5D7;&#x5DC;&#x5D5;&#x5E7;&#x5D4; &#x5E2;&#x5DD;
+  &#x5E9;&#x5D0;&#x5E8;&#x5D9;&#x5EA;</trd>
   <trd lng="hu">marad&eacute;kos <ind>oszt&aacute;s</ind></trd>
   <trd lng="pl">dzielenie z reszt&aogonek;</trd>
   <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; &c_s; &c_o;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_m;</trd>
@@ -637,10 +749,8 @@
         <frm am="b"><k>b</k></frm> ebligas
         trovi du tiajn entjerojn <frm am="q"><k>q</k></frm> kaj
         <frm am="r"><k>r</k></frm>, 
-        ke <frm am="a=b xx q+r"
-        ><k>a</k> = <k>b</k>&#215;<k>q</k>+<k>r</k></frm> 
-        kaj <frm am="0 le |r| lt b"
-        >0 &#8804; |<k>r</k>| &lt; <k>b</k></frm>;
+        ke <frm am="a=b xx q+r"><k>a</k> = <k>b</k>&#xD7;<k>q</k>+<k>r</k></frm> 
+        kaj <frm am="0 le |r| lt b">0 &#x2264; |<k>r</k>| &lt; <k>b</k></frm>;
       </ekz><ekz>
         la e&ubreve;klida algoritmo konsistas el sinsekvaj
         e&ubreve;klidaj <tld/>oj;
@@ -649,14 +759,12 @@
         oni nomas rezulto de la e&ubreve;klida <tld/>o;
       </ekz><ekz>
         &ccirc;e e&ubreve;klida divido de
-        <frm am="bb X^2+bb 1"
-        ><g>X</g><sup>2</sup>+<g>1</g></frm> per <frm am="bb
-        X"><g>X</g></frm>
+        <frm am="bb X^2+bb 1"><g>X</g><sup>2</sup>+<g>1</g></frm> per <frm am="bb                         X"><g>X</g></frm>
         oni ricevas <frm am="(bb X,bb 1)">(<g>X</g>,<g>1</g>)</frm>;
       </ekz><ekz>
         en la aro de entjeroj la rezulto de e&ubreve;klida <tld/>o
         estas unika kun la aldona kondi&ccirc;o, ke 
-        <frm am="r ge 0"><k>r</k> &#8805; 0</frm>.
+        <frm am="r ge 0"><k>r</k> &#x2265; 0</frm>.
       </ekz>
     </dif>
     <ref tip="sin" cel="divid.0o_kun_resto"><tld/>o kun resto;</ref>
@@ -664,6 +772,7 @@
       <ref cel="euxkli.0o">E&ubreve;klido</ref>.
     </refgrp>
   </snc>
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; &c_z; &c_r;&c_e;&c_sh;&c_t;&c_a;&c_j;</trd>
   <trd lng="ca">divisi&oacute; euclidiana</trd>
   <trd lng="de">Division mit Rest</trd>
   <trd lng="en">division with remainder</trd>
@@ -675,7 +784,16 @@
 
 </art>
 <!--
-$Log: divid.xml,v $
+$Log$
+versio 1.121 2023/04/30 06:30:38
+Paul Peeraerts: Steloj -> monato
+
+versio 1.120 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.118 2021/08/25 06:36:06
+Dmitri Gabinski: + trd be
+
 versio 1.43 2020/02/14 14:10:20
 Wolfram Diestel: formuloj per am
 
@@ -689,14 +807,5 @@ Revision 1.40  2019/09/05 17:10:14  revo
 Sergio Pokrovskij: +~=kunhavi
 
 Revision 1.39  2015/07/04 08:37:32  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.38  2015/06/29 16:29:37  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.37  2012/01/01 15:10:09  revo
-Marc Rausell: +trd ca
-
-Revision 1.36  2010/09/24 16:30:19  revo
 -->
 </vortaro>

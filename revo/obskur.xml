@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: obskur.xml,v 1.11 2009/09/14 16:31:21 revo Exp $">
+<art mrk="$Id: obskur.xml,v 1.21 2023/05/09 13:24:21 revo Exp $">
 <kap>
   <rad>obskur</rad>/a <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -19,18 +18,19 @@
       <ekz>
         neniumi &ccirc;e anguloj de <tld/>o kaj haladzo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007198.html">Poezio sed ne poemoj</url></vrk>
-        </fnt>;
+          <aut>Grigori Arosev</aut>
+            <vrk><url ref="&Monato;/2000/007198.php">Poezio sed ne poemoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 28</lok>
+          </fnt>;
       </ekz>
       <ekz>
         gajaj kvikoj sonis el <tld/>a angulo
         <fnt>
-          <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="https://www.monato.be/2004/008357.html">La unua nokto</url></vrk>
-          <lok>2004</lok>
+          <vrk><url ref="&Monato;/2004/008357.html">La unua nokto</url></vrk>
+           <bib>Monato</bib>
+          <lok>2004/11, p. 28</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -68,7 +68,7 @@
         ho triste povra, dura sort' de la moroz-<tld/>a vort'
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
           <lok>Lamentado</lok>
         </fnt>;
       </ekz>
@@ -76,28 +76,28 @@
         <tld/>aj disputoj de mezepokaj teologoj pri la sankta triunuo a&ubreve; la
         transsubstancigo
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007921.html">Ho, mistera pi!</url></vrk>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2003/007921.html">Ho, mistera pi!</url></vrk>
-          <lok>2003</lok>
+          <lok>2003/06, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>a stilo
         <fnt>
-          <bib>Monato</bib>
           <aut>Aimo Rantanen</aut>
-          <vrk><url ref="https://www.monato.be/2004/008427.html">Redaktoprincipoj</url></vrk>
-          <lok>2004</lok>
+          <vrk><url ref="&Monato;/2004/008427.html">Redaktoprincipoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/10, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
         la koncerna entreprena regularo prezenti&gcirc;is iom <tld/>a
         <fnt>
-          <bib>Monato</bib>
           <aut>Filippo</aut>
-          <vrk><url ref="https://www.monato.be/2006/008898.php">Moderna po&scirc;to</url></vrk>
-          <lok>2006</lok>
+          <vrk><url ref="&Monato;/2006/008898.php">Moderna po&scirc;to</url></vrk>
+           <bib>Monato</bib>
+          <lok>2006/04, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -137,12 +137,12 @@
       </ekz>
       <ekz>
         nur <tld/>aj negocistoj okupi&gcirc;as pri ili
-        <fnt>
-          <bib>Monato</bib>
+       <fnt>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007334.html"
-              >Belgio: Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
-        </fnt>.
+          <vrk><url ref="&Monato;/2001/007334.php">Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/02, p. 8</lok>
+          </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -186,6 +186,12 @@
     <trd>temn&yacute;; pochybnej povesti</trd>,
     <trd>tmav&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_je;&#x43C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&#x44F;&c_s;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_v;&c_ib;&c_d;&#x43E;&#x43C;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_z;&#x43D;&c_a;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="obskur.0ismo">
@@ -200,7 +206,8 @@
         al agado de junaj generacioj de armeaj oficiroj
         <fnt>
           <aut>J. R&eacute;gulo P&eacute;rez</aut>,
-          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr12/enciklopediistoj.html">
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr12/enciklopediistoj.html">
           Enciklopediistoj en Kanariaj Insuloj</url></vrk>,
           <lok>Nica Literatura Revuo, 1955-11 &gcirc;is 12 (1/2), p.
           47a-51a</lok>
@@ -210,17 +217,18 @@
         certe mi malaprobus tiun &ccirc;i <tld/>ismon, se &gcirc;i ne apartenus al mia dumiljara
         kulturo
         <fnt>
-          <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="https://www.monato.be/2008/009545.php">Kapskuo</url></vrk>
-          <lok>2008</lok>
+          <vrk><url ref="&Monato;/2008/009545.php">Kapskuo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008/08, p. 10</lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="ant" cel="kler.0ismo">klerismo</ref>
   </snc>
+  <trd lng="be">&c_a;&c_b;&c_s;&c_k;&c_u;&c_r;&c_a;&c_n;&c_t;&c_y;&c_z;&c_m;</trd>
   <trd lng="de">Obskurantismus</trd>
-  <trd lng="fa">&a_t;&a_A;&a_r;&f_y;&f_k;&zwnj;&a_A;&a_n;&a_d;&f_y;&a_sh;&f_y;</trd>
+  <trd lng="fa">&a_t;&a_A;&a_r;&f_y;&f_k;&#8204;&a_A;&a_n;&a_d;&f_y;&a_sh;&f_y;</trd>
   <trd lng="fr">obscurantisme</trd>
   <trd lng="nl">obscurantisme</trd>
   <trd lng="pt">obscurantismo</trd>
@@ -229,6 +237,21 @@
 
 <!--
 $Log$
+versio 1.21 2023/05/09 13:24:21
+Paul Peeraerts: + lok
+
+versio 1.20 2023/05/01 06:31:59
+Paul Peeraerts: Steloj -> monato
+
+versio 1.19 2023/04/15 12:43:18
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.18 2022/06/13 08:38:12
+Dmitri Gabinski: + trd be
+
+versio 1.17 2022/05/01 17:17:00
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.14  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -236,17 +259,5 @@ Revision 1.13  2015/06/29 16:33:21  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.12  2012/06/13 11:10:10  revo
-Jeromo Vasxe: + ~ismo
-
-Revision 1.11  2009/09/14 16:31:21  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.10  2009/07/02 16:30:55  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.9  2009/03/25 17:30:35  revo
-Alejandro Mejia Greene: ald his trd
-
-Revision 1.8  2009/03/05 17:30:33  revo
 -->
 </vortaro>

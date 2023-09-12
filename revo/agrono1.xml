@@ -1,19 +1,18 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: agrono1.xml,v 1.16 2009/08/25 16:32:47 revo Exp $">
+<art mrk="$Id: agrono1.xml,v 1.27 2023/09/01 17:28:35 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>agronomi</rad>/o
 </kap>
 <drv mrk="agrono1.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">AGR</uzo>
-  <snc>
+  <uzo tip="fak">SCI</uzo><uzo tip="fak">AGR</uzo>
+  <snc mrk="agrono1.0o.scienco">
     <dif>
       <ref tip="lst" lst="voko:sciencoj" cel="scienc.0o.fako">Scienco</ref>
-      pri agrokulturo:
+      pri <ref tip="prt" cel="agriku.0o">agrikulturo</ref>:
       <ekz>
         en la jaro 1887 oni malfermis <klr>[&#8230;]</klr> lernejon de <tld/>o
         <fnt>
@@ -21,10 +20,37 @@
         </fnt>;
       </ekz>
       <ekz>
+        la fabrikoj kaj la <tld/>o produktas la varojn, sed neniu ricevas salajron
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         <tld/>aj kaj metiaj iloj
         <fnt>
           <bib>Far2</bib>
           <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la terkulturaj aferoj ne estis por li antipatiaj, li e&ccirc; kun plezuro revis pri
+        <tld/>a agado
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        demandoj rilatantaj al agrikulturo kaj <tld/>o
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj junuloj speciale trejni&gcirc;as kun profesoroj pri <tld/>o, mediprotektado,
+        nutra sekureco, familia legomproduktado, administrado de akvofontoj ktp
+        <fnt>
+          <bib>Ko11</bib>
+          <vrk>Intervjuo</vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -32,16 +58,20 @@
   <trd lng="be">&c_a;&c_g;&c_r;&c_a;&c_n;&c_o;&c_m;&c_ib;&c_ja;</trd>
   <trd lng="cs">agronomie <klr>(v&ecaron;d.)</klr></trd>
   <trdgrp lng="de">
-     <trd>Agronomie</trd>,
-     <trd>Landwirtschaft</trd>
+    <trd>Agronomie</trd>,
+    <trd>Landwirtschaftswissenschaft</trd>
   </trdgrp>
   <trd lng="en">agronomy</trd>
   <trd lng="es">agronom&iacute;a</trd>
   <trd lng="fr">agronomie</trd>
+  <trd lng="he">&alef;&gimel;&resh;&vav;&nun;&vav;&mem;&yod;&he;</trd>
   <trdgrp lng="hu">
     <trd>mez&odblac;gazdas&aacute;gtan</trd>,
     <trd>agron&oacute;mia</trd></trdgrp>
   <trd lng="it">agronomia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8FB2;&#x5B66;  [<ind>&#x306E;&#12358;&#x304C;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">agronomie</trd>
   <trd lng="pl">agronomia</trd>
   <trd lng="pt">agronomia</trd>
@@ -54,13 +84,22 @@
     <trd>tar&inodot;m bilim</trd>,
     <trd>agronomi</trd>
   </trdgrp>
+  <trd lng="uk">&c_a;&c_gu;&c_r;&c_o;&c_n;&c_o;&c_m;&c_ib;&c_ja;</trd>
 </drv>
 
 <drv mrk="agrono1.0isto">
   <kap><tld/>isto</kap>
-  <snc>
+  <snc mrk="agrono1.0isto.fakulo">
     <dif>
-      Fakulo pri <ref tip="vid" cel="agrono1.0o"><tld/>o</ref>.
+      <ref tip="super" cel="fak.0ulo">Fakulo</ref>
+      pri <ref tip="vid" cel="agrono1.0o"><tld/>o</ref>:
+      <ekz>
+        la&ubreve; la <tld/>isto <nom>Marc Dufumier</nom>, malsatego povas ekesti kiam ajn,
+        okaze de la plej eta klimata incidento
+        <fnt>
+          <bib>MD08</bib>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="sin">
       <ref cel="agrono.0o">agronomo</ref>
@@ -74,10 +113,12 @@
   </trdgrp>
   <trd lng="en">agronomist</trd>
   <trd lng="fr">agronome</trd>
+  <trd lng="he">&alef;&#x5B7;&gimel;&resh;&vav;&#x5B9;&nun;&vav;&#x5B9;&fmem;</trd>
   <trdgrp lng="hu">
     <trd>mez&odblac;gazd&aacute;sz</trd>,
     <trd>agron&oacute;mus</trd></trdgrp>
   <trd lng="it">agronomo</trd>
+  <trd lng="ja">&#x8FB2;&#x5B66;&#32773;  [<ind>&#x306E;&#12358;&#x304C;&#x304F;&#12375;&#12419;</ind>]</trd>
   <trd lng="nl">agronoom</trd>
   <trd lng="pl">agronom</trd>
   <trd lng="pt">agr&ocirc;nomo</trd>
@@ -91,6 +132,15 @@
 </art>
 <!--
 $Log$
+versio 1.27 2023/09/01 17:28:35
+Wolfram Diestel: ja kor.
+
+versio 1.25 2023/07/31 19:19:44
+Wolfram Diestel: snc-mrk, sintakso
+
+versio 1.23 2021/12/05 11:41:14
+Wolfram Diestel: +ekz-oj
+
 Revision 1.20  2015/07/04 08:37:29  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -104,11 +154,5 @@ Revision 1.17  2011/11/18 11:10:18  revo
 Antonio Codazzi: + trd it
 
 Revision 1.16  2009/08/25 16:32:47  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.15  2003/10/30 17:31:07  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14  2003/05/17 16:32:28  revo
 -->
 </vortaro>

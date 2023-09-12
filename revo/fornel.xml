@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fornel.xml,v 1.3 2008/01/28 17:30:57 revo Exp $">
+<art mrk="$Id: fornel.xml,v 1.12 2023/08/31 13:11:30 revo Exp $">
 <kap>
   <rad>fornel</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -26,15 +25,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_l;&c_ib;&c_t;&c_a; <klr>(&c_k;&c_u;&c_h;&c_o;&c_n;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="bg">&c_p;&c_je;&c_ch;&c_k;&c_a; <klr> (&c_g;&c_o;&c_t;&c_v;&c_a;&c_r;&c_s;&c_k;&c_a;)</klr></trd>
   <trd lng="cs">kuchy&ncaron;sk&yacute; spor&aacute;k</trd>
   <trd lng="de">Herd<klr tip="amb"> (K&uuml;che)</klr></trd>
   <trd lng="en">stove</trd>
   <trd lng="fr">cuisini&egrave;re<klr> (&eacute;lectrom&eacute;nager)
   </klr></trd>
+  <trd lng="ja">&#x30EC;&#x30F3;&#x30B8;</trd>
   <trd lng="nl">fornuis</trd>
   <trd lng="pl">kuchenka</trd>
   <trd lng="sk">spor&aacute;k</trd>
+  <trd lng="uk">&#x43A;&#x443;&#x445;&#x43E;&#x43D;&#x43D;&#x430; &#x43F;&#x43B;&#x438;&#x442;&#x430;</trd>
 </drv>
 
 <drv mrk="fornel.elektro0o">
@@ -57,6 +59,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_p;&c_l;&c_ib;&c_t;&c_a;</trd>
   <trd lng="de">Elektroherd</trd>
   <trd lng="en">electric <ind>stove</ind></trd>
   <trd lng="fr">cuisini&egrave;re &eacute;lectrique</trd>
@@ -76,14 +79,14 @@
         la malmultajn gas<tld/>ojn, la aliaj devis alvici&gcirc;i
         <fnt>
           <aut>R. Frey</aut>,
-          <vrk><url 
-          ref="http://www.esperanto-geneve-regions.info/Roberto3.html">
+          <vrk><url ref="http://www.esperanto-geneve-regions.info/Roberto3.html">
           La veraj rakontoj de Roberto, 3</url></vrk>,
           <lok>2005</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_a;&c_z;&c_a;&c_v;&c_a;&c_ja; <ind>&c_p;&c_l;&c_ib;&c_t;&c_a;</ind></trd>
   <trd lng="cs">plynov&yacute; spor&aacute;k</trd>
   <trd lng="de">Gasherd</trd>
   <trd lng="en">gas <ind>stove</ind></trd>
@@ -91,9 +94,11 @@
     <trd>cuisini&egrave;re &agrave; gaz</trd>,
     <trd>gazini&egrave;re</trd>
   </trdgrp>
+  <trd lng="ja">&#x30AC;&#x30B9;&#x30EC;&#x30F3;&#x30B8;</trd>
   <trd lng="nl">gasfornuis</trd>
   <trd lng="pl"><ind>kuchenka</ind> gazowa</trd>
   <trd lng="sk">plynov&yacute; spor&aacute;k</trd>
+  <trd lng="uk">&#x433;&#x430;&#x437;&#x43E;&#x432;&#x430; &#x43F;&#x43B;&#x438;&#x442;&#x430;</trd>
 </drv>
 
 <drv mrk="fornel.karbo0o">
@@ -105,6 +110,7 @@
       funkcianta per bruligo de karbo.
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_u;&c_g;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_p;&c_l;&c_ib;&c_t;&c_a;</ind></trd>
   <trd lng="de">Kohleherd</trd>
   <trd lng="en">charcoal <ind>stove</ind></trd>
   <trd lng="fr">fourneau</trd>
@@ -115,6 +121,9 @@
 
 <!--
 $Log$
+versio 1.9 2021/12/06 08:36:37
+Dmitri Gabinski: + trd be
+
 Revision 1.7  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 

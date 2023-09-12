@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: plasm.xml,v 1.24 2023/09/03 12:45:08 revo Exp $">
 <kap>
   <rad>plasm</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -16,8 +15,17 @@
     <subsnc mrk="plasm.0o.FIZL_sanga">
       <dif>
         La likva parto de la sango, en kiu na&gcirc;as blankaj kaj
-        ru&gcirc;aj
-        sango&ccirc;eloj.
+        ru&gcirc;aj sango&ccirc;eloj:
+        <ekz>
+          por disponigi grandan kvanton de <tld/>o, multaj homoj en Germanio rapidis
+          fari&gcirc;i sangdonantoj
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Vladimir Lemelev</aut>
+            <vrk><url ref="&Monato;/2011/010451.php">E&ubreve;ropo en la fajro de la epidemio</url></vrk>
+            <lok>2011</lok>
+          </fnt>.
+        </ekz>
       </dif>
       <trdgrp lng="pl">                                        
         <trd>osocze</trd>,                       
@@ -30,11 +38,13 @@
     <trd lng="hu">v&eacute;rplazma</trd>
     <trd lng="pl">cytoplazma</trd>
   </snc>
-  <snc>
+  <snc mrk="plasm.0o.FIZ">
     <uzo tip="fak">FIZ</uzo>
     <dif>
-      Forte jonigita gaso, en kiu kvantoj de negativaj kaj pozitivaj
-      &scirc;argoj estas praktike egalaj.
+      <ref tip="super" cel="stat.0o.FIZ">Stato</ref> de materio,
+      konsistanta el jonoj, liberaj elektronoj kaj ordinare anka&ubreve; ne&ubreve;tralaj 
+      atomoj kaj molekuloj; stato en kiu ekzemple trovi&gcirc;as la materio de la suno,
+      tera jonosfero kaj fulmoj.
     </dif>
     <trd lng="hu">plazma</trd>
     <trd lng="pl">plazma</trd>
@@ -49,10 +59,16 @@
   <trd lng="fa">&f_p;&a_l;&a_A;&a_s;&a_m;&a_A;</trd>
   <trd lng="fr">plasma</trd>
   <trd lng="it">plasma</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8840;&#x6F3F;  [<ind>&#x3051;&#x3063;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x539F;&#x5F62;&#x8CEA;  [<ind>&#x3052;&#x3093;&#x3051;&#x3044;&#x3057;&#x3064;</ind>]</trd>,
+    <trd>&#x30D7;&#x30E9;&#x30BA;&#x30DE;</trd>
+  </trdgrp>
   <trd lng="nl">plasma</trd>
   <trd lng="pt">plasma</trd>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_z;&c_m;&c_a;</trd>
   <trd lng="sk">plazma</trd>
+  <trd lng="uk">&c_p;&c_l;&c_a;&c_z;&c_m;&c_a;</trd>
 </drv>
 
 <drv mrk="plasm.cxelo0o">
@@ -70,12 +86,11 @@
       La enhavo de <ref tip="malprt" cel="cxel.0o.BIO">&ccirc;elo</ref>
       &ccirc;irka&ubreve;anta &gcirc;ian kernon:
       <ekz>
-        sporoj <klr>...</klr> kun &ccirc;el<tld/>o enhavanta 4
+        sporoj <klr>[&#x2026;]</klr> kun &ccirc;el<tld/>o enhavanta 4
         oleogutetojn
         <fnt>
           <aut>C. Roux</aut>,
-          <vrk><url
-          ref="http://lichenologue.org/fichiers/docs/2009RouxNaetrocymbe.pdf">
+          <vrk><url ref="http://lichenologue.org/fichiers/docs/2009RouxNaetrocymbe.pdf">
           Naetrocymbe saxicola, likeno kun Trentepohlia</url></vrk>,
           <lok>Bull. Soc. linn. Provence, vol. 60, 2009</lok>
         </fnt>.
@@ -91,10 +106,22 @@
     <trd lng="nl">cytoplasma</trd>
     <trd lng="pl">cytoplazma</trd>
   </snc>
+  <trd lng="be">&c_c;&c_y;&c_t;&c_a;&c_p;&c_l;&c_ja;&c_z;&c_m;&c_a;</trd>
+  <trd lng="ja">&#x7D30;&#x80DE;&#x8CEA;  [<ind>&#x3055;&#x3044;&#x307C;&#x3046;&#x3057;&#x3064;</ind>]</trd>
+  <trd lng="uk">&c_c;&c_i;&c_t;&c_o;&c_p;&c_l;&c_a;&c_z;&c_m;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/04/11 18:56:01
+aktualigo Monato-URL
+
+versio 1.22 2023/04/07 09:25:32
+Dmitri Gabinski: + trd be
+
+versio 1.21 2022/12/04 11:20:29
+Wolfram Diestel: sanga ~o: +ekz; snc FIZ: malpli konciza dif
+
 Revision 1.17  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -108,11 +135,5 @@ Revision 1.14  2011/10/14 22:10:09  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.13  2010/12/09 17:31:03  revo
-Sebastian Cyprych: +trd pl, kor trd pl
-
-Revision 1.12  2010/09/20 16:30:20  revo
-Jeromo Vasxe: snc/subsnc, + cxelo~o
-
-Revision 1.11  2009/10/29 17:31:11  revo
 -->
 </vortaro>

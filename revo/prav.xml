@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: prav.xml,v 1.25 2023/09/03 12:45:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prav</rad>/a
@@ -11,19 +10,31 @@
   <kap><ofc>*</ofc><tld/>a</kap>
   <snc>
     <dif>
-      Havanta opinion a&ubreve; konduton konforman al vero kaj justo:
+      <klr>(iu)</klr> Havanta <ref cel="opini.0o">opinio</ref>n a&ubreve; 
+      konduton konforman al vero kaj justo:
       <ekz>
-        ne tiu, kiu plej la&ubreve;te krias, estas <tld/>a<fnt>Z</fnt>;
+        oni ju&gcirc;u ilin, kaj oni deklaru <tld/>a la <tld/>ulon, kaj la mal<tld/>ulon oni
+        kondamnu
+        <fnt>
+          <bib>MT</bib>
+          <lok>Readmono 25:1</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        li estas <tld/>a en sia proceso<fnt>Z</fnt>;
+        plendito, kion vi povas diri por via <tld/>i&gcirc;o
+        <fnt>
+          <bib>DL</bib>
+        </fnt>?
       </ekz>
       <ekz>
         kolero <tld/>econ ne donas
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        <tld/>ulo<fnt>Z</fnt>.
+        larmoj <tld/>econ ne pruvas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -35,16 +46,25 @@
   </snc>
   <snc>
     <dif>
-      Konforma al vero kaj justo, pp opinio:
+      <klr>(io)</klr> Konforma al vero kaj justo, pp opinio:
       <ekz>
-        li senkulpigis sin per la plej <tld/>aj motivoj;
+        kial vi malla&ubreve;das <tld/>ajn vortojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 6:25</lok>
+        </fnt>?
       </ekz>
       <ekz>
-        nek la antikveco nek la disvasti&gcirc;o de ia ajn opinio pruvas &gcirc;ian
-        <tld/>econ<fnt>B</fnt>;
+        la kalkulo &scirc;ajne estas tute <tld/>a kaj povas timigi &ccirc;iun
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        ofte potenco estas <tld/>eco.
+        &gcirc;ia <tld/>eco estas metita ekster &ccirc;ian dubon
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="de">richtig</trd>
@@ -55,10 +75,13 @@
     <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </snc>
   <trdgrp lng="cs">
-    <trd>mající pravdu</trd>,
-    <trd>pravdivý</trd>,
-    <trd>pravý</trd>,
-    <trd>správný</trd>
+    <trd>maj&iacute;c&iacute; pravdu</trd>,
+    <trd>pravdiv&yacute;</trd>,
+    <trd>prav&yacute;</trd>,
+    <trd>spr&aacute;vn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>im <ind>Recht</ind></trd>,
   </trdgrp>
   <trd lng="en">true</trd>
   <trdgrp lng="fr">
@@ -66,10 +89,26 @@
     <trd>ayant <ind>raison</ind></trd>
   </trdgrp>
   <trd lng="hu">igaz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x5F53;&#x306A;  [<ind>&#x305B;&#x3044;&#x3068;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x6B63;&#x3057;&#x3044;  [<ind>&#x305F;&#x3060;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x9053;&#x7406;&#x306B;&#x304B;&#x306A;&#x3063;&#x305F;  [<ind>&#x3069;&#x3046;&#x308A;&#x306B;&#x304B;&#x306A;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x3082;&#x3063;&#x3068;&#x3082;&#x306A;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>prawy</trd>,
+    <trd>s&lstroke;uszny</trd>
+  </trdgrp>
   <trd lng="pt">justo <klr>(conforme &agrave; raz&atilde;o)</klr></trd>
   <trdgrp lng="sk">
-    <trd>pravdivý</trd>,
-    <trd>správny</trd>
+    <trd>pravdiv&yacute;</trd>,
+    <trd>spr&aacute;vny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_a;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&c_a;&c_v;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_s;&#x43F;&c_r;&c_a;&c_v;&c_je;&c_d;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_s;&#x43B;&c_u;&c_sh;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -83,14 +122,24 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        nebolinta akvo estas &ccirc;iam dan&gcirc;era, kaj des pli <tld/>e dum
-        epidemio.
+        tiu &ccirc;i universala signa skribado, <klr>[&#x2026;]</klr> <tld/>e portis la nomon
+        &leftquot;pazigrafio&rightquot;
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi a&ubreve;dis la senduban sonon de krupo, kiu tute <tld/>e plenigis per tia timo la
+        korojn de la gepatroj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>právem</trd>,
-    <trd>správně</trd>
+    <trd>pr&aacute;vem</trd>,
+    <trd>spr&aacute;vn&ecaron;</trd>
   </trdgrp>
   <trd lng="de">richtig</trd>
   <trdgrp lng="fr">
@@ -101,9 +150,23 @@
     <trd>jogosan</trd>,
     <trd>joggal</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x3057;&#x304F;  [<ind>&#x305F;&#x3060;&#x3057;&#x304F;</ind>]</trd>,
+    <trd>&#x6B63;&#x5F53;&#x306B;  [<ind>&#x305B;&#x3044;&#x3068;&#x3046;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">terecht</trd>
+  <trdgrp lng="pl">
+    <trd>s&lstroke;usznie</trd>,
+    <trd>w&lstroke;a&sacute;ciwie</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_o;</trd>
-  <trd lng="sk">právom</trd>
+  <trd lng="sk">pr&aacute;vom</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43F;&c_r;&c_a;&c_v;&c_je;&c_d;&#x43B;&c_i;&c_v;&#x43E;</trd>,
+    <trd>&c_s;&#x43B;&c_u;&c_sh;&#x43D;&#x43E;</trd>,
+    <trd>&#x43F;&c_r;&c_a;&c_v;&c_i;&#x43B;&#x44C;&#x43D;&#x43E;</trd>,
+    <trd>&c_z; &#x43F;&#x43E;&c_v;&#x43D;&c_i;&#x43C; &#x43F;&c_r;&c_a;&c_v;&#x43E;&#x43C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prav.0o">
@@ -116,26 +179,36 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        la utileco de tia malbela konstruo estas &gcirc;ia <tld/>o de ekzisto;
-      </ekz>
-      <ekz>
-        unu el la amikoj e&ccirc; skribis ne sen<tld/>e, ke<fnt>Z</fnt>.
+        <klr>[ili]</klr> argumentas, ke <klr>[tio]</klr> kreus malstabilecon,
+        <klr>[&#x2026;]</klr> &ndash; ne sen<tld/>e
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2010/010076.php">Parto 3: Apple iPad - &ccirc;u revolucio a&ubreve;
+          evolucio?</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>právo</trd>,
-    <trd>správnost</trd>
+    <trd>pr&aacute;vo</trd>,
+    <trd>spr&aacute;vnost</trd>
   </trdgrp>
   <trd lng="fr">bon <ind>droit</ind></trd>
   <trdgrp lng="hu">
     <trd>vminek az <ind>igazs&aacute;ga</ind></trd>,
     <trd>vminek a <ind>jogosults&aacute;ga</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#x9053;&#x7406;  [<ind>&#x3069;&#x3046;&#x308A;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>racja</trd>,
+    <trd>s&lstroke;uszno&sacute;&cacute;</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_o;&c_t;&c_a;</trd>
   <trdgrp lng="sk">
-    <trd>právo</trd>,
-    <trd>správnosť</trd>
+    <trd>pr&aacute;vo</trd>,
+    <trd>spr&aacute;vnos&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -147,47 +220,114 @@
       Esti <tld/>a:
       <ekz>
         kiu jam havas, tiu <tld/>as
-        <fnt><bib>PrV</bib></fnt>.
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        tiu kritikanto iel <tld/>as
+        <fnt>
+	<aut>Stefan Maul</aut>
+	<vrk><url ref="&Monato;/2000/006825.php">Estimataj gelegantoj,</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/02, p. 3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li certe pravas, dirante, ke <klr>[&#x2026;]</klr>
+        <fnt><aut>Guido van Damme</aut>,
+        <vrk><url ref="&Monato;/2000/006921.php">Malvuali nigran fantomon</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/04, p. 8</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>být v právu</trd>,
+    <trd>b&yacute;t v pr&aacute;vu</trd>,
     <trd>m&iacute;t pravdu</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>Recht haben</trd>,
+    <trd><ind>Recht</ind> haben</trd>,
     <trd>im <ind>Recht</ind> sein</trd>
   </trdgrp>
   <trd lng="es">tener raz&oacute;n</trd>
   <trd lng="fr">avoir <ind>raison</ind></trd>
   <trd lng="hu">igaza van</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x3057;&#x3044;  [<ind>&#x305F;&#x3060;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x9053;&#x7406;&#x306B;&#x304B;&#x306A;&#x3063;&#x3066;&#x3044;&#x308B;  [<ind>&#x3069;&#x3046;&#x308A;&#x306B;&#x304B;&#x306A;&#x3063;&#x3066;&#x3044;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">gelijk hebben</trd>
+  <trdgrp lng="pl">
+    <trd>by&cacute;  <ind>uzasadnionym</ind></trd>,
+    <trd>mie&cacute;  <ind>racj&eogonek;</ind></trd>,
+    <trd>mie&cacute;  <ind>s&lstroke;uszno&sacute;&cacute;</ind></trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_p;&c_r;&c_a;&c_v;&c_y;&c_m;</ind></trd>,
     <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_m;</ind></trd>
   </trdgrp>
-  <trd lng="sk">byť v práve</trd>
+  <trd lng="sk">by&tcaron; v pr&aacute;ve</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&c_t;&c_i; &c_r;&c_a;&c_c;&c_ib;&#x44E;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &#x43F;&c_r;&c_a;&c_v;&c_i;&#x43C;</trd>,
+    <trd>&#x43C;&c_a;&c_t;&c_i; &#x43F;&c_ib;&c_d;&c_s;&c_t;&c_a;&c_v;&c_u;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prav.0igi">
   <kap><tld/>igi</kap>
-  <snc>
+  <snc mrk="prav.0igi.iun">
     <dif>
       Deklari, montri iun <tld/>a:
+      <ekz>
+        ili estis invititaj al la ju&gcirc;ejo, por <tld/>igi sin kontra&ubreve; la plendoj, levitaj
+        kontra&ubreve; ili
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiun <tld/>igi kaj kiun kulpigi
+        <fnt>
+          <bib>FK</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        mi povas nenion diri por mia <tld/>igo
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per kio ni nin <tld/>igu
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 44:16</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        jen mi donis mil ar&gcirc;entajn monerojn al via frato <klr>[&#x2026;]</klr> kaj anta&ubreve; &ccirc;iuj
+        vi estas <tld/>igita
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 20:16</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         kiu tro sin <tld/>igas, tiu mem sin kulpigas
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        nesciado de le&gcirc;o neniun <tld/>igas
+        <ind>nesciado de le&gcirc;o neniun <tld/>igas</ind>
         <fnt><bib>PrV</bib></fnt>;
+        <trd lng="de">Unwissenheit sch&uuml;tzt vor Strafe nicht</trd>
+        <trd lng="lat">ignorantia legis non excusat</trd>
       </ekz>
       <ekz>
-        tio ne <tld/>igas nin enkonduki malregulecon<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        mi nenion povas diri por mia <tld/>igo.
+        &ccirc;io kuni&gcirc;is, por <tld/>igi ilin, por elmontri la &gcirc;ustecon de liaj supozoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="hu">
@@ -195,18 +335,21 @@
       <trd>igazat ad<klr tip="amb"> (vkinek)</klr></trd>
     </trdgrp>
   </snc>
-  <snc>
+  <snc mrk="prav.0igi.ion">
     <dif>
       Deklari, montri ion <tld/>a:
       <ekz>
-        tio <tld/>igas miajn esperojn;
+        restas fari nur kelkajn pa&scirc;ojn por <tld/>igi siajn esperojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        projektoj proponitaj sub la la&ubreve;ta, per nenio <tld/>igita nomo de
-        &leftquot;lingvo tutmonda&rightquot;<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        tiu vidpunkto estas malfacile <tld/>igebla;
+        nenio plu estas <tld/>igebla, la faro staras kaj atestas kontra&ubreve; ni
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Anneto</lok>
+        </fnt>;
       </ekz>
       <ekz>
         per eraro ne <tld/>i&gcirc;as la faro
@@ -221,20 +364,34 @@
   <trdgrp lng="cs">
     <trd>omluvit</trd>,
     <trd>opodstatnit</trd>,
-    <trd>oprávnit</trd>,
-    <trd>zdůvodnit</trd>
+    <trd>opr&aacute;vnit</trd>,
+    <trd>zd&uring;vodnit</trd>
   </trdgrp>
   <trd lng="de">rechtfertigen</trd>
   <trdgrp lng="fr">
     <trd>donner <ind>raison</ind> &agrave;</trd>,
     <trd>justifier</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x5F53;&#x5316;&#x3059;&#x308B;  [<ind>&#x305B;&#x3044;&#x3068;&#x3046;&#x304B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5F01;&#x660E;&#x3059;&#x308B;  [<ind>&#x3079;&#x3093;&#x3081;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">rechtvaardigen</trd>
+  <trdgrp lng="pl">
+    <trd>usprawiedliwia&cacute;</trd>,
+    <trd>uzasadnia&cacute;</trd>
+  </trdgrp>
   <trd lng="pt">justificar</trd>
   <trd lng="ru">&c_o;&c_p;&c_r;&c_a;&c_v;&c_d;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
-    <trd>oprávňovať</trd>,
-    <trd>ospravedlňovať</trd>
+    <trd>opr&aacute;v&ncaron;ova&tcaron;</trd>,
+    <trd>ospravedl&ncaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43F;&c_r;&c_a;&c_v;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&#x43F;&c_r;&c_a;&c_v;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_z;&#x43D;&c_a;&c_v;&c_a;&c_t;&c_i; &c_r;&c_a;&c_c;&c_ib;&#x44E; &c_z;&c_a; &#x43A;&c_i;&#x43C;-&#x43D;.</trd>,
+    <trd>&#x43E;&c_b;&c_gu;&c_r;&c_u;&#x43D;&c_t;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -244,7 +401,17 @@
     <dif>
       Havanta opinion kontra&ubreve;an al vero kaj justo:
       <ekz>
-        la forestanto estas &ccirc;iam mal<tld/>a<fnt>Z</fnt>.
+        la forestanto &ccirc;iam estas mal<tld/>a
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi estis anka&ubreve; mal<tld/>aj, nomante ebrian homon militestro
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="nl">ongelijk hebbend</trd>
@@ -252,24 +419,54 @@
   </snc>
   <snc>
     <dif>
-      Ne konforma al justo kaj vero pp opinio:
+      <klr>(pp opinio)</klr> Ne konforma al justo kaj vero:
       <ekz>
-        mal<tld/>a (senfundamenta) plendo
-        (<ref tip="vid" cel="kondam.0i">kondamni 3</ref>).
+        mal<tld/>a <klr>(senfundamenta)</klr> plendo
+        <klr>(vd <ref cel="kondam.0i.deklari_malprava_riprocxinda">kondamni<sncref/></ref>)</klr>;
+      </ekz>
+      <ekz>
+        tia parolado estas tute mal<tld/>a
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pensoj de tiu virino estis treege, senprudente mal<tld/>aj, kaj tamen
+        samtempe <klr>[&#x2026;]</klr> kiel kompreneblaj ili estis
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>!
       </ekz>
     </dif>
     <trd lng="nl">ongegrond</trd>
     <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </snc>
-  <trd lng="cs">lživý</trd>
+  <trd lng="cs">l&zcaron;iv&yacute;</trd>
+  <trdgrp lng="de">
+    <trd>im <ind>Unrecht</ind></trd>,
+  </trdgrp>
   <trd lng="fr">qui a <ind>tort</ind></trd>
   <trdgrp lng="hu">
     <trd>nem <ind>igaz</ind></trd>,
     <trd>igaztalan</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x5F53;&#x306A;  [<ind>&#x3075;&#x3068;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x9593;&#x9055;&#x3063;&#x305F;  [<ind>&#x307E;&#x3061;&#x304C;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x9053;&#x7406;&#x306B;&#x53CD;&#x3057;&#x305F;  [<ind>&#x3069;&#x3046;&#x308A;&#x306B;&#x306F;&#x3093;&#x3057;&#x305F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+     <trd>bezpodstawny</trd>,
+     <trd>nies&lstroke;uszny</trd>,
+     <trd>nieusprawiedliwiony</trd>
+  </trdgrp>
   <trdgrp lng="sk">
-    <trd>nemajúci pravdu</trd>,
-    <trd>neoprávnený</trd>
+    <trd>nemaj&uacute;ci pravdu</trd>,
+    <trd>neopr&aacute;vnen&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&#x43F;&c_r;&c_a;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x44F;&#x43A;&c_i;&c_j; &#x43D;&c_je; &#x43C;&c_a;&c_jeu; &c_r;&c_a;&c_c;&c_ib;&c_ji;</trd>
   </trdgrp>
 </drv>
 
@@ -281,27 +478,88 @@
       Esti mal<tld/>a:
       <ekz>
         kiu forton ne havas, &ccirc;iam mal<tld/>as
-        <fnt><bib>PrV</bib></fnt>.
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        li mal<tld/>is pri la revivigo de juda lingvo, la hebrea,
+        per la revivigita lingvo estis kreita la nova israela &scirc;tato
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Dieter Rooke</aut>
+          <vrk><url ref="&Monato;/2008/009603.php">Israelo 60-jara (5)</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pa&ubreve;lo aperis kaj diris al la dis&ccirc;iploj, ke ili mal<tld/>as kaj ke li havas la
+        realan version de la evangelio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2006/008724.php">Kortu&scirc;a tenero</url></vrk>
+          <lok>2006</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li anta&ubreve;vidis trian mondmiliton anta&ubreve; la fino de la dudeka jarcento, li feli&ccirc;e
+        mal<tld/>is
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2012/010869.php">Mond' eterne militanta</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">lhát</trd>
+  <trd lng="cs">lh&aacute;t</trd>
+  <trdgrp lng="de">
+    <trd>nicht <ind>Recht</ind> haben</trd>,
+    <trd>im <ind>Unrecht</ind> sein</trd>
+  </trdgrp>
   <trd lng="fr">avoir <ind>tort</ind></trd>
   <trd lng="hu">nincs <ind>igaza</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x9593;&#x9055;&#x3063;&#x3066;&#x3044;&#x308B;  [<ind>&#x307E;&#x3061;&#x304C;&#x3063;&#x3066;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x9053;&#x7406;&#x306B;&#x53CD;&#x3057;&#x3066;&#x3044;&#x308B;  [<ind>&#x3069;&#x3046;&#x308A;&#x306B;&#x306F;&#x3093;&#x3057;&#x3066;&#x3044;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ongelijk hebben</trd>
+  <trdgrp lng="pl">
+    <trd>pope&lstroke;nia&cacute; b&lstroke;&aogonek;d</trd>,
+    <trd>myli&cacute; si&eogonek;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_n;&c_je;&c_p;&c_r;&c_a;&c_v;&c_y;&c_m;</ind></trd>,
     <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_n;&c_je;&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_m;</ind></trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>nemať pravdu</trd>,
-    <trd>oprávnenosť</trd>,
-    <trd>právo</trd>
+    <trd>nema&tcaron; pravdu</trd>,
+    <trd>opr&aacute;vnenos&tcaron;</trd>,
+    <trd>pr&aacute;vo</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i; &#x43D;&c_je;&#x43F;&c_r;&c_a;&c_v;&c_i;&#x43C;</trd>,
+    <trd>&#x43D;&c_je; &#x43C;&c_a;&c_t;&c_i; &c_r;&c_a;&c_c;&c_ib;&c_ji;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/04/26 16:34:32
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.23 2023/04/24 12:46:33
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.22 2023/04/14 20:26:50
+Vito Redsky: +trd pl 
+
+versio 1.21 2022/05/04 18:30:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2021/01/16 09:18:29
+Wolfram Diestel: ekz-oj
+
 Revision 1.17  2015/06/29 16:40:18  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -309,23 +567,5 @@ Revision 1.16  2015/02/13 12:10:25  revo
 Evandro Avellar: +trd pt
 
 Revision 1.15  2012/06/24 15:10:07  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.14  2006/03/17 17:32:18  revo
-Tulio Flores: +tr pt
-
-Revision 1.13  2006/01/25 17:31:16  revo
-Jeromo Vasxe: + trd fr
-
-Revision 1.12 2002/12/19 17:31:49 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11 2002/01/21 21:47:58 revo
-fontindiko PrV per programo de Jerome
-
-Revision 1.10 2001/12/24 19:29:20 revo
-Yury Finkel: +trd ru
-
-Revision 1.9 2001/10/03 18:18:31 revo
 -->
 </vortaro>

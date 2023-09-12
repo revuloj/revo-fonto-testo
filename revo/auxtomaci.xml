@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: auxtomaci.xml,v 1.4 2005/06/22 16:32:10 revo Exp $">
+<art mrk="$Id: auxtomaci.xml,v 1.8 2022/04/25 15:11:00 revo Exp $">
 <kap>
   <rad>a&ubreve;tomaci</rad>/o
 </kap>
@@ -18,15 +17,13 @@
         <tld/>o pligrandigis ripozan tempon
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=290625"
-              >Fizika ta&ubreve;geco</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=290625">Fizika ta&ubreve;geco</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>o de metioj kaj sekva senlaboreco
         <fnt>
-          <vrk><url ref="https://eo.mondediplo.com/article2650.html"
-              >Le Monde diplomatique' en Esperanto</url></vrk>
+          <vrk><url ref="&Mondediplo;article2650.html">Le Monde diplomatique' en Esperanto</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -43,6 +40,7 @@
     <trd>automatizaci&oacute;n</trd>
   </trdgrp>
   <trd lng="fr">automation</trd>
+  <trd lng="he">&#x5D0;&#x5D5;&#x5D8;&#x5D5;&#x5DE;&#x5E6;&#x5D9;&#x5D4;</trd>
   <trd lng="hu">automatiz&aacute;l&aacute;s</trd>
   <trd lng="it">automazione</trd>
   <trdgrp lng="nl">
@@ -51,10 +49,14 @@
   </trdgrp>
   <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>
   <trd lng="sv">automation</trd>
+  <trd lng="uk">&#x430;&#x432;&#x442;&#x43E;&#x43C;&#x430;&#x442;&#x438;&#x437;&#x430;&#x446;&#x456;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.8 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.4  2005/06/22 16:32:10  revo
 Yury Finkel: +trd ru
 
@@ -66,6 +68,5 @@ Jozefo Horvath: +trd hu
 
 Revision 1.1 2002/09/22 16:31:52 revo
 Ulrich Fellmann: nova artikolo
-
 -->
 </vortaro>

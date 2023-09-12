@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: jxerzej.xml,v 1.5 2023/08/31 18:25:29 revo Exp $">
 <kap>
   <rad>&Jcirc;erzej</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,7 +10,7 @@
   <snc mrk="jxerzej.0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <dif>
-      Iu el la Manikinsuloj apud Francio,
+      Unu el la Manikinsuloj apud Francio,
       dependa je la brita re&gcirc;ado:
       <ekz>
         ligitaj al Britujo estas Manikinsuloj <tld/>o, 
@@ -20,8 +19,11 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_D;&c_zh;&c_e;&c_r;&c_z;&c_ib;</trd>
   <trd lng="en">Jersey</trd>
   <trd lng="fr">Jersey</trd>
+  <trd lng="ja">&#x30B8;&#x30E3;&#x30FC;&#x30B8;&#x30FC;&#x5CF6;  [<ind>&#x30B8;&#x30E3;&#x30FC;&#x30B8;&#x30FC;&#x3057;&#x307E;</ind>]</trd>
+  <trd lng="uk">&c_D;&c_zh;&c_je;&c_r;&c_s;&c_ib;</trd>
 </drv>
 
 <drv mrk="jxerzej.nov0o">
@@ -35,15 +37,15 @@
         la romano rakontas la aventurojn de mafia familio 
         en Nov<tld lit="&jcirc;"/>o
         <fnt>
-          <aut>-, trad. Centre culturel d&#8217;esp&eacute;ranto de Marseille</aut>,
+          <aut>-, trad. Centre culturel d&#x2019;esp&eacute;ranto de Marseille</aut>,
           <vrk>Tonino Benacquista</vrk>,
-          <lok>en <url
-          ref="http://esperanto.marseille.over-blog.com/categorie-11643621.html">
+          <lok>en <url ref="http://esperanto.marseille.over-blog.com/categorie-11643621.html">
           esperanto.marseille, 2009-03-15</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_N;&c_mol;&c_ju;-&c_D;&c_zh;&c_e;&c_r;&c_z;&c_ib;</trd>
   <trd lng="en">New Jersey</trd>
   <trdgrp lng="fr">
     <trd>New Jersey</trd>,
@@ -54,5 +56,10 @@
 
 <!--
 $Log$
+versio 1.4 2023/01/31 12:50:21
+Dmitri Gabinski: + trd be
+
+versio 1.2 2021/04/11 20:50:55
+Wolfram Diestel: vortumo: unu
 -->
 </vortaro>

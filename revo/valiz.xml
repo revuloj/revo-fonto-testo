@@ -1,71 +1,118 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
-    <kap>
-      <ofc>*</ofc>
-      <rad>valiz</rad>/o
-    </kap>
+<art mrk="$Id: valiz.xml,v 1.33 2023/09/05 09:43:53 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>valiz</rad>/o
+</kap>
 
-    <drv mrk="valiz.0o">
-      <kap><ofc>*</ofc><tld/>o</kap>
-      <snc>
-        <dif>
-          Voja&gcirc;a <ref tip="super" cel="pak.0ajxo">pakumo</ref>,
-          proksimume paralelepipeda, malfermi&gcirc;anta en du partojn,
-          portebla de unu homo:
-          <ekz>
-            ni elliti&gcirc;is je la 3a horo frumatene por pretigi la
-            <tld/>ojn
-            kaj voja&gcirc;saketojn
-            <fnt><aut>Jos&eacute; de N. Marques</aut>:
-              <vrk>Voja&gcirc;o al Ushuaia</vrk>,
-              <bib>Monato</bib><lok>jaro 2002a, numero 2a, p.
-              18a</lok></fnt>.
-          </ekz>
-        </dif>
-      </snc>
-      <rim>
-        La <tld/>oj estas relative nova objekto.  Anta&ubreve; la mezo de 19a
-        jc ilian funkcion plenumis
-        <ref tip="vid" cel="kofr.0o.vojagxa">kofroj<sncref/></ref>.
-      </rim>
-      <trdgrp lng="be">
-        <trd>&c_v;&c_a;&c_l;&c_ib;&c_z;&c_k;&c_a;</trd>,
-        <trd>&c_ch;&c_a;&c_m;&c_a;&c_d;&c_a;&c_n;</trd>,
-        <trd>&c_s;&c_a;&c_k;&c_v;&c_a;&c_ja;&c_zh;</trd>
-      </trdgrp>     
-      <trd lng="bg">&c_k;&c_u;&c_f;&c_a;&c_r;</trd>             
-      <trd lng="br">malizenn</trd>
-      <trdgrp lng="ca">
-        <trd>maleta</trd>,
-        <trd>valisa</trd>
-      </trdgrp>
-      <trd lng="de">Koffer</trd>
-      <trd lng="en">suitcase</trd>
-      <trd lng="es">maleta</trd>
-      <trd lng="fr">valise</trd>
-      <trd lng="he">&mem;&zayin;&vav;&vav;&zayin;&he;</trd>
-      <trd lng="hu">b&odblac;r&ouml;nd</trd>
-      <trd lng="id">koper</trd>
-      <trdgrp lng="nl">
-        <trd>koffer</trd>,
-        <trd>valies</trd>
-      </trdgrp>
-      <trdgrp lng="pt">
-        <trd>valise</trd>, 
-        <trd>maleta</trd>
-      </trdgrp>
-      <trdgrp lng="ru">
-        <trd>&c_ch;&c_je;&c_m;&c_o;&c_d;&c_a;&c_n;</trd>,
-        <trd>&c_s;&c_a;&c_k;&c_v;&c_o;&c_ja;&c_zh;</trd>
-      </trdgrp>
-      <trdgrp lng="tr">
-        <trd>bavul</trd>,
-        <trd>valiz</trd>
-      </trdgrp>
-      <trdgrp lng="sk">
+<drv mrk="valiz.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="valiz.0o.vojagxa">
+    <dif>
+      Voja&gcirc;a <ref tip="super" cel="pak.0ajxo">pakumo</ref>, proksimume paralelepipeda, malfermi&gcirc;anta
+      en du partojn, portebla de unu homo:
+      <ekz>
+        mia <tld/>o estas plena de diversaj bonaj objektoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pli valoras propra &ccirc;emizo, ol fremda plena <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al via servanto mi diros, ke li transportu la <tld/>on
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel dando <klr>[&#x2026;]</klr> dumtage portas fonograf<tld/>on
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Muziko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni elliti&gcirc;is je la 3a horo frumatene por pretigi la <tld/>ojn kaj voja&gcirc;saketojn
+        <fnt><aut>Jos&eacute; de N. Marques</aut>:
+          <vrk>Voja&gcirc;o al Ushuaia</vrk>,
+          <bib>Monato</bib><lok>jaro 2002a, numero 2a, p.
+          18a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi portis <tld/>eton kaj <ref cel="tek.0o">teko</ref>n, sed evidenti&gcirc;is, ke la tekon mi
+        forgesis
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Julian Modest</aut>
+          <vrk><url ref="&Monato;/2011/010260.php">Labirinto en &ccirc;ina lo&gcirc;kvartalo</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iama kasisto de <nom>CDU</nom> <klr>[&#x2026;]</klr> ricevis milionojn da germanaj markoj en
+        <tld/>eto de tiu armilkomercisto, donace por la partio
+        <fnt>
+       <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2000/006835.php">Pekoj de patriarko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    La <tld/>oj estas relative nova objekto. Anta&ubreve; la mezo de 19a jarcento ilian funkcion plenumis
+    <ref tip="vid" cel="kofr.0o.vojagxa">kofroj<sncref/></ref>.
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_l;&c_ib;&c_z;&c_k;&c_a;</trd>,
+    <trd>&c_ch;&c_a;&c_m;&c_a;&c_d;&c_a;&c_n;</trd>,
+    <trd>&c_s;&c_a;&c_k;&c_v;&c_a;&c_ja;&c_zh;</trd>
+  </trdgrp>     
+  <trd lng="bg">&c_k;&c_u;&c_f;&c_a;&c_r;</trd>             
+  <trd lng="br">malizenn</trd>
+  <trdgrp lng="ca">
+    <trd>maleta</trd>,
+    <trd>valisa</trd>
+  </trdgrp>
+  <trd lng="de">Koffer</trd>
+  <trd lng="en">suitcase</trd>
+  <trd lng="es">maleta</trd>
+  <trd lng="fr">valise</trd>
+  <trd lng="he">&mem;&zayin;&vav;&vav;&zayin;&he;</trd>
+  <trd lng="hu">b&odblac;r&ouml;nd</trd>
+  <trd lng="id">koper</trd>
+  <trdgrp lng="ja">
+    <trd>&#x65C5;&#x884C;&#x304B;&#x3070;&#x3093;  [<ind>&#x308A;&#x3087;&#x3053;&#x3046;&#x304B;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x30B9;&#x30FC;&#x30C4;&#x30B1;&#x30FC;&#x30B9;</trd>,
+    <trd>&#x5C0F;&#x5F62;&#x30C8;&#x30E9;&#x30F3;&#x30AF;  [<ind>&#x3053;&#x304C;&#x305F;&#x3068;&#x3089;&#x3093;&#x304F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>koffer</trd>,
+    <trd>valies</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>valise</trd>, 
+    <trd>maleta</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_ch;&c_je;&c_m;&c_o;&c_d;&c_a;&c_n;</trd>,
+    <trd>&c_s;&c_a;&c_k;&c_v;&c_o;&c_ja;&c_zh;</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>bavul</trd>,
+    <trd>valiz</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
     <trd>bato&zcaron;ina <klr>(ru&ccaron;n&aacute;)</klr></trd>,
     <trd>kufr&iacute;k</trd>,
     <trd>vak</trd>
@@ -76,34 +123,30 @@
     <trd>tlumok</trd>,
     <trd>vak</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_a;&#x43B;&c_ib;&c_z;&c_a;</trd>,
+    <trd>&c_s;&c_a;&#x43A;&c_v;&#x43E;&#x44F;&c_zh;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="valiz.0vorto">
-  <kap><tld/>vorto</kap>
-  <uzo tip="fak">LIN</uzo>
-  <snc>
-    <dif>
-      Vorto kombinanta signifojn de du vortoj kaj formita per
-      kombino de komenca parto de la unua kun fina parto de la
-      dua, ofte kun sinkopo &ccirc;e la junto; malpli ofte temas pli
-      simila kombino de pli ol du vortoj:
-      <ekz>
-        la angla <ctl>motel</ctl> estas <tld/>vorto formita
-        el <ctl>MOTor</ctl> + <ctl>hoTEL</ctl> (kun sikopo &ccirc;e T);
-      </ekz><ekz>
-        Esperanton <tld/>vortoj peneras kiel blokaj prunta&jcirc;oj, ili
-        ne estas regulaj deriva&jcirc;oj.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="en">portmanteau word</trd>
-  <trd lng="fr">mot-valise</trd>
-  <trd lng="ru">&c_s;&c_l;&c_o;&c_v;&c_o;&c_s;&c_t;&c_ja;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
- </drv>
-          
-  </art>
+</art>
   <!--
   $Log$
+versio 1.32 2023/04/24 15:27:45
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.31 2022/05/06 12:17:21
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2020/08/08 22:10:38
+Robin van der Vliet: ~vorto movita al vort.xml
+
+versio 1.28 2020/05/25 18:34:23
+Wolfram Diestel: +ekz-oj, -tajperaro
+
+versio 1.27 2020/05/08 10:10:14
+Eko Nur Syah Hidayat: +trd id
+
   Revision 1.25  2015/07/04 08:37:45  revo
   aldono de trd cs per skripto de M. von Laer
 
@@ -111,35 +154,5 @@
   aldono de trd sk per skripto de M. von Laer
 
   Revision 1.23  2014/07/01 16:10:16  revo
-  Eko Nur Syah Hidayat: +id
-
-  Revision 1.22  2012/01/28 03:10:07  revo
-  Sergio Pokrovskij: -tajperaro
-
-  Revision 1.21  2012/01/25 12:10:08  revo
-  Sergio Pokrovskij: rim, dif
-
-  Revision 1.20  2011/12/02 23:10:14  revo
-  Marc Rausell: kataluna traduko
-
-  Revision 1.19  2009/09/01 16:30:25  revo
-  Wieland Pusch: +trd bg
-
-  Revision 1.18  2009/09/01 04:54:19  revo
-  Emmanuel Debanne: +trd tr
-
-  Revision 1.17  2005/07/05 16:34:15  revo
-  Alan ar Gall: +trd br
-
-  Revision 1.16  2005/05/16 17:49:40  revo
-  Luiz Portella: +kor k ald trd pt
-
-  Revision 1.15  2003/04/29 16:31:32  revo
-  Allon Rothfarb: +trd he
-
-  Revision 1.14  2002/09/18 16:35:33  revo
-  Christopher Zervic: +trd ang
-
-  Revision 1.13  2002/08/09 19:32:56  revo
-  -->
+-->
 </vortaro>

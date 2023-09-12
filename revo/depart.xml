@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: depart.xml,v 1.15 2009/06/01 16:31:40 revo Exp $">
+<art mrk="$Id: depart.xml,v 1.21 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>departement</rad>/o <fnt><bib>PV</bib></fnt>
@@ -66,17 +65,31 @@
   <trdgrp lng="cs">
     <trd>departement ve Francii</trd>,
     <trd>odbor</trd>,
-    <trd>oddělení <klr>(úřadu / instituce)</klr></trd>
+    <trd>odd&#x11B;len&#xED; <klr>(&#xFA;&#x159;adu / instituce)</klr></trd>
   </trdgrp>
   <trd lng="es">departamento</trd>
   <trd lng="fr">d&eacute;partement</trd>
+  <trd lng="he">&#x5DE;&#x5B7;&#x5D7;&#x5DC;&#x5B8;&#x5E7;&#x5B8;&#x5D4;</trd>
   <trd lng="hu">megye</trd>
+  <trdgrp lng="ja">
+    <trd>&#x90E8;&#x9580;  [<ind>&#x3076;&#x3082;&#x3093;</ind>]</trd>,
+    <trd>&#x90E8;  [<ind>&#x3079;</ind>]</trd>,
+    <trd>&#x5C40;  [<ind>&#x3064;&#x307C;&#x306D;</ind>]</trd>,
+    <trd>&#x7701;  [<ind>&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5B66;&#x90E8;  [<ind>&#x304C;&#x304F;&#x3076;</ind>]</trd>,
+    <trd>&#x5B66;&#x79D1;  [<ind>&#x304C;&#x3063;&#x304B;</ind>]</trd>,
+    <trd>&#x770C;  [<ind>&#x3042;&#x304C;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">departament</trd>
   <trd lng="pt">departamento</trd>
   <trd lng="ru">&c_d;&c_je;&c_p;&c_a;&c_r;&c_t;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>odbor</trd>,
     <trd>oddelenie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x435;&#x43F;&#x430;&#x440;&#x442;&#x430;&#x43C;&#x435;&#x43D;&#x442;</trd>,
+    <trd>&#x432;&#x456;&#x434;&#x43E;&#x43C;&#x441;&#x442;&#x432;&#x43E;</trd>
   </trdgrp>
 </drv>
 </art>

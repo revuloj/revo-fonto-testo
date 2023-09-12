@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: stult.xml,v 1.29 2023/09/04 15:14:33 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>stult</rad>/a <fnt><bib>PV</bib></fnt>
@@ -29,6 +28,7 @@
     <trd>&c_n;&c_je;&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y;</trd>,
     <trd>&c_b;&c_ja;&c_z;&c_g;&c_l;&c_u;&c_z;&c_d;&c_y;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF63;&#xF92;&#xF74;&#xF42;&#xF66;&#xF0B;&#xF54;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>hloup&yacute;</trd>,
     <trd>pitom&yacute;</trd>,
@@ -55,6 +55,11 @@
     <trd>h&uuml;lye</trd>
   </trdgrp>
   <trd lng="it">stupido</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x920D;&#x306A;  [<ind>&#x3050;&#x3069;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x307E;&#x306C;&#x3051;&#x306E;</trd>,
+    <trd>&#x611A;&#x304B;&#x306A;  [<ind>&#x304A;&#x308D;&#x304B;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>stom</trd>,
     <trd>dom</trd>
@@ -68,7 +73,12 @@
     <trd>hl&uacute;py</trd>,
     <trd>sprost&yacute;</trd>
   </trdgrp>
-  <trd lng="tp">nasa</trd>
+  <trd lng="tok">nasa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_t;&c_u;&#x43F;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_g;&#x43B;&c_u;&c_z;&c_d;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stult.0i">
@@ -133,8 +143,18 @@
     <trd>h&uuml;lye dolog</trd>
   </trdgrp>
   <trd lng="it">stupidaggine</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x884C;  [<ind>&#x3050;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x305F;&#x308F;&#x8A00;  [<ind>&#x305F;&#x308F;&#x3054;&#x3068;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_g;&c_l;&c_u;&c_p;&c_o;&c_s;&c_t;&c_mol;<klr>
 (&c_p;&c_o;&c_s;&c_t;&c_u;&c_p;&c_o;&c_k;)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_r;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_d;&c_u;&c_r;&#x43D;&c_i;&c_c;&#x44F;</trd>,
+    <trd>&c_d;&c_u;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_g;&#x43B;&c_u;&c_z;&c_d;&c_i;&c_j; &c_v;&c_ch;&c_i;&#x43D;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stult.0eco">
@@ -173,7 +193,17 @@
     <trd>h&uuml;lyes&eacute;g</trd>
   </trdgrp>
   <trd lng="it">stupidit&agrave;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x920D;  [<ind>&#x3050;&#x3069;&#x3093;</ind>]</trd>,
+    <trd>&#x611A;&#x304B;&#x3055;  [<ind>&#x304A;&#x308D;&#x304B;&#x3055;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_g;&c_l;&c_u;&c_p;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_r;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_t;&c_u;&#x43F;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_g;&#x43B;&c_u;&c_z;&c_d;&#x44F;</trd>,
+    <trd>&c_r;&c_ib;&c_d;&#x43A;&#x43E; &c_g;&#x43B;&c_u;&#x43F;&#x43E;&c_t;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stult.0igi">
@@ -187,14 +217,14 @@
         <tld/>igu vin
         <fnt>
           <aut>trad. R. F&ouml;ssmeier</aut>,
-          <vrk><url
-          ref="http://foessmeier.de/reinhard/cetero/fortune/sprit">
+          <vrk><url ref="http://foessmeier.de/reinhard/cetero/fortune/sprit">
           sprit</url></vrk>,
           <lok>[2000]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_d;&c_u;&c_r;&c_n;&c_ja;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>ohlupovat</trd>,
     <trd>zpitomit</trd>
@@ -222,7 +252,7 @@
         <fnt>
           <aut>trad. T. T. Anuruddha</aut>,
           <vrk>La Vojo al Nirvano a&ubreve; la Dhammapado, 5:64</vrk>,
-          <lok>B&#7891;-T&aacute;t-Csoma-Instituto por Budhologio,
+          <lok>B&#x1ED3;-T&aacute;t-Csoma-Instituto por Budhologio,
           1973</lok>
         </fnt>.
       </ekz>
@@ -231,6 +261,13 @@
       <ref cel="idiot.0o">idioto</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_u;&c_r;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_jo;&c_l;&c_u;&c_p;</trd>,
+    <trd>&c_jo;&c_l;&c_u;&c_p;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_b;&c_a;&c_w;&c_d;&c_u;&c_r;</trd>,
+    <trd>&c_b;&c_a;&c_j;&c_d;&c_u;&c_r;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>blb</trd>,
     <trd>blbec</trd>,
@@ -242,10 +279,19 @@
   <trd lng="en">idiot</trd>
   <trd lng="fr">imb&eacute;cile<klr> (subst.)</klr></trd>
   <trd lng="it">stupido<klr> (sost.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x304B;&#x8005;  [<ind>&#x304A;&#x308D;&#x304B;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x307E;&#x306C;&#x3051;</trd>,
+    <trd>&#x305F;&#x308F;&#x3051;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>hlup&aacute;k</trd>,
     <trd>sprost&aacute;k</trd>,
     <trd>sprost&yacute; &ccaron;lovek</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_r;&c_je;&#x43D;&#x44C;</trd>,
+    <trd>&c_d;&c_u;&c_r;&c_i;&#x43B;&#x43E;</trd>
   </trdgrp>
 </drv>
 
@@ -293,6 +339,12 @@
 </art>
 <!--
 $Log$
+versio 1.28 2022/06/16 07:29:51
+Dmitri Gabinski: + trd be
+
+versio 1.27 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.23  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -309,8 +361,5 @@ Revision 1.19  2014/01/30 02:10:14  revo
 Jeromo Vasxe: + ~igi
 
 Revision 1.18  2012/09/07 00:10:08  revo
-David Paleino: traduko
-
-Revision 1.17  2007/01/12 17:30:47  revo
 -->
 </vortaro>

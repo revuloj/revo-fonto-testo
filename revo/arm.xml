@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: arm.xml,v 1.22 2010/09/02 16:30:26 revo Exp $">
+  <art mrk="$Id: arm.xml,v 1.41 2023/08/30 18:23:36 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>arm</rad>/o
@@ -18,11 +17,12 @@
           <ekz>
             sur la stratoj videblis <tld/>itaj soldatoj kaj policanoj
             <fnt>
-              <bib>Monato</bib>
-              <vrk><url
-              ref='http://www.esperanto.be/fel/mon/007140.html'>de
-              Julian Modest</url></vrk>
-            </fnt>;
+
+          <aut>Julian Modest</aut>
+          <vrk><url ref="&Monato;/2001/007140.html">Vetiha</url></vrk>
+           <bib>Monato</bib>
+          <lok>2001/02, p. 26</lok>
+        </fnt>;
           </ekz>
 	  <ekz>
 	    <tld/>i soldatojn per pafiloj;
@@ -32,10 +32,10 @@
           <ekz>
             soldatoj <tld/>itaj &gcirc;isdente
             <fnt>
-              <bib>Monato</bib>
-              <vrk><url
-              ref='http://www.esperanto.be/fel/mon/007205.html'>Kosovo:
+            <bib>Monato</bib>
+              <vrk><url ref="&Monato;/2001/007205.html">Kosovo:
               Voja&gcirc;impresoj, somero 2000</url></vrk>
+
             </fnt>;
           </ekz>
           <ekz>
@@ -47,8 +47,9 @@
           </ekz>
 	</dif>
         <ref tip="vid" cel="arme.0o">armeo</ref>
+        <trd lng="be">&c_u;&c_z;&c_b;&c_r;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
 	<trdgrp lng="de">
-	  <trd>bewaffnen</trd>, 
+	  <trd>bewaffnen</trd>,
           <trd>r&uuml;sten</trd>,
           <trd>ausr&uuml;sten</trd>,
           <trd>wappnen</trd>
@@ -70,7 +71,10 @@
 	    per ne<tld/>ita <klr>(nuda, senlorna)</klr> okulo<fnt>B</fnt>.
 	  </ekz>
 	</dif>
-	<trd lng="be">&c_u;&c_z;&c_b;&c_r;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+<trdgrp lng="be">
+  <trd>&c_u;&c_z;&c_m;&c_a;&c_c;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+  <trd>&c_a;&c_r;&c_m;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+</trdgrp>
 	<trdgrp lng="de">
 	  <trd>armieren</trd>,
 	  <trd>r&uuml;sten</trd>
@@ -88,12 +92,21 @@
         <trd>zbrojit</trd>
       </trdgrp>
       <trd lng="fr">armer</trd>
-      <trd lng="it">armare</trd>
-      <trdgrp lng="sk">
+      <trd lng="he">&#x5DB;&#x5DC;&#x5D9; &#x5E0;&#x5E9;&#x5E7;</trd>
+  <trd lng="it">armare</trd>
+      <trdgrp lng="ja">
+    <trd>&#x6B66;&#x88C5;&#x3055;&#x305B;&#x308B;  [<ind>&#x3076;&#x305D;&#x3046;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x88C5;&#x7532;&#x3059;&#x308B;  [<ind>&#x305D;&#x3046;&#x3053;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
         <trd>ozbroji&tcaron;</trd>,
         <trd>ozbroji&tcaron;, vyzbroji&tcaron;</trd>
       </trdgrp>
-    </drv>
+      <trdgrp lng="uk">
+    <trd>&#x43E;&c_z;&c_b;&c_r;&#x43E;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_a;&c_r;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="arm.0o">
       <kap><tld/>o<fnt>Z</fnt></kap>
@@ -110,6 +123,7 @@
 	  Tia uzo de la vorto <tld/>o estas tre malofta, kvankam Zamenhofa.
 	</rim>
       </snc>
+      <trd lng="be">&c_z;&c_b;&c_r;&c_o;&c_ja;</trd>
       <trdgrp lng="cs">
         <trd>ozbrojen&iacute;</trd>,
         <trd>zbra&ncaron;</trd>
@@ -118,9 +132,11 @@
     	<trd>Waffe</trd>, <trd>R&uuml;stzeug</trd>
           </trdgrp>
       <trd lng="es">arma</trd>
-      <trd lng="hu">fegyver</trd>
+      <trd lng="he">&#x5E0;&#x5B6;&#x5E9;&#x5C1;&#x5B6;&#x5E7;</trd>
+  <trd lng="hu">fegyver</trd>
       <trd lng="it">arma</trd>
-      <trdgrp lng="ru">
+      <trd lng="ja">&#x6B66;&#x5668;  [<ind>&#x3076;&#x304D;</ind>]</trd>
+  <trdgrp lng="ru">
     	<trd>&c_v;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
     	<trd>&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</trd>
           </trdgrp>
@@ -134,8 +150,7 @@
         <uzo tip="fak">MIL</uzo>
 	<dif>
 	  &Ccirc;iuspeca ilo, uzebla por atake <ref cel="vund.0i">vundi</ref>,
-	  <ref cel="mort.0igi">mortigi</ref>, detrui, <ref
-	  cel="minac.0i">minaci</ref>
+	  <ref cel="mort.0igi">mortigi</ref>, detrui, <ref cel="minac.0i">minaci</ref>
 	  pri tia atako, a&ubreve; <ref cel="defend.0i">defendi</ref>
 	  kontra&ubreve; &gcirc;i:
 	  <ekz>
@@ -170,11 +185,17 @@
       <trd lng="de">Waffe</trd>
       <trd lng="es">arma</trd>
       <trd lng="fr">arme</trd>
+      <trd lng="he">&#x5E0;&#x5B6;&#x5E9;&#x5C1;&#x5B6;&#x5E7;</trd>
       <trd lng="hu">fegyver</trd>
       <trd lng="it">arma</trd>
-      <trd lng="ru">&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</trd>
+      <trdgrp lng="ja">
+    <trd>&#x6B66;&#x5668;  [<ind>&#x3076;&#x304D;</ind>]</trd>,
+    <trd>&#x5175;&#x5668;  [<ind>&#x3078;&#x3044;&#x304D;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</trd>
       <trd lng="sk">zbra&ncaron;</trd>
-    </drv>
+      <trd lng="uk">&c_z;&c_b;&c_r;&#x43E;&#x44F;</trd>
+</drv>
 
     <drv mrk="arm.0ilaro">
       <kap><tld/>ilaro</kap>
@@ -196,7 +217,7 @@
 	<ref tip="vid" cel="arsena.0o.armilaro">arsenalo</ref>
       </snc>
       <trdgrp lng="be">
-    	<trd>&c_r;&c_y;&c_sh;&c_t;&c_u;&c_n;&c_a;&c_k;</trd>, 
+    	<trd>&c_r;&c_y;&c_sh;&c_t;&c_u;&c_n;&c_a;&c_k;</trd>,
     	<trd>&c_u;&c_z;&c_b;&c_r;&c_a;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
           </trdgrp>
       <trdgrp lng="cs">
@@ -226,8 +247,8 @@
 	<dif>
 	  Provizejo de <tld/>iloj:
 	  <ekz>
-	    <nom>&Hcirc;izkija</nom> <klr>[&#8230;]</klr> montris al ili sian trezorejon
-	    <klr>[&#8230;]</klr> kaj sian tutan <tld/>ilejon
+	    <nom>&Hcirc;izkija</nom> <klr>[&#x2026;]</klr> montris al ili sian trezorejon
+	    <klr>[&#x2026;]</klr> kaj sian tutan <tld/>ilejon
 	    <fnt><bib>MT</bib>, <lok>&Re2; 21:13</lok></fnt>;
 	  </ekz>
           <ekz>
@@ -238,6 +259,10 @@
 	</dif>
 	<ref tip="sin" cel="arsena.0o.armilejo">arsenalo</ref>
       </snc>
+      <trdgrp lng="be">
+        <trd>&c_z;&c_b;&c_r;&c_o;&c_j;&c_n;&c_ja; <klr tip="amb">(&c_s;&c_k;&c_l;&c_a;&c_d;)</klr></trd>,
+        <trd>&c_a;&c_r;&c_s;&c_e;&c_n;&c_a;&c_l;</trd>
+      </trdgrp>
       <trd lng="cs">zbrojnice</trd>
       <trd lng="de">Waffenkammer</trd>
       <trdgrp lng="es">
@@ -245,18 +270,27 @@
             <trd>arsenal</trd>
           </trdgrp>
       <trd lng="fr">armurerie</trd>
-      <trdgrp lng="hu">
+      <trd lng="he">&#x5E0;&#x5B4;&#x5E9;&#x5C1;&#x5E7;&#x5B4;&#x5D9;&#x5B8;&#x5D4;</trd>
+  <trdgrp lng="hu">
     	<trd>fegyvert&aacute;r</trd>,
     	<trd>fegyverrakt&aacute;r</trd>,
     	<trd>fegyverszoba</trd>
           </trdgrp>
       <trd lng="it">armeria</trd>
-      <trdgrp lng="ru">
+      <trdgrp lng="ja">
+    <trd>&#x6B66;&#x5668;&#x5EAB;  [<ind>&#x3076;&#x304D;&#x3053;</ind>]</trd>,
+    <trd>&#x5175;&#x5668;&#x5EAB;  [<ind>&#x3078;&#x3044;&#x304D;&#x3053;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
     	<trd>&c_a;&c_r;&c_s;&c_je;&c_n;&c_a;&c_l;</trd>,
     	<trd>&c_s;&c_k;&c_l;&c_a;&c_d; &c_o;&c_r;&c_u;&c_zh;&c_i;&c_ja;</trd>
           </trdgrp>
       <trd lng="sk">zbrojnica</trd>
-    </drv>
+      <trdgrp lng="uk">
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d; &c_z;&c_b;&c_r;&#x43E;&c_ji;</trd>,
+    <trd>&c_a;&c_r;&c_s;&c_je;&#x43D;&c_a;&#x43B;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="arm.0ajxo">
       <kap><tld/>a&jcirc;o</kap>
@@ -276,6 +310,10 @@
 	  <ref cel="kiras.0o">kiraso</ref>,
 	  <ref cel="sxild.0o">&scirc;ildo</ref>
 	</refgrp>
+<trdgrp lng="be">
+  <trd>&c_b;&c_r;&c_o;&c_n;&c_mol;</trd>,
+  <trd>&c_p;&c_a;&c_n;&c_c;&c_y;&c_r;</trd>
+</trdgrp>
 	<trd lng="de">R&uuml;stung</trd>
 	<trd lng="es">blindaje</trd>
 	<trd lng="fr">armure</trd>
@@ -294,12 +332,19 @@
 	  kablon kaj protekti &gcirc;in kontra&ubreve; me&hcirc;anikaj
 	  dama&gcirc;oj.
 	</dif>
+<trd lng="be">&c_a;&c_p;&c_l;&c_jo;&c_t;&c_k;&c_a; <klr>(&c_k;&c_a;&c_b;&c_e;&c_l;&c_ja;)</klr></trd>
 	<trd lng="es">armadura<klr tip="ind"> (de un cable)</klr></trd>
 	<trd lng="fr">armature<klr tip="ind"> (d'un c&acirc;ble)</klr></trd>
 	<trd lng="hu">k&aacute;belp&aacute;nc&eacute;l</trd>
         <trd lng="it">armatura</trd>
       </snc>
-    </drv>
+      <trd lng="he">&#x5E9;&#x5C1;&#x5B4;&#x5E8;&#x5D9;&#x5D5;&#x5B9;&#x5DF;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7532;&#x5191;  [<ind>&#x304B;&#x3063;&#x3061;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x3088;&#x308D;&#x3044;&#x304B;&#x3076;&#x3068;</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43E;&c_b;&#x43B;&c_a;&c_d;&c_u;&#x43D;&#x43E;&#x43A;</trd>
+</drv>
 
     <drv mrk="arm.mal0isen0igi">
       <kap>mal<tld/>i,
@@ -336,15 +381,14 @@
             <klr>(mi tute fidis lin, perdinte &ccirc;ian kontra&ubreve;staron,
             singardon)</klr>
             <fnt>
-              <vrk><url
-              ref='http://miresperanto.com/biblioteko/hhristovski/23.htm'>23
+              <vrk><url ref="http://miresperanto.com/biblioteko/hhristovski/23.htm">23
               - miresperanto.com</url></vrk>
             </fnt>.
           </ekz>
 	</dif>
       </snc>
       <trdgrp lng="be">
-	<trd>&c_a;&c_b;&c_ja;&c_z;&c_z;&c_b;&c_r;&c_o;&c_ib;&c_c;&c_mol;</trd>, 
+	<trd>&c_a;&c_b;&c_ja;&c_z;&c_z;&c_b;&c_r;&c_o;&c_ib;&c_c;&c_mol;</trd>,
 	<trd>&c_r;&c_a;&c_z;&c_z;&c_b;&c_r;&c_o;&c_ib;&c_c;&c_mol;</trd>
       </trdgrp>
       <trd lng="de">entwaffnen</trd>
@@ -356,12 +400,14 @@
 	<trd>leszerel</trd>
       </trdgrp>
       <trd lng="it">disarmare</trd>
-      <trdgrp lng="ru">
+      <trd lng="ja">&#x6B66;&#x88C5;&#x89E3;&#x9664;&#x3059;&#x308B;  [<ind>&#x3076;&#x305D;&#x3046;&#x304B;&#x3044;&#x3058;&#x3087;&#x3059;&#x308B;</ind>]</trd>
+  <trdgrp lng="ru">
 	<trd>&c_r;&c_a;&c_z;&c_o;&c_r;&c_u;&c_zh;&c_a;&c_t;&c_mol;</trd>,
 	<trd>&c_o;&c_b;&c_je;&c_z;&c_o;&c_r;&c_u;&c_zh;&c_i;&c_t;&c_mol;</trd>
       </trdgrp>
       <trd lng="sk">odzbroji&tcaron;</trd>
-    </drv>
+      <trd lng="uk">&c_r;&#x43E;&c_z;&c_z;&c_b;&c_r;&#x43E;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
 
     <drv mrk="arm.sxirm0o">
       <kap>&scirc;irm<tld/>o</kap>
@@ -376,6 +422,10 @@
 	(kiamaniere -a&jcirc;o povas komuniki la ideon pri defendo?).
 	<aut>Sergio Pokrovskij</aut>
       </rim>
+      <trdgrp lng="be">
+  <trd>&c_b;&c_r;&c_o;&c_n;&c_mol;</trd>,
+  <trd>&c_p;&c_a;&c_n;&c_c;&c_y;&c_r;</trd>
+</trdgrp>
     </drv>
 
     <drv mrk="arm.amasdetrua0ilo">
@@ -398,6 +448,7 @@
 	  </ekz>
 	</dif>
       </snc>
+      <trd lng="be">&c_z;&c_b;&c_r;&c_o;&c_ja; &c_m;&c_a;&c_s;&c_a;&c_v;&c_a;&c_g;&c_a; &c_z;&c_mol;&c_n;&c_ib;&c_sh;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ja;</trd>
       <trd lng="cs">zbra&ncaron; hromadn&eacute;ho ni&ccaron;en&iacute;</trd>
       <trd lng="de">Massenvernichtungswaffe</trd>
       <trd lng="en">weapon of mass destruction</trd>
@@ -414,6 +465,18 @@
   </art>
   <!--
   $Log$
+versio 1.40 2023/07/24 12:47:04
+Dmitri Gabinski: + trd be
+
+versio 1.39 2023/03/29 12:51:52
+Paul Peeraerts: &Monato;
+
+versio 1.36 2021/11/04 18:35:51
+Dmitri Gabinski: + trd be
+
+versio 1.35 2021/05/30 06:24:24
+Wolfram Diestel: -trd
+
   Revision 1.30  2018/08/11 17:10:13  revo
   Guillermo Molleda Jimena: trd es
 
@@ -423,58 +486,5 @@
 
   Revision 1.28  2015/07/04 08:37:30  revo
   aldono de trd cs per skripto de M. von Laer
-
-  Revision 1.27  2015/06/29 16:39:29  revo
-  aldono de trd sk per skripto de M. von Laer
-
-  Revision 1.26  2015/06/28 12:03:35  revo
-  aldono de trd sk per skripto de M. von Laer
-
-  Revision 1.25  2013/10/11 18:10:11  revo
-  Wolfram Diestel: kor. ref-cel
-
-  Revision 1.24  2012/02/18 10:10:09  revo
-  Carlos Garcia: +trd es -ejo -i sen-i amasdetrua -ilo
-
-  Revision 1.23  2012/02/04 18:10:10  revo
-  Antonio Codazzi: +trd it
-
-  Revision 1.22  2010/09/02 16:30:26  revo
-  Jeromo Vasxe: - kramp, + fak mil
-
-  Revision 1.21  2007/05/30 16:31:18  revo
-  Wieland Pusch: +trd de
-
-  Revision 1.20  2006/09/22 12:27:53  revo
-  Wolfram Diestel: +tezrad(MIL)
-
-  Revision 1.19  2006/04/17 16:33:34  revo
-  Wieland Pusch: +trd de
-
-  Revision 1.18  2003/04/12 16:31:56  revo
-  Sergio Pokrovskij: +amasdetrua ~ilo
-
-  Revision 1.17  2003/01/09 21:01:18  revo
-  Wieland Pusch: Germane por armilo (WP)
-
-  Revision 1.16  2002/10/23 20:37:40  revo
-  aktualigo de malnovaj fnt-indikoj enkondukante <bib>
-
-  Revision 1.15  2002/10/14 16:33:05  revo
-  Jozefo Horvath: trd hu mi elprenis el trd ru
-
-  Revision 1.14  2002/09/25 16:32:12  revo
-  Jozefo Horvath: +trd hu, ostoj pecoj > ostopecoj
-
-  Revision 1.13  2002/09/09 19:49:04  revo
-  Viliam Bur: +trd sk
-
-  Revision 1.12  2002/05/15 16:43:23  revo
-  Alejandro Mejia Greene: ald 3 his trd
-
-  Revision 1.11  2002/03/26 17:31:40  revo
-  Zmicier Lapcionak: + trd be
-
-  Revision 1.10  2002/01/28 17:31:20  revo
-  -->
+-->
 </vortaro>

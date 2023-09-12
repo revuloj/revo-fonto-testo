@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: heksae.xml,v 1.19 2009/09/04 16:30:34 revo Exp $">
+<art mrk="$Id: heksae.xml,v 1.22 2023/08/31 15:46:15 revo Exp $">
 <kap>
   <rad>heksaedr</rad>/o
 </kap>
@@ -21,8 +20,7 @@
         heptamolibdenato
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=530268"
-              >Amonia heptamolibdenato</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=530268">Amonia heptamolibdenato</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -46,6 +44,7 @@
     <trd>kocka</trd>
   </trdgrp>
   <trd lng="it">esaedro</trd>
+  <trd lng="ja">&#x516D;&#x9762;&#x4F53;  [<ind>&#x308D;&#x304F;&#x3081;&#x3093;&#x305F;&#x3044;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>hexa&euml;der</trd>,
     <trd>zesvlak</trd>
@@ -58,6 +57,11 @@
   <trdgrp lng="ru">
     <trd>&c_g;&c_je;&c_k;&c_s;&c_a;&c_e;&c_d;&c_r;</trd>,
     <trd>&c_sh;&c_je;&c_s;&c_t;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x443;&#x431;</trd>,
+    <trd>&#x433;&#x435;&#x43A;&#x441;&#x430;&#x435;&#x434;&#x440;</trd>,
+    <trd>&#x448;&#x435;&#x441;&#x442;&#x438;&#x433;&#x440;&#x430;&#x43D;&#x43D;&#x438;&#x43A;</trd>
   </trdgrp>
 </drv>
 </art>

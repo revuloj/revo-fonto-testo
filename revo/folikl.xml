@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: folikl.xml,v 1.13 2010/11/19 17:30:42 revo Exp $">
+<art mrk="$Id: folikl.xml,v 1.19 2023/08/31 13:11:30 revo Exp $">
 <kap><rad>folikl</rad>/o</kap>
 <drv mrk="folikl.0o">
   <kap><tld/>o</kap>
@@ -61,15 +60,25 @@
     <trd lng="de">Follikel</trd>
     <trd lng="nl">follikel</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_a;&c_l;&c_ib;&c_k;&c_u;&c_l;</trd>,
+    <trd>&c_m;&c_ja;&c_sh;&c_e;&c_ch;&c_a;&c_k; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;., &c_b;&c_a;&c_t;.)</klr></trd>,
+    <trd>&c_t;&c_o;&c_r;&c_b;&c_a;&c_ch;&c_k;&c_a; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;., &c_b;&c_a;&c_t;.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>folikul</trd>,
-    <trd>míšek</trd>,
-    <trd>měchýřek</trd>,
-    <trd>váček</trd>
+    <trd>m&#xED;&scaron;ek</trd>,
+    <trd>m&#x11B;ch&#xFD;&rcaron;ek</trd>,
+    <trd>v&#xE1;&#x10D;ek</trd>
   </trdgrp>
   <trd lng="fr">follicule</trd>
   <trd lng="hu">t&uuml;sz&odblac;</trd>
   <trd lng="it">follicolo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x888B;&#x679C;  [<ind>&#x305F;&#x3044;&#x304B;</ind>]</trd>,
+    <trd>&#x5C0F;&#x80DE;  [<ind>&#x3057;&#x3087;&#x3046;&#x307B;&#x3046;</ind>]</trd>,
+    <trd>&#x6FFE;&#x80DE;  [<ind>&#x308D;&#x307B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">torebka</trd>
   <trdgrp lng="ru">
     <trd>&c_f;&c_o;&c_l;&c_l;&c_i;&c_k;&c_u;&c_l;&c_a;</trd>,
@@ -78,12 +87,22 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>folikul</trd>,
-    <trd>miešok</trd>
+    <trd>mie&scaron;ok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_i;&c_s;&c_t;&#x44F;&#x43D;&#x43A;&c_a; (&c_r;&c_ib;&c_z;&#x43D;&#x43E;&c_v;&c_i;&c_d; &c_s;&c_u;&c_h;&#x43E;&c_g;&#x43E;
+    &#x43F;&#x43B;&#x43E;&c_d;&c_u;)</trd>,
+    <trd>&#x43C;&c_ib;&c_sh;&c_je;&c_ch;&#x43E;&#x43A;</trd>,
+    <trd>&c_v;&c_u;&c_z;&#x43B;&c_i;&#x43A;</trd>,
+    <trd>&c_f;&#x43E;&#x43B;&c_ib;&#x43A;&c_u;&#x43B;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2023/03/28 12:49:52
+Dmitri Gabinski: + trd be
+
 Revision 1.15  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -103,11 +122,5 @@ Revision 1.10  2002/11/26 17:31:17  revo
 Paul Peeraerts: ald trd nl + fr + belarangho
 
 Revision 1.9 2002/11/14 17:32:04 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8 2001/10/09 18:45:05 revo
-Jerome Vachey: vizikecaj - vezikecaj
-
-Revision 1.7 2001/09/06 18:12:47 revo
 -->
 </vortaro>

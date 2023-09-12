@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fi.xml,v 1.16 2010/05/31 16:30:20 revo Exp $">
+<art mrk="$Id: fi.xml,v 1.45 2023/09/11 06:28:08 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
-  <rad>fi</rad> 
+  <rad>fi</rad>
 </kap>
 <subart>
 
@@ -19,12 +18,10 @@
         <ind><tld/> al vi!</ind>
 	<trd lng="en">shame on you!</trd>
 	<trd lng="hu">sz&eacute;gyeld magad!</trd>
-      </ekz>
-      <ekz>
+      </ekz><ekz>
 	<tld/>, kiel abomene!
 	<fnt><bib>F</bib>, <lok>Ekzercaro, &para; 26</lok></fnt>!
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <tld/> al la sensuka tempa&gcirc;o de kastritoj, kiu ta&ubreve;gas por nenio, nur por
         rema&ccirc;adi la farojn de la anta&ubreve;a tempo
         <fnt>
@@ -34,13 +31,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_ib;!</trd>,
+    <trd>&c_f;&c_u;!</trd>,
+    <trd>&c_c;&c_mol;&c_h;&c_u;!</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>fuj</trd>,
     <trd>jak nevhodn&eacute; slovo</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>pfui!</trd>,
-    <trd>ih!</trd>
+    <trd>ih!</trd>,
+    <trd>igitt!</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>fie!</trd>,
@@ -54,6 +57,7 @@
     <trd>pouah!</trd>
   </trdgrp>
   <trd lng="hu">pfuj!</trd>
+  <trd lng="ja">&#12481;&#12455;&#12483;&#65281;</trd>
   <trd lng="nl">foei</trd>
   <trdgrp lng="pt">
     <trd>fu</trd>,
@@ -76,34 +80,36 @@
 </drv>
 </subart>
 
-
 <subart>
-<drv mrk="fi.0.prefikso">
+<drv mrk="fi.0_">
   <kap><tld/>-</kap>
-  <snc>
+  <snc mrk="fi.0_.prefikso">
     <dif>
       <ref tip="dif" cel="prefik.0o">Prefikso</ref> esprimanta malestimon:
       <ekz>
-        la malbenita <ind><tld/>komercisto</ind> <nom>Abdulin</nom>: li vidas, ke la urbestro havas malnovan
+        la malbenita <ind><tld/>komercisto</ind> <nom>Abdulin</nom>: li vidas, ke la urbestro havas
+        malnovan
         spadon, li tamen ne sendis novan
         <fnt>
           <bib>Revizoro</bib>
           <lok>Akto unua</lok>
         </fnt>;
-        <trd lng="de">dubioser Gesch&auml;ftsmann</trd>
+        <trdgrp lng="de">
+          <trd>windiger Gesch&auml;ftsmann</trd>,
+          <trd>unseri&ouml;ser Gesch&auml;ftsmann</trd>,
+          <trd>unseri&ouml;ser H&auml;ndler</trd>
+        </trdgrp>
         <trd lng="es">comerciante mezquino</trd>
         <trd lng="fr">mercanti</trd>
         <trd lng="hu">nyer&eacute;szked&odblac;</trd>
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <ind><tld/>bu&scirc;o</ind>;
         <trd lng="vo">lumud</trd>
         <trd lng="en">dirty mouth</trd>
         <trd lng="de">Schandmaul</trd>
         <trd lng="es">malhablado</trd>
         <trd lng="hu">mocskos sz&aacute;j</trd>
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         aperis multego da <ind><tld/>insektoj</ind>
         <fnt>
           <bib>MT</bib>
@@ -114,40 +120,38 @@
         <trd lng="es">plaga</trd>
         <trd lng="fr">insecte nuisible</trd>
         <trd lng="hu">f&eacute;reg<klr tip="ind"> (k&aacute;rt&eacute;kony rovar)</klr></trd>
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         senkulpigi sin mem per <tld/>agoj de aliaj
         <fnt>
+        <aut>Stefan Maul</aut>
+
+          <vrk><url ref="&Monato;/1995/A950301.php">Malbonaj konsciencoj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9503-el-mia-vidpunkto.txt"
-              >El Mia Vidpunkto</url></vrk>
+          <lok>1995/03, p. 5</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         tiu &ccirc;i fiago estas nur unu en longa &ccirc;eno de tiaj brutala&jcirc;oj
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Maul Stefan</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006929.html"
-              >Germanio: Brutalaj dekstruloj</url></vrk>
+        <fnt><aut>Stefan Maul</aut>,
+        <vrk><url ref="&Monato;/2000/006929.php">Brutalaj dekstruloj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/04, p. 6</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         modernaj kurieroj estas &jcirc;urnalistoj, kaj se ili povus, anka&ubreve; nunaj registoj
         senkapigus tiujn <tld/>homojn, se ili informas la publikon pri <tld/>agoj de
         politikistoj
         <fnt>
+       <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2000/006899.php">Estimataj gelegantoj,</url></vrk>
           <bib>Monato</bib>
-          <aut>Stefan Maul</aut>
-          <lok><url ref="http://steloj.de/esperanto/monato2/006899.html"
-              >http://steloj.de/esperanto/monato2/006899.html</url></lok>
+          <lok>2000/03, p. 3</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <rim mrk="fi.0.RIM">
-    Prefikseca <em><tld/>-</em> kaj la sufikso <ref tip="sin"
-    cel="acx">-a&ccirc;</ref> estas similaj kaj povas en multaj okazoj esti
+    Prefikseca <em><tld/>-</em> kaj la sufikso <ref tip="sin" cel="acx">-a&ccirc;</ref> estas similaj kaj
+    povas en multaj okazoj esti
     preska&ubreve; indiferente uzataj. Ili tamen diferencas inter si per
     tio, ke <em>-a&ccirc;</em> estas prefere objektiva, dum <em><tld/>-</em>
     estas prefere subjektiva; <em>-a&ccirc;</em> povas montri simple, ke iu
@@ -155,7 +159,10 @@
     opinias &gcirc;in tia; <em><tld/>-</em> esprimas negativan ju&gcirc;on el
     morala vidpunkto:
     <ekz>
-      &ccirc;evala&ccirc;o ne estas <tld/>a &ccirc;evalo, sed tre malfeli&ccirc;a;
+      &ccirc;evala&ccirc;o ne estas <tld/>a &ccirc;evalo, sed tre malfeli&ccirc;a
+      <fnt><aut>Maria Nemirow-Zi&oacute;lkowska</aut>:
+        <vrk>Esperanto dla wszystkich</vrk>.
+        <lok>Warszawa, 1965; lekcja 29, p. 41</lok></fnt>;
     </ekz>
     <ekz>
       tiu <tld/>ulo estas tre lerta kaj bela viro.
@@ -186,75 +193,82 @@
       </refgrp>:
       <ekz>
         populara kuracisto, <tld/>a murdisto
-        <fnt>
+       <fnt>
+       <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2000/006872.php">Doktoro Morto</url></vrk>
           <bib>Monato</bib>
-          <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006872.html"
-              >Britio: Doktoro Morto</url></vrk>
+          <lok>2000/05, p. 11</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         atesta&jcirc;oj pri korupto, kompliceco kaj ka&scirc;ado de misa kaj <tld/>a konduto
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007075.html"
-              >Pa&scirc;oj al purigado</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007075.php">Pa&scirc;oj al purigado</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 8</lok>
+          </fnt>;
+      </ekz><ekz>
 	jen la terure malbela <tld/>a flanko de l' afero
 	<fnt>
 	  <aut>H. Harrison, trad. W. Auld</aut>,
 	  <vrk>La stratoj de A&scirc;kelono</vrk>,
           <lok>1994</lok>
 	</fnt>;
-      </ekz>
-      <ekz>
-        li estis kondamnita je morto en <tld/>a pse&ubreve;doproceso gvidita de &leftquot;furioza
-        Rolando&#8221;
+      </ekz><ekz>
+        li estis kondamnita je morto en <tld/>a pse&ubreve;doproceso gvidita
+        de &leftquot;furioza Rolando&#8221;
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="https://www.monato.net/2009/009823.php"
-              >Postaj tempoj eble pli bone komprenos min</url></vrk>
+          <vrk><url ref="&Monato;/2009/009823.php">Postaj tempoj eble pli bone
+          komprenos min</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         fruaj viktimoj de la plej <tld/>a re&gcirc;imo en la homa historio
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref="https://www.monato.net/2011/000101.php"
-              >Kvaza&ubreve; &ccirc;io dependus de mi</url></vrk>
+          <vrk><url ref="&Monato;/2011/000101.php">Kvaza&ubreve; &ccirc;io dependus de
+          mi</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
-        tio estas <tld/>a kalumnio, kiun tre lerte organizis liaj kontra&ubreve;uloj, kiuj
-        deziras ruinigi lian vivon kaj neniigi lin
+      </ekz><ekz>
+        tio estas <tld/>a kalumnio, kiun tre lerte organizis liaj
+        kontra&ubreve;uloj, kiuj deziras ruinigi lian vivon kaj neniigi lin
         <fnt>
           <bib>Monato</bib>
           <aut>Julian Modest</aut>
-          <vrk><url ref="https://www.monato.net/2012/010807.php"
-              >La memmortigo de Tanja</url></vrk>
+          <vrk><url ref="&Monato;/2012/010807.php">La memmortigo de Tanja</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
        ne trovi&gcirc;as akuzo, ekde la rabado, &gcirc;is
        la patromurdo, a&ubreve; de la vanteco &gcirc;is la plej <tld/>a
        krueleco, kiu ne trafus ilin tute prave
        <fnt><bib>SatirRak</bib>, <vrk>Logos</vrk></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <tld/>a nuanco, senco, tono.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_g;&c_ib;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_ja;&c_r;&c_z;&c_o;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_r;&c_y;&c_d;&c_k;&c_ib;</trd>,
+    <trd>&c_g;&c_a;&c_n;&c_je;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ib;&c_z;&c_k;&c_ib;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_l;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>b&iacute;dn&yacute;</trd>,
     <trd>hanebn&yacute;</trd>,
     <trd>mrzk&yacute;</trd>,
     <trd>ni&ccaron;emn&yacute;</trd>,
     <trd>podl&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>b&ouml;se</trd>,
+    <trd>fies</trd>,
+    <trd>schlecht</trd>,
+    <trd>unmoralisch</trd>,
+    <trd>gemein</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>reprehensible</trd>,
@@ -281,6 +295,10 @@
     <trd>ocsm&aacute;ny</trd>,
     <trd>gal&aacute;d</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#19979;&#21155;&#12394;  [<ind>&#12375;&#12383;&#12362;&#12392;&#12394;</ind>]</trd>,
+    <trd>&#12356;&#12420;&#12425;&#12375;&#12356;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>verfoeilijk</trd>,
     <trd>kwalijk</trd>,
@@ -292,14 +310,21 @@
   <trdgrp lng="ru">
     <trd>&c_m;&c_je;&c_r;&c_z;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_g;&c_a;&c_d;&c_k;&c_i;&c_j;</trd>,
-    <trd>&c_p;&c_r;&c_je;&c_z;&c_r;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_l;&c_y;&c_j;</trd>,
     <trd>&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sk">hanebn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_je;&c_r;&c_z;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_r;&c_i;&c_d;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_i;&c_d;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_g;&c_ib;&c_d;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_ib;&c_k;&c_ch;&c_je;&c_m;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fi.0ajxo">
-  <kap><tld/>a&jcirc;o<fnt><bib>MT</bib></fnt></kap>
+  <kap><tld/>a&jcirc;o <fnt><bib>MT</bib></fnt></kap>
   <snc>
     <dif>
       <tld lit="F"/>a ago a&ubreve; abomeninda objekto:
@@ -310,42 +335,54 @@
           <bib>MT</bib>
           <lok>Je&hcirc;ezkel 5:11</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         virino ne stari&gcirc;u anta&ubreve; bruto, por kuni&gcirc;i: tio estas <tld/>a&jcirc;o
         <fnt>
           <bib>MT</bib>
           <lok>Levidoj 18:23</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         li trinkis la spican elbarela&jcirc;on de plezuro, ke li forgesu la <tld/>a&jcirc;ojn kiujn
         li &ccirc;i tie faris
         <fnt>
           <bib>Fab4</bib>
           <lok>Turgardisto Ole</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         decidi referendumon sen averti siajn e&ubreve;ropajn kolegojn estas <tld/>a&jcirc;o
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.net/2004/008335.html"
-              >Konstitucio &ccirc;u la civitanoj decidu?</url></vrk>
+          <vrk><url ref="&Monato;/2004/008335.html">Konstitucio &ccirc;u la civitanoj
+          decidu?</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         &gcirc;oju, ke post viaj <tld/>a&jcirc;oj vi vivis tiel meritige
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.net/2007/009218.php"
-              >Modernantikvaj fabeloj</url></vrk>
+          <vrk><url ref="&Monato;/2007/009218.php">Modernantikvaj fabeloj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_y;&c_d;&c_o;&c_t;&c_a; <klr>(&c_n;&c_je;&c_sh;&c_t;&c_a;)</klr></trd>,
+    <trd>&c_m;&c_ja;&c_r;&c_z;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_g;&c_ib;&c_d;&c_o;&c_c;&c_mol;&c_c;&c_je;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol; <klr>(&c_u;&c_ch;&c_y;&c_n;&c_a;&c_k;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gemeinheit</trd>,
+    <trd>Niedertr&auml;chtigkeit</trd>,
+    <trd>Erb&auml;rmlichkeit</trd>,
+    <trd>Frechheit</trd>,
+    <trd>Sch&auml;bigkeit</trd>,
+    <trd>Sauerei</trd>,
+    <trd>Ferkelei</trd>,
+    <trd>Schund</trd>,
+    <trd>Dreckszeug</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>bajeza</trd>,
     <trd>vileza</trd>
@@ -358,7 +395,18 @@
     <trd>aljas tett</trd>,
     <trd>gal&aacute;ds&aacute;g</trd>
   </trdgrp>
-  <trd lng="ru">&c_p;&c_o;&c_d;&c_l;&c_o;&c_s;&c_t;&c_mol; <klr>(&c_p;&c_o;&c_s;&c_t;&c_u;&c_p;&c_o;&c_k;)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#27738;&#12356;&#29289;  [<ind>&#12365;&#12383;&#12394;&#12356;&#12406;&#12388;</ind>]</trd>,
+    <trd>&#27738;&#12356;&#35328;&#33865;  [<ind>&#12365;&#12383;&#12394;&#12356;&#12371;&#12392;&#12400;</ind>]</trd>,
+    <trd>&#27738;&#12356;&#34892;&#28858;  [<ind>&#12365;&#12383;&#12394;&#12356;&#12371;&#12358;&#12356;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_l;&c_o;&c_s;&c_t;&c_mol;<klr> (&c_p;&c_o;&c_s;&c_t;&c_u;&c_p;&c_o;&c_k;)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_je;&c_r;&c_z;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_g;&c_i;&c_d;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_m;&c_je;&c_r;&c_z;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_r;&c_i;&c_d;&c_k;&c_i;&c_j; &c_u;&c_ch;&c_i;&c_n;&c_o;&c_k;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fi.0eco">
@@ -372,27 +420,38 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Alexander Gofen</aut>
-          <vrk><url ref="https://www.monato.net/2003/008002.html"
-              >Brave, prezidanto Putin!</url></vrk>
+          <vrk><url ref="&Monato;/2003/008002.html">Brave, prezidanto
+          Putin!</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         per sia meditado li ekkonscias pri la vero kaj rezignas sian <tld/>econ
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.net/2007/009218.php"
-              >Modernantikvaj fabeloj</url></vrk>
+          <vrk><url ref="&Monato;/2007/009218.php">Modernantikvaj fabeloj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_o;&c_d;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol; <klr>(&c_ja;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;)</klr></trd>,
+    <trd>&c_m;&c_ja;&c_r;&c_z;&c_o;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_b;&c_r;&c_y;&c_d;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="cs">podlost</trd>
   <trd lng="es">mezquindad</trd>
   <trd lng="fr">bassesse<klr tip="ind"> (caract&egrave;re
   	      m&eacute;prisable)</klr></trd>
-  <trd lng="ru">&c_p;&c_o;&c_d;&c_l;&c_o;&c_s;&c_t;&c_mol; <klr>(&c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#19979;&#21697;  [<ind>&#12370;&#12402;&#12435;</ind>]</trd>,
+    <trd>&#19979;&#21155;  [<ind>&#12370;&#12428;&#12388;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_l;&c_o;&c_s;&c_t;&c_mol;<klr> (&c_k;&c_a;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
   <trd lng="sk">oplanstvo</trd>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_je;&c_r;&c_z;&c_je;&c_n;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_i;&c_d;&c_l;&c_i;&c_v;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fi.0ulo">
@@ -400,50 +459,71 @@
   <snc>
     <dif>
       Persono malestiminda:
+       <ekz>
+         oni provis aresti la <tld/>ulon
+         <fnt>
+          <bib>MkM</bib>
+         </fnt>;
+       </ekz>
+      <ekz>
+        nur pro frandemo tion faris al mi la <ind><tld/>ulino</ind>
+        <fnt>
+          <bib>KrB</bib>
+        </fnt>!
+        <trd lng="de">Luder</trd>
+      </ekz>
       <ekz>
         kiu ser&ccirc;adas <tld/>ulon, enrigardu spegulon
         <fnt>
           <bib>Monato</bib>
           <aut>Morteza Mirbaghian</aut>
-          <vrk><url ref="https://www.monato.net/2003/007951.html"
-              >Proverboj novaj</url></vrk>
+          <vrk><url ref="&Monato;/2003/007951.html">Proverboj novaj</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <tld/>ulo &scirc;telis de ekster la mortigito-domo la bukedojn (supozeble vendo- kaj
         profito-cele)
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="https://www.monato.net/2003/008119.html"
-              >Taglibro de l' milito ... el la lando de &Scirc;ekspiro</url></vrk>
+          <vrk><url ref="&Monato;/2003/008119.html">Taglibro de l' milito ... el la
+          lando de &Scirc;ekspiro</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         piulo Bu&scirc;o ne <tld/>ule mensogis, &ccirc;ar li estas bona kristano
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.net/2004/008492.html"
-              >Du mil kvar</url></vrk>
+          <vrk><url ref="&Monato;/2004/008492.html">Du mil kvar</url></vrk>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         nekredeble potenca <tld/>ulo, kiu jam posedas preska&ubreve; &ccirc;iujn el la ringoj,
         strebas akiri, iel ajn, la ringon nun havatan de Frodo
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.net/2008/009401.php"
-              >Moderna klasika&jcirc;o</url></vrk>
+          <vrk><url ref="&Monato;/2008/009401.php">Moderna klasika&jcirc;o</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="sub">
+      <ref cel="fripon.0o">fripono</ref>,
+      <ref cel="kanajl.0o">kanajlo</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ja;&c_r;&c_z;&c_o;&c_t;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_n;&c_ja;&c_g;&c_o;&c_d;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_b;&c_r;&c_y;&c_d;&c_o;&c_t;&c_a; <klr>(&c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>dareb&aacute;k</trd>,
     <trd>padouch</trd>,
     <trd>v&scaron;iv&aacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Lump</trd>,
+    <trd>Gauner</trd>,
+    <trd>schmieriger <ind>Typ</ind></trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>despreciable</trd>,
@@ -451,11 +531,30 @@
     <trd>bellaco</trd>,
     <trd>abyecto</trd>
   </trdgrp>
+   <trdgrp lng="fi">
+     <trd>lurjus</trd>,
+     <trd>heitti&ouml;</trd>,
+   </trdgrp>
   <trd lng="fr">salaud</trd>
+  <trd lng="hu">gazember</trd>
+  <trdgrp lng="ja">
+    <trd>&#27738;&#12356;&#12420;&#12388;  [<ind>&#12365;&#12383;&#12394;&#12356;&#12420;&#12388;</ind>]</trd>,
+    <trd>&#19979;&#21155;&#12394;&#20154;  [<ind>&#12375;&#12383;&#12362;&#12392;&#12394;&#12376;&#12435;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>dareb&aacute;k</trd>,
     <trd>podliak</trd>,
     <trd>v&scaron;iv&aacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_l;&c_je;&c_c;</trd>,
+    <trd>&c_m;&c_je;&c_r;&c_z;&c_a;&c_v;&c_je;&c_c;</trd>,
+    <trd>&c_n;&c_je;&c_g;&c_o;&c_d;&c_ja;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_m;&c_je;&c_r;&c_z;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_g;&c_a;&c_d;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_n;&c_je;&c_g;&c_ib;&c_d;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
 </drv>
 </subart>
@@ -463,24 +562,27 @@
 </art>
 <!--
 $Log$
-Revision 1.27  2018/09/03 01:10:13  revo
-Sam Penter: korekto pri trd en
+versio 1.45 2023/09/11 06:28:08
+Wolfram Diestel: +trd de
 
-Revision 1.26  2018/09/02 23:10:15  revo
-Sam Penter: +trd nl
+versio 1.43 2023/07/20 09:25:57
+Dmitri Gabinski: + trd be
 
-Revision 1.25  2017/12/12 00:10:38  revo
-Michel Cantigneaux: aldonita per la 1a OA kaj fundamentigita per la 7a
-OA
+versio 1.42 2023/04/30 08:28:59
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.24  2017/02/17 16:10:17  revo
-Jeromo Vasxe: prekaux -> preskaux
+versio 1.41 2023/04/27 05:28:00
 
-Revision 1.23  2016/02/15 09:10:14  revo
-Guillermo Molleda Jimena: trd es
+versio 1.40 2023/04/26 05:27:59
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.22  2016/02/15 08:10:12  revo
-Guillermo Molleda Jimena: trd es
+versio 1.39 2023/04/25 12:45:29
+Paul Peeraerts: @Steloj -> @Monato
 
+versio 1.38 2023/04/11 16:34:08
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.37 2023/04/11 14:37:22
+aktualigo Monato-URL
 -->
 </vortaro>

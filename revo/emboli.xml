@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: emboli.xml,v 1.13 2010/12/02 17:30:46 revo Exp $">
+<art mrk="$Id: emboli.xml,v 1.21 2023/08/31 11:49:28 revo Exp $">
 <kap>
   <rad>emboli</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -26,11 +25,13 @@
      <trd>Gef&auml;&szlig;verschluss</trd>,
      <trd>Emboli <klr>[fak]</klr></trd>
   </trdgrp>
+  <trd lng="en">embolism</trd>
   <trd lng="es">embolia</trd>
   <trd lng="fa">&a_A_madda;&a_m;&a_b;&a_w;&a_l;&f_y;</trd>
   <trd lng="fr">embolie</trd>
   <trd lng="id">emboli</trd>
   <trd lng="it">embolia</trd>
+  <trd lng="ja">&#x585E;&#x6813;&#x75C7;  [<ind>&#x305D;&#x304F;&#x305B;&#x3093;&#x3057;&#x3087;&#x3046;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>zator krwi</trd>,
     <trd>embolia</trd>
@@ -50,6 +51,9 @@
 </art>
 <!--
 $Log$
+versio 1.20 2021/12/20 11:41:16
+Noam Mohr: +trd en embolio
+
 Revision 1.18  2015/07/04 08:37:33  revo
 aldono de trd cs per skripto de M. von Laer
 

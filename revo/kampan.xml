@@ -1,21 +1,107 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kampan.xml,v 1.15 2009/03/01 17:32:23 revo Exp $">
+<art mrk="$Id: kampan.xml,v 1.27 2023/09/03 15:24:57 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>kampanj</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="kampan.0o">
   <kap><ofc>9</ofc><tld/>o</kap>
-  <snc mrk="kampan.0o.MER">
+  <snc mrk="kampan.0o.agado">
+    <uzo tip="fak">POL</uzo><uzo tip="fak">EKON</uzo><uzo tip="fak">MIL</uzo>
     <dif>
-      La&ubreve;plana agado por difinita celo:
+      La&ubreve;plana agado dum limigita tempo por difinita celo:
       <ekz>
-        entrepreni energian <tld/>on por la popolklerigado.
+        entrepreni energian <tld/>on por la popolklerigado;
+      </ekz>
+      <ekz>
+        <tld/>o por &ccirc;esigi fumadon inter maorioj
+        <fnt>
+          <aut>Donald Rogers</aut>
+            <vrk><url ref="&Monato;/2001/007092.php">&Scirc;an&gcirc;i&gcirc;as la direkto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 8</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        post la elektoj &scirc;i povus eventuale <klr>[&#8230;]</klr> ali&gcirc;i al la luterana eklezio,
+        sed &scirc;i ne deziris fari tion kiel parton de la elekta <tld/>o
+        <fnt>
+       <aut>JSL</aut>
+          <vrk><url ref="&Monato;/2000/006901.php">Novtipa prezidanto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/04, p. 9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la konsumado de pulkvo tre multe suferis pro <tld/>o celanta diskonigi precipe
+        la malta&ubreve;gajn kondi&ccirc;ojn de &gcirc;iaj ellaborado kaj disvendado
+        <fnt>
+          <aut>Fidel Figueroa</aut>
+          <vrk><url ref="&Monato;/2000/007033.php">Nepre &gcirc;ia nomo estas Meksiko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/10, p. 14</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        en usonaj elekto<tld/>oj &scirc;ajne oni &ccirc;iam bezonas aparte tiklajn temojn, por logi
+        elektontojn
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007090.php">Kanajlo-&scirc;tatoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 05</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Intel</nom> en siaj nunaj reklamo<tld/>oj emfazas al klientoj, ke &leftquot;via infano bezonas
+        procesoron <nom>Pentium III</nom>&rightquot;
+        <fnt>
+          <aut>Franck Arnaud</aut>
+            <vrk><url ref="&Monato;/2000/007114.html">Intel alfrontas konkurencon</url></vrk>
+           <bib>Monato</bib>
+            <lok>2000/10, p. 16</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        la troo da informoj prezenti&gcirc;as kiel eksponenciala pligrandi&gcirc;o de manipuladoj,
+        de mensmanipuladoj, de trompoj, de mensogoj kaj de venenadaj <tld/>oj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2003/008040.html">Kvina povo</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okazas dum somero en Irlando memortago por honorigi geirlandanojn, kiuj servis,
+        vundi&gcirc;is kaj mortis en &ccirc;iuj militoj kaj <tld/>oj, same en la pacta&ccirc;mentoj de
+        Unui&gcirc;intaj Nacioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/008003.html">Amnezio-amnestio</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekde la 22a de julio 1942 <klr>[&#8230;]</klr> komenci&gcirc;is la likvido<tld/>o de la
+        varsovia getto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zofia Banet-fornalowa</aut>
+          <vrk><url ref="&Monato;/2003/008093.html">Li semis bonon kaj
+          belon</url></vrk>
+          <lok>2003</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <rim>
+    En la 17a jc la franca vorto &leftquot;<nac>campagne</nac>&rightquot;, transpreni&gcirc;is i.a. al la angla kaj germana
+    lingvoj
+    en la senco &leftquot;<ref cel="operac1.0o">operaco</ref>&rightquot;.
+  </rim>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>
   <trdgrp lng="de">
@@ -27,9 +113,20 @@
   <trd lng="fr">campagne<klr tip="ind">
   (action syst&eacute;matique)</klr></trd>
   <trd lng="hu">kamp&aacute;ny</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AD;&#x30E3;&#x30F3;&#x30DA;&#x30FC;&#x30F3; 
+    [<ind>&#x304D;&#12419;&#12435;&#x307A;&#x30FC;&#12435;</ind>]</trd>,
+    <trd>&#x904B;&#x52D5;  [<ind>&#12358;&#12435;&#12393;&#12358;</ind>]</trd>,
+    <trd>&#x6D3B;&#x52D5;  [<ind>&#x304B;&#12388;&#12393;&#12358;</ind>]</trd>,
+    <trd>&#25126;&#x5F79;  [<ind>&#x305B;&#12435;&#12360;&#x304D;</ind>]</trd>,
+    <trd>&#xFF5E;&#x65B9;&#38754;&#x4F5C;&#25126;  [&#xFF5E;<ind>&#x307B;&#12358;&#12417;&#12435;&#12373;&#x304F;&#x305B;&#12435;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">campagne</trd>
   <trd lng="pl">kampania</trd>
   <trd lng="ru">&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&#x43C;&#x43F;&c_a;&#x43D;&c_ib;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kampan.0i">
@@ -38,45 +135,85 @@
     <dif>
       Aran&gcirc;i kaj fari <tld/>on:
       <ekz>
-        <em>La Loko</em> <tld/>as por ke la Esperanto-teamo partoprenu 
-        en la FIFA Monda Pokalo en SudAfriko en 2010
+        la infanprotekta organiza&jcirc;o de Unui&gcirc;intaj Nacioj, <nom>UNICEF</nom>, <tld/>as por atentigi
+        kamparanojn pri la maljusteco ka&ubreve;zata al infanoj
         <fnt>
-          <aut>O. Olsson, D. Salomon</aut>,
-          <vrk><url ref="http://laloko.org/">
-          la loko</url>, esperanta futbala teamo</vrk>,
-          <lok>2007-04</lok>
-        </fnt>.
+          <aut>Christian Fabossou</aut>
+            <vrk><url ref="&Monato;/2000/007037.php">Sklavoj -- kvinjara&gcirc;aj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 14</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>as sindikatoj por salajroj, kiuj ebligas vivtenadon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2013/011137.php">Protestoj kaj kampanjoj</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Sendependiga Partio <klr>[&#8230;]</klr> <tld/>as por retiri&gcirc;o de Britio el EU
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2004/008365.html">Civitanoj perdas intereson pri
+          E&ubreve;ropo</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nun oni <tld/>as por atentigi EU-parlamentanojn pri la neta&ubreve;geco de <nom>O'Flaherty</nom>
+        kiel irlanda reprezentanto &ccirc;e la banko
+        <fnt>
+          <aut>Garbhan MacAoidh/pg</aut>
+            <vrk><url ref="&Monato;/2000/007134.php">Malbona investo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 12</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; <ind>&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_ib;&c_ju;</ind></trd>
+  <trdgrp lng="de">
+    <trd>zu <ind>Feld</ind>e ziehen</trd>,
+    <trd>k&auml;mpfen <klr>(Kampagne)</klr></trd>,
+    <trd>eintreten <klr>(f&uuml;r ein Ziel)</klr></trd>
+  </trdgrp>
   <trd lng="en">campaign</trd>
   <trdgrp lng="fr">
     <trd>faire une <ind>campagne</ind></trd>,
     <trd>promouvoir</trd>
   </trdgrp>
+  <trd lng="ja">&#x30AD;&#x30E3;&#x30F3;&#x30DA;&#x30FC;&#x30F3;&#12434;&#x5F35;&#x308B; 
+  [<ind>&#x304D;&#12419;&#12435;&#x307A;&#x30FC;&#12435;&#12434;&#x306F;&#x308B;</ind>]</trd>
   <trd lng="pl">prowadzi&cacute; <ind>kampani&eogonek;</ind></trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.16  2017/03/07 09:10:19  revo
-Lyubomir Vasilev: +trd bg
+versio 1.27 2023/09/03 15:24:57
+Wolfram Diestel: kor. ja ind
 
-Revision 1.15  2009/03/01 17:32:23  revo
-Russ Williams: +trd en 9OA
+versio 1.25 2023/04/30 14:25:35
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.14  2008/05/16 16:31:18  revo
-Sebastian Cyprych: +trd pl
+versio 1.24 2023/04/26 06:32:08
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.13  2007/11/09 17:30:12  revo
-Jeromo Vasxe: + ~i
+versio 1.23 2023/04/15 15:25:40
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.12  2004/10/31 17:32:51  revo
-Marc Bavant: mod trd fr
+versio 1.22 2022/10/27 10:36:48
+Dmitri Gabinski: + trd be
 
-Revision 1.11 2004/01/17 17:30:29 revo
-Emmanuel Debanne: +trd fr
+versio 1.21 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.10 2003/05/25 17:00:34 revo
+versio 1.20 2022/03/31 16:45:55
+Wolfram Diestel: kor. trd uk
+
+versio 1.18 2020/05/28 06:34:06
 -->
 </vortaro>

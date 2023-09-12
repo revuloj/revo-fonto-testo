@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: sagx.xml,v 1.36 2020/02/17 18:10:17 revo Exp $">
+<art mrk="$Id: sagx.xml,v 1.43 2023/09/03 12:09:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sa&gcirc;</rad>/a <fnt><bib>PV</bib></fnt>
@@ -13,7 +12,7 @@
     <dif>
       Posedanta <tld/>on:
       <ekz>
-        <nom>&Hcirc;iram</nom> a&ubreve;dis la vortojn de Salomono <klr>[&#8230;]</klr> kaj
+        <nom>&Hcirc;iram</nom> a&ubreve;dis la vortojn de Salomono <klr>[&#x2026;]</klr> kaj
         diris: Benata estu hodia&ubreve; la Eternulo, kiu donis al
         <nom>David</nom> filon <tld/>an super tiu grandnombra popolo
         <fnt><bib>MT</bib>, <lok>&Re1; 5:7</lok></fnt>.
@@ -61,6 +60,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_u;&c_d;&c_r;&c_y;</trd>
+  <trd lng="bo">&#xF58;&#xF41;&#xF66;&#xF0B;&#xF54;&#xF0B;</trd>
   <trd lng="cs">moudr&yacute;</trd>
   <trdgrp lng="de">
       <trd>weise</trd>,
@@ -85,6 +85,13 @@
   </trdgrp>
   <trd lng="id">bijaksana</trd>
   <trd lng="it">saggio<klr tip="amb"> (agg.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CE2;&#x3044;  [<ind>&#x304B;&#x3057;&#x3053;&#x3044;</ind>]</trd>,
+    <trd>&#x8CE2;&#x660E;&#x306A;  [<ind>&#x3051;&#x3093;&#x3081;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x8061;&#x660E;&#x306A;  [<ind>&#x305D;&#x3046;&#x3081;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x601D;&#x616E;&#x6DF1;&#x3044;  [<ind>&#x3057;&#x308A;&#x3087;&#x3076;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x5229;&#x53E3;&#x306A;  [<ind>&#x308A;&#x3053;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>wijs</trd>,
     <trd>verstandig</trd>
@@ -98,6 +105,10 @@
   </trdgrp>
   <trd lng="ru">&c_m;&c_u;&c_d;&c_r;&c_y;&c_j;</trd>
   <trd lng="sk">m&uacute;dry</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&c_u;&#x43C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43C;&c_u;&c_d;&c_r;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sagx.0o">
@@ -161,7 +172,7 @@
       </ekz>
       <ekz>
         feli&ccirc;a estas la homo, kiu trovis <tld/>on kaj
-        <klr>[&#8230;]</klr> akiris prudenton
+        <klr>[&#x2026;]</klr> akiris prudenton
         <fnt>
           <bib>MT</bib>
           <lok>Sentencoj 3:13</lok>
@@ -191,7 +202,7 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        la homa <tld/>o <klr>[&#8230;]</klr> ne povas &ccirc;irka&ubreve;preni tiujn
+        la homa <tld/>o <klr>[&#x2026;]</klr> ne povas &ccirc;irka&ubreve;preni tiujn
         aferojn
         <fnt>
           <bib>Far2</bib>
@@ -212,6 +223,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_r;&c_o;&c_z;&c_u;&c_m;</trd>
+    <trd lng="bo">&#xF64;&#xF7A;&#xF66;&#xF0B;&#xF62;&#xF56;&#xF0B;</trd>
     <trd lng="hu">&eacute;sz</trd>    
     <trd lng="ru">&c_u;&c_m;</trd>
   </snc>
@@ -219,6 +231,7 @@
     <trd>Weisheit</trd>,
     <trd>Klugheit</trd>
   </trdgrp>
+  <trd lng="en">wisdom</trd>
   <trdgrp lng="es">
     <trd>sabidur&iacute;a</trd>,
     <trd>sensatez</trd>,
@@ -226,8 +239,13 @@
     <trd>juicio</trd>
   </trdgrp>
   <trd lng="fr">sagesse</trd>
-  <trd lng="id">[<ind>bijaksana</ind>] kebijaksanaan</trd>
+  <trd lng="id">ke<ind>bijaksana</ind>an</trd>
   <trd lng="it">saggezza</trd>
+  <trdgrp lng="ja">
+    <trd>&#x77E5;&#x6075;  [<ind>&#x3061;&#x3048;</ind>]</trd>,
+    <trd>&#x601D;&#x616E;  [<ind>&#x3057;&#x308A;&#x3087;</ind>]</trd>,
+    <trd>&#x5206;&#x5225;  [<ind>&#x3076;&#x3093;&#x3079;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wijsheid</trd>
   <trdgrp lng="pl">
     <trd>m&aogonek;dro&sacute;&cacute;</trd>,
@@ -250,7 +268,7 @@
       <ekz>
         kaj la <tld/>eco de Salomono estis pli granda, ol la <tld/>eco
         de &ccirc;iuj orientanoj kaj ol la tuta <tld/>eco de Egiptujo
-        <klr>[&#8230;]</klr> kaj oni venadis el &ccirc;iuj popoloj, por
+        <klr>[&#x2026;]</klr> kaj oni venadis el &ccirc;iuj popoloj, por
         a&ubreve;skulti la <tld/>econ de Salomono, de &ccirc;iuj
         re&gcirc;oj de la tero, kiuj a&ubreve;dis pri lia <tld/>eco
         <fnt><bib>MT</bib>, <lok>&Re1; 4:30,34</lok></fnt>;
@@ -276,22 +294,32 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_u;&c_d;&c_r;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="bo">&#xF64;&#xF7A;&#xF66;&#xF0B;&#xF62;&#xF56;&#xF0B;</trd>
   <trdgrp lng="de">
     <trd>Weisheit</trd>,
     <trd>Klugheit</trd>
   </trdgrp>
+  <trd lng="en">wisdom</trd>
   <trd lng="es">sabidur&iacute;a</trd>
   <trd lng="fr">sagesse</trd>
-  <trd lng="id">[<ind>bijaksana</ind>] kebijaksanaan</trd>
+  <trd lng="id">ke<ind>bijaksana</ind>an</trd>
   <trd lng="it">saggezza</trd>
   <trdgrp lng="hu">
     <trd>b&ouml;lcsess&eacute;g</trd>,
     <trd>okoss&aacute;g</trd>
   </trdgrp>  
+  <trdgrp lng="ja">
+    <trd>&#x8CE2;&#x3055;  [<ind>&#x304B;&#x3057;&#x3053;&#x3055;</ind>]</trd>,
+    <trd>&#x601D;&#x616E;&#x6DF1;&#x3055;  [<ind>&#x3057;&#x308A;&#x3087;&#x3075;&#x304B;&#x3055;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wijsheid</trd>
   <trd lng="pl">m&aogonek;dro&sacute;&cacute;</trd>
   <trd lng="pt">sabedoria</trd>
   <trd lng="ru">&c_m;&c_u;&c_d;&c_r;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&c_u;&#x43C;</trd>,
+    <trd>&#x43C;&c_u;&c_d;&c_r;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sagx.0ulo">
@@ -327,8 +355,13 @@
   <trd lng="be">&c_m;&c_u;&c_d;&c_r;&c_e;&c_c;</trd>
   <trd lng="fr">sage<klr> (subst.)</klr></trd>
   <trd lng="hu">b&ouml;lcs</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CE2;&#x8005;  [<ind>&#x3051;&#x3093;&#x3058;&#x3083;</ind>]</trd>,
+    <trd>&#x8CE2;&#x4EBA;  [<ind>&#x3051;&#x3093;&#x3058;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">m&eogonek;drzec</trd>        
   <trd lng="ru">&c_m;&c_u;&c_d;&c_r;&c_je;&c_c;</trd>
+  <trd lng="uk">&c_d;&c_u;&c_r;&c_je;&#x43D;&#x44C;</trd>
 </drv>
 
 <drv mrk="sagx.0umi">
@@ -353,8 +386,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Angela Tellier</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008306.html">La&ubreve;proverbaj
+          <vrk><url ref="&Monato;/2004/008306.html">La&ubreve;proverbaj
           fabeloj</url></vrk>
           <lok>2004</lok>
         </fnt>;
@@ -377,6 +409,8 @@
     <trd>ergoter</trd>,
     <trd>pinailler</trd>
   </trdgrp>
+  <trd lng="ja">&#x5229;&#x53E3;&#x3076;&#x308B;  [<ind>&#x308A;&#x3053;&#x3046;&#x3076;&#x308B;</ind>]</trd>
+  <trd lng="uk">&#x43C;&c_u;&c_d;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="sagx.mal0a">
@@ -503,6 +537,11 @@
       <trd>stolto</trd>,
       <trd>scriteriato</trd>
     </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x304B;&#x306A;  [<ind>&#x304A;&#x308D;&#x304B;&#x306A;</ind>]</trd>,
+    <trd>&#x5206;&#x5225;&#x306E;&#x306A;&#x3044;  [<ind>&#x3076;&#x3093;&#x3079;&#x3064;&#x306E;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x3070;&#x304B;&#x3052;&#x305F;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>dom</trd>,
     <trd>stom</trd>
@@ -519,6 +558,11 @@
   </trdgrp>
   <trd lng="ro">prost</trd>
   <trd lng="sk">hl&uacute;py</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_r;&#x43E;&c_z;&c_u;&#x43C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_t;&#x44F;&#x43C;&c_u;&c_shch;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sagx.mal0eco">
@@ -555,7 +599,18 @@
     </trdgrp>
   </snc>
   <trd lng="fr">d&eacute;raison</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x304B;&#x3055;  [<ind>&#x304A;&#x308D;&#x304B;&#x3055;</ind>]</trd>,
+    <trd>&#x7121;&#x5206;&#x5225;  [<ind>&#x3080;&#x3075;&#x3093;&#x3079;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">g&lstroke;upota</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_u;&c_r;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_g;&#x43B;&c_u;&#x43F;&#x43E;&c_t;&c_a;</trd>,
+    <trd>&c_g;&#x43B;&c_u;&#x43F;&c_s;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_g;&#x43B;&c_u;&c_z;&c_d;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&#x43D;&c_ib;&c_s;&c_je;&#x43D;&c_ib;&c_t;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sagx.mal0ulo">
@@ -582,8 +637,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Angela Tellier</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008306.html">La&ubreve;proverbaj
+          <vrk><url ref="&Monato;/2004/008306.html">La&ubreve;proverbaj
           fabeloj</url></vrk>
           <lok>2004</lok>
         </fnt>.
@@ -601,6 +655,11 @@
     <trd>sot<klr> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="hu">ostoba</trd>
+  <trdgrp lng="ja">
+    <trd>&#x611A;&#x8005;  [<ind>&#x3050;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x611A;&#x4EBA;  [<ind>&#x3050;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x3070;&#x304B;&#x8005;  [<ind>&#x3070;&#x304B;&#x3082;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>domoor</trd>,
     <trd>dommerik</trd>
@@ -627,6 +686,10 @@
     <trd lng="de">&uuml;berlisten</trd>
   </snc>
   <trd lng="fr">surpasser en sagesse</trd>
+  <trdgrp lng="hu">
+    <trd>lepip&aacute;l</trd>,
+    <trd>t&uacute;lsz&aacute;rnyal</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sagx.komuna0o">
@@ -644,7 +707,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url ref="https://www.monato.be/2004/008237.html">&Ccirc;u
+          <vrk><url ref="&Monato;/2004/008237.html">&Ccirc;u
           kompatindaj irakanoj?</url></vrk>
           <lok>2004</lok>
         </fnt>;
@@ -656,8 +719,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url
-          ref="https://www.monato.be/2014/011279.php">Impostaltigo</url></vrk>
+          <vrk><url ref="&Monato;/2014/011279.php">Impostaltigo</url></vrk>
           <lok>2014</lok>
         </fnt>.
       </ekz>
@@ -670,13 +732,29 @@
   </trdgrp>
   <trd lng="hu">j&oacute;zan <ind>&eacute;sz</ind></trd>
   <trd lng="id"><ind>akal</ind> sehat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E38;&#x8B58;  [<ind>&#x3058;&#x3087;&#x3046;&#x3057;&#x304D;</ind>]</trd>,
+    <trd>&#x826F;&#x8B58;  [<ind>&#x308A;&#x3087;&#x3046;&#x3057;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">gezond <ind>verstand</ind></trd>
   <trd lng="pl"><ind>m&aogonek;dro&sacute;&cacute;</ind> zbiorowa</trd>
 </drv>
 </art>
 <!--
-$Log: sagx.xml,v $
-versio 1.36 2020/02/17 18:10:17
+$Log$
+versio 1.42 2023/02/11 18:31:52
+Wolfram Diestel: super~i: +trd hu el super/
+
+versio 1.41 2022/05/05 05:09:55
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.38 2020/12/28 16:10:34
+Aleks Andre: bo, en
+
+versio 1.37 2020/04/30 11:10:33
+Eko Nur Syah Hidayat: korekteto
+
+Revision 1.36  2020/02/17 17:10:16  revo
 Sam Penter: +trd en nl
 
 Revision 1.35  2019/11/22 21:10:15  revo
@@ -686,17 +764,5 @@ Revision 1.34  2019/01/29 15:10:16  revo
 Jeromo Vasxe: + ~umi
 
 Revision 1.33  2019/01/24 18:10:16  revo
-Jeromo Vasxe: + super~i
-
-Revision 1.32  2018/03/23 08:10:15  revo
-Damien Brucker: -eraro cxe cel en ref
-
-Revision 1.31  2017/10/19 20:10:15  revo
-Jeromo Vasxe: kor 1 ref
-
-Revision 1.30  2017/08/13 19:10:45  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.29  2015/05/05 19:10:12  revo
 -->
 </vortaro>

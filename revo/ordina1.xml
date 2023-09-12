@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ordina1.xml,v 1.18 2005/12/06 17:32:32 revo Exp $">
+<art mrk="$Id: ordina1.xml,v 1.23 2023/09/03 07:12:34 revo Exp $">
 <kap>
   <rad>ordinat</rad>/o
 </kap>
@@ -34,9 +33,9 @@
   </trdgrp>
   <trd lng="ca">ordenada</trd>
   <trdgrp lng="cs">
-    <trd>druhá souřadnice</trd>,
-    <trd>ordináta</trd>,
-    <trd>pořadnice</trd>
+    <trd>druh&#xE1; sou&#x159;adnice</trd>,
+    <trd>ordin&#xE1;ta</trd>,
+    <trd>po&#x159;adnice</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Ordinate</trd>,
@@ -53,6 +52,7 @@
     <trd>coordonn&eacute;e y</trd>
   </trdgrp>
   <trd lng="hu">ordin&aacute;ta</trd>
+  <trd lng="ja">&#x7E26;&#x5EA7;&#x6A19;  [<ind>&#x305F;&#x3066;&#x3056;&#x3072;&#x3087;&#x3046;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>ordinaat</trd>,
     <trd>y-as</trd>
@@ -70,13 +70,14 @@
     <trd>y-<ind>&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;</ind></trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>druhá súradnica</trd>,
-    <trd>ordináta</trd>
+    <trd>druh&#xE1; s&#xFA;radnica</trd>,
+    <trd>ordin&#xE1;ta</trd>
   </trdgrp>
   <trdgrp lng="sv">
     <trd>ordinata</trd>,
     <trd>y-koordinat</trd>
   </trdgrp>
+  <trd lng="uk">&#x43E;&#x440;&#x434;&#x438;&#x43D;&#x430;&#x442;&#x430;</trd>
 </drv>
 </art>
 <!--

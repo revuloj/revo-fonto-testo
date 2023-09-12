@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cirkl.xml,v 1.59 2020/02/22 18:10:25 revo Exp $">
+<art mrk="$Id: cirkl.xml,v 1.147 2023/08/31 10:10:27 revo Exp $">
 <kap>
   <ofc>8</ofc> <rad>cirkl</rad>/o <fnt> <bib>PV</bib></fnt>
 </kap>
@@ -13,8 +12,7 @@
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>VdE</bib></fnt>
     <dif>
-      Ebena <ref tip="lst" lst="voko:formoj"
-      cel="kurb.0o.MAT">kurbo</ref>,
+      Ebena <ref tip="lst" lst="voko:formoj" cel="kurb.0o.MAT">kurbo</ref>,
       konsistanta
       el &ccirc;iuj punktoj, kies distanco al iu punkto de la koncerna
       ebeno
@@ -39,11 +37,10 @@
       </ekz>
       <ekz>
         al la arkta cirklo kaj reen
-        <fnt>
+        <fnt><aut>Laimius Stra&zcaron;nickas</aut>: 
+          <vrk><url ref="&Monato;/2000/007097.php">Per malnovaj a&ubreve;toj &ccirc;irka&ubreve; Balta Maro</url></vrk>,
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007097.html">Konkurso:
-          Per malnovaj a&ubreve;toj &ccirc;irka&ubreve; Balta Maro</url></vrk>
+          <lok>2000/11, p. 25</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -105,8 +102,7 @@
   <snc mrk="cirkl.0o.KOMUNE">
     <dif>
       &Ccirc;ia objekto pli-malpli samforma kiel <tld/>o
-      <sncref ref="cirkl.0o.linio"/> a&ubreve; <sncref
-      ref="cirkl.0o.surfaco"/>;
+      <sncref ref="cirkl.0o.linio"/> a&ubreve; <sncref ref="cirkl.0o.surfaco"/>;
       <ref tip="vid" cel="rond.0o.FORM">rondo<sncref/></ref>:
       <ekz>
         la kanalo kaj la &scirc;oseo &ccirc;irka&ubreve;is duon<tld/>e la
@@ -119,11 +115,11 @@
       <ekz>
         <tld/>o el pli ekzotikaj arboj trovi&gcirc;as en la herbaro
         <fnt>
+          <aut>M&aacute;ire NicAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006878.php">&Gcirc;ardenumi</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006878.html">Dommastrumo:
-          &Gcirc;ardenumi</url></vrk>
-        </fnt>;
+          <lok>2000/04, p. 20</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <ref tip="vid" cel="cirkl.trafik0o.TRA">trafik<tld/>o</ref>;
@@ -133,11 +129,11 @@
         kaj politikistoj
         ne malpermesas, &ccirc;ar konsumantoj volas havi &ccirc;i &ccirc;ion
         <fnt>
-          <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <lok><url
-          ref="http://steloj.de/esperanto/monato2/007332.html">http://steloj.de/esperanto/monato2/007332.html</url></lok>
-        </fnt>.
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2001/007332.php">Memdetrua homaro</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 4</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -149,10 +145,10 @@
         ni esperu pri bona akcepto de &gcirc;uste
         tiu &ccirc;i libro en lingvosciencaj <tld/>oj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://www.esperanto.be/fel/mon/006813.html">Sa&gcirc;a
-          kapo duonvorton komprenas</url></vrk>
+	<aut>Pejno Simono</aut>
+	<vrk><url ref="&Monato;/2000/006813.php">Plansprache und Phraseologie</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 33</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -160,25 +156,27 @@
         rekte el bone
         informitaj <tld/>oj
         <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato1/monato-9504-radio.txt">Radio</url></vrk>
-          <lok>95/04</lok>
+          <lok>1995/04, p. 17</lok>
         </fnt>;
       </ekz>
       <ekz>
         oni a&ubreve;das nia<tld/>e dubeman opinion
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006813.html">Sa&gcirc;a kapo
-          duonvorton komprenas</url></vrk>
-        </fnt>.
+	<aut>Pejno Simono</aut>
+	<vrk><url ref="&Monato;/2000/006813.php">Plansprache und Phraseologie</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 33</lok>
+        </fnt>;.
       </ekz>
     </dif>
     <trd lng="de">Zirkel <klr>(Klub)</klr></trd>
   </snc>
+  <trd lng="af">sirkel</trd>
+  <trd lng="am">&#x12AD;&#x1260;&#x1265;</trd>
+  <trd lng="ar">&#x62F;&a_A;&a_y_hamza;&a_r;&a_t_marbuta;</trd>
   <trdgrp lng="be">
     <trd>&c_k;&c_r;&c_u;&c_g;</trd>,
     <trd>&c_k;&c_o;&c_l;&c_a;</trd>,
@@ -186,13 +184,60 @@
     <trd>&c_a;&c_k;&c_r;&c_u;&c_zh;&c_y;&c_n;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_o;&c_k;&c_r;&c_malmol;&c_zh;&c_n;&c_o;&c_s;&c_t;</trd>
+  <trd lng="bn">&#x9AC;&#x9C3;&#x9A4;&#x9CD;&#x9A4;</trd>
+  <trd lng="bs">krug</trd>
+  <trd lng="co">chjerchju</trd>
+  <trd lng="cy">cylch</trd>
+  <trd lng="da">cirkel</trd>
   <trd lng="de">Kreis</trd>
   <trd lng="en">circle</trd>
   <trd lng="es">c&iacute;rculo</trd>
+  <trd lng="et">ringi</trd>
+  <trd lng="eu">zirkulua</trd>
   <trd lng="fr">cercle</trd>
+  <trd lng="fy">sirkel</trd>
+  <trd lng="ga">ciorcal</trd>
+  <trd lng="gd">cearcall</trd>
+  <trd lng="gl">c&#xED;rculo</trd>
+  <trd lng="gu">&#xAB5;&#xAB0;&#xACD;&#xAA4;&#xAC1;&#xAB3;</trd>
+  <trd lng="ha">da&#x2019;irar</trd>
+  <trd lng="he">&#x5DE;&#x5E2;&#x5D2;&#x5DC;</trd>
+  <trd lng="hi">&#x935;&#x943;&#x924;&#x94D;&#x924;</trd>
+  <trd lng="hmn">vajvoog</trd>
+  <trd lng="hr">krug</trd>
+  <trd lng="ht">s&#xE8;k</trd>
   <trd lng="hu">k&ouml;r</trd>
+  <trd lng="hy">&#x577;&#x580;&#x57B;&#x561;&#x576;</trd>
+  <trd lng="ig">gburugburu</trd>
+  <trd lng="is">hring</trd>
+  <trd lng="ja">&#x30B5;&#x30FC;&#x30AF;&#x30EB;</trd>
+  <trd lng="jv">bunder</trd>
+  <trd lng="ka">&#x10EC;&#x10E0;&#x10D4;</trd>
+  <trd lng="kk">&c_sh;&c_je;&#x4A3;&c_b;&c_je;&c_r;</trd>
+  <trd lng="km">&#x179A;&#x1784;&#x17D2;&#x179C;&#x1784;&#x17CB;</trd>
+  <trd lng="kn">&#xCB5;&#xCC3;&#xCA4;&#xCCD;&#xCA4;&#xCA6;</trd>
+  <trd lng="ko">&#xC6D0;</trd>
+  <trd lng="ku">&#xE7;ember</trd>
+  <trd lng="ky">&c_t;&c_je;&c_g;&c_je;&c_r;&c_je;&#x43A;</trd>
+  <trd lng="lat">circulus</trd>
+  <trd lng="lo">&#xEC1;&#xE9C;&#xEC8;&#xE99;&#xE9B;&#xEC9;&#xEB2;&#xE8D;&#xEA7;&#xEBB;&#xE87;&#xE81;&#xEBB;&#xEA1;</trd>
+  <trd lng="lt">ratas</trd>
+  <trd lng="lv">aplis</trd>
+  <trd lng="mg">faribolana</trd>
+  <trd lng="mi">porowhita</trd>
+  <trd lng="mk">&#x43A;&c_r;&c_u;&c_g;</trd>
+  <trd lng="ml">&#xD35;&#xD32;&#xD2F;&#xD02;</trd>
+  <trd lng="mn">&c_t;&#x43E;&c_j;&c_r;&#x43E;&c_g;</trd>
+  <trd lng="mr">&#x92E;&#x902;&#x921;&#x933;</trd>
+  <trd lng="ms">bulatan</trd>
+  <trd lng="mt">&#x10B;irku</trd>
+  <trd lng="my">&#x1021;&#x101D;&#x102D;&#x102F;&#x1004;&#x103A;&#x1038;</trd>
+  <trd lng="ne">&#x938;&#x930;&#x94D;&#x915;&#x932;</trd>
   <trd lng="nl">cirkel</trd>
+  <trd lng="ny">bwalo</trd>
+  <trd lng="pa">&#xA1A;&#xA71;&#xA15;&#xA30;</trd>
   <trd lng="pl">ko&lstroke;o</trd>
+  <trd lng="ps">&#x62F;&a_A;&#x6CC;&a_r;&a_h;</trd>
   <trdgrp lng="ro">
     <trd>cerc</trd>,
     <trd>circumferinta</trd>,
@@ -208,6 +253,32 @@
     <trd>kruh</trd>,
     <trd>kru&zcaron;nice</trd>
   </trdgrp>
+  <trd lng="rw">umuzenguruko</trd>
+  <trd lng="sd">&#x62C;&a_w; &#x62F;&a_A;&a_y_hamza;&a_r;&a_w;</trd>
+  <trd lng="si">&#xDBB;&#xDC0;&#xDD4;&#xDB8;</trd>
+  <trd lng="sl">krog</trd>
+  <trd lng="sm">li&#x2BB;o</trd>
+  <trd lng="sn">denderedzwa</trd>
+  <trd lng="so">goobaabin</trd>
+  <trd lng="sq">rrethi</trd>
+  <trd lng="st">sedikadikwe</trd>
+  <trd lng="su">bunderan</trd>
+  <trd lng="sw">mzunguko</trd>
+  <trd lng="ta">&#xBB5;&#xB9F;&#xBCD;&#xB9F;&#xBA4;&#xBCD;&#xBA4;&#xBBF;&#xBA9;&#xBCD;</trd>
+  <trd lng="te">&#xC38;&#xC30;&#xC4D;&#xC15;&#xC3F;&#xC32;&#xC4D;</trd>
+  <trd lng="tg">&c_d;&c_a;&c_v;&c_r;&c_a;</trd>
+  <trd lng="th">&#xE27;&#xE07;&#xE01;&#xE25;&#xE21;</trd>
+  <trd lng="tl">lupon</trd>
+  <trd lng="tok">sike</trd>
+  <trd lng="tt">&c_t;&#x4AF;&c_g;&#x4D9;&c_r;&#x4D9;&#x43A;</trd>
+  <trd lng="uk">&#x43A;&c_r;&c_u;&c_g;</trd>
+  <trd lng="ur">&#x62F;&a_A;&a_y_hamza;&a_r;&#x6D2;</trd>
+  <trd lng="uz">to&#x2019;garak</trd>
+  <trd lng="vi">v&#xF2;ng tr&#xF2;n</trd>
+  <trd lng="xh">isangqa</trd>
+  <trd lng="yi">&#x5E7;&#x5E8;&#x5D9;&#x5D9;&#x5B7;&#x5D6;</trd>
+  <trd lng="yo">oruka</trd>
+  <trd lng="zu">jikeleza</trd>
 </drv>
 
 <drv mrk="cirkl.0a">
@@ -238,17 +309,15 @@
         <ref cel="helic.0o.MAT">helico</ref>,
         <ref cel="sektor.0o.de_cirklo">sektoro</ref>;
       </ekz><ekz>
-        <tld/>a linio <klr>(= <ref
-        cel="cirkl.0o.linio"><tld/>o<sncref/></ref>)</klr>,
+        <tld/>a linio <klr>(= <ref cel="cirkl.0o.linio"><tld/>o<sncref/></ref>)</klr>,
       </ekz><ekz>
-        surfaco <klr>(= <ref
-        cel="cirkl.0o.surfaco"><tld/>o<sncref/></ref>)</klr>;
+        surfaco <klr>(= <ref cel="cirkl.0o.surfaco"><tld/>o<sncref/></ref>)</klr>;
       </ekz>
       <ekz>
         kial do ni ser&ccirc;us solvon de la <tld/>a kvadratur'?
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
           <lok>Al Mizantropoj</lok>
         </fnt>?
@@ -269,12 +338,11 @@
         de liberaj
         informiloj, dum liberajn informilojn sekurigas la demokratio?
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007242.html">Supra&jcirc;e
-          rozkolora</url></vrk>
-        </fnt>;
+          <aut>Guido van Damme</aut>
+            <vrk><url ref="&Monato;/2001/007242.php">Supra&jcirc;e rozkolora</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 29</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <nom>Waringhien</nom> perdi&gcirc;as en <tld/>a rezonado
@@ -289,6 +357,11 @@
       <ref cel="tauxto.0o">ta&ubreve;tologio</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_r;&c_u;&c_g;&c_l;&c_y;</trd>,
+    <trd>&c_a;&c_k;&c_r;&c_u;&c_g;&c_l;&c_y;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_mol;&c_c;&c_a;&c_v;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
   <trd>kruhov&eacute;ho tvaru</trd>,
   <trd>kruhov&yacute;</trd>
@@ -297,11 +370,14 @@
     <trd>circulaire<klr tip="ind"> (adj.)</klr></trd>,
     <trd>de <ind>cercle</ind></trd>
   </trdgrp>
+  <trd lng="he">&#x5DE;&#x5E2;&#x5D2;&#x5DC;&#x5D9;</trd>
+  <trd lng="ja">&#x5186;&#x5F62;&#x306E;  [<ind>&#x3048;&#x3093;&#x3051;&#x3044;&#x306E;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>cirkelvormig</trd>,
     <trd>cirkel-</trd>
   </trdgrp>
   <trd lng="sk">kruhov&yacute;</trd>
+  <trd lng="uk">&#x43A;&c_r;&c_u;&c_g;&#x43B;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="cirkl.cxef0o">
@@ -326,8 +402,7 @@
         &ccirc;ef<tld/>oj rolas la analogie al rektoj en sfera geometrio
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=229991">&Ccirc;efcirklo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=229991">&Ccirc;efcirklo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -337,9 +412,11 @@
   <trd lng="de">Gro&szlig;kreis</trd>
   <trd lng="en">great <ind>circle</ind></trd>
   <trd lng="fr">grand <ind>cercle</ind></trd>
+  <trd lng="he">&#x5DE;&#x5E2;&#x5D2;&#x5DC; &#x5E8;&#x5D0;&#x5E9;&#x5D9;</trd>
   <trd lng="hu">f&odblac;k&ouml;r</trd>
   <trd lng="pl">okr&aogonek;g wielki</trd>
   <trd lng="ru">&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_o;&c_j; <ind>&c_k;&c_r;&c_u;&c_g;</ind></trd>
+  <trd lng="uk">&c_c;&c_je;&#x43D;&c_t;&c_r;&c_a;&#x43B;&#x44C;&#x43D;&c_je; &#x43A;&#x43E;&#x43B;&#x43E;</trd>
 </drv>
 
 <drv mrk="cirkl.0ego">
@@ -353,6 +430,7 @@
   <trd lng="de">Gro&szlig;kreis</trd>
   <trd lng="en">great <ind>circle</ind></trd>
   <trd lng="fr">grand <ind>cercle</ind></trd>
+  <trd lng="he">&#x5DE;&#x5E2;&#x5D2;&#x5DC;</trd>
   <trd lng="hu">f&odblac;k&ouml;r</trd>
   <trd lng="pl">okr&aogonek;g wielki</trd>
   <trd lng="ru">&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_o;&c_j; <ind>&c_k;&c_r;&c_u;&c_g;</ind></trd>
@@ -365,8 +443,7 @@
   <snc mrk="cirkl.euxlera0o.MAT">
     <dif>
       <klr>(de <ref cel="angul.tri0o">triangulo</ref>) </klr>
-      <ref tip="super" cel="cirkl.0o.linio"><tld
-      lit="C"/>o<sncref/></ref>,
+      <ref tip="super" cel="cirkl.0o.linio"><tld lit="C"/>o<sncref/></ref>,
       trairanta na&ubreve; rimarkindajn punktojn difinitajn de la
       triangulo:
       la <ref cel="mez.0o.punkto.elementa">mezoj</ref> de &gcirc;iaj
@@ -380,8 +457,7 @@
         <nom>Feuerbach</nom>
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=237795">Enskribita cirklo
+          <lok><url ref="https://eo.wikipedia.org/?curid=237795">Enskribita cirklo
           kaj alskribitaj cirkloj de triangulo</url></lok>
         </fnt>.
       </ekz>
@@ -453,10 +529,8 @@
       La <ref tip="super" cel="cirkl.0o.linio"><tld/>o
       <sncref/></ref>
       difinita
-      de la <ref
-      cel="centr.kurbeco0o.de_ebena_kurbo">kurbecocentro</ref>
-      kaj la <ref
-      cel="radius.kurbeco0o.de_ebena_kurbo">kurbecoradiuso</ref>
+      de la <ref cel="centr.kurbeco0o.de_ebena_kurbo">kurbecocentro</ref>
+      kaj la <ref cel="radius.kurbeco0o.de_ebena_kurbo">kurbecoradiuso</ref>
       de la kurbo &ccirc;e tiu punkto.
     </dif>
     <rim>
@@ -516,14 +590,15 @@
         la enirejo de la urbo
         <fnt>
           <aut>G. MacAoidh</aut>
-          <vrk><url ref="http://www.esperanto.be/fel/mon/007076.html">
+          <vrk><url ref="&Monato;/2000/007076.html">
           Ho, tempoj! Ho, moroj!</url></vrk>
           <bib>Monato</bib>
-          <lok>2000:09, p. 20a</lok>
+          <lok>2000/09, p. 20</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_o;&c_l;&c_mol;&c_c;&c_a;&c_v;&c_a;&c_je; <ind>&c_s;&c_k;&c_r;&c_y;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   <trd lng="da">rundk&oslash;rsel</trd>
   <trd lng="de">Kreisverkehr</trd>
   <trdgrp lng="en">
@@ -543,6 +618,10 @@
     <trd>k&ouml;rforgalom</trd>,
     <trd>k&ouml;rforgalmi csom&oacute;pont</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x74B0;&#x72B6;&#x4EA4;&#x5DEE;&#x8DEF;  [<ind>&#x304B;&#x3093;&#x3058;&#x3087;&#x3046;&#x3053;&#x3046;&#x3055;&#x3058;</ind>]</trd>,
+    <trd>&#x30ED;&#x30FC;&#x30BF;&#x30EA;&#x30FC;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>rotonde</trd>,
     <trd>rondpunt</trd>,
@@ -557,6 +636,11 @@
     <trd>rotat&oacute;ria</trd>, 
     <trd>r&oacute;tula<klr tip="amb"> (tr&aacute;fego)</klr></trd> 
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_ib;&#x43B;&#x44C;&c_c;&c_je;&c_v;&c_a; &c_t;&c_r;&c_a;&#x43D;&c_s;&#x43F;&#x43E;&c_r;&c_t;&#x43D;&c_a;
+    &c_r;&#x43E;&c_z;&c_v;&#x2019;&#x44F;&c_z;&#x43A;&c_a;</trd>,
+    <trd>&#x43A;&c_ib;&#x43B;&#x44C;&c_c;&c_je;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cirkl.trafik0eto">
@@ -565,6 +649,7 @@
     <uzo tip="fak">TRA</uzo>
     <ref tip="dif" cel="rond.trafik0eto.TRA">trafikrondeto</ref>
   </snc>
+  <trd lng="be">&c_k;&c_o;&c_l;&c_mol;&c_c;&c_a;&c_v;&c_a;&c_je; <ind>&c_s;&c_k;&c_r;&c_y;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   <trd lng="en">mini-roundabout</trd>
   <trd lng="fr">rond-point</trd>
   <trd lng="pl">rondo</trd>
@@ -585,8 +670,7 @@
         trigonometria <tld/>o montranta la sinuson kaj kosinuson
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=4188"
-              >Trigonometrio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4188">Trigonometrio</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -602,6 +686,10 @@
       <tld/>o
     </bld>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_r;&c_y;&c_g;&c_a;&c_n;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y; <ind>&c_k;&c_r;&c_u;&c_g;</ind></trd>,
+    <trd>&c_t;&c_r;&c_y;&c_g;&c_a;&c_n;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_je; <ind>&c_k;&c_o;&c_l;&c_a;</ind></trd>
+  </trdgrp>
   <trd lng="de">Einheitskreis</trd>
   <trd lng="en">unit circle centered at the origin</trd>
   <trd lng="fr">cercle trigonom&eacute;trique</trd>
@@ -636,40 +724,40 @@
         Kulturhereda&jcirc;o de la UNESKO en 1986
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://www.eventeo.net/web/index.php/euxropo/kulturo/495-stonehenge-liveros-novajn-sekretojn">
+          <vrk><url ref="http://www.eventeo.net/web/index.php/euxropo/kulturo/495-stonehenge-liveros-novajn-sekretojn">
           Stonehenge liveros novajn sekretojn</url></vrk>,
           <lok>eventeo, 2008-04-28</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_k;&c_r;&c_o;&c_m;&c_l;&c_je;&c_h;</trd>
     <trd lng="fr">cromlech</trd>
   </snc>
 </drv>
 </art>
   <!--
-  $Log: cirkl.xml,v $
-versio 1.59 2020/02/22 18:10:25
-Wolfram Diestel: svg anst. gif
+  $Log$
+versio 1.146 2023/05/01 13:28:05
+Paul Peeraerts: Steloj -> monato
 
-  Revision 1.58  2020/02/13 20:10:19  revo
-  Wolfram Diestel: formuloj per am
+versio 1.145 2023/04/29 18:29:14
+Paul Peeraerts: Steloj -> monato
 
-  Revision 1.57  2019/11/07 23:10:17  revo
-  Wolfram Diestel: +ekz-oj
+versio 1.144 2023/04/24 08:32:23
+Paul Peeraerts: @Sxteloj -> @Monato
 
-  Revision 1.56  2019/06/13 16:10:20  revo
-  Jeromo Vasxe: sxton~o + ref sin
+versio 1.143 2023/04/18 16:30:22
+Paul Peeraerts: Steloj -> monato.be
 
-  Revision 1.55  2019/06/12 10:10:15  revo
-  Jeromo Vasxe: + sxton~o
+versio 1.142 2023/04/15 10:28:41
+Paul Peeraerts: Steloj -> monato.be
 
-  Revision 1.54  2017/10/16 18:10:24  revo
-  Jeromo Vasxe: ~a + 1 snc
+versio 1.141 2023/04/11 12:45:19
+Paul Peeraerts: Steloj -> monato.be
 
-  Revision 1.53  2017/09/10 18:10:14  revo
-  Vito Redsky: +trd ro
+versio 1.140 2023/04/01 12:41:26
+Paul Peeraerts: &Monato;
 
-  Revision 1.52  2016/12/04 18:10:15  revo
+versio 1.139 2023/02/14 07:27:19
 -->
 </vortaro>

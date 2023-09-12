@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vers.xml,v 1.32 2023/09/05 09:43:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vers</rad>/o
@@ -33,12 +32,17 @@
   <trd lng="fr">vers<klr tip="ind"> (en po&eacute;sie)</klr></trd>
   <trd lng="hu">verssor</trd>
   <trd lng="id">ayat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A69;&#x53E5;  [<ind>&#x3057;&#x304F;</ind>]</trd>,
+    <trd>&#x8A69;&#x306E;&#x4E00;&#x884C;  [<ind>&#x3057;&#x306E;&#x3044;&#x3063;&#x3053;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>vers<klr tip="ind"> (versregel)</klr></trd>
   </trdgrp>
   <trd lng="pt">verso</trd>
   <trd lng="ru">&c_s;&c_t;&c_i;&c_h;</trd>
   <trd lng="sk">ver&scaron;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_r;&c_sh;</trd>
 </drv>
 
 <drv mrk="vers.0i">
@@ -62,6 +66,10 @@
     <trd>ver&scaron;ovat</trd>
   </trdgrp>
   <trd lng="de">dichten</trd>
+  <trdgrp lng="de">
+    <trd>Verse schmieden</trd>,
+    <trd>dichten</trd>
+  </trdgrp>
   <trd lng="en">write verse</trd>
   <trdgrp lng="es">
     <trd>hacer versos</trd>,
@@ -72,6 +80,7 @@
     <trd>rimer<klr tip="ind"> (faire des vers)</klr></trd>
   </trdgrp>
   <trd lng="hu">versel</trd>
+  <trd lng="ja">&#x8A69;&#x3092;&#x4F5C;&#x308B;  [<ind>&#x3057;&#x3092;&#x3064;&#x304F;&#x308B;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>dichten</trd>,
     <trd>verzen schrijven</trd>
@@ -81,6 +90,10 @@
     <trd>b&aacute;sni&tcaron;</trd>,
     <trd>p&iacute;sa&tcaron; ver&scaron;e</trd>,
     <trd>ver&scaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_t;&c_i; (&c_u; &c_v;&c_ib;&c_r;&c_sh;&c_a;&c_h;)</trd>,
+    <trd>&#x43F;&c_i;&c_s;&c_a;&c_t;&c_i; &c_v;&c_ib;&c_r;&c_sh;&c_ib;</trd>
   </trdgrp>
 </drv>
 
@@ -120,8 +133,8 @@
       </ekz><ekz>
         <uzo tip="stl">FIG</uzo>
         Kabe eldonis sian tradukon
-        &#171;<ind><tld lit="V"/>a&jcirc;oj en prozo</ind> de
-        I.S. Turgenev&#187; en Moskvo, &ccirc;e &#171;Esperanto&#187; en 1909.
+        &#xAB;<ind><tld lit="V"/>a&jcirc;oj en prozo</ind> de
+        I.S. Turgenev&#xBB; en Moskvo, &ccirc;e &#xAB;Esperanto&#xBB; en 1909.
         <trd lng="ru">&c_s;&c_t;&c_i;&c_h;&c_o;&c_t;&c_v;&c_o;&c_r;&c_je;&c_n;&c_i;&c_ja; &c_v; &c_p;&c_r;&c_o;&c_z;&c_je;</trd>
       </ekz>
     </dif>
@@ -136,11 +149,16 @@
   <trd lng="es">poes&iacute;a</trd>
   <trd lng="fr">po&eacute;sie<klr tip="ind"> (&oelig;uvre en vers)</klr></trd>
   <trd lng="hu">vers</trd>
+  <trdgrp lng="ja">
+    <trd>&#x97FB;&#x6587;  [<ind>&#x3044;&#x3093;&#x3076;&#x3093;</ind>]</trd>,
+    <trd>&#x8A69;&#x6B4C;  [<ind>&#x3057;&#x3044;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">gedicht</trd>
   <trd lng="pt">poema</trd>
   <trd lng="pl">wiersz</trd>
   <trd lng="ru">&c_s;&c_t;&c_i;&c_h;&c_o;&c_t;&c_v;&c_o;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="tr">&scedil;iir</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_r;&c_sh;</trd>
 </drv>
 
 <drv mrk="vers.0isto">
@@ -183,15 +201,21 @@
           </fnt>.
         </ekz>
       </rim>
+      <trdgrp lng="be">
+        <trd>&c_v;&c_je;&c_r;&c_sh;&c_a;&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+        <trd>&c_v;&c_je;&c_r;&c_sh;&c_a;&c_t;&c_v;&c_o;&c_r;&c_a;&c_c;</trd>
+      </trdgrp>
       <trd lng="ca">versista</trd>
       <trd lng="es">versista</trd>
       <trd lng="fr">versificateur</trd>
-      <trdgrp lng="ru">
+      <trd lng="ja">&#x8A69;&#x3092;&#x4F5C;&#x308B;&#x4EBA;  [<ind>&#x3057;&#x3092;&#x3064;&#x304F;&#x308B;&#x3058;&#x3093;</ind>]</trd>
+  <trdgrp lng="ru">
         <trd>&c_s;&c_t;&c_i;&c_h;&c_o;&c_t;&c_v;&c_o;&c_r;&c_je;&c_c;<klr> (noblastile)</klr></trd>,
         <trd>&c_s;&c_t;&c_i;&c_h;&c_o;&c_p;&c_l;&c_jo;&c_t;<klr> (mal&scirc;ate)</klr></trd>
       </trdgrp>
   <trd lng="sk">ver&scaron;otepec</trd>
   <trd lng="cs">ver&scaron;otepec</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_r;&c_sh;&#x43E;&c_t;&c_v;&#x43E;&c_r;&c_je;&c_c;&#x44C;</trd>
 </drv>
 
 <drv mrk="vers.0ero">
@@ -220,8 +244,10 @@
   <trd lng="be">&c_s;&c_t;&c_a;&c_p;&c_a;</trd>
   <trd lng="cs">ver&scaron;ov&aacute; stopa</trd>
   <trd lng="en">foot<klr tip="ind"> (of verse)</klr></trd>
+  <trd lng="ja">&#x8A69;&#x811A;  [<ind>&#x3057;&#x3042;&#x3057;</ind>]</trd>
   <trd lng="ru">&c_s;&c_t;&c_o;&c_p;&c_a;<klr tip="amb"> (&c_p;&c_o;&c_e;&c_t;.)</klr></trd>
   <trd lng="sk">ver&scaron;ov&aacute; stopa</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_r;&c_sh;&#x43E;&c_v;&c_a;&#x43D;&c_a; &c_s;&c_t;&#x43E;&#x43F;&c_a;</trd>
 </drv>
 
 <drv mrk="vers.unu0o">
@@ -236,15 +262,15 @@
         <ctl>Novaj unu<tld/>oj</ctl>
         <fnt>
           <aut>G. E. Maura</aut>,
-          <vrk><url
-ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr55/unuversoj.html"
-              >Novaj unuversoj</url></vrk>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr55/unuversoj.html">Novaj
+          unuversoj</url></vrk>,
           <lok>Nica Literatura Revuo, 1960-05 &gcirc;is 06, numero 5/5, p.
           161-162a</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_d;&c_n;&c_a;&c_r;&c_a;&c_d;&c_k;&c_o;&c_w;&c_je;</trd>
   <trd lng="ca">mon&ograve;stic</trd>
   <trd lng="es">mon&oacute;stico<klr> (poema de un solo verso)</klr></trd>
   <trd lng="fr">monostique</trd>
@@ -276,15 +302,26 @@ ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr55/unuversoj.ht
   <trd lng="es">versificaci&oacute;n</trd>
   <trd lng="fr">versification</trd>
   <trd lng="hu">versel&eacute;s</trd>
+  <trd lng="ja">&#x4F5C;&#x8A69;&#x6CD5;  [<ind>&#x3055;&#x304F;&#x3057;&#x307B;&#x3046;</ind>]</trd>
   <trd lng="ru">&c_s;&c_t;&c_i;&c_h;&c_o;&c_s;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>b&aacute;snenie</trd>,
     <trd>ver&scaron;ovanie</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_ib;&c_r;&c_sh;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.31 2023/07/24 17:28:56
+Ulrich Fellmann: versi: +1 plia DE trd
+
+versio 1.29 2022/02/09 08:34:06
+Dmitri Gabinski: + trd be, ru
+
+versio 1.28 2022/02/08 07:28:16
+Dmitri Gabinski: + trd be
+
 Revision 1.26  2017/02/05 12:45:17  revo
 Sergio Pokrovskij: +ekz
 
@@ -298,11 +335,5 @@ Revision 1.23  2015/06/28 12:03:50  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.22  2015/06/15 13:10:14  revo
-Sergio Pokrovskij: +ekz
-
-Revision 1.21  2014/06/10 05:10:19  revo
-Sergio Pokrovskij: +trd=ru, +~isto
-
-Revision 1.20  2011/12/02 09:10:09  revo
 -->
 </vortaro>

@@ -1,45 +1,32 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: etap.xml,v 1.16 2010/10/30 16:30:34 revo Exp $">
+<art mrk="$Id: etap.xml,v 1.24 2023/08/31 11:49:30 revo Exp $">
 <kap>
-<ofc>8</ofc>
-<rad>etap</rad>/o <fnt><bib>PV</bib></fnt>
+  <ofc>8</ofc>
+  <rad>etap</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
+
 <drv mrk="etap.0o">
-<kap><tld/>o</kap>
-
- <snc>
-  <dif>
-   <refgrp tip="dif">
-     <ref cel="stadi.0o.haltejo">Stadio (haltejo).</ref>
-   </refgrp>
-  </dif>
-  <trdgrp lng="de">
-     <trd>Rastplatz</trd>,
-     <trd>Etappenort</trd>,
-     <trd>Etappenziel</trd>,
-     <trd>Etappe</trd>
-  </trdgrp>
-  <trdgrp lng="en">
-    <trd>halting place</trd>,
-    <trd>stopover</trd>
-  </trdgrp>
-  <trd lng="hu">pihen&odblac;hely</trd>
-  <trd lng="pl">etap</trd>
-  <trd lng="pt">etapa</trd>
-  <trd lng="ro">etap&abreve;</trd>
- </snc>
-
- <snc>
-  <dif>
-   <refgrp tip="dif">
-     <ref cel="stadi.0o.interhalteja_distanco">Stadio
-       (interhalteja distanco)</ref>
-   </refgrp>:
-   <ekz>la regimento faris hodia&ubreve; longan <tld/>on.</ekz>
-  </dif>
+  <kap><tld/>o</kap>
+  <snc mrk="etap.0o.TRA">
+    <dif>
+      Parto de <ref tip="malprt" cel="vojagx.0o">voja&gcirc;o</ref>
+      inter du haltejoj, precipe tia tuttaga parto:
+      <ekz>
+        la regimento faris hodia&ubreve; longan <tld/>on;
+      </ekz>
+      <ekz>
+        oni veturas montbicikle la&ubreve; la tuta longeco de &leftquot;<nom>Alpentour</nom>&rightquot;
+        a&ubreve; la&ubreve; parto de &gcirc;i,
+        tio signifas tage en <tld/>o pasigi inter 50 kaj 120 km
+        <fnt>
+          <aut>E. Georgiev</aut>
+          <vrk>900 km tra montbicikla paradizo</vrk>
+          <lok>Monato, 2000-12, p. 20a</lok>
+        </fnt>;
+      </ekz>
+    </dif>
   <trd lng="de">Tagesmarsch</trd>
   <trdgrp lng="en">
     <trd>distance covered</trd>,
@@ -54,13 +41,47 @@
   <trd lng="pl">etap</trd>
   <trd lng="pt">etapa</trd>
   <trd lng="ro">etap&abreve;</trd>
- </snc>
-
-  <snc>
+  </snc>
+  <snc mrk="etap.0o.haltejo">
     <dif>
-     <refgrp tip="dif">
-       <ref cel="stadi.0o.fazo">Stadio (fazo)</ref>.
-     </refgrp>
+      Portempa halto, <ref tip="vid" cel="halt.0ejo">haltejo</ref> en voja&gcirc;o:
+      <ekz>
+        tiutempe ofte okazis, ke letero transiris plurajn landojn kaj ricevis stampon en
+        &ccirc;iu <tld/>o
+        <fnt>
+          <aut>W. Klag</aut>
+          <vrk>VIPE 2000, a&ubreve; &ccirc;u la po&scirc;tmarkoj malaperos?</vrk>
+          <lok>Monato, 2000-09, p. 18a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+     <trd>Rastplatz</trd>,
+     <trd>Etappenort</trd>,
+     <trd>Etappenziel</trd>,
+     <trd>Etappe</trd>
+    </trdgrp>
+      <trdgrp lng="en">
+      <trd>halting place</trd>,
+      <trd>stopover</trd>
+    </trdgrp>
+    <trd lng="hu">pihen&odblac;hely</trd>
+    <trd lng="pl">etap</trd>
+    <trd lng="pt">etapa</trd>
+    <trd lng="ro">etap&abreve;</trd>
+  </snc>
+  <snc mrk="etap.0o.stadio">
+    <dif>
+      Iu el la stabilaj statoj de pli vasta evoluo,
+      <ref cel="stadi.0o.fazo">stadio<sncref/></ref>:
+      <ekz>
+        dum dormado sin sekvas pluraj <tld/>oj
+        <fnt>
+          <aut>P. S. Viana</aut>
+          <vrk><url ref="https://www.lingq.com/lesson/bona-dormado-sana-cerbo-1181564/">Bona dormado, sana cerbo </url></vrk>
+          <lok>Esperanta Retradio, 2014</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="de">Etappe</trd>
     <trdgrp lng="en">
@@ -90,6 +111,13 @@
     <trd>&ccaron;&aacute;st z&aacute;vodu</trd>
   </trdgrp>
   <trd lng="fr">&eacute;tape</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5BBF;&#x55B6;&#x5730;  [<ind>&#x3057;&#x3085;&#x304F;&#x3048;&#x3044;&#x3061;</ind>]</trd>,
+    <trd>&#x4F11;&#x61A9;&#x5730;  [<ind>&#x304D;&#x3085;&#x3046;&#x3051;&#x3044;&#x3061;</ind>]</trd>,
+    <trd>&#x884C;&#x7A0B;  [<ind>&#x3053;&#x3046;&#x3066;&#x3044;</ind>]</trd>,
+    <trd>&#x8D70;&#x884C;&#x533A;&#x9593;  [<ind>&#x305D;&#x3046;&#x3053;&#x3046;&#x304F;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x6BB5;&#x968E;  [<ind>&#x304D;&#x3056;&#x306F;&#x3057;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>stadium</trd>,
     <trd>etappe</trd>
@@ -105,10 +133,17 @@
     <trd>f&aacute;za</trd>,
     <trd>&uacute;sek</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x435;&#x442;&#x430;&#x43F;</trd>,
+    <trd>&#x441;&#x442;&#x430;&#x434;&#x456;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2021/01/07 23:01:45
+Jeromo Vasxe: reverk. dif-ojn, + ekz
+
 Revision 1.20  2015/07/04 08:37:33  revo
 aldono de trd cs per skripto de M. von Laer
 

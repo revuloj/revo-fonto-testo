@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: produk.xml,v 1.134 2023/09/03 12:45:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>produkt</rad>/i 
+  <rad>produkt</rad>/i
 </kap>
 <drv mrk="produk.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -20,20 +19,20 @@
         re&gcirc;o</lok></fnt>;
       </ekz>
       <ekz>
-        la grenon, <klr>[&#8230;]</klr> la moston, <klr>[&#8230;]</klr> la oleon,
-        <klr>[&#8230;]</klr> kion <tld/>as la tero
+        la grenon, <klr>[&#x2026;]</klr> la moston, <klr>[&#x2026;]</klr> la oleon,
+        <klr>[&#x2026;]</klr> kion <tld/>as la tero
         <fnt>
           <bib>MT</bib>
           <lok>&Hcirc;agaj 1:11</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la pluvo <klr>[&#8230;]</klr> malsoifigas la teron kaj <klr>[&#8230;]</klr>
+        la pluvo <klr>[&#x2026;]</klr> malsoifigas la teron kaj <klr>[&#x2026;]</klr>
         <tld/>igas &gcirc;in
         <fnt><bib>MT</bib>, <lok>&Jes; 55:10</lok></fnt>;
       </ekz>
       <ekz>
-        dum li semis, iuj semoj <klr>[&#8230;]</klr> falis en la bonan teron,
+        dum li semis, iuj semoj <klr>[&#x2026;]</klr> falis en la bonan teron,
         kaj donis frukton,
         kreskante kaj multobli&gcirc;ante, kaj <tld/>is tridekoble kaj
         sesdekoble
@@ -53,11 +52,11 @@
         ventumiloj konstruitaj tiamaniere, ke ili <tld/>as malpli da
         bruo
         <fnt>
-          <bib>Monato</bib>
           <aut>Franck Arnaud</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008261.html">Kvietigu
+          <vrk><url ref="&Monato;/2004/008261.html">Kvietigu
           tiun komputilon!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/03, p. 15</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -95,23 +94,22 @@
         <tld/>ejo de sukero;
       </ekz>
       <ekz>
-        la ses plej gravaj bierfabrikoj <klr>[&#8230;]</klr> pasintjare
+        la ses plej gravaj bierfabrikoj <klr>[&#x2026;]</klr> pasintjare
         <tld/>is 166 milionojn da litroj
         <fnt>
+       <aut>LAST</aut>
+          <vrk><url ref="&Monato;/2000/006842.php">Biero populari&gcirc;as</url></vrk>
           <bib>Monato</bib>
-          <aut>Last</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006842.html">Litovio:
-          Biero populari&gcirc;as</url></vrk>
+          <lok>2000/04, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
         la ligno&scirc;uojn ja oni <tld/>as el poploligno
         <fnt>
+          <aut>Maxime Lechien</aut>
+          <vrk><url ref="&Monato;/2000/006955.php">Fama karnavalo en Binche</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006955.html">Belgio:
-          Fama karnavalo en Binche</url></vrk>
+          <lok>2000/06, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -119,8 +117,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>William Simcock</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/007873.html">Impresoj
+          <vrk><url ref="&Monato;/2003/007873.html">Impresoj
           pri Portugalio</url></vrk>
         </fnt>;
       </ekz>
@@ -128,20 +125,21 @@
         necesas nur lan&ccirc;i la lastajn programojn, kiuj <tld/>as &ccirc;iajn
         eblajn tabelojn kaj diagramojn
         <fnt>
-          <bib>Monato</bib>
           <aut>Hektor Alos I Font</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008062.html">Spektantoj
+          <vrk><url ref="&Monato;/2003/008062.html">Spektantoj
           spektataj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/07, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         la nuklea centralo ne plu <tld/>as elektroenergion
         <fnt>
-          <bib>Monato</bib>
           <aut>last</aut>
           <vrk><url ref="&Monato;/2010/009967.php">Adia&ubreve; al
           la nuklea &scirc;tato</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/03, p. 12</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -151,36 +149,116 @@
       <ref cel="fabrik.0i">fabriki</ref>
     </refgrp>
     <trd lng="ca">fabricar</trd>
+    <trdgrp lng="de">
+      <trd>anfertigen</trd>,
+      <trd>fabrizieren</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>termel</trd>,
       <trd>gy&aacute;rt</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">produseer</trd>
+  <trd lng="am">&#x121D;&#x122D;&#x1275;</trd>
+  <trd lng="ar">&a_A_hamza_sube;&a_n;&a_t;&a_A;&a_j;</trd>
+  <trd lng="az">istehsal</trd>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_r;&c_a;&c_b;&c_l;&c_ja;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="bn">&#x989;&#x9A4;&#x9CD;&#x9AA;&#x9BE;&#x9A6;&#x9A8;</trd>
+  <trd lng="bo">&t_ba;&t_za;&t_naro;&t_tsheg;&t_sa;&t_kata;&t_rata;&t_shabchu;&t_na;&t_tsheg;&t_ba;&t_yata;&t_drengbu;&t_da;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="bs">proizvode</trd>
   <trd lng="ca">produir</trd>
+  <trd lng="co">prud&ugrave;cinu</trd>
   <trdgrp lng="cs">
     <trd>plodit</trd>,
     <trd>produkovat</trd>,
     <trd>rodit</trd>,
     <trd>vyr&aacute;b&ecaron;t</trd>
   </trdgrp>
+  <trd lng="cy">cynhyrchu</trd>
+  <trd lng="da">producere</trd>
   <trd lng="de">produzieren</trd>
   <trd lng="en">produce</trd>
   <trd lng="es">producir</trd>
+  <trd lng="et">tootma</trd>
+  <trd lng="eu">ekoizteko</trd>
   <trd lng="fr">produire</trd>
+  <trd lng="fy">produsearje</trd>
+  <trd lng="ga">ar aird</trd>
+  <trd lng="gd">a &#x2018;d&egrave;anamh</trd>
+  <trd lng="gl">producir</trd>
+  <trd lng="gu">&#xA89;&#xAA4;&#xACD;&#xAAA;&#xABE;&#xAA6;&#xAA8;</trd>
+  <trd lng="ha">kera</trd>
+  <trd lng="hi">&#x909;&#x924;&#x94D;&#x92A;&#x93E;&#x926;&#x928;</trd>
+  <trd lng="hmn">tsim</trd>
+  <trd lng="hr">proizvesti</trd>
+  <trd lng="ht">pwodwi</trd>
+  <trd lng="hy">&#x561;&#x580;&#x57F;&#x561;&#x564;&#x580;&#x565;&#x56C;</trd>
+  <trd lng="ig">mep&#x1EE5;ta</trd>
+  <trd lng="is">framlei&#xF0;a</trd>
+  <trd lng="ja">&#x4F5C;&#x308B; [<ind>&#x3064;&#x304F;&#x308B;</ind>]</trd>
+  <trd lng="jv">gaw&eacute;</trd>
+  <trd lng="ka">&#x10EC;&#x10D0;&#x10E0;&#x10DB;&#x10DD;&#x10D4;&#x10D1;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_sh;&c_y;&#x493;&c_a;&c_r;&c_u;</trd>
+  <trd lng="km">&#x1795;&#x179B;&#x17B7;&#x178F;</trd>
+  <trd lng="kn">&#xC89;&#xCA4;&#xCCD;&#xCAA;&#xCA4;&#xCCD;&#xCA4;&#xCBF;</trd>
+  <trd lng="ko">&#xC0DD;&#xC0B0;</trd>
+  <trd lng="ku">&ccedil;&ecirc;kirin</trd>
+  <trd lng="ky">&c_ch;&c_y;&c_g;&c_a;&c_r;&c_u;&c_u;</trd>
+  <trd lng="lat">producere</trd>
+  <trd lng="lo">&#xE9C;&#xEB0;&#xEA5;&#xEB4;&#xE94;&#xE95;&#xEB0;&#xE9E;&#xEB1;&#xE99;</trd>
+  <trd lng="lt">gaminti</trd>
+  <trd lng="lv">ra&zcaron;ot</trd>
+  <trd lng="mg">voka-pambolena sy fiompiana</trd>
+  <trd lng="mi">te whakaputa</trd>
+  <trd lng="mk">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o; &c_n;&c_a;</trd>
+  <trd lng="ml">&#xD09;&#xD7D;&#xD2A;&#xD4D;&#xD2A;&#xD3E;&#xD26;&#xD3F;&#xD2A;&#xD4D;&#xD2A;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&#x4AF;&c_j;&c_l;&c_d;&c_v;&c_e;&c_r;&c_l;&c_e;&c_h;</trd>
+  <trd lng="mr">&#x909;&#x924;&#x94D;&#x92A;&#x93E;&#x926;&#x928;</trd>
+  <trd lng="ms">menghasilkan</trd>
+  <trd lng="mt">jipprodu&#x10B;u</trd>
+  <trd lng="my">&#x101F;&#x1004;&#x103A;&#x1038;&#x101E;&#x102E;&#x1038;&#x101F;&#x1004;&#x103A;&#x1038;&#x101B;&#x103D;&#x1000;&#x103A;</trd>
+  <trd lng="ne">&#x909;&#x924;&#x94D;&#x92A;&#x93E;&#x926;&#x928;</trd>
   <trd lng="nl">produceren</trd>
+  <trd lng="ny">panga</trd>
+  <trd lng="pa">&#xA09;&#xA24;&#xA2A;&#xA3E;&#xA26;&#xA28;</trd>
   <trd lng="pl">produkowa&cacute;</trd>
+  <trd lng="ps">&a_t;&a_w;&a_l;&a_y;&a_d;&a_w;&a_l;&a_komo; &a_j;&a_w;&#x693;&a_w;&a_l;</trd>
   <trd lng="pt">produzir</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="rw">umusaruro</trd>
+  <trd lng="sd">&f_p;&a_y;&a_d;&a_A;</trd>
+  <trd lng="si">&#xDB1;&#xDD2;&#xDB4;&#xDD0;&#xDBA;&#xDD4;&#xDB8;</trd>
   <trdgrp lng="sk">
     <trd>dor&aacute;ba&tcaron;</trd>,
     <trd>produkova&tcaron;</trd>,
     <trd>vyr&aacute;ba&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">proizvajajo</trd>
+  <trd lng="sm">gaosi</trd>
+  <trd lng="sn">kubereka</trd>
+  <trd lng="so">soo saaraan</trd>
+  <trd lng="sq">prodhojn&euml;</trd>
+  <trd lng="st">lihlahisoa</trd>
+  <trd lng="su">ngahasilkeun</trd>
+  <trd lng="sw">kuzalisha</trd>
+  <trd lng="ta">&#xB89;&#xBB1;&#xBCD;&#xBAA;&#xBA4;&#xBCD;&#xBA4;&#xBBF;</trd>
+  <trd lng="te">&#xC09;&#xC24;&#xC4D;&#xC2A;&#xC24;&#xC4D;&#xC24;&#xC3F;</trd>
+  <trd lng="tg">&c_o;&c_f;&c_a;&c_r;&c_i;&c_d;&c_a;&c_n;</trd>
+  <trd lng="th">&#xE1C;&#xE25;&#xE34;&#xE15;</trd>
+  <trd lng="tl">gumawa</trd>
+  <trd lng="tt">&#x497;&c_i;&c_t;&c_je;&c_sh;&c_t;&c_je;&c_r;&c_m;&#x4D9;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_r;&c_o;&c_b;&c_l;&c_ja;&c_t;&c_i;</trd>
+  <trd lng="ur">&f_p;&f_y;&a_d;&a_A;&a_w;&a_A;&a_r;</trd>
+  <trd lng="uz">mahsulot</trd>
+  <trd lng="vi">s&#x1EA3;n xu&#x1EA5;t</trd>
+  <trd lng="xh">velisa</trd>
+  <trd lng="yi">&pe;&#x5BC;&resh;&alef;&#x5B8;&dalet;&vav;&tsadi;&yod;&resh;&fnun;</trd>
+  <trd lng="yo">mu jade</trd>
+  <trd lng="zu">khiqiza</trd>
 </drv>
 
 <drv mrk="produk.0o">
@@ -188,10 +266,10 @@
   <snc mrk="produk.0o.produktajxo">
     <dif>
       La rezulto de la ago <tld/>i:
-      <ekz>  
-       ili man&gcirc;is el la <tld/>oj de la tero en la sekvanta tago 
+      <ekz>
+       ili man&gcirc;is el la <tld/>oj de la tero en la sekvanta tago
        <fnt><bib>MT</bib>, <lok>Josuo 5:11</lok></fnt>;
-      </ekz> 
+      </ekz>
       <ekz>
         <tld/>o de justeco estos paco, kaj akiro de justeco estos
         trankvileco
@@ -206,7 +284,7 @@
         <fnt><bib>EE</bib>, <lok>&ccirc;ap. 2</lok></fnt>;
       </ekz>
       <ekz>
-        &ccirc;u <klr>[&#8230;]</klr> nur <tld/>o de mia ekscitita fantazio
+        &ccirc;u <klr>[&#x2026;]</klr> nur <tld/>o de mia ekscitita fantazio
         <fnt><bib>SkandalJozef</bib>, <lok>plendoj de Jozefo
         arestita</lok></fnt>?
       </ekz>
@@ -224,14 +302,15 @@
       </ekz>
       <ekz>
         konsum<tld/>oj
-        <fnt>
-          <bib>Monato</bib>
+<fnt>
+
           <aut>Marteno Ecott</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007201.html">Invadas
-          la angla</url></vrk>
+          <vrk><url ref="&Monato;/2001/007201.php">Invadas la
+          angla</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/02, p. 15</lok>
         </fnt>.
-      </ekz>
+        </ekz>
     </dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>,
@@ -293,7 +372,7 @@
         </trdgrp>
       </ekz>
       <ekz>
-        <ind>malneta nacia <tld/>o</ind> (MNP);
+        <ind>malneta nacia <tld/>o</ind> (<nom>MNP</nom>);
         <trdgrp lng="be">
           <trd>&c_v;&c_a;&c_l;&c_a;&c_v;&c_y; &c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>,
           <trd>&c_V;&c_N;&c_P;</trd>
@@ -332,42 +411,120 @@
       </ekz>
       <ekz>
         la komparo de la malneta enlanda <tld/>o (MEP) de diversaj
-        landoj inter 1989 
+        landoj inter 1989
         kaj 1999 restas la sola plej certa indika&jcirc;o de progreso a&ubreve; de
         ties manko
         <fnt>
-          <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007100.html">Kiu
-          sukcesis,
-          kiu postrestis?</url></vrk>
-        </fnt>;
+          <vrk><url ref="&Monato;/2000/007100.php">Kiu sukcesis, kiu postrestis?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 10</lok>
+          </fnt>;
       </ekz>
       <ekz>
         la&ubreve; sia nacia <tld/>o Slovenio jam superas Grekion
         <fnt>
-          <bib>Monato</bib>
-          <aut>P. Gubbins</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007251.html">Slovenio:
-          Ordo tordita &#8208; dekstren maldekstren</url></vrk>
-        </fnt>.
+          <aut>Zlatko Ti&scaron;ljar</aut>
+            <vrk><url ref="&Monato;/2001/007251.php">Ordo tordita &ndash; dekstren
+            maldekstren</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 7</lok>
+          </fnt>.
       </ekz>
     </dif>
+      <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>
+      <trdgrp lng="pl">
+        <trd>wyr&oacute;b</trd>,
+        <trd>wytw&oacute;r</trd>
+      </trdgrp>
   </snc>
+  <trd lng="af">produk</trd>
+  <trd lng="am">&#x121D;&#x122D;&#x1275;</trd>
+  <trd lng="ar">&a_n;&a_t;&a_A;&a_j;</trd>
+  <trd lng="az">m&#x259;hsul</trd>
+  <trd lng="bn">&#x9AA;&#x9A3;&#x9CD;&#x9AF;</trd>
+  <trd lng="bs">proizvod</trd>
+  <trd lng="co">pruduttu</trd>
   <trdgrp lng="cs">
     <trd>produkt</trd>,
     <trd>v&yacute;robek</trd>,
     <trd>v&yacute;tvor</trd>,
     <trd>zplodina</trd>
   </trdgrp>
+  <trd lng="cy">cynnyrch</trd>
+  <trd lng="da">produkt</trd>
+  <trd lng="et">toode</trd>
+  <trd lng="eu">produktua</trd>
+  <trd lng="fy">produkt</trd>
+  <trd lng="ga">t&aacute;irge</trd>
+  <trd lng="gd">bathar</trd>
+  <trd lng="gl">produto</trd>
+  <trd lng="gu">&#xA89;&#xAA4;&#xACD;&#xAAA;&#xABE;&#xAA6;&#xAA8;</trd>
+  <trd lng="ha">samfur</trd>
+  <trd lng="hi">&#x909;&#x924;&#x94D;&#x92A;&#x93E;&#x926;</trd>
+  <trd lng="hmn">khoom</trd>
+  <trd lng="hr">proizvod</trd>
+  <trd lng="ht">pwodwi</trd>
+  <trd lng="hy">&#x561;&#x580;&#x564;&#x575;&#x578;&#x582;&#x576;&#x584;</trd>
+  <trd lng="ig">ngwaah&#x1ECB;a</trd>
+  <trd lng="is">vara</trd>
+  <trd lng="ja">&#x88FD;&#x54C1; [<ind>&#x305B;&#x3044;&#x3072;&#x3093;</ind>]</trd>
+  <trd lng="jv">produk</trd>
+  <trd lng="ka">&#x10DE;&#x10E0;&#x10DD;&#x10D3;&#x10E3;&#x10E5;&#x10E2;&#x10D8;</trd>
+  <trd lng="kk">&#x4E9;&c_n;&c_ib;&c_m;</trd>
+  <trd lng="km">&#x1795;&#x179B;&#x17B7;&#x178F;&#x1795;&#x179B;</trd>
+  <trd lng="kn">&#xC89;&#xCA4;&#xCCD;&#xCAA;&#xCA8;&#xCCD;&#xCA8;</trd>
+  <trd lng="ko">&#xC81C;&#xD488;</trd>
+  <trd lng="ku">mal</trd>
+  <trd lng="ky">&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
+  <trd lng="lat">vestibulum</trd>
+  <trd lng="lo">&#xE9C;&#xEB0;&#xEA5;&#xEB4;&#xE94;&#xE95;&#xEB0;&#xE9E;&#xEB1;&#xE99;</trd>
+  <trd lng="lt">produktas</trd>
+  <trd lng="lv">produkts</trd>
+  <trd lng="mg">vokatra</trd>
+  <trd lng="mi">hua</trd>
+  <trd lng="mk">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;</trd>
+  <trd lng="ml">&#xD09;&#xD24;&#xD4D;&#xD2A;&#xD28;&#xD4D;&#xD28;&#xD02;</trd>
+  <trd lng="mn">&c_b;&#x4AF;&c_t;&c_e;&c_e;&c_g;&c_d;&c_e;&c_h;&#x4AF;&#x4AF;&c_n;</trd>
+  <trd lng="mr">&#x909;&#x924;&#x94D;&#x92A;&#x93E;&#x926;&#x928;</trd>
+  <trd lng="ms">produk</trd>
+  <trd lng="mt">prodott</trd>
+  <trd lng="my">&#x1011;&#x102F;&#x1010;&#x103A;&#x1000;&#x102F;&#x1014;&#x103A;</trd>
+  <trd lng="ne">&#x909;&#x924;&#x94D;&#x92A;&#x93E;&#x926;&#x928;</trd>
+  <trd lng="ny">chotuluka</trd>
+  <trd lng="pa">&#xA09;&#xA24;&#xA2A;&#xA3E;&#xA26;</trd>
+  <trd lng="ps">&a_d; &a_m;&a_H;&a_S;&a_w;&a_l;</trd>
+  <trd lng="rw">ibicuruzwa</trd>
+  <trd lng="sd">&f_p;&a_r;&a_A;&#x68A;&#x6AA;&#x67D;</trd>
+  <trd lng="si">&#xDB1;&#xDD2;&#xDC2;&#xDCA;&#xDB4;&#xDCF;&#xDAF;&#xDB1;</trd>
   <trdgrp lng="sk">
     <trd>produkt</trd>,
     <trd>splodina</trd>,
     <trd>v&yacute;robok</trd>,
     <trd>v&yacute;tvor</trd>
   </trdgrp>
+  <trd lng="sl">izdelek</trd>
+  <trd lng="sm">mea e gaosi</trd>
+  <trd lng="sn">chigadzirwa</trd>
+  <trd lng="so">wax soo saarka</trd>
+  <trd lng="sq">produkt</trd>
+  <trd lng="st">sehlahiswa</trd>
+  <trd lng="su">barang</trd>
+  <trd lng="sw">bidhaa</trd>
+  <trd lng="ta">&#xBA4;&#xBAF;&#xBBE;&#xBB0;&#xBBF;&#xBAA;&#xBCD;&#xBAA;&#xBC1;</trd>
+  <trd lng="te">&#xC09;&#xC24;&#xC4D;&#xC2A;&#xC24;&#xC4D;&#xC24;&#xC3F;</trd>
+  <trd lng="tg">&c_m;&c_a;&#x4B3;&c_s;&c_u;&c_l;&c_o;&c_t;</trd>
+  <trd lng="th">&#xE1C;&#xE25;&#xE34;&#xE15;&#xE20;&#xE31;&#xE13;&#xE11;&#xE4C;</trd>
+  <trd lng="tl">produkto</trd>
+  <trd lng="tt">&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
+  <trd lng="ur">&a_m;&a_S;&a_n;&a_w;&a_ayn;&a_A;&a_t;</trd>
+  <trd lng="uz">mahsulot</trd>
+  <trd lng="vi">s&#x1EA3;n ph&#x1EA9;m</trd>
+  <trd lng="xh">imveliso</trd>
+  <trd lng="yi">&pe;&#x5BC;&resh;&alef;&#x5B8;&dalet;&vav;&qof;&tet;</trd>
+  <trd lng="yo">&#x1ECD;ja</trd>
+  <trd lng="zu">umkhiqizo</trd>
 </drv>
 
 <drv mrk="produk.0ado">
@@ -396,52 +553,50 @@
         litovaj bierfarejoj lastatempe transiris al <tld/>ado de pli
         fortaj bieroj
         <fnt>
+       <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2000/006883.php">Fulma kolero</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006883.html">Litovio:
-          Fulma kolero</url></vrk>
+          <lok>2000/09, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
         la alkemiistoj sensukcese strebis al la <tld/>ado de oro el
         malmultekostaj materialoj
         <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2000/006903.php">Arabaj vortoj en la germana
+kaj esperanta lingvoj</url></vrk>
           <bib>Monato</bib>
-          <aut>Yamasaki Seik&ocirc;</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006903.html">Pruntoj: 
-         Arabaj vortoj en la germana kaj esperanta lingvoj</url></vrk>
-        </fnt>;
+          <lok>2000/06, p. 15</lok>
+          </fnt>;
       </ekz>
       <ekz>
         energi<tld/>ado
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007052.html">Verda
+          <vrk><url ref="&Monato;/2000/007052.php">Verda
           nature, science, socie</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         elektro<tld/>ado
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007184.html">Petrolo:
-          Nehaltigeblaj prezalti&gcirc;oj</url></vrk>
-        </fnt>;
+          <vrk><url ref="&Monato;/2000/007184.html">Nehaltigeblaj prezalti&gcirc;oj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 8</lok>
+          </fnt>;
       </ekz>
       <ekz>
         milit<tld/>ado
-        <fnt>
-          <bib>Monato</bib>
+       <fnt>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007100.html">Kiu
-          sukcesis, kiu postrestis?</url></vrk>
-        </fnt>.
+          <vrk><url ref="&Monato;/2000/007100.php">Kiu sukcesis, kiu postrestis?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 10</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -465,13 +620,28 @@
     <trd>termel&eacute;s</trd>,
     <trd>gy&aacute;rt&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x751F;&#x7523;  [<ind>&#x305B;&#x3044;&#x3056;&#x3093;</ind>]</trd>,
+    <trd>&#x7523;&#x51FA;  [<ind>&#x3055;&#x3093;&#x3057;&#x3085;&#x3064;</ind>]</trd>,
+    <trd>&#x88FD;&#x4F5C;  [<ind>&#x305B;&#x3044;&#x3055;&#x304F;</ind>]</trd>,
+    <trd>&#x88FD;&#x9020;  [<ind>&#x305B;&#x3044;&#x305E;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">productie</trd>
-  <trd lng="pl">produkcja</trd>
+  <trdgrp lng="pl">
+    <trd>produkcja</trd>,
+    <trd>wytw&oacute;rczo&sacute;&cacute;</trd>,
+    <trd>fabrykacja</trd>
+  </trdgrp>
   <trd lng="pt">produ&ccedil;&atilde;o <klr tip="amb">(atividade)</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
   <trdgrp lng="sk">
     <trd>produkcia</trd>,
     <trd>v&yacute;roba</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_g;&c_o;&c_t;&c_o;&c_v;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_v;&c_i;&c_r;&c_o;&c_b;&c_n;&c_i;&c_c;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -485,7 +655,7 @@
         <fnt><bib>MT</bib>, <lok>&Lev; 2:14</lok></fnt>;
       </ekz>
       <ekz>
-        dum ses jaroj prisemu vian teron kaj rikoltu &gcirc;iajn <tld/>a&jcirc;ojn  
+        dum ses jaroj prisemu vian teron kaj rikoltu &gcirc;iajn <tld/>a&jcirc;ojn
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 23:10</lok>
@@ -498,9 +668,9 @@
         Odeso)</lok></fnt>;
       </ekz>
       <ekz>
-        la romano estis tre interesa <klr>[&#8230;]</klr> sinjorino Anneto nur
+        la romano estis tre interesa <klr>[&#x2026;]</klr> sinjorino Anneto nur
         kun granda
-         malfacileco povis kompreni <klr>[&#8230;]</klr> tiun &ccirc;i mirindan
+         malfacileco povis kompreni <klr>[&#x2026;]</klr> tiun &ccirc;i mirindan
          <tld/>a&jcirc;on de la genia a&ubreve;toro
         <fnt>
           <bib>FK</bib>
@@ -509,10 +679,10 @@
       <ekz>
         <tld/>a&jcirc;o de lokaj manlaboristoj
         <fnt>
+          <aut>Maxime Lechien</aut>
+          <vrk><url ref="&Monato;/2000/006955.php">Fama karnavalo en Binche</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006955.html">Belgio:
-          Fama karnavalo en Binche</url></vrk>
+          <lok>2000/06, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -524,12 +694,13 @@
       </ekz>
       <ekz>
         la beroj, a&ubreve; la <tld/>a&jcirc;oj, faritaj el ili, estas eksportataj,
-        ekzemple mirtelekstrakto 
+        ekzemple mirtelekstrakto
         <fnt>
-          <bib>Monato</bib>
           <aut>Saliko</aut>
           <vrk><url ref="&Monato;/2005/008789.php">Laboro
           kaj la bero</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/12, p. 11</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -549,10 +720,91 @@
     <trd>term&eacute;k</trd>,
     <trd>gy&aacute;rtm&aacute;ny</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7523;&#x7269;  [<ind>&#x3055;&#x3093;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x751F;&#x7523;&#x7269;  [<ind>&#x305B;&#x3044;&#x3055;&#x3093;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x88FD;&#x54C1;  [<ind>&#x305B;&#x3044;&#x3072;&#x3093;</ind>]</trd>,
+    <trd>&#x88FD;&#x9020;&#x7269;  [<ind>&#x305B;&#x3044;&#x305E;&#x3046;&#x3076;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">product</trd>
-  <trd lng="pl">produkt</trd>
+  <trdgrp lng="pl">
+    <trd>produkt</trd>,
+    <trd>wytw&oacute;r</trd>,
+    <trd>wyr&oacute;b</trd>
+  </trdgrp>
   <trd lng="pt">produ&ccedil;&atilde;o <klr tip="amb">(coisa produzida)</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>,
+    <trd>&c_v;&c_i;&c_r;&c_ib;&c_b;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="produk.0ejo">
+  <kap>
+    <tld/>ejo
+  </kap>
+  <snc>
+    <dif>
+      Loko, ekipita kaj uzata por <tld/>i ion:
+      <ekz>
+        <tld/>isto en bazaro asertis ke en &scirc;ia <tld/>ejo oni uzas nur grenojn por nutri
+        la kokinojn
+        <fnt>
+	<aut>Guido van Damme</aut>
+	<vrk><url ref="&Monato;/2001/007272.php">Reen al la edena paradizo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/02, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekologia <tld/>ejo de granda energi-entrepreno
+       <fnt>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2000/007052.php">Verda
+          nature, science, socie</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni transigas <tld/>ejojn el okcidentaj landoj al triamondaj
+        <fnt>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2005/008521.php">Pledo por mondcivitana partio</url></vrk>
+               <bib>Monato</bib>
+          <lok>2005/01, p. 7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komercaj vojoj kondukas nur de <tld/>ejoj al la maro
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#x2116; 5 (103)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="fabrik.0o">fabriko</ref>,
+      <ref cel="manufa.0o">manufakturo</ref>,
+      <ref cel="meti.0ejo">metiejo</ref>,
+      <ref cel="uzin.0o">uzino</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_ja; &c_p;&c_l;&c_ja;&c_c;&c_o;&c_w;&c_k;&c_a;</trd>,
+    <trd>&c_m;&c_je;&c_s;&c_c;&c_a; <ind>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind></trd>
+    <trd>&c_m;&c_je;&c_s;&c_c;&c_a; <ind>&c_v;&c_y;&c_r;&c_a;&c_b;&c_u;</ind></trd>
+  </trdgrp>
+  <trd lng="de">Produktionsst&auml;tte</trd>
+  <trdgrp lng="ja">
+    <trd>&#x88FD;&#x4F5C;&#x6240;  [<ind>&#x305B;&#x3044;&#x3055;&#x304F;&#x3057;&#x3087;</ind>]</trd>,
+    <trd>&#x88FD;&#x9020;&#x6240;  [<ind>&#x305B;&#x3044;&#x305E;&#x3046;&#x3057;&#x3087;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wytw&oacute;rnia</trd>,
+    <trd>fabryka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="produk.0ema">
@@ -564,7 +816,7 @@
         <tld/>ema tero;
       </ekz>
       <ekz>
-        li <klr>[&#8230;]</klr> al iliaj insuloj lokigis aliajn, konfideblajn,
+        li <klr>[&#x2026;]</klr> al iliaj insuloj lokigis aliajn, konfideblajn,
         <tld/>emajn gentojn, kiuj ne malpliigis, sed pliigis la jaran
         imposton
         <fnt><bib>SatirRak</bib>, <lok>Pythagoras, 6</lok></fnt>;
@@ -598,6 +850,10 @@
     <trd>term&eacute;keny</trd>,
     <trd>produkt&iacute;v</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x591A;&#x7523;&#x306E;  [<ind>&#x305F;&#x3055;&#x3093;&#x306E;</ind>]</trd>,
+    <trd>&#x80A5;&#x6C83;&#x306A;</trd>
+  </trdgrp>
   <trd lng="nl">productief</trd>
   <trdgrp lng="pl">
     <trd>p&lstroke;odny</trd>,
@@ -609,6 +865,7 @@
     <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;&c_i;&c_v;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="produk.plus0o">
@@ -618,18 +875,22 @@
       Kvanto plusa, <tld/>ita trans la bezonata a&ubreve; planita kvanto:
       <ekz>
         &ccirc;eesto de la konstanta plus<tld/>o en la socio
-        klare videblas en la monumenta arkitekturo de &Gcirc;urkutan
+        klare videblas en la monumenta arkitekturo de <nom>&Gcirc;urkutan</nom>
         <fnt>
           <aut>V. I. Ionesov</aut>
-          <vrk><url
-          ref="http://www.eventoj.hu/steb/arkeologio/baktrio/baktrio2.htm">
+          <vrk><url ref="&STEB;arkeologio/baktrio/baktrio2.htm">
           Kulturo kaj socio de Norda Baktrio</url></vrk>
           <lok>Scienca Revuo, 1992:1 (43), p. 3a-8a</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_l;&c_ib;&c_sh;&c_a;&c_k; <klr>(&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   <trd lng="fr">surplus</trd>
+  <trdgrp lng="pl">
+    <trd>nadmiar</trd>,
+    <trd>nadwy&zdot;ka</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="produk.re0i">
@@ -646,22 +907,20 @@
       </ekz>
       <ekz>
         reprodukti&gcirc;i <klr>[per]</klr> partenogenezo
-        <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006937.html">Genroj
-          En La Franca: Sinjorino &leftquot;Le secr&eacute;taire&rightquot; (la
-          sekretario)</url></vrk>
+        <fnt><aut>Andr&eacute; Cherpillod</aut>,
+        <vrk><url ref="&Monato;/2000/006937.php">Sinjorino Le secr&eacute;taire ...</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/07, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
         &ccirc;e birdoj la gripvirusoj re<tld/>i&gcirc;as en la intestaro
         <fnt>
-          <bib>Monato</bib>
           <aut>Vladimir Lemelev</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008099.html">Birda
+          <vrk><url ref="&Monato;/2003/008099.html">Birda
           gripo, &ccirc;u dan&gcirc;era por la homo?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/06, p. 14</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -688,33 +947,33 @@
       <ekz>
         re<tld/>i la sonojn de la influa angla estas aparte malfacile
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/007923.html">Internacia
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007923.html">Internacia
           fonetika alfabeto</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/05, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
         en la centro de la libro estas re<tld/>itaj kelkaj fotoj de
         reale vivintaj esperantistoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Nikolao Gudskov</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008392.html">Reveno de
+          <vrk><url ref="&Monato;/2004/008392.html">Reveno de
           heroo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/09, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
         pentra&jcirc;oj, re<tld/>itaj en la 21 bildopa&gcirc;oj &ccirc;e la fino de la
         libro
         <fnt>
-          <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url
-          ref="&Monato;/2006/008784.php">Taglibroj de
+          <vrk><url ref="&Monato;/2006/008784.php">Taglibroj de
           murdita infano</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/03, p. 21</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -743,6 +1002,10 @@
     <trd>copiar</trd>
   </trdgrp>
   </snc>
+  <trdgrp lng="be">
+      <trd>&c_a;&c_d;&c_n;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_r;&c_e;&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
   <trd lng="ca">reproduir</trd>
   <trdgrp lng="cs">
     <trd>mno&zcaron;it</trd>,
@@ -752,6 +1015,16 @@
   <trd lng="en">reproduce</trd>
   <trd lng="es">reproducir</trd>
   <trd lng="fr">reproduire</trd>
+  <trdgrp lng="ja">
+    <trd>&#x518D;&#x751F;&#x7523;&#x3059;&#x308B;  [<ind>&#x3055;&#x3044;&#x305B;&#x3044;&#x3055;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8907;&#x88FD;&#x3059;&#x308B;  [<ind>&#x3075;&#x304F;&#x305B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x518D;&#x73FE;&#x3059;&#x308B;  [<ind>&#x3055;&#x3044;&#x3052;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x518D;&#x751F;&#x3059;&#x308B;  [<ind>&#x3055;&#x3044;&#x305B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8EE2;&#x8F09;&#x3059;&#x308B;  [<ind>&#x3066;&#x3093;&#x3055;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x518D;&#x9332;&#x3059;&#x308B;  [<ind>&#x3055;&#x3044;&#x308D;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3075;&#x3084;&#x3059;</trd>,
+    <trd>&#x7E41;&#x6B96;&#x3055;&#x305B;&#x308B;  [<ind>&#x306F;&#x3093;&#x3057;&#x3087;&#x304F;&#x3055;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">reproduceren</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_o;&c_s;&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
@@ -761,6 +1034,11 @@
   <trdgrp lng="sk">
     <trd>mno&zcaron;i&tcaron;</trd>,
     <trd>reprodukova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_t;&c_v;&c_o;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_n;&c_o;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -774,10 +1052,10 @@
         la sub<tld/>oj povas ebligi pli grandan profiton ol la esencaj
         <tld/>oj
         <fnt><bib>Mortul&Scirc;ip</bib>, <lok>enkonduko 2,
-        &leftquot;mia romano &ndash; la mortula &scirc;ipo&#8221;</lok></fnt>;
+        &leftquot;mia romano &ndash; la mortula &scirc;ipo&#x201D;</lok></fnt>;
       </ekz>
       <ekz>
-        ureata acido <klr>[&#8230;]</klr> formi&gcirc;as en la vivantaj superaj
+        ureata acido <klr>[&#x2026;]</klr> formi&gcirc;as en la vivantaj superaj
         organismoj
         kiel sub<tld/>o en la metabolo de aminoacido kaj de purinoj
         <fnt>
@@ -798,6 +1076,7 @@
     </dif>
     <trd lng="de">Nebenprodukt</trd>
   </snc>
+  <trd lng="be">&c_s;&c_u;&c_b;&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>
   <trd lng="ca">subproducte</trd>
   <trd lng="cs">vedlej&scaron;&iacute; v&yacute;robek</trd>
   <trd lng="es">subproducto</trd>
@@ -806,40 +1085,42 @@
     <trd>sous-produit</trd>
   </trdgrp>
   <trd lng="nl">bijproduct</trd>
+  <trd lng="pl">produkt uboczny</trd>
   <trd lng="pt">subproduto</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_y;&c_j; &c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>,
     <trd>&c_s;&c_u;&c_b;&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
   </trdgrp>
   <trd lng="sk">ved&lcaron;aj&scaron;&iacute; v&yacute;robok</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&c_b;&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>,
+    <trd>&c_p;&c_o;&c_b;&c_ib;&c_ch;&c_n;&c_i;&c_j; &c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t; (&c_p;&c_r;&c_i; &c_o;&c_b;&c_r;&c_o;&c_b;&c_c;&c_ib; &c_t;&c_u;&c_sh;&c_ib;)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.32  2019/06/30 07:43:29  revo
-adaptis URL de Monato
+versio 1.133 2023/08/29 20:28:17
+Wolfram Diestel: ja: prononco
 
-Revision 1.31  2018/04/04 10:10:18  revo
-Jeromo Vasxe: + plus~o
+versio 1.132 2023/08/29 15:28:00
+Wolfram Diestel: ja: prononco
 
-Revision 1.30  2018/03/11 20:10:14  revo
-Wolfram Diestel: prilaboris ekz-ojn
+versio 1.131 2023/05/13 05:26:58
+Paul Peeraerts: + lok
 
-Revision 1.29  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.130 2023/05/01 08:31:37
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.28  2015/06/29 16:40:18  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.129 2023/04/27 06:33:52
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.27  2015/03/08 17:10:19  revo
-Wolfram Diestel: -stileraro, forigis kelkajn ekzemploj sen fonto
+versio 1.128 2023/04/25 14:28:54
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.26  2013/01/07 01:10:14  revo
-Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
+versio 1.127 2023/04/24 15:27:54
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.25  2011/12/12 10:10:09  revo
-Marc Rausell: +trd ca
-
-Revision 1.24  2011/04/29 19:10:38  revo
+versio 1.126 2023/04/24 06:32:33
 -->
 </vortaro>

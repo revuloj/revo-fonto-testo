@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: fram.xml,v 1.14 2009/03/01 17:31:59 revo Exp $">
+  <art mrk="$Id: fram.xml,v 1.19 2023/08/31 13:11:31 revo Exp $">
     <kap>
       <ofc>9</ofc><rad>fram</rad>/o <fnt><bib>PV</bib></fnt>
     </kap>
@@ -32,7 +31,7 @@
         <rim>
           Kadro &ccirc;iam &ccirc;irka&ubreve;as ion kiel bordera&jcirc;o, kaj propre ne
           estas
-          parto de la &ccirc;irka&ubreve;ata&jcirc;o &#8208; dum <tld/>o estas parto de
+          parto de la &ccirc;irka&ubreve;ata&jcirc;o &#x2010; dum <tld/>o estas parto de
           la
           objekto mem, kaj ofte estas strukturo tridimensia. Tio, kion
           kadro &ccirc;irka&ubreve;as, estas &ccirc;iam pli-malpli ebena surfaco, do
@@ -115,10 +114,20 @@
         <trd>skeleton</trd>
       </trdgrp>
   <trd lng="fr">cadre<klr> (structure)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D5;&#x30EC;&#x30FC;&#x30E0;</trd>,
+    <trd>&#x67A0;  [<ind>&#x308F;&#x304F;</ind>]</trd>,
+    <trd>&#x9AA8;&#x7D44;  [<ind>&#x307B;&#x306D;&#x3050;&#x307F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>kostra stroja</trd>,
     <trd>podstavec</trd>,
     <trd>r&aacute;m</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x430;&#x43C;&#x430;</trd>,
+    <trd>&#x441;&#x442;&#x430;&#x43D;&#x438;&#x43D;&#x430;</trd>,
+    <trd>&#x43A;&#x456;&#x441;&#x442;&#x44F;&#x43A;</trd>
   </trdgrp>
 </drv>
   </art>

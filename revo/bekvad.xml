@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bekvad.xml,v 1.13 2019/01/19 11:10:18 revo Exp $">
+<art mrk="$Id: bekvad.xml,v 1.17 2023/08/31 08:48:50 revo Exp $">
 <kap>
   <rad>bekvadrat</rad>/o
 </kap>
 <drv mrk="bekvad.0o">
   <kap><tld/>o</kap>
-  <mlg>&#9838;</mlg>
-  <uzo tip="fak">MUZ</uzo>
-  <snc>
+  <mlg>&#x266E;</mlg>
+  <snc mrk="bekvad.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <uzo tip="fak">TIP</uzo>
     <dif>
-      <ref tip="super" cel="sign.krom0o">Kromsigno</ref>
+      <ref tip="super" cel="sign.krom0o.TIP">Muzika kromsigno</ref>
       nuliganta anta&ubreve;an <ref tip="ant" cel="bemol.0o">bemolecon</ref>
       a&ubreve; <ref tip="ant" cel="dies.0o.MUZ">diesecon</ref> de tono:
       <ekz>
@@ -33,11 +33,22 @@
   </snc>
   <trd lng="cs">odr&aacute;&zcaron;ka</trd>
   <trd lng="de">Aufl&ouml;sungszeichen <klr>(Musik)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30CA;&#x30C1;&#x30E5;&#x30E9;&#x30EB;</trd>,
+    <trd>&#x672C;&#x4F4D;&#x8A18;&#x53F7;  [<ind>&#x307B;&#x3093;&#x3044;&#x304D;&#x3054;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">odr&aacute;&zcaron;ka</trd>
+  <trd lng="uk">&c_b;&c_je;&#x43A;&c_a;&c_r;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.16 2023/07/02 20:28:24
+Wolfram Diestel: kor. ref-cel
+
+versio 1.14 2022/02/07 23:27:58
+Jeromo Vasxe: kor ref
+
 Revision 1.12  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -54,8 +65,5 @@ Revision 1.8  2004/03/09 17:32:29  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.7  2003/01/14 17:34:33  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.6  2002/11/12 17:32:28  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sankt.xml,v 1.59 2023/09/03 12:09:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sankt</rad>/a
@@ -17,6 +16,7 @@
       <ekz>
         la <ind><tld lit="S"/>a Skribo</ind>;
         <trd lng="hu">Szent&iacute;r&aacute;s</trd>
+        <trd lng="nl">Heilige Schrift</trd>
         <trd lng="pl">Pismo &Sacute;wi&eogonek;te</trd>
         <trd lng="ru">
         &c_s;&c_v;&c_ja;&c_shch;&c_je;&c_n;&c_n;&c_o;&c_je;
@@ -24,14 +24,14 @@
         </trd>
       </ekz>
       <ekz>
-        faru <tld/>ajn vestojn por via frato Aaron
+        faru <tld/>ajn vestojn por via frato <nom>Aaron</nom>
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 28:2</lok>
         </fnt>;
       </ekz>
       <ekz>
-        observu la sabaton &ccirc;ar &gcirc;i estas <tld/>a por 
+        observu la sabaton &ccirc;ar &gcirc;i estas <tld/>a por
         vi
         <fnt>
           <bib>MT</bib>
@@ -39,7 +39,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        prenu la <tld/>an oleon kaj <klr>[&#8230;]</klr> <tld/>oleu la altaron
+        prenu la <tld/>an oleon kaj <klr>[&#x2026;]</klr> <tld/>oleu la altaron
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 40:9</lok>
@@ -99,11 +99,11 @@
         latino estas ankora&ubreve; la oficiala lingvo de la <tld lit="S"/>a
         Se&gcirc;o
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008394.html">La angla,
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008394.html">La angla,
           &ccirc;u troja &ccirc;evalo?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/10, p. 20</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -159,6 +159,7 @@
       </ekz>
       <ekz>
         <ind><tld lit="S"/>a Vendredo</ind>;
+        <trd lng="be">&c_p;&c_a;&c_k;&c_u;&c_t;&c_n;&c_a;&c_ja; <ind>&c_p;&c_ja;&c_t;&c_n;&c_ib;&c_c;&c_a;</ind></trd>
         <trd lng="en">Good <ind>Friday</ind></trd>
         <trd lng="de">Karfreitag</trd>
         <trd lng="hu">nagyp&eacute;ntek</trd>
@@ -179,6 +180,7 @@
           <vrk>La libro de la mirinda&jcirc;oj</vrk>,
           <lok>2001</lok>
         </fnt>.sankta
+        <trd lng="be">&c_p;&c_a;&c_k;&c_u;&c_t;&c_n;&c_a;&c_ja; <ind>&c_s;&c_u;&c_b;&c_o;&c_t;&c_a;</ind></trd>
         <trd lng="hu">nagyszombat</trd>
         <trd lng="nl">paaszaterdag</trd>
         <trd lng="pl">Wielka Sobota</trd>
@@ -216,10 +218,10 @@
         </fnt>;
       </ekz>
       <ekz>
-        ho sankta Kabe, helpu 
+        ho sankta Kabe, helpu
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
         </fnt>!
       </ekz>
@@ -257,7 +259,12 @@
       <trd>&c_s;&c_v;&c_ja;&c_t;&c_o;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_y;</trd>,
+    <trd>&c_s;&c_mol;&c_v;&c_ja;&c_sh;&c_ch;&c_e;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="bg">&c_s;&c_v;&c_je;&c_t;&c_i;</trd>
+  <trd lng="bo">&t_ra;&t_tsata;&t_tsheg;&t_cha;&t_drengbu;&t_na;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>posv&aacute;tn&yacute;</trd>,
     <trd>svat&yacute;</trd>
@@ -276,6 +283,12 @@
     <trd>suci</trd>
   </trdgrp>
   <trd lng="it">santo<klr> (agg.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x795E;&#x8056;&#x306A;  [<ind>&#x3057;&#x3093;&#x305B;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x8056;&#x306A;&#x308B;  [<ind>&#x305B;&#x3044;&#x306A;&#x308B;</ind>]</trd>,
+    <trd>&#x5C0A;&#x91CD;&#x3059;&#x3079;&#x304D;  [<ind>&#x305D;&#x3093;&#x3061;&#x3087;&#x3046;&#x3059;&#x3079;&#x304D;</ind>]</trd>,
+    <trd>&#x795E;&#x8056;&#x4E0D;&#x53EF;&#x4FB5;&#x306E;  [<ind>&#x3057;&#x3093;&#x305B;&#x3044;&#x3075;&#x304B;&#x3057;&#x3093;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">heilig</trd>
   <trd lng="pl">&sacute;wi&eogonek;ty</trd>
   <trdgrp lng="pt">
@@ -285,6 +298,10 @@
     <trd>sacro</trd>
   </trdgrp>
   <trd lng="sk">posv&auml;tn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_v;&c_ja;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_v;&c_ja;&c_shch;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sankt.0ega">
@@ -296,11 +313,10 @@
         inter la sanktaj libroj de la judoj, la plej <tld/>ega estas la
         Torao
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007059.html">La influo
-          
-          de la hebrea lingvo sur Esperanto</url></vrk>
+	<aut>Andr&eacute; Cherpillod</aut>
+	<vrk><url ref="&Monato;/2000/007059.php">La influo de la hebrea lingvo sur Esperanto</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/12, p. 18-19</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -308,32 +324,31 @@
         unika kaj supera Dio!
         <fnt>
           <aut>-</aut>,
-          <lok><url
-          ref="http://b-eichkorn.homepage.t-online.de/dibe40a.htm">
+          <lok><url ref="http://b-eichkorn.homepage.t-online.de/dibe40a.htm">
           Dio benu, 2000:10, N-ro 4:40</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         En Esperanto li <klr>(Johano Pa&ubreve;lo la Dua)</klr>
-        diras: &leftquot;<klr>...</klr> <tld lit="S"/>ega Maria
+        diras: &leftquot;<klr>[&#x2026;]</klr> <tld lit="S"/>ega Maria
         akompanu Vin!&rightquot;
         <fnt>
           <vrk>La papoj kaj Esperanto</vrk>.
-          <lok><url
-          ref="http://skoltoj.blogspot.com/2005/11/la-papoj-kaj-esperanto.html">
+          <lok><url ref="http://skoltoj.blogspot.com/2005/11/la-papoj-kaj-esperanto.html">
           Pa&gcirc;oj en Esperanto por la Esperantistaj Katolikaj
               Geskoltoj</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_y;</trd>
   <trd lng="de">allerheiligst</trd>
   <trdgrp lng="es">
     <trd>sant&iacute;simo</trd>,
     <trd>sant&iacute;sima</trd>
   </trdgrp>
   <trd lng="fr">tr&egrave;s saint</trd>
-  <trd lng="id">mahasuci</trd>
+  <trd lng="id"><ind>maha</ind>suci</trd>
   <trd lng="it">santissimo</trd>
   <trd lng="nl">allerheiligst</trd>
   <trd lng="pl">przenaj&sacute;wi&eogonek;tszy</trd>
@@ -355,7 +370,7 @@
       </ekz>
       <ekz>
         Moseo malsupreniris de la monto al la popolo kaj <tld/>igis la
-        popolon, kaj ili lavis siajn vestojn 
+        popolon, kaj ili lavis siajn vestojn
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 19:14</lok>
@@ -369,20 +384,27 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="ant" cel="profan.0i">profani</ref>
     <refgrp tip="vid">
       <ref cel="konsek.0i">konsekri</ref>,
-      <ref cel="profan.mal0igi">malprofanigi</ref>,
       <ref cel="ben.0i">beni</ref>,
       <ref cel="bapt.0i">bapti</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_ch;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">posv&ecaron;tit <klr>(n&ecaron;co| n&ecaron;koho)</klr></trd>
   <trd lng="de">heiligen</trd>
   <trd lng="es">santificar</trd>
   <trd lng="fr">sanctifier</trd>
   <trd lng="hu">megszentel</trd>
-  <trd lng="id">[<ind>suci</ind>] menyucikan</trd>
+  <trd lng="id"><baz>suci</baz>menyucikan</trd>
   <trd lng="it">santificare<klr> (rendere santo)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x795E;&#x8056;&#x8996;&#x3059;&#x308B;  [<ind>&#x3057;&#x3093;&#x305B;&#x3044;&#x3057;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3042;&#x304C;&#x3081;&#x308B;</trd>,
+    <trd>&#x8056;&#x5316;&#x3059;&#x308B;  [<ind>&#x3072;&#x3058;&#x308A;&#x304B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8056;&#x5225;&#x3059;&#x308B;  [<ind>&#x3072;&#x3058;&#x308A;&#x3079;&#x3064;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">heiligen</trd>
   <trdgrp lng="pl">
     <trd>&sacute;wi&eogonek;ci&cacute;</trd>,
@@ -392,6 +414,10 @@
   <trdgrp lng="sk">
     <trd>posv&auml;cova&tcaron;</trd>,
     <trd>zasv&auml;ti&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_v;&c_ja;&c_t;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_s;&c_v;&c_ja;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -408,9 +434,7 @@
       </ekz>
       <ekz>
         tabernaklo estis pretigita: la unua, en kiu estis la kandelabro
-        kaj la t
-        ablo kaj la panoj de propono; &gcirc;i estas nomata la <tld
-        lit="S"/>ejo
+        kaj la tablo kaj la panoj de propono; &gcirc;i estas nomata la <tld lit="S"/>ejo
         <fnt>
           <bib>NT</bib>
           <lok>Hebreoj 9:2</lok>
@@ -426,8 +450,8 @@
       </ekz>
       <ekz>
         purigita kaj incensita, li iris en malgrandan kapelon, for&scirc;iris
-        de 
-        la pordo la argilan sigelon kaj eniris sola en la <tld/>ejon, 
+        de
+        la pordo la argilan sigelon kaj eniris sola en la <tld/>ejon,
         kie sur ebura lito ripozis la mirakla statuo de la dio Oziriso
         <fnt>
           <bib>Far2</bib>
@@ -436,7 +460,7 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        en la ri&ccirc;an magazenon eniris virino &#8208; en tiun <tld/>ejon de
+        en la ri&ccirc;an magazenon eniris virino &#x2010; en tiun <tld/>ejon de
         ri&ccirc;eco &scirc;i en&scirc;ovi&gcirc;is kiel fantomo
         <fnt>
           <bib>Marta</bib>
@@ -444,30 +468,29 @@
       </ekz>
       <ekz>
         sur ilia standardo estas pentrita la kruco, kiu estas same
-        la insigno de dio Kecalkoatl kaj staras skulptite el
-        &scirc;tono en la <tld/>ejo en &Ccirc;olula
+        la insigno de dio <nom>Kecalkoatl</nom> kaj staras skulptite el
+        &scirc;tono en la <tld/>ejo en <nom>&Ccirc;olula</nom>
         <fnt><bib>SatirRak</bib>, <lok>la guarbo</lok></fnt>;
       </ekz>
       <ekz>
         Uluru, rokego en la centro de la kontinento kaj <tld/>ejo por
         aborigena kulturo
         <fnt>
-          <bib>Monato</bib>
           <aut>Ralph Harry</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007103.html">Pa&scirc;oj al
-          amikeco</url></vrk>
-        </fnt>;
+            <vrk><url ref="&Monato;/2000/007103.php">Pa&scirc;oj al amikeco</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 15</lok>
+          </fnt>;
       </ekz>
       <ekz>
         por la nepalanoj la religio estas parto de la &ccirc;iutaga vivo: etaj
         <tld/>ejoj estas en &ccirc;iu strato kaj vila&gcirc;o
         <fnt>
           <bib>Monato</bib>
-          <aut>Vera Barandovsk&aacute;-frank</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008388.html">Nepalo tra
+          <aut>Vera Barandovsk&aacute;-Frank</aut>
+          <vrk><url ref="&Monato;/2004/008388.html">Nepalo tra
           e&ubreve;ropaj okuloj</url></vrk>
+          <lok>2004/09, p. 16</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -479,6 +502,8 @@
       <ref cel="altar.0o">altaro</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_c;&c_ib;&c_l;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+  <trd lng="bo">&t_ma;&t_cha;&t_naro;&t_da;&t_tsheg;&t_kha;&t_nga;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>chr&aacute;m</trd>,
     <trd>svatyn&ecaron;</trd>
@@ -488,6 +513,12 @@
   <trd lng="es">santuario</trd>
   <trd lng="fr">sanctuaire</trd>
   <trd lng="it">santuario</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8056;&#x6240;  [<ind>&#x305B;&#x3044;&#x3058;&#x3087;</ind>]</trd>,
+    <trd>&#x8056;&#x5802;  [<ind>&#x305B;&#x3044;&#x3069;&#x3046;</ind>]</trd>,
+    <trd/>,
+    <trd>&#x8056;&#x57DF;  [<ind>&#x305B;&#x3044;&#x3044;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">heiligdom</trd>
   <trdgrp lng="pl">
     <trd>&sacute;wi&aogonek;tynia</trd>,
@@ -499,6 +530,12 @@
     <trd>chr&aacute;m</trd>,
     <trd>sv&auml;ty&ncaron;a</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_v;&c_ja;&c_t;&c_je; &c_m;&c_ib;&c_s;&c_c;&c_je;</trd>,
+    <trd>&c_s;&c_v;&c_ja;&c_t;&c_i;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_v;&c_ja;&c_t;&c_i;&c_l;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&c_h;&c_r;&c_a;&c_m;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sankt.0ulo">
@@ -509,10 +546,6 @@
       En diversaj religioj (kristanismo, islamo), mita a&ubreve;
       historia persono al kiu la kredantoj atribuas piecon, favoron
       de dio(j) kaj rolon de peranto inter dio(j) kaj la homoj:
-      <ekz>
-        se Dio ne volas, <tld/>ulo ne helpos
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz>
       <ekz>
         <uzo tip="fak">KRI</uzo>
         <ind>loke honorata <tld/>ulo</ind>
@@ -527,8 +560,7 @@
       <ekz>
         li rememoris, kiel la <tld/>a Elisabeto, kiam &scirc;i vivis
         ankora&ubreve; sur la tero, &scirc;i, la <tld/>ulino de lia
-        hejmo kaj
-        de lia infaneco, la nobla dukino de Turingio, la alte
+        hejmo kaj de lia infaneco, la nobla dukino de Turingio, la alte
         eminenta sinjorino, mem iradis en la plej malri&ccirc;ajn
         lokojn, kaj alportadis al la malsanuloj konsolon kaj
         refre&scirc;igon
@@ -536,11 +568,33 @@
         <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok></fnt>;
       </ekz>
       <ekz>
-        festo de &ccirc;iuj <tld/>uloj
-        <klr>(vd <ref cel="haloven.0o">Haloveno</ref>)</klr>.
+        halovino <klr>[&#x2026;]</klr>, vespero de &ccirc;iuj <tld/>uloj
+        <klr>(vd <ref cel="haloven.0o">Haloveno</ref>)</klr>
+        <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2005/008488.php">Kuk-urbo</url></vrk>
+              <bib>Monato</bib>
+          <lok>2005/02, p.17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ortodoksuloj tion faras ne dum la <ind>tago de &ccirc;iuj <tld/>uloj</ind>
+        <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2007/009031.php">Kredo kaj angla lingvo</url></vrk>
+              <bib>Monato</bib>
+          <lok>2007/02, p. 15</lok>
+        </fnt>;
+        <trd lng="de">Allerheiligen</trd>
+        <trd lng="nl">Allerheiligen</trd>
+      </ekz>
+      <ekz>
+        se Dio ne volas, <tld/>ulo ne helpos
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_y; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
   <trd lng="cs">sv&ecaron;tec</trd>
   <trdgrp lng="de">
     <trd>Heiliger</trd>,
@@ -550,9 +604,11 @@
   <trd lng="fr">saint<klr> (subst.)</klr></trd>
   <trdgrp lng="id">
     <trd>santa</trd>,
-    <trd>santo</trd>
+    <trd>santo</trd>,
+    <trd><ind>orang</ind> suci</trd>
   </trdgrp>
   <trd lng="it">santo<klr> (sost.)</klr></trd>
+  <trd lng="ja">&#x8056;&#x4EBA;  [<ind>&#x3057;&#x3087;&#x3046;&#x306B;&#x3093;</ind>]</trd>
   <trd lng="nl">heilige</trd>
   <trd lng="pl">&sacute;wi&eogonek;ty</trd>
   <trd lng="ru">&c_s;&c_v;&c_ja;&c_t;&c_o;&c_j;<klr>
@@ -561,6 +617,7 @@
   <trdgrp lng="tr">
     <trd>aziz</trd>, <trd>veli</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&c_v;&c_ja;&c_t;&c_i;&c_j; (&c_ib;&c_m;.)</trd>
 </drv>
 
 <drv mrk="sankt.0uligi">
@@ -581,13 +638,16 @@
     </dif>
     <ref tip="vid" cel="kanon.en0igi">enkanonigi</ref>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">kanonizovat</trd>
   <trd lng="de">heilig sprechen</trd>
   <trd lng="es">santificar <klr tip="amb">(a una persona)</klr></trd>
   <trd lng="fr">canoniser</trd>
   <trd lng="hu">szentt&eacute; <ind>avat</ind></trd>
   <trd lng="it">canonizzare</trd>
+  <trd lng="ja">&#x8056;&#x5217;&#x306B;&#x52A0;&#x3048;&#x308B;  [<ind>&#x3072;&#x3058;&#x308A;&#x308C;&#x3064;&#x306B;&#x304F;&#x308F;&#x3048;&#x308B;</ind>]</trd>
   <trd lng="nl"><ind>heilig</ind> verklaren</trd>
+  <trd lng="pl">kanonizowa&cacute;</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;
   &c_k; &c_l;&c_i;&c_k;&c_u; &c_s;&c_v;&c_ja;&c_t;&c_y;&c_h;</trd>
   <trdgrp lng="sk">
@@ -605,21 +665,25 @@
       <ref tip="vid" cel="diabl.0a.REL">diabla</ref>:
       <ekz>
         la le&gcirc;o ekzistas ne por justulo, sed por homoj senle&gcirc;aj kaj
-        malobeemaj, 
+        malobeemaj,
         malpiaj kaj pekemaj, mal<tld/>aj kaj profanaj
         <fnt>
           <bib>NT</bib>
-          <lok>I. timoteo 1:9</lok>
+          <lok>I. Timoteo 1:9</lok>
         </fnt>;
       </ekz>
       <ekz>
-        sciu, ke la dogmaro, kiun vi deklaras, estas 
+        sciu, ke la dogmaro, kiun vi deklaras, estas
         dogmaro de la mal<tld/>a spirito
-        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
         fratoj</vrk>, <lok>1947</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_e;&c_sh;&c_n;&c_y;</trd>,
+    <trd>&c_d;&#x2019;&c_ja;&c_b;&c_a;&c_l;&c_mol;&c_s;&c_k;&c_ib;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>unheilig</trd>,
     <trd>ketzerisch</trd>,
@@ -631,6 +695,9 @@
     <trd>diab&oacute;lico</trd>
   </trdgrp>
   <trd lng="fr">impie</trd>
+  <trd lng="id">najis</trd>
+  <trd lng="nl">heidens</trd>
+  <trd lng="pl">bezbo&zdot;ny</trd>
 </drv>
 
 <drv mrk="sankt.kolono0ulo">
@@ -641,20 +708,21 @@
       <ref tip="super" cel="asket.0o.REL">Asketo</ref>
       kiu konstante vivas sur la supro de kolona konstrua&jcirc;o:
       <ekz>
-        Ramajun estas nia plej fama kolono<tld/>ulo
+        <nom>Ramajun</nom> estas nia plej fama kolono<tld/>ulo
         <fnt>
           <aut>Hevesi L., trad. Vizi L.</aut>,
-          <vrk><url
-          ref="https://sites.google.com/site/laaventurojdeandreojelky">
+          <vrk><url ref="https://sites.google.com/site/laaventurojdeandreojelky">
           La aventuroj de Andreo Jelky</url></vrk>,
           <lok>[2010]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_o;&c_w;&c_p;&c_n;&c_ib;&c_k;</trd>
   <trd lng="de">S&auml;ulenheiliger</trd>
   <trd lng="es">estilita</trd>
   <trd lng="fr">stylite</trd>
+  <trd lng="pl">&sacute;wi&eogonek;ty z kolumny</trd>
 </drv>
 
 <drv mrk="sankt.plej0ejo">
@@ -668,7 +736,7 @@
       <ref tip="malprt" cel="templ.0o.rezidejo">templo</ref>:
       <ekz>
         la kurteno faru por vi apartigon inter la <tld/>ejo kaj la
-        plej<tld/>ejo 
+        plej<tld/>ejo
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 26:33</lok>
@@ -708,10 +776,15 @@
   <trd lng="fr">saint des saints</trd>
   <trd lng="it">sancta santorum</trd>
   <trd lng="nl">allerheiligste<klr tip="ind"> (zn.)</klr></trd>
+  <trd lng="pl">naj&sacute;wi&eogonek;tsze miejsce</trd>
   <trd lng="ru">
   &c_s;&c_v;&c_ja;&c_t;&c_a;&c_ja; &c_s;&c_v;&c_ja;&c_t;&c_y;&c_h;
   </trd>
   <trd lng="sk">najsv&auml;tej&scaron;ie miesto v chr&aacute;me</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_v;&c_ja;&c_t;&c_i;&c_l;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&c_s;&c_v;&c_ja;&c_t;&c_a;&c_ja; &c_s;&c_v;&c_ja;&c_t;&c_i;&c_h;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sankt.0a_semajno">
@@ -724,10 +797,9 @@
       anta&ubreve;as
       la kristanan <ref cel="pask.0o.KRI">Paskon</ref>:
       <ekz>
-        la <tld lit="S"/>a Semajno en Sevilo estas katolika festo kiu 
+        la <tld lit="S"/>a Semajno en Sevilo estas katolika festo kiu
         rememoras, per gravaj artaj skulpta&jcirc;oj, &ccirc;efe en strata
-        eksposicio, 
-        la pasio kaj morto de Jesuo Kristo
+        ekspo<klr>[z]</klr>icio, la pasio kaj morto de Jesuo Kristo
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=18495">Sankta
@@ -736,16 +808,16 @@
       </ekz>
       <ekz>
         post la karnavalo, la katolika eklezio festas karesmon, kiu
-        estas kvardek-taga 
+        estas kvardek-taga
         periodo de spirita preparo por la <tld lit="S"/>a Semajno
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=17573">Karesmo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=17573">Karesmo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_u;&c_t;&c_n;&c_y; <ind>&c_t;&c_y;&c_d;&c_z;&c_je;&c_n;&c_mol;</ind></trd>
   <trd lng="de">Karwoche</trd>
   <trd lng="en">Holy <ind>Week</ind></trd>
   <trd lng="es">Semana Santa</trd>
@@ -762,27 +834,27 @@
 </art>
 <!--
 $Log$
-Revision 1.43  2018/07/24 10:10:13  revo
-Guillermo Molleda Jimena: trd es quitar canonizar que es kanonizi
+versio 1.58 2023/08/15 22:28:37
+Vito Redsky: +trd pl 
 
-Revision 1.42  2018/05/22 07:10:14  revo
-Damien Brucker: -eraro cxel cel en ref
+versio 1.57 2023/05/14 19:21:11
+Dmitri Gabinski: kor de trd be
 
-Revision 1.41  2018/05/21 14:10:14  revo
-Wolfram Diestel: kor. mrk, prilaboris ekz-ojn (cetero)
+versio 1.56 2023/05/08 12:45:38
+Paul Peeraerts: + lok + url
 
-Revision 1.40  2018/05/21 12:10:15  revo
-Wolfram Diestel: prilaboris ekz-ojn, +ref-oj, germ trd-oj
+versio 1.55 2023/05/01 13:28:11
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.39  2017/12/20 13:10:19  revo
-Michel Cantigneaux: "sankt/ej/o" fundamenta kunmetajxo el la U.V.
+versio 1.54 2023/04/23 08:29:39
+Paul Peeraerts: &Steloj -> monato.be
 
-Revision 1.38  2017/10/20 23:10:18  revo
-Evandro Avellar: trd pt
+versio 1.53 2023/04/11 18:56:02
+aktualigo Monato-URL
 
-Revision 1.37  2015/07/04 08:37:43  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.52 2022/08/12 09:31:09
+Dmitri Gabinski: + trd be
 
-Revision 1.36  2015/06/29 16:33:23  revo
+versio 1.51 2022/06/01 05:54:14
 -->
 </vortaro>

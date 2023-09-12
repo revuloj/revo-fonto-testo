@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: ren.xml,v 1.29 2023/09/03 07:53:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ren</rad>/o
@@ -34,14 +33,16 @@
         aparte estos helpataj infanoj kun <tld/>o-problemoj: por ili oni a&ccirc;etos hejmajn
         dializilojn
         <fnt>
+       <aut>Zofia BANET-FORNALOWA/pg</aut>
+          <vrk><url ref="&Monato;/2000/006882.php">Kiam orkestro fari&gcirc;as orkesto</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006882.html"
-              >Pollando: Kiam orkestro fari&gcirc;as orkesto</url></vrk>
+          <lok>2000/05, p. 12</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_y;&c_r;&c_k;&c_a;</trd>
+  <trd lng="bo">&#xF58;&#xF41;&#xF63;&#xF0B;&#xF62;&#xF72;&#xF63;&#xF0B;</trd>
   <trd lng="ca">rony&oacute;</trd>
   <trd lng="cs">ledvina</trd>
   <trd lng="de">Niere</trd>
@@ -51,6 +52,7 @@
   <trd lng="hu">vese</trd>
   <trd lng="id">ginjal</trd>
   <trd lng="it">rene</trd>
+  <trd lng="ja">&#x814E;&#x81D3;  [<ind>&#x3058;&#x3093;&#x305E;&#x3046;</ind>]</trd>
   <trd lng="nl">nier</trd>
   <trd lng="pl">nerka</trd>
   <trd lng="pt">rim</trd>
@@ -61,6 +63,7 @@
     <trd>&lcaron;advina</trd>
   </trdgrp>
   <trd lng="sv">njure</trd>
+  <trd lng="uk">&#x43D;&c_i;&c_r;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="ren.sur0a">
@@ -83,10 +86,17 @@
   <trd lng="nl">suprarenalis</trd>
   <trd lng="pl">gruczo&lstroke; nadnerczowy</trd>
   <trd lng="ro">gland&abreve; suprarenal&abreve;</trd>
+  <trd lng="uk">&#x43D;&c_a;&c_d;&#x43D;&c_i;&c_r;&#x43A;&#x43E;&c_v;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/04/25 14:28:57
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.27 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.23  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -103,8 +113,5 @@ Revision 1.19  2012/07/22 16:10:15  revo
 Marc Rausell: ++ trd ca
 
 Revision 1.18  2010/12/17 17:30:35  revo
-Antonio Codazzi: +trd it
-
-Revision 1.17  2009/11/28 17:30:54  revo
 -->
 </vortaro>

@@ -1,34 +1,39 @@
 name: eldono-de-la-tago
 
-on:
-  #schedule:
-  # ĉiutage matene
-  # * is a special character in YAML so you have to quote this string
-  #- cron:  '15 8 * * *'
-  #- cron:  '34 19 * * 2'
-  push:
-    branches:
-    - master
+# Ĉiutaga eldono kompilas la retpaĝojn kaj sqlite-datumbazon el aktualaj fontoj
+# Ĝi enhavas html-paĝojn, xml-fontojn, sqlite3-datumbazon, 
+# vd ĉe https://github.com/revuloj/revo-fonto/releases
 
-# https://github.com/actions/create-release
-# https://help.github.com/en/actions/reference/development-tools-for-github-actions
+on:
+  schedule:
+  # ĉiutage dum septembro (dum ni testas)
+  # * estas speciala signo, do nepre uzu citilojn
+  - cron:  '25 15 * 9 *'
+  #- cron:  '34 19 * * 2'
+
+
+env:
+  # eldono de voko-formiko: {latest|stabila|2x}
+  IMAGE_TAG: 2k
+  GIT_REPO_REVO: https://github.com/revuloj/revo-fonto-testo.git
+  
+# agoj (gh-actions)
+# https://github.com/softprops/action-gh-release
 # https://github.com/actions/github-script
+# https://help.github.com/en/actions/reference/development-tools-for-github-actions
 
 jobs:
-  release:
+  eldono:
     runs-on: ubuntu-latest
     steps:
     - name: "Hodiaŭ..."
       run: |
         Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
-        #echo "::set-env name=TAGO::${Tagoj[ $(date +'%w') ]}"
         echo "TAGO=${Tagoj[ $(date +'%w') ]}" >> $GITHUB_ENV
-
     - name: "Eĥo..."
       run: |
         echo $TAGO
 
-    # vd. https://github.com/actions/github-script
     - uses: actions/github-script@v6
       name: Movu etikedon al la nuna kap-pozicio
       with:
@@ -50,7 +55,7 @@ jobs:
               ref: 'tags/v${{ env.TAGO }}',
               force: true })
           } catch(error) {
-            console.log("AVERTO:");
+            console.log("ERROR:");
             console.log(error);
             result = await github.rest.git.createRef({  
               owner: context.repo.owner,
@@ -82,13 +87,12 @@ jobs:
             console.log("RESULT...")
             console.log(result)
           } catch(error)  {
-            console.log("AVERTO:")
+            console.log("ERROR:")
             console.log(error)
           }
 
 ####
-#' create-release ne estas aktualigita, eble ni
-# devas anstataŭe uzi https://octokit.github.io/rest.js/v19#repos-create-release
+#'
     - name: Rekreu eldonon kun sama etikedo (semajntago)
       id: create_release
       uses: softprops/action-gh-release@v1
@@ -101,8 +105,8 @@ jobs:
         prerelease: false
 
 
-  sqlitedb:
-    needs: release
+  datumbazo:
+    needs: eldono
     runs-on: ubuntu-latest
 
     steps:
@@ -110,9 +114,7 @@ jobs:
     - name: "Hodiaŭ..."
       run: |
         Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
-        #echo "::set-env name=TAGO::${Tagoj[ $(date +'%w') ]}"
         echo "TAGO=${Tagoj[ $(date +'%w') ]}" >> $GITHUB_ENV
-
 
     - name: Eltrovu la URL de la hodiaŭa eldono
       uses: actions/github-script@v6
@@ -129,7 +131,6 @@ jobs:
             const upload_url = release.data.upload_url            
             console.log('UploadURL is: '+upload_url)
             core.setOutput('upload_url',upload_url)
-            //console.log('::set-output name=upload_url::'+upload_url)
 
 ##'
 ## const core = require('@actions/core')
@@ -140,12 +141,11 @@ jobs:
     - name: Saluto al ghcr.io
         # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
         # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
-      #run: docker login docker.pkg.github.com -u $GITHUB_ACTOR -p $GITHUB_TOKEN
       run: echo "$GITHUB_TOKEN" | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin 
       env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     - name: Prenu procesumon voko-formiko
-      run: docker pull "ghcr.io/revuloj/voko-formiko/voko-formiko:latest"
+      run: docker pull "ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }}"
     - name: Kreu dosierujojn por konservi la rezultojn ...
       run: |
         mkdir $GITHUB_WORKSPACE/tgz
@@ -156,44 +156,361 @@ jobs:
       run: docker run --name voko-formiko 
         -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
         -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz
-        ghcr.io/revuloj/voko-formiko/voko-formiko:latest 
+        ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }} 
         formiko srv-sqlite-db-tuto
 
 # vd. https://github.com/actions/upload-release-asset
-    - name: Retrovu la rezultintajn ZIP-dosierujojn
+    - name: Retrovu la rezultintajn ZIP-dosierojn
       id: retrovu_zip
       run: |
         ls -l $GITHUB_WORKSPACE/tgz
-        #echo "::set-output name=revosql::$(ls tgz/revosql_20*)"
-        #echo "::set-output name=revosql_inx::$(ls tgz/revosql-inx_20*)"
-        echo "revosql=$(ls tgz/revosql_20*)" >> $GITHUB_OUTPUT
-        echo "revosql_inx=$(ls tgz/revosql-inx_20*)" >> $GITHUB_OUTPUT
+        echo "revosql=$(basename -- tgz/revosql_20*)" >> $GITHUB_OUTPUT
+        echo "revosql_inx=$(basename -- tgz/revosql-inx_20*)" >> $GITHUB_OUTPUT
 
-    # upload-release-asset ne plu flegata,
-    # eble uzu anst. https://github.com/softprops/action-gh-release
-    # aŭ https://github.com/alexellis/upload-assets
-    # aŭ sekwah41/upload-release-assets@v1
-    # aŭ https://github.com/AButler/upload-release-assets
     - name: Alpendigu sqlrevo-inx
       id: upload-inx 
-      uses: sekwah41/upload-release-assets@v1
+      uses: sekwah41/upload-release-assets@v1.1.0
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.retrieve_release.outputs.upload_url }} 
-        asset_path: ${{ steps.retrovu_zip.outputs.revosql_inx }}
+        asset_path: tgz/${{ steps.retrovu_zip.outputs.revosql_inx }}
         asset_name: ${{ steps.retrovu_zip.outputs.revosql_inx }}
         asset_content_type: application/zip
     - name: Alpendigu sqlrevo
       id: upload-inx-art 
-      uses: sekwah41/upload-release-assets@v1
+      uses: sekwah41/upload-release-assets@v1.1.0
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.retrieve_release.outputs.upload_url }} 
-        asset_path: ${{ steps.retrovu_zip.outputs.revosql }}
+        asset_path: tgz/${{ steps.retrovu_zip.outputs.revosql }}
         asset_name: ${{ steps.retrovu_zip.outputs.revosql }}
         asset_content_type: application/zip
 
-# about download: https://help.github.com/en/github/administering-a-repository/linking-to-releases
-# /owner/name/releases/latest/download/asset-name.zip
+  xdxf:
+    needs: eldono
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: "Hodiaŭ..."
+      run: |
+        Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
+        echo "TAGO=${Tagoj[ $(date +'%w') ]}" >> $GITHUB_ENV
+
+    - name: Eltrovu la URL de la hodiaŭa eldono
+      uses: actions/github-script@v6
+      id: retrieve_release
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+            const release = await github.rest.repos.getReleaseByTag({
+                owner: context.repo.owner,
+                repo: context.repo.repo,            
+                tag: 'v${{ env.TAGO }}'
+            })
+            const upload_url = release.data.upload_url            
+            console.log('UploadURL is: '+upload_url)
+            core.setOutput('upload_url',upload_url)
+
+##'
+## const core = require('@actions/core')
+## core.setOutput('upload_url', upload_url)
+
+    - name: Elŝutu la dosierojn 
+      uses: actions/checkout@v3
+    - name: Saluto al ghcr.io
+        # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
+        # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
+      run: echo "$GITHUB_TOKEN" | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin 
+      env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+    - name: Prenu procesumon voko-formiko
+      run: docker pull "ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }}"
+    - name: Kreu dosierujojn por konservi la rezultojn ...
+      run: |
+        mkdir $GITHUB_WORKSPACE/tgz
+        #mkdir $GITHUB_WORKSPACE/tmp
+        chmod 777 $GITHUB_WORKSPACE/t??
+        ls -l $GITHUB_WORKSPACE
+    - name: Kreu XDXF-dosieron el la XML-dosieroj
+      run: docker run --name voko-formiko 
+        -v $GITHUB_WORKSPACE/revo:/home/formiko/revo/xml 
+        -v $GITHUB_WORKSPACE/tgz:/home/formiko/tgz
+        ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }} 
+        formiko dict-xdxf-zip
+
+# vd. https://github.com/actions/upload-release-asset
+    - name: Retrovu la rezultintajn ZIP-dosieron
+      id: retrovu_zip
+      run: |
+        ls -l $GITHUB_WORKSPACE/tgz
+        echo "revoxdxf=$(basename -- tgz/revoxdxf_20*.zip)" >> $GITHUB_OUTPUT
+
+    - name: Alpendigu xdxf
+      id: upload-xdxf 
+      uses: sekwah41/upload-release-assets@v1.1.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.retrieve_release.outputs.upload_url }} 
+        asset_path: tgz/${{ steps.retrovu_zip.outputs.revoxdxf }}
+        asset_name: ${{ steps.retrovu_zip.outputs.revoxdxf }}
+        asset_content_type: application/zip   
+
+  revo-med-inx-tez:
+    needs: eldono
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: "Hodiaŭ..."
+      run: |
+        Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
+        echo "TAGO=${Tagoj[ $(date +'%w') ]}" >> $GITHUB_ENV
+
+    - uses: actions/github-script@v6
+      name: Eltrovu la nunan pozicion (kapo)
+      id: trovu_kapon
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+          const ref = await github.rest.git.getRef({...context.repo, ref: 'heads/master'})
+          const sha = ref.data.object.sha
+          console.log('heads/master estas ĉe: '+sha)
+          core.setOutput('sha_hm',sha)
+
+    # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
+    # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
+    - name: Saluto al ghcr.io kaj preni voko-formiko
+      env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      run: |
+        echo "$GITHUB_TOKEN" | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin
+        docker pull "ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }}"
+
+    # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
+    - name: Kreu dosierujojn por konservi la rezultojn ...
+      run: |
+        mkdir .tgz
+        mkdir .log
+
+    - name: Kreu la med,inx,tez 
+      run: docker run -u1001
+        -e GIT_REPO_REVO=${{ env.GIT_REPO_REVO }}
+        -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
+        -v $GITHUB_WORKSPACE/.log:/home/formiko/log
+        ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }} formiko
+        -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }}
+        srv-servo-github-medinxtez
+
+    - name: Rigardu la rezulton
+      run: |
+        #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
+        ls -l .tgz/ .log/
+        
+    - name: Eltrovu la URL de la hodiaŭa eldono
+      uses: actions/github-script@v6
+      id: retrieve_release
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+            const release = await github.rest.repos.getReleaseByTag({
+                owner: context.repo.owner,
+                repo: context.repo.repo,            
+                tag: 'v${{ env.TAGO }}'
+            })
+            const upload_url = release.data.upload_url            
+            console.log('UploadURL is: '+upload_url)
+            core.setOutput('upload_url',upload_url)
+
+    - name: Retrovu la rezultintan ZIP-dosierujon
+      id: revo_zip
+      run: |
+        ls -l $GITHUB_WORKSPACE/.tgz
+        echo "revohtml=$(basename -- .tgz/revohtml_20*)" >> $GITHUB_OUTPUT
+
+    - name: Alpendigu revo-zip al la hodiaŭa eldono
+      id: upload-zip 
+      uses: sekwah41/upload-release-assets@v1.1.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.retrieve_release.outputs.upload_url }} 
+        asset_path: .tgz/${{ steps.revo_zip.outputs.revohtml }}
+        asset_name: ${{ steps.revo_zip.outputs.revohtml }}
+        asset_content_type: application/zip        
+
+  revo-art:
+    needs: eldono
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: "Hodiaŭ..."
+      run: |
+        Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
+        echo "TAGO=${Tagoj[ $(date +'%w') ]}" >> $GITHUB_ENV
+
+    - uses: actions/github-script@v6
+      name: Eltrovu la nunan pozicion (kapo)
+      id: trovu_kapon
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+          const ref = await github.rest.git.getRef({...context.repo, ref: 'heads/master'})
+          const sha = ref.data.object.sha
+          console.log('heads/master estas ĉe: '+sha)
+          core.setOutput('sha_hm',sha)
+
+    # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
+    # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
+    - name: Saluto al ghcr.io kaj preni voko-formiko
+      env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      run: |
+        echo "$GITHUB_TOKEN" | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin
+        docker pull "ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }}"
+
+    # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
+    - name: Kreu dosierujojn por konservi la rezultojn ...
+      run: |
+        mkdir .tgz
+        mkdir .log
+
+    - name: Kreu la artikolojn 
+      run: docker run -u1001
+        -e GIT_REPO_REVO=${{ env.GIT_REPO_REVO }}
+        -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
+        -v $GITHUB_WORKSPACE/.log:/home/formiko/log
+        ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }} formiko
+        -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }}
+        srv-servo-github-art
+
+    - name: Rigardu la rezulton
+      run: |
+        #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
+        ls -l .tgz/ .log/
+       
+    - name: Eltrovu la URL de la hodiaŭa eldono
+      uses: actions/github-script@v6
+      id: retrieve_release
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+            const release = await github.rest.repos.getReleaseByTag({
+                owner: context.repo.owner,
+                repo: context.repo.repo,            
+                tag: 'v${{ env.TAGO }}'
+            })
+            const upload_url = release.data.upload_url            
+            console.log('UploadURL is: '+upload_url)
+            core.setOutput('upload_url',upload_url)
+
+    - name: Retrovu la rezultintan ZIP-dosierujon
+      id: revo_zip
+      run: |
+        ls -l $GITHUB_WORKSPACE/.tgz
+        echo "revohtml=$(basename -- .tgz/revoart_20*)" >> $GITHUB_OUTPUT
+
+    - name: Alpendigu revo-zip al la hodiaŭa eldono
+      id: upload-zip 
+      uses: sekwah41/upload-release-assets@v1.1.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.retrieve_release.outputs.upload_url }} 
+        asset_path: .tgz/${{ steps.revo_zip.outputs.revohtml }}
+        asset_name: ${{ steps.revo_zip.outputs.revohtml }}
+        asset_content_type: application/zip        
+
+  revo-hst:
+    needs: eldono
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: "Hodiaŭ..."
+      run: |
+        Tagoj=(Dimanĉo Lundo Mardo Merkredo Ĵaudo Vendredo Sabato)
+        echo "TAGO=${Tagoj[ $(date +'%w') ]}" >> $GITHUB_ENV
+
+    - uses: actions/github-script@v6
+      name: Eltrovu la nunan pozicion (kapo)
+      id: trovu_kapon
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+          const ref = await github.rest.git.getRef({...context.repo, ref: 'heads/master'})
+          const sha = ref.data.object.sha
+          console.log('heads/master estas ĉe: '+sha)
+          core.setOutput('sha_hm',sha)
+
+    # https://github.community/t5/GitHub-Actions/Use-docker-images-from-GitHub-Package-Registry/td-p/30407    
+    # https://github.com/actions/starter-workflows/blob/master/ci/docker-push.yml    
+    - name: Saluto al ghcr.io kaj preni voko-formiko
+      env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      run: |
+        echo "$GITHUB_TOKEN" | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin
+        docker pull "ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }}"
+
+    # https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners
+    - name: Kreu dosierujojn por konservi la rezultojn ...
+      run: |
+        mkdir .tgz
+        mkdir .log
+
+    - name: Kreu la historiojn 
+      run: docker run -u1001
+        -e GIT_REPO_REVO=${{ env.GIT_REPO_REVO }}
+        -v $GITHUB_WORKSPACE/.tgz:/home/formiko/tgz
+        -v $GITHUB_WORKSPACE/.log:/home/formiko/log
+        ghcr.io/revuloj/voko-formiko/voko-formiko:${{ env.IMAGE_TAG }} formiko
+        -Dsha=${{ steps.trovu_kapon.outputs.sha_hm }}
+        srv-servo-github-hst
+
+    - name: Rigardu la rezulton
+      run: |
+        #tar -czf revo.tgz $GITHUB_WORKSPACE/revo
+        ls -l .tgz/ .log/
+        
+    - name: Eltrovu la URL de la hodiaŭa eldono
+      uses: actions/github-script@v6
+      id: retrieve_release
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        debug: true
+        script: |
+            const release = await github.rest.repos.getReleaseByTag({
+                owner: context.repo.owner,
+                repo: context.repo.repo,            
+                tag: 'v${{ env.TAGO }}'
+            })
+            const upload_url = release.data.upload_url            
+            console.log('UploadURL is: '+upload_url)
+            core.setOutput('upload_url',upload_url)
+
+    - name: Retrovu la rezultintan ZIP-dosierujon
+      id: revo_zip
+      run: |
+        ls -l $GITHUB_WORKSPACE/.tgz
+        echo "revohtml=$(basename -- .tgz/revohst_20*)" >> $GITHUB_OUTPUT
+
+    - name: Alpendigu revo-zip al la hodiaŭa eldono
+      id: upload-zip 
+      uses: sekwah41/upload-release-assets@v1.1.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.retrieve_release.outputs.upload_url }} 
+        asset_path: .tgz/${{ steps.revo_zip.outputs.revohtml }}
+        asset_name: ${{ steps.revo_zip.outputs.revohtml }}
+        asset_content_type: application/zip        
+

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: sved.xml,v 1.33 2020/02/27 20:10:37 revo Exp $">
+<art mrk="$Id: sved.xml,v 1.38 2023/09/04 15:14:34 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>sved</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -15,8 +14,7 @@
   </kap>
   <snc mrk="sved.0o.sxtatano">
     <dif>
-      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de <ref
-      tip="malprt" cel="sved.S0ujo"><tld lit="S"/>ujo</ref>.
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de <ref tip="malprt" cel="sved.S0ujo"><tld lit="S"/>ujo</ref>.
     </dif>
     <trd lng="de">schwedischer Staatsb&uuml;rger</trd>
     <trd lng="nl">Zweed</trd>
@@ -28,10 +26,10 @@
         intertempe, krom <tld/>ojn, vi renkontas rusojn, osetojn kaj
         talibanojn, kvankam tre mar&gcirc;ene
         <fnt><aut>S. Derevjanni&hcirc;</aut>,
-        <vrk><url ref="&amp;Monato/rec/nknu.html">Jen la maltroigo de
+        <vrk><url ref="&Monato;/2001/nknu.html">Jen la maltroigo de
         hodia&ubreve;</url></vrk>,
         <bib>Monato</bib>,
-        <lok>2001:07</lok>
+        <lok>2001/07, p. 26</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -61,15 +59,17 @@
     <trd>Suedo</trd>
   </trdgrp>
   <trd lng="it">svedese<klr> (sost.)</klr></trd>  
+  <trd lng="ja">&#x30B9;&#x30A6;&#x30A7;&#x30FC;&#x30C7;&#x30F3;&#x4EBA;  [<ind>&#x30B9;&#x30A6;&#x30A7;&#x30FC;&#x30C7;&#x30F3;&#x3058;&#x3093;</ind>]</trd>
   <trd lng="no">svenske</trd>
   <trd lng="pl">Szwed</trd>
   <trdgrp lng="pt">
     <trd>sueco</trd>,
     <trd>sueca</trd>
   </trdgrp>
-  <trd lng="tp">jan pi ma Wensa</trd>
+  <trd lng="tok">jan pi ma Wensa</trd>
   <trd lng="ru">&c_sh;&c_v;&c_je;&c_d;</trd>
   <trd lng="sv">svensk</trd>
+  <trd lng="uk">&c_sh;&c_v;&c_je;&c_d;</trd>
   <trd lng="vo">Sved&auml;nan</trd>
 </drv>
 
@@ -81,21 +81,21 @@
       <ekz>
         el la <tld/>a tradukis Sabira St&aring;hlberg
         <fnt><aut>G. Mattos</aut>,
-        <vrk><url ref="&amp;Monato/rec/lmal.html">Etoso de
+        <vrk><url ref="&Monato;/2000/lmal.html">Etoso de
         liberi&gcirc;o kaj de
         liberigo</url></vrk>,
         <bib>Monato</bib>,
-        <lok>2000:10</lok>
+        <lok>2000/10, p. 30</lok>
         </fnt>;
       </ekz>
       <ekz>
         Hjalmar S&ouml;derberg (1869-1941) estis tre sukcesa
         verkisto <tld/>a
         <fnt><aut>D. Broadribb</aut>,
-        <vrk><url ref="&amp;Monato/rec/pelt.html">Facile
+        <vrk><url ref="&Monato;/2000/pelt.html">Facile
         delogebla</url></vrk>,
         <bib>Monato</bib>,
-        <lok>2000:04</lok>
+        <lok>2000/04, p. 31</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -127,6 +127,10 @@
     <trd>Sueda</trd>
   </trdgrp>
   <trd lng="it">svedese<klr> (agg.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30A6;&#x30A7;&#x30FC;&#x30C7;&#x30F3;&#x306E;  [<ind>&#x3059;&#x3046;&#x3047;&#x30FC;&#x3067;&#x3093;&#x306E;</ind>]</trd>,
+    <trd>&#x30B9;&#x30A6;&#x30A7;&#x30FC;&#x30C7;&#x30F3;&#x8A9E;&#x306E;  [<ind>&#x3059;&#x3046;&#x3047;&#x30FC;&#x3067;&#x3093;&#x3054;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">Zweeds</trd>
   <trd lng="no">svensk</trd>
   <trd lng="pl">szwedzki</trd>
@@ -137,7 +141,8 @@
   <trd lng="ru">&c_sh;&c_v;&c_je;&c_d;&c_s;&c_k;&c_i;&c_j;</trd>
   <trd lng="sk">&scaron;v&eacute;dsky</trd>
   <trd lng="sv">svensk</trd>
-  <trd lng="tp">pi ma Wensa</trd>
+  <trd lng="tok">pi ma Wensa</trd>
+  <trd lng="uk">&c_sh;&c_v;&c_je;&c_d;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>
   <trd lng="vo">Sved&auml;nik</trd>
 </drv>
 
@@ -182,7 +187,7 @@
   <trd lng="ia">Svedia</trd>
   <trd lng="id">Swedia</trd>
   <trd lng="io">Suedia</trd>
-  <trd lng="is">Sv&iacute;&#254;j&oacute;&#240;</trd>
+  <trd lng="is">Sv&iacute;&#xFE;j&oacute;&#xF0;</trd>
   <trd lng="it">Svezia</trd>
   <trd lng="la">Suecia</trd>
   <trd lng="lt">&Scaron;vedija</trd>
@@ -196,13 +201,22 @@
   <trd lng="sk">&Scaron;v&eacute;dsko</trd>
   <trd lng="sv">Sverige</trd>
   <trd lng="sw">Uswidi</trd>
-  <trd lng="tp">ma Wensa</trd>
+  <trd lng="tok">ma Wensa</trd>
   <trd lng="tr">&Idot;sve&ccedil;</trd>
   <trd lng="vo">Sved&auml;n</trd>
 </drv>
 </art>
 <!--
-$Log: sved.xml,v $
+$Log$
+versio 1.37 2023/05/03 05:27:28
+Paul Peeraerts: esperanto.be -> &Monato;
+
+versio 1.36 2023/04/26 08:31:29
+Paul Peeraerts: kor de eraraj ref
+
+versio 1.35 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
 versio 1.33 2020/02/27 20:10:37
 Robin van der Vliet: +trd, koherigo kun aliaj landoartikoloj
 
@@ -216,14 +230,5 @@ Revision 1.30  2018/02/22 23:10:48  revo
 Wolfram Diestel: riparoj
 
 Revision 1.29  2017/12/28 15:10:13  revo
-Michel Cantigneaux: rimarko pri radiko kaj sufikso (+ /ino + /i/o )
-
-Revision 1.28  2016/11/25 21:10:59  revo
-Robin van der Vliet: +trd
-
-Revision 1.27  2015/08/21 22:10:14  revo
-Jeromo Vasxe: Rilantanta  -> Rilatanta
-
-Revision 1.26  2015/07/04 08:37:44  revo
 -->
 </vortaro>

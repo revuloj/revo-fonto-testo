@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: diskon.xml,v 1.13 2009/09/22 17:17:23 revo Exp $">
+<art mrk="$Id: diskon.xml,v 1.23 2023/08/31 10:44:01 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>diskont</rad>/i <fnt><bib>PV</bib></fnt>
@@ -14,8 +13,17 @@
     <uzo tip="fak">EKON</uzo>
     <dif>
       Pagi al iu por bilo a&ubreve; kambio anta&ubreve; la pagtempo,
-      deprenante procenta&jcirc;on pro la anta&ubreve;tempa pago. 
+      deprenante procenta&jcirc;on pro la anta&ubreve;tempa pago:
+      <ekz>
+        kredeble <nom>Telegrafov</nom> bezonas lin, por <tld/>i siajn kambiojn
+        <fnt>
+          <aut>A. A. Sa&hcirc;arov</aut>
+          <vrk>Superforta ambicio</vrk>
+          <lok>1913</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="vid" cel="rabat.0i">rabati</ref>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_s;&c_k;&c_a;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;
   <klr tip="amb">(&c_v;&c_e;&c_k;&c_s;&c_a;&c_l;&c_mol;)</klr></trd>
@@ -30,6 +38,7 @@
     <trd>lesz&aacute;m&iacute;tol</trd>,
     <trd>diszkont&aacute;l</trd>
   </trdgrp>
+  <trd lng="ja">&#x5272;&#x5F15;&#x3059;&#x308B;  [<ind>&#x308F;&#x308A;&#x3073;&#x304D;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">disconteren</trd>
   <trd lng="pl">dyskontowa&cacute;</trd>
   <trd lng="pt">descontar <klr tip="amb">(um
@@ -40,6 +49,10 @@
     &c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">diskontova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_r;&c_a;&c_h;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i; &c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_d;&c_i;&c_s;&c_k;&c_o;&c_n;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="diskon.0o">
@@ -69,10 +82,22 @@
     <dif>
       Procenta&jcirc;o deprenita pro la anta&ubreve;tempa pago:
       <ekz>
+        por la pago volu prezentigi kambion al mia kaso, post tridek tagoj, kun 2% da
+        <tld/>o, konforme je viaj kondi&ccirc;oj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         kiam la kapitaloj abundas, la bankoj malaltigas
         la <tld/>an elcenton.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="pag.de0o">depago</ref>,
+      <ref cel="rabat.0o">rabato</ref>
+    </refgrp>
     <trdgrp lng="de">
       <trd>Diskont</trd>,
       <trd>Abzug vor F&auml;lligkeit</trd>
@@ -86,17 +111,34 @@
     <trd lng="nl">discontovoet</trd>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_s;&c_k;&c_o;&c_n;&c_t;</trd>
+  <trd lng="bo">&t_ga;&t_naro;&t_nga;&t_tsheg;&t_ba;&t_ca;&t_ga;&t_tsheg;&t_pa;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>diskont</trd>,
     <trd>sr&aacute;&zcaron;ka z &uacute;&ccaron;tu</trd>
   </trdgrp>
   <trd lng="fr">escompte</trd>
+  <trd lng="he">&he;&nun;&het;&he;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x624B;&#x5F62;&#x5272;&#x5F15;  [<ind>&#x3066;&#x304C;&#x305F;&#x308F;&#x308A;&#x3073;&#x304D;</ind>]</trd>,
+    <trd>&#x5272;&#x5F15;&#x6B69;&#x5408;  [<ind>&#x308F;&#x308A;&#x3073;&#x304D;&#x3076;&#x3042;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">dyskont</trd>
   <trd lng="sk">zr&aacute;&zcaron;ka z &uacute;&ccaron;tu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_i;&c_s;&c_k;&c_o;&c_n;&c_t; &c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_ja;</trd>,
+    <trd>&c_d;&c_i;&c_s;&c_k;&c_o;&c_n;&c_t;</trd>,
+    <trd>&c_d;&c_i;&c_s;&c_k;&c_o;&c_n;&c_t;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2022/06/28 20:31:13
+Jeromo Vasxe: ~i + ekz
+
+versio 1.21 2022/03/21 06:35:08
+Wolfram Diestel: +ekz, ref
+
 Revision 1.16  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -113,8 +155,5 @@ Revision 1.12  2009/06/19 05:10:17  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.11  2008/07/22 16:30:34  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2007/08/08 16:30:53  revo
 -->
 </vortaro>

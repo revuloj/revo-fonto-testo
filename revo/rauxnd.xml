@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rauxnd.xml,v 1.6 2022/08/11 21:29:57 revo Exp $">
 <kap>
   <rad>ra&ubreve;nd</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,14 +12,15 @@
     <dif>
       Subparto de <ref tip="malprt" cel="macx1.0o.SPO">ma&ccirc;o</ref>
       &ndash; originale de boksa ma&ccirc;o &ndash; a&ubreve; de
-      <ref tip="vid" cel="parti.0o.SPO">partio</ref>
-      de ajna sporto, ludo;
+      <ref tip="vid" cel="parti.0o.de_turniro">partio</ref>
+      de ajna sporto, <ref cel="lud.0o">ludo</ref>;
       <ref tip="sin" cel="rund1.0o.SPO">rundo<sncref/></ref>:
       <ekz>
         ludo de MOW estas ludata en multaj <tld/>oj
         <fnt>
           <aut>B. Cathala, trad. -</aut>,
-          <vrk><url ref="http://www.hurricangames.com/datapdf/device/mow-big-box-sound_rules_eo.pdf">
+          <vrk><url
+          ref="http://www.hurricangames.com/datapdf/device/mow-big-box-sound_rules_eo.pdf">
           Mow</url></vrk>,
           <lok>[vidita en 2017]</lok>
         </fnt>;
@@ -34,7 +34,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        ludantoj ludas multajn <tld/>ojn (ludetojn de specifa vario), pokero estas plej bone ludita kun 4-9 ludantoj
+        ludantoj ludas multajn <tld/>ojn (ludetojn de specifa vario), pokero estas plej bone ludita
+        kun 4-9 ludantoj
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=17110">Pokero</url></lok>
@@ -52,17 +53,32 @@
       <trd>Runde <klr>(Sport, Spiel)</klr></trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_w;&c_n;&c_d;</trd>
   <trdgrp lng="fr">
     <trd>manche<klr> (d'un jeu)</klr></trd>,
     <trd>round</trd>
   </trdgrp>
+  <trd lng="pl">runda</trd>
+  <trdgrp lng="ro">
+    <trd>tur</trd>,
+    <trd>runda</trd>
+  </trdgrp>
+  <trd lng="uk">&c_r;&c_a;&c_u;&#x43D;&c_d;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.6 2022/08/11 21:29:57
+Vito Redsky:  +trd pl  + trd ro 
+
+versio 1.4 2021/07/14 15:36:24
+Dmitri Gabinski: + trd be
+
+versio 1.3 2021/03/24 11:58:25
+Wolfram Diestel: kor. ref-cel
+
 Revision 1.1  2017/02/09 21:10:11  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

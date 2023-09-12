@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: tent.xml,v 1.25 2020/03/14 20:10:21 revo Exp $">
+<art mrk="$Id: tent.xml,v 1.29 2023/09/04 18:15:46 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tent</rad>/i
@@ -179,8 +178,10 @@
     <ekz>
       iu <tld/>is dama&gcirc;i <klr>[la monumenton]</klr> per grenadoj
       <fnt><aut>Bardhyl Selimi</aut><vrk>Monato</vrk><lok>
-      <url ref="http://www.esperanto.be/fel/mon/007205.html">
-      http://www.esperanto.be/fel/mon/007205.html</url></lok></fnt>
+      <url ref="&Monato;/2001/007205.html">
+      KOSOVO:
+          Voja&gcirc;impresoj, somero 2000</url></lok></fnt>
+      
     </ekz>
     .
   </rim>
@@ -207,6 +208,11 @@
     <trd>cs&aacute;b&iacute;t</trd>,
     <trd>megk&iacute;s&eacute;rt</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A98;&#x60D1;&#x3059;&#x308B;  [<ind>&#x3086;&#x3046;&#x308F;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x305D;&#x305D;&#x306E;&#x304B;&#x3059;</trd>,
+    <trd>&#x305D;&#x305D;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">verleiden</trd>
   <trdgrp lng="ru">
     <trd>&c_i;&c_s;&c_k;&c_u;&c_sh;&c_a;&c_t;&c_mol;</trd>,
@@ -221,6 +227,7 @@
     <trd>pokou&scaron;et</trd>,
     <trd>sv&aacute;d&ecaron;t</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&#x43F;&#x43E;&#x43A;&c_u;&c_sh;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="tent.0a">
@@ -234,7 +241,7 @@
         <tld/>a
         <fnt>
         <bib>LOdE</bib>
-        <lok><url ref="http://ttt.esperanto.org/Ondo/R-master.htm">
+        <lok><url ref="https://web.archive.org/web/20130511161427/http://esperanto.org/Ondo/R-master.htm">
         1993:1(8)</url></lok>
         </fnt>;
       </ekz>
@@ -268,6 +275,11 @@
     <trd>cs&aacute;b&iacute;t&oacute;</trd>,
     <trd>megk&ouml;rny&eacute;kez&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A98;&#x3046;&#x3088;&#x3046;&#x306A;  [<ind>&#x3055;&#x305D;&#x3046;&#x3088;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x305D;&#x305D;&#x306E;&#x304B;&#x3059;</trd>,
+    <trd>&#x6C17;&#x3092;&#x305D;&#x305D;&#x308B;  [<ind>&#x304D;&#x3092;&#x305D;&#x305D;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verleidelijk</trd>
   <trdgrp lng="pl">
     <trd>kuszacy</trd>,
@@ -278,6 +290,7 @@
     <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sk">zv&aacute;dzav&yacute;</trd>
+  <trd lng="uk">&c_s;&#x43F;&#x43E;&#x43A;&c_u;&c_s;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="tent.0o">
@@ -357,6 +370,7 @@
     <trd>poku&scaron;en&iacute;</trd>,
     <trd>touha</trd>
   </trdgrp>
+  <trd lng="de">Versuchung</trd>
   <trd lng="en">temptation</trd>
   <trd lng="es">tentaci&oacute;n</trd>
   <trdgrp lng="fr">
@@ -370,6 +384,7 @@
     <trd>k&iacute;s&eacute;rt&eacute;s</trd>,
     <trd>cs&aacute;b&iacute;t&aacute;s</trd>
   </trdgrp>
+  <trd lng="ja">&#x8A98;&#x60D1;  [<ind>&#x3086;&#x3046;&#x308F;&#x304F;</ind>]</trd>
   <trd lng="nl">verleiding</trd>
   <trdgrp lng="ru">
     <trd>&c_i;&c_s;&c_k;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
@@ -379,6 +394,7 @@
     <trd>poku&scaron;enie</trd>,
     <trd>t&uacute;&zcaron;ba</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&#x43F;&#x43E;&#x43A;&c_u;&c_s;&c_a;</trd>
 </drv>
 
 <drv mrk="tent.0ado">
@@ -401,8 +417,7 @@
       de la vidpunkto de &gcirc;ia objekto.
     </rim>
   </snc>
-  <trd
-  lng="be">&c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">sv&aacute;d&ecaron;n&iacute;</trd>
   <trd lng="fr">tentation</trd>
   <trdgrp lng="hu">
@@ -445,6 +460,10 @@
     <trd>k&iacute;s&eacute;rt&odblac;</trd>,
     <trd>cs&aacute;b&iacute;t&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A98;&#x60D1;&#x8005;  [<ind>&#x3086;&#x3046;&#x308F;&#x304F;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x60AA;&#x9B54;  [<ind>&#x3042;&#x304F;&#x307E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verleider</trd>
   <trd lng="pl">kusiciel</trd>
   <trdgrp lng="ru">
@@ -453,6 +472,7 @@
     </trd>
   </trdgrp>
   <trd lng="sk">poku&scaron;ite&lcaron;</trd>
+  <trd lng="uk">&c_s;&#x43F;&#x43E;&#x43A;&c_u;&c_s;&#x43D;&c_i;&#x43A;</trd>
 </drv>
 
 <drv mrk="tent.0igxi">
@@ -465,7 +485,7 @@
         <fnt>
         <aut>Tolkien, trad. W. Auld</aut>
         <vrk>La kunularo de l' ringoj</vrk>
-        <lok><url ref="http://ttt.esperanto.org/Ondo/T-prolog.htm">
+        <lok><url ref="https://web.archive.org/web/20070105133452/http://esperanto.org:80/Ondo/T-prolog.htm">
         Prologo</url></lok>
         </fnt>;
       </ekz>
@@ -491,6 +511,10 @@
     <trd>k&iacute;s&eacute;rt&eacute;sbe esik</trd>,
     <trd>elcs&aacute;bul</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3072;&#x304B;&#x308C;&#x308B;</trd>,
+    <trd>&#x8A98;&#x60D1;&#x3055;&#x308C;&#x308B;  [<ind>&#x3086;&#x3046;&#x308F;&#x304F;&#x3055;&#x308C;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>skusi&cacute; si&eogonek;<klr> na co&sacute;</klr></trd>,
     <trd>po&lstroke;akomi&cacute; si&eogonek;<klr> na co&sacute;</klr>
@@ -502,31 +526,32 @@
     <trd>&c_p;&c_o;&c_d;&c_d;&c_a;&c_t;&c_mol;&c_s;&c_ja;
     <ind>&c_i;&c_s;&c_k;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_ju;</ind></trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&#x43F;&#x43E;&#x43A;&c_u;&c_s;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/03/27 06:33:14
+Paul Peeraerts: &Monato;
+
+versio 1.27 2022/05/02 13:05:03
+Ulrich Fellmann: tento: +1 DE trd
+
+versio 1.25 2020/03/14 20:10:21
+Robin van der Vliet: ligilo (denove) riparita
+
+Revision 1.24  2020/03/14 10:59:09  revo
+adaptis URL de Ondo
+
+Revision 1.23  2020/03/09 23:10:24  revo
+Robin van der Vliet: ligiloj riparitaj
+
+Revision 1.22  2018/08/24 15:15:13  revo
+kor. ecaron en la chehha
+
 Revision 1.21  2018/06/17 17:10:21  revo
 Dusan Juretic: +trd es
 
 Revision 1.20  2015/07/04 08:37:44  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.19  2015/06/29 16:40:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.18  2012/05/10 00:10:08  revo
-Joop Eggen: +trd nl
-
-Revision 1.17  2009/02/10 14:18:30  revo
-Sebastian Cyprych: -fusxaj linirompoj en trd
-
-Revision 1.16  2008/11/07 17:30:51  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.15  2006/09/18 16:31:03  revo
-Russ Williams: +trd en
-
-Revision 1.14  2006/02/15 17:32:48  revo
 -->
 </vortaro>

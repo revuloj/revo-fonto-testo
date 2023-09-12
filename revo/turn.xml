@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: turn.xml,v 1.123 2023/09/04 19:01:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>turn</rad>/i <fnt><bib>PV</bib></fnt>
@@ -20,23 +19,24 @@
         <tld/>i &scirc;losilon en la seruro;
       </ekz>
       <ekz>
-        &ccirc;e la sono de lia vo&ccirc;o Stella <tld/>is la kapon
-        <fnt><bib>FK</bib>, <lok>4, rakontoj, la porcio da
-        glacia&jcirc;o,
-        (rakonto de L. Dilling, tradukita de Eduard Hall el Joensuu
-        (Finnlando))</lok></fnt>;
+        &ccirc;e la sono de lia vo&ccirc;o <nom>Stella</nom> <tld/>is la kapon
+        <fnt>
+          <aut>L. Dilling, trad. E. Hall</aut>
+          <vrk>La porcio da glacia&jcirc;o</vrk>
+          <lok>en: Fundamenta Krestomatio, 1904</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la kamparano <klr>...</klr> <tld/>is kaj re<tld/>is la
+        la kamparano <klr>[&#x2026;]</klr> <tld/>is kaj re<tld/>is la
         pa&gcirc;ojn
-        <fnt><bib>ElektFab</bib>, <lok>doktoro
+        <fnt><bib>ElektFab</bib> <lok>Doktoro
         &Ccirc;ioscia</lok></fnt>;
       </ekz>
       <ekz>
-        la folioj en la arbaro fari&gcirc;is flavaj <klr>...</klr>, la
+        la folioj en la arbaro fari&gcirc;is flavaj <klr>[&#x2026;]</klr>, la
         vento
         ilin forportis kaj <tld/>opelis
-        <fnt><bib>Fab2</bib>, <lok>malbela anasido</lok></fnt>.
+        <fnt><bib>Fab2</bib> <lok>Malbela anasido</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -75,17 +75,17 @@
         <tld/>i posten la &ccirc;evalon
         <fnt>
           <bib>Far1</bib>
-          <lok>&Ccirc;apitro V</lok>
+          <lok>&ccirc;apitro 5a</lok>
         </fnt>;
       </ekz>
       <ekz>
         ili <tld/>is al Mi la dorson
         <klr>(signo de malestimo, rifuzo, fu&gcirc;o...)</klr>
-        <fnt><bib>MT</bib>, <lok>&Jer; 32:33</lok></fnt>;
+        <fnt><bib>MT</bib> <lok>&Jer; 32:33</lok></fnt>;
       </ekz>
       <ekz>
         re<tld/>u vin de viaj malbonaj vojoj
-        <fnt><bib>MT</bib>, <lok>&Re2; 17:13</lok></fnt>;
+        <fnt><bib>MT</bib> <lok>&Re2; 17:13</lok></fnt>;
       </ekz>
       <ekz>
         <tld/>i la okulojn al la pordo;
@@ -127,27 +127,31 @@
   </snc>
   <snc mrk="turn.0i.sxangxi">
     <dif>
-      Meti en novan staton, <ref tip="sin"
-      cel="sxangx.0i.anstatauxigi">&scirc;an&gcirc;i</ref>:
+      Meti en novan staton, <ref tip="sin" cel="sxangx.0i.anstatauxigi">&scirc;an&gcirc;i</ref>:
       <ekz>
         la edzi&gcirc;o de la princo devis ja alporti al &scirc;i la
-        morton kaj <tld/>i
-        &scirc;in en &scirc;a&ubreve;mon sur la maro
-        <fnt><bib>Fab1</bib>, <lok>la virineto de maro</lok></fnt>.
+        morton kaj <tld/>i &scirc;in en &scirc;a&ubreve;mon sur la maro
+        <fnt><bib>Fab1</bib> <lok>La virineto de maro</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="form.ali0i.KOMUNE">aliformi</ref>,
       <ref cel="metamo1.0i">metamorfozi</ref>
     </refgrp>
-    <trd lng="hu">v&aacute;ltoztat <klr
-    tip="amb">(vmiv&eacute;)</klr></trd>
+    <trd lng="hu">v&aacute;ltoztat <klr tip="amb">(vmiv&eacute;)</klr></trd>
     <trdgrp lng="ru">
       <trd>&c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;</trd>,
       <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>
     </trdgrp>
     <trd lng="sv">f&ouml;rvandla</trd>
   </snc>
+  <trd lng="af">beurt</trd>
+  <trd lng="am">&#x1218;&#x1273;&#x1320;&#x134D;</trd>
+  <trd lng="ar">&a_m;&a_n;&a_ayn;&a_T;&a_f;</trd>
+  <trd lng="az">&ccedil;evirm&#x259;k</trd>
+  <trd lng="bn">&#x9AA;&#x9BE;&#x9B2;&#x9BE;</trd>
+  <trd lng="bs">red</trd>
+  <trd lng="co">turnu</trd>
   <trdgrp lng="cs">
     <trd>obr&aacute;tit</trd>,
     <trd>obracet</trd>,
@@ -155,14 +159,57 @@
     <trd>to&ccaron;it</trd>,
     <trd>vrt&ecaron;t</trd>
   </trdgrp>
+  <trd lng="cy">dro</trd>
+  <trd lng="da">tur</trd>
   <trd lng="de">verwandeln</trd>
   <trd lng="en">turn</trd>
   <trd lng="es">girar</trd>
+  <trd lng="et">omakorda</trd>
+  <trd lng="eu">txanda</trd>
   <trd lng="fr">tourner</trd>
+  <trd lng="fy">draaie</trd>
+  <trd lng="ga">cas</trd>
+  <trd lng="gd">tionndadh</trd>
+  <trd lng="gl">&aacute; s&uacute;a vez,</trd>
+  <trd lng="gu">&#xAB5;&#xAB3;&#xABE;&#xA82;&#xA95;</trd>
+  <trd lng="ha">nuna</trd>
+  <trd lng="hi">&#x92C;&#x93E;&#x930;&#x940;</trd>
+  <trd lng="hmn">tig</trd>
+  <trd lng="hr">red</trd>
+  <trd lng="ht">vire</trd>
+  <trd lng="hy">&#x570;&#x565;&#x580;&#x569;&#x568;</trd>
+  <trd lng="ig">N&#x2019;aka</trd>
+  <trd lng="is">sn&uacute;a</trd>
+  <trd lng="ja">&#x30BF;&#x30FC;&#x30F3;</trd>
+  <trd lng="jv">siji</trd>
+  <trd lng="ka">&#x10D7;&#x10D0;&#x10D5;&#x10D8;&#x10E1; &#x10DB;&#x10EE;&#x10E0;&#x10D8;&#x10D5;,</trd>
+  <trd lng="kk">&c_b;&#x4B1;&c_r;&c_y;&c_l;&c_u;</trd>
+  <trd lng="km">&#x179C;&#x17C1;&#x1793;</trd>
+  <trd lng="kn">&#xCA4;&#xCBF;&#xCB0;&#xCC1;&#xCB5;&#xCC1;</trd>
+  <trd lng="ko">&#xD68C;&#xC804;</trd>
+  <trd lng="ku">z&icirc;vir</trd>
+  <trd lng="ky">&c_b;&c_u;&c_r;&c_u;&c_l;&c_u;&c_sh;</trd>
+  <trd lng="lat">vicissim</trd>
+  <trd lng="lo">&#xEC1;&#xEA5;&#xEB0;&#xEC0;&#xEAE;&#xEB1;&#xE94;&#xEC3;&#xEAB;&#xEC9;&#xE81;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">pos&umacron;kis</trd>
+  <trd lng="lv">k&amacron;rta</trd>
+  <trd lng="mg">indray</trd>
+  <trd lng="mi">tahuri</trd>
+  <trd lng="mk">&c_v;&c_o;&c_z;&c_v;&c_r;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD35;&#xD33;&#xD35;&#xD4D;</trd>
+  <trd lng="mn">&c_e;&c_e;&c_l;&c_zh;</trd>
+  <trd lng="mr">&#x935;&#x933;&#x923;</trd>
+  <trd lng="ms">seterusnya</trd>
+  <trd lng="mt">dawran</trd>
+  <trd lng="my">&#x1021;&#x101C;&#x103E;&#x100A;&#x1037;&#x103A;</trd>
+  <trd lng="ne">&#x92B;&#x932;&#x938;&#x94D;&#x935;&#x930;&#x942;&#x92A;</trd>
   <trd lng="nl">draaien</trd>
+  <trd lng="ny">ndiyeno</trd>
+  <trd lng="pa">&#xA35;&#xA3E;&#xA30;&#xA40;</trd>
   <trdgrp lng="pl">
     <trd>obraca&cacute;</trd>
   </trdgrp>
+  <trd lng="ps">&a_w;&a_A;&a_r;</trd>
   <trdgrp lng="pt">
    <trd>virar</trd>,
    <trd>voltar</trd>,
@@ -171,29 +218,61 @@
    <trd>voltear</trd>,
    <trd>transformar</trd>
   </trdgrp>
+  <trd lng="rw">hindukira</trd>
+  <trd lng="sd">&a_m;&a_w;&#x699;</trd>
+  <trd lng="si">&#xD85;&#xDB1;&#xDD9;&#xD9A;&#xDCA; &#xD85;&#xDAD;&#xDA7;</trd>
   <trdgrp lng="sk">
     <trd>rozkr&uacute;ti&tcaron;</trd>,
     <trd>rozto&ccaron;i&tcaron;</trd>,
     <trd>zvrtn&uacute;&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">zavoj</trd>
+  <trd lng="sm">liliu</trd>
+  <trd lng="sn">chijana</trd>
+  <trd lng="so">markooda</trd>
+  <trd lng="sq">kthes&euml;</trd>
+  <trd lng="st">lehlakoreng le</trd>
+  <trd lng="su">pengkolan</trd>
+  <trd lng="sw">upande</trd>
+  <trd lng="ta">&#xB87;&#xBA4;&#xBC8;&#xBAF;&#xBCA;&#xB9F;&#xBCD;&#xB9F;&#xBBF;</trd>
+  <trd lng="te">&#xC2E;&#xC32;&#xC41;&#xC2A;&#xC41;</trd>
+  <trd lng="tg">&c_n;&c_a;&c_v;&c_b;&c_a;&c_t;&c_i;</trd>
+  <trd lng="th">&#xE40;&#xE25;&#xE35;&#xE49;&#xE22;&#xE27;</trd>
+  <trd lng="tl">pagliko</trd>
+  <trd lng="tt">&c_b;&c_o;&c_r;&c_y;&c_l;&c_u;</trd>
+  <trd lng="uk">&c_p;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;</trd>
+  <trd lng="ur">&a_b;&a_A;&a_r;&f_y;</trd>
+  <trd lng="uz">burilish</trd>
+  <trd lng="vi">l&#x1EA7;n l&#x1B0;&#x1EE3;t</trd>
+  <trd lng="xh">lithuba</trd>
+  <trd lng="yi">&qof;&ayin;&resh;&fnun;</trd>
+  <trd lng="yo">tan</trd>
+  <trd lng="zu">baphendukela</trd>
 </drv>
 
-<drv mrk="turn.0igxisin0i">
+<drv mrk="turn.0igxi">
   <kap><tld/>i&gcirc;i, <var><kap>sin <tld/>i</kap></var></kap>
   <snc mrk="turn.0igxi.ruligxi">
     <dif>
       Movi&gcirc;i &ccirc;irka&ubreve; sia akso:
       <ekz>
-        la rado <tld/>i&gcirc;is rapide;
+        la rado <tld/>i&gcirc;is, la siteloj &ccirc;erpis la akvon el la lageto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
       </ekz>
       <ekz>
         pordo <tld/>i&gcirc;as sur sia hoko
-        <fnt><bib>MT</bib>, <lok>&Sen; 26:14</lok></fnt>;
+        <fnt><bib>MT</bib> <lok>&Sen; 26:14</lok></fnt>;
       </ekz>
       <ekz>
-        la tero <tld/>i&gcirc;as &ccirc;irka&ubreve; sia akso kaj
-        rondiras &ccirc;irka&ubreve; la
-        suno<fnt>B</fnt>;
+        <uzo tip="stl">FIG</uzo>
+        sen&ccirc;ese <tld/>i&gcirc;is en lia kapo <klr>[&#x2026;]</klr> la samaj pensoj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>I</lok>
+        </fnt>;
       </ekz>
       <ekz>
         junaj fra&ubreve;linoj <tld/>i&gcirc;adis en gaja
@@ -204,29 +283,38 @@
         </fnt>;
       </ekz>
       <ekz>
-        <ind><tld/>i&gcirc;adi kiel serpento</ind>
-        <klr>(rapide &ccirc;iuflanken tordi sian korpon)</klr>
-        <trd lng="fr">se tordre comme un vers</trd>
-        <fnt><bib>PrV</bib></fnt>;
+        la ne&gcirc;o <tld/>i&gcirc;adis
+        <fnt><bib>Fab2</bib> <lok>Malgranda knabo kaj malgranda knabino</lok></fnt>;
       </ekz>
       <ekz>
-        la ne&gcirc;o <tld/>i&gcirc;adis
-        <fnt><bib>Fab2</bib>, <lok>ne&gcirc;a re&gcirc;ino, fabelo en
-        sep rakontoj,
-        dua rakonto, malgranda knabo kaj malgranda knabino</lok></fnt>;
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;io <tld/>i&gcirc;as &ccirc;irka&ubreve; mi! tio venas de tio, ke mi eltrinkis la botelon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;i estis tute senta&ubreve;ga</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la re&gcirc;o sin <tld/>is kaj <tld/>adis anta&ubreve; la
         spegulo
-        <fnt><bib>Fab1</bib>, <lok>la novaj vestoj de la
+        <fnt><bib>Fab1</bib> <lok>La novaj vestoj de la
         re&gcirc;o</lok></fnt>;
       </ekz>
       <ekz>
         li sin <tld/>is sur la kalkano
-        <fnt><bib>Marta</bib></fnt>.
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>i&gcirc;adi kiel serpento</ind>
+        <klr>(rapide &ccirc;iuflanken tordi sian korpon)</klr>
+        <trd lng="de">sich wie eine Schlange <ind>winden</ind></trd>
+        <trd lng="fr">se tordre comme un vers</trd>
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
+      <ref cel="kirl.0igxi">kirli&gcirc;i</ref>,
+      <ref cel="rul.0igxi.turnigxi">ruli&gcirc;i<sncref/></ref>,
       <ref cel="tord.0i">tordi</ref>
     </refgrp>
     <trd lng="de"><klr>sich </klr>umdrehen</trd>
@@ -264,10 +352,10 @@
         sin <tld/>i kontra&ubreve; la malamikon;
       </ekz>
       <ekz>
-        la fortuno povas <klr>...</klr> forlasi nin, e&ccirc; sin
+        la fortuno povas <klr>[&#x2026;]</klr> forlasi nin, e&ccirc; sin
         <tld/>i
         kontra&ubreve; ni
-        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 15a</lok></fnt>;
+        <fnt><bib>Far3</bib> <lok>&ccirc;apitro 15a</lok></fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -307,7 +395,7 @@
         kien ajn li sin <tld/>os, li sukcesos
         <fnt>
           <bib>MT</bib>
-          <lok>Sentencoj 17:8</lok>
+          <lok>&Sen; 17:8</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -318,7 +406,7 @@
       </ekz>
       <ekz>
         ne <tld/>u vin al idoloj
-        <fnt><bib>MT</bib>, <lok>&Lev; 19:4</lok></fnt>;
+        <fnt><bib>MT</bib> <lok>&Lev; 19:4</lok></fnt>;
       </ekz>
       <ekz>
         mia vo&ccirc;o sin <tld/>as al la homoj
@@ -339,7 +427,11 @@
         lia amo <tld/>i&gcirc;is en malamon;
       </ekz>
       <ekz>
-        li mortis kaj <tld/>i&gcirc;is en polvon<fnt>Z</fnt>.
+        Aleksandro mortis <klr>[&#x2026;kaj]</klr> <tld/>i&gcirc;is en polvon
+        <fnt>
+          <bib>Hamlet</bib>
+          <lok>Hamleto</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="es">
@@ -356,28 +448,48 @@
     </trdgrp>
     <trd lng="sv">f&ouml;rvandlas</trd>
   </snc>
+  <trd lng="bo">&t_ma;&t_da;&t_naro;&t_nga;&t_tsheg;&t_ma;&t_naro;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>obracet</trd>,
     <trd>sto&ccaron;it</trd>,
     <trd>to&ccaron;it</trd>,
     <trd>vrt&ecaron;t</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>turn</trd>,
+    <trd>turn around</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>retourner</ind></trd>,
     <trd>se <ind>tourner</ind></trd>,
     <trd>tourner en</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56DE;&#x308B;  [<ind>&#x307F;&#x308B;</ind>]</trd>,
+    <trd>&#x56DE;&#x8EE2;&#x3059;&#x308B;  [<ind>&#x304B;&#x3044;&#x3066;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3075;&#x308A;&#x5411;&#x304F;  [<ind>&#x3075;&#x308A;&#x3080;&#x304F;</ind>]</trd>,
+    <trd>&#x5411;&#x304D;&#x3092;&#x5909;&#x3048;&#x308B;  [<ind>&#x3080;&#x304D;&#x3092;&#x304B;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x5909;&#x308F;&#x308B;  [<ind>&#x304B;&#x308F;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>rozkr&uacute;ti&tcaron;</trd>,
     <trd>rozto&ccaron;i&tcaron;</trd>,
     <trd>zvrtn&uacute;&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_b;&c_je;&c_r;&c_t;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_je;&c_r;&c_t;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_t;&c_ib;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_k;&c_r;&c_u;&c_zh;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_t;&c_v;&c_o;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_o;&c_b;&c_je;&c_r;&c_t;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="turn.de0ifor0i">
+<drv mrk="turn.de0i">
   <kap>de<tld/>i, <var><kap>for<tld/>i</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="turn.de0i.KOMUNE">
     <dif>
       &Scirc;an&gcirc;i la kutiman a&ubreve; normalan direkton de:
       <ekz>
@@ -388,12 +500,12 @@
       </ekz>
       <ekz>
         timu la Eternulon, kaj de<tld/>u vin de malbono
-        <fnt><bib>MT</bib>, <lok>&Sen; 3:7</lok></fnt>;
+        <fnt><bib>MT</bib> <lok>&Sen; 3:7</lok></fnt>;
       </ekz>
       <ekz>
-        Sed balda&ubreve; &scirc;i forturnas la viza&gcirc;on, kvaza&ubreve; &scirc;i ne konus lin
-       <fnt><aut>Stellan Engholm</aut>: <vrk>Al Torento</vrk>,
-       <lok>&ccirc;apitro V, 1930</lok></fnt>.
+        Sed balda&ubreve; &scirc;i for<tld/>as la viza&gcirc;on, kvaza&ubreve; &scirc;i ne konus lin
+       <fnt><aut>S. Engholm</aut> <vrk>Al Torento</vrk>
+       <lok>1930</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -409,12 +521,20 @@
     <trd>odvracet</trd>,
     <trd>odvr&aacute;tit</trd>
   </trdgrp>
-  <trd lng="de"><klr>sich </klr>abwenden</trd>
+  <trd lng="de">abwenden</trd>
+  <trdgrp lng="en">
+    <trd>avert</trd>,
+    <trd>lead astray</trd>,
+    <trd>turn away</trd>,
+    <trd>ward off</trd>,
+    <trd>detour</trd>
+  </trdgrp>
   <trd lng="es">desviar</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;tourner</trd>
   </trdgrp>
   <trd lng="hu">elford&iacute;t</trd>
+  <trd lng="ja">&#x8EAB;&#x3092;&#x5F15;&#x304B;&#x305B;&#x308B;  [<ind>&#x307F;&#x3092;&#x3072;&#x304B;&#x305B;&#x308B;</ind>]</trd>
   <trd lng="nl">ronddraaien</trd>
   <trdgrp lng="pl">
     <trd>odwraca&cacute;</trd>
@@ -428,28 +548,63 @@
     <trd>odkloni&tcaron; sa</trd>
   </trdgrp>
   <trd lng="sv">v&auml;nda bort</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_v;&c_je;&c_r;&c_t;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="turn.de0igxi">
+  <kap>
+    de<tld/>i&gcirc;i,
+    <var><kap>for<tld/>i&gcirc;i</kap></var>
+  </kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="turn.de0igxi.KOMUNE">
+    <dif>
+      Ekiri al alia direkto, <tld/>i sin, sian viza&gcirc;on, rigardon a&ubreve; penson al io alia:
+      <ekz>
+        kiam li sentis, ke lia pensado tro koncentri&gcirc;as al &scirc;i, li haste de<tld/>i&gcirc;is,
+        timante plian suferon
+        <fnt>
+          <aut>M. Proust, trad. J.-L. Tortel</aut>
+          <vrk>Unu amo de Swann</vrk>
+          <lok>2019</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">sich <ind>abwenden</ind></trd>
+  <trdgrp lng="en">
+    <trd>get distracted</trd>,
+    <trd>go astray</trd>,
+    <trd>turn away</trd>,
+    <trd>detour</trd>
+  </trdgrp>
+  <trd lng="fr">se <ind>d&eacute;tourner</ind></trd>
+  <trd lng="ja">&#x305D;&#x3063;&#x307D;&#x3092;&#x5411;&#x304F;  [<ind>&#x305D;&#x3063;&#x307D;&#x3092;&#x3080;&#x304F;</ind>]</trd>
 </drv>
 
 <drv mrk="turn.el0igxi">
   <kap>el<tld/>i&gcirc;i</kap>
   <snc mrk="turn.el0igxi.FIG">
+    <uzo tip="stl">FIG</uzo>
     <dif>
       Eliri el malfacila situacio per sia lerto:
       <ekz>
         sen la angla ne eblas el<tld/>i&gcirc;i en la mondo kaj en la estonta
         profesio
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007000.html'>Atento por
+        <aut>Andr&eacute; Albault</aut>
+          
+          <vrk><url ref="&Monato;/2000/007000.php">Atento por
           etaj kaj monda lingvoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 4</lok>
         </fnt>;
       </ekz>
       <ekz>
         el<tld/>i&gcirc;i el la pagado de impostoj
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007128.html'>&Ccirc;u
+          <vrk><url ref="&Monato;/2001/007128.html">&Ccirc;u
           venos fino de la impostaj paradizoj?</url></vrk>
         </fnt>.
       </ekz>
@@ -460,12 +615,28 @@
     <trd><ind>arreglar</ind>-s'ho</trd>,
     <trd><ind>arreglar</ind>-se</trd>
   </trdgrp>
-  <trd lng="de"><klr>sich </klr>herauswinden</trd>
+  <trdgrp lng="de">
+    <trd>sich <ind>herauswinden</ind></trd>,
+    <trd>sich <ind>herausreden</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>wangle</trd>,
+    <trd>contrive</trd>,
+    <trd>maneuver</trd>,
+    <trd>manage</trd>,
+    <trd>get away</trd>,
+    <trd>get along</trd>,
+    <trd>turn out</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>d&eacute;brouiller</ind></trd>,
     <trd>se <ind>tirer d'affaire</ind></trd>
   </trdgrp>
   <trd lng="hu">kiv&aacute;gja mag&aacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8EAB;&#x3092;&#x304B;&#x308F;&#x3059;  [<ind>&#x307F;&#x3092;&#x304B;&#x308F;&#x3059;</ind>]</trd>,
+    <trd>&#x5207;&#x308A;&#x629C;&#x3051;&#x308B;  [<ind>&#x304D;&#x308A;&#x306C;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zich eruit <ind>redden</ind></trd>
   <trd lng="oc">s'<ind>adobar</ind></trd>
   <trdgrp lng="pl">
@@ -483,13 +654,100 @@
   </trdgrp>
 </drv>
 
+<drv mrk="turn.el0igxo">
+  <kap>
+    el<tld/>i&gcirc;o
+  </kap>
+  <snc>
+    <dif>
+      Ago el<tld/>i&gcirc;i; tiucela rimedo:
+      <ekz>
+        diru al mi sen el<tld/>i&gcirc;o, kio okazis hiera&ubreve; vespere
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro XV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ndash; Mi ne povas ju&gcirc;i pri li &ndash; <klr>[a&hcirc;]</klr>, tio estas simple el<tld/>i&gcirc;o
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XXV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la respondo <klr>[&#x2026;]</klr> estis tute trafa kaj &gcirc;usta respondo, ne nur momenta
+        el<tld/>i&gcirc;o
+        <fnt>
+          <bib>KrM</bib>
+          <lok>16. Malsa&gcirc;uloj Kreskas Mem, Sen Plugo Kaj Sem&#x2019;</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la diversaj teknikaj el<tld/>i&gcirc;oj por la transkodigo de la &ccirc;apelitaj literoj
+        tute ne estas kontra&ubreve;-Fundamentaj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2010/009999.php">Interlingvo: komparo inter du solvoj</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ir.el0ejo.FIG">elirejo<sncref/></ref>,
+      <ref cel="eskap.0o">eskapo</ref>,
+      <ref cel="evit.0i.ion">evito</ref>,
+      <ref cel="mensog.0o">mensogo</ref>,
+      <ref cel="pretek.0o">preteksto</ref>,
+      <ref cel="proviz1.0o">provizoro</ref>,
+      <ref cel="solv.0o.KOMUNE">solvo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Ausflucht</trd>,
+    <trd>Vorwand</trd>,
+    <trd>Ausrede</trd>,
+    <trd>Notl&ouml;sung</trd>,
+    <trd>Notbehelf</trd>,
+    <trd>Behelfsl&ouml;sung</trd>
+  </trdgrp>
+<trdgrp lng="en">
+  <trd>makeshift</trd>,
+  <trd>expedient</trd>,
+  <trd>workaround</trd>
+</trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5207;&#x308A;&#x629C;&#x3051;&#x308B;&#x3053;&#x3068;  [<ind>&#x304D;&#x308A;&#x306C;&#x3051;&#x308B;&#x3053;&#x3068;</ind>]</trd>,
+    <trd>&#x56DE;&#x907F;  [<ind>&#x304B;&#x3044;&#x3072;</ind>]</trd>,
+    <trd>&#x9003;&#x3052;&#x9053;  [<ind>&#x306B;&#x3052;&#x307F;&#x3061;</ind>]</trd>,
+    <trd>&#x8A00;&#x3044;&#x9003;&#x308C;  [<ind>&#x3044;&#x3044;&#x306E;&#x304C;&#x308C;</ind>]</trd>
+  </trdgrp>
+</drv>
+
+
+
+
+
 <drv mrk="turn.el0ajxo">
   <kap>el<tld/>a&jcirc;o</kap>
   <snc mrk="turn.el0ajxo.FIG">
     <dif>
-      El<tld/>i&gcirc;a rimedo.
+      El<tld/>i&gcirc;a rimedo:
+      <ekz>
+        preska&ubreve; neebla el<tld/>a&jcirc;o
+        <fnt>
+          <vrk><url ref="http://satamikaro.org/oldsatamikaro/spip.php?article213">Gandhi kaj la angla</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <trd lng="de">Notbehelf</trd>
+  <trdgrp lng="en">
+    <trd>expedient</trd>,
+    <trd>makeshift</trd>,
+    <trd>workaround</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>exp&eacute;dient</trd>,
     <trd>syst&egrave;me D</trd>
@@ -498,6 +756,7 @@
     <trd>kiseg&iacute;t&odblac; megold&aacute;s</trd>,
     <trd>&aacute;tmeneti megold&aacute;s</trd>
   </trdgrp>
+  <trd lng="ja">&#x5384;&#x4ECB;&#x4E8B;&#x3092;&#x5207;&#x308A;&#x629C;&#x3051;&#x308B;&#x65B9;&#x7B56;  [<ind>&#x3084;&#x3063;&#x304B;&#x3044;&#x3053;&#x3068;&#x3092;&#x304D;&#x308A;&#x306C;&#x3051;&#x308B;&#x307B;&#x3046;&#x3055;&#x304F;</ind>]</trd>
   <trd lng="nl">redmiddel</trd>
   <trdgrp lng="pl">
     <trd>wyj&sacute;cie z sytuacji</trd>
@@ -521,7 +780,7 @@
         tiam, ol nun
         <fnt>
           <bib>MT</bib>
-          <lok>Ho&scirc;ea 2:7</lok>
+          <lok>&Hos; 2:7</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -533,7 +792,7 @@
       </ekz>
       <ekz>
         ni ricevas re<tld/>e nian homan formon
-        <fnt><bib>Fab1</bib>, <lok>sova&gcirc;aj cignoj</lok></fnt>;
+        <fnt><bib>Fab1</bib> <lok>Sova&gcirc;aj cignoj</lok></fnt>;
       </ekz>
       <ekz>
         rigardi re<tld/>en;
@@ -572,6 +831,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de">wieder <klr>(zur&uuml;ck)</klr></trd>
     <trdgrp lng="pl">
       <trd>w zamian</trd>,
       <trd>zwrotnie</trd>
@@ -582,26 +842,58 @@
     <trd>nazp&ecaron;t <klr>(adv.)</klr></trd>,
     <trd>zp&aacute;tky</trd>
   </trdgrp>
+  <trd lng="de">zur&uuml;ck</trd>
+  <trdgrp lng="en">
+    <trd>back</trd>,
+    <trd>backwards</trd>
+  </trdgrp>
   <trd lng="es">de vuelta</trd>
   <trdgrp lng="fr">
     <trd>en <ind>retour</ind></trd>
   </trdgrp>
   <trd lng="hu">viszonz&aacute;sul</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F8C;&#x5411;&#x304D;&#x306B;  [<ind>&#x3046;&#x3057;&#x308D;&#x3080;&#x304D;&#x306B;</ind>]</trd>,
+    <trd>&#x5143;&#x306E;&#x65B9;&#x3078;  [<ind>&#x3052;&#x3093;&#x306E;&#x307B;&#x3046;&#x3078;</ind>]</trd>,
+    <trd>&#x5143;&#x306B;&#x623B;&#x3063;&#x3066;  [<ind>&#x3052;&#x3093;&#x306B;&#x3082;&#x3069;&#x3063;&#x3066;</ind>]</trd>,
+    <trd>&#x304A;&#x8FD4;&#x3057;&#x306B;  [<ind>&#x304A;&#x304B;&#x3048;&#x3057;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">terug</trd>
   <trd lng="ru">&c_n;&c_a;&c_z;&c_a;&c_d;</trd>
   <trd lng="sk">sp&auml;&tcaron;</trd>
   <trd lng="sv">tillbaka</trd>
+  <trd lng="uk">&c_n;&c_a;&c_z;&c_a;&c_d;</trd>
 </drv>
 
 <drv mrk="turn.re0ite">
   <kap>re<tld/>ite</kap>
   <snc>
     <dif>
-      La&ubreve; inversa maniero.
+      La&ubreve; <ref cel="invers.0e">inversa</ref> maniero:
+      <ekz>
+        mi ne volus lin rekte mortigi, mi volus, ke li mem mortu, mi volus fari kiel
+        prudenta kuracisto, nur re<tld/>ite
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd>umgekehrt</trd>,
+    <trd><ind>verkehrt</ind> herum</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>backwards</trd>,
+    <trd>inside out</trd>
+  </trdgrp>
   <trd lng="fr">inversement</trd>
   <trd lng="hu">ford&iacute;tva</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F8C;&#x5411;&#x304D;&#x306B;&#x306A;&#x3063;&#x3066;  [<ind>&#x3046;&#x3057;&#x308D;&#x3080;&#x304D;&#x306B;&#x306A;&#x3063;&#x3066;</ind>]</trd>,
+    <trd>&#x88CF;&#x8FD4;&#x3057;&#x306B;  [<ind>&#x3046;&#x3089;&#x304C;&#x3048;&#x3057;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">omgedraaid</trd>
   <trdgrp lng="pl">
     <trd>odwrotnie</trd>,
@@ -625,15 +917,42 @@
       <ekz>
         ili haltigas a&ubreve; turnas la &scirc;ipon, por eviti
         dan&gcirc;erajn akvo<tld/>ojn
-        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 12a</lok></fnt>.
+        <fnt><bib>Far2</bib> <lok>&ccirc;apitro 12a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la mondo <klr>[&#x2026;]</klr> estas grandega akvo<tld/>o, en kiu la homoj estas &jcirc;etataj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXIII</lok>
+        </fnt>.
       </ekz>
     </dif>
     <ref tip="super" cel="vortic.0o">vortico</ref>
-    <ref tip="sin" cel="kirl.akvo0o.MAR">akvokirlo</ref>
+    <ref tip="sin" cel="kirl.akvo0o.MAR">akvokirlo</ref>  
+    <trd lng="de">Strudel <klr>(Wasserwirbel)</klr></trd>
+    <trdgrp lng="en">
+      <trd>whirlpool</trd>,
+      <trd>eddy</trd>,
+      <trd>vortex</trd>
+    </trdgrp>
     <trd lng="es">remolino</trd>
     <trd lng="fr">tourbillon<klr tip="amb"> (d'eau)</klr></trd>
     <trd lng="pl">wir wodny</trd>
     <trd lng="sv">str&ouml;mvirvel</trd>
+  </snc>
+  <snc mrk="turn.akvo0o.trombo">
+    <dif>
+      <ref tip="dif" cel="tromb.0o.MET">Trombo<sncref/></ref>:
+      <ekz>
+        la uragano kriegis, kvaza&ubreve; aro de satanoj,
+        rabiaj akvo<tld/>oj batis la &ccirc;ielon, kaj la ventego balais la fundon
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Wasserhose</trd>
   </snc>
 </drv>
 
@@ -655,17 +974,20 @@
         li eksentis fortan kap<tld/>on
         <fnt>
           <bib>Far3</bib>
-          <lok>&Ccirc;apitro XVII</lok>
+          <lok>&ccirc;apitro 17a</lok>
         </fnt>;
       </ekz>
       <ekz>
         sinjorino Anneto sentis kap<tld/>on de ravo
-        <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo, (rakonto de V.
-        Devjatnin), 4</lok></fnt>;
+        <fnt>
+          <aut>V. Devjatnin</aut>
+          <vrk>Arturo</vrk>
+          <lok>en: Fundamenta Krestomatio, 1904</lok>
+        </fnt>;
       </ekz>
       <ekz>
         en kap<tld/>a alto
-        <fnt><bib>Fab3</bib>, <lok>sub la saliko</lok></fnt>;
+        <fnt><bib>Fab3</bib> <lok>Sub la saliko</lok></fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -674,17 +996,21 @@
         <fnt>B</fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="vertigx.0o">verti&gcirc;o</ref>
     <trd lng="es">mareo</trd>
   </snc>
   <trd lng="cs">oto&ccaron;en&iacute; hlavy</trd>
   <trd lng="de">Schwindel</trd>
-  <trd lng="en">vertigo</trd>
+  <trdgrp lng="en">
+    <trd>vertigo</trd>,
+    <trd>dizziness</trd>
+  </trdgrp>
   <trd lng="fr">vertige</trd>
   <trd lng="hu">sz&eacute;d&uuml;l&eacute;s</trd>
+  <trd lng="ja">&#x3081;&#x307E;&#x3044;</trd>
   <trd lng="nl">duizeling</trd>
   <trd lng="pl">zawr&oacute;t g&lstroke;owy</trd>
-  <trd
-  lng="ru">&c_g;&c_o;&c_l;&c_o;&c_v;&c_o;&c_k;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ru">&c_g;&c_o;&c_l;&c_o;&c_v;&c_o;&c_k;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>to&ccaron;enie hlavy</trd>,
     <trd>z&aacute;vrat</trd>
@@ -703,24 +1029,44 @@
     <dif>
       <ref tip="dif" cel="turn.kap0o.MED">Kap<tld/>o</ref>:
       <ekz>
-        li ricevis kap<tld/>i&gcirc;on
-        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de feli&ccirc;o, 2, kio
-        okazis al la
-        jura konsilisto</lok></fnt>.
+        li ricevis kap<tld/>i&gcirc;on, kiam li ekpensis pri tio
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Stevens</nom>, sentante iom da kap<tld/>i&gcirc;o, <klr>[esperis]</klr>, ke &ccirc;iuj atingos la
+        malsupron sen ia katastrofo
+        <fnt>
+          <bib>TAA</bib>
+          <lok>&Ccirc;apitro VIII.</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="de">Schwindel</trd>
-  <trd lng="en">vertigo</trd>
+  <trdgrp lng="de">
+    <trd>Schwindel<klr>(gef&uuml;hl)</klr></trd>,
+    <trd>Taumel</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>vertigo</trd>,
+    <trd>dizziness</trd>
+  </trdgrp>
   <trd lng="fr">vertige</trd>
   <trd lng="hu">sz&eacute;d&uuml;l&eacute;s</trd>
+  <trd lng="ja">&#x3081;&#x307E;&#x3044;</trd>
   <trd lng="nl">duizeling</trd>
   <trd lng="pl">zawr&oacute;t g&lstroke;owy</trd>
-  <trd
-  lng="ru">&c_g;&c_o;&c_l;&c_o;&c_v;&c_o;&c_k;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ru">&c_g;&c_o;&c_l;&c_o;&c_v;&c_o;&c_k;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sv">
     <trd>svindel</trd>,
     <trd>yrsel</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_p;&c_a;&c_m;&c_o;&c_r;&c_o;&c_ch;&c_je;&c_n;&c_n;&c_ja;
+    (&c_g;&c_o;&c_l;&c_o;&c_v;&c_i;)</trd>,
+    <trd>&c_g;&c_o;&c_l;&c_o;&c_v;&c_o;&c_k;&c_r;&c_u;&c_zh;&c_ib;&c_n;&c_n;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -729,16 +1075,40 @@
   <snc mrk="turn.parol0o.LIN">
     <uzo tip="fak">LIN</uzo>
     <dif>
-      Dirmaniero:
+      <ref tip="dif" cel="manier.dir0o">Dirmaniero</ref>:
       <ekz>
         fre&scirc;aj, surprizaj parol<tld/>oj
-        <fnt><bib>Plumamikoj</bib>, <lok>dramoj en
-        esperanto</lok></fnt>.
+        <fnt><bib>Plumamikoj</bib> <lok>Dramoj en
+        esperanto</lok></fnt>;
+      </ekz>
+      <ekz>
+        Petronius esprimis dubon pri trafeco de iu parol<tld/>o
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multo el tiuj formoj estas klarigebla per senkonscia traduko esperanten de
+        formoj kaj parol<tld/>oj nacilingvaj
+        <fnt>
+          <bib>Zam</bib>
+          <lok>Zamenhof stilisto kaj kreinto de lingvoformoj</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="prover.0o">proverbo</ref>
+    </refgrp>
   </snc>
   <trd lng="cs">slovn&iacute; obrat</trd>
-  <trd lng="de">Redewendung</trd>
+    <trdgrp lng="de">
+      <trd>Redewendung</trd>,
+      <trd>fester <ind>Ausdruck</ind></trd>,
+      <trd>Redensart</trd>,
+      <trd>stehende <ind>Redensart</ind></trd>
+    </trdgrp>
+  <trd lng="en">turn of phrase</trd>
   <trdgrp lng="es">
     <trd>locuci&oacute;n</trd>,
     <trd>giro</trd>
@@ -752,6 +1122,10 @@
     <trd>mond&aacute;s</trd>,
     <trd>sz&oacute;l&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A00;&#x56DE;&#x3057;  [<ind>&#x3044;&#x3044;&#x307E;&#x308F;&#x3057;</ind>]</trd>,
+    <trd>&#x8868;&#x73FE;&#x6CD5;  [<ind>&#x3072;&#x3087;&#x3046;&#x3052;&#x3093;&#x307B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zegswijze</trd>
   <trdgrp lng="pl">
     <trd>zwrot<klr> j&eogonek;zykowy</klr></trd>,
@@ -760,28 +1134,32 @@
   <trd lng="ru">&c_o;&c_b;&c_o;&c_r;&c_o;&c_t;
   &c_r;&c_je;&c_ch;&c_i;</trd>
   <trd lng="sk">slovn&yacute; zvrat</trd>
+  <trd lng="uk">&c_m;&c_o;&c_v;&c_n;&c_i;&c_j; &c_z;&c_v;&c_o;&c_r;&c_o;&c_t;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.32  2018/01/16 18:10:16  revo
-Michel Cantigneaux: fonto por forturni
+versio 1.122 2023/05/06 15:11:57
+revo: aktualigo URL-unuoj
 
-Revision 1.31  2016/11/16 18:10:13  revo
-Wolfram Diestel: ekz-fnt-oj
+versio 1.121 2023/04/24 06:30:12
+Wolfram Diestel: +el~iĝo; +ekz-oj
 
-Revision 1.30  2016/11/16 17:10:16  revo
-Wolfram Diestel: ekz-fnt-oj; dif chirkau ref-dif
+versio 1.120 2023/04/09 13:26:12
+Paul Peeraerts: &Monato;/
 
-Revision 1.29  2016/08/22 02:10:18  revo
-Carlos Garcia: +trd es -igxi de-i el-igxi re-e akvo- kap- parol-
+versio 1.119 2023/03/27 10:32:06
+Paul Peeraerts: &Monato;
 
-Revision 1.28  2016/08/08 08:10:27  revo
-Damien Brucker: +tra fr
+versio 1.118 2023/01/08 18:31:11
+Ulrich Fellmann: parolturno: +3 pliaj DE trdj
 
-Revision 1.27  2015/07/04 08:37:45  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.117 2022/05/22 10:41:19
+Noam Mohr: +trd en turn-
 
-Revision 1.26  2015/06/29 16:40:20  revo
+versio 1.116 2022/05/20 05:30:18
+Wolfram Diestel: ~i&gcirc;i: +ekz FIG, ref-oj
+
+versio 1.115 2022/05/05 17:08:12
 -->
 </vortaro>

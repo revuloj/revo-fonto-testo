@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sukcen.xml,v 1.23 2023/09/04 15:14:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sukcen</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,8 +18,7 @@
         ta&ubreve;ga materialo
         <fnt>
           <bib>Viki</bib>,
-          <vrk><url
-          ref="https://eo.wikipedia.org/wiki/Elektrostatiko">Elektrostatiko</url></vrk>,
+          <vrk><url ref="&Viki;/Elektrostatiko">Elektrostatiko</url></vrk>,
         </fnt>;
       </ekz>
       <ekz>
@@ -34,6 +32,7 @@
     <trd>&c_k;&c_je;&c_h;&c_l;&c_i;&c_b;&c_a;&c_r;</trd>,
     <trd>&c_ja;&c_n;&c_t;&c_a;&c_r;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF66;&#xFA4;&#xF7C;&#xF66;&#xF0B;&#xF64;&#xF7A;&#xF63;&#xF0B;</trd>
   <trd lng="ca">ambre</trd>
   <trdgrp lng="cs">
     <trd>jantar</trd>,
@@ -54,13 +53,26 @@
   <trd lng="fa">&f_k;&a_h;&a_r;&a_b;&a_A;</trd>
   <trd lng="fr">ambre<klr> (jaune)</klr></trd>
   <trd lng="hu">borosty&aacute;nk&odblac;</trd>
+  <trd lng="ja">&#x3053;&#x306F;&#x304F;</trd>
   <trd lng="nl">barnsteen</trd>
+  <trd lng="pl">bursztyn</trd>
+  <trd lng="ro">chihlimbar </trd>
   <trd lng="ru">&c_ja;&c_n;&c_t;&c_a;&c_r;&c_mol;</trd>
   <trd lng="sk">jant&aacute;r</trd>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x443;&#x440;&#x448;&#x442;&#x438;&#x43D;</trd>,
+    <trd>&#x44F;&#x43D;&#x442;&#x430;&#x440;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2022/02/02 21:28:05
+Vito Redsky: + trd pl + trd ro 
+
 Revision 1.17  2016/03/12 13:10:15  revo
 Wolfram Diestel: ref al rezino, ekz-oj
 
@@ -77,8 +89,5 @@ Revision 1.13  2011/11/21 16:10:09  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.12  2009/06/20 18:00:50  revo
-Wieland Pusch: korr arabaj/persaj koderoj
-
-Revision 1.11  2009/05/17 16:31:19  revo
 -->
 </vortaro>

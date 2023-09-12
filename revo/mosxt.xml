@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: mosxt.xml,v 1.15 2009/08/24 16:32:44 revo Exp $">
+  <art mrk="$Id: mosxt.xml,v 1.21 2023/09/02 06:04:14 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>mo&scirc;t</rad>/o
@@ -72,7 +71,12 @@
         <trd>Excellence</trd>
         <trd>Altesse</trd>
       </trdgrp>
-      <trdgrp lng="pl">
+      <trdgrp lng="ja">
+    <trd>&#x95A3;&#x4E0B;  [<ind>&#x304B;&#x3063;&#x304B;</ind>]</trd>,
+    <trd>&#x6BBF;&#x4E0B;  [<ind>&#x3067;&#x3093;&#x304B;</ind>]</trd>,
+    <trd>&#x965B;&#x4E0B;  [<ind>&#x3078;&#x3044;&#x304B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
         <trd>mo&sacute;&cacute;</trd>,
         <trd>wysoko&sacute;&cacute;</trd>,
         <trd>mi&lstroke;o&sacute;&cacute;</trd>,
@@ -99,7 +103,13 @@
         <trd>y&uuml;kseklik</trd>,
         <trd>&uuml;st&uuml;nl&uuml;k</trd>
       </trdgrp>
-    </drv>
+      <trdgrp lng="uk">
+    <trd>&#x437;&#x430;&#x433;&#x430;&#x43B;&#x44C;&#x43D;&#x438;&#x439; &#x442;&#x438;&#x442;&#x443;&#x43B; &#x437;&#x432;&#x435;&#x440;&#x442;&#x430;&#x43D;&#x43D;&#x44F; &#x434;&#x43E; &#x432;&#x438;&#x441;&#x43E;&#x43A;&#x43E;&#x43F;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x445; &#x43E;&#x441;&#x456;&#x431;: &#x432;&#x435;&#x43B;&#x438;&#x447;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x431;&#x43B;&#x430;&#x433;&#x43E;&#x440;&#x43E;&#x434;&#x456;&#x454;</trd>,
+    <trd>&#x43F;&#x440;&#x435;&#x432;&#x43E;&#x441;&#x445;&#x43E;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x43E;</trd>,
+    <trd>&#x44F;&#x441;&#x43D;&#x43E;&#x432;&#x435;&#x43B;&#x44C;&#x43C;&#x43E;&#x436;&#x43D;&#x456;&#x441;&#x442;&#x44C; &#x456; &#x442;.&#x43F;.</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="mosxt.grafa0o">
       <kap>grafa <tld/>o</kap>
@@ -171,7 +181,8 @@
         </dif>
       </snc>
       <trd lng="fr">Sire</trd>
-      <trd lng="pl"><klr>kr&oacute;lewska </klr>mo&sacute;&cacute;</trd>
+      <trd lng="ja">&#x56FD;&#x738B;&#x965B;&#x4E0B;  [<ind>&#x3053;&#x304F;&#x304A;&#x3046;&#x3078;&#x3044;&#x304B;</ind>]</trd>
+  <trd lng="pl"><klr>kr&oacute;lewska </klr>mo&sacute;&cacute;</trd>
       <trd lng="ru">&c_k;&c_o;&c_r;&c_o;&c_l;&c_je;&c_v;&c_s;&c_k;&c_o;&c_je;
       <ind>&c_v;&c_je;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</ind>
       </trd>
@@ -254,7 +265,12 @@
           </ekz>
         </dif>
       </snc>
-      <trdgrp lng="pl">
+      <trdgrp lng="ja">
+    <trd>&#x8CB4;&#x4EBA;  [<ind>&#x304D;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x8981;&#x4EBA;  [<ind>&#x3088;&#x3046;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x9AD8;&#x5B98;  [<ind>&#x3053;&#x3046;&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
         <trd>mo&zdot;now&lstroke;adca</trd>,
         <trd>wielmo&zdot;a</trd>,
         <trd>szycha</trd>,
@@ -266,7 +282,8 @@
         <trd>&c_n;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>,
         <trd>&c_v;&c_je;&c_l;&c_mol;&c_m;&c_o;&c_zh;&c_a;</trd>
       </trdgrp>
-    </drv>
+      <trd lng="uk">&#x442;&#x438;&#x442;&#x443;&#x43B;&#x43E;&#x432;&#x430;&#x43D;&#x430; &#x43E;&#x441;&#x43E;&#x431;&#x430;</trd>
+</drv>
 
   </art>
 

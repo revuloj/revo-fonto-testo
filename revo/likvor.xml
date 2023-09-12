@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: likvor.xml,v 1.15 2009/10/08 16:31:01 revo Exp $">
+<art mrk="$Id: likvor.xml,v 1.23 2023/09/01 19:10:59 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>likvor</rad>/o
@@ -14,8 +13,7 @@
   <snc>
   <uzo tip="fak">KUI</uzo>
     <dif>
-      <ref tip="lst" lst="voko:trinka&jcirc;oj"
-      cel="alkoho.0ajxo">Alkohola&jcirc;o</ref>
+      <ref tip="lst" lst="voko:trinka&jcirc;oj" cel="alkoho.0ajxo">Alkohola&jcirc;o</ref>
       farita el <ref tip="prt" cel="brand.0o">brando</ref>, 
       aroma&jcirc;oj kaj sukero:
       <ekz>
@@ -31,10 +29,11 @@
       <ekz>
         kasiso estas franca <tld/>o farita el nigraj riboj
         <fnt>
+          
+          <aut>Ste&ccirc;jo Norvell</aut>
+          <vrk><url ref="&Monato;/2001/007157.html">Vivo: Riboj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007157.html'>Vivo:
-          Riboj</url></vrk>
+          <lok>2000/11, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -42,28 +41,37 @@
         <klr>[...]</klr> en Meksiko
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=4252'>Tekilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4252">Tekilo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_k;&c_jo;&c_r;</trd>
   <trd lng="bg">&c_l;&c_i;&c_k;&c_mol;&c_o;&c_r;</trd>
+  <trd lng="bo">&#xF68;&#xF0B;&#xF62;&#xF42;&#xF0B;</trd>
   <trd lng="de">Lik&ouml;r</trd>
   <trd lng="en">liqueur</trd>
   <trd lng="es">licor</trd>
   <trd lng="fr">liqueur</trd>
   <trd lng="hu">lik&ouml;r</trd>
+  <trd lng="ja">&#x30EA;&#x30AD;&#x30E5;&#x30FC;&#x30EB;</trd>
   <trd lng="nl">likeur</trd>
   <trd lng="pl">likier</trd> 
   <trd lng="pt">licor</trd>
   <trd lng="ro">lichior</trd>
   <trd lng="ru">&c_l;&c_i;&c_k;&c_jo;&c_r;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_b;&c_s;&c_je;&#x43D;&c_t;</trd>,
+    <trd>&#x43F;&#x43E;&#x43B;&c_i;&#x43D;&#x43E;&c_v;&c_a; &#x43D;&c_a;&c_s;&c_t;&#x43E;&c_j;&#x43A;&c_a;</trd>,
+    <trd>&#x43F;&#x43E;&#x43B;&c_i;&#x43D;&#x43E;&c_v;&c_a; &c_g;&#x43E;&c_r;&c_ib;&#x43B;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/03/29 07:25:37
+Paul Peeraerts: &Monato;
+
 Revision 1.18  2016/11/22 21:10:14  revo
 Wolfram Diestel: lst trinkajhoj, ekz-oj
 

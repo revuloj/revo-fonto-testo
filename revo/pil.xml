@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: pil.xml,v 1.27 2023/09/03 12:45:07 revo Exp $">
     <kap>
       <ofc>5</ofc>
       <rad>pil</rad>/o
@@ -32,7 +31,7 @@
         <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y; &c_e;&c_l;&c_je;&c_m;&c_e;&c_n;&c_t;</trd>,
         <trd>&c_b;&c_a;&c_t;&c_a;&c_r;&c_e;&c_j;&c_k;&c_a;</trd>
       </trdgrp>
-  <trd lng="cs">elektrický článek</trd>
+  <trd lng="cs">elektrick&#xFD; &#x10D;l&#xE1;nek</trd>
   <trdgrp lng="de">
         <trd>Monozelle</trd>,
         <trd>Batterie</trd>
@@ -50,15 +49,19 @@
       </trdgrp>
   <trd lng="fr">pile<klr> (&eacute;lectrique)</klr></trd>
   <trd lng="hu">elem<klr> (villamos)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x96FB;&#x6C60;  [<ind>&#x3067;&#x3093;&#x3061;</ind>]</trd>,
+    <trd>&#x30D1;&#x30A4;&#x30EB;</trd>
+  </trdgrp>
   <trd lng="nl">element<klr tip="ind"> (v.batterij)</klr></trd>
   <trd lng="pl">stos<klr tip="amb"> elektryczny</klr></trd>
   <trd lng="pt">pilha</trd>
   <trdgrp lng="ru">
-        <trd>&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t; &c_p;&c_i;&c_t;&c_a;&c_n;&c_i;&c_ja;<klr
-            tip="amb"> (&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;)</klr></trd>,
+        <trd>&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t; &c_p;&c_i;&c_t;&c_a;&c_n;&c_i;&c_ja;<klr tip="amb"> (&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;)</klr></trd>,
         <trd>&c_b;&c_a;&c_t;&c_a;&c_r;&c_je;&c_j;&c_k;&c_a;</trd>
       </trdgrp>
-  <trd lng="sk">elektrický článok</trd>
+  <trd lng="sk">elektrick&#xFD; &#x10D;l&#xE1;nok</trd>
+  <trd lng="uk">&#x435;&#x43B;&#x435;&#x43C;&#x435;&#x43D;&#x442;</trd>
 </drv>
 
     <drv mrk="pil.atom0o">
@@ -96,8 +99,7 @@
           ne apogas.  La &ccirc;efsignifo de la termino <tld/>o en Esperanto
           estas pli specifa ol en la lingvoj latinidaj, kaj neniam
           signifas <ctl>stako</ctl>, <ctl>staplo</ctl> (sur kio estas
-          bazita la signifo atom<tld/>o<sncref
-          ref="pil.atom0o.reaktoro"/>). 
+          bazita la signifo atom<tld/>o<sncref ref="pil.atom0o.reaktoro"/>). 
           Cetere, la artikolo en la franca Vikipedio indikas kaj la
           arkaikecon, kaj la konfuzon kreatan de tia uzo:
           <ctl>Contrairement &agrave; ce que laisse croire son nom, ce n'est
@@ -105,14 +107,14 @@
             r&eacute;acteurs nucl&eacute;aires car ils &eacute;taient constitu&eacute;s d'&eacute;l&eacute;ments
             de mati&egrave;re fissile (uranium) r&eacute;partis dans un empilement de
             briques de graphite (jouant le r&ocirc;le de mod&eacute;rateur).</ctl>
-          <fnt><vrk><url
-          ref="http://fr.wikipedia.org/wiki/Pile_atomique"
-                >Pile atomique</url></vrk>. <bib>Viki</bib></fnt>.
+          <fnt><vrk><url ref="http://fr.wikipedia.org/wiki/Pile_atomique">Pile atomique</url></vrk>. <bib>Viki</bib></fnt>.
           <aut>Sergio Pokrovskij</aut>
         </rim>
       </snc>
-  <trd lng="cs">atomový reaktor</trd>
-  <trd lng="sk">atómový reaktor</trd>
+  <trd lng="cs">atomov&#xFD; reaktor</trd>
+  <trd lng="ja">&#x539F;&#x5B50;&#x7089;  [<ind>&#x3052;&#x3093;&#x3057;&#x308D;</ind>]</trd>
+  <trd lng="sk">at&#xF3;mov&#xFD; reaktor</trd>
+  <trd lng="uk">&#x430;&#x442;&#x43E;&#x43C;&#x43D;&#x438;&#x439; &#x440;&#x435;&#x430;&#x43A;&#x442;&#x43E;&#x440;</trd>
 </drv>
 
   </art>

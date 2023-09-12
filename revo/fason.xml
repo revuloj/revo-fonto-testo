@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fason.xml,v 1.13 2010/03/28 18:09:42 revo Exp $">
+<art mrk="$Id: fason.xml,v 1.24 2023/08/31 13:11:27 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fason</rad>/o <fnt><bib>PV</bib></fnt>
@@ -83,8 +82,7 @@
         literoj de oblikva <tld/>o
         <fnt>
           <aut>S. Ivan&oacute;v</aut>,
-          <vrk><url
-          ref="http://esperanto.org/Ondo/Recenzoj/R-malov.htm">
+          <vrk><url ref="&LOdE;Recenzoj/R-malov.htm">
           Gramatiko por amasoj</url></vrk>,
           <bib>LOdE</bib>,
           <lok>2004-03 (113)</lok>
@@ -111,7 +109,18 @@
     <trd>faz&oacute;na</trd>,
     <trd>st&rcaron;ih</trd>
   </trdgrp>
+  <trd lng="de">Design</trd> 
+  <trdgrp lng="ja">
+    <trd>&#x578B;  [<ind>&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x30C7;&#x30B6;&#x30A4;&#x30F3;  [<ind>&#x3067;&#x3056;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x4ED5;&#x7ACB;&#x3066;  [<ind>&#x3057;&#x305F;&#x3066;</ind>]</trd>,
+    <trd>&#x88C1;&#x65AD;  [<ind>&#x3055;&#x3044;&#x3060;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">faz&oacute;na</trd>
+  <trdgrp lng="uk">
+    <trd>&#x444;&#x430;&#x441;&#x43E;&#x43D;</trd>,
+    <trd>&#x43F;&#x43E;&#x43A;&#x440;&#x456;&#x439;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fason.0i">
@@ -163,8 +172,7 @@
         <fnt>
           <aut>B. Wennergren</aut>,
           <vrk>Kiel printi...</vrk>,
-          <lok><url
-          ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+          <lok><url ref="&SCE;">
           soc.culture.esperanto</url>, 2002-08-25</lok>
         </fnt>.
       </ekz>
@@ -173,13 +181,17 @@
         <tld/>i la estonton de la mondo
         <fnt>
           <aut>P. S. Golub, trad. V. Lutermano</aut>,
-          <vrk><url
-          ref="http://eo.mondediplo.com/article642.html">Imperia
+          <vrk><url ref="&Mondediplo;article642.html">Imperia
           tento</url></vrk>,
           <lok>le monde diplomatique, 2002-09</lok>
         </fnt>;
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>zuschneiden</trd>,
+      <trd>gestalten</trd>,
+      <trd>designen</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>modelar</trd>
     </trdgrp>
@@ -190,11 +202,13 @@
     <trd lng="en">to <ind>design</ind></trd>
     <trd lng="pl">projektowa&cacute;</trd>
   </snc>
-  <trdgrp lng="cs">
-    <trd>faz&oacute;novat</trd>,
-    <trd>st&rcaron;&iacute;hat na &scaron;aty</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4ED5;&#x7ACB;&#x3066;&#x308B;  [<ind>&#x3057;&#x305F;&#x3066;&#x308B;</ind>]</trd>,
+    <trd>&#x88C1;&#x65AD;&#x3059;&#x308B;  [<ind>&#x3055;&#x3044;&#x3060;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3059;&#x308B;  [<ind>&#x3067;&#x3056;&#x3044;&#x3093;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="sk">faz&oacute;nova&tcaron;</trd>
+  <trd lng="uk">&#x43A;&#x440;&#x43E;&#x457;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="fason.0isto">
@@ -211,8 +225,7 @@
         inspiron por renovigi la vestojn
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://esperanto.china.org.cn/EL/EL/ElPopolaCxinio/2000-08/8-12.htm">
+          <vrk><url ref="http://esperanto.china.org.cn/EL/EL/ElPopolaCxinio/2000-08/8-12.htm">
           El &Ccirc;inaj Gazetoj</url></vrk>,
           <lok>El Popola &Ccirc;inio, 2000-08</lok>
         </fnt>;
@@ -228,6 +241,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd>Modesch&ouml;pfer</trd>,
+    <trd>Gestalter</trd>,
+    <trd>Designer</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>dise&ntilde;ador</trd>,
     <trd>grafista</trd>,
@@ -238,11 +256,28 @@
     <trd>graphiste</trd>,
     <trd>styliste</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4ED5;&#x7ACB;&#x3066;&#x5C4B;  [<ind>&#x3057;&#x305F;&#x3066;&#x3084;</ind>]</trd>,
+    <trd>&#x670D;&#x98FE;&#x30C7;&#x30B6;&#x30A4;&#x30CA;&#x30FC;  [<ind>&#x3075;&#x304F;&#x3057;&#x3087;&#x304F;&#x3067;&#x3056;&#x3044;&#x306A;&#x30FC;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&#x437;&#x430;&#x43A;&#x440;&#x456;&#x439;&#x43D;&#x438;&#x43A;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.23 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2020/07/11 11:11:04
+Wolfram Diestel: +germ trd-oj
+
+Revision 1.20  2020/03/14 10:59:08  revo
+adaptis URL de Ondo
+
+Revision 1.19  2016/08/29 09:10:21  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.18  2015/12/01 19:10:21  revo
 Jeromo Vasxe: + ~isto
 
@@ -253,14 +288,5 @@ Revision 1.16  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.15  2013/09/25 05:10:13  revo
-Sebastian Cyprych: +trd pl, en
-
-Revision 1.14  2011/05/06 16:10:09  revo
-Jeromo Vasxe: + snc tek
-
-Revision 1.13  2010/03/28 18:09:42  revo
-Russ Williams: +trd en
-
-Revision 1.12  2007/05/17 16:30:35  revo
 -->
 </vortaro>

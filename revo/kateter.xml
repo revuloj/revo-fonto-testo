@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kateter.xml,v 1.2 2009/07/09 16:31:21 revo Exp $">
+<art mrk="$Id: kateter.xml,v 1.10 2023/09/01 13:58:57 revo Exp $">
 <kap>
   <rad>kateter</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,17 +18,18 @@
         vidi la urinvezikon
         <fnt>
           <aut>M. Casartelli</aut>,
-          <vrk><url ref="http://www.uea.org/vikio/Marcelo_Casartelli">
+          <vrk><url ref="&UEA;vikio/Marcelo_Casartelli">
           Simptomoj de la Urogenitala Sistemo</url></vrk>,
           <lok>2006-07-16</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_e;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_k;&c_a;&c_t;&c_je;&c_t;&c_malmol;&c_r;</trd>
   <trd lng="ca">cat&egrave;ter</trd>
   <trdgrp lng="cs">
-    <trd>katétr</trd>,
+    <trd>kat&#xE9;tr</trd>,
     <trd>sonda</trd>
   </trdgrp>
   <trd lng="da">kateter</trd>
@@ -45,20 +45,31 @@
   </trdgrp>
   <trd lng="hu">kat&eacute;ter</trd>
   <trd lng="it">catetere</trd>
+  <trd lng="ja">&#x30AB;&#x30C6;&#x30FC;&#x30C6;&#x30EB;</trd>
   <trdgrp lng="nl">
     <trd>katheter</trd>,
     <trd>sonde<klr tip="ind"> (med.)</klr></trd>
   </trdgrp>
   <trd lng="pl">cewnik</trd>
   <trdgrp lng="sk">
-    <trd>katéter</trd>,
+    <trd>kat&#xE9;ter</trd>,
     <trd>sonda</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&c_t;&c_je;&c_t;&c_je;&c_r;</trd>,
+    <trd>&c_z;&#x43E;&#x43D;&c_d;</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.9 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
+versio 1.8 2022/03/24 08:35:25
+Dmitri Gabinski: + trd be
+
 Revision 1.5  2015/06/29 16:33:17  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -73,6 +84,5 @@ Paul Peeraerts: +trd nl
 
 Revision 1.1  2009/07/03 16:30:52  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

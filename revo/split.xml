@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: split.xml,v 1.20 2023/09/04 05:14:57 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>split</rad>/o <fnt><bib>PV</bib></fnt>
@@ -11,11 +10,35 @@
   <kap><tld/>o</kap>
   <snc mrk="split.0o.ligna">
     <dif>
-      Maldika peco de fendita ligno:
+      Maldika <ref tip="super" cel="pec.0o.rompajxo">peco</ref> de 
+      fendita <ref tip="malprt" cel="lign.0o">ligno</ref>:
       <ekz>
-        dishaki lignan &scirc;tipon en <tld/>ojn<fnt>B</fnt>.
+        la diablo enblovis al li <tld/>on en la okulon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Valter</nom> la Mizerulo tiel fortege ekpu&scirc;is el la selo la Ursrajdanton, ke <tld/>oj
+        de la lanco flugis en la aeron
+        <fnt>
+          <bib>RBa</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi devis helpi vendi <klr>[&#x2026;]</klr> unu <tld/>on post la alia de la kruco, sur
+        kiu nia Sinjoro kaj Savanto Jesuo Kristo elspiris sian lastan surteran
+        suspiron
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
       </ekz>
     </dif>
+    <refgrp tip="sub">
+       <ref cel="ken.0o.lumigilo">keno<sncref/></ref>,
+       <ref cel="rabot.0ajxo">rabota&jcirc;o</ref>
+    </refgrp>
     <trdgrp lng="de">
       <trd>Holzsplitter</trd>,
       <trd>Sprei&szlig;el</trd>
@@ -27,8 +50,19 @@
       Io similanta <tld/>on; disfendita&jcirc;o a&ubreve;
       disrompa&jcirc;o:
       <ekz>
-        la <ind><tld/>a</ind>j gotikaj literoj.
-        <trd lng="hu">sz&aacute;lk&aacute;s</trd>
+        la rusa grenado <klr>[&#x2026;]</klr> mortigis la kunludantojn per siaj <tld/>oj, lin
+        la aerpremo &jcirc;etis dudek metrojn
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la frakasitaj vitro<tld/>oj <klr>(vd <ref cel="vitr.0o">vitrero</ref>)</klr>
+        de &scirc;ia mondpercepto vundis &scirc;in nove kaj nove
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -41,6 +75,9 @@
       <trd>&c_shch;&c_je;&c_p;&c_k;&c_a;</trd>
     </trdgrp>
   </snc>
+  <refgrp tip="vid">
+     <ref cel="fragme.0o">fragmento</ref>
+  </refgrp>
   <trdgrp lng="be">
     <trd>&c_a;&c_s;&c_k;&c_o;&c_l;&c_a;&c_k;</trd>, 
     <trd>&c_a;&c_b;&c_l;&c_o;&c_m;&c_a;&c_k;</trd>, 
@@ -73,10 +110,22 @@
     <trd>forg&aacute;cs</trd>,
     <trd>t&ouml;red&eacute;k</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8584;&#x7247;  [<ind>&#x306F;&#x304F;&#x3078;&#x3093;</ind>]</trd>,
+    <trd>&#x6728;&#x7247;  [<ind>&#x3053;&#x3063;&#x3071;</ind>]</trd>,
+    <trd>&#x7834;&#x7247;  [<ind>&#x306F;&#x3078;&#x3093;</ind>]</trd>,
+    <trd>&#x30C1;&#x30C3;&#x30D7;</trd>
+  </trdgrp>
   <trd lng="nl">splinter</trd>
   <trdgrp lng="sk">
     <trd>trieska</trd>,
     <trd>&uacute;lomok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x441;&#x43A;&#x43E;&#x43B;&#x43E;&#x43A;</trd>,
+    <trd>&#x443;&#x43B;&#x430;&#x43C;&#x43E;&#x43A;</trd>,
+    <trd>&#x442;&#x440;&#x456;&#x441;&#x43A;&#x430;</trd>,
+    <trd>&#x441;&#x43A;&#x430;&#x43B;&#x43A;&#x430;</trd>
   </trdgrp>
 </drv>
 
@@ -85,21 +134,37 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="split.0i.KOMUNE">
     <dif>
-      Disfendi a&ubreve; disrompi en multajn pecojn:
+      Dis<ref tip="super" cel="fend.0i">fendi</ref> a&ubreve; disrompi en multajn pecojn:
       <ekz>
-        atomoj <ind>dis<tld/>ita</ind>j per fortegaj elektraj
-        elradia&jcirc;oj;
-        <trd
-        lng="ru">&c_r;&c_a;&c_s;&c_shch;&c_je;&c_p;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
+        iu intence dis<tld/>is la jam fajrotorditan veturilon por malhelpi fakulajn
+        konkludojn
+        <fnt>
+          <bib>ChB</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        dis<tld/>ita E&ubreve;ropo ne kapablas konkurenci Amerikon;
+        ia objekto <klr>[&#x2026;]</klr> trafis rompe kaj <tld/>ige kun mu&gcirc;anta bruo la boaton
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        dis<tld/>igi siajn fortojn.
-      </ekz>
+        la eventoj, kiuj en tradicia romano prezenti&gcirc;as por la leganto sinsekve, &ccirc;e
+        <nom>Llosa</nom> estas <tld/>itaj tiel, ke la pasinto, la nuno kaj la estonto
+        kunekzistas kvaza&ubreve; samtempe
+        <fnt>
+          <bib>KFl</bib>
+        </fnt>.
+      </ekz>      
     </dif>
+    <refgrp tip="vid">
+      <ref cel="dis.0igi">disigi</ref>,
+      <ref cel="er.0igi">erigi</ref>,
+      <ref cel="fend.0i.KOMUNE">fendi</ref>,
+      <ref cel="frakci.0igi">frakciigi</ref>,
+      <ref cel="fragme.0i">fragmenti</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_s;&c_sh;&c_ch;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>, 
@@ -128,6 +193,10 @@
     <trd>has&iacute;t</trd>,
     <trd>forg&aacute;csol</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3078;&#x3050;</trd>,
+    <trd>&#x88C2;&#x304F;  [<ind>&#x3055;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">versplinteren</trd>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_s;&c_shch;&c_je;&c_p;&c_l;&c_ja;&c_t;&c_mol;</trd>,
@@ -136,32 +205,60 @@
     <trd>&c_r;&c_a;&c_s;&c_k;&c_o;&c_l;&c_o;&c_t;&c_mol;</trd>    
   </trdgrp>
   <trd lng="sk">od&scaron;tiepi&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x43A;&#x43E;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x449;&#x435;&#x43F;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x441;&#x456;&#x43A;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="split.0igxi">
-  <kap><tld/>i&gcirc;i</kap>
+  <kap><tld/>i&gcirc;i, <var><kap>sin <tld/>i</kap></var></kap>
   <snc mrk="split.0igxi.KOMUNE">
     <dif>
       Disfendi&gcirc;i a&ubreve; disrompi&gcirc;i en multajn pecojn:
       <ekz>
-        grandaj ondoj dis<tld/>i&gcirc;is kontra&ubreve; la rokoj;
+        la ligno facile <tld/>i&gcirc;is a&ubreve; rompi&gcirc;is, kiam ili volis kunfiksi la diversajn
+        partojn
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la arb&scirc;elo estis tiel krude frostinta, ke &gcirc;i <tld/>i&gcirc;is
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni povus kredi la tutan &scirc;ipon dis<tld/>i&gcirc;anta
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de supre <klr>[&#x2026;]</klr> enfaladis kolono da hela lumo, <tld/>anta sin en mil
+        fajrerojn sur fontano
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        la lingvo for<tld/>i&gcirc;is en dialektojn;
-      </ekz>
-      <ekz>
-        <uzo tip="stl">FIG</uzo>
-        dis<tld/>i&gcirc;o de l' laboristaro en diversajn partiojn.
+        la provon reunuecigi la francan Movadon <klr>[&#x2026;]</klr> sekvis plena dis<tld/>i&gcirc;o
+        pro personaj &jcirc;aluzoj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="fragme.0o">fragmento</ref>
+       <ref cel="dis.0igxi">disi&gcirc;i</ref>,
+       <ref cel="fal.dis0i">disfali</ref>
     </refgrp>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_r;&c_a;&c_s;&c_sh;&c_ch;&c_a;&c_p;&c_ib;&c_c;&c_c;&c_a;</trd>,
-    
+    <trd>&c_r;&c_a;&c_s;&c_sh;&c_ch;&c_a;&c_p;&c_ib;&c_c;&c_c;&c_a;</trd>,    
     <trd>&c_r;&c_a;&c_s;&c_k;&c_a;&c_l;&c_o;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -181,15 +278,26 @@
     <trd>hasad</trd>,
     <trd>forg&aacute;csol&oacute;dik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3078;&#x3052;&#x308B;</trd>,
+    <trd>&#x88C2;&#x3051;&#x308B;  [<ind>&#x3055;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">uiteenvallen</trd>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_s;&c_shch;&c_je;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_k;&c_o;&c_l;&c_o;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x43E;&#x437;&#x43A;&#x43E;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x449;&#x435;&#x43F;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2021/05/14 20:50:49
+Wolfram Diestel: ekz-oj, ref-oj
+
 Revision 1.16  2017/07/10 08:10:20  revo
 Ian Dalton: +trd en
 
@@ -209,8 +317,5 @@ Revision 1.11  2004/10/27 16:31:24  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2003/01/27 17:32:27  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.9  2002/02/15 17:34:11  revo
 -->
 </vortaro>

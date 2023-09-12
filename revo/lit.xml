@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lit.xml,v 1.24 2009/10/08 16:31:18 revo Exp $">
+<art mrk="$Id: lit.xml,v 1.110 2023/09/01 19:11:00 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lit</rad>/o <fnt><bib>PV</bib></fnt>
@@ -18,8 +17,7 @@
       <ekz>
         la muso kuris sub la <tld/>on
         <fnt><bib>F</bib>, <lok>&FE; 26</lok></fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         <ind>kiu amas la <tld/>on <klr>(ripozon)</klr>, ne akiros
         profiton</ind>
         <trd lng="fr">l'<ind>avenir</ind> appartient &agrave; ceux qui
@@ -30,18 +28,26 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">bed</trd>
+  <trd lng="am">&#x12A0;&#x120D;&#x130B;</trd>
+  <trd lng="ar">&a_q;&a_A;&a_ayn;</trd>
   <trd lng="be">&c_l;&c_o;&c_zh;&c_a;&c_k;</trd>
   <trd lng="bg">&c_l;&c_je;&c_g;&c_l;&c_o;</trd>
+  <trd lng="bn">&#x9AC;&#x9BF;&#x99B;&#x9BE;&#x9A8;&#x9BE;</trd>
+  <trd lng="bo">&#xF49;&#xF63;&#xF0B;&#xF41;&#xFB2;&#xF72;&#xF0B;</trd>
+  <trd lng="bs">krevet</trd>
+  <trd lng="co">etichettatura</trd>
   <trdgrp lng="cs">
     <trd>l&uring;&zcaron;ko</trd>,
     <trd>postel</trd>
   </trdgrp>
+  <trd lng="cy">gwely</trd>
+  <trd lng="da">seng</trd>
   <trdgrp lng="de">
     <trd>Bett</trd>,
     <trd>Schlafstatt</trd>
   </trdgrp>
-  <trd
-  lng="el">&kappa;&rho;&epsilon;&beta;(&beta;)&alfa_ton;&tau;&jota;</trd>
+  <trd lng="el">&kappa;&rho;&epsilon;&beta;(&beta;)&alfa_ton;&tau;&jota;</trd>
   <trdgrp lng="en">
     <trd>bed</trd>,
     <trd>couch</trd>
@@ -51,23 +57,87 @@
     <trd>lecho</trd>,
     <trd>piltra</trd>
   </trdgrp>
+  <trd lng="et">voodi</trd>
+  <trd lng="eu">ohean</trd>
   <trd lng="fr">lit</trd>
+  <trd lng="fy">b&#xEA;d</trd>
+  <trd lng="ga">leaba</trd>
+  <trd lng="gd">leabaidh</trd>
+  <trd lng="gl">cama</trd>
+  <trd lng="gu">&#xAAC;&#xAC7;&#xAA1;</trd>
+  <trd lng="ha">gado</trd>
+  <trd lng="hi">&#x92C;&#x93F;&#x938;&#x94D;&#x924;&#x930;</trd>
+  <trd lng="hmn">txaj</trd>
+  <trd lng="hr">krevet</trd>
+  <trd lng="ht">kabann</trd>
   <trd lng="hu">&aacute;gy</trd>
+  <trd lng="hy">&#x574;&#x561;&#x570;&#x573;&#x561;&#x56F;&#x561;&#x56C;</trd>
+  <trd lng="is">r&#xFA;m</trd>
+  <trd lng="ja">&#x30D9;&#x30C3;&#x30C9;</trd>
+  <trd lng="jv">amben</trd>
+  <trd lng="ka">&#x10E1;&#x10D0;&#x10EC;&#x10DD;&#x10DA;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_t;&#x4E9;&c_s;&c_je;&#x43A;</trd>
+  <trd lng="km">&#x1782;&#x17D2;&#x179A;&#x17C2;</trd>
+  <trd lng="kn">&#xCB9;&#xCBE;&#xCB8;&#xCBF;&#xC97;&#xCC6;</trd>
+  <trd lng="ko">&#xCE68;&#xB300;</trd>
   <trd lng="ku">niv&icirc;n</trd>
+  <trd lng="ky">&c_t;&#x4E9;&c_sh;&#x4E9;&#x43A;</trd>
+  <trd lng="lat">cubili</trd>
+  <trd lng="lo">&#xE99;&#xEAD;&#xE99;</trd>
+  <trd lng="lt">lova</trd>
+  <trd lng="lv">gulta</trd>
+  <trd lng="mg">fandriana</trd>
+  <trd lng="mi">moenga</trd>
+  <trd lng="mk">&#x43A;&c_r;&c_je;&c_v;&c_je;&c_t;</trd>
+  <trd lng="ml">&#xD15;&#xD3F;&#xD1F;&#xD15;&#xD4D;&#xD15;</trd>
+  <trd lng="mn">&#x43E;&c_r;</trd>
+  <trd lng="mr">&#x92C;&#x947;&#x921;</trd>
+  <trd lng="ms">katil</trd>
+  <trd lng="mt">sodda</trd>
+  <trd lng="my">&#x1021;&#x102D;&#x1015;&#x103A;&#x101B;&#x102C;</trd>
+  <trd lng="ne">&#x913;&#x91B;&#x94D;&#x92F;&#x93E;&#x928;&#x92E;&#x93E;</trd>
   <trd lng="nl">bed</trd>
+  <trd lng="ny">bedi</trd>
+  <trd lng="pa">&#xA2E;&#xA70;&#xA1C;&#xA47;</trd>
   <trdgrp lng="pl">
     <trd>&lstroke;&oacute;&zdot;ko</trd>,
     <trd>&lstroke;o&zdot;e</trd>
   </trdgrp>
+  <trd lng="ps">&a_b;&a_s;&#x62A;&a_r;&a_h;</trd>
   <trd lng="pt">cama</trd>
   <trd lng="ro">strat</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
+  <trd lng="rw">uburiri</trd>
+  <trd lng="sd">&#x67E;&a_l;&a_n;&#x6AF;</trd>
+  <trd lng="si">&#xD87;&#xDB3;</trd>
   <trd lng="sk">poste&lcaron;</trd>
+  <trd lng="sl">postelja</trd>
+  <trd lng="sm">moega</trd>
+  <trd lng="sn">mubhedha</trd>
+  <trd lng="so">sariirta</trd>
+  <trd lng="sq">krevat</trd>
+  <trd lng="st">bethe</trd>
+  <trd lng="su">ranjang</trd>
   <trd lng="sv">s&auml;ng</trd>
+  <trd lng="sw">kitanda</trd>
+  <trd lng="ta">&#xBAA;&#xB9F;&#xBC1;&#xB95;&#xBCD;&#xB95;&#xBC8;&#xBAF;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC2E;&#xC02;&#xC1A;&#xC02;</trd>
+  <trd lng="tg">&#x43A;&c_a;&c_t;</trd>
+  <trd lng="th">&#xE40;&#xE15;&#xE35;&#xE22;&#xE07;</trd>
+  <trd lng="tl">kama</trd>
+  <trd lng="tt">&#x43A;&c_a;&c_r;&c_a;&c_v;&c_a;&c_t;</trd>
+  <trd lng="uk">&#x43B;&c_ib;&c_zh;&#x43A;&#x43E;</trd>
+  <trd lng="ur">&a_b;&a_s;&#x62A;&a_r;</trd>
+  <trd lng="uz">karavot</trd>
+  <trd lng="vi">gi&#x1B0;&#x1EDD;ng</trd>
   <trd lng="vo">bed</trd>
+  <trd lng="xh">ibhedi</trd>
+  <trd lng="yi">&#x5D1;&#x5E2;&#x5D8;</trd>
+  <trd lng="yo">ibusun</trd>
+  <trd lng="zu">embhedeni</trd>
 </drv>
 
 <drv mrk="lit.0ajxo">
@@ -84,6 +154,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_mol;&c_c;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_b;&c_ja;&c_l;&c_ib;&c_z;&c_n;&c_a;</ind></trd>
   <trdgrp lng="de">
     <trd>Bettzeug</trd>,
     <trd>Bettw&auml;sche</trd>
@@ -95,6 +166,7 @@
   <trd lng="es">ropa de cama</trd>
   <trd lng="fr">literie</trd>
   <trd lng="hu">&aacute;gynem&udblac;</trd>
+  <trd lng="ja">&#x5BDD;&#x5177;  [<ind>&#x3057;&#x3093;&#x3050;</ind>]</trd>
   <trd lng="nl">beddegoed</trd>
   <trd lng="pl">pos&lstroke;anie</trd>
   <trd lng="pt">roupa de cama</trd>
@@ -125,6 +197,7 @@
   <trd lng="de">aufstehen <klr>(aus dem Bett)</klr></trd>
   <trd lng="es">levantarse de la cama</trd>
   <trd lng="fr">se <ind>lever</ind><klr> (sortir du lit)</klr></trd>
+  <trd lng="ja">&#x8D77;&#x5E8A;&#x3059;&#x308B;  [<ind>&#x304D;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">opstaan<klr tip="ind"> (uit bed)</klr></trd>
   <trd lng="hu">felkel az &aacute;gyb&oacute;l</trd>
   <trd lng="pl">wstawa&cacute; <klr>(z
@@ -144,16 +217,14 @@
           <bib>Fab1</bib>
           <lok>Vojkamarado</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         la fi&scirc;kaptistoj jam delonge en<tld/>i&gcirc;is, sed en tiu terura
         vetero oni ne povis e&ccirc; pensi pri fermado de okulo
         <fnt>
           <bib>Fab4</bib>
           <lok>Historio el la dunoj</lok>
         </fnt>;
-      </ekz>
-      <ekz>
+      </ekz><ekz>
         tuj kiam <nom>Hjalmar</nom> en<tld/>i&gcirc;is, la dio de dormo per sia sor&ccirc;a
         &scirc;prucigilo aspergis &ccirc;iujn meblojn en la &ccirc;ambro
         <fnt>
@@ -176,6 +247,7 @@
     <trd>se <ind>mettre</ind> au lit</trd>
   </trdgrp>
   <trd lng="hu">&aacute;gyba fekszik</trd>
+  <trd lng="ja">&#x5C31;&#x5BDD;&#x3059;&#x308B;  [<ind>&#x3057;&#x3085;&#x3046;&#x3057;&#x3093;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">naar <ind>bed</ind> gaan</trd>
   <trd lng="pl">k&lstroke;a&sacute;&cacute; si&eogonek; <klr>(do
   &lstroke;&oacute;&zdot;ka, spa&cacute;)</klr></trd>
@@ -222,6 +294,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_r;&c_y;</trd>
   <trdgrp lng="cs">
     <trd>pry&ccaron;na</trd>,
     <trd>str&aacute;&zcaron;n&iacute; nebo v&ecaron;ze&ncaron;sk&eacute;
@@ -236,6 +309,7 @@
     <trd>jednoduch&eacute; l&ocirc;&zcaron;ko</trd>,
     <trd>pri&ccaron;&ncaron;a</trd>
   </trdgrp>
+  <trd lng="uk">&#x43D;&c_a;&c_r;&c_i;</trd>
 </drv>
 
 <drv mrk="lit.0kadro">
@@ -247,13 +321,13 @@
         movanta-<tld/>kadro-teorio
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=328947'>Supersojla
+          <lok><url ref="https://eo.wikipedia.org/?curid=328947">Supersojla
           flua&jcirc;o</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_m;&c_a; &c_l;&c_o;&c_zh;&c_k;&c_a;</trd>
   <trd lng="cs">r&aacute;m l&uring;&zcaron;ka</trd>
   <trd lng="de">Bettgestell</trd>
   <trdgrp lng="en">
@@ -262,15 +336,50 @@
   </trdgrp>
   <trd lng="fr">cadre de lit</trd>
   <trd lng="hu">&aacute;gykeret</trd>
+  <trd lng="ja">&#x5BDD;&#x53F0;&#x306E;&#x9AA8;&#x7D44;&#x307F;  [<ind>&#x3057;&#x3093;&#x3060;&#x3044;&#x306E;&#x307B;&#x306D;&#x3050;&#x307F;</ind>]</trd>
   <trd lng="nl">ledikant</trd>
   <trd lng="pl">rama <ind>&lstroke;&oacute;&zdot;ka</ind></trd>
-  <trd lng="ru">&c_o;&c_s;&c_t;&c_o;&c_v;
-  &c_k;&c_r;&c_o;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ru">&c_o;&c_s;&c_t;&c_o;&c_v; &c_k;&c_r;&c_o;&c_v;&c_a;&c_t;&c_i;</trd>
   <trd lng="sk">l&aacute;m postele</trd>
 </drv>
+
+<drv mrk="lit.morto0o">
+  <kap>morto<tld/>o</kap>
+  <snc>
+    <dif>
+      <tld lit="L"/>o sur kiu mortas homo; sekve, metonimie anka&ubreve;,
+      la lastaj horoj de ies vivo:
+      <ekz>
+        sur morto<tld/>o ku&scirc;as pala kaj senforti&gcirc;anta pastro Vermo
+        <fnt>
+          <aut>Enrico DONDI</aut>:
+          <vrk>Recenzo: Sinjoro Tadeo a&ubreve; la lasta armita
+          posedopreno en Litvo</vrk>.
+          <lok>La nica literatura revuo, 2:2</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_o;&c_zh;&c_y;&c_sh;&c_ch;&c_a; &c_s;&c_mol;&c_m;&c_je;&c_r;&c_c;&c_ib;</trd>
+  <trd lng="en">deathbed</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_je;&c_r;&c_t;&c_n;&c_j; &c_o;&c_d;&c_r;</trd>,
+    <trd>&c_s;&c_m;&c_je;&c_r;&c_t;&c_n;&c_o;&c_je; &c_l;&c_o;&c_zh;&c_je;</trd>
+  </trdgrp>
+</drv>
+
 </art>
 <!--
 $Log$
+versio 1.109 2022/07/13 08:37:54
+Dmitri Gabinski: + trd be
+
+versio 1.108 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.40 2021/06/02 03:38:29
+Sergio Pokrovskij: +morto~o
+
 Revision 1.31  2017/12/11 00:10:36  revo
 Vito Redsky: +trd ro
 
@@ -284,11 +393,5 @@ Revision 1.28  2015/10/02 07:10:13  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.27  2015/09/12 19:10:24  revo
-Cindy Moon McKee: +trd en
-
-Revision 1.26  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.25  2015/06/29 16:33:19  revo
 -->
 </vortaro>

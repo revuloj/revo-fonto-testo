@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mandat.xml,v 1.12 2006/07/29 16:32:39 revo Exp $">
+<art mrk="$Id: mandat.xml,v 1.20 2023/09/02 06:04:08 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>mandat</rad>/o <fnt><bib>PV</bib></fnt>
@@ -72,6 +71,8 @@
         <trd lng="ca">gir postal</trd>
         <trd lng="es">giro postal</trd>
         <trd lng="hu">postautalv&aacute;ny</trd>
+        <trd lng="pl">przekaz pocztowy</trd>
+        <trd lng="ro">mandat po&#x219;tal</trd>
         <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_y;&c_j; &c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;</trd>
       </ekz>
     </dif>
@@ -91,20 +92,44 @@
     <trd lng="pt">mandato</trd>
   </snc>
   <trdgrp lng="cs">
-    <trd>mandát</trd>,
-    <trd>plná moc</trd>,
-    <trd>pověření</trd>
+    <trd>mand&aacute;t</trd>,
+    <trd>pln&aacute; moc</trd>,
+    <trd>pov&ecaron;&rcaron;en&iacute;</trd>
   </trdgrp>
   <trd lng="fr">mandat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x59D4;&#x4EFB;  [<ind>&#x3044;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x59D4;&#x4EFB;&#x72B6;  [<ind>&#x3044;&#x306B;&#x3093;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x8077;&#x52D9;  [<ind>&#x3057;&#x3087;&#x304F;&#x3080;</ind>]</trd>,
+    <trd>&#x8B70;&#x5E2D;  [<ind>&#x304E;&#x305B;&#x304D;</ind>]</trd>,
+    <trd>&#x4EFB;&#x671F;  [<ind>&#x306B;&#x3093;&#x304D;</ind>]</trd>,
+    <trd>&#x70BA;&#x66FF;  [<ind>&#x304B;&#x308F;&#x305B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>mandat</trd>,
+    <trd>bon</trd>,
+    <trd>kupon</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>mandat</trd>,
+    <trd>amend&abreve;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
-    <trd>mandát</trd>,
-    <trd>plná moc</trd>,
+    <trd>mand&aacute;t</trd>,
+    <trd>pln&aacute; moc</trd>,
     <trd>poverenie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x43D;&#x434;&#x430;&#x442;</trd>,
+    <trd>&#x43F;&#x43E;&#x432;&#x43D;&#x43E;&#x432;&#x430;&#x436;&#x435;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2020/05/27 20:10:33
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.16  2015/06/29 16:33:19  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -124,11 +149,5 @@ Revision 1.11  2006/01/12 21:53:31  revo
 Raul Salinas Monteagudo: +trd ca,es
 
 Revision 1.10  2003/05/14 16:30:56  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2002/07/29 18:14:14  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2001/12/09 19:24:49  revo
 -->
 </vortaro>

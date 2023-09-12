@@ -1,30 +1,49 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fac.xml,v 1.22 2010/06/17 16:30:33 revo Exp $">
+<art mrk="$Id: fac.xml,v 1.34 2023/08/31 13:11:26 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>fac</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="fac.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="fac.0o.TEK">
     <uzo tip="fak">TEK</uzo>
     <uzo tip="fak">SCI</uzo>
     <dif>
-      &Gcirc;enerale ebena parto de la supra&jcirc;o de objekto:
+      &Gcirc;enerale <ref cel="eben.0a.plata">ebena</ref>
+      parto de la <ref tip="malprt" cel="supr.0ajxo">supra&jcirc;o</ref> de objekto:
       <ekz>
-        <tld/>o de glitvalvo, de martelo.
+        <tld/>o de glitvalvo, de martelo;
+      </ekz>
+      <ekz>
+        la sciencistoj provis nombri la kresk-ringojn videblajn sur ekstera <tld/>o de
+        la konko
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Oliver Kim</aut>
+          <vrk><url ref="&Monato;/2014/011359.php">Rekorda konkulo</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu <tld/>o de la kubo estas plato mon&scirc;rankaspekta
+        <fnt>
+       <aut>Marteno Ecott</aut>
+          <vrk><url ref="&Monato;/2000/006838.html">Inkubo en kubo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 17</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sub">
-      <ref cel="facet.0o">faceto</ref>;
+      <ref cel="facet.0o">faceto</ref>
     </refgrp>
     <refgrp tip="vid">
       <ref cel="flank.0o">flanko</ref>,
       <ref cel="later.0o">latero</ref>,
-      <ref cel="surfac.0o">surfaco</ref>.
+      <ref cel="surfac.0o">surfaco</ref>
     </refgrp>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_v;&c_je;&c_r;&c_h;&c_n;&c_ja;</trd>,
@@ -35,7 +54,7 @@
     <trd lng="pl">lico</trd>
     <trd lng="pt">face <klr tip="amb">(superf&iacute;cie
     plana)</klr></trd>
-    <trd lng="ro">fa&tcedil;&abreve;</trd>
+    <trd lng="ro">fa&#x21B;&abreve;</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_mol;
       <klr>(&c_p;&c_r;&c_je;&c_d;&c_m;&c_je;&c_t;&c_a;)</klr></trd>,
@@ -92,6 +111,7 @@
     <trd>lap<klr tip="ind"> (test&eacute;)</klr></trd>,
     <trd>s&iacute;kfel&uuml;let</trd>
   </trdgrp>
+  <trd lng="ja">&#x9762;  [<ind>&#x3065;&#x3089;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>vlak</trd>,
     <trd>zijde</trd>
@@ -99,6 +119,12 @@
   <trdgrp lng="sk">
     <trd>predn&aacute; strana</trd>,
     <trd>tv&aacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_v;&c_je;&c_r;&c_h;&#x43D;&#x44F;</trd>,
+    <trd>&#x43B;&c_i;&c_c;&c_je;</trd>,
+    <trd>&#x43B;&c_i;&c_c;&#x44C;&#x43E;&c_v;&c_a; &c_s;&c_t;&#x43E;&c_r;&#x43E;&#x43D;&c_a; (&#x43F;&c_r;&c_je;&c_d;&#x43C;&c_je;&c_t;&c_a;)</trd>,
+    <trd>&c_g;&c_r;&c_a;&#x43D;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -111,14 +137,52 @@
   <snc>
     <dif>
       La rimedoj kaj reguloj ebligantaj kunan funkciadon de
-      aparatoj a&ubreve; programoj a&ubreve; e&ccirc; de homo kaj
-      ma&scirc;ino:
+      <ref tip="malprt" cel="aparat.0o.TEK">aparato</ref>j
+      a&ubreve; <ref tip="malprt" cel="progra.0o.komp">programo</ref>j
+      a&ubreve; e&ccirc; de homo kaj ma&scirc;ino:
       <ekz>
         operaciuma, reta inter<tld/>o;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        homa-ma&scirc;ina inter<tld/>o.
+        homa-ma&scirc;ina inter<tld/>o;
+      </ekz>
+      <ekz>
+        homa-komputila inter<tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Oliver Kim</aut>
+          <vrk><url ref="&Monato;/2007/009176.php">Robota mano regata de pensoj</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+          <uzo tip="fak">KOMP</uzo>
+          <ind>inter<tld/>o de funkcio</ind>;
+          <trd lng="de"><ind>Signatur</ind> einer Funktion</trd>
+          <trd lng="en">type <ind>signature</ind></trd>
+      </ekz>
+      <ekz>
+        la mastruma sistemo kaj programoj <klr>[de tabulkomputilo]</klr> havas
+        uzantinter<tld/>on ta&ubreve;gan por enmana uzo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2010/010076.php">Parto 3: Apple iPad - &ccirc;u revolucio a&ubreve;
+          evolucio?</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la apliko estas ekipita per inter<tld/>o tiom simpla, ke &gcirc;i kutime ne postulas
+        apartan trejni&gcirc;on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2015/011367.php">Noviga apliko je dispono de kuracistoj kaj
+          pacientoj</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
       </ekz>
     </dif>
     <rim>
@@ -153,16 +217,37 @@
     <trd>rozhran&iacute;</trd>,
     <trd>styk</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schnittstelle</trd>,
+    <trd>Interface</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x754C;&#x9762;  [<ind>&#x304B;&#x3044;&#x3081;&#x3093;</ind>]</trd>,
+    <trd>&#x30A4;&#x30F3;&#x30BF;&#x30FC;&#x30D5;&#x30A7;&#x30FC;&#x30B9;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>medzistyk</trd>,
     <trd>prepojenie</trd>,
     <trd>rozhranie</trd>
   </trdgrp>
   <trd lng="sv">gr&auml;nssnitt</trd>
+  <trd lng="uk">&c_ib;&#x43D;&c_t;&c_je;&c_r;&c_f;&c_je;&c_j;&c_s;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.33 2023/04/24 14:28:15
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.32 2022/09/20 15:38:45
+Wolfram Diestel: +ekz
+
+versio 1.31 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.28 2020/11/28 08:35:36
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
 Revision 1.26  2017/09/02 11:10:18  revo
 Vito Redsky: +trd ro +trd pl
 
@@ -173,14 +258,5 @@ Revision 1.24  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.23  2012/08/29 16:10:11  revo
-Marc Rausell: + trd ca
-
-Revision 1.22  2010/06/17 16:30:33  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.21  2010/04/09 16:31:53  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.20  2009/09/01 16:30:31  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sof.xml,v 1.20 2023/09/04 05:14:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sof</rad>/o <fnt><bib>PV</bib></fnt>
@@ -30,14 +29,15 @@
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i ku&scirc;is sur la <tld/>o kaj dormis, &scirc;i estis tiel &ccirc;arma, ke li devis &scirc;in kisi
+        &scirc;i ku&scirc;is sur la <tld/>o kaj dormis, &scirc;i estis tiel &ccirc;arma, ke li devis
+        &scirc;in kisi
         <fnt>
           <bib>Fab1</bib>
           <lok>Fluganta kofro</lok>
         </fnt>;
       </ekz>
       <ekz>
-        se&gcirc;oj kaj <tld/>j, tegitaj per veluro kaj silko
+        se&gcirc;oj kaj <tld/>oj, tegitaj per veluro kaj silko
         <fnt>
           <bib>Fab3</bib>
           <lok>&Ccirc;io sur sian &gcirc;ustan lokon!</lok>
@@ -63,15 +63,26 @@
     <trd>sz&oacute;fa</trd>,
     <trd>hever&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30BD;&#x30D5;&#x30A1;&#x30FC;</trd>,
+    <trd>&#x9577;&#x3044;&#x3059;  [<ind>&#x306A;&#x304C;&#x3044;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">sofa</trd>
   <trd lng="pl">sofa</trd>
   <trd lng="ru">&c_s;&c_o;&c_f;&c_a;</trd>
   <trd lng="sk">pohovka</trd>
   <trd lng="sv">soffa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43E;&#x444;&#x430;</trd>,
+    <trd>&#x434;&#x438;&#x432;&#x430;&#x43D;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2020/11/22 19:10:36
+Wolfram Diestel: -tajperaro
+
 Revision 1.16  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 

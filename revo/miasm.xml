@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: miasm.xml,v 1.10 2006/08/02 16:32:20 revo Exp $">
+<art mrk="$Id: miasm.xml,v 1.19 2023/09/02 06:04:12 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>miasm</rad>/o <fnt><bib>PV</bib></fnt>
@@ -36,6 +35,10 @@
   <trd lng="en">miasma</trd>
   <trd lng="fr">miasmes</trd>
   <trd lng="hu">miazma</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6BD2;&#x6C17;  [<ind>&#x3069;&#x3063;&#x304D;</ind>]</trd>,
+    <trd>&#x7634;&#x6C17;  [<ind>&#x3057;&#x3087;&#x3046;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>miasma</trd>,
     <trd>moerasdamp</trd>
@@ -47,6 +50,7 @@
   <trd lng="pt">miasma</trd>
   <trd lng="ru">&c_m;&c_i;&c_a;&c_z;&c_m;&c_y;</trd>
   <trd lng="sk">miazma</trd>
+  <trd lng="uk">&#x43C;&#x456;&#x430;&#x437;&#x43C; (&#x43E;&#x442;&#x440;&#x443;&#x439;&#x43D;&#x438;&#x439; &#x432;&#x438;&#x43F;&#x430;&#x440;)</trd>
 </drv>
 </art>
 <!--

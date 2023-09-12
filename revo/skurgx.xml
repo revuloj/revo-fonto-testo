@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: skurgx.xml,v 1.18 2023/09/03 18:39:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skur&gcirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -32,6 +31,10 @@
     <trd>flagell</trd>,
     <trd>assot</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gei&szlig;el</trd>,
+    <trd>Peitsche</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>scourge</trd>,
     <trd>whip</trd>,
@@ -39,6 +42,7 @@
   </trdgrp>
   <trd lng="fr">fouet</trd>
   <trd lng="hu">korb&aacute;cs</trd>
+  <trd lng="ja">&#x3080;&#x3061;</trd>
   <trd lng="nl">gesel</trd>
   <trdgrp lng="pl">
     <trd>bicz</trd>,
@@ -48,6 +52,14 @@
     <trd>&c_p;&c_l;&c_je;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_l;&c_jo;&c_t;&c_k;&c_a;</trd>,
     <trd>&c_n;&c_a;&c_g;&c_a;&c_j;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_a;&c_t;&c_ib;&c_g;</trd>,
+    <trd>&#x43A;&c_a;&#x43D;&c_ch;&c_u;&#x43A;</trd>,
+    <trd>&#x43D;&c_a;&c_g;&c_a;&c_j;&#x43A;&c_a;</trd>,
+    <trd>&c_b;&c_i;&c_ch;</trd>,
+    <trd>&#x43A;&c_ib;&c_sh;&#x43A;&c_a; (&c_b;&c_a;&c_t;&c_ib;&c_g; &c_z; &c_d;&c_je;&#x43A;&c_ib;&#x43B;&#x44C;&#x43A;&#x43E;&#x43C;&c_a;
+    &c_h;&c_v;&#x43E;&c_s;&c_t;&c_a;&#x43C;&c_i;)</trd>
   </trdgrp>
 </drv>
 
@@ -83,6 +95,10 @@
   </trdgrp>
   <trd lng="fr">fouetter</trd>
   <trd lng="hu">megkorb&aacute;csol</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3080;&#x3061;&#x6253;&#x3064;  [<ind>&#x3080;&#x3061;&#x3046;&#x3064;</ind>]</trd>,
+    <trd>&#x6FC0;&#x3057;&#x304F;&#x975E;&#x96E3;&#x3059;&#x308B;  [<ind>&#x306F;&#x3052;&#x3057;&#x304F;&#x3072;&#x306A;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">geselen</trd>
   <trdgrp lng="pl">
     <trd>biczowa&cacute;</trd>,
@@ -93,10 +109,18 @@
     <trd>&c_h;&c_l;&c_je;&c_s;&c_t;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_t;&c_je;&c_g;&c_a;&c_t;&c_mol; <klr>(&c_p;&c_l;&c_je;&c_t;&c_mol;&c_ju;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_i;&c_t;&c_i;
+    &c_b;&c_a;&c_t;&#x43E;&c_g;&#x43E;&#x43C;/&#x43A;&c_a;&#x43D;&c_ch;&c_u;&#x43A;&#x43E;&#x43C;/&#x43D;&c_a;&c_g;&c_a;&c_j;&#x43A;&#x43E;&#x44E;/&c_b;&c_i;&c_ch;&c_je;&#x43C;</trd>,
+    <trd>&c_b;&c_i;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.17 2023/05/03 22:26:43
+Ulrich Fellmann: skurgxo: +2 pliaj DE trdj
+
 Revision 1.14  2012/07/17 11:10:19  revo
 Marc Rausell: + trd ca
 

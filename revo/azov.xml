@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: azov.xml,v 1.10 2008/12/02 17:30:20 revo Exp $">
+<art mrk="$Id: azov.xml,v 1.18 2023/08/30 18:23:38 revo Exp $">
 <kap>
   <rad>Azov</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -13,7 +12,17 @@
     <dif>
       Urbeto en <ref tip="malprt" cel="rus.R0ujo">Rusujo</ref>,
       &ccirc;e la elfluejo de Dono en la <ref cel="mar.AzovaM0o">Azovan Maron</ref>
-      (35&#730;25&minute;E, 47&#730;03&minute;N).
+      (35&#x2DA;25&minute;E, 47&#x2DA;03&minute;N):
+      <ekz>
+        en la traktato, kiun sekve Rusio devis subskribi, la Otomana Imperio ricevis la
+        urbon <tld/>o &ccirc;e la samnoma <tld/>a Maro, atingis la detruon de pluraj
+        fortika&jcirc;oj anta&ubreve;e konstruitaj de la rusia armeo, kaj ricevis la promeson de
+        la rusia caro sekve ne konflikti kun la kozakoj en Ukrainio
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=258170">Ahmedo la 3-a</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_A;&c_z;&c_o;&c_w;</trd>
@@ -21,15 +30,21 @@
   <trd lng="de">Asow</trd>
   <trd lng="en">Azov</trd>
   <trd lng="fr">Azov</trd>
+  <trd lng="he">&#x5D0;&#x5D6;&#x5D5;&#x5D1;&#x5D5;</trd>
   <trd lng="hu">Azov</trd>
   <trd lng="it">Azov</trd>
+  <trd lng="ja">&#x30A2;&#x30BE;&#x30D5;</trd>
   <trd lng="ru">&c_A;&c_z;&c_o;&c_v;</trd>
+  <trd lng="uk">&#x410;&#x437;&#x43E;&#x432;</trd>
 </drv>
 
 
 </art>
 <!--
 $Log$
+versio 1.15 2020/05/24 20:36:59
+Wolfram Diestel: +ekz
+
 Revision 1.13  2019/09/10 20:10:15  revo
 Wolfram Diestel: +~a Maro
 

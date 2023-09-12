@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: romp.xml,v 1.63 2023/09/03 07:53:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>romp</rad>/i
@@ -12,10 +11,9 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="romp.0i.difekti">
     <dif>
-      Difekti objekton disigante &gcirc;in perforte en du a&ubreve;
-      plurajn pecojn, &ccirc;u per bato, &ccirc;u per pu&scirc;o,
-      &ccirc;u per tiro, &ccirc;u per     
-      premo:
+      <ref tip="super" cel="difekt.0i">Difekti</ref> objekton 
+      disigante &gcirc;in perforte en du a&ubreve; plurajn pecojn, &ccirc;u per bato, &ccirc;u per pu&scirc;o,
+      &ccirc;u per tiro, &ccirc;u per premo:
       <ekz>
 	<tld/>i vazon
         <fnt>
@@ -67,7 +65,7 @@
       </ekz>
       <ekz>
         <klr>[li]</klr> sen&ccirc;ese riskante <tld/>i al si la kolon, grimpis
-        <klr>[&#8230;]</klr> alten &gcirc;is la supro
+        <klr>[&#x2026;]</klr> alten &gcirc;is la supro
         <fnt>
           <bib>Far1</bib>
           <lok>&ccirc;apitro 17a</lok>
@@ -84,7 +82,7 @@
       <ekz>
         <uzo tip="stl">FIG</uzo>
         verkistoj da&ubreve;rigas <ind><tld/>i al si la kapon</ind> per la
-        koncepto &leftquot;libero&#8221;
+        koncepto &leftquot;libero&#x201D;
         <fnt>
           <bib>Monato</bib>
           <aut>Jo Haazen</aut>
@@ -134,8 +132,9 @@
         </fnt>;
       </ekz>
       <ekz>
-        se ni <klr>[la Fundamenton]</klr> <tld/>os sen ia tre grava bezono
-        <klr>[&#8230;]</klr> tiam la tuta lingvo ruini&gcirc;os
+        se ni <klr>[la Fundamenton]</klr> <tld/>os sen ia tre grava
+        bezono
+        <klr>[&#x2026;]</klr> tiam la tuta lingvo ruini&gcirc;os
         <fnt>
           <bib>LR</bib>
           <lok>1. La Fundamento</lok>
@@ -197,13 +196,12 @@
       <trd>fraturar</trd>,
       <trd>arrebentar</trd>
     </trdgrp>
-    <trd lng="tp">pakala</trd>
+    <trd lng="tok">pakala</trd>
   </snc>
   <snc mrk="romp.0i.cxesigi">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      <ref tip="dif"
-      cel="romp.inter0i.cxesigi">Inter<tld/>i<sncref/></ref>:
+      <ref tip="dif" cel="romp.inter0i.cxesigi">Inter<tld/>i<sncref/></ref>:
       <ekz>
         <tld/>i la silenton
         <fnt>
@@ -269,7 +267,7 @@
         <trd lng="hu">megszak&iacute;t minden kapcsolatot</trd>
       </ekz>
       <ekz>
-        kun la tradicio <klr>[&#8230;]</klr> <tld/>i subite per unu fojo estus
+        kun la tradicio <klr>[&#x2026;]</klr> <tld/>i subite per unu fojo estus
         iom dan&gcirc;ere
         <fnt>
           <bib>LR</bib>
@@ -294,8 +292,7 @@
         neceson
         <fnt>
           <bib>LR</bib>
-          <lok><url
-          ref="https://eo.wikisource.org/wiki/Lingvaj_Respondoj/Pri_la_nomoj_de_landoj">Pri
+          <lok><url ref="https://eo.wikisource.org/wiki/Lingvaj_Respondoj/Pri_la_nomoj_de_landoj">Pri
           la nomoj de landoj</url></lok>
         </fnt>.
       </ekz>
@@ -379,8 +376,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mu Binghua</aut>
-          <vrk><url
-          ref="&Monato;/2007/009219.php">Eksterlandaj
+          <vrk><url ref="&Monato;/2007/009219.php">Eksterlandaj
           investantoj rapide a&ccirc;etas nemovebla&jcirc;ojn</url></vrk>
         </fnt>.
       </ekz>
@@ -398,6 +394,7 @@
     <ref cel="fal.0igi">faligi</ref>,
     <ref cel="frakas.0i">frakasi</ref>
   </refgrp>
+  <trd lng="bo">&t_ba;&t_ca;&t_ga;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>l&aacute;mat</trd>,
     <trd>pol&aacute;mat</trd>,
@@ -420,6 +417,18 @@
       <trd>sfiancare</trd>,
       <trd>stroncare</trd>
     </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7834;&#x58CA;&#x3059;&#x308B;  [<ind>&#x306F;&#x304B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x58CA;&#x3059;  [<ind>&#x3053;&#x308F;&#x3059;</ind>]</trd>,
+    <trd>&#x5272;&#x308B;  [<ind>&#x308F;&#x308B;</ind>]</trd>,
+    <trd>&#x6298;&#x308B;  [<ind>&#x304A;&#x308B;</ind>]</trd>,
+    <trd>&#x7834;&#x308B;  [<ind>&#x3084;&#x3076;&#x308B;</ind>]</trd>,
+    <trd>&#x65AD;&#x3064;  [<ind>&#x305F;&#x3064;</ind>]</trd>,
+    <trd>&#x65AD;&#x7D76;&#x3059;&#x308B;  [<ind>&#x3060;&#x3093;&#x305C;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6253;&#x3061;&#x7834;&#x308B;  [<ind>&#x3046;&#x3061;&#x3084;&#x3076;&#x308B;</ind>]</trd>,
+    <trd>&#x6253;&#x3061;&#x7815;&#x304F;  [<ind>&#x3046;&#x3061;&#x304F;&#x3060;&#x304F;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ne">&#x92C;&#x94D;&#x930;&#x947;&#x915;</trd>
   <trd lng="nl">breken</trd>
   <trdgrp lng="pl">
     <trd>&lstroke;ama&cacute;</trd>,
@@ -452,7 +461,96 @@
     <trd>rozbi&tcaron;</trd>,
     <trd>zlomi&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_a;&c_m;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_l;&c_o;&c_m;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="romp.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <dif>
+    Ago <tld/>i; rezulto de tiu ago:
+  </dif>
+  <snc>
+    <dif>
+      per materia difekto:
+      <ekz>
+        <tld/>on pro <tld/>o, okulon pro okulo, denton pro dento
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 24:20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        homaro sopiras je <tld/>o de baroj
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni riskas la <tld/>on de siaj ostoj
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="romp.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      per drasta &ccirc;esigo de iu stabila stato, de konvencio ktp:
+      <ekz>
+        <tld/>o de edziga promeso
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de la paco
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fari&gcirc;inte rajtaj geedzoj, <klr>[ili]</klr> trovi&gcirc;is kunligitaj unu kun la alia
+        per ligilo, kies <tld/>o estis ebla nur de la morto
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekunua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fari pro tia bagatela motivo <tld/>on en la lingvo tute ne estas inde
+        <fnt>
+          <bib>LR</bib>
+          <lok>Unua Parto &ndash; Leksikologio</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fend.0o.FIG">fendo<sncref/></ref>,
+      <ref cel="skism.0o.KOMUNE">skismo<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Bruch</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7834;&#x58CA;  [<ind>&#x306F;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x7834;&#x68C4;  [<ind>&#x306F;&#x304D;</ind>]</trd>,
+    <trd>&#x65AD;&#x7D76;  [<ind>&#x3060;&#x3093;&#x305C;&#x3064;</ind>]</trd>
+  </trdgrp>
+</drv>
+
+
+
+
 
 <drv mrk="romp.0ebla">
   <kap><ofc>*</ofc><tld/>ebla</kap>
@@ -473,7 +571,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        vitro estas rompebla kaj travidebla
+        vitro estas <tld/>ebla kaj travidebla
         <fnt><bib>F</bib>, <lok>&FE; 41</lok></fnt>;
       </ekz>
       <ekz>
@@ -517,6 +615,10 @@
     <trd>fragile</trd>,
     <trd>spezzabile</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x58CA;&#x308C;&#x308B;  [<ind>&#x3053;&#x308F;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x58CA;&#x308C;&#x3084;&#x3059;&#x3044;  [<ind>&#x3053;&#x308F;&#x308C;&#x3084;&#x3059;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">breekbaar</trd>
   <trdgrp lng="pl">
     <trd>kruchy</trd>,
@@ -532,6 +634,11 @@
     <trd>l&aacute;mav&yacute;</trd>,
     <trd>zlomite&lcaron;n&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_a;&c_m;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_o;&c_m;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_t;&c_je;&c_n;&c_d;&c_ib;&c_t;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="romp.igxem0a">
@@ -542,20 +649,19 @@
       <ref tip="vid" cel="fortik.mal0a.KOMUNE">malfortika</ref>,
       <ref tip="sin" cel="fragil.0a.KOMUNE">fragila</ref>:
       <ekz>
-        kolektadi <klr>[&#8230;]</klr> <tld/>i&gcirc;emajn vitrosonoriletojn
+        kolektadi <klr>[&#x2026;]</klr> <tld/>i&gcirc;emajn vitrosonoriletojn
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007297.html">Kolekti
-          sonorilojn</url></vrk>
-        </fnt>;
+          <aut>Saliko</aut>
+            <vrk><url ref="&Monato;/2001/007297.html">Kolekti sonorilojn</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 24</lok>
+          </fnt>;
       </ekz>
       <ekz>
         paco estas same <tld/>i&gcirc;ema kiel ovo 
         <fnt>
           <aut>H. Y. Guezo, trad. Mirejo</aut>,
-          <vrk><url
-          ref="http://mirejo3.blogspot.fr/2011/01/fragile-rompigh-ema.html">
+          <vrk><url ref="http://mirejo3.blogspot.fr/2011/01/fragile-rompigh-ema.html">
           Fragile / Rompi&gcirc;ema</url></vrk>,
           <lok>2011-01-28</lok>
         </fnt>.
@@ -566,6 +672,10 @@
       <trd>br&uuml;chig</trd>
     </trdgrp>
   </snc>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_o;&c_m;&c_k;&c_ib;</trd>,
+      <trd>&c_k;&c_r;&c_o;&c_h;&c_k;&c_ib;</trd>
+    </trdgrp>
   <trd lng="bg">&c_k;&c_r;&c_je;&c_h;&c_malmol;&c_k;</trd>
   <trdgrp lng="es">
     <trd>fr&aacute;gil</trd>
@@ -573,6 +683,10 @@
   <trdgrp lng="fr">
     <trd>cassant<klr> (fragile)</klr></trd>,
     <trd>fragile</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x58CA;&#x308C;&#x3084;&#x3059;&#x3044;  [<ind>&#x3053;&#x308F;&#x308C;&#x3084;&#x3059;&#x3044;</ind>]</trd>,
+    <trd>&#x3082;&#x308D;&#x3044;</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>kruchy</trd>,
@@ -582,6 +696,11 @@
     <trd>fragil</trd>,
     <trd>casant</trd>
   </trdgrp>  
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_r;&c_i;&c_h;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_a;&c_m;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_o;&c_m;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="romp.0igxi">
@@ -616,6 +735,12 @@
     </dif>
     <trd lng="de">zerbrechen</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_l;&c_a;&c_m;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_k;&c_a;&c_l;&c_o;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_t;&c_r;&c_u;&c_sh;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="bg">&c_ch;&c_u;&c_p;&c_ja; &c_s;&c_je;</trd>
   <trdgrp lng="es">
     <trd><ind>romper</ind>se</trd>,
@@ -633,6 +758,13 @@
     <trd>fratturarsi</trd>,
     <trd>sfiancarsi</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x58CA;&#x308C;&#x308B;  [<ind>&#x3053;&#x308F;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x7834;&#x308C;&#x308B;  [<ind>&#x3084;&#x3076;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x6298;&#x308C;&#x308B;  [<ind>&#x304A;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x304F;&#x3058;&#x3051;&#x308B;</trd>,
+    <trd>&#x9014;&#x5207;&#x308C;&#x308B;  [<ind>&#x3068;&#x304E;&#x308C;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>prze&lstroke;ama&cacute;</trd>,
     <trd>rozbi&cacute;</trd>,
@@ -643,14 +775,19 @@
     <trd>pauz&abreve;</trd>,
     <trd>desparti</trd>
   </trdgrp>  
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_a;&c_m;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_u;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="romp.0itajxo">
-  <kap><tld/>ita&jcirc;o,
-  <var><kap><tld/>opeco</kap></var></kap>
-  <snc mrk="romp.0itajx.KOMUNE">
+  <kap><tld/>ita&jcirc;o</kap>
+  <snc mrk="romp.0itajxo.KOMUNE">
     <dif>
-      Peco de io <tld/>ita; dis<tld/>a&jcirc;o:
+      Peco de io <tld/>ita; <ref tip="sin" cel="pec.rompo0o"><tld/>opeco</ref>,
+      dis<tld/>a&jcirc;o:
       <ekz>
 	<tld/>ita&jcirc;oj de &scirc;ipoj
         <fnt>
@@ -667,25 +804,10 @@
         </fnt>;
       </ekz>
       <ekz>
-        <klr>[li]</klr> frakasos &gcirc;in <klr>[&#8230;]</klr>, tiel ke en &gcirc;iaj
-        <tld/>opecoj ne trovi&gcirc;os vazopeco
-        <fnt>
-          <bib>MT</bib>
-          <lok>Jesaja 30:14</lok>
-        </fnt>;
-      </ekz>
-      <ekz>
         mi &jcirc;etos viajn kadavrojn sur la <tld/>ita&jcirc;ojn de viaj idoloj
         <fnt>
           <bib>MT</bib>
           <lok>Levidoj 26:30</lok>
-        </fnt>;
-      </ekz>
-      <ekz>
-        la spegulo kaj la <tld/>opecetoj
-        <fnt>
-          <bib>Fab2</bib>
-          <lok>Ne&gcirc;a re&gcirc;ino</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -694,8 +816,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url
-          ref="&Monato;/2012/010800.php">Alflosa&jcirc;oj trans
+          <vrk><url ref="&Monato;/2012/010800.php">Alflosa&jcirc;oj trans
           la oceano</url></vrk>
         </fnt>.
       </ekz>
@@ -737,7 +858,7 @@
   </trdgrp>   
   <trdgrp lng="ro">
     <trd>bucat&abreve;</trd>,
-    <trd>&scedil;indril&abreve;</trd>,
+    <trd>&#x219;indril&abreve;</trd>,
     <trd>pic</trd>
   </trdgrp>  
   <trdgrp lng="ru">
@@ -745,6 +866,7 @@
     <trd>&c_o;&c_s;&c_k;&c_o;&c_l;&c_o;&c_k;</trd>
   </trdgrp>
   <trd lng="sk">&ccaron;rep</trd>
+  <trd lng="uk">&c_u;&c_l;&c_a;&c_m;&c_o;&c_k;</trd>
 </drv>
 
 <drv mrk="romp.de0i">
@@ -800,6 +922,10 @@
   <trd lng="fr">arracher</trd>
   <trd lng="hu">let&ouml;r</trd>
   <trd lng="it">spezzare<klr> (staccare)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x3082;&#x304E;&#x53D6;&#x308B;  [<ind>&#x3082;&#x304E;&#x3068;&#x308B;</ind>]</trd>,
+    <trd>&#x3061;&#x304E;&#x308A;&#x53D6;&#x308B;  [<ind>&#x3061;&#x304E;&#x308A;&#x3068;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">afbreken</trd>
   <trdgrp lng="pl">
     <trd>obrywa&cacute;</trd>,
@@ -808,7 +934,7 @@
     <trd>utr&aogonek;ca&cacute;</trd>
   </trdgrp>   
   <trdgrp lng="ro">
-    <trd> pentru a ob&tcedil;ine muscat</trd>,
+    <trd> pentru a ob&#x21B;ine muscat</trd>,
     <trd>s&abreve;ri</trd>,
     <trd>se &icirc;ntrerupe</trd>,
     <trd>desface</trd>
@@ -818,6 +944,7 @@
     <trd>&c_o;&c_t;&c_l;&c_o;&c_m;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">odlomi&tcaron;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_l;&c_a;&c_m;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="romp.dis0i">
@@ -893,6 +1020,10 @@
     <trd>frantumare</trd>,
     <trd>sgretolare</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7815;&#x304F;  [<ind>&#x304F;&#x3060;&#x304F;</ind>]</trd>,
+    <trd>&#x7C89;&#x7815;&#x3059;&#x308B;  [<ind>&#x3075;&#x3093;&#x3055;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>druzgota&cacute;</trd>,
     <trd>po&lstroke;ama&cacute;</trd>,
@@ -910,6 +1041,10 @@
     <trd>&c_r;&c_a;&c_s;&c_k;&c_o;&c_l;&c_o;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">rozl&aacute;ma&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_l;&c_a;&c_m;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="romp.dis0igxi">
@@ -919,7 +1054,7 @@
       Disi&gcirc;i en multajn erojn,
       <ref tip="vid" cel="frakas.0igxi.KOMUNE">frakasi&gcirc;i</ref>:
       <ekz>
-        la ovoj <klr>[&#8230;]</klr> balda&ubreve; dis<tld/>i&gcirc;is
+        la ovoj <klr>[&#x2026;]</klr> balda&ubreve; dis<tld/>i&gcirc;is
         <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
         fratoj</vrk>, <lok>1947</lok></fnt>;
       </ekz>
@@ -936,13 +1071,18 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Yasuo/pg</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008113.html">Forpaso-forumo</url></vrk>
+          <vrk><url ref="&Monato;/2003/008113.html">Forpaso-forumo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">zerbrechen</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_l;&c_a;&c_m;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_k;&c_a;&c_l;&c_o;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_t;&c_r;&c_u;&c_sh;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_r;&c_a;&c_z;&c_ch;&c_u;&c_p;&c_v;&c_a;&c_m; &c_s;&c_je;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_b;&c_i;&c_v;&c_a;&c_m; &c_s;&c_je;</trd>
@@ -953,15 +1093,15 @@
     <trd>rozbi&cacute; si&eogonek;</trd>,
     <trd>rozpa&sacute;&cacute; si&eogonek; na cz&eogonek;&sacute;ci</trd>
   </trdgrp>   
-  <trd lng="ro">c&abreve;dea &icirc;n buc&abreve;&tcedil;i</trd>
+  <trd lng="ro">c&abreve;dea &icirc;n buc&abreve;&#x21B;i</trd>
 </drv>
 
-<drv mrk="romp.en0i">
+<drv mrk="romp.en0o">
   <kap>en<tld/>o</kap>
   <snc mrk="romp.en0o.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Subite kaj perturbe apero:
+      Subita kaj perturba apero:
       <ekz>
         oni faris en<tld/>on en la urbon kaj &ccirc;iuj militistoj forkuris en
         la nokto
@@ -971,7 +1111,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la en<tld/>o de Adela en la familian &ccirc;iutagecon donis al
+        la en<tld/>o de <nom>Adela</nom> en la familian &ccirc;iutagecon donis al
         &ccirc;i tiu novajn nuancojn
         <fnt>
           <aut>M. Fern&aacute;ndez</aut>,
@@ -981,15 +1121,15 @@
       </ekz>
       <ekz>
         <uzo tip="fak">RET</uzo>
-        la foliumilo <nac>Microsoft Internet Explorer</nac> perdas merkatkvotojn al
+        la foliumilo <nac>Microsoft Internet Explorer</nac> perdas
+        merkatkvotojn al
         siaj konkurantoj
-        <klr>[&#8230;]</klr> unuavice ka&ubreve;zita de la multaj sekurectruoj kaj la
+        <klr>[&#x2026;]</klr> unuavice ka&ubreve;zita de la multaj sekurectruoj kaj la
         kun ili ligitaj virus- kaj en<tld/>-atakoj
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url
-          ref="&Monato;/2005/008483.php">Foliumiloj denove
+          <vrk><url ref="&Monato;/2005/008483.php">Foliumiloj denove
           interbatalas</url></vrk>
         </fnt>;
       </ekz>
@@ -998,8 +1138,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url
-          ref="&Monato;/2005/008483.php">Foliumiloj denove
+          <vrk><url ref="&Monato;/2005/008483.php">Foliumiloj denove
           interbatalas</url></vrk>
         </fnt>.
       </ekz>
@@ -1013,6 +1152,7 @@
   <trd lng="pl">w&lstroke;amanie</trd>     
   <trd lng="ro">furt</trd>
   <trd lng="sk">vl&aacute;ma&tcaron; sa sa</trd>
+  <trd lng="uk">&c_z;&c_l;&c_o;&c_m;</trd>
 </drv>
 
 <drv mrk="romp.inter0i">
@@ -1086,6 +1226,10 @@
     <trd>f&eacute;lbeszak&iacute;t</trd>
   </trdgrp>
   <trd lng="it">interrompere</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E2D;&#x65AD;&#x3059;&#x308B;  [<ind>&#x3061;&#x3085;&#x3046;&#x3060;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5272;&#x308A;&#x8FBC;&#x3093;&#x3067;&#x8A71;&#x3059;  [<ind>&#x308F;&#x308A;&#x3053;&#x3093;&#x3067;&#x306F;&#x306A;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">onderbreken</trd>
   <trd lng="pl">przerywa&cacute;</trd>     
   <trd lng="ro">intrerupe</trd>
@@ -1094,11 +1238,15 @@
     <trd>&c_p;&c_r;&c_je;&c_r;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">pozastavi&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_r;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="romp.tra0i">
   <kap>tra<tld/>i</kap>
-  <snc mrk="romp.tra0.KOMUNE">
+  <snc mrk="romp.tra0i.KOMUNE">
     <dif>
       Sukcese transpasi bara&jcirc;on:
       <ekz>
@@ -1130,8 +1278,7 @@
         &gcirc;i fari&gcirc;is transgeneracia vivanta lingvo
         <fnt>
           <aut>Komunika Komitato de SAT</aut>,
-          <vrk><url
-          ref="http://www.nodo50.org/esperanto/kongreso82.htm">
+          <vrk><url ref="http://www.nodo50.org/esperanto/kongreso82.htm">
           Eksternacia interkontakti&gcirc;o de laboristoj kaj
           progresemuloj</url></vrk>,
           <lok>82a Kongreso de SAT, [2009]</lok>
@@ -1148,18 +1295,28 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_l;&c_a;&c_m;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="bg">&c_p;&c_r;&c_o;&c_b;&c_i;&c_v;</trd>
   <trd lng="cs">pr&uring;lom</trd>
   <trd lng="de">durchbrechen</trd>
   <trd lng="en">breakthrough</trd>
   <trd lng="es">penetraci&oacute;n<klr> (avance militar)</klr></trd>
   <trd lng="fr">perc&eacute;e</trd>
+  <trd lng="ja">&#x7A81;&#x7834;&#x3059;&#x308B;  [<ind>&#x3068;&#x3063;&#x3071;&#x3059;&#x308B;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>przebija&cacute;</trd>,
     <trd>zerwa&cacute;</trd>
   </trdgrp>   
   <trd lng="ro">str&abreve;punge</trd>
   <trd lng="sk">prielom</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_l;&c_o;&c_m;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_l;&c_a;&c_m;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="romp.kap0a">
@@ -1241,7 +1398,12 @@
     <trd/>,
     <trd><ind>Kopfzerbrechen</ind> bereitend</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x547D;&#x304C;&#x3051;&#x306E;  [<ind>&#x3044;&#x306E;&#x3061;&#x304C;&#x3051;&#x306E;</ind>]</trd>,
+    <trd>&#x982D;&#x3092;&#x60A9;&#x307E;&#x305B;&#x308B;  [<ind>&#x3042;&#x305F;&#x307E;&#x3092;&#x306A;&#x3084;&#x307E;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">krkolomn&yacute;</trd>
+  <trd lng="uk">&c_k;&c_a;&c_r;&c_k;&c_o;&c_l;&c_o;&c_m;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="romp.kol0a">
@@ -1256,8 +1418,7 @@
         sukcesi    
         <fnt>
           <aut>Franti&scaron;ek Omelka</aut>
-          <vrk><url
-          ref="https://eo.wikisource.org/wiki/La_Alaska_Stafeto_kaj_Kaptitoj_de_la_Glacirokoj/Kaptitoj_de_la_Glacirokoj/%C4%88apitro_VIII">Kaptitoj
+          <vrk><url ref="https://eo.wikisource.org/wiki/La_Alaska_Stafeto_kaj_Kaptitoj_de_la_Glacirokoj/Kaptitoj_de_la_Glacirokoj/%C4%88apitro_VIII">Kaptitoj
           de la Glacirokoj</url></vrk>
         </fnt>;
       </ekz>
@@ -1274,14 +1435,17 @@
         multminute li improvizis komence per kol<tld/>a virtuozeco
         <fnt>
           <bib>Viki</bib>
-          <vrk><url
-          ref="https://eo.wikipedia.org/wiki/Erroll_Garner">Erroll
+          <vrk><url ref="&Viki;/Erroll_Garner">Erroll
           Garner</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">halsbrecherich</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_y;&c_z;&c_y;&c_k;&c_o;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_o;&c_p;&c_a;&c_s;&c_je;&c_n;</trd>,
     <trd>&c_r;&c_i;&c_s;&c_k;&c_o;&c_v;&c_a;&c_n;</trd>,
@@ -1301,6 +1465,7 @@
       <trd>a <ind>rotta di collo</ind></trd>,
       <trd>da <ind>rompersi il collo</ind></trd>
      </trdgrp>
+  <trd lng="ja">&#x547D;&#x304C;&#x3051;&#x306E;  [<ind>&#x3044;&#x306E;&#x3061;&#x304C;&#x3051;&#x306E;</ind>]</trd>
   <trd lng="nl">fataal</trd>
   <trd lng="pl">karko&lstroke;omny</trd>     
   <trd lng="ro">riscant</trd>
@@ -1310,6 +1475,7 @@
     <trd>&c_g;&c_i;&c_b;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sk">krkolomn&yacute;</trd>
+  <trd lng="uk">&c_k;&c_a;&c_r;&c_k;&c_o;&c_l;&c_o;&c_m;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="romp.lang0ilo">
@@ -1341,11 +1507,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_s;&c_t;&c_r;&c_a;&c_m;&c_o;&c_w;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_k;&c_o;&c_r;&c_a;&c_g;&c_a;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
+  </trdgrp>
   <trd lng="bg">&c_s;&c_k;&c_o;&c_r;&c_o;&c_p;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
   <trd lng="de">Zungenbrecher</trd>
   <trd lng="es">trabalenguas</trd>
   <trd lng="fr">virelangue</trd>
   <trd lng="it">scioglilingua</trd>
+  <trd lng="ja">&#x65E9;&#x53E3;&#x8A00;&#x8449;  [<ind>&#x306F;&#x3084;&#x304F;&#x3061;&#x3053;&#x3068;&#x3070;</ind>]</trd>
   <trd lng="pl">&lstroke;amaniec j&eogonek;zykowy</trd>     
   <trd lng="ro">limb&abreve; str&abreve;in&abreve;</trd>
 </drv>
@@ -1370,14 +1541,17 @@
 	a&ubreve; milit-ma&scirc;inoj
 	<fnt>
 	  <aut>trad. G. Berveling</aut>,
-	  <vrk><url
-	  ref="http://www.geocities.com/cigneto/apokrifo/2Makabeoj.html"/>
+	  <vrk><url ref="http://www.geocities.com/cigneto/apokrifo/2Makabeoj.html"/>
 	  II Makabeoj</vrk>,
 	  <lok>12:15</lok>
 	</fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_c;&c_je;&c_n;&c_a;&c_b;&c_ib;&c_t;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a;</trd>,
+    <trd>&c_t;&c_a;&c_r;&c_a;&c_n;</trd>
+  </trdgrp>
   <trd lng="bg">&c_t;&c_a;&c_r;&c_a;&c_n;</trd>
   <trd lng="cs">beran <klr>(n&aacute;stroj)</klr></trd>
   <trd lng="de">Rammbock</trd>
@@ -1387,6 +1561,10 @@
   <trd lng="pl">taran</trd>     
   <trd lng="ro">berbec</trd>
   <trd lng="sk">baran <klr>(n&aacute;stroj)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_a;&c_r;&c_a;&c_n;</trd>,
+    <trd>&c_s;&c_t;&c_ib;&c_n;&c_o;&c_p;&c_r;&c_o;&c_b;&c_i;&c_v;&c_n;&c_a; &c_m;&c_a;&c_sh;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="romp.sen0a">
@@ -1395,7 +1573,7 @@
     <dif>
       Kiu aperas a&ubreve; da&ubreve;ras unuece, sen <tld/>oj:
       <ekz>
-	en <klr>[&#8230;]</klr> sen<tld/>a vico
+	en <klr>[&#x2026;]</klr> sen<tld/>a vico
 	<fnt><aut>H. Sienkewicz, trad. L. Zamenhof</aut>, <vrk>Quo 
 	vadis?</vrk>, <lok>1933</lok></fnt>;
       </ekz>
@@ -1420,6 +1598,11 @@
       <ref cel="interm.sen0a.KOMUNE">senintermita</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_ja;&c_g;&c_l;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_u;&c_p;&c_y;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_mol;&c_p;&c_je;&c_r;&c_a;&c_p;&c_y;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="bg">&c_n;&c_je;&c_p;&c_r;&c_je;&c_k;&c_malmol;&c_s;&c_n;&c_a;&c_t;</trd>
   <trd lng="cs">nep&rcaron;etr&zcaron;it&yacute;</trd>
   <trd lng="de">ununterbrochen</trd>
@@ -1457,35 +1640,39 @@
         </fnt>;
       </ekz>
       <ekz>
-        sur la insulo Malto <klr>[&#8230;]</klr> Pa&ubreve;lo alteri&gcirc;is post
+        sur la insulo Malto <klr>[&#x2026;]</klr> Pa&ubreve;lo alteri&gcirc;is post
         &scirc;ip<tld/>i&gcirc;o survoje al Romo
         <fnt>
           <bib>Monato</bib>
           <aut>Gerrit Berveling</aut>
-          <vrk><url
-          ref="&Monato;/2009/009661.php">Pa&ubreve;lo-jaro</url></vrk>
+          <vrk><url ref="&Monato;/2009/009661.php">Pa&ubreve;lo-jaro</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         mi foje spertis &scirc;ip<tld/>i&gcirc;on sur glacipecego
         <fnt>
           <aut>P. H&oslash;eg, trad. S. Johansson</aut>,
-          <vrk><url
-          ref="http://www.angelfire.com/ok/stenjo/avangard.html">
+          <vrk><url ref="http://www.angelfire.com/ok/stenjo/avangard.html">
           Portreto de la avangardo</url></vrk>,
           <lok>[vidita en 2014]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_r;&c_a;&c_b;&c_l;&c_je;&c_k;&c_r;&c_u;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trdgrp lng="de">
     <trd>Schiffsuntergang</trd>,
     <trd>Schiffsungl&uuml;ck</trd>
   </trdgrp>
   <trd lng="es">naufragio</trd>
   <trd lng="fr">naufrage</trd>
+  <trd lng="ja">&#x96E3;&#x7834;  [<ind>&#x306A;&#x3093;&#x3071;</ind>]</trd>
   <trd lng="pl">rozbicie statku</trd>     
   <trd lng="ro">nava de rupere</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_r;&c_a;&c_b;&c_je;&c_l;&c_mol;&c_n;&c_a; &c_a;&c_v;&c_a;&c_r;&c_ib;&c_ja;</trd>,
+    <trd>&c_a;&c_v;&c_a;&c_r;&c_ib;&c_ja; &c_k;&c_o;&c_r;&c_a;&c_b;&c_l;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="romp.sxip0ulo">
@@ -1506,35 +1693,33 @@
     </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a; &c_k;&c_a;&c_r;&c_a;&c_b;&c_l;&c_je;&c_k;&c_r;&c_u;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_ja;</trd>
   <trd lng="fr">naufrag&eacute;<klr> (subst.)</klr></trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.44  2019/06/30 07:43:29  revo
-adaptis URL de Monato
+versio 1.62 2023/05/01 11:23:51
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.43  2019/05/25 22:10:15  revo
-Jeromo Vasxe: + sxip~ulo
+versio 1.61 2023/02/19 12:45:49
+Wolfram Diestel: ~o: dif-vortigo
 
-Revision 1.42  2018/05/21 22:10:14  revo
-Vito Redsky: +trd pl +trd ro
+versio 1.60 2023/02/18 21:23:03
+Wolfram Diestel: +~o
 
-Revision 1.41  2018/05/06 18:10:15  revo
-Wolfram Diestel: prilaboris ekz-ojn (cetero), germ trd-oj
+versio 1.59 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.40  2018/05/05 13:10:15  revo
-Wolfram Diestel: prilaboris ekz-ojn (dua parto)
+versio 1.53 2022/01/21 06:33:13
+Wolfram Diestel: rompopeco, anst. var per ref al pec'
 
-Revision 1.39  2018/05/05 09:10:15  revo
-Wolfram Diestel: prilaboris ekz-ojn (unua parto)
+versio 1.52 2021/12/10 07:29:30
+Dmitri Gabinski: + trd be
 
-Revision 1.38  2018/03/02 00:10:35  revo
-Michel Cantigneaux: rompebla, fundamenta kunmetajxo de la Ekzercaro +
-referencoj
+versio 1.49 2021/05/13 14:51:38
+Wolfram Diestel: kor. drv@mrk
 
-Revision 1.37  2017/04/10 09:10:14  revo
-Ludoviko Francisco: trd fr
-
+versio 1.48 2021/05/13 13:13:00
 -->
 </vortaro>

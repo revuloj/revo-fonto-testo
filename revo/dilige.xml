@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dilige.xml,v 1.20 2010/08/16 16:30:15 revo Exp $">
+<art mrk="$Id: dilige.xml,v 1.36 2023/08/31 10:44:00 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>diligent</rad>/a <fnt><bib>MT</bib></fnt>
@@ -88,6 +87,7 @@
     <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_n;&c_n;&c_y;</trd>,
     <trd>&c_d;&c_b;&c_a;&c_j;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF56;&#xF62;&#xFA9;&#xF7C;&#xF53;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>piln&yacute;</trd>,
     <trd>sna&zcaron;iv&yacute;</trd>
@@ -97,7 +97,7 @@
   <trdgrp lng="fa">
     <trd>&a_s;&a_A;&a_ayn;&f_y;</trd>,
     <trd>&f_k;&a_w;&a_sh;&a_A;</trd>,
-    <trd>&a_s;&a_kh;&a_t;&zwnj;&f_k;&a_w;&a_sh;</trd>,
+    <trd>&a_s;&a_kh;&a_t;&#x200C;&f_k;&a_w;&a_sh;</trd>,
     <trd>&a_b;&a_A;&f_p;&a_sh;&a_t;&f_k;&a_A;&a_r;</trd>
   </trdgrp>
   <trdgrp lng="fr">
@@ -107,7 +107,9 @@
     <trd>empress&eacute;</trd>,
     <trd>z&eacute;l&eacute;</trd>
   </trdgrp>
+  <trd lng="he">&#x5D1;&#x5D7;&#x5E8;&#x5D9;&#x5E6;&#x5D5;&#x5EA;</trd>
   <trd lng="hu">szorgalmas</trd>
+  <trd lng="ja">&#x52E4;&#x52C9;&#x306A;  [<ind>&#x304D;&#x3093;&#x3079;&#x3093;&#x306A;</ind>]</trd>
   <trd lng="pl">pilny</trd>
   <trdgrp lng="pt">
     <trd>diligente</trd>,
@@ -127,6 +129,12 @@
   </trdgrp>
   <trd lng="sk">usilovn&yacute;</trd>
   <trd lng="sv">flitig</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&#x43D;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_b;&c_a;&c_j;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_je;&c_t;&c_je;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dilige.0i">
@@ -144,8 +152,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="https://www.monato.be/2006/008760.php"
-              >En fremda lando</url></vrk>
+          <vrk><url ref="&Monato;/2006/008760.php">En fremda lando</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -153,8 +160,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo</aut>
-          <vrk><url ref="https://www.monato.be/2005/008415.php"
-              >Le&gcirc;e la&ubreve;di</url></vrk>
+          <vrk><url ref="&Monato;/2005/008415.php">Le&gcirc;e la&ubreve;di</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -178,7 +184,12 @@
     <trd>s'<ind>attacher</ind><klr tip="ind"> (&agrave; faire
     qc)</klr></trd>,
     <trd>se <ind>d&eacute;p&ecirc;cher</ind></trd></trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5D9;&#x5D5;&#x5EA; &#x5D7;&#x5B8;&#x5E8;&#x5D5;&#x5BC;&#x5E5;</trd>
   <trd lng="hu">szorgoskodik</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7CBE;&#x3092;&#x51FA;&#x3059;  [<ind>&#x305B;&#x3044;&#x3092;&#x3060;&#x3059;</ind>]</trd>,
+    <trd>&#x52B1;&#x3093;&#x3067;&#x3044;&#x308B;  [<ind>&#x306F;&#x3052;&#x3093;&#x3067;&#x3044;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">usilova&tcaron; sa</trd>
   <trd lng="sv">vara <ind>flitig</ind></trd>
 </drv>
@@ -197,13 +208,13 @@
         <fnt><bib>NT</bib>, <lok>&Rom; 12:8</lok></fnt>.
       </ekz>
       <ekz>
-        plurajn aferojn <klr>[&#8230;]</klr> eblus plibonigi per aplikado de nur iomete pli da
+        plurajn aferojn <klr>[&#x2026;]</klr> eblus plibonigi per aplikado de nur iomete pli da
         zorgo kaj <tld/>o
         <fnt>
           <bib>Monato</bib>
           <aut>Edmund Grimley Evans</aut>
-          <vrk><url ref="https://www.monato.be/2013/011011.php"
-              >Legenda klasika&jcirc;o pri malutopio</url></vrk>
+          <vrk><url ref="&Monato;/2013/011011.php">Legenda klasika&jcirc;o pri
+          malutopio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -211,22 +222,39 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Alice Liu</aut>
-          <vrk><url ref="https://www.monato.be/2015/011566.php"
-              >Judaj rifu&gcirc;intoj en &Scirc;anhajo</url></vrk>
+          <vrk><url ref="&Monato;/2015/011566.php">Judaj rifu&gcirc;intoj en
+          &Scirc;anhajo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_b;&c_a;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_u;&c_p;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF56;&#xF62;&#xFA9;&#xF7C;&#xF53;&#xF0B;&#xF60;&#xF42;&#xFB2;&#xF74;&#xF66;&#xF0B;</trd>
   <trd lng="de">Flei&szlig;</trd>
   <trdgrp lng="fa">
     <trd>&a_j;&a_d;&f_y;&a_t;</trd>,
     <trd>&f_p;&a_sh;&a_t;&f_k;&a_A;&a_r;</trd>,
-    <trd>&a_s;&a_kh;&a_t;&zwnj;&f_k;&a_w;&a_sh;&f_y;</trd>
+    <trd>&a_s;&a_kh;&a_t;&#x200C;&f_k;&a_w;&a_sh;&f_y;</trd>
   </trdgrp>
+  <trd lng="en">diligence</trd>
   <trdgrp lng="fr">
     <trd>diligence<klr tip="ind"> (z&egrave;le)</klr></trd>,
     <trd>z&egrave;le</trd></trdgrp> 
+  <trd lng="he">&#x5D7;&#x5B8;&#x5E8;&#x5B4;&#x5D9;&#x5E6;&#x5D5;&#x5BC;&#x5EA;</trd>
   <trd lng="hu">szorgalom</trd>
+  <trdgrp lng="ja">
+    <trd>&#x71B1;&#x5FC3;&#x3055;  [<ind>&#x306D;&#x3063;&#x3057;&#x3093;&#x3055;</ind>]</trd>,
+    <trd>&#x52E4;&#x52C9;&#x3055;  [<ind>&#x304D;&#x3093;&#x3079;&#x3093;&#x3055;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&#x43D;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_d;&c_b;&c_a;&c_j;&#x43B;&c_i;&c_v;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_r;&c_je;&c_t;&c_je;&#x43B;&#x44C;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dilige.0ulo">
@@ -249,7 +277,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_u;&c_p;&c_l;&c_ib;&c_v;&c_je;&c_c;</trd>
   <trd lng="de">Flei&szlig;iger</trd>
+  <trdgrp lng="ja">
+    <trd>&#x52E4;&#x52C9;&#x5BB6;  [<ind>&#x304D;&#x3093;&#x3079;&#x3093;&#x304B;</ind>]</trd>,
+    <trd>&#x50CD;&#x304D;&#x8005;  [<ind>&#x306F;&#x305F;&#x3089;&#x304D;&#x3082;&#x306E;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dilige.mal0a">
@@ -264,7 +297,7 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        mi pasis tra kampo de homo mal<tld/>a <klr>[&#8230;]</klr>
+        mi pasis tra kampo de homo mal<tld/>a <klr>[&#x2026;]</klr>
         kaj jen &ccirc;ie elkreskis urtiko, &ccirc;io estas kovrita de dornoj, 
         kaj la &scirc;tona muro estas detruita
         <fnt><bib>MT</bib>, <lok>&Sen;, &ccirc;ap.
@@ -298,6 +331,7 @@
     <trd>&c_g;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_ja;&c_v;&c_a;&c_t;&c_y;</trd>,
     <trd>&c_n;&c_ja;&c_d;&c_b;&c_a;&c_j;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF63;&#xF7A;&#xF0B;&#xF63;&#xF7C;&#xF0B;&#xF45;&#xF53;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>l&iacute;n&yacute;</trd>,
     <trd>nedbal&yacute;</trd>
@@ -322,7 +356,7 @@
   <trdgrp lng="fa">
     <trd>&a_t;&a_n;&a_b;&a_l;</trd>,
     <trd>&f_k;&a_A;&a_h;&a_l;</trd>,
-    <trd>&a_t;&a_n;&zwnj;&f_p;&a_r;&a_w;&a_r;</trd>
+    <trd>&a_t;&a_n;&#x200C;&f_p;&a_r;&a_w;&a_r;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>indolent</trd>,
@@ -338,6 +372,10 @@
     <trd>pigro</trd>,
     <trd>indolente</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6020;&#x60F0;&#x306A;  [<ind>&#x305F;&#x3044;&#x3060;&#x306A;</ind>]</trd>,
+    <trd>&#x4E0D;&#x71B1;&#x5FC3;&#x306A;  [<ind>&#x3075;&#x306D;&#x3063;&#x3057;&#x3093;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">lui</trd>
   <trdgrp lng="pl">
     <trd>nonszalancki</trd>,
@@ -347,6 +385,7 @@
   <trd lng="pt">pregui&ccedil;oso</trd>
   <trd lng="ru">&c_l;&c_je;&c_n;&c_i;&c_v;&c_y;&c_j;</trd>
   <trd lng="sk">leniv&yacute;</trd>
+  <trd lng="uk">&#x43B;&c_je;&c_d;&c_a;&c_ch;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="dilige.mal0i">
@@ -361,7 +400,16 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="pigr.0i">pigri</ref>
-    <trd lng="de">faul sein</trd>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_je;&c_n;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_g;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_ib;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>faulenzen</trd>,
+      <trd>abh&auml;ngen</trd>,
+      <trd>faul sein</trd>,
+      <trd>fl&auml;zen</trd>
+    </trdgrp>
     <trd lng="fa">&a_t;&a_n;&a_b;&a_l;&f_y;
     &f_k;&a_r;&a_d;&a_n;</trd>
     <trdgrp lng="es">
@@ -404,8 +452,7 @@
         de gravaj nomoj
         <fnt>
           <aut>D. Harlow</aut>:
-          <vrk><url
-          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Recenzoj/jubileo.html">
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Recenzoj/jubileo.html">
           Jubileo...</url></vrk>,
           <lok>2002</lok>.
         </fnt>;
@@ -446,6 +493,7 @@
     <trd>paresse</trd>
   </trdgrp>
   <trd lng="hu">lustas&aacute;g</trd>
+  <trd lng="ja">&#x6020;&#x60F0;  [<ind>&#x305F;&#x3044;&#x3060;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>nonszalancja</trd>,
     <trd>lenistwo</trd>,
@@ -456,6 +504,10 @@
     <trd>&c_l;&c_je;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">lenivos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_ib;&#x43D;&#x44C;</trd>,
+    <trd>&#x43B;&c_ib;&#x43D;&#x43E;&c_shch;&c_ib;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dilige.mal0ulo">
@@ -495,6 +547,10 @@
   <trd lng="de">Faulpelz</trd>
   <trd lng="fr">paresseux<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="hu">lusta<klr tip="amb">(ember)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x6020;&#x3051;&#x8005;  [<ind>&#x306A;&#x307E;&#x3051;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x4E0D;&#x7CBE;&#x8005;  [<ind>&#x3076;&#x3057;&#x3087;&#x3046;&#x3082;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>le&nacute;</trd>,
     <trd>pr&oacute;&zdot;niak</trd>,
@@ -510,11 +566,30 @@
     <trd>dareb&aacute;k</trd>,
     <trd>lenivec</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_je;&c_d;&c_a;&c_r;</trd>,
+    <trd>&#x43B;&c_je;&c_d;&c_a;&c_shch;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 </art>
   <!--
   $Log$
+versio 1.35 2022/07/17 21:28:20
+Ulrich Fellmann: maldiligenti: +2 pliaj DE trdj
+
+versio 1.34 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2021/11/26 07:29:00
+Dmitri Gabinski: + trd be
+
+versio 1.30 2021/08/31 12:48:00
+Dmitri Gabinski: + trd be
+
+versio 1.26 2021/01/18 10:10:37
+Aleks Andre: +trd bo
+
   Revision 1.24  2017/12/28 23:10:15  revo
   Vito Redsky: +trd ro
 
@@ -522,55 +597,5 @@
   aldono de trd cs per skripto de M. von Laer
 
   Revision 1.22  2015/06/29 16:29:36  revo
-  aldono de trd sk per skripto de M. von Laer
-
-  Revision 1.21  2012/12/13 07:10:10  revo
-  Sebastian Cyprych: +mal~i, +ref al pig', + trd el pigr'
-
-  Revision 1.20  2010/08/16 16:30:15  revo
-  Jeromo Vasxe: - kramp
-
-  Revision 1.19  2009/07/12 16:30:32  revo
-  Behnam Tabatabai: +trd fa
-
-  Revision 1.18  2009/06/16 16:31:24  revo
-  Sebastian Cyprych: +trd pl
-
-  Revision 1.17  2007/08/05 16:30:47  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.16  2003/12/13 17:33:33  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.15  2003/10/21 16:31:19  revo
-  Sergio Pokrovskij: apartigis mal~econ, mal~ulon
-
-  Revision 1.14  2003/10/20 17:53:20  revo
-  Sergio Pokrovskij: apartigis mal~a
-
-  Revision 1.13  2003/05/19 19:37:46  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.12  2002/05/29 05:34:22  revo
-  Ulrich Fellmann: + 7 pliaj trd de
-
-  Revision 1.11  2002/05/23 20:33:41  revo
-  Alejandro Mejia Greene: ald 1 his trd
-
-  Revision 1.10  2002/01/09 20:23:37  revo
-  fontindiko PrV per programo de Jerome
-
-  Revision 1.9  2001/09/17 18:15:21  revo
-  Jerano Zachrisson: +trd sv
-
-  Revision 1.8  2001/05/12 18:17:06  revo
-  Marc Bavant: +trd fr; ~a: mod dif, +ref al (mal)laborema, kor ekz el
-  Sen 10,4, +ekz kun ~eco, mal~ulo, mal~eco, +uzo FIG cxe kelkaj ekz;
-  +drv ~i
-
-  Revision 1.7  2001/03/29 16:18:15  revo
-  Yury Finkel: +trd ru
-
-  Revision 1.6  2000/04/06 06:32:47  revo
-  -->
+-->
 </vortaro>

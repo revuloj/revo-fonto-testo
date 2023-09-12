@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pedago1.xml,v 1.24 2023/09/03 12:45:05 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>pedagogi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,17 +18,16 @@
         lernejo, kiu edukas la&ubreve; <nom>Steiner</nom>-<tld/>o, malfermis siajn
         pordojn por senpaperuloj
         <fnt><aut>G. Van Damme</aut>: <vrk>Sep en unu
-        bato</vrk>, <bib>Monato</bib>, <lok>1999:3, p.
-        6a</lok></fnt>;
+        bato</vrk>, <bib>Monato</bib>, <lok>1999/03, p.
+        6</lok></fnt>;
       </ekz>
       <ekz>
-        moderna <tld/>o postulas, ke anka&ubreve; malsani&gcirc;intaj infanoj <klr>[&#8230;]</klr> rajtas
+        moderna <tld/>o postulas, ke anka&ubreve; malsani&gcirc;intaj infanoj <klr>[&#x2026;]</klr> rajtas
         kaj devas kunstudi en la samaj lernejoj kie aliuloj
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="https://www.monato.be/2008/009356.php"
-              >Sistemo ne imuna</url></vrk>
+          <vrk><url ref="&Monato;/2008/009356.php">Sistemo ne imuna</url></vrk>
           <lok>2008</lok>
         </fnt>;
       </ekz>
@@ -39,8 +37,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="https://www.monato.be/2010/010062.php"
-              >Merkato dampita</url></vrk>
+          <vrk><url ref="&Monato;/2010/010062.php">Merkato dampita</url></vrk>
           <lok>2010</lok>
         </fnt>.
       </ekz>
@@ -70,16 +67,23 @@
     <trd>nevel&eacute;stan</trd>,
     <trd>nevel&eacute;studom&aacute;ny</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6559;&#x80B2;&#x5B66;  [<ind>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x304C;&#x304F;</ind>]</trd>,
+    <trd>&#x5150;&#x7AE5;&#x6559;&#x6388;&#x6CD5;  [<ind>&#x3058;&#x3069;&#x3046;&#x304D;&#x3087;&#x3046;&#x3058;&#x3085;&#x307B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>opvoedkunde</trd>,
     <trd>pedagogie</trd>
   </trdgrp>
+  <trd lng="pl">pedagogia</trd>
   <trd lng="pt">pedagogia</trd>
+  <trd lng="ro">pedagogie</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_je;&c_d;&c_a;&c_g;&c_o;&c_g;&c_i;&c_k;&c_a;</trd>,
     <trd>&c_p;&c_je;&c_d;&c_a;&c_g;&c_o;&c_g;&c_i;&c_ja;</trd>
   </trdgrp>
   <trd lng="sk">pedagogika</trd>
+  <trd lng="uk">&#x43F;&c_je;&c_d;&c_a;&c_g;&#x43E;&c_g;&c_ib;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="pedago1.0a">
@@ -91,20 +95,20 @@
         tro malofte oni kritike konsideras ties enhavon, aspekton, valoron
         &ndash; sciencan, <tld/>an, lingvan
         <fnt>
-        <aut>W. M. A. De Smet</aut>,
+        <aut>W. M. A. de Smet</aut>,
         <vrk>Ekzotaj arboj en Esperantujo</vrk>,
         <bib>Monato</bib>,
-        <lok>1997:10, p. 19a</lok>
+        <lok>1997/10, p. 19</lok>
         </fnt>;
       </ekz>
       <ekz>
         en <tld/>a revuo, eldonita de la flandra ministrejo pri edukado, aperis raporto
         pri la seksa konduto de lernejanoj
-        <fnt>
+         <fnt>
+          <aut>Guido van Damme</aut>
+          <vrk><url ref="&Monato;/1995/A950102.php">Gejunula seksumado</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9501-seksaj-rilatoj.txt"
-              >Seksaj Rilatoj</url></vrk>
-          <lok>95/01</lok>
+          <lok>1995/01, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -112,8 +116,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Boris Kolker</aut>
-          <vrk><url ref="https://www.monato.be/2003/007812.html"
-              >Estas dan&gcirc;ere esti poeto</url></vrk>
+          <vrk><url ref="&Monato;/2003/007812.html">Estas dan&gcirc;ere esti
+          poeto</url></vrk>
           <lok>2003</lok>
         </fnt>;
       </ekz>
@@ -124,8 +128,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Edmund Grimley Evans</aut>
-          <vrk><url ref="https://www.monato.be/2007/009012.php"
-              >Pri edukado de geniuloj</url></vrk>
+          <vrk><url ref="&Monato;/2007/009012.php">Pri edukado de geniuloj</url></vrk>
           <lok>2007</lok>
         </fnt>;
       </ekz>
@@ -135,8 +138,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="https://www.monato.be/2012/010837.php"
-              >100 jarojn le&gcirc;o pri islamo</url></vrk>
+          <vrk><url ref="&Monato;/2012/010837.php">100 jarojn le&gcirc;o pri
+          islamo</url></vrk>
           <lok>2012</lok>
         </fnt>.
       </ekz>
@@ -166,11 +169,18 @@
     <trd>nevel&eacute;stani</trd>,
     <trd>nevel&eacute;studom&aacute;nyi</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6559;&#x80B2;&#x5B66;&#x306E;  [<ind>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x304C;&#x304F;&#x306E;</ind>]</trd>,
+    <trd>&#x5150;&#x7AE5;&#x6559;&#x80B2;&#x306E;  [<ind>&#x3058;&#x3069;&#x3046;&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">didactisch</trd>
+  <trd lng="pl">pedagogiczny</trd>
+  <trd lng="ro">pedagogic</trd>
   <trdgrp lng="sk">
     <trd>pedagogick&yacute;</trd>,
     <trd>v&yacute;chovn&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&c_je;&c_d;&c_a;&c_g;&#x43E;&c_g;&c_ib;&c_ch;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="pedago1.0isto">
@@ -183,8 +193,8 @@
         la barono estis <tld/>isto kaj intencis plibonigi la edukadon de gejunuloj per
         sporto
         <fnt>
-          <vrk><url ref="https://esperantaretradio.blogspot.com/2016/08/olimpikaj-ludoj-la-metaforo.html#!"
-              >Olimpikaj Ludoj, la metaforo</url></vrk>
+          <vrk><url ref="https://esperantaretradio.blogspot.com/2016/08/olimpikaj-ludoj-la-metaforo.html#!">Olimpikaj
+          Ludoj, la metaforo</url></vrk>
           <lok>Esperanta Retradio</lok>
         </fnt>;
       </ekz>
@@ -193,8 +203,8 @@
         granda <tld/>isto
         <fnt>
           <aut>Th. Kili&aacute;n</aut>
-          <vrk><url ref="http://www.literatura.bucek.name/brno/kilian-theodor_85-naskigtago-masaryk.pdf"
-              >85-a naski&gcirc;tago de T.G. Masaryk</url></vrk>
+          <vrk><url ref="http://www.literatura.bucek.name/brno/kilian-theodor_85-naskigtago-masaryk.pdf">85-a
+          naski&gcirc;tago de T.G. Masaryk</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -203,7 +213,8 @@
   <trd lng="ca">pedagog</trd>
   <trd lng="cs">pedagog</trd>
   <trdgrp lng="de">
-    <trd>P&auml;dagoge</trd>
+    <trd>P&auml;dagoge</trd>,
+    <trd>Erziehungswissenschaftler</trd>
   </trdgrp>
   <trd lng="en">pedagogue</trd>
   <trdgrp lng="fr">
@@ -213,10 +224,13 @@
     <trd>nevel&eacute;studom&aacute;nyi szakember</trd>,
     <trd>pedag&oacute;gus <klr tip="amb">(tud&oacute;s)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x6559;&#x80B2;&#x5B66;&#x8005;  [<ind>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x304C;&#x304F;&#x3057;&#x3083;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>opvoedkundige</trd>,
     <trd>pedagoog</trd>
   </trdgrp>
+  <trd lng="pl">pedagog</trd>
+  <trd lng="ro">pedagog</trd>
   <trd lng="ru">&c_p;&c_je;&c_d;&c_a;&c_g;&c_o;&c_g;
   <klr>(&c_u;&c_ch;&c_jo;&c_n;&c_y;&c_j;)</klr></trd>
   <trd lng="sk">pedag&oacute;g</trd>
@@ -224,6 +238,18 @@
 </art>
 <!--
 $Log$
+versio 1.23 2023/04/12 09:25:49
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.22 2022/07/21 22:31:29
+Vito Redsky:  +trd pl  + trd ro 
+
+versio 1.21 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2022/04/25 11:28:50
+Ulrich Fellmann: pedagogiisto: +1 DE trd
+
 Revision 1.17  2015/07/04 08:37:41  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -234,14 +260,5 @@ Revision 1.15  2014/01/19 02:10:14  revo
 Jeromo Vasxe: + mrk
 
 Revision 1.14  2012/01/03 23:10:36  revo
-Marc Rausell: +trd ca
-
-Revision 1.13  2009/08/08 16:34:56  revo
-Russ Williams: +trd en
-
-Revision 1.12  2006/02/27 17:32:02  revo
-Tulio Flores: +tr pt
-
-Revision 1.11  2005/01/25 17:31:29  revo
 -->
 </vortaro>

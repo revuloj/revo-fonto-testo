@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: viz.xml,v 1.26 2023/09/05 09:43:56 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>viz</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -25,6 +24,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_z;&c_a;</trd>
+  <trd lng="bo">&#xF63;&#xF42;&#xF0B;&#xF60;&#xF41;&#xFB1;&#xF7A;&#xF62;&#xF0B;</trd>
   <trd lng="ca">visat</trd>
   <trd lng="cs">v&iacute;zum</trd>
   <trd lng="de">Visum</trd>
@@ -33,6 +33,10 @@
   <trd lng="es">visa</trd>
   <trd lng="fr">visa</trd>
   <trd lng="hu">v&iacute;zum</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D3;&#x30B6;  [<ind>&#x3073;&#x3056;</ind>]</trd>,
+    <trd>&#x67FB;&#x8A3C;  [<ind>&#x3055;&#x3057;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">visum</trd>
   <trd lng="pl">wiza</trd>
   <trd lng="pt">visto</trd>
@@ -64,6 +68,7 @@
   <trd lng="es">visar</trd>
   <trd lng="fr">viser<klr tip="amb"> (un document)</klr></trd>
   <trd lng="hu">v&iacute;zummal ell&aacute;t</trd>
+  <trd lng="ja">&#x67FB;&#x8A3C;&#x3059;&#x308B;  [<ind>&#x3055;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">viseren</trd>
   <trdgrp lng="pl">
     <trd>wizowa&cacute;</trd>,
@@ -74,6 +79,7 @@
     <trd>da&tcaron; v&iacute;zum</trd>,
     <trd>vidova&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="viz.labor0o">
@@ -96,8 +102,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_a;&c_ja; <ind>&c_v;&c_ib;&c_z;&c_a;</ind></trd>
   <trd lng="en">work visa</trd>
   <trd lng="fr">visa de travail</trd>
+  <trd lng="nl">arbeidsvisum</trd>
   <trdgrp lng="pl">
     <trd>wiza pracownicza</trd>,
     <trd>wiza z pozwoleniem na prac&eogonek;</trd>
@@ -117,16 +125,17 @@
         rusia lernejo
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://vojagxo.info/vizo-kaj-doganejo-de-rusio/">
+          <vrk><url ref="http://vojagxo.info/vizo-kaj-doganejo-de-rusio/">
           Vizo kaj Doganejo de Rusio</url></vrk>,
           <lok>La Voja&gcirc;o, 2013-11-05</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_u;&c_d;&c_e;&c_n;&c_c;&c_k;&c_a;&c_ja; <ind>&c_v;&c_ib;&c_z;&c_a;</ind></trd>
   <trd lng="en">student visa</trd>
   <trd lng="fr">visa d'&eacute;tudes</trd>
+  <trd lng="nl">studentenvisum</trd>
   <trd lng="pl">wiza studencka</trd>
 </drv>
 
@@ -149,12 +158,14 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_z;&c_y;&c_t;&c_n;&c_a;&c_ja; <ind>&c_v;&c_ib;&c_z;&c_a;</ind></trd>
   <trdgrp lng="cs">
     <trd>pr&uring;choz&iacute; v&iacute;zum</trd>,
     <trd>tranzitn&iacute; v&iacute;zum</trd>
   </trdgrp>
   <trd lng="en">transit visa</trd>
   <trd lng="fr">visa de transit</trd>
+  <trd lng="nl">transitvisum</trd>
   <trdgrp lng="pl">
     <trd>wiza przejazdowa</trd>,
     <trd>wiza tranzytowa</trd>
@@ -175,24 +186,31 @@
         estas <ctl>Ecca-Inter</ctl>
         <fnt>
           <aut>Vitalik</aut>,
-          <vrk><url
-          ref="https://groups.yahoo.com/neo/groups/pri-ijk/conversations/topics/198">
+          <vrk><url ref="https://groups.yahoo.com/neo/groups/pri-ijk/conversations/topics/198">
           [pri IJK] Vizo-akirado kaj...</url></vrk>,
           <lok>Pri IJK por kiu ajn!, 2004-06-07</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_u;&c_r;&c_y;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_v;&c_ib;&c_z;&c_a;</ind></trd>
   <trdgrp lng="en">
     <trd>visitor visa</trd>,
     <trd>tourist visa</trd>
   </trdgrp>
   <trd lng="fr">visa de tourisme</trd>
+  <trd lng="nl">toeristisch <ind>visum</ind></trd>
   <trd lng="pl">wiza turystyczna</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/05/25 16:33:15
+Paul Peeraerts: + trd nl 
+
+versio 1.24 2022/04/22 19:26:10
+Dmitri Gabinski: + trd be
+
 Revision 1.20  2015/10/06 14:10:18  revo
 Cindy Moon McKee: +trd en
 
@@ -209,8 +227,5 @@ Revision 1.16  2015/01/06 21:10:20  revo
 Jeromo Vasxe: + kk specoj de ~oj
 
 Revision 1.15  2012/08/12 17:10:26  revo
-Marc Rausell: + trd ca
-
-Revision 1.14  2005/04/26 16:31:37  revo
 -->
 </vortaro>

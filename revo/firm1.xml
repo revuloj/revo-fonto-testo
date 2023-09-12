@@ -1,20 +1,19 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: firm1.xml,v 1.19 2010/11/12 17:30:17 revo Exp $">
+<art mrk="$Id: firm1.xml,v 1.115 2023/08/29 12:44:47 revo Exp $">
 <kap>
   <rad>firm</rad>/o <fnt><bib>PV</bib></fnt>,
-  <var><kap><rad>firma</rad>/o</kap></var>
+  <var><kap><rad var="a">firma</rad>/o</kap></var>
 </kap>
 <drv mrk="firm1.0o">
-  <kap><tld/>o, <var><kap>firmao</kap></var></kap>
+  <kap><tld/>o, <var><kap><tld var="a"/>o</kap></var></kap>
   <snc mrk="firm1.0o.entrepreno">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Komerca <ref tip="super" cel="entrep.0o">entrepreno</ref>:
+      Registrita komerca <ref tip="super" cel="entrep.0o.EKON">entrepreno</ref>:
       <ekz>
-        la elirintaj kajeroj estas riceveblaj &ccirc;e la <tld/>o 
+        la elirintaj kajeroj estas riceveblaj &ccirc;e la <tld/>o
         <nom>M&uuml;ller</nom> kaj <nom>Borel</nom> en Berlino
         <fnt>
           <bib>PrV</bib>
@@ -32,79 +31,93 @@
       <ekz>
         komerca <tld/>o petis ke mi eksperimente provu novan aparaton kiu donas aliron
         al ankora&ubreve; aliaj servoj de la kompanio
-        <fnt>
+         <fnt>
+          <aut>Will Green</aut>
+          <vrk><url ref="&Monato;/1994/A940103.php">Will Green kondukas vin tra sia telefona
+          labirinto</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9401-telefona-labirinto.txt">Will Green kondukas vin tra sia</url></vrk>
-          <lok>94/01</lok>
+          <lok>1994/01, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
         litertiparoj de diversaj <tld/>oj
         <fnt>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/1995/004514.php">Por lingvemaj
+          komputilemuloj ...</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9506-lingvema.txt">Por lingvemaj komputilemuloj...</url></vrk>
-          <lok>95/06</lok>
+          <lok>1995/06, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
-        kostoj de la transiro al e&ubreve;roj por firmaoj kaj publikaj
-        servoj<fnt><aut>Marc Vanden Bempt</aut>: <vrk>E&ubreve;ro: ecoj
-        kaj sekvoj por &ccirc;iuj</vrk>, <bib>Monato</bib>
-        <lok>jaro 1998a, numero 9a, p. 17a</lok></fnt>;
+        kostoj de la transiro al e&ubreve;roj por <tld var="a"/>oj kaj publikaj
+        servoj
+        <fnt><aut>Marc vanden Bempt</aut>:
+        <vrk>E&ubreve;ro: ecoj
+        kaj sekvoj por &ccirc;iuj</vrk>,
+        <bib>Monato</bib>
+        <lok>1998/09, p. 17</lok></fnt>;
       </ekz>
       <ekz>
-        sur la flugma&scirc;ino estis reklamataj produkta&jcirc;oj de tabakfirmao
+        sur la flugma&scirc;ino estis reklamataj produkta&jcirc;oj de tabak<tld var="a"/>o
         <fnt>
-          <bib>Monato</bib>
-          <aut>Last</aut>
-          <lok><url ref="http://steloj.de/esperanto/monato2/007181.html">http://steloj.de/esperanto/monato2/007181.html</url></lok>
-        </fnt>;
+          <aut>Laimius Stra&zcaron;nickas/pg</aut>
+            <vrk><url ref="&Monato;/2001/007181.php">(sen titolo)</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 10</lok>
+          </fnt>;
       </ekz>
       <ekz>
-        la bulgaraj firmaoj elspezis pli ol 8 milionojn da e&ubreve;roj por trans&scirc;ar&gcirc;igo de
+        la bulgaraj <tld var="a"/>oj elspezis pli ol 8 milionojn da e&ubreve;roj por trans&scirc;ar&gcirc;igo de
         varoj
         <fnt>
+       <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/006857.php">Danuba &scirc;iptrafiko paralizita</url></vrk>
           <bib>Monato</bib>
-          <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006857.html">Trafiko: Danuba &scirc;iptrafiko paralizita</url></vrk>
+          <lok>2000/03, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la registaro ne apogas la malgrandajn kaj mezgrandajn firmaojn kiel anta&ubreve;e
+        la registaro ne apogas la malgrandajn kaj mezgrandajn <tld var="a"/>ojn kiel anta&ubreve;e
         <fnt>
-          <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006858.html">Albanio: Diktaturo de impostoj</url></vrk>
+	<aut>Bardhyl Selimi Mezini</aut>
+	<vrk><url ref="&Monato;/2000/006858.php">Diktaturo de impostoj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/05, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
         la instalado plej konvene okazu helpe de iu satelite televida fak<tld/>o el via
         najbara&jcirc;o
         <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/1995/004358.html">Poloj per pelvo </url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9504-radio.txt">Radio</url></vrk>
-          <lok>95/04</lok>
+          <lok>1995/04, p. 17</lok>
         </fnt>;
       </ekz>
       <ekz>
-        publika akcifirmao
+        publika akci<tld var="a"/>o
         <fnt>
-          <bib>Monato</bib>
           <aut>Edmund Grimley Evans</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007132.html">Interreto: Interreto senpage</url></vrk>
-        </fnt>;
-      </ekz>
+            <vrk><url ref="&Monato;/2000/007132.html">Interreto senpage</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 23</lok>
+          </fnt>;
+          </ekz>
       <ekz>
         plej multaj retservoj simple revendas sub sia aparta nomo la
-        servon de pli granda ret- a&ubreve; telefon-firmao<fnt>
-        <aut>Edmund Grimley Evans</aut>: <vrk><url ref="http://esperanto.be/fel/mon/007132.html">Interreto
-        senpage</url></vrk>, <bib>Monato</bib><lok>jaro 2000a, numero 11a,
-        p. 23a</lok></fnt>.
+        servon de pli granda ret- a&ubreve; telefon-<tld var="a"/>o
+        <fnt>
+          <aut>Edmund Grimley Evans</aut>
+            <vrk><url ref="&Monato;/2000/007132.html">Interreto senpage</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 23</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
-       <ref cel="kompan.0o">kompanio</ref>,
-       <ref cel="entrep.0o.firmao">entrepreno<sncref/></ref>
+       <ref cel="kompan.0o">kompanio</ref>
     </refgrp>
     <trd lng="de">Unternehmen</trd>
     <trdgrp lng="en">
@@ -138,9 +151,10 @@
         jaroj ili disdonis en Londono flugfolion, en kiu ili akuzis
         <ctl>McDonalds</ctl> pri i.a. ses misfaroj
         <fnt>
-          <aut>P. Gubbins</aut>,
-          <vrk>Ne tiom ridos la kla&ubreve;no</vrk>, <bib>Monato</bib>
-          <lok>jaro 1997a, numero 8a, p. 8a</lok>
+          <aut>Paul Gubbins</aut>,
+          <vrk><url ref="&Monato;/1997/005664.html">Ne tiom ridos la kla&ubreve;no</url></vrk>,
+          <bib>Monato</bib>
+          <lok>1997/08, p. 8</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -155,17 +169,64 @@
   <rim>
      &leftquot;Firmao&rightquot; estas nun pli ofte uzata ol &leftquot;<tld/>o&rightquot;.
   </rim>
+  <trd lng="af">maatskappy</trd>
+  <trd lng="am">&#4777;&#4707;&#4757;&#4843;</trd>
+  <trd lng="ar">&a_sh;&a_r;&a_k;&a_t_marbuta;</trd>
+  <trd lng="az">&scedil;irk&#601;t</trd>
   <trdgrp lng="be">
     <trd>&c_f;&c_ib;&c_r;&c_m;&c_a;</trd>,
     <trd>&c_k;&c_a;&c_m;&c_p;&c_a;&c_n;&c_ib;&c_ja;</trd>,
     <trd>&c_p;&c_r;&c_a;&c_d;&c_p;&c_r;&c_y;&c_je;&c_m;&c_s;&c_t;&c_v;&c_a;</trd>
   </trdgrp>
+  <trd lng="bn">&#2453;&#2507;&#2478;&#2509;&#2474;&#2494;&#2472;&#2495;</trd>
+  <trd lng="bo">&t_tsha;&t_naro;&t_nga;&t_tsheg;&t_la;&t_sa;&t_tsheg;</trd>
+  <trd lng="bs">dru&scaron;tva</trd>
   <trdgrp lng="ca">
     <trd>firma</trd>,
     <trd>empresa</trd>,
     <trd>companyia</trd>
   </trdgrp>
+  <trd lng="co">cumpagnia</trd>
+  <trd lng="cy">cwmni</trd>
+  <trd lng="da">selskab</trd>
   <trd lng="de">Firma</trd>
+  <trd lng="et">ettev&otilde;te</trd>
+  <trd lng="eu">konpainia</trd>
+  <trd lng="fy">bedriuw</trd>
+  <trd lng="ga">cuideachta</trd>
+  <trd lng="gd">companaidh</trd>
+  <trd lng="gl">empresa</trd>
+  <trd lng="gu">&#2709;&#2690;&#2730;&#2728;&#2752;</trd>
+  <trd lng="hi">&#2325;&#2306;&#2346;&#2344;&#2368;</trd>
+  <trd lng="hmn">lub tuam txhab</trd>
+  <trd lng="hr">tvrtka</trd>
+  <trd lng="ht">konpayi</trd>
+  <trd lng="hy">&#1384;&#1398;&#1391;&#1381;&#1408;&#1400;&#1410;&#1385;&#1397;&#1400;&#1410;&#1398;&#1384;</trd>
+  <trd lng="ig">&#7909;l&#7885; &#7885;r&#7909;</trd>
+  <trd lng="is">fyrirt&aelig;ki</trd>
+  <trd lng="ja">&#20250;&#31038; [<ind>&#12363;&#12356;&#12375;&#12419;</ind>]</trd>
+  <trd lng="jv">perusahaan</trd>
+  <trd lng="ka">&#4313;&#4317;&#4315;&#4318;&#4304;&#4316;&#4312;&#4304;</trd>
+  <trd lng="kk">&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="km">&#6016;&#6098;&#6042;&#6075;&#6040;&#6048;&#6090;&#6075;&#6035;</trd>
+  <trd lng="kn">&#3221;&#3202;&#3242;&#3240;&#3263;</trd>
+  <trd lng="ko">&#54924;&#49324;</trd>
+  <trd lng="ku">&scedil;&icirc;rket</trd>
+  <trd lng="ky">&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="lat">comitatu</trd>
+  <trd lng="lo">&#3738;&#3789;&#3749;&#3764;&#3754;&#3761;&#3732;</trd>
+  <trd lng="lt">&#303;mon&#279;</trd>
+  <trd lng="lv">uz&#5654;&#5603;mums</trd>
+  <trd lng="mg">orinasa</trd>
+  <trd lng="mi">kamupene</trd>
+  <trd lng="mk">&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&#1112;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ml">&#3384;&#3330;&#3352;&#3330;</trd>
+  <trd lng="mn">&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i; &c_n;&c_mol;</trd>
+  <trd lng="mr">&#2325;&#2306;&#2346;&#2344;&#2368;</trd>
+  <trd lng="ms">syarikat</trd>
+  <trd lng="mt">kumpanija</trd>
+  <trd lng="my">&#4096;&#4143;&#4121;&#4153;&#4117;&#4111;&#4142;</trd>
+  <trd lng="ne">&#2325;&#2350;&#2381;&#2346;&#2344;&#2368;</trd>
   <trdgrp lng="nl">
     <trd>firma</trd>,
     <trd>bedrijf</trd>,
@@ -175,6 +236,9 @@
     <trd>firma</trd>,
     <trd>bedrift</trd>
   </trdgrp>
+  <trd lng="ny">kampani</trd>
+  <trd lng="pa">&#2581;&#2672;&#2602;&#2600;&#2624; &#2600;&#2631;</trd>
+  <trd lng="ps">&a_sh;&a_r;&f_k;&a_t;</trd>
   <trdgrp lng="pt">
     <trd>firma</trd>,
     <trd>casa <klr tip="amb">(comercial)</klr></trd>,
@@ -186,12 +250,37 @@
     <trd>&c_f;&c_i;&c_r;&c_m;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_d;&c_p;&c_r;&c_i;&c_ja;&c_t;&c_i;&c_je;</trd>
   </trdgrp>
+  <trd lng="rw">sosiyete</trd>
+  <trd lng="sd">&#1706;&a_m;&f_p;&a_n;&a_y;</trd>
+  <trd lng="si">&#3523;&#3512;&#3535;&#3484;&#3512;</trd>
   <trd lng="sk">firma</trd>
   <trd lng="cs">firma</trd>
+  <trd lng="sl">podjetje</trd>
+  <trd lng="sm">kamupani</trd>
+  <trd lng="sn">kambani</trd>
+  <trd lng="so">shirkadda</trd>
+  <trd lng="sq">kompania</trd>
+  <trd lng="st">khampani</trd>
+  <trd lng="su">pausahaan</trd>
+  <trd lng="sw">kampuni</trd>
+  <trd lng="ta">&#2984;&#3007;&#2993;&#3009;&#2997;&#2985;&#2990;&#3021;</trd>
+  <trd lng="te">&#3128;&#3074;&#3128;&#3149;&#3109;</trd>
+  <trd lng="tg">&c_sh;&c_i;&c_r;&c_k;&c_a;&c_t;</trd>
+  <trd lng="th">&#3610;&#3619;&#3636;&#3625;&#3633;&#3607;</trd>
+  <trd lng="tl">kompanya</trd>
+  <trd lng="tt">&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_i;&c_ja;&c_s;&c_je;</trd>
+  <trd lng="uk">&c_k;&c_o;&c_m;&c_p;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  <trd lng="ur">&f_k;&a_m;&f_p;&a_n;&f_y;</trd>
+  <trd lng="uz">kompaniya</trd>
+  <trd lng="vi">c&ocirc;ng ty</trd>
+  <trd lng="xh">inkampani</trd>
+  <trd lng="yi">&pe;&yod;&resh;&mem;&ayin;</trd>
+  <trd lng="yo">ile</trd>
+  <trd lng="zu">yenkampani</trd>
 </drv>
 
 <drv mrk="firm1.0eto">
-  <kap><tld/>eto, <var><kap>etfirmao</kap></var></kap>
+  <kap><tld/>eto, <var><kap>et<tld var="a"/>o</kap></var></kap>
   <snc mrk="firm1.0eto.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
@@ -203,17 +292,21 @@
         kiu fidis je la esperantistaro kreante tiun
         produkton
         <fnt>
-          <aut>P. Peeraerts, B. Demeyere</aut>,
-          <vrk>Windows/Ni levu la &ccirc;apelon! (&Ccirc;apelilo)</vrk>,
+          <aut>Pa&ubreve;l Peeraerts, Bart Demeyere</aut>,
+          <vrk><url ref="&Monato;/2001/004560.php">Windows/Ni levu la &ccirc;apelon!
+          (&Ccirc;apelilo)</url></vrk>,
           <bib>Monato</bib>,
-          <lok>jaro 1995a, numero 5a, p. 16a</lok>
+          <lok>1995/05, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la etfirmaoj, kiu fakte faras la laboron<fnt><aut>Paul
-        Gubbins</aut>: <vrk><url ref="http://esperanto.be/fel/mon/007260.html">Politiko
+        la et<tld var="a"/>oj, kiu fakte faras la laboron<fnt>
+        <aut>Paul
+        Gubbins</aut>:
+        <vrk><url ref="&Monato;/2001/007260.php">Politiko
         elreligita</url></vrk>,
-        <bib>Monato</bib><lok>jaro 2001a, numero 2a, p. 6a</lok></fnt>.
+        <bib>Monato</bib>
+        <lok>2001/02, p. 6</lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -246,21 +339,21 @@
   </trd>
 </drv>
 
-
 <drv mrk="firm1.ek0o">
-  <kap>ek<tld/>o, <var><kap>ekfirmao</kap></var></kap>
+  <kap>ek<tld/>o, <var><kap>ek<tld var="a"/>o</kap></var></kap>
   <snc mrk="firm1.ek0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
       <ref tip="dif" cel="firm1.0eto">Firmeto</ref> nove kreita kaj tre
       rapide kreskanta:
       <ekz>
-        <nom>Uber</nom> sekvas la poststrion de pli modestaj ekfirmaoj;
+        <nom>Uber</nom> sekvas la poststrion de pli modestaj ek<tld var="a"/>oj;
       </ekz>
       <ekz>
         mi &ccirc;eestas intervjuon kun posedanto de ek<tld/>ao
         <fnt>
-          <vrk><url ref="https://www.youtube.com/watch?v=KoDzkKHbGH8">Evildea portas amorvekan smokingon</url></vrk>
+          <vrk><url ref="https://www.youtube.com/watch?v=KoDzkKHbGH8">Evildea portas amorvekan
+          smokingon</url></vrk>
           <lok>Jutubo</lok>
         </fnt>.
       </ekz>
@@ -276,29 +369,32 @@
     <trd>start-up</trd>,
     <trd>jeune pousse</trd>
   </trdgrp>
-</drv> 
+</drv>
 
 </art>
 <!--
 $Log$
-Revision 1.24  2018/11/17 18:10:17  revo
-Michel Cantigneaux: Tiu firm/o ne estas radiko de U.V., sed firm/a
+versio 1.115 2023/08/29 12:44:47
+Wolfram Diestel: ja: +prononco
 
-Revision 1.23  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.114 2023/05/12 17:27:00
+Paul Peeraerts: + lok +url
 
-Revision 1.22  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.113 2023/04/30 08:29:07
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.21  2014/11/23 21:10:29  revo
-Filip van Laenen: +trd(no,nl)
+versio 1.112 2023/04/25 05:28:03
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.20  2011/12/07 12:10:10  revo
-Marc Rausell: kataluna traduko
+versio 1.111 2023/04/23 14:26:47
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.19  2010/11/12 17:30:17  revo
-Jeromo Vasxe: + ekz
+versio 1.110 2023/04/23 13:27:41
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.18  2009/08/18 19:18:55  revo
+versio 1.109 2023/04/12 15:27:29
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.108 2023/04/11 14:27:48
 -->
 </vortaro>

@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: aniz.xml,v 1.21 2009/06/20 18:00:59 revo Exp $">
+<art mrk="$Id: aniz.xml,v 1.35 2023/08/30 18:23:34 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>aniz</rad>/o
 </kap>
 <drv mrk="aniz.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
-  <snc>
-  <uzo tip="fak">KUI</uzo>
+  <snc mrk="aniz.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
     <dif>
       Frukto de <ref tip="malprt" cel="aniz.0ujo"><tld/>ujo</ref>, uzata
       kiel <ref tip="lst" cel="spic.0o" lst="voko:spicoj">spico</ref>
-      kaj por fabriki likvorojn:
+      kaj por fari likvorojn:
       <ekz>
         vi pagas dekona&jcirc;ojn de mento kaj de <tld/>o kaj de kumino
         <fnt>
           <bib>NT</bib>
-          <lok>Mateo 23:23</lok>
+          <lok>&Mat; 23:23</lok>
         </fnt>;
       </ekz>
       <ekz>
-        ili vendadis plej diversajn spicojn, kiel ekzemple safranon, <tld/>on, zingibron kaj precipe pipron
+        ili vendadis plej diversajn spicojn, kiel ekzemple safranon, <tld/>on, zingibron kaj precipe
+        pipron
         <fnt>
           <bib>Fab3</bib>
           <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok>
@@ -34,9 +34,10 @@
         a&ubreve; &leftquot;grion&rightquot; (en kiu enestis i.a. miriko, rosmareno, koriandro, junipero,
         cinamo, <tld/>o, kariofilo, salvio, la&ubreve;ro)
         <fnt>
+          <aut>Lode Van de Velde</aut>
+          <vrk><url ref="&Monato;/2001/007144.php">Bierlando Belgio</url></vrk>
           <bib>Monato</bib>
-          <aut>Lode van de Velde</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007144.html">Bierlando Belgio</url></vrk>
+          <lok>2001/01, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -51,8 +52,10 @@
     <trd>&a_r;&a_A;&a_z;&f_y;&a_A;&a_n;&a_h;&a_hamza_sure; &a_r;&a_w;&a_m;&f_y;</trd>&a_komo;
     <trd>&a_A;&a_n;&f_y;&a_s;&a_w;&a_n;</trd>
   </trdgrp>
-  <trd lng="fr">anis</trd>
+  <trd lng="fr">anis<klr> (graine)</klr></trd>
+  <trd lng="he">&alef;&nun;&yod;&samekh;</trd>
   <trd lng="hu">&aacute;nizs</trd>
+  <trd lng="ja">&#x30A2;&#x30CB;&#x30B9;&#x306E;&#x5B9F;  [<ind>&#x30A2;&#x30CB;&#x30B9;&#x306E;&#x307F;</ind>]</trd>
   <trd lng="nl">anijs</trd>
   <trd lng="pt">anis</trd>
   <trd lng="ru">&c_a;&c_n;&c_i;&c_s;</trd>
@@ -61,12 +64,16 @@
     <trd>an&iacute;z <klr>(rastlina, semen&aacute;)</klr></trd>
   </trdgrp>
   <trd lng="sv">anis</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_a;&c_n;&c_u;&c_s;</trd>,
+    <trd>&c_a;&c_n;&c_ib;&c_s;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="aniz.0ujo">
   <kap><tld/>ujo</kap>
-  <snc>
-  <uzo tip="fak">BOT</uzo>
+  <snc mrk="aniz.0ujo.BOT">
+    <uzo tip="fak">BOT</uzo>
     <dif>
       Specio de <ref tip="super" cel="pimpin.0o">pimpinelo</ref>
       (<trd lng="la">Pimpinella anisum</trd>), aroma herbo similanta
@@ -82,7 +89,8 @@
     <trd>&a_r;&a_A;&a_z;&f_y;&a_A;&a_n;&a_h;&a_hamza_sure;&zwnj; &a_r;&a_w;&a_m;&f_y;</trd>&a_komo;
     <trd>&a_A;&a_n;&f_y;&a_s;&a_w;&a_n;</trd>
   </trdgrp>
-  <trd lng="fr">badiane</trd>
+  <trd lng="fr">anis<klr> (plante)</klr></trd>
+  <trd lng="he">&kaf;&mem;&nun;&vav;&fnun;</trd>
   <trdgrp lng="hu">
     <trd>&aacute;nizs <klr>(n&ouml;v&eacute;ny)</klr></trd>,
     <trd>illatos <ind>angyalgy&ouml;k&eacute;r</ind></trd>,
@@ -90,9 +98,9 @@
     <ind>angyalgy&ouml;k&eacute;r</ind></trd>,
     <trd>f&udblac;szerangyalgy&ouml;k&eacute;r</trd>
   </trdgrp>
+  <trd lng="ja">&#x30A2;&#x30CB;&#x30B9;</trd>
   <trd lng="nl">anijs</trd>
-  <trd lng="ru">&c_a;&c_n;&c_i;&c_s; <klr
-  tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="ru">&c_a;&c_n;&c_i;&c_s; <klr tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
   <trdgrp lng="sk">
     <trd>an&iacute;z <klr>(rastlina)</klr></trd>,
     <trd>an&iacute;z <klr>(strom)</klr></trd>
@@ -102,14 +110,14 @@
 
 <drv mrk="aniz.stel0o">
   <kap>stel<tld/>o</kap>
-  <snc>
-  <uzo tip="fak">KUI</uzo>
+  <snc mrk="aniz.stel0o.KUI">
+    <uzo tip="fak">KUI</uzo>
     <dif>
       Stelforma <ref tip="super" cel="frukt.0o.BOT">frukto</ref> de unu specio de
       <ref tip="malprt" cel="ilici.0o">ilicio</ref>
       uzata kiel <ref tip="super" cel="spic.0o">spico</ref>.
       <ekz>
-        safrolo nature trov<klr>[i&gcirc;]</klr>as anka&ubreve; en zingibro <klr>[&#8230;]</klr> a&ubreve; stel<tld/>o
+        safrolo nature trov<klr>[i&gcirc;]</klr>as anka&ubreve; en zingibro <klr>[&#x2026;]</klr> a&ubreve; stel<tld/>o
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=592220">Safrolo</url></lok>
@@ -122,7 +130,10 @@
   <trd lng="de">Sternanis</trd>
   <trd lng="en">star anise</trd>
   <trd lng="fa">&a_b;&a_A;&a_d;&f_y;&a_A;&a_n;</trd>
-  <trd lng="fr">anis &eacute;toil&eacute;</trd>
+  <trdgrp lng="fr">
+    <trd>anis &eacute;toil&eacute;</trd>,
+    <trd>badiane chinoise</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>csillag&aacute;nizs</trd>,
     <trd>csillagos <ind>&aacute;nizs</ind></trd>
@@ -134,10 +145,23 @@
     <trd>&c_b;&c_a;&c_d;&c_mol;&c_ja;&c_n;</trd>
   </trdgrp>
   <trd lng="sk">padi&aacute;n</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_o;&c_d;&c_ja;&c_n;</trd>,
+    <trd>&c_z;&c_ib;&c_r;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_j; &c_a;&c_n;&c_ib;&c_s;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.34 2023/04/14 05:27:08
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.33 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.32 2022/04/24 21:26:06
+Jeromo Vasxe: kor. trd fr
+
 Revision 1.27  2018/05/26 08:10:13  revo
 Joop Eggen: +trd bg
 
@@ -151,11 +175,5 @@ Revision 1.24  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.23  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.22  2013/08/27 15:10:15  revo
-Wolfram Diestel: referenco al listo spicoj
-
-Revision 1.21  2009/06/20 18:00:59  revo
 -->
 </vortaro>

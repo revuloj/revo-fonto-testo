@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: konduk3.xml,v 1.7 2009/09/05 16:31:24 revo Exp $">
+<art mrk="$Id: konduk3.xml,v 1.17 2023/09/01 15:46:42 revo Exp $">
 <kap>
   <rad>kondukt</rad>/i
 </kap>
@@ -12,17 +11,45 @@
   <uzo tip="fak">ELE</uzo>
   <fnt><bib>PIV1</bib></fnt>
   <snc>
-    <ref tip="dif" cel="konduk.0i.FIZ_ELE">konduki</ref>
+    <dif>
+      <ref tip="dif" cel="konduk.0i.FIZ_ELE">Konduki<sncref/></ref>:
+      <ekz>
+        ni vidis rostitan turfalkon en masto de alttensia <tld/>lineo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter, Renate, Irene, Stefan Klag</aut>
+          <vrk><url ref="&Monato;/2007/009167.php">Birdo de la jaro</url></vrk>
+          <lok>2007</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de TAP, trapasos Albanion, ebligante provizadon per natura gaso de
+        Montenegro, Bosnio-Hercegovino, Makedonio, Kroatio kaj eventuale Serbio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2013/010879.php">TAP: projekto por sud-e&ubreve;ropa
+          gaskoridoro</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>b&yacute;t vodiv&yacute;</trd>,
     <trd>vodit <klr>(el., fyz.)</klr></trd>,
     <trd>v&eacute;st</trd>
   </trdgrp>
+  <trd lng="de">leiten <klr>(Phys.)</klr></trd>
   <trd lng="en">to conduct</trd>
   <trdgrp lng="fr">
     <trd>conduire<klr tip="ind"> (phys.)</klr></trd>,
     <trd>&ecirc;tre <ind>conducteur</ind> (de)</trd>,
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F1D;&#x5C0E;&#x3059;&#x308B;  [<ind>&#x3067;&#x3093;&#x3069;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x4F1D;&#x3048;&#x308B;  [<ind>&#x3064;&#x305F;&#x3048;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">geleiden<klr tip="ind"> (fys.)</klr></trd>
   <trd lng="pl">przewodzi&cacute;</trd>     
@@ -39,11 +66,23 @@
   <uzo tip="fak">ELE</uzo>
   <fnt><bib>PIV1</bib></fnt>
   <snc>
-    <ref tip="dif" cel="konduk.0anto.FIZ_ELE">kondukanto</ref>
+    <dif>
+      <ref tip="dif" cel="konduk.0anto.FIZ_ELE">Kondukanto</ref>:
+      <ekz>
+        <tld/>anto <klr>[&#x2026;]</klr> povas akcepti la alvenantajn elektronojn
+        <fnt>
+          <vrk><url ref="&STEB;vortaroj/elektrofaka-terminaro.pdf">Elektrofaka Klariga Terminaro -
+          Eventoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
   <trd lng="cs">vodi&ccaron;</trd>
+  <trd lng="de">Leiter <klr>(Phys.)</klr></trd>
   <trd lng="en">conductor</trd>
   <trd lng="fr">conducteur<klr tip="ind"> (subst., phys.)</klr></trd>
+  <trd lng="ja">&#x5C0E;&#x4F53;  [<ind>&#x3069;&#x3046;&#x305F;&#x3044;</ind>]</trd>
   <trd lng="nl">geleider<klr tip="ind"> (fys.)</klr></trd>
   <trd lng="pl">przewodz&aogonek;cy</trd>     
   <trd lng="ro">conducere</trd>
@@ -53,12 +92,23 @@
 <drv mrk="konduk3.0eco">
   <kap><tld/>eco</kap>
   <uzo tip="fak">ELE</uzo>
+  <uzo tip="fak">FIZ</uzo>
   <fnt><bib>PIV1</bib></fnt>
   <uzo tip="stl">ARK</uzo>
   <snc>
-    <ref tip="dif" cel="konduk4.0o.grando">konduktivo</ref>
+    <dif>
+      <ref tip="dif" cel="konduk4.0o.grando">Konduktivo</ref>:
+      <ekz>
+        la termika <tld/>eco de betonbloko valoras 0,9 W/m&middot;K
+        <fnt>
+          <vrk><url ref="&Viki;/Betonbloko">Betonbloko - Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="cs">vodivost</trd>
+  <trd lng="de">Leitf&auml;higkeit</trd>
   <trd lng="en">conduction</trd>
   <trd lng="nl">geleidbaarheid<klr tip="ind"> (arch.)</klr></trd>
   <trdgrp lng="pl">
@@ -79,6 +129,11 @@
       <ref cel="konduk.0i.FIZ_ELE">Kondukanta</ref> elektron.
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ja;&c_ch;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">leitend <klr>(Phys.)</klr></trd>
   <trd lng="en">conducting</trd>
   <trd lng="nl">geleidbaar<klr tip="ind"> (arch.)</klr></trd>
 </drv>
@@ -89,9 +144,28 @@
   <fnt><bib>ScTerm</bib><lok>p. 34</lok></fnt>
   <fnt><bib>PIV1</bib></fnt>
   <snc>
-    <ref tip="dif" cel="konduk.0ilo.ELE">kondukilo</ref>
+    <dif>
+      <ref tip="dif" cel="konduk.0ilo.ELE">Kondukilo</ref>:
+      <ekz>
+        kiam la lampo varmi&gcirc;as, la filamentoj i&gcirc;as pli fortaj <tld/>iloj male al la
+        aktualaj, kiuj perdas potencon kiam ili varmi&gcirc;as
+        <fnt>
+          <vrk><url ref="&Tekstaro;?nomo=kontakto-2011-2019">La centjara
+          lampo</url></vrk>
+          <lok>Kontakto 2011-2019</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
   <trd lng="cs">vodi&ccaron;</trd>
+  <trdgrp lng="de">
+    <trd>Leitung</trd>,
+    <trd>Stromleitung</trd>,
+    <trd>Kabel</trd>,
+    <trd>Stromkabel</trd>,
+    <trd>Leiter</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>conductor cable</trd>,
     <trd>conductor</trd>
@@ -100,6 +174,7 @@
     <trd>conducteur<klr tip="ind"> (fil &eacute;lectrique)</klr></trd>,
     <trd>fil &eacute;lectrique</trd>
   </trdgrp>
+  <trd lng="ja">&#x5C0E;&#x7DDA;  [<ind>&#x3069;&#x3046;&#x305B;&#x3093;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>kabel</trd>,
     <trd>snoer</trd>
@@ -116,13 +191,31 @@
   <uzo tip="fak">ELE</uzo>
   <fnt><bib>PIV2</bib></fnt>
   <snc>
-    <ref tip="dif" cel="konduk.duon0anto">duonkondukanto</ref>
+    <dif>
+      <ref tip="dif" cel="konduk.duon0anto">duonkondukanto</ref>:
+      <ekz>
+        duon<tld/>anto GaAs
+        <fnt>
+          <vrk><url ref="&Viki;/Arseno">Arseno - Vikipedio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        duon<tld/>anto konvertas la signalon al kontinua kurento, kiu
+        <klr>[&#x2026;]</klr> povas &scirc;argi bateriojn
+        <fnt>
+          <vrk><url ref="https://www.libe.slikom.info/Esperanta%20ligilo/2019/Esperanta%20Ligilo,%20N-ro%204,%202019.htm">www.libe.slikom.info</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_w;&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="de">Halbleiter</trd>
   <trd lng="en">semiconductor</trd>
   <trdgrp lng="fr">
     <trd>semi-conducteur<klr tip="ind"> (subst.)</klr></trd>,
     <trd>semiconducteur<klr tip="ind"> (subst.)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x534A;&#x5C0E;&#x4F53;  [<ind>&#x306F;&#x3093;&#x3069;&#x3046;&#x305F;&#x3044;</ind>]</trd>
   <trd lng="nl">halfgeleider</trd>
   <trd lng="pl">p&oacute;&lstroke;przewodnik</trd>     
   <trd lng="ro">semiconductor</trd>
@@ -134,13 +227,32 @@
   <uzo tip="fak">ELE</uzo>
   <fnt><bib>PIV2</bib></fnt>
   <snc>
-    <ref tip="dif" cel="konduk.super0anto">superkondukanto</ref>
+    <dif>
+      <ref tip="dif" cel="konduk.super0anto">Superkondukanto</ref>:
+      <ekz>
+        tiuj magnete levitaj veturiloj (t.n. maglevo) uzos altiran kaj forpu&scirc;an fortojn
+        kreatajn de super-<tld/>anta magneto en la vagonoj kun induktaj bobenoj sur
+        la gvidaj vojmuroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2014/011390.php">E&ccirc; pli rapide</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
+  <trd lng="be">&c_z;&c_v;&c_y;&c_sh;&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
   <trd lng="cs">supervodi&ccaron;</trd>
+  <trd lng="de">Supraleiter</trd>
   <trd lng="en">superconductor</trd>
   <trdgrp lng="fr">
     <trd>supraconducteur<klr tip="ind"> (subst.)</klr></trd>,
     <trd>superconducteur<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8D85;&#x4F1D;&#x5C0E;&#x4F53;  [<ind>&#x3061;&#x3087;&#x3046;&#x3067;&#x3093;&#x3069;&#x3046;&#x305F;&#x3044;</ind>]</trd>,
+    <trd>&#x8D85;&#x96FB;&#x5C0E;&#x4F53;  [<ind>&#x3061;&#x3087;&#x3046;&#x3067;&#x3093;&#x3069;&#x3046;&#x305F;&#x3044;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">supergeleider</trd>
   <trd lng="pl">nadprzewodnik</trd>     
@@ -151,6 +263,21 @@
 
 <!--
 $Log$
+versio 1.16 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
+versio 1.15 2023/03/03 07:28:03
+Dmitri Gabinski: + trd be
+
+versio 1.14 2022/11/09 21:32:45
+Ulrich Fellmann: konduktilo: +4 DE trdj
+
+versio 1.13 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.12 2021/02/07 10:36:37
+Wolfram Diestel: +ekz-oj, germ trd
+
 Revision 1.10  2015/11/03 18:10:15  revo
 Cindy Moon McKee: +trd en
 
@@ -158,17 +285,5 @@ Revision 1.9  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.8  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.7  2009/09/05 16:31:24  revo
-Paul Peeraerts: +nl
-
-Revision 1.6  2005/05/28 16:32:27  revo
-Marc Bavant: kor ref cel al konduki
-
-Revision 1.5  2005/05/20 16:35:16  revo
-Marc Bavant: mod ref cel al konduk
-
-Revision 1.4  2005/05/02 16:31:18  revo
 -->
 </vortaro>

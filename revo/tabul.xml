@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tabul.xml,v 1.68 2023/09/04 17:49:38 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tabul</rad>/o <fnt><bib>PV</bib></fnt>
@@ -13,7 +12,7 @@
     <dif>
       Plata, ne tre dika, peco el ligno a&ubreve; el alia malmola materialo:
       <ekz>
-        tiu homo <klr>[&#8230;]</klr> sidis sur la tero, kun la manoj kaj
+        tiu homo <klr>[&#x2026;]</klr> sidis sur la tero, kun la manoj kaj
         piedoj 
         en kvar truoj de kvadrata <tld/>o, anstata&ubreve;anta katenojn
         <fnt>
@@ -63,7 +62,7 @@
           <ekz>
             li konstruis la murojn de la domo interne el cedraj <tld/>oj
             
-            <klr>[&#8230;]</klr> kaj li kovris la plankon de la
+            <klr>[&#x2026;]</klr> kaj li kovris la plankon de la
             
             domo per
             cipresaj <tld/>oj
@@ -115,7 +114,7 @@
             </fnt>;
           </ekz>
           <ekz>
-            ili <klr>[&#8230;]</klr> marteladis per la tran&ccirc;ilo a&ubreve; per osto 
+            ili <klr>[&#x2026;]</klr> marteladis per la tran&ccirc;ilo a&ubreve; per osto 
             sur la <tld/>o de la tablo, tiel ke regis terura bruo
             <fnt>
               <bib>Fab4</bib>
@@ -131,14 +130,12 @@
             </fnt>;
           </ekz>
           <ekz>
-            la modeloj de la <tld/>tega&jcirc;o <klr>(vd <ref tip="vid"
-            cel="tegol.0o">tegolo</ref>)</klr>
+            la modeloj de la <tld/>tega&jcirc;o <klr>(vd <ref tip="vid" cel="tegol.0o">tegolo</ref>)</klr>
             kaj fenestroj malka&scirc;as la konstrutempon
             <fnt>
               <bib>Monato</bib>
               <aut>Saliko</aut>
-              <vrk><url
-              ref="&Monato;/2014/011095.php">Tammisaari,
+              <vrk><url ref="&Monato;/2014/011095.php">Tammisaari,
               urbeto &ccirc;e Balta Maro</url></vrk>
             </fnt>.
           </ekz>
@@ -204,20 +201,20 @@
             oni povas promenante apud &gcirc;i trovi sur <tld/>oj la kialojn
             de la kanalo: provizi la ebena&jcirc;on per akvo
             <fnt>
-              <bib>Monato</bib>
-              <vrk><url
-              ref="http://steloj.de/esperanto/monato2/006917.html">A&ubreve;strio:
-              &Ccirc;u ri-vere kanalo?</url></vrk>
-            </fnt>;
+	<aut>Walter Klag</aut>
+	<vrk><url ref="&Monato;/2000/006917.php">&Ccirc;u ri-vere kanalo?</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 24</lok>
+        </fnt>;
           </ekz>
           <ekz>
             la skrib<tld/>oj de Paskinsulo
             <fnt>
-              <bib>Monato</bib>
-              <vrk><url
-              ref="http://steloj.de/esperanto/monato2/007315.html">De&ccirc;ifrado
-              de la paskinsula skribo</url></vrk>
-            </fnt>;
+	<aut>Rudiger Hauger</aut>
+	<vrk><url ref="&Monato;/2001/007315.php">De&ccirc;ifrado de la paskinsula skribo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/02, p. 23</lok>
+        </fnt>;
           </ekz>
           <ekz>
             <uzo tip="fak">KOMP</uzo>
@@ -225,8 +222,7 @@
             <fnt>
               <bib>Monato</bib>
               <aut>Edmund Grimley Evans</aut>
-              <vrk><url
-              ref="&Monato;/2012/010794.php">Distra kaj
+              <vrk><url ref="&Monato;/2012/010794.php">Distra kaj
               kleriga vortaro</url></vrk>
             </fnt>.
             <trd lng="de">Tabletcomputer</trd>
@@ -249,21 +245,19 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Lena Karpunina</aut>
-            <vrk><url
-            ref="https://www.monato.be/2004/008350.html">Tiu
+            <vrk><url ref="&Monato;/2004/008350.html">Tiu
             tago</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
           homriveroj pasadis sur la stratoj de amba&ubreve; urboj, tenante
           supre abundon 
-          da afi&scirc;<tld/>oj kun bunta enhavo: &leftquot;Rezistu militon&#8221;, &leftquot;Homoj
-          pli ol mono&#8221; <klr>[&#8230;]</klr>
+          da afi&scirc;<tld/>oj kun bunta enhavo: &leftquot;Rezistu militon&#x201D;, &leftquot;Homoj
+          pli ol mono&#x201D; <klr>[&#x2026;]</klr>
           <fnt>
             <bib>Monato</bib>
             <aut>Claude Piron</aut>
-            <vrk><url
-            ref="https://www.monato.be/2003/008141.html">Francio
+            <vrk><url ref="&Monato;/2003/008141.html">Francio
             invitas, Svislando suferas</url></vrk>
           </fnt>.
         </ekz>
@@ -283,12 +277,11 @@
         <ekz>
           dam-<tld/>o
           <fnt>
-            <bib>Monato</bib>
-            <aut>S. Maul</aut>
-            <vrk><url
-            ref="http://steloj.de/esperanto/monato2/006831.html">La&ubreve;
-            ritmo de la rizejoj</url></vrk>
-          </fnt>.
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/02, p. 18</lok>
+        </fnt>.
         </ekz>
       </dif>
     </subsnc>
@@ -305,7 +298,9 @@
       <trd>taula</trd>,
       <trd>tauler, post</trd>
     </trdgrp>
-    <trd lng="en">plank</trd>
+    <trdgrp lng="en">
+        <trd>board</trd>
+    </trdgrp>
     <trd lng="es">tabla</trd>
     <trdgrp lng="fr">
         <trd>panneau</trd>,
@@ -347,11 +342,17 @@
     <trd>Brett</trd>,
     <trd>Schindel <klr>(flache)</klr></trd>
   </trdgrp>
+  <trd lng="en">board</trd>
+  <trdgrp lng="ja">
+    <trd>&#x677F;  [<ind>&#x3044;&#x305F;</ind>]</trd>,
+    <trd>&#x76E4;  [<ind>&#x3070;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>mal&aacute; tabu&lcaron;a</trd>,
     <trd>voskov&aacute; tabu&lcaron;a <klr>(na p&iacute;sanie)</klr>
     (hist.)</trd>
   </trdgrp>
+  <trd lng="uk">&c_d;&c_o;&c_sh;&c_k;&c_a;</trd>
 </drv>
 
 <drv mrk="tabul.0ajxo">
@@ -376,8 +377,7 @@
         kaj Blua salonoj estas certe vidindaj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=82265">Lednice</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=82265">Lednice</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -391,13 +391,19 @@
   <trd lng="be">&c_d;&c_a;&c_sh;&c_ch;&c_a;&c_n;&c_y;
   &c_v;&c_y;&c_r;&c_a;&c_b;</trd>
   <trd lng="ca">entaulat</trd>
+  <trdgrp lng="en">
+    <trd>panelling</trd>,
+    <trd>cladding</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>deszk&aacute;zat</trd>,
     <trd>t&aacute;blaburkolat</trd>,
     <trd>faburkolat</trd>
   </trdgrp>
+  <trd lng="ja">&#x677F;&#x5F35;&#x308A;  [<ind>&#x3044;&#x305F;&#x3070;&#x308A;</ind>]</trd>
   <trd lng="pl">deskowanie</trd>
   <trd lng="pt">entabuamento</trd>
+  <trd lng="uk">&c_o;&c_b;&c_sh;&c_i;&c_v;&c_k;&c_a;</trd>
 </drv>
 
 <drv mrk="tabul.0eto">
@@ -407,7 +413,7 @@
       Malgranda <tld/>o por konstruado ks:
       <ekz>
         la kvarjara nepeto kunmetas sur la planko lignajn <tld/>etojn
-        <klr>[&#8230;]</klr> &leftquot;Mi faras trogeton&rightquot; <klr>[&#8230;]</klr>
+        <klr>[&#x2026;]</klr> &leftquot;Mi faras trogeton&rightquot; <klr>[&#x2026;]</klr>
         <fnt><bib>ElektFab</bib>, <lok>Maljuna avo kaj nepo</lok></fnt>;
       </ekz>
       <ekz>
@@ -430,8 +436,7 @@
   </snc>
   <snc mrk="tabul.0eto.skribtabulo">
     <dif>
-      <ref tip="dif" cel="tabul.skrib0o">Skribtabulo</ref> a&ubreve; <ref
-      tip="dif" cel="sxild.0o.KOMUNE">&scirc;ildo<sncref/></ref>:
+      <ref tip="dif" cel="tabul.skrib0o">Skribtabulo</ref> a&ubreve; <ref tip="dif" cel="sxild.0o.KOMUNE">&scirc;ildo<sncref/></ref>:
       <ekz>
         faru <tld/>eton el pura oro, kaj gravuru sur &gcirc;i en sigelila
         maniero: SANKTA AL LA ETERNULO 
@@ -491,12 +496,24 @@
       <trd>Schildchen</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_d;&c_o;&c_sh;&c_ch;&c_a;&c_ch;&c_k;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>seznam</trd>,
     <trd>tabulka</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>board</trd>,
+    <trd>slab</trd>,
+    <trd>tablet</trd>,
+    <trd>bar (ex.</trd>,
+    <trd>chocolate)</trd>
+  </trdgrp>
   <trd lng="fr">tablette</trd>
   <trd lng="id">tablet</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x677F;  [<ind>&#x3053;&#x3044;&#x305F;</ind>]</trd>,
+    <trd>&#x66F8;&#x5B57;&#x677F;  [<ind>&#x3057;&#x3087;&#x3042;&#x3056;&#x3044;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">plankje</trd>
   <trdgrp lng="pl">
     <trd>deseczka</trd>,
@@ -512,6 +529,11 @@
     <trd>voskov&aacute; tabu&lcaron;a <klr>(na p&iacute;sanie)</klr>
     (hist.)</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_shch;&c_je;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_s;&c_t;&c_i;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_l;&c_i;&c_t;&c_k;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tabul.anonc0o">
@@ -526,8 +548,7 @@
         <fnt>
         <aut>A. Grigorjevskij</aut>,
         <vrk>La informoj de la dua bulteno en la reto</vrk>,
-        <lok><url
-        ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+        <lok><url ref="&SCE;">
         soc.culture.esperanto</url>, 2004-02-26</lok>
         </fnt>;
       </ekz>
@@ -536,8 +557,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lena Karpunina</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008350.html">Tiu
+          <vrk><url ref="&Monato;/2004/008350.html">Tiu
           tago</url></vrk>
         </fnt>;
       </ekz>
@@ -547,8 +567,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url
-          ref="&Monato;/2006/008817.php">Laborforto
+          <vrk><url ref="&Monato;/2006/008817.php">Laborforto
           mankas</url></vrk>
         </fnt>.
       </ekz>
@@ -563,16 +582,20 @@
       <trd>Pinnwand</trd>
     </trdgrp>
   </snc>
-  <trd lng="be">&c_d;&c_o;&c_sh;&c_k;&c_a;
-  &c_a;&c_b;&#8217;&c_ja;&c_v;&c_a;&c_w;</trd>
+  <trd lng="be">&c_d;&c_o;&c_sh;&c_k;&c_a; &c_a;&c_b;&#x2019;&c_ja;&c_v;&c_a;&c_w;</trd>
   <trdgrp lng="ca">
     <trd>panell publicitari</trd>,
     <trd>cartell</trd>
   </trdgrp>
   <trd lng="cs">oznamovac&iacute; tabule</trd>
+  <trdgrp lng="en">
+    <trd>bulletin board</trd>,
+    <trd>announcement board</trd>
+  </trdgrp>
   <trd lng="fr">tableau d'affichage</trd>
   <trd lng="hu">hirdet&odblac;t&aacute;bla</trd>
   <trd lng="id"><ind>papan</ind> pengumuman</trd>
+  <trd lng="ja">&#x63B2;&#x793A;&#x677F;  [<ind>&#x3051;&#x3044;&#x3058;&#x3070;&#x3093;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>mededelingenbord</trd>,
     <trd>ad <ind>valvas</ind></trd>
@@ -587,6 +610,7 @@
   &c_o;&c_b;&c_malmol;&c_ja;&c_v;&c_l;&c_je;&c_n;&c_i;&c_j;
   </trd>
   <trd lng="sk">oznamovacia tabu&lcaron;a</trd>
+  <trd lng="uk">&c_d;&c_o;&c_sh;&c_k;&c_a; &c_o;&c_g;&c_o;&c_l;&c_o;&c_sh;&c_je;&c_n;&c_mol;</trd>
 </drv>
 
 <drv mrk="tabul.argil0o">
@@ -611,9 +635,11 @@
   <trd lng="be">&c_g;&c_l;&c_ib;&c_n;&c_ja;&c_n;&c_a;&c_ja;
   <ind>&c_t;&c_a;&c_b;&c_l;&c_ib;&c_ch;&c_k;&c_a;</ind></trd>
   <trd lng="ca">tauleta d'argila</trd>
+  <trd lng="en">clay tablet</trd>
   <trd lng="fr">tablette d'argile</trd>
   <trd lng="hu">agyagt&aacute;bla</trd>
   <trd lng="id"><ind>tablet</ind> tanah liat</trd>
+  <trd lng="ja">&#x7C98;&#x571F;&#x677F;  [<ind>&#x306D;&#x3093;&#x3069;&#x3070;&#x3093;</ind>]</trd>
   <trd lng="pl">gliniana <ind>tabliczka</ind></trd>
   <trdgrp lng="pt">
     <trd>t&aacute;bua de argila</trd>,
@@ -635,8 +661,8 @@
         <lok>soc.culture.esperanto, 1994-01-04</lok></fnt>;
       </ekz>
       <ekz>
-        la aviz<tld/>oj &leftquot;<nac>Storingen</nac>&#8221; (Malhelpoj) kaj
-        &leftquot;<nac>Beeldband gebroken</nac>&#8221; 
+        la aviz<tld/>oj &leftquot;<nac>Storingen</nac>&#x201D; (Malhelpoj) kaj
+        &leftquot;<nac>Beeldband gebroken</nac>&#x201D; 
         (Bildbendo rompita) furoris en tiu komenca tempo televida
         <fnt>
           <bib>Monato</bib>
@@ -647,12 +673,11 @@
       </ekz>
       <ekz>
         ekzistas pli ol 20&nbsp;000 retpa&gcirc;oj pri sinmortigo kaj facile
-        troveblas &leftquot;avizo<tld/>oj&#8221; por tiuj, kiuj volas sin mortigi
+        troveblas &leftquot;avizo<tld/>oj&#x201D; por tiuj, kiuj volas sin mortigi
         <fnt>
           <bib>Monato</bib>
           <aut>HORI Yasuo/pg</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008113.html">Forpaso-forumo</url></vrk>
+          <vrk><url ref="&Monato;/2003/008113.html">Forpaso-forumo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -663,12 +688,16 @@
       <trd>Anzeige</trd>
     </trdgrp>
   </snc>
-  <trd lng="be">&c_d;&c_o;&c_sh;&c_k;&c_a;
-  &c_a;&c_b;&#8217;&c_ja;&c_v;&c_a;&c_w;</trd>
+  <trd lng="be">&c_d;&c_o;&c_sh;&c_k;&c_a; &c_a;&c_b;&#x2019;&c_ja;&c_v;&c_a;&c_w;</trd>
   <trd lng="ca">tauler d'anuncis</trd>
+  <trd lng="en">announcement board</trd>
   <trd lng="fr">tableau d'affichage</trd>
   <trd lng="hu">figyelmeztet&odblac; <ind>t&aacute;bla</ind></trd>
   <trd lng="id"><ind>papan</ind> pengumuman</trd>
+  <trdgrp lng="ja">
+    <trd>&#x544A;&#x77E5;&#x677F;  [<ind>&#x3053;&#x304F;&#x3061;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x63B2;&#x793A;&#x677F;  [<ind>&#x3051;&#x3044;&#x3058;&#x3070;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd><ind>tablica</ind> og&lstroke;osze&nacute;</trd>,
     <trd><ind>s&lstroke;up</ind> og&lstroke;oszeniowy</trd>
@@ -684,7 +713,7 @@
 
 <drv mrk="tabul.cel0o">
   <kap>cel<tld/>o</kap>
-  <snc mrk="tabul.cel0.ARM">
+  <snc mrk="tabul.cel0o.ARM">
     <dif>
       Trafota <tld/>o, kiu servas en pafekzercoj:
       <ekz>
@@ -712,14 +741,17 @@
   <trd lng="ca">rodella</trd>
   <trd lng="cs">ter&ccaron;</trd>
   <trd lng="de">Zielscheibe</trd>
+  <trd lng="en">target</trd>
   <trd lng="fr">cible</trd>
   <trd lng="hu">c&eacute;lt&aacute;bla</trd>
   <trd lng="id"><ind>papan</ind> target</trd>
+  <trd lng="ja">&#x6A19;&#x7684;  [<ind>&#x3072;&#x3087;&#x3046;&#x3066;&#x304D;</ind>]</trd>
   <trd lng="nl">schietschijf</trd>
   <trd lng="pl">tarcza<klr> strzelecka</klr></trd>
   <trd lng="pt">alvo <klr>(t&aacute;bua de alvo)</klr></trd>
   <trd lng="ru">&c_m;&c_i;&c_sh;&c_je;&c_n;&c_mol;</trd>
   <trd lng="sk">ter&ccaron;</trd>
+  <trd lng="uk">&c_m;&c_ib;&c_sh;&c_je;&c_n;&c_mol;</trd>
 </drv>
 
 <drv mrk="tabul.glado0o">
@@ -738,8 +770,7 @@
         facile stokitaj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=560523">Gladotabulo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=560523">Gladotabulo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -749,9 +780,11 @@
   <trd lng="ca">post de planxar</trd>
   <trd lng="cs">&zcaron;ehl&iacute;c&iacute; prkno</trd>
   <trd lng="de">B&uuml;gelbrett</trd>
+  <trd lng="en">ironing&#x2010;board</trd>
   <trd lng="fr">planche &agrave; repasser</trd>
   <trd lng="hu">vasal&oacute;deszka</trd>
   <trd lng="id"><ind>papan</ind> setrika</trd>
+  <trd lng="ja">&#x30A2;&#x30A4;&#x30ED;&#x30F3;&#x53F0;  [<ind>&#x30A2;&#x30A4;&#x30ED;&#x30F3;&#x3060;&#x3044;</ind>]</trd>
   <trd lng="nl">strijkplank</trd>
   <trd lng="pl"><ind>deska</ind> do prasowania</trd>
   <trd lng="pt">t&aacute;bua de passar roupa</trd>
@@ -773,31 +806,39 @@
         hak<tld/>on
         <fnt>
         <aut>Bian Ji</aut>,
-        <vrk><url
-        ref="http://www.chinareport.com.cn/z06-12k/12k-2/12k-2-2a.htm">
+        <vrk><url ref="http://www.chinareport.com.cn/z06-12k/12k-2/12k-2-2a.htm">
         Frititaj melongenpecoj far&ccirc;itaj</url></vrk>,
         <lok>El Popola &Ccirc;inio, [vidita en 2006]</lok>
         </fnt>
       </ekz>
       <ekz>
-        hak<tld/>o <klr>[&#8230;]</klr> utilas por ne dama&gcirc;i la meblojn de la
+        hak<tld/>o <klr>[&#x2026;]</klr> utilas por ne dama&gcirc;i la meblojn de la
         kuirejo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=287867">Haktabulo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=287867">Haktabulo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_o;&c_n;&c_c;&c_a;</trd>,
+    <trd>&c_d;&c_n;&c_u;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="ca">tauler de tallar</trd>
   <trd lng="de">Schneidebrett</trd>
+  <trdgrp lng="en">
+    <trd>cutting board</trd>,
+    <trd>chopping board</trd>
+  </trdgrp>
   <trd lng="fr">planche &agrave; d&eacute;couper</trd>
   <trdgrp lng="hu">
     <trd>h&uacute;sv&aacute;g&oacute; <ind>deszka</ind></trd>,
     <trd>v&aacute;g&oacute;deszka</trd>
   </trdgrp>
   <trd lng="id">talenan</trd>
+  <trd lng="ja">&#x307E;&#x306A;&#x677F;  [<ind>&#x307E;&#x306A;&#x3044;&#x305F;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>hakbord</trd>,
     <trd>keukenplank</trd>,
@@ -811,6 +852,11 @@
   <trd lng="pt">t&aacute;bua de cozinha</trd>
   <trd lng="ru">&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_o;&c_ch;&c_n;&c_a;&c_ja;
   &c_d;&c_o;&c_s;&c_k;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_b;&c_r;&c_o;&c_b;&c_n;&c_a; &c_d;&c_o;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_ja;</trd>,
+    <trd>&c_k;&c_u;&c_h;&c_o;&c_n;&c_n;&c_a; &c_d;&c_o;&c_sh;&c_k;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tabul.memor0o">
@@ -828,15 +874,18 @@
         Esperanto d-ro Ludoviko Zamenhof</ctl>
         <fnt>
           <aut>bjalistoka esperanto-societo</aut>
-          <vrk><url
-          ref="https://espero.bialystok.pl/eo/ekskurso-lau-spuroj-de-zamenhof/">
+          <vrk><url ref="https://espero.bialystok.pl/eo/ekskurso-lau-spuroj-de-zamenhof/">
           Ekskurso la&ubreve; spuroj de Zamenhof</url></vrk>
           <lok>[vidita en 2019]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_m;&c_ja;&c_t;&c_n;&c_a;&c_ja;
+  &c_t;&c_a;&c_b;&c_l;&c_ib;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="en">commemorative plaque</trd>
   <trd lng="fr">plaque comm&eacute;morative</trd>
+  <trd lng="ja">&#x7891;&#x677F;  [<ind>&#x3072;&#x3044;&#x305F;</ind>]</trd>
 </drv>
 
 <drv mrk="tabul.negx0o">
@@ -850,7 +899,7 @@
         ne&gcirc;<tld/>o en vintro, ventsurfado en somero
         <fnt>
         <aut>S. Halimi, trad. V. Lutermano</aut>,
-        <vrk><url ref="http://eo.mondediplo.com/article939.html">La
+        <vrk><url ref="&Mondediplo;article939.html">La
         ordinara popolo de George W. Bush</url></vrk>,
         <lok>Le Monde diplomatique, 2004-10</lok>
         </fnt>;
@@ -861,11 +910,10 @@
         piedo, &ccirc;e la ne&gcirc;<tld/>ado amba&ubreve; piedoj estas fiksitaj
         
         sur la
-        ne&gcirc;<tld/>o (a&ubreve; ne&gcirc;breto <klr>[&#8230;]</klr>)
+        ne&gcirc;<tld/>o (a&ubreve; ne&gcirc;breto <klr>[&#x2026;]</klr>)
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=227983">Ne&gcirc;tabulado</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=227983">Ne&gcirc;tabulado</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -876,10 +924,14 @@
   <trd lng="ca">planxa de neu</trd>
   <trd lng="be">&c_s;&c_n;&c_o;&c_w;&c_b;&c_a;&c_r;&c_d;</trd>
   <trd lng="de">Snowboard</trd>
-  <trd lng="en">snow board</trd>
+  <trdgrp lng="en">
+    <trd>snow board</trd>,
+    <trd>snowboard</trd>
+  </trdgrp>
   <trd lng="fr">snow board</trd>
   <trd lng="hu">h&oacute;deszka</trd>
   <trd lng="id"><ind>papan</ind> salju</trd>
+  <trd lng="ja">&#x30B9;&#x30CE;&#x30FC;&#x30DC;&#x30FC;&#x30C9;  [<ind>&#x3059;&#x306E;&#x30FC;&#x307C;&#x30FC;&#x3069;</ind>]</trd>
   <trd lng="nl">snowboard</trd>
   <trd lng="pl">snowboard</trd>
   <trd lng="pt">snowboard</trd>
@@ -904,11 +956,20 @@
     <refgrp tip="vid">
       <ref cel="pont.0o">ponto</ref>
     </refgrp>
-    <trd lng="de">Steg</trd>
+    <trdgrp lng="de">
+        <trd>Steg</trd>,
+        <trd>Bohle <klr>(Steg)</klr></trd>,
+        <trd>Planke <klr>(Steg)</klr></trd>
+      </trdgrp>
   </snc>
   <trd lng="ca">passarel&middot;la</trd>
   <trd lng="cs">prkno jako l&aacute;vka</trd>
+  <trd lng="en">plank<klr> (for walking on)</klr></trd>
   <trd lng="fr">passerelle</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8E0F;&#x307F;&#x677F;  [<ind>&#x3075;&#x307F;&#x3044;&#x305F;</ind>]</trd>,
+    <trd>&#x9053;&#x677F;  [<ind>&#x307F;&#x3061;&#x3044;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>valreep</trd>,
     <trd>loopbrug</trd>,
@@ -916,6 +977,7 @@
   </trdgrp>
   <trd lng="pl">k&lstroke;adka</trd>
   <trd lng="sk">doska ako l&aacute;vka</trd>
+  <trd lng="uk">&c_k;&c_l;&c_a;&c_d;&c_k;&c_a; <klr>(&c_ch;&c_je;&c_r;&c_je;&c_z; &c_r;&c_ib;&c_ch;&c_k;&c_u; &c_ib; &c_t;.&c_p;.)</klr></trd>
 </drv>
 
 <drv mrk="tabul.plongx0o">
@@ -935,16 +997,18 @@
         virina 3-metra plon&gcirc;<tld/>o
         <fnt>
         <aut>&Ccirc;ina Radio Internacia</aut>,
-        <vrk><url
-        ref="http://es.chinabroadcast.cn/1/2004/08/27/1@14257.htm">Guo
+        <vrk><url ref="http://es.chinabroadcast.cn/1/2004/08/27/1@14257.htm">Guo
         Jingjing: &ccirc;ampioneco...</url></vrk>,
         <lok>2004-08-27</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_m;&c_p;&c_l;&c_ib;&c_n; <klr>(&c_d;&c_l;&c_ja;
+  &c_s;&c_k;&c_a;&c_ch;&c_k;&c_o;&c_w; &c_u; &c_v;&c_a;&c_d;&c_u;)</klr></trd>
   <trd lng="ca">trampol&iacute;</trd>
   <trd lng="de">Sprungbrett</trd>
+  <trd lng="en">diving board</trd>
   <trd lng="fr">plongeoir</trd>
   <trdgrp lng="hu">
     <trd>ugr&oacute;deszka <klr tip="amb">(v&iacute;z mellett)</klr>
@@ -952,12 +1016,45 @@
     <trd>trambulin</trd>
   </trdgrp>
   <trd lng="id"><ind>papan</ind> loncatan</trd>
+  <trd lng="ja">&#x98DB;&#x8FBC;&#x677F;  [<ind>&#x98DB;&#x8FBC;&#x3044;&#x305F;</ind>]</trd>
   <trd lng="nl">springplank</trd>
   <trd lng="pl">trampolina</trd>
   <trd lng="pt">trampolim</trd>
-  <trd lng="ru">&c_t;&c_r;&c_a;&c_m;&c_p;&c_l;&c_i;&c_n;<klr tip="amb">
-  (&c_d;&c_l;&c_ja; &c_p;&c_r;&c_y;&c_zh;&c_k;&c_o;&c_v; &c_v;
-  &c_v;&c_o;&c_d;&c_u;)</klr></trd>
+  <trd lng="ru">&c_t;&c_r;&c_a;&c_m;&c_p;&c_l;&c_i;&c_n;<klr tip="amb"> (&c_d;&c_l;&c_ja;
+  &c_p;&c_r;&c_y;&c_zh;&c_k;&c_o;&c_v; &c_v; &c_v;&c_o;&c_d;&c_u;)</klr></trd>
+  <trd lng="uk">&c_m;&c_ib;&c_s;&c_t;&c_o;&c_k; &c_d;&c_l;&c_ja; &c_s;&c_t;&c_r;&c_i;&c_b;&c_k;&c_ib;&c_v; &c_u; &c_v;&c_o;&c_d;&c_u;</trd>
+</drv>
+
+<drv mrk="tabul.pri0i">
+  <kap>
+    pri<tld/>i
+  </kap>
+  <snc mrk="tabul.pri0i.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      Kovri per alfiksitaj <tld/>oj:
+      <ekz>
+        &gcirc;i estis la biendomo de <nom>Bjartur</nom> <klr>[...]</klr>
+        &scirc;tonoj estis alportitaj <klr>[...]</klr>
+        muraj internoj pri<tld/>itaj
+        <fnt>
+          <aut>H. Laxness, trad. B. Ragnarsson</aut>
+          <vrk>Sendependaj homoj</vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;
+    <ind>&c_p;&c_a;&c_r;&c_k;&c_je;&c_t;&c_a;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="en">board up</trd>
+  <trdgrp lng="fr">
+    <trd>lambrisser</trd>,
+    <trd>poser un <ind>parquet</ind></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tabul.rul0o">
@@ -978,14 +1075,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        same kiel rul<tld/>o, <klr>[&ccirc;e <ref tip="vid"
-        cel="skut.0ilo">skutilo</ref>]</klr> oni devas treti por
+        same kiel rul<tld/>o, <klr>[&ccirc;e <ref tip="vid" cel="skut.0ilo">skutilo</ref>]</klr> oni devas
+        treti por
         anta&ubreve;eniri, sed estas vertikala stango kun teniloj por pli
         facile gardi ekvilibron
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=211952">Skutilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=211952">Skutilo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -993,17 +1089,20 @@
       <ref cel="sxu.rul0o.SPO">rul&scirc;uo</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_s;&c_k;&c_je;&c_j;&c_t;&c_b;&c_o;&c_r;&c_d;</trd>
   <trd lng="ca">monopat&iacute;</trd>
   <trd lng="cs">v&aacute;l na t&ecaron;sto</trd>
   <trdgrp lng="de">
     <trd>Skateboard</trd>
   </trdgrp>
+  <trd lng="en">skateboard</trd>
   <trdgrp lng="fr">
     <trd>planche &agrave; roulettes</trd>,
     <trd>skate-board</trd>
   </trdgrp>
   <trd lng="hu">g&ouml;rdeszka</trd>
   <trd lng="id"><ind>papan</ind> luncur</trd>
+  <trd lng="ja">&#x30B9;&#x30B1;&#x30FC;&#x30C8;&#x30DC;&#x30FC;&#x30C9;</trd>
   <trd lng="nl">skateboard</trd>
   <trd lng="pl">skateboard</trd>
   <trdgrp lng="pt">
@@ -1019,6 +1118,7 @@
     </trd>
   </trdgrp>
   <trd lng="sk">doska na cesto</trd>
+  <trd lng="uk">&c_s;&c_k;&c_je;&c_j;&c_t; <klr>(&c_r;&c_o;&c_l;&c_i;&c_k;&c_o;&c_v;&c_a; &c_d;&c_o;&c_sh;&c_k;&c_a; &c_d;&c_l;&c_ja; &c_k;&c_a;&c_t;&c_a;&c_n;&c_n;&c_ja; &c_p;&c_o; &c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;&c_u;)</klr></trd>
 </drv>
 
 <drv mrk="tabul.salto0o">
@@ -1029,13 +1129,12 @@
       Alta a&ubreve; elasta <tld/>o, de sur kiu sportanto povas salti,
       plon&gcirc;i...:
       <ekz>
-        gimnastikistoj uzas diversajn <klr>[&#8230;]</klr> ilojn inter kiuj 
+        gimnastikistoj uzas diversajn <klr>[&#x2026;]</klr> ilojn inter kiuj 
         trovi&gcirc;as paralelaj stangoj, malsimetriaj stangoj, trabo, &ccirc;evalo
-        <klr>[&#8230;]</klr> kaj saltotabulo
+        <klr>[&#x2026;]</klr> kaj saltotabulo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=19655">Gimnastiko</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19655">Gimnastiko</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -1043,8 +1142,7 @@
         eksaltas, forlasas la grundon
         <fnt>
         <aut>R. Frison-Roche, trad. Roger Bernard</aut>,
-        <vrk><url
-        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr34/negxou.html">
+        <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr34/negxou.html">
         La ne&gcirc;o estas &gcirc;ojo!</url></vrk>,
         <lok>Nica Literatura Revuo, numero 3-4, p. 140a-142a</lok>
         </fnt>.
@@ -1055,6 +1153,7 @@
   <trd lng="ca">trampol&iacute;</trd>
   <trd lng="cs">trampol&iacute;na</trd>
   <trd lng="de">Sprungbrett</trd>
+  <trd lng="en">springboard</trd>
   <trd lng="es">trampol&iacute;n</trd>
   <trdgrp lng="fr">
     <trd>plongeoir</trd>,
@@ -1062,6 +1161,10 @@
   </trdgrp>
   <trd lng="hu">ugr&oacute;deszka</trd>
   <trd lng="id"><ind>papan</ind> loncatan</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8E0F;&#x5207;&#x677F;  [<ind>&#x3075;&#x307F;&#x304D;&#x308A;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x8DF3;&#x8E8D;&#x677F;  [<ind>&#x3061;&#x3087;&#x3046;&#x3084;&#x304F;&#x3044;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">springplank</trd>
   <trdgrp lng="pl">
     <trd>trampolina</trd>,
@@ -1096,8 +1199,7 @@
       <ekz>
         kro&ccirc;i&gcirc;ante al mi kiel &scirc;ippereulo al sia sav<tld/>o
         <fnt>
-          <vrk><url
-          ref="https://gejaj-petolajhoj.blogspot.com/2018/06/petveturado-suden-du-parto.html">Gejaj
+          <vrk><url ref="https://gejaj-petolajhoj.blogspot.com/2018/06/petveturado-suden-du-parto.html">Gejaj
           
           rakontoj en Esperanto: Petveturado suden (dua
           parto)</url></vrk>
@@ -1106,9 +1208,10 @@
     </dif>
     <trd lng="ca">salvavides <klr>(planxa)</klr></trd>
     <trd lng="fr">planche de salut</trd>
-    <trd lng="id">[<ind>lampung</ind>] pelampung</trd>
+    <trd lng="id">pe<ind>lampung</ind></trd>
     <trd lng="pl"><klr>ostatnia</klr> <ind>deska</ind> ratunku</trd>
   </snc>
+  <trd lng="en">rescue board</trd>
 </drv>
 
 
@@ -1132,24 +1235,23 @@
       </ekz>
       <ekz>
         <klr>[sur]</klr> skrib<tld/>o el ardezo oni povas skribi per
-        <klr>[&#8230;]</klr> 
-        grifelo, <klr>[&#8230;]</klr> facile forvi&scirc;i la skribita&jcirc;on per spongo
+        <klr>[&#x2026;]</klr> 
+        grifelo, <klr>[&#x2026;]</klr> facile forvi&scirc;i la skribita&jcirc;on per spongo
         post kio oni denove povas uzi la skribardezon
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=504157">Skribardezo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=504157">Skribardezo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         skribo, sola indi&gcirc;ena en Oceanio, &ccirc;izita sur lignaj <tld/>etoj 
-        trovitaj sur Paskinsulo <klr>[&#8230;]</klr> el tiuj nur 21
+        trovitaj sur Paskinsulo <klr>[&#x2026;]</klr> el tiuj nur 21
         skrib<tld/>oj <klr>[transvivis]</klr>
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007315.html">De&ccirc;ifrado
-          de la paskinsula skribo</url></vrk>
+	<aut>Rudiger Hauger</aut>
+	<vrk><url ref="&Monato;/2001/007315.php">De&ccirc;ifrado de la paskinsula skribo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/02, p. 23</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1158,6 +1260,7 @@
       <trd>Wandtafel</trd>
     </trdgrp>
   </snc>
+  <trd lng="en">blackboard</trd>
   <trdgrp lng="es">
     <trd>encerado</trd>,
     <trd>pizarra</trd>
@@ -1187,23 +1290,26 @@
       <ekz>
         surfo<tld/>o a&ubreve; surfobreto estas akvorezista, na&gcirc;kapabla
         <tld/>o, 
-        servanta kiel sportilo por &leftquot;rajdi&#8221; sur la maraj ondoj
+        servanta kiel sportilo por &leftquot;rajdi&#x201D; sur la maraj ondoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=33662">Surfotabulo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=33662">Surfotabulo</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Surfbrett</trd>
   </snc>
+  <trd lng="be">&c_d;&c_o;&c_sh;&c_k;&c_a; &c_d;&c_l;&c_ja;
+  &c_s;&c_e;&c_r;&c_f;&c_ib;&c_n;&c_g;&c_u;</trd>
   <trd lng="ca">planxa de surf</trd>
+  <trd lng="en">surfboard</trd>
   <trd lng="fr">surf-board</trd>
   <trdgrp lng="hu">
     <trd>sz&ouml;rfdeszka</trd>,
     <trd>hull&aacute;mdeszka</trd>
   </trdgrp>
   <trd lng="id"><ind>papan</ind> selancar</trd>
+  <trd lng="ja">&#x30B5;&#x30FC;&#x30D5;&#x30DC;&#x30FC;&#x30C9;</trd>
   <trd lng="nl">surfplank</trd>
   <trdgrp lng="pl">
     <trd><ind>deska</ind> do surfowania</trd>,
@@ -1213,6 +1319,7 @@
     <trd>prancha</trd>,
     <trd>prancha de surfe</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&c_je;&c_r;&c_f;&c_ib;&#x43D;&c_gu;</trd>
 </drv>
 
 <drv mrk="tabul.vaks0o">
@@ -1230,16 +1337,22 @@
         skribsurfacoj: argil<tld/>o, vaks<tld/>o, &scirc;tofo: lino, silko...
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=26619">Skribilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=26619">Skribilo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_s;&c_k;&c_o;&c_v;&c_a;&c_ja;
+    &c_d;&c_o;&c_sh;&c_ch;&c_a;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_v;&c_a;&c_s;&c_k;&c_o;&c_v;&c_a;&c_ja; &c_t;&c_a;&c_b;&c_l;&c_ib;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
   <trd lng="ca">tauleta de cera</trd>
   <trd lng="de">Wachstafel</trd>
+  <trd lng="en">wax tablet</trd>
   <trd lng="fr">tablette de cire</trd>
   <trd lng="hu">viaszt&aacute;bla</trd>
+  <trd lng="ja">&#x874B;&#x677F;  [<ind>&#x308D;&#x3046;&#x3044;&#x305F;</ind>]</trd>
   <trd lng="pl"><ind>tabliczka</ind> woskowa</trd>
   <trdgrp lng="pt">
     <trd>t&aacute;bua de cera</trd>,
@@ -1261,14 +1374,13 @@
         <fnt>
         <aut>B. Bouron</aut>,
         <vrk>Festo 97</vrk>,
-        <lok><url
-        ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+        <lok><url ref="&SCE;">
         soc.culture.esperanto</url>, 1997-06-24</lok>
         </fnt>;
       </ekz>
       <ekz>
         krom sportoj pli malpli kutimaj aliloke, ekzistas eblecoj por
-        <klr>[&#8230;]</klr> surmaraj sportoj, surfado, vel<tld/>o
+        <klr>[&#x2026;]</klr> surmaraj sportoj, surfado, vel<tld/>o
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=287797">Les
@@ -1277,14 +1389,18 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_o;&c_sh;&c_k;&c_a; &c_d;&c_l;&c_ja;
+  &c_v;&c_ib;&c_n;&c_d;&c_s;&c_e;&c_r;&c_f;&c_ib;&c_n;&c_g;&c_u;</trd>
   <trd lng="ca">planxa de vela</trd>
   <trdgrp lng="cs">
     <trd>plov&aacute;k windsurfingu</trd>,
     <trd>surfov&eacute; prkno s plachtou</trd>
   </trdgrp>
   <trd lng="de">Surfbrett<klr> (zum Windsurfen)</klr></trd>
+  <trd lng="en">windsurf board</trd>
   <trd lng="fr">planche &agrave; voile</trd>
   <trd lng="hu">vitorl&aacute;sdeszka</trd>
+  <trd lng="ja">&#x30BB;&#x30FC;&#x30EA;&#x30F3;&#x30B0;&#x30DC;&#x30FC;&#x30C9;</trd>
   <trd lng="nl">surfplank</trd>
   <trdgrp lng="pl">
     <trd>windsurfing</trd>,
@@ -1297,34 +1413,35 @@
     <trd>windsurfe</trd>
   </trdgrp>
   <trd lng="sk">surfovacia doska s plachtou</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_n;&c_d;&c_s;&c_je;&c_r;&c_f;&c_je;&c_r;</trd>,
+    <trd>&c_v;&c_ib;&c_t;&c_r;&c_i;&c_l;&c_mol;&c_n;&c_a; &c_d;&c_o;&c_sh;&c_k;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.47  2019/06/30 07:43:30  revo
-adaptis URL de Monato
+versio 1.67 2023/04/23 11:22:00
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.46  2019/04/01 17:10:15  revo
-Alain Gerard: +trd fr
+versio 1.66 2023/04/23 09:25:30
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.45  2019/02/20 17:10:22  revo
-Jeromo Vasxe: + memor~o
+versio 1.65 2023/04/20 06:33:23
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.44  2018/08/09 07:10:14  revo
-Wolfram Diestel: kor. ref-cel
+versio 1.64 2022/09/20 13:04:03
+Wolfram Diestel: +trd de
 
-Revision 1.43  2018/08/06 19:10:17  revo
-Wolfram Diestel: prilaboris ekz-ojn (cetero)
+versio 1.63 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.42  2018/08/06 17:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn (plia parto), germ trd-ojn, iom
-adaptis difinojn
+versio 1.61 2022/03/29 14:40:29
+Noam Mohr: +trd en tabul-
 
-Revision 1.41  2018/08/05 20:10:15  revo
-Wolfram Diestel: Almovis skribtabulo el artikolo "skrib"
+versio 1.52 2022/01/28 14:27:20
+Dmitri Gabinski: + trd be
 
-Revision 1.40  2018/08/05 16:10:13  revo
-Wolfram Diestel: ~o: Gheneraligis difinon, specialigante en subsencojn;
-multaj ekz-oj
+versio 1.51 2021/05/13 09:59:07
 -->
 </vortaro>

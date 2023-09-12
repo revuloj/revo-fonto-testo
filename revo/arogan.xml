@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: arogan.xml,v 1.12 2002/10/29 18:01:34 revo Exp $">
+<art mrk="$Id: arogan.xml,v 1.27 2023/08/30 18:23:36 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>arogant</rad>/a
@@ -65,11 +64,11 @@
         </fnt>;
       </ekz>
       <ekz>
-        vi la nazon portas tro super la nivelo, <klr>[&#8230;]</klr> vi aspektas kvaza&ubreve; vi
+        vi la nazon portas tro super la nivelo, <klr>[&#x2026;]</klr> vi aspektas kvaza&ubreve; vi
         celus tuj dekro&ccirc;i per <tld/>a movo la stelojn de l' &ccirc;ielo
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -79,8 +78,10 @@
       <ref cel="modest.mal0a.PSI">malmodesta</ref>.
     </refgrp>
     <refgrp tip="vid">
+      <ref cel="aplomb.0a">aplomba</ref>,
       <ref cel="alt">alte</ref>,
-      <ref cel="kracx.0i">kra&ccirc;i</ref>.
+      <ref cel="kracx.0i">kra&ccirc;i</ref>,
+      <ref cel="preten.0i">pretendi</ref>
     </refgrp>
     <trdgrp lng="fr">
       <trd>arrogant</trd>,
@@ -111,18 +112,26 @@
     <trd>&c_n;&c_a;&c_h;&c_a;&c_b;&c_n;&c_y;</trd>, 
     <trd>&c_d;&c_z;&c_jo;&c_r;&c_z;&c_k;&c_ib;</trd>
   </trdgrp>
+  <trd lng="bo">&t_ha;&t_ma;&t_tsheg;&t_pa;&t_tsheg;&t_tsha;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
   <trd lng="cs">zpupn&yacute;</trd>
   <trdgrp lng="de">
     <trd>&uuml;berheblich</trd>,
+    <trd>eingebildet</trd>,
     <trd>arrogant</trd>
   </trdgrp>
   <trd lng="en">arrogant</trd>
   <trd lng="es">arrogante</trd>
+  <trd lng="he">&yod;&#x5B8;&he;&#x5B4;&yod;&resh;</trd>
   <trdgrp lng="id">
     <trd>arogan</trd>,
     <trd>sombong</trd>
   </trdgrp>
   <trd lng="it">arrogante</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6A2A;&#x67C4;&#x306A;  [<ind>&#x304A;&#x3046;&#x3078;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x5C0A;&#x5927;&#x306A;  [<ind>&#x305D;&#x3093;&#x3060;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x601D;&#x3044;&#x4E0A;&#x304C;&#x3063;&#x305F;  [<ind>&#x304A;&#x3082;&#x3044;&#x3042;&#x304C;&#x3063;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">arrogante</trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_je;&c_r;&c_z;&c_k;&c_i;&c_j;</trd>,
@@ -135,10 +144,25 @@
     <trd>drz&yacute;</trd>,
     <trd>spurn&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_u;&c_h;&c_v;&c_a;&#x43B;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_a;&c_h;&c_a;&c_b;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_h;&c_a;&#x43C;&c_u;&c_v;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_h;&c_a;&#x43C;&c_s;&#x44C;&#x43A;&c_i;&c_j;&#xA0;(&#x43F;&c_r;&#x43E; &c_v;&c_ch;&c_i;&#x43D;&#x43E;&#x43A;)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2022/08/27 16:41:42
+Ulrich Fellmann: aroganta: +1 plia DE trd
+
+versio 1.25 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.23 2021/06/15 06:35:43
+Wolfram Diestel: +ref
+
 Revision 1.19  2019/05/28 11:10:14  revo
 Damien Brucker: +mrk en snc
 
@@ -152,11 +176,5 @@ Revision 1.16  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.15  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.14  2014/10/24 15:10:21  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.13  2012/02/04 17:10:21  revo
 -->
 </vortaro>

@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rigl.xml,v 1.23 2023/09/03 07:53:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rigl</rad>/i
 </kap>
 <drv mrk="rigl.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
       Senmovebligi <ref cel="pord.0o">pordon</ref>, 
@@ -40,7 +40,10 @@
     <trd>zav&iacute;rat na z&aacute;voru</trd>
   </trdgrp>
   <trd lng="de">verriegeln</trd>
-  <trd lng="en">fasten</trd>
+  <trdgrp lng="en">
+    <trd>bolt<klr> (vt, latch)</klr></trd>,
+    <trd>latch<klr> (vt, bolt)</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd><ind>cerrar</ind> con cerrojo</trd>,
     <trd>trancar</trd>,
@@ -50,6 +53,10 @@
   <trdgrp lng="hu">
     <trd>reteszel</trd>,
     <trd>bereteszel</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5DEE;&#x3057;&#x9320;&#x3092;&#x304B;&#x3051;&#x308B;  [<ind>&#x3055;&#x3057;&#x3058;&#x3087;&#x3046;&#x3092;&#x304B;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x304B;&#x3093;&#x306C;&#x304D;&#x3092;&#x304B;&#x3051;&#x308B;</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>grendelen</trd>,
@@ -65,6 +72,13 @@
   <trdgrp lng="sk">
     <trd>uzaviera&tcaron; na z&aacute;str&ccaron;ku</trd>,
     <trd>zaviera&tcaron; na z&aacute;voru</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_i;&c_k;&c_a;&c_t;&c_i; &c_n;&c_a; &c_z;&c_a;&c_s;&c_u;&c_v;</trd>,
+    <trd>&c_sh;&c_p;&c_ib;&c_n;&c_gu;&c_a;&c_l;&c_je;&c_t;</trd>,
+    <trd>&c_f;&c_ib;&c_k;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i; &c_s;&c_t;&c_o;&c_p;&c_o;&c_r;&c_o;&c_m;</trd>,
+    <trd>&c_b;&c_l;&c_o;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -88,7 +102,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        tenata ka&scirc;ite <klr>[&#8230;]</klr> malanta&ubreve; seruro kaj <tld/>ilo
+        tenata ka&scirc;ite <klr>[&#x2026;]</klr> malanta&ubreve; seruro kaj <tld/>ilo
         <fnt>
           <bib>Fab4</bib>
           <lok>Sonorila profundo</lok>
@@ -113,12 +127,20 @@
     <trd>&scaron;up&aacute;k</trd>
   </trdgrp>
   <trd lng="de">Riegel</trd>
+  <trdgrp lng="en">
+    <trd>bolt<klr> (n, latch)</klr></trd>,
+    <trd>latch<klr> (n, bolt)</klr></trd>
+  </trdgrp>
   <trd lng="es">cerrojo</trd>
   <trd lng="fr">verrou</trd>
   <trdgrp lng="hu">
     <trd>retesz</trd>,
     <trd>tol&oacute;z&aacute;r</trd>,
     <trd>rigli</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5DEE;&#x3057;&#x9320;  [<ind>&#x3055;&#x3057;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x304B;&#x3093;&#x306C;&#x304D;</trd>
   </trdgrp>
   <trd lng="nl">grendel</trd>
   <trd lng="pl">rygiel</trd>
@@ -128,10 +150,21 @@
     <trd>&c_r;&c_i;&c_g;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">z&aacute;vora</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_u;&c_v;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_u;&c_v;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_o;&c_p;&c_o;&c_r;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/05/02 01:42:32
+Robert Baruch: +trd: en
+
+versio 1.20 2021/01/11 20:10:35
+Wolfram Diestel: +tr
+
 Revision 1.18  2017/12/20 13:10:17  revo
 Michel Cantigneaux: "rigl/il/o" fundamenta kunmetajxo el la U.V.
 
@@ -148,8 +181,5 @@ Revision 1.14  2014/05/17 12:10:17  revo
 Damien Brucker: +trd fr
 
 Revision 1.13  2014/01/13 07:10:29  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.12  2006/02/21 17:32:15  revo
 -->
 </vortaro>

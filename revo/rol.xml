@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: rol.xml,v 1.29 2020/02/19 20:10:24 revo Exp $">
+<art mrk="$Id: rol.xml,v 1.41 2023/07/13 20:29:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>rol</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,6 +23,18 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd>role<klr tip="ind"> (in theatre)</klr></trd>,
+      <trd>part<klr tip="amb"> (in theatre)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ja">
+      <trd>&#x5F79; [<ind>&#12420;&#x304F;</ind>]</trd>,
+      <trd>&#x5F79;&#x67C4; [<ind>&#12420;&#x304F;&#x304C;&#12425;</ind>]</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>rola<klr tip="ind"> (teatr)</klr></trd>,
+      <trd>partia<klr tip="amb"> (teatr)</klr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="rol.0o.FIG">
      <uzo tip="stl">FIG</uzo>
@@ -33,25 +44,30 @@
         mi staras anta&ubreve; vi ankora&ubreve; en <tld/>o oficiala
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krak&oacute;w en
+          la 11a de a&ubreve;gusto 1912</vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la sorto donis al mi <tld/>on kvankam tre flatan, tamen samtempe anka&ubreve; tre &scirc;ar&gcirc;an
+        la sorto donis al mi <tld/>on kvankam tre flatan, tamen samtempe
+        anka&ubreve; tre &scirc;ar&gcirc;an
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en Barcelona en la 6a de septembro 1909</vrk>
+          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en
+          Barcelona en la 6a de septembro 1909</vrk>
         </fnt>;
       </ekz>
       <ekz>
         mi formetas de mi &ccirc;ian oficialan <tld/>on
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krak&oacute;w en
+          la 11a de a&ubreve;gusto 1912</vrk>
         </fnt>;
       </ekz>
       <ekz>
-        por la <tld/>o de lingvo internacia Esperanto estas nun la sola kandidato
+        por la <tld/>o de lingvo internacia Esperanto estas nun la sola
+        kandidato
         <fnt>
           <bib>EE</bib>
         </fnt>;
@@ -77,12 +93,14 @@
         </fnt>?
       </ekz>
       <ekz>
-        amba&ubreve; postenoj estas efektive nur duontempaj, <klr>[do]</klr> eblas plenumi
+        amba&ubreve; postenoj estas efektive nur duontempaj, <klr>[do]</klr>
+        eblas plenumi
         samtempe du <tld/>ojn
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="https://www.monato.be/2015/011468.php">Unu regulo por ri&ccirc;uloj, dua regulo por malri&ccirc;uloj</url></vrk>
+          <vrk><url ref="&Monato;/2015/011468.php">Unu
+          regulo por ri&ccirc;uloj, dua regulo por malri&ccirc;uloj</url></vrk>
           <lok>2015</lok>
         </fnt>.
       </ekz>
@@ -93,42 +111,47 @@
        <ref cel="profes.0o">profesio</ref>,
        <ref cel="task.0o">tasko</ref>
      </refgrp>
+    <trd lng="en">role</trd>
     <trdgrp lng="es">
       <trd>funci&oacute;n</trd>,
       <trd>cometido</trd>
     </trdgrp>
-   <trdgrp lng="pt">
-      <trd>papel</trd>
-   </trdgrp>
-  </snc>  
+    <trd lng="ja">&#x5F79;&#21106; [<ind>&#12420;&#x304F;&#x308F;&#x308A;</ind>]</trd>
+    <trdgrp lng="pl">
+      <trd>rola</trd>,
+      <trd>funkcja</trd>
+    </trdgrp>
+    <trd lng="pt">papel</trd>
+
+  </snc>
   <trd lng="be">&c_r;&c_o;&c_l;&c_ja;</trd>
   <trdgrp lng="cs">
     <trd>role</trd>,
     <trd>&uacute;loha</trd>
   </trdgrp>
   <trd lng="de">Rolle</trd>
-  <trd lng="en">role</trd>
   <trdgrp lng="es">
     <trd>rol</trd>,
     <trd>papel</trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>r&ocirc;le</trd>
   </trdgrp>
   <trd lng="hu">szerep</trd>
+  <trd lng="io">rolo</trd>
   <trd lng="it">ruolo</trd>
   <trd lng="nl">rol</trd>
+  <trd lng="pl">rola</trd>
   <trdgrp lng="pt">
-    <trd>parte<klr> (que cada ator desempenha)</klr></trd>,
+    <trd>parte<klr tip="amb"> (que cada ator desempenha)</klr></trd>,
     <trd>papel</trd>
-  </trdgrp><trdgrp lng="pt">
-     <trd>papel</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_o;&c_l;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>rola</trd>,
     <trd>&uacute;loha</trd>
   </trdgrp>
+  <trd lng="uk">&c_r;&#x43E;&#x43B;&#x44C;</trd>
 </drv>
 
 <drv mrk="rol.0i">
@@ -143,41 +166,48 @@
           <aut>Juh&aacute;sz K.</aut>,
           <vrk>Korusa konkurso</vrk>,
           <bib>Monato</bib>,
-          <lok>2000:12, p. 14a</lok>
+          <lok>2000/12, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la detektivo, Inspektoro <nom>Kramer</nom>, <tld/>as nur kiel preteksto por reliefigi la
+        la detektivo, Inspektoro <nom>Kramer</nom>, <tld/>as nur kiel
+        preteksto por reliefigi la
         verajn &ccirc;ef<tld/>antojn en la romano
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007079.html">Inter la dek plej bonaj romanoj</url></vrk>
-        </fnt>.
+          <aut>Donald Broadribb</aut>
+            <vrk><url ref="&Monato;/2000/007079.php">Inter la dek plej bonaj romanoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 26</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="aktor.0i">aktori</ref>
     </refgrp>
-    <trd lng="es">interpretar <klr>(un personaje)</klr></trd>  
+    <trd lng="es">interpretar <klr tip="amb">(un personaje)</klr></trd>
+    <trd lng="ja">&#x5F79;&#12434;&#x6F14;&#12376;&#x308B; [<ind>&#12420;&#x304F;&#12434;&#12360;&#12435;&#12376;&#x308B;</ind>]</trd>
   </snc>
   <snc mrk="rol.0i.FIG">
     <dif>
-      <ref tip="sin" cel="part.0opreni.kunhelpi">Partopreni</ref> 
+      <ref tip="sin" cel="part.0opreni.kunhelpi">Partopreni</ref>
       en situacio, agi konforme al iu funkcio:
       <ekz>
         kial Sud-Ameriko ne <tld/>as pli aktive en Unui&gcirc;intaj Nacioj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9312-sud-ameriko.txt">Sud-ameriko</url></vrk>
-          <lok>93/12</lok>
+          <aut>Maritza Guti&eacute;rrez</aut>
+          <vrk><url ref="&Monato;/1993/A931202.php">A&ubreve;di&gcirc;as komuna vo&ccirc;o</url></vrk>
+           <bib>Monato</bib>
+          <lok>1993/12, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
         pri la kolektiva konduto de homoj tute ne rolas genoj
-        <fnt>
+       <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio:
+          kiu kiun mistifikas?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006947.html">Reago: Eks-Jugoslavio: kiu kiun mistifikas?</url></vrk>
+          <lok>2000/06, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -201,12 +231,14 @@
         </fnt>.
       </ekz>
     </dif>
-    <trd lng="de">agieren <klr>(als)</klr></trd>
-    <trd lng="en">play a <ind>role</ind></trd>
+    <trd lng="de">agieren <klr tip="amb">(als)</klr></trd>
+    <trd lng="ja">&#x5F79;&#21106;&#12434;&#x679C;&#x305F;&#12377;
+    [<ind>&#12420;&#x304F;&#x308F;&#x308A;&#12434;&#x306F;&#x305F;&#12377;</ind>]</trd>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_c;&c_mol; <ind>&c_r;&c_o;&c_l;&c_ju;</ind></trd>
   <trd lng="cs">&uacute;&ccaron;inkovat</trd>
   <trd lng="de">eine <ind>Rolle</ind> spielen</trd>
+  <trd lng="en">play a <ind>role</ind></trd>
   <trdgrp lng="fr">
     <trd>jouer un <ind>r&ocirc;le</ind></trd>,
     <trd>&ecirc;tre <ind>impliqu&eacute;</ind> dans</trd>
@@ -217,10 +249,15 @@
     <trd>impersonare</trd>,
     <trd>figurare</trd>,
   </trdgrp>
+  <trd lng="nl">een rol spelen</trd>
+  <trdgrp lng="pl">
+    <trd>gra&cacute;  <ind>rol&eogonek;</ind></trd>,
+    <trd>odgrywa&cacute;  <ind>rol&eogonek;</ind></trd>
+  </trdgrp>
   <trd lng="ru">&c_i;&c_g;&c_r;&c_a;&c_t;&c_mol; <ind>&c_r;&c_o;&c_l;&c_mol;</ind></trd>
   <trdgrp lng="sk">
     <trd>hra&tcaron;</trd>,
-    <trd>vyst&uacute;pi&tcaron; <klr>(v &uacute;lohe)</klr></trd>,
+    <trd>vyst&uacute;pi&tcaron; <klr tip="amb">(v &uacute;lohe)</klr></trd>,
     <trd>&uacute;&ccaron;inkova&tcaron;</trd>
   </trdgrp>
 </drv>
@@ -233,7 +270,8 @@
     <dif>
       <ref tip="dif" cel="aktor.0o.TEA">Aktoro</ref>:
       <ekz>
-        estas granda diferenco inter la prononckapablo de mezuma popolano
+        estas granda diferenco inter la prononckapablo de mezuma
+        popolano
         kaj tiu de <klr>[&#8230;]</klr> teatra <tld/>isto
         <fnt>
         <aut>Pejno S.</aut>,
@@ -243,10 +281,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_k;&c_t;&c_o;&c_r;</trd>
   <trd lng="de">Schauspieler</trd>
-  <trd lng="es">int&eacute;rprete <klr>(actor)</klr></trd> 
+  <trd lng="es">int&eacute;rprete<klr tip="amb"> (actor)</klr></trd>
   <trd lng="fr">acteur</trd>
   <trd lng="it">attore</trd>
+  <trd lng="pl">aktor</trd>
 </drv>
 
 <drv mrk="rol.0ulo">
@@ -270,9 +310,10 @@
       <ekz>
         spekti la <tld/>ulojn de populara brita televidserio komedia
         <fnt>
-          <bib>Monato</bib>
           <aut>William Simcock</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007022.html">Britio: Jarmila kupolo en Londono</url></vrk>
+          <vrk><url ref="&Monato;/2000/007022.php">Jarmila kupolo en Londono</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 11</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -281,41 +322,55 @@
           <aut>Familio Macgill</aut>,
           <vrk>June, nejune, pretertempe</vrk>,
           <bib>Monato</bib>,
-          <lok>2001:7, p. 26a</lok>
+          <lok>2001/07, p. 26</lok>
         </fnt>;
       </ekz>
       <ekz>
         vivrandaj <tld/>uloj
         <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007110.php">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007110.html">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
-        </fnt>;
+          <lok>2001/01, p. 31</lok>
+          </fnt>;
       </ekz>
       <ekz>
         &ccirc;efa <tld/>ulo
         <fnt>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2003/008105.html">Renkonti&gcirc;o kun &scirc;rumpanta komunumo</url></vrk>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/008105.html">Renkonti&gcirc;o kun
+          &scirc;rumpanta komunumo</url></vrk>
           <lok>2003</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_e;&c_r;&c_s;&c_a;&c_n;&c_a;&c_zh;</trd>,
+    <trd>&c_g;&c_je;&c_r;&c_o;&c_j; <klr>(&c_u; &c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_ib;&c_m; &c_t;&c_v;&c_o;&c_r;&c_y;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>herec</trd>,
     <trd>p&rcaron;edstavitel role</trd>
   </trdgrp>
-  <trd lng="de">Rolle <klr>(Schauspiel)</klr></trd>
-  <trd lng="en">character</trd>
+  <trd lng="de">Figur<klr tip="amb"> (Fiktion)</klr></trd>
+  <trd lng="en">character<klr tip="amb"> (in fiction)</klr></trd>
   <trd lng="es">personaje</trd>
   <trdgrp lng="fr">
-    <trd>personnage<klr> (de fiction)</klr></trd>,
+    <trd>personnage<klr tip="amb"> (de fiction)</klr></trd>,
     <trd>protagoniste</trd>
   </trdgrp>
   <trd lng="hu">szerepl&odblac;</trd>
-  <trd lng="it">personaggio<klr> (lett., cin., teat.)</klr></trd>
+  <trd lng="it">personaggio<klr tip="amb"> (lett., cin.,
+  teat.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AD;&#x30E3;&#x30E9;&#x30AF;&#x30BF;&#x30FC;
+    [<ind>&#x304D;&#12419;&#12425;&#x304F;&#x305F;&#x30FC;</ind>]</trd>,
+    <trd>&#x767B;&#22580;&#x4EBA;&#29289; [<ind>&#12392;&#12358;&#12376;&#12423;&#12358;&#12376;&#12435;&#12406;&#12388;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">personage</trd>
+  <trd lng="pl">odtw&oacute;rca  <ind>roli</ind></trd>
   <trdgrp lng="ru">
     <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_u;&c_ju;&c_shch;&c_je;&c_je; &c_l;&c_i;&c_c;&c_o;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_s;&c_o;&c_n;&c_a;&c_zh;</trd>,
@@ -325,6 +380,7 @@
     <trd>herec</trd>,
     <trd>predstavite&lcaron; &uacute;lohy</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&#x43A;&#x43E;&#x43D;&c_a;&c_v;&c_je;&c_c;&#x44C; &c_r;&#x43E;&#x43B;&c_ib;</trd>
 </drv>
 
 <drv mrk="rol.cxef0ulo">
@@ -339,12 +395,14 @@
       <ref tip="sin" cel="hero.0o.BELE">heroo<sncref/></ref>,
       <ref tip="sin" cel="protag.0o">protagonisto</ref>:
       <ekz>
-        ni renkontas ses &ccirc;ef<tld/>ulojn, &ccirc;iun en sia karcero, kiuj fine renkonti&gcirc;as unu
+        ni renkontas ses &ccirc;ef<tld/>ulojn, &ccirc;iun en sia karcero, kiuj fine
+        renkonti&gcirc;as unu
         post la alia kaj kunlaboras por eskapi el la inkubejo
         <fnt>
+       <aut>Marteno Ecott</aut>
+          <vrk><url ref="&Monato;/2000/006838.html">Inkubo en kubo</url></vrk>
           <bib>Monato</bib>
-          <aut>Marteno Ecott</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006838.html">Kinarto: Inkubo en kubo</url></vrk>
+          <lok>2000/03, p. 17</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -352,15 +410,21 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="https://www.monato.be/2009/009732.php">Filmoj el socialisma erao</url></vrk>
+          <vrk><url ref="&Monato;/2009/009732.php">Filmoj
+          el socialisma erao</url></vrk>
           <lok>2009</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_a;&c_l;&c_o;&c_w;&c_n;&c_y; &c_g;&c_je;&c_r;&c_o;&c_j;</trd>
   <trdgrp lng="de">
     <trd>Hauptrolle</trd>,
     <trd>Protagonist</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>main character</trd>,
+    <trd>protagonist</trd>
   </trdgrp>
   <trd lng="es">protagonista</trd>
   <trdgrp lng="fr">
@@ -369,36 +433,45 @@
   </trdgrp>
   <trd lng="hu">f&odblac;szerepl&odblac;</trd>
   <trdgrp lng="it">
-    <trd>protagonista<klr> (personaggio principale)</klr></trd>,
+    <trd>protagonista<klr tip="ind"> (personaggio
+    principale)</klr></trd>,
     <trd>personaggio principale</trd>,
-    <trd>eroe<klr> (personaggio principale)</klr></trd>
-   </trdgrp>
-  <trd lng="nl">hoofdrolspeler</trd>
+    <trd>eroe<klr tip="ind"> (personaggio principale)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x4E3B;&#x4EBA;&#x516C; [<ind>&#12375;&#12421;&#12376;&#12435;&#12371;&#12358;</ind>]</trd>
+  <trdgrp lng="nl">
+    <trd>hoofdpersoon</trd>,
+    <trd>protagonist</trd>
+  </trdgrp>
+  <trd lng="pl">bohater g&lstroke;&oacute;wny</trd>
+  <trd lng="uk">&c_v;&c_i;&#x43A;&#x43E;&#x43D;&c_a;&c_v;&c_je;&c_c;&#x44C; &c_g;&#x43E;&#x43B;&#x43E;&c_v;&#x43D;&#x43E;&c_ji;
+  &c_r;&#x43E;&#x43B;&c_ib;</trd>
 </drv>
+
 </art>
 <!--
-$Log: rol.xml,v $
-versio 1.29 2020/02/19 20:10:24
-Wolfram Diestel: ekz-oj, germ trd-oj
+$Log$
+versio 1.41 2023/07/13 20:29:43
+Vito Redsky: +trd pl 
 
-Revision 1.28  2020/02/19 09:10:17  revo
-Wolfram Diestel: ~o: ekz-oj
+versio 1.40 2023/05/01 11:23:49
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.27  2018/03/28 20:10:14  revo
-Jeromo Vasxe: + ref protagonisto
+versio 1.39 2023/04/24 14:28:29
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.26  2016/02/28 18:10:34  revo
-Wolfram Diestel: riparo: snc forighis per skripto de Laer pro interlokita traduko
+versio 1.38 2023/04/17 05:28:07
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.25  2016/02/11 21:10:21  revo
-Guillermo Molleda Jimena: trd es
+versio 1.37 2023/04/13 16:34:02
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.24  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.36 2023/04/12 09:25:43
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.23  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.35 2023/04/07 16:34:02
+Paul Peeraerts: &Monato;/
 
-Revision 1.22  2013/11/01 15:10:13  revo
+versio 1.34 2022/05/04 19:19:16
 -->
 </vortaro>

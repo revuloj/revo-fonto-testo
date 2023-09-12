@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frikat.xml,v 1.13 2009/08/28 16:31:20 revo Exp $">
+<art mrk="$Id: frikat.xml,v 1.26 2023/08/31 13:11:31 revo Exp $">
   <kap>
     <rad>frikativ</rad>/o <fnt><bib>PV</bib></fnt>
   </kap>
@@ -16,11 +15,10 @@
       <ekz>
         unu el la plej konataj vortoj de Inuktituto, 
         &leftquot;<nac>iglu</nac>&rightquot;, estas en <nom>Kalaallisut</nom>
-        &leftquot;<nac>illu</nac>&rightquot; (&ccirc;e tio &leftquot;ll&rightquot; staras por la laterala <tld/>o &leftquot;&#620;&rightquot;)
+        &leftquot;<nac>illu</nac>&rightquot; (&ccirc;e tio &leftquot;ll&rightquot; staras por la laterala <tld/>o &leftquot;&#x26C;&rightquot;)
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=9293"
-              >Gronlanda lingvo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=9293">Gronlanda lingvo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -42,7 +40,12 @@
     <trd>fricative<klr> (subst.)</klr></trd>,
     <trd>spirante<klr> (subst.)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x6469;&#x64E6;&#x97F3;  [<ind>&#x307E;&#x3055;&#x3064;&#x304A;&#x3093;</ind>]</trd>
   <trd lng="nl">fricatief</trd>
+  <trdgrp lng="pl">
+    <trd>g&lstroke;oska szczelinowa</trd>,
+    <trd>frykatywa</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>consoante <ind>constritiva fricativa</ind></trd>,
     <trd>fricativa</trd>,
@@ -53,10 +56,17 @@
     <trd>&c_s;&c_p;&c_i;&c_r;&c_a;&c_n;&c_t;</trd>
   </trdgrp>
   <trd lng="sk">tren&aacute; hl&aacute;ska</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_r;&c_i;&#x43A;&c_a;&c_t;&c_i;&c_v;&#x43D;&c_i;&c_j; &c_z;&c_v;&c_u;&#x43A;</trd>,
+    <trd>&c_s;&#x43F;&c_ib;&c_r;&c_a;&#x43D;&c_t;</trd>
+  </trdgrp>
 </drv>
   </art>
   <!--
   $Log$
+versio 1.25 2023/05/03 21:24:00
+Vito Redsky: +trd pl 
+
   Revision 1.22  2015/07/04 08:37:34  revo
   aldono de trd cs per skripto de M. von Laer
 
@@ -76,26 +86,5 @@
   Sergio Pokrovskij: ref-dif
 
   Revision 1.16  2014/01/02 13:10:15  revo
-  Damien Brucker: +ref
-
-  Revision 1.15  2012/09/21 13:10:07  revo
-  Jeromo Vasxe: + mrk
-
-  Revision 1.14  2012/08/13 00:10:24  revo
-  Marc Rausell: + trd ca
-
-  Revision 1.13  2009/08/28 16:31:20  revo
-  Behnam Tabatabai: +trd fa
-
-  Revision 1.12  2009/06/10 16:30:39  revo
-  Russ Williams: +trd en
-
-  Revision 1.11  2007/06/13 16:31:56  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.10  2004/11/02 17:32:05  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.9  2003/01/05 17:33:38  revo
-  -->
+-->
 </vortaro>

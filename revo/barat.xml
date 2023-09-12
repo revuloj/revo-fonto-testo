@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: barat.xml,v 1.20 2020/02/28 00:10:43 revo Exp $">
+<art mrk="$Id: barat.xml,v 1.25 2023/08/31 08:48:49 revo Exp $">
 <kap>
   <rad>Barat</rad>/o
 </kap>
@@ -33,8 +32,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>A. Giridhar Rao</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008204.html">Misiisto-murdisto
+          <vrk><url ref="&Monato;/2004/008204.html">Misiisto-murdisto
           al morto kondamnita</url></vrk>
         </fnt>;
       </ekz>
@@ -43,8 +41,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul GUBBINS</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008223.html">&Ccirc;e-telefone ...
+          <vrk><url ref="&Monato;/2004/008223.html">&Ccirc;e-telefone ...
           kiu?</url></vrk>
         </fnt>;
       </ekz>
@@ -54,7 +51,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>D. E. Rogers</aut>
-          <vrk><url ref="https://www.monato.be/2004/008269.html">Libera
+          <vrk><url ref="&Monato;/2004/008269.html">Libera
           programaro: nova rimedo komerci</url></vrk>
         </fnt>;
       </ekz>
@@ -63,21 +60,19 @@
         <fnt>
           <bib>Monato</bib>
           <aut>A. Giridhar Rao</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008204.html">Misiisto-murdisto
+          <vrk><url ref="&Monato;/2004/008204.html">Misiisto-murdisto
           al morto kondamnita</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         aldone estis ekspoziciataj anka&ubreve; arta&jcirc;oj de bestoj kaj
         homfiguroj el koloraj
-        butonoj kaj &scirc;tofaj tuberetoj fare de <nom>Nek Chand</nom>, <tld
-        lit="b"/>ano, kies
-        &leftquot;rok&gcirc;ardeno&#8221; sialande fari&gcirc;is furora vidinda&jcirc;o
+        butonoj kaj &scirc;tofaj tuberetoj fare de <nom>Nek Chand</nom>, <tld lit="b"/>ano, kies
+        &leftquot;rok&gcirc;ardeno&#x201D; sialande fari&gcirc;is furora vidinda&jcirc;o
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="https://www.monato.be/2005/008666.php">Folklora
+          <vrk><url ref="&Monato;/2005/008666.php">Folklora
           festivalo en Kaustinen</url></vrk>
         </fnt>.
       </ekz>
@@ -85,6 +80,7 @@
   </snc>
   <trd lng="be">&c_Ib;&c_n;&c_d;&c_y;&c_ja;</trd>
   <trd lng="bg">&c_I;&c_n;&c_d;&c_i;&c_ja;</trd>
+  <trd lng="bo">&#xF62;&#xF92;&#xFB1;&#xF0B;&#xF42;&#xF62;&#xF0B;</trd>
   <trd lng="cs">Indie</trd>
   <trd lng="de">Indien</trd>
   <trd lng="en">India</trd>
@@ -93,15 +89,17 @@
     <trd>Inde</trd>,
     <trd>R&eacute;publique de l'Inde</trd>
   </trdgrp>
-  <trd lng="hi">&#2349;&#2366;&#2352;&#2340; [<ind>bh&#257;rat</ind>]</trd>
+  <trd lng="hi">&#x92D;&#x93E;&#x930;&#x924; [<ind>bh&amacron;rat</ind>]</trd>
   <trd lng="hu">India</trd>
   <trd lng="id">India</trd>
+  <trd lng="ja">&#x30D0;&#x30FC;&#x30E9;&#x30BF;&#x738B;  [<ind>&#x30D0;&#x30FC;&#x30E9;&#x30BF;&#x304A;&#x3046;</ind>]</trd>
   <trd lng="nl">India</trd>
   <trd lng="pl">Indie</trd>
   <trd lng="pt">&Iacute;ndia</trd>
   <trd lng="ru">&c_I;&c_n;&c_d;&c_i;&c_ja;</trd>
   <trd lng="sk">India</trd>
-  <trd lng="tp">ma Palata</trd>
+  <trd lng="tok">ma Palata</trd>
+  <trd lng="uk">&#x411;&#x445;&#x430;&#x440;&#x430;&#x442;</trd>
   <trd lng="vo">Lind&auml;n</trd>
 </drv>
 
@@ -115,13 +113,14 @@
         uzante malmultekostan laboristaron socie dividitan
         <fnt>
           <aut>D. Benbabaali, trad. J.-M. Cash</aut>,
-          <vrk><url ref="https://eo.mondediplo.com/article2597.html">
+          <vrk><url ref="&Mondediplo;article2597.html">
           La el&jcirc;etitoj de la barata miraklo</url></vrk>,
           <lok>le Monde diplomatique, 2018-03</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_ib;&c_n;&c_d;&c_y;&c_j;&c_s;&c_k;&c_ib;</trd>
   <trd lng="de">indisch</trd>
   <trd lng="en">Indian</trd>
   <trdgrp lng="es">
@@ -133,7 +132,7 @@
     <trd>indienne<klr> (adj.)</klr></trd>
   </trdgrp>
   <trd lng="nl">Indiaas</trd>
-  <trd lng="tp">pi ma Palata</trd>
+  <trd lng="tok">pi ma Palata</trd>
   <trd lng="vo">Lind&auml;nik</trd>
 </drv>
 
@@ -143,17 +142,17 @@
     <dif>
       Civitano de <tld/>o:
       <ekz>
-        la lo&gcirc;antoj de orienta Glasgovo fartas tre bone kompare kun <tld
-        lit="b"/>anoj
+        la lo&gcirc;antoj de orienta Glasgovo fartas tre bone kompare kun <tld lit="b"/>anoj
         <fnt>
           <aut>J. Brygo, trad. M. Leon</aut>,
-          <vrk><url ref="https://eo.mondediplo.com/article1669.html">
+          <vrk><url ref="&Mondediplo;article1669.html">
           Vivi ri&ccirc;ule en urbo de malri&ccirc;uloj</url></vrk>,
           <lok>le Monde diplomatique, 2010-08</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_ib;&c_n;&c_d;&c_y;&c_je;&c_c;</trd>
   <trdgrp lng="de">
     <trd>Inder</trd>
     <trd>Inderin</trd>
@@ -168,12 +167,18 @@
     <trd>Indienne<klr> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="nl">Indi&euml;r</trd>
-  <trd lng="tp">jan pi ma Palata</trd>
+  <trd lng="tok">jan pi ma Palata</trd>
   <trd lng="vo">Lind&auml;nan</trd>
 </drv>
 </art>
 <!--
-$Log: barat.xml,v $
+$Log$
+versio 1.24 2022/04/26 15:00:32
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2021/05/04 07:02:02
+Dmitri Gabinski: + trd be
+
 versio 1.20 2020/02/28 00:10:43
 Robin van der Vliet: difinoj, +trd
 
@@ -190,11 +195,5 @@ Revision 1.16  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.15  2015/06/29 16:29:35  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.14  2014/06/13 08:10:13  revo
-Damien Brucker: +trd fr
-
-Revision 1.13  2014/06/03 10:10:41  revo
 -->
 </vortaro>

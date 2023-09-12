@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kom.xml,v 1.16 2009/09/02 16:31:38 revo Exp $">
+<art mrk="$Id: kom.xml,v 1.29 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kom</rad>/o
@@ -13,8 +12,7 @@
    <uzo tip="fak">TIP</uzo>
    <uzo tip="fak">GRA</uzo>
     <dif>
-      <ref tip="dif" cel="interp3.0o">Interpunkcia</ref> <ref
-      tip="super" cel="sign.0o">signo</ref> (,) indikanta, ke oni devas
+      <ref tip="dif" cel="interp3.0o">Interpunkcia</ref> <ref tip="super" cel="sign.0o">signo</ref> (,) indikanta, ke oni devas
       apartigi partojn de propozicio a&ubreve; propoziciojn unu de la alia,
       intermetante tre mallongan pa&ubreve;zon:
       <ekz>
@@ -60,23 +58,27 @@
   <trdgrp lng="fr">
     <trd>virgule</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B3;&#x30F3;&#x30DE;</trd>,
+    <trd>&#x8AAD;&#x70B9;  [<ind>&#x3068;&#x3046;&#x3066;&#x3093;</ind>]</trd>,
+    <trd>&#x5C0F;&#x6570;&#x70B9;  [<ind>&#x3057;&#x3087;&#x3046;&#x3059;&#x3046;&#x3066;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">komma</trd>
   <trd lng="pl">przecinek</trd>
   <trd lng="pt">v&iacute;rgula</trd>
   <trd lng="ru">&c_z;&c_a;&c_p;&c_ja;&c_t;&c_a;&c_ja;</trd>
   <trd lng="sk">&ccaron;iarka</trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43C;&#x430;</trd>
 </drv>
 
 <drv mrk="kom.punkto0o">
   <kap><ofc>*</ofc>punkto<tld/>o <fnt><bib>F</bib>, <lok>Universala
-  Vortaro, <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5174">punkt'o'kom'</url></lok></fnt></kap>
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5174">punkt'o'kom'</url></lok></fnt></kap>
   <snc>
   <uzo tip="fak">TIP</uzo>
   <uzo tip="fak">GRA</uzo>
     <dif>
-      <ref tip="dif" cel="interp3.0o">Interpunkcia</ref> <ref
-      tip="super" cel="sign.0o">signo</ref> (;) indikanta iom pli longan
+      <ref tip="dif" cel="interp3.0o">Interpunkcia</ref> <ref tip="super" cel="sign.0o">signo</ref> (;) indikanta iom pli longan
       pa&ubreve;zon ol <tld/>o inter partoj de frazo:
       <ekz>
         &ccirc;e mia brita klavaro la punkto<tld/>o estas sub mia dekstra
@@ -105,6 +107,7 @@
   <trdgrp lng="fr">
     <trd>point-virgule</trd>
   </trdgrp>
+  <trd lng="ja">&#x30BB;&#x30DF;&#x30B3;&#x30ED;&#x30F3;</trd>
   <trdgrp lng="nl">
     <trd>puntkomma</trd>,
     <trd>kommapunt</trd>
@@ -114,10 +117,14 @@
   <trd lng="ru">&c_t;&c_o;&c_ch;&c_k;&c_a; &c_s;
 &c_z;&c_a;&c_p;&c_ja;&c_t;&c_o;&c_j;</trd>
   <trd lng="sk">bodko&ccaron;iarka</trd>
+  <trd lng="uk">&#x43A;&#x440;&#x430;&#x43F;&#x43A;&#x430; &#x437; &#x43A;&#x43E;&#x43C;&#x43E;&#x44E;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.24  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

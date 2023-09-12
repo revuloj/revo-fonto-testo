@@ -1,14 +1,13 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
-    <kap>
-      <ofc>*</ofc>
-      <rad>pre&gcirc;</rad>/i
-    </kap>
+<art mrk="$Id: pregx.xml,v 1.37 2023/09/03 12:45:11 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pre&gcirc;</rad>/i
+</kap>
 
-    <drv mrk="pregx.0i">
+<drv mrk="pregx.0i">
       <kap><ofc>*</ofc><tld/>i</kap>
       <gra><vspec>ntr</vspec></gra>
       <snc mrk="pregx.0i.REL">
@@ -19,33 +18,41 @@
           favoro:
           <ekz>
             <tld/>u al la Sankta Virgulino<fnt>
-              <bib>F</bib>, <lok>&FE; 37</lok></fnt>;
-          </ekz><ekz>
+              <bib>F</bib> <lok>&FE; 37</lok></fnt>;
+          </ekz>
+          <ekz>
             <tld/>u kore kaj laboru fervore
             <fnt><bib>PrV</bib></fnt>;
-          </ekz><ekz>
-            &scirc;i <klr>...</klr> portadis mem en la longa nokto sian
-            malsanan infanon <klr>...</klr> kisadis &gcirc;in kaj <tld/>is
-            por &gcirc;i al Dio <klr>...</klr>
-            <fnt><bib>Fab3</bib>, <lok>Plej bela rozo de la
+          </ekz>
+          <ekz>
+            &scirc;i <klr>[&#x2026;]</klr> portadis mem en la longa nokto sian
+            malsanan infanon <klr>[&#x2026;]</klr> kisadis &gcirc;in kaj <tld/>is
+            por &gcirc;i al Dio <klr>[&#x2026;]</klr>
+            <fnt><bib>Fab3</bib> <lok>Plej bela rozo de la
             mondo</lok></fnt>;
-          </ekz><ekz>
-            kaj la tuta popolo diris al Samuel: <tld lit="P"/>u por
+          </ekz>
+          <ekz>
+            kaj la tuta popolo diris al <nom>Samuel</nom>: <tld lit="P"/>u por
             viaj sklavoj al la Eternulo, via Dio, por ke ni ne mortu
-	    <fnt><bib>MT</bib>, <lok>&Sa1; 12:19</lok></fnt>;
-          </ekz><ekz>
+	    <fnt><bib>MT</bib> <lok>&Sa1; 12:19</lok></fnt>;
+          </ekz>
+          <ekz>
             ili <tld/>u pri la vivo de la re&gcirc;o kaj de liaj infanoj
-	    <fnt><bib>MT</bib>, <lok>&Ezr; 6:10</lok></fnt>;
-          </ekz><ekz>
+	    <fnt><bib>MT</bib> <lok>&Ezr; 6:10</lok></fnt>;
+          </ekz>
+          <ekz>
             li <tld/>os pri vi, kaj vi restos viva
-	    <fnt><bib>MT</bib>, <lok>&Gen; 20:7</lok></fnt>;
-          </ekz><ekz>
+	    <fnt><bib>MT</bib> <lok>&Gen; 20:7</lok></fnt>;
+          </ekz>
+          <ekz>
             ordonu al mi, por kiu tempo mi devas <tld/>i pro vi kaj pro
             viaj servantoj kaj pro via popolo, ke malaperu la ranoj
-            <fnt><bib>MT</bib>, <lok>&Eli; 8:9</lok></fnt>;
-          </ekz><ekz>
+            <fnt><bib>MT</bib> <lok>&Eli; 8:9</lok></fnt>;
+          </ekz>
+          <ekz>
             &scirc;i <tld/>is sian vesperan <tld/>on<fnt>Z</fnt>;
-          </ekz><ekz>
+          </ekz>
+          <ekz>
             a&ubreve;skultu la <tld/>on, per kiu via servanto <tld/>as anta&ubreve;
             Vi
             hodia&ubreve;<fnt>Z</fnt>.
@@ -53,7 +60,8 @@
         </dif>
       </snc>
       <trd lng="be">&c_m;&c_a;&c_l;&c_ib;&c_c;&c_c;&c_a;</trd>
-      <trd lng="ca">pregar</trd>
+      <trd lng="bo">&t_sa;&t_mata;&t_naro;&t_na;&t_tsheg;&t_la;&t_ma;&t_tsheg;&t_ra;&t_gata;&t_yata;&t_ga;&t_tsheg;</trd>
+  <trd lng="ca">pregar</trd>
       <trd lng="de">beten</trd>
       <trd lng="en">pray</trd>
       <trd lng="es">rezar</trd>
@@ -65,10 +73,14 @@
       <trd lng="fr">prier</trd>
       <trd lng="hu">im&aacute;dkozik</trd>
       <trdgrp lng="id">
-        <trd>[<ind>doa</ind>] berdoa</trd>,
-        <trd>[<ind>ibadah</ind>] beribadah</trd>
+        <trd>ber<ind>doa</ind></trd>,
+        <trd>ber<ind>ibadah</ind></trd>
       </trdgrp>
-      <trd lng="nl">bidden</trd>
+      <trdgrp lng="ja">
+    <trd>&#x7948;&#x308B;  [<ind>&#x3044;&#x306E;&#x308B;</ind>]</trd>,
+    <trd>&#x7948;&#x9858;&#x3059;&#x308B;  [<ind>&#x304D;&#x304C;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">bidden</trd>
       <trd lng="pl">modli&cacute; si&eogonek;</trd>
       <trdgrp lng="pt">
         <trd>orar</trd>,
@@ -77,25 +89,28 @@
       </trdgrp>
       <trd lng="ru">&c_m;&c_o;&c_l;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
       <trd lng="sv">bedja</trd>
-    </drv>
+      <trd lng="uk">&c_m;&c_o;&c_l;&c_i;&c_t;&c_i;&c_s;&c_ja;</trd>
+</drv>
 
-    <drv mrk="pregx.0o">
+<drv mrk="pregx.0o">
       <kap><tld/>o</kap>
-      <snc>
+      <snc mrk="pregx.0o.REL">
         <dif>
           La ago <tld/>i kaj vortoj de la <tld/>anto:
           <ekz>
             ili vokis al Dio, kaj li a&ubreve;skultis ilian <tld/>on
             pro tio, ke ili fidis lin
-	    <fnt><bib>MT</bib>, <lok>&Kr1; 5:20</lok></fnt>;
-          </ekz><ekz>
+	    <fnt><bib>MT</bib> <lok>&Kr1; 5:20</lok></fnt>;
+          </ekz>
+          <ekz>
             li kunmetis &scirc;iajn manojn kaj eldiris <tld/>on pri
             mortintoj
-            <fnt><bib>Fab3</bib>, <lok>Historio</lok></fnt>.
+            <fnt><bib>Fab3</bib> <lok>Historio</lok></fnt>.
           </ekz>
         </dif>
       </snc>
-      <trd lng="ca">preg&agrave;ria</trd>
+      <trd lng="bo">&t_sa;&t_mata;&t_naro;&t_na;&t_tsheg;&t_la;&t_ma;&t_tsheg;</trd>
+  <trd lng="ca">preg&agrave;ria</trd>
       <trd lng="en">prayer</trd>
       <trd lng="es">oraci&oacute;n</trd>
       <trdgrp lng="fa">
@@ -108,11 +123,20 @@
         <trd>doa</trd>,
         <trd>ibadah</trd>
       </trdgrp>
-      <trd lng="nl">gebed</trd>
+      <trdgrp lng="ja">
+    <trd>&#x7948;&#x308A;  [<ind>&#x3044;&#x306E;&#x308A;</ind>]</trd>,
+    <trd>&#x7948;&#x7977;  [<ind>&#x304D;&#x3068;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">gebed</trd>
+      <trdgrp lng="pl">
+        <trd>modlitwa</trd>,
+        <trd>pacierz</trd>
+      </trdgrp>
       <trd lng="ru">&c_m;&c_o;&c_l;&c_i;&c_t;&c_v;&c_a;</trd>
-    </drv>
+      <trd lng="uk">&c_m;&c_o;&c_l;&c_i;&c_t;&c_v;&c_a; &c_p;&c_je;&c_r;&c_je;&c_d; &c_ji;&c_d;&c_o;&c_ju;</trd>
+</drv>
 
-    <drv mrk="pregx.0ejo">
+<drv mrk="pregx.0ejo">
       <kap><ofc>*</ofc><tld/>ejo
       <fnt><bib>F</bib>, <lok>Universala Vortaro, -ej'</lok></fnt></kap>
       <snc mrk="pregx.0ejo.REL">
@@ -121,15 +145,17 @@
           Konstrua&jcirc;o a&ubreve; loko en kiu oni <tld/>as:
           <ekz>
             la graciaj turpintoj de la <tld/>ejo levi&gcirc;as super
-            la malalta urbo kaj speguli&gcirc;as en Isefjord
-            <fnt><bib>Fab4</bib>, <lok>Peco da perlovico</lok></fnt>;
-          </ekz><ekz>
+            la malalta urbo kaj speguli&gcirc;as en <nom>Isefjord</nom>
+            <fnt><bib>Fab4</bib> <lok>Peco da perlovico</lok></fnt>;
+          </ekz>
+          <ekz>
             mi venigos sur Mian sanktan monton kaj &gcirc;ojigos en Mia
             <tld/>ejo; iliaj bruloferoj kaj bu&ccirc;oferoj estos favore
             akceptataj sur Mia altaro; &ccirc;ar Mia domo
             estos nomata <tld/>ejo por &ccirc;iuj popoloj
-            <fnt><bib>MT</bib>, <lok>&Jes; 56:7</lok></fnt>;
-          </ekz><ekz>
+            <fnt><bib>MT</bib> <lok>&Jes; 56:7</lok></fnt>;
+          </ekz>
+          <ekz>
             malri&ccirc;a kiel muso <tld/>eja
             <fnt><bib>PrV</bib></fnt>.
           </ekz>
@@ -169,16 +195,26 @@
       <trd lng="fr">&eacute;glise</trd>
       <trd lng="hu">templom</trd>
       <trd lng="id">gereja</trd>
-      <trd lng="nl">kerk</trd>
+      <trdgrp lng="ja">
+    <trd>&#x7948;&#x7977;&#x6240;  [<ind>&#x304D;&#x3068;&#x3046;&#x3057;&#x3087;</ind>]</trd>,
+    <trd>&#x6559;&#x4F1A;  [<ind>&#x304D;&#x3087;&#x3046;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x6559;&#x4F1A;&#x5802;  [<ind>&#x304D;&#x3087;&#x3046;&#x304B;&#x3044;&#x3069;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">kerk</trd>
       <trd lng="pl">ko&sacute;ci&oacute;&lstroke;</trd>
       <trdgrp lng="ru">
         <trd>&c_m;&c_o;&c_l;&c_je;&c_l;&c_mol;&c_n;&c_ja;</trd>;
         <trd>&c_c;&c_je;&c_r;&c_k;&c_o;&c_v;&c_mol;<klr> (kristana)</klr></trd>
       </trdgrp>
       <trd lng="sv">kyrka</trd>
-    </drv>
+      <trdgrp lng="uk">
+    <trd>&c_c;&c_je;&c_r;&c_k;&c_v;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_s;&c_t;&c_mol;&c_o;&c_l;</trd>,
+    <trd>&c_k;&c_o;&c_s;&c_t;&c_je;&c_l;</trd>
+  </trdgrp>
+</drv>
 
-    <drv mrk="pregx.hejma0ejo">
+<drv mrk="pregx.hejma0ejo">
       <kap>hejma <tld/>ejo</kap>
       <snc mrk="pregx.hejma0ejo.REL">
         <uzo tip="fak">REL</uzo>
@@ -203,46 +239,75 @@
         <trd>oratoire</trd>
       </trdgrp>
       <trd lng="nl">huiskapel</trd>
-      <trd lng="ru">&c_d;&c_o;&c_m;&c_o;&c_v;&c_a;&c_ja;
-&c_c;&c_je;&c_r;&c_k;&c_o;&c_v;&c_mol;</trd>
-    </drv>
+      <trdgrp lng="pl">
+        <trd>o&lstroke;tarzyk</trd>,
+        <trd>kaplica</trd>
+      </trdgrp>
+      <trd lng="ru">&c_d;&c_o;&c_m;&c_o;&c_v;&c_a;&c_ja; &c_c;&c_je;&c_r;&c_k;&c_o;&c_v;&c_mol;</trd>
+</drv>
 
-    <drv mrk="pregx.0olibro">
-      <kap><tld/>olibro</kap>
-      <snc mrk="pregx.0olibro.REL">
-        <uzo tip="fak">REL</uzo>
-        <dif>
-          Libro entenanta <tld/>ojn:
-          <ekz>
-            nur tra la malgranda kornatavola fenestro de tegmenta
-            &ccirc;ambreto penetradis eksteren senbrila lumeto, tie la
-            maljuna sinjoro ordinare sidis sur sia lito kun sia
-            germana <tld/>olibro en la mano kaj kantis sian vesperan
-            <tld/>on
-            <fnt><bib>Fab3</bib>, <lok>Nokta &ccirc;apo de
-            fra&ubreve;lo</lok></fnt>.
-          </ekz>
-        </dif>
-      </snc>
-      <ref tip="vid" cel="rit.0libro">ritlibro</ref>
-      <trd lng="ca">devocionari</trd>
-      <trd lng="en">prayer-book</trd>
-      <trd lng="es">breviario</trd>
-      <trd lng="fa">&f_k;&a_t;&a_A;&a_b; &a_d;&a_ayn;&a_A;</trd>
-      <trdgrp lng="fr">
-        <trd>br&eacute;viaire</trd>,
-        <trd>livre de pri&egrave;re</trd>
-      </trdgrp>
-      <trd lng="id"><ind>buku</ind> doa</trd>
-      <trdgrp lng="nl">
-        <trd>gebedsboek</trd>,
-        <trd>gebedenboek</trd>
-      </trdgrp>
-      <trd lng="ru">&c_m;&c_o;&c_l;&c_i;&c_t;&c_v;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
-    </drv>
-  </art>
+<drv mrk="pregx.katedra_0ejo">
+  <kap>
+    katedra <tld/>ejo
+  </kap>
+  <snc mrk="pregx.katedra_0ejo.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      <tld lit="P"/>ejo, en kiu episkopo havas sian katedron, instruas;
+      <ref tip="sin" cel="katedr1.0o">katedralo</ref>:
+      <ekz>
+        tio estas belega <tld/>ejo, multe pli bela, kvankam ne tiel granda, kiel la
+        konstruita el marmoro katedra <tld/>ejo de Florenco
+        <fnt>
+          <bib>Fab1</bib>
+          <vrk>Kupra porko</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i estis tre malnova katedra <tld/>ejo, ekkonstruita en la jarcento de la
+        imperiestro Karlo Granda
+        <fnt>
+          <aut>E. Privat</aut>
+          <vrk>Karlo</vrk>
+          <lok>1909</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_t;&c_e;&c_d;&c_r;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_t;&c_e;&c_d;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_s;&c_a;&c_b;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_k;&c_a;&c_t;&c_je;&c_d;&c_r;&c_a;&c_l;&c_a;</trd>
+  <trd lng="br">iliz-veur</trd>
+  <trd lng="ca">catedral</trd>
+  <trdgrp lng="de">
+     <trd>Dom</trd>,
+     <trd>M&uuml;nster</trd>,
+     <trd>Kathedrale</trd>
+  </trdgrp>
+  <trd lng="es">catedral</trd>
+  <trd lng="fa">&f_k;&a_l;&f_y;&a_s;&a_A;&f_y; &a_j;&a_A;&a_m;&a_ayn;</trd>
+  <trd lng="fr">cath&eacute;drale</trd>
+  <trdgrp lng="hu">
+     <trd>sz&eacute;kesegyh&aacute;z</trd>,
+     <trd>katedr&aacute;lis</trd>,
+     <trd>d&oacute;m</trd>
+  </trdgrp>
+  <trd lng="pl">katedra <klr> (ko&sacute;ci&oacute;&lstroke;)</klr></trd>
+  <trd lng="ro">catedral&abreve;</trd>
+  <trd lng="ru">&c_k;&c_a;&c_f;&c_je;&c_d;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_s;&c_o;&c_b;&c_o;&c_r;</ind></trd>
+  <trd lng="uk">&c_k;&c_a;&c_f;&c_je;&c_d;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j; &c_s;&c_o;&c_b;&c_o;&c_r;</trd>
+</drv>
+</art>
   <!--
   $Log$
+versio 1.36 2023/06/04 21:20:31
+Jeromo Vasxe: + katedra ~o, - ~olibro
+
+versio 1.35 2023/04/19 22:28:05
+Vito Redsky: +trd pl 
+
   Revision 1.30  2017/12/19 11:10:15  revo
   Michel Cantigneaux: fundamenta "pregxejo" el la U.V.
 
@@ -259,38 +324,5 @@
   Damien Brucker: +trd fr
 
   Revision 1.25  2014/05/31 16:10:17  revo
-  Eko Nur Syah Hidayat: +id
-
-  Revision 1.24  2012/01/03 23:10:22  revo
-  Marc Rausell: +trd ca
-
-  Revision 1.23  2009/10/28 17:30:30  revo
-  Paul Peeraerts: +nl
-
-  Revision 1.22  2007/11/08 17:30:20  revo
-  Sergio Pokrovskij: +~o
-
-  Revision 1.21  2006/03/18 17:32:03  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.20  2005/12/19 17:31:25  revo
-  Jeromo Vasxe: kor 1 ref, + 2 trd fr
-
-  Revision 1.19 2004/11/22 17:32:19 revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.18 2004/01/13 18:59:21 revo
-  jxeromo vasxe: + bib fundamento en ekz
-
-  Revision 1.17 2003/12/03 17:31:36 revo
-  Sergio Pokrovskij: +~olibro
-
-  Revision 1.16 2003/12/02 17:30:29 revo
-  Sergio Pokrovskij: +ekz, TEZ
-
-  Revision 1.15 2003/11/17 08:35:03 revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.14 2003/07/19 16:31:00 revo
-  -->
+-->
 </vortaro>

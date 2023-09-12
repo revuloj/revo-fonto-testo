@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: teler.xml,v 1.26 2023/09/04 18:15:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>teler</rad>/o
@@ -38,10 +37,11 @@
   </snc>
   <trd lng="be">&c_t;&c_a;&c_l;&c_je;&c_r;&c_k;&c_a;</trd>
   <trd lng="bg">&c_ch;&c_i;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="bo">&#xF50;&#xF0B;&#xF56;&#xF42;&#xF0B;</trd>
   <trd lng="ca">plat</trd>
   <trdgrp lng="cs">
     <trd>tal&iacute;&rcaron;</trd>,
-    <trd>talíř</trd>
+    <trd>tal&iacute;&rcaron;</trd>
   </trdgrp>
   <trd lng="de">Teller</trd>
   <trd lng="en">plate</trd>
@@ -50,6 +50,13 @@
   <trd lng="fr">assiette</trd>
   <trd lng="hu">t&aacute;ny&eacute;r</trd>
   <trd lng="id">piring</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76BF;  [<ind>&#x3055;&#x3089;</ind>]</trd>,
+    <trd>&#x53D6;&#x308A;&#x76BF;  [<ind>&#x3068;&#x308A;&#x3056;&#x3089;</ind>]</trd>,
+    <trd>&#x6599;&#x7406;  [<ind>&#x308A;&#x3087;&#x3046;&#x308A;</ind>]</trd>,
+    <trd>&#x4E00;&#x54C1;  [<ind>&#x3044;&#x3063;&#x3074;&#x3093;</ind>]</trd>,
+    <trd>&#x76BF;&#x72B6;&#x306E;&#x3082;&#x306E;  [<ind>&#x3055;&#x3089;&#x3058;&#x3087;&#x3046;&#x306E;&#x3082;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bord <klr>(eten)</klr></trd>
   <trd lng="pl">talerz</trd>
   <trdgrp lng="pt">
@@ -59,10 +66,14 @@
   <trd lng="sk">tanier</trd>
   <trd lng="sv">tallrik</trd>
   <trd lng="tr">tabak</trd>
+  <trd lng="uk">&#x442;&#x430;&#x440;&#x456;&#x43B;&#x43A;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2021/01/19 09:11:12
+Aleks Andre: +trd bo
+
 Revision 1.22  2014/06/26 14:10:24  revo
 Eko Nur Syah Hidayat: +id
 
@@ -82,8 +93,5 @@ Revision 1.17  2004/11/19 17:32:03  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.16  2002/10/09 16:31:45  revo
-Rastislav Sarissky: +trd sk
-
-Revision 1.15  2002/09/18 16:36:38  revo
 -->
 </vortaro>

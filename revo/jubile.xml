@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: jubile.xml,v 1.15 2009/03/15 17:31:39 revo Exp $">
+<art mrk="$Id: jubile.xml,v 1.23 2023/08/31 18:25:29 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>jubile</rad>/o <fnt><bib>PV</bib></fnt>
@@ -59,13 +58,22 @@
   <trd lng="es">jubileo</trd>
   <trd lng="fr">jubil&eacute;</trd>
   <trd lng="it">giubileo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A18;&#x5FF5;&#x796D;  [<ind>&#x304D;&#x306D;&#x3093;&#x3055;&#x3044;</ind>]</trd>,
+    <trd>&#x8056;&#x5E74;  [<ind>&#x305B;&#x3044;&#x306D;&#x3093;</ind>]</trd>,
+    <trd>&#x5927;&#x8D66;  [<ind>&#x305F;&#x3044;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">jubileu</trd>
   <trd lng="sk">jubileum</trd>
+  <trdgrp lng="uk">
+    <trd>&#x44E;&c_v;&c_ib;&#x43B;&c_je;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_ch;&#x43D;&c_i;&c_c;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="jubile.0a">
   <kap><tld/>a</kap>
-  <snc  mrk="jubile.0a.KAL">
+  <snc mrk="jubile.0a.KAL">
     <dif>
       Rilata al <tld/>o, solenanta la pason de ronda nombro
       de jaroj post evento:
@@ -80,10 +88,15 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="ja">&#x8A18;&#x5FF5;&#x796D;&#x306E;  [<ind>&#x304D;&#x306D;&#x3093;&#x3055;&#x3044;&#x306E;</ind>]</trd>
+  <trd lng="uk">&#x44E;&c_v;&c_ib;&#x43B;&c_je;&c_j;&#x43D;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2022/03/31 16:45:57
+Wolfram Diestel: kor. trd uk
+
 Revision 1.19  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 

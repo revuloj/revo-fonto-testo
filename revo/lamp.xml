@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lamp.xml,v 1.23 2009/09/22 17:18:11 revo Exp $">
+<art mrk="$Id: lamp.xml,v 1.35 2023/09/01 19:10:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lamp</rad>/o <fnt><bib>PV</bib></fnt>
@@ -47,6 +46,7 @@
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_m;&c_p;&c_a;</trd>
   <trd lng="bg">&c_l;&c_a;&c_m;&c_p;&c_a;</trd>
+  <trd lng="bo">&#xF56;&#xF5E;&#xF74;&#xF0B;&#xF58;&#xF62;&#xF0B;</trd>
   <trd lng="br">lamp</trd>
   <trd lng="ca">l&agrave;mpada</trd>
   <trdgrp lng="cs">
@@ -63,12 +63,21 @@
   <trd lng="fr">lampe</trd>
   <trd lng="hu">l&aacute;mpa</trd>
   <trd lng="id">lampu</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E9;&#x30F3;&#x30D7;</trd>,
+    <trd>&#x706F;&#x706B;  [<ind>&#x3068;&#x3082;&#x3057;&#x3073;</ind>]</trd>,
+    <trd>&#x96FB;&#x706F;  [<ind>&#x3067;&#x3093;&#x3068;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">lamp</trd>
   <trd lng="pl">lampa</trd>
   <trd lng="pt">l&acirc;mpada</trd>
   <trd lng="ru">&c_l;&c_a;&c_m;&c_p;&c_a;</trd>
   <trd lng="sk">lampa</trd>
   <trd lng="sv">lampa</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x430;&#x43C;&#x43F;&#x430;</trd>,
+    <trd>&#x43B;&#x456;&#x445;&#x442;&#x430;&#x440;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lamp.0ingo">
@@ -89,12 +98,13 @@
     <trd>suport</trd>,
     <trd>base</trd>
   </trdgrp>
-  <trd lng="cs">objímka lampy</trd>
+  <trd lng="cs">obj&#xED;mka lampy</trd>
   <trdgrp lng="fr">
     <trd>chandelier</trd>,
     <trd>support de lampe</trd>
   </trdgrp>
   <trd lng="hu">l&aacute;mpafoglalat</trd>
+  <trd lng="ja">&#x30BD;&#x30B1;&#x30C3;&#x30C8;</trd>
   <trdgrp lng="nl">
     <trd>lamphouder</trd>,
     <trd>fitting</trd>
@@ -102,7 +112,8 @@
   <trdgrp lng="pl">
     <trd>klosz</trd>
   </trdgrp>
-  <trd lng="sk">objímka lampy</trd>
+  <trd lng="sk">obj&#xED;mka lampy</trd>
+  <trd lng="uk">&#x43F;&#x430;&#x442;&#x440;&#x43E;&#x43D; (&#x435;&#x43B;&#x435;&#x43A;&#x442;&#x440;&#x438;&#x447;&#x43D;&#x43E;&#x457; &#x43B;&#x430;&#x43C;&#x43F;&#x43E;&#x447;&#x43A;&#x438;)</trd>
 </drv>
 
 <drv mrk="lamp.halogen0o">
@@ -115,13 +126,13 @@
 	malgranda hejtilo kun halogenaj <tld/>oj
 	<fnt>
 	<aut>Vastalto</aut>,
-	<vrk><url
-	ref="http://www.vastalto.com/blog/">Akvosfero</url></vrk>,
+	<vrk><url ref="http://www.vastalto.com/blog/">Akvosfero</url></vrk>,
 	<lok>Halogena hejtilo, 2006-01-04</lok>
 	</fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_a;&c_l;&c_ja;&c_g;&c_je;&c_n;&c_a;&c_v;&c_a;&c_ja; &c_l;&c_ja;&c_m;&c_p;&c_a;</trd>
   <trd lng="ca"><ind>l&agrave;mpada</ind> d'halogen</trd>
   <trd lng="de">Halogenlampe</trd>
   <trdgrp lng="fr">
@@ -129,6 +140,7 @@
     <trd>lampe &agrave; halog&egrave;ne</trd>
   </trdgrp>
   <trd lng="id"><ind>lampu</ind> halogen</trd>
+  <trd lng="ja">&#x30CF;&#x30ED;&#x30B2;&#x30F3;&#x30E9;&#x30F3;&#x30D7;</trd>
   <trd lng="nl">halogeenlamp</trd>
   <trd lng="pl">lampa halogenowa</trd>
 </drv>
@@ -147,10 +159,14 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_e;&c_o;&c_n;&c_a;&c_v;&c_a;&c_ja; &c_l;&c_ja;&c_m;&c_p;&c_a;</trd>,
+    <trd>&c_n;&c_e;&c_o;&c_n;&c_a;&c_v;&c_y; &c_l;&c_ib;&c_h;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
   <trd lng="ca"><ind>l&agrave;mpada</ind> de ne&oacute;</trd>
   <trdgrp lng="cs">
-    <trd>neonová lampa</trd>,
-    <trd>neonová zářivka</trd>
+    <trd>neonov&#xE1; lampa</trd>,
+    <trd>neonov&#xE1; z&#xE1;&rcaron;ivka</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Leuchtr&ouml;hre</trd>,
@@ -158,13 +174,15 @@
   </trdgrp>
   <trd lng="fr">n&eacute;on<klr> (lampe)</klr></trd>
   <trd lng="id"><ind>lampu</ind> neon</trd>
+  <trd lng="ja">&#x30CD;&#x30AA;&#x30F3;&#x30E9;&#x30F3;&#x30D7;</trd>
   <trd lng="nl">neonlamp</trd>
   <trdgrp lng="pl">
     <trd>lampa neonow</trd>,
     <trd>neon&oacute;wka</trd>,
     <trd>neon</trd>
   </trdgrp>
-  <trd lng="sk">neónová žiarivka</trd>
+  <trd lng="sk">ne&#xF3;nov&#xE1; &#x17E;iarivka</trd>
+  <trd lng="uk">&#x43D;&#x435;&#x43E;&#x43D;&#x43E;&#x432;&#x430; &#x43B;&#x430;&#x43C;&#x43F;&#x430;</trd>
 </drv>
 
 <drv mrk="lamp.ole0o">
@@ -203,8 +221,7 @@
   <kap>po&scirc;<tld/>o</kap>
   <snc mrk="lamp.posx0o.LUM">
     <dif>
-      Malgranda, facile kunportebla <ref tip="super"
-      cel="lamp.0o.LUM"><tld/>o</ref>:
+      Malgranda, facile kunportebla <ref tip="super" cel="lamp.0o.LUM"><tld/>o</ref>:
       <ekz>
 	du akre brilaj po&scirc;<tld/>oj celis al mi
 	<fnt><bib>Mortul&Scirc;ip</bib>, <lok>unua libro, &ccirc;apitro
@@ -212,6 +229,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_l;&c_ib;&c_h;&c_t;&c_a;&c_r;&c_y;&c_k; <klr>(&c_k;&c_ib;&c_sh;&c_e;&c_n;&c_n;&c_y;)</klr></trd>
   <trdgrp lng="ca">
     <trd>llanterna</trd>,
     <trd>far&oacute;</trd>
@@ -219,8 +237,10 @@
   <trd lng="de">Taschenlampe</trd>
   <trd lng="fr">lampe de poche</trd>
   <trd lng="id">senter</trd>
+  <trd lng="ja">&#x61D0;&#x4E2D;&#x96FB;&#x706F;  [<ind>&#x304B;&#x3044;&#x3061;&#x3085;&#x3046;&#x3067;&#x3093;&#x3068;&#x3046;</ind>]</trd>
   <trd lng="nl">zaklamp</trd>
   <trd lng="pl">latarka</trd>
+  <trd lng="uk">&#x43A;&#x438;&#x448;&#x435;&#x43D;&#x44C;&#x43A;&#x43E;&#x432;&#x438;&#x439; &#x43B;&#x456;&#x445;&#x442;&#x430;&#x440;</trd>
 </drv>
 
 <drv mrk="lamp.strat0o">
@@ -237,8 +257,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_u;&c_l;&c_ib;&c_ch;&c_n;&c_y; &c_l;&c_ib;&c_h;&c_t;&c_a;&c_r;</trd>
   <trd lng="ca">fanal</trd>
-  <trd lng="cs">pouliční svítilna</trd>
+  <trd lng="cs">pouli&#x10D;n&#xED; sv&#xED;tilna</trd>
   <trd lng="de">Stra&szlig;enlaterne</trd>
   <trdgrp lng="fr">
     <trd>&eacute;clairage public<klr tip="amb">
@@ -248,7 +269,7 @@
   <trd lng="id"><ind>lampu</ind> jalan</trd>
   <trd lng="nl">straatlantaarn</trd>
   <trd lng="pl">latarnia<klr> uliczna</klr></trd>
-  <trd lng="sk">pouličná lampa</trd>
+  <trd lng="sk">pouli&#x10D;n&#xE1; lampa</trd>
 </drv>
 
 <drv mrk="lamp.tablo0o">
@@ -265,8 +286,9 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_s;&c_t;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_l;&c_ja;&c_m;&c_p;&c_a;</trd>
   <trd lng="ca">l&agrave;mpada de taula</trd>
-  <trd lng="cs">stolní lampa</trd>
+  <trd lng="cs">stoln&#xED; lampa</trd>
   <trd lng="de">Tischlampe</trd>
   <trd lng="fr">lampe de bureau</trd>
   <trd lng="id"><ind>lampu</ind> meja</trd>
@@ -275,11 +297,14 @@
   <trdgrp lng="pt">
    <trd>l&acirc;mpada de mesa</trd>
    </trdgrp>
-  <trd lng="sk">stolná lampa</trd>
+  <trd lng="sk">stoln&#xE1; lampa</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.31 2021/08/31 12:48:05
+Dmitri Gabinski: + trd be
+
 Revision 1.28  2015/06/29 16:33:18  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -299,11 +324,5 @@ Revision 1.23  2009/09/22 17:18:11  revo
 Paul Peeraerts: +nl
 
 Revision 1.22  2009/03/12 17:31:50  revo
-Wieland Pusch: +trd de
-
-Revision 1.21  2008/11/14 17:31:24  revo
-Wieland Pusch: +trd bg
-
-Revision 1.20  2008/09/29 16:30:20  revo
 -->
 </vortaro>

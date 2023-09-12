@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lad.xml,v 1.18 2009/09/22 17:17:57 revo Exp $">
+<art mrk="$Id: lad.xml,v 1.30 2023/09/01 19:10:57 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lad</rad>/o
@@ -13,15 +12,70 @@
     <ofc>*</ofc><tld/>o
   </kap>
   <uzo tip="fak">TEK</uzo>
-  <snc>
+  <snc mrk="lad.0o.plato">
     <dif>
-      Plato el iu ajn metalo:
+      <ref tip="super" cel="plat.0o">Plato</ref> el iu ajn <ref cel="metal.0o">metalo</ref>:
       <ekz>
-        fer<tld/>o, stanita <tld/>o;
+        zorge fiksita tubo el <tld/>o
+        <fnt>
+          <bib>DKM</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        eksonis trumpetoj kaj bronzaj <tld/>oj
-        <fnt><bib>Far3</bib>, <lok>&ccirc;ap. 4</lok></fnt>
+        kiam vi eka&ubreve;dos tri batojn en la bronzajn <tld/>ojn, suriru la terason
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        terura asiria muziko: trumpetoj, tamburoj, <tld/>oj kaj flutoj
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tegmenta <tld/>o
+        <fnt>
+          <bib>Tor</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        zinkita <tld/>o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2015/011449.php">Trep&ccedil;a, pomo de malkonkordo inter Kosovo kaj
+          Serbio</url></vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        stranga&jcirc;oj stancitaj el stanita <tld/>o
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        galvanizita <tld/>o
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rustinta <tld/>o
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>En la Lando de la Noktuloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        flava <tld/>o ekbrilis sur la brusto de homo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
@@ -43,6 +97,12 @@
     <trd>pl&eacute;h</trd>
     <trd>b&aacute;dog</trd>
   </trdgrp> 
+  <trdgrp lng="ja">
+    <trd>&#x91D1;&#x5C5E;&#x306E;&#x8584;&#x677F;  [<ind>&#x304D;&#x3093;&#x305E;&#x304F;&#x306E;&#x8584;&#x677F;</ind>]</trd>,
+    <trd>&#x91D1;&#x5C5E;&#x677F;  [<ind>&#x304D;&#x3093;&#x305E;&#x304F;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x30D6;&#x30EA;&#x30AD;</trd>,
+    <trd>&#x30C8;&#x30BF;&#x30F3;  [<ind>&#x3068;&#x305F;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">dunne <ind>metaalplaat</ind></trd>
   <trd lng="pl">blacha</trd>
   <trdgrp lng="pt">
@@ -56,7 +116,56 @@
     <trd>&c_l;&c_i;&c_s;&c_t;&c_o;&c_v;&c_o;&c_je; 
 &c_zh;&c_je;&c_l;&c_je;&c_z;&c_o;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&#x43B;&#x44F;&c_h;&c_a;</trd>,
+    <trd>&c_zh;&c_je;&c_r;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&#x43B;&c_i;&c_s;&c_t;&#x43E;&c_v;&c_je; &c_z;&c_a;&#x43B;&c_ib;&c_z;&#x43E;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="lad.fer0o">
+  <kap>fer<tld/>o</kap>
+  <snc>
+    <dif>
+      <tld lit="L"/>o el fero, eventuale protektitaj de rusto per stano a&ubreve; zinko ks:
+      <ekz>
+        &Jcirc;akemaro eltiris el sia po&scirc;o skatoleton el fer<tld/>o
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>stanita fer<tld/>o</ind>
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>.
+        <trd lng="de">Wei&szlig;blech</trd>
+        <trd lng="en">tinplate</trd>
+        <trdgrp lng="fr">
+          <trd>fer &eacute;tam&eacute;</trd>,
+          <trd>fer-blanc</trd>
+        </trdgrp>
+        <trd lng="hu">b&aacute;dog</trd>
+        <trd lng="ru">&c_zh;&c_je;&c_s;&c_t;&c_mol;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_l;&c_ja;&c_h;&c_a;</trd>
+  <trd lng="br">tolenn houarn</trd>
+  <trd lng="cs">&zcaron;elezn&yacute; plech</trd>
+  <trd lng="de">Eisenblech</trd>
+  <trd lng="es">chapa</trd>
+  <trd lng="fr">t&ocirc;le<klr tip="ind"> (de fer, de fer-blanc)</klr></trd>
+  <trd lng="hu">vaslemez</trd>
+  <trd lng="ja">&#x8584;&#x9244;&#x677F;  [<ind>&#x3046;&#x3059;&#x3066;&#x3063;&#x3071;&#x3093;</ind>]</trd>
+  <trd lng="pl">blacha</trd>
+  <trd lng="ru">&c_zh;&c_je;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">&zcaron;elezn&yacute; plech</trd>
+  <trd lng="uk">&#x43D;&c_je;&#x43E;&c_c;&c_i;&#x43D;&#x43A;&#x43E;&c_v;&c_a;&#x43D;&c_a; &c_b;&#x43B;&#x44F;&c_h;&c_a;</trd>
+</drv>
+
+
+
 
 <drv mrk="lad.onda0o">
   <kap>
@@ -65,9 +174,15 @@
   <uzo tip="fak">TEK</uzo>
   <snc>
     <dif>
-      <tld lit="L"/>o el &scirc;talo, plej ofte zinkita, prezentanta
-      paralelajn kurbi&gcirc;ojn alterne konveksajn kaj
-      konkavajn, uzata por tegmentoj, eksteraj muroj.
+      <tld lit="L"/>o fortikigita per 
+      paralelaj kurbi&gcirc;oj alterne konveksaj kaj
+      konkavaj, uzata por tegmentoj ks:
+      <ekz>
+        la hala tegmento estis el onda <tld/>o, kiu ree&hcirc;is la bruon
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="de">Wellblech</trd>
@@ -78,6 +193,11 @@
   <trd lng="es"><ind>l&aacute;mina</ind> corrugada</trd>
   <trd lng="fr">t&ocirc;le ondul&eacute;e</trd>
   <trd lng="hu">hull&aacute;mlemez</trd> 
+  <trdgrp lng="ja">
+    <trd>&#x6CE2;&#x677F;  [<ind>&#x306A;&#x307F;&#x3044;&#x305F;</ind>]</trd>,
+    <trd>&#x306A;&#x307E;&#x3053;&#x677F;  [<ind>&#x306A;&#x307E;&#x3053;&#x3044;&#x305F;</ind>]</trd>,
+    <trd>&#x30C8;&#x30BF;&#x30F3;&#x677F;  [<ind>&#x30C8;&#x30BF;&#x30F3;&#x3044;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">golfplaat</trd>
   <trd lng="pl">blacha falista</trd>
   <trdgrp lng="ru">    
@@ -86,37 +206,24 @@
   </trdgrp>
 </drv>
 
-<drv mrk="lad.0skatolo">
-  <kap>
-    <tld/>skatolo
-  </kap>
-  <snc>
-    <dif>
-      Hermetike fermita skatolo el stanita <tld/>o, &ccirc;efe uzata por 
-konservi nutra&jcirc;ojn.
-    </dif>
-  </snc>
-  <trd lng="be">&c_b;&c_l;&c_ja;&c_sh;&c_a;&c_n;&c_k;&c_a;</trd>
-  <trd lng="bg">(&c_t;&c_je;&c_n;&c_je;&c_k;&c_i;&c_je;&c_n;&c_a;) <ind>&c_k;&c_u;&c_t;&c_i;&c_ja;</ind></trd>
-  <trdgrp lng="de">
-     <trd>Blechb&uuml;chse</trd>,
-     <trd>Blechdose</trd>,
-     <trd>Dose</trd>
-  </trdgrp>
-  <trdgrp lng="en">
-    <trd>tin<klr> (brite)</klr></trd>,
-    <trd>(tin) <ind>can</ind><klr> (usone)</klr></trd>
-  </trdgrp>
-  <trd lng="es">lata</trd>
-  <trd lng="fr">bo&icirc;te de conserve</trd>
-  <trd lng="hu">hull&aacute;mlemez</trd> 
-  <trd lng="nl">blikje</trd>
-  <trd lng="pl">puszka</trd>
-  <trd lng="ru">&c_k;&c_o;&c_n;&c_s;&c_je;&c_r;&c_v;&c_n;&c_a;&c_ja; &c_b;&c_a;&c_n;&c_k;&c_a; <klr>(&c_zh;&c_je;&c_s;&c_t;&c_ja;&c_n;&c_a;&c_ja;)</klr></trd>
-</drv>
 </art>
 <!--
 $Log$
+versio 1.29 2023/01/24 17:28:28
+Wolfram Diestel: - ~skatolo (nun en skatol/)
+
+versio 1.28 2022/05/01 12:04:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2021/10/22 10:31:06
+Wolfram Diestel: +ekz-oj
+
+versio 1.24 2021/10/21 11:24:41
+Wolfram Diestel: +fer~o
+
+versio 1.23 2020/12/06 12:43:41
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.21  2016/02/17 21:10:14  revo
 Wolfram Diestel: +ekz, plej_ofte
 
@@ -124,17 +231,5 @@ Revision 1.20  2015/11/05 06:10:15  revo
 Alain Gerard: +trd (fr)
 
 Revision 1.19  2014/03/09 14:10:12  revo
-Tulio Flores: kor pt
-
-Revision 1.18  2009/09/22 17:17:57  revo
-Paul Peeraerts: kor en nl
-
-Revision 1.17  2008/03/31 17:53:28  revo
-Emmanuel Debanne: +trd fr
-
-Revision 1.16  2007/12/12 17:30:15  revo
-Wieland Pusch: +korr bg
-
-Revision 1.15  2007/12/11 17:30:28  revo
 -->
 </vortaro>

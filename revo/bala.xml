@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: bala.xml,v 1.31 2009/12/06 17:30:37 revo Exp $">
+<art mrk="$Id: bala.xml,v 1.51 2023/08/31 08:48:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bala</rad>/i <fnt><bib>PV</bib></fnt>
@@ -54,6 +54,7 @@
     <trd>&c_m;&c_je;&c_t;&c_a;</trd>,
     <trd>&c_p;&c_o;&c_m;&c_i;&c_t;&c_a;&c_m;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF42;&#xF51;&#xF0B;&#xF51;&#xF62;&#xF0B;&#xF56;&#xFB1;&#xF7A;&#xF51;&#xF0B;</trd>
   <trd lng="br">skuba&ntilde;</trd>
   <trdgrp lng="cs">
     <trd>m&eacute;st</trd>,
@@ -71,7 +72,12 @@
     <trd>&a_j;&a_A;&a_r;&a_w; &f_k;&a_r;&a_d;&a_n;</trd>
   </trdgrp>
   <trd lng="fr">balayer</trd>
+  <trd lng="he">&#x5DC;&#x5D8;&#x5B7;&#x5D0;&#x5D8;&#x5B5;&#x5D0;</trd>
   <trd lng="id">[<ind>sapu</ind>] menyapu</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6383;&#x304F;  [<ind>&#x306F;&#x304F;</ind>]</trd>,
+    <trd>&#x8D70;&#x67FB;&#x3059;&#x308B;  [<ind>&#x305D;&#x3046;&#x3055;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vegen</trd>
   <trd lng="pt">varrer</trd>
   <trdgrp lng="ru">
@@ -84,6 +90,11 @@
   </trdgrp>
   <trd lng="sv">sopa</trd>
   <trd lng="tr">s&uuml;p&uuml;rmek</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_je;&c_s;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&#x43C;&c_ib;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&#x43C;&c_ib;&c_t;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bala.0ajxo">
@@ -146,11 +157,17 @@
     <trd>&a_kh;&a_A;&f_k;&a_r;&a_w;&a_b;&a_h;</trd>,
     <trd>&a_A_madda;&a_sh;&a_gh;&a_A;&a_l;</trd>
   </trdgrp>
+  <trd lng="he">&#x5DE;&#x5D4; &#x5E9;&#x5D8;&#x5D5;&#x5D0;&#x5D8;&#x5D0;</trd>
   <trd lng="hu">szem&eacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3061;&#x308A;</trd>,
+    <trd>&#x3054;&#x307F;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_r;</trd>,
     <trd>&c_m;&c_u;&c_s;&c_o;&c_r;</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&#x43C;&c_ib;&c_t;&c_t;&#x44F;</trd>
 </drv>
 
 <drv mrk="bala.0ilo">
@@ -170,6 +187,7 @@
     <trd>&c_v;&c_je;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
   <trd lng="bg">&c_m;&c_je;&c_t;&c_l;&c_a;</trd>
+  <trd lng="bo">&#xF55;&#xFB1;&#xF42;&#xF66;&#xF0B;&#xF58;&#xF0B;</trd>
   <trdgrp lng="br">
     <trd>balaenn</trd>,
     <trd>skubellenn</trd>
@@ -187,12 +205,14 @@
   <trd lng="es">escoba</trd>
   <trd lng="fa">&a_j;&a_A;&a_r;&a_w;</trd>
   <trd lng="fr">balai</trd>
+  <trd lng="he">&#x5DE;&#x5B0;&#x5D8;&#x5B7;&#x5D0;&#x5D8;&#x5B5;&#x5D0;</trd>
   <trd lng="hu">sepr&udblac;</trd>
   <trd lng="id">sapu</trd>
   <trdgrp lng="it">
     <trd>scopa</trd>,
     <trd>ramazza</trd>
   </trdgrp>
+  <trd lng="ja">&#x307B;&#x3046;&#x304D;</trd>
   <trdgrp lng="nl">
     <trd>bezem</trd>,
     <trd>veger</trd>,
@@ -210,6 +230,11 @@
   </trdgrp>
   <trd lng="sk">zmet&aacute;k</trd>
   <trd lng="tr">s&uuml;p&uuml;rge</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_ib;&c_t;&#x43B;&c_a;</trd>,
+    <trd>&#x43F;&#x43E;&#x43C;&c_je;&#x43B;&#x43E;</trd>,
+    <trd>&c_v;&c_ib;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bala.el0i">
@@ -242,6 +267,7 @@
     <trd>zamiata&cacute;</trd>
   </trdgrp>
   <trd lng="sk">vymies&tcaron;</trd>
+  <trd lng="uk">&c_v;&c_i;&#x43C;&c_ib;&c_t;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="bala.for0i">
@@ -250,8 +276,7 @@
   <snc mrk="bala.for0i.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Dispu&scirc;i, perforte <ref tip="super"
-      cel="for.0igi">forigi</ref>:
+      Dispu&scirc;i, perforte <ref tip="super" cel="for.0igi">forigi</ref>:
       <ekz>
         mi for<tld/>os de &gcirc;i &gcirc;ian polvon, kaj mi faros
         &gcirc;in nuda roko
@@ -268,10 +293,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        for<tld/>ita de sia trono
+        unu el la lastaj diktatoroj
+de I&#x2019; civilizita mondo estas for<tld/>ita de sia trono
         <fnt>
+          
+          <vrk><url>Estimataj gelegantoj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url>http://www.esperanto.be/fel/mon/007213.html</url></vrk>
+          <lok>2000/11, p. 3</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -298,6 +326,10 @@
   <trd lng="fr">balayer<klr> (&eacute;liminer)</klr></trd>
   <trd lng="hu">els&ouml;p&ouml;r</trd>
   <trd lng="id">[<ind>sapu</ind>] menyapu bersih</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6383;&#x304D;&#x6368;&#x3066;&#x308B;  [<ind>&#x306F;&#x304D;&#x3059;&#x3066;&#x308B;</ind>]</trd>,
+    <trd>&#x4E00;&#x6383;&#x3059;&#x308B;  [<ind>&#x3044;&#x3063;&#x305D;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wegvegen</trd>
   <trdgrp lng="pl">
     <trd>wymiata&cacute;</trd>,
@@ -307,6 +339,7 @@
     <trd>odmies&tcaron;</trd>,
     <trd>zmies&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&#x43C;&c_ib;&c_t;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="bala.bros0ilo">
@@ -333,6 +366,9 @@
 </art>
 <!--
 $Log$
+versio 1.50 2023/03/29 15:07:23
+Paul Peeraerts: &Monato;
+
 Revision 1.42  2017/02/23 14:10:22  revo
 Lyubomir Vasilev: +trd bg
 
@@ -351,6 +387,5 @@ aldono de trd cs per skripto de M. von Laer
 
 Revision 1.37  2015/06/29 16:29:35  revo
 aldono de trd sk per skripto de M. von Laer
-
 -->
 </vortaro>

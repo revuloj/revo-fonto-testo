@@ -1,24 +1,45 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sindik.xml,v 1.16 2023/09/03 18:39:30 revo Exp $">
 <kap>
   <rad>sindik</rad>/o
-  <fnt>Z</fnt>
 </kap>
 <drv mrk="sindik.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">JUR</uzo>
   <snc>
     <dif>
-      Persono rajtigita zorgi pri la aferoj de korporacio, kies membro
-      &gcirc;i
-      estas:
+      Persono rajtigita zorgi pri la aferoj de
+      <ref cel="korpor.0o">korporacio</ref>, kies membro
+      &gcirc;i estas:
       <ekz>
-        <tld/>o de notarioj.
+        <tld/>o de notarioj;
+      </ekz>
+      <ekz>
+        la balkono de l&#x2019; <tld/>o estis objekto de
+        multaj revoj de l&#x2019; viroj kaj virinoj
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        letero de <nom>Rossi</nom> al <tld/>o <nom>Rigaud</nom>
+        <fnt>
+          <bib>FSp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estinte sindiko dum iom da tempo, li komencis grasi&gcirc;i
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="prokur.0isto">prokuristo</ref>,
+      <ref cel="urb.0estro">urbestro</ref>
+    </refgrp>
     <trd lng="ca">s&iacute;ndic</trd>
     <trd lng="de">Syndikus</trd>
     <trdgrp lng="fr">
@@ -35,8 +56,8 @@
   <snc>
     <dif>
       Persono, elektita de komerca tribunalo, por administri
-      bankrotintan
-      entreprenon &gcirc;is fina aran&gcirc;o de la afero.
+      <ref cel="bankro.0i.EKON">bankrotintan</ref> entreprenon
+      &gcirc;is fina aran&gcirc;o de la afero.
     </dif>
     <trd lng="ca">comissari de la fallida</trd>
     <trd lng="de">Konkursverwalter</trd>
@@ -54,15 +75,33 @@
   </trdgrp>
   <trd lng="en">syndic</trd>
   <trd lng="fr">administrateur judiciaire</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7BA1;&#x7406;&#x4EBA;  [<ind>&#x304B;&#x3093;&#x308A;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x5171;&#x76CA;&#x59D4;&#x54E1;  [<ind>&#x3068;&#x3082;&#x3048;&#x304D;&#x3044;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x7BA1;&#x8CA1;&#x4EBA;  [<ind>&#x304B;&#x3093;&#x3056;&#x3044;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x6E05;&#x7B97;&#x4EBA;  [<ind>&#x305B;&#x3044;&#x3055;&#x3093;&#x306B;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">syndyk</trd>
   <trdgrp lng="sk">
     <trd>splnomocnenec</trd>,
     <trd>spr&aacute;vca konkurznej podstaty</trd>,
     <trd>z&aacute;stupca</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_i;&#x43D;&c_d;&c_i;&#x43A;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_sh;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&c_ch;&#x43B;&c_je;&#x43D; &#x43C;&c_a;&c_gu;&c_ib;&c_s;&c_t;&c_r;&c_a;&c_t;&c_u;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.15 2023/08/19 22:27:19
+Vito Redsky: +trd pl 
+
+versio 1.13 2022/01/08 22:31:20
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.11  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -79,8 +118,5 @@ Revision 1.7  2002/10/01 16:38:54  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.6  2002/02/12 17:32:56  revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/09/17 18:13:38 revo
 -->
 </vortaro>

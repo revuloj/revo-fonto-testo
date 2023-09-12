@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kroz.xml,v 1.18 2010/06/16 16:30:28 revo Exp $">
+<art mrk="$Id: kroz.xml,v 1.24 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kroz</rad>/i <fnt><bib>PV</bib></fnt>
@@ -114,6 +113,10 @@
     <trd lng="nl">fladderen<klr tip="ind"> (flirten)</klr></trd>
   </snc>
   <trd lng="cs">k&rcaron;i&zcaron;ovat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5DE1;&#x822A;&#x3059;&#x308B;  [<ind>&#x3081;&#x3050;&#x308A;&#x308F;&#x305F;&#x308B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x904A;&#x5F0B;&#x3059;&#x308B;  [<ind>&#x3042;&#x305D;&#x5F0B;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>kr&aogonek;&zdot;y&cacute; <klr>(na morzu)</klr></trd>,
     <trd>patrolowa&cacute;</trd>  
@@ -127,6 +130,7 @@
     <trd>kri&zcaron;ova&tcaron;</trd>,
     <trd>patrolova&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&#x440;&#x435;&#x439;&#x441;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="kroz.0o">
@@ -186,7 +190,7 @@
   <trd lng="it">incrociatore</trd>
   <trd lng="nl">kruiser</trd>
   <trd lng="pl">kr&aogonek;&zdot;ownik</trd>     
-  <trd lng="ro">cruci&#537;&abreve;tor</trd>
+  <trd lng="ro">cruci&#x219;&abreve;tor</trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_j;&c_s;&c_je;&c_r;</trd>
   <trd lng="sk">kr&iacute;&zcaron;nik</trd>
 </drv>
@@ -210,6 +214,7 @@
   <trd lng="ro">croazier&abreve;</trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_j;&c_s;&c_je;&c_r;</trd>
   <trd lng="sk">kr&iacute;&zcaron;nik</trd>
+  <trd lng="uk">&#x43A;&#x440;&#x435;&#x439;&#x441;&#x435;&#x440;</trd>
 </drv>
 </art>
 <!--

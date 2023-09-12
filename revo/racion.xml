@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: racion.xml,v 1.27 2023/09/03 07:53:08 revo Exp $">
 <kap>
   <rad>racional</rad>/a <fnt>Z</fnt>
 </kap>
@@ -32,8 +31,7 @@
     </dif>
     <trd lng="pl">racjonalny</trd>
   </snc>
-  <trd
-  lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="ca">racional</trd>
   <trdgrp lng="cs">
     <trd>racion&aacute;ln&iacute;</trd>,
@@ -44,14 +42,15 @@
   <trd lng="es">racional</trd>
   <trd lng="fr">rationnel</trd>
   <trd lng="hu">racion&aacute;lis</trd>
+  <trd lng="ja">&#x6709;&#x7406;&#x306E;  [<ind>&#x3086;&#x3046;&#x308A;&#x306E;</ind>]</trd>
   <trd lng="nl">rationeel</trd>
   <trdgrp lng="pt">
    <trd>racional</trd>
   </trdgrp>
-  <trd
-lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">racion&aacute;lny</trd>
   <trd lng="sv">rationell</trd>
+  <trd lng="uk">&#x440;&#x430;&#x446;&#x456;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="racion.0o">
@@ -66,8 +65,7 @@ lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
     <ref tip="sin" cel="racio5.0o">raciono;</ref>
     <ref tip="super" cel="reel.0o">reelo.</ref>
   </snc>
-  <trd
-  lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;
+  <trd lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;
 <ind>&c_l;&c_ib;&c_k;</ind></trd>
   <trd lng="ca">nombre <ind>racional</ind></trd>
   <trd lng="cs">racion&aacute;ln&iacute; &ccaron;&iacute;slo</trd>
@@ -76,10 +74,10 @@ lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="es">n&uacute;mero racional</trd>
   <trd lng="fr">nombre rationnel</trd>
   <trd lng="hu">racion&aacute;lis <ind>sz&aacute;m</ind></trd>
+  <trd lng="ja">&#x6709;&#x7406;&#x6570;  [<ind>&#x3086;&#x3046;&#x308A;&#x3059;&#x3046;</ind>]</trd>
   <trd lng="nl">rationeel <ind>getal</ind></trd>
   <trd lng="pl">liczba wymierna</trd>
-  <trd
-lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <trd lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
 <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>
   <trd lng="sk">racion&aacute;lne &ccaron;&iacute;slo</trd>
   <trd lng="sv">rationellt <ind>tal</ind></trd>
@@ -106,8 +104,7 @@ estas
     <ref tip="super" cel="reel.0o">reelo;</ref>
     <ref tip="vid" cel="trancx.0o.dedekinda">tran&ccirc;o.</ref>
   </snc>
-  <trd
-lng="be">&c_ib;&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;
+  <trd lng="be">&c_ib;&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;
 <ind>&c_l;&c_ib;&c_k;</ind></trd>
   <trd lng="ca">nombre <ind>irracional</ind></trd>
   <trd lng="cs">iracion&aacute;ln&iacute; &ccaron;&iacute;slo</trd>
@@ -116,9 +113,9 @@ lng="be">&c_ib;&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;
   <trd lng="es">n&uacute;mero irracional</trd>
   <trd lng="fr">nombre irrationnel</trd>
   <trd lng="hu">irracion&aacute;lis <ind>sz&aacute;m</ind></trd>
+  <trd lng="ja">&#x7121;&#x7406;&#x6570;  [<ind>&#x3080;&#x308A;&#x3059;&#x3046;</ind>]</trd>
   <trd lng="pl">liczba niewymierna</trd>
-  <trd
-lng="ru">&c_i;&c_r;&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <trd lng="ru">&c_i;&c_r;&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
 <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>
   <trd lng="sk">iracion&aacute;lne &ccaron;&iacute;slo</trd>
   <trd lng="sv">irrationellt <ind>tal</ind></trd>

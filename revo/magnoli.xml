@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: magnoli.xml,v 1.16 2010/05/15 16:30:54 revo Exp $">
+<art mrk="$Id: magnoli.xml,v 1.30 2023/09/02 06:04:08 revo Exp $">
 <kap>
   <rad>magnoli</rad>/o
 </kap>
@@ -11,10 +10,7 @@
   <snc mrk="magnoli.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
-      tip="malprt"
-      cel="magnoli1.0oj"><tld/>acoj</ref>, arbo kun blankaj &gcirc;is ru&gcirc;aj
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="magnoli1.0oj"><tld/>acoj</ref>, arbo kun blankaj &gcirc;is ru&gcirc;aj
       tulipsimilaj floroj (<trd lng="la">Magnolia</trd>):
       <ekz>
         tie estis granda &gcirc;ardeno kun kelkaj <tld/>oj
@@ -36,11 +32,14 @@
     <trd>many&oacute;lia</trd>,
     <trd>magn&oacute;lia</trd>
   </trdgrp>
+  <trd lng="ja">&#x30E2;&#x30AF;&#x30EC;&#x30F3;</trd>
   <trd lng="nl">magnolia</trd>
-  <trd lng="pl">manolia</trd>
+  <trd lng="pl">magnolia</trd>
   <trd lng="pt">magn&oacute;lia</trd>
+  <trd lng="ro">magnolia</trd>
   <trd lng="ru">&c_m;&c_a;&c_g;&c_n;&c_o;&c_l;&c_i;&c_ja;</trd>
   <trd lng="sk">magn&oacute;lia</trd>
+  <trd lng="uk">&#x43C;&c_a;&c_gu;&#x43D;&#x43E;&#x43B;&c_ib;&#x44F;</trd>
 </drv>
 
 <drv mrk="magnoli.0oj">
@@ -48,9 +47,7 @@
   <snc>
   <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="lst" cel="klas.0o.BIO"
-      lst="voko:botanikaj_klasoj">Klaso</ref> de la <ref tip="malprt"
-      cel="flor.0oplant">floroplantoj</ref>,
+      <ref tip="lst" cel="klas.0o.BIO" lst="voko:botanikaj_klasoj">Klaso</ref> de la <ref tip="malprt" cel="flor.0oplant">floroplantoj</ref>,
       havantaj angiojn kaj reprodukti&gcirc;antaj per semgrajnoj,
       kiuj estas enfermitaj en ovario;
       oni klasigas la <tld/>ojn en
@@ -58,6 +55,10 @@
       <ref tip="sub" cel="kotile.du0aj">dukotiledonajn</ref>.
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_v;&c_je;&c_t;&c_k;&c_a;&c_v;&c_y;&c_ja; &c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_y;</trd>,
+    <trd>&c_ja;&c_w;&c_n;&c_a;&c_s;&c_je;&c_m;&c_n;&c_y;&c_ja; &c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>magnoliofitins</trd>,
     <trd>angiospermes</trd>
@@ -76,6 +77,7 @@
     <trd>Angiospermae <klr>(tradicie)</klr></trd>
   </trdgrp>
   <trd lng="pl">magnoliowce</trd>
+  <trd lng="ro">Magnoliales</trd>
   <trdgrp lng="ru">
     <trd>&c_c;&c_v;&c_je;&c_t;&c_k;&c_o;&c_v;&c_y;&c_je; <klr tip="amb">(&c_o;&c_t;&c_d;&c_je;&c_l;
     &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_j;)</klr></trd>,
@@ -85,6 +87,15 @@
 </art>
 <!--
 $Log$
+versio 1.29 2022/04/29 17:34:27
+Dmitri Gabinski: + trd be
+
+versio 1.27 2020/04/04 19:10:56
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.26  2018/11/12 23:10:16  revo
+Jeromo Vasxe: kor. trd de ~oj
+
 Revision 1.25  2017/04/22 13:10:30  revo
 Damien Brucker: -eraro cxe cel en ref
 
@@ -98,11 +109,5 @@ Revision 1.22  2015/06/29 16:33:19  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.21  2014/01/13 08:10:13  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.20  2013/08/31 19:10:33  revo
-Wolfram Diestel: kor. ref-cel
-
-Revision 1.19  2013/08/29 17:10:16  revo
 -->
 </vortaro>

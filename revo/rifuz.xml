@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: rifuz.xml,v 1.33 2023/09/08 14:27:06 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>rifuz</rad>/i
@@ -81,8 +80,9 @@
       <ekz>
         la komitato de UEA <tld/>is akcepti la bu&gcirc;eton proponitan de la estraro
         <fnt>
-          <vrk><url ref="http://www.liberafolio.org/2017/12/02/la-komitato-de-uea-akceptis-bugeton-kun-enorma-deficito/"
-          >La komitato de UEA akceptis bu&gcirc;eton kun enorma deficito ...</url></vrk>
+          <vrk><url
+          ref="http://www.liberafolio.org/2017/12/02/la-komitato-de-uea-akceptis-bugeton-kun-enorma-deficito/">La
+          komitato de UEA akceptis bu&gcirc;eton kun enorma deficito ...</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -90,18 +90,22 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Eskil Svane</aut>
-          <vrk><url ref="https://www.monato.be/2003/008197.html">Misinformaj komentoj</url></vrk>
+          <vrk><url ref="&Monato;/2003/008197.html">Misinformaj komentoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="surd.0a">surda</ref>
     </refgrp>
-    <trd lng="de"/>
-    <trd lng="hu">megtagad</trd>    
+    <trd lng="hu">megtagad</trd>
     <trdgrp lng="ru">
       <trd>&c_o;&c_t;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>,
       <trd>&c_o;&c_t;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>ablehnen</trd>,
+      <trd>verweigern</trd>,
+      <trd>abschlagen<klr> [geh]</klr></trd>
     </trdgrp>
   </snc>
   <snc mrk="rifuz.0i.ne_povi">
@@ -121,17 +125,23 @@
       <trd/>,
       <trd/>
     </trdgrp>
-    <trd lng="hu">nem <ind>engedelmeskedik</ind></trd>    
+    <trd lng="hu">nem <ind>engedelmeskedik</ind></trd>
     <trdgrp lng="ru">
       <trd>&c_o;&c_t;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;<klr> (&c_o; &c_ch;&c_a;&c_s;&c_t;&c_i; &c_t;&c_je;&c_l;&c_a;, &c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_je;)</klr></trd>,
       <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_t;&c_mol; &c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>versagen</trd>,
+      <trd>verweigern</trd>,
+      <trd>Dienst <ind>einstellen</ind></trd>
     </trdgrp>
   </snc>
   <snc mrk="rifuz.0i.proponon">
     <dif>
       <ref tip="dif" cel="akcept.mal0i.KOMUNE">Malakcepti</ref>:
       <ekz>
-        konstatinte ke oni povas bone vivi anka&ubreve; ne laborante, per &ccirc;iaj trukoj li sukcesis <tld/>i &ccirc;iujn postenojn proponitajn de la laboroficejo
+        konstatinte ke oni povas bone vivi anka&ubreve; ne laborante, per &ccirc;iaj trukoj li sukcesis <tld/>i
+        &ccirc;iujn postenojn proponitajn de la laboroficejo
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
@@ -139,7 +149,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        la projekto de li proponita transloki la mortantajn indi&gcirc;enojn al la a&ubreve;stralia kontinento estas <tld/>ita
+        la projekto de li proponita transloki la mortantajn indi&gcirc;enojn al la a&ubreve;stralia kontinento
+        estas <tld/>ita
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
@@ -147,7 +158,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        anta&ubreve; la ekzekuto oni proponis pardonon, se li fari&gcirc;os kapitano en la imperiestra armeo, sed J&aacute;no&scaron;&iacute;k <tld/>is
+        anta&ubreve; la ekzekuto oni proponis pardonon, se li fari&gcirc;os kapitano en la imperiestra armeo, sed
+        J&aacute;no&scaron;&iacute;k <tld/>is
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
@@ -176,8 +188,9 @@
       <aut>Sergio Pokrovskij</aut>
     </rim>
     <trdgrp lng="de">
+      <trd>nicht annehmen</trd>,
       <trd>ablehnen</trd>,
-      <trd/>
+      <trd>dankend <ind>ablehnen</ind></trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>visszautas&iacute;t</trd>,
@@ -205,6 +218,12 @@
       </ekz>
     </dif>
     <trd lng="de">verzichten</trd>
+    <trdgrp lng="de">
+      <trd>abgeben</trd>,
+      <trd>aufgeben</trd>,
+      <trd>abdanken</trd>,
+      <trd>verzichten auf</trd>
+    </trdgrp>
     <trd lng="fr">renoncer &agrave;</trd>
     <trd lng="ru">&c_o;&c_t;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr> (&c_l;&c_i;&c_sh;&c_i;&c_t;&c_mol; &c_s;&c_je;&c_b;&c_ja;)</klr></trd>
   </snc>
@@ -212,14 +231,23 @@
     <trd>&c_a;&c_d;&c_m;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_a;&c_d;&c_m;&c_o;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd
+  lng="bo">&#xF44;&#xF7C;&#xF66;&#xF0B;&#xF63;&#xF7A;&#xF53;&#xF0B;&#xF58;&#xF0B;&#xF56;&#xFB1;&#xF66;&#xF0B;&#xF54;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>odep&rcaron;&iacute;t</trd>,
     <trd>odm&iacute;tnout</trd>,
     <trd>vzd&aacute;t se</trd>
   </trdgrp>
-  <trd lng="de">verweigern</trd>
   <trd lng="en">refuse</trd>
   <trd lng="fr">refuser</trd>
+  <trdgrp lng="ja">
+    <trd>&#x62D2;&#x7D76;&#12377;&#x308B;  [<ind>&#x304D;&#12423;&#x305C;&#12388;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x62D2;&#21542;&#12377;&#x308B;  [<ind>&#x304D;&#12423;&#12402;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x62D2;&#12416;  [<ind>&#12371;&#12400;&#12416;</ind>]</trd>,
+    <trd>&#x65AD;&#x308B;  [<ind>&#12371;&#12392;&#x308F;&#x308B;</ind>]</trd>,
+    <trd>&#x8F9E;&#36864;&#12377;&#x308B;  [<ind>&#12376;&#x305F;&#12356;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#xFF5E;<ind>&#12375;&#12424;&#12358;&#12392;&#12375;&#x306A;&#12356;</ind></trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>weigeren</trd>,
     <trd>afwijzen</trd>
@@ -233,6 +261,7 @@
     <trd>vypoveda&tcaron; slu&zcaron;bu</trd>,
     <trd>zamietnu&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_h;&c_i;&#x43B;&c_i;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="rifuz.0o">
@@ -268,6 +297,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_d;&c_m;&c_o;&c_v;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>odep&rcaron;en&iacute;</trd>,
     <trd>odm&iacute;tnut&iacute;</trd>,
@@ -277,6 +307,11 @@
   <trd lng="de">Weigerung</trd>
   <trd lng="en">refusal</trd>
   <trd lng="fr">refus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x62D2;&#x7D76;  [<ind>&#x304D;&#12423;&#x305C;&#12388;</ind>]</trd>,
+    <trd>&#x62D2;&#21542;  [<ind>&#x304D;&#12423;&#12402;</ind>]</trd>,
+    <trd>&#x8F9E;&#36864;  [<ind>&#12376;&#x305F;&#12356;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">odmowa</trd>
   <trd lng="ru">&c_o;&c_t;&c_k;&c_a;&c_z;</trd>
   <trdgrp lng="sk">
@@ -284,10 +319,14 @@
     <trd>odvrhnutie</trd>,
     <trd>zamietnutie</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&#x43C;&#x43E;&c_v;&c_a;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&#x43C;&#x43E;&c_v;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rifuz.for0i">
-  <kap>for<tld/>i, 
+  <kap>for<tld/>i,
      <var><kap><ofc>*</ofc><tld/>i&gcirc;i</kap></var>
   </kap>
   <gra><vspec>tr</vspec></gra>
@@ -326,7 +365,8 @@
          tre forte mi dezirus for<tld/>i mian por mi tro turmentan rolon
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en Barcelona en la 6a de septembro 1909</vrk>
+          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en Barcelona en la 6a de septembro
+          1909</vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -356,6 +396,10 @@
     <trd>lemond <klr tip="ind">(vmir&odblac;l)</klr></trd>,
     <trd>eltasz&iacute;t <klr tip="ind">(mag&aacute;t&oacute;l)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56FA;&#x8F9E;&#12377;&#x308B;  [<ind>&#12371;&#12376;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x62D2;&#21542;&#12377;&#x308B;  [<ind>&#x304D;&#12423;&#12402;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>afstaan</trd>,
     <trd>verstoten</trd>,
@@ -370,10 +414,26 @@
     <trd>&c_o;&c_t;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_o;&c_t;&c_r;&c_je;&c_ch;&c_mol;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&#x43C;&#x43E;&c_v;&#x43B;&#x44F;&c_t;&c_i;&c_s;&#x44F;</trd>
 </drv>
   </art>
   <!--
   $Log$
+versio 1.33 2023/09/08 14:27:06
+Wolfram Diestel: kor. ja ind.
+
+versio 1.31 2023/03/11 01:48:26
+Ulrich Fellmann: rifuzi: +11 DE trdj
+
+versio 1.30 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2022/03/30 18:39:36
+Wolfram Diestel: kor. trd uk
+
+versio 1.26 2021/04/07 07:52:46
+Dmitri Gabinski: + trd be; forigo de fusxa kodo
+
   Revision 1.24  2019/06/30 07:43:29  revo
   adaptis URL de Monato
 
@@ -381,53 +441,5 @@
   Wolfram Diestel: korektis mrk; prilaboris ekz-ojn, +rim, +adm
 
   Revision 1.22  2017/12/20 13:10:16  revo
-  Michel Cantigneaux: "rifuz/igx/i" fundamenta kunmetajxo el la U.V.
-
-  Revision 1.21  2016/09/27 10:10:20  revo
-  Sebastian Cyprych: +trd pl
-
-  Revision 1.20  2015/11/04 15:10:17  revo
-  Cindy Moon McKee: +trd en
-
-  Revision 1.19  2015/08/21 12:10:31  revo
-  Damien Brucker: +trd fr
-
-  Revision 1.18  2015/07/04 08:37:42  revo
-  aldono de trd cs per skripto de M. von Laer
-
-  Revision 1.17  2015/06/29 16:33:22  revo
-  aldono de trd sk per skripto de M. von Laer
-
-  Revision 1.16  2012/10/12 04:10:08  revo
-  Sergio Pokrovskij: fnt de ekz; ~o
-
-  Revision 1.15  2012/10/11 06:10:07  revo
-  Sergio Pokrovskij: kor trd=ru
-
-  Revision 1.14  2012/10/11 04:10:08  revo
-  Sergio Pokrovskij: apartigis la rezigno-snc; +rim
-
-  Revision 1.13  2011/02/10 16:10:11  revo
-  Jeromo Vasxe: interpunkcio de ekz, + trd fr
-
-  Revision 1.12  2006/02/21 17:32:09  revo
-  Tulio Flores: +trd pt
-
-  Revision 1.11  2004/09/17 15:38:31  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.10  2003/08/17 17:30:48  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.9  2002/01/28 17:31:50  revo
-  Yury Finkel: +trd ru
-
-  Revision 1.8 2001/06/19 18:14:04 revo
-  Paul Peeraerts: ald pliajn trd nl
-
-  Revision 1.7 2001/03/05 17:13:04 revo
-  Dennis Wibrow: +trd germ
-
-  Revision 1.6 2000/11/09 17:12:27 revo
-  -->
+-->
 </vortaro>

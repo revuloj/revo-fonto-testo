@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: farb.xml,v 1.19 2008/09/29 16:30:30 revo Exp $">
+<art mrk="$Id: farb.xml,v 1.33 2023/08/31 13:11:27 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>farb</rad>/o <fnt><bib>Fab1</bib></fnt>
@@ -24,7 +23,8 @@
         <fnt><bib>UrdHadda</bib>, <lok>p. 14a</lok></fnt>;
       </ekz>
       <ekz>
-        helpu al la sinjoro <klr>[pentristo]</klr> porti lian keston kun <tld/>oj
+        helpu al la sinjoro <klr>[pentristo]</klr> porti lian keston kun
+        <tld/>oj
         <fnt>
           <bib>Fab1</bib>
           <lok>Kupra porko</lok>
@@ -44,7 +44,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        jen li staris kun sia <tld/>ujo, kiu estis lia tuta voja&gcirc;a paka&jcirc;o
+        jen li staris kun sia <tld/>ujo, kiu estis lia tuta voja&gcirc;a
+        paka&jcirc;o
         <fnt>
           <bib>Fab4</bib>
           <lok>Dekdu per la po&scirc;to</lok>
@@ -55,8 +56,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2009/009838.php"
-              >Kia konsekvenco!</url></vrk>
+          <vrk><url ref="&Monato;/2009/009838.php">Kia konsekvenco!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -91,11 +91,21 @@
     </trdgrp>
     <trd lng="tr">boya</trd>
   </snc>
+  <trd lng="bo">&#xF5A;&#xF7C;&#xF53;&#xF0B;</trd>
   <trd lng="cs">barva <klr>(n&aacute;t&ecaron;r.hmota)</klr></trd>
   <trd lng="es">pintura</trd>
   <trd lng="id">cat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D75;&#x5177;  [<ind>&#x3048;&#x306E;&#x3050;</ind>]</trd>,
+    <trd>&#x9854;&#x6599;  [<ind>&#x304C;&#x3093;&#x308A;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x30DA;&#x30F3;&#x30AD;</trd>
+  </trdgrp>
   <trd lng="sk">farba</trd>
-  <trd lng="tp">kule</trd>
+  <trd lng="tok">kule</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_a;&c_r;&c_b;&c_a;</trd>,
+    <trd>&c_b;&c_a;&c_r;&c_v;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="farb.0i">
@@ -117,8 +127,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Juh&aacute;sz K&aacute;roly</aut>
-          <vrk><url ref="https://www.monato.be/2006/008964.php"
-              >Konvinka venko</url></vrk>
+          <vrk><url ref="&Monato;/2006/008964.php">Konvinka venko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -141,7 +150,8 @@
     <trd>zbarvit</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>streichen</trd>,
+    <trd>anmalen</trd>,
+    <trd>anstreichen</trd>,
     <trd>f&auml;rben</trd>,
     <trd>schminken</trd>
   </trdgrp>
@@ -155,7 +165,11 @@
     <trd>fest</trd>,
     <trd>m&aacute;zol</trd>
   </trdgrp>
-  <trd lng="id">[<ind>cat</ind>] mengecat</trd>
+  <trd lng="id">menge<ind>cat</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D75;&#x5177;&#x3092;&#x5857;&#x308B;  [<ind>&#x3048;&#x3050;&#x3092;&#x306C;&#x308B;</ind>]</trd>,
+    <trd>&#x30DA;&#x30F3;&#x30AD;&#x3092;&#x5857;&#x308B;  [<ind>&#x307A;&#x3093;&#x304D;&#x3092;&#x306C;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>verven</trd>,
     <trd>schilderen</trd>
@@ -165,7 +179,8 @@
     <trd>farbi&tcaron;</trd>,
     <trd>natiera&tcaron;</trd>
   </trdgrp>
-  <trd lng="tp">kule</trd>
+  <trd lng="tok">kule</trd>
+  <trd lng="uk">&c_f;&c_a;&c_r;&c_b;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="farb.0isto">
@@ -173,36 +188,39 @@
   <snc mrk="farb.0isto.KON">
     <uzo tip="fak">KON</uzo>
     <dif>
-      Homo, kiu <ref tip="lst" lst="voko:metioj" cel="meti.0o">metie</ref> &scirc;miras murojn, vandojn, plafonojn;
+      Homo, kiu <ref tip="lst" lst="voko:metioj" cel="meti.0o">metie</ref> &scirc;miras murojn, vandojn,
+      plafonojn;
       <ref tip="sin" cel="kolor.dom0igisto.KON">domkolorigisto</ref>:
       <ekz>
-        veldistoj, masonistoj, frizistoj, dom<tld/>istoj ktp perlaboras multe pli ol
+        veldistoj, masonistoj, frizistoj, dom<tld/>istoj ktp perlaboras
+        multe pli ol
         altlerneje edukitaj instruistoj
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="https://www.monato.be/2012/010868.php"
-              >Lernejo baza, salajro baza</url></vrk>
+          <vrk><url ref="&Monato;/2012/010868.php">Lernejo baza, salajro
+          baza</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        infanoj el bazlernejoj ne plu volas fari&gcirc;i <klr>[&#8230;]</klr> <tld/>isto,
+        infanoj el bazlernejoj ne plu volas fari&gcirc;i <klr>[&#x2026;]</klr>
+        <tld/>isto,
         tegmentisto a&ubreve; terkulturisto
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="https://www.monato.be/2014/011284.php"
-              >Batalo por la studontoj</url></vrk>
+          <vrk><url ref="&Monato;/2014/011284.php">Batalo por la studontoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        li ellernis la <tld/>istan metion <klr>[&#8230;]</klr> kaj poste laboris kiel
+        li ellernis la <tld/>istan metion <klr>[&#x2026;]</klr> kaj poste
+        laboris kiel
         <tld/>isto-kolorigisto en diversaj konstrufirmaoj en Vieno
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="https://www.monato.be/2014/011335.php"
-              >Pentristo de la homo kaj de la naturo</url></vrk>
+          <vrk><url ref="&Monato;/2014/011335.php">Pentristo de la homo kaj de la
+          naturo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -220,12 +238,17 @@
     <trd>m&aacute;zol&oacute;</trd>
   </trdgrp>
   <trdgrp lng="id">
-    <trd>[<ind>cat</ind>] pengecat</trd>,
+    <trd>penge<ind>cat</ind></trd>,
     <trd><ind>tukang</ind> cat</trd>
   </trdgrp>
+  <trd lng="ja">&#x30DA;&#x30F3;&#x30AD;&#x5C4B;  [<ind>&#x30DA;&#x30F3;&#x30AD;&#x3084;</ind>]</trd>
   <trd lng="nl">huisschilder</trd>
   <trd lng="ru">&c_m;&c_a;&c_l;&c_ja;&c_r;</trd>
   <trd lng="sk">farbiar</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_a;&c_r;&c_b;&c_a;&c_r;</trd>,
+    <trd>&#x43C;&c_a;&#x43B;&#x44F;&c_r;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="farb.akril0o">
@@ -240,19 +263,28 @@
         novan teknikon, kiu estas akril<tld/>o
         <fnt>
           <aut>M. Chesnelle</aut>
-          <vrk><url
-          ref="https://veropedio.blogspot.com/2014/02/alechinsky-pierre.html">
+          <vrk><url ref="https://veropedio.blogspot.com/2014/02/alechinsky-pierre.html">
           Alechinsky Pierre</url></vrk>
           <lok>Veropedio, [vidita en 2018]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_k;&c_r;&c_y;&c_l;&c_a;&c_v;&c_a;&c_ja; &c_f;&c_a;&c_r;&c_b;&c_a;</trd>
   <trd lng="fr">peinture <ind>acrylique</ind></trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.32 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/04/03 18:34:14
+Ulrich Fellmann: farbi: aldono de 1 DE kaj korekto de 1 DE traduk
+
+versio 1.29 2022/01/26 08:33:34
+Dmitri Gabinski: + trd be
+
 Revision 1.25  2018/06/12 13:10:13  revo
 Jeromo Vasxe: + akril~o
 
@@ -266,11 +298,5 @@ Revision 1.22  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.21  2012/09/09 11:10:16  revo
-Jeromo Vasxe: kor 1 ref, + mrk + fak kon
-
-Revision 1.20  2011/12/07 00:10:13  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.19  2008/09/29 16:30:30  revo
 -->
 </vortaro>

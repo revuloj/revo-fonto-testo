@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: instal.xml,v 1.18 2007/05/30 16:31:04 revo Exp $">
+<art mrk="$Id: instal.xml,v 1.31 2023/08/31 16:40:57 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>instal</rad>/i
@@ -82,8 +81,7 @@
     </trdgrp>
     <trd lng="nl">installeren</trd>
     <trd lng="pt">instalar</trd>
-    <trd
-    lng="ru">&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
+    <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="instal.0i.iun">
     <dif>
@@ -137,13 +135,11 @@
       <ekz>
         <klr>[Varankin]</klr> <tld/>is lin por la rolo de
         &ccirc;efa heroo en la vodevilo <ctl>Pavel Ivanov</ctl>
-        <fnt><aut>N. Stepanov</aut><lok><url
-        ref="http://www.esperanto.mv.ru/Varankin/antauparolo.html">http://www.esperanto.mv.ru/Varankin/antauparolo.html</url></lok></fnt>;
+        <fnt><aut>N. Stepanov</aut><lok><url ref="http://www.esperanto.mv.ru/Varankin/antauparolo.html">http://www.esperanto.mv.ru/Varankin/antauparolo.html</url></lok></fnt>;
       </ekz>
       <ekz>
         <klr>[en Moresnet]</klr> oni <tld/>is miksitan estraron
-        <fnt><aut>Vim Sluijtman</aut><vrk>Lodza informilo</vrk><lok><url
-        ref="http://ikki.pl/esperant/informil/jaro2001/2001nr4.htm">2001:4</url></lok></fnt>;
+        <fnt><aut>Vim Sluijtman</aut><vrk>Lodza informilo</vrk><lok><url ref="http://ikki.pl/esperant/informil/jaro2001/2001nr4.htm">2001:4</url></lok></fnt>;
       </ekz>
       <ekz>
         &ccirc;iuj, kiuj regas la &scirc;taton,
@@ -164,8 +160,10 @@
       <trd>beiktat</trd>
     </trdgrp>
     <trd lng="ru">&c_n;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_i;&c_t;&c_mol;</trd>
-    <trd lng="th">&#3649;&#3605;&#3656;&#3591;&#3605;&#3633;&#3657;&#3591;</trd>
+    <trd lng="th">&#xE41;&#xE15;&#xE48;&#xE07;&#xE15;&#xE31;&#xE49;&#xE07;</trd>
   </snc>
+  <trd lng="bo">&#xF60;&#xF5B;&#xF74;&#xF42;&#xF66; &#xF56;&#xF59;&#xF74;&#xF42;&#xF66;
+  &#xF42;&#xF5F;&#xF74;&#xF42;&#xF66; &#xF5A;&#xF74;&#xF42;&#xF66;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>dosadit</trd>,
     <trd>instalovat</trd>,
@@ -176,12 +174,26 @@
     <trd>uv&eacute;st v &uacute;&rcaron;ad</trd>,
     <trd>zav&eacute;st</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x636E;&#x3048;&#x4ED8;&#x3051;&#x308B;  [<ind>&#x3059;&#x3048;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x5099;&#x3048;&#x4ED8;&#x3051;&#x308B;  [<ind>&#x305D;&#x306A;&#x3048;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x8A2D;&#x5099;&#x3092;&#x6574;&#x3048;&#x308B;  [<ind>&#x305B;&#x3064;&#x3073;&#x3092;&#x3068;&#x3068;&#x306E;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x5C31;&#x4EFB;&#x3055;&#x305B;&#x308B;  [<ind>&#x3057;&#x3085;&#x3046;&#x306B;&#x3093;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x4EFB;&#x547D;&#x3059;&#x308B;  [<ind>&#x306B;&#x3093;&#x3081;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;&#x3059;&#x308B;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>dosadi&tcaron; zavies&tcaron;</trd>,
     <trd>in&scaron;talova&tcaron;</trd>,
     <trd>zariadi&tcaron;</trd>
   </trdgrp>
-  <trd lng="th">&#3605;&#3636;&#3604;&#3605;&#3633;&#3657;&#3591;</trd>
+  <trd lng="th">&#xE15;&#xE34;&#xE14;&#xE15;&#xE31;&#xE49;&#xE07;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&#x43B;&c_a;&c_sh;&c_t;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_a;&#x43D;&#x43E;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_b;&#x43B;&c_a;&c_d;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_t;&#x43A;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="instal.0ado">
@@ -192,23 +204,30 @@
       <ekz>
         unu el la lastaj agadoj de Pasquale en la Oficejo
         estis <tld/>ado de moderna komputila sistemo
-        <fnt><aut>UEA</aut><vrk>Gazetaraj komunikoj</vrk><lok><url
-        ref="http://www.uea.org/dokumentoj/komunikoj/gaz145.html">2002-02-12
+        <fnt><aut>UEA</aut><vrk>Gazetaraj komunikoj</vrk><lok><url ref="&UEA;dokumentoj/komunikoj/gaz145.html">2002-02-12
         (145)</url></lok></fnt>;
       </ekz>
       <ekz>
         la <tld/>ado <klr>[de la satelita <tld/>a&jcirc;o]</klr> plej
         konvene
         okazu helpe de iu satelite televida fakfirmo
-        <fnt><vrk>Monato</vrk><lok><url
-        ref="http://www.esperanto.be/fel/mon/004358.html">http://www.esperanto.be/fel/mon/004358.html</url></lok></fnt>;
+        <fnt>
+        <aut>Pejno Simono</aut>
+        
+        <vrk><url ref="&Monato;/1995/004358.html">Esperanto per satelito</url></vrk>
+        <bib>Monato</bib>
+        <lok>1995/04, p. 17</lok></fnt>;
       </ekz>
       <ekz>
         <uzo tip="fak">KOMP</uzo>
         la <tld/>ado estas tre simpla pere de la aldonita
         <tld/>-programeto
-        <fnt><aut>Franz Kruse</aut><vrk>Monato</vrk><lok><url
-        ref="http://www.esperanto.be/fel/mon/rec/nvoj.html">http://www.esperanto.be/fel/mon/rec/nvoj.html</url></lok></fnt>.
+        <fnt>
+        <aut>Franz Kruse</aut>
+        <vrk><url ref="&Monato;/1996/nvoj.html">Agrabla ekzercilo</url></vrk>
+        <bib>Monato</bib>
+        <lok>1996/10, p. 12</lok>
+        </fnt>
       </ekz>
     </dif>
   </snc>
@@ -234,6 +253,10 @@
     <trd>l&eacute;tes&iacute;t&eacute;s</trd>,
     <trd>beszerel&eacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x636E;&#x3048;&#x3064;&#x3051;  [<ind>&#x3059;&#x3048;&#x3064;&#x3051;</ind>]</trd>,
+    <trd>&#x8A2D;&#x7F6E;  [<ind>&#x305B;&#x3063;&#x3061;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">instala&ccedil;&atilde;o</trd>
   <trdgrp lng="ru">
     <trd>&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_a;</trd>,
@@ -245,7 +268,7 @@
     <trd>usporiadanie</trd>,
     <trd>zavedenie</trd>
   </trdgrp>
-  <trd lng="th">&#3585;&#3634;&#3619;&#3605;&#3636;&#3604;&#3605;&#3633;&#3657;&#3591;</trd>
+  <trd lng="th">&#xE01;&#xE32;&#xE23;&#xE15;&#xE34;&#xE14;&#xE15;&#xE31;&#xE49;&#xE07;</trd>
 </drv>
 
 <drv mrk="instal.0ajxo">
@@ -271,8 +294,7 @@
         <klr>[uzo de programlingva dialekto]</klr> povas pligrandigi
         la rendimenton de programaro verkita speciale
         por la koncerna <tld/>a&jcirc;o
-        <fnt><bib>KompLeks</bib><lok><url
-        ref="http://www.iis.nsk.su/persons/pok/Eo/KompLeks/html/DI.html">dialekto</url></lok></fnt>.
+        <fnt><bib>KompLeks</bib><lok><url ref="http://www.iis.nsk.su/persons/pok/Eo/KompLeks/html/DI.html">dialekto</url></lok></fnt>.
       </ekz>
     </dif>
     <trd lng="es">instalaci&oacute;n<klr>equipamiento
@@ -291,14 +313,12 @@
       <ekz>
         estas via firmao, kiu faris
         la <klr>[tubaran]</klr> <tld/>a&jcirc;on
-        <fnt><bib>LOdE</bib><lok><url
-        ref="http://ttt.esperanto.org/Ondo/Tl-fr04.htm">2000:2(64)</url></lok></fnt>;
+        <fnt><bib>LOdE</bib><lok><url ref="&LOdE;Tl-fr04.htm">2000:2(64)</url></lok></fnt>;
       </ekz>
       <ekz>
         komplika elektromekanika <tld/>a&jcirc;o
         enhavas dek milojn da hermetaj relajsoj
-        <fnt><lok><url
-        ref="http://www.esperanto.mv.ru/Arkivoj/TSIT/tsit3.html">http://www.esperanto.mv.ru/Arkivoj/TSIT/tsit3.html</url></lok></fnt>;
+        <fnt><lok><url ref="http://www.esperanto.mv.ru/Arkivoj/TSIT/tsit3.html">http://www.esperanto.mv.ru/Arkivoj/TSIT/tsit3.html</url></lok></fnt>;
       </ekz>
       <ekz>
         la alarm<tld/>a&jcirc;o estis en&scirc;altita
@@ -311,20 +331,21 @@
       <ekz>
         jam en la jaro 1836 <klr>[estis fondita]</klr> hospitalo
         kiel <tld/>a&jcirc;o de bur&gcirc;a solidareco
-        <fnt><lok><url
-        ref="http://www.aliaflanko.de/urbo/radolfzell/hist9.html">http://www.aliaflanko.de/urbo/radolfzell/hist9.html</url></lok></fnt>;
+        <fnt><lok><url ref="http://www.aliaflanko.de/urbo/radolfzell/hist9.html">http://www.aliaflanko.de/urbo/radolfzell/hist9.html</url></lok></fnt>;
       </ekz>
       <ekz>
         Vanunu laboris de 1976 &gcirc;is 1985 kiel te&hcirc;nikisto
         &ccirc;e <tld/>a&jcirc;o en suda Israelo
-        <fnt><aut>Baard Hekland</aut><vrk>Monato</vrk><lok><url
-        ref="http://www.esperanto.be/fel/mon/007502.html">http://www.esperanto.be/fel/mon/007502.html</url></lok></fnt>;
+        <fnt>
+        <aut>Baard Hekland</aut>
+        <vrk><url ref="&Monato;/2001/007502.html">Protestinto honorita</url></vrk>
+        <bib>Monato</bib>
+        <lok>2001/07, p. 10</lok></fnt>;
       </ekz>
       <ekz>
         Va&scirc;ingtono insistis anka&ubreve;, ke estu etigitaj
         la inspektadoj de militistaj <tld/>a&jcirc;oj
-        <fnt><vrk>Le Monde Diplomatique en Esperanto</vrk><lok><url
-        ref="http://eo.mondediplo.com/article.php3?id_article=751">2001-11</url></lok></fnt>.
+        <fnt><vrk>Le Monde Diplomatique en Esperanto</vrk><lok><url ref="&Mondediplo;article.php3?id_article=751">2001-11</url></lok></fnt>.
       </ekz>
     </dif>
     <trdgrp lng="fr">
@@ -335,11 +356,21 @@
   <trd lng="de">Anlage</trd>
   <trd lng="en">installation</trd>
   <trd lng="hu">l&eacute;tes&iacute;tm&eacute;ny</trd>  
+  <trdgrp lng="ja">
+    <trd>&#x8A2D;&#x5099;  [<ind>&#x305B;&#x3064;&#x3073;</ind>]</trd>,
+    <trd>&#x65BD;&#x8A2D;  [<ind>&#x3057;&#x305B;&#x3064;</ind>]</trd>,
+    <trd>&#x5099;&#x54C1;  [<ind>&#x3073;&#x3072;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>installatie</trd>,
     <trd>inrichting</trd>
   </trdgrp>
   <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_s;&c_t;&c_a;&#x43D;&#x43E;&c_v;&#x43A;&c_a;</trd>,
+    <trd>&#x43E;&c_b;&#x43B;&c_a;&c_d;&#x43D;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_t;&#x43A;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F; (&#x43C;&c_je;&c_h;&c_a;&#x43D;&c_ib;&c_z;&#x43C;&c_i;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="instal.0igxi">
@@ -357,8 +388,12 @@
         <uzo tip="fak">KOMP</uzo>
         <tld/>i&gcirc;as nur la programo mem, dum la lingvomaterialo
         restas sur la kompakta disko
-        <fnt><aut>Franz Kruse</aut><vrk>Monato</vrk><lok><url
-        ref="http://www.esperanto.be/fel/mon/rec/nvoj.html">http://www.esperanto.be/fel/mon/rec/nvoj.html</url></lok></fnt>.
+        <fnt>
+        <aut>Franz Kruse</aut>
+        <vrk><url ref="&Monato;/1996/nvoj.html">Agrabla ekzercilo</url></vrk>
+        <bib>Monato</bib>
+        <lok>1996/10, p. 12</lok>
+        </fnt>
       </ekz>
     </dif>
   </snc>
@@ -402,6 +437,7 @@
     <trd>installateur<klr tip="ind"> (programme)</klr></trd>
   </trdgrp>
   <trd lng="hu">telep&iacute;t&odblac;program</trd>
+  <trd lng="ja">&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30E9;&#x30FC;</trd>
   <trd lng="pt">instalador<klr tip="amb">
   (computa&ccedil;&atilde;o)</klr></trd>
   <trdgrp lng="ru">
@@ -410,7 +446,7 @@
     <trd>&c_i;&c_n;&c_s;&c_t;&c_a;&c_l;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
   </trdgrp>
   <trd lng="sk">in&scaron;tala&ccaron;n&yacute; program</trd>
-  <trd lng="th">&#3650;&#3611;&#3619;&#3649;&#3585;&#3619;&#3617;&#3605;&#3636;&#3604;&#3605;&#3633;&#3657;&#3591;</trd>
+  <trd lng="th">&#xE42;&#xE1B;&#xE23;&#xE41;&#xE01;&#xE23;&#xE21;&#xE15;&#xE34;&#xE14;&#xE15;&#xE31;&#xE49;&#xE07;</trd>
 </drv>
 
 <drv mrk="instal.0isto">
@@ -429,6 +465,7 @@
     <trd>szerel&odblac;</trd>,
     <trd>telep&iacute;t&odblac;</trd>
   </trdgrp>
+  <trd lng="ja">&#x53D6;&#x308A;&#x4ED8;&#x3051;&#x696D;&#x8005;  [<ind>&#x3068;&#x308A;&#x3064;&#x3051;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>
   <trd lng="nl">installateur</trd>
   <trd lng="pt">instalador<klr tip="amb"> (pessoa)</klr></trd>
   <trdgrp lng="ru">
@@ -436,6 +473,10 @@
     <trd>&c_n;&c_a;&c_l;&c_a;&c_d;&c_ch;&c_i;&c_k;</trd>
   </trdgrp>
   <trd lng="sk">in&scaron;talat&eacute;r</trd>
+  <trdgrp lng="uk">
+    <trd>&c_u;&c_s;&c_t;&c_a;&#x43D;&#x43E;&c_v;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&#x43C;&#x43E;&#x43D;&c_t;&c_je;&c_r;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="instal.mal0i">
@@ -448,10 +489,13 @@
   <trd lng="es">desinstalar</trd>
   <trd lng="fr">d&eacute;sinstaller</trd>
   <trdgrp lng="hu">
-    <trd>felsz&aacute;mol <klr
-    tip="amb">(l&eacute;tes&iacute;tm&eacute;nyt)></klr></trd>,
+    <trd>felsz&aacute;mol <klr tip="amb">(l&eacute;tes&iacute;tm&eacute;nyt)&gt;</klr></trd>,
     <trd>leszerel</trd>,
     <trd>elt&aacute;vol&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30F3;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;&#x3059;&#x308B;</trd>,
+    <trd>&#x524A;&#x9664;&#x3059;&#x308B;  [<ind>&#x3055;&#x304F;&#x3058;&#x3087;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="pt">desinstalar</trd>
   <trdgrp lng="ru">
@@ -460,7 +504,7 @@
     <trd>&c_d;&c_je;&c_i;&c_n;&c_s;&c_t;&c_a;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">odin&scaron;talova&tcaron;</trd>
-  <trd lng="th">&#3618;&#3585;&#3648;&#3621;&#3636;&#3585;&#3585;&#3634;&#3619;&#3605;&#3636;&#3604;&#3605;&#3633;&#3657;&#3591;</trd>
+  <trd lng="th">&#xE22;&#xE01;&#xE40;&#xE25;&#xE34;&#xE01;&#xE01;&#xE32;&#xE23;&#xE15;&#xE34;&#xE14;&#xE15;&#xE31;&#xE49;&#xE07;</trd>
 </drv>
 
 <drv mrk="instal.mal0ilo">
@@ -488,31 +532,33 @@
   </trdgrp>
   <trd lng="pt">desinstalador<klr tip="amb">
   (computa&ccedil;&atilde;o)</klr></trd>
-  <trd
-  lng="ru">&c_d;&c_je;&c_i;&c_n;&c_s;&c_t;&c_a;&c_l;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+  <trd lng="ru">&c_d;&c_je;&c_i;&c_n;&c_s;&c_t;&c_a;&c_l;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
   <trd lng="sk">odin&scaron;tala&ccaron;n&yacute; program</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.20  2015/07/04 08:37:36  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.30 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
 
-Revision 1.19  2015/06/29 16:33:15  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.29 2023/05/03 06:31:12
+Paul Peeraerts: esperanto.be -> &Monato;
 
-Revision 1.18  2007/05/30 16:31:04  revo
-Wieland Pusch: +trd de
+versio 1.28 2023/04/09 13:26:21
+Paul Peeraerts: &Monato;/
 
-Revision 1.17  2005/11/03 17:31:47  revo
-Luiz Portella: +trd pt
+versio 1.27 2023/04/06 13:31:10
+Paul Peeraerts: &Monato;
 
-Revision 1.16  2005/06/26 16:33:04  revo
-Marc Bavant: kor duobligitan punkton
+versio 1.26 2023/03/28 05:28:24
+Paul Peeraerts: &Monato;
 
-Revision 1.15  2005/06/07 16:31:11  revo
-Jozefo Horvath: +trd hu
+versio 1.25 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.14  2005/03/17 17:32:22  revo
+versio 1.22 2020/03/10 00:10:30
+Robin van der Vliet: ligilo riparita
+
+Revision 1.21  2018/08/22 14:10:14  revo
 -->
 </vortaro>

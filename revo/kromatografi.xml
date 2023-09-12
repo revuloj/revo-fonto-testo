@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kromatografi.xml,v 1.2 2009/09/26 16:31:53 revo Exp $">
+<art mrk="$Id: kromatografi.xml,v 1.8 2022/03/22 15:44:13 revo Exp $">
 <kap>
   <rad>kromatografi</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -26,8 +25,7 @@
         sur silica &jcirc;elea&jcirc;o
         <fnt>
           <aut>C. Roux</aut>,
-          <vrk><url
-          ref="http://lichenologue.org/fichiers/docs/1987rouxprecipajlikensubstanc.pdf">
+          <vrk><url ref="http://lichenologue.org/fichiers/docs/1987rouxprecipajlikensubstanc.pdf">
           Precipaj Likenaj Substancoj...</url></vrk>,
           <lok>Bull. Soc. linn. Provence, t. 38, 1986</lok>
         </fnt>.
@@ -37,6 +35,7 @@
       <ref cel="spektrometri.0o.FIZ">spektrometrio</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_h;&c_r;&c_a;&c_m;&c_a;&c_t;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
   <trd lng="ca">cromatografia</trd>
   <trd lng="cs">chromatografie</trd>
   <trd lng="fr">chromatographie</trd>
@@ -44,11 +43,15 @@
   <trd lng="pl">chromatografia</trd>     
   <trd lng="ro">cromatografie</trd>
   <trd lng="sk">chromatografia</trd>
+  <trd lng="uk">&#x445;&#x440;&#x43E;&#x43C;&#x430;&#x442;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x456;&#x44F;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.7 2021/04/07 07:52:59
+Dmitri Gabinski: + trd be
+
 Revision 1.5  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -63,6 +66,5 @@ Paul Peeraerts: +nl
 
 Revision 1.1  2009/09/23 17:25:34  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: konduk.xml,v 1.34 2010/07/22 16:30:27 revo Exp $">
+<art mrk="$Id: konduk.xml,v 1.129 2023/09/01 15:46:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konduk</rad>/i <fnt><bib>PV</bib></fnt>
@@ -160,7 +159,7 @@
         aferon al sukceso;
       </ekz>
       <ekz>
-        Sizifan laboron <klr>[&#8230;]</klr> alkonduki <klr>[&#8230;]</klr> al
+        Sizifan laboron <klr>[&#x2026;]</klr> alkonduki <klr>[&#x2026;]</klr> al
         feli&ccirc;a fino
         <klr>(fari neebla&jcirc;on)</klr>
         <fnt>
@@ -206,8 +205,8 @@
         <trd lng="hu">a nagy szabads&aacute;gnak nyomor a <ind>v&eacute;ge</ind></trd>
       </ekz>
       <ekz>
-        tiuj &ccirc;i kaj aliaj provoj rilate la praktikan utilon 
-        al<tld/>is <klr>[&#8230;]</klr> al <klr>[nen]</klr>ia rezultato
+        tiuj &ccirc;i kaj aliaj provoj rilate la praktikan utilon
+        al<tld/>is <klr>[&#x2026;]</klr> al <klr>[nen]</klr>ia rezultato
         <fnt>
           <bib>FK</bib>
         </fnt>;
@@ -231,7 +230,7 @@
         <fnt><bib>PrV</bib></fnt>.
         <trd lng="fr">le <ind>menteur</ind> ne va pas loin</trd>
         <trd lng="hu">hazugs&aacute;ggal nem lehet messze
-        <ind>menni</ind></trd>        
+        <ind>menni</ind></trd>
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -264,7 +263,7 @@
         <tld/>i armeon, regimenton, &hcirc;oron;
       </ekz>
       <ekz>
-        <tld/>i militon 
+        <tld/>i militon
         <fnt>
           <bib>MT</bib>
           <lok>I. Samuel 8:20</lok>
@@ -293,7 +292,7 @@
       </ekz>
       <ekz>
         profundigitaj en tiel singarde <tld/>atan interparoladon, ke
-        <klr>[&#8230;]</klr> trapenetris e&ccirc; unu vorteto
+        <klr>[&#x2026;]</klr> trapenetris e&ccirc; unu vorteto
         <fnt>
           <bib>BdV</bib>
         </fnt>;
@@ -387,8 +386,7 @@
         <fnt>
         <vrk>Harmonia kunlaboro de la oriento kun la okcidento por
         kuna prospero</vrk>
-        <lok><url
-        ref="http://www.chinareport.com.cn/09e/09e-3f/09e-3-6.htm">El
+        <lok><url ref="http://www.chinareport.com.cn/09e/09e-3f/09e-3-6.htm">El
         Popola &Ccirc;inio</url></lok>
         </fnt>;
       </ekz>
@@ -397,8 +395,7 @@
         por <tld/>i varmon
         <fnt>
         <vrk>Diamanto ne nur belas</vrk>
-        <lok><url
-        ref="http://es.chinabroadcast.cn/4/2003/12/19/1@1664.htm">&Ccirc;ina
+        <lok><url ref="http://es.chinabroadcast.cn/4/2003/12/19/1@1664.htm">&Ccirc;ina
         Enciklopedio</url></lok>
         </fnt>.
       </ekz>
@@ -436,14 +433,67 @@
     nur helpas. Fine <em>gvidi</em> supozas, ke la gvidato ne konas la
     &gcirc;ustan vojon, kiun konas nur la gvidanto.
   </rim>
+  <trd lng="af">lei</trd>
+  <trd lng="am">&#x1218;&#x121D;&#x122B;&#x1275;</trd>
+  <trd lng="ar">&a_q;&#x64A;&a_A;&#x62F;&a_t_marbuta;</trd>
+  <trd lng="az">qur&#x11F;u&#x15F;un</trd>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_je;&c_s;&c_mol;&c_c;&c_ib;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9A8;&#x9C7;&#x9A4;&#x9C3;&#x9A4;&#x9CD;&#x9AC;</trd>
+  <trd lng="bs">vodi</trd>
+  <trd lng="co">cumannari</trd>
   <trd lng="cs">v&eacute;st</trd>
+  <trd lng="cy">arwain</trd>
+  <trd lng="da">f&#xF8;re</trd>
+  <trd lng="et">kaasa</trd>
+  <trd lng="eu">ekar</trd>
+  <trd lng="fy">foarsprong</trd>
+  <trd lng="ga">luaidhe</trd>
+  <trd lng="gd">sti&#xF9;ireadh</trd>
+  <trd lng="gl">conducir</trd>
+  <trd lng="gu">&#xAA6;&#xACB;&#xAB0;&#xAC0;</trd>
+  <trd lng="ha">kai</trd>
+  <trd lng="hi">&#x928;&#x947;&#x924;&#x943;&#x924;&#x94D;&#x935;</trd>
+  <trd lng="hmn">coj</trd>
+  <trd lng="hr">dovesti</trd>
+  <trd lng="ht">mennen</trd>
   <trd lng="hu">vezet</trd>
+  <trd lng="hy">&#x570;&#x561;&#x576;&#x563;&#x565;&#x581;&#x576;&#x565;&#x56C;</trd>
+  <trd lng="ig">mbu</trd>
+  <trd lng="is">lei&#xF0;a</trd>
+  <trd lng="ja">&#x925B; [<ind>&#x306A;&#x307E;&#x308A;</ind>]</trd>
+  <trd lng="jv">mimpin</trd>
+  <trd lng="ka">&#x10D2;&#x10D0;&#x10DB;&#x10DD;&#x10D8;&#x10EC;&#x10D5;&#x10D4;&#x10D5;&#x10E1;</trd>
+  <trd lng="kk">&#x49B;&#x43E;&c_r;&#x493;&c_a;&c_s;&#x44B;&#x43D;</trd>
+  <trd lng="km">&#x1793;&#x17B6;&#x17C6;</trd>
+  <trd lng="kn">&#xCA6;&#xCBE;&#xCB0;&#xCBF;</trd>
+  <trd lng="ko">&#xC9C0;&#xB3C4;</trd>
+  <trd lng="ku">g&#xFB;lle</trd>
+  <trd lng="ky">&c_zh;&c_je;&c_t;&c_je;&#x43A;&c_t;&#x4E9;&#x4E9;</trd>
+  <trd lng="lat">ducit</trd>
+  <trd lng="lo">&#xE99;&#xECD;&#xEB2;&#xEC4;&#xE9B;&#xEAA;&#xEB9;&#xEC8;&#xE81;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">vadovauti</trd>
+  <trd lng="lv">vad&#x12B;t</trd>
+  <trd lng="mg">mitarika</trd>
+  <trd lng="mi">arahi</trd>
+  <trd lng="mk">&c_d;&#x43E;&c_v;&c_je;&c_d;&c_je;</trd>
+  <trd lng="ml">&#xD08;&#xD2F;&#xD02;</trd>
+  <trd lng="mn">&c_h;&#x4AF;&c_r;&c_g;&#x44D;&c_d;&#x44D;&c_g;</trd>
+  <trd lng="mr">&#x906;&#x918;&#x93E;&#x921;&#x940;</trd>
+  <trd lng="ms">membawa</trd>
+  <trd lng="mt">&#x10B;omb</trd>
+  <trd lng="my">&#x1001;&#x1032;</trd>
+  <trd lng="ny">atsogolere</trd>
+  <trd lng="pa">&#xA26;&#xA40; &#xA05;&#xA17;&#xA35;&#xA3E;&#xA08;</trd>
   <trdgrp lng="pl">
     <trd>odprowadza&cacute;</trd>,
     <trd>prowadzi&cacute;</trd>,
     <trd>wodzi&cacute;</trd>,
     <trd>zawie&sacute;&cacute;</trd>
-  </trdgrp> 
+  </trdgrp>
+  <trd lng="ps">&a_l;&a_A;&a_m;&a_l;</trd>
   <trdgrp lng="pt">
     <trd>conduzir</trd>,
     <trd>levar</trd>,
@@ -455,6 +505,9 @@
     <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="rw">kuyobora</trd>
+  <trd lng="sd">&#x68F;&a_s;</trd>
+  <trd lng="si">&#xDB4;&#xDD9;&#xDBB;&#xDB8;&#xDD4;&#xDAB;</trd>
   <trdgrp lng="sk">
     <trd>riadi&tcaron;</trd>,
     <trd>vies&tcaron;</trd>,
@@ -464,6 +517,28 @@
     <trd>vodit</trd>,
     <trd>&rcaron;&iacute;dit</trd>
   </trdgrp>
+  <trd lng="sl">vodi</trd>
+  <trd lng="sm">taitai</trd>
+  <trd lng="sn">tungamira</trd>
+  <trd lng="so">keeni</trd>
+  <trd lng="sq">t&#xEB; &#xE7;oj&#xEB;</trd>
+  <trd lng="st">lebisa</trd>
+  <trd lng="su">mingpin</trd>
+  <trd lng="sw">kusababisha</trd>
+  <trd lng="ta">&#xBB5;&#xBB4;&#xBBF;&#xBB5;&#xB95;&#xBC1;&#xB95;&#xBCD;&#xB95;&#xBC1;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC26;&#xC3E;&#xC30;&#xC3F;</trd>
+  <trd lng="tg">&c_r;&#x43E;&#x4B3;&c_b;&c_a;&c_r;&#x4E3;</trd>
+  <trd lng="th">&#xE19;&#xE33;&#xE44;&#xE1B;&#xE2A;&#xE39;&#xE48;</trd>
+  <trd lng="tl">pangunahan</trd>
+  <trd lng="tt">&#x43A;&c_u;&c_r;&c_g;&c_a;&c_sh;</trd>
+  <trd lng="uk">&#x43F;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_q;&#x6CC;&a_A;&#x62F;&#x62A;</trd>
+  <trd lng="uz">qo&#x2019;rg&#x2019;oshin</trd>
+  <trd lng="vi">d&#x1EAB;n</trd>
+  <trd lng="xh">ukukhokela</trd>
+  <trd lng="yi">&#x5E4;&#x5D9;&#x5E8;&#x5DF;</trd>
+  <trd lng="yo">yorisi</trd>
+  <trd lng="zu">kuholele</trd>
 </drv>
 
 <drv mrk="konduk.0a">
@@ -476,12 +551,15 @@
         estas plej kompetenta
         <fnt>
         <vrk>Rakonto pri diametra kontra&ubreve;eco</vrk>
-        <lok><url
-        ref="http://es.chinabroadcast.cn/chinaabc/chapter16/chapter160210.htm">&Ccirc;ina
+        <lok><url ref="http://es.chinabroadcast.cn/chinaabc/chapter16/chapter160210.htm">&Ccirc;ina
         Enciklopedio</url></lok>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_ib;&c_r;&c_o;&c_w;&c_ch;&c_y;</trd>,
+      <trd>&c_k;&c_ib;&c_r;&c_a;&c_w;&c_n;&c_ib;&c_ch;&c_y;</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>gerencial</trd>,
       <trd>directivo</trd>,
@@ -491,7 +569,7 @@
       <trd>managerial</trd>,
       <trd>guiding</trd>
     </trdgrp>
-    <trd lng="hu">vezet&eacute;si</trd>    
+    <trd lng="hu">vezet&eacute;si</trd>
   </snc>
   <snc mrk="konduk.0a.FIZ_ELE">
     <dif>
@@ -503,19 +581,22 @@
         <fnt>
         <aut>P. Dessapt</aut>
         <vrk>Elektromagnetismo kaj propagado de la ondoj</vrk>
-        <lok><url
-        ref="http://dspt.club.fr/hertzE.htm">http://dspt.club.fr/hertzE.htm</url></lok>
+        <lok><url ref="http://dspt.club.fr/hertzE.htm">http://dspt.club.fr/hertzE.htm</url></lok>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ja;&c_ch;&c_y;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_y;</trd>
+    </trdgrp>
     <trd lng="en">conductive</trd>
     <trd lng="es">conductor</trd>
     <trd lng="hu">vezet&odblac;</trd>
     <trdgrp lng="pl">
       <trd>przewodz&aogonek;cy</trd>,
       <trd>przewodni</trd>
-    </trdgrp> 
-    <trd lng="ro">conductoare</trd> 
+    </trdgrp>
+    <trd lng="ro">conductoare</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;</trd>
   </snc>
 </drv>
@@ -538,13 +619,12 @@
     </subsnc>
     <subsnc ref="konduk.0i.ebligi_iradon">
       <ekz>
-        <tld/>ilo &#8208; elemento, servanta por <tld/>ado de fluanta
+        <tld/>ilo &#x2010; elemento, servanta por <tld/>ado de fluanta
         likvo a&ubreve; gaso
         <fnt>
         <aut>J. Ryb&aacute;&rcaron;</aut>
         <vrk>Terminaro de hidra&ubreve;laj me&hcirc;anismoj</vrk>
-        <lok><url
-        ref="http://eo.wikipedia.org/wiki/Kondukilo">Vikipedio</url></lok>
+        <lok><url ref="&Viki;/Kondukilo">Vikipedio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -554,8 +634,7 @@
         <fnt>
         <vrk>In&gcirc;enieria&jcirc;o de kondukado de akvo
         el sudo al nordo de &Ccirc;inio</vrk>
-        <lok><url
-        ref="http://es.chinabroadcast.cn/chinaabc/chapter3/chapter30902.htm">&Ccirc;ina
+        <lok><url ref="http://es.chinabroadcast.cn/chinaabc/chapter3/chapter30902.htm">&Ccirc;ina
         Enciklopedio</url></lok>
         </fnt>;
       </ekz>
@@ -575,8 +654,7 @@
         <fnt>
         <aut>Pejno S.</aut>
         <vrk>&Scirc;topilo</vrk>
-        <lok><url
-        ref="http://ourworld.compuserve.com/homepages/profcon/e_shtop.htm">http://ourworld.compuserve.com/homepages/profcon/e_shtop.htm</url></lok>
+        <lok><url ref="http://ourworld.compuserve.com/homepages/profcon/e_shtop.htm">http://ourworld.compuserve.com/homepages/profcon/e_shtop.htm</url></lok>
         </fnt>.
         <trd lng="hu">h&odblac;vezet&eacute;s</trd>
         <trd lng="ru">&c_t;&c_je;&c_p;&c_l;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
@@ -586,6 +664,11 @@
       <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
     </subsnc>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ja;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_ja;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>veden&iacute;</trd>,
     <trd>vod&ecaron;n&iacute;</trd>,
@@ -596,7 +679,7 @@
     <trd>conduite<klr tip="ind"> (acte de conduire)</klr></trd>
   </trdgrp>
   <trd lng="hu">vezet&eacute;s</trd>
-  <trd lng="pl">zarz&aogonek;dzanie</trd>     
+  <trd lng="pl">zarz&aogonek;dzanie</trd>
   <trd lng="ro">administrare</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
@@ -640,6 +723,13 @@
         <fnt><bib>MT</bib><lok>&Jug; 11:6</lok></fnt>.
       </ekz>
     </subsnc>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_ib;&c_r;&c_o;&c_w;&c_c;&c_a;</trd>,
+      <trd>&c_v;&c_ja;&c_d;&c_o;&c_w;&c_c;&c_a;</trd>,
+      <trd>&c_k;&c_ib;&c_r;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>,
+      <trd>&c_p;&c_a;&c_v;&c_a;&c_d;&c_y;&c_r;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_y;&c_r;</trd>
+    </trdgrp>
      <trdgrp lng="de">
       <trd>Leiter</trd>,
       <trd>F&uuml;hrer</trd>
@@ -682,6 +772,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="konduk3.0anto">konduktanto</ref>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
     <trd lng="de">Leiter</trd>
     <trd lng="en">conductor</trd>
     <trd lng="es">conductor<klr tip="ind"> (subst., f&iacute;s.)</klr></trd>
@@ -694,10 +785,15 @@
     <trd>&rcaron;idi&ccaron;</trd>
   </trdgrp>
   <trd lng="hu">vezet&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6848;&#x5185;&#x8005;  [<ind>&#x3042;&#x3093;&#x306A;&#x3044;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x64CD;&#x7E26;&#x8005;  [<ind>&#x305D;&#x3046;&#x3058;&#x3085;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x6307;&#x63EE;&#x8005;  [<ind>&#x3057;&#x304D;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>kieruj&aogonek;cy</trd>,
     <trd>przoduj&aogonek;cy</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="ro">conducere</trd>
   <trdgrp lng="sk">
     <trd>sprievodca <klr>(nie&ccaron;&iacute;m)</klr></trd>,
@@ -724,10 +820,10 @@
       <ekz>
         bus<tld/>isto
         <fnt>
+       <aut>Thomas Eccardt</aut>
+          <vrk><url ref="&Monato;/2000/006859.php">Urbeto a&ubreve; sendependa lando?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006859.html">Seborgo:
-          Urbeto a&ubreve; sendependa lando?</url></vrk>
+          <lok>2000/05, p. 8</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -736,6 +832,11 @@
       <ref cel="konduk2.0o">konduktoro</ref> <klr>(kontrolisto)</klr>.
     </rim>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_ib;&c_r;&c_o;&c_w;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_ib;&c_l;&c_o;&c_t;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF41;&#xF0B;&#xF63;&#xF7C;&#xF0B;&#xF54;&#xF0B;</trd>
   <trd lng="cs">pr&uring;vodce</trd>
   <trdgrp lng="de">
     <trd>F&uuml;hrer</trd>,
@@ -748,7 +849,7 @@
   </trdgrp>
   <trdgrp lng="es">
     <trd>conductor<klr tip="ind"> (profesional)</klr></trd>,
-    <trd>ch&oacute;fer<klr tip="ind"> (profesional)</klr></trd>, 
+    <trd>ch&oacute;fer<klr tip="ind"> (profesional)</klr></trd>,
     <trd>piloto<klr tip="ind"> (profesional)</klr></trd>
   </trdgrp>
   <trdgrp lng="fr">
@@ -757,11 +858,15 @@
     <trd>pilote<klr tip="ind"> (professionnel)</klr></trd>
   </trdgrp>
   <trd lng="hu">j&aacute;rm&udblac;vezet&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x904B;&#x8EE2;&#x624B;  [<ind>&#x3046;&#x3093;&#x3066;&#x3093;&#x3057;&#x3085;</ind>]</trd>,
+    <trd>&#x5FA1;&#x8005;  [<ind>&#x304E;&#x3087;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>bestuurder</trd>,
     <trd>conducteur</trd>
   </trdgrp>
-  <trd lng="pl">kierowca</trd>     
+  <trd lng="pl">kierowca</trd>
   <trd lng="ro">conduc&abreve;tor auto</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_n;&c_d;&c_u;&c_k;&c_t;&c_o;&c_r;</trd>,
@@ -800,8 +905,7 @@
         <klr>(ne lasi lin libere agi)</klr>
         <fnt>
         <vrk>&c_Sh;&c_k;&c_o;&c_l;&c_a; ESPERANTO</vrk>
-        <lok><url
-        ref="http://subscribe.ru/archive/job.lang.esplernejo/200009/12060047.html">
+        <lok><url ref="http://subscribe.ru/archive/job.lang.esplernejo/200009/12060047.html">
           http://subscribe.ru/archive/job.lang.esplernejo/200009/12060047.html</url></lok>
         </fnt>.
         <trdgrp lng="es">
@@ -823,6 +927,7 @@
       En &ccirc;i tiu senco la vorto plejofte aperas plurale, sed
       anka&ubreve; singulara uzo eblas.
     </rim>
+    <trd lng="be">&c_l;&c_ja;&c_j;&c_ch;&c_y;&c_n;&c_a;</trd>
     <trdgrp lng="de">
       <trd>Z&uuml;gel</trd>
     </trdgrp>
@@ -854,9 +959,10 @@
         <tld/>iloj kiuj ligas fontlokojn, rafinejojn kaj distribuejojn
         <fnt>
         <aut>F. Shehu</aut>
-        <vrk>La albana nafto kaj &gcirc;iaj perspektivoj</vrk>
-        <lok><url
-        ref="http://www.esperanto.be/fel/mon/005530.html">Monato</url></lok>
+        <vrk>
+        <url ref="&Monato;/2001/005530.html">La albana nafto kaj &gcirc;iaj perspektivoj</url></vrk>
+        <bib>Monato</bib>
+        <lok>1997/05, p. 18</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -870,6 +976,13 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_r;&c_u;&c_b;&c_a; <klr>(&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_a;&c_ja;)</klr></trd>,
+      <trd>&c_v;&c_a;&c_d;&c_a;&c_v;&c_o;&c_d;</trd>,
+      <trd>&c_g;&c_a;&c_z;&c_a;&c_v;&c_o;&c_d;</trd>,
+      <trd>&c_n;&c_a;&c_f;&c_t;&c_a;&c_v;&c_o;&c_d;</trd>,
+      <trd>&c_n;&c_a;&c_f;&c_t;&c_a;&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;&c_a;&c_v;&c_o;&c_d; <klr>&c_ib; &c_d;&c_a; &c_g;. &c_p;.</klr></trd>
+    </trdgrp>
     <trd lng="de">Leitung</trd>
     <trdgrp lng="en">
       <trd>conduit</trd>,
@@ -892,10 +1005,13 @@
       <trd>&c_n;&c_je;&c_f;&c_t;&c_je;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;<klr> &c_i; &c_t;.&c_p;.</klr></trd>
     </trdgrp>
   </snc>
-  <snc mrk="konduk.0ilo.stirilo"
-  ref="konduk.0i.agigi_funkciigi_lauxvole">
+  <snc mrk="konduk.0ilo.stirilo" ref="konduk.0i.agigi_funkciigi_lauxvole">
     <uzo tip="fak">TEK</uzo>
     <ref tip="dif" cel="stir.0ilo">stirilo</ref>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_t;&c_y;&c_r;&c_n;&c_o;</trd>,
+      <trd>&c_r;&c_u;&c_l;&c_mol;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Steuer</trd>,
       <trd>Steuerung</trd>
@@ -909,7 +1025,7 @@
       <trd>volante</trd>,
       <trd>mando de control</trd>
     </trdgrp>
-    <trd lng="hu">korm&aacute;ny</trd>    
+    <trd lng="hu">korm&aacute;ny</trd>
     <trd lng="nl">stuur</trd>
     <trd lng="ru">&c_r;&c_u;&c_l;&c_mol;</trd>
   </snc>
@@ -940,12 +1056,13 @@
         objekto
         el la koncerna substanco, uzata por difinita celo. Tamen &ccirc;i tiu
         vortaro, kiu difinas preferinda por tiuj uzoj la radikon
-        <em>kondukt</em>, 
+        <em>kondukt</em>,
         konservis la formon <ctl><tld/>ilo</ctl> apud
-        <ctl>konduktilo</ctl>, 
+        <ctl>konduktilo</ctl>,
         sed ne registris <ctl><tld/>anto</ctl> apud
         <ctl>konduktanto</ctl>.
       </rim>
+      <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
       <trdgrp lng="es">
         <trd>conductor<klr tip="ind"> (cable el&eacute;ctrico)</klr></trd>,
         <trd>cable el&eacute;ctrico</trd>
@@ -984,17 +1101,24 @@
     <trd>veden&iacute; <klr>(plynu, vody)</klr></trd>,
     <trd>&rcaron;id&iacute;tka</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x305F;&#x3065;&#x306A;</trd>,
+    <trd>&#x30CF;&#x30F3;&#x30C9;&#x30EB;  [<ind>&#x306F;&#x3093;&#x3069;&#x308B;</ind>]</trd>,
+    <trd>&#x307F;&#x305E;</trd>,
+    <trd>&#x5C0E;&#x7BA1;  [<ind>&#x3069;&#x3046;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x6C34;&#x9053;&#x7BA1;  [<ind>&#x3059;&#x3044;&#x3069;&#x3046;&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>cugiel</trd>,
     <trd>kierownica</trd>,
     <trd>lejce</trd>,
     <trd>przewodnik <klr>(elektryczny)</klr></trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>volan</trd>,
     <trd>fr&acirc;u</trd>,
     <trd>ghid <klr>(electric)</klr></trd>
-  </trdgrp>  
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>kormidlo</trd>,
     <trd>riadidl&aacute;</trd>,
@@ -1066,6 +1190,10 @@
       <trd>lead to</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_d;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>dov&eacute;st</trd>,
     <trd>p&rcaron;iv&eacute;st</trd>,
@@ -1091,6 +1219,10 @@
     <trd>odavezet</trd>,
     <trd>idevezet</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9023;&#x308C;&#x3066;&#x6765;&#x308B;  [<ind>&#x3064;&#x308C;&#x3066;&#x304F;&#x308B;</ind>]</trd>,
+    <trd>&#x81F3;&#x3089;&#x3057;&#x3081;&#x308B;  [<ind>&#x3044;&#x305F;&#x3089;&#x3057;&#x3081;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">brengen</trd>
   <trdgrp lng="pl">
     <trd>doprowadza&cacute;</trd>,
@@ -1098,13 +1230,13 @@
     <trd>przywodzi&cacute;</trd>,
     <trd>sprowadza&cacute;</trd>,
     <trd>zaprowadza&cacute;</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>plumb</trd>,
     <trd>dovedi</trd>,
     <trd>reaminti</trd>,
     <trd>aduce</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_d;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
@@ -1136,6 +1268,10 @@
       <ref cel="flank">deflankigi</ref>,
       <ref cel="voj">devojigi</ref>
     </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_d;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+      <trd>&c_u;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>abbringen</trd>,
       <trd>fehlleiten</trd>
@@ -1160,6 +1296,10 @@
         de<tld/>i amikon de malnobla ago<fnt>B</fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_d;&c_g;&c_a;&c_v;&c_o;&c_r;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_a;&c_d;&c_r;&c_a;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>to urge against</trd>,
       <trd>dissuade</trd>
@@ -1186,8 +1326,12 @@
     <trd>elterel</trd>,
     <trd>levezet</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x305D;&#x3089;&#x3059;</trd>,
+    <trd>&#x9060;&#x3056;&#x3051;&#x308B;  [<ind>&#x3068;&#x304A;&#x3056;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">afbrengen</trd>
-  <trd lng="pl">odprowadzi&cacute;</trd>     
+  <trd lng="pl">odprowadzi&cacute;</trd>
   <trd lng="ro">escort&abreve;</trd>
   <trd lng="sk">odvies&tcaron;</trd>
 </drv>
@@ -1262,6 +1406,7 @@
     <trd lng="hu">bevezet</trd>
     <trd lng="nl">inleiden</trd>
   </snc>
+  <trd lng="be">&c_u;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; <klr tip="amb">(&c_u;&c_n;&c_u;&c_t;&c_r;, &c_u; &c_n;&c_je;&c_sh;&c_t;&c_a;)</klr></trd>
   <trdgrp lng="cs">
     <trd>p&rcaron;iv&eacute;st</trd>,
     <trd>uvozovat</trd>,
@@ -1277,10 +1422,16 @@
     <trd>implanter</trd>,
     <trd>lancer<klr tip="ind"> (introduire)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C0E;&#x304D;&#x5165;&#x308C;&#x308B;  [<ind>&#x307F;&#x3061;&#x3073;&#x304D;&#x3044;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x62DB;&#x304D;&#x5165;&#x308C;&#x308B;  [<ind>&#x307E;&#x306D;&#x304D;&#x3044;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x5C0E;&#x5165;&#x3059;&#x308B;  [<ind>&#x3069;&#x3046;&#x306B;&#x3085;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x53D6;&#x308A;&#x5165;&#x308C;&#x308B;  [<ind>&#x3068;&#x308A;&#x3044;&#x308C;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>wnosi&cacute;</trd>,
     <trd>wprowadza&cacute;</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="ro">conduce in</trd>
   <trd lng="ru">&c_v;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
   <trdgrp lng="sk">
@@ -1322,7 +1473,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la kompilinto en sia en<tld/>o skribas <klr>[&#8230;]</klr>
+        la kompilinto en sia en<tld/>o skribas <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
@@ -1331,7 +1482,13 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="sub" cel="preambl.0o">preamblo</ref>
+    <refgrp tip="vid">
+      <ref cel="parol.antaux0o">anta&ubreve;parolo</ref>,
+      <ref cel="prolog.0o">prologo</ref>
+    </refgrp>
   </snc>
+  <trd lng="be">&c_u;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
     <trd>introdukce</trd>,
     <trd>uveden&iacute;</trd>,
@@ -1363,15 +1520,20 @@
     <trd>bevezet&eacute;s</trd>,
     <trd>bevezet&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E8F;&#x8AD6;  [<ind>&#x3058;&#x3087;&#x308D;&#x3093;</ind>]</trd>,
+    <trd>&#x5165;&#x9580;  [<ind>&#x306B;&#x3085;&#x3046;&#x3082;&#x3093;</ind>]</trd>,
+    <trd>&#x5C0E;&#x5165;  [<ind>&#x3069;&#x3046;&#x306B;&#x3085;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>wprowadzenie</trd>,
     <trd>wst&eogonek;p</trd>,
     <trd>zagajenie</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>admitere</trd>,
     <trd>introducere</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="ru">&c_v;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">&uacute;vod</trd>
 </drv>
@@ -1395,6 +1557,10 @@
         <fnt><bib>MT</bib>, <lok>&Re2; 24:14</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_d;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>wegf&uuml;hren</trd>
     </trdgrp>
@@ -1424,10 +1590,14 @@
     <trd>wegf&uuml;hren</trd>,
     <trd>wegbringen</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9023;&#x308C;&#x53BB;&#x308B;  [<ind>&#x3064;&#x308C;&#x3055;&#x308B;</ind>]</trd>,
+    <trd>&#x904B;&#x3073;&#x53BB;&#x308B;  [<ind>&#x306F;&#x3053;&#x3073;&#x3055;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>uprowadza&cacute;</trd>,
     <trd>wyprowadzi&cacute;</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>r&abreve;pi</trd>,
     <trd>muta</trd>
@@ -1454,6 +1624,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_v;&c_je;&c_n;&c_t;&c_y;&c_l;&c_ja;&c_c;&c_y;&c_j;&c_n;&c_a;&c_ja; &c_sh;&c_a;&c_h;&c_t;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>L&uuml;ftung</trd>,
     <trd>Luftschacht</trd>
@@ -1465,8 +1639,8 @@
     <trd><ind>galerie</ind> d'a&eacute;ration</trd>
   </trdgrp>
   <trd lng="hu">l&eacute;gcsatorna</trd>
-  <trd lng="pl">kana&lstroke; powietrzny</trd>     
-  <trd lng="ro">aerian&abreve;</trd>    
+  <trd lng="pl">kana&lstroke; powietrzny</trd>
+  <trd lng="ro">aerian&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_h;&c_o;&c_v;&c_o;&c_d;</trd>,
     <trd>&c_v;&c_je;&c_n;&c_t;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_sh;&c_a;&c_h;&c_t;&c_a;</trd>
@@ -1485,8 +1659,7 @@
         la purigejo de forflua&jcirc;oj
         <fnt>
         <vrk>Varsovia akvo pli bongusta</vrk>
-        <lok><url
-        ref="http://www.radio.com.pl/polonia/article.asp?tId=5286">Pola
+        <lok><url ref="http://www.radio.com.pl/polonia/article.asp?tId=5286">Pola
         Radio</url></lok>
         </fnt>.
       </ekz>
@@ -1515,13 +1688,14 @@
     <trd>aqueduc</trd>
   </trdgrp>
   <trd lng="hu">v&iacute;zvezet&eacute;k</trd>
+  <trd lng="ja">&#x6C34;&#x9053;  [<ind>&#x3059;&#x3044;&#x3069;&#x3046;</ind>]</trd>
   <trd lng="nl">waterleiding</trd>
   <trd lng="pl">akwedukt</trd>
   <trd lng="pt">cano de &aacute;gua</trd>
   <trdgrp lng="ro">
-    <trd>&tcedil;eav&abreve;</trd>,
+    <trd>&#x21B;eav&abreve;</trd>,
     <trd>tubulatur&abreve;</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_v;&c_o;&c_d;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
     <trd>&c_v;&c_o;&c_d;&c_o;&c_v;&c_o;&c_d;</trd>,
@@ -1544,6 +1718,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_d;&c_a;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_a;&c_k;&c_v;&c_e;&c_d;&c_u;&c_k;</trd>
+  </trdgrp>
   <trd lng="cs">veden&iacute; vody</trd>
   <trd lng="en">aqueduct</trd>
   <trd lng="es">acueducto</trd>
@@ -1551,7 +1729,7 @@
     <trd>(r&oacute;mai) <ind>v&iacute;zvezet&eacute;k</ind></trd>,
     <trd>aquaeductus</trd>
   </trdgrp>
-  <trd lng="pl">wodoci&aogonek;g</trd>     
+  <trd lng="pl">wodoci&aogonek;g</trd>
   <trd lng="ro">aprovizionare cu ap&abreve;</trd>
   <trd lng="ru">&c_a;&c_k;&c_v;&c_je;&c_d;&c_u;&c_k;</trd>
   <trd lng="sk">rozvod vody</trd>
@@ -1572,29 +1750,28 @@
         tre elspezaj litografiaj proce<klr>[z]</klr>oj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=41400">Nanodrato</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=41400">Nanodrato</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         fotodiodo estas duon<tld/>a diodo,
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=246565">Fotodiodo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=246565">Fotodiodo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_w;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_y;</trd>
   <trd lng="en">semiconductive</trd>
   <trd lng="es">semiconductor<klr tip="ind"> (adj.)</klr></trd>
   <trdgrp lng="fr">
     <trd>semi-conducteur<klr tip="ind"> (adj.)</klr></trd>,
     <trd>semiconducteur<klr tip="ind"> (adj.)</klr></trd>
   </trdgrp>
-  <trd lng="hu">f&eacute;lvezet&odblac;</trd> 
-  <trd lng="pl">p&oacute;&lstroke;przewodnikowy</trd>     
-  <trd lng="ro">semiconductoare</trd> 
+  <trd lng="hu">f&eacute;lvezet&odblac;</trd>
+  <trd lng="pl">p&oacute;&lstroke;przewodnikowy</trd>
+  <trd lng="ro">semiconductoare</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_l;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;</trd>,
     <trd>&c_p;&c_o;&c_l;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>
@@ -1619,6 +1796,7 @@
     </refgrp>
     <ref tip="sin" cel="konduk3.duon0anto">duonkonduktanto</ref>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_w;&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
   <trd lng="cs">polovodi&ccaron;</trd>
   <trd lng="de">Halbleiter</trd>
   <trd lng="en">semiconductor</trd>
@@ -1628,8 +1806,8 @@
     <trd>semiconducteur<klr tip="ind"> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="hu">f&eacute;lvezet&odblac;</trd>
-  <trd lng="pl">p&oacute;&lstroke;przewodnik</trd>     
-  <trd lng="ro">semiconductor</trd> 
+  <trd lng="pl">p&oacute;&lstroke;przewodnik</trd>
+  <trd lng="ro">semiconductor</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
   <trd lng="sk">polovodi&ccaron;</trd>
 </drv>
@@ -1642,13 +1820,14 @@
       Eco de <ref cel="konduk.duon0a">duon<tld/>a</ref> materialo.
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_w;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="en">semiconductivity</trd>
   <trd lng="es">semiconductividad</trd>
   <trdgrp lng="fr">
     <trd>semiconductivit&eacute;</trd>
   </trdgrp>
   <trd lng="hu">f&eacute;lvezet&odblac; k&eacute;pess&eacute;g</trd>
-  <trd lng="pl">p&oacute;&lstroke;przewodnictwo</trd>    
+  <trd lng="pl">p&oacute;&lstroke;przewodnictwo</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
 </drv>
 
@@ -1670,6 +1849,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_z;&c_a;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_g;&c_a;&c_z;&c_a;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
   <trd lng="de">Gasleitung</trd>
   <trdgrp lng="en">
     <trd>gas pipe</trd>,
@@ -1686,8 +1869,8 @@
   <trdgrp lng="pl">
     <trd>gazoci&aogonek;g</trd>,
     <trd>ruroci&aogonek;g</trd>
-  </trdgrp>  
-  <trd lng="ro">gaso intestinal</trd>   
+  </trdgrp>
+  <trd lng="ro">gaso intestinal</trd>
   <trd lng="ru">&c_g;&c_a;&c_z;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
 </drv>
 
@@ -1705,21 +1888,20 @@
         kaj interretaj kafejoj
         <fnt>
         <vrk>Mono por polaj komunumoj</vrk>
-        <lok><url
-        ref="http://www.radio.com.pl/polonia/article.asp?tId=4878">Pola
+        <lok><url ref="http://www.radio.com.pl/polonia/article.asp?tId=4878">Pola
         Radio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        <ctl>Lum<tld/>iloj &#8208; principo kaj aplikoj</ctl> (ADoc. Fu&szlig;)
+        <ctl>Lum<tld/>iloj &#x2010; principo kaj aplikoj</ctl> (ADoc. Fu&szlig;)
         <fnt>
         <vrk>17a SUS en San Marino / Rimini</vrk>
-        <lok><url
-        ref="http://www.forst.tu-muenchen.de/EXT/AIS/arangxoj/sus17.html">GrKG
+        <lok><url ref="http://www.forst.tu-muenchen.de/EXT/AIS/arangxoj/sus17.html">GrKG
         Humankybernetik 2/1996</url></lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_l;&c_a;&c_v;&c_o;&c_d;</trd>
   <trd lng="de">Lichtleiter</trd>
   <trdgrp lng="en">
     <trd>photoconductor</trd>,
@@ -1729,9 +1911,9 @@
     <trd>fotoconductor</trd>
   </trdgrp>
   <trd lng="fr"><ind>guide</ind> de lumi&egrave;re</trd>
-  <trd lng="hu">f&eacute;nyvezet&odblac;</trd> 
-  <trd lng="pl">przew&oacute;d &sacute;wietlny</trd>     
-  <trd lng="ro">conductor de lumin&abreve;</trd>  
+  <trd lng="hu">f&eacute;nyvezet&odblac;</trd>
+  <trd lng="pl">przew&oacute;d &sacute;wietlny</trd>
+  <trd lng="ro">conductor de lumin&abreve;</trd>
   <trd lng="ru">&c_s;&c_v;&c_je;&c_t;&c_o;&c_v;&c_o;&c_d;</trd>
 </drv>
 
@@ -1749,13 +1931,16 @@
         <fnt>
         <vrk>Pola-ukraina interkonsento pri la naftokondukilo
         Odessa-P&lstroke;ock</vrk>
-        <lok><url
-        ref="http://www.radio.com.pl/polonia/article.asp?tId=6705 ">Pola
+        <lok><url ref="http://www.radio.com.pl/polonia/article.asp?tId=6705 ">Pola
         Radio</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_f;&c_t;&c_a;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_n;&c_a;&c_f;&c_t;&c_a;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>produktovod</trd>,
     <trd>ropovod</trd>
@@ -1769,7 +1954,7 @@
     <trd>pipe-line</trd>
   </trdgrp>
   <trd lng="hu">olajvezet&eacute;k</trd>
-  <trd lng="pl">ropoci&aogonek;g</trd>     
+  <trd lng="pl">ropoci&aogonek;g</trd>
   <trd lng="ro">conducte</trd>
   <trd lng="ru">&c_n;&c_je;&c_f;&c_t;&c_je;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
   <trd lng="sk">naftov&eacute; potrubie</trd>
@@ -1788,9 +1973,8 @@
         generatoro
         <fnt>
         <aut>V. &Jcirc;uravlova, trad. J. Finkel</aut>
-        <vrk>Ni iros pretere &#8208; kaj plu</vrk>
-        <lok><url
-        ref="http://www.esperanto.mv.ru/TRIZ/pretere.html">http://www.esperanto.mv.ru/TRIZ/pretere.html</url></lok>
+        <vrk>Ni iros pretere &#x2010; kaj plu</vrk>
+        <lok><url ref="http://www.esperanto.mv.ru/TRIZ/pretere.html">http://www.esperanto.mv.ru/TRIZ/pretere.html</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1799,12 +1983,13 @@
       en <fnt><bib>PIV1</bib></fnt>.
     </rim>
   </snc>
+  <trd lng="be">&c_h;&c_v;&c_a;&c_l;&c_ja;&c_v;&c_o;&c_d;</trd>
   <trd lng="de">Wellenleiter</trd>
   <trd lng="en">waveguide</trd>
   <trd lng="es"><ind>gu&iacute;a</ind> de ondas</trd>
   <trd lng="fr"><ind>guide</ind> d'ondes</trd>
   <trd lng="hu">hull&aacute;mvezet&odblac;</trd>
-  <trd lng="pl">falow&oacute;d</trd>     
+  <trd lng="pl">falow&oacute;d</trd>
   <trd lng="ro">und&abreve;</trd>
   <trd lng="ru">&c_v;&c_o;&c_l;&c_n;&c_o;&c_v;&c_o;&c_d;</trd>
 </drv>
@@ -1824,6 +2009,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_v;&c_y;&c_sh;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_z;&c_v;&c_y;&c_sh;&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;&c_o;&c_v;&c_y;</trd>
+  </trdgrp>
   <trd lng="de">supraleitend</trd>
   <trd lng="en">superconductive</trd>
   <trd lng="es">superconductor<klr tip="ind"> (adj.)</klr></trd>
@@ -1832,8 +2021,8 @@
     <trd>superconducteur<klr tip="ind"> (adj.)</klr></trd>
   </trdgrp>
   <trd lng="hu">szupravezet&odblac;</trd>
-  <trd lng="pl">nadprzewodnikowy</trd>     
-  <trd lng="ro">supraconductor</trd>   
+  <trd lng="pl">nadprzewodnikowy</trd>
+  <trd lng="ro">supraconductor</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_v;&c_je;&c_r;&c_h;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;</trd>,
     <trd>&c_s;&c_v;&c_je;&c_r;&c_h;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>
@@ -1850,6 +2039,7 @@
     </dif>
     <ref tip="sin" cel="konduk3.super0anto">superkonduktanto</ref>
   </snc>
+  <trd lng="be">&c_z;&c_v;&c_y;&c_sh;&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
   <trd lng="de">Supraleiter</trd>
   <trd lng="en">superconductor</trd>
   <trd lng="es">superconductor<klr tip="ind"> (subst.)</klr></trd>
@@ -1857,9 +2047,9 @@
     <trd>supraconducteur<klr tip="ind"> (subst.)</klr></trd>,
     <trd>superconducteur<klr tip="ind"> (subst.)</klr></trd>
   </trdgrp>
-  <trd lng="hu">szupravezet&odblac;</trd> 
-  <trd lng="pl">nadprzewodnik</trd>     
-  <trd lng="ro">supraconductor</trd> 
+  <trd lng="hu">szupravezet&odblac;</trd>
+  <trd lng="pl">nadprzewodnik</trd>
+  <trd lng="ro">supraconductor</trd>
   <trd lng="ru">&c_s;&c_v;&c_je;&c_r;&c_h;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
 </drv>
 
@@ -1875,14 +2065,14 @@
         alttemperatura super<tld/>eco
         <fnt>
         <vrk>Moskva &Scirc;tata Universitato</vrk>
-        <lok><url
-        ref="http://universitato.narod.ru/historio/moskva_universitato.04.htm">
+        <lok><url ref="http://universitato.narod.ru/historio/moskva_universitato.04.htm">
          http://universitato.narod.ru/historio/moskva_universitato.04.htm</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="sin" cel="konduk4.super0eco">superkonduktiveco</ref>
   </snc>
+  <trd lng="be">&c_z;&c_v;&c_y;&c_sh;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="de">Supraleitung</trd>
   <trd lng="en">superconductivity</trd>
   <trd lng="es">superconductividad</trd>
@@ -1892,8 +2082,8 @@
     <trd>supraconductibilit&eacute;</trd>
   </trdgrp>
   <trd lng="hu">szupravezet&odblac; k&eacute;pess&eacute;g</trd>
-  <trd lng="pl">nadprzewodnictwo</trd>     
-  <trd lng="ro">supraconductibilitate</trd>  
+  <trd lng="pl">nadprzewodnictwo</trd>
+  <trd lng="ro">supraconductibilitate</trd>
   <trd lng="ru">&c_s;&c_v;&c_je;&c_r;&c_h;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
 </drv>
 
@@ -1907,6 +2097,7 @@
       por varmo.
     </dif>
   </snc>
+  <trd lng="be">&c_c;&c_je;&c_p;&c_l;&c_a;&c_v;&c_o;&c_d;</trd>
   <trd lng="de">W&auml;rmeleiter</trd>
   <trd lng="en">thermal conductor</trd>
   <trd lng="es">conductor t&eacute;rmico</trd>
@@ -1914,8 +2105,8 @@
     <trd>caloduc</trd>
   </trdgrp>
   <trd lng="hu">h&odblac;vezet&odblac;</trd>
-  <trd lng="pl">przewodnik termiczny</trd>     
-  <trd lng="ro">ghidul termic</trd>   
+  <trd lng="pl">przewodnik termiczny</trd>
+  <trd lng="ro">ghidul termic</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_je;&c_p;&c_l;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>,
     <trd>&c_t;&c_je;&c_p;&c_l;&c_o;&c_v;&c_a;&c_ja; &c_t;&c_r;&c_u;&c_b;&c_a;</trd>
@@ -1924,27 +2115,27 @@
 </art>
 <!--
 $Log$
+versio 1.128 2023/08/29 12:44:24
+Wolfram Diestel: ja: +prononco
+
+versio 1.127 2023/04/24 16:34:38
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.126 2023/03/29 09:27:53
+Paul Peeraerts: &Monato;
+
+versio 1.125 2023/02/09 17:29:31
+Wolfram Diestel: en~o 2: +ref-oj
+
+versio 1.124 2022/10/10 07:53:03
+Dmitri Gabinski: +trd be
+
+versio 1.123 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.122 2021/08/09 07:27:16
+Dmitri Gabinski: + trd be
+
 Revision 1.45  2018/03/10 23:10:19  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.44  2017/11/05 16:10:14  revo
-Wolfram Diestel: pliaj fnt-oj kaj ekz-oj, germ. trd-oj
-
-Revision 1.43  2017/11/05 11:10:14  revo
-Wolfram Diestel: ~i: aldonis fnt-ojn
-
-Revision 1.42  2017/09/07 22:10:15  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.41  2017/09/07 16:10:14  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.40  2017/09/07 10:10:18  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.39  2017/02/15 15:10:20  revo
-Jeromo Vasxe: sufikon -> sufikson
-
-Revision 1.38  2015/11/03 18:10:16  revo
 -->
 </vortaro>

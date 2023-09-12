@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sufer.xml,v 1.33 2023/09/04 15:14:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sufer</rad>/i
@@ -18,7 +17,7 @@
         la popolo tie <tld/>is pro manko de akvo
         <fnt>
           <bib>MT</bib>
-          <lok>Eliro 17:3</lok>
+          <lok>&Eli; 17:3</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -33,7 +32,7 @@
         </fnt>
         <fnt>
           <bib>Far3</bib>
-          <lok>&Ccirc;apitro VI</lok>
+          <lok>&Ccirc;apitro 6a</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -44,7 +43,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i <klr>[&#8230;]</klr> <tld/>is de la frosto
+        &scirc;i <klr>[&#x2026;]</klr> <tld/>is de la frosto
         <fnt>
           <bib>Fab2</bib>
           <lok>Knabineto kun alumetoj</lok>
@@ -61,7 +60,7 @@
         mia knabo ku&scirc;as paralizulo en la domo, kaj terure <tld/>as
         <fnt>
           <bib>NT</bib>
-          <lok>Mateo 8:6</lok>
+          <lok>&Mat; 8:6</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -72,7 +71,7 @@
         <tld/>ilo
         <fnt>
           <bib>MT</bib>
-          <lok>Eliro 10:7</lok>
+          <lok>&Eli; 10:7</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -107,7 +106,7 @@
         ili estis ju&gcirc;itaj indaj <tld/>i malhonoron
         <fnt>
           <bib>NT</bib>
-          <lok>La agoj 5:41</lok>
+          <lok>&Ago; 5:41</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -120,7 +119,7 @@
         vidu, kion mi <tld/>as de miaj malamikoj
         <fnt>
           <bib>MT</bib>
-          <lok>Psalmaro 9:13</lok>
+          <lok>&Psa; 9:13</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -180,25 +179,28 @@
         <ekz>
           pro la dioksina skandalo en majo 1999 la belga terkultura industrio forte <tld/>is
           <fnt>
-            <bib>Monato</bib>
-            <vrk><url ref="http://steloj.de/esperanto/monato2/007272.html">Reen al la edena paradizo</url></vrk>
-          </fnt>;
+	<aut>Guido van Damme</aut>
+	<vrk><url ref="&Monato;/2001/007272.php">Reen al la edena paradizo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2001/02, p. 20</lok>
+        </fnt>;
         </ekz>
         <ekz>
-          en julio erupciis <nom>Oyama</nom>, sur la insulo <nom>Miyake</nom>, kaj dama&gcirc;is rikoltojn, same <tld/>is turismo
-          <fnt>
-            <bib>Monato</bib>
-            <aut>Hori Jasuo</aut>
-            <vrk><url ref="http://steloj.de/esperanto/monato2/007147.html">Erupcias maltrankvilo</url></vrk>
-          </fnt>;
+          en julio erupciis <nom>Oyama</nom>, sur la insulo <nom>Miyake</nom>, kaj dama&gcirc;is
+          rikoltojn, same <tld/>is turismo
+         <fnt><aut>HORI Jasuo</aut>: 
+          <vrk><url ref="&Monato;/2000/007147.php">Erupcias maltrankvilo</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2000/12, p. 16</lok>
+        </fnt>;
         </ekz>
         <ekz>
           la papeco de Romo <tld/>is gravan krizon <esc>depost</esc> la komenco de la 14a jarcento
           <fnt>
+          <aut>Ji&rcaron;&iacute; Patera</aut>
+            <vrk><url ref="&Monato;/2000/007031.php">Johano Hus &ndash; &ccirc;u ne plu herezulo?</url></vrk>
             <bib>Monato</bib>
-            <aut>Gerrit Berveling</aut>
-            <vrk><url ref="http://steloj.de/esperanto/monato2/007031.html">katolikismo: 
-             Johano Hus &dash; &ccirc;u ne plu herezulo?</url></vrk>
+            <lok>2000/08, p. 19</lok>
           </fnt>.
         </ekz>
       </dif>
@@ -215,10 +217,12 @@
       Ricevi la efikon de ago, esti trafita de iu ago:
       <ekz>
         la akuzativon ni uzas nur en tri okazoj:
-        a) por montri la <tld/>anton de la faro (t.e. post verboj havantaj sencon aktivan) <klr>[&#8230;]</klr>
+        a) por montri la <tld/>anton de la faro (t.e. post verboj havantaj sencon aktivan)
+        <klr>[&#x2026;]</klr>
         <fnt>
           <aut>L. L. Zamenhof</aut>
-          <vrk><url ref="http://eduinf.waw.pl/esp/lern/librejo/0015/0008.php">Lingvaj respondoj</url></vrk>
+          <vrk><url ref="&EduInf;lern/librejo/0015/0008.php">Lingvaj
+          respondoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -247,11 +251,16 @@
   </trdgrp>
   <trd lng="en">suffer</trd>
   <trd lng="es">sufrir</trd>
-  <trdgrp lng="fr">
-    <trd>souffrir</trd>,
-    <trd>subir</trd>
-  </trdgrp>
+  <trd lng="fr">souffrir</trd>
   <trd lng="hu">szenved</trd>
+  <trdgrp lng="ja">
+    <trd>&#x82E6;&#x3057;&#x3080;  [<ind>&#x304F;&#x308B;&#x3057;&#x3080;</ind>]</trd>,
+    <trd>&#x60A9;&#x3080;  [<ind>&#x306A;&#x3084;&#x3080;</ind>]</trd>,
+    <trd>&#x82E6;&#x60A9;&#x3059;&#x308B;  [<ind>&#x304F;&#x306E;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3053;&#x3046;&#x3080;&#x308B;</trd>,
+    <trd>&#x53D7;&#x3051;&#x308B;  [<ind>&#x3046;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x53D7;&#x96E3;&#x3059;&#x308B;  [<ind>&#x3058;&#x3085;&#x306A;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">lijden</trd>
   <trdgrp lng="pt">
     <trd>sofrer</trd>,
@@ -360,17 +369,20 @@
         </fnt>;
       </ekz>
       <ekz>
-        la juneco kaj sano da&ubreve;ris ne longe, balda&ubreve; venis malsanoj kaj <tld/>oj, kiuj turmentis lin tage kaj malhelpis lin dormi nokte
+        la juneco kaj sano da&ubreve;ris ne longe, balda&ubreve; venis malsanoj kaj <tld/>oj, kiuj turmentis lin
+        tage kaj malhelpis lin dormi nokte
         <fnt>
           <bib>ElektFab</bib>
           <lok>La senditoj de morto</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="bo">&t_sa;&t_data;&t_shabchu;&t_ga;&t_tsheg;&t_ba;&t_sa;&t_ngata;&t_la;&t_tsheg;</trd>
     <trdgrp lng="de">
       <trd>Leid</trd>,
       <trd>Qual</trd>
     </trdgrp>
+    <trd lng="en">suffering</trd>
   </snc>
   <trdgrp lng="ca">
     <trd>patiment</trd>,
@@ -379,6 +391,19 @@
     <trd>dolen&ccedil;a</trd>
   </trdgrp>
   <trd lng="fr">souffrance</trd>
+  <trdgrp lng="ja">
+    <trd>&#x82E6;&#x3057;&#x307F;  [<ind>&#x304F;&#x308B;&#x3057;&#x307F;</ind>]</trd>,
+    <trd>&#x60A9;&#x307F;  [<ind>&#x306A;&#x3084;&#x307F;</ind>]</trd>,
+    <trd>&#x82E6;&#x96E3;  [<ind>&#x304F;&#x306A;&#x3093;</ind>]</trd>,
+    <trd>&#x82E6;&#x60A9;  [<ind>&#x304F;&#x306E;&#x3046;</ind>]</trd>,
+    <trd>&#x82E6;&#x60B6;  [<ind>&#x304F;&#x3082;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">leed</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_r;&c_a;&c_zh;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_b;&c_ib;&c_l;&c_mol;</trd>,
+    <trd>&c_m;&c_u;&c_k;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sufer.0anto">
@@ -433,6 +458,10 @@
     </dif>
   </snc>
   <trd lng="de">Leidender</trd>
+  <trdgrp lng="ja">
+    <trd>&#x88AB;&#x5BB3;&#x8005;  [<ind>&#x3072;&#x304C;&#x3044;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x53D7;&#x96E3;&#x8005;  [<ind>&#x3058;&#x3085;&#x306A;&#x3093;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 
@@ -465,11 +494,12 @@
         </fnt>;
       </ekz>
       <ekz>
-        Japanio konsistas el vulkana arkipelago kun 86 aktivaj vulkanoj, kiuj dum la jarcentoj <tld/>igis la popolon
-        <fnt>
+        Japanio konsistas el vulkana arkipelago kun 86 aktivaj vulkanoj, kiuj dum la jarcentoj
+        <tld/>igis la popolon
+        <fnt><aut>HORI Jasuo</aut>: 
+          <vrk><url ref="&Monato;/2000/007147.php">Erupcias maltrankvilo</url></vrk>,
           <bib>Monato</bib>
-          <aut>Hori Jasuo</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007147.html">Erupcias maltrankvilo</url></vrk>
+          <lok>2000/12, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -491,6 +521,19 @@
     </trdgrp>
   </snc>
   <trd lng="fr">faire <ind>souffrir</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x82E6;&#x3057;&#x307E;&#x305B;&#x308B;  [<ind>&#x304F;&#x308B;&#x3057;&#x307E;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x82E6;&#x60A9;&#x3055;&#x305B;&#x308B;  [<ind>&#x304F;&#x306E;&#x3046;&#x3055;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>doen <ind>lijden</ind></trd>,
+    <trd>leed berokkenen</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_p;&c_o;&c_d;&c_ib;&c_ja;&c_t;&c_i; &c_s;&c_t;&c_r;&c_a;&c_zh;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_b;&c_ib;&c_l;&c_mol;</trd>,
+    <trd>&c_m;&c_u;&c_ch;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sufer.0into">
@@ -513,7 +556,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        Mi faros <klr>[&#8230;]</klr> la <tld/>intojn potenca nacio
+        Mi faros <klr>[&#x2026;]</klr> la <tld/>intojn potenca nacio
         <fnt>
           <bib>MT</bib>
           <lok>Mi&hcirc;a 4:7</lok>
@@ -537,33 +580,58 @@
     </dif>
   </snc>
   <trd lng="de">Leidgepr&uuml;fter</trd>
+  <trdgrp lng="ja">
+    <trd>&#x88AB;&#x5BB3;&#x8005;  [<ind>&#x3072;&#x304C;&#x3044;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x53D7;&#x96E3;&#x8005;  [<ind>&#x3058;&#x3085;&#x306A;&#x3093;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_o;&c_t;&c_je;&c_r;&c_p;&c_ib;&c_l;&c_i;&c_j;</trd>
 </drv>
 
-
+<drv mrk="sufer.tra0i">
+  <kap>
+    tra<tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sufer.tra0i.KOMUNE">
+    <dif>
+      <tld lit="S"/>i konstante dum difinita tempo:
+      <ekz>
+        se li estas senkulpa, Dio mia, kion li tra<tld/>is dum duono de sia vivo
+        <fnt>
+          <aut>Angelos</aut>
+          <vrk><url ref="https://www.liberafolio.org/2023/03/28/mortkondamno-de-billy-waldon-nuligita/">en: Mortkondamno de Billy Waldon nuligita</url></vrk>
+          <lok>libera folio, 2023-03-28</lok>
+        </fnt>!
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">erleiden</trd>
+  <trd lng="fr">subir</trd>
+</drv>
 </art>
 <!--
 $Log$
+versio 1.32 2023/05/28 21:22:50
+Ulrich Fellmann: trasuferi: +1 DE trd
+
+versio 1.31 2023/05/01 12:44:24
+Paul Peeraerts: Steloj -> monato
+
+versio 1.30 2023/04/24 06:32:35
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.29 2023/04/19 08:31:42
+Paul Peeraerts: Steloj -> monato
+
+versio 1.28 2023/03/31 20:23:54
+Jeromo Vasxe: + tra~i
+
+versio 1.27 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2020/12/29 11:10:34
+Aleks Andre: +trd bo, en
+
 Revision 1.23  2018/07/22 14:10:13  revo
-Wolfram Diestel: +~anto, ~into, prilaboris ekz-ojn, germ trd-oj
-
-Revision 1.22  2018/07/22 12:10:13  revo
-Wolfram Diestel: ~i: prilaboris ekz-ojn
-
-Revision 1.21  2017/10/25 13:10:14  revo
-Jeromo Vasxe: + ~o ~igi
-
-Revision 1.20  2015/07/04 08:37:44  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.19  2015/06/29 16:33:24  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.18  2011/11/22 18:10:09  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.17  2011/11/22 13:10:15  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.16  2006/07/20 19:40:36  revo
 -->
 </vortaro>

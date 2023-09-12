@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: pruv.xml,v 1.109 2023/09/03 12:45:13 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>pruv</rad>/i <fnt><bib>PV</bib></fnt>
@@ -63,48 +62,123 @@
         </dif>
         <ref tip="sin" cel="demons.0i.MAT">demonstri.</ref>
       </snc>
-      <trdgrp lng="be">
+      <trd lng="af">bewys</trd>
+  <trd lng="am">&#x12A0;&#x1228;&#x130B;&#x130D;&#x1325;</trd>
+  <trd lng="ar">&a_A_hamza_sube;&#x62B;&a_b;&a_A;&#x62A;</trd>
+  <trd lng="az">s&#xFC;but etm&#x259;k</trd>
+  <trdgrp lng="be">
         <trd>&c_d;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
         <trd>&c_d;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
       </trdgrp>
-      <trdgrp lng="cs">
+      <trd lng="bn">&#x9AA;&#x9CD;&#x9B0;&#x9AE;&#x9BE;&#x9A3;</trd>
+  <trd lng="bs">dokazati</trd>
+  <trd lng="co">determin&#xE0;</trd>
+  <trdgrp lng="cs">
         <trd>dok&aacute;zat</trd>,
         <trd>dolo&zcaron;it</trd>,
         <trd>prok&aacute;zat</trd>
       </trdgrp>
-      <trd lng="de">beweisen</trd>
+      <trd lng="cy">profi</trd>
+  <trd lng="da">bevise</trd>
+  <trd lng="de">beweisen</trd>
       <trd lng="en">prove</trd>
       <trdgrp lng="es">
         <trd>probar</trd>,
         <trd>demostrar</trd>
       </trdgrp>
-      <trdgrp lng="fr">
+      <trd lng="et">t&#xF5;estama</trd>
+  <trd lng="eu">frogatzeko</trd>
+  <trdgrp lng="fr">
         <trd>prouver</trd>,
         <trd>d&eacute;montrer</trd>
       </trdgrp>
-      <trdgrp lng="hu">
+      <trd lng="fy">bewize</trd>
+  <trd lng="ga">chruth&#xFA;</trd>
+  <trd lng="gd">dearbhadh</trd>
+  <trd lng="gl">probar</trd>
+  <trd lng="gu">&#xAB8;&#xABE;&#xAAC;&#xABF;&#xAA4;</trd>
+  <trd lng="ha">tabbatar da</trd>
+  <trd lng="hi">&#x938;&#x93E;&#x92C;&#x93F;&#x924;</trd>
+  <trd lng="hmn">ua pov thawj</trd>
+  <trd lng="hr">dokazati</trd>
+  <trd lng="ht">pwouve</trd>
+  <trdgrp lng="hu">
         <trd>bizony&iacute;t</trd>,
         <trd>igazol</trd>
       </trdgrp>
-      <trd lng="nl">bewijzen</trd>
-      <trd lng="pl">dowodzi&cacute;</trd>
-      <trdgrp lng="pt">
-        <trd>provar <klr>(demonstrar)</klr></trd>,  
+      <trd lng="hy">&#x561;&#x57A;&#x561;&#x581;&#x578;&#x582;&#x581;&#x565;&#x56C;</trd>
+  <trd lng="ig">gosi</trd>
+  <trd lng="is">sanna</trd>
+  <trd lng="ja">&#x8A3C;&#x660E;&#x3059;&#x308B; [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  <trd lng="jv">mbuktekaken</trd>
+  <trd lng="ka">&#x10D3;&#x10D0;&#x10D0;&#x10DB;&#x10E2;&#x10D9;&#x10D8;&#x10EA;&#x10DD;&#x10E1;</trd>
+  <trd lng="kk">&c_d;&#x4D9;&#x43B;&c_je;&#x43B;&c_d;&c_je;&c_u;</trd>
+  <trd lng="km">&#x1794;&#x1784;&#x17D2;&#x17A0;&#x17B6;&#x1789;</trd>
+  <trd lng="kn">&#xCB8;&#xCBE;&#xCAC;&#xCC0;&#xCA4;&#xCC1;</trd>
+  <trd lng="ko">&#xC99D;&#xBA85;</trd>
+  <trd lng="ku">del&#xEE;lkirin</trd>
+  <trd lng="ky">&c_d;&c_a;&#x43B;&c_i;&#x43B;&c_d;&#x4E9;&#x4E9;</trd>
+  <trd lng="lat">probant</trd>
+  <trd lng="lo">&#xE9E;&#xEB4;&#xEAA;&#xEB9;&#xE94;</trd>
+  <trd lng="lt">&#x12F;rodyti</trd>
+  <trd lng="lv">izr&amacron;d&#x12B;ties</trd>
+  <trd lng="mg">manaporofo</trd>
+  <trd lng="mi">hei whakamatautau</trd>
+  <trd lng="mk">&c_d;&#x43E;&#x43A;&c_a;&c_zh;&c_je;</trd>
+  <trd lng="ml">&#xD24;&#xD46;&#xD33;&#xD3F;&#xD2F;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&#x43D;&#x43E;&c_t;&#x43B;&#x43E;&c_h;</trd>
+  <trd lng="mr">&#x938;&#x93F;&#x926;&#x94D;&#x927;</trd>
+  <trd lng="ms">membuktikan</trd>
+  <trd lng="mt">jipprova</trd>
+  <trd lng="my">&#x101E;&#x1000;&#x103A;&#x101E;&#x1031;&#x1015;&#x103C;</trd>
+  <trd lng="ne">&#x92A;&#x94D;&#x930;&#x92E;&#x93E;&#x923;&#x93F;&#x924;</trd>
+  <trd lng="nl">bewijzen</trd>
+      <trd lng="ny">kutsimikizira</trd>
+  <trd lng="pa">&#xA38;&#xA3E;&#xA2C;&#xA24;</trd>
+  <trd lng="pl">dowodzi&cacute;</trd>
+      <trd lng="ps">&#x62B;&a_A;&a_b;&#x62A;</trd>
+  <trdgrp lng="pt">
+        <trd>provar <klr>(demonstrar)</klr></trd>,
         <trd>demonstrar</trd>,
-        <trd>fazer <ind>f&eacute;</ind></trd>,    
+        <trd>fazer <ind>f&eacute;</ind></trd>,
         <trd>fazer <ind>prova</ind> de</trd>
       </trdgrp>
       <trdgrp lng="ru">
         <trd>&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_d;&c_o;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
       </trdgrp>
-      <trdgrp lng="sk">
+      <trd lng="rw">garagaza</trd>
+  <trd lng="sd">&#x62B;&a_A;&a_b;&#x62A;</trd>
+  <trd lng="si">&#xD94;&#xDB4;&#xDCA;&#xDB4;&#xDD4;</trd>
+  <trdgrp lng="sk">
         <trd>dok&aacute;za&tcaron;</trd>,
         <trd>dolo&zcaron;i&tcaron;</trd>,
         <trd>preuk&aacute;za&tcaron;</trd>
       </trdgrp>
-      <trd lng="sv">bevisa</trd>
-    </drv>
+      <trd lng="sl">dokazati</trd>
+  <trd lng="sm">faamaonia</trd>
+  <trd lng="sn">ratidza</trd>
+  <trd lng="so">cadayso</trd>
+  <trd lng="sq">provoj</trd>
+  <trd lng="st">ba</trd>
+  <trd lng="su">ngabuktoskeun</trd>
+  <trd lng="sv">bevisa</trd>
+      <trd lng="sw">kuthibitisha</trd>
+  <trd lng="ta">&#xBA8;&#xBBF;&#xBB0;&#xBC2;&#xBAA;&#xBBF;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC30;&#xC41;&#xC1C;&#xC41;&#xC35;&#xC41;</trd>
+  <trd lng="tg">&c_i;&c_s;&c_b;&#x43E;&c_t; &#x43A;&c_a;&c_r;&c_d;&c_a;&#x43D;</trd>
+  <trd lng="th">&#xE1E;&#xE34;&#xE2A;&#xE39;&#xE08;&#xE19;&#xE4C;</trd>
+  <trd lng="tl">patunayan</trd>
+  <trd lng="tt">&c_i;&c_s;&c_b;&c_a;&c_t;&#x43B;&c_a;&c_u;</trd>
+  <trd lng="uk">&c_d;&#x43E;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trd lng="ur">&#x62B;&a_A;&a_b;&#x62A;</trd>
+  <trd lng="uz">isbotlash</trd>
+  <trd lng="vi">ch&#x1EE9;ng minh</trd>
+  <trd lng="xh">zingqina</trd>
+  <trd lng="yi">&#x5D1;&#x5D0;&#x5B7;&#x5D5;&#x5D5;&#x5D9;&#x5D9;&#x5B7;&#x5D6;&#x5DF;</trd>
+  <trd lng="yo">mule</trd>
+  <trd lng="zu">afakazele</trd>
+</drv>
 
     <drv mrk="pruv.0o">
       <kap><tld/>o</kap>
@@ -121,6 +195,7 @@
             martelbataj <tld/>oj.
           </ekz>
         </dif>
+        <trd lng="pt">prova<klr> (comprova&ccedil;&atilde;o)</klr></trd>
       </snc>
       <snc mrk="pruv.0o.MAT">
         <uzo tip="fak">MAT</uzo>
@@ -139,6 +214,8 @@
           <ref cel="pruv.0odeekzisto"><tld/>o de ekzisto</ref>.
         </refgrp>
         <trd lng="en">proof</trd>
+        <trd lng="pt">demonstra&ccedil;&atilde;o<klr> (prova)</klr></trd>
+
       </snc>
       <trd lng="be">&c_d;&c_o;&c_k;&c_a;&c_z;</trd>
       <trd lng="de">Beweis</trd>
@@ -154,12 +231,21 @@
         <trd>bizony&iacute;t&eacute;k</trd>,
         <trd>bizony&iacute;t&aacute;s</trd>
       </trdgrp>
-      <trd lng="nl">bewijs</trd>
+      <trdgrp lng="ja">
+    <trd>&#x8A3C;&#x660E;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;</ind>]</trd>,
+    <trd>&#x8A3C;&#x62E0;  [<ind>&#x3057;&#x3087;&#x3046;&#x3053;</ind>]</trd>,
+    <trd>&#x7ACB;&#x8A3C;  [<ind>&#x308A;&#x3063;&#x3057;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">bewijs</trd>
       <trd lng="pl">dow&oacute;d</trd>
-      <trd
-        lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+      <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
       <trd lng="sv">bevis</trd>
-    </drv>
+      <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&#x43A;&c_a;&c_z;</trd>,
+    <trd>&c_d;&#x43E;&c_v;&c_ib;&c_d;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_t;&c_v;&c_je;&c_r;&c_d;&c_zh;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="pruv.0e">
       <kap><tld/>e</kap>
@@ -175,11 +261,17 @@
       </snc>
       <trd lng="es">en prueba</trd>
       <trd lng="fr">&agrave; preuve</trd>
-      <trdgrp lng="nl">
+      <trd lng="ja">&#x305D;&#x306E;&#x8A3C;&#x62E0;&#x306B;  [<ind>&#x305D;&#x306E;&#x3057;&#x3087;&#x3046;&#x3053;&#x306B;</ind>]</trd>
+  <trdgrp lng="nl">
         <trd>want</trd>,
         <trd>namelijk</trd>
       </trdgrp>
-    </drv>
+      <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&#x43A;&c_a;&c_z;&#x43E;&c_v;&#x43E;</trd>,
+    <trd>&c_d;&#x43E;&c_v;&c_ib;&c_d;&#x43D;&#x43E;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&#x43A;&#x43E;&#x43D;&#x43B;&c_i;&c_v;&#x43E;</trd>
+  </trdgrp>
+</drv>
 
     <drv mrk="pruv.0ebla">
       <kap><tld/>ebla</kap>
@@ -213,8 +305,16 @@
       </trdgrp>
       <trd lng="hu">bizony&iacute;that&oacute;</trd>
       <trd lng="pl">mo&zdot;liwy do udowodnienia</trd>
+      <trdgrp lng="pt">
+        <trd>comprov&aacute;vel</trd>
+        <trd>demonstr&aacute;vel</trd>
+      </trdgrp>
       <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_u;&c_je;&c_m;&c_y;&c_j;</trd>
       <trd lng="sk">dok&aacute;zate&lcaron;n&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&#x43E;&c_v;&c_ib;&c_d;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&#x43E;&#x43A;&c_a;&c_z;&#x43E;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
     <drv mrk="pruv.mal0i">
@@ -231,9 +331,8 @@
             ordonojn", kaj la 48-jara bonfaranto
             <fnt>
               <aut>Don Harlow</aut>:
-              <vrk><url
- ref="http://donh.best.vwh.net/Esperanto/Literaturo/Recenzoj/granita.html"
-                  >Recenzo pri &leftquot;Sur kampo granita&rightquot;</url></vrk>
+              <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Recenzoj/granita.html">Recenzo pri
+              &leftquot;Sur kampo granita&rightquot;</url></vrk>
             </fnt>.
           </ekz>
         </dif>
@@ -247,6 +346,10 @@
       <trdgrp lng="fr">
         <trd>infirmer</trd>,
         <trd>r&eacute;futer</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+        <trd>desmentir</trd>,
+        <trd>refutar</trd>,
       </trdgrp>
       <trd lng="ru">&c_o;&c_p;&c_r;&c_o;&c_v;&c_je;&c_r;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
     </drv>
@@ -270,8 +373,9 @@
       <trd lng="en">proof of existence</trd>
       <trd lng="es">prueba de existencia</trd>
       <trd lng="fr">d&eacute;monstration d'existence</trd>
-      <trd lng="hu">egzisztencia-bizony&iacute;t&aacute;s</trd>  
+      <trd lng="hu">egzisztencia-bizony&iacute;t&aacute;s</trd>
       <trd lng="pl">dow&oacute;d istnienia</trd>
+      <trd lng="pt">prova de exist&ecirc;ncia</trd>
       <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o; &c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;</trd>
     </drv>
 
@@ -289,8 +393,9 @@
         <trd>demostraci&oacute;n por recurrencia</trd>
       </trdgrp>
       <trd lng="fr">d&eacute;monstration par r&eacute;currence</trd>
-      <trd lng="hu">indukci&oacute;s <ind>bizony&iacute;t&aacute;s</ind></trd>  
+      <trd lng="hu">indukci&oacute;s <ind>bizony&iacute;t&aacute;s</ind></trd>
       <trd lng="pl">dow&oacute;d indukcyjny</trd>
+      <trd lng="pt">prova por indu&ccedil;&atilde;o</trd>
       <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o; &c_p;&c_o; &c_i;&c_n;&c_d;&c_u;&c_k;&c_c;&c_i;&c_i;</trd>
     </drv>
 
@@ -307,9 +412,10 @@
       <trd lng="en">proof by reductio ad absurdum</trd>
       <trd lng="es">demostraci&oacute;n por reducci&oacute;n al absurdo</trd>
       <trd lng="fr">d&eacute;monstration par l'absurde</trd>
-      <trd lng="hu">k&ouml;zvetett <ind>bizony&iacute;t&aacute;s</ind	></trd>  
+      <trd lng="hu">k&ouml;zvetett <ind>bizony&iacute;t&aacute;s</ind></trd>
       <trd lng="pl">dow&oacute;d nie wprost</trd>
-      <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o; &c_o;&c_t; &c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_n;&c_o;&c_g;&c_o;</trd>
+      <trd lng="pt">prova por absurdo</trd>
+     <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o; &c_o;&c_t; &c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_n;&c_o;&c_g;&c_o;</trd>
     </drv>
 
     <drv mrk="pruv.0oteorio">
@@ -331,6 +437,7 @@
       </snc>
       <trd lng="en">proof theory</trd>
       <trd lng="ru">&c_t;&c_je;&c_o;&c_r;&c_i;&c_ja; &c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;</trd>
+      <trd lng="pt">teoria da prova</trd>
     </drv>
 
     <drv mrk="pruv.kioestis0ota">
@@ -373,7 +480,7 @@
         <trd>q. e. d.</trd>,
         <trd>bizony&iacute;t&aacute;s v&eacute;ge</trd>,
         <trd>amit bizony&iacute;tani kellett</trd>
-      </trdgrp>  
+      </trdgrp>
       <trdgrp lng="la">
         <trd>quod erat <ind>demonstrandum</ind></trd>,
         <trd>Q.E.D.</trd>
@@ -384,6 +491,7 @@
         <trd>cbdo.</trd>,
         <trd>cbdu.</trd>
       </trdgrp>
+      <trd lng="pt">como se queria demonstar (C.Q.D.)</trd>
       <trdgrp lng="ru">
         <trd>&c_ch;&c_t;&c_o; &c_i; &c_t;&c_r;&c_je;&c_b;&c_o;&c_v;&c_a;&c_l;&c_o;&c_s;&c_mol;
           <ind>&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</ind></trd>,
@@ -399,6 +507,18 @@
   </art>
   <!--
   $Log$
+versio 1.108 2023/08/29 16:34:41
+Wolfram Diestel: ja: prononco
+
+versio 1.107 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2020/03/22 21:10:26
+James Rezende Piton: +trd pt ~o, ~ebla, mal~, pruvo per *, K.E.P.
+
+  Revision 1.29  2018/11/19 16:10:13  revo
+  Sergio Pokrovskij: +oteorio
+
   Revision 1.28  2017/12/10 08:10:14  revo
   Guillermo Molleda Jimena: trd es
 
@@ -409,41 +529,5 @@
   aldono de trd sk per skripto de M. von Laer
 
   Revision 1.25  2010/07/10 16:30:57  revo
-  Jeromo Vasxe: - kramp + mrk + 2 trd fr
-
-  Revision 1.24  2008/08/29 16:30:23  revo
-  Sergio Pokrovskij: +~ebla, +ekzisto~o
-
-  Revision 1.23  2006/04/12 16:31:24  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.22  2005/05/23 16:31:59  revo
-  Sergio Pokrovskij: -tajperaro, +rim
-
-  Revision 1.21  2005/05/22 16:55:37  revo
-  Sergio Pokrovskij: +mal~i
-
-  Revision 1.20  2004/09/06 16:38:01  revo
-  Marc Bavant: kor duobligitan punkton
-
-  Revision 1.19  2004/08/17 18:11:00  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.18  2003/07/26 08:43:24  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.17  2003/04/12 16:33:12  revo
-  Marc Bavant: K.E.P.: mod trd ru
-
-  Revision 1.16  2003/04/07 16:36:31  revo
-  Marc Bavant: KEP: mod trd pl
-  Revision 1.15  2003/02/01 17:33:59  revo
-  Marc Bavant: +trd pl
-  Revision 1.14  2003/01/02 17:50:20  revo
-  Marc Bavant: +trd pl
-  Revision 1.13  2002/10/13 16:32:09  revo
-  Marc Bavant: +drv K.E.P.
-  Revision 1.12 2002/01/21 21:48:06 revo
-  fontindiko PrV per programo de Jerome
-  -->
+-->
 </vortaro>

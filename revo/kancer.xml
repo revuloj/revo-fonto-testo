@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kancer.xml,v 1.16 2010/02/05 17:30:28 revo Exp $">
+<art mrk="$Id: kancer.xml,v 1.24 2023/08/31 19:24:09 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>kancer</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -11,8 +10,7 @@
   <snc mrk="kancer.0o.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      <ref tip="lst" cel="san.mal0o.MED"
-      lst="voko:malsanoj">Malsano</ref>
+      <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">Malsano</ref>
       karakterizita de malbonprognoza, solida
       <ref tip="super" cel="tumor.0o.MED">tumoro</ref>,
       kiu emas &ccirc;iam pli disvasti&gcirc;i kaj renaski&gcirc;i post
@@ -26,6 +24,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_k;</trd>
+  <trd lng="bo">&#xF66;&#xF90;&#xFB2;&#xF53;&#xF0B;&#xF53;&#xF51;&#xF0B;</trd>
   <trd lng="ca">c&agrave;ncer</trd>
   <trd lng="cs">rakovina</trd>
   <trd lng="de">Krebs</trd>
@@ -34,6 +33,11 @@
   <trd lng="fr">cancer<klr tip="ind"> (m&eacute;d.)</klr></trd>
   <trd lng="hu">r&aacute;k</trd>
   <trd lng="id">kanker</trd>
+  <trdgrp lng="ja">
+    <trd>&#x304C;&#x3093;</trd>,
+    <trd>&#x816B;&#x760D;  [<ind>&#x3057;&#x3085;&#x3088;&#x3046;</ind>]</trd>,
+    <trd>&#x30A4;&#x30C1;&#x30E7;&#x30A6;&#x30AC;&#x30CB;</trd>
+  </trdgrp>
   <trd lng="nl">kanker</trd>
   <trd lng="no">kreft</trd>
   <trdgrp lng="pl">
@@ -42,6 +46,7 @@
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_k;</trd>
   <trd lng="sk">rakovina</trd>
+  <trd lng="uk">&#x440;&#x430;&#x43A;</trd>
 </drv>
 </art>
 <!--

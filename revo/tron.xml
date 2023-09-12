@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: tron.xml,v 1.26 2023/09/04 19:01:54 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>tron</rad>/o
@@ -12,8 +11,7 @@
       <kap><ofc>*</ofc><tld/>o</kap>
       <snc mrk="tron.0o.meblo">
         <dif>
-          Ceremonia alta <ref tip="super"
-          cel="segx.0o.meblo">se&gcirc;o</ref>
+          Ceremonia alta <ref tip="super" cel="segx.0o.meblo">se&gcirc;o</ref>
           de re&gcirc;o a&ubreve; alia suvereno.
         </dif>
         <trd lng="pl">tron</trd>
@@ -29,8 +27,18 @@
           <trd>stolec<klr> (krzes&lstroke;o)</klr></trd>
         </trdgrp>
       </snc>
+  <trd lng="bo">&#xF41;&#xFB2;&#xF72;&#xF0B;</trd>
   <trd lng="es">trono</trd>
-      <trd lng="lat">solium, ii</trd>
+      <trdgrp lng="ja">
+    <trd>&#x7389;&#x5EA7;  [<ind>&#x304E;&#x3087;&#x304F;&#x3056;</ind>]</trd>,
+    <trd>&#x738B;&#x5EA7;  [<ind>&#x304A;&#x3046;&#x3056;</ind>]</trd>,
+    <trd>&#x541B;&#x4E3B;&#x306E;&#x5EA7;&#x5E2D;  [<ind>&#x304F;&#x3093;&#x3057;&#x3085;&#x306E;&#x3056;&#x305B;&#x304D;</ind>]</trd>,
+    <trd>&#x738B;&#x4F4D;  [<ind>&#x304A;&#x3046;&#x3044;</ind>]</trd>,
+    <trd>&#x5E1D;&#x4F4D;  [<ind>&#x3066;&#x3044;&#x3044;</ind>]</trd>,
+    <trd>&#x738B;&#x6A29;  [<ind>&#x304A;&#x3046;&#x3051;&#x3093;</ind>]</trd>,
+    <trd>&#x5E1D;&#x6A29;  [<ind>&#x307F;&#x304B;&#x3069;&#x3051;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trd lng="lat">solium, ii</trd>
   <trdgrp lng="be">
         <trd>&c_t;&c_r;&c_o;&c_n;</trd>,
         <trd>&c_p;&c_a;&c_s;&c_a;&c_d;</trd>
@@ -58,6 +66,10 @@
     <trd>tr&oacute;n</trd>,
     <trd>vl&aacute;da</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x442;&#x440;&#x43E;&#x43D;</trd>,
+    <trd>&#x43F;&#x440;&#x435;&#x441;&#x442;&#x43E;&#x43B;</trd>
+  </trdgrp>
 </drv>
 
     <drv mrk="tron.0i">
@@ -78,15 +90,13 @@
         <dif>
           Esti re&gcirc;o a&ubreve; suvereno.
         </dif>
-        <trd
-        lng="be">&c_v;&c_a;&c_l;&c_a;&c_d;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+        <trd lng="be">&c_v;&c_a;&c_l;&c_a;&c_d;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
         <trd lng="en">reign</trd>
         <trdgrp lng="pl">
           <trd>kr&oacute;lowa&cacute;</trd>,
           <trd>panowa&cacute;</trd>
         </trdgrp>
-        <trd
-        lng="ru">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+        <trd lng="ru">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
       </snc>
       <snc mrk="tron.0i.FIG_mieni">
         <uzo tip="klr">(f. iu)</uzo>
@@ -102,8 +112,7 @@
           <trd>wywy&zdot;sza&cacute; si&eogonek;</trd>,
           <trd>panowa&cacute;</trd>
         </trdgrp>
-        <trd
-        lng="ru">&c_v;&c_o;&c_s;&c_s;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>
+        <trd lng="ru">&c_v;&c_o;&c_s;&c_s;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>
       </snc>
       <snc mrk="tron.0i.FIG_alti">
         <uzo tip="stl">FIG</uzo>
@@ -130,11 +139,21 @@
         <trd>tr&oacute;nol</trd>,
         <trd>tr&oacute;nsz&eacute;ken &uuml;l</trd>
       </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7389;&#x5EA7;&#x306B;&#x3059;&#x308F;&#x3063;&#x3066;&#x3044;&#x308B;  [<ind>&#x305F;&#x307E;&#x3056;&#x306B;&#x3059;&#x308F;&#x3063;&#x3066;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x541B;&#x81E8;&#x3059;&#x308B;  [<ind>&#x304F;&#x3093;&#x308A;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3067;&#x3093;&#x3068;&#x5EA7;&#x3063;&#x3066;&#x3044;&#x308B;  [<ind>&#x3067;&#x3093;&#x3068;&#x3059;&#x308F;&#x3063;&#x3066;&#x3044;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tronen</trd>
   <trdgrp lng="sk">
     <trd>sedie&tcaron; na  tr&oacute;ne</trd>,
     <trd>tr&oacute;ni&tcaron;</trd>,
     <trd>vl&aacute;dnu&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x446;&#x430;&#x440;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x430;&#x43D;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x431;&#x443;&#x442;&#x438; &#x43D;&#x430; &#x43F;&#x440;&#x435;&#x441;&#x442;&#x43E;&#x43B;&#x456;</trd>
   </trdgrp>
 </drv>
 
@@ -150,7 +169,7 @@
             la ideo de<tld/>igi Jesuon Kriston <klr>[...]</klr> neniam
             e&ccirc;
             por unu minuto venis en la kapon de iu homarano
-            <fnt><bib>Homaranismo</bib><lok></lok></fnt>.
+            <fnt><bib>Homaranismo</bib><lok/></fnt>.
           </ekz>
         </dif>
       </snc>
@@ -179,6 +198,7 @@
         <trd>detroniz&aacute;l</trd>,
         <trd>tr&oacute;nj&aacute;t&oacute;l megfoszt</trd>
       </trdgrp>
+  <trd lng="ja">&#x9000;&#x4F4D;&#x3055;&#x305B;&#x308B;  [<ind>&#x305F;&#x3044;&#x3044;&#x3055;&#x305B;&#x308B;</ind>]</trd>
   <trdgrp lng="nl">
         <trd>onttronen</trd>,
         <trd>van de <ind>troon</ind> stoten</trd>
@@ -187,11 +207,14 @@
         <trd>zrzuca&cacute; z <ind>tronu</ind></trd>,
         <trd>pozbawia&cacute; <ind>tronu</ind></trd>
       </trdgrp>
-  <trd
-      lng="ru">&c_s;&c_v;&c_je;&c_r;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_s;&c_v;&c_je;&c_r;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>zosadi&tcaron;</trd>,
     <trd>zvrhn&uacute;&tcaron; z tr&oacute;nu</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x43A;&#x438;&#x43D;&#x443;&#x442;&#x438; &#x437; &#x43F;&#x440;&#x435;&#x441;&#x442;&#x43E;&#x43B;&#x443;</trd>,
+    <trd>&#x43F;&#x43E;&#x432;&#x430;&#x43B;&#x438;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 
@@ -229,6 +252,7 @@
         <trd>mettre sur le tr&ocirc;ne</trd>
       </trdgrp>
   <trd lng="hu">tr&oacute;nra emel</trd>
+  <trd lng="ja">&#x5373;&#x4F4D;&#x3055;&#x305B;&#x308B;  [<ind>&#x305D;&#x304F;&#x3044;&#x3055;&#x305B;&#x308B;</ind>]</trd>
   <trd lng="nl">op de <ind>troon</ind> zetten</trd>
   <trdgrp lng="pl">
         <trd>osadza&cacute; na <ind>tronie</ind></trd>,
@@ -238,6 +262,10 @@
   <trd lng="ru">&c_v;&c_o;&c_z;&c_v;&c_je;&c_s;&c_t;&c_i; &c_n;&c_a;
       &c_p;&c_r;&c_je;&c_s;&c_t;&c_o;&c_l;</trd>
   <trd lng="sk">nastoli&tcaron; <klr>(na tr&oacute;n)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>(&#x43F;&#x43E;)&#x441;&#x430;&#x434;&#x438;&#x442;&#x438; &#x43D;&#x430; &#x43F;&#x440;&#x435;&#x441;&#x442;&#x43E;&#x43B;/&#x442;&#x440;&#x43E;&#x43D;</trd>,
+    <trd>&#x456;&#x43D;&#x442;&#x440;&#x43E;&#x43D;&#x456;&#x437;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
   </art>
   <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kand.xml,v 1.12 2010/10/30 16:30:38 revo Exp $">
+<art mrk="$Id: kand.xml,v 1.20 2023/08/31 19:24:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kand</rad>/o
@@ -12,13 +11,24 @@
   <snc mrk="kand.0o.KUI">
     <uzo tip="fak">KUI</uzo>
     <dif>
-      Purigita, kristaligita kaj preska&ubreve; diafana sukero:
+      Purigita, kristaligita kaj preska&ubreve; diafana 
+      <ref tip="super" cel="suker.0o">sukero</ref>:
+      <ekz>
+        <klr>[la]</klr> &ccirc;ambristino <klr>[&#x2026;]</klr> regalis Iva&ccirc;jon per <tld/>oj kaj
+        simple por amuzo instruis lin legi
+        <fnt>
+          <lok><url ref="&Tekstaro;?nomo=ondo-de-esperanto">&Tekstaro;?nomo=ondo-de-esperanto</url></lok>
+        </fnt>;
+      </ekz>
       <ekz>
         &scirc;in profunde okupis negoco pri <tld/>aj bestetoj
         <fnt><aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>, <vrk>Cent 
         Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>.
       </ekz>  
     </dif>
+    <refgrp tip="vid">
+      <ref cel="karame.0o">karamelo</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_d;&c_z;&c_ja;&c_sh;</trd>
   <trdgrp lng="cs">
@@ -46,6 +56,7 @@
      <trd>kandiscukor</trd>,
      <trd>jegescukor</trd>
   </trdgrp>
+  <trd lng="ja">&#x6C37;&#x7802;&#x7CD6;  [<ind>&#x3053;&#x304A;&#x308A;&#x3056;&#x3068;&#x3046;</ind>]</trd>
   <trd lng="nl">kandij</trd>
   <trdgrp lng="pl">
     <trd>cukier lodowaty</trd>,
@@ -54,10 +65,17 @@
   <trd lng="ro">bomboane</trd>
   <trd lng="ru">&c_l;&c_je;&c_d;&c_je;&c_n;&c_je;&c_c;</trd>
   <trd lng="sk">kandys</trd>
+  <trd lng="uk">&#x43B;&#x44C;&#x43E;&#x434;&#x44F;&#x43D;&#x438;&#x43A;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
+
+versio 1.17 2021/01/27 17:19:10
+Wolfram Diestel: +ekz
+
 Revision 1.15  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -74,8 +92,5 @@ Revision 1.11  2007/04/10 16:30:23  revo
 Jeromo Vasxe: + ekz
 
 Revision 1.10  2004/10/31 17:33:24  revo
-Marc Bavant: +trd fr, +uzo KUI
-
-Revision 1.9  2002/10/16 16:32:15  revo
 -->
 </vortaro>

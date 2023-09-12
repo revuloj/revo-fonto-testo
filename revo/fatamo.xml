@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fatamo.xml,v 1.12 2010/08/03 16:31:27 revo Exp $">
+<art mrk="$Id: fatamo.xml,v 1.17 2023/08/31 13:11:27 revo Exp $">
 <kap>
   <rad>fatamorgan</rad>/o <fnt><bib>Fab4</bib></fnt> 
 </kap>
@@ -46,6 +45,7 @@
   <trd lng="en">Fata Morgana</trd>
   <trd lng="fr">mirage</trd>
   <trd lng="hu">d&eacute;lib&aacute;b</trd>
+  <trd lng="ja">&#x30E2;&#x30EB;&#x30AC;&#x30CA;&#x306E;&#x304A;&#x5316;&#x3051;  [<ind>&#x30E2;&#x30EB;&#x30AC;&#x30CA;&#x306E;&#x304A;&#x3070;&#x3051;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>fata morgana</trd>,
     <trd>luchtspiegeling</trd>
@@ -59,6 +59,11 @@
     <trd>mam</trd>,
     <trd>marivo</trd>,
     <trd>vidina</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x444;&#x430;&#x442;&#x430;-&#x43C;&#x43E;&#x440;&#x491;&#x430;&#x43D;&#x430;</trd>,
+    <trd>&#x43C;&#x456;&#x440;&#x430;&#x436;</trd>,
+    <trd>&#x43C;&#x430;&#x440;&#x435;&#x432;&#x43E;</trd>
   </trdgrp>
 </drv>
 </art>

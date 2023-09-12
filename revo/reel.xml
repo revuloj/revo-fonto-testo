@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: reel.xml,v 1.26 2020/02/16 00:10:47 revo Exp $">
+<art mrk="$Id: reel.xml,v 1.28 2023/09/11 10:26:22 revo Exp $">
 <kap>
   <rad>reel</rad>/o
 </kap>
@@ -16,7 +15,7 @@
       prezentebla per sumo de entjero kaj
       <ref cel="frakci.pozicia0o">pozicia frakcio</ref>:
       <ekz>
-        &ccirc;iu <ref tip="sub" cel="racion.0o">racionalo</ref> estas 
+        &ccirc;iu <ref tip="sub" cel="racion.0o">racionalo</ref> estas
         anka&ubreve; <tld/>o;
       </ekz>
       <ekz>
@@ -27,7 +26,7 @@
       <ekz>
         la nombro <frm am="pi">&pi;</frm> estas <tld/>o, prezentebla per la
         sumo de 3 kaj de senfina dekuma frakcio komenci&gcirc;anta per
-        <frm>0,14159...</frm> 
+        <frm>0,14159...</frm>
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -37,9 +36,9 @@
     </refgrp>
     <rim>
       Ankora&ubreve; troveblas <ctl>reala nombro</ctl> en
-      <fnt><bib>PIV1</bib></fnt>, sed <ctl><tld/>o</ctl> anstata&ubreve;is 
-      &gcirc;in. Eblas difini la <tld/>ojn pli rigore, kiel 
-      ekvivalento-klasojn de racionalaj 
+      <fnt><bib>PIV1</bib></fnt>, sed <ctl><tld/>o</ctl> anstata&ubreve;is
+      &gcirc;in. Eblas difini la <tld/>ojn pli rigore, kiel
+      ekvivalento-klasojn de racionalaj
       <ref cel="vic.kosxia0o">ko&scirc;iaj vicoj</ref> rilate
       konver&gcirc;on al nulo de ilia diferenco.
     </rim>
@@ -53,7 +52,7 @@
       <trd>r&eacute;el<klr tip="ind"> (nombre)</klr></trd>,
       <trd>nombre r&eacute;el</trd>
     </trdgrp>
-    <trd lng="hu">val&oacute;s <ind>sz&aacute;m</ind></trd>    
+    <trd lng="hu">val&oacute;s <ind>sz&aacute;m</ind></trd>
     <trd lng="nl">re&euml;el <ind>getal</ind></trd>
     <trd lng="pl">liczba rzeczywista</trd>
     <trdgrp lng="ru">
@@ -71,12 +70,14 @@
     </dif>
     <ref tip="super" cel="tip.datum0o">datumtipo</ref>
     <trd lng="be">&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_y; &c_l;&c_ib;&c_k;</trd>
+    <trd lng="en">real data type</trd>
     <trd lng="fr">r&eacute;el<klr tip="ind"> (subst., informatique)</klr></trd>
-    <trd lng="hu">val&oacute;s <ind>sz&aacute;m</ind></trd>    
+    <trd lng="hu">val&oacute;s <ind>sz&aacute;m</ind></trd>
     <trd lng="ru">&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
   </snc>
   <trd lng="cs">re&aacute;ln&eacute; &ccaron;&iacute;slo</trd>
   <trd lng="sk">re&aacute;lne &ccaron;&iacute;slo</trd>
+  <trd lng="uk">&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_je; &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
 </drv>
 
 <drv mrk="reel.0a">
@@ -128,10 +129,14 @@
     <trd>&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
-$Log: reel.xml,v $
+$Log$
+versio 1.28 2023/09/11 10:26:22
+David Dichelle: +trd en (2)
+
 versio 1.26 2020/02/16 00:10:47
 Wolfram Diestel: formuloj per am
 
@@ -151,8 +156,5 @@ Revision 1.21  2003/03/23 17:33:46  revo
 Marc Bavant: ~a: kor trd de
 
 Revision 1..20  2003/01/02 17:50:32  revo
-Marc Bavant: +ref internaj
-Revision 1.19  2002/11/30 17:37:51  revo
-Marc Bavant: +frm, +trd pl
 -->
 </vortaro>

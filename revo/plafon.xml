@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: plafon.xml,v 1.23 2023/09/03 12:45:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>plafon</rad>/o
@@ -34,9 +33,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="bo">&#xF50;&#xF7C;&#xF42;&#xF0B;&#xF54;&#xF44;&#xF0B;</trd>
   <trd lng="ca">sostre</trd>
   <trdgrp lng="cs">
-    <trd>nejvyšší dosažitelná výška</trd>,
+    <trd>nejvy&scaron;&scaron;&#xED; dosa&#x17E;iteln&#xE1; v&#xFD;&scaron;ka</trd>,
     <trd>strop</trd>
   </trdgrp>
   <trd lng="de">Decke</trd>
@@ -49,15 +49,31 @@
     <trd>mennyezet</trd>,
     <trd>plafon</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5929;&#x4E95;  [<ind>&#x3066;&#x3093;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x96F2;&#x9AD8;  [<ind>&#x3046;&#x3093;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x4E0A;&#x6607;&#x9650;&#x5EA6;  [<ind>&#x3058;&#x3087;&#x3046;&#x3057;&#x3087;&#x3046;&#x3052;&#x3093;&#x3069;</ind>]</trd>,
+    <trd>&#x6700;&#x9AD8;&#x9650;&#x5EA6;  [<ind>&#x3055;&#x3044;&#x3053;&#x3046;&#x3052;&#x3093;&#x3069;</ind>]</trd>,
+    <trd>&#x4E0A;&#x9650;  [<ind>&#x3058;&#x3087;&#x3046;&#x3052;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">plafond</trd>
+  <trdgrp lng="pl">
+    <trd>sufit</trd>,
+    <trd>strop  <klr>(budownictwo)</klr></trd>
+  </trdgrp>
   <trd lng="pt">teto</trd>
+  <trd lng="ro">tavan</trd>
   <trd lng="ru">&c_p;&c_o;&c_t;&c_o;&c_l;&c_o;&c_k;</trd>
-  <trd lng="sk">najvyššia dosiahnuteľná výška</trd>
+  <trd lng="sk">najvy&scaron;&scaron;ia dosiahnute&#x13E;n&#xE1; v&#xFD;&scaron;ka</trd>
   <trd lng="sv"><klr>(inner)</klr>tak</trd>
+  <trd lng="uk">&c_s;&c_t;&c_je;&#x43B;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2022/03/30 22:30:45
+Vito Redsky: + trd pl + trd ro 
+
 Revision 1.18  2015/06/29 16:40:18  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -77,11 +93,5 @@ Revision 1.13 2003/07/17 16:35:49 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.12 2002/12/11 17:32:44 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11 2002/08/04 17:32:50 revo
-jxeromo vasxe: + ekz, + trd fr
-
-Revision 1.10 2001/12/19 17:32:58 revo
 -->
 </vortaro>

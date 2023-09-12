@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: album.xml,v 1.20 2010/05/28 16:30:28 revo Exp $">
+<art mrk="$Id: album.xml,v 1.28 2023/08/30 18:23:32 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>album</rad>/o
@@ -52,8 +51,7 @@
           subgrundaj grupoj el USSR&rightquot;
           <fnt>
             <aut>M. Golikova, trad. G. Arosev</aut>,
-            <vrk><url
-            ref="http://www.aquarium-web.com/eo/news/index.htm">
+            <vrk><url ref="http://www.aquarium-web.com/eo/news/index.htm">
             Aquarium on the web</url>, historio</vrk>,
             <lok>2005</lok>
           </fnt>;
@@ -63,13 +61,13 @@
         direktadon de <tld/>oj de pluraj artistoj
         <fnt>
           <aut>F. Fonseca</aut>,
-          <vrk><url
-          ref="http://www.musicexpress.com.br/artisto.asp?artista=42">
+          <vrk><url ref="http://www.musicexpress.com.br/artisto.asp?artista=42">
           Eug&ecirc;nio Matos</url></vrk>,
           <lok>MusicExpress, [vidita en 2007-03]</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_a;&c_l;&c_mol;&c_b;&c_o;&c_m;</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>album</trd>,
@@ -77,15 +75,26 @@
     <trd>pam&aacute;tn&iacute;k <klr>(kniha)</klr></trd>
   </trdgrp>
   <trd lng="fr">album</trd>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5DC;&#x5D1;&#x5BC;&#x5D5;&#x5B9;&#x5DD;</trd>
   <trd lng="it">album</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30A2;&#x30EB;&#x30D0;&#x30E0;  [<ind>&#x3042;&#x308B;&#x3070;&#x3080;</ind>]</trd>,
+    <trd>&#x5199;&#x751F;&#x5E33;  [<ind>&#x3057;&#x3083;&#x305B;&#x3044;&#x3061;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x30B5;&#x30A4;&#x30F3;&#x5E33;  [<ind>&#x3055;&#x3044;&#x3093;&#x3061;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x66F2;&#x96C6;  [<ind>&#x304D;&#x3087;&#x304F;&#x3057;&#x3085;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>album, pam&auml;tn&iacute;k</trd>,
     <trd>pam&auml;tn&iacute;k</trd>
   </trdgrp>
+  <trd lng="uk">&#x430;&#x43B;&#x44C;&#x431;&#x43E;&#x43C;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2021/11/03 07:28:55
+Dmitri Gabinski: + trd be
+
 Revision 1.23  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 

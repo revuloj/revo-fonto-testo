@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: elizi.xml,v 1.14 2010/07/07 16:30:24 revo Exp $">
+<art mrk="$Id: elizi.xml,v 1.20 2023/08/31 11:49:28 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>elizi</rad>/o
@@ -18,6 +17,7 @@
         <tld/>o estas stilefekto;
       </ekz>
     </dif>
+    <trd lng="be">&c_e;&c_l;&c_ib;&c_z;&c_ib;&c_ja;</trd>
     <trdgrp lng="de">
       <trd>Elision</trd>,
       <trd>Auslassung</trd>,
@@ -37,9 +37,14 @@
     <trd>elize</trd>,
     <trd>vypou&scaron;t&ecaron;n&iacute; hl&aacute;sek</trd>
   </trdgrp>
+  <trd lng="ja">&#x6BCD;&#x97F3;&#x7701;&#x7565;  [<ind>&#x307C;&#x3044;&#x3093;&#x3057;&#x3087;&#x3046;&#x308A;&#x3083;&#x304F;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>el&iacute;zia</trd>,
     <trd>vypustenie koncovky</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43F;&c_u;&c_shch;&c_je;&#x43D;&#x43D;&#x44F; &c_g;&#x43E;&#x43B;&#x43E;&c_s;&#x43D;&#x43E;&c_g;&#x43E;</trd>,
+    <trd>&c_je;&#x43B;&c_ib;&c_z;&c_ib;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -56,6 +61,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_k;&c_a;&c_n;&c_c;&c_a;&c_v;&c_y; &c_g;&c_a;&c_l;&c_o;&c_s;&c_n;&c_y;)</klr></trd>
   <trd lng="cs">elidovat</trd>
   <trdgrp lng="de">
     <trd>elidieren</trd>,
@@ -69,6 +75,7 @@
     <trd>hangkies&eacute;s</trd>,
     <trd>hangkivet&eacute;s</trd>
   </trdgrp>
+  <trd lng="ja">&#x6BCD;&#x97F3;&#x3092;&#x7701;&#x7565;&#x3059;&#x308B;  [<ind>&#x307C;&#x3044;&#x3093;&#x3092;&#x3057;&#x3087;&#x3046;&#x308A;&#x3083;&#x304F;&#x3059;&#x308B;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>afkappen</trd>,
     <trd>weglaten</trd>
@@ -81,8 +88,7 @@
     <trd>elidir</trd>,
     <trd>fazer <ind>elis&atilde;o</ind></trd>
   </trdgrp>
-  <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;<klr
-  tip="amb"> (&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;
+  <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;
   &c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;)</klr></trd>
   <trdgrp lng="sk">
     <trd>elidova&tcaron;</trd>,
@@ -93,6 +99,9 @@
 </art>
 <!--
 $Log$
+versio 1.19 2023/08/09 07:24:54
+Dmitri Gabinski: + trd be
+
 Revision 1.16  2015/07/04 08:37:33  revo
 aldono de trd cs per skripto de M. von Laer
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: telesk.xml,v 1.26 2023/09/04 18:15:45 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>teleskop</rad>/o
@@ -21,18 +20,16 @@
         tiam la plej granda <tld/>o en la mondo
         <fnt>
         <aut>Irl</aut>,
-        <vrk>Astronomia festivalo</vrk>,
+        <vrk><url ref="&Monato;/2001/006357.html">Astronomia festivalo</url></vrk>,
         <bib>Monato</bib>,
-        <lok>jaro 1999a, numero 3a, p. 24a</lok>
+        <lok>1999/03, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>&ccirc;e Clarke staras anka&ubreve; <tld/>o, por rigardi la lunon
         <fnt>
-          <aut>Anne Tilmont</aut>
-          <vrk>Arthur C. Clarke, kosmopolita civitano kun okulo al la
-          universo</vrk>
-          <bib>Monato</bib>
-          <lok>jaro 1998a, numero 4a, p. 9a</lok>
+        <aut>Anne Tilmont</aut> <vrk><url ref="&Monato;/1998/005932.php">Kosmopolita civitano kun okulo al la universo</url></vrk>
+        <bib>Monato</bib>
+        <lok>1998/04, p. 9</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -64,6 +61,7 @@
   <trdgrp lng="pt">
     <trd>telesc&oacute;pio</trd>
   </trdgrp>
+  <trd lng="ro">telescop</trd>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_s;&c_k;&c_o;&c_p;</trd>
   <trdgrp lng="sk">
     <trd>teleskop</trd>,
@@ -85,13 +83,19 @@
   <snc mrk="telesk.T0o.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      Sud-hemisfera <ref tip="lst" cel="stel.0figuro"
-      lst="voko:stelfiguroj">stelfiguro</ref>
+      Sud-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
       (<trd lng="la">Telescopium</trd>).
     </dif>
   </snc>
   <trd lng="en">Telescopium</trd>
   <trd lng="fr">T&eacute;lescope<klr tip="ind"> (constellation)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x671B;&#x9060;&#x93E1;  [<ind>&#x307C;&#x3046;&#x3048;&#x3093;&#x304D;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5929;&#x4F53;&#x671B;&#x9060;&#x93E1;  [<ind>&#x3066;&#x3093;&#x305F;&#x3044;&#x307C;&#x3046;&#x3048;&#x3093;&#x304D;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">Luneta  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Telescopul  <klr>(constela&#x21B;ie)</klr></trd>
+  <trd lng="uk">&c_t;&c_je;&#x43B;&c_je;&c_s;&#x43A;&#x43E;&#x43F;</trd>
 </drv>
 
 <drv mrk="telesk.radi0o">
@@ -105,8 +109,7 @@
         sur la tero, kaj observis kvazaron
         <fnt>
         <aut>Vastalto</aut>,
-        <vrk><url
-        ref="http://www.vastalto.com/blog/">Akvosfero</url></vrk>,
+        <vrk><url ref="http://www.vastalto.com/blog/">Akvosfero</url></vrk>,
         <lok>Havaja insularo najbaros al Japana insularo, 2006-01-10
         </lok>
         </fnt>.
@@ -117,15 +120,24 @@
   <trd lng="de">Radioteleskop</trd>
   <trd lng="en">radio telescope</trd>
   <trd lng="fr">radiot&eacute;l&eacute;scope</trd>
+  <trd lng="ja">&#x96FB;&#x6CE2;&#x671B;&#x9060;&#x93E1;  [<ind>&#x3067;&#x3093;&#x3071;&#x307C;&#x3046;&#x3048;&#x3093;&#x304D;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="pl">radioteleskop</trd>
   <trdgrp lng="pt">
     <trd>radiotelesc&oacute;pio</trd>
   </trdgrp>
+  <trd lng="ro">radiotelescop</trd>
   <trd lng="sv">radioteleskop</trd>
+  <trd lng="uk">&c_r;&c_a;&c_d;&c_ib;&#x43E;&c_t;&c_je;&#x43B;&c_je;&c_s;&#x43A;&#x43E;&#x43F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/05/16 09:25:50
+Paul Peeraerts: + url
+
+versio 1.24 2022/10/15 22:36:40
+Vito Redsky: +trd pl + trd ro
+
 Revision 1.20  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -142,8 +154,5 @@ Revision 1.16  2008/12/07 07:18:20  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.15  2008/10/30 19:25:20  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.14  2006/02/15 17:32:31  revo
 -->
 </vortaro>

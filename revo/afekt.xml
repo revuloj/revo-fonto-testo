@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: afekt.xml,v 1.25 2010/08/27 16:30:26 revo Exp $">
+  <art mrk="$Id: afekt.xml,v 1.35 2023/08/30 18:23:31 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>afekt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -107,15 +106,21 @@
         <trd>ober (an) <ind>neuz</ind> (da)</trd>,
         <trd>stumma&ntilde;<klr tip="ind"> (un dremm)</klr></trd>
       </trdgrp>
-  <trd lng="cs">tvářit se</trd>
+  <trd lng="cs">tv&#xE1;&#x159;it se</trd>
   <trdgrp lng="en"><trd>feign</trd>, <trd>pretend</trd></trdgrp>
   <trd lng="es">afectar</trd>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5E9;&#x5E4;&#x5D9;&#x5E2;</trd>
   <trdgrp lng="it">
         <trd>affettare</trd>,
         <trd>far mostra di</trd>,
         <trd>atteggiare</trd>,
         <trd>ostentare</trd>
       </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#x53D6;&#x308B;  [<ind>&#x3051;&#x3069;&#x308B;</ind>]</trd>,
+    <trd>&#x898B;&#x305B;&#x304B;&#x3051;&#x308B;  [<ind>&#x307F;&#x305B;&#x304B;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x3075;&#x308A;&#x3092;&#x3059;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">z. <ind>aanstellen</ind></trd>
   <trdgrp lng="pt">
         <trd>afetar</trd>,
@@ -129,8 +134,19 @@
       </trdgrp>
   <trdgrp lng="sk">
     <trd>afektova&tcaron;</trd>,
-    <trd>neprirodzene sa správať</trd>,
+    <trd>neprirodzene sa spr&#xE1;va&#x165;</trd>,
     <trd>strojene</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x438;&#x43A;&#x438;&#x434;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x443;&#x434;&#x430;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x43A;&#x430;&#x437;&#x443;&#x432;&#x430;&#x442;&#x438; &#x437; &#x441;&#x435;&#x431;&#x435;</trd>,
+    <trd>&#x43D;&#x430;&#x43F;&#x443;&#x441;&#x43A;&#x430;&#x442;&#x438; (&#x43D;&#x430; &#x441;&#x435;&#x431;&#x435;)</trd>,
+    <trd>&#x441;&#x442;&#x430;&#x432;&#x430;&#x442;&#x438; &#x432; &#x43F;&#x43E;&#x437;&#x443;</trd>,
+    <trd>&#x43B;&#x430;&#x43C;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x440;&#x438;&#x441;&#x443;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x445;&#x438;&#x437;&#x443;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x43C;&#x430;&#x43D;&#x456;&#x440;&#x438;&#x442;&#x438;&#x441;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -146,8 +162,7 @@
             <fnt>
               <aut>A. Pu&scirc;kin, trad. V. Melnikov</aut>
               <vrk>E&ubreve;geno Onegin</vrk>
-              <lok><url
-              ref="http://esperanto.org/Ondo/Rn-pusk3.htm">LOdE
+              <lok><url ref="&LOdE;Rn-pusk3.htm">LOdE
                   2003:6</url></lok>
             </fnt>.
           </ekz>
@@ -158,8 +173,7 @@
             sentigas nenian <tld/>on
             <fnt>
               <vrk>Granda literatoro de la dinastio Song</vrk>
-              <lok><url
-                  ref="http://es1.chinabroadcast.cn/1/2004/12/14/1@18423.htm">&Ccirc;ina
+              <lok><url ref="http://es1.chinabroadcast.cn/1/2004/12/14/1@18423.htm">&Ccirc;ina
                   Radio Internacia</url></lok>
             </fnt>;
           </ekz>
@@ -170,8 +184,7 @@
             <fnt>
               <aut>trad. V. Lutermano</aut>
               <vrk>Le Monde Diplomatique en Esperanto</vrk>
-              <lok><url
-                  ref="http://eo.mondediplo.com/article939.html">2004-10</url></lok>
+              <lok><url ref="&Mondediplo;article939.html">2004-10</url></lok>
             </fnt>.
           </ekz>
         </subsnc>
@@ -199,6 +212,7 @@
         <trd>minauderie</trd>
         <trd>pr&eacute;ciosit&eacute;</trd>,
       </trdgrp>
+  <trd lng="he">&#x5D4;&#x5E9;&#x5E4;&#x5E2;&#x5D4;</trd>
   <trdgrp lng="it">
         <trd>affettazione<klr> (atteggiamento)</klr></trd>,
         <trd>ostentazione<klr> (atteggiarsi a)</klr></trd>
@@ -210,7 +224,7 @@
       </trdgrp>
   <trdgrp lng="sk">
     <trd>afekt</trd>,
-    <trd>strojenosť</trd>
+    <trd>strojenos&#x165;</trd>
   </trdgrp>
 </drv>
 
@@ -224,8 +238,7 @@
             <fnt>
               <aut>J. Camacho</aut>
               <vrk>Soluloj kaj putinoj</vrk>
-              <lok><url
-                  ref="http://esperanto.net/literaturo/novel/paneobskur.html">Originala
+              <lok><url ref="http://esperanto.net/literaturo/novel/paneobskur.html">Originala
                   literaturo Esperanta</url></lok>
             </fnt>;
           </ekz>
@@ -235,8 +248,7 @@
             <fnt>
               <aut>R. Platteau</aut>
               <vrk>Ri&ccirc;iga, agrabla, nepre leginda libro</vrk>
-              <lok><url
-              ref="http://esperanto.org/Ondo/R-steel2.htm">LOdE
+              <lok><url ref="&LOdE;R-steel2.htm">LOdE
                   2003:11</url></lok>
             </fnt>;
           </ekz>
@@ -292,9 +304,7 @@
             abomeninda
             <fnt>
               <vrk>Granda konanto</vrk>
-              <lok><url
-              ref="http://es1.chinabroadcast.cn/1/2004/08/14/1@13721.htm"
-                  >&Ccirc;ina Radio Internacia</url></lok>
+              <lok><url ref="http://es1.chinabroadcast.cn/1/2004/08/14/1@13721.htm">&Ccirc;ina Radio Internacia</url></lok>
             </fnt>;
           </ekz>
           <ekz>
@@ -303,8 +313,7 @@
             <fnt>
               <aut>V. Rybakov, trad. J. Finkel</aut>
               <vrk>Gravitavio &leftquot;Carido&rightquot;</vrk>
-              <lok><url ref="http://lib.ru/RYBAKOW/graviletesp.txt"
-                  >http://lib.ru/RYBAKOW/graviletesp.txt</url></lok>
+              <lok><url ref="http://lib.ru/RYBAKOW/graviletesp.txt">http://lib.ru/RYBAKOW/graviletesp.txt</url></lok>
             </fnt>;
           </ekz>
           <ekz>
@@ -334,8 +343,7 @@
             <fnt>
               <aut>M. Lermontov, trad. N. Danovskij</aut>
               <vrk>Princidino Mary</vrk>
-              <lok><url
-              ref="http://www.sezonoj.itgo.com/Mary-01.htm">Rusa
+              <lok><url ref="http://www.sezonoj.itgo.com/Mary-01.htm">Rusa
                   literaturo en Esperanto</url></lok>
             </fnt>;
           </ekz>
@@ -364,14 +372,19 @@
       </trdgrp>
       </snc>
   <trdgrp lng="cs">
-    <trd>afektovaný</trd>,
-    <trd>afektový</trd>,
-    <trd>nepřirozený</trd>,
-    <trd>strojený chováním</trd>
+    <trd>afektovan&#xFD;</trd>,
+    <trd>afektov&#xFD;</trd>,
+    <trd>nep&#x159;irozen&#xFD;</trd>,
+    <trd>strojen&#xFD; chov&#xE1;n&#xED;m</trd>
+  </trdgrp>
+  <trd lng="he">&#x5DE;&#x5D5;&#x5E9;&#x5E4;&#x5E2;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#x53D6;&#x3063;&#x305F;  [<ind>&#x304D;&#x3069;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x898B;&#x305B;&#x304B;&#x3051;&#x306E;  [<ind>&#x307F;&#x305B;&#x304B;&#x3051;&#x306E;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>predstieraný</trd>,
-    <trd>strojený</trd>
+    <trd>predstieran&#xFD;</trd>,
+    <trd>strojen&#xFD;</trd>
   </trdgrp>
 </drv>
 
@@ -395,9 +408,7 @@
             <klr>[vidante la malordemon de mia kunlo&gcirc;anto]</klr>
             mi ekhavigis al mi virtajn <tld/>a&jcirc;ojn
             <fnt><aut>A. Conan Doyle, trad. D. Booton</aut>
-              <vrk><url
-              ref="http://members.tripod.com/~booton/musgravo/musgravo.html"
-                  >La musgrava rito</url></vrk>
+              <vrk><url ref="http://members.tripod.com/~booton/musgravo/musgravo.html">La musgrava rito</url></vrk>
             </fnt>.
           </ekz>
         </dif>
@@ -417,7 +428,11 @@
         <trd>smanceria</trd>,
         <trd>leziosaggine</trd>
       </trdgrp>
-      <trdgrp lng="ru">
+      <trdgrp lng="ja">
+    <trd>&#x6C17;&#x53D6;&#x3063;&#x305F;&#x614B;&#x5EA6;  [<ind>&#x304D;&#x3069;&#x3063;&#x305F;&#x305F;&#x3044;&#x3069;</ind>]</trd>,
+    <trd>&#x4F53;&#x88C1;  [<ind>&#x3066;&#x3044;&#x3055;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
         <trd>&c_zh;&c_je;&c_m;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>,
         <trd>&c_r;&c_i;&c_s;&c_o;&c_v;&c_k;&c_a;</trd>,
         <trd>&c_p;&c_o;&c_z;&c_a;</trd>
@@ -438,8 +453,8 @@
         <ref tip="vid" cel="afekt.0a.0anta"><tld/>a<sncref/></ref>
       </snc>
   <trdgrp lng="cs">
-    <trd>afektovaný člověk</trd>,
-    <trd>člověk strojeného chování</trd>
+    <trd>afektovan&#xFD; &#x10D;lov&#x11B;k</trd>,
+    <trd>&#x10D;lov&#x11B;k strojen&#xE9;ho chov&#xE1;n&#xED;</trd>
   </trdgrp>
   <trdgrp lng="en"><trd>affected</trd>, <trd>artificial</trd>,
         <trd>assumed</trd></trdgrp>
@@ -466,7 +481,7 @@
         <trd>&c_zh;&c_je;&c_m;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
         <trd>&c_n;&c_je;&c_je;&c_s;&c_t;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
       </trdgrp>
-  <trd lng="sk">afektovaný človek</trd>
+  <trd lng="sk">afektovan&#xFD; &#x10D;lovek</trd>
 </drv>
 
     <drv mrk="afekt.0ulo">
@@ -497,7 +512,7 @@
           </ekz>
         </dif>
       </snc>
-  <trd lng="cs">afektovaná žena</trd>
+  <trd lng="cs">afektovan&#xE1; &#x17E;ena</trd>
   <trd lng="en">poseur</trd>
   <trdgrp lng="fr">
         <trd>personne <ind>affect&eacute;</ind>e</trd>,
@@ -511,8 +526,17 @@
         <trd>smorfioso</trd>,
         <trd>abatino<klr> (fig.)</klr></trd>
       </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#x53D6;&#x308A;&#x5C4B;  [<ind>&#x304D;&#x3069;&#x308A;&#x3084;</ind>]</trd>,
+    <trd>&#x3082;&#x3063;&#x305F;&#x3044;&#x3076;&#x308B;&#x4EBA;  [<ind>&#x3082;&#x3063;&#x305F;&#x3044;&#x3076;&#x308B;&#x3058;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_z;&c_jo;&c_r;</trd>
-  <trd lng="sk">afektovaná žena</trd>
+  <trd lng="sk">afektovan&#xE1; &#x17E;ena</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x438;&#x442;&#x432;&#x43E;&#x440;&#x430;</trd>,
+    <trd>&#x43B;&#x43E;&#x43C;&#x430;&#x43A;&#x430;</trd>,
+    <trd>&#x43F;&#x43E;&#x437;&#x435;&#x440;</trd>
+  </trdgrp>
 </drv>
 
     <drv mrk="afekt.sen0a">
@@ -526,8 +550,7 @@
             <fnt>
               <aut>Pang Bian</aut>
               <vrk>Homo amema kun koro &ccirc;iam juna</vrk>
-              <lok><url
- ref="http://esperanto.china.org.cn/EL/EL/ElPopolaCxinio/9910/bd99-10-3.html">El
+              <lok><url ref="http://esperanto.china.org.cn/EL/EL/ElPopolaCxinio/9910/bd99-10-3.html">El
                   Popola &Ccirc;inio</url></lok>
             </fnt>;
           </ekz>
@@ -539,8 +562,8 @@
         </dif>
       </snc>
   <trdgrp lng="cs">
-    <trd>bez předstírání</trd>,
-    <trd>nenucený</trd>
+    <trd>bez p&#x159;edst&#xED;r&#xE1;n&#xED;</trd>,
+    <trd>nenucen&#xFD;</trd>
   </trdgrp>
   <trdgrp lng="en"><trd>unaffected</trd>, <trd>simple</trd></trdgrp>
   <trdgrp lng="fr">
@@ -557,19 +580,43 @@
         <trd>disinvolto</trd>,
         <trd>semplice<klr> (atteggiamento)</klr></trd>
       </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#x53D6;&#x3089;&#x306A;&#x3044;  [<ind>&#x304D;&#x3069;&#x3089;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x7387;&#x76F4;&#x306A;  [<ind>&#x305D;&#x3063;&#x3061;&#x3087;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x3042;&#x308A;&#x306E;&#x307E;&#x307E;&#x306E;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
         <trd>&c_b;&c_je;&c_z;&c_y;&c_s;&c_k;&c_u;&c_s;&c_n;&c_y;&c_j;</trd>,
         <trd>&c_je;&c_s;&c_t;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
         <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_j;</trd>
       </trdgrp>
   <trdgrp lng="sk">
-    <trd>nenútený</trd>,
-    <trd>prirodzený</trd>
+    <trd>nen&#xFA;ten&#xFD;</trd>,
+    <trd>prirodzen&#xFD;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x438;&#x439; (&#x443; &#x43F;&#x43E;&#x432;&#x43E;&#x434;&#x436;&#x435;&#x43D;&#x43D;&#x456;)</trd>,
+    <trd>&#x43F;&#x440;&#x438;&#x440;&#x43E;&#x434;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x43E;&#x437;&#x431;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x439; &#x43C;&#x430;&#x43D;&#x456;&#x440;&#x43D;&#x43E;&#x441;&#x442;&#x456;</trd>,
+    <trd>&#x43D;&#x435;&#x432;&#x438;&#x43C;&#x443;&#x448;&#x435;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x435;&#x443;&#x434;&#x430;&#x432;&#x430;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
   </art>
   <!--
   $Log$
+versio 1.34 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.33 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+  Revision 1.29  2020/03/14 10:59:08  revo
+  adaptis URL de Ondo
+
+  Revision 1.28  2015/07/04 08:37:29  revo
+  aldono de trd cs per skripto de M. von Laer
+
   Revision 1.27  2015/06/28 12:03:35  revo
   aldono de trd sk per skripto de M. von Laer
 
@@ -580,34 +627,5 @@
   Jeromo Vasxe: - kramp
 
   Revision 1.24  2010/01/22 17:30:25  revo
-  Sergio Pokrovskij: -tajperaro
-
-  Revision 1.23  2010/01/21 17:30:42  revo
-  Sergio Pokrovskij: +trd=ru
-
-  Revision 1.22  2006/09/26 16:30:20  revo
-  Russ Williams: +trd en kaj plibonigas misgvidantan en-tradukon de
-  "afekti"
-
-  Revision 1.21  2005/08/29 16:31:11  revo
-  Marc Bavant: kor fnt url
-
-  Revision 1.20  2005/08/26 16:32:45  revo
-  Marc Bavant: interpunkcio, denove
-
-  Revision 1.19  2005/08/17 16:31:08  revo
-  Marc Bavant: ~i: kor interpunkcion, +sncref; ~o: kor ekz; ~ema: +ref
-  al ~a; ~o: mod rim, +ekz, splitis en du subsnc
-  Revision 1.18 2005/08/15 16:32:15 revo
-  Marc Bavant: +trd fr; ~i: reverkis; +drv ~a, ~o, ~ajxo, ~ema, ~ulo,
-  sen~a
-  Revision 1.17 2005/06/17 17:20:03 revo
-  Alan ar Gall: kor trd br
-  Revision 1.16 2005/02/24 17:32:21 revo
-  Alan ar Gall: +trd br
-  Revision 1.15 2002/09/07 17:38:28 revo
-  Viliam Bur: +sk trd
-  Revision 1.14 2002/04/22 16:33:02 revo
-  Alejandro Mejia Greene: ald his trd
-  -->
+-->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: rang.xml,v 1.36 2020/02/16 00:10:46 revo Exp $">
+<art mrk="$Id: rang.xml,v 1.44 2023/09/04 18:29:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rang</rad>/o <fnt><bib>PV</bib></fnt>
@@ -107,12 +106,8 @@
           <trd>de premier <ind>ordre</ind></trd>
         </trdgrp>
       </ekz>
-      <trd lng="bg">&c_k;&c_l;&c_a;&c_s;&c_i;&c_r;&c_a;</trd>
-      <trdgrp lng="ru">
-        <trd>&c_s;&c_o;&c_r;&c_t;</trd>,
-        <trd>&c_k;&c_l;&c_a;&c_s;&c_s;</trd>
-      </trdgrp>
     </dif>
+    <trd lng="bg">&c_k;&c_l;&c_a;&c_s;&c_i;&c_r;&c_a;</trd>
     <trdgrp lng="es">
       <trd>grado<klr tip="ind"> (importancia)</klr></trd>
       <trd>clase<klr tip="ind"> (importancia)</klr></trd>
@@ -126,6 +121,10 @@
       <trd>ordre<klr tip="ind"> (importance)</klr></trd>
     </trdgrp>
     <trd lng="pl">ranga</trd>
+    <trdgrp lng="ru">
+        <trd>&c_s;&c_o;&c_r;&c_t;</trd>,
+        <trd>&c_k;&c_l;&c_a;&c_s;&c_s;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="rang.0o.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -141,12 +140,10 @@
       <fnt><bib>MatVort</bib></fnt>
       <dif>
         <klr>(de <ref cel="matric.n_p0o">(n,p)-matrico</ref>
-        <frm am="A">A</frm> super korpo <frm am="bb
-        K"><g>K</g></frm>)</klr>
+        <frm am="A">A</frm> super korpo <frm am="bb         K"><g>K</g></frm>)</klr>
         <ref cel="dimens.0o.vektoraspaco">Dimensio</ref> de la
-        vektora subspaco de <frm am="bb
-        K"><g>K</g><sup><k>n</k></sup></frm>,
-        kiun naskas &gcirc;iaj vertikaloj; simb. <frm am='"rang" A'>rang
+        vektora subspaco de <frm am="bb         K"><g>K</g><sup><k>n</k></sup></frm>,
+        kiun naskas &gcirc;iaj vertikaloj; simb. <frm am="&quot;rang&quot; A">rang
         A</frm>.
       </dif>
       <trd lng="pl">rz&aogonek;d<klr tip="ind"> (macierzy)</klr></trd>
@@ -185,18 +182,33 @@
     <trd>rang</trd>,
     <trd>rend <klr tip="ind">(rang)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F4D;  [<ind>&#12356;</ind>]</trd>,
+    <trd>&#x8EAB;&#20998;  [<ind>&#x307F;&#12406;&#12435;</ind>]</trd>,
+    <trd>&#x7B49;&#x7D1A;  [<ind>&#12392;&#12358;&#x304D;&#12421;&#12358;</ind>]</trd>,
+    <trd>&#x5E8F;&#21015;  [<ind>&#12376;&#12423;&#x308C;&#12388;</ind>]</trd>,
+    <trd>&#x968E;&#x7D1A;  [<ind>&#x304B;&#12356;&#x304D;&#12421;&#12358;</ind>]</trd>,
+    <trd>&#22320;&#x4F4D;  [<ind>&#12385;&#12356;</ind>]</trd>,
+    <trd>&#38918;&#x4F4D;  [<ind>&#12376;&#12421;&#12435;&#12356;</ind>]</trd>,
+    <trd>&#x91CD;&#35201;&#x5EA6;  [<ind>&#12376;&#12421;&#12358;&#12424;&#12358;&#12393;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">rang</trd>
   <trdgrp lng="pt">
     <trd>grau</trd>,
-    <trd>dignidade</trd>,    
-    <trd>classe</trd>,    
-    <trd>gradua&ccedil;&atilde;o</trd>,    
-    <trd>posto</trd>,        
+    <trd>dignidade</trd>,
+    <trd>classe</trd>,
+    <trd>gradua&ccedil;&atilde;o</trd>,
+    <trd>posto</trd>,
     <trd>camada</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>hodnos&tcaron;</trd>,
     <trd>&scaron;ar&zcaron;a</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_a;&#x43D;&c_gu;</trd>,
+    <trd>&c_ch;&c_i;&#x43D;</trd>,
+    <trd>&c_s;&c_t;&c_u;&#x43F;&c_ib;&#x43D;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -219,18 +231,25 @@
   <trd lng="es">tener el <ind>rango</ind> de</trd>
   <trd lng="fr">avoir le <ind>rang</ind> de</trd>
   <trd lng="hu">rangja van</trd>
+  <trd lng="ja">&#xFF5E;&#x306E;&#x4F4D;&#x306B;&#12354;&#x308B; 
+  [&#xFF5E;<ind>&#x306E;&#x304F;&#12425;&#12356;&#x306B;&#12354;&#x308B;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>mie&cacute; <ind>rang&eogonek;</ind></trd>,
     <trd>by&cacute; w <ind>randze</ind></trd>,
     <trd>by&cacute; w <ind>stopniu</ind></trd>
   </trdgrp>
   <trdgrp lng="ru">
-    <trd>&c_i;&c_m;&c_je;&c_t;&c_mol; 
+    <trd>&c_i;&c_m;&c_je;&c_t;&c_mol;
     <ind>&c_z;&c_v;&c_a;&c_n;&c_i;&c_je;</ind></trd>,
-    <trd>&c_i;&c_m;&c_je;&c_t;&c_mol; 
+    <trd>&c_i;&c_m;&c_je;&c_t;&c_mol;
     <ind>&c_r;&c_a;&c_n;&c_g;</ind></trd>
   </trdgrp>
   <trd lng="sk">ma&tcaron; hodnos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_v; &c_r;&c_a;&#x43D;&c_gu;&c_u;</trd>,
+    <trd>&c_z;&c_a;&c_j;&#x43C;&c_a;&c_t;&c_i; &#x43F;&#x43E;&c_s;&c_a;&c_d;&c_u;</trd>,
+    <trd>&#x43C;&c_a;&c_t;&c_i; &c_ch;&c_i;&#x43D;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rang.0ulo">
@@ -259,7 +278,7 @@
         <fnt>
         <aut>trad. V. Lutermano</aut>
         <vrk>Le Monde Diplomatique</vrk>
-        <lok><url ref="http://eo.mondediplo.com/article1018.html">
+        <lok><url ref="&Mondediplo;article1018.html">
         2005-08</url></lok>
         </fnt>.
       </ekz>
@@ -275,7 +294,20 @@
   <trd lng="cs">hodnost&aacute;&rcaron;</trd>
   <trd lng="es">suboficial<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="fr">grad&eacute;<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x58EB;&#x5B98;  [<ind>&#12375;&#x304B;&#12435;</ind>]</trd>,
+    <trd>&#x4E0A;&#x7D1A;&#32773;  [<ind>&#12376;&#12423;&#12358;&#x304D;&#12421;&#12358;&#12375;&#12419;</ind>]</trd>,
+    <trd>&#x5F79;&#x4ED8;  [<ind>&#12420;&#x304F;&#12389;&#12369;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dygnitarz</trd>,
+    <trd>dostojnik</trd>
+  </trdgrp>
   <trd lng="sk">hodnost&aacute;r</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_s;&c_a;&c_d;&#x43E;&c_v;&c_je;&c_c;&#x44C;</trd>,
+    <trd>&c_ch;&c_i;&#x43D;&#x43E;&c_v;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rang.antaux0i">
@@ -286,14 +318,13 @@
       Havi pli altan <tld/>on; havi pli fortan rajton,
       <ref tip="vid" cel="prioritat.0i.estiprioritata">prioritati</ref>:
       <ekz>
-        en la koro de la marksisma nocio de klasbatalo anta&ubreve;<tld/>as la 
-        ideo ke la &leftquot;paca&rightquot; socia vivo montras la venkon provizoran de 
+        en la koro de la marksisma nocio de klasbatalo anta&ubreve;<tld/>as la
+        ideo ke la &leftquot;paca&rightquot; socia vivo montras la venkon provizoran de
         la dominanta klaso
         <fnt>
           <aut>S. &Zcaron;i&zcaron;ek, trad. -</aut>,
-          <vrk><url
-          ref="http://eo.mondediplo.com/imprimer.php3?id_article=1664">
-          Por eliri el la naso</url></vrk>, 
+          <vrk><url ref="&Mondediplo;imprimer.php3?id_article=1664">
+          Por eliri el la naso</url></vrk>,
           <lok>le Monde diplomatique, 2010-11</lok>
         </fnt>.
       </ekz>
@@ -307,6 +338,7 @@
     <trd>avoir <ind>pr&eacute;s&eacute;ance</ind> sur</trd>,
     <trd>surpasser<klr> (en rang)</klr></trd>
   </trdgrp>
+  <trd lng="pl">by&cacute; wy&zdot;szym w <ind>randze</ind></trd>
 </drv>
 
 <drv mrk="rang.alt0a">
@@ -328,9 +360,14 @@
     <trd>&eacute;minent</trd>
   </trdgrp>
   <trd lng="hu">magas <ind>rang&uacute;</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8EAB;&#20998;&#x306E;&#x9AD8;&#12356;  [<ind>&#x307F;&#12406;&#12435;&#x306E;&#x305F;&#x304B;&#12356;</ind>]</trd>,
+    <trd>&#x9AD8;&#x4F4D;&#x306E;  [<ind>&#x305F;&#x304B;&#12356;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">wysoko postawiony</trd>
   <trd lng="ru">&c_v;&c_y;&c_s;&c_o;&c_k;&c_o;&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_l;&c_je; &c_n;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">vysokopostaven&yacute;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_s;&#x43E;&#x43A;&#x43E;&#x43F;&#x43E;&c_s;&c_t;&c_a;&c_v;&#x43B;&c_je;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="rang.alt0ulo">
@@ -359,6 +396,10 @@
     <trd>notable<klr tip="ind"> (pers.)</klr></trd>
   </trdgrp>
   <trd lng="hu">magas <ind>rang&uacute;</ind> ember</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9AD8;&#x5B98;  [<ind>&#12371;&#12358;&#x304B;&#12435;</ind>]</trd>,
+    <trd>&#x9AD8;&#x4F4D;&#32773;  [<ind>&#x305F;&#x304B;&#12356;&#12375;&#12419;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>dostojnik</trd>,
     <trd>dygnitarz</trd>,
@@ -371,6 +412,7 @@
     </trd>
   </trdgrp>
   <trd lng="sk">hodnost&aacute;r</trd>
+  <trd lng="uk">&c_v;&c_i;&c_s;&#x43E;&#x43A;&#x43E; &#x43F;&#x43E;&c_s;&c_a;&c_d;&#x43E;&c_v;&c_je;&c_c;&#x44C;</trd>
 </drv>
 
 <drv mrk="rang.dua0a">
@@ -380,7 +422,7 @@
       Malpli grava, kvaza&ubreve; estanta post unua rango de pli gravaj:
       <ekz>
         tio estas dua<tld/>a demando
-        <fnt><aut>S. Engholm</aut>, <vrk>Al Torento</vrk>, 
+        <fnt><aut>S. Engholm</aut>, <vrk>Al Torento</vrk>,
         <lok>1930</lok></fnt>.
       </ekz>
     </dif>
@@ -393,6 +435,7 @@
   </trdgrp>
   <trd lng="es">secundario<klr> (poca importancia)</klr></trd>
   <trd lng="fr">secondaire<klr> (peu important)</klr></trd>
+  <trd lng="ja">&#x4E8C;&#x7D1A;&#x306E;  [<ind>&#12405;&#x305F;&#x304D;&#12421;&#12358;&#x306E;</ind>]</trd>
   <trd lng="pl">drugorz&eogonek;dny</trd>
   <trdgrp lng="sk">
     <trd>druhorad&yacute;</trd>,
@@ -409,13 +452,14 @@
       <ekz>
         la plejmulto jam sidadis, la&ubreve;<tld/>e,
         sur feltotapi&scirc;oj
-        <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la Hunoj</vrk>, 
+        <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la Hunoj</vrk>,
         <lok>2011</lok></fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="es">por orden de preeminencia</trd>
   <trd lng="fr">par ordre de pr&eacute;s&eacute;ance</trd>
+  <trd lng="pl">w  <ind>kolejno&sacute;ci</ind></trd>
 </drv>
 
 <drv mrk="rang.pli0igi">
@@ -426,12 +470,11 @@
       Doni pli altan <tld/>on, pli gravan oficon,
       <ref tip="sin" cel="promoc.0i.POL">promocii</ref>:
       <ekz>
-        la firmao <klr>...</klr> min &leftquot;<tld/>altigas&#8223; per la tasko de
+        la firmao <klr>...</klr> min &leftquot;<tld/>altigas&#x201F; per la tasko de
         voja&gcirc;agento
         <fnt>
           <aut>A. Zecchin</aut>,
-          <vrk><url
-          ref="http://www.ueci.it/eldonoj/verkoj/la_hknstsm.pdf">
+          <vrk><url ref="http://www.ueci.it/eldonoj/verkoj/la_hknstsm.pdf">
           La Homo kiu ne Sukcesis Trompi sin mem</url></vrk>,
           <lok>[2011?]</lok>
         </fnt>.
@@ -446,6 +489,7 @@
     <trd>promouvoir<klr tip="ind"> (&agrave; un poste)</klr></trd>
   </trdgrp>
   <trd lng="hu">el&odblac;l&eacute;ptet</trd>
+  <trd lng="ja">&#26119;&#36914;&#12373;&#x305B;&#x308B;  [<ind>&#12375;&#12423;&#12358;&#12375;&#12435;&#12373;&#x305B;&#x308B;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>awansowa&cacute;</trd>,
     <trd>podnosi&cacute; <ind>rang&eogonek;</ind></trd>
@@ -467,8 +511,7 @@
         mi &ccirc;eestis &ccirc;iujn ceremoniojn de oficiala pli<tld/>igo
         <fnt>
           <aut>&Aacute;. Uribe V&eacute;lez, trad. L. Guillermo Restrepo Rivas</aut>,
-          <vrk><url
-          ref="http://luisguillermo.com/LCA/La_celo_atingeblas.pdf">
+          <vrk><url ref="http://luisguillermo.com/LCA/La_celo_atingeblas.pdf">
           La Celo Atingeblas</url></vrk>,
           <lok>2013</lok>
         </fnt>.
@@ -483,6 +526,10 @@
     <trd>nomination</trd>,
     <trd>promotion</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>awans</trd>,
+    <trd>promocja</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rang.pli0igxi">
@@ -496,8 +543,7 @@
         la lernantoj sentas sukceson, kiam ili <tld/>alti&gcirc;as
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://esperanto.cri.cn/401/2008/07/02/1s82942.htm">
+          <vrk><url ref="&CRI;401/2008/07/02/1s82942.htm">
           Taekvondo fari&gcirc;is olimpika sporto</url></vrk>,
           <lok>&Ccirc;ina Radio Internacia, 2008-07-02</lok>
         </fnt>;
@@ -506,8 +552,7 @@
         li pli<tld/>i&gcirc;is regule, kaj 36-jara li fari&gcirc;is generalo
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref="http://eo.wikipedia.org/wiki/Alfredo_Stroessner">
+          <lok><url ref="&Viki;/Alfredo_Stroessner">
           Alfredo Stroessner</url>, 2013-03-09</lok>
         </fnt>.
       </ekz>
@@ -520,6 +565,12 @@
     <trd>&ecirc;tre promu</trd>,
     <trd>monter en grade</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#26119;&#36914;&#12377;&#x308B;  [<ind>&#12375;&#12423;&#12358;&#12375;&#12435;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#26119;&#x683C;&#12377;&#x308B;  [<ind>&#12375;&#12423;&#12358;&#x304B;&#x304F;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#26119;&#x7D1A;&#12377;&#x308B;  [<ind>&#12375;&#12423;&#12358;&#x304D;&#12421;&#12358;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">awansowa&cacute;</trd>
 </drv>
 
 <drv mrk="rang.sam0a">
@@ -551,12 +602,18 @@
     <trd>pair<klr tip="ind"> (adj., de m&ecirc;me rang)</klr></trd>
   </trdgrp>
   <trd lng="hu">egyenl&odblac; <ind>rang&uacute;</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x540C;&#12376;&#x8EAB;&#20998;&#x306E;  [<ind>&#x304A;&#x306A;&#12376;&#x307F;&#12406;&#12435;&#x306E;</ind>]</trd>,
+    <trd>&#x540C;&#x683C;&#x306E;  [<ind>&#12393;&#12358;&#x304B;&#x304F;&#x306E;</ind>]</trd>,
+    <trd>&#x540C;&#x4F4D;&#x306E;  [<ind>&#12393;&#12358;&#12356;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>tej samej <ind>rangi</ind></trd>,
     <trd>w tej samej <ind>randze</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_v;&c_n;&c_y;&c_j; &c_p;&c_o; &c_z;&c_v;&c_a;&c_n;&c_i;&c_ju;</trd>
   <trd lng="sk">rovnakej hodnosti</trd>
+  <trd lng="uk">&c_r;&c_ib;&c_v;&#x43D;&c_i;&c_j; &c_z;&c_a; &c_r;&c_a;&#x43D;&c_gu;&#x43E;&#x43C;</trd>
 </drv>
 
 <drv mrk="rang.sam0ulo">
@@ -575,6 +632,12 @@
     </trd>
   </trdgrp>
   <trd lng="hu">egyenl&odblac; <ind>rang&uacute;</ind> ember</trd>
+  <trdgrp lng="ja">
+    <trd>&#x540C;&#12376;&#x8EAB;&#20998;&#x306E;&#x4EBA; 
+    [<ind>&#x304A;&#x306A;&#12376;&#x307F;&#12406;&#12435;&#x306E;&#12376;&#12435;</ind>]</trd>,
+    <trd>&#x540C;&#x683C;&#32773;  [<ind>&#12393;&#12358;&#x304B;&#x304F;&#12375;&#12419;</ind>]</trd>,
+    <trd>&#x540C;&#x4F4D;&#32773;  [<ind>&#12393;&#12358;&#12356;&#12375;&#12419;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd><klr>kto&sacute;</klr> tej samej <ind>rangi</ind></trd>,
     <trd><klr>kto&sacute;</klr> w tej samej <ind>randze</ind></trd>
@@ -589,6 +652,10 @@
   <trdgrp lng="sk">
     <trd>seberovn&yacute;</trd>,
     <trd>&ccaron;lovek rovnakej hodnosti</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_s;&#x43E;&c_b;&c_a; &c_t;&#x43E;&c_g;&#x43E; &c_zh; &c_r;&c_a;&#x43D;&c_gu;&c_u;</trd>,
+    <trd>&c_r;&c_ib;&c_v;&#x43D;&c_i;&c_j; &c_z;&c_a; &c_r;&c_a;&#x43D;&c_gu;&#x43E;&#x43C;</trd>
   </trdgrp>
 </drv>
 
@@ -630,11 +697,33 @@
     <trd>homme du rang</trd>,
     <trd>sans-grade</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#20853;&#21330;  [<ind>&#12408;&#12356;&#x305D;&#12388;</ind>]</trd>,
+    <trd>&#26368;&#x4E0B;&#x7D1A;&#32773;  [<ind>&#12373;&#12356;&#x304B;&#x304D;&#12421;&#12358;&#12375;&#12419;</ind>]</trd>,
+    <trd>&#x5E73;  [<ind>&#12384;&#12356;&#12425;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">szeregowiec</trd>
   <trd lng="sk">jednoduch&yacute; &uacute;radn&iacute;k</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x44F;&c_d;&#x43E;&c_v;&c_i;&c_j; (&c_s;&#x43E;&#x43B;&c_d;&c_a;&c_t;)</trd>,
+    <trd>&c_r;&#x44F;&c_d;&#x43E;&c_v;&c_i;&c_j; &#x43F;&c_r;&c_a;&c_c;&c_ib;&c_v;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log: rang.xml,v $
+$Log$
+versio 1.44 2023/09/04 18:29:37
+Wolfram Diestel: kor. ja ind
+
+versio 1.42 2023/05/27 21:23:35
+Vito Redsky: +trd pl
+
+versio 1.41 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2021/08/28 19:22:44
+Wolfram Diestel: shovita trd
+
 versio 1.36 2020/02/16 00:10:46
 Wolfram Diestel: formuloj per am
 
@@ -645,17 +734,5 @@ Revision 1.34  2015/10/29 20:10:15  revo
 Jeromo Vasxe: + egal~a
 
 Revision 1.33  2015/10/28 07:10:16  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.32  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.31  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.30  2013/12/03 20:10:13  revo
-Jeromo Vasxe: + pli~igxi/igo laux~e
-
-Revision 1.29  2013/07/25 14:10:11  revo
 -->
 </vortaro>

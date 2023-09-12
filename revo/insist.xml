@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: insist.xml,v 1.22 2009/07/09 16:31:37 revo Exp $">
+<art mrk="$Id: insist.xml,v 1.28 2023/08/31 16:40:57 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>insist</rad>/i
@@ -87,10 +86,11 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bo">&#xF68;&#xF74;&#xF0B;&#xF5A;&#xF74;&#xF42;&#xF66;&#xF0B;&#xF56;&#xFB1;&#xF7A;&#xF51;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>insistovat</trd>,
-    <trd>naléhat na někoho</trd>,
-    <trd>trvat na něčem</trd>
+    <trd>nal&#xE9;hat na n&#x11B;koho</trd>,
+    <trd>trvat na n&#x11B;&#x10D;em</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>beharren</trd>,
@@ -107,6 +107,11 @@
     <trd>szorgalmaz</trd>,
     <trd>hangs&uacute;lyoz</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56FA;&#x57F7;&#x3059;&#x308B;  [<ind>&#x3053;&#x3057;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8A00;&#x3044;&#x5F35;&#x308B;  [<ind>&#x3044;&#x3044;&#x306F;&#x308B;</ind>]</trd>,
+    <trd>&#x529B;&#x8AAC;&#x3059;&#x308B;  [<ind>&#x308A;&#x304D;&#x305B;&#x3064;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>aandringen</trd>,
     <trd>insisteren</trd>
@@ -114,10 +119,11 @@
   <trd lng="pt">insistir</trd>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_t;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_n;&c_a; &c_s;&c_v;&c_o;&c_jo;&c_m;)</klr></trd>
   <trdgrp lng="sk">
-    <trd>naliehať</trd>,
-    <trd>nástojiť</trd>
+    <trd>nalieha&tcaron;</trd>,
+    <trd>n&#xE1;stoji&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">insistera</trd>
+  <trd lng="uk">&#x43D;&c_a;&#x43F;&#x43E;&#x43B;&#x44F;&c_g;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="insist.0o">
@@ -145,8 +151,8 @@
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
-    <trd>naléhání</trd>,
-    <trd>trvání <klr>(na něčem)</klr></trd>
+    <trd>nal&#xE9;h&#xE1;n&#xED;</trd>,
+    <trd>trv&#xE1;n&#xED; <klr>(na n&#x11B;&#x10D;em)</klr></trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Beharren</trd>,
@@ -161,6 +167,11 @@
     <trd>szorgalmaz&aacute;s</trd>,
     <trd>kitart&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56FA;&#x57F7;  [<ind>&#x3053;&#x3057;&#x3064;</ind>]</trd>,
+    <trd>&#x529B;&#x8AAC;  [<ind>&#x308A;&#x304D;&#x305B;&#x3064;</ind>]</trd>,
+    <trd>&#x61C7;&#x9858;  [<ind>&#x3053;&#x3093;&#x304C;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>aandringen<klr tip="ind"> (zn.)</klr></trd>,
     <trd>aandrang<klr tip="ind"> (het aandringen)</klr></trd>
@@ -168,8 +179,8 @@
   <trd lng="pt">insist&ecirc;ncia</trd>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_ch;&c_i;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
-    <trd>naliehavosť</trd>,
-    <trd>vytrvalosť</trd>
+    <trd>naliehavos&tcaron;</trd>,
+    <trd>vytrvalos&tcaron;</trd>
   </trdgrp>
 </drv>
 
@@ -199,13 +210,12 @@
         iu penso subite revenas, nun jam klara kaj <tld/>a
         <klr>(nepreteratentebla)</klr>
         <fnt><aut>Valentina &Jcirc;uravlova, trad. Jurij Finkel</aut><vrk>Ni
-        iros pretere &dash; kaj plu</vrk><lok><url
-        ref="http://www.esperanto.mv.ru/TRIZ/pretere.html">http://www.esperanto.mv.ru/TRIZ/pretere.html</url></lok></fnt>.
+        iros pretere &dash; kaj plu</vrk><lok><url ref="http://www.esperanto.mv.ru/TRIZ/pretere.html">http://www.esperanto.mv.ru/TRIZ/pretere.html</url></lok></fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_y;</trd>
-  <trd lng="cs">naléhavý</trd>
+  <trd lng="cs">nal&#xE9;hav&#xFD;</trd>
   <trd lng="de">beharrlich</trd>
   <trd lng="en">insistent</trd>
   <trd lng="es">insistente</trd>
@@ -215,6 +225,10 @@
     <trd>szorgalmaz&oacute;</trd>,
     <trd>kitart&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3057;&#x3064;&#x3053;&#x304F;&#x8A00;&#x3044;&#x5F35;&#x308B;  [<ind>&#x3057;&#x3064;&#x3053;&#x304F;&#x3044;&#x3044;&#x306F;&#x308B;</ind>]</trd>,
+    <trd>&#x57F7;&#x62D7;&#x306A;  [<ind>&#x3057;&#x3064;&#x3088;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>dringend</trd>,
     <trd>nadrukkelijk</trd>
@@ -222,9 +236,10 @@
   <trd lng="pt">insistente<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
-    <trd>naliehavý</trd>,
-    <trd>nástojčivý</trd>
+    <trd>naliehav&#xFD;</trd>,
+    <trd>n&#xE1;stoj&#x10D;iv&#xFD;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43D;&c_a;&#x43F;&#x43E;&#x43B;&c_je;&c_g;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="insist.0e">
@@ -276,7 +291,11 @@
     <trd>s&uuml;rget&odblac;en</trd>,
     <trd>kitart&oacute;an</trd>
   </trdgrp>
-   <trdgrp lng="nl">
+   <trdgrp lng="ja">
+    <trd>&#x56FA;&#x57F7;&#x3057;&#x3066;  [<ind>&#x3053;&#x3057;&#x3064;&#x3057;&#x3066;</ind>]</trd>,
+    <trd>&#x3057;&#x3064;&#x3053;&#x304F;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
     <trd>dringend</trd>,
     <trd>nadrukkelijk</trd>
   </trdgrp>
@@ -311,7 +330,8 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">dlouze naléhat</trd>
+  <trd lng="be">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_d;&c_o;&c_w;&c_g;&c_ib; &c_ch;&c_a;&c_s;)</klr></trd>
+  <trd lng="cs">dlouze nal&#xE9;hat</trd>
   <trd lng="en">insist</trd>
   <trdgrp lng="hu">
     <trd>nem <ind>t&aacute;g&iacute;t</ind></trd>,
@@ -319,7 +339,7 @@
   </trdgrp>
   <trd lng="nl">aandringen</trd>
   <trd lng="pt">continuamente <ind>insistir</ind></trd>
-  <trd lng="sk">dlho naliehať</trd>
+  <trd lng="sk">dlho nalieha&tcaron;</trd>
 </drv>
 
 <drv mrk="insist.0ema">
@@ -329,14 +349,12 @@
       Ema <tld/>i:
       <ekz>
         tamen <tld/>ema Qiu Ming neniel volis forlasi sian hobion
-        <fnt><vrk>&Ccirc;ina Radio Internacia</vrk><lok><url
-        ref="http://esperanto.cri.com.cn/esperanto/2002/Aug/83489.htm">http://esperanto.cri.com.cn/esperanto/2002/Aug/83489.htm</url></lok></fnt>;
+        <fnt><vrk>&Ccirc;ina Radio Internacia</vrk><lok><url ref="http://esperanto.cri.com.cn/esperanto/2002/Aug/83489.htm">http://esperanto.cri.com.cn/esperanto/2002/Aug/83489.htm</url></lok></fnt>;
       </ekz>
       <ekz>
         la teatro estis sie&gcirc;ata de la homa maro, ribela kaj <tld/>ema
         <fnt><aut>Nikolaj Ostrovskij, trad. Solomon Cins</aut><vrk>Kiel
-        la &scirc;talo estis hardata</vrk><lok><url
-        ref="http://www.sezonoj.itgo.com/Stal2-6.htm">http://www.sezonoj.itgo.com/Stal2-6.htm</url></lok></fnt>.
+        la &scirc;talo estis hardata</vrk><lok><url ref="http://www.sezonoj.itgo.com/Stal2-6.htm">http://www.sezonoj.itgo.com/Stal2-6.htm</url></lok></fnt>.
       </ekz>
     </dif>
   </snc>
@@ -360,8 +378,8 @@
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_y;</trd>
   <trdgrp lng="cs">
-    <trd>paličatý</trd>,
-    <trd>tvrdošíjný</trd>
+    <trd>pali&#x10D;at&#xFD;</trd>,
+    <trd>tvrdo&scaron;&#xED;jn&#xFD;</trd>
   </trdgrp>
   <trd lng="en">insistent</trd>
   <trd lng="es">insistente</trd>
@@ -377,13 +395,16 @@
   <trd lng="pt">insistente<klr tip="ind"> (adj.)</klr></trd>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
-    <trd>tvrdohlavý</trd>,
-    <trd>tvrdošijný</trd>
+    <trd>tvrdohlav&#xFD;</trd>,
+    <trd>tvrdo&scaron;ijn&#xFD;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.27 2022/05/12 08:49:12
+Dmitri Gabinski: + trd be
+
 Revision 1.23  2015/06/29 16:33:15  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -403,11 +424,5 @@ Revision 1.18  2004/01/23 17:31:09  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.17  2003/11/01 17:30:40  revo
-Alejandro Mejia Greene: ald 2 his trd
-
-Revision 1.16  2003/08/20 16:30:36  revo
-Yury Finkel: +trd ru
-
-Revision 1.15  2003/08/17 17:33:19  revo
 -->
 </vortaro>

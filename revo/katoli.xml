@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: katoli.xml,v 1.18 2010/11/04 17:30:40 revo Exp $">
+<art mrk="$Id: katoli.xml,v 1.28 2023/09/01 13:58:57 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>katolik</rad>/a
@@ -45,7 +44,7 @@
     <rim num="2">
       <ctl>Konforma al la tuto</ctl> estas interpretata diversmaniere.
       La romkatolikoj plej ofte aplikas <ctl>la tuton</ctl> al la
-      <em>kredantaro</em> &#8208; kiel kredon &ccirc;iaman, &ccirc;iean,
+      <em>kredantaro</em> &#x2010; kiel kredon &ccirc;iaman, &ccirc;iean,
       &ccirc;iesan (<em>quod semper, quod ubique, quod ad omnibus
       creditum est</em>, Vincento de Lerino, 434).
       La&ubreve; la orienta kristanismo <ctl>la tuto</ctl> a&ubreve;
@@ -57,8 +56,7 @@
       kvare, morale kaj spirite perfekta
       (s-ta Cirilo de Jerusalemo, 348).
     </rim>
-    <trd
-    lng="grc">&kappa;&alfa;&theta;&omikron;&lambda;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
+    <trd lng="grc">&kappa;&alfa;&theta;&omikron;&lambda;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
     <trdgrp lng="ru">
       <trd>&c_k;&c_a;&c_f;&c_o;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
       <trd>&c_s;&c_o;&c_b;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>
@@ -121,8 +119,11 @@
       <trd>rzymsko-katolicki</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_l;&c_ib;&c_c;&c_k;&c_ib;</trd>
   <trd lng="es">cat&oacute;lico</trd>
   <trd lng="it">cattolico<klr> (agg.)</klr></trd>
+  <trd lng="ja">&#x30AB;&#x30C8;&#x30EA;&#x30C3;&#x30AF;&#x306E;  [<ind>&#x304B;&#x3068;&#x308A;&#x3063;&#x304F;&#x306E;</ind>]</trd>
+  <trd lng="uk">&#x43A;&#x430;&#x442;&#x43E;&#x43B;&#x438;&#x446;&#x44C;&#x43A;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="katoli.0o">
@@ -151,6 +152,7 @@
     Esperanto; oni devas do rigardi la adjektivon <tld/>a kaj la
     substantivon <tld/>o sendependaj kaj malkoheraj pruntoj.
   </rim>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_o;&c_l;&c_ib;&c_k;</trd>
   <trd lng="de">Katholik</trd>
   <trd lng="cs">katol&iacute;k</trd>
   <trd lng="en">Roman Catholic</trd>
@@ -160,11 +162,13 @@
   <trd lng="hu">katolikus <klr tip="ind"> (h&iacute;v&odblac;)</klr>
   </trd>
   <trd lng="it">cattolico<klr> (sost.)</klr></trd>
+  <trd lng="ja">&#x30AB;&#x30C8;&#x30EA;&#x30C3;&#x30AF;&#x6559;&#x5F92;  [<ind>&#x304B;&#x3068;&#x308A;&#x3063;&#x304F;&#x304D;&#x3087;&#x3046;&#x3068;</ind>]</trd>
   <trd lng="nl">katholiek<klr tip="ind"> (zn.)</klr></trd>
   <trd lng="pl">katolik</trd>
   <trd lng="ro">catolic</trd>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_o;&c_l;&c_i;&c_k;</trd>
   <trd lng="sk">katol&iacute;k</trd>
+  <trd lng="uk">&#x43A;&#x430;&#x442;&#x43E;&#x43B;&#x438;&#x43A;</trd>
 </drv>
 
 <drv mrk="katoli.0ismo">
@@ -190,6 +194,7 @@
         &leftquot;Religioj&rightquot;, p. 152a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_l;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>
     <trd lng="de">Katholizismus</trd>
     <trdgrp lng="fr">
       <trd>catholicisme</trd>
@@ -200,6 +205,10 @@
   </snc>
   <trd lng="cs">katolicismus</trd>
   <trd lng="es">catolicismo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30C8;&#x30EA;&#x30C3;&#x30AF;&#x6559;  [<ind>&#x30AB;&#x30C8;&#x30EA;&#x30C3;&#x30AF;&#x304D;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x30AB;&#x30C8;&#x30EA;&#x30B7;&#x30BA;&#x30E0;</trd>
+  </trdgrp>
   <trd lng="pl">katolicyzm</trd>
   <trd lng="ro">catolicism</trd>
   <trdgrp lng="ru">
@@ -207,6 +216,7 @@
     <trd>&c_k;&c_a;&c_t;&c_o;&c_l;&c_i;&c_c;&c_i;&c_z;&c_m;</trd>
   </trdgrp>
   <trd lng="sk">katolicizmus</trd>
+  <trd lng="uk">&#x43A;&#x430;&#x442;&#x43E;&#x43B;&#x438;&#x446;&#x438;&#x437;&#x43C;</trd>
 </drv>
 
 <drv mrk="katoli.rom0a">
@@ -235,6 +245,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_y;&c_m;&c_s;&c_k;&c_a;-&c_k;&c_a;&c_t;&c_a;&c_l;&c_ib;&c_c;&c_k;&c_ib;</trd>
   <trd lng="cs">&rcaron;&iacute;mskokatolick&yacute;</trd>
   <trdgrp lng="de">
     <trd>r&ouml;misch-katholisch</trd>,
@@ -249,6 +260,7 @@
     <trd>cattolico-romano</trd>,
     <trd>cattolico apostolico romano<klr> (agg.)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x30ED;&#x30FC;&#x30DE;&#x30AB;&#x30C8;&#x30EA;&#x30C3;&#x30AF;&#x306E;  [<ind>&#x308D;&#x30FC;&#x307E;&#x304B;&#x3068;&#x308A;&#x3063;&#x304F;&#x306E;</ind>]</trd>
   <trd lng="nl">rooms-katholiek</trd>
   <trd lng="pl">rzymsko-katolicki</trd>
   <trdgrp lng="ru">
@@ -260,6 +272,9 @@
 </art>
 <!--
 $Log$
+versio 1.26 2021/04/08 08:58:43
+Dmitri Gabinski: kor de trd be
+
 Revision 1.24  2018/06/20 02:10:17  revo
 Dusan Juretic: +trd es
 

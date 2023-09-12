@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: topolo.xml,v 1.34 2020/02/14 15:10:19 revo Exp $">
+<art mrk="$Id: topolo.xml,v 1.38 2022/12/14 09:27:09 revo Exp $">
 <kap>
   <rad>topologi</rad>/o
 </kap>
@@ -66,8 +66,7 @@
         <trd lng="fr">topologie grossi&egrave;re</trd>
         <trd lng="hu">trivi&aacute;lis <ind>topol&oacute;gia</ind></trd>
 
-        <trd
-lng="ru">&c_t;&c_r;&c_i;&c_v;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+        <trd lng="ru">&c_t;&c_r;&c_i;&c_v;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
         &c_t;&c_o;&c_p;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
       </ekz>
       <ekz>
@@ -85,8 +84,7 @@ lng="ru">&c_t;&c_r;&c_i;&c_v;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
         de subaroj de <frm am="bb E"><g>E</g></frm> 
         <klr>(<tld/>o, kies bazon konsistigas
         &ccirc;iuj finiaj komuna&jcirc;oj de elementoj en
-        <frm am="bb A uu {O/,bb E}"
-        ><g>A</g>&#8746;{&#8709;,<g>E</g>}</frm>)</klr>;
+        <frm am="bb A uu {O/,bb E}"><g>A</g>&#x222A;{&#8709;,<g>E</g>}</frm>)</klr>;
       </ekz>
       <ekz>
         <tld/>o super <frm><g>E</g></frm>, difinita per aro de bildigoj
@@ -99,9 +97,9 @@ lng="ru">&c_t;&c_r;&c_i;&c_v;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
     </refgrp>
     <refgrp tip="sub">
       Specifaj topologioj:
-      <ref cel="topolo.0o.de_simpla_konvergxo"><tld/>o de simpla
+      <ref cel="topolo.0o_de_simpla_konvergxo"><tld/>o de simpla
       konver&gcirc;o</ref>,
-      <ref cel="topolo.0o.de_unuforma_konvergxo"><tld/>o de unuforma
+      <ref cel="topolo.0o_de_unuforma_konvergxo"><tld/>o de unuforma
       konver&gcirc;o</ref>,
       <ref cel="topolo.malforta0o">malforta <tld/>o</ref>,
       <ref cel="topolo.dualmalforta0o">dualmalforta <tld/>o</ref>;
@@ -126,6 +124,7 @@ lng="ru">&c_t;&c_r;&c_i;&c_v;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
   <trd lng="pl">topologia</trd>
   <trd lng="pt">topologia</trd>
   <trd lng="ru">&c_t;&c_o;&c_p;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="uk">&c_t;&#x43E;&#x43F;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&#x44F;</trd>
 </drv>
 
 <drv mrk="topolo.0a">
@@ -155,8 +154,7 @@ lng="ru">&c_t;&c_r;&c_i;&c_v;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
         <klr>(p.p. <ref cel="grup.0o.MAT">grupo</ref>)</klr>
         Provizita per tia
         <ref cel="topolo.0o.strukturo"><tld/>o <sncref/></ref>, ke
-        la bildigo <frm am="x&#8224;y^-1"
-        ><k>x</k>&#8224;<k>y</k><sup>-1</sup></frm> estu
+        la bildigo <frm am="x&#8224;y^-1"><k>x</k>&#8224;<k>y</k><sup>-1</sup></frm> estu
         <ref cel="kontin3.0a.cxie">kontinua</ref>.
       </dif>
     </subsnc>
@@ -181,8 +179,7 @@ lng="ru">&c_t;&c_r;&c_i;&c_v;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
         <ref cel="kontin3.0a.cxie">kontinuaj</ref>.
       </dif>
     </subsnc>
-    <trd
-lng="be">&c_t;&c_a;&c_p;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
+    
     <trd lng="de">topologisch</trd>
     <trd lng="en">topological</trd>
     <trd lng="es">topol&oacute;gico</trd>
@@ -190,6 +187,7 @@ lng="be">&c_t;&c_a;&c_p;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
     <trd lng="pl">topologiczny</trd>
     <trd lng="ru">&c_t;&c_o;&c_p;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
   </snc>
+  <trd lng="be">&c_t;&c_a;&c_p;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
   <trd lng="hu">topologikus</trd>  
 </drv>
 
@@ -225,6 +223,7 @@ tiu,
       En multaj aplikoj la forta <tld/>o estas difinita per normo.
     </rim>
   </snc>
+  <trd lng="be">&c_s;&c_l;&c_a;&c_b;&c_a;&c_ja; <ind>&c_t;&c_a;&c_p;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</ind></trd>
   <trd lng="de">schwache <ind>Topologie</ind></trd>
   <trd lng="en">weak <ind>topology</ind></trd>
   <trd lng="fr">topologie faible</trd>
@@ -269,6 +268,7 @@ tiu,
       ke <ctl>dualmalforta</ctl> ne estas kontentiga kunmeta&jcirc;o.
     </rim>
   </snc>
+  <trd lng="be">&c_s;&c_l;&c_a;&c_b;&c_a;&c_ja; <ind>&c_t;&c_a;&c_p;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</ind></trd>
   <trd lng="de">schwache *-<ind>Topologie</ind></trd>
   <trd lng="en">weak* <ind>topology</ind></trd>
   <trdgrp lng="fr">
@@ -280,7 +280,7 @@ tiu,
   <ind>&c_t;&c_o;&c_p;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</ind></trd>
 </drv>
 
-<drv mrk="topolo.0o.de_simpla_konvergxo">
+<drv mrk="topolo.0o_de_simpla_konvergxo">
   <kap><tld/>o de simpla konver&gcirc;o</kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
@@ -292,6 +292,7 @@ tiu,
       estas <ref cel="konver.simple0a">simple konver&gcirc;a</ref>.
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_a;&c_p;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja; &c_p;&c_r;&c_o;&c_s;&c_t;&c_a;&c_j; &c_z;&c_mol;&c_b;&c_je;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
   <trd lng="de">Topologie der punktweisen Konvergenz</trd>
   <trd lng="en">topology of pointwise convergence</trd>
   <trd lng="fr">topologie de la convergence simple</trd>
@@ -302,7 +303,7 @@ tiu,
   &c_s;&c_h;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_i;</trd>
 </drv>
 
-<drv mrk="topolo.0o.de_unuforma_konvergxo">
+<drv mrk="topolo.0o_de_unuforma_konvergxo">
   <kap><tld/>o de unuforma konver&gcirc;o</kap>
   <uzo tip="fak">MAT</uzo>
   <snc>
@@ -315,6 +316,7 @@ tiu,
     </dif>
     <ref tip="vid" cel="konver.unuforme0a">unuforme konver&gcirc;a.</ref>
   </snc>
+  <trd lng="be">&c_t;&c_a;&c_p;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja; &c_r;&c_a;&c_w;&c_n;&c_a;&c_m;&c_je;&c_r;&c_n;&c_a;&c_j; &c_z;&c_mol;&c_b;&c_je;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
   <trd lng="de">Topologie der gleichm&auml;&szlig;igen Konvergenz</trd>
   <trd lng="en">topology of uniform convergence</trd>
   <trd lng="fr">topologie de la convergence uniforme</trd>
@@ -326,7 +328,16 @@ tiu,
 </drv>
 </art>
 <!--
-$Log: topolo.xml,v $
+$Log$
+versio 1.38 2022/12/14 09:27:09
+Dmitri Gabinski: + trd be
+
+versio 1.36 2021/05/11 14:52:30
+Wolfram Diestel: +kor. ref-cel
+
+versio 1.35 2021/05/10 07:03:27
+Wolfram Diestel: kor. drv@mrk
+
 versio 1.34 2020/02/14 15:10:19
 Wolfram Diestel: formuloj per am
 
@@ -340,14 +351,5 @@ Revision 1.31  2012/10/23 00:14:03  revo
 Neil Roberts: aldonu la etikedon <var>
 
 Revision 1.30  2006/02/15 17:36:09  revo
-Tulio Flores: +trd pt
-
-Revision 1.29  2005/03/06 17:34:49  revo
-Marc Bavant: ~a: forigis spaceton ene de trd ru
-
-Revision 1.28  2005/02/21 18:55:14  revo
-Alejandro Mejia Greene: Ald 2 his trd
-Revision 1.27  2004/12/13 17:33:36  revo
-Marc Bavant: kor duobligitajn punktojn
 -->
 </vortaro>

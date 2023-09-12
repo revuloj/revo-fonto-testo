@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: grot.xml,v 1.13 2009/06/24 16:30:53 revo Exp $">
+<art mrk="$Id: grot.xml,v 1.24 2023/08/31 14:29:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>grot</rad>/o
@@ -13,14 +12,13 @@
     <dif>
       Arte farita a&ubreve; vidinda <ref tip="super" cel="kavern.0o.KOMUNE">kaverno</ref>:
       <ekz>
-        la <tld/>o <klr>[&#8230;]</klr> havas praecon je 80 milionoj da jaroj, &gcirc;i konsistas el
+        la <tld/>o <klr>[&#x2026;]</klr> havas praecon je 80 milionoj da jaroj, &gcirc;i konsistas el
         tri eta&gcirc;oj, havas multajn malgrandajn lagojn, naturajn labirintojn kaj
         miraklajn halojn
-        <fnt>
+        <fnt><aut>Bardhyl Selimi</aut>: 
+          <vrk><url ref="&Monato;/2001/007205.html">Voja&gcirc;impresoj, somero 2000</url></vrk>,
           <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007205.html"
-              >Kosovo: Voja&gcirc;impresoj, somero 2000</url></vrk>
+          <lok>2001/01, p. 26</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -28,8 +26,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="&Monato;/2011/010212.php"
-              >La marmora groto Gadime</url></vrk>
+          <vrk><url ref="&Monato;/2011/010212.php">La marmora groto Gadime</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -38,8 +35,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan MacAoidh</aut>
-          <vrk><url ref="&Monato;/2006/009062.php"
-              >Enmigrado anta kaj inta</url></vrk>
+          <vrk><url ref="&Monato;/2006/009062.php">Enmigrado anta kaj inta</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -47,8 +43,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url ref="&Monato;/2014/011198.php"
-              >Ursoj mortigataj</url></vrk>
+          <vrk><url ref="&Monato;/2014/011198.php">Ursoj mortigataj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -58,8 +53,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sylvain Lelarge</aut>
-          <vrk><url ref="https://www.monato.be/2004/008496.html"
-              >La argilaj najbaretoj de Jesuo provenca tradicio</url></vrk>
+          <vrk><url ref="&Monato;/2004/008496.html">La argilaj najbaretoj de Jesuo provenca
+          tradicio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -82,14 +77,28 @@
      <trd>barlang</trd>,
      <trd>grotta</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6D1E;&#x7A74;  [<ind>&#x307B;&#x3089;&#x3042;&#x306A;</ind>]</trd>,
+    <trd>&#x6D1E;&#x7A9F;  [<ind>&#x3069;&#x3046;&#x304F;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">grot</trd>
   <trd lng="pt">gruta</trd>
   <trd lng="ru">&c_g;&c_r;&c_o;&c_t;</trd>
   <trd lng="sk">jasky&ncaron;a</trd>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_r;&#x43E;&c_t;</trd>,
+    <trd>&#x43F;&c_je;&c_ch;&c_je;&c_r;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/04/18 11:23:33
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.22 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.19  2019/06/30 07:41:50  revo
 adaptis URL de Monato
 
@@ -106,14 +115,5 @@ Revision 1.15  2013/10/05 01:10:18  revo
 Joop Eggen: +trd bg
 
 Revision 1.14  2011/12/05 01:10:16  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.13  2009/06/24 16:30:53  revo
-Russ Williams: +trd en
-
-Revision 1.12  2005/10/10 16:31:11  revo
-Luiz Portella: +trd pt
-
-Revision 1.11  2004/01/10 17:31:30  revo
 -->
 </vortaro>

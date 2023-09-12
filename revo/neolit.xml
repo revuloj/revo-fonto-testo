@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: neolit.xml,v 1.14 2009/06/16 16:30:47 revo Exp $">
+<art mrk="$Id: neolit.xml,v 1.22 2023/09/02 12:44:20 revo Exp $">
 <kap>
   <rad>neolitik</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -17,8 +16,7 @@
              <fnt>
         <aut>Rudyard Kipling, Trad. Wouter F. Pilger</aut>,
         <vrk>Tiel do: Rakontoj por malgrandaj infanoj</vrk>,
-        <lok><url ref=
-        "http://www.gutenberg.org/ebooks/48900">
+        <lok><url ref="&Gutenberg;ebooks/48900">
         gutenberg.org</url></lok>
         </fnt>.
       </ekz>
@@ -50,17 +48,27 @@
     <trd>&uacute;jk&odblac;kor</trd>,
     <trd>csiszoltk&odblac;-kor</trd>
   </trdgrp>
+  <trd lng="ja">&#x65B0;&#x77F3;&#x5668;&#x6642;&#x4EE3;  [<ind>&#x3057;&#x3093;&#x305B;&#x3063;&#x304D;&#x3058;&#x3060;&#x3044;</ind>]</trd>
   <trd lng="nl">Neolithicum</trd>
+  <trd lng="pl">neolit</trd>
   <trd lng="pt">neol&iacute;tico</trd>
+  <trd lng="ro">neolitic</trd>
   <trd lng="ru">&c_n;&c_je;&c_o;&c_l;&c_i;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>mlad&scaron;ia doba kamenn&aacute;</trd>,
     <trd>neolit</trd>
   </trdgrp>
+  <trd lng="uk">&#x43D;&#x435;&#x43E;&#x43B;&#x456;&#x442;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.21 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2021/03/04 20:49:19
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.17  2015/07/04 08:37:40  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -77,8 +85,5 @@ Revision 1.13  2006/01/12 21:51:58  revo
 Raul Salinas Monteagudo: +trd es
 
 Revision 1.12  2005/08/20 16:31:08  revo
-Jeromo Vasxe: + trd fr
-
-Revision 1.11 2004/02/17 17:32:18 revo
 -->
 </vortaro>

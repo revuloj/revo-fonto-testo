@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: saks.xml,v 1.22 2023/09/03 12:09:43 revo Exp $">
 <kap>
   <rad>saks</rad>/o
 </kap>
@@ -11,15 +10,14 @@
   <snc>
     <uzo tip="fak">HIS</uzo>
     <dif>
-      Ano de iama &gcirc;ermana 
+      Ano de iama &gcirc;ermana
       <ref tip="lst" cel="trib.0o.ETN" lst="voko:popolanoj">tribo</ref>.
-      
+
       Tiuj, kiuj invadis Britujon, poste
       nomi&gcirc;is anglosaksoj:
       <ekz>
         la definitiva enlo&gcirc;i&gcirc;o de la Jutlandanoj, Angloj kaj
-        <tld
-        lit="S"/>oj en
+        <tld lit="S"/>oj en
         Anglio<fnt><bib>IntArkeol</bib>, <lok>p. 35a</lok></fnt>.
       </ekz>
     </dif>
@@ -52,7 +50,13 @@
   <trd lng="fr">Saxon<klr> (subst.)</klr></trd>
   <trd lng="hu">sz&aacute;sz</trd>
   <trd lng="it">sassone<klr> (sost.)</klr></trd>
+  <trd lng="ja">&#x30B6;&#x30AF;&#x30BB;&#x30F3;&#x4EBA;  [<ind>&#x30B6;&#x30AF;&#x30BB;&#x30F3;&#x3058;&#x3093;</ind>]</trd>
+  <trd lng="pl">Sakso&nacute;czyk</trd>
   <trd lng="sk">Sas</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_a;&#x43A;&c_s;</trd>,
+    <trd>&c_s;&c_a;&#x43A;&c_s;&#x43E;&#x43D;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="saks.0a">
@@ -77,8 +81,13 @@
   <trd lng="hu">sz&aacute;sz</trd>
   <trd lng="it">sassone<klr> (agg.)</klr></trd>
   <trd lng="nl">Saksisch</trd>
+  <trdgrp lng="pl">
+    <trd>sakso&nacute;ski</trd>,
+    <trd>saski</trd>
+  </trdgrp>
   <trd lng="ru">&c_s;&c_a;&c_k;&c_s;&c_o;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
   <trd lng="sk">sask&yacute;</trd>
+  <trd lng="uk">&c_s;&c_a;&#x43A;&c_s;&#x43E;&#x43D;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="saks.S0ujo">
@@ -103,7 +112,7 @@
       kaj Saksujo-Anhalto.
     </dif>
     <trd lng="de">Herzogtum Sachsen</trd>
-    <trd lng="hu">Sz&aacute;sz Fejedelems&eacute;g</trd>    
+    <trd lng="hu">Sz&aacute;sz Fejedelems&eacute;g</trd>
   </snc>
   <snc>
     <dif>
@@ -119,7 +128,6 @@
       <trd>Freistaat Sachsen</trd>
     </trdgrp>
     <trd lng="hu">Sz&aacute;sz Sz&ouml;vets&eacute;gi &Aacute;llam</trd>
-       
   </snc>
   <trd lng="be">&c_S;&c_a;&c_k;&c_s;&c_o;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="de">Sachsen</trd>
@@ -129,6 +137,7 @@
   <trd lng="hu">Sz&aacute;szorsz&aacute;g</trd>
   <trd lng="it">Sassonia</trd>
   <trd lng="nl">Saksen</trd>
+  <trd lng="pl">Saksonia</trd>
   <trd lng="ru">&c_S;&c_a;&c_k;&c_s;&c_o;&c_n;&c_i;&c_ja;</trd>
 </drv>
 
@@ -151,6 +160,7 @@
   <trd lng="fr">Saxe-Anhalt</trd>
   <trd lng="it">Sassonia-Anhalt</trd>
   <trd lng="nl">Saksen-Anhalt</trd>
+  <trd lng="pl">Saksonia-Anhalt</trd>
   <trd lng="hu">Sz&aacute;szorsz&aacute;g-Anhalt</trd>
 </drv>
 
@@ -173,8 +183,8 @@
   <trd lng="hu">Als&oacute;-Sz&aacute;szorsz&aacute;g</trd>
   <trd lng="it">Bassa <ind>Sassonia</ind></trd>
   <trd lng="nl">Nedersaksen</trd>
-  <trd lng="ru">&c_N;&c_i;&c_zh;&c_n;&c_ja;&c_ja;
-  &c_S;&c_a;&c_k;&c_s;&c_o;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="pl">Dolna  <ind>Saksonia</ind></trd>
+  <trd lng="ru">&c_N;&c_i;&c_zh;&c_n;&c_ja;&c_ja; &c_S;&c_a;&c_k;&c_s;&c_o;&c_n;&c_i;&c_ja;</trd>
 </drv>
 
 <drv mrk="saks.SupraS0ujo">
@@ -194,8 +204,8 @@
   <trd lng="hu">Fels&odblac;-Sz&aacute;szorsz&aacute;g</trd>
   <trd lng="it">Alta <ind>Sassonia</ind></trd>
   <trd lng="nl">Oppersaksen</trd>
-  <trd lng="ru">&c_V;&c_je;&c_r;&c_h;&c_n;&c_ja;&c_ja;
-  &c_S;&c_a;&c_k;&c_s;&c_o;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="pl">G&oacute;rna  <ind>Saksonia</ind></trd>
+  <trd lng="ru">&c_V;&c_je;&c_r;&c_h;&c_n;&c_ja;&c_ja; &c_S;&c_a;&c_k;&c_s;&c_o;&c_n;&c_i;&c_ja;</trd>
 </drv>
 
 <drv mrk="saks.anglo0o">
@@ -224,6 +234,7 @@
   <trd lng="hu">angolsz&aacute;sz</trd>
   <trd lng="it">anglosassone<klr> (sost.)</klr></trd>
   <trd lng="nl">Angelsakser</trd>
+  <trd lng="pl">Anglosas</trd>
   <trd lng="ru">&c_a;&c_n;&c_g;&c_l;&c_o;&c_s;&c_a;&c_k;&c_s;</trd>
 </drv>
 
@@ -244,8 +255,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_a;&c_n;&c_g;&c_l;&c_a;&c_s;&c_a;&c_k;&c_s;&c_o;&c_n;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="be">&c_a;&c_n;&c_g;&c_l;&c_a;&c_s;&c_a;&c_k;&c_s;&c_o;&c_n;&c_s;&c_k;&c_ib;</trd>
   <trd lng="ca">anglosax&oacute; <klr>(adj.)</klr></trd>
   <trd lng="cs">anglosask&yacute;</trd>
   <trdgrp lng="de">
@@ -255,13 +265,17 @@
   <trd lng="hu">angolsz&aacute;sz</trd>
   <trd lng="it">anglosassone<klr> (agg.)</klr></trd>
   <trd lng="nl">angelsaksisch</trd>
-  <trd
-  lng="ru">&c_a;&c_n;&c_g;&c_l;&c_o;&c_s;&c_a;&c_k;&c_s;&c_o;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="pl">anglosaski</trd>
+  <trd lng="ru">&c_a;&c_n;&c_g;&c_l;&c_o;&c_s;&c_a;&c_k;&c_s;&c_o;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
   <trd lng="sk">anglosask&yacute;</trd>
+  <trd lng="uk">&c_a;&#x43D;&c_g;&#x43B;&#x43E;&c_s;&c_a;&#x43A;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.21 2023/07/25 19:22:55
+Vito Redsky: +trd pl 
+
 Revision 1.17  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 

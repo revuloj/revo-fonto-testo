@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: logx.xml,v 1.32 2020/02/13 00:10:32 revo Exp $">
+<art mrk="$Id: logx.xml,v 1.42 2023/09/02 05:33:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lo&gcirc;</rad>/i
@@ -30,13 +29,13 @@
         </fnt>?
       </ekz>
       <ekz>
-        se la tero estus <tld/>ata <klr>[&#8230;]</klr> de sa&gcirc;uloj
+        se la tero estus <tld/>ata <klr>[&#x2026;]</klr> de sa&gcirc;uloj
         <fnt><bib>Lanti</bib>,
           <lok>publika letero al Romen Rolan</lok>
         </fnt>;
       </ekz>
       <ekz>
-        insuloj <klr>[&#8230;]</klr> <tld/>ataj de sennombraj birdaj aroj
+        insuloj <klr>[&#x2026;]</klr> <tld/>ataj de sennombraj birdaj aroj
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro VIII</lok>
@@ -73,7 +72,7 @@
       <trd>&c_o;&c_b;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
       <trd>&c_n;&c_a;&c_s;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>
     </trdgrp>
-    <trd lng="zh">&#23621;&#20303; [<ind>j&#363;zh&ugrave;</ind>]</trd>
+    <trd lng="zh">&#x5C45;&#x4F4F; [<ind>j&#x16B;zh&ugrave;</ind>]</trd>
     <trd lng="ms">meninggal</trd>
   </snc>
   <snc mrk="logx.0i.gasti">
@@ -85,9 +84,10 @@
       <ekz>
         <tld/>i dum kelkaj tagoj &ccirc;e familio de kamparanoj
         <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la rizejoj</url></vrk>
           <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006831.html">La&ubreve; ritmo de la rizejoj</url></vrk>
+          <lok>2000/02, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -96,7 +96,7 @@
       <trd>zamieszkiwa&cacute;</trd>
     </trdgrp>
     <trd lng="pt">hospedar-se</trd>
-    <trd lng="zh">&#20570;&#23458; [<ind>zu&ograve;k&egrave;</ind>]</trd>
+    <trd lng="zh">&#x505A;&#x5BA2; [<ind>zu&ograve;k&egrave;</ind>]</trd>
     <trd lng="ms">tetamu</trd>
   </snc>
   <trdgrp lng="be">
@@ -113,6 +113,13 @@
     <trd>wohnen</trd>,
     <trd>gastieren</trd>,
     <trd>&uuml;bernachten</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F4F;&#x3080;  [<ind>&#x3059;&#x3080;</ind>]</trd>,
+    <trd>&#x5C45;&#x4F4F;&#x3059;&#x308B;  [<ind>&#x304D;&#x3087;&#x3058;&#x3085;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6CCA;&#x307E;&#x308B;  [<ind>&#x3068;&#x307E;&#x308B;</ind>]</trd>,
+    <trd>&#x6EDE;&#x5728;&#x3059;&#x308B;  [<ind>&#x305F;&#x3044;&#x3056;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5BBF;&#x308B;  [<ind>&#x3084;&#x3069;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">logeren</trd>
   <trdgrp lng="en">
@@ -139,6 +146,11 @@
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_zh;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_je;&c_sh;&#x43A;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -191,6 +203,11 @@
     <trd>lak&oacute;</trd>,
     <trd>lakos</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F4F;&#x6C11;  [<ind>&#x3058;&#x3085;&#x3046;&#x307F;&#x3093;</ind>]</trd>,
+    <trd>&#x5C45;&#x4F4F;&#x8005;  [<ind>&#x304D;&#x3087;&#x3058;&#x3085;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x5BBF;&#x6CCA;&#x8005;  [<ind>&#x3057;&#x3085;&#x304F;&#x306F;&#x304F;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bewoner</trd>
   <trd lng="pl">mieszkaniec</trd>
   <trdgrp lng="pt">
@@ -201,7 +218,12 @@
     <trd>&c_zh;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_o;&c_b;&c_i;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
   </trdgrp>
-  <trd lng="zh">&#23621;&#27665; [<ind>j&#363;m&iacute;n</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_t;&c_je;&#x43B;&#x44C;</trd>,
+    <trd>&#x43C;&c_je;&c_sh;&#x43A;&c_a;&#x43D;&c_je;&c_c;&#x44C;</trd>,
+    <trd>&c_zh;&c_i;&#x43B;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5C45;&#x6C11; [<ind>j&#x16B;m&iacute;n</ind>]</trd>
 </drv>
 
 <drv mrk="logx.0antaro">
@@ -238,8 +260,13 @@
     <trd>nombre d'habitants</trd>,
     <trd>population</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F4F;&#x6C11;  [<ind>&#x3058;&#x3085;&#x3046;&#x307F;&#x3093;</ind>]</trd>,
+    <trd>&#x4EBA;&#x53E3;  [<ind>&#x3058;&#x3093;&#x3053;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">mieszka&nacute;cy</trd>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="uk">&#x43D;&c_a;&c_s;&c_je;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="logx.0ebla">
@@ -273,7 +300,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo/pg</aut>
-          <vrk><url ref="https://www.monato.be/2005/008590.php">Turismi kun gasmasko</url></vrk>
+          <vrk><url ref="&Monato;/2005/008590.php">Turismi
+          kun gasmasko</url></vrk>
           <lok>2005</lok>
         </fnt>.
       </ekz>
@@ -285,6 +313,10 @@
   <trd lng="es">habitable</trd>
   <trd lng="fr">habitable</trd>
   <trd lng="hu">lakhat&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C45;&#x4F4F;&#x3067;&#x304D;&#x308B;  [<ind>&#x304D;&#x3087;&#x3058;&#x3085;&#x3046;&#x3067;&#x304D;&#x308B;</ind>]</trd>,
+    <trd>&#x5BBF;&#x6CCA;&#x3067;&#x304D;&#x308B;  [<ind>&#x3057;&#x3085;&#x304F;&#x306F;&#x304F;&#x3067;&#x304D;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bewoonbaar</trd>
   <trd lng="pl">mieszkalny</trd>
   <trd lng="pt">habit&aacute;vel</trd>
@@ -292,7 +324,8 @@
     <trd>&c_zh;&c_i;&c_l;&c_o;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_g;&c_o;&c_d;&c_n;&c_y;&c_j; &c_d;&c_l;&c_ja; &c_zh;&c_i;&c_l;&c_mol;&c_ja;</trd>
   </trdgrp>
-  <trd lng="zh">&#23452;&#23621;&#30340; [<ind>y&iacute; j&#363; de</ind>]</trd>
+  <trd lng="uk">&#x43F;&c_r;&c_i;&c_d;&c_a;&c_t;&#x43D;&c_i;&c_j; &c_d;&#x43B;&#x44F; &c_zh;&c_i;&c_t;&#x43B;&c_a;</trd>
+  <trd lng="zh">&#x5B9C;&#x5C45;&#x7684; [<ind>y&iacute; j&#x16B; de</ind>]</trd>
 </drv>
 
 <drv mrk="logx.0ejo">
@@ -326,14 +359,15 @@
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Babel</nom> <klr>[&#8230;]</klr> fari&gcirc;is <tld/>ejo de demonoj
+        <nom>Babel</nom> <klr>[&#x2026;]</klr> fari&gcirc;is <tld/>ejo de demonoj
         <fnt>
           <bib>NT</bib>
           <lok>Apokalipso 18:2</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la tuta <tld/>ejo <klr>[de la muso]</klr> konsistis el malgranda kaverno
+        la tuta <tld/>ejo <klr>[de la muso]</klr> konsistis el malgranda
+        kaverno
         sub la stoploj
         <fnt>
           <bib>Fab1</bib>
@@ -351,7 +385,8 @@
         grandsinjora <tld/>ejo
         <fnt>
           <bib>Fab4</bib>
-          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj
+          filinoj</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -376,14 +411,16 @@
         </fnt>;
       </ekz>
       <ekz>
-        <klr>[ili]</klr> transloki&gcirc;as <klr>[&#8230;]</klr> el la malnova <tld/>ejo en la novan
+        <klr>[ili]</klr> transloki&gcirc;as <klr>[&#x2026;]</klr> el la malnova
+        <tld/>ejo en la novan
         <fnt>
           <bib>Fab4</bib>
           <lok>Turgardisto Ole</lok>
         </fnt>;
       </ekz>
       <ekz>
-        post du tagoj estos la fikstempo, en kiu mi devas enporti la luan pagon por la
+        post du tagoj estos la fikstempo, en kiu mi devas enporti la
+        luan pagon por la
         <tld/>ejo
         <fnt>
           <bib>Marta</bib>
@@ -391,7 +428,8 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        en la domo de mia patro ekzistas multe da <tld/>ejoj, diris Kristo
+        en la domo de mia patro ekzistas multe da <tld/>ejoj, diris
+        Kristo
         <fnt>
           <bib>Fab4</bib>
           <lok>Historio el la dunoj</lok>
@@ -399,7 +437,8 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        terura &scirc;losilo, kiu fermas post mi la malliberejon de la vivo kaj malfermas
+        terura &scirc;losilo, kiu fermas post mi la malliberejon de la vivo
+        kaj malfermas
         anta&ubreve; mi la <tld/>ejon de la eterna nokto
         <fnt>
           <bib>Rabistoj</bib>
@@ -413,6 +452,7 @@
     <trd>&c_zh;&c_y;&c_t;&c_l;&c_o;</trd>,
     <trd>&c_k;&c_v;&c_a;&c_t;&c_e;&c_r;&c_a;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF42;&#xF53;&#xF66;&#xF0B;&#xF5A;&#xF44;&#xF0B;</trd>
   <trd lng="de">Wohnung</trd>
   <trdgrp lng="en">
     <trd>abode</trd>,
@@ -426,6 +466,12 @@
     <trd>logement</trd>
   </trdgrp>
   <trd lng="hu">lak&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F4F;&#x307F;&#x304B;  [<ind>&#x3059;&#x307F;&#x304B;</ind>]</trd>,
+    <trd>&#x4F4F;&#x5C45;  [<ind>&#x3058;&#x3085;&#x3046;&#x304D;&#x3087;</ind>]</trd>,
+    <trd>&#x5BBF;&#x6CCA;&#x6240;  [<ind>&#x3057;&#x3085;&#x304F;&#x306F;&#x304F;&#x3058;&#x3087;</ind>]</trd>,
+    <trd>&#x5BBF;&#x820E;  [<ind>&#x3057;&#x3085;&#x304F;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">woning</trd>
   <trdgrp lng="pl">
     <trd>mieszkanie</trd>,
@@ -436,7 +482,12 @@
     <trd>&c_zh;&c_i;&c_l;&c_i;&c_shch;&c_je;</trd>,
     <trd>&c_k;&c_v;&c_a;&c_r;&c_t;&c_i;&c_r;&c_a;</trd>
   </trdgrp>
-  <trd lng="zh">&#20303;&#25152; [<ind>zh&ugrave;su&#466;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_i;&c_t;&#x43B;&#x43E;</trd>,
+    <trd>&#x43F;&#x43E;&#x43C;&c_je;&c_sh;&#x43A;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43A;&c_v;&c_a;&c_r;&c_t;&c_i;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x4F4F;&#x6240; [<ind>zh&ugrave;su&#x1D2;</ind>]</trd>
 </drv>
 
 <drv mrk="logx.0igi">
@@ -463,14 +514,16 @@
         </fnt>;
       </ekz>
       <ekz>
-        Dio la Eternulo prenis la homon kaj en<tld/>igis lin en la &gcirc;ardeno Edena
+        Dio la Eternulo prenis la homon kaj en<tld/>igis lin en la
+        &gcirc;ardeno Edena
         <fnt>
           <bib>MT</bib>
           <lok>Genezo 2:15</lok>
         </fnt>;
       </ekz>
       <ekz>
-        li tuj sendos al vi <klr>[&#8230;]</klr> tutan regimenton por en<tld/>igi
+        li tuj sendos al vi <klr>[&#x2026;]</klr> tutan regimenton por
+        en<tld/>igi
         <fnt>
           <bib>Revizoro</bib>
           <lok>Akto kvara</lok>
@@ -509,16 +562,27 @@
     <trd>loger<klr> (quelqu'un)</klr></trd>
   </trdgrp>
   <trd lng="hu">elsz&aacute;ll&aacute;sol</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F4F;&#x307E;&#x308F;&#x305B;&#x308B;  [<ind>&#x3059;&#x307E;&#x308F;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x6CCA;&#x3081;&#x308B;  [<ind>&#x3068;&#x3081;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">huisvesten</trd>
   <trdgrp lng="pl">
     <trd>da&cacute; <ind>mieszkanie</ind></trd>,
     <trd>zakwaterowa&cacute;</trd>
   </trdgrp>
-  <trd lng="pt">hospedar</trd>
+  <trdgrp lng="pt">
+    <trd>alojar</trd>
+    <trd>hospedar</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_s;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_o;&c_s;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_s;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_je;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&#x43E;&c_s;&c_je;&#x43B;&#x44F;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -562,6 +626,9 @@
     <trd>grand ensemble</trd>,
     <trd>logement collectif</trd>
   </trdgrp>
+  <trd lng="ja">&#x7C21;&#x6613;&#x5BBF;&#x6CCA;&#x6240;  [<ind>&#x304B;&#x3093;&#x3044;&#x3057;&#x3085;&#x304F;&#x306F;&#x304F;&#x3058;&#x3087;</ind>]</trd>
+  <trd lng="pt">alojamento coletivo</trd>
+  <trd lng="uk">&c_g;&c_u;&c_r;&c_t;&#x43E;&c_zh;&c_i;&c_t;&#x43E;&#x43A;</trd>
 </drv>
 
 <drv mrk="logx.ek0i">
@@ -607,11 +674,21 @@
     <trd>take up residence</trd>
   </trdgrp>
   <trd lng="fr">s'<ind>installer</ind><klr> (pour habiter)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F4F;&#x307F;&#x3064;&#x304F;  [<ind>&#x3059;&#x307F;&#x3064;&#x304F;</ind>]</trd>,
+    <trd>&#x5C45;&#x3092;&#x5B9A;&#x3081;&#x308B;  [<ind>&#x304D;&#x3087;&#x3092;&#x3055;&#x3060;&#x3081;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>zamieszka&cacute;</trd>,
     <trd>urz&aogonek;dzi&cacute; si&eogonek;</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_je;&c_l;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43C;&c_je;&c_sh;&#x43A;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&#x43E;&c_s;&c_je;&#x43B;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_ji;&c_h;&c_a;&c_t;&c_i; &#x43D;&c_a;..</trd>,
+    <trd>&#x43F;&c_je;&c_r;&c_je;&c_b;&c_r;&c_a;&c_t;&c_i;&c_s;&#x44F; &#x43D;&c_a;..</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="logx.en0igxi">
@@ -627,7 +704,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        ili <klr>[&#8230;]</klr> en<tld/>i&gcirc;is en <nom>Jerusalem</nom> kun siaj fratoj
+        ili <klr>[&#x2026;]</klr> en<tld/>i&gcirc;is en <nom>Jerusalem</nom> kun siaj
+        fratoj
         <fnt>
           <bib>MT</bib>
           <lok>I. Kroniko 8:32</lok>
@@ -641,7 +719,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        anta&ubreve; ol vi en<tld/>i&gcirc;as en mian &ccirc;ambron, mi devas al vi rimarki, <klr>[&#8230;]</klr>
+        anta&ubreve; ol vi en<tld/>i&gcirc;as en mian &ccirc;ambron, mi devas al vi
+        rimarki, <klr>[&#x2026;]</klr>
         ke oni akurate pagu la luan pagon
         <fnt>
           <bib>FK</bib>
@@ -663,6 +742,7 @@
     <trd>s'<ind>installer</ind><klr> (emm&eacute;nager)</klr></trd>
   </trdgrp>
   <trd lng="hu">bek&ouml;lt&ouml;zik</trd>
+  <trd lng="ja">&#x5165;&#x5C45;&#x3059;&#x308B;  [<ind>&#x306B;&#x3085;&#x3046;&#x304D;&#x3087;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">zijn <ind>intrek</ind> nemen</trd>
   <trdgrp lng="pl">
     <trd>zamieszka&cacute;</trd>,
@@ -681,35 +761,42 @@
     <dif>
       <tld lit="L"/>anto de sama <tld/>ejo:
       <ekz>
-        la produkta&jcirc;oj <klr>[&#8230;]</klr> estu man&gcirc;a&jcirc;o por vi &ccirc;iuj: por vi, por via sklavo,
-        <klr>[&#8230;]</klr> kaj por via kun<tld/>anto, kiuj lo&gcirc;as &ccirc;e vi
+        la produkta&jcirc;oj <klr>[&#x2026;]</klr> estu man&gcirc;a&jcirc;o por vi &ccirc;iuj: por vi,
+        por via sklavo,
+        <klr>[&#x2026;]</klr> kaj por via kun<tld/>anto, kiuj lo&gcirc;as &ccirc;e vi
         <fnt>
           <bib>MT</bib>
           <lok>Levidoj 25:6</lok>
         </fnt>;
       </ekz>
       <ekz>
-        li babilis kvaza&ubreve; ni ja estas ankora&ubreve; kun<tld/>antaj kiel geedzoj
+        li babilis kvaza&ubreve; ni ja estas ankora&ubreve; kun<tld/>antaj kiel
+        geedzoj
         <fnt>
           <bib>Monato</bib>
           <aut>Betty Chatterjee</aut>
-          <vrk><url ref="https://www.monato.be/2007/009304.php">Karulino kanibalino</url></vrk>
+          <vrk><url ref="&Monato;/2007/009304.php">Karulino
+          kanibalino</url></vrk>
           <lok>2007</lok>
         </fnt>;
       </ekz>
       <ekz>
-        tie &ccirc;i lo&gcirc;as homoj de diversaj naciecoj, kutimoj, religioj, rekonante la rajton
+        tie &ccirc;i lo&gcirc;as homoj de diversaj naciecoj, kutimoj, religioj,
+        rekonante la rajton
         al alieco de &ccirc;iu kun<tld/>anto
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007095.html">Pollando: Landlimoj sen limoj</url></vrk>
-        </fnt>.
+          <aut>Zofia Banet-Fornalowa</aut>
+            <vrk><url ref="&Monato;/2000/007095.php">Landlimoj sen limoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 11</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="dom.0ano.ajna">domano</ref>
     </refgrp>
   </snc>
+  <trd lng="bo">&#xF64;&#xF42;&#xF0B;&#xF62;&#xF7C;&#xF42;&#xF66;&#xF0B;</trd>
   <trd lng="de">Mitbewohner</trd>
   <trd lng="en">roommate</trd>
   <trdgrp lng="fr">
@@ -762,7 +849,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marta Sol&iacute;s</aut>
-          <vrk><url ref="https://www.monato.be/2005/008399.php">Unika fervojo en Andoj</url></vrk>
+          <vrk><url ref="&Monato;/2005/008399.php">Unika
+          fervojo en Andoj</url></vrk>
           <lok>2005</lok>
         </fnt>;
       </ekz>
@@ -771,22 +859,26 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj'</aut>
-          <vrk><url ref="https://www.monato.be/2015/011355.php">Komunika&jcirc;o de Ikaro</url></vrk>
+          <vrk><url ref="&Monato;/2015/011355.php">Komunika&jcirc;o de
+          Ikaro</url></vrk>
           <lok>2015</lok>
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;ajnas, ke parto de la pra<tld/>antoj de Finnlando rigardis sin kiel posteulojn
+        &scirc;ajnas, ke parto de la pra<tld/>antoj de Finnlando rigardis sin
+        kiel posteulojn
         de la alko
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="https://www.monato.be/2009/009756.php">Praa religia temo</url></vrk>
+          <vrk><url ref="&Monato;/2009/009756.php">Praa
+          religia temo</url></vrk>
           <lok>2009</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la <nom>Akkadai</nom> (a&ubreve; montanoj), la pra<tld/>antoj en la orienta,
+        la <nom>Akkadai</nom> (a&ubreve; montanoj), la pra<tld/>antoj en la
+        orienta,
         monta parto de la Babela regno
         <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 3a, Lemuel da&ubreve;rigas sian
         esploron</lok></fnt>.
@@ -799,7 +891,16 @@
   <trd lng="de">Ureinwohner</trd>
   <trd lng="en">aboriginal</trd>
   <trd lng="fr">indig&egrave;ne<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5148;&#x4F4F;&#x6C11;  [<ind>&#x305B;&#x3093;&#x3058;&#x3085;&#x3046;&#x307F;&#x3093;</ind>]</trd>,
+    <trd>&#x539F;&#x4F4F;&#x6C11;  [<ind>&#x3052;&#x3093;&#x3058;&#x3085;&#x3046;&#x307F;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_d;&c_r;&c_je;&c_v;&c_n;&c_je;&c_j;&c_sh;&c_i;&c_j; &c_zh;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_v;&c_t;&#x43E;&c_h;&c_t;&#x43E;&#x43D;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&c_ib;&#x43D;&#x43D;&c_i;&c_j; &c_zh;&c_i;&c_t;&c_je;&#x43B;&#x44C;</trd>,
+    <trd>&c_t;&c_u;&c_b;&c_ib;&#x43B;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="logx.pri0i">
@@ -841,8 +942,10 @@
         </fnt>;
       </ekz>
       <ekz>
-        el la belegaj &ccirc;ambroj, en kiuj li anta&ubreve;e lo&gcirc;is, li devis trans<tld/>i&gcirc;i
-        <klr>[&#8230;]</klr> en malgrandan frontonan &ccirc;ambreton tute sub la tegmento
+        el la belegaj &ccirc;ambroj, en kiuj li anta&ubreve;e lo&gcirc;is, li devis
+        trans<tld/>i&gcirc;i
+        <klr>[&#x2026;]</klr> en malgrandan frontonan &ccirc;ambreton tute sub la
+        tegmento
         <fnt>
           <bib>Fab1</bib>
           <lok>Fajrilo</lok>
@@ -880,34 +983,39 @@
     <trd>k&ouml;lt&ouml;zik</trd>,
     <trd>&aacute;tk&ouml;lt&ouml;zik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8EE2;&#x5C45;&#x3059;&#x308B;  [<ind>&#x3066;&#x3093;&#x304D;&#x3087;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5F15;&#x3063;&#x8D8A;&#x3059;  [<ind>&#x3072;&#x3063;&#x3053;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verhuizen</trd>
   <trd lng="pl">przeprowadza&cacute; si&eogonek;</trd>
+  <trd lng="pt">mudar-se<klr> (de endere&ccedil;o)</klr></trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_je;&c_l;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
 </drv>
 </art>
 <!--
-$Log: logx.xml,v $
-versio 1.32 2020/02/13 00:10:32
+$Log$
+versio 1.41 2023/04/30 17:26:27
+Paul Peeraerts: Steloj -> monato
+
+versio 1.40 2023/04/20 06:33:09
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.39 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.37 2022/03/16 16:54:11
+Wolfram Diestel: kor. trd
+
+versio 1.33 2020/03/21 00:10:48
+James Rezende Piton: +trd pt amas~ejo, ~igi, trans~igxi
+
+Revision 1.32  2020/02/12 23:10:31  revo
 Wolfram Diestel: ekz-oj, germ trd-oj
 
 Revision 1.31  2019/07/06 06:10:21  revo
 Aleks Andre: zh: indekso
 
 Revision 1.30  2018/05/16 19:10:21  revo
-Benoit Soubeyran: +he
-
-Revision 1.29  2017/01/26 09:10:16  revo
-Adam Eng: trd ms
-
-Revision 1.28  2016/12/17 06:10:13  revo
-Darcy Shen: +trd zh
-
-Revision 1.27  2016/04/12 10:10:22  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.26  2015/11/27 07:10:14  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.25  2015/09/30 13:10:15  revo
 -->
 </vortaro>

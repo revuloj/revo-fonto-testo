@@ -7,7 +7,8 @@
 ]>
 
 <svg version="1.1" 
-  width="10cm" height="10cm" 
+  xmlns="http://www.w3.org/2000/svg"
+  width="400" height="400" 
   viewBox="-&scale; -&scale; &scale_2; &scale_2;"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   onload="start(evt,&scale;)">
@@ -47,8 +48,8 @@
         var inc = (x1-x0)/500;
         scale_xy = 130;
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
-        var svgroot = svgdoc.getDocumentElement();
+        var svgdoc = evt.target.ownerDocument;
+        var svgroot = svgdoc.documentElement;
 
         // Montri la aksojn
         var objet = svgdoc.getElementById("x_akso_pinto");
@@ -172,14 +173,14 @@
 
     <path id="tanĝanto" d=""
       style="stroke-width:2" class="streketita"/>
-    <text class="nomo">
-      <textPath xlink:href="#tanĝanto" dy="-5" startOffset="21%">tanĝanto</textPath>
+    <text class="nomo" dy="-5">
+      <textPath xlink:href="#tanĝanto" startOffset="21%">tanĝanto</textPath>
     </text>
 
     <path id="ortanto" d=""
       style="stroke-width:2" class="streketita"/>
-    <text class="nomo">
-      <textPath xlink:href="#ortanto" dy="-5" startOffset="55%">ortanto</textPath>
+    <text class="nomo" dy="-5">
+      <textPath xlink:href="#ortanto" startOffset="55%">ortanto</textPath>
     </text>
 
 
@@ -195,8 +196,8 @@
 
     <path id="kurbecocirklo" d=""
       style="fill:none; stroke-width:2" class="streketita"/>
-    <text class="nomo">
-      <textPath xlink:href="#kurbecocirklo" dy="-5" startOffset="65%">kurbecocirklo</textPath>
+    <text class="nomo" dy="-5">
+      <textPath xlink:href="#kurbecocirklo" startOffset="65%">kurbecocirklo</textPath>
     </text>
 
 
@@ -205,8 +206,8 @@
     -->
 
     <path id="kurbo" class="kurbo" d=""/>
-    <text class="parametro">
-      <textPath xlink:href="#kurbo" dy="-5" startOffset="21%">
+    <text class="parametro" dy="-5">
+      <textPath xlink:href="#kurbo" startOffset="21%">
         <tspan style="font-style: italic">y</tspan> = 
         <tspan style="font-style: italic">f</tspan>(<tspan style="font-style: italic">x</tspan>)
       </textPath>
@@ -221,7 +222,7 @@
     <line id="kurantapunkto_absciso" x1="" x2="" y1="" y2="" class="akso"/>
     <text id="kurantapunkto_abscisnomo" x="" y=""
       text-anchor="middle" class="nomo">
-      <tspan style="font-style: italic">x</tspan><tspan baseline-shift="-50%" class="indico">0</tspan>
+      <tspan style="font-style: italic">x</tspan><tspan dy="5" class="indico">0</tspan>
     </text>
 
     <circle id="kurbecocentro" cx="" cy="" r="4" 
@@ -237,7 +238,7 @@
     Klarigo
   -->
 
-  <rect x="-8" y="120" width="150" height="75" class="klarigo" style="fill-opacity: 0.9" />
+  <rect x="-8" y="120" width="180" height="75" class="klarigo" style="fill-opacity: 0.9" />
 
   <text x="-5" y="140" class="klarigo">
     C : kurbecocentro 
@@ -249,7 +250,8 @@
 
   <text x="-5" y="180" class="klarigo">
     tg α = 
-    <tspan style="font-style: italic">f</tspan> &#8242;(<tspan style="font-style: italic">x</tspan><tspan baseline-shift="-50%" class="indico">0</tspan>)
+    <tspan style="font-style: italic">f</tspan> &#8242;(<tspan style="font-style: italic">x</tspan
+    ><tspan dy="5" class="indico">0</tspan><tspan dx="1" dy="-5">)</tspan>
   </text>
 
 </svg>

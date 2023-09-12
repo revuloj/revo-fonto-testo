@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cic.xml,v 1.19 2009/08/08 16:32:40 revo Exp $">
+<art mrk="$Id: cic.xml,v 1.30 2023/08/31 10:10:26 revo Exp $">
 <kap>
   <ofc>9</ofc>
   <rad>cic</rad>/o <fnt><bib>SPV</bib></fnt>
@@ -48,8 +47,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan MacAoidh</aut>
-          <vrk><url ref="https://www.monato.be/2015/011495.php"
-              >Dana abako dolorigas la kapon</url></vrk>
+          <vrk><url ref="&Monato;/2015/011495.php">Dana abako dolorigas la
+          kapon</url></vrk>
           <lok>2015</lok>
         </fnt>.
       </ekz>
@@ -61,7 +60,8 @@
       <aut>Sergio Pokrovskij</aut>
     </rim>
     <rim>
-      Plie la germana vorto &leftquot;<nac>Zitze</nac>&rightquot; uzi&gcirc;as por &ccirc;iuj mampintoj de mamuloj, <em>krom</em> tiuj de
+      Plie la germana vorto &leftquot;<nac>Zitze</nac>&rightquot; uzi&gcirc;as por &ccirc;iuj mampintoj de mamuloj, <em>krom</em>
+      tiuj de
       simioj kaj homoj, kiujn oni nomas &leftquot;<nac>Brustwarze</nac>&rightquot;.
       <aut>Wolfram Diestel</aut>
     </rim>
@@ -89,7 +89,11 @@
   <trd lng="hu">mellbimb&oacute;</trd>
   <trd lng="io">mamilo</trd>
   <trd lng="it">capezzolo</trd>
-  <trd lng="iu">&#5287;&#5333;&#5251;</trd>
+  <trd lng="iu">&#x14A7;&#x14D5;&#x1483;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E73;&#x9996;  [<ind>&#x3061;&#x304F;&#x3073;</ind>]</trd>,
+    <trd>&#x4E73;&#x982D;  [<ind>&#x306B;&#x3085;&#x3046;&#x3068;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="lat">papilla, ae</trd>
   <trd lng="nl">tepel</trd>
   <trd lng="pl">brodawka</trd>
@@ -100,6 +104,11 @@
   <trd lng="sk">prsn&aacute; bradavka</trd>
   <trd lng="sv">br&ouml;stv&aring;rta</trd>
   <trd lng="tr">meme ba&scedil;&inodot;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43E;&c_s;&#x43E;&#x43A;</trd>,
+    <trd>&c_c;&c_i;&c_c;&#x44C;&#x43A;&c_a;</trd>,
+    <trd>&c_c;&c_i;&c_c;&#x44F;</trd>
+  </trdgrp>
   <trd lng="vo">bl&ouml;tat&auml;t</trd>
 </drv>
 
@@ -113,8 +122,7 @@
         su&ccirc;botelo a&ubreve; bebobotelo estas botelo kun surfiksita su&ccirc;ilsimila <tld/>umo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=241812"
-              >Su&ccirc;botelo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=241812">Su&ccirc;botelo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -126,11 +134,13 @@
   <trd lng="en">nipple</trd>
   <trd lng="es">tetina</trd>
   <trd lng="fr">t&eacute;tine</trd>
+  <trd lng="he">&#x5DE;&#x5D5;&#x5E6;&#x5E5;</trd>
   <trdgrp lng="hu">
     <trd>cumi<klr tip="ind"> (palackon)</klr></trd>,
     <trd>cucli<klr tip="ind"> (palackon)</klr></trd>
   </trdgrp>
   <trd lng="it">tettarella</trd>
+  <trd lng="ja">&#x4E73;&#x9996;  [<ind>&#x3061;&#x304F;&#x3073;</ind>]</trd>
   <trd lng="nl">speen<klr tip="ind"> (aan fles)</klr></trd>
   <trd lng="pl">smoczek</trd>
   <trd lng="pt">bico de mamadeira</trd>
@@ -141,6 +151,12 @@
 </art>
 <!--
 $Log$
+versio 1.29 2022/04/26 16:27:52
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.28 2022/03/15 16:46:27
+Wolfram Diestel: kor. trd
+
 Revision 1.24  2018/08/07 09:10:16  revo
 Michel Cantigneaux: aperas unue en SPV (1953), oficiala en 9OA (2007)
 
@@ -157,8 +173,5 @@ Revision 1.20  2013/09/29 20:10:11  revo
 Vito Redsky: +trd ro
 
 Revision 1.19  2009/08/08 16:32:40  revo
-Antonio Codazzi: +trd it
-
-Revision 1.18  2008/11/23 19:13:23  revo
 -->
 </vortaro>

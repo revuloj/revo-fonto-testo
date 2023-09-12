@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: manome.xml,v 1.12 2006/07/29 16:33:02 revo Exp $">
+<art mrk="$Id: manome.xml,v 1.16 2023/09/02 06:04:09 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>manometr</rad>/o
@@ -16,14 +15,16 @@
       <ref tip="super" cel="aparat.0o.TEK">Aparato</ref>
       por mezuri premon de gasoj kaj vaporoj:
       <ekz>
-        <tld/>oj kiuj mezuras la diferencon inter la atmosfera premo kaj la premo de la
-        mezurata punkto povas tiam esti uzataj kiel vakumetroj pro la fakto, ke ili
-        povas indiki &leftquot;negativan&rightquot; premon (pli precize, negativa premo-diferenco
+        <tld/>oj kiuj mezuras la diferencon inter la atmosfera premo kaj
+        la premo de la
+        mezurata punkto povas tiam esti uzataj kiel vakumetroj pro la
+        fakto, ke ili
+        povas indiki &leftquot;negativan&rightquot; premon (pli precize, negativa
+        premo-diferenco
         koncerne al atmosfera premo)
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=589388"
-              >Manometro</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=589388">Manometro</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -40,16 +41,26 @@
     <trd>manom&eacute;ter</trd>,
     <trd>nyom&aacute;sm&eacute;r&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5727;&#x529B;&#x8A08;  [<ind>&#x3042;&#x3064;&#x308A;&#x3087;&#x304F;&#x3051;&#x3044;</ind>]</trd>,
+    <trd>&#x30DE;&#x30CE;&#x30E1;&#x30FC;&#x30BF;&#x30FC;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>manometer</trd>,
     <trd>drukmeter</trd>
   </trdgrp>
+  <trd lng="pl">manometr</trd>
   <trd lng="pt">man&ocirc;metro</trd>
+  <trd lng="ro">manometru</trd>
   <trd lng="ru">&c_m;&c_a;&c_n;&c_o;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="uk">&#x43C;&#x430;&#x43D;&#x43E;&#x43C;&#x435;&#x442;&#x440;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.14 2020/06/04 19:10:34
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.12  2006/07/29 16:33:02  revo
 Tulio Flores: +tr pt
 

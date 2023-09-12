@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: delika.xml,v 1.17 2009/06/03 16:30:37 revo Exp $">
+<art mrk="$Id: delika.xml,v 1.113 2023/08/31 10:43:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>delikat</rad>/a
@@ -13,12 +12,8 @@
     <uzo tip="klr">(io)</uzo>
     <dif>
       Neforte kaj neakre impresanta la sentumojn a&ubreve; la
-      spiriton, <ref tip="vid" cel="mild.0a">milda</ref>,
-      <ref tip="vid" cel="dolcx.0a">dol&ccirc;a</ref>:
-      <ekz>
-        <tld/>a fajfo, bruo, tu&scirc;o, pa&scirc;o, diferenco, deklivo,
-        kiso;
-      </ekz>
+      spiriton, <ref cel="mild.0a">milda</ref>,
+      <ref cel="dolcx.0a">dol&ccirc;a</ref>:
       <ekz>
         a&ubreve;di&gcirc;is blovado de <tld/>a venteto
         <fnt>
@@ -27,12 +22,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>a sono de l' pluvo falanta sur molan
-        teron<fnt>B</fnt>;
-      </ekz>
-      <ekz>
         sur la supra&jcirc;o de la dezerto ku&scirc;as io <tld/>a, sen&scirc;ela, <tld/>a kiel prujno sur
-        la tero <klr>[ili]</klr> donis al &gcirc;i la nomon manao
+        la tero, <klr>[ili]</klr> donis al &gcirc;i la nomon manao
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 16:14</lok>
@@ -42,17 +33,58 @@
         <tld/>a nebulo
         <fnt><bib>Far2</bib> <lok>&ccirc;ap. 22</lok></fnt>.
       </ekz>
+      <ekz>
+        la <tld/>aj sed nudaj deklivoj de Libiaj montoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la kvieta silento <klr>[&#x2026;]</klr> eksonis <tld/>a fajfo
+        <fnt>
+          <bib>IKr</bib>
+          <lok>Neniam Plu!</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anstata&ubreve; bruado de l&#x2019; pluvo <klr>[&#x2026;]</klr>
+        oni a&ubreve;dis nun <tld/>an sonon de l&#x2019;
+        akvo, falanta sur molan teron
+        <fnt>
+          <bib>IKr</bib>
+          <lok>La Miraklo De Purun Bhagat</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a kaj diskreta parfumodoro
+        <fnt>
+          <bib>LGA</bib>
+          <lok>II.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a diferenco <klr>(<ref cel="nuanc.0o">nuanco</ref>)</klr>;
+      </ekz>
+      <ekz>
+        la nuboj nuanci&gcirc;is en <tld/>aj koloroj
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vo&ccirc;o <klr>[&#x2026;]</klr> <tld/>a kiel tiu de malgranda birdo dormante kantanta
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Infana Imperiestrino</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <subsnc mrk="delika.0a.io_bona">
       <dif>
         Pla&ccirc;a per sia alta kvalito kaj nevulgareco:
-        <ekz>
-          <tld/>a man&gcirc;o, vino, parfumo, plezuro, esprimo, nuanco,
-          koloro, punto, rideto;
-        </ekz>
-        <ekz>
-          <tld/>aj trajtoj, manoj;
-        </ekz>
         <ekz>
           <tld/>a tritika faruno
           <fnt>
@@ -69,6 +101,24 @@
           </fnt>;
         </ekz>
         <ekz>
+          <tld/>ledaj &scirc;uoj
+          <fnt><bib>MT</bib> <lok>&Jeh; 16:10</lok></fnt>.
+        </ekz>
+        <ekz>
+          plensana viza&gcirc;o kun dol&ccirc;aj, <tld/>aj trajtoj
+          <fnt>
+            <bib>I&scirc;tar</bib>
+            <lok>&Ccirc;apitro V</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          plej <tld/>a vino
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>&Gcirc;ardeno de la paradizo</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
           <tld/>a fi&scirc;o
           <fnt>
             <bib>Fab1</bib>
@@ -76,17 +126,28 @@
           </fnt>;
         </ekz>
         <ekz>
-          <tld/>ledaj &scirc;uoj
-          <fnt><bib>MT</bib> <lok>&Jeh; 16:10</lok></fnt>.
+          la odoro de la <tld/>a man&gcirc;a&jcirc;o faris al &scirc;i bone
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>&Scirc;i estis tute senta&ubreve;ga</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          lia humuro ne estis &ccirc;i-kaze el la plej <tld/>a speco
+          <fnt>
+            <bib>ChV</bib>
+            <lok>16</lok>
+          </fnt>.
         </ekz>
       </dif>
       <refgrp tip="vid">
+        <ref cel="fajn.0a">fajna</ref>,
         <ref cel="rafin">rafinita</ref>,
         <ref cel="subtil.0a">subtila</ref>,
-        <ref cel="nobl.0a">nobla</ref>.
+        <ref cel="nobl.0a">nobla</ref>
       </refgrp>
       <refgrp tip="vid">
-        <ref cel="polur.0i">poluri</ref>.
+        <ref cel="polur.0i">poluri</ref>
       </refgrp>
       <trd lng="de">delikat</trd>
       <trd lng="hu">finom</trd>
@@ -102,22 +163,51 @@
     </subsnc>
     <subsnc mrk="delika.0a.io_malbona">
       <dif>
-        Facile rompebla, facile difektebla:
+        Facile <ref cel="romp.0ebla">rompebla</ref>, facile <ref cel="difekt.0ebla">difektebla</ref>:
         <ekz>
-          <tld/>a teksa&jcirc;o, vazo,
-          aparato;
+          vestita per tuniko el <tld/>a tolo
+          <fnt>
+            <bib>MT</bib>
+            <lok>I. Kroniko 15:27</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          <tld/>a kiel aranea reto;
+          <tld/>a porcelano, tiel multekosta, sed anka&ubreve; tiel rompebla
+          <fnt>
+            <bib>Fab2</bib>
+            <lok>La najtingalo</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          feli&ccirc;o estas <tld/>a floro;
+          per siaj <tld/>aj manoj &scirc;i komencis &scirc;iri la abomenindan urtikon
+          <fnt>
+            <bib>Fab1</bib>
+            <lok>Sova&gcirc;aj cignoj</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          <tld/>a a&gcirc;o, sano, ha&ubreve;to;
+          &ccirc;apelo el <tld/>a pajlo pendis sur &scirc;ia dorso
+          <fnt>
+            <bib>MrA</bib>
+            <lok>&Ccirc;apitro I</lok>
+          </fnt>;
         </ekz>
         <ekz>
-          li alligas al <klr>[&#8230;]</klr> <tld/>a vinberbran&ccirc;o la filon de sia azenino
+          pli <tld/>a ol aranea&jcirc;o
+          <fnt>
+            <bib>Fab3</bib>
+            <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          kion perfektan oni povas atendi de tia <tld/>a a&gcirc;o
+          <fnt>
+            <bib>Rabistoj</bib>
+            <lok>Akto Unua</lok>
+          </fnt>?
+        </ekz>
+        <ekz>
+          li alligas al <klr>[&#x2026;]</klr> <tld/>a vinberbran&ccirc;o la filon de sia azenino
           <fnt>
             <bib>MT</bib>
             <lok>Genezo 49:11</lok>
@@ -140,7 +230,7 @@
       </dif>
       <refgrp tip="vid">
         <ref cel="fort">malforta</ref>,
-        <ref cel="dik">maldika</ref>.
+        <ref cel="dik">maldika</ref>
       </refgrp>
       <trd lng="de">zerbrechlich</trd>
       <trdgrp lng="de">
@@ -165,19 +255,32 @@
           <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 18</lok></fnt>;
         </ekz>
         <ekz>
-          <tld/>a punkto, situacio, cirkonstanco.
+          &scirc;i volis konigi al sia patrino siajn dubojn
+          pri tiu <tld/>a punkto
+          <fnt>
+            <bib>KPr</bib>
+            <lok>&Ccirc;apitro Dekunua</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          pruntodonanto ekspluatas <tld/>an situacion de la pruntoprenanto por postuli
+          maljuste altan interezon
+        <fnt><aut>Bo Sandelin</aut>:
+          <vrk><url ref="&Monato;/2001/007279.php">Anta&ubreve;merkantilisma ekonomia pensado</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/02, p. 16</lok>
+        </fnt>.
         </ekz>
       </dif>
       <refgrp tip="vid">
-        <ref cel="tikl.0a">tikla</ref>.
+        <ref cel="tikl.0a.malfacila">tikla<sncref/></ref>
       </refgrp>
       <trdgrp lng="de">
         <trd>empfindlich</trd>
       </trdgrp>
       <trd lng="hu">k&eacute;nyes<klr tip="ind"> (&aacute;tv.)</klr></trd>
       <trd lng="pl">delikatny</trd>
-      <trd
-      lng="ru">&c_d;&c_je;&c_l;&c_i;&c_k;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
+      <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_k;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
     </subsnc>
     <trd lng="de">sanft</trd>
     <trd lng="hu">l&aacute;gy</trd>
@@ -190,19 +293,34 @@
   <snc mrk="delika.0a.iu">
     <uzo tip="klr">(iu)</uzo>
     <dif>
-      Facile impresebla, sentema, akresenta,
-      <ref tip="vid" cel="subtil.0a.sente">subtila<sncref/></ref>,
+      Facile <ref cel="impres.0ebla.PSI">impresebla</ref>, <ref cel="sent.0ema">sentema</ref>,
+      akresenta, <ref tip="vid" cel="subtil.0a.sente">subtila<sncref/></ref>,
       <ref tip="vid" cel="sagac.0a">sagaca</ref>:
       <ekz>
-        <tld/>a orelo, pesilo, spirito;
+        <tld/>a konanto de karakteroj.
       </ekz>
       <ekz>
-        <tld/>a konanto de karakteroj.
+        sinjoro <nom>Gallimore</nom> jam havas spertojn super sia a&gcirc;o kaj posedas <tld/>an,
+        filozofian spiriton
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[vi]</klr> havas tiel delikatajn orelojn, ke diri simple, kiel &ccirc;iu
+        normalulo, &#x201A;sinjoro doktoro&#x2018; al vi &scirc;iras la timpanon
+        <fnt>
+          <bib>ChC</bib>
+          <lok>6</lok>
+        </fnt>.
       </ekz>
     </dif>
     <subsnc mrk="delika.0a.iu_bona">
       <dif>
-        Taktoplena, diskreta, netroiganta, ne ofendema:
+        <ref cel="takt.0a.MOR">Taktoplena</ref>,
+        <ref cel="diskre.0a.delikata">diskreta</ref>,
+        netroiganta, ne ofendema:
         <ekz>
           <tld/>a la&ubreve;do;
         </ekz>
@@ -211,6 +329,9 @@
           <fnt><bib>Fab2</bib>, <lok>Ne&gcirc;a re&gcirc;ino</lok></fnt>.
         </ekz>
       </dif>
+      <refgrp tip="vid">
+        <ref cel="moder.0a">modera</ref>
+      </refgrp>
       <trdgrp lng="de">
         <trd>zur&uuml;ckhaltend</trd>,
         <trd>vorsichtig</trd>,
@@ -221,14 +342,14 @@
         <trd>diszkr&eacute;t</trd>
       </trdgrp>
       <trd lng="pl">delikatny</trd>
-      <trd
-      lng="ru">&c_d;&c_je;&c_l;&c_i;&c_k;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
+      <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_k;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
     </subsnc>
     <subsnc mrk="delika.0a.iu_malbona">
       <dif>
-        Malfacile kontentigebla; elektema, rafinita; tro<tld/>a:
+        Malfacile kontentigebla; <ref cel="elekt.0ema">elektema</ref>, <ref cel="rafin.0ita">rafinita</ref>;
+        tro<tld/>a:
         <ekz>
-          viro <tld/>a <klr>[&#8230;]</klr> kaj tre alkutimi&gcirc;inta al lukso
+          viro <tld/>a <klr>[&#x2026;]</klr> kaj tre alkutimi&gcirc;inta al lukso
           <fnt>
             <bib>MT</bib>
             <lok>Readmono 28:54</lok>
@@ -240,20 +361,26 @@
           <fnt>
             <bib>MT</bib>
             <lok>Readmono 28:56</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          <klr>[tio]</klr> sola povis kvietigi la ripro&ccirc;ojn de lia tro <tld/>a konscienco
+          <fnt>
+            <bib>KPr</bib>
+            <lok>&Ccirc;apitro Kvina</lok>
           </fnt>.
         </ekz>
       </dif>
       <refgrp tip="vid">
         <ref cel="postul.0ema">postulema</ref>,
-        <ref cel="frand">frandema</ref>.
+        <ref cel="frand">frandema</ref>
       </refgrp>
       <trdgrp lng="de">
         <trd>anspruchsvoll</trd>,
         <trd>schn&auml;kisch</trd>
       </trdgrp>
       <trd lng="hu">k&eacute;nyesked&odblac;</trd>
-      <trd
-      lng="ru">&c_p;&c_r;&c_i;&c_v;&c_je;&c_r;&c_je;&c_d;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
+      <trd lng="ru">&c_p;&c_r;&c_i;&c_v;&c_je;&c_r;&c_je;&c_d;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
     </subsnc>
     <trdgrp lng="de">
       <trd>empfindlich</trd>,
@@ -263,6 +390,12 @@
     <trd lng="pl">delikatny</trd>
     <trd lng="ru">&c_t;&c_o;&c_n;&c_k;&c_i;&c_j;</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_ja;&c_k;&c_k;&c_ib;</trd>,
+    <trd>&c_t;&c_a;&c_k;&c_t;&c_o;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_zha;&t_gigu;&t_ma;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
   <trdgrp lng="ca">
     <trd>delicat</trd>,
     <trd>fi</trd>,
@@ -293,6 +426,16 @@
     <trd>&resh;&gimel;&yod;&shin;</trd>,
     <trd>&pe;&gimel;&yod;&ayin;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7E4A;&#x7D30;&#x306A;  [<ind>&#x305B;&#x3093;&#x3055;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x6D17;&#x7DF4;&#x3055;&#x308C;&#x305F;  [<ind>&#x305B;&#x3093;&#x308C;&#x3093;&#x3055;&#x308C;&#x305F;</ind>]</trd>,
+    <trd>&#x512A;&#x7F8E;&#x306A;  [<ind>&#x3086;&#x3046;&#x3073;&#x306A;</ind>]</trd>,
+    <trd>&#x4E0A;&#x54C1;&#x306A;  [<ind>&#x3058;&#x3087;&#x3046;&#x3072;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x92ED;&#x654F;&#x306A;  [<ind>&#x3048;&#x3044;&#x3073;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x654F;&#x611F;&#x306A;  [<ind>&#x3073;&#x3093;&#x304B;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x304D;&#x3083;&#x3057;&#x3083;&#x306A;</trd>,
+    <trd>&#x58CA;&#x308C;&#x3084;&#x3059;&#x3044;  [<ind>&#x3053;&#x308F;&#x308C;&#x3084;&#x3059;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>delicado</trd>,
     <trd>fino</trd>,
@@ -307,6 +450,15 @@
     <trd>jemn&yacute;</trd>,
     <trd>subt&iacute;lny</trd>,
     <trd>&uacute;tly</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_ib;&c_zh;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_i;&c_t;&c_o;&c_n;&c_ch;&c_je;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_t;&c_o;&c_n;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_r;&c_ib;&c_b;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_je;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_je;&c_g;&c_k;&c_i;&c_j; (&c_sh;&c_u;&c_m;</trd>,
+    <trd>&c_p;&c_o;&c_c;&c_ib;&c_l;&c_u;&c_n;&c_o;&c_k; &c_ib; &c_t;.&c_p;.)</trd>
   </trdgrp>
 </drv>
 
@@ -393,6 +545,17 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">sagte</trd>
+  <trd lng="am">&#x1308;&#x122B;&#x1308;&#x122D;</trd>
+  <trd lng="ar">&a_l;&a_T;&a_y;&a_f;</trd>
+  <trd lng="az">inc&#x259;</trd>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_n;&c_a;</trd>,
+    <trd>&c_m;&c_ja;&c_k;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_a;&c_k;&c_t;&c_o;&c_w;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9AE;&#x9C3;&#x9A6;&#x9C1;</trd>
+  <trd lng="bs">blagim</trd>
   <trd lng="ca">delicadament</trd>
   <trdgrp lng="cs">
     <trd>decentnost</trd>,
@@ -407,26 +570,93 @@
     <trd>vhodn&ecaron;</trd>,
     <trd>zdr&zcaron;enliv&ecaron;</trd>
   </trdgrp>
+  <trd lng="cy">ysgafn</trd>
+  <trd lng="da">blid</trd>
   <trdgrp lng="en">
     <trd>delicately</trd>,
     <trd>mildly</trd>
   </trdgrp>
   <trd lng="es">delicadamente</trd>
+  <trd lng="et">&otilde;rn</trd>
+  <trd lng="eu">leuna</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;licatement</trd>,
     <trd>doucement</trd>,
     <trd>soigneusement</trd>
   </trdgrp>
+  <trd lng="fy">s&ecirc;fte</trd>
+  <trd lng="ga">mh&iacute;n</trd>
+  <trd lng="gd">socair</trd>
+  <trd lng="gl">suave</trd>
+  <trd lng="gu">&#xAB8;&#xACC;&#xAAE;&#xACD;&#xAAF;</trd>
+  <trd lng="hi">&#x915;&#x94B;&#x92E;&#x932;</trd>
+  <trd lng="hmn">maj mam</trd>
+  <trd lng="hr">nje&zcaron;an</trd>
+  <trd lng="ht">dou</trd>
+  <trd lng="hy">&#x574;&#x565;&#x572;&#x574;</trd>
+  <trd lng="ig">nway&#x1ECD;&#x1ECD;</trd>
+  <trd lng="is">bl&iacute;&#xF0;ur</trd>
+  <trd lng="ja">&#x512A;&#x3057;&#x3044; [<ind>&#x3084;&#x3055;&#x3057;&#x3044;</ind>]</trd>
+  <trd lng="jv">lanang</trd>
+  <trd lng="ka">&#x10DC;&#x10D0;&#x10D6;&#x10D8;</trd>
+  <trd lng="kk">&c_zh;&#x4B1;&c_m;&c_s;&c_a;&#x49B;</trd>
+  <trd lng="km">&#x179F;&#x17BB;&#x1797;&#x17B6;&#x1796;&#x179A;&#x17B6;&#x1794;</trd>
+  <trd lng="kn">&#xCB6;&#xCBE;&#xC82;&#xCA4;</trd>
+  <trd lng="ko">&#xBD80;&#xB4DC;&#xB7EC;&#xC6B4;</trd>
+  <trd lng="ku">nerm</trd>
+  <trd lng="ky">&c_zh;&c_u;&c_m;&c_sh;&c_a;&c_k;</trd>
+  <trd lng="lat">mitis</trd>
+  <trd lng="lo">&#xEAD;&#xEC8;&#xEAD;&#xE99;&#xE99;&#xEC9;&#xEAD;&#xEA1;</trd>
+  <trd lng="lt">&scaron;velnus</trd>
+  <trd lng="lv">maigs</trd>
+  <trd lng="mg">malemy fanahy</trd>
+  <trd lng="mi">ngawari</trd>
+  <trd lng="mk">&c_n;&c_je;&c_zh;&c_je;&c_n;</trd>
+  <trd lng="ml">&#xD36;&#xD3E;&#xD28;&#xD4D;&#xD24;&#xD28;&#xD41;&#xD02;</trd>
+  <trd lng="mn">&c_z;&#x4E9;&#x4E9;&c_l;&#x4E9;&c_n;</trd>
+  <trd lng="mr">&#x938;&#x92D;&#x94D;&#x92F;</trd>
+  <trd lng="ms">lembut</trd>
+  <trd lng="mt">&#x121;entili</trd>
+  <trd lng="my">&#x1014;&#x1030;&#x1038;&#x100A;&#x1036;&#x1037;&#x101E;&#x102D;&#x1019;&#x103A;&#x1019;&#x103D;&#x1031;&#x1037;</trd>
+  <trd lng="ne">&#x915;&#x94B;&#x92E;&#x932;</trd>
+  <trd lng="ny">wodekha</trd>
+  <trd lng="pa">&#xA15;&#xA4B;&#xA2E;&#xA32;</trd>
   <trd lng="pl">delikatnie</trd>
+  <trd lng="ps">&a_n;&a_r;&a_m;</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_o;&c_n;&c_k;&c_o;</trd>,
     <trd>&c_d;&c_je;&c_l;&c_i;&c_k;&c_a;&c_t;&c_n;&c_o;</trd>
   </trdgrp>
+  <trd lng="rw">witonda</trd>
+  <trd lng="sd">&a_m;&a_h;&a_r;&a_b;&a_A;&a_n;</trd>
+  <trd lng="si">&#xDB8;&#xDD8;&#xDAF;&#xDD4;</trd>
   <trdgrp lng="sk">
     <trd>decentne</trd>,
     <trd>jemne</trd>,
     <trd>primerane</trd>
   </trdgrp>
+  <trd lng="sl">ne&zcaron;na</trd>
+  <trd lng="sm">mal&#x163B;</trd>
+  <trd lng="sn">munyoro</trd>
+  <trd lng="so">tur</trd>
+  <trd lng="sq">i but&euml;</trd>
+  <trd lng="st">bonolo</trd>
+  <trd lng="su">hipu</trd>
+  <trd lng="sw">mpole</trd>
+  <trd lng="ta">&#xBAE;&#xBC6;&#xBA9;&#xBCD;&#xBAE;&#xBC8;&#xBAF;&#xBBE;&#xBA9;</trd>
+  <trd lng="te">&#xC38;&#xC41;&#xC28;&#xC4D;&#xC28;&#xC3F;&#xC24;&#xC2E;&#xC48;&#xC28;</trd>
+  <trd lng="tg">&c_m;&c_u;&c_l;&c_o;&c_i;&c_m;</trd>
+  <trd lng="th">&#xE2D;&#xE48;&#xE2D;&#xE19;&#xE42;&#xE22;&#xE19;</trd>
+  <trd lng="tl">magiliw</trd>
+  <trd lng="tt">&c_j;&c_o;&c_m;&c_sh;&c_a;&c_k;</trd>
+  <trd lng="uk">&c_n;&c_ib;&c_zh;&c_n;&c_i;&c_j;</trd>
+  <trd lng="ur">&a_n;&a_r;&a_m;</trd>
+  <trd lng="uz">yumshoq</trd>
+  <trd lng="vi">nh&#x1EB9; nh&agrave;ng</trd>
+  <trd lng="xh">nobubele</trd>
+  <trd lng="yi">&tsadi;&alef;&#x5B7;&resh;&tet;</trd>
+  <trd lng="yo">on&iacute;r&#x1EB9;l&#x1EB9;</trd>
+  <trd lng="zu">mnene</trd>
 </drv>
 
 <drv mrk="delika.0ajxo">
@@ -435,7 +665,7 @@
     <dif>
       <tld lit="D"/>a objekto:
       <ekz>
-        ili dormadis sur molaj kusenoj <klr>[&#8230;]</klr>, man&gcirc;adis bonegajn <tld/>a&jcirc;ojn
+        ili dormadis sur molaj kusenoj <klr>[&#x2026;]</klr>, man&gcirc;adis bonegajn <tld/>a&jcirc;ojn
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -458,9 +688,18 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_e;&c_s;</trd>,
+    <trd>&c_n;&c_je;&c_sh;&c_t;&c_a; <ind>&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_n;&c_a;&c_je;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Zartes</trd>,
+    <trd>Feines</trd>
+  </trdgrp>
   <trd lng="fr">bibelot</trd>
+  <trd lng="ja">&#x304A;&#x3044;&#x3057;&#x3044;&#x98DF;&#x3079;&#x7269;  [<ind>&#x304A;&#x3044;&#x3057;&#x3044;&#x305F;&#x3079;&#x3082;&#x306E;</ind>]</trd>
+  <trd lng="uk">&c_d;&c_je;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_je;&c_s;</trd>
 </drv>
-
 
 <drv mrk="delika.mal0a">
   <kap>mal<tld/>a</kap>
@@ -544,6 +783,11 @@
       </dif>
     </subsnc>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_u;&c_b;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_v;&c_u;&c_l;&c_mol;&c_g;&c_a;&c_r;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>bast</trd>,
     <trd>grosser</trd>,
@@ -573,6 +817,12 @@
     <trd>k&ouml;z&ouml;ns&eacute;ges</trd>,
     <trd>tapintatlan</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7C97;&#x91CE;&#x306A;  [<ind>&#x305D;&#x3084;&#x306A;</ind>]</trd>,
+    <trd>&#x4E0B;&#x54C1;&#x306A;  [<ind>&#x3052;&#x3072;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x7C97;&#x96D1;&#x306A;  [<ind>&#x305D;&#x3056;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x7C97;&#x524A;&#x308A;&#x306E;  [<ind>&#x3042;&#x3089;&#x3051;&#x305A;&#x308A;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>niedelikatny</trd>,
     <trd>grubia&nacute;ski</trd>,
@@ -586,6 +836,10 @@
     <trd>hrub&yacute;</trd>,
     <trd>neslu&scaron;n&yacute;</trd>,
     <trd>surov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_r;&c_u;&c_b;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_u;&c_l;&c_mol;&c_gu;&c_a;&c_r;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -629,6 +883,11 @@
       <ref cel="kares.mal0i">malkaresi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_u;&c_b;&c_a;</trd>,
+    <trd>&c_n;&c_je;&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_n;&c_a;</trd>,
+    <trd>&c_v;&c_u;&c_l;&c_mol;&c_g;&c_a;&c_r;&c_n;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>bastament</trd>,
     <trd>ordin&agrave;riament</trd>
@@ -639,6 +898,10 @@
     <trd>cr&ucirc;ment</trd>,
     <trd>rudement</trd>,
     <trd>brusquement<klr tip="ind"> (sans &eacute;gards)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7C97;&#x96D1;&#x306B;  [<ind>&#x305D;&#x3056;&#x3064;&#x306B;</ind>]</trd>,
+    <trd>&#x4E0B;&#x54C1;&#x306B;  [<ind>&#x3052;&#x3072;&#x3093;&#x306B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>niedelikatnie</trd>,
@@ -683,6 +946,7 @@
       <ref cel="sxtip.0o">&scirc;tipo</ref>.
     </refgrp>
   </snc>
+  <trd lng="be">&c_g;&c_r;&c_u;&c_b;&c_ib;&c_ja;&c_n;</trd>
   <trdgrp lng="ca">
     <trd>barroer</trd>,
     <trd>bast<klr> (subst.)</klr></trd>
@@ -694,6 +958,7 @@
   </trdgrp>
   <trd lng="fr">rustre</trd>
   <trd lng="he">&alef;&dalet;&fmem; <ind>&gimel;&samekh;</ind></trd>
+  <trd lng="ja">&#x7C97;&#x96D1;&#x306A;&#x4EBA;  [<ind>&#x305D;&#x3056;&#x3064;&#x306A;&#x3058;&#x3093;</ind>]</trd>
   <trd lng="pl">grubianin</trd>
   <trdgrp lng="sk">
     <trd>grobian</trd>,
@@ -701,29 +966,33 @@
     <trd>neslu&scaron;n&yacute;</trd>,
     <trd>surovec</trd>
   </trdgrp>
+  <trd lng="uk">&c_g;&c_r;&c_u;&c_b;&c_ib;&c_ja;&c_n;</trd>
 </drv>
 
 </art>
 <!--
 $Log$
-Revision 1.27  2019/08/15 15:10:16  revo
-Wolfram Diestel: mal~*: ekz-oj
+versio 1.112 2023/08/29 20:27:47
+Wolfram Diestel: ja: prononco
 
-Revision 1.26  2019/08/15 08:10:15  revo
-Wolfram Diestel: aldonis ekz-ojn kun fontoj
+versio 1.111 2023/04/18 13:30:50
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.25  2019/03/07 21:10:17  revo
-Jeromo Vasxe: + ~ajxo
+versio 1.110 2022/11/12 09:28:48
+Wolfram Diestel: ~a: prilaboris ekz-ojn, ref
 
-Revision 1.24  2019/01/15 18:10:15  revo
-Jeromo Vasxe: snc/subsnc, + kk ekz
+versio 1.109 2022/11/07 06:36:23
+Wolfram Diestel: +fnt
 
-Revision 1.23  2017/08/13 18:10:29  revo
-Vito Redsky: +trd ro
+versio 1.108 2022/09/26 14:06:54
+Dmitri Gabinski: + trd be
 
-Revision 1.22  2017/07/09 22:10:27  revo
-Vito Redsky: +trd ro
+versio 1.107 2022/04/26 17:11:47
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.21  2016/01/26 14:10:16  revo
+versio 1.106 2022/04/11 07:30:47
+Ulrich Fellmann: Delikatajxo: +2 DE tradukoj
+
+versio 1.103 2021/11/09 08:35:21
 -->
 </vortaro>

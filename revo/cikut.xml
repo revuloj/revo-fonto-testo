@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cikut.xml,v 1.19 2010/06/11 16:30:38 revo Exp $">
+<art mrk="$Id: cikut.xml,v 1.25 2023/08/31 10:10:26 revo Exp $">
 <kap>
 <ofc>1</ofc>
 <rad>cikut</rad>/o
@@ -12,9 +11,7 @@
   <snc>
     <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
-      tip="malprt" cel="apiac.0oj">apiacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="apiac.0oj">apiacoj</ref>
       (<trd lng="la">Cicuta</trd>), tre venena, simila al
       <ref tip="vid" cel="koni.0o">konio</ref>:
       <ekz>
@@ -57,11 +54,20 @@
   <trd lng="en">water <ind>hemlock</ind></trd>
   <trd lng="es">cicuta</trd>
   <trd lng="fr">cigu&euml;</trd>
+  <trd lng="he">&#x5D4;&#x5E8;&#x5D5;&#x5E9; &#x5E2;&#x5E7;&#x5D5;&#x5D3; (&#x5E6;&#x5DE;&#x5D7;)</trd>
   <trd lng="it">cicuta</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C9;&#x30AF;&#x30BC;&#x30EA;</trd>,
+    <trd>&#x30C9;&#x30AF;&#x30CB;&#x30F3;&#x30B8;&#x30F3;&#x306E;&#x6BD2;  [<ind>&#x30C9;&#x30AF;&#x30CB;&#x30F3;&#x30B8;&#x30F3;&#x306E;&#x3069;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">cicuta</trd>
   <trd lng="pt">cicuta</trd>
   <trd lng="ru">&c_c;&c_i;&c_k;&c_u;&c_t;&c_a;</trd>
   <trd lng="sv">spr&auml;ng&ouml;rt</trd>
+  <trdgrp lng="uk">
+    <trd>&#x446;&#x438;&#x43A;&#x443;&#x442;&#x430;</trd>,
+    <trd>&#x432;&#x456;&#x445;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

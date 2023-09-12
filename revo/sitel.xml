@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sitel.xml,v 1.20 2023/09/03 18:39:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sitel</rad>/o
@@ -47,13 +46,13 @@
     <trd>&c_v;&c_je;&c_d;&c_r;&c_o;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>. vědro</trd>,
-    <trd>džber</trd>,
-    <trd>kbelík</trd>,
-    <trd>kýbl</trd>,
+    <trd>. v&#x11B;dro</trd>,
+    <trd>d&#x17E;ber</trd>,
+    <trd>kbel&#xED;k</trd>,
+    <trd>k&#xFD;bl</trd>,
     <trd>okov</trd>,
     <trd>putna</trd>,
-    <trd>žejdlík</trd>
+    <trd>&#x17E;ejdl&#xED;k</trd>
   </trdgrp>
   <trd lng="de">Eimer</trd>
   <trdgrp lng="en">
@@ -64,17 +63,31 @@
   <trd lng="fr">seau</trd>
   <trd lng="hu">v&ouml;d&ouml;r</trd>
   <trd lng="id">ember</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D0;&#x30B1;&#x30C4;  [<ind>&#x3070;&#x3051;&#x3064;</ind>]</trd>,
+    <trd>&#x624B;&#x6876;  [<ind>&#x3066;&#x304A;&#x3051;</ind>]</trd>,
+    <trd>&#x30D0;&#x30B1;&#x30C4;&#x4E00;&#x676F;  [<ind>&#x3070;&#x3051;&#x3064;&#x3044;&#x3063;&#x3071;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">emmer</trd>
+  <trd lng="pl">wiadro</trd>
   <trd lng="ru">&c_v;&c_je;&c_d;&c_r;&c_o;</trd>
   <trdgrp lng="sk">
-    <trd>okov <klr>(na čerpanie)</klr></trd>,
-    <trd>putňa</trd>,
+    <trd>okov <klr>(na &#x10D;erpanie)</klr></trd>,
+    <trd>put&ncaron;a</trd>,
     <trd>vedro</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_r;&#x43E;</trd>,
+    <trd>&c_c;&c_je;&c_b;&c_je;&c_r;&#x43A;&c_a;</trd>,
+    <trd>&#x43A;&#x43E;&#x43D;&#x43E;&c_v;&#x43A;&c_a;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2023/09/02 21:21:41
+Vito Redsky: +trd pl 
+
 Revision 1.16  2015/06/29 16:33:23  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -94,11 +107,5 @@ Revision 1.11  2007/12/09 17:30:36  revo
 Wieland Pusch: +trd bg
 
 Revision 1.10  2007/01/12 17:31:11  revo
-Wieland Pusch: +trd bg
-
-Revision 1.9  2004/10/13 16:33:18  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2003/01/11 19:20:10  revo
 -->
 </vortaro>

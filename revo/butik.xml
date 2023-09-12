@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: butik.xml,v 1.24 2010/04/21 16:30:22 revo Exp $">
+<art mrk="$Id: butik.xml,v 1.36 2023/08/31 08:48:54 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>butik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -51,8 +50,13 @@
     <trd>boutique</trd>,
     <trd>magasin<klr> (boutique)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5B4;&#x5E7;&#x5B0;&#x5E0;&#x5D5;&#x5B9;&#x5EA;</trd>
   <trd lng="hu">bolt</trd>
   <trd lng="id">toko</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E97;  [<ind>&#x305F;&#x306A;</ind>]</trd>,
+    <trd>&#x5C0F;&#x58F2;&#x5E97;  [<ind>&#x3053;&#x3046;&#x308A;&#x3066;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>winkel</trd>,
     <trd>boetiek</trd>,
@@ -78,7 +82,12 @@
     <trd>obchod</trd>
   </trdgrp>
   <trd lng="tr">d&uuml;kk&acirc;n</trd>
-  <trd lng="zh">&#24215;<klr> [di&agrave;n]</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x443;&#x442;&#x438;&#x43A;</trd>,
+    <trd>&#x43A;&#x440;&#x430;&#x43C;&#x43D;&#x438;&#x446;&#x44F;</trd>,
+    <trd>&#x43D;&#x435;&#x432;&#x435;&#x43B;&#x438;&#x43A;&#x438;&#x439; &#x43C;&#x430;&#x433;&#x430;&#x437;&#x438;&#x43D;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x5E97;<klr> [di&agrave;n]</klr></trd>
 </drv>
 
 <drv mrk="butik.0isto">
@@ -109,7 +118,12 @@
     <trd>g&eacute;rant<klr> (de magasin)</klr></trd>,
     <trd>tenancier<klr> (de magasin)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5DE;&#x5D5;&#x5DB;&#x5E8; &#x5D1;&#x5D7;&#x5E0;&#x5D5;&#x5EA;</trd>
   <trd lng="hu">boltos</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x58F2;&#x5E97;&#x4E3B;  [<ind>&#x3053;&#x3046;&#x308A;&#x3066;&#x3093;&#x3057;&#x3085;</ind>]</trd>,
+    <trd>&#x5E97;&#x9577;  [<ind>&#x3066;&#x3093;&#x3061;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">winkelier</trd>
   <trdgrp lng="pl">
     <trd>sklepowa<klr> {f}</klr></trd>,
@@ -123,6 +137,10 @@
   <trdgrp lng="sk">
     <trd>drobn&yacute; obchodn&iacute;k <klr>(ziskuchtivec)</klr></trd>,
     <trd>kram&aacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x440;&#x430;&#x43C;&#x430;&#x440;</trd>,
+    <trd>&#x434;&#x440;&#x456;&#x431;&#x43D;&#x438;&#x439; &#x442;&#x43E;&#x440;&#x433;&#x43E;&#x432;&#x435;&#x446;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -155,11 +173,16 @@
     <trd>faire les <ind>magasins</ind></trd>,
     <trd>faire les <ind>courses</ind></trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5E2;&#x5E9;&#x5D5;&#x5EA; &#x5E7;&#x5E0;&#x5D9;&#x5D5;&#x5EA;</trd>
   <trdgrp lng="hu">
     <trd>j&aacute;rja az <ind>&uuml;zleteket</ind></trd>,
     <trd>v&aacute;s&aacute;rolgat</trd>
   </trdgrp>
-  <trd lng="id">[<ind>belanja</ind>] berbelanja</trd>
+  <trd lng="id">ber<ind>belanja</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CB7;&#x3044;&#x7269;&#x3092;&#x3059;&#x308B;  [<ind>&#x304B;&#x3044;&#x3082;&#x306E;&#x3092;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x30B7;&#x30E7;&#x30C3;&#x30D4;&#x30F3;&#x30B0;&#x3059;&#x308B;  [<ind>&#x3057;&#x3087;&#x3063;&#x3074;&#x3093;&#x3050;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>winkelen</trd>,
     <trd>boodschappen doen</trd>,
@@ -181,6 +204,10 @@
   </trdgrp>
   <trd lng="sk">beha&tcaron; po obchodoch</trd>
   <trd lng="sv">butik</trd>
+  <trdgrp lng="uk">
+    <trd>&#x445;&#x43E;&#x434;&#x438;&#x442;&#x438; &#x43F;&#x43E; &#x43A;&#x440;&#x430;&#x43C;&#x43D;&#x438;&#x446;&#x44F;&#x445;</trd>,
+    <trd>&#x440;&#x43E;&#x431;&#x438;&#x442;&#x438; &#x43F;&#x43E;&#x43A;&#x443;&#x43F;&#x43A;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="butik.ret0o">
@@ -196,8 +223,7 @@
         la Ret<tld/>o de FEL estis kreita la 9-an de februaro 1996
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref="http://eo.wikipedia.org/wiki/Flandra_Esperanto-Ligo">
+          <lok><url ref="&Viki;/Flandra_Esperanto-Ligo">
           Flandra Esperanto-Ligo</url>, 
           2009-12-24</lok>
         </fnt>.
@@ -208,13 +234,23 @@
     <trd>boutique en ligne</trd>,
     <trd>e-boutique</trd>
   </trdgrp>
-  <trd lng="id"><ind>toko</ind> online</trd>
+  <trdgrp lng="id">
+    <trd><ind>toko</ind> daring</trd>,
+    <trd><ind>toko</ind> online</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30A4;&#x30F3;&#x30BF;&#x30FC;&#x30CD;&#x30C3;&#x30C8;&#x30B7;&#x30E7;&#x30C3;&#x30D7;</trd>,
+    <trd>&#x30CD;&#x30C3;&#x30C8;&#x30B7;&#x30E7;&#x30C3;&#x30D7;</trd>
+  </trdgrp>
   <trd lng="nl">webwinkel</trd>
   <trd lng="pl">sklep internetowy</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.35 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.30  2017/11/03 16:10:13  revo
 Bart Demeyere: +trd nl
 

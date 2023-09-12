@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: paper.xml,v 1.144 2023/09/03 12:45:04 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>paper</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -28,7 +27,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        mi ne volis skribi per <tld/>o kaj inko; sed mi esperas 
+        mi ne volis skribi per <tld/>o kaj inko; sed mi esperas
         veni al vi kaj paroli viza&gcirc;on kontra&ubreve; viza&gcirc;o
         <fnt>
           <bib>NT</bib>
@@ -59,10 +58,11 @@
       <ekz>
         pergamena <tld/>o
         <fnt>
+          <aut>Fidel Figueroa</aut>
+          <vrk><url ref="&Monato;/2000/007033.php">Nepre &gcirc;ia nomo estas Meksiko</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007033.html">Centra 
-          Ameriko: Nepre &gcirc;ia nomo estas Meksiko</url></vrk>
-        </fnt>;
+          <lok>2000/10, p. 14</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <ind>al la <tld/>o ne mankas tolero</ind>
@@ -73,11 +73,15 @@
         <trd lng="nl">papier is geduldig</trd>
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="papiru.0o">papiruso</ref>,
+      <ref cel="pergam.0o">pergameno</ref>
+    </refgrp>
     <trd lng="br">paper</trd>
     <trd lng="pl">papier</trd>
     <trd lng="vo">p&ouml;p</trd>
-    <trd lng="tp">lipu</trd>
-    <trd lng="zh">&#32440;</trd>
+    <trd lng="tok">lipu</trd>
+    <trd lng="zh">&#x7EB8;</trd>
   </snc>
 
   <snc mrk="paper.0o.folio">
@@ -99,7 +103,7 @@
         <klr>(= skribi)</klr>;
       </ekz>
       <ekz>
-        li <klr>[&#8230;]</klr> tenis inter la fingroj malgrandan rozokoloran
+        li <klr>[&#x2026;]</klr> tenis inter la fingroj malgrandan rozokoloran
         <tld/>on, sur kiu trovi&gcirc;is versa&jcirc;o
         <fnt>
           <bib>Fab1</bib>
@@ -122,7 +126,7 @@
         ordigi siajn <tld/>ojn;
       </ekz>
       <ekz>
-        <klr>[li]</klr> en&scirc;ovis kelkajn <tld/>ojn en la po&scirc;on, 
+        <klr>[li]</klr> en&scirc;ovis kelkajn <tld/>ojn en la po&scirc;on,
         prenis aliajn sub la brakon, por hejme ilin tralegi kaj transskribi
         <fnt>
           <bib>Fab1</bib>
@@ -164,20 +168,95 @@
       <trd>akta</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">papier</trd>
+  <trd lng="am">&#x12C8;&#x1228;&#x1240;&#x1275;</trd>
+  <trd lng="ar">&a_w;&a_r;&a_q;</trd>
+  <trd lng="az">ka&gbreve;&inodot;z</trd>
   <trd lng="be">&c_p;&c_a;&c_p;&c_je;&c_r;&c_a;</trd>
   <trd lng="bg">&c_h;&c_a;&c_r;&c_t;&c_i;&c_ja;</trd>
+  <trd lng="bn">&#x995;&#x9BE;&#x997;&#x99C;</trd>
+  <trd lng="bo">&t_sha;&t_naro;&t_ga;&t_tsheg;&t_ba;&t_shabchu;&t_tsheg;</trd>
+  <trd lng="bs">papira</trd>
+  <trd lng="co">carta</trd>
   <trd lng="cs">pap&iacute;r</trd>
+  <trd lng="cy">papur</trd>
+  <trd lng="da">papir</trd>
   <trd lng="de">Papier</trd>
   <trd lng="en">paper</trd>
   <trd lng="es">papel <klr tip="amb">(para escribir, etc)</klr></trd>
+  <trd lng="et">paber</trd>
   <trd lng="fr">papier</trd>
+  <trd lng="fy">papier</trd>
+  <trd lng="ga">p&aacute;ip&eacute;ar</trd>
+  <trd lng="gd">p&agrave;ipear</trd>
+  <trd lng="gl">papel</trd>
+  <trd lng="gu">&#xA95;&#xABE;&#xA97;&#xAB3;</trd>
+  <trd lng="ha">takarda</trd>
+  <trd lng="hi">&#x915;&#x93E;&#x917;&#x91C;</trd>
+  <trd lng="hmn">daim ntawv</trd>
+  <trd lng="hr">papir</trd>
+  <trd lng="ht">papye</trd>
   <trd lng="hu">pap&iacute;r</trd>
+  <trd lng="hy">&#x569;&#x578;&#x582;&#x572;&#x569;</trd>
   <trd lng="id">kertas</trd>
+  <trd lng="ig">akw&#x1EE5;kw&#x1ECD;</trd>
+  <trd lng="is">papp&iacute;r</trd>
+  <trd lng="ja">&#x7D19; [<ind>&#x3057;</ind>]</trd>
+  <trd lng="jv">kertas</trd>
+  <trd lng="ka">&#x10E5;&#x10D0;&#x10E6;&#x10D0;&#x10DA;&#x10D3;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&#x49B;&c_a;&#x493;&c_a;&c_z;</trd>
+  <trd lng="km">&#x1780;&#x17D2;&#x179A;&#x178A;&#x17B6;&#x179F;</trd>
+  <trd lng="kn">&#xC95;&#xCBE;&#xC97;&#xCA6;&#xCA6;</trd>
+  <trd lng="ko">&#xC885;&#xC774;</trd>
+  <trd lng="ku">kaxez</trd>
+  <trd lng="ky">&c_k;&c_a;&c_g;&c_a;&c_z;</trd>
+  <trd lng="lat">cartam</trd>
+  <trd lng="lo">&#xEC0;&#xE88;&#xEC9;&#xE8D;</trd>
+  <trd lng="lt">popieriaus</trd>
+  <trd lng="lv">pap&imacron;rs</trd>
+  <trd lng="mg">taratasy</trd>
+  <trd lng="mi">pepa</trd>
+  <trd lng="mk">&c_h;&c_a;&c_r;&c_t;&c_i;&#x458;&c_a;</trd>
+  <trd lng="ml">&#xD15;&#xD1F;&#xD32;&#xD3E;&#xD38;&#xD4D;</trd>
+  <trd lng="mn">&c_c;&c_a;&c_a;&c_s;</trd>
+  <trd lng="mr">&#x915;&#x93E;&#x917;&#x926;</trd>
+  <trd lng="ms">kertas</trd>
+  <trd lng="mt">karta</trd>
+  <trd lng="my">&#x1005;&#x1000;&#x1039;&#x1000;&#x1030;</trd>
+  <trd lng="ne">&#x915;&#x93E;&#x917;&#x91C;</trd>
   <trd lng="nl">papier</trd>
+  <trd lng="ny">pepala</trd>
+  <trd lng="pa">&#xA2A;&#xA47;&#xA2A;&#xA30;</trd>
+  <trd lng="ps">&f_k;&a_A;&a_gh;&a_dh;</trd>
   <trd lng="pt">papel</trd>
   <trd lng="ru">&c_b;&c_u;&c_m;&c_a;&c_g;&c_a;</trd>
+  <trd lng="rw">impapuro</trd>
+  <trd lng="sd">&f_p;&a_y;&f_p;&a_r;</trd>
+  <trd lng="si">&#xD9A;&#xDA9;&#xDAF;&#xDCF;&#xDC3;&#xDD2;</trd>
   <trd lng="sk">papier</trd>
+  <trd lng="sl">papir</trd>
+  <trd lng="sm">pepa</trd>
+  <trd lng="sn">bepa</trd>
+  <trd lng="so">warqad</trd>
+  <trd lng="sq">let&euml;r</trd>
+  <trd lng="st">pampiri</trd>
+  <trd lng="su">keretas</trd>
   <trd lng="sv">papper</trd>
+  <trd lng="sw">karatasi</trd>
+  <trd lng="ta">&#xB95;&#xBBE;&#xB95;&#xBBF;&#xBA4;</trd>
+  <trd lng="te">&#xC15;&#xC3E;&#xC17;&#xC3F;&#xC24;&#xC02;</trd>
+  <trd lng="tg">&c_k;&c_o;&#x493;&c_a;&c_z;</trd>
+  <trd lng="th">&#xE01;&#xE23;&#xE30;&#xE14;&#xE32;&#xE29;</trd>
+  <trd lng="tl">papel</trd>
+  <trd lng="tt">&c_k;&#x4D9;&c_g;&c_a;&c_z;&c_mol;</trd>
+  <trd lng="uk">&c_p;&c_a;&c_p;&c_ib;&c_r;</trd>
+  <trd lng="ur">&f_k;&a_A;&a_gh;&a_dh;</trd>
+  <trd lng="uz">qog&#x2019;oz</trd>
+  <trd lng="vi">gi&#x1EA5;y</trd>
+  <trd lng="xh">iphepha</trd>
+  <trd lng="yi">&pe;&#x5BC;&alef;&#x5B7;&pe;&#x5BC;&yod;&resh;</trd>
+  <trd lng="yo">iwe</trd>
+  <trd lng="zu">ephepheni</trd>
 </drv>
 
 <drv mrk="paper.0a">
@@ -214,7 +293,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        klara kaj bone legebla skribo, sur <tld/>aj folioj, 
+        klara kaj bone legebla skribo, sur <tld/>aj folioj,
         havanta la formaton de ordinara letera <tld/>o
         <fnt>
           <bib>Homaranismo</bib>
@@ -272,6 +351,7 @@
     <trd>pap&iacute;r-</trd>,
     <trd>pap&iacute;rb&oacute;l k&eacute;sz&uuml;lt</trd>
   </trdgrp>
+  <trd lng="ja">&#x7D19;&#x306E;  [<ind>&#x304B;&#x307F;&#x306E;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>papieren</trd>,
     <trd>van <ind>papier</ind></trd>
@@ -282,6 +362,7 @@
     <trd>pappers-</trd>,
     <trd>av <ind>papper</ind></trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_a;&c_p;&c_je;&c_r;&c_o;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="paper.0ajxo">
@@ -304,11 +385,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        konteneroj senditaj el Japanio enhavis ne nur <tld/>a&jcirc;ojn, 
+        konteneroj senditaj el Japanio enhavis ne nur <tld/>a&jcirc;ojn,
         sed anka&ubreve; toksajn kaj aliajn dan&gcirc;erajn rubojn
         <fnt>
+       <aut>HORI Jasuo/pg</aut>
+          <vrk><url ref="&Monato;/2000/006893.php">Rubo-ruzo</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006893.html">Japanio: Rubo-ruzo</url></vrk>
+          <lok>2000/11, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -329,6 +412,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_v;&c_y; &c_v;&c_y;&c_r;&c_a;&c_b;</trd>
 <trd lng="de">Altpapier</trd>
 </drv>
 
@@ -340,11 +424,11 @@
       <ekz>
         &ccirc;i tiuj kvar iam laboris &ccirc;e <tld/>isto
         <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la
-        Hunoj</vrk>, 
+        Hunoj</vrk>,
         <lok>2011</lok></fnt>;
       </ekz>
       <ekz>
-        <tld/>isto Franti&scaron;ek Lorenz, <klr>[&#8230;]</klr> kuni&gcirc;is kun nove 
+        <tld/>isto <nom>Franti&scaron;ek Lorenz</nom>, <klr>[&#x2026;]</klr> kuni&gcirc;is kun nove
         venintaj fakuloj en tereno de produktado de <tld/>o
         <fnt>
           <bib>Viki</bib>
@@ -354,6 +438,7 @@
     </dif>
     <trd lng="de">Papierhersteller</trd>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_p;&c_je;&c_r;&c_n;&c_ib;&c_k;</trd>
   <trd lng="en">papermaker</trd>
   <trd lng="cs">pap&iacute;rn&iacute;k</trd>
   <trd lng="fr">papetier</trd>
@@ -365,7 +450,7 @@
   <kap><ofc>*</ofc><tld/>ujo</kap>
   <snc mrk="paper.0ujo.biletujo">
     <dif>
-      Koverto el firma materialo, ekz. leda, plasta, portebla en po&scirc;o por konservi 
+      Koverto el firma materialo, ekz. leda, plasta, portebla en po&scirc;o por konservi
       biletojn, legitimilojn ks; <ref tip="sin" cel="paper.mon0ujo.KOMUNE">mon<tld/>ujo</ref>:
       <ekz>
         en la po&scirc;o de mia pantalono mi portas monujon, kaj en la
@@ -373,7 +458,7 @@
         <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>;
       </ekz>
       <ekz>
-        la a&ccirc;etanto <klr>[&#8230;]</klr> tenis grandan dikan mon<tld/>ujon plenan de mono
+        la a&ccirc;etanto <klr>[&#x2026;]</klr> tenis grandan dikan mon<tld/>ujon plenan de mono
         <fnt>
           <bib>Marta</bib>
         </fnt>.
@@ -399,7 +484,7 @@
         <fnt><bib>F</bib>, <lok>&FE; 40.</lok></fnt>;
       </ekz>
       <ekz>
-        sinjoro Snitchey <klr>[&#8230;]</klr> metis malgrandan bluan akto<tld/>ujon al la tablo
+        sinjoro <nom>Snitchey</nom> <klr>[&#x2026;]</klr> metis malgrandan bluan akto<tld/>ujon al la tablo
         <fnt>
           <bib>BdV</bib>
         </fnt>;
@@ -411,13 +496,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        Vitalij elprenis el <tld/>ujo skizojn kaj planojn de
+        <nom>Vitalij</nom> elprenis el <tld/>ujo skizojn kaj planojn de
         moskvaj stratoj
         <fnt><bib>Metrop</bib></fnt>;
       </ekz>
       <ekz>
         nek en la <tld/>ujoj de la kontadejo, nek &ccirc;e la
-        financa direktoro, nek en la kabineto de Latronov estis
+        financa direktoro, nek en la kabineto de <nom>Latronov</nom> estis
         e&ccirc; malpleja spuro de la kontrakto
         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 17a</lok></fnt>.
       </ekz>
@@ -490,16 +575,31 @@
     <trd>diplomatka</trd>
   </trdgrp>
 -->
+  <trdgrp lng="ja">
+    <trd>&#x66F8;&#x985E;&#x5165;&#x308C;  [<ind>&#x3057;&#x3087;&#x308B;&#x3044;&#x3044;&#x308C;</ind>]</trd>,
+    <trd>&#x7D19;&#x3070;&#x3055;&#x307F;  [<ind>&#x304B;&#x307F;&#x3070;&#x3055;&#x307F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_a;&c_p;&c_k;&c_a; &c_d;&c_l;&c_ja; &c_p;&c_a;&c_p;&c_je;&c_r;&c_ib;&c_v;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_t;&c_f;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="paper.karbo0o">
   <kap>karbo<tld/>o</kap> <fnt><bib>PIV1</bib></fnt>
   <snc mrk="paper.karbo0o.KOMUNE">
     <dif>
-      Papero kun dorsa tavolo de karbopolvo, kiu transkopias la
+      <tld lit="P"/>o kun dorsa tavolo de karbopolvo, kiu transkopias la
       skriba&jcirc;on al sub&scirc;ovita folio:
       <ekz>
-        tiu verkisto <klr>[&#8230;]</klr> mem devas pagi sian paperon, siajn
+        la Dua Oficiro tenis notblokon kun en&scirc;ovita karbo<tld/>o kaj krajonon
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 33</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu verkisto <klr>[&#x2026;]</klr> mem devas pagi sian <tld/>on, siajn
         skribilojn, skribma&scirc;inon, inkrubandojn, karbo<tld/>on
         <fnt>
         <bib>Plumamikoj</bib>,
@@ -507,7 +607,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        post disvasti&gcirc;o de la skribma&scirc;ino <klr>[&#8230;]</klr> oni
+        post disvasti&gcirc;o de la skribma&scirc;ino <klr>[&#x2026;]</klr> oni
         povis fari facile dum la skribado de la dokumento traskriba&jcirc;ojn helpe de karbo<tld/>o
         <fnt>
           <bib>Viki</bib>
@@ -515,6 +615,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_ja;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_p;&c_je;&c_r;&c_a;</trd>
     <trdgrp lng="de">
       <trd>Pauspapier</trd>,
       <trd>Kohlepapier</trd>
@@ -537,6 +638,8 @@
     <trd>papel carb&oacute;n</trd>,
     <trd>papel calco</trd>
   </trdgrp>
+  <trd lng="ja">&#x30AB;&#x30FC;&#x30DC;&#x30F3;&#x7D19;  [<ind>&#x30AB;&#x30FC;&#x30DC;&#x30F3;&#x3057;</ind>]</trd>
+  <trd lng="uk">&c_k;&c_o;&c_p;&c_ib;&c_ju;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j; &c_p;&c_a;&c_p;&c_ib;&c_r;</trd>
 </drv>
 
 <drv mrk="paper.karbon0o">
@@ -556,6 +659,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_ja;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_p;&c_je;&c_r;&c_a;</trd>
     <trd lng="en">carbon paper</trd>
     <trd lng="fr">papier carbone</trd>
     <trd lng="id"><ind>kertas</ind> karbon</trd>
@@ -581,7 +685,7 @@
   <kap>krep<tld/>o</kap>
   <snc mrk="paper.krep0o.KOMUNE">
     <dif>
-      Krispita, delikata papero simila al <ref tip="vid" cel="krep.0o.TEKS">krepo</ref>, uzebla por 
+      Krispita, delikata papero simila al <ref tip="vid" cel="krep.0o.TEKS">krepo</ref>, uzebla por
       pakado a&ubreve; por ornamo:
       <ekz>
         &scirc;ia majesta aspekto &scirc;ajnis bazita sur vera
@@ -589,7 +693,7 @@
         suvereneco strasa kaj krep-<tld/>a
         <fnt><aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de
         Diego</aut>,
-        <vrk>Cent 
+        <vrk>Cent
         Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>.
       </ekz>
     </dif>
@@ -618,9 +722,11 @@
     <trd lng="nl">toiletpapier</trd>
     <trd lng="pl">papier toaletowy</trd>
   </snc>
+  <trd lng="be">&c_t;&c_u;&c_a;&c_l;&c_je;&c_t;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_p;&c_je;&c_r;&c_a;</trd>
   <trd lng="cs">toaletn&iacute; pap&iacute;r</trd>
   <trd lng="es">papel higi&eacute;nico</trd>
   <trd lng="sk">toaletn&yacute; papier</trd>
+  <trd lng="uk">&c_t;&c_u;&c_a;&c_l;&c_je;&c_t;&c_n;&c_i;&c_j; &c_p;&c_a;&c_p;&c_ib;&c_r;</trd>
 </drv>
 
 <drv mrk="paper.mon0ujo">
@@ -648,9 +754,17 @@
   </trdgrp>
   <trd lng="fr">portefeuille</trd>
   <trd lng="id">dompet</trd>
+  <trdgrp lng="ja">
+    <trd>&#x672D;&#x5165;&#x308C;  [<ind>&#x3055;&#x3064;&#x3044;&#x308C;</ind>]</trd>,
+    <trd>&#x8CA1;&#x5E03;  [<ind>&#x3055;&#x3044;&#x3075;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">portefeuille</trd>
   <trd lng="pl">portfel</trd>
   <trd lng="ru">&c_b;&c_u;&c_m;&c_a;&c_zh;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_m;&c_a;&c_zh;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_g;&c_a;&c_m;&c_a;&c_n;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="paper.mur0o">
@@ -658,7 +772,8 @@
   <snc mrk="paper.mur0o.ARKI">
     <uzo tip="fak">ARKI</uzo>
     <dif>
-      Papera tega&jcirc;o por &ccirc;ambraj muroj a&ubreve;
+      <ref tip="super" cel="tapet.0o.TEKS">Tapeto</ref>,
+      papera tega&jcirc;o por &ccirc;ambraj muroj a&ubreve;
       vandoj, ordinare havebla
       en striegoj, kiujn oni algluas:
       <ekz>
@@ -670,17 +785,18 @@
         </fnt>;
       </ekz>
       <ekz>
-        venu vidi, kiom bele aspektas la nova mur<tld/>o en la salono 
-        <klr>[&#8230;]</klr> mi sukcesis surglui &gcirc;in sen e&ccirc; unu faldeto
+        venu vidi, kiom bele aspektas la nova mur<tld/>o en la salono
+        <klr>[&#x2026;]</klr> mi sukcesis surglui &gcirc;in sen e&ccirc; unu faldeto
         <fnt>
-          <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007091.html">Du
-          patroj interparolas.</url></vrk>
-        </fnt>;
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007091.php">Du patroj interparolas</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 26</lok>
+          </fnt>;
       </ekz>
       <ekz>
-        fenestroj, pordoj, fajrujoj, plankoj, mur<tld/>oj kaj lampoj estas pretigataj la&ubreve; la deziroj de la a&ccirc;etinto
+        fenestroj, pordoj, fajrujoj, plankoj, mur<tld/>oj kaj lampoj estas pretigataj la&ubreve; la deziroj
+        de la a&ccirc;etinto
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
@@ -690,9 +806,11 @@
     </dif>
     <trd lng="de">Tapete</trd>
   </snc>
+  <trd lng="be">&c_sh;&c_p;&c_a;&c_l;&c_je;&c_r;&c_y;</trd>
   <trd lng="en">wallpaper</trd>
   <trd lng="es">papel pintado</trd>
   <trd lng="fr">papier peint</trd>
+  <trd lng="ja">&#x58C1;&#x7D19;  [<ind>&#x304B;&#x3079;&#x304C;&#x307F;</ind>]</trd>
   <trd lng="nl">behangpapier</trd>
   <trd lng="pl">tapeta</trd>
 </drv>
@@ -725,6 +843,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_u;&c_a;&c_l;&c_je;&c_t;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_p;&c_je;&c_r;&c_a;</trd>
   <trd lng="en">toilet paper</trd>
   <trd lng="bg">&c_t;&c_o;&c_a;&c_l;&c_je;&c_t;&c_n;&c_a;
   &c_h;&c_a;&c_r;&c_t;&c_i;&c_ja;</trd>
@@ -736,6 +855,7 @@
       <trd><ind>kertas</ind> toilet</trd>,
       <trd><ind>tisu</ind> toilet</trd>
     </trdgrp>
+  <trd lng="ja">&#x30C8;&#x30A4;&#x30EC;&#x30C3;&#x30C8;&#x30DA;&#x30FC;&#x30D1;&#x30FC;</trd>
   <trd lng="nl">toiletpapier</trd>
   <trd lng="pl">papier toaletowy</trd>
   <trd lng="sk">toaletn&yacute; papier</trd>
@@ -751,7 +871,7 @@
         tie vi povos admiri la pla&ccirc;ajn bildojn, desegnitajn speciale por vi sur pak<tld/>o
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -789,6 +909,10 @@
     <trd>papier d'emballage</trd>
   </trdgrp>
   <trd lng="id"><ind>kertas</ind> kado</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5305;&#x88C5;&#x7D19;  [<ind>&#x307B;&#x3046;&#x305D;&#x3046;&#x3057;</ind>]</trd>,
+    <trd>&#x5305;&#x307F;&#x7D19;  [<ind>&#x3064;&#x3064;&#x307F;&#x304C;&#x307F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">inpakpapier</trd>
   <trd lng="pl">papier pakowy</trd>
   <trd lng="sk">baliaci papier</trd>
@@ -803,7 +927,7 @@
       surdesegni kopion, a&ubreve; sur kiun oni printas bildon por
       plua kopiado:
       <ekz>
-        Robert Delaunay: Tri futbalistoj, plumo sur pa&ubreve;s<tld/>o, 21,3 × 15 cm
+        <nom>Robert Delaunay</nom>: Tri futbalistoj, plumo sur pa&ubreve;s<tld/>o, 21,3 &#xD7; 15 cm
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=407986">Robert Delaunay</url></lok>
@@ -812,12 +936,14 @@
     </dif>
     <trd lng="de">Pauspapier</trd>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_mol;&c_k;&c_a; <klr>(&c_p;&c_a;&c_p;&c_je;&c_r;&c_a;)</klr></trd>
   <trd lng="en">tracing paper</trd>
   <trd lng="es">papel cebolla</trd>
   <trd lng="fr">papier calque</trd>
   <trd lng="id"><ind>kertas</ind> kalkir</trd>
   <trd lng="nl">calqueerpapier</trd>
   <trd lng="pl">kalka techniczna</trd>
+  <trd lng="uk">&c_k;&c_a;&c_l;&c_mol;&c_k;&c_a; (&c_p;&c_a;&c_p;&c_ib;&c_r;)</trd>
 </drv>
 
 <drv mrk="paper.reuz0o">
@@ -903,12 +1029,17 @@
     <trd>smirgli</trd>
   </trdgrp>
   <trd lng="id">ampelas</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B5;&#x30F3;&#x30C9;&#x30DA;&#x30FC;&#x30D1;&#x30FC;</trd>,
+    <trd>&#x7D19;&#x3084;&#x3059;&#x308A;  [<ind>&#x304B;&#x307F;&#x3084;&#x3059;&#x308A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">schuurpapier</trd>
   <trd lng="pl">papier &sacute;cierny</trd>
   <trd lng="ru">&c_n;&c_a;&c_zh;&c_d;&c_a;&c_ch;&c_n;&c_a;&c_ja;
   &c_b;&c_u;&c_m;&c_a;&c_g;&c_a;</trd>
   <trd lng="sk">br&uacute;sny papier</trd>
   <trd lng="sv">sandpapper</trd>
+  <trd lng="uk">&c_n;&c_a;&c_zh;&c_d;&c_a;&c_ch;&c_n;&c_i;&c_j; &c_p;&c_a;&c_p;&c_ib;&c_r;</trd>
 </drv>
 
 <drv mrk="paper.sen0ulo">
@@ -925,6 +1056,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_s;&c_o;&c_b;&c_a; &c_b;&c_je;&c_z; &c_d;&c_a;&c_k;&c_u;&c_m;&c_e;&c_n;&c_t;&c_a;&c_w;</trd>
   <trd lng="en">undocumented person</trd>
   <trd lng="es">indocumentado</trd>
   <trdgrp lng="fr">
@@ -943,7 +1075,7 @@
       Tre maldika papero iom diafana, uzata en dekoracio, por volvo de
       cigaredoj kaj simile:
       <ekz>
-        Elder <klr>[&#8230;]</klr> transdonis spegulon, pakitan en
+        <nom>Elder</nom> <klr>[&#x2026;]</klr> transdonis spegulon, pakitan en
         silkopaperon
         <fnt>
         <aut>J. Rejt&odblac;, trad. L. Bal&aacute;zs</aut>,
@@ -971,6 +1103,7 @@
   </trdgrp>
   <trd lng="sk">hodv&aacute;bny papier</trd>
   <trd lng="sv">silkespapper</trd>
+  <trd lng="uk">&c_sh;&c_o;&c_v;&c_k;&c_o;&c_v;&c_i;&c_j; &c_p;&c_a;&c_p;&c_ib;&c_r;</trd>
 </drv>
 
 <drv mrk="paper.smirgo0o">
@@ -979,8 +1112,8 @@
     <dif>
       <ref tip="dif" cel="paper.sablo0o.TEK">Sablo<tld/>o</ref>:
       <ekz>
-        kiomfoje li malsuprenkuris <klr>[&#8230;]</klr> por a&ccirc;eti &ccirc;e
-        najbaraj butikistoj, kion Minna forgesis, egale &ccirc;u kafon a&ubreve;
+        kiomfoje li malsuprenkuris <klr>[&#x2026;]</klr> por a&ccirc;eti &ccirc;e
+        najbaraj butikistoj, kion <nom>Minna</nom> forgesis, egale &ccirc;u kafon a&ubreve;
         pipron, unufoje e&ccirc; smirgo<tld/>on
         <fnt><bib>KielAkvo</bib>, <lok>2:1</lok></fnt>.
       </ekz>
@@ -1001,6 +1134,7 @@
     <trd>smirgli</trd>
   </trdgrp>
   <trd lng="id">ampelas</trd>
+  <trd lng="ja">&#x7D19;&#x3084;&#x3059;&#x308A;  [<ind>&#x304B;&#x307F;&#x3084;&#x3059;&#x308A;</ind>]</trd>
   <trd lng="nl">schuurpapier</trd>
   <trd lng="pl">papier &sacute;cierny</trd>
   <trd lng="ru">&c_n;&c_a;&c_zh;&c_d;&c_a;&c_ch;&c_n;&c_a;&c_ja;
@@ -1038,6 +1172,7 @@
       <trd>bibu&lstroke;ka<klr> do osuszania</klr></trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_a;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_p;&c_je;&c_r;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>pijav&yacute; pap&iacute;r</trd>,
     <trd>pij&aacute;k</trd>,
@@ -1046,6 +1181,7 @@
   </trdgrp>
   <trd lng="es">papel secante</trd>
   <trd lng="sk">pijav&yacute; papier</trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_m;&c_o;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j; &c_p;&c_a;&c_p;&c_ib;&c_r;</trd>
 </drv>
 
 <drv mrk="paper.sur0igi">
@@ -1065,10 +1201,11 @@
       <ekz>
         li studis la zairan historion, kiel la belgoj &gcirc;in sur<tld/>igis
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007080.html">La
-            flandra en Kongo</url></vrk>
-        </fnt>;
+          <aut>Wim de Smet</aut>
+            <vrk><url ref="&Monato;/2000/007080.php">La flandra en Kongo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 4</lok>
+          </fnt>;
       </ekz>
       <ekz>
         mi sendis al vi paketon, enhavantan la sur<tld/>igitan manuskripton de la libro
@@ -1083,7 +1220,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Nikolao Gudskov</aut>
-          <vrk><url ref="&Monato;/2014/011152.php">Kio estas imperio kaj kiel &gcirc;in kontra&ubreve;stari?</url></vrk>
+          <vrk><url ref="&Monato;/2014/011152.php">Kio estas imperio kaj kiel &gcirc;in
+          kontra&ubreve;stari?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -1136,9 +1274,12 @@
     <trd lng="nl">behangpapier</trd>
     <trd lng="pl">tapeta</trd>
   </snc>
+  <trd lng="be">&c_sh;&c_p;&c_a;&c_l;&c_je;&c_r;&c_y;</trd>
   <trd lng="en">wallpaper</trd>
   <trd lng="cs">pap&iacute;rov&aacute; tapeta</trd>
+  <trd lng="ja">&#x58C1;&#x7D19;  [<ind>&#x304B;&#x3079;&#x304C;&#x307F;</ind>]</trd>
   <trd lng="sk">papierov&aacute; tapeta</trd>
+  <trd lng="uk">&c_sh;&c_p;&c_a;&c_l;&c_je;&c_r;&c_n;&c_i;&c_j; &c_p;&c_a;&c_p;&c_ib;&c_r;</trd>
 </drv>
 
 <drv mrk="paper.tualet0o">
@@ -1157,6 +1298,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_t;&c_u;&c_a;&c_l;&c_je;&c_t;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_p;&c_je;&c_r;&c_a;</trd>
     <trd lng="de">Zellstoff</trd>
     <trdgrp lng="en"><trd>tissue paper</trd>, <trd>facial
     tissue</trd></trdgrp>
@@ -1169,7 +1311,9 @@
     <trd lng="pl">papier toaletowy</trd>
   </snc>
   <trd lng="cs">toaletn&iacute; pap&iacute;r</trd>
+  <trd lng="ja">&#x30C6;&#x30A3;&#x30C3;&#x30B7;&#x30E5;&#x30DA;&#x30FC;&#x30D1;&#x30FC;</trd>
   <trd lng="sk">toaletn&yacute; papier</trd>
+  <trd lng="uk">&c_k;&c_o;&c_s;&c_m;&c_je;&c_t;&c_i;&c_ch;&c_n;&c_i;&c_j; &c_p;&c_a;&c_p;&c_ib;&c_r;</trd>
 </drv>
 
 <drv mrk="paper.visx0o">
@@ -1178,7 +1322,7 @@
     <dif>
       Mola pli-malpli sorba papero uzata por vi&scirc;ado, por purigo:
       <ekz>
-        jen moda fra&ubreve;lino <klr>[&#8230;]</klr> elegante eltiras pecon
+        jen moda fra&ubreve;lino <klr>[&#x2026;]</klr> elegante eltiras pecon
         da vi&scirc;<tld/>o kaj elegante tu&scirc;as la bu&scirc;eton
         <fnt>
         <aut>Chu Xie</aut>,
@@ -1202,31 +1346,35 @@
       <trd>r&eogonek;cznik <ind>papierowy</ind></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x30C6;&#x30A3;&#x30C3;&#x30B7;&#x30E5;&#x30DA;&#x30FC;&#x30D1;&#x30FC;</trd>,
+    <trd>&#x30DA;&#x30FC;&#x30D1;&#x30FC;&#x30BF;&#x30AA;&#x30EB;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.48  2018/02/09 21:10:13  revo
-Wolfram Diestel: ~o: disigo sencoj materialo kaj folio; ekz-oj
+versio 1.143 2023/08/29 15:28:24
+Wolfram Diestel: ja: prononco
 
-Revision 1.47  2018/02/09 19:10:28  revo
-Wolfram Diestel: +ekz-oj, +~ajxo
+versio 1.142 2023/05/28 20:23:15
+Jeromo Vasxe: murpapero + tez
 
-Revision 1.46  2016/11/12 14:10:16  revo
-Darcy Shen: +trd zh
+versio 1.141 2023/05/01 07:25:24
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.45  2016/08/22 11:10:15  revo
-Carlos Garcia: +trd es -a -uj karb- klozet- mon-uj mur- necesej- pak-
-pauxs- reuz- sablo- sen-ul
+versio 1.140 2023/04/26 06:31:57
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.44  2015/09/21 08:10:16  revo
-Sebastian Cyprych: +trd pl
+versio 1.139 2023/04/15 15:25:43
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.43  2015/09/17 12:10:25  revo
-Cindy Moon McKee: +trd en
+versio 1.138 2023/03/15 18:33:58
+Wolfram Diestel: karbo~o: +ekz
 
-Revision 1.42  2015/09/12 20:10:23  revo
-Cindy Moon McKee: +trd en
+versio 1.137 2022/09/07 18:41:16
+Wolfram Diestel: +ref
 
+versio 1.136 2022/05/01 17:51:19
 -->
 </vortaro>

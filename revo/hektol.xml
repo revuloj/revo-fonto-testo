@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hektol.xml,v 1.17 2009/09/04 16:30:42 revo Exp $">
+<art mrk="$Id: hektol.xml,v 1.23 2023/08/31 15:46:15 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>hektolitr</rad>/o
@@ -14,20 +13,19 @@
   <mlg>hl</mlg>
   <snc>
     <dif>
-      Praktika <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
-      kapacito, egala al cent <ref tip="prt" cel="litr.0o">litroj</ref>:
+      Praktika <ref tip="lst" cel="unu.mezur0o" lst="voko:kvantoj">mezurunuo</ref> de
+      volumeno egala al cent <ref tip="prt" cel="litr.0o">litroj</ref>:
       <ekz>
         la intervalo inter la el&scirc;prucoj, kiuj da&ubreve;ras &ccirc;irka&ubreve; 25 minutojn kaj liveras 600
-        <tld/>ojn da mineralakvo, estas 36&#8239;-&#8239;38 horoj
+        <tld/>ojn da mineralakvo, estas 36&#x202F;-&#x202F;38 horoj
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="&Monato;/2012/010472.php"
-              >Varmaj vortoj por malvarmaj akvoj</url></vrk>
+          <vrk><url ref="&Monato;/2012/010472.php">Varmaj vortoj por malvarmaj akvoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
-  </snc>                          
+  </snc>
   <trd lng="be">&c_g;&c_je;&c_k;&c_t;&c_a;&c_l;&c_ib;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_h;&c_je;&c_k;&c_t;&c_o;&c_l;&c_i;&c_t;&c_malmol;&c_r;</trd>
   <trd lng="br">hektolitr(ad)</trd>
@@ -42,13 +40,18 @@
   <trd lng="fr">hectolitre</trd>
   <trd lng="hu">hektoliter</trd>
   <trd lng="it">ettolitro</trd>
+  <trd lng="ja">&#x30D8;&#x30AF;&#x30C8;&#x30EA;&#x30C3;&#x30C8;&#x30EB;</trd>
   <trd lng="nl">hectoliter</trd>
   <trd lng="pt">hectolitro</trd>
   <trd lng="ru">&c_g;&c_je;&c_k;&c_t;&c_o;&c_l;&c_i;&c_t;&c_r;</trd>
+  <trd lng="uk">&c_g;&c_je;&#x43A;&c_t;&#x43E;&#x43B;&c_ib;&c_t;&c_r;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/06/21 20:27:47
+Wolfram Diestel: lst-ref, dif-vortigo
+
 Revision 1.19  2019/03/15 19:10:21  revo
 Wolfram Diestel: +ekz
 
@@ -68,8 +71,5 @@ Revision 1.14  2005/06/26 16:34:14  revo
 Alan ar Gall: +trd br
 
 Revision 1.13  2004/01/10 17:33:18  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2003/11/28 17:32:04  revo
 -->
 </vortaro>

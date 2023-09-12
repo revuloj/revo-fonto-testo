@@ -1,19 +1,26 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hidroc.xml,v 1.12 2009/09/10 16:31:46 revo Exp $">
+<art mrk="$Id: hidroc.xml,v 1.19 2023/08/31 15:46:16 revo Exp $">
 <kap>
   <rad>hidrocefal</rad>/o
+  <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="hidroc.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      <ref tip="lst" cel="san.mal0o.MED"
-      lst="voko:malsanoj">Malsano</ref> ka&ubreve;zata per amasi&gcirc;o de akvo en
-      la nervaj centroj.
+      <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">Malsano</ref> ka&ubreve;zata 
+      per amasi&gcirc;o de likva&jcirc;o en la cerbo:
+      <ekz>
+        liaj libroj traktis kirurgiajn teknikojn por <klr>[&#x2026;]</klr> <tld/>o, naza
+        polipo, strumo kaj tumoroj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=736926">Giulio Cesare Aranzi</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_d;&c_r;&c_a;&c_c;&c_e;&c_f;&c_a;&c_l;&c_ib;&c_ja;</trd>
@@ -35,6 +42,10 @@
   </trdgrp>
   <trd lng="id">hidrosefalus</trd>
   <trd lng="it">idrocefalia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6C34;&#x982D;&#x75C7;  [<ind>&#x3059;&#x3044;&#x3068;&#x3046;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x8133;&#x6C34;&#x816B;  [<ind>&#x306E;&#x3046;&#x3059;&#x3044;&#x3057;&#x3085;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>waterhoofd</trd>,
     <trd>hydrocefalie</trd>
@@ -50,8 +61,9 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>hydrocefalus</trd>,
-    <trd>vodnateľnosť mozgu</trd>
+    <trd>vodnate&lcaron;nos&tcaron; mozgu</trd>
   </trdgrp>
+  <trd lng="uk">&c_g;&c_ib;&c_d;&c_r;&c_o;&c_c;&c_je;&c_f;&c_a;&c_l;&c_ib;&c_ja;</trd>
 </drv>
 
 <drv mrk="hidroc.0a">
@@ -82,6 +94,7 @@
     <trd>v&iacute;zfej&udblac;</trd>,
     <trd>hidrocefalikus</trd>
   </trdgrp>
+  <trd lng="ja">&#x6C34;&#x982D;&#x75C7;&#x306E;  [<ind>&#x3059;&#x3044;&#x3068;&#x3046;&#x3057;&#x3087;&#x3046;&#x306E;</ind>]</trd>
   <trd lng="nl">hydrocefalisch</trd>
   <trd lng="pt">hidrocef&aacute;lico</trd>
   <trd lng="ru">&c_g;&c_i;&c_d;&c_r;&c_o;&c_c;&c_je;&c_f;&c_a;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
@@ -106,6 +119,7 @@
     <trd>hidrocefalikus<klr tip="ind"> (beteg)</klr></trd>
   </trdgrp>
   <trd lng="it">idrocefalo<klr> (sost.)</klr></trd>
+  <trd lng="ja">&#x6C34;&#x982D;&#x75C7;&#x60A3;&#x8005;  [<ind>&#x3059;&#x3044;&#x3068;&#x3046;&#x3057;&#x3087;&#x3046;&#x304B;&#x3093;&#x3058;&#x3083;</ind>]</trd>
   <trd lng="nl">hydrocefaal</trd>
   <trd lng="pt">hidroc&eacute;falo</trd>
   <trd lng="ru">&c_b;&c_o;&c_l;&c_mol;&c_n;&c_o;&c_j;
@@ -114,6 +128,9 @@
 </art>
 <!--
 $Log$
+versio 1.18 2023/05/10 18:32:29
+Wolfram Diestel: fnt PV, ekz, dif iom aktualigita
+
 Revision 1.15  2015/06/29 16:33:15  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -133,11 +150,5 @@ Revision 1.10  2004/01/10 17:34:06  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.9  2003/12/10 17:30:36  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2002/07/11 17:34:53  revo
-Alejandro Mejia Greene: ald 2 his trd
-
-Revision 1.7  2002/07/07 17:31:58  revo
 -->
 </vortaro>

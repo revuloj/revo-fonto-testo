@@ -1,37 +1,33 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: krom1.xml,v 1.20 2010/10/25 16:30:51 revo Exp $">
+<art mrk="$Id: krom1.xml,v 1.35 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <rad>krom</rad>/o <fnt><bib>VdE</bib></fnt>,
-  <var><kap><rad>&hcirc;rom</rad>/o</kap></var>,
-  <var><kap><rad>kromi</rad>/o <fnt><bib>PIV2</bib></fnt></kap></var>
+  <var><kap><rad var="&hcirc;">&hcirc;rom</rad>/o</kap></var>,
+  <var><kap><rad var="i">kromi</rad>/o <fnt><bib>PIV2</bib></fnt></kap></var>
 </kap>
 
 <drv mrk="krom1.0o">
   <kap><tld/>o,
-    <var><kap>&hcirc;romo</kap></var>,
-    <var><kap>kromio</kap></var>
+    <var><kap><tld var="&hcirc;"/>o</kap></var>,
+    <var><kap><tld var="i"/>o</kap></var>
   </kap>
   <snc mrk="krom1.0o.KEM">
     <uzo tip="fak">KEM</uzo>
     <mlg kod="IUPAC">Cr</mlg>
     <dif>
-      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
-        lst="voko:&hcirc;emiaj_elementoj" val="24">elemento</ref> 
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM" lst="voko:&hcirc;emiaj_elementoj" val="24">elemento</ref> 
       kun atomnumero 24, atompezo 51,996; grizeta, malmola
       transir<ref tip="super" cel="metal.0o.KEM">metalo</ref>,
       kies kombina&jcirc;oj kun aliaj metaloj estas rimarkindaj pro bela
       koloro kaj multe uzataj en la industrio:
       <ekz>
-        la roka&jcirc;o <klr>[&#8230;]</klr> elmontras altajn enhavojn de
-        &hcirc;romo kaj magnezio apud konsiderinda kalio
+        la roka&jcirc;o <klr>[&#x2026;]</klr> elmontras altajn enhavojn de
+        <tld var="&hcirc;"/>o kaj magnezio apud konsiderinda kalio
         <fnt>
           <aut>Petr Rajlich</aut>:
-          <vrk><url
-              ref="www.eventoj.hu/steb/geologio/bohemia-kratero.pdf"
-              >Bohemia kratero</url></vrk>.
+          <vrk><url ref="www.eventoj.hu/steb/geologio/bohemia-kratero.pdf">Bohemia kratero</url></vrk>.
           <lok>Scienca Revuo 2007:1 &ndash;  Geologio Internacia - 10, p.38</lok>
         </fnt>;
       </ekz>
@@ -42,17 +38,15 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle</aut>
-          <vrk><url ref="&Monato;/2015/011584.php"
-              >Ru&gcirc;aj &scirc;limoj en Mediteraneo</url></vrk>
+          <vrk><url ref="&Monato;/2015/011584.php">Ru&gcirc;aj &scirc;limoj en Mediteraneo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        estis venditaj &ccirc;irka&ubreve; 33 milionoj da tunoj da kromio
+        estis venditaj &ccirc;irka&ubreve; 33 milionoj da tunoj da <tld var="i"/>o
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="&Monato;/2011/010474.php"
-              >Ri&ccirc;a tero, malri&ccirc;a popolo</url></vrk>
+          <vrk><url ref="&Monato;/2011/010474.php">Ri&ccirc;a tero, malri&ccirc;a popolo</url></vrk>
         </fnt>;
       </ekz>
     </dif>  
@@ -72,8 +66,8 @@
       tiom pli malkonvene, ke la komplika&jcirc;on ka&ubreve;zas nur la malracia
       <ref cel="fobi.hxo0o">&hcirc;o-fobio</ref>: ja la regula esperantigo
       de la greka etimo <nac>&chi;&rho;&omega_circ;&my;&alfa;</nac> estas la senkolizia <ctl>&hcirc;romo</ctl>;
-      kaj la anstata&ubreve;igo &hcirc;&#8594;k estas &ccirc;i-okaze same malkonvena, kiel &ccirc;e
-      &hcirc;oro&#8594;koro a&ubreve; &hcirc;olero&#8594;kolero.  <aut>Sergio Pokrovskij</aut>
+      kaj la anstata&ubreve;igo &hcirc;&#x2192;k estas &ccirc;i-okaze same malkonvena, kiel &ccirc;e
+      &hcirc;oro&#x2192;koro a&ubreve; &hcirc;olero&#x2192;kolero.  <aut>Sergio Pokrovskij</aut>
     </rim>
   </snc>
   <trd lng="be">&c_h;&c_r;&c_o;&c_m;</trd>
@@ -86,6 +80,7 @@
   <trd lng="hu">kr&oacute;m</trd>
   <trd lng="id">kromium</trd>
   <trd lng="it">cromo</trd>
+  <trd lng="ja">&#x30AF;&#x30ED;&#x30E0;</trd>
   <trd lng="la">Chromium</trd>
   <trd lng="nl">chroom</trd>
   <trd lng="no">krom</trd>
@@ -96,20 +91,21 @@
   <trd lng="pl">chrom</trd>
   <trd lng="ru">&c_h;&c_r;&c_o;&c_m;</trd>
   <trd lng="sv">krom</trd>
+  <trd lng="uk">&#x445;&#x440;&#x43E;&#x43C;</trd>
 </drv>
 
 <drv mrk="krom1.0a">
   <kap><tld/>a, <var>
-      <kap>&hcirc;roma</kap>
+      <kap><tld var="&hcirc;"/>a</kap>
     </var>
   </kap>
   <snc mrk="krom1.0a.KEM">
     <dif>
       Rilata al <tld/>o:
       <ekz>
-        <tld/>aj (&hcirc;romaj) kombina&jcirc;oj;
+        <tld/>aj (<tld var="&hcirc;"/>aj) kombina&jcirc;oj;
       </ekz><ekz>
-        <tld/>a (&hcirc;roma) acido, alojo.
+        <tld/>a (<tld var="&hcirc;"/>a) acido, alojo.
       </ekz>
     </dif>
   </snc>
@@ -117,7 +113,12 @@
   <trd lng="en">chromic</trd>
   <trd lng="fr">chrom&eacute;</trd>
   <trd lng="id">kromat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x307B;&#x304B;&#x306E;</trd>,
+    <trd>&#x4F59;&#x5206;&#x306E;  [<ind>&#x3088;&#x3076;&#x3093;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_h;&c_r;&c_o;&c_m;&c_o;&c_v;&c_y;&c_j;</trd>
+  <trd lng="uk">&#x434;&#x43E;&#x434;&#x430;&#x442;&#x43A;&#x43E;&#x432;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="krom1.0i">
@@ -143,6 +144,9 @@
 </art>
   <!--
   $Log$
+versio 1.33 2020/09/06 18:32:10
+Wolfram Diestel: +tld-var
+
   Revision 1.31  2018/12/10 17:51:51  revo
   Wolfram Diestel: +var kromio, pliaj ekz-oj
 
@@ -162,35 +166,5 @@
   Sergio Pokrovskij: +fnt
 
   Revision 1.25  2013/10/07 02:10:10  revo
-  Sergio Pokrovskij: klarigo
-
-  Revision 1.24  2013/10/06 13:10:14  revo
-  Sergio Pokrovskij: fnt
-
-  Revision 1.23  2013/10/06 12:10:19  revo
-  Sergio Pokrovskij: +hxromo
-
-  Revision 1.22  2013/09/17 18:10:11  revo
-  Wolfram Diestel: simb. lau IUPAC, val
-
-  Revision 1.21  2013/08/24 20:11:19  revo
-  Wolfram Diestel: referenco al listo elementoj
-
-  Revision 1.20  2010/10/25 16:30:51  revo
-  Jerano Zachrisson: +trd sv
-
-  Revision 1.19  2010/07/04 16:30:22  revo
-  Agustin Garcia Lopez: +trd es (-i)
-
-  Revision 1.18  2006/06/05 16:41:33  revo
-  Sebastian Cyprych: +trd pl,la
-
-  Revision 1.17  2006/03/13 17:31:47  revo
-  Jeromo Vasxe: kor 1 mrk, + 1 trd fr
-
-  Revision 1.16  2006/01/27 17:31:15  revo
-  H. Neal Parker: +drv kromi
-
-  Revision 1.15  2006/01/03 17:32:03  revo
-  -->
+-->
 </vortaro>

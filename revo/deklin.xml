@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: deklin.xml,v 1.17 2009/07/08 16:31:23 revo Exp $">
+<art mrk="$Id: deklin.xml,v 1.28 2023/08/31 10:43:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>deklinaci</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,9 +12,27 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="deklin.0i.LIN">
     <dif>
-      Eldiri la kazaron de iu vorto.
+      Eldiri la <ref cel="kaz.0aro">kazaro</ref>n de iu vorto:
+      <ekz>
+        la numeraloj fundamentaj ne estas <tld/>ataj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        polaj numeraloj <tld/>i&gcirc;as
+        <fnt>
+          <aut>Bradley Kendal</aut>
+          <vrk><url ref="&Monato;/2002/007888.html">La pola, la lingvo de Zamenhof</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/11, p. 20</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <rim>
+    Ne konfuzu kun <ref tip="hom" cel="klin.de0i">deklini</ref>.
+  </rim>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_n;&c_ja;&c_c;&c_mol;</trd>
   <trd lng="ca">declinar<klr> (gram.)</klr></trd>
   <trdgrp lng="cs">
@@ -26,7 +43,9 @@
   <trd lng="en">decline</trd>
   <trd lng="es">declinar</trd>
   <trd lng="fr">d&eacute;cliner</trd>
+  <trd lng="he">&nun;&tet;&yod;&yod;&he;</trd>
   <trd lng="hu">ragoz (n&eacute;vsz&oacute;t)</trd>
+  <trd lng="ja">&#x683C;&#x5909;&#x5316;&#x3055;&#x305B;&#x308B;  [<ind>&#x304B;&#x304F;&#x3078;&#x3093;&#x304B;&#x3055;&#x305B;&#x308B;</ind>]</trd>
   <trd lng="nl">verbuigen<klr tip="ind"> (taalk.)</klr></trd>
   <trdgrp lng="pl">
     <trd>odmienia&cacute;<klr> przez przypadki</klr></trd>,
@@ -35,6 +54,11 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_k;&c_l;&c_o;&c_n;&c_ja;&c_t;&c_mol;</trd>
   <trd lng="sk">sklo&ncaron;ova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&#x43C;&c_ib;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i; &c_s;&#x43B;&#x43E;&c_v;&#x43E; &c_z;&c_a;
+    &c_v;&c_ib;&c_d;&#x43C;&c_ib;&#x43D;&#x43A;&c_a;&#x43C;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_h;&c_i;&#x43B;&#x44F;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="deklin.0o">
@@ -43,10 +67,24 @@
     <uzo tip="fak">LIN</uzo>
     <dif>
       Tuto de la modifoj, kiujn en iuj lingvoj ricevas substantivo,
-      pronomo a&ubreve; adjektivo la&ubreve; sia gramatika rolo;
-      <ref tip="prt" cel="kaz.0o.GRA">kaz</ref>aro:
+      pronomo a&ubreve; adjektivo la&ubreve; sia <ref tip="malprt" cel="gramat.0o.SCI">gramatika</ref> rolo;
+      <ref tip="sin" cel="kaz.0aro">kazaro</ref>:
       <ekz>
-        Esperanto havas dukazan, kaj latino seskazan <tld/>on.
+        Esperanto havas dukazan, kaj latino seskazan <tld/>on;
+      </ekz>
+      <ekz>
+        en la lingvoj naturaj ekzistas la plej komplikitaj kaj konfuzitaj <tld/>oj kaj
+        <ref cel="konjug1.0o">konjugacio</ref>j
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiuj enuigaj <tld/>oj kaj konjugacioj, super kiuj sur la tera globo &ccirc;iutage
+        oscedas miloj da infanoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -65,9 +103,15 @@
   <trd lng="en">declension</trd>
   <trd lng="es">declinaci&oacute;n</trd>
   <trd lng="fr">d&eacute;clinaison</trd>
+  <trd lng="he">&nun;&tet;&yod;&yod;&he;</trd>
   <trdgrp lng="hu">
     <trd>n&eacute;vsz&oacute;ragoz&aacute;s</trd>,
     <trd>deklin&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x683C;&#x5909;&#x5316;  [<ind>&#x304B;&#x304F;&#x3078;&#x3093;&#x304B;</ind>]</trd>,
+    <trd>&#x8D64;&#x7DEF;  [<ind>&#x305B;&#x304D;&#x3044;</ind>]</trd>,
+    <trd>&#x504F;&#x89D2;  [<ind>&#x3078;&#x3093;&#x304B;&#x304F;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>verbuiging</trd>,
@@ -85,11 +129,24 @@
     <trd>p&aacute;d <klr>(gramatick&yacute;)</klr></trd>,
     <trd>sklon</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&#x43C;&c_ib;&#x43D;&c_a;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_h;&c_i;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.27 2023/05/19 12:43:12
+Paul Peeraerts: + aut k lok
+
+versio 1.26 2023/05/03 16:39:01
+revo: aktualigo URL-unuoj
+
+versio 1.24 2021/10/09 17:30:16
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.21  2017/02/21 13:10:13  revo
 Jeromo Vasxe: esp-o -> Esperanto, retusx. dif
 
@@ -103,11 +160,5 @@ Revision 1.18  2012/09/04 09:10:14  revo
 Marc Rausell: + trd ca
 
 Revision 1.17  2009/07/08 16:31:23  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.16  2009/04/27 16:31:03  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.15  2007/07/19 16:31:17  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hermin.xml,v 1.8 2007/07/04 16:30:47 revo Exp $">
+<art mrk="$Id: hermin.xml,v 1.16 2023/08/31 15:46:16 revo Exp $">
 <kap>
   <rad>hermini</rad>/o
 </kap>
@@ -11,20 +10,17 @@
   <kap>
     <tld/>o
   </kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+  <uzo tip="fak">ZOO</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref tip="malprt" cel="noktue.0oj">noktuedoj</ref>
       (<trd lng="la">Herminia</trd>), nokta 
       <ref tip="lst" cel="papili.0o" lst="voko:papilioj">papilio</ref>.
     </dif>
-    <bld
-      lok="&WCU;/thumb/7/72/Herminia_tarsipennalis01.jpg/311px-Herminia_tarsipennalis01.jpg"
-      ><tld/>o (Herminia tarsipennalis)
+    <bld lok="&WCU;/thumb/7/72/Herminia_tarsipennalis01.jpg/311px-Herminia_tarsipennalis01.jpg"><tld/>o (Herminia tarsipennalis)
         <fnt>
-          <aut>©entomartIn</aut>
-          <lok><url ref="&WCW;/File:Herminia_tarsipennalis01.jpg"
-              >https://commons.wikimedia.org/wiki/File:Herminia_tarsipennalis01.jpg</url></lok>
+          <aut>&#xA9;entomartIn</aut>
+          <lok><url ref="&WCW;/File:Herminia_tarsipennalis01.jpg">&WCW;/File:Herminia_tarsipennalis01.jpg</url></lok>
         </fnt>
     </bld>
   </snc>
@@ -41,15 +37,24 @@
     <trd>Spannereule <klr>(Nachtfalter)</klr></trd>,
     <trd>Eulenfalter <klr>(Herminia)</klr></trd>
   </trdgrp>
+  <trd lng="fr">Herminie</trd>
+  <trd lng="ja">&#x30A2;&#x30C4;&#x30D0;&#x30AC;&#x306E;&#x4EF2;&#x9593;  [<ind>&#x30A2;&#x30C4;&#x30D0;&#x30AC;&#x306E;&#x306A;&#x304B;&#x307E;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>herminia</trd>,
     <trd>uiltje<klr tip="ind"> (nachtvlinder)</klr></trd>
   </trdgrp>
   <trd lng="pt">borboleta noturna</trd>
+  <trd lng="uk">&#x441;&#x43E;&#x432;&#x43A;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.15 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.13 2020/05/11 14:10:28
+Damien Brucker: +trd fr
+
 Revision 1.11  2013/10/07 16:10:12  revo
 Wolfram Diestel: ref la lst papilioj
 
@@ -66,8 +71,5 @@ Revision 1.7  2007/04/27 16:30:37  revo
 Tulio Flores: +tr pt
 
 Revision 1.6  2001/11/20 17:39:49  revo
-Paul Peeraerts: aldonis nl trd
-
-Revision 1.5  2001/05/01 11:37:16  revo
 -->
 </vortaro>

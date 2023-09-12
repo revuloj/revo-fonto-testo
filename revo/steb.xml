@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: steb.xml,v 1.21 2023/09/04 15:14:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>steb</rad>/i <fnt><bib>PV</bib></fnt>
@@ -19,7 +18,12 @@
         <fnt><aut>J. Baghy</aut>, <vrk>Sur Sanga Tero</vrk>, 
         <lok>1933</lok></fnt>.
       </ekz>
-    </dif>
+    </dif>    
+    <trdgrp lng="de">
+      <trd>steppen</trd>,
+      <trd>absteppen</trd>,
+      <trd>durchn&auml;hen</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_sh;&c_y;&c_c;&c_mol; <klr>(&c_n;&c_a; &c_sh;&c_v;&c_je;&c_j;&c_n;&c_a;&c_j; &c_m;&c_a;&c_sh;&c_y;&c_n;&c_c;&c_y;)</klr></trd>,
@@ -27,9 +31,9 @@
   </trdgrp>
   <trd lng="ca">cosir a m&agrave;quina</trd>
   <trdgrp lng="cs">
-    <trd>prošívat</trd>,
-    <trd>štepovat</trd>,
-    <trd>šít na stroji</trd>
+    <trd>pro&scaron;&#xED;vat</trd>,
+    <trd>&scaron;tepovat</trd>,
+    <trd>&scaron;&#xED;t na stroji</trd>
   </trdgrp>
   <trd lng="de">steppen</trd>
   <trd lng="en">sew <klr>(with a sewing machine)</klr></trd>
@@ -37,14 +41,23 @@
   &a_kh;&f_y;&a_A;&a_T;&f_y;)</klr></trd>
   <trd lng="fr">coudre &agrave; la machine</trd>
   <trd lng="hu">varr<klr tip="ind"> (g&eacute;ppel)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DF;&#x30B7;&#x30F3;&#x3067;&#x7E2B;&#x3046;  [<ind>&#x307F;&#x3057;&#x3093;&#x3067;&#x306C;&#x3046;</ind>]</trd>,
+    <trd>&#x5408;&#x308F;&#x305B;&#x7E2B;&#x3044;&#x3059;&#x308B;  [<ind>&#x3042;&#x308F;&#x305B;&#x306C;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">stikken<klr tip="ind"> (m.naaimachine)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_sh;&c_i;&c_t;&c_mol; &c_n;&c_a; &c_sh;&c_v;&c_je;&c_j;&c_n;&c_o;&c_j; &c_m;&c_a;&c_sh;&c_i;&c_n;&c_k;&c_je;</trd>,
     <trd>&c_s;&c_t;&c_r;&c_o;&c_ch;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>prešívať <klr>(paplón, vestu)</klr></trd>,
-    <trd>prešívať <klr>(paplón| vestu)</klr></trd>
+    <trd>pre&scaron;&#xED;va&tcaron; <klr>(papl&#xF3;n, vestu)</klr></trd>,
+    <trd>pre&scaron;&#xED;va&tcaron; <klr>(papl&#xF3;n| vestu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_sh;&c_i;&c_t;&c_i; &#x43D;&c_a; &#x43C;&c_a;&c_sh;&c_i;&#x43D;&c_c;&c_ib;</trd>,
+    <trd>&c_s;&c_t;&c_r;&#x43E;&c_ch;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_s;&c_t;&#x44C;&#x43E;&c_b;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -56,17 +69,39 @@
   </snc>
   <trd lng="be">&c_sh;&c_v;&c_je;&c_j;&c_n;&c_a;&c_ja; &c_m;&c_a;&c_sh;&c_y;&c_n;&c_k;&c_a;</trd>
   <trd lng="ca">m&agrave;quina de cosir</trd>
-  <trd lng="cs">jehla do šicího stroje</trd>
+  <trd lng="cs">jehla do &scaron;ic&#xED;ho stroje</trd>    
+    <trdgrp lng="de">
+      <trd>Steppmaschine</trd>
+    </trdgrp>
   <trd lng="en">sewing machine</trd>
   <trd lng="fa">&f_ch;&a_r;&a_kh; &a_kh;&f_y;&a_A;&a_T;&f_y;</trd>
   <trd lng="fr">machine &agrave; coudre</trd>
   <trd lng="hu">varr&oacute;g&eacute;p</trd>
+  <trd lng="ja">&#x30DF;&#x30B7;&#x30F3;&#x91DD;  [<ind>&#x30DF;&#x30B7;&#x30F3;&#x306F;&#x308A;</ind>]</trd>
   <trd lng="ru">&c_sh;&c_v;&c_je;&c_j;&c_n;&c_a;&c_ja; &c_m;&c_a;&c_sh;&c_i;&c_n;&c_k;&c_a;</trd>
-  <trd lng="sk">ihla do šijacieho stroja</trd>
+  <trd lng="sk">ihla do &scaron;ijacieho stroja</trd>
+  <trd lng="uk">&c_g;&#x43E;&#x43B;&#x43A;&c_a; (&c_d;&#x43B;&#x44F; &c_sh;&c_v;&c_je;&c_j;&#x43D;&#x43E;&c_ji;
+  &#x43C;&c_a;&c_sh;&c_i;&#x43D;&c_i;)</trd>
 </drv>
+    <adm>
+	Stebi ne estas la sama kiel kudri, kaj stebilo ne estas kudroma&scirc;ino.
+	Stebi estas specialigo de kudrado por speciala rezulto. PIVo anka&ubreve;
+	substrekas tion kaj klarigas la te&hcirc;nikon.
+	Sekve, la aktuala ReVa difino kaj la aktualaj tradukoj anglen kaj francen
+	estas miaopinie dubindaj. La Fundamento diras, ke stebi france signifas 
+        piquer, germanlingve steppen. Tio konformas al mia vortaro DE-FR. La 
+        angla lingvo distingas, la&ubreve; la materialo, inter to quilt kaj aliaj vortoj (tuft, 
+        stitch, ktp.), la verbon quilt la Fundamento prezentas.
+	Se stebi estas DE steppen, stebilo estas en la germana Steppmaschine, 
+        kaj sekve en la franca - la&ubreve; la vortaro de Weis kaj Mattutat - machine &agrave; 
+        piquer, a&ubreve; piqueuse. Por la angla mi ne trovis vorton por la ma&scirc;ino.
+    </adm>
 </art>
 <!--
 $Log$
+versio 1.20 2023/05/19 17:27:37
+Ulrich Fellmann: stebi, stebilo: +3 DE trdj, + administra noto
+
 Revision 1.17  2015/06/29 16:40:19  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -86,14 +121,5 @@ Revision 1.12  2009/02/19 20:27:34  revo
 Russ Williams: +trd en
 
 Revision 1.11  2004/10/29 16:32:00  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2004/08/02 18:55:21  revo
-Jeromo Vasxe: + fak teks, + ref dif, + trd fr
-
-Revision 1.9 2003/02/21 17:31:41 revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.8 2002/02/23 19:49:49 revo
 -->
 </vortaro>

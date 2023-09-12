@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: ventri.xml,v 1.24 2023/09/05 09:43:54 revo Exp $">
 <kap>
   <rad>ventrikl</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -25,7 +24,7 @@
   <trd lng="ca">ventricle</trd>
   <trdgrp lng="cs">
     <trd>komora</trd>,
-    <trd>tělní dutina</trd>,
+    <trd>t&#x11B;ln&#xED; dutina</trd>,
     <trd>ventrikl</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -37,6 +36,7 @@
   <trd lng="fr">ventricule</trd>
   <trd lng="hu">(sz&iacute;v)<ind>kamra</ind></trd>
   <trd lng="it">ventricolo</trd>
+  <trd lng="ja">&#x5BA4;  [<ind>&#x3080;&#x308D;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>ventrikel</trd>,
     <trd>kamer<klr tip="ind"> (v.hart)</klr></trd>
@@ -47,15 +47,20 @@
        
   </trdgrp>
   <trd lng="pt">ventr&iacute;culo</trd>
+  <trd lng="ro">ventricul</trd>
   <trd lng="ru">&c_zh;&c_je;&c_l;&c_u;&c_d;&c_o;&c_ch;&c_je;&c_k;</trd>
   <trdgrp lng="sk">
     <trd>komora</trd>,
-    <trd>telesná dutina</trd>
+    <trd>telesn&#xE1; dutina</trd>
   </trdgrp>
+  <trd lng="uk">&c_sh;&#x43B;&c_u;&#x43D;&#x43E;&c_ch;&#x43E;&#x43A; (&c_s;&c_je;&c_r;&c_c;&#x44F;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/03/20 13:35:27
+Paul Peeraerts: + trd ro
+
 Revision 1.20  2015/06/28 12:03:50  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -75,11 +80,5 @@ Revision 1.15  2010/05/15 16:31:03  revo
 Agustin Garcia Lopez: Korekti eraro (es)
 
 Revision 1.14  2010/05/14 16:30:48  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.13  2010/04/16 16:31:53  revo
-Russ Williams: +trd en
-
-Revision 1.12  2005/04/26 16:32:00  revo
 -->
 </vortaro>

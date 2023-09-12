@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: napalm.xml,v 1.3 2010/06/21 16:30:30 revo Exp $">
+<art mrk="$Id: napalm.xml,v 1.10 2023/09/02 12:44:20 revo Exp $">
 <kap>
   <rad>napalm</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,6 +23,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_l;&c_m;</trd>
   <trd lng="bg">&c_n;&c_a;&c_p;&c_a;&c_l;&c_m;</trd>
   <trd lng="ca">napalm</trd>
   <trd lng="cs">napalm</trd>
@@ -32,17 +32,27 @@
   <trd lng="es">napalm</trd>
   <trd lng="fr">napalm</trd>
   <trd lng="it">napalm</trd>
+  <trd lng="ja">&#x30CA;&#x30D1;&#x30FC;&#x30E0;</trd>
   <trd lng="nl">napalm</trd>
+  <trd lng="pl">napalm</trd>
   <trd lng="pt">napalm</trd>
+  <trd lng="ro">napalm</trd>
   <trdgrp lng="sk">
-    <trd>horľavá bojová látka</trd>,
+    <trd>hor&lcaron;av&aacute; bojov&aacute; l&aacute;tka</trd>,
     <trd>napalm</trd>
   </trdgrp>
+  <trd lng="uk">&#x43D;&c_a;&#x43F;&c_a;&#x43B;&#x43C;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.9 2022/04/30 18:36:00
+Dmitri Gabinski: + trd be
+
+versio 1.7 2021/03/03 23:10:44
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.5  2015/06/29 16:33:20  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -57,6 +67,5 @@ Antonio Codazzi: +trd it
 
 Revision 1.1  2006/02/02 17:31:38  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

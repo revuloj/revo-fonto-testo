@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: orl.xml,v 1.15 2010/11/04 17:30:50 revo Exp $">
+<art mrk="$Id: orl.xml,v 1.20 2023/09/03 07:12:35 revo Exp $">
 <kap>
   <rad>orl</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -11,23 +10,45 @@
   <snc mrk="orl.0o.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
-      Tia kudrita faldo de &scirc;tofpeco, ke la rando
-      de la peco ne plu estas videbla kaj ne riskas
-      diseri&gcirc;i:
+      Tia kudrita <ref tip="super" cel="fald.0o">faldo</ref> de &scirc;tofpeco, 
+      ke la <ref cel="rand.0o.KOMUNE">rando</ref> de la peco ne plu estas
+      videbla kaj ne riskas diseri&gcirc;i:
       <ekz>
-        po&scirc;tuko kun lar&gcirc;a <tld/>o.
+        po&scirc;tuko kun lar&gcirc;a <tld/>o;
+      </ekz>
+      <ekz>
+        &scirc;i kun malfacilo penis for&scirc;iri strion de la <tld/>o de sia robo
+        <fnt>
+          <bib>StU</bib>
+          <lok>Britujo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pinto de la piedo <klr>[&#x2026;]</klr> vidi&gcirc;etis sub la <tld/>o de &scirc;ia robo
+        <fnt>
+          <bib>StU</bib>
+          <lok>La Nazaretanoj</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="border.0ajxo">bordera&jcirc;o</ref>,
+      <ref cel="fald.re0o">refaldo</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>lem</trd>,
     <trd>obruba</trd>,
-    <trd>zahnutí</trd>
+    <trd>zahnut&iacute;</trd>
   </trdgrp>
   <trd lng="de">Saum</trd>
   <trd lng="en">hem</trd>
   <trd lng="fr">ourlet</trd>
   <trd lng="hu">szeg&eacute;ly</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3078;&#x308A;</trd>,
+    <trd>&#x3075;&#x3061;&#x7E2B;&#x3044;  [<ind>&#x3075;&#x3061;&#x306C;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zoom</trd>
   <trdgrp lng="pl">
     <trd>obr&eogonek;bek</trd>,
@@ -46,6 +67,7 @@
     <trd>okraj</trd>
   </trdgrp>
   <trd lng="sv">f&aring;ll</trd>
+  <trd lng="uk">&c_r;&c_u;&c_b;&c_je;&c_c;&c_mol; (&c_sh;&c_o;&c_v;)</trd>
 </drv>
 
 <drv mrk="orl.0i">
@@ -56,6 +78,7 @@
     <dif>
       Fari <tld/>on.
     </dif>
+<ref tip="sin" cel="border.refaldo0i">refaldoborderi</ref>
     <refgrp tip="vid">
       <ref cel="border.0i.sxtofon">borderi</ref>,
       <ref cel="kudr.cxirkaux0i">&ccirc;irka&ubreve;kudri</ref>
@@ -70,6 +93,10 @@
   <trd lng="en">hem</trd>
   <trd lng="fr">ourler</trd>
   <trd lng="hu">beszeg</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3075;&#x3061;&#x7E2B;&#x3044;&#x3059;&#x308B;  [<ind>&#x3075;&#x3061;&#x306C;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3075;&#x3061;&#x3092;&#x307E;&#x3064;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">zomen</trd>
   <trdgrp lng="pl">
     <trd>obr&eogonek;bia&cacute;</trd>,
@@ -82,14 +109,21 @@
     <klr>(&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_ju;)</klr></trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>lemovať</trd>,
-    <trd>obrúbiť</trd>
+    <trd>lemova&tcaron;</trd>,
+    <trd>obr&uacute;bi&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">f&aring;lla</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_ib;&c_d;&c_r;&c_u;&c_b;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_ib;&c_d;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_i; (&c_m;&c_a;&c_t;&c_je;&c_r;&c_ib;&c_ju;)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2023/05/05 13:26:36
+Wolfram Diestel: +ekz, ref
+
 Revision 1.16  2015/06/29 16:33:22  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -109,11 +143,5 @@ Revision 1.11  2006/05/20 16:31:57  revo
 Tulio Flores: +tr pt
 
 Revision 1.10  2004/08/29 16:33:08  revo
-Marc Bavant: ~i: +uzo TEKS
-
-Revision 1.9  2004/08/23 16:33:04  revo
-Marc Bavant: ~o: mod dif; -uzo TEK, +uzo TEKS; ~i: +ref al borderi,
-cxirkauxkudri
-
 -->
 </vortaro>

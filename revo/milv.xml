@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: milv.xml,v 1.18 2010/03/14 17:30:22 revo Exp $">
+<art mrk="$Id: milv.xml,v 1.25 2023/09/02 06:04:12 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>milv</rad>/o
@@ -12,8 +11,7 @@
   <snc mrk="milv.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      Genro el familio <ref tip="super"
-      cel="akcipi1.0oj">akcipitredoj</ref>
+      Genro el familio <ref tip="super" cel="akcipi1.0oj">akcipitredoj</ref>
       (<trd lng="la">Milvus</trd>), kun longa V-forma vosto:
       <ekz>
         kaj la vulturon kaj la falkon kaj la <tld/>on kun &gcirc;ia speco  
@@ -39,14 +37,10 @@
         </fnt>.
       </ekz>
     </dif>
-    <bld
-       lok="&WCU;/thumb/3/30/Red_kite_%28Milvus_milvus%29.jpg/640px-Red_kite_%28Milvus_milvus%29.jpg"
-       prm="CC BY-SA 4.0"
-       ><ind>ru&gcirc;a <tld/>o</ind> (Milvus milvus), Bernwood Meadows, Buckinghamshire
+    <bld lok="&WCU;/thumb/3/30/Red_kite_%28Milvus_milvus%29.jpg/640px-Red_kite_%28Milvus_milvus%29.jpg" prm="CC BY-SA 4.0"><ind>ru&gcirc;a <tld/>o</ind> (Milvus milvus), Bernwood Meadows, Buckinghamshire
          <fnt>
            <aut>Charles J Sharp, propra verko, de Sharp Photography</aut>
-           <lok><url ref="&WCW;/File:Red_kite_(Milvus_milvus).jpg"
-               >&WCW;/File:Red_kite_(Milvus_milvus).jpg</url></lok>
+           <lok><url ref="&WCW;/File:Red_kite_(Milvus_milvus).jpg">&WCW;/File:Red_kite_(Milvus_milvus).jpg</url></lok>
          </fnt>
       <trd lng="de">Rotmilan</trd>
       <trd lng="hu">v&ouml;r&ouml;s <ind>k&aacute;nya</ind></trd>
@@ -61,12 +55,20 @@
   <trd lng="fa">&f_k;&a_w;&a_r;&f_k;&a_w;&a_r;</trd>
   <trd lng="fr">milan</trd>
   <trd lng="hu">k&aacute;nya</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C8;&#x30D3;</trd>,
+    <trd>&#x30C8;&#x30F3;&#x30D3;  [<ind>&#x3068;&#x3093;&#x3073;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wouw</trd>
   <trd lng="pl">kania</trd>
   <trd lng="pt">milhafre</trd>
   <trd lng="ru">&c_k;&c_o;&c_r;&c_sh;&c_u;&c_n;</trd>
   <trd lng="sk">haja</trd>
   <trd lng="cs">lu&ncaron;&aacute;k</trd>
+  <trdgrp lng="uk">
+    <trd>&#x448;&#x443;&#x43B;&#x456;&#x43A;&#x430;</trd>,
+    <trd>&#x43A;&#x43E;&#x440;&#x448;&#x430;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: galabij.xml,v 1.2 2007/07/02 16:30:19 revo Exp $">
+<art mrk="$Id: galabij.xml,v 1.9 2022/04/30 08:42:40 revo Exp $">
 <kap>
   <rad>galabij</rad>/o <fnt><bib>NeoGlo</bib></fnt>
 </kap>
@@ -29,12 +29,50 @@
         la gvardio de la fremda re&gcirc;ino fakte konsistis el regul-armeaj 
         ta&ccirc;mentanoj, sub kies luksaj <tld/>oj ka&scirc;i&gcirc;is oficialaj fusiloj
         <fnt><aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>, <vrk>Cent 
-        Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>.
+        Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>;
       </ekz>
-    </dif>
+      <ekz>
+        lia posteseo &leftquot;<tld lit="G"/>o en Bruselo&rightquot;
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Carlo Minnaja</aut>
+          <vrk><url ref="&Monato;/2005/008606.php"
+              >Du vivpoemaroj</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la poeto vidas maljunan virinon &ccirc;e dompordo,
+        vestitan en blanka <tld/>o
+        <fnt>
+          <aut>M. Nervi</aut>,
+          <vrk><url
+          ref="http://www.everk.it/index.php?id=21,59,0,0,1,0">
+          Galabijo en Bruselo...</url></vrk>,
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>  
+    <refgrp tip="vid">
+       <ref cel="gxelab.0o">&gcirc;elabo</ref>,
+       <ref cel="kaftan.0o">kaftano</ref>,
+       <ref cel="surtut.0o">surtuto</ref>
+    </refgrp>
+    <bld
+      lok="&WCU;/thumb/9/90/Egyptian_musicians.jpg/360px-Egyptian_musicians.jpg"
+      prm="PD"
+      >egiptaj muzikantoj en <tld/>oj
+        <fnt>
+          <aut>Zerida, wikipedia english</aut>
+          <lok><url ref="&WCW;/File:Egyptian_musicians.jpg"
+              >&WCW;/File:Egyptian_musicians.jpg</url></lok>
+        </fnt>
+    </bld>
   </snc>
-  <trdgrp lng="en"><trd>jellabiya</trd>, <trd>galabia</trd>,
-  <trd>galabiya</trd></trdgrp>
+  <trdgrp lng="en">
+    <trd>galabia</trd>,
+    <trd>galabiya</trd>
+  </trdgrp>
   <trd lng="cs">gal&aacute;bie</trd>
   <trd lng="de">Galabiyah</trd>
   <trd lng="fr">galabiyah</trd>
@@ -49,6 +87,15 @@
 
 <!--
 $Log$
+versio 1.9 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.8 2021/05/23 11:49:05
+Wolfram Diestel: +bld
+
+versio 1.7 2021/05/23 10:55:48
+Wolfram Diestel: +ekz, ref-oj
+
 Revision 1.5  2015/09/12 20:10:31  revo
 Cindy Moon McKee: +trd en
 
@@ -62,7 +109,5 @@ Revision 1.2  2007/07/02 16:30:19  revo
 Wieland Pusch: +trd de
 
 Revision 1.1  2007/05/05 16:30:23  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

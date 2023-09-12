@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: front.xml,v 1.18 2010/07/15 16:30:21 revo Exp $">
+<art mrk="$Id: front.xml,v 1.121 2023/09/01 18:29:24 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>front</rad>/o <fnt><bib>PV</bib></fnt>
@@ -11,37 +10,70 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="front.0o.antauxo">
     <dif>
-      Anta&ubreve;a, la&ubreve;lar&gcirc;a, kvaza&ubreve;frunta parto de
-      objekto:
+      Anta&ubreve;a, la&ubreve;lar&gcirc;a parto de objekto,
+      kontraste al <ref tip="ant" cel="dors.0o.malantauxa">dorso<sncref/></ref>:
       <ekz>
-        <uzo tip="fak">ARKI</uzo>
-        <ind><tld/>o de konstrua&jcirc;o</ind>, de palaco;
-        <trd lng="hu">homlokzat</trd>
-      </ekz>
-      <ekz>
-        <ind><tld/>a</ind> fenestro;
-        <trd lng="fr">frontal</trd>
-        <trd lng="nl">frontaal</trd>
-        <trd lng="hu">homlokzati ablak</trd>
-      </ekz>
-      <ekz>
-        <ind><tld/>artikolo</ind> de gazeto
-        <klr>(tiu &ccirc;e la plej anta&ubreve;a loko;
-        &ccirc;efartikolo.)</klr>
-        <trd lng="nl">hoofdartikel</trd>
-      </ekz>
-      <ekz>
-        la generaloj sin lokis en la <tld/>o de l' kolonoj
+        la kastela <tld/>o rigardanta la parkon
         <fnt>
-          <bib>Far3</bib>
-          <lok>&Ccirc;apitro XVI</lok>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref cel="artiko.cxef0o"><tld/>artikolo</ref> de gazeto;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MET</uzo>
+        varm<tld/>o, &scirc;torm<tld/>o, <ind>termika <tld/>parametro</ind>;
+        <trd lng="de">thermischer Frontparameter</trd>
+      </ekz>
+      <ekz>
+        floroj en helru&gcirc;aj potoj <klr>[&#8230;]</klr> gaje falis en la okulojn sur la blanka
+        <tld/>o de la domo
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> vidas kiel la doma&ccirc;oj de la urbo montras sian <tld/>on al &scirc;i,
+        kiel konatajn viza&gcirc;ojn
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Bj&ouml;rn Erik H&ouml;ijer</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ordonis porti sian portilon en la fronto de la kolono
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni, studentoj, vigle eliras <klr>[&#8230;]</klr> kun vi anta&ubreve; la <tld/>o, kaj
+        viandistoj kaj tajloroj kaj butikistoj malanta&ubreve;e
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
         </fnt>;
       </ekz>
       <ekz>
         en la <tld/>o de la bando iris grandega laboristo kun tor&ccirc;o
         <fnt>
           <bib>Far3</bib>
-          <lok>&Ccirc;apitro XVI</lok>
+          <lok>&ccirc;apitro 16a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> aran&gcirc;is apartan ri&ccirc;an fotoekspozicion &ccirc;e la <tld/>o de la
+        parlamentejo, la&ubreve; granda bulvardo
+        <fnt>
+
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2010/010173.php">Centjari&gcirc;o de Patrino Tereza</url></vrk>
+              <bib>Monato</bib>
+          <lok>2010/11, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -53,22 +85,31 @@
         </fnt>;
       </ekz>
       <ekz>
-        <uzo tip="fak">POL</uzo>
-        li aktivus en la Nacia <tld lit="F"/>o (la ekstremdekstra rasista partio)
+        ornamaj marmorfrontoj de la publikaj palacoj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/006947.html'>REAGO: 
-           Eks-Jugoslavio: kiu kiun mistifikas?</url></vrk>
+          <bib>VaK</bib>
+          <lok>Kvina &Ccirc;apitro</lok>
         </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="vid">
-      <ref cel="fasad.0o">fasado</ref>,
-      <ref cel="fronto.0o">frontono</ref>;
-      ne konfuzu kun:
-      <ref cel="frunt.0o">frunto</ref>.
+    <refgrp tip="sub">
+      <ref cel="avers.0o.KOMUNE">averso</ref>
     </refgrp>
+    <refgrp tip="vid">
+      <ref cel="antaux.0o.loke">anta&ubreve;o<sncref/></ref>,
+      <ref cel="fasad.0o">fasado</ref>,
+      <ref cel="fronto.0o">frontono</ref>,
+      <ref cel="vizagx.0o.de_objekto">viza&gcirc;o<sncref/></ref>
+    </refgrp>
+    <rim>
+      Ne konfuzu kun:
+      <ref cel="frunt.0o">frunto</ref>.
+    </rim>
     <trd lng="bg">&c_p;&c_r;&c_je;&c_d;&c_n;&c_a; &c_s;&c_t;&c_r;&c_a;&c_n;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Stirnseite</trd>,
+      <trd>Vorderseite</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>front</trd>,
       <trd>prz&oacute;d</trd>,
@@ -76,15 +117,27 @@
     </trdgrp>
   </snc>
   <snc mrk="front.0o.MIL">
-     <uzo tip="fak">MIL</uzo>
-     <dif>
-       Anta&ubreve;a, la&ubreve;lar&gcirc;a, linio de armeo, kie okazas
-       la bataloj:
-       <ekz>
-         <ind><tld/>o de armeo</ind>;
-       </ekz>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Anta&ubreve;a, la&ubreve;lar&gcirc;a, <ref tip="super" cel="lini.0o.KOMUNE">linio</ref> de armeo, kie okazas
+      la bataloj:
       <ekz>
-        mia patro estas tre malsana, kaj dume mi, en la <tld/>o 
+        aran&gcirc;is sin la Izraelidoj kaj la Fili&scirc;toj, <tld/>on kontra&ubreve; <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 17:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        metu <nom>Urijan</nom> en la <tld/>on de la plej forta batalo, <klr>[&#8230;]</klr> ke li estu
+        frapita kaj mortu
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 11:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia patro estas tre malsana, kaj dume mi, en la <tld/>o
         de la armeo devas gardi la dezerton, por ke la sabloj ne forkuru el &gcirc;i
         <fnt>
           <bib>Far2</bib>
@@ -93,50 +146,101 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        la franca estas kunpremata de du <tld/>oj: 
+        la franca estas kunpremata de du <tld/>oj:
         de supre &gcirc;i estas barata de la angla, de malsupre de la regionaj lingvoj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007000.html'>Atento por 
+
+          <aut>Andr&eacute; Albault</aut>
+          <vrk><url ref="&Monato;/2000/007000.php">Atento por
            etaj kaj monda lingvoj</url></vrk>
+           <bib>Monato</bib>
+           <lok>2000/06, p. 4</lok>
+
         </fnt>.
       </ekz>
-     </dif>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="falang.0o.MIL">falango<sncref/></ref>
+    </refgrp>
      <trd lng="bg">&c_f;&c_r;&c_o;&c_n;&c_t;</trd>
+     <trd lng="de">vorderste <ind>Gefechtslinie</ind></trd>
      <trdgrp lng="hu">
        <trd>arcvonal</trd>,
        <trd>front</trd>
      </trdgrp>
      <trd lng="nl">front</trd>
      <trd lng="pl">front</trd>
-   </snc>
-   <adm>
-     Indus fari specialan snc por la uzo POL.
-     <aut>MB</aut>
-   </adm>
-   <adm>
-     Indus korekti tradukojn post aldono de la uzo MIL.
-     <aut>SC</aut>
+  </snc>
+  <snc mrk="front.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="organi2.0ajxo">Organiza&jcirc;o</ref> kun difinita, plej ofte ideologia, celo:
+      <ekz>
+        la Ru&gcirc;a <tld lit="F"/>o estas malpermesita, sed &gcirc;i vivas
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        li aktivus en la Nacia <tld lit="F"/>o (la ekstremdekstra rasista partio)
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio:
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="brigad.0o">brigado</ref>,
+      <ref cel="parti.0o.POL">partio<sncref/></ref>
+    </refgrp>
+  </snc>
+  <adm>
+     Neceses eventuale korekti kelkajn tradukojn post apartigo de snc flanko|MIL|POL.
   </adm>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_r;&c_o;&c_n;&c_t;</trd>,
+    <trd>&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib; &c_k;&c_r;&c_a;&c_j;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trd lng="af">front</trd>
+  <trd lng="am">&#x134A;&#4725;&#4616;&#x134A;&#4725;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_j;&a_b;&a_h;&a_t_marbuta;</trd>
+  <trd lng="az">&ouml;n</trd>
+  <trd lng="bn">&#x9B8;&#x9BE;&#x9AE;&#x9A8;&#x9C7;</trd>
+  <trd lng="bs">prednji</trd>
+  <trd lng="co">fronte,</trd>
   <trdgrp lng="cs">
     <trd>fronta</trd>,
     <trd>pr&uring;&ccaron;el&iacute;</trd>,
     <trd>p&rcaron;edn&iacute; &ccaron;&aacute;st</trd>,
     <trd>&ccaron;elo</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>Front</trd>,
-    <trd>Vorderseite</trd>,
-    <trd>Stirnseite</trd>
-  </trdgrp>
+  <trd lng="cy">blaen</trd>
+  <trd lng="da">forside</trd>
+  <trd lng="de">Front</trd>
   <trd lng="en">front</trd>
   <trd lng="es">frente</trd>
+  <trd lng="et">ees</trd>
+  <trd lng="eu">aurrean</trd>
   <trdgrp lng="fr">
     <trd>front<klr tip="ind"> (partie ant&eacute;rieure)</klr></trd>,
     <trd>avant<klr tip="ind"> (ligne de front)</klr></trd>,
     <trd>ligne de front</trd>,
     <trd>bloc<klr tip="ind"> (parti politique)</klr></trd>
   </trdgrp>
+  <trd lng="fy">front</trd>
+  <trd lng="ga">tosaigh</trd>
+  <trd lng="gd">air beulaibh</trd>
+  <trd lng="gl">fronte</trd>
+  <trd lng="gu">&#xAB8;&#xABE;&#xAAE;&#xAC7;</trd>
+  <trd lng="ha">gaba</trd>
+  <trd lng="hi">&#2360;&#x93E;&#x92E;&#2344;&#2375;</trd>
+  <trd lng="hmn">pem hauv ntej</trd>
+  <trd lng="hr">prednji</trd>
+  <trd lng="ht">devan</trd>
   <trdgrp lng="hu">
     <trd>homlokr&eacute;sz</trd>,
     <trd>eleje</trd>,
@@ -145,12 +249,41 @@
       <trd>arcvonal</trd>,
       <trd>front</trd>
     </trdgrp>
+  <trd lng="hy">&#1395;&#1377;&#x56F;&#1377;&#x57F;</trd>
+  <trd lng="ig">n&#8217;ihu</trd>
+  <trd lng="is">framan</trd>
+  <trd lng="ja">&#x30D5;&#x30ED;&#x30F3;&#x30C8;</trd>
+  <trd lng="jv">ngarep</trd>
+  <trd lng="ka">&#x10EC;&#x10D8;&#x10DC;&#x10D0;</trd>
+  <trd lng="kk">&c_a;&c_l;&c_d;&c_y;&#x4A3;&#1171;&c_y;</trd>
+  <trd lng="km">&#6037;&#x17D2;&#6035;&#x17C2;&#6016;&#6017;&#x17B6;&#6020;&#6040;&#x17BB;&#6017;</trd>
+  <trd lng="kn">&#xCAE;&#xCC1;&#xC82;&#xCA6;&#xCC6;</trd>
+  <trd lng="ko">&#xC55E;</trd>
+  <trd lng="ku">p&ecirc;&scedil;de</trd>
+  <trd lng="ky">&c_a;&c_l;&c_d;&c_y;&#x4A3;&c_k;&c_y;</trd>
+  <trd lng="lat">ante</trd>
+  <trd lng="lo">&#xEAB;&#xE99;&#xEC9;&#xEB2;</trd>
+  <trd lng="lt">priekinis</trd>
+  <trd lng="lv">priek&scaron;&#x15E3;jais</trd>
+  <trd lng="mg">anoloana</trd>
+  <trd lng="mi">mua</trd>
+  <trd lng="mk">&c_p;&c_r;&c_je;&c_d;</trd>
+  <trd lng="ml">&#xD2B;&#xD4D;&#xD30;&#xD23;&#xD4D;&#xD1F;&#xD4D;</trd>
+  <trd lng="mn">&c_n;&#x4AF;&#x4AF;&c_r;</trd>
+  <trd lng="mr">&#2360;&#x92E;&#x94B;&#2352;</trd>
+  <trd lng="ms">hadapan</trd>
+  <trd lng="mt">quddiem</trd>
+  <trd lng="my">&#x101B;&#x103E;&#4145;&#4151;</trd>
+  <trd lng="ne">&#2309;&#2327;&#x93E;&#2337;&#x93F;</trd>
   <trdgrp lng="nl">
     <trd>front</trd>,
     <trd>voorzijde</trd>,
     <trd>voorkant</trd>
   </trdgrp><trd lng="nl">front</trd>
+  <trd lng="ny">kutsogolo</trd>
+  <trd lng="pa">&#xA38;&#xA3E;&#xA39;&#xA2E;&#xA23;&#xA47;</trd>
   <trd lng="pl">front</trd>
+  <trd lng="ps">&a_m;&a_kh;</trd>
   <trdgrp lng="pt">
     <trd>frente</trd>,
     <trd>vanguarda</trd>,
@@ -163,10 +296,184 @@
     <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_n;&c_ja;&c_ja;
     &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>
   </trdgrp>
+  <trd lng="rw">imbere</trd>
+  <trd lng="sd">&a_m;&a_y_hamza;&#x67D;&a_r;&#x6AA;</trd>
+  <trd lng="si">&#xD89;&#xDAF;&#xDD2;&#xDBB;&#xDD2;&#xDB4;&#xDC3;</trd>
   <trd lng="sk">&ccaron;eln&aacute; strana</trd>
+  <trd lng="sl">spredaj</trd>
+  <trd lng="sm">o luma</trd>
+  <trd lng="sn">mberi</trd>
+  <trd lng="so">hore</trd>
+  <trd lng="sq">para</trd>
+  <trd lng="st">pel&#8217;a</trd>
+  <trd lng="su">hareup</trd>
   <trdgrp lng="sv">
     <trd>front</trd>,
     <trd>framsida</trd>
+  </trdgrp>
+  <trd lng="sw">mbele</trd>
+  <trd lng="ta">&#xBAE;&#xBC1;&#xBA9;&#xBCD;</trd>
+  <trd lng="te">&#xC2E;&#xC41;&#xC02;&#xC26;&#xC41;</trd>
+  <trd lng="tg">&c_p;&c_je;&c_sh;</trd>
+  <trdgrp lng="th">
+    <trd>&#xE14;&#xE49;&#xE32;&#xE19;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>,
+    <trd>&#xE02;&#xE49;&#xE32;&#xE07;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
+  </trdgrp>
+  <trd lng="tt">&c_f;&c_r;&c_o;&c_n;&c_t;</trd>
+  <trd lng="uk">&c_p;&c_je;&c_r;&c_je;&c_d;&c_n;&c_ib;</trd>
+  <trd lng="ur">&a_s;&a_A;&a_m;&a_n;&#x6D2;</trd>
+  <trd lng="vi">tr&#x1B0;&#x1EDB;c</trd>
+  <trd lng="xh">phambili</trd>
+  <trd lng="yi">&pe;&resh;&alef;&#x5B8;&nun;&tet;</trd>
+  <trd lng="yo">iwaju</trd>
+  <trd lng="zu">phambili</trd>
+</drv>
+
+<drv mrk="front.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc mrk="front.0o.antauxa">
+    <dif>
+      Anta&ubreve;a, la&ubreve;lar&gcirc;a parto de objekto,
+      kontraste al <ref tip="ant" cel="dors.0o.malantauxa">dorso<sncref/></ref>:
+      <ekz>
+        la kastela <tld/>o rigardanta la parkon
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref cel="artiko.cxef0o"><tld/>artikolo</ref> de gazeto;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MET</uzo>
+        varm<tld/>o, &scirc;torm<tld/>o, <ind>termika <tld/>parametro</ind>;
+        <trd lng="de">thermischer Frontparameter</trd>
+      </ekz>
+      <ekz>
+        floroj en helru&gcirc;aj potoj <klr>[&#8230;]</klr> gaje falis en la okulojn sur la blanka
+        <tld/>o de la domo
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> vidas kiel la doma&ccirc;oj de la urbo montras sian <tld/>on al &scirc;i,
+        kiel konatajn viza&gcirc;ojn
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Bj&ouml;rn Erik H&ouml;ijer</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ordonis porti sian portilon en la fronto de la kolono
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni, studentoj, vigle eliras <klr>[&#8230;]</klr> kun vi anta&ubreve; la <tld/>o, kaj
+        viandistoj kaj tajloroj kaj butikistoj malanta&ubreve;e
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>o de la bando iris grandega laboristo kun tor&ccirc;o
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&ccirc;apitro 16a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> aran&gcirc;is apartan ri&ccirc;an fotoekspozicion &ccirc;e la <tld/>o de la
+        parlamentejo, la&ubreve; granda bulvardo
+        <fnt>
+
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2010/010173.php">Centjari&gcirc;o de Patrino Tereza</url></vrk>
+              <bib>Monato</bib>
+          <lok>2010/11, p. 16</lok>
+        </fnt>;
+              </ekz>
+      <ekz>
+        &ccirc;iuj konstrua&jcirc;oj kaj domfrontoj estis ornamitaj per blindige buntaj flagoj
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Batalo je la Ebura Turo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ornamaj marmorfrontoj de la publikaj palacoj
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Kvina &Ccirc;apitro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="avers.0o.KOMUNE">averso</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="antaux.0o.loke">anta&ubreve;o<sncref/></ref>,
+      <ref cel="fasad.0o">fasado</ref>,
+      <ref cel="fronto.0o">frontono</ref>,
+      <ref cel="vizagx.0o.de_objekto">viza&gcirc;o<sncref/></ref>
+    </refgrp>
+    <rim>
+      Ne konfuzu kun:
+      <ref cel="frunt.0o">frunto</ref>.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_f;&c_r;&c_a;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_p;&c_r;&c_je;&c_d;&c_n;&c_a; &c_s;&c_t;&c_r;&c_a;&c_n;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Stirnseite</trd>,
+      <trd>Vorderseite</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>front</trd>,
+      <trd>prz&oacute;d</trd>,
+      <trd>czo&lstroke;o</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="front.0a.MIL">
+    <uzo tip="fak">MIL</uzo><uzo tip="fak">POL</uzo>
+    <dif>
+      Rilata al la <tld/>o<sncref ref="front.0o.MIL"/> a&ubreve; <sncref ref="front.0o.POL"/>:
+      <ekz>
+        la de&jcirc;oro en tiu &ccirc;i malproksima, malanta&ubreve;<tld/>a loko estis facila
+        <fnt>
+          <bib>LGA</bib>
+          <lok>III.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vizitantoj en ru&gcirc;<tld/>aj uniformoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_f;&c_r;&c_a;&c_n;&c_t;&c_a;&c_v;&c_y;</trd>
+  </snc>
+  <trdgrp lng="de">
+    <trd>frontal</trd>,
+    <trd>strinseitig</trd>,
+    <trd><ind>vorn</ind> gelegen</trd>,
+    <trd>vorderseitig</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#38754;&#x306E;  [<ind>&#12375;&#12423;&#12358;&#12417;&#12435;&#x306E;</ind>]</trd>,
+    <trd>&#x524D;&#38754;&#x306E;  [<ind>&#x305C;&#12435;&#12417;&#12435;&#x306E;</ind>]</trd>
   </trdgrp>
 </drv>
 
@@ -174,33 +481,87 @@
   <kap><tld/>e</kap>
   <snc mrk="front.0e.KOMUNE">
     <dif>
-      Sur la <tld/>a flanko:
+      Sur la <tld/>a flanko; starante kun la ~o kontra&ubreve;:
       <ekz>
-        <tld/>e agitis, cetere, la germana registaro kun la sama Schr&ouml;der 
+        vespere centuriestro <tld/>e de soldatoj alportos mortverdikton
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li genuis <tld/>e, anta&ubreve; ligna kruco
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun bone flegita &gcirc;ardeneto <tld/>e
+        <fnt>
+          <bib>KrM</bib>
+          <lok>4. Konstante Frapante.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> iris tra la stratoj portante afi&scirc;tabulojn <tld/>e kaj dorse
+        <fnt>
+          <bib>KrM</bib>
+          <lok>40. Kaj Rapide Kreskas La Afero.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e agitis, cetere, la germana registaro kun la sama <nom>Schr&ouml;der</nom>
         en la pinto, kiu postulis eligi eksterlandanojn
         <fnt>
+        <aut>Maul Stefan</aut>
+        <vrk>Kanonoj kontra&ubreve; paseroj</vrk>
           <bib>Monato</bib>
+          <lok>2000/04, p. 5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la karboj ku&scirc;as en la holdoj <tld/>e de la fajroj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 30</lok>
         </fnt>;
       </ekz>
       <ekz>
         <klr>[li]</klr> &jcirc;etis ankron <tld/>e de la golfo de Tokio
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/006909.html'>JAPANIO: 
+        <aut>Yamasaki Seik&ocirc;</aut>
+
+          <vrk><url ref="&Monato;/2000/006909.php">JAPANIO:
             Takasugi Sinsaku: Novjara kla&ccirc;o super konjako</url></vrk>
+             <bib>Monato</bib>
+            <lok>2000/06, p. 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Mi ne atakas <tld/>e &#x2AFD; Nur iom post iom
+        <fnt>
+          <bib>ChC</bib>
+          <lok>10</lok>
         </fnt>;
       </ekz>
       <ekz>
         &ccirc;e<tld/>e la &ccirc;efepiskopo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Gerrit BERVELING</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007031.html'>KATOLIKISMO: Johano Hus 
-          &dash; &ccirc;u ne plu herezulo?</url></vrk>
+
+          <aut>Ji&rcaron;&iacute; Patera</aut>
+          <vrk><url ref="&Monato;/2000/007031.php">Katolikismo:
+           Johano Hus &#8208; &ccirc;u ne plu herezulo?</url></vrk>
+           <bib>Monato</bib>
+           <lok>2000/08, p. 19</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_p;&c_je;&c_r;&c_a;&c_d;&c_u;</trd>,
+    <trd>&c_n;&c_a; <ind>&c_ch;&c_a;&c_l;&c_je;</ind></trd>
+  </trdgrp>
   <trd lng="bg">&c_o;&c_t;&c_p;&c_r;&c_je;&c_d;</trd>
   <trdgrp lng="cs">
     <trd>na &ccaron;ele</trd>,
@@ -209,7 +570,8 @@
   <trdgrp lng="de">
     <trd>an der <ind>Front</ind></trd>,
     <trd>an der <ind>Vorderseite</ind></trd>,
-    <trd>stirnseitig</trd>
+    <trd>stirnseitig</trd>,
+    <trd>frontal</trd>
   </trdgrp>
   <trd lng="en">in front</trd>
   <trd lng="es">enfrente</trd>
@@ -220,6 +582,10 @@
   <trdgrp lng="hu">
     <trd>az <ind>elej&eacute;n</ind></trd>,
     <trd>az <ind>&eacute;l&eacute;n</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#38754;&#x306B;  [<ind>&#x307E;&#12392;&#12418;&#x306B;</ind>]</trd>,
+    <trd>&#x524D;&#38754;&#x306B;  [<ind>&#x305C;&#12435;&#12417;&#12435;&#x306B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">aan de <ind>voorkant</ind></trd>
   <trdgrp lng="pl">
@@ -232,6 +598,293 @@
     <trd>p&aring; <ind>fronten</ind></trd>,
     <trd>p&aring; <ind>framsidan</ind></trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_i;&c_c;&c_je;&c_m;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_o;&c_m;</trd>,
+    <trd>&c_f;&c_r;&c_o;&c_n;&c_t;&c_o;&c_m; (&c_d;&c_o; &c_ch;&c_o;&c_g;&c_o;-&c_n;.)</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="front.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="front.0i.KOMUNE">
+    <dif>
+      Montri sian <tld/>an flankon al &#8230;; situi kun sia <tld/>a flanko
+      &ccirc;e &#8230;:
+      <ekz>
+        mi kredos je eksterteranoj nur, kiam mi <tld/>os unu viza&gcirc;-al-viza&gcirc;e
+        <fnt>
+          <bib>ChV</bib>
+          <lok>24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ne plu povus <tld/>i siajn admirantojn
+        <fnt>
+          <bib>ChC</bib>
+          <lok>4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al kiu direkto via domo <tld/>as
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://tatoeba.org/epo/sentences/show/483188">
+          Frazo n-ro 483188</url></vrk>,
+          <lok>Tatoeba, 2010</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="front.0i.MIL">
+    <uzo tip="fak">MIL</uzo><uzo tip="fak">POL</uzo>
+    <dif>
+      Sin turni prezentante <tld/>on kontra&ubreve; io a&ubreve; iu por
+      batali:
+      <ekz>
+        <tld/>i kontra&ubreve; malamikon, dan&gcirc;eron,
+        malbon&scirc;ancon;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> <tld/>as malamikon neatakeblan per normalaj rimedoj
+        <fnt>
+          <bib>ChV</bib>
+          <lok>19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <tld/>is revolucian situacion, kiu naski&gcirc;is el la milito
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trd lng="de">eine <ind>Front</ind> aufmachen <klr>(gegen)</klr></trd>
+  </snc>
+  <snc mrk="front.0i.FIG">
+    <dif>
+      <ref tip="sin" cel="front.al0i">Alfronti</ref> malfacila&jcirc;on, riskon, malagrabla&jcirc;on:
+      <ekz>
+        la a&ubreve;toroj <tld/>is la konatajn malfacila&jcirc;ojn
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estus tempo forlasi vian infanan konduton por <tld/>i al realo
+        <fnt>
+          <bib>ChC</bib>
+          <lok>5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni devas <tld/>i la finon de &ccirc;io
+        <fnt>
+          <bib>ChC</bib>
+          <lok>4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i al polica enketisto
+        <fnt>
+          <bib>ChB</bib>
+          <lok>14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>FIFA</nom> <klr>[&#8230;]</klr> <tld/>as akuzojn de koruptado
+        <fnt>
+          <aut>-</aut>,
+          <vrk>Sindikataj nova&jcirc;o</vrk>,
+          <lok><url ref="http://www.slea.se/informilo_1_2014_PDFversion.pdf">
+          SLEA Informilo, 2014-03 (1)</url>,
+          </lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <trdgrp lng="de">
+    <trd>die <ind>Stirn bieten</ind></trd>,
+    <trd>sich <ind>auseinandersetzen</ind> <klr>(mit)</klr></trd>
+  </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_n;&c_a;&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</ind></trd>,,
+    <trd>&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol; <ind>&c_t;&c_v;&c_a;&c_r;&c_a;&c_m;</ind> <klr>(&c_d;&c_a; &c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+    <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t naproti</trd>,
+    <trd>&ccaron;elit</trd>
+  </trdgrp>
+  <trd lng="en">face toward</trd>
+  <trd lng="es"><ind>enfrentar</ind>se</trd>
+  <trdgrp lng="fr">
+    <trd>faire <ind>face</ind> (&agrave;)</trd>,
+    <trd>&ecirc;tre <ind>tourn&eacute;</ind> (vers)</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szemben <ind>&aacute;ll</ind></trd>,
+    <trd>szembefordul</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#38754;&#12375;&#12390;&#12356;&#x308B;  [<ind>&#12417;&#12435;&#12375;&#12390;&#12356;&#x308B;</ind>]</trd>,
+    <trd>&#21521;&#x304B;&#12356;&#21512;&#12358;  [<ind>&#12416;&#x304B;&#12356;&#12354;&#12358;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>het <ind>hoofd</ind> bieden aan</trd>,
+    <trd>met de <ind>voorzijde</ind> staan naar</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>sta&cacute; <ind>naprzeciw</ind></trd>,
+    <trd>patrze&cacute; <klr>(w kierunku czego&sacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol; &c_l;&c_i;&c_c;&c_o;&c_m;
+    &c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>by&tcaron; naproti</trd>,
+    <trd>postavi&tcaron; sa zo&ccaron;i vo&ccaron;i</trd>
+  </trdgrp>
+<trd lng="th">&#xE40;&#xE1C;&#xE0A;&#xE34;&#xE0D;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_a;&c_v;&c_a;&c_t;&c_i; &c_l;&c_i;&c_c;&c_je;&c_m;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_o;&c_m;</trd>,
+    <trd>&c_f;&c_r;&c_o;&c_n;&c_t;&c_o;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="front.al0i">
+  <kap>al<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="front.al0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="konfli.0i">Konflikti</ref>, <ref cel="konfront.0i">konfronti&gcirc;i</ref>
+      kun;
+      <ref tip="sin" cel="batal.kontraux0i">kontra&ubreve;batali</ref>:
+      <ekz>
+        tiun riskon oni povas al<tld/>i tuj
+        <fnt>
+          <bib>ChV</bib>
+          <lok>3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i, kaj sole &scirc;i, povis al<tld/>i sian problemon
+        <fnt>
+          <bib>CKv</bib>
+          <lok>23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi al<tld/>as &ccirc;i-foje entreprenon, kiu murdon organizas por klientoj, kontra&ubreve;page
+        <fnt>
+          <bib>ChR</bib>
+          <lok>ABZ de murdo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lin al<tld/>is surpriza &scirc;anco en 1888, kiam Amerika Filozofia Societo,
+        kondamninte <nom>Volap&uuml;k</nom>, ofertis submeti Esperanton al internacia kongreso
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne ekzistas organiza&jcirc;o, kiu ne povus al<tld/>i tiun minimuman elspezon
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Intel</nom> al<tld/>as konkurencon
+        <fnt>
+
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2001/007114.html">Intel
+          alfrontas konkurencon</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/10, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al<tld/>i sian vantecon
+        <fnt>
+
+          <aut>Reza KHEIR-KHAH</aut>
+          <vrk><url ref="&Monato;/2000/007087.php">SON&Gcirc;O: Mirinda dimensio de nia
+          vivo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/09, p. 16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="port.el0i.toleri">elporti<sncref/></ref>,
+      <ref cel="ten.el0i">elteni</ref>,
+      <ref cel="star.kontraux0i">kontra&ubreve;stari</ref>,
+      <ref cel="rezist.0i.KOMUNE">rezisti<sncref/></ref>
+    </refgrp>
+  </snc>
+    <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</ind></trd>,
+    <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_i;&c_z;&c_p;&c_r;&c_a;&c_v;&c_ja;&c_m; &c_s;&c_je; &c_s;&c_r;&c_je;&c_shch;&c_u;</trd>
+  <trd lng="cs">&ccaron;elit</trd>
+    <trdgrp lng="de">
+      <trd>sich <ind>konfrontieren</ind> mit</trd>,
+      <trd>sich <ind>aussetzen</ind></trd>,
+      <trd>ins <ind>Auge</ind> sehen</trd>,
+      <trd><klr>(etwas/jmd.)</klr> <ind>entgegentreten</ind></trd>,
+      <trd><klr>(jmd.)</klr> <ind>gegen&uuml;bertreten</ind></trd>,
+      <trd>sich <klr>(etwas/jmd.)</klr> <ind>entgegenstellen</ind></trd>
+    </trdgrp>
+  <trd lng="en">confront</trd>
+  <trdgrp lng="es">
+    <trd>enfrentar</trd>,
+    <trd>afrontar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>affronter</trd>,
+    <trd>faire <ind>face</ind> (&agrave;)</trd>,
+    <trd>se <ind>mesurer</ind> (&agrave;)</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&lamed;&qof;&dalet;&fmem;</trd>,
+    <trd>&lamed;&ayin;&mem;&vav;&dalet; &mem;&vav;&lamed;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szembesz&aacute;ll</trd>,
+    <trd>felveszi a harcot</trd>,
+    <trd>szembes&uuml;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x76F4;&#38754;&#12377;&#x308B;  [<ind>&#12385;&#12423;&#x304F;&#12417;&#12435;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x7ACB;&#12385;&#21521;&#x304B;&#12358;  [<ind>&#x305F;&#12385;&#12416;&#x304B;&#12358;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">confronteren met</trd>
+  <trdgrp lng="pl">
+    <trd>stawa&cacute; <ind>naprzeciw</ind></trd>,
+    <trd>stawia&cacute; <ind>czo&lstroke;a</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">&ccaron;eli&tcaron;</trd>
+  <trd lng="sv">konfrontera</trd>
+<trd lng="th">&#xE40;&#xE1C;&#xE0A;&#xE34;&#xE0D;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_ib;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_ib;&c_t;&c_k;&c_n;&c_u;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="front.0al0e">
@@ -240,19 +893,31 @@
     <dif>
       Duope, sin <tld/>ante, rigardante unu al la alia:
       <ekz>
-        ili staris <tld/>-al-<tld/>e
-        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u &scirc;i mortu
-        tra-fike?</vrk>, 
-        <lok>1982</lok></fnt>.
+        ili staris <tld/>-al-<tld/>e kaj lia rigardo la&ubreve;iris esplore &ccirc;iujn partojn de
+        &scirc;ia korpo
+        <fnt>
+          <bib>ChM</bib>
+          <lok>3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li mortigus <tld/>-al-<tld/>e: ponarde, pafe, lukte
+        <fnt>
+          <bib>ChB</bib>
+          <lok>7</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="ant">
-      <ref cel="dors.0al0e.KOMUNE">dorsaldorse</ref>
-    </refgrp>
+    <ref tip="sin" cel="vizagx.0al0e">viza&gcirc;alviza&gcirc;e</ref>
+    <ref tip="ant" cel="dors.0al0e.KOMUNE">dorsaldorse</ref>
     <refgrp tip="vid">
       <ref cel="flank.0al0e.KOMUNE">flankalflanke</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_t;&c_v;&c_a;&c_r; &c_u; &c_t;&c_v;&c_a;&c_r;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>na &ccaron;ele</trd>,
     <trd>&ccaron;eln&ecaron;</trd>
@@ -270,14 +935,35 @@
   <snc mrk="front.0e_al.kie">
     <dif>
       <ref tip="super" cel="kontraux.0.kie">Kontra&ubreve;</ref>, kun
-      sia
-      <tld/>o, fasado rigardanta al:
+      sia <tld/>o rigardanta al:
+      <ekz>
+        lia kolego ne sentis sin tute hejme <tld/>e al la policano
+        <fnt>
+          <bib>ChB</bib>
+          <lok>6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nekapabla subpremi ridon <tld/>e al la komika viza&gcirc;o
+        <fnt>
+          <bib>ChC</bib>
+          <lok>20</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         <tld/>e al mi, sur la hamaka deklivo, mi apogis la kajeran
         taglibron
-        <fnt><aut>W. Schad</aut>, <vrk>Orinoko-delto: Indianoj,
-        mar&ccirc;oj, arbarego</vrk>, <bib>Monato</bib>,
-        <lok>2000:11, p. 20a</lok></fnt>.
+        <fnt><aut>W. Schad</aut>
+         <vrk><url ref="&Monato;/2000/007145.html">Orinoko-delto: Indianoj,
+        mar&ccirc;oj, arbarego</url></vrk>
+         <bib>Monato</bib>
+        <lok>2000/11, p. 20</lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> faris stre&ccirc;ajn ceremoniajn gestojn al la duoncirklo <tld/>e al si
+        <fnt>
+          <bib>Sol</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -301,30 +987,42 @@
     <trd lng="ru">&c_l;&c_i;&c_c;&c_o;&c_m; &c_k;</trd>
   </snc>
   <snc mrk="front.0e_al.rilate">
+    <uzo tip="stl">FIG</uzo>
     <dif>
       <ref tip="super" cel="kontraux.0.al">Kontra&ubreve;</ref>,
       reagante al la &ccirc;eesto de:
       <ekz>
+        mia febla percepto <tld/>e al la minacita mortkondamno
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 14</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
         la konduto de la homo de Neandertalo <tld/>e al la morto
         <fnt><aut>R. Roze</aut>, <vrk>Vivisekcio de polenero</vrk>,
-        <bib>Monato</bib>, <lok>1997:11, p.
-        12a</lok></fnt>;
+        <bib>Monato</bib>
+         <lok>1997/11, p.
+        12</lok></fnt>;
       </ekz>
       <ekz>
         objektiva informado <tld/>e al la vipura &jcirc;urnalismo
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007264.html'>Morti 
+          <vrk><url ref="&Monato;/2000/007264.php">Morti
           miskomprene (1)</url></vrk>
+          <lok>2000/12, p. 4</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>e al tiaj fanatikaj frapfrazoj kaj tuta amaso da misinformoj, 
+        <tld/>e al tiaj fanatikaj frapfrazoj kaj tuta amaso da misinformoj,
         oni rajtas demandi sin, kiu &ccirc;i-rilate vere stultumas
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007143.html'>&Ccirc;u ni mortu
+
+          <vrk><url ref="&Monato;/2000/007143.php">&Ccirc;u ni mortu
             miskomprene? (2)</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 23</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -334,165 +1032,43 @@
       <trd>przeciw</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_t;&c_v;&c_a;&c_r;&c_a;&c_m; <klr>(&c_d;&c_a; &c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  </trdgrp>
   <trd lng="cs">&ccaron;elem k</trd>
   <trd lng="fr">face &agrave;</trd>
+  <trd lng="ja">&#xFF5E;&#x306B;&#38754;&#12375;&#12390;  [&#xFF5E;<ind>&#x306B;&#12417;&#12435;&#12375;&#12390;</ind>]</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_d;
   &c_l;&c_i;&c_c;&c_o;&c_m;<klr tip="amb">
   (&c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
   <trd lng="sk">&ccaron;elom k</trd>
 </drv>
-
-<drv mrk="front.0i">
-  <kap><tld/>i</kap>
-  <gra><vspec>x</vspec></gra>
-  <snc mrk="front.0i.KOMUNE">
-    <dif>
-      Sin turni prezentante <tld/>on kontra&ubreve; io a&ubreve; iu por
-      batali:
-      <ekz>
-        <tld/>i kontra&ubreve; malamikon, dan&gcirc;eron,
-        malbon&scirc;ancon;
-      </ekz>
-      <ekz>
-        al kiu direkto via domo <tld/>as?
-        <fnt>
-          <aut>-</aut>,
-          <vrk><url ref="http://tatoeba.org/epo/sentences/show/483188">
-          Frazo n-ro 483188</url></vrk>,
-          <lok>Tatoeba, 2010</lok>
-        </fnt>
-      </ekz>
-      <ekz>
-        FIFA <klr>...</klr> <tld/>as akuzojn de koruptado
-        <fnt>
-          <aut>-</aut>,
-          <vrk>Sindikataj nova&jcirc;o</vrk>,
-          <lok><url
-          ref="http://www.slea.se/informilo_1_2014_PDFversion.pdf">
-          SLEA Informilo, 2014-03 (1)</url>,
-          </lok>
-        </fnt> 
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="cs">
-    <trd>b&yacute;t naproti</trd>,
-    <trd>&ccaron;elit</trd>
-  </trdgrp>
-  <trdgrp lng="de">
-    <trd>Front machen (gegen)</trd>,
-    <trd>die <ind>Stirn bieten</ind></trd>
-  </trdgrp>
-  <trd lng="en">face toward</trd>
-  <trd lng="es"><ind>enfrentar</ind>se</trd>
-  <trdgrp lng="fr">
-    <trd>faire <ind>face</ind> (&agrave;)</trd>,
-    <trd>&ecirc;tre <ind>tourn&eacute;</ind> (vers)</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>szemben <ind>&aacute;ll</ind></trd>,
-    <trd>szembefordul</trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>het <ind>hoofd</ind> bieden aan</trd>,
-    <trd>met de <ind>voorzijde</ind> staan naar</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>sta&cacute; <ind>naprzeciw</ind></trd>,
-    <trd>patrze&cacute; <klr>(w kierunku czego&sacute;)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol;</trd>,
-    <trd>&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol; &c_l;&c_i;&c_c;&c_o;&c_m;
-    &c_k;</trd>
-  </trdgrp>
-  <trdgrp lng="sk">
-    <trd>by&tcaron; naproti</trd>,
-    <trd>postavi&tcaron; sa zo&ccaron;i vo&ccaron;i</trd>
-  </trdgrp>
-</drv>
-
-<drv mrk="front.al0i">
-  <kap>al<tld/>i</kap>
-  <gra><vspec>tr</vspec></gra>
-  <snc mrk="front.al0i.KOMUNE">
-    <dif>
-      <tld lit="F"/>i kontra&ubreve;:
-      <ekz>
-        al<tld/>i dan&gcirc;eron, malsanon;
-      </ekz>
-      <ekz>
-        Intel al<tld/>as konkurencon
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Franck ARNAUD</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007114.html'>Intel 
-           alfrontas konkurencon</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
-        al<tld/>i sian vantecon
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Reza KHEIR-KHAH</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007087.html'>SON&Gcirc;O: Mirinda 
-           dimensio de nia vivo</url></vrk>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="bg">&c_i;&c_z;&c_p;&c_r;&c_a;&c_v;&c_ja;&c_m; &c_s;&c_je; &c_s;&c_r;&c_je;&c_shch;&c_u;</trd>
-  <trd lng="cs">&ccaron;elit</trd>
-  <trdgrp lng="de">
-    <trd>gegen&uuml;berstehen</trd>,
-    <trd>konfrontiert sein (mit)</trd>
-  </trdgrp>
-  <trd lng="en">confront</trd>
-  <trdgrp lng="es">
-    <trd>enfrentar</trd>,
-    <trd>afrontar</trd>
-  </trdgrp>
-  <trdgrp lng="fr">
-    <trd>affronter</trd>,
-    <trd>faire <ind>face</ind> (&agrave;)</trd>,
-    <trd>se <ind>mesurer</ind> (&agrave;)</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>szembesz&aacute;ll</trd>,
-    <trd>felveszi a harcot</trd>,
-    <trd>szembes&uuml;l</trd>
-  </trdgrp>
-  <trd lng="nl">confronteren met</trd>
-  <trdgrp lng="pl">
-    <trd>stawa&cacute; <ind>naprzeciw</ind></trd>,
-    <trd>stawia&cacute; <ind>czo&lstroke;a</ind></trd>
-  </trdgrp>
-  <trd
-  lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol;</trd>
-  <trd lng="sk">&ccaron;eli&tcaron;</trd>
-  <trd lng="sv">konfrontera</trd>
-</drv>
 </art>
 <!--
 $Log$
-Revision 1.26  2017/01/26 10:10:16  revo
-Lyubomir Vasilev: +trd bg
+versio 1.121 2023/09/01 18:29:24
+Wolfram Diestel: ja kor. ind
 
-Revision 1.25  2016/02/28 18:10:21  revo
-Wolfram Diestel: riparo: snc 2 forighis per skripto de Laer pro
-interlokita traduko
+versio 1.119 2023/04/08 06:29:59
+Paul Peeraerts: &Monato;/
 
-Revision 1.24  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.118 2023/04/07 15:27:00
+Paul Peeraerts: &Monato;
 
-Revision 1.23  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.117 2023/03/27 10:32:06
+Paul Peeraerts: &Monato;
 
-Revision 1.22  2015/01/31 18:10:16  revo
-Jeromo Vasxe: ~i + ekz al + ekz tr
+versio 1.116 2023/03/27 08:33:30
+Paul Peeraerts: &Monato;
 
-Revision 1.21  2014/10/19 02:10:25  revo
-Carlos Garcia: +trd es al-i krkt -i
+versio 1.115 2022/09/15 08:45:24
+Dmitri Gabinski: + trd be
 
+versio 1.114 2022/07/14 09:32:33
+Wolfram Diestel: +kor. mrk
+
+versio 1.113 2022/07/10 12:49:35
 -->
 </vortaro>

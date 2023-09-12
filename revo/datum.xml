@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: datum.xml,v 1.17 2009/04/29 16:31:15 revo Exp $">
+<art mrk="$Id: datum.xml,v 1.29 2023/09/02 21:21:45 revo Exp $">
 <kap>
   <rad>datum</rad>/o <fnt><bib>SPIV</bib></fnt>
 </kap>
@@ -21,10 +20,11 @@
         akiri, kolekti <tld/>ojn.
       </ekz>
       <ekz>
-        oftecodistribuo estas funkcio, kiu indikas por &ccirc;iu mezurita <tld/>o, kiom ofte la <tld/>o ekestis
+        oftecodistribuo estas funkcio, kiu indikas por &ccirc;iu mezurita <tld/>o, kiom ofte la <tld/>o
+        ekestis
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=207738'>Oftecodistribuo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=207738">Oftecodistribuo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -41,28 +41,31 @@
         <tld/>oj esprimantaj unu saman informon;
       </ekz>
       <ekz>
-        <tld/>oj &dash; de nefakula vidpunkto &dash; povas esti la literoj de teksto a&ubreve; eble iuj ciferoj, 
+        <tld/>oj &dash; de nefakula vidpunkto &dash; povas esti la literoj de teksto a&ubreve; eble iuj ciferoj,
         sed eblas anka&ubreve; turni homan paroladon en fluon de ciferecaj <tld/>oj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Pejno Simono</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007219.html'>Prefere pakete</url></vrk>
+          <aut>Pejno Simono</aut>:
+          <vrk><url ref="&amp;Monato/2001/007219.html">Prefere pakete</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/02, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la po&scirc;telefona reto mem transportas nur <tld/>ojn kaj tute ne la paroladon mem en la formo, 
+        la po&scirc;telefona reto mem transportas nur <tld/>ojn kaj tute ne la paroladon mem en la formo,
         kiel &gcirc;i alvenas de la mikrofono
         <fnt>
-          <bib>Monato</bib>
-          <aut>Pejno Simono</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007219.html'>Prefere pakete</url></vrk>
+          <aut>Pejno Simono</aut>:
+          <vrk><url ref="&amp;Monato/2001/007219.html">Prefere pakete</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/02, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
-        asociaj tabeloj simple ligas parojn da <tld/>oj, tiel ke unu estas la indico (a&ubreve; &scirc;losilo) por trovi la alian
+        asociaj tabeloj simple ligas parojn da <tld/>oj, tiel ke unu estas la indico (a&ubreve; &scirc;losilo)
+        por trovi la alian
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=132728'>Lua</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=132728">Lua</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -112,6 +115,10 @@
     ankora&ubreve; pli malofta.
   </rim>
   <ref tip="hom" cel="dat.0umo">dat/um/o</ref>
+    <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_n;&c_ib;&c_ja;</trd>,
+    <trd>&c_z;&c_mol;&c_v;&c_je;&c_s;&c_t;&c_k;&c_ib;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Datum</trd>,
     <trd>Daten<klr> (pl)</klr></trd>
@@ -124,6 +131,7 @@
   <trd lng="fr">donn&eacute;e</trd>
   <trd lng="he">&nun;&tav;&vav;&fnun;</trd>
   <trd lng="hu">adat</trd>
+  <trd lng="ja">&#x30C7;&#x30FC;&#x30BF;  [<ind>&#12391;&#x30FC;&#x305F;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>dana<klr> (l.poj)</klr></trd>,
     <trd>dane<klr> (l.mn)</klr></trd>
@@ -131,6 +139,7 @@
   <trd lng="pt">dado <klr tip="amb">(inform&aacute;tica)</klr></trd>
   <trd lng="ru">&c_d;&c_a;&c_n;&c_n;&c_y;&c_je;</trd>
   <trd lng="sv">data</trd>
+  <trd lng="uk">&c_d;&c_a;&#x43D;&c_ib; (&c_ib;&#x43C;.)</trd>
 </drv>
 
 <drv mrk="datum.0banko">
@@ -143,25 +152,30 @@
         interreta portalo kun vasta <tld/>banko pri pra- kaj fru-historio
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=23553'>Prahistorio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=23553">Prahistorio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>banko pri tertremoj de 2150 a.K. &gcirc;is nun
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=15210'>Tertremo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=15210">Tertremo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        ekzistas anka&ubreve; la lingvoj, kies rolo estas limigita al plenumo de certa tasko: mendo al <tld/>banko (SQL)
+        ekzistas anka&ubreve; la lingvoj, kies rolo estas limigita al plenumo de certa tasko: mendo al
+        <tld/>banko (SQL)
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=30923'>Programlingvo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=30923">Programlingvo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_n;&c_k; &c_d;&c_a;&c_n;&c_ib;&c_h;</trd>,
+    <trd>&c_b;&c_a;&c_n;&c_k; &c_z;&c_mol;&c_v;&c_je;&c_s;&c_t;&c_a;&c_k;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>Datenbasis</trd>,
     <trd>Datensammlung</trd></trdgrp>
@@ -171,9 +185,11 @@
   <trd lng="he">&mem;&alef;&gimel;&resh;
   &mem;&yod;&dalet;&ayin;</trd>
   <trd lng="hu">adatbank</trd>
+  <trd lng="ja">&#x30C7;&#x30FC;&#x30BF;&#x30D0;&#x30F3;&#x30AF;</trd>
   <trd lng="pl">bank <ind>danych</ind></trd>
   <trd lng="ru">&c_b;&c_a;&c_n;&c_k; &c_d;&c_a;&c_n;&c_n;&c_y;&c_h;</trd>
-  <trd lng="sv">databank</trd>    
+  <trd lng="sv">databank</trd>
+  <trd lng="uk">&c_b;&c_a;&#x43D;&#x43A; &c_d;&c_a;&#x43D;&c_i;&c_h;</trd>
 </drv>
 
 <drv mrk="datum.0bazo">
@@ -187,19 +203,24 @@
         MySQL estas <tld/>bazo, kiu estas konata por sia rapideco
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=18772'>MySQL</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=18772">MySQL</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        rilata <tld/>bazo estas <tld/>bazo, kies strukturo bazi&gcirc;as sur la rilata modelo, &gcirc;i do konsistas el <tld/>aj opoj, kiuj esprimas rilatojn inter la <tld/>oj
+        rilata <tld/>bazo estas <tld/>bazo, kies strukturo bazi&gcirc;as sur la rilata modelo, &gcirc;i do
+        konsistas el <tld/>aj opoj, kiuj esprimas rilatojn inter la <tld/>oj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=117124'>Rilata datumbazo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=117124">Rilata datumbazo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trdgrp lng="cs">
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_z;&c_a; &c_d;&c_a;&c_n;&c_ib;&c_h;</trd>,
+    <trd>&c_b;&c_a;&c_z;&c_a; &c_z;&c_mol;&c_v;&c_je;&c_s;&c_t;&c_a;&c_k;</trd>
+  </trdgrp>
+   <trdgrp lng="cs">
     <trd>datab&aacute;ze</trd>,
     <trd>soubor dat</trd>
   </trdgrp>
@@ -209,10 +230,14 @@
   <trd lng="fr">base de donn&eacute;es</trd>
   <trd lng="he">&mem;&samekh;&dalet; &nun;&tav;&vav;&nun;&yod;&fmem;</trd>
   <trd lng="hu">adatb&aacute;zis</trd>
+  <trd lng="ja">&#x30C7;&#x30FC;&#x30BF;&#x30D9;&#x30FC;&#x30B9; 
+  [<ind>&#12391;&#x30FC;&#x305F;&#12409;&#x30FC;&#12377;</ind>]</trd>
+  <trd lng="nl">gegevensbank</trd>
   <trd lng="pl">baza <ind>danych</ind></trd>
   <trd lng="ru">&c_b;&c_a;&c_z;&c_a; &c_d;&c_a;&c_n;&c_n;&c_y;&c_h;</trd>
   <trd lng="sk">datab&aacute;za</trd>
   <trd lng="sv">databas</trd>
+  <trd lng="uk">&c_b;&c_a;&c_z;&c_a; &c_d;&c_a;&#x43D;&c_i;&c_h;</trd>
 </drv>
 
 <drv mrk="datum.0baz_manipulilo">
@@ -227,14 +252,15 @@
         <tld/>baz-manipulilo &leftquot;Access&rightquot;
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=4378'>Unikodkapabla programo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4378">Unikodkapabla programo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        Ingres estas libera kaj komerce subtenata rilata <tld/>baz-manipulilo uzebla en grandaj komercaj a&ubreve; registaraj organiza&jcirc;oj
+        Ingres estas libera kaj komerce subtenata rilata <tld/>baz-manipulilo uzebla en grandaj
+        komercaj a&ubreve; registaraj organiza&jcirc;oj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=304796'>Ingres</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=304796">Ingres</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -243,6 +269,7 @@
       preferi mallongigon: DBM.
     </rim>
   </snc>
+  <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a; &c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja; &c_b;&c_a;&c_z;&c_a;&c_m;&c_ib; &c_z;&c_mol;&c_v;&c_je;&c_s;&c_t;&c_a;&c_k;</trd>
   <trdgrp lng="en">
     <trd>data-base management system</trd>,
     <trd>DBMS</trd>
@@ -273,27 +300,29 @@
         videbligi tekston konservitan kiel dosiero sur <tld/>portilo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=23533'>Bitlibro</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=23533">Bitlibro</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        disketo estas speco de ekstera <klr>[...]</klr> <tld/>portilo en malmola plasta kvadrata &scirc;elo
+        disketo estas speco de ekstera <klr>[...]</klr> <tld/>portilo en malmola plasta kvadrata
+        &scirc;elo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=187223'>Disketo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=187223">Disketo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        komence por transporti estis uzitaj 
-        paperaj trubendoj kaj trukartoj kaj poste aperis 
+        komence por transporti estis uzitaj
+        paperaj trubendoj kaj trukartoj kaj poste aperis
         magnetaj kaj optikaj diskoj, kaj <tld/>portiloj surbaze de icoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=257095'>Datumportilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=257095">Datumportilo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_o;&c_s;&c_mol;&c_b;&c_ib;&c_t; &c_d;&c_a;&c_n;&c_ib;&c_h;</trd>
   <trd lng="cs">datov&yacute; nosi&ccaron;</trd>
   <trd lng="de">Datentr&auml;ger</trd>
   <trdgrp lng="en">
@@ -308,6 +337,12 @@
   <trd lng="pl">no&sacute;nik <ind>danych</ind></trd>
   <trd lng="ru">&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol; &c_d;&c_a;&c_n;&c_n;&c_y;&c_h;</trd>
   <trd lng="sk">d&aacute;tov&yacute; nosi&ccaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_ib;&c_b; &c_z;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_je;&#x43D;&#x43D;&#x44F; &c_ib;&#x43D;&c_f;&#x43E;&c_r;&#x43C;&c_a;&c_c;&c_ib;&c_ji; &#x43F;&#x43E;&c_z;&c_a;
+    &#x43A;&#x43E;&#x43C;&#x43F;&#8217;&#x44E;&c_t;&c_je;&c_r;&#x43E;&#x43C;</trd>,
+    <trd>&c_d;&c_i;&c_s;&#x43A;</trd>,
+    <trd>&c_d;&c_i;&c_s;&#x43A;&c_je;&c_t;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="datum.0strukturo">
@@ -321,21 +356,23 @@
         listo estas tre elasta <tld/>strukturo prezentebla kiel sinsekvo da objektoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=58037'>Listo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=58037">Listo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        en komputado, la <tld/>strukturo tabelo estas <klr>[...]</klr> kutima maniero realigi abstraktan tabelon
+        en komputado, la <tld/>strukturo tabelo estas <klr>[...]</klr> kutima maniero realigi
+        abstraktan tabelon
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=242611'>Tabelo (datumstrukturo)</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=242611">Tabelo (datumstrukturo)</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        <ind>duuma arbo</ind> estas arba <tld/>strukturo, en kiu &ccirc;iu vertico havas maksimume du infanojn
+        <ind>duuma arbo</ind> estas arba <tld/>strukturo, en kiu &ccirc;iu vertico havas maksimume du
+        infanojn
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=105618'>Duuma arbo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=105618">Duuma arbo</url></lok>
         </fnt>.
         <trd lng="de">Bin&auml;rbaum</trd>
       </ekz>
@@ -347,6 +384,7 @@
       programlingvo kaj aplikeblas al individuaj objektoj.
     </rim>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a; &c_d;&c_a;&c_n;&c_ib;&c_h;</trd>
   <trd lng="de">Datenstruktur</trd>
   <trd lng="en">data structure</trd>
   <trd lng="fr">structure de donn&eacute;es</trd>
@@ -355,13 +393,28 @@
     <trd>adatszerkezet</trd>,
     <trd>adatstrukt&uacute;ra</trd>
   </trdgrp>
+  <trd lng="ja">&#x30C7;&#x30FC;&#x30BF;&#x69CB;&#36896; 
+  [<ind>&#x30C7;&#x30FC;&#x30BF;&#12371;&#12358;&#x305E;&#12358;</ind>]</trd>
   <trd lng="pl">struktura <ind>danych</ind></trd>
   <trd lng="ru">&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a; &c_d;&c_a;&c_n;&c_n;&c_y;&c_h;</trd>
+  <trd lng="uk">&c_s;&c_t;&c_r;&c_u;&#x43A;&c_t;&c_u;&c_r;&c_a; &c_d;&c_a;&#x43D;&c_i;&c_h;</trd>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.29 2023/09/02 21:21:45
+Vito Redsky: +trd nl 
+
+versio 1.27 2023/08/24 08:30:03
+Dmitri Gabinski: + trd be
+
+versio 1.26 2023/04/26 08:31:32
+Paul Peeraerts: kor de eraraj ref
+
+versio 1.25 2023/04/01 12:41:29
+Paul Peeraerts: &Monato;
+
 Revision 1.22  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -372,14 +425,5 @@ Revision 1.20  2013/09/06 20:10:12  revo
 Vito Redsky: kor trd pl
 
 Revision 1.19  2013/07/25 19:10:11  revo
-Jeromo Vasxe: + ref datao, + fnt + mrk + kk trd fr
-
-Revision 1.18  2012/10/23 00:11:24  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.17  2009/04/29 16:31:15  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.16  2007/07/15 16:30:50  revo
 -->
 </vortaro>

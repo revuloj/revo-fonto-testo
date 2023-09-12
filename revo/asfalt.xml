@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: asfalt.xml,v 1.21 2009/09/10 16:32:07 revo Exp $">
+<art mrk="$Id: asfalt.xml,v 1.33 2023/08/30 18:23:37 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>asfalt</rad>/o <fnt><bib>MT</bib></fnt>
@@ -17,8 +16,10 @@
       Nigreca, neflua miksa&jcirc;o esti&gcirc;inta el kerogeno apena&ubreve;
       enhavanta mineralecan substancon:
       <ekz>
-        &scirc;i prenis por li keston el kanoj kaj &ccirc;irka&ubreve;&scirc;miris &gcirc;in per <tld/>o kaj pe&ccirc;o, kaj
-        metis tien la infanon kaj metis &gcirc;in inter la kanojn sur la bordo de la Rivero
+        &scirc;i prenis por li keston el kanoj kaj &ccirc;irka&ubreve;&scirc;miris &gcirc;in per
+        <tld/>o kaj pe&ccirc;o, kaj
+        metis tien la infanon kaj metis &gcirc;in inter la kanojn sur la bordo
+        de la Rivero
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 2:3</lok>
@@ -35,15 +36,16 @@
     <uzo tip="fak">KON</uzo>
     <uzo tip="fak">TRA</uzo>
     <dif>
-      <ref tip="vid" cel="bitum.0o">Bitumo</ref> uzata por tegi stratojn:
+      <ref tip="vid" cel="bitum.0o">Bitumo</ref> uzata por tegi
+      stratojn:
       <ekz>
         &scirc;iaj kalkanumetoj frapetis la asfalton
         <fnt>
+          <aut>Konstanten Krysakov</aut>
+          <vrk><url ref="&Monato;/2000/006805.php">Kota akvo</url></vrk>
           <bib>Monato</bib>
-          <aut>Geraldo Mattos</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006805.html"
-              >Kota Akvo: Konstanten Krysakov</url></vrk>
-        </fnt>;
+          <lok>2000/03, p. 28</lok>
+          </fnt>;
       </ekz>
       <ekz>
         dum la rikolta sezono oni sur&scirc;utas grenon sur la varmegan
@@ -66,14 +68,17 @@
   <trd lng="en">asphalt</trd>
   <trd lng="es">asfalto</trd>
   <trd lng="fr">asphalte</trd>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5E1;&#x5E4;&#x5B7;&#x5DC;&#x5D8;</trd>
   <trd lng="hu">aszfalt</trd>
   <trd lng="id">aspal</trd>
   <trd lng="it">asfalto</trd>
+  <trd lng="ja">&#x30A2;&#x30B9;&#x30D5;&#x30A1;&#x30EB;&#x30C8;</trd>
   <trd lng="nl">asfalt</trd>
   <trd lng="pl">asfalt</trd>
   <trd lng="ru">&c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;</trd>
   <trd lng="sk">asfalt</trd>
   <trd lng="sv">asfalt</trd>
+  <trd lng="uk">&c_a;&c_s;&c_f;&c_a;&#x43B;&#x44C;&c_t;</trd>
 </drv>
 
 <drv mrk="asfalt.0i">
@@ -84,22 +89,22 @@
     <dif>
       Surkovri per <ref cel="asfalt.0o.KON"><tld/>o<sncref/></ref>:
       <ekz>
-        la vojoj estis jam relative bone <tld/>itaj sen la sen&ccirc;esaj kavoj kaj
+        la vojoj estis jam relative bone <tld/>itaj sen la sen&ccirc;esaj
+        kavoj kaj
         malglata&jcirc;oj ordinare kutimaj en nia lando
         <fnt>
           <bib>Monato</bib>
           <aut>Dmitrij Cibulevskij</aut>
-          <vrk><url ref="https://www.monato.be/2007/009112.php"
-              >Busvoja&gcirc;o</url></vrk>
+          <vrk><url ref="&Monato;/2007/009112.php">Busvoja&gcirc;o</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        sur la <tld/>ita sena&ubreve;ta parkejo dancas kvino da nigraha&ubreve;taj altaj viroj
+        sur la <tld/>ita sena&ubreve;ta parkejo dancas kvino da nigraha&ubreve;taj
+        altaj viroj
         <fnt>
           <bib>Monato</bib>
           <aut>Saliko</aut>
-          <vrk><url ref="https://www.monato.be/2006/008760.php"
-              >En fremda lando</url></vrk>
+          <vrk><url ref="&Monato;/2006/008760.php">En fremda lando</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -111,19 +116,30 @@
   <trd lng="en">lay <ind>asphalt</ind></trd>
   <trd lng="es">asfaltar</trd>
   <trd lng="fr">asphalter</trd>
+  <trd lng="he">&#x5DC;&#x5E9;&#x5D9;&#x5DD; &#x5D0;&#x5B7;&#x5E1;&#x5E4;&#x5B7;&#x5DC;&#x5D8;</trd>
   <trd lng="hu">aszfaltoz</trd>
-  <trd lng="id">[<ind>aspal</ind>] mengaspal</trd>
+  <trd lng="id">meng<ind>aspal</ind></trd>
   <trd lng="it">asfaltare</trd>
+  <trd lng="ja">&#x30A2;&#x30B9;&#x30D5;&#x30A1;&#x30EB;&#x30C8;&#x3067;&#x8217;&#x88C5;&#x3059;&#x308B;  [<ind>&#x30A2;&#x30B9;&#x30D5;&#x30A1;&#x30EB;&#x30C8;&#x3067;&#x307B;&#x305D;&#x3046;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">asfalteren</trd>
   <trd lng="pl">asfaltowa&cacute;</trd>
-  <trd
-  lng="ru">&c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">asfaltova&tcaron;</trd>
   <trd lng="sv">asfaltera</trd>
+  <trd lng="uk">&c_a;&c_s;&c_f;&c_a;&#x43B;&#x44C;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.32 2023/04/17 15:28:06
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.31 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.30 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.25  2019/01/19 11:10:15  revo
 Wolfram Diestel: +snc MIN, +ekz-oj, fnt MT
 
@@ -137,14 +153,5 @@ Revision 1.22  2012/02/01 01:10:33  revo
 Antonio Codazzi: +trd it
 
 Revision 1.21  2009/09/10 16:32:07  revo
-Jeromo Vasxe: + fak kon, + vid
-
-Revision 1.20  2009/03/12 17:31:58  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.19  2009/02/04 19:20:05  revo
-Sergej Chlutchin: forigis malbezonajn linirompojn en la rusa
-
-Revision 1.18  2008/05/09 19:11:44  revo
 -->
 </vortaro>

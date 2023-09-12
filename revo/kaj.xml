@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kaj.xml,v 1.45 2020/02/15 10:10:16 revo Exp $">
+<art mrk="$Id: kaj.xml,v 1.122 2023/08/31 19:24:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kaj</rad> <fnt><bib>PV</bib></fnt>
@@ -50,16 +49,58 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">en</trd>
+  <trd lng="am">&#x12A5;&#x1293;</trd>
+  <trd lng="ar">&a_w;</trd>
+  <trd lng="az">v&#x259;</trd>
   <trd lng="be">&c_ib;</trd>
+  <trd lng="bn">&#x98F;&#x9AC;&#x982;</trd>
+  <trd lng="bo">&#xF51;&#xF44;&#xF0B;</trd>
   <trd lng="br">ha<klr tip="ind"> (stl. kenur.)</klr></trd>
+  <trd lng="bs">i</trd>
   <trd lng="ca">i</trd>
+  <trd lng="co">e</trd>
   <trdgrp lng="cs">
     <trd>a</trd>,
     <trd>logick&yacute; sou&ccaron;in</trd>
   </trdgrp>
+  <trd lng="cy">a&#x2019;r</trd>
+  <trd lng="da">og</trd>
   <trd lng="de">und</trd>
   <trd lng="en">and</trd>
   <trd lng="es">y</trd>
+  <trd lng="et">ja</trd>
+  <trd lng="eu">eta</trd>
+  <trd lng="ga">agus</trd>
+  <trd lng="gd">agus</trd>
+  <trd lng="gl">e</trd>
+  <trd lng="gu">&#xA85;&#xAA8;&#xAC7;</trd>
+  <trd lng="ha">da kuma</trd>
+  <trd lng="hi">&#x914;&#x930;</trd>
+  <trd lng="hmn">thiab</trd>
+  <trd lng="hr">i</trd>
+  <trd lng="ht">ak</trd>
+  <trd lng="hy">&#x56B;&#x57D;&#x56F;</trd>
+  <trd lng="ig">na</trd>
+  <trd lng="is">og</trd>
+  <trd lng="jv">lan</trd>
+  <trd lng="ka">&#x10D3;&#x10D0;</trd>
+  <trd lng="kk">&#x43C;&c_je;&#x43D;</trd>
+  <trd lng="km">&#x1793;&#x17B7;&#x1784;</trd>
+  <trd lng="kn">&#xCAE;&#xCA4;&#xCCD;&#xCA4;&#xCC1;</trd>
+  <trd lng="ko">&#xACFC;</trd>
+  <trd lng="ku">&#xFB;</trd>
+  <trd lng="ky">&c_zh;&c_a;&#x43D;&c_a;</trd>
+  <trd lng="lat">et</trd>
+  <trd lng="lo">&#xEC1;&#xEA5;&#xEB0;</trd>
+  <trd lng="lt">ir</trd>
+  <trd lng="lv">un</trd>
+  <trd lng="mg">ary</trd>
+  <trd lng="mi">ka</trd>
+  <trd lng="mk">&c_i;</trd>
+  <trd lng="ml">&#xD12;&#xD2A;&#xD4D;&#xD2A;&#xD02;</trd>
+  <trd lng="mn">&c_b;&#x43E;&#x43B;&#x43E;&#x43D;</trd>
+  <trd lng="mr">&#x906;&#x923;&#x93F;</trd>
   <trd lng="ms">dan</trd>
   <trdgrp lng="fi">
     <trd>ja</trd>,
@@ -83,29 +124,64 @@
     <trd>ed</trd>
   </trdgrp>
   <trdgrp lng="ja">
-    <trd>&#65374;<ind>&#12392;</ind>&#65374;</trd>,
-    <trd>&#65374;<ind>&#12420;</ind>&#65374;</trd>,
-    <trd>&#12381;&#12375;&#12390;</trd>
+    <trd>&#xFF5E;<ind>&#x3068;</ind>&#xFF5E;</trd>,
+    <trd>&#xFF5E;<ind>&#x3084;</ind>&#xFF5E;</trd>,
+    <trd>&#x305D;&#x3057;&#x3066;</trd>
   </trdgrp>
+  <trd lng="mt">u</trd>
+  <trd lng="my">&#x1014;&#x103E;&#x1004;&#x1037;&#x103A;</trd>
+  <trd lng="ne">&#x930;</trd>
   <trd lng="nl">en</trd>
+  <trd lng="ny">ndipo</trd>
+  <trd lng="pa">&#xA39;&#xA48; &#xA05;&#xA24;&#xA47;</trd>
   <trdgrp lng="pl">
     <trd>i</trd>,
     <trd>oraz</trd>
   </trdgrp>
+  <trd lng="ps">&a_A;&a_w;</trd>
   <trd lng="pt">e <klr tip="amb">(conj.)</klr></trd>
   <trd lng="ru">&c_i;</trd>
+  <trd lng="rw">na</trd>
+  <trd lng="sd">&#x6FD;</trd>
+  <trd lng="si">&#xDC4;&#xDCF;</trd>
   <trdgrp lng="sk">
     <trd>a</trd>,
     <trd>aj</trd>,
     <trd>logick&yacute; s&uacute;&ccaron;in</trd>
   </trdgrp>
+  <trdgrp lng="sl">
+    <trd>in</trd>,
+    <trd>pa</trd>,
+    <trd>ter</trd>
+  </trdgrp>
+  <trd lng="sm">ma</trd>
+  <trd lng="sn">uye</trd>
+  <trd lng="so">iyo</trd>
+  <trd lng="sq">dhe</trd>
+  <trd lng="st">le</trd>
+  <trd lng="su">jeung</trd>
   <trd lng="sv">och</trd>
-  <trd lng="tp">en</trd>
+  <trd lng="sw">na</trd>
+  <trd lng="ta">&#xBAE;&#xBB1;&#xBCD;&#xBB1;&#xBC1;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC2E;&#xC30;&#xC3F;&#xC2F;&#xC41;</trd>
+  <trd lng="tg">&c_v;&c_a;</trd>
+  <trd lng="th">&#xE41;&#xE25;&#xE30;</trd>
+  <trd lng="tl">at</trd>
+  <trd lng="tok">en</trd>
   <trd lng="tr">ve</trd>
+  <trd lng="tt">&#x4BB;&#x4D9;&#x43C;</trd>
+  <trd lng="uk">&c_ib;</trd>
+  <trd lng="ur">&a_A;&a_w;&a_r;</trd>
+  <trd lng="uz">va</trd>
+  <trd lng="vi">v&#xE0;</trd>
   <trdgrp lng="vo">
     <trd>e</trd>,
     <trd>ed</trd>
   </trdgrp>
+  <trd lng="xh">kwaye</trd>
+  <trd lng="yi">&#x5D0;&#x5D5;&#x5DF;</trd>
+  <trd lng="yo">ati ki o</trd>
+  <trd lng="zu">futhi</trd>
 </drv>
 
 <drv mrk="kaj.0o">
@@ -122,7 +198,7 @@
       respondaj al la gramatika konjukcio <tld/>:
       <ekz>
         en matematiko kaj en ALGOL-60 la Bulean <tld/>on
-        simbolas la &leftquot;logika <tld/>signo&rightquot; <frm am="^^">&#8743;</frm>
+        simbolas la &leftquot;logika <tld/>signo&rightquot; <frm am="^^">&#x2227;</frm>
         <fnt><bib>KompLeks</bib></fnt>;
       </ekz>
       <ekz>
@@ -158,8 +234,7 @@
         <fnt>
           <bib>Viki</bib>
           <vrk><url>https://eo.wikipedia.org/?curid=38093</url></vrk>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=38093'>Konjunkcio
+          <lok><url ref="https://eo.wikipedia.org/?curid=38093">Konjunkcio
           (logiko)</url></lok>
         </fnt>.
       </ekz>
@@ -170,8 +245,8 @@
     fervoja <ref tip="hom" cel="kaj1.0o">kajo</ref>.
     Tamen la ekzisto de la fundamenta konjunkcio &leftquot;<tld/>&rightquot;
     a&ubreve;tomate neprigas la eblon derivi la substantivon
-    <tld/>o, sammaniere kiel en la okazoj pri <em>plus&#8208;pluso,
-    jes&#8208;jeso, kontra&ubreve;&#8208;kontra&ubreve;o</em>
+    <tld/>o, sammaniere kiel en la okazoj pri <em>plus&#x2010;pluso,
+    jes&#x2010;jeso, kontra&ubreve;&#x2010;kontra&ubreve;o</em>
     ktp. Do, el la du vortoj &gcirc;uste la fervoja &leftquot;kajo&rightquot; estas
     ripro&ccirc;inda.
     Due, la konfuzo inter tiuj homonimoj estas praktike
@@ -181,6 +256,10 @@
     Bulea estas ne nur ebla sed fakte atestita.
     <aut>Sergio Pokrovskij</aut>
   </rim>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ja; &c_Ib;</trd>,
+    <trd>&c_k;&c_a;&c_n;&#x2019;&c_ju;&c_n;&c_k;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>conjunci&oacute;</trd>,
     <trd>operaci&oacute; AND</trd>
@@ -206,6 +285,13 @@
       <trd>&Eacute;S m&udblac;velet</trd>
       <trd>konjunkci&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5CB8;&#x58C1;  [<ind>&#x304C;&#x3093;&#x307A;&#x304D;</ind>]</trd>,
+    <trd>&#x6CE2;&#x6B62;&#x5834;  [<ind>&#x306F;&#x3068;&#x3070;</ind>]</trd>,
+    <trd>&#x6CB3;&#x5CB8;  [<ind>&#x304B;&#x3057;</ind>]</trd>,
+    <trd>&#x8377;&#x63DA;&#x3052;&#x5834;  [<ind>&#x306B;&#x3042;&#x3052;&#x3070;</ind>]</trd>,
+    <trd>&#x30D7;&#x30E9;&#x30C3;&#x30C8;&#x30DB;&#x30FC;&#x30E0;</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>koniunkcja</trd>,
     <trd>iloczyn logiczny</trd>,
@@ -228,6 +314,12 @@
       <trd>&c_k;&c_o;&c_n;&c_malmol;&c_ju;&c_n;&c_k;&c_c;&c_i;&c_ja;
       </trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_b;&c_je;&c_r;&c_je;&c_zh;&#x43D;&c_a;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&c_s;&c_t;&c_a;&#x43D;&#x44C;</trd>,
+    <trd>(&c_z;&c_a;&#x43B;&c_ib;&c_z;&#x43D;&c_i;&c_ch;&#x43D;&c_a;) &#x43F;&#x43B;&c_a;&c_t;&c_f;&#x43E;&c_r;&#x43C;&c_a;</trd>,
+    <trd>&#x43F;&c_je;&c_r;&#x43E;&#x43D;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kaj.mal0o">
@@ -247,6 +339,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ja; &c_Ib;-&c_N;&c_Je;</trd>
   <trdgrp lng="ca">
     <trd>negaci&oacute; alternativa</trd>,
     <trd>operaci&oacute; NAND</trd>
@@ -301,8 +394,7 @@
         <fnt>
           <bib>Viki</bib>
           <vrk><url>https://eo.wikipedia.org/?curid=29201</url></vrk>   
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=29201'>Kaj-signo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=29201">Kaj-signo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -312,12 +404,12 @@
         <fnt>
           <bib>Viki</bib>
           <vrk><url>https://eo.wikipedia.org/?curid=29201</url></vrk>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=29201'>Kaj-signo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=29201">Kaj-signo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_m;&c_p;&c_e;&c_r;&c_s;&c_a;&c_n;&c_d;</trd>
   <trdgrp lng="ca">
     <trd>et</trd>,
     <trd>i comercial</trd>
@@ -333,7 +425,8 @@
     <trd>&eacute;s-jel</trd>,
     <trd>kereskedelmi "<ind>&eacute;s</ind>"</trd>
   </trdgrp>
-  <trd lng="ja">&#12450;&#12531;&#12497;&#12469;&#12531;&#12489; [<ind>&#12354;&#12435;&#12401;&#12373;&#12435;&#12393;</ind>]</trd>
+  <trd lng="ja">&#x30A2;&#x30F3;&#x30D1;&#x30B5;&#x30F3;&#x30C9;
+  [<ind>&#x3042;&#x3093;&#x3071;&#x3055;&#x3093;&#x3069;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>ampersand</trd>,
     <trd>en-teken</trd>,
@@ -353,8 +446,20 @@
 
 </art>
 <!--
-$Log: kaj.xml,v $
-versio 1.45 2020/02/15 10:10:16
+$Log$
+versio 1.121 2023/02/14 08:35:20
+Dmitri Gabinski: + trd be
+
+versio 1.120 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.47 2020/12/29 07:11:18
+Aleks Andre: bo
+
+versio 1.46 2020/04/13 18:10:58
+Peter Garami: aldono de slovenaj tradokajhoj
+
+Revision 1.45  2020/02/15 09:10:15  revo
 Wolfram Diestel: formuloj per am
 
 Revision 1.44  2019/08/27 20:10:27  revo
@@ -364,17 +469,5 @@ Revision 1.43  2018/09/05 22:10:21  revo
 Sam Penter: +trd ja nl
 
 Revision 1.42  2018/04/21 09:10:12  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.41  2017/08/21 20:10:15  revo
-Wolfram Diestel: kor. mrk, ekz-oj
-
-Revision 1.40  2017/02/15 11:10:14  revo
-Jeromo Vasxe: ankaux -> ankaux (u hoka), ~: rearangxo de dif kaj ekz
-
-Revision 1.39  2017/01/29 14:10:14  revo
-Adam Eng: +trd ms
-
-Revision 1.38  2016/11/23 13:10:21  revo
 -->
 </vortaro>

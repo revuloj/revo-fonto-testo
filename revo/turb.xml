@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: turb.xml,v 1.27 2023/09/04 19:01:55 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>turb</rad>/o
@@ -15,7 +14,7 @@
       konsistanta el konusforma peco kun centra pinto, kiun oni
       diversmaniere rapide turnsvingas sur la grundo:
       <ekz>
-        malgranda knabo <klr>[&#8230;]</klr> kolorigis la <tld/>on sur la
+        malgranda knabo <klr>[&#x2026;]</klr> kolorigis la <tld/>on sur la
         supra&jcirc;o ru&gcirc;e kaj orkolore kaj enbatis en la mezon latunan najlon
         <fnt>
           <bib>Fab2</bib>
@@ -61,6 +60,11 @@
   <trd lng="fr">toupie</trd>
   <trd lng="hu">csiga<klr tip="ind"> (j&aacute;t&eacute;k)</klr></trd>
   <trd lng="it">trottola</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3053;&#x307E;</trd>,
+    <trd>&#x308D;&#x304F;&#x308D;&#x304B;&#x3093;&#x306A;</trd>,
+    <trd>&#x30B5;&#x30B6;&#x30A8;</trd>
+  </trdgrp>
   <trd lng="nl">tol<klr tip="ind"> (speelgoed)</klr></trd>
   <trdgrp lng="pl">
     <trd>b&aogonek;k<klr tip="ind"> (zabawka)</klr></trd>,
@@ -76,7 +80,12 @@
     <trd>vlk <klr>(hra&ccaron;ka)</klr></trd>,
     <trd>vrtielka</trd>
   </trdgrp>
-  <trd lng="zh">&#38464;&#34746; [<ind>tu&oacute;lu&oacute;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x437;&#x438;&#x491;&#x430;</trd>,
+    <trd>&#x444;&#x440;&#x435;&#x437;&#x430;</trd>,
+    <trd>&#x444;&#x440;&#x435;&#x437;&#x435;&#x440;&#x43D;&#x438;&#x439; &#x432;&#x435;&#x440;&#x441;&#x442;&#x430;&#x442; &#x43F;&#x43E; &#x434;&#x435;&#x440;&#x435;&#x432;&#x443;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x9640;&#x87BA; [<ind>tu&oacute;lu&oacute;</ind>]</trd>
 </drv>
 </art>
 <!--

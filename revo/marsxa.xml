@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: marsxa.xml,v 1.17 2010/06/17 16:30:54 revo Exp $">
+<art mrk="$Id: marsxa.xml,v 1.21 2023/09/02 06:04:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mar&scirc;al</rad>/o
@@ -22,6 +21,7 @@
       <trd>marsall</trd>
     </trdgrp>
   <trd lng="it">maresciallo<klr> (ufficiale generale)</klr></trd>
+  <trd lng="pl">marsza&lstroke;ek</trd>
   <trd lng="pt">marechal <klr>(mil.)</klr></trd>
   </snc>
   <snc mrk="marsxa.0o.civila">
@@ -34,8 +34,7 @@
         Sejmo)</klr> kun la prezidanto de Bundestag
         <fnt>
         <vrk>Renkonti&gcirc;o de polaj kaj germanaj deputitoj</vrk>
-        <lok><url
-        ref="http://www.radio.com.pl/polonia/article.asp?tId=15674">Pola
+        <lok><url ref="http://www.radio.com.pl/polonia/article.asp?tId=15674">Pola
         Radio (2004-10-18)</url></lok>
         </fnt>.
       </ekz>
@@ -46,8 +45,9 @@
     </trdgrp>
     <trd lng="hu">marsall</trd>
     <trd lng="it">maresciallo<klr> (non militare)</klr></trd>
+    <trd lng="pl">marsza&lstroke;ek Sejmu</trd> 
   <trdgrp lng="pt">
-    <trd>marechal <klr>(civil></klr></trd>,
+    <trd>marechal <klr>(civil)</klr></trd>,
     <trd>presidente</trd>
   </trdgrp>
   </snc>
@@ -57,12 +57,23 @@
   <trd lng="de">Marschall</trd>
   <trd lng="en">marshal</trd>
   <trd lng="es">Mariscal</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5143;&#x5E25;  [<ind>&#x3052;&#x3093;&#x3059;&#x3044;</ind>]</trd>,
+    <trd>&#x9AD8;&#x5B98;  [<ind>&#x3053;&#x3046;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x56FD;&#x4F1A;&#x8B70;&#x9577;  [<ind>&#x3053;&#x3063;&#x304B;&#x3044;&#x304E;&#x3061;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">maarschalk</trd>
+  <trd lng="pl">marsza&lstroke;ek</trd>     
+  <trd lng="ro">mare&#x219;al</trd>
   <trd lng="ru">&c_m;&c_a;&c_r;&c_sh;&c_a;&c_l;</trd>
+  <trd lng="uk">&#x43C;&#x430;&#x440;&#x448;&#x430;&#x43B;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2020/07/02 21:10:42
+Vito Redsky: +trd pl +trd ro  
+
 Revision 1.17  2010/06/17 16:30:54  revo
 Antonio Codazzi: +trd it
 

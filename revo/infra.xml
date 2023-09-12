@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: infra.xml,v 1.3 2023/04/12 08:32:00 revo Exp $">
 <kap>
   <rad>infra</rad>- <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -24,15 +24,21 @@
       <ref cel="ultra.0.SCI">ultra-</ref>
     </refgrp>
     <refgrp tip="vid">
-      <ref cel="sub.0.pref_SPAC">sub-<sncref/></ref>,
-      <ref cel="trans.0.pref_SPAC">trans-<sncref/></ref>
+      <ref cel="sub.0_.space">sub-<sncref/></ref>,
+      <ref cel="trans.0_.space">trans-<sncref/></ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_ib;&c_n;&c_f;&c_r;&c_a;-</trd>
   <trd lng="fr">infra-</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.3 2023/04/12 08:32:00
+Dmitri Gabinski: + trd be
+
+versio 1.2 2021/05/12 17:33:30
+Wolfram Diestel: kor. ref-cel
 -->
 </vortaro>

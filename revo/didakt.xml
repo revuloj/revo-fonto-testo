@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: didakt.xml,v 1.18 2009/06/14 16:30:54 revo Exp $">
+<art mrk="$Id: didakt.xml,v 1.27 2023/08/31 10:44:00 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>didaktik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -18,13 +17,12 @@
         temon;
       </ekz>
       <ekz>
-        ekzegezo <klr>[&#8230;]</klr> pri la personeco de <nom>Beaufront</nom> kaj lia graveco por la
+        ekzegezo <klr>[&#x2026;]</klr> pri la personeco de <nom>Beaufront</nom> kaj lia graveco por la
         esperanta <tld/>o aperis en sep sinsekvaj numeroj de Literatura Foiro
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.be/2010/009999.php"
-              >Interlingvo: komparo inter du solvoj</url></vrk>
+          <vrk><url ref="&Monato;/2010/009999.php">Interlingvo: komparo inter du solvoj</url></vrk>
           <lok>2010</lok>
         </fnt>;
       </ekz>
@@ -49,10 +47,12 @@
     <trd>didactique<klr> (subst.)</klr></trd>,
     <trd>p&eacute;dagogie</trd>
   </trdgrp>
+  <trd lng="he">&#x5D3;&#x5D9;&#x5D3;&#x5E7;&#x5D8;&#x5D9;&#x5D5;&#x5EA;</trd>
   <trdgrp lng="hu">
     <trd>didaktika</trd>,
     <trd>oktat&aacute;stan</trd>
   </trdgrp>
+  <trd lng="ja">&#x6559;&#x6388;&#x6CD5;  [<ind>&#x304D;&#x3087;&#x3046;&#x3058;&#x3085;&#x307B;&#x3046;</ind>]</trd>
   <trd lng="pl">dydaktyka</trd>
   <trd lng="pt">did&aacute;tica</trd>
   <trd lng="ru">&c_d;&c_i;&c_d;&c_a;&c_k;&c_t;&c_i;&c_k;&c_a;</trd>
@@ -60,6 +60,7 @@
     <trd>didaktika</trd>,
     <trd>n&aacute;uka o v&yacute;chove</trd>
   </trdgrp>
+  <trd lng="uk">&#x434;&#x438;&#x434;&#x430;&#x43A;&#x442;&#x438;&#x43A;&#x430;</trd>
 </drv>
 
 <drv mrk="didakt.0a">
@@ -68,7 +69,7 @@
     <dif>
       <ref tip="dif" cel="instru.pri0a">Priinstrua</ref>:
       <ekz>
-        dum pluraj pa&gcirc;oj la a&ubreve;toro <klr>[&#8230;]</klr> prezentas
+        dum pluraj pa&gcirc;oj la a&ubreve;toro <klr>[&#x2026;]</klr> prezentas
         detalan tezon en <tld/>a stilo
         <fnt>
           <aut>D. Broadribb</aut>,
@@ -79,8 +80,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_d;&c_y;&c_d;&c_a;&c_k;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="be">&c_d;&c_y;&c_d;&c_a;&c_k;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">did&agrave;ctic</trd>
   <trdgrp lng="de">
     <trd>didaktisch</trd>
@@ -94,9 +94,14 @@
     <trd>didactique</trd>,
     <trd>p&eacute;dagogique</trd>
   </trdgrp>
+  <trd lng="he">&#x5D3;&#x5D9;&#x5D3;&#x5E7;&#x5D8;&#x5D9;&#x5D5;&#x5EA;</trd>
   <trdgrp lng="hu">
     <trd>didaktikus</trd>,
     <trd>didaktikai</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6559;&#x6388;&#x6CD5;&#x306E;  [<ind>&#x304D;&#x3087;&#x3046;&#x3058;&#x3085;&#x307B;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x6559;&#x80B2;&#x7684;&#x306A;  [<ind>&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;&#x3066;&#x304D;&#x306A;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>dydaktyczny</trd>,
@@ -108,10 +113,17 @@
     <trd>&c_p;&c_o;&c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_je;&c_d;&c_a;&c_g;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x438;&#x434;&#x430;&#x43A;&#x442;&#x438;&#x447;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x43E;&#x432;&#x447;&#x430;&#x43B;&#x44C;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.22  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 

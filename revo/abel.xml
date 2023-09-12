@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: abel.xml,v 1.79 2020/04/09 23:11:23 revo Exp $">
+<art mrk="$Id: abel.xml,v 1.89 2023/08/27 17:27:13 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>abel</rad>/o
 </kap>
@@ -12,8 +11,7 @@
   <snc mrk="abel.0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">Genro</ref>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref>
        el la familio
       <ref tip="malprt" cel="abeled.0oj"><tld/>edoj</ref>
       (<trd lng="la">Apis</trd>), el kiu unu specio
@@ -78,7 +76,7 @@
            ref="&WCW;/File:European_honey_bee_extracts_nectar.jpg">&WCW;/File:European_honey_bee_extracts_nectar.jpg</url></lok>
          </fnt>
     </bld>
-    <trd lng="th">&#3612;&#3638;&#3657;&#3591;</trd>
+    <trd lng="th">&#xE1C;&#xE36;&#xE49;&#xE07;</trd>
   </snc>
   <rim>
     <ref tip="hom" cel="abel1.0o">Abelo</ref>
@@ -86,6 +84,7 @@
   </rim>
   <trd lng="be">&c_p;&c_ch;&c_a;&c_l;&c_a;</trd>
   <trd lng="bg">&c_p;&c_ch;&c_je;&c_l;&c_a;</trd>
+  <trd lng="bo">&t_sa;&t_bata;&t_rata;&t_nga;&t_tsheg;&t_na;&t_naro;&t_ra;&t_tsheg;&t_ba;&t_shabchu;&t_tsheg;</trd>
   <trd lng="br">gwenanenn</trd>
   <trd lng="ca">abella</trd>
   <trd lng="cs">v&ccaron;ela</trd>
@@ -102,8 +101,8 @@
   <trd lng="he">&dalet;&bet;&vav;&resh;&he;</trd>
   <trd lng="hu">m&eacute;h</trd>
   <trd lng="io">abelo</trd>
-  <trd lng="ja">&#12511;&#12484;&#12496;&#12481;
-  [<ind>&#12415;&#12388;&#12400;&#12385;</ind>]</trd>
+  <trd lng="ja">&#x30DF;&#x30C4;&#x30D0;&#x30C1;
+  [<ind>&#x307F;&#12388;&#12400;&#12385;</ind>]</trd>
   <trd lng="nl">bij</trd>
   <trd lng="it">ape</trd>
   <trd lng="oc">abelha</trd>
@@ -119,6 +118,43 @@
     <trd>ar&inodot;</trd>
   </trdgrp>
   <trd lng="vo">bien</trd>
+</drv>
+
+<drv mrk="abel.0aro">
+  <kap>
+    <tld/>aro
+  </kap>
+  <snc>
+    <dif>
+      Aro da <tld/>oj devenantaj de <tld/>re&gcirc;ino kaj lo&gcirc;antaj kune:
+      <ekz>
+        unu <tld/>aro <klr>[&#8230;]</klr> flugis en la fajron
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en <tld/>ujo vir<tld/>oj naski&gcirc;as kvaza&ubreve; malsano de la <tld/>aro
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Ok</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> ekbredis kaprojn kaj &scirc;afojn, anka&ubreve; <tld/>arojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2015/011588.php">De famo al fako</url></vrk>
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="svarm.abel0o">abelsvarmo</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_ch;&c_a;&c_l;&c_ib;&c_n;&c_y; <ind>&c_r;&c_o;&c_j;</ind></trd>
+  <trd lng="de">Bienenstaat</trd>
 </drv>
 
 <drv mrk="abel.0ujo">
@@ -168,7 +204,7 @@
     <trd>ruskenn</trd>, <trd>kestenn</trd>
   </trdgrp>
   <trdgrp lng="ca">
-    <trd>rusc</trd>, 
+    <trd>rusc</trd>,
     <trd>buc</trd>,
     <trd>seguer</trd>,
     <trd>bresca</trd>
@@ -192,11 +228,11 @@
   <trd lng="hu">kapt&aacute;r</trd>
   <trd lng="io">abeluyo</trd>
   <trd lng="it">alveare</trd>
-  <trd lng="ja">&#12511;&#12484;&#12496;&#12481;&#12398;&#24035;&#31665;
-  [<ind>&#12415;&#12388;&#12400;&#12385;&#12398;&#12377;&#12400;&#12371;</ind>]</trd>
+  <trd lng="ja">&#x30DF;&#x30C4;&#x30D0;&#x30C1;&#x306E;&#x5DE3;&#x7BB1;
+  [<ind>&#12424;&#12358;&#12411;&#12358;&#12400;&#12371;</ind>]</trd>
   <trd lng="nl">bijenkorf</trd>
   <trdgrp lng="oc">
-    <trd>bornat</trd>, 
+    <trd>bornat</trd>,
     <trd>bornhon</trd>,
     <trd>buc</trd>,
     <trd>brusc</trd>
@@ -210,11 +246,12 @@
   <trd lng="sk">&uacute;&lcaron;</trd>
   <trd lng="sv">bikupa</trd>
   <trdgrp lng="th">
-    <trd>&#3585;&#3621;&#3656;&#3629;&#3591;&#3648;&#3621;&#3637;&#3657;&#3618;&#3591;&#3612;&#3638;&#3657;&#3591;</trd>,
-    <trd>&#3621;&#3633;&#3591;&#3648;&#3621;&#3637;&#3657;&#3618;&#3591;&#3612;&#3638;&#3657;&#3591;</trd>,
-    <trd>&#3627;&#3637;&#3610;&#3648;&#3621;&#3637;&#3657;&#3618;&#3591;&#3612;&#3638;&#3657;&#3591;</trd>
+    <trd>&#xE01;&#xE25;&#xE48;&#xE2D;&#xE07;&#xE40;&#xE25;&#xE35;&#xE49;&#xE22;&#xE07;&#xE1C;&#xE36;&#xE49;&#xE07;</trd>,
+    <trd>&#xE25;&#xE31;&#xE07;&#xE40;&#xE25;&#xE35;&#xE49;&#xE22;&#xE07;&#xE1C;&#xE36;&#xE49;&#xE07;</trd>,
+    <trd>&#xE2B;&#xE35;&#xE1A;&#xE40;&#xE25;&#xE35;&#xE49;&#xE22;&#xE07;&#xE1C;&#xE36;&#xE49;&#xE07;</trd>
   </trdgrp>
   <trd lng="tr">kovan</trd>
+  <trd lng="uk">&c_v;&c_u;&c_l;&c_i;&c_k;</trd>
   <trd lng="vo">bienadomil</trd>
 </drv>
 
@@ -255,8 +292,8 @@
   <trd lng="hu">m&eacute;hes</trd>
   <trd lng="io">abeleyo</trd>
   <trd lng="it">arnia</trd>
-  <trd lng="ja">&#39178;&#34562;&#22580;
-  [<ind>&#12424;&#12358;&#12411;&#12358;&#12376;&#12423;&#12358;</ind>]</trd>
+  <trd lng="ja">&#x990A;&#34562;&#22580;
+  [<ind>&#12424;&#12358;&#12411;&#12358;&#12376;&#12423;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>bijenschans</trd>,
     <trd>bijenstal</trd>
@@ -268,9 +305,10 @@
   <trd lng="ru">&c_p;&c_a;&c_s;&c_je;&c_k;&c_a;</trd>
   <trd lng="sk">v&ccaron;el&iacute;n</trd>
   <trdgrp lng="th">
-    <trd>&#3619;&#3633;&#3591;&#3612;&#3638;&#3657;&#3591;</trd>,
-    <trd>&#3619;&#3623;&#3591;&#3612;&#3638;&#3657;&#3591;</trd>
+    <trd>&#xE23;&#xE31;&#xE07;&#xE1C;&#xE36;&#xE49;&#xE07;</trd>,
+    <trd>&#xE23;&#xE27;&#xE07;&#xE1C;&#xE36;&#xE49;&#xE07;</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_a;&c_s;&c_ib;&c_k;&c_a;</trd>
 </drv>
 
 <drv mrk="abel.0isto">
@@ -286,8 +324,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/007861.html">Sekretaj vortoj
+          <vrk><url ref="&Monato;/2003/007861.html">Sekretaj vortoj
           de kura&gcirc;a presisto</url></vrk>
         </fnt>.
       </ekz>
@@ -316,7 +353,7 @@
   <trd lng="he">&kaf;&vav;&vav;&resh;&fnun;</trd>
   <trd lng="hu">m&eacute;h&eacute;sz</trd>
   <trd lng="it">apicoltore</trd>
-  <trd lng="ja">&#39178;&#34562;&#23478;
+  <trd lng="ja">&#x990A;&#34562;&#x5BB6;
   [<ind>&#12424;&#12358;&#12411;&#12358;&#12363;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>imker</trd>,
@@ -335,7 +372,8 @@
     <trd>&c_p;&c_a;&c_s;&c_je;&c_ch;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
   <trd lng="sk">v&ccaron;el&aacute;r</trd>
-  <trd lng="th">&#3588;&#3609;&#3648;&#3621;&#3637;&#3657;&#3618;&#3591;&#3612;&#3638;&#3657;&#3591;</trd>
+  <trd
+  lng="th">&#xE04;&#xE19;&#xE40;&#xE25;&#xE35;&#xE49;&#xE22;&#xE07;&#xE1C;&#xE36;&#xE49;&#xE07;</trd>
   <trd lng="vo">bienan</trd>
 </drv>
 
@@ -350,8 +388,10 @@
       <ref cel="abel.0regxino"><tld/>re&gcirc;ino</ref>,
       <ref cel="abel.labor0o">labor<tld/>o</ref>
     </refgrp>
-    <trd lng="th">&#3612;&#3638;&#3657;&#3591;&#3605;&#3633;&#3623;&#3648;&#3617;&#3637;&#3618;</trd>
+    <trd
+    lng="th">&#xE1C;&#xE36;&#xE49;&#xE07;&#xE15;&#xE31;&#xE27;&#xE40;&#xE21;&#xE35;&#xE22;</trd>
   </snc>
+  <trd lng="be">&c_p;&c_ch;&c_a;&c_l;&c_a; <klr>(&c_s;&c_a;&c_m;&c_k;&c_a;)</klr></trd>
   <trd lng="ca">abella femella</trd>
   <trd lng="cs">v&ccaron;ela <klr>(d&ecaron;lnice)</klr></trd>
   <trd lng="da">hun-bi <klr>(dronning el. arbejder)</klr></trd>
@@ -359,6 +399,7 @@
   <trd lng="fr">abeille femelle</trd>
   <trd lng="hu">n&odblac;st&eacute;ny <ind>m&eacute;h</ind></trd>
   <trd lng="io">abelino</trd>
+  <trd lng="ja">&#x96CC;&#x30D0;&#x30C1;  [<ind>&#12417;&#12377;&#12400;&#12385;</ind>]</trd>
   <trd lng="nl">wijfjes<ind>bij</ind></trd>
   <trdgrp lng="pt">
      <trd>abelha f&ecirc;mea</trd>
@@ -391,6 +432,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_t;&c_k;&c_a; <klr>(&c_p;&c_ch;&c_a;&c_l;&c_ib;&c_n;&c_a;&c_ja;)</klr></trd>,
+    <trd>&c_p;&c_ch;&c_a;&c_l;&c_a;&c_m;&c_a;&c_t;&c_k;&c_a;</trd>
+  </trdgrp>
   <trd lng="bg">&c_p;&c_ch;&c_je;&c_l;&c_a;
   &c_m;&c_a;&c_j;&c_k;&c_a;</trd>
   <trd lng="br">mamm-wenan</trd>
@@ -405,8 +450,10 @@
     <trd>&a_z;&a_n;&a_b;&a_w;&a_r; &a_m;&a_l;&f_k;&a_h;</trd>
   </trdgrp>
   <trd lng="fr">reine<klr tip="ind"> (abeille)</klr></trd>
+  <trd lng="he">&mem;&lamed;&kaf;&tav; &dalet;&bet;&vav;&resh;&yod;&fmem;</trd>
   <trd lng="hu">m&eacute;hkir&aacute;lyn&odblac;</trd>
   <trd lng="it"><ind>ape</ind> regina</trd>
+  <trd lng="ja">&#22899;&#x738B;&#34562;  [<ind>&#12376;&#12423;&#x304A;&#12358;&#12400;&#12385;</ind>]</trd>
   <trd lng="nl">bijenkoningin</trd>
   <trd lng="oc">abelha reina</trd>
   <trdgrp lng="pl">
@@ -420,8 +467,8 @@
   <trd lng="ru">&c_p;&c_ch;&c_je;&c_l;&c_i;&c_n;&c_a;&c_ja;
 <ind>&c_m;&c_a;&c_t;&c_k;&c_a;</ind></trd>
   <trdgrp lng="th">
-    <trd>&#3612;&#3638;&#3657;&#3591;&#3619;&#3634;&#3594;&#3636;&#3609;&#3637;</trd>,
-    <trd>&#3612;&#3638;&#3657;&#3591;&#3609;&#3634;&#3591;&#3614;&#3597;&#3634;</trd>
+    <trd>&#xE1C;&#xE36;&#xE49;&#xE07;&#xE23;&#xE32;&#xE0A;&#xE34;&#xE19;&#xE35;</trd>,
+    <trd>&#xE1C;&#xE36;&#xE49;&#xE07;&#xE19;&#xE32;&#xE07;&#xE1E;&#xE0D;&#xE32;</trd>
   </trdgrp>
   <trd lng="vo">bienajireg</trd>
 </drv>
@@ -439,14 +486,13 @@
         bone man&gcirc;adas, kaj tute ne laboras
         <fnt>
         <aut>M. K. Gandhi, trad. A Giridhar Rao</aut>,
-        <vrk><url
-        ref="http://esperanto.enxarxa.com/GANDHI%20Eksperimentoj%20kun%20la%20Vero.pdf">
+        <vrk><url ref="http://esperanto.enxarxa.com/GANDHI%20Eksperimentoj%20kun%20la%20Vero.pdf">
         Eksperimentoj kun la Vero</url></vrk>,
         <lok>[vidita en 2017]</lok>
         </fnt>.
       </ekz>
     </dif>
-    <trd lng="th">&#3612;&#3638;&#3657;&#3591;&#3605;&#3633;&#3623;&#3612;&#3641;&#3657;</trd>
+    <trd lng="th">&#xE1C;&#xE36;&#xE49;&#xE07;&#xE15;&#xE31;&#xE27;&#xE1C;&#xE39;&#xE49;</trd>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_u;&c_c;&c_je;&c_n;&c_mol;</trd>
   <trd lng="bg">&c_t;&c_malmol;&c_r;&c_t;&c_je;&c_j;</trd>
@@ -465,6 +511,7 @@
   <trd lng="hu">herem&eacute;h</trd>
   <trd lng="io">abelulo</trd>
   <trd lng="it">fuco</trd>
+  <trd lng="ja">&#x96C4;&#x30D0;&#x30C1;  [<ind>&#x304A;&#12377;&#12400;&#12385;</ind>]</trd>
   <trd lng="nl">mannetjes<ind>bij</ind></trd>
   <trdgrp lng="oc">
     <trd>abelha mascla</trd>,
@@ -499,6 +546,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_a;&c_ja; <ind>&c_p;&c_ch;&c_a;&c_l;&c_a;</ind></trd>
   <trd lng="br">labourerez<klr tip="ind"> (gwenanenn)</klr></trd>
   <trd lng="ca">abella <klr tip="ind">obrera</klr></trd>
   <trd lng="cs">v&ccaron;ela d&ecaron;lnice</trd>
@@ -511,6 +559,7 @@
   <trd lng="fr">ouvri&egrave;re<klr tip="ind"> (abeille)</klr></trd>
   <trd lng="hu">dolgoz&oacute;<klr tip="ind"> (m&eacute;h)</klr></trd>
   <trd lng="it"><ind>ape</ind> operaia</trd>
+  <trd lng="ja">&#x50CD;&#x304D;&#x30D0;&#x30C1;  [<ind>&#x306F;&#x305F;&#12425;&#x304D;&#12400;&#12385;</ind>]</trd>
   <trd lng="nl">werkster<klr tip="ind"> (bij)</klr></trd>
   <trd lng="pl">pszczo&lstroke;a <ind>robotnica</ind></trd>
   <trdgrp lng="pt">
@@ -519,30 +568,33 @@
   <trd lng="ru">&c_r;&c_a;&c_b;&c_o;&c_ch;&c_a;&c_ja;
 &c_p;&c_ch;&c_je;&c_l;&c_a;</trd>
   <trd lng="sk">v&ccaron;ela robotnica</trd>
-  <trd lng="th">&#3612;&#3638;&#3657;&#3591;&#3591;&#3634;&#3609;</trd>
+  <trd lng="th">&#xE1C;&#xE36;&#xE49;&#xE07;&#xE07;&#xE32;&#xE19;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.89 2023/08/27 17:27:13
+Wolfram Diestel: ja: plibonigo prononco
+
+versio 1.87 2023/08/03 07:25:01
+Dmitri Gabinski: + trd be
+
+versio 1.86 2023/04/10 18:22:01
+aktualigo Monato-URL
+
+versio 1.85 2023/02/24 16:37:14
+Wolfram Diestel: +~aro
+
+versio 1.84 2022/04/24 08:53:34
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.83 2022/04/19 07:30:01
+Dmitri Gabinski: + trd be
+
 Revision 1.76  2019/04/22 12:10:15  revo
 Warut Bunprasert: aldonis tajan tradukon
 
 Revision 1.75  2019/03/01 10:10:20  revo
-Wolfram Diestel: pliaj ekz-oj, rim hom Abelo (matematikisto)
-
-Revision 1.74  2018/10/06 16:10:17  revo
-Wolfram Diestel: pli bona bildo el Wikimedia Commons
-
-Revision 1.73  2017/09/07 10:10:17  revo
-Jeromo Vasxe: - superflua fnt F (= *)
-
-Revision 1.72  2017/07/10 06:10:14  revo
-Warut Bunprasert: +trd th
-
-Revision 1.71  2016/12/03 17:10:16  revo
-Robin van der Vliet: +trd
-
-Revision 1.70  2016/10/28 20:10:18  revo
 -->
 
 </vortaro>

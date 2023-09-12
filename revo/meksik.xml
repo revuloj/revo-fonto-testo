@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: meksik.xml,v 1.21 2020/02/27 13:10:20 revo Exp $">
+<art mrk="$Id: meksik.xml,v 1.28 2023/09/02 06:04:10 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>Meksik</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -10,16 +9,6 @@
 
 <drv mrk="meksik.M0o">
   <kap><ofc>8</ofc><tld/>o
-    <fnt><aut>Akademio de Esperanto</aut>, 
-<vrk><url
-ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/8oa.html"> 8a
-Oficiala Aldono</url></vrk>, <lok>II.C.1</lok></fnt>
-    <fnt><aut>Akademio de Esperanto</aut>, 
-<vrk><url
-ref="http://www.akademio-de-esperanto.org/decidoj/landnomoj/listo_de_rekomendataj_landnomoj/index.html">Oficiala
-Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
-    <fnt><bib>Viki</bib>, <lok><url 
-        ref="http://eo.wikipedia.org/wiki/Meksiko">Meksiko</url></lok></fnt>
   </kap>
   <mlg kod="IS-3166">MX</mlg>
   <snc mrk="meksik.M0o.lando">
@@ -56,13 +45,23 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         <fnt>
           <bib>Monato</bib>
           <aut>Donald BROADRIBB</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008193.html">Pri
+          <vrk><url ref="&Monato;/2004/008193.html">Pri
           indi&gcirc;enaj meksikanoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        inter tiuj &scirc;tatoj kun nur unu abonanto estas <klr>[&#8230;]</klr>
+      en <trd/>o ekzistas pluraj distilitaj alkoholaj trinka&jcirc;oj ellaboritaj el la diversaj varia&jcirc;oj
+      de agavoj, el
+kiuj oni konas &ccirc;irka&ubreve; 300
+<fnt>
+          <aut>Fidel Figueroa</aut>
+          <vrk><url ref="&Monato;/2000/007033.php">Nepre &gcirc;ia nomo estas Meksiko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/10, p. 14</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        inter tiuj &scirc;tatoj kun nur unu abonanto estas <klr>[&#x2026;]</klr>
         ekzemple anka&ubreve; Kolombio kaj <tld/>o
         <fnt>
           <bib>Monato</bib>
@@ -75,13 +74,13 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         <fnt>
           <bib>Monato</bib>
           <aut>Elson B. SNOW</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008146.html">Sekvoj 
+          <vrk><url ref="&Monato;/2003/008146.html">Sekvoj 
             de la pakto pri libera merkato</url></vrk>
         </fnt>.
       </ekz>
-    </dif> 
-    <trd lng="bg">&c_M;&c_je;&c_k;&c_s;&c_i;&c_k;&c_o;</trd>
+    </dif>
+    <trd lng="be">&c_M;&c_e;&c_k;&c_s;&c_y;&c_k;&c_a;</trd> 
+   <trd lng="bg">&c_M;&c_je;&c_k;&c_s;&c_i;&c_k;&c_o;</trd>
     <trd lng="de">Mexiko</trd>
     <trd lng="en">Mexico</trd>
     <trd lng="fr">Mexique</trd>
@@ -96,6 +95,7 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
       <trd>Meksyka&nacute;skie Stany Zjednoczone</trd>
     </trdgrp>
     <trd lng="pt">M&eacute;xico</trd>
+    <trd lng="ro">Mexic</trd>
     <trd lng="ru">&c_M;&c_je;&c_k;&c_s;&c_i;&c_k;&c_a;</trd>
     <trd lng="vo">M&auml;xik&auml;n</trd>
   </snc>
@@ -104,10 +104,9 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
     <dif>
-      La <ref tip="lst" cel="urb.cxef0o"
-      lst="voko:&ccirc;efurboj">&ccirc;efurbo</ref> 
+      La <ref tip="lst" cel="urb.cxef0o" lst="voko:&ccirc;efurboj">&ccirc;efurbo</ref> 
       de <ref tip="dif" cel="meksik.M0o.lando"><tld/>o<sncref/></ref>
-      (99&#730;07'U, 19&#730;26'N):
+      (99&#x2DA;07'U, 19&#x2DA;26'N):
       <ekz>
         <klr>...</klr>por fari diferencon inter la urbo kaj la
         samnoma lando, mi konsilas fari tion, kion ni faris kun aliaj
@@ -120,8 +119,8 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         ne forgesu ke <tld/>o estas urbo konstruita sur lago
         <fnt>
           <aut>Enrique</aut>: <vrk>Meksiko-Urbo</vrk>.
-          <lok><url ref="http://take2001.8k.com/Take31.htm#mexu"
-              >5a Tut-Amerika Kongreso de Esperanto, 2001</url></lok>
+          <lok><url ref="http://take2001.8k.com/Take31.htm#mexu">5a Tut-Amerika Kongreso de
+          Esperanto, 2001</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -131,12 +130,12 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         <fnt>
           <bib>Monato</bib>
           <aut>pp</aut>
-          <vrk><url
-          ref="&Monato;/2008/009658.php">Antverpeno inter
+          <vrk><url ref="&Monato;/2008/009658.php">Antverpeno inter
           la pintaj 10 urboj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_M;&c_e;&c_h;&c_ib;&c_k;&c_a;</trd> 
     <trd lng="en">Mexico City</trd>
     <trd lng="es">Ciudad de M&eacute;xico</trd>
     <trd lng="fr">Mexico</trd>
@@ -148,15 +147,16 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
     <dif>
-      Provinco (sub&scirc;tato) de <ref tip="dif"
-      cel="meksik.M0o.lando"><tld/>o<sncref/></ref>.
+      Provinco (sub&scirc;tato) de <ref tip="dif" cel="meksik.M0o.lando"><tld/>o<sncref/></ref>.
     </dif>
+    <trd lng="be">&c_M;&c_e;&c_k;&c_s;&c_y;&c_k;&c_a;</trd> 
     <trd lng="en">Mexico State</trd>
     <trd lng="ru"><klr>&c_sh;&c_t;&c_a;&c_t; </klr><ind>&c_M;&c_je;&c_h;&c_i;&c_k;&c_o;</ind></trd>
   </snc>
   <trd lng="ca">M&egrave;xic</trd>
   <trd lng="cs">m&ecaron;sto Mexiko</trd>
   <trd lng="sk">Mexiko <klr>(mesto)</klr></trd>
+  <trd lng="uk">&c_M;&c_je;&#x43A;&c_s;&c_i;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="meksik.M0urbo">
@@ -170,20 +170,24 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         la &ccirc;efurbo de <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=4241">Teno&ccirc;titlano</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4241">Teno&ccirc;titlano</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_M;&c_e;&c_h;&c_ib;&c_k;&c_a;</trd>
   <trd lng="ca">Ciutat de M&egrave;xic</trd>
   <trd lng="cs">m&ecaron;sto Mexiko</trd>
   <trd lng="en">Mexico City</trd>
   <trd lng="fr">Mexico</trd>
   <trd lng="id">Kota Meksiko</trd>
+  <trd lng="ja">&#x30E1;&#x30AD;&#x30B7;&#x30B3;&#x30B7;&#x30C6;&#x30A3;</trd>
   <trd lng="nl">Mexico-Stad</trd>
+  <trd lng="pl">Meksyk <klr>(miasto)</klr></trd>
+  <trd lng="ro">Ciudad de M&eacute;xico</trd>
   <trd lng="ru">&c_M;&c_je;&c_h;&c_i;&c_k;&c_o;</trd>
   <trd lng="sk">Mexiko <klr>(mesto)</klr></trd>
+  <trd lng="uk">&#x41C;&c_je;&c_h;&c_ib;&#x43A;&#x43E;</trd>
 </drv>
 
 <drv mrk="meksik.M0lando">
@@ -195,15 +199,15 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         la vivo pulsas ankora&ubreve; en tiu parto, en kiu la a&ubreve;toro nin
         kondukas en <tld/>landon <klr>...</klr>
         <fnt>
-          <vrk>Bibliografio &#8208; Stranga hereda&jcirc;o</vrk>
+          <vrk>Bibliografio &#x2010; Stranga hereda&jcirc;o</vrk>
           <lok>Literatura mondo,
-            <url
-              ref="http://www.tekstoj.nl/lm/lm22-3/bibliografio.html#luyken"
-              >Dec. 1922, p. 67</url></lok>
+            <url ref="http://www.tekstoj.nl/lm/lm22-3/bibliografio.html#luyken">Dec. 1922, p.
+            67</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_M;&c_e;&c_k;&c_s;&c_y;&c_k;&c_a;</trd>
   <trd lng="bg">&c_M;&c_je;&c_k;&c_s;&c_i;&c_k;&c_o;</trd>
   <trd lng="ca">M&egrave;xic</trd>
   <trd lng="de">Mexiko</trd>
@@ -220,6 +224,7 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
     <trd>Meksyk</trd>,
     <trd>Meksyka&nacute;skie Stany Zjednoczone</trd>
   </trdgrp>
+  <trd lng="ro">Mexic</trd>
   <trd lng="ru">&c_M;&c_je;&c_k;&c_s;&c_i;&c_k;&c_a;</trd>
   <trd lng="vo">M&auml;xik&auml;n</trd>
 </drv>
@@ -234,20 +239,22 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         direkton
         <fnt>
           <aut>A. M. L&oacute;pez Obrador, trad. V. Lutermano</aut>,
-          <vrk><url
-          ref="https://eo.mondediplo.com/article2491.html">Meksiko
+          <vrk><url ref="&Mondediplo;article2491.html">Meksiko
           fronte al Donald Trump</url></vrk>,
           <lok>le Monde diplomatique, 2017-04</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_e;&c_k;&c_s;&c_y;&c_k;&c_a;&c_n;&c_je;&c_c;</trd>
   <trd lng="en">Mexican</trd>
   <trdgrp lng="fr"> 
     <trd>Mexicain</trd>
     <trd>Mexicaine<klr> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="nl">Mexicaan</trd>
+  <trd lng="pl">Meksyka&nacute;czyk</trd>
+  <trd lng="ro">mexican</trd>
   <trd lng="vo">M&auml;xik&auml;nan</trd>
 </drv>
 
@@ -258,12 +265,15 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
     Rilata al la &scirc;tato Meksiko.
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_e;&c_k;&c_s;&c_y;&c_k;&c_a;&c_n;&c_s;&c_k;&c_ib;</trd>
   <trd lng="en">Mexican</trd>
   <trdgrp lng="fr"> 
     <trd>mexicain</trd>
     <trd>mexicaine<klr> (adj.)</klr></trd>
   </trdgrp>
   <trd lng="nl">Mexicaans</trd>
+  <trd lng="pl">meksyka&nacute;ski</trd>
+  <trd lng="ro">mexican&abreve;</trd>
   <trd lng="vo">M&auml;xik&auml;nik</trd>
 </drv>
 
@@ -282,8 +292,7 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         usonaj &scirc;tatoj estas Nevado, Nov-<tld/>o kaj Arizono
         <fnt>
           <aut>K. Miner</aut>,
-          <vrk><url
-          ref="http://www.sunflower.com/~miner/TAGLIBRO_package/Aprilo_2007.html">
+          <vrk><url ref="http://www.sunflower.com/~miner/TAGLIBRO_package/Aprilo_2007.html">
           taglibro</url></vrk>,
           <lok>2007-04-27</lok>
         </fnt>;
@@ -295,8 +304,7 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
         <fnt>
           <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008236.html">La rikolto
+          <vrk><url ref="&Monato;/2004/008236.html">La rikolto
           de la nova tempo</url></vrk>
         </fnt>;
       </ekz>
@@ -312,38 +320,41 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_N;&c_mol;&c_ju;-&c_M;&c_e;&c_h;&c_ib;&c_k;&c_a;</trd>
   <trd lng="ca">Nou <ind>M&egrave;xic</ind></trd>
   <trd lng="en">New Mexico</trd>
   <trd lng="fr">Nouveau Mexique</trd>
   <trd lng="nl">Nieuw-Mexico</trd>
   <trd lng="pl">Nowy Meksyk</trd>
+  <trd lng="ro">New Mexico</trd>
   <trd lng="ru">&c_N;&c_mol;&c_ju;-&c_M;&c_je;&c_k;&c_s;&c_i;&c_k;&c_o;</trd>
+  <trd lng="uk">&#x41D;&#x44C;&#x44E;-&#x41C;&c_je;&#x43A;&c_s;&c_i;&#x43A;&#x43E; <klr>(&c_sh;&c_t;&c_a;&c_t;)</klr></trd>
 </drv>
 </art>
 
 <!--
-$Log: meksik.xml,v $
-versio 1.21 2020/02/27 13:10:20
+$Log$
+versio 1.27 2023/04/15 15:25:46
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.26 2023/03/28 20:29:00
+Wolfram Diestel: kap: 1 fnt suficxas
+
+versio 1.25 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2021/04/26 07:05:14
+Dmitri Gabinski: +trd be
+
+versio 1.22 2020/12/30 23:10:31
+Vito Redsky: +trd pl +trd ro 
+
+Revision 1.21  2020/02/27 12:10:19  revo
 Robin van der Vliet: +ekz, +trd
 
 Revision 1.20  2019/06/30 18:21:48  revo
 adaptis URL de Monato
 
 Revision 1.19  2019/06/30 07:42:48  revo
-adaptis URL de Monato
-
-Revision 1.18  2017/12/22 23:10:21  revo
-Michel Cantigneaux: Pli bonaj indikoj pri 8a Oficiala Aldono kaj 12a Of.
-Inf. (/an(in)o + /a)
-
-Revision 1.17  2017/12/16 12:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn, rearanghis iom lau la trovitaj
-ekz-oj
-
-Revision 1.16  2015/07/04 08:37:39  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.15  2015/06/29 16:33:20  revo
-aldono de trd sk per skripto de M. von Laer
 -->
 </vortaro>

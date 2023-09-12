@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: loteri.xml,v 1.19 2020/02/12 19:10:24 revo Exp $">
+<art mrk="$Id: loteri.xml,v 1.21 2023/09/02 05:33:11 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>loteri</rad>/o <fnt><bib>PV</bib></fnt>
@@ -45,12 +44,19 @@
   <trd lng="es">loter&iacute;a</trd>
   <trd lng="fr">loterie</trd>
   <trd lng="hu">lott&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5B9D;&#x304F;&#x3058;  [<ind>&#x305F;&#x304B;&#x3089;&#x304F;&#x3058;</ind>]</trd>,
+    <trd>&#x5BCC;&#x304F;&#x3058;  [<ind>&#x3068;&#x307F;&#x304F;&#x3058;</ind>]</trd>,
+    <trd>&#x904B;  [<ind>&#x3046;&#x3093;</ind>]</trd>,
+    <trd>&#x5DE1;&#x308A;&#x5408;&#x308F;&#x305B;  [<ind>&#x3081;&#x3050;&#x308A;&#x3042;&#x308F;&#x305B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">loterij</trd>
   <trd lng="pl">loteria</trd>
   <trd lng="pt">loteria</trd>
   <trd lng="ro">loterie</trd>
   <trd lng="ru">&c_l;&c_o;&c_t;&c_je;&c_r;&c_je;&c_ja;</trd>
   <trd lng="sk">lot&eacute;ria</trd>
+  <trd lng="uk">&#x43B;&#x43E;&#x442;&#x435;&#x440;&#x435;&#x44F;</trd>
 </drv>
 </art>
 <!--

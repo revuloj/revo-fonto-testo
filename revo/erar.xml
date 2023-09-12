@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: erar.xml,v 1.22 2008/11/07 17:31:07 revo Exp $">
+<art mrk="$Id: erar.xml,v 1.41 2023/08/31 11:49:30 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>erar</rad>/i
@@ -114,6 +113,11 @@
     <trd>se <ind>fourvoyer</ind></trd>,
     <trd>se <ind>tromper</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8AA4;&#x308B;  [<ind>&#x3042;&#x3084;&#x307E;&#x308B;</ind>]</trd>,
+    <trd>&#x9593;&#x9055;&#x3046;  [<ind>&#x307E;&#x3061;&#x304C;&#x3046;</ind>]</trd>,
+    <trd>&#x9053;&#x306B;&#x8FF7;&#x3046;  [<ind>&#x307F;&#x3061;&#x306B;&#x307E;&#x3088;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>errar</trd>,
     <trd>cair em <ind>erro</ind></trd>,
@@ -129,6 +133,7 @@
     <trd>m&yacute;li&tcaron; sa</trd>,
     <trd>zm&yacute;li&tcaron; sa</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&#x43C;&c_i;&#x43B;&#x44F;&c_t;&c_i;&c_s;&#x44F;</trd>
 </drv>
 
 <drv mrk="erar.0o">
@@ -175,24 +180,27 @@
       <ekz>
         grava <tld/>o
         <fnt>
+       <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006880.php">Ne &ccirc;iuj lingvoj estas langaj</url></vrk>
           <bib>Monato</bib>
-          <aut>Yamasaki Seik&ocirc;</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006880.html">Ne &ccirc;iuj lingvoj estas langaj</url></vrk>
+          <lok>2000/06, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
         fatala <tld/>o
-        <fnt>
+        <fnt><aut>Stefan Maul</aut>: 
+          <vrk><url ref="&Monato;/2000/006837.php">Neglektata kontinento</url></vrk>,
           <bib>Monato</bib>
-          <lok><url ref="http://steloj.de/esperanto/monato2/006837.html">http://steloj.de/esperanto/monato2/006837.html</url></lok>
+          <lok>2000/02, p. 5</lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>oj faritaj de la anta&ubreve;a registaro
         <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2000/006806.php">&Ccirc;iea &scirc;parado</url></vrk>
           <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006806.html">Litovio: &Ccirc;iea &scirc;parado</url></vrk>
+          <lok>2000/05, p. 7</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -229,6 +237,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_a;</trd>
   <trd lng="bg">&c_g;&c_r;&c_je;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="bo">&t_na;&t_naro;&t_ra;&t_tsheg;&t_-a;&t_pha;&t_rata;&t_shabchu;&t_la;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>chyba</trd>,
     <trd>nedopat&rcaron;en&iacute;</trd>,
@@ -246,10 +255,20 @@
     <trd>erreur</trd>,
     <trd>faute<klr tip="ind"> (erreur)</klr></trd>
   </trdgrp>
+  <trdgrp lng="he">
+    <trd>&shin;&#x5C1;&#x5B0;&gimel;&#x5B4;&yod;&alef;&#x5B8;&he;</trd>,
+    <trd>&tet;&ayin;&vav;&tav;</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>t&eacute;ved&eacute;s</trd>,
     <trd>hiba</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8AA4;&#x308A;  [<ind>&#x3042;&#x3084;&#x307E;&#x308A;</ind>]</trd>,
+    <trd>&#x9593;&#x9055;&#x3044;  [<ind>&#x307E;&#x3061;&#x304C;&#x3044;</ind>]</trd>,
+    <trd>&#x601D;&#x3044;&#x9055;&#x3044;  [<ind>&#x304A;&#x3082;&#x3044;&#x3061;&#x304C;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">fout</trd>
   <trdgrp lng="pl">
     <trd>b&lstroke;&aogonek;d</trd>,
     <trd>pomy&lstroke;ka</trd>,
@@ -264,7 +283,8 @@
     <trd>chyba</trd>,
     <trd>omyl</trd>
   </trdgrp>
-  <trd lng="tp">pakala</trd>
+  <trd lng="tok">pakala</trd>
+  <trd lng="uk">&#x43F;&#x43E;&#x43C;&c_i;&#x43B;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="erar.0a">
@@ -304,9 +324,10 @@
       <ekz>
         ambigua, svaga a&ubreve; e&ccirc; rekte <tld/>a
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006820.html">Plia libro biblia</url></vrk>
+	<aut>Jorge Camacho</aut>
+	<vrk><url ref="&Monato;/2000/006820.php">Plia libro biblia</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 24</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -332,10 +353,16 @@
     <trd>fautif<klr tip="ind"> (erron&eacute;)</klr></trd>,
     <trd>faux</trd>
   </trdgrp>
+  <trd lng="he">&shin;&gimel;&vav;&yod;</trd>
   <trdgrp lng="hu">
     <trd>t&eacute;ves</trd>,
     <trd>hib&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8AA4;&#x3063;&#x305F;  [<ind>&#x3042;&#x3084;&#x307E;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x9593;&#x9055;&#x3063;&#x305F;  [<ind>&#x307E;&#x3061;&#x304C;&#x3063;&#x305F;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">foutief</trd>
   <trdgrp lng="pl">
     <trd>b&lstroke;&eogonek;dny</trd>,
     <trd>mylny</trd>
@@ -347,6 +374,7 @@
     <trd>chybn&yacute;</trd>,
     <trd>myln&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&#x43C;&c_i;&#x43B;&#x43A;&#x43E;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="erar.0ema">
@@ -366,7 +394,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Petro Desmet'</aut>
-          <vrk><url ref="https://www.monato.be/2006/008993.php">La unua Zamenhof-monumento de la 21a jarcento: dika Pomego!</url></vrk>
+          <vrk><url ref="&Monato;/2006/008993.php">La unua Zamenhof-monumento de la 21a jarcento:
+          dika Pomego!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -374,7 +403,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2009/009914.php">Gazet-eraroj</url></vrk>
+          <vrk><url ref="&Monato;/2009/009914.php">Gazet-eraroj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -383,11 +412,12 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2006/008941.php">Skribu leterojn!</url></vrk>
+          <vrk><url ref="&Monato;/2006/008941.php">Skribu leterojn!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_h;&c_ib;&c_l;&c_mol;&c_n;&c_y; &c_d;&c_a; &c_p;&c_a;&c_m;&c_y;&c_l;&c_a;&c_k;</trd>
   <trdgrp lng="cs">
     <trd>chybuj&iacute;c&iacute;</trd>,
     <trd>omyln&yacute;</trd>
@@ -402,8 +432,13 @@
     <trd>t&eacute;velyg&odblac;</trd>,
     <trd>nem t&eacute;vedhetetlen</trd>
   </trdgrp>
-  <trd lng="pl">nieomylny</trd>
+  <trd lng="ja">&#x8AA4;&#x308A;&#x3084;&#x3059;&#x3044;  [<ind>&#x3042;&#x3084;&#x307E;&#x308A;&#x3084;&#x3059;&#x3044;</ind>]</trd>
+  <trd lng="pl">omylny</trd>
   <trd lng="sk">omyln&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_h;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &#x43F;&#x43E;&#x43C;&c_i;&#x43B;&#x44F;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_s;&c_h;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &c_d;&#x43E; &#x43F;&#x43E;&#x43C;&c_i;&#x43B;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="erar.0igi">
@@ -439,6 +474,10 @@
       <ref cel="tromp.0i">trompi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_h;&c_ib;&c_b;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_y;&c_ch;&c_y;&c_n;&c_ja;&c_c;&c_c;&c_a; &c_d;&c_a; <ind>&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_ib;</ind></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>klamat</trd>,
     <trd>m&aacute;st</trd>,
@@ -457,23 +496,90 @@
     <trd>induire en <ind>erreur</ind></trd>,
     <trd>tromper<klr tip="ind"> (induire en erreur)</klr></trd>
   </trdgrp>
+  <trd lng="he">&lamed;&he;&tet;&ayin;&vav;&tav;</trd>
   <trdgrp lng="hu">
     <trd>megt&eacute;veszt</trd>,
     <trd>f&eacute;lrevezet</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8AA4;&#x3089;&#x305B;&#x308B;  [<ind>&#x3042;&#x3084;&#x307E;&#x3089;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x9053;&#x306B;&#x8FF7;&#x308F;&#x305B;&#x308B;  [<ind>&#x3069;&#x3046;&#x306B;&#x307E;&#x3088;&#x308F;&#x305B;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>myli&cacute;</trd>,
     <trd>zwodzi&cacute;</trd>
   </trdgrp>
   <trdgrp lng="ru">
-    <trd>&c_v;&c_v;&c_je;&c_s;&c_t;&c_i; &c_v;
-    &c_z;&c_a;&c_b;&c_l;&c_u;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
-    <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i; &c_k;
-    &c_o;&c_sh;&c_i;&c_b;&c_k;&c_je;</trd>
+    <trd>&c_v;&c_v;&c_je;&c_s;&c_t;&c_i; &c_v; &c_z;&c_a;&c_b;&c_l;&c_u;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i; &c_k; &c_o;&c_sh;&c_i;&c_b;&c_k;&c_je;</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>pom&yacute;li&tcaron;</trd>,
     <trd>zm&yacute;li&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i; &c_v; &#x43E;&#x43C;&c_a;&#x43D;&c_u;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&c_z;&c_v;&#x43E;&c_d;&c_i;&c_t;&c_i; &c_d;&#x43E; &#x43F;&#x43E;&#x43C;&c_i;&#x43B;&#x43A;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="erar.sen0a">
+  <kap>
+    sen<tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Ne havante <tld/>on, mankon; <ref tip="sin" cel="gxust.0a">&gcirc;usta</ref>:
+      <ekz>
+        lingvo <klr>[&#x2026;]</klr> sen<tld/>a
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la verko de unu homo ne povas esti sen<tld/>a, se tiu homo e&ccirc; estus la plej genia
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rakontitaj faktoj <klr>[&#x2026;]</klr> ne prezentas sufi&ccirc;an bazon por sen<tld/>aj
+        konkludoj
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiel sen<tld/>an ju&gcirc;on de la okulo mi ankora&ubreve; ne havas
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi havas anka&ubreve; certan planon, kiu &scirc;ajnas al mi sen<tld/>a
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="mank.sen0a.sendifekta">senmanka<sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_je;&c_s;&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_o;&c_v;&c_y;</trd>,
+    <trd>&c_b;&c_ja;&c_s;&c_h;&c_ib;&c_b;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>fehlerfrei</trd>,
+    <trd>korrekt</trd>,
+    <trd>richtig</trd>,
+    <trd>makellos</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8AA4;&#x308A;&#x306E;&#x306A;&#x3044;  [<ind>&#x3042;&#x3084;&#x307E;&#x308A;&#x306E;&#x306A;&#x3044;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>bezb&lstroke;&eogonek;dny</trd>,
+    <trd>nieomylny</trd>
   </trdgrp>
 </drv>
 
@@ -489,7 +595,7 @@
       sensa <ref tip="vid" cel="iluzi.0o.senta">iluzio</ref>:
       <ekz>
         li eksentis, ke sur liaj piedoj traglitis io, kvaza&ubreve;
-        granda serpento <klr>[&#8230;]</klr> &dash; sent<tld/>o!... &dash; diris li
+        granda serpento <klr>[&#x2026;]</klr> &dash; sent<tld/>o!... &dash; diris li
         al si
         <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 6a</lok></fnt>;
       </ekz>
@@ -511,29 +617,35 @@
       <trd>Fehlwahrnehmung</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_m;&c_a;&c_n; &c_p;&c_a;&c_ch;&c_u;&c_c;&c_mol;&c_c;&c_ja;&c_w;</trd>
   <trd lng="fr">erreur des sens</trd>
+  <trd lng="pl">z&lstroke;udzenie</trd>
+  <trd lng="uk">&#x43E;&#x43C;&c_a;&#x43D;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.27  2018/06/19 02:10:21  revo
-Dusan Juretic: +trd es
+versio 1.40 2023/04/25 12:45:40
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.26  2017/09/02 11:10:15  revo
-Vito Redsky: +trd ro
+versio 1.39 2023/04/23 12:44:05
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.25  2015/07/04 08:37:33  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.38 2023/04/18 16:30:09
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.24  2015/06/29 16:29:37  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.37 2023/04/14 15:25:58
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.23  2011/05/06 15:10:08  revo
-Jeromo Vasxe: + sens/sent~o
+versio 1.36 2023/04/11 22:26:05
+Vito Redsky: +trd pl 
 
-Revision 1.22  2008/11/07 17:31:07  revo
-Marc Bavant: kor ref cel al devojigxi
+versio 1.35 2022/05/27 08:38:27
+Dmitri Gabinski: + trd be
 
-Revision 1.21  2008/03/12 17:30:25  revo
+versio 1.34 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/01/28 22:26:54
 -->
 </vortaro>

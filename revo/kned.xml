@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kned.xml,v 1.13 2007/08/05 16:31:24 revo Exp $">
+<art mrk="$Id: kned.xml,v 1.20 2023/09/01 15:46:39 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kned</rad>/i
@@ -85,6 +84,12 @@
     <trd>masser<klr tip="ind"> (p&eacute;trir)</klr></trd>,
     <trd>modeler<klr tip="ind"> (fa&ccedil;onner avec les mains)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3053;&#x306D;&#x308B;</trd>,
+    <trd>&#x7DF4;&#x308B;  [<ind>&#x306D;&#x308B;</ind>]</trd>,
+    <trd>&#x3082;&#x3080;</trd>,
+    <trd>&#x935B;&#x3048;&#x308B;  [<ind>&#x304D;&#x305F;&#x3048;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kneden</trd>
   <trdgrp lng="pl">
     <trd>gnie&sacute;&cacute; ciasto</trd>,
@@ -95,6 +100,10 @@
   <trdgrp lng="sk">
     <trd>hnies&tcaron;</trd>,
     <trd>miesi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x456;&#x441;&#x438;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x438;&#x43C;&#x438;&#x43D;&#x430;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 
@@ -132,6 +141,7 @@
     <trd>amasadera</trd>
   </trdgrp>
   <trd lng="fr">p&eacute;trin<klr tip="ind"> (de boulanger)</klr></trd>
+  <trd lng="ja">&#x3053;&#x306D;&#x6876;  [<ind>&#x3053;&#x306D;&#x304A;&#x3051;</ind>]</trd>
   <trd lng="nl">baktrog</trd>
   <trd lng="pl">dzie&zdot;a</trd>     
   <trdgrp lng="ro">
@@ -140,6 +150,10 @@
   </trdgrp>                                                             
   <trd lng="ru">&c_k;&c_v;&c_a;&c_sh;&c_n;&c_ja;</trd>
   <trd lng="sk">die&zcaron;a</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x456;&#x436;&#x430;</trd>,
+    <trd>&#x43D;&#x43E;&#x447;&#x432;&#x438;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

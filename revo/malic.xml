@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: malic.xml,v 1.16 2009/07/01 17:21:42 revo Exp $">
+<art mrk="$Id: malic.xml,v 1.28 2023/09/02 06:04:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>malic</rad>/a
@@ -14,32 +13,74 @@
     <dif>
       Konscie malbonfarema kontra&ubreve; la aliaj, deziranta malutilon kaj
       malfeli&ccirc;on al la aliaj, &gcirc;ojanta pro la malfeli&ccirc;o 
-de la aliaj:
+      de la aliaj:
       <ekz>
         <tld/>a homo, karaktero;
       </ekz>
       <ekz>
         kiu intencas fari malbonon, tiun oni nomas
-        <tld/>ulo<fnt>Z</fnt>.
+        <tld/>ulo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 24:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi agas <klr>[&#x2026;]</klr> kun <tld/>ulo la&ubreve; lia <tld/>eco
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 22:27</lok>
+        </fnt>.
       </ekz>
     </dif>
-      <trdgrp lng="hu">
-        <trd>rosszindulat&uacute;</trd>,
-        <trd>k&aacute;r&ouml;rvend&odblac;</trd>,
-        <trd>rosszm&aacute;j&uacute;</trd>,
-        <trd>malici&oacute;zus</trd>
-      </trdgrp>
+    <trdgrp lng="hu">
+      <trd>rosszindulat&uacute;</trd>,
+      <trd>k&aacute;r&ouml;rvend&odblac;</trd>,
+      <trd>rosszm&aacute;j&uacute;</trd>,
+      <trd>malici&oacute;zus</trd>
+    </trdgrp>
   </snc>
   <snc>
     <uzo tip="klr">(io)</uzo>
     <dif>
       Farata kun deziro malutili al iu, malfeli&ccirc;igi iun:
       <ekz>
-        <tld/>a ago, parolo, intenco;
+        <tld/>a ago, parolo;
+      </ekz>
+      <ekz>
+        <tld/>aj intencoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 35:20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>a &gcirc;ojo</ind>
+        <trd lng="de">Schadenfreude</trd>
+      </ekz>
+      <ekz>
+        ne ekzistas juneco sen kapricoj, nek maljuneco sen <tld/>oj
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
       </ekz>
       <ekz>
         kiu havas <tld/>an celon, ofte perdas sian propran felon
-        <fnt><bib>PrV</bib></fnt>.
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        ilia ventro pretigas <tld/>a&jcirc;on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 15:35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi scias viajn <klr>[&#x2026;]</klr> argumentojn, kiujn vi <tld/>e kolektas kontra&ubreve; mi
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ijob 21:27</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="hu">
@@ -47,19 +88,33 @@ de la aliaj:
       <trd>gal&aacute;d</trd>
     </trdgrp>
   </snc>
+  <refgrp tip="sub">
+     <ref cel="perfid.0a">perfida</ref>,
+     <ref cel="insid.0a">insida</ref>
+  </refgrp>
+  <refgrp tip="vid">
+     <ref cel="intrig.0i">intrigi</ref>,
+     <ref cel="damagx.0i">dama&gcirc;i</ref>
+  </refgrp>
   <trdgrp lng="be">
     <trd>&c_z;&c_l;&c_y;</trd>,
     <trd>&c_z;&c_l;&c_o;&c_s;&c_n;&c_y;</trd>,
     <trd>&c_z;&c_l;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>,
     <trd>&c_k;&c_a;&c_v;&c_a;&c_r;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF44;&#xF53;&#xF0B;&#xF54;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>dol&oacute;zn&iacute;</trd>,
     <trd>j&iacute;zliv&yacute;</trd>,
     <trd>zlomysln&yacute;</trd>,
     <trd>zlovoln&yacute;</trd>
   </trdgrp>
-  <trd lng="de">b&ouml;se</trd>
+  <trdgrp lng="de">
+    <trd>b&ouml;se</trd>,
+    <trd>geh&auml;ssig</trd>,
+    <trd>boshaft</trd>,
+    <trd>b&ouml;swillig</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>malicious</trd>,
     <trd>malevolent</trd>,
@@ -72,6 +127,12 @@ de la aliaj:
   <trdgrp lng="fr">
     <trd>perfide</trd>,
     <trd>m&eacute;chant</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x60AA;&#x610F;&#x306E;  [<ind>&#x3042;&#x304F;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x610F;&#x5730;&#x60AA;&#x306A;  [<ind>&#x3044;&#x3058;&#x308F;&#x308B;&#x306A;</ind>]</trd>,
+    <trd>&#x90AA;&#x60AA;&#x306A;  [<ind>&#x3058;&#x3083;&#x3042;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x8179;&#x9ED2;&#x3044;  [<ind>&#x306F;&#x3089;&#x3050;&#x308D;&#x3044;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>boos</trd>,
@@ -97,12 +158,19 @@ de la aliaj:
     <trd>&scaron;kodoradostn&yacute;</trd>
   </trdgrp>
   <trd lng="sv">elak</trd>
-  <trd lng="tp">ike</trd>
+  <trd lng="tok">ike</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#x43B;&c_i;&c_j;</trd>,
+    <trd>&c_z;&#x43B;&#x43E;&c_s;&c_t;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_z;&#x43B;&#x43E;&c_s;&#x43B;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_z;&#x43B;&c_ib;&c_s;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_ib;&c_d;&c_s;&c_t;&c_u;&#x43F;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="malic.0eta">
   <kap><tld/>eta</kap>
-  <snc>
+  <snc mrk="malic.0eta.inklina">
     <dif>
       Inklina iom mokpetoli sen deziro malutili:
       <ekz>
@@ -110,21 +178,47 @@ de la aliaj:
       </ekz>
     </dif>
   </snc>
-  <snc>
+  <snc mrk="malic.0eta.montranta">
     <dif>
       Montranta mokpetolemon sen deziro malutili:
       <ekz>
-        <tld/>eta rido, okulo, &scirc;erco.
+        <tld/>eta rido, okulo, &scirc;erco;
+      </ekz>
+      <ekz>
+        liaj artikoloj, spicitaj per <tld/>etaj komentoj, estis amuza lega&jcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2009/009914.php">Gazet-eraroj</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <refgrp tip="vid">
+     <ref cel="mok.0ema">mokema</ref>,
+     <ref cel="amik.mal0o">malamik</ref>a,
+     <ref cel="incit.0i">inciti</ref>
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_r;&c_e;&c_z;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_je;&c_p;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
   <trd lng="cs">&scaron;k&aacute;dliv&yacute;</trd>
-  <trd lng="de">boshaft</trd>
+  <trdgrp lng="de">
+    <trd>garstig</trd>,
+    <trd>gemein</trd>,
+    <trd>zeckend</trd>
+  </trdgrp>
   <trd lng="en">ill-natured</trd>
   <trd lng="fr">malicieux</trd>
   <trdgrp lng="hu">
     <trd>huncut</trd>,
     <trd>gonoszkod&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3044;&#x305F;&#x305A;&#x3089;&#x306A;</trd>,
+    <trd>&#x304B;&#x3089;&#x304B;&#x3044;&#x306E;</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>ondeugend</trd>,
@@ -136,10 +230,20 @@ de la aliaj:
     <trd>&c_p;&c_r;&c_o;&c_k;&c_a;&c_z;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sk">&scaron;tip&lcaron;av&yacute; <klr>(pren.)</klr></trd>
+  <trd lng="uk">&#x43B;&c_u;&#x43A;&c_a;&c_v;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.27 2022/05/11 07:31:42
+Dmitri Gabinski: + trd be
+
+versio 1.26 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2020/10/23 12:53:48
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.21  2015/09/22 13:10:22  revo
 Sebastian Cyprych: +trd pl
 
@@ -153,11 +257,5 @@ Revision 1.18  2014/11/11 05:10:15  revo
 Alain Gerard: +trd fr
 
 Revision 1.17  2014/03/09 02:10:16  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.16  2009/07/01 17:21:42  revo
-Russ Williams: +trd en
-
-Revision 1.15  2006/09/11 18:41:14  revo
 -->
 </vortaro>

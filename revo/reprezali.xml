@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: reprezali.xml,v 1.12 2020/02/06 20:10:20 revo Exp $">
+<art mrk="$Id: reprezali.xml,v 1.17 2023/09/03 07:53:10 revo Exp $">
 <kap>
   <rad>reprezali</rad>/i
 </kap>
@@ -52,10 +51,12 @@
         &ccirc;ar tiu nombro inkluzivas tiujn, kiuj pereis dum bataloj 
         a&ubreve; estis viktimoj de germanaj <tld/>oj, la nombro de serboj,
         masakritaj de la kroataj usta&scirc;oj, estas evidente pli malalta
-        <fnt><aut>Michel Duc Goninaz</aut>, <vrk><url
-          ref="http://www.esperanto.be/fel/mon/006947.html">Eks-Jugoslavio: 
-          kiu kiun mistifikas?</url></vrk>, <bib>Monato</bib>, 
-          <lok>2000/6, p. 8</lok>
+        <fnt>
+        <aut>Michel Duc Goninaz</aut>
+        <vrk><url ref="&Monato;/2000/006947.html">Eks-Jugoslavio: 
+          kiu kiun mistifikas?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/06, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -65,8 +66,7 @@
         <tld/>oj 
         <fnt>
           <aut>Dingli Shen, tr. Vilhelmo Lutermano</aut>:
-          <vrk><url ref="http://eo.mondediplo.com/article1160.html"
-              >Pjongango vetas pri la ne&ubreve;traleco de
+          <vrk><url ref="&Mondediplo;article1160.html">Pjongango vetas pri la ne&ubreve;traleco de
               Pekino</url></vrk>.
           <lok>&leftquot;Le Monde diplomatique&rightquot; en Esperanto,
           2006-10-06</lok>
@@ -99,8 +99,7 @@
         en la dezerto
         <fnt>
           <aut>A. Gresh, trad. V. Lutermano</aut>,
-          <vrk><url
-          ref="http://eo.mondediplo.com/article796.html">La ondo
+          <vrk><url ref="&Mondediplo;article796.html">La ondo
               de &hcirc;aoso</url></vrk>,
           <lok>le Monde diplomatique, 2003-09</lok>
         </fnt>.
@@ -132,8 +131,7 @@
     </dif>
     <rim>
       En la reala uzo de esperantistoj la vorto <tld/>o plej ofte
-      havas &ccirc;i tiun signifon <tld/>o<sncref
-      ref="reprezali.0o.represio"/>,
+      havas &ccirc;i tiun signifon <tld/>o<sncref ref="reprezali.0o.represio"/>,
       kiu tamen mankas en la presitaj vortaroj (ekz-e en la PIV-oj).
 
       Tia uzado estas evitinda, &ccirc;ar internacie ekzistas diferenco
@@ -150,10 +148,27 @@
     </rim>
     <trd lng="nl">onderdrukking<klr tip="ind"> (ontr.)</klr></trd>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x5831;&#x5FA9;  [<ind>&#x307B;&#x3046;&#x3075;&#x304F;</ind>]</trd>,
+    <trd>&#x5FA9;&#x4EC7;  [<ind>&#x3075;&#x3063;&#x304D;&#x3085;&#x3046;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&#x43F;&c_r;&c_je;&c_s;&c_a;&#x43B;&c_ib;&c_ji;</trd>,
+    <trd>&c_r;&c_je;&#x43F;&c_r;&c_je;&c_s;&c_ib;&c_ji;</trd>
+  </trdgrp>
 </drv>
 </art>
   <!--
-  $Log: reprezali.xml,v $
+  $Log$
+versio 1.16 2023/04/07 16:34:07
+Paul Peeraerts: kor de propra fusho
+
+versio 1.15 2023/03/29 07:25:35
+Paul Peeraerts: &Monato;
+
+versio 1.14 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
 versio 1.12 2020/02/06 20:10:20
 Wolfram Diestel: sintaksaj adaptoj
 
@@ -167,14 +182,5 @@ Wolfram Diestel: sintaksaj adaptoj
   Paul Peeraerts: +nl -tajperaroj +pliprecizigo de difino -eraraj url
 
   Revision 1.8  2009/09/23 17:25:59  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.7  2009/09/15 16:30:40  revo
-  Sergio Pokrovskij: -tajperaroj
-
-  Revision 1.6  2009/09/14 16:31:17  revo
-  Sergio Pokrovskij: +~o.represio
-
-  Revision 1.5  2009/09/11 16:31:29  revo
 -->
 </vortaro>

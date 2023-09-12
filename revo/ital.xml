@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ital.xml,v 1.25 2020/02/27 20:10:42 revo Exp $">
+<art mrk="$Id: ital.xml,v 1.29 2023/08/31 16:40:58 revo Exp $">
  <kap>
   <ofc>8</ofc>
   <rad>ital</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -12,13 +11,12 @@
   <kap><tld/>o</kap>
   <snc>
     <dif>
-      <ref tip="lst" cel="sxtat.0ano"
-      lst="voko:popolanoj">&Scirc;tatano</ref> de <ref tip="malprt"
-      cel="ital.I0ujo"><tld lit="I"/>ujo</ref>.
+      <ref tip="lst" cel="sxtat.0ano" lst="voko:popolanoj">&Scirc;tatano</ref> de <ref tip="malprt" cel="ital.I0ujo"><tld lit="I"/>ujo</ref>.
     </dif>
   </snc>
   <trd lng="be">&c_ib;&c_t;&c_a;&c_l;&c_mol;&c_ja;&c_n;&c_je;&c_c;</trd>
   <trd lng="bg">&c_i;&c_t;&c_a;&c_l;&c_i;&c_a;&c_n;&c_je;&c_c;</trd>
+  <trd lng="bo">&#xF68;&#xF72;&#xF0B;&#xF4F;&#xF0B;&#xF63;&#xF72;&#xF60;&#xF72;&#xF0B;&#xF58;&#xF72;&#xF0B;</trd>
   <trd lng="de">Italiener</trd>
   <trd lng="en">Italian</trd>
   <trd lng="es">Italiano, Italiana</trd>
@@ -32,12 +30,14 @@
     <trd>Italiano</trd>,
     <trd>Italo</trd>
   </trdgrp>
+  <trd lng="ja">&#x30A4;&#x30BF;&#x30EA;&#x30A2;&#x4EBA;  [<ind>&#x30A4;&#x30BF;&#x30EA;&#x30A2;&#x3058;&#x3093;</ind>]</trd>
   <trd lng="nl">Italiaan</trd>
   <trd lng="no">italiener</trd>
   <trd lng="pl">W&lstroke;och</trd>
   <trd lng="pt">italiano<klr tip="amb"> (pessoa; subst.)</klr></trd>
   <trd lng="ru">&c_i;&c_t;&c_a;&c_l;&c_mol;&c_ja;&c_n;&c_je;&c_c;</trd>
-  <trd lng="tp">jan pi ma Italija</trd>
+  <trd lng="tok">jan pi ma Italija</trd>
+  <trd lng="uk">&#x456;&#x442;&#x430;&#x43B;&#x456;&#x454;&#x446;&#x44C;</trd>
   <trd lng="vo">Litaliy&auml;nan</trd>
  </drv>
 
@@ -65,11 +65,12 @@
     </dif>
    <trd lng="en">Italian<klr> (language)</klr></trd>
    <trd lng="fr">italien<klr> (langue)</klr></trd>
-   <trd lng="tp">toki Italija</trd>
+   <trd lng="tok">toki Italija</trd>
    <trd lng="vo">Litaliy&auml;nap&uuml;k</trd>
   </snc>
   <trd lng="be">&c_ib;&c_t;&c_a;&c_l;&c_mol;&c_ja;&c_n;&c_s;&c_k;&c_ib;</trd>
   <trd lng="bg">&c_i;&c_t;&c_a;&c_l;&c_i;&c_a;&c_n;&c_s;&c_k;&c_i;</trd>
+  <trd lng="bo">&#xF68;&#xF72;&#xF0B;&#xF4F;&#xF0B;&#xF63;&#xF72;&#xF60;&#xF72;&#xF0B;&#xF66;&#xF90;&#xF51;&#xF0B;</trd>
   <trd lng="de">italienisch</trd>
   <trd lng="fy">Italjaansk</trd>
   <trd lng="hu">olasz</trd>
@@ -77,12 +78,17 @@
     <trd>Italiana</trd>,
     <trd>Itala</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30A4;&#x30BF;&#x30EA;&#x30A2;&#x306E;  [<ind>&#x3044;&#x305F;&#x308A;&#x3042;&#x306E;</ind>]</trd>,
+    <trd>&#x30A4;&#x30BF;&#x30EA;&#x30A2;&#x8A9E;&#x306E;  [<ind>&#x3044;&#x305F;&#x308A;&#x3042;&#x3054;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">Italiaans</trd>
   <trd lng="no">italiensk</trd>
   <trd lng="pl">w&lstroke;oski<klr tip="amb"> (od W&lstroke;och)</klr></trd>
   <trd lng="pt">italiano<klr tip="amb"> (adj.)</klr></trd>
   <trd lng="ru">&c_i;&c_t;&c_a;&c_l;&c_mol;&c_ja;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
-  <trd lng="tp">pi ma Italija</trd>
+  <trd lng="tok">pi ma Italija</trd>
+  <trd lng="uk">&#x456;&#x442;&#x430;&#x43B;&#x456;&#x439;&#x441;&#x44C;&#x43A;&#x438;&#x439;</trd>
   <trd lng="vo">Litaliy&auml;nik</trd>
  </drv>
 
@@ -130,14 +136,17 @@
   <trd lng="pt">It&aacute;lia</trd>
   <trd lng="ru">&c_I;&c_t;&c_a;&c_l;&c_i;&c_ja;</trd>
   <trd lng="sk">Taliansko</trd>
-  <trd lng="tp">ma Italija</trd>
+  <trd lng="tok">ma Italija</trd>
   <trd lng="vo">Litaliy&auml;n</trd>
  </drv>
 
 </art>
 
 <!--
-$Log: ital.xml,v $
+$Log$
+versio 1.28 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
 versio 1.25 2020/02/27 20:10:42
 Robin van der Vliet: +trd, koherigo kun aliaj landoartikoloj
 
@@ -157,7 +166,5 @@ Akademio.
 Revision 1.20  2016/11/23 14:10:15  revo
 Robin van der Vliet: +trd
 
-Revision 1.19  2014/06/10 10:10:24  revo
-Eko Nur Syah Hidayat: +id
 -->
 </vortaro>

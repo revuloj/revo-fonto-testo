@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hxamemor.xml,v 1.10 2009/03/15 17:30:35 revo Exp $">
+<art mrk="$Id: hxamemor.xml,v 1.13 2022/03/21 17:51:54 revo Exp $">
   <kap>
       <rad>&hcirc;amemor</rad>/o
-      <fnt><vrk>Norsk-esperanto ordbok</vrk>, <lok>1963</lok></fnt>
+      <fnt><vrk>Norsk-esperanto ordbok</vrk>, <lok>1963</lok></fnt>,
+      <var><kap><rad var="k">kamemor</rad>/o</kap></var>
   </kap>
   <drv mrk="hxamemor.0o">
-    <kap><tld/>o, <var><kap>kamemoro</kap></var></kap>
+    <kap><tld/>o, <var><kap><tld var="k"/>o</kap></var></kap>
     <snc mrk="hxamemor.0o.BOT">
       <uzo tip="fak">BOT</uzo>
       <dif>
@@ -60,10 +60,14 @@
       <trd>Mora de los pantanos</trd>, 
       <trd>Mora de ronces</trd>
     </trdgrp>
+  <trd lng="uk">&#x43C;&#x43E;&#x440;&#x43E;&#x448;&#x43A;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.12 2020/09/06 16:32:34
+Wolfram Diestel: +rad/var, +tld-var
+
 Revision 1.10  2009/03/15 17:30:35  revo
 Wieland Pusch: +trd bg, +var
 

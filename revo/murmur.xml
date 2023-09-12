@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: murmur.xml,v 1.17 2009/10/24 16:32:05 revo Exp $">
+<art mrk="$Id: murmur.xml,v 1.28 2023/09/02 06:04:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>murmur</rad>/i <fnt><bib>PV</bib></fnt>
@@ -52,7 +51,7 @@
       <trd>z&uacute;g</trd>,
       <trd>csobog</trd>,
       <trd>cs&ouml;rgedezik</trd>
-    </trdgrp>
+    </trdgrp>   
     <trdgrp lng="pt">
       <trd>murmurar</trd>,
       <trd>farfalhar <klr tip="amb">(folhas)</klr></trd>
@@ -207,14 +206,45 @@
   </trdgrp>
   <trd lng="de">murmeln</trd>
   <trd lng="en">murmur</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x3076;&#x3084;&#x304F;</trd>,
+    <trd>&#x3056;&#x308F;&#x3081;&#x304F;</trd>,
+    <trd>&#x3076;&#x3064;&#x304F;&#x3055;&#x8A00;&#x3046;  [<ind>&#x3076;&#x3064;&#x304F;&#x3055;&#x3044;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>murmelen</trd>,
     <trd>brommen</trd>,
     <trd>morren</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>szepta&cacute;</trd>,
+    <trd>mrucze&cacute;</trd>,
+    <trd>szemra&cacute;</trd>,
+    <trd>brz&eogonek;cze&cacute;</trd>,
+    <trd>warcze&cacute;</trd>
+  </trdgrp> 
+  <trdgrp lng="ro">
+    <trd>&#x219;opti</trd>,
+    <trd>toarce</trd>,
+    <trd>susura</trd>,
+    <trd>b&acirc;z&acirc;it</trd>,
+    <trd>m&acirc;r&abreve;i</trd>
+  </trdgrp>   
   <trdgrp lng="sk">
     <trd>hundra&tcaron;; &zcaron;blnkota&tcaron;; &scaron;tebota&tcaron;</trd>,
     <trd>mrmla&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_z;&#x44E;&c_r;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&c_a;&c_r;&c_u;&c_d;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&c_je;&#x43B;&c_je;&c_s;&c_t;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&c_je;&#x43F;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&c_je;&#x43F;&#x43E;&c_t;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_u;&c_r;&#x43C;&#x43E;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_u;&c_r;&#x43C;&#x43E;&c_t;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_u;&c_r;&#x43C;&c_u;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_u;&c_r;&#x43C;&#x43E;&c_t;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&#x43C;&c_i;&#x43C;&c_r;&c_i;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -238,13 +268,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        eksonis la akordoj <klr>[&#8230;]</klr> kuni&gcirc;ante kun la <tld/>o de la arboj
+        eksonis la akordoj <klr>[&#x2026;]</klr> kuni&gcirc;ante kun la <tld/>o de la arboj
         <fnt>
           <bib>IK</bib>
         </fnt>;
       </ekz>
       <ekz>
-        lia akra a&ubreve;do perceptis venantan de sube, <klr>[&#8230;]</klr>
+        lia akra a&ubreve;do perceptis venantan de sube, <klr>[&#x2026;]</klr>
         obtuzan <tld/>on
         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 2a, p. 28a</lok></fnt>.
       </ekz>
@@ -284,6 +314,21 @@
     <trd>morg&aacute;s</trd>,
     <trd>d&ouml;rm&ouml;g&eacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x3076;&#x3084;&#x304D;</trd>,
+    <trd>&#x3056;&#x308F;&#x3081;&#x304D;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pomruk</trd>,
+    <trd>szemranie</trd>,
+    <trd>szmer</trd>,
+    <trd>gwar</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>fream&abreve;t</trd>,
+    <trd>f&icirc;&#x219;&icirc;ial&abreve;</trd>,
+    <trd>zgomot</trd>
+  </trdgrp>   
   <trdgrp lng="ru">
     <trd>&c_sh;&c_je;&c_l;&c_je;&c_s;&c_t;</trd>,
     <trd>&c_sh;&c_o;&c_r;&c_o;&c_h;</trd>,
@@ -295,6 +340,16 @@
   <trdgrp lng="sk">
     <trd>bru&ccaron;anie <klr>(nespokojn&eacute;)</klr></trd>,
     <trd>mru&ccaron;anie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_z;&#x44E;&c_r;&#x43A;&c_ib;&c_t;</trd>,
+    <trd>&c_sh;&c_u;&c_r;&c_h;&c_ib;&c_t;</trd>,
+    <trd>&c_sh;&c_je;&#x43B;&c_je;&c_s;&c_t;</trd>,
+    <trd>&c_sh;&c_je;&#x43F;&c_ib;&c_t;</trd>,
+    <trd>&c_b;&c_u;&c_r;&#x43C;&#x43E;&c_t;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_b;&c_u;&c_r;&#x43C;&#x43E;&c_t;&c_ib;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43C;&c_u;&c_r;&#x43C;&c_u;&c_t;&c_a;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43C;&c_u;&c_r;&#x43C;&#x43E;&c_t;&c_ib;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -321,6 +376,11 @@
     </dif>
     <trd lng="de">brummen</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_u;&c_r;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_g;&c_y;&c_r;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_y;&c_k;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="cs">siln&ecaron; bru&ccaron;et</trd>
   <trd lng="en">growl</trd>
   <trdgrp lng="fr">
@@ -328,11 +388,21 @@
     <trd>rugir</trd>,
     <trd>faire du <ind>vacarme</ind></trd>
   </trdgrp>
+  <trd lng="pl">mamrota&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>bomb&abreve;ni</trd>,
+    <trd>morm&abreve;i</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_y;&c_ch;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_o;&c_r;&c_ch;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">silno bru&ccaron;a&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_u;&c_r;&#x43A;&#x43E;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_g;&c_r;&c_i;&#x43C;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&#x43A;&#x43E;&c_t;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="murmur.0ego">
@@ -351,12 +421,27 @@
       <trd>Stimmengewirr</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_u;&c_r;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_v;&c_u;&c_r;&c_k;&c_a;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_r;&c_y;&c_k;</trd>
+  </trdgrp>
   <trd lng="en">growl</trd>
   <trdgrp lng="fr">
     <trd>brouhaha</trd>,
     <trd>rugissement</trd>,
     <trd>vacarme</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozhowor</trd>,
+    <trd>ryk</trd>,
+    <trd>ha&lstroke;as</trd>
+  </trdgrp>   
+  <trdgrp lng="ro">
+    <trd>zbiera</trd>,
+    <trd>g&abreve;l&abreve;gie</trd>,
+    <trd>larm&abreve;</trd>
+  </trdgrp> 
   <trdgrp lng="ru">
     <trd>&c_g;&c_l;&c_u;&c_h;&c_o;&c_j; <ind>&c_sh;&c_u;&c_m;</ind></trd>,
     <trd>&c_g;&c_u;&c_l;</trd>,
@@ -389,6 +474,11 @@
       <trd>rascheln</trd>,
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_u;&c_r;&c_k;&c_a;&c_t;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_sh;&c_e;&c_p;&c_t;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_sh;&c_a;&c_m;&c_a;&c_c;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>broukat</trd>,
     <trd>mumlat</trd>,
@@ -400,6 +490,15 @@
     <trd>bourdonner</trd>,
     <trd>fredonner</trd>
   </trdgrp>
+  <trd lng="ja">&#x3055;&#x3055;&#x3084;&#x304F;</trd>
+  <trdgrp lng="pl">
+    <trd>szepta&cacute;</trd>,
+    <trd>szele&sacute;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>&#x219;opti</trd>,
+    <trd>susura</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_n;&c_a;&c_sh;&c_jo;&c_p;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_a;&c_n;&c_je;&c_v;&c_a;&c_t;&c_mol;<klr>
@@ -409,6 +508,14 @@
   <trdgrp lng="sk">
     <trd>mrmla&tcaron;</trd>,
     <trd>&scaron;eveli&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_t;&c_i;&c_h;&#x43E; <ind>&c_d;&c_z;&#x44E;&c_r;&c_ch;&c_a;&c_t;&c_i;</ind></trd>,
+    <trd>&c_t;&c_i;&c_h;&#x43E; <ind>&c_sh;&c_je;&#x43B;&c_je;&c_s;&c_t;&c_ib;&c_t;&c_i;</ind></trd>,
+    <trd>&c_t;&c_i;&c_h;&#x43E; <ind>&c_sh;&c_a;&c_r;&c_u;&c_d;&c_ib;&c_t;&c_i;</ind></trd>,
+    <trd>&#x43C;&c_u;&c_r;&#x43C;&#x43E;&c_t;&c_ib;&c_t;&c_i; &#x43F;&c_ib;&c_d; &#x43D;&#x43E;&c_s;&#x43E;&#x43C;</trd>,
+    <trd>&c_sh;&c_je;&#x43F;&c_t;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_sh;&c_je;&#x43F;&#x43E;&c_t;&c_ib;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -445,10 +552,23 @@
       <trd>Rascheln</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_u;&c_r;&c_k;&c_a;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_sh;&c_a;&c_m;&c_a;&c_c;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
   <trd lng="en">soft murmur</trd>
   <trdgrp lng="fr">
     <trd>bourdonnement</trd>,
     <trd>bruissement</trd>
+  </trdgrp>
+  <trd lng="ja">&#x3055;&#x3055;&#x3084;&#x304D;</trd>
+  <trdgrp lng="pl">
+    <trd>szept</trd>,
+    <trd>szelest</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>&#x219;oapt&abreve;</trd>,
+    <trd>fream&abreve;t</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_sh;&c_o;&c_r;&c_o;&c_h;</trd>,
@@ -465,7 +585,7 @@
       senproteste:
       <ekz>
         la popolo, tiom subpremata per laboro
-        <klr>[&#8230;]</klr> sen<tld/>e obeas al ili
+        <klr>[&#x2026;]</klr> sen<tld/>e obeas al ili
         <fnt>
          <aut>L. N. Tolstoj, trad. I. Ma&ccirc;ernis</aut>,
          <vrk><url ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">
@@ -476,14 +596,29 @@
     </dif>
     <trd lng="de">stumm <klr>(ohne Protest)</klr></trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_m;&c_o;&c_w;&c_n;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_o;&c_r;&c_l;&c_ib;&c_v;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>sans mot dire</trd>,
     <trd>sans regimber</trd>
   </trdgrp>
+  <trd lng="pl">bezszelestnie</trd>
+  <trd lng="ro">f&abreve;r&abreve; zgomot</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.27 2022/06/06 08:34:12
+Dmitri Gabinski: + trd be
+
+versio 1.26 2022/03/30 16:42:20
+Wolfram Diestel: kor. trd uk
+
+versio 1.24 2021/05/13 23:02:41
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.22  2018/02/28 21:10:13  revo
 Wolfram Diestel: kor. ref-cel
 
@@ -497,11 +632,5 @@ Revision 1.19  2013/09/25 18:10:35  revo
 Wolfram Diestel: ref al listo blekoj
 
 Revision 1.18  2013/02/02 20:10:09  revo
-Jeromo Vasxe: + sen~e
-
-Revision 1.17  2009/10/24 16:32:05  revo
-Russ Williams: +trd en
-
-Revision 1.16  2007/12/23 17:30:29  revo
 -->
 </vortaro>

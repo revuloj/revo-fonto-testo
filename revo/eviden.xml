@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: eviden.xml,v 1.14 2010/04/09 16:31:41 revo Exp $">
+<art mrk="$Id: eviden.xml,v 1.22 2023/08/31 11:49:31 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>evident</rad>/a
@@ -32,6 +31,7 @@
     <trd>&c_n;&c_je;&c_s;&c_u;&c_m;&c_n;&c_je;&c_n;&c_n;&c_y;</trd>,
     <trd>&c_ja;&c_w;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF58;&#xF44;&#xF7C;&#xF53;&#xF0B;&#xF42;&#xF66;&#xF63;&#xF0B;&#xF51;&#xF7C;&#xF51;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>evidentn&iacute;</trd>,
     <trd>jasn&yacute;</trd>,
@@ -59,6 +59,10 @@
     <trd>nyilv&aacute;nval&oacute;</trd>,
     <trd>evidens</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x660E;&#x767D;&#x306A;  [<ind>&#x3081;&#x3044;&#x306F;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x81EA;&#x660E;&#x306E;  [<ind>&#x3058;&#x3081;&#x3044;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>ewidentny</trd>,
     <trd>oczywisty</trd>
@@ -83,6 +87,11 @@
     <trd>tydlig</trd>,
     <trd>uppenbar</trd>,
     <trd>sj&auml;lvklar</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x447;&#x435;&#x432;&#x438;&#x434;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x44F;&#x432;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x441;&#x443;&#x43C;&#x43D;&#x456;&#x432;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
 
@@ -133,6 +142,7 @@
     <trd>nyilv&aacute;nval&oacute;an</trd>,
     <trd>k&eacute;ts&eacute;gtelen&uuml;l</trd>
   </trdgrp>
+  <trd lng="ja">&#x660E;&#x3089;&#x304B;&#x306B;  [<ind>&#x3042;&#x304D;&#x3089;&#x304B;&#x306B;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>ewidentnie</trd>,
     <trd>oczywi&sacute;cie</trd>,
@@ -148,6 +158,10 @@
     <trd>zrejme</trd>
   </trdgrp>
   <trd lng="sv">tydligen</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x447;&#x435;&#x432;&#x438;&#x434;&#x43D;&#x43E;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x441;&#x443;&#x43C;&#x43D;&#x456;&#x432;&#x43D;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="eviden.0eco">
@@ -180,6 +194,7 @@
     <trd>nyilv&aacute;nval&oacute;s&aacute;g</trd>,
     <trd>evidencia</trd>
   </trdgrp>
+  <trd lng="ja">&#x660E;&#x767D;&#x3055;  [<ind>&#x3081;&#x3044;&#x306F;&#x304F;&#x3055;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>ewidentno&sacute;c</trd>,
     <trd>oczywisto&sacute;&cacute;</trd>
@@ -191,6 +206,10 @@
   <trdgrp lng="sk">
     <trd>nepochybnos&tcaron;</trd>,
     <trd>zrejmos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x447;&#x435;&#x432;&#x438;&#x434;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x431;&#x435;&#x437;&#x441;&#x443;&#x43C;&#x43D;&#x456;&#x432;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -211,11 +230,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_ja;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_k;&c_a;&c_z;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="fr">s'<ind>av&eacute;rer</ind></trd>
+  <trd lng="ja">&#x660E;&#x767D;&#x306B;&#x306A;&#x308B;  [<ind>&#x3081;&#x3044;&#x306F;&#x304F;&#x306B;&#x306A;&#x308B;</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2021/06/17 06:38:35
+Dmitri Gabinski: + trd be
+
 Revision 1.17  2015/12/28 04:10:18  revo
 Alain Gerard: +fnt +trd fr
 

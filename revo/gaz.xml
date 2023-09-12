@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gaz.xml,v 1.15 2010/05/08 16:30:40 revo Exp $">
+<art mrk="$Id: gaz.xml,v 1.21 2023/08/31 14:29:51 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>gaz</rad>/o
@@ -13,16 +12,38 @@
   <snc mrk="gaz.0o.TEKS">
     <uzo tip="fak">TEKS</uzo>
     <dif>
-      Delikata travidebla silka a&ubreve; lina <ref tip="super"
-      cel="sxtof.0o.TEKS">&scirc;tofo</ref>:
+      Delikata travidebla <ref tip="super" cel="sxtof.0o.TEKS">&scirc;tofo</ref>:
+      <ekz>
+        belaj knabinoj, graciaj kaj flugetantaj, vestitaj per ondi&gcirc;anta <tld/>o tiel, ke
+        iliaj &ccirc;armaj membroj videble elmontri&gcirc;is
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        virino, vestita per plej delikata blanka <tld/>o, kiu kvaza&ubreve; estis kunmetita el
+        milionoj da stelformaj flokoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu loko de la muro, sur kiun falis la lumo, fari&gcirc;is travidebla kiel <tld/>o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Knabineto kun alumetoj</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         kulvualo el blua <tld/>o<fnt><bib>RugxDom</bib>
         <lok>&ccirc;apitro 40a, p. 576a</lok></fnt>.
       </ekz>
     </dif>
     <rim mrk="gaz.0o.RIM_paronimo">
-      Ne konfuzu kun: <ref tip="vid" cel="gas.0o">gaso</ref>,
-      aero kaj aliaj maldensaj substancoj.
+      Ne konfuzu kun: <ref tip="hom" cel="gas.0o">gaso</ref>,
+      t.e. maldensa substanco.
     </rim>
   </snc>
   <trdgrp lng="bg">
@@ -31,8 +52,8 @@
   </trdgrp>
   <trd lng="ca">gasa</trd>
   <trdgrp lng="cs">
-    <trd>gáz</trd>,
-    <trd>gáza</trd>,
+    <trd>g&aacute;z</trd>,
+    <trd>g&aacute;za</trd>,
     <trd>mul</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -47,14 +68,24 @@
   </trdgrp>
   <trd lng="fr">gaze</trd>
   <trd lng="hu">g&eacute;z</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8584;&#x7E54;&#x7269;  [<ind>&#x3046;&#x3059;&#x304A;&#x308A;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x7D17;  [<ind>&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x7D7D;  [<ind>&#x308D;</ind>]</trd>,
+    <trd>&#x30AC;&#x30FC;&#x30BC;</trd>
+  </trdgrp>
   <trd lng="nl">gaas</trd>
   <trd lng="pt">gaze<klr tip="amb"> (tecido)</klr></trd>
   <trd lng="ru">&c_g;&c_a;&c_z; <klr>(&c_t;&c_k;&c_a;&c_n;&c_mol;)</klr></trd>
-  <trd lng="sk">gáza</trd>
+  <trd lng="sk">g&aacute;za</trd>
+  <trd lng="uk">&#x433;&#x430;&#x437;&#xA0;(&#x442;&#x43A;&#x430;&#x43D;&#x438;&#x43D;&#x430;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2020/07/01 18:32:37
+Wolfram Diestel: +ekz Fab1, Fab2
+
 Revision 1.17  2015/06/29 16:29:39  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -74,11 +105,5 @@ Revision 1.12  2005/08/28 16:31:33  revo
 Jeromo Vasxe: preciz. tez
 
 Revision 1.11 2005/08/19 19:13:21 revo
-Luiz Portella: +trd pt
-
-Revision 1.10 2002/11/02 17:30:43 revo
-jxeromo vasxe: + 1 ekz, + tez
-
-Revision 1.9 2002/08/29 17:34:09 revo
 -->
 </vortaro>

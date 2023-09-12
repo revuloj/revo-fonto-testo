@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: publik.xml,v 1.43 2023/09/03 12:45:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>publik</rad>/o 
@@ -33,10 +32,11 @@
         pli kaj pli la irlanda <tld/>o konscias pri korupto kore de la socio kaj pri skandaloj,
         kiuj tu&scirc;as la plej influhavajn politikistojn, entreprenistojn kaj funkciulojn
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007075.html">Pa&scirc;oj al purigado</url></vrk>
-        </fnt>.
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007075.php">Pa&scirc;oj al purigado</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 8</lok>
+          </fnt>.
       </ekz>
     </dif>
 
@@ -54,7 +54,7 @@
           </fnt>;
         </ekz>
         <ekz>
-          dramoj <klr>[&#8230;]</klr> al kiuj la <tld/>o anta&ubreve; tridek jaroj kuradis, a&ubreve;skultadis
+          dramoj <klr>[&#x2026;]</klr> al kiuj la <tld/>o anta&ubreve; tridek jaroj kuradis, a&ubreve;skultadis
           <fnt>
             <bib>Fab4</bib>
             <lok>Pupludisto</lok>
@@ -73,7 +73,7 @@
           ke la elparolado de Esperanto estas &ccirc;e &ccirc;iuj absolute la sama
           <fnt>
             <aut>Raymond Schwartz</aut>
-            <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+            <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
@@ -109,9 +109,11 @@
         <ekz>
           la <tld/>o ne plu avide a&ccirc;etas la plej novajn versiojn de programoj
           <fnt>
+          <aut>Roland Rotsaert</aut>
+            <vrk><url ref="&Monato;/2000/007217.php">Vindozo kaj Linukso
+            interproksimi&gcirc;as</url></vrk>
             <bib>Monato</bib>
-            <aut>Roland Rotsaert</aut>
-            <vrk><url ref="http://steloj.de/esperanto/monato2/007217.html">Programaro</url></vrk>
+            <lok>2000/12, p. 17</lok>
           </fnt>.
         </ekz>
       </dif>
@@ -132,7 +134,7 @@
           ankora&ubreve; mankas sufi&ccirc;a <tld/>o kaj enspezado por fari el &gcirc;i pli oftan revuon
           <fnt>
             <bib>Monato</bib>
-            <vrk><url ref="https://www.monato.be/2004/008242.html">Gravaj opinioj</url></vrk>
+            <vrk><url ref="&Monato;/2004/008242.html">Gravaj opinioj</url></vrk>
           </fnt>.
         </ekz>
       </dif>
@@ -161,13 +163,27 @@
   <trd lng="en">public</trd>
   <trd lng="es">p&uacute;blico<klr> (subst.)</klr></trd>
   <trd lng="fr">public<klr> (le)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x516C;&#x8846;  [<ind>&#x3053;&#x3046;&#x3057;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x4E16;&#x9593;&#x306E;&#x4EBA;&#x3005;  [<ind>&#x305B;&#x3051;&#x3093;&#x306E;&#x3072;&#x3068;&#x3073;&#x3068;</ind>]</trd>,
+    <trd>&#x89B3;&#x8846;  [<ind>&#x304B;&#x3093;&#x3057;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x89B3;&#x5BA2;  [<ind>&#x304B;&#x3093;&#x304D;&#x3083;&#x304F;</ind>]</trd>,
+    <trd>&#x8074;&#x8846;  [<ind>&#x3061;&#x3087;&#x3046;&#x3057;&#x3085;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">publiek</trd>
+  <trd lng="pl">publiczno&sacute;&cacute;</trd>
   <trd lng="pt">p&uacute;blico</trd>
+  <trd lng="ro">publicitate</trd>
   <trd lng="ru">&c_p;&c_u;&c_b;&c_l;&c_i;&c_k;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>publikovanie</trd>,
     <trd>vyhl&aacute;senie</trd>,
     <trd>vyhl&aacute;&scaron;ka</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_u;&c_b;&#x43B;&c_ib;&#x43A;&c_a;</trd>,
+    <trd>&c_g;&c_r;&#x43E;&#x43C;&c_a;&c_d;&c_s;&#x44C;&#x43A;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_g;&#x43B;&#x44F;&c_d;&c_a;&c_ch;&c_ib;</trd>
   </trdgrp>
 </drv>
 
@@ -183,7 +199,10 @@
         <trd lng="es">opini&oacute;n p&uacute;blica</trd>
         <trd lng="hu">k&ouml;zv&eacute;lem&eacute;ny</trd>
         <trd lng="nl">publieke <ind>opinie</ind></trd>
-        <trd lng="ru">&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; &c_m;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+        <trd lng="pl">opinia  <ind>publiczna</ind></trd>
+        <trd lng="ro">opinie  <ind>public&abreve;</ind></trd>
+        <trd lng="ru">&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
+        &c_m;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
       </ekz>
       <ekz>
         ili jam kutimis gvidi la <tld/>an opinion kontra&ubreve; unu a&ubreve; alia
@@ -223,10 +242,11 @@
         <ekz>
           <tld/>a transporto
           <fnt>
-            <bib>Monato</bib>
-            <aut>Laimius Straznickas</aut>
-            <vrk><url ref="http://steloj.de/esperanto/monato2/006806.html">Litovio: &Ccirc;iea &scirc;parado</url></vrk>
-          </fnt>;
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2000/006806.php">&Ccirc;iea &scirc;parado</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 7</lok>
+        </fnt>;
         </ekz>
         <ekz>
           <tld/>aj vojoj
@@ -281,6 +301,7 @@
           <trd lng="hu">ny&iacute;lt titok</trd>
           <trd lng="nl">publiek <ind>geheim</ind></trd>
           <trd lng="pl">publiczna tajemnica</trd>
+          <trd lng="ro">secret public</trd>
           <trd lng="ru">&c_s;&c_je;&c_k;&c_r;&c_je;&c_t; &c_p;&c_o;&c_l;&c_i;&c_sh;&c_i;&c_n;&c_je;&c_l;&c_ja;</trd>
         </ekz>
       </dif>
@@ -296,6 +317,7 @@
         <trd>nyilv&aacute;nos</trd>,
         <trd>publikus</trd>
       </trdgrp>
+      <trd lng="nl">openbaar</trd>
     </subsnc>
     <subsnc mrk="publik.0a.malkasxa">
       <dif>
@@ -319,7 +341,8 @@
           t.e. de kiam mi malka&scirc;e eliris kun &gcirc;i
           <fnt>
             <bib>LR</bib>
-            <vrk><url ref="https://eo.wikisource.org/wiki/Lingvaj_Respondoj/Letero_pri_la_deveno_de_Esperanto">Letero pri la deveno de Esperanto</url></vrk>
+            <vrk><url ref="https://eo.wikisource.org/wiki/Lingvaj_Respondoj/Letero_pri_la_deveno_de_Esperanto">Letero
+            pri la deveno de Esperanto</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
@@ -365,7 +388,8 @@
           laboro
           <fnt>
             <bib>LR</bib>
-            <vrk><url ref="https://eo.wikisource.org/wiki/Lingvaj_Respondoj/Letero_pri_la_deveno_de_Esperanto">Letero pri la deveno de Esperanto</url></vrk>
+            <vrk><url ref="https://eo.wikisource.org/wiki/Lingvaj_Respondoj/Letero_pri_la_deveno_de_Esperanto">Letero
+            pri la deveno de Esperanto</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
@@ -378,6 +402,8 @@
           <trd lng="es">carta abierta<klr> (dirigida al
           p&uacute;blico)</klr></trd>
           <trd lng="hu">ny&iacute;lt lev&eacute;l</trd>
+          <trd lng="pl">list otwarty</trd>
+          <trd lng="ro">scrisoare deschis&abreve;</trd>
           <trd lng="ru">&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_o;&c_je;
             &c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;</trd>
         </ekz>
@@ -388,17 +414,25 @@
           <trd lng="es">jornada de puertas abiertas</trd>
           <trd lng="hu">ny&iacute;lt nap</trd>
           <trd lng="nl">opendeurdag</trd>
-          <trd lng="ru">&c_d;&c_je;&c_n;&c_mol; &c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_y;&c_h; &c_d;&c_v;&c_je;&c_r;&c_je;&c_j;</trd>
+          <trd lng="pl">dzie&nacute; otwarty</trd>
+          <trd lng="ro">zi deschis&abreve;</trd>
+          <trd lng="ru">&c_d;&c_je;&c_n;&c_mol; &c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_y;&c_h;
+          &c_d;&c_v;&c_je;&c_r;&c_je;&c_j;</trd>
         </ekz>
         <ekz>
           kiam aperis <tld/>e la libro
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en Cambridge en la 12a de a&ubreve;gusto
+          1907</vrk>
         </fnt>.
         </ekz>
       </dif>
       <trd lng="hu">ny&iacute;lt</trd>
+      <trdgrp lng="nl">
+        <trd>openlijk</trd>,
+        <trd>open</trd>
+      </trdgrp>
       <trdgrp lng="ru">
         <trd>&c_p;&c_u;&c_b;&c_l;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
         <trd>&c_o;&c_t;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j;</trd>,
@@ -429,9 +463,9 @@
       internacia). <ctl><tld lit="P"/>a</ctl> kontrastas ne nur
       kun <ctl>privata</ctl>, sed anka&ubreve; kun la
       <ctl>&scirc;tat(ism)a</ctl>, kp
-      <ctl><tld/>a sekreto</ctl> &dash; <ctl>&scirc;tata sekreto</ctl>,
-      <ctl><tld/>a televido</ctl> &dash; <ctl>&scirc;tata televido</ctl>,
-      <ctl><tld/>a opinio</ctl> &dash; <ctl>oficiala pozicio</ctl>
+      <ctl><tld/>a sekreto</ctl> &#x2010; <ctl>&scirc;tata sekreto</ctl>,
+      <ctl><tld/>a televido</ctl> &#x2010; <ctl>&scirc;tata televido</ctl>,
+      <ctl><tld/>a opinio</ctl> &#x2010; <ctl>oficiala pozicio</ctl>
       ktp.
       <aut>Sergio Pokrovskij</aut>
     </rim>
@@ -440,6 +474,7 @@
     <trd>&c_p;&c_u;&c_b;&c_l;&c_ib;&c_ch;&c_n;&c_y;</trd>,
     <trd>&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_k;&c_ib;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF66;&#xFA4;&#xFB1;&#xF72;&#xF0B;&#xF54;&#xF60;&#xF72;&#xF0B;</trd>
   <trd lng="de">&ouml;ffentlich</trd>
   <trd lng="cs">ve&rcaron;ejn&yacute;</trd>
   <trd lng="es">p&uacute;blico<klr> (adj.)</klr></trd>
@@ -448,12 +483,33 @@
     <trd>ny&iacute;lt</trd>,
     <trd>nyilv&aacute;nos</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x516C;&#x5171;&#x306E;  [<ind>&#x3053;&#x3046;&#x304D;&#x3087;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x516C;&#x7684;&#x306A;  [<ind>&#x3053;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x516C;&#x8846;&#x306E;  [<ind>&#x3053;&#x3046;&#x3057;&#x3085;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x516C;&#x958B;&#x306E;  [<ind>&#x3053;&#x3046;&#x304B;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x516C;&#x7136;&#x306E;  [<ind>&#x3053;&#x3046;&#x305C;&#x3093;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">publiek</trd>
+  <trdgrp lng="pl">
+    <trd>publiczny</trd>,
+    <trd>jawny</trd>,
+    <trd>pospolity</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>public</trd>,
+    <trd>evident&abreve;</trd>,
+    <trd>comun</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_u;&c_b;&c_l;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="tp">kulupu</trd>
+  <trd lng="tok">kulupu</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_u;&c_b;&#x43B;&c_ib;&c_ch;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_r;&#x43E;&#x43C;&c_a;&c_d;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="publik.mal0a">
@@ -480,16 +536,38 @@
         </fnt>;
       </ekz>
       <ekz>
-        lia amrilato <klr>[&#8230;]</klr> restu mal<tld/>a
+        lia amrilato <klr>[&#x2026;]</klr> restu mal<tld/>a
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=362481">Murdo de la ru&gcirc;a garbejo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=362481">Murdo de la ru&gcirc;a
+          garbejo</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">verborgen vor der &Ouml;ffentlichkeit</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_p;&c_u;&c_b;&c_l;&c_ib;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="fr">confidentiel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x975E;&#x516C;&#x958B;&#x306E;  [<ind>&#x3072;&#x3053;&#x3046;&#x304B;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x975E;&#x516C;&#x7136;&#x306E;  [<ind>&#x3072;&#x3053;&#x3046;&#x305C;&#x3093;&#x306E;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>besloten</trd>,
+    <trd>privaat</trd>,
+    <trd>achter de schermen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>niepubliczny</trd>,
+    <trd>przy drzwiach zamkni&eogonek;tych</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>nu public</trd>,
+    <trd>cu u&#x219;ile &icirc;nchise</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="publik.0ajxo">
@@ -503,6 +581,7 @@
         <fnt><bib>Revizoro</bib>, <lok>akto 2a, sceno 1a</lok></fnt>. 
       </ekz>
     </dif>
+    <trd lng="be">&c_n;&c_je;&c_sh;&c_t;&c_a; &c_p;&c_u;&c_b;&c_l;&c_ib;&c_ch;&c_n;&c_a;&c_je;</trd>
     <trd lng="de">&ouml;ffentliches Eigentum</trd>
   </snc>
   <snc mrk="publik.0ajxo.TIP">
@@ -522,17 +601,19 @@
       <ekz>
         aperas pli kaj pli da lernolibroj, vortaroj kaj kulturaj <tld/>a&jcirc;oj literaturaj kaj sciencaj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Guido Van Damme</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007000.html">Atento por etaj kaj monda lingvoj</url></vrk>
-        </fnt>;
+          <aut>Andr&eacute; Albault</aut>
+            <vrk><url ref="&Monato;/2000/007000.php">Atento por etaj kaj monda lingvoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/06, p. 4</lok>
+          </fnt>;
       </ekz>
       <ekz>
-        informaj retlistoj, retaj gazetoj, gazetaraj komunikoj, nova&jcirc;oj de TTT-ejoj kaj similaj informaj <tld/>a&jcirc;oj
+        informaj retlistoj, retaj gazetoj, gazetaraj komunikoj, nova&jcirc;oj de TTT-ejoj kaj similaj
+        informaj <tld/>a&jcirc;oj
         <fnt>
           <bib>Monato</bib>
           <aut>Grigorij Arosev, Andrej Grigorjevskij</aut>
-          <vrk><url ref="https://www.monato.be/2004/008210.html">Abonu!</url></vrk>
+          <vrk><url ref="&Monato;/2004/008210.html">Abonu!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -541,10 +622,26 @@
       <ref cel="komuni1.0o">komuniko</ref>,
       <ref cel="verk.0o">verko</ref>
     </refgrp>
+    <trd lng="be">&c_p;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_y;&c_ja;</trd>
     <trd lng="de">Ver&ouml;ffentlichung</trd>
     <trd lng="es">publicaci&oacute;n</trd>
     <trd lng="fr">publication</trd>
+    <trdgrp lng="pl">
+      <trd>publikacja</trd>,
+      <trd>program og&oacute;lnodost&eogonek;pny</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>publica&#x21B;ie</trd>,
+      <trd>program public</trd>
+    </trdgrp>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x51FA;&#x7248;&#x7269;  [<ind>&#x3057;&#x3085;&#x3063;&#x3071;&#x3093;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x520A;&#x884C;&#x7269;  [<ind>&#x304B;&#x3093;&#x3053;&#x3046;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x30D1;&#x30D6;&#x30EA;&#x30C3;&#x30AF;&#x30C9;&#x30E1;&#x30A4;&#x30F3;&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;</trd>,
+    <trd>&#x516C;&#x958B;&#x5171;&#x6709;&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;  [<ind>&#x3053;&#x3046;&#x304B;&#x3044;&#x304D;&#x3087;&#x3046;&#x3086;&#x3046;&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&c_u;&c_b;&#x43B;&c_ib;&#x43A;&c_a;&c_c;&c_ib;&#x44F;</trd>
 </drv>
 
 <drv mrk="publik.0igi">
@@ -555,7 +652,8 @@
       Fari ion <tld/>e disponebla, <tld/>e konata, diskonigi per <tld/>e akirebla
       presa&jcirc;o a&ubreve; per amasinformiloj:
       <ekz>
-        longa praktika uzado de la lingvo kaj pensado en tiu &ccirc;i lingvo anta&ubreve; ol la lingvo estis <tld/>igita
+        longa praktika uzado de la lingvo kaj pensado en tiu &ccirc;i lingvo anta&ubreve; ol la lingvo estis
+        <tld/>igita
         <fnt>
           <bib>LR</bib>
           <lok>2. La verkaro de Zamenhof</lok>
@@ -622,12 +720,37 @@
     <trd>publik&aacute;l</trd>,
     <trd>kiad</trd>
   </trdgrp>
-  <trd lng="nl">publiceren</trd>
+  <trdgrp lng="ja">
+    <trd>&#x516C;&#x8868;&#x3059;&#x308B;  [<ind>&#x3053;&#x3046;&#x3072;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x516C;&#x958B;&#x3059;&#x308B;  [<ind>&#x3053;&#x3046;&#x304B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x51FA;&#x7248;&#x3059;&#x308B;  [<ind>&#x3057;&#x3085;&#x3063;&#x3071;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x520A;&#x884C;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3053;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>publiceren</trd>,
+    <trd>afkondigen</trd>,
+    <trd>openbaar maken</trd>,
+    <trd>ruchtbaar maken</trd>,
+    <trd>wereldkundig maken</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>publikowa&cacute;</trd>,
+    <trd>og&lstroke;asza&cacute;</trd>,
+    <trd>obwieszcza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>publica</trd>,
+    <trd>anun&#x21B;a</trd>
+  </trdgrp>
   <trd lng="ru">&c_o;&c_p;&c_u;&c_b;&c_l;&c_i;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>ozn&aacute;mi&tcaron;</trd>,
     <trd>uverejni&tcaron;</trd>,
     <trd>zverejni&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_u;&c_b;&#x43B;&c_ib;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_g;&#x43E;&#x43B;&#x43E;&c_sh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -666,6 +789,7 @@
       <trd>Nutte</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_t;&c_y;&c_t;&c_u;&c_t;&c_k;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>nev&ecaron;stka</trd>,
     <trd>prostitutka</trd>
@@ -677,35 +801,52 @@
     <trd>fille publique</trd>,
     <trd>fille de joie</trd>
   </trdgrp>
+  <trdgrp lng="nl">
+    <trd>prostitu&eacute;e</trd>,
+    <trd>publieke vrouw</trd>,
+    <trd>snol</trd>,
+    <trd>hoer</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>prostytutka</trd>,
+    <trd>wszetecznica</trd>,
+    <trd>dziwka</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>curv&abreve;</trd>,
+    <trd>t&acirc;rf&abreve;</trd>
+  </trdgrp>
   <trd lng="sk">prostit&uacute;tka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_u;&c_b;&#x43B;&c_ib;&c_ch;&#x43D;&c_a; &c_zh;&c_ib;&#x43D;&#x43A;&c_a;</trd>,
+    <trd>&#x43F;&#x43E;&c_v;&c_ib;&#x44F;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_s;&c_t;&c_i;&c_t;&c_u;&c_t;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.42 2023/05/01 08:31:48
+Paul Peeraerts: Steloj -> monato
+
+versio 1.41 2023/04/27 15:26:44
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.40 2023/04/14 15:26:00
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.39 2023/03/13 23:28:39
+Vito Redsky: +trd pl + trd ro
+
+versio 1.38 2022/05/04 18:30:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.36 2021/11/22 12:48:18
+Dmitri Gabinski: + trd be
+
+versio 1.34 2021/01/26 18:10:31
+Bart Demeyere: +trd nl
+
 Revision 1.32  2019/06/30 07:43:29  revo
-adaptis URL de Monato
-
-Revision 1.31  2018/03/24 10:10:13  revo
-Wolfram Diestel: kor. mrk, prilaboris ekz-ojn (cetero), subsnc en ~a, germ trd-oj
-
-Revision 1.30  2018/03/23 21:10:14  revo
-Wolfram Diestel: precizigis difinon, reordigis (sub)sencojn; prilaboris ekz-ojn (unua parto)
-
-Revision 1.29  2018/03/14 17:10:14  revo
-Michel Cantigneaux: publikigi, fundamenta vorto de la Antauxparolo
-
-Revision 1.28  2018/01/27 08:10:12  revo
-Jeromo Vasxe: + mal~a
-
-Revision 1.27  2017/12/20 11:10:17  revo
-Michel Cantigneaux: "publik/a" fundamenta kunmetajxo el la U.V.
-
-Revision 1.26  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.25  2015/06/29 16:40:19  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.24  2014/12/13 11:10:15  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: algxeri.xml,v 1.5 2009/06/20 18:00:54 revo Exp $">
+<art mrk="$Id: algxeri.xml,v 1.18 2023/08/30 18:23:32 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>Al&gcirc;eri</rad>/o
@@ -40,13 +39,12 @@
         </fnt>
       </ekz>
       <ekz>
-        kunlaborantoj de Kuracistoj Sen Limoj trovis pli ol 500 homojn 30&#8239;km for de la
+        kunlaborantoj de Kuracistoj Sen Limoj trovis pli ol 500 homojn 30&#x202F;km for de la
         urbo <nom>Ajn a&scirc;-&Scirc;uatir</nom>, en dezerta limregiono kun <tld/>o la 7an de oktobro
         <fnt>
           <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url ref="https://www.monato.be/2006/008814.php"
-              >E&ubreve;ropo plialtigas sian drataron</url></vrk>
+          <vrk><url ref="&Monato;/2006/008814.php">E&ubreve;ropo plialtigas sian drataron</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -55,8 +53,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Christian Pinard</aut>
-          <vrk><url ref="https://www.monato.be/2006/008840.php"
-              >Signalo ankora&ubreve; ne revolucio</url></vrk>
+          <vrk><url ref="&Monato;/2006/008840.php">Signalo ankora&ubreve; ne revolucio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -79,12 +76,17 @@
     </trdgrp>
     <trd lng="pt">Arg&eacute;lia</trd>
   </snc>
+  <trd lng="he">&#x5D0;&#x5DC;&#x5D2;'&#x5D9;&#x5E8;&#x5D9;&#x5D4;</trd>
+  <trd lng="ja">&#x30A2;&#x30EB;&#x30B8;&#x30A7;&#x30EA;&#x30A2;  [<ind>&#x3042;&#x308B;&#x3058;&#x3047;&#x308A;&#x3042;</ind>]</trd>
 </drv>
 
 </art>
 
 <!--
 $Log$
+versio 1.17 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.14  2019/02/13 20:10:27  revo
 Wolfram Diestel: kor. ref-cel, pliaj ekz-oj, RLN
 
@@ -103,9 +105,6 @@ Eko Nur Syah Hidayat: +id
 
 Revision 1.9  2013/11/22 14:10:32  revo
 Damien Brucker: +trd fr
-
-Revision 1.8  2013/03/30 14:10:21  revo
-Dmitri Gabinski: +trd be
 
 -->
 </vortaro>

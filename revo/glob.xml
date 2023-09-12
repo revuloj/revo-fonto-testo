@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: glob.xml,v 1.40 2020/02/14 18:10:25 revo Exp $">
+<art mrk="$Id: glob.xml,v 1.54 2023/08/31 14:29:53 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glob</rad>/o <fnt><bib>PV</bib></fnt>
@@ -12,8 +11,7 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="glob.0o.FORM">
     <dif>
-      Fizika objekto, <ref tip="lst" lst="voko:formoj"
-      cel="korp.0o.objekto">korpo<sncref/></ref>,
+      Fizika objekto, <ref tip="lst" lst="voko:formoj" cel="korp.0o.objekto">korpo<sncref/></ref>,
       kies supra&jcirc;o pli a&ubreve; malpli
       &gcirc;uste formas <ref cel="sfer.0o.surfaco">sferon<sncref/></ref>:
       <ekz>
@@ -32,6 +30,11 @@
         <uzo tip="fak">GEOG</uzo>
         kartona <ind>geografia <tld/>o</ind>
         <klr>(t.e. <ref cel="globus.0o">globuso</ref>)</klr>;
+        <trdgrp lng="es">
+          <trd>globo terrestre</trd>,
+          <trd>globo terr&aacute;queo</trd>,
+          <trd>orbe</trd>
+        </trdgrp>
         <trd lng="fr">globe<klr tip="ind">
         (repr&eacute;sentant la Terre)</klr></trd>
         <trd lng="hu">f&ouml;ldg&ouml;mb</trd>
@@ -64,15 +67,18 @@
         ni ne havas kristalan <tld/>on <klr>(kiel uzatan de
         a&ubreve;guristoj)</klr>, do ni nur atendu kaj vidu
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/006821.html'>E&Ubreve;ROPA UNIO:
+         <aut>Marc Vanden Bempt</aut>
+          <vrk><url ref="&Monato;/2000/006821.php">E&Ubreve;ROPA UNIO:
           E&ubreve;ro unujara</url></vrk>
+           <bib>Monato</bib>
+          <lok>2000/03, p. 14</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Kugel</trd>
-    <trd lng="es">globo</trd>
+    <trdgrp lng="es">
+      <trd>bola</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>globe</trd>,
       <trd>boule</trd>
@@ -98,7 +104,7 @@
         (<frm am="d lt rho"><k>d</k>&lt;&rho;</frm>, por
         &leftquot;<ref cel="ferm.mal0ita.metrikaspaco">malfermita</ref>
         <tld/>o&rightquot;),
-        a&ubreve; ne superas (<frm am="d le rho"><k>d</k>&#8804;&rho;</frm>, por
+        a&ubreve; ne superas (<frm am="d le rho"><k>d</k>&#x2264;&rho;</frm>, por
         &leftquot;<ref cel="ferm.0ita.topologio">fermita</ref> <tld/>o&rightquot;).
       </dif>
       <rim>
@@ -107,6 +113,8 @@
       </rim>
       <trd lng="de">Kugel</trd>
       <trd lng="en">ball<klr tip="ind"> (in a metric space)</klr></trd>
+      <trd lng="es">bola<klr tip="ind"> (de un espacio
+      m&eacute;trico)</klr></trd>
       <trd lng="fr">boule<klr tip="ind"> (dans un espace
       m&eacute;trique)</klr></trd>
       <trd lng="pl">kula<klr> (w przestrzeni metrycznej)</klr></trd>
@@ -117,13 +125,11 @@
       <dif>
         (Speciale:) Same difinita (fermita a&ubreve; malfermita)
         <tld/>o<sncref ref="glob.0o.metrikaspaco"/> 
-        (<ref tip="super"
-        cel="solid.0o.geometrio">solido<sncref/></ref>) en
+        (<ref tip="super" cel="solid.0o.geometrio">solido<sncref/></ref>) en
         tridimensia e&ubreve;klida spaco:
         <ekz>
           la volumeno <frm am="V">V</frm> de <tld/>o havanta la radiuson
-          <frm am="r">r</frm> estas <frm am="V=4pi r^3//3"
-          >V = 4&pi;r&cubic;/3</frm>;
+          <frm am="r">r</frm> estas <frm am="V=4pi r^3//3">V = 4&pi;r&cubic;/3</frm>;
         </ekz>
         <ekz>
           <uzo tip="fak">SPO</uzo>
@@ -131,8 +137,7 @@
           difinitaj pezo kaj diametro
           <fnt>
             <aut>T. Ujlaky-Nagy</aut>:
-            <vrk><url
-            ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf">
+            <vrk><url ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf">
             La sporta lingvo en Esperanto</url></vrk>.
             <lok>1972</lok>
           </fnt>.
@@ -143,6 +148,10 @@
       <trdgrp lng="en">
         <trd>sphere</trd>,
         <trd>ball<klr tip="ind"> (solid)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>esfera</trd>,
+        <trd>bola<klr tip="ind"> (volumen esf&eacute;rico)</klr></trd>
       </trdgrp>
       <trdgrp lng="fr">
         <trd>sph&egrave;re</trd>,
@@ -169,6 +178,12 @@
   </trdgrp>
   <trd lng="cs">koule</trd>
   <trd lng="id">globe</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7403;&#x4F53;  [<ind>&#x304D;&#x3085;&#x3046;&#x305F;&#x3044;</ind>]</trd>,
+    <trd>&#x7403;  [<ind>&#x305F;&#x307E;</ind>]</trd>,
+    <trd>&#x7389;  [<ind>&#x304E;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x92FC;&#x7403;  [<ind>&#x3053;&#x3046;&#x304D;&#x3085;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bol</trd>
   <trdgrp lng="pt">
    <trd>globo</trd>, 
@@ -177,6 +192,7 @@
   </trdgrp>
   <trd lng="ru">&c_sh;&c_a;&c_r;</trd>
   <trd lng="sk">gu&lcaron;a</trd>
+  <trd lng="uk">&#x43A;&c_u;&#x43B;&#x44F;</trd>
 </drv>
 
 <drv mrk="glob.0a">
@@ -204,6 +220,7 @@
       <trd>&c_s;&c_f;&c_e;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
     </trdgrp>
     <trd lng="de">kugelig</trd>
+    <trd lng="es">esf&eacute;rico</trd>
     <trdgrp lng="fr">
       <trd>rond<klr tip="ind"> (sph&eacute;rique)</klr></trd>,
       <trd>sph&eacute;rique</trd>
@@ -233,16 +250,30 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="es">
+      <trd>global</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_g;&c_l;&c_o;&c_b;&c_a;&c_l;&c_n;&c_n;&c_y;&c_j;</trd>,
       <trd>&c_v;&c_s;&c_je;&c_m;&c_i;&c_r;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trd lng="bo">&t_ra;&t_gigu;&t_la;&t_tsheg;&t_ra;&t_gigu;&t_la;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>kulat&yacute;</trd>,
     <trd>kulov&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7403;&#x4F53;&#x306E;  [<ind>&#x304D;&#x3085;&#x3046;&#x305F;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x7403;&#x306E;  [<ind>&#x305F;&#x307E;&#x306E;</ind>]</trd>,
+    <trd>&#x7403;&#x5F62;&#x306E;  [<ind>&#x304D;&#x3085;&#x3046;&#x3051;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x7403;&#x72B6;&#x306E;  [<ind>&#x305F;&#x307E;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">gu&lcaron;at&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_u;&#x43B;&#x44F;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&#x43A;&c_r;&c_u;&c_g;&#x43B;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glob.0eto">
@@ -256,7 +287,6 @@
       <ekz>
         <uzo tip="fak">BIO</uzo>
         sangaj <tld/>etoj;
-        <trd lng="es">gl&oacute;bulo</trd>
       </ekz>
       <ekz>
         <uzo tip="fak">MED</uzo>
@@ -283,10 +313,19 @@
   </adm>
   <trd lng="be">&c_sh;&c_a;&c_r;&c_y;&c_k;</trd>
   <trd lng="de">K&uuml;gelchen</trd>
+  <trdgrp lng="es">
+    <trd>gl&oacute;bulo</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>globule</trd>,
     <trd>bulle</trd>,
     <trd>bille</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x7403;&#x4F53;  [<ind>&#x3057;&#x3087;&#x3046;&#x304D;&#x3085;&#x3046;&#x305F;&#x3044;</ind>]</trd>,
+    <trd>&#x30D3;&#x30FC;&#x7389;  [<ind>&#x30D3;&#x30FC;&#x3060;&#x307E;</ind>]</trd>,
+    <trd>&#x7403;  [<ind>&#x305F;&#x307E;</ind>]</trd>,
+    <trd>&#x73E0;  [<ind>&#x305F;&#x307E;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">bolletje</trd>
   <trd lng="pl">kulka</trd>
@@ -294,6 +333,7 @@
   <trd lng="ru">&c_sh;&c_a;&c_r;&c_i;&c_k;</trd>
   <trd lng="sk">gu&lcaron;ka</trd>
   <trd lng="cs">kuli&ccaron;ka</trd>
+  <trd lng="uk">&#x43A;&c_u;&#x43B;&#x44C;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="glob.blanka0eto">
@@ -311,6 +351,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">gl&oacute;bulo blanco</trd>
   <trd lng="id"><ind>sel</ind> darah putih</trd>
 </drv>
 
@@ -369,6 +410,7 @@
   <trd lng="fr">h&eacute;misph&egrave;re</trd>
   <trd lng="hu">f&eacute;lg&ouml;mb</trd>
   <trd lng="id">hemisfer</trd>
+  <trd lng="ja">&#x534A;&#x7403;  [<ind>&#x306F;&#x3093;&#x304D;&#x3085;&#x3046;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>halfrond</trd>,
     <trd>hemisfeer</trd>
@@ -377,6 +419,7 @@
   <trd lng="pt">hemisf&eacute;rio</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_sh;&c_a;&c_r;&c_i;&c_je;</trd>
   <trd lng="sk">pologu&lcaron;a Zeme</trd>
+  <trd lng="uk">&#x43F;&c_ib;&c_v;&#x43A;&c_u;&#x43B;&#x44F;</trd>
 </drv>
 
 <drv mrk="glob.faden0o">
@@ -392,6 +435,7 @@
     </adm>
   </snc>
   <trd lng="de">Garnkn&auml;uel</trd>
+  <trd lng="es">ovillo</trd>
   <trd lng="fr">pelote</trd>
   <trd lng="pl">k&lstroke;&eogonek;bek</trd>
   <trd lng="ru">&c_k;&c_l;&c_u;&c_b;&c_o;&c_k;</trd>
@@ -414,16 +458,18 @@
         via patro por ludi je &jcirc;et<tld/>oj.
         <fnt>
           <aut>I. Silone, trad. D. Mistretta</aut>
-          <vrk><url
-          ref="http://ekladata.com/XiKWRW1ETT4zBOHrQZm16PxBQmc/silone-la-sekreto-de-luka.pdf">
+          <vrk><url ref="http://ekladata.com/XiKWRW1ETT4zBOHrQZm16PxBQmc/silone-la-sekreto-de-luka.pdf">
           La sekreto de Luka</url></vrk>
           <lok>[vidita en 2018]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="es">bocha<klr> (del juego de bochas)</klr></trd>
   <trd lng="fr">boule<klr> (de jeu de boule)</klr></trd>
   <trd lng="it">boccia</trd>
+  <trd lng="ja">&#x7832;&#x4E38;  [<ind>&#x307B;&#x3046;&#x304C;&#x3093;</ind>]</trd>
+  <trd lng="uk">&#x44F;&c_d;&c_r;&#x43E;</trd>
 </drv>
 
 <drv mrk="glob.plat0o">
@@ -438,8 +484,7 @@
         kalkulon kiel per rekta linio desegnita sur plat<tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=27499'>Kiblo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=27499">Kiblo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -450,10 +495,15 @@
   <trd lng="fr">planisph&egrave;re</trd>
   <trd lng="hu">vil&aacute;gt&eacute;rk&eacute;p</trd>
   <trd lng="id">planisfer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E16;&#x754C;&#x5730;&#x56F3;  [<ind>&#x305B;&#x304B;&#x3044;&#x3061;&#x305A;</ind>]</trd>,
+    <trd>&#x5E73;&#x9762;&#x7403;&#x5F62;&#x56F3;  [<ind>&#x3078;&#x3044;&#x3081;&#x3093;&#x304D;&#x3085;&#x3046;&#x3051;&#x3044;&#x305A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wereldkaart</trd>
   <trd lng="pt">planisf&eacute;rio</trd>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_n;&c_i;&c_s;&c_f;&c_je;&c_r;&c_a;</trd>
   <trd lng="sk">zemsk&aacute; mapa</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_r;&c_t;&c_a; &#x43F;&c_ib;&c_v;&#x43A;&c_u;&#x43B;&#x44C;</trd>
 </drv>
 
 <drv mrk="glob.rugxa0eto">
@@ -470,6 +520,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_y;&c_r;&c_v;&c_o;&c_n;&c_a;&c_ja; &c_k;&c_l;&c_je;&c_t;&c_k;&c_a; &c_k;&c_r;&c_y;&c_v;&c_ib;</trd>,
+    <trd>&c_e;&c_r;&c_y;&c_t;&c_r;&c_a;&c_c;&c_y;&c_t;</trd>
+  </trdgrp>
+  <trd lng="es"><ind>gl&oacute;bulo</ind> rojo</trd>
   <trd lng="id"><ind>sel</ind> darah merah</trd>
 </drv>
 
@@ -478,27 +533,80 @@
   <snc mrk="glob.ter0o.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <dif>
-      La planedo Tero konsiderata kiel tuto, kun &gcirc;ia formo
-      proksima al <tld/>o:
+      La planedo <ref tip="dif" cel="ter.0o.planedo">Tero</ref>
+      konsiderata kiel tuto, kun &gcirc;ia formo proksima al <tld/>o:
       <ekz>
-        Li &ccirc;iam iris la&ubreve; sia kutimo, kvaza&ubreve; li, tute sola,
+        li &ccirc;iam iris la&ubreve; sia kutimo, kvaza&ubreve; li, tute sola,
         kapablus &scirc;an&gcirc;i la pozicion de la akso de la ter<tld/>o
         <fnt>
           <aut>Sabahattin Ali, trad. Ferruh Canatay</aut>:
           <vrk>Ide-kamarado</vrk>.
-          <lok>&leftquot;Pa&scirc;oj al plena posedo&rightquot;, la pa&scirc;o 7&#170;</lok>
+          <lok>&leftquot;Pa&scirc;oj al plena posedo&rightquot;, la pa&scirc;o 7&#xAA;</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pli vasta ol la ter<tld/>o
+        <fnt>
+          <aut>Hose Marques</aut>
+            <vrk><url ref="&Monato;/2000/007055.php">Voja&gcirc;o al la provinco Tukumano</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 22</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        ter<tld/>a varmi&gcirc;o
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan MacGill</aut>
+          <vrk><url ref="&Monato;/2005/008712.php">Dudirekta instruo
+          kaj influo</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la estigita tertremo estis mezurebla sur la tuta ter<tld/>o
+       <fnt><aut>Evgeni Georgiev</aut>: 
+          <vrk><url ref="&Monato;/2001/007234.html">Vulkanoj</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/02, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gripviruso povas ka&ubreve;zi vastegajn epidemiojn, kiuj povas
+        endan&gcirc;erigi la tutan ter<tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2003/008099.html">Birda
+          gripo, &ccirc;u dan&gcirc;era por la homo?</url></vrk>
+          <lok>2003</lok>
         </fnt>.
       </ekz>
     </dif>
-    <trd lng="es"><ind>globo</ind> terraqueo</trd>
+    <trd lng="es"><ind>globo</ind> terr&aacute;queo</trd>
     <trd lng="fr">globe terrestre<klr tip="ind"> (la Terre)</klr></trd>
     <trd lng="hu">f&ouml;ldgoly&oacute;</trd>
     <trd lng="nl">aardbol</trd>
-    <trd lng="pl">kula</trd>
+    <trdgrp lng="pl">
+      <trd>kula <ind>ziemska</ind></trd>,
+      <trd>glob <ind>ziemski</ind></trd>,
+      <trd>Ziemia</trd>
+    </trdgrp>
     <trd lng="ru">&c_z;&c_je;&c_m;&c_n;&c_o;&c_j; &c_sh;&c_a;&c_r;</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_Z;&c_ja;&c_m;&c_l;&c_ja;</trd>,
+    <trd>&c_z;&c_ja;&c_m;&c_n;&c_y; &c_sh;&c_a;&c_r;</trd>,
+    <trd>&c_z;&c_ja;&c_m;&c_n;&c_a;&c_ja; &c_k;&c_u;&c_l;&c_ja;</trd>
+  </trdgrp>
   <trd lng="cs">zem&ecaron;koule</trd>
+  <trd lng="de">Erdkugel</trd>
+  <trd lng="en">globe</trd>
+  <trd lng="he">&kaf;&dalet;&vav;&resh; &he;&alef;&resh;&ftsadi;</trd>
+  <trd lng="ja">&#x5730;&#x7403;  [<ind>&#x3061;&#x304D;&#x3085;&#x3046;</ind>]</trd>
   <trd lng="sk">zemegu&lcaron;a</trd>
+  <trd lng="uk">&c_z;&c_je;&#x43C;&#x43D;&c_a; &#x43A;&c_u;&#x43B;&#x44F;</trd>
+  <trd lng="zh">&#x5730;&#x7403;<klr> [d&igrave;qi&uacute;]</klr></trd>
 </drv>
 
 <drv mrk="glob.kava0o">
@@ -513,33 +621,34 @@
     </dif>
   </snc>
   <ref tip="vid" cel="sxel.0o">&scirc;elo</ref>
+  <trd lng="es">esfera hueca</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_y;&c_j; &c_sh;&c_a;&c_r;</trd>
 </drv>
 
 </art>
 <!--
-$Log: glob.xml,v $
+$Log$
+versio 1.53 2023/04/30 09:24:29
+Paul Peeraerts: Steloj -> monato
+
+versio 1.52 2023/04/19 11:24:06
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.51 2023/04/07 18:29:49
+Paul Peeraerts: &Monato;/
+
+versio 1.50 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.44 2021/08/31 12:48:03
+Dmitri Gabinski: + trd be
+
+versio 1.43 2021/06/28 11:24:16
+Wolfram Diestel: ter~o: ekz/trd el duobla drv en ter/ (forigonte tie)
+
+versio 1.41 2021/04/26 15:59:59
+Guillermo Molleda Jimena: +trd es
+
 versio 1.40 2020/02/14 18:10:25
-Wolfram Diestel: formuloj per am
-
-Revision 1.39  2019/04/01 09:10:14  revo
-Alain Gerard: + trd fr
-
-Revision 1.38  2018/08/09 22:10:13  revo
-Jeromo Vasxe: + jxet~o
-
-Revision 1.37  2017/11/18 12:10:15  revo
-Wolfram Diestel: kor. mrk
-
-Revision 1.36  2016/11/24 18:10:14  revo
-Wolfram Diestel: ref-oj, ekz-oj
-
-Revision 1.35  2016/10/15 14:10:23  revo
-Sergio Pokrovskij: +ekz
-
-Revision 1.34  2015/07/04 08:37:35  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.33  2015/06/29 16:29:39  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: infant.xml,v 1.16 2010/06/06 16:30:47 revo Exp $">
+<art mrk="$Id: infant.xml,v 1.22 2023/08/31 16:40:57 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>infanteri</rad>/o <fnt><bib>PV</bib></fnt>  
@@ -12,9 +11,29 @@
   <snc mrk="infant.0o.MIL">
     <uzo tip="fak">MIL</uzo>
     <dif>
-      Parto de militistaro, kiu batalas kaj ordinare transloki&gcirc;as
-      piede. 
+      Parto de <ref tip="malprt" cel="milit.0istaro">militistaro</ref>, 
+      kiu batalas kaj ordinare transloki&gcirc;as piede:
+      <ekz>
+        post ili iris du malgrandaj infanteriaj ta&ccirc;mentoj, unu armita per lancoj, la
+        alia per hakiloj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la infanteria kapitano forte min forkis: mirinde lerte li, kanajlo, manovras la
+        kartojn
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto dua</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="kavale.0o">kavalerio</ref>,
+      <ref cel="artile.0o">artilerio</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_ja;&c_h;&c_o;&c_t;&c_a;</trd>
   <trdgrp lng="cs">
@@ -30,11 +49,13 @@
   <trd lng="fr">infanterie</trd>
   <trd lng="hu">gyalogs&aacute;g</trd>
   <trd lng="it">fanteria</trd>
+  <trd lng="ja">&#x6B69;&#x5175;&#x968A;  [<ind>&#x307B;&#x3078;&#x3044;&#x305F;&#x3044;</ind>]</trd>
   <trd lng="nl">infanterie</trd>
   <trd lng="pt">infantaria<klr tip="amb"> (militar)</klr></trd>
   <trd lng="ru">&c_p;&c_je;&c_h;&c_o;&c_t;&c_a;</trd>
   <trd lng="sk">pechota</trd>
   <trd lng="sv">infanteri</trd>
+  <trd lng="uk">&#x43F;&#x456;&#x445;&#x43E;&#x442;&#x430;</trd>
 </drv>
 
 <drv mrk="infant.0ano">
@@ -42,7 +63,7 @@
   <snc mrk="infant.0ano.MIL">
     <uzo tip="fak">MIL</uzo>
     <dif>
-      Soldato de <tld/>o: 
+      <ref tip="super" cel="soldat.0o">Soldato</ref> de <tld/>o: 
       <ekz>
         li scivolis, &ccirc;u la <tld/>anoj iam povos sufi&ccirc;e proksimi&gcirc;i al 
         la malamikoj por efike ataki tiujn 
@@ -70,6 +91,7 @@
   <trd lng="fr">fantassin</trd>
   <trd lng="hu">gyalogos<klr tip="amb"> (katona)</klr></trd>
   <trd lng="it">fante</trd>
+  <trd lng="ja">&#x6B69;&#x5175;  [<ind>&#x304B;&#x3061;&#x3044;&#x304F;&#x3055;</ind>]</trd>
   <trd lng="nl">infanterist</trd>
   <trdgrp lng="pt">
    <trd>soldado de infantaria</trd>, 
@@ -78,10 +100,14 @@
   <trd lng="ru">&c_p;&c_je;&c_h;&c_o;&c_t;&c_i;&c_n;&c_je;&c_c;</trd>
   <trd lng="sk">pe&scaron;iak</trd>
   <trd lng="sv">infanterist</trd>
+  <trd lng="uk">&#x43F;&#x456;&#x445;&#x43E;&#x442;&#x438;&#x43D;&#x435;&#x446;&#x44C;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2021/09/11 16:46:31
+Wolfram Diestel: +ekz, ref-oj
+
 Revision 1.18  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 

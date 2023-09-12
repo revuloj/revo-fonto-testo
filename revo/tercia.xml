@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tercia.xml,v 1.24 2023/09/04 18:15:46 revo Exp $">
 <kap>
    <rad>terciar</rad>/a <fnt><bib>PV</bib></fnt>
 </kap>
-<drv mrk="tercia.0a.KOMUNE">
+<drv mrk="tercia.0a">
   <kap><tld/>a</kap>
   <snc mrk="tercia.0a.SCI">
     <dif>
@@ -18,7 +17,6 @@
       <dif>
         Apartenanta al la tria epoko.
       </dif>
-      <trd lng="en">tertiary</trd>
     </subsnc>
     <subsnc mrk="tercia.0a.EKON">
       <uzo tip="fak">EKON</uzo>
@@ -26,25 +24,20 @@
         Kiu provizas servojn, nemateriajn venda&jcirc;ojn:
         <ekz>
           malgra&ubreve; la notinda kresko de la <tld/>a sektoro
-          <klr>...</klr>, oni neniam produktis tiom da varoj 
+          <klr>...</klr>, oni neniam produktis tiom da varoj
           <fnt>
             <aut>D. Kessous</aut>,
-            <vrk><url
-            ref="http://www.satesperanto.org/Rauxmismo-kaj-postmodernismo.html">
+            <vrk><url ref="http://www.satesperanto.org/Rauxmismo-kaj-postmodernismo.html">
             Ra&ubreve;mismo kaj postmodernismo</url></vrk>,
             <lok>SAT Kulturo, [vidita en 2014]</lok>
           </fnt>.
         </ekz>
       </dif>
-      <trdgrp lng="en">
-        <trd>tertiary</trd>,
-        <trd>service</trd>
-      </trdgrp>
     </subsnc>
     <refgrp tip="vid">
-      <ref cel="primar.0a.KOMUNE">primara</ref>,
-      <ref cel="sekund2.0a.KOMUNE">sekundara</ref>,
-      <ref cel="kvater.0a.KOMUNE">kvaternara</ref>
+      <ref cel="primar.0a">primara</ref>,
+      <ref cel="sekund2.0a">sekundara</ref>,
+      <ref cel="kvater.0a">kvaternara</ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_c;&c_ib;&c_ch;&c_n;&c_y;</trd>
@@ -54,8 +47,14 @@
     <trd>t&rcaron;et&iacute;ho &rcaron;&aacute;du</trd>
   </trdgrp>
   <trd lng="de">terti&auml;r</trd>
+  <trd lng="en">tertiary</trd>
   <trd lng="fr">tertiaire<klr> (adj.)</klr></trd>
   <trd lng="hu">harmadkori</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7B2C;&#x4E09;&#x306E;  [<ind>&#x3060;&#x3044;&#x307F;&#x3063;&#x306E;</ind>]</trd>,
+    <trd>&#x4E09;&#x6B21;&#x306E;  [<ind>&#x307F;&#x3063;&#x3058;&#x306E;</ind>]</trd>,
+    <trd>&#x7B2C;&#x4E09;&#x7D00;&#x306E;  [<ind>&#x3060;&#x3044;&#x3055;&#x3093;&#x304D;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tertiair</trd>
   <trdgrp lng="pl">
     <trd>trzeciorz&eogonek;dowy</trd>,
@@ -66,10 +65,20 @@
   </trdgrp>
   <trd lng="ru">&c_t;&c_r;&c_je;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">tretieho r&aacute;du</trd>
+  <trd lng="uk">&c_t;&c_r;&c_je;&c_t;&c_i;&c_n;&c_n;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/08/21 01:20:20
+David Dichelle: trd en korektita
+
+versio 1.21 2021/05/12 14:51:25
+Wolfram Diestel: kor. ref-cel
+
+versio 1.20 2021/05/11 17:28:48
+Wolfram Diestel: kor. drv@mrk
+
 Revision 1.18  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -83,11 +92,5 @@ Revision 1.15  2014/12/23 12:10:23  revo
 Damien Brucker: +mrk cxe drv
 
 Revision 1.14  2014/12/17 23:10:15  revo
-Jeromo Vasxe: + subsnc ekon
-
-Revision 1.13  2011/12/05 20:10:10  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.12  2008/06/08 16:30:21  revo
 -->
 </vortaro>

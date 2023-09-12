@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: somnam.xml,v 1.21 2023/09/04 05:14:56 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>somnambul</rad>/o
@@ -13,10 +12,41 @@
     <uzo tip="fak">MED</uzo>
     <dif>
       Dormiranto, homo senkonscie kaj senmemore iranta, parolanta kaj 
-      aganta  dum dormo, kvaza&ubreve; li estus maldorma kaj konscia.
+      aganta  dum dormo, kvaza&ubreve; li estus maldorma kaj konscia:
+      <ekz>
+        &scirc;i lasis sin levi sur la dorson de la &ccirc;evalo kaj sidis tie kiel
+        <tld/>ino, kiu ne veki&gcirc;is
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        post la vortoj de <nom>Shakespeare</nom> oni citas
+        &ccirc;iam &ccirc;iujn mistikajn a&ubreve;torojn, profetojn de la biblio, <klr>[&#x2026;]</klr>
+        skotajn <tld/>istojn
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        kiu imagas al la vortoj kreantan estadon, tiu estas malsana kaj <tld/>o
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la viro en subvestoj <klr>[&#x2026;]</klr> respondis
+        sen malfermi la okulojn, per sova&gcirc;a vo&ccirc;o <tld/>a
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="lunati.0o">lunatiko</ref>
+      <ref cel="lunati.0o">lunatiko</ref>,
+      <ref cel="rev.0ulo">revulo</ref>
     </refgrp>
   </snc>
   <trdgrp lng="be">
@@ -33,6 +63,7 @@
   <trd lng="fa">&a_kh;&a_w;&a_A;&a_b;&f_g;&a_r;&a_d;</trd>
   <trd lng="fr">somnambule<klr> (subst.)</klr></trd>
   <trd lng="hu">alvaj&aacute;r&oacute;</trd>
+  <trd lng="ja">&#x5922;&#x904A;&#x75C5;&#x8005;  [<ind>&#x3080;&#x3086;&#x3046;&#x3073;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>
   <trd lng="nl">slaapwandelaar</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_m;&c_n;&c_a;&c_m;&c_b;&c_u;&c_l;&c_a;</trd>,
@@ -41,6 +72,11 @@
   <trdgrp lng="sk">
     <trd>lunatik</trd>,
     <trd>n&aacute;mesa&ccaron;n&iacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x43E;&#x43C;&#x43D;&#x430;&#x43C;&#x431;&#x443;&#x43B;&#x430;</trd>,
+    <trd>&#x441;&#x43D;&#x43E;&#x432;&#x438;&#x434;&#x430;</trd>,
+    <trd>&#x43B;&#x443;&#x43D;&#x430;&#x442;&#x438;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -59,16 +95,25 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_h;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol; &c_u; &c_s;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="de">schlafwandeln</trd>
   <trd lng="en">sleepwalk</trd>
   <trdgrp lng="es">
     <trd>andar dormido</trd>,
     <trd>estar son&aacute;mbulo</trd>
   </trdgrp>
   <trd lng="fr">agir en <ind>somnambule</ind></trd>
+  <trd lng="ja">&#x5922;&#x904A;&#x3059;&#x308B;  [<ind>&#x3086;&#x3081;&#x3042;&#x305D;&#x3059;&#x308B;</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2022/01/08 08:38:03
+Wolfram Diestel: +ekz-oj, ref trd de
+
+versio 1.18 2021/11/09 07:28:33
+Dmitri Gabinski: + trd be
+
 Revision 1.16  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -85,8 +130,5 @@ Revision 1.12  2009/09/06 16:30:26  revo
 Russ Williams: +trd en
 
 Revision 1.11  2007/04/10 16:30:19  revo
-Jeromo Vasxe: + ~i
-
-Revision 1.10  2004/10/19 16:33:15  revo
 -->
 </vortaro>

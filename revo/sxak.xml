@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sxak.xml,v 1.43 2023/09/04 15:14:34 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ak</rad>/o
@@ -12,7 +11,62 @@
   <uzo tip="fak">SPO</uzo>
   <snc mrk="sxak.0o.ludo">
     <dif>
-      <ref tip="dif" cel="sxak.0ludo"><tld lit="&Scirc;"/>ludo</ref>.
+      <ref tip="dif" cel="sxak.0ludo"><tld lit="&Scirc;"/>ludo</ref>:
+      <ekz>
+        la nomoj de <tld/>o: <klr>[&#x2026;]</klr> <ref tip="prt" cel="regx.0o.sxaka">re&gcirc;o</ref>,
+        soldato <klr>(<ref tip="prt" cel="peon.0o">peono</ref>)</klr>,
+        <ref tip="prt" cel="dam.0o.sxaka">damo</ref> <klr>[&#x2026;]</klr>, 
+        <ref tip="prt" cel="kurier.0o.sxaka">kuriero</ref>,
+        <klr>[&#x2026;]</klr> <ref tip="prt" cel="cxeval.0o.sxaka">&ccirc;evalo</ref>,
+        <ref tip="prt" cel="tur.0o.sxaka">turo</ref>
+        <fnt>
+          <bib>LR</bib>
+          <vrk>Letero al Th. Thorsteinsson, 1910, O.V. p. 522</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[iuj]</klr> ludis <tld/>ojn kaj damojn, aliaj en societo de dancistinoj
+        trinkis
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi enuas kaj la <tld/>o min nun ne kontentigis
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la usona futbalo iom similas <tld/>on, ludatan sur vasta kampo
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008319.html">Multviza&gcirc;a futbalo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/06, p. 18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        unika <tld/>a kompleto (kun &ccirc;iuj <tld/>figuroj!) el eburo
+        <fnt>
+          <aut>Anatoli Ionesov</aut>
+          <vrk><url ref="&Monato;/2006/008920.php">Perlo &ccirc;e la Silka Vojo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/08, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por liaj filinoj komence ne estis tute facile konkursi kiel <tld/>istoj kaj ne
+        nur kiel <tld/>istinoj
+        <fnt>
+          <aut>Edmund Grimley Evans</aut>
+          <vrk><url ref="&Monato;/2007/009012.php">Pri edukado de geniuloj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/12, p. 24</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="be">&c_sh;&c_a;&c_h;&c_m;&c_a;&c_t;&c_y;</trd>
     <trd lng="ca">escacs</trd>
@@ -22,14 +76,14 @@
     <trd lng="hu">sakkj&aacute;t&eacute;k</trd>
     <trd lng="id">catur</trd>
     <trd lng="it">scacchi<klr> (gioco)</klr></trd>
+    <trd lng="nl">schaakspel</trd>
     <trd lng="pl">szachy</trd>
     <trd lng="pt">xadrez</trd>
     <trd lng="ru">&c_sh;&c_a;&c_h;&c_m;&c_a;&c_t;&c_y;</trd>
   </snc>
-
   <snc mrk="sxak.0o.minaco">
     <dif>
-      Situacio de la
+      <ref tip="super" cel="situac.0o.cirkonstancaro">Situacio</ref> de la
       <ref tip="vid" cel="regx.0o.sxaka">re&gcirc;o</ref>
       (kaj vulgare, de la damo) atakita de
       malamika &scirc;akpeco; la vorta deklaro pri tia atako:
@@ -40,12 +94,19 @@
         eterna <tld/>o;
       </ekz>
       <ekz>
+        <tld/>o (a&ubreve; <tld/>!) <klr>[&#x2026;]</klr> mato (a&ubreve; mat!)
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. Vortuzo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         oni signas <tld/>on per 
         <ref tip="vid" cel="plus.0o">pluso</ref>:
         <frm>T:g7+</frm>.
       </ekz>
     </dif>
-    <ref tip="vid" cel="mat.0o.SPO">mato</ref>
+    <ref tip="vid" cel="mat1.0o.SPO">mato</ref>
     <trd lng="be">&c_sh;&c_a;&c_h; <klr>(&c_u;
     &c_g;&c_u;&c_l;&c_mol;&c_n;&c_je;)</klr></trd>
     <trd lng="ca">escac</trd>
@@ -57,14 +118,21 @@
     <trd lng="hu">sakk</trd>
     <trd lng="id">skak</trd>
     <trd lng="it">scacco<klr tip="amb"> (mossa)</klr></trd>
+    <trd lng="nl">schaak</trd>
     <trd lng="pl">szach</trd>
     <trd lng="pt">xeque</trd>
     <trd lng="ru">&c_sh;&c_a;&c_h;<klr tip="amb"> (&c_v;
     &c_sh;&c_a;&c_h;&c_m;&c_a;&c_t;&c_a;&c_h;)</klr></trd>
   </snc>
 
-  <trd lng="nl">schaak</trd>
+  
+  <trdgrp lng="ja">
+    <trd>&#x30C1;&#x30A7;&#x30B9;</trd>,
+    <trd>&#x5C06;&#x68CB;  [<ind>&#x3057;&#x3087;&#x3046;&#x304E;</ind>]</trd>,
+    <trd>&#x738B;&#x624B;  [<ind>&#x304A;&#x3046;&#x3066;</ind>]</trd>
+  </trdgrp>
   <trd lng="sv">schack</trd>
+  <trd lng="uk">&c_sh;&c_a;&c_h;</trd>
 </drv>
 
 <drv mrk="sxak.0ludo">
@@ -72,15 +140,33 @@
   <uzo tip="fak">SPO</uzo>
   <snc>
     <dif>
-      Kombinacia surtabla <ref tip="lst" cel="lud.0o.ago"
-      lst="voko:ludiloj">ludo</ref>,
-      devenanta ver&scirc;ajne el Hindujo,
+      Kombinacia surtabla <ref tip="lst" cel="lud.0o.ago" lst="voko:ludiloj">ludo</ref>, devenanta
+      ver&scirc;ajne el Hindujo,
       por du ludantoj (nomataj la blankulo kaj la nigrulo),
       havantaj po 16 siakolorajn diversspecajn figuretojn
       (<ref tip="prt" cel="sxak.0peco"><tld/>pecojn</ref>),
       kiujn ili la&ubreve;vice movas sur
       <ref tip="prt" cel="sxak.0tabulo"><tld/>tabulo</ref>
-      celante mati la re&gcirc;on kontra&ubreve;ulan.
+      celante mati la re&gcirc;on kontra&ubreve;ulan:
+      <ekz>
+        en la albana &ccirc;efurbo Tirano okazis la finala monda <tld/>luda mat&ccirc;o por virinoj
+        <fnt>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2012/010578.php">&Scirc;ak-&scirc;oko por Gorba&ccirc;ov</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/04, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekde septembro <tld/>ludo fari&gcirc;os studobjekto en minimume dek elementaj lernejoj
+        en Albanio
+        <fnt>
+        <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2014/011288.php">Projekto Kasparov</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/06, p. 11</lok>
+          </fnt>.
+      </ekz>
     </dif>
     <trd lng="be">&c_sh;&c_a;&c_h;&c_m;&c_a;&c_t;&c_y;</trd>
     <trd lng="ca">escacs</trd>
@@ -107,6 +193,8 @@
     <trd lng="sv">schack</trd>
     <trd lng="tr">satran&ccedil;</trd>
   </snc>
+  <trd lng="ja">&#x30C1;&#x30A7;&#x30B9;&#x306E;&#x52DD;&#x8CA0;  [<ind>&#x30C1;&#x30A7;&#x30B9;&#x306E;&#x3057;&#x3087;&#x3046;&#x3076;</ind>]</trd>
+  <trd lng="uk">&c_g;&c_r;&c_a; &c_v; &c_sh;&c_a;&c_h;&c_i;</trd>
 </drv>
 
 <drv mrk="sxak.0peco">
@@ -117,7 +205,14 @@
       &Ccirc;iu el la 16 blankaj a&ubreve; 16 nigraj pecoj, uzataj en
       <tld/>ludo:
       <frm>8+8</frm> <ref tip="sub" cel="peon.0o">peonoj</ref> kaj
-      <frm>8+8</frm> <ref tip="sub" cel="figur.0o.sxaka">figuroj</ref>.
+      <frm>8+8</frm> <ref tip="sub" cel="figur.0o.sxaka">figuroj</ref>:
+      <ekz>
+        &ccirc;iu ludanto havas sian aron de 16 <tld/>pecoj de 6 specoj
+        <fnt>
+          <bib>Viki</bib>
+          <vrk><url ref="&Viki;/%C5%9Cakpeco">&Scirc;akpeco</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_h;&c_m;&c_a;&c_t;&c_n;&c_a;&c_ja;
@@ -139,6 +234,10 @@
   </trdgrp>
   <trd lng="fa">&a_m;&a_h;&a_r;&a_h;&a_hamza_sure;
   &a_sh;&a_T;&a_r;&a_n;&a_j;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C1;&#x30A7;&#x30B9;&#x306E;&#x99D2;  [<ind>&#x30C1;&#x30A7;&#x30B9;&#x306E;&#x3053;&#x307E;</ind>]</trd>,
+    <trd>&#x5C06;&#x68CB;&#x306E;&#x99D2;  [<ind>&#x3057;&#x3087;&#x3046;&#x304E;&#x306E;&#x3053;&#x307E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">schaakstuk</trd>
   <trdgrp lng="hu">
     <trd>sakkb&aacute;bu</trd>,
@@ -157,6 +256,7 @@
   <trd lng="ru">&c_sh;&c_a;&c_h;&c_m;&c_a;&c_t;&c_n;&c_a;&c_ja;
   &c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</trd>
   <trd lng="sv">schackpj&auml;s</trd>
+  <trd lng="uk">&c_sh;&c_a;&c_h;&#x43E;&c_v;&c_a; &c_f;&c_ib;&c_gu;&c_u;&c_r;&c_a;</trd>
 </drv>
 
 <drv mrk="sxak.0tabulo">
@@ -164,11 +264,32 @@
   <uzo tip="fak">SPO</uzo>
   <snc>
     <dif>
-      Kvadrata tabulo por ludi <tld/>on, dispartigita en
+      Kvadrata <ref tip="super" cel="tabul.0o">tabulo</ref> por ludi <tld/>on, dispartigita en
       8 <ref tip="prt" cel="horizo1.0o.linio">horizontalojn</ref> kaj
       8 <ref tip="prt" cel="vertik.0o.kolumno">vertikalojn</ref>,
       kies interkrucado formas 64 kvadratajn
-      <ref tip="prt" cel="fak.0o.ujo">fakojn</ref>.
+      <ref tip="prt" cel="fak.0o.ujo">fakojn</ref>:
+      <ekz>
+        la lando <nom>Gosen</nom> havis aspekton de grandega <tld/>a tabulo, kies verdaj kaj flavaj
+        kvadratoj estis desegnitaj per la koloro de l' grenoj kaj de l' palmoj,
+        kreskantaj sur la limoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rafinitaj iroj sur la <tld/>a tabulo
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili estas bagatelaj <tld/>soldatoj, sur la granda <tld/>tabulo de la homaro
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_h;&c_m;&c_a;&c_t;&c_n;&c_a;&c_ja;
@@ -184,16 +305,27 @@
   <trd lng="hu">sakkt&aacute;bla</trd>
   <trd lng="id"><ind>papan</ind> catur</trd>
   <trd lng="it">scacchiera</trd>
+  <trd lng="ja">&#x30C1;&#x30A7;&#x30B9;&#x76E4;  [<ind>&#x30C1;&#x30A7;&#x30B9;&#x3070;&#x3093;</ind>]</trd>
   <trd lng="nl">schaakbord</trd>
   <trd lng="pl">szachownica</trd>
   <trd lng="pt">tabuleiro de xadrez</trd>
   <trd lng="ru">&c_sh;&c_a;&c_h;&c_m;&c_a;&c_t;&c_n;&c_a;&c_ja;
   &c_d;&c_o;&c_s;&c_k;&c_a;</trd>
   <trd lng="sv">schackbr&auml;de</trd>
+  <trd lng="uk">&c_sh;&c_a;&c_h;&c_ib;&c_v;&#x43D;&c_i;&c_c;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.42 2023/05/06 10:29:14
+Paul Peeraerts: + pluraj lok + kor de tajperaro
+
+versio 1.41 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.39 2021/02/17 08:42:38
+Wolfram Diestel: ekz-oj, ref-oj
+
 Revision 1.37  2013/10/17 20:10:10  revo
 Wolfram Diestel: ref al lst ludiloj
 
@@ -207,11 +339,5 @@ Revision 1.34  2010/12/08 19:04:42  revo
 Sebastian Cyprych: +trd pl +ref mato
 
 Revision 1.33  2009/06/17 16:30:26  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.32  2009/03/28 17:31:00  revo
-Antonio Codazzi: +trd it
-
-Revision 1.31  2009/02/10 14:19:15  revo
 -->
 </vortaro>

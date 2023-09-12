@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: johan.xml,v 1.18 2010/09/23 16:30:18 revo Exp $">
+<art mrk="$Id: johan.xml,v 1.28 2023/08/31 18:25:29 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>7</ofc>
   <rad>Johan</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -13,8 +12,7 @@
   <snc mrk="johan.0o.NOM">
     <uzo tip="fak">NOM</uzo>
     <dif>
-      Vira <ref tip="lst" cel="nom.antaux0o"
-      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> hebredevena:
+      Vira <ref tip="lst" cel="nom.antaux0o" lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> hebredevena:
       <ekz>
         la mano de <tld/>o estas pura
         <fnt>
@@ -105,6 +103,11 @@
     <trd>Jehan</trd>
   </trdgrp>
   <trd lng="it">Giovanni</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30E8;&#x30CF;&#x30F3;</trd>,
+    <trd>&#x30E8;&#x30CF;&#x30CD;</trd>,
+    <trd>&#x30B8;&#x30E7;&#x30F3;  [<ind>&#x3058;&#x3087;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>Jan</trd>,
     <trd>Johan</trd>
@@ -122,6 +125,11 @@
     <trd>Johan</trd>,
     <trd>Johannes</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_Ib;&c_v;&c_a;&#x43D;</trd>,
+    <trd>&c_J;&#x43E;&c_a;&#x43D;</trd>,
+    <trd>&c_Ib;&#x43E;&c_a;&#x43D;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="johan.0cxjo">
@@ -131,7 +139,7 @@
    <dif>
     Diminutivo de <tld/>o:
       <ekz>
-        <tld/>on, <klr>[&#8230;]</klr> iliaj gepatroj nomas Johan&ccirc;jo (a&ubreve; Jo&ccirc;jo), ...
+        <tld/>on, <klr>[&#x2026;]</klr> iliaj gepatroj nomas Johan&ccirc;jo (a&ubreve; Jo&ccirc;jo), ...
         <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>;
       </ekz> 
       <ekz>
@@ -147,6 +155,14 @@
     <trd>Jeannot</trd>
     <trd>Johnny</trd>
   </trdgrp>
+  <trd lng="nl">Jantje</trd>
+  <trdgrp lng="uk">
+    <trd>&c_Ib;&c_v;&c_a;&c_s;&#x44C;</trd>,
+    <trd>&c_Ib;&c_v;&c_a;&c_s;&c_i;&#x43A;</trd>,
+    <trd>&c_Ib;&c_v;&c_a;&#x43D;&#x43A;&#x43E;</trd>,
+    <trd>&c_J;&#x43E;&c_s;&#x44C;&#x43A;&#x43E;</trd>,
+    <trd>&#x42E;&c_z;&c_i;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="johan.0ino">
@@ -154,8 +170,7 @@
   <snc mrk="johan.0ino.NOM">
     <uzo tip="fak">NOM</uzo>
     <dif>
-      Ina <ref tip="lst" cel="nom.antaux0o"
-      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref>:
+      Ina <ref tip="lst" cel="nom.antaux0o" lst="voko:personaj_nomoj">anta&ubreve;nomo</ref>:
       <ekz>
         <tld/>ino, la virgulino de Orleano, la sor&ccirc;istino,
         estas forbruligita
@@ -198,6 +213,10 @@
   </trdgrp>
   <trd lng="sk">Jana</trd>
   <trd lng="sv">Johanna</trd>
+  <trdgrp lng="uk">
+    <trd>&c_Ib;&c_v;&c_a;&#x43D;&#x43D;&c_a;</trd>,
+    <trd>&#x42F;&#x43D;&c_ib;&#x43D;&c_a;</trd>
+  </trdgrp>
 </drv>
     <rim> La 7a OA klarigas la fundamentecon de la radiko &leftquot;Johan&rightquot;
     aperanta en la ekzemploj de la radiko -&ccirc;j' en la Universala Vortaro.
@@ -207,6 +226,9 @@
 </art>
 <!--
 $Log$
+versio 1.27 2023/05/23 10:31:17
+Paul Peeraerts: + trd nl
+
 Revision 1.23  2018/09/02 20:10:41  revo
 Michel Cantigneaux: teknika ripareto de indikiloj
 

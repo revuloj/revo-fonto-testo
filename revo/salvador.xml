@@ -1,19 +1,18 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: salvador.xml,v 1.14 2023/09/03 12:09:44 revo Exp $">
 <kap>
   <rad>Salvador</rad>/o
-  <fnt><bib>RLN</bib></fnt>
 </kap>
 
 <drv mrk="salvador.S0o">
   <kap>
     <tld/>o
   </kap>
-  <mlg kod="ISO-3166">SV</mlg>
   <snc mrk="salvador.S0o.GEOG">
+    <fnt><bib>RLN</bib></fnt>
+    <mlg kod="ISO-3166">SV</mlg>
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
     <dif>
@@ -30,11 +29,11 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="&Monato;/2007/009202.php"
-              >Disfalema alianco</url></vrk>
+          <vrk><url ref="&Monato;/2007/009202.php">Disfalema alianco</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_S;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_d;&c_o;&c_r; <klr>(&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;)</klr></trd>
     <trdgrp lng="fr">
       <trd><klr>(Le) </klr>Salvador</trd>,
       <trd>R&eacute;publique du Salvador</trd>
@@ -48,12 +47,43 @@
     </trdgrp>
     <trd lng="pt">El Salvador</trd>
   </snc>
+  <snc mrk="salvador.S0o.de_Bahio">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <klr>(de Bahio)</klr> &Ccirc;efa <ref tip="lst" lst="voko:urboj" cel="urb.0o.ARKI">urbo</ref>
+      de la sub&scirc;tato Bahio de <ref tip="malprt" cel="brazil.B0o">Brazilo</ref>
+      &ccirc;e <ref cel="atlant.A0o">Atlantiko</ref>:
+      <ekz>
+        <tld/>o, kun sia natura bela&jcirc;o, ri&ccirc;a kulturo, gastemaj kaj &gcirc;oja popolo, ricevas
+        tutjare kaj &ccirc;iujare turistojn el la tuta mondo
+        <fnt>
+          <vrk><url ref="&Viki;/Salvador_de_Bahio">Salvador de Bahio - Vikipedio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_S;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_d;&c_o;&c_r; <klr>(&c_g;&c_o;&c_r;&c_a;&c_d;)</klr></trd>
+    <trd lng="de">Salvador <klr>(Bahia)</klr></trd>
+    <trd lng="en">Salvador <klr>(Bahia)</klr></trd>
+    <trd lng="fr">Salvador <klr>(Bahia)</klr></trd>
+  </snc>
+  <trd lng="ja">&#x30A8;&#x30EB;&#x30B5;&#x30EB;&#x30D0;&#x30C9;&#x30EB;</trd>
+  <trd lng="uk">&c_S;&c_a;&#x43B;&#x44C;&c_v;&c_a;&c_d;&#x43E;&c_r;</trd>
 </drv>
+
 
 </art>
 
 <!--
 $Log$
+versio 1.13 2023/01/25 10:30:58
+Dmitri Gabinski: + trd be
+
+versio 1.12 2022/05/05 05:09:55
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.10 2020/07/11 16:32:26
+Wolfram Diestel: +snc brazila urbo
+
 Revision 1.8  2019/02/10 20:10:18  revo
 Wolfram Diestel: maj. rad, +ekz
 
@@ -67,14 +97,5 @@ Revision 1.5  2013/02/10 14:10:31  revo
 Evandro Avellar: Traduko al Pt
 
 Revision 1.4  2011/02/13 02:10:49  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.3  2009/09/26 16:31:16  revo
-Antonio Codazzi: +trd it
-
-Revision 1.2  2009/08/11 16:31:37  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.1  2009/05/22 16:30:38  revo
 -->
 </vortaro>

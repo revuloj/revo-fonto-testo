@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bugxet.xml,v 1.18 2010/05/08 16:30:32 revo Exp $">
+<art mrk="$Id: bugxet.xml,v 1.33 2023/08/31 08:48:54 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>bu&gcirc;et</rad>/o <fnt><bib>PV</bib></fnt>,
-  <var><kap><ofc>3</ofc><rad>bud&gcirc;et</rad>/o <fnt><bib>PV</bib></fnt></kap></var>
+  <var><kap><ofc>3</ofc><rad var="d">bud&gcirc;et</rad>/o <fnt><bib>PV</bib></fnt></kap></var>
 </kap>
 <drv mrk="bugxet.0o">
   <kap><tld/>o,
-    <var><kap>bud&gcirc;eto</kap></var>
+    <var><kap><tld var="d"/>o</kap></var>
   </kap>
   <snc mrk="bugxet.0o.EKON_plana">
     <uzo tip="fak">EKON</uzo>
@@ -18,21 +17,22 @@
       Anta&ubreve;kalkulo de la jaraj en- kaj el-spezoj de &scirc;tato,
       urbo, kompanio a&ubreve; privatulo:
       <ekz>
-        la ministro pri financoj <klr>[&#8230;]</klr> prezentis sian trian <tld/>on
+        la ministro pri financoj <klr>[&#x2026;]</klr> prezentis sian trian <tld/>on
         <fnt>
           <aut>D. E. Rogers</aut>,
           <vrk>Pri potoj kaj balotoj</vrk>,
           <bib>Monato</bib>,
-          <lok>2002:8, p. 12a</lok>
+          <lok>2002/08, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         la &ccirc;efa trajto de la <tld/>o por la jaro 2000 estas forta &scirc;parado de &scirc;tataj
         monrimedoj, kiu influos anka&ubreve; la monujojn de la lo&gcirc;antaro
         <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2000/006806.php">&Ccirc;iea &scirc;parado</url></vrk>
           <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006806.html">Litovio: &Ccirc;iea &scirc;parado</url></vrk>
+          <lok>2000/05, p. 7</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -40,10 +40,12 @@
         milionoj da kronoj por kovri la kromajn kostojn de de&jcirc;oroj de la urbaj
         policanoj, fajrobrigadanoj kaj sanitaristoj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007093.html">Internacia kunsido de financistoj en Prago</url></vrk>
-        </fnt>;
+          <aut>jpa</aut>
+            <vrk><url ref="&Monato;/2000/007093.php">Internacia kunsido de financistoj en
+            Prago</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 9</lok>
+          </fnt>;
       </ekz>
       <ekz>
         la <tld/>o anta&ubreve;vidis la kostojn de esplorado, projektado, disvolvo, konstruo,
@@ -51,7 +53,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref="https://www.monato.be/2004/008236.html">La rikolto de la nova tempo</url></vrk>
+          <vrk><url ref="&Monato;/2004/008236.html">La rikolto de la nova
+          tempo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -59,7 +62,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Ren&eacute;e Triolle (Reprezentanto de UEA &ccirc;e Unesko)</aut>
-          <vrk><url ref="https://www.monato.be/2008/009383.php">Novaj ideoj &ccirc;e la ideo-laboratorio</url></vrk>
+          <vrk><url ref="&Monato;/2008/009383.php">Novaj ideoj &ccirc;e la
+          ideo-laboratorio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -88,26 +92,29 @@
         a&ubreve;tomobilojn por &scirc;tataj institucioj kaj limigante eksterlandajn oficvoja&gcirc;ojn
         de ministroj
         <fnt>
+          <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2000/006806.php">&Ccirc;iea &scirc;parado</url></vrk>
           <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006806.html">Litovio: &Ccirc;iea &scirc;parado</url></vrk>
+          <lok>2000/05, p. 7</lok>
         </fnt>;
       </ekz>
       <ekz>
         pro la nigra merkato de cigaredoj la brita <tld/>o &ccirc;iujare perdas &ccirc;irka&ubreve; 2,5
         miliardojn da pundoj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006830.html">Litovio &dash; Britio: Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
-        bu&gcirc;eto de 350&#8239;000 kanadaj dolaroj, sumo sufi&ccirc;a por nur 20 tagoj da filmado
+        bu&gcirc;eto de 350&#x202F;000 kanadaj dolaroj, sumo sufi&ccirc;a por nur 20 tagoj da filmado
         <fnt>
+       <aut>Marteno Ecott</aut>
+          <vrk><url ref="&Monato;/2000/006838.html">Inkubo en kubo</url></vrk>
           <bib>Monato</bib>
-          <aut>Marteno Ecott</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006838.html">Kinarto: Inkubo en kubo</url></vrk>
+          <lok>2000/03, p. 17</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -116,15 +123,17 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url ref="https://www.monato.be/2003/007949.html">Sur propra tereno propra pre&gcirc;ejo</url></vrk>
+          <vrk><url ref="&Monato;/2003/007949.html">Sur propra tereno propra
+          pre&gcirc;ejo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la registaro tamen pretendas, ke la nacia edukado-bu&gcirc;eto alti&gcirc;is je pli ol 10&#8239;%
+        la registaro tamen pretendas, ke la nacia edukado-bu&gcirc;eto alti&gcirc;is je pli ol 10&#x202F;%
         <fnt>
           <bib>Monato</bib>
           <aut>Paul GUBBINS</aut>
-          <vrk><url ref="https://www.monato.be/2003/008119.html">Taglibro de l' milito ... el la lando de &Scirc;ekspiro</url></vrk>
+          <vrk><url ref="&Monato;/2003/008119.html">Taglibro de l' milito ... el la
+          lando de &Scirc;ekspiro</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -133,7 +142,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="https://www.monato.be/2006/008813.php">Studentoj</url></vrk>
+          <vrk><url ref="&Monato;/2006/008813.php">Studentoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -148,26 +157,27 @@
     <dif>
       La tuta sumo de la jaraj en- kaj el-spezoj:
       <ekz>
-        &gcirc;is nun &scirc;i sukcese gardis la egalpezon de la bud&gcirc;eto, sed la patro ne &ccirc;iam havas
+        &gcirc;is nun &scirc;i sukcese gardis la egalpezon de la <tld var="d"/>o, sed la patro ne &ccirc;iam havas
         &ccirc;ion, kion li bezonas pro sia a&gcirc;o kaj malsanemo: nutran man&gcirc;a&jcirc;on, fruktojn
         <fnt>
           <bib>IK</bib>
         </fnt>;
       </ekz>
       <ekz>
-        fari truojn en bud&gcirc;et'
+        fari truojn en <tld var="d"/>'
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la <tld/>aj deficitoj da&ubreve;re malplialti&gcirc;is &gcirc;is 1,6&#8239;% de la brutta nacia produkto
+        la <tld/>aj deficitoj da&ubreve;re malplialti&gcirc;is &gcirc;is 1,6&#x202F;% de la brutta nacia produkto
         (BNP) en 1999
         <fnt>
-          <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006821.html">E&ubreve;ropa Unio: E&ubreve;ro unujara</url></vrk>
+	<aut>Marc Vanden Bempt</aut>
+	<vrk><url ref="&Monato;/2000/006821.php">E&ubreve;ro unujara</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 14</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -195,8 +205,14 @@
   <trd lng="be">&c_b;&c_ju;&c_d;&c_zh;&c_e;&c_t;</trd>
   <trd lng="es">presupuesto</trd>
   <trd lng="fr">budget</trd>
+  <trd lng="he">&#x5EA;&#x5B7;&#x5E7;&#x5E6;&#x5B4;&#x5D9;&#x5D1;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E88;&#x7B97;  [<ind>&#x3088;&#x3055;&#x3093;</ind>]</trd>,
+    <trd>&#x4E88;&#x7B97;&#x6848;  [<ind>&#x3088;&#x3055;&#x3093;&#x3042;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_b;&c_ju;&c_d;&c_zh;&c_je;&c_t;</trd>
   <trd lng="sk">rozpo&ccaron;et</trd>
+  <trd lng="uk">&c_b;&#x44E;&c_d;&c_zh;&c_je;&c_t;</trd>
 </drv>
 
 <drv mrk="bugxet.0i">
@@ -207,7 +223,7 @@
     <dif>
       Difini, plani en <tld/>o; disponigi certan monsumon por certa celo:
       <ekz>
-        la voja&gcirc;kostoj de la estraro <klr>[&#8230;]</klr> kostis milojn da e&ubreve;roj
+        la voja&gcirc;kostoj de la estraro <klr>[&#x2026;]</klr> kostis milojn da e&ubreve;roj
         pli ol estis <tld/>ite
         <fnt>
           <aut>J. Pietil&auml;inen</aut>,
@@ -223,10 +239,15 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.be/2003/008051.html">Bruselo-Babelo: lingvo-kulturo en E&ubreve;ropa Unio</url></vrk>
+          <vrk><url ref="&Monato;/2003/008051.html">Bruselo-Babelo: lingvo-kulturo en
+          E&ubreve;ropa Unio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol; <ind>&c_b;&c_ju;&c_d;&c_zh;&c_e;&c_t;</ind></trd>,
+      <trd>&c_u;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_c;&c_mol; &c_u; <ind>&c_b;&c_ju;&c_d;&c_zh;&c_e;&c_t;</ind></trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>budgetieren</trd>,
       <trd>finanzieren</trd>
@@ -237,27 +258,27 @@
 </art>
 <!--
 $Log$
-Revision 1.21  2019/02/17 10:10:14  revo
-Wolfram Diestel: +var, +snc monsumo, ekz-oj, germ trd-oj
+versio 1.32 2023/04/29 18:29:04
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.20  2017/12/21 17:10:35  revo
-Michel Cantigneaux: aldono ligilo al la 8a OA
+versio 1.31 2023/04/24 14:28:09
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.19  2013/07/27 01:10:11  revo
-Jeromo Vasxe: + ~i
+versio 1.30 2023/04/24 05:28:05
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.18  2010/05/08 16:30:32  revo
-Behnam Tabatabai: +trd fa
+versio 1.29 2023/04/23 15:25:49
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.17  2009/03/31 16:30:41  revo
-Sebastian Cyprych: +trd pl
+versio 1.28 2023/04/14 15:25:56
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.16  2005/04/27 16:31:59  revo
-Raul Salinas Monteagudo: korekto trd es
+versio 1.27 2022/09/06 13:01:58
+Dmitri Gabinski: + trd be
 
-Revision 1.15  2003/12/06 17:30:47  revo
-Alejandro Mejia Greene: ald 1 his trd
+versio 1.26 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.14  2003/05/15 16:32:58  revo
+versio 1.23 2020/09/09 18:10:38
 -->
 </vortaro>

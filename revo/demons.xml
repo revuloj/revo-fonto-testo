@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: demons.xml,v 1.22 2009/06/03 16:31:00 revo Exp $">
+<art mrk="$Id: demons.xml,v 1.33 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <rad>demonstr</rad>/i
 </kap>
@@ -33,25 +32,31 @@
         kiam la rusoj invadis Pragon, la rezistantaj &ccirc;e&hcirc;oj <tld/>is sian humursenton
         &scirc;ercante pri <nom>Winnetou</nom>, konsiderata kiel la lasta bona ru&gcirc;a kamarado
         <fnt>
+          <aut>Hamza Baksi&cacute;</aut>
+          <vrk><url ref="&Monato;/1993/A931001.php">La fino de la mondo komenci&gcirc;as en
+          Sarajevo</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9310-sarajevo.txt">La Fino de la Mondo Komencigxas en Sarajevo</url></vrk>
+          <lok>1993/10, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         la eminenta scienculo firme <tld/>as, ke en la egipta kronologio troas 600
         jaroj, pro fu&scirc;a&jcirc;o de iu egipta pastro-kronikisto
-        <fnt>
+         <fnt>
+        <aut>Manuel Halvelik</aut>
+          <vrk><url ref="&Monato;/1993/A931102.php">Kaj la suno haltis ...</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9311-kaj-la-suno-haltis.txt">Kaj la Suno Haltis... </url></vrk>
+          <lok>1993/11, p. 23</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la faktoj <tld/>as, ke la mondon regas la grandaj potencoj, kiuj <klr>[&#8230;]</klr>
+        la faktoj <tld/>as, ke la mondon regas la grandaj potencoj, kiuj <klr>[&#x2026;]</klr>
         e&ccirc; ne adekvate informas pri sia agado
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9312-sud-ameriko.txt"
-              >Sud-ameriko</url></vrk>
+          <aut>Maritza Guti&eacute;rrez</aut>
+          <vrk><url ref="&Monato;/1993/A931202.php">A&ubreve;di&gcirc;as komuna vo&ccirc;o</url></vrk>
+           <bib>Monato</bib>
+          <lok>1993/12, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -129,13 +134,25 @@
     <trd>&eacute;tablir<klr tip="ind">
     (d&eacute;montrer)</klr></trd>
   </trdgrp>
-<trdgrp lng="hu">
+<trd lng="he">&#x5DC;&#x5D4;&#x5E6;&#x5D9;&#x5D2;</trd>
+  <trdgrp lng="hu">
     <trd>igazol</trd>,
     <trd>bizony&iacute;t</trd>
     <trd>bebizony&iacute;t</trd>
   </trdgrp>
-<trd lng="pt">demonstrar</trd>
+<trdgrp lng="ja">
+    <trd>&#x8AD6;&#x8A3C;&#x3059;&#x308B;  [<ind>&#x308D;&#x3093;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8A3C;&#x660E;&#x3059;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5B9F;&#x6F14;&#x3059;&#x308B;  [<ind>&#x3058;&#x3064;&#x3048;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5B9F;&#x5730;&#x3067;&#x6559;&#x3048;&#x308B;  [<ind>&#x3058;&#x3063;&#x3061;&#x3067;&#x304A;&#x3057;&#x3048;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pt">demonstrar</trd>
 <trd lng="sk">zn&aacute;zorni&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_je;&#x43C;&#x43E;&#x43D;&c_s;&c_t;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&#x44F;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&#x43E;&#x43A;&c_a;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="demons.0o">
@@ -145,12 +162,12 @@
       Elmeto kaj klarigo per specimenoj a&ubreve; provoj, la ago
       <tld/>i<sncref ref="demons.0i.prezenti"/>:
       <ekz>
-        la romano povas esti <klr>[&#8230;]</klr> bona <tld/>o al la publiko de la viveco de
+        la romano povas esti <klr>[&#x2026;]</klr> bona <tld/>o al la publiko de la viveco de
         nia lingvo
         <fnt>
           <bib>Monato</bib>
           <aut>Nikolao Gudskov</aut>
-          <vrk><url ref="https://www.monato.be/2004/008392.html">Reveno de heroo</url></vrk>
+          <vrk><url ref="&Monato;/2004/008392.html">Reveno de heroo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -204,13 +221,29 @@
     <trd>d&eacute;monstration<klr tip="ind"> (preuve)</klr></trd>,
     <trd>preuve<klr tip="ind"> (d&eacute;monstration)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5D4;&#x5E6;&#x5D2;&#x5D4;</trd>
   <trd lng="hu">bizony&iacute;t&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8AD6;&#x8A3C;  [<ind>&#x308D;&#x3093;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x8A3C;&#x660E;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;</ind>]</trd>,
+    <trd>&#x5B9F;&#x6F14;  [<ind>&#x3058;&#x3064;&#x3048;&#x3093;</ind>]</trd>,
+    <trd>&#x5B9F;&#x7269;&#x6559;&#x80B2;  [<ind>&#x3058;&#x3064;&#x3076;&#x3064;&#x304D;&#x3087;&#x3046;&#x3044;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">n&aacute;zorn&yacute; v&yacute;klad</trd>
   <trd lng="cs">n&aacute;zorn&yacute; v&yacute;klad</trd>
 </drv>
   </art>
   <!--
   $Log$
+versio 1.32 2023/04/12 09:25:58
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.31 2023/04/11 08:31:15
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.30 2022/04/26 17:11:47
+aktualigo lingvokodoj kaj URL-unuoj
+
   Revision 1.26  2015/07/04 08:37:32  revo
   aldono de trd cs per skripto de M. von Laer
 
@@ -224,38 +257,5 @@
   Marc Rausell: kataluna traduko
 
   Revision 1.22  2009/06/03 16:31:00  revo
-  Sebastian Cyprych: +trd pl
-
-  Revision 1.21  2008/08/29 16:30:22  revo
-  Sergio Pokrovskij: forigis mislokitan trd=ru
-
-  Revision 1.20  2007/07/19 16:31:59  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.19  2005/05/24 16:35:45  revo
-  Sergio Pokrovskij: TEZ, dif, snc-mrk, rim, kor trd=ru
-
-  Revision 1.18  2004/07/08 17:05:11  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.17  2003/04/09 16:30:56  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.16  2003/04/08 16:31:54  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1..15  2003/04/07 16:34:23  revo
-  Marc Bavant: ~ebla: kor trd pl
-
-  Revision 1.14  2003/03/23 17:32:30  revo
-  Marc Bavant: ~ebla: +trd pl
-  Revision 1.13  2003/03/05 17:33:57  revo
-  Marc Bavant: ~o MAT: +fnt
-  Revision 1.12  2003/02/01 17:32:25  revo
-  Marc Bavant: +trd pl
-  Revision 1.11  2003/01/02 17:44:31  revo
-  Marc Bavant: +trd pl
-  Revision 1.10  2002/05/21 16:38:20  revo
-  Alejandro Mejia Greene: ald 2 his trd
-  -->
+-->
 </vortaro>

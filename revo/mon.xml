@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mon.xml,v 1.43 2009/12/09 17:30:31 revo Exp $">
+<art mrk="$Id: mon.xml,v 1.163 2023/09/10 15:34:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>mon</rad>/o <fnt><bib>PV</bib></fnt>
@@ -80,96 +79,178 @@
       <ekz>
         investi <tld/>on en ventomuelilaj projektoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007052.html">Verda
+          <vrk><url ref="&Monato;/2000/007052.php">Verda
           nature, science, socie</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         kolekti <tld/>on por helpi malsanajn infanojn
         <fnt>
+       <aut>Zofia BANET-FORNALOWA/pg</aut>
+          <vrk><url ref="&Monato;/2000/006882.php">Kiam orkestro fari&gcirc;as orkesto</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006882.html">Pollando:
-          Kiam orkestro fari&gcirc;as orkesto</url></vrk>
+          <lok>2000/05, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         li malavare disdonis <tld/>on el nigraj kasoj kaj kontoj
         <fnt>
+       <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2000/006835.php">Pekoj de patriarko</url></vrk>
           <bib>Monato</bib>
-          <aut>Stefan Maul</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006835.html">Germanio:
-          Pekoj de patriarko</url></vrk>
+          <lok>2000/03, p. 9</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la grandaj partioj <klr>[&#8230;]</klr> tro facile <tld/>on kaj ne
+        la grandaj partioj <klr>[&#x2026;]</klr> tro facile <tld/>on kaj ne
         povis imagi, ke korupteco estus io malbona
         <fnt>
+          <aut>Stefan Maul</aut>
+          
+          <vrk><url ref="&Monato;/1993/A930802.php">Alarmsignalo el Italio</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato1/monato-9308-alarmsignalo.txt">El
-          mia vidpunkto</url></vrk>
-        </fnt>;
+          <lok>1993/08, p. 5</lok>
+        </fnt>.
       </ekz>
       <ekz>
         nek la &scirc;tato nek la asekuraj kompanioj havas sufi&ccirc;e da <tld/>o
         por pagi tiom da pensioj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007101.html">Pensoj
-          pensiaj</url></vrk>
-        </fnt>.
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007101.php">Pensoj pensiaj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 12</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="kest.0o">kesto</ref>,
+      <ref cel="auxtom.bank0o"><tld/>a&ubreve;tomato</ref>
       <ref cel="or.0o">oro</ref>,
       <ref cel="sak.0o">sako</ref>
     </refgrp>
   </snc>
+  <trd lng="af">geld</trd>
+  <trd lng="am">&#x1308;&#x1295;&#x12D8;&#x1265;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_m;&a_A;&a_l;</trd>
+  <trd lng="az">pul</trd>
   <trd lng="be">&c_g;&c_r;&c_o;&c_sh;&c_y;</trd>
   <trd lng="bg">&c_p;&c_a;&c_r;&c_i;</trd>
+  <trd lng="bn">&#x99F;&#x9BE;&#x995;&#x9BE;</trd>
+  <trd lng="bo">&#xF51;&#xF44;&#xF74;&#xF63;&#xF0B;</trd>
   <trdgrp lng="br">
     <trd>arc'hant</trd>,
     <trd>moneiz</trd>
   </trdgrp>
+  <trd lng="bs">novac</trd>
   <trd lng="ca">diners</trd>
+  <trd lng="co">soldi</trd>
   <trd lng="cs">pen&iacute;ze</trd>
+  <trd lng="cy">arian</trd>
+  <trd lng="da">penge</trd>
   <trd lng="de">Geld</trd>
   <trd lng="en">money</trd>
   <trd lng="es">dinero</trd>
+  <trd lng="et">raha</trd>
+  <trd lng="eu">dirua</trd>
   <trd lng="fa">&f_p;&a_w;&a_l;</trd>
   <trdgrp lng="fr">
     <trd>argent</trd>,
     <trd>monnaie</trd>
   </trdgrp>
+  <trd lng="fy">jild</trd>
+  <trd lng="ga">airgead</trd>
+  <trd lng="gd">airgid</trd>
+  <trd lng="gl">di&#xF1;eiro</trd>
+  <trd lng="gu">&#xAAA;&#xAC8;&#xAB8;&#xABE;</trd>
+  <trd lng="ha">kudi</trd>
+  <trd lng="hi">&#x927;&#x928;</trd>
+  <trd lng="hmn">nyiaj</trd>
+  <trd lng="hr">novac</trd>
+  <trd lng="ht">lajan</trd>
   <trd lng="hu">p&eacute;nz</trd>
+  <trd lng="hy">&#x563;&#x578;&#x582;&#x574;&#x561;&#x580;</trd>
   <trd lng="id">uang</trd>
+  <trd lng="ig">ego</trd>
+  <trd lng="is">peningar</trd>
+  <trd lng="ja">&#x30DE;&#x30CD;&#x30FC;</trd>
+  <trd lng="jv">dhuwit</trd>
+  <trd lng="ka">&#x10E4;&#x10E3;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&c_a;&#x49B;&c_sh;&c_a;</trd>
+  <trd lng="km">&#x179B;&#x17BB;&#x1799;</trd>
+  <trd lng="kn">&#xCB9;&#xCA3;</trd>
+  <trd lng="ko">&#xB3C8;</trd>
   <trdgrp lng="ku">
     <trd>pere</trd>,
     <trd>draf</trd>
   </trdgrp>
+  <trd lng="ky">&c_a;&#x43A;&c_ch;&c_a;</trd>
+  <trd lng="lat">pecuniam</trd>
+  <trd lng="lo">&#xEC0;&#xE87;&#xEB4;&#xE99;</trd>
+  <trd lng="lt">pinigai</trd>
+  <trd lng="lv">nauda</trd>
+  <trd lng="mg">vola</trd>
+  <trd lng="mi">moni</trd>
+  <trd lng="mk">&#x43F;&c_a;&c_r;&c_i;</trd>
+  <trd lng="ml">&#xD2A;&#xD23;&#xD02;</trd>
+  <trd lng="mn">&#x43C;&#x4E9;&#x43D;&c_g;&#x4E9;</trd>
+  <trd lng="mr">&#x92A;&#x948;&#x938;&#x93E;</trd>
+  <trd lng="ms">wang</trd>
+  <trd lng="mt">flus</trd>
+  <trd lng="my">&#x1015;&#x102D;&#x102F;&#x1000;&#x103A;&#x1006;&#x1036;</trd>
+  <trd lng="ne">&#x92A;&#x948;&#x938;&#x93E;</trd>
   <trd lng="nl">geld</trd>
+  <trd lng="ny">ndalama</trd>
   <trd lng="oc">argent</trd>
-  <trd lng="pl">pieni&aogonek;dze</trd>
-  <trd lng="pt">dinheiro</trd>
-  <trd lng="ro">ban</trd>
-  <trd lng="ru">&c_d;&c_je;&c_n;&c_mol;&c_g;&c_i;</trd>
-  <trd lng="sk">peniaze</trd>
-  <trd lng="sv">pengar</trd>
-  <trd lng="tp">mani</trd>
-  <trd lng="tr">para</trd>
-  <trd lng="vo">mon</trd>
-  <trdgrp lng="zh">
-    <trd>&#38065; [<ind>qi&aacute;n</ind>]</trd>
-    <trd>&#37329;&#38065; [<ind>j&#299;n qi&aacute;n</ind>]</trd>
+  <trd lng="pa">&#xA2A;&#xA48;&#xA38;&#xA47; &#xA28;&#xA42;&#xA70;</trd>
+  <trdgrp lng="pl">
+    <trd>pieni&aogonek;dze {pl}</trd>,
+    <trd>forsa</trd>
   </trdgrp>
+  <trd lng="ps">&#x67E;&#x64A;&a_s;&#x6D0;</trd>
+  <trd lng="pt">dinheiro</trd>
+  <trdgrp lng="ro">
+    <trd>ban</trd>,
+    <trd>bani</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_je;&c_n;&c_mol;&c_g;&c_i;</trd>
+  <trd lng="rw">amafaranga</trd>
+  <trd lng="sd">&a_r;&a_q;&a_m;</trd>
+  <trd lng="si">&#xDB8;&#xDD4;&#xDAF;&#xDBD;&#xDCA;</trd>
+  <trd lng="sk">peniaze</trd>
+  <trd lng="sl">denar</trd>
+  <trd lng="sm">tupe</trd>
+  <trd lng="sn">mari</trd>
+  <trd lng="so">lacag</trd>
+  <trd lng="sq">parat&#xEB;</trd>
+  <trd lng="st">chelete</trd>
+  <trd lng="su">duit</trd>
+  <trd lng="sv">pengar</trd>
+  <trd lng="sw">fedha</trd>
+  <trd lng="ta">&#xBAA;&#xBA3;&#xBA4;&#xBCD;&#xBA4;&#xBC8;</trd>
+  <trd lng="te">&#xC21;&#xC2C;&#xC4D;&#xC2C;&#xC41;</trd>
+  <trd lng="tg">&#x43F;&c_u;&#x43B;</trd>
+  <trd lng="th">&#xE40;&#xE07;&#xE34;&#xE19;</trd>
+  <trd lng="tl">pera</trd>
+  <trd lng="tok">mani</trd>
+  <trd lng="tr">para</trd>
+  <trd lng="tt">&c_a;&#x43A;&c_ch;&c_a;</trd>
+  <trd lng="uk">&c_g;&c_r;&#x43E;&c_sh;&c_ib;</trd>
+  <trd lng="ur">&#x67E;&#x6CC;&a_s;&#x6C1;</trd>
+  <trd lng="uz">pul</trd>
+  <trd lng="vi">ti&#x1EC1;n</trd>
+  <trd lng="vo">mon</trd>
+  <trd lng="xh">imali</trd>
+  <trd lng="yi">&#x5D2;&#x5E2;&#x5DC;&#x5D8;</trd>
+  <trd lng="yo">owo</trd>
+  <trdgrp lng="zh">
+    <trd>&#x94B1; [<ind>qi&aacute;n</ind>]</trd>
+    <trd>&#x91D1;&#x94B1; [<ind>jīn qi&aacute;n</ind>]</trd>
+  </trdgrp>
+  <trd lng="zu">imali</trd>
 </drv>
 
 <drv mrk="mon.0a">
@@ -197,7 +278,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        komercistoj &#8208; por ili la tuta vivo estas bazita sur la <tld/>a
+        komercistoj &#x2010; por ili la tuta vivo estas bazita sur la <tld/>a
         profito
         <fnt>
           <bib>Far1</bib>
@@ -249,19 +330,34 @@
   </trdgrp>
   <trd lng="es">monetario</trd>
   <trd lng="fa">&f_p;&a_w;&a_l;&f_y;</trd>
-  <trd lng="fr">mon&eacute;taire</trd>
+  <trdgrp lng="fr">
+    <trd>financier</trd>,
+    <trd>mon&eacute;taire</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>p&eacute;nz-</trd>,
     <trd>p&eacute;nz&uuml;gyi</trd>,
     <trd>monet&aacute;ris</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x91D1;&#x92AD;&#x306E;  [<ind>&#x304D;&#x3093;&#x305B;&#x3093;&#x306E;</ind>]</trd>,
+    <trd>&#x901A;&#x8CA8;&#x306E;  [<ind>&#x3064;&#x3046;&#x304B;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>geld-</trd>,
     <trd>monetair</trd>
   </trdgrp>
-  <trd lng="pl">pieni&eogonek;&zdot;ny</trd>
+  <trdgrp lng="pl">
+    <trd>pieni&eogonek;&zdot;ny</trd>,
+    <trd>monetarny</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>financiar</trd>,
+    <trd>monetar</trd>
+  </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">pe&ncaron;a&zcaron;n&yacute;</trd>
+  <trd lng="uk">&c_g;&c_r;&#x43E;&c_sh;&#x43E;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="mon.0ero">
@@ -292,7 +388,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        en sia dekstra po&scirc;o li portis la paper<tld/>on <klr>[&#8230;]</klr>
+        en sia dekstra po&scirc;o li portis la paper<tld/>on <klr>[&#x2026;]</klr>
         kaj en
         leda saketo sur la brusto li havis kelke da alkudritaj oraj
         <tld/>eroj
@@ -302,7 +398,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        sen la kupraj <tld/>eroj, kiujn oni &jcirc;etas al li, <klr>[&#8230;]</klr>
+        sen la kupraj <tld/>eroj, kiujn oni &jcirc;etas al li, <klr>[&#x2026;]</klr>
         la kantisto de Luziado devus morti de malsato
         <fnt>
           <bib>Fab3</bib>
@@ -312,11 +408,10 @@
       <ekz>
         du flankoj de la sama <tld/>ero
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006810.html">Diskutige
-          kaj diskutinde</url></vrk>
+	<aut>Jorge Camacho</aut>
+	<vrk><url ref="&Monato;/2000/006810.php">Diskutige kaj diskutinde</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 25</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -335,8 +430,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>LAST</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008259.html">Planoj de
+          <vrk><url ref="&Monato;/2004/008259.html">Planoj de
           la litova monerstampejo</url></vrk>
         </fnt>;
       </ekz>
@@ -346,8 +440,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008357.html">La unua
+          <vrk><url ref="&Monato;/2004/008357.html">La unua
           nokto</url></vrk>
         </fnt>;
       </ekz>
@@ -356,14 +449,12 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008445.html">Kolekti
+          <vrk><url ref="&Monato;/2004/008445.html">Kolekti
           antikva&jcirc;ojn</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        eldono de <tld/>eroj kaj <ref
-        cel="bilet.mon0o"><tld/>biletoj</ref>
+        eldono de <tld/>eroj kaj <ref cel="bilet.mon0o"><tld/>biletoj</ref>
         <fnt>
           <bib>Monato</bib>
           <aut>Lawrence Mee</aut>
@@ -376,8 +467,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>LAST</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008259.html">Planoj de
+          <vrk><url ref="&Monato;/2004/008259.html">Planoj de
           la litova monerstampejo</url></vrk>
         </fnt>;
       </ekz>
@@ -388,6 +478,7 @@
   </snc>
   <trd lng="be">&c_m;&c_a;&c_n;&c_e;&c_t;&c_a;</trd>
   <trd lng="bg">&c_m;&c_o;&c_n;&c_je;&c_t;&c_a;</trd>
+  <trd lng="bo">&#xF66;&#xF92;&#xF7C;&#xF62;&#xF0B;&#xF58;&#xF7C;&#xF0B;</trd>
   <trd lng="br">pezh moneiz</trd>
   <trdgrp lng="cs">
     <trd>drobn&eacute; mince</trd>,
@@ -404,9 +495,21 @@
   <trd lng="fr">pi&egrave;ce de monnaie</trd>
   <trd lng="hu">p&eacute;nz&eacute;rme</trd>
   <trd lng="id"><ind>uang</ind> receh</trd>
+  <trdgrp lng="ja">
+    <trd>&#x786C;&#x8CA8;  [<ind>&#x3053;&#x3046;&#x304B;</ind>]</trd>,
+    <trd>&#x5C0F;&#x92AD;  [<ind>&#x3053;&#x305C;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>muntstuk</trd>,
     <trd>munt</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bilon</trd>,
+    <trd>moneta</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>bucat&abreve;</trd>,
+    <trd>moned&abreve;</trd>
   </trdgrp>
   <trd lng="ru">&c_m;&c_o;&c_n;&c_je;&c_t;&c_a;</trd>
   <trdgrp lng="sk">
@@ -414,6 +517,7 @@
     <trd>peniaz</trd>
   </trdgrp>
   <trd lng="sv">mynt</trd>
+  <trd lng="uk">&#x43C;&#x43E;&#x43D;&c_je;&c_t;&c_a;</trd>
 </drv>
 
 <drv mrk="mon.0ereto">
@@ -437,8 +541,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja; 
-&c_m;&c_a;&c_n;&c_e;&c_t;&c_a;</trd>
+  <trd lng="be">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja; &c_m;&c_a;&c_n;&c_e;&c_t;&c_a;</trd>
   <trd lng="br">moneiz bihan</trd>
   <trdgrp lng="de">
     <trd>kleine <ind>M&uuml;nze</ind></trd>,
@@ -450,8 +553,19 @@
     <trd>pi&egrave;cette</trd>
   </trdgrp>
   <trd lng="hu">apr&oacute;p&eacute;nz</trd>
-  <trd lng="ru">&c_m;&c_je;&c_l;&c_k;&c_a;&c_ja; 
-&c_m;&c_o;&c_n;&c_je;&c_t;&c_a;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x92AD;  [<ind>&#x3053;&#x305C;&#x306B;</ind>]</trd>,
+    <trd>&#x5C0F;&#x984D;&#x8CA8;&#x5E63;  [<ind>&#x3057;&#x3087;&#x3046;&#x304C;&#x304F;&#x304B;&#x3078;&#x3044;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>grosik</trd>,
+    <trd>szel&aogonek;g</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>b&abreve;nu&#x21B;</trd>,
+    <trd>para</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_je;&c_l;&c_k;&c_a;&c_ja; &c_m;&c_o;&c_n;&c_je;&c_t;&c_a;</trd>
 </drv>
 
 <drv mrk="mon.0ujo">
@@ -503,22 +617,29 @@
     <trd>p&eacute;nzt&aacute;rca</trd>
   </trdgrp>
   <trd lng="id">dompet</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8CA1;&#x5E03;  [<ind>&#x3055;&#x3044;&#x3075;</ind>]</trd>,
+    <trd>&#x5DFE;&#x7740;  [<ind>&#x304D;&#x3093;&#x3061;&#x3083;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">portemonnee</trd>
   <trdgrp lng="pl">
     <trd>portfel</trd>,
     <trd>portmonetka</trd>
   </trdgrp>
+  <trd lng="ro">portofel</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_sh;&c_je;&c_l;&c_jo;&c_k;</trd>,
     <trd>&c_p;&c_o;&c_r;&c_t;&c_m;&c_o;&c_n;&c_je;</trd>
   </trdgrp>
   <trd lng="sk">pe&ncaron;a&zcaron;enka</trd>
   <trd lng="tr">c&uuml;zdan</trd>
-  <trd lng="zh">&#38065;&#21253; [<ind>qi&aacute;nb&#257;o</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_a;&#x43C;&c_a;&#x43D;&c_je;&c_c;&#x44C;</trd>,
+    <trd>&c_g;&c_a;&#x43C;&c_a;&#x43D;</trd>,
+    <trd>&#x43F;&#x43E;&c_r;&c_t;&#x43C;&#x43E;&#x43D;&c_je;</trd>
+  </trdgrp>
+  <trd lng="zh">&#x94B1;&#x5305; [<ind>qi&aacute;nbāo</ind>]</trd>
 </drv>
-
-
-
 
 <drv mrk="mon.sen0a">
   <kap>sen<tld/>a</kap>
@@ -532,7 +653,7 @@
         versa&jcirc;on
         <fnt>
           <aut>R. Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
         </fnt>;
       </ekz>
@@ -540,7 +661,7 @@
         meditoj pri sen<tld/>aj tempoj
         <fnt>
           <aut>R. Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
         </fnt>;
       </ekz>
@@ -550,8 +671,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>W. M. A. de Smet</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008418.html">Edward
+          <vrk><url ref="&Monato;/2004/008418.html">Edward
           Croegaert, la forgesita lingvokreanto</url></vrk>
         </fnt>;
       </ekz>
@@ -575,15 +695,26 @@
     <trd>pleite</trd>
   </trdgrp>
   <trd lng="en">broke</trd>
-  <trd lng="fa">&a_b;&f_y;&zwnj;&f_p;&a_w;&a_l;</trd>
+  <trd lng="fa">&a_b;&f_y;&#x200C;&f_p;&a_w;&a_l;</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;sargent&eacute;</trd>,
     <trd>sans-le-sou</trd>
   </trdgrp>
   <trd lng="hu">p&eacute;nztelen</trd>
+  <trdgrp lng="ja">
+    <trd>&#x91D1;&#x306E;&#x306A;&#x3044;  [<ind>&#x304B;&#x306D;&#x306E;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x4E00;&#x6587;&#x7121;&#x3057;&#x306E;  [<ind>&#x3072;&#x3068;&#x3082;&#x3093;&#x306A;&#x3057;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">blut</trd>
+  <trd lng="pl">bez  <ind>pieni&eogonek;dzy</ind></trd>
+  <trd lng="ro">f&abreve;r&abreve; bani</trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">bez pe&ncaron;az&iacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z; &c_g;&c_r;&#x43E;&c_sh;&c_je;&c_j;</trd>,
+    <trd>&c_g;&#x43E;&#x43B;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_g;&c_r;&c_ib;&c_sh;&#x43D;&c_i;&c_j; </trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mon.sen0igi">
@@ -600,13 +731,14 @@
         </fnt>;
       </ekz>
       <ekz>
-        maksimumfilatelo &#8208; nova maniero sen<tld/>igi la filatelistojn
+        maksimumfilatelo &#x2010; nova maniero sen<tld/>igi la filatelistojn
         <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2000/007065.php">VIPE 2000, a&ubreve; &ccirc;u la po&scirc;tmarkoj
+          malaperos?</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007065.html">Filatelo:
-          VIPE 2000, a&ubreve; &ccirc;u la po&scirc;tmarkoj malaperos?</url></vrk>
-        </fnt>.
+          <lok>2000/09, p. 18</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -614,6 +746,10 @@
       <ref cel="hav.sen0igi">senhavigi</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_ja;&c_z;&c_g;&c_r;&c_o;&c_sh;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_z;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_mol; &c_g;&c_r;&c_o;&c_sh;&c_a;&c_j;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>um sein Geld <ind>bringen</ind></trd>,
     <trd>das Geld aus der Tasche <ind>ziehen</ind></trd>,
@@ -625,7 +761,52 @@
     <trd>d&eacute;trousser</trd>
   </trdgrp>
   <trd lng="hu">p&eacute;nz&eacute;t&odblac;l megfoszt</trd>
+  <trd lng="ja">&#x7121;&#x4E00;&#x6587;&#x306B;&#x3059;&#x308B;  [<ind>&#x3080;&#x3044;&#x3061;&#x3082;&#x3093;&#x306B;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">van zijn/haar geld <ind>beroven</ind></trd>
+  <trdgrp lng="pl">
+    <trd>doprowadzi&cacute; do braku pieni&eogonek;dzy</trd>,
+    <trd>zgra&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">duce la lipsa banilor</trd>
+</drv>
+
+<drv mrk="mon.bit0o">
+  <kap>
+    bit<tld/>o
+  </kap>
+  <snc mrk="mon.bit0o.MON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="mon.0o.EKON">Mono</ref>
+      disponebla nur en nemateria, bita formo,
+      sen la garantio de iu &scirc;tata banko:
+      <ekz>
+        neatendita estis la anonco en a&ubreve;gusto de
+        <nom>Utility Settlement Coin</nom>, projekto por nova
+        bit<tld/>o subtenata de i.a. la germana <nom>Deutsche
+        Bank</nom> kaj la svisa <nom>UBS</nom>
+        <fnt>
+          <aut>R. Rotsaert</aut>
+          <vrk>Bitcoin: tri jarojn poste</vrk>
+          <bib>Monato</bib>
+          <lok>2016-11, p. 21-22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_y;&c_p;&c_t;&c_a;&c_v;&c_a;&c_l;&c_ju;&c_t;&c_a;</trd>
+<trdgrp lng="fr">
+    <trd>cryptomonnaie</trd>,
+    <trd>monnaie virtuelle</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kryptowaluta</trd>,
+    <trd>wirtualna waluta</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>criptomoned&abreve;</trd>,
+    <trd>valut&abreve; virtual&abreve;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mon.elacxeta0o">
@@ -656,8 +837,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url
-          ref="&Monato;/2006/009093.php">Postulataj: pli
+          <vrk><url ref="&Monato;/2006/009093.php">Postulataj: pli
           severaj punoj</url></vrk>
         </fnt>;
       </ekz>
@@ -669,13 +849,13 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url
-          ref="&Monato;/2006/009093.php">Postulataj: pli
+          <vrk><url ref="&Monato;/2006/009093.php">Postulataj: pli
           severaj punoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_k;&c_u;&c_p;</trd>
   <trd lng="bg">&c_o;&c_t;&c_k;&c_u;&c_p;</trd>
   <trd lng="de">L&ouml;segeld</trd>
   <trd lng="en">ransom</trd>
@@ -683,6 +863,8 @@
   <trd lng="fa">&a_f;&a_d;&f_y;&a_h;</trd>
   <trd lng="fr">ran&ccedil;on</trd>
   <trd lng="nl">losgeld</trd>
+  <trd lng="pl">pieni&aogonek;dze na wykup</trd>
+  <trd lng="ro">bani de r&abreve;scump&abreve;rare</trd>
   <trd lng="ru">&c_v;&c_y;&c_k;&c_u;&c_p;</trd>
 </drv>
 
@@ -694,8 +876,7 @@
     <uzo tip="fak">EKON</uzo>
     <dif>
       Speciala
-      <ref tip="lst" cel="organi2.0ajxo"
-      lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
+      <ref tip="lst" cel="organi2.0ajxo" lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
       <ref tip="malprt" cel="naci.Unuigxintaj_0oj">Unui&gcirc;intaj
       Nacioj</ref>, kiu kontrolas la internacian valutosistemon
       kaj provas ekvilibrigi la kreskadon de la monda komerco:
@@ -705,16 +886,16 @@
         Monda Banko (MB), kun kunvenoj de ministroj pri financo,
         fakaj seminarioj, prelegoj, konferencoj, ktp.
         <fnt>
-          <aut>J. Patera</aut>,
-          <vrk><url ref="&Monato;/007258.html">
+          <aut>J. Patera</aut>
+          <vrk><url ref="&Monato;/2001/007258.html">
           Post la kunsido de financistoj en Prago</url></vrk>,
-          <bib>Monato</bib>,
-          <lok>2001:01</lok>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         Internacia <tld lit="M"/>a Fonduso (IMF) kaj Monda Banko (MB)
-        altrudadis al malri&ccirc;aj landoj &leftquot;politikon de strukturaj reformoj&#8221;
+        altrudadis al malri&ccirc;aj landoj &leftquot;politikon de strukturaj reformoj&#x201D;
         <fnt>
           <bib>Monato</bib>
           <aut>Josef Mendl</aut>
@@ -746,7 +927,7 @@
     <trd>FMI</trd>
   </trdgrp>
   <trd lng="fa">&a_S;&a_n;&a_d;&a_w;&a_q; 
-&a_b;&f_y;&a_n;&zwnj;&a_A;&a_l;&a_m;&a_l;&a_l;&f_y;
+&a_b;&f_y;&a_n;&#x200C;&a_A;&a_l;&a_m;&a_l;&a_l;&f_y;
 &f_p;&a_w;&a_l;</trd>
   <trdgrp lng="fr">
     <trd>Fonds <ind>Mon&eacute;taire</ind> International</trd>,
@@ -769,6 +950,7 @@
     <trd>Fundo <ind>Monet&aacute;rio</ind> Internacional</trd>,
     <trd>FMI</trd>
   </trdgrp>
+  <trd lng="ro">Fondul Monetar Interna&#x21B;ional</trd>
   <trdgrp lng="ru">
     <trd>&c_M;&c_je;&c_zh;&c_d;&c_u;&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j; <ind>&c_V;&c_a;&c_l;&c_ju;&c_t;&c_n;&c_y;&c_j; &c_F;&c_o;&c_n;&c_d;</ind></trd>,
     <trd>&c_M;&c_V;&c_F;</trd>
@@ -784,13 +966,13 @@
       <ekz>
         mi e&ccirc; ricevis &ccirc;iusemajne po&scirc;<tld/>on
         <fnt>
-          <aut>Emil</aut>,
-          <vrk>Decidema mi &ccirc;iam estas</vrk>,
+          <aut>Emil</aut>
+          <vrk>Decidema mi &ccirc;iam estas</vrk>
           <lok>en: Vivprotokoloj, 2009</lok>
         </fnt>;
       </ekz>
       <ekz>
-        li postulis ke &scirc;i <klr>[&#8230;]</klr> redonu la <tld/>on al la panjo,
+        li postulis ke &scirc;i <klr>[&#x2026;]</klr> redonu la <tld/>on al la panjo,
         repagante &ccirc;iusemajne unu pencon el sia po&scirc;<tld/>o
         <fnt>
           <bib>Monato</bib>
@@ -811,13 +993,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_ib;&c_sh;&c_e;&c_n;&c_n;&c_y;&c_ja; &c_g;&c_r;&c_o;&c_sh;&c_y;</trd>
   <trd lng="de">Taschengeld</trd>
   <trdgrp lng="en">
     <trd>pocket money</trd>,
     <trd>allowance</trd>
   </trdgrp>
   <trd lng="fr">argent de poche</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C0F;&#x9063;&#x92AD;  [<ind>&#x3053;&#x3065;&#x304B;&#x3044;&#x305B;&#x3093;</ind>]</trd>,
+    <trd>&#x30DD;&#x30B1;&#x30C3;&#x30C8;&#x30DE;&#x30CD;&#x30FC;</trd>
+  </trdgrp>
   <trd lng="nl">zakgeld</trd>
+  <trd lng="pl">kieszonkowe</trd>
+  <trd lng="ro">bani de buzunar</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_i;&c_sh;&c_je;&#x43D;&#x44C;&#x43A;&#x43E;&c_v;&c_ib; <klr>(&c_g;&c_r;&#x43E;&c_sh;&c_ib;)</klr></trd>,
+    <trd>&c_g;&c_r;&#x43E;&c_sh;&c_ib; &#x43D;&c_a; &c_d;&c_r;&c_ib;&c_b;&#x43D;&c_ib; &c_v;&c_i;&c_t;&c_r;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mon.rest0o">
@@ -838,6 +1031,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_e;&c_sh;&c_t;&c_a; <klr>(&c_g;&c_r;&c_o;&c_sh;&c_a;&c_j;)</klr></trd>
   <trdgrp lng="de">
     <trd>Wechselgeld</trd>,
     <trd>Restgeld</trd>
@@ -847,7 +1041,16 @@
     <trd>cambio</trd>,
     <trd>vuelta</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B8B;&#x91D1;  [<ind>&#x3056;&#x3093;&#x304D;&#x3093;</ind>]</trd>,
+    <trd>&#x3064;&#x308A;&#x92AD;  [<ind>&#x3064;&#x308A;&#x305B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wisselgeld</trd>
+  <trd lng="pl">reszta</trd>
+  <trdgrp lng="ro">
+    <trd>rest</trd>,
+    <trd>odihn&abreve;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mon.stud0o">
@@ -869,7 +1072,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_y;&c_p;&c_e;&c_n;&c_d;&c_y;&c_ja;</trd>
   <trd lng="fr">bourse &eacute;tudiante</trd>
+  <trd lng="pl">stypendium studenckie</trd>
+  <trd lng="ro">burs&abreve; studen&#x21B;easc&abreve;</trd>
 </drv>
 
 <drv mrk="mon.sxpar0o">
@@ -882,8 +1088,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url
-          ref="&Monato;/2005/008696.php">Disdivido de la
+          <vrk><url ref="&Monato;/2005/008696.php">Disdivido de la
           oro</url></vrk>
         </fnt>;
       </ekz>
@@ -893,8 +1098,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mu Binghua</aut>
-          <vrk><url
-          ref="&Monato;/2008/009343.php">Geedzi&gcirc;oj stimulas
+          <vrk><url ref="&Monato;/2008/009343.php">Geedzi&gcirc;oj stimulas
           konsumon</url></vrk>
         </fnt>;
       </ekz>
@@ -908,9 +1112,16 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_sh;&c_ch;&c_a;&c_d;&c_zh;&c_a;&c_n;&c_n;&c_ib;</trd>,
+    <trd>&c_a;&c_sh;&c_ch;&c_a;&c_d;&c_zh;&c_a;&c_n;&c_y;&c_ja; &c_s;&c_r;&c_o;&c_d;&c_k;&c_ib;</trd>
+  </trdgrp>
   <trd lng="de">Spargeld</trd>
+  <trd lng="fr">&eacute;pargne</trd>
+  <trd lng="ja">&#x8CAF;&#x91D1;  [<ind>&#x3061;&#x3087;&#x304D;&#x3093;</ind>]</trd>
+  <trd lng="pl">oszcz&eogonek;dno&sacute;ci {pl}</trd>
+  <trd lng="ro">economisire</trd>
 </drv>
-
 
 <drv mrk="mon.trink0o">
   <kap>
@@ -945,6 +1156,10 @@
     </dif>
     <ref tip="super" cel="gratif">gratifiko</ref>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_a;&c_ja;&c_v;&c_y;&c_ja;</trd>,
+    <trd>&c_g;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_n;&c_je;&c_c; <klr>(&c_g;&c_r;&c_o;&c_sh;&c_y;)</klr></trd>
+  </trdgrp>
   <trdgrp lng="cs">
   <trd>di&scaron;krece</trd>,
   <trd>spropitn&eacute;</trd>
@@ -958,56 +1173,24 @@
       <trd>tip</trd>,
       <trd>persen</trd>
     </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30C1;&#x30C3;&#x30D7;</trd>,
+    <trd>&#x98F2;&#x307F;&#x4EE3;  [<ind>&#x306E;&#x307F;&#x3057;&#x308D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">fooi</trd>
   <trd lng="pl">napiwek</trd>
+  <trd lng="ro">bac&#x219;i&#x219;</trd>
   <trd lng="ru">&c_ch;&c_a;&c_je;&c_v;&c_y;&c_je;</trd>
   <trd lng="sk">prepitn&eacute;</trd>
-</drv>
-
-
-
-<drv mrk="mon.0automato">
-  <kap><tld/>a&ubreve;tomato</kap>
-  <snc mrk="mon.0automato.EKON">
-    <dif>
-      Aparato kiu permesas elpreni kontantan <tld/>on:
-      <ekz>
-        en oktobro <klr>[1993]</klr> estis solene ina&ubreve;gurita en moskva
-        hotelo <nom>Metropolj</nom> la unua rusa <tld/>a&ubreve;tomato
-        <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato1/monato-9310-artikoletoj.txt">Malkopiilo</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
-        kelkaj <tld/>a&ubreve;tomatoj ne plu funkcias, kaj anta&ubreve; aliaj staras
-        longaj homvicoj
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Dmitrij Cibulevskij</aut>
-          <vrk><url ref="&Monato;/2014/011259.php">Lando
-          senregada</url></vrk>
-        </fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trd lng="de">Geldautomat</trd>
-  <trdgrp lng="en">
-    <trd>ATM</trd>,
-    <trd>hole in the wall</trd>,
-    <trd>cashpoint</trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>geldautomaat</trd>
-  </trdgrp>
+  <trd lng="uk">&c_ch;&c_a;&c_j;&#x43E;&c_v;&c_ib;</trd>
 </drv>
 
 <drv mrk="mon.0avida">
   <kap><tld/>avida</kap>
   <snc mrk="mon.0avida.KOMUNE">
     <dif>
-    Tre deziranta <tld/>on en &ccirc;iuj cirkonstancoj:
+    Tre deziranta <tld/>on en &ccirc;iuj cirkonstancoj,
+    <ref tip="vid" cel="profit.0ema">profitema</ref>:
       <ekz>
         la Fariseoj anka&ubreve;, kiuj estis <tld/>avidaj, a&ubreve;dis &ccirc;ion tion, kaj
         ili lin mokis
@@ -1017,13 +1200,12 @@
         </fnt>;
       </ekz>
       <ekz>
-        skandaloj pro <klr>[&#8230;]</klr> degenerinta viando, kiun, spite al
+        skandaloj pro <klr>[&#x2026;]</klr> degenerinta viando, kiun, spite al
         dan&gcirc;ero por sano de homoj, <tld/>avidaj kapitalistoj vendis
         <fnt>
           <bib>Monato</bib>
-          <aut>Stefan Maul</aut>
-          <vrk><url
-          ref="&Monato;/2008/009641.php">Kapitalista
+          <aut>S. Maul</aut>
+          <vrk><url ref="&Monato;/2008/009641.php">Kapitalista
           moralo</url></vrk>
         </fnt>;
       </ekz>
@@ -1033,9 +1215,8 @@
         klientojn vendante ne tute plenajn karto&ccirc;ojn
         <fnt>
           <bib>Monato</bib>
-          <aut>Lode Van de Velde kaj Roland Rotsaert</aut>
-          <vrk><url
-          ref="&Monato;/2014/011347.php">Konsumantoj
+          <aut>L. Van de Velde, R. Rotsaert</aut>
+          <vrk><url ref="&Monato;/2014/011347.php">Konsumantoj
           agiti&gcirc;as kaj konscii&gcirc;as</url></vrk>
         </fnt>.
       </ekz>
@@ -1045,21 +1226,70 @@
       <ref cel="mamon.0o">mamono</ref>.
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_v;&c_a;&c_p;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_k;&c_v;&c_a;&c_p;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_h;&c_c;&c_ib;&c_v;&c_y; <klr>(&c_n;&c_a; &c_g;&c_r;&c_o;&c_sh;&c_y;)</klr></trd>
+  </trdgrp>
   <trd lng="de">geldgierig</trd>
   <trd lng="en">greedy</trd>
   <trdgrp lng="fa">
-    <trd>&f_p;&a_w;&a_l;&zwnj;&f_p;&a_r;&a_s;&a_t;</trd>,
-    <trd>&f_p;&a_w;&a_l;&zwnj;&a_d;&a_w;&a_s;&a_t;</trd>
+    <trd>&f_p;&a_w;&a_l;&#x200C;&f_p;&a_r;&a_s;&a_t;</trd>,
+    <trd>&f_p;&a_w;&a_l;&#x200C;&a_d;&a_w;&a_s;&a_t;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>cupide</trd>,
     <trd>int&eacute;ress&eacute;<klr> (par l'argent)</klr></trd>
   </trdgrp>
   <trd lng="hu">p&eacute;nz&eacute;hs&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x91D1;&#x306B;&#x304C;&#x3064;&#x304C;&#x3064;&#x3057;&#x305F;  [<ind>&#x304B;&#x306D;&#x306B;&#x304C;&#x3064;&#x304C;&#x3064;&#x3057;&#x305F;</ind>]</trd>,
+    <trd>&#x91D1;&#x92AD;&#x6B32;&#x306E;&#x5F37;&#x3044;  [<ind>&#x304D;&#x3093;&#x305B;&#x3093;&#x3088;&#x304F;&#x306E;&#x3064;&#x3088;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>gierig</trd>,
     <trd>geldzuchtig</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&zdot;a&lstroke;uj&aogonek;cy grosza</trd>,
+    <trd>sk&aogonek;py</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>regret&acirc;nd un ban</trd>,
+    <trd>zg&acirc;rcit</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mon.0avidulo">
+  <kap>
+    <tld/>avidulo
+  </kap>
+  <snc mrk="mon.0avidulo.KOMUNE">
+    <dif>
+      Homo, kiu tre deziras <tld/>on, kiu &ccirc;iam ser&ccirc;as <tld/>an profiton:
+      <ekz>
+        li ne estas ia spekulanto, nek <tld/>avidulo
+        <fnt>
+          <aut>H. Laxness, trad. B. Ragnarsson</aut>
+          <vrk>Sendependaj homoj</vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_h;&c_c;&c_ib;&c_v;&c_je;&c_c; <klr>(&c_n;&c_a; &c_g;&c_r;&c_o;&c_sh;&c_y;)</klr></trd>
+    <trdgrp lng="fr">
+      <trd>accapareur</trd>,
+      <trd>profiteur</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>chciwy  <klr>(na pieni&aogonek;dze)</klr></trd>,
+      <trd>sk&aogonek;piec</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>lacom  <klr>(pentru bani)</klr></trd>,
+      <trd>avar</trd>
+    </trdgrp>
+  </snc>
 </drv>
 
 <drv mrk="mon.0falsisto">
@@ -1074,8 +1304,7 @@
         entreprenisto kaj <tld/>falsisto
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=432101">Bohr</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=432101">Bohr</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -1083,8 +1312,7 @@
         <nom>Isaac Newton</nom> kaj pendumita
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=248474">Monfalsado</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=248474">Monfalsado</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1109,31 +1337,38 @@
       &a_A;&a_s;&f_k;&a_n;&a_A;&a_s;)</klr></trd>
   <trd lng="fr">faux-monnayeur</trd>
   <trd lng="hu">p&eacute;nzhamis&iacute;t&oacute;</trd>
+  <trd lng="ja">&#x507D;&#x91D1;&#x4F5C;&#x308A;  [<ind>&#x304E;&#x304B;&#x306D;&#x3065;&#x304F;&#x308A;</ind>]</trd>
   <trd lng="nl">valsmunter</trd>
+  <trd lng="pl">fa&lstroke;szerz</trd>
+  <trd lng="ro">falsificator</trd>
   <trd lng="ru">&c_f;&c_a;&c_l;&c_mol;&c_sh;&c_i;&c_v;&c_o;&c_m;&c_o;&c_n;&c_je;&c_t;&c_ch;&c_i;&c_k;</trd>
   <trd lng="sk">pe&ncaron;azokaz</trd>
+  <trd lng="uk">&c_f;&c_a;&#x43B;&#x44C;&c_sh;&c_i;&c_v;&#x43E;&#x43C;&#x43E;&#x43D;&c_je;&c_t;&c_ch;&c_i;&#x43A;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.65  2019/07/03 08:10:35  revo
-Aleks Andre: zh: prononcado en -ind- por la indekso
+versio 1.163 2023/09/10 15:34:08
+revo: korekto de transskribo
 
-Revision 1.64  2019/06/30 18:21:48  revo
-adaptis URL de Monato
+versio 1.161 2023/05/01 05:27:48
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.63  2019/06/30 07:42:49  revo
-adaptis URL de Monato
+versio 1.160 2023/04/25 14:28:49
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.62  2019/03/01 15:10:17  revo
-Wolfram Diestel: trink~o: trd-oj + ref gratifiko
+versio 1.159 2023/04/24 14:28:21
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.61  2018/01/03 23:10:14  revo
-Wolfram Diestel: ekz-oj, +trink~o, sxpar~o, germ trd-oj
+versio 1.158 2023/04/24 09:26:38
+Paul Peeraerts: @Sxteloj -> @Monato
 
-Revision 1.60  2018/01/03 20:10:13  revo
-Wolfram Diestel: ~o: ekz-oj bibliaj
+versio 1.157 2023/04/18 11:23:22
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.59  2017/11/06 02:10:18  revo
+versio 1.156 2023/04/13 14:27:47
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.155 2023/04/12 16:34:43
 -->
 </vortaro>

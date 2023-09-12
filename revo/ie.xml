@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ie.xml,v 1.16 2009/04/01 16:30:29 revo Exp $">
+<art mrk="$Id: ie.xml,v 1.21 2023/08/31 16:40:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ie</rad>
@@ -33,6 +32,10 @@
   <trd lng="hu">valahol</trd>
   <trd lng="it">da qualche <ind>parte</ind><klr> (stato in
   luogo)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x3069;&#x3053;&#x304B;&#x3067;</trd>,
+    <trd>&#x3042;&#x308B;&#x3068;&#x3053;&#x308D;&#x306B;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>ergens</trd>,
     <trd>hier of daar</trd>,
@@ -53,6 +56,13 @@
     <trd>&c_g;&c_d;&c_je;-&c_n;&c_i;&c_b;&c_u;&c_d;&c_mol;</trd>
   </trdgrp>
   <trd lng="sv">n&aring;gonstans</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x435;&#x441;&#x44C;</trd>,
+    <trd>&#x434;&#x435;-&#x43D;&#x435;&#x431;&#x443;&#x434;&#x44C;</trd>,
+    <trd>&#x431;&#x43E;&#x437;&#x43D;&#x430;-&#x434;&#x435;</trd>,
+    <trd>&#x43A;&#x430;&#x437;&#x43D;&#x430;-&#x434;&#x435;</trd>,
+    <trd>&#x445;&#x442;&#x43E;&#x437;&#x43D;&#x430;-&#x434;&#x435;</trd>
+  </trdgrp>
   <trd lng="vo">egefo</trd>
 </drv>
 
@@ -75,12 +85,23 @@
   <trd lng="de">irgendwohin</trd>
   <trd lng="it">da qualche <ind>parte</ind><klr> (moto a
   luogo)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x3069;&#x3053;&#x304B;&#x3078;</trd>,
+    <trd>&#x3042;&#x308B;&#x3068;&#x3053;&#x308D;&#x3078;</trd>
+  </trdgrp>
   <trd lng="nl">ergens heen</trd>
   <trdgrp lng="pl">
     <trd>dok&aogonek;d&sacute;</trd>,
     <trd>dok&aogonek;dkolwiek</trd>
   </trdgrp>
   <trd lng="ro">undeva</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x443;&#x434;&#x438;&#x441;&#x44C;</trd>,
+    <trd>&#x43A;&#x443;&#x434;&#x438;-&#x43D;&#x435;&#x431;&#x443;&#x434;&#x44C;</trd>,
+    <trd>&#x431;&#x43E;&#x437;&#x43D;&#x430;-&#x43A;&#x443;&#x434;&#x438;</trd>,
+    <trd>&#x43A;&#x430;&#x437;&#x43D;&#x430;-&#x43A;&#x443;&#x434;&#x438;</trd>,
+    <trd>&#x445;&#x442;&#x43E;&#x437;&#x43D;&#x430; &#x43A;&#x443;&#x434;&#x438;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: salajr.xml,v 1.32 2023/09/03 12:09:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>salajr</rad>/o <fnt><bib>PV</bib></fnt>
@@ -27,13 +26,14 @@
     <trd>&c_z;&c_a;&c_r;&c_a;&c_b;&c_o;&c_t;&c_n;&c_a;&c_ja; &c_p;&c_l;&c_a;&c_t;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_z;&c_a;&c_p;&c_l;&c_a;&c_t;&c_a;</trd>
+  <trd lng="bo">&#xF42;&#xFB3;&#xF0B;&#xF46;&#xF0B;</trd>
   <trdgrp lng="ca">
     <trd>salari</trd>,
     <trd>sou</trd>
   </trdgrp>
   <trdgrp lng="cs">
     <trd>mzda</trd>,
-    <trd>odměna za práci</trd>,
+    <trd>odm&ecaron;na za pr&aacute;ci</trd>,
     <trd>plat</trd>
   </trdgrp>
   <trdgrp lng="de">
@@ -53,13 +53,25 @@
   </trdgrp>
   <trdgrp lng="id">
     <trd>gaji</trd>,
-    <trd>upah</trd>
+    <trd>upah</trd>,
+    <trd>salaris</trd>
   </trdgrp>
   <trdgrp lng="it">
     <trd>salario</trd>,
     <trd>stipendio</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D66;&#x6599;  [<ind>&#x304D;&#x3085;&#x3046;&#x308A;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x7D66;&#x4E0E;  [<ind>&#x304D;&#x3085;&#x3046;&#x3088;</ind>]</trd>,
+    <trd>&#x8CC3;&#x91D1;  [<ind>&#x3061;&#x3093;&#x304E;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">salaris</trd>
+  <trdgrp lng="pl">
+    <trd>pensja</trd>,
+    <trd>p&lstroke;aca</trd>,
+    <trd>uposa&zdot;enie</trd>,
+    <trd>wynagrodzenie</trd>
+  </trdgrp>
   <trdgrp lng="pt">
    <trd>sal&aacute;rio</trd>
   </trdgrp>
@@ -71,10 +83,16 @@
   <trdgrp lng="sk">
     <trd>mzda</trd>,
     <trd>plat</trd>,
-    <trd>pláca</trd>,
-    <trd>služné</trd>,
-    <trd>výplata</trd>,
-    <trd>zárobok</trd>
+    <trd>pl&aacute;ca</trd>,
+    <trd>slu&zcaron;n&eacute;</trd>,
+    <trd>v&yacute;plata</trd>,
+    <trd>z&aacute;robok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_r;&#x43E;&c_b;&c_ib;&c_t;&#x43D;&c_a; &#x43F;&#x43B;&c_a;&c_t;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_r;&#x43F;&#x43B;&c_a;&c_t;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_r;&#x43E;&c_b;&c_ib;&c_t;&#x43E;&#x43A;</trd>,
+    <trd>&#x43F;&#x43B;&c_a;&c_t;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -89,8 +107,8 @@
   <trd lng="be">&c_n;&c_a;&c_jo;&c_m;&c_n;&c_y; &c_p;&c_r;&c_a;&c_c;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">assalariat</trd>
   <trdgrp lng="cs">
-    <trd>námezdní pracovník</trd>,
-    <trd>zaměstnanec</trd>
+    <trd>n&aacute;mezdn&iacute; pracovn&iacute;k</trd>,
+    <trd>zam&ecaron;stnanec</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Angestellter</trd>,
@@ -107,20 +125,38 @@
     <trd>fizet&eacute;sb&odblac;l &eacute;l&odblac;</trd>,
     <trd>alkalmazott</trd>
   </trdgrp>
-  <trd lng="id">karyawan</trd>
+  <trdgrp lng="id">
+    <trd>buruh</trd>,
+    <trd>karyawan</trd>,
+    <trd>pe<ind>kerja</ind></trd>
+  </trdgrp>
   <trdgrp lng="it">
     <trd>salariato</trd>,
     <trd>stipendiato</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B5;&#x30E9;&#x30EA;&#x30FC;&#x30DE;&#x30F3;  [<ind>&#x3055;&#x3089;&#x308A;&#x30FC;&#x307E;&#x3093;</ind>]</trd>,
+    <trd>&#x7D66;&#x4E0E;&#x751F;&#x6D3B;&#x8005;  [<ind>&#x304D;&#x3085;&#x3046;&#x3088;&#x305B;&#x3044;&#x304B;&#x3064;&#x3057;&#x3083;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>loontrekkende</trd>,
     <trd>bediende</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pracownik</trd>,
+    <trd>zatrudniony</trd>,
+    <trd>pobieraj&aogonek;cy  <ind>pensj&eogonek;</ind></trd>,
+    <trd>pobieraj&aogonek;cy  <ind>wynagrodzenie</ind></trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_n;&c_a;&c_jo;&c_m;&c_n;&c_y;&c_j; &c_r;&c_a;&c_b;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_s;&c_l;&c_u;&c_zh;&c_a;&c_shch;&c_i;&c_j;</trd>
   </trdgrp>
-  <trd lng="sk">námezdný pracovník</trd>
+  <trd lng="sk">n&aacute;mezdn&yacute; pracovn&iacute;k</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43F;&#x43B;&c_a;&c_ch;&c_u;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_a;&c_j;&#x43C;&c_a;&#x43D;&c_i;&c_j; &#x43F;&c_r;&c_a;&c_c;&c_ib;&c_v;&#x43D;&c_i;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="salajr.0i">
@@ -149,7 +185,7 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>platit mzdu</trd>,
-    <trd>vyplácet mzdu</trd>
+    <trd>vypl&aacute;cet mzdu</trd>
   </trdgrp>
   <trd lng="de">bezahlen</trd>
   <trdgrp lng="en">
@@ -162,15 +198,25 @@
   </trdgrp>
   <trd lng="fr">salarier</trd>
   <trd lng="hu">fizet<klr tip="ind"> (b&eacute;rt)</klr></trd>
-  <trd lng="id">[<ind>gaji</ind>] menggaji</trd>
+  <trd lng="id">meng<ind>gaji</ind></trd>
   <trdgrp lng="it">
     <trd>salariare</trd>,
-    <trd>stipendiare</trd>, 
+    <trd>stipendiare</trd>,
     <trd>retribuire</trd>
   </trdgrp>
+  <trd lng="ja">&#x7D66;&#x6599;&#x3092;&#x6255;&#x3046;  [<ind>&#x304D;&#x3085;&#x3046;&#x308A;&#x3087;&#x3046;&#x3092;&#x306F;&#x3089;&#x3046;</ind>]</trd>
   <trd lng="nl">salari&euml;ren</trd>
+  <trdgrp lng="pl">
+    <trd>p&lstroke;aci&cacute; <ind>pensj&eogonek;</ind></trd>,
+    <trd>uposa&zdot;a&cacute;</trd>,
+    <trd>wynagradza&cacute;</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_l;&c_a;&c_t;&c_i;&c_t;&c_mol; &c_z;&c_a;&c_r;&c_p;&c_l;&c_a;&c_t;&c_u;</trd>
-  <trd lng="sk">dávať mzdu</trd>
+  <trd lng="sk">d&aacute;va&tcaron; mzdu</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43F;&#x43B;&c_a;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43F;&c_r;&c_a;&c_c;&#x44E;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_z;&c_a;&c_r;&#x43E;&c_b;&c_ib;&c_t;&#x43D;&c_u; &#x43F;&#x43B;&c_a;&c_t;&c_u;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="salajr.krom0o">
@@ -178,59 +224,51 @@
   <snc mrk="salajr.krom0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Ekstra pago ordinare kalkulata la&ubreve; 
+      Ekstra pago ordinare kalkulata la&ubreve;
       interkonsento;
       <ref tip="sin" cel="bonifik.0o.EKON">bonifiko</ref>:
       <ekz>
         la regula novjara krom<tld/>o estos du j&ubreve;anoj
         <fnt>
           <aut>Lao She, trad. Wang Chongfang</aut>,
-          <vrk><url
-          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
           Kamelo &Scirc;jangzi</url></vrk>,
           <lok>1988</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_e;&c_m;&c_ib;&c_ja;</trd>,
+    <trd>&c_b;&c_o;&c_n;&c_u;&c_s;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
-    <trd>odměna</trd>,
-    <trd>prémie</trd>,
-    <trd>příplatek ke mzdě</trd>
+    <trd>odm&ecaron;na</trd>,
+    <trd>pr&eacute;mie</trd>,
+    <trd>p&rcaron;&iacute;platek ke mzd&ecaron;</trd>
   </trdgrp>
   <trd lng="fr">prime<klr> (compl&eacute;ment de salaire)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DC;&#x30FC;&#x30CA;&#x30B9;  [<ind>&#x307C;&#x30FC;&#x306A;&#x3059;</ind>]</trd>,
+    <trd>&#x8CDE;&#x4E0E;  [<ind>&#x3057;&#x3087;&#x3046;&#x3088;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">dieta</trd>
   <trdgrp lng="sk">
     <trd>odmena</trd>,
-    <trd>prémie</trd>
+    <trd>pr&eacute;mie</trd>
   </trdgrp>
+  <trd lng="uk">&c_d;&#x43E;&c_d;&c_a;&c_t;&#x43A;&#x43E;&c_v;&c_a; &#x43E;&#x43F;&#x43B;&c_a;&c_t;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.25  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.31 2023/07/25 20:25:42
+Vito Redsky: +trd pl 
 
-Revision 1.24  2014/12/20 21:10:16  revo
-Jeromo Vasxe: + krom~o
+versio 1.29 2021/08/11 07:30:08
+Dmitri Gabinski: + trd be
 
-Revision 1.23  2014/06/13 20:10:24  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.22  2011/12/11 15:10:15  revo
-Marc Rausell: +trd ca
-
-Revision 1.21  2010/07/13 16:30:20  revo
-Agustin Garcia Lopez: +trd es
-
-Revision 1.20  2009/09/22 17:18:04  revo
-Antonio Codazzi: +trd it
-
-Revision 1.19  2009/06/14 16:31:36  revo
-Wieland Pusch: +trd bg,de
-
-Revision 1.18  2009/06/11 16:30:16  revo
-Russ Williams: +trd en
-
-Revision 1.17  2006/02/07 17:31:10  revo
+versio 1.27 2020/05/01 15:10:16
+Eko Nur Syah Hidayat: korekteto
 -->
 </vortaro>

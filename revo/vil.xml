@@ -1,21 +1,59 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vil.xml,v 1.23 2023/09/05 09:43:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vil</rad>/a
 </kap>
 <drv mrk="vil.0a">
   <kap><ofc>*</ofc><tld/>a</kap>
-  <snc>
+  <snc mrk="vil.0a.KOMUNE">
     <dif>
-      Kovrita per densaj mallongaj haroj:
+      Kovrita per densaj mallongaj, eble iom malordaj, <ref cel="har.0o">haro</ref>j:
       <ekz>
-        <tld/>a hundo<fnt>Z</fnt>.
+        gaje balancante la <tld/>an kapeton, la infano babiladis
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        prezentu al vi la nigre-brunan, sulkoplenan, <tld/>an virina&ccirc;on dancanta anta&ubreve;
+        mi kaj &jcirc;urpetanta min per sia virgulina &ccirc;asteco...
+        <fnt>
+          <bib>Rabistoj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> indi&gcirc;enoj <klr>[&#x2026;]</klr> en siaj <tld/>aj peltaj jakoj prezentis
+        strangan vida&jcirc;on
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Ccirc;e la plej ekstrema maro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la hundo, granda kaj <tld/>a <klr>[&#x2026;]</klr> staras anta&ubreve; mi
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la uro <klr>[&#x2026;]</klr> kaj lia malpala, <tld/>a korpo tiel kuntiri&gcirc;is, ke li
+        &scirc;ajnis simila al grandega globo
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="frangx.0o">fran&gcirc;o</ref>,
+      <ref cel="fel.0o">felo</ref>,
+      <ref cel="hirt.0a.konfuze">hirta<sncref/></ref>,
+      <ref cel="tauxz.0i.malordige">ta&ubreve;zi<sncref/></ref>,
+      <ref cel="tuf.0o">tufo</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_a;&c_s;&c_m;&c_a;&c_t;&c_y;</trd>,
@@ -25,7 +63,11 @@
     <trd>&c_k;&c_u;&c_d;&c_l;&c_a;&c_t;&c_y;</trd>
   </trdgrp>
   <trd lng="cs">vil&oacute;zn&iacute;</trd>
-  <trd lng="de">zottig</trd>
+  <trdgrp lng="de">
+    <trd>zottig</trd>,
+    <trd>struppig</trd>,
+    <trd>kraus</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>villous</trd>,
     <trd>shaggy</trd>,
@@ -38,8 +80,16 @@
     <trd>velloso</trd>,
     <trd>velludo</trd>
   </trdgrp>
-  <trd lng="fr">villeux</trd>
+  <trdgrp lng="fr">
+    <trd>velu</trd>,
+    <trd>villeux</trd>
+  </trdgrp>
   <trd lng="hu">sz&odblac;r&odblac;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6BDB;&#x3067;&#x8986;&#x308F;&#x308C;&#x305F;  [<ind>&#x3051;&#x3067;&#x304A;&#x304A;&#x308F;&#x308C;&#x305F;</ind>]</trd>,
+    <trd>&#x6BDB;&#x3080;&#x304F;&#x3058;&#x3083;&#x3089;&#x306E;  [<ind>&#x3051;&#x3080;&#x304F;&#x3058;&#x3083;&#x3089;&#x306E;</ind>]</trd>,
+    <trd>&#x3051;&#x3070;&#x7ACB;&#x3063;&#x305F;  [<ind>&#x3051;&#x3070;&#x305F;&#x3063;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ruig</trd>
   <trdgrp lng="pl">
     <trd>kosmaty</trd>,
@@ -53,15 +103,38 @@
     <trd>chlpat&yacute;</trd>,
     <trd>hu&ncaron;at&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_sh;&c_l;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_o;&c_s;&c_m;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_u;&c_d;&c_l;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_a;&c_t;&c_l;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_je;&c_l;&c_je;&c_h;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_o;&c_l;&c_o;&c_h;&c_a;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_k;&c_r;&c_i;&c_t;&c_i;&c_j; &c_p;&c_u;&c_sh;&c_k;&c_o;&c_m;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vil.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="vil.0o.KOMUNE">
     <dif>
-      Tufo da haroj &ccirc;e supra&jcirc;o de kelkaj membranoj:
+      Ta&ubreve;za&jcirc;o, lobeto, <ref cel="frangx.0o">fran&gcirc;o</ref> eli&gcirc;anta de io mola:
       <ekz>
-        la <tld/>oj de la stomako.
+        la vento furioze &scirc;iris <tld/>ojn de la nigra fumo
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multkoloraj nubetoj kovris kvaza&ubreve; per siaj <tld/>oj la hele bluan &ccirc;ielon
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">ANA</uzo>
+        la <tld/>oj de la <ref tip="malprt" cel="intest.0o">intesto</ref>, 
+        de la <ref tip="malprt" cel="placen.0o">placento</ref>.
       </ekz>
     </dif>
   </snc>
@@ -78,6 +151,11 @@
     <trd>podsada srsti</trd>,
     <trd>srst</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Zottel</trd>,
+    <trd>Zotte</trd>,
+    <trd>Villus</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>villus</trd>,
     <trd>tuft of hair</trd>
@@ -87,6 +165,13 @@
   <trdgrp lng="hu">
     <trd>serte</trd>,
     <trd>s&ouml;rte</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3051;&#x3070;</trd>,
+    <trd>&#x77ED;&#x6BDB;  [<ind>&#x305F;&#x3093;&#x3082;&#x3046;</ind>]</trd>,
+    <trd>&#x3080;&#x304F;&#x6BDB;  [<ind>&#x3080;&#x304F;&#x3052;</ind>]</trd>,
+    <trd>&#x30D1;&#x30A4;&#x30EB;</trd>,
+    <trd>&#x7D68;&#x6BDB;  [<ind>&#x3058;&#x3085;&#x3046;&#x3082;&#x3046;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">haarbosje</trd>
   <trdgrp lng="pl">
@@ -105,10 +190,28 @@
     <trd>klk</trd>,
     <trd>srs&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_a;&c_t;&c_l;&c_a;</trd>,
+    <trd>&c_k;&c_u;&c_d;&c_l;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_s;&c_m;&c_a;&c_k;</trd>,
+    <trd>&c_p;&c_je;&c_l;&c_je;&c_h; (&c_v;&c_o;&c_v;&c_n;&c_i;</trd>,
+    <trd>&c_v;&c_o;&c_l;&c_o;&c_s;&c_s;&c_ja;)</trd>,
+    <trd>&c_p;&c_u;&c_sh;&c_o;&c_k; (&c_n;&c_a; &c_f;&c_r;&c_u;&c_k;&c_t;&c_a;&c_h; &c_ib; &c_t;.&c_p;.)</trd>,
+    <trd>&c_v;&c_o;&c_r;&c_s;&c_i;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/04/23 20:24:05
+Jeromo Vasxe: ~a + 1 trd fr
+
+versio 1.20 2022/02/27 15:31:08
+Wolfram Diestel: +ref
+
+versio 1.19 2021/07/09 20:27:43
+Wolfram Diestel: +ekz-oj, +ref-oj, +trd de
+
 Revision 1.17  2016/09/17 09:10:13  revo
 Carlos Garcia: +trd es -a -o
 
@@ -122,11 +225,5 @@ Revision 1.14  2014/06/17 07:10:13  revo
 Damien Brucker: +trd fr
 
 Revision 1.13  2009/06/05 16:30:57  revo
-Russ Williams: +trd en
-
-Revision 1.12  2005/07/08 16:31:44  revo
-Yury Finkel: +trd ru
-
-Revision 1.11  2005/02/03 17:33:05  revo
 -->
 </vortaro>

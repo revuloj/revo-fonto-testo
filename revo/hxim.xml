@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hxim.xml,v 1.8 2009/04/24 16:31:23 revo Exp $">
+<art mrk="$Id: hxim.xml,v 1.14 2023/08/31 15:46:20 revo Exp $">
 <kap>
   <rad>&hcirc;im</rad>/o,
-  <var><kap><rad>&ccirc;im</rad>/o</kap></var>
+  <var><kap><rad var="&ccirc;">&ccirc;im</rad>/o</kap></var>
 </kap>
 <drv mrk="hxim.0o">
   <kap><tld/>o,
-    <var><kap>&ccirc;imo</kap></var>
+    <var><kap><tld var="&ccirc;"/>o</kap></var>
   </kap>
   <snc>
    <uzo tip="fak">BIO</uzo>
@@ -27,18 +26,15 @@
         kaj parte solida
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=35404"
-              >&Ccirc;imo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=35404">&Ccirc;imo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         post 2 &gcirc;is 5 horoj, la digesta fluido konvertas la nutra&jcirc;on en
-        &ccirc;imon, kaj la
-        &ccirc;imo eniras la duodenon
+        <tld var="&ccirc;"/>on, kaj la <tld var="&ccirc;"/>o eniras la duodenon
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=856"
-              >Digesta sistemo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=856">Digesta sistemo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -66,7 +62,11 @@
    </trdgrp>
    <trd lng="fr">chyme</trd>
    <trd lng="it">chimo</trd>
-   <trdgrp lng="pl">
+   <trdgrp lng="ja">
+    <trd>&#x7CDC;&#x7CA5;  [<ind>&#x3073;&#x3058;&#x3085;&#x304F;</ind>]</trd>,
+    <trd>&#x6D88;&#x5316;&#x7CA5;  [<ind>&#x3057;&#x3087;&#x3046;&#x304B;&#x304B;&#x3086;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
      <trd>chymus</trd>,
      <trd>mlecz</trd>,
      <trd>tre&sacute;&cacute; &zdot;o&lstroke;&aogonek;dka</trd>,
@@ -74,11 +74,18 @@
    </trdgrp>
    <trd lng="pt">quimo<klr tip="amb"> (fisiologia)</klr></trd>
    <trd lng="ru">&c_h;&c_i;&c_m;&c_u;&c_s;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x445;&#x456;&#x43C;&#x443;&#x441;</trd>,
+    <trd>&#x432;&#x43C;&#x456;&#x441;&#x442; &#x442;&#x43E;&#x43D;&#x43A;&#x438;&#x445; &#x43A;&#x438;&#x448;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.12 2020/09/06 16:32:34
+Wolfram Diestel: +tld-var
+
 Revision 1.10  2019/02/03 08:10:15  revo
 Wolfram Diestel: kor. ref-cel
 

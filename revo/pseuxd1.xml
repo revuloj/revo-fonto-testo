@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pseuxd1.xml,v 1.24 2022/06/26 22:28:55 revo Exp $">
 <kap>
    <ofc>2</ofc>
    <rad>pse&ubreve;donim</rad>/o <fnt><bib>PV</bib></fnt>,
-   <var><kap><rad>pse&ubreve;donom</rad>/o</kap></var>
+   <var><kap><rad var="o">pse&ubreve;donom</rad>/o</kap></var>
 </kap>
 <drv mrk="pseuxd1.0o">
-   <kap><tld/>o, <var><kap>pse&ubreve;donomo</kap></var></kap>
+   <kap><tld/>o, <var><kap><tld var="o"/>o</kap></var></kap>
    <snc mrk="pseuxd1.0o.KOMUNE">
      <dif>
        <ref tip="dif" cel="nom.kasx0o.KOMUNE">Ka&scirc;nomo</ref>:
@@ -28,7 +27,7 @@
        <ekz>
         &leftquot;vi ne vidos mian nomon&rightquot;, la libristo respondis 
         kun petola brilo en la okulvitroj, &leftquot;mi uzas 
-        pse&ubreve;donomon&rightquot;
+        <tld var="o"/>on&rightquot;
         <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li bremsis 
         sufi&ccirc;e?</vrk>, <lok>1979</lok></fnt>.
       </ekz>
@@ -53,13 +52,25 @@
      <trd>schuilnaam</trd>,
      <trd>pseudoniem</trd>
    </trdgrp>
+   <trd lng="pl">pseudonim</trd>
    <trd lng="pt">pseud&ocirc;nimo</trd>
+   <trd lng="ro">pseudonim</trd>
    <trd lng="ru">&c_p;&c_s;&c_je;&c_v;&c_d;&c_o;&c_n;&c_i;&c_m;</trd>
    <trd lng="sv">pseudonym</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_s;&c_je;&c_v;&c_d;&#x43E;&#x43D;&c_ib;&#x43C;</trd>,
+    <trd>&#x43F;&c_s;&c_je;&c_v;&c_d;&#x43E;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2022/06/26 22:28:55
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.22 2020/09/07 20:10:34
+Wolfram Diestel: +tld-var
+
 Revision 1.20  2014/12/13 14:10:14  revo
 Jeromo Vasxe: ref dif
 
@@ -76,8 +87,5 @@ Revision 1.16  2009/06/23 16:31:29  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.15  2009/02/23 17:30:59  revo
-Russ Williams: +trd en
-
-Revision 1.14  2006/04/12 16:31:32  revo
 -->
 </vortaro>

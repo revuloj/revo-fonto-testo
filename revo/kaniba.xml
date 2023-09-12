@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kaniba.xml,v 1.16 2007/05/31 17:39:13 revo Exp $">
+<art mrk="$Id: kaniba.xml,v 1.25 2023/08/31 19:24:10 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kanibal</rad>/o <fnt><bib>PV</bib></fnt>
@@ -52,6 +51,7 @@
   </trdgrp>
   <trd lng="en">cannibal</trd>
   <trd lng="es">can&iacute;bal</trd>
+  <trd lng="ja">&#x98DF;&#x4EBA;&#x7A2E;  [<ind>&#x3057;&#x3087;&#x304F;&#x3058;&#x3093;&#x3057;&#x3085;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>kannibaal</trd>,
     <trd>menseneter</trd>
@@ -61,6 +61,10 @@
     <trd>&c_l;&c_ju;&c_d;&c_o;&c_je;&c_d;</trd>
   </trdgrp>
   <trd lng="sk">&lcaron;udo&zcaron;r&uacute;t</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&#x43D;&c_ib;&c_b;&c_a;&#x43B;</trd>,
+    <trd>&#x43B;&#x44E;&c_d;&#x43E;&c_zh;&c_je;&c_r;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kaniba.0ismo">
@@ -75,25 +79,43 @@
         neniigitaj
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref="http://eo.wikipedia.org/wiki/Kokcinelo">
+          <lok><url ref="&Viki;/Kokcinelo">
           kokcinelo</url>, 2011-11-07</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_n;&c_ib;&c_b;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>,
+    <trd>&c_l;&c_ju;&c_d;&c_a;&c_zh;&c_e;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>kanibalizmus</trd>,
     <trd>kanibalstv&iacute;</trd>,
     <trd>lidojedstv&iacute;</trd>
   </trdgrp>
   <trd lng="fr">cannibalisme</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EBA;&#x98DF;&#x3044;  [<ind>&#x3072;&#x3068;&#x304F;&#x3044;</ind>]</trd>,
+    <trd>&#x6B8B;&#x5FCD;&#x306A;&#x884C;&#x70BA;  [<ind>&#x3056;&#x3093;&#x306B;&#x3093;&#x306A;&#x3053;&#x3046;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">kanibalizm</trd>     
   <trd lng="ro">canibalism</trd>
   <trd lng="sk">kanibalizmus</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&#x43D;&c_ib;&c_b;&c_a;&#x43B;&c_ib;&c_z;&#x43C;</trd>,
+    <trd>&#x43B;&#x44E;&c_d;&#x43E;&c_zh;&c_je;&c_r;&c_s;&c_t;&c_v;&#x43E;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/01/13 10:33:04
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.20  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -110,8 +132,5 @@ Revision 1.16  2007/05/31 17:39:13  revo
 Wieland Pusch: +trd de
 
 Revision 1.15  2004/10/31 17:33:32  revo
-Marc Bavant: ~o 2: -dif, +ref al hommangxulo; mod trd fr; +uzo ZOO, mod
-mrk
-
 -->
 </vortaro>

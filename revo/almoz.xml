@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: almoz.xml,v 1.24 2010/03/03 17:30:52 revo Exp $">
+<art mrk="$Id: almoz.xml,v 1.40 2023/08/30 18:23:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>almoz</rad>/o
@@ -11,8 +10,61 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="almoz.0o.KOMUNE">
     <dif>
-      Mondonaco, monhelpo al malri&ccirc;ulo:
-      <ekz>petadi <tld/>on<fnt>Z</fnt>.</ekz>
+      Mon<ref tip="super" cel="donac.0o">donaco</ref>, 
+      <ref tip="super" cel="help.mon0o">monhelpo</ref> al malri&ccirc;ulo:
+      <ekz>
+        blindulo sidis apud la vojo, petante <tld/>ojn
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 18:35</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam vi donos <tld/>on, ne sonigu trumpeton anta&ubreve; vi, kiel faras la hipokrituloj
+        en la sinagogoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 6:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i la unuan fojon etendus la manon por <tld/>o
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        for! al sanaj kaj fortaj mi <tld/>on ne donas
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[dum]</klr> la tuta tago neniu ion a&ccirc;etis de &scirc;i, neniu donis al &scirc;i <tld/>on
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Knabineto kun alumetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        elpremi bagatelan <tld/>on per strata kantado
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li trapasis la urban pordegon <klr>[&#x2026;]</klr> en la mano brunan <tld/>an telereton
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj ne malri&ccirc;igas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -32,11 +84,13 @@
   </trdgrp>
   <trd lng="es">limosna</trd>
   <trd lng="fr">aum&ocirc;ne</trd>
+  <trd lng="he">&nun;&#x5B0;&dalet;&#x5B8;&bet;&#x5B8;&he;</trd>
   <trdgrp lng="id">
     <trd>amal</trd>,
     <trd>derma</trd>,
     <trd>sedekah</trd>
   </trdgrp>
+  <trd lng="ja">&#x65BD;&#x3057;&#x7269;  [<ind>&#x307B;&#x3069;&#x3053;&#x3057;&#x3082;&#x306E;</ind>]</trd>
   <trd lng="nl">aalmoes</trd>
   <trd lng="pl">ja&lstroke;mu&zdot;na</trd>
   <trd lng="pt">esmola</trd>
@@ -47,15 +101,52 @@
   </trdgrp>
   <trd lng="sk">almu&zcaron;na</trd>
   <trd lng="sv">allmosa</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_i;&#x43B;&#x43E;&c_s;&c_t;&c_i;&#x43D;&#x44F;</trd>,
+    <trd>&#x43F;&#x43E;&c_d;&c_a;&c_ch;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="almoz.0i">
-  <kap><tld/>i, <var><kap><tld/>peti<fnt>Z</fnt></kap></var></kap>
+  <kap><tld/>i, <var><kap><tld/>elpeti</kap></var></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="almoz.0i.almozpeti">
     <dif>
-      Peti <tld/>e:
-      <ekz>kiu tro ripozas, balda&ubreve; <tld/>as<fnt>Z</fnt>.</ekz>
+      <ref tip="super" cel="pet.0i">Peti</ref> <tld/>e:
+      <ekz>
+        la infanoj estas devigataj <tld/>i
+        <fnt>
+        <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2003/008043.html">Seksa sklaveco: &ccirc;u defio al la 21a
+          jarcento?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/09, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>as kiel batita hundo
+        <fnt>
+          <aut>Anna L&ouml;wenstein</aut>
+          <vrk>La &scirc;tona urbo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi eltiros la manon... mi <tld/>elpetos... murmuretis al si Marta
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu tro ripozas, balda&ubreve; <tld/>as
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>e elpetadis al si panon anta&ubreve; la pordoj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -78,9 +169,10 @@
     <trd>demander l'<ind>aum&ocirc;ne</ind></trd>,
     <trd>mendier</trd>
   </trdgrp>
+  <trd lng="he">&lamed;&qof;&bet;&ftsadi; &nun;&dalet;&bet;&vav;&tav;</trd>
   <trdgrp lng="id">
-    <trd>[<ind>kemis</ind>] mengemis</trd>,
-    <trd>[<ind>minta</ind>] meminta</trd>
+    <trd><baz>kemis</baz>mengemis</trd>,
+    <trd>me<ind>minta</ind></trd>
   </trdgrp>
   <trd lng="nl">bedelen</trd>
   <trd lng="pl">&zdot;ebra&cacute;</trd>
@@ -95,16 +187,65 @@
   </trdgrp>
   <trd lng="sk">&zcaron;obra&tcaron;</trd>
   <trd lng="sv">tigga</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&#x43B;&c_i;&c_d;&c_a;&c_r;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_zh;&c_je;&c_b;&c_r;&c_a;&c_ch;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_c;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="almoz.0ulo">
   <kap><tld/>ulo</kap>
   <snc mrk="almoz.0ulo.KOMUNE">
     <dif>
-      Homo, kiu petas pri <tld/>o.
+      Petanto pri <tld/>o:
+      <ekz>
+        mi renkontis sur la vojo tri <tld/>ulojn kaj donis al &ccirc;iu kvaronon da bulo kaj
+        unu gro&scirc;on
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Kamarado Gaja</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi, <tld/>ulo, estas e&ccirc; por danko tro malri&ccirc;a
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Tolstoj</nom> haltis kaj donis el sia monujo du ar&gcirc;entajn monerojn <klr>[&#x2026;]</klr> al
+        la <tld/>ulo, kiu surprizita pro la malavara donaco plenigis lian manon per
+        kisoj
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvankam li estas preska&ubreve; <tld/>ulo, sed li alportas al la urbo re&gcirc;an donacon: li
+        proponas al &gcirc;i sian projekton
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        almena&ubreve; trovas bonegan pretekston por forpeli el mia domo tiun almozulinon; &ccirc;ar
+        mi &ccirc;iam timis, ke mi estos devigata nomi &scirc;in iam: mia filino
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pastro klini&gcirc;is &gcirc;is la tero, prenis, sen vorto, la <tld/>ulan pladeton kaj
+        revenis vila&gcirc;on
+        <fnt>
+          <bib>IKr</bib>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_zh;&c_a;&c_b;&c_r;&c_a;&c_k;</trd>
+  <trd lng="bo">&t_sa;&t_pata;&t_rata;&t_nga;&t_tsheg;&t_pa;&t_naro;&t_tsheg;</trd>
   <trdgrp lng="br">
     <trd>klasker-bara</trd>,
     <trd>klasker-boued</trd>
@@ -121,10 +262,12 @@
     <trd>mendigo</trd>
   </trdgrp>
   <trd lng="fr">mendiant</trd>
+  <trd lng="he">&qof;&#x5B7;&bet;&#x5BC;&#x5B0;&tsadi;&#x5B8;&fnun;</trd>
   <trdgrp lng="id">
-    <trd>[<ind>kemis</ind>] pengemis</trd>,
-    <trd>[<ind>minta</ind>] peminta-minta</trd>
+    <trd><baz>kemis</baz> pengemis</trd>,
+    <trd>pe<ind>minta</ind>-minta</trd>
   </trdgrp>
+  <trd lng="ja">&#x4E5E;&#x98DF;  [<ind>&#x307B;&#x3044;&#x3068;&#x3046;</ind>]</trd>
   <trd lng="nl">bedelaar</trd>
   <trd lng="pl">&zdot;ebrak</trd>
   <trdgrp lng="pt">
@@ -134,13 +277,31 @@
   <trd lng="ru">&c_n;&c_i;&c_shch;&c_i;&c_j;</trd>
   <trd lng="sk">&zcaron;obr&aacute;k</trd>
   <trd lng="sv">tiggare</trd>
+  <trdgrp lng="uk">
+    <trd>&c_zh;&c_je;&c_b;&c_r;&c_a;&#x43A;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="almoz.0ulejo">
   <kap><tld/>ulejo</kap>
   <snc mrk="almoz.0ulejo.KOMUNE">
     <dif>
-      Rifu&gcirc;domo por <tld/>uloj.
+      <ref tip="super" cel="rifugx.0ejo">Rifu&gcirc;ejo</ref> por <tld/>uloj:
+      <ekz>
+        &gcirc;is revido en la <tld/>ulejo
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la lando i&gcirc;is ekde la 17a jarcento iaspeca <tld/>ulejo
+        <fnt>
+          <bib>MD11</bib>
+          <vrk> Ekonomia sadismo</vrk>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_t;&c_u;&c_l;&c_a;&c_k; 
@@ -160,6 +321,7 @@
     <trd>albergue para personas sin hogar</trd>,
     <trd>refugio para pobres</trd>
   </trdgrp>
+  <trd lng="he">&bet;&yod;&tav; &tsadi;&dalet;&qof;&he;</trd>
   <trd lng="pl">przytu&lstroke;ek</trd>
   <trd lng="pt">asilo <klr>de mendigos</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_ju;&c_t; 
@@ -168,10 +330,25 @@
 </drv>
 
 <drv mrk="almoz.0isto">
-  <kap><tld/>isto</kap>
+  <kap><tld/>isto, <var><kap><tld/>opetisto</kap></var></kap>
   <snc mrk="almoz.0isto.KOMUNE">
     <dif>
-      Homo, kiu elvivas per <tld/>oj.
+      Homo, kiu vivtenas sin per <tld/>oj:
+      <ekz>
+        e&ccirc; <tld/>istoj konspiras kontra&ubreve; mi
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Dia pardono mem devus fari&gcirc;i <tld/>opetisto, la senlima indulgo devus
+        bankroti, se &gcirc;i volus pardoni &ccirc;iujn miajn kulpojn
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -189,10 +366,12 @@
     <trd>mendicant</trd>,
     <trd>almsman</trd>
   </trdgrp>
+ <trd lng="he">&qof;&#x5B7;&bet;&#x5BC;&#x5B0;&tsadi;&#x5B8;&fnun;</trd>
   <trdgrp lng="id">
-    <trd>[<ind>kemis</ind>] pengemis</trd>,
-    <trd>[<ind>minta</ind>] peminta-minta</trd>
+    <trd><baz>kemis</baz> pengemis</trd>,
+    <trd>pe<ind>minta</ind>-minta</trd>
   </trdgrp>
+  <trd lng="ja">&#x65BD;&#x7269;&#x5206;&#x914D;&#x50E7;  [<ind>&#x307B;&#x3069;&#x3053;&#x3076;&#x3064;&#x3076;&#x3093;&#x3071;&#x3044;&#x305D;&#x3046;</ind>]</trd>
   <trd lng="nl">bedelaar</trd>
   <trd lng="pt">mendigo</trd>
   <trdgrp lng="es">
@@ -209,8 +388,16 @@
   <kap><tld/>kesto</kap>
   <snc mrk="almoz.0kesto.KOMUNE">
     <dif>
-      Kesto en pre&gcirc;ejo kaj samspecaj lokoj, destinita ricevadi
-      <tld/>ojn.
+      <ref tip="super" cel="kest.0o">Kesto</ref> en pre&gcirc;ejo kaj samspecaj lokoj, destinita ricevadi
+      <tld/>ojn:
+      <ekz>
+        <tld/>kesto, fundamenta religiero
+        <fnt>
+          <aut>Miguel Fern&aacute;ndez</aut>
+          <vrk>La vorto kaj la vento. Rakonta koliero</vrk>
+          <lok>p. 177</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_r;&c_y;&c_n;&c_k;&c_a; <klr>(&c_n;&c_a; 
@@ -225,7 +412,9 @@
   <trd lng="en">poor box</trd>
   <trd lng="es">cesta de limosnas</trd>
   <trd lng="fr">tronc</trd>
+  <trd lng="he">&tav;&yod;&bet;&tav; &nun;&dalet;&bet;&he;</trd>
   <trd lng="id"><ind>kotak</ind> amal</trd>
+  <trd lng="ja">&#x6148;&#x5584;&#x7BB1;  [<ind>&#x3058;&#x305C;&#x3093;&#x3070;&#x3053;</ind>]</trd>
   <trd lng="nl">offerblok</trd>
   <trd lng="pt">caixa de esmolas</trd>
   <trd lng="sk">schr&aacute;nka na dary</trd>
@@ -235,7 +424,17 @@
   <kap><tld/>sako</kap>
   <snc mrk="almoz.0sako.KOMUNE">
     <dif>
-      Sako, en kiun <tld/>ulo metas la ricevita&jcirc;ojn.
+      <ref tip="super" cel="sak.0o">Sako</ref>, en kiun <tld/>ulo metas la ricevita&jcirc;ojn:
+      <ekz>
+        mi &ccirc;iam esperis, ke anka&ubreve; la malri&ccirc;uloj venos al la meso, enrigardante la
+        <tld/>osakon mi rimarkas, ke nur ili venadas
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="&Monato;/2000/007091.php">Pastro en la sakristio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/09, p. 26</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_o;&c_r;&c_b;&c_a; 
@@ -250,42 +449,21 @@
   <trd lng="ru">&c_s;&c_u;&c_m;&c_a; 
     <klr>(&c_n;&c_i;&c_shch;&c_je;&c_n;&c_s;&c_k;&c_a;&c_ja;)</klr></trd>
   <trd lng="sk">&zcaron;obr&aacute;cka ta&scaron;ka</trd>
+  <trd lng="uk">(&c_zh;&c_je;&c_b;&c_r;&c_a;&c_c;&#x44C;&#x43A;&c_a;) &c_t;&#x43E;&c_r;&c_b;&c_a;</trd>
 </drv>
 
-<drv mrk="almoz.0doni">
-  <kap><tld/>doni</kap>
-  <gra><vspec>ntr</vspec></gra>
+<drv mrk="almoz.0donanto">
+  <kap><tld/>donanto</kap>
   <snc>
     <dif>
-      Doni <tld/>on:
-      <ekz>sur la &scirc;ultroj de la <tld/>donantoj<fnt>Z</fnt>.</ekz>
+      Donanto de <tld/>o:
+      <ekz>
+        sur la &scirc;ultroj de la <tld/>donantoj
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
     </dif>
   </snc>
-  <trdgrp lng="be">
-    <trd>&c_p;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; 
-      <klr>(&c_m;&c_ib;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_n;&c_u;)</klr></trd>,
-      
-    <trd>&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
-      
-    
-  </trdgrp>
-  <trd lng="br">rei&ntilde; an <ind>aluzen</ind></trd>
-  <trdgrp lng="cs">
-    <trd>d&aacute;t almu&zcaron;nu</trd>,
-    <trd>d&aacute;vat almu&zcaron;nu</trd>
-  </trdgrp>
-  <trd lng="en">give alms</trd>
-  <trd lng="es">dar <ind>limosna</ind></trd>
-  <trd lng="fr">faire l'aum&ocirc;ne</trd>
-  <trdgrp lng="id">
-    <trd>[<ind>amal</ind>] beramal</trd>,
-    <trd>[<ind>derma</ind>] bederma</trd>,
-    <trd>[<ind>sedekah</ind>] bersedekah</trd>
-  </trdgrp>
-  <trd lng="pt">dar <ind>esmolas</ind></trd>
-  <trd lng="ru">&c_p;&c_o;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; 
-    <klr>(&c_n;&c_i;&c_shch;&c_i;&c_m;)</klr></trd>
-  <trd lng="sk">da&tcaron; almu&zcaron;nu</trd>
+<trd lng="de">Spender</trd>
 </drv>
 
 <drv mrk="almoz.0donema">
@@ -293,11 +471,19 @@
   <snc>
   <uzo tip="fak">EKON</uzo>
     <dif>
-      Volonte kaj malavare donanta <tld/>ojn.
+      Volonte kaj malavare donanta <tld/>ojn:
+      <ekz>
+        &ccirc;iuj, tre <tld/>donemaj, volas nun helpi la malri&ccirc;ajn kaj malsatajn argentinanojn
+        <fnt>
+          <aut>Ro Sartor</aut>
+          <vrk><url ref="&Monato;/2002/pdf/monato200202.pdf#page=8">Ploru pri Argentino!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/02, p. 8</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_m;&c_ib;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_v;&c_y;</trd>
+  <trd lng="be">&c_m;&c_ib;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_v;&c_y;</trd>
   <trd lng="br">aluzenus</trd>
   <trdgrp lng="cs">
     <trd>naklon&ecaron;n d&aacute;vat almu&zcaron;nu</trd>,
@@ -305,36 +491,35 @@
   </trdgrp>
   <trdgrp lng="de">
     <trd>wohlt&auml;tig</trd>,
-    <trd>karitativ</trd>
+    <trd>karitativ</trd>,
+    <trd>spendenfreudig</trd>,
+    <trd>spendabel</trd>
   </trdgrp>
   <trd lng="en">charitable</trd>
   <trd lng="es">caritativo</trd>
   <trd lng="fr">charitable</trd>
+  <trd lng="he">&nun;&dalet;&bet;&he;</trd>
   <trd lng="id">dermawan</trd>
+  <trd lng="ja">&#x6075;&#x307F;&#x6DF1;&#x3044;  [<ind>&#x3081;&#x3050;&#x307F;&#x3075;&#x304B;&#x3044;</ind>]</trd>
   <trd lng="pt">caridoso</trd>
   <trd lng="sk">&scaron;tedr&yacute;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.29  2016/08/22 02:10:16  revo
-Carlos Garcia: +trd es -kesto -sako -ulejo
+versio 1.39 2023/05/20 06:29:57
+Paul Peeraerts: + aut + lok
 
-Revision 1.28  2016/08/10 07:10:35  revo
-Damien Brucker: +trd fr
+versio 1.38 2023/05/20 05:26:56
+Paul Peeraerts: + aut + lok
 
-Revision 1.27  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.37 2023/05/02 15:56:27
+revo: aktualigo URL-unuoj
 
-Revision 1.26  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.35 2021/08/31 06:33:57
+Wolfram Diestel: ekz-oj, ref-oj
 
-Revision 1.25  2014/11/14 09:10:14  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.24  2010/03/03 17:30:52  revo
-Russ Williams: +trd en
-
-Revision 1.23  2006/09/05 15:23:33  revo
+versio 1.32 2020/05/03 05:10:20
+Eko Nur Syah Hidayat: korekteto
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: aspid.xml,v 1.12 2005/04/18 16:32:23 revo Exp $">
+<art mrk="$Id: aspid.xml,v 1.23 2023/08/30 18:23:37 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>aspid</rad>/o
@@ -42,18 +41,14 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julia Sigmond kaj Sen Rodin</aut>
-          <vrk><url ref="https://www.monato.be/2010/009988.php">La mal&jcirc;aluzo de Klorinda</url></vrk>
+          <vrk><url ref="&Monato;/2010/009988.php">La mal&jcirc;aluzo de Klorinda</url></vrk>
         </fnt>.
       </ekz>
     </dif>
-    <bld
-      lok="&WCU;/thumb/2/20/Vipera_aspis_Lothringen_123.jpg/640px-Vipera_aspis_Lothringen_123.jpg"
-      prm="CC-BY-SA-3.0"
-      ><tld/>ino (Vipera aspis)
+    <bld lok="&WCU;/thumb/2/20/Vipera_aspis_Lothringen_123.jpg/640px-Vipera_aspis_Lothringen_123.jpg" prm="CC-BY-SA-3.0"><tld/>ino (Vipera aspis)
         <fnt>
           <aut>Orchi, Self-photographed</aut>
-          <lok><url ref="&WCW;/File:Vipera_aspis_Lothringen_123.jpg"
-              >&WCW;/File:Vipera_aspis_Lothringen_123.jpg</url></lok>
+          <lok><url ref="&WCW;/File:Vipera_aspis_Lothringen_123.jpg">&WCW;/File:Vipera_aspis_Lothringen_123.jpg</url></lok>
         </fnt>
     </bld>
   </snc>
@@ -68,21 +63,27 @@
   <trd lng="de">Aspisviper</trd>
   <trd lng="en">asp</trd>
   <trd lng="fr">aspic (vip&egrave;re)</trd>
+  <trd lng="he">&#x5E6;&#x5E4;&#x5E2;</trd>
   <trdgrp lng="hu">
     <trd>&aacute;spisvipera</trd>,
     <trd>&aacute;spisk&iacute;gy&oacute;</trd>
   </trdgrp>
   <trd lng="it">aspide</trd>
+  <trd lng="ja">&#x30A8;&#x30B8;&#x30D7;&#x30C8;&#x30B3;&#x30D6;&#x30E9;</trd>
   <trdgrp lng="pt">
     <trd>naja</trd>,
     <trd>&aacute;spide</trd>
   </trdgrp>
   <trd lng="ru">&c_a;&c_s;&c_p;&c_i;&c_d; <klr>(&c_z;&c_m;&c_je;&c_ja;)</klr></trd>
   <trd lng="sk">druh vretenice</trd>
+  <trd lng="uk">&#x430;&#x441;&#x43F;&#x456;&#x434;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.18  2018/10/29 17:10:17  revo
 Wolfram Diestel: +ekz-oj, +bld
 
@@ -102,8 +103,5 @@ Revision 1.13  2011/12/05 01:10:18  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.12  2005/04/18 16:32:23  revo
-Alan ar Gall: +trd br
-
-Revision 1.11  2003/11/12 17:31:05  revo
 -->
 </vortaro>

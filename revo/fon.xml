@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fon.xml,v 1.17 2007/06/05 16:30:37 revo Exp $">
+<art mrk="$Id: fon.xml,v 1.28 2023/08/31 13:11:30 revo Exp $">
 <kap><ofc>5</ofc>
   <rad>fon</rad>/o <fnt>Marta</fnt>
 </kap>
@@ -16,7 +15,7 @@
         verda stelo sur blanka <tld/>o;
       </ekz>
       <ekz>
-        brilas sur la brusto ora &ccirc;eneto <klr>[&#8230;]</klr> sur la malluma fono de la surtuto
+        brilas sur la brusto ora &ccirc;eneto <klr>[&#x2026;]</klr> sur la malluma fono de la surtuto
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -53,10 +52,6 @@
       <ref cel="fund.0o">fundo</ref>,
       <ref cel="profun.0o">profundo</ref>.
     </refgrp>
-    <trdgrp lng="be">
-      <trd>&c_t;&c_l;&c_o;</trd>,
-      <trd>&c_f;&c_o;&c_n;</trd>
-    </trdgrp>
     <trdgrp lng="fr">
       <trd>fond<klr tip="ind"> (arri&egrave;re-plan)</klr></trd>,
       <trd>arri&egrave;re-plan</trd>,
@@ -80,7 +75,7 @@
       Io, kio estas apena&ubreve; perceptebla pro alia pli intensa stimulo de la sensoj a&ubreve; konscio:
       <ekz>
         historio estas magia lanterno, kiu per lumbildoj sur la malluma <tld/>o de la
-        epoko montr<klr>[i&gcirc;]</klr>as al ni <klr>[&#8230;]</klr>
+        epoko montr<klr>[i&gcirc;]</klr>as al ni <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Fab3</bib>
           <lok>Dorna vojo de la honoro</lok>
@@ -96,7 +91,7 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        spiritaj plezuroj, kiujn &scirc;i iam <klr>[&#8230;]</klr> &gcirc;uadis <klr>[&#8230;]</klr>, sur la
+        spiritaj plezuroj, kiujn &scirc;i iam <klr>[&#x2026;]</klr> &gcirc;uadis <klr>[&#x2026;]</klr>, sur la
         malluma <tld/>o de &scirc;ia nuna vivo ekbrilis anta&ubreve; &scirc;i per neesprimebla &ccirc;armo
         <fnt>
           <bib>Marta</bib>
@@ -105,11 +100,12 @@
       <ekz>
         en la romano &ccirc;iuj <tld/>a&jcirc;oj pri tiama post-postmilita Okcidenta Germanio kaj
         &gcirc;ia socio estas precizaj
-        <fnt>
+       <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007110.php">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007110.html">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
-        </fnt>;
+          <lok>2001/01, p. 31</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <uzo tip="fak">KOMP</uzo>
@@ -126,15 +122,31 @@
       * Enkonduki &leftquot;kontra&ubreve;virusilo&rightquot;. <aut>MB</aut>
     </adm>
   </snc>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_l;&c_o;</trd>,
+      <trd>&c_f;&c_o;&c_n;</trd>,
+      <trd>&c_z;&c_a;&c_d;&c_n;&c_ib; <ind>&c_p;&c_l;&c_ja;&c_n;</ind></trd>
+    </trdgrp>
   <trdgrp lng="cs">
     <trd>podklad</trd>,
     <trd>spodek</trd>
   </trdgrp>
   <trd lng="de">Hintergrund</trd>
   <trd lng="en">background</trd>
+  <trdgrp lng="ja">
+    <trd>&#x80CC;&#x666F;  [<ind>&#x306F;&#x3044;&#x3051;&#x3044;</ind>]</trd>,
+    <trd>&#x4E0B;&#x5730;  [<ind>&#x3057;&#x305F;&#x3058;</ind>]</trd>,
+    <trd>&#x30DB;&#x30F3;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>podklad</trd>,
     <trd>spodok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_f;&#x43E;&#x43D;</trd>,
+    <trd>&c_t;&#x43B;&#x43E;</trd>,
+    <trd>&#x43F;&#x43E;&#x43B;&c_je;</trd>,
+    <trd>&c_z;&c_a;&c_d;&#x43D;&c_ib;&c_j; &#x43F;&#x43B;&c_a;&#x43D;</trd>
   </trdgrp>
 </drv>
 
@@ -150,7 +162,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bernhard Pabst</aut>
-          <vrk><url ref="https://www.monato.be/2005/008759.php">Internacia festivalo de la muta filmo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008759.php">Internacia festivalo de la muta
+          filmo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -158,8 +171,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mariana Elenova</aut>
-          <vrk><url ref="https://www.monato.be/2013/010917.php"
-              >Optimisma invito al amo</url></vrk>
+          <vrk><url ref="&Monato;/2013/010917.php">Optimisma invito al amo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -172,8 +184,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Reinaldo Marcelo Ferreira</aut>
-          <vrk><url ref="https://www.monato.be/2007/009077.php"
-              >La movada koro sur viddisko</url></vrk>
+          <vrk><url ref="&Monato;/2007/009077.php">La movada koro sur viddisko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -182,7 +193,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lawrence Mee</aut>
-          <vrk><url ref="https://www.monato.be/2005/008283.php">La stelo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008283.php">La stelo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -190,7 +201,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Detlev Blanke</aut>
-          <vrk><url ref="https://www.monato.be/2005/008541.php">Scii pri la faktoj nur nun?</url></vrk>
+          <vrk><url ref="&Monato;/2005/008541.php">Scii pri la faktoj nur
+          nun?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -199,8 +211,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Kees Ruig</aut>
-          <vrk><url ref="https://www.monato.be/2013/010843.php"
-              >Esplorego el Nimego</url></vrk>
+          <vrk><url ref="&Monato;/2013/010843.php">Esplorego el Nimego</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -210,6 +221,11 @@
       <trd>versteckt</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_f;&c_o;&c_n;&c_a;&c_v;&c_y;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x80CC;&#x666F;&#x306E;  [<ind>&#x306F;&#x3044;&#x3051;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x5730;&#x306E;  [<ind>&#x3061;&#x306E;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fon.mal0o">
@@ -222,17 +238,19 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Platteau</aut>
-          <vrk><url ref="https://www.monato.be/2014/011311.php">Fundamento de la moralo</url></vrk>
+          <vrk><url ref="&Monato;/2014/011311.php">Fundamento de la moralo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         la &ccirc;arma virino en la malfono estas el Brandenburgio
         <fnt>
-          <vrk><url ref="http://esperanto-nb.de/informiloj/2018/verda_informilo2018_05.pdf">Videoj kaj fotoj pri &Scirc;EP</url></vrk>,
+          <vrk><url ref="http://esperanto-nb.de/informiloj/2018/verda_informilo2018_05.pdf">Videoj
+          kaj fotoj pri &Scirc;EP</url></vrk>,
           <lok>Verda Informilo, n-ro. 5/2018</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib; <ind>&c_p;&c_l;&c_ja;&c_n;</ind></trd>
   </snc>
   <snc mrk="fon.mal0o.KOMP">
     <uzo tip="fak">KOMP</uzo>
@@ -240,6 +258,7 @@
       En dialogo kun komputilo, la &ccirc;efa koloro por signoj sur
       la ekrano (kontraste al la <tld/>o).
     </dif>
+    <trd lng="be">&c_k;&c_o;&c_l;&c_je;&c_r; &c_a;&c_s;&c_n;&c_o;&c_w;&c_n;&c_a;&c_g;&c_a; &c_t;&c_e;&c_k;&c_s;&c_t;&c_u;</trd>
     <trdgrp lng="pl">
       <trd>kolor liter</trd>,
       <trd>kolor pierwszego planu</trd>
@@ -255,6 +274,7 @@
     ne simple
     &leftquot;foreground&rightquot;. Same en la franca. <aut>MB</aut>
   </adm>
+  
   <trd lng="de">Vordergrund</trd>
   <trd lng="en">foreground <klr>(a screen color)</klr></trd>
   <trdgrp lng="fr">
@@ -266,7 +286,7 @@
   <trd lng="sv">f&ouml;rgrund</trd>
 </drv>
 
-<drv mrk="fon.0a.regximo">
+<drv mrk="fon.0a_regximo">
   <kap><tld/>a re&gcirc;imo</kap>
   <uzo tip="fak">KOMP</uzo>
   <snc>
@@ -293,6 +313,18 @@
 </art>
 <!--
 $Log$
+versio 1.27 2023/04/17 05:27:53
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.26 2023/01/06 08:33:29
+Dmitri Gabinski: + trd be
+
+versio 1.25 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2021/05/10 19:06:44
+Wolfram Diestel: kor. drv@mrk
+
 Revision 1.21  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -303,14 +335,5 @@ Revision 1.19  2012/09/07 18:10:07  revo
 Jeromo Vasxe: + mrk
 
 Revision 1.18  2011/07/13 19:11:23  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.17  2007/06/05 16:30:37  revo
-Tulio Flores: +tr pt
-
-Revision 1.16  2007/06/02 19:48:00  revo
-Tulio Flores: +tr pt
-
-Revision 1.15  2005/04/06 18:45:26  revo
 -->
 </vortaro>

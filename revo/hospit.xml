@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hospit.xml,v 1.19 2010/05/21 16:30:35 revo Exp $">
+<art mrk="$Id: hospit.xml,v 1.29 2023/08/31 15:46:19 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>hospital</rad>/o <fnt><bib>Fab1</bib></fnt>
@@ -14,16 +13,20 @@
     <dif>
       <ref tip="dif" cel="san.mal0ulejo">Malsanulejo</ref>:
       <ekz>
-        &ccirc;iu Kopenhagano scias, kiel aspektas la enirejo de la Frederika <tld/>o
+        &ccirc;iu Kopenhagano scias, kiel aspektas la enirejo de la Frederika
+        <tld/>o
         <fnt>
           <bib>Fab1</bib>
           <lok>Galo&scirc;oj de feli&ccirc;o</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <klr>[li]</klr> konsentis viziti la medicinan lernejon, <klr>[kiu]</klr> estis
-        samtempe <tld/>o, a&ubreve; pli &gcirc;uste granda &gcirc;ardeno, <klr>[&#8230;kie]</klr> la
-        malsanuloj pasigis la tutajn tagojn en libera aero kaj suno, sur litoj, kiuj
+        <klr>[li]</klr> konsentis viziti la medicinan lernejon,
+        <klr>[kiu]</klr> estis
+        samtempe <tld/>o, a&ubreve; pli &gcirc;uste granda &gcirc;ardeno, <klr>[&#x2026;kie]</klr>
+        la
+        malsanuloj pasigis la tutajn tagojn en libera aero kaj suno, sur
+        litoj, kiuj
         anstata&ubreve; matracoj havis stre&ccirc;itan tolon
         <fnt>
           <bib>Far2</bib>
@@ -45,7 +48,7 @@
         privata sansistemo
         <fnt>
           <aut>Jozefo Lej&ccirc;</aut>
-          <vrk><url ref="https://www.monato.be/2014/011188.php">Pliaj
+          <vrk><url ref="&Monato;/2014/011188.php">Pliaj
           medicinistoj - pliaj plendoj</url></vrk>,
           <bib>Monato</bib>
           <lok>2004-01</lok>
@@ -56,7 +59,7 @@
         pacientojn
         <fnt>
           <aut>J.-P. S&eacute;r&eacute;ni, trad. J.-M. Cash</aut>,
-          <vrk><url ref="https://eo.mondediplo.com/article2058.html">En
+          <vrk><url ref="&Mondediplo;article2058.html">En
           Al&gcirc;erio nenio &scirc;an&gcirc;i&gcirc;as... krom la socio</url></vrk>,
           <lok>Le Monde diplomatique, 2014-04</lok>
         </fnt>.
@@ -82,15 +85,24 @@
   <trd lng="fy">sikeh&ucirc;s</trd>
   <trd lng="he">&bet;&yod;&tav; &het;&vav;&lamed;&yod;&fmem;</trd>
   <trd lng="hu">k&oacute;rh&aacute;z</trd>
-  <trd lng="id"><ind>rumah</ind> sakit</trd>
+  <trd lng="id">rumah sakit</trd>
   <trd lng="io">hospitalo</trd>
   <trd lng="it">ospedale</trd>
+  <trdgrp lng="ja">
+    <trd>&#x75C5;&#x9662;  [<ind>&#x3073;&#x3087;&#x3046;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x65BD;&#x7642;&#x9662;  [<ind>&#x65BD;&#x7642;&#x3044;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ziekenhuis</trd>
   <trd lng="pl">szpital</trd>
   <trd lng="pt">hospital</trd>
   <trd lng="ru">&c_b;&c_o;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>
   <trd lng="sk">nemocnica</trd>
   <trd lng="tr">hastahane</trd>
+  <trdgrp lng="uk">
+    <trd>&c_sh;&#x43F;&c_i;&c_t;&c_a;&#x43B;&#x44C;</trd>,
+    <trd>&c_g;&#x43E;&c_s;&#x43F;&c_ib;&c_t;&c_a;&#x43B;&#x44C;</trd>,
+    <trd>&#x43B;&c_ib;&#x43A;&c_a;&c_r;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hospit.en0igi">
@@ -101,7 +113,7 @@
     <dif>
       Akceptigi en <tld/>on por restado:
       <ekz>
-        unu el la enketistoj <klr>[&#8230;]</klr> petis disponigi al li la 
+        unu el la enketistoj <klr>[&#x2026;]</klr> petis disponigi al li la 
         liston de &ccirc;iuj personoj en<tld/>igitaj dum la lastaj tri tagoj
         <fnt>
           <bib>MkM</bib>,
@@ -113,30 +125,39 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Mu Binghua</aut>
-          <vrk><url ref="https://www.monato.be/2004/008368.html">Maltrankvili&gcirc;o pro a&ccirc;aj man&gcirc;a&jcirc;oj</url></vrk>
+          <vrk><url ref="&Monato;/2004/008368.html">Maltrankvili&gcirc;o
+          pro a&ccirc;aj man&gcirc;a&jcirc;oj</url></vrk>
           <lok>2004</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la malpermeso sekvas la en<tld/>igon en septembro de dekoj da homoj en &Ccirc;e&hcirc;io,
+        la malpermeso sekvas la en<tld/>igon en septembro de dekoj da
+        homoj en &Ccirc;e&hcirc;io,
         kiuj konsumis alkohola&jcirc;ojn diluitajn per metanolo
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="https://www.monato.be/2012/010873.php">Je via malsano</url></vrk>
+          <vrk><url ref="&Monato;/2012/010873.php">Je via
+          malsano</url></vrk>
           <lok>2012</lok>
         </fnt>;
       </ekz>
       <ekz>
-        en<tld/>i&gcirc;is la plej a&gcirc;a viro en la &ccirc;ina urbo <nom>Chengdu</nom> &dash; 126-jara&gcirc;a
+        en<tld/>i&gcirc;is la plej a&gcirc;a viro en la &ccirc;ina urbo <nom>Chengdu</nom>
+        &#x2010; 126-jara&gcirc;a
         <fnt>
-          <bib>Monato</bib>
-          <aut>Sabeo FU</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007127.html">Escepto-recepto</url></vrk>
-        </fnt>.
+          <aut>Sabeo Fu</aut>
+            <vrk><url ref="&Monato;/2000/007127.php">Escepto-recepto</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 14</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_s;&c_p;&c_ib;&c_t;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_k;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib; &c_w; <ind>&c_sh;&c_p;&c_ib;&c_t;&c_a;&c_l;&c_mol;</ind></trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>hospitalisieren</trd>,
     <trd>ins Krankenhaus <ind>einliefern</ind></trd>
@@ -147,6 +168,7 @@
   </trdgrp>
   <trd lng="fr">hospitaliser</trd>
   <trd lng="nl">hospitaliseren</trd>
+  <trd lng="uk">&c_g;&#x43E;&c_s;&#x43F;&c_ib;&c_t;&c_a;&#x43B;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="hospit.el0igi">
@@ -167,34 +189,38 @@
       <ekz>
         oni el<tld/>igis min post &ccirc;irka&ubreve; monato
         <fnt>
-          <vrk><url ref="http://miresperanto.com/biblioteko/hhristovski/19.htm">19 - miresperanto.com</url></vrk>
+          <vrk><url ref="http://miresperanto.com/biblioteko/hhristovski/19.htm">19
+          - miresperanto.com</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_p;&c_ib;&c_s;&c_a;&c_c;&c_mol; &c_s;&c_a; <ind>&c_sh;&c_p;&c_ib;&c_t;&c_a;&c_l;&c_ja;</ind></trd>
 <trd lng="de">aus dem Krankenhaus <ind>entlassen</ind></trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/04/30 12:42:31
+Paul Peeraerts: Steloj -> monato
+
+versio 1.27 2022/08/22 08:39:33
+Dmitri Gabinski: + trd be
+
+versio 1.26 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.23 2020/05/05 09:10:20
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.21  2019/10/04 17:10:16  revo
-Robin van der Vliet: konfirma al la praktika uzado; vidu ankaux BA18, 2013-10, p. 65-71
+Robin van der Vliet: konfirma al la praktika uzado; vidu ankaux BA18,
+2013-10, p. 65-71
 
 Revision 1.20  2015/07/04 08:37:35  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.19  2010/05/21 16:30:35  revo
 Jeromo Vasxe: + en~igi
-
-Revision 1.18  2010/01/19 17:30:41  revo
-Russ Williams: +trd en
-
-Revision 1.17  2009/09/19 16:30:43  revo
-Antonio Codazzi: +trd it
-
-Revision 1.16  2004/11/10 17:31:24  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.15  2004/01/05 17:30:52  revo
 -->
 </vortaro>

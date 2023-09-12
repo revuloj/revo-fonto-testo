@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kokcin.xml,v 1.18 2009/01/03 17:30:50 revo Exp $">
+<art mrk="$Id: kokcin.xml,v 1.26 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kokcinel</rad>/o
@@ -22,7 +21,7 @@
       </ekz>
       <ekz>
         la&ubreve; sciencaj studoj uzataj de la germana registaro
-        <klr>[&#8230;]</klr> la enplantita
+        <klr>[&#x2026;]</klr> la enplantita
         geno povas dama&gcirc;i ne nur la malbonan tineon, sed anka&ubreve; mortigi
         larvojn de la
         &ccirc;armaj kaj utilaj <tld/>oj, same abelojn kaj organismojn en
@@ -30,8 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="&Monato;/2009/009818.php"
-              >Mirakloj mankas</url></vrk>
+          <vrk><url ref="&Monato;/2009/009818.php">Mirakloj mankas</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -63,6 +61,10 @@
   </trdgrp>
   <trd lng="fr">coccinelle</trd>
   <trd lng="hu">katicabog&aacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30CA;&#x30CA;&#x30DB;&#x30B7;&#x30C6;&#x30F3;&#x30C8;&#x30A6;</trd>,
+    <trd>&#x30C6;&#x30F3;&#x30C8;&#x30A6;&#x30E0;&#x30B7;</trd>
+  </trdgrp>
   <trd lng="nl">lieveheersbeestje</trd>
   <trdgrp lng="pl">
     <trd>biedronka</trd>,
@@ -71,6 +73,7 @@
   <trd lng="ro">buburuz&abreve;</trd>
   <trd lng="ru">&c_b;&c_o;&c_zh;&c_mol;&c_ja; &c_k;&c_o;&c_r;&c_o;&c_v;&c_k;&c_a;</trd>
   <trd lng="sk">lienka</trd>
+  <trd lng="uk">&#x441;&#x43E;&#x43D;&#x435;&#x447;&#x43A;&#x43E;</trd>
 </drv>
 </art>
 <!--

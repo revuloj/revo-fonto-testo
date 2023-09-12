@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kver.xml,v 1.11 2009/06/01 16:30:46 revo Exp $">
+<art mrk="$Id: kver.xml,v 1.18 2023/09/01 15:46:47 revo Exp $">
 <kap>
   <rad>kver</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -49,6 +48,10 @@
   <trd lng="en">coo</trd>
   <trd lng="fr">roucouler</trd>
   <trd lng="hu">turb&eacute;kol</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AF;&#x30A6;&#x30AF;&#x30A6;&#x9CF4;&#x304F;  [<ind>&#x30AF;&#x30A6;&#x30AF;&#x30A6;&#x306A;&#x304F;</ind>]</trd>,
+    <trd>&#x7518;&#x3044;&#x8A00;&#x8449;&#x3092;&#x3055;&#x3055;&#x3084;&#x304F;  [<ind>&#x3042;&#x307E;&#x3044;&#x3053;&#x3068;&#x3070;&#x3092;&#x3055;&#x3055;&#x3084;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kirren</trd>
   <trdgrp lng="pt">
     <trd>arrulhar</trd>,
@@ -57,6 +60,11 @@
   <trd lng="ro">se giugiuli</trd>
   <trd lng="ru">&c_v;&c_o;&c_r;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">hrk&uacute;ta&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x43E;&#x440;&#x43A;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x43E;&#x440;&#x43A;&#x43E;&#x442;&#x430;&#x442;&#x438;</trd>,
+    <trd>(&#x43F;&#x440;&#x43E; &#x433;&#x43E;&#x43B;&#x443;&#x431;&#x456;&#x432; &#x449;&#x435;) &#x442;&#x443;&#x440;&#x43A;&#x43E;&#x442;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

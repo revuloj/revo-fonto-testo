@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mahome.xml,v 1.17 2009/10/08 16:32:02 revo Exp $">
+<art mrk="$Id: mahome.xml,v 1.29 2023/09/02 06:04:08 revo Exp $">
 <kap>
   <rad>Mahomet</rad>/o
   <fnt>FK</fnt>
@@ -22,7 +21,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        unu fojon voja&gcirc;is la profeto <tld/>o (Dio havu lin en sankta gloro) tra la dezertoj de <nom>Jemen</nom>
+        unu fojon voja&gcirc;is la profeto <tld/>o (Dio havu lin en sankta
+        gloro) tra la dezertoj de <nom>Jemen</nom>
         <fnt>
           <bib>FK</bib>
         </fnt>;
@@ -34,15 +34,18 @@
         </fnt>;
       </ekz>
       <ekz>
-        instruaj sentencoj pri la agoj kaj eldiroj de profeto <tld/>o (hadisoj)
+        instruaj sentencoj pri la agoj kaj eldiroj de profeto <tld/>o
+        (hadisoj)
         <fnt>
           <bib>Monato</bib>
           <aut>Anatoli Ionesov</aut>
-          <vrk><url ref="&Monato;/2006/008920.php">Perlo &ccirc;e la Silka Vojo</url></vrk>
+          <vrk><url ref="&Monato;/2006/008920.php">Perlo &ccirc;e la Silka
+          Vojo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_M;&c_a;&c_g;&c_a;&c_m;&c_e;&c_t;</trd>
   <trd lng="ca">Mahoma</trd>
   <trdgrp lng="cs">
     <trd>Mohamed</trd>,
@@ -56,6 +59,8 @@
   <trd lng="es">Mahoma</trd>
   <trd lng="fr">Mahomet</trd>
   <trd lng="hu">Mohamed</trd>
+  <trd lng="id">Muhammad</trd>
+  <trd lng="ja">&#x30DE;&#x30DB;&#x30E1;&#x30C3;&#x30C8;  [<ind>&#x307E;&#x307B;&#x3081;&#x3063;&#x3068;</ind>]</trd>
   <trd lng="nl">Mohammed</trd>
   <trd lng="pl">Mahomet</trd>
   <trd lng="pt">Maom&eacute;</trd>
@@ -64,6 +69,7 @@
     <trd>Mohamed</trd>,
     <trd>Muammad</trd>
   </trdgrp>
+  <trd lng="uk">&#x41C;&c_a;&c_g;&#x43E;&#x43C;&c_je;&c_t;</trd>
 </drv>
 
 <drv mrk="mahome.0ano">
@@ -76,20 +82,23 @@
     <dif>
       <ref tip="dif" cel="islam.0ano">Islamano</ref>:
       <ekz>
-        kristanoj, hebreoj a&ubreve; <tld lit="m"/>anoj ni &ccirc;iuj de Di' estas filoj
+        kristanoj, hebreoj a&ubreve; <tld lit="m"/>anoj ni &ccirc;iuj de Di' estas
+        filoj
         <fnt>
           <aut>L. L. Zamenhof</aut>
           <vrk>Pre&gcirc;o Sub La Verda Standardo</vrk>
         </fnt>;
       </ekz>
       <ekz>
-        de tiu tago &ccirc;iuj bonaj <tld lit="m"/>anoj fumas la foliojn de tiu herbo mirinda kaj benita de <nom>Allah</nom>
+        de tiu tago &ccirc;iuj bonaj <tld lit="m"/>anoj fumas la foliojn de
+        tiu herbo mirinda kaj benita de <nom>Allah</nom>
         <fnt>
           <bib>FK</bib>
         </fnt>;
       </ekz>
       <ekz>
-        tiuj &ccirc;i signoj povas esti skribataj <klr>[&#8230;]</klr> anka&ubreve; de dekstre al maldekstre, kiel &ccirc;e la <tld/>anoj
+        tiuj &ccirc;i signoj povas esti skribataj <klr>[&#x2026;]</klr> anka&ubreve; de
+        dekstre al maldekstre, kiel &ccirc;e la <tld/>anoj
         <fnt>
           <bib>FK</bib>
         </fnt>.
@@ -101,6 +110,7 @@
       (kp <ctl>papistoj</ctl> por romkatolikoj).
     </rim>
   </snc>
+  <trd lng="be">&c_m;&c_a;&c_g;&c_a;&c_m;&c_e;&c_t;&c_a;&c_n;&c_ib;&c_n;</trd>
     <trdgrp lng="ca">
       <trd>mahomet&agrave;</trd>,
       <trd>musulm&agrave;</trd>
@@ -120,6 +130,9 @@
 </art>
 <!--
 $Log$
+versio 1.28 2022/08/26 08:38:43
+Dmitri Gabinski: + trd be
+
 Revision 1.24  2018/10/10 18:10:17  revo
 Wolfram Diestel: +ekz-oj, fnt FK
 
@@ -139,8 +152,5 @@ Revision 1.19  2014/12/09 08:11:00  revo
 Damien Brucker: korekto cxe ref
 
 Revision 1.18  2012/08/19 11:10:16  revo
-Marc Rausell: kor trd ca
-
-Revision 1.17  2009/10/08 16:32:02  revo
 -->
 </vortaro>

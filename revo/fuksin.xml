@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fuksin.xml,v 1.8 2007/06/13 16:32:44 revo Exp $">
+<art mrk="$Id: fuksin.xml,v 1.13 2023/08/31 13:11:32 revo Exp $">
 <kap>
   <rad>fuksin</rad>/o
   <fnt>Z</fnt>
@@ -14,12 +13,11 @@
     <dif>
       Anilina <ref tip="super" cel="rugx.0o">ru&gcirc;</ref>a&jcirc;o:
       <ekz>
-        la germana kemiisto, Henriko Karo, <klr>[&#8230;]</klr> anka&ubreve; disvolvis plurajn aliajn
-        sintezojn tiel kiel indulino, eozino, <tld/>o, a&ubreve;rino, <klr>[&#8230;]</klr>
+        la germana kemiisto, Henriko Karo, <klr>[&#x2026;]</klr> anka&ubreve; disvolvis plurajn aliajn
+        sintezojn tiel kiel indulino, eozino, <tld/>o, a&ubreve;rino, <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=537867"
-              >Perokso-unusulfata acido</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=537867">Perokso-unusulfata acido</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -27,6 +25,7 @@
   <trd lng="be">&c_f;&c_u;&c_k;&c_s;&c_ib;&c_n;</trd>
   <trd lng="de">Fuchsin</trd>
   <trd lng="fr">fuchsine</trd>
+  <trd lng="ja">&#x30D5;&#x30AF;&#x30B7;&#x30F3;</trd>
   <trdgrp lng="pl">
     <trd>fuksyna</trd>,
     <trd>rozanilina</trd>
@@ -37,6 +36,7 @@
     <trd>rosanilina</trd>
   </trdgrp>
   <trd lng="ru">&c_f;&c_u;&c_k;&c_s;&c_i;&c_n;</trd>
+  <trd lng="uk">&#x444;&#x443;&#x43A;&#x441;&#x438;&#x43D;</trd>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kolofo.xml,v 1.12 2009/06/23 16:32:13 revo Exp $">
+<art mrk="$Id: kolofo.xml,v 1.22 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kolofon</rad>/o
@@ -20,12 +19,11 @@
       <ekz>
         oni ne scias kiu kiam kaj kie kiel unue havis ideon sonorigi 
         kordomuzikilon pere de ar&ccirc;o (kaj anka&ubreve; dua a&jcirc;o necesas 
-        <klr>[&#8230;]</klr>: <tld/>o a&ubreve; <tld/>a&jcirc;o, rezino, kies nomo 
+        <klr>[&#x2026;]</klr>: <tld/>o a&ubreve; <tld/>a&jcirc;o, rezino, kies nomo 
         devenas de la helena urbo, en Malgrand-Azio, Kolofono)
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=22104">Ar&ccirc;o</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=22104">Ar&ccirc;o</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -45,7 +43,8 @@
     <trd>kolofon</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>Kolophonium</trd>
+    <trd>Kolophonium</trd>,
+    <trd>Geigenharz</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>colophony</trd>,
@@ -53,6 +52,10 @@
     <trd>rosin</trd>
   </trdgrp>
   <trd lng="fr">colophane</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5965;&#x4ED8;  [<ind>&#x304A;&#x304F;&#x3065;&#x3051;</ind>]</trd>,
+    <trd>&#x520A;&#x8A18;  [<ind>&#x304B;&#x3093;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">hars</trd>
   <trd lng="pl">kalafonia</trd>     
   <trdgrp lng="pt">
@@ -67,10 +70,18 @@
     <trd>explicit</trd>,
     <trd>kolof&oacute;n</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&#x43D;&c_ib;&c_f;&#x43E;&#x43B;&#x44C;</trd>,
+    <trd>&#x43A;&#x43E;&#x43B;&#x43E;&c_f;&#x43E;&#x43D;</trd>,
+    <trd>&c_v;&c_i;&c_h;&c_ib;&c_d;&#x43D;&c_ib; &c_d;&c_a;&#x43D;&c_ib;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.21 2022/11/06 16:42:01
+Ulrich Fellmann: kolofono: +1 DE trd
+
 Revision 1.18  2018/09/05 19:10:15  revo
 Wolfram Diestel: +ekz
 

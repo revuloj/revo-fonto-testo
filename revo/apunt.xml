@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: apunt.xml,v 1.1 2007/03/01 17:30:22 revo Exp $">
+<art mrk="$Id: apunt.xml,v 1.8 2023/08/30 18:23:35 revo Exp $">
 <kap>
   <rad>apunt</rad>/o
   <fnt><bib>PIV1</bib></fnt>
@@ -20,8 +19,7 @@
         &leftquot;Dankon sinjoro.&rightquot;
         <fnt>
           <aut>S. K. Smith</aut>,
-          <vrk><url
-          ref="http://www.sksmithmusic.com/esperanto/Plagxo.html">
+          <vrk><url ref="http://www.sksmithmusic.com/esperanto/Plagxo.html">
           &Ccirc;e la Pla&gcirc;o</url></vrk>,
           <lok>2002-06</lok>
         </fnt>.
@@ -37,12 +35,21 @@
     Oni evitas la vorton per pli precizaj terminoj:
     <em>ekzakta pago</em>, <em>restmono</em>...   
   </rim>
+  <trd lng="he">&#x5E2;&#x5D5;&#x5D3;&#x5E3;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x308A;&#x92AD;  [<ind>&#x3064;&#x308A;&#x305B;&#x3093;</ind>]</trd>,
+    <trd>&#x5C0F;&#x92AD;  [<ind>&#x3053;&#x305C;&#x306B;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">drobn&eacute; mince</trd>
   <trdgrp lng="cs">
     <trd>drobn&eacute;</trd>,
     <trd>mince</trd>
   </trdgrp>
   <trd lng="fr">appoint<klr> (monnaie)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x43E;&#x434;&#x430;&#x442;&#x43A;&#x43E;&#x432;&#x430; &#x441;&#x443;&#x43C;&#x430;</trd>,
+    <trd>&#x434;&#x43E;&#x434;&#x430;&#x442;&#x43A;&#x43E;&#x432;&#x438;&#x439; &#x432;&#x43D;&#x435;&#x441;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 

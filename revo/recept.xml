@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: recept.xml,v 1.25 2023/09/03 07:53:09 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>recept</rad>/o
@@ -66,17 +65,33 @@
     <trd>v&eacute;ny</trd>,
     <trd>rendelv&eacute;ny</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30EC;&#x30B7;&#x30D4;</trd>,
+    <trd>&#x51E6;&#x65B9;&#x7B8B;  [<ind>&#x3057;&#x3087;&#x307B;&#x3046;&#x305B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">recept</trd>
+  <trdgrp lng="pl">
+    <trd>przepis kulinarny</trd>,
+    <trd>recepta</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>re&#x21B;et&abreve; culinar&abreve;</trd>,
+    <trd>prescrip&#x21B;ie medical&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_r;&c_je;&c_c;&c_je;&c_p;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>liekopis</trd>,
     <trd>predpis</trd>,
     <trd>recept</trd>
   </trdgrp>
+  <trd lng="uk">&c_r;&c_je;&c_c;&c_je;&#x43F;&c_t;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2022/08/09 22:31:07
+Vito Redsky:  +trd pl  + trd ro 
+
 Revision 1.21  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 

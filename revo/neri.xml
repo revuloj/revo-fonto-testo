@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: neri.xml,v 1.5 2009/10/15 16:31:26 revo Exp $">
+<art mrk="$Id: neri.xml,v 1.11 2023/09/02 12:44:20 revo Exp $">
 <kap>
   <rad>neri</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -11,8 +10,7 @@
   <snc mrk="neri.0o.BOT">
     <uzo tip="fak">BOT</uzo>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">Genro</ref> el la familio 
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el la familio 
       <ref tip="malprt" cel="apocin.0oj">apocinacoj</ref> 
       (<trd lng="la">Nerium</trd>) kun la sola specio 
       <ref tip="sub" cel="oleand.0o">oleandro</ref>:
@@ -34,11 +32,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_l;&c_je;&c_a;&c_n;&c_d;&c_a;&c_r;</trd>
   <trd lng="de">Oleander</trd>
   <trdgrp lng="fr">
     <trd>laurelle</trd>,
     <trd>laurier-rose</trd>
   </trdgrp>
+  <trd lng="ja">&#x30AD;&#x30E7;&#x30A6;&#x30C1;&#x30AF;&#x30C8;&#x30A6;</trd>
   <trdgrp lng="nl">
     <trd>oleander</trd>,
     <trd>laurierroos</trd>
@@ -48,11 +48,15 @@
     <trd>espirradeira <klr>(bot.)</klr></trd>
   </trdgrp>
   <trd lng="pl">oleander</trd>
+  <trd lng="uk">&#x43E;&#x43B;&c_je;&c_a;&#x43D;&c_d;&c_r;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.10 2022/11/30 17:29:12
+Dmitri Gabinski: + trd be
+
 Revision 1.7  2013/08/26 09:10:21  revo
 Wolfram Diestel: simpligis difinon sendante al oleandro
 

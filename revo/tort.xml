@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tort.xml,v 1.23 2023/09/04 19:01:53 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tort</rad>/o <fnt><bib>PIV1</bib></fnt>
@@ -43,11 +42,13 @@
     <trd>tourte</trd>
   </trdgrp>
   <trd lng="hu">torta</trd>
+  <trd lng="ja">&#x30BF;&#x30EB;&#x30C8;</trd>
   <trd lng="nl">taart</trd>
   <trd lng="pl">tort</trd>
   <trd lng="pt">torta</trd>
   <trd lng="ru">&c_t;&c_o;&c_r;&c_t;</trd>
   <trd lng="sk">torta</trd>
+  <trd lng="uk">&c_t;&#x43E;&c_r;&c_t;</trd>
 </drv>
 
 <drv mrk="tort.0eto">
@@ -66,6 +67,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_ib;&c_r;&c_o;&c_zh;&c_n;&c_a;&c_je;</trd>
   <trdgrp lng="cs">
     <trd>mou&ccaron;n&iacute;k</trd>,
     <trd>z&aacute;kusek</trd>
@@ -75,10 +77,14 @@
     <trd>m&uacute;&ccaron;nik</trd>,
     <trd>z&aacute;kusok</trd>
   </trdgrp>
+  <trd lng="uk">&c_t;&c_ib;&c_s;&c_t;&c_je;&c_ch;&#x43A;&#x43E;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/06/13 12:46:38
+Dmitri Gabinski: + trd be
+
 Revision 1.19  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 

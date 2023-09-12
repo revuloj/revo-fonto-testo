@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dramat.xml,v 1.13 2009/10/24 16:32:50 revo Exp $">
+<art mrk="$Id: dramat.xml,v 1.20 2023/08/31 10:44:02 revo Exp $">
 <kap>
   <rad>dramaturgi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -11,14 +10,13 @@
   <snc mrk="dramat.0o.verkado">
     <uzo tip="fak">TEA</uzo>
     <dif>
-      <ref tip="super" cel="art.0o.belarto">Arto<sncref/></ref>
+      <ref tip="lst" lst="voko:artoj" cel="art.0o.belarto">Arto<sncref/></ref>
       de teatra verkado:
       <ekz>
         <klr>[la]</klr> &Ccirc;ina dramisto <nom>Hong Shen</nom> lernis <tld/>on en Harvard-universitato
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=52752"
-              >Dramo en &Ccirc;inio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=52752">Dramo en &Ccirc;inio</url></lok>
         </fnt>.
       </ekz>      
     </dif>
@@ -27,26 +25,26 @@
     <dif>
       Apliko de tiu arto en iu verko; konstruo, strukturo, efiko de verko:
       <ekz>
-        <klr>[al]</klr> Hamburgo, centro de germanlingva teatro, <klr>[&#8230;]</klr> <nom>Lessing</nom>
+        <klr>[al]</klr> Hamburgo, centro de germanlingva teatro, <klr>[&#x2026;]</klr> <nom>Lessing</nom>
         <klr>[estis vokita]</klr> en 1767 por gvidi la teatrejon urban &ccirc;e paralela
         verkado porteatreja, li volis helpe kritiki la aktorojn kaj plibonigi
         <tld/>on, tamen li &gcirc;ojis pri nova posteno ekde 1769 en <nom>Wolfenb&uuml;ttel</nom> en la
         tiea biblioteko
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=1541"
-              >Gotthold Ephraim Lessing</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1541">Gotthold Ephraim Lessing</url></lok>
         </fnt>;
       </ekz>      
       <ekz>
-        mi ne ridis, certe, tio estas historiografie malvera <klr>[&#8230;]</klr> malgra&ubreve; tio,
+        mi ne ridis, certe, tio estas historiografie malvera <klr>[&#x2026;]</klr> malgra&ubreve; tio,
         tiu &ccirc;i <tld/>o ne estis ridinda, &gcirc;i estis alvoko de la re&gcirc;isoro al la nuna
         publiko
         <fnt>
+          <aut>Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2000/006909.php">Novjara kla&ccirc;o super konjako</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006909.html"
-              >Japanio: Takasugi Sinsaku: Novjara kla&ccirc;o super konjako</url></vrk>
-        </fnt>.
+          <lok>2000/06, p. 25</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>  
@@ -62,13 +60,29 @@
   <trd lng="es">dramaturgia</trd>
   <trd lng="fr">dramaturgie</trd>
   <trd lng="hu">dramaturgia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5287;&#x4F5C;&#x6CD5;  [<ind>&#x3052;&#x304D;&#x3055;&#x304F;&#x307B;&#x3046;</ind>]</trd>,
+    <trd>&#x6F14;&#x5287;&#x8AD6;  [<ind>&#x3048;&#x3093;&#x3052;&#x304D;&#x308D;&#x3093;</ind>]</trd>,
+    <trd>&#x30C9;&#x30E9;&#x30DE;&#x30C4;&#x30EB;&#x30AE;&#x30FC;</trd>
+  </trdgrp>
+  <trd lng="nl">dramaturgie</trd>
   <trd lng="pl">dramaturgia</trd>
   <trd lng="pt">dramaturgia</trd>
   <trd lng="ru">&c_d;&c_r;&c_a;&c_m;&c_a;&c_t;&c_u;&c_r;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="uk">&c_d;&c_r;&c_a;&#x43C;&c_a;&c_t;&c_u;&c_r;&c_g;&c_ib;&#x44F;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2023/04/17 06:32:33
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.18 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.16 2021/04/11 15:58:50
+Wolfram Diestel: +lst artoj
+
 Revision 1.14  2011/04/19 10:10:08  revo
 Jeromo Vasxe: - num + mrk
 
@@ -82,11 +96,5 @@ Revision 1.11  2007/09/02 16:30:28  revo
 Tulio Flores: +tr pt
 
 Revision 1.10  2004/03/17 17:30:44  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2003/04/21 16:32:52  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.8  2002/05/27 17:21:35  revo
 -->
 </vortaro>

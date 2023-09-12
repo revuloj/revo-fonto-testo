@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: supers.xml,v 1.22 2023/09/04 15:14:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>supersti&ccirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -24,7 +23,10 @@
 	</ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_z;&c_a;&c_b;&c_a;&c_b;&c_o;&c_n;</trd>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_b;&c_o;&c_n;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_h;&c_a;</trd>
+  </trdgrp>
   <trd lng="bg">&c_s;&c_u;&c_je;&c_v;&c_je;&c_r;&c_i;&c_je;</trd>
   <trd lng="ca">superstici&oacute;</trd>
   <trd lng="de">Aberglaube</trd>
@@ -34,6 +36,7 @@
   <trd lng="hu">babona</trd>
   <trd lng="id">takhayul</trd>
   <trd lng="it">superstizione</trd>
+  <trd lng="ja">&#x8FF7;&#x4FE1;  [<ind>&#x3081;&#x3044;&#x3057;&#x3093;</ind>]</trd>
   <trd lng="nl">bijgeloof</trd>
   <trdgrp lng="no">
     <trd>overtro</trd>,
@@ -50,6 +53,10 @@
   <trdgrp lng="ru">
     <trd>&c_s;&c_u;&c_je;&c_v;&c_je;&c_r;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_d;&c_r;&c_a;&c_s;&c_s;&c_u;&c_d;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&c_r;&#x43D;&#x43E;&c_v;&c_ib;&c_r;&c_s;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&c_z;&c_a;&c_b;&#x43E;&c_b;&#x43E;&#x43D;</trd>
   </trdgrp>
 </drv>
 
@@ -68,11 +75,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_b;&c_o;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_h;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
   <trd lng="en">superstitious</trd>
   <trd lng="bg">&c_s;&c_u;&c_je;&c_v;&c_je;&c_r;&c_je;&c_n;</trd>
   <trd lng="de">abergl&auml;ubisch</trd>
   <trd lng="fr">superstitieux</trd>
   <trd lng="it">superstizioso</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8FF7;&#x4FE1;&#x7684;&#x306A;  [<ind>&#x3081;&#x3044;&#x3057;&#x3093;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x8FF7;&#x4FE1;&#x6DF1;&#x3044;  [<ind>&#x3081;&#x3044;&#x3057;&#x3093;&#x3076;&#x304B;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bijgelovig</trd>
   <trd lng="no">overtroisk</trd>
   <trdgrp lng="pl">
@@ -80,6 +95,10 @@
     <trd>zabobonny</trd>
   </trdgrp>
   <trd lng="pt">supersticioso<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_a;&c_r;&#x43D;&#x43E;&c_v;&c_ib;&c_r;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_b;&#x43E;&c_b;&#x43E;&#x43D;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="supers.0ulo">
@@ -99,6 +118,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_b;&c_o;&c_n;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_h;&c_l;&c_ib;&c_v;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
+  </trdgrp>
   <trd lng="en">superstitious person</trd>
   <trd lng="fr">personne <ind>supersticieuse</ind></trd>
   <trd lng="nl">bijgelovige</trd>
@@ -110,6 +133,9 @@
 </art>
 <!--
 $Log$
+versio 1.21 2023/01/27 08:33:02
+Dmitri Gabinski: + trd be
+
 Revision 1.18  2015/09/21 06:10:17  revo
 Sebastian Cyprych: +trd pl
 

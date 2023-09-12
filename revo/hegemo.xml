@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hegemo.xml,v 1.16 2009/09/03 16:31:05 revo Exp $">
+<art mrk="$Id: hegemo.xml,v 1.25 2023/08/31 15:46:15 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>hegemoni</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,7 +13,37 @@
     <dif>
       Superregeco de iu popolo, homgrupo ks:
       <ekz>
-        bataladi pri <tld/>o<fnt>Z</fnt>.
+        la korporacio de la bur&gcirc;oj-patricioj kaj la korporacio de la gildoj
+        <klr>[&#x2026;]</klr> reciproke bataladis pri <tld/>o
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rakontante la batalojn de niaj prauloj, per kiuj ili fondis la nunan
+        mond<tld/>on de mia patrio
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Kvina &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        al NATO <klr>[&#x2026;]</klr> tiom da landoj, kiuj &gcirc;is disfalo de komunismo vivis sub
+        sovetia <tld/>o, nun deziras ali&gcirc;i
+        <fnt>
+	<aut>Garbhan MacAoidh</aut>
+	<vrk><url ref="&Monato;/2000/007003.php">El flamo en fajron</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 6</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nuntempa <tld/>o de la angla lingvo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 2 (64)</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -26,14 +55,13 @@
   <trd lng="be">&c_g;&c_je;&c_g;&c_je;&c_m;&c_o;&c_n;&c_ib;&c_ja;</trd>
   <trdgrp lng="cs">
     <trd>hegemonie</trd>,
-    <trd>nadvláda</trd>
+    <trd>nadvl&aacute;da</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Hegemonie</trd>,
     <trd>Vormacht</trd>
   </trdgrp>
-  <trd
-  lng="el">&eta;&gamma;&epsilon;&my;&omikron;&ny;&jota_ton;&alfa;</trd>
+  <trd lng="el">&eta;&gamma;&epsilon;&my;&omikron;&ny;&jota_ton;&alfa;</trd>
   <trdgrp lng="en">
     <trd>hegemony</trd>,
     <trd>dominance</trd>,
@@ -53,6 +81,11 @@
     <trd>egemonia</trd>,
     <trd>supremazia</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E3B;&#x5C0E;&#x6A29;  [<ind>&#x3057;&#x3085;&#x3069;&#x3046;&#x3051;&#x3093;</ind>]</trd>,
+    <trd>&#x8987;&#x6A29;  [<ind>&#x306F;&#x3051;&#x3093;</ind>]</trd>,
+    <trd>&#x30D8;&#x30B2;&#x30E2;&#x30CB;&#x30FC;</trd>
+  </trdgrp>
   <trd lng="nl">hegemonie</trd>
   <trd lng="pl">hegemonia</trd>
   <trd lng="pt">hegemonia</trd>
@@ -60,7 +93,12 @@
     <trd>&c_g;&c_je;&c_g;&c_je;&c_m;&c_o;&c_n;&c_i;&c_ja;</trd>,
     <trd>&c_g;&c_o;&c_s;&c_p;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
   </trdgrp>
-  <trd lng="sk">nadvláda</trd>
+  <trd lng="sk">nadvl&aacute;da</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_je;&c_g;&c_je;&c_m;&c_o;&c_n;&c_ib;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_i;&c_l;&c_l;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hegemo.0i">
@@ -76,13 +114,31 @@
           <vrk><url ref="http://www.cfh.ufsc.br/~simpozio/">Enciklopedio
           simpozio</url></vrk>,
           <lok>artikolo &leftquot;hegemonio&rightquot;, 1996-05-12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ju pli <tld/>as la angla, des pli malfacili&gcirc;as la decido
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Marko Naoki LINS</aut>
+          <vrk><url ref="&Monato;/2004/008309.html">Plurlingvismo valoras siajn kostojn</url></vrk>
+          <lok>2004</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>dominieren</trd>,
+    <trd>die <ind>Vormachtstellung</ind> aus&uuml;ben</trd>
+  </trdgrp>
   <trd lng="en">dominate</trd>
   <trd lng="fr">dominer</trd>
   <trd lng="it">dominare</trd>
+  <trd lng="ja">&#x4E3B;&#x5C0E;&#x6A29;&#x3092;&#x63E1;&#x308B;  [<ind>&#x3057;&#x3085;&#x3069;&#x3046;&#x3051;&#x3093;&#x3092;&#x306B;&#x304E;&#x308B;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>g&oacute;rowa&cacute;</trd>,
     <trd>panowa&cacute;</trd>
@@ -91,6 +147,18 @@
 </art>
 <!--
 $Log$
+versio 1.24 2023/04/23 18:29:44
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.23 2023/04/11 14:37:23
+aktualigo Monato-URL
+
+versio 1.22 2022/09/22 08:43:15
+Dmitri Gabinski: + trd be
+
+versio 1.21 2022/05/28 12:48:12
+Wolfram Diestel: +ekz-oj, trd de
+
 Revision 1.18  2015/06/29 16:33:15  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -101,20 +169,5 @@ Revision 1.16  2009/09/03 16:31:05  revo
 Antonio Codazzi: +trd it
 
 Revision 1.15  2009/07/06 16:30:48  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.14  2009/02/22 17:30:44  revo
-Russ Williams: +trd en
-
-Revision 1.13  2006/06/13 16:31:16  revo
-Jeromo Vasxe: + ~i, + fak pol
-
-Revision 1.12 2004/01/10 17:33:04 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11 2003/11/28 17:31:53 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10 2002/07/11 17:32:45 revo
 -->
 </vortaro>

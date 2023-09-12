@@ -1,19 +1,23 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vokt.xml,v 1.20 2023/09/05 09:43:56 revo Exp $">
 <kap>
   <rad>vokt</rad>/o <fnt><bib>MT</bib></fnt> 
 </kap>
 <drv mrk="vokt.0o">
   <kap><tld/>o</kap>
-  <snc mrk="vokt.0o.LAB">
+  <snc mrk="vokt.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
     <dif>
-      Kontrolisto, intendanto:
+      En <ref tip="malprt" cel="feuxd.0ismo">fe&ubreve;da</ref> socio, kontrolisto, <ref tip="super" cel="intend.0o">intendanto</ref>,
+      ofte mem <ref cel="nobel.0o">nobelo</ref>, respondeca anka&ubreve; por ju&gcirc;ado kaj defendado en sia areo:
+      <ekz>
+        landa, eklezia, urba, forsta, alpa, diga <tld/>o;
+      </ekz>
       <ekz>
         eliris la <tld/>oj de la popolo kaj &gcirc;iaj kontrolistoj, kaj diris al la popolo:
-        <klr>[&#8230;]</klr>
+        <klr>[&#x2026;]</klr>
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 5:10</lok>
@@ -30,15 +34,22 @@
       </ekz>
       <ekz>
         kiam intervenas la <tld/>o por reirigi lernejanojn en la klas&ccirc;ambrojn, a&ubreve;di&gcirc;as
-        la reago: <klr>[&#8230;]</klr> ni bezonas pli da spaco, por ke &ccirc;iu libere kopiu
+        la reago: <klr>[&#x2026;]</klr> ni bezonas pli da spaco, por ke &ccirc;iu libere kopiu
         siajn lecionojn
         <fnt>
           <bib>Monato</bib>
           <aut>Gbeglo Koffi</aut>
-          <vrk><url ref="https://www.monato.be/2006/008960.php">Mur-muroj</url></vrk>
+          <vrk><url ref="&Monato;/2006/008960.php">Mur-muroj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="land.0estro">landestro</ref>,
+      <ref cel="urb.0estro">urbestro</ref>,
+      <ref cel="sxip.0arestro">&scirc;iparestro</ref>,
+      <ref cel="gubern1.0estro">guberniestro</ref>,
+      <ref cel="vojevod.0o">vojevodo</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_ch;&c_y;&c_k;</trd>, 
@@ -52,19 +63,28 @@
     <trd>Vogt</trd>,
     <trd>Sachwalter</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>bailiff</trd>,
+    <trd>reeve</trd>
+  </trdgrp>
   <trdgrp lng="es">
    <trd>intendente</trd>,
    <trd>alcalde</trd>,
    <trd>alguacil</trd>
   </trdgrp>
   <trdgrp lng="fr">
-    <trd>contremaitre</trd>,
-    <trd>surveillant</trd>
+    <trd>bailli</trd>,
+    <trd>surveillant</trd>,
+    <trd>contremaitre</trd>
   </trdgrp>
   <trdgrp lng="hu">
     <trd>isp&aacute;n</trd>,
     <trd>pall&eacute;r</trd>,
     <trd>munkafel&uuml;gyel&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x76E3;&#x7763;&#x8005;  [<ind>&#x304B;&#x3093;&#x3068;&#x304F;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x76E3;&#x8996;&#x4EBA;  [<ind>&#x304B;&#x3093;&#x3057;&#x3058;&#x3093;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">opziener</trd>
   <trdgrp lng="pt">
@@ -85,6 +105,10 @@
     <trd>intendant</trd>,
     <trd>kontrol&oacute;r</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x430;&#x433;&#x43B;&#x44F;&#x434;&#x430;&#x447;</trd>,
+    <trd>&#x432;&#x456;&#x439;&#x442;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vokt.cxas0o">
@@ -100,7 +124,7 @@
         fratoj</vrk>, <lok>1947</lok></fnt>;
       </ekz>
       <ekz>
-        la plej superaj oficistoj de la urbo estis &scirc;ulthajso, urbestro, &ccirc;efvokto,
+        la plej superaj oficistoj de la urbo estis &scirc;ulthajso, urbestro, &ccirc;ef<tld/>o,
         &ccirc;as<tld/>o, kestomajstro, kongregacia kaj hospitala &ccirc;efadministranto,
         &ccirc;efarkitekto kaj 18 gildomajstroj
         <fnt>
@@ -120,6 +144,12 @@
 </art>
 <!--
 $Log$
+versio 1.19 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.17 2020/11/30 12:42:46
+Wolfram Diestel: +HIS, precizigo de dif, +trd en,fr, ref-oj
+
 Revision 1.15  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -136,8 +166,5 @@ Revision 1.11  2009/04/24 16:31:10  revo
 Jeromo Vasxe: + trd fr
 
 Revision 1.10  2006/02/02 17:33:05  revo
-Tulio Flores: +trd pt
-
-Revision 1.9  2005/02/04 17:31:29  revo
 -->
 </vortaro>

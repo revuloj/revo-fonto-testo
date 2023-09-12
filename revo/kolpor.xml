@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kolpor.xml,v 1.18 2009/09/02 16:31:34 revo Exp $">
+<art mrk="$Id: kolpor.xml,v 1.27 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kolport</rad>/i
@@ -22,6 +21,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_a;&c_n;&c_d;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol; &c_u;&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;</trd>
   <trd lng="bg">&c_r;&c_a;&c_z;&c_g;&c_l;&c_a;&c_s;&c_ja;&c_v;&c_a;&c_m;</trd>
   <trd lng="ca">vendre de forma ambulant</trd>
   <trdgrp lng="cs">
@@ -38,6 +38,7 @@
   <trdgrp lng="fr">
     <trd>colporter<klr tip="ind"> (des marchandises)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x884C;&#x5546;&#x3059;&#x308B;  [<ind>&#x304E;&#x3087;&#x3046;&#x3057;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>leuren</trd>,
     <trd>colporteren</trd>,
@@ -46,11 +47,15 @@
   <trdgrp lng="pl">
     <trd>kolportowa&cacute;</trd>,
     <trd>roznosi&cacute;</trd>
-  </trdgrp> 
+  </trdgrp>
   <trd lng="pt">mascatear</trd>
   <trd lng="ro">distribui</trd>
   <trd lng="ru">&c_t;&c_o;&c_r;&c_g;&c_o;&c_v;&c_a;&c_t;&c_mol; &c_v;&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;</trd>
   <trd lng="sk">kolportova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_t;&#x43E;&c_r;&c_g;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43D;&#x43E;&c_s;&#x44F;&c_ch;&c_i; &c_t;&#x43E;&c_v;&c_a;&c_r;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kolpor.0isto">
@@ -66,6 +71,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_g;&c_a;&c_n;&c_d;&c_l;&c_ja;&c_r; &c_u;&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;</trd>
   <trd lng="bg">&c_a;&c_m;&c_b;&c_u;&c_l;&c_a;&c_n;&c_t;&c_je;&c_n; <ind>&c_t;&c_malmol;&c_r;&c_g;&c_o;&c_v;&c_je;&c_c;</ind></trd>
   <trd lng="ca">venedor ambulant</trd>
   <trdgrp lng="cs">
@@ -85,13 +91,14 @@
   </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_d;&a_s;&a_t;&a_f;&a_r;&a_w;&a_sh;</trd>,
-    <trd>&a_f;&a_r;&a_w;&a_sh;&a_n;&a_d;&a_h;&a_hamza_sure; &a_d;&a_w;&a_r;&a_h;&zwnj;&f_g;&a_r;&a_d;</trd>
+    <trd>&a_f;&a_r;&a_w;&a_sh;&a_n;&a_d;&a_h;&a_hamza_sure; &a_d;&a_w;&a_r;&a_h;&#x200C;&f_g;&a_r;&a_d;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>camelot</trd>,
     <trd>colporteur</trd>,
     <trd>vendeur ambulant</trd>
   </trdgrp>
+  <trd lng="ja">&#x884C;&#x5546;&#x4EBA;  [<ind>&#x304E;&#x3087;&#x3046;&#x3057;&#x3087;&#x3046;&#x306B;&#x3093;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>leurder</trd>,
     <trd>straatventer</trd>,
@@ -103,7 +110,7 @@
   </trdgrp>
   <trdgrp lng="pt">
     <trd>mascate</trd>,
-    <trd>vendedor ambulante</trd>,    
+    <trd>vendedor ambulante</trd>,
     <trd>burarinheiro</trd>
   </trdgrp>
   <trd lng="ro">purt&abreve;tor</trd>
@@ -113,10 +120,19 @@
     <trd>&c_k;&c_o;&c_r;&c_o;&c_b;&c_je;&c_j;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
   <trd lng="sk">rozn&aacute;&scaron;a&ccaron;</trd>
+  <trdgrp lng="uk">
+    <trd>(&c_t;&#x43E;&c_r;&c_g;&#x43E;&c_v;&c_je;&c_c;&#x44C;-) &c_r;&#x43E;&c_z;&#x43D;&#x43E;&c_shch;&c_i;&#x43A;</trd>,
+    <trd>&#x43C;&c_a;&#x43D;&c_d;&c_r;&c_ib;&c_v;&#x43D;&c_i;&c_j; &c_t;&#x43E;&c_r;&c_g;&#x43E;&c_v;&c_je;&c_c;&#x44C;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&#x43E;&c_b;&c_je;&c_j;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&#x43A;&#x43D;&c_i;&c_g;&#x43E;&#x43D;&#x43E;&c_sh;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.26 2023/08/07 07:24:32
+Dmitri Gabinski: + trd be
+
 Revision 1.23  2015/10/14 09:10:18  revo
 Sebastian Cyprych: +trd pl
 

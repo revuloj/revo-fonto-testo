@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fos.xml,v 1.23 2009/06/24 16:30:55 revo Exp $">
+<art mrk="$Id: fos.xml,v 1.43 2023/08/31 13:11:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fos</rad>/i
@@ -52,6 +51,7 @@
       <ref cel="kav.0igi">kavigi</ref>,
       <ref cel="plug.0i">plugi</ref>
     </refgrp>
+  <trd lng="de">buddeln</trd>
   <trdgrp lng="es">
     <trd>cavar</trd>,
     <trd>excavar</trd>
@@ -72,13 +72,17 @@
         filozofie <tld/>i en teorioj
         <fnt>
           <bib>LR</bib>
-          <vrk><url ref="http://eduinf.waw.pl/esp/lern/librejo/0015/0004.php">Akcento &dash; 
+          <vrk><url ref="&EduInf;lern/librejo/0015/0004.php">Akcento &#x2010;
           Pri la reguloj de la akcento</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   <trd lng="es">profundizar<klr> (en el conocimiento)</klr></trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_p;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>hloubit <klr>(j&aacute;mu)</klr></trd>,
     <trd>kopat</trd>,
@@ -96,6 +100,11 @@
     <trd>retourner<klr tip="ind"> (la terre)</klr></trd>
   </trdgrp>
   <trd lng="hu">&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6398;&#x308B;  [<ind>&#x307B;&#x308B;</ind>]</trd>,
+    <trd>&#x767A;&#x6398;&#x3059;&#x308B;  [<ind>&#x306F;&#x3063;&#x304F;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6398;&#x308A;&#x4E0B;&#x3052;&#x308B;  [<ind>&#x307B;&#x308A;&#x3055;&#x3052;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">graven</trd>
   <trdgrp lng="pt">
     <trd>esquadrinhar</trd>,
@@ -110,6 +119,10 @@
     <trd>kopa&tcaron;</trd>,
     <trd>ry&tcaron;</trd>,
     <trd>r&yacute;&lcaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_p;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_i;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -134,14 +147,18 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        sen konstanta <tld/>ado <klr>(esplorado)</klr> de &jcirc;urnalistoj la diversaj 
+        sen konstanta <tld/>ado <klr>(esplorado)</klr> de &jcirc;urnalistoj la diversaj
         skandaloj eble ne tiel rapide, detale kaj komplete evidenti&gcirc;us
         <fnt>
+        <aut>Stefan Maul</aut>
+        <vrk>Estimataj gelegantoj,</vrk>
           <bib>Monato</bib>
+          <lok>2000/03, p. 3</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_p;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">kop&aacute;n&iacute;</trd>
   <trdgrp lng="de">
     <trd>Graben</trd>,
@@ -154,9 +171,17 @@
     <trd>creusement</trd>
   </trdgrp>
   <trd lng="hu">&aacute;s&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7A74;&#x6398;&#x308A;  [<ind>&#x3042;&#x306A;&#x307B;&#x308A;</ind>]</trd>,
+    <trd>&#x6398;&#x524A;  [<ind>&#x304F;&#x3063;&#x3055;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">graafwerk</trd>
   <trd lng="ru">&c_r;&c_y;&c_t;&c_mol;&c_jo;</trd>
   <trd lng="sk">kopanie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_p;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_r;&c_i;&c_t;&c_t;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fos.0ajxo">
@@ -165,7 +190,7 @@
     <dif>
       <tld lit="F"/>ita, ordinare longa kava&jcirc;o:
       <ekz>
-        se blindulo kondukos blindulon, amba&ubreve; falos en <tld/>a&jcirc;on  
+        se blindulo kondukos blindulon, amba&ubreve; falos en <tld/>a&jcirc;on
         <fnt>
           <bib>NT</bib>
           <lok>Mateo 15:14</lok>
@@ -174,11 +199,12 @@
       <ekz>
         profunda akvo<tld/>a&jcirc;o <klr>(<ref tip="sub" cel="kanal.0o.AKV">kanalo<sncref/></ref>)</klr>
         limas kun &gcirc;ardeno kaj najbara tereno nordflanke
-        <fnt>
+       <fnt>
+          <aut>M&aacute;ire NicAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006878.php">&Gcirc;ardenumi</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://www.esperanto.be/fel/mon/006878.html">
-            DOMMASTRUMO: &Gcirc;ardenumi</url></vrk>
-        </fnt>;
+          <lok>2000/04, p. 20</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <klr>[burgo]</klr> &ccirc;irka&ubreve;ita de tri <tld/>a&jcirc;oj
@@ -199,6 +225,11 @@
       <ref cel="trancx1.0o">tran&ccirc;eo</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_o;&c_w;</trd>,
+    <trd>&c_a;&c_k;&c_o;&c_p;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_sh;&c_e;&c_ja;</trd>
+  </trdgrp>
   <trd lng="de">Graben</trd>
   <trdgrp lng="en">
     <trd>ditch</trd>,
@@ -215,6 +246,11 @@
     <trd>tranch&eacute;e</trd>
   </trdgrp>
   <trd lng="hu">&aacute;rok</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6E9D;  [<ind>&#x3069;&#x3076;</ind>]</trd>,
+    <trd>&#x5800;  [<ind>&#x307B;&#x308A;</ind>]</trd>,
+    <trd>&#x7A74;  [<ind>&#x3081;&#x3069;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kuil</trd>,
     <trd>greppel</trd>
@@ -222,6 +258,10 @@
   <trdgrp lng="ru">
     <trd>&c_ja;&c_m;&c_a;</trd>,
     <trd>&c_t;&c_r;&c_a;&c_n;&c_sh;&c_je;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_v;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_a;&c_v;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -235,15 +275,16 @@
         <fnt><bib>F</bib>, <lok>&FE; 34</lok></fnt>;
       </ekz>
       <ekz>
-        en la unua vico staris la <tld/>istoj kun pintohakiloj, en la dua kun pio&ccirc;oj, en la tria kun <tld/>iloj
+        en la unua vico staris la <tld/>istoj kun pintohakiloj, en la dua kun pio&ccirc;oj, en la tria kun
+        <tld/>iloj
         <fnt>
           <bib>Far1</bib>
           <lok>&Ccirc;apitro XXIV</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>ileton vi devas havi &ccirc;e vi sur rimeno; kaj 
-        kiam vi sidos ekstere, <tld/>u per &gcirc;i kaj reen kovru vian elirinta&jcirc;on 
+        <tld/>ileton vi devas havi &ccirc;e vi sur rimeno; kaj
+        kiam vi sidos ekstere, <tld/>u per &gcirc;i kaj reen kovru vian elirinta&jcirc;on
         <klr>(feka&jcirc;on)</klr>
         <fnt>
           <bib>MT</bib>
@@ -252,6 +293,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a; &c_d;&c_l;&c_ja;
+    &c_k;&c_a;&c_p;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_r;&c_y;&c_d;&c_l;&c_jo;&c_w;&c_k;&c_a;</trd>
+  </trdgrp>
   <trd lng="cs">n&aacute;stroj na obd&ecaron;l&aacute;v&aacute;n&iacute; p&uring;dy</trd>
   <trdgrp lng="de">
     <trd>Grabwerkzeug</trd>,
@@ -266,12 +312,21 @@
   <trd lng="es">pala</trd>
   <trd lng="fr">pelle</trd>
   <trd lng="hu">&aacute;s&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x92E4;  [<ind>&#x3059;&#x304D;</ind>]</trd>,
+    <trd>&#x936C;  [<ind>&#x304F;&#x308F;</ind>]</trd>,
+    <trd>&#x30B7;&#x30E3;&#x30D9;&#x30EB;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>schop</trd>,
     <trd>spade</trd>
   </trdgrp>
   <trd lng="ru">&c_l;&c_o;&c_p;&c_a;&c_t;&c_a;</trd>
   <trd lng="sk">n&aacute;stroj na obr&aacute;banie p&ocirc;dy</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_o;&c_p;&c_a;&c_t;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fos.cxirkaux0i">
@@ -302,11 +357,12 @@
       </ekz>
     </dif>
   </snc>
-  
+  <trd lng="be">&c_a;&c_b;&c_k;&c_a;&c_p;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="de">
     <trd>umgraben</trd>
     <trd>mit einem Graben <ind>umgeben</ind></trd>
   </trdgrp>
+  <trd lng="en">dig around</trd>
   <trdgrp lng="es">
     <trd>excavar<klr tip="ind"> (por todas partes)</klr></trd>,
     <trd>voltear<klr> (la tierra)</klr></trd>
@@ -317,6 +373,7 @@
     <trd>retourner<klr tip="ind"> (la terre)</klr></trd>
   </trdgrp>
   <trd lng="hu">k&ouml;rbe&aacute;s</trd>
+  <trd lng="uk">&c_o;&c_b;&c_k;&c_o;&c_p;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   <adm>
     La ekzemplo kun "cxirkaux~a&jcirc;o" suspektigas, ke "&ccirc;irka&ubreve;~i"
     povus signifi anka&ubreve; "~i &ccirc;e la &ccirc;irka&ubreve;o de". Indus ser&ccirc;i
@@ -344,10 +401,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_k;&c_o;&c_p;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>rozkopat</trd>,
     <trd>rozr&yacute;t</trd>
   </trdgrp>
+  <trd lng="de">umgraben</trd>
+  <trd lng="en">dig up</trd>
   <trdgrp lng="es">
     <trd>abrir una excavaci&oacute;n</trd>
   </trdgrp>
@@ -364,6 +424,10 @@
     <trd>rozkopa&tcaron;</trd>,
     <trd>rozry&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_k;&c_o;&c_p;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_r;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fos.en0i">
@@ -373,7 +437,7 @@
     <dif>
       <tld lit="F"/>i por enterigi:
       <ekz>
-        Jakob enfosis [la ringojn] sub la kverko
+        <nom>Jakob</nom> enfosis <klr>[la ringojn]</klr> sub la kverko
         <fnt>
           <bib>MT</bib>
           <lok>Genezo 35:4</lok>
@@ -388,6 +452,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_k;&c_o;&c_p;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_o;&c_p;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>hrab&aacute;n&iacute;m zakr&yacute;t</trd>,
     <trd>zahrabat</trd>,
@@ -404,6 +472,7 @@
     <trd>be&aacute;s</trd>,
     <trd>bele&aacute;s</trd>
   </trdgrp>
+  <trd lng="ja">&#x57CB;&#x3081;&#x308B;  [<ind>&#x3046;&#x3081;&#x308B;</ind>]</trd>
   <trd lng="nl">begraven</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_k;&c_o;&c_p;&c_a;&c_t;&c_mol;</trd>,
@@ -411,6 +480,10 @@
     <trd>&c_z;&c_a;&c_r;&c_y;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">zakopa&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_k;&c_o;&c_p;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fos.el0i">
@@ -456,6 +529,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_k;&c_o;&c_p;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_k;&c_o;&c_p;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>nakopat</trd>,
     <trd>vydob&yacute;t</trd>,
@@ -476,6 +553,7 @@
     <trd>extraire<klr tip="ind"> (qc d'enfoui)</klr></trd>
   </trdgrp>
   <trd lng="hu">ki&aacute;s</trd>
+  <trd lng="ja">&#x6398;&#x308A;&#x51FA;&#x3059;  [<ind>&#x307B;&#x308A;&#x3060;&#x3059;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>opgraven</trd>,
     <trd>uitgraven</trd>
@@ -485,6 +563,10 @@
     <trd>&c_v;&c_y;&c_k;&c_o;&c_p;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">vykopa&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_k;&c_o;&c_p;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_r;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fos.el0ado">
@@ -499,7 +581,8 @@
         <fnt><bib>IntArkeol</bib>, <lok>p. 10a</lok></fnt>;
       </ekz>
       <ekz>
-        la ekonomio centri&gcirc;as krom la turismo, en la produktado de sukero kaj en la el<tld/>ado de ba&ubreve;ksito
+        la ekonomio centri&gcirc;as krom la turismo, en la produktado de sukero kaj en la el<tld/>ado de
+        ba&ubreve;ksito
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=1988">Jamajko</url></lok>
@@ -514,6 +597,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_k;&c_o;&c_p;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">exhumace</trd>
   <trdgrp lng="de">
     <trd>Ausgrabung</trd>,
@@ -541,14 +625,16 @@
     <dif>
       Esplorado de la grundo por trovi subtera&jcirc;ojn:
       <ekz>
-        &gcirc;ia deveno ne certas &ccirc;ar &gcirc;i ne estis trovita dum arkeologia pri<tld/>ado, sed en la merkatejo de antikva&jcirc;oj
+        &gcirc;ia deveno ne certas &ccirc;ar &gcirc;i ne estis trovita dum arkeologia pri<tld/>ado, sed en la
+        merkatejo de antikva&jcirc;oj
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=323299">Steleo de la Morta Maro</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        pri<tld/>ado evidentigis, ke soldatoj ankora&ubreve; tenis sian fusilon, kiam ili estis &ccirc;i-tie terkovritaj
+        pri<tld/>ado evidentigis, ke soldatoj ankora&ubreve; tenis sian fusilon, kiam ili estis &ccirc;i-tie
+        terkovritaj
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=380611">Batalo apud Verdun</url></lok>
@@ -557,12 +643,22 @@
     </dif>
     <trd lng="de"><klr>arch&auml;ologische</klr> Ausgrabung</trd>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_k;&c_o;&c_p;&c_k;&c_ib;</trd>
   <trd lng="cs">vykop&aacute;vky <klr>(pr&aacute;ce)</klr></trd>
+  <trdgrp lng="en">
+    <trd>dig</trd>,
+    <trd>excavation</trd>
+  </trdgrp>
   <trd lng="es">excavaci&oacute;n<klr> (para explorar un terreno)</klr></trd>
   <trd lng="fr">fouille<klr> (d'un terrain)</klr></trd>
   <trd lng="hu">megkutat<klr> (&aacute;sat&aacute;ssal)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x6398;  [<ind>&#x306F;&#x3063;&#x304F;&#x3064;</ind>]</trd>,
+    <trd>&#x767A;&#x6398;&#x8ABF;&#x67FB;  [<ind>&#x306F;&#x3063;&#x304F;&#x3064;&#x3061;&#x3087;&#x3046;&#x3055;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_k;&c_o;&c_p;&c_k;&c_i;</trd>
   <trd lng="sk">vykop&aacute;vky <klr>(pr&aacute;ce)</klr></trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_k;&c_o;&c_p;&c_k;&c_i;</trd>
 </drv>
 
 <drv mrk="fos.sub0i">
@@ -578,14 +674,26 @@
         </fnt>;
       </ekz>
       <ekz>
-        se iu trovos &scirc;telanton &ccirc;e sub<tld/>ado kaj batos lin kaj 
+        se iu trovos &scirc;telanton &ccirc;e sub<tld/>ado kaj batos lin kaj
         tiu mortos, tiam oni ne ju&gcirc;u lin pro la sango
         <fnt>
           <bib>MT</bib>
           <lok>Eliro 22:2</lok>
-        </fnt>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas komandanto de citadelo, kiun sub<tld/>as la malamiko, kaj li rigardas
+        tion senpova
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>!
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd>aush&ouml;hlen</trd>,
+    <trd>unterh&ouml;hlen</trd>
+  </trdgrp>
   </snc>
   <snc mrk="fos.sub0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -593,23 +701,55 @@
       Ka&scirc;e prepari la ruinigon, la malsukceson de; perfide malutili al,
       nevideble iom post iom difekti:
       <ekz>
-        tia metio sub<tld/>as la sanon;
+        konfidu al ni la sekretan &ccirc;agrenon, kiu sub<tld/>as ne nur vian feli&ccirc;on, sed
+        anka&ubreve; vian sanon
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la trolaboro, la &ccirc;agreno sub<tld/>as lin;
+        fremdaj popoloj <klr>[&#x2026;]</klr> povus sub<tld/>i nian religion kaj kun &gcirc;i la
+        enspezojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
       </ekz>
       <ekz>
         sub<tld/>i per kalumnioj la reputacion de iu;
       </ekz>
       <ekz>
-        kelkaj personoj komencis sub<tld/>adi la a&ubreve;toritaton de niaj
-        kongresoj<fnt>Z</fnt>;
+        &ccirc;u decas sub<tld/>i ilian a&ubreve;toritaton anta&ubreve; la amasoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>?
       </ekz>
       <ekz>
-        tiaj komplotoj sub<tld/>is la potencon de la regno.
+        tiu &ccirc;i mal&gcirc;ojo sub<tld/>os vian vivon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        akiri la mal&gcirc;ojan gloron de malhelpanto kaj sub<tld/>anto
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto 1910</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sub<tld/>i la tutan laboron de duoncentjaro
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>.
       </ekz>
     </dif>
+  <trd lng="de">unterminieren</trd>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_k;&c_o;&c_p;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>podkopat</trd>,
     <trd>podkop&aacute;vat</trd>,
@@ -627,6 +767,11 @@
     <trd>saper</trd>
   </trdgrp>
   <trd lng="hu">al&aacute;&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6398;&#x308A;&#x5D29;&#x3059;  [<ind>&#x307B;&#x308A;&#x304F;&#x305A;&#x3059;</ind>]</trd>,
+    <trd>&#x3080;&#x3057;&#x3070;&#x3080;</trd>,
+    <trd>&#x8EE2;&#x8986;&#x3092;&#x306F;&#x304B;&#x308B;  [<ind>&#x3066;&#x3093;&#x3077;&#x304F;&#x3092;&#x306F;&#x304B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ondermijnen</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_d;&c_k;&c_o;&c_p;&c_a;&c_t;&c_mol;</trd>,
@@ -646,12 +791,13 @@
     <dif>
       Bore <tld/>i kaj esplori, truigante la materialon:
       <ekz>
-        ne provizu al vi trezorojn sur la tero, <klr>...</klr> kie
+        ne provizu al vi trezorojn sur la tero, <klr>[&#x2026;]</klr> kie
         &scirc;telistoj tra<tld/>as kaj &scirc;telas
         <fnt><bib>NT</bib>, <lok>&Mat; 6:19</lok></fnt>;
       </ekz>
       <ekz>
-        se la domomastro scius, je kioma horo la &scirc;telisto venos, li maldormus kaj ne lasus sian domon tra<tld/>i&gcirc;i
+        se la domomastro scius, je kioma horo la &scirc;telisto venos, li maldormus kaj ne lasus sian
+        domon tra<tld/>i&gcirc;i
         <fnt>
           <bib>NT</bib>
           <lok>Luko 12:39</lok>
@@ -666,7 +812,12 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_k;&c_o;&c_p;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">prokopat</trd>
+  <trdgrp lng="de">
+    <trd>durchforsten</trd>,
+    <trd>durchw&uuml;hlen</trd>
+  </trdgrp>
   <trd lng="en">dig through</trd>
   <trd lng="es">perforar</trd>
   <trd lng="fr">percer en creusant</trd>
@@ -680,14 +831,33 @@
     <dif>
       <ref tip="dif" cel="piocx.0o">Pio&ccirc;o</ref>:
       <ekz>
+        per fortika frapo de sia malgranda pik<tld/>ilo, li rompis la glacian elstara&jcirc;on
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        uzante la pinton de sia pik<tld/>ilo kiel levilon, li faligis la brikojn, kiuj
+        estis plej malbone kunligitaj
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekoka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         la homo de nov&scirc;tonepoko setli&gcirc;is, da&ubreve;rigis terkultivadon per pik<tld/>ilo, bredis bestojn
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=3648'>Rado</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3648">Rado</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_ib;&c_r;&c_k;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
+  </trdgrp>
   <trd lng="cs">krump&aacute;&ccaron;</trd>
   <trdgrp lng="de">
     <trd>Spitzhacke</trd>,
@@ -710,6 +880,10 @@
   <trdgrp lng="sk">
     <trd>kromp&aacute;&ccaron;</trd>,
     <trd>&ccaron;akan</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_i;&c_r;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_j;&c_l;&c_o;</trd>
   </trdgrp>
 </drv>
 
@@ -750,7 +924,7 @@
     <dif>
       <ref tip="dif" cel="fos.0i.FIG"><tld lit="F"/>i<sncref/></ref>:
       <ekz>
-        kelkaj strataj buboj ku&scirc;i&gcirc;is &ccirc;irka&ubreve; la defluilo kaj ser&ccirc;<tld/>is en &gcirc;i, 
+        kelkaj strataj buboj ku&scirc;i&gcirc;is &ccirc;irka&ubreve; la defluilo kaj ser&ccirc;<tld/>is en &gcirc;i,
         kie ili trovis malnovajn najlojn, kuprajn monerojn kaj alion
         <fnt>
           <bib>Fab2</bib>
@@ -764,15 +938,29 @@
     <dif>
       Ser&ccirc;i ion ka&scirc;itan:
       <ekz>
-        ser&ccirc;<tld/>i en sia po&scirc;o<fnt>Z</fnt>.
+        mi devas ja rekompenci vin <klr>[&#x2026;]</klr>, li ser&ccirc;<tld/>as en sia po&scirc;o
+        <fnt>
+          <bib>GDn</bib>
+          <lok>Akto Dua</lok>
+        </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd>suchend <ind>graben</ind></trd>,
+    <trd>durchw&uuml;hlen</trd>
+  </trdgrp>
   </snc>
   <adm>
     Precizigi la nuancojn inter ~i 2, sercx~i 1/2, pri~i ktp. Se
     oni sercxas ion kasxitan en cxambro, cxu eblas diri, ke oni
     sercx~as la cxambron / en la cxambro? <aut>MB</aut>
   </adm>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_p;&c_a;&c_c;&c_mol; <klr>(&c_d;&c_l;&c_ja;
+    &c_p;&c_o;&c_sh;&c_u;&c_k;&c_u;)</klr></trd>,
+    <trd>&c_k;&c_a;&c_p;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">durchforsten</trd>
   <trd lng="en">excavate</trd>
   <trd lng="es">excavar</trd>
   <trd lng="fr">fouiller<klr tip="ind"> (chercher qc)</klr></trd>
@@ -780,6 +968,10 @@
     <trd>t&uacute;r</trd>
     <trd>kutat</trd>,
     <trd>keresg&eacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x6398;&#x3059;&#x308B;  [<ind>&#x306F;&#x3063;&#x304F;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8A66;&#x6398;&#x3059;&#x308B;  [<ind>&#x3057;&#x304F;&#x3064;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">wroeten<klr tip="ind"> (zoekend graven)</klr></trd>
   <trdgrp lng="ru">
@@ -799,14 +991,18 @@
       konstruado:
       <ekz>
         de la 21a &gcirc;is la 25a de decembro, 2002, &ccirc;inaj arkeologoj faris
-        ur&gcirc;an pri<tld/>adon de tombaro Jiuliandun, Hubei-provinco
+        ur&gcirc;an pri<tld/>adon de tombaro <nom>Jiuliandun</nom>, <nom>Hubei</nom>-provinco
         <fnt><aut>&Ccirc;ina Radio Internacia</aut>, <vrk> Brilaj arkeologiaj
         elteriga&jcirc;oj en provinco Hubei</vrk>,
         <lok>2005-01-19</lok></fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="en">excavate</trd>
+  <trd lng="de">Rettungsgrabung</trd>
+  <trdgrp lng="en">
+    <trd>excavate</trd>,
+    <trd>rescue archaeology</trd>
+  </trdgrp>
   <trd lng="es">excavar con rapidez</trd>
   <trd lng="fr">fouille de sauvetage</trd>
   <trd lng="hu">leletment&odblac; <ind>&aacute;sat&aacute;s</ind></trd>
@@ -814,24 +1010,27 @@
 </art>
 <!--
 $Log$
+versio 1.42 2023/08/23 19:19:00
+Wolfram Diestel: +ekz-oj, trd de
+
+versio 1.41 2023/04/15 10:28:44
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.40 2023/04/07 10:28:53
+Paul Peeraerts: &Monato;
+
+versio 1.39 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.32 2021/11/05 11:40:27
+Noam Mohr: +trd en fos
+
+versio 1.31 2021/09/28 07:28:59
+Dmitri Gabinski: + trd be
+
 Revision 1.29  2017/06/06 07:10:13  revo
 Wolfram Diestel: ekzoj ~ado, ~ajxo
 
 Revision 1.28  2017/06/06 05:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn de ~i, el~i
-
-Revision 1.27  2015/08/28 08:10:15  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.26  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.25  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.24  2011/12/31 01:10:08  revo
-Eduardo Navas: +trad es
-
-Revision 1.23  2009/06/24 16:30:55  revo
 -->
 </vortaro>

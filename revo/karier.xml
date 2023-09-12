@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: karier.xml,v 1.14 2009/08/23 16:34:07 revo Exp $">
+<art mrk="$Id: karier.xml,v 1.24 2023/09/01 13:58:56 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>karier</rad>/o <fnt><bib>PV</bib></fnt>
@@ -40,14 +39,21 @@
     <trd>&eacute;letp&aacute;lya</trd>,
     <trd>karrier</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8077;&#x696D;  [<ind>&#x3057;&#x3087;&#x304F;&#x304E;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x9053;  [<ind>&#x3061;</ind>]</trd>,
+    <trd>&#x7D4C;&#x6B74;  [<ind>&#x3051;&#x3044;&#x308C;&#x304D;</ind>]</trd>,
+    <trd>&#x751F;&#x6DAF;  [<ind>&#x3057;&#x3087;&#x3046;&#x304C;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>loopbaan</trd>,
     <trd>carri&egrave;re</trd>
   </trdgrp>
-  <trd lng="pl">kariera</trd> 
+  <trd lng="pl">kariera</trd>
   <trd lng="ro">carier&abreve;</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_mol;&c_je;&c_r;&c_a;</trd>
   <trd lng="sk">kari&eacute;ra</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_r;&#x2019;&c_jeu;&c_r;&c_a;</trd>
 </drv>
 
 <drv mrk="karier.0i">
@@ -62,19 +68,22 @@
         socia grimpo
         <fnt>
           <aut>L. Bianciardi, trad. C. Minnaja</aut>,
-          <vrk><url
-          ref="http://www.riaprireilfuoco.org/Bianciardini/Intelektulo.pdf">
+          <vrk><url ref="http://www.riaprireilfuoco.org/Bianciardini/Intelektulo.pdf">
           Kiel oni i&gcirc;as Intelektulo</url></vrk>,
           <lok>[2008]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_k;&c_a;&c_r;&#x2019;&c_je;&c_r;&c_u;</ind></trd>,
+    <trd>&c_z;&c_a;&c_j;&c_m;&c_a;&c_c;&c_c;&c_a; <ind>&c_k;&c_a;&c_r;&#x2019;&c_je;&c_r;&c_a;&c_j;</ind></trd>
+  </trdgrp>
   <trd lng="ca">fer <ind>carrera</ind></trd>
   <trd lng="cs">honit se za kari&eacute;rou</trd>
   <trd lng="es">hacer <ind>carrera</ind></trd>
   <trd lng="fr">faire carri&egrave;re</trd>
-  <trd lng="pl">karier&eogonek; robi&cacute;</trd> 
+  <trd lng="pl">karier&eogonek; robi&cacute;</trd>
   <trd lng="ro">carier&abreve; de f&abreve;cut  </trd>
   <trd lng="sk">nah&aacute;&ncaron;a&tcaron; sa za kari&eacute;rou</trd>
 </drv>
@@ -102,14 +111,16 @@
   <trd lng="es">arribismo</trd>
   <trd lng="fr">carri&eacute;risme</trd>
   <trd lng="hu">karrierizmus</trd>
+  <trd lng="ja">&#x51FA;&#x4E16;&#x4E3B;&#x7FA9;  [<ind>&#x3057;&#x3085;&#x3063;&#x305B;&#x3057;&#x3085;&#x304E;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>ambitie</trd>,
     <trd>eerzucht</trd>
   </trdgrp>
-  <trd lng="pl">karierowiczowstwo</trd> 
+  <trd lng="pl">karierowiczowstwo</trd>
   <trd lng="ro">carierism</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_mol;&c_je;&c_r;&c_i;&c_z;&c_m;</trd>
   <trd lng="sk">kari&eacute;rizmus</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_r;&#x2019;&c_jeu;&c_r;&c_i;&c_z;&#x43C;</trd>
 </drv>
 
 <drv mrk="karier.0isto">
@@ -133,18 +144,23 @@
     <trd>karrierista</trd>,
     <trd>t&ouml;rtet&odblac;</trd>
   </trdgrp>
+  <trd lng="ja">&#x51FA;&#x4E16;&#x4E3B;&#x7FA9;&#x8005;  [<ind>&#x3057;&#x3085;&#x3063;&#x305B;&#x3057;&#x3085;&#x304E;&#x3057;&#x3083;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>arrivist</trd>,
     <trd>streber</trd>
   </trdgrp>
-  <trd lng="pl">karierowicz</trd> 
+  <trd lng="pl">karierowicz</trd>
   <trd lng="ro">carierist</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_mol;&c_je;&c_r;&c_i;&c_s;&c_t;</trd>
   <trd lng="sk">karierista</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_r;&#x2019;&c_jeu;&c_r;&c_i;&c_s;&c_t;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/08/30 13:29:36
+Dmitri Gabinski: + trd be
+
 Revision 1.20  2018/02/01 23:10:38  revo
 Vito Redsky: +trd pl +trd ro
 

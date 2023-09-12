@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kvater.xml,v 1.14 2008/06/08 16:30:26 revo Exp $">
+<art mrk="$Id: kvater.xml,v 1.28 2023/09/01 15:46:47 revo Exp $">
 <kap>
   <rad>kvaternar</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -11,8 +10,7 @@
   <snc mrk="kvater.0o.GEOL">
     <uzo tip="fak">GEOL</uzo>
     <dif>
-      Geologia <ref tip="lst" cel="period.0o.dauxro"
-      lst="voko:geologiaj_tempoj">periodo</ref> 
+      Geologia <ref tip="lst" cel="period.0o.dauxro" lst="voko:geologiaj_tempoj">periodo</ref> 
       ampleksanta <ref tip="sub" cel="plejst.0o">plejstocenon</ref>
       kaj <ref tip="prt" cel="holocen.0o">holocenon</ref>:
       <ekz>
@@ -22,9 +20,9 @@
       <ekz>
         <tld/>o estas dividita en du periodoj:
         <ref tip="sub" cel="plejst.0o">plejstoceno</ref>
-        (<ref tip="sub" cel="diluvi.0o">diluvio</ref>) - glacia
+        (<ref tip="sub" cel="diluvi.0o">diluvio</ref>) &dash; glacia
         periodo kaj holoceno
-        (<ref tip="sub" cel="aluvi.0o">aluvio</ref>) - postglacia
+        (<ref tip="sub" cel="aluvi.0o">aluvio</ref>) &dash; postglacia
         periodo;
       </ekz>
     </dif>
@@ -42,7 +40,7 @@
     &c_p;&c_je;&c_r;&c_i;&c_o;&c_d;
     </trd>
   </snc>
-  <snc>
+  <snc mrk="kvater.0o.formacio">
     <dif>
       La formacio de la kvara geologia epoko.
     </dif>
@@ -62,20 +60,26 @@
     unua (<ref tip="vid" cel="primar.0a.GEOL">primara</ref>),
     dua (<ref tip="vid" cel="sekund2.0a.GEOL">sekundara</ref>),
     tria (<ref tip="vid" cel="tercia.0a.GEOL">terciara</ref>)
-    kaj kvara (<ref tip="dif" cel="kvater.0a.GEOL"><tld/>a</ref>).
+    kaj kvara (<ref cel="kvater.0a.GEOL"><tld/>a</ref>).
     Nuntempe el ili nur <em>kvaternara</em> kaj <em>tertiara</em>
     estas plu uzataj.
   </rim>
+  <trd lng="be">&c_ch;&c_a;&c_c;&c_mol;&c_v;&c_ja;&c_r;&c_c;&c_ib;&c_ch;&c_n;&c_y; &c_p;&c_e;&c_r;&c_y;&c_ja;&c_d;</trd>
   <trdgrp lng="cs">
     <trd>antropozoikum</trd>,
     <trd>kvart&eacute;r</trd>,
     <trd>&ccaron;tvrtohory</trd>
   </trdgrp>
   <trd lng="fr">quaternaire<klr> (subst.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x7B2C;&#x56DB;&#x7D00;  [<ind>&#x3060;&#x3044;&#x3088;&#x3093;&#x304D;</ind>]</trd>,
+    <trd>&#x7B2C;&#x56DB;&#x7CFB;  [<ind>&#x3060;&#x3044;&#x3088;&#x3063;&#x3051;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">&scaron;tvrtohory</trd>
+  <trd lng="uk">&c_ch;&c_je;&c_t;&c_v;&c_je;&c_r;&c_t;&c_i;&#x43D;&#x43D;&c_i;&c_j; &#x43F;&c_je;&c_r;&c_ib;&#x43E;&c_d;</trd>
 </drv>
 
-<drv mrk="kvater.0a.KOMUNE">
+<drv mrk="kvater.0a">
   <kap><tld/>a</kap>
   <snc mrk="kvater.0a.GEOL">
     <uzo tip="fak">GEOL</uzo>
@@ -115,17 +119,35 @@
     &c_ch;&c_je;&c_t;&c_v;&c_je;&c_r;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;
     </trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_a;&c_c;&c_mol;&c_v;&c_je;&c_r;&c_t;&c_a;&c_r;&c_a;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_ch;&c_a;&c_c;&c_mol;&c_v;&c_ja;&c_r;&c_c;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>kvart&eacute;rn&iacute;</trd>,
     <trd>kvatern&aacute;rn&iacute;</trd>,
     <trd>&ccaron;tvrtohorn&iacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7B2C;&#x56DB;&#x7D00;&#x306E;  [<ind>&#x3060;&#x3044;&#x3088;&#x3093;&#x304D;&#x306E;</ind>]</trd>,
+    <trd>&#x7B2C;&#x56DB;&#x7CFB;&#x306E;  [<ind>&#x3060;&#x3044;&#x3088;&#x3063;&#x3051;&#x3044;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">quaternaire</trd>
   <trd lng="sk">&scaron;tvrtohorn&yacute;</trd>
+  <trd lng="uk">&c_ch;&c_je;&c_t;&c_v;&c_je;&c_r;&c_t;&c_i;&#x43D;&#x43D;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.27 2023/01/31 12:50:22
+Dmitri Gabinski: + trd be
+
+versio 1.25 2021/05/11 05:54:13
+Wolfram Diestel: kor. drv@mrk
+
+versio 1.24 2020/05/18 06:35:21
+Wolfram Diestel: kor. ref-tip
+
 Revision 1.22  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -139,11 +161,5 @@ Revision 1.19  2014/12/26 09:10:16  revo
 Damien Brucker: -tajperaro cxe rim
 
 Revision 1.18  2014/12/24 11:10:09  revo
-Damien Brucker: -eraro cxe ref
-
-Revision 1.17  2014/01/21 17:10:11  revo
-Joop Eggen: +trd bg
-
-Revision 1.16  2013/10/04 19:10:09  revo
 -->
 </vortaro>

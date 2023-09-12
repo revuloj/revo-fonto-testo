@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gargar.xml,v 1.17 2005/08/17 16:31:53 revo Exp $">
+<art mrk="$Id: gargar.xml,v 1.23 2023/08/31 14:29:51 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>gargar</rad>/i</kap>
 <drv mrk="gargar.0i">
@@ -88,7 +87,7 @@
   <trdgrp lng="cs">
     <trd>blekotat</trd>,
     <trd>kloktat</trd>,
-    <trd>máchat</trd>,
+    <trd>m&#xE1;chat</trd>,
     <trd>oplachovat</trd>
   </trdgrp>
   <trd lng="en">gargle</trd>
@@ -98,11 +97,23 @@
     <trd>bredouiller</trd>,
     <trd>gargouiller<klr tip="ind"> (des paroles)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3059;&#x3059;&#x3050;</trd>,
+    <trd>&#x6C34;&#x6D17;&#x3044;&#x3059;&#x308B;  [<ind>&#x307F;&#x305A;&#x3042;&#x3089;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3046;&#x304C;&#x3044;&#x3092;&#x3059;&#x308B;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>hrdlo</trd>,
-    <trd>kloktať</trd>,
-    <trd>plákať</trd>,
-    <trd>vyplachovať ústa</trd>
+    <trd>klokta&#x165;</trd>,
+    <trd>pl&#xE1;ka&#x165;</trd>,
+    <trd>vyplachova&#x165; &#xFA;sta</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x43B;&#x43E;&#x441;&#x43A;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x440;&#x43E;&#x43F;&#x43E;&#x43B;&#x456;&#x441;&#x43A;&#x443;&#x432;&#x430;&#x442;&#x438;&#xA0;(&#x441;&#x43A;&#x43B;&#x44F;&#x43D;&#x43A;&#x443;</trd>,
+    <trd>&#x431;&#x456;&#x43B;&#x438;&#x437;&#x43D;&#x443;</trd>,
+    <trd>&#x433;&#x43E;&#x440;&#x43B;&#x43E;)</trd>,
+    <trd>&#x431;&#x435;&#x43B;&#x44C;&#x43A;&#x43E;&#x442;&#x430;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 
@@ -119,9 +130,11 @@
     <trd>torokv&iacute;z</trd>,
     <trd>torokv&ouml;bl&iacute;t&odblac;</trd>
   </trdgrp>
+  <trd lng="ja">&#x3046;&#x304C;&#x3044;&#x85AC;  [<ind>&#x3046;&#x304C;&#x3044;&#x3050;&#x3059;&#x308A;</ind>]</trd>
   <trd lng="nl">gorgelmiddel</trd>
   <trd lng="pt">gargarejo<klr tip="amb"> (l&iacute;quido)</klr></trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_o;&c_s;&c_k;&c_a;&c_n;&c_i;&c_je; &c_d;&c_l;&c_ja; &c_g;&c_o;&c_r;&c_l;&c_a;</trd>
+  <trd lng="uk">&#x440;&#x43E;&#x437;&#x447;&#x438;&#x43D; &#x434;&#x43B;&#x44F; &#x43F;&#x43E;&#x43B;&#x43E;&#x441;&#x43A;&#x430;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 </art>
 <!--

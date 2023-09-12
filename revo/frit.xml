@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frit.xml,v 1.21 2009/08/27 16:31:38 revo Exp $">
+<art mrk="$Id: frit.xml,v 1.34 2023/08/31 13:11:31 revo Exp $">
 <kap>
   <ofc>1</ofc><rad>frit</rad>/i
 </kap>
@@ -16,14 +15,46 @@
       <ref tip="super" cel="kuir.0i">Kuiri</ref> man&gcirc;a&jcirc;on 
       en varmega oleo a&ubreve; graso:
       <ekz>
-        <tld/>itaj terpomoj, fi&scirc;oj.
+        <tld/>itaj terpomoj, fi&scirc;oj;
+      </ekz>
+      <ekz>
+        la kamparano <klr>[&#x2026;]</klr> malofte <tld/>is platan kukon, neniam viandon
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi tiel senkompare <tld/>as kolbasetan far&ccirc;on en tomatoj
+        <fnt>
+          <bib>LSB</bib>
+          <lok>Amo &Ccirc;iama</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi neniam povis forgesi la kuketojn kun konfita&jcirc;o, kiujn <tld/>is via patrino
+        <fnt>
+          
+          <aut>Lena Karpunina</aut>
+          <vrk><url ref="&Monato;/2006/008836.php">La revo pri cirko</url></vrk>
+              <bib>Monato</bib>
+          <lok>2006/01, p. 26</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> <tld/>is, muelis, servis kafon
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 5 (67)</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="rost.0i">rosti</ref>,
+      <ref cel="bak.0i">baki</ref>
+    </refgrp>
   </snc>
-  <refgrp tip="vid">
-    <ref cel="rost.0i">rosti</ref>,
-    <ref cel="bak.0i">baki</ref>.
-  </refgrp>
+  <trd lng="be">&c_s;&c_m;&c_a;&c_zh;&c_y;&c_c;&c_mol; <klr>(&c_u; &c_a;&c_l;&c_je;&c_ib;, &c_f;&c_r;&c_y;&c_t;&c_u;&c_r;&c_y;)</klr></trd>
   <trd lng="bg">&c_p;&c_malmol;&c_r;&c_zh;&c_a;<klr tip="amb"> &c_s; &c_m;&c_n;&c_o;&c_g;&c_o;
   &c_m;&c_a;&c_z;&c_n;&c_i;&c_n;&c_a;</klr></trd>
   <trdgrp lng="de">
@@ -34,6 +65,10 @@
   <trd lng="es">fre&iacute;r</trd>
   <trd lng="fr">frire</trd>
   <trd lng="hu">(zs&iacute;rban) <ind>s&uuml;t</ind></trd>  
+  <trdgrp lng="ja">
+    <trd>&#x63DA;&#x3052;&#x308B;  [<ind>&#x3042;&#x3052;&#x308B;</ind>]</trd>,
+    <trd>&#x3044;&#x305F;&#x3081;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">bakken</trd>
   <trdgrp lng="pt">
     <trd>fritar</trd>,
@@ -46,95 +81,139 @@
     &c_f;&c_r;&c_i;&c_t;&c_ju;&c_r;&c_je;</trd>
   </trdgrp>
   <trd lng="sv">fritera</trd>
+  <trd lng="th">&#xE17;&#xE2D;&#xE14;</trd>
   <trd lng="tr">k&inodot;zartmak</trd>
-  <trd lng="sk">smažiť</trd>
+  <trd lng="sk">sma&zcaron;i&tcaron;</trd>
   <trdgrp lng="cs">
     <trd>fritovat</trd>,
-    <trd>smažit</trd>,
-    <trd>usmažit</trd>,
-    <trd>škvařit</trd>
+    <trd>sma&zcaron;it</trd>,
+    <trd>usma&zcaron;it</trd>,
+    <trd>&scaron;kva&rcaron;it</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_m;&c_a;&c_zh;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_zh;&c_i;&c_t;&c_i; (&c_u; &c_f;&c_r;&c_i;&c_t;&c_ju;&c_r;&c_n;&c_i;&c_c;&c_ib;)</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="frit.0o">
-  <kap><tld/>o</kap>
-  <fnt><bib>HejmVort</bib></fnt>
+  <kap>
+    <tld/>o, <var><kap><tld/>ado</kap></var>
+  </kap>
   <snc>
     <dif>
-      Bastoneto tran&ccirc;ita el terpomo kaj <tld/>ita:
+      Ago <tld/>i:
       <ekz>
-        en Belgio <tld/>oj estas <tld/>itaj dufoje anta&ubreve; surtabligo.
+        mi preferas <tld/>adon de la maco, kiun mi poste ka&ccirc;igos
+        <fnt>
+          <bib>KrB</bib>
+          <lok>Bervala&jcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        fritado de krespoj <klr>[&#x2026;]</klr> fari&gcirc;as furora&jcirc;o de la vesperoj
+        <fnt><aut>Saliko</aut>
+        <vrk><url ref="&Monato;/2000/007162.html">&Gcirc;ojoj kaj
+        &gcirc;uoj de finna somero</url></vrk>
+        <bib>Monato</bib>
+        <lok>2000/12, p. 12</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <ref tip="sin" cel="ter.0pomfingro">terpomfingro</ref>
-  <trd lng="bg">&c_p;&c_malmol;&c_r;&c_zh;&c_je;&c_n;&c_i; &c_k;&c_a;&c_r;&c_t;&c_o;&c_f;&c_i;</trd>
-  <trdgrp lng="de">
-    <trd>Pommes frites</trd>,
-    <trd>Fritten</trd>
-  </trdgrp>
-  <trdgrp lng="en">
-    <trd>French <ind>fry</ind><klr> (Usono)</klr></trd>,
-    <trd>potatoe <ind>chip</ind><klr> (Britujo)</klr></trd>
-  </trdgrp>
-  <trd lng="es"><ind>papas</ind> a la francesa</trd>
-  <trd lng="fr">frite<klr tip="ind"> (pommes frites)</klr></trd>
-  <trdgrp lng="hu">
-    <trd>s&uuml;lt krumpli</trd>,
-    <trd>(s&uuml;lt) <ind>has&aacute;bburgonya</ind></trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>friet</trd>,
-    <trd>frites</trd>,
-    <trd>patat<klr tip="ind"> (frites)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="pt">
-    <trd>fritas</trd>,
-    <trd>batatas fritas</trd>
-  </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_k;&c_a;&c_r;&c_t;&c_o;&c_f;&c_je;&c_l;&c_mol; &c_v;&c_o;
-    &c_f;&c_r;&c_i;&c_t;&c_ju;&c_r;&c_je;</trd>,
-    <trd>&c_k;&c_a;&c_r;&c_t;&c_o;&c_f;&c_je;&c_l;&c_mol;
-    &c_zh;&c_a;&c_r;&c_je;&c_n;&c_y;&c_j;
-    &c_s;&c_o;&c_l;&c_o;&c_m;&c_k;&c_o;&c_j;</trd>
-  </trdgrp>
-  <trd lng="sv">pommes frites</trd>
-  <trd lng="tr">k&inodot;zarm&inodot;&scedil; patates</trd>
-  <trd lng="sk">frita</trd>
-  <trd lng="cs">frita</trd>
+  <ref tip="hom" cel="frit1.0o">frito (terpomfingro)</ref>
+  <trd lng="be">&c_s;&c_m;&c_a;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="de">Braten <klr>(das)</klr></trd>
+  <trd lng="en">frying</trd>
 </drv>
+
 
 <drv mrk="frit.0ajxo">
   <kap><tld/>a&jcirc;o</kap>
   <uzo tip="fak">KUI</uzo>
   <snc>
     <dif>
-      <tld lit="F"/>ita man&gcirc;a&jcirc;o.
+      <tld lit="F"/>ita man&gcirc;a&jcirc;o:
+      <ekz>
+        la sola konsilo konfirmita de la &jcirc;usa revizio rilatas al la evitado man&gcirc;i
+        transajn grasojn (nesaturitajn grasojn arte kreitajn), kiuj trovi&gcirc;as en
+        malkreskanta nombro da biskvitoj, glacia&jcirc;oj kaj <tld/>a&jcirc;oj
+        <fnt>
+          
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2014/011298.php">Ela&ccirc;etas sin (kelkaj) grasoj</url></vrk>
+              <bib>Monato</bib>
+          <lok>2014/07, p. 23</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_m;&c_a;&c_zh;&c_a;&c_n;&c_ib;&c_n;&c_a;</trd>,
+    <trd>&c_s;&c_m;&c_a;&c_zh;&c_a;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_m;&c_a;&c_zh;&c_o;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gebratenes</trd>,
+    <trd>Braten <klr>(der)</klr></trd>
+  </trdgrp>
+  <trd lng="en">fried food</trd>
   <trd lng="es">fritura</trd>
   <trd lng="fr">friture</trd>
   <trd lng="hu">s&uuml;lt (&eacute;tel)</trd>  
+  <trdgrp lng="ja">
+    <trd>&#x30D5;&#x30E9;&#x30A4;  [<ind>&#x3075;&#x3089;&#x3044;</ind>]</trd>,
+    <trd>&#x3044;&#x305F;&#x3081;&#x3082;&#x306E;</trd>
+  </trdgrp>
   <trd lng="pt">fritura</trd>
+<trd lng="th">&#xE02;&#xE2D;&#xE07;&#xE17;&#xE2D;&#xE14;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_r;&c_ib;</trd>,
+    <trd>&c_p;&c_je;&c_ch;&c_je;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frit.0ilo">
   <kap><tld/>ilo</kap>
   <snc>
     <dif>
-      Profunda pato por <tld/>i:
+      Profunda <ref tip="super" cel="pat.0o">pato</ref> por <tld/>i:
       <ekz>
-        <ind>elsalti el la <tld/>ilo en la fajron</ind><fnt>Z</fnt>
-        <klr>(por eviti malbonon sin &jcirc;eti en alian.
-        <ref tip="vid" cel="pluv.0o">pluvo</ref>)</klr>.
+        fajro flamigita per alkoholo ene de <tld/>ilo estas estingata
+        <fnt>
+          
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2015/011481.php">Estingi fajron per sonoj</url></vrk>
+              <bib>Monato</bib>
+          <lok>2015/06, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ctl>eskapi de goblenoj, nur por kapti&gcirc;i de lupoj!</ctl> <klr>[&#x2026;]</klr> fari&gcirc;is
+        proverbo, kvankam ni nun diras &leftquot;<ind>(elsalti) el la fritilo en la fajron</ind>&rightquot; en simile
+        malkomfortaj situacioj        
+        <klr>(por eviti malbonon sin &jcirc;eti en alian, vd
+        <ref tip="vid" cel="pluv.0o">pluvo</ref>)</klr>
         <trd lng="hu">cs&ouml;b&ouml;rb&odblac;l v&ouml;d&ouml;rbe esik</trd>
+        <fnt>
+          <aut>J. R. R. Tolkien (tr. Christopher Gledhill, Patrick H. Wynne)</aut>
+          <vrk>La Hobito (2015)</vrk>
+          <lok>p. 73</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="kasero.0o">kaserolo</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_t;&c_e;&c_l;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_f;&c_r;&c_y;&c_t;&c_u;&c_r;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="bg">&c_f;&c_r;&c_i;&c_t;&c_ju;&c_r;&c_n;&c_i;&c_k;</trd>
-  <trd lng="cs">pánev na smažení</trd>
+  <trd lng="cs">p&aacute;nev na sma&zcaron;en&iacute;</trd>
   <trd lng="de">Friteuse</trd>
+  <trd lng="en">frying pan</trd>
   <trd lng="es">freidora</trd>
   <trdgrp lng="fr">
     <trd>friteuse</trd>,
@@ -145,41 +224,44 @@
     <trd>s&uuml;t&odblac;ed&eacute;ny</trd>,
     <trd>pecsenyes&uuml;t&odblac; (ed&eacute;ny)</trd>
   </trdgrp>
+  <trd lng="ja">&#x30D5;&#x30E9;&#x30A4;&#x30D1;&#x30F3;</trd>
   <trd lng="nl">friteuse</trd>
   <trd lng="pt">frigideira</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_k;&c_o;&c_v;&c_o;&c_r;&c_o;&c_d;&c_a;</trd>,
     <trd>&c_f;&c_r;&c_i;&c_t;&c_ju;&c_r;&c_n;&c_i;&c_c;&c_a;</trd>
   </trdgrp>
-  <trd lng="sk">pražič <klr>(zariadenie)</klr></trd>
+  <trd lng="sk">pra&zcaron;i&ccaron; <klr>(zariadenie)</klr></trd>
+<trd lng="th">&#xE01;&#xE23;&#xE30;&#xE17;&#xE30;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_f;&c_r;&c_i;&c_t;&c_ju;&c_r;&c_n;&c_i;&c_c;&c_ja;</trd>,
+    <trd>&c_s;&c_k;&c_o;&c_v;&c_o;&c_r;&c_o;&c_d;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.22  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.33 2023/04/07 08:30:44
+Paul Peeraerts: + kk <lok>
 
-Revision 1.21  2009/08/27 16:31:38  revo
-Emmanuel Debanne: +trd tr
+versio 1.32 2023/02/07 16:39:08
+Wolfram Diestel: ~ilo: iom ordigis ekz (citiloj, forigo de redunda ekz)
 
-Revision 1.20  2008/01/28 17:30:43  revo
-Wieland Pusch: +trd bg
+versio 1.31 2023/02/04 21:22:57
+Robert Baruch: +trd: en, +ekz: fritilo
 
-Revision 1.19  2007/06/13 16:32:10  revo
-Tulio Flores: +tr pt
+versio 1.30 2022/11/14 13:07:30
+Dmitri Gabinski: + trd be
 
-Revision 1.18  2005/04/28 16:35:31  revo
-Raul Salinas Monteagudo: korekto trd es
+versio 1.29 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.17  2005/04/01 17:49:12  revo
-Jozefo Horvath: +trd hu
+versio 1.28 2022/04/21 16:49:04
+Wolfram Diestel: apartigis frito (termpoma&jcirc;o) al nova art; ekz-oj, ref-oj, trd de
 
-Revision 1.16  2004/10/13 16:32:02  revo
-Wolfram Diestel: kor. germ trd
+versio 1.26 2021/11/19 08:35:16
+Dmitri Gabinski: + trd be
 
-Revision 1.15  2003/01/05 17:32:08  revo
-Wolfram Diestel: ref al kuiri, +germ trd
-
-Revision 1.14  2002/07/02 17:34:35  revo
+versio 1.25 2021/10/15 16:45:39
 -->
 </vortaro>

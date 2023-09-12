@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: adult.xml,v 1.30 2010/08/27 16:30:25 revo Exp $">
+<art mrk="$Id: adult.xml,v 1.38 2023/08/30 18:23:30 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>adult</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
@@ -50,11 +49,18 @@
     <trd>faire <ind>cocu</ind> son conjoint</trd>,
     <trd>tromper son conjoint</trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5E0;&#x5D0;&#x5D5;&#x5E3;</trd>
   <trdgrp lng="hu">
     <trd>h&udblac;tlenkedik</trd>,
     <trd>h&aacute;zass&aacute;gt&ouml;r&eacute;st k&ouml;vet el</trd>
   </trdgrp>
   <trd lng="it">commettere <ind>adulterio</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5BC6;&#x901A;&#x3059;&#x308B;  [<ind>&#x307F;&#x3063;&#x3064;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x4E0D;&#x7FA9;&#x3092;&#x72AF;&#x3059;  [<ind>&#x3075;&#x304E;&#x3092;&#x304A;&#x304B;&#x3059;</ind>]</trd>,
+    <trd>&#x4E0D;&#x8C9E;&#x3092;&#x50CD;&#x304F;  [<ind>&#x4E0D;&#x8C9E;&#x3092;&#x306F;&#x305F;&#x3089;&#x304F;</ind>]</trd>,
+    <trd>&#x795E;&#x306B;&#x305D;&#x3080;&#x304F;  [<ind>&#x304B;&#x307F;&#x306B;&#x305D;&#x3080;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">overspel plegen</trd>
   <trd lng="pt">cometer adult&eacute;rio</trd>
   <trdgrp lng="ru">
@@ -67,6 +73,10 @@
     <trd>beg&aring; <ind>&auml;ktenskapsbrott</ind></trd>
   </trdgrp>
   <trd lng="tr">z&icirc;na yapmak</trd>
+  <trdgrp lng="uk">
+    <trd>&#x437;&#x440;&#x430;&#x434;&#x436;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x447;&#x443;&#x436;&#x43E;&#x43B;&#x43E;&#x436;&#x438;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="adult.0o">
@@ -109,7 +119,14 @@
 conjoint)</klr></trd>,
     <trd>tromperie<klr tip="ind"> (envers son conjoint)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5E0;&#x5D5;&#x5D0;&#x5E3;</trd>
   <trd lng="it">adulterio</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x7FA9;  [<ind>&#x3075;&#x304E;</ind>]</trd>,
+    <trd>&#x4E0D;&#x502B;  [<ind>&#x3075;&#x308A;&#x3093;</ind>]</trd>,
+    <trd>&#x59E6;&#x901A;  [<ind>&#x304B;&#x3093;&#x3064;&#x3046;</ind>]</trd>,
+    <trd>&#x5BC6;&#x901A;  [<ind>&#x307F;&#x3063;&#x3064;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_u;&c_p;&c_r;&c_u;&c_zh;&c_je;&c_s;&c_k;&c_a;&c_ja;
 &c_i;&c_z;&c_m;&c_je;&c_n;&c_a;</trd>,
@@ -119,6 +136,11 @@ conjoint)</klr></trd>,
   <trd lng="sk">cudzolo&zcaron;stvo</trd>
   <trd lng="sv">&auml;ktenskapsbrott</trd>
   <trd lng="tr">z&icirc;na</trd>
+  <trdgrp lng="uk">
+    <trd>&#x447;&#x443;&#x436;&#x43E;&#x43B;&#x43E;&#x437;&#x442;&#x432;&#x43E;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x43B;&#x44E;&#x431;&#x441;&#x442;&#x432;&#x43E;</trd>,
+    <trd>&#x430;&#x434;&#x44E;&#x43B;&#x44C;&#x442;&#x435;&#x440;</trd>
+  </trdgrp>
 </drv>
 
 
@@ -202,6 +224,12 @@ conjoint)</klr></trd>,
     <trd>tromperie<klr tip="ind"> (envers son conjoint)</klr></trd>
   </trdgrp>
   <trd lng="it">adulterio</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E0D;&#x7FA9;  [<ind>&#x3075;&#x304E;</ind>]</trd>,
+    <trd>&#x4E0D;&#x502B;  [<ind>&#x3075;&#x308A;&#x3093;</ind>]</trd>,
+    <trd>&#x59E6;&#x901A;  [<ind>&#x304B;&#x3093;&#x3064;&#x3046;</ind>]</trd>,
+    <trd>&#x5BC6;&#x901A;  [<ind>&#x307F;&#x3063;&#x3064;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_u;&c_p;&c_r;&c_u;&c_zh;&c_je;&c_s;&c_k;&c_a;&c_ja;
 &c_i;&c_z;&c_m;&c_je;&c_n;&c_a;</trd>,
@@ -285,6 +313,7 @@ l'adult&egrave;re)</klr></trd>,
 l'adult&egrave;re)</klr></trd>
   </trdgrp>
   <trd lng="it">condurre all'<ind>adulterio</ind></trd>
+  <trd lng="ja">&#x59E6;&#x901A;&#x3055;&#x305B;&#x308B;  [<ind>&#x304B;&#x3093;&#x3064;&#x3046;&#x3055;&#x305B;&#x308B;</ind>]</trd>
   <trd lng="sk">zvies&tcaron; k cudzolo&zcaron;stvu</trd>
 </drv>
 
@@ -312,12 +341,18 @@ l'adult&egrave;re)</klr></trd>
     <trd>homme <ind>adult&egrave;re</ind></trd>,
     <trd>femme <ind>adult&egrave;re</ind></trd>
   </trdgrp>
+  <trd lng="he">&#x5DE;&#x5B0;&#x5D1;&#x5D5;&#x5BC;&#x5D2;&#x5B8;&#x5E8;</trd>
   <trdgrp lng="it">
   <trd>adultero<klr> (sost.)</klr></trd>, <trd>adultera<klr>
   (sost.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5BC6;&#x901A;&#x8005;  [<ind>&#x307F;&#x3063;&#x3064;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x59E6;&#x592B;  [<ind>&#x304B;&#x3093;&#x3077;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_l;&c_ju;&c_b;&c_o;&c_d;&c_je;&c_j;</trd>
   <trd lng="sk">cudzolo&zcaron;nica</trd>
+  <trd lng="uk">&#x43F;&#x435;&#x440;&#x435;&#x43B;&#x44E;&#x431;&#x435;&#x446;&#x44C;</trd>
 </drv>
 
 <drv mrk="adult.sang0o">
@@ -329,7 +364,7 @@ l'adult&egrave;re)</klr></trd>
         incesto (anka&ubreve; nomata sang<tld/>o) estas seksumado kun familiano a&ubreve; parenco
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=25783'>Incesto</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=25783">Incesto</url></lok>
         </fnt>;
       </ekz>
     </dif>
@@ -352,6 +387,7 @@ l'adult&egrave;re)</klr></trd>
   <trd lng="fr">inceste</trd>
   <trd lng="hu">v&eacute;rfert&odblac;z&eacute;s</trd>
   <trd lng="it">incesto</trd>
+  <trd lng="ja">&#x8FD1;&#x89AA;&#x76F8;&#x59E6;  [<ind>&#x304D;&#x3093;&#x3057;&#x3093;&#x305D;&#x3046;&#x304B;&#x3093;</ind>]</trd>
   <trd lng="nl">incest</trd>
   <trd lng="pt">incesto</trd>
   <trdgrp lng="ru">
@@ -363,6 +399,10 @@ l'adult&egrave;re)</klr></trd>
     <trd>krvismilstvo</trd>
   </trdgrp>
   <trd lng="sv">incest</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x440;&#x43E;&#x432;&#x43E;&#x437;&#x43C;&#x456;&#x448;&#x435;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x456;&#x43D;&#x446;&#x435;&#x441;&#x442;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

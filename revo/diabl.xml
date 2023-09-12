@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: diabl.xml,v 1.28 2009/06/09 16:31:17 revo Exp $">
+<art mrk="$Id: diabl.xml,v 1.38 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>diabl</rad>/o <fnt><bib>PV</bib></fnt>
@@ -45,8 +44,7 @@
       <trd>Beelzebub</trd>,
       <trd>der <ind>Antichrist</ind></trd>
     </trdgrp>
-    <trd
-    lng="grc">&delta;&jota;&alfa_acute;&beta;&omikron;&lambda;&omikron;&sigma_fina;</trd>
+    <trd lng="grc">&delta;&jota;&alfa_acute;&beta;&omikron;&lambda;&omikron;&sigma_fina;</trd>
     <trdgrp lng="pl">
       <trd>Antychryst</trd>,
       <trd>Belzebub</trd>,
@@ -89,7 +87,8 @@
         per &ccirc;iuj <tld/>oj, ni ne igu la aferon ankora&ubreve; pli malsimpla!
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/006937.html'>Genroj en la franca: Sinjorino "Le secr&eacute;taire" (la sekretario)</url></vrk>
+          <vrk><url ref="&Monato;/2000/006937.php">Genroj en la franca: Sinjorino "Le secr&eacute;taire"
+          (la sekretario)</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -158,6 +157,7 @@
     <trd>&c_ch;&c_o;&c_r;&c_t;</trd>,
     <trd>&c_sh;&c_a;&c_t;&c_a;&c_n;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF56;&#xF51;&#xF74;&#xF51;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>&ccaron;ert</trd>,
     <trd>&dcaron;&aacute;bel</trd>,
@@ -169,11 +169,23 @@
   <trd lng="fr">diable</trd>
   <trd lng="he">&shin;&tet;&fnun;</trd>
   <trd lng="hu">&ouml;rd&ouml;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x60AA;&#x9B54;  [<ind>&#x3042;&#x304F;&#x307E;</ind>]</trd>,
+    <trd>&#x9B54;&#x738B;  [<ind>&#x307E;&#x304A;&#x3046;</ind>]</trd>,
+    <trd>&#x6975;&#x60AA;&#x4EBA;  [<ind>&#x3054;&#x304F;&#x3042;&#x304F;&#x306B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">duivel</trd>
   <trd lng="pt">diabo</trd>
   <trdgrp lng="sk">
     <trd>&ccaron;ert</trd>,
     <trd>diabol</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_i;&#x44F;&c_v;&#x43E;&#x43B;</trd>,
+    <trd>&c_ch;&#x43E;&c_r;&c_t;</trd>,
+    <trd>&c_d;&c_ib;&c_d;&#x44C;&#x43A;&#x43E;</trd>,
+    <trd>&c_b;&c_ib;&c_s;</trd>,
+    <trd>&#x43A;&c_u;&c_c;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -210,14 +222,17 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Werner Schad</aut>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007074.html'>Al pli justa mondo</url></vrk>
+          <vrk><url ref="&Monato;/2000/007074.php">Al pli justa mondo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         pro kiu <tld/>a ka&ubreve;zo devas havi Esperanto simplegan gramatikon, se neniu alia havas?
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/006803.html'>Reagoj: Supersignoj, pro kiu diabla ka&ubreve;zo?</url></vrk>
+          <aut>Ott&oacute; Haszpra</aut>
+          <vrk><url ref="&Monato;/2000/006803.php">REAGO: 
+            Supersignoj, pro kiu diabla ka&ubreve;zo?</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/03, p. 27</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -263,6 +278,12 @@
     <trd>&ouml;rd&ouml;gi</trd>,
     <trd>&ouml;rd&ouml;ng&odblac;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x60AA;&#x9B54;&#x306E;  [<ind>&#x3042;&#x304F;&#x307E;&#x306E;</ind>]</trd>,
+    <trd>&#x60AA;&#x9B54;&#x306E;&#x3088;&#x3046;&#x306A;  [<ind>&#x3042;&#x304F;&#x307E;&#x306E;&#x3088;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x60AA;&#x8FA3;&#x306A;  [<ind>&#x3042;&#x304F;&#x3089;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x3072;&#x3069;&#x3044;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>duivels</trd>,
     <trd>verduiveld</trd>
@@ -278,6 +299,12 @@
   <trdgrp lng="sk">
     <trd>&ccaron;ertovsk&yacute;</trd>,
     <trd>diabolsk&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd> &c_d;&c_i;&#x44F;&c_v;&#x43E;&#x43B;&#x44C;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_ch;&#x43E;&c_r;&c_t;&#x44F;&c_ch;&c_i;&c_j;</trd>,
+    <trd>&c_ch;&#x43E;&c_r;&c_t;&c_ib;&c_v;</trd>,
+    <trd>&c_b;&c_ib;&c_s;&c_ib;&c_v;</trd>
   </trdgrp>
 </drv>
 
@@ -310,14 +337,16 @@
         kio, <tld/>e, estas poezio
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007198.html'>Poezio sed ne poemoj</url></vrk>
+          <vrk><url ref="&Monato;/2000/007198.php">Poezio sed ne poemoj</url></vrk>
         </fnt>?
       </ekz>
       <ekz>
         kio, <tld/>e, okazas
-        <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/006805.html'>Kota Akvo: Konstanten Krysakov</url></vrk>
+        <fnt><aut>Konstanten Krysakov</aut>
+          <vrk><url ref="&Monato;/2000/006805.php">KOTA AKVO 
+           </url></vrk>
+           <bib>Monato</bib>
+           <lok>2000/03, p. 28</lok>
         </fnt>?
       </ekz>
     </dif>
@@ -343,7 +372,7 @@
     <trd>Schei&szlig;e</trd>
   </trdgrp>
   <trd lng="en">diabolically</trd>
-  <trd lng="es">¡diablos!</trd>
+  <trd lng="es">&#xA1;diablos!</trd>
   <trd lng="he">&bet;&alef;&vav;&pe;&fnun;
   <ind>&shin;&tet;&nun;&yod;</ind></trd>
   <trdgrp lng="hu">
@@ -351,6 +380,11 @@
     <trd>&ouml;rd&ouml;ng&odblac;sen</trd>,
     <trd>&ouml;rd&ouml;gi m&oacute;don</trd>,
     <trd>az <ind>&ouml;rd&ouml;gbe!</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x60AA;&#x9B54;&#x306E;&#x3088;&#x3046;&#x306B;  [<ind>&#x3042;&#x304F;&#x307E;&#x306E;&#x3088;&#x3046;&#x306B;</ind>]</trd>,
+    <trd>&#x60AA;&#x8FA3;&#x306B;  [<ind>&#x3042;&#x304F;&#x3089;&#x3064;&#x306B;</ind>]</trd>,
+    <trd>&#x3082;&#x306E;&#x3059;&#x3054;&#x304F;</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>verduiveld!</trd>,
@@ -376,15 +410,15 @@
         fari <tld/>a&jcirc;ojn hejme, sankta&jcirc;ojn oficeje;
       </ekz>
       <ekz>
-        la episkoparo petas <klr>[...]</klr> senkulpigon al la indi&gcirc;enoj <klr>[...]</klr> pro la <tld/>a&jcirc;oj
+        la episkoparo petas <klr>[...]</klr> senkulpigon al la indi&gcirc;enoj <klr>[...]</klr> pro la
+        <tld/>a&jcirc;oj
         <fnt>
           <bib>Monato</bib>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_d;'&c_ja;&c_b;&c_a;&c_l;&c_mol;&c_sh;&c_ch;&c_y;&c_n;&c_a;</trd>
+  <trd lng="be">&c_d;'&c_ja;&c_b;&c_a;&c_l;&c_mol;&c_sh;&c_ch;&c_y;&c_n;&c_a;</trd>
   <trdgrp lng="de">
     <trd>Teufelei</trd>
   </trdgrp>
@@ -396,11 +430,15 @@
   <trd lng="fr">diablerie</trd>
   <trd lng="he">&tav;&ayin;&lamed;&vav;&lamed;</trd>
   <trd lng="hu">&ouml;rd&ouml;ng&odblac;ss&eacute;g</trd>
+  <trd lng="ja">&#x60AA;&#x8FA3;&#x306A;&#x884C;&#x3044;  [<ind>&#x3042;&#x304F;&#x3089;&#x3064;&#x306A;&#x304A;&#x3053;&#x306A;&#x3044;</ind>]</trd>
   <trd lng="nl">iets <ind>duivels</ind></trd>
   <trd lng="pl">diabelstwo</trd>
-  <trd
-  lng="ru">&c_ch;&c_je;&c_r;&c_t;&c_o;&c_v;&c_shch;&c_i;&c_n;&c_a;</trd>
+  <trd lng="ru">&c_ch;&c_je;&c_r;&c_t;&c_o;&c_v;&c_shch;&c_i;&c_n;&c_a;</trd>
   <trd lng="sk">&ccaron;ertovina</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ch;&#x43E;&c_r;&c_t;&c_ib;&c_v;&#x43D;&#x44F;</trd>,
+    <trd>&c_ch;&#x43E;&c_r;&c_t;&#x43E;&c_v;&c_i;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="diabl.0eto">
@@ -412,7 +450,7 @@
         libro, en kiu la <ind>pres<tld/>etoj</ind> strange abundas kaj la lingva&jcirc;o abunde strangas
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007110.html'>Atentokapta sed ru&gcirc;krajoninda</url></vrk>
+          <vrk><url ref="&Monato;/2001/007110.php">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
         </fnt>;
         <trd lng="de">Druckfehlerteufel</trd>
       </ekz>
@@ -420,7 +458,7 @@
         per helpo de &ccirc;efsor&ccirc;istino kaj de la <tld/>eto
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=208094'>Rumburak</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=208094">Rumburak</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -434,14 +472,22 @@
   <trd lng="fr">diablotin</trd>
   <trd lng="he">&shin;&tet;&fnun; &qof;&tet;&fnun;</trd>
   <trd lng="hu">kis&ouml;rd&ouml;g</trd>
+  <trd lng="ja">&#x5C0F;&#x60AA;&#x9B54;  [<ind>&#x3053;&#x3042;&#x304F;&#x307E;</ind>]</trd>
   <trd lng="nl">duiveltje</trd>
   <trd lng="pl">diabe&lstroke;ek</trd>
   <trd lng="ru">&c_ch;&c_jo;&c_r;&c_t;&c_i;&c_k;</trd>
   <trd lng="sk">&ccaron;ert&iacute;k</trd>
+  <trd lng="uk">&c_ch;&#x43E;&c_r;&c_t;&c_i;&#x43A;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.37 2023/04/07 16:34:36
+Paul Peeraerts: &Monato;/
+
+versio 1.36 2023/04/01 13:26:48
+Paul Peeraerts: &Monato;
+
 Revision 1.32  2016/10/20 18:10:15  revo
 Carlos Garcia: +trd es -a -e -et
 
@@ -458,8 +504,5 @@ Revision 1.28  2009/06/09 16:31:17  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.27  2008/02/18 17:30:13  revo
-Wieland Pusch: +trd bg
-
-Revision 1.26  2007/07/23 16:31:36  revo
 -->
 </vortaro>

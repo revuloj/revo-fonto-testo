@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: pov.xml,v 1.41 2020/02/16 12:10:34 revo Exp $">
+<art mrk="$Id: pov.xml,v 1.135 2023/09/03 12:45:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>pov</rad>/i <fnt><bib>PV</bib></fnt>
+  <rad>pov</rad>/i
 </kap>
 <drv mrk="pov.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
@@ -15,29 +14,83 @@
       Havi la forton, lertecon a&ubreve; kapablon necesan por fari
       ion:
       <ekz>
-        kiu
-        devas, tiu <tld/>as
+        du homoj <tld/>as pli multe fari ol unu
+        <fnt><bib>F</bib>,
+        <lok>&FE; 12</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi neniel <tld/>as kompreni, kion vi parolas
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 28</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por ke lingvo internacia <tld/>u bone kaj regule progresadi <klr>[&#x2026;]</klr> estas
+        plej necesa <klr>[&#x2026;]</klr> neniam &scirc;an&gcirc;ebla Fundamento de la lingvo
+        <fnt>
+          <bib>F</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i estis]</klr> unu el la plej belaj knabinoj, kiujn oni <tld/>is trovi
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne <tld/>as <klr>[legi tiun libron]</klr>, &ccirc;ar &gcirc;i
+        estas sigelita
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jesaja 29:11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        montru al li dankon, se pli oferi vi ne
+        <tld/>as
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Bogdan</nom> <ind><tld/>is</ind> rekoni &gcirc;in inter mil similaj ringoj
+        <fnt>
+          <aut>Julian Modest</aut>
+          <vrk><url ref="&Monato;/2002/pdf/monato200203.pdf#page=32">La ringo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/03, p. 32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel ni <tld/>os stimuli Esperantan lingvoteknologion
+        <fnt>
+          <bib>LOdE</bib>
+          <aut>Marc van Oostendorp</aut>
+          <vrk><url ref="&LOdE;54-lode.htm#54-02">Esperantologio komputile</url></vrk>
+          <lok>1999, no 4 (54)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per unu frapo <klr>[oni]</klr> <tld/>us forigi &ccirc;iujn problemojn
+        <fnt>
+          <bib>LOdE</bib>
+          <vrk><url ref="&LOdE;73-lode.htm#73-02">Gvidlinioj por informado pri Esperanto</url></vrk>
+          <lok>2000, no 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu devas, tiu <tld/>as
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
         kion oni volas, tion oni <tld/>as
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz>
-      <ekz>du homoj <tld/>as pli multe fari ol unu<fnt><bib>F</bib>,
-      <lok>&FE; 12</lok></fnt>;
-      </ekz>
-      <ekz>
-        mi neniel <tld/>as kompreni, kion vi parolas<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        mi ne <tld/>as legi tiun libron, &ccirc;ar &gcirc;i
-        estas sigelita<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        montru al li dankon, se pli oferi vi ne
-        <tld/>as<fnt>Z</fnt>.
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+<ref tip="sin" cel="kapabl.0i">kapabli</ref>
     <ref tip="sub" cel="sci.povo0i0povi">scipovi, povoscii</ref>
     <trdgrp lng="de">
       <trd>k&ouml;nnen</trd>,
@@ -54,21 +107,31 @@
       </ekz>
       <ekz>
         oni ne <tld/>as malliberigi homojn, pro tio ke ili
-        a&ubreve;skultis muzikon<fnt>B</fnt>;
+        <klr>[&#x2026;]</klr> a&ubreve;skultis muzikon
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
       </ekz>
       <ekz>
         tie, kie mi alestas, neniu <tld/>as teni nepunate la
-        glavon
-        nudigitan<fnt>Z</fnt>;
+        glavon nudigitan
+        <fnt>
+          <bib>Ifigenio</bib>
+        </fnt>;
       </ekz>
       <ekz>
         &gcirc;i prezentas simple mian personan opinion,
-        kiun &ccirc;iu
-        el vi <tld/>as aprobi a&ubreve; ne aprobi<fnt>Z</fnt>.
+        kiun &ccirc;iu el vi <tld/>as aprobi a&ubreve; ne aprobi
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Tria Kongreso Esperantista en
+          Cambridge en la 12a de a&ubreve;gusto 1907</vrk>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
-      <ref cel="rajt.0i">rajti</ref>.
+      <ref cel="rajt.0i">rajti</ref>
     </refgrp>
     <trdgrp lng="de">
       <trd>k&ouml;nnen</trd>,
@@ -79,37 +142,74 @@
     <dif>
       Havi la permeson, la eblecon fari ion:
       <ekz>
-        la personoj, kiuj ne komprenas la uzadon de l' artikolo,
-        <tld/>as en
-        la unua tempo ne uzi &gcirc;in<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
         vi <tld/>as trovi tiujn &ccirc;i ideojn plenumeblaj
-        a&ubreve; neplenumeblaj<fnt>Z</fnt>;
+        a&ubreve; neplenumeblaj
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        vi <tld/>as diri &leftquot;obei al la patro&rightquot; a&ubreve; 
-        &leftquot;la patron&rightquot;<fnt>Z</fnt>;
+        la personoj, kiuj ne komprenas la uzadon de l' artikolo,
+        <tld/>as en la unua tempo ne uzi <klr>[&gcirc;in]</klr>
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 27</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu, kiu &scirc;in vidis, <tld/>is pensi, ke li vidas la patrinon
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <tld/>as diri &leftquot;obei al la patro&rightquot; kaj
+        &leftquot;la patron&rightquot;
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 29</lok>
+        </fnt>;
       </ekz>
       <ekz>
         &ccirc;iu, kiu &scirc;in vidis <tld/>is pensi, ke li
-        vidas la patrinon<fnt>Z</fnt>;
+        vidas la patrinon
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 11</lok>
+        </fnt>;
       </ekz>
       <ekz>
         en malbona vetero oni <tld/>as facile
-        malvarmumi<fnt>Z</fnt>;
+        malvarmumi
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 42</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        tre <tld/>as esti, ke<fnt>Z</fnt>;
+        tre <tld/>as esti, ke
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen en la 21a
+          de a&ubreve;gusto 1911</vrk>
+        </fnt>;
       </ekz>
       <ekz>
-        li <tld/>as alveni (estas okazeble, ke li
-        alvenos) en &ccirc;iu
-        horo<fnt>Z</fnt>.
+        li <tld/>as alveturi <klr>(estas okazeble, ke li
+        alvenos)</klr> en &ccirc;iu horo
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto unua</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
-      <ref cel="ebl.0e">eble</ref>.
+      <ref cel="darf.0i">darfi</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="ebl.0e">eble</ref>,
+      <ref cel="lic.0i">lici</ref>
     </refgrp>
     <trdgrp lng="de">
       <trd>k&ouml;nnen</trd>,
@@ -117,38 +217,189 @@
       <trd><klr>die </klr>Gelegenheit <ind>haben</ind></trd>
     </trdgrp>
   </snc>
+  <trd lng="af">kan</trd>
+  <trd lng="am">&#x12ED;&#x127D;&#x120B;&#x120D;</trd>
+  <trd lng="ar">&a_ayn;&a_l;&a_b;&a_t_marbuta;</trd>
+  <trd lng="az">bil&#x259;rsiniz</trd>
   <trd lng="be">&c_m;&c_a;&c_g;&c_ch;&c_y;</trd>
+  <trd lng="bn">&#x995;&#x9B0;&#x9A4;&#x9C7; &#x9AA;&#x9BE;&#x9B0;&#x9C7;&#x9A8;</trd>
+  <trd lng="bs">mo&cacute;i</trd>
+  <trd lng="co">p&ograve;</trd>
   <trdgrp lng="cs">
     <trd>b&yacute;t sto</trd>,
     <trd>dov&eacute;st</trd>,
     <trd>moci</trd>,
     <trd>um&ecaron;t</trd>
   </trdgrp>
-  <trd lng="en">to be <ind>able</ind> to</trd>
+  <trd lng="cy">gall</trd>
+  <trd lng="da">kan</trd>
+  <trdgrp lng="en">
+    <trd>be <ind>able</ind></trd>,
+    <trd>can<klr> (v, be able, have permission, possibility)</klr></trd>
+    <trd>could<klr> (v, be able, have permission, possibility)</klr></trd>
+    <trd>may<klr> (v, have permission, possibility)</klr></trd>
+    <trd>might<klr> (v, have permission, possibility)</klr></trd>
+  </trdgrp>
   <trd lng="es">poder</trd>
+  <trd lng="et">saab</trd>
+  <trd lng="eu">ahal</trd>
   <trd lng="fr">pouvoir<klr tip="ind"> (v.)</klr></trd>
+  <trd lng="fy">&uacute;t</trd>
+  <trd lng="ga">is f&eacute;idir</trd>
+  <trd lng="gd">urrainn</trd>
+  <trd lng="gl">pode</trd>
+  <trd lng="gu">&#xA86; &#xA95;&#xAB0;&#xAC0; &#xAB6;&#xA95;&#xACB; &#xA9B;&#xACB;</trd>
+  <trd lng="ha">iya</trd>
+  <trd lng="hi">&#x915;&#x930; &#x938;&#x915;&#x924;&#x947; &#x939;&#x948;&#x902;</trd>
+  <trd lng="hmn">tau</trd>
+  <trd lng="hr">mo&zcaron;e</trd>
+  <trd lng="ht">kapab</trd>
   <trdgrp lng="hu">
     <trd>tud</trd>,
     <trd>k&eacute;pes</trd>,
     <trd>-<ind>hat</ind></trd>,
     <trd>-<ind>het</ind></trd>,
   </trdgrp>
+  <trd lng="hy">&#x56F;&#x561;&#x580;&#x578;&#x572;</trd>
   <trdgrp lng="id">
     <trd>bisa</trd>,
     <trd>dapat</trd>
   </trdgrp>
+  <trd lng="ig">ike</trd>
+  <trd lng="is">getur</trd>
+  <trd lng="ja">&#x7F36; [<ind>&#x307B;&#x3068;&#x304E;</ind>]</trd>
+  <trd lng="jv">bisa</trd>
+  <trd lng="ka">&#x10E1;&#x10D8;&#x10E1;&#x10E2;&#x10D4;&#x10DB;&#x10D0;&#x10E8;&#x10D8;</trd>
+  <trd lng="kk">&c_b;&c_o;&c_l;&c_a;&c_d;&c_y;</trd>
+  <trd lng="km">&#x17A2;&#x17B6;&#x1785;</trd>
+  <trd lng="kn">&#xCAE;&#xCBE;&#xCA1;&#xCAC;&#xCB9;&#xCC1;&#xCA6;&#xCC1;</trd>
+  <trd lng="ko">&#xC218;</trd>
+  <trd lng="ku">q&ucirc;t&icirc;k</trd>
+  <trd lng="ky">&c_a;&c_l;&c_a;&c_t;</trd>
+  <trd lng="lat">potest</trd>
+  <trd lng="lo">&#xEAA;&#xEB2;&#xEA1;&#xEB2;&#xE94;&#xEC0;&#xEAE;&#xEB1;&#xE94;&#xEC4;&#xE94;&#xEC9;</trd>
+  <trd lng="lt">galima</trd>
+  <trd lng="lv">var</trd>
+  <trd lng="mg">afaka</trd>
+  <trd lng="mi">taea e</trd>
+  <trd lng="mk">&c_m;&c_o;&c_zh;&c_je;</trd>
+  <trd lng="ml">&#xD15;&#xD34;&#xD3F;&#xD2F;&#xD41;&#xD02;</trd>
+  <trd lng="mn">&c_b;&c_o;&c_l;&c_o;&c_h;</trd>
+  <trd lng="mr">&#x939;&#x947; &#x915;&#x930;&#x942; &#x936;&#x915;&#x924;&#x93E;</trd>
+  <trd lng="ms">boleh</trd>
+  <trd lng="mt">jista</trd>
+  <trd lng="my">&#x1014;&#x102D;&#x102F;&#x1004;&#x103A;</trd>
+  <trd lng="ne">&#x917;&#x930;&#x94D;&#x928; &#x938;&#x915;&#x94D;&#x91B;&#x928;&#x94D;</trd>
   <trdgrp lng="nl">
     <trd>kunnen</trd>,
     <trd>mogen</trd>
   </trdgrp>
+  <trd lng="ny">ndingathere</trd>
+  <trd lng="pa">&#xA15;&#xA30; &#xA38;&#xA15;&#xA26;&#xA47; &#xA39;&#xA4B;</trd>
+  <trdgrp lng="pl">
+    <trd>by&cacute; w <ind>stanie</ind></trd>,
+    <trd>m&oacute;c</trd>,
+    <trd>mie&cacute;  <ind>mo&zdot;liwo&sacute;&cacute;</ind></trd>
+  </trdgrp>
+  <trd lng="ps">&f_k;&a_w;&a_l;&a_A;&f_y; &a_sh;&a_y;</trd>
   <trd lng="pt">poder<klr tip="ind"> (v.)</klr></trd>
+  <trd lng="ro">putea</trd>
   <trd lng="ru">&c_m;&c_o;&c_ch;&c_mol;</trd>
+  <trd lng="rw">irashobora</trd>
+  <trd lng="sd">&a_s;&f_g;&a_h;&a_n; &#x67F;&a_A;</trd>
+  <trd lng="si">&#xDB4;&#xDD4;&#xDC5;&#xDD4;&#xDC0;&#xDB1;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>dok&aacute;za&tcaron;</trd>,
     <trd>m&ocirc;c&tcaron;</trd>,
     <trd>vedie&tcaron;</trd>
   </trdgrp>
-  <trd lng="tp">ken</trd>
+  <trd lng="sl">lahko</trd>
+  <trd lng="sm">mafai</trd>
+  <trd lng="sn">anogona</trd>
+  <trd lng="so">awood</trd>
+  <trd lng="sq">mund</trd>
+  <trd lng="st">ka</trd>
+  <trd lng="su">bisa</trd>
+  <trd lng="sw">unaweza</trd>
+  <trd lng="ta">&#xBAE;&#xBC1;&#xB9F;&#xBBF;&#xBAF;&#xBBE;&#xBA4;&#xBC1;</trd>
+  <trd lng="te">&#xC1A;&#xC46;&#xC2F;&#xC4D;&#xC2F;&#xC35;&#xC1A;&#xC4D;&#xC1A;&#xC41;</trd>
+  <trd lng="tg">&c_m;&c_je;&c_t;&c_a;&c_v;&c_o;&c_n;&c_a;&c_d;</trd>
+  <trd lng="th">&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;</trd>
+  <trd lng="tl">maaari</trd>
+  <trd lng="tok">ken</trd>
+  <trd lng="tt">&c_b;&c_u;&c_l;&c_d;&c_y;&c_r;&c_a; &c_a;&c_l;&c_a;</trd>
+  <trd lng="uk">&c_m;&c_o;&c_zh;&c_je;</trd>
+  <trd lng="ur">&f_k;&a_r; &a_s;&f_k;&a_t;&#x6D2; &#x6C1;&f_y;&#x6BA;</trd>
+  <trd lng="uz">mumkin</trd>
+  <trd lng="vi">c&oacute; th&#x1EC3;</trd>
+  <trd lng="xh">unako</trd>
+  <trd lng="yi">&qof;&ayin;&nun;&ayin;&fnun;</trd>
+  <trd lng="yo">le</trd>
+  <trdgrp lng="zh">
+    <trd>&#x80FD;</trd>,
+    <trd>&#x4F1A;</trd>,
+    <trd>&#x53EF;&#x4EE5;</trd>
+  </trdgrp>
+  <trd lng="zu">okusemandleni</trd>
+</drv>
+
+<drv mrk="pov.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="sin" cel="kapabl.0a">Kapabla</ref> je io:
+      <ekz>
+        kiu el ili estis pli far<tld/>a
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Korta koko kaj ventkoko</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        decid<tld/>aj rajtoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li prezentas skizojn en vigla kaj ri&ccirc;e esprim<tld/>a familiara stilo
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lert.0a.korpo">lerta<sncref/></ref>,
+      <ref cel="kompet.0a.kapabla">kompetenta<sncref/></ref>,
+      <ref cel="potenc.0a">potenca</ref>
+    </refgrp>
+  </snc>
+  <rim>
+    &Ccirc;i tiel &leftquot;<tld/>&rightquot; estas uzata sufikse kun la senco <ctl>kapabla</ctl>:
+    <ekz>
+      funkci<tld/>a, pagi<tld/>a, parol<tld/>a, vid<tld/>a;
+    </ekz>
+    <ekz>
+      vivi<tld/>a
+        <fnt>
+          <bib>EE</bib>
+        </fnt>.
+    </ekz>
+    Oni povas konsideri tian uzon kiel kuntirado de du memstaraj vortoj:
+    &leftquot;<tld/>a vivi&rightquot;, resp. &leftquot;vivi <tld/>a&rightquot; &#x2B62;
+    &leftquot;vivi<tld/>a&rightquot;.
+  </rim>
+  <trdgrp lng="de">
+    <trd>f&auml;hig</trd>,
+    <trd>stark</trd>,
+    <trd>m&auml;chtig</trd>
+  </trdgrp>
+  <trd lng="en">able</trd>
+  <trd lng="ja">&#x80FD;&#x529B;&#x304C;&#x3042;&#x308B;  [<ind>&#x306E;&#x3046;&#x308A;&#x3087;&#x304F;&#x304C;&#x3042;&#x308B;</ind>]</trd>
 </drv>
 
 <drv mrk="pov.0o">
@@ -157,7 +408,50 @@
     <dif>
       Kapablo fari ion:
       <ekz>
-        ne lasu al iu la <tld/>on malutili.
+        ne lasu al iu la <tld/>on malutili;
+      </ekz>
+      <ekz>
+        la&ubreve; sia <tld/>o ili donis en la trezorejon de la laboroj: da oro sesdek unu mil
+        darkemonojn, da ar&gcirc;ento kvin mil min'ojn, kaj da pastraj vestoj cent
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ezra 2:69</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Jesuo, kortu&scirc;ite, tu&scirc;is iliajn okulojn, kaj tuj ili ricevis vid<tld/>on, kaj
+        sekvis lin
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 20:34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Spirito donis al ili parol<tld/>on
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 2:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la profet<tld/>o estas kiel signo <klr>[&#x2026;]</klr> al la kredantoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Korintanoj 14:22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ri&ccirc;a preparo, sed <tld/>o avara
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        forprenu de ni la <tld/>on de inter&scirc;an&gcirc;ado de pensoj &mdash; kaj ni restos sensa&gcirc;aj
+        kaj senhelpaj bestoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="be">&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -169,15 +463,33 @@
       <trd>tud&aacute;s</trd>,
       <trd>k&eacute;pess&eacute;g</trd>
     </trdgrp>
+    <trd lng="pl">umiej&eogonek;tno&sacute;&cacute;</trd>
     <trd lng="pt">poder<klr tip="ind"> (subst.)</klr></trd>
-    <trd
-    lng="ru">&c_v;&c_o;&c_z;&c_m;&c_o;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    <trd lng="ro">abilitate</trd>
+    <trd lng="ru">&c_v;&c_o;&c_z;&c_m;&c_o;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="pov.0o.potenco">
     <dif>
       A&ubreve;toritato, supera estreco:
       <ekz>
-        havi <tld/>on super iu<fnt>B</fnt>.
+        tia monar&hcirc;o devas havi <tld/>on kaj grandan ri&ccirc;a&jcirc;on
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniu havos povon super vi
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro IV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen <tld/>o kolero estas ridinda afero
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -194,11 +506,13 @@
       <trd>vermogen</trd>
     </trdgrp>
     <trd lng="hu">hatalom</trd>
-    <trdgrp
-      lng="ru">
+    <trd lng="pl">zdolno&sacute;&cacute;</trd>
+    <trd lng="ro">capacitate</trd>
+    <trdgrp lng="ru">
       <trd>&c_v;&c_l;&c_a;&c_s;&c_t;&c_mol;</trd>,
       <trd>&c_s;&c_i;&c_l;&c_a;</trd>
     </trdgrp>
+  <trd lng="th">&#xE2D;&#xE33;&#xE19;&#xE32;&#xE08;</trd>
   </snc>
   <snc mrk="pov.0o.FIZ">
     <uzo tip="fak">FIZ</uzo>
@@ -220,26 +534,28 @@
         la <tld/>o de motoro estas 500 &Ccirc;P <klr>(&ccirc;evalpovoj)</klr>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="pov.0umo">povumo</ref>
     <refgrp tip="vid">
       <ref cel="cxeval.0povo">&ccirc;evalpovo</ref>,
-      <ref cel="vat1.v0o">vato</ref>.
+      <ref cel="vat1.v0o">vato</ref>
     </refgrp>
     <trd lng="be">&c_m;&c_a;&c_g;&c_u;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
     <trdgrp lng="de">
       <trd>Leistung</trd>
     </trdgrp>
     <trd lng="hu">teljes&iacute;tm&eacute;ny</trd>
+    <trd lng="pl">moc</trd>
     <trd lng="pt">pot&ecirc;ncia<klr tip="amb"> (f&iacute;sica)</klr></trd>
-    <trd
-    lng="ru">&c_m;&c_o;&c_shch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    <trd lng="ro">putere</trd>
+    <trd lng="ru">&c_m;&c_o;&c_shch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="pov.0o.MAT">
     <uzo tip="fak">MAT</uzo>
     <fnt><bib>EKV</bib><lok>&para;347</lok></fnt>
     <dif>
       <klr>(de <ref cel="ar.0o.MAT">aro</ref>)</klr>
+      <ref tip="dif" cel="kardin.0o.MAT">Kardinalo</ref>.
     </dif>
-    <ref tip="dif" cel="kardin.0o.MAT">kardinalo</ref>
     <trdgrp lng="de">
       <trd>Kardinalzahl</trd>,
       <trd>M&auml;chtigkeit</trd>
@@ -259,6 +575,10 @@
       <trd>liczba kardynalna</trd>,
       <trd>moc<klr tip="ind"> (zbioru)</klr></trd>
     </trdgrp>
+    <trdgrp lng="ro">
+      <trd>numeral cardinal</trd>,
+      <trd>cardinal<klr tip="ind"> (matematic&abreve;)</klr></trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_k;&c_a;&c_r;&c_d;&c_i;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>,
       <trd>&c_m;&c_o;&c_shch;&c_n;&c_o;&c_s;&c_t;&c_mol;<klr tip="ind"> (&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_a;)</klr></trd>
@@ -269,6 +589,10 @@
     <trd>schopnost</trd>,
     <trd>s&iacute;la</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>power</trd>,
+    <trd>ability</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>poder<klr tip="ind"> (subst.)</klr></trd>,
     <trd>potencia<klr tip="ind"> (math., phys., tech.)</klr></trd>
@@ -277,35 +601,82 @@
     <trd>pouvoir<klr tip="ind"> (subst.)</klr></trd>,
     <trd>puissance<klr tip="ind"> (math., phys., tech.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x529B;  [<ind>&#x308A;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x80FD;&#x529B;  [<ind>&#x306E;&#x3046;&#x308A;&#x304D;</ind>]</trd>,
+    <trd>&#x529B;&#x91CF;  [<ind>&#x308A;&#x304D;&#x308A;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x6A29;&#x80FD;  [<ind>&#x3051;&#x3093;&#x306E;&#x3046;</ind>]</trd>,
+    <trd>&#x6A29;&#x9650;  [<ind>&#x3051;&#x3093;&#x3052;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vermogen</trd>
   <trd lng="sk">mohutnos&tcaron; mno&zcaron;iny</trd>
-  <trd lng="tp">ken</trd>
+  <trd lng="th">&#xE04;&#xE27;&#xE32;&#xE21;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;</trd>
+  <trd lng="tok">ken</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_t;&c_u;&c_zh;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_o;&c_m;&c_o;&c_zh;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_d;&c_a;&c_t;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_m;&c_o;&c_zh;&c_l;&c_i;&c_v;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_i;&c_l;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pov.0umo">
   <kap><tld/>umo</kap>
   <snc mrk="pov.0umo.FIZ">
+    <uzo tip="fak">FIZ</uzo><uzo tip="fak">MAT</uzo>
     <dif>
-      Sinonimo de <ref tip="sin" cel="pov.0o.FIZ">povo</ref>
-      (termino fizika) kaj <ref tip="sin" cel="pov.0o.MAT">povo</ref>
-      (termino matematika).
+      Sinonimo de <ref tip="sin" cel="pov.0o.FIZ">povo<sncref/></ref>
+      kaj <ref tip="sin" cel="pov.0o.MAT">povo<sncref/></ref>:
+      <ekz>
+        pro la granda <tld/>umo &#x2010; 6400 kilovatoj &#x2010; &gcirc;i povas tiri 1600-tunan varo-trajnon
+        je 160&#x202F;km/h kaj pasa&gcirc;ero-trajnon je 230&#x202F;km/h
+        <fnt>
+	<aut>Walter Klag</aut>
+	<vrk><url ref="&Monato;/2000/007112.php">Virbovo-tirpovo</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/11, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inkandeska lampo, lumflukso 1350 lumenoj, <tld/>umo 100 vatoj
+        <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2015/011486.php">Neleda LEDo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2015/06, p. 12</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="be">&c_m;&c_a;&c_g;&c_u;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trdgrp lng="cs">
+      <trd>v&yacute;kon</trd>,
+      <trd>v&yacute;konnost</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>Leistung</trd>
     </trdgrp>
+    <trd lng="en">power</trd>
     <trd lng="hu">teljes&iacute;tm&eacute;ny</trd>
     <trd lng="nl">kracht</trd>
+    <trdgrp lng="pl">
+      <trd>zdolno&sacute;&cacute;</trd>,
+      <trd>potencja&lstroke;</trd>
+    </trdgrp>
     <trd lng="pt">pot&ecirc;ncia<klr tip="amb"> (f&iacute;sica)</klr></trd>
+    <trd lng="ro">capacitare</trd>
     <trd lng="ru">&c_m;&c_o;&c_shch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
-  </snc>
-  <trdgrp lng="cs">
-    <trd>v&yacute;kon</trd>,
-    <trd>v&yacute;konnost</trd>
-  </trdgrp>
-  <trdgrp lng="sk">
+    <trdgrp lng="sk">
     <trd>v&yacute;kon</trd>,
     <trd>v&yacute;konnos&tcaron;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_s;&c_i;&c_l;&c_a;</trd>
+  </snc>
+
+  <trdgrp lng="ja">
+    <trd>&#x4ED5;&#x4E8B;&#x7387;  [<ind>&#x3057;&#x3054;&#x3068;&#x308A;&#x3064;</ind>]</trd>,
+    <trd>&#x96FB;&#x529B;  [<ind>&#x3067;&#x3093;&#x308A;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x500D;&#x7387;  [<ind>&#x3070;&#x3044;&#x308A;&#x3064;</ind>]</trd>
   </trdgrp>
 </drv>
 
@@ -313,26 +684,72 @@
   <kap>&ccirc;io<tld/>a</kap>
   <snc mrk="pov.cxio0a.KOMUNE">
     <dif>
-      Kies <tld/>o kapablas &ccirc;ion ajn.
+      Kies <tld/>o kapablas &ccirc;ion ajn:
+      <ekz>
+        Dio sola kaj &ccirc;io<tld/>a
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vian &jcirc;uron nuligis la &ccirc;io<tld/>a morto
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiam la &ccirc;io<tld/>a <nom>Mahadeva</nom> kreis la belegan Hindujon, li deflugis sur la teron,
+        por &gcirc;in admiri
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la ministro, anta&ubreve; nelonge &ccirc;io<tld/>a, <klr>[&#x2026;]</klr> sidis nun sola en sia
+        palaco
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro V</lok>
+        </fnt>.
+      </ekz>
     </dif>
-    <trd lng="hu">mindenhat&oacute;</trd>
-    <trd lng="nl">almachtig</trd>
-    <trd lng="pt">onipotente</trd>
-    <trdgrp
-      lng="ru">
-      <trd>&c_v;&c_s;&c_je;&c_m;&c_o;&c_g;&c_u;&c_shch;&c_i;&c_j;</trd>,
-      <trd>&c_v;&c_s;&c_je;&c_s;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
-    </trdgrp>
-  </snc>
-  <trd lng="be">&c_u;&c_s;&c_je;&c_m;&c_a;&c_g;&c_u;&c_t;&c_n;&c_y;</trd>
-  <trdgrp lng="de">
-    <trd>allm&auml;chtig</trd>
-  </trdgrp>
-  <trd lng="fr">tout-puissant</trd>
-  <trdgrp lng="es">
-    <trd>omnipotente</trd>,
-    <trd>todopoderoso</trd>
-  </trdgrp>
+      <trd lng="be">&c_u;&c_s;&c_je;&c_m;&c_a;&c_g;&c_u;&c_t;&c_n;&c_y;</trd>
+      <trdgrp lng="de">
+      <trd>allm&auml;chtig</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+         <trd>omnipotent</trd>,
+         <trd>all-powerful</trd>
+     </trdgrp>
+     <trd lng="fr">tout-puissant</trd>
+     <trdgrp lng="es">
+        <trd>omnipotente</trd>,
+        <trd>todopoderoso</trd>
+      </trdgrp>
+      <trd lng="hu">mindenhat&oacute;</trd>
+      <trd lng="nl">almachtig</trd>
+      <trdgrp lng="pl">
+        <trd>wszechmocny</trd>,
+        <trd>wszechmog&aogonek;cy</trd>,
+        <trd>wszechpot&eogonek;&zdot;ny</trd>,
+        <trd>wszechw&lstroke;adny</trd>
+      </trdgrp>
+      <trd lng="pt">onipotente</trd>
+      <trdgrp lng="ro">
+        <trd>omnipotent</trd>,
+        <trd>cu  <ind>putere</ind> absolut&abreve;</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+         <trd>&c_v;&c_s;&c_je;&c_m;&c_o;&c_g;&c_u;&c_shch;&c_i;&c_j;</trd>,
+         <trd>&c_v;&c_s;&c_je;&c_s;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+        </trdgrp>
+        <trd lng="th">&#xE0B;&#xE36;&#xE48;&#xE07;&#xE21;&#xE35;&#xE2D;&#xE33;&#xE19;&#xE32;&#xE08;&#xE44;&#xE21;&#xE48;&#xE08;&#xE33;&#xE01;&#xE31;&#xE14;</trd>
+        <trd lng="uk">&c_v;&c_s;&c_je;&c_m;&c_o;&c_g;&c_u;&c_t;&c_n;&c_ib;&c_j;</trd>
+       </snc>
+     <trd lng="ja">&#x5168;&#x80FD;&#x306E;  [<ind>&#x305C;&#x3093;&#x306E;&#x3046;&#x306E;</ind>]</trd>
 </drv>
 
 <drv mrk="pov.dauxri0o">
@@ -341,18 +758,60 @@
   <uzo tip="fak">EKON</uzo>
   <uzo tip="fak">POL</uzo>
     <dif>
-     Evoluo a&ubreve; agomaniero, kiu kontentigante la postulojn de la nuntempo
-     <tld/>as da&ubreve;ri anka&ubreve; en la estonto:
-     </dif>
+      Evoluo a&ubreve; agomaniero, kiu kontentigante la postulojn de la nuntempo
+      <tld/>as da&ubreve;ri anka&ubreve; en la estonto:
+      <ekz>
+        varoj, kiuj la&ubreve; la organizantoj estas da&ubreve;ri<tld/>aj kaj kiuj ne dama&gcirc;as bestojn
+        <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2013/011077.php">Kukoj, kuirlibroj kaj
+          kanabo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/08, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        konceptoj por da&ubreve;ri<tld/>a energi-provizado el lokaj resursoj
+        <fnt>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2012/010595.php">Novtipa ekologia turismo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/06, p. 14</lok>
+        </fnt>;
+      </ekz>
      <ekz>
-     origine la esprimo da&ubreve;ri<tld/>o (a&ubreve; &gcirc;iaj nacilingvaj ekvivalentoj)
-     estis uzata en la arbarkulturo <fnt><bib>Viki</bib></fnt>.
+       origine la esprimo da&ubreve;ri<tld/>o (a&ubreve; &gcirc;iaj nacilingvaj ekvivalentoj)
+       estis uzata en la arbarkulturo <fnt><bib>Viki</bib></fnt>.
      </ekz>
+   </dif>
+    <trdgrp lng="de">
+      <trd>Ausdauer</trd>,
+      <trd>Dauerhaftigkeit</trd>,
+      <trd>Best&auml;ndigkeit</trd>,
+      <trd>Nachhaltigkeit</trd>
+    </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_s;&c_t;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_a;&c_je; &c_r;&c_a;&c_z;&c_mol;&c_v;&c_ib;&c_c;&c_mol;&c_c;&c_jo;</trd>
+  </trdgrp>
+  <trd lng="en">sustainability</trd>
   <trdgrp lng="fr">
     <trd>durabilit&eacute;</trd>,
     <trd>d&eacute;veloppement durable</trd>
   </trdgrp>
+  <trd lng="nl">duurzaam</trd>
+  <trdgrp lng="pl">
+    <trd>wytrzyma&lstroke;o&sacute;&cacute;</trd>,
+    <trd>si&lstroke;a <ind>woli</ind></trd>,
+    <trd>szansa na  <ind>przetrwanie</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>rezisten&#x21B;&abreve;</trd>,
+    <trd>for&#x21B;&abreve; de  <ind>voin&#x21B;&abreve;</ind></trd>,
+    <trd>sustenabilitate</trd>
+  </trdgrp>
+  <trd lng="th">&#xE04;&#xE27;&#xE32;&#xE21;&#xE22;&#xE31;&#xE48;&#xE07;&#xE22;&#xE37;&#xE19;</trd>
 </drv>
 
 <drv mrk="pov.ne0ebla">
@@ -362,13 +821,33 @@
     <dif>
       Kiun neniu <tld/>as, nefarebla:
       <ekz>
+        &scirc;ia penegado <klr>[&#x2026;]</klr> per sia propra tro forta stre&ccirc;i&gcirc;o ne<tld/>ebligis
+        &ccirc;iun progreson
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         nenio por Dio estas ne<tld/>ebla
-        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
         fratoj</vrk>, <lok>1947</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de">unm&ouml;glich</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_m;&c_a;&c_g;&c_ch;&c_y;&c_m;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_v;&c_y;&c_k;&c_a;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="fr">infaisable</trd>
+  <trdgrp lng="pl">
+    <trd>niemo&zdot;liwy</trd>,
+    <trd>bez <ind>mocy</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>imposibil</trd>,
+    <trd>f&abreve;r&abreve;  <ind>putere</ind></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pov.sam0a">
@@ -388,10 +867,23 @@
       </ekz>
       <ekz>
         la aro de reeloj kaj la subaro de &gcirc;iaj elementoj
-        inter <frm>0</frm> kaj <frm>1</frm> estas sam<tld/>aj.
+        inter <frm>0</frm> kaj <frm>1</frm> estas sam<tld/>aj;
+      </ekz>
+      <ekz>
+        <tld/>o de F <klr>[ne]</klr> nepre estu pli granda ol R, fakte, ili povas estis
+        sam<tld/>aj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=306001">Hiperreela nombro</url></lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_o;&c_w;&c_n;&c_a;&c_m;&c_a;&c_g;&c_u;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_r;&c_a;&c_w;&c_n;&c_a;&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_e;&c_k;&c_v;&c_ib;&c_p;&c_a;&c_t;&c_e;&c_n;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>ekvipotentn&iacute;</trd>,
     <trd>stejn&ecaron; mocn&yacute;</trd>
@@ -405,6 +897,7 @@
     <trd>egyenl&odblac; sz&aacute;moss&aacute;g&uacute;</trd>
   </trdgrp>
   <trd lng="pl"><klr tip="ind">(zbi&oacute;r) </klr>r&oacute;wnoliczny</trd>
+  <trd lng="ro"><klr tip="ind">(mul&#x21B;ime) </klr>num&abreve;rabil&abreve;</trd>
   <trd lng="ru">&c_r;&c_a;&c_v;&c_n;&c_o;&c_m;&c_o;&c_shch;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">ekvipotentn&yacute;</trd>
 </drv>
@@ -415,26 +908,73 @@
     <dif>
       Ne <tld/>anta agi a&ubreve; influi:
       <ekz>
-        &scirc;ajnaj indiferentuloj, mem sen<tld/>aj imagi la 
-        propran bonecon 
+        en la infaneco li estas sen<tld/>a, en la maljuneco senforta
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por &scirc;an&gcirc;i ion en la natura irado de la internacilingva afero, mi estas tiel same
+        sen<tld/>a, kiel &ccirc;iu alia persono
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto
+          1910</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ajnaj indiferentuloj, mem sen<tld/>aj imagi la
+        propran bonecon
         <fnt>
           <aut>C. Piron</aut>,
-          <vrk><url
-          ref="http://esperanto.org.uk/eldonoj/piron/tekstoj/Tien.html">
+          <vrk><url ref="http://esperanto.org.uk/eldonoj/piron/tekstoj/Tien.html">
           Tien</url></vrk>,
           <lok>1997</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_s;&c_mol;&c_s;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_zh;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>bezmocn&yacute;</trd>,
     <trd>nemohouc&iacute;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>machtlos</trd>,
+    <trd>unf&auml;hig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>helpless</trd>,
+    <trd>impotent</trd>,
+    <trd>powerless</trd>
+  </trdgrp>
   <trd lng="fr">impuissant</trd>
+  <trd lng="nl">machteloos</trd>
+  <trdgrp lng="pl">
+    <trd>bezsilny</trd>,
+    <trd>bez  <ind>mocy</ind></trd>,
+    <trd>s&lstroke;aby</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>f&abreve;r&abreve; putere</trd>,
+    <trd>slab</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>bezmocn&yacute;</trd>,
     <trd>nevl&aacute;dny</trd>
+  </trdgrp>
+  <trdgrp lng="th">
+    <trd>&#xE44;&#xE23;&#xE49;&#xE04;&#xE27;&#xE32;&#xE21;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;</trd>,
+    <trd>&#xE2B;&#xE21;&#xE14;&#xE2B;&#xE19;&#xE17;&#xE32;&#xE07;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_je;&c_s;&c_p;&c_r;&c_o;&c_m;&c_o;&c_zh;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_m;&c_ib;&c_ch;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -443,17 +983,16 @@
   <var><kap>sen<tld/>o</kap></var></kap>
   <snc mrk="pov.sen0eco.KOMUNE">
     <dif>
-      Stato de tiu, kiu ne povas agi, influi, regi 
+      Stato de tiu, kiu ne povas agi, influi, regi
       situacion:
       <ekz>
-        falsaj konsoloj <klr>...</klr> pligrandigas mian sen<tld/>econ 
+        falsaj konsoloj <klr>[&#x2026;]</klr> pligrandigas mian sen<tld/>econ
         <fnt>
           <aut>S. Dagerman, trad. Fil</aut>,
-          <vrk><url
-          ref="http://www.satesperanto.org/Nia-bezono-de-konsolo-estas-ne.html">
+          <vrk><url ref="http://www.satesperanto.org/Nia-bezono-de-konsolo-estas-ne.html">
           Nia bezono de konsolo estas ne satigebla</url></vrk>,
           <lok>[vidita en 2014]</lok>
-        </fnt>;    
+        </fnt>;
       </ekz>
       <ekz>
         pan&gcirc;abanoj sentas anka&ubreve; politikan sen<tld/>on
@@ -465,42 +1004,57 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_s;&c_mol;&c_s;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_ja;&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_p;&c_a;&c_m;&c_o;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Machtlosigkeit</trd>,
+    <trd>Unf&auml;higkeit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>impotence</trd>,
+    <trd>powerlessness</trd>,
+    <trd>helplessness</trd>
+  </trdgrp>
   <trd lng="fr">impuissance</trd>
+  <trd lng="nl">machteloosheid</trd>
+  <trdgrp lng="pl">
+    <trd>niemoc</trd>,
+    <trd>brak  <ind>mocy</ind></trd>,
+    <trd>s&lstroke;abo&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>lips&abreve; de putere</trd>,
+    <trd>sl&abreve;biciu</trd>
+  </trdgrp>
 </drv>
 
-<rim>
-  <tld/> estas uzata sufikse kun la senco <ctl>kapabla</ctl>:
-  <ekz>
-    funkci<tld/>a, pagi<tld/>a, parol<tld/>a, vid<tld/>a
-  </ekz>,
-  <ekz>
-    far<tld/>a<fnt>Z</fnt>, vivi<tld/>a<fnt>Z</fnt>
-  </ekz>
-</rim>
 </art>
 <!--
-$Log: pov.xml,v $
-versio 1.41 2020/02/16 12:10:34
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.134 2023/08/29 12:45:08
+Wolfram Diestel: ja: +prononco
 
-Revision 1.40  2015/08/15 07:10:16  revo
-Damien Brucker: +trd fr +var en kap
+versio 1.133 2023/05/14 16:31:52
+Paul Peeraerts: + lok + url + aut
 
-Revision 1.39  2015/08/14 16:10:15  revo
-Damien Brucker: +dauxri~o
+versio 1.132 2023/05/07 14:25:56
+Wolfram Diestel: +ref
 
-Revision 1.38  2015/07/04 08:37:41  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.131 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
 
-Revision 1.37  2015/06/29 16:40:18  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.130 2023/05/02 16:31:32
+Wolfram Diestel: ~i: +ekz, ref; +~a
 
-Revision 1.36  2015/01/10 06:11:17  revo
-Jeromo Vasxe: + sen~o
+versio 1.129 2023/04/28 16:29:47
+Robert Baruch: +eks, +trd: en
 
-Revision 1.35  2014/12/20 21:10:18  revo
-Jeromo Vasxe: + ne~ebla
+versio 1.128 2023/04/23 11:22:10
 
-Revision 1.34  2014/01/11 21:10:18  revo
+versio 1.127 2023/02/25 23:28:02
+Vito Redsky: +trd pl + trd ro
 -->
 </vortaro>

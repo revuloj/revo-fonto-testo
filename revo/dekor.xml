@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dekor.xml,v 1.12 2010/08/17 16:30:33 revo Exp $">
+<art mrk="$Id: dekor.xml,v 1.23 2023/04/27 05:27:58 revo Exp $">
 <kap>
   <rad>dekor</rad>/i
 </kap>
@@ -18,8 +17,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sylvain Lelarge</aut>
-          <vrk><url ref="https://www.monato.be/2004/008496.html"
-              >La argilaj najbaretoj de Jesuo provenca tradicio</url></vrk>
+          <vrk><url ref="&Monato;/2004/008496.html">La argilaj najbaretoj de Jesuo
+          provenca tradicio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -28,8 +27,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Anatoli Ionesov</aut>
-          <vrk><url ref="https://www.monato.be/2006/008920.php"
-              >Perlo &ccirc;e la Silka Vojo</url></vrk>
+          <vrk><url ref="&Monato;/2006/008920.php">Perlo &ccirc;e la Silka Vojo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -37,8 +35,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hayasi Kaneyuki</aut>
-          <vrk><url ref="https://www.monato.be/2006/008846.php"
-              >Priploru la krizan temon</url></vrk>
+          <vrk><url ref="&Monato;/2006/008846.php">Priploru la krizan temon</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -64,6 +61,7 @@
     <trd>orner</trd>,
     <trd>parer<klr tip="ind"> (orner)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5E7;&#x5E9;&#x5D8;</trd>
   <trdgrp lng="hu">
     <trd>feld&iacute;sz&iacute;t</trd>,
     <trd>dekor&aacute;l</trd>
@@ -84,8 +82,7 @@
         <tld/>oj ja alii&gcirc;is la&ubreve; la gusto de la jardekoj
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5802/arto.html">
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5802/arto.html">
           Arto sur la tablo</url></vrk>,
           <lok>Norda Prismo, 1958:2</lok>
         </fnt>;
@@ -94,10 +91,10 @@
         ekde la jaro 1690 fajencejoj fabrikas manpentritajn objektojn, kies <tld/>valoro
         estas agnoskata tra la tuta mondo
         <fnt>
+          <aut>Josette DUCLOYER</aut>
+          <vrk><url ref="&Monato;/2000/006851.php">Quimper</url></vrk>
           <bib>Monato</bib>
-          <aut>Josette Ducloyer</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006851.html"
-              >Francio: Quimper</url></vrk>
+          <lok>2000/05, p. 16</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -118,6 +115,8 @@
     <trd>d&eacute;cor</trd>,
     <trd>d&eacute;coration</trd>
   </trdgrp>
+  <trd lng="he">&#x5EA;&#x5B7;&#x5E4;&#x5D0;&#x5D5;&#x5BC;&#x5E8;&#x5B8;&#x5D4;</trd>
+  <trd lng="nl">decor</trd>
   <trd lng="sk">ozdoba</trd>
 </drv>
 
@@ -131,11 +130,10 @@
       <ekz>
         krimuloj la anta&ubreve;an nokton detruis <tld/>a&jcirc;ojn de la memor&scirc;tono starigita honore
         al la mortinto
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Maul Stefan</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006929.html"
-              >Germanio: Brutalaj dekstruloj</url></vrk>
+        <fnt><aut>Stefan Maul</aut>,
+        <vrk><url ref="&Monato;/2000/006929.php">Brutalaj dekstruloj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/04, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -144,18 +142,30 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jean-Yves Santerre</aut>
-          <vrk><url ref="https://www.monato.be/2009/009817.php"
-              >Fortika&jcirc;urbo Gerando</url></vrk>
+          <vrk><url ref="&Monato;/2009/009817.php">Fortika&jcirc;urbo Gerando</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_e;&c_k;&c_a;&c_r;&c_a;&c_t;&c_y;&c_w;&c_n;&c_y; &c_e;&c_l;&c_je;&c_m;&c_e;&c_n;&c_t;</trd>
   <trd lng="de">Schmuckst&uuml;ck</trd>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.23 2023/04/27 05:27:58
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.22 2023/04/13 16:34:08
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.21 2022/04/26 17:11:47
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2022/04/08 06:36:57
+Dmitri Gabinski: + trd be
+
 Revision 1.17  2015/07/04 08:37:32  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -166,14 +176,5 @@ Revision 1.15  2015/02/27 08:10:16  revo
 Alain Gerard: +trd (fr)
 
 Revision 1.14  2013/04/08 15:10:22  revo
-Dmitri Gabinski: redakto: +trd be
-
-Revision 1.13  2012/09/04 09:10:18  revo
-Marc Rausell: + trd ca
-
-Revision 1.12  2010/08/17 16:30:33  revo
-Wieland Pusch: +trd bg+de
-
-Revision 1.11  2010/08/15 16:30:17  revo
 -->
 </vortaro>

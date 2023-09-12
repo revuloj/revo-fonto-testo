@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tumult.xml,v 1.24 2023/09/04 19:01:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tumult</rad>/o <fnt><bib>PV</bib></fnt>
@@ -70,6 +69,13 @@
       <ref cel="ribel.0o.POL">ribelo</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_r;&c_m;&c_ib;&c_d;&c_a;&c_r;</trd>,
+    <trd>&c_t;&c_a;&c_w;&c_k;&c_a;&c_n;&c_ib;&c_n;&c_a;</trd>,
+    <trd>&c_m;&c_ib;&c_t;&c_u;&c_s;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_u;&c_m;&c_ja;&c_t;&c_n;&c_ja;</trd>,
+    <trd>&c_g;&c_v;&c_a;&c_l;&c_t;</trd>
+  </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_b;&c_u;&c_n;&c_t;</trd>,
     <trd>&c_s;&c_u;&c_m;&c_a;&c_t;&c_o;&c_h;&c_a;</trd>
@@ -116,6 +122,13 @@
     <trd>kavarod&aacute;s</trd>,
     <trd>tumultus</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9A12;&#x52D5;  [<ind>&#x305D;&#x3046;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x55A7;&#x9A12;  [<ind>&#x3051;&#x3093;&#x305D;&#x3046;</ind>]</trd>,
+    <trd>&#x5927;&#x9A12;&#x304E;  [<ind>&#x304A;&#x304A;&#x3055;&#x308F;&#x304E;</ind>]</trd>,
+    <trd>&#x9A12;&#x4E71;  [<ind>&#x305D;&#x3046;&#x3089;&#x3093;</ind>]</trd>,
+    <trd>&#x66B4;&#x52D5;  [<ind>&#x307C;&#x3046;&#x3069;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>tumult</trd>,
     <trd>opschudding</trd>,
@@ -143,6 +156,13 @@
     <trd>zhon</trd>,
     <trd>zm&auml;tok</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_je;&c_t;&c_u;&c_sh;&#x43D;&#x44F;</trd>,
+    <trd>&c_g;&c_a;&c_r;&#x43C;&c_i;&c_d;&c_je;&c_r; (&c_u; &#x44E;&c_r;&c_b;&c_ib;)</trd>,
+    <trd>&c_z;&c_a;&c_v;&#x43E;&c_r;&c_u;&c_sh;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_b;&c_u;&#x43D;&c_t;</trd>,
+    <trd>&c_z;&c_a;&#x43A;&#x43E;&#x43B;&#x43E;&c_t;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tumult.0i">
@@ -168,8 +188,7 @@
         Polonio
         <fnt>
           <aut>William Shakespeare, trad. L.L. Zmaenhof</aut>
-          <vrk><url
-          ref="https://eo.wikisource.org/wiki/Hamleto,_re%C4%9Dido_de_Danujo/Akto_IV">Hamleto,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Hamleto,_re%C4%9Dido_de_Danujo/Akto_IV">Hamleto,
           re&gcirc;ido de Danujo</url></vrk>
           <lok>Akto IV</lok>
         </fnt>;
@@ -184,6 +203,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_u;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_u;&c_z;&c_d;&c_y;&c_m;&c_a;&c_c;&c_mol; <ind>&c_v;&c_e;&c_r;&c_h;&c_a;&c_l;</ind></trd>
+  </trdgrp>
   <trd lng="bg">&c_b;&c_u;&c_n;&c_t;&c_u;&c_v;&c_a;&c_m; &c_s;&c_je;</trd>
   <trdgrp lng="ca">
     <trd>avalotar</trd>,
@@ -210,6 +233,10 @@
     <trd>kavarog</trd>,
     <trd>zavago</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9A12;&#x52D5;&#x3059;&#x308B;  [<ind>&#x305D;&#x3046;&#x3069;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5927;&#x9A12;&#x304E;&#x3059;&#x308B;  [<ind>&#x304A;&#x304A;&#x3055;&#x308F;&#x304E;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">opschudding veroorzaken</trd>
   <trdgrp lng="pl">
     <trd>robi&cacute; <ind>tumult</ind></trd>,
@@ -233,6 +260,12 @@
     <trd>nepokojne vrie&tcaron; v dave</trd>,
     <trd>pla&scaron;i&tcaron; sa</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_je;&c_t;&c_u;&c_sh;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &c_g;&c_a;&c_r;&#x43C;&c_i;&c_d;&c_je;&c_r;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_j;&#x43C;&c_a;&c_t;&c_i; &c_b;&c_u;&#x43D;&c_t;</trd>,
+    <trd>&c_u;&c_ch;&c_i;&#x43D;&#x44F;&c_t;&c_i; &c_z;&c_a;&#x43A;&#x43E;&#x43B;&#x43E;&c_t;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tumult.0ema">
@@ -246,13 +279,16 @@
       <ekz>
         &ccirc;efo de potenca kaj <tld/>ema familio
         <fnt>
-          <vrk><url
-          ref="https://eo.wikipedia.org/wiki/Aleksandro_la_6-a">Aleksandro
+          <vrk><url ref="&Viki;/Aleksandro_la_6-a">Aleksandro
           la 6-a</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_u;&c_ja;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="bg">&c_b;&c_u;&c_je;&c_n;</trd>
   <trdgrp lng="fr">
     <trd>agit&eacute;</trd>,
@@ -264,10 +300,20 @@
     <trd>alborotador</trd>,
     <trd>follonero</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9A12;&#x304C;&#x3057;&#x3044;  [<ind>&#x3055;&#x308F;&#x304C;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x9A12;&#x3005;&#x3057;&#x3044;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;&#x3057;&#x3044;</ind>]</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2022/05/24 09:32:59
+Dmitri Gabinski: + trd be
+
+versio 1.22 2022/05/05 17:08:12
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.19  2017/08/12 12:10:14  revo
 Wolfram Diestel: +ekz-oj kaj fnt-oj
 
@@ -284,8 +330,5 @@ Revision 1.15  2013/02/03 02:10:10  revo
 Jeromo Vasxe: memstar. ~ema
 
 Revision 1.14  2013/02/02 20:10:08  revo
-Jeromo Vasxe: + ref + trd fr
-
-Revision 1.13  2011/12/06 16:10:15  revo
 -->
 </vortaro>

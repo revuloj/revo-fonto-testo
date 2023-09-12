@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lok.xml,v 1.54 2020/02/16 11:10:32 revo Exp $">
+<art mrk="$Id: lok.xml,v 1.153 2023/09/02 05:33:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>lok</rad>/o <fnt><bib>PV</bib></fnt>
@@ -21,12 +20,11 @@
       <ekz>
         oni ne vendis al mi <tld/>on en vira kupeo
         <fnt>
+          <aut>Konstanten Krysakov</aut>
+          <vrk><url ref="&Monato;/2000/006805.php">Kota akvo</url></vrk>
           <bib>Monato</bib>
-          <aut>Geraldo Mattos</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006805.html">Kota 
-           Akvo: Konstanten Krysakov</url></vrk>
-        </fnt>;
+          <lok>2000/03, p. 28</lok>
+          </fnt>;
       </ekz>
       <ekz>
         elekti bonan <tld/>on por vidi;
@@ -106,15 +104,13 @@
         li voja&gcirc;is en multajn <tld/>ojn;
       </ekz>
       <ekz>
-        la hispana urbo Santiago de Compostela, sankta <tld/>o de la
+        la hispana urbo <nom>Santiago de Compostela</nom>, sankta <tld/>o de la
         kristanoj
         <fnt>
+          <aut>Rafaela Urue&ntilde;a</aut>
+          <vrk><url ref="&Monato;/2000/006809.php">Vojoj al la sankta urbo</url></vrk>
           <bib>Monato</bib>
-          <aut>Rafaela URUE&Ntilde;A</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006809.html">Hispanio:
-          
-             Vojoj al la sankta urbo</url></vrk>
+          <lok>2000/03, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -146,11 +142,10 @@
       <ekz>
         ne estas tie <tld/>o por sufero
         <fnt>
+       <aut>Manoel BORGES DOS SANTOS</aut>
+          <vrk><url ref="&Monato;/2000/006863.php">Poemoj</url></vrk>
           <bib>Monato</bib>
-          <aut>Geraldo Mattos</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006863.html">Kio estas
-          Amo?</url></vrk>
+          <lok>2000/04, p. 32</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -170,8 +165,8 @@
   <snc mrk="lok.0o.rango">
     <dif>
       <ref tip="sin" cel="rang.0o.hierarkia">rango<sncref/></ref>;
-      nombro la&ubreve; 
-      <ref tip="malprt" cel="sekv.sin0o.spaca">sinsekvo<sncref/></ref>, 
+      nombro la&ubreve;
+      <ref tip="malprt" cel="sekv.sin0o.spaca">sinsekvo<sncref/></ref>,
       ekz. atinganta la celon en konkurso:
       <ekz>
          unua <klr>(venkinto)</klr>, dua, tria <tld/>o;
@@ -180,11 +175,10 @@
         &jcirc;uriano el Germanio restis fidela al longjaraj tradicioj kaj la
         unuan <tld/>on atribuis al la germana teamo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006824.html">Litovio:
-          Monda &ccirc;ampionado de dancoj</url></vrk>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006824.php">Monda &ccirc;ampionado de dancoj</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/05, p. 17</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -208,30 +202,118 @@
     <trd lng="es">posici&oacute;n<klr> (de un argumento)</klr></trd>
     <trd lng="fr">position<klr> (d'un argument)</klr></trd>
   </snc>
+  <trd lng="af">plek</trd>
+  <trd lng="am">&#x1266;&#x1273;</trd>
+  <trd lng="ar">&a_m;&a_k;&a_A;&a_n;</trd>
+  <trd lng="az">yer</trd>
   <trd lng="be">&c_m;&c_je;&c_s;&c_c;&c_a;</trd>
+  <trd lng="bn">&#x9B8;&#x9CD;&#x9A5;&#x9BE;&#x9A8;</trd>
+  <trd lng="bo">&t_sa;&t_tsheg;&t_cha;&t_tsheg;</trd>
+  <trd lng="bs">mjesto</trd>
+  <trd lng="co">postu</trd>
   <trdgrp lng="cs">
     <trd>adresa</trd>,
     <trd>m&iacute;sto</trd>,
     <trd>um&iacute;st&ecaron;n&iacute;</trd>
   </trdgrp>
+  <trd lng="cy">lle</trd>
+  <trd lng="da">sted</trd>
   <trd lng="en">place</trd>
+  <trd lng="et">koht</trd>
+  <trd lng="eu">leku</trd>
+  <trd lng="fy">plak</trd>
+  <trd lng="ga">&aacute;it</trd>
+  <trd lng="gd">&agrave;ite</trd>
+  <trd lng="gl">lugar</trd>
+  <trd lng="gu">&#xAB8;&#xACD;&#xAA5;&#xAB3;</trd>
+  <trd lng="ha">wuri</trd>
+  <trd lng="hi">&#x91C;&#x917;&#x939;</trd>
+  <trd lng="hmn">qhov chaw</trd>
+  <trd lng="hr">mjesto</trd>
+  <trd lng="ht">plas</trd>
   <trd lng="hu">hely</trd>
+  <trd lng="hy">&#x57F;&#x565;&#x572;</trd>
   <trdgrp lng="id">
     <trd>lokasi</trd>,
     <trd>tempat</trd>
   </trdgrp>
+  <trd lng="ig">ebe</trd>
+  <trd lng="is">sta&#xF0;ur</trd>
+  <trd lng="ja">&#x5834;&#x6240; [<ind>&#x3070;&#x3057;&#x3087;</ind>]</trd>
+  <trd lng="jv">panggonan</trd>
+  <trd lng="ka">&#x10D0;&#x10D3;&#x10D2;&#x10D8;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&c_o;&c_r;&c_y;&c_n;</trd>
+  <trd lng="km">&#x1780;&#x1793;&#x17D2;&#x179B;&#x17C2;&#x1784;</trd>
+  <trd lng="kn">&#xCB8;&#xCCD;&#xCA5;&#xCBE;&#xCA8;</trd>
+  <trd lng="ko">&#xC7A5;&#xC18C;</trd>
+  <trd lng="ku">c&icirc;h</trd>
+  <trd lng="ky">&c_o;&c_r;&c_u;&c_n;</trd>
+  <trd lng="lat">pro eo</trd>
+  <trd lng="lo">&#xEAA;&#xEB0;&#xE96;&#xEB2;&#xE99;&#xE97;&#xEB5;&#xEC8;</trd>
+  <trd lng="lt">vieta</trd>
+  <trd lng="lv">vieta</trd>
+  <trd lng="mg">toerana</trd>
+  <trd lng="mi">wahi</trd>
+  <trd lng="mk">&c_m;&c_je;&c_s;&c_t;&c_o;</trd>
+  <trd lng="ml">&#xD38;&#xD4D;&#xD25;&#xD32;&#xD02;</trd>
+  <trd lng="mn">&c_g;&c_a;&c_z;&c_a;&c_r;</trd>
+  <trd lng="mr">&#x938;&#x94D;&#x925;&#x93E;&#x928;</trd>
+  <trd lng="ms">tempat</trd>
+  <trd lng="mt">post</trd>
+  <trd lng="my">&#x1014;&#x1031;&#x101B;&#x102C;</trd>
+  <trd lng="ne">&#x920;&#x93E;&#x909;&#x901;</trd>
   <trd lng="nl">plaats</trd>
+  <trd lng="ny">malo</trd>
+  <trd lng="pa">&#xA38;&#xA25;&#xA3E;&#xA28;</trd>
+  <trdgrp lng="pl">
+    <trd>miejsce</trd>,
+    <trd>miejscowo&sacute;&cacute;</trd>,
+    <trd>pomieszczenie</trd>
+  </trdgrp>
+  <trd lng="ps">&#x681;&a_A;&f_y;</trd>
   <trd lng="pt">lugar</trd>
+  <trdgrp lng="ro">
+    <trd>loc</trd>,
+    <trd>camer&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_m;&c_je;&c_s;&c_t;&c_o;</trd>
+  <trd lng="rw">ikibanza</trd>
+  <trd lng="sd">&a_j;&a_A;&a_hamza;</trd>
+  <trd lng="si">&#xDC3;&#xDCA;&#xDAE;&#xDCF;&#xDB1;&#xDBA;</trd>
   <trdgrp lng="sk">
     <trd>adresa</trd>,
     <trd>miesto</trd>,
     <trd>umiestnenie</trd>
   </trdgrp>
+  <trd lng="sl">kraj</trd>
+  <trd lng="sm">mea</trd>
+  <trd lng="sn">nzvimbo</trd>
+  <trd lng="so">meel</trd>
+  <trd lng="sq">vendi</trd>
+  <trd lng="st">habit&eacute;</trd>
+  <trd lng="su">tempat</trd>
   <trdgrp lng="sv">
     <trd>plats</trd>,
     <trd>st&auml;lle</trd>
   </trdgrp>
+  <trd lng="sw">mahali</trd>
+  <trd lng="ta">&#xB87;&#xB9F;&#xBA4;&#xBCD;&#xBA4;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC38;&#xC4D;&#xC25;&#xC32;&#xC02;</trd>
+  <trd lng="tg">&#x4B7;&c_o;&c_i;</trd>
+  <trdgrp lng="th">
+    <trd>&#xE2A;&#xE16;&#xE32;&#xE19;&#xE17;&#xE35;&#xE48;</trd>,
+    <trd>&#xE17;&#xE35;&#xE48;</trd>
+  </trdgrp>
+  <trd lng="tl">lugar</trd>
+  <trd lng="tt">&c_u;&c_r;&c_y;&c_n;</trd>
+  <trd lng="uk">&c_m;&c_ib;&c_s;&c_c;&c_je;</trd>
+  <trd lng="ur">&a_j;&f_g;&#x6C1;</trd>
+  <trd lng="uz">joy</trd>
+  <trd lng="vi">n&#x1A1;i</trd>
+  <trd lng="xh">indawo</trd>
+  <trd lng="yi">&alef;&#x5B8;&resh;&tet;</trd>
+  <trd lng="yo">ibi</trd>
+  <trd lng="zu">indawo</trd>
 </drv>
 
 <drv mrk="lok.0a">
@@ -241,22 +323,25 @@
       Ne &ccirc;iea, ne transiranta la limojn de iu <tld/>o,
       koncernanta nur parton de iu tuto:
       <ekz>
-        Taylor asertis ke oni devas koncentri sian klopodon al la
+        <nom>Taylor</nom> asertis ke oni devas koncentri sian klopodon al la
         venko en <tld/>aj militoj per konvenciaj armiloj
         <fnt>
         <aut>Yamasaki S.</aut>,
-        <vrk>Dek tri tagoj</vrk>,
+        <vrk><url ref="&Monato;/2001/pdf/monato200110.pdf#page=22">Dek tri tagoj</url></vrk>,
         <bib>Monato</bib>,
-        <lok>2001</lok>
+        <lok>2001/10, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <ctl>&Ccirc;i tio nur piketos vin</ctl>, avertis <klr>...</klr>
-        d-ro Vejkli, donante al Ned <tld/>an anestezilon apud
+        <ctl>&Ccirc;i tio nur piketos vin</ctl>, avertis <klr>[&#x2026;]</klr>
+        d-ro <nom>Vejkli</nom>, donante al <nom>Ned</nom> <tld/>an anestezilon apud
         arterio supre de lia dekstra femuro
-        <fnt><aut>D. Curtis</aut>, <vrk>Koratako</vrk>,
-        <bib>Monato</bib>, <lok>2002:1, p.
-        28-34a</lok></fnt>.
+        <fnt>
+          <aut>David Curtis</aut>
+          <vrk><url ref="&Monato;/2002/pdf/monato200201.pdf#page=28">Koratako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/01, p. 28-34</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="ant">
@@ -285,13 +370,12 @@
         <fnt><lok>Starto</lok></fnt>;
       </ekz>
       <ekz>
-        ekstere la IF de UEA prizorgas la informadon
-        <klr>(...)</klr> per helpo al la informado sur la landa,
+        ekstere la <nom>IF</nom> de UEA prizorgas la informadon
+        <klr>[&#x2026;]</klr> per helpo al la informado sur la landa,
         <tld/>a kaj faka niveloj
         <fnt>
           <aut>I. Lapenna</aut>,
-          <vrk><url
-          ref="http://www.angelfire.com/ny2/ts/lapenna.html">Por
+          <vrk><url ref="http://www.angelfire.com/ny2/ts/lapenna.html">Por
           pli efika informado</url></vrk>,
           <lok>1974</lok>
         </fnt>;
@@ -313,39 +397,41 @@
       <ekz>
         estas <tld/>a kutimo, ke en tiu sezono anta&ubreve; la domo pendas kuko
         <fnt>
-          <bib>Monato</bib>
           <aut>Michael Lennartz</aut>
           <vrk><url ref="&Monato;/2009/009737.php">&Ccirc;u
           demokratio a&ubreve; ne?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/03, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
         <tld/>a dialekto
         <fnt>
-          <bib>Monato</bib>
           <aut>John Gobourne</aut>
           <vrk><url ref="&Monato;/2014/011339.php">Dialekto
           flegata</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/08, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         lerni <tld/>an lingvon a&ubreve; konati&gcirc;i kun tieaj kutimoj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007003.html">Internaciaj
-            Rilatoj: El flamo en fajron</url></vrk>
+	<aut>Garbhan MacAoidh</aut>
+	<vrk><url ref="&Monato;/2000/007003.php">El flamo en fajron</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
         la <tld/>a esperantista asocio konas nur unu
         Esperanto-parolanton en tiu urbo
         <fnt>
-          <bib>Monato</bib>
           <aut>Robert Leleu</aut>
           <vrk><url ref="&Monato;/2009/009898.php">Kiuj
           vo&ccirc;donis por EDE?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/10, p. 6</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -355,18 +441,18 @@
     </trdgrp>
     <trd lng="sv">lokal</trd>
   </snc>
-  <snc>
+  <snc mrk="lok.0a.rilata">
     <dif>
       Rilata al situo, spaco, <tld/>o:
       <ekz>
         la aktuala mond-evoluo devigas nin pensi tutmondece,
         preter <tld/>a diverseco, direkte al universaleco,
-        ec se ni devas agi <tld/>e
+        e&ccirc; se ni devas agi <tld/>e
         <fnt>
-        <aut>G. Ledon</aut>,
-        <vrk>Perditaj &scirc;ancoj de l' diverseco</vrk>,
+        <aut>Gilbert Ledon</aut>,
+        <vrk><url ref="&Monato;/2002/007825.html">Diverseco: granda minaco</url></vrk>,
         <bib>Monato</bib>,
-        <lok>2002</lok>
+        <lok>2002/07, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -412,12 +498,30 @@
     <trd>lok&aacute;lis</trd>
   </trdgrp>
   <trd lng="id">lokal</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5834;&#x6240;&#x306E;  [<ind>&#x3070;&#x3057;&#x3087;&#x306E;</ind>]</trd>,
+    <trd>&#x5730;&#x65B9;&#x306E;  [<ind>&#x3061;&#x307B;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x305D;&#x306E;&#x571F;&#x5730;&#x306E;  [<ind>&#x305D;&#x306E;&#x3068;&#x3061;&#x306E;</ind>]</trd>,
+    <trd>&#x5730;&#x5143;&#x306E;  [<ind>&#x3058;&#x3082;&#x3068;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">plaatselijk</trd>
+  <trdgrp lng="pl">
+    <trd>lokalny</trd>,
+    <trd>miejscowy</trd>,
+    <trd>terenowy</trd>
+  </trdgrp>
   <trd lng="pt">local</trd>
+  <trdgrp lng="ro">
+    <trd>local</trd>,
+    <trd>indigen</trd>,
+    <trd>c&acirc;mp</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>lok&aacute;lny</trd>,
     <trd>miestny</trd>
   </trdgrp>
+<trd lng="th">&#xE17;&#xE49;&#xE2D;&#xE07;&#xE16;&#xE34;&#xE48;&#xE19;</trd>
+  <trd lng="uk">&c_m;&c_ib;&c_s;&c_c;&c_je;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="lok.0i">
@@ -427,8 +531,8 @@
     <dif>
       <ref tip="dif" cel="met.0i.movi">Meti<sncref/></ref>:
       <ekz>
-        li <klr>[&#8230;]</klr> <tld/>is anta&ubreve; la Edena &gcirc;ardeno 
-        la kerubon <klr>[&#8230;]</klr> por gardi la vojon al la arbo de vivo
+        li <klr>[&#x2026;]</klr> <tld/>is anta&ubreve; la Edena &gcirc;ardeno
+        la kerubon <klr>[&#x2026;]</klr> por gardi la vojon al la arbo de vivo
         <fnt>
           <bib>MT</bib>
           <lok>Genezo 3:24</lok>
@@ -490,7 +594,7 @@
         li estas alte <tld/>ita en mia estimo;
       </ekz>
       <ekz>
-        en &ccirc;iu okazo mi dankas la diojn, ke ili <tld/>is 
+        en &ccirc;iu okazo mi dankas la diojn, ke ili <tld/>is
         min apud la flanko de l' faraono
         <fnt>
           <bib>Far3</bib>
@@ -561,11 +665,30 @@
     <trd>tesz <klr tip="amb">(vhov&aacute;)</klr></trd>,
     <trd>mozgat</trd>
   </trdgrp>
-  <trd lng="id">[<ind>tempat</ind>] menempatkan</trd>
+  <trd lng="id"><baz>tempat</baz>menempatkan</trd>
+  <trd lng="id">me<ind>letak</ind>kan</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7F6E;&#x304F;  [<ind>&#x304A;&#x304F;</ind>]</trd>,
+    <trd>&#x636E;&#x3048;&#x308B;  [<ind>&#x3059;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x914D;&#x7F6E;&#x3059;&#x308B;  [<ind>&#x306F;&#x3044;&#x3061;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3064;&#x3051;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">plaatsen</trd>
+  <trdgrp lng="pl">
+    <trd>lokowa&cacute;</trd>,
+    <trd>posadzi&cacute;</trd>,
+    <trd>usadowi&cacute;</trd>,
+    <trd>ustawia&cacute;</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>colocar</trd>,
     <trd>p&ocirc;r</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>localiza&#x21B;i</trd>,
+    <trd>planta&#x21B;i</trd>,
+    <trd>a&#x219;eza&#x21B;i</trd>,
+    <trd>instala&#x21B;i</trd>
   </trdgrp>
   <trd lng="sv">placera</trd>
   <trdgrp lng="sk">
@@ -598,8 +721,9 @@
     (inf.)</klr></trd>
     <trd lng="fr">param&egrave;tre r&eacute;gional<klr> (inf.)</klr></trd>
     <trd lng="hu">helyi <ind>be&aacute;ll&iacute;t&aacute;s</ind></trd>
-    <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
-    &c_n;&c_a;&c_s;&c_t;&c_r;&c_o;&c_j;&c_k;&c_a;</trd>
+    <trd lng="pl">lokacja</trd>
+    <trd lng="ro">loca&#x21B;ie</trd>
+    <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_n;&c_a;&c_s;&c_t;&c_r;&c_o;&c_j;&c_k;&c_a;</trd>
   </snc>
 </drv>
 
@@ -616,8 +740,7 @@
         labormedion al siaj preferoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=430068">Loka&jcirc;aro</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=430068">Loka&jcirc;aro</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -628,6 +751,8 @@
     <trd lng="hu">helyi <ind>be&aacute;ll&iacute;t&aacute;sok</ind></trd>
   </snc>
 <trd lng="de">Gebietsschema</trd>
+<trd lng="pl">lokalizacja</trd>
+<trd lng="ro">loc</trd>
 </drv>
 
 <drv mrk="lok.0aro">
@@ -646,6 +771,7 @@
     </dif>
     <trd lng="es">ubicaciones</trd>
     <trd lng="fr">emplacements</trd>
+    <trd lng="pl">lokalizacje</trd>
   </snc>
   <snc mrk="lok.0aro.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -661,8 +787,8 @@
         iu kurbo nomi&gcirc;as ties <ref cel="volv.el0ato">elvolvato</ref>;
       </ekz>
       <ekz>
-        parabolo<klr>[n oni]</klr> povas difini kiel la <tld/>aro de 
-        punktoj, kiuj estas egaldistancaj de donita punkto (la fokuso) 
+        parabolo<klr>[n oni]</klr> povas difini kiel la <tld/>aro de
+        punktoj, kiuj estas egaldistancaj de donita punkto (la fokuso)
         kaj donita linio (la direktanto)
         <fnt>
           <bib>Viki</bib>
@@ -675,7 +801,7 @@
       Kvankam tiu &ccirc;i termino estas a&ubreve;toritata, bone formita kaj
       ar&hcirc;aika, &ccirc;ar &ccirc;iam anstata&ubreve;igebla
       per <ctl>aro</ctl>, oni ial enkondukis por &gcirc;i novan,
-      nerekomendindan formon <ctl>lokuso</ctl>
+      nerekomendindan formon &leftquot;<esc>lokuso</esc>&rightquot;
       <fnt><bib>PIV1</bib></fnt>.
     </rim>
     <trd lng="de">geometrischer <ind>Ort</ind></trd>
@@ -684,25 +810,26 @@
     <trd lng="fr">lieu g&eacute;om&eacute;trique</trd>
     <trd lng="hu">ponthalmaz</trd>
     <trd lng="pl">miejsce geometryczne</trd>
+    <trd lng="ro">loc geometric</trd>
     <trd lng="ru">&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
     <ind>&c_m;&c_je;&c_s;&c_t;&c_o;</ind></trd>
   </snc>
   <trd lng="cs">geometrick&eacute; m&iacute;sto</trd>
+  <trd lng="ja">&#x8ECC;&#x8DE1;  [<ind>&#x304D;&#x305B;&#x304D;</ind>]</trd>
   <trd lng="sk">geometrick&eacute; miesto</trd>
+  <trd lng="uk">&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_n;&c_je; &c_m;&c_ib;&c_s;&c_c;&c_je; &c_t;&c_o;&c_ch;&c_o;&c_k;</trd>
 </drv>
 
 <drv mrk="lok.0umi">
   <kap><tld/>umi<fnt>Z</fnt></kap>
   <snc mrk="lok.0umi.arangxi">
     <dif>
-      <ref tip="dif" cel="lok.0i.arangxi"><tld
-      lit="L"/>i<sncref/></ref>:
+      <ref tip="dif" cel="lok.0i.arangxi"><tld lit="L"/>i<sncref/></ref>:
       <ekz>
         la bebon vi povas <tld/>umi en infanvartejon
         <fnt>
         <aut>I. Ilf, E. Petrov, trad. V. Okc</aut>,
-        <vrk><url
-        ref="http://www.esperanto.mv.ru/Usono/truu9.html">Unueta&gcirc;a
+        <vrk><url ref="http://www.esperanto.mv.ru/Usono/truu9.html">Unueta&gcirc;a
         Usono</url></vrk>,
         <lok>2003</lok>
         </fnt>;
@@ -713,8 +840,7 @@
       <ekz>
         <uzo tip="fak">EKON</uzo>
         <tld/>umi (procente pruntedoni) monon en bankon
-        <klr>(vd <ref tip="sin"
-        cel="invest.0i.EKON">investi<sncref/></ref>)</klr>.
+        <klr>(vd <ref tip="sin" cel="invest.0i.EKON">investi<sncref/></ref>)</klr>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -730,6 +856,10 @@
     <trd lng="fr">placer<klr> (dans un emploi, une
     fonction)</klr></trd>
     <trd lng="hu">elhelyez <klr tip="ind">(&aacute;tv.)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>umiejscowi&cacute;</trd>,
+      <trd>lokowa&cacute;</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;</trd>
@@ -737,24 +867,36 @@
   </snc>
   <snc mrk="lok.0umi.trovi">
     <dif>
-      <ref tip="sin" cel="trov.0i.elsercxi">Trovi<sncref/></ref>; 
+      <ref tip="sin" cel="trov.0i.elsercxi">Trovi<sncref/></ref>;
       <ref tip="sin" cel="sond.0i.TEK">sondi<sncref/></ref>,
       malkovri la ekzaktan <tld/>on de io:
       <ekz>
-        la fi&scirc;kaptaj &scirc;ipoj uzas la sonaron anka&ubreve; por <tld/>umo de 
-        fi&scirc;aro, <klr>[&#8230;]</klr> e&ccirc; anka&ubreve; por <tld/>umi unuopajn fi&scirc;ojn
+        la fi&scirc;kaptaj &scirc;ipoj uzas la sonaron anka&ubreve; por <tld/>umo de
+        fi&scirc;aro, <klr>[&#x2026;]</klr> e&ccirc; anka&ubreve; por <tld/>umi unuopajn fi&scirc;ojn
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=42170">E&hcirc;osondilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=42170">E&hcirc;osondilo</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">lokalisieren</trd>
     <trd lng="en">locate</trd>
+    <trd lng="pl">ograniczy&cacute; do ma&lstroke;ego obszaru</trd>
+    <trd lng="ro">se limiteaz&abreve; la o zon&abreve; mic&abreve;</trd>
   </snc>
   <trd lng="cs">um&iacute;stit</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9810;&#x3051;&#x308B;  [<ind>&#x3042;&#x305A;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x5165;&#x308C;&#x308B;  [<ind>&#x3044;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x3064;&#x3051;&#x308B;</trd>
+  </trdgrp>
   <trd lng="sk">umiestni&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_ib;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_t;&c_a;&c_sh;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lok.de0ede">
@@ -775,11 +917,13 @@
   <trd lng="en">from (the location of)</trd>
   <trd lng="es">desde</trd>
   <trd lng="hu">vminek a <ind>hely&eacute;t&odblac;l sz&aacute;m&iacute;tva</ind></trd>
+  <trd lng="pl">przesiedlone z</trd>
+  <trd lng="ro">reinstalat din</trd>
 </drv>
 
 <drv mrk="lok.de0i">
   <kap>de<tld/>i</kap>
-  <snc>
+  <snc mrk="lok.de0i.meti">
     <dif>
       Meti en alian <tld/>on:
       <ekz>
@@ -792,7 +936,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la efikoj de la klimata &scirc;an&gcirc;i&gcirc;o inkluzivas levi&gcirc;on de 
+        la efikoj de la klimata &scirc;an&gcirc;i&gcirc;o inkluzivas levi&gcirc;on de
         la mar-niveloj kaj de<tld/>i&gcirc;ojn de lo&gcirc;antaroj el unu regiono al
         alia
         <fnt>
@@ -804,13 +948,12 @@
       </ekz>
       <ekz>
         la substanco de la terkrusto estas premata de
-        kontinent-de<tld/>i&gcirc;oj 
+        kontinent-de<tld/>i&gcirc;oj
         en la profundo kaj tie fandi&gcirc;as
-        <fnt>
+       <fnt><aut>Evgeni Georgiev</aut>:
+          <vrk><url ref="&Monato;/2001/007234.html">Vulkanoj</url></vrk>,
           <bib>Monato</bib>
-          <aut>Evgeni Georgiev</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007234.html">Vulkanoj</url></vrk>
+          <lok>2001/02, p. 22</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -837,9 +980,26 @@
     <trd>&aacute;thelyez</trd>
   </trdgrp>
   <trd lng="nl">verplaatsen</trd>
+  <trdgrp lng="pl">
+    <trd>przesuwa&cacute;</trd>,
+    <trd>przemie&sacute;ci&cacute; ze swojego miejsca</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>&icirc;nt&icirc;rzia</trd>,
+    <trd>deplasa&#x21B;i-v&abreve; din loc</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>odstavi&tcaron;</trd>,
     <trd>odsun&uacute;&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_m;&c_ib;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_ib;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i; &c_z; &c_m;&c_ib;&c_s;&c_c;&c_ja;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -864,6 +1024,14 @@
       <trd>elmozd&iacute;t&aacute;s</trd>,
       <trd>&aacute;thelyez&eacute;s</trd>
     </trdgrp>
+    <trdgrp lng="pl">
+      <trd>dyslokacja</trd>,
+      <trd>przemieszczenie</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>dislocare</trd>,
+      <trd>mi&#x219;care</trd>
+    </trdgrp>
   </snc>
   <snc mrk="lok.de0igo.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -885,7 +1053,7 @@
       bona anstata&ubreve;anto, sed &gcirc;ia ebla interpretado per
       <ctl>movado</ctl> a&ubreve; <ctl>movi&gcirc;o</ctl> (en kinematiko)
       iom malhelpas, dum <ctl>de<tld/>igo</ctl> havas a&ubreve;toritatajn
-      fontojn (Bricard, Werner).
+      fontojn (<nom>Bricard</nom>, <nom>Werner</nom>).
       Plie, en la koncernaj lingvoj, kaj anka&ubreve; en
       <fnt><bib>PIV2</bib></fnt>, la termino <ctl>movo</ctl> ofte
       fari&gcirc;as nura sinonimo de <ctl>afina izometrio</ctl> kaj oni
@@ -910,8 +1078,8 @@
     </trdgrp>
     <trd lng="hu">mozg&aacute;s</trd>
     <trd lng="pl">izometria parzysta</trd>
-    <trd lng="ru"><klr tip="amb">(&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;)
-    </klr>&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+    <trd lng="ro">chiar izometrie</trd>
+    <trd lng="ru"><klr tip="amb">(&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;)</klr>&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   </snc>
   <trd lng="cs">p&rcaron;em&iacute;st&ecaron;n&iacute;</trd>
   <trd lng="de">Verschiebung</trd>
@@ -921,15 +1089,15 @@
 <drv mrk="lok.dis0i">
   <kap>dis<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="lok.dis0i.meti">
     <dif>
       Meti dise en iun <tld/>on:
       <ekz>
         dis<tld/>i kelkajn meblojn en la &ccirc;ambron;
       </ekz>
       <ekz>
-        la kronprinco kolektos dek regimentojn, 
-        dis<tld/>itajn apud la linio, kiu kunigas la 
+        la kronprinco kolektos dek regimentojn,
+        dis<tld/>itajn apud la linio, kiu kunigas la
         urbon Memfison kun la urbo Pi-uto
         <fnt>
           <bib>Far1</bib>
@@ -941,7 +1109,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Julius Hauser</aut>
-          <vrk><url ref="&Monato;/2012/010830.php">Tom&aacute;&scaron; 
+          <vrk><url ref="&Monato;/2012/010830.php">Tom&aacute;&scaron;
            Ba&tcaron;a, re&gcirc;o de la &scirc;uistoj</url></vrk>
         </fnt>.
       </ekz>
@@ -983,9 +1151,27 @@
     <trd>sz&eacute;ttesz</trd>,
     <trd>diszlok&aacute;l</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x914D;&#x7F6E;&#x3059;&#x308B;  [<ind>&#x306F;&#x3044;&#x3061;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5206;&#x6563;&#x3057;&#x3066;&#x7F6E;&#x304F;  [<ind>&#x3076;&#x3093;&#x3055;&#x3093;&#x3057;&#x3066;&#x304A;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verdelen</trd>
+  <trdgrp lng="pl">
+    <trd>rozmieszcza&cacute;</trd>,
+    <trd>rozlokowa&cacute;</trd>
+  </trdgrp>
   <trd lng="pt">deslocar</trd>
+  <trdgrp lng="ro">
+    <trd>aranja</trd>,
+    <trd>implementa</trd>
+  </trdgrp>
   <trd lng="sk">rozmiestni&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_ib;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_t;&c_a;&c_sh;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lok.du0a">
@@ -993,8 +1179,7 @@
   <fnt><bib>KompLeks</bib></fnt>
   <snc mrk="lok.du0a.KOMUNE">
     <dif>
-      Hanvanta du <ref tip="vid"
-      cel="lok.0o.spaca">lokojn<sncref/></ref>:
+      Havanta du <ref tip="vid" cel="lok.0o.spaca">lokojn<sncref/></ref>:
       <ekz>
         li &scirc;in sidigas sen demand' &ccirc;e tablo nur du<tld/>a
         <fnt>
@@ -1005,6 +1190,7 @@
       </ekz>
     </dif>
     <trd lng="de">zweisitzig</trd>
+    <trd lng="pl">dwuosobowy</trd>
   </snc>
   <snc mrk="lok.du0a.operacio">
     <uzo tip="fak">MAT</uzo>
@@ -1018,14 +1204,13 @@
         <ctl>superi</ctl> estas du<tld/>a rilato;
       </ekz>
       <ekz>
-        ofte temas pri operacioj kaj rilatoj du<tld/>aj 
-        kaj unu<tld/>aj, en la programlingvo C la kondi&ccirc;a 
+        ofte temas pri operacioj kaj rilatoj du<tld/>aj
+        kaj unu<tld/>aj, en la programlingvo C la kondi&ccirc;a
         esprimo <frm am="x?y:z">x&nbsp;?&nbsp;y&nbsp;:&nbsp;z</frm> formas operacion
         tri<tld/>an
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=42878">Loknombro</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=42878">Loknombro</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -1052,6 +1237,10 @@
       <trd>k&eacute;t operandus&uacute;</trd>
     </trdgrp>
     <trd lng="id">biner</trd>
+    <trdgrp lng="pl">
+      <trd>binarny</trd>,
+      <trd>dwumiejscowy</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_d;&c_v;&c_u;&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;<klr> (&c_o;&c_b;
       &c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_i;)</klr></trd>,
@@ -1059,6 +1248,8 @@
     </trdgrp>
   </snc>
   <trd lng="cs">dvojm&iacute;stn&yacute;</trd>
+  <trd lng="pl">dwumiejscowy</trd>
+  <trd lng="ro">dubla</trd>
   <trd lng="sk">dvojmiestny</trd>
 </drv>
 
@@ -1083,6 +1274,15 @@
   <trdgrp lng="hu">
     <trd>behelyez</trd>,
     <trd>betesz</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>lokowa&cacute;</trd>,
+    <trd>pomieszcza&cacute;</trd>,
+    <trd>umieszcza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>localiza</trd>,
+    <trd>plasa</trd>
   </trdgrp>
   <trd lng="sk">dosadi&tcaron;</trd>
 </drv>
@@ -1122,6 +1322,12 @@
     <trd>v&eacute;gbemegy</trd>,
     <trd>lej&aacute;tsz&oacute;dik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x50AC;&#x3055;&#x308C;&#x308B;  [<ind>&#x3082;&#x3088;&#x304A;&#x3055;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x8D77;&#x304D;&#x308B;  [<ind>&#x304A;&#x304D;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">mie&cacute; <ind>miejsce</ind></trd>
+  <trd lng="ro">a se &icirc;nt&acirc;mpla</trd>
 </drv>
 
 <drv mrk="lok.hejm0o">
@@ -1141,6 +1347,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#xE1A;&#xE49;&#xE32;&#xE19;&#xE40;&#xE01;&#xE34;&#xE14;</trd>
   </snc>
   <trd lng="cs">m&iacute;sto bydli&scaron;t&ecaron;</trd>
   <trdgrp lng="de">
@@ -1156,7 +1363,20 @@
     <trd>lugar de nacimiento</trd>
   </trdgrp>
   <trd lng="fr">village natal</trd>
+  <trd lng="ja">&#x6545;&#x90F7;  [<ind>&#x3053;&#x304D;&#x3087;&#x3046;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>miasto rodzinne</trd>,
+    <trd>macierz</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>ora&#x219; natal</trd>,
+    <trd>patrie</trd>
+  </trdgrp>
   <trd lng="sk">miesto bydliska</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_d;&c_n;&c_ib; &c_m;&c_ib;&c_s;&c_c;&c_ja;</trd>,
+    <trd>&c_b;&c_a;&c_t;&c_mol;&c_k;&c_ib;&c_v;&c_shch;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lok.mal0a">
@@ -1181,8 +1401,7 @@
         Interreto estas la plej fama mal<tld/>a reto
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=62617">Komputila
+          <lok><url ref="https://eo.wikipedia.org/?curid=62617">Komputila
           reto</url></lok>
         </fnt>;
       </ekz>
@@ -1194,8 +1413,7 @@
         fundamente estas mal<tld/>a minimumo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=104280">Optimumigo
+          <lok><url ref="https://eo.wikipedia.org/?curid=104280">Optimumigo
           (matematiko)</url></lok>
         </fnt>.
       </ekz>
@@ -1218,6 +1436,8 @@
   <trd lng="hu">glob&aacute;lis</trd>
   <trd lng="id">global</trd>
   <trd lng="nl">globaal</trd>
+  <trd lng="pl">globalny</trd>
+  <trd lng="ro">global</trd>
   <trd lng="ru">&c_g;&c_l;&c_o;&c_b;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>celkov&yacute;</trd>,
@@ -1238,23 +1458,19 @@
         <fnt>
           <aut>L. N. Newell</aut>,
           <vrk>La Astronomo</vrk>,
-          <lok><url
-          ref="http://literaturamondo.org/PDF/1947/LM%201947-1112c.pdf">
+          <lok><url ref="http://literaturamondo.org/PDF/1947/LM%201947-1112c.pdf">
           Literatura Mondo, 1947 (11-12)</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         meze de tiu terur<klr>[o]</klr> ekfloras unua amo, kvaza&ubreve;
-        mis<tld/>a rozo 
-        rekte apud la sterkejo
+        mis<tld/>a rozo rekte apud la sterkejo
         <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007110.php">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007110.html">Atentokapta
-          
-           sed ru&gcirc;krajoninda</url></vrk>
-        </fnt>.
+          <lok>2001/01, p. 31</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -1274,12 +1490,131 @@
     <trd>d&eacute;plac&eacute;<klr> (&agrave; la mauvaise place)</klr></trd>,
     <trd>pas &agrave; sa place</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zawieruszony</trd>,
+    <trd>zaprzepaszczony</trd>,
+    <trd>zapodziany</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>r&abreve;t&abreve;cit</trd>,
+    <trd>pierdut</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lok.mis0i">
+  <kap>
+    mis<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      Meti en mal&gcirc;ustan <tld/>on:
+      <ekz>
+        <klr>[mi]</klr> mis<tld/>is miajn okulvitrojn
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kravato, mis<tld/>ita tiamaniere, ke la nodo trovi&gcirc;is duone ka&scirc;ita sub pinto de la
+        kolumo
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        poste deklaris la Centra Elekta Komisiono, ke, surbaze de la mis<tld/>itaj
+        balotiloj, fakte venkis per 84 vo&ccirc;oj <nom>Basha</nom>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2011/010456.php">Vo&ccirc;oj de krianto en elekto-dezerto</url></vrk>
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">verlegen</trd>
+  <trdgrp lng="en">
+    <trd>misplace</trd>,
+    <trd>mislocate</trd>
+  </trdgrp>
+  <trd lng="ja">&#x7F6E;&#x304D;&#x9055;&#x3048;&#x308B;  [<ind>&#x304A;&#x304D;&#x3061;&#x304C;&#x3048;&#x308B;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>zawieruszy&cacute;</trd>,
+    <trd>umie&sacute;ci&cacute; w z&lstroke;ym miejscu</trd>,
+    <trd>zaprzepa&sacute;ci&cacute;</trd>,
+    <trd>zapodzia&cacute;</trd>
+   </trdgrp>
+   <trdgrp lng="ro">
+     <trd>r&abreve;t&abreve;ci</trd>,
+     <trd>pus &icirc;ntr-un loc gre&#x219;it</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_z;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_p;&c_i;&c_h;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i; &c_a;&c_b;&c_i;&c_d;&c_je;/&c_a;&c_b;&c_i;&c_ja;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lok.sur0e">
+  <kap>
+    sur<tld/>e
+  </kap>
+  <snc>
+    <dif>
+      En iu difinita <tld/>o, kie io okazas:
+      <ekz>
+        turni&gcirc;inte sur<tld/>e, &scirc;i forkuris
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li efektive ne povas resti sur<tld/>e
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&ccirc;u]</klr> sur<tld/>e vi trovis neniun indika&jcirc;on, neniun postsignon
+        <fnt>
+          <bib>ChV</bib>
+          <lok>5</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        la Raciula Societo bombaste anoncis, ke &gcirc;i organizos kunvenon sur<tld/>e, por ke
+        <klr>[&ccirc;iuj]</klr> povu mem vidi, ke pri la &ccirc;eesto de kosmo&scirc;ipanoj trovi&gcirc;as e&ccirc;
+        ne unu minimuma spuro
+        <fnt>
+          <bib>ChV</bib>
+          <lok>20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tie.0">tie</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>auf der <ind>Stelle</ind></trd>,
+    <trd>vor <ind>Ort</ind></trd>,
+    <trd>an Ort und <ind>Stelle</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>on the <ind>spot</ind></trd>,
+    <trd>in <ind>place</ind></trd>,
+    <trd>on <ind>site</ind></trd>
+  </trdgrp>
+  <trd lng="ja">&#x73FE;&#x5730;&#x3067;  [<ind>&#x3052;&#x3093;&#x3061;&#x3067;</ind>]</trd>
 </drv>
 
 <drv mrk="lok.trans0i">
   <kap>trans<tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc>
+  <snc mrk="lok.trans0i.meti">
     <dif>
       Meti transen en alian <tld/>on:
       <ekz>
@@ -1293,6 +1628,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="th">&#xE22;&#xE49;&#xE32;&#xE22;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_mol;</trd>,
@@ -1323,7 +1659,20 @@
     <trd>&aacute;thelyez</trd>,
     <trd>&aacute;ttesz</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x79FB;&#x3059;  [<ind>&#x3046;&#x3064;&#x3059;</ind>]</trd>,
+    <trd>&#x79FB;&#x52D5;&#x3055;&#x305B;&#x308B;  [<ind>&#x3044;&#x3069;&#x3046;&#x3055;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">overbrengen</trd>
+  <trdgrp lng="pl">
+    <trd>translokowa&cacute;</trd>,
+    <trd>przenie&sacute;&cacute;</trd>,
+    <trd>przemieszcza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>transloca&#x21B;i</trd>,
+    <trd>muta</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>premiestni&tcaron;</trd>,
@@ -1332,6 +1681,12 @@
   <trdgrp lng="sv">
     <trd>flytta<klr> (n&aring;got)</klr></trd>,
     <trd>transportera</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_ib;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -1355,16 +1710,15 @@
         </fnt>;
       </ekz>
       <ekz>
-        &ccirc;irka&ubreve; la 16a jarcento transl<tld/>i&gcirc;is &ccirc;i tien 
+        &ccirc;irka&ubreve; la 16a jarcento trans<tld/>i&gcirc;is &ccirc;i tien
         fi&scirc;kaptistoj kaj tiuj, kiuj volis eskapi militservadon kaj
         servuton
         <fnt>
-          <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007273.html">Terlango
-          &#8208; natura valoro</url></vrk>
-        </fnt>;
+          <aut>Laimius Stra&zcaron;nickas</aut>
+            <vrk><url ref="&Monato;/2001/007273.php">Terlango -- natura valoro</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 21</lok>
+          </fnt>;
       </ekz>
       <ekz>
         multaj kapitaloj trans<tld/>i&gcirc;is el E&ubreve;ropo al Ameriko.
@@ -1383,17 +1737,30 @@
       <trd>&aacute;thelyez&odblac;dik</trd>,
       <trd>&aacute;tk&ouml;lt&ouml;zik</trd>
     </trdgrp>
-    <trd lng="id">[<ind>pindah</ind>] memindahkan</trd>
+    <trd lng="id"><baz>pindah</baz>memindahkan</trd>
     <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_a;&c_s;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x79FB;&#x8EE2;&#x3059;&#x308B;  [<ind>&#x3044;&#x3066;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x79FB;&#x52D5;&#x3059;&#x308B;  [<ind>&#x3044;&#x3069;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5F15;&#x3063;&#x8D8A;&#x3059;  [<ind>&#x3072;&#x3063;&#x3053;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verhuizen</trd>
   <trdgrp lng="de">
     <trd>umziehen</trd>,
     <trd>abwandern</trd>
+  </trdgrp>
+  <trd lng="pl">przemieszcza&cacute; si&eogonek;</trd>
+  <trdgrp lng="ro">
+    <trd>muta</trd>,
+    <trd>c&abreve;l&abreve;tori</trd>
+  </trdgrp>
+<trdgrp lng="th">
+    <trd>&#xE22;&#xE49;&#xE32;&#xE22;</trd>,
   </trdgrp>
 </drv>
 
@@ -1402,10 +1769,10 @@
   <snc mrk="lok.sid0o.TRA">
     <uzo tip="fak">TRA</uzo>
     <dif>
-      Okupebla <tld/>o por sido ekzemple en veturilo, en 
+      Okupebla <tld/>o por sido ekzemple en veturilo, en
       atendejo...:
       <ekz>
-        oni demandos pri vi, &ccirc;ar oni rimarkos vian sid<tld/>on  
+        oni demandos pri vi, &ccirc;ar oni rimarkos vian sid<tld/>on
         <fnt>
           <bib>MT</bib>
           <lok>I. Samuel 20:18</lok>
@@ -1419,7 +1786,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        ses &scirc;tupojn havis la trono <klr>[&#8230;]</klr> kaj brakapogojn
+        ses &scirc;tupojn havis la trono <klr>[&#x2026;]</klr> kaj brakapogojn
         amba&ubreve;flanke de la sid<tld/>o
         <fnt>
           <bib>MT</bib>
@@ -1427,7 +1794,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        li <klr>[&#8230;]</klr> sidigis la maljunan avinon sur la malanta&ubreve;a
+        li <klr>[&#x2026;]</klr> sidigis la maljunan avinon sur la malanta&ubreve;a
         sid<tld/>o, por ke &scirc;i ne elfalu dum la veturado
         <fnt>
           <bib>Fab1</bib>
@@ -1436,24 +1803,104 @@
       </ekz>
       <ekz>
         &ccirc;iu pasa&gcirc;ero rajtas okupi nur unu sid<tld/>on
-        <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>, 
+        <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>,
         <lok>1987</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">sitplek</trd>
+  <trd lng="am">&#x1218;&#x1240;&#x1218;&#x132B;</trd>
+  <trd lng="ar">&a_m;&a_q;&a_ayn;&a_d;</trd>
+  <trd lng="az">oturacaq</trd>
+  <trd lng="bn">&#x986;&#x9B8;&#x9A8;</trd>
+  <trd lng="bs">sjedi&scaron;te</trd>
+  <trd lng="co">pusatoghju</trd>
   <trd lng="cs">m&iacute;sto k sezen&iacute;</trd>
+  <trd lng="cy">sedd</trd>
+  <trd lng="da">s&aelig;de</trd>
   <trd lng="de">Sitzplatz</trd>
   <trdgrp lng="en">
     <trd>seat <klr>(in a legislature)</klr></trd>,
     <trd>sitting place</trd>
   </trdgrp>
   <trd lng="es">asiento</trd>
+  <trd lng="et">iste</trd>
+  <trd lng="eu">eserlekua</trd>
   <trd lng="fr">place<klr> (si&egrave;ge)</klr></trd>
+  <trd lng="fy">sit</trd>
+  <trd lng="ga">su&iacute;och&aacute;n</trd>
+  <trd lng="gd">suidheachan</trd>
+  <trd lng="gl">asento</trd>
+  <trd lng="gu">&#xAAC;&#xAC7;&#xAA0;&#xA95;</trd>
+  <trd lng="ha">wurin zama</trd>
+  <trd lng="hi">&#x938;&#x940;&#x91F;</trd>
+  <trd lng="hmn">rooj zaum</trd>
+  <trd lng="hr">sjedi&scaron;te</trd>
+  <trd lng="ht">ch&egrave;z</trd>
+  <trd lng="hy">&#x585;&#x57B;&#x561;&#x56D;</trd>
   <trd lng="id"><ind>tempat</ind> duduk</trd>
+  <trd lng="ig">oche</trd>
+  <trd lng="is">s&aelig;ti</trd>
+  <trd lng="ja">&#x5EA7;&#x5E2D; [<ind>&#x3056;&#x305B;&#x304D;</ind>]</trd>
+  <trd lng="jv">jog</trd>
+  <trd lng="ka">&#x10D0;&#x10D3;&#x10D2;&#x10D8;&#x10DA;&#x10E1;</trd>
+  <trd lng="kk">&c_o;&c_r;&c_y;&c_n;</trd>
+  <trd lng="km">&#x1780;&#x17C5;&#x17A2;&#x17B8;</trd>
+  <trd lng="kn">&#xCB8;&#xCCD;&#xCA5;&#xCBE;&#xCA8;&#xCB5;&#xCA8;&#xCCD;&#xCA8;&#xCC1;</trd>
+  <trd lng="ko">&#xC88C;&#xC11D;</trd>
+  <trd lng="ku">r&ucirc;ni&scedil;tek</trd>
+  <trd lng="ky">&c_o;&c_t;&c_u;&c_r;&c_g;&c_u;&c_ch;</trd>
+  <trd lng="lat">cathedra</trd>
+  <trd lng="lo">&#xE9A;&#xEC8;&#xEAD;&#xE99;&#xE99;&#xEB1;&#xEC8;&#xE87;</trd>
+  <trd lng="lt">s&#x117;dyn&#x117;</trd>
+  <trd lng="lv">s&#x15E3;deklis</trd>
+  <trd lng="mg">seza</trd>
+  <trd lng="mi">nohoanga</trd>
+  <trd lng="mk">&c_s;&c_je;&c_d;&c_i;&c_sh;&c_t;&c_je;</trd>
+  <trd lng="ml">&#xD07;&#xD30;&#xD3F;&#xD2A;&#xD4D;&#xD2A;&#xD3F;&#xD1F;&#xD02;</trd>
+  <trd lng="mn">&c_s;&c_u;&c_u;&c_d;&c_a;&c_l;</trd>
+  <trd lng="mr">&#x906;&#x938;&#x928;</trd>
+  <trd lng="ms">tempat duduk</trd>
+  <trd lng="mt">sedil</trd>
+  <trd lng="my">&#x1011;&#x102D;&#x102F;&#x1004;&#x103A;&#x1001;&#x102F;&#x1036;</trd>
+  <trd lng="ne">&#x938;&#x940;&#x91F;</trd>
+  <trd lng="ny">mpando</trd>
+  <trd lng="pa">&#xA38;&#xA40;&#xA1F;</trd>
+  <trdgrp lng="pl">
+    <trd>siedzenie</trd>,
+    <trd>miejsce siedz&aogonek;ce</trd>
+  </trdgrp>
+  <trd lng="ps">&#x685;&a_w;&f_k;&#x6CD;</trd>
+  <trd lng="ro">scaun</trd>
+  <trd lng="rw">intebe</trd>
+  <trd lng="sd">&a_m;&a_s;&a_n;&a_d;</trd>
+  <trd lng="si">&#xD86;&#xDC3;&#xDB1;</trd>
   <trdgrp lng="sk">
     <trd>miesto na sedenie</trd>,
     <trd>sedadlo</trd>
   </trdgrp>
+  <trd lng="sl">sede&zcaron;</trd>
+  <trd lng="sm">nofoa</trd>
+  <trd lng="sn">chigaro</trd>
+  <trd lng="so">kursiga</trd>
+  <trd lng="sq">vend</trd>
+  <trd lng="st">setulo</trd>
+  <trd lng="su">kalinggihan</trd>
+  <trd lng="sw">kiti cha</trd>
+  <trd lng="ta">&#xB87;&#xBB0;&#xBC1;&#xB95;&#xBCD;&#xB95;&#xBC8;</trd>
+  <trd lng="te">&#xC38;&#xC40;&#xC1F;&#xC41;</trd>
+  <trd lng="tg">&c_k;&c_u;&c_r;&c_s;&c_i;&c_i;</trd>
+  <trd lng="th">&#xE17;&#xE35;&#xE48;&#xE19;&#xE31;&#xE48;&#xE07;</trd>
+  <trd lng="tl">upuan</trd>
+  <trd lng="tt">&c_u;&c_r;&c_y;&c_n;</trd>
+  <trd lng="uk">&c_s;&c_i;&c_d;&c_ib;&c_n;&c_n;&c_ja;</trd>
+  <trd lng="ur">&a_n;&a_sh;&a_s;&a_t;</trd>
+  <trd lng="uz">o&#x2019;rin</trd>
+  <trd lng="vi">gh&#x1EBF;</trd>
+  <trd lng="xh">isihlalo</trd>
+  <trd lng="yi">&alef;&#x5B7;&vav;&vav;&ayin;&qof;&zayin;&ayin;&tsadi;&fnun;</trd>
+  <trd lng="yo">ijoko</trd>
+  <trd lng="zu">esihlalweni</trd>
 </drv>
 
 <drv mrk="lok.unu0a">
@@ -1473,7 +1920,7 @@
       <ekz>
         aro <frm am="S">S</frm> kun unu<tld/>a operacio, kio estas
         funkcio
-        <frm am="S to S">S &#8594; S</frm>
+        <frm am="S to S">S &#x2192; S</frm>
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=104304">Algebra
@@ -1502,12 +1949,21 @@
       <trd>monadikus</trd>,
       <trd>egy operandus&uacute;</trd>
     </trdgrp>
+    <trdgrp lng="pl">
+      <trd>jednomiejscowy</trd>,
+      <trd>jednoargumentowy</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>scaun unic</trd>,
+      <trd>unar</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_o;&c_d;&c_n;&c_o;&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j; <klr>(&c_o;&c_b;
       &c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_i;)</klr></trd>,
       <trd>&c_u;&c_n;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
   </snc>
+  <trd lng="uk">&c_o;&c_d;&c_n;&c_o;&c_m;&c_ib;&c_s;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="lok.0sidigxi">
@@ -1530,6 +1986,16 @@
     <trd lng="ru">&c_o;&c_s;&c_je;&c_s;&c_t;&c_mol;</trd>
   </snc>
 <trd lng="de">sich <ind>niederlassen</ind></trd>
+<trd lng="ja">&#x4F4F;&#x307F;&#x3064;&#x304F;  [<ind>&#x3059;&#x307F;&#x3064;&#x304F;</ind>]</trd>
+  <trdgrp lng="pl">
+  <trd>usadowi&cacute; si&eogonek;</trd>,
+  <trd>osiedli&cacute; si&eogonek;</trd>,
+  <trd>osi&aogonek;&sacute;&cacute;</trd>
+</trdgrp>
+<trdgrp lng="ro">
+  <trd>a se stabili</trd>,
+  <trd>depune</trd>
+</trdgrp>
 </drv>
 
 <drv mrk="lok.0nombro">
@@ -1539,7 +2005,7 @@
   <snc mrk="lok.0nombro.argumenta">
     <dif>
       Nombro indikanta kiom da argumentoj akceptas operacio,
-      funkcio, rilato, predikato, proceduro ktp &#8208; a&ubreve; simbolo
+      funkcio, rilato, predikato, proceduro ktp &#x2010; a&ubreve; simbolo
       indikanta operacion ktp:
       <ekz>
         la operacisignoj pluso kaj minuso havas po du
@@ -1547,8 +2013,8 @@
       </ekz>
       <ekz>
         unu el avanta&gcirc;oj de pola skribmaniero estas tiu ke se
-        <tld/>nombro 
-        de &ccirc;iu operatoro estas sciata, <klr>[&#8230;]</klr> parentezoj estas
+        <tld/>nombro
+        de &ccirc;iu operatoro estas sciata, <klr>[&#x2026;]</klr> parentezoj estas
         nebezonataj
         <fnt>
           <bib>Viki</bib>
@@ -1572,6 +2038,8 @@
       <trd>argumentumsz&aacute;m</trd>,
       <trd>operandussz&aacute;m</trd>
     </trdgrp>
+    <trd lng="pl">numer miejsca</trd>
+    <trd lng="ro">num&abreve;rul locului</trd>
     <trdgrp lng="ru">
       <trd>&c_m;&c_je;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;<klr> (&c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_i; &c_i;
       &c_t;.&c_p;.)</klr></trd>,
@@ -1581,28 +2049,28 @@
 </drv>
 </art>
 <!--
-$Log: lok.xml,v $
-versio 1.54 2020/02/16 11:10:32
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.152 2023/08/29 16:34:49
+Wolfram Diestel: ja: prononco
 
-Revision 1.53  2019/06/30 18:21:03  revo
-adaptis URL de Monato
+versio 1.151 2023/08/29 15:27:49
+Wolfram Diestel: ja: prononco
 
-Revision 1.52  2018/06/05 16:10:16  revo
-Wolfram Diestel: kor. mrk
+versio 1.150 2023/05/14 07:24:24
+Paul Peeraerts: + aut + lok + url
 
-Revision 1.51  2017/12/06 20:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn, +~umi 2
+versio 1.149 2023/04/30 17:26:29
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.50  2017/12/06 18:10:13  revo
-Wolfram Diestel: ~o: +snc rango, ekz-oj/fnt-oj
+versio 1.148 2023/04/25 06:32:24
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.49  2017/12/01 11:10:14  revo
-Wolfram Diestel: ~o: prilaboris ekz-ojn
+versio 1.147 2023/04/24 12:46:23
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.48  2015/07/05 04:10:14  revo
-Erik Pedersen: aldonis anglajn vortojn
+versio 1.146 2023/04/23 18:29:45
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.47  2015/07/04 08:37:38  revo
+versio 1.145 2023/04/19 11:24:12
 -->
 </vortaro>

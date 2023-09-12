@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: truf.xml,v 1.22 2023/09/04 19:01:54 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>truf</rad>/o
@@ -31,15 +30,11 @@
         </fnt>.
       </ekz>
     </dif>
-    <bld
-       lok="&WCU;/thumb/3/33/Truffle_4.jpg/640px-Truffle_4.jpg"
-       prm="CC-BY-SA-3.0"
-       ><tld/>oj kolektitaj &ccirc;e Monto Ventoux
+    <bld lok="&WCU;/thumb/3/33/Truffle_4.jpg/640px-Truffle_4.jpg" prm="CC-BY-SA-3.0"><tld/>oj kolektitaj &ccirc;e Monto Ventoux
 
          <fnt>
            <aut>foto de Poppy</aut>
-           <lok><url ref="&WCW;/File:Truffle_4.jpg"
-               >&WCW;/File:Truffle_4.jpg</url></lok>
+           <lok><url ref="&WCW;/File:Truffle_4.jpg">&WCW;/File:Truffle_4.jpg</url></lok>
          </fnt>
     </bld>
   </snc>
@@ -57,15 +52,11 @@
         </fnt>.
       </ekz>
     </dif>
-    <bld
-       lok="&WCU;/thumb/2/2b/Bowl_of_truffles.jpg/640px-Bowl_of_truffles.jpg"
-       prm="CC BY-SA 2.5"
-       >&ccirc;okoladaj <tld/>oj
+    <bld lok="&WCU;/thumb/2/2b/Bowl_of_truffles.jpg/640px-Bowl_of_truffles.jpg" prm="CC BY-SA 2.5">&ccirc;okoladaj <tld/>oj
 
          <fnt>
            <aut>Rdsmith4, propra verko</aut>
-           <lok><url ref="&WCW;/File:Bowl_of_truffles.jpg"
-               >&WCW;/File:Bowl_of_truffles.jpg</url></lok>
+           <lok><url ref="&WCW;/File:Bowl_of_truffles.jpg">&WCW;/File:Bowl_of_truffles.jpg</url></lok>
          </fnt>
     </bld>
   </snc>
@@ -79,11 +70,16 @@
   <trd lng="en">truffle</trd>
   <trd lng="fr">truffe</trd>
   <trd lng="hu">szarvasgomba</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30C8;&#x30EA;&#x30E5;&#x30D5;</trd>,
+    <trd>&#x30BB;&#x30A4;&#x30E8;&#x30A6;&#x30B7;&#x30E7;&#x30A6;&#x30ED;</trd>
+  </trdgrp>
   <trd lng="nl">truffel</trd>
   <trd lng="pl">trufla</trd>
   <trd lng="pt">trufa</trd>
   <trd lng="ru">&c_t;&c_r;&c_ju;&c_f;&c_je;&c_l;&c_mol;</trd>
   <trd lng="sk">h&lcaron;uzovka <klr>(huba)</klr></trd>
+  <trd lng="uk">&#x442;&#x440;&#x44E;&#x444;&#x435;&#x43B;&#x44C;</trd>
 </drv>
 <drv mrk="truf.0i">
   <kap><tld/>i</kap>
@@ -99,8 +95,10 @@
   <trd lng="en">to garnish with truffles</trd>
   <trd lng="fr">truffer</trd>
   <trd lng="hu">szarvasgomb&aacute;val t&ouml;lt</trd>
+  <trd lng="ja">&#x30C8;&#x30EA;&#x30E5;&#x30D5;&#x3092;&#x6DFB;&#x3048;&#x308B;  [<ind>&#x30C8;&#x30EA;&#x30E5;&#x30D5;&#x3092;&#x305D;&#x3048;&#x308B;</ind>]</trd>
   <trd lng="nl">met <ind>truffels</ind> garneren</trd>
   <trd lng="sk">oblo&zcaron;i&tcaron; h&lcaron;uzovkami</trd>
+  <trd lng="uk">&#x43D;&#x430;&#x447;&#x438;&#x43D;&#x44F;&#x442;&#x438; &#x442;&#x440;&#x44E;&#x444;&#x435;&#x43B;&#x44F;&#x43C;&#x438;</trd>
 </drv>
 </art>
 <!--

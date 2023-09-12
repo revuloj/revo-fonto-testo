@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fusx.xml,v 1.15 2007/06/22 17:24:41 revo Exp $">
+<art mrk="$Id: fusx.xml,v 1.25 2023/08/31 13:11:32 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>fu&scirc;</rad>/i</kap>
 <drv mrk="fusx.0i">
@@ -12,18 +11,49 @@
     <dif>
       Malbone fari pro intenca a&ubreve; nevola senzorgeco; fara&ccirc;i:
       <ekz>
-        la tajloro <tld/>is mian veston;
+        la verko estas iom <tld/>ita kaj neniom sprita
+        <fnt>
+          <bib>DKM</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        vi <tld/>is la kuira&jcirc;on;
+        mi volas <klr>[&#x2026;]</klr> scii pri nenio, kio povus <tld/>i mian vivon kaj detrui
+        &gcirc;ian belecon
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        la lernanto <tld/>is sian taskon;
+        pro tiu malharmonio <klr>[&#x2026;]</klr> la tuta parolado, a&ubreve; almena&ubreve; grava &gcirc;ia parto,
+        estas <tld/>ita
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> tiel <tld/>is la aferojn, ke oni ne povis reordigi ilin dum
+        kelkaj monatoj
+        <fnt>
+          <bib>TAA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kial la animon, kiel ion <tld/>itan kaj konfuzitan, ni devas sen&ccirc;ese analizi tra
+        longaj libroj
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        ili ne nur detran&ccirc;igis siajn orellobojn, sed krome klopodis per &ccirc;iaj neimageblaj
+        fia&jcirc;oj <tld/>i la naturan belecon de la korpo
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
       </ekz>
       <ekz>
         mi nenion misfaris, mi nenion <tld/>is, mi nenion malbonigis:
-        nur
-        okazis tio, ke mi malsukcesis
+        nur okazis tio, ke mi malsukcesis
         <fnt><bib>Lasu</bib>, <lok>Malkontentas la
         me&hcirc;anikisto</lok></fnt>;
       </ekz>
@@ -36,14 +66,14 @@
       <ekz>
         mi ne imagis tiuepoke, ke vi <tld/>os &ccirc;ion &ccirc;i per
         brandemo, ke vi <tld/>os vin mem, ke vi <tld/>os nian kunan
-        vivon,
-        manke de volo
+        vivon, manke de volo
         <fnt><bib>Lasu</bib>, <lok>Jen vi ree trinkas!</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="difekt.0i">difekti</ref>,
-      <ref cel="sabot.0i">saboti</ref>.
+      <ref cel="bon.mal0igi">malbonigi</ref>,
+      <ref cel="sabot.0i">saboti</ref>
     </refgrp>
   </snc>
   <trdgrp lng="be">
@@ -77,6 +107,10 @@
     <trd>elhib&aacute;z</trd>,
     <trd>elpusk&aacute;z</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4ED5;&#x640D;&#x3058;&#x308B;  [<ind>&#x3057;&#x305D;&#x3093;&#x3058;&#x308B;</ind>]</trd>,
+    <trd>&#x53F0;&#x306A;&#x3057;&#x306B;&#x3059;&#x308B;  [<ind>&#x3060;&#x3044;&#x306A;&#x3057;&#x306B;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>knoeien</trd>,
     <trd>verknoeien</trd>
@@ -96,53 +130,83 @@
     <trd>&c_i;&c_s;&c_p;&c_o;&c_r;&c_t;&c_i;&c_t;&c_mol;
 &c_d;&c_je;&c_l;&c_o;</trd>
   </trdgrp>
-  <trd lng="tp">pakala</trd>
+  <trd lng="tok">pakala</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &c_shch;&#x43E;-&#x43D;. &#x43D;&c_a;&c_s;&#x43F;&c_ib;&c_h;</trd>,
+    <trd>&#x43D;&c_je;&c_v;&#x43C;&c_ib;&#x43B;&#x43E;</trd>,
+    <trd>&#x43D;&c_je;&c_d;&c_b;&c_a;&#x43B;&#x43E;</trd>,
+    <trd>&c_a;&c_b;&c_i;&#x44F;&#x43A;</trd>,
+    <trd>&#x43A;&c_je;&#x43F;&c_s;&#x44C;&#x43A;&#x43E;</trd>,
+    <trd>&c_h;&c_a;&#x43B;&c_t;&c_u;&c_r;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="fusx.0o">
-  <kap><tld/>o</kap>
+<drv mrk="fusx.0e">
+  <kap>
+    <tld/>e
+  </kap>
   <snc>
     <dif>
-      Ago <tld/>i:
+      En <tld/>a maniero:
       <ekz>
-        ili timegis, <klr>[...]</klr> ke la tuta urbo parolos pri ilia
-        misfaro, pri tiu gravega <tld/>o
-        <fnt><bib>Lasu</bib>, <lok>Jen vi ree trinkas!</lok></fnt>.
+        la &scirc;nuro estis <klr>[&#x2026;]</klr> <tld/>e nodita
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XXVIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vizitanto <klr>[&#x2026;]</klr> konfuzi&gcirc;is kaj <tld/>e klarigis celon de sia vizito
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vanta tromemfido igas ilin agi <tld/>e
+        <fnt>
+          <bib>CKv</bib>
+          <lok>19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia koro kapriolis <tld/>e-mise, jen haltis, jen galopis
+        <fnt>
+          <bib>ChC</bib>
+          <lok>18</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="mis.0e">mise</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_a;</trd>,
-    <trd>&c_h;&c_ib;&c_b;&c_a;</trd>,
-    <trd>&c_p;&c_r;&c_o;&c_m;&c_a;&c_h;</trd>,
-    <trd>&c_p;&c_r;&c_a;&c_m;&c_a;&c_sh;&c_k;&c_a;</trd>
+    <trd>&c_a;&c_b;&c_y;-&c_ja;&c_k;</trd>,
+    <trd>&c_n;&c_ja;&c_d;&c_o;&c_b;&c_r;&c_a;&c_ja;&c_k;&c_a;&c_s;&c_n;&c_a;</trd>,
+    <trd>&c_n;&c_ja;&c_s;&c_l;&c_u;&c_sh;&c_n;&c_a;</trd>
   </trdgrp>
-  <trd lng="es">chapuza</trd>
-  <trdgrp lng="fr">
-    <trd>b&eacute;vue</trd>,
-    <trd>g&acirc;chis</trd>,
-    <trd>gaffe</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>hiba</trd>,
-    <trd>balfog&aacute;s</trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>stommiteit</trd>,
-    <trd>knoeiboel</trd>
-  </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_o;&c_sh;&c_i;&c_b;&c_k;&c_a;</trd>,
-    <trd>&c_p;&c_r;&c_o;&c_m;&c_a;&c_h;</trd>
-  </trdgrp>
-  <trd lng="tp">pakala</trd>
+  <trd lng="de">verkehrt</trd>
 </drv>
+
 
 <drv mrk="fusx.0a">
   <kap><tld/>a</kap>
   <snc>
     <dif>
-      Rilata al <tld/>o, <tld/>anta, <tld/>ata:
+      Rilata al <tld/>o; <tld/>anta; <tld/>ata:
+      <ekz>
+        tro malfrua kaj eble <tld/>a pretigo de la kampoj
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Alice</nom> iom ridetis kaj petis en <tld/>a rusa lingvo, ke &scirc;in oni direktu
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         ni sukcesis preska&ubreve; tute detrui la <tld/>an agadon de la
         idistoj en niaj laboristaj rondoj
@@ -173,6 +237,10 @@
     <trd>rossz</trd>,
     <trd>elpusk&aacute;zott</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4ED5;&#x640D;&#x3058;&#x306E;  [<ind>&#x3057;&#x305D;&#x3093;&#x3058;&#x306E;</ind>]</trd>,
+    <trd>&#x51FA;&#x6765;&#x640D;&#x306A;&#x3044;&#x306E;  [<ind>&#x3067;&#x304D;&#x305D;&#x3053;&#x306A;&#x3044;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">knoei-</trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_r;&c_a;&c_k;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
@@ -180,7 +248,79 @@
     <trd>&c_n;&c_je;&c_z;&c_a;&c_d;&c_a;&c_ch;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_u;&c_m;&c_je;&c_l;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_r;&#x43E;&c_b;&#x43B;&c_je;&#x43D;&c_i;&c_j; &#x43D;&c_a;&c_s;&#x43F;&c_ib;&c_h;</trd>,
+    <trd>&c_z;&c_r;&#x43E;&c_b;&#x43B;&c_je;&#x43D;&c_i;&c_j;
+    &#x43D;&c_je;&c_d;&c_b;&c_a;&#x43B;&#x43E;/&#x43D;&c_je;&c_v;&#x43C;&c_ib;&#x43B;&#x43E;/&c_a;&c_b;&c_i;&#x44F;&#x43A;/&#x43A;&c_je;&#x43F;&c_s;&#x44C;&#x43A;&#x43E;</trd>,
+    <trd>&#x43F;&c_a;&c_r;&c_t;&c_a;&c_c;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_ib;&#x43F;&c_s;&#x43E;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_h;&c_a;&#x43B;&c_t;&c_u;&c_r;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
+
+
+<drv mrk="fusx.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago <tld/>i a&ubreve; ties rezulto:
+      <ekz>
+        mi provis fari ordon en mia kapo, kaj mi sentas, ke tia <tld/>o ne estas
+        tolerinda
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o estas <tld/>o
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiel li povos eviti superfluajn malkorekta&jcirc;ojn, mal&gcirc;entila&jcirc;ojn a&ubreve; e&ccirc; <tld/>on de
+        la tuta parolado
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili timegis, <klr>[...]</klr> ke la tuta urbo parolos pri ilia
+        misfaro, pri tiu gravega <tld/>o
+        <fnt><bib>Lasu</bib>, <lok>Jen vi ree trinkas!</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_h;&c_ib;&c_b;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_m;&c_a;&c_h;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_a;&c_sh;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Pfusch</trd>,
+    <trd>Murks</trd>
+  </trdgrp><trd lng="es">chapuza</trd>
+  <trdgrp lng="fr">
+    <trd>b&eacute;vue</trd>,
+    <trd>g&acirc;chis</trd>,
+    <trd>gaffe</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hiba</trd>,
+    <trd>balfog&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>stommiteit</trd>,
+    <trd>knoeiboel</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_sh;&c_i;&c_b;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_m;&c_a;&c_h;</trd>
+  </trdgrp>
+  <trd lng="tok">pakala</trd>
+</drv>
+
 
 <drv mrk="fusx.0ajxo">
   <kap><tld/>a&jcirc;o</kap>
@@ -188,7 +328,31 @@
     <dif>
       <tld lit="F"/>ita tasko, objekto:
       <ekz>
-        tia libro estas nur <tld/>a&jcirc;o.
+        per tia <tld/>a&jcirc;o devas esti anstata&ubreve;itaj la malnovaj respektindaj versoj en mia
+        libro
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Abocolibro</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        la <tld/>a&jcirc;o venas &gcirc;uste de tio, ke ne la israela sekretservo organizis la agadon
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ver&scirc;ajne kunkulpas en lia <tld/>a&jcirc;o
+        <fnt>
+          <bib>ChC</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kvankam estis iuj <tld/>a&jcirc;oj a&ubreve; <tld/>a&jcirc;etoj <klr>[&#x2026;]</klr> la kongreso al mi
+        ege pla&ccirc;is
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -211,11 +375,21 @@
     <trd>kont&aacute;r</trd>,
     <trd>pancser</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4ED5;&#x640D;&#x3058;  [<ind>&#x3057;&#x305D;&#x3093;&#x3058;</ind>]</trd>,
+    <trd>&#x51FA;&#x6765;&#x640D;&#x306A;&#x3044;  [<ind>&#x3067;&#x304D;&#x305D;&#x3053;&#x306A;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">geknoei</trd>
   <trdgrp lng="ru">
     <trd>&c_h;&c_a;&c_l;&c_t;&c_u;&c_r;&c_n;&c_a;&c_ja;
 &c_r;&c_a;&c_b;&c_o;&c_t;&c_a;</trd>,
     <trd>&c_b;&c_r;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_d;&c_b;&c_a;&#x43B;&#x43E;/&#x43D;&c_je;&c_v;&#x43C;&c_ib;&#x43B;&#x43E; &c_z;&c_r;&#x43E;&c_b;&#x43B;&c_je;&#x43D;&c_a;
+    &c_r;&c_ib;&c_ch;</trd>,
+    <trd>&c_b;&c_r;&c_a;&#x43A;</trd>,
+    <trd>&c_h;&c_a;&#x43B;&c_t;&c_u;&c_r;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -224,6 +398,20 @@
   <snc>
     <dif>
       Homo, kiu kutime <tld/>as:
+      <ekz>
+        mi estus ja mizera <tld/>isto, se mi ne povus e&ccirc; tion atingi
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ia <tld/>isto volis krei homojn kaj faris iajn plej malbonajn pupojn,&mdash;tiel
+        abomeninde ili imitadis la homojn
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         &scirc;i devas vivi kun akceptinda viro, sa&gcirc;a, bonkora, juna,
         unuvorte, kun viro kiel mi, ne kun <tld/>ulo kiel Jozefo
@@ -243,10 +431,19 @@
     <trd>bousilleur</trd>,
     <trd>g&acirc;cheur</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3078;&#x307E;&#x3070;&#x304B;&#x308A;&#x3059;&#x308B;&#x4EBA;  [<ind>&#x3078;&#x307E;&#x3070;&#x304B;&#x308A;&#x3059;&#x308B;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x4ED5;&#x4E8B;&#x306E;&#x4E0B;&#x624B;&#x306A;&#x8077;&#x4EBA;  [<ind>&#x3057;&#x3054;&#x3068;&#x306E;&#x3078;&#x305F;&#x306A;&#x3057;&#x3087;&#x304F;&#x306B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">knoeier</trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_r;&c_a;&c_k;&c_o;&c_d;&c_je;&c_l;</trd>,
     <trd>&c_h;&c_a;&c_l;&c_t;&c_u;&c_r;&c_shch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_a;&c_r;&c_t;&c_a;&c_ch;</trd>,
+    <trd>&c_h;&c_a;&#x43B;&c_t;&c_u;&c_r;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&c_b;&c_r;&c_a;&#x43A;&#x43E;&c_r;&#x43E;&c_b;</trd>
   </trdgrp>
 </drv>
 <rim>
@@ -265,7 +462,6 @@
   Vidu
   <refgrp tip="vid">
     <ref cel="kuir.fusx0isto"><tld/>kuiristo</ref>,
-    <ref cel="palp.fusx0i"><tld/>palpi</ref>,
     <ref cel="uz.fusx0i"><tld/>uzi</ref>.
   </refgrp>
 </rim>
@@ -277,6 +473,21 @@
 </art>
 <!--
 $Log$
+versio 1.24 2022/12/26 08:33:10
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2022/03/11 21:26:16
+Wolfram Diestel: +~e
+
+versio 1.20 2022/01/27 20:27:50
+Wolfram Diestel: +ekz-oj, trd de
+
+versio 1.19 2020/11/27 10:10:32
+Damien Brucker: -ref neekzistanta en rim
+
 Revision 1.17  2012/10/23 00:11:16  revo
 Neil Roberts: aldonu la etikedon <var>
 
@@ -284,17 +495,5 @@ Revision 1.16  2011/04/15 22:10:27  revo
 Nicolas Bros: +trd en
 
 Revision 1.15  2007/06/22 17:24:41  revo
-Tulio Flores: +tr pt
-
-Revision 1.14  2007/01/07 17:31:26  revo
-Russ Williams: +trd tp
-
-Revision 1.13  2004/11/12 17:31:51  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.12  2003/10/21 16:30:50  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2003/09/19 16:30:47  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tragik.xml,v 1.24 2023/09/04 19:01:53 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>tragik</rad>/a
@@ -11,34 +10,41 @@
   <kap><tld/>a</kap>
   <snc>
     <dif>
-      <ref tip="dif" cel="traged.0a.FIG">Tragedia<sncref ref="traged.0a.FIG"/></ref>:
+      <refgrp tip="dif">
+        <ref cel="aflikt.0i">Aflikta</ref>,
+        <ref cel="dolor.0a">dolora</ref>,
+        <ref cel="gxoj.mal0a">mal&gcirc;ojega</ref>,
+      </refgrp>
+      precipe tia, kiu rilatas al morto a&ubreve; sufero:
       <ekz>
-        la satiro ne estas, tamen, ridinda, &gcirc;i estas e&ccirc; timiga kaj <tld/>a, kaj la &ccirc;efa arta rimedo en la priskriboj estas gala sarkasmo
+        la satiro ne estas, tamen, ridinda, &gcirc;i estas e&ccirc; timiga kaj <tld/>a, kaj la &ccirc;efa arta rimedo
+        en la priskriboj estas gala sarkasmo
         <fnt>
+       <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2000/006895.php">En spegulo de l' sarkasmo</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006895.html">En spegulo de l' sarkasmo</url></vrk>
+          <lok>2000/07, p. 18</lok>
         </fnt>;
-      </ekz>
-      <ekz>
-        Argentino, nacio naskita post la fino de la plej kruela kaj
-        <tld/>a
+      </ekz><ekz>
+        Argentino, nacio naskita post la fino de la plej kruela kaj <tld/>a
         ekspluatado kaj konkero de Ameriko, fare de e&ubreve;ropanoj<fnt><aut>Ro
         Sartor</aut>: <vrk>Ploru pri Argentino!</vrk>,
         <bib>Monato</bib><lok>jaro 2002a, numero 2a, p. 8a</lok></fnt>.
-      </ekz>
-      <ekz>
-        maljuna viro ne restis &ccirc;e la aliaj <klr>[&#8230;]</klr>, kelkajn tagojn poste 
+      </ekz><ekz>
+        maljuna viro ne restis &ccirc;e la aliaj <klr>[&#x2026;]</klr>, kelkajn tagojn poste
         oni trovis lian kadavron forman&gcirc;ita, la <tld/>a ironio estas ke li estis fervora
         naturprotektanto kiu multe la&ubreve;dis la savadon de la Komodo-varanoj
         <fnt>
+          <aut>Wim de Smet</aut>
+          <vrk><url ref="&Monato;/2000/006900.php">La &leftquot;drakoj&#x201D; de Komodo:
+          Gigantaj bestoj sur izola insulo</url></vrk>
           <bib>Monato</bib>
-          <aut>Izabel C. O. Santiago</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006900.html">Fa&ubreve;no: La &leftquot;drakoj&rightquot; de Komodo: Gigantaj bestoj sur izola insulo</url></vrk>
+          <lok>2000/06, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="super" cel="felicx.mal0a">malfeli&ccirc;a</ref>
+    <ref tip="sin" cel="traged.0a.FIG">Tragedia<sncref/></ref>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -60,14 +66,71 @@
     <trd>tragique<klr> (fig.)</klr></trd>
   </trdgrp>
   <trd lng="hu">tragikus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x60B2;&#x60E8;&#x306A;  [<ind>&#x3072;&#x3055;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x60B2;&#x5287;&#x7684;&#x306A;  [<ind>&#x3072;&#x3052;&#x304D;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tragisch</trd>
   <trd lng="pt">tr&aacute;gico</trd>
-  <trd lng="ru">&c_t;&c_r;&c_a;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_a;&c_g;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
   <trd lng="sk">tragick&yacute;</trd>
+  <trd lng="uk">&c_t;&c_r;&c_a;&c_g;&c_ib;&c_ch;&c_n;&c_i;&c_j;</trd>
 </drv>
-</art>
+
+<drv mrk="tragik.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      <tld lit="T"/>a, malfeli&ccirc;a situacio a&ubreve; okaza&jcirc;o:
+      <ekz>
+        <tld lit="T"/>on de la persona morto pliigas la sen&scirc;an&gcirc;eco de la tera vivo
+        <fnt><aut>Ludmila Novikova</aut>: <vrk>&Ccirc;ielido kun cigna animo</vrk>.
+          <bib>LOdE</bib>, <lok>&#x2116;276 (2017:10).</lok></fnt>;
+      </ekz><ekz>
+        iom sombra Schwartz, kiu vere komprenas la <tld/>on de homaj vivoj
+        <fnt>
+          <aut>Marjorie Boulton</aut>:
+          <vrk>Ne nur leteroj de plumamikoj</vrk>. <lok>1984</lok>
+        </fnt>;
+      </ekz><ekz>
+        Sed la <tld/>o estis, ke <nom>Mallarm&eacute;</nom> tute ne pensis filozofie,
+        t.e. per sia intelekto
+        <fnt><aut>G. Waringhien</aut>: <vrk>Stefano MALLARM&Eacute; (II)</vrk>
+          <lok>La nica literatura revuo, 1/4, p.&nbsp;151.</lok></fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_r;&c_a;&c_g;&c_ib;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_g;&c_je;&c_d;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_a;&c_g;&c_i;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_g;&c_je;&c_d;&c_i;&c_ja;<klr> (fig.)</klr></trd>
+  </trdgrp>
+</drv>
+
+      </art>
 <!--
 $Log$
+versio 1.23 2023/08/21 15:27:05
+Dmitri Gabinski: + trd be
+
+versio 1.22 2023/06/20 12:48:45
+Sergio Pokrovskij: +~o
+
+versio 1.21 2023/04/26 06:32:02
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.20 2023/04/13 15:27:14
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.19 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.16  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -75,17 +138,5 @@ Revision 1.15  2015/06/29 16:40:20  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.14  2012/08/14 12:10:35  revo
-Marc Rausell: + trd ca
-
-Revision 1.13  2009/08/08 16:33:31  revo
-Russ Williams: +trd en
-
-Revision 1.12  2006/02/16 17:32:59  revo
-Tulio Flores: +trd pt
-
-Revision 1.11  2004/12/10 17:31:11  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10  2004/10/17 16:32:32  revo
 -->
 </vortaro>

@@ -1,43 +1,138 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: acxet.xml,v 1.52 2010/04/26 16:30:20 revo Exp $">
+<art mrk="$Id: acxet.xml,v 1.147 2023/09/05 06:30:58 revo Exp $">
 <kap>
   <ofc>*</ofc><rad>a&ccirc;et</rad>/i
 </kap>
 
 <drv mrk="acxet.0i">
-  <kap><ofc>*</ofc><tld/>i <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-27">a&ccirc;et'</url></lok></fnt></kap>
+  <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="acxet.0i.EKON">
     <dif>
-      Akiri per mono:
+      <ref tip="super" cel="akir.0i">Akiri</ref> per mono:
       <ekz>
-        <tld/>i firme, kontante a&ubreve; kredite;
+        mi <tld/>is dekon da ovoj
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 32</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i ion de, el iu<fnt>Z</fnt>;
+        se vi <tld/>os el la manoj de via proksimulo, unu ne malprofitigu la alian
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 25:14</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        de<tld/>i ion de iu;
+        li malkare <tld/>is la &ccirc;evalon
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        estis la glora epoko de financistoj kiuj <tld/>is, 
+        <tld/>i malmultekoste
+        <fnt>
+          <bib>ChV</bib>
+          <lok>19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li a&ccirc;etis por la du knabinoj belajn vestojn, perlojn kaj multekostajn &scirc;tonojn
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Cindrulino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi venas al vi kun peto, ke vi volu <tld/>i de mi mian tempon kaj la laboron de
+        miaj manoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi volas <tld/>i senmortecon per bruligmortigoj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        per la fruktoj de l&#8217; farita krimo &#11005; <tld lit="A"/>i la favoron de la le&gcirc;o
+        <fnt>
+          <bib>Hamlet</bib>
+          <lok>Hamleto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la bankiero <tld/>is <klr>[&#8230;]</klr> kampodomon &ccirc;irka&ubreve;itan de granda &gcirc;ardeno
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi &gcirc;in <tld/>os por la prezo, kiun vi petos
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Ove Ramel</nom> <klr>[&#8230;]</klr> <tld/>is per a&ubreve;kcio la kastelon kaj la tutan meblaron
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis la glora epoko de financistoj kiuj <tld/>is,
 	<ref tip="ant" cel="vend.0i">vendi</ref>s kaj
         dispecigis kompaniojn
         <fnt>
-        <aut>R. Rotsaert</aut>,
-        <vrk>Piramidaj investoj...</vrk>,
-        <bib>Monato</bib>,
-        <lok>jaro 1997a, numero 7a, p. 24a</lok>
+          <aut>R. Rotsaert</aut>,
+          <vrk>Piramidaj investoj...</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 1997a, numero 7a, p. 24a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mar&ccirc;andado <tld/>i ne devigas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mankis al Petro klopodoj, li <tld/>is al si domon
+        <fnt>
+          <bib>PrV</bib>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="super" cel="komerc.0i">komerci</ref>
+    <refgrp tip="vid">
+      <ref cel="gajn.0i.EKON">gajni<sncref/></ref>,
+      <ref cel="lu.0i">lui</ref>,
+      <ref cel="pag.0i.EKON">pagi<sncref/></ref>,
+      <ref cel="labor.per0i">perlabori</ref>,
+      <ref cel="prunt.0i">prunti</ref>
+    </refgrp>
     <trd lng="th">&#3595;&#3639;&#3657;&#3629;</trd>
   </snc>
+  <trd lng="af">koop</trd>
+  <trd lng="am">&#4845;&#4877;&#4825;</trd>
+  <trd lng="ar">&a_sh;&a_r;&a_A;&a_hamza;</trd>
+  <trd lng="az">almaq</trd>
+  <trd lng="bn">&#2453;&#2495;&#2472;&#2468;&#2503;</trd>
+  <trd lng="bo">&t_nya;&t_naro; &t_nya;&t_naro; &t_nya;&t_naro;&t_sa;
+  &t_nya;&t_naro;&t_sa;&t_tsheg;</trd>
+  <trd lng="bs">kupiti</trd>
+  <trd lng="co">accattari</trd>
+  <trd lng="cy">prynu</trd>
   <trdgrp lng="en">
     <trd>buy</trd>,
     <trd>purchase<klr tip="ind"> (verb)</klr></trd>
@@ -53,6 +148,8 @@
   <trd lng="da">k&oslash;be</trd>
   <trd lng="de">kaufen</trd>
   <trd lng="es">comprar</trd>
+  <trd lng="et">osta</trd>
+  <trd lng="eu">erosi</trd>
   <trd lng="fa">&a_kh;&a_r;&f_y;&a_d;&a_n;</trd>
   <trdgrp lng="fr">
     <trd>acheter</trd>,
@@ -60,6 +157,14 @@
     <trd>s'<ind>offrir</ind></trd>,
     <trd>se <ind>payer</ind><klr tip="ind"> (s'offrir)</klr></trd>
   </trdgrp>
+  <trd lng="fy">keapje</trd>
+  <trd lng="ga">cheannach</trd>
+  <trd lng="gd">cheannach</trd>
+  <trd lng="gl">mercar</trd>
+  <trd lng="gu">&#2710;&#2736;&#2752;&#2726;&#2752;</trd>
+  <trd lng="hi">&#2326;&#2352;&#2368;&#2342;</trd>
+  <trd lng="hmn">yuav</trd>
+  <trd lng="ht">achte</trd>
   <trdgrp lng="hu">
     <trd>vesz<klr tip="ind"> (v&aacute;s&aacute;rol)</klr></trd>,
     <trd>v&aacute;s&aacute;rol</trd>
@@ -67,32 +172,84 @@
   <trd lng="he">&lamed;&qof;&nun;&vav;&tav; \<ind>&qof;&nun;&he;</ind>\
   </trd>
   <trd lng="hr">kupiti</trd>
+  <trd lng="hy">&#1379;&#1398;&#1381;&#1388;</trd>
+  <trd lng="ig">&#7883;z&#7909;ta</trd>
+  <trd lng="is">kaupa</trd>
   <trdgrp lng="ja">
     <trd>&#36023;&#12358; [<ind>&#12363;&#12358;</ind>]</trd>,
     <trd>&#36092;&#20837;&#12377;&#12427; [<ind>&#12371;&#12358;&#12395;&#12421;&#12358;&#12377;&#12427;</ind>]</trd>
   </trdgrp>
+  <trd lng="jv">tuku</trd>
+  <trd lng="ka">&#4327;&#4312;&#4307;&#4309;&#4304;</trd>
+  <trd lng="kk">&c_s;&c_a;&c_t;&c_y;&c_p; &c_a;&c_l;&c_u;</trd>
+  <trd lng="km">&#6033;&#6071;&#6025;</trd>
+  <trd lng="kn">&#3222;&#3248;&#3264;&#3238;&#3263;</trd>
+  <trd lng="ko">&#49324;&#44592;</trd>
+  <trd lng="ku">kirr&icirc;n</trd>
+  <trd lng="ky">&c_s;&c_a;&c_t;&c_y;&c_p; &c_a;&c_l;&c_u;&c_u;</trd>
+  <trd lng="lat">emptum</trd>
+  <trd lng="lo">&#3722;&#3767;&#3785;</trd>
+  <trd lng="lt">pirkti</trd>
+  <trd lng="lv">nopirkt</trd>
+  <trd lng="mg">mividy</trd>
+  <trd lng="mi">hoko</trd>
+  <trd lng="mk">&c_k;&c_u;&c_p;&c_u;&c_v;&c_a;&#1114;&c_je;</trd>
+  <trd lng="ml">&#3381;&#3390;&#3353;&#3405;&#3353;&#3393;&#3349;</trd>
+  <trd lng="mn">&c_h;&c_u;&c_d;&c_a;&c_l;&c_d;&c_a;&c_n; &c_a;&c_v;&c_a;&c_h;</trd>
+  <trd lng="mr">&#2326;&#2352;&#2375;&#2342;&#2368;</trd>
+  <trd lng="ms">membeli</trd>
+  <trd lng="mt">jixtru</trd>
+  <trd lng="my">&#4121;&#4125;&#4122;&#4154;</trd>
+  <trd lng="ne">&#2325;&#2367;&#2344;&#2381;&#2344;</trd>
   <trdgrp lng="nl">
     <trd>kopen</trd>,
     <trd>aanschaffen</trd>
   </trdgrp>
+  <trd lng="ny">kugula</trd>
+  <trd lng="pa">&#2582;&#2608;&#2624;&#2598;&#2595;</trd>
   <trdgrp lng="pl">
     <trd>kupowa&cacute;</trd>,
     <trd>zakupywa&cacute;</trd>,
     <trd>nabywa&cacute;</trd>
   </trdgrp>
+  <trd lng="ps">&f_p;&#1744;&a_r;&a_y;</trd>
   <trd lng="pt">comprar</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_k;&c_u;&c_p;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_k;&c_u;&c_p;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="rw">buy buy</trd>
+  <trd lng="sd">&a_kh;&a_r;&a_y;&a_d;</trd>
+  <trd lng="si">&#3512;&#3538;&#3517;&#3503;&#3539;</trd>
   <trd lng="sk">k&uacute;pi&tcaron;</trd>
+  <trd lng="sl">nakup</trd>
+  <trd lng="sm">fa&#699;atau mai</trd>
+  <trd lng="sn">tenga</trd>
+  <trd lng="so">iibsadaan</trd>
+  <trd lng="sq">blej</trd>
+  <trd lng="st">reka</trd>
+  <trd lng="su">meuli</trd>
   <trd lng="sv">k&ouml;pa</trd>
   <trdgrp lng="it">
     <trd>acquistare</trd>,
     <trd>comprare</trd>
   </trdgrp>
+  <trd lng="sw">kununua</trd>
+  <trd lng="ta">&#2997;&#3006;&#2969;&#3021;&#2965;</trd>
+  <trd lng="te">&#3093;&#3146;&#3112;&#3137;&#3095;&#3147;&#3122;&#3137;</trd>
+  <trd lng="tg">&c_h;&c_a;&c_r;&c_i;&c_d;&c_a;&c_n;</trd>
+  <trd lng="tl">bumili</trd>
+  <trd lng="tt">&c_s;&c_a;&c_t;&c_y;&c_p; &c_a;&c_l;</trd>
+  <trd lng="uk">&c_k;&c_u;&c_p;&c_i;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_kh;&a_r;&f_y;&a_d;&a_n;&#1746; &f_k;&#1746;</trd>
+  <trd lng="uz">sotib</trd>
+  <trd lng="vi">mua</trd>
   <trd lng="vo">lem&ouml;n</trd>
   <trd lng="tr">sat&inodot;n almak</trd>
+  <trd lng="xh">kuthenga</trd>
+  <trd lng="yi">&qof;&vav;&yod;&pe;&fnun;</trd>
+  <trd lng="yo">ra</trd>
+  <trd lng="zu">thenga</trd>
 </drv>
 
 <drv mrk="acxet.0o">
@@ -101,18 +258,53 @@
     <dif>
       Ago <tld/>i, rezulto de la ago:
       <ekz>
-           Vendo de Alasko estis procezo de <tld/>o de Alasko fare de 
-           Usono de la Rusia Imperio en la jaro 1867.
-           <fnt><vrk><url ref="http://eo.wikipedia.org/wiki/Vendo_de_Alasko">
-              Pri la vendo de Alasko </url></vrk>,</fnt>;</ekz>
+        mi prenis la dokumenton de <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Jeremia 32:11</lok>
+        </fnt>;
+      </ekz>
       <ekz>
-           Tiele diras la Eternulo Cebaot, Dio de Izrael: Prenu 
-           &ccirc;i tiujn dokumentojn, &ccirc;i tiun dokumenton de
-           <tld/>o, 
-           la sigelitan, kaj &ccirc;i tiun nefermitan, kaj metu ilin en 
-           argilan vazon, por ke ili konservi&gcirc;u dum longa tempo. 
-           <fnt><bib>MT</bib><lok>&Jer; 32:14</lok></fnt>.</ekz>
-           
+        ni devis prokrasti la <tld/>on, la translo&gcirc;i&gcirc;o kostis <klr>[tro]</klr> multe
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de akcioj
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de a&ubreve;tomobilo
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni pagos al vi hodia&ubreve; la sumon de &#163;20&#8239;000 por la <tld/>o de la tuta entrepreno
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la knabinoj <klr>[&#8230;]</klr> faris la <tld/>ojn en la urbo
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ne&gcirc;ulino kaj Rozulino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Vendo de Alasko estis procezo de <tld/>o de Alasko fare de
+        Usono de la Rusia Imperio en la jaro 1867
+        <fnt><vrk><url ref="&Viki;/Vendo_de_Alasko">
+          Pri la vendo de Alasko </url></vrk></fnt>;
+      </ekz>
     </dif>
     <trd lng="th">&#3585;&#3634;&#3619;&#3595;&#3639;&#3657;&#3629;</trd>
  </snc>
@@ -125,13 +317,15 @@
    <trd>transacci&oacute;</trd>,
    <trd>comer&ccedil;</trd>
  </trdgrp>
+ <trd lng="de">Kauf</trd>
  <trd lng="en">purchase<klr tip="ind"> (the act)</klr></trd>
  <trdgrp lng="fa">
    <trd>&a_kh;&a_r;&f_y;&a_d;</trd>,
    <trd>&a_A;&a_b;&a_t;&f_y;&a_A;&a_ayn;</trd>
  </trdgrp>
  <trd lng="fr">achat</trd>
- <trd lng="ja"><klr>(&#20491;&#21029;&#12398;)</klr>&#36092;&#20837; [<ind>&#12371;&#12358;&#12395;&#12421;&#12358;</ind>]</trd>
+ <trd lng="he">&resh;&kaf;&yod;&shin;&he;</trd>
+  <trd lng="ja"><klr>(&#20491;&#21029;&#12398;)</klr>&#36092;&#20837; [<ind>&#12371;&#12358;&#12395;&#12421;&#12358;</ind>]</trd>
  <trdgrp lng="nl">
    <trd>aankoop<klr tip="ind"> (handeling)</klr></trd>,
    <trd>aanschaf<klr tip="ind"> (handeling)</klr></trd>,
@@ -145,13 +339,29 @@
     <dif>
       Tio, kion oni ekhavas kontra&ubreve; mono:
       <ekz>
+        &scirc;i devis fari en la firmo <nom>Louvre</nom> kelkajn <tld/>a&jcirc;ojn
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sendu tiujn <tld/>a&jcirc;ojn hejmen, &scirc;i diris al la kasisto
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Deksepa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         la du oraj moneroj kuni&gcirc;is kun la aliaj en la sakon en
-        kiun li 
-        enmetis siajn <tld/>a&jcirc;ojn
-        <fnt><aut>H. Vallienne</aut>, <vrk>Kastelo de Prelongo</vrk>, 
+        kiun li enmetis siajn <tld/>a&jcirc;ojn
+        <fnt><aut>H. Vallienne</aut>, <vrk>Kastelo de Prelongo</vrk>,
         <lok>1907</lok></fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="var.0o">varo</ref>
+    </refgrp>
     <trd lng="th">&#3586;&#3629;&#3591;&#3595;&#3639;&#3657;&#3629;&#3586;&#3629;&#3591;&#3586;&#3634;&#3618;</trd>
   </snc>
   <trdgrp lng="be">
@@ -161,6 +371,10 @@
   <trdgrp lng="ca">
     <trd>compra</trd>,
     <trd>adquisici&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Einkauf</trd>,
+    <trd>Besorgung</trd>
   </trdgrp>
   <trd lng="en">purchase<klr tip="ind"> (thing that has been
   bought)</klr></trd>
@@ -177,13 +391,41 @@
    <trd>aankoop<klr tip="ind"> (gekocht waar)</klr></trd>,
    <trd>aanschaf<klr tip="ind"> (gekocht waar)</klr></trd>
  </trdgrp>
+  <trd lng="uk">&c_p;&c_o;&c_k;&c_u;&c_p;&c_k;&c_a; (&c_k;&c_u;&c_p;&c_l;&c_je;&c_n;&c_je;)</trd>
 </drv>
 
 <drv mrk="acxet.0anto">
   <kap><tld/>anto</kap>
   <snc mrk="acxet.0anto.EKON">
     <dif>
-      Akiranto de vendata komerca&jcirc;o a&ubreve; servo.
+      Akiranto de vendata komerca&jcirc;o a&ubreve; servo:
+      <ekz>
+        Jesuo eniris en la templon de Dio, kaj elpelis &ccirc;iujn vendantojn kaj <tld/>antojn
+        en la templo, kaj renversis la tablojn de la mon&scirc;an&gcirc;istoj
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 21:12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        junaj, bonmanieraj, belfiguraj komizoj faras bonan efekton, altiras al la
+        magazeno la <tld/>antojn, a&ubreve; pli &gcirc;uste la <tld/>antinojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ju pli da <tld/>antoj, des pli alta la prezo
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se vendisto ne mensogas, li <tld/>anton ne allogas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         kvankam loknomo povas sugesti al <tld/>antoj kvaliton, &gcirc;i
         tute malsamas al marko, protektata de la &scirc;tato
@@ -239,6 +481,7 @@
     <trd lng="th">&#3612;&#3641;&#3657;&#3595;&#3639;&#3657;&#3629;</trd>
     <trd lng="tr">al&inodot;c&inodot;</trd>
   </snc>
+  <trd lng="uk">&c_p;&c_o;&c_k;&c_u;&c_p;&c_je;&c_c;&c_mol;</trd>
 </drv>
 
 <drv mrk="acxet.0ebla">
@@ -247,7 +490,26 @@
     <dif>
       Povanta esti <tld/>ata:
       <ekz>
-        <tld/>ebla domo, ju&gcirc;isto;
+        tabakujoj, cigaringoj, tabako, cigaroj kaj cetere estis <tld/>eblaj
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi estas la fripono, kiu faras el la justeco <tld/>eblan publikulinon
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        konscienco vendebla, sekve <tld/>ebla kaj tiu <tld/>o dependus nur de la prezo
+        konsentita
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>;
       </ekz>
       <ekz>
         vergon oni ne bezonas, sed nur hokon, fi&scirc;&scirc;nuron kaj
@@ -258,6 +520,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_u; <ind>&c_p;&c_r;&c_o;&c_d;&c_a;&c_zh;&c_u;</ind></trd>,
+    <trd>&c_ja;&c_k;&c_o;&c_g;&c_a; &c_m;&c_o;&c_zh;&c_n;&c_a; <ind>&c_k;&c_u;&c_p;&c_ib;&c_c;&c_mol;</ind></trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_a;&c_zh;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="br">e <ind>gwerzh</ind></trd>
   <trdgrp lng="ca">
     <trd>comprable</trd>,
@@ -282,6 +549,7 @@
   <trd lng="hu">elad&oacute;</trd>
   <trd lng="it">acquistabile</trd>
   <trd lng="hr">kupljiv</trd>
+  <trd lng="ja">&#22770;&#12426;&#29289;&#12398;  [<ind>&#12358;&#12426;&#12418;&#12398;&#12398;</ind>]</trd>
   <trd lng="nl">te <ind>koop</ind></trd>
   <trdgrp lng="pl">
     <trd>do kupienia</trd>,
@@ -301,6 +569,7 @@
   <trd lng="sv">till <ind>salu</ind></trd>
   <trd lng="th">&#3595;&#3639;&#3657;&#3629;&#3652;&#3604;&#3657;</trd>
   <trd lng="tr">sat&inodot;l&inodot;k</trd>
+  <trd lng="uk">&c_n;&c_a;&c_ja;&c_v;&c_n;&c_i;&c_j; &c_u; &c_p;&c_r;&c_o;&c_d;&c_a;&c_zh;&c_u;</trd>
 </drv>
 
 <drv mrk="acxet.0isto">
@@ -310,13 +579,42 @@
     <dif>
       Oficisto, kiu negocas kaj akiradas krudajn materialojn,
       ilojn a&ubreve; aliajn necesa&jcirc;ojn por sia
-      kompanio.
+      kompanio:
+      <ekz>
+        tiu &ccirc;i sinjoro eble estis siatempe granda <tld/>isto de bienoj, kun &ccirc;iaj
+        hipotekoj, depagoj, a&ccirc;etaj dokumentoj kaj ju&gcirc;aj posedigoj
+        <fnt>
+          <bib>Hamlet</bib>
+          <lok>Hamleto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis <tld/>isto por antikva&jcirc;aj magazenoj
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Tien kaj reen</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        firm-<tld/>istoj &gcirc;entile klarigas al ni, ke pro malbona negoco ili ne plu povas
+        <tld/>i
+        <fnt>
+          <bib>KrM</bib>
+          <lok>12. Inter Lupoj Kriu Lupe!</lok>
+        </fnt>.
+      </ekz>
     </dif>
-    
+    <refgrp tip="vid">
+      <ref cel="makler.0isto">makleristo</ref>
+    </refgrp>
   </snc>
+  <trd lng="be">&c_z;&c_a;&c_k;&c_u;&c_p;&c_n;&c_ib;&c_k;</trd>
   <trd lng="br">prenour<klr tip="ind"> (a vicher)</klr></trd>
   <trd lng="ca">agent de compres</trd>
-  <trd lng="de">gewerblicher <ind>Aufk&auml;ufer</ind></trd>
+  <trdgrp lng="de">
+    <trd>gewerblicher <ind>Aufk&auml;ufer</ind></trd>,
+    <trd>Eink&auml;ufer</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>buyer</trd>,
     <trd>purchasing agent</trd>
@@ -329,7 +627,13 @@
   <trdgrp lng="fr">
     <trd>acheteur<klr tip="ind"> (professionnel)</klr></trd>
   </trdgrp>
+  <trd lng="he">&qof;&vav;&#1465;&nun;&#1462;&he;</trd>
   <trd lng="hu">beszerz&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#12496;&#12452;&#12516;&#12540;</trd>,
+    <trd>&#36023;&#12356;&#20184;&#12369;&#20154;  [<ind>&#12363;&#12356;&#12388;&#12369;&#20154;</ind>]</trd>,
+    <trd>&#20181;&#20837;&#12428;&#20418;  [<ind>&#12375;&#12356;&#12428;&#12363;&#12363;&#12426;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">aankoper<klr tip="ind"> (beroeps-)</klr></trd>
   <trdgrp lng="pl">
     <trd>kupiec</trd>,
@@ -349,7 +653,45 @@
     <dif>
       Pagi por liberigi iun el kaptiteco fizika a&ubreve; morala:
       <ekz>
+        iu el liaj fratoj el<tld/>u lin
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 25:48</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        el<tld/>i el sklaveco
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se iu volos el<tld/>i ion el sia dekona&jcirc;o, li aldonu al la valoro kvinonon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 27:31</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi volas min el<tld/>i el mia servado, mi estas sufi&ccirc;e ri&ccirc;a por tio
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>La ombro</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        el<tld/>i sian liberon
+        <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2000/007175.php">Muroj dumiljaraj solidas</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 5</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
         &ccirc;e la Romanoj, la sklavoj povis <ind>sin el<tld/>i</ind>;
+        <klr>(vd <ref cel="emanci.0i">emancipi</ref>)</klr>
         <trd lng="ca">comprar sa llibertat</trd>
         <trdgrp lng="fr">
           <trd>se <ind>racheter</ind></trd>,
@@ -359,7 +701,14 @@
       </ekz>
       <ekz>
         la&ubreve; kristana kredo, Jesuo el<tld/>is la homojn
-        per sia morto.
+        per sia morto;
+      </ekz>
+      <ekz>
+        Kristo el<tld/>is nin el la malbeno de la le&gcirc;o, fari&gcirc;inte malbeno pro ni
+        <fnt>
+          <bib>NT</bib>
+          <lok>Galatoj 3:13</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -369,7 +718,11 @@
     <trd>rescatar</trd>,
     <trd>redimir</trd>
   </trdgrp>
-  <trd lng="de">freikaufen</trd>
+  <trdgrp lng="de">
+    <trd>freikaufen</trd>,
+    <trd>ausl&ouml;sen <klr>(freikaufen)</klr></trd>,
+    <trd>loskaufen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>pay ransom</trd>,
     <trd>bail somebody out</trd>
@@ -395,6 +748,10 @@
   </trdgrp>
   <trd lng="it">liberare, affrancare</trd>
   <trd lng="hr">otkupiti</trd>
+  <trdgrp lng="ja">
+    <trd>&#36523;&#35531;&#12369;&#12377;&#12427;  [<ind>&#12415;&#12358;&#12369;&#12377;&#12427;</ind>]</trd>,
+    <trd>&#12354;&#12364;&#12394;&#12358;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>afkopen</trd>,
     <trd>vrijkopen</trd>,
@@ -421,11 +778,95 @@
   </trdgrp>
   <trd lng="th">&#3652;&#3606;&#3656;&#3605;&#3633;&#3623;</trd>
   <trd lng="tr">geri sat&inodot;n almak</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_k;&c_u;&c_p;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_k;&c_u;&c_p;&c_l;&c_ja;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="acxet.for0i">
+  <kap>for<tld/>i</kap>
+  <snc>
+    <dif>
+      Malaperigi la varojn el la merkato a&ccirc;etante &ccirc;iom:
+      <ekz>
+        for<tld/>i por vi la tutan viandon en la tuta urbo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_k;&c_u;&c_p;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd>aufkaufen</trd>,
+    <trd>leerkaufen</trd>,
+    <trd>wegkaufen</trd>
+  </trdgrp>
+  <trd lng="es">desvalijar</trd>
+  <trd lng="fr">d&eacute;valiser<klr tip="ind"> (tout acheter)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#36023;&#12356;&#23613;&#12367;&#12377;  [<ind>&#12363;&#12356;&#12388;&#12367;&#12377;</ind>]</trd>,
+    <trd>&#36023;&#12356;&#21344;&#12417;&#12427;  [<ind>&#12363;&#12356;&#12375;&#12417;&#12427;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">opkopen</trd>
+  <trd lng="ru">&c_s;&c_k;&c_u;&c_p;&c_i;&c_t;&c_mol;<klr> (&c_v;&c_je;&c_s;&c_mol; &c_t;&c_o;&c_v;&c_a;&c_r;)</klr></trd>
+  <trd lng="uk">&c_s;&c_k;&c_u;&c_p;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="acxet.re0i">
+  <kap>
+    re<tld/>i
+  </kap>
+  <snc>
+    <dif>
+      Reakiri ion per mono, kion oni pli frue vendis a&ubreve; perdis:
+      <ekz>
+        se via frato malri&ccirc;i&gcirc;os kaj vendos ion de sia poseda&jcirc;o, sed venos re<tld/>anto,
+        lia proksima parenco, tiam li povu re<tld/>i la vendita&jcirc;on de sia frato
+        <fnt>
+          <bib>MT</bib>
+          <lok>Levidoj 25:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> ordonas al mi re<tld/>i de la &scirc;telistoj la paka&jcirc;ojn, kiujn oni
+        &scirc;telis de li
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XIX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        re<tld/>i la bienojn, donitajn kiel garantia&jcirc;o
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        interligo de la okazoj <klr>[&#8230;]</klr> kondukis vin en nian galeron, kaj
+        <klr>[&#8230;]</klr> vi re<tld/>is <klr>(<ref cel="acxet.el0i">ela&ccirc;etis</ref>)</klr> nin
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XXVIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_k;&c_u;&c_p;&c_ib;&c_c;&c_mol; <klr>(&c_r;&c_a;&c_n;&c_je;&c_j; &c_p;&c_r;&c_a;&c_d;&c_a;&c_n;&c_a;&c_je;)</klr></trd>
+  <trd lng="de">zur&uuml;ckkaufen</trd>
+  <trdgrp lng="ja">
+    <trd>&#36023;&#12356;&#25147;&#12377;  [<ind>&#12363;&#12356;&#12418;&#12393;&#12377;</ind>]</trd>,
+    <trd>&#36023;&#12356;&#30452;&#12377;  [<ind>&#12363;&#12356;&#12394;&#12362;&#12377;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="acxet.sub0i">
   <kap><ofc>*</ofc>sub<tld/>i <fnt><bib>F</bib>, <lok>Universala
-  Vortaro, <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-4965">sub'a&ccirc;et'</url></lok></fnt></kap>
+  Vortaro, <url
+  ref="&AdE;/fundamento/universala_vortaro.html#av-4965">sub'a&ccirc;et'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="acxet.sub0i.EKON">
     <uzo tip="fak">EKON</uzo>
@@ -433,16 +874,46 @@
       Maljuste akiri ies favoron per mono, donacoj a&ubreve; promesoj
       por faciligi sukceson de afero:
       <ekz>
+        la policisto <klr>[estis nur]</klr> fripono, kiun oni povas facile sub<tld/>i
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li mortigas vin per via amo, li e&ccirc; vian patran koron mem sub<tld/>is, por fari
+        finon al via vivo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tribunalo, kiun vi neniam povos sub<tld/>i per skeptika sa&gcirc;umado, <klr>[&#8230;]</klr>
+        faros ju&gcirc;on kontra&ubreve; vi
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi sub<tld/>is la gardiston, ke li cedu al &scirc;i sian &ccirc;ambreton
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro Li</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         &ccirc;u usonaj kompanioj (kiel tiuj en aliaj landoj) ne
         sub<tld/>as funkciulojn por ricevi profitigajn kontraktojn kaj
-        sukoplenajn mendojn?
+        sukoplenajn mendojn
         <fnt><aut>Werner Schad</aut>: <vrk>Nenio perfektas</vrk>,
-        <bib>Monato</bib><lok>jaro 2002a, numero 4a, p. 9a</lok></fnt>.
+        <bib>Monato</bib><lok>jaro 2002a, numero 4a, p. 9a</lok></fnt>?
       </ekz>
     </dif>
     <refgrp tip="sin">
       <ref cel="korupt.0i.EKON">korupti</ref>,
-      <ref cel="sxmir.0i.EKON">&scirc;miri</ref>.
+      <ref cel="sxmir.0i.EKON">&scirc;miri</ref>
     </refgrp>
     <trd lng="be">&c_p;&c_a;&c_d;&c_k;&c_u;&c_p;&c_ib;&c_c;&c_mol;</trd>
     <trd lng="br">gouestlaoua</trd>
@@ -457,6 +928,10 @@
     <trdgrp lng="en">
       <trd>bribe</trd>,
       <trd>suborn</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>sobornar</trd>,
+      <trd>comprar<klr> (la voluntad)</klr></trd>
     </trdgrp>
     <trdgrp lng="fa">
       <trd>&a_r;&a_sh;&a_w;&a_h; &a_d;&a_A;&a_d;&a_n;</trd>,
@@ -483,7 +958,8 @@
       <trd>podmititi</trd>
     </trdgrp>
     <trdgrp lng="ja">
-      <trd><klr>(&#12431;&#12356;&#12429;&#12391;)</klr>&#36023;&#21454;&#12377;&#12427; [<ind>&#12400;&#12356;&#12375;&#12421;&#12358;&#12377;&#12427;</ind>]</trd>,
+      <trd><klr>(&#12431;&#12356;&#12429;&#12391;)</klr>&#36023;&#21454;&#12377;&#12427;
+      [<ind>&#12400;&#12356;&#12375;&#12421;&#12358;&#12377;&#12427;</ind>]</trd>,
       <trd>&#36104;&#36036;&#12377;&#12427; [<ind>&#12382;&#12358;&#12431;&#12356;&#12377;&#12427;</ind>]</trd>
     </trdgrp>
     <trd lng="nl">omkopen</trd>
@@ -495,10 +971,6 @@
     <trdgrp lng="pt">
       <trd>subornar</trd>,
       <trd>corromper</trd>
-    </trdgrp>
-    <trdgrp lng="es">
-      <trd>sobornar</trd>,
-      <trd>comprar<klr> (la voluntad)</klr></trd>
     </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_d;&c_k;&c_u;&c_p;&c_a;&c_t;&c_mol;</trd>,
@@ -515,28 +987,35 @@
       <trd>bozmak</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_ib;&c_d;&c_k;&c_u;&c_p;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_ib;&c_d;&c_k;&c_u;&c_p;&c_l;&c_ja;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.61  2018/09/05 22:10:19  revo
-Sam Penter: +trd en nl
+versio 1.147 2023/09/05 06:30:58
+Dmitri Gabinski: + trd be
 
-Revision 1.60  2017/12/21 15:10:16  revo
-Michel Cantigneaux: aldono de fontaj ligiloj (al Universala Vortaro)
+versio 1.146 2023/08/27 17:27:11
+Wolfram Diestel: ja: plibonigo prononco
 
-Revision 1.59  2017/11/06 14:10:19  revo
-Sam Penter: +trd ja
+versio 1.145 2023/08/27 13:23:53
+Wolfram Diestel: ja: -duoblaj hiraganaj
 
-Revision 1.58  2017/05/31 04:10:14  revo
-Warut Bunprasert: +trd th
+versio 1.143 2023/04/15 15:25:24
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.57  2017/04/01 17:10:14  revo
-Lars Raarup Knudsen: dana traduko
+versio 1.142 2022/11/23 20:27:35
+Wolfram Diestel: ~o..sub~i: +ekz-oj, ref, trd de; +re~i
 
-Revision 1.56  2016/07/30 12:10:17  revo
-Warut Bunprasert: +trd th
+versio 1.141 2022/11/23 07:24:24
+Wolfram Diestel: ~i, el~i: +ekz-oj
 
-Revision 1.55  2013/03/21 20:10:19  revo
+versio 1.140 2022/11/19 16:40:12
+Wolfram Diestel: +for~i (el for/)
+
+versio 1.139 2022/04/26 14:57:17
 -->
 </vortaro>

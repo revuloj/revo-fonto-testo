@@ -1,33 +1,42 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: klik1.xml,v 1.3 2004/12/18 19:20:30 revo Exp $">
+<art mrk="$Id: klik1.xml,v 1.11 2023/09/01 15:07:13 revo Exp $">
 <kap>
   <rad>klik</rad>/o
 </kap>
 <drv mrk="klik1.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">TEK</uzo>
-  <snc>
+  <snc mrk="klik1.0o.intermetilo">
     <dif>
       Malgranda dentforma intermetilo, servanta &ccirc;u por haltigi la movon
-      de dentrado, &ccirc;u por ebligi &gcirc;ian turni&gcirc;on nur en unu
+      de <ref cel="rad.dent0o">dentrado</ref>, &ccirc;u por ebligi &gcirc;ian turni&gcirc;on nur en unu
       direkton:
       <ekz>
         &gcirc;ia nomo venas de la onomatopeo <tld/> (bruo de etaj metalaj pecoj
-        interfrapantaj), oni trovas <tld/>ojn en tre multe<klr>[&#8230;]</klr>aj ma&scirc;inoj, iloj,
+        interfrapantaj), oni trovas <tld/>ojn en tre multe<klr>[&#x2026;]</klr>aj ma&scirc;inoj, iloj,
         ludiloj... ekzemple, en horlo&gcirc;o a&ubreve; mekanika ludilo, <tld/>o lasas turni akson
         kiam oni stre&ccirc;as risorton (turnigante butonon, &scirc;losilon), sed blokas kiam oni
         &ccirc;esas turni
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=293612"
-              >Kliko (mekaniko)</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=293612">Kliko (mekaniko)</url></lok>
         </fnt>.
       </ekz>
     </dif>
-    <trd lng="de">Klinke</trd>
+    <refgrp tip="malprt">
+       <ref cel="krik.0o">kriko</ref>,
+       <ref cel="vincx.0o">vin&ccirc;o</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="klink.0o">klinko</ref>,
+      <ref cel="rigl.0ilo">riglilo</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Sperrklinke</trd>,
+      <trd>Palle</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>ratchet</trd>,
       <trd>(safety) <ind>catch</ind></trd>,
@@ -46,6 +55,13 @@
   <rim>
     <ref tip="hom" cel="klik.0o">Kliko</ref> oni nomas anka&ubreve; grupa&ccirc;on.
   </rim>
+  <trdgrp lng="ja">
+    <trd>&#x6B6F;&#x6B62;&#x3081;  [<ind>&#x306F;&#x3069;&#x3081;</ind>]</trd>,
+    <trd>&#x722A;  [<ind>&#x3064;&#x3081;</ind>]</trd>,
+    <trd>&#x5F92;&#x515A;  [<ind>&#x3068;&#x3068;&#x3046;</ind>]</trd>,
+    <trd>&#x4E00;&#x5473;  [<ind>&#x3072;&#x3068;&#x3042;&#x3058;</ind>]</trd>,
+    <trd>&#x6D3E;&#x95A5;  [<ind>&#x306F;&#x3070;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>z&aacute;padka</trd>,
     <trd>z&aacute;str&ccaron;ka</trd>,
@@ -55,10 +71,23 @@
     <trd>z&aacute;padka</trd>,
     <trd>z&aacute;str&ccaron;ka</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x442;&#x43E;&#x43F;&#x43E;&#x440;</trd>,
+    <trd>&#x441;&#x43E;&#x431;&#x430;&#x447;&#x43A;&#x430;</trd>,
+    <trd>&#x437;&#x430;&#x441;&#x443;&#x432;&#x43A;&#x430;</trd>,
+    <trd>&#x437;&#x430;&#x441;&#x43A;&#x43E;&#x447;&#x43A;&#x430;</trd>,
+    <trd>&#x43A;&#x43B;&#x456;&#x43A;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.9 2021/03/18 20:47:45
+Wolfram Diestel: +trd de, ref-oj
+
+versio 1.8 2021/03/09 11:57:53
+Wolfram Diestel: +ref-oj
+
 Revision 1.6  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -75,7 +104,5 @@ Revision 1.2 2004/11/22 17:32:02 revo
 Dmitri Gabinski: +trd be
 
 Revision 1.1 2004/01/07 17:30:23 revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

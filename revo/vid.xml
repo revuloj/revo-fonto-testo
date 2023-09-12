@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: vid.xml,v 1.69 2020/01/27 19:10:26 revo Exp $">
+<art mrk="$Id: vid.xml,v 1.168 2023/09/05 09:43:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vid</rad>/i
@@ -13,37 +12,58 @@
   <gra> <vspec>tr</vspec></gra>
   <snc mrk="vid.0i.SEN">
     <dif>
-      <ref tip="super" cel="sent.0i.sensi">Senti<sncref/></ref> per la
-      okuloj, percepti la bildojn de objektoj:
+      <ref tip="super" cel="sent.0i.sensi">Senti</ref> per la
+      okuloj, <ref tip="super" cel="percep.0i">percepti</ref> la bildojn de objektoj:
       <ekz>
         ni <tld/>as per la okuloj
         <fnt><bib>F</bib>, <lok>&FE; 9</lok></fnt>;
-      </ekz><ekz>
-        li ne plu <tld/>as
-        <klr>(i&gcirc;is blinda)</klr>;
-      </ekz><ekz>
-        mi <tld/>is lin fali;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
+        tiu alta forta knabo nun staras inter ili kaj mi, mi ne plu <tld/>as
+        <fnt>
+          <bib>Gerda</bib>
+          <lok>&Ccirc;apitro 2 (du)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se okuloj rigardas tre longe ion, ili ne plu <tld/>as &gcirc;in
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 43</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i <tld/>is lin falintan en la korton
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         neniu okulo min <tld/>u
-        <fnt><bib>MT</bib>, <lok>&Ijo; 24:15</lok></fnt>;
-      </ekz><ekz>
+        <fnt><bib>MT</bib> <lok>&Ijo; 24:15</lok></fnt>;
+      </ekz>
+      <ekz>
         vi <tld/>os la infanojn de viaj infanoj
-        <fnt><bib>MT</bib>, <lok>&Psa; 128:6</lok></fnt>;
-      </ekz><ekz>
+        <fnt><bib>MT</bib> <lok>&Psa; 128:6</lok></fnt>;
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
         en son&gcirc;o princinon mi <tld/>is
         <fnt>
           <aut>L. L. Zamenhof</aut>
           <vrk>En son&gcirc;o princinon mi vidis..., el Heine</vrk>
         </fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
         ke li ne <tld/>u la tombon
         <klr>(ne mortu)</klr>
-        <fnt><bib>MT</bib>, <lok>&Psa; 49:9</lok></fnt>;
-      </ekz><ekz>
+        <fnt><bib>MT</bib> <lok>&Psa; 49:9</lok></fnt>;
+      </ekz>
+      <ekz>
         <uzo tip="stl">FIG</uzo>
-        ne <tld/>ama <klr>(rigardema)</klr> turismo en&scirc;ipigis nin 
+        ne <tld/>ama <klr>(rigardema)</klr> turismo en&scirc;ipigis nin
         <fnt>
           <bib>Paroloj</bib>
           <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en
@@ -59,53 +79,128 @@
   </snc>
   <snc mrk="vid.0i.sperti">
     <dif>
-      &Ccirc;eesti, konstati:
+      <ref cel="est.cxe0i">&Ccirc;eesti</ref>, <ref cel="konsta1.0i">konstati</ref>:
       <ekz>
         kelkaj homoj sentas sin la plej feli&ccirc;aj, kiam ili
         <tld/>as la suferojn de siaj najbaroj
         <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         balda&ubreve; ni <tld/>is, ke ni trompi&gcirc;is
-        <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>;
-      </ekz><ekz>
-        mi <tld/>as plezure, ke vi ne estas malsana<fnt>B</fnt>;
-      </ekz><ekz>
-        oni neniam <tld/>is tian arogantecon;
-      </ekz><ekz>
+        <fnt><bib>F</bib> <lok>&FE; 40</lok></fnt>;
+      </ekz>
+      <ekz>
+        ili ne plu <tld/>as kaj ne plu a&ubreve;das, ili volas nur vidi sangon
+        <fnt>
+          <bib>LGA</bib>
+          <lok>IV.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        de la unua momento de la apero de Esperanto ni <tld/>as grandegan multon da
+        Volapukistoj, kiuj transiris malka&scirc;e al Esperanto
+        <fnt>
+          <bib>EE</bib>
+          <lok>VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        neniam oni <tld/>is tian grandanimecon
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         kaj Dio <tld/>is, ke &gcirc;i estas bona
-        <fnt><bib>MT</bib>, <lok>&Gen; 1:21</lok></fnt>.
+        <fnt><bib>MT</bib> <lok>&Gen; 1:21</lok></fnt>.
       </ekz>
     </dif>
   </snc>
   <snc mrk="vid.0i.kompreni">
     <dif>
-      Koni, kompreni:
+      <ref cel="kompre.0i.havi_gxustan_ideon">Kompreni</ref>,
+      <ref cel="kon.0i">koni</ref>:
       <ekz>
-        Dio <tld/>as la fundon de nia koro<fnt>B</fnt>;
-      </ekz><ekz>
-        el la anta&ubreve;aj rimarkoj oni povas <tld/>i mian opinion pri
-        tio;
-      </ekz><ekz>
-        mi ne povas <tld/>i la signifon de tiuj vortoj;
-      </ekz><ekz>
-        &ccirc;u vi <tld/>as nun nian eraron?
-      </ekz><ekz>
+        &ccirc;u vi <tld/>as, malbonulo, kion mi povas nun fari kun vi
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        <tld/>u, mi opinias, ke &ccirc;evalo kostas pli ol bovino
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Kion la patro faras, estas &ccirc;iam &gcirc;usta</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni bone <tld/>as la reala&jcirc;on, sed ni anka&ubreve; komprenas, ke <klr>[&ccirc;iuj ideoj]</klr>
+        manifestas du esence kontra&ubreve;ajn tendencojn
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Aldono</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Kandid</nom> estas e&ccirc; tre severe priju&gcirc;ata, kiel oni povas <tld/>i per jena cito
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>u, &ccirc;ion oni misuzas por trompe propagandi
+        <fnt>
+          <bib>SkandalJozef</bib>
+          <lok>Korpogvardia veterano</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        de tiel alte ili <tld/>as pli klare niajn erarojn
+        <fnt>
+          <bib>ChV</bib>
+          <lok>4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gazetisto <tld/>as ke liaj trompoj pla&ccirc;as al la leganto
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 7 (69)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         <nom>Jakob</nom> <tld/>is la&ubreve; la viza&gcirc;o de <nom>Laban</nom>,
         ke li ne estas rilate al li tia, kia li estis hiera&ubreve;
-        <fnt><bib>MT</bib>, <lok>&Gen; 31:2</lok></fnt>.
+        <fnt><bib>MT</bib> <lok>&Gen; 31:2</lok></fnt>.
       </ekz>
     </dif>
+  <trd lng="th">&#xE23;&#xE39;&#xE49;</trd>
   </snc>
   <snc mrk="vid.0i.renkonti">
     <dif>
-      <klr>(iun)</klr> Renkonti, viziti, akcepti:
+      <klr>(iun)</klr> <ref cel="renkon.0i">Renkonti</ref>,
+      <ref cel="vizit.0i">viziti</ref> a&ubreve; <ref cel="akcept.0i.eniri">akcepti</ref>:
       <ekz>
         sian dol&ccirc;an knabon &scirc;i estis <tld/>onta post la man&gcirc;ado,
         kaj por tio oni &scirc;in denove vokis
         <fnt><bib>Fab4</bib>, <lok>Anneto</lok></fnt>;
-      </ekz><ekz>
-        petu lin reveni, mi ne havas nun la tempon <tld/>i
-        lin<fnt><bib>PIV2</bib></fnt>.
+      </ekz>
+      <ekz>
+        ni apena&ubreve; <tld/>is unu la alian, ekde <klr>[tiam]</klr>
+        <fnt>
+          <bib>ChR</bib>
+          <lok>La fantoma bovino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        depost la tempo, kiam &scirc;i estis portinta lin sur la brakoj, &scirc;i plu lin ne <tld/>is
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Anneto</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -113,35 +208,110 @@
       <ref cel="vid.re0o">re<tld/>o</ref>
     </refgrp>
   </snc>
+  <trd lng="af">sien</trd>
+  <trd lng="am">&#x1270;&#x1218;&#x120D;&#x12A8;&#x1275;</trd>
+  <trd lng="ar">&a_sh;&a_A;&a_h;&a_d;</trd>
+  <trd lng="az">g&ouml;rm&#x259;k</trd>
   <trd lng="be">&c_b;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>
   <trdgrp lng="bg">
     <trd>&c_v;&c_i;&c_zh;&c_d;&c_a;&c_m;</trd>,
     <trd>&c_g;&c_l;&c_je;&c_d;&c_a;&c_m;</trd>
   </trdgrp>
+  <trd lng="bn">&#x9A6;&#x9C7;&#x996;&#x9BE;</trd>
+  <trd lng="bo">&t_ma;&t_tha;&t_naro;&t_nga;&t_tsheg;</trd>
+  <trd lng="bs">vidjeti</trd>
   <trd lng="ca">veure</trd>
+  <trd lng="co">vidi</trd>
   <trdgrp lng="cs">
     <trd>vid&ecaron;t</trd>,
     <trd>vid&ecaron;t</trd>
   </trdgrp>
+  <trd lng="cy">gweld</trd>
+  <trd lng="da">se</trd>
   <trd lng="de">sehen</trd>
   <trd lng="en">see</trd>
   <trd lng="es">ver</trd>
+  <trd lng="et">vaata</trd>
+  <trd lng="eu">ikusi</trd>
   <trd lng="fr">voir</trd>
+  <trd lng="fy">sjen</trd>
+  <trd lng="ga">f&eacute;ach</trd>
+  <trd lng="gd">fhaicinn</trd>
+  <trd lng="gl">vexa</trd>
+  <trd lng="gu">&#xA9C;&#xAC1;&#xA93;</trd>
+  <trd lng="ha">gani</trd>
+  <trd lng="hi">&#x926;&#x947;&#x916;&#x928;&#x93E;</trd>
+  <trd lng="hmn">saib</trd>
+  <trd lng="hr">vidjeti</trd>
+  <trd lng="ht">w&egrave;</trd>
   <trd lng="hu">l&aacute;t</trd>
+  <trd lng="hy">&#x57F;&#x565;&#x57D;&#x576;&#x565;&#x56C;</trd>
+  <trd lng="id">me<ind>lihat</ind></trd>
+  <trd lng="ig">&#x1ECB;h&#x1EE5;</trd>
+  <trd lng="is">sj&aacute;</trd>
+  <trd lng="ja">&#x898B;&#x308B; [<ind>&#x307F;&#x308B;</ind>]</trd>
+  <trd lng="jv">ndeleng</trd>
+  <trd lng="ka">&#x10D8;&#x10EE;&#x10D8;&#x10DA;&#x10D4;&#x10D7;</trd>
+  <trd lng="kk">&c_k;&#x4E9;&c_r;&c_u;</trd>
+  <trd lng="km">&#x179F;&#x17BC;&#x1798;&#x1798;&#x17BE;&#x179B;</trd>
+  <trd lng="kn">&#xCA8;&#xCCB;&#xCA1;&#xCBF;</trd>
+  <trd lng="ko">&#xCC38;&#xC870;</trd>
   <trd lng="ku">d&icirc;tin</trd>
+  <trd lng="ky">&c_k;&#x4E9;&c_r;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">video</trd>
+  <trd lng="lo">&#xEC0;&#xE9A;&#xEB4;&#xEC8;&#xE87;</trd>
+  <trd lng="lt">pamatyti</trd>
+  <trd lng="lv">sk</trd>
+  <trd lng="mg">jereo</trd>
+  <trd lng="mi">kite</trd>
+  <trd lng="mk">&c_v;&c_i;&c_d;&c_i;</trd>
+  <trd lng="ml">&#xD15;&#xD3E;&#xD23;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_g; &#x4AF;&c_z;&c_n;&c_e; &#x4AF;&#x4AF;</trd>
+  <trd lng="mr">&#x92A;&#x939;&#x93E;</trd>
+  <trd lng="mt">tara</trd>
+  <trd lng="my">&#x1019;&#x103C;&#x1004;&#x103A;</trd>
+  <trd lng="ne">&#x939;&#x947;&#x930;&#x94D;&#x928;&#x941;&#x939;&#x94B;&#x938;&#x94D;</trd>
   <trd lng="nl">zien</trd>
+  <trd lng="ny">onani</trd>
+  <trd lng="pa">&#xA35;&#xA47;&#xA16;&#xA4B;</trd>
   <trd lng="pl">widzie&cacute;</trd>
+  <trd lng="ps">&a_w;&#x6AB;&a_w;&a_r;&a_y_hamza;</trd>
   <trd lng="pt">ver</trd>
   <trd lng="ru">&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;</trd>
   <trd lng="ms">lihat</trd>
+  <trd lng="rw">reba</trd>
+  <trd lng="sd">&#x68F;&a_s;&#x6BB;</trd>
+  <trd lng="si">&#xDB6;&#xDBD;&#xDB1;&#xDCA;&#xDB1;</trd>
   <trdgrp lng="sk">
     <trd>ch&aacute;pa&tcaron;</trd>,
     <trd>pon&iacute;ma&tcaron;</trd>,
     <trd>predstavova&tcaron; si</trd>,
     <trd>vidie&tcaron;</trd>
   </trdgrp>
-  <trd lng="tp">lukin</trd>
+  <trd lng="sl">glej</trd>
+  <trd lng="sm">va&#x2BB;ai</trd>
+  <trd lng="sn">ona</trd>
+  <trd lng="so">eeg</trd>
+  <trd lng="sq">shih</trd>
+  <trd lng="st">bona</trd>
+  <trd lng="su">tempo</trd>
+  <trd lng="sw">kuona</trd>
+  <trd lng="ta">&#xBAA;&#xBBE;&#xBB0;&#xBCD;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC1A;&#xC42;&#xC21;&#xC02;&#xC21;&#xC3F;</trd>
+  <trd lng="tg">&c_d;&c_i;&c_d;&c_a;&c_n;</trd>
+  <trd lng="th">&#xE40;&#xE2B;&#xE47;&#xE19;</trd>
+  <trd lng="tl">tingnan</trd>
+  <trd lng="tok">lukin</trd>
+  <trd lng="tt">&c_k;&c_a;&c_r;&c_a;</trd>
+  <trd lng="uk">&c_p;&c_o;&c_d;&c_i;&c_v;&c_i;&c_t;&c_i;&c_s;&c_ja;</trd>
+  <trd lng="ur">&a_d;&f_y;&f_k;&#x6BE;&f_y;&#x6BA;</trd>
+  <trd lng="uz">qarang</trd>
+  <trd lng="vi">th&#x1EA5;y</trd>
   <trd lng="vo">log&ouml;n</trd>
+  <trd lng="xh">khangela</trd>
+  <trd lng="yi">&zayin;&ayin;&fnun;</trd>
+  <trd lng="yo">wo</trd>
+  <trd lng="zu">bheka</trd>
 </drv>
 
 <drv mrk="vid.0o">
@@ -164,7 +334,7 @@
         arbo &ccirc;arma por la <tld/>o
         <fnt>
           <bib>MT</bib>
-          <lok>Genezo 2:9</lok>
+          <lok>&Gen; 2:9</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -172,7 +342,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lena Karpunina</aut>
-          <vrk><url ref="https://www.monato.be/2004/008350.html">Tiu tago</url></vrk>
+          <vrk><url ref="&Monato;/2004/008350.html">Tiu
+          tago</url></vrk>
           <lok>2004</lok>
         </fnt>;
       </ekz>
@@ -181,36 +352,42 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Angela Tellier</aut>
-          <vrk><url ref="https://www.monato.be/2004/008306.html">La&ubreve;proverbaj fabeloj</url></vrk>
+          <vrk><url ref="&Monato;/2004/008306.html">La&ubreve;proverbaj
+          fabeloj</url></vrk>
           <lok>2004</lok>
         </fnt>;
       </ekz>
       <ekz>
-        balda&ubreve; &scirc;i <klr>[&#8230;]</klr> malaperis el publika <tld/>o
+        balda&ubreve; &scirc;i <klr>[&#x2026;]</klr> malaperis el publika <tld/>o
         <klr>(vd <ref cel="percep.0o">percepto</ref>)</klr>
         <fnt>
           <bib>Monato</bib>
           <aut>Hayasi Kaneyuki</aut>
-          <vrk><url ref="https://www.monato.be/2007/009260.php">Legantoj mem decidu</url></vrk>
+          <vrk><url ref="&Monato;/2007/009260.php">Legantoj
+          mem decidu</url></vrk>
           <lok>2007</lok>
         </fnt>;
       </ekz>
       <ekz>
-        &ccirc;ia lingva&jcirc;o reprezentas la a&ubreve;toran stilon, ties guston kaj internan <tld/>on
+        &ccirc;ia lingva&jcirc;o reprezentas la a&ubreve;toran stilon, ties guston kaj
+        internan <tld/>on
         <klr>(vd <ref cel="punkt.vid0o.FIG">vidpunkto</ref>, <ref cel="koncep.0o">koncepto</ref>)</klr>
         de la priskribata temo
         <fnt>
           <bib>Monato</bib>
           <aut>Sergeo Dereviannykh</aut>
-          <vrk><url ref="https://www.monato.be/2004/007562.html">Kiu instigas nin al farado, kiel plej multe faras</url></vrk>
+          <vrk><url ref="&Monato;/2004/007562.html">Kiu
+          instigas nin al farado, kiel plej multe faras</url></vrk>
           <lok>2004</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_p;&c_o;&c_z;&c_ib;&c_r;&c_k;</trd>
     <trd lng="ca">vista</trd>
     <trd lng="en">sight</trd>
     <trd lng="es">vista</trd>
     <trd lng="hu">l&aacute;t&aacute;s</trd>
+    <trd lng="id">peng<ind>lihat</ind>an</trd>
     <trd lng="pl">widok</trd>
   </snc>
   <snc mrk="vid.0o.povo">
@@ -221,8 +398,10 @@
         <fnt><bib>ElektFab</bib>, <lok>Ha&ccirc;jo kaj Grenjo</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_z;&c_r;&c_o;&c_k;</trd>
     <trd lng="de">Sehf&auml;higkeit</trd>
     <trd lng="en">sight</trd>
+    <trd lng="id">peng<ind>lihat</ind>an</trd>
     <trd lng="pl">wzrok</trd>
   </snc>
   <snc mrk="vid.0o.aspekto">
@@ -258,26 +437,98 @@
     <trd lng="en">appearance</trd>
     <trd lng="es">aspecto</trd>
     <trd lng="hu">kin&eacute;zet</trd>
+    <trd lng="id"><baz>tampil</baz>penampilan</trd>
     <trdgrp lng="pl">
       <trd>widok</trd>,
       <trd>wygl&aogonek;d</trd>
     </trdgrp>
     <trd lng="ru">&c_v;&c_i;&c_d;</trd>
   </snc>
+  <trd lng="af">view</trd>
+  <trd lng="am">&#x12A5;&#x12ED;&#x1273;</trd>
+  <trd lng="ar">&a_r;&a_A_hamza_sure;&a_y;</trd>
+  <trd lng="bn">&#x9A6;&#x9C7;&#x996;&#x9C1;&#x9A8;</trd>
+  <trd lng="bs">pogledaj</trd>
+  <trd lng="co">vista</trd>
   <trdgrp lng="cs">
     <trd>spat&rcaron;en&iacute;</trd>,
     <trd>zrak</trd>
   </trdgrp>
+  <trd lng="cy">barn</trd>
+  <trd lng="da">udsigt</trd>
   <trdgrp lng="de">
     <trd>Sehen</trd>,
     <trd>Blick</trd>
   </trdgrp>
   <trd lng="en">view</trd>
+  <trd lng="et">vaade</trd>
+  <trd lng="eu">ikuspegia</trd>
   <trd lng="fr">vue</trd>
+  <trd lng="fy">fisy</trd>
+  <trd lng="ga">dearcadh</trd>
+  <trd lng="gd">sealladh</trd>
+  <trd lng="gl">vista</trd>
+  <trd lng="gu">&#xAA6;&#xAC3;&#xAB6;&#xACD;&#xAAF;</trd>
+  <trd lng="hi">&#x926;&#x947;&#x916;&#x947;&#x902;</trd>
+  <trd lng="hmn">saib</trd>
+  <trd lng="hr">pogled</trd>
+  <trd lng="ht">View</trd>
+  <trd lng="hy">&#x564;&#x56B;&#x57F;&#x565;&#x56C;</trd>
+  <trd lng="ig">ele</trd>
+  <trd lng="is">sko&#xF0;a</trd>
+  <trd lng="ja">&#x30D3;&#x30E5;&#x30FC;</trd>
+  <trd lng="jv">tampilan</trd>
+  <trd lng="ka">&#x10D9;&#x10D0;&#x10DA;&#x10D4;&#x10DC;&#x10D3;&#x10D0;&#x10E0;&#x10D8;</trd>
+  <trd lng="kk">&c_k;&#x4E9;&c_r;&c_ib;&c_n;&c_ib;&c_s;</trd>
+  <trd lng="km">&#x1791;&#x17B7;&#x178A;&#x17D2;&#x178B;&#x1797;&#x17B6;&#x1796;</trd>
+  <trd lng="kn">&#xCB5;&#xCC0;&#xC95;&#xCCD;&#xCB7;&#xCBF;&#xCB8;&#xCBF;</trd>
+  <trd lng="ko">&#xBCF4;&#xAE30;</trd>
+  <trd lng="ku">d&icirc;tin&icirc;</trd>
+  <trd lng="ky">&c_k;&#x4E9;&c_r;&#x4AF;&c_n;&#x4AF;&c_sh;</trd>
+  <trd lng="lat">visum</trd>
+  <trd lng="lo">&#xEC0;&#xE9A;&#xEB4;&#xEC8;&#xE87;</trd>
+  <trd lng="lt">vaizdas</trd>
+  <trd lng="lv">skats</trd>
+  <trd lng="mi">tiro</trd>
+  <trd lng="mk">&c_p;&c_o;&c_g;&c_l;&c_je;&c_d;</trd>
+  <trd lng="ml">&#xD15;&#xD3E;&#xD34;&#xD4D;&#xD1A;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_r;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x926;&#x943;&#x936;&#x94D;&#x92F;</trd>
+  <trd lng="ms">pandangan</trd>
+  <trd lng="mt">fehma</trd>
+  <trd lng="my">&#x1021;&#x1019;&#x103C;&#x1004;&#x103A;</trd>
+  <trd lng="ne">&#x926;&#x943;&#x937;&#x94D;&#x91F;&#x93F;</trd>
+  <trd lng="ny">amaonera</trd>
+  <trd lng="pa">&#xA1D;&#xA32;&#xA15;</trd>
+  <trd lng="ps">&a_m;&a_H;&a_t;&a_w;&f_y;&a_A;&a_t;</trd>
+  <trd lng="rw">reba</trd>
+  <trd lng="sd">&#x68F;&a_s;&#x6BB;</trd>
+  <trd lng="si">&#xDAF;&#xDD0;&#xD9A;&#xDCA;&#xDB8;</trd>
   <trdgrp lng="sk">
     <trd>schopnos&tcaron; vidie&tcaron;</trd>,
     <trd>videnie</trd>
   </trdgrp>
+  <trd lng="sl">pogled</trd>
+  <trd lng="sm">vaaiga</trd>
+  <trd lng="sn">maonero</trd>
+  <trd lng="so">aragtida</trd>
+  <trd lng="sq">view</trd>
+  <trd lng="st">maikutlo a</trd>
+  <trd lng="su">pintonan</trd>
+  <trd lng="sw">mtazamo</trd>
+  <trd lng="ta">&#xBAA;&#xBBE;&#xBB0;&#xBCD;&#xBB5;&#xBC8;</trd>
+  <trd lng="te">&#xC35;&#xC40;&#xC15;&#xC4D;&#xC37;&#xC23;</trd>
+  <trd lng="tg">&c_B;&c_o;&c_z;&c_n;&c_i;&c_g;&c_a;&c_r;&c_i;&c_i;</trd>
+  <trd lng="th">&#xE21;&#xE38;&#xE21;&#xE21;&#xE2D;&#xE07;</trd>
+  <trd lng="tl">pagtingin</trd>
+  <trd lng="tt">&c_k;&c_a;&c_r;&c_a;&c_u;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_d;</trd>
+  <trd lng="ur">&a_d;&f_y;&f_k;&#x6BE;&f_y;&#x6BA;</trd>
+  <trd lng="uz">ko&#x2019;rinish</trd>
+  <trd lng="vi">xem</trd>
+  <trd lng="xh">uluvo</trd>
+  <trd lng="yo">wo</trd>
+  <trd lng="zu">buka</trd>
 </drv>
 
 <drv mrk="vid.0ado">
@@ -291,25 +542,28 @@
         el tiu domo oni &gcirc;uas belan <tld/>on;
       </ekz>
       <ekz>
-        ne sati&gcirc;as la okulo de <tld/>ado, kaj ne pleni&gcirc;as la orelo de a&ubreve;dado
+        ne sati&gcirc;as la okulo de <tld/>ado, kaj ne pleni&gcirc;as la orelo de
+        a&ubreve;dado
         <fnt>
           <bib>MT</bib>
-          <lok>Predikanto 1:8</lok>
+          <lok>&Pre; 1:8</lok>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        profeto &scirc;anceli&gcirc;as de drinka&jcirc;o, senkonscii&gcirc;as de vino, <klr>[&#8230;]</klr> eraras en
+        profeto &scirc;anceli&gcirc;as de drinka&jcirc;o, senkonscii&gcirc;as de vino,
+        <klr>[&#x2026;]</klr> eraras en
         la <tld/>ado, falpu&scirc;i&gcirc;as &ccirc;e la ju&gcirc;a verdikto
         <fnt>
           <bib>MT</bib>
-          <lok>Jesaja 28:7</lok>
+          <lok>&Jes; 28:7</lok>
         </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_ib;&c_d;</trd>,
-      <trd>&c_k;&c_r;&c_a;&c_ja;&c_v;&c_ib;&c_d;</trd>
+      <trd>&c_k;&c_r;&c_a;&c_ja;&c_v;&c_ib;&c_d;</trd>,
+      <trd>&c_b;&c_a;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     </trdgrp>
     <trdgrp lng="de">
       <trd>Sehen</trd>,
@@ -325,17 +579,18 @@
     <dif>
       <ref tip="dif" cel="vid.0povo.SEN"><tld lit="V"/>povo</ref>:
       <ekz>
-        <nom>Isaak</nom> maljuni&gcirc;is kaj la <tld/>ado de liaj okuloj malakri&gcirc;is
+        <nom>Isaak</nom> maljuni&gcirc;is kaj la <tld/>ado de liaj okuloj
+        malakri&gcirc;is
         <fnt>
           <bib>MT</bib>
-          <lok>Genezo 27:1</lok>
+          <lok>&Gen; 27:1</lok>
         </fnt>;
       </ekz>
       <ekz>
         lia dekstra okulo tute perdos sian <tld/>adon
         <fnt>
           <bib>MT</bib>
-          <lok>Ze&hcirc;arja 11:17</lok>
+          <lok>&Zeh; 11:17</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -343,7 +598,7 @@
         la polvan muron
         <fnt>
           <bib>Far2</bib>
-          <lok>&Ccirc;apitro XVIII</lok>
+          <lok>&ccirc;apitro 18a</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -354,7 +609,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        la <tld/>ado kaj a&ubreve;dado &ccirc;iam estis rigardataj de la homo kiel la plej gravaj
+        la <tld/>ado kaj a&ubreve;dado &ccirc;iam estis rigardataj de la homo kiel la
+        plej gravaj
         sentaj kapabloj
         <fnt>
           <bib>Fab3</bib>
@@ -362,6 +618,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_z;&c_r;&c_o;&c_k;</trd>
     <trd lng="de">Blick</trd>
     <trd lng="pl">wzrok</trd>
   </snc>
@@ -371,6 +628,11 @@
     <trd>vision<klr tip="amb"> (vue)</klr></trd>,
     <trd>vue</trd>
   </trdgrp>
+  <trd lng="id">peng<ind>lihat</ind>an</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x308B;&#x3053;&#x3068;  [<ind>&#x307F;&#x308B;&#x3053;&#x3068;</ind>]</trd>,
+    <trd>&#x8996;&#x899A;  [<ind>&#x3057;&#x304B;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>zicht</trd>,
     <trd>het <ind>zien</ind></trd>
@@ -379,6 +641,12 @@
   <trdgrp lng="sk">
     <trd>schopnos&tcaron; vidie&tcaron;</trd>,
     <trd>videnie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_ib;&c_r;</trd>,
+    <trd>&c_b;&c_a;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_o;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_p;&c_o;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -391,7 +659,7 @@
         vi frenezi&gcirc;os de la <tld/>a&jcirc;o anta&ubreve; viaj okuloj
         <fnt>
           <bib>MT</bib>
-          <lok>Readmono 28:34</lok>
+          <lok>&Rea; 28:34</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -403,15 +671,16 @@
       </ekz>
       <ekz>
         kvaza&ubreve; trafita de terura <tld/>a&jcirc;o
-        <fnt><bib>Kiso</bib>, <lok>poetoj kaj homoj</lok></fnt>;
+        <fnt><bib>Kiso</bib> <lok>Poetoj kaj homoj</lok></fnt>;
       </ekz>
       <ekz>
-        la bela <tld/>a&jcirc;o de Monto de la &Gcirc;ojo, nomata tiel pro la gajeco de la iamaj
-        pilgrimantoj
+        la bela <tld/>a&jcirc;o de Monto de la &Gcirc;ojo, nomata tiel pro la gajeco
+        de la iamaj pilgrimantoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Rafaela Urue&ntilde;a</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006809.html">Hispanio: Vojoj al la sankta urbo</url></vrk>
+          <vrk><url ref="&Monato;/2000/006809.php">Vojoj al la sankta urbo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 24</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -426,8 +695,10 @@
     <dif>
       Desegno, fotografa&jcirc;o prezentanta ian <tld/>a&jcirc;on:
       <ekz>
-        unu <tld/>a&jcirc;o forpu&scirc;is la alian, sed nur unu bildo restis tute fortike en lia
-        animo, precipe pro la gajaj, feli&ccirc;aj infanoj, kiuj trovi&gcirc;is sur &gcirc;i
+        unu <tld/>a&jcirc;o forpu&scirc;is la alian, sed nur unu bildo restis tute
+        fortike en lia
+        animo, precipe pro la gajaj, feli&ccirc;aj infanoj, kiuj trovi&gcirc;is sur
+        &gcirc;i
         <fnt>
           <bib>Fab1</bib>
           <lok>Kupra porko</lok>
@@ -436,12 +707,23 @@
     </dif>
     <trd lng="pl">widok&oacute;wka</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ib;&c_d;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_ja;&c_v;&c_ib;&c_d;</trd>
+  </trdgrp>
   <trd lng="en">sight</trd>
   <trdgrp lng="fr">
     <trd>spectacle</trd>,
     <trd>vue<klr tip="ind"> (chose vue)</klr></trd>
   </trdgrp>
   <trd lng="hu">l&aacute;tv&aacute;ny</trd>
+  <trd lng="id">peng<ind>lihat</ind>an</trd>
+  <trdgrp lng="ja">
+    <trd>&#x306A;&#x304C;&#x3081;</trd>,
+    <trd>&#x5149;&#x666F;  [<ind>&#x3053;&#x3046;&#x3051;&#x3044;</ind>]</trd>,
+    <trd>&#x98A8;&#x666F;&#x753B;  [<ind>&#x3075;&#x3046;&#x3051;&#x3044;&#x304C;</ind>]</trd>,
+    <trd>&#x5199;&#x771F;  [<ind>&#x3057;&#x3083;&#x3057;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>gezicht</trd>,
     <trd>schouwspel</trd>
@@ -452,6 +734,114 @@
     <trd>Schauspiel</trd>,
     <trd>Ansicht</trd>,
     <trd>Anblick</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_d;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_jeu;&c_v;&c_i;&c_d;</trd>,
+    <trd>&c_k;&c_r;&c_u;&c_g;&c_o;&c_v;&c_i;&c_d;</trd>,
+    <trd>&c_v;&c_i;&c_d;&c_o;&c_v;&c_i;&c_shch;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.0ebla">
+  <kap>
+    <tld/>ebla
+  </kap>
+  <snc mrk="vid.0ebla.KOMUNE">
+    <dif>
+      Kiun oni <tld/>as, kiu estas elmetita al rigardo:
+      <ekz>
+        ombro estis <tld/>ebla sur la muro de la kontra&ubreve;a lo&gcirc;ejo
+        <fnt>
+          <aut>H. C. Andersen, trad. L. L. Zamenhof</aut>
+          <vrk>La Ombro</vrk>
+          <lok>en: Dua Libro de l&#x2019; lingvo Internacia, 1888</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la boato ankora&ubreve; ne estis <tld/>ebla, kiom ajn mi stre&ccirc;is la okulojn
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi volas, ke <klr>[&#x2026;]</klr> via konfuzo estu <tld/>ebla por &ccirc;iuj
+        <fnt>
+          <bib>GDn</bib>
+          <lok>Akto Tria</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>sichtbar</trd>,
+    <trd>zu <ind>sehen</ind></trd>
+  </trdgrp>
+  <trd lng="fr">visible</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76EE;&#x306B;&#x898B;&#x3048;&#x308B;  [<ind>&#x3081;&#x306B;&#x307F;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x660E;&#x77AD;&#x306A;  [<ind>&#x3081;&#x3044;&#x308A;&#x3087;&#x3046;&#x306A;</ind>]</trd>
+  </trdgrp>
+  <trd lng="th">&#xE21;&#xE2D;&#xE07;&#xE40;&#xE2B;&#xE47;&#xE19;&#xE44;&#xE14;&#xE49;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_d;&c_i;&c_m;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="vid.0ebli">
+  <kap>
+    <tld/>ebli
+  </kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vid.0ebli.KOMUNE">
+    <dif>
+      Esti <tld/>ebla, atingebla de rigardo:
+      <ekz>
+        ni venis sur vitromuran verandon, kies &ccirc;iuj fenestroj estis suprenlevitaj kaj
+        tra ili <tld/>eblis la malanta&ubreve;a &gcirc;ardeno
+        <fnt>
+          <aut>S. Szathm&aacute;ri</aut>
+          <vrk>Voja&gcirc;o al Kazohinio</vrk>
+          <lok>1938</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        je la alia flanko de la rivero <tld/>eblis <klr>[&#x2026;]</klr> la ru&gcirc;aj domoj de la
+        cara fusilfaktorio
+        <fnt>
+          <bib>Voja&gcirc;Imp</bib>
+          <lok>&Ccirc;e Lev Tolstoj en Jasnaja Poljana</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la vero donas forton al mia animo, sed &gcirc;i <tld/>eblas nur al Alaho kaj mi
+        <fnt>
+          <bib>ChB</bib>
+          <lok>9</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se tiu demando trafis &scirc;in, tio apena&ubreve; <tld/>eblis
+        <fnt>
+          <bib>ChB</bib>
+          <lok>15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_b;&c_a;&c_ch;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_z;&c_mol;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><ind>sichtbar</ind> sein</trd>,
+    <trd>sich <ind>zeigen</ind></trd>,
+    <trd>zu <ind>sehen</ind> sein</trd>
+  </trdgrp>
+  <trd lng="fr">&ecirc;tre visible</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76EE;&#x306B;&#x898B;&#x3048;&#x308B;  [<ind>&#x3081;&#x306B;&#x307F;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x660E;&#x77AD;&#x3067;&#x3042;&#x308B;  [<ind>&#x3081;&#x3044;&#x308A;&#x3087;&#x3046;&#x3067;&#x3042;&#x308B;</ind>]</trd>
   </trdgrp>
 </drv>
 
@@ -468,7 +858,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        <tld lit="V"/>ejo de Valo  estas &scirc;tala konstrua&jcirc;o en San-Pa&ubreve;lo
+        &#x201A;<tld lit="V"/>ejo de Valo&#x2018; estas &scirc;tala konstrua&jcirc;o en San-Pa&ubreve;lo
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=314545">Videjo
@@ -480,9 +870,10 @@
       <ref cel="belved.0o">belvedero</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t; <ind>&c_n;&c_a;&c_z;&c_ib;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
   <trdgrp lng="de">
     <trd>Aussichtspunkt</trd>,
-    <trd>Stelle mit Aussicht</trd>
+    <trd>Stelle mit <ind>Aussicht</ind></trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>observation point</trd>,
@@ -493,6 +884,7 @@
     <trd>point de vue<klr tip="ind"> (sur un panorama)</klr></trd>
   </trdgrp>
   <trd lng="hu">kil&aacute;t&oacute;hely</trd>
+  <trd lng="ja">&#x5C55;&#x671B;&#x6240;  [<ind>&#x3066;&#x3093;&#x307C;&#x3046;&#x3057;&#x3087;</ind>]</trd>
   <trd lng="nl">uitzichtspunt</trd>
   <trd lng="pl">punkt <ind>widokowy</ind></trd>
   <trd lng="sk">rozh&lcaron;ad&ncaron;a</trd>
@@ -508,25 +900,28 @@
         ne <tld/>igu vin al la viro, anta&ubreve; ol li finos man&gcirc;i
         <fnt>
           <bib>MT</bib>
-          <lok>Rut 3:3</lok>
+          <lok>&Rut; 3:3</lok>
         </fnt>;
       </ekz>
       <ekz>
-        dum la tri pasintaj monatoj la vesto pli eluzi&gcirc;is, en diversaj lokoj &gcirc;i
+        dum la tri pasintaj monatoj la vesto pli eluzi&gcirc;is, en diversaj
+        lokoj &gcirc;i
         <tld/>igis riparojn kaj flikojn
         <fnt>
           <bib>Marta</bib>
         </fnt>;
       </ekz>
       <ekz>
-        lar&gcirc;a spegulo re<tld/>igis en si la <klr>[&#8230;]</klr> grupojn da malaltaj kaj molaj
+        lar&gcirc;a spegulo re<tld/>igis en si la <klr>[&#x2026;]</klr> grupojn da
+        malaltaj kaj molaj
         mebloj
         <fnt>
           <bib>Marta</bib>
         </fnt>;
       </ekz>
       <ekz>
-        ekvidinte &scirc;in, <klr>[li]</klr> ne <tld/>igis e&ccirc; la plej malgrandan miron
+        ekvidinte &scirc;in, <klr>[li]</klr> ne <tld/>igis e&ccirc; la plej
+        malgrandan miron
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -538,14 +933,18 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_p;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_b;&c_a;&c_ch;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>d&aacute;t najevo</trd>,
     <trd>uk&aacute;zat</trd>,
     <trd>vyjevit</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>sichtbar machen</trd>,
+    <trd><ind>sichtbar</ind> machen</trd>,
     <trd>zeigen</trd>
   </trdgrp>
   <trdgrp lng="en">
@@ -560,6 +959,11 @@
     <trd>l&aacute;ttat</trd>,
     <trd>megjelen&iacute;t</trd>
   </trdgrp>
+  <trd lng="id">memper<ind>lihat</ind>kan</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x305B;&#x308B;  [<ind>&#x307F;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x8868;&#x793A;&#x3059;&#x308B;  [<ind>&#x3072;&#x3087;&#x3046;&#x3058;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>pokazywa&cacute;</trd>,
     <trd>ukazywa&cacute;</trd>
@@ -572,6 +976,10 @@
     <trd>da&tcaron; najavo</trd>,
     <trd>uk&aacute;za&tcaron;</trd>,
     <trd>vyjavi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_ja;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_a;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -591,7 +999,7 @@
         el la mezo <tld/>i&gcirc;is bildo de kvar kreita&jcirc;oj
         <fnt>
           <bib>MT</bib>
-          <lok>Je&hcirc;ezkel 1:5</lok>
+          <lok>&Jeh; 1:5</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -604,19 +1012,29 @@
         sen<tld/>i&gcirc;os la rigardantinoj tra la fenestroj
         <fnt>
           <bib>MT</bib>
-          <lok>Predikanto 12:3</lok>
+          <lok>&Pre; 12:3</lok>
         </fnt>;
       </ekz><ekz>
         lia viza&gcirc;o akiris seriozan <tld/>i&gcirc;on.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_n;&c_a;&c_v;&c_ib;&c_c;&c_c;&c_a; <ind>&c_b;&c_a;&c_ch;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_z;&c_mol;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="en">be seen</trd>
   <trdgrp lng="fr">
     <trd>apparaitre</trd>,
     <trd>se <ind>montrer</ind></trd>
   </trdgrp>
   <trd lng="hu">l&aacute;tszik</trd>
+  <trd lng="id">ter<ind>lihat</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x3048;&#x308B;  [<ind>&#x307E;&#x307F;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x73FE;&#x308F;&#x308C;&#x308B;  [<ind>&#x3042;&#x3089;&#x308F;&#x308C;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>tonen</trd>,
     <trd>laten <ind>zien</ind></trd>
@@ -632,8 +1050,13 @@
   </trdgrp>
   <trd lng="sk">uk&aacute;za&tcaron; sa</trd>
   <trdgrp lng="de">
-    <trd>sichtbar werden</trd>,
+    <trd><ind>sichtbar</ind> werden</trd>,
     <trd>sich <ind>zeigen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_a;&c_ch;&c_i;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_i;&c_d;&c_n;&c_ib;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_i;&c_ja;&c_v;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -661,19 +1084,32 @@
         </fnt>;
       </ekz>
       <ekz>
-        la &ccirc;efa <tld/>inda&jcirc;o de la Kolonia Ekspozicio en Parizo estis la fama Templo de
+        la &ccirc;efa <tld/>inda&jcirc;o de la Kolonia Ekspozicio en Parizo estis la
+        fama Templo de
         <nom>Angkor</nom>, perfekta kopio de l' originalo
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga
+          Butiko</url></vrk>
           <lok>Angkor'a&ubreve;!</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_d;&c_a;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_l;&c_a;&c_v;&c_u;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_ga;&t_na;&t_-a;&t_tsheg;&t_sha;&t_shabchu;&t_la;&t_tsheg;&t_ra;&t_nyata;&t_gigu;&t_nga;&t_tsheg;&t_pa;&t_tsheg;</trd>
   <trd lng="de">Sehensw&uuml;rdigkeit</trd>
   <trd lng="en">sight worth seeing</trd>
   <trd lng="fr">curiosit&eacute;<klr> (objet)</klr></trd>
+  <trd lng="id"><baz>pandang</baz>pemandangan</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x3082;&#x306E;  [<ind>&#x307F;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x898B;&#x3069;&#x3053;&#x308D;  [<ind>&#x307F;&#x3069;&#x3053;&#x308D;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_a; &c_p;&c_a;&c_m;&#x2019;&c_ja;&c_t;&c_k;&c_a;</trd>
 </drv>
 
 <drv mrk="vid.akra0a">
@@ -686,7 +1122,8 @@
         nun senbride akra<tld/>e saltu, saltu
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga
+          Butiko</url></vrk>
           <lok>Sibilla Orakolas</lok>
         </fnt>;
       </ekz>
@@ -694,7 +1131,7 @@
         poeto &ccirc;iam akra<tld/>a, sed kun iom distanca rigardopunkto
         <fnt>
           <aut>C. Minnaja</aut>,
-          <vrk><url ref="https://www.monato.be/2007/009010.php">
+          <vrk><url ref="&Monato;/2007/009010.php">
           Resume de l' mio</url></vrk>,
           <bib>Monato</bib>
           <lok>2007:6, p. 24a</lok>
@@ -706,10 +1143,63 @@
       <trd>adler&auml;ugig</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_ib;&c_r;&c_k;&c_a;&c_t;&c_y;</trd>,
+    <trd>&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>perspicace</trd>,
     <trd>p&eacute;n&eacute;trant<klr> (perspicace)</klr></trd>
   </trdgrp>
+  <trd lng="id">tanggap</trd>
+</drv>
+
+<drv mrk="vid.antaux0ebla">
+  <kap>
+    anta&ubreve;<tld/>ebla
+  </kap>
+  <snc>
+    <dif>
+      Tia, ke oni povas anta&ubreve;<tld/>i, t.e. anticipe scii, &gcirc;in:
+      <ekz>
+        ofte plej terura <klr>[estas la]</klr> malplej anta&ubreve;<tld/>ebla kaj
+        anta&ubreve;kalkulebla influo de la blinda trafo
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la projektoj de Dio estas ne anta&ubreve;<tld/>eblaj
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ribelo <klr>[&#x2026;]</klr> povus ekregi la tunan urban kaj ka&ubreve;zi
+        <ind>neanta&ubreve;<tld/>ebla</ind>jn konsekvencojn
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+        <trd lng="de">unvorhersehbar</trd>
+      </ekz>
+      <ekz>
+        la junulino ru&gcirc;i&gcirc;is, &ccirc;ar &scirc;i ne pripensis tiun detalon tamen tre anta&ubreve;<tld/>eblan
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konjek.0ebla">konjektebla</ref>,
+      <ref cel="kutim.0a">kutima</ref>,
+      <ref cel="normal.0a.KOMUNE">normala<sncref/></ref>,
+      <ref cel="ordina.0a">ordinara</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_b;&c_a;&c_ch;&c_a;&c_n;&c_y;</trd>
+  <trd lng="de">vorhersehbar</trd>
+  <trd lng="th">&#xE23;&#xE31;&#xE1A;&#xE23;&#xE39;&#xE49;&#xE44;&#xE14;&#xE49;&#xE25;&#xE48;&#xE27;&#xE07;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
+  <trd lng="uk">&c_p;&c_je;&c_r;&c_je;&c_d;&c_b;&c_a;&c_ch;&c_u;&c_v;&c_a;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="vid.antaux0ema">
@@ -721,12 +1211,12 @@
         vi estas anta&ubreve;videma, reiru en paco en la urbon
         <fnt>
           <bib>MT</bib>
-          <lok>Ii. samuel 15:27</lok>
+          <lok>&Sa2; 15:27</lok>
         </fnt>;
       </ekz>
       <ekz>
-        kun <klr>[&#8230;]</klr> anta&ubreve;<tld/>emo ili aran&gcirc;as, ke 
-        la naskonombro sufi&ccirc;as nur por ekvilibri la 
+        kun <klr>[&#x2026;]</klr> anta&ubreve;<tld/>emo ili aran&gcirc;as, ke
+        la naskonombro sufi&ccirc;as nur por ekvilibri la
         mortonombron
         <fnt>
           <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
@@ -738,6 +1228,7 @@
     </dif>
     <trd lng="de">vorausschauend</trd>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_b;&c_a;&c_ch;&c_l;&c_ib;&c_v;&c_y;</trd>
   <trd lng="fr">pr&eacute;voyance</trd>
 </drv>
 
@@ -758,14 +1249,15 @@
         prudentulo anta&ubreve;<tld/>as malbonon, kaj ka&scirc;i&gcirc;as
         <fnt>
           <bib>MT</bib>
-          <lok>Sentencoj 22:3</lok>
+          <lok>&Sen; 22:3</lok>
         </fnt>;
       </ekz>
       <ekz>
-        kion oni nun nomas profeto, tion oni anta&ubreve;e nomis anta&ubreve;<tld/>isto
+        kion oni nun nomas profeto, tion oni anta&ubreve;e nomis
+        anta&ubreve;<tld/>isto
         <fnt>
           <bib>MT</bib>
-          <lok>I. Samuel 9:9</lok>
+          <lok>&Sa1; 9:9</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -803,14 +1295,20 @@
     <trd>el&odblac;re l&aacute;t</trd>,
     <trd>el&odblac;ir&aacute;nyoz</trd>
   </trdgrp>
+  <trd lng="id">me<ind>ramal</ind>kan</trd>
   <trd lng="nl">voorzien</trd>
   <trd lng="pl">przewidywa&cacute;</trd>
   <trd lng="pt">prever</trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;
   </trd>
   <trd lng="sk">predv&iacute;da&tcaron;</trd>
+  <trd lng="th">&#xE23;&#xE39;&#xE49;&#xE25;&#xE48;&#xE27;&#xE07;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_b;&c_a;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_b;&c_a;&c_ch;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
-                     	
+
 <drv mrk="vid.auxd0a">
   <kap>a&ubreve;d<tld/>a</kap>
   <snc mrk="vid.auxd0a.TEL">
@@ -831,25 +1329,30 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franck Arnaud</aut>
-          <vrk><url ref="https://www.monato.be/2010/010076.php">Parto 3: Apple iPad &dash; &ccirc;u revolucio a&ubreve; evolucio?</url></vrk>
+          <vrk><url ref="&Monato;/2010/010076.php">Parto 3:
+          Apple iPad &#x2010; &ccirc;u revolucio a&ubreve; evolucio?</url></vrk>
           <lok>2010</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la informejo posedas a&ubreve;d<tld/>ajn aparatojn, planojn, skizon kaj fosiliojn
+        la informejo posedas a&ubreve;d<tld/>ajn aparatojn, planojn, skizon kaj
+        fosiliojn
         <fnt>
           <bib>Monato</bib>
           <aut>Maxime Lechien</aut>
-          <vrk><url ref="https://www.monato.be/2003/007206.html">La parko de kanaloj en La Louvi&egrave;re</url></vrk>
+          <vrk><url ref="&Monato;/2003/007206.html">La
+          parko de kanaloj en La Louvi&egrave;re</url></vrk>
           <lok>2003</lok>
         </fnt>;
       </ekz>
       <ekz>
-        per la plej modernaj a&ubreve;d<tld/>aj iloj &gcirc;i rakontas la historion de la inundigo
+        per la plej modernaj a&ubreve;d<tld/>aj iloj &gcirc;i rakontas la historion
+        de la inundigo
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="https://www.monato.be/2015/011417.php">Du novaj muzeoj en Belgio</url></vrk>
+          <vrk><url ref="&Monato;/2015/011417.php">Du novaj
+          muzeoj en Belgio</url></vrk>
           <lok>2015</lok>
         </fnt>.
       </ekz>
@@ -859,9 +1362,12 @@
     </refgrp>
     <trd lng="de">audiovisuell</trd>
   </snc>
+  <trd lng="be">&c_a;&c_w;&c_d;&c_y;&c_jo;&c_v;&c_ib;&c_z;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="en">audio-visual</trd>
   <trd lng="fr">audiovisuel<klr> (adj.)</klr></trd>
+  <trd lng="id">audiovisual</trd>
   <trd lng="pl">audiowizualny</trd>
+  <trd lng="uk">&c_a;&c_u;&c_d;&c_ib;&c_o;-&c_v;&c_ib;&c_z;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="vid.ek0i">
@@ -876,10 +1382,11 @@
         <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo</lok></fnt>;
       </ekz>
       <ekz>
-        &scirc;i ek<tld/>is puton kun akvo, kaj &scirc;i iris kaj plenigis la felsakon per akvo 
+        &scirc;i ek<tld/>is puton kun akvo, kaj &scirc;i iris kaj plenigis la
+        felsakon per akvo
         <fnt>
           <bib>MT</bib>
-          <lok>Genezo 21:19</lok>
+          <lok>&Gen; 21:19</lok>
         </fnt>;
       </ekz><ekz>
         kiam &scirc;ia patro ek<tld/>is &scirc;in en tia stato, li eksentis
@@ -900,6 +1407,7 @@
     <trd>&c_u;&c_b;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_w;&c_v;&c_a;&c_zh;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="bo">&t_ra;&t_nyata;&t_drengbu;&t_da;&t_tsheg;&t_pa;&t_tsheg;</trd>
   <trd lng="ca">veure</trd>
   <trdgrp lng="cs">
     <trd>spat&rcaron;it</trd>,
@@ -921,6 +1429,10 @@
     <trd>apercevoir</trd>
   </trdgrp>
   <trd lng="hu">megpillant</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3061;&#x3089;&#x308A;&#x3068;&#x898B;&#x308B;  [<ind>&#x3061;&#x3089;&#x308A;&#x3068;&#x307F;&#x308B;</ind>]</trd>,
+    <trd>&#x6C17;&#x3065;&#x304F;  [<ind>&#x304D;&#x3065;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">opmerken</trd>
   <trd lng="oc">apercebre</trd>
   <trdgrp lng="pl">
@@ -935,6 +1447,7 @@
     <trd>uzrie&tcaron;</trd>,
     <trd>zbada&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_o;&c_b;&c_a;&c_ch;&c_i;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="vid.en0o">
@@ -945,27 +1458,33 @@
       <ref tip="dif" cel="intros.0o.PSI">Introspekto</ref>:
       <ekz>
         la sa&gcirc;uloj, kiuj praktikas koncentri&gcirc;on kaj en<tld/>on
-        <klr>[&#8230;]</klr>, tiajn <klr>[&#8230;]</klr> e&ccirc; la dioj tenas karaj
+        <klr>[&#x2026;]</klr>, tiajn <klr>[&#x2026;]</klr> e&ccirc; la dioj tenas karaj
         <fnt>
           <aut>trad. T. T. Anuruddha</aut>,
           <vrk>La Vojo al Nirvano a&ubreve; la Dhammapado, 14:181</vrk>,
-          <lok>B&#7891;-T&aacute;t-Csoma-Instituto por Budhologio,
+          <lok>B&#x1ED3;-T&aacute;t-Csoma-Instituto por Budhologio,
           1973</lok>
         </fnt>;
       </ekz>
       <ekz>
-        mi ne havas en<tld/>on en la koron de la homoj, do mi ne povas scii, kiu estas
+        mi ne havas en<tld/>on en la koron de la homoj, do mi ne povas
+        scii, kiu estas
         nove naskita kaj kiu ne
         <fnt>
           <bib>Monato</bib>
           <aut>Vinko O&scaron;lak</aut>
-          <vrk><url ref="https://www.monato.be/2010/010013.php">&Ccirc;u satanisto povas administri ekleziojn? (2)</url></vrk>
+          <vrk><url ref="&Monato;/2010/010013.php">&Ccirc;u
+          satanisto povas administri ekleziojn? (2)</url></vrk>
           <lok>2010</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="konsci.0o.cirkonstanca">konscio</ref>
+    </refgrp>
     <trd lng="be">&c_ib;&c_n;&c_t;&c_r;&c_a;&c_s;&c_p;&c_e;&c_k;&c_c;&c_y;&c_ja;</trd>
     <trdgrp lng="de">
+      <trd>Selbstreflexion</trd>,
       <trd>Selbstbeobachtung</trd>,
       <trd>Introspektion</trd>
     </trdgrp>
@@ -976,6 +1495,10 @@
       <trd>&ouml;nmegfigyel&eacute;s</trd>,
       <trd>&ouml;nvizsg&aacute;lat</trd>,
       <trd>introspekci&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>introspeksi</trd>,
+      <trd>wawas diri</trd>
     </trdgrp>
     <trd lng="nl">introspectie</trd>
     <trd lng="pl">wgl&aogonek;d</trd>
@@ -996,7 +1519,7 @@
       <ref tip="super" cel="adiaux.0i.KOMUNE">Adia&ubreve;i</ref>
       dirante &leftquot;&gcirc;is revido&rightquot;:
       <ekz>
-        tiuj, kiuj <klr>[&#8230;]</klr> amindumas, / kiuj &gcirc;isre<tld/>as
+        tiuj, kiuj <klr>[&#x2026;]</klr> amindumas, / kiuj &gcirc;isre<tld/>as
         <fnt>
           <aut>R. Schwartz</aut>,
           <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr41/provo.html">
@@ -1015,6 +1538,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ib;&c_t;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_z;&c_a;&c_c;&c_mol; &#xAB;<ind>&c_d;&c_a; &c_p;&c_a;&c_b;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ja;</ind>&#xBB;</trd>
+  </trdgrp>
   <trd lng="de">verabschieden</trd>
   <trd lng="en">say goodbye</trd>
   <trd lng="fr">dire au revoir</trd>
@@ -1031,18 +1558,22 @@
       <ref tip="super" cel="renkon.0igxikun.kunveni">Renkonti&gcirc;i</ref>
       kaj ekparoli kun unu a&ubreve; pluraj personoj:
       <ekz>
-        amba&ubreve; okupi&gcirc;as pri siaj laboroj kaj inter<tld/>i&gcirc;as nur &ccirc;iun duan tagon
+        amba&ubreve; okupi&gcirc;as pri siaj laboroj kaj inter<tld/>i&gcirc;as nur &ccirc;iun
+        duan tagon
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007061.html">Litovio: Ceramika&jcirc;oj</url></vrk>
-        </fnt>;
+          <aut>Laimius Stra&zcaron;nickas</aut>
+            <vrk><url ref="&Monato;/2000/007061.php">Ceramika&jcirc;oj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 24</lok>
+          </fnt>;
       </ekz>
       <ekz>
         do ni inter<tld/>i&gcirc;is, interparolis, &scirc;ercis
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.be/2004/008066.html">Retrorigardo al intensa vivo</url></vrk>
+          <vrk><url ref="&Monato;/2004/008066.html">Retrorigardo al
+          intensa vivo</url></vrk>
           <lok>2004</lok>
         </fnt>.
       </ekz>
@@ -1078,18 +1609,19 @@
         ne plu re<tld/>os min okulo de <tld/>anto
         <fnt>
           <bib>MT</bib>
-          <lok>Ijob 7:8</lok>
+          <lok>&Ijo; 7:8</lok>
         </fnt>;
       </ekz>
       <ekz>
         li ne plu revenos kaj ne re<tld/>os la landon de sia naski&gcirc;o
         <fnt>
           <bib>MT</bib>
-          <lok>Jeremia 22:10</lok>
+          <lok>&Jer; 22:10</lok>
         </fnt>;
       </ekz>
       <ekz>
-        kelkan tempon estis tiel mallumege, ke &scirc;i nenion povis <tld/>i, sed jen ekfulmis
+        kelkan tempon estis tiel mallumege, ke &scirc;i nenion povis <tld/>i,
+        sed jen ekfulmis
         kaj <klr>[&scirc;i]</klr> klare re<tld/>is &ccirc;iujn
         <fnt>
           <bib>Fab1</bib>
@@ -1097,6 +1629,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_p;&c_a;&c_b;&c_a;&c_ch;&c_y;&c_c;&c_mol; &c_z;&c_n;&c_o;&c_w;</trd>
     <trd lng="de">wieder sehen</trd>
     <trd lng="en">see again</trd>
     <trdgrp lng="ru">
@@ -1110,7 +1643,8 @@
     <dif>
       <ref tip="dif" cel="revizi.0i.verkon">Revizii<sncref/></ref>:
       <ekz>
-        la re&gcirc;o balda&ubreve; denove sendis alian bonkoran oficiston, por re<tld/>i, kiel iras
+        la re&gcirc;o balda&ubreve; denove sendis alian bonkoran oficiston, por
+        re<tld/>i, kiel iras
         la teksado kaj &ccirc;u la &scirc;tofo balda&ubreve; estos preta
         <fnt>
           <bib>Fab1</bib>
@@ -1124,6 +1658,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_a;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>durchsehen</trd>,
       <trd>&uuml;berarbeiten</trd>
@@ -1145,8 +1683,21 @@
   <trdgrp lng="fr">
     <trd>revoir</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>ber<ind>temu</ind> kembali</trd>,
+    <trd>ber<ind>jumpa</ind> kembali</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x518D;&#x4F1A;&#x3059;&#x308B;  [<ind>&#x3055;&#x3044;&#x304B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x898B;&#x306A;&#x304A;&#x3059;  [<ind>&#x307F;&#x306A;&#x304A;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">rever</trd>
   <trd lng="sk">znova uvidie&tcaron;</trd>
+  <trdgrp lng="th">
+    <trd>&#xE40;&#xE2B;&#xE47;&#xE19;&#xE2D;&#xE35;&#xE01;&#xE04;&#xE23;&#xE31;&#xE49;&#xE07;</trd>,
+    <trd>&#xE1E;&#xE1A;&#xE2D;&#xE35;&#xE01;&#xE04;&#xE23;&#xE31;&#xE49;&#xE07;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_z;&c_n;&c_o;&c_v;&c_u; &c_p;&c_o;&c_b;&c_a;&c_ch;&c_i;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="vid.re0o">
@@ -1157,18 +1708,21 @@
       precipe <tld/>i<sncref ref="vid.0i.renkonti"/> iun
       jam renkontitan:
       <ekz>
-        sincaran &gcirc;ojon <klr>[&#8230;]</klr> ka&ubreve;zis al &scirc;i la re<tld/>o de la amiko
+        sincaran &gcirc;ojon <klr>[&#x2026;]</klr> ka&ubreve;zis al &scirc;i la re<tld/>o de la
+        amiko
         <fnt>
           <bib>Fab3</bib>
           <lok>Sub la saliko</lok>
         </fnt>;
       </ekz>
       <ekz>
-        amikoj <klr>[&#8230;]</klr> kortu&scirc;ite diris al si reciproke &gcirc;is la re<tld/>o, kaj kun
+        amikoj <klr>[&#x2026;]</klr> kortu&scirc;ite diris al si reciproke &gcirc;is la
+        re<tld/>o, kaj kun
         &gcirc;ojo ili atendas tiun re<tld/>on
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en Barcelona en la 6a de septembro 1909</vrk>
+          <vrk>Parolado anta&ubreve; la Kvina Kongreso Esperantista en
+          Barcelona en la 6a de septembro 1909</vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -1181,6 +1735,10 @@
         <trd lng="es">hasta la <ind>vista</ind></trd>
         <trd lng="fr">au revoir</trd>
         <trd lng="hu">viszont <ind>l&aacute;t&aacute;sra</ind></trd>
+        <trdgrp lng="id">
+          <trd><ind>sampai</ind> jumpa</trd>,
+          <trd><ind>sampai</ind> ketemu</trd>
+        </trdgrp>
         <trd lng="nl">tot <ind>ziens</ind></trd>
         <trdgrp lng="pl">
           <trd>do <ind>widzenia</ind></trd>,
@@ -1188,7 +1746,7 @@
         </trdgrp>
         <trd lng="ru">&c_d;&c_o; &c_s;&c_v;&c_i;&c_d;&c_a;&c_n;&c_i;&c_ja;</trd>
         <trd lng="vo">ady&ouml;</trd>
-        <trd lng="zh">&#20877;&#35265; [<ind>z&agrave;iji&agrave;n</ind>]</trd>
+        <trd lng="zh">&#x518D;&#x89C1; [<ind>z&agrave;iji&agrave;n</ind>]</trd>
       </ekz><ekz>
         &gcirc;is la re<tld/>o en Antverpeno
         <fnt>
@@ -1205,7 +1763,10 @@
       renkonti&gcirc;o.
     </rim>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_b;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
 <trd lng="de">Wiedersehen</trd>
+  <trd lng="ja">&#x518D;&#x4F1A;  [<ind>&#x3055;&#x3044;&#x304B;&#x3044;</ind>]</trd>
+  <trd lng="uk">&c_p;&c_o;&c_b;&c_a;&c_ch;&c_je;&c_n;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="vid.tra0i">
@@ -1225,14 +1786,16 @@
         </fnt>;
       </ekz>
       <ekz>
-        la silenta mona&hcirc;eja vila&gcirc;o ricevis tra<tld/>on tra la muskokovritaj arboj
+        la silenta mona&hcirc;eja vila&gcirc;o ricevis tra<tld/>on tra la
+        muskokovritaj arboj
         <fnt>
           <bib>Fab4</bib>
           <lok>Peco da perlovico</lok>
         </fnt>;
       </ekz>
       <ekz>
-        oni per unu ekrigardo penetras en la kapturnan profundon kaj tra<tld/>as en unu
+        oni per unu ekrigardo penetras en la kapturnan profundon kaj
+        tra<tld/>as en unu
         sola ekfulmo de la penso la nemezureblan vojon
         <fnt>
           <bib>Fab3</bib>
@@ -1246,7 +1809,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i direktis sian rigardon tra la tra<tld/>an, vastan, hele lumitan fenestron
+        &scirc;i direktis sian rigardon tra la tra<tld/>an, vastan, hele
+        lumitan fenestron
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -1262,7 +1826,7 @@
         <uzo tip="stl">FIG</uzo>
         ri&ccirc;ulo estas sa&gcirc;a en siaj okuloj, sed sa&gcirc;a
         malri&ccirc;ulo lin tute tra<tld/>as
-        <fnt><bib>MT</bib>, <lok>&Sen; 28:11</lok></fnt>;
+        <fnt><bib>MT</bib> <lok>&Sen; 28:11</lok></fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -1273,6 +1837,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_ch;&c_y;&c_c;&c_mol; &c_n;&c_a;&c_s;&c_k;&c_r;&c_o;&c_z;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_n;&c_ib;&c_k;&c_a;&c_c;&c_mol; &c_p;&c_o;&c_z;&c_ib;&c_r;&c_k;&c_a;&c_m;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>durchsehen</trd>,
     <trd>hindurchsehen</trd>,
@@ -1285,6 +1853,10 @@
   <trd lng="fr">percer<klr tip="amb"> (voir &agrave; travers)</klr>
   </trd>
   <trd lng="hu">&aacute;tl&aacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x900F;&#x304B;&#x3057;&#x3066;&#x898B;&#x308B;  [<ind>&#x3059;&#x304B;&#x3057;&#x3066;&#x307F;&#x308B;</ind>]</trd>,
+    <trd>&#x898B;&#x629C;&#x304F;  [<ind>&#x307F;&#x306C;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">doorzien</trd>
   <trdgrp lng="pl">
     <trd>widzie&cacute;<klr tip="amb"> na wskro&sacute;</klr></trd>,
@@ -1297,6 +1869,10 @@
     &c_n;&c_a;&c_s;&c_k;&c_v;&c_o;&c_z;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_n;&c_i;&c_k;&c_a;&c_t;&c_mol;
     &c_v;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_o;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_a;&c_ch;&c_i;&c_t;&c_i; &c_k;&c_r;&c_ib;&c_z;&c_mol;</trd>,
+    <trd>&c_b;&c_a;&c_ch;&c_i;&c_t;&c_i; &c_n;&c_a;&c_s;&c_k;&c_r;&c_ib;&c_z;&c_mol;</trd>
   </trdgrp>
 </drv>
 
@@ -1324,7 +1900,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la knaboj <klr>[&#8230;]</klr> kuradis sur la brilante pura glacio,
+        la knaboj <klr>[&#x2026;]</klr> kuradis sur la brilante pura glacio,
         kiu estis tiel tra<tld/>ebla, ke ili povis vidi, kiel la
         fi&scirc;oj sub iliaj piedoj timi&gcirc;is
         <fnt>
@@ -1356,6 +1932,15 @@
   <trd lng="es">transparente</trd>
   <trd lng="fr">transparent</trd>
   <trd lng="hu">&aacute;tl&aacute;tsz&oacute;</trd>
+  <trdgrp lng="id">
+    <trd><ind>tembus</ind> pandang</trd>,
+    <trd>transparan</trd>,
+    <trd>bening</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x900F;&#x660E;&#x306A;  [<ind>&#x3068;&#x3046;&#x3081;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x900F;&#x3051;&#x3066;&#x898B;&#x3048;&#x308B;  [<ind>&#x3059;&#x3051;&#x3066;&#x307F;&#x3048;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>przezroczysty</trd>,
     <trd>przejrzysty</trd>,
@@ -1366,6 +1951,8 @@
     <trd>prieh&lcaron;adn&yacute;</trd>,
     <trd>priezra&ccaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="th">&#xE42;&#xE1B;&#xE23;&#xE48;&#xE07;&#xE41;&#xE2A;&#xE07;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_o;&c_z;&c_o;&c_r;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="vid.klar0a">
@@ -1389,9 +1976,11 @@
       <ekz>
         sa&gcirc;a kaj klar<tld/>a eseisto
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007269.html">Plej bona analizo</url></vrk>
-        </fnt>.
+          <aut>Abbas Momeni</aut>
+            <vrk><url ref="&Monato;/2001/007269.php">Plej bona analizo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 4</lok>
+          </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="de">
@@ -1405,13 +1994,27 @@
     </trdgrp>
     <trd lng="pl">jasnowidz&aogonek;cy</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_ja;&c_s;&c_n;&c_a;&c_v;&c_ib;&c_d;&c_u;&c_ch;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_z;&c_o;&c_r;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_n;&c_ib;&c_k;&c_l;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>bystr&yacute;</trd>,
     <trd>jasnoz&rcaron;iv&yacute;</trd>,
     <trd>p&rcaron;edv&iacute;dav&yacute;</trd>
   </trdgrp>
+  <trd lng="id">tanggap</trd>
   <trd lng="de">klarsichtig</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x8B58;&#x306E;&#x3042;&#x308B;  [<ind>&#x3051;&#x3093;&#x3057;&#x304D;&#x306E;&#x3042;&#x308B;</ind>]</trd>,
+    <trd>&#x8061;&#x660E;&#x306A;  [<ind>&#x305D;&#x3046;&#x3081;&#x3044;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">jasnovidiaci</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ja;&c_s;&c_n;&c_o;&c_v;&c_i;&c_d;&c_ju;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_z;&c_o;&c_r;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vid.netra0ebla">
@@ -1420,22 +2023,23 @@
     <uzo tip="fak">FOT</uzo>
     <dif>
       Tra kiu oni ne povas <tld/>i;
-      <ref tip="sin" cel="opak.0a.KOMUNE">opaka</ref>:
+      <ref tip="sin" cel="opak.0a.FOT">opaka</ref>:
       <ekz>
-        <klr>[li]</klr> havis longan, netra<tld/>eblan veston, fermitan &gcirc;is la kolo
+        <klr>[li]</klr> havis longan, netra<tld/>eblan veston, fermitan
+        &gcirc;is la kolo
         <fnt>
           <bib>Far2</bib>
           <lok>&Ccirc;apitro XIV</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la cindro <klr>[&#8230;]</klr> formis en la strato
+        la cindro <klr>[&#x2026;]</klr> formis en la strato
         netra<tld/>eblan vualon
         <fnt>
           <aut>A. Gregor, trad. J. Chvosta</aut>,
           <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr46/auto.html">
           A&ubreve;to-ekskurso</url></vrk>,
-          <lok>Nica literatura revuo, 1959-07 &gcirc;is 08 (4/6), 
+          <lok>Nica literatura revuo, 1959-07 &gcirc;is 08 (4/6),
           p. 294a-298a</lok>
         </fnt>.
       </ekz>
@@ -1449,12 +2053,12 @@
     <dif>
       Nekomprenebla:
       <ekz>
-        E&ubreve;ropa Unio <klr>[&#8230;]</klr> estas tre komplika 
-        konstrua&jcirc;o kun strukturoj, kiuj por tre multaj 
+        E&ubreve;ropa Unio <klr>[&#x2026;]</klr> estas tre komplika
+        konstrua&jcirc;o kun strukturoj, kiuj por tre multaj
         homoj estas netra<tld/>eblaj
         <fnt>
           <aut>S. Maul</aut>,
-          <vrk><url ref="https://www.monato.be/2009/009854.php">
+          <vrk><url ref="&Monato;/2009/009854.php">
           Kompatinda EU</url></vrk>,
           <bib>Monato</bib>,
           <lok>2009:08-09, p. 8a</lok>
@@ -1465,19 +2069,26 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="https://www.monato.be/2010/010062.php">Merkato dampita</url></vrk>
+          <vrk><url ref="&Monato;/2010/010062.php">Merkato
+          dampita</url></vrk>
           <lok>2010</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_a;&c_z;&c_r;&c_y;&c_s;&c_t;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="cs">nepr&uring;hledn&yacute;</trd>
   <trd lng="de">undurchsichtig</trd>
   <trd lng="fr">opaque</trd>
+  <trd lng="id">buram</trd>
   <trdgrp lng="sk">
     <trd>neprieh&lcaron;adn&yacute;</trd>,
     <trd>nepriezra&ccaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&c_n;&c_je;&c_p;&c_r;&c_o;&c_g;&c_l;&c_ja;&c_d;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="vid.nigre0ulo">
@@ -1485,6 +2096,7 @@
   <snc mrk="vid.nigre0ulo.FIG">
     <ref tip="dif" cel="pesimi.0o">pesimisto</ref>
   </snc>
+  <trd lng="be">&c_p;&c_e;&c_s;&c_y;&c_m;&c_ib;&c_s;&c_t;</trd>
   <trdgrp lng="de">
     <trd>Schwarzseher</trd>,
     <trd>Pessimist</trd>
@@ -1492,6 +2104,7 @@
   <trd lng="es">pesimista</trd>
   <trd lng="fr">pessimiste<klr> (subst.)</klr></trd>
   <trd lng="hu">bor&uacute;l&aacute;t&oacute;</trd>
+  <trd lng="id">pesimis</trd>
   <trd lng="pl">czarnowidz</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_je;&c_s;&c_s;&c_i;&c_m;&c_i;&c_s;&c_t;</trd>,
@@ -1508,13 +2121,15 @@
       Ne <tld/>i, kvankam oni povus;
       ne atenti, ne rimarki:
       <ekz>
-        oni ne preter<tld/>u, ke Serbio havas nenian tradicion, nenian sperton pri
+        oni ne preter<tld/>u, ke Serbio havas nenian tradicion, nenian
+        sperton pri
         demokratio
         <fnt>
-          <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <lok><url ref="http://steloj.de/esperanto/monato2/007213.html">http://steloj.de/esperanto/monato2/007213.html</url></lok>
-        </fnt>;
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007213.php">Estimataj gelegantoj,</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 3</lok>
+          </fnt>;
       </ekz>
       <ekz>
         la grandulino preter<tld/>is la polican
@@ -1523,20 +2138,27 @@
         <fnt>
           <aut>J. Stave, trad. Donjo kaj Cezar</aut>,
           <vrk><url ref="http://www.satesperanto.org/Nova-artikolo.html">
-          La ven&gcirc;o de l&#8217; malgranda Nikolao </url></vrk>,
+          La ven&gcirc;o de l&#x2019; malgranda Nikolao </url></vrk>,
           <lok>Sennaciulo, 2007-12</lok>
         </fnt>;
       </ekz>
       <ekz>
         nepreter<tld/>eblaj neperfekta&jcirc;oj
         <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007110.php">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007110.html">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
-        </fnt>.
+          <lok>2001/01, p. 31</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_d;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_z;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_je;&c_d;&c_a;&c_g;&c_l;&c_je;&c_d;&c_z;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_ib;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>nev&scaron;imnout si</trd>,
     <trd>p&rcaron;ehl&eacute;dnout</trd>
@@ -1547,7 +2169,17 @@
     <trd>passer &agrave; c&ocirc;t&eacute; de<klr> (ne pas
     voir)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x843D;&#x3068;&#x3059;  [<ind>&#x307F;&#x304A;&#x3068;&#x3059;</ind>]</trd>,
+    <trd>&#x898B;&#x9003;&#x3059;  [<ind>&#x307F;&#x306E;&#x304C;&#x3059;</ind>]</trd>,
+    <trd>&#x898B;&#x904E;&#x3054;&#x3059;  [<ind>&#x307F;&#x3059;&#x3054;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">nev&scaron;imn&uacute;&tcaron; si</trd>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_je;&c_d;&c_o;&c_g;&c_l;&c_ja;&c_n;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_je;&c_d;&c_o;&c_g;&c_l;&c_ja;&c_d;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_gu;&c_a;&c_v;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vid.0al0e">
@@ -1555,7 +2187,7 @@
   <snc mrk="vid.0al0e.KOMUNE">
     <dif>
       En kontra&ubreve;a pozicio:<ekz>
-        la <klr>[&#8230;]</klr> malliberuloj kaj iliaj familianoj ka&ubreve;ris
+        la <klr>[&#x2026;]</klr> malliberuloj kaj iliaj familianoj ka&ubreve;ris
         <tld/>al<tld/>e
         <fnt>
           <aut>Albert Camus, trad. Michel Duc Goninaz</aut>,
@@ -1568,7 +2200,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Yamasaki Seik&ocirc;</aut>
-          <vrk><url ref="https://www.monato.be/2007/009290.php">Busoj, biciklantoj kaj kavaliraj kutimoj</url></vrk>
+          <vrk><url ref="&Monato;/2007/009290.php">Busoj,
+          biciklantoj kaj kavaliraj kutimoj</url></vrk>
           <lok>2007</lok>
         </fnt>.
         <trd lng="de">Gegenverkehr</trd>
@@ -1590,6 +2223,14 @@
     <trd>szemben</trd>,
     <trd>&aacute;tellenben</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>empat</ind> mata</trd>,
+    <trd><ind>tatap</ind> muka</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9762;&#x3068;&#x5411;&#x304B;&#x3044;&#x5408;&#x3063;&#x3066;  [<ind>&#x304A;&#x3082;&#x3066;&#x3068;&#x3080;&#x304B;&#x3044;&#x3042;&#x3063;&#x3066;</ind>]</trd>,
+    <trd>&#x5BFE;&#x9762;&#x3067;  [<ind>&#x305F;&#x3044;&#x3081;&#x3093;&#x3067;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tegenover</trd>
   <trdgrp lng="pl">
     <trd>naprzeciwko</trd>,
@@ -1603,6 +2244,8 @@
     <trd>&c_v;&c_i;&c_z;&c_a;&c_v;&c_i;</trd>,
     <trd>&c_l;&c_i;&c_c;&c_o;&c_m; &c_k; &c_l;&c_i;&c_c;&c_u;</trd>
   </trdgrp>
+  <trd lng="th">&#xE15;&#xE48;&#xE2D;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
+  <trd lng="uk">&c_n;&c_a;&c_p;&c_r;&c_o;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="vid.0al0e_al">
@@ -1619,22 +2262,26 @@
         Jasnaja Poljana</lok></fnt>;
       </ekz>
       <ekz>
-        la loka registaro intencis <tld/>alvide al la katolika pre&gcirc;ejo konstrui
+        la loka registaro intencis <tld/>alvide al la katolika pre&gcirc;ejo
+        konstrui
         protestantan pre&gcirc;ejon
         <fnt>
           <bib>Monato</bib>
           <aut>Laimius Stra&zcaron;nickas</aut>
-          <vrk><url ref="https://www.monato.be/2004/007980.html">Kie unue aperis la Sankta Virgulino?</url></vrk>
+          <vrk><url ref="&Monato;/2004/007980.html">Kie
+          unue aperis la Sankta Virgulino?</url></vrk>
           <lok>2004</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>alvide al la medreseo de <nom>Ulugbek</nom>, spegule ripetante &gcirc;ian &ccirc;efan fasadon,
+        <tld/>alvide al la medreseo de <nom>Ulugbek</nom>, spegule
+        ripetante &gcirc;ian &ccirc;efan fasadon,
         alti&gcirc;as la medreseo <nom>&Scirc;er-Dor</nom>
         <fnt>
           <bib>Monato</bib>
           <aut>Anatoli Ionesov</aut>
-          <vrk><url ref="https://www.monato.be/2006/008920.php">Perlo &ccirc;e la Silka Vojo</url></vrk>
+          <vrk><url ref="&Monato;/2006/008920.php">Perlo &ccirc;e
+          la Silka Vojo</url></vrk>
           <lok>2006</lok>
         </fnt>.
       </ekz>
@@ -1647,6 +2294,10 @@
     <trdgrp lng="hu">
       <trd>szemk&ouml;zt</trd>,
       <trd>&aacute;tellenben</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>ber<ind>hadap</ind>an</trd>,
+      <trd>meng<ind>hadap</ind>i</trd>
     </trdgrp>
     <trdgrp lng="pl">
       <trd>naprzeciwko</trd>,
@@ -1680,7 +2331,18 @@
       <trd>oko w oko</trd>
     </trdgrp>
   </snc>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_ib;&c_z;&c_a;&c_v;&c_ib;</trd>,
+      <trd>&c_n;&c_a;&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_o;&c_ch;&c_y; &c_w; &c_v;&c_o;&c_ch;&c_y;</trd>,
+      <trd>&c_t;&c_v;&c_a;&c_r;&c_a;&c_m; &c_d;&c_a; &c_t;&c_v;&c_a;&c_r;&c_u;</trd>
+    </trdgrp>
+  <trdgrp lng="de">
+    <trd>gegen&uuml;ber</trd>,
+    <trd>von <ind>Angesicht</ind> zu Angesicht</trd>
+  </trdgrp>
   <trd lng="ru">&c_l;&c_i;&c_c;&c_o;&c_m; &c_k; &c_l;&c_i;&c_c;&c_u; &c_s;</trd>
+<trd lng="th">&#xE15;&#xE48;&#xE2D;&#xE2B;&#xE19;&#xE49;&#xE32;</trd>
 </drv>
 
 <drv mrk="vid.0povo">
@@ -1698,7 +2360,7 @@
           <lok>1965</lok>
         </fnt>;
       </ekz><ekz>
-        Georgo <nom>Lagran&gcirc;&#8217;</nom> <klr>[&#8230;]</klr> estis trafita de
+        Georgo <nom>Lagran&gcirc;&#x2019;</nom> <klr>[&#x2026;]</klr> estis trafita de
         okulmalsano, kiu tute perdigis al li la <tld/>kapablon por unu
         okulo kaj la duonon de la <tld/>kapablo por la alia
         <fnt>
@@ -1719,6 +2381,8 @@
   <trd lng="en">ability to see</trd>
   <trd lng="fr">vue<klr> (sens)</klr></trd>
   <trd lng="hu">l&aacute;t&oacute;k&eacute;pess&eacute;g</trd>
+  <trd lng="id">peng<ind>lihat</ind>an</trd>
+  <trd lng="ja">&#x8996;&#x529B;  [<ind>&#x3057;&#x308A;&#x3087;&#x304F;</ind>]</trd>
   <trd lng="pl">wzrok</trd>
   <trd lng="ru">&c_z;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
@@ -1726,31 +2390,32 @@
     <trd>videnie</trd>,
     <trd>zrak</trd>
   </trdgrp>
+<trd lng="th">&#xE04;&#xE27;&#xE32;&#xE21;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;&#xE17;&#xE32;&#xE07;&#xE01;&#xE32;&#xE23;&#xE40;&#xE2B;&#xE47;&#xE19;</trd>
 </drv>
 </art>
 <!--
-$Log: vid.xml,v $
-versio 1.69 2020/01/27 19:10:26
-Wolfram Diestel: en~o..~al~e: ekz-oj, germ trd-oj
+$Log$
+versio 1.167 2023/08/29 14:28:25
+Wolfram Diestel: ja: prononco
 
-Revision 1.68  2020/01/27 07:10:15  revo
-Wolfram Diestel: ~igxi..ek~i: ekz-oj
+versio 1.166 2023/06/08 06:29:19
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
 
-Revision 1.67  2020/01/26 21:10:17  revo
-Wolfram Diestel: ~igi: ekz-oj
+versio 1.165 2023/05/02 15:29:32
+Wolfram Diestel: +ref, trd de
 
-Revision 1.66  2020/01/26 18:10:17  revo
-Wolfram Diestel: ~o, ~ado: ekz-oj
+versio 1.164 2023/05/01 12:45:10
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.65  2019/12/27 11:10:15  revo
-Wolfram Diestel: fnt-o, ~ajxo, ~indajxo: ekz-oj
+versio 1.163 2023/04/17 05:28:09
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.64  2019/07/07 11:10:21  revo
-Aleks Andre: zh: indekso
+versio 1.162 2023/04/13 18:31:28
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.63  2019/07/02 09:10:15  revo
-Aleks Andre: zh: gxis revido
+versio 1.161 2023/01/19 08:34:23
+Dmitri Gabinski: + trd be
 
-Revision 1.62  2019/06/30 07:43:30  revo
+versio 1.160 2023/01/12 08:35:55
 -->
 </vortaro>

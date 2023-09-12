@@ -1,50 +1,109 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: patric.xml,v 1.15 2023/09/03 12:45:05 revo Exp $">
 <kap>
   <rad>patric</rad>/o
-  <fnt>Z</fnt>
+  <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="patric.0o">
   <kap><tld/>o</kap>
   <uzo tip="fak">TEK</uzo>
-  <snc>
+  <snc mrk="patric.0o.formo">
     <dif>
-      &Scirc;tala peco reliefe gravurita, por formi fand-, moner- a&ubreve; medal-
+      Metala peco reliefe gravurita, por formi fand-, moner- a&ubreve; medal-
       matricojn kaj presliterojn.
     </dif>
     <refgrp tip="vid">
       <ref cel="matric.0o">matrico</ref>.
     </refgrp>
+    <trdgrp lng="de">
+      <trd>Patrize</trd>,
+      <trd>Pr&auml;gestock</trd>,
+      <trd>Stempel</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>male mold</trd>,
+      <trd>male mould</trd>,
+      <trd>male part</trd>,
+      <trd>positive part</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>apaminta</trd>,
       <trd>patrica</trd>
     </trdgrp>
+    <trd lng="pl">patryca</trd>
+    <trd lng="ro">patricea</trd>
     <trd lng="ru">&c_p;&c_u;&c_a;&c_n;&c_s;&c_o;&c_n;</trd>
   </snc>
-  <snc>
+  <snc mrk="patric.0o.signo">
     <dif>
-      Signo stampata sur orajn kaj ar&gcirc;entajn objektojn por garantii la
-      proporciecon de la uzitaj metaloj.
+      <ref tip="super" cel="sign.0o.KOMUNE">Signo</ref> stampata sur orajn kaj ar&gcirc;entajn objektojn
+      por garantii la
+      proporciecon de la uzitaj metaloj:
+      <ekz>
+        oficiala patrico indikanta la fajnecon
+        <fnt>
+          <vrk><url ref="https://lernu.net/en/forumo/temo/26910/1">10 Sm monero / News / Forum -
+          lernu.net</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        militoj, eksterlandaj kaj enlanda, estis la <tld/>o de lia re&gcirc;a regado
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=546335">Aleksandro Janeo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="super" cel="sigel.0o">sigelo</ref>
+    <trdgrp lng="de">
+      <trd>Pr&auml;gung</trd>,
+      <trd>Gepr&auml;ge</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>imprint</trd>,
+      <trd>embossing</trd>
+    </trdgrp>
     <trd lng="hu">pr&oacute;ba<klr tip="amb"> (nemesf&eacute;men)</klr></trd>
+    <trd lng="pl">znak pr&oacute;bny</trd>
+    <trd lng="ro">marca de prob&abreve;</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_b;&c_a; <klr>(&c_d;&c_r;&c_a;&c_g;&c_o;&c_c;&c_je;&c_n;&c_n;&c_y;&c_h; &c_m;&c_je;&c_t;&c_a;&c_l;&c_l;&c_o;&c_v;)</klr></trd>
   </snc>
   <trdgrp lng="cs">
     <trd>razidlo</trd>,
     <trd>raznice</trd>
+  </trdgrp>  
+  <trdgrp lng="ja">
+    <trd>&#x6253;&#x3061;&#x578B;  [<ind>&#x3046;&#x3061;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x91D1;&#x578B;  [<ind>&#x304B;&#x306A;&#x304C;&#x305F;</ind>]</trd>,
+    <trd>&#x96C4;&#x578B;  [<ind>&#x305F;&#x3051;&#x3057;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x6975;&#x5370;  [<ind>&#x3054;&#x304F;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x523B;&#x5370;  [<ind>&#x3053;&#x304F;&#x3044;&#x3093;</ind>]</trd>
   </trdgrp>
-  <trd lng="de">Patrize</trd>
   <trd lng="nl">muntstempel</trd>
   <trd lng="pt">pun&ccedil;&atilde;o <klr>(subst.masc.)</klr></trd>
   <trd lng="ru">&c_sh;&c_t;&c_a;&c_m;&c_p;</trd>
-  <trd lng="sk">patrica <klr>(na vyrábanie matríc)</klr></trd>
+  <trd lng="sk">patrica <klr>(na vyr&aacute;banie matr&iacute;c)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_sh;&c_t;&c_a;&c_m;&c_p;</trd>,
+    <trd>&c_p;&c_u;&c_n;&c_s;&c_o;&c_n;</trd>,
+    <trd>&c_k;&c_l;&c_je;&c_j;&c_m;&c_o;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.14 2023/06/11 16:29:33
+Christian Siefkes: +trd de, en
+
+versio 1.12 2022/01/15 23:31:16
+Vito Redsky: + trd pl + trd ro
+
+versio 1.11 2020/12/02 22:35:26
+Wolfram Diestel: +ekz-oj, trd de
+
 Revision 1.9  2015/06/29 16:40:17  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -58,11 +117,5 @@ Revision 1.6  2001/12/13 17:33:08  revo
 Yury Finkel: +trd ru
 
 Revision 1.5 2001/08/22 18:15:11 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.4 2001/07/11 18:11:49 revo
-Dennis Wibrow: +trd germ
-
 -->
 </vortaro>
-

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: statut.xml,v 1.21 2023/09/04 15:14:31 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>statut</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -21,21 +20,23 @@
         </fnt>;
       </ekz>
       <ekz>
-        la&ubreve; statuto de Gaela Atleta Asocio <klr>[&#8230;]</klr> neniu membro 
+        la&ubreve; statuto de Gaela Atleta Asocio <klr>[&#x2026;]</klr> neniu membro 
         de la Re&gcirc;a Konstablaro (polico) a&ubreve; de la armeo rajtis esti membro de la asocio
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007702.html">Sporto por &ccirc;iuj</url></vrk>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2003/007702.html">Sporto por &ccirc;iuj</url></vrk>
+          <lok>2003/07, p. 17</lok>
         </fnt>;
       </ekz>
       <ekz>
         la&ubreve; la  <tld/>o de EU, la civitanoj rajtas, en siaj rilatoj kun EU-instancoj,
         uzi iun ajn el la aktualaj 20 oficialaj laborlingvoj
         <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008344.html">Babele babili</url></vrk>
           <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2004/008344.html">Babele babili</url></vrk>
+          <lok>2004/09, p. 19</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -61,16 +62,28 @@
     <trd>AD/ART</trd>,
     <trd>statuta</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4F1A;&#x5247;  [<ind>&#x304B;&#x3044;&#x305D;&#x304F;</ind>]</trd>,
+    <trd>&#x898F;&#x7D04;  [<ind>&#x304D;&#x3084;&#x304F;</ind>]</trd>,
+    <trd>&#x5B9A;&#x6B3E;  [<ind>&#x3066;&#x3044;&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">statuut</trd>
   <trd lng="es">estatutos</trd>
   <trdgrp lng="ru">
     <trd>&c_u;&c_s;&c_t;&c_a;&c_v;</trd>,
     <trd>&c_s;&c_t;&c_a;&c_t;&c_u;&c_t;</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&c_t;&c_a;&c_t;&c_u;&c_t;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2023/05/06 12:41:37
+Paul Peeraerts: + 2x lok 
+
+versio 1.19 2022/05/05 14:43:48
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.16  2018/08/29 08:10:13  revo
 Wolfram Diestel: +ekz-oj, +ref
 
@@ -87,11 +100,5 @@ Revision 1.12  2008/03/31 17:53:20  revo
 Emmanuel Debanne: +trd fr
 
 Revision 1.11  2007/01/12 17:30:28  revo
-Eduardo Navas: +trd es
-
-Revision 1.10  2004/10/29 16:31:55  revo
-Jozefo Horvath: +trd hu
-
-Revision 1..9  2003/02/21 17:31:37  revo
 -->
 </vortaro>

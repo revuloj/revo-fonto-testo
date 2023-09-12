@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sxink.xml,v 1.23 2023/09/04 15:14:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;ink</rad>/o
@@ -23,7 +22,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        en la provizejo <klr>[&#8230;]</klr> <tld/>oj pendas sub la plafono
+        en la provizejo <klr>[&#x2026;]</klr> <tld/>oj pendas sub la plafono
         <fnt>
           <bib>Fab2</bib>
           <lok>Abio</lok>
@@ -64,12 +63,11 @@
         </fnt>;
       </ekz>
       <ekz>
-        ni &ccirc;iam man&gcirc;is <klr>[&#8230;]</klr> sabate <tld/>on kun brasiko
+        ni &ccirc;iam man&gcirc;is <klr>[&#x2026;]</klr> sabate <tld/>on kun brasiko
         <fnt>
           <bib>Monato</bib>
           <aut>Albisturo Kvinke</aut>
-          <vrk><url ref="&Monato;/2012/010361.php"
-              >Lisuarte</url></vrk>
+          <vrk><url ref="&Monato;/2012/010361.php">Lisuarte</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -87,6 +85,7 @@
   <trd lng="de">Schinken</trd>
   <trd lng="hu">sonka</trd>
   <trd lng="it">prosciutto</trd>
+  <trd lng="ja">&#x30CF;&#x30E0;  [<ind>&#x306F;&#x3080;</ind>]</trd>
   <trd lng="nl">ham</trd>
   <trd lng="pl">szynka</trd>
   <trdgrp lng="pt">
@@ -95,6 +94,10 @@
   </trdgrp>
   <trd lng="ru">&c_v;&c_je;&c_t;&c_ch;&c_i;&c_n;&c_a;</trd>
   <trd lng="sv">skinka</trd>
+  <trdgrp lng="uk">
+    <trd>&#x448;&#x438;&#x43D;&#x43A;&#x430;</trd>,
+    <trd>&#x43E;&#x43A;&#x456;&#x441;&#x442;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

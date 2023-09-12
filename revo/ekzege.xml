@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ekzege.xml,v 1.13 2009/10/24 16:32:52 revo Exp $">
+<art mrk="$Id: ekzege.xml,v 1.22 2023/08/31 11:49:28 revo Exp $">
 <kap>
   <rad>ekzegez</rad>/o
   <fnt>Z</fnt>
@@ -21,8 +20,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="&Monato;/2010/009999.php"
-              >Interlingvo: komparo inter du solvoj</url></vrk>
+          <vrk><url ref="&Monato;/2010/009999.php">Interlingvo: komparo inter du solvoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -30,8 +28,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gerrit Berveling</aut>
-          <vrk><url ref="&Monato;/2010/010110.php"
-              >Geja paro en Malavio</url></vrk>
+          <vrk><url ref="&Monato;/2010/010110.php">Geja paro en Malavio</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -39,8 +36,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="&Monato;/2008/009298.php"
-              >Orient-azia itinero</url></vrk>
+          <vrk><url ref="&Monato;/2008/009298.php">Orient-azia itinero</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -60,6 +56,11 @@
     <trd>exeg&eacute;zis</trd>,
     <trd>sz&ouml;vegmagyar&aacute;zat</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x91C8;&#x7FA9;  [<ind>&#x3057;&#x3083;&#x304F;&#x304E;</ind>]</trd>,
+    <trd>&#x6CE8;&#x91C8;  [<ind>&#x3061;&#x3085;&#x3046;&#x3057;&#x3083;&#x304F;</ind>]</trd>,
+    <trd>&#x89E3;&#x91C8;  [<ind>&#x304B;&#x3044;&#x3057;&#x3083;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">egzegeza</trd>
   <trd lng="pt">exegese</trd>
   <trd lng="ru">&c_t;&c_o;&c_l;&c_k;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
@@ -67,6 +68,10 @@
     <trd>exeg&eacute;za</trd>,
     <trd>vysvetlenie</trd>,
     <trd>v&yacute;klad textu</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x435;&#x43A;&#x437;&#x435;&#x433;&#x435;&#x437;&#x430;</trd>,
+    <trd>&#x442;&#x43B;&#x443;&#x43C;&#x430;&#x447;&#x435;&#x43D;&#x43D;&#x44F; (&#x442;&#x435;&#x43A;&#x441;&#x442;&#x443;)</trd>
   </trdgrp>
 </drv>
 
@@ -78,14 +83,13 @@
       Fakulo pri <tld/>o, speciale pri <tld/>o de la Biblio:
       <ekz>
         Jozefo prenis la knabeton kaj lian patrinon nokte, kaj migris en Egiptujon
-        <klr>[&#8230;]</klr>, <tld/>istoj kaj pentristoj el tiu teksto formis en la menso
+        <klr>[&#x2026;]</klr>, <tld/>istoj kaj pentristoj el tiu teksto formis en la menso
         de la kredema popolo preska&ubreve; idilian scenon: sub steloplena &ccirc;ielo Sankta
         Jozefo migras kviete tra nokta pejza&gcirc;o
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref="&Monato;/2015/011579.php"
-              >Jesuo fu&gcirc;as en Egiption, kiel anka&ubreve; aliaj nun fu&gcirc;as</url></vrk>
+          <vrk><url ref="&Monato;/2015/011579.php">Jesuo fu&gcirc;as en Egiption, kiel anka&ubreve; aliaj nun fu&gcirc;as</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -104,11 +108,13 @@
   <trd lng="en">exegete</trd>
   <trd lng="fa">&a_m;&a_f;&a_s;&a_r;</trd>
   <trd lng="fr">ex&eacute;g&egrave;te</trd>
+  <trd lng="he">&#x5E4;&#x5E8;&#x5E9;&#x5DF;</trd>
   <trdgrp lng="hu">
     <trd>exeg&eacute;ta</trd>,
     <trd>bibliamagyar&aacute;z&oacute;</trd>,
     <trd>sz&ouml;vegmagyar&aacute;z&oacute;</trd>
   </trdgrp>
+  <trd lng="ja">&#x91C8;&#x7FA9;&#x5B66;&#x8005;  [<ind>&#x91C8;&#x7FA9;&#x304C;&#x304F;&#x3057;&#x3083;</ind>]</trd>
   <trd lng="pl">egzegeta</trd>
   <trdgrp lng="ru">
     <trd>&c_e;&c_k;&c_z;&c_je;&c_g;&c_je;&c_t;</trd>,
@@ -116,6 +122,7 @@
     <trd>&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_r;&c_je;&c_t;&c_a;&c_t;&c_o;&c_r;</trd>
   </trdgrp>
   <trd lng="sk">exeg&eacute;t</trd>
+  <trd lng="uk">&#x435;&#x43A;&#x437;&#x435;&#x433;&#x435;&#x442;</trd>
 </drv>
 </art>
 <!--

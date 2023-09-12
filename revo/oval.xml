@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: oval.xml,v 1.26 2020/02/15 10:10:23 revo Exp $">
+<art mrk="$Id: oval.xml,v 1.30 2023/09/03 07:12:35 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>oval</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -34,12 +33,14 @@
     <trd>ov&aacute;lis</trd>,
     <trd>toj&aacute;sg&ouml;rbe</trd>
   </trdgrp>
+  <trd lng="ja">&#x5375;&#x5F62;&#x7DDA;  [<ind>&#x3089;&#x3093;&#x3051;&#x3044;&#x305B;&#x3093;</ind>]</trd>
   <trd lng="nl">ovaal</trd>
   <trd lng="pl">owal</trd>
   <trd lng="pt">oval</trd>
   <trd lng="ru">&c_o;&c_v;&c_a;&c_l;</trd>
   <trd lng="sk">ov&aacute;l</trd>
   <trd lng="cs">ov&aacute;l</trd>
+  <trd lng="uk">&#x43E;&c_v;&c_a;&#x43B;</trd>
 </drv>
 
 <drv mrk="oval.0a">
@@ -60,12 +61,20 @@
     <trd>obl&yacute;</trd>,
     <trd>ov&aacute;ln&yacute;</trd>
   </trdgrp>
-  <trd lng="de">oval</trd>
+    <trdgrp lng="de">
+      <trd>oval</trd>,
+      <trd>eif&ouml;rmig</trd>,
+      <trd>eirund</trd>
+    </trdgrp>
   <trd lng="en">oval</trd>
   <trd lng="fr">ovale<klr tip="ind"> (adj.)</klr></trd>
   <trdgrp lng="hu">
     <trd>ov&aacute;lis</trd>,
     <trd>toj&aacute;sdad</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5375;&#x5F62;&#x7DDA;&#x306E;  [<ind>&#x3089;&#x3093;&#x3051;&#x3044;&#x305B;&#x3093;&#x306E;</ind>]</trd>,
+    <trd>&#x5375;&#x5F62;&#x306E;  [<ind>&#x3089;&#x3093;&#x3051;&#x3044;&#x306E;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">ovaal</trd>
   <trd lng="pt">oval</trd>
@@ -74,6 +83,7 @@
     <trd>obl&yacute;</trd>,
     <trd>ov&aacute;lny</trd>
   </trdgrp>
+  <trd lng="uk">&#x43E;&c_v;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="oval.kartezia0o">
@@ -84,9 +94,8 @@
     <dif>
       Ebena <ref tip="super" cel="kurb.0o.MAT">kurbo</ref>,
       konsistanta el &ccirc;iuj tiaj punktoj <frm am="M">M</frm>, ke
-      <frm am="ar+br&#8242;=c"
-      ><k>a</k><k>r</k>+<k>b</k><k>r'</k> = <k>c</k></frm>, kie
-      <frm am="r"><k>r</k></frm> kaj <frm am="r&#8242;"><k>r'</k></frm>      
+      <frm am="ar+br&minute;=c"><k>a</k><k>r</k>+<k>b</k><k>r'</k> = <k>c</k></frm>, kie
+      <frm am="r"><k>r</k></frm> kaj <frm am="r&minute;"><k>r'</k></frm>      
       respektive signas la distancojn de <frm am="M">M</frm> al 
       du fiksaj punktoj <klr>(la fokusoj
       de la kurbo)</klr> kaj <frm am="a,b,c"><k>a</k>, <k>b</k>,
@@ -105,6 +114,7 @@
       <ctl>kartezia</ctl>, kiu ja aperas aliloke.
     </rim>
   </snc>
+  <trd lng="be">&c_a;&c_v;&c_a;&c_l; &c_D;&c_e;&c_k;&c_a;&c_r;&c_t;&c_a;</trd>
   <trd lng="br">ovalenn Descartes</trd>
   <trd lng="ca">oval de Descartes</trd>
   <trd lng="de">Descartessches <ind>Oval</ind></trd>
@@ -116,7 +126,13 @@
 </drv>
 </art>
 <!--
-$Log: oval.xml,v $
+$Log$
+versio 1.29 2022/12/28 21:25:07
+Ulrich Fellmann: ovala: +2 pliaj DE trdj
+
+versio 1.28 2022/05/06 06:39:57
+Dmitri Gabinski: + trd be
+
 versio 1.26 2020/02/15 10:10:23
 Wolfram Diestel: formuloj per am
 
@@ -133,11 +149,5 @@ Revision 1.22  2010/01/18 17:31:51  revo
 Russ Williams: +trd en
 
 Revision 1.21  2007/07/22 16:30:50  revo
-Jeromo Vasxe: + 1 ekz
-
-Revision 1.20 2007/06/05 16:31:06 revo
-Wieland Pusch: +trd de
-
-Revision 1.19 2006/01/12 21:53:41 revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: asembl.xml,v 1.6 2010/05/02 16:31:08 revo Exp $">
+<art mrk="$Id: asembl.xml,v 1.18 2023/08/30 18:23:37 revo Exp $">
    <kap>
      <rad>asembl</rad>/i
    </kap>
@@ -26,6 +25,10 @@
        <trd>asemblowa&cacute;</trd>,
        <trd><ind>kompilowa&cacute;</ind> kod asemblera</trd>
      </trdgrp>
+     <trdgrp lng="ro">
+       <trd>asambla</trd>,
+       <trd>compila codul de asamblare</trd>
+     </trdgrp>
      <trdgrp lng="ru">
        <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol; 
 <klr>(&c_s; &c_ja;&c_z;&c_y;&c_k;&c_a; 
@@ -35,7 +38,14 @@
    </snc>
   <trd lng="cs">p&rcaron;elo&zcaron;it do strojov&eacute;ho jazyka</trd>
   <trd lng="de">assemblieren</trd>
+  <trd lng="es">compilar<klr> (desde c&oacute;digo fuente a c&oacute;digo m&aacute;quina)</klr></trd>
+  <trdgrp lng="he">
+    <trd>&lamed;&alef;&samekh;&vav;&fpe;</trd>,
+    <trd>&lamed;&kaf;&nun;&samekh;</trd>
+  </trdgrp>
   <trd lng="sk">prelo&zcaron;i&tcaron; do strojov&eacute;ho jazyka</trd>
+  <trd lng="uk">&c_ib;&#x43D;&c_f;&#x43E;&c_r;&#x43C;.&#xA0;&#x43F;&c_je;&c_r;&c_je;&#x43A;&#x43B;&c_a;&c_d;&c_a;&c_t;&c_i; &#x43D;&c_a;
+  &#x43C;&c_a;&c_sh;&c_i;&#x43D;&#x43D;&c_u; &#x43C;&#x43E;&c_v;&c_u;</trd>
 </drv>
 
  <drv mrk="asembl.0ilo">
@@ -53,6 +63,10 @@
       </ekz>
      </dif>
      <trd lng="en">assembler</trd>
+     <trdgrp lng="es">
+       <trd>ensamblador<klr> (programa para traducir c&oacute;digo ensamblador)</klr></trd>,
+       <trd>compilador</trd>
+     </trdgrp>
      <trdgrp lng="fa">
        <trd>&a_A;&a_s;&a_m;&a_b;&a_l;&a_r;</trd>,
        <trd>&a_h;&a_m;&f_g;&a_dh;&a_A;&a_r;</trd>
@@ -67,6 +81,7 @@
        <trd>assemblatore<klr> (inf.)</klr></trd>
       </trdgrp>
       <trd lng="pl">asembler</trd>
+      <trd lng="ro">asamblator</trd>
      <trd lng="ru">&c_a;&c_s;&c_s;&c_je;&c_m;&c_b;&c_l;&c_je;&c_r;</trd>
      <trd lng="sk">asembler</trd>
    </snc>
@@ -75,10 +90,13 @@
     <trd>p&rcaron;eklada&ccaron;</trd>
   </trdgrp>
   <trd lng="de">Assembler</trd>
-   <trd lng="sk">preklada&ccaron; do stroj. jazyka</trd>
+   <trd lng="he">&he;&#x5B7;&resh;&kaf;&#x5BC;&#x5B8;&bet;&#x5B8;&he;</trd>
+  <trd lng="ja">&#x30A2;&#x30BB;&#x30F3;&#x30D6;&#x30E9;</trd>
+  <trd lng="sk">preklada&ccaron; do stroj. jazyka</trd>
+  <trd lng="uk">&c_a;&c_s;&c_je;&#x43C;&c_b;&#x43B;&c_je;&c_r;</trd>
 </drv>
 
-<drv mrk="asembl.0a.lingvo">
+<drv mrk="asembl.0a_lingvo">
   <kap><tld/>a lingvo,
     <var><kap><tld/>a kodo</kap></var>
   </kap>
@@ -89,7 +107,8 @@
       indikon de la komandoj kaj de adresoj, oni rajtas uzi
       mnemonikajn simbolojn:
       <ekz>
-        &ccirc;iu procesora arkitekturo havas sian propran ma&scirc;inan lingvon, kaj tial propran <tld/>an lingvon
+        &ccirc;iu procesora arkitekturo havas sian propran ma&scirc;inan lingvon, kaj tial propran <tld/>an
+        lingvon
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=9143">Asembla lingvo</url></lok>
@@ -105,6 +124,7 @@
       </ekz>
     </dif>
      <trd lng="en">assembler language</trd>
+     <trd lng="es">lenguaje ensamblador</trd>
      <trdgrp lng="fa">
        <trd>&a_z;&a_b;&a_A;&a_n; &a_A;&a_s;&a_m;&a_b;&a_l;&f_y;</trd>,
        <trd>&a_z;&a_b;&a_A;&a_n; &a_h;&a_m;&f_g;&a_dh;&a_A;&a_r;&f_y;</trd>
@@ -115,6 +135,7 @@
      <trd lng="hu">asszembler nyelv</trd>
      <trd lng="it">assembly</trd>
      <trd lng="pl">j&eogonek;zyk <ind>asemblera</ind></trd>
+     <trd lng="ro">limbaj de  <ind>asamblare</ind></trd>
      <trdgrp lng="ru">
        <trd>&c_ja;&c_z;&c_y;&c_k; 
          <ind>&c_a;&c_s;&c_s;&c_je;&c_m;&c_b;&c_l;&c_je;&c_r;&c_a;</ind></trd>,
@@ -130,12 +151,23 @@
     <trd>Assemblersprache</trd>,
     <trd>Assemblercode</trd>
   </trdgrp>
+  <trd lng="he">&shin;&pe;&tav; &alef;&samekh;&mem;&bet;&lamed;&yod;</trd>
+  <trd lng="ja">&#x30A2;&#x30BB;&#x30F3;&#x30D6;&#x30E9;&#x8A00;&#x8A9E;  [<ind>&#x30A2;&#x30BB;&#x30F3;&#x30D6;&#x30EA;&#x3052;&#x3093;&#x3054;</ind>]</trd>
   <trd lng="sk">programovac&iacute; jazyk Assembler</trd>
 </drv>
    </art>
 
 <!--
 $Log$
+versio 1.17 2023/02/03 18:33:11
+Vito Redsky: +trd pl + trd ro
+
+versio 1.15 2021/05/09 09:56:45
+Wolfram Diestel: kor. drv@mrk
+
+versio 1.14 2021/03/21 22:10:47
+Guillermo Molleda Jimena: trd es
+
 Revision 1.11  2017/12/09 21:10:15  revo
 Wolfram Diestel: kor. ref-cel
 
@@ -149,11 +181,5 @@ Revision 1.8  2015/06/28 12:03:36  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.7  2012/02/01 15:10:10  revo
-Antonio Codazzi: +trd it
-
-Revision 1.6  2010/05/02 16:31:08  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.5  2002/09/25 16:31:52  revo
 -->
 </vortaro>

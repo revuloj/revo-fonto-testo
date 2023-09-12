@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: katastr.xml,v 1.10 2008/11/23 19:12:53 revo Exp $">
+<art mrk="$Id: katastr.xml,v 1.17 2023/09/01 13:58:57 revo Exp $">
 <kap>
-  <rad>katastr</rad>/o <fnt><bib>SPV</bib></fnt>
+  <rad>katastr</rad>/o <fnt><bib>SPV</bib></fnt>,
+  <var><kap><rad var="d">kadastr</rad>/o</kap></var>
 </kap>
 <drv mrk="katastr.0o">
-  <kap><tld/>o</kap>
-  <snc>
+  <kap><tld/>o, <var><kap><tld var="d"/>o</kap></var></kap>
+  <snc mrk="katastr.0o.JUR">
     <uzo tip="fak">JUR</uzo>
     <dif>
       <ref tip="dif" cel="regist.teren0o">Teren&middot;registro</ref>:
@@ -17,9 +17,15 @@
         Orientbohemia maro
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=391688"
-              >&Ccaron;esk&aacute; Skalice</url></lok>
-        </fnt>.
+          <lok><url ref="https://eo.wikipedia.org/?curid=391688">&Ccaron;esk&aacute; Skalice</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        por tiuj domoj li pretus pagi la valoron registritan en la bilanco (ne estas
+        konata la valoro &ccirc;e la <tld var="d"/>o, kaj probable ne ekzistas financa ekspertizo)
+        <fnt>
+          <vrk><url ref="http://www.esperantio.net/index.php?id=838">HeKo 386 9-A, 7 apr 09: OPA por La ...</url></vrk>
+        </fnt>;
       </ekz>
     </dif>
   </snc>
@@ -46,6 +52,10 @@
     <trd>telekk&ouml;nyv</trd>,
     <trd>kataszter</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5730;&#x7C4D;&#x7C3F;  [<ind>&#x3061;&#x305B;&#x304D;&#x307C;</ind>]</trd>,
+    <trd>&#x571F;&#x5730;&#x53F0;&#x5E33;  [<ind>&#x3068;&#x3061;&#x3060;&#x3044;&#x3061;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kadaster<klr tip="ind"> (register)</klr></trd>
   <trdgrp lng="pl">
   <trd>kataster</trd>,
@@ -57,6 +67,7 @@
     <trd>pozemkov&yacute; register</trd>,
     <trd>s&uacute;pis pozemkov</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&#x430;&#x434;&#x430;&#x441;&#x442;&#x440;</trd>
 </drv>
 
 <drv mrk="katastr.0ejo">
@@ -69,8 +80,7 @@
         1757 citas la Tereziana <tld/>ejo 57 komunumojn, kiujn la sinjoraro posedis
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=239872"
-              >Colloredo-Mansfeld</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=239872">Colloredo-Mansfeld</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -90,14 +100,22 @@
     <trd>katastr&aacute;ln&iacute; &uacute;zem&iacute; obce</trd>,
     <trd>obvod pozemk&uring; obce</trd>
   </trdgrp>
+  <trd lng="ja">&#x571F;&#x5730;&#x767B;&#x8A18;&#x6240;  [<ind>&#x3068;&#x3061;&#x3068;&#x3046;&#x304D;&#x3057;&#x3087;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>kataster</trd>,
     <trd>katastr&aacute;lne &uacute;zemie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x434;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x432;&#x435; &#x443;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x456;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43A;&#x430;&#x434;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x432;&#x430; &#x430;&#x434;&#x43C;&#x456;&#x43D;&#x456;&#x441;&#x442;&#x440;&#x430;&#x446;&#x456;&#x44F;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.15 2020/12/02 18:37:14
+Wolfram Diestel: +var, +ekz
+
 Revision 1.13  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

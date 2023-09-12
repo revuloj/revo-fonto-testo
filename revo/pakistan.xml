@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: pakistan.xml,v 1.17 2020/02/27 16:10:22 revo Exp $">
+<art mrk="$Id: pakistan.xml,v 1.24 2023/09/03 12:45:03 revo Exp $">
 <kap>
   <ofc>8</ofc><rad>Pakistan</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,32 +26,32 @@
       kaj kun Araba Maro;
       kun &ccirc;efurbo <ref tip="prt" cel="islamabad.0o">Islamabado</ref>:
       <ekz>
-        grupo el <tld/>o &#8208; &ccirc;i-foje komercistoj kun validaj vizoj &#8208; estis
+        grupo el <tld/>o &#x2010; &ccirc;i-foje komercistoj kun validaj vizoj &#x2010; estis
         malliberigita dum
         tuta semajno, &ccirc;ar oni senbaze kredis ilin kontra&ubreve;le&gcirc;aj
         enmigrantoj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007319.html">Ne tiom
-          negative ...</url></vrk>
-        </fnt>;
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2001/007319.php">Ne tiom negative ...</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 14</lok>
+          </fnt>;
       </ekz>
       <ekz>
-        amasdetruajn armilojn <esc>tutcerte</esc> posedas <klr>[&#8230;]</klr>
+        amasdetruajn armilojn <esc>tutcerte</esc> posedas <klr>[&#x2026;]</klr>
         ekzemple Nord-Koreio,
-        same <tld/>o kaj Hindio, Rusio kaj Israelo <klr>[&#8230;]</klr>
+        same <tld/>o kaj Hindio, Rusio kaj Israelo <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2003/008114.html">Papo
+          <vrk><url ref="&Monato;/2003/008114.html">Papo
           kontra&ubreve; kristano</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_P;&c_a;&c_k;&c_ib;&c_s;&c_t;&c_a;&c_n;</trd>
+  <trd lng="bo">&#xF54;&#xF0B;&#xF40;&#xF72;&#xF0B;&#xF66;&#xF72;&#xF0B;&#xF4F;&#xF53;&#xF0B;</trd>
   <trdgrp lng="ca">
     <trd>el Pakistan</trd>,
     <trd>Rep&uacute;blica Isl&agrave;mica del Pakistan</trd>
@@ -66,12 +65,14 @@
   </trdgrp>
   <trd lng="id">Pakistan</trd>
   <trd lng="it">Pakistan</trd>
+  <trd lng="ja">&#x30D1;&#x30AD;&#x30B9;&#x30BF;&#x30F3;  [<ind>&#x3071;&#x304D;&#x3059;&#x305F;&#x3093;</ind>]</trd>
   <trd lng="nl">Pakistan</trd>
   <trdgrp lng="pl">
     <trd>Pakistan</trd>,
     <trd>Islamska Republika <ind>Pakistanu</ind></trd>
   </trdgrp>
   <trd lng="pt">Paquist&atilde;o</trd>
+  <trd lng="uk">&#x41F;&c_a;&#x43A;&c_i;&c_s;&c_t;&c_a;&#x43D;</trd>
   <trd lng="vo">Pakist&auml;n</trd>
 </drv> 
 
@@ -85,15 +86,15 @@
         <nom>Nenagh</nom>, 
         estas insultitaj en trinkejo: la nazo de unu estis rompita
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007319.html">Ne tiom
-          negative ...</url></vrk>
-        </fnt>.
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2001/007319.php">Ne tiom negative ...</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 14</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_ib;&c_s;&c_t;&c_a;&c_n;&c_s;&c_k;&c_ib;</trd>
   <trd lng="de">pakistanisch</trd>
   <trd lng="en">Pakistani</trd>
   <trdgrp lng="fr">
@@ -121,6 +122,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_ib;&c_s;&c_t;&c_a;&c_n;&c_je;&c_c;</trd>
   <trdgrp lng="de">
     <trd>Pakistaner</trd>,
     <trd>Pakistanerin</trd>,
@@ -141,7 +143,19 @@
 </art>
 
 <!--
-$Log: pakistan.xml,v $
+$Log$
+versio 1.23 2023/05/01 07:25:18
+Paul Peeraerts: Steloj -> monato
+
+versio 1.22 2022/05/01 17:51:18
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2021/06/17 06:38:33
+Dmitri Gabinski: kor de trd be
+
+versio 1.18 2021/04/26 07:05:18
+Dmitri Gabinski: +trd be
+
 versio 1.17 2020/02/27 16:10:22
 Robin van der Vliet: +trd, koherigo kun aliaj landoartikoloj
 
@@ -152,16 +166,5 @@ Revision 1.15  2019/06/30 07:43:29  revo
 adaptis URL de Monato
 
 Revision 1.14  2018/08/24 14:10:14  revo
-Wolfram Diestel: +ekz-oj, RLN, germ trd-oj
-
-Revision 1.13  2018/08/06 19:10:54  revo
-Michel Cantigneaux: aperas unue en PIV1 (1970), oficiala en 8OA (1974)
-
-Revision 1.12  2017/12/22 23:10:25  revo
-Michel Cantigneaux: Pli bonaj indikoj pri 8a Oficiala Aldono kaj 12a Of.
-Inf. (/an(in)o + /a)
-
-Revision 1.11  2014/06/06 16:10:18  revo
-Eko Nur Syah Hidayat: +id
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dens.xml,v 1.51 2020/02/14 00:10:24 revo Exp $">
+<art mrk="$Id: dens.xml,v 1.61 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>dens</rad>/a <fnt><bib>PV</bib></fnt>
@@ -95,8 +94,7 @@
       de <ref cel="spac.topologia0o">topologia spaco</ref>, rilate
       al subaro <frm><g>B</g></frm> de la sama spaco)</klr>
       Tia, ke &ccirc;iu <ref cel="punkt.0o.spaco">punkto</ref>
-      en <frm><g>B</g></frm> estas <ref
-      cel="adher.0a.punkto">adhera</ref>
+      en <frm><g>B</g></frm> estas <ref cel="adher.0a.punkto">adhera</ref>
       al <frm><g>A</g></frm>:
       <ekz>
         &ccirc;iu subaro estas <tld/>a rilate al si mem;
@@ -104,9 +102,7 @@
       <ekz>
         <frm><g>A</g></frm> estas <tld/>a rilate al <frm><g>B</g></frm>,
               
-        se kaj nur se la <ref
-              
-        cel="adher.0ajxo.MAT">adhera&jcirc;o</ref> 
+        se kaj nur se la <ref cel="adher.0ajxo.MAT">adhera&jcirc;o</ref> 
         de <frm><g>A</g></frm> inkluzivas <frm><g>B</g></frm>;
       </ekz>
       <ekz>
@@ -154,8 +150,22 @@
     <trd>&c_ch;&c_a;&c_s;&c_t;&c_y;</trd>
   </trdgrp>
   <trd lng="cs">hust&yacute;</trd>
+  <trd lng="he">&#x5E6;&#x5B8;&#x5E4;&#x5D5;&#x5BC;&#x5E3;</trd>
   <trd lng="hu">s&udblac;r&udblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6FC3;&#x3044;  [<ind>&#x3053;&#x3044;</ind>]</trd>,
+    <trd>&#x6FC3;&#x5BC6;&#x306A;  [<ind>&#x306E;&#x3046;&#x307F;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x5BC6;&#x96C6;&#x3057;&#x305F;  [<ind>&#x307F;&#x3063;&#x3057;&#x3085;&#x3046;&#x3057;&#x305F;</ind>]</trd>,
+    <trd>&#x5BC6;&#x751F;&#x3057;&#x305F;  [<ind>&#x307F;&#x3063;&#x305B;&#x3044;&#x3057;&#x305F;</ind>]</trd>,
+    <trd>&#x8089;&#x4E57;&#x308A;&#x306E;&#x3088;&#x3044;  [<ind>&#x306B;&#x304F;&#x306E;&#x308A;&#x306E;&#x3088;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">hust&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_u;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>(&#x43F;&c_r;&#x43E; &c_t;&c_ib;&#x43B;&#x43E;) &#x43A;&#x43E;&c_r;&c_je;&#x43D;&c_a;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&#x43A;&c_r;&c_je;&#x43C;&c_je;&c_z;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dens.0e">
@@ -166,7 +176,7 @@
     <dif>
       En <tld/>a maniero, aran&gcirc;o:
       <ekz>
-        &scirc;i <klr>[&#8230;]</klr> metis la kotonon pli <tld/>e &ccirc;irka&ubreve; la
+        &scirc;i <klr>[&#x2026;]</klr> metis la kotonon pli <tld/>e &ccirc;irka&ubreve; la
         hirundon
         <fnt>
           <bib>Fab1</bib>
@@ -181,7 +191,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        ili <klr>[estis]</klr> starigataj en vicoj <klr>[&#8230;]</klr> tiel
+        ili <klr>[estis]</klr> starigataj en vicoj <klr>[&#x2026;]</klr> tiel
         <tld/>e, ke ili
         ne povis movi la brakojn
         <fnt>
@@ -215,8 +225,14 @@
         vesto <tld/>e brodita per oro
         <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 10a</lok></fnt>.
       </ekz>
-    </dif>
+      </dif>
+      <trd lng="fr">dens&eacute;ment</trd>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x6FC3;&#x304F;  [<ind>&#x3053;&#x304F;</ind>]</trd>,
+    <trd>&#x304E;&#x3063;&#x3057;&#x308A;&#x3068;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_g;&c_u;&c_s;&c_t;&#x43E;</trd>
 </drv>
 
 
@@ -228,11 +244,10 @@
       <ekz>
         sen&ccirc;ese kreskanta flugtrafika <tld/>o
         <fnt>
-          <bib>Monato</bib>
-          <aut>Pejno Simono</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007219.html">Prefere
-          pakete</url></vrk>
+          <aut>Pejno Simono</aut>:
+          <vrk><url ref="&amp;Monato/2001/007219.html">Prefere pakete</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2001/02, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -240,7 +255,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.be/2012/010536.php">Magio
+          <vrk><url ref="&Monato;/2012/010536.php">Magio
           kaj mistero</url></vrk>
           <lok>2012</lok>
         </fnt>.
@@ -249,8 +264,8 @@
     <trd lng="fr">densit&eacute;</trd>
     <trdgrp lng="id">
       <trd>densitas</trd>,
-      <trd>[<ind>padat</ind>] kepadatan</trd>,
-      <trd>[<ind>rapat</ind>] kerapatan</trd>
+      <trd>ke<ind>padat</ind>an</trd>,
+      <trd>ke<ind>rapat</ind>an</trd>
     </trdgrp>
     <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>
@@ -268,7 +283,7 @@
     </trdgrp>
     <trdgrp lng="id">
       <trd><ind>massa</ind> jenis</trd>,
-      <trd>[<ind>rapat</ind>] kerapatan</trd>
+      <trd>ke<ind>rapat</ind>an</trd>
     </trdgrp>
     <trd lng="pl">g&eogonek;sto&sacute;&cacute;</trd>
   </snc>
@@ -281,8 +296,8 @@
       esprimanta la <ref cel="rilat.0o.kvociento">rilaton</ref> de la
       <ref cel="mas.0o">maso</ref> de
       difinita <ref cel="volume.0o">volumeno</ref> de la substanco al
-      la maso de sama volumeno da pura akvo (je 4&#8239;&#730;C), a&ubreve;
-      da aero (je 0&#8239;&#730;C kaj <frm>1&#8239;atm</frm>), se temas pri gaso:
+      la maso de sama volumeno da pura akvo (je 4&#x202F;&#x2DA;C), a&ubreve;
+      da aero (je 0&#x202F;&#x2DA;C kaj <frm>1&#x202F;atm</frm>), se temas pri gaso:
       <ekz>
         la <tld/>o de hidrargo estas 13,6;
       </ekz>
@@ -314,7 +329,7 @@
     </klr></trd>
      <trdgrp lng="id">
       <trd><ind>massa</ind> jenis</trd>,
-      <trd>[<ind>rapat</ind>] kerapatan</trd>
+      <trd>ke<ind>rapat</ind>an</trd>
     </trdgrp>
     <trd lng="pl">g&eogonek;sto&sacute;&cacute;</trd>
     <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja;
@@ -325,6 +340,8 @@
     <trd>intenzita</trd>
   </trdgrp>
   <trd lng="de">Dichte</trd>
+  <trd lng="he">&#x5E6;&#x5E4;&#x5D9;&#x5E4;&#x5D5;&#x5EA;</trd>
+  <trd lng="ja">&#x6FC3;&#x5BC6;  [<ind>&#x306E;&#x3046;&#x307F;&#x3064;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>hustota</trd>,
     <trd>intenzita</trd>
@@ -338,7 +355,7 @@
     <dif>
       <ref tip="dif" cel="dens.0ejo.HOR">Densejo</ref>:
       <ekz>
-        <esc>volvekreska&jcirc;oj</esc> <klr>[&#8230;]</klr> ligitaj en ne
+        <esc>volvekreska&jcirc;oj</esc> <klr>[&#x2026;]</klr> ligitaj en ne
         malimplikeblan <tld/>a&jcirc;on
         <fnt>
           <bib>Fab4</bib>
@@ -356,8 +373,7 @@
         &scirc;i freneze vagadis en la <tld/>a&jcirc;o ser&ccirc;ante sian fileton
         <fnt>
           <aut>trad. C. Sz&eacute;kely</aut>,
-          <vrk><url
-          ref="http://www.eszperanto.hu/turismo/baranya/baranya.htm">
+          <vrk><url ref="http://www.eszperanto.hu/turismo/baranya/baranya.htm">
           Baranya, la mistera</url></vrk>,
           <lok>1985</lok>
         </fnt>.
@@ -372,8 +388,7 @@
         <tld/>a&jcirc;o de akrecia substanco
         <fnt>
           <aut>I. L. Andronov</aut>,
-          <vrk><url
-          ref="http://www.eventoj.hu/steb/astronomio/stelo/stelo.htm">
+          <vrk><url ref="&STEB;astronomio/stelo/stelo.htm">
           La Strukturo de Magnetaj Malvastaj Duoblaj Stelaj
           Sistemoj</url></vrk>,
           <lok>1989</lok>
@@ -388,6 +403,19 @@
       <trd>amas</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="he">
+    <trd>&#x5E6;&#x5B0;&#x5E4;&#x5B4;&#x5D9;&#x5E4;&#x5D5;&#x5BC;&#x5EA;</trd>,
+    <trd>&#x5E1;&#x5D1;&#x5DA;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd/>,
+    <trd>&#x8302;&#x307F;  [<ind>&#x3057;&#x3052;&#x307F;</ind>]</trd>,
+    <trd>&#x6FC3;&#x3044;&#x90E8;&#x5206;  [<ind>&#x3053;&#x3044;&#x3076;&#x3076;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_u;&c_shch;&c_a;&c_v;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&c_g;&c_u;&c_shch;&c_i;&#x43D;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dens.0eco">
@@ -396,8 +424,8 @@
     <dif>
       Eco de tio, kio estas <tld/>a:
       <ekz>
-        vento <klr>[&#8230;]</klr> alportis de la maro koturnojn kaj &jcirc;etis
-        ilin <klr>[&#8230;]</klr>
+        vento <klr>[&#x2026;]</klr> alportis de la maro koturnojn kaj &jcirc;etis
+        ilin <klr>[&#x2026;]</klr>
         &ccirc;irka&ubreve; la tendaro kaj en <tld/>eco de du ulnoj super la tero
         <fnt>
           <bib>MT</bib>
@@ -407,11 +435,10 @@
       <ekz>
         harara <tld/>eco &ccirc;e la kolo
         <fnt>
+       <aut>Jean-Yves Santerre</aut>
+          <vrk><url ref="&Monato;/2000/006864.php">&Ccirc;evalrasoj</url></vrk>
           <bib>Monato</bib>
-          <aut>Jean-Yves Santerre</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006864.html">Dombestoj:
-          &Ccirc;evalrasoj</url></vrk>
+          <lok>2000/05, p. 18</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -419,8 +446,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>DJ Cane</aut>
-          <vrk><url
-          ref="https://www.monato.be/2012/010564.php">Monfalsada
+          <vrk><url ref="&Monato;/2012/010564.php">Monfalsada
           ekonomio</url></vrk>
           <lok>2012</lok>
         </fnt>;
@@ -430,18 +456,18 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.be/2004/008110.html">Longe
+          <vrk><url ref="&Monato;/2004/008110.html">Longe
           atendata &ccirc;efverko</url></vrk>
           <lok>2004</lok>
         </fnt>;
       </ekz>
       <ekz>
-        en la municipo &Scirc;anhajo la <tld/>eco estas 37&#8239;000 homoj je
+        en la municipo &Scirc;anhajo la <tld/>eco estas 37&#x202F;000 homoj je
         kvadrata kilometro
         <fnt>
           <bib>Monato</bib>
           <aut>Mu Binghua</aut>
-          <vrk><url ref="https://www.monato.be/2004/008325.html">Kvin
+          <vrk><url ref="&Monato;/2004/008325.html">Kvin
           defioj por &ccirc;inaj urboj</url></vrk>
           <lok>2004</lok>
         </fnt>;
@@ -449,11 +475,11 @@
       <ekz>
         la avera&gcirc;a <tld/>eco de aeraj partikloj en Tokio en 1973
         kalkuli&gcirc;is al
-        0,101&#8239;mg/m<sup>3</sup>
+        0,101&#x202F;mg/m<sup>3</sup>
         <fnt>
           <bib>Monato</bib>
           <aut>Isikawa Takasi</aut>
-          <vrk><url ref="https://www.monato.be/2013/011050.php">Monto
+          <vrk><url ref="&Monato;/2013/011050.php">Monto
           Fu&jcirc;i</url></vrk>
           <lok>2013</lok>
         </fnt>.
@@ -465,8 +491,8 @@
     </trdgrp>
     <trdgrp lng="id">
       <trd>densitas</trd>,
-      <trd>[<ind>padat</ind>] kepadatan</trd>,
-      <trd>[<ind>rapat</ind>] kerapatan</trd>
+      <trd>ke<ind>padat</ind>an</trd>,
+      <trd>ke<ind>rapat</ind>an</trd>
     </trdgrp>
   </snc>
   <snc mrk="dens.0eco.FIZ">
@@ -475,7 +501,7 @@
     <ref tip="dif" cel="dens.0o.volumena_maso"><tld/>o <sncref/></ref>
     <trdgrp lng="id">
       <trd><ind>massa</ind> jenis</trd>,
-      <trd>[<ind>rapat</ind>] kerapatan</trd>
+      <trd>ke<ind>rapat</ind>an</trd>
     </trdgrp>
     <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>
@@ -492,12 +518,22 @@
   <trd lng="de">Dichte</trd>
   <trd lng="es">densidad</trd>
   <trd lng="fr">densit&eacute;</trd>
+  <trd lng="he">&#x5E6;&#x5B0;&#x5E4;&#x5B4;&#x5D9;&#x5E4;&#x5D5;&#x5BC;&#x5EA;</trd>
   <trd lng="hu">s&udblac;r&udblac;s&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6FC3;&#x3055;  [<ind>&#x3053;&#x3055;</ind>]</trd>,
+    <trd>&#x6FC3;&#x5BC6;&#x3055;  [<ind>&#x306E;&#x3046;&#x307F;&#x3064;&#x3055;</ind>]</trd>,
+    <trd>&#x5BC6;&#x5EA6;  [<ind>&#x307F;&#x3064;&#x3069;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">dichtheid</trd>
   <trd lng="pl">g&eogonek;sto&sacute;&cacute;</trd>
   <trdgrp lng="sk">
     <trd>hustota</trd>,
     <trd>intenzita</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_g;&c_u;&c_s;&c_t;&#x43E;&c_t;&c_a;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_t;&#x43E;&c_t;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -538,13 +574,25 @@
     <trd>fourr&eacute;</trd>,
     <trd>endroit <ind>touffu</ind></trd>
   </trdgrp>
+  <trdgrp lng="he">
+    <trd>&#x5E1;&#x5D1;&#x5DA;</trd>,
+    <trd>&#x5DE;&#x5E7;&#x5D5;&#x5DD; &#x5E6;&#x5E4;&#x5D5;&#x5E3;</trd>
+  </trdgrp>
   <trd lng="hu">erd&odblac; s&udblac;r&udblac;je</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8302;&#x307F;  [<ind>&#x3057;&#x3052;&#x307F;</ind>]</trd>,
+    <trd>&#x3084;&#x3076;</trd>
+  </trdgrp>
   <trdgrp lng="pl">
   	<trd>g&eogonek;stwina</trd>,
     <trd>g&aogonek;szcz</trd>
   </trdgrp>
   <trd lng="ru">&c_ch;&c_a;&c_shch;&c_a;</trd>
   <trd lng="sk">h&uacute;&scaron;tina</trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_a;&c_shch;&c_a;</trd>,
+    <trd>&c_s;&#x43F;&c_je;&c_c;. &#x43C;&c_ib;&c_s;&c_c;&c_je; &c_z;&c_g;&c_u;&c_shch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dens.0igi">
@@ -569,7 +617,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Anatoli Ionesov</aut>
-          <vrk><url ref="https://www.monato.be/2006/008920.php">Perlo &ccirc;e
+          <vrk><url ref="&Monato;/2006/008920.php">Perlo &ccirc;e
           la Silka Vojo</url></vrk>
           <lok>2006</lok>
         </fnt>;
@@ -581,7 +629,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Werner Fuss</aut>
-          <vrk><url ref="https://www.monato.be/2014/011348.php">Novtipa
+          <vrk><url ref="&Monato;/2014/011348.php">Novtipa
           gasminado: &ccirc;u vere dan&gcirc;era?</url></vrk>
           <lok>2014</lok>
         </fnt>.
@@ -597,7 +645,7 @@
       <trd>resserrer</trd>
     </trdgrp>
     <trd lng="hu">s&udblac;r&iacute;t</trd>
-    <trd lng="id">[<ind>padat</ind>] memadatkan</trd>
+    <trd lng="id"><baz>padat</baz> memadatkan</trd>
     <trd lng="nl">verdichten</trd>
     <trdgrp lng="pl">
       <trd>zag&eogonek;szcza&cacute;</trd>,
@@ -621,8 +669,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url
-          ref="https://www.monato.be/2005/008659.php">OpenOffice:
+          <vrk><url ref="&Monato;/2005/008659.php">OpenOffice:
           senpaga alternativo por Microsoft Office</url></vrk>
           <lok>2005</lok>
         </fnt>;
@@ -632,14 +679,14 @@
         &leftquot;<nac>deflate</nac>&rightquot;
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref="http://eo.wikipedia.org/wiki/Gzip">
+          <lok><url ref="&Viki;/Gzip">
           Gzip</url>, 2013-03-07</lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">packen <klr>(Daten)</klr></trd>
     <trd lng="fr">compresser<klr> (des donn&eacute;es)</klr></trd>
-    <trd lng="id">[<ind>kompresi</ind>] mengompresi</trd>
+    <trd lng="id"><baz>kompresi</baz> mengompresi</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>hustit</trd>,
@@ -647,7 +694,18 @@
     <trd>zahu&scaron;&tcaron;ovat</trd>
   </trdgrp>
   <trd lng="de">komprimieren</trd>
+  <trd lng="he">&#x5DC;&#x5D3;&#x5D7;&#x5D5;&#x5E1;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6FC3;&#x304F;&#x3059;&#x308B;  [<ind>&#x3053;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5BC6;&#x306B;&#x3059;&#x308B;  [<ind>&#x307F;&#x3064;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x88DC;&#x529B;&#x3059;&#x308B;  [<ind>&#x307B;&#x308A;&#x304D;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">zahusti&tcaron; <klr>(m&uacute;kou)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_g;&c_u;&c_shch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_g;&c_u;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_i;&c_s;&#x43A;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dens.0igita">
@@ -679,6 +737,7 @@
     <trd lng="de">eingedickt</trd>
   </snc>
   <trd lng="fr">concentr&eacute;<klr> (nourriture)</klr></trd>
+  <trd lng="ja">&#x6FC3;&#x7E2E;&#x3057;&#x305F;  [<ind>&#x306E;&#x3046;&#x3057;&#x3085;&#x304F;&#x3057;&#x305F;</ind>]</trd>
 </drv>
 
 <drv mrk="dens.0igxi">
@@ -703,7 +762,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la ombro <klr>[&#8230;]</klr> <tld/>i&gcirc;is minuton post minuto
+        la ombro <klr>[&#x2026;]</klr> <tld/>i&gcirc;is minuton post minuto
         <fnt>
           <aut>G. de Maupassant, trad. N. Lagrafo</aut>,
           <vrk>Hororega</vrk>,
@@ -718,7 +777,16 @@
     <trd>se <ind>densifier</ind></trd>,
     <trd>se <ind>resserrer</ind></trd>
   </trdgrp>
-  <trd lng="id">[<ind>padat</ind>] memadat</trd>
+  <trd lng="he">&#x5DC;&#x5E2;&#x5D1;&#x5D5;&#x5EA;</trd>
+  <trd lng="id"><baz>padat</baz> memadat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6FC3;&#x304F;&#x306A;&#x308B;  [<ind>&#x3053;&#x304F;&#x306A;&#x308B;</ind>]</trd>,
+    <trd>&#x5BC6;&#x96C6;&#x3059;&#x308B;  [<ind>&#x307F;&#x3063;&#x3057;&#x3085;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_g;&c_u;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_z;&c_g;&c_u;&c_shch;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dens.mal0a">
@@ -763,12 +831,19 @@
     <trd>l&acirc;che<klr tip="amb"> (peu serr&eacute;)</klr></trd>
   </trdgrp>
   <trd lng="id">renggang</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8584;&#x3044;  [<ind>&#x3046;&#x3059;&#x3044;</ind>]</trd>,
+    <trd>&#x5E0C;&#x8584;&#x306A;  [<ind>&#x304D;&#x306F;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x307E;&#x3070;&#x3089;&#x306A;</trd>,
+    <trd>&#x30B3;&#x30F3;&#x30C8;&#x30E9;&#x30B9;&#x30C8;&#x306E;&#x5F31;&#x3044;  [<ind>&#x3053;&#x3093;&#x3068;&#x3089;&#x3059;&#x3068;&#x306E;&#x3088;&#x308F;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">rzadki</trd>
   <trdgrp lng="ru">
     <trd>&c_r;&c_y;&c_h;&c_l;&c_y;&c_j;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_r;&c_je;&c_zh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trd lng="sk">riedky</trd>
+  <trd lng="uk">&c_r;&c_ib;&c_d;&#x43A;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="dens.mal0ejo">
@@ -780,8 +855,7 @@
       <ekz>
         li trovis kabanon ene de eta mal<tld/>ejo
         <fnt>
-          <vrk><url
-          ref="https://diversajaferoj.blogspot.com/2013/01/timigantajpastajoj-creepypastas.html">Diversaj
+          <vrk><url ref="https://diversajaferoj.blogspot.com/2013/01/timigantajpastajoj-creepypastas.html">Diversaj
           kaj Hazardaj a&jcirc;oj kaj Aferoj: Timigantaj Pasta&jcirc;oj
           ...</url></vrk>
         </fnt>;
@@ -789,8 +863,7 @@
       <ekz>
         bestoj kunvenis sur arbara mal<tld/>ejo
         <fnt>
-          <vrk><url
-          ref="http://esperanto.wz.cz/LEGOLIBRETO%208.pdf">Legolibreto
+          <vrk><url ref="http://esperanto.wz.cz/LEGOLIBRETO%208.pdf">Legolibreto
           VIII. Por karaj geamikoj</url></vrk>
         </fnt>;
       </ekz>
@@ -807,6 +880,8 @@
     <trd lng="de">Lichtung</trd>
   </snc>
   <trd lng="fr">clairi&egrave;re</trd>
+  <trd lng="ja">&#x7A7A;&#x304D;&#x5730;  [<ind>&#x3042;&#x304D;&#x3061;</ind>]</trd>
+  <trd lng="uk">&#x43F;&c_je;&c_r;&c_je;&#x43B;&c_ib;&c_s;&#x43E;&#x43A;</trd>
 </drv>
 
 <drv mrk="dens.mal0igi">
@@ -816,7 +891,7 @@
     <dif>
       Igi mal<tld/>a, malmultigi en la sama spaco:
       <ekz>
-        radioaktiveco <klr>[&#8230;]</klr> estas ankora&ubreve; netiminda,
+        radioaktiveco <klr>[&#x2026;]</klr> estas ankora&ubreve; netiminda,
         &ccirc;ar la granda maro mal<tld/>igos &gcirc;in
         <fnt>
           <aut>zan</aut>,
@@ -844,7 +919,7 @@
       <trd>&eacute;claircir<klr> (rendre moins dense)</klr></trd>,
       <trd>rar&eacute;fier</trd>
     </trdgrp>
-    <trd lng="id">[<ind>renggang</ind>] merenggangkan</trd>
+    <trd lng="id">me<ind>renggang</ind>kan</trd>
   </snc>
   <snc mrk="dens.mal0igi.KOMP">
     <uzo tip="fak">KOMP</uzo>
@@ -866,17 +941,24 @@
       <trd>dekomprimieren</trd>
     </trdgrp>
     <trd lng="fr">d&eacute;compresser<klr> (des donn&eacute;es)</klr></trd>
-    <trd lng="id">[<ind>dekompresi</ind>] mendekompresi</trd>
+    <trd lng="id">men<ind>dekompresi</ind></trd>
   </snc>
   <trdgrp lng="cs">
     <trd>probrat</trd>,
     <trd>z&rcaron;edit</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8584;&#x304F;&#x3059;&#x308B;  [<ind>&#x3046;&#x3059;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x307E;&#x3070;&#x3089;&#x306B;&#x3059;&#x308B;</trd>,
+    <trd>&#x9593;&#x5F15;&#x304F;  [<ind>&#x307E;&#x3073;&#x304F;</ind>]</trd>,
+    <trd>&#x6E1B;&#x529B;&#x3059;&#x308B;  [<ind>&#x3052;&#x3093;&#x308A;&#x304D;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>preriedi&tcaron;</trd>,
     <trd>riedi&tcaron;</trd>,
     <trd>zriedi&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_r;&#x43E;&c_z;&c_r;&c_ib;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="dens.mal0igxi">
@@ -912,7 +994,11 @@
     <trd>s'&eacute;carter</trd>,
     <trd>se <ind>rar&eacute;fier</ind></trd>
   </trdgrp>
-  <trd lng="id">[<ind>renggang</ind>] merenggang</trd>
+  <trd lng="id">me<ind>renggang</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8584;&#x304F;&#x306A;&#x308B;  [<ind>&#x3046;&#x3059;&#x304F;&#x306A;&#x308B;</ind>]</trd>,
+    <trd>&#x307E;&#x3070;&#x3089;&#x306B;&#x306A;&#x308B;</trd>
+  </trdgrp>
   <trd lng="pl"><ind>rozrzedza&cacute;</ind> si&eogonek;</trd>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_r;&c_je;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja;
@@ -945,15 +1031,14 @@
       <frm am="X^-1(bb b)">X<sup>-1</sup>(<g>b</g>)</frm> egalas al la
       <ref cel="integr2.lebega0o">(lebega) integralo</ref> de
       <frm am="f"><k>f</k></frm> en <frm am="bb b"><g>b</g></frm>;
-      simb. <frm am="P_X(bb b)=P(X^-1(bb b))=int_(bb b) f dmu"
-      >P<sub>X</sub>(<g>b</g>) = P(X<sup>-1</sup>(<g>b</g>)) =
-      &#8747;<sub><g>b</g></sub><k>f</k>d&my;</frm>:
+      simb. <frm am="P_X(bb b)=P(X^-1(bb b))=int_(bb b) f dmu">P<sub>X</sub>(<g>b</g>) =
+      P(X<sup>-1</sup>(<g>b</g>)) =
+      &#x222B;<sub><g>b</g></sub><k>f</k>d&my;</frm>:
       <ekz>
         probablo<tld/>a funkcio
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=87329"
-              >Probablodensa funkcio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=87329">Probablodensa funkcio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -968,35 +1053,27 @@
   <trd lng="fr">densit&eacute; de probabilit&eacute;</trd>
   <trd lng="hu">val&oacute;sz&iacute;n&udblac;s&eacute;gi 
   <ind>s&udblac;r&udblac;s&eacute;g</ind></trd>
-  <trd lng="id">[<ind>padat</ind>] kepadatan probabilitas</trd>
+  <trd lng="id">ke<ind>padat</ind>an probabilitas</trd>
   <trd lng="pl">g&eogonek;sto&sacute;&cacute; prawdopodobie&nacute;stwa<klr tip="ind"> (zmiennej
   losowej)</klr></trd>
   <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol; &c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>
 </drv>
 </art>
 <!--
-$Log: dens.xml,v $
-versio 1.51 2020/02/14 00:10:24
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.60 2023/04/26 08:31:33
+Paul Peeraerts: kor de eraraj ref
 
-Revision 1.50  2020/01/14 20:10:16  revo
-Wolfram Diestel: pliaj ekz-oj, germ trd-oj
+versio 1.59 2023/04/25 06:32:10
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.49  2020/01/14 07:10:14  revo
-Wolfram Diestel: +~e, ~a...~igi: ekz-oj
+versio 1.58 2022/04/26 17:11:47
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.48  2018/04/27 09:10:26  revo
-Jeromo Vasxe: + ~igita
+versio 1.54 2020/05/11 13:10:17
+Damien Brucker: +trd fr
 
-Revision 1.47  2015/10/24 07:10:19  revo
-Alain Gerard: + mal~ejo
-
-Revision 1.46  2015/07/04 08:37:32  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.45  2015/06/29 16:29:36  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.44  2014/06/18 16:10:13  revo
+versio 1.53 2020/05/03 05:10:36
+Eko Nur Syah Hidayat: korekteto
 -->
 </vortaro>

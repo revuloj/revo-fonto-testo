@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hajl.xml,v 1.25 2010/06/25 17:26:28 revo Exp $">
+<art mrk="$Id: hajl.xml,v 1.33 2023/08/31 15:46:13 revo Exp $">
 <kap><ofc>*</ofc> <rad>hajl</rad>/o</kap>
 
 <drv mrk="hajl.0o">
@@ -10,15 +9,50 @@
   <uzo tip="fak">MET</uzo>
   <snc>
     <dif>
-      Glacii&gcirc;inta, grajnforme dense falanta pluvo:
+      Glacii&gcirc;inta, grajnforme dense falanta <ref tip="super" cel="pluv.0o">pluvo</ref>:
+      <ekz>
+        la <tld/>o batdifektis <klr>[&#x2026;]</klr> &ccirc;ion, kio estis sur la kampo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 9:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o pasis <klr>[&#x2026;]</klr>, sed tuj poste komencis mu&gcirc;i pluvego
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        <tld/>o da kugloj<fnt>Z</fnt>.
+        larmoj <tld/>esimile &scirc;prucis el la okuloj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &scirc;ia roza viza&gcirc;o brilis de sciemo kaj <klr>[&#x2026;]</klr>, &scirc;iaj demandoj falis kiel
+        <tld/>o kaj e&ccirc; sen doni tempon por respondo
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        siblantaj sagoj <klr>[&#x2026;]</klr> elver&scirc;i&gcirc;is super &scirc;i kiel &ccirc;ion &scirc;utkovranta
+        <tld/>ego
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="sub" cel="grajl.0o">grajlo</ref>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_d;</trd>
   <trd lng="bg">&c_g;&c_r;&c_a;&c_d;</trd>
+  <trd lng="bo">&t_sa;&t_drengbu;&t_tsheg;&t_ra;&t_tsheg;</trd>
   <trdgrp lng="br">
     <trd>grizilh</trd>,
     <trd>kazarc'h</trd>
@@ -27,7 +61,7 @@
     <trd>calamarsada</trd>,
     <trd>pedregada</trd>
   </trdgrp>
-  <trd lng="cs">krupobití</trd>
+  <trd lng="cs">krupobit&iacute;</trd>
   <trd lng="de">Hagel</trd>
   <trd lng="en">hail</trd>
   <trd lng="es">granizo</trd>
@@ -38,6 +72,11 @@
    <trd>grandine</trd>, 
    <trd>grandinata</trd> 
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3042;&#x3089;&#x308C;</trd>,
+    <trd>&#x3072;&#x3087;&#x3046;</trd>,
+    <trd>&#x96E8;&#x3042;&#x3089;&#x308C;&#x3068;&#x964D;&#x308B;&#x3082;&#x306E;  [<ind>&#x3042;&#x3081;&#x3042;&#x3089;&#x308C;&#x3068;&#x3075;&#x308B;&#x3082;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">hagel</trd>
   <trd lng="pl">grad</trd>
   <trdgrp lng="pt">
@@ -47,6 +86,7 @@
   <trd lng="ru">&c_g;&c_r;&c_a;&c_d;</trd>
   <trd lng="sk">krupobitie</trd>
   <trd lng="sv">hagel</trd>
+  <trd lng="uk">&c_g;&c_r;&c_a;&c_d;</trd>
 </drv>
 
 <drv mrk="hajl.0i">
@@ -55,7 +95,19 @@
   <snc>
     <uzo tip="fak">MET</uzo>
     <dif>
-      Fali <klr>(p.p. <tld/>o)</klr>.
+      Fali <klr>(p.p. <tld/>o)</klr>:
+      <ekz>
+        &ccirc;u pluvos, &ccirc;u <tld/>os, &ccirc;u ne&gcirc;os, &ccirc;u uraganos, mi nepre estos tie
+        <fnt>
+          <bib>KKl</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kia fulmotondro! mi supozas, ke <tld/>os
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="be">&c_p;&c_a;&c_d;&c_a;&c_c;&c_mol; <klr tip="amb">
     (&c_p;&c_r;&c_a; &c_g;&c_r;&c_a;&c_d;)</klr></trd>
@@ -92,8 +144,29 @@
   <snc>
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Fali dense kiel <tld/>o.
+      Fali dense kiel <tld/>o:
+      <ekz>
+        malanta&ubreve; lia dorso sur la podion <tld/>as bronzaj moneroj kaj daktiloj
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la plankon <tld/>is kristalaj rompa&jcirc;oj de la lustro
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>antaj malla&ubreve;doj en stranga, e&ubreve;nukeca naztono
+        <fnt>
+          <bib>KKr</bib>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="fal.sur0i">surfali</ref>
+    </refgrp>
     <trd lng="be">
     &c_p;&c_a;&c_d;&c_a;&c_c;&c_mol; &c_ja;&c_k; &c_g;&c_r;&c_a;&c_d;
     </trd>
@@ -117,6 +190,10 @@
   <trd lng="hu">z&aacute;porozik<klr tip="ind"> (&aacute;tv.)</klr>
   </trd>
   <trd lng="it">grandinare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3042;&#x3089;&#x308C;&#x304C;&#x964D;&#x308B;  [<ind>&#x3042;&#x3089;&#x308C;&#x304C;&#x3075;&#x308B;</ind>]</trd>,
+    <trd>&#x3072;&#x3087;&#x3046;&#x304C;&#x964D;&#x308B;  [<ind>&#x3072;&#x3087;&#x3046;&#x304C;&#x3075;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">hagelen</trd>
   <trdgrp lng="pt">
    <trd>chover granizo</trd>, 
@@ -129,11 +206,24 @@
 </drv>
 
 <drv mrk="hajl.0ero">
-  <kap><tld/>ero<fnt>Z</fnt></kap>
+  <kap><tld/>ero</kap>
   <uzo tip="fak">MET</uzo>
   <snc>
     <dif>
-      <tld lit="H"/>ograjno.
+      <tld lit="H"/>ograjno:
+      <ekz>
+        hiera&ubreve; falis granda <tld/>o, &ccirc;iu <tld/>ero pezis pli ol kvindek gramojn
+        <fnt>
+          <bib>DL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        blindigite <klr>[&#x2026;]</klr> de <tld/>eroj, kiuj skur&gcirc;is lian viza&gcirc;on, la grafo
+        havis nur tempon malfermi la pordon
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>
@@ -145,7 +235,7 @@
     <trd>pedra</trd>,
     <trd>calamarsa</trd>
   </trdgrp>
-  <trd lng="cs">kroupa <klr>(ledová)</klr></trd>
+  <trd lng="cs">kroupa <klr>(ledov&aacute;)</klr></trd>
   <trd lng="de">Hagelkorn</trd>
   <trd lng="en">hailstone</trd>
   <trd lng="es">granizo</trd>
@@ -158,6 +248,7 @@
    <trd>chicco di <ind>grandine</ind></trd>, 
    <trd>grandine<klr> (chicco di)</klr></trd> 
   </trdgrp>
+  <trd lng="ja">&#x3072;&#x3087;&#x3046;&#x30FB;&#x3042;&#x3089;&#x308C;&#x306E;&#x7C92;  [<ind>&#x3072;&#x3087;&#x3046;&#x30FB;&#x3042;&#x3089;&#x308C;&#x306E;&#x3064;&#x3076;</ind>]</trd>
   <trd lng="nl">hagelkorrel</trd>
   <trdgrp lng="pl">
     <trd>gradzina</trd>,
@@ -166,7 +257,8 @@
   </trdgrp>
   <trd lng="pt">granizo<klr tip="amb"> (pedra)</klr></trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_d;&c_i;&c_n;&c_a;</trd>
-  <trd lng="sk">krúp <klr>(pri krupobití)</klr></trd>
+  <trd lng="sk">kr&uacute;p <klr>(pri krupobit&iacute;)</klr></trd>
+  <trd lng="uk">&c_g;&c_r;&c_a;&c_d;&c_i;&#x43D;&c_a;</trd>
 </drv>
 
 <drv mrk="hajl.0eto0negxo">
@@ -177,14 +269,19 @@
       Maldikgrajna <tld/>o, malmola kaj maldiafana.
     </dif>
     <refgrp tip="vid">
-      <ref cel="prujn.0o">prujno</ref>.
+      <ref cel="grajl.0o">grajlo</ref>,
+      <ref cel="prujn.0o">prujno</ref>
     </refgrp>
   </snc>
-  <trd lng="be">&c_d;&c_r;&c_o;&c_b;&c_y; &c_g;&c_r;&c_a;&c_d;</trd>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_r;&c_o;&c_b;&c_y; &c_g;&c_r;&c_a;&c_d;</trd>,
+    <trd>&c_k;&c_r;&c_u;&c_p;&c_k;&c_a; <klr tip="amb">(&c_a;&c_p;&c_a;&c_d;&c_k;&c_ib;)</klr></trd>
+  </trdgrp>
   <trd lng="br">milerc'h</trd>
   <trd lng="ca">calamars&oacute;</trd>  
   <trd lng="de">Eiskorn</trd>
   <trd lng="fr">gr&eacute;sil<klr tip="ind"> (m&eacute;t&eacute;o.)</klr></trd>
+  <trd lng="ja">&#x3042;&#x3089;&#x308C;</trd>
   <trd lng="nl">hagelsneeuw</trd>
   <trd lng="pt">saraivisco</trd>
   <trd lng="hu">j&eacute;gdara</trd>
@@ -197,10 +294,20 @@
     <trd>&c_m;&c_je;&c_l;&c_k;&c_i;&c_j; &c_g;&c_r;&c_a;&c_d;</trd>,
     <trd>&c_k;&c_r;&c_u;&c_p;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_r;&c_ib;&c_b;&#x43D;&c_i;&c_j; &c_g;&c_r;&c_a;&c_d;</trd>,
+    <trd>&#x43A;&c_r;&c_u;&#x43F;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.32 2022/08/18 07:30:58
+Dmitri Gabinski: + trd be
+
+versio 1.30 2021/12/22 07:28:03
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.27  2015/06/29 16:33:15  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -217,14 +324,5 @@ Revision 1.23  2009/03/18 17:32:28  revo
 Wieland Pusch: +trd de
 
 Revision 1.22  2008/04/22 17:49:49  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.21  2008/01/04 17:30:24  revo
-Dennis Wibrow: +trd en
-
-Revision 1.20  2007/12/20 17:30:22  revo
-Wieland Pusch: +trd bg
-
-Revision 1.19  2005/10/14 18:03:51  revo
 -->
 </vortaro>

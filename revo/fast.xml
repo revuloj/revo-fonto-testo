@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fast.xml,v 1.26 2009/08/24 16:32:55 revo Exp $">
+<art mrk="$Id: fast.xml,v 1.36 2023/08/31 13:11:27 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>fast</rad>/i
@@ -26,18 +25,27 @@
     <trd lng="hu">koplal</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="bo">&#xF5F;&#xF66;&#xF0B;&#xF42;&#xF45;&#xF7C;&#xF51;&#xF0B;</trd>
   <trd lng="cs">postit se</trd>
   <trd lng="de">fasten</trd>
   <trd lng="en">fast<klr tip="amb"> (abstain from food)</klr></trd>
   <trd lng="es">ayunar</trd>
   <trd lng="fr">je&ucirc;ner</trd>
-  <trd lng="id">[<ind>puasa</ind>] berpuasa</trd>
+  <trd lng="id">ber<ind>puasa</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x65AD;&#x98DF;&#x3059;&#x308B;  [<ind>&#x3060;&#x3093;&#x3058;&#x304D;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x7D76;&#x98DF;&#x3059;&#x308B;  [<ind>&#x305C;&#x3063;&#x3057;&#x3087;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">vasten</trd>
   <trd lng="pl">po&sacute;ci&cacute;</trd>
   <trd lng="pt">jejuar</trd>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
   <trd lng="sk">posti&tcaron; sa</trd>
   <trd lng="tr">oru&ccedil; tutmak</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&#x441;&#x442;&#x438;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x441;&#x442;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fast.0o">
@@ -82,6 +90,11 @@
   <trd lng="en">fast<klr tip="amb"> (abstaining from food)</klr></trd>
   <trd lng="es">ayuno</trd>
   <trd lng="fr">je&ucirc;ne</trd>
+  <trdgrp lng="ja">
+    <trd>&#x65AD;&#x98DF;  [<ind>&#x3060;&#x3093;&#x3058;&#x304D;</ind>]</trd>,
+    <trd>&#x7D76;&#x98DF;  [<ind>&#x305C;&#x3063;&#x3057;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x65AD;&#x98DF;&#x671F;&#x9593;  [<ind>&#x3060;&#x3093;&#x3058;&#x304D;&#x304D;&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">post</trd>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_t;</trd>
   <trd lng="sk">p&ocirc;st</trd>
@@ -89,6 +102,7 @@
     <trd>pehriz</trd>,
     <trd>oru&ccedil;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&#x456;&#x441;&#x442;</trd>
 </drv>
 
 <drv mrk="fast.granda0o">
@@ -170,6 +184,9 @@
 </art>
 <!--
 $Log$
+versio 1.33 2020/05/05 09:10:18
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.31  2015/07/04 08:37:34  revo
 aldono de trd cs per skripto de M. von Laer
 

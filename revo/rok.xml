@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rok.xml,v 1.96 2023/09/03 07:53:12 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>rok</rad>/o
@@ -46,22 +45,20 @@
         tie staras rokoj, kies strangajn formojn donis la ventoj kaj
         tajdoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Josette Ducloyer</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006851.html">Francio:
-          Quimper</url></vrk>
+          <vrk><url ref="&Monato;/2000/006851.php">Quimper</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/05, p. 16</lok>
         </fnt>;
       </ekz>
       <ekz>
         multaj devis foriri al la montaro, kie inter altaj <tld/>oj ili
-        &gcirc;isvivis 
+        &gcirc;isvivis
         la 17an jarcenton, miksi&gcirc;inte kun la indi&gcirc;ena lo&gcirc;antaro
         <fnt>
           <bib>Monato</bib>
           <aut>Vja&ccirc;eslav (Slavik) Ivanov</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/007865.html">La oseta
+          <vrk><url ref="&Monato;/2003/007865.html">La oseta
           lingvo</url></vrk>
         </fnt>;
       </ekz>
@@ -82,8 +79,7 @@
     <uzo tip="stl">EVI</uzo>
     <uzo tip="fak">GEOL</uzo>
     <dif>
-      <ref tip="dif" cel="rok.0ajxo.GEOL"><tld
-      lit="R"/>a&jcirc;o<sncref/></ref>:
+      <ref tip="dif" cel="rok.0ajxo.GEOL"><tld lit="R"/>a&jcirc;o<sncref/></ref>:
       <ekz>
         la akvo malfortigas la <tld/>ojn kaj faciligas
         ilian diseri&gcirc;on
@@ -92,29 +88,99 @@
           <vrk>El la Polvo de la Tero</vrk>,
           <lok>1967</lok>
         </fnt>.
-      </ekz> 
+      </ekz>
     </dif>
   </snc>
+  <trd lng="af">rock</trd>
+  <trd lng="am">&#x12D0;&#x1208;&#x1275;</trd>
+  <trd lng="ar">&a_S;&a_kh;&a_r;&a_t_marbuta;</trd>
   <trd lng="be">&c_s;&c_k;&c_a;&c_l;&c_a;</trd>
   <trd lng="bg">&c_s;&c_k;&c_a;&c_l;&c_a;</trd>
+  <trd lng="bn">&#x9B6;&#x9BF;&#x9B2;&#x9BE;</trd>
+  <trd lng="bo">&t_ra;&t_data;&t_naro;&t_tsheg;</trd>
+  <trd lng="co">scogliu</trd>
   <trdgrp lng="cs">
     <trd>rock</trd>,
     <trd>rockov&aacute; hudba</trd>
   </trdgrp>
+  <trd lng="cy">graig</trd>
+  <trd lng="da">sten</trd>
   <trd lng="en">rock</trd>
   <trd lng="es">roca</trd>
   <trdgrp lng="fr">
     <trd>roc</trd>,
     <trd>rocher</trd>
   </trdgrp>
+  <trd lng="fy">rots</trd>
+  <trd lng="ga">carraig</trd>
+  <trd lng="gd">creag</trd>
+  <trd lng="gl">rocha</trd>
+  <trd lng="gu">&#xAB0;&#xACB;&#xA95;</trd>
   <trd lng="he">&alef;&bet;&nun;&yod;&fmem;</trd>
+  <trd lng="hi">&#x930;&#x949;&#x915;</trd>
+  <trd lng="hmn">pob zeb</trd>
+  <trd lng="hr">stijena</trd>
+  <trd lng="ht">w&ograve;ch</trd>
   <trd lng="hu">szikla</trd>
+  <trd lng="hy">&#x56A;&#x561;&#x575;&#x57C;</trd>
+  <trd lng="ig">nkume</trd>
+  <trd lng="is">rokk</trd>
+  <trd lng="ja">&#x5CA9; [<ind>&#x3044;&#x308F;</ind>]</trd>
+  <trd lng="jv">watu</trd>
+  <trd lng="ka">&#x10E0;&#x10DD;&#x10D9;&#x10D8;</trd>
+  <trd lng="km">&#x179A;&#x17C9;&#x17BB;&#x1780;</trd>
+  <trd lng="kn">&#xCB0;&#xCBE;&#xC95;&#xCCD;</trd>
+  <trd lng="ko">&#xBC14;&#xC704;</trd>
+  <trd lng="ku">teht</trd>
+  <trd lng="ky">&c_a;&c_s;&c_k;&c_a;</trd>
+  <trd lng="lat">petr&aelig;</trd>
+  <trd lng="lo">&#xEAB;&#xEB5;&#xE99;</trd>
+  <trd lng="lt">rokas</trd>
+  <trd lng="lv">klin&scaron;u</trd>
+  <trd lng="mg">vato</trd>
+  <trd lng="mi">toka</trd>
+  <trd lng="mk">&c_r;&c_o;&c_k;</trd>
+  <trd lng="ml">&#xD2A;&#xD3E;&#xD31;</trd>
+  <trd lng="mn">&c_ch;&c_u;&c_l;&c_u;&c_u;&c_l;&c_g;&c_i;&c_j;&c_n;</trd>
+  <trd lng="mr">&#x930;&#x949;&#x915;</trd>
+  <trd lng="ms">batuan</trd>
+  <trd lng="mt">blat</trd>
+  <trd lng="my">&#x1000;&#x103B;&#x1031;&#x102C;&#x1000;&#x103A;&#x101C;&#x102F;&#x1036;&#x1038;&#x1000;&#x103C;&#x102E;&#x1038;</trd>
+  <trd lng="ne">&#x91A;&#x91F;&#x94D;&#x91F;&#x93E;&#x928;</trd>
   <trd lng="nl">rots</trd>
+  <trd lng="ny">thanthwe</trd>
+  <trd lng="pa">&#xA1A;&#xA71;&#xA1F;&#xA3E;&#xA28;</trd>
+  <trd lng="pl">ska&lstroke;a</trd>
+  <trd lng="ps">&#x6AB;&#x67C;</trd>
   <trdgrp lng="pt">
     <trd>rocha</trd>,
     <trd>pedra</trd>
   </trdgrp>
+  <trd lng="rw">urutare</trd>
+  <trd lng="sd">&f_p;&#x67F;&a_r;&a_y;&a_l;&a_y;</trd>
+  <trd lng="si">&#xD9C;&#xDBD;&#xDCA;</trd>
   <trd lng="sk">rockov&aacute; hudba</trd>
+  <trd lng="sl">skala</trd>
+  <trd lng="sm">papa</trd>
+  <trd lng="sn">ibwe</trd>
+  <trd lng="so">dhagax weyn</trd>
+  <trd lng="sq">shk&euml;mb</trd>
+  <trd lng="st">lefika</trd>
+  <trd lng="su">batu</trd>
+  <trd lng="sw">mwamba</trd>
+  <trd lng="ta">&#xBB0;&#xBBE;&#xB95;&#xBCD;</trd>
+  <trd lng="te">&#xC30;&#xC3E;&#xC15;&#xC4D;</trd>
+  <trd lng="tg">&c_sh;&c_a;&c_h;</trd>
+  <trd lng="th">&#xE2B;&#xE34;&#xE19;</trd>
+  <trd lng="tt">&c_k;&c_y;&c_ja;</trd>
+  <trd lng="uk">&c_r;&c_o;&c_k;</trd>
+  <trd lng="ur">&a_r;&a_A;&f_k;</trd>
+  <trd lng="uz">qoya</trd>
+  <trd lng="vi">&#x111;&aacute;</trd>
+  <trd lng="xh">iliwa</trd>
+  <trd lng="yi">&shin;&tet;&yod;&yod;&fnun;</trd>
+  <trd lng="yo">apata</trd>
+  <trd lng="zu">idwala</trd>
 </drv>
 
 <drv mrk="rok.0a">
@@ -139,7 +205,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        en <tld/>a golf&#8217; la &scirc;ipon ili ka&scirc;is
+        en <tld/>a golf&#x2019; la &scirc;ipon ili ka&scirc;is
         <fnt>
           <bib>Ifigenio</bib>
         </fnt>;
@@ -155,6 +221,23 @@
     </dif>
   </snc>
   <trd lng="de">felsig</trd>
+  <trdgrp lng="en">
+    <trd>rock</trd>,
+    <trd>rocky</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5CA9;&#x306E;  [<ind>&#x3044;&#x308F;&#x306E;</ind>]</trd>,
+    <trd>&#x5CA9;&#x77F3;&#x304B;&#x3089;&#x306A;&#x308B;  [<ind>&#x304C;&#x3093;&#x305B;&#x304D;&#x304B;&#x3089;&#x306A;&#x308B;</ind>]</trd>,
+    <trd>&#x5CA9;&#x306B;&#x8986;&#x308F;&#x308C;&#x305F;  [<ind>&#x3044;&#x308F;&#x306B;&#x304A;&#x304A;&#x308F;&#x308C;&#x305F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>skalisty</trd>,
+    <trd>skalny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_k;&c_je;&c_l;&c_ja;&c_s;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_o;&c_s;&c_t;&c_r;&c_u;&c_b;&c_a;&c_t;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rok.0ajxo">
@@ -168,8 +251,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url
-          ref="&Monato;/2015/011471.php">Palatinata
+          <vrk><url ref="&Monato;/2015/011471.php">Palatinata
           rokolando</url></vrk>
         </fnt>.
       </ekz>
@@ -178,7 +260,8 @@
     <trdgrp lng="ru">
       <trd>&c_a;&c_l;&c_mol;&c_p;&c_i;&c_j;&c_s;&c_k;&c_a;&c_ja; &c_g;&c_o;&c_r;&c_k;&c_a;</trd>,
       <trd>&c_r;&c_o;&c_k;&c_a;&c_r;&c_i;&c_j;</trd>,
-      <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja; &c_s;&c_k;&c_a;&c_l;&c_a;</trd>
+      <trd>&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja;
+      &c_s;&c_k;&c_a;&c_l;&c_a;</trd>
     </trdgrp>
   </snc>
   <snc mrk="rok.0ajxo.GEOL">
@@ -195,12 +278,12 @@
           <bib>Monato</bib>
           <aut>Petro De Smet'</aut>
           <vrk><url ref="&Monato;/2008/009292.php">Sidante
-          en pudingo, 
+          en pudingo,
             mi alvokas miajn savantojn!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la tri &ccirc;efaj grupoj estas: 
+        la tri &ccirc;efaj grupoj estas:
         <em>1</em>&nbsp;magmo-devenaj <tld/>a&jcirc;oj (magmo<tld/>a&jcirc;oj a&ubreve;
         magma&jcirc;oj),
         <em>2</em>&nbsp;sedimentad-devenaj <tld/>a&jcirc;oj (sedimentoj,
@@ -217,21 +300,20 @@
         pirokseno kaj plagioklazo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=26374">Bazalto</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=26374">Bazalto</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <rim>
-      &leftquot;<em><tld lit="R"/>a&jcirc;o</em> estas registrita en la 3&#170;
+      &leftquot;<em><tld lit="R"/>a&jcirc;o</em> estas registrita en la 3&#xAA;
       Oficiala Aldono al la Universala Vortaro kaj troveblas
       ekz. en Boirac (1909). Aliflanke, Sugimura (1958) aplikas
       por la nocio la plursencan vorton <em><tld/>o</em>
-      <klr>[&#8230;]</klr> Jen estas konstatebla forta influo de la
+      <klr>[&#x2026;]</klr> Jen estas konstatebla forta influo de la
       angla, franca, hispana k.a. lingvoj, kiuj ne kapablas
       termine distingi <em>Felsen</em> disde <em>Gestein</em>. La
       &gcirc;enan ambiguecon de la fr:&nbsp;roche kaj en:&nbsp;rock klare
-      perceptis G&eacute;rard <klr>[&#8230;]</klr> kaj inventis la malbon&scirc;ancan
+      perceptis G&eacute;rard <klr>[&#x2026;]</klr> kaj inventis la malbon&scirc;ancan
       terminon <em>petro</em>&rightquot;.
       <fnt>
         <aut>Josef Kavka</aut>:
@@ -246,11 +328,40 @@
     <trd lng="de">Gestein</trd>
     <trd lng="ru">&c_g;&c_o;&c_r;&c_n;&c_a;&c_ja; <ind>&c_p;&c_o;&c_r;&c_o;&c_d;&c_a;</ind></trd>
   </snc>
+  <trdgrp lng="en">
+    <trd>rock<klr> (material)</klr></trd>,
+    <trd>rock formation</trd>,
+    <trd>outcropping</trd>
+  </trdgrp>
+  <trd lng="ja">&#x30ED;&#x30AB;&#x30A4;&#x30E6;</trd>
+  <trd lng="pl">skalniak</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_a;&c_l;&c_u;&c_n;</trd>,
+    <trd>&c_b;&c_r;&c_i;&c_l;&c_a;</trd>,
+    <trd>&c_u;&c_l;&c_a;&c_m;&c_o;&c_k; &c_s;&c_k;&c_je;&c_l;&c_ib;</trd>,
+    <trd>&c_g;&c_je;&c_o;&c_l;. &c_s;&c_k;&c_je;&c_l;&c_mol;&c_n;&c_a; &c_p;&c_o;&c_r;&c_o;&c_d;&c_a;</trd>,
+    <trd>&c_a;&c_l;&c_mol;&c_p;&c_ib;&c_n;&c_a;&c_r;&c_ib;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.95 2023/08/29 13:30:02
+Wolfram Diestel: ja: +prononco
+
+versio 1.94 2023/07/04 20:31:20
+Vito Redsky: +trd pl
+
+versio 1.93 2023/04/13 16:34:20
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.92 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.91 2022/04/08 04:40:26
+Noam Mohr: +trd en rok-
+
 Revision 1.19  2019/06/30 07:43:29  revo
 adaptis URL de Monato
 
@@ -258,23 +369,5 @@ Revision 1.18  2018/05/13 22:10:14  revo
 Benoit Soubeyran: + he
 
 Revision 1.17  2018/05/04 20:10:15  revo
-Wolfram Diestel: + ~a, prilaboris ekz-ojn, kor. citilojn en rim
-
-Revision 1.16  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.15  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.14  2013/12/09 06:10:11  revo
-Sergio Pokrovskij: +~ajxo
-
-Revision 1.13  2011/11/12 21:10:10  revo
-Wieland Pusch: +trd bg
-
-Revision 1.12  2011/11/12 19:10:08  revo
-Jeromo Vasxe: + snc geol + trd fr
-
-Revision 1.11  2006/02/21 17:33:36  revo
 -->
 </vortaro>

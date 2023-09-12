@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: ref.xml,v 1.16 2023/09/03 07:53:09 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ref</rad>/o
@@ -30,10 +29,23 @@
     <trd>fog&aacute;s<klr tip="ind"> (vitorl&aacute;&eacute;)</klr></trd>,
     <trd>reff</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30EA;&#x30FC;&#x30D5;</trd>,
+    <trd>&#x7E2E;&#x5E06;&#x90E8;  [<ind>&#x3061;&#x3062;&#x307B;&#x3076;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">reef</trd>
+  <trdgrp lng="pl">
+    <trd>ref</trd>,
+    <trd>skr&oacute;t &zdot;agla</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>ref</trd>,
+    <trd>abrevierea sail</trd>
+  </trdgrp>
   <trd lng="ru">&c_r;&c_i;&c_f; <klr tip="amb">(&c_ch;&c_a;&c_s;&c_t;&c_mol;
   &c_p;&c_a;&c_r;&c_u;&c_s;&c_a;)</klr></trd>
   <trd lng="sk">zhrnovacia plachta</trd>
+  <trd lng="uk">&c_r;&c_i;&c_f; (&c_ch;&c_a;&c_s;&c_t;&c_i;&#x43D;&c_a; &c_v;&c_ib;&c_t;&c_r;&c_i;&#x43B;&c_a;),</trd>
 </drv>
 
 <drv mrk="ref.0i">
@@ -48,8 +60,7 @@
         sub la jardo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=265956"
-              >Jardo (&scirc;ipero)</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=265956">Jardo (&scirc;ipero)</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -67,13 +78,23 @@
     <trd>fog&aacute;st bek&ouml;t<klr tip="ind"> (vitorl&aacute;n&aacute;l)</klr></trd>,
     <trd>reffel</trd>
   </trdgrp>
+  <trd lng="ja">&#x5E06;&#x3092;&#x7E2E;&#x3081;&#x308B;  [<ind>&#x307B;&#x3092;&#x3061;&#x3062;&#x3081;&#x308B;</ind>]</trd>
   <trd lng="nl">reven</trd>
+  <trd lng="pl">refowa&cacute;</trd>
+  <trd lng="ro">s&abreve; str&acirc;nga p&acirc;nzele</trd>
   <trd lng="ru">&c_b;&c_r;&c_a;&c_t;&c_mol; &c_r;&c_i;&c_f;</trd>
   <trd lng="sk">zhrn&uacute;&tcaron; plachtu</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_r;&c_a;&c_t;&c_i;/&c_v;&c_z;&#x44F;&c_t;&c_i; &c_r;&c_i;&c_f;</trd>,
+    <trd>&c_r;&c_i;&c_f;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.15 2023/02/16 21:26:32
+Vito Redsky: +trd pl + trd ro
+
 Revision 1.12  2015/07/04 08:37:42  revo
 aldono de trd cs per skripto de M. von Laer
 

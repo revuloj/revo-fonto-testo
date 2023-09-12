@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
-
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bapt.xml,v 1.30 2010/11/11 17:30:40 revo Exp $">
+<art mrk="$Id: bapt.xml,v 1.45 2023/08/31 08:48:49 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bapt</rad>/i <fnt><bib>PV</bib></fnt>
@@ -60,15 +58,14 @@
         la eklezio
         <fnt>
           <bib>Monato</bib>
-          <vrk><url>http://www.esperanto.be/fel/mon/007178.html</url></vrk>
+          <vrk><url ref="&Monato;/2001/007178.html">Vatikano rebatas</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         la paro estis <tld/>ita Romeo kaj Julieta
         <fnt>
           <bib>Monato</bib>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007205.html'>KOSOVO:
+          <vrk><url ref="&Monato;/2001/007205.html">KOSOVO:
           Voja&gcirc;impresoj, somero 2000</url></vrk>
         </fnt>.
       </ekz>
@@ -97,8 +94,7 @@
         Kala</ctl>, brulinta urbo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=21314'>Gy&odblac;r</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=21314">Gy&odblac;r</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -125,10 +121,22 @@
     <trd>baptiser</trd>,
     <trd>d&eacute;nommer <klr tip="ind">(donner un nom)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D8;&#x5D1;&#x5D5;&#x5DC;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D17;&#x793C;&#x3092;&#x65BD;&#x3059;  [<ind>&#x305B;&#x3093;&#x308C;&#x3044;&#x3092;&#x307B;&#x3069;&#x3053;&#x3059;</ind>]</trd>,
+    <trd>&#x540D;&#x4ED8;&#x3051;&#x308B;  [<ind>&#x306A;&#x3065;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">dopen</trd>
   <trd lng="pt">batizar</trd>
   <trd lng="sk">krsti&tcaron;</trd>
   <trd lng="sv">d&ouml;pa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_r;&c_je;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_h;&c_r;&c_je;&c_s;&c_t;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &c_ib;&#x43C;&#x2019;&#x44F;</trd>,
+    <trd>&#x43F;&c_r;&c_ib;&c_z;&c_v;&c_i;&c_s;&#x44C;&#x43A;&#x43E;</trd>,
+    <trd>&#x43E;&c_s;&c_v;&#x44F;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bapt.0o">
@@ -153,21 +161,23 @@
   <trd lng="en">baptism</trd>
   <trd lng="es">bautizo</trd>
   <trd lng="fr">bapt&ecirc;me</trd>
+  <trd lng="he">&#x5D8;&#x5B0;&#x5D1;&#x5B4;&#x5D9;&#x5DC;&#x5B8;&#x5D4;</trd>
   <trdgrp lng="hu">
     <trd>keresztel&odblac;</trd>,
     <trd>keresztel&eacute;s</trd>
   </trdgrp>
+  <trd lng="ja">&#x6D17;&#x793C;  [<ind>&#x305B;&#x3093;&#x308C;&#x3044;</ind>]</trd>
   <trd lng="nl">doopsel</trd>
   <trd lng="pl">chrzest</trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">krst</trd>
   <trd lng="sv">dop</trd>
+  <trd lng="uk">&c_h;&c_r;&c_je;&c_shch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="bapt.0ano">
   <kap><ofc>*</ofc><tld/>ano
-  <fnt><bib>F</bib>, <lok>Universala Vortaro, <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-4977">bapt'an'</url></lok></fnt></kap>
+  <fnt><bib>F</bib>, <lok>Universala Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-4977">bapt'an'</url></lok></fnt></kap>
   <snc mrk="bapt.0ano.KRI">
     <dif>
       <ref cel="bapt.0opatro"><tld lit="B"/>opatro</ref>
@@ -182,9 +192,11 @@
   <trd lng="cs">kmotr</trd>
   <trd lng="fr">comp&egrave;re<klr tip="amb"> (au
   bapt&ecirc;me)</klr></trd>
+  <trd lng="ja">&#x6D17;&#x793C;&#x7ACB;&#x4F1A;&#x4EBA;  [<ind>&#x305B;&#x3093;&#x308C;&#x3044;&#x305F;&#x3061;&#x3042;&#x3044;&#x306B;&#x3093;</ind>]</trd>
   <trd lng="pl">kum<klr> {m}</klr></trd>
   <trd lng="ru">&c_k;&c_u;&c_m;</trd>
   <trd lng="sk">kmotor</trd>
+  <trd lng="uk">&#x43A;&c_u;&#x43C;</trd>
 </drv>
 
 <drv mrk="bapt.0anino">
@@ -225,8 +237,7 @@
         <klr>[...]</klr> oni tute subakvigas la <tld/>aton
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=53926'>Baptujo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=53926">Baptujo</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -234,7 +245,12 @@
   <trd lng="cs">k&rcaron;t&ecaron;nec</trd>
   <trd lng="de">T&auml;ufling</trd>
   <trd lng="fr">baptis&eacute;</trd>
+  <trd lng="he">&#x5D4;&#x5D5;&#x5D8;&#x5D1;&#x5DC;</trd>
   <trd lng="hu">keresztelend&odblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D17;&#x793C;&#x3092;&#x53D7;&#x3051;&#x308B;&#x4EBA;  [<ind>&#x305B;&#x3093;&#x308C;&#x3044;&#x3092;&#x3046;&#x3051;&#x308B;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x53D7;&#x6D17;&#x8005;  [<ind>&#x53D7;&#x6D17;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">dopeling</trd>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_shch;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>
   <trd lng="sk">krstenec</trd>
@@ -246,8 +262,7 @@
     <uzo tip="fak">KRI</uzo>
     <dif>
       Doktrino kaj praktiko de
-      <ref tip="vid"
-      cel="bapt.0isto.KRI_sekte"><tld/>istoj<sncref/></ref>;
+      <ref tip="vid" cel="bapt.0isto.KRI_sekte"><tld/>istoj<sncref/></ref>;
       anabaptisma bran&ccirc;o de
       <ref tip="malprt" cel="protes1.0ismo.KRI">protestantismo</ref>
       esti&gcirc;inta en la 17a jarcento,      
@@ -256,8 +271,7 @@
       <ekz>
         <tld/>ismo estas la plej granda nekatolika kristana grupo en 
         Usono, kaj havas milionojn da adeptoj alilande tra la mondo
-        <fnt><bib>Viki</bib>, <lok><url
-        ref="http://eo.wikipedia.org/wiki/Baptismo">
+        <fnt><bib>Viki</bib>, <lok><url ref="&Viki;/Baptismo">
         Baptismo</url>, 2010-07-16</lok></fnt>.
       </ekz>
     </dif>
@@ -271,14 +285,12 @@
   <kap><tld/>ismano</kap>
   <snc mrk="bapt.0ismano.KRI">
     <dif>
-      <ref tip="dif" cel="bapt.0isto.KRI_sekte"><tld
-      lit="B"/>isto<sncref/></ref>:
+      <ref tip="dif" cel="bapt.0isto.KRI_sekte"><tld lit="B"/>isto<sncref/></ref>:
       <ekz>
         iuj &ccirc;ikanas pri la aserto, ke <tld/>ismanoj estas Protestantoj
         <fnt>
           <aut>L. B. Ross</aut>,
-          <vrk><url
-          ref="http://www.oocities.com/lilandr/baptismo/00baptismo.html">
+          <vrk><url ref="http://www.oocities.com/lilandr/baptismo/00baptismo.html">
           Kio estas la baptismo?</url></vrk>,
           <lok>[vidita en 2010]</lok>
         </fnt>.
@@ -338,8 +350,7 @@
         <klr>[...]</klr> oni tute subakvigas la <tld/>aton
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=53926'>Baptujo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=53926">Baptujo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -347,15 +358,14 @@
         19-a jarcento
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=127401'>Ostrov
+          <lok><url ref="https://eo.wikipedia.org/?curid=127401">Ostrov
           (distrikto &Uacute;st&iacute; nad Orlic&iacute;)</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         tombo&scirc;tonoj, <tld/>ujo kaj renesancaj brakse&gcirc;oj
         <fnt>
-          <vrk><url
-          ref='http://pola-retradio.org/felietonoj-4/pago-5/'>Vizitindaj
+          <vrk><url ref="http://pola-retradio.org/felietonoj-4/pago-5/">Vizitindaj
           lokoj: Gniew 20.12.2008</url></vrk>
           <lok>Pola Retradio en Esperanto</lok>
         </fnt>.
@@ -379,6 +389,7 @@
     <trd>Taufbecken</trd>
   </trdgrp>
   <trd lng="fr">fonts baptismaux</trd>
+  <trd lng="he">&#x5D2;&#x5D5;&#x5E4;&#x5DF; &#x5D8;&#x5D1;&#x5D9;&#x5DC;&#x5D4;</trd>
   <trd lng="hu">keresztel&odblac;medence</trd>
   <trdgrp lng="nl">
     <trd>doopvont</trd>,
@@ -387,6 +398,10 @@
   </trdgrp>
   <trd lng="pt">pia batismal</trd>
   <trd lng="ru">&c_k;&c_u;&c_p;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_u;&#x43F;&c_ib;&#x43B;&#x44C;</trd>,
+    <trd>&c_h;&c_r;&c_je;&c_s;&c_t;&c_i;&#x43B;&#x44C;&#x43D;&c_i;&c_c;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 
@@ -402,8 +417,7 @@
         lian vojon    
         <fnt>
           <aut>J. London, trad. R. Rossetti</aut>,
-          <vrk><url
-          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr14/dio.html">
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr14/dio.html">
           Dio de liaj prapatroj</url></vrk>,
           <lok>Nica Literatura Revuo, 1956-03 &gcirc;is 04 (1:4)</lok>
         </fnt>.
@@ -412,7 +426,9 @@
   </snc>
   <trd lng="cs">baptista</trd>
   <trd lng="fr">Baptiste<klr> (pr&eacute;nom)</klr></trd>
+  <trd lng="he">&#x5DE;&#x5B7;&#x5D8;&#x5D1;&#x5BC;&#x5B4;&#x5D9;&#x5DC;</trd>
   <trd lng="sk">krstite&lcaron;</trd>
+  <trd lng="uk">&c_b;&c_a;&#x43F;&c_t;&c_i;&c_s;&c_t;</trd>
 </drv>
 
 <drv mrk="bapt.0ofilo">
@@ -425,7 +441,7 @@
         anstata&ubreve;igis lia <tld/>ofilo Carl Philipp Emanuel Bach
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=31389'>Georg
+          <lok><url ref="https://eo.wikipedia.org/?curid=31389">Georg
           Philipp Telemann</url></lok>
         </fnt>;
       </ekz>
@@ -435,8 +451,7 @@
         zenismo
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=1348'>&Gcirc;uangzio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1348">&Gcirc;uangzio</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -448,6 +463,7 @@
   <trd lng="es">ahijado</trd>
   <trd lng="fr">filleul</trd>
   <trd lng="hu">keresztfi&uacute;</trd>
+  <trd lng="ja">&#x540D;&#x4ED8;&#x3051;&#x5B50;  [<ind>&#x306A;&#x3065;&#x3051;&#x3053;</ind>]</trd>
   <trd lng="nl">petekind</trd>
   <trdgrp lng="pl">
     <trd>chrze&sacute;niak<klr> {m}</klr></trd>,
@@ -455,6 +471,10 @@
   </trdgrp>
   <trd lng="ru">&c_k;&c_r;&c_je;&c_s;&c_t;&c_n;&c_i;&c_k;</trd>
   <trd lng="sk">krstn&yacute; syn</trd>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_r;&c_je;&c_shch;&c_je;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&c_h;&c_r;&c_je;&c_shch;&c_je;&#x43D;&c_i;&c_j; &c_s;&c_i;&#x43D;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bapt.0opatro">
@@ -467,19 +487,18 @@
         episkopo de Varmio kaj la <tld/>opatro de Koperniko
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=2100'>Koperniko</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=2100">Koperniko</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        Jonas Mekas, litovdevena usona film&#173;kreanto, artisto ofte nomata
+        Jonas Mekas, litovdevena usona film&#xAD;kreanto, artisto ofte nomata
         &leftquot;<tld/>opatro de usona avangarda kino&rightquot;
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref='https://www.monato.be/2008/009648.php'>Arta
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2008/009648.php">Arta
           futuro</url></vrk>
-          <lok>esperanto.be</lok>
+          <bib>Monato</bib>
+          <lok>2008/12, p. 22</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -492,7 +511,9 @@
   <trdgrp lng="fr">
     <trd>parrain</trd>
   </trdgrp>
+  <trd lng="he">&#x5E1;&#x5B7;&#x5E0;&#x5D3;&#x5B8;&#x5E7;</trd>
   <trd lng="hu">keresztapa</trd>
+  <trd lng="ja">&#x540D;&#x4ED8;&#x3051;&#x89AA;  [<ind>&#x306A;&#x3065;&#x3051;&#x304A;&#x3084;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>peter</trd>,
     <trd>peetvader</trd>
@@ -504,6 +525,7 @@
   <trd lng="ru">&c_k;&c_r;&c_jo;&c_s;&c_t;&c_n;&c_y;&c_j;
   &c_o;&c_t;&c_je;&c_c;</trd>
   <trd lng="sk">krstn&yacute; otec</trd>
+  <trd lng="uk">&c_h;&c_r;&c_je;&c_shch;&c_je;&#x43D;&c_i;&c_j; &c_b;&c_a;&c_t;&#x44C;&#x43A;&#x43E;</trd>
 </drv>
 
 <drv mrk="bapt.0opatrino">
@@ -520,8 +542,7 @@
         zorgante pri &gcirc;ia prospero
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=13653'>Feminismo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=13653">Feminismo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -530,7 +551,7 @@
         Tereza kiel &scirc;i
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=36929'>Maria
+          <lok><url ref="https://eo.wikipedia.org/?curid=36929">Maria
           Tereza de A&ubreve;strio</url></lok>
         </fnt>.
       </ekz>
@@ -545,6 +566,7 @@
     <trd>marraine</trd>
   </trdgrp>
   <trd lng="hu">keresztanya</trd>
+  <trd lng="ja">&#x540D;&#x4ED8;&#x3051;&#x89AA;  [<ind>&#x306A;&#x3065;&#x3051;&#x304A;&#x3084;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>meter</trd>,
     <trd>peetmoeder</trd>
@@ -559,11 +581,21 @@
     <trd>kmotra</trd>,
     <trd>krstn&aacute; matka</trd>
   </trdgrp>
+  <trd lng="uk">&c_h;&c_r;&c_je;&c_shch;&c_je;&#x43D;&c_a; &#x43C;&c_a;&c_t;&c_i;</trd>
 </drv>
 </art>
 <!--
 
 $Log$
+versio 1.44 2023/05/03 08:30:29
+Paul Peeraerts: esperanto.be -> &Monato;
+
+versio 1.43 2023/03/27 06:33:11
+Paul Peeraerts: &Monato;
+
+versio 1.42 2022/04/26 15:00:32
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.38  2018/08/26 08:10:14  revo
 Jozefo Horvath: kor. tr. hu
 
@@ -577,15 +609,6 @@ Revision 1.35  2017/02/19 14:10:13  revo
 Wolfram Diestel: ekz-oj kun fontoj, dif chirkau ref-dif, adm che ~ingo
 
 Revision 1.34  2015/10/02 02:10:18  revo
-Evandro Avellar: +trd pt
-
-Revision 1.33  2015/07/04 08:37:31  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.32  2015/06/29 16:29:35  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.31  2014/06/05 01:10:16  revo
 -->
 
 </vortaro>

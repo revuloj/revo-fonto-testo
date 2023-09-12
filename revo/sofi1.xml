@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: sofi1.xml,v 1.10 2023/09/04 05:14:55 revo Exp $">
     <kap>
       <rad>Sofi</rad>/o
     </kap>
@@ -10,50 +9,79 @@
 <drv mrk="sofi1.0o">
   <kap><tld/>o</kap>
   <snc>
+  <uzo tip="fak">GEOG</uzo>
+  <uzo tip="fak">POL</uzo>
     <dif>
       La <ref tip="lst" lst="voko:&ccirc;efurboj" cel="urb.cxef0o.POL">&ccirc;efurbo<sncref/></ref>
       de <ref tip="malprt" cel="bulgar.B0ujo">Bulgarujo</ref>:
       <ekz>
-        post jaroj de studado en Tuniso, <tld/>o, Prago kaj Vieno li veturis en la jaro 1958 al Parizo
-        <fnt>
+        post jaroj de studado en Tuniso, <tld/>o, Prago kaj Vieno li
+        veturis en la jaro 1958 al Parizo
+       <fnt>
+       <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/007013.php">Ekspozicio de famaj artistoj</url></vrk>
           <bib>Monato</bib>
-          <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007013.html">A&ubreve;strio: Ekspozicio de famaj artistoj</url></vrk>
+          <lok>2000/07, p. 15</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la interbalkana beletra komisiono kun centra oficejo en <tld/>o (Bulgario)
+        la interbalkana beletra komisiono kun centra oficejo en <tld/>o
+        (Bulgario)
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="https://www.monato.be/2004/008232.html">Albano balkane premiita</url></vrk>
+          <vrk><url ref="&Monato;/2004/008232.html">Albano
+          balkane premiita</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i prenis Ivanon en sian a&ubreve;ton kaj veturigis lin al sia lo&gcirc;ejo en <tld/>o
+        &scirc;i prenis Ivanon en sian a&ubreve;ton kaj veturigis lin al sia lo&gcirc;ejo
+        en <tld/>o
         <fnt>
           <bib>Monato</bib>
           <aut>Julian Modest</aut>
-          <vrk><url ref="&Monato;/2007/009024.php">Bela son&gcirc;o</url></vrk>
+          <vrk><url ref="&Monato;/2007/009024.php">Bela
+          son&gcirc;o</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Sofia</trd>
+    <trd lng="fr">Sofia</trd>
   </snc>
   <rim>
-    <ref cel="sofi.0o">Sofio</ref> estas anka&ubreve; virina nomo.
+    <ref tip="hom" cel="sofi.0o">Sofio</ref> estas anka&ubreve; virina nomo.
   </rim>
+  <trd lng="be">&c_S;&c_a;&c_f;&c_ib;&c_ja; <klr>(&c_g;&c_o;&c_r;&c_a;&c_d;)</klr></trd>
+  <trd lng="ja">&#x30BD;&#x30D5;&#x30A3;&#x30A2;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_S;&#x43E;&c_f;&c_ib;&#x44F; (&c_ib;&#x43C;&#x2019;&#x44F;)</trd>,
+    <trd>&c_S;&#x43E;&c_f;&c_ib;&#x44F; (&c_s;&c_t;&#x43E;&#x43B;&c_i;&c_c;&#x44F;)</trd>
+  </trdgrp>
 </drv>
 
   </art>
 
 <!--
 $Log$
+versio 1.9 2023/04/22 19:21:10
+Paul Peeraerts: &steloj -> monato.be
+
+versio 1.8 2022/08/23 07:35:41
+Dmitri Gabinski: + trd be
+
+versio 1.7 2022/05/05 05:09:57
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.5 2021/06/16 06:38:33
+Wolfram Diestel: +ref-hom
+
+versio 1.4 2020/05/14 12:12:03
+Damien Brucker: +trd fr
+
 Revision 1.2  2019/06/30 07:43:29  revo
 adaptis URL de Monato
 
 Revision 1.1  2018/06/16 19:10:14  revo
 Wolfram Diestel: nova artikolo
-
 -->
 </vortaro>

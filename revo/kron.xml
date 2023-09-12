@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kron.xml,v 1.28 2020/02/27 20:10:45 revo Exp $">
+<art mrk="$Id: kron.xml,v 1.45 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kron</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,9 +15,29 @@
     <subsnc mrk="kron.0o.plektita">
       <dif>
         kapornamo el kunplektitaj floroj, bran&ccirc;etoj, folioj, en iuj
-        kulturoj militista, sporta a&ubreve; civila honorsigno:
+        kulturoj kiel militista, sporta a&ubreve; civila honorsigno:
         <ekz>
-          <tld/>o el oran&gcirc;aj floroj.
+          unu floro ne estas <tld/>o
+          <fnt>
+            <bib>PrV</bib>
+          </fnt>;
+        </ekz>
+        <ekz>
+          oni piknikas, plukas florojn kaj faras el ili <tld/>ojn, kiujn oni surkape portas
+          <fnt>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2006/008313.php">Tago de la somero</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/06, p. 9</lok>
+        </fnt>;
+        </ekz>
+        <ekz>
+          ili plektis <tld/>on el dornoj kaj metis &gcirc;in sur lian kapon <klr>[&#x2026;]</klr> kaj
+          mokis lin, dirante: Saluton, Re&gcirc;o de la Judoj!
+          <fnt>
+            <bib>NT</bib>
+            <lok>Mateo 27:29</lok>
+          </fnt>.
         </ekz>
       </dif>
       <trdgrp lng="hu">
@@ -32,19 +51,32 @@
         metala kapornamo, signo de mo&scirc;teco, precipe de
         re&gcirc;eco en e&ubreve;ropa kaj aliaj kulturoj:
         <ekz>
-          markeza <tld/>o;
+          oni elkondukis la re&gcirc;idon, metis sur lin la <tld/>on kaj <klr>[&#x2026;]</klr>
+          proklamis lin re&gcirc;o
+          <fnt>
+            <bib>MT</bib>
+            <lok>II. Kroniko 23:11</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          metu la cidaron sur lian kapon, kaj metu la sanktan <tld/>on sur la cidaron
+          <fnt>
+            <bib>MT</bib>
+            <lok>Eliro 29:6</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          re&gcirc;ina <tld/>o
+          <fnt>
+            <bib>MT</bib>
+            <lok>Ester 1:11</lok>
+          </fnt>;
         </ekz>
         <ekz>
           &scirc;i havis sur la kapo grandegan oran <tld/>on, ornamitan per
           briliantoj kaj karbunkoloj
           <fnt><bib>ElektFab</bib>, <lok>Fi&scirc;kaptisto kaj lia
           edzino</lok></fnt>.
-        </ekz>
-        <ekz>
-          <uzo tip="fak">BIB</uzo>
-          la <ind>dorna <tld/>o</ind> <klr>(mok<tld/>o de Jesuo)</klr>
-          <trd lng="ru">&c_t;&c_je;&c_r;&c_n;&c_o;&c_v;&c_y;&c_j; &c_v;&c_je;&c_n;&c_je;&c_c;</trd>
-          <fnt><bib>NT</bib>, <lok>&Joh; 19:5</lok></fnt>.
         </ekz>
       </dif>
       <trd lng="hu">korona</trd>
@@ -69,7 +101,11 @@
         <fnt><bib>MT</bib>, <lok>&Sen; 16:31</lok></fnt>;
       </ekz>
       <ekz>
-        meti la <tld/>on sur <klr>(sukcese tutfini)</klr> sian laboron;
+        nepoj estas <tld/>o por maljunuloj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 17:6</lok>
+        </fnt>;
       </ekz>
       <ekz>
         brava virino estas <tld/>o por sia edzo
@@ -79,20 +115,79 @@
     <trd lng="hu">korona</trd>
   </snc>
   <snc mrk="kron.0o.regxeco">
+    <uzo tip="fak">POL</uzo>
     <uzo tip="stl">FIG</uzo>
     <dif>
       Re&gcirc;eco, suvereneco:
       <ekz>
-        aspiri al la <tld/>o;
+        la&ubreve; la nuna kodo por la imperiestra familio nur viroj per la vira deveno rajtas
+        heredi la <tld/>on
+        <fnt>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2013/011094.php">Palacaj perturboj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/10, p. 8</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la prerogativoj, bienoj, diamantoj, parolado de la <tld/>o
-        <klr>(re&gcirc;o)</klr>.
+        Manks-insulo <klr>[&#x2026;]</klr> estas poseda&jcirc;o de la brita <tld/>o
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2004/008271.html">Flagoj: fenestro al vasta mondo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/04, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        brita fideleco al la <tld/>o kaj al la virino, kiu nun portas &gcirc;in
+        <fnt>
+          <aut>W. H. Simcock</aut>
+          <vrk><url ref="&Monato;/2005/008702.php">Monarkia mistiko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2005/07, p. 11</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="hu">korona</trd>
     <trd lng="ru">&c_k;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>
   </snc>
+  <snc mrk="kron.0o.samforma">
+    <dif>
+      Objekto similforma kiel <ref cel="kron.0o.metala">krono<sncref/></ref>:
+      <ekz>
+        <klr>[la]</klr> altstaturaj palmoj ege impresis al mi pro ties kunigitaj <tld/>oj
+        <fnt>
+          <aut>Tatjana Loskutova</aut>
+          <vrk><url ref="&Monato;/2007/009164.php">Voja&gcirc;o en Iberio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/07, p. 14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ref cel="virus.kron0o">kronviruso</ref>;
+      </ekz>
+      <ekz>
+        <ind>denta <tld/>o</ind>
+        <fnt>
+          <aut>last/pg</aut>
+          <vrk><url ref="&Monato;/2006/008852.php">Fremdaj korpoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/05, p. 10</lok>
+        </fnt>.
+        <trd lng="de">Zahnkrone</trd>
+      </ekz>  
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="egret.0o.pluma">egreto<sncref/></ref>,
+      <ref cel="krest.0o">kresto</ref>,
+      <ref cel="korol.0o">korolo</ref>,
+      <ref cel="supr.0o">supro</ref> de arbo
+    </refgrp>
+  </snc>
+  <refgrp tip="hom">
+    <ref cel="kron2.0o">krono (monunuo)</ref>,
+    <ref cel="kron1.0o">Krono (titano)</ref>
+  </refgrp>
   <trdgrp lng="be">
     <trd>&c_v;&c_ja;&c_n;&c_o;&c_k;</trd>,
     <trd>&c_v;&c_ja;&c_n;&c_je;&c_c;</trd>,
@@ -107,66 +202,16 @@
   <trd lng="en">crown</trd>
   <trd lng="es">corona</trd>
   <trd lng="fr">couronne</trd>
+  <trd lng="ja">&#x30AF;&#x30ED;&#x30FC;&#x30CD;</trd>
   <trd lng="nl">kroon</trd>
   <trd lng="pl">korona</trd>
   <trd lng="pt">coroa</trd>
+  <trd lng="ro">coroan&abreve;</trd>
   <trd lng="sk">koruna <klr>(aj peniaz)</klr></trd>
-</drv>
-
-<drv mrk="kron.auxstralaK0o">
-  <kap>A&ubreve;strala <tld lit="K"/>o
-    <fnt>
-      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
-      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
-      universo</vrk>.
-      <lok>FEL, Antverpeno, 2005</lok>
-    </fnt>
-  </kap>
-  <mlg>CrA</mlg>
-  <snc mrk="kron.auxstralaK0o.AST">
-    <uzo tip="fak">AST</uzo>
-    <dif>
-      Sud-hemisfera <ref tip="lst" cel="stel.0figuro"
-      lst="voko:stelfiguroj">stelfiguro</ref>
-      
-(<trd lng="la">Corona Australis</trd>).
-    </dif>
-  </snc>
-  <trd lng="de">S&uuml;dliche Krone</trd>
-  <trd lng="en">Corona Australis</trd>
-  <trd lng="es">Corona Austral</trd>
-  <trd lng="fr">Couronne australe<klr tip="ind">
-  (constellation)</klr></trd>
-  <trd lng="nl">Zuiderkroon</trd>
-  <trd lng="pl">Korona Po&lstroke;udniowa</trd>
-</drv>
-
-<drv mrk="kron.borealaK0o">
-  <kap>Boreala <tld lit="K"/>o
-    <fnt>
-      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
-      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
-      universo</vrk>.
-      <lok>FEL, Antverpeno, 2005</lok>
-    </fnt>
-  </kap>
-  <mlg>CrB</mlg>
-  <snc mrk="kron.borealaK0o.AST">
-    <uzo tip="fak">AST</uzo>
-    <dif>
-      Nord-hemisfera <ref tip="lst" 
-cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd
-lng="la">Corona
-Borealis</trd>).
-    </dif>
-  </snc>
-  <trd lng="de">N&ouml;rdliche Krone</trd>
-  <trd lng="en">Corona Borealis</trd>
-  <trd lng="es">Corona Boreal</trd>
-  <trd lng="fr">Couronne bor&eacute;ale<klr tip="ind">
-  (constellation)</klr></trd>
-  <trd lng="nl">Noorderkroon</trd>
-  <trd lng="pl">Korona P&oacute;&lstroke;nocna</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&c_v;&c_ib;&#x43D;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kron.0i">
@@ -176,7 +221,14 @@ Borealis</trd>).
     <dif>
       Ornami per <tld/>o:
       <ekz>
-        la junulinoj <tld/>is siajn amikinojn per floroj.
+        la junulinoj <tld/>is siajn amikinojn per floroj;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> eltiris verdan petroselon el la balaa&jcirc;ejo kaj <tld/>is la poton
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Fluganta kofro</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -198,9 +250,13 @@ Borealis</trd>).
       </ekz>
     </dif>
     <refgrp tip="sin">
-      <ref cel="premi.0i">premii</ref>.
+      <ref cel="premi.0i">premii</ref>
     </refgrp>
-    <ref tip="vid" cel="lauxr.0okrono">la&ubreve;ro<tld/>o</ref>
+    <refgrp tip="vid">
+       <ref cel="kron.glor0o">glorkrono</ref>,
+       <ref cel="kron.lauxro0o">la&ubreve;ro<tld/>o</ref>
+    </refgrp>
+    <trd lng="be">&c_v;&c_ja;&c_n;&c_ch;&c_a;&c_c;&c_mol;</trd>
     <trd lng="nl">bekronen</trd>
     <trdgrp lng="ru">
       <trd>&c_v;&c_je;&c_n;&c_ch;&c_a;&c_t;&c_mol;</trd>,
@@ -213,7 +269,13 @@ Borealis</trd>).
       <tld/>on<sncref ref="kron.0o.metala"/> kiel signon
       de la monarka potenco:
       <ekz>
-        <tld/>i re&gcirc;on, imperiestron.
+        en 1430 oni intencis <tld/>i dukon <nom>Vytautas</nom> la Granda kiel re&gcirc;on de Litovio
+        <fnt>
+          <aut>last</aut>
+          <vrk><url ref="&Monato;/2010/010165.php">Celen sursele</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/11, p. 11</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="be">
@@ -230,13 +292,17 @@ Borealis</trd>).
   <snc mrk="kron.0i.rekompenci">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Rekompenci per atingo de rezulto:
+      Rekompenci per <ref tip="super" cel="ating.0i">atingo</ref> de rezulto:
       <ekz>
-        la sukceso <tld/>is lian penadon;
+        sa&gcirc;uloj estas <tld/>ataj de klereco
+        <fnt><bib>MT</bib>, <lok>&Sen; 14:18</lok></fnt>;
       </ekz>
       <ekz>
-        sa&gcirc;uloj estas <tld/>ataj de klereco<fnt><bib>MT</bib>,
-        <lok>&Sen; 14:18</lok></fnt>;
+        restas fari nur kelkajn pa&scirc;ojn por pravigi siajn esperojn <klr>[&#x2026;]</klr>, por
+        <tld/>i tiujn &ccirc;i dek ok jarojn
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
       </ekz>
       <ekz>
         se vi ne <tld/>os mian konstantan amon, tiam mi ne valoros la
@@ -254,24 +320,60 @@ Borealis</trd>).
     <dif>
       Esti supra (space) a&ubreve; fina (tempe, proceze) parto de io:
       <ekz>
-        kupolo <tld/>as la palacon;
+        la vojeton <tld/>is malluma, densa arbaro
+        <fnt>
+          <aut>Kazimierz Bein (trad.)</aut>
+          <vrk>Internacia Krestomatio</vrk>
+          <lok>La Miraklo de Purun Bhagat (R. Kipling)</lok></fnt>;
       </ekz>
       <ekz>
-        la vojeton <tld/>is malluma, densa arbaro<fnt><aut>Kazimierz
-        Bein (trad.)</aut><vrk>Internacia Krestomatio</vrk><lok>La
-        Miraklo de Purun Bhagat (R. Kipling)</lok></fnt>;
+        fine, por <tld/>i &ccirc;ion, pla&ccirc;is al la respektinda re&gcirc;ino honori nian kunvenon per sia &ccirc;eesto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        girlandoj da floroj gaje <tld/>is la kolonojn;
+        &scirc;i estas vestita brile bunte kiel amazona papago, <tld/>ita de granda &ccirc;apelo
+        <fnt>
+          <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2010/010133.php">&Scirc;an&gcirc;i&gcirc;anta mondo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/11, p. 17</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        montoj <tld/>itaj de eterna ne&gcirc;o;
+        restoracioj, <tld/>itaj de pinarboj
+        <fnt><aut>Robert Roze</aut>,
+        <vrk><url ref="&Monato;/2000/006945.php">Flagrantaj koloroj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000/06, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kadukajn kabanojn oni <tld/>is per sunpaneloj
+        <fnt>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2012/010844.php">Sunelektraj kamparanoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/11, p. 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Ba&hcirc;o anta&ubreve;e tre &scirc;pareme utiligis tiun sigelon, sed konscie <tld/>is sian lastan
+        verkon per &gcirc;i
+        <fnt>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+            <vrk><url ref="&Monato;/2001/007295.php">Fini&gcirc;is la Bach-jaro</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 17</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FRAZ</uzo>
         <ind>la fino <tld/>as la verkon</ind>
         <fnt><bib>PrV</bib></fnt>.
-        <trd lng="ru">&c_k;&c_o;&c_n;&c_je;&c_c; &#8208; &c_d;&c_je;&c_l;&c_u; &c_v;&c_je;&c_n;&c_je;&c_c;</trd>
+        <trd lng="ru">&c_k;&c_o;&c_n;&c_je;&c_c; &#x2010; &c_d;&c_je;&c_l;&c_u; &c_v;&c_je;&c_n;&c_je;&c_c;</trd>
       </ekz>
     </dif>
     <trd lng="be">&c_v;&c_ja;&c_n;&c_ch;&c_a;&c_c;&c_mol;</trd>
@@ -286,33 +388,233 @@ Borealis</trd>).
   <trd lng="en">crown</trd>
   <trd lng="es">coronar</trd>
   <trd lng="fr">couronner</trd>
+  <trdgrp lng="ja">
+    <trd>&#x51A0;&#x3092;&#x304B;&#x3076;&#x305B;&#x308B;  [<ind>&#x304B;&#x3093;&#x3092;&#x304B;&#x3076;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x5373;&#x4F4D;&#x3055;&#x305B;&#x308B;  [<ind>&#x305D;&#x304F;&#x3044;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x9802;&#x3092;&#x98FE;&#x308B;  [<ind>&#x3044;&#x305F;&#x3060;&#x3092;&#x304B;&#x3056;&#x308B;</ind>]</trd>,
+    <trd>&#x6700;&#x5F8C;&#x3092;&#x98FE;&#x308B;  [<ind>&#x3055;&#x3044;&#x3054;&#x3092;&#x304B;&#x3056;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">koronowa&cacute;</trd>
+  <trd lng="ro">&icirc;ncorona</trd>
   <trd lng="sk">korunova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&#x43D;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_v;&c_ib;&#x43D;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43A;&#x43E;&c_r;&#x43E;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43D;&c_a;&c_s;&c_a;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43A;&#x43E;&c_r;&#x43E;&#x43D;&#x43A;&c_u;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="kron.glor0o">
+  <kap>glor<tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="kron.0o"><tld lit="K"/>o</ref> donita al iu pro akirita gloro,
+      ekz-e dum batalo; ekz-e <ref tip="sub" cel="kron.lauxro0o">la&ubreve;ro<tld/>o</ref>, ofte uzata
+      metafore:
+      <ekz>
+        ne helpas glor<tld/>o al malplena kaldrono
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Libraro estu ta&ubreve;ga memora&jcirc;o pri nia amata amiko, kaj glor<tld/>o por nia  Majstro
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="auxreo.0o.REL">a&ubreve;reolo</ref>,
+      <ref cel="nimb.0o">nimbo</ref>,
+      <ref cel="presti1.0o">presti&gcirc;o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_e;&c_o;&c_l; &c_s;&c_l;&c_a;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>aureola</trd>,
+    <trd>gloriola</trd>,
+    <trd>svatoz&aacute;&rcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gloriole</trd>,
+    <trd>Ruhmeskrone</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>aur&eacute;ole<klr tip="ind"> (rel.)</klr></trd>,
+    <trd>nimbe<klr tip="ind"> (rel.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">dicsf&eacute;ny</trd>
+  <trd lng="nl">aureool</trd>
+  <trdgrp lng="pl">
+    <trd>aureola</trd>,
+    <trd>nimb</trd>
+  </trdgrp>
+  <trd lng="pt">aur&eacute;ola</trd>
+  <trdgrp lng="ro">
+    <trd>aureol&abreve;</trd>,
+    <trd>nimb</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_r;&c_je;&c_o;&c_l;</trd>,
+    <trd>&c_n;&c_i;&c_m;&c_b;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>aureola</trd>,
+    <trd>gloriola</trd>,
+    <trd>sv&auml;to&zcaron;iara</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_ib;&#x43C;&c_b;</trd>,
+    <trd>&#x43E;&c_r;&c_je;&#x43E;&#x43B;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kron.lauxro0o">
+  <kap>
+    la&ubreve;ro<tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="kron.0o.plektita">Krono<sncref/></ref>
+      el la&ubreve;raj bran&ccirc;etoj, kutima honorsigno &ccirc;e la antikvaj
+      grekoj kaj romianoj; metafore, simbolo de venko, sukceso,
+      merito:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        kion ajn fifamigan oni alie povis diri pri
+        &leftquot;<nom>Jorike</nom>&rightquot;, pro unu afero &gcirc;i meritis
+        la&ubreve;ro<tld/>on: &gcirc;i estis eminenta instrumajstro
+        <fnt>
+          <aut>B. Traven, tr. Hans-Georg Kaiser</aut>:
+          <vrk>La Mortula &scirc;ipo</vrk>.
+          <lok>
+          <url ref="http://home.t-online.de/home/kaiser-altenburg/u/B.Traven/m31-35.htm">
+          &Ccirc;ap. 31a</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la blazon&scirc;ildon <klr>[de Argentino]</klr> &ccirc;irka&ubreve;as la&ubreve;ro<tld/>o,        
+        kiu reprezentu la armean venkon en la batalo pri &scirc;tata
+        sendependeco
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=388271">Blazono
+          de Argentino</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_w;&c_r;&c_o;&c_v;&c_y; <ind>&c_v;&c_ja;&c_n;&c_o;&c_k;</ind></trd>
+  <trd lng="br">kurunenn lore</trd>
+  <trdgrp lng="ca">
+    <trd>corona de llorer</trd>,
+    <trd>laur&egrave;ola</trd>
+  </trdgrp>
+  <trd lng="de">Loorbeerkranz</trd>
+  <trd lng="nl">lauwerkrans</trd>
+  <trd lng="pl">wieniec <ind>laurowy</ind></trd>
+  <trd lng="ro">coroan&abreve; de dafin</trd>
+  <trd lng="ru">&c_l;&c_a;&c_v;&c_r;&c_o;&c_v;&c_y;&c_j;
+  &c_v;&c_je;&c_n;&c_o;&c_k;</trd>
+  <trd lng="uk">&#x43B;&c_a;&c_v;&c_r;&#x43E;&c_v;&c_i;&c_j; &c_v;&c_ib;&#x43D;&#x43E;&#x43A;</trd>
+</drv>
+
+
+<drv mrk="kron.auxstralaK0o">
+  <kap>A&ubreve;strala <tld lit="K"/>o
+    <fnt>
+      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
+      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
+      universo</vrk>.
+      <lok>FEL, Antverpeno, 2005</lok>
+    </fnt>
+  </kap>
+  <mlg>CrA</mlg>
+  <snc mrk="kron.auxstralaK0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Sud-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>      
+      (<trd lng="la">Corona Australis</trd>):
+      <ekz>
+        NGC 6541 estas globa stelamaso en konstelacio A&ubreve;strala <tld lit="K"/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=119789">NGC 6541</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_P;&c_a;&c_w;&c_d;&c_n;&c_jo;&c_v;&c_a;&c_ja; &c_K;&c_a;&c_r;&c_o;&c_n;&c_a; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#x2019;&c_je;)</klr></trd>
+  <trd lng="de">S&uuml;dliche Krone</trd>
+  <trd lng="en">Corona Australis</trd>
+  <trd lng="es">Corona Austral</trd>
+  <trd lng="fr">Couronne australe<klr tip="ind">
+  (constellation)</klr></trd>
+  <trd lng="nl">Zuiderkroon</trd>
+  <trd lng="pl">Korona Po&lstroke;udniowa  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Coroana Austral&abreve;  <klr>(constela&#x21B;ie)</klr></trd>
+</drv>
+
+<drv mrk="kron.borealaK0o">
+  <kap>Boreala <tld lit="K"/>o
+    <fnt>
+      <aut>Galad&iacute;-Enr&iacute;quez, David; Wandel, Amri</aut>:
+      <vrk>La kosmo kaj ni. Galaksioj, planedoj kaj vivo en la
+      universo</vrk>.
+      <lok>FEL, Antverpeno, 2005</lok>
+    </fnt>
+  </kap>
+  <mlg>CrB</mlg>
+  <snc mrk="kron.borealaK0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Nord-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd lng="la">Corona Borealis</trd>):
+      <ekz>
+        NGC 6002 estas stelo en konstelacio Boreala <tld lit="K"/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=119131">NGC 6002</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_P;&c_a;&c_w;&c_n;&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_K;&c_a;&c_r;&c_o;&c_n;&c_a; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#x2019;&c_je;)</klr></trd>
+  <trd lng="de">N&ouml;rdliche Krone</trd>
+  <trd lng="en">Corona Borealis</trd>
+  <trd lng="es">Corona Boreal</trd>
+  <trd lng="fr">Couronne bor&eacute;ale<klr tip="ind">
+  (constellation)</klr></trd>
+  <trd lng="nl">Noorderkroon</trd>
+  <trd lng="pl">Korona P&oacute;&lstroke;nocna  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Coroana Boreal&abreve;  <klr>(constela&#x21B;ie)</klr></trd>
+</drv>
+
 </art>
 <!--
-$Log: kron.xml,v $
-versio 1.28 2020/02/27 20:10:45
-Robin van der Vliet: riparis sncref
+$Log$
+versio 1.44 2023/05/09 06:32:11
+Paul Peeraerts: + lok
 
-Revision 1.27  2017/04/27 15:10:13  revo
-Ludoviko Francisco: +fnt
+versio 1.43 2023/04/30 16:32:11
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.26  2017/04/06 10:10:15  revo
-Ludoviko Francisco: +trd fr
+versio 1.42 2023/04/27 10:31:12
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.25  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.41 2022/12/30 08:31:47
+Dmitri Gabinski: + trd be
 
-Revision 1.24  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.40 2022/10/02 20:36:39
+Vito Redsky: +trd pl + trd ro
 
-Revision 1.23  2014/01/28 02:10:20  revo
-Sebastian Cyprych: +trd pl
+versio 1.39 2022/09/29 07:50:08
+Dmitri Gabinski: + trd be
 
-Revision 1.22  2013/08/25 08:10:20  revo
-Wolfram Diestel: referenco al listo stelfiguroj
+versio 1.38 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.21  2009/09/16 16:30:58  revo
+versio 1.34 2021/05/25 19:24:49
 -->
 </vortaro>

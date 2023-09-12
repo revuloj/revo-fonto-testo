@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: etn.xml,v 1.13 2010/04/09 16:31:08 revo Exp $">
+<art mrk="$Id: etn.xml,v 1.21 2023/08/31 11:49:31 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>etn</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -64,6 +63,10 @@
     <trd>etnikum</trd>,
     <trd>n&eacute;pcsoport</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C11;&#x65CF;  [<ind>&#x307F;&#x3093;&#x305E;&#x304F;</ind>]</trd>,
+    <trd>&#x30A8;&#x30B9;&#x30CB;&#x30C3;&#x30AF;&#x30B0;&#x30EB;&#x30FC;&#x30D7;</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>grupa <ind>etniczna</ind></trd>,
     <trd>lud</trd>
@@ -76,6 +79,10 @@
   </trdgrp>
   <trd lng="ru">&c_e;&c_t;&c_n;&c_o;&c_s;</trd>
   <trd lng="sv">etnisk grupp</trd>
+  <trdgrp lng="uk">
+    <trd>&c_je;&c_t;&#x43D;&#x43E;&c_s;</trd>,
+    <trd>&#x43F;&#x43B;&c_je;&#x43C;&#x2019;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="etn.sub0o">
@@ -107,6 +114,7 @@
       Etno entenanta aliajn, malpli grandajn etnojn.
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_u;&c_p;&c_e;&c_r;&c_e;&c_t;&c_n;&c_a;&c_s;</trd>
   <trdgrp lng="de">
     <trd>Superethnie</trd>,
     <trd>ethnische Obergruppe</trd>,
@@ -114,8 +122,7 @@
   </trdgrp>
   <trd lng="en">ethnic supergroup</trd>
   <trd lng="hu">szuperetnikum</trd>
-  <trd lng="ru">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_ju;&c_shch;&c_i;&c_j;
-  <ind>&c_e;&c_t;&c_n;&c_o;&c_s;</ind></trd>
+  <trd lng="ru">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_ju;&c_shch;&c_i;&c_j; <ind>&c_e;&c_t;&c_n;&c_o;&c_s;</ind></trd>
 </drv>
 
 <drv mrk="etn.0ogenezo">
@@ -143,6 +150,10 @@
   <trd lng="pl">etnogeneza</trd>
   <trd lng="ru">&c_e;&c_t;&c_n;&c_o;&c_g;&c_je;&c_n;&c_je;&c_z;</trd>
   <trd lng="sk">etnogen&eacute;za</trd>
+  <trdgrp lng="uk">
+    <trd>&c_je;&c_t;&#x43D;&#x43E;&c_g;&c_je;&#x43D;&c_je;&c_z;</trd>,
+    <trd>&#x43F;&#x43E;&c_h;&#x43E;&c_d;&c_zh;&c_je;&#x43D;&#x43D;&#x44F; &#x43D;&c_a;&c_r;&#x43E;&c_d;&c_ib;&c_v;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="etn.0a">
@@ -157,11 +168,16 @@
   <trd lng="en">ethnic</trd>
   <trd lng="fr">ethnique</trd>
   <trd lng="hu">etnikai</trd>
+  <trd lng="ja">&#x6C11;&#x65CF;&#x306E;  [<ind>&#x307F;&#x3093;&#x305E;&#x304F;&#x306E;</ind>]</trd>
   <trd lng="pl">etniczny</trd>
+  <trd lng="uk">&c_je;&c_t;&#x43D;&c_ib;&c_ch;&#x43D;&c_i;&c_j;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2022/04/13 08:46:02
+Dmitri Gabinski: + trd be
+
 Revision 1.17  2015/08/22 15:10:19  revo
 Damien Brucker: +trd fr
 

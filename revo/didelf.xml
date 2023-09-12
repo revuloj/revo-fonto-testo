@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: didelf.xml,v 1.17 2009/10/10 16:30:27 revo Exp $">
+<art mrk="$Id: didelf.xml,v 1.28 2023/08/31 10:44:00 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>didelf</rad>/o
@@ -12,13 +11,11 @@
   <uzo tip="fak">ZOO</uzo>
   <snc>
     <dif>
-      <ref tip="lst" cel="marsup.0o"
-      lst="voko:marsupiuloj">Marsupiulo</ref>
-      &gcirc;is inter 32&#8239;cm kaj 50&#8239;cm longa kun same longa nuda vosto,
+      <ref tip="lst" cel="marsup.0o" lst="voko:marsupiuloj">Marsupiulo</ref>
+      &gcirc;is inter 32&#x202F;cm kaj 50&#x202F;cm longa kun same longa nuda vosto,
       per kiu &gcirc;i kapablas bone grimpi,
       ofte kun tri nigraj strioj sur la kapo;
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:zoologiaj_genroj">genro</ref> el familio 
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">genro</ref> el familio 
       <ref tip="malprt" cel="didelf1.0oj"><tld/>edoj</ref>
       (<trd lng="la">Didelphis</trd>):
       <ekz>
@@ -30,23 +27,29 @@
         </fnt>.
       </ekz>
     </dif>
-    <bld
-      lok="&WCU;/thumb/b/b7/Didelphis_albiventris%2C_Bahia%2C_Brazil.jpg/640px-Didelphis_albiventris%2C_Bahia%2C_Brazil.jpg"
-      prm="CC BY 2.0"
-      >blankventra <tld/>o (Didelphis albiventris), Bahia, Brazilo
+    <bld lok="&WCU;/thumb/b/b7/Didelphis_albiventris%2C_Bahia%2C_Brazil.jpg/640px-Didelphis_albiventris%2C_Bahia%2C_Brazil.jpg" prm="CC BY 2.0">blankventra <tld/>o (Didelphis albiventris), Bahia, Brazilo
         <fnt>
           <aut>Alex Popovkin, Bahia, Brazilo</aut>
-          <lok><url ref="&WCW;/File:Didelphis_albiventris,_Bahia,_Brazil.jpg"
-              >&WCW;/File:Didelphis_albiventris,_Bahia,_Brazil.jpg</url></lok>
+          <lok><url ref="&WCW;/File:Didelphis_albiventris,_Bahia,_Brazil.jpg">&WCW;/File:Didelphis_albiventris,_Bahia,_Brazil.jpg</url></lok>
         </fnt>
     </bld>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_r;&c_b;&c_a;&c_n;&c_o;&c_sh;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_m;&c_ch;&c_a;&c_t;&c_y; &c_p;&c_a;&c_c;&c_u;&c_k;</trd>,
+    <trd>&c_a;&c_p;&c_o;&c_s;&c_u;&c_m;</trd>
+  </trdgrp>
   <trd lng="cs">va&ccaron;ice</trd>
   <trd lng="de">Opossum</trd>
   <trdgrp lng="en"><trd>opossum</trd>,
   <trd>possum</trd></trdgrp>
   <trd lng="fr">opossum, sarigue</trd>
+  <trd lng="he">&#x5D0;&#x5D5;&#x5E4;&#x5D5;&#x5E1;&#x5D5;&#x5DD;</trd>
   <trd lng="hu">ersz&eacute;nyes <ind>patk&aacute;ny</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30DD;&#x30C3;&#x30B5;&#x30E0;</trd>,
+    <trd>&#x30D5;&#x30AF;&#x30ED;&#x30CD;&#x30BA;&#x30DF;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>buidelrat</trd>,
     <trd>opossum</trd>
@@ -67,11 +70,18 @@
     <trd>&c_o;&c_p;&c_o;&c_s;&c_s;&c_u;&c_m;</trd>
   </trdgrp>
   <trd lng="sk">va&ccaron;ica</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x432;&#x43E;&#x443;&#x442;&#x440;&#x43E;&#x431;&#x43A;&#x430;</trd>,
+    <trd>&#x43E;&#x43F;&#x43E;&#x441;&#x443;&#x43C;</trd>
+  </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.26 2021/12/06 08:36:34
+Dmitri Gabinski: + trd be
+
 Revision 1.23  2017/05/17 16:10:15  revo
 Cindy Moon McKee: +en
 

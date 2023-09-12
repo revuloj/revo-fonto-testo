@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gres.xml,v 1.5 2008/02/12 17:30:27 revo Exp $">
+<art mrk="$Id: gres.xml,v 1.17 2023/08/31 14:29:55 revo Exp $">
 <kap>
   <rad>gres</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -12,31 +11,56 @@
   <snc mrk="gres.0o.AGR">
     <uzo tip="fak">AGR</uzo>
     <dif>
-      Dense kreskanta herbaro, precipe el poacoj, ta&ubreve;ga por
-pa&scirc;tado kaj
-      fura&gcirc;o de brutoj:
+      Dense kreskanta <ref cel="herb.0o.KOMUNE">herb</ref>aro, precipe el poacoj, ta&ubreve;ga por
+      pa&scirc;tado kaj fura&gcirc;o de brutoj:
       <ekz>
-        la <tld/>o estas verda kaj fre&scirc;a. Vidu!
+        la <tld/>o estas verda kaj fre&scirc;a, vidu!
         <fnt>
-        <aut>E. do Nascimento</aut>,
-        <vrk><url
-ref="http://www.kke.org.br/esperanto/por_infanoj/la_magia_cxevaleto.php">La
-        Magia &Ccirc;evaleto</url></vrk>,
-        <lok>KKE, 1996</lok>
+          <aut>E. do Nascimento</aut>,
+          <vrk><url ref="http://www.kke.org.br/esperanto/por_infanoj/la_magia_cxevaleto.php">La
+          Magia &Ccirc;evaleto</url></vrk>,
+          <lok>KKE, 1996</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        suka <tld/>o kreskis viralte, kaj kiam la vento glitis sur &gcirc;i, kuris ondoj tra
+        la ebena&jcirc;o
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Destino de Atrejo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pordo <klr>[&#x2026;]</klr> plektita el <tld/>o
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Ar&gcirc;enta Urbo Amarganto</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_v;&c_a;</trd>
   <trd lng="bg">&c_t;&c_r;&c_je;&c_v;&c_a;</trd>
+  <trd lng="bo">&t_ra;&t_tsata;&t_wasur;&t_tsheg;</trd>
   <trd lng="ca">past</trd>
   <trd lng="cs">p&iacute;cnina</trd>
-  <trd lng="de">Grass</trd>
+    <trdgrp lng="de">
+      <trd>Gras</trd>,
+      <trd>Weidegras</trd>
+    </trdgrp>
   <trd lng="en">grass</trd>
   <trd lng="fr">p&acirc;ture<klr> (herbe)</klr></trd>
   <trd lng="hu">(takarm&aacute;ny)f&udblac;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7267;&#x8349;  [<ind>&#x307C;&#x304F;&#x305D;&#x3046;</ind>]</trd>,
+    <trd>&#x829D;&#x8349;  [<ind>&#x3057;&#x3070;&#x304F;&#x3055;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">trawa<klr> (karmowa)</klr></trd>
   <trd lng="pt">capim</trd>
   <trd lng="sk">tr&aacute;va</trd>
+  <trd lng="uk">&c_t;&c_r;&c_a;&c_v;&c_a;&nbsp;(&c_ja;&c_k; &c_f;&c_u;&c_r;&c_a;&c_zh;)</trd>
 </drv>
 
 <drv mrk="gres.0ejo">
@@ -47,21 +71,31 @@ ref="http://www.kke.org.br/esperanto/por_infanoj/la_magia_cxevaleto.php">La
       Loko, kie kreskas <tld/>o:
       <ekz>
         a&ubreve;di&gcirc;is blekado de brutaro revenanta de
-        malproksimaj
-<tld/>ejoj
+        malproksimaj <tld/>ejoj
         <fnt>
         <aut>Vladimir Glazunov</aut>,
-        <vrk><url
-ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/Cxarmo.html">La
-        &ccirc;armo de &Ccirc;ielmontaro</url></vrk>,
-        <lok>Fonto, numero 37a</lok>
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/Cxarmo.html">La
+          &ccirc;armo de &Ccirc;ielmontaro</url></vrk>,
+          <lok>Fonto, numero 37a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la iame verdaj kaj buntaj <tld/>ejoj nun estis palaj
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Flugo al la Ebura Turo</lok>
         </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="pasxt.0ejo">pa&scirc;tejo</ref>
+      <ref cel="gazon.0o">gazono</ref>,
+      <ref cel="tapisx.herbo0o">herbotapi&scirc;o</ref>,
+      <ref cel="pasxt.0ejo">pa&scirc;tejo</ref>,
+      <ref cel="razen.0o">razeno</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_sh;&c_a;</trd>
   <trdgrp lng="ca">
     <trd>pastura</trd>,
     <trd>pastiu</trd>
@@ -78,13 +112,35 @@ ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/Cxarmo.html">La
     <trd>legel&odblac;</trd>,
     <trd>kasz&aacute;l&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7267;&#x8349;&#x5730;  [<ind>&#x307C;&#x304F;&#x305D;&#x3046;&#x3061;</ind>]</trd>,
+    <trd>&#x829D;&#x751F;  [<ind>&#x3057;&#x3070;&#x3075;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">pastwisko</trd>
   <trd lng="sk">pastvina</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_u;&c_k;&c_a;</trd>,
+    <trd>&c_l;&c_u;&c_g;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_o;&c_v;&c_i;&c_shch;&c_je;</trd>,
+    <trd>&c_v;&c_i;&c_p;&c_a;&c_s;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.16 2023/02/17 12:47:18
+Wolfram Diestel: +ekz-oj, ref-oj
+
+versio 1.15 2022/08/07 20:32:03
+Ulrich Fellmann: greso: + 1 plia DE trd
+
+versio 1.14 2022/07/25 13:56:31
+Ulrich Fellmann: greso: kor de skriberaro en DE trd
+
+versio 1.11 2021/05/06 07:02:23
+Dmitri Gabinski: + trd be
+
 Revision 1.9  2017/07/10 06:10:21  revo
 Ian Dalton: +trd en
 
@@ -95,14 +151,5 @@ Revision 1.7  2015/06/29 16:29:39  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.6  2012/08/19 00:11:22  revo
-Marc Rausell: + trd ca
-
-Revision 1.5  2008/02/12 17:30:27  revo
-Wieland Pusch: +trd bg
-
-Revision 1.4  2008/02/09 17:30:54  revo
-Wieland Pusch: +trd de+bg
-
-Revision 1.3  2007/05/11 16:30:31  revo
 -->
 </vortaro>

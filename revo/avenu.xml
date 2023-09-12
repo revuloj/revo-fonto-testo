@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: avenu.xml,v 1.15 2009/10/01 16:30:42 revo Exp $">
+<art mrk="$Id: avenu.xml,v 1.26 2023/08/30 18:23:38 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>avenu</rad>/o <fnt><bib>PV</bib></fnt>
@@ -16,14 +15,61 @@
       trafiko, ofte borderita per arboj a&ubreve; kun perspektivo al
       monumento a&ubreve; pejza&gcirc;o:
       <ekz>
+        la lar&gcirc;a, alea <tld/>o estas gaja kaj homoplena, el la centro de la urbo
+        ver&scirc;i&gcirc;as vigla amaso
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la geedzoj veturis al la <tld/>o de <nom>Bois-de-Boulogne</nom>, kaj eniris en la grandan
+        salonon de l&#x2019; hotelo
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la plej simpla solvo estus &jcirc;eti min sub tramon en la <tld/>o kien kondukis mia
+        strateto
+        <fnt>
+          <bib>MkM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         arboj de mildaj klimatoj, kiuj facile estas planteblaj en parkoj
         kaj <tld/>oj
-        <fnt><aut>Wim M. A. De Smet</aut>: <vrk>Ekzotaj arboj
-        en Esperantujo (Lilli Giloteaux, Arboj en A&ubreve;stralio kaj
-        suda E&ubreve;ropo)</vrk>, <bib>Monato</bib>,
-        <lok>jaro 1997a, numero 10a, p. 19a</lok></fnt>.
+        <fnt>
+          <aut>Wim M. A. De Smet</aut>:
+          <vrk>Ekzotaj arboj en Esperantujo (Lilli Giloteaux, Arboj en A&ubreve;stralio kaj
+           suda E&ubreve;ropo)</vrk>, <bib>Monato</bib>,
+           <lok>1997/10, p. 19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        arbareto situas &ccirc;e la okcidenta fino de la &gcirc;ardeno, kaj la <tld/>o de &leftquot;alfabetaj
+        arboj&rightquot; nordparte
+        <fnt>
+          <aut>M&aacute;ire NicAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006878.php">&Gcirc;ardenumi</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/04, p. 20</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        dum ilia promeno en <tld/>o, atentinte &scirc;ian laci&gcirc;on, li proponis al &scirc;i sidi&gcirc;i
+        por ripozi
+        <fnt>
+          <aut>Shi Chengtai</aut>
+          <vrk><url ref="&Monato;/1995/A950601.php">La kompensa kiso</url></vrk>
+          <bib>Monato</bib>
+          <lok>1995/06, p. 27</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="ale.0o.TRA">aleo<sncref/></ref>,
+       <ref cel="sxose.0o.TRA">&scirc;oseo<sncref/></ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_s;&c_p;&c_e;&c_k;&c_t;</trd>,
@@ -44,6 +90,7 @@
   <trd lng="en">avenue</trd>
   <trd lng="es">avenida</trd>
   <trd lng="fr">avenue</trd>
+  <trd lng="he">&shin;&#x5C1;&#x5B0;&dalet;&#x5B5;&resh;&#x5B8;&he;</trd>
   <trdgrp lng="hu">
     <trd>sug&aacute;r&uacute;t</trd>,
     <trd>fasor</trd>
@@ -52,6 +99,11 @@
     <trd>corso<klr> (strada)</klr></trd>,
     <trd>viale</trd>,
     <trd>avenue</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E26;&#x6728;&#x9053;  [<ind>&#x306A;&#x307F;&#x304D;&#x307F;&#x3061;</ind>]</trd>,
+    <trd>&#x30A2;&#x30D9;&#x30CB;&#x30E5;&#x30FC;</trd>,
+    <trd>&#x5927;&#x901A;&#x308A;  [<ind>&#x304A;&#x304A;&#x3069;&#x304A;&#x308A;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">laan</trd>
   <trd lng="pl">aleja</trd>
@@ -67,10 +119,27 @@
     <trd>trieda</trd>,
     <trd>&scaron;irok&aacute; ulica so stromami</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&c_s;&#x43F;&c_je;&#x43A;&c_t;</trd>,
+    <trd>&c_a;&#x43B;&c_je;&#x44F;</trd>,
+    <trd>&c_a;&c_v;&c_je;&#x43D;&#x44E;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/04/15 10:28:40
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.24 2023/04/12 16:34:31
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.23 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.21 2021/05/16 11:49:48
+Wolfram Diestel: +ekz-oj, ref-oj
+
 Revision 1.18  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -81,14 +150,5 @@ Revision 1.16  2011/10/05 09:10:20  revo
 Antonio Codazzi: +trd it
 
 Revision 1.15  2009/10/01 16:30:42  revo
-Paul Peeraerts: +nl
-
-Revision 1.14  2008/05/12 17:55:28  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.13  2003/09/07 20:32:58  revo
-Jeromo Vasxe: + fak tra, + tez, + mod dif (+ trafiko + ofte)
-
-Revision 1.12 2002/10/12 16:31:02 revo
 -->
 </vortaro>

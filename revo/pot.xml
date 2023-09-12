@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pot.xml,v 1.35 2023/09/03 12:45:11 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pot</rad>/o <fnt><bib>PV</bib></fnt>
@@ -48,6 +47,7 @@
     <trd>&c_t;&c_je;&c_n;&c_d;&c_zh;&c_je;&c_r;&c_a;</trd>,
     <trd>&c_g;&c_malmol;&c_r;&c_n;&c_je;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF41;&#xF7C;&#xF42;&#xF0B;&#xF58;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>hrnec</trd>,
     <trd>kotl&iacute;k</trd>
@@ -60,6 +60,12 @@
   </trdgrp>
   <trd lng="fr">pot</trd>
   <trd lng="hu">faz&eacute;k</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x307C;</trd>,
+    <trd>&#x306F;&#x3061;</trd>,
+    <trd>&#x30DD;&#x30C3;&#x30C8;</trd>,
+    <trd>&#x306A;&#x3079;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>pot</trd>,
     <trd>pan</trd>
@@ -76,6 +82,11 @@
   <trdgrp lng="sk">
     <trd>hrniec</trd>,
     <trd>n&aacute;doba</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x433;&#x43E;&#x440;&#x449;&#x43E;&#x43A;</trd>,
+    <trd>&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&#x43A;&#x430;&#x441;&#x442;&#x440;&#x443;&#x43B;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -106,10 +117,12 @@
   <trd lng="es">florero</trd>
   <trd lng="fr">pot de fleurs</trd>
   <trd lng="hu">vir&aacute;gcser&eacute;p</trd>
+  <trd lng="ja">&#x690D;&#x6728;&#x9262;  [<ind>&#x3046;&#x3048;&#x304D;&#x3070;&#x3061;</ind>]</trd>
   <trd lng="nl">bloempot</trd>
   <trd lng="pl">wazon</trd>
   <trd lng="ru">&c_c;&c_v;&c_je;&c_t;&c_o;&c_ch;&c_n;&c_y;&c_j;
   &c_g;&c_o;&c_r;&c_sh;&c_o;&c_k;</trd>
+  <trd lng="uk">&#x432;&#x430;&#x437;&#x43E;&#x43D;</trd>
 </drv>
 
 <drv mrk="pot.kuir0o">
@@ -156,6 +169,7 @@
     <trd>faz&eacute;k</trd>,
     <trd>l&aacute;bas</trd>
   </trdgrp>
+  <trd lng="ja">&#x306A;&#x3079;</trd>
   <trd lng="nl">kookpan</trd>
   <trdgrp lng="pl">
     <trd>gar</trd>,
@@ -168,6 +182,11 @@
     &c_v;&c_a;&c_r;&c_k;&c_i;)</klr></trd>
   </trdgrp>
   <trd lng="sk">hrniec na varenie</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x430;&#x437;&#x430;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&#x447;&#x430;&#x432;&#x443;&#x43D;</trd>,
+    <trd>&#x447;&#x430;&#x432;&#x443;&#x43D;&#x435;&#x446;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pot.miks0ajxo">
@@ -192,8 +211,7 @@
         de krispa brasiko
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://www.esperanto-nederland.nl/esp/turista-informo/ANNE%20FRANK%20DOMO.doc">
+          <vrk><url ref="http://www.esperanto-nederland.nl/esp/turista-informo/ANNE%20FRANK%20DOMO.doc">
           Anne Frank Domo</url></vrk>,
           <lok>[vidita en 2012]</lok>
         </fnt>.
@@ -233,11 +251,21 @@
   </snc>
   <trd lng="es">guiso</trd>
   <trd lng="fr">salmigondis</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3054;&#x3063;&#x305F;&#x716E;  [<ind>&#x3054;&#x3063;&#x305F;&#x306B;</ind>]</trd>,
+    <trd>&#x96D1;&#x9332;  [<ind>&#x3056;&#x3064;&#x308D;&#x304F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x430;&#x491;&#x443; &#x437; &#x440;&#x456;&#x437;&#x43D;&#x438;&#x445; &#x441;&#x43E;&#x440;&#x442;&#x456;&#x432; &#x43C;&#x2019;&#x44F;&#x441;&#x430;</trd>,
+    <trd>&#x441;&#x443;&#x43C;&#x456;&#x448;</trd>,
+    <trd>&#x43C;&#x456;&#x448;&#x430;&#x43D;&#x438;&#x43D;&#x430;</trd>,
+    <trd>&#x43F;&#x43E;&#x43F;&#x443;&#x440;&#x456;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pot.ter0o">
   <kap>ter<tld/>o <fnt><bib>PIV3</bib></fnt></kap>
-  <snc  mrk="pot.ter0o.ujo">
+  <snc mrk="pot.ter0o.ujo">
     <dif>
       <tld lit="P"/>o el bakita argilo:
       <ekz>
@@ -254,16 +282,21 @@
   </trdgrp>
   <trd lng="es">vasija de loza</trd>
   <trd lng="fr">pot de fa&iuml;ence</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x307C;</trd>,
+    <trd>&#x304B;&#x3081;</trd>
+  </trdgrp>
   <trd lng="nl"><ind>pot</ind> uit aardewerk</trd>
   <trdgrp lng="pl">
     <trd>donica</trd>,
     <trd>doniczka</trd>
   </trdgrp>
+  <trd lng="uk">&#x433;&#x43E;&#x440;&#x449;&#x43E;&#x43A;</trd>
 </drv>
 
 <drv mrk="pot.0faristo">
   <kap><tld/>faristo</kap>
-  <snc  mrk="pot.0faristo.VAZ">
+  <snc mrk="pot.0faristo.VAZ">
     <dif>
       Homo, kiu profesie okupi&gcirc;as pri farado de <tld/>oj,
       precipe tiu, kiu faras ilin per bakado de argilo:
@@ -286,6 +319,11 @@
   <trd lng="en">potter</trd>
   <trd lng="es">alfarero</trd>
   <trd lng="fr">potier</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9676;&#x5DE5;  [<ind>&#x3068;&#x3046;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x9676;&#x5668;&#x8077;&#x4EBA;  [<ind>&#x3068;&#x3046;&#x304D;&#x3057;&#x3087;&#x304F;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x9676;&#x82B8;&#x5BB6;  [<ind>&#x3068;&#x3046;&#x3052;&#x3044;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">pottenbakker</trd>
   <trd lng="pl">garncarz</trd>
   <trd lng="sk">hrn&ccaron;iar</trd>
@@ -293,7 +331,7 @@
 
 <drv mrk="pot.0farado">
   <kap><tld/>farado</kap>
-  <snc  mrk="pot.0farado.VAZ">
+  <snc mrk="pot.0farado.VAZ">
     <dif>
       Farado de <tld/>oj, precipe per formado kaj bakado de argilo:
       <ekz>
@@ -301,8 +339,7 @@
         <ctl>someraj lernejoj de <tld/>farado</ctl>
         <fnt>
           <vrk>
-            <url
-            ref="http://94uk.bialystok.pl/Podlahia-Vojevodio-kaj-Bjalistoko/Podla--ia-Vojevodio-kaj-Bjalistoko,22,7.html">
+            <url ref="http://94uk.bialystok.pl/Podlahia-Vojevodio-kaj-Bjalistoko/Podla--ia-Vojevodio-kaj-Bjalistoko,22,7.html">
             Podla&hcirc;ia Vojevodio kaj Bjalistoko</url>
           </vrk>
        </fnt>;
@@ -312,8 +349,7 @@
         <fnt>
           <aut>Sakari Kauppinen</aut>,
           <vrk>Voja&gcirc;oj al la mondo - Nepalo
-            <url
-            ref="http://www.sakarikauppinen.com/nepal/nepalo10.html">
+            <url ref="http://www.sakarikauppinen.com/nepal/nepalo10.html">
             Placo de potistoj en Bhaktapur</url>
           </vrk>
        </fnt>.
@@ -327,9 +363,17 @@
   </trdgrp>
   <trd lng="es">vasija de barro</trd>
   <trd lng="fr">poterie</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9676;&#x5668;&#x4F5C;&#x308A;  [<ind>&#x3068;&#x3046;&#x304D;&#x3065;&#x304F;&#x308A;</ind>]</trd>,
+    <trd>&#x9676;&#x82B8;  [<ind>&#x3068;&#x3046;&#x3052;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">pottenbakkerskunst</trd>
   <trd lng="pl">garncarstwo</trd>
   <trd lng="sk">hrn&ccaron;iarstvo</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x433;&#x43E;&#x442;&#x43E;&#x432;&#x43B;&#x435;&#x43D;&#x43D;&#x44F; &#x43F;&#x43E;&#x441;&#x443;&#x434;&#x443;</trd>,
+    <trd>&#x433;&#x43E;&#x43D;&#x447;&#x430;&#x440;&#x441;&#x442;&#x432;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 </art>

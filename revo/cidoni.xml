@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cidoni.xml,v 1.17 2009/08/08 16:32:41 revo Exp $">
+<art mrk="$Id: cidoni.xml,v 1.30 2023/08/31 10:10:26 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>cidoni</rad>/o <fnt><bib>PV</bib></fnt>
@@ -28,16 +27,19 @@
   <trd lng="en">quince</trd>
   <trd lng="es">membrillo</trd>
   <trd lng="fr">coing</trd>
+  <trd lng="he">&#x5D7;&#x5B7;&#x5D1;&#x5BC;&#x5D5;&#x5BC;&#x5E9;&#x5C1;</trd>
   <trd lng="hu">birsalma</trd>
   <trdgrp lng="it">
     <trd>mela <klr>cotogna</klr></trd>
     <trd>pera <klr>cotogna</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x30DE;&#x30EB;&#x30E1;&#x30ED;</trd>
   <trd lng="nl">kweepeer</trd>
   <trd lng="pl">pigwa<klr> (owoc)</klr></trd>
   <trd lng="pt">marmelo</trd>
   <trd lng="ru">&c_a;&c_j;&c_v;&c_a; <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
   <trd lng="sk">dula <klr>(plod)</klr></trd>
+  <trd lng="uk">&#x430;&#x439;&#x432;&#x430;</trd>
 </drv>
 
 <drv mrk="cidoni.0arbo">
@@ -47,9 +49,7 @@
     <uzo tip="fak">BOT</uzo>
     <dif>
       Arbo kun pir- a&ubreve; pomsimilaj flavaj lanug&scirc;elaj fruktoj;
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
-      tip="malprt" cel="rozac.0oj">rozacoj</ref>
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">genro</ref> el familio <ref tip="malprt" cel="rozac.0oj">rozacoj</ref>
       (<trd lng="la">Cydonia</trd>):
       <ekz>
         la pirujo estas multe pli facile greftebla
@@ -69,13 +69,16 @@
   <trd lng="el">&kappa;&ypsilon;&delta;&omega;&ny;&jota;&alfa_ton;</trd>
   <trd lng="en">quince</trd>
   <trd lng="fr">cognassier</trd>
+  <trd lng="he">&#x5E2;&#x5E5; &#x5D7;&#x5D1;&#x5D5;&#x5E9;&#x5D9;&#x5DD;</trd>
   <trd lng="hu">birsalmafa</trd>
   <trd lng="it">cotogno</trd>
+  <trd lng="ja">&#x30DE;&#x30EB;&#x30E1;&#x30ED;</trd>
   <trd lng="nl">kweepeer</trd>
   <trd lng="pl">pigwa<klr> (drzewo)</klr></trd>
   <trd lng="pt">marmeleiro</trd>
   <trd lng="ru">&c_a;&c_j;&c_v;&c_a; <klr>(&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
   <trd lng="sk">dula <klr>(strom)</klr></trd>
+  <trd lng="uk">(&#x434;&#x435;&#x440;&#x435;&#x432;&#x43E;) &#x430;&#x439;&#x432;&#x430;</trd>
 </drv>
 </art>
 <!--

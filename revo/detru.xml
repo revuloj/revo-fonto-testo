@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: detru.xml,v 1.31 2020/03/03 08:10:18 revo Exp $">
+<art mrk="$Id: detru.xml,v 1.37 2023/08/31 10:43:59 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>detru</rad>/i
@@ -120,6 +119,7 @@
     <trd>&c_r;&c_u;&c_j;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_b;&c_u;&c_r;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF58;&#xF7A;&#xF51;&#xF0B;&#xF54;&#xF0B;&#xF56;&#xF5F;&#xF7C;&#xF0B;&#xF56;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>bourat</trd>,
     <trd>kazit</trd>,
@@ -136,9 +136,16 @@
     <trd>d&eacute;molir</trd>,
     <trd>d&eacute;truire</trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5E8;&#x5D5;&#x5E1;</trd>
   <trdgrp lng="hu">
     <trd>lerombol</trd>,
     <trd>t&ouml;nkretesz</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7834;&#x58CA;&#x3059;&#x308B;  [<ind>&#x306F;&#x304B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x53D6;&#x308A;&#x58CA;&#x3059;  [<ind>&#x3068;&#x308A;&#x3053;&#x308F;&#x3059;</ind>]</trd>,
+    <trd>&#x6253;&#x7834;&#x3059;&#x308B;  [<ind>&#x3060;&#x306F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x305D;&#x3053;&#x306A;&#x3046;</trd>
   </trdgrp>
   <trd lng="nl">vernietigen</trd>
   <trdgrp lng="pl">
@@ -165,6 +172,11 @@
     <trd>ni&ccaron;i&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">f&ouml;rst&ouml;ra</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x443;&#x439;&#x43D;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x432;&#x430;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43D;&#x438;&#x449;&#x438;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="detru.0o">
@@ -213,8 +225,7 @@
         <trd>zgliszcza</trd>
       </trdgrp>
   </snc>
-  <trd
-  lng="be">&c_r;&c_a;&c_z;&c_b;&c_u;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_b;&c_u;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trdgrp lng="cs">
     <trd>destrukce</trd>,
     <trd>devastace</trd>,
@@ -224,7 +235,9 @@
   <trd lng="de">Zerst&ouml;rung</trd>
   <trd lng="es">destrucci&oacute;n</trd>
   <trd lng="fr">destruction</trd>
+  <trd lng="he">&#x5D4;&#x5B6;&#x5E8;&#x5B6;&#x5E1;</trd>
   <trd lng="hu">rombol&aacute;s</trd>
+  <trd lng="ja">&#x7834;&#x58CA;  [<ind>&#x306F;&#x304B;&#x3044;</ind>]</trd>
   <trd lng="nl">vernietiging</trd>
   <trdgrp lng="pl">
       <trd>zniszczenie</trd>,
@@ -232,14 +245,17 @@
       <trd>destrukcja</trd>,
       <trd>zgliszcza</trd>
     </trdgrp>
-  <trd
-  lng="ru">&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>demol&aacute;cia</trd>,
     <trd>zni&ccaron;enie</trd>
   </trdgrp>
   <trd lng="sv">f&ouml;rst&ouml;relse</trd>
-  <trd lng="tp">pakala</trd>
+  <trd lng="tok">pakala</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x443;&#x439;&#x43D;&#x443;&#x432;&#x430;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x43D;&#x438;&#x449;&#x435;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="detru.0a">
@@ -254,8 +270,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_r;&c_a;&c_z;&c_b;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_b;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
     <trd>destruk&ccaron;n&iacute;</trd>,
     <trd>ni&ccaron;iv&yacute;</trd>
@@ -267,10 +282,12 @@
     <trd>destructeur<klr tip="ind"> (adj.)</klr></trd>,
     <trd>destructrice<klr tip="ind"> (adj.)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5D4;&#x5E8;&#x5D3;&#x5E0;&#x5D9;</trd>
   <trdgrp lng="hu">
     <trd>rombol&oacute;</trd>,
     <trd>destrukt&iacute;v</trd>
   </trdgrp>
+  <trd lng="ja">&#x7834;&#x58CA;&#x7684;&#x306A;  [<ind>&#x306F;&#x304B;&#x3044;&#x3066;&#x304D;&#x306A;</ind>]</trd>
   <trd lng="nl">vernietigend</trd>
   <trdgrp lng="pl">
     <trd>niszcz&aogonek;cy</trd>,
@@ -279,10 +296,14 @@
     <trd>destruktywny</trd>,
     <trd>wyniszczaj&aogonek;cy</trd>,
   </trdgrp>
-  <trd
-  lng="ru">&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">devasta&ccaron;n&yacute;</trd>
   <trd lng="sv">f&ouml;rst&ouml;rande</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x443;&#x439;&#x43D;&#x456;&#x432;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43D;&#x438;&#x449;&#x456;&#x432;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x437;&#x433;&#x443;&#x431;&#x43D;&#x438;&#x439;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="detru.0emo">
@@ -295,16 +316,22 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_h;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol; &c_d;&c_a; <ind>&c_r;&c_a;&c_z;&c_b;&c_u;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>,
+    <trd>&c_v;&c_a;&c_n;&c_d;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>ni&ccaron;ivost</trd>,
     <trd>pusto&scaron;ivost</trd>,
     <trd>vandalstv&iacute;</trd>
   </trdgrp>
   <trd lng="fr">vandalisme</trd>
+  <trd lng="he">&#x5D4;&#x5B6;&#x5E8;&#x5B6;&#x5E1;</trd>
   <trdgrp lng="hu">
     <trd>rombol&aacute;si kedv</trd>,
     <trd>vandalizmus</trd>
   </trdgrp>
+  <trd lng="ja">&#x7834;&#x58CA;&#x7684;&#x50BE;&#x5411;  [<ind>&#x306F;&#x304B;&#x3044;&#x3066;&#x304D;&#x3051;&#x3044;&#x3053;&#x3046;</ind>]</trd>
   <trd lng="nl">vandalisme</trd>
   <trd lng="pl">wandalizm</trd>
   <trdgrp lng="ru">
@@ -313,6 +340,7 @@
     <trd>&c_v;&c_a;&c_n;&c_d;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
   </trdgrp>
   <trd lng="sk">ni&ccaron;ivos&tcaron;</trd>
+  <trd lng="uk">&#x43F;&#x440;&#x438;&#x441;&#x442;&#x440;&#x430;&#x441;&#x442;&#x44C; &#x434;&#x43E; &#x440;&#x443;&#x439;&#x43D;&#x443;&#x432;&#x430;&#x43D;&#x44C;</trd>
 </drv>
 
 <drv mrk="detru.0igxi">
@@ -357,11 +385,16 @@
     inutilisable)</klr></trd>,
     <trd>sombrer<klr tip="ind"> (s'an&eacute;antir)</klr></trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5D9;&#x5D4;&#x5E8;&#x5E1;</trd>
   <trdgrp lng="hu">
     <trd>lerombol&oacute;dik</trd>,
     <trd>leromlik</trd>,
     <trd>megsemmis&uuml;l</trd>,
     <trd>t&ouml;nkremegy</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7834;&#x58CA;&#x3055;&#x308C;&#x308B;  [<ind>&#x306F;&#x304B;&#x3044;&#x3055;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x53F0;&#x7121;&#x3057;&#x306B;&#x306A;&#x308B;  [<ind>&#x3060;&#x3044;&#x306A;&#x3057;&#x306B;&#x306A;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">vernietigd worden</trd>
   <trdgrp lng="pl">
@@ -371,8 +404,12 @@
     <trd>rozsypywa&cacute; si&eogonek;</trd>,
     <trd>wali&cacute; si&eogonek;</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x443;&#x439;&#x43D;&#x443;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x432;&#x430;&#x43B;&#x438;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x43D;&#x438;&#x449;&#x438;&#x442;&#x438;&#x441;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="detru.0ilo">
@@ -388,6 +425,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_r;&c_o;&c_d;&c_a;&c_k; &c_z;&c_mol;&c_n;&c_ib;&c_sh;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_z;&c_b;&c_r;&c_o;&c_ja;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>n&aacute;stroj ni&ccaron;en&iacute;</trd>,
     <trd>prost&rcaron;edek ni&ccaron;en&iacute;</trd>
@@ -399,7 +440,13 @@
 </drv>
 </art>
 <!--
-$Log: detru.xml,v $
+$Log$
+versio 1.36 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.34 2022/01/26 08:33:40
+Dmitri Gabinski: + trd be
+
 versio 1.31 2020/03/03 08:10:18
 Aleks Andre: en, fr
 
@@ -416,10 +463,5 @@ aldono de trd cs per skripto de M. von Laer
 Revision 1.27  2015/06/29 16:29:36  revo
 aldono de trd sk per skripto de M. von Laer
 
-Revision 1.26  2014/09/01 07:10:17  revo
-Damien Brucker: +trd fr
-
-Revision 1.25  2012/10/23 00:11:32  revo
-Neil Roberts: aldonu la etikedon <var>
 -->
 </vortaro>

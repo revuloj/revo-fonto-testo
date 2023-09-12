@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kapucxin.xml,v 1.6 2009/08/28 16:32:23 revo Exp $">
+<art mrk="$Id: kapucxin.xml,v 1.11 2023/09/01 13:58:55 revo Exp $">
 <kap>
   <rad>kapu&ccirc;in</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -16,26 +15,31 @@
       <ekz>
         preska&ubreve; samtempe ili diris: - <tld lit="K"/>o - kaj ili ridetis
         <fnt>
-        <vrk><url
-        ref="http://www.kcc.zaq.ne.jp/pacon-cuda/Ka.htm">&#20170;&#26085;&#12398;&#21336;&#35486;
+        <vrk><url ref="http://www.kcc.zaq.ne.jp/pacon-cuda/Ka.htm">&#x4ECA;&#x65E5;&#x306E;&#x5358;&#x8A9E;
         (Ka)</url></vrk>,
         <lok>2003-01-26</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_p;&c_u;&c_ch;&c_y;&c_n;&c_a;</trd>
   <trd lng="bg">&c_k;&c_a;&c_p;&c_u;&c_ch;&c_i;&c_n;&c_o;</trd>
   <trd lng="ca">caputxino</trd>
   <trd lng="de">Cappuccino</trd>
   <trd lng="fr">cappuccino</trd>
+  <trd lng="ja">&#x30AB;&#x30D7;&#x30C1;&#x30FC;&#x30CE;</trd>
   <trd lng="nl">cappuccino</trd>
   <trd lng="pl">cappuccino</trd>     
   <trd lng="ro">cappuccino</trd>
   <trd lng="tr">kapu&ccedil;ino</trd>
+  <trd lng="uk">&#x43A;&c_a;&#x43F;&c_u;&c_ch;&c_i;&#x43D;&#x43E;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.10 2022/05/11 07:31:43
+Dmitri Gabinski: + trd be
+
 Revision 1.7  2012/09/01 18:10:18  revo
 Marc Rausell: + trd ca
 

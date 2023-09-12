@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: katalun.xml,v 1.13 2023/09/01 13:58:57 revo Exp $">
 <kap>
 <rad>katalun</rad>/o
 </kap>
@@ -35,15 +34,24 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_l;&c_jo;&c_n;&c_je;&c_c;</trd>
   <trd lng="de">Katalan</trd>
   <trd lng="fr">Catalan<klr> (subst.)</klr></trd>
   <trdgrp lng="io">
     <trd>Kataluniano</trd>,
     <trd>Kataluno</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30BF;&#x30ED;&#x30CB;&#x30A2;&#x4EBA;  [<ind>&#x30AB;&#x30BF;&#x30ED;&#x30CB;&#x30A2;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x30AB;&#x30BF;&#x30EB;&#x30FC;&#x30CB;&#x30E3;&#x4EBA;  [<ind>&#x30AB;&#x30BF;&#x30EB;&#x30FC;&#x30CB;&#x30E3;&#x3058;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">Katalo&nacute;czyk</trd>     
   <trd lng="ro">catalan</trd> 
-  <trd lng="tp">jan Katala</trd>
+  <trd lng="tok">jan Katala</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&c_t;&c_a;&#x43B;&c_a;&#x43D;&c_je;&c_c;&#x44C;</trd>,
+    <trd>&#x43A;&c_a;&c_t;&c_a;&#x43B;&#x43E;&#x43D;&c_je;&c_c;&#x44C;</trd>
+  </trdgrp>
   <trd lng="vo">Katalon&auml;nan</trd>
 </drv>
 
@@ -56,12 +64,11 @@
         multloke en la mondo artemuloj festas nuntempe la verkaron de la
         <tld/>a artisto <nom>Joan Mir&oacute;</nom>
         <fnt>
-          <bib>Monato</bib>
-          <aut>Grigori Arosev</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007301.html">Pentrado:
-          &leftquot;Mia ateliero estas mia &gcirc;ardeno&rightquot;</url></vrk>
-        </fnt>;
+          <aut>Franz-Georg R&ouml;ssler</aut>
+            <vrk><url ref="&Monato;/2001/007301.php">Mia ateliero estas mia &gcirc;ardeno</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 16</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <nom>Hektor Alos i Font</nom> donis tre interesan superrigardon
@@ -69,8 +76,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Reinhard F&ouml;ssmeier</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008037.html">Neklara uzo
+          <vrk><url ref="&Monato;/2003/008037.html">Neklara uzo
           de angla vorto</url></vrk>
         </fnt>;
       </ekz>
@@ -80,8 +86,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008300.html">Kronologio
+          <vrk><url ref="&Monato;/2004/008300.html">Kronologio
           de kanajla mistifikado</url></vrk>
         </fnt>;
       </ekz>
@@ -91,13 +96,13 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008346.html">Lingva
+          <vrk><url ref="&Monato;/2004/008346.html">Lingva
           bunto</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_l;&c_jo;&c_n;&c_s;&c_k;&c_ib;</trd>
    <trd lng="de">katalanisch</trd>
    <trd lng="en">Catalan</trd>
    <trd lng="fr">catalan<klr> (adj.)</klr></trd>
@@ -106,11 +111,19 @@
      <trd>Kataluniana</trd>,
      <trd>Kataluna</trd>
    </trdgrp>
-   <trd lng="nl">Catalaans</trd>
+   <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30BF;&#x30ED;&#x30CB;&#x30A2;&#x306E;</trd>,
+    <trd>&#x30AB;&#x30BF;&#x30EB;&#x30FC;&#x30CB;&#x30E3;&#x306E;</trd>
+  </trdgrp>
+  <trd lng="nl">Catalaans</trd>
    <trd lng="no">katalansk</trd>
    <trd lng="pl">katalo&nacute;ski</trd>     
    <trd lng="ro">catalan&abreve;</trd>
-   <trd lng="vo">Katalon&auml;nik</trd>
+   <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&c_t;&c_a;&#x43B;&c_a;&#x43D;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x43A;&c_a;&c_t;&c_a;&#x43B;&#x43E;&#x43D;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="vo">Katalon&auml;nik</trd>
 </drv>
 
 <!-- jam enestas ekz-oj sub ~a. Se bezone aldonu tie snc "lingvo"
@@ -131,7 +144,7 @@
    <trd lng="nl">Catalaans</trd>
    <trd lng="no">katalansk</trd>
    <trd lng="pl">katalo&nacute;ski</trd>
-   <trd lng="tp">toki Katala</trd>
+   <trd lng="tok">toki Katala</trd>
    <trd lng="vo">Katalon&auml;nap&uuml;k</trd>
 </drv>
 -->
@@ -156,10 +169,8 @@
     <uzo tip="fak">GEOG</uzo>
     <uzo tip="fak">POL</uzo>
     <dif>
-      A&ubreve;tonoma <ref tip="lst" lst="voko:regionoj"
-      cel="region.0o.land">regiono</ref>
-      situanta en la nordokcidento de <ref tip="malprt"
-      cel="hispan.H0ujo">Hispanujo</ref>:
+      A&ubreve;tonoma <ref tip="lst" lst="voko:regionoj" cel="region.0o.land">regiono</ref>
+      situanta en la nordokcidento de <ref tip="malprt" cel="hispan.H0ujo">Hispanujo</ref>:
       <ekz>
         <nac>Els Segadors</nac> (&leftquot;La Agristoj&rightquot;) estas la nuntempa
         oficiala himno de <tld lit="K"/>ujo
@@ -170,14 +181,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Catharina J. Roskes-Dirksen</nom> <klr>[&#8230;]</klr>
+        <nom>Catharina J. Roskes-Dirksen</nom> <klr>[&#x2026;]</klr>
         estas premiita kaj menciita de la Internaciaj Floraj Ludoj en
         <tld lit="K"/>ujo en 1926, 1927 kaj 1928, i.a. per &scirc;iaj
         poemoj Simile al la mar' kaj Kristnasko
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=27174">Catharina J.
+          <lok><url ref="https://eo.wikipedia.org/?curid=27174">Catharina J.
           Roskes-Dirksen</url></lok>
         </fnt>.
       </ekz>
@@ -185,6 +195,7 @@
     <ref tip="sin" cel="kataluni.A0o">Katalunio</ref>
   </snc>
    <trd lng="af">Kataloni&euml;</trd>
+   <trd lng="be">&c_K;&c_a;&c_t;&c_a;&c_l;&c_jo;&c_n;&c_ib;&c_ja;</trd>
    <trd lng="ca">Catalunya</trd>
    <trd lng="de">Katalonien</trd>
    <trd lng="en">Catalonia</trd>
@@ -196,7 +207,7 @@
    <trd lng="gl">Catalu&ntilde;a</trd>
    <trd lng="io">Katalunia</trd>
    <trd lng="it">Catalogna</trd>
-   <trd lng="ko">&#52852;&#53448;&#47336;&#45264; &#51648;&#48169;</trd>
+   <trd lng="ko">&#xCE74;&#xD0C8;&#xB8E8;&#xB0D0; &#xC9C0;&#xBC29;</trd>
    <trd lng="nl">Cataloni&euml;</trd>
    <trd lng="no">Catalonia</trd>
    <trd lng="oc">Catalonha</trd>
@@ -206,7 +217,7 @@
    <trd lng="ru">&c_K;&c_a;&c_t;&c_a;&c_l;&c_o;&c_n;&c_i;&c_ja;</trd>
    <trd lng="sk">Katal&aacute;nsko</trd>
    <trd lng="sv">Katalonien</trd>
-   <trd lng="tp">ma Katala</trd>
+   <trd lng="tok">ma Katala</trd>
    <trd lng="tr">Katalonya</trd>
    <trd lng="vo">Katalon&auml;n</trd>
 </drv>
@@ -214,6 +225,15 @@
 
 <!--
 $Log$
+versio 1.12 2023/04/30 14:25:42
+Paul Peeraerts: Steloj -> monato
+
+versio 1.11 2022/06/06 18:39:06
+Dmitri Gabinski: + trd be
+
+versio 1.10 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.7  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
@@ -227,13 +247,5 @@ Revision 1.4  2016/12/05 23:10:23  revo
 Filip van Laenen: +trd no
 
 Revision 1.3  2016/12/03 23:10:17  revo
-Robin van der Vliet: +trd
-
-Revision 1.2  2016/11/27 19:10:14  revo
-Damien Brucker: +trd fr
-
-Revision 1.1  2016/11/25 23:10:14  revo
-Robin van der Vliet: nova artikolo
-
 -->
 </vortaro>

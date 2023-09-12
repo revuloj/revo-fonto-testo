@@ -7,7 +7,8 @@
 ]>
 
 <svg version="1.1" 
-  width="10cm" height="10cm" 
+  xmlns="http://www.w3.org/2000/svg"
+  width="400" height="400" 
   viewBox="-&scale; -&scale; &scale_2; &scale_2;"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   onload="start(evt,&scale;)">
@@ -41,7 +42,7 @@
         var inc = (x1-x0)/500;
         scale_x = scale_y = 0.93*Math.min(2*scale/(x1-x0), 2*scale/(y1-y0));
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
+        var svgdoc = evt.target.ownerDocument;
 
         // Montri la aksojn
         var objet = svgdoc.getElementById("x_akso_pinto");
@@ -106,44 +107,62 @@
   <path id="kurbo5" class="kurbo" d=""/>
   <path id="kurbo6" class="kurbo" d=""/>
 
-  <text class="parametro">
-    <textPath xlink:href="#kurbo1" dy="-5" startOffset="2%">
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo1" startOffset="2%">
       <tspan style="font-style: italic">x</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo1" dy="-5" startOffset="95%">
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo1" startOffset="95%">
       <tspan style="font-style: italic">x</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo2" dy="-5" startOffset="2%">
-      <tspan style="font-style: italic">x</tspan>
-      <tspan baseline-shift="50%" class="eksponento">2</tspan>
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo2" startOffset="2%">
+      <tspan style="font-style: italic">x</tspan
+      ><tspan dx="2" dy="-5" class="eksponento">2</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo2" dy="-5" startOffset="95%">
-      <tspan style="font-style: italic">x</tspan>
-      <tspan baseline-shift="50%" class="eksponento">2</tspan>
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo2" startOffset="95%">
+      <tspan style="font-style: italic">x</tspan
+      ><tspan dx="2" dy="-5" class="eksponento">2</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo3" dy="-5" startOffset="2%">
-      <tspan style="font-style: italic">x</tspan>
-      <tspan baseline-shift="50%" class="eksponento">5</tspan>
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo3" startOffset="2%">
+      <tspan style="font-style: italic">x</tspan
+      ><tspan dx="2" dy="-5" class="eksponento">5</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo3" dy="-5" startOffset="95%">
-      <tspan style="font-style: italic">x</tspan>
-      <tspan baseline-shift="50%" class="eksponento">5</tspan>
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo3" startOffset="95%">
+      <tspan style="font-style: italic">x</tspan
+      ><tspan dx="2" dy="-5" class="eksponento">5</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo4" dy="-5" startOffset="90%">
-      <tspan style="font-style: italic">x</tspan>
-      <tspan baseline-shift="50%" class="eksponento">0</tspan>
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo4" startOffset="90%">
+      <tspan style="font-style: italic">x</tspan
+      ><tspan dx="2" dy="-5" class="eksponento">0</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo5" dy="-5" startOffset="90%">
-      <tspan style="font-style: italic">x</tspan>
-      <tspan baseline-shift="50%" class="eksponento">½</tspan>
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo5" startOffset="90%">
+      <tspan style="font-style: italic">x</tspan
+      ><tspan dx="2" dy="-5" class="eksponento">½</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo6" dy="-5" startOffset="2%">
-      <tspan style="font-style: italic">x</tspan>
-      <tspan baseline-shift="50%" class="eksponento">-1</tspan>
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo6" startOffset="2%">
+      <tspan style="font-style: italic">x</tspan
+      > <tspan dy="-5" class="eksponento">-1</tspan>
     </textPath>
-    <textPath xlink:href="#kurbo6" dy="-5" startOffset="95%">
-      <tspan style="font-style: italic">x</tspan>
-      <tspan baseline-shift="50%" class="eksponento">-1</tspan>
+  </text>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo6" startOffset="95%">
+      <tspan style="font-style: italic">x</tspan
+      > <tspan dy="-5" class="eksponento">-1</tspan>
     </textPath>
   </text>
 

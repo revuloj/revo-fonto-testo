@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: depesx.xml,v 1.14 2008/11/21 17:56:52 revo Exp $">
+<art mrk="$Id: depesx.xml,v 1.20 2023/08/31 10:43:59 revo Exp $">
 <kap>
 <ofc>1</ofc>
 <rad>depe&scirc;</rad>/o
@@ -22,11 +21,10 @@
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>o &jcirc;us informis <klr>[&#8230;]</klr>
+        <tld/>o &jcirc;us informis <klr>[&#x2026;]</klr>
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko"
-              >La Stranga Butiko</url></vrk>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -35,11 +33,10 @@
         kapitano de <nom>Titanic</nom>: vapor&scirc;ipoj celantaj okcidenten anoncas la 12-an de
         aprilo grandajn kaj malgrandajn glacimontojn kaj glaciajn kampojn en regiono
         de 42&deg; de la norda latitudo kaj 49&deg; &gcirc;is 51&deg; de la okcidenta longitudo
-        <klr>[&#8230;]</klr>&rightquot;
+        <klr>[&#x2026;]</klr>&rightquot;
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=4259"
-              >RMS Titanic</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4259">RMS Titanic</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -51,7 +48,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_d;&c_e;&c_p;&c_e;&c_sh;&c_a;</trd>
-  <trd lng="bg">&c_d;&c_je;&c_p;&#1104;&c_sh;&c_a;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_p;&#x450;&c_sh;&c_a;</trd>
   <trd lng="ca">despatx</trd>
   <trd lng="de">Depesche</trd>
   <trdgrp lng="en">
@@ -59,14 +56,26 @@
     <trd>urgent written message</trd>
   </trdgrp>
   <trd lng="fr">d&eacute;p&ecirc;che</trd>
+  <trd lng="he">&#x5DE;&#x5D1;&#x5E8;&#x5E7;</trd>
   <trd lng="hu">s&uuml;rg&ouml;ny</trd>
+  <trdgrp lng="ja">
+    <trd>&#x81F3;&#x6025;&#x5831;  [<ind>&#x3057;&#x304D;&#x3085;&#x3046;&#x307B;&#x3046;</ind>]</trd>,
+    <trd>&#x6025;&#x9001;&#x516C;&#x6587;&#x66F8;  [<ind>&#x304D;&#x3085;&#x3046;&#x304A;&#x304F;&#x3053;&#x3046;&#x3076;&#x3093;&#x3057;&#x3087;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">depesza</trd>
   <trd lng="pt">despacho</trd>
   <trd lng="ru">&c_d;&c_je;&c_p;&c_je;&c_sh;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x435;&#x43F;&#x435;&#x448;&#x430;</trd>,
+    <trd>&#x442;&#x435;&#x440;&#x43C;&#x456;&#x43D;&#x43E;&#x432;&#x435; &#x43F;&#x43E;&#x432;&#x456;&#x434;&#x43E;&#x43C;&#x43B;&#x435;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.15  2012/07/30 10:10:37  revo
 Marc Rausell: + trd ca
 

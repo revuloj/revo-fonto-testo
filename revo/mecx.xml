@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mecx.xml,v 1.15 2010/08/31 16:30:25 revo Exp $">
+<art mrk="$Id: mecx.xml,v 1.25 2023/09/02 06:04:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>me&ccirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -79,26 +78,48 @@
   <trd lng="en">wick</trd>     
   <trd lng="es">mecha</trd>
   <trd lng="fr">m&egrave;che</trd>
+  <trdgrp lng="ja">
+    <trd>&#x706F;&#x5FC3;  [<ind>&#x3068;&#x3046;&#x3057;&#x3093;</ind>]</trd>,
+    <trd>&#x82AF;  [<ind>&#x3057;&#x3093;</ind>]</trd>,
+    <trd>&#x706B;&#x7E04;  [<ind>&#x3072;&#x306A;&#x308F;</ind>]</trd>,
+    <trd>&#x5C0E;&#x706B;&#x7DDA;  [<ind>&#x3069;&#x3046;&#x304B;&#x305B;&#x3093;</ind>]</trd>,
+    <trd>&#x30AC;&#x30FC;&#x30BC;&#x82AF;  [<ind>&#x30AC;&#x30FC;&#x30BC;&#x3057;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_f;&c_i;&c_t;&c_i;&c_l;&c_mol;</trd>
 </drv>
 
 <drv mrk="mecx.0ajxo">
   <kap><ofc>*</ofc><tld/>a&jcirc;o <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5106">me&ccirc;'a&jcirc;'</url></lok></fnt></kap>
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5106">me&ccirc;'a&jcirc;'</url></lok></fnt></kap>
   <snc>
     <dif>
     <sup>2</sup><ref tip="sin" cel="tindr.0o">Tindro</ref>; substanco,
     uzata por ekigi fajron.
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_e;&c_r;&c_a;</trd>,
+    <trd>&c_t;&c_r;&c_u;&c_t;</trd>,
+    <trd>&c_g;&c_u;&c_b;&c_a; <klr tip="amb">(&c_t;&c_r;&c_u;&c_t;)</klr></trd>
+  </trdgrp>
   <trd lng="de">Feuerschwamm</trd>
   <trd lng="fr">amadou</trd>
+  <trdgrp lng="ja">
+    <trd>&#x706B;&#x53E3;  [<ind>&#x307B;&#x304F;&#x3061;</ind>]</trd>,
+    <trd>&#x7CF8;&#x308D;&#x3046;&#x305D;&#x304F;  [<ind>&#x3044;&#x3068;&#x308D;&#x3046;&#x305D;&#x304F;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_t;&c_r;&c_u;&c_t;&#x43D;&c_i;&#x43A;</trd>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.24 2023/02/10 07:26:49
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.20  2017/08/15 22:10:26  revo
 Vito Redsky: +trd ro
 
@@ -115,8 +136,5 @@ Revision 1.16  2012/05/18 20:10:10  revo
 Jeromo Vasxe: snc/subsnc, + 1 ekz
 
 Revision 1.15  2010/08/31 16:30:25  revo
-Wieland Pusch: +trd bg
-
-Revision 1.14  2010/08/25 16:30:38  revo
 -->
 </vortaro>

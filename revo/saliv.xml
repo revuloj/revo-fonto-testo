@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: saliv.xml,v 1.28 2023/09/03 12:09:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>saliv</rad>/o
@@ -16,7 +15,7 @@
       sekreciata de specialaj glandoj, kaj kiu enhavas <ref tip="prt" cel="enzim.0o">enzimojn</ref>
       kunefikantajn en digestado:
       <ekz>
-        li <klr>[&#8230;]</klr> furiozis inter iliaj manoj <klr>[&#8230;]</klr> kaj fluigis <tld/>on sur sian barbon
+        li <klr>[&#x2026;]</klr> furiozis inter iliaj manoj <klr>[&#x2026;]</klr> kaj fluigis <tld/>on sur sian barbon
         <fnt>
           <bib>MT</bib>
           <lok>I. Samuel 21:13</lok>
@@ -40,7 +39,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        ne plu necesas la propra salivo, memgluaj <klr>[&#8230;]</klr> la markoj ja estas
+        ne plu necesas la propra salivo, memgluaj <klr>[&#x2026;]</klr> la markoj ja estas
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
@@ -64,6 +63,10 @@
   <trd lng="fr">salive</trd>
   <trd lng="hu">ny&aacute;l</trd>
   <trd lng="it">saliva</trd>
+  <trdgrp lng="ja">
+    <trd>&#x553E;&#x6DB2;  [<ind>&#x3060;&#x3048;&#x304D;</ind>]</trd>,
+    <trd>&#x3064;&#x3070;</trd>
+  </trdgrp>
   <trd lng="nl">speeksel</trd>
   <trd lng="pl">&sacute;lina</trd>
   <trdgrp lng="pt">
@@ -72,6 +75,7 @@
   <trd lng="ru">&c_s;&c_l;&c_ju;&c_n;&c_a;</trd>
   <trd lng="sk">slina</trd>
   <trd lng="sv">saliv</trd>
+  <trd lng="uk">&#x441;&#x43B;&#x438;&#x43D;&#x430;</trd>
 </drv>
 
 <drv mrk="saliv.0i">
@@ -108,6 +112,7 @@
     <trd>ny&aacute;ladzik</trd>
   </trdgrp>
   <trd lng="it">salivare</trd>
+  <trd lng="ja">&#x3064;&#x3070;&#x304C;&#x51FA;&#x308B;  [<ind>&#x3064;&#x3070;&#x304C;&#x3067;&#x308B;</ind>]</trd>
   <trd lng="nl">speeksel afscheiden</trd>
   <trd lng="pl">&sacute;lini&cacute; si&eogonek;</trd>
   <trd lng="pt">salivar</trd>
@@ -120,6 +125,7 @@
     <trd>zaslini&tcaron;</trd>
   </trdgrp>
   <trd lng="sv">uts&ouml;ndra <ind>saliv</ind></trd>
+  <trd lng="uk">&#x432;&#x438;&#x434;&#x456;&#x43B;&#x44F;&#x442;&#x438; &#x441;&#x43B;&#x438;&#x43D;&#x443;</trd>
 </drv>
 
 <drv mrk="saliv.0umi">
@@ -149,10 +155,15 @@
   <trd lng="en">salivate</trd>
   <trd lng="fr">baver</trd>
   <trd lng="it">sbavare<klr> (salivare)</klr></trd>
+  <trd lng="ja">&#x3088;&#x3060;&#x308C;&#x3092;&#x6D41;&#x3059;  [<ind>&#x3088;&#x3060;&#x308C;&#x3092;&#x306A;&#x304C;&#x3059;</ind>]</trd>
   <trd lng="pl">&sacute;lini&cacute; si&eogonek;</trd>
   <trd lng="pt">babar</trd>
   <trd lng="sk">slinta&tcaron;</trd>
   <trd lng="sv">dregla</trd>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x43B;&#x438;&#x43D;&#x438;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x43E;&#x431;&#x441;&#x43B;&#x438;&#x43D;&#x44E;&#x432;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

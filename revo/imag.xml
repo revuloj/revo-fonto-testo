@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: imag.xml,v 1.22 2010/09/05 16:30:36 revo Exp $">
+<art mrk="$Id: imag.xml,v 1.114 2023/08/31 16:40:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>imag</rad>/i
@@ -22,7 +21,7 @@
         ilin vidi, percepti a&ubreve; senti:
         <ekz>
           dum ili ordinare ricevadis &ccirc;iujn kukojn kaj rostitajn pomojn
-          <klr>[&#8230;]</klr>, &scirc;i
+          <klr>[&#x2026;]</klr>, &scirc;i
           donis al ili nur sablon en taso kaj diris, ke ili povas ja
           <tld/>i al si, ke
           tio io estas
@@ -64,7 +63,7 @@
           </fnt>;
         </ekz>
         <ekz>
-          kiel feli&ccirc;a estis <klr>[li&#8230;]</klr>, oni tute ne povas <tld/>i
+          kiel feli&ccirc;a estis <klr>[li&#x2026;]</klr>, oni tute ne povas <tld/>i
           al si
           <fnt>
             <bib>Fab1</bib>
@@ -122,7 +121,7 @@
         <ref cel="vant.0a.iu">Vante</ref> kredi sin pli bonstata, pli
         kapabla, pli adorata, pli potenca ktp, ol oni reale estas:
         <ekz>
-          la meleagro <klr>[&#8230;]</klr> naski&gcirc;is kun spronoj kaj tial
+          la meleagro <klr>[&#x2026;]</klr> naski&gcirc;is kun spronoj kaj tial
           <tld/>is al si, ke li
           estas re&gcirc;o
           <fnt>
@@ -132,7 +131,7 @@
         </ekz>
         <ekz>
           &scirc;i <tld/>as, ke li &scirc;in amindumas, kaj li simple faras
-          <klr>[&#8230;]</klr> grimacon, kiam vi
+          <klr>[&#x2026;]</klr> grimacon, kiam vi
           deturni&gcirc;as
           <fnt>
             <bib>Revizoro</bib>
@@ -145,7 +144,7 @@
     <refgrp tip="vid">
       <ref cel="koncep.0i">koncepti</ref>,
       <ref cel="supoz.0i">supozi</ref>.
-    </refgrp>    
+    </refgrp>
   </snc>
   <rim mrk="imag.0i.RIM">
     Imagi diferencas de <ref cel="koncep.0i">koncepti</ref> per tio,
@@ -156,29 +155,103 @@
       povas koncepti, sed ne imagi.
     </ekz>
   </rim>
+  <trd lng="af">dink</trd>
+  <trd lng="am">&#x12A0;&#x1235;&#x1261;&#x1275;</trd>
+  <trd lng="ar">&#x62A;&#x62E;&#x64A;&a_l;</trd>
+  <trd lng="az">t&#x259;s&#x259;vv&#xFC;r etm&#x259;k</trd>
   <trd lng="be">&c_u;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="bn">&#x995;&#x9B2;&#x9CD;&#x9AA;&#x9A8;&#x9BE;</trd>
+  <trd lng="bs">zamislite</trd>
+  <trd lng="co">&#xE0; pens&#xE0;</trd>
   <trdgrp lng="cs">
     <trd>p&rcaron;edstavit si</trd>,
     <trd>vybavovat si</trd>
   </trdgrp>
+  <trd lng="cy">dychmygu</trd>
+  <trd lng="da">forestille</trd>
   <trdgrp lng="de">
     <trd>sich <ind>vorstellen</ind></trd>,
     <trd>sich <ind>einbilden</ind></trd>
   </trdgrp>
   <trd lng="en">imagine</trd>
   <trd lng="es">imaginar</trd>
+  <trd lng="et">kujutage ette</trd>
+  <trd lng="eu">imajinatu</trd>
   <trd lng="fr">imaginer</trd>
+  <trd lng="fy">yntinke</trd>
+  <trd lng="ga">shamhl&#xFA;</trd>
+  <trd lng="gd">smaoineachadh</trd>
+  <trd lng="gl">imaxinar</trd>
+  <trd lng="gu">&#xA95;&#xAB2;&#xACD;&#xAAA;&#xAA8;&#xABE;</trd>
+  <trd lng="ha">kwatanta</trd>
+  <trd lng="hi">&#x915;&#x932;&#x94D;&#x92A;&#x928;&#x93E;</trd>
+  <trd lng="hmn">xav txog tej yam</trd>
+  <trd lng="hr">zamislite</trd>
+  <trd lng="ht">imajine</trd>
   <trdgrp lng="hu">
     <trd>k&eacute;pzel</trd>,
     <trd>elk&eacute;pzel</trd>
   </trdgrp>
+  <trd lng="hy">&#x57A;&#x561;&#x57F;&#x56F;&#x565;&#x580;&#x561;&#x581;&#x576;&#x565;&#x56C;</trd>
+  <trd lng="ig">iche</trd>
+  <trd lng="is">&#xED;mynda</trd>
+  <trd lng="ja">&#x60F3;&#x50CF;&#x3059;&#x308B; [<ind>&#x305D;&#x3046;&#x305E;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  <trd lng="jv">mbayangno</trd>
+  <trd lng="ka">&#x10EC;&#x10D0;&#x10E0;&#x10DB;&#x10DD;&#x10D8;&#x10D3;&#x10D2;&#x10D8;&#x10DC;&#x10D4;&#x10D7;</trd>
+  <trd lng="kk">&c_je;&#x43B;&c_je;&c_s;&c_t;&c_je;&c_t;&c_u;</trd>
+  <trd lng="km">&#x179F;&#x17D2;&#x179A;&#x1798;&#x17C3;</trd>
+  <trd lng="kn">&#xC95;&#xCB2;&#xCCD;&#xCAA;&#xCA8;&#xCC6;</trd>
+  <trd lng="ko">&#xC0C1;&#xC0C1;</trd>
+  <trd lng="ku">fikirin</trd>
+  <trd lng="ky">&#x44D;&#x43B;&c_je;&c_s;&c_t;&c_je;&c_t;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">imaginari</trd>
+  <trd lng="lo">&#xE88;&#xEB4;&#xE99;&#xE95;&#xEB0;&#xE99;&#xEB2;&#xE81;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">&#x12F;sivaizduoti</trd>
+  <trd lng="lv">iedom&#x15D1;ties</trd>
+  <trd lng="mg">sary an-tsaina</trd>
+  <trd lng="mi">whakaaro</trd>
+  <trd lng="mk">&c_z;&c_a;&#x43C;&c_i;&c_s;&#x43B;&c_i;</trd>
+  <trd lng="ml">&#xD38;&#xD19;&#xD4D;&#xD15;&#xD7D;&#xD2A;&#xD4D;&#xD2A;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD3E;&#xD7B;</trd>
+  <trd lng="mn">&c_t;&#x4E9;&c_s;&#x4E9;&#x4E9;&#x43B;&c_zh;</trd>
+  <trd lng="mr">&#x915;&#x932;&#x94D;&#x92A;&#x928;&#x93E;</trd>
+  <trd lng="ms">bayangkan</trd>
+  <trd lng="mt">jimma&#x121;ina</trd>
+  <trd lng="my">&#x1005;&#x102D;&#x1010;&#x103A;&#x1000;&#x1030;&#x1038;</trd>
+  <trd lng="ne">&#x915;&#x932;&#x94D;&#x92A;&#x928;&#x93E;</trd>
   <trd lng="nl">zich <ind>verbeelden</ind></trd>
+  <trd lng="ny">yerekezani</trd>
+  <trd lng="pa">&#xA15;&#xA32;&#xA2A;&#xA28;&#xA3E; &#xA15;&#xA30;&#xA4B;</trd>
+  <trd lng="ps">&#x62A;&a_S;&a_w;&a_r;</trd>
   <trd lng="pt">imaginar</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol; &c_s;&c_je;&c_b;&c_je;</trd>
   </trdgrp>
+  <trd lng="rw">tekereza</trd>
+  <trd lng="sd">&#x62A;&a_S;&a_w;&a_r;</trd>
+  <trd lng="si">&#xDC4;&#xDD2;&#xDAD;&#xDCF;&#xD9C;&#xDB1;&#xDCA;&#xDB1;</trd>
   <trd lng="sk">predstavi&tcaron; si v duchu</trd>
+  <trd lng="sl">predstavljate</trd>
+  <trd lng="sm">vaai faalemafaufau</trd>
+  <trd lng="sn">fungidzira</trd>
+  <trd lng="so">qiyaasi</trd>
+  <trd lng="sq">imagjinoni</trd>
+  <trd lng="st">nahana</trd>
+  <trd lng="su">ngabayangkeun</trd>
+  <trd lng="sw">kufikiria</trd>
+  <trd lng="ta">&#xB95;&#xBB1;&#xBCD;&#xBAA;&#xBA9;&#xBC8;</trd>
+  <trd lng="te">&#xC0A;&#xC39;&#xC3F;&#xC02;&#xC1A;&#xC47;</trd>
+  <trd lng="tg">&c_t;&c_a;&c_s;&c_a;&c_v;&c_v;&c_u;&c_r; &#x43A;&c_a;&c_r;&c_d;&c_a;&#x43D;</trd>
+  <trd lng="th">&#xE08;&#xE34;&#xE19;&#xE15;&#xE19;&#xE32;&#xE01;&#xE32;&#xE23;</trd>
+  <trd lng="tl">isipin</trd>
+  <trd lng="tt">&#x43A;&#x4AF;&c_z; &c_a;&#x43B;&c_d;&#x44B;&c_g;&#x44B;&c_z;&c_g;&c_a; &#x43A;&c_i;&c_t;&c_je;&c_r;&c_je;&c_g;&c_je;&c_z;</trd>
+  <trd lng="uk">&c_u;&#x44F;&c_v;&c_ib;&c_t;&#x44C;</trd>
+  <trd lng="ur">&#x62A;&a_S;&a_w;&a_r;</trd>
+  <trd lng="uz">tasavvur</trd>
+  <trd lng="vi">t&#x1B0;&#x1EDF;ng t&#x1B0;&#x1EE3;ng</trd>
+  <trd lng="xh">ucinge</trd>
+  <trd lng="yi">&#x5D9;&#x5DE;&#x5D0;&#x5B7;&#x5D3;&#x5D6;&#x5E9;&#x5D0;&#x5B7;&#x5DF;</trd>
+  <trd lng="yo">fojuinu</trd>
 </drv>
 
 <drv mrk="imag.0o">
@@ -203,7 +276,7 @@
         &ccirc;i eksceso transpasis forton kaj <tld/>on
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
         </fnt>;
       </ekz>
@@ -273,6 +346,7 @@
     </ekz>
   </rim>
   <trd lng="be">&c_u;&c_ja;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="bo">&#xF66;&#xFA3;&#xF44;&#xF0B;&#xF56;&#xF0B;</trd>
   <trd lng="cs">p&rcaron;edstavivost</trd>
   <trd lng="en">imagination</trd>
   <trd lng="es">imaginaci&oacute;n</trd>
@@ -281,12 +355,17 @@
     <trd>k&eacute;pzel&odblac;er&odblac;</trd>,
     <trd>fant&aacute;zia</trd>
   </trdgrp>
+  <trd lng="ja">&#x60F3;&#x50CF;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;</ind>]</trd>
   <trd lng="pt">imagina&ccedil;&atilde;o<klr tip="amb"> (capacidade de
   imaginar)</klr></trd>
   <trd lng="ru">&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>obrazotvornos&tcaron;</trd>,
     <trd>predstavivos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u;&#x44F;&c_v;&c_a;</trd>,
+    <trd>&c_u;&#x44F;&c_v;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -314,35 +393,33 @@
         <tld/>aj sukcesoj;
       </ekz>
       <ekz>
-        imaga linio inter <klr>[&#8230;]</klr>
+        imaga linio inter <klr>[&#x2026;]</klr>
         <fnt>
+          <aut>Wim de Smet</aut>
+          <vrk><url ref="&Monato;/2000/006900.php">La &leftquot;drakoj&#x201D; de Komodo:
+          Gigantaj bestoj sur izola insulo</url></vrk>
           <bib>Monato</bib>
-          <aut>Izabel C. O. Santiago</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006900.html">Fa&ubreve;no: La
-          "drakoj" de Komodo: Gigantaj bestoj sur izola
-          insulo</url></vrk>
+          <lok>2000/06, p. 18</lok>
         </fnt>;
       </ekz>
       <ekz>
         maldekstre de iu <tld/>a mezo
         <fnt>
+       <aut>Vinko O&Scaron;LAK/pg</aut>
+          <vrk><url ref="&Monato;/2000/006952.php">A&ubreve;strio kaj la ceteraj</url></vrk>
           <bib>Monato</bib>
-          <aut>PGubbins</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006952.html">Reago:
-          A&ubreve;strio kaj la ceteraj</url></vrk>
+          <lok>2000/06, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         por &scirc;ajnigi sin pli plenkreskaj kaj maturaj, junuloj fanfaronas
         pri <tld/>aj
         seksaj spertoj
-        <fnt>
+         <fnt>
+          <aut>Guido van Damme</aut>
+          <vrk><url ref="&Monato;/1995/A950102.php">Gejunula seksumado</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato1/monato-9501-seksaj-rilatoj.txt">Seksaj
-          Rilatoj</url></vrk>
+          <lok>1995/01, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -350,11 +427,10 @@
         <tld/>aj
         diferencoj, favore al la akuzanto kaj dama&gcirc;e al la viktimo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006810.html">Diskutige
-          kaj diskutinde</url></vrk>
+	<aut>Jorge Camacho</aut>
+	<vrk><url ref="&Monato;/2000/006810.php">Diskutige kaj diskutinde</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 25</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -390,9 +466,19 @@
     <trd>de l'<ind>imagination</ind></trd>,
     <trd>imaginaire</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x60F3;&#x50CF;&#x306E;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x60F3;&#x50CF;&#x4E0A;&#x306E;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x4EEE;&#x60F3;&#x306E;  [<ind>&#x304B;&#x305D;&#x3046;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>imagin&aacute;rny</trd>,
     <trd>zdanliv&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_u;&#x44F;&c_v;&#x43B;&#x44E;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_u;&#x44F;&c_v;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43C;&#x43D;&c_i;&#x43C;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -420,6 +506,7 @@
     </refgrp>
   </snc>
   <trd lng="fr">imagination<klr> (processus)</klr></trd>
+  <trd lng="ja">&#x60F3;&#x50CF;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;</ind>]</trd>
 </drv>
 
 <drv mrk="imag.0ajxo">
@@ -452,11 +539,10 @@
           el la menso de la
           a&ubreve;toro
           <fnt>
+          <aut>Donald Broadribb</aut>
+            <vrk><url ref="&Monato;/2000/007079.php">Inter la dek plej bonaj romanoj</url></vrk>
             <bib>Monato</bib>
-            <aut>Boris Kolker</aut>
-            <vrk><url
-            ref="http://steloj.de/esperanto/monato2/007079.html">Inter
-            la dek plej bonaj romanoj</url></vrk>
+            <lok>2000/11, p. 26</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -465,15 +551,14 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Jo Haazen</aut>
-            <vrk><url
-            ref="https://www.monato.be/2013/010773.php">Klareco kaj
+            <vrk><url ref="&Monato;/2013/010773.php">Klareco kaj
             simpleco, fundamento por nova epoko</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
           &hcirc;imeroj en la kapoj de la homoj, <tld/>a&jcirc;oj de la timo, kie
           vere timo estas
-          nenecesa, <klr>[&#8230;]</klr> <tld/>a&jcirc;oj de la malespero, kie ka&ubreve;zo
+          nenecesa, <klr>[&#x2026;]</klr> <tld/>a&jcirc;oj de la malespero, kie ka&ubreve;zo
           por malespero
           ne ekzistas
           <fnt>
@@ -514,6 +599,11 @@
     <trd>chim&egrave;re<klr tip="ind"> (chose imagin&eacute;e)</klr></trd>,
     <trd>invention<klr tip="ind"> (chose imagin&eacute;e)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x60F3;&#x50CF;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;</ind>]</trd>,
+    <trd>&#x30A4;&#x30E1;&#x30FC;&#x30B8;  [<ind>&#x3044;&#x3081;&#x30FC;&#x3058;</ind>]</trd>,
+    <trd>&#x5FC3;&#x8C61;  [<ind>&#x3057;&#x3093;&#x3057;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verbeelding</trd>
   <trd lng="pt">imagina&ccedil;&atilde;o<klr tip="ind"> (coisa imaginada)</klr></trd>
   <trdgrp lng="sk">
@@ -549,8 +639,10 @@
   <trd lng="cs">p&rcaron;edstaviteln&yacute;</trd>
   <trd lng="en">imaginable</trd>
   <trd lng="fr">imaginable</trd>
+  <trd lng="ja">&#x60F3;&#x50CF;&#x3067;&#x304D;&#x308B;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;&#x3067;&#x304D;&#x308B;</ind>]</trd>
   <trd lng="pt">imagin&aacute;vel</trd>
   <trd lng="sk">predstavite&lcaron;n&yacute;</trd>
+  <trd lng="uk">&#x44F;&#x43A;&c_i;&c_j; &#x43C;&#x43E;&c_zh;&#x43D;&c_a; &c_u;&#x44F;&c_v;&c_i;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="imag.0ema">
@@ -563,22 +655,20 @@
       </ekz>
       <ekz>
         esti <tld/>ema kaj havi grandan <tld/>povon povas helpi vin
-        <klr>[&#8230;]</klr> trovi
+        <klr>[&#x2026;]</klr> trovi
         novajn solvojn al problemoj
         <fnt>
-          <vrk><url
-          ref="https://medium.com/@Vanege/kiel-havi-grandan-imagpovon-f1ab37e9f779"
-              >Kiel havi grandan imagpovon - Vanege - Medium</url></vrk>
+          <vrk><url ref="https://medium.com/@Vanege/kiel-havi-grandan-imagpovon-f1ab37e9f779">Kiel
+          havi grandan imagpovon - Vanege - Medium</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Thomas Murner</nom> <klr>[estis]</klr> franciskana mona&hcirc;o, 
+        <nom>Thomas Murner</nom> <klr>[estis]</klr> franciskana mona&hcirc;o,
         en siaj satiroj plena je <tld/>ema kaj fantazia spirito
-        <klr>[&#8230;]</klr> kaj ri&ccirc;a je alegorioj kaj metaforoj
+        <klr>[&#x2026;]</klr> kaj ri&ccirc;a je alegorioj kaj metaforoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=491299"
-              >Thomas Murner</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=491299">Thomas Murner</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -595,6 +685,7 @@
 b&iacute;r&oacute;</trd>,
     <trd>nagy <ind>fant&aacute;zi&aacute;j&uacute;</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#x60F3;&#x50CF;&#x529B;&#x306B;&#x5BCC;&#x3093;&#x3060;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;&#x3061;&#x304B;&#x3089;&#x306B;&#x3068;&#x3093;&#x3060;</ind>]</trd>
   <trd lng="nl">fantasievol</trd>
   <trd lng="pt">imaginativo</trd>
   <trdgrp lng="ru">
@@ -624,10 +715,10 @@ b&iacute;r&oacute;</trd>,
       <ekz>
         la ne<tld/>ebla vasteco de la universo
         <fnt>
+       <aut>Albisturo Kvinke</aut>
+          <vrk><url ref="&Monato;/2000/006847.php">Sobraj pensoj de sobrulo</url></vrk>
           <bib>Monato</bib>
-          <aut>Albisturo Kvinke</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006847.html"
-              >Opinio: Sobraj pensoj de sobrulo</url></vrk>
+          <lok>2000/03, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -653,10 +744,12 @@ b&iacute;r&oacute;</trd>,
   <trd lng="es">inimaginable</trd>
   <trd lng="fr">inimaginable</trd>
   <trd lng="hu">elk&eacute;pzelhetetlen</trd>
+  <trd lng="ja">&#x60F3;&#x50CF;&#x3067;&#x304D;&#x306A;&#x3044;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;&#x3067;&#x304D;&#x306A;&#x3044;</ind>]</trd>
   <trd lng="nl">onvoorstelbaar</trd>
   <trd lng="pt">inimagin&aacute;vel</trd>
   <trd lng="ru">&c_n;&c_je;&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_m;&c_y;&c_j;</trd>
   <trd lng="sk">nepredstavite&lcaron;n&yacute;</trd>
+  <trd lng="uk">&#x43D;&c_je;&c_u;&#x44F;&c_v;&#x43B;&c_je;&#x43D;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="imag.0povo">
@@ -680,19 +773,17 @@ b&iacute;r&oacute;</trd>,
         <fnt>
           <bib>Monato</bib>
           <aut>Reinaldo Marcelo Ferreira</aut>
-          <vrk><url ref="https://www.monato.be/2006/008937.php"
-              >Kronikoj de niaj frustri&gcirc;oj</url></vrk>
+          <vrk><url ref="&Monato;/2006/008937.php">Kronikoj de niaj frustri&gcirc;oj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        pretigita per <klr>[&#8230;]</klr> granda <tld/>povo, desegno-lerto
+        pretigita per <klr>[&#x2026;]</klr> granda <tld/>povo, desegno-lerto
         kaj konvene densa
         spriteco
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan MacGill</aut>
-          <vrk><url ref="https://www.monato.be/2009/009740.php"
-              >Plia heroo por Esperantujo</url></vrk>
+          <vrk><url ref="&Monato;/2009/009740.php">Plia heroo por Esperantujo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -701,29 +792,33 @@ b&iacute;r&oacute;</trd>,
     </refgrp>
   </snc>
   <trd lng="fr">imagination<klr> (facult&eacute;)</klr></trd>
+  <trd lng="ja">&#x60F3;&#x50CF;&#x529B;  [<ind>&#x305D;&#x3046;&#x305E;&#x3046;&#x308A;&#x3087;&#x304F;</ind>]</trd>
 </drv>
 
 </art>
 <!--
 $Log$
-Revision 1.27  2019/09/02 18:10:15  revo
-Wolfram Diestel: ~o ... ~povo: +ekz-oj
+versio 1.113 2023/08/29 17:27:12
+Wolfram Diestel: ja: prononco
 
-Revision 1.26  2019/09/02 17:10:15  revo
-Wolfram Diestel: ~i: +snc vante..., +ekz-oj kun fnt-oj
+versio 1.112 2023/04/30 12:42:36
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.25  2018/07/09 10:10:13  revo
-Jeromo Vasxe: ~i ~ajxo: snc/subsnc, relok rim, + ~ado ~povo
+versio 1.111 2023/04/24 08:32:29
+Paul Peeraerts: @Sxteloj -> @Monato
 
-Revision 1.24  2015/07/04 08:37:36  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.110 2023/04/22 12:42:28
+Paul Peeraerts: &steloj -> monato.be
 
-Revision 1.23  2015/06/29 16:33:15  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.109 2023/04/21 12:44:36
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.22  2010/09/05 16:30:36  revo
-Jeromo Vasxe: - kramp
+versio 1.108 2023/04/13 14:28:03
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.21  2006/10/09 16:30:15  revo
+versio 1.107 2023/04/12 09:25:48
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.106 2022/04/30 08:42:42
 -->
 </vortaro>

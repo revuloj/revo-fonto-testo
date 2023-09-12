@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ironi.xml,v 1.16 2010/11/20 17:30:20 revo Exp $">
+<art mrk="$Id: ironi.xml,v 1.22 2023/08/31 16:40:58 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ironi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -34,11 +33,18 @@
   <trd lng="es">iron&iacute;a</trd>
   <trd lng="fr">ironie</trd>
   <trd lng="hu">ir&oacute;nia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x76AE;&#x8089;  [<ind>&#x3072;&#x306B;&#x304F;</ind>]</trd>,
+    <trd>&#x5F53;&#x3066;&#x3053;&#x3059;&#x308A;  [<ind>&#x3042;&#x3066;&#x3053;&#x3059;&#x308A;</ind>]</trd>,
+    <trd>&#x30A2;&#x30A4;&#x30ED;&#x30CB;&#x30FC;</trd>,
+    <trd>&#x53CD;&#x8A9E;  [<ind>&#x306F;&#x3093;&#x3054;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ironie</trd>
   <trd lng="pl">ironia</trd>
   <trd lng="pt">ironia</trd>
   <trd lng="ru">&c_i;&c_r;&c_o;&c_n;&c_i;&c_ja;</trd>
-  <trd lng="sk">irónia</trd>
+  <trd lng="sk">ir&oacute;nia</trd>
+  <trd lng="uk">&#x456;&#x440;&#x43E;&#x43D;&#x456;&#x44F;</trd>
 </drv>
 
 <drv mrk="ironi.0a">
@@ -62,7 +68,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_ib;&c_r;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
-  <trd lng="cs">ironický</trd>
+  <trd lng="cs">ironick&yacute;</trd>
   <trd lng="de">ironisch</trd>
   <trdgrp lng="en">
     <trd>ironic</trd>,
@@ -71,6 +77,7 @@
   <trd lng="es">ir&oacute;nico</trd>
   <trd lng="fr">ironique</trd>
   <trd lng="hu">ironikus</trd>
+  <trd lng="ja">&#x76AE;&#x8089;&#x306A;  [<ind>&#x3072;&#x306B;&#x304F;&#x306A;</ind>]</trd>
   <trd lng="nl">ironisch</trd>
   <trd lng="pl">ironiczny</trd>
   <trd lng="pt">ir&ocirc;nico</trd>
@@ -79,9 +86,10 @@
     <trd>&c_i;&c_r;&c_o;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>ironický</trd>,
-    <trd>posmešný</trd>
+    <trd>ironick&yacute;</trd>,
+    <trd>posme&scaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&#x456;&#x440;&#x43E;&#x43D;&#x456;&#x447;&#x43D;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="ironi.0i">
@@ -101,8 +109,8 @@
   </snc>
   <trd lng="be">&c_ib;&c_r;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
-    <trd>posmívat se</trd>,
-    <trd>užívat ironii</trd>
+    <trd>posm&iacute;vat se</trd>,
+    <trd>u&zcaron;&iacute;vat ironii</trd>
   </trdgrp>
   <trd lng="de">ironisch sprechen</trd>
   <trd lng="en">speak ironically</trd>
@@ -111,6 +119,7 @@
     <trd>faire de l'<ind>ironie</ind></trd>
   </trdgrp>
   <trd lng="hu">ironiz&aacute;l</trd>
+  <trd lng="ja">&#x76AE;&#x8089;&#x3092;&#x8A00;&#x3046;  [<ind>&#x3072;&#x306B;&#x304F;&#x3092;&#x3044;&#x3046;</ind>]</trd>
   <trd lng="nl">ironisch spreken</trd>
   <trd lng="pl">ironizowa&cacute;</trd>
   <trdgrp lng="pt">
@@ -118,7 +127,8 @@
    <trd>falar com <ind>ironia</ind></trd> 
   </trdgrp>
   <trd lng="ru">&c_i;&c_r;&c_o;&c_n;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-  <trd lng="sk">posmievať sa</trd>
+  <trd lng="sk">posmieva&tcaron; sa</trd>
+  <trd lng="uk">&#x456;&#x440;&#x43E;&#x43D;&#x456;&#x437;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="ironi.mem0o">
@@ -134,12 +144,16 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_ib;&c_r;&c_o;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="fr">autod&eacute;rision</trd>
   <trd lng="pl">autoironia</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2021/06/25 12:41:33
+Dmitri Gabinski: + trd be
+
 Revision 1.18  2015/06/29 16:33:16  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -159,11 +173,5 @@ Revision 1.13  2004/09/06 16:37:18  revo
 Marc Bavant: +trd fr
 
 Revision 1.12 2004/07/08 17:05:37 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.11 2004/02/17 17:32:04 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.10 2003/04/08 16:33:35 revo
 -->
 </vortaro>

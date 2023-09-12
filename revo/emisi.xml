@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: emisi.xml,v 1.11 2009/02/11 19:42:30 revo Exp $">
+<art mrk="$Id: emisi.xml,v 1.16 2023/08/31 11:49:28 revo Exp $">
 <kap>
 <rad>emisi</rad>/i
 </kap>
@@ -16,10 +15,10 @@
       <ekz>
         E&ubreve;ropa Unio planas <tld/>i grandvalorajn monbiletojn
         <fnt><aut>Philip Brewer</aut>:
-        <vrk><url ref="&Monato;/006229.html">Dolaroj kaj e&ubreve;roj
+        <vrk><url ref="&Monato;/1999/006229.html">Dolaroj kaj e&ubreve;roj
         grandbilete</url></vrk>,
         <bib>Monato</bib>,
-        <lok>n-ro 01/1999</lok>
+        <lok>1999/01</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -50,10 +49,10 @@
         la <tld/>ado kiu ka&ubreve;zas la forcejan efikon kreskis en multaj
         landoj
         <fnt><aut>Roland Rotsaert</aut>:
-        <vrk><url ref="&Monato;/007359.html">Medio-indulgo de la &ccirc;efaj
+        <vrk><url ref="&Monato;/2001/007359.html">Medio-indulgo de la &ccirc;efaj
         ekonomiaj sektoroj</url></vrk>,
         <bib>Monato</bib>,
-        <lok>n-ro 03/2001</lok>
+        <lok>2001/03</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -79,10 +78,10 @@
     </trdgrp>
   </snc>
   <trdgrp lng="cs">
-    <trd>dávat do oběhu</trd>,
+    <trd>d&#xE1;vat do ob&#x11B;hu</trd>,
     <trd>emitovat</trd>,
     <trd>vydat</trd>,
-    <trd>vysílat</trd>
+    <trd>vys&#xED;lat</trd>
   </trdgrp>
   <trd lng="es">emitir</trd>
   <trdgrp lng="fr">
@@ -93,15 +92,30 @@ ondes,...)</klr></trd>,
 (&eacute;mettre)</klr></trd>,
     <trd>produire<klr tip="ind"> (&eacute;mettre)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x767A;&#x884C;&#x3059;&#x308B;  [<ind>&#x306F;&#x3063;&#x3053;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x632F;&#x308A;&#x51FA;&#x3059;  [<ind>&#x3075;&#x308A;&#x3060;&#x3059;</ind>]</trd>,
+    <trd>&#x653E;&#x51FA;&#x3059;&#x308B;  [<ind>&#x307B;&#x3046;&#x3057;&#x3085;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x653E;&#x5C04;&#x3059;&#x308B;  [<ind>&#x307B;&#x3046;&#x3057;&#x3083;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
-    <trd>dávať do obehu</trd>,
-    <trd>vydať</trd>,
-    <trd>vysielať</trd>
+    <trd>d&#xE1;va&tcaron; do obehu</trd>,
+    <trd>vyda&tcaron;</trd>,
+    <trd>vysiela&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_u;&c_s;&#x43A;&c_a;&c_t;&c_i; &c_v; &#x43E;&c_b;&c_ib;&c_g;</trd>,
+    <trd>&c_je;&#x43C;&c_ib;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_i;&#x43B;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&#x43C;&c_je;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.15 2023/04/09 19:20:52
+Paul Peeraerts: korekto de erara ref
+
 Revision 1.12  2015/06/29 16:29:37  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -121,11 +135,5 @@ Revision 1.7  2002/06/10 17:31:44  revo
 Alejandro Mejia Greene: ald 1 his trd
 
 Revision 1.6  2001/06/26 18:13:38  revo
-Marc Bavant: +trd fr; +ref al elsendi, emanigi; +adm; kosmetikaj modifoj
-en
-ekz
-
-Revision 1.5  2001/04/11 16:22:05  revo
-Yury Finkel: +trd ru
 -->
 </vortaro>

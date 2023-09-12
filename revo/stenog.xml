@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: stenog.xml,v 1.20 2023/09/04 15:14:31 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>stenograf</rad>/i <fnt><bib>PV</bib></fnt>
@@ -22,8 +21,7 @@
         muzikisto, sed pli ol &ccirc;io alia, esperantisto
         <fnt>
           <aut>G. King</aut>,
-          <vrk><url
-          ref="http://biblbut.wordpress.com/kio-estas-kie/la-britaj-esperantistoj/montagu-butler-kaj-lia-biblioteko/">
+          <vrk><url ref="http://biblbut.wordpress.com/kio-estas-kie/la-britaj-esperantistoj/montagu-butler-kaj-lia-biblioteko/">
           Montagu Butler kaj lia biblioteko</url></vrk>,
           <lok>2008-05-14</lok>
         </fnt>
@@ -55,8 +53,7 @@
       en la Irlanda Parlamento
       <fnt>
         <aut>L. O Cuirc, J. Davies</aut>,
-        <vrk><url
-        ref="http://www.esperanto.ie/eo/historioEAI/historioEAI_4.html">
+        <vrk><url ref="http://www.esperanto.ie/eo/historioEAI/historioEAI_4.html">
         Mallonga Historio de la Esperanto-Movado en Irlando</url></vrk>,
         <lok>1996</lok>
       </fnt>.
@@ -65,8 +62,10 @@
   </rim>
   <trd lng="be">&c_s;&c_t;&c_e;&c_n;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>
   <trd lng="de">Stenograf</trd>
+  <trd lng="en">stenographer</trd>
   <trd lng="fr">st&eacute;nographe</trd>
   <trd lng="hu">gyors&iacute;r&oacute;</trd>  
+  <trd lng="ja">&#x901F;&#x8A18;&#x8005;  [<ind>&#x305D;&#x3063;&#x304D;&#x3057;&#x3083;</ind>]</trd>
   <trd lng="nl">stenograaf</trd>
   <trd lng="pl">stenograf</trd>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_n;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>
@@ -86,8 +85,7 @@
         kaj vere <tld/>i mi devas nenion
         <fnt>
           <aut>Pejno S.</aut>,
-          <vrk>en: <url
-          ref="http://www.liberafolio.org/2011/drasta-membrofalo-ce-uea">
+          <vrk>en: <url ref="http://www.liberafolio.org/2011/drasta-membrofalo-ce-uea">
           Drasta membrofalo &ccirc;e UEA</url></vrk>,
           <lok>2011-04-07</lok>
         </fnt>.
@@ -96,16 +94,18 @@
   </snc>
   <trd lng="be">&c_s;&c_t;&c_e;&c_n;&c_a;&c_g;&c_r;&c_a;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
-    <trd>psát těsnopisem</trd>,
+    <trd>ps&aacute;t t&ecaron;snopisem</trd>,
     <trd>stenografovat</trd>
   </trdgrp>
   <trd lng="de">stenografieren</trd>
+  <trd lng="en">write shorthand</trd>
   <trd lng="fr">st&eacute;nographier</trd>
   <trd lng="hu">gyors&iacute;r</trd>
+  <trd lng="ja">&#x901F;&#x8A18;&#x3059;&#x308B;  [<ind>&#x305D;&#x3063;&#x304D;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">stenograferen</trd>
   <trd lng="pl">stenografowa&cacute;</trd>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_n;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-  <trd lng="sk">písať rýchlopisom</trd>
+  <trd lng="sk">p&iacute;sa&tcaron; r&yacute;chlopisom</trd>
   <trd lng="sv">stenografera</trd>
 </drv>
 
@@ -120,8 +120,10 @@
   </snc>
   <trd lng="be">&c_s;&c_t;&c_e;&c_n;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
   <trd lng="de">Stenografie</trd>
+  <trd lng="en">stenography</trd>
   <trd lng="fr">st&eacute;nographie</trd>
   <trd lng="hu">gyors&iacute;r&aacute;s</trd>  
+  <trd lng="ja">&#x901F;&#x8A18;  [<ind>&#x305D;&#x3063;&#x304D;</ind>]</trd>
   <trd lng="nl">stenografie</trd>
   <trdgrp lng="pl">
     <trd>stenograifa</trd>,
@@ -132,6 +134,7 @@
     <trd>&c_s;&c_t;&c_je;&c_n;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
   <trd lng="sv">stenografi</trd>
+  <trd lng="uk">&c_s;&c_t;&c_je;&#x43D;&#x43E;&c_g;&c_r;&c_a;&c_f;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="stenog.0ajxo">
@@ -146,19 +149,32 @@
         <fnt>
           <aut>T. Steele</aut>,
           <vrk>La Averto</vrk>,
-          <lok><url
-          ref="http://mirmekobo.com/Site/Mirmekobo_files/Mirmekobo%201.pdf">
+          <lok><url ref="http://mirmekobo.com/Site/Mirmekobo_files/Mirmekobo%201.pdf">
           Mirmekobo, 2008-04</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_e;&c_n;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trdgrp lng="en">
+    <trd>stenogram</trd>,
+    <trd>transcript</trd>,
+    <trd>shorthand</trd>
+  </trdgrp>
   <trd lng="fr">st&eacute;nogramme</trd>
+  <trd lng="ja">&#x901F;&#x8A18;&#x6587;  [<ind>&#x305D;&#x3063;&#x304D;&#x3076;&#x3093;</ind>]</trd>
   <trd lng="pl">stenogram</trd>
+  <trd lng="uk">&c_s;&c_t;&c_je;&#x43D;&#x43E;&c_g;&c_r;&c_a;&#x43C;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2022/09/05 09:33:33
+Dmitri Gabinski: + trd be
+
+versio 1.17 2022/02/04 15:41:20
+Noam Mohr: +trd en stenografi
+
 Revision 1.15  2015/06/29 16:33:24  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -175,14 +191,5 @@ Revision 1.11  2004/10/29 16:32:07  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.10  2004/08/16 16:33:12  revo
-Jean Hennebert: +trd fr
-
-Revision 1.9  2003/02/21 17:31:44  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.8  2002/02/23 19:50:10  revo
-Yury Finkel: +trd ru
-
-Revision 1.7 2001/10/15 18:22:31 revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: buton.xml,v 1.28 2010/08/25 16:30:27 revo Exp $">
+<art mrk="$Id: buton.xml,v 1.49 2023/08/31 08:48:54 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>buton</rad>/o
@@ -33,7 +32,7 @@
           </fnt>;
         </ekz>
         <ekz>
-          maljuna viro <klr>[&#8230;]</klr> portis <klr>[&#8230;]</klr> surtuton kun grandaj latunaj <tld/>oj
+          maljuna viro <klr>[&#x2026;]</klr> portis <klr>[&#x2026;]</klr> surtuton kun grandaj latunaj <tld/>oj
           <fnt>
             <bib>Fab2</bib>
             <lok>Malnova domo</lok>
@@ -99,18 +98,23 @@
           &c_m;&c_y;&c_sh;&c_i;</trd>
         </ekz>
         <ekz>
-          per oficiala premado de <tld/>o la produktilo de materialo por nukleaj bomboj estis haltigita
+          per oficiala premado de <tld/>o la produktilo de materialo por nukleaj bomboj estis
+          haltigita
           <fnt>
-            <bib>Monato</bib>
-            <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9309-noticoj.txt">Esperanto sen peno</url></vrk>
-          </fnt>;
+          
+          <vrk><url ref="&Monato;/1993/A930902.php">Noticoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>1993/09, p. 4</lok>
+        </fnt>;
         </ekz>
         <ekz>
-          elektronike vo&ccirc;donis &scirc;ajne 71 personoj sed fakte vo&ccirc;donis nur 67 &dash; kelkaj socialistoj premis la <tld/>ojn de mankantaj kolegoj
+          elektronike vo&ccirc;donis &scirc;ajne 71 personoj sed fakte vo&ccirc;donis nur 67 &dash; kelkaj socialistoj
+          premis la <tld/>ojn de mankantaj kolegoj
           <fnt>
             <bib>Monato</bib>
             <aut>Bardhyl Selimi</aut>
-            <vrk><url ref="https://www.monato.be/2004/008381.html">Kondamnitoj, kompenso kaj korupteco</url></vrk>
+            <vrk><url ref="&Monato;/2004/008381.html">Kondamnitoj, kompenso kaj
+            korupteco</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
@@ -118,16 +122,16 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Pa&ubreve;l Peeraerts</aut>
-            <vrk><url ref="https://www.monato.be/2008/009612.php">Inteligenta po&scirc;amiko</url></vrk>
+            <vrk><url ref="&Monato;/2008/009612.php">Inteligenta po&scirc;amiko</url></vrk>
           </fnt>;
         </ekz>
         <ekz>
-          li eniris la lifton <klr>[&#8230;]</klr> la <tld/>o por la tera eta&gcirc;o jam lumetis, 
+          li eniris la lifton <klr>[&#x2026;]</klr> la <tld/>o por la tera eta&gcirc;o jam lumetis, 
           do li nur apogis je la malanta&ubreve;a muro, dum la pordoj fermi&gcirc;is
           <fnt>
             <bib>Monato</bib>
             <aut>Steven K. Smith</aut>
-            <vrk><url ref="https://www.monato.be/2009/009659.php">La Helpanto</url></vrk>
+            <vrk><url ref="&Monato;/2009/009659.php">La Helpanto</url></vrk>
           </fnt>.
         </ekz>
       </dif>
@@ -163,10 +167,13 @@
       <dif>
         <ref tip="dif" cel="buton.ekrana0o.KOMP">Ekrana <tld/>o</ref>:
         <ekz>
-          la uzanto havas anta&ubreve; si tre  profesie aspektantan ekranon, kun pluraj pendomenuoj kaj amaseto da  <tld/>oj
+          la uzanto havas anta&ubreve; si tre  profesie aspektantan ekranon, kun pluraj pendomenuoj kaj
+          amaseto da  <tld/>oj
           <fnt>
+            <aut>Pa&ubreve;l Peeraerts</aut>
             <bib>Monato</bib>
-            <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9505-cxapelil.txt">Windows</url></vrk>
+            <vrk><url ref="&Monato;/1995/A950501.php">Ni levu la &ccirc;apelon!</url></vrk>
+            <lok>1995/05, p. 16</lok>
           </fnt>;
         </ekz>
         <ekz>
@@ -175,7 +182,7 @@
           <fnt>
             <bib>Monato</bib>
             <aut>Franck Arnaud</aut>
-            <vrk><url ref="https://www.monato.be/2003/008177.html">Kia
+            <vrk><url ref="&Monato;/2003/008177.html">Kia
             solvo por rubpo&scirc;to?</url></vrk>
           </fnt>.
         </ekz>
@@ -205,6 +212,7 @@
       <trd lng="ru">&c_b;&c_u;&c_t;&c_o;&c_n;</trd>
     </subsnc>
   </snc>
+  <trd lng="bo">&#xF50;&#xF7A;&#xF62;&#xF0B;&#xF60;&#xF47;&#xF74;&#xF0B;</trd>
   <trd lng="ca">bot&oacute;</trd>
   <trdgrp lng="cs">
     <trd>gomb&iacute;k</trd>,
@@ -213,10 +221,17 @@
   </trdgrp>
   <trd lng="es">bot&oacute;n</trd>
   <trd lng="fr">bouton</trd>
+  <trd lng="he">&#x5DB;&#x5E4;&#x5EA;&#x5D5;&#x5E8;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DC;&#x30BF;&#x30F3;  [<ind>&#x307C;&#x305F;&#x3093;</ind>]</trd>,
+    <trd>&#x30DC;&#x30BF;&#x30F3;&#x5F62;&#x306E;&#x3082;&#x306E;  [<ind>&#x30DC;&#x30BF;&#x30F3;&#x304B;&#x305F;&#x306E;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x3064;&#x307C;&#x307F;</trd>
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>buton</trd>,
     <trd>nasture</trd>
   </trdgrp>
+  <trd lng="uk">&c_gu;&c_u;&c_d;&c_z;&c_i;&#x43A;</trd>
 </drv>
 
 <drv mrk="buton.0umi">
@@ -251,16 +266,18 @@
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_sh;&c_p;&c_ib;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;
     <klr tip="amb">(&c_g;&c_u;&c_z;&c_ib;&c_k;&c_ib;)</klr></trd>,
-    <trd>&c_z;&c_a;&c_sh;&c_p;&c_ib;&c_l;&c_ib;&c_c;&c_mol; <klr
-    tip="amb">(&c_g;&c_u;&c_z;&c_ib;&c_k;&c_ib;)</klr></trd>
+    <trd>&c_z;&c_a;&c_sh;&c_p;&c_ib;&c_l;&c_ib;&c_c;&c_mol; <klr tip="amb">(&c_g;&c_u;&c_z;&c_ib;&c_k;&c_ib;)</klr></trd>
   </trdgrp>
+  <trd lng="bo">&#xF50;&#xF7A;&#xF62;&#xF0B;&#xF60;&#xF47;&#xF74;&#xF0B;&#xF62;&#xF92;&#xFB1;&#xF42;&#xF0B;</trd>
   <trd lng="ca">botonar</trd>
   <trd lng="cs">zap&iacute;nat na knofl&iacute;ky</trd>
   <trd lng="de">zukn&ouml;pfen</trd>
   <trd lng="es">abotonar</trd>
   <trd lng="fr">boutonner</trd>
+  <trd lng="he">&#x5DC;&#x5DB;&#x5E4;&#x5EA;&#x5E8;</trd>
   <trd lng="hu">begombol</trd>
   <trd lng="it">abbottonare</trd>
+  <trd lng="ja">&#x30DC;&#x30BF;&#x30F3;&#x3092;&#x304B;&#x3051;&#x308B;  [<ind>&#x307C;&#x305F;&#x3093;&#x3092;&#x304B;&#x3051;&#x308B;</ind>]</trd>
   <trd lng="nl">knopen</trd>
   <trdgrp lng="pl">
     <trd>zapina&cacute; na <ind>guziki</ind></trd>
@@ -279,6 +296,7 @@
     <trd>zapn&uacute;&tcaron; na gomb&iacute;ky</trd>
   </trdgrp>
   <trd lng="sv">kn&auml;ppa</trd>
+  <trd lng="uk">&c_z;&c_a;&c_s;&c_t;&c_ib;&c_b;&c_u;&c_v;&c_a;&c_t;&c_i; &#x43D;&c_a; &c_gu;&c_u;&c_d;&c_z;&c_i;&#x43A;&c_i;</trd>
 </drv>
 
 <drv mrk="buton.mal0umi">
@@ -291,14 +309,16 @@
     <dif>
       Disigi partojn de vesto eligante la <tld/>ojn el la fendoj:
       <ekz>
-        atendu iom, respondis la tajloreto, mal<tld/>umis la surtuton kaj montris al la giganto la zonon
+        atendu iom, respondis la tajloreto, mal<tld/>umis la surtuton kaj montris al la giganto la
+        zonon
         <fnt>
           <bib>ElektFab</bib>
           <lok>La kura&gcirc;a tajloreto</lok>
         </fnt>;
       </ekz>
       <ekz>
-        rapide &scirc;i dis<tld/>umis la malstre&ccirc;e surpendantan vesteton kaj de&scirc;ovis &gcirc;in de unu brako de la infano
+        rapide &scirc;i dis<tld/>umis la malstre&ccirc;e surpendantan vesteton kaj de&scirc;ovis &gcirc;in de unu brako de
+        la infano
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -308,7 +328,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref="https://www.monato.be/2003/007837.html">Ne
+          <vrk><url ref="&Monato;/2003/007837.html">Ne
             al &ccirc;iuj pla&ccirc;os &ccirc;i literatura gemeto</url></vrk>
         </fnt>.
       </ekz>
@@ -325,6 +345,7 @@
   <trd lng="fr">d&eacute;boutonner</trd>
   <trd lng="hu">kigombol</trd>
   <trd lng="it">sbottonare</trd>
+  <trd lng="ja">&#x30DC;&#x30BF;&#x30F3;&#x3092;&#x306F;&#x305A;&#x3059;  [<ind>&#x307C;&#x305F;&#x3093;&#x3092;&#x306F;&#x305A;&#x3059;</ind>]</trd>
   <trd lng="nl">losknopen</trd>
   <trd lng="pl">rozpina&cacute; <ind>guzik</ind></trd>
   <trdgrp lng="ru">
@@ -336,6 +357,10 @@
     <trd>rozopn&uacute;&tcaron; gomb&iacute;k</trd>
   </trdgrp>
   <trd lng="sv">kn&auml;ppa upp</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x43E;&c_z;&c_s;&c_t;&c_ib;&c_b;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_s;&c_t;&c_ib;&c_b;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="buton.ekrana0o">
@@ -431,7 +456,7 @@
       </ekz>
       <ekz>
         montri&gcirc;is, ke niaj plezur-<tld/>oj estas tute aliaj: &scirc;ia 
-        estas apena&ubreve; videbla, <klr>[&#8230;]</klr> mia estas klare videbla
+        estas apena&ubreve; videbla, <klr>[&#x2026;]</klr> mia estas klare videbla
         <fnt>
           <aut>trad. Frank kaj Pa&ubreve;lin'</aut>,
           <vrk>adoleskantinaj demandoj, 3</vrk>,  
@@ -476,6 +501,15 @@
 </art>
 <!--
 $Log$
+versio 1.48 2023/04/13 12:48:36
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.47 2023/04/11 11:23:30
+Paul Peeraerts: Steloj -> monato
+
+versio 1.46 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.40  2019/06/29 12:22:51  revo
 adaptis URL de Monato
 
@@ -489,17 +523,5 @@ Revision 1.37  2017/08/26 22:10:17  revo
 Vito Redsky: +trd ro
 
 Revision 1.36  2015/12/01 19:10:23  revo
-Jeromo Vasxe: + flor~o
-
-Revision 1.35  2015/10/07 11:10:31  revo
-Evandro Avellar: +trd pt
-
-Revision 1.34  2015/07/04 08:37:31  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.33  2015/06/29 16:29:36  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.32  2014/10/06 19:10:22  revo
 -->
 </vortaro>

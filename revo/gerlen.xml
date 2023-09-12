@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gerlen.xml,v 1.9 2006/09/07 16:57:17 revo Exp $">
+<art mrk="$Id: gerlen.xml,v 1.15 2023/08/31 14:29:52 revo Exp $">
 <kap>
   <rad>gerlen</rad>/o
 </kap>
@@ -11,14 +10,12 @@
   <uzo tip="fak">MAR</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="sxnur.0ego">&Scirc;nurego</ref> konsistanta el kelkaj <ref tip="prt"
-      cel="hauxser.0o">ha&ubreve;seroj</ref>:
+      <ref tip="super" cel="sxnur.0ego">&Scirc;nurego</ref> konsistanta el kelkaj <ref tip="prt" cel="hauxser.0o">ha&ubreve;seroj</ref>:
       <ekz>
-        ili brue min primokis, svingante per ha&ubreve;ser-peco: <klr>[&#8230;]</klr> tiom da <tld/>o
+        ili brue min primokis, svingante per ha&ubreve;ser-peco: <klr>[&#x2026;]</klr> tiom da <tld/>o
         ne sufi&ccirc;os &gcirc;is pinto de via longa nazo
         <fnt>
-          <vrk><url ref="http://corpora.uni-leipzig.de/de/res?corpusId=epo_mixed_2012&amp;word=gerleno"
-              >Judaj ritoj kaj kredoj</url></vrk>
+          <vrk><url ref="http://corpora.uni-leipzig.de/de/res?corpusId=epo_mixed_2012&amp;word=gerleno">Judaj ritoj kaj kredoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -36,6 +33,10 @@
     <trd>haj&oacute;k&ouml;t&eacute;l</trd>,
     <trd>kik&ouml;t&odblac;k&ouml;t&eacute;l</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3082;&#x3084;&#x3044;&#x7DB1;  [<ind>&#x3082;&#x3084;&#x3044;&#x3065;&#x306A;</ind>]</trd>,
+    <trd>&#x592A;&#x7DB1;  [<ind>&#x3075;&#x3068;&#x3057;&#x3064;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tros<klr tip="ind"> (zeewezen)</klr></trd>
   <trdgrp lng="pt">
    <trd>calabre</trd>, 
@@ -47,6 +48,7 @@
     <trd>tiahlo</trd>,
     <trd>z&aacute;vesn&yacute; povraz</trd>
   </trdgrp>
+  <trd lng="uk">&#x43F;&#x43E;&#x442;&#x440;&#x456;&#x439;&#x43D;&#x438;&#x439; &#x43A;&#x430;&#x43D;&#x430;&#x442;</trd>
 </drv>
 </art>
 <!--

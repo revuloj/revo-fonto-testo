@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hidrot.xml,v 1.14 2010/10/26 16:31:15 revo Exp $">
+<art mrk="$Id: hidrot.xml,v 1.20 2023/08/31 15:46:17 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>hidroterapi</rad>/o
@@ -12,16 +11,15 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Medicina sistemo de <ref tip="super" cel="kurac.0ado">kuracado</ref>
+      Medicina sistemo de <ref tip="super" cel="kurac.0o">kuracado</ref>
       per <ref cel="akv.0o">akvo</ref>:
       <ekz>
         la kuracmetodo de <nom>Kneipp</nom> bazi&gcirc;as sur kvin kolonoj: <tld/>o (kuraci per akvo),
-        fitoterapio (kuraci per plantoj), movoterapio (korpa aktivado), diet<klr>[&#8230;]</klr>o
+        fitoterapio (kuraci per plantoj), movoterapio (korpa aktivado), diet<klr>[&#x2026;]</klr>o
         (racia nutrado) kaj ordoterapio (ordo kaj ekvilibro en la vivo)
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=16467"
-              >Sebastian Kneipp</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=16467">Sebastian Kneipp</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -44,6 +42,7 @@
     <trd>hidroter&aacute;pia</trd>
   </trdgrp>
   <trd lng="it">idroterapia</trd>
+  <trd lng="ja">&#x6C34;&#x6CBB;&#x7642;&#x6CD5;  [<ind>&#x3059;&#x3044;&#x3061;&#x308A;&#x3087;&#x3046;&#x307B;&#x3046;</ind>]</trd>
   <trd lng="nl">hydrotherapie</trd>
   <trdgrp lng="pl">
     <trd>hydroterapia</trd>,
@@ -55,10 +54,17 @@
     <trd>&c_g;&c_i;&c_d;&c_r;&c_o;&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
   </trdgrp>
   <trd lng="sk">vodolie&ccaron;ba</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x43E;&#x434;&#x43E;&#x43B;&#x456;&#x43A;&#x443;&#x432;&#x430;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x433;&#x456;&#x434;&#x440;&#x43E;&#x442;&#x435;&#x440;&#x430;&#x43F;&#x456;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2021/05/16 13:56:02
+Wolfram Diestel: kor. ref-cel
+
 Revision 1.16  2015/07/04 08:37:35  revo
 aldono de trd cs per skripto de M. von Laer
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: naiv.xml,v 1.21 2009/10/15 16:31:04 revo Exp $">
+<art mrk="$Id: naiv.xml,v 1.35 2023/09/02 12:44:20 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
   <rad>naiv</rad>/a <fnt><bib>PV</bib></fnt>
@@ -44,7 +43,7 @@
       </ekz>
       <ekz>
         <klr>[&scirc;i]</klr> rigardis la kuradantan struton, 
-        vidis <klr>[&#8230;]</klr> &gcirc;ian <tld/>an &gcirc;ojon &ccirc;e la vido 
+        vidis <klr>[&#x2026;]</klr> &gcirc;ian <tld/>an &gcirc;ojon &ccirc;e la vido 
         de sia propra granda ombro sur la blanka lunlumita muro
         <fnt>
           <bib>Fab4</bib>
@@ -98,7 +97,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        vi dancas, vi saltas <klr>[&#8230;]</klr> kaj vi &scirc;ajnigas vin kokete
+        vi dancas, vi saltas <klr>[&#x2026;]</klr> kaj vi &scirc;ajnigas vin kokete
         <tld/>aj
         <fnt>
           <bib>Hamlet</bib>
@@ -167,11 +166,23 @@
       <trd>barnslig</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="ja">
+    <trd>&#x7D20;&#x6734;&#x306A;  [<ind>&#x305D;&#x307C;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x7121;&#x90AA;&#x6C17;&#x306A;  [<ind>&#x3080;&#x3058;&#x3083;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x3046;&#x3076;&#x306A;</trd>,
+    <trd>&#x4E16;&#x9593;&#x77E5;&#x3089;&#x305A;&#x306E;  [<ind>&#x305B;&#x3051;&#x3093;&#x3057;&#x3089;&#x305A;&#x306E;</ind>]</trd>,
+    <trd>&#x611A;&#x76F4;&#x306A;  [<ind>&#x3050;&#x3061;&#x3087;&#x304F;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">na&iuml;ef</trd>
+  <trdgrp lng="pl">
+    <trd>naiwny</trd>,
+    <trd>&lstroke;atwowierny</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>inocente</trd>,
     <trd>ing&ecirc;nuo</trd>
   </trdgrp>
+  <trd lng="ro">credul</trd>
   <trdgrp lng="ru">
     <trd>&c_n;&c_a;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>
@@ -182,6 +193,10 @@
     <trd>deneyimsiz</trd>,
     <trd>sade</trd>,
     <trd>do&gbreve;al</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x430;&#x457;&#x432;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x43E;&#x434;&#x443;&#x448;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
 
@@ -204,7 +219,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        ni <tld/>e esperas, ke <klr>[&#8230;]</klr>
+        ni <tld/>e esperas, ke <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Homaranismo</bib>
           <vrk>Nefermita letero al s-ro de Beaufront.</vrk>
@@ -212,6 +227,13 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_ib;&c_w;&c_n;&c_a;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7121;&#x90AA;&#x6C17;&#x306B;  [<ind>&#x3080;&#x3058;&#x3083;&#x304D;&#x306B;</ind>]</trd>,
+    <trd>&#x3070;&#x304B;&#x6B63;&#x76F4;&#x306B;  [<ind>&#x3070;&#x304B;&#x3057;&#x3087;&#x3046;&#x3058;&#x304D;&#x306B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">naiwnie</trd>
+  <trd lng="ro">naiv</trd>
 </drv>
 
 <drv mrk="naiv.0i">
@@ -235,16 +257,21 @@
       <ekz>
         iufoje malfacilas scii, &ccirc;u li ironias a&ubreve; <tld/>as
         <fnt>
-          <vrk><url
-          ref="http://www.esperanto.net/literaturo/roman/libr/drdornerrec.html">Kia
+          <vrk><url ref="http://www.esperanto.net/literaturo/roman/libr/drdornerrec.html">Kia
            la ensemo, tia la rikolto?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_n;&c_a;&c_ib;&c_w;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_p;&c_r;&c_a;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_mol; <ind>&c_n;&c_a;&c_ib;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>
+  </trdgrp>
   <trd lng="en">to be naive</trd>
   <trd lng="es">ser ingenuo</trd>
   <trd lng="fr">&ecirc;tre <ind>na&iuml;f</ind></trd>
+  <trd lng="pl">by&cacute;  <ind>naiwnym</ind></trd>
+  <trd lng="ro">fi  <ind>naiv</ind></trd> 
 </drv>
 
 <drv mrk="naiv.0eco">
@@ -276,14 +303,14 @@
         </fnt>;
       </ekz>
       <ekz>
-        &ccirc;u lingvo internacia estas bezona &#8208; tiu &ccirc;i demando 
+        &ccirc;u lingvo internacia estas bezona &#x2010; tiu &ccirc;i demando 
         per sia <tld/>eco elvokos ridon &ccirc;e la estontaj generacioj
         <fnt>
           <bib>EE</bib>
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i venis el regiono, en kiu regas <klr>[&#8230;]</klr> <tld/>eco kaj
+        &scirc;i venis el regiono, en kiu regas <klr>[&#x2026;]</klr> <tld/>eco kaj
         nenionsciado
         <fnt>
           <bib>Marta</bib>
@@ -305,9 +332,16 @@
     <trd>Torheit</trd>,
     <trd>Unschuld</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D20;&#x6734;&#x3055;  [<ind>&#x305D;&#x307C;&#x304F;&#x3055;</ind>]</trd>,
+    <trd>&#x7121;&#x90AA;&#x6C17;&#x3055;  [<ind>&#x3080;&#x3058;&#x3083;&#x304D;&#x3055;</ind>]</trd>,
+    <trd>&#x4E16;&#x9593;&#x77E5;&#x3089;&#x305A;  [<ind>&#x305B;&#x3051;&#x3093;&#x3057;&#x3089;&#x305A;</ind>]</trd>,
+    <trd>&#x3070;&#x304B;&#x6B63;&#x76F4;  [<ind>&#x30D0;&#x30AB;&#x3057;&#x3087;&#x3046;&#x3058;&#x304D;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">naiwno&sacute;&cacute;</trd>
+  <trd lng="ro">naivitate</trd>
+  <trd lng="uk">&#x43D;&#x430;&#x457;&#x432;&#x43D;&#x456;&#x441;&#x442;&#x44C;</trd>
 </drv>
-
-
 
 <drv mrk="naiv.0ega">
   <kap><tld/>ega</kap>
@@ -319,13 +353,13 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jens S. Larsen</aut>
-          <vrk><url
-          ref="&Monato;/2009/009705.php">Posedenda
+          <vrk><url ref="&Monato;/2009/009705.php">Posedenda
           libra&ccirc;o</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_je;&c_l;&c_mol;&c_m;&c_ib; <ind>&c_n;&c_a;&c_ib;&c_w;&c_n;&c_y;</ind></trd>
   <trdgrp lng="ca">
     <trd>ximple</trd>,
     <trd>beneit</trd>
@@ -349,11 +383,15 @@
     <trd>hisz&eacute;keny</trd>,
     <trd>balga</trd>
   </trdgrp>
+  <trd lng="ja">&#x3070;&#x304B;&#x6B63;&#x76F4;&#x306A;  [<ind>&#x3070;&#x304B;&#x3057;&#x3087;&#x3046;&#x3058;&#x304D;&#x306A;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>lichtgelovig</trd>,
     <trd>goedgelovig</trd>
   </trdgrp>
+  <trd lng="pl">bardzo  <ind>naiwny</ind></trd>
+  <trd lng="ro">foarte  <ind>naiv</ind></trd>
   <trd lng="sk">ve&lcaron;mi naivn&yacute;</trd>
+  <trd lng="uk">&#x434;&#x443;&#x440;&#x43D;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="naiv.0ulo">
@@ -394,7 +432,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>ulo <klr>[&#8230;]</klr> havante du bonajn okulojn,
+        <tld/>ulo <klr>[&#x2026;]</klr> havante du bonajn okulojn,
         intence falis super &scirc;tono kaj vundis al si la kapon
         <fnt>
           <bib>LR</bib>;
@@ -411,6 +449,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_a;&c_ib;&c_w;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
   <trdgrp lng="cs">
     <trd>d&ecaron;tina</trd>,
     <trd>hlup&aacute;k</trd>,
@@ -431,9 +470,25 @@
     <trd>ben&ecirc;t<klr> (subst.)</klr></trd>,
     <trd>b&ecirc;ta<klr> (subst.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7121;&#x90AA;&#x6C17;&#x306A;&#x4EBA;  [<ind>&#x3080;&#x3058;&#x3083;&#x304D;&#x306A;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x3046;&#x3076;&#x306A;&#x4EBA;  [<ind>&#x3046;&#x3076;&#x306A;&#x3058;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>naiwniak</trd>,
+    <trd>&zdot;&oacute;&lstroke;todzi&oacute;b</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>fraier</trd>,
+    <trd>mucos</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>hlup&aacute;k</trd>,
     <trd>naivn&yacute; &ccaron;lovek</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&#x430;&#x457;&#x432;&#x43D;&#x430;/&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x43E;&#x434;&#x443;&#x448;&#x43D;&#x430; &#x43B;&#x44E;&#x434;&#x438;&#x43D;&#x430;</trd>,
+    <trd>&#x43F;&#x440;&#x43E;&#x441;&#x442;&#x430;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -446,7 +501,7 @@
       ofte prezentanta detalajn bildojn de vila&gcirc;aj scenoj
       a&ubreve; pejza&gcirc;oj, kun nelerta desegno kaj brilaj koloroj:
       <ekz>
-        Milan Ohnisko &#8208; lia poezio estas kombino de <tld/>ismo
+        Milan Ohnisko &#x2010; lia poezio estas kombino de <tld/>ismo
         uzanta vortludojn por atingi raciajn kulminojn kaj de 
         novdekadenca kompreno por tragediismo kaj donki&hcirc;otismo
         <fnt>
@@ -466,11 +521,19 @@
   </trdgrp>
   <trd lng="hu">na&iacute;v<ind>m&udblac;v&eacute;szet</ind></trd>
   <trd lng="nl">na&iuml;eve kunst</trd>
+  <trd lng="pl">naiwizm</trd>
+  <trd lng="ro">naivism</trd>
   <trd lng="ru">&c_n;&c_a;&c_i;&c_v;&c_n;&c_o;&c_je; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_o;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.33 2021/12/13 09:32:12
+Dmitri Gabinski: + trd be
+
+versio 1.32 2021/05/10 19:06:48
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.30  2018/04/10 15:10:14  revo
 Dmitri Gabinski: +trd be
 
@@ -487,11 +550,5 @@ Cindy Moon McKee: +trd en
 
 Revision 1.26  2015/07/04 08:37:39  revo
 aldono de trd cs per skripto de M. von Laer
-
-Revision 1.25  2015/06/29 16:33:20  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.24  2015/04/20 17:10:15  revo
-Carlos Garcia: +trd es -a -i -ulo
 -->
 </vortaro>

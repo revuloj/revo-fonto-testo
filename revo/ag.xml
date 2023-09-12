@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ag.xml,v 1.38 2010/08/17 16:30:19 revo Exp $">
+<art mrk="$Id: ag.xml,v 1.146 2023/08/30 18:23:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ag</rad>/i <fnt><bib>PV</bib></fnt>
@@ -16,20 +15,45 @@
       Eksterigi siajn kapablojn, produkti ian efikon, uzante sian forton
       a&ubreve; kapablon:
       <ekz>
+        honesta homo <tld/>as honeste
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         <tld/>i juste
         <fnt><bib>MT</bib> <lok>&Mih; 6:8</lok></fnt>;
       </ekz>
       <ekz>
-        <tld/>i noble, nesingarde, kun kolero<fnt>Z</fnt>;
+        &ccirc;u vi ne povis <tld/>i pli delikate
+        <fnt>
+          <bib>ElektFab</bib>
+          <lok>Ne&gcirc;ulino kaj Rozulino</lok>
+        </fnt>?
       </ekz>
       <ekz>
-        vortojn &scirc;paru, <tld/>ojn faru<fnt><bib>PrV</bib></fnt>;
+        ni <tld/>as ankora&ubreve; blinde kaj riskas, ke nia laborado pereos vane
+        <fnt>
+          <bib>EE</bib>
+          <lok>I</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        nenia <tld/>o fari&gcirc;as sen pago
-        <klr>(sen bona a&ubreve; malbona re<tld/>o)</klr>
-        <fnt><bib>PrV</bib></fnt>;
+        mi ne devas <tld/>i kontra&ubreve; mia konscienco
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
+      <ekz>
+        mi devas <tld/>i, anta&ubreve; ol tiu &ccirc;i &ccirc;iutaga kuneestado renovi&gcirc;os
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
+      </ekz>
+<!--
+fontoj...?
       <ekz>
         plena libereco de <ind><tld/>ado</ind><fnt>Z</fnt>;
         <trdgrp lng="be">
@@ -42,15 +66,32 @@
         ilia <tld/>ado estas dan&gcirc;erega por nia afero<fnt>Z</fnt>;
       </ekz>
       <ekz>
-        <tld/>ada rolo<fnt>Z</fnt>.
+        <tld/>ada rolo<fnt>Z</fnt>;
+      </ekz>
+-->
+      <ekz>
+        pli facile estas regi ol <tld/>i
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiu <tld/>as afable, vivas agrable
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="far.0i.iel_agi">fari<sncref/></ref>,
+      <ref cel="proced.0i">procedi</ref>
+    </refgrp>
     <trdgrp lng="es">
       <trd>actuar</trd>,
       <trd>proceder</trd>,
       <trd>obrar</trd>
     </trdgrp>
-    <trd lng="ja">&#34892;&#21205;&#12377;&#12427; [<ind>&#12371;&#12358;&#12393;&#12358;&#12377;&#12427;</ind>]</trd>
+    <trd lng="ja">&#x884C;&#x52D5;&#x3059;&#x308B; [<ind>&#x3053;&#x3046;&#x3069;&#x3046;&#x3059;&#x308B;</ind>]</trd>
     <trdgrp lng="pl">
       <trd>dzia&lstroke;a&cacute;</trd>,
       <trd>czyni&cacute;</trd>,
@@ -61,21 +102,46 @@
       <trd>proceder</trd>,
       <trd>obrar</trd>
     </trdgrp>
-    <trd lng="th">&#3585;&#3619;&#3632;&#3607;&#3635;</trd>
+    <trd lng="th">&#xE01;&#xE23;&#xE30;&#xE17;&#xE33;</trd>
   </snc>
   <snc mrk="ag.0i.trakti">
     <dif>
-      Konduti iel kontra&ubreve; iu,
+      <ref cel="kondut.0i">Konduti</ref> iel kontra&ubreve; iu,
       <ref tip="vid" cel="trakt.0i.sinteni">trakti</ref> iun:
       <ekz>
-        <tld/>i afable kun, kontra&ubreve;<fnt>Z</fnt> iu.
+        li scii&gcirc;is, kiel <tld/>is kun li lia pli juna filo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 9:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se vi <tld/>os malbone kontra&ubreve; miaj filinoj <klr>[&#x2026;]</klr>, tiam <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>MT</bib>
+          <lok>Genezo 31:50</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>u kun aliaj tiel, kiel vi deziras ke aliaj <tld/>u kun vi
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Homaranismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel pardoneme la ju&gcirc;o <tld/>as kun vi, malvirtulo
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="es">
       <trd>actuar</trd>,
       <trd>proceder</trd>
     </trdgrp>
-    <trd lng="ja">&#12405;&#12427;&#12414;&#12358;</trd>
+    <trd lng="ja">&#x3075;&#x308B;&#x307E;&#x3046;</trd>
     <trdgrp lng="pl">
       <trd>czyni&cacute;</trd>,
       <trd>post&eogonek;powa&cacute;</trd>
@@ -84,18 +150,66 @@
       <trd>agir</trd>,
       <trd>proceder</trd>
     </trdgrp>
-    <trd
-    lng="th">&#3611;&#3599;&#3636;&#3610;&#3633;&#3605;&#3636;</trd>
+    <trd lng="th">&#xE1B;&#xE0F;&#xE34;&#xE1A;&#xE31;&#xE15;&#xE34;</trd>
   </snc>
+  <snc mrk="ag.0i.efiki">
+    <dif>
+      <klr>(io)</klr> <ref tip="dif" cel="efik.0i">Efiki</ref>:
+      <ekz>
+        la sono de lia vo&ccirc;o <tld/>is pli intense, ol <klr>[&#x2026;]</klr> la plej detaloplenaj
+        klarigoj
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[jen]</klr> <tld/>is ia malsana stato
+        <fnt>
+          <bib>ChB</bib>
+          <lok>2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pafo <tld/>is mirige, post unu sekundo, &ccirc;iuj gapis mire al la &gcirc;endarmo
+        <fnt>
+          <bib>ChV</bib>
+          <lok>20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu amo <klr>[&#x2026;]</klr> <tld/>is sur min blindige
+        <fnt>
+          <bib>CKv</bib>
+          <lok>15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diversaj terapioj <klr>[&#x2026;nur]</klr> <tld/>as sur la simptomoj
+        <fnt>
+          <bib>Kon11</bib>
+          <lok>&ndash; Reagoj &ndash;</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">wirken</trd>
+  </snc>
+  <trd lng="af">Wet</trd>
+  <trd lng="am">&#x12A5;&#x122D;&#x121D;&#x1303;</trd>
+  <trd lng="ar">&a_f;&a_ayn;&a_l;</trd>
+  <trd lng="az">akt</trd>
   <trdgrp lng="be">
     <trd>&c_d;&c_z;&c_je;&c_j;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_ch;&c_y;&c_n;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_a;&c_m;</trd>
+  <trd lng="bn">&#x986;&#x987;&#x9A8;</trd>
   <trdgrp lng="br">
     <trd>ober<klr tip="ind"> (v.)</klr></trd>,
     <trd>gweredi&ntilde; war</trd>
   </trdgrp>
+  <trd lng="bs">&ccaron;in</trd>
+  <trd lng="co">attu</trd>
   <trdgrp lng="cs">
     <trd>jednat</trd>,
     <trd>postupovat</trd>,
@@ -103,6 +217,8 @@
     <trd>&uacute;&ccaron;inkovat</trd>,
     <trd>&ccaron;init</trd>
   </trdgrp>
+  <trd lng="cy">gweithredu</trd>
+  <trd lng="da">handling</trd>
   <trdgrp lng="de">
     <trd>handeln</trd>,
     <trd>tun</trd>
@@ -110,20 +226,75 @@
   <trd lng="el">&pi;&rho;&alfa_ton;&tau;&tau;&omega;</trd>
   <trd lng="en">act</trd>
   <trd lng="es">actuar</trd>
+  <trd lng="et">tegu</trd>
+  <trd lng="eu">ekintza</trd>
   <trd lng="fa">&a_ayn;&a_m;&a_l; &f_k;&a_r;&a_d;&a_n;</trd>
   <trdgrp lng="fr">
     <trd>agir</trd>,
     <trd>se <ind>comporter</ind></trd>
   </trdgrp>
+  <trd lng="fy">handeling</trd>
+  <trd lng="ga">gn&iacute;omh</trd>
+  <trd lng="gd">achd</trd>
+  <trd lng="gl">acto</trd>
+  <trd lng="gu">&#xA85;&#xAA7;&#xABF;&#xAA8;&#xABF;&#xAAF;&#xAAE;</trd>
+  <trd lng="ha">yi</trd>
+  <trd lng="he">&lamed;&pe;&ayin;&vav;&lamed;</trd>
+  <trd lng="hi">&#x905;&#x927;&#x93F;&#x928;&#x93F;&#x92F;&#x92E;</trd>
+  <trd lng="hr">&ccaron;in</trd>
+  <trd lng="ht">zak</trd>
+  <trd lng="hy">&#x563;&#x578;&#x580;&#x56E;</trd>
+  <trd lng="ig">eme</trd>
+  <trd lng="is">ath&ouml;fn</trd>
   <trd lng="it">agire</trd>
+  <trd lng="jv">tumindak</trd>
+  <trd lng="ka">&#x10D0;&#x10E5;&#x10E2;&#x10D8;&#x10E1;</trd>
+  <trd lng="kk">&c_a;&c_k;&c_t;</trd>
+  <trd lng="km">&#x179F;&#x1780;&#x1798;&#x17D2;&#x1798;&#x1797;&#x17B6;&#x1796;</trd>
+  <trd lng="kn">&#xC86;&#xC95;&#xCCD;&#xC9F;&#xCCD;</trd>
+  <trd lng="ko">&#xD589;&#xC704;</trd>
+  <trd lng="ku">ewlekar&icirc;</trd>
+  <trd lng="ky">&c_i;&c_sh;</trd>
+  <trd lng="lat">actum</trd>
+  <trd lng="lo">&#xE81;&#xEBB;&#xE94;&#xEAB;&#xEA1;&#xEB2;&#xE8D;&#xEA7;&#xEC8;&#xEB2;&#xE94;&#xEC9;&#xEA7;&#xE8D;</trd>
+  <trd lng="lt">aktas</trd>
+  <trd lng="lv">akts</trd>
+  <trd lng="mg">zavatra</trd>
+  <trd lng="mi">mahi</trd>
+  <trd lng="mk">&c_ch;&c_i;&c_n;</trd>
+  <trd lng="ml">&#xD2A;&#xD4D;&#xD30;&#xD35;&#xD7C;&#xD24;&#xD4D;&#xD24;&#xD3F;</trd>
+  <trd lng="mn">&c_a;&c_k;&c_t;</trd>
+  <trd lng="mr">&#x915;&#x93E;&#x92F;&#x926;&#x93E;</trd>
+  <trd lng="ms">tindakan</trd>
+  <trd lng="mt">att</trd>
+  <trd lng="my">&#x101C;&#x102F;&#x1015;&#x103A;&#x101B;&#x1015;&#x103A;</trd>
+  <trd lng="ne">&#x915;&#x93E;&#x92E;</trd>
   <trd lng="nl">handelen</trd>
-  <trd lng="ru">
-    &c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="ny">mchitidwe</trd>
+  <trd lng="pa">&#xA15;&#xA70;&#xA2E;</trd>
+  <trd lng="ps">&a_ayn;&a_m;&a_l;</trd>
+  <trd lng="ro">ac&#x21B;iona</trd>
+  <trd lng="ru">&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="rw">gukora</trd>
+  <trd lng="sd">&a_A;&a_y;&#x6AA;&#x67D;</trd>
+  <trd lng="si">&#xDB4;&#xDB1;&#xDAD;</trd>
   <trdgrp lng="sk">
     <trd>kona&tcaron;</trd>,
     <trd>postupova&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">akt</trd>
+  <trd lng="sm">gaoioiga</trd>
+  <trd lng="sn">chiito</trd>
+  <trd lng="so">fal</trd>
+  <trd lng="sq">akt</trd>
+  <trd lng="st">ketso</trd>
+  <trd lng="su">kalakuan</trd>
   <trd lng="sv">agera</trd>
+  <trd lng="sw">tendo</trd>
+  <trd lng="ta">&#xB9A;&#xBC6;&#xBAF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC1A;&#xC1F;&#xC4D;&#xC1F;&#xC02;</trd>
+  <trd lng="tg">&c_a;&c_m;&c_a;&c_l;</trd>
+  <trd lng="tl">kumilos</trd>
   <trdgrp lng="tr">
     <trd>i&scedil; g&ouml;rmek</trd>,
     <trd>etken olmak</trd>,
@@ -131,31 +302,49 @@
     <trd>davranmak</trd>,
     <trd>hareket etmek</trd>
   </trdgrp>
+  <trd lng="tt">&c_a;&c_k;&c_t;</trd>
+  <trd lng="uk">&c_a;&c_k;&c_t;</trd>
+  <trd lng="ur">&a_A;&f_y;&f_k;&#x679;</trd>
+  <trd lng="uz">ish</trd>
+  <trd lng="vi">h&agrave;nh &#x111;&#x1ED9;ng</trd>
+  <trd lng="xh">isenzo</trd>
+  <trd lng="yi">&alef;&#x5B7;&qof;&tet;</trd>
+  <trd lng="yo">igbese</trd>
+  <trd lng="zu">isenzo</trd>
 </drv>
 
 <drv mrk="ag.0o">
   <kap><tld/>o</kap>
   <snc mrk="ag.0o.montro">
     <dif>
-      Ekstra montro de ies forto a&ubreve; kapablo:
-      <ekz>
-        koni&gcirc;as birdo la&ubreve; flugo kaj <tld/>o<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        vortojn &scirc;paru, <tld/>ojn faru
-        <fnt><bib>PrV</bib></fnt>;
-      </ekz>
+      Ekstera montro de ies forto a&ubreve; kapablo:
       <ekz>
         diru al mi vian kredon kaj montru &gcirc;in al mi
-        en viaj <tld/>oj<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        post &ccirc;iu <tld/>o venas la tempo de pago<fnt>Z</fnt>;
+        en viaj <tld/>oj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>En la lasta tago</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la <ind><tld lit="A"/>oj de la apostoloj</ind>
-        <fnt><bib>NT</bib></fnt>.        
+        <fnt><bib>NT</bib></fnt>; 
         <trd lng="ru">&c_D;&c_je;&c_ja;&c_n;&c_i;&c_ja; &c_a;&c_p;&c_o;&c_s;&c_t;&c_o;&c_l;&c_o;&c_v;</trd>
+      </ekz>
+      <ekz>
+        koni&gcirc;as birdo la&ubreve; flugo kaj homo la&ubreve; <tld/>o
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenia <tld/>o fari&gcirc;as sen pago
+        <klr>(sen bona a&ubreve; malbona re<tld/>o)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        vortojn &scirc;paru, <tld/>ojn faru
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
     <ref tip="sub" cel="akt.0o.ago">akto<sncref/></ref>
@@ -164,16 +353,17 @@
       akcentas la intencitecon a&ubreve; la eksteran aspekton, dum
       faro altiras la atenton plie al konkreteco.
     </rim>
-    <trd
-    lng="th">&#3585;&#3634;&#3619;&#3585;&#3619;&#3632;&#3607;&#3635;</trd>
+    <trd lng="th">&#xE01;&#xE32;&#xE23;&#xE01;&#xE23;&#xE30;&#xE17;&#xE33;</trd>
   </snc>
   <snc mrk="ag.0o.efiko">
     <dif>
       &Gcirc;enerala ka&ubreve;zado de efiko:
       <ekz>
-        se mi parolas ne pri la <tld/>o de ekokupo mem, sed pri la
-        stato,
-        en kiu mi trovi&gcirc;as ...<fnt>Z</fnt>;
+        mi parolas ne pri la <tld/>o de ekokupo mem, sed pri la stato, en kiu mi trovi&gcirc;as
+        <fnt>
+          <bib>LR</bib>
+          <lok>Dua Parto &ndash; Gramatiko</lok>
+        </fnt>;
       </ekz>
       <ekz>
         verbo de <tld/>o;
@@ -195,6 +385,10 @@
     <trd>&uacute;kon</trd>,
     <trd>&ccaron;in</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Tat</trd>,
+    <trd>Handlung</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>act</trd>,
     <trd>action</trd>
@@ -212,23 +406,29 @@
     <trd>acte</trd>,
     <trd>action</trd>
   </trdgrp>
+  <trd lng="he">&pe;&ayin;&vav;&lamed;&he;</trd>
   <trdgrp lng="it">
     <trd>atto</trd>,
     <trd>azione</trd>
   </trdgrp>
   <trdgrp lng="ja">
-    <trd>&#34892;&#28858; [<ind>&#12371;&#12358;&#12356;</ind>]</trd>,
-    <trd>&#34892;&#21205; [<ind>&#12371;&#12358;&#12393;&#12358;</ind>]</trd>,
-    <trd>&#12405;&#12427;&#12414;&#12356;</trd>
+    <trd>&#x884C;&#x70BA; [<ind>&#x3053;&#x3046;&#x3044;</ind>]</trd>,
+    <trd>&#x884C;&#x52D5; [<ind>&#x3053;&#x3046;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x3075;&#x308B;&#x307E;&#x3044;</trd>
   </trdgrp>
   <trd lng="nl">handeling</trd>
   <trd lng="oc">accion</trd>
   <trdgrp lng="pl">
-    <trd>dzia&lstroke;nie</trd>,
+    <trd>dzia&lstroke;anie</trd>,
     <trd>czyn</trd>,
     <trd>post&eogonek;pek</trd>
   </trdgrp>
   <trd lng="pt">a&ccedil;&atilde;o</trd>
+  <trdgrp lng="ro">
+    <trd>act</trd>,
+    <trd>ac&#x21B;iune</trd>,
+    <trd>fapt</trd>
+  </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>akcia</trd>,
@@ -264,7 +464,7 @@
       </ekz>
       <ekz>
         se la anarkistoj uzas pli bone kaj pli ofte la aparaton ol la
-        komunistoj, &ccirc;i-lastaj ne povos ripro&ccirc;i &#8208; same
+        komunistoj, &ccirc;i-lastaj ne povos ripro&ccirc;i &#x2010; same
         estu, se la komunistoj montri&gcirc;os pli <tld/>emaj
         <fnt><bib>Lanti</bib> <lok>Venis anarkisto...</lok></fnt>.
       </ekz>
@@ -279,19 +479,43 @@
     <trd>oberiant</trd>,
     <trd>abil</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>agiln&iacute;</trd>,
+    <trd>aktivn&iacute;</trd>,
+    <trd>&ccaron;inn&yacute;</trd>,
+    <trd>&ccaron;inorod&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>t&auml;tig</trd>,
+    <trd>aktiv</trd>
+  </trdgrp>
   <trd lng="en">active</trd>
+  <trd lng="es">activo</trd>  
   <trdgrp lng="fa">
     <trd>&f_k;&a_A;&a_r;&f_y;</trd>,
     <trd>&f_p;&a_r;&f_k;&a_A;&a_r;</trd>,
     <trd>&a_f;&a_ayn;&a_A;&a_l;</trd>
   </trdgrp>
-  <trd lng="es">activo</trd>
   <trd lng="fr">actif</trd>
+  <trd lng="he">&pe;&ayin;&yod;&lamed;</trd>
   <trdgrp lng="it">
     <trd>attivo</trd>,
     <trd>d'<ind>azione</ind></trd>,
     <trd>alcre</trd>,
     <trd>solerte</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x884C;&#x52D5;&#x7684;&#x306A;  [<ind>&#x3053;&#x3046;&#x3069;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x6D3B;&#x52D5;&#x7684;&#x306A;  [<ind>&#x304B;&#x3064;&#x3069;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>aktywny</trd>,
+    <trd>czynny</trd>,
+    <trd>dzia&lstroke;aj&aogonek;cy</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>activ</trd>,
+    <trd>&icirc;n stare de func&#x21B;ionare</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_d;&c_je;&c_ja;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
@@ -308,11 +532,10 @@
     <trd>agiln&yacute;</trd>,
     <trd>pr&iacute;&ccaron;inliv&yacute;</trd>
   </trdgrp>
-  <trdgrp lng="cs">
-    <trd>agiln&iacute;</trd>,
-    <trd>aktivn&iacute;</trd>,
-    <trd>&ccaron;inn&yacute;</trd>,
-    <trd>&ccaron;inorod&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_ib;&c_j;&c_o;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_a;&c_k;&c_t;&c_i;&c_v;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -322,6 +545,33 @@
   <snc mrk="ag.inter0i.KOMUNE">
     <dif>
       Reciproke influi, aktive interrilati:
+      <ekz>
+        kiam multaj personoj grupi&gcirc;as en unu loko por inter<tld/>i kaj interhelpi, ni nomas tian
+        grupon urbo, &ccirc;u ne
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Du</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        ni devas konstati kiel &ccirc;iuj tiuj aferoj inter<tld/>as, por ke ni povu konsideri
+        ilin kaj elekti la&ubreve; iliaj influoj
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Dek</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ju pli facile klientoj povas inter<tld/>i kun vi, des pli ili volos komerci kun
+        vi
+        <fnt>
+          <bib>Monato</bib>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2004/008269.html">Libera programaro: nova rimedo
+          komerci</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         la &ccirc;efa kialo de malsani&gcirc;o estas konscio de maljunuloj, ke ili 
         jam ne kapablas konduti socie kutime kaj ke ili ne plu povos 
@@ -334,28 +584,77 @@
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="komuni1.inter0i">interkomuniki</ref>,
+      <ref cel="rilat.inter0igxi">interrilati&gcirc;i</ref>,
+      <ref cel="sxangx.inter0i">inter&scirc;an&gcirc;i</ref>,
+      <ref cel="labor.kun0i">kunlabori</ref>,
+      <ref cel="recipr.0i">reciproki</ref>
+    </refgrp>
+    <trd lng="th">&#xE21;&#xE35;&#xE1B;&#xE0F;&#xE34;&#xE2A;&#xE31;&#xE21;&#xE1E;&#xE31;&#xE19;&#xE18;&#xE4C;</trd>
   </snc>
+  <trd lng="de">interagieren</trd>
   <trd lng="es">interactuar</trd>
   <trd lng="fr">interagir</trd>
-  <trd lng="ja">&#30456;&#20114;&#12395;&#20316;&#29992;&#12377;&#12427; [<ind>&#12381;&#12358;&#12372;&#12395;&#12373;&#12424;&#12358;&#12377;&#12427;</ind>]</trd>
+  <trd lng="ja">&#x76F8;&#x4E92;&#x306B;&#x4F5C;&#x7528;&#x3059;&#x308B;
+  [<ind>&#x305D;&#x3046;&#x3054;&#x306B;&#x3055;&#x3088;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  <trd lng="pl">dzia&lstroke;a&cacute; interaktywnie</trd>
+  <trd lng="ro">ac&#x21B;ioneaz&abreve; interactiv</trd>
 </drv>
 
 <drv mrk="ag.inter0o">
   <kap>inter<tld/>o</kap>
   <snc mrk="ag.inter0o.reciproka">
     <dif>
-      Kuna a&ubreve; reciproka influo de pluraj <tld/>oj, fenomenoj,
+      Kuna a&ubreve; <ref cel="recipr.0a">reciproka</ref> influo de pluraj <tld/>oj, fenomenoj,
       faktoroj:
       <ekz>
-        la inter<tld/>o de oferto kaj postulo;
+        la socia normo <klr>[&#x2026;]</klr> ekzistas ja <klr>[&#x2026;]</klr> kiel rezultanto de la
+        inter<tld/>o de pluraj fortoj, nur malofte konver&gcirc;aj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la inter<tld/>o de teorio kaj praktiko;
+        ekvilibra sintezo de kompleksaj inter<tld/>oj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        la inter<tld/>o de la infanterio kaj de la aviado.
+        <uzo tip="fak">FIZ</uzo>
+        la fotono peras la elektromagnetan inter<tld/>on inter elektrono kaj protono
+        <klr>(cd fundamenta <ref cel="fort.0o.FIZ">forto<sncref/></ref>)</klr>
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1168">Fiziko</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        inter<tld/>o inter homo kaj naturo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Ren&eacute;e Triolle</aut>
+          <vrk><url ref="&Monato;/2011/010268.php">Kiel savi la planedon?</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu popolo (a&ubreve; socia grupo &gcirc;enerale) estas konstante reproduktata per miloj da
+        inter<tld/>oj kiuj memorigas pri ia komuneco
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 10</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="vid" cel="rilat.inter0o">interrilato</ref>
+    <trdgrp lng="de">
+      <trd>Wechselwirkung</trd>,
+      <trd>Wechselbeziehung</trd>
+    </trdgrp>    
   </snc>
   <snc mrk="ag.inter0o.KOMP">
     <uzo tip="fak">KOMP</uzo>
@@ -363,14 +662,22 @@
       <ref tip="dif" cel="dialog.0o.KOMP">Dialogo<sncref/></ref>
       de uzanto kun ruli&gcirc;anta programo:
       <ekz>
+        inter<tld/>o per klavaro kaj muso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2010/010076.php">Parto 3: Apple iPad - &ccirc;u revolucio a&ubreve;
+          evolucio?</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         tiu programo uzeblas kaj <ind>inter<tld/>e</ind>,
         kaj en la fona re&gcirc;imo.
         <trd lng="de">interaktiv</trd>
         <trd lng="en">interactively</trd>
         <trd lng="es">interactivamente</trd>
-        <trd lng="ru">
-          &c_i;&c_n;&c_t;&c_je;&c_r;&c_a;&c_k;&c_t;&c_i;&c_v;&c_n;&c_o;
-       </trd>
+        <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_r;&c_a;&c_k;&c_t;&c_i;&c_v;&c_n;&c_o;</trd>
       </ekz>
     </dif>
   </snc>
@@ -387,25 +694,32 @@
   <trd lng="en">interaction</trd>
   <trd lng="es">interacci&oacute;n</trd>
   <trdgrp lng="fa">
-    <trd>&a_b;&a_r;&a_h;&a_m;&zwnj;&f_k;&a_n;&a_sh;</trd>,
+    <trd>&a_b;&a_r;&a_h;&a_m;&#x200C;&f_k;&a_n;&a_sh;</trd>,
     <trd>&f_k;&a_n;&a_sh; &a_m;&a_t;&a_q;&a_A;&a_b;&a_l;</trd>
   </trdgrp>
   <trd lng="fr">interaction</trd>
   <trd lng="it">interazione</trd>
-  <trd lng="ja">&#30456;&#20114;&#20316;&#29992; [<ind>&#12381;&#12358;&#12372;&#12373;&#12424;&#12358;</ind>]</trd>
+  <trd lng="ja">&#x76F8;&#x4E92;&#x4F5C;&#x7528; [<ind>&#x305D;&#x3046;&#x3054;&#x3055;&#x3088;&#x3046;</ind>]</trd>
   <trd lng="nl">interactie</trd>
   <trdgrp lng="pl">
-    <trd>interakcja</trd>
+    <trd>interakcja</trd>,
+    <trd>wp&lstroke;yw</trd>
   </trdgrp>
   <trd lng="pt">intera&ccedil;&atilde;o</trd>
+  <trdgrp lng="ro">
+    <trd>interac&#x21B;iunea</trd>,
+    <trd>influen&#x21B;&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_v;&c_z;&c_a;&c_i;&c_m;&c_o;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>vz&aacute;jomn&eacute; <ind>p&ocirc;sobenie</ind></trd>,
     <trd>interakcia</trd>
   </trdgrp>
   <trd lng="sv">interaktion</trd>
-  <trd
-  lng="th">&#3629;&#3633;&#3609;&#3605;&#3619;&#3585;&#3636;&#3619;&#3636;&#3618;&#3634;</trd>
+  <trdgrp lng="th">
+    <trd>&#xE1B;&#xE0F;&#xE34;&#xE2A;&#xE31;&#xE21;&#xE1E;&#xE31;&#xE19;&#xE18;&#xE4C;</trd>,
+    <trd>&#xE2D;&#xE31;&#xE19;&#xE15;&#xE23;&#xE01;&#xE34;&#xE23;&#xE34;&#xE22;&#xE32;  </trd>
+  </trdgrp>
   <trdgrp lng="tr">
     <trd>kar&scedil;&inodot;l&inodot;kl&inodot; etki</trd>,
     <trd>etkile&scedil;im</trd>
@@ -419,6 +733,7 @@
     <trd>reakce</trd>,
     <trd>vz&aacute;jemn&eacute; p&uring;soben&iacute;</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_z;&c_a;&c_jeu;&c_m;&c_o;&c_d;&c_ib;&c_ja;</trd>
 </drv>
 
 <drv mrk="ag.kontraux0i">
@@ -428,24 +743,50 @@
     <dif>
       <tld lit="A"/>i malhelpe, bare, kontra&ubreve;influe:
       <ekz>
+        por kio vi kontra&ubreve;<tld/>as al la vortoj de la Eternulo
+        <fnt>
+          <bib>MT</bib>
+          <lok>Nombroj 14:41</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        se neniu kontra&ubreve;<tld/>os la perfidon, <klr>[&#x2026;]</klr> nin &ccirc;iujn atendas pereo
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XVII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         kontra&ubreve; la malsano disponeblas ne nur 
-        medikamentoj - per ta&ubreve;ga sinnutrado eblas efike kontra&ubreve;<tld/>i
+        medikamentoj &ndash; per ta&ubreve;ga sinnutrado eblas efike kontra&ubreve;<tld/>i
         <fnt>
           <aut>[A. Oberndorfer]</aut>
-          <vrk><url
-          ref="http://esperantaretradio.blogspot.fr/2015/06/kristaloj-en-la-artikoj.html">
+          <vrk><url ref="http://esperantaretradio.blogspot.fr/2015/06/kristaloj-en-la-artikoj.html">
           Kristaloj en la artikoj</url></vrk>
           <lok>Esperanta Retradio, 2015-06-01</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="defend.0i">defendi</ref>,
+      <ref cel="batal.kontraux0i">kontra&ubreve;batali</ref>,
+      <ref cel="opon.0i">oponi</ref>,
+      <ref cel="pusx.re0i">repu&scirc;i</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="de">
+    <trd>entgegen <ind>wirken</ind></trd>,
+    <trd>bek&auml;mpfen</trd>,
+    <trd>abwehren</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>combatir</trd>,
     <trd>contraatacar</trd>
   </trdgrp>
   <trd lng="fr">combattre<klr> (agir contre)</klr></trd>
   <trd lng="nl">tegenwerken</trd>
+  <trd lng="pl">przeciwdzia&lstroke;a&cacute;</trd>
+  <trd lng="ro">contracara</trd>
 </drv>
 
 <drv mrk="ag.kontraux0o">
@@ -453,6 +794,25 @@
   <snc mrk="ag.kontraux0o.KOMUNE">
     <dif>
       Bara, malhelpa, repu&scirc;a <tld/>o:
+      <ekz>
+        kontra&ubreve;<tld/>o al aidoso
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Vladimir Lemelev</aut>
+          <vrk><url ref="&Monato;/2011/010269.php">Poliomjelito: &ccirc;u la dua tutmonde likvidota infektmalsano?</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se ne estas kontra&ubreve;<tld/>o, en nur kelkaj jardekoj la mezumaj temperaturoj de la
+        mondo atingos valorojn neniam ekzistantajn dum la pasintaj 500&#x202F;000 jaroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Werner Fu&szlig;</aut>
+          <vrk><url ref="&Monato;/2011/010272.php">Nekontentiga progreso en klimatopolitiko</url></vrk>
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         provoku ilin al drastaj kontra&ubreve;<tld/>oj
         <fnt>
@@ -463,8 +823,15 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd>Abwehr</trd>,
+    <trd>Bek&auml;mpfung</trd>,
+    <trd>Gegenma&szlig;nahme</trd>
+  </trdgrp>
   <trd lng="es">contraataque</trd>
   <trd lng="fr">coup d'arr&ecirc;t</trd>
+  <trd lng="pl">przeciwdzia&lstroke;anie</trd>
+  <trd lng="ro">contracarare</trd>
 </drv>
 
 <drv mrk="ag.kun0i">
@@ -485,7 +852,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_ib;&c_ch;&c_a;&c_c; &c_mol;</trd>
+  <trd lng="be">&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="br">
     <trd>kenober<klr tip="ind"> (v.)</klr></trd>,
     <trd>kenlabourat</trd>
@@ -510,20 +877,21 @@
     <trd>collaborer</trd>
   </trdgrp>
   <trd lng="it">collaborare</trd>
-  <trd lng="ja">&#21332;&#21147;&#12377;&#12427; [<ind>&#12365;&#12423;&#12358;&#12426;&#12423;&#12367;&#12377;&#12427;</ind>]</trd>
+  <trd lng="ja">&#x5354;&#x529B;&#x3059;&#x308B; [<ind>&#x304D;&#x3087;&#x3046;&#x308A;&#x3087;&#x304F;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">meewerken</trd>
   <trdgrp lng="pl">
-    <trd>wsp&oacute;&lstroke;dzia&lstroke;anie</trd>,
-    <trd>kolaboracja</trd>
+    <trd>wsp&oacute;&lstroke;dzia&lstroke;a&cacute;</trd>,
+    <trd>kolaborowa&cacute;</trd>
   </trdgrp>
   <trd lng="pt">colaborar</trd>
+  <trd lng="ro">coopera</trd>
   <trd lng="ru">&c_s;&c_o;&c_t;&c_r;&c_u;&c_d;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">spolupracova&tcaron;</trd>
   <trdgrp lng="sv">
     <trd>samarbeta</trd>,
     <trd>samverka</trd>
   </trdgrp>
-  <trd lng="th">&#3607;&#3635;&#3619;&#3656;&#3623;&#3617;&#3585;&#3633;&#3609;</trd>
+  <trd lng="th">&#xE17;&#xE33;&#xE23;&#xE48;&#xE27;&#xE21;&#xE01;&#xE31;&#xE19;</trd>
 </drv>
 
 <drv mrk="ag.kun0o">
@@ -544,8 +912,87 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_m;&c_je;&c_s;&c_n;&c_a;&c_ja; &c_d;&c_z;&c_je;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Zusammenarbeit</trd>,
+    <trd>Zusammenwirken</trd>
+  </trdgrp>
   <trd lng="es">cooperaci&oacute;n</trd>
   <trd lng="fr">coop&eacute;ration</trd>
+  <trd lng="pl">wsp&oacute;&lstroke;dzia&lstroke;anie</trd>
+  <trd lng="ro">interoperabilitate</trd>
+</drv>
+
+<drv mrk="ag.mis0i">
+  <kap>
+    mis<tld/>i, <var><kap>malbon<tld/>i</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      Malbone, mal&gcirc;uste <tld/>i:
+      <ekz>
+        ne rememoru tion, kion malbon<tld/>is via sklavo en tiu tago
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Samuel 19:19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi rajtas &gcirc;in fari, <klr>[sed tiel]</klr> vi malbon<tld/>os kontra&ubreve; <nom>Aulus</nom>
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[ili]</klr> aspektus kiel iu a&ccirc;a bando, en kiu mis<tld/>as &ccirc;iuj kune kaj
+        &ccirc;iu aparte
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XX</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio eble]</klr> provokos ilin mis<tld/>i rilate al la aliaj civitanoj
+        <fnt>
+          <bib>Rsp</bib>
+          <lok>Parto Tri</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ke la enketa ju&gcirc;isto mis<tld/>is, <klr>[&#x2026;]</klr> tio estas konsekvenco de
+        &gcirc;enerala agado pere de nova interpreto de jurisprudenco
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Hektor Alos i Font</aut>
+          <vrk><url ref="&Monato;/2010/010065.php">Maljusta justico</url></vrk>
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="erar.0i.peki">erari<sncref/></ref>,
+      <ref cel="fusx.0i">fu&scirc;i</ref>,
+      <ref cel="far.mis0i">misfari</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>sich <ind>vergehen</ind></trd>,
+    <trd>falsch <ind>handeln</ind></trd>,
+    <trd>versto&szlig;en <klr>(gegen)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&zacute;le post&eogonek;powa&cacute;</trd>,
+    <trd>&zacute;le czyni&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>fa gresit</trd>,
+    <trd>s&abreve; faci r&abreve;u</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ag.re0i">
@@ -555,21 +1002,46 @@
     <dif>
       <tld lit="A"/>i returne, responde al iu anta&ubreve;a <tld/>o:
       <ekz>
-        &scirc;i &ccirc;iam <klr>...</klr> malvarme re<tld/>is al tiuj, kiuj 
+        &scirc;i &ccirc;iam <klr>[&#x2026;]</klr> malvarme re<tld/>is al tiuj, kiuj 
         parolis sentime kaj sprite
         <fnt>
-          <aut>J. Francis</aut>,
-          <vrk>La Granda Kaldrono</vrk>, 
+          <aut>J. Francis</aut>
+          <vrk>La Granda Kaldrono</vrk>,
           <lok>1978</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ilia voleco havas saman naturon: kaj se ili trovi&gcirc;as en medioj <klr>[&#x2026;]</klr>
+        kompareblaj, ili re<tld/>os amba&ubreve; la&ubreve; sama maniero
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dektria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi tro nerveme re<tld/>as &ccirc;ion
+        <fnt>
+          <bib>Metrop</bib>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_e;&c_a;&c_g;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de">reagieren</trd>
   <trd lng="en">react</trd>
   <trd lng="es">reaccionar</trd>
   <trd lng="fr">r&eacute;agir</trd>
-  <trd lng="ja">&#21453;&#24540;&#12377;&#12427; [<ind>&#12399;&#12435;&#12398;&#12358;&#12377;&#12427;</ind>]</trd>
+  <trd lng="ja">&#x53CD;&#x5FDC;&#x3059;&#x308B; [<ind>&#x306F;&#x3093;&#x306E;&#x3046;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">reageren</trd>
+  <trdgrp lng="pl">
+    <trd>reagowa&cacute;</trd>,
+    <trd>oddzia&lstroke;ywa&cacute;</trd>,
+    <trd>odczynia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>reac&#x21B;iona</trd>,
+    <trd>s&abreve; interac&#x21B;ioneze</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ag.re0o">
@@ -585,11 +1057,34 @@
           <bib>Paroloj</bib>
           <lok>Parolado anta&ubreve; la Oka Kongreso Esperantista
           en Krakow en la 11a de a&ubreve;gusto 1912</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la sumo de ricevitaj impresoj kaj de konsekvencaj re<tld/>oj estis egalvalora
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dektria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pa&ubreve;zo <klr>[&#x2026;]</klr> se oni atendas re<tld/>on de la publiko, povas esti e&ccirc;
+        tre longa
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la trabre&ccirc;o de tiuj sentoj estis rezulto de <klr>[&#x2026;]</klr> forta re<tld/>o
+        kontra&ubreve; tuta vivo de kutimeco
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Disaj vojoj</lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="sub" cel="respon.0o">respondo</ref>
-    <trd lng="th">&#3611;&#3599;&#3636;&#3585;&#3636;&#3619;&#3636;&#3618;&#3634;&#3605;&#3629;&#3610;&#3650;&#3605;&#3657;</trd>
+    <trd lng="th">&#xE1B;&#xE0F;&#xE34;&#xE01;&#xE34;&#xE23;&#xE34;&#xE22;&#xE32;&#xE15;&#xE2D;&#xE1A;&#xE42;&#xE15;&#xE49;</trd>
   </snc>
   <snc mrk="ag.re0o.KEM">
     <uzo tip="fak">KEM</uzo>
@@ -606,16 +1101,15 @@
   <trd lng="es">reacci&oacute;n</trd>
   <trdgrp lng="fa">
     <trd>&a_w;&a_A;&f_k;&a_n;&a_sh;</trd>,
-    <trd>&a_ayn;&f_k;&a_s;&zwnj;&a_A;&a_l;&a_ayn;&a_m;&a_l;</trd>
+    <trd>&a_ayn;&f_k;&a_s;&#x200C;&a_A;&a_l;&a_ayn;&a_m;&a_l;</trd>
   </trdgrp>
   <trd lng="fr">r&eacute;action</trd>
   <trd lng="it">reazione</trd>
-  <trd lng="ja">&#21453;&#24540; [<ind>&#12399;&#12435;&#12398;&#12358;</ind>]</trd>
+  <trd lng="ja">&#x53CD;&#x5FDC; [<ind>&#x306F;&#x3093;&#x306E;&#x3046;</ind>]</trd>
   <trd lng="nl">reactie</trd>
-  <trdgrp lng="pl">
-    <trd>reakcja</trd>
-  </trdgrp>
+  <trd lng="pl">reakcja</trd>
   <trd lng="pt">rea&ccedil;&atilde;o</trd>
+  <trd lng="ro">reac&#x21B;ie</trd>
   <trd lng="ru">&c_r;&c_je;&c_a;&c_k;&c_c;&c_i;&c_ja;</trd>
   <trdgrp lng="sk">
     <trd>odpove&dcaron;</trd>,
@@ -624,6 +1118,7 @@
   </trdgrp>
   <trd lng="sv">reaktion</trd>
   <trd lng="tr">tepki</trd>
+  <trd lng="uk">&c_r;&c_je;&c_a;&c_k;&c_c;&c_ib;&c_ja;</trd>
 </drv>
 
 <drv mrk="ag.sen0ado">
@@ -639,8 +1134,7 @@
         vortaro
         <fnt>
           <aut>I. Ertl</aut>
-          <vrk><url
-          ref="http://www.everk.it/index.php?id=19,200,0,0,1,0">
+          <vrk><url ref="http://www.everk.it/index.php?id=19,200,0,0,1,0">
           Arnim</url></vrk>,
           <lok>Kataluna Esperantisto, 1994:1, p. 7a</lok>
         </fnt>.
@@ -678,49 +1172,103 @@
     <trd>oziosit&agrave;</trd>,
     <trd>poltronaggine</trd>
   </trdgrp>
-  <trd lng="nl">nietsdoen</trd>
-  <trdgrp lng="pl">
-    <trd>bezczynno&sacute;&cacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7121;&#x70BA;  [<ind>&#x3080;&#x3044;</ind>]</trd>,
+    <trd>&#x7121;&#x6D3B;&#x52D5;  [<ind>&#x3080;&#x304B;&#x3064;&#x3069;&#x3046;</ind>]</trd>
   </trdgrp>
+  <trd lng="nl">nietsdoen</trd>
+  <trd lng="pl">bezczynno&sacute;&cacute;</trd>
   <trd lng="pt">inatividade</trd>
-  <trd lng="ru">
-    &c_b;&c_je;&c_z;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;
-  </trd>
+  <trd lng="ro">inactivitate</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
   <trdgrp lng="sk">
     <trd>ne&ccaron;innos&tcaron;</trd>,
     <trd>z&aacute;ha&lcaron;ka</trd>
   </trdgrp>
   <trd lng="sv">inaktivitet</trd>
-  <trd
-  lng="th">&#3652;&#3617;&#3656;&#3607;&#3635;&#3629;&#3632;&#3652;&#3619;&#3648;&#3621;&#3618;</trd>
+  <trd lng="th">&#xE44;&#xE21;&#xE48;&#xE17;&#xE33;&#xE2D;&#xE30;&#xE44;&#xE23;&#xE40;&#xE25;&#xE22;</trd>
   <trdgrp lng="tr">
     <trd>etkisizlik</trd>,
     <trd>hareketsizlik</trd>,
     <trd>i&scedil;sizlik</trd>,
     <trd>&ccedil;al&scedil;mazl&inodot;k</trd>
   </trdgrp>
+  <trd lng="uk">&c_b;&c_je;&c_z;&c_d;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
 </drv>
+
+<drv mrk="ag.trans0o">
+  <kap>
+    trans<tld/>o
+  </kap>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="dif" cel="transa.0o.EKON">Transakcio<sncref/></ref>:
+      <ekz>
+        la elektronika komerco ampleksas &ccirc;iajn specojn de komercaj trans<tld/>oj inter
+        interretaj ofertantoj de varoj a&ubreve; servoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=389293">Retkomerco</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">op&eacute;ration financi&egrave;re</trd>
+  </snc>
+  <snc mrk="ag.trans0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="dif" cel="transa.0o.KOMP">Transakcio<sncref/></ref>:
+      <ekz>
+        SQL-trans<tld/>o
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=128192">Drupal</url></lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        sistemo plenumanta transagojn certigu, ke el ili &ccirc;iu estu p-i-k-a: persista,
+        <klr>[&#x2026;]</klr> integra, <klr>[&#x2026;]</klr> kompleta, <klr>[&#x2026;]</klr> aparta
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=423406">Transago (komputado)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Transaktion</trd>
+  <trd lng="en">transaction</trd>
+  <trd lng="pl">transakcja</trd>
+  <trdgrp lng="ro">
+    <trd>tranzac&#x21B;ie</trd>,
+    <trd>&icirc;n&#x21B;elegere</trd>
+  </trdgrp>
+</drv>
+
 </art>
 <!--
 $Log$
-Revision 1.50  2017/11/06 18:10:18  revo
-Sam Penter: +trd ja,nl,en
+versio 1.145 2023/06/07 17:28:18
+Vito Redsky: +trd pl 
 
-Revision 1.49  2017/10/27 17:10:13  revo
-Jeromo Vasxe: plenaj drv inter/kun/kontraux~i/o
+versio 1.144 2023/04/10 18:22:01
+aktualigo Monato-URL
 
-Revision 1.48  2017/05/31 04:10:16  revo
-Warut Bunprasert: +trd th
+versio 1.143 2023/01/16 17:28:21
+Vito Redsky: +trd pl + trd ro
 
-Revision 1.47  2016/07/30 12:10:19  revo
-Warut Bunprasert: +trd th
+versio 1.142 2022/11/11 18:38:01
+Wolfram Diestel: inter~o: +ekz FIZ
 
-Revision 1.46  2015/07/04 08:37:29  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.141 2022/11/11 06:42:44
+Wolfram Diestel: trd de, ref
 
-Revision 1.45  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.140 2022/11/07 18:34:08
+Wolfram Diestel: +var malbon~i
 
-Revision 1.44  2014/09/03 18:10:12  revo
+versio 1.139 2022/11/07 07:28:10
+Wolfram Diestel: +mis~i
+
+versio 1.138 2022/08/15 05:44:01
 -->
 </vortaro>

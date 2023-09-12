@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: mangxu.xml,v 1.4 2009/10/09 16:31:06 revo Exp $">
+<art mrk="$Id: mangxu.xml,v 1.9 2023/09/02 06:04:09 revo Exp $">
 <kap>
 <rad>man&gcirc;u</rad>/o
 </kap>
@@ -17,28 +16,35 @@
         &scirc;i kurigas butiketon de <tld/>o kun &Ccirc;ao
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=50159">Magia Instruisto Negima</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=50159">Magia
+          Instruisto Negima</url></lok>
         </fnt>;
       </ekz>
       <ekz>
         &ccirc;ina legoma <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=564149">24754 Zellyfry</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=564149">24754
+          Zellyfry</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="ca">manj&#363;</trd>
-  <trd lng="de">Manj&#363;</trd>
-  <trd lng="fr">manj&#363;</trd>
+  <trd lng="ca">manj&#x16B;</trd>
+  <trd lng="de">Manj&#x16B;</trd>
+  <trd lng="fr">manj&#x16B;</trd>
+  <trd lng="ja">&#x9945;&#x982D;  [<ind>&#x30DE;&#x30F3;&#x30C8;&#x30A6;</ind>]</trd>
   <trd lng="nl">manju</trd>
+  <trd lng="pl">manju</trd>
   <trd lng="pt">manju</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.8 2020/06/19 22:10:33
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.6  2014/04/15 08:10:15  revo
 Damien Brucker: +trd fr
 
@@ -56,6 +62,5 @@ Ulf Lunde: Forigis cxapelitan literon de mrk-atributo
 
 Revision 1.1  2005/06/06 16:31:00  revo
 Ulf Lunde: nova artikolo
-
 -->
 </vortaro>

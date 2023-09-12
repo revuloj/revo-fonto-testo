@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: cxial.xml,v 1.11 2009/04/24 16:31:05 revo Exp $">
+<art mrk="$Id: cxial.xml,v 1.18 2023/08/31 10:10:28 revo Exp $">
   <kap>
     <ofc>*</ofc> <ofc>7</ofc> <rad>&ccirc;ial</rad>
     <fnt><bib>PV</bib></fnt>
@@ -23,12 +22,14 @@
        <trd>aus jedem beliebigen Grund</trd>
     </trdgrp>
     <trd lng="fr">pour toute <ind>raison</ind></trd>
-    <trdgrp lng="hu">
+    <trd lng="he">&#x5DE;&#x5DB;&#x5DC; &#x5E1;&#x5D9;&#x5D1;&#x5D4; &#x5E9;&#x5D4;&#x5D9;&#x5D0;</trd>
+  <trdgrp lng="hu">
        <trd>minden&eacute;rt <klr tip="ind"> (ok)</klr></trd>,
        <trd>minden <ind>okn&aacute;l</ind> fogva</trd>,
        <trd>minden <ind>miatt</ind></trd>
     </trdgrp>
- <trdgrp lng="pt">
+ <trd lng="ja">&#x3042;&#x3089;&#x3086;&#x308B;&#x7406;&#x7531;&#x3067;  [<ind>&#x3042;&#x3089;&#x3086;&#x308B;&#x308A;&#x3086;&#x3046;&#x3067;</ind>]</trd>
+  <trdgrp lng="pt">
    <trd>por qualquer motivo</trd>,
    <trd>por todos os motivos</trd>
  </trdgrp>
@@ -43,7 +44,8 @@
     <trd lng="ru">&c_p;&c_o; &c_v;&c_s;&c_ja;&c_k;&c_o;&c_j;
     &c_p;&c_r;&c_i;&c_ch;&c_i;&c_n;&c_je;</trd>
     <trd lng="sv">av alla <ind>sk&auml;l</ind></trd>
-  </drv>
+    <trd lng="uk">&#x456;&#x437; &#x443;&#x441;&#x44F;&#x43A;&#x43E;&#x457; &#x43F;&#x440;&#x438;&#x447;&#x438;&#x43D;&#x438;</trd>
+</drv>
 </art>
 <!--
 $Log$

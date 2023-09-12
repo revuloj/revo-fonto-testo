@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: not.xml,v 1.26 2010/08/03 16:31:58 revo Exp $">
+<art mrk="$Id: not.xml,v 1.114 2023/06/01 13:30:20 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>not</rad>/i <fnt><bib>PV</bib></fnt>
@@ -24,7 +23,10 @@
         24a</lok></fnt>.
       </ekz>
     </dif>
-    <trd lng="de">notieren</trd>
+    <trdgrp lng="de">
+      <trd>notieren</trd>,
+      <trd>vermerken</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>feljegyez</trd>,
       <trd>lejegyez</trd>
@@ -43,7 +45,10 @@
     <dif>
       Priatenti kaj konservi en sia memoro:
       <ekz>
-        <tld/>u al vi tiun konkludon en la kapo<fnt>Z</fnt>;
+        ni petas vin <tld/>i al vi en la memoro tiun konkludon
+        <fnt>
+          <bib>EE</bib>
+        </fnt>;
       </ekz>
       <ekz>
         la estraro havas konsiderojn subtilajn: malgra&ubreve; ke estas
@@ -57,7 +62,8 @@
     <trd lng="de">merken</trd>
     <trd lng="hu">megjegyez</trd>
     <trdgrp lng="ja">
-      <trd>&#35352;&#25014;&#12395;&#30041;&#12417;&#12427; [<ind>&#12365;&#12362;&#12367;&#12395;&#12392;&#12393;&#12417;&#12427;</ind>]</trd>,
+      <trd>&#35352;&#25014;&#12395;&#30041;&#12417;&#12427;
+      [<ind>&#12365;&#12362;&#12367;&#12395;&#12392;&#12393;&#12417;&#12427;</ind>]</trd>,
       <trd>&#27671;&#12395;&#30041;&#12417;&#12427; [<ind>&#12365;&#12395;&#12392;&#12393;&#12417;&#12427;</ind>]</trd>
     </trdgrp>
     <trdgrp lng="pl">
@@ -94,12 +100,18 @@
     <trd>zazna&ccaron;i&tcaron;</trd>,
     <trd>zna&ccaron;i&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_o;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_n;&c_o;&c_t;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_b;&c_i;&c_t;&c_i; &c_n;&c_o;&c_t;&c_a;&c_t;&c_k;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_i;&c_s;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 
 <drv mrk="not.0o">
   <kap><ofc>*</ofc><tld/>o <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5127">not'o
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5127">not'o
   (muzik'a)</url></lok></fnt></kap>
   <snc mrk="not.0o.memoriga">
     <dif>
@@ -127,7 +139,7 @@
       <trd>&c_z;&c_a;&c_c;&c_je;&c_m;&c_k;&c_a;</trd>
     </trdgrp>
     <trdgrp lng="de">
-      <trd>Anmerkung</trd>,
+      <trd>Vermerk</trd>,
       <trd>Notiz</trd>
     </trdgrp>
     <trd lng="en">note</trd>
@@ -254,7 +266,8 @@
       <trd>oszt&aacute;lyzat</trd>
     </trdgrp>
     <trdgrp lng="ja">
-      <trd><klr tip="amb">(&#23398;&#26989;&#12398;)</klr>&#25104;&#32318; [<ind>&#12379;&#12356;&#12379;&#12365;</ind>]</trd>,
+      <trd><klr tip="amb">(&#23398;&#26989;&#12398;)</klr>&#25104;&#32318;
+      [<ind>&#12379;&#12356;&#12379;&#12365;</ind>]</trd>,
       <trd><klr tip="ind">(&#23398;&#26989;&#12398;)</klr>&#35413;&#28857; [<ind>&#12402;&#12423;&#12358;&#12390;&#12435;</ind>]</trd>,
       <trd><klr tip="amb">(&#12486;&#12473;&#12488;&#12398;)</klr>&#28857;&#25968; [<ind>&#12390;&#12435;&#12377;&#12358;</ind>]</trd>
     </trdgrp>
@@ -272,7 +285,13 @@
       <trd>&c_o;&c_t;&c_m;&c_je;&c_t;&c_k;&c_a;</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">noot</trd>
+  <trd lng="am">&#4635;&#4661;&#4723;&#4808;&#4667;</trd>
+  <trd lng="ar">&a_m;&a_dh;&a_k;&a_r;&a_t_marbuta;</trd>
+  <trd lng="az">qeyd</trd>
+  <trd lng="bn">&#2472;&#2507;&#2463;</trd>
   <trd lng="br">notenn</trd>
+  <trd lng="co">vascia</trd>
   <trdgrp lng="cs">
     <trd>charakter</trd>,
     <trd>hodnocen&iacute;</trd>,
@@ -282,15 +301,79 @@
     <trd>z&aacute;pisek</trd>,
     <trd>z&aacute;znam</trd>
   </trdgrp>
+  <trd lng="cy">nodyn</trd>
+  <trd lng="da">notat</trd>
   <trd lng="es">nota<klr tip="amb"> (de un libro, musical,
   docente)</klr></trd>
+  <trd lng="et">m&auml;rkus</trd>
+  <trd lng="eu">ohar</trd>
   <trd lng="fr">note</trd>
+  <trd lng="fy">noat</trd>
+  <trd lng="ga">n&oacute;ta</trd>
+  <trd lng="gl">nota</trd>
+  <trd lng="gu">&#2728;&#2763;&#2690;&#2727;</trd>
+  <trd lng="ha">bayanin kula</trd>
+  <trd lng="hi">&#2344;&#2379;&#2335;</trd>
+  <trd lng="hmn">daim ntawv</trd>
+  <trd lng="hr">bilje&scaron;ka</trd>
+  <trd lng="ht">n&ograve;t</trd>
+  <trd lng="hy">&#1398;&#1399;&#1400;&#1410;&#1396;</trd>
+  <trd lng="ig">dee</trd>
+  <trd lng="is">minnismiða</trd>
+  <trd lng="jv">cathetan</trd>
+  <trd lng="ka">&#4328;&#4308;&#4316;&#4312;&#4328;&#4309;&#4316;&#4304;</trd>
+  <trd lng="kk">&c_je;&c_s;&c_k;&c_je;&c_r;&c_t;&c_u;</trd>
+  <trd lng="km">&#6021;&#6086;&#6030;&#6070;&#6086;</trd>
+  <trd lng="kn">&#3231;&#3263;&#3242;&#3277;&#3242;&#3235;&#3263;</trd>
+  <trd lng="ko">&#51452;&#51032;</trd>
+  <trd lng="ku">not</trd>
+  <trd lng="ky">&c_E;&c_s;&c_k;&c_je;&c_r;&c_t;&#1199;&#1199;</trd>
+  <trd lng="lo">&#3755;&#3745;&#3762;&#3725;&#3776;&#3755;&#3732;</trd>
+  <trd lng="lt">pastaba</trd>
+  <trd lng="lv">piez&#299;me</trd>
+  <trd lng="mg">fanamarihana</trd>
+  <trd lng="mi">tuhipoka</trd>
+  <trd lng="mk">&c_b;&c_je;&c_l;&c_je;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="ml">&#3349;&#3393;&#3377;&#3391;&#3370;&#3405;&#3370;&#3405;</trd>
+  <trd lng="mn">&c_t;&c_e;&c_m;&c_d;&c_e;&c_g;&c_l;&c_e;&c_l;</trd>
+  <trd lng="mr">&#2335;&#2368;&#2346;</trd>
+  <trd lng="ms">nota</trd>
+  <trd lng="mt">nota</trd>
+  <trd lng="my">&#4121;&#4158;&#4112;&#4154;&#4097;&#4155;&#4096;&#4154;</trd>
+  <trd lng="ne">&#2360;&#2370;&#2330;&#2344;&#2366;</trd>
+  <trd lng="ny">zindikirani</trd>
+  <trd lng="pa">&#2600;&#2635;&#2591;</trd>
+  <trd lng="ps">&f_y;&a_A;&a_d;&#1690;&a_t;</trd>
   <trd lng="pt">nota</trd>
+  <trd lng="rw">icyitonderwa</trd>
+  <trd lng="sd">&a_n;&a_w;&#1661;</trd>
+  <trd lng="si">&#3523;&#3495;&#3524;&#3505;</trd>
   <trdgrp lng="sk">
     <trd>pozn&aacute;mka</trd>,
     <trd>zn&aacute;mka <klr>(na vysved&ccaron;en&iacute;)</klr></trd>,
     <trd>z&aacute;znam</trd>
   </trdgrp>
+  <trd lng="sl">opomba</trd>
+  <trd lng="sm">tusi</trd>
+  <trd lng="sn">chitsamba</trd>
+  <trd lng="so">qorid</trd>
+  <trd lng="sq">sh&euml;nim</trd>
+  <trd lng="st">hlokomela</trd>
+  <trd lng="su">catetan</trd>
+  <trd lng="ta">&#2965;&#3009;&#2993;&#3007;&#2986;&#3021;&#2986;&#3009;</trd>
+  <trd lng="te">&#3095;&#3118;&#3112;&#3135;&#3093;</trd>
+  <trd lng="tg">&c_sh;&c_a;&c_r;&#1203;</trd>
+  <trd lng="th">&#3610;&#3633;&#3609;&#3607;&#3638;&#3585;</trd>
+  <trd lng="tl">tala</trd>
+  <trd lng="tt">&c_T;&c_a;&c_m;&c_g;&c_a;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_m;&c_ib;&c_t;&c_k;&c_a;</trd>
+  <trd lng="ur">&a_n;&a_w;&#1657;</trd>
+  <trd lng="uz">eslatma</trd>
+  <trd lng="vi">ghi</trd>
+  <trd lng="xh">phawula</trd>
+  <trd lng="yi">&tsadi;&ayin;&tet;&lamed;</trd>
+  <trd lng="yo">ak&#7885;sil&#7865;</trd>
+  <trd lng="zu">inothi</trd>
 </drv>
 
 <drv mrk="not.0oj">
@@ -301,7 +384,7 @@
       Teksto de muzika verko prezentita per <tld/>oj<sncref ref="not.0o.MUZ"/>:
       <ekz>
         &scirc;i konservis &ccirc;ion, kio lin povis rememorigi: la
-        librojn, de li iam legitajn, <klr>...</klr> <tld/>ojn kaj
+        librojn, de li iam legitajn, <klr>[&#8230;]</klr> <tld/>ojn kaj
         versojn, kiujn li por &scirc;i transskribis
         <fnt>
         <aut>A. Pu&scirc;kin, trad. A. Grabowski</aut>,
@@ -348,9 +431,16 @@
         propra stilo
         <fnt>
           <aut>aliamondano</aut>,
-          <vrk><url ref="http://aliamondano.mobitype.com/urn_lj_livejournal_com_atom1_ aliamondano_12779.html">
+          <vrk><url ref="http://aliamondano.mobitype.com/urn_lj_livejournal_com_atom1_                     aliamondano_12779.html">
           Amasbu&ccirc;o &ccirc;e Salvadoro</url></vrk>,
           <lok>2008-02-28</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri<tld/>o al ekspozicio en Centra oficejo de Unesko
+        <fnt>
+          <vrk><url ref="https://www.slideshare.net/MargaritaZelve/verkoj-de-aspazija-kaj-rainis-en-esperanto">Verkoj
+          de Aspazija kaj Rainis en Esperanto</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -358,6 +448,7 @@
       <ref cel="glos.0o">gloso</ref>
     </refgrp>
     <trdgrp lng="de">
+      <trd>Anmerkung</trd>,
       <trd>Kommentar</trd>,
       <trd>Stellungnahme</trd>
     </trdgrp>
@@ -377,13 +468,38 @@
   <kap>bank<tld/>o</kap>
   <snc mrk="not.bank0o.EKON">
     <uzo tip="fak">EKON</uzo>
-    <ref tip="dif" cel="bilet.mon0o">monbileto</ref>
-    <ekz>
-      oni ja diras, ke &gcirc;i signifas novan feli&ccirc;on, kiam la
-      bank<tld/>oj estas novaj
-      <fnt><bib>Revizoro</bib>, <lok>akto 4a, sceno 16a</lok></fnt>.
-    </ekz>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="bilet.mon0o">Monbileto</ref>:
+      <ekz>
+        li <klr>[&#8230;]</klr> metis kun nerifuzebla gesto dudolaran bank<tld/>on en mian
+        manon
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li faradis flugludilojn el spesmilaj bank<tld/>oj, kaj en la lagon li &jcirc;etadis
+        orajn monerojn anstata&ubreve; &scirc;tonetoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Fluganta kofro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni ja diras, ke &gcirc;i signifas novan feli&ccirc;on, kiam la
+        bank<tld/>oj estas novaj
+        <fnt><bib>Revizoro</bib>, <lok>akto 4a, sceno 16a</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Tiu signifo kiel nacilingva pa&ubreve;sa&jcirc;o estas apena&ubreve; rilatigebla al <tld/>i
+      (memorfiksi). Por registri homonimon &gcirc;i aperas tro malofte kaj ja ekzistas
+      preferebla kaj klara termino &leftquot;monbileto&rightquot;.
+      <aut>Wolfram Diestel</aut>
+    </rim>
   </snc>
+<!-- ne traduku EVI
   <trd lng="be">&c_b;&c_a;&c_n;&c_k;&c_n;&c_o;&c_t;&c_a;</trd>
   <trdgrp lng="br">
     <trd>bilhed<klr tip="ind"> (bank)</klr></trd>,
@@ -423,6 +539,7 @@
     <trd>&c_k;&c_u;&c_p;&c_ju;&c_r;&c_a;</trd>
   </trdgrp>
   <trd lng="sk">bankovka</trd>
+-->
 </drv>
 
 <drv mrk="not.diplomatia0o">
@@ -432,7 +549,15 @@
     <dif>
       Oficiala diplomatia dokumento, formale avizanta pri problemo
       en inter&scirc;tataj rilatoj (protesto, sciigo pri iu incidento
-      ktp).
+      ktp):
+      <ekz>
+        diplomatia <tld/>o <klr>[&#8230;]</klr> direktita de diplomatia misio en la Ministerio
+        de Eksteraj Aferoj
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=625004">Diplomatia noto</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
     <ref tip="vid" cel="memora.0o">memorando</ref>
   </snc>
@@ -440,6 +565,7 @@
   &c_d;&c_y;&c_p;&c_l;&c_ja;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja;
   <ind>&c_n;&c_o;&c_t;&c_a;</ind></trd>
   <trd lng="br">notenn <ind>diplomatel</ind></trd>
+  <trd lng="de">diplomatische Note</trd>
   <trd lng="fr"><ind>note</ind> diplomatique</trd>
   <trd lng="hu">diplom&aacute;ciai <ind>jegyz&eacute;k</ind></trd>
   <trd lng="nl">diplomatieke <ind>nota</ind></trd>
@@ -447,6 +573,34 @@
   <trd lng="ru">
   &c_d;&c_i;&c_p;&c_l;&c_o;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;
   &c_k;&c_a;&c_ja; <ind>&c_n;&c_o;&c_t;&c_a;</ind></trd>
+</drv>
+
+<drv mrk="not.kurz0o">
+  <kap>
+    kurz<tld/>o
+  </kap>
+  <snc mrk="not.kurz0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      &Ccirc;iutaga fikso de valoro de kurzo en la borso.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="kvot.0igo">kvotigo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_y;&c_r;&c_o;&c_w;&c_k;&c_a; <klr>(&c_b;&c_ib;&c_r;&c_zh;&c_a;&c_v;&c_a;&c_ja;)</klr></trd>
+  <trdgrp lng="de">
+     <trd>B&ouml;rsenkursnotierung</trd>,
+     <trd>Kursnotierung</trd>,
+     <trd>Kursstellung</trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;rfolyamjegyz&eacute;s</trd>  
+  <trd lng="nl">koersnotering</trd>
+  <trdgrp lng="pl">
+    <trd>korekta <ind>kursu</ind></trd>,
+    <trd>korekta <ind>notowa&nacute;</ind></trd>
+  </trdgrp>
+  <trd lng="ro">cotiza&#539;ie bursier&abreve;</trd>
 </drv>
 
 <drv mrk="not.pied0i">
@@ -462,15 +616,31 @@
           <aut>D. Broadribb</aut>
           <vrk>Anta&ubreve;parolo de la Tradukinto</vrk>
           <lok>en: La Respubliko, 1993</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ioma pied<tld/>ado necesas por avera&gcirc;aj legantoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan MacGill</aut>
+          <vrk><url ref="&Monato;/2007/009029.php">Irigu vin tra intrigo
+          vintra</url></vrk>
+          <lok>2007</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_z;&c_n;&c_o;&c_s;&c_k;&c_u;</ind></trd>
+  <trd lng="de">anmerken <klr>(per Fu&szlig;note)</klr></trd>
   <trd lng="fr">annoter<klr> (par note en pied de page)</klr></trd>
 </drv>
 
 <drv mrk="not.pied0o">
-  <kap>pied<tld/>o</kap>
+  <kap>pied<tld/>o
+    <fnt>
+      <bib>FK</bib>
+    </fnt>
+  </kap>
   <snc mrk="not.pied0o.TIP">
     <uzo tip="fak">TIP</uzo>
     <dif>
@@ -481,10 +651,44 @@
         la nun a&ccirc;etebla eldono de 1954 enhavas multajn
         pied<tld/>ojn
         <fnt><bib>Plumamikoj</bib>, <lok>kelkaj specialaj
-        verkoj</lok></fnt>.
+        verkoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        aperis nur unu pied<tld/>o sub legantoletero dum &ccirc;i tiuj preska&ubreve; tri jaroj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Aimo Rantanen</aut>
+          <vrk><url ref="&Monato;/2004/008379.html">Senkura&gcirc;o malbonas kiel
+          konsilanto</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        Irako fari&gcirc;as nura pied<tld/>o <klr>(negrava&jcirc;o)</klr> en televidaj nova&jcirc;bultenoj,
+        duonkolumna kroma&jcirc;o
+        e&ccirc; en &leftquot;seriozaj&rightquot; gazetoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2003/008119.html">Taglibro de l' milito ... el la
+          lando de &Scirc;ekspiro</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        enhava &gcirc;ustigo de <nom>Brian</nom> plenumita en la teksto, kvankam mi preferus
+        pied<tld/>igi &gcirc;in
+        <fnt>
+       <aut>Evgeni Georgiev</aut>
+          <vrk><url ref="&Monato;/2000/006884.php">&Ccirc;u veneno en Vieno?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/03, p. 6</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_n;&c_o;&c_s;&c_k;&c_a; <klr tip="amb">(&c_u; &c_t;&c_e;&c_k;&c_s;&c_mol;&c_c;&c_je;)</klr></trd>
   <trd lng="br">notenn diaz ar bajenn</trd>
   <trd lng="cs">pozn&aacute;mka pod &ccaron;arou</trd>
   <trd lng="de">Fu&szlig;note</trd>
@@ -499,28 +703,32 @@
   </trdgrp>
   <trd lng="ru">&c_s;&c_n;&c_o;&c_s;&c_k;&c_a;</trd>
   <trd lng="sk">pozn&aacute;mka pod &ccaron;iarou</trd>
+  <trd lng="uk">&c_v;&c_i;&c_n;&c_o;&c_s;&c_k;&c_a; (&c_v; &c_k;&c_ib;&c_n;&c_c;&c_ib; &c_s;&c_t;&c_o;&c_r;&c_ib;&c_n;&c_k;&c_i;)</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.33  2018/07/19 18:10:14  revo
-Sam Penter: aldonoj kaj plibonigoj de tradukoj en jenaj lingvoj: ja, en, nl, de
+versio 1.114 2023/06/01 13:30:20
+Wolfram Diestel: bank~o: +EVI, +rim
 
-Revision 1.32  2018/06/21 16:10:17  revo
-Jeromo Vasxe: + pied~i
+versio 1.113 2023/05/15 14:23:34
+revo: movu drv kurz.0noto al not/
 
-Revision 1.31  2018/05/24 03:10:15  revo
-Dusan Juretic: trd es
+versio 1.112 2023/04/25 14:28:50
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.30  2017/12/19 21:10:21  revo
-Michel Cantigneaux: baza vorto = not/i ; "not/o" fundamenta kunmetajxo
-el la U.V.
+versio 1.111 2022/11/16 08:39:50
+Dmitri Gabinski: + trd be
 
-Revision 1.29  2015/07/04 08:37:40  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.110 2022/05/01 16:20:54
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.28  2015/06/29 16:33:21  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.107 2021/06/30 12:47:42
+Wolfram Diestel: +trd de
 
+versio 1.36 2020/05/16 11:34:24
+Wolfram Diestel: ekz-oj
+
+versio 1.35 2020/03/29 14:53:00
 -->
 </vortaro>

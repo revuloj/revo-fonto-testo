@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: ta1.xml,v 1.9 2022/05/05 17:08:11 revo Exp $">
 <kap>
   <rad>ta</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -27,7 +27,7 @@
   <trd lng="fr">zut</trd>
 </drv>
 
-<drv mrk="ta1.0tata">
+<drv mrk="ta1.000">
   <kap><tld/>&nbsp;<tld/>&nbsp;<tld/></kap>
   <snc mrk="ta1.000.ekkrio">
     <gra><vspec>ekkrio</vspec></gra>
@@ -59,7 +59,7 @@
       <trd>jasne, jasne!</trd>
     </trdgrp>
   </snc>
-  <snc mrk="ta1.0.sonimito">
+  <snc mrk="ta1.000.sonimito">
     <gra><vspec>sonimito</vspec></gra>
     <dif>
       <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
@@ -71,7 +71,7 @@
         <fnt>
           <aut>F. Omelka</aut>,
           <vrk><url
-          ref="http://www.gutenberg.org/files/26099/26099-0.txt">
+          ref="&Gutenberg;files/26099/26099-0.txt">
           Aventuroj de Antonio</url></vrk>,
           <lok>1937</lok>
         </fnt>;
@@ -99,6 +99,12 @@
 
 <!--
 $Log$
+versio 1.9 2022/05/05 17:08:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.8 2021/05/13 14:51:44
+Wolfram Diestel: kor. snc@mrk
+
 Revision 1.6  2017/09/27 09:10:14  revo
 Jeromo Vasxe: + ~
 
@@ -115,7 +121,5 @@ Revision 1.2  2009/07/05 16:40:15  revo
 Jeromo Vasxe: lauxliteraj ta en kap por konservi spacetojn
 
 Revision 1.1  2009/07/02 16:30:29  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

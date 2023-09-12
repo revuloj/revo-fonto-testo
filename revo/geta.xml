@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: geta.xml,v 1.1 2007/05/19 17:02:45 revo Exp $">
+<art mrk="$Id: geta.xml,v 1.6 2023/08/31 14:29:52 revo Exp $">
 <kap>
   <rad>geta</rad>/o <fnt><bib>EncJap</bib></fnt>
 </kap>
@@ -25,24 +24,28 @@
         la postosignoj de l' <tld/>oj restas
         <fnt>
           <aut>Maki S., trad. Sibayama Z.</aut>,
-          <vrk><url
-          ref="http://www.hh.e-mansion.com/~sibazyun/sib-trad/poe-makisetuko.htm">
+          <vrk><url ref="http://www.hh.e-mansion.com/~sibazyun/sib-trad/poe-makisetuko.htm">
           poemoj</url></vrk>,
           <lok>2005-02</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">japonský dřevák</trd>
+  <trd lng="be">&c_g;&c_e;&c_t;&c_a; <klr tip="amb">(&c_ja;&c_p;&c_o;&c_n;&c_s;&c_k;&c_ib; &c_a;&c_b;&c_u;&c_t;&c_a;&c_k;)</klr></trd>
+  <trd lng="cs">japonsk&yacute; d&rcaron;ev&aacute;k</trd>
   <trd lng="en">geta<klr> (footwear)</klr></trd>
   <trd lng="fr">geta<klr> (chaussure)</klr></trd>
   <trd lng="it">geta<klr> (scarpa)</klr></trd>
-  <trd lng="sk">drevák <klr>(japonský)</klr></trd>
+  <trd lng="ja">&#x3052;&#x305F;</trd>
+  <trd lng="sk">drev&aacute;k <klr>(japonsk&yacute;)</klr></trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.5 2022/09/16 08:39:43
+Dmitri Gabinski: + trd be
+
 Revision 1.3  2015/06/29 16:29:39  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -51,6 +54,5 @@ Jeromo Vasxe: + kk trd
 
 Revision 1.1  2007/05/19 17:02:45  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

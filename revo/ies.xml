@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ies.xml,v 1.17 2006/09/13 16:31:01 revo Exp $">
+<art mrk="$Id: ies.xml,v 1.24 2023/08/31 16:40:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ies</rad>
@@ -44,6 +43,10 @@
   <trd lng="en">someone's</trd>
   <trd lng="fr">de <ind>quelqu'un</ind></trd>
   <trd lng="hu">valakinek a</trd>
+  <trdgrp lng="ja">
+    <trd>&#x3060;&#x308C;&#x304B;&#x306E;</trd>,
+    <trd>&#x3042;&#x308B;&#x4EBA;&#x306E;  [<ind>&#x3042;&#x308B;&#x3058;&#x3093;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">iemands</trd>
   <trd lng="pl">czyj&sacute;</trd>
   <trd lng="pt">de <ind>algu&eacute;m</ind><klr tip="amb">
@@ -64,11 +67,21 @@
     <trd>&ccaron;&iacute;si</trd>
   </trdgrp>
   <trd lng="sv">n&aring;gons</trd>
-  <trd lng="tp">jan</trd>
+  <trd lng="tok">jan</trd>
+  <trdgrp lng="uk">
+    <trd>&#x447;&#x438;&#x439;&#x441;&#x44C;</trd>,
+    <trd>&#x447;&#x438;&#x439;-&#x43D;&#x435;&#x431;&#x443;&#x434;&#x44C;</trd>,
+    <trd>&#x431;&#x43E;&#x437;&#x43D;&#x430;-&#x447;&#x438;&#x439;</trd>,
+    <trd>&#x43A;&#x430;&#x437;&#x43D;&#x430;-&#x447;&#x438;&#x439;</trd>,
+    <trd>&#x445;&#x442;&#x43E;&#x437;&#x43D;&#x430;-&#x447;&#x438;&#x439;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2022/04/30 08:42:42
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.20  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 

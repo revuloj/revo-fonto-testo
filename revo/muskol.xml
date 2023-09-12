@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: muskol.xml,v 1.18 2010/12/02 17:31:06 revo Exp $">
+<art mrk="$Id: muskol.xml,v 1.30 2023/09/03 09:23:19 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>muskol</rad>/o
@@ -20,10 +19,11 @@
         &ccirc;iutagaj ekzercoj por milde stre&ccirc;i la &scirc;ultrajn, brakajn kaj
         dorsajn <tld/>ojn
         <fnt>
-        <aut>David Curtis</aut>,
-        <vrk>Koratako</vrk>,
-        <bib>Monato</bib>, <lok>jaro 2002a, numero 1a, p.
-        28a</lok></fnt>.
+          <aut>David Curtis</aut>
+          <vrk><url ref="&Monato;/2002/pdf/monato200201.pdf#page=28">Koratako</url></vrk>
+          <bib>Monato</bib>
+          <lok>2002/01, p. 28-34</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -42,6 +42,10 @@
     <trd>urat</trd>
   </trdgrp>
   <trd lng="it">muscolo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7B4B;&#32905;  [<ind>&#12377;&#12376;&#x306B;&#x304F;</ind>]</trd>,
+    <trd>&#x7B4B;  [<ind>&#x304D;&#12435;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">spier</trd>
   <trd lng="pl">mi&eogonek;sie&nacute;</trd>
   <trd lng="pt">m&uacute;sculo <klr tip="amb">(anat.)</klr></trd>
@@ -50,6 +54,10 @@
     <trd>&c_m;&c_u;&c_s;&c_k;&c_u;&c_l;</trd>
   </trdgrp>
   <trd lng="sk">sval</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#8217;&#x44F;&c_z;</trd>,
+    <trd>&#x43C;&c_u;&c_s;&#x43A;&c_u;&#x43B;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="muskol.0a">
@@ -61,8 +69,10 @@
         <ctl><tld lit="M"/>a belulino</ctl>
         <fnt>
         <aut>JPVDD</aut>,
-        <vrk>&Scirc;paru monon (Vinilkosmokompil)</vrk>,
-        <bib>Monato</bib>, <lok>jaro 1995a, numero 7a, p. 27a</lok>
+        <vrk><url ref="&Monato;/1995/monato199507.pdf#page=27">&Scirc;paru monon</url> (recenzo pri
+        Vinilkosmokompil)</vrk>,
+        <bib>Monato</bib>,
+        <lok>1995/07, p. 27</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -72,16 +82,17 @@
         kapabloj
         <fnt>
         <aut>Krys Ungar</aut>,
-        <vrk>Vivu vigle kaj vegetare!</vrk>,
-        <bib>Monato</bib>, <lok>jaro 1995a, numero 7a, p. 18a</lok>
+        <vrk><url ref="&Monato;/1995/004583.php">Vivu vigle kaj vegetare!</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>1995/07, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_u;&c_s;&c_k;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
-    <trd>svalnatý</trd>,
-    <trd>svalový</trd>
+    <trd>svalnat&yacute;</trd>,
+    <trd>svalov&yacute;</trd>
   </trdgrp>
   <trd lng="de">muskul&ouml;s</trd>
   <trdgrp lng="es">
@@ -98,8 +109,15 @@
     <trd>muszkul&aacute;ris</trd>,
     <trd>izmos</trd>
   </trdgrp>
-  <trd lng="id">[<ind>otot</ind>] berotot</trd>
+  <trd lng="id">ber<ind>otot</ind></trd>
   <trd lng="it">muscolare</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7B4B;&#32905;&#x306E;  [<ind>&#x304D;&#12435;&#x306B;&#x304F;&#x306E;</ind>]</trd>,
+    <trd>&#x7B4B;&#32905;&#x306E;&#x591A;&#12356; 
+    [<ind>&#x304D;&#12435;&#x306B;&#x304F;&#x306E;&#x304A;&#x304A;&#12356;</ind>]</trd>,
+    <trd>&#x7B4B;&#x9AA8;&#x305F;&#x304F;&#x307E;&#12375;&#12356; 
+    [<ind>&#x304D;&#12435;&#12371;&#12388;&#x305F;&#x304F;&#x307E;&#12375;&#12356;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>gespierd</trd>,
     <trd>spier-</trd>
@@ -110,8 +128,12 @@
     <trd>&c_m;&c_u;&c_s;&c_k;&c_u;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>muskulárny</trd>,
-    <trd>svalový</trd>
+    <trd>muskul&aacute;rny</trd>,
+    <trd>svalov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#8217;&#x44F;&c_z;&#x43E;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43C;&c_u;&c_s;&#x43A;&c_u;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -124,27 +146,54 @@
          la movo de glata <tld/>aro estas sen intenca volo
          <fnt>
            <aut>Vikipedio</aut>,
-           <vrk><url
-           ref="http://eo.wikipedia.org/wiki/Glata_muskolo">Glata
+           <vrk><url ref="&Viki;/Glata_muskolo">Glata
            muskolo</url></vrk>
          </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_u;&c_s;&c_k;&c_u;&c_l;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
   <trdgrp lng="cs">
     <trd>muskulatura</trd>,
     <trd>svalstvo</trd>,
     <trd>svaly</trd>
   </trdgrp>
   <trd lng="fr">musculature</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7B4B;&#32905;&#x7D44;&#x7E54;  [<ind>&#x304D;&#12435;&#x306B;&#x304F;&#x305D;&#12375;&#x304D;</ind>]</trd>,
+    <trd>&#x7B4B;&#x7CFB;  [<ind>&#12377;&#12376;&#12369;&#12356;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>musculatuur</trd>,
+    <trd>spierstelsel</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>svalstvo</trd>,
     <trd>svaly</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#8217;&#x44F;&c_z;&c_i;</trd>,
+    <trd>&#x43C;&c_u;&c_s;&#x43A;&c_u;&#x43B;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.30 2023/09/03 09:23:19
+Paul Peeraerts: + trd nl
+
+versio 1.28 2023/08/21 08:30:44
+Dmitri Gabinski: + trd be
+
+versio 1.27 2023/05/14 07:24:23
+Paul Peeraerts: + aut + lok + url
+
+versio 1.26 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2020/05/04 11:10:32
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.22  2015/06/29 16:33:20  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -152,23 +201,5 @@ Revision 1.21  2015/02/11 13:10:19  revo
 Alain Gerard: + ~aro
 
 Revision 1.20  2014/11/22 02:10:09  revo
-Carlos Garcia: +trd es -o -a
-
-Revision 1.19  2014/06/10 15:10:15  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.18  2010/12/02 17:31:06  revo
-Antonio Codazzi: +trd it
-
-Revision 1.17  2009/10/11 16:30:39  revo
-Paul Peeraerts: +nl
-
-Revision 1.16  2007/06/02 19:48:10  revo
-Wieland Pusch: +trd de
-
-Revision 1.15  2006/08/16 19:53:48  revo
-Tulio Flores: +tr pt
-
-Revision 1.14  2005/03/06 17:38:46  revo
 -->
 </vortaro>

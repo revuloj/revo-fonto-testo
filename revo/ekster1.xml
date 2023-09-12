@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ekster1.xml,v 1.18 2009/09/26 16:31:07 revo Exp $">
+<art mrk="$Id: ekster1.xml,v 1.22 2023/08/31 11:49:27 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>eksterm</rad>/i
@@ -80,6 +79,13 @@
     <trd>an&eacute;antir</trd>,
     <trd>exterminer</trd></trdgrp> 
   <trd lng="hu">ki&iacute;rt</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6839;&#x7D76;&#x3059;&#x308B;  [<ind>&#x3053;&#x3093;&#x305C;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x7686;&#x6BBA;&#x3057;&#x306B;&#x3059;&#x308B;  [<ind>&#x307F;&#x306A;&#x3054;&#x308D;&#x3057;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x7D76;&#x6EC5;&#x3055;&#x305B;&#x308B;  [<ind>&#x305C;&#x3064;&#x3081;&#x3064;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x5168;&#x6EC5;&#x3055;&#x305B;&#x308B;  [<ind>&#x305C;&#x3093;&#x3081;&#x3064;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x58CA;&#x6EC5;&#x3055;&#x305B;&#x308B;  [<ind>&#x304B;&#x3044;&#x3081;&#x3064;&#x3055;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">uitroeien</trd>
   <trdgrp lng="pl">
     <trd>eksterminowa&cacute;</trd>,
@@ -93,16 +99,21 @@
   </trdgrp>
   <trd lng="sv">utrota</trd>
   <trdgrp lng="sk">
-    <trd>vyhubiť</trd>,
-    <trd>vykynožiť</trd>,
-    <trd>zničiť</trd>
+    <trd>vyhubi&#x165;</trd>,
+    <trd>vykyno&#x17E;i&#x165;</trd>,
+    <trd>zni&#x10D;i&#x165;</trd>
   </trdgrp>
   <trdgrp lng="cs">
     <trd>hubit</trd>,
     <trd>sprovodit</trd>,
-    <trd>vybít</trd>,
+    <trd>vyb&#xED;t</trd>,
     <trd>vyhladit</trd>,
     <trd>vyhubit</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x43D;&#x438;&#x449;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x437;&#x43D;&#x438;&#x449;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x438;&#x43A;&#x43E;&#x440;&#x456;&#x43D;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 </art>

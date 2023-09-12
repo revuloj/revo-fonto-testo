@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kerosen.xml,v 1.9 2005/11/20 17:31:53 revo Exp $">
+<art mrk="$Id: kerosen.xml,v 1.17 2023/09/01 15:07:02 revo Exp $">
 <kap>
   <rad>kerosen</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -13,11 +12,10 @@
     <dif>
       <ref tip="super" cel="petrol.0o">Petrola</ref> frakcio, akirata
       per distilado de <ref tip="malprt" cel="naft.0o">nafto</ref>
-      &ccirc;e la temperaturoj inter 151&#730;C kaj 273&#730;C; uzata
+      &ccirc;e la temperaturoj inter 151&#x2DA;C kaj 273&#x2DA;C; uzata
       por lumigado
       (en petrollampoj), sed nun precipe kiel la &ccirc;efa
-      brula&jcirc;o de la
-      <ref tip="vid" cel="reakci.0o.TEK">reakciaj</ref> motoroj:
+      brula&jcirc;o de la reakciaj motoroj:
       <ekz>
         brilis <klr>...</klr> granda <tld/>a lampo kaj kvar palacaj
         lanternoj
@@ -27,6 +25,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_z;&c_a;</trd>
+  <trd lng="bo">&#xF66;&#xF0B;&#xF66;&#xFA3;&#xF74;&#xF58;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>kerosen</trd>,
     <trd>lampov&yacute; petrolej</trd>
@@ -40,6 +39,10 @@
   <trd lng="es">queroseno</trd>
   <trd lng="fr">k&eacute;ros&egrave;ne</trd>
   <trd lng="hu">kerozin</trd>
+  <trdgrp lng="ja">
+    <trd>&#x706F;&#x6CB9;  [<ind>&#x3068;&#x3046;&#x3086;</ind>]</trd>,
+    <trd>&#x30B1;&#x30ED;&#x30B7;&#x30F3;</trd>
+  </trdgrp>
   <trd lng="nl">kerosine</trd>
   <trd lng="pl">nafta</trd>     
   <trd lng="ro">kerosen</trd>
@@ -48,10 +51,14 @@
     <trd>keros&eacute;n</trd>,
     <trd>lampov&yacute; olej</trd>
   </trdgrp>
+  <trd lng="uk">&#x433;&#x430;&#x441;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.14 2020/08/25 10:10:58
+Damien Brucker: -eraro en cel cxe ref
+
 Revision 1.12  2018/05/31 01:10:13  revo
 Dusan Juretic: +trd es
 

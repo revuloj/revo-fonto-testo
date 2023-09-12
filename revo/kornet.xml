@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kornet.xml,v 1.13 2009/07/05 16:39:40 revo Exp $">
+<art mrk="$Id: kornet.xml,v 1.18 2023/09/01 15:46:44 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kornet</rad>/o
@@ -14,12 +13,11 @@
   <uzo tip="fak">MUZ</uzo>
   <snc mrk="kornet.0o.blovinstrumento">
     <dif>
-      <ref tip="lst"
-      cel="instru2.blov0o"
-      lst="voko:blovinstrumentoj">Blovinstrumento</ref> simila
+      <ref tip="lst" cel="instru2.blov0o" lst="voko:blovinstrumentoj">Blovinstrumento</ref> simila
       al trumpeto kun klavbutonoj:
       <ekz>
-        <tld/>o <klr>[&#8230;]</klr> havas bora&jcirc;on konusan, pli kompaktan formon kaj pli malakran sonon ol la trumpeto
+        <tld/>o <klr>[&#x2026;]</klr> havas bora&jcirc;on konusan, pli kompaktan formon kaj pli malakran sonon ol
+        la trumpeto
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=135246">Korneto</url></lok>
@@ -63,11 +61,15 @@
     <trd lng="de"></trd>
 -->
   </snc>
-
+  <ref tip="hom" cel="kornet1.0o">korneto (rajdista oficiro)</ref>
+  <trd lng="ja">&#x30B3;&#x30EB;&#x30CD;&#x30C3;&#x30C8;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.17 2021/05/24 13:22:25
+Wolfram Diestel: ref-hom
+
 Revision 1.15  2018/09/01 22:10:23  revo
 Vito Redsky: +trd pl +trd ro
 

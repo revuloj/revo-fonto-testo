@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: citron.xml,v 1.22 2010/01/21 17:30:29 revo Exp $">
+<art mrk="$Id: citron.xml,v 1.33 2023/08/31 10:10:27 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>citron</rad>/o
@@ -13,8 +12,7 @@
   <snc>
     <uzo tip="fak">KUI</uzo>
     <dif>
-      Hele flava, ovoforma, acidsuka <ref tip="super"
-      cel="frukt.0o">frukto</ref> de <tld/>ujo:
+      Hele flava, ovoforma, acidsuka <ref tip="super" cel="frukt.0o">frukto</ref> de <tld/>ujo:
       <ekz>
         la bonodoro de <tld/>oj
         <fnt>
@@ -30,11 +28,13 @@
         </fnt>;
       </ekz>
       <ekz>
-        la unua floro bezonis &gcirc;uste unu jaron, por ke ni povu rikolti la unuan <tld/>on
+        la unua floro bezonis &gcirc;uste unu jaron, por ke ni povu rikolti la
+        unuan <tld/>on
         <fnt>
           <bib>Monato</bib>
           <aut>Sigmond J&uacute;lia</aut>
-          <vrk><url ref="&Monato;/2007/008896.php">Sep citronsemoj</url></vrk>
+          <vrk><url ref="&Monato;/2007/008896.php">Sep
+          citronsemoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -61,8 +61,14 @@
   <trd lng="en">lemon</trd>
   <trd lng="es">lim&oacute;n</trd>
   <trd lng="fr">citron</trd>
+  <trd lng="he">&#x5DC;&#x5D9;&#x5DE;&#x5D5;&#x5DF;</trd>
   <trd lng="hu">citrom</trd>
+  <trd lng="id">lemon</trd>
   <trd lng="it">limone<klr> (frutto)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30EC;&#x30E2;&#x30F3;  [<ind>&#x308C;&#x3082;&#x3093;</ind>]</trd>,
+    <trd>&#x30B7;&#x30C8;&#x30ED;&#x30F3;</trd>
+  </trdgrp>
   <trd lng="nl">citroen</trd>
   <trd lng="no">sitron</trd>
   <trd lng="pl">cytryna</trd>
@@ -74,13 +80,16 @@
   </trdgrp>
   <trd lng="sv">citron</trd>
   <trd lng="tr">limon</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x438;&#x43C;&#x43E;&#x43D;</trd>,
+    <trd>&#x446;&#x438;&#x442;&#x440;&#x438;&#x43D;&#x430; (&#x43F;&#x43B;&#x456;&#x434;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="citron.0ujo">
   <kap><tld/>ujo,
   <var><kap><tld/>arbo</kap></var>
-   <fnt><bib>Viki</bib>, <lok><url 
-    ref="http://eo.wikipedia.org/wiki/citrono">citrono</url></lok></fnt>
+   <fnt><bib>Viki</bib>, <lok><url ref="&Viki;/citrono">citrono</url></lok></fnt>
   </kap>
   <snc>
     <uzo tip="fak">BOT</uzo>
@@ -92,7 +101,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sigmond J&uacute;lia</aut>
-          <vrk><url ref="&Monato;/2007/008896.php">Sep citronsemoj</url></vrk>
+          <vrk><url ref="&Monato;/2007/008896.php">Sep
+          citronsemoj</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -113,8 +123,13 @@
   <trd lng="en">lemon tree</trd>
   <trd lng="es">limonero</trd>
   <trd lng="fr">citronnier</trd>
+  <trd lng="he">&#x5E2;&#x5E5; &#x5DC;&#x5D9;&#x5DE;&#x5D5;&#x5DF;</trd>
   <trd lng="hu">citromfa</trd>
   <trd lng="it">limone<klr> (pianta)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x30EC;&#x30E2;&#x30F3;  [<ind>&#x308C;&#x3082;&#x3093;</ind>]</trd>,
+    <trd>&#x30B7;&#x30C8;&#x30ED;&#x30F3;</trd>
+  </trdgrp>
   <trd lng="nl">citroenboom</trd>
   <trd lng="no">sitrontre</trd>
   <trd lng="pl">cytryna</trd>
@@ -122,10 +137,14 @@
   <trd lng="ru">&c_l;&c_i;&c_m;&c_o;&c_n;&c_n;&c_o;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
   <trd lng="sk">citr&oacute;novn&iacute;k</trd>
   <trd lng="tr">limon</trd>
+  <trd lng="uk">&#x43B;&#x438;&#x43C;&#x43E;&#x43D;&#x43D;&#x435; &#x434;&#x435;&#x440;&#x435;&#x432;&#x43E;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.32 2022/04/26 16:27:52
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.27  2018/08/19 22:10:11  revo
 Wolfram Diestel: +ekz-oj
 
@@ -145,8 +164,5 @@ Revision 1.22  2010/01/21 17:30:29  revo
  Filip van Laenen: Norvega traduko
 
 Revision 1.21  2009/08/18 19:16:56  revo
-Antonio Codazzi: +trd it
-
-Revision 1.20  2007/01/13 17:30:35  revo
 -->
 </vortaro>

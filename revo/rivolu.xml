@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: rivolu.xml,v 1.30 2023/09/03 07:53:11 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>rivolu</rad>/o <fnt><bib>PV</bib></fnt>
@@ -19,7 +18,7 @@
       ke tiu revenas al sia origina pozicio.
     </dif>
     <rim>
-      Tiu termino fakte ne estas uzata en matematiko, sed iel pravigas 
+      Tiu termino fakte ne estas uzata en matematiko, sed iel pravigas
       la alifakajn sencojn.
     </rim>
   </snc>
@@ -36,6 +35,10 @@
     <adm>
       Mankas auxtoritataj ekzemploj. <aut>MB</aut>
     </adm>
+  <trdgrp lng="de">
+    <trd>Umdrehung</trd>,
+    <trd>Exzenterbewegung</trd>
+  </trdgrp>
   </snc>
   <snc mrk="rivolu.0o.AST">
     <uzo tip="fak">AST</uzo>
@@ -47,30 +50,71 @@
         proksimume 365 tagojn;
       </ekz>
       <ekz>
+        la taksita periodo de <tld/>o de la planedo estas proksimume 2500 jaroj
+        <fnt>
+          <aut>Oliver Kim</aut>
+          <vrk><url ref="&Monato;/2006/008796.php">Unua fotografa&jcirc;o de ekstersunsistema
+          planedo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/01, p. 22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tiu]</klr> planedo <klr>[&#x2026;]</klr> havas <ind><tld/>tempo</ind>n
+        de 58 tagoj
+        <fnt>
+          <aut>OH</aut>
+          <vrk><url ref="&Monato;/2001/007437.html">Astronomio &dash; Du strangaj
+          planedsistemoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/07, p. 20</lok>
+        </fnt>;
+        <trd lng="de">Umlaufzeit</trd>
+        <trd lng="nl">omlooptijd</trd>
+      </ekz>
+      <ekz>
+        la lumo estis ligita al la &ccirc;ielo kiel triremkablo por stabile fiksi la
+        cirkonferencon <klr>[&#x2026;]</klr> kaj &ccirc;irka&ubreve; &gcirc;i estas la <tld/>oj
+        <fnt>
+          <bib>Rsp</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         dum siaj <tld/>oj la planedoj la&ubreve;iras elipsajn orbitojn.
       </ekz>
     </dif>
+  <trd lng="de">Revolution <klr>(Astronomie)</klr></trd>
   </snc>
+  <trd lng="be">&c_a;&c_b;&c_a;&c_r;&c_o;&c_t;</trd>
   <trdgrp lng="cs">
     <trd>obr&aacute;tka</trd>,
     <trd>ob&ecaron;h</trd>,
     <trd>ot&aacute;&ccaron;ka</trd>
   </trdgrp>
-  <trd lng="de">Umdrehung</trd>
+  <trd lng="de">Umlauf</trd>
   <trd lng="en">revolution</trd>
   <trd lng="fr">r&eacute;volution<klr tip="ind"> (rotation)</klr></trd>
   <trd lng="hu">fordulat</trd>
   <trdgrp lng="id">
-    <trd>[<ind>putar</ind>] perputaran</trd>,
+    <trd>per<ind>putar</ind>an</trd>,
     <trd>revolusi</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56DE;&#x8EE2;  [<ind>&#x304B;&#x3044;&#x3066;&#x3093;</ind>]</trd>,
+    <trd>&#x516C;&#x8EE2;  [<ind>&#x3053;&#x3046;&#x3066;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">omwenteling</trd>
+  <trd lng="pl">obr&oacute;t<klr>  (o 360 stopni)</klr></trd>
   <trd lng="pt">revolu&ccedil;&atilde;o</trd>
   <trd lng="ru">&c_o;&c_b;&c_o;&c_r;&c_o;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>obr&aacute;tka o 360 stup&ncaron;ov</trd>,
     <trd>oto&ccaron;enie</trd>,
     <trd>ot&aacute;&ccaron;ka</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_b;&c_je;&c_r;&c_t; (&#x43D;&c_a;&c_v;&#x43A;&#x43E;&#x43B;&#x43E; &#x43E;&c_s;&c_ib;)</trd>,
+    <trd>&#x43E;&c_b;&c_je;&c_r;&c_t;&c_a;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -87,6 +131,7 @@
         surfaco estas entute sen&scirc;an&gcirc;a)</klr>.
       </ekz>
     </dif>
+    <trd lng="pl">obrotowy</trd>
     <trd lng="ru">&c_v;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </snc>
   <snc mrk="rivolu.0a.figuro">
@@ -114,7 +159,7 @@
       kiu <tld/>as &ccirc;irka&ubreve; rekto, ku&scirc;anta en &gcirc;ia ebeno.
       Kelkaj preferas uzi &gcirc;ian sinonimon <ctl>rotacia</ctl>, opiniante
       ke la radiko <ctl><tld/></ctl> ne respondas al vera bezono de la
-      lingvo. Rimarkindas, ke la termino aperas jam &ccirc;e Bricard
+      lingvo. Rimarkindas, ke la termino aperas jam &ccirc;e <nom>Bricard</nom>
       <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>, sed sub formo
       <ctl>revolua</ctl>.
     </rim>
@@ -126,10 +171,12 @@
     <trd lng="nl">omwentelings-</trd>
     <trdgrp lng="pl">
       <trd><klr tip="amb">(bry&lstroke;a) </klr>obrotowa</trd>,
-      <trd><klr tip="amb">(powierzchnia) </klr>obrotowa</trd></trdgrp> 
+      <trd><klr tip="amb">(powierzchnia) </klr>obrotowa</trd>
+    </trdgrp>
     <trd lng="ru"><klr tip="amb">(&c_t;&c_je;&c_l;&c_o;, &c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_mol;)
     </klr><ind>&c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_ja;</ind></trd>
   </snc>
+  <trd lng="be">&c_v;&c_ja;&c_r;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
     <trd>ot&aacute;&ccaron;iv&yacute;</trd>,
     <trd>rota&ccaron;n&iacute;</trd>
@@ -138,6 +185,7 @@
     <trd>ot&aacute;&ccaron;av&yacute;</trd>,
     <trd>rota&ccaron;n&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43E;&c_b;&c_je;&c_r;&c_t;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="rivolu.0i">
@@ -145,6 +193,15 @@
   <snc>
     <dif>
       Fari <tld/>ojn:
+      <ekz>
+        tiam multaj e&ubreve;ropanoj ankora&ubreve; kredis, ke la suno <tld/>as &ccirc;irka&ubreve; la tero
+        <fnt>
+          <aut>Oliver Kim</aut>
+          <vrk><url ref="&Monato;/2014/011359.php">Rekorda konkulo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/10, p. 13</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         la helico ne <tld/>as sufi&ccirc;e rapide;
       </ekz>
@@ -162,51 +219,67 @@
     </refgrp>
     <rim>
       La senca diferenco inter <ctl><tld/>i</ctl> kaj <ctl>rotacii</ctl>
-      ne
-      estas tre granda, sed, parolante pri astro a&ubreve; satelito, eblas
+      ne estas tre granda, sed, parolante pri astro a&ubreve; satelito, eblas
       distingi la rotaciadon &ccirc;irka&ubreve; la propra akso kaj la
       rivoluadon la&ubreve; &gcirc;ia gravita orbito.
     </rim>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_a;&c_r;&c_a;&c_ch;&c_a;&c_c;&c_c;&c_a; <klr>(&c_v;&c_a;&c_k;&c_o;&c_l; &c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_a;&c_b;&c_a;&c_r;&c_o;&c_t;</ind></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>rotovat  ot&aacute;&ccaron;et se</trd>,
     <trd>to&ccaron;it se kolem osy</trd>
   </trdgrp>
+  <trd lng="de">umlaufen</trd>
   <trdgrp lng="fr">
     <trd>tourner<klr tip="ind"> (effectuer une r&eacute;volution)</klr></trd>,
     <trd>effectuer une <ind>r&eacute;volution</ind><klr tip="ind">
     (tourner)</klr></trd>
   </trdgrp>
   <trd lng="hu">fordul<klr tip="ind"> (k&ouml;rbe)</klr></trd>
-  <trd lng="id">[<ind>revolusi</ind>] berevolusi</trd>
+  <trd lng="id">be<ind>revolusi</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x56DE;&#x8EE2;&#x3059;&#x308B;  [<ind>&#x3072;&#x3068;&#x304B;&#x3044;&#x3066;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x516C;&#x8EE2;&#x3059;&#x308B;  [<ind>&#x3053;&#x3046;&#x3066;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">een <ind>omwenteling</ind> maken</trd>
+  <trd lng="pl">obraca&cacute;</trd>
   <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr tip="amb">(&c_v;&c_o;&c_k;&c_r;&c_u;&c_g; &c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
   <trdgrp lng="sk">
     <trd>ot&aacute;&ccaron;a&tcaron; sa okolo osi</trd>,
     <trd>rotova&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&c_b;&c_je;&c_r;&c_t;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &#x43E;&c_b;&c_je;&c_r;&c_t; &#x43D;&c_a;&c_v;&#x43A;&#x43E;&#x43B;&#x43E; &c_s;&c_v;&#x43E;&c_jeu;&c_ji; &#x43E;&c_s;&c_ib;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.29 2023/07/04 20:31:21
+Vito Redsky: +trd pl
+
+versio 1.28 2023/05/14 05:27:18
+Paul Peeraerts: + trd nl + fnt
+
+versio 1.27 2023/05/06 14:26:04
+revo: aktualigo URL-unuoj
+
+versio 1.26 2022/05/04 19:19:16
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2021/12/28 08:37:15
+Dmitri Gabinski: + trd be
+
+versio 1.23 2021/12/26 16:47:18
+Wolfram Diestel: ~o,~i AST: +ekz, trd de
+
+versio 1.22 2020/05/05 08:10:32
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.20  2016/05/21 07:10:32  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.19  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.18  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.17  2006/02/24 17:31:52  revo
-Tulio Flores: +trd pt
-
-Revision 1.16  2003/01/02 17:50:47  revo
-Marc Bavant: +trd pl; ~o MAT: mod dif
-
-Revision 1.15  2002/08/24 17:31:23  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.14  2002/05/12 16:37:12  revo
 -->
 </vortaro>

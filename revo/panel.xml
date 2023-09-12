@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: panel.xml,v 1.32 2023/09/03 12:45:03 revo Exp $">
 <kap>
   <ofc>4</ofc>
-  <rad>panel</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+  <rad>panel</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="panel.0o">
   <kap><tld/>o</kap>
@@ -15,8 +14,80 @@
       Modlure enkadrigita parto de vando, meblo kaj similaj:
       <ekz>
         longaj vicoj da <tld/>oj
-        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 11a, pluaj
+        <fnt><bib>I&scirc;tar</bib> <lok>&ccirc;apitro 11a, pluaj
         insidoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">panneau<klr> (ameublement)</klr></trd>
+  </snc>
+  <snc mrk="panel.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Plato en kiu estas fiksitaj diversaj kontroliloj a&ubreve; regiloj de ma&scirc;ino;
+      simila indikilaro sur ekrano de komputilo:
+      <ekz>
+        meze de la interna <tld/>o, bone videble tra la anta&ubreve;a fenestro de la a&ubreve;to,
+        <nom>Guliver</nom> fiksis krime-tataran flagon sur mallonga stangeto
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>
+          <vrk>Krimeo estas nia</vrk>
+          <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iru al la <tld/>o en la submezo de via ekrano kaj alklaku la bildon de via
+        avataro
+        <fnt>
+          <aut>Tejo</aut>
+          <vrk><url ref="https://ijk2021.tejo.org/agordi-au-sangi-vian-nomon-kaj-stilon-de-la-avataro/">IJK 2021: en la reto</url></vrk>
+          <lok>2021</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">panneau<klr> (de contr&ocirc;le etc.)</klr></trd>
+  </snc>
+  <snc mrk="panel.0o.grupo">
+    <dif>
+      Grupo de spertuloj diskutantaj pri specifa temo:
+      <ekz>
+        la iama usona prezidanto-kandidato <nom>Al Gore</nom> kaj la Interregistara <tld lit="P"/>o
+        pri Klimataj &Scirc;an&gcirc;i&gcirc;oj (<nom>IPCC</nom>) ricevis la pacpremion por la jaro 2007
+        <fnt>
+          <aut>C. Rouget</aut>
+          <vrk><url ref="&Monato;/2008/009374.php">&Ccirc;u Al Gore meritas
+          pacpremion?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2008:1, p. 8a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">panel<klr> (de discussion)</klr></trd>
+  </snc>
+  <snc mrk="panel.0o.diskuto">
+    <dif>
+      <ref tip="dif" cel="panel.0diskuto.diskuto"><tld lit="P"/>diskuto</ref>:
+      <ekz>
+        dum la <tld/>o la esperantistoj kaj sciencistoj <nom>Jos&eacute; Antonio Vergara</nom>,
+        <nom>Margaret Zaleski-Zamenhof</nom> kaj <nom>Amri Wandel</nom> diskutos pri la pandemio kaj
+        &gcirc;ia influo en nia tutmonda socio
+        <fnt>
+          <aut>UEA</aut>,
+          <vrk>Panelo KOVIM-19, kiel &gcirc;i &scirc;an&gcirc;is nin?, kun Margaret Zaleski-Zamenhof kaj aliaj, la
+          13-an de marto, 15h00 UTC</vrk>,
+          <lok><url ref="&UEA;gk/934">
+          Gazetaraj Komuniko, 2021-03-06 (934)</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Asocio Esperantista de Rio de Janeiro en la lasta semestro de 1998 aktive disvastigis
+        Esperanton per 44 gazetartikoloj, 7 radiaj kaj televidaj prezentoj, 4 prelegoj, 8 <tld/>oj
+        kaj 1 ekspozicio
+        <fnt>
+          <vrk><url ref="&LOdE;56-lode.htm">Kurte</url></vrk>,
+          <bib>LOdE</bib>,
+          <lok>1999:6</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -39,13 +110,22 @@
   </trdgrp>
   <trd lng="en">panel</trd>
   <trd lng="es">panel</trd>
-  <trd lng="fr">panneau<klr tip="amb"> (ameublement)</klr></trd>
   <trdgrp lng="hu">
     <trd>t&aacute;bla</trd>,
     <trd>keretes <ind>falmez&odblac;</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30D1;&#x30CD;&#x30EB;  [<ind>&#x3071;&#x306D;&#x308B;</ind>]</trd>,
+    <trd>&#x63B2;&#x793A;&#x677F;  [<ind>&#x3051;&#x3044;&#x3058;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x7FBD;&#x76EE;&#x677F;  [<ind>&#x306F;&#x3081;&#x3044;&#x305F;</ind>]</trd>,
+    <trd>&#x93E1;&#x677F;  [<ind>&#x304B;&#x304C;&#x307F;&#x3044;&#x305F;</ind>]</trd>,
+    <trd>&#x8A08;&#x5668;&#x677F;  [<ind>&#x3051;&#x3044;&#x304D;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x30C0;&#x30C3;&#x30B7;&#x30E5;&#x30DC;&#x30FC;&#x30C9;</trd>
+  </trdgrp>
   <trd lng="nl">paneel</trd>
+  <trd lng="pl">panel</trd>
   <trd lng="pt">almofada <klr>(de portas, janelas etc.)</klr></trd>
+  <trd lng="ro">panou</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_a;&c_n;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_p;&c_a;&c_n;&c_n;&c_o;</trd>
@@ -53,6 +133,15 @@
   <trdgrp lng="sk">
     <trd>palubn&aacute; doska</trd>,
     <trd>pr&iacute;strojov&aacute; doska</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_a;&c_n;&c_n;&c_o;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_sh;&c_i;&c_v;&c_k;&c_a; &c_s;&c_t;&c_ib;&c_n;&c_i;</trd>,
+    <trd>&c_r;&c_je;&c_k;&c_l;&c_a;&c_m;&c_n;&c_i;&c_j; &c_shch;&c_i;&c_t;</trd>,
+    <trd>&c_shch;&c_i;&c_t; &c_k;&c_je;&c_r;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_p;&c_o;&c_d;&c_ib;&c_l;&c_mol;&c_n;&c_a; &c_d;&c_o;&c_sh;&c_k;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -62,8 +151,8 @@
     <uzo tip="fak">KOMP</uzo>
     <uzo tip="fak">TEK</uzo>
     <dif>
-      <tld lit="P"/>o, en kiu kunestas indikiloj,
-      mezuriloj, alarmiloj pri funkciado de io:
+      <ref tip="super" cel="panel.0o.TEK"><tld lit="P"/>o<sncref/></ref>
+      en kiu kunestas indikiloj, mezuriloj, alarmiloj pri funkciado de io:
       <ekz>
         de mia loko estis videbla kontrol<tld/>o anta&ubreve; la
         analizisto
@@ -85,6 +174,8 @@
   <trd lng="en">dashboard</trd>
   <trd lng="es">panel de control</trd>
   <trd lng="fr">tableau de bord</trd>
+  <trd lng="pl">panel kontrolny</trd>
+  <trd lng="ro">panou de control</trd>
 </drv>
 
 <drv mrk="panel.reg0o">
@@ -93,15 +184,14 @@
     <uzo tip="fak">KOMP</uzo>
     <uzo tip="fak">TEK</uzo>
     <dif>
-      <tld lit="P"/>o, en kiu kunestas la regiloj,
-      stiriloj, butonoj de ma&scirc;ino a&ubreve; ma&scirc;inaro:
+      <ref tip="super" cel="panel.0o.TEK"><tld lit="P"/>o<sncref/></ref>
+      en kiu kunestas la regiloj, stiriloj, butonoj de ma&scirc;ino a&ubreve; ma&scirc;inaro:
       <ekz>
         startigu la Vindozan reg<tld/>on
         kaj elektu regionajn kaj lingvajn agordojn
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://www.bonalingvo.org/index.php/Supersigne">
+          <vrk><url ref="http://www.bonalingvo.org/index.php/Supersigne">
           Supersigne</url></vrk>,
           <lok>2008</lok>
         </fnt>;
@@ -111,8 +201,7 @@
         por ensaluti en la administra stir<tld/>o
         <fnt>
           <aut>-</aut>,
-          <vrk><url
-          ref="http://itx-technologies.com/joomla/nav.php?installation/language/eo-XX/eo-XX.ini.source.php">
+          <vrk><url ref="http://itx-technologies.com/joomla/nav.php?installation/language/eo-XX/eo-XX.ini.source.php">
           Joomla</url></vrk>,
           <lok>2010</lok>
         </fnt>.
@@ -142,6 +231,9 @@
     <trd>pupitre de commande</trd>,
     <trd>tableau de bord</trd>
   </trdgrp>
+  <trd lng="pl">panel sterowniczy</trd>
+  <trd lng="ro">consola de comand&abreve;</trd>
+  <trd lng="uk">&c_p;&c_a;&c_n;&c_je;&c_l;&c_mol; &c_u;&c_p;&c_r;&c_a;&c_v;&c_l;&c_ib;&c_n;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="panel.sun0o">
@@ -153,7 +245,7 @@
       <ref tip="prt" cel="cxel.sun0o.TEK">sun&ccirc;eloj</ref>
       kaj provizanta energion:
       <ekz>
-        mediprotekta grupo komencis <klr>...</klr> kampajnon
+        mediprotekta grupo komencis <klr>[&#x2026;]</klr> kampajnon
         por provizi la vila&gcirc;anojn per sun<tld/>oj
         <fnt>
           <aut>Lee Yoo Eun, trad. Adamo</aut>,
@@ -170,28 +262,69 @@
   </trdgrp>
   <trd lng="es">panel solar</trd>
   <trd lng="fr">panneau solaire</trd>
+  <trdgrp lng="ja">
+    <trd>&#x592A;&#x967D;&#x5149;&#x30D1;&#x30CD;&#x30EB;  [<ind>&#x305F;&#x3044;&#x3088;&#x3046;&#x3053;&#x3046;&#x30D1;&#x30CD;&#x30EB;</ind>]</trd>,
+    <trd>&#x30BD;&#x30FC;&#x30E9;&#x30FC;&#x30D1;&#x30CD;&#x30EB;</trd>,
+    <trd>&#x592A;&#x967D;&#x96FB;&#x6C60;&#x30D1;&#x30CD;&#x30EB;  [<ind>&#x305F;&#x3044;&#x3088;&#x3046;&#x3067;&#x3093;&#x3061;&#x30D1;&#x30CD;&#x30EB;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">ogniwo s&lstroke;oneczne</trd>
+  <trd lng="ro">celul&abreve; solar&abreve;</trd>
+</drv>
+
+<drv mrk="panel.0diskuto">
+  <kap><tld/>diskuto</kap>
+  <snc mrk="panel.0diskuto.diskuto">
+    <dif>
+      Diskuto de <ref tip="vid" cel="panel.0o.grupo"><tld/>o<sncref/></ref>:
+      <ekz>
+        dum la virtuala konferenco vin atendos [...] <tld/>diskutoj de fakuloj
+        <fnt>
+          <aut>Sonja Zaretskaia</aut>,
+          <vrk><url ref="&Sezonoj;2020/09/kaest-4/">KAEST 2020: virtuala Konferenco pri
+          Aplikoj de Esperanto en Scienco kaj Tekniko</url></vrk>,
+          <lok>La Ondo de Esperanto, 2020-09-10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; invito de la organizantoj, <nom>Anna Bartek</nom>, <nom>Tomasz Chmielik</nom>,
+        <nom>Zbigniew Galor</nom> kaj <nom>Ilona Koutny</nom> partoprenis en <tld/>diskuto pri
+        seksismo en Esperantio
+        <fnt>
+          <vrk><url ref="https://www.esperantio.net/index.php?id=2490">Paneldiskuto pri seksismo dum
+          ArKonEs 2014</url></vrk>
+          <lok>HeKo 566 5-B, 4 okt 14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">panel discussion</trd>
+  <trd lng="pl">dyskusja  <ind>panelowa</ind></trd>
+  <trd lng="ro">discu&#x21B;iilor  <ind>panel</ind></trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.31 2023/05/06 14:26:03
+revo: aktualigo URL-unuoj
+
+versio 1.30 2022/08/19 21:26:54
+Jeromo Vasxe: ~o + snc tek-sci
+
+versio 1.29 2022/06/04 23:30:04
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.28 2022/05/01 17:51:18
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2021/03/13 22:11:14
+Robin van der Vliet: paneldiskuto aldonita, senco disigita
+
+versio 1.24 2021/03/10 12:10:56
+Robin van der Vliet: interpunkcio korektita
+
+versio 1.23 2021/03/10 11:11:05
+Robin van der Vliet: nova senco aldonita
+
 Revision 1.21  2015/07/04 08:37:41  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.20  2015/06/29 16:40:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2014/12/20 18:10:09  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.18  2014/02/15 02:10:13  revo
-Jeromo Vasxe: + sun~o
-
-Revision 1.17  2013/03/09 16:10:18  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.16  2012/03/07 12:10:09  revo
-Jeromo Vasxe: + kontrol/reg~o
-
-Revision 1.15  2011/12/07 01:10:10  revo
 -->
 </vortaro>

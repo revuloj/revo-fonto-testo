@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sxovel.xml,v 1.26 2023/09/04 15:14:36 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>&scirc;ovel</rad>/i <fnt><bib>PV</bib></fnt>
@@ -44,7 +43,7 @@
    <trdgrp lng="fa">
      <trd>&a_b;&f_y;&a_l; &a_z;&a_d;&a_n;</trd>,
      <trd>&a_b;&a_A;
-     <ind>&a_kh;&a_A;&f_k;&zwnj;&a_A;&a_n;&a_d;&a_A;&a_z;</ind>
+     <ind>&a_kh;&a_A;&f_k;&#x200C;&a_A;&a_n;&a_d;&a_A;&a_z;</ind>
      &a_b;&a_r;&a_d;&a_A;&a_sh;&a_t;&a_n;</trd>
    </trdgrp>
    <trdgrp lng="fr"><trd>pelleter</trd><trd>creuser &agrave; la 
@@ -54,7 +53,12 @@
      <trd>palare</trd>,
      <trd>spalare</trd>
    </trdgrp>
-   <trd lng="nl">scheppen<klr tip="ind"> (met schop)</klr></trd>
+   <trdgrp lng="ja">
+    <trd>&#x3059;&#x304F;&#x3046;</trd>,
+    <trd>&#x3059;&#x304F;&#x3044;&#x53D6;&#x308B;  [<ind>&#x3059;&#x304F;&#x3044;&#x3068;&#x308B;</ind>]</trd>,
+    <trd>&#x304B;&#x304F;</trd>
+  </trdgrp>
+  <trd lng="nl">scheppen<klr tip="ind"> (met schop)</klr></trd>
   <trdgrp lng="pt">
     <trd>remover</trd>,
     <trd>apanhar com <ind>p&aacute;</ind></trd>
@@ -64,6 +68,11 @@
 <klr>(&c_l;&c_o;&c_p;&c_a;&c_t;&c_o;&c_j;)</klr></trd>,
      <trd>&c_z;&c_a;&c_ch;&c_je;&c_r;&c_p;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
    </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_g;&c_r;&c_ib;&c_b;&c_a;&c_t;&c_i; (&#x43B;&#x43E;&#x43F;&c_a;&c_t;&#x43E;&#x44E;)</trd>,
+    <trd>&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i; (&c_s;&#x43C;&c_ib;&c_t;&c_t;&#x44F;</trd>,
+    <trd>&c_z;&c_je;&#x43C;&#x43B;&#x44E;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sxovel.0ilo">
@@ -107,7 +116,7 @@
        <trd>paleta</trd>
      </trdgrp>
      <trdgrp lng="fa">
-       <trd>&a_kh;&a_A;&f_k;&zwnj;&a_A;&a_n;&a_d;&a_A;&a_z;</trd>,
+       <trd>&a_kh;&a_A;&f_k;&#x200C;&a_A;&a_n;&a_d;&a_A;&a_z;</trd>,
        <trd>&a_b;&f_y;&a_l;&f_ch;&a_h;</trd>
      </trdgrp>
      <trd lng="it">paletta</trd>
@@ -117,7 +126,17 @@
    </snc>
    <trd lng="fr">pelle</trd> 
    <trd lng="hu">lap&aacute;t</trd>
-   <trd lng="pt">p&aacute;</trd>
+   <trdgrp lng="ja">
+    <trd>&#x30B7;&#x30E3;&#x30D9;&#x30EB;</trd>,
+    <trd>&#x30B9;&#x30B3;&#x30C3;&#x30D7;</trd>
+  </trdgrp>
+  <trd lng="pt">p&aacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&#x43E;&#x43F;&c_a;&c_t;&c_a; (&c_s;&#x43E;&c_v;&#x43A;&#x43E;&c_v;&c_a;)</trd>,
+    <trd>&c_s;&#x43E;&c_v;&#x43E;&#x43A;</trd>,
+    <trd>&c_ch;&c_je;&c_r;&#x43F;&c_a;&#x43A;</trd>,
+    <trd>&#x43A;&c_ib;&c_v;&c_sh; (&c_je;&#x43A;&c_s;&#x43A;&c_a;&c_v;&c_a;&c_t;&#x43E;&c_r;&c_a;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sxovel.pan0ilo">
@@ -133,6 +152,7 @@
         fratoj</vrk>, <lok>1947</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_l;&c_a;&c_p;&c_a;&c_t;&c_a; <klr>(&c_p;&c_je;&c_k;&c_a;&c_r;&c_s;&c_k;&c_a;&c_ja;)</klr></trd>
     <trd lng="cs">peka&rcaron;sk&aacute; lopata</trd>
   </snc>
   <trd lng="es">pala de panadero</trd>
@@ -141,6 +161,9 @@
 </art>
 <!--
 $Log$
+versio 1.25 2023/03/23 14:29:54
+Dmitri Gabinski: + trd be
+
 Revision 1.22  2017/04/18 09:10:19  revo
 Guillermo Molleda Jimena: trd es
 

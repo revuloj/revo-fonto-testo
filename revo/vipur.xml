@@ -1,20 +1,19 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vipur.xml,v 1.33 2022/05/06 12:17:22 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vipur</rad>/o,
-  <var><kap><ofc>8</ofc><rad>viper</rad>/o <fnt><bib>PIV1</bib></fnt></kap></var>
+  <var><kap><ofc>8</ofc><rad var="e">viper</rad>/o <fnt><bib>PIV1</bib></fnt></kap></var>
 </kap>
 <drv mrk="vipur.0o">
-  <kap><ofc>*</ofc><tld/>o, <var><kap><ofc>8</ofc>vipero</kap></var></kap>
+  <kap><ofc>*</ofc><tld/>o, <var><kap><ofc>8</ofc><tld var="e"/>o</kap></var></kap>
   <snc mrk="vipur.0o.ZOO">
   <uzo tip="fak">ZOO</uzo>
     <dif>
       <ref tip="lst" cel="genr.0o.BIO" lst="voko:zoologiaj_genroj">Genro</ref> el familio 
-      <ref tip="malprt" cel="vipure.0oj"><tld/>edoj</ref>
+      <ref tip="malprt" cel="vipure.0oj">viperedoj</ref>
       (<trd lng="la">Vipera</trd>), malgranda venena 
       <ref tip="lst" cel="serpen.0o" lst="voko:serpentoj">serpento</ref>
       kun triangula kapo:
@@ -54,14 +53,15 @@
         12a</lok></fnt>;
       </ekz>
       <ekz>
-        kiu volus doni al mi nun glavon en la manon, por haki brulan vundon al tiu vipero
+        kiu volus doni al mi nun glavon en la manon, por haki 
+        brulan vundon al tiu <tld var="e"/>o
         <fnt>
           <bib>Rabistoj</bib>
           <lok>Akto Unua</lok>
         </fnt>;
       </ekz>
       <ekz>
-        ekkriis la ministro, forpa&scirc;ante kvaza&ubreve; de l' mordo de vipero
+        ekkriis la ministro, forpa&scirc;ante kvaza&ubreve; de l' mordo de <tld var="e"/>o
         <fnt>
           <bib>Far1</bib>
           <lok>&Ccirc;apitro II</lok>
@@ -69,21 +69,22 @@
       </ekz>
     </dif>
     <rim>
-      En la dua eldono &leftquot;vipero&rightquot; el la unua eldono de U.V. fari&gcirc;is &leftquot;vipuro&rightquot;.
-      La&ubreve; la malsupra referenco AdE opinias, ke temas pri preseraro, sed Z mem uzis &leftquot;vipuro&rightquot; multloke 
-      en la Biblio kaj anka&ubreve; aliloke kaj klarigas en LR:
-      <ekz>
-        la formoj &leftquot;kratago&rightquot; kaj &leftquot;<tld/>o&rightquot; <em>ne</em> estas preseraroj.
-        Por detale klarigi al vi la ka&ubreve;zon, pro kiu mi &scirc;an&gcirc;is la originalan formon,
-        mi nun beda&ubreve;rinde ne havas sufi&ccirc;e da tempo
-        <fnt>
-          <bib>LR</bib>
-          <lok>2. Vortuzo; 1913, PVZ. kajero 9, p. 349</lok>
-        </fnt>.
-      </ekz>
+      La formo &leftquot;<tld var="e"/>o&rightquot; trovi&gcirc;is en la unua eldono de la Universala Vortaro (1894) kaj
+      estis la sola uzata de Zamenhof &gcirc;is 1907. En la dua eldono de U.V. troveblis nur la formo
+      &leftquot;<tld/>o&rightquot;, kiu i&gcirc;is fundamenta. Multaj homoj (inkluzive de Zamenhof) supozis, ke eble tiu
+      &scirc;an&gcirc;o en U.V. ekestis pro preseraro. Malgra&ubreve; tio Zamenhof ekuzis la formon &leftquot;<tld/>o&rightquot; kaj
+      rekomendis, ke aliaj faru same por konformi al la Fundamento.
+      <fnt>
+        <bib>LR</bib>
+        <lok>45. Pri &rightquot;vipuro&#x201D;</lok>
+      </fnt>
+      En 1974 la Akademio de Esperanto oficialigis en la Oka Oficiala Aldono la formon &leftquot;<tld var="e"/>o&rightquot; kiel rajte uzeblan formon paralelan al la fundamenta formo &leftquot;<tld/>o&rightquot;.
+      <fnt>
+        <vrk>Aktoj de la Akademio II 1968-1974</vrk>
+        <lok>Parto oficiala, <url ref="&AdE;/aktoj/aktoj2/8oa.html#paralelajformoj">II A.
+        Paralelaj formoj</url></lok>
+      </fnt>
     </rim>
-    <url ref="http://www.akademio-de-esperanto.org/aktoj/aktoj2/bro.html"
-      >Aktoj de la Akademio II 1968-1974</url>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_d;&c_z;&c_ju;&c_k;&c_a;</trd>
   <trd lng="bg">&c_p;&c_je;&c_p;&c_je;&c_l;&c_ja;&c_n;&c_k;&c_a;</trd>
@@ -98,17 +99,40 @@
   <trd lng="fa">&a_A;&a_f;&a_ayn;&f_y;</trd>
   <trd lng="fr">vip&egrave;re</trd>
   <trd lng="hu">vipera</trd>
+  <trd lng="io">vipero</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AF;&#x30B5;&#x30EA;&#x30D8;&#x30D3;</trd>,
+    <trd>&#x9396;&#x86C7; [<ind>&#x304F;&#x3055;&#x308A;&#x3078;&#x3073;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">adder</trd>
+  <trd lng="pl">&zdot;mija</trd>
   <trd lng="pt">v&iacute;bora</trd>
+  <trd lng="ro">viper&abreve;</trd>
   <trd lng="ru">&c_g;&c_a;&c_d;&c_ju;&c_k;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>vretenica</trd>,
     <trd>zmija</trd>
   </trdgrp>
+  <trd lng="uk">&#x433;&#x430;&#x434;&#x44E;&#x43A;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.33 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.31 2022/03/11 20:31:41
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.30 2021/04/30 03:07:09
+Sam Penter: sxangxis rimarkon por pli kongrui kun historiaj faktoj; +trd io, ja
+
+versio 1.29 2021/03/03 11:10:36
+Robin van der Vliet: familinomo korektita
+
+versio 1.28 2020/09/06 20:10:35
+Wolfram Diestel: +tld-var
+
 Revision 1.26  2017/12/21 17:10:33  revo
 Michel Cantigneaux: aldono ligilo al la 8a OA
 
@@ -116,17 +140,5 @@ Revision 1.25  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.24  2015/06/28 12:03:50  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.23  2014/01/05 14:10:15  revo
-Damien Brucker: +rim
-
-Revision 1.22  2013/10/28 19:10:16  revo
-Wolfram Diestel: kor. ref-cel
-
-Revision 1.21  2013/10/26 09:10:23  revo
-Wolfram Diestel: ref al lst serpentoj, prilaboris dif
-
-Revision 1.20  2013/09/05 18:10:46  revo
 -->
 </vortaro>

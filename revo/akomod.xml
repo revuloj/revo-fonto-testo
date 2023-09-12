@@ -1,30 +1,56 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: akomod.xml,v 1.16 2008/12/11 17:30:45 revo Exp $">
+<art mrk="$Id: akomod.xml,v 1.27 2023/08/30 18:23:31 revo Exp $">
 <kap>
-  <rad>akomod</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+  <rad>akomod</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="akomod.0i">
   <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="akomod.0i.KOMUNE">
     <dif>
-      <ref tip="vid" cel="gxust.al0igi.KOMUNE">Al&gcirc;ustigi</ref>, <ref 
-      tip="vid" cel="adapt.0i">adapti</ref> ion, por ke &gcirc;i povu 
+      <ref cel="gxust.al0igi.KOMUNE">Al&gcirc;ustigi</ref>,
+      <ref tip="sin" cel="adapt.0i">adapti</ref> ion, por ke &gcirc;i povu 
       funkcii:
       <ekz>
-        sin <tld/>i al nova situacio;
+        <tld/>i sin al la nova situacio kaj esti optimisto
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2013/011057.php">Nerezisteble altira
+          poluso</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
       </ekz>
       <ekz>
         gravas <tld/>i liajn instruojn al la nuntempa reala&jcirc;o
         <fnt>
           <aut>L. F. Pereira Garupe, trad. &Gcirc;. Vrajto</aut>,
-          <vrk><url
-          ref="http://www.soulfoodministry.org/docs/Esperanto/Esp_Practices.htm">
+          <vrk><url ref="http://www.soulfoodministry.org/docs/Esperanto/Esp_Practices.htm">
           La Kutimoj Jesuaj...</url></vrk>,
           <lok>2007-04</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        muzeoj bezonas propran ekonomian enspezfonton por <tld/>i sin al la &ccirc;instila
+        merkata ekonomio
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mu Binghua</aut>
+          <vrk><url ref="&Monato;/2005/008682.php">Senmonaj muzeoj</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la a&ubreve;toroj de la <klr>[&#x2026;]</klr> slavona alfabeto Cirilo kaj Metodo <tld/>is la
+        grekan alfabeton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mihail Korotkov</aut>
+          <vrk><url ref="&Monato;/2013/010760.php">Plej granda invento de la
+          homaro</url></vrk>
+          <lok>2013</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -44,9 +70,8 @@
     <trd>upravit</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd><klr>sich </klr>einstellen</trd>,
-    <trd><klr>sich </klr>anpassen</trd>,
-    <trd>akkommodieren</trd>
+    <trd>anpassen</trd>,
+    <trd>akkommodieren</trd>,
   </trdgrp>
   <trdgrp lng="en">
     <trd>accommodate</trd>,
@@ -60,6 +85,11 @@
   <trdgrp lng="fr">
     <trd>accommoder</trd>,
     <trd>adapter</trd>
+  </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5EA;&#x5D0;&#x5D9;&#x5DD;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9069;&#x5FDC;&#x3055;&#x305B;&#x308B;  [<ind>&#x3066;&#x304D;&#x304A;&#x3046;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x8ABF;&#x7BC0;&#x3059;&#x308B;  [<ind>&#x3061;&#x3087;&#x3046;&#x305B;&#x3064;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">aanpassen</trd>
   <trdgrp lng="pt">
@@ -79,6 +109,35 @@
     <trd>prisp&ocirc;sobi&tcaron; sa</trd>
   </trdgrp>
   <trd lng="sv">anpassa</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_i;&c_s;&c_t;&#x43E;&c_s;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&#x43B;&c_a;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akomod.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        plej ofte lingva homogeneco esti&gcirc;as per <tld/>o kaj adapti&gcirc;o al la lingvo de la
+        plej forta
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Jomo Ipfelkofer</aut>
+          <vrk><url ref="&Monato;/2013/010677.php">Lingva konfuzo kaj
+          Konfuceo</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_s;&c_t;&c_a;&c_s;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="de">Anpassung</trd>
+  <trd lng="he">&#x5D4;&#x5EA;&#x5D0;&#x5DE;&#x5D4;</trd>
 </drv>
 
 <drv mrk="akomod.0igxi">
@@ -88,19 +147,48 @@
     <dif>
       Bone sin akordigi kun io:
       <ekz>
-        la homaj okuloj tre rapide <tld/>i&gcirc;as al diversaj distancoj.
+        rapide <tld/>i&gcirc;i al novaj situacioj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Alice Liu</aut>
+          <vrk><url ref="&Monato;/2009/009886.php">Ekzameno ekzamenata</url></vrk>
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e la indi&gcirc;enoj bobelas tensioj inter tiuj, kiuj volas <tld/>i&gcirc;i al la limoj kaj
+        ebloj de submeti&gcirc;o, kaj tiuj, kiuj konstatas la minacon al ilia kulturo kaj
+        vivado kaj strebas <klr>[&#x2026;]</klr> iel rezisti la blankulojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan MacGill</aut>
+          <vrk><url ref="&Monato;/2012/010164.php">Panorama soro super
+          kontinento</url></vrk>
+          <lok>2012</lok>
+        </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="vid">
-      <ref cel="konfor.0igxi.KOMUNE">konformi&gcirc;i</ref>
+    <refgrp tip="sin">
+      <ref cel="konfor.0igxi.KOMUNE">konformi&gcirc;i</ref>,
+      <ref cel="adapt.0igxi">adapti&gcirc;i</ref>,
+      <ref cel="akord.0igxi">akordi&gcirc;i</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_s;&c_t;&c_a;&c_s;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   <trdgrp lng="ca">
     <trd>acomodar-se</trd>,
     <trd>adaptar-se</trd>,
     <trd>emmotllar-se</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr>sich </klr>einstellen</trd>,
+    <trd><klr>sich </klr>anpassen</trd>
+  </trdgrp>
   <trd lng="fr">s'<ind>adapter</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x9069;&#x5FDC;&#x3059;&#x308B;  [<ind>&#x3066;&#x304D;&#x304A;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x9806;&#x5FDC;&#x3059;&#x308B;  [<ind>&#x3058;&#x3085;&#x3093;&#x306E;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akomod.0igxema">
@@ -110,7 +198,7 @@
       Kiu facile a&ubreve; volonte <tld/>i&gcirc;as al
       homoj, al kondi&ccirc;oj:
       <ekz>
-        instruitulo Zhang restis &ccirc;iam kvieta,
+        instruitulo <nom>Zhang</nom> restis &ccirc;iam kvieta,
         <tld/>i&gcirc;ema kaj neniam malbonkonduta
         <fnt>
           <aut>Yuan Zhen, trad. Guozhu</aut>,
@@ -120,7 +208,21 @@
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="sub">
+       <ref cel="fleks.0ebla">fleksebla</ref>,
+       <ref cel="elast.0a.FIG">elasta<sncref/></ref>,
+       <ref cel="obe.0ema">obeema</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_a;&c_s;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_k;&c_ib;</trd>,
+    <trd>&c_g;&c_n;&c_u;&c_t;&c_k;&c_ib; <klr tip="amb">(&c_u; &c_p;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_n;&c_a;&c_h;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>f&uuml;gsam</trd>,
+    <trd>flexibel</trd>,
+    <trd>anpassungsf&auml;hig</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>accomodant</trd>,
     <trd>souple<klr> (caract&egrave;re)</klr></trd>
@@ -129,6 +231,18 @@
 </art>
 <!--
 $Log$
+versio 1.26 2022/12/08 08:33:43
+Dmitri Gabinski: + trd be
+
+versio 1.25 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.23 2021/07/12 08:33:31
+Dmitri Gabinski: +trd be
+
+versio 1.21 2020/10/10 08:33:32
+Wolfram Diestel: +~o, ekz-oj, germ. trd-oj, +ref-oj
+
 Revision 1.19  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -139,14 +253,5 @@ Revision 1.17  2012/08/03 08:10:22  revo
 Marc Rausell: + trd ca
 
 Revision 1.16  2008/12/11 17:30:45  revo
-Russ Williams: +trd en
-
-Revision 1.15  2008/11/16 17:30:56  revo
-Jeromo Vasxe: + ~igxi + tez + ekz
-
-Revision 1.14  2004/03/21 17:30:56  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.13  2003/05/18 18:00:54  revo
 -->
 </vortaro>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: katen.xml,v 1.35 2020/02/27 17:10:28 revo Exp $">
+<art mrk="$Id: katen.xml,v 1.43 2023/09/01 13:58:57 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>katen</rad>/o <fnt><bib>PIV1</bib></fnt>
+  <rad>katen</rad>/o
+  <fnt><bib>PV</bib></fnt>
 </kap>
 
 <drv mrk="katen.0o">
@@ -58,7 +58,7 @@
         <fnt><bib>MT</bib>, <lok>&Pre; 7:26</lok></fnt>;
       </ekz>
       <ekz>
-        &ccirc;u ne devis &ccirc;i tiu virino <klr>[&#8230;]</klr>
+        &ccirc;u ne devis &ccirc;i tiu virino <klr>[&#x2026;]</klr>
         esti malligita el &ccirc;i tiu kateno <klr>(kripleco)</klr> en la
         sabata tago?
         <fnt><bib>NT</bib>, <lok>&Luk; 13:16</lok></fnt>;
@@ -88,8 +88,7 @@
       al fiksaj punktoj:
       <ekz>
         la kartezia ekvacio de <tld/>o estas de la tipo
-        <frm am="y=a(e^(x//a)+e^(-x//a))//2"
-        ><k>y</k> =
+        <frm am="y=a(e^(x//a)+e^(-x//a))//2"><k>y</k> =
         <k>a</k>(<k>e</k><sup><k>x</k>/<k>a</k></sup>+<k>e</k><sup>-<k>x</k>/<k>a</k></sup>)/2</frm>.
       </ekz>
     </dif>
@@ -105,11 +104,18 @@
     <trd lng="ru">&c_c;&c_je;&c_p;&c_n;&c_a;&c_ja;
     <ind>&c_l;&c_i;&c_n;&c_i;&c_ja;</ind></trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;</trd>,
+    <trd>&c_k;&c_a;&c_j;&c_d;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>okovy</trd>,
     <trd>pouta</trd>
   </trdgrp>
-  <trd lng="de">Kette</trd>
+  <trdgrp lng="de">
+    <trd>Kette</trd>,
+    <trd>Fessel</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>restraint</trd>,
     <trd>restriction</trd>
@@ -119,15 +125,23 @@
     <trd>fers</trd>,
     <trd>entraves</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x624B;&#x9396;  [<ind>&#x3066;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x8DB3;&#x9396;  [<ind>&#x3042;&#x3057;&#x304F;&#x3055;&#x308A;</ind>]</trd>,
+    <trd>&#x624B;&#x304B;&#x305B;  [<ind>&#x3066;&#x304B;&#x305B;</ind>]</trd>,
+    <trd>&#x8DB3;&#x304B;&#x305B;  [<ind>&#x3042;&#x3057;&#x304B;&#x305B;</ind>]</trd>,
+    <trd>&#x675F;&#x7E1B;  [<ind>&#x305D;&#x304F;&#x3070;&#x304F;</ind>]</trd>,
+    <trd>&#x62D8;&#x675F;  [<ind>&#x3053;&#x3046;&#x305D;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>wi&eogonek;zy</trd>,
     <trd>okowy</trd>,
     <trd>p&eogonek;to</trd>
   </trdgrp>   
 <trdgrp lng="ro">
-    <trd>lan&#539;</trd>,
+    <trd>lan&#x21B;</trd>,
     <trd>leg&abreve;tur&abreve;</trd>,
-    <trd>obliga&#539;iuni</trd>
+    <trd>obliga&#x21B;iuni</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_o;&c_k;&c_o;&c_v;&c_y;</trd>,
@@ -136,6 +150,11 @@
   <trdgrp lng="sk">
     <trd>okovy</trd>,
     <trd>put&aacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43E;&#x43A;&#x43E;&c_v;&c_i;</trd>,
+    <trd>&#x43A;&c_a;&c_j;&c_d;&c_a;&#x43D;&c_i;</trd>,
+    <trd>&#x43B;&c_a;&#x43D;&c_c;&#x44E;&c_g;</trd>
   </trdgrp>
 </drv>
 
@@ -146,13 +165,36 @@
     <dif>
       Ligi per <tld/>o:
       <ekz>
-        <tld/>i beston;
+        <tld/>ita besto ne timigas
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iujn <klr>[&#x2026;]</klr> altrangulojn oni <tld/>is
+        <fnt>
+          <bib>MT</bib>
+          <lok>Na&hcirc;um 3:10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se li eble trovos <klr>[ilin]</klr>, li alkonduku ilin 
+        <tld/>itajn al <nom>Jerusalem</nom>
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 9:2</lok>
+        </fnt>;
       </ekz>
       <ekz>
         mi estis <tld/>ita, kiam mi staris en la akuzitejo
         <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro 2a</lok></fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="cxen.0i">&ccirc;eni, en&ccirc;enigi</ref>
+    <refgrp tip="vid">
+       <ref cel="arest.0i">aresti</ref>,
+       <ref cel="fiks.0i.flagon">fiksi<sncref/></ref>
+    </refgrp>
     <trdgrp lng="de">
       <trd>anketten</trd>,
       <trd>in <ind>Ketten</ind> legen</trd>
@@ -180,32 +222,54 @@
     <dif>
       Malhelpi ies liberan agadon:
       <ekz>
-        kiu donacon prenas, tiu sin <tld/>as
-        <fnt><bib>PrV</bib></fnt>
+        ili sidis en mallumo <klr>[&#x2026;]</klr>, <tld/>itaj de mizero
+        <fnt>
+          <bib>MT</bib>
+          <lok>Psalmaro 107:10</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        ili sidis en mallumo, <tld/>itaj de mizero<fnt>Z</fnt>;
+        se tian grandampleksan fiksitan vortaregon <klr>[&#x2026;]</klr> ni volus pretigi
+        teorie kaj &leftquot;en rapideco&rightquot;, ni tre dan&gcirc;ere en<tld/>igus nian lingvon
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Vortaroj</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        kial do ni devas senbezone <tld/>i nin? <fnt>Z</fnt>;
+        en lingvaj demandoj &ccirc;iu superflua &leftquot;decido&rightquot; 
+        <tld/>as
+        <fnt>
+          <bib>LR</bib>
+          <lok>2. La verkaro de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kial do ni devas senbezone <tld/>i nin
+        <fnt>
+          <bib>LR</bib>
+          <lok>1. Vortfarado</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        balonfarado ne vere apartenas al miaj fortaj interesoj, sed la farado de la
+        oktopodo tamen sukcesis kapti mian atenton kaj <tld/>is min al la ekrano &gcirc;is
+        la lasta bildo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>pp</aut>
+          <vrk><url ref="&Monato;/2005/008738.php">La flugigo de oktopodo</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
       </ekz>
       <ekz>
         kiu sian langon <tld/>as, Dio lin benas
-        <fnt><bib>PrV</bib></fnt>
+        <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        en lingvaj demandoj &ccirc;iu superflua decido malutile
-        <tld/>as<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        dan&gcirc;ere en<tld/>igi la lingvon<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        li staris, kvaza&ubreve; <tld/>ite al la tero;
-      </ekz>
-      <ekz>
-        <tld/>is min tiu grandioza spektaklo <klr>(mi ne povis foriri
-        rezignante tiun spektaklon)</klr>.
+        <ind>kiu donacon prenas, tiu sin <tld/>as</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="de">Geschenke verpflichten</trd>
       </ekz>
     </dif>
     <trd lng="es">constre&ntilde;ir</trd>
@@ -219,6 +283,11 @@
       <trd>&c_s;&c_k;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; &c_u; <ind>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;&c_ib;</ind></trd>,
+    <trd>&c_b;&c_r;&c_a;&c_c;&c_mol; &c_n;&c_a; <ind>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;</ind></trd>,
+    <trd>&c_z;&c_a;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; &c_u; <ind>&c_k;&c_a;&c_j;&c_d;&c_a;&c_n;&c_y;</ind></trd>
+  </trdgrp>
   <trd lng="cs">d&aacute;t spoutat</trd>
   <trdgrp lng="en">
     <trd>fetter</trd>,
@@ -231,16 +300,28 @@
     <trd>encha&icirc;ner</trd>,
     <trd>entraver</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9396;&#x306B;&#x3064;&#x306A;&#x3050;  [<ind>&#x304F;&#x3055;&#x308A;&#x306B;&#x3064;&#x306A;&#x3050;</ind>]</trd>,
+    <trd>&#x304B;&#x305B;&#x3092;&#x304B;&#x3051;&#x308B;</trd>,
+    <trd>&#x675F;&#x7E1B;&#x3059;&#x308B;  [<ind>&#x305D;&#x304F;&#x3070;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x62D8;&#x675F;&#x3059;&#x308B;  [<ind>&#x3053;&#x3046;&#x305D;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>skuwa&cacute;</trd>,
     <trd>wi&eogonek;zi&cacute;</trd>,
     <trd>zaku&cacute; w &lstroke;a&nacute;cuchy</trd>
   </trdgrp>   
   <trdgrp lng="ro">
-    <trd>&icirc;nc&abreve;tu&#537;a</trd>,
+    <trd>&icirc;nc&abreve;tu&#x219;a</trd>,
     <trd>&icirc;nchisoare</trd>
   </trdgrp>
   <trd lng="sk">da&tcaron; sp&uacute;ta&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43A;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i; &c_v; &#x43A;&c_a;&c_j;&c_d;&c_a;&#x43D;&c_i;</trd>,
+    <trd>&c_s;&c_a;&c_d;&c_zh;&c_a;&c_t;&c_i; &#x43D;&c_a; &#x43B;&c_a;&#x43D;&c_c;&#x44E;&c_g;</trd>,
+    <trd>&c_s;&#x43A;&#x43E;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_v;&#x2019;&#x44F;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="katen.0igxi">
@@ -249,6 +330,15 @@
     <dif>
       I&gcirc;i <tld/>ita:
       <ekz>
+        <uzo tip="stl">FIG</uzo>
+        dum originala verkisto povas esprimi penson per diversaj parolturnoj, tradukisto
+        devas kateni&gcirc;i al la originaj sencoj
+        <fnt>
+          <bib>Kon11</bib>
+          <vrk>Gerrit Berveling &ndash; Plivalorigante la Esperantan literaturon</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
         tro rapida edzi&gcirc;o, por&ccirc;iama <ind><tld/>i&gcirc;o</ind>
         <fnt><bib>PrV</bib></fnt>.
         <trd lng="fr">esclavage</trd>
@@ -256,6 +346,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="fr">s'encha&icirc;ner</trd>
   <trd lng="nl">in de <ind>boeien</ind> geslagen worden</trd>
   <trd lng="pl">katowa&cacute; si&eogonek;</trd>     
@@ -292,6 +386,7 @@
     </dif>
     <ref tip="vid" cel="forgx.al0i">alfor&gcirc;i.</ref>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">p&rcaron;ipoutat</trd>
   <trdgrp lng="de">
     <trd>anketten</trd>
@@ -305,11 +400,12 @@
     <trd>odal&aacute;ncol</trd>,
     <trd>hozz&aacute;l&aacute;ncol</trd>
   </trdgrp>
+  <trd lng="ja">&#x9396;&#x3067;&#x3064;&#x306A;&#x3050;  [<ind>&#x304F;&#x3055;&#x308A;&#x3067;&#x3064;&#x306A;&#x3050;</ind>]</trd>
   <trd lng="nl">vastketenen</trd>
   <trd lng="pl">przyku&cacute;</trd>
   <trdgrp lng="ro">
     <trd>captur&abreve;</trd>,
-    <trd>re&#539;ine</trd>
+    <trd>re&#x21B;ine</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">prip&uacute;ta&tcaron;</trd>
@@ -321,11 +417,43 @@
     <dif>
       Forpreni la <tld/>ojn:
       <ekz>
-        mal<tld/>i sklavon.
+        oni forpardonu &ccirc;iujn punojn, sen<tld/>igu la homojn
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        liaj pensoj sen<tld/>i&gcirc;is, kiel ondoj, tordataj de ventego
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Houdini</nom> <klr>[&#x2026;]</klr>, la usona sen<tld/>igisto kaj eskapisto
+        <fnt>
+          <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2000/007096.php">Ekskapo eskapas</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 8</lok>
+          </fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="cxen.el0igi.TEK">de&ccirc;enigi, sen&ccirc;enigi</ref>
+    <refgrp tip="vid">
+      <ref cel="amnest.0i">amnestii</ref>,
+      <ref cel="liber.0igi">liberigi</ref>
+    </refgrp>
   </snc>
-  <trd lng="de">befreien</trd>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_z;&c_v;&c_a;&c_l;&c_ja;&c_c;&c_mol; &c_z; <ind>&c_k;&c_a;&c_j;&c_d;&c_a;&c_n;&c_o;&c_w;</ind></trd>,
+    <trd>&c_s;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; &c_z; <ind>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;&c_a;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>von Fesseln <ind>befreien</ind></trd>,
+    <trd>von der <ind>Kette</ind> lassen</trd>,
+    <trd>entfesseln</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>unshackle</trd>,
     <trd>free</trd>,
@@ -339,6 +467,11 @@
     <trd>leveszi a bilincst</trd>,
     <trd>megszabad&iacute;t l&aacute;ncait&oacute;l</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9396;&#x3092;&#x89E3;&#x304F;  [<ind>&#x304F;&#x3055;&#x308A;&#x3092;&#x3068;&#x304F;</ind>]</trd>,
+    <trd>&#x304B;&#x305B;&#x3092;&#x306F;&#x305A;&#x3059;</trd>,
+    <trd>&#x62D8;&#x675F;&#x3092;&#x89E3;&#x304F;  [<ind>&#x3053;&#x3046;&#x305D;&#x304F;&#x3092;&#x3068;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ontketenen <klr tip="ind">(van ketenen
   bevrijden)</klr></trd>
   <trdgrp lng="pl">
@@ -346,11 +479,16 @@
     <trd>rozp&eogonek;ta&cacute;</trd>
   </trdgrp>   
   <trdgrp lng="ro">
-    <trd>declan&scedil;a</trd>,
+    <trd>declan&#x219;a</trd>,
     <trd>eliberare</trd>
   </trdgrp>
   <trd lng="ru">&c_r;&c_a;&c_s;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">uvo&lcaron;ni&tcaron; z&nbsp;p&uacute;t</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_z;&c_v;&#x43E;&#x43B;&#x44F;&c_t;&c_i; &c_z; &#x43A;&c_a;&c_j;&c_d;&c_a;&#x43D;</trd>,
+    <trd>&c_z;&#x43D;&c_ib;&#x43C;&c_a;&c_t;&c_i; &#x43A;&c_a;&c_j;&c_d;&c_a;&#x43D;&c_i;/&#x43E;&#x43A;&#x43E;&c_v;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_z;&c_v;&#x43E;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="katen.man0i">
@@ -365,10 +503,18 @@
           <aut>K. Kniivil&auml;</aut>
           <vrk>Homoj de Putin</vrk>
           <lok>2016</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tamburo resonas minace dum li estas forkondukata man<tld/>ite
+        <fnt>
+          <bib>MD05</bib>
+          <vrk>La transnaciulo de la 21-a jarcento</vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_a;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; &c_u; <ind>&c_k;&c_a;&c_j;&c_d;&c_a;&c_n;&c_k;&c_ib;</ind></trd>
   <trd lng="fr">menotter</trd>
 </drv>
 
@@ -381,16 +527,26 @@
       la manartikojn de arestito:
       <ekz>
         tiam ili formetis de mi la mankatenojn
-      <fnt>
-        <aut>A, Camus, trad. M. Duc Goninaz</aut>,
-        <vrk>La Fremdulo</vrk>,
-        <lok>1993</lok>
-      </fnt>.
+        <fnt>
+          <aut>A, Camus, trad. M. Duc Goninaz</aut>,
+          <vrk>La Fremdulo</vrk>,
+          <lok>1993</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li prenis el po&scirc;o mankatenon kaj &gcirc;in fiksis al la manradikoj de <nom>Labiel</nom>
+        <fnt>
+          <bib>ChR</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_j;&c_d;&c_a;&c_n;&c_k;&c_ib;</trd>
   <trd lng="cs">pouta na ruce</trd>
-  <trd lng="de">Handfesseln</trd>
+  <trdgrp lng="de">
+    <trd>Handfesseln</trd>,
+    <trd>Handschellen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>handcuff</trd>,
     <trd>handcuffs</trd>,
@@ -403,18 +559,23 @@
   </trdgrp>
   <trd lng="fr">menottes</trd>
   <trd lng="hu">k&eacute;zbilincs</trd>
+  <trd lng="ja">&#x624B;&#x9320;  [<ind>&#x3066;&#x3058;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="nl">handboei</trd>
   <trd lng="pl">kajdanki {pl}</trd>     
-  <trd lng="ro">c&abreve;tu&#537;e</trd>
+  <trd lng="ro">c&abreve;tu&#x219;e</trd>
   <trd lng="ru">&c_n;&c_a;&c_r;&c_u;&c_ch;&c_n;&c_i;&c_k;&c_i;</trd>
   <trd lng="sk">put&aacute; na ruky</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_r;&c_u;&c_ch;&#x43D;&c_i;&#x43A;&c_i;</trd>,
+    <trd>&#x43A;&c_a;&c_j;&c_d;&c_a;&#x43D;&#x43A;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="katen.prem0i">
   <kap>prem<tld/>i</kap>
   <snc mrk="katen.prem0i.FIG">
     <dif>
-      <tld lit="K"/>i <sncref ref="katen.0i.FIG"/> per forta morala
+      <tld lit="K"/>i<sncref ref="katen.0i.FIG"/> per forta morala
       premo:
       <ekz>
         <nom>Mustafa Kemal Pa&scirc;a</nom> persiste provas disrompi la
@@ -424,18 +585,34 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="fr">
     <trd>garrotter</trd>,
     <trd>ligoter</trd>
   </trdgrp>
   <trd lng="hu">b&eacute;kly&oacute;ban tart</trd>
   <trd lng="pl">p&eogonek;ta&cacute;</trd>     
-  <trd lng="ro">&#537;ont&acirc;c&abreve;i</trd>
+  <trd lng="ro">&#x219;ont&acirc;c&abreve;i</trd>
   <trd lng="ru">&c_s;&c_k;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
 </drv>
 </art>
 <!--
-$Log: katen.xml,v $
+$Log$
+versio 1.42 2023/04/30 14:25:44
+Paul Peeraerts: Steloj -> monato
+
+versio 1.41 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.38 2021/12/01 07:28:23
+Dmitri Gabinski: + trd be
+
+versio 1.37 2021/11/05 21:25:49
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
+versio 1.36 2021/11/05 19:22:45
+Wolfram Diestel: fnt PV, +ref
+
 versio 1.35 2020/02/27 17:10:28
 Neil Roberts: Ripari ref
 
@@ -443,20 +620,5 @@ Revision 1.34  2020/02/22 18:10:35  revo
 Wolfram Diestel: svg anst. gif
 
 Revision 1.33  2020/02/15 09:10:23  revo
-Wolfram Diestel: formuloj per am
-
-Revision 1.32  2019/06/22 19:10:16  revo
-Jeromo Vasxe: + man~i
-
-Revision 1.31  2019/04/08 18:10:18  revo
-Santiago Amposta: +trd es
-
-Revision 1.30  2019/03/25 23:10:18  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.29  2015/08/21 07:10:19  revo
-Damien Brucker: +trd fr
-
-Revision 1.28  2015/07/04 08:37:37  revo
 -->
 </vortaro>

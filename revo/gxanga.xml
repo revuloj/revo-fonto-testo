@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gxanga.xml,v 1.20 2009/06/29 18:05:23 revo Exp $">
+<art mrk="$Id: gxanga.xml,v 1.24 2023/08/31 14:29:56 revo Exp $">
 <kap>
   <rad>&gcirc;angal</rad>/o
 </kap>
@@ -27,10 +26,13 @@
       Pro multaj diversaj eroj implika loko a&ubreve; medio:
       <ekz>
 la enhavo de la libro tute ne estas <tld/>o de lingvistikaj terminoj
-      <fnt><aut>Sergej Derevjanny&hcirc;</aut>: <vrk>Atrakcio por 
- lingvo&scirc;atantoj? (I. Maier, W. F. Pilger, Duamana traduko por la 
- Rusa Caro)</vrk>, <bib>Monato</bib><lok>jaro 2001a, numero 11a, p. 
- 30a</lok></fnt>.
+      <fnt>
+          <aut>Sergej Derevjanny&hcirc;</aut>
+          <vrk><url ref="&Monato;/2001/pdf/monato200111.pdf#page=30">Atrakcio por
+          lingvo&scirc;atantoj?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/11, p. 30</lok>
+        </fnt>.
       </ekz>
     </dif>
     <trdgrp lng="ca">
@@ -50,6 +52,10 @@ la enhavo de la libro tute ne estas <tld/>o de lingvistikaj terminoj
     <trd>&samekh;&bet;&fkaf;</trd>
   </trdgrp>
   <trd lng="hu">dzsungel</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B8;&#x30E3;&#x30F3;&#x30B0;&#x30EB;</trd>,
+    <trd>&#x5BC6;&#x6797;  [<ind>&#x307F;&#x3064;&#x308A;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_d;&c_zh;&c_u;&c_n;&c_g;&c_l;&c_i;</trd>
   <trd lng="nl">wildernis</trd>
   <trd lng="pl">d&zdot;ungla</trd>
@@ -63,10 +69,19 @@ la enhavo de la libro tute ne estas <tld/>o de lingvistikaj terminoj
    <trd>giungla</trd>, 
    <trd>jungla</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_zh;&c_u;&#x43D;&c_gu;&#x43B;&c_ib;</trd>,
+    <trd>&c_h;&c_a;&c_shch;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_r;&#x43E;&c_s;&c_t;&c_ib;</trd>,
+    <trd>&#x43D;&c_je;&c_t;&c_r;&c_ib;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/05/14 15:24:55
+Paul Peeraerts: + lok + url
+
 Revision 1.20  2009/06/29 18:05:23  revo
 Behnam Tabatabai: +trd fa
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kvadra1.xml,v 1.40 2020/02/15 17:10:24 revo Exp $">
+<art mrk="$Id: kvadra1.xml,v 1.117 2023/09/01 15:46:46 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kvadrat</rad>/o
@@ -16,8 +15,7 @@
       Ortangula <ref tip="super" cel="romb.0o.figuro">rombo</ref>;
       alternative kaj samsence:
       <ref cel="regul.0a.plurlatero">regula</ref>
-      <ref tip="lst" lst="voko:formoj"
-      cel="later.kvar0o">kvarlatero</ref>:
+      <ref tip="lst" lst="voko:formoj" cel="later.kvar0o">kvarlatero</ref>:
       <ekz>
         <tld/>o da tero, cent okdek pa&scirc;ojn longa kaj lar&gcirc;a
         <fnt>
@@ -43,8 +41,7 @@
         </fnt>.
       </ekz>
     </dif>
-    <trd lng="hu">n&eacute;gyzet <klr
-tip="ind">(n&eacute;gysz&ouml;g)</klr></trd>
+    <trd lng="hu">n&eacute;gyzet <klr tip="ind">(n&eacute;gysz&ouml;g)</klr></trd>
     <trd lng="nl">vierkant</trd>
     <trdgrp lng="pl">
       <trd>kwadrat<klr tip="ind"> (czworok&aogonek;t)</klr></trd>
@@ -57,7 +54,7 @@ tip="ind">(n&eacute;gysz&ouml;g)</klr></trd>
       La dua <ref tip="super" cel="potenc.0o.per_entjero">potenco</ref>;
       nombro multiplikita per si mem:
       <ekz>
-        <frm am="3^2=9">3&quadrat; = 9</frm> 
+        <frm am="3^2=9">3&quadrat; = 9</frm>
         <klr> (legu: tri kvadrate estas na&ubreve;,
         a&ubreve;: tri je kvadrato estas na&ubreve;)</klr>;
       </ekz>
@@ -75,23 +72,96 @@ hatv&aacute;ny)</klr></trd>
       <trd>druga pot&eogonek;ga<klr tip="ind"> (liczby)</klr></trd>
     </trdgrp>
   </snc>
+  <trd lng="af">vierkante</trd>
+  <trd lng="am">&#x12AB;&#x122C;</trd>
+  <trd lng="ar">&a_m;&a_r;&a_b;&a_ayn;</trd>
+  <trd lng="az">kvadrat</trd>
   <trd lng="be">&c_k;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;</trd>
+  <trd lng="bn">&#x9AC;&#x9B0;&#x9CD;&#x997;</trd>
+  <trd lng="bo">&#xF42;&#xFB2;&#xF74;&#xF0B;&#xF56;&#xF5E;&#xF72;&#xF0B;</trd>
+  <trd lng="bs">trg</trd>
+  <trd lng="co">quatratu</trd>
   <trdgrp lng="cs">
     <trd>druh&aacute; mocnina</trd>,
     <trd>kvadr&aacute;t</trd>,
     <trd>&ccaron;tverec</trd>
   </trdgrp>
+  <trd lng="cy">sgw&#xE2;r</trd>
+  <trd lng="da">firkantet</trd>
   <trd lng="de">Quadrat</trd>
   <trd lng="en">square</trd>
   <trd lng="es">cuadrado<klr> (geometr&iacute;a y matem&aacute;ticas)</klr></trd>
+  <trd lng="et">ruut</trd>
+  <trd lng="eu">karratu</trd>
   <trd lng="fr">carr&eacute;<klr tip="ind"> (math., subst.)</klr></trd>
+  <trd lng="fy">fjouwerkant</trd>
+  <trd lng="ga">cearnach</trd>
+  <trd lng="gd">ce&#xE0;rnagach</trd>
+  <trd lng="gl">cadrado</trd>
+  <trd lng="gu">&#xA9A;&#xACB;&#xAB0;&#xAB8;</trd>
+  <trd lng="ha">muraba&#x2019;in</trd>
+  <trd lng="hi">&#x935;&#x930;&#x94D;&#x917;</trd>
+  <trd lng="hr">trg</trd>
+  <trd lng="ht">kare</trd>
+  <trd lng="hy">&#x570;&#x580;&#x561;&#x57A;&#x561;&#x580;&#x561;&#x56F;</trd>
   <trd lng="io">quadrato</trd>
+  <trd lng="is">veldi</trd>
+  <trd lng="ja">&#x5E83;&#x5834; [<ind>&#x3072;&#x308D;&#x3070;</ind>]</trd>
+  <trd lng="jv">kothak</trd>
+  <trd lng="ka">&#x10D9;&#x10D5;</trd>
+  <trd lng="kk">&c_sh;&c_a;&c_r;&c_sh;&#x44B;</trd>
+  <trd lng="km">&#x1780;&#x17B6;&#x179A;&#x17C9;&#x17C1;</trd>
+  <trd lng="kn">&#xC9A;&#xCA6;&#xCB0;</trd>
+  <trd lng="ko">&#xAD11;&#xC7A5;</trd>
+  <trd lng="ku">meydan</trd>
+  <trd lng="ky">&c_a;&#x44F;&#x43D;&c_t;</trd>
+  <trd lng="lat">quadratum</trd>
+  <trd lng="lo">&#xEA1;&#xEBB;&#xE99;&#xE97;&#xEBB;&#xE99;</trd>
+  <trd lng="lt">aik&scaron;t&#x117;</trd>
+  <trd lng="lv">kvadr&amacron;tveida</trd>
+  <trd lng="mg">kianja</trd>
+  <trd lng="mi">tapawha</trd>
+  <trd lng="mk">&#x43F;&#x43B;&#x43E;&c_sh;&c_t;&c_a;&c_d;</trd>
+  <trd lng="ml">&#xD38;&#xD2E;&#xD1A;&#xD24;&#xD41;&#xD30;&#xD02;</trd>
+  <trd lng="mn">&c_d;&#x4E9;&c_r;&c_v;&#x4E9;&#x43B;&c_zh;&c_i;&#x43D;</trd>
+  <trd lng="mr">&#x91A;&#x94C;&#x930;&#x938;</trd>
+  <trd lng="ms">persegi</trd>
+  <trd lng="mt">kwadru</trd>
+  <trd lng="my">&#x1005;&#x1010;&#x102F;&#x101B;&#x1014;&#x103A;&#x1038;&#x101C;&#x1031;&#x1038;&#x1011;&#x1031;&#x102C;&#x1004;&#x1037;</trd>
+  <trd lng="ne">&#x935;&#x930;&#x94D;&#x917;</trd>
+  <trd lng="ny">lalikulu</trd>
+  <trd lng="pa">&#xA35;&#xA30;&#xA17;</trd>
+  <trd lng="ps">&a_m;&a_r;&a_b;&a_ayn;</trd>
   <trd lng="ru">&c_k;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;</trd>
+  <trd lng="rw">kare</trd>
+  <trd lng="sd">&f_ch;&a_w;&a_r;&a_s;</trd>
+  <trd lng="si">&#xDC0;&#xDBB;&#xDCA;&#xD9C;</trd>
   <trdgrp lng="sk">
     <trd>druh&aacute; mocnina</trd>,
     <trd>&scaron;tvorec</trd>
   </trdgrp>
+  <trd lng="sm">sikuea</trd>
+  <trd lng="sn">sikweya</trd>
+  <trd lng="so">laba jibbaaran</trd>
+  <trd lng="sq">katrore</trd>
+  <trd lng="st">lisekoere</trd>
+  <trd lng="su">alun-alun</trd>
   <trd lng="sv">kvadrat</trd>
+  <trd lng="sw">mraba</trd>
+  <trd lng="ta">&#xB9A;&#xBA4;&#xBC1;&#xBB0;&#xBAE;&#xBCD;</trd>
+  <trd lng="te">&#xC1A;&#xC26;&#xC30;&#xC2A;&#xC41;</trd>
+  <trd lng="tg">&#x43C;&c_u;&c_r;&c_a;&c_b;&c_b;&c_a;&#x44A;</trd>
+  <trd lng="th">&#xE15;&#xE32;&#xE23;&#xE32;&#xE07;</trd>
+  <trd lng="tl">parisukat</trd>
+  <trd lng="tt">&#x43A;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;</trd>
+  <trd lng="uk">&#x43A;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;&#x43D;&c_i;&c_j;</trd>
+  <trd lng="ur">&f_ch;&a_w;&#x6A9;</trd>
+  <trd lng="uz">kvadrat</trd>
+  <trd lng="vi">vu&#xF4;ng</trd>
+  <trd lng="xh">isikwere</trd>
+  <trd lng="yi">&#x5E7;&#x5D5;&#x5D5;&#x5D0;&#x5B7;&#x5D3;&#x5E8;&#x5D0;&#x5B7;&#x5D8;</trd>
+  <trd lng="yo">&#xEC;gb&#x1ECD;nw&#x1ECD;n</trd>
+  <trd lng="zu">igceke</trd>
 </drv>
 
 <drv mrk="kvadra1.0a">
@@ -163,8 +233,7 @@ hatv&aacute;ny)</klr></trd>
     <trd lng="de">quadratisch<klr tip="ind"> (-e Matrix)</klr></trd>
     <trd lng="en">square<klr tip="ind"> (matrix)</klr></trd>
     <trd lng="fr"><klr tip="amb">(matrice) </klr>carr&eacute;e</trd>
-    <trd lng="hu">n&eacute;gyzetes <klr
-tip="ind">(m&aacute;trix)</klr></trd>
+    <trd lng="hu">n&eacute;gyzetes <klr tip="ind">(m&aacute;trix)</klr></trd>
     <trd lng="pl"><klr tip="amb">(macierz) </klr>kwadratowa</trd>
     <trd lng="ru">&c_k;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;&c_n;&c_a;&c_ja;<klr tip="amb"> (&c_m;&c_a;&c_t;&c_r;&c_i;&c_c;&c_a;)</klr></trd>
   </snc>
@@ -181,12 +250,18 @@ tip="ind">(m&aacute;trix)</klr></trd>
     <trd>Quadrat-</trd>
   </trdgrp>
   <trd lng="en">square</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x65B9;&#x5F62;&#x306E;  [<ind>&#x305B;&#x3044;&#x307B;&#x3046;&#x3051;&#x3044;&#x306E;</ind>]</trd>,
+    <trd>&#x5E73;&#x65B9;&#x306E;  [<ind>&#x3078;&#x3044;&#x307B;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x4E8C;&#x6B21;&#x306E;  [<ind>&#x3075;&#x305F;&#x3058;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>druh&eacute;ho stup&ncaron;a</trd>,
     <trd>kvadratick&yacute;</trd>,
     <trd>&scaron;tvorcov&yacute;</trd>
   </trdgrp>
   <trd lng="sv">kvadratisk</trd>
+  <trd lng="uk">&#x43A;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="kvadra1.0igi">
@@ -212,8 +287,7 @@ tip="ind">(m&aacute;trix)</klr></trd>
         samarean <tld/>on)</klr>
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=217474'>Historio de
+          <lok><url ref="https://eo.wikipedia.org/?curid=217474">Historio de
           matematiko</url></lok>
         </fnt>.
       </ekz>
@@ -243,8 +317,7 @@ tip="ind">(m&aacute;trix)</klr></trd>
         <tld/>igu &ccirc;i tiun 4, rezulto 16
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=217474'>Historio de
+          <lok><url ref="https://eo.wikipedia.org/?curid=217474">Historio de
           matematiko</url></lok>
         </fnt>.
       </ekz>
@@ -262,9 +335,19 @@ tip="ind">(m&aacute;trix)</klr></trd>
     <trd>mocnit na druhou</trd>,
     <trd>utvo&rcaron;it &ccaron;tverec</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6B63;&#x65B9;&#x5F62;&#x306B;&#x3059;&#x308B;  [<ind>&#x305B;&#x3044;&#x307B;&#x3046;&#x3051;&#x3044;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x771F;&#x56DB;&#x89D2;&#x306B;&#x3059;&#x308B;  [<ind>&#x307E;&#x3053;&#x3068;&#x3057;&#x304B;&#x304F;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x4E8C;&#x4E57;&#x3059;&#x308B;  [<ind>&#x3075;&#x305F;&#x3058;&#x3087;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>umocni&tcaron; na druh&uacute;</trd>,
     <trd>utvori&tcaron; &scaron;tvorec</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_ib;&c_d;&#x43D;&c_je;&c_s;&c_t;&c_i; &c_d;&#x43E; &#x43A;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;&c_a;</trd>,
+    <trd>&#x43D;&c_a;&c_d;&c_a;&c_v;&c_a;&c_t;&c_i; &#x43A;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;&#x43D;&#x43E;&c_ji; &c_f;&#x43E;&c_r;&#x43C;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &#x43A;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;&#x43D;&c_i;&#x43C;</trd>
   </trdgrp>
 </drv>
 
@@ -291,8 +374,11 @@ tip="ind">(m&aacute;trix)</klr></trd>
   <trd lng="fr">quadriller<klr tip="ind"> (dessiner des
 carr&eacute;s)</klr></trd>
   <trd lng="hu">kock&aacute;sra vonalk&aacute;z</trd>
+  <trd lng="ja">&#x7881;&#x76E4;&#x76EE;&#x72B6;&#x306B;&#x7DDA;&#x3092;&#x5F15;&#x304F;  [<ind>&#x3054;&#x3070;&#x3093;&#x3081;&#x3058;&#x3087;&#x3046;&#x306B;&#x305B;&#x3093;&#x3092;&#x3072;&#x304F;</ind>]</trd>
   <trd lng="nl">vierkanten aanbrengen</trd>
   <trd lng="sk">&scaron;tvor&ccaron;ekova&tcaron;</trd>
+  <trd lng="uk">&c_r;&#x43E;&c_z;&#x43A;&c_r;&c_je;&c_s;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i; &c_u;
+  &#x43A;&#x43B;&c_ib;&c_t;&c_i;&#x43D;&#x43A;&c_u;/&#x43A;&c_v;&c_a;&c_d;&c_r;&c_a;&c_t;&c_i;)</trd>
 </drv>
 
 <drv mrk="kvadra1.0ita">
@@ -344,8 +430,7 @@ carr&eacute;s)</klr></trd>
       <klr>(p.p. elemento <frm am="x"><k>x</k></frm>
       de <ref cel="monoid.0o">monoido</ref> kun
       multiplike signata operacio <frm am="**">*</frm>)</klr>
-      Tia, ke <frm am="x**x=x"
-      ><k>x</k>*<k>x</k> = <k>x</k></frm>; alidire: egala
+      Tia, ke <frm am="x**x=x"><k>x</k>*<k>x</k> = <k>x</k></frm>; alidire: egala
       al &gcirc;ia <ref cel="kvadra1.0o.algebra"><tld/>o</ref>:
       <ekz>
         kiu ajn estas entjero <frm am="n"><k>n</k></frm>,
@@ -367,7 +452,7 @@ carr&eacute;s)</klr></trd>
         <tld/>egala duonringo kun aldona unuloka operatoro
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=104304'>Algebra
+          <lok><url ref="https://eo.wikipedia.org/?curid=104304">Algebra
           strukturo</url></lok>
         </fnt>.
       </ekz>
@@ -391,7 +476,13 @@ carr&eacute;s)</klr></trd>
 </drv>
 </art>
 <!--
-$Log: kvadra1.xml,v $
+$Log$
+versio 1.116 2023/08/29 15:27:27
+Wolfram Diestel: ja: prononco
+
+versio 1.115 2022/05/01 08:09:26
+aktualigo lingvokodoj kaj URL-unuoj
+
 versio 1.40 2020/02/15 17:10:24
 Wolfram Diestel: formuloj per am
 
@@ -408,11 +499,5 @@ Revision 1.36  2015/06/29 16:33:18  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.35  2014/05/31 07:10:14  revo
-Agustin Garcia Lopez: +trd(es)
-
-Revision 1.34  2012/10/23 00:12:49  revo
-Neil Roberts: aldonu la etikedon <var>
-
-Revision 1.33  2005/05/17 16:32:23  revo
 -->
 </vortaro>

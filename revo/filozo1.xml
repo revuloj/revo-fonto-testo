@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: filozo1.xml,v 1.17 2009/07/06 16:30:37 revo Exp $">
+<art mrk="$Id: filozo1.xml,v 1.29 2023/08/31 13:11:29 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>filozofi</rad>/o
@@ -13,8 +12,7 @@
     <uzo tip="fak">FIL</uzo>
     <uzo tip="fak">SCI</uzo>
     <dif>
-      <ref tip="lst" cel="scienc.0o.fako"
-      lst="voko:sciencoj">Scienco</ref> pri la esencaj
+      <ref tip="lst" cel="scienc.0o.fako" lst="voko:sciencoj">Scienco</ref> pri la esencaj
       plej &gcirc;eneralaj principoj kaj ka&ubreve;zoj de la estado.
     </dif>
     <trd lng="es">filosof&iacute;a</trd>
@@ -30,6 +28,7 @@
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_l;&c_ja;&c_z;&c_o;&c_f;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_i;&c_ja;</trd>
+  <trd lng="bo">&#xF58;&#xF5A;&#xF53;&#xF0B;&#xF49;&#xF72;&#xF51;&#xF0B;</trd>
   <trd lng="cs">filozofie</trd>
   <trd lng="de">Philosophie</trd>
   <trd lng="en">philosophy</trd>
@@ -39,12 +38,20 @@
     <trd>filosofi</trd>,
     <trd>filsafat</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x54F2;&#x5B66;  [<ind>&#x3066;&#x3064;&#x304C;&#x304F;</ind>]</trd>,
+    <trd>&#x3082;&#x306E;&#x306E;&#x898B;&#x65B9;  [<ind>&#x3082;&#x306E;&#x306E;&#x307F;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x8003;&#x3048;&#x65B9;  [<ind>&#x304B;&#x3093;&#x304C;&#x3048;&#x304B;&#x305F;</ind>]</trd>,
+    <trd>&#x4EBA;&#x751F;&#x89B3;  [<ind>&#x3058;&#x3093;&#x305B;&#x3044;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x4E16;&#x754C;&#x89B3;  [<ind>&#x305B;&#x304B;&#x3044;&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">filosofie</trd>
   <trd lng="pt">filosofia</trd>
   <trd lng="ru">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_i;&c_ja;</trd>
   <trd lng="sk">filozofia</trd>
   <trd lng="sv">filosofi</trd>
-  <trd lng="zh">&#21746;&#23398;</trd>
+  <trd lng="uk">&#x444;&#x456;&#x43B;&#x43E;&#x441;&#x43E;&#x444;&#x456;&#x44F;</trd>
+  <trd lng="zh">&#x54F2;&#x5B66;</trd>
 </drv>
 
 <drv mrk="filozo1.0i">
@@ -65,8 +72,7 @@
       </ekz>
     </dif>   
   </snc>
-  <trd
-  lng="bg">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_s;&c_t;&c_v;&c_a;&c_m;</trd>
+  <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_s;&c_t;&c_v;&c_a;&c_m;</trd>
   <trd lng="cs">filozofovat</trd>
   <trd lng="de">philosophieren</trd>
   <trdgrp lng="en">
@@ -76,8 +82,12 @@
   <trd lng="es">filosofar</trd>
   <trd lng="fr">philosopher</trd>
   <trdgrp lng="id">
-    <trd>[<ind>falsafah</ind>] berfalsafah</trd>,
-    <trd>[<ind>filsafat</ind>] berfilsafat</trd>
+    <trd>ber<ind>falsafah</ind></trd>,
+    <trd>ber<ind>filsafat</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x54F2;&#x5B66;&#x3059;&#x308B;  [<ind>&#x3066;&#x3064;&#x304C;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x601D;&#x7D22;&#x3059;&#x308B;  [<ind>&#x3057;&#x3055;&#x304F;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">filosoferen</trd>
   <trdgrp lng="ru">        

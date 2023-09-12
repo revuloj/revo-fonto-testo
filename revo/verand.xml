@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: verand.xml,v 1.23 2023/09/05 09:43:54 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>verand</rad>/o
@@ -13,27 +12,34 @@
   <snc mrk="verand.0o.ARKI">
     <uzo tip="fak">ARKI</uzo>
     <dif>
-      Tegmenthava kaj vitrita teraso a&ubreve; balkono:
+      Tegmenthava kaj vitrita <ref cel="teras.0o">teraso</ref> a&ubreve; <ref cel="balkon.0o">balkono</ref>:
       <ekz>
-        Manjo <klr>...</klr> eliris sur la postan <tld/>on
+        Manjo <klr>[&#x2026;]</klr> eliris sur la postan <tld/>on
         <fnt><bib>Ne&gcirc;aBlovado</bib></fnt>;
       </ekz>
       <ekz>
         plantoj kreskis dense sur la lar&gcirc;a anta&ubreve;a <tld/>o
         <fnt><bib>DOz</bib>, <lok>&leftquot;la valo de vo&ccirc;oj&rightquot;</lok></fnt>.
       </ekz>
-        <ekz>
-         ... kaj subite, kvaza&ubreve; el&ccirc;eni&gcirc;inte, ekdancis amba&ubreve; salonoj kaj
-         post ili ekdancis la verando
-         <fnt><bib>MkM</bib>, <lok></lok></fnt>.
+      <ekz>
+        subite, kvaza&ubreve; el&ccirc;eni&gcirc;inte, ekdancis amba&ubreve; salonoj kaj
+         post ili ekdancis la <tld/>o
+         <fnt><bib>MkM</bib>, <lok/></fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="galeri.0o.ekstera">galerio<sncref/></ref>,
+      <ref cel="porcx.0o">por&ccirc;o</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_v;&c_e;&c_r;&c_a;&c_n;&c_d;&c_a;</trd>
   <trd lng="bg">&c_v;&c_je;&c_r;&c_a;&c_n;&c_d;&c_a;</trd>
   <trd lng="ca">veranda</trd>
   <trd lng="cs">veranda <klr>(zasklen&aacute; nebo otev&rcaron;en&aacute;)</klr></trd>
-  <trd lng="de">Veranda</trd>
+  <trdgrp lng="de">
+    <trd>Veranda</trd>
+    <trd>Wintergarten</trd>
+  </trdgrp>
   <trd lng="el">&my;&pi;&alfa;&lambda;&kappa;&omikron_ton;&ny;&jota;</trd>
   <trd lng="en">veranda</trd>
   <trd lng="es">veranda</trd>
@@ -43,14 +49,25 @@
   </trdgrp>
   <trd lng="fr">veranda</trd>
   <trd lng="hu">veranda</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D9;&#x30E9;&#x30F3;&#x30C0;  [<ind>&#x3079;&#x3089;&#x3093;&#x3060;</ind>]</trd>,
+    <trd>&#x7E01;&#x5074;  [<ind>&#x3048;&#x3093;&#x304C;&#x308F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">veranda</trd>
   <trd lng="pt">varanda</trd>
   <trd lng="ru">&c_v;&c_je;&c_r;&c_a;&c_n;&c_d;&c_a;</trd>
   <trd lng="sk">veranda</trd>
+  <trd lng="uk">&c_v;&c_je;&c_r;&c_a;&#x43D;&c_d;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/03/19 11:23:56
+Wolfram Diestel: +ref
+
+versio 1.20 2020/09/24 11:11:03
+Wolfram Diestel: +trd de
+
 Revision 1.18  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -67,8 +84,5 @@ Revision 1.14  2006/01/09 17:32:23  revo
 Jeromo Vasxe: + 1 ekz
 
 Revision 1.13  2005/12/22 17:31:18  revo
-Jeromo Vasxe: + fak arki, + 1 ekz
-
-Revision 1.12  2005/04/05 16:35:11  revo
 -->
 </vortaro>

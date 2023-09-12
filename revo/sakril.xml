@@ -1,29 +1,28 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sakril.xml,v 1.26 2023/09/03 12:09:43 revo Exp $">
 <kap>
   <rad>sakrilegi</rad>/o <fnt><bib>PV</bib></fnt>,
-  <var><kap><rad>sakrileg</rad>/o <fnt><bib>Far1</bib></fnt></kap></var>
+  <var><kap><rad var="g">sakrileg</rad>/o <fnt><bib>Far1</bib></fnt></kap></var>
 </kap>
 <drv mrk="sakril.0o">
   <kap><tld/>o,
-    <var><kap>sakrilego</kap></var>
+    <var><kap><tld var="g"/>o</kap></var>
   </kap>
   <uzo tip="fak">REL</uzo>
   <snc>
     <dif>
       Malrespekta ago kontra&ubreve; sanktigita persono, objekto a&ubreve; loko:
       <ekz>
-        vi diras la veron &dash; jesis <nom>Hiram</nom> &dash; sed tio estas sakrilego!...
+        vi diras la veron &#x2010; jesis <nom>Hiram</nom> &#x2010; sed tio estas <tld var="g"/>o!...
         <fnt>
           <bib>Far1</bib>
           <lok>&Ccirc;apitro XXV</lok>
         </fnt>;
       </ekz>
       <ekz>
-        forpelu la malbonajn konsilantojn, kiuj vin pu&scirc;as al la sakrilego de l' temploj
+        forpelu la malbonajn konsilantojn, kiuj vin pu&scirc;as al la <tld var="g"/>o de l' temploj
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro XVI</lok>
@@ -56,7 +55,14 @@
   <trd lng="fr">sacril&egrave;ge<klr> (acte)</klr></trd>
   <trd lng="hu">szents&eacute;gt&ouml;r&eacute;s</trd>
   <trd lng="it">sacrilegio</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5192;&#x6D9C;  [<ind>&#x307C;&#x3046;&#x3068;&#x304F;</ind>]</trd>,
+    <trd>&#x6D9C;&#x8056;</trd>,
+    <trd>&#x4E0D;&#x656C;&#x306A;&#x884C;&#x70BA;  [<ind>&#x3075;&#x305F;&#x304B;&#x3057;&#x306A;&#x3053;&#x3046;&#x3044;</ind>]</trd>,
+    <trd>&#x7121;&#x793C;  [<ind>&#x306A;&#x3081;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">heiligschennis</trd>
+  <trd lng="pl">&sacute;wi&eogonek;tokradztwo</trd>
   <trdgrp lng="pt">
    <trd>sacril&eacute;gio</trd>
   </trdgrp>
@@ -65,17 +71,21 @@
     <trd>&c_s;&c_v;&c_ja;&c_t;&c_o;&c_t;&c_a;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>
   </trdgrp>
   <trd lng="sk">sv&auml;tokr&aacute;de&zcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&#x43B;&#x44E;&c_z;&#x43D;&c_ib;&c_r;&c_s;&c_t;&c_v;&#x43E;</trd>,
+    <trd>&c_s;&c_v;&#x44F;&c_t;&#x43E;&c_t;&c_a;&c_t;&c_s;&c_t;&c_v;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sakril.0a">
   <kap><tld/>a,
-    <var><kap>sakrilega</kap></var>
+    <var><kap><tld var="g"/>a</kap></var>
   </kap>
   <snc>
     <dif>
       Malrespekta, atenca al sankta&jcirc;o:
       <ekz>
-        &ccirc;iu el ni mortus same, kiel plej ordinara krimulo, se li sakrilege proksimi&gcirc;us
+        &ccirc;iu el ni mortus same, kiel plej ordinara krimulo, se li <tld var="g"/>e proksimi&gcirc;us
         al la altaro
         <fnt>
           <bib>Far1</bib>
@@ -84,6 +94,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_b;&c_l;&c_ju;&c_z;&c_mol;&c_n;&c_je;&c_r;&c_s;&c_k;&c_ib;</trd>
   <trdgrp lng="cs">
     <trd>rouha&ccaron;sk&yacute;</trd>,
     <trd>svatokr&aacute;de&zcaron;n&yacute;</trd>
@@ -92,6 +103,13 @@
   <trd lng="es">sacr&iacute;lego</trd>
   <trd lng="fr">sacril&egrave;ge<klr> (adj.)</klr></trd>
   <trd lng="it">sacrilego<klr> (agg.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5192;&#x6D9C;&#x7684;&#x306A;  [<ind>&#x307C;&#x3046;&#x3068;&#x304F;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x795E;&#x8056;&#x3092;&#x6C5A;&#x3059;  [<ind>&#x3057;&#x3093;&#x305B;&#x3044;&#x3092;&#x3051;&#x304C;&#x3059;</ind>]</trd>,
+    <trd>&#x7121;&#x793C;&#x306A;  [<ind>&#x3076;&#x308C;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x7F70;&#x5F53;&#x305F;&#x308A;&#x306A;  [<ind>&#x3070;&#x3061;&#x3042;&#x305F;&#x308A;&#x306A;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">&sacute;wi&eogonek;tokradczy</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_shch;&c_u;&c_n;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_s;&c_v;&c_ja;&c_t;&c_o;&c_t;&c_a;&c_t;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
@@ -100,18 +118,22 @@
     <trd>r&uacute;ha&ccaron;sk&yacute;</trd>,
     <trd>sv&auml;tokr&aacute;de&zcaron;n&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&#x43B;&#x44E;&c_z;&#x43D;&c_ib;&c_r;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_v;&#x44F;&c_t;&#x43E;&c_t;&c_a;&c_t;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sakril.0i">
   <kap><tld/>i,
-    <var><kap>sakrilegi</kap></var>
+    <var><kap><tld var="g"/>i</kap></var>
   </kap>
   <gra><vspec>ntr</vspec></gra>
   <snc>
     <dif>
       Fari <tld/>on:
       <ekz>
-        lo&gcirc;antoj de mia nomeso invadis la teritorion de la provinco <nom>Ka</nom> kaj sakrilegis la
+        lo&gcirc;antoj de mia nomeso invadis la teritorion de la provinco <nom>Ka</nom> kaj <tld var="g"/>is la
         statuton de l' dio <nom>Sebak</nom>
         <fnt>
           <bib>Far1</bib>
@@ -119,7 +141,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        ne permesu al viaj soldatoj sakrilegi la sanktejojn kaj ataki la pastrojn
+        ne permesu al viaj soldatoj <tld var="g"/>i la sanktejojn kaj ataki la pastrojn
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro XV</lok>
@@ -127,6 +149,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_b;&c_l;&c_ju;&c_z;&c_mol;&c_n;&c_je;&c_r;&c_y;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>p&aacute;chat svatokr&aacute;de&zcaron;</trd>,
     <trd>rouhat se</trd>
@@ -146,7 +169,13 @@
   </trdgrp>
   <trd lng="hu">szents&eacute;gt&ouml;r&eacute;st k&ouml;vet el</trd>
   <trd lng="it">commettere un <ind>sacrilegio</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x6D9C;&#x8056;&#x3092;&#x306F;&#x305F;&#x3089;&#x304F;  [<ind>&#x6D9C;&#x3072;&#x3058;&#x308A;&#x3092;&#x306F;&#x305F;&#x3089;&#x304F;</ind>]</trd>,
+    <trd>&#x5192;&#x6D9C;&#x3092;&#x884C;&#x3046;  [<ind>&#x307C;&#x3046;&#x3068;&#x304F;&#x3092;&#x304A;&#x3053;&#x306A;&#x3046;</ind>]</trd>,
+    <trd>&#x795E;&#x8056;&#x3092;&#x6C5A;&#x3059;  [<ind>&#x3057;&#x3093;&#x305B;&#x3044;&#x3092;&#x3051;&#x304C;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">heiligschennis plegen</trd>
+  <trd lng="pl">pope&lstroke;ni&cacute;  <ind>&sacute;wi&eogonek;tokradztwo</ind></trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_o;&c_shch;&c_u;&c_n;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_v;&c_ja;&c_t;&c_o;&c_t;&c_a;&c_t;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
@@ -166,23 +195,39 @@
         <nom>Seneca</nom>, kiu komprenis, ke oni komisias al li la rolon de premisto, <tld/>ulo kaj
         rabisto, rekte rifuzis
         <fnt>
-          <vrk><url ref="http://www.geocities.ws/athens/academy/1475/kvovadis/kvo057.html"
-              >Quo Vadis 057</url></vrk>
+          <vrk><url ref="http://www.geocities.ws/athens/academy/1475/kvovadis/kvo057.html">Quo Vadis
+          057</url></vrk>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_b;&c_l;&c_ju;&c_z;&c_mol;&c_n;&c_je;&c_r;</trd>
   <trd lng="en">sacrilegist</trd>
   <trdgrp lng="fr">
     <trd>profanateur</trd>,
     <trd>sacril&egrave;ge<klr> (pers.)</klr></trd>
   </trdgrp>
   <trd lng="it">sacrilego<klr> (sost.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5192;&#x6D9C;&#x8005;  [<ind>&#x307C;&#x3046;&#x3068;&#x304F;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x7121;&#x793C;&#x8005;  [<ind>&#x3076;&#x308C;&#x3044;&#x3082;&#x306E;</ind>]</trd>,
+    <trd>&#x7F70;&#x5F53;&#x305F;&#x308A;  [<ind>&#x3070;&#x3061;&#x3042;&#x305F;&#x308A;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">&sacute;wi&eogonek;tokradca</trd>
   <trd lng="ru">&c_s;&c_v;&c_ja;&c_t;&c_o;&c_t;&c_a;&c_t;&c_je;&c_c;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.25 2023/07/24 22:29:31
+Vito Redsky: +trd pl 
+
+versio 1.24 2022/11/15 13:45:44
+Dmitri Gabinski: + trd be
+
+versio 1.22 2020/09/07 18:10:33
+Wolfram Diestel: +tld-var
+
 Revision 1.20  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -196,11 +241,5 @@ Revision 1.17  2009/09/22 17:17:52  revo
 Antonio Codazzi: +trd it
 
 Revision 1.16  2009/03/01 17:34:43  revo
-Russ Williams: +trd en
-
-Revision 1.15  2006/02/06 17:32:09  revo
-Tulio Flores: +trd pt
-
-Revision 1.14  2003/09/04 16:31:29  revo
 -->
 </vortaro>

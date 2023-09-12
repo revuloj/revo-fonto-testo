@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lias.xml,v 1.10 2008/06/29 16:30:18 revo Exp $">
+<art mrk="$Id: lias.xml,v 1.17 2023/09/01 19:10:59 revo Exp $">
 <kap>
   <rad>lias</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -15,19 +14,22 @@
       milionoj da jaroj;
       frua <ref tip="malprt" cel="jxuras.0o">&jcirc;uraso</ref>:
       <ekz>
-        <tld/>o <klr>[&#8230;]</klr> estis tiu de la amonitoj, maraj
+        <tld/>o <klr>[&#x2026;]</klr> estis tiu de la amonitoj, maraj
         kapopieduloj kies &scirc;elo
         evoluis tiel rapide, ke oni uzas ilin por dati la rokajn
         tavolojn en kiu ili
         fosilii&gcirc;is
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=288373"
-              >Liaso</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=288373">Liaso</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_je;&c_j;&c_a;&c_s;</trd>,
+    <trd>&c_ju;&c_r;&c_a; &c_ch;&c_o;&c_r;&c_n;&c_a;&c_ja;</trd>
+  </trdgrp>
   <trd lng="cs">lias</trd>
   <trd lng="de">Lias</trd>
   <trdgrp lng="en">
@@ -36,6 +38,7 @@
   </trdgrp>
   <trd lng="fr">Lias</trd>
   <trd lng="hu">li&aacute;sz</trd>
+  <trd lng="ja">&#x30E9;&#x30A4;&#x30A2;&#x30B9;&#x7D71;</trd>
   <trd lng="nl">lias</trd>
   <trd lng="pl">jura</trd>
   <trdgrp lng="pt">
@@ -45,10 +48,17 @@
   <trd lng="ro">jurasic timpuriu</trd>
   <trd lng="ru">&c_l;&c_je;&c_j;&c_a;&c_s;</trd>
   <trd lng="sk">lias</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43B;&c_je;&c_j;&c_a;&c_s;</trd>,
+    <trd>&#x43D;&c_i;&c_zh;&#x43D;&#x44F; &#x44E;&c_r;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.16 2023/03/13 07:26:31
+Dmitri Gabinski: + trd be
+
 Revision 1.13  2019/07/21 20:10:16  revo
 Wolfram Diestel: +ekz, ref jxuraso
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
- 
 <vortaro>
-<art mrk="$Id: period.xml,v 1.38 2020/02/16 00:10:38 revo Exp $">
+<art mrk="$Id: period.xml,v 1.49 2023/09/03 12:45:06 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>period</rad>/o <fnt><bib>PV</bib></fnt>
@@ -10,75 +9,245 @@
  
 <drv mrk="period.0o">
   <kap><tld/>o</kap>
-  <snc mrk="period.0o.AST">
-    <uzo tip="fak">AST</uzo>
-    <dif>
-      Tempo, kiun bezonas astro por retrovi&gcirc;i
-      en sama punkto de sia rondvojo.
-    </dif>
-    <refgrp tip="vid">
-      <ref cel="faz.0o">fazo</ref>,
-      <ref cel="stadi.0o">stadio</ref>
-    </refgrp>
-    <trdgrp lng="hu">
-      <trd>peri&oacute;dus</trd>,
-      <trd>kering&eacute;si id&odblac;</trd></trdgrp>
-  </snc>
-  <snc mrk="period.0o.funkcio">
-    <uzo tip="fak">MAT</uzo>
-    <fnt><bib>EKV</bib><lok>&para;333</lok></fnt>
-    <dif>
-      <klr>(de reela <ref cel="funkci.0o.MAT">funkcio</ref>
-        <frm am="f"><k>f</k></frm>)</klr>
-      &Ccirc;iu tia reelo <frm am="T">T</frm>, ke
-      <frm am="f(x+T)=f(x)"
-      ><k>f</k>(<k>x</k>+T) = <k>f</k>(<k>x</k>)</frm>,
-      kiu ajn estas <frm am="x"><k>x</k></frm>; pli specife: la
-      plej malgranda el tiuj nombroj:
-      <ekz>
-        la funkcio <ref cel="sinus.0o.funkcio">sinuso</ref> havas
-        <tld/>on <frm am="2pi">2&pi;</frm>.
-      </ekz>
-    </dif>
-    <rim>
-      La difino nature vasti&gcirc;as al kompleksaj funkcioj kaj al
-      &ccirc;iuj aliaj okazoj, kiam adicio estas difinita en la
-      fonto-aro.
-    </rim>
-    <trdgrp lng="hu">
-      <trd>peri&oacute;dus</trd>,
-      <trd>szakasz</trd></trdgrp>
-    <trd lng="pl">okres<klr tip="ind"> (funkcji)</klr></trd>
-  </snc>
   <snc mrk="period.0o.dauxro">
     <dif>
-      Tempa da&ubreve;ro inter du difinitaj fazoj
+      Tempa <ref tip="super" cel="dauxr.0o">da&ubreve;ro</ref> 
+      inter du difinitaj <ref cel="faz.0o.KOMUNE">fazo</ref>j
       de fenomeno a&ubreve; de evoluado; parto de
       <ref tip="malprt" cel="epok.0o.periodo">epoko</ref>:
       <ekz>
+        la traktato <klr>[&#x2026;]</klr> garantios al Egipto <tld/>on de paco
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        venis la lasta tago de la a&ubreve;tuna instru<tld/>o
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sekvis kelktempa laboro jen tie, jen tie, kun longaj interaj <tld/>oj de
+        senlaboreco kaj longaj voja&gcirc;oj de loko al loko
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Kuni&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la unua, su&ccirc;infana <tld/>o de nia lingvo
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiam venis la <tld/>o de la granda postulado de reformoj,
+        feli&ccirc;e tiu <tld/>o da&ubreve;ris ne longe
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en Dresden en la 17a de a&ubreve;gusto
+          1908</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
         en la unua epoko de la historio de Esperanto
-        <klr>...</klr> facile estas distingi tri <tld/>ojn
+        <klr>[&#x2026;]</klr> facile estas distingi tri <tld/>ojn
         <fnt>
           <aut>Kabe</aut>,
-          <vrk><url
-          ref="https://eo.wikisource.org/wiki/Parolado_de_Kabe_%C4%89e_la_unua_Universala_Kongreso">
+          <vrk><url ref="https://eo.wikisource.org/wiki/Parolado_de_Kabe_%C4%89e_la_unua_Universala_Kongreso">
           Parolado &ccirc;e la unua Universala Kongreso</url></vrk>,
           <lok>1905</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pri la intermilita <tld/>o mankas kompletaj kaj precizaj informoj rilate la
+        faktan instruadon de la lingvo
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aresto kaj kondamno de Fernando <klr>[&#x2026;]</klr>, morto de Filipo, <klr>[&#x2026;]</klr>,
+        &scirc;iaj geedzaj amrilatoj kun Petro, naski&gcirc;o de Ma&ubreve;rico, fine reveno kaj
+        malkondamno de &scirc;ia edzo, <klr>[&#x2026;]</klr> en &scirc;ia cerbo, tiu sesjara <tld/>o
+        estas anstata&ubreve;ita de granda nigra truo
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i tiu vespero estis eble la lasta de la plej bela <tld/>o de lia vivo
+        <fnt>
+          <bib>IKr</bib>
+          <lok>En Kvieta Vespero</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la fini&gcirc;o de la stabil<tld/>o
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        skribaj dokumentoj pri homa ekonomia pensado ekzistas por <tld/>o de iom pli ol
+        2000 jaroj
+        <fnt><aut>Bo Sandelin</aut>: 
+          <vrk><url ref="&Monato;/2001/007279.php">Anta&ubreve;merkantilisma ekonomia pensado</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2001/02, p. 16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la fina <tld/>o de sia scienca aktiveco (1912-1929), <nom>Trombetti</nom> reduktis al 9
+        la nombron de la grandaj lingvaj grupoj
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en anta&ubreve;aj elekto<tld/>oj la partipolitika konstelacio &ccirc;iam malhelpis realigon
+        de tia reformo
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007124.php">Majstroverko, sed nur taktika</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 8</lok>
+          </fnt>;
+      </ekz>
+      <ekz>        
+        la Neandertalulo vivis en la tria interglacia <tld/>o, eble &gcirc;is la fini&gcirc;o de la
+        lasta glacia <tld/>o
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        adoleski &ndash; <klr>[&#x2026;]</klr> tiu viv<tld/>o, kiu venas post la infana&gcirc;o
+        <fnt>
+          <bib>ChM</bib>
+          <lok>Glosaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Ilona</nom> <klr>[&#x2026;]</klr> &jcirc;us foriris el mona&hcirc;ina prov<tld/>o
+        <fnt>
+          <bib>ChM</bib>
+          <lok>16</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="era.0o.post">erao<sncref/></ref>,
+      <ref cel="stadi.0o.fazo">stadio<sncref/></ref>
+    </refgrp>
     <trdgrp lng="hu">
       <trd>id&odblac;szak</trd>,
-      <trd>id&odblac;k&ouml;z</trd></trdgrp>
+      <trd>id&odblac;k&ouml;z</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="period.0o.FIZ">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Plej malgranda <ref tip="super" cel="interv.0o.MAT">intervalo</ref>, 
+      post kiu iu fenomeno ripeti&gcirc;as, aparte &ccirc;e ondoj &gcirc;i
+      respondas al la ondolongo.
+    </dif>
+    <subsnc mrk="period.0o.AST">
+      <uzo tip="fak">AST</uzo>
+      <dif>
+        Tempo, kiun bezonas astro por retrovi&gcirc;i
+        en sama punkto de sia rondvojo.
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="faz.0o">fazo</ref>,
+        <ref cel="stadi.0o">stadio</ref>
+      </refgrp>
+      <trdgrp lng="hu">
+        <trd>peri&oacute;dus</trd>,
+        <trd>kering&eacute;si id&odblac;</trd></trdgrp>
+    </subsnc>
+    <subsnc mrk="period.0o.funkcio">
+      <uzo tip="fak">MAT</uzo>
+      <fnt><bib>EKV</bib><lok>&para;333</lok></fnt>
+      <dif>
+        <klr>(de reela <ref cel="funkci.0o.MAT">funkcio</ref>
+          <frm am="f"><k>f</k></frm>)</klr>
+        &Ccirc;iu tia reelo <frm am="T">T</frm>, ke
+        <frm am="f(x+T)=f(x)"><k>f</k>(<k>x</k>+T) = <k>f</k>(<k>x</k>)</frm>,
+        kiu ajn estas <frm am="x"><k>x</k></frm>; pli specife: la
+        plej malgranda el tiuj nombroj:
+        <ekz>
+          la funkcio <ref cel="sinus.0o.funkcio">sinuso</ref> havas
+          <tld/>on <frm am="2pi">2&pi;</frm>.
+        </ekz>
+      </dif>
+      <rim>
+        La difino nature vasti&gcirc;as al kompleksaj funkcioj kaj al
+        &ccirc;iuj aliaj okazoj, kiam adicio estas difinita en la
+        fonto-aro.
+      </rim>
+      <trdgrp lng="hu">
+        <trd>peri&oacute;dus</trd>,
+        <trd>szakasz</trd></trdgrp>
+      <trd lng="pl">okres<klr tip="ind"> (funkcji)</klr></trd>
+    </subsnc>
+    <subsnc mrk="period.0o.KEM">
+      <uzo tip="fak">KEM</uzo>
+      <dif>
+        La elementoj de unu linio en la 
+        <ref tip="malprt" cel="period.0atabelo"><tld lit="P"/>a tabelo</ref>.
+      </dif>
+    </subsnc>
+  </snc>
+  <snc mrk="period.0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      En geokronologio, tempointervalo ampleksanta plurajn epokojn, responda al sistemo
+      en kronostratigrafio:
+      <ekz>
+        oni devas legi en la tertavoloj, <klr>[&#x2026;]</klr> en &ccirc;iuj <tld/>oj de la tero
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Turgardisto Ole</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="era.0o.GEOL">erao<sncref/></ref>
   </snc>
   <snc mrk="period.0o.BELE">
     <uzo tip="fak">BELE</uzo>
     <dif>
       Aro da <ref cel="fraz.0o.GRA">frazoj<sncref/></ref>
-      prezentanta malvolvi&gcirc;on de iu unueca penso.
+      prezentanta malvolvi&gcirc;on de iu unueca penso:
+      <ekz>
+        por signi novan <tld/>on oni faras longan pa&ubreve;zon
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio]</klr> ebligas ne nur la korektan akcentadon de la silaboj en la
+        vorto, sed anka&ubreve; la akcentadon de la vorto en la frazo, kaj de la frazo en la
+        parolada <tld/>o
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="sin">
-      <ref cel="fraz.0aro">frazaro</ref>.
+      <ref cel="fraz.0aro">frazaro</ref>
     </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_ja;&c_d;</trd>
@@ -93,6 +262,14 @@
   <trd lng="en">period</trd>
   <trd lng="fr">p&eacute;riode</trd>
   <trd lng="hu">k&ouml;rmondat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x671F;&#x9593;  [<ind>&#x304D;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x6642;&#x671F;  [<ind>&#x3058;&#x304D;</ind>]</trd>,
+    <trd>&#x6642;&#x4EE3;  [<ind>&#x3058;&#x3060;&#x3044;</ind>]</trd>,
+    <trd>&#x5468;&#x671F;  [<ind>&#x3057;&#x3085;&#x3046;&#x304D;</ind>]</trd>,
+    <trd>&#x7D00;  [<ind>&#x304D;</ind>]</trd>,
+    <trd>&#x7DCF;&#x5408;&#x6587;  [<ind>&#x305D;&#x3046;&#x3054;&#x3046;&#x3076;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">periode</trd>
   <trd lng="pl">okres</trd>
   <trd lng="pt">per&iacute;odo</trd>
@@ -103,6 +280,7 @@
     <trd>obdobie</trd>,
     <trd>&ccaron;asov&yacute; &uacute;sek</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_je;&c_r;&c_ib;&c_o;&c_d;</trd>
 </drv>
  
 <drv mrk="period.0a">
@@ -111,7 +289,38 @@
     <dif>
       Ripeti&gcirc;anta post pli malpli difinita tempo:
       <ekz>
-        <tld/>a febro, eldona&jcirc;o, fenomeno.
+        <tld/>a febro, eldona&jcirc;o, fenomeno;
+      </ekz>
+      <ekz>
+        Jarlibro de UEA estas sendube la plej konsultata <tld/>a eldona&jcirc;o en nia lingvo
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 7 (57)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> inklinigis lin rigardi kun malpli da malfavoro <tld/>an
+        translo&gcirc;i&gcirc;on al la &ccirc;efurbo
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> submeti&gcirc;is al <tld/>a medicina kontrolo
+        <fnt>
+          <bib>ChC</bib>
+          <lok>2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Ison</nom> estas kometo tiel nomata tan&gcirc;a, ne <tld/>a
+        <fnt>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/010945.php">Ne &ccirc;io brilanta estas diamanto</url></vrk>
+              <bib>Monato</bib>
+          <lok>2013/02, p. 19</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -127,22 +336,18 @@
     <subsnc mrk="period.0a.funkcio">
       <fnt><bib>MatVort</bib></fnt>
       <dif>
-        <klr>(p.p. reela <ref
-        cel="funkci.0o.MAT">funkcio</ref>)</klr>
+        <klr>(p.p. reela <ref cel="funkci.0o.MAT">funkcio</ref>)</klr>
         Akceptanta almena&ubreve; unu
         <ref cel="period.0o.funkcio"><tld/>on <sncref/></ref>.
       </dif>
       <trd lng="de">periodisch<klr tip="ind"> (-e
       Funktion)</klr></trd>
-      <trd lng="en">periodic[al]<klr tip="ind">
-      (function)</klr></trd>
       <trd lng="fr"><klr tip="ind">(fonction) 
           </klr>p&eacute;riodique</trd>
       <trd lng="hu">periodikus<klr tip="ind"> 
          (f&uuml;ggv&eacute;ny)</klr></trd>
       <trd lng="pl"><klr tip="amb">(funkcja) </klr>okresowa</trd>
-      <trd lng="ru">&c_p;&c_je;&c_r;&c_i;&c_o;&c_d;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;<klr 
-         tip="amb"> (&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;)</klr></trd>
+      <trd lng="ru">&c_p;&c_je;&c_r;&c_i;&c_o;&c_d;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;<klr tip="amb"> (&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;)</klr></trd>
     </subsnc>
     <subsnc mrk="period.0a.frakcio">
       <fnt><bib>MatTerm</bib><lok>p. 9</lok></fnt>
@@ -165,7 +370,15 @@
     <trd>periodick&yacute;</trd>
   </trdgrp>
   <trd lng="de">periodisch</trd>
+  <trdgrp lng="en">
+    <trd>periodic</trd>,
+    <trd>periodical</trd>
+  </trdgrp>
   <trd lng="fr">p&eacute;riodique<klr> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5468;&#x671F;&#x7684;&#x306A;  [<ind>&#x3057;&#x3085;&#x3046;&#x304D;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x5B9A;&#x671F;&#x7684;&#x306A;  [<ind>&#x3066;&#x3044;&#x304D;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">periodiek</trd>
   <trd lng="pl">okresowy</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_i;&c_o;&c_d;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
@@ -173,6 +386,7 @@
     <trd>ob&ccaron;asn&yacute;</trd>,
     <trd>periodick&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&c_p;&c_je;&c_r;&c_ib;&c_o;&c_d;&c_i;&c_ch;&c_n;&c_i;&c_j;</trd>
 </drv>
  
 <drv mrk="period.0ajxo">
@@ -188,7 +402,31 @@
         la nomon de la <tld/>a&jcirc;o kutime sekvas la numero de la
         jar-volumo
         <fnt><bib>Dan&gcirc;Lng</bib>, <lok>Atentigo de la 2a
-        eldono</lok></fnt>.
+        eldono</lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> dum ok jaroj redaktis la <tld/>a&jcirc;on &leftquot;Sciencaj Komunika&jcirc;oj&rightquot;
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007225.php">Estimataj gelegantoj,</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 3</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        en <tld/>a&jcirc;oj regule aperas artikoloj, kies a&ubreve;toroj entuziasme priskribas
+        simptomojn de nova progresperiodo en arto
+        <fnt>
+          <bib>KFl</bib>
+          <lok>I. Enkonduko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> jam iom longe ekzamenis la <tld/>a&jcirc;ojn de la magazeno
+        <fnt>
+          <bib>ChR</bib>
+          <lok>Spiona rondo</lok>
+        </fnt>.
       </ekz>
     </dif>
     <ref tip="super" cel="seri.0ajho">seria&jcirc;o</ref>
@@ -216,9 +454,17 @@
   <trdgrp lng="hu">
     <trd>foly&oacute;irat</trd>,
     <trd>periodika</trd></trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5B9A;&#x671F;&#x520A;&#x884C;&#x7269;  [<ind>&#x3066;&#x3044;&#x304D;&#x304B;&#x3093;&#x3053;&#x3046;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x5B9A;&#x671F;&#x7684;&#x306A;&#x4E8B;  [<ind>&#x3066;&#x3044;&#x304D;&#x3066;&#x304D;&#x306A;&#x3053;&#x3068;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tijdschrift</trd>
   <trd lng="pl">periodyk</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_i;&c_o;&c_d;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_i;&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_ib;&c_o;&c_d;&c_i;&c_ch;&c_n;&c_je; &c_v;&c_i;&c_d;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_o;&c_p;&c_i;&c_s;</trd>
+  </trdgrp>
 </drv>
  
 <drv mrk="period.0igi">
@@ -230,14 +476,24 @@
     <dif>
       Dividi tempon la&ubreve; <tld/>oj:
       <ekz>
-        niaj eseistoj verkas <klr>...</klr> pri <tld/>igo 
+        niaj eseistoj verkas <klr>[&#x2026;]</klr> pri <tld/>igo 
         de nia beletro 
         <fnt>
           <aut>A. Val&eacute;n</aut>,
-          <vrk><url
-          ref="http://www.liberafolio.org/2013/agrableta-surprizo-post-timo-de-desaponto">
+          <vrk><url ref="http://www.liberafolio.org/2013/agrableta-surprizo-post-timo-de-desaponto">
           Agrableta surprizo post timo de desaponto </url></vrk>,
           <lok>libera folio, 2013-02-09</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sciencecaj esploroj de <nom>Pietil&auml;inen</nom> kaj <nom>Sutton</nom> pri <tld/>igo de la
+        esperantlingva
+        literatur-historio
+        <fnt>
+          <aut>Nikolao Gudskov</aut>
+          <vrk><url ref="&Monato;/2013/010956.php">Porkonkursa reflekto</url></vrk>
+              <bib>Monato</bib>
+          <lok>2013/08, p. 30</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -247,7 +503,17 @@
     <trd>periodizovat</trd>,
     <trd>&ccaron;asov&ecaron; rozlo&zcaron;it</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>in Perioden einteilen</trd>,
+    <trd>periodisieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>divide <klr>(history/time) </klr>into periods</trd>,
+    <trd>periodize</trd>,
+    <trd>periodise</trd>
+  </trdgrp>
   <trd lng="fr">p&eacute;riodiser</trd>
+  <trd lng="nl">in <ind>periodes</ind> verdelen</trd>
   <trd lng="sk">&ccaron;asovo rozlo&zcaron;i&tcaron;</trd>
 </drv>
 
@@ -259,6 +525,25 @@
       Difinita tempo, dum kiu da&ubreve;ras ies oficado la&ubreve;
       <ref cel="mandat.0o.JUR">mandato<sncref/></ref>:
       <ekz>
+        mi rekandidati&gcirc;as por nova mandat<tld/>o kiel ministroprezidanto
+        <fnt>
+          <aut>Marko Naoki LINS</aut>
+          <vrk><url ref="&Monato;/2004/008311.html">Kiu prezidos la EU-Komisionon?</url></vrk>
+              <bib>Monato</bib>
+          <lok>2004/06, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Helen Clark</nom> sukcesis gvidi minoritatan registaron tra du anta&ubreve;aj mandat<tld/>oj,
+        do ver&scirc;ajne &scirc;i same faros denove
+        <fnt>
+          <aut>D. E. Rogers</aut>
+          <vrk><url ref="&Monato;/2006/008839.php">Denove Clark denove koalicio</url></vrk>
+              <bib>Monato</bib>
+          <lok>2006/02, p. 8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         poste mi demandas, kion li opinius, se <nom>Putin</nom>
         kandidatus por kvara mandat<tld/>o
         <fnt>
@@ -268,8 +553,12 @@
         </fnt>.
       </ekz>
     </dif>
-  </snc>
+  </snc>  
+  <trd lng="be">&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n; &c_p;&c_a;&c_w;&c_n;&c_a;&c_m;&c_o;&c_c;&c_t;&c_v;&c_a;&c_w;</trd>
+  <trd lng="de">Legislaturperiode</trd>
+  <trd lng="en">term of office</trd>
   <trd lng="fr">mandature</trd>
+  <trd lng="ja">&#x4EFB;&#x671F;  [<ind>&#x306B;&#x3093;&#x304D;</ind>]</trd>
 </drv>
 
 <drv mrk="period.0atabelo">
@@ -290,8 +579,13 @@
     <trd>periodick&aacute; soustava</trd>,
     <trd>periodick&aacute; tabulka</trd>
   </trdgrp>
-  <trd lng="de">Periodensystem</trd>
-  <trd lng="en">Periodic Table</trd>
+  <trdgrp lng="de">
+      <trd>Periodensystem</trd>,
+      <trd>Periodensystem der Elemente</trd>,
+      <trd>PSE</trd>,
+      <trd>Periodensystem der chemischen Elemente</trd>
+  </trdgrp>
+  <trd lng="en">periodic table</trd>
   <trd lng="fr">tableau p&eacute;riodique des &eacute;l&eacute;ments</trd>
   <trd lng="hu">peri&oacute;dusos rendszer</trd>
   <trdgrp lng="nl">
@@ -303,28 +597,28 @@
 </drv>
 </art>
 <!--
-$Log: period.xml,v $
-versio 1.38 2020/02/16 00:10:38
-Wolfram Diestel: formuloj per am
+$Log$
+versio 1.48 2023/05/28 10:28:42
+Paul Peeraerts:  + trd nl + lok
 
-Revision 1.37  2019/06/29 22:10:17  revo
-Jeromo Vasxe: + mandat~o
+versio 1.47 2023/05/20 10:26:30
+Christian Siefkes: +trd de, en
 
-Revision 1.36  2018/04/06 09:10:21  revo
-Dmitri Gabinski: +trd be
+versio 1.46 2023/05/12 08:29:51
+Dmitri Gabinski: + trd be
 
-Revision 1.35  2017/04/03 17:10:11  revo
-Ludoviko Francisco: +trd fr
+versio 1.45 2023/05/01 07:25:40
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.34  2015/07/31 20:10:20  revo
-Jeromo Vasxe: +  ekz
+versio 1.44 2023/04/18 13:30:59
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.33  2015/07/04 08:37:41  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.43 2022/09/04 20:33:30
+Ulrich Fellmann: perioda tabelo: +3 DE trdj
 
-Revision 1.32  2015/06/29 16:40:17  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.42 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.31  2014/12/17 00:10:25  revo
+versio 1.41 2022/04/20 20:30:54
 -->
 </vortaro>

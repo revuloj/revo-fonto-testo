@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: atmosf.xml,v 1.22 2008/05/27 16:30:52 revo Exp $">
+<art mrk="$Id: atmosf.xml,v 1.31 2023/08/30 18:23:38 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>atmosfer</rad>/o
@@ -52,11 +51,10 @@
     <uzo tip="fak">FIZ</uzo>
     <mlg>atm</mlg>
     <dif>
-      Komunuza <ref tip="lst" cel="unu.mezur0o"
-      lst="voko:mezurunuoj">mezurunuo</ref> de
+      Komunuza <ref tip="lst" cel="unu.mezur0o" lst="voko:mezurunuoj">mezurunuo</ref> de
       <ref cel="prem.0o.FIZ">premo</ref>, egala al la premo de kolono el
       hidrargo, alta je 0,76 m, &ccirc;e normala graviteco kaj
-      temperaturo 0 &#730;C:
+      temperaturo 0 &#x2DA;C:
       <ekz>
         unu <tld/>o egalas al 1,013.10<sup>5</sup>
         <ref cel="paskal.p0o">paskaloj</ref>.
@@ -73,8 +71,14 @@
   <trd lng="en">atmosphere</trd>
   <trd lng="es">atm&oacute;sfera</trd>
   <trd lng="fr">atmosph&egrave;re</trd>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5D8;&#x5DE;&#x5D5;&#x5B9;&#x5E1;&#x5E4;&#x5B5;&#x5E8;&#x5B8;&#x5D4;</trd>
   <trd lng="id">atmosfer</trd>
   <trd lng="it">atmosfera</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x6C17;  [<ind>&#x305F;&#x3044;&#x304D;</ind>]</trd>,
+    <trd>&#x96F0;&#x56F2;&#x6C17;  [<ind>&#x3075;&#x3093;&#x3044;&#x304D;</ind>]</trd>,
+    <trd>&#x6C17;&#x5727;  [<ind>&#x304D;&#x3042;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">atmosfeer</trd>
   <trd lng="pl">atmosfera</trd>
   <trd lng="pt">atmosfera</trd>
@@ -85,6 +89,10 @@
     <trd>povetrie</trd>
   </trdgrp>
   <trd lng="sv">atmosf&auml;r</trd>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x442;&#x43C;&#x43E;&#x441;&#x444;&#x435;&#x440;&#x430;</trd>,
+    <trd>&#x43E;&#x431;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43A;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

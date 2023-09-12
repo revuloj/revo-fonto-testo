@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: koklus.xml,v 1.12 2009/08/23 16:31:34 revo Exp $">
+<art mrk="$Id: koklus.xml,v 1.18 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>koklu&scirc;</rad>/o
@@ -12,20 +11,18 @@
   <uzo tip="fak">MED</uzo>
   <snc>
     <dif>
-      Infekta <ref tip="lst" cel="san.mal0o.MED"
-      lst="voko:malsanoj">malsano</ref>, 
+      Infekta <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>, 
       ka&ubreve;zita de la bakterio <nom>Bordetella pertussis</nom>,
       foje anka&ubreve; <nom>Bordetella parapertussis</nom>, kaj
       karakterizata de konvulsia tuso:
       <ekz>
         la juna <nom>Szathm&aacute;ri</nom> estis &gcirc;is la 15-a vivjaro malsanema kun malforta korpo kaj
-        sentema nervosistemo, li <klr>[&#8230;]</klr> suferis preska&ubreve; da&ubreve;re je angino, sed
+        sentema nervosistemo, li <klr>[&#x2026;]</klr> suferis preska&ubreve; da&ubreve;re je angino, sed
         anka&ubreve; aliaj malsanoj turmentis lin kiel tifo, morbilo, varicelo, <tld/>o,
         difterio, maksila sinusito
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=3975"
-              >S&aacute;ndor Szathm&aacute;ri</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=3975">S&aacute;ndor Szathm&aacute;ri</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -46,12 +43,14 @@
     <trd><ind>batuk</ind> rejan</trd>,
     <trd>pertusis</trd>
   </trdgrp>
+  <trd lng="ja">&#x767E;&#x65E5;&#x54B3;  [<ind>&#x3072;&#x3083;&#x304F;&#x306B;&#x3061;&#x305C;&#x304D;</ind>]</trd>
   <trd lng="nl">kinkhoest</trd>
   <trdgrp lng="pl">
   <trd>krztusiec</trd>,
   <trd>koklusz <klr>(pot.)</klr></trd>
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_k;&c_l;&c_ju;&c_sh;</trd>
+  <trd lng="uk">&#x43A;&#x43E;&#x43A;&#x43B;&#x44E;&#x448;</trd>
 </drv>
 </art>
 <!--

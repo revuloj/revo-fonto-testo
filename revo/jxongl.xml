@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: jxongl.xml,v 1.22 2009/08/19 18:42:30 revo Exp $">
+<art mrk="$Id: jxongl.xml,v 1.31 2023/08/31 18:25:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&jcirc;ongl</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,16 +12,59 @@
   <snc mrk="jxongl.0i.SPO">
     <uzo tip="fak">SPO</uzo>
     <dif>
-      Lerte &jcirc;eti en aeron diversajn objektojn kaj rekapti por ilin tuj
-      re&jcirc;eti.
+      Lerte <ref tip="super" cel="jxet.0i.tra_aero">&jcirc;eti</ref> en aeron diversajn 
+      objektojn kaj rekapti por ilin tuj re&jcirc;eti:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        komenci&gcirc;as la <tld/>ad' / per fork', tran&ccirc;ilo kaj kuler', / kaj nur perfekta
+        akrobat' / sin nutri povas sen sufer'
+        <fnt>
+          <aut>Raymond Schwartz</aut>
+          <vrk><url ref="&Steloj;butiko">La Stranga Butiko</url></vrk>
+          <lok>Vagonrestoracio</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <snc mrk="jxongl.0i.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Lerte ludi:
+      Rapide <ref tip="super" cel="manipu.0i">manipuli</ref> plurajn aferojn
+      samtempe, iluziigi:
       <ekz>
-        <tld/>i per la rimoj.
+        la infanoj miregis, vidante &hcirc;emiajn eksperimentojn, kiuj &scirc;ajnis al ili tiel
+        nekompreneblaj kiel <klr>[&#x2026;]</klr> <tld/>a&jcirc;oj
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi montros al vi &jcirc;onglon, li diras al la servanto <klr>[&#x2026;]</klr> &ccirc;u tio &ccirc;i estas
+        kulereto? <klr>[&#x2026;]</klr> &ndash; kie do &gcirc;i estas nun?
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni jam ne estu infanoj, onde &jcirc;etataj <klr>[&#x2026;]</klr> de &ccirc;iu vento de doktrino,
+        per <tld/>ado de homoj, per ruzo la&ubreve; artifiko
+        <fnt>
+          <bib>NT</bib>
+          <lok>Efesanoj 4:14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per facila manipulado li kungluis preska&ubreve; <tld/>e pecojn de porcelano kaj
+        fajenco, dume parolante sen&ccirc;ese
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li lerte <tld/>is per la lingva materialo, kiun li kapablis sprite vivigi
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -31,10 +73,18 @@
   </snc>
   <trd lng="be">&c_zh;&c_a;&c_n;&c_g;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">fer malabars</trd>
-  <trd lng="de">jonglieren</trd>
+  <trdgrp lng="de">
+    <trd>jonglieren</trd>,
+    <trd>gaukeln</trd>
+  </trdgrp>
   <trd lng="en">juggle</trd>
   <trd lng="es">hacer <ind>malabarismos</ind></trd>
   <trd lng="fr">jongler</trd>
+  <trdgrp lng="ja">
+    <trd>&#x66F2;&#x82B8;&#x3092;&#x3059;&#x308B;  [<ind>&#x304D;&#x3087;&#x304F;&#x3052;&#x3044;&#x3092;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x624B;&#x54C1;&#x3092;&#x3059;&#x308B;  [<ind>&#x3066;&#x3058;&#x306A;&#x3092;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5DE7;&#x307F;&#x306B;&#x6271;&#x3046;  [<ind>&#x305F;&#x304F;&#x307F;&#x306B;&#x3042;&#x3064;&#x304B;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">jongleren</trd>
   <trd lng="hu">zsongl&odblac;rk&ouml;dik</trd>
   <trd lng="pt">fazer malabarismos</trd>
@@ -42,22 +92,62 @@
 &c_zh;&c_o;&c_n;&c_g;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sv">jonglera</trd>
   <trd lng="it">gioglare</trd>
+  <trd lng="uk">&c_zh;&#x43E;&#x43D;&c_gu;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="jxongl.0isto">
   <kap><tld/>isto</kap>
   <snc mrk="jxongl.0isto.SPO">
     <dif>
-      Profesia <tld/>anto, lerta amuzisto.
+      Profesia <tld/>anto, lerta <ref tip="super" cel="amuz.0isto">amuzisto</ref>:
+      <ekz>
+        la brando estas pagita, diras la <tld/>isto, &jcirc;etante moneron sur la tablon
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        aperis dancistinoj, gimnastikistoj, arlekenoj, <tld/>istoj kaj skermistoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        seso da <tld/>istoj <klr>[&#x2026;]</klr> ludis serion da treege lertaj &jcirc;ongla&jcirc;oj, jen
+        unuope, jen du- a&ubreve; triope, a&ubreve; &ccirc;iuj kune
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="iluzi.0isto">iluziisto</ref>,
       <ref cel="presti.0o">prestidigitatoro</ref>
     </refgrp>
   </snc>
+  <snc mrk="jxongl.0isto.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Iu kiu lerte kapablas manipuli plurajn aferojn samtempe:
+      <ekz>
+        financ-<tld/>istoj tutmonde jam longe anta&ubreve;e flaras estontajn tendencojn kaj
+        scias, kio promesos novajn gajnojn
+        <fnt>
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007123.html">Defio a&ubreve; devio de politiko</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 6</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
   <trd lng="be">&c_zh;&c_a;&c_n;&c_g;&c_l;&c_jo;&c_r;</trd>
   <trd lng="ca">malabarista</trd>
-  <trd lng="de">Jongleur</trd>
+  <trdgrp lng="de">
+    <trd>Jongleur</trd>,
+    <trd>Gaukler</trd>
+  </trdgrp>
   <trd lng="en">juggler</trd>
   <trd lng="es">malabarista</trd>
   <trd lng="el">
@@ -66,25 +156,31 @@
   <trd lng="fr">jongleur</trd>
   <trd lng="hu">zsongl&odblac;r</trd>
   <trd lng="it">giocoliere</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30B8;&#x30E3;&#x30B0;&#x30E9;&#x30FC;</trd>,
+    <trd>&#x624B;&#x54C1;&#x5E2B;  [<ind>&#x3066;&#x3058;&#x306A;&#x3057;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">jongleur</trd>
   <trd lng="pt">malabarista</trd>
   <trd lng="ru">&c_zh;&c_o;&c_n;&c_g;&c_l;&c_jo;&c_r;</trd>
   <trd lng="sv">jongl&ouml;r</trd>
+  <trd lng="uk">&c_zh;&#x43E;&#x43D;&c_gu;&#x43B;&c_je;&c_r;</trd>
 </drv>
 
 <drv mrk="jxongl.for0i">
   <kap>for<tld/>i</kap>
   <snc mrk="jxongl.for0i.KOMUNE">
     <dif>
-      Lerte forigi, for<ref tip="vid" cel="kasx.0i.KOMUNE">ka&scirc;i</ref>:
+      Lerte forigi, for<ref tip="vid" cel="kasx.0i">ka&scirc;i</ref>:
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        &scirc;i neniel aludis mian viziton.
-        Probable oni &gcirc;in for<tld/>is de &scirc;ia scio
+        &scirc;i neniel aludis mian viziton,
+        probable oni &gcirc;in for<tld/>is de &scirc;ia scio
         <fnt><aut>R. Radiguet, trad. M. Duc Goninaz</aut>, <vrk>Kun 
         Diablo en la korpo</vrk>, <lok>Mondial, 2006</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de">wegzaubern</trd>
   </snc>
   <trdgrp lng="ca">
     <trd>fer desapar&egrave;ixer</trd>,
@@ -98,28 +194,32 @@
     <trd>wegtoveren</trd>,
     <trd>weggoochelen</trd>
   </trdgrp>
+  <trd lng="pt">escamotear</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.30 2023/04/30 13:26:32
+Paul Peeraerts: Steloj -> monato
+
+versio 1.29 2022/07/14 09:32:37
+Wolfram Diestel: +kor. ref
+
+versio 1.28 2022/04/30 08:42:43
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2021/08/21 20:28:02
+Wolfram Diestel: +trd de
+
+versio 1.25 2021/08/21 19:20:18
+Wolfram Diestel: ekz-oj, revortigo snc FIG
+
+versio 1.24 2020/03/22 08:59:59
+James Rezende Piton: +trd pt
+
+Revision 1.23  2011/12/12 10:10:18  revo
+Marc Rausell: +trd ca
+
 Revision 1.22  2009/08/19 18:42:30  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.21  2009/03/12 17:31:13  revo
-Antonio Codazzi: ++trd it
-
-Revision 1.20  2007/08/23 16:30:45  revo
-Jeromo Vasxe: + for~i
-
-Revision 1.19  2004/10/11 16:33:08  revo
-Marc Bavant: +uzo SPO, kor ref tip sin
-
-Revision 1.18  2004/02/25 17:31:08  revo
-Jozefo Horvath: +trd hu
-
-Revision 1..17  2003/01/02 17:43:02  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.16  2002/11/10 11:41:47  revo
 -->
 </vortaro>

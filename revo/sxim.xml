@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sxim.xml,v 1.31 2023/09/04 15:14:35 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>&scirc;im</rad>/i
@@ -12,17 +11,23 @@
   <gra><vspec>ntr</vspec></gra>
   <snc>
     <dif>
-      Kovri&gcirc;i, putri&gcirc;i per <ref
-      cel="sxim.0o.kovrajxo"><tld/>o</ref>:
+      Kovri&gcirc;i per <ref cel="sxim.0o.kovrajxo"><tld/>o</ref>,
+      <ref tip="sin" cel="putr.0i">putri</ref>:
       <ekz>
-        la nevenditaj libroj <tld/>as sur la bretoj.
+        fari&gcirc;inte posedanto de &ccirc;i tiuj duone <tld/>intaj paperoj, Arkadio, trankvili&gcirc;is
+        <fnt>
+          <bib>PatrojFiloj</bib>
+        </fnt>.
       </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="putr.0i">putri</ref>,
-      <ref cel="mucid.0a">mucida</ref>.
-    </refgrp>
+    <bld lok="&WCU;/thumb/2/27/DecayingPeachSmall.gif/200px-DecayingPeachSmall.gif" prm="CC BY-SA     2.0">persiko <tld/>anta dum ses tagoj
+        <fnt>
+          <aut>Andrew Dunn, http://www.andrewdunnphoto.com/, propra verko</aut>
+          <lok><url ref="&WCW;/File:DecayingPeachSmall.gif">&WCW;/File:DecayingPeachSmall.gif</url></lok>
+        </fnt>
+    </bld>    
   </snc>
+<!-- mankas cita&jcirc;o
   <snc>
     <uzo tip="stl">FIG</uzo>
     <dif>
@@ -32,6 +37,7 @@
       </ekz>
     </dif>
   </snc>
+--> 
   <trdgrp lng="be">
     <trd>&c_b;&c_r;&c_o;&c_s;&c_mol;&c_n;&c_je;&c_c;&c_mol;</trd>, 
     <trd>&c_p;&c_l;&c_je;&c_s;&c_mol;&c_n;&c_je;&c_c;&c_mol;</trd>, 
@@ -55,6 +61,12 @@
     <trd>ammuffire</trd>,
     <trd>far la <ind>muffa</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x304B;&#x3073;&#x308B;</trd>,
+    <trd>&#x30AB;&#x30D3;&#x304C;&#x751F;&#x3048;&#x308B;  [<ind>&#x30AB;&#x30D3;&#x304C;&#x306F;&#x3048;&#x308B;</ind>]</trd>,
+    <trd>&#x304F;&#x3059;&#x3076;&#x3063;&#x3066;&#x3044;&#x308B;</trd>,
+    <trd>&#x7121;&#x70BA;&#x306B;&#x904E;&#x3054;&#x3059;  [<ind>&#x3080;&#x3044;&#x306B;&#x3059;&#x3054;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">schimmelen</trd>
   <trdgrp lng="pt">
     <trd>mofar</trd>,
@@ -66,25 +78,119 @@
      </trd>
   </trdgrp>
   <trd lng="sv">m&ouml;gla</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_ib;&c_s;&#x43D;&#x44F;&c_v;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&#x43E;&#x43A;&c_r;&c_i;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;
+    &c_c;&c_v;&c_ib;&#x43B;&#x43B;&#x44E;/&#x43F;&#x43B;&c_ib;&c_s;&c_je;&#x43D;&#x43D;&#x44E;/&#x43F;&#x43B;&c_ib;&c_s;&#x43D;&#x44F;&c_v;&#x43E;&#x44E;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="sxim.0o.kovrajxo">
-  <kap><tld/>o</kap>
+<drv mrk="sxim.0a">
+  <kap>
+    <tld/>a
+  </kap>
   <snc>
     <dif>
-     Kovra&jcirc;o de <ref tip="prt"
-     cel="sxim.0fungo"><tld/>fungo</ref>.
+      Putrinta pro <tld/>o:
+      <ekz>
+        la aran&gcirc;o de la man&gcirc;a&jcirc;oj estis bonega! <tld/>a pano, lardha&ubreve;to, sebaj kandeloj
+        kaj kolbaso
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Supo el kolbasaj bastonetoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni venas en malaltan arka&jcirc;an kelon <klr>[kie]</klr> &ccirc;io estis malagrabla, kruda
+        kaj <tld/>a
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Historio el la dunoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ilia tuta pano estis malfre&scirc;a kaj <tld/>i&gcirc;inta
+        <fnt>
+          <bib>MT</bib>
+          <lok>Josuo 9:5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="mucid.0a">mucida</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_mol;&c_v;&c_ib;&c_l;&c_y;</trd>,
+    <trd>&c_s;&c_p;&c_l;&c_ja;&c_s;&c_mol;&c_n;&c_je;&c_l;&c_y;</trd>,
+    <trd>&c_z;&c_b;&c_r;&c_o;&c_s;&c_mol;&c_n;&c_je;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">schimmlig</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30D3;&#x306E;  [<ind>&#x304B;&#x3073;&#x306E;</ind>]</trd>,
+    <trd>&#x304B;&#x3073;&#x305F;</trd>,
+    <trd>&#x30AB;&#x30D3;&#x306E;&#x751F;&#x3048;&#x305F;  [<ind>&#x304B;&#x3073;&#x306E;&#x306F;&#x3048;&#x305F;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_ib;&c_s;&#x43D;&#x44F;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_c;&c_v;&c_ib;&#x43B;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxim.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sxim.0o.kovrajxo">
+    <dif>
+      Kovra&jcirc;o de <ref tip="prt" cel="sxim.0fungo"><tld/>fungo</ref>:
+      <ekz>
+        skeletoj de rosmaroj <klr>[&#x2026;]</klr> kovritaj de verdeta <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        longe ku&scirc;inta greno, <klr>[&#x2026;]</klr> kiun homoj jam ne volas man&gcirc;i, &ccirc;ar pro
+        malnoveco &gcirc;i odoras <tld/>on
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="de">Schimmel <klr tip="amb">(-pilzbelag)</klr></trd>
   </snc>
   <snc mrk="sxim.0o.fungo">
-    <ref tip="dif" cel="sxim.0fungo"><tld/>fungo</ref>
+    <dif>
+      <ref tip="dif" cel="sxim.0fungo"><tld lit="&Scirc;"/>fungo</ref>:
+      <ekz>
+        la plej disvasti&gcirc;intaj alergenoj inkluzivas <klr>[&#x2026;]</klr> iujn tipojn de poleno
+        kaj <tld/>o
+        <fnt>
+        <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/010953.php">Alergio &dash; Zorga
+          gardisto nenion preteratentas</url></vrk>
+           <bib>Monato</bib>
+           <lok>2013/04, p. 23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_je;&c_s;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_b;&c_r;&c_o;&c_s;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_c;&c_mol;&c_v;&c_ib;&c_l;&c_mol;</trd>
+  </trdgrp>
   <trd lng="es">moho</trd>
   <trd lng="fa">&f_k;&f_p;&f_k;</trd>
   <trd lng="fr">moisissure</trd>
   <trd lng="it">muffa</trd>
+  <trd lng="ja">&#x30AB;&#x30D3;</trd>
   <trd lng="sv">m&ouml;gel</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_ib;&c_s;&c_je;&#x43D;&#x44C;</trd>,
+    <trd>&#x43F;&#x43B;&c_ib;&c_s;&#x43D;&#x44F;&c_v;&c_a;</trd>,
+    <trd>&c_c;&c_v;&c_ib;&#x43B;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sxim.0fungo">
@@ -103,13 +209,34 @@
       &scirc;imfungoj)</klr>.
     </dif>
   </snc>
+  <trd lng="be">&c_c;&c_mol;&c_v;&c_ib;&c_l;&c_jo;&c_v;&c_y; <ind>&c_g;&c_r;&c_y;&c_b;</ind></trd>
   <trd lng="de">Schmimmelpilz</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_ib;&c_s;&c_je;&#x43D;&#x44C;</trd>,
+    <trd>&#x43F;&#x43B;&c_ib;&c_s;&#x43D;&#x44F;&c_v;&c_a;</trd>,
+    <trd>&c_c;&c_v;&c_ib;&#x43B;&#x44C;</trd>
+  </trdgrp>
 </drv>
 
 
 </art>
 <!--
 $Log$
+versio 1.30 2023/05/13 11:22:05
+Paul Peeraerts: + lok + aut + url
+
+versio 1.29 2023/05/06 14:26:05
+revo: aktualigo URL-unuoj
+
+versio 1.28 2022/09/23 07:49:04
+Dmitri Gabinski: + trd be
+
+versio 1.27 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2021/05/09 20:48:04
+Wolfram Diestel: +~a; ekz-oj, bld
+
 Revision 1.23  2013/11/02 14:10:31  revo
 Wolfram Diestel: kor. ref-cel
 
@@ -117,17 +244,5 @@ Revision 1.22  2013/11/01 12:10:12  revo
 Wolfram Diestel: +~fungo, prilaboris difinojn
 
 Revision 1.21  2012/11/29 01:10:08  revo
-Behnam Tabatabai: +trd fa
-
-Revision 1.20  2012/08/10 14:12:14  revo
-Axel Rousseau: +trd fr
-
-Revision 1.19  2010/11/10 17:30:42  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.18  2009/04/05 16:30:36  revo
-Antonio Codazzi: +trd it; +~o
-
-Revision 1.17  2002/11/01 09:16:48  revo
 -->
 </vortaro>

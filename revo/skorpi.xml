@@ -1,12 +1,37 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: skorpi.xml,v 1.37 2023/09/03 18:39:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>skorpi</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
+<drv mrk="skorpi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="skorpi.0o.ZOO">
+    <dif>
+      Iu el <tld/>oj:
+      <ekz>Inter ili trovi&gcirc;as fi&scirc;oj, akvolilioj, skeleto de mezosa&ubreve;ro, flugsa&ubreve;ro, kraboj, terciara
+      hipokampo, <tld/>o el la kretaceo, fosilia rano kun konservi&gcirc;inta ha&ubreve;to el la mioceno.
+        <fnt>
+          <aut>Jomo Ipfelkofer</aut>
+          <vrk>Fosilioj en suda Germanio</vrk>
+          <bib>Monato</bib>
+          <lok>jaro 2008a, numero 5a, p. 18a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_p;&c_ib;&c_jo;&c_n;</trd>
+  <trd lng="de">Skorpion</trd>
+  <trd lng="en">scorpion</trd>
+  <trd lng="es">escorpi&oacute;n</trd>
+  <trd lng="fr">scorpion</trd>
+  <trd lng="nl">schorpioen</trd>
+  <trd lng="pl">skorpion</trd>
+  <trd lng="ro">scorpion</trd>
+</drv>
+
 <drv mrk="skorpi.0oj">
   <kap><tld/>oj</kap>
   <snc mrk="skorpi.0oj.ZOO">
@@ -31,29 +56,29 @@
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_p;&c_ib;&c_jo;&c_n;</trd>
+  <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_p;&c_ib;&c_jo;&c_n;&c_y;</trd>
   <trd lng="ca">escorpins</trd>
   <trd lng="de">Skorpione</trd>
-  <trd lng="en">scorpion</trd>
-  <trd lng="es">escorpi&oacute;n</trd>
+  <trd lng="en">scorpions</trd>
+  <trd lng="es">escorpiones</trd>
   <trd lng="fr">scorpions</trd>
-  <trd lng="hu">skorpi&oacute;k<klr tip="ind"> (rend></klr></trd>
+  <trd lng="hu">skorpi&oacute;k<klr tip="ind"> (rend&gt;</klr></trd>
   <trd lng="id">kalajengking</trd>
   <trd lng="nl">schorpioenen</trd>
   <trd lng="pl">skorpiony</trd>
+  <trd lng="ro">scorpionii</trd>
   <trd lng="ru">&c_s;&c_k;&c_o;&c_r;&c_p;&c_i;&c_o;&c_n;</trd>
 </drv>
 
 <drv mrk="skorpi.S0o">
   <kap><tld lit="S"/>o</kap>
   <mlg>Sco</mlg>
-  <mlg>&#9807;&#xFE0E;</mlg>
+  <mlg>&#x264F;&#xFE0E;</mlg>
   <snc mrk="skorpi.S0o.AST">
     <uzo tip="fak">AST</uzo>
     <dif>
-      <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj"
-      val="8">Stelfiguro</ref> kaj signo de la <ref tip="malprt"
-      cel="zodiak.0o">zodiako</ref>
+      <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj" val="8">Stelfiguro</ref> kaj
+      signo de la <ref tip="malprt" cel="zodiak.0o">zodiako</ref>
       (<trd lng="la">Scorpio</trd>):
       <ekz>protektas kaj gardas nin stelo, kiun e&ubreve;ropaj astronomoj
       mistifike nomas Antareso, t.e. Anti-Areso a&ubreve; Mal-Marso, en la
@@ -67,6 +92,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_S;&c_k;&c_a;&c_r;&c_p;&c_ib;&c_jo;&c_n;</trd>
+  <trd lng="bo">&#xF66;&#xFA1;&#xF72;&#xF42;&#xF0B;&#xF54;&#xF0B;&#xF62;&#xF0B;&#xF62;&#xFA9;&#xF0B;</trd>
   <trd lng="ca">(l') Escorpi&oacute;</trd>
   <trd lng="cs">&scaron;t&iacute;r</trd>
   <trd lng="de">Skorpion</trd>
@@ -80,14 +106,30 @@
     <trd>Kala</trd>,
     <trd>Skorpio</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B5;&#x30BD;&#x30EA;</trd>,
+    <trd>&#x3055;&#x305D;&#x308A;&#x97AD;  [<ind>&#x3055;&#x305D;&#x308A;&#x3080;&#x3061;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">schorpioen</trd>
-  <trd lng="pl">skorpion</trd>
+  <trd lng="pl">Skorpion  <klr>(gwiazdozbi&oacute;r)</klr></trd>
+  <trd lng="ro">Scorpionul  <klr>(constela&#x21B;ie)</klr></trd>
   <trd lng="ru">&c_S;&c_k;&c_o;&c_r;&c_p;&c_i;&c_o;&c_n;</trd>
   <trd lng="sk">&scaron;korpi&oacute;n</trd>
+  <trd lng="uk">&c_s;&#x43A;&#x43E;&c_r;&#x43F;&c_ib;&#x43E;&#x43D; (&c_z;&c_a;&c_g;&c_a;&#x43B;&#x44C;&#x43D;&c_a;
+  &#x43D;&c_a;&c_z;&c_v;&c_a;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.36 2022/10/21 20:39:29
+Vito Redsky: +trd pl + trd ro
+
+versio 1.35 2022/06/22 09:30:40
+Dmitri Gabinski: + trd be
+
+versio 1.32 2021/04/21 17:31:45
+Bart Demeyere: +skorpio; korekti trd skorpioj
+
 Revision 1.30  2017/06/06 16:10:20  revo
 Ludoviko Francisco: +klr trd fr
 
@@ -101,11 +143,5 @@ Revision 1.27  2015/06/29 16:33:23  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.26  2014/06/06 15:10:48  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.25  2013/09/23 19:10:24  revo
-Wolfram Diestel: ref al list zodiakoaj signoj, mlg
-
-Revision 1.24  2013/01/09 14:10:13  revo
 -->
 </vortaro>

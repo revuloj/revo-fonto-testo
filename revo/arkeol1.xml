@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: arkeol1.xml,v 1.22 2010/11/24 17:30:20 revo Exp $">
+<art mrk="$Id: arkeol1.xml,v 1.38 2023/08/30 18:23:36 revo Exp $">
 <kap>
   <ofc>3</ofc><rad>arkeologi</rad>/o <fnt><bib>PV</bib></fnt>,
-  <var><kap><ofc>3</ofc><rad>ar&hcirc;eologi</rad>/o</kap></var>
+  <var><kap><ofc>3</ofc><rad var="&hcirc;">ar&hcirc;eologi</rad>/o</kap></var>
 </kap>
 
 <drv mrk="arkeol1.0o">
-  <kap><tld/>o, <var><kap>ar&hcirc;eologio</kap></var></kap>
+  <kap><tld/>o, <var><kap><tld var="&hcirc;"/>o</kap></var></kap>
   <snc mrk="arkeol1.0o.ARKE">
     <uzo tip="fak">ARKE</uzo>
     <uzo tip="fak">SCI</uzo>
@@ -34,11 +33,13 @@
   <trd lng="es">arqueolog&iacute;a</trd>
   <trd lng="fa">&a_b;&a_A;&a_s;&a_t;&a_A;&a_n;&zwnj;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
   <trd lng="fr">arch&eacute;ologie</trd>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5E8;&#x5DB;&#x5B5;&#x5D9;&#x5D0;&#x5D5;&#x5B9;&#x5DC;&#x5D5;&#x5B9;&#x5D2;&#x5B4;&#x5D9;&#x5B8;&#x5D4;</trd>
   <trdgrp lng="hu">
     <trd>r&eacute;g&eacute;szet</trd>,
     <trd>archeol&oacute;gia</trd>
   </trdgrp>
   <trd lng="it">archeologia</trd>
+  <trd lng="ja">&#x8003;&#x53E4;&#x5B66;  [<ind>&#x3053;&#x3046;&#x3053;&#x304C;&#x304F;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>oudheidkunde</trd>,
     <trd>archeologie</trd>
@@ -53,10 +54,11 @@
     <trd>arkeologi</trd>,
     <trd>fornforskning</trd>
   </trdgrp>
+  <trd lng="uk">&c_a;&c_r;&c_h;&c_je;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&#x44F;</trd>
 </drv>
 
 <drv mrk="arkeol1.0a">
-  <kap><tld/>a, <var><kap>ar&hcirc;eologia</kap></var></kap>
+  <kap><tld/>a, <var><kap><tld var="&hcirc;"/>a</kap></var></kap>
   <snc mrk="arkeol1.0a.scienca">
     <dif>
       Rilata al <tld/>o, al ties metodoj, esploradoj, konkludoj:
@@ -74,18 +76,19 @@
         pri la plej
         antikva ponto en Irlando
         <fnt>
+          <aut>M&aacute;ire NicAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006878.php">&Gcirc;ardenumi</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006878.html"
-              >Dommastrumo: &Gcirc;ardenumi</url></vrk>
-        </fnt>;
+          <lok>2000/04, p. 20</lok>
+          </fnt>;
       </ekz>
       <ekz>
         trovita dum <tld/>aj foslaboroj
         <fnt>
           <bib>Monato</bib>
           <aut>Lida Elbakjan</aut>
-          <vrk><url ref="https://www.monato.be/2003/007590.html"
-              >Armenio festis 1700 jarojn da kristanismo</url></vrk>
+          <vrk><url ref="&Monato;/2003/007590.html">Armenio festis 1700 jarojn da
+          kristanismo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -93,16 +96,14 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="https://www.monato.be/2007/008994.php"
-              >Printempa etoso &ccirc;e la lago de Ohrid</url></vrk>
+          <vrk><url ref="&Monato;/2007/008994.php">Printempa etoso &ccirc;e la lago de Ohrid</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la urbestro de Jerusalemo anoncis gravan ar&hcirc;eologian malkovron
+        la urbestro de Jerusalemo anoncis gravan <tld var="&hcirc;"/>an malkovron
         <fnt>
           <aut>P. Cezar Pires</aut>,
-          <vrk><url
-          ref="https://esperanto.blog/2018/01/03/sigelo-2700-jaraga-de-la-tiama-jerusalema-substatestro-estis-trovita/">
+          <vrk><url ref="https://esperanto.blog/2018/01/03/sigelo-2700-jaraga-de-la-tiama-jerusalema-substatestro-estis-trovita/">
           Sigelo 2700-jara&gcirc;a de la tiama jerusalema
           sub&scirc;tatestro estis trovita</url></vrk>,
           <lok>esperanto.blog, 2018-01-03</lok>
@@ -139,11 +140,13 @@
     <trd>archaeological</trd>,
   </trdgrp>
   <trd lng="fr">arch&eacute;ologique</trd>
+  <trd lng="he">&#x5D0;&#x5B7;&#x5E8;&#x5DB;&#x5B5;&#x5D9;&#x5D0;&#x5D5;&#x5B9;&#x5DC;&#x5D5;&#x5B9;&#x5D2;&#x5B4;&#x5D9;&#x5B8;&#x5D4;</trd>
   <trdgrp lng="hu">
     <trd>r&eacute;g&eacute;szeti</trd>,
     <trd>archeol&oacute;giai</trd>
   </trdgrp>
   <trd lng="it">archeologico</trd>
+  <trd lng="ja">&#x8003;&#x53E4;&#x5B66;&#x4E0A;&#x306E;  [<ind>&#x3053;&#x3046;&#x3053;&#x304C;&#x304F;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>oudheidkundig</trd>,
     <trd>archeologisch</trd>
@@ -202,6 +205,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_v;&c_o;&c_d;&c_n;&c_a;&c_ja; <ind>&c_a;&c_r;&c_h;&c_je;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</ind></trd>
   <trd lng="de">Unterwasser<ind>arch&auml;ologie</ind></trd>
   <trdgrp lng="en">
     <trd>underwater archeology</trd>,
@@ -219,6 +223,21 @@
 </art>
 <!--
 $Log$
+versio 1.37 2023/04/15 10:28:39
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.36 2022/12/09 08:33:03
+Dmitri Gabinski: + trd be
+
+versio 1.35 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.34 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.31 2020/09/09 19:10:34
+Wolfram Diestel: +tld-var
+
 Revision 1.29  2019/09/23 19:10:17  revo
 Wolfram Diestel: +var, ekz-oj
 
@@ -226,17 +245,5 @@ Revision 1.28  2018/01/05 21:10:12  revo
 Jeromo Vasxe: + mrk, + subakva -o
 
 Revision 1.27  2017/07/04 22:10:19  revo
-Vito Redsky: +trd ro +trd pl
-
-Revision 1.26  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.25  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.24  2013/09/02 18:10:12  revo
-Joop Eggen: korekto bg nl
-
-Revision 1.23  2012/02/14 01:10:18  revo
 -->
 </vortaro>

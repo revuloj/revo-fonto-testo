@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tarif.xml,v 1.24 2023/09/04 17:49:39 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>tarif</rad>/o
@@ -51,6 +50,15 @@
     <trd>tarifa</trd>,
     <trd>d&iacute;jszab&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6599;&#x91D1;&#x8868;  [<ind>&#x308A;&#x3087;&#x3046;&#x304D;&#x3093;&#x3072;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5B9A;&#x4FA1;&#x8868;  [<ind>&#x3066;&#x3044;&#x304B;&#x3072;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x904B;&#x8CC3;&#x8868;  [<ind>&#x3046;&#x3093;&#x8CC3;&#x8868;</ind>]</trd>,
+    <trd>&#x6599;&#x91D1;  [<ind>&#x308A;&#x3087;&#x3046;&#x304D;&#x3093;</ind>]</trd>,
+    <trd>&#x904B;&#x8CC3;  [<ind>&#x3046;&#x3093;&#x3061;&#x3093;</ind>]</trd>,
+    <trd>&#x95A2;&#x7A0E;&#x8868;  [<ind>&#x304B;&#x3093;&#x305C;&#x3044;&#x304A;&#x3082;&#x3066;</ind>]</trd>,
+    <trd>&#x95A2;&#x7A0E;&#x7387;&#x8868;  [<ind>&#x304B;&#x3093;&#x305C;&#x3044;&#x308A;&#x3064;&#x304A;&#x3082;&#x3066;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tarief</trd>
   <trdgrp lng="pl">
     <trd>taryfa</trd>,
@@ -62,6 +70,7 @@
   </trdgrp>
   <trd lng="ru">&c_t;&c_a;&c_r;&c_i;&c_f;</trd>
   <trd lng="sk">sadzba</trd>
+  <trd lng="uk">&#x442;&#x430;&#x440;&#x438;&#x444;</trd>
 </drv>
 
 <drv mrk="tarif.0i">
@@ -98,6 +107,11 @@
     <trd>d&iacute;jat meg&aacute;llap&iacute;t</trd>,
     <trd>d&iacute;jat szab</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6599;&#x91D1;&#x3092;&#x5B9A;&#x3081;&#x308B;  [<ind>&#x308A;&#x3087;&#x3046;&#x304D;&#x3093;&#x3092;&#x3055;&#x3060;&#x3081;&#x308B;</ind>]</trd>,
+    <trd>&#x4FA1;&#x683C;&#x3092;&#x6C7A;&#x3081;&#x308B;  [<ind>&#x304B;&#x304B;&#x304F;&#x3092;&#x304D;&#x3081;&#x308B;</ind>]</trd>,
+    <trd>&#x95A2;&#x7A0E;&#x3092;&#x304B;&#x3051;&#x308B;  [<ind>&#x304B;&#x3093;&#x305C;&#x3044;&#x3092;&#x304B;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>okre&sacute;la&cacute; <ind>taryf&eogonek;</ind></trd>,
     <trd>ustala&cacute; <ind>stawk&eogonek;</ind></trd>
@@ -105,6 +119,11 @@
   <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;
   <ind>&c_t;&c_a;&c_r;&c_i;&c_f;</ind></trd>
   <trd lng="sk">tarifova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438; &#x442;&#x430;&#x440;&#x438;&#x444;</trd>,
+    <trd>&#x440;&#x43E;&#x431;&#x438;&#x442;&#x438; &#x442;&#x430;&#x440;&#x438;&#x444;&#x456;&#x43A;&#x430;&#x446;&#x456;&#x44E;</trd>,
+    <trd>&#x442;&#x430;&#x440;&#x438;&#x444;&#x456;&#x43A;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

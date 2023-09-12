@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ilumin.xml,v 1.15 2005/10/26 16:31:17 revo Exp $">
+<art mrk="$Id: ilumin.xml,v 1.25 2023/08/31 16:40:56 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>ilumin</rad>/i
@@ -57,10 +56,21 @@
   <trd lng="fr">illuminer<klr tip="ind"> (dans un but
   d&eacute;coratif)</klr></trd>
   <trd lng="hu">kivil&aacute;g&iacute;t</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7167;&#x660E;&#x3059;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x30A4;&#x30EB;&#x30DF;&#x30CD;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x3067;&#x98FE;&#x308B;  [<ind>&#x30A4;&#x30EB;&#x30DF;&#x30CD;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x3067;&#x304B;&#x3056;&#x308B;</ind>]</trd>,
+    <trd>&#x5929;&#x5553;&#x3092;&#x4E0E;&#x3048;&#x308B;  [<ind>&#x3066;&#x3093;&#x3042;&#x304D;&#x3089;&#x3092;&#x3042;&#x305F;&#x3048;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verlichten</trd>
   <trd lng="pt">iluminar<klr tip="amb"> (ornar com luzes)</klr></trd>
   <trd lng="ru">&c_i;&c_l;&c_l;&c_ju;&c_m;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">sl&aacute;vnostne osvetli&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43B;&#x44E;&#x43C;&c_ib;&#x43D;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_s;&c_v;&c_ib;&c_t;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43F;&c_r;&#x43E;&c_s;&c_v;&c_ib;&c_t;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&#x43F;&c_r;&#x43E;&#x43C;&c_ib;&#x43D;&#x44E;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ilumin.0ado">
@@ -73,10 +83,10 @@
         kiu foje rigardas noktajn bildojn en <nom>Google earth</nom> krome malkovros la lumomakulon
         de Belgio pro senkompara <tld/>ado de a&ubreve;tovojoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref="&Monato;/2010/010093.php"
-              >Energiaj ciferoj</url></vrk>
+          <vrk><url ref="&Monato;/2010/010093.php">Energiaj ciferoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/08, p. 13</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -94,6 +104,10 @@
   <trd lng="es">iluminaci&oacute;n</trd>
   <trd lng="fr">illumination<klr tip="ind"> (d&eacute;corative)</klr></trd>
   <trd lng="hu">d&iacute;szkivil&aacute;g&iacute;t&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7167;&#x660E;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;</ind>]</trd>,
+    <trd>&#x5553;&#x793A;  [<ind>&#x3051;&#x3044;&#x3058;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verlichting</trd>
   <trd lng="pt">ilumina&ccedil;&atilde;o<klr tip="amb"> (a&ccedil;&atilde;o de ornar com
   luzes)</klr></trd>
@@ -102,7 +116,74 @@
     <trd>ilumin&aacute;cia</trd>,
     <trd>sl&aacute;vnostn&eacute; osvetlenie</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_ib;&#x43B;&#x44E;&#x43C;&c_ib;&#x43D;&c_a;&c_c;&c_ib;&#x44F;</trd>,
+    <trd>&#x43E;&c_s;&c_v;&c_ib;&c_t;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="ilumin.0igxi">
+  <kap>
+    <tld/>i&gcirc;i
+  </kap>
+  <snc>
+    <uzo tip="fak">BUD</uzo><uzo tip="fak">PSI</uzo>
+    <dif>
+      Subite <ref tip="super" cel="kompre.ek0i">ekkompreni</ref>, intua atingo de spirita a&ubreve;
+      intelekta vero:
+      <ekz>
+        per tio <tld/>i&gcirc;is en mia kapo la tezo, kiun mi jam menciis: nome, la bruliganto
+        kaj estinganto estas unusolaj kontrastoj unu de la alia
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ja ne estis pro ia morala <tld/>i&gcirc;o ke li akceptis la interpacigajn diskutojn de
+        Oslo <klr>[&#x2026;sed]</klr> malsentimentala takso
+        <fnt>
+          <bib>MD08</bib>
+          <vrk>EU, Usono submeti&gcirc;as al rebatoj kaj humiligoj</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u tia egaliga konduto vere pruvas profundan <tld/>i&gcirc;on a&ubreve; nur supra&jcirc;an
+        modernemon, tion montros la estonteco
+        <fnt>
+          <aut>Franz-Georg R&ouml;ssler</aut>
+          <vrk><url ref="&Monato;/2014/011082.php">Elegante ellevante</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/04, p. 25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&ccirc;u eble]</klr> venos lastamomente <tld/>i&gcirc;o, repripenso, kiuj ebligos savi
+        la ekziston de lokoj por lingvo kaj kulturo
+        <fnt>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011257.php">En rubujon, kulturo kaj lingvo de
+          Italio</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/07, p. 13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+       <ref cel="lum.en0igxo">enlumi&gcirc;o</ref>,
+       <ref cel="koan.0o">koano</ref>,
+       <ref cel="revela.0o">revelacio</ref>,
+       <ref cel="vizi.0o">vizio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Erleuchtung finden</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7167;&#x660E;&#x3055;&#x308C;&#x308B;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;&#x3055;&#x308C;&#x308B;</ind>]</trd>,
+    <trd>&#x5929;&#x5553;&#x3092;&#x53D7;&#x3051;&#x308B;  [<ind>&#x3066;&#x3093;&#x3042;&#x304D;&#x3089;&#x3092;&#x3046;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x609F;&#x308A;&#x3092;&#x958B;&#x304F;  [<ind>&#x3055;&#x3068;&#x308A;&#x3092;&#x3072;&#x3089;&#x304F;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&#x43E;&c_s;&c_v;&c_ib;&c_t;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>
+</drv>
+
 
 <drv mrk="ilumin.0ilo">
   <kap><tld/>ilo</kap>
@@ -115,8 +196,7 @@
         E&ubreve;ropo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=156786"
-              >Johann Rosenm&uuml;ller</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=156786">Johann Rosenm&uuml;ller</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -136,6 +216,7 @@
     <trd>Leuchtelement</trd>,
     <trd>Strahler</trd>
   </trdgrp>
+  <trd lng="ja">&#x7167;&#x660E;&#x5668;&#x5177;  [<ind>&#x3057;&#x3087;&#x3046;&#x3081;&#x3044;&#x304D;&#x3050;</ind>]</trd>
   <trd lng="pt">l&acirc;mpada<klr tip="amb"> (ornamental)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_s;&c_v;&c_je;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_p;&c_r;&c_i;&c_b;&c_o;&c_r;</trd>,
@@ -146,6 +227,15 @@
 </art>
 <!--
 $Log$
+versio 1.24 2023/05/16 10:29:59
+Paul Peeraerts: kor de url k aut
+
+versio 1.23 2023/05/04 16:53:13
+revo: aktualigo URL-unuoj
+
+versio 1.21 2021/07/18 11:23:38
+Wolfram Diestel: +~ighi (ekkomprnei)
+
 Revision 1.19  2018/12/17 17:10:22  revo
 Wolfram Diestel: +ekz-oj
 
@@ -159,14 +249,5 @@ Revision 1.16  2011/12/07 20:10:17  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.15  2005/10/26 16:31:17  revo
-Luiz Portella: +trd pt
-
-Revision 1.14  2005/07/05 16:32:27  revo
-Yury Finkel: +trd ru
-
-Revision 1.13  2005/04/24 16:34:19  revo
-Raul Salinas Monteagudo: +trd ca,es
-
-Revision 1.12  2004/01/20 18:35:17  revo
 -->
 </vortaro>

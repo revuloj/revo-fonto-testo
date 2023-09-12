@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kvitan.xml,v 1.18 2009/09/22 17:17:41 revo Exp $">
+<art mrk="$Id: kvitan.xml,v 1.26 2023/09/01 15:46:47 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kvitanc</rad>/o <fnt><bib>PV</bib></fnt>
@@ -39,6 +38,7 @@
     <trd>&c_k;&c_v;&c_ib;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>,
     <trd>&c_c;&c_e;&c_t;&c_l;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF56;&#xFB1;&#xF74;&#xF44;&#xF0B;&#xF60;&#xF5B;&#xF72;&#xF53;&#xF0B;</trd>
   <trd lng="br">kuita&ntilde;s</trd>
   <trdgrp lng="en">
     <trd>receipt</trd>,
@@ -47,7 +47,15 @@
   <trd lng="es">recibo</trd>
   <trd lng="fr">quittance</trd>
   <trd lng="hu">nyugta</trd>
-  <trd lng="nl">ontvangstbewijs</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9818;&#x53CE;&#x66F8;  [<ind>&#x308A;&#x3087;&#x3046;&#x3057;&#x3085;&#x3046;&#x3057;&#x3087;</ind>]</trd>,
+    <trd>&#x53D7;&#x9818;&#x66F8;  [<ind>&#x3058;&#x3085;&#x308A;&#x3087;&#x3046;&#x3057;&#x3087;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bonnetje<klr tip="ind"> (kwitantie)</klr></trd>,
+    <trd>kwitantie</trd>,
+    <trd>ontvangstbewijs</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>kwit</trd>,
     <trd>pokwitowanie</trd>
@@ -56,9 +64,13 @@
     <trd>recibo <klr tip="ind">(documento)</klr></trd>,
     <trd>quita&ccedil;&atilde;o</trd>
   </trdgrp>
-  <trd lng="ro">chitan&tcedil;&abreve;</trd>
+  <trd lng="ro">chitan&#x21B;&abreve;</trd>
   <trd lng="ru">&c_k;&c_v;&c_i;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
   <trd lng="sv">kvitto</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x432;&#x438;&#x442;&#x430;&#x43D;&#x446;&#x456;&#x44F;</trd>,
+    <trd>&#x440;&#x43E;&#x437;&#x43F;&#x438;&#x441;&#x43A;&#x430; </trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kvitan.0i">
@@ -108,6 +120,10 @@
     <trd>nyugt&aacute;z</trd>,
     <trd>nyugt&aacute;t ad</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x9818;&#x53CE;&#x66F8;&#x3092;&#x51FA;&#x3059;  [<ind>&#x308A;&#x3087;&#x3046;&#x3057;&#x3085;&#x3046;&#x3057;&#x3087;&#x3092;&#x3060;&#x3059;</ind>]</trd>,
+    <trd>&#x53D7;&#x9818;&#x66F8;&#x3092;&#x51FA;&#x3059;  [<ind>&#x3058;&#x3085;&#x308A;&#x3087;&#x3046;&#x3057;&#x3087;&#x3092;&#x3060;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kwijten</trd>
   <trdgrp lng="pl">
     <trd>kwitowa&cacute;</trd>,
@@ -122,10 +138,20 @@
     <trd>kvitova&tcaron;</trd>,
     <trd>potvrdi&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x434;&#x430;&#x432;&#x430;&#x442;&#x438; &#x43A;&#x432;&#x438;&#x442;&#x430;&#x43D;&#x446;&#x456;&#x44E; (&#x43D;&#x430; &#x449;&#x43E;-&#x43D;. &#x43A;&#x43E;&#x43C;&#x443;-&#x43D;.)</trd>,
+    <trd>&#x434;&#x430;&#x432;&#x430;&#x442;&#x438; &#x440;&#x43E;&#x437;&#x43F;&#x438;&#x441;&#x43A;&#x443; (&#x43F;&#x440;&#x43E; &#x449;&#x43E;-&#x43D;. &#x43A;&#x43E;&#x43C;&#x443;-&#x43D;.)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
-$Log$
+$Log: kvitan.xml,v $
+versio 1.23 2020/03/09 02:10:19
+Sam Penter: +trd nl
+
+Revision 1.22  2018/11/01 20:10:18  revo
+Vito Redsky: +trd pl  +trd ro
+
 Revision 1.21  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -142,8 +168,5 @@ Revision 1.17  2009/08/11 16:30:34  revo
 Wieland Pusch: +trd bg
 
 Revision 1.16  2009/08/08 16:34:27  revo
-Russ Williams: +trd en
-
-Revision 1.15  2006/09/22 12:27:23  revo
 -->
 </vortaro>

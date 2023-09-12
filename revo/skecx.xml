@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: skecx.xml,v 1.9 2023/09/08 21:21:53 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>ske&ccirc;</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -11,11 +10,9 @@
   <snc mrk="skecx.0o.TEA">
     <uzo tip="fak">TEA</uzo>
     <dif>
-      Mallonga, facila <ref tip="super"
-      cel="teatr.0ajxo">teatra&jcirc;eto</ref>, ofte prezentata kiel ero
+      Mallonga, facila <ref tip="super" cel="teatr.0ajxo">teatra&jcirc;eto</ref>, ofte prezentata kiel ero
       de
-      <ref
-      tip="malprt" cel="variet.0o">varieteo</ref>:
+      <ref tip="malprt" cel="variet.0o">varieteo</ref>:
       <ekz>
         originalajn unuakta&jcirc;ojn a&ubreve; <tld/>ojn oni
         sufi&ccirc;e ofte
@@ -33,14 +30,20 @@
     <trd>act</trd>
   </trdgrp>
   <trd lng="fr">sketch</trd>
+  <trd lng="ja">&#x5BF8;&#21127;  [<ind>&#12377;&#12435;&#12370;&#x304D;</ind>]</trd>
   <trd lng="nl">sketch</trd>
+  <trd lng="pl">skecz</trd>
   <trd lng="pt">esquete</trd>
   <trd lng="ru">&c_s;&c_k;&c_je;&c_t;&c_ch;</trd>
+  <trd lng="uk">&c_s;&#x43A;&c_je;&c_t;&c_ch;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.9 2023/09/08 21:21:53
+Vito Redsky: +trd pl 
+
 Revision 1.5  2017/11/06 02:10:17  revo
 Sam Penter: +trd nl
 
@@ -55,6 +58,5 @@ Yury Finkel: +trd ru
 
 Revision 1.1  2004/11/28 19:41:58  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

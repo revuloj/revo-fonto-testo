@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: umbili.xml,v 1.36 2023/09/05 09:43:52 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>umbilik</rad>/o  <fnt><bib>MT</bib></fnt>
@@ -25,7 +24,7 @@
       <ekz>
         &ccirc;e via naski&gcirc;o, kiam vi estis naskita, 
         oni ne detran&ccirc;is vian <tld/>on <klr>(<tld/>an &scirc;nuron)</klr>, oni anka&ubreve;
-        ne lavis vin purige per akvo <klr>[&#8230;]</klr> kaj ne vindis per vinda&jcirc;oj
+        ne lavis vin purige per akvo <klr>[&#x2026;]</klr> kaj ne vindis per vinda&jcirc;oj
         <fnt>
           <bib>MT</bib>
           <lok>Je&hcirc;ezkel 16:4</lok>
@@ -37,7 +36,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Albisturo Kvinke</aut>
-          <vrk><url ref="https://www.monato.be/2010/009903.php">Internacia miskompreno</url></vrk>
+          <vrk><url ref="&Monato;/2010/009903.php">Internacia miskompreno</url></vrk>
           <lok>2010</lok>
         </fnt>;
       </ekz>
@@ -45,9 +44,11 @@
         <uzo tip="stl">FIG</uzo>
         <tld/>o de la agavo
         <fnt>
+          <aut>Fidel Figueroa</aut>
+          <vrk><url ref="&Monato;/2000/007033.php">Nepre &gcirc;ia nomo estas Meksiko</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007033.html">Centra Ameriko: Nepre &gcirc;ia nomo estas Meksiko</url></vrk>
-        </fnt>;
+          <lok>2000/10, p. 14</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -55,11 +56,12 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Macgill</aut>
-          <vrk><url ref="https://www.monato.be/2004/008195.html">Satiro el la umbiliko</url></vrk>
+          <vrk><url ref="&Monato;/2004/008195.html">Satiro el la umbiliko</url></vrk>
           <lok>2004</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_p;&c_u;&c_p;&c_o;&c_k;</trd>
     <trd lng="bg">&c_p;&c_malmol;&c_p;</trd>
     <trd lng="br">begel</trd>
     <trd lng="ca">melic</trd>
@@ -85,7 +87,7 @@
     <trd lng="id">pusar</trd>
     <trd lng="io">umbiliko</trd>
     <trd lng="it">ombelico</trd>
-    <trd lng="iu">&#5507;&#5338;&#5359;&#5509;</trd>
+    <trd lng="iu">&#x1583;&#x14DA;&#x14EF;&#x1585;</trd>
     <trd lng="nl">navel</trd>
     <trd lng="pl">p&eogonek;pek</trd>
     <trd lng="pt">umbigo</trd>
@@ -102,7 +104,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.be/2005/008606.php">Du vivpoemaroj</url></vrk>
+          <vrk><url ref="&Monato;/2005/008606.php">Du vivpoemaroj</url></vrk>
           <lok>2005</lok>
         </fnt>;
       </ekz>
@@ -113,16 +115,18 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Carlo Minnaja</aut>
-          <vrk><url ref="https://www.monato.be/2005/008606.php">Du vivpoemaroj</url></vrk>
+          <vrk><url ref="&Monato;/2005/008606.php">Du vivpoemaroj</url></vrk>
           <lok>2005</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_e;&c_g;&c_a;</trd>
     <trd lng="de">Nabel <klr>(Ego)</klr></trd>
   </snc>
   <snc mrk="umbili.0o.BOT">
      <uzo tip="fak">BOT</uzo>
      <ref tip="dif" cel="hilum.0o">hilumo</ref>
+     <trd lng="be">&c_r;&c_u;&c_b;&c_ch;&c_y;&c_k; <klr>(&c_s;&c_je;&c_m;&c_ja;)</klr></trd>
      <trd lng="cs">pupek</trd>
      <trd lng="de">Hilum</trd>
     <trd lng="fi"><klr tip="amb">(siemenen) </klr>arpi</trd>
@@ -135,11 +139,17 @@
      <trd lng="ru">&c_r;&c_u;&c_b;&c_ch;&c_i;&c_k;</trd>
      <trd lng="sk">pupok</trd>
    </snc>
+  <trd lng="bo">&#xF63;&#xF9F;&#xF7A;&#xF0B;&#xF56;&#xF0B;</trd>
   <trdgrp lng="ca">
      <trd>llombr&iacute;gol</trd>,
      <trd>melic</trd>
    </trdgrp>
   <trd lng="hu">k&ouml;ld&ouml;k</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30D8;&#x305D;</trd>,
+    <trd/>,
+    <trd>&#x4E2D;&#x5FC3;&#x70B9;  [<ind>&#x3061;&#x3085;&#x3046;&#x3057;&#x3093;&#x3066;&#x3093;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="umbili.0istino">
@@ -156,6 +166,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_k;&c_u;&c_sh;&c_e;&c_r;&c_k;&c_a;</trd>
   <trd lng="de">Hebamme</trd>
   <trd lng="fr">accoucheuse</trd>
 </drv>
@@ -179,7 +190,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo/pg</aut>
-          <vrk><url ref="https://www.monato.be/2005/008713.php">Sorto miksita</url></vrk>
+          <vrk><url ref="&Monato;/2005/008713.php">Sorto miksita</url></vrk>
           <lok>2005</lok>
         </fnt>.
       </ekz>
@@ -190,8 +201,8 @@
     </trdgrp>
     <trd lng="en">umbilical cord</trd>
   </snc>
-   <trd lng="bg">&c_p;&c_malmol;&c_p;&c_n;&c_a;
-   &c_v;&c_r;&c_malmol;&c_v;</trd>
+  <trd lng="be">&c_p;&c_u;&c_p;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>
+   <trd lng="bg">&c_p;&c_malmol;&c_p;&c_n;&c_a; &c_v;&c_r;&c_malmol;&c_v;</trd>
    <trd lng="br">funig ar begel</trd>
    <trd lng="ca">cord&oacute; umbilical</trd>
    <trd lng="de">Nabelschnur</trd>
@@ -202,15 +213,26 @@
    <trd lng="hu">k&ouml;ld&ouml;kzsin&oacute;r</trd>
    <trd lng="id"><ind>tali</ind> pusar</trd>
    <trd lng="it">cordone<klr> ombelicale</klr></trd>
-   <trd lng="nl">navelstreng</trd>
+   <trd lng="ja">&#x3078;&#x305D;&#x306E;&#x7DD2;  [<ind>&#x3078;&#x305D;&#x306E;&#x304A;</ind>]</trd>
+  <trd lng="nl">navelstreng</trd>
    <trd lng="pl">p&eogonek;powina</trd>
    <trd lng="pt">cord&atilde;o umbilical</trd>
    <trd lng="ru">&c_p;&c_u;&c_p;&c_o;&c_v;&c_i;&c_n;&c_a;</trd>
    <trd lng="sv">navelstr&auml;ng</trd>
+  <trd lng="uk">&#x43F;&c_u;&#x43F;&#x43A;&#x43E;&c_v;&c_i;&#x43D;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.35 2023/04/15 15:25:45
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.34 2022/05/06 12:17:08
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.32 2022/03/16 08:34:23
+Dmitri Gabinski: + trd be
+
 Revision 1.29  2019/02/18 13:10:32  revo
 Petr Diblik: +trd en,cs,sk
 
@@ -224,11 +246,5 @@ Revision 1.26  2015/06/28 12:03:41  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.25  2014/06/13 20:10:27  revo
-Jeromo Vasxe: + ~istino
-
-Revision 1.24  2014/05/30 17:10:16  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.23  2012/08/13 14:10:19  revo
 -->
 </vortaro>

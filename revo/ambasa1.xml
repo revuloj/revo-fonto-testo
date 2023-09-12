@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ambasa1.xml,v 1.16 2003/11/09 17:31:03 revo Exp $">
+<art mrk="$Id: ambasa1.xml,v 1.24 2023/08/30 18:23:33 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ambasador</rad>/o
@@ -25,6 +24,7 @@
     <trd>&c_a;&c_m;&c_b;&c_a;&c_s;&c_a;&c_d;&c_a;&c_r;</trd>,
     <trd>&c_p;&c_a;&c_s;&c_o;&c_l;</trd>
   </trdgrp>
+  <trd lng="bo">&#xF42;&#xF5E;&#xF74;&#xF44;&#xF0B;&#xF5A;&#xF56;&#xF0B;</trd>
   <trd lng="ca">ambaixador</trd>
   <trdgrp lng="cs">
     <trd>ambasador</trd>,
@@ -35,10 +35,13 @@
   <trd lng="en">ambassador</trd>
   <trd lng="es">embajador</trd>
   <trd lng="fr">ambassadeur</trd>
+  <trd lng="he">&#x5E9;&#x5C1;&#x5B7;&#x5D2;&#x5B0;&#x5E8;&#x5B4;&#x5D9;&#x5E8;</trd>
+  <trd lng="ja">&#x5927;&#x4F7F;  [<ind>&#x305F;&#x3044;&#x3057;</ind>]</trd>
   <trd lng="nl">ambassadeur</trd>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_o;&c_l;</trd>
   <trd lng="sk">ve&lcaron;vyslanec</trd>
   <trd lng="tr">b&uuml;y&uuml;kel&ccedil;i</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_s;&#x43E;&#x43B;</trd>
 </drv>
 
 <drv mrk="ambasa1.0ejo">
@@ -68,13 +71,15 @@
   <trd lng="ca">ambaixada</trd>
   <trdgrp lng="cs">
     <trd>rezidence velvyslance</trd>,
-    <trd>velvyslanectví</trd>
+    <trd>velvyslanectv&#xED;</trd>
   </trdgrp>
   <trd lng="de">Botschaft</trd>
   <trd lng="el">&pi;&rho;&epsilon;&sigma;&beta;&epsilon;&jota_ton;&alfa;</trd>
   <trd lng="en">embassy</trd>
   <trd lng="es">embajada</trd>
   <trd lng="fr">ambassade<klr> (lieu)</klr></trd>
+  <trd lng="he">&#x5E9;&#x5D2;&#x5E8;&#x5D9;&#x5E8;&#x5D5;&#x5EA;</trd>
+  <trd lng="ja">&#x5927;&#x4F7F;&#x9928;  [<ind>&#x305F;&#x3044;&#x3057;&#x304B;&#x3093;</ind>]</trd>
   <trd lng="nl">ambassade</trd>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
   <trd lng="sk">ve&lcaron;vyslanectvo</trd>
@@ -82,6 +87,9 @@
 </art>
 <!--
 $Log$
+versio 1.23 2022/03/16 16:54:13
+Wolfram Diestel: kor. trd
+
 Revision 1.18  2012/03/01 10:10:13  revo
 Glavkos Xaon: greka defino de la vorto
 
@@ -101,8 +109,5 @@ Revision 1.13 2002/10/01 16:37:11 revo
 Christopher Zervic: + ang
 
 Revision 1.12 2002/09/07 17:40:09 revo
-Viliam Bur: +sk trd
-
-Revision 1.11 2002/05/09 18:43:57 revo
 -->
 </vortaro>

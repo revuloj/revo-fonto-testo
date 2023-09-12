@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: masiv.xml,v 1.14 2010/06/30 16:30:49 revo Exp $">
+<art mrk="$Id: masiv.xml,v 1.19 2023/09/02 06:04:09 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>masiv</rad>/a <fnt><bib>PV</bib></fnt>
@@ -26,8 +25,8 @@
   <trd lng="be">&c_m;&c_a;&c_s;&c_ib;&c_w;&c_n;&c_y;</trd>
   <trd lng="br">tolzennek</trd>
   <trdgrp lng="cs">
-    <trd>masivní</trd>,
-    <trd>mohutný</trd>
+    <trd>masivn&iacute;</trd>,
+    <trd>mohutn&yacute;</trd>
   </trdgrp>
   <trd lng="de">massiv</trd>
   <trdgrp lng="en">
@@ -40,18 +39,34 @@
     <trd>t&ouml;m&ouml;r</trd>,
     <trd>massz&iacute;v</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x304D;&#x306A;&#x584A;&#x72B6;&#x306E;  [<ind>&#x304A;&#x304A;&#x304D;&#x306A;&#x304B;&#x305F;&#x307E;&#x308A;&#x3058;&#x3087;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x5DE8;&#x5927;&#x306A;  [<ind>&#x304D;&#x3087;&#x3060;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x3069;&#x3063;&#x3057;&#x308A;&#x3057;&#x305F;</trd>,
+    <trd>&#x91CD;&#x3005;&#x3057;&#x3044;  [<ind>&#x304A;&#x3082;&#x304A;&#x3082;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x5BC6;&#x306B;&#x8A70;&#x307E;&#x3063;&#x305F;  [<ind>&#x307F;&#x3064;&#x306B;&#x3064;&#x307E;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x591A;&#x91CF;&#x306E;  [<ind>&#x305F;&#x308A;&#x3087;&#x3046;&#x306E;</ind>]</trd>,
+    <trd>&#x5927;&#x898F;&#x6A21;&#x306A;  [<ind>&#x3060;&#x3044;&#x304D;&#x307C;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">massief</trd>
+  <trdgrp lng="pl">
+    <trd>lity</trd>,
+    <trd>masywny</trd>,
+    <trd>zbity</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>maci&ccedil;o</trd>,
     <trd>compacto</trd>,
     <trd>denso</trd>
   </trdgrp>
+  <trd lng="ro">masiv</trd>
   <trd lng="ru">&c_m;&c_a;&c_s;&c_s;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
-    <trd>masívny</trd>,
-    <trd>pevný</trd>,
-    <trd>ťažký</trd>
+    <trd>mas&iacute;vny</trd>,
+    <trd>pevn&yacute;</trd>,
+    <trd>&tcaron;a&zcaron;k&yacute;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43C;&#x430;&#x441;&#x438;&#x432;&#x43D;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="masiv.0o">
@@ -76,12 +91,26 @@
     <trd>massz&iacute;vum</trd>,
     <trd>t&ouml;mb</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5BC6;&#x96C6;  [<ind>&#x307F;&#x3063;&#x3057;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x7E41;&#x307F;  [<ind>&#x3057;&#x3052;&#x307F;</ind>]</trd>,
+    <trd>&#x5C71;&#x584A;  [<ind>&#x3055;&#x3093;&#x304B;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">massief</trd>
+  <trd lng="pl">masyw</trd>
+  <trd lng="ro">masiv</trd>
   <trd lng="ru">&c_m;&c_a;&c_s;&c_s;&c_i;&c_v;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x430;&#x441;&#x438;&#x432; (&#x433;&#x456;&#x440;&#x441;&#x44C;&#x43A;&#x438;&#x439;</trd>,
+    <trd>&#x43B;&#x456;&#x441;&#x43E;&#x432;&#x438;&#x439; &#x456; &#x442;.&#x43F;.)</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.17 2020/07/17 19:11:10
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.15  2015/06/29 16:33:19  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -101,11 +130,5 @@ Revision 1.10  2004/06/07 17:23:52  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.9  2004/02/16 20:47:40  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.8  2002/12/15 19:51:01  revo
-Ulrich Fellmann: + 1 plia trd de
-
-Revision 1.7  2002/01/06 17:48:37  revo
 -->
 </vortaro>

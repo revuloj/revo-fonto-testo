@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sxort.xml,v 1.3 2023/07/31 08:31:54 revo Exp $">
 <kap>
   <rad>&scirc;ort</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -18,20 +17,24 @@
         kaj maldikaj senmanikaj &ccirc;emizetoj
         <fnt>
           <aut>R. Manandhar</aut>,
-          <vrk><url
-          ref="http://razeno.blogspot.fr/2012/06/somero-en-katmando.html">
+          <vrk><url ref="http://razeno.blogspot.fr/2012/06/somero-en-katmando.html">
           Somero en Katmando</url></vrk>,
           <lok>2012-06-16</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_sh;&c_o;&c_r;&c_t;&c_y;</trd>
   <trd lng="en">shorts</trd>
   <trd lng="fr">short</trd>
+  <trd lng="uk">&c_sh;&#x43E;&c_r;&c_t;&c_i;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.3 2023/07/31 08:31:54
+Dmitri Gabinski: + trd be
+
 -->
 </vortaro>

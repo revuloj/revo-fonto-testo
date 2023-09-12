@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ajn.xml,v 1.30 2010/09/12 16:30:33 revo Exp $">
+<art mrk="$Id: ajn.xml,v 1.48 2023/09/08 14:26:59 revo Exp $">
 <kap>
    <ofc>*</ofc>
    <rad>ajn</rad> <fnt><bib>PV</bib></fnt>
@@ -151,7 +150,9 @@
      <trd>vain</trd>,
      <trd>vaikka <klr> [kuka, mik&auml;]</klr></trd>
    </trdgrp>
-   <trdgrp lng="nl">
+   <trd lng="he">&#x5DB;&#x5DC;&#x5E9;&#x5D4;&#x5D5;</trd>
+  <trd lng="ja">&#xFF5E;<ind>&#12391;&#12354;&#12387;&#12390;&#12418;</ind></trd>
+  <trdgrp lng="nl">
      <trd>dan ook</trd>,
      <trd>ook maar</trd>,
      <trd>een of andere</trd>
@@ -164,10 +165,11 @@
      <trd>-<ind>ko&lcaron;vek</ind></trd>
    </trdgrp>
    <trdgrp lng="th">
-     <trd>&#3629;&#3632;&#3652;&#3619;&#3585;&#3655;&#3652;&#3604;&#3657;</trd>,
-     <trd>-&#3652;&#3627;&#3609;&#3585;&#3655;&#3652;&#3604;&#3657;</trd>
+     <trd>&#xE2D;&#xE30;&#xE44;&#xE23;&#xE01;&#xE47;&#xE44;&#xE14;&#xE49;</trd>,
+     <trd>-&#xE44;&#xE2B;&#xE19;&#xE01;&#xE47;&#xE44;&#xE14;&#xE49;</trd>
    </trdgrp>
-   <trd lng="vo">sem-</trd>
+   <trd lng="uk"> &c_b;&c_i;/&c_b; &#x43D;&c_je;</trd>
+  <trd lng="vo">sem-</trd>
    <trd lng="ms">apa-apa</trd>
 </drv>
 
@@ -202,7 +204,7 @@
      </trdgrp>
      <trdgrp lng="fr">
        <trd>n'importe quel</trd>,
-       <trd>le <ind>moindre</ind><klr tip="ind"> (n'importe 
+       <trd>le <ind>moindre</ind><klr tip="ind"> (n'importe
 quel)</klr></trd>,
        <trd>quelconque</trd>
      </trdgrp>
@@ -210,7 +212,7 @@ quel)</klr></trd>,
        <trd>&c_k;&c_a;&c_k;&c_o;&c_j;
        &c_u;&c_g;&c_o;&c_d;&c_n;&c_o;</trd>,
        <trd>&c_l;&c_ju;&c_b;&c_o;&c_j;</trd>,
-       <trd>&c_k;&c_a;&c_k;&c_o;&c_j; &c_b;&c_y; &c_t;&c_o; &c_n;&c_i; 
+       <trd>&c_k;&c_a;&c_k;&c_o;&c_j; &c_b;&c_y; &c_t;&c_o; &c_n;&c_i;
 &c_b;&c_y;&c_l;&c_o;</trd>
      </trdgrp>
      <trd lng="sk">ak&yacute;ko&lcaron;vek</trd>
@@ -275,6 +277,11 @@ quel)</klr></trd>,
     <trd>libovoln&yacute;</trd>,
     <trd>n&ecaron;jak&yacute;</trd>
   </trdgrp>
+  <trd lng="he">&#x5DB;&#x5DC;</trd>
+  <trdgrp lng="ja">
+    <trd>&#12393;&#12435;&#x306A;&#xFF5E;&#12391;&#12418;</trd>,
+    <trd>&#x4EFB;&#x610F;&#x306E;  [<ind>&#x306B;&#12435;&#12356;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
      <trd>welke ook</trd>,
      <trd>enige</trd>,
@@ -318,7 +325,7 @@ quel)</klr></trd>,
        <ekz>sen ia ka&ubreve;zo</ekz>, sed estas pli firma, same kiel
        &ccirc;i-lasta estas pli firma ol la simpla <ekz>sen
        ka&ubreve;zo</ekz>.
-       Eblas vidi teorian diferencon inter <ekz>sen <tld/>a 
+       Eblas vidi teorian diferencon inter <ekz>sen <tld/>a
        ka&ubreve;zo</ekz> kaj <ekz>sen ioma ka&ubreve;zo</ekz>, nome ke
        la
        unua insistas pri la tipo de ka&ubreve;zo kaj la dua pri
@@ -350,32 +357,29 @@ quel)</klr></trd>,
 </drv>
 
 <drv mrk="ajn.0ulo">
-  <kap>ajnulo, <var><kap><tld lit="A"/>ulo</kap></var></kap>
+  <kap><tld/>ulo, <var><kap><tld lit="A"/>ulo</kap></var></kap>
   <snc mrk="ajn.0ulo.FRAZ">
     <uzo tip="stl">FRAZ</uzo>
     <dif>
-      Iu <tld/> <ref tip="vid"
-      cel="ordina.0ulo.KOMUNE">ordinarulo</ref>
+      Iu <tld/> <ref tip="vid" cel="ordina.0ulo.KOMUNE">ordinarulo</ref>
       reala a&ubreve; supozata:
       <ekz>
         mi &ccirc;iam suspektis, ke la vorto <ctl>desupri</ctl> ne
-        naski&gcirc;is 
-        spontane el la langopinto de s<klr>injo</klr>ro <tld 
-        lit="A"/>ulo
+        naski&gcirc;is
+        spontane el la langopinto de s<klr>injo</klr>ro <tld lit="A"/>ulo
         <fnt>
           <aut>J. Camacho</aut>,
-          <vrk><url
-          ref="http://www.gutenberg.org/files/23586/23586-h/23586-h.htm">
+          <vrk><url ref="&Gutenberg;files/23586/23586-h/23586-h.htm">
           La Liturgio de l&#8217; Foiro</url></vrk>,
           <lok>1999</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la verkoj pasis sen ke <klr>...</klr> <tld/>ulo sur la scenejo 
+        la verkoj pasis sen ke <klr>...</klr> <tld/>ulo sur la scenejo
         faru iun ajn la&ubreve;volan sonon
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref="http://eo.wikipedia.org/wiki/John_Cage">
+          <lok><url ref="&Viki;/John_Cage">
           John Cage</url>, 2011-04-24</lok>
         </fnt>.
       </ekz>
@@ -384,11 +388,18 @@ quel)</klr></trd>,
   <refgrp tip="vid">
     <ref cel="anonim.0a">anonima</ref>
   </refgrp>
+  <trd lng="de">Jedermann</trd>
   <trdgrp lng="fr">
     <trd>quidam</trd>,
     <trd>Untel</trd>
   </trdgrp>
-   <trdgrp lng="ru">
+   <trd lng="he">&#x5DB;&#x5BC;&#x5B9;&#x5DC; &#x5D0;&#x5B6;&#x5D7;&#x5B8;&#x5D3;</trd>
+  <trdgrp lng="ja">
+    <trd>&#12354;&#x308B;&#x4EBA;  [<ind>&#12354;&#x308B;&#12402;&#12392;</ind>]</trd>,
+    <trd>&#x8AB0;&#x304B;  [<ind>&#12384;&#x308C;&#x304B;</ind>]</trd>,
+    <trd>&#x67D0;&#x6C0F;  [<ind>&#x307C;&#12358;&#12375;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
      <trd>&c_n;&c_je;&c_k;&c_t;&c_o;</trd>,
      <trd>&c_i;&c_m;&c_ja;&c_r;&c_je;&c_k;</trd>,
      <trd>&c_ch;&c_u;&c_v;&c_a;&c_k;<klr>
@@ -409,6 +420,21 @@ quel)</klr></trd>,
 </art>
 <!--
 $Log$
+versio 1.48 2023/09/08 14:26:59
+Wolfram Diestel: kor. ja ind.
+
+versio 1.46 2022/11/25 16:39:59
+Neil Roberts: Uzi la etikedon tld en ajnulo
+
+versio 1.45 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.44 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.41 2021/02/01 19:10:49
+Wolfram Diestel: -trd de
+
 Revision 1.39  2017/01/27 15:10:24  revo
 Adam Eng: +trd ms
 
@@ -416,17 +442,5 @@ Revision 1.38  2016/07/30 12:10:22  revo
 Warut Bunprasert: +trd th
 
 Revision 1.37  2015/07/04 08:37:29  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.36  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.35  2013/04/18 18:10:09  revo
-Norbert Luckhardt: +tip klr trd(de)
-
-Revision 1.34  2013/01/15 01:10:07  revo
-Bart Demeyere: +trd en,nl
-
-Revision 1.33  2012/04/17 03:10:07  revo
 -->
 </vortaro>

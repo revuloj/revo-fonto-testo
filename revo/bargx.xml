@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bargx.xml,v 1.13 2009/03/02 17:30:49 revo Exp $">
+<art mrk="$Id: bargx.xml,v 1.19 2023/08/31 08:48:49 revo Exp $">
 <kap>
   <rad>bar&gcirc;</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -30,7 +29,7 @@
       indus skribi tion &ccirc;i pli klare. (MB)
     </adm>
   </snc>
-  <trd lng="be">&c_b;&c_a;&c_r;&c_zh;&c_a;</trd>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_zh;&c_a; <klr tip="amb">(&c_s;&c_a;&c_m;&c_a;&c_h;&c_o;&c_d;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="bg">&c_b;&c_a;&c_r;&c_zh;&c_a;</trd>
   <trdgrp lng="de">
     <trd>Barkasse</trd>,
@@ -45,9 +44,18 @@
     <trd>barge</trd>,
     <trd>p&eacute;niche</trd>
   </trdgrp>
+  <trdgrp lng="he">
+    <trd>&#x5D3;&#x5D5;&#x5B9;&#x5D1;&#x5B0;&#x5E8;&#x5B8;&#x5D4;</trd>,
+    <trd>&#x5E1;&#x5D9;&#x5E8;&#x5EA; &#x5D2;&#x5E8;&#x5E8;</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>b&aacute;rka</trd>,
     <trd>usz&aacute;ly</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E73;&#x5E95;&#x306E;&#x8377;&#x8239;  [<ind>&#x3072;&#x3089;&#x305D;&#x3053;&#x306E;&#x306B;&#x305B;&#x3093;</ind>]</trd>,
+    <trd>&#x306F;&#x3057;&#x3051;</trd>,
+    <trd>&#x30D0;&#x30FC;&#x30B8;</trd>
   </trdgrp>
   <trd lng="nl">aak</trd>
   <trdgrp lng="pl">
@@ -57,6 +65,10 @@
   <trdgrp lng="ru">
     <trd>&c_b;&c_a;&c_r;&c_zh;&c_a;</trd>,
     <trd>&c_sh;&c_a;&c_l;&c_a;&c_n;&c_d;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_a;&c_r;&c_zh;&c_a;</trd>,
+    <trd>&c_sh;&c_a;&#x43B;&c_a;&#x43D;&c_d;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -76,11 +88,15 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_zh;&c_a; <klr tip="amb">(&c_n;&c_je;&c_s;&c_a;&c_m;&c_a;&c_h;&c_o;&c_d;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="fr">coche d'eau</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2022/11/10 10:35:51
+Dmitri Gabinski: + trd be
+
 Revision 1.14  2013/09/11 18:10:13  revo
 Joop Eggen: +trd bg
 

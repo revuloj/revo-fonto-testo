@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hxore.xml,v 1.15 2009/03/13 17:30:51 revo Exp $">
+<art mrk="$Id: hxore.xml,v 1.21 2023/08/31 15:46:20 revo Exp $">
   <kap>
     <rad>&hcirc;ore</rad>/o
-    <fnt><bib>PV</bib></fnt>
+    <fnt><bib>PV</bib></fnt>,
+    <var><kap><rad>kore</rad>/o</kap></var>
   </kap>
 <drv mrk="hxore.0o">
    <kap><tld/>o,
@@ -14,15 +14,15 @@
    <uzo tip="fak">MED</uzo>
    <snc>
      <dif>
-       Nerva <ref tip="lst" cel="san.mal0o.MED"
-       lst="voko:malsanoj">malsano</ref>, karakterizata per sen&ccirc;esaj
+       Nerva <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>, karakterizata per sen&ccirc;esaj
        konvulsiaj senvolaj movoj:
        <ekz>
          elektra, falsa, fibretara, hereda, histeria, paraliza <tld/>o.
        </ekz>
       <ekz>
         inter liaj multaj atingoj trovi&gcirc;as la malkovro de iu malsano, 
-        konata kiel <tld lit="&Hcirc;"/>o de <nom>Sydenham</nom>, anka&ubreve; konata kiel malsano de Sankta Vito 
+        konata kiel <tld lit="&Hcirc;"/>o de <nom>Sydenham</nom>, anka&ubreve; konata kiel malsano de Sankta Vito
+        
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=576995">Thomas Sydenham</url></lok>
@@ -35,6 +35,10 @@
     konfuzon kun la etno <ref tip="hom" cel="kore.0o">koreo</ref>,
     la varia&jcirc;o kun &leftquot;k&rightquot; estas ne uzenda.
   </rim>
+  <trdgrp lng="be">
+    <trd>&c_h;&c_a;&c_r;&c_e;&c_ja;</trd>,
+    <trd>&c_s;&c_k;&c_o;&c_k;&c_ib; &c_s;&c_mol;&c_v;&c_ja;&c_t;&c_o;&c_g;&c_a; &c_V;&c_ib;&c_t;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
      <trd>corea</trd>,
      <trd>ball de Sant Vito</trd>
@@ -63,7 +67,11 @@
      <trd>chorea</trd>,
      <trd>vitust&aacute;nc</trd>
    </trdgrp>
-   <trd lng="nl">St.-Vitusdans</trd>
+   <trdgrp lng="ja">
+    <trd>&#x671D;&#x9BAE;&#x4EBA;  [<ind>&#x3061;&#x3087;&#x3046;&#x305B;&#x3093;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x97D3;&#x56FD;&#x4EBA;  [<ind>&#x304B;&#x3093;&#x3053;&#x304F;&#x3058;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">St.-Vitusdans</trd>
    <trdgrp lng="pl">
      <trd>pl&aogonek;sawica</trd>,
      <trd>chorea</trd>,
@@ -83,6 +91,12 @@
 </art>
 <!--
 $Log$
+versio 1.20 2022/03/18 08:34:51
+Dmitri Gabinski: + trd be
+
+versio 1.19 2020/09/06 18:10:31
+Wolfram Diestel: mankinta art/kap/var
+
 Revision 1.17  2015/04/21 02:10:15  revo
 Sergio Pokrovskij: +fnt
 
@@ -99,8 +113,5 @@ Revision 1.13  2006/05/22 16:32:10  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.12  2005/10/22 17:23:18  revo
-Luiz Portella: +trd pt
-
-Revision 1.11  2002/11/11 17:31:50  revo
 -->
 </vortaro>

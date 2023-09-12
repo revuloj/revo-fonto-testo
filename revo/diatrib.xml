@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: diatrib.xml,v 1.2 2007/07/26 16:30:44 revo Exp $">
+<art mrk="$Id: diatrib.xml,v 1.7 2023/01/27 08:33:01 revo Exp $">
 <kap>
   <rad>diatrib</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -27,7 +27,7 @@
           <aut>P. Levy</aut>,
           <vrk>Esperanto = Fu&scirc;-lingvo?</vrk>,
           <lok><url
-          ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+          ref="&SCE;">
           soc.culture.esperanto</url>, 2003-09-08</lok></fnt>.
       </ekz>
     </dif>
@@ -35,23 +35,30 @@
       <ref cel="paskvi.0o">paskvilo</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_t;&c_r;&c_y;&c_b;&c_a;</trd>
   <trd lng="ca">diatriba</trd>
   <trdgrp lng="cs">
     <trd>diatriba</trd>,
-    <trd>kritický n. hanlivý spis</trd>
+    <trd>kritick&yacute; n. hanliv&yacute; spis</trd>
   </trdgrp>
   <trd lng="fr">diatribe</trd>
   <trd lng="it">diatriba</trd>
   <trd lng="pt">diatribe</trd>
   <trdgrp lng="sk">
     <trd>diatriba</trd>,
-    <trd>hanlivý spis</trd>
+    <trd>hanliv&yacute; spis</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.7 2023/01/27 08:33:01
+Dmitri Gabinski: + trd be
+
+versio 1.6 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.4  2015/06/29 16:29:36  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -63,6 +70,5 @@ Tulio Flores: +tr pt
 
 Revision 1.1  2007/06/28 16:32:03  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

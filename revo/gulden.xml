@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gulden.xml,v 1.15 2009/02/15 14:17:26 revo Exp $">
+<art mrk="$Id: gulden.xml,v 1.23 2023/08/31 14:29:55 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>gulden</rad>/o <fnt><bib>PV</bib></fnt> 
@@ -12,8 +11,7 @@
   <snc mrk="gulden.0o.EKON">
     <uzo tip="fak">EKON</uzo>
     <dif>
-      Malnova <ref tip="lst" cel="unu.mon0o"
-      lst="voko:monunuoj">monunuo</ref>,
+      Malnova <ref tip="lst" cel="unu.mon0o" lst="voko:monunuoj">monunuo</ref>,
       interalie de Nederlando:
       <ekz>
         ni diris tri <tld/>ojn, mi certas pri tio
@@ -29,7 +27,7 @@
   </snc>
   <trd lng="be">&c_g;&c_u;&c_l;&c_mol;&c_d;&c_e;&c_n;</trd>
   <trd lng="ca">flor&iacute;</trd>
-  <trd lng="cs">gulden <klr>(nizozemský)</klr></trd>
+  <trd lng="cs">gulden <klr>(nizozemsk&#xFD;)</klr></trd>
   <trd lng="de">Gulden</trd>
   <trd lng="en">gulden</trd>
   <trd lng="fr">florin<klr tip="ind"> (n&eacute;erlandais)</klr></trd>
@@ -38,11 +36,13 @@
     <trd>holland forint</trd>
   </trdgrp>
   <trd lng="id">gulden</trd>
+  <trd lng="ja">&#x30AE;&#x30EB;&#x30C0;&#x30FC;</trd>
   <trd lng="nl">gulden</trd>
   <trd lng="pl">gulden</trd>
   <trd lng="pt">florim</trd>
   <trd lng="ru">&c_g;&c_u;&c_l;&c_mol;&c_d;&c_je;&c_n;</trd>
   <trd lng="sk">zlatka</trd>
+  <trd lng="uk">&#x491;&#x443;&#x43B;&#x44C;&#x434;&#x435;&#x43D;&#xA0;(&#x433;&#x440;&#x43E;&#x448;&#x43E;&#x432;&#x430; &#x43E;&#x434;&#x438;&#x43D;&#x438;&#x446;&#x44F;)</trd>
 </drv>
 </art>
 <!--

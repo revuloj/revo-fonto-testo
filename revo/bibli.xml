@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bibli.xml,v 1.27 2020/02/27 18:10:29 revo Exp $">
+<art mrk="$Id: bibli.xml,v 1.31 2023/08/31 08:48:51 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>Bibli</rad>/o
@@ -12,7 +11,7 @@
   <kap><tld/>o</kap>
   <uzo tip="fak">BIB</uzo>
   <uzo tip="fak">REL</uzo>
-  <snc mrk="bibli.B0o.kolekto">
+  <snc mrk="bibli.0o.kolekto">
     <tezrad fak="BIB"/>
     <dif>
       Kolekto da antikvaj tekstoj, kies konsisto iom varias la&ubreve;
@@ -21,7 +20,7 @@
       anka&ubreve; en islamo) kiel Die inspirita
       <ref tip="super" cel="skrib.SanktaS0o">Sankta Skribo</ref>.
     </dif>
-    <subsnc mrk="bibli.B0o.hebrea">
+    <subsnc mrk="bibli.0o.hebrea">
       <dif>
         <ref tip="dif" cel="bibli.HebreaB0o">Hebrea <tld/>o</ref>:
         <ekz>
@@ -30,14 +29,13 @@
           kristanoj)
           <fnt>
             <bib>Monato</bib>
-            <vrk><url
-            ref='http://www.esperanto.be/fel/mon/007059.html'>La influo
+            <vrk><url ref="&Monato;/2000/007059.php">La influo
             de la hebrea lingvo sur Esperanto</url></vrk>
           </fnt>.
         </ekz>
       </dif>
     </subsnc>
-    <subsnc mrk="bibli.B0o.KRI">
+    <subsnc mrk="bibli.0o.KRI">
       <uzo tip="fak">KRI</uzo>
       <dif>
         La sankta libro de
@@ -88,7 +86,7 @@
     <trd lng="sk">biblia</trd>
   </snc>
   <rim>
-    <tld/>o,<sncref ref="bibli.B0o.kolekto"/> estas propra nomo, do la&ubreve;
+    <tld/>o,<sncref ref="bibli.0o.kolekto"/> estas propra nomo, do la&ubreve;
     gramatiko &gcirc;i devus esti senartikola kaj kun la majuskla B;
     <tld lit="b"/>o,<sncref ref="bibli.0o.ekz"/> estas nomo komuna kaj
     nombrebla:
@@ -102,9 +100,14 @@
   <trd lng="fr">bible</trd>
   <trd lng="id">Alkitab</trd>
   <trd lng="it">bibbia</trd>
+  <trd lng="ja">&#x8056;&#x66F8;  [<ind>&#x305B;&#x3044;&#x3057;&#x3087;</ind>]</trd>
   <trdgrp lng="tr">
    <trd>Kutsal Kitap</trd>,
    <trd>Tevrat, Zebur ve &Idot;ncil</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_B;&c_ib;&c_b;&#x43B;&c_ib;&#x44F;</trd>,
+    <trd>&c_S;&c_v;&#x44F;&c_t;&c_je;&#xA0;&#x41F;&c_i;&c_s;&#x44C;&#x43C;&#x43E;</trd>
   </trdgrp>
   <trd lng="vo">bib</trd>
   <trd lng="sk">P&iacute;smo sv&auml;t&eacute;</trd>
@@ -132,8 +135,7 @@
         &ccirc;irka&ubreve; 280 a.K
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=4064'>Septuaginto</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=4064">Septuaginto</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -188,7 +190,7 @@
         bone reflektas la diversajn tendencojn en Esperanto
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=50614'>Londona
+          <lok><url ref="https://eo.wikipedia.org/?curid=50614">Londona
           Biblio</url></lok>
         </fnt>.
       </ekz>
@@ -212,7 +214,13 @@
 </drv>
 </art>
 <!--
-$Log: bibli.xml,v $
+$Log$
+versio 1.30 2023/04/01 12:41:22
+Paul Peeraerts: &Monato;
+
+versio 1.28 2021/05/13 09:59:06
+Wolfram Diestel: kor. snc@mrk, subsnc@mrk
+
 versio 1.27 2020/02/27 18:10:29
 Neil Roberts: Ripari ref
 
@@ -229,11 +237,5 @@ Revision 1.23  2013/05/01 15:10:13  revo
 Eko Nur Syah Hidayat: +trd id
 
 Revision 1.22  2012/07/21 10:10:16  revo
-Marc Rausell: + trd ca
-
-Revision 1.21  2009/12/15 17:30:32  revo
-Antonio Codazzi: +trd it
-
-Revision 1.20  2009/03/09 17:31:47  revo
 -->
 </vortaro>

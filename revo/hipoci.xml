@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hipoci.xml,v 1.19 2020/02/22 16:10:18 revo Exp $">
+<art mrk="$Id: hipoci.xml,v 1.22 2023/08/31 15:46:17 revo Exp $">
 <kap>
   <rad>hipocikloid</rad>/o
 </kap>
@@ -19,8 +18,7 @@
         al &gcirc;ia evoluto
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=105750"
-              >Cikloido</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=105750">Cikloido</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -41,10 +39,12 @@
   <trd lng="en">hypocycloid</trd>
   <trd lng="fr">hypocyclo&iuml;de</trd>
   <trd lng="hu">hipociklois</trd>  
+  <trd lng="ja">&#x5185;&#x30B5;&#x30A4;&#x30AF;&#x30ED;&#x30A4;&#x30C9;  [<ind>&#x306A;&#x3044;&#x30B5;&#x30A4;&#x30AF;&#x30ED;&#x30A4;&#x30C9;</ind>]</trd>
   <trd lng="nl">hypocyclo&iuml;de</trd>
   <trd lng="pl">hipocykloida</trd>
   <trd lng="pt">hipocicl&oacute;ide</trd>
   <trd lng="ru">&c_g;&c_i;&c_p;&c_o;&c_c;&c_i;&c_k;&c_l;&c_o;&c_i;&c_d;&c_a;</trd>
+  <trd lng="uk">&c_g;&c_ib;&#x43F;&#x43E;&c_c;&c_i;&#x43A;&#x43B;&#x43E;&c_ji;&c_d;&c_a;</trd>
 </drv>
 
 <drv mrk="hipoci.longigita0o">
@@ -64,6 +64,7 @@
   <bld lok="../bld/k_hipotrohxoido.svg" tip="svg">
     longigita kaj mallongigita <tld/>oj
   </bld>
+  <trd lng="be">&c_g;&c_ib;&c_p;&c_a;&c_c;&c_y;&c_k;&c_l;&c_jo;&c_ib;&c_d;&c_a; &c_p;&c_a;&c_d;&c_o;&c_w;&c_zh;&c_a;&c_n;&c_a;&c_ja;</trd>
   <trd lng="bg">&c_p;&c_r;&c_o;&c_d;&c_malmol;&c_l;&c_g;&c_o;&c_v;&c_a;&c_t;&c_i; <ind>&c_h;&c_i;&c_p;&c_o;&c_c;&c_i;&c_k;&c_l;&c_o;&c_i;&c_d;</ind></trd>
   <trd lng="ca">hipocicloide allargada</trd>
   <trd lng="de">verl&auml;ngerte <ind>Hypozykloide</ind></trd>
@@ -92,6 +93,7 @@
       en <fnt><bib>MatVort</bib></fnt>.
     </rim>
   </snc>
+  <trd lng="be">&c_g;&c_ib;&c_p;&c_a;&c_c;&c_y;&c_k;&c_l;&c_jo;&c_ib;&c_d;&c_a; &c_p;&c_a;&c_k;&c_a;&c_r;&c_o;&c_ch;&c_a;&c_n;&c_a;&c_ja;</trd>
   <trd lng="bg">&c_s;&c_malmol;&c_k;&c_r;&c_a;&c_t;&c_je;&c_n; <ind>&c_h;&c_i;&c_p;&c_o;&c_c;&c_i;&c_k;&c_l;&c_o;&c_i;&c_d;</ind></trd>
   <trd lng="ca">hipocicloide escur&ccedil;ada</trd>
   <trd lng="de">verk&uuml;rzte <ind>Hypozykloide</ind></trd>
@@ -105,7 +107,10 @@
 </drv>
 </art>
 <!--
-$Log: hipoci.xml,v $
+$Log$
+versio 1.21 2022/12/30 08:31:53
+Dmitri Gabinski: + trd be
+
 versio 1.19 2020/02/22 16:10:18
 Wolfram Diestel: svg anst. gif
 
@@ -125,8 +130,5 @@ Revision 1.14  2010/01/18 17:31:33  revo
 Mireille Corobu: svg->gif
 
 Revision 1.13  2005/06/15 16:32:13  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12  2004/09/15 16:31:11  revo
 -->
 </vortaro>

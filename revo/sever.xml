@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sever.xml,v 1.21 2023/09/03 18:39:29 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sever</rad>/a <fnt><bib>PV</bib></fnt>
@@ -18,9 +17,94 @@
         <tld/>a sed justa instruisto;
       </ekz>
       <ekz>
-        <tld/>a disciplino.
+        <tld/>a <ref cel="discip.0o">disciplino</ref>;
+      </ekz>
+      <ekz>
+        li per <tld/>a ordono admonis, ke ili diru &ccirc;i tion al neniu
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 9:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Jesuo <tld/>e admonis la malpuran spiriton
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 9:42</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi faris al ili <tld/>an ripro&ccirc;on
+        <fnt>
+          <bib>MT</bib>
+          <lok>Ne&hcirc;emja 13:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi vin timis, &ccirc;ar vi estas homo <tld/>a
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 19:21</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e precizigi la signifon
+        <fnt>
+          <bib>LR</bib>
+          <lok>1. Vortfarado</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se ni deziras paroli <tld/>e regule
+        <fnt>
+          <bib>LR</bib>
+          <lok>4. Fonetiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a netu&scirc;ebleco de nia fundamento estas la plej grava ka&ubreve;zo de nia &gcirc;isnuna
+        progresado
+        <fnt>
+          <bib>F</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Dio longe paciencas, sed <tld/>e rekompencas
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ju homo pli fiera, des puno pli <tld/>a
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        negocaj aferoj estas <tld/>aj
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne &ccirc;ion oni devas <tld/>e ekzameni
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="bagate.0ema">bagatelema</ref>,
+      <ref cel="cxikan.0ema">&ccirc;ikanema</ref>,
+      <ref cel="pedant.0a.ekzaktema">pedanta<sncref/></ref>,
+      <ref cel="strikt.0a.FIG">strikta<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>unnachsichtig</trd>,
+      <trd>unabl&auml;ssig</trd>,
+      <trd>unnachgiebig</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>stern</trd>,
       <trd>rigid</trd>,
@@ -30,30 +114,31 @@
   <snc mrk="sever.0a.io">
     <uzo tip="klr">(io)</uzo>
     <dif>
-      Akre malmilda; malfacile eltenebla; suferiga:
+      Akre <ref cel="mild.mal0a">malmilda</ref>;
+      malfacile eltenebla; suferiga:
       <ekz>
-        <tld/>a le&gcirc;o, regulo;
+        sangover&scirc;o kruela kaj <tld/>a
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 16:38</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>a unueco estas nepra kondi&ccirc;o de interkompreni&gcirc;o;
+        &scirc;ia viza&gcirc;esprimo fari&gcirc;is ankora&ubreve; pli malvarma kaj <tld/>a
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>e precizigi la signifon<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        se ni deziras paroli <tld/>e regule<fnt>Z</fnt>.
-      </ekz>
-      <ekz>
-        <tld/>a vintro<fnt>Z</fnt>,
-      </ekz>
-      <ekz>
-        klimato, vetero, batalo;
-      </ekz>
-      <ekz>
-        la senlaboreco fari&gcirc;as ankora&ubreve; pli <tld/>a.
+        &ccirc;u oni havos mildan &ccirc;u <tld/>an vintron
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Konkurso de saltado</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
+      <ref cel="drast.0a">drasta</ref>,
       <ref cel="fer.0a">fera</ref>,
       <ref cel="kruel.0a">kruela</ref>,
       <ref cel="rigid.0a">rigida</ref>,
@@ -61,12 +146,16 @@
       <ref cel="ced">senceda</ref>,
       <ref cel="kompat">senkompata</ref>
     </refgrp>
+  <trdgrp lng="de">
+    <trd>heftig</trd>,
+    <trd>hart <klr>(streng)</klr></trd>
+  </trdgrp>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_s;&c_t;&c_r;&c_o;&c_g;&c_ib;</trd>, 
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_g;&c_ib;</trd>,
     <trd>&c_s;&c_u;&c_v;&c_o;&c_r;&c_y;</trd>
   </trdgrp>
-  <trd lng="cs">přísný</trd>
+  <trd lng="cs">p&rcaron;&iacute;sn&yacute;</trd>
   <trd lng="de">streng</trd>
   <trdgrp lng="en">
     <trd>severe</trd>,
@@ -79,21 +168,81 @@
     <trd>szigor&uacute;</trd>,
     <trd>k&eacute;rlelhetetlen</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x53B3;&#x3057;&#x3044;  [<ind>&#x304D;&#x3073;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x53B3;&#x683C;&#x306A;  [<ind>&#x3052;&#x3093;&#x304B;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x5BB9;&#x8D66;&#x306E;&#x306A;&#x3044;  [<ind>&#x3088;&#x3046;&#x3057;&#x3083;&#x306E;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x904E;&#x9177;&#x306A;  [<ind>&#x304B;&#x3053;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x731B;&#x70C8;&#x306A;  [<ind>&#x3082;&#x3046;&#x308C;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x6DF1;&#x523B;&#x306A;  [<ind>&#x3057;&#x3093;&#x3053;&#x304F;&#x306A;</ind>]</trd>,
+    <trd>&#x7C21;&#x7D20;&#x306A;  [<ind>&#x304B;&#x3093;&#x305D;&#x306A;</ind>]</trd>,
+    <trd>&#x7121;&#x99C4;&#x306E;&#x306A;&#x3044;  [<ind>&#x3080;&#x3060;&#x306E;&#x306A;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">streng</trd>
+  <trdgrp lng="pl">
+    <trd>srogi</trd>,
+    <trd>surowy</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_t;&c_r;&c_o;&c_g;&c_i;&c_j;</trd>,
     <trd>&c_s;&c_u;&c_r;&c_o;&c_v;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="sk">prísny</trd>
+  <trd lng="sk">pr&iacute;sny</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&c_v;&c_o;&c_r;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sever.mal0a">
   <kap>mal<tld/>a</kap>
   <snc mrk="sever.mal0a.iu">
     <dif>
-      Milda, pacienca, tolera al kontra&ubreve;regula&jcirc;oj:
+      <ref tip="sin" cel="mild.0a">Milda</ref>, pacienca, <ref tip="sin" cel="toler.0ema">tolerema</ref>
+      al kontra&ubreve;regula&jcirc;oj:
       <ekz>
-        malgra&ubreve; la tuta lia negativismo, li estas ene tre 
+        sinjoroj <klr>[&#x2026;]</klr> bonaj kaj mal<tld/>aj
+        <fnt>
+          <bib>NT</bib>
+          <lok>I. Petro 2:18</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ordonis al la centestro gardi Pa&ubreve;lon kun mal<tld/>eco, kaj ne malpermesi al
+        iu ajn el liaj amikoj lin viziti
+        <fnt>
+          <bib>NT</bib>
+          <lok>La agoj 24:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via patro, tro mal<tld/>a, kura&gcirc;igis &ccirc;i tiujn homojn
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la okuloj <klr>[&#x2026;]</klr> rigardis iafoje sub la sulkoplena frunto inteligente
+        kaj mal<tld/>e
+        <fnt>
+          <bib>IK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        viza&gcirc;o prudenta, nobla kaj mal<tld/>a
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        via mal<tld/>eco devas fortikigi lin en liaj dibo&ccirc;a&jcirc;oj
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Unua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malgra&ubreve; la tuta lia negativismo, li estas ene tre
         mal<tld/>a homo
         <fnt>
           <aut>-</aut>,
@@ -103,6 +252,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>nachsichtig</trd>,
+      <trd>nachl&auml;ssig</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>accomodant</trd>,
       <trd>bienveillant</trd>
@@ -112,37 +265,64 @@
     <dif>
       Milda, ne tre akra, malforte suferiga:
       <ekz>
+        kiel karesa kaj mal<tld/>a estis &gcirc;ia mateno
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         mal<tld/>an vintron ni havas en &ccirc;i tiu jaro.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="drast.mal0a">maldrasta</ref>,
+      <ref cel="seren.0a">serena</ref>
+    </refgrp>
     <trdgrp lng="fr">
       <trd>b&eacute;nin</trd>,
       <trd>l&eacute;ger<klr> (pas grave)</klr></trd>
     </trdgrp>
   </snc>
-  <trdgrp lng="cs">
-    <trd>mírný</trd>,
-    <trd>nespoutaný</trd>,
-    <trd>nevázaný</trd>,
-    <trd>shovívavý</trd>,
-    <trd>uvolněný</trd>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ja;&c_k;&c_k;&c_ib;</trd>,
+    <trd>&c_c;&c_ja;&c_r;&c_p;&c_l;&c_ib;&c_v;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>m&iacute;rn&yacute;</trd>,
+    <trd>nespoutan&yacute;</trd>,
+    <trd>nev&aacute;zan&yacute;</trd>,
+    <trd>shov&iacute;vav&yacute;</trd>,
+    <trd>uvoln&ecaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">mild</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5BDB;&#x5927;&#x306A;  [<ind>&#x304B;&#x3093;&#x3060;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x3042;&#x307E;&#x3044;</trd>,
+    <trd>&#x7A4F;&#x3084;&#x304B;&#x306A;  [<ind>&#x304A;&#x3060;&#x3084;&#x304B;&#x306A;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">&lstroke;agodny</trd>
   <trdgrp lng="sk">
     <trd>mierny</trd>,
-    <trd>nespútaný</trd>,
-    <trd>neviazaný</trd>,
-    <trd>uvoľnený</trd>
+    <trd>nesp&uacute;tan&yacute;</trd>,
+    <trd>neviazan&yacute;</trd>,
+    <trd>uvo&lcaron;nen&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_b;&c_l;&c_a;&c_zh;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_m;&#x2019;&c_ja;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_t;&c_u;&c_p;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_a;&c_s;&c_k;&c_a;&c_v;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
 <drv mrk="sever.mal0igi">
-  <kap>mal<tld/>i</kap>
+  <kap>mal<tld/>igi</kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="sever.mal0igi.KOMUNE">
     <dif>
       Igi malpli <tld/>a, malpli drasta, pli milda:
       <ekz>
-        onklo Pan provis aperigi sekan rideton por 
+        onklo <nom>Pan</nom> provis aperigi sekan rideton por
         mal<tld/>igi sian kontra&ubreve;diron de mia patrino
         <fnt>
           <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
@@ -152,14 +332,35 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_k;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd>abmildern</trd>,
+    <trd>entsch&auml;rfen <klr>(abmildern)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>adoucir</trd>,
     <trd>att&eacute;nuer</trd>
   </trdgrp>
+  <trd lng="pl">&lstroke;agodnie&cacute;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2023/08/25 22:28:38
+Vito Redsky: +trd pl 
+
+versio 1.19 2022/04/16 15:29:51
+Wolfram Diestel: ordo de ekz, +ref-oj, trd de
+
+versio 1.17 2021/07/22 10:33:34
+Dmitri Gabinski: +trd be
+
+versio 1.16 2021/03/12 19:23:58
+Wolfram Diestel: ekz-oj, ref-oj, trd de, korekto: mal~igi
+
+versio 1.15 2021/03/12 15:55:09
+Wolfram Diestel: +ref
+
 Revision 1.13  2015/06/29 16:33:23  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -167,23 +368,5 @@ Revision 1.12  2014/12/17 23:10:13  revo
 Jeromo Vasxe: +~a 2 snc, + mal~a mal~igi
 
 Revision 1.11  2010/04/19 16:30:29  revo
-Russ Williams: +trd en
-
-Revision 1.10  2004/10/08 16:32:17  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.9  2003/03/13 17:33:51  revo
-Axel Rousseau: +trd fr
-
-Revision 1.8  2002/12/20 17:34:22  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.7  2002/02/08 17:32:59  revo
-Yury Finkel: +trd ru
-
-Revision 1.6 2001/09/08 19:12:36 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.5 2000/11/14 17:12:52 revo
 -->
 </vortaro>

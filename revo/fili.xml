@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fili.xml,v 1.12 2009/02/15 14:17:53 revo Exp $">
+<art mrk="$Id: fili.xml,v 1.22 2023/08/31 13:11:29 revo Exp $">
 <kap>
 <ofc>3</ofc>
 <rad>fili</rad>/o
@@ -18,39 +17,47 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Douglas Draper</aut>
-          <vrk><url ref="https://www.monato.be/2003/008001.html">Pa&scirc;oj al paco</url></vrk>
+          <vrk><url ref="&Monato;/2003/008001.html">Pa&scirc;oj al paco</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la praga <tld/>o de la Civitan-demokrata partio luis de la 18a &gcirc;is la 21a de septembro la Malnovurban kaj Venceslaan placojn
+        la praga <tld/>o de la Civitan-demokrata partio luis de la 18a &gcirc;is la 21a de septembro la
+        Malnovurban kaj Venceslaan placojn
         <fnt>
-          <bib>Monato</bib>
+          <aut>jpa</aut>
+            <vrk><url ref="&Monato;/2000/007093.php">Internacia kunsido de financistoj en
+            Prago</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 9</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Matsumoto Kiyoshi</nom> estas la plej granda tia &ccirc;eno kun &ccirc;. 500 <tld/>oj en kaj &ccirc;irka&ubreve;
+        Tokio
+        <fnt>
+          <aut>IGARASI Takeo</aut>
+            <vrk><url ref="&Monato;/2001/007200.php">Ginza</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 13</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        ili vizitis la L&amp;H-<tld/>ojn en Singapuro kaj Koreio kaj konstatis, ke tiuj <tld/>oj
+        estas malfacile a&ubreve; tute ne troveblaj
+       <fnt>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007093.html">Internacia kunsido de financistoj en Prago</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
-        <nom>Matsumoto Kiyoshi</nom> estas la plej granda tia &ccirc;eno kun &ccirc;. 500 <tld/>oj en kaj &ccirc;irka&ubreve; Tokio
-        <fnt>
+          <vrk><url ref="&Monato;/2001/007334.php">Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
           <bib>Monato</bib>
-          <aut>Igarasi Takeo</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007200.html">Ginza</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
-        ili vizitis la L&amp;H-<tld/>ojn en Singapuro kaj Koreio kaj konstatis, ke tiuj <tld/>oj estas malfacile a&ubreve; tute ne troveblaj
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Roland Rotsaert</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007334.html">Belgio: Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
-        </fnt>;
+          <lok>2001/02, p. 8</lok>
+          </fnt>;
       </ekz>
       <ekz>
         bankoj en meza kaj orienta E&ubreve;ropo <klr>[tenas]</klr> vastan reton de <tld/>oj
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="https://www.monato.be/2003/008044.html">Internaciaj bankoj stabiligas siajn poziciojn</url></vrk>
+          <vrk><url ref="&Monato;/2003/008044.html">Internaciaj bankoj stabiligas siajn
+          poziciojn</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -79,6 +86,11 @@
     <trd>filiale</trd>,
     <trd>succursale</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x652F;&#x90E8;  [<ind>&#x3057;&#x3076;</ind>]</trd>,
+    <trd>&#x652F;&#x5E97;  [<ind>&#x3057;&#x3066;&#x3093;</ind>]</trd>,
+    <trd>&#x652F;&#x6240;  [<ind>&#x3057;&#x3057;&#x3087;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">filiaal</trd>
   <trd lng="pt">filial</trd>
   <trdgrp lng="ru">
@@ -89,10 +101,23 @@
     <trd>fili&aacute;lka</trd>,
     <trd>odbo&ccaron;ka</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_ib;&c_d;&c_d;&c_ib;&#x43B;&c_je;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&c_f;&c_ib;&#x43B;&c_ib;&#x44F;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.21 2023/04/30 08:29:03
+Paul Peeraerts: Steloj -> monato
+
+versio 1.20 2023/04/15 12:43:10
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.19 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.16  2018/08/31 19:10:17  revo
 Wolfram Diestel: +ekz-oj
 
@@ -106,14 +131,5 @@ Revision 1.13  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.12  2009/02/15 14:17:53  revo
-Russ Williams: +trd en
-
-Revision 1.11  2007/05/30 16:31:01  revo
-Tulio Flores: +tr pt
-
-Revision 1.10  2003/12/23 17:38:55  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2002/06/26 19:29:05  revo
 -->
 </vortaro>

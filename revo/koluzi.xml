@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: koluzi.xml,v 1.12 2009/12/20 17:30:50 revo Exp $">
+<art mrk="$Id: koluzi.xml,v 1.17 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <rad>koluzi</rad>/o
   <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -47,6 +46,11 @@
     <trd>intelligence<klr tip="ind"> (entente secr&egrave;te)</klr></trd>,
     <trd>entente<klr tip="ind"> (collusion)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7D50;&#x8A17;  [<ind>&#x3051;&#x3063;&#x305F;&#x304F;</ind>]</trd>,
+    <trd>&#x5171;&#x8B00;  [<ind>&#x304D;&#x3087;&#x3046;&#x307C;&#x3046;</ind>]</trd>,
+    <trd>&#x8AC7;&#x5408;  [<ind>&#x3060;&#x3093;&#x3054;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">geheime <ind>afspraak</ind></trd>
   <trdgrp lng="pl">
     <trd>koluzja</trd>,
@@ -57,12 +61,16 @@
     <trd>conluio</trd>,    
     <trd>acordo secreto</trd>
   </trdgrp>
-  <trd lng="ro">&icirc;n&#539;elegere secret&abreve;</trd>
+  <trd lng="ro">&icirc;n&#x21B;elegere secret&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>,
     <trd>&c_t;&c_a;&c_j;&c_n;&c_o;&c_je; &c_s;&c_o;&c_g;&c_l;&c_a;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
   <trd lng="sk">tajn&yacute; dohovor</trd>
+  <trdgrp lng="uk">
+    <trd>&#x437;&#x43C;&#x43E;&#x432;&#x430;</trd>,
+    <trd>&#x442;&#x430;&#x454;&#x43C;&#x43D;&#x430; &#x443;&#x433;&#x43E;&#x434;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

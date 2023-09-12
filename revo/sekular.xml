@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sekular.xml,v 1.18 2023/09/03 18:39:28 revo Exp $">
 <kap>
   <rad>sekular</rad>/a <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -10,23 +9,69 @@
   <kap><tld/>a</kap>
   <snc mrk="sekular.0a.POL">
     <dif>
-      Ekstereklezia:
+      Ekster<ref tip="ant" cel="eklezi.0a">eklezia</ref>:
       <ekz>
-        <tld/>a edukado;
+        kiam venkis la franca revolucio, oni proklamis <tld/>an &scirc;taton
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Zlatko Ti&scaron;ljar</aut>
+          <vrk><url ref="&Monato;/2008/009575.php">Unueco kaj diverseco</url></vrk>
+          <lok>2008</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>a tribunalo;
+        Ni&gcirc;erio estas <tld/>a &scirc;tato, sed la registaro, eble timante <klr>[&#x2026;]</klr>
+        permesis en la nordo islaman le&gcirc;aron
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Prince Henry Oguinye</aut>
+          <vrk><url ref="&Monato;/2004/008464.html">Rivalas religioj, mortas miloj</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>a &scirc;tato;
+        Johano <nom>Hus</nom> transdonita al la <tld/>a potenco por plenumi la punon
+        <fnt>
+          <aut>Ji&rcaron;&iacute; Patera</aut>
+            <vrk><url ref="&Monato;/2000/007031.php">Johano Hus &ndash; &ccirc;u ne plu herezulo?</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/08, p. 19</lok>
+          </fnt>;
       </ekz>
       <ekz>
-        <tld/>a geedzi&gcirc;o.
+        longa kaj stumbliga vojo kondukis de la faraonoj-dioj de antikva Egiptio &gcirc;is la
+        <tld/>aj respublikoj, e&ccirc; monarkioj, de la nuntempa E&ubreve;ropo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Istvan Ertl</aut>
+          <vrk><url ref="&Monato;/2003/008103.html">Dio en la konstitucio, diablo en la
+          detaloj</url></vrk>
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pli bone estus uzi tiun monon por la plibonigo de <tld/>a instruado kaj
+        konstruado de nereligiaj lernejoj, kiuj instruus racian, skeptikan kaj
+        kritikan rezonadon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2013/011012.php">Templo ateisma</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <ref tip="super" cel="civil.0a">civila</ref>
+    <refgrp tip="vid">
+      <ref cel="laik.0a.neklerika">laika<sncref/></ref>,
+      <ref cel="profan.0a">profana</ref>
+    </refgrp>
   </snc>
-  <ref tip="super" cel="civil.0a">civila</ref>
-  <ref tip="vid" cel="laik.0a.neklerika">laika<sncref/></ref>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_v;&c_je;&c_c;&c_k;&c_ib;</trd>,
+    <trd>&c_l;&c_ju;&c_d;&c_z;&c_k;&c_ib;</trd>,
+    <trd>&c_s;&c_e;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>weltlich</trd>,
     <trd>s&auml;kular</trd>
@@ -43,6 +88,11 @@
   <trdgrp lng="it">
     <trd>secolare<klr> (laico)</klr></trd>,
     <trd>laico</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E16;&#x4FD7;&#x306E;  [<ind>&#x305B;&#x305E;&#x304F;&#x306E;</ind>]</trd>,
+    <trd>&#x975E;&#x5B97;&#x6559;&#x7684;&#x306A;  [<ind>&#x3072;&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x5728;&#x4FD7;&#x306E;  [<ind>&#x3056;&#x3044;&#x305E;&#x304F;&#x306E;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>&sacute;wiecki</trd>,
@@ -66,6 +116,11 @@
     <trd>sekul&aacute;rn&iacute;</trd>,
     <trd>sv&ecaron;tsk&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_v;&c_ib;&c_t;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x43C;&c_i;&c_r;&c_s;&#x44C;&#x43A;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je; &c_c;&c_je;&c_r;&#x43A;&#x43E;&c_v;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sekular.0igi">
@@ -80,7 +135,14 @@
         <tld/>igi la lernejojn;
       </ekz>
       <ekz>
-        <tld/>igi la mona&hcirc;ejajn bienojn;
+        <tld/>igo minacas la britan socion, diris <klr>[&#x2026;]</klr> estro de altnivela
+        brita delegacio dum oficiala vizito al la Papo
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2013/010834.php">&Ccirc;u forvi&scirc;i la kredon por esti egala?</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
@@ -89,8 +151,7 @@
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_s;&c_e;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_y;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="be">&c_s;&c_e;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_y;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>sekularizovat</trd>,
     <trd>zesv&ecaron;t&scaron;tit</trd>
@@ -105,15 +166,19 @@
   <trdgrp lng="it">
     <trd>laicizzare</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E16;&#x4FD7;&#x5316;&#x3059;&#x308B;  [<ind>&#x305B;&#x305E;&#x304F;&#x304B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5B97;&#x6559;&#x304B;&#x3089;&#x5207;&#x308A;&#x96E2;&#x3059;  [<ind>&#x3057;&#x3085;&#x3046;&#x304D;&#x3087;&#x3046;&#x304B;&#x3089;&#x304D;&#x308A;&#x306F;&#x306A;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">seculariseren</trd>
   <trdgrp lng="pl">
     <trd>sekularyzowa&cacute;</trd>,
     <trd>ze&sacute;wieccza&cacute;</trd>,
     <trd>laicyzowa&cacute;</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_s;&c_je;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_s;&c_je;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">zosvet&scaron;ti&tcaron;</trd>
+  <trd lng="uk">&c_s;&c_je;&#x43A;&c_u;&#x43B;&#x44F;&c_r;&c_i;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="sekular.0ismo">
@@ -122,7 +187,8 @@
     <uzo tip="fak">POL</uzo>
     <uzo tip="fak">REL</uzo>
     <dif>
-      Doktrino la&ubreve; kiu la politika kaj socia vivo estu memstara,
+      <ref tip="super" cel="doktri.0o">Doktrino</ref> la&ubreve; kiu la politika kaj socia vivo estu
+      memstara,
       sen miksi&gcirc;o a&ubreve; influo de religio:
       <ekz>
         la <tld/>ismo kaj la kontra&ubreve;-kristana batalado flanke de la 
@@ -131,14 +197,14 @@
         a&ubreve; e&ccirc; perfortaj
         <fnt>
           <aut>P. Cadei</aut>,
-          <vrk><url
-          ref="http://www.radio-vatikana-esperanto.org/elsendo.php?d=2006-10-26">
+          <vrk><url ref="http://www.radio-vatikana-esperanto.org/elsendo.php?d=2006-10-26">
           Nova Paganismo</url></vrk>,
           <lok>2006-10-26</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_e;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_y;&c_z;&c_m;</trd>
   <trd lng="cs">sekularizmus</trd>
   <trdgrp lng="fr">
     <trd>laic&iuml;t&eacute;</trd>,
@@ -149,24 +215,27 @@
 </art>
 <!--
 $Log$
+versio 1.17 2023/05/01 13:28:17
+Paul Peeraerts: Steloj -> monato
+
+versio 1.16 2022/06/14 09:33:40
+Dmitri Gabinski: + trd be
+
+versio 1.15 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.13 2021/04/01 05:56:51
+Wolfram Diestel: +ref
+
+versio 1.12 2021/03/31 13:55:15
+Wolfram Diestel: +tld
+
+versio 1.11 2020/11/15 10:32:20
+Wolfram Diestel: +ekz-oj
+
 Revision 1.9  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.8  2015/06/29 16:33:23  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.7  2011/03/09 23:10:11  revo
-Jeromo Vasxe: + ~ismo + trd fr
-
-Revision 1.6  2010/02/03 17:30:41  revo
-Russ Williams: +trd en
-
-Revision 1.5  2009/10/24 16:31:39  revo
-Antonio Codazzi: +trd it
-
-Revision 1.4  2009/02/10 14:19:33  revo
-Sebastian Cyprych: -fusxaj linirompoj en trd
-
-Revision 1.3  2006/07/05 18:36:19  revo
 -->
 </vortaro>

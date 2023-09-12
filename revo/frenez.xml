@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frenez.xml,v 1.19 2010/07/10 16:30:39 revo Exp $">
+<art mrk="$Id: frenez.xml,v 1.37 2023/08/31 13:11:31 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>frenez</rad>/a <fnt><bib>PV</bib></fnt>
@@ -12,12 +11,38 @@
   <snc mrk="frenez.0a.malsana">
     <uzo tip="klr">(iu)</uzo>
     <dif>
-      Perdinta la prudenton pro mensa malsano.
+      Perdinta la prudenton pro mensa malsano:
+      <ekz>
+        li havas demonon kaj estas <tld/>a, kial vi lin a&ubreve;skultas
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Joh; 10:20</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        li &scirc;an&gcirc;is sian aspekton anta&ubreve; iliaj okuloj, furiozis inter iliaj manoj, desegnis
+        sur la pordoj de la pordego, kaj fluigis salivon sur sian barbon
+        <klr>[&#x2026;]</klr> &dash; vi vidas ja, ke &ccirc;i tiu homo estas <tld/>a, kial do vi
+        venigis lin al mi
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Sa1; 21:14</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        en &scirc;ia flustro estis io preska&ubreve; <tld/>a
+        <fnt>
+          <bib>IK</bib>
+          <lok>&ccirc;apitro 4a</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="vid" cel="pruden.mal0a">malprudenta</ref>
     <trdgrp lng="de">
-      <trd>verr&uuml;ckt</trd>,
+      <trd>geisteskrank</trd>,
       <trd>wahnsinnig</trd>,
-      <trd>irr</trd>
+      <trd>irre</trd>,
+      <trd>verr&uuml;ckt</trd>
     </trdgrp>
     <trdgrp lng="nl">
       <trd>gek</trd>,
@@ -28,16 +53,66 @@
       <trd>szaleniec</trd>
     </trdgrp>
   </snc>
-  <snc mrk="frenez.0a.pasieMalsagxega">
+  <snc mrk="frenez.0a.pro_pasio">
     <uzo tip="klr">(iu)</uzo>
     <dif>
-      Perdinta la sinregadon pro pasio; malsa&gcirc;ega:
+      Perdinta la sinregadon pro pasio, droguzo; 
+      <ref tip="super" cel="sagx.mal0a">malsa&gcirc;ega</ref>:
       <ekz>
-        li estis <tld/>a pro &jcirc;aluzo, &gcirc;ojo.
+        la princoj komencas fari&gcirc;i <tld/>aj de la vino
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Hos; 7:5</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li <klr>[&#x2026;]</klr> amuzi&gcirc;is kiel <tld/>a
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&ccirc;apitro 6a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lin oni dronigadis, <klr>[&#x2026;]</klr> &scirc;i kriis kiel <tld/>a
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 12a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro kolero estante duon<tld/>a
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&ccirc;apitro 8a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i estis vestita nigra, &scirc;i kuris kiel rabia, nenion vidante anta&ubreve; si, mi pensis,
+        ke &scirc;i estas <tld/>a
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        <tld/>a pro malespero
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gepatroj de Klotildo lin rigardadis per <tld/>aj okuloj, kvaza&ubreve; ili ne
+        komprenas
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="furioz.0a">furioza</ref>.
+      <ref cel="fol.0a">fola</ref>,
+      <ref cel="frivol.0a.maldeca">frivola<sncref/></ref>,
+      <ref cel="furioz.0a">furioza</ref>,
+      <ref cel="brid.sen0a.FIG">senbrida<sncref/></ref>,
+      <ref cel="stult.0a">stulta</ref>
     </refgrp>
     <trdgrp lng="de">
       <trd>verr&uuml;ckt</trd>,
@@ -51,19 +126,34 @@
   <snc mrk="frenez.0a.sensenca">
     <uzo tip="klr">(io)</uzo>
     <dif>
-      Malsa&gcirc;ega, sensenca:
+      Malsa&gcirc;ega, <ref tip="sin" cel="senc.sen0a.malsagxa">sensenca</ref>:
       <ekz>
-        <tld/>a amo, deziro, elspezo<fnt>B</fnt>.
+        <tld/>a amo, deziro;
+      </ekz>
+      <ekz>
+        ia <tld/>a, mokinda kurioza&jcirc;o
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiom da fojoj vi mem parolis kun indigno pri la <tld/>aj elspezoj de la faraona
+        kortego
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 2a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i legis en la okuloj de sia amanto la <tld/>an deziron, kiu lin flamigis
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="delir.0o">deliro</ref>,
-      <ref cel="ekstra1.0o">ekstravaganco</ref>,
-      <ref cel="mani.0o">manio</ref>.
-    </refgrp>
-    <refgrp tip="vid">
-      <ref cel="musx.0o">mu&scirc;o</ref>,
-      <ref cel="zum.0i">zumi</ref>.
+      <ref cel="ekstra1.0a.io">ekstravaganca<sncref/></ref>
     </refgrp>
     <trdgrp lng="de">
       <trd>verr&uuml;ckt</trd>,
@@ -72,7 +162,13 @@
     <trd lng="nl">waanzinnig</trd>
     <trd lng="pl">szalony</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_a;&c_l;&c_jo;&c_n;&c_y;</trd>,
+    <trd>&c_v;&c_a;&c_r;&#x2019;&c_ja;&c_c;&c_k;&c_ib;</trd>,
+    <trd>&c_k;&c_r;&c_u;&c_ch;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="bg">&c_l;&c_u;&c_d;</trd>
+  <trd lng="bo">&t_sa;&t_mata;&t_yata;&t_naro;&t_na;&t_tsheg;&t_pa;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>bl&aacute;zniv&yacute;</trd>,
     <trd>frenetick&yacute;</trd>,
@@ -97,6 +193,12 @@
     <trd>matto<klr> (agg.)</klr></trd>,
     <trd>insensato<klr> (folle, agg.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#x306E;&#x72C2;&#x3063;&#x305F;  [<ind>&#x304D;&#x306E;&#x304F;&#x308B;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x6C17;&#x9055;&#x3044;&#x3058;&#x307F;&#x305F;  [<ind>&#x304D;&#x3061;&#x304C;&#x3044;&#x3058;&#x307F;&#x305F;</ind>]</trd>,
+    <trd>&#x7121;&#x5206;&#x5225;&#x306A;  [<ind>&#x3080;&#x3075;&#x3093;&#x3079;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x6211;&#x3092;&#x5FD8;&#x308C;&#x305F;  [<ind>&#x308F;&#x308C;&#x3092;&#x308F;&#x3059;&#x308C;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="ku">
     <trd>d&icirc;n</trd>,
     <trd>&scedil;&ecirc;t</trd>
@@ -118,7 +220,12 @@
     <trd>&scaron;ialen&yacute;</trd>
   </trdgrp>
   <trd lng="sv">galen</trd>
-  <trd lng="tp">nasa</trd>
+  <trd lng="tok">nasa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_o;&c_zh;&c_je;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_p;&c_o;&c_v;&c_n;&c_a; &c_r;&c_o;&c_z;&c_u;&c_m;&c_u;</trd>,
+    <trd>&c_sh;&c_a;&c_l;&c_je;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frenez.0i">
@@ -126,24 +233,88 @@
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="frenez.0i.KOMUNE">
     <dif>
-      Esti <tld/>a:
+      Esti <tld/>a; elmontri <tld/>an konduton:
       <ekz>
-        &ccirc;u vi <tld/>as? &ccirc;u vi deziras ka&ubreve;zi skandalon?
+        kompatu mian filon, &ccirc;ar li <tld/>as kaj forte suferas
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Mat; 17:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Pa&ubreve;lo diris: mi ne <tld/>as, <klr>[&#x2026;]</klr> sed mi malka&scirc;e parolas vortojn de
+        vero kaj prudento
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Ago; 26:25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u vi <tld/>as? &ccirc;u vi deziras ka&ubreve;zi skandalon
         <fnt>
           <aut>J. Francis</aut>,
           <vrk>La Granda Kaldrono</vrk>,
           <lok>1978</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        la amfiteatro ek<tld/>is
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la amaso ne kriis, sed bruegis, &gcirc;i ne &gcirc;ojis, sed <tld/>is
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&ccirc;apitro 7a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi devis vidi, kiel &scirc;i <tld/>is, kiam venis la sciigo, ke vi mortis
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la cezaro, kiam naski&gcirc;is al li tiu filino, simple <tld/>is pro feli&ccirc;o
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ne <tld/>as, mi nur ser&ccirc;as! kaj se mi <tld/>as, &gcirc;i estas pro enuo kaj
+        malpacienco, ke mi ne povas trovi
+        <fnt>
+          <bib>QuV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li ploris, li kriis, li <tld/>is, &ccirc;iam parolante nur &ccirc;uk&ccirc;e
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>as doni al malsukceso tiom da graveco
+        <fnt>
+          <bib>ChB</bib>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&#x2019;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_sh;&c_a;&c_l;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>bl&aacute;znit</trd>,
     <trd>&scaron;&iacute;let</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>verr&uuml;ckt sein</trd>,
-    <trd>wahnsinnig sein</trd>,
+    <trd><ind>verr&uuml;ckt</ind> sein</trd>,
+    <trd><ind>wahnsinnig</ind> sein</trd>,
     <trd>durchgedreht sein</trd>
   </trdgrp>
   <trd lng="en">rave</trd>
@@ -161,6 +332,7 @@
     <trd>essere <ind>pazo</ind></trd>,
     <trd>essere <ind>folle</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#x72C2;&#x3063;&#x3066;&#x3044;&#x308B;  [<ind>&#x304F;&#x308B;&#x3063;&#x3066;&#x3044;&#x308B;</ind>]</trd>
   <trdgrp lng="nl">
     <trd><ind>gek</ind> zijn</trd>,
     <trd><ind>waanzinnig</ind> zijn</trd>
@@ -175,6 +347,10 @@
   <trd lng="ru">&c_b;&c_je;&c_z;&c_u;&c_m;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">bl&aacute;zni&tcaron; sa</trd>
   <trd lng="sv">vara <ind>galen</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_o;&c_zh;&c_je;&c_v;&c_o;&c_l;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_d;&c_u;&c_r;&c_ib;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frenez.0o">
@@ -183,6 +359,63 @@
   <snc mrk="frenez.0o.KOMUNE">
     <dif>
       Stato, simptomaro, sinteno de tiu, kiu <tld/>as:
+      <ekz>
+        la Eternulo frapos vin per <tld/>eco kaj per blindeco
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Rea; 28:28</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        muta azeno, parolante per homa vo&ccirc;o, haltigis la <tld/>econ de la profeto
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Pe2; 2:16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas malsana, tio estas <tld/>o, sen&gcirc;oja <tld/>o, &ccirc;irka&ubreve;ita de timego kaj
+        malbonaj son&gcirc;oj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        malmodesteco! <tld/>o! <klr>[&#x2026;]</klr> oni en&scirc;losu la malsa&gcirc;ulon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Dorna vojo de la honoro</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        iliaj haroj kaj barboj kreskis longaj, iliaj okuloj havis esprimon de trankvila
+        <tld/>o
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 11a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u <tld/>o falis sur &scirc;ian animon
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&ccirc;apitro 21a</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        li ofte malatentas la decregulojn, kaj lia gajo degeneras en <tld/>on
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>Anta&ubreve;parolo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ekregis min <tld/>o de la batalo kaj venko
+        <fnt>
+          <bib>FdO</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         tiu &ccirc;i malsano konsistas en tio, ke homoj,
         kiuj &gcirc;is nun estis tute prudentaj, ricevas
@@ -194,45 +427,125 @@
         </fnt>;
       </ekz>
       <ekz>
-        li atingis tian gradon de <tld/>eco, ke li volis sin
-        mortigi.
+        mi estas amanta kaj &jcirc;aluza &gcirc;is <tld/>eco
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="ant">
+      <ref cel="pruden.0o.komuna_menso">prudento<sncref/></ref>
+    </refgrp>
+  <trdgrp lng="de">
+    <trd>Verr&uuml;cktheit</trd>,
+    <trd>Unsinn</trd>,
+    <trd>Schnapsidee</trd>,
+    <trd>Macke</trd>
+  </trdgrp>
   </snc>
-  <trdgrp lng="fr">
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&#x2019;&c_ja;&c_c;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_sh;&c_a;&c_l;&c_je;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Wahnsinn</trd>,
+    <trd>Verr&uuml;cktheit</trd>
+  </trdgrp><trdgrp lng="fr">
     <trd>folie</trd>,
     <trd>d&eacute;mence</trd>,
     <trd>d&eacute;raison</trd>,
     <trd>fr&eacute;n&eacute;sie</trd>
   </trdgrp>
+  <trd lng="id">ke<ind>gila</ind>an</trd>
   <trdgrp lng="it">
     <trd>pazzia</trd>,
     <trd>follia</trd>
   </trdgrp>
+  <trd lng="ja">&#x72C2;&#x6C17;  [<ind>&#x304D;&#x3087;&#x3046;&#x304D;</ind>]</trd>
   <trd lng="nl">dementie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_o;&c_zh;&c_je;&c_v;&c_ib;&c_l;&c_l;&c_ja;</trd>,
+    <trd>&c_sh;&c_a;&c_l;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frenez.0ajxo">
   <kap><tld/>a&jcirc;o</kap>
   <snc mrk="frenez.0ajxo.KOMUNE">
     <dif>
-      Ago, diro <tld/>a a&ubreve;
-      ekstravaganca:
+      Ago, diro, imaga&jcirc;o <tld/>a:
+      <ekz>
+        &ccirc;u mankas al mi <tld/>uloj, ke vi alkondukis &ccirc;i tiun, ke li faru <tld/>a&jcirc;ojn
+        anta&ubreve; mi?
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Sa1; 21:15</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne enmetu al vi <tld/>a&jcirc;ojn en la kapon!
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malbela anasido</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estis preta fari por &scirc;i <tld/>a&jcirc;on
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&ccirc;apitro 6a</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         kial vi faras tiajn <tld/>a&jcirc;ojn?
-        &ccirc;u ne venis al vi en la kapo, ke eble iu vidos vin?
+        &ccirc;u ne venis al vi en la kapo, ke eble iu vidos vin
         <fnt>
-          <aut>J. Francis</aut>,
-          <vrk>La Granda Kaldrono</vrk>,
+          <aut>J. Francis</aut>
+          <vrk>La Granda Kaldrono</vrk>
           <lok>1978</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        tiun <tld/>a&jcirc;on oni ne povas elpeli al li el la kapo
+        <fnt>
+          <bib>GDn</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu el vi havu la rajton diri: tio estas tute privata ideo a&ubreve; <tld/>a&jcirc;o de
+        <nom>Zamenhof</nom>
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        per la fori&gcirc;o de <nom>Don Ki&hcirc;oto</nom> perdi&gcirc;is la tuta amuzo, kiun havis &ccirc;iuj per liaj
+        <tld/>a&jcirc;oj
+        <fnt>
+          <bib>DKM</bib>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="ekstra1.0o">ekstravaganco</ref>,
+      <ref cel="hximer.0o.FIG">&hcirc;imero<sncref/></ref>,
+      <ref cel="kapric.0o">kaprico</ref>,
+      <ref cel="mani.0o">manio</ref>,
+      <ref cel="marot.0o">maroto</ref>,
+      <ref cel="tik.0o.manio">tiko<sncref/></ref>
+    </refgrp>  
   </snc>
   <trd lng="fr">folie<klr tip="ind"> (chose
   d&eacute;raisonnable)</klr></trd>
   <trd lng="it">follia<klr> (atto)</klr></trd>
+  <trd lng="ja">&#x72C2;&#x6C17;&#x306E;&#x6C99;&#x6C70;  [<ind>&#x304D;&#x3087;&#x3046;&#x304D;&#x306E;&#x3055;&#x305F;</ind>]</trd>
   <trd lng="nl">folie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_sh;&c_a;&c_l;&c_je;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_r;&c_o;&c_z;&c_s;&c_u;&c_d;&c_n;&c_i;&c_j; &c_v;&c_ch;&c_i;&c_n;&c_o;&c_k;</trd>,
+    <trd>&c_b;&c_o;&c_zh;&c_je;&c_v;&c_ib;&c_l;&c_l;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frenez.0iga">
@@ -242,17 +555,51 @@
       Kiu igas iun <tld/>a, malprudenta, kondukas al
       malraciaj agoj:
       <ekz>
+        <klr>[&ccirc;u]</klr> oni ne donis al la faraono <tld/>igan venenon?
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&ccirc;apitro 12a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>iga doloro turmentas min de la piedoj &gcirc;is la kapo
+        <fnt>
+          <bib>IK</bib>
+          <lok>&ccirc;apitro 5a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen&ccirc;esa <tld/>iga meditado
+        <fnt>
+          <bib>Ifigenio</bib>
+          <lok>Ifigenio en Ta&ubreve;rido</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la necerteco fari&gcirc;is pli kaj pli <tld/>iga
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kiel &ccirc;arma &scirc;ia mola vo&ccirc;o, kiel <tld/>igaj &scirc;iaj bluaj okuloj
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
         la plej fantaziaj priskriboj pri &scirc;ipopereoj, kiujn mi iam
         legis, restas malproksime de la <tld/>iga realeco de tiu 
         katastrofo
         <fnt>
-          <aut>H. A. Luyken</aut>,
-          <vrk>Rakonto de Maljuna Klubano</vrk>,
+          <aut>H. A. Luyken</aut>
+          <vrk>Rakonto de Maljuna Klubano</vrk>
           <lok>Verda Mondo, 1927-10, p. 32a</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="de"><ind>verr&uuml;ckt</ind> machend</trd>
   <trd lng="fr">affolant</trd>
 </drv>
 
@@ -263,9 +610,42 @@
     <dif>
       Igi iun <tld/>a:
       <ekz>
-        la kolero <tld/>igis lin.
+        multe da studado vin <tld/>igas
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Ago; 26:24</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        perdo, kiu min <tld/>igus, se mi ne penus sufoki tiun rememoron
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        esti ka&ubreve;zo de lia morto min tuje <tld/>igus
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        rideto, kiu &scirc;ajnis <tld/>igi la petegantan Fradekon
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi havas kapablon <tld/>igi kaj malspritigi &ccirc;iujn, kiuj vin konas
+        <fnt>
+          <bib>DKM</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="furioz.0igi">furiozigi</ref>,
+      <ref cel="incit.0i.kolerigi">inciti<sncref/></ref>
+    </refgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>pobl&aacute;znit</trd>,
@@ -273,9 +653,9 @@
     <trd>p&rcaron;iv&aacute;d&ecaron;t k &scaron;&iacute;lenstv&iacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>verr&uuml;ckt machen</trd>,
-    <trd>wahnsinnig machen</trd>,
-    <trd>irr machen</trd>
+    <trd><ind>verr&uuml;ckt</ind> machen</trd>,
+    <trd><ind>wahnsinnig</ind> machen</trd>,
+    <trd><ind>irre</ind> machen</trd>
   </trdgrp>
   <trd lng="en">madden</trd>
   <trd lng="es">enloquecer</trd>
@@ -287,6 +667,11 @@
     <trd>rendere <ind>pazo</ind></trd>,
     <trd>rendere <ind>folle</ind></trd>,
     <trd>far <ind>impazzire</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x72C2;&#x308F;&#x305B;&#x308B;  [<ind>&#x304F;&#x308B;&#x308F;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x9006;&#x4E0A;&#x3055;&#x305B;&#x308B;  [<ind>&#x304E;&#x3083;&#x304F;&#x3058;&#x3087;&#x3046;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x52D5;&#x8EE2;&#x3055;&#x305B;&#x308B;  [<ind>&#x3069;&#x3046;&#x3066;&#x3093;&#x3055;&#x305B;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd><ind>gek</ind> maken</trd>,
@@ -302,7 +687,8 @@
     <trd>pripravi&tcaron; o rozum</trd>
   </trdgrp>
   <trd lng="sv">g&ouml;ra <ind>galen</ind></trd>
-  <trd lng="tp">nasa</trd>
+  <trd lng="tok">nasa</trd>
+  <trd lng="uk">&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_i; &c_z; &c_r;&c_o;&c_z;&c_u;&c_m;&c_u;</trd>
 </drv>
 
 <drv mrk="frenez.0igxi">
@@ -312,10 +698,61 @@
     <dif>
       Fari&gcirc;i <tld/>a:
       <ekz>
-        <tld/>i&gcirc;i de malamo, pro envio.
+        vi <tld/>i&gcirc;os de la vida&jcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Rea; 28:34</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ho! la sango levi&gcirc;as al mi en la kapon tiel, ke mi povas <tld/>i&gcirc;i
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        bruado kaj kriado estis interne kaj ekstere, oni ne povis plu elteni, oni povis
+        <tld/>i&gcirc;i
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        la a&ubreve;danto pensis, ke li <tld/>i&gcirc;os, kaj li &scirc;topis per la fingroj siajn amba&ubreve;
+        orelojn
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        a&ubreve;dante la nova&jcirc;on, la <klr>[&#x2026;]</klr> popolo <klr>[&#x2026;]</klr> <tld/>i&gcirc;is de &gcirc;ojo
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&ccirc;apitro 1a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj junuloj jam duon<tld/>i&gcirc;is pro amo al <nom>Zalmuna</nom>, la Belulino
+        <fnt>
+          <bib>I&scirc;tar</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro doloro la patrino malfeli&ccirc;a preska&ubreve; <tld/>i&gcirc;is
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_v;&c_a;&c_r;&#x2018;&c_ja;&c_c;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_sh;&c_a;&c_l;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="en">go crazy</trd>
   <trd lng="fa">&a_d;&f_y;&a_w;&a_A;&a_n;&a_h; &a_sh;&a_d;&a_n;</trd>
   <trdgrp lng="fr">
@@ -323,15 +760,19 @@
     <trd>perdre la <ind>raison</ind></trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>verr&uuml;ckt werden</trd>,
-    <trd>wahnsinnig werden</trd>,
+    <trd><ind>verr&uuml;ckt</ind> werden</trd>,
+    <trd><ind>wahnsinnig</ind> werden</trd>,
     <trd>durchdrehen</trd>
   </trdgrp>
   <trd lng="es">volver se loco</trd>
-  <trd lng="id">[<ind>gila</ind>] menggila</trd>
+  <trd lng="id">meng<ind>gila</ind></trd>
   <trdgrp lng="it">
     <trd>impazzire</trd>,
     <trd>perdere la <ind>ragione</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C17;&#x304C;&#x72C2;&#x3046;  [<ind>&#x304D;&#x304C;&#x304F;&#x308B;&#x3046;</ind>]</trd>,
+    <trd>&#x6211;&#x3092;&#x5FD8;&#x308C;&#x308B;  [<ind>&#x308F;&#x308C;&#x3092;&#x308F;&#x3059;&#x308C;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd><ind>gek</ind> worden</trd>,
@@ -349,6 +790,13 @@
     <trd>&c_o;&c_b;&c_je;&c_z;&c_u;&c_m;&c_je;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sv">bli <ind>galen</ind></trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_b;&c_o;&c_zh;&c_je;&c_v;&c_o;&c_l;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_ib;&c_j;&c_t;&c_i; &c_z; &c_r;&c_o;&c_z;&c_u;&c_m;&c_u;</trd>,
+    <trd>&c_z;&#x2019;&c_ji;&c_h;&c_a;&c_t;&c_i; &c_z; &c_g;&c_l;&c_u;&c_z;&c_d;&c_u;</trd>,
+    <trd>&c_r;&c_ib;&c_sh;&c_i;&c_t;&c_i;&c_s;&c_ja; &c_g;&c_l;&c_u;0&c_z;&c_d;&c_u;</trd>,
+    <trd>&c_z;&c_d;&c_u;&c_r;&c_ib;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frenez.0ulo">
@@ -358,26 +806,87 @@
       Tiu, kiu estas <tld/>a a&ubreve; tia &scirc;ajnas;
       <ref tip="vid" cel="san.mensmal0ulo">mensmalsanulo</ref>:
       <ekz>
+        &ccirc;io estas en ordo? por kio venis al vi tiu <tld/>ulo
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Re1; 9:11</lok>
+        </fnt>?
+      </ekz>
+      <ekz>
+        mi parolas kiel <tld/>ulo
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Ko2; 11:23</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li rigardas anta&ubreve;en kiel <tld/>ulo, ne a&ubreve;das, kion oni diras al li, iras plej
+        ofte en peruko turnita posten kaj forgesinte parfumi &gcirc;in
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 8a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li estas drinkulo kaj <tld/>ulo
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&ccirc;apitro 24a</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        &scirc;ia rigardo fari&gcirc;is akra kaj stranga kiel tiu de <tld/>ulo
+        <fnt>
+          <bib>Tor</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>uloj rigardas la klaran pensadon cerbmalsano
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         kelkaj <tld/>uloj turnis sin tra la &ccirc;ambro, mirige, ke ili ne 
         sentis la kapturnon
         <fnt>
-          <aut>B. N&ecaron;mcov&aacute;, trad. J. Patera</aut>,
-          <vrk>Pri malsa&gcirc;a Han&ccirc;jo</vrk>,
+          <aut>B. N&ecaron;mcov&aacute;, trad. J. Patera</aut>
+          <vrk>Pri malsa&gcirc;a Han&ccirc;jo</vrk>
           <lok>Bulteno de EK Praha, 2003:2, p. 4a-7a</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="strang.0ulo">strangulo</ref>
+    </refgrp>
   </snc>
-  <trdgrp lng="fr">
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&#x2019;&c_ja;&c_t;</trd>,
+    <trd>&c_sh;&c_a;&c_l;&c_je;&c_n;&c_je;&c_c;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ver&uuml;ckter</trd>,
+    <trd>Irrer</trd>,
+    <trd>Geisteskranker</trd>
+  </trdgrp><trdgrp lng="fr">
     <trd>fou<klr tip="ind"> (subst.)</klr></trd>,
     <trd>ali&eacute;n&eacute;<klr tip="ind"> (subst.)</klr></trd>
   </trdgrp>
+  <trd lng="id"><ind>orang</ind> gila</trd>
   <trdgrp lng="it">
     <trd>pazzo</trd>,
     <trd>matto</trd>,
     <trd>folle</trd>,
     <trd>malato psichiatrico</trd>,
     <trd>sbroccato<klr> (pop.)</klr></trd>
+  </trdgrp>
+  <trd lng="ja">&#x72C2;&#x4EBA;  [<ind>&#x304D;&#x3087;&#x3046;&#x3058;&#x3093;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_o;&c_zh;&c_je;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_j; (&c_ib;&c_m;.)</trd>,
+    <trd>&c_d;&c_u;&c_sh;&c_je;&c_v;&c_n;&c_o;&c_h;&c_v;&c_o;&c_r;&c_i;&c_j;</trd>,
+    <trd>&c_d;&c_ib;&c_a;&c_l;. &c_v;&c_a;&c_r;&c_ib;&c_ja;&c_t;</trd>,
+    <trd>&c_v;&c_a;&c_r;&#x2019;&c_ja;&c_t;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_ch;&c_i;&c_n;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -386,30 +895,54 @@
   <snc mrk="frenez.0ulejo.MED">
     <uzo tip="fak">MED</uzo>
     <dif>
-      <ref tip="super" cel="san.mal0ulejo.MED">Malsanulejo</ref>
+      <ref tip="super" cel="san.mal0ulejo.MED">Malsanulejo</ref>, prizorgata hejmo
       por <tld/>uloj:
+      <ekz>
+        la observisto de la <tld/>ulejo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Dorna vojo de la honoro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tio estas Salomono <nom>de Caus</nom>, la eltrovinto de la forto de vaporo, kiu
+        <klr>[&#x2026;]</klr> ne estis komprenita <klr>[&#x2026;]</klr> kaj mortas, en&scirc;losita en
+        <tld/>ulejo
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Dorna vojo de la honoro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la malpaco <klr>[&#x2026;]</klr> faris la hejmon pli simila al <tld/>ulejo
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        li ne havas unu solan minuton de ripozo, &ccirc;ar la <tld/>ulejo sen&ccirc;ese kirli&gcirc;as
+        &ccirc;irka&ubreve; li
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la mondo estas <tld/>ulejo
+        <fnt>
+          <vrk><url ref="http://tatoeba.org/eng/sentences/show/454691">
+            Frazo 454691a</url>
+          </vrk>,
+          <lok>tatoeba.org</lok>
+        </fnt>.
+      </ekz>
     </dif>
-    <ekz>
-      <ctl>en la <tld/>ulejo</ctl>
-      <fnt>
-        <aut>E. Matkowski</aut>,
-        <vrk><url
-        ref="http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/np/np5602/frenezulejou.html">
-        En la frenezulejo</url></vrk>,
-        <lok>Norda Prismo, 1956:2, p. 84a</lok>
-      </fnt>;
-    </ekz>
-    <ekz>
-      la mondo estas <tld/>ulejo
-      <fnt>
-        <vrk><url ref="http://tatoeba.org/eng/sentences/show/454691">
-          Frazo 454691a</url>
-        </vrk>,
-        <lok>tatoeba.org</lok>
-      </fnt>.
-    </ekz>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_s;&c_y;&c_h;&c_ib;&c_ja;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y; &c_sh;&c_p;&c_ib;&c_t;&c_a;&c_l;&c_mol;</trd>,
+      <trd>&c_p;&c_s;&c_y;&c_h;&c_a;&c_r;&c_n;&c_ja;</trd>
+    </trdgrp>
     <trd lng="fr">h&ocirc;pital psychiatrique</trd>
-    <trd lng="id">rumah sakit jiwa</trd>
+    <trd lng="id"><ind>rumah sakit</ind> jiwa</trd>
     <trdgrp lng="pl">
       <trd>zak&lstroke;ad <ind>psychiatryczny</ind></trd>,
       <trd>szpital <ind>psychiatryczny</ind></trd>,
@@ -417,29 +950,64 @@
       <trd>wariatkowo <klr>(pot.)</klr></trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="de">
+    <trd>Irrenhaus</trd>,
+    <trd>Irrenanstalt</trd>
+  </trdgrp>
+  <trd lng="ja">&#x7CBE;&#x795E;&#x75C5;&#x9662;  [<ind>&#x305B;&#x3044;&#x3057;&#x3093;&#x3073;&#x3087;&#x3046;&#x3044;&#x3093;</ind>]</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_s;&c_i;&c_h;&c_ib;&c_a;&c_t;&c_r;&c_i;&c_ch;&c_n;&c_a; &c_l;&c_ib;&c_k;&c_a;&c_r;&c_n;&c_ja;</trd>,
+    <trd>&c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_k; &c_d;&c_l;&c_ja; &c_b;&c_o;&c_zh;&c_je;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_h;</trd>,
+    <trd>&c_b;&c_o;&c_zh;&c_je;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
+<drv mrk="frenez.0umi">
+  <kap>
+    <tld/>umi
+  </kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="frenez.0umi.KOMUNE">
+    <dif>
+      Konduti fantazie, kvaza&ubreve; <tld/>e,
+      tro <ref tip="vid" cel="petol.0i">petoli</ref>,
+      <ref tip="vid" cel="fol.0i">foli</ref>:
+      <ekz>
+        li iom drinkis kaj komencis <tld/>umi
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="http://bonalingvo.net/index.php/Vt:F2">La bona lingvo</url></vrk>
+          <lok>2016</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">faire le fou</trd>
+</drv>
 </art>
 <!--
 $Log$
-Revision 1.25  2017/10/11 17:10:13  revo
-Jeromo Vasxe: + ~o ~ajxo ~iga ~ulo
+versio 1.36 2022/10/16 21:31:25
+Jeromo Vasxe: kor ref
 
-Revision 1.24  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.35 2022/10/15 10:38:42
+Damien Brucker: -eraro cxe cel en ref
 
-Revision 1.23  2015/06/29 16:29:38  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.34 2022/10/14 22:35:26
+Jeromo Vasxe: + ~umi
 
-Revision 1.22  2014/06/06 14:10:23  revo
-Eko Nur Syah Hidayat: +id
+versio 1.33 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.21  2012/05/20 12:10:08  revo
-Joop Eggen: +trd bg
+versio 1.31 2022/02/09 07:25:50
+Wolfram Diestel: ~i..~ulejo: ekz-oj, ref-oj, trd de
 
-Revision 1.20  2011/09/30 12:10:18  revo
-Sebastian Cyprych: + ~ulejo (tradukoj de ~o) +trd pl
+versio 1.30 2022/02/08 20:27:57
+Wolfram Diestel: ~a: ekz-oj, ref-oj
 
-Revision 1.19  2010/07/10 16:30:39  revo
+versio 1.29 2021/07/14 14:27:29
+Dmitri Gabinski: + trd be
+
+versio 1.27 2020/05/01 14:10:21
 -->
 </vortaro>

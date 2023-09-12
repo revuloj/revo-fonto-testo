@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: analiz.xml,v 1.24 2010/04/21 16:30:21 revo Exp $">
+<art mrk="$Id: analiz.xml,v 1.44 2023/08/30 18:23:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>analiz</rad>/i <fnt><bib>PV</bib></fnt>
@@ -12,26 +11,100 @@
   <gra><vspec>tr</vspec></gra>
   <snc>
     <dif>
-      Diserigi tuta&jcirc;on, por pli bone esplori ties erojn:
+      Metode kaj detale <ref tip="super" cel="ekzame.0i.esplori">ekzameni</ref> la konsiston de io,
+      ordinare por klarigi kaj interpreti &gcirc;in:
       <ekz>
-        <tld/>i &hcirc;emian solva&jcirc;on, frazon, libron.
+        vi ne bezonos <tld/>i la kafon, <klr>[ja]</klr> &gcirc;i estas venenita per arseniko
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Na&ubreve;a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> <tld/>os miajn pensojn
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <tld/>os sisteme la sekvantajn demandojn: &ccirc;u lingvo internacia estas bezona,
+        &ccirc;u &gcirc;i estas ebla en principo, &ccirc;u <klr>[&#x2026;]</klr> &gcirc;i efektive estos enkondukita
+        praktike
+        <fnt>
+          <bib>EE</bib>
+          <lok>I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili teorie parolis pri le&gcirc;oj de bonsoneco, anstata&ubreve; <tld/>i, &ccirc;u mi bone kreis la
+        vortaron kaj &ccirc;u oni ne povus fari &gcirc;in ankora&ubreve; pli komprenebla
+        <fnt>
+          <bib>DL</bib>
+          <lok>Dua Libro de l' Lingvo Internacia</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <tld/>u pli proksime la motivojn, kiuj &scirc;ajne parolas por la propono
+        <fnt>
+          <bib>LR</bib>
+          <lok>Dua Parto &ndash; Gramatiko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[dum]</klr> la hejmenvoja&gcirc;o li <tld/>is siajn sentojn
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro X</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Karlo a&ubreve;dis pri psikoanalitiko kaj sensukcese provas <tld/>i sin mem
+        <fnt>
+          <bib>LGA</bib>
+          <lok>I.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi kun pli granda intereso <klr>[&#x2026;]</klr> <tld/>as lian viza&gcirc;on
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pecoj de glaso <klr>[&#x2026;]</klr> enhavis ankora&ubreve; kelkajn gutojn da dubeflava
+        fluida&jcirc;o, kiun oni portis al la farmacisto por ilin <tld/>i
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekdua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        retorikon Cicerono <tld/>is en tri verkoj: &leftquot;Pri la Oratoro&rightquot;, &leftquot;Brutus&rightquot; kaj
+        &leftquot;Oratoro&rightquot;
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <ref tip="ant" cel="sintez.0o">sintezo</ref>
   <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bo">&t_da;&t_pa;&t_yata;&t_da;&t_tsheg;</trd>
   <trdgrp lng="de">
     <trd>analysieren</trd>,
     <trd>zergliedern</trd>,
     <trd>zerlegen</trd>
   </trdgrp>
-  <trd lng="en">analyse</trd>
   <trd lng="es">analizar</trd>
   <trd lng="fr">analyser</trd>
+  <trd lng="he">&lamed;&nun;&tav;&het;</trd>
+  <trd lng="ja">&#x5206;&#x6790;&#x3059;&#x308B;  [<ind>&#x3076;&#x3093;&#x305B;&#x304D;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">analyseren</trd>
   <trd lng="it">analizzare</trd>
   <trd lng="pl">analizowa&cacute;</trd>
   <trd lng="pt">analisar</trd>
+  <trd lng="ro">analiza</trd>
   <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">analyzova&tcaron;</trd>
   <trd lng="sv">analysera</trd>
@@ -46,6 +119,15 @@
     <trd>prov&eacute;st rozbor</trd>,
     <trd>rozebrat</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>analyse</trd>,
+    <trd>analyze</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="analiz.0a">
@@ -54,9 +136,48 @@
     <dif>
       Rilata al <tld/>o:
       <ekz>
-        &leftquot;Plena <tld/>a gramatiko de Esperanto&rightquot;.
+        &leftquot;Plena <tld/>a gramatiko de Esperanto&rightquot;;
+      </ekz>
+      <ekz>
+        <tld/>a studo de la parolado
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iun homon ili pesis sur <tld/>a pesilo &gcirc;is la milona parto de la miligramo
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Dekdua &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld lit="A"/>a Historio de Esperanto-Movado
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plene apriora vortaro, konstruita la&ubreve; ide-<tld/>aj principoj
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        poeto profunde mem-<tld/>a
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="analit.0a">analitika</ref>,
+      <ref cel="skol.analiza0o">analiza skolo</ref>
+    </refgrp>
     <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
     <trd lng="pl">analityczny</trd>    
   </snc>
@@ -69,22 +190,30 @@
         la pasivo en Esperanto estas esprimata per
         <ind><tld/>a formo</ind>;
         <trd lng="ru">&c_s;&c_l;&c_o;&c_zh;&c_n;&c_a;&c_ja;
-&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
+        &c_f;&c_o;&c_r;&c_m;&c_a;</trd>
       </ekz>
       <ekz>
         <ind><tld/>(em)a lingvo</ind>
-        <klr>(kontraste al <ref tip="ant"
-        cel="fand.kun0ema.LIN">kunfandema</ref> lingvo)</klr>;
-  <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja;
-&c_m;&c_o;&c_v;&c_a;</trd>
+        <klr>(kontraste al <ref tip="ant" cel="fand.kun0ema.LIN">kunfandema</ref> lingvo)</klr>;
+        <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja;
+        &c_m;&c_o;&c_v;&c_a;</trd>
         <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
-&c_ja;&c_z;&c_y;&c_k;</trd>
+        &c_ja;&c_z;&c_y;&c_k;</trd>
+      </ekz>
+      <ekz>
+        la angla esprimas tiun nociaron <tld/>e (tri morfemoj per tri vortoj), sed la
+        latina sinteze (tri morfemoj per unu vorto), el tiu vidpunkto la angla estas
+        <tld/>a lingvo, la latina estas sinteza
+        <fnt>
+          <bib>LAE</bib>
+          <lok>3. Morfologio</lok>
+        </fnt>;
       </ekz>
       <ekz>
         dativon Esperanto esprimas per
         <ind><tld/>a kazo</ind>: <em>al + nomo</em>;
         <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
-&c_p;&c_a;&c_d;&c_je;&c_zh;</trd>
+        &c_p;&c_a;&c_d;&c_je;&c_zh;</trd>
       </ekz>
       <ekz>
         <tld/>a verbotempo, superlativo, komparativo.
@@ -92,6 +221,7 @@
     </dif>
     <trd lng="fr">analytique</trd>
     <trd lng="pl">analityczny</trd>
+    <trd lng="ro">tran&#x219;ant</trd>
     <trdgrp lng="ru">
       <trd>&c_a;&c_n;&c_a;&c_l;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
       <trd>&c_s;&c_l;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
@@ -99,6 +229,9 @@
   </snc>
   <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
   <trd lng="cs">analytick&yacute;</trd>
+  <trd lng="de">analytisch</trd>
+  <trd lng="en">analytical</trd>
+  <trd lng="ja">&#x5206;&#x6790;&#x7684;&#x306A;  [<ind>&#x3076;&#x3093;&#x305B;&#x304D;&#x3066;&#x304D;&#x306A;</ind>]</trd>
   <trd lng="sk">analytick&yacute;</trd>
 </drv>
 
@@ -106,8 +239,53 @@
   <kap><tld/>o</kap>
   <snc>
     <dif>
-      Dismeto a&ubreve; aparta konsidero de la partoj, aspektoj de io.
+      Ago <tld/>i; ties rezulto:
+      <ekz>
+        post la fina <tld/>o nenio restis
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la duko sin venenigis per prusika acido, la &hcirc;emia <tld/>o lasas neniun dubon
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekdua</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        stari&gcirc;u, kaj mi faru ju&gcirc;an <tld/>on koncerne vin
+        <fnt>
+          <bib>MT</bib>
+          <lok>I. Samuel 12:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <nom>Kant</nom>&#x2019;a <tld/>o de la homa rezonado, kiel ajn bona &gcirc;i estas alie, tamen tre
+        malhelpis al studantoj reteni sian pozitivan kredon je Dio
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro VII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        koni kaj rekoni la faktojn &ndash; anta&ubreve;kondi&ccirc;o de kiu ajn scienca <tld/>o a&ubreve; konkludo
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        iom pli profunda <tld/>o montras, ke ne ekzistas tia krimulo, kiu ne havus
+        almena&ubreve; kelkajn bonajn ecojn
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Dua Parto</lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="ant" cel="sintez.0o">sintezo</ref>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_z;</trd>
   <trdgrp lng="cs">
@@ -115,14 +293,27 @@
     <trd>rozbor</trd>,
     <trd>rozklad</trd>
   </trdgrp>
+  <trd lng="de">Analyse</trd>
   <trd lng="en">analysis</trd>
   <trd lng="fr">analyse</trd>
-  <trd lng="pl">analiza</trd>  
+  <trdgrp lng="ja">
+    <trd>&#x5206;&#x6790;  [<ind>&#x3076;&#x3093;&#x305B;&#x304D;</ind>]</trd>,
+    <trd>&#x89E3;&#x6790;  [<ind>&#x304B;&#x3044;&#x305B;&#x304D;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>analiza</trd>,
+    <trd>rozbi&oacute;r</trd>
+  </trdgrp>
+  <trd lng="ro">analiz&abreve;</trd> 
   <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_i;&c_z;</trd>
   <trdgrp lng="sk">
     <trd>anal&yacute;za</trd>,
     <trd>rozbor</trd>,
     <trd>rozkladanie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_a;&c_n;&c_a;&c_l;&c_ib;&c_z;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_b;&c_ib;&c_r;</trd>
   </trdgrp>
 </drv>
 
@@ -134,23 +325,29 @@
       Programa a&ubreve; aparata rimedo por trovi atributojn a&ubreve;
       komponantojn de datumo:
       <ekz>
-        leksika analizilo,
+        leksika analizilo;
       </ekz>
       <ekz>
         <ind>sintaksa analizilo</ind>.
-        <trd lng="en">parser</trd>
       </ekz>
     </dif>
+  <trd lng="de">Parser</trd>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_t;&c_a;&c_r;</trd>
   <trdgrp lng="cs">
     <trd>analytick&yacute; p&rcaron;&iacute;stroj</trd>,
     <trd>analyz&aacute;tor</trd>
   </trdgrp>
-  <trd lng="en">analyser</trd>
+  <trdgrp lng="en">
+    <trd>analyser</trd>,
+    <trd>analyzer</trd>,
+    <trd>parser</trd>
+  </trdgrp>
   <trd lng="fr">analyseur</trd>
+  <trd lng="ja">&#x691C;&#x5149;&#x5B50;  [<ind>&#x691C;&#x3066;&#x308B;&#x3053;</ind>]</trd>
   <trd lng="nl">analysator</trd>
   <trd lng="pl">analizator</trd>
+  <trd lng="ro">analizator</trd> 
   <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_i;&c_z;&c_a;&c_t;&c_o;&c_r;</trd>
   <trd lng="sk">analyz&aacute;tor</trd>
 </drv>
@@ -159,7 +356,14 @@
   <kap><tld/>isto</kap>
   <snc mrk="analiz.0isto.KOMUNE">
     <dif>
-      Homo profesie observanta kaj <tld/>anta.
+      Homo profesie observanta kaj <tld/>anta:
+      <ekz>
+        li poste instali&gcirc;is kiel privata <esc>psikoterape&ubreve;to</esc> kaj psik<tld/>isto
+        <fnt>
+          <bib>ChR</bib>
+          <lok>La fantoma bovino</lok>
+        </fnt>;
+      </ekz>
     </dif>
     <subsnc mrk="analiz.0isto.EKON">
       <uzo tip="fak">EKON</uzo>
@@ -170,12 +374,21 @@
           <tld/>isto de &Ccirc;ina Komerca Banko
           <fnt>
             <aut>&Ccirc;ina Radio Internacia</aut>,
-            <vrk><url
-            ref="http://esperanto.cri.cn/121/2008/12/25/1s90316.htm">
+            <vrk><url ref="&CRI;121/2008/12/25/1s90316.htm">
             Normala fenomeno...</url></vrk>,
             <lok>2008-12-25</lok>
-          </fnt>.
+          </fnt>;
         </ekz>
+      <ekz>
+        la jaro 2000 la&ubreve; la plimulto de la internaciaj financaj <tld/>istoj montros
+        novan kreskon de la e&ubreve;rokurzo rilate al la dolaro
+        <fnt>
+	<aut>Marc Vanden Bempt</aut>
+	<vrk><url ref="&Monato;/2000/006821.php">E&ubreve;ro unujara</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/03, p. 14</lok>
+        </fnt>.
+      </ekz>
       </dif>
     </subsnc>
     <subsnc mrk="analiz.0isto.KOMP">
@@ -184,14 +397,13 @@
         Komputisto <tld/>anta la bezonojn de uzantoj
         kaj proponanta solvojn por ilia kontentigo:
         <ekz>
-          &leftquot;nia tuta mondo sidas sur komputilo <klr>...</klr>&rightquot;
-          tiel plendis Angela Bennet, komputilsistema <tld/>isto, 
-          en la minuto 78-a de la filmo <klr>...</klr> <ctl>la 
+          &leftquot;nia tuta mondo sidas sur komputilo <klr>[&#x2026;]</klr>&rightquot;
+          tiel plendis <nom>Angela Bennet</nom>, komputilsistema <tld/>isto, 
+          en la minuto 78-a de la filmo <klr>[&#x2026;]</klr> <ctl>la 
           reto</ctl>
           <fnt>
             <aut>F. Kraft</aut>,
-            <vrk><url
-            ref="http://storm.prohosting.com/jesuo/k34reto.htm">
+            <vrk><url ref="http://storm.prohosting.com/jesuo/k34reto.htm">
             La reto...</url></vrk>,
             <lok>Kajeroj el la Sudo, 1997-04, numero 34a</lok>
           </fnt>
@@ -199,35 +411,50 @@
       </dif>
     </subsnc>
   </snc>
+  <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_k;</trd>
   <trd lng="cs">analytik <klr>(chemik| matematik)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Analyst</trd>,
+    <trd>Analytiker</trd>
+  </trdgrp>
+  <trd lng="en">analyst</trd>
   <trd lng="fr">analyste</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5206;&#x6790;&#x5BB6;  [<ind>&#x3076;&#x3093;&#x305B;&#x304D;&#x304B;</ind>]</trd>,
+    <trd>&#x30A2;&#x30CA;&#x30EA;&#x30B9;&#x30C8;</trd>
+  </trdgrp>
   <trd lng="pl">analityk</trd>
+  <trd lng="ro">analist</trd>
   <trdgrp lng="sk">
     <trd>analytik <klr>(chemik, matematik)</klr></trd>,
     <trd>analytik <klr>(chemik| matematik)</klr></trd>
   </trdgrp>
+  <trd lng="uk">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_t;&c_i;&c_k;</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.30  2017/06/03 12:10:19  revo
-Vito Redsky: +trd pl
+versio 1.43 2023/04/24 05:28:04
+Paul Peeraerts: &Steloj -> &Monato
 
-Revision 1.29  2017/05/01 13:10:16  revo
-Wolfram Diestel: kor. ref
+versio 1.42 2023/03/25 07:21:29
+Wolfram Diestel: +ref
 
-Revision 1.28  2017/01/27 15:10:18  revo
-Adam Eng: +trd ms
+versio 1.41 2023/03/24 20:26:00
+Wolfram Diestel: +ekz-oj, trd de
 
-Revision 1.27  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.40 2023/03/24 16:34:22
+Wolfram Diestel: ~i, ~o: reverkita dif, +ekz-oj
 
-Revision 1.26  2015/06/29 16:39:29  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.39 2023/01/31 14:28:30
+Vito Redsky: +trd pl + trd ro
 
-Revision 1.25  2015/06/28 12:03:35  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.38 2023/01/29 01:57:22
+Robert Baruch: +trd: en
 
-Revision 1.24  2010/04/21 16:30:21  revo
+versio 1.37 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.35 2022/03/12 07:27:38
 -->
 </vortaro>

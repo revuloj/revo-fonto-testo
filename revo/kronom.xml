@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kronom.xml,v 1.15 2010/05/04 16:31:00 revo Exp $">
+<art mrk="$Id: kronom.xml,v 1.19 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>kronometr</rad>/o
@@ -17,14 +16,13 @@
       Tre preciza <ref tip="super" cel="horlog.0o">horlo&gcirc;o</ref>
       ne impresebla de atmosferaj varioj:
       <ekz>
-        <tld/>o <klr>[&#8230;]</klr> ebligis al <nom>Cook</nom> kalkuli sian longitudinan pozicion multe
+        <tld/>o <klr>[&#x2026;]</klr> ebligis al <nom>Cook</nom> kalkuli sian longitudinan pozicion multe
         pli akurate, <nom>Cook</nom> faris mapojn de la sudo de la Pacifika Oceano kiuj estis
         tiom rimarkinde akurataj ke iliaj kopioj estis ankora&ubreve; uzataj meze de la 20a
         jarcento
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=9347"
-              >James Cook</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=9347">James Cook</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -32,8 +30,7 @@
         bonan <tld/>on por ta&ubreve;ga &scirc;ipesplorado
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=288263"
-              >Nova Suda Gronlando</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=288263">Nova Suda Gronlando</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -52,11 +49,16 @@
   <trd lng="fr">chronom&egrave;tre</trd>
   <trd lng="hu">kronom&eacute;ter</trd>
   <trd lng="it">cronometro</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AF;&#x30ED;&#x30CE;&#x30E1;&#x30FC;&#x30BF;&#x30FC;</trd>,
+    <trd>&#x30B9;&#x30C8;&#x30C3;&#x30D7;&#x30A6;&#x30A9;&#x30C3;&#x30C1;</trd>
+  </trdgrp>
   <trd lng="nl">chronometer</trd>
   <trd lng="pl">chronometr</trd>
   <trd lng="pt">cron&ocirc;metro</trd>
   <trd lng="ro">cronometru</trd>
   <trd lng="ru">&c_h;&c_r;&c_o;&c_n;&c_o;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="uk">&#x445;&#x440;&#x43E;&#x43D;&#x43E;&#x43C;&#x435;&#x442;&#x440;</trd>
 </drv>
 </art>
 <!--

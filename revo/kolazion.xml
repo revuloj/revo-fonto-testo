@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: kolazion.xml,v 1.5 2006/03/01 17:32:27 revo Exp $">
+<art mrk="$Id: kolazion.xml,v 1.12 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <rad>kolazion</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -33,6 +33,11 @@
     <trd>tomar a merenda</trd>
   </trdgrp>
   <trd lng="it">fare merenda</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9593;&#x98DF;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3057;&#x3087;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8EFD;&#x98DF;&#x3092;&#x3068;&#x308B;  [<ind>&#x3051;&#x3044;&#x3057;&#x3087;&#x304F;&#x3092;&#x3068;&#x308B;</ind>]</trd>,
+    <trd>&#x304A;&#x3084;&#x3064;&#x3092;&#x98DF;&#x3079;&#x308B;  [<ind>&#x304A;&#x3084;&#x3064;&#x3092;&#x305F;&#x3079;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pt">
     <trd>lanchar</trd>,
     <trd>comer o lanche</trd>,
@@ -41,6 +46,10 @@
   </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_d;&c_n;&c_i;&c_k;</trd>
   <trd lng="sk">olovrantova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x457;&#x441;&#x442;&#x438; &#x43F;&#x456;&#x434;&#x432;&#x435;&#x447;&#x456;&#x440;&#x43E;&#x43A;</trd>,
+    <trd>&#x43F;&#x456;&#x434;&#x432;&#x435;&#x447;&#x456;&#x440;&#x43A;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kolazion.0o">
@@ -63,6 +72,11 @@
   <trd lng="fr">gouter<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="gl">merenda</trd>
   <trd lng="it">merenda</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9593;&#x98DF;  [<ind>&#x304B;&#x3093;&#x3057;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x8EFD;&#x98DF;  [<ind>&#x3051;&#x3044;&#x3057;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x304A;&#x3084;&#x3064;</trd>
+  </trdgrp>
   <trd lng="pl">podwieczorek</trd>
   <trdgrp lng="pt">
     <trd>lanche</trd>,
@@ -70,9 +84,9 @@
     <trd>caf&eacute; da tarde [Brasil]</trd>
   </trdgrp>
   <trd lng="ro">gustare</trd>
-  <trd
-  lng="ru">&c_p;&c_o;&c_l;&c_d;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_d;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">olovrant</trd>
+  <trd lng="uk">&#x43F;&#x456;&#x434;&#x432;&#x435;&#x447;&#x456;&#x440;&#x43E;&#x43A;</trd>
 </drv>
 <rim>
   La radiko estas malofta. &Gcirc;i aperis en PIV1, sed en PIV2 &gcirc;i jam

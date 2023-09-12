@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hazard.xml,v 1.18 2010/08/03 16:30:56 revo Exp $">
+<art mrk="$Id: hazard.xml,v 1.31 2023/08/31 15:46:14 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>hazard</rad>/o
@@ -14,24 +13,34 @@
       <ref tip="super" cel="okaz.0o.travivajxo">Okazo<sncref/></ref>
       neanta&ubreve;videbla kaj sendependa de niaj penado kaj volo:
       <ekz>
-        <ctl>Tio estis simpla <tld/>o!</ctl> oni diris
+        <ctl>tio estis simpla <tld/>o!</ctl> oni diris
         <fnt><bib>Fab4</bib>, <lok>Anneto</lok></fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         la <tld/>oj de la milito, de la ludo;
         <fnt><bib>PIV1</bib></fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         per <tld/>o kaj ne pro malamikeco li pu&scirc;is lin
         <fnt><bib>MT</bib>, <lok>&amp;Nom 35:22</lok></fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         ni kutimas nomi <tld/>o la interkruci&gcirc;on de kelkaj
         neinterdependaj vicoj da ka&ubreve;zoj
         <fnt><bib>PV</bib></fnt>;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         mi mem trakuras la urbon tage kaj nokte, esperante feli&ccirc;an
         <tld/>on
         <fnt>
           <aut>H. Sienkewicz, tr. Lidia Zamenhof</aut>:
           <vrk>Quo vadis</vrk>, <lok>&Ccirc;ap. 1a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estu sen<tld/>igita la estonteco de tiu infaneto
+        <fnt>
+          <bib>KPr</bib>
         </fnt>.
       </ekz>
     </dif>
@@ -114,6 +123,10 @@
     <trd>v&eacute;letlen esem&eacute;ny</trd>
   </trdgrp>
   <trd lng="it">caso</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5076;&#x7136;  [<ind>&#x3050;&#x3046;&#x305C;&#x3093;</ind>]</trd>,
+    <trd>&#x904B;  [<ind>&#x3046;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">acaso</trd>
   <trdgrp lng="ru">
      <trd>&c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
@@ -121,7 +134,12 @@
   </trdgrp>
   <trd lng="sk">hazardn&aacute; hra</trd>
   <trd lng="sv">slump</trd>
-  <trd lng="tp">kama</trd>
+  <trd lng="tok">kama</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43F;&c_a;&c_d;&#x43E;&#x43A;</trd>,
+    <trd>&c_v;&c_i;&#x43F;&c_a;&c_d;&#x43A;&#x43E;&c_v;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&#x43D;&c_je;&c_s;&#x43F;&#x43E;&c_d;&c_ib;&c_v;&c_a;&#x43D;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hazard.0a">
@@ -131,46 +149,80 @@
     <dif>
       Bazita sur, rilata al <tld/>o:
       <ekz>
-        <tld/>a batalo, renkonti&gcirc;o;
-      </ekz><ekz>
-        <tld/>a kartludo;
-      </ekz><ekz>
-        <tld/>a ri&ccirc;i&gcirc;o, malfeli&ccirc;o;
-      </ekz><ekz>
-        <tld/>a solvo de problemo;
+        <tld/>a batalo, renkonti&gcirc;o, ri&ccirc;i&gcirc;o, malfeli&ccirc;o;
+      </ekz>
+      <ekz>
+        sub la fre&scirc;a impreso de iu <tld/>a okaza&jcirc;o: pluvo, akcidento, renversita   
+        glaso, kapdoloro, subite rimarkita persono
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
       </ekz><ekz>
         tiu universala akordo estas tro eksterordinara, ke &gcirc;i estu
-        pure
-        <tld/>a
+        pure <tld/>a
         <fnt><bib>Revadoj</bib>, <lok>Dua promenado</lok></fnt>;
       </ekz><ekz>
         <tld/>e <klr>(pro nekonata ka&ubreve;zo)</klr> li
-        anstata&ubreve; siaj
-        galo&scirc;oj prenis la galo&scirc;ojn de feli&ccirc;o
+        anstata&ubreve; siaj galo&scirc;oj prenis la galo&scirc;ojn de feli&ccirc;o
         <fnt><bib>Fab1</bib>, <lok>Gol&scirc;oj de
         feli&ccirc;o</lok></fnt>;
-      </ekz><ekz>
-        mi <ind><tld/>e</ind> renkontis lin;
+      </ekz>
+      <ekz>
+        <tld/>a kartludo;
+      </ekz>
+      <ekz>
+        <tld/>a solvo de problemo;
+      </ekz>
+      <ekz>
+        mi lin renkontis tute <ind><tld/>e</ind> sur la strato 
+        <nom>Vivienne</nom>, kaj ni tagman&gcirc;is kune
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>;
         <trdgrp lng="fr">
           <trd>par <ind>hasard</ind></trd>,
           <trd>au <ind>hasard</ind></trd>
         </trdgrp>
         <trd lng="hu">v&eacute;letlen&uuml;l</trd>
         <trd lng="ru">&c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_o;</trd>
+      </ekz>
+      <ekz>
+        &ccirc;iu <tld/>a simileco estis prezentata kiel pruvo, ke la lingvoj de E&ubreve;ropo
+        devenas de la hebrea
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ia eventuala simileco kun reale ekzistanta persono estas <tld/>a koincido
+        <fnt>
+          <bib>CKv</bib>
+        </fnt>;
       </ekz><ekz>
         la besti&gcirc;inta polico kaptas &ccirc;iun suspektindan
-        preterpasanton,
-        <tld/>e <klr>(kvaza&ubreve; sen preciza celo)</klr> komencas
-        pafi la
-        fenestrojn, mortigas senkulpajn homojn
+        preterpasanton, <tld/>e <klr>(kvaza&ubreve; sen preciza celo)</klr> komencas
+        pafi la fenestrojn, mortigas senkulpajn homojn
         <fnt><bib>Metrop</bib>, <lok>&ccirc;apitro 9a</lok></fnt>.
       </ekz>
     </dif>
-    <refgrp tip="vid">
+    <refgrp tip="vid">    
+      <ref cel="aleator.0a">aleatora</ref>,
+      <ref cel="arbitr.0a">arbitra</ref>,
+      <ref cel="lot.0eca">loteca</ref>,
+      <ref cel="cert.mal0a">necerta</ref>,
+      <ref cel="okaz.0a.hazarda">okaza</ref>,
       <ref cel="risk">riskema</ref>,
-      <ref cel="cert.mal0a">necerta</ref>.
+      <ref cel="stokas.0a">stokasta</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="koinci.0i.MAT">koincidi</ref>
     </refgrp>
     <trd lng="en">random</trd>
+    <trdgrp lng="es">
+      <trd>fortuito</trd>, 
+      <trd>casual</trd>, 
+      <trd>aleatorio</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>fortuit</trd>,
       <trd>de <ind>hasard</ind></trd>,
@@ -178,12 +230,12 @@
     </trdgrp>
     <trd lng="hu">v&eacute;letlen</trd>
     <trdgrp lng="it">
-    <trd>casuale</trd>, 
-    <trd>aleatorio</trd>
+      <trd>casuale</trd>, 
+      <trd>aleatorio</trd>
     </trdgrp>
     <trd lng="nl">toevallig</trd>
     <trd lng="ru">&c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_y;&c_j;</trd>
-    <trd lng="zh">&#20598;&#28982;&#30340; [<ind>&#466;ur&aacute;n de</ind>]</trd>
+    <trd lng="zh">&#x5076;&#x7136;&#x7684; [<ind>&#x1D2;ur&aacute;n de</ind>]</trd>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_y;</trd>
   <trd lng="bg">&c_s;&c_l;&c_u;&c_ch;&c_a;&c_je;&c_n;</trd>
@@ -192,37 +244,59 @@
     <trd>nahodil&yacute;</trd>,
     <trd>n&aacute;hodn&yacute;</trd>
   </trdgrp>
+  <trd lng="de">zuf&auml;llig</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5076;&#x7136;&#x306E;  [<ind>&#x3050;&#x3046;&#x305C;&#x3093;&#x306E;</ind>]</trd>,
+    <trd>&#x4E00;&#x304B;&#x516B;&#x304B;&#x306E;  [<ind>&#x3072;&#x3068;&#x304B;&#x3084;&#x3063;&#x304B;&#x306E;</ind>]</trd>,
+    <trd>&#x904B;&#x307E;&#x304B;&#x305B;&#x306E;  [<ind>&#x3046;&#x3093;&#x307E;&#x304B;&#x305B;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">casual</trd>
   <trdgrp lng="sk">
     <trd>hazardn&yacute;</trd>,
     <trd>n&aacute;hodn&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43F;&c_a;&c_d;&#x43A;&#x43E;&c_v;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_s;&#x43F;&#x43E;&c_d;&c_ib;&c_v;&c_a;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_a;&c_z;&c_a;&c_r;&c_t;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hazard.0i">
   <kap><tld/>i</kap>
-  <gra><vspec>tr</vspec></gra>
+  <gra><vspec>ntr</vspec></gra>
   <snc>
     <dif>
-      Entrepreni ion ne povante anta&ubreve;vidi la sekvojn kaj
-      kvaza&ubreve;
-      konfidante al la <tld/>o <sncref ref="hazard.0o.forto"/>, ke ili
-      estos favoraj:
+      Okazi pro <tld/>o:
       <ekz>
-        kiu nenion <tld/>as, nenion gajnas.
+        la nomo de la lernejo ne <tld/>as
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2010/010124.php">Revo realigita</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[vi devas]</klr> protekti vian bazon, dum <tld/>as okaza&jcirc;oj kiel surteri&gcirc;o
+        de malamikoj
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <adm>
-    La originala dif "forlasi al ~o" ne estis tre klara.
-    Cetere ekzistas alia senco (ekz-e cxe Dorval):
-    "esti hazardo", sed mi ne scias, cxu vere auxtoritata.
-  </adm>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_v;&c_a;&c_zh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_r;&c_y;&c_z;&c_y;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_r;&c_i;&c_s;&c_k;&c_u;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>hazardovat</trd>,
+    <trd>ponechat n&aacute;hod&ecaron;</trd>,
+    <trd>riskovat</trd>
+  </trdgrp>
+  <trd lng="de"><ind>zuf&auml;llig</ind> auftreten</trd>
   <trdgrp lng="en">
     <trd>gamble</trd>,
     <trd>risk</trd>,
@@ -241,17 +315,18 @@
     <trd>azzardare</trd>,
     <trd>rischiare<klr> (azzardare)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x904B;&#x306B;&#x307E;&#x304B;&#x305B;&#x308B;  [<ind>&#x3046;&#x3093;&#x306B;&#x307E;&#x304B;&#x305B;&#x308B;</ind>]</trd>
   <trd lng="nl">wagen</trd>
   <trd lng="pt">arriscar</trd>
-  <trd lng="ru"></trd>
   <trdgrp lng="sk">
     <trd>hazardova&tcaron;</trd>,
     <trd>riskova&tcaron;</trd>
   </trdgrp>
-  <trdgrp lng="cs">
-    <trd>hazardovat</trd>,
-    <trd>ponechat n&aacute;hod&ecaron;</trd>,
-    <trd>riskovat</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_d;&c_a;&c_t;&c_i;&c_s;&#x44F; &#x43D;&c_a; &c_v;&c_i;&#x43F;&c_a;&c_d;&#x43E;&#x43A;</trd>,
+    <trd>&c_d;&#x43E;&c_v;&c_ib;&c_r;&c_i;&c_t;&c_i;&c_s;&#x44F; &c_d;&#x43E;&#x43B;&c_ib;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&c_a;&#x43B;&#x44E;&c_v;&c_a;&c_t;&c_i;&c_s;&#x44F;</trd>,
+    <trd>&c_v;&c_h;&#x43E;&c_d;&c_i;&c_t;&c_i; &c_v; &c_a;&c_z;&c_a;&c_r;&c_t;</trd>
   </trdgrp>
 </drv>
 
@@ -262,23 +337,48 @@
     <dif>
       Enkonduki <tld/>on en eksperimenton, algoritmon, esplormetodon:
       <ekz>
+        en medicino oni ofte uzas duoble blindajn <tld/>igitajn klinikajn studojn
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        eblas <tld/>igi la listo-ordon kaj krei sian propran liston
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         oni <tld/>igas eksperimenton por imiti deviojn kaj perturbojn
         de ties neesencaj parametroj;
-      </ekz><ekz>
+      </ekz>
+      <ekz>
         oni <tld/>igas &ccirc;ifron  por malfaciligi al
-        kontra&ubreve;ulo
-        mal&ccirc;ifradon per determinismaj algoritmoj.
+        kontra&ubreve;ulo mal&ccirc;ifradon per determinismaj algoritmoj.
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">randomisieren</trd>
   <trd lng="en">randomize</trd>
-  <trd
-  lng="ru">&c_r;&c_a;&c_n;&c_d;&c_o;&c_m;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="es">aleatorizar</trd>
+  <trd lng="ru">&c_r;&c_a;&c_n;&c_d;&c_o;&c_m;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.30 2023/01/06 17:29:08
+Wolfram Diestel: +ref, trd-ordo
+
+versio 1.29 2022/04/30 08:42:41
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.27 2022/01/27 07:26:47
+Wolfram Diestel: ~i: ntr+ekz-oj; ~a, ~igi: ekz-oj, trd de
+
+versio 1.26 2020/06/15 11:10:32
+Guillermo Molleda Jimena: trd es
+
 Revision 1.24  2017/01/20 09:10:14  revo
 Lyubomir Vasilev: +trd bg
 
@@ -289,14 +389,5 @@ Revision 1.22  2016/07/31 16:37:41  revo
 Alain Gerard: +trd fr
 
 Revision 1.21  2015/07/04 08:37:35  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.20  2015/06/29 16:33:15  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2014/05/28 02:10:14  revo
-Sergio Pokrovskij: +~igi
-
-Revision 1.18  2010/08/03 16:30:56  revo
 -->
 </vortaro>

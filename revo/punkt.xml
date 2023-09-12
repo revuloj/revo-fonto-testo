@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: punkt.xml,v 1.50 2020/02/14 18:10:18 revo Exp $">
+<art mrk="$Id: punkt.xml,v 1.149 2023/09/04 18:26:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>punkt</rad>/o
@@ -12,8 +11,7 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="punkt.0o.makuleto">
     <dif>
-      Malgranda <ref tip="sub"
-      cel="makul.0o.natura">makulo<sncref/></ref> 
+      Malgranda <ref tip="sub" cel="makul.0o.natura">makulo<sncref/></ref>
       sur supra&jcirc;o:
       <ekz>
         la <tld/>oj kaj strekoj de la Morsa alfabeto;
@@ -51,8 +49,11 @@
         </fnt>.
       </ekz>
     </dif>
-    <ref tip="lst" lst="voko:formoj"
-    cel="form.0o.aspekto">formo<sncref/></ref>
+    <ref tip="lst" lst="voko:formoj" cel="form.0o.aspekto">formo<sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_r;&c_o;&c_p;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_l;&c_ja;&c_m;&c_k;&c_a;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="punkt.0o.interpunkcia">
     <uzo tip="fak">GRA</uzo>
@@ -67,45 +68,62 @@
         <fnt><bib>PMEG</bib></fnt>;
       </ekz><ekz>
         uzu <ctl>ktp</ctl> (sen <tld/>o) kaj ne k.t.p.
-        <fnt><vrk>Instrukcio por la a&ubreve;toroj de
-            &leftquot;Monato&rightquot;</vrk></fnt>;
+        <fnt><vrk><url ref="&Monato;/konvencioj.php">MONATO-konvencioj</url></vrk></fnt>;
       </ekz>
       <ekz>
         nur la litero &leftquot;f&rightquot; kaj poste kelkaj <tld/>etoj, kiuj
-        povas indiki mankantajn literojn 
+        povas indiki mankantajn literojn
         <klr>(vd <ref cel="punkt.tri0o">tripunkto</ref>)</klr>
         <fnt>
-          <bib>Monato</bib>
           <aut>Garvan Makaj'</aut>
-          <vrk><url ref="https://www.monato.be/2014/011153.php">Varbante
+          <vrk><url ref="&Monato;/2014/011153.php">Varbante
           E&ubreve;terpon*</url></vrk>
+           <bib>Monato</bib>
+          <lok>2014/02, p. 25</lok>
         </fnt>;
       </ekz>
       <ekz>
         <ref cel="kom.punkto0o"><tld/>okomo</ref>
         <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="&Monato;/2000/006801.html">
+          Interreto: uniksulo ekspertas Unikodon</url></vrk>,
           <bib>Monato</bib>
-          <aut>Edmund Grimley Evans</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/006801.html">Interreto:
-          Uniksulo ekspertas Unikodon</url></vrk>
+          <lok>2000/02, p. 20</lok>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        meti la finan <tld/>on al polemiko;
-      </ekz><ekz>
-        <uzo tip="stl">FIG</uzo>
-        kial ne fari la&ubreve; lia peto: cedi al li la misiiston kaj
-        <tld/>o?
-        <fnt>
-          <aut>J. London, trad. R. Rossetti</aut>,
-          <vrk>Dio de liaj prapatroj</vrk>
-          <lok>NLR, 1/4</lok>
-        </fnt>.
+        meti la finan <tld/>on al polemiko.
       </ekz>
     </dif>
-    <rim> 
+    <subsnc mrk="punkt.0o.emfazo">
+      <uzo tip="stl">KOMUNE</uzo>
+      <uzo tip="stl">FIG</uzo>
+      <dif>
+        Emfazas la anta&ubreve;an frazon, precipe por montri ke &gcirc;i ne estas <ref cel="diskut.0inda">diskutinda</ref>:
+        <ekz>
+          &scirc;i deklamis, ke &scirc;i jam principe ne tiom okupi&gcirc;as pri diabloj, &scirc;i kredas je la
+          bono kaj je la malbono, <tld/>o
+          <fnt>
+            <bib>Monato</bib>
+            <aut>Pejno Simono</aut>
+            <vrk><url ref="http://verkoj.com/lauteme/revuoj/monato/2001/index.html#c6">La profeta kurso</url></vrk>
+          </fnt>;
+        </ekz>
+        <ekz>
+          kial ne fari la&ubreve; lia peto: cedi al li la misiiston kaj
+          <tld/>o
+          <fnt>
+            <aut>J. London, trad. R. Rossetti</aut>,
+            <vrk><url ref="http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/nlr/nlr14/dio.html">Dio
+            de liaj prapatroj</url></vrk>
+            <lok>NLR, 1/4</lok>
+          </fnt>?
+        </ekz>
+      </dif>
+    </subsnc>
+    <rim>
       En la matematiko la anglosaksoj uzas la punkton por
       apartigi la unuojn disde la decimaloj, dum la e&ubreve;ropanoj uzas por
       tio komon: la &ccirc;i-lasta signadmaniero &scirc;ajnas preferinda. Sed, &ccirc;ar
@@ -114,7 +132,10 @@
       nombron en grupojn de 3 a&ubreve; 6 ciferoj, ekz-e: 125&#8239;250&#8239;416,75.
     </rim>
     <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_k;&c_a;</trd>
-    <trd lng="en">period</trd>
+    <trdgrp lng="en">
+    <trd>period</trd>
+    <trd>full stop</trd>
+    </trdgrp>
     <trd lng="ru">&c_t;&c_o;&c_ch;&c_k;&c_a;</trd>
   </snc>
   <snc mrk="punkt.0o.loko">
@@ -223,14 +244,14 @@
         </fnt>;
       </ekz>
       <ekz>
-        unu el la plej <ref
-        cel="tikl.0a.malfacila">tikla<sncref/></ref>j
+        unu el la plej <ref cel="tikl.0a.malfacila">tikla<sncref/></ref>j
         <tld/>oj de <klr>[&#8230;]</klr> kompleksa politika panoramo
         <fnt>
-          <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url ref="https://www.monato.be/2006/008812.php">Survoje
+          <vrk><url ref="&Monato;/2006/008812.php">Survoje
           al pli granda memregado</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/02, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -241,10 +262,12 @@
       <ekz>
         el la vid<tld/>o de infano
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://www.esperanto.be/fel/mon/007056.html">Edukemaj
+        <aut>Karlijn kaj Guido van Damme</aut>
+
+          <vrk><url ref="&Monato;/2000/007056.php">Edukemaj
           bestoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/11, p. 26</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -255,8 +278,9 @@
     </trdgrp>
   </snc>
   <snc mrk="punkt.0o.temo">
+    <mlg>p-to</mlg>
     <dif>
-      Speciala <ref tip="vid" cel="tem.0o">temo</ref>, kiun oni 
+      Speciala <ref tip="vid" cel="tem.0o">temo</ref>, kiun oni
       atentas:
       <ekz>
         <klr>[li]</klr> observas la tutan le&gcirc;aron, sed falpu&scirc;i&gcirc;as pri
@@ -317,6 +341,16 @@
     <refgrp tip="vid">
       <ref cel="objekt.0o.temo">objekto<sncref/></ref>
     </refgrp>
+    <rim>
+      Por referenci punkton en oficiala dokumento oni foje mallongigas la vorton al p-to:
+      <ekz>
+        raportoj al Unesko pri la progresoj de Esperanto-instruado en lernejoj, konforme
+        al p-to IV.4.224 de la Rezolucio de Unesko de 1954
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>.
+      </ekz>
+    </rim>
     <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t;</trd>
     <trd lng="ru">&c_p;&c_u;&c_n;&c_k;&c_t;</trd>
   </snc>
@@ -353,10 +387,10 @@
       de longo, kies valoro varias la&ubreve; landoj:
       <ekz>
         en Anglalingvujo oni uzas la &leftquot;pigan <tld/>on&rightquot;
-        (351&#8239;&#181;m) kaj la &leftquot;grandan <tld/>on&rightquot; (353&#8239;&#181;m);
+        (351&#8239;µm) kaj la &leftquot;grandan <tld/>on&rightquot; (353&#8239;µm);
       </ekz><ekz>
         en la kontinenta E&ubreve;ropo oni uzas la
-        &leftquot;ciceran <tld/>on&rightquot; (376&#8239;&#181;m);
+        &leftquot;ciceran <tld/>on&rightquot; (376&#8239;µm);
       </ekz><ekz>
         na&ubreve;<tld/>a tiparo.
       </ekz>
@@ -368,17 +402,71 @@
     Evitinda estas la uzo de <em>punkto</em> kun la signifo de
     grado.
   </rim>
+  <trd lng="af">spot</trd>
+  <trd lng="am">&#4710;&#4723;</trd>
+  <trd lng="ar">&a_b;&a_q;&a_ayn;&a_t_marbuta;</trd>
+  <trd lng="az">l&#601;k&#601;</trd>
+  <trd lng="bn">&#2437;&#2453;&#2497;&#2488;&#2509;&#2469;&#2482;</trd>
+  <trd lng="bo">&t_ma;&t_dza;&t_shabchu;&t_ba;&t_tsheg;&t_sa;&t_data;&t_naro;&t_na;&t_tsheg;&t_ba;&t_yata;&t_drengbu;&t_da;&t_tsheg;&t_pa;&t_tsheg;</trd>
+  <trd lng="bs">ta&ccaron;ka</trd>
+  <trd lng="co">puntu</trd>
+  <trd lng="cy">fan a&#8217;r lle</trd>
+  <trd lng="da">plet</trd>
   <trd lng="de">Punkt</trd>
   <trd lng="en">dot</trd>
   <trd lng="es">punto</trd>
+  <trd lng="et">punkti</trd>
+  <trd lng="eu">leku</trd>
   <trd lng="fr">point</trd>
+  <trd lng="fy">punt</trd>
+  <trd lng="ga">l&aacute;thair</trd>
+  <trd lng="gd">&agrave;ite</trd>
+  <trd lng="gl">punto</trd>
+  <trd lng="gu">&#2745;&#2750;&#2716;&#2736;</trd>
+  <trd lng="ha">tabo</trd>
+  <trd lng="hi">&#2361;&#2366;&#2332;&#2367;&#2352;</trd>
+  <trd lng="hmn">chaw</trd>
+  <trd lng="hr">to&ccaron;ka</trd>
+  <trd lng="ht">plas</trd>
   <trd lng="hu">pont</trd>
+  <trd lng="hy">&#1407;&#1381;&#1394;&#1400;&#1410;&#1396;</trd>
   <trd lng="id">titik</trd>
+  <trd lng="ig">ebe</trd>
+  <trd lng="is">blettur</trd>
+  <trd lng="ja">&#12473;&#12509;&#12483;&#12488;</trd>
+  <trd lng="jv">titik</trd>
+  <trd lng="ka">&#4304;&#4307;&#4306;&#4312;&#4314;&#4310;&#4308;</trd>
+  <trd lng="kk">&c_d;&c_a;&#1179;</trd>
+  <trd lng="km">&#6016;&#6035;&#6098;&#6043;&#6082;&#6020;</trd>
+  <trd lng="kn">&#3256;&#3277;&#3242;&#3262;&#3231;&#3277;</trd>
+  <trd lng="ko">&#51088;&#47532;</trd>
+  <trd lng="ku">leke</trd>
+  <trd lng="ky">&c_t;&c_a;&c_k;</trd>
+  <trd lng="lat">locum</trd>
+  <trd lng="lo">&#3720;&#3768;&#3732;</trd>
+  <trd lng="lt">vieta</trd>
+  <trd lng="lv">vieta</trd>
+  <trd lng="mg">toerana</trd>
+  <trd lng="mi">wahi</trd>
+  <trd lng="mk">&c_m;&c_je;&c_s;&c_t;&c_o;</trd>
+  <trd lng="ml">&#3370;&#3393;&#3379;&#3405;&#3379;&#3391;</trd>
+  <trd lng="mn">&c_s;&c_p;&c_o;&c_t;</trd>
+  <trd lng="mr">&#2360;&#2381;&#2346;&#2377;&#2335;</trd>
+  <trd lng="ms">tempat</trd>
+  <trd lng="mt">post</trd>
+  <trd lng="my">&#4129;&#4101;&#4096;&#4154;</trd>
+  <trd lng="ne">&#2348;&#2367;&#2344;&#2381;&#2342;&#2369;</trd>
   <trdgrp lng="nl">
     <trd>punt</trd>,
     <trd>stip</trd>
   </trdgrp>
+  <trd lng="ny">banga</trd>
+  <trd lng="pa">&#2616;&#2602;&#2622;&#2591;</trd>
+  <trd lng="ps">&a_d;&a_A;&a_gh;</trd>
   <trd lng="pt">ponto</trd>
+  <trd lng="rw">ikibanza</trd>
+  <trd lng="sd">&a_j;&a_A;&a_hamza;</trd>
+  <trd lng="si">&#3523;&#3530;&#3502;&#3535;&#3505;&#3514;&#3546;&#3503;&#3539;&#3512;</trd>
   <trdgrp lng="sk">
     <trd>bod</trd>,
     <trd>bodka</trd>
@@ -389,6 +477,28 @@
     <trd>te&ccaron;ka</trd>,
     <trd>&rcaron;&aacute;dov&aacute; te&ccaron;ka</trd>
   </trdgrp>
+  <trd lng="sl">mesto</trd>
+  <trd lng="sm">mea</trd>
+  <trd lng="sn">nzvimbo</trd>
+  <trd lng="so">kaalinta</trd>
+  <trd lng="sq">vend</trd>
+  <trd lng="st">letheba</trd>
+  <trd lng="su">kokotor</trd>
+  <trd lng="sw">doa</trd>
+  <trd lng="ta">&#3000;&#3021;&#2986;&#3006;&#2975;&#3021;</trd>
+  <trd lng="te">&#3128;&#3149;&#3114;&#3134;&#3103;&#3149;</trd>
+  <trd lng="tg">&#1207;&c_o;&c_j;&c_i;</trd>
+  <trd lng="th">&#3592;&#3640;&#3604;</trd>
+  <trd lng="tl">punto</trd>
+  <trd lng="tt">&c_u;&c_r;&c_y;&c_n;</trd>
+  <trd lng="uk">&c_p;&c_l;&c_ja;&c_m;&c_a;</trd>
+  <trd lng="ur">&a_A;&a_s;&f_p;&a_A;&#1657;</trd>
+  <trd lng="uz">nuqtasi</trd>
+  <trd lng="vi">t&#7841;i ch&#7895;</trd>
+  <trd lng="xh">ibala</trd>
+  <trd lng="yi">&pe;&lamed;&ayin;&qof;</trd>
+  <trd lng="yo">iranran</trd>
+  <trd lng="zu">indawo</trd>
 </drv>
 
 <drv mrk="punkt.0i">
@@ -432,6 +542,7 @@
       <trd>&c_u;&c_s;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; <ind>&c_k;&c_r;&c_o;&c_p;&c_k;&c_ib;</ind></trd>
   <trdgrp lng="cs">
     <trd>stanovovat body</trd>,
     <trd>te&ccaron;kovat</trd>
@@ -443,10 +554,12 @@
         <trd>kipontoz</trd>,
         <trd>pettyez</trd>
       </trdgrp>
+  <trd lng="ja">&#28857;&#12434;&#25171;&#12388;  [<ind>&#12390;&#12435;&#12434;&#12358;&#12388;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>bodkova&tcaron;</trd>,
     <trd>stanovova&tcaron; body</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_i; &c_k;&c_r;&c_a;&c_p;&c_k;&c_i;</trd>
 </drv>
 
 <drv mrk="punkt.du0o">
@@ -462,20 +575,19 @@
       <ekz>
         necesas majusklo, se la du<tld/>o enkondukas plurajn frazojn
         <fnt>
-          <vrk><url
-          ref="https://www.esperanto.be/fel/mon/mon_konv.php">Monato-konvencioj</url></vrk>
+          <vrk><url ref="https://&Monato;/konvencioj.php">Monato-konvencioj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         komencu termon per du<tld/>o kaj &gcirc;ia difinado apude
         <fnt>
-          <vrk><url
-          ref="https://txt2tags.org/doc/esperanto/markup-eo">Txt2tags
+          <vrk><url ref="https://txt2tags.org/doc/esperanto/markup-eo">Txt2tags
           Markada Demonstra&jcirc;o</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Doppelpunkt</trd>
+    <trd lng="nl">dubbele <ind>punt</ind></trd>
   </snc>
   <trd lng="be">&c_d;&c_v;&c_u;&c_k;&c_r;&c_o;&c_p;'&c_je;</trd>
   <trd lng="cs">dvojte&ccaron;ka</trd>
@@ -484,8 +596,16 @@
   <trd lng="fr">deux-points</trd>
   <trd lng="hu">kett&odblac;spont</trd>
   <trd lng="id"><ind>titik</ind> dua</trd>
+  <trdgrp lng="ja">
+    <trd>&#12467;&#12525;&#12531;</trd>,
+    <trd>&#38500;&#31639;&#35352;&#21495;  [<ind>&#38500;&#31639;&#12365;&#12372;&#12358;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_d;&c_v;&c_o;&c_je;&c_t;&c_o;&c_ch;&c_i;&c_je;</trd>
   <trd lng="sk">dvojbodka</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_v;&c_o;&c_k;&c_r;&c_a;&c_p;&c_k;&c_a;</trd>,
+    <trd>&c_z;&c_n;&c_a;&c_k; &c_d;&c_ib;&c_l;&c_je;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="punkt.elir0o">
@@ -499,10 +619,10 @@
       <ekz>
         dum longa, tre longa tempo tiu afero <klr>[&#8230;]</klr>
         estis la elir<tld/>o de miaj pa&scirc;oj al kompreno,
-        al dubo kaj al kritiko 
+        al dubo kaj al kritiko
         <fnt>
           <aut>H. Hesse, trad. D. Karthaus</aut>,
-          <vrk>Demian</vrk>, 
+          <vrk>Demian</vrk>,
           <lok>2007</lok>
         </fnt>;
       </ekz>
@@ -511,10 +631,11 @@
         kaj sendependa de
         partioj kaj organizoj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007216.html">Universitatoj</url></vrk>
-        </fnt>;
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007216.php">Kolerigas kotizoj, tentas tendo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 8</lok>
+          </fnt>;
       </ekz>
       <ekz>
         la a&ubreve;toroj tro facilanime akceptas la elir<tld/>ojn de
@@ -522,16 +643,19 @@
         sistemo kaj &scirc;tatorganizado, kiujn ili fakte devus kritike
         konsideri
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007242.html">Supra&jcirc;e
-          rozkolora</url></vrk>
-        </fnt>.
+          <aut>Guido van Damme</aut>
+            <vrk><url ref="&Monato;/2001/007242.php">Supra&jcirc;e rozkolora</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 29</lok>
+          </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Ausgangspunkt</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_h;&c_o;&c_d;&c_n;&c_y; <ind>&c_p;&c_u;&c_n;&c_k;&c_t;</ind></trd>,
+    <trd>&c_z;&c_y;&c_h;&c_o;&c_d;&c_n;&c_y; <ind>&c_p;&c_u;&c_n;&c_k;&c_t;</ind></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>v&yacute;chodi&scaron;t&ecaron;</trd>,
     <trd>v&yacute;choz&iacute; bod</trd>
@@ -545,6 +669,10 @@
     <trd>pr&eacute;suppos&eacute;<klr> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="id"><ind>titik</ind> pangkal</trd>
+  <trdgrp lng="ja">
+    <trd>&#20986;&#30330;&#28857;  [<ind>&#12375;&#12421;&#12387;&#12401;&#12388;&#12390;&#12435;</ind>]</trd>,
+    <trd>&#38283;&#22987;&#28857;  [<ind>&#12363;&#12356;&#12375;&#12390;&#12435;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_i;&c_s;&c_h;&c_o;&c_d;&c_n;&c_a;&c_ja; &c_t;&c_o;&c_ch;&c_k;&c_a;</trd>
   <trd lng="sk">v&yacute;chodiskov&yacute; bod</trd>
 </drv>
@@ -568,6 +696,10 @@
     </dif>
     <trd lng="de">Mittelpunkt</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>,
+    <trd>&c_c;&c_e;&c_n;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
   <trd lng="cs">st&rcaron;ed <klr>(-ov&yacute; bod)</klr></trd>
   <trdgrp lng="es">
     <trd>medio</trd>,
@@ -584,7 +716,7 @@
     <uzo tip="stl">FIG</uzo>
     <dif>
       Esprimita <ref tip="vid" cel="opini.0o">opinio</ref>
-      a&ubreve; <ref tip="vid" cel="ten.sin0o">sinteno</ref> 
+      a&ubreve; <ref tip="vid" cel="ten.sin0o">sinteno</ref>
       je pridisputata temo:
       <ekz>
         la teksto estas ampleksa kaj bone prilumas mian star<tld/>on
@@ -599,32 +731,39 @@
       <ekz>
         la&ubreve; tiaj argumentoj la dosiero prenis nekutiman star<tld/>on
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007052.html">Verda
+          <vrk><url ref="&Monato;/2000/007052.php">Verda
           nature, science, socie</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/08, p. 8</lok>
         </fnt>;
       </ekz>
       <ekz>
         ofte malfacilas konstati, kie trovi&gcirc;as la vere porhomara
         star<tld/>o
         <fnt>
-          <bib>Monato</bib>
           <aut>Werner Schad</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007074.html">Al pli
-          justa mondo</url></vrk>
-        </fnt>.
+            <vrk><url ref="&Monato;/2000/007074.php">Al pli justa mondo</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 7</lok>
+          </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Standpunkt</trd>
     <trd lng="es">posici&oacute;n<klr> (opini&oacute;n)</klr></trd>
     <trd lng="fr">position<klr> (opinion)</klr></trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_l;&c_je;&c_d;&c_z;&c_ib;&c_sh;&c_ch;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_z;&c_y;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>postoj</trd>,
     <trd>stanovisko</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#31435;&#33050;&#28857;  [<ind>&#12426;&#12387;&#12365;&#12419;&#12367;&#12390;&#12435;</ind>]</trd>,
+    <trd>&#31435;&#22580;  [<ind>&#12383;&#12390;&#12400;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>postoj</trd>,
@@ -638,7 +777,7 @@
     <uzo tip="fak">LIN</uzo>
     <uzo tip="fak">TIP</uzo>
     <dif>
-      <ref tip="super" cel="diakrit.0ilo">Diakritilo</ref>
+      <ref tip="super" cel="diakrit.0o">Diakrito</ref>
       en formo de <tld/>o metita super la koncerna baza litero:
       <ekz>
         en Esperanto super<tld/>o diferencigas j disde &jcirc;.
@@ -646,6 +785,7 @@
     </dif>
     <trd lng="de">i-Punkt</trd>
   </snc>
+  <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_k;&c_a; &c_z;&c_mol;&c_v;&c_je;&c_r;&c_h;&c_u; <klr>(&c_d;&c_y;&c_ja;&c_k;&c_r;&c_y;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="cs">te&ccaron;ka nad p&iacute;smenem</trd>
   <trdgrp lng="en">
     <trd>overdot</trd>,
@@ -659,6 +799,8 @@
   <trd lng="hu">fels&odblac; <ind>pont</ind></trd>
   <trd lng="ru">&c_t;&c_o;&c_ch;&c_k;&c_a; &c_s;&c_v;&c_je;&c_r;&c_h;&c_u;</trd>
   <trd lng="sk">bodka nad p&iacute;smenom</trd>
+  <trd lng="uk">&c_n;&c_a;&c_d;&c_r;&c_ja;&c_d;&c_k;&c_o;&c_v;&c_i;&c_j; &c_d;&c_ib;&c_a;&c_k;&c_r;&c_i;&c_t;&c_i;&c_ch;&c_n;&c_i;&c_j; &c_z;&c_n;&c_a;&c_k; &c_u;
+  &c_v;&c_i;&c_g;&c_l;&c_ja;&c_d;&c_ib; &c_k;&c_r;&c_a;&c_p;&c_k;&c_i;</trd>
 </drv>
 
 <drv mrk="punkt.tri0o">
@@ -675,10 +817,11 @@
       <ekz>
         la difino en PIV sekvigas tiun nombron per tri<tld/>o
         <fnt>
-          <bib>Monato</bib>
-          <aut>Garbhan Macaoidh</aut>
-          <vrk><url ref="https://www.monato.be/2003/007921.html">Ho,
+          <aut>Garbhan MacAoidh</aut>
+          <vrk><url ref="&Monato;/2003/007921.html">Ho,
           mistera pi!</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/06, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -688,8 +831,9 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Armando Zecchin</aut>
-          <vrk><url ref="https://www.monato.be/2006/008972.php">Maria
+          <vrk><url ref="&Monato;/2006/008972.php">Maria
           Magdalena: &ccirc;u edzino a&ubreve; ne?</url></vrk>
+          <lok>2006/08, p. 28</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -697,10 +841,11 @@
         &ccirc;i-kontribua&jcirc;e krampojn,
         streketojn kaj aliajn subitajn halto-indikojn
         <fnt>
-          <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref="https://www.monato.be/2012/010885.php">Vo&ccirc;o de
+          <vrk><url ref="&Monato;/2012/010885.php">Vo&ccirc;o de
           ripro&ccirc;o</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/12, p. 5</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -717,24 +862,25 @@
   <trd lng="fr">points de suspension</trd>
   <trd lng="hu">h&aacute;rmaspont</trd>
   <trd lng="id">elipsis</trd>
+  <trd lng="ja">&#19977;&#28857;&#12522;&#12540;&#12480;  [<ind>&#12373;&#12435;&#12390;&#12435;&#12522;&#12540;&#12480;&#12540;</ind>]</trd>
   <trd lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_t;&c_o;&c_ch;&c_i;&c_je;</trd>
   <trd lng="sk">trojbodka</trd>
+  <trd lng="uk">&c_t;&c_r;&c_i; &c_k;&c_r;&c_a;&c_p;&c_k;&c_i;</trd>
 </drv>
 
 <drv mrk="punkt.turno0o">
   <kap>turno<tld/>o, <var><kap>turn<tld/>o</kap></var></kap>
-  <snc mrk="punkt.turn0o.FIG">
+  <snc mrk="punkt.turno0o.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
       Grava &scirc;an&gcirc;o de direkto, de agmaniero, ofte sub premo de
       ekstera cirkonstanco:
       <ekz>
-        en la homa historio estas eventoj, kiujn oni povas taksi 
+        en la homa historio estas eventoj, kiujn oni povas taksi
         turno<tld/>oj
         <fnt>
           <aut>E. Robertson</aut>,
-          <vrk><url
-          ref="http://osdir.com/ml/culture.language.esperanto.britain/2004-11/msg00061.html">
+          <vrk><url ref="http://osdir.com/ml/culture.language.esperanto.britain/2004-11/msg00061.html">
               Turnopunktoj</url></vrk>,
           <lok>Esperanto en Skotlando, [2005?]</lok>
         </fnt>;
@@ -742,19 +888,21 @@
       <ekz>
         la jaro 2008 i&gcirc;os grava turn<tld/>o en la historio de la homaro
         <fnt>
-          <bib>Monato</bib>
           <aut>Mu Binghua</aut>
-          <vrk><url ref="https://www.monato.be/2007/009311.php">Urbi&gcirc;o
+          <vrk><url ref="&Monato;/2007/009311.php">Urbi&gcirc;o
           kaj malri&ccirc;i&gcirc;o</url></vrk>
+          <bib>Monato</bib>
+          <lok>2007/11, p. 23</lok>
         </fnt>;
       </ekz>
       <ekz>
         sentebla turno<tld/>o du semajnojn anta&ubreve; la baloto
         <fnt>
-          <bib>Monato</bib>
           <aut>Ed Robertson</aut>
-          <vrk><url ref="https://www.monato.be/2014/011383.php">Kien
+          <vrk><url ref="&Monato;/2014/011383.php">Kien
           nun?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/11, p. 9</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -763,17 +911,17 @@
         konvinkis <klr>[&#8230;]</klr> la investkompanion de la flandra
         registaro, finance
         subteni
-        <fnt>
-          <bib>Monato</bib>
+       <fnt>
           <aut>Roland Rotsaert</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007334.html">Belgio:
-          Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
-        </fnt>.
+          <vrk><url ref="&Monato;/2001/007334.php">Lernout kaj Hauspie: revo fini&gcirc;is</url></vrk>
+          <bib>Monato</bib>
+          <lok>2001/02, p. 8</lok>
+          </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Wendepunkt</trd>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_v;&c_a;&c_r;&c_o;&c_t;&c_n;&c_y; <ind>&c_p;&c_u;&c_n;&c_k;&c_t;</ind></trd>
   <trdgrp lng="cs">
     <trd>bod obratu</trd>,
     <trd>oto&ccaron;n&yacute; bod</trd>,
@@ -788,10 +936,21 @@
     <trd>moment <ind>charni&egrave;re</ind></trd>
     <trd>instant <ind>d&eacute;cisif</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#36578;&#25563;&#28857;  [<ind>&#12390;&#12435;&#12363;&#12435;&#12390;&#12435;</ind>]</trd>,
+    <trd>&#26354;&#12364;&#12426;&#35282;  [<ind>&#12414;&#12364;&#12426;&#12363;&#12393;</ind>]</trd>,
+    <trd>&#36578;&#27231;  [<ind>&#12390;&#12435;&#12365;</ind>]</trd>,
+    <trd>&#22793;&#12431;&#12426;&#30446;  [<ind>&#12363;&#12431;&#12426;&#12417;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;&c_n;&c_y;&c_j; &c_p;&c_u;&c_n;&c_k;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>bod obratu</trd>,
     <trd>oto&ccaron;n&yacute; bod</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;&c_n;&c_a; &c_t;&c_o;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;&c_n;&c_i;&c_j; &c_m;&c_o;&c_m;&c_je;&c_n;&c_t;</trd>
   </trdgrp>
 </drv>
 
@@ -830,7 +989,7 @@
         &gcirc;i estas rimarkinda la&ubreve; pluraj vid<tld/>oj
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
         </fnt>;
       </ekz>
@@ -876,6 +1035,10 @@
   <trd lng="es">punto de vista</trd>
   <trd lng="fr">point de vue</trd>
   <trd lng="id"><ind>sudut</ind> pandang</trd>
+  <trdgrp lng="ja">
+    <trd>&#35211;&#22320;  [<ind>&#12369;&#12435;&#12385;</ind>]</trd>,
+    <trd>&#35222;&#28857;  [<ind>&#12375;&#12390;&#12435;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>gezichtspunt</trd>,
     <trd>standpunt</trd>
@@ -886,6 +1049,7 @@
     <trd>h&lcaron;adisko</trd>,
     <trd>n&aacute;zor</trd>
   </trdgrp>
+  <trd lng="uk">&c_t;&c_o;&c_ch;&c_k;&c_a; &c_z;&c_o;&c_r;&c_u;</trd>
 </drv>
 
 <drv mrk="punkt.cxef0o">
@@ -899,21 +1063,21 @@
       <ekz>
         prefere mi listigu &ccirc;ef<tld/>ojn favorajn kaj malfavorajn
         <fnt>
-          <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008429.html">Komiksoj
+          <vrk><url ref="&Monato;/2004/008429.html">Komiksoj
           bonintencaj, sed tre mallertaj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/11, p. 26</lok>
         </fnt>;
       </ekz>
       <ekz>
         la &ccirc;ef<tld/>o estas, ke <nom>Wodehouse</nom> ne estis filozofo
         <fnt>
-          <bib>Monato</bib>
           <aut>Martin Purdy</aut>
-          <vrk><url
-          ref="https://www.monato.be/2013/011119.php">Wodehouse kaj la
+          <vrk><url ref="&Monato;/2013/011119.php">Wodehouse kaj la
           filozofoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2013/10, p. 6</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -921,10 +1085,11 @@
         de la urba
         a&ubreve;totrafiko al bela, presti&gcirc;a zono por piedirantoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="https://www.monato.be/2006/008899.php"
-              >Vizito al Novarto-urbo Nancy</url></vrk>
+          <vrk><url ref="&Monato;/2006/008899.php">Vizito al Novarto-urbo
+          Nancy</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/05, p. 14</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -940,6 +1105,10 @@
           <ref cel="okcide.0o.horizonta">Okcidento</ref>
         </refgrp>.
       </dif>
+      <trdgrp lng="be">
+        <trd>&c_k;&c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_p;&c_u;&c_n;&c_k;&c_t;</ind></trd>,
+        <trd>&c_b;&c_o;&c_k; <ind>&c_s;&c_mol;&c_v;&c_je;&c_t;&c_u;</ind></trd>
+      </trdgrp>
       <trdgrp lng="de">
         <trd>Haupthimmelsrichtung</trd>,
         <trd>Kardinalpunkt</trd>
@@ -950,8 +1119,11 @@
       <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_n;&c_y; &c_s;&c_v;&c_je;&c_t;&c_a;</trd>
     </subsnc>
   </snc>
+  <trd lng="be">&c_g;&c_a;&c_l;&c_o;&c_w;&c_n;&c_y; <ind>&c_p;&c_u;&c_n;&c_k;&c_t;</ind></trd>
   <trd lng="de">Hauptpunkt</trd>
   <trd lng="en">main point</trd>
+  <trd lng="ja">&#22522;&#26412;&#26041;&#20301;  [<ind>&#12365;&#12411;&#12435;&#12411;&#12358;&#12356;</ind>]</trd>
+  <trd lng="uk">&c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_a; &c_s;&c_v;&c_ib;&c_t;&c_u;</trd>
 </drv>
 
 <drv mrk="punkt.fiksa0o">
@@ -978,6 +1150,7 @@
         estas fiksa per <frm am="f"><k>f</k></frm></ctl>.
     </rim>
   </snc>
+  <trd lng="be">&c_n;&c_je;&c_r;&c_u;&c_h;&c_o;&c_m;&c_y; <ind>&c_p;&c_u;&c_n;&c_k;&c_t;</ind></trd>
   <trdgrp lng="cs">
     <trd>dan&yacute; bod</trd>,
     <trd>invariantn&iacute; bod</trd>,
@@ -988,6 +1161,10 @@
   <trd lng="es">punto fijo</trd>
   <trd lng="fr">point fixe</trd>
   <trd lng="hu">fixpont</trd>
+  <trdgrp lng="ja">
+    <trd>&#22266;&#23450;&#28857;  [<ind>&#12371;&#12390;&#12356;&#12390;&#12435;</ind>]</trd>,
+    <trd>&#23450;&#28857;  [<ind>&#12390;&#12356;&#12390;&#12435;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>punkt sta&lstroke;y<klr tip="ind"> (odwzorowania)</klr></trd>
   </trdgrp>
@@ -996,28 +1173,28 @@
 </drv>
   </art>
   <!--
-  $Log: punkt.xml,v $
-versio 1.50 2020/02/14 18:10:18
-Wolfram Diestel: formuloj per am
+  $Log$
+versio 1.149 2023/09/04 18:26:18
+Mahaer Mahmud: plibonigis difinon
 
-  Revision 1.49  2019/09/28 12:10:20  revo
-  Wolfram Diestel: subsnc-mrk
+versio 1.147 2023/09/03 12:39:16
+Wolfram Diestel: sintaksaj adaptetoj
 
-  Revision 1.48  2019/09/27 14:10:18  revo
-  Wolfram Diestel: kor. ref-cel
+versio 1.146 2023/09/03 06:29:20
+Mahaer Mahmud: plibonigis difinon
 
-  Revision 1.47  2019/09/27 10:10:19  revo
-  Wolfram Diestel: cxef~o geografia kiel subsnc anst. ekz por povi
-  referenci
+versio 1.145 2023/09/01 08:28:06
+Mahaer Mahmud: movis ekzemplon al la ta&ubreve;ga subsenco
 
-  Revision 1.46  2019/09/24 19:10:15  revo
-  Wolfram Diestel: +ekz-oj, germ trd-oj
+versio 1.144 2023/09/01 02:34:03
+Mahaer Mahmud: plibonigis tradukojn, difinon
 
-  Revision 1.45  2018/05/07 17:10:15  revo
-  Guillermo Molleda Jimena: trd es
+versio 1.143 2023/08/31 17:25:22
+Mahaer Mahmud: aldonis subsencon "emfazo"
 
-  Revision 1.44  2016/11/24 20:10:15  revo
-  Wolfram Diestel: ekz-oj/fnt, ref-oj
+versio 1.142 2023/08/29 14:28:35
+Sergio Pokrovskij: diakritilo
 
+versio 1.141 2023/05/08 16:34:10
 -->
 </vortaro>

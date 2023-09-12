@@ -1,19 +1,18 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: hxirur.xml,v 1.29 2010/10/25 16:31:19 revo Exp $">
+<art mrk="$Id: hxirur.xml,v 1.38 2023/08/31 15:46:20 revo Exp $">
 <kap>
   <ofc>8</ofc> <rad>&hcirc;irurgi</rad>/o <fnt>Z</fnt>
   <fnt><bib>PV</bib></fnt>,
   <var><kap>
-    <ofc>8</ofc> <rad>kirurgi</rad>/o <fnt><bib>PV</bib></fnt>
+    <ofc>8</ofc> <rad var="k">kirurgi</rad>/o <fnt><bib>PV</bib></fnt>
   </kap></var>
 </kap>
 
 <drv mrk="hxirur.0o">
   <kap><tld/>o,
-    <var><kap>kirurgio</kap></var>
+    <var><kap><tld var="k"/>o</kap></var>
   </kap>
   <snc mrk="hxirur.0o.MED">
     <uzo tip="fak">KIR</uzo>
@@ -27,12 +26,11 @@
         <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=21077"
-              >Georgo Jameson Johnston</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=21077">Georgo Jameson Johnston</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-       kirurgio probable restos ankora&ubreve; necesa por kuraci jam
+       <tld var="k"/>o probable restos ankora&ubreve; necesa por kuraci jam
        ekzistantajn
        melanomojn
        <fnt><aut>Stevens Norvell</aut>, <vrk>&Ccirc;u anka&ubreve; genoj
@@ -41,13 +39,12 @@
        numero 7a, p. 14a</lok></fnt>;
       </ekz>
       <ekz>
-        &scirc;ia piedo estis operaciota, kaj anta&ubreve; la kirurgiado ni iris
+        &scirc;ia piedo estis operaciota, kaj anta&ubreve; la <tld var="k"/>ado ni iris
         viziti la kuraciston
         <fnt>
           <bib>Monato</bib>
           <aut>Ferriol Macip i Bonet</aut>
-          <vrk><url ref="&Monato;/2007/009183.php"
-              >Gvatu la turon!</url></vrk>
+          <vrk><url ref="&Monato;/2007/009183.php">Gvatu la turon!</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -63,6 +60,10 @@
   <trd lng="fa">&a_j;&a_r;&a_A;&a_H;&f_y;</trd>
   <trd lng="fr">chirurgie</trd>
   <trd lng="hu">seb&eacute;szet</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5916;&#x79D1;&#x5B66;  [<ind>&#x3052;&#x304B;&#x304C;&#x304F;</ind>]</trd>,
+    <trd>&#x5916;&#x79D1;  [<ind>&#x3052;&#x304B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">chirurgie</trd>
   <trd lng="pl">chirurgia</trd>
   <trd lng="pt">cirurgia</trd>
@@ -70,11 +71,12 @@
   <trd lng="sk">chirurgia</trd>
   <trd lng="sv">kirurgi</trd>
   <trd lng="it">chirurgia</trd>
+  <trd lng="uk">&#x445;&#x456;&#x440;&#x443;&#x440;&#x433;&#x456;&#x44F;</trd>
 </drv>
 
 <drv mrk="hxirur.0a">
   <kap><tld/>a,
-    <var><kap>kirurgia</kap></var>
+    <var><kap><tld var="k"/>a</kap></var>
   </kap>
   <snc mrk="hxirur.0a.MED">
     <dif>
@@ -85,13 +87,12 @@
         la unua <tld/>a katedro de Usono
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=163911"
-              >William Stewart Halsted</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=163911">William Stewart Halsted</url></lok>
         </fnt>;
       </ekz>
       <ekz>
        frua ekkono de malgrandaj tumoroj ebligos anka&ubreve; la
-       kancerkuracadon sen kirurgia apliko
+       kancerkuracadon sen <tld var="k"/>a apliko
        <fnt><aut>Evgeni Georgiev</aut>, <vrk>Novaj
        kuracmetodoj kaj prevento</vrk>, <bib>Monato</bib>, <lok>jaro
        2001a,
@@ -109,11 +110,12 @@
   <trd lng="ru">&c_h;&c_i;&c_r;&c_u;&c_r;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
   <trd lng="sv">kirurgisk</trd>
   <trd lng="it">chirurgico</trd>
+  <trd lng="uk">&#x445;&#x456;&#x440;&#x443;&#x440;&#x433;&#x456;&#x447;&#x43D;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="hxirur.0isto">
   <kap><tld/>isto,
-    <var><kap>kirurgiisto</kap></var>
+    <var><kap><tld var="k"/>isto</kap></var>
   </kap>
   <snc mrk="hxirur.0isto.MED">
     <uzo tip="fak">KIR</uzo>
@@ -125,8 +127,7 @@
         dum la Korea Milito
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=220430"
-              >MASH</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=220430">MASH</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -151,6 +152,9 @@
 </art>
 <!--
 $Log$
+versio 1.36 2020/09/06 16:32:34
+Wolfram Diestel: +tld-var
+
 Revision 1.34  2019/06/30 18:21:02  revo
 adaptis URL de Monato
 

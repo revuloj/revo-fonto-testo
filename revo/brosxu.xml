@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: brosxu.xml,v 1.13 2009/08/21 16:31:16 revo Exp $">
+<art mrk="$Id: brosxu.xml,v 1.24 2023/08/31 08:48:53 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>bro&scirc;ur</rad>/o <fnt><bib>LR</bib></fnt>
@@ -12,8 +11,8 @@
   <snc mrk="brosxu.0o.TIP">
     <uzo tip="fak">TIP</uzo>
     <dif>
-      Libro a&ubreve; alia presa&jcirc;o ne bindita, sed
-      kunkudrita, eventuale kungluita a&ubreve; krampita:
+      <ref tip="super" cel="pres.0ajxo">Presa&jcirc;o</ref> el kelkaj kunigitaj folioj
+      sen binda&jcirc;o, eventuale kun kartona ekstero:
       <ekz>
         vi povas ricevi de ni la <tld/>on pri homaranismo por la prezo de unu rublo
         <fnt>
@@ -22,7 +21,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        miaj Respondoj <klr>[&#8230;]</klr> estos reeldonitaj kune en formo de aparta <tld/>o, kun aldono de la Alfabeta Registro
+        miaj Respondoj <klr>[&#x2026;]</klr> estos reeldonitaj kune en formo de aparta <tld/>o, kun aldono
+        de la Alfabeta Registro
         <fnt>
           <bib>LR</bib>
           <lok>2. La verkaro de Zamenhof</lok>
@@ -45,13 +45,19 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Nikolao Gudskov</aut>
-          <vrk><url ref="https://www.monato.be/2003/007838.html">Helpilo por kontra&ubreve;stari al imperiismo</url></vrk>
+          <vrk><url ref="&Monato;/2003/007838.html">Helpilo por kontra&ubreve;stari al
+          imperiismo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="sin" cel="kajer.0o.de_libro">kajero<sncref/></ref>
+    <ref tip="vid" cel="oktav.0o.TIP">oktavo<sncref/></ref>
   </snc>
   <trd lng="be">&c_b;&c_r;&c_a;&c_sh;&c_u;&c_r;&c_a;</trd>
-  <trd lng="de">Brosch&uuml;re</trd>
+  <trdgrp lng="de">
+    <trd>Brosch&uuml;re</trd>,
+    <trd><klr>(gedrucktes)</klr> Heft</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>brochure</trd>,
     <trd>leaflet</trd>,
@@ -62,7 +68,12 @@
     <trd>encuadernaci&oacute;n sin tapa dura</trd>
   </trdgrp>
   <trd lng="fr">brochure</trd>
+  <trd lng="he">&het;&vav;&#x5B9;&bet;&#x5B6;&resh;&#x5B6;&tav;</trd>
   <trd lng="hu">bros&uacute;ra</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EEE;&#x7DB4;&#x672C;  [<ind>&#x304B;&#x308A;&#x3068;&#x3058;&#x307B;&#x3093;</ind>]</trd>,
+    <trd>&#x4E26;&#x88FD;&#x672C;  [<ind>&#x306A;&#x307F;&#x305B;&#x3044;&#x307B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">brochure</trd>
   <trdgrp lng="pl">
     <trd>broszura</trd>
@@ -70,6 +81,7 @@
     <trd>ksi&aogonek;&zdot;ka w oprawie klejonej</trd>
   </trdgrp>
   <trd lng="ru">&c_b;&c_r;&c_o;&c_sh;&c_ju;&c_r;&c_a;</trd>
+  <trd lng="uk">&c_b;&c_r;&#x43E;&c_sh;&c_u;&c_r;&c_a;</trd>
 </drv>
 
 <drv mrk="brosxu.0i">
@@ -82,9 +94,10 @@
       <ekz>
         52 pa&gcirc;oj <tld/>itaj
         <fnt>
-          <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006810.html">Diskutige kaj diskutinde</url></vrk>
+	<aut>Jorge Camacho</aut>
+	<vrk><url ref="&Monato;/2000/006810.php">Diskutige kaj diskutinde</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/08, p. 25</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -92,21 +105,26 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="https://www.monato.be/2011/010411.php">La gramatikiloj de Esperanto la&ubreve; ABC</url></vrk>
+          <vrk><url ref="&Monato;/2011/010411.php">La gramatikiloj de Esperanto la&ubreve; ABC</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        foliumante tra la 87-pa&gcirc;a <tld/>ita verketo en formato A5, oni hazarde trovas rubrikon lingvan pri Esperanto
+        foliumante tra la 87-pa&gcirc;a <tld/>ita verketo en formato A5, oni hazarde trovas rubrikon
+        lingvan pri Esperanto
         <fnt>
           <bib>Monato</bib>
           <aut>Pejno Simono</aut>
-          <vrk><url ref="https://www.monato.be/2012/010410.php">&Hcirc;aose de A &gcirc;is Z</url></vrk>
+          <vrk><url ref="&Monato;/2012/010410.php">&Hcirc;aose de A &gcirc;is Z</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="malprt" cel="bind.0i.TIP">bindi</ref>
     <trd lng="be">&c_b;&c_r;&c_a;&c_sh;&c_u;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
-    <trd lng="de">fadenbinden</trd>
+    <trdgrp lng="de">
+      <trd>heften</trd>,
+      <trd>broschieren</trd>,
+      <trd>klammern <klr>(Brosch&uuml;re)</klr></trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>encuadernar de forma r&uacute;stica</trd>,
       <trd>encuadernar sin tapa dura</trd>
@@ -120,10 +138,21 @@
     </trdgrp>
     <trd lng="ru">&c_b;&c_r;&c_o;&c_sh;&c_ju;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
+  <trd lng="ja">&#x4EEE;&#x7DB4;&#x3059;&#x308B;  [<ind>&#x304B;&#x308A;&#x3064;&#x3065;&#x308A;&#x3059;&#x308B;</ind>]</trd>
+  <trd lng="uk">&c_b;&c_r;&#x43E;&c_sh;&c_u;&c_r;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/04/24 08:32:23
+Paul Peeraerts: @Sxteloj -> @Monato
+
+versio 1.22 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2021/06/07 20:07:00
+Wolfram Diestel: vortumo dif, ref-oj, trd de
+
 Revision 1.17  2019/06/29 12:22:51  revo
 adaptis URL de Monato
 
@@ -137,17 +166,5 @@ Revision 1.14  2011/03/10 15:10:08  revo
 Jeromo Vasxe: - num + mrk
 
 Revision 1.13  2009/08/21 16:31:16  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.12  2009/03/30 16:30:57  revo
-Sebastian Cyprych: +trd pl +ref bind
-
-Revision 1.11  2008/07/29 16:30:42  revo
-Russ Williams: +trd en
-
-Revision 1.10  2003/12/03 17:31:03  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2003/02/15 17:33:16  revo
 -->
 </vortaro>

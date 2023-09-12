@@ -1,22 +1,26 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dileta.xml,v 1.15 2009/06/16 16:31:23 revo Exp $">
+<art mrk="$Id: dileta.xml,v 1.23 2023/08/31 10:44:00 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>diletant</rad>/o
 </kap>
 <drv mrk="dileta.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="dileta.0o.KOMUNE">
     <dif>
       Persono, kiu sin okupas pri arto a&ubreve; scienco neprofesie kaj
-      celante nur sian plezuron.
+      celante nur sian plezuron; <ref tip="vid" cel="amator.0o">amatoro</ref>:
+      <ekz>
+        la flua parolkapablo de laboristoj hontigis amason da <tld/>oj kun pli alta eduko
+        <fnt>
+          <aut>I. Lapenna</aut>
+          <vrk>Esperanto en Perspektivo</vrk>
+          <lok>1974</lok>
+        </fnt>.
+      </ekz>
     </dif>
-    <refgrp tip="sin">
-      <ref cel="amator.0o">amatoro</ref>.
-    </refgrp>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_l;&c_je;&c_t;&c_a;&c_n;&c_t;</trd>
   <trdgrp lng="ca">
@@ -26,7 +30,7 @@
   </trdgrp>
   <trdgrp lng="cs">
     <trd>diletant</trd>,
-    <trd>neodborník</trd>
+    <trd>neodborn&iacute;k</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Nichtfachmann</trd>,
@@ -40,10 +44,15 @@
     <trd>amateur</trd>
   </trdgrp>
   <trd lng="fr">dilettante</trd>
+  <trd lng="he">&#x5D7;&#x5D5;&#x5B9;&#x5D1;&#x5B0;&#x5D1;&#x5B8;&#x5DF;</trd>
   <trdgrp lng="hu">
     <trd>m&udblac;kedvel&odblac;</trd>,
     <trd>dilett&aacute;ns</trd>,
     <trd>amat&odblac;r</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x597D;&#x4E8B;&#x5BB6;  [<ind>&#x3053;&#x3046;&#x305A;&#x304B;</ind>]</trd>,
+    <trd>&#x30C7;&#x30A3;&#x30EC;&#x30C3;&#x30BF;&#x30F3;&#x30C8;</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>dyletant</trd>,
@@ -56,20 +65,104 @@
     <trd>n&atilde;o <ind>profissional</ind></trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_i;&c_l;&c_je;&c_t;&c_a;&c_n;&c_t;</trd>
-  <trd lng="sk">neodborník</trd>
+  <trd lng="sk">neodborn&iacute;k</trd>
+  <trd lng="uk">&#x434;&#x438;&#x43B;&#x435;&#x442;&#x430;&#x43D;&#x442;</trd>
+</drv>
+
+<drv mrk="dileta.0a">
+  <kap><tld/>a</kap>
+  <fnt><bib>WED</bib></fnt>
+  <snc mrk="dileta.0a.KOMUNE">
+    <dif>
+      Neprofesie aganta;
+      <ref tip="vid" cel="amator.0eca">amatoreca</ref>:
+      <ekz>
+        la unuvoluma apero de lia originala poemaro estas profitenda okazo por pa&scirc;i al
+        &leftquot;plena posedo&rightquot;, ne nur de la lingvo, sed anka&ubreve; de pli matura &ndash; kaj ne <tld/>a
+        &ndash; ideo pri poezio
+        <fnt>
+          <aut>M. Nervi</aut>
+          <vrk>William Auld, a&ubreve;: kio estas poeto</vrk>
+          <lok>Akademio Literatura de Esperanto, [2013]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_y;&c_l;&c_je;&c_t;&c_a;&c_n;&c_c;&c_k;&c_ib;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_a;&c_f;&c_e;&c_s;&c_ib;&c_j;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_m;&c_a;&c_t;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>diletant <klr>(adj.)</klr></trd>,
+    <trd>amateur <klr>(adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>diletantsk&yacute;</trd>,
+    <trd>neodborn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>laienhaft</trd>,
+    <trd>dilettantisch</trd>,
+    <trd>amateurhaft</trd>,
+    <trd>unprofessionell</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>dilettantish</trd>,
+    <trd>amateurish</trd>
+  </trdgrp>
+  <trd lng="he">&#x5D7;&#x5D5;&#x5D1;&#x5D1;&#x5E0;&#x5D9;</trd>
+  <trdgrp lng="hu">
+    <trd>m&udblac;kedvel&odblac;</trd>,
+    <trd>dilett&aacute;ns</trd>,
+    <trd>amat&odblac;r</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x82B8;&#x8853;&#x597D;&#x304D;&#x306E;  [<ind>&#x3052;&#x3044;&#x3058;&#x3085;&#x3064;&#x3059;&#x304D;&#x306E;</ind>]</trd>,
+    <trd>&#x751F;&#x304B;&#x3058;&#x308A;&#x306E;  [<ind>&#x306A;&#x307E;&#x304B;&#x3058;&#x308A;&#x306E;</ind>]</trd>,
+    <trd>&#x7D20;&#x4EBA;&#x82B8;&#x306E;  [<ind>&#x3057;&#x308D;&#x3046;&#x3068;&#x3052;&#x3044;&#x306E;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dyletancki</trd>,
+    <trd>nieprofesjonalny</trd>,
+    <trd>niefachowy</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>amador</trd>,
+    <trd>diletant&iacute;stico</trd>,
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_i;&c_l;&c_je;&c_t;&c_a;&c_n;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_l;&c_ju;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_s;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>neodborn&yacute;</trd>,
+    <trd>ochotn&iacute;cky</trd>
+  </trdgrp>
+  <trd lng="uk">&#x434;&#x438;&#x43B;&#x435;&#x442;&#x430;&#x43D;&#x442;&#x441;&#x44C;&#x43A;&#x438;&#x439;</trd>
 </drv>
 
 <drv mrk="dileta.0eco">
-  <kap><tld/>eco</kap>
-  <snc>
+  <kap><tld/>eco,
+  <var><kap><tld/>ismo</kap></var></kap>
+  <snc mrk="dileta.0eco.KOMUNE">
     <dif>
-      Spirita stato de tiu, kiu ser&ccirc;as nur sian plezuron en la
-      sciencaj
-      a&ubreve; artaj okupoj, neniel celante veron a&ubreve;
+      Spirita stato de tiu, kiu ser&ccirc;as sian plezuron en la
+      sciencaj a&ubreve; artaj okupoj, ne celante veron a&ubreve;
       &gcirc;eneralan utilon:
       <ekz>
         tiu supra&jcirc;a konado de la arto, nomata artista <tld/>eco
-        <fnt>Z</fnt>.
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+      <ekz>
+        en la originala esperanta poezio, kiam debutis la tielnomita Budape&scirc;ta Skolo
+        <klr>[&#x2026;]</klr> estis la fino de primitivismo kaj <tld/>ismo
+        <fnt>
+          <aut>M. Boulton</aut>
+          <vrk>Ne nur leteroj de plumamikoj</vrk>
+          <lok>1984</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -87,106 +180,39 @@
     <trd>amateurisme</trd>
   </trdgrp>
   <trdgrp lng="de">
-    <trd>Dilettantentum</trd>
-  </trdgrp>
-  <trdgrp lng="en">
-    <trd>dilettantism</trd>,
-    <trd>amateurism</trd>
-  </trdgrp>
-  <trd lng="fr">dilettantisme</trd>
-  <trdgrp lng="hu">
-    <trd>dilettantizmus</trd>,
-    <trd>m&udblac;kedvel&eacute;s</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>dyletanctwo</trd>,
-    <trd>nieprofesjonalno&sacute;&cacute;</trd>,
-    <trd>niefachowo&sacute;&cacute;</trd>
-  </trdgrp>
-  <trd
-  lng="ru">&c_d;&c_i;&c_l;&c_je;&c_t;&c_a;&c_n;&c_t;&c_i;&c_z;&c_m;</trd>
-  <trd lng="sk">diletantizmus</trd>
-  <trdgrp lng="cs">
-    <trd>diletantství</trd>,
-    <trd>neodbornost</trd>,
-    <trd>povrchnost</trd>
-  </trdgrp>
-</drv>
-
-<drv mrk="dileta.0ismo">
-  <kap><tld/>ismo <fnt><bib>PV</bib></fnt></kap>
-  <snc>
-    <uzo tip="stl">ARK</uzo>
-    <ref tip="dif" cel="dileta.0eco"><tld/>eco.</ref>
-  </snc>
-  <trdgrp lng="de">
+    <trd>Dilettantentum</trd>,
     <trd>Dilettantismus</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>dilettantism</trd>,
     <trd>amateurism</trd>
   </trdgrp>
-  <trd lng="hu">dilettantizmus</trd>
+  <trd lng="fr">dilettantisme</trd>
+  <trd lng="he">&#x5D7;&#x5D5;&#x5B9;&#x5D1;&#x5B0;&#x5D1;&#x5B8;&#x5E0;&#x5D5;&#x5EA;</trd>
+  <trdgrp lng="hu">
+    <trd>dilettantizmus</trd>,
+    <trd>m&udblac;kedvel&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x82B8;&#x8853;&#x611B;&#x597D;  [<ind>&#x3052;&#x3044;&#x3058;&#x3085;&#x3064;&#x3042;&#x3044;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x9053;&#x697D;  [<ind>&#x307F;&#x3061;&#x304C;&#x304F;</ind>]</trd>,
+    <trd>&#x8DA3;&#x5473;  [<ind>&#x3057;&#x3085;&#x307F;</ind>]</trd>,
+    <trd>&#x30C7;&#x30A3;&#x30EC;&#x30C3;&#x30BF;&#x30F3;&#x30C6;&#x30A3;&#x30BA;&#x30E0;</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>dyletanctwo</trd>,
     <trd>nieprofesjonalno&sacute;&cacute;</trd>,
     <trd>niefachowo&sacute;&cacute;</trd>
   </trdgrp>
-</drv>
-
-<drv mrk="dileta.0a">
-  <kap><tld/>a</kap>
-  <fnt><bib>WED</bib></fnt>
-  <snc>
-    <dif>
-      Neprofesie aganta.
-    </dif>
-    <refgrp tip="sin">
-      <ref cel="amator.0eca">amatoreca</ref>.
-    </refgrp>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_d;&c_y;&c_l;&c_je;&c_t;&c_a;&c_n;&c_c;&c_k;&c_ib;</trd>,
-    <trd>&c_n;&c_je;&c_p;&c_r;&c_a;&c_f;&c_e;&c_s;&c_ib;&c_j;&c_n;&c_y;</trd>,
-    <trd>&c_a;&c_m;&c_a;&c_t;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>
-  </trdgrp>
-  <trdgrp lng="ca">
-    <trd>diletant <klr>(adj.)</klr></trd>,
-    <trd>amateur <klr>(adj.)</klr></trd>
-  </trdgrp>
+  <trd lng="pt">diletantismo</trd>
+  <trd lng="ru">&c_d;&c_i;&c_l;&c_je;&c_t;&c_a;&c_n;&c_t;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">diletantizmus</trd>
   <trdgrp lng="cs">
-    <trd>diletantský</trd>,
-    <trd>neodborný</trd>
+    <trd>diletantstv&iacute;</trd>,
+    <trd>neodbornost</trd>,
+    <trd>povrchnost</trd>
   </trdgrp>
-  <trdgrp lng="de">
-    <trd>laienhaft</trd>,
-    <trd>dilettantisch</trd>,
-    <trd>amateurhaft</trd>,
-    <trd>unprofessionell</trd>
-  </trdgrp>
-  <trdgrp lng="en">
-    <trd>dilettantish</trd>,
-    <trd>amateurish</trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>m&udblac;kedvel&odblac;</trd>,
-    <trd>dilett&aacute;ns</trd>,
-    <trd>amat&odblac;r</trd>
-  </trdgrp>
-  <trdgrp lng="pl">
-    <trd>dyletancki</trd>,
-    <trd>nieprofesjonalny</trd>,
-    <trd>niefachowy</trd>
-  </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_d;&c_i;&c_l;&c_je;&c_t;&c_a;&c_n;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>,
-    <trd>&c_l;&c_ju;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_i;&c_j;</trd>,
-    <trd>&c_n;&c_je;&c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_s;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
-  </trdgrp>
-  <trdgrp lng="sk">
-    <trd>neodborný</trd>,
-    <trd>ochotnícky</trd>
-  </trdgrp>
+  <trd lng="uk">&#x434;&#x438;&#x43B;&#x435;&#x442;&#x430;&#x43D;&#x442;&#x438;&#x437;&#x43C;</trd>
 </drv>
 <adm>
   &Scirc;ajnas al mi, ke &ccirc;iuj deriva&jcirc;oj havas sufi&ccirc;e
@@ -195,7 +221,16 @@
 </adm>
 </art>
 <!--
-$Log$
+$Log: dileta.xml,v $
+versio 1.20 2020/03/23 00:10:48
+Jeromo Vasxe: + ekz, kunig. ~eco ~ismo
+
+Revision 1.19  2020/03/22 08:00:05  revo
+James Rezende Piton: +trd pt ~a, ~eco, ~ismo
+
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.17  2015/06/29 16:29:36  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -209,17 +244,5 @@ Revision 1.14  2009/03/01 17:34:30  revo
 Russ Williams: +trd en
 
 Revision 1.13  2007/08/05 16:30:46  revo
-Tulio Flores: +tr pt
-
-Revision 1.12  2007/02/08 17:30:35  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11  2003/12/13 17:33:29  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.10  2003/09/02 16:31:39  revo
-Yury Finkel: +trd ru
-
-Revision 1.9 2003/02/16 17:33:30 revo
 -->
 </vortaro>

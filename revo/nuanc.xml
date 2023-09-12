@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: nuanc.xml,v 1.13 2009/01/30 17:30:21 revo Exp $">
+  <art mrk="$Id: nuanc.xml,v 1.23 2023/09/03 06:36:22 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>nuanc</rad>/o
@@ -49,6 +48,7 @@
         <trd>&c_n;&c_ju;&c_a;&c_n;&c_s;</trd>,
         <trd>&c_a;&c_d;&c_c;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
       </trdgrp>
+  <trd lng="bo">&#xF5A;&#xF7C;&#xF53;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>jemn&yacute; rozd&iacute;l</trd>,
     <trd>nuance</trd>,
@@ -65,6 +65,11 @@
         <trd>&aacute;rnyalat</trd>,
         <trd>n&uuml;ansz</trd>
       </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5FAE;&#x5999;&#x306A;&#x5DEE;&#x7570;  [<ind>&#x3073;&#x307F;&#x3087;&#x3046;&#x306A;&#x3055;&#x3044;</ind>]</trd>,
+    <trd>&#x8272;&#x5408;&#x3044;  [<ind>&#x3044;&#x308D;&#x3042;&#x3044;</ind>]</trd>,
+    <trd>&#x30CB;&#x30E5;&#x30A2;&#x30F3;&#x30B9;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
         <trd>nuance</trd>,
         <trd>schakering</trd>
@@ -77,6 +82,10 @@
     <trd>sfarbenie</trd>
   </trdgrp>
   <trd lng="sv">nyans</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x456;&#x434;&#x442;&#x456;&#x43D;&#x43E;&#x43A;</trd>,
+    <trd>&#x43D;&#x44E;&#x430;&#x43D;&#x441;</trd>
+  </trdgrp>
 </drv>
 
     <drv mrk="nuanc.0i">
@@ -92,8 +101,7 @@
           </ekz>
         </dif>
       </snc>
-  <trd
-  lng="be">&c_n;&c_ju;&c_a;&c_n;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="be">&c_n;&c_ju;&c_a;&c_n;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>nuancovat</trd>,
     <trd>odst&iacute;nit</trd>
@@ -106,6 +114,10 @@
   <trd lng="es">matizar</trd>
       <trd lng="fr">nuancer</trd>
   <trd lng="hu">&aacute;rnyal</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8272;&#x5408;&#x3044;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x3044;&#x308D;&#x3042;&#x3044;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x5FAE;&#x5999;&#x306A;&#x5909;&#x5316;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x3073;&#x307F;&#x3087;&#x3046;&#x306A;&#x3078;&#x3093;&#x304B;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">nuanceren</trd>
   <trdgrp lng="pl">
     <trd>niuansowa&cacute;</trd>,
@@ -113,8 +125,7 @@
     <trd>pokazywa&cacute; <ind>niuanse</ind></trd>
   </trdgrp>
   <trd lng="pt">nuan&ccedil;ar</trd>
-  <trd
-  lng="ru">&c_n;&c_ju;&c_a;&c_n;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_n;&c_ju;&c_a;&c_n;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>nuansova&tcaron;</trd>,
     <trd>odtie&ncaron;ova&tcaron;</trd>

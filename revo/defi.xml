@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: defi.xml,v 1.16 2009/07/11 16:30:57 revo Exp $">
+<art mrk="$Id: defi.xml,v 1.21 2023/08/31 10:43:58 revo Exp $">
 <kap>
   <ofc>9</ofc> <rad>defi</rad>/i
   <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -104,12 +103,24 @@
     <trd>narguer</trd>
     <trd>provoquer</trd>
   </trdgrp>
+  <trd lng="he">&#x5DC;&#x5D4;&#x5E2;&#x5D6;</trd>
   <trd lng="hu">kih&iacute;v<klr tip="ind"> (&aacute;tv. is)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x6311;&#x6226;&#x3059;&#x308B;  [<ind>&#x3061;&#x3087;&#x3046;&#x305B;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3044;&#x3069;&#x3080;</trd>,
+    <trd>&#x516C;&#x7136;&#x3068;&#x53CD;&#x6297;&#x3059;&#x308B;  [<ind>&#x3053;&#x3046;&#x305C;&#x3093;&#x3068;&#x306F;&#x3093;&#x3053;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5E73;&#x7136;&#x3068;&#x7121;&#x8996;&#x3059;&#x308B;  [<ind>&#x3078;&#x3044;&#x305C;&#x3093;&#x3068;&#x3080;&#x3057;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3082;&#x306E;&#x3068;&#x3082;&#x3057;&#x306A;&#x3044;</trd>
+  </trdgrp>
   <trd lng="nl">uitdagen</trd>
   <trd lng="es">desafiar</trd>
   <trd lng="ru">&c_b;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol;
   &c_v;&c_y;&c_z;&c_o;&c_v;</trd>
   <trd lng="sk">vyzva&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x43A;&#x43B;&#x438;&#x43A;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x440;&#x43E;&#x431;&#x438;&#x442;&#x438; &#x432;&#x438;&#x43A;&#x43B;&#x438;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: frankfurt.xml,v 1.23 2007/06/13 16:31:28 revo Exp $">
+<art mrk="$Id: frankfurt.xml,v 1.34 2023/08/31 13:11:31 revo Exp $">
   <kap>
     <rad>Frankfurt</rad>/o<fnt>Z</fnt>
   </kap>
@@ -14,20 +13,23 @@
     <dif>
       <ref tip="dif" cel="frankfurt.F0oMajno">Frankfurto &ccirc;e Majno</ref>:
       <ekz>
-        kiam anta&ubreve; malmultaj semajnoj aperis glisaviadilo super <tld/>o, Germanio, tuj esti&gcirc;is alarmo
+        kiam anta&ubreve; malmultaj semajnoj aperis glisaviadilo super <tld/>o, Germanio, tuj esti&gcirc;is
+        alarmo
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="https://www.monato.be/2003/008211.html">Ni neniam konos la veron</url></vrk>
+          <vrk><url ref="&Monato;/2003/008211.html">Ni neniam konos la
+          veron</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         la estro de la inter&scirc;tata komisiono por la germana
-        ortografio <klr>[&#8230;]</klr> beda&ubreve;ris la decidon de la redakcio en <tld/>o, sed ne vidis kialon por &scirc;an&gcirc;o
-        <fnt>
+        ortografio <klr>[&#x2026;]</klr> beda&ubreve;ris la decidon de la redakcio en <tld/>o, sed ne vidis kialon
+        por &scirc;an&gcirc;o
+        <fnt><aut>Maul Stefan</aut>: 
+          <vrk><url ref="&Monato;/2000/007149.php">Reform-fiasko</url></vrk>,
           <bib>Monato</bib>
-          <aut>Maul Stefan</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007149.html">Reform-fiasko</url></vrk>
+          <lok>2000/11, p. 12</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -44,6 +46,7 @@
   <trd lng="de">Frankfurt</trd>
   <trd lng="fr">Francfort</trd>
   <trd lng="hu">Frankfurt</trd>
+  <trd lng="ja">&#x30D5;&#x30E9;&#x30F3;&#x30AF;&#x30D5;&#x30EB;&#x30C8;</trd>
   <trd lng="lat">Francofurtum</trd>
   <trd lng="nl">Frankfurt</trd>
   <trd lng="pl">Frankfurt</trd>
@@ -52,6 +55,7 @@
     <trd>Francoforte</trd>,
   </trdgrp>
   <trd lng="ru">&c_F;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_t;</trd>
+  <trd lng="uk">&c_F;&c_r;&c_a;&#x43D;&#x43A;&c_f;&c_u;&c_r;&c_t;</trd>
 </drv>
 
 <drv mrk="frankfurt.0a">
@@ -62,10 +66,10 @@
       El <tld/>o, rilata al <tld/>o:
       <ekz>
         FAZ &dash; <tld/>a &Gcirc;enerala Gazeto
-        <fnt>
+        <fnt><aut>Maul Stefan</aut>: 
+          <vrk><url ref="&Monato;/2000/007149.php">Reform-fiasko</url></vrk>,
           <bib>Monato</bib>
-          <aut>Maul Stefan</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007149.html">Reform-fiasko</url></vrk>
+          <lok>2000/11, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -92,13 +96,11 @@
   <uzo tip="fak">GEOG</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="urb.0o">Urbo</ref> en sud-okcidenta
+      <ref tip="lst" lst="voko:urboj" cel="urb.0o">Urbo</ref> en sud-okcidenta
       <ref tip="malprt" cel="german1.G0ujo">Germanujo</ref>
       (8&deg;40&minute;E, 50&deg;07&minute;N), situanta &ccirc;e la rivero
-      <ref tip="vid"
-      cel="majn.M0o">Majno</ref>,
-plej granda urbo de la federacia lando <ref tip="super"
-cel="hes.H0ujo">Hesujo</ref>.
+      <ref tip="vid" cel="majn.M0o">Majno</ref>,
+plej granda urbo de la federacia lando <ref tip="super" cel="hes.H0ujo">Hesujo</ref>.
       <ekz>
         Berlino havas kontra&ubreve; &ccirc;iuj 1000 viroj 1080 virinojn, Dresdeno 1113, <tld/>o sur Majno 1123
         <fnt>
@@ -109,10 +111,12 @@ cel="hes.H0ujo">Hesujo</ref>.
         vi povas uzi la PTB-tempon, se vi povas kapti la ondojn de
         la DCF77-sendilo, kiu staras proksime al <tld/>o sur Majno
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007024.html">Tempo: 
-          Pli ekzakte ne eblas: Radi-regata horlo&gcirc;o</url></vrk>
-        </fnt>;
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007024.php">Pli ekzakte ne eblas: Radi-regata
+            horlo&gcirc;o</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 13</lok>
+          </fnt>;
       </ekz>
       <ekz>
         ekzistas &ccirc;armaj studejoj en lia lasta lo&gcirc;loko en <nom>Blonay</nom> (Svislando)
@@ -142,11 +146,12 @@ cel="hes.H0ujo">Hesujo</ref>.
   <uzo tip="fak">GEOG</uzo>
   <snc>
     <dif>
-      <ref tip="super" cel="urb.0o">Urbo</ref> en orienta
+      <ref tip="lst" lst="voko:urboj" cel="urb.0o">Urbo</ref> en orienta
       <ref tip="malprt" cel="german1.G0ujo">Germanujo</ref>,
       situanta &ccirc;e la rivero <ref tip="vid" cel="odr.O0o">Odro</ref>:
       <ekz>
-        <tld/>o &ccirc;e Odro <klr>[&#8230;]</klr> estas la kvara plej granda urbo de la germana federacia lando Brandenburgio
+        <tld/>o &ccirc;e Odro <klr>[&#x2026;]</klr> estas la kvara plej granda urbo de la germana federacia lando
+        Brandenburgio
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=5856">Frankfurto &ccirc;e Odro</url></lok>
@@ -169,6 +174,18 @@ cel="hes.H0ujo">Hesujo</ref>.
 
 <!--
 $Log$
+versio 1.33 2023/04/30 08:29:17
+Paul Peeraerts: Steloj -> monato
+
+versio 1.32 2023/04/19 14:28:00
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.31 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.29 2021/04/11 07:01:25
+Wolfram Diestel: lst urboj
+
 Revision 1.27  2019/06/30 07:41:50  revo
 adaptis URL de Monato
 
@@ -179,20 +196,5 @@ Revision 1.25  2016/04/22 17:10:17  revo
 Wolfram Diestel: signonomojn deg, minute
 
 Revision 1.24  2011/02/16 15:10:27  revo
-Luiz Portella: kor. ref k mrk
-
-Revision 1.23  2007/06/13 16:31:28  revo
-Tulio Flores: +tr pt
-
-Revision 1.22  2005/04/27 16:31:23  revo
-Yury Finkel: +trd ru
-
-Revision 1.21  2004/01/04 17:32:53  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.20  2003/10/15 16:31:18  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.19  2003/03/05 17:37:35  revo
 -->
 </vortaro>

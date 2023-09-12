@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: cembr.xml,v 1.15 2009/10/03 16:30:26 revo Exp $">
+  <art mrk="$Id: cembr.xml,v 1.24 2023/08/31 10:10:26 revo Exp $">
     <kap>
       <rad>cembr</rad>/o
       <fnt>Z</fnt>
@@ -13,8 +12,7 @@
       <uzo tip="fak">BOT</uzo>
       <snc mrk="cembr.0o.supernocio">
         <dif>
-          Iu el kelkaj specioj de <ref tip="super"
-          cel="pin.0o">pino</ref>,
+          Iu el kelkaj specioj de <ref tip="super" cel="pin.0o">pino</ref>,
           <ref tip="lst" lst="voko:koniferoj" cel="konifer.0o">konifero</ref> 
           kun kvinopaj pinglofaskoj kaj man&gcirc;eblaj
           nukssimilaj semoj (<tld/>aj nuksoj).
@@ -46,7 +44,7 @@
             <tld/>o kreskas &gcirc;is <klr>[alteco de]</klr> 3000&nbsp;m en E&ubreve;ropo
             <fnt>
               <bib>Viki</bib>
-              <lok><url ref='https://eo.wikipedia.org/?curid=21550'>Pino</url></lok>
+              <lok><url ref="https://eo.wikipedia.org/?curid=21550">Pino</url></lok>
             </fnt>;
           </ekz>
         </dif>
@@ -70,9 +68,15 @@
         <trd>arolle</trd>,
         <trd>pin cembro</trd>
       </trdgrp>
+  <trd lng="he">&#x5D0;&#x5D5;&#x5E8;&#x5DF; &#x5D4;&#x5D2;&#x5DC;&#x5E2;&#x5D9;&#x5DF;</trd>
   <trd lng="hu">cirbolyafeny&odblac;</trd>
+  <trd lng="ja">&#x30E8;&#x30FC;&#x30ED;&#x30C3;&#x30D1;&#x30CF;&#x30A4;&#x30DE;&#x30C4;</trd>
   <trd lng="pl">limba</trd>
   <trd lng="sk">limba</trd>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x43E;&#x441;&#x43D;&#x430; &#x43A;&#x435;&#x434;&#x440;&#x43E;&#x432;&#x430;</trd>,
+    <trd>&#x441;&#x43E;&#x441;&#x43D;&#x430; &#x454;&#x432;&#x440;&#x43E;&#x43F;&#x435;&#x439;&#x441;&#x44C;&#x43A;&#x430;</trd>
+  </trdgrp>
 </drv>
 
     <drv mrk="cembr.0oeuxropa">
@@ -80,8 +84,7 @@
       <uzo tip="fak">BOT</uzo>
       <snc>
         <dif>
-          <tld lit="C"/>o, la specio de <ref tip="super"
-            cel="pin.0o">pino</ref>
+          <tld lit="C"/>o, la specio de <ref tip="super" cel="pin.0o">pino</ref>
           (<trd lng="la">Pinus cembra</trd>) kreskanta en la centra
           kaj okcidenta E&ubreve;ropo.
         </dif>

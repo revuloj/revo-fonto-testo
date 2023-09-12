@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: katapult.xml,v 1.13 2009/12/20 17:30:27 revo Exp $">
+<art mrk="$Id: katapult.xml,v 1.25 2023/09/01 13:58:57 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>katapult</rad>/o <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -24,10 +23,11 @@
         malpli probable per <tld/>o, kiun oni ne ofte vidas sur la
         insulo
         <fnt>
-          <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
-          <vrk><url ref="https://www.monato.be/2011/010183.php">Terasa
+          <vrk><url ref="&Monato;/2011/010183.php">Terasa
           apartamento</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/01, p. 26</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -40,21 +40,21 @@
         <ekz>
           jen ili denove kun la <tld/>oj
           <fnt>
-            <bib>Monato</bib>
             <aut>Alberto Garc&iacute;a Fumero</aut>
-            <vrk><url
-            ref="https://www.monato.be/2003/007991.html">Espero</url></vrk>
+            <vrk><url ref="&Monato;/2003/007991.html">Espero</url></vrk>
+            <bib>Monato</bib>
+            <lok>2003/03, p. 22</lok>
           </fnt>;
         </ekz>
         <ekz>
           oni e&ccirc; konstruis imita&jcirc;ojn de <nac>tormentum</nac>
           (sie&gcirc;<tld/>o)
           <fnt>
-            <bib>Monato</bib>
-            <aut>Garbhan Macaoidh</aut>
-            <vrk><url ref="https://www.monato.be/2004/008467.html"
-                >Kampoj de Soria Antonio Machado, universala
+            <aut>Garbhan MacAoidh</aut>
+            <vrk><url ref="&Monato;/2004/008467.html">Kampoj de Soria Antonio Machado, universala
                 poeto</url></vrk>
+                <bib>Monato</bib>
+                <lok>2004/12, p. 23</lok>
           </fnt>.
         </ekz>
       </dif>
@@ -72,11 +72,11 @@
       <trd lng="nl">katapult</trd>
       <trd lng="pl">katapulta</trd>
       <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_p;&c_u;&c_l;&c_mol;&c_t;&c_a;</trd>
-    </subsnc >
+    </subsnc>
     <subsnc mrk="katapult.0o.SPO">
       <dif>
-        Knaba <ref tip="lst" cel="lud.0ilo"
-        lst="voko:ludiloj">ludilo</ref>, konsistanta el ligna a&ubreve; fera
+        Knaba <ref tip="lst" cel="lud.0ilo" lst="voko:ludiloj">ludilo</ref>, konsistanta el ligna a&ubreve;
+        fera
         forketo kun elasta rubando, por pafi &scirc;tonetojn ktp:
       </dif>
       <trd lng="be">&c_r;&c_a;&c_g;&c_a;&c_t;&c_k;&c_a;</trd>
@@ -90,7 +90,7 @@
       <trd lng="nl">katapult</trd>
       <trd lng="pl">proca</trd>
       <trd lng="ru">&c_r;&c_o;&c_g;&c_a;&c_t;&c_k;&c_a;</trd>
-    </subsnc >
+    </subsnc>
     <subsnc mrk="katapult.0o.AVI_startilo">
       <uzo tip="fak">AVI</uzo>
       <dif>
@@ -124,14 +124,25 @@
       <trd lng="nl">schietstoel</trd>
       <trd lng="pl">katapulta</trd>
       <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_p;&c_u;&c_l;&c_mol;&c_t;&c_a;</trd>
-    </subsnc >
+    </subsnc>
   </snc>
   <trd lng="ca">catapulta</trd>
   <trd lng="en">catapult</trd>
   <trd lng="es">catapulta</trd>
   <trd lng="fr">catapulte</trd>
   <trd lng="hu">katapult</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F29;  [<ind>&#x3069;</ind>]</trd>,
+    <trd>&#x6295;&#x77F3;&#x6A5F;  [<ind>&#x3068;&#x3046;&#x305B;&#x304D;&#x304D;</ind>]</trd>,
+    <trd>&#x3071;&#x3061;&#x3093;&#x3053;</trd>,
+    <trd>&#x30AB;&#x30BF;&#x30D1;&#x30EB;&#x30C8;</trd>
+  </trdgrp>
   <trd lng="pl">katapulta</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&c_t;&c_a;&#x43F;&c_u;&#x43B;&#x44C;&c_t;&c_a;</trd>,
+    <trd>&#x43C;&c_je;&c_t;&c_a;&#x43B;&#x44C;&#x43D;&c_a; &#x43C;&c_a;&c_sh;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&c_r;&#x43E;&c_g;&c_a;&c_t;&#x43A;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="katapult.0i">
@@ -141,12 +152,12 @@
     <dif>
       Anta&ubreve;enpeli per <tld/>o:
       <ekz>
-        se la vidvo bojas, perfide pri bankroto &gcirc;ojas <klr>[&#8230;]</klr>,
+        se la vidvo bojas, perfide pri bankroto &gcirc;ojas <klr>[&#x2026;]</klr>,
         <tld/>as
-        <klr>[&#8230;]</klr>
+        <klr>[&#x2026;]</klr>
         <fnt>
           <aut>Raymond Schwartz</aut>
-          <vrk><url ref="http://steloj.de/esperanto/butiko">La Stranga
+          <vrk><url ref="&Steloj;butiko">La Stranga
           Butiko</url></vrk>
         </fnt>.
       </ekz>
@@ -164,6 +175,7 @@
   <trd lng="fr">catapulter</trd>
   <trd lng="hu">katapult&aacute;l</trd>
   <trd lng="it">catapultare</trd>
+  <trd lng="ja">&#x30AB;&#x30BF;&#x30D1;&#x30EB;&#x30C8;&#x3067;&#x767A;&#x5C04;&#x3059;&#x308B;  [<ind>&#x30AB;&#x30BF;&#x30D1;&#x30EB;&#x30C8;&#x3067;&#x306F;&#x3063;&#x3057;&#x3083;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">wegslingeren</trd>
   <trdgrp lng="pl">
     <trd>katapultowa&cacute;</trd>,
@@ -172,11 +184,18 @@
   </trdgrp>
   <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_p;&c_u;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">katapultova&tcaron;</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_t;&c_a;&#x43F;&c_u;&#x43B;&#x44C;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.24 2023/05/11 04:29:56
+Paul Peeraerts: fnt, trd ro
+
+versio 1.23 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.20  2018/12/11 19:10:14  revo
 Wolfram Diestel: +ekz-oj
 
@@ -193,8 +212,5 @@ Revision 1.16  2013/09/08 19:10:32  revo
 Wolfram Diestel: ref al listo ludiloj
 
 Revision 1.15  2013/04/22 06:10:10  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.14  2011/06/22 18:10:34  revo
 -->
 </vortaro>

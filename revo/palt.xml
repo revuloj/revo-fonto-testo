@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: palt.xml,v 1.24 2023/09/03 12:45:03 revo Exp $">
     <kap>
       <ofc>1</ofc>
       <rad>palt</rad>/o
@@ -12,15 +11,15 @@
       <kap>
         <tld/>o
       </kap>
-      <uzo tip="fak">TEKS</uzo>
       <snc>
+      <uzo tip="fak">TEKS</uzo>
         <dif>
-          <ref tip="super" cel="vest.super0o">Supervesto</ref>,
+          <ref tip="lst" lst="voko:vesta&jcirc;oj" cel="vest.super0o">Supervesto</ref>,
           <ref tip="super" cel="surtut.0o">surtuto</ref> portata
           eksterdome, vintre a&ubreve; &gcirc;enerale en malvarma vetero:
           <ekz>
             li &jcirc;etis la <tld/>on sur la &scirc;ultrojn, kaj, kriante
-            ankora&ubreve; unu fojon &#8208; mi kuras, flugas, rapidas &#8208;,
+            ankora&ubreve; unu fojon &#x2010; mi kuras, flugas, rapidas &#x2010;,
             li efektive kuris, rapidis kaj flugis de la &scirc;tuparo
             <fnt><bib>Marta</bib></fnt>;
           </ekz><ekz>
@@ -82,12 +81,12 @@
           kun multekostaj feloj
           <fnt><bib>Metrop</bib></fnt>
         </ekz>); ke
-        <tld/>o estu <ctl>ordinare pli mallonga ol mantelo</ctl> &#8208;
+        <tld/>o estu <ctl>ordinare pli mallonga ol mantelo</ctl> &#x2010;
         sed ofte la inverso estas vera (kp duon<tld/>o).
 
         La&ubreve; mi, la esenca diferenco inter <tld/>o kaj pluvmantelo
         estas ne fasono (la fasono povas esti unu sama), sed la
-        funkcio &#8208; kaj sekve, la materialo.  Por pluvmantelo pli
+        funkcio &#x2010; kaj sekve, la materialo.  Por pluvmantelo pli
         gravas, ke &gcirc;i estu akvorezista; por <tld/>o, ke &gcirc;i estu varma.
         Tial <tld/>o ofte estas el drapo -- tio konvenas al la ne&gcirc;a,
         malvarma kaj seka vintro Siberia, kaj malkonvenas por la
@@ -101,12 +100,42 @@
         la <tld/>o normale estas el &scirc;tofo (a&ubreve; ledo).
         <aut>Sergio Pokrovskij</aut>
       </rim>
-      <trd lng="be">&c_p;&c_a;&c_l;&c_ib;&c_t;&c_o;</trd>
+      <rim>
+        Kvankam mi jam sufi&ccirc;e maljunas kaj vivis kaj laboris en diversaj
+        regionoj de Germanujo, mi neniam en mia vivo uzis a&ubreve; a&ubreve;dis la 
+        vorton Paletot en la parolata germana lingvo.
+        Mi konas &gcirc;in sole el malnovaj romanoj.
+        El tio mi deduktas, ke la vorto, eble ekster iu fak&jcirc;argono, en 
+        la germanuja lingvouzo en la komuna lingvo ne plu ekzistas. 
+        Pri Svisujo, A&ubreve;strujo, Luksemburgo ktp. mi ne povas paroli.
+        La artikolo pri manteloj en la germanlingva Vikipedio mencias,
+        ke la vorto Paletot en la franca kaj germana lingvoj havas 
+        malsamajn signifojn, kaj en la franca e&ccirc; du malsamajn rilate al
+        la seksoj (viraj kaj virinaj malsamas).
+        El tio mi deduktas, ke ne povas esti &gcirc;uste traduki la esperantlingvan
+        vorton "palto" per la sama vortformo "Paletot" en tiuj du lingvojn.
+        Resume mi opinias, ke la esperanta vortformo palto estas neutila
+        vorto por malsamaj specoj de manteloj. Traduki la vorton per Paletot
+        germanlingven ne havas sencon, &ccirc;ar preska&ubreve; neniu plu konas la
+        vorton. Tio bonas, &ccirc;ar la vorto, kiam &gcirc;i ankora&ubreve; ekzistis, ne havis
+        la saman signifon kiel en aliaj lingvoj, almena&ubreve; kiel en la franca.
+        <aut>Ulriko (Ulrich Fellmann)</aut>
+      </rim>
+      <trd lng="be">&c_p;&c_a;&c_l;&c_ib;&c_t;&c_o;</trd> 
       <trd lng="de">Paletot</trd>
       <trd lng="en">overcoat</trd>
       <trd lng="es">abrigo</trd>
+      <trd lng="fr">paletot</trd>
       <trd lng="hu">fel&ouml;lt&odblac;</trd>
-      <trd lng="nl">overjas</trd>
+      <trdgrp lng="ja">
+    <trd>&#x30AA;&#x30FC;&#x30D0;&#x30FC;  [<ind>&#x304A;&#x30FC;&#x3070;&#x30FC;</ind>]</trd>,
+    <trd>&#x5916;&#x5957;  [<ind>&#x304C;&#x3044;&#x3068;&#x3046;</ind>]</trd>,
+    <trd>&#x9632;&#x5BD2;&#x30B3;&#x30FC;&#x30C8;  [<ind>&#x307C;&#x3046;&#x304B;&#x3093;&#x3053;&#x30FC;&#x3068;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+        <trd>overjas</trd>,
+        <trd>winterjas</trd>
+      </trdgrp>
       <trd lng="pl">palto</trd>
       <trdgrp lng="pt">
        <trd>palet&oacute;</trd>,
@@ -115,14 +144,15 @@
        <trd>sobreveste</trd>
      </trdgrp>
       <trd lng="ru">&c_p;&c_a;&c_l;&c_mol;&c_t;&c_o;</trd>
-    </drv>
+      <trd lng="uk">&#x43F;&c_a;&#x43B;&#x44C;&c_t;&#x43E;</trd>
+</drv>
 
     <drv mrk="palt.duon0o">
       <kap>
         duon<tld/>o
       </kap>
-      <uzo tip="fak">TEKS</uzo>
       <snc>
+      <uzo tip="fak">TEKS</uzo>
         <dif>
           Mallonga <tld/>o:
           <ekz>
@@ -131,12 +161,10 @@
             retrorigardante elpa&scirc;is la kristnaskokronan &scirc;irmejon
             <fnt>
               <aut>V. Beekman, tr. Jaan Ojalo</aut>:
-              <vrk><url
-                  ref="http://miresperanto.narod.ru/biblioteko/aviadistoj.htm"
-                  >Noktaj aviadistoj</url></vrk>.
-              <lok><url
-                  ref="http://miresperanto.narod.ru/biblioteko/aviadistoj/02.htm"
-                  >Tallinn: Eesti Raamat, 1989. &Ccirc;ap. 2a</url></lok>
+              <vrk><url ref="http://miresperanto.narod.ru/biblioteko/aviadistoj.htm">Noktaj
+              aviadistoj</url></vrk>.
+              <lok><url ref="http://miresperanto.narod.ru/biblioteko/aviadistoj/02.htm">Tallinn:
+              Eesti Raamat, 1989. &Ccirc;ap. 2a</url></lok>
             </fnt>;
           </ekz><ekz>
             elfrotita sur flankoj, lia &scirc;afofela duon<tld/>o estis
@@ -146,8 +174,8 @@
             <fnt>
               <aut>N. Ostrovskij, tr. Solomon Cins</aut>:
               <vrk>Kiel &scirc;talo estis hardata</vrk>,
-              <lok><url ref="http://www.sezonoj.itgo.com/Stal2-5.htm"
-                  >Jekaterinburg: Sezonoj, 1997. Libro 2a, &ccirc;ap.
+              <lok><url ref="http://www.sezonoj.itgo.com/Stal2-5.htm">Jekaterinburg: Sezonoj, 1997.
+              Libro 2a, &ccirc;ap.
                   5a</url></lok>
             </fnt>.
           </ekz>
@@ -164,6 +192,18 @@
   </art>
   <!--
   $Log$
+versio 1.23 2022/04/19 18:37:28
+Ulrich Fellmann: palto: mi aldonis rimarkigon pri "Paletot", sekve al la rimarkigo de Sergio.
+
+versio 1.21 2021/04/20 17:11:13
+Bart Demeyere: +trd nl
+
+versio 1.20 2020/07/19 11:10:38
+Wolfram Diestel: lst vestajxoj
+
+versio 1.19 2020/05/12 15:29:24
+Damien Brucker: +trd fr
+
   Revision 1.17  2015/02/15 14:10:16  revo
   Wolfram Diestel: -tri tajperaroj
 
@@ -174,34 +214,5 @@
   Paul Peeraerts: +nl
 
   Revision 1.14  2006/02/24 17:35:22  revo
-  Tulio Flores: +trd pt
-
-  Revision 1.13  2005/12/09 17:31:21  revo
-  Sergio Pokrovskij: -tajperaro
-
-  Revision 1.12  2005/12/08 17:31:20  revo
-  Sergio Pokrovskij: -tajperaro, +duon~o
-
-  Revision 1.11  2005/12/07 17:32:06  revo
-  Sergio Pokrovskij: reverkita
-
-  Revision 1.10  2004/06/03 16:53:15  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.9  2004/02/23 18:17:20  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.8  2002/07/08 18:23:36  revo
-  Wolfram Diestel: kor. ref-cel
-
-  Revision 1.7  2001/10/31 19:13:30  revo
-  Yury Finkel: +trd ru, uzo TEKS, TEZ
-
-  Revision 1.6  2001/08/27 18:13:21  revo
-  Paul Peeraerts: ald trd nl
-
-  Revision 1.5  2001/07/17 18:11:42  revo
-  Dennis Wibrow: +trd germ
-
-  -->
+-->
 </vortaro>

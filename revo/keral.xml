@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: keral.xml,v 1.5 2023/09/01 15:07:02 revo Exp $">
 <kap>
   <rad>Keral</rad>/o <fnt><bib>NePiv</bib></fnt>
   <fnt><bib>LanLin</bib></fnt>
@@ -21,24 +20,28 @@
         <fnt>
           <aut>-</aut>,
           <vrk>Enkonduko al Kristanismo en Hindio</vrk>,
-          <lok>en <url
-          ref="http://www.ikue.org/ekumenismo/preghosemajno/libreto2013_folioj.pdf">
+          <lok>en <url ref="http://www.ikue.org/ekumenismo/preghosemajno/libreto2013_folioj.pdf">
           Pre&gcirc;osemajno por la Unueco de la Kristanoj</url>,
           2013</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_K;&c_je;&c_r;&c_a;&c_l;&c_a;</trd>
   <trd lng="fr">Kerala</trd>
+  <trd lng="ja">&#x30B1;&#x30E9;&#x30E9;&#x5DDE;  [<ind>&#x30B1;&#x30E9;&#x30E9;&#x3057;&#x3085;&#x3046;</ind>]</trd>
   <trd lng="pl">Kerala</trd>     
   <trd lng="ro">Kerala</trd>
+  <trd lng="uk">&#x41A;&c_je;&c_r;&c_a;&#x43B;&c_a;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.4 2023/02/07 12:50:31
+Dmitri Gabinski: + trd be
+
 Revision 1.1  2014/09/17 01:11:07  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

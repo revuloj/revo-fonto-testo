@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kurten.xml,v 1.27 2020/01/26 00:11:00 revo Exp $">
+<art mrk="$Id: kurten.xml,v 1.36 2023/09/01 15:46:46 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kurten</rad>/o <fnt><bib>PV</bib></fnt>
@@ -33,6 +32,7 @@
       <trd>veil</trd>
     </trdgrp>
     <trd lng="es">cortina</trd>
+    <trd lng="nl">gordijn</trd>
     <trd lng="pl">firanka</trd>
     <trdgrp lng="ru">
       <trd>&c_z;&c_a;&c_n;&c_a;&c_v;&c_je;&c_s;&c_k;&c_a;</trd>,
@@ -54,6 +54,7 @@
     <trd lng="be">&c_z;&c_a;&c_s;&c_l;&c_o;&c_n;&c_a;</trd>
     <trd lng="en">curtain</trd>
     <trd lng="es">tel&oacute;n</trd>
+    <trd lng="nl">gordijn</trd>
     <trd lng="pl">kurtyna</trd>
     <trd lng="ru">&c_z;&c_a;&c_n;&c_a;&c_v;&c_je;&c_s;</trd>
     <trdgrp lng="sv">
@@ -90,6 +91,7 @@
     <trd lng="ru">&c_z;&c_a;&c_v;&c_je;&c_s;&c_a;</trd>
   </snc>
   <ref tip="super" cel="sxirm.0ilo">&scirc;irmilo</ref>
+  <trd lng="bo">&#xF41;&#xFB2;&#xF0B;&#xF61;&#xF7C;&#xF63;&#xF0B;</trd>
   <trdgrp lng="br">
     <trd>gouel<klr tip="ind"> (stign)</klr></trd>,
     <trd>rideoz</trd>,
@@ -107,6 +109,10 @@
   <trd lng="fr">rideau</trd>
   <trd lng="hu">f&uuml;gg&ouml;ny</trd>
   <trd lng="id">gorden</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30AB;&#x30FC;&#x30C6;&#x30F3;</trd>,
+    <trd>&#x5E55;  [<ind>&#x307E;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">gordijn</trd>
   <trd lng="pt">cortina <klr tip="amb">(pe&ccedil;a de pano)</klr></trd>
   <trdgrp lng="ro">
@@ -119,6 +125,14 @@
     <trd>opona</trd>,
     <trd>z&aacute;clona</trd>,
     <trd>z&aacute;ves</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&#x43D;&c_a;&c_v;&c_ib;&c_s;&#x43A;&c_a;</trd>,
+    <trd>&c_f;&c_ib;&c_r;&c_a;&#x43D;&#x43A;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_ib;&c_s;&c_a;</trd>,
+    <trd>&c_g;&c_a;&c_r;&c_d;&c_i;&#x43D;&c_a;</trd>,
+    <trd>&c_sh;&c_t;&#x43E;&c_r;&c_a;</trd>,
+    <trd>&c_z;&c_a;&#x43F;&#x43E;&#x43D;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -134,13 +148,13 @@
         <fnt>
           <aut>H. Bolingbroke Mudie</aut>,
           <vrk>Kongres-impresoj</vrk>,
-          <lok><url
-          ref="https://www.gutenberg.org/files/38240/38240-h/vol2/e209.htm">
+          <lok><url ref="&Gutenberg;files/38240/38240-h/vol2/e209.htm">
           The Esperantist, 1905-09 (23)</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_a;&c_s;&c_l;&c_o;&c_n;&c_a;</trd>
   <trd lng="pl">kurtyna</trd>     
   <trd lng="ro">cortin&abreve;</trd>
 </drv>
@@ -159,33 +173,36 @@
       <ekz>
         &ccirc;e amba&ubreve; flankoj de la Fera <tld lit="K"/>o estis proksimume du 
         milionoj da soldatoj
-        <fnt><aut>-</aut>, <vrk></vrk>, <lok><url 
-        ref="http://www.eventeo.net/web/">eventeo</url>, 
+        <fnt><aut>-</aut>, <vrk/>, <lok><url ref="http://www.eventeo.net/web/">eventeo</url>, 
         2009-10-12</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_Zh;&c_a;&c_l;&c_je;&c_z;&c_n;&c_a;&c_ja; &c_z;&c_a;&c_s;&c_l;&c_o;&c_n;&c_a;</trd>
   <trd lng="es">tel&oacute;n de acero</trd>
   <trd lng="fr">rideau de fer</trd>
+  <trd lng="nl">IJzeren Gordijn</trd>
   <trd lng="pl">&Zdot;elazna Kurtyna</trd>     
   <trd lng="ro">Cortina de fier</trd>  
 </drv>
 
 <drv mrk="kurten.flank0o">
   <kap><ofc>*</ofc>flank<tld/>o <fnt><bib>F</bib>, <lok>Universala
-  Vortaro, <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5076">flank'kurten'</url></lok></fnt></kap>
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5076">flank'kurten'</url></lok></fnt></kap>
   <snc>
     <dif>
       &Ccirc;iu el la <tld/>oj, pendantaj amba&ubreve;flanke de scenejo k uzataj kiel
       neformalaj kulisoj.
     </dif>
   </snc>
+  <trd lng="de">Gardine</trd>
+  <trd lng="ja">&#x8896;&#x5E55;  [<ind>&#x305D;&#x3067;&#x307E;&#x304F;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>firanka <klr>(boczna)</klr></trd>,
     <trd>boczna <ind>zas&lstroke;ona</ind></trd>
   </trdgrp>
   <trd lng="ro">perdea <klr>(lateral)</klr></trd>
+  <trd lng="uk">&c_z;&c_a;&#x43D;&c_a;&c_v;&c_ib;&c_s;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="kurten.lat0o">
@@ -206,6 +223,11 @@
   <trdgrp lng="de">
     <trd>Rollo</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Rollo</trd>,
+    <trd>Rollladen</trd>,
+    <trd>Jalousie</trd>
+  </trdgrp>
   <trd lng="en">Venetian <ind>blind</ind></trd>
   <trd lng="fr">store v&eacute;nitien</trd>
   <trdgrp lng="hu">
@@ -215,6 +237,10 @@
   </trdgrp>
   <trdgrp lng="it">
     <trd>veneziana<klr> (infisso)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30D9;&#x30CD;&#x30C1;&#x30A2;&#x30F3;&#x30D6;&#x30E9;&#x30A4;&#x30F3;&#x30C9;</trd>,
+    <trd>&#x3059;&#x3060;&#x308C;</trd>
   </trdgrp>
   <trd lng="nl">zonneblind</trd>
   <trd lng="pt">veneziana</trd>
@@ -226,8 +252,7 @@
 
 <drv mrk="kurten.rul0o">
   <kap><ofc>*</ofc>rul<tld/>o <fnt><bib>F</bib>, <lok>Universala
-  Vortaro, <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5077">rul'kurten'</url></lok></fnt></kap>
+  Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5077">rul'kurten'</url></lok></fnt></kap>
   <snc mrk="kurten.rul0o.ARKI">
     <uzo tip="fak">ARKI</uzo>
     <dif>
@@ -243,19 +268,45 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_l;&c_je;&c_t;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_l;&c_mol;&c_sh;&c_t;&c_o;&c_r;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>opona nav&iacute;jen&aacute; nahoru</trd>,
     <trd>roleta</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd>Rollvorhang</trd>,
+    <trd>Markise</trd>,
+    <trd>Rollo</trd>
+  </trdgrp>
   <trd lng="fr">store</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5DFB;&#x4E0A;&#x3052;&#x30AB;&#x30FC;&#x30C6;&#x30F3;  [<ind>&#x307E;&#x304D;&#x3042;&#x3052;&#x30AB;&#x30FC;&#x30C6;&#x30F3;</ind>]</trd>,
+    <trd>&#x30ED;&#x30FC;&#x30EB;&#x30AB;&#x30FC;&#x30C6;&#x30F3;</trd>
+  </trdgrp>
   <trd lng="pl">roleta</trd>     
   <trd lng="ro">orb</trd>
   <trd lng="sk">roleta</trd>
+  <trd lng="uk">&c_sh;&c_t;&#x43E;&c_r;&c_a;</trd>
 </drv>
 
 </art>
 <!--
-$Log: kurten.xml,v $
+$Log$
+versio 1.35 2023/03/28 09:28:11
+Dmitri Gabinski: + trd be
+
+versio 1.34 2023/03/21 13:25:33
+Paul Peeraerts: + trd nl
+
+versio 1.33 2022/11/27 22:28:40
+Ulrich Fellmann: rulkurteno, latkurteno: +5 DE trdj
+
+versio 1.32 2022/05/01 08:09:26
+aktualigo lingvokodoj kaj URL-unuoj
+
 versio 1.27 2020/01/26 00:11:00
 Vito Redsky: +trd pl +trd ro  
 
@@ -265,17 +316,5 @@ kunmetajxoj el la U.V.
 
 Revision 1.25  2017/04/20 22:10:30  revo
 Jeromo Vasxe: + ~ego
-
-Revision 1.24  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.23  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.22  2015/05/14 10:10:16  revo
-Jeromo Vasxe: + lat/rul~o
-
-Revision 1.21  2014/06/13 20:10:25  revo
-Eko Nur Syah Hidayat: +id
 -->
 </vortaro>

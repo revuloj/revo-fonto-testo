@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: koher.xml,v 1.15 2009/09/01 04:53:24 revo Exp $">
+<art mrk="$Id: koher.xml,v 1.33 2023/09/09 15:23:13 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>koher</rad>/a
-  <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+  <fnt><bib>JED</bib></fnt>
 </kap>
 <drv mrk="koher.0a">
   <kap><ofc>9</ofc><tld/>a</kap>
@@ -28,12 +27,15 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Alberto Garc&iacute;a Fumero</aut>
-          <vrk><url ref='&Monato;/2014/011301.php'>Laste
+          <vrk><url ref="&Monato;/2014/011301.php">Laste
           (&ccirc;u?) pri scienco kaj religio</url></vrk>
           <lok>2014</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="konglomer.0i">konglomeri</ref>
+    </refgrp>
     <trdgrp lng="be">
       <trd>&c_c;&c_e;&c_l;&c_a;&c_s;&c_n;&c_y;</trd>,
       <trd>&c_k;&c_a;&c_g;&c_je;&c_r;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>,
@@ -75,22 +77,37 @@
     <uzo tip="stl">FIG</uzo>
     <dif>
       <klr>(p.p. rezono, skriba&jcirc;o, parolado ks)</klr>
-      Konsekvence aran&gcirc;ita, sen superfluaj a&ubreve;
-      kontra&ubreve;diraj partoj:
+      Konsekvence aran&gcirc;ita, sen superfluaj a&ubreve; kontra&ubreve;diraj partoj:
+      <ekz>
+        lia argumentaro estas <tld/>a
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        agi <tld/>e kaj konsekvence
+        <fnt>
+          <bib>MMa</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         el tiaj for&scirc;iri&gcirc;intaj parolpecetoj Margarita
         iom post iom kunmetis ion <tld/>an
         <fnt><bib>MkM</bib><lok>&ccirc;ap. 19</lok></fnt>;
       </ekz>
       <ekz>
+        kiel do <tld/>igi tiun &ccirc;i sintenon kun &ccirc;io alia sciata pri li
+        <fnt>
+          <bib>ChC</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
         mi tiam malsukcesis prezenti <tld/>an imagon pri tiuj
-        esta&jcirc;oj, 
-        &ccirc;ar ili estas tiom malsimilaj al iu ajn
+        esta&jcirc;oj, &ccirc;ar ili estas tiom malsimilaj al iu ajn
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj'</aut>
-          <vrk><url
-          ref='&Monato;/2015/011355.php'>Komunika&jcirc;o
+          <vrk><url ref="&Monato;/2015/011355.php">Komunika&jcirc;o
           de
           Ikaro</url></vrk>
           <lok>2015</lok>
@@ -102,7 +119,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref='&Monato;/2014/011266.php'>Vivi en
+          <vrk><url ref="&Monato;/2014/011266.php">Vivi en
           mondo surogata</url></vrk>
           <lok>2014</lok>
         </fnt>;
@@ -112,20 +129,18 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Lenio Marobin</aut>
-          <vrk><url ref='&Monato;/2013/011037.php'>Krizo de
+          <vrk><url ref="&Monato;/2013/011037.php">Krizo de
           memfido</url></vrk>
           <lok>2013</lok>
         </fnt>;
       </ekz>
       <ekz>
         mi trovis telefon-mesa&gcirc;on de nia plorema, apena&ubreve;
-        <tld/>a, forte
-        timigita filino
+        <tld/>a, forte timigita filino
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url
-          ref='&Monato;/2012/010602.php'>Skeptikismo
+          <vrk><url ref="&Monato;/2012/010602.php">Skeptikismo
           e&ubreve;ropa
           kaj polica</url></vrk>
           <lok>2012</lok>
@@ -134,7 +149,14 @@
     </dif>
     <ref tip="sin" cel="integr.0a.kohera">integra<sncref/></ref>
     <ref tip="vid" cel="konsek1.0a.logika">konsekvenca<sncref/></ref>
-    <trdgrp lng="fr">
+    <trdgrp lng="be">
+      <trd>&c_u;&c_z;&c_g;&c_o;&c_d;&c_n;&c_je;&c_n;&c_y;</trd>,
+      <trd>&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>konsistent</trd>,
+      <trd>schl&uuml;ssig</trd>
+    </trdgrp><trdgrp lng="fr">
       <trd>coh&eacute;rent<klr tip="ind"> (raisonnement)</klr></trd>,
       <trd>harmonieux</trd>,
       <trd>qui se <ind>tient</ind></trd>
@@ -156,12 +178,22 @@
     <fnt><bib>PIV2</bib></fnt>
     <dif>
       <klr>(p.p. ondoj)</klr>
-      Tiaj, ke la faza diferenco inter ili estas konstanta.
+      Tiaj, ke la faza diferenco inter ili estas konstanta:
+      <ekz>
+        &ccirc;e <ref cel="diod.laser0o">lasera diodo</ref> <klr>[&#8230;]</klr> la lum-elsendo estas stimulata
+        de la lumo mem,
+        tiel ke elsendi&gcirc;as <tld/>a lumo
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=14959">Diodo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <trd lng="be">&c_k;&c_a;&c_g;&c_je;&c_r;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>
+    <trd lng="de">koh&auml;rent</trd>
     <trd lng="fr">coh&eacute;rent<klr tip="ind"> (ondes)</klr></trd>
     <trd lng="hu">koherens</trd>
-    <trd
-    lng="ru">&c_k;&c_o;&c_g;&c_je;&c_r;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+    <trd lng="ru">&c_k;&c_o;&c_g;&c_je;&c_r;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
   </snc>
   <refgrp tip="ant">
     <ref cel="koher.mal0a">mal<tld/>a</ref>,
@@ -176,27 +208,76 @@
     <trd>konzistentn&iacute;</trd>,
     <trd>ucelen&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#39318;&#x5C3E;&#x4E00;&#x8CAB;&#12375;&#x305F;  [<ind>&#12375;&#12421;&#12403;&#12356;&#12387;&#x304B;&#12435;&#12375;&#x305F;</ind>]</trd>,
+    <trd>&#x7B4B;&#36947;&#x306E;&#x901A;&#12387;&#x305F;
+    [<ind>&#12377;&#12376;&#x307F;&#12385;&#x306E;&#x304B;&#12424;&#12387;&#x305F;</ind>]</trd>,
+    <trd>&#x307E;&#12392;&#x307E;&#x308A;&#x306E;&#12354;&#x308B;</trd>,
+    <trd>&#x51DD;&#x96C6;&#12375;&#x305F; [<ind>&#12366;&#12423;&#12358;&#12375;&#12421;&#12358;&#12375;&#x305F;</ind>]</trd>,
+    <trd>&#x5E72;&#x6E09;&#24615;&#x306E;  [<ind>&#x304B;&#12435;&#12375;&#12423;&#12358;&#x305B;&#12356;&#x306E;</ind>]</trd>,
+    <trd>&#x30B3;&#x30D2;&#x30FC;&#x30EC;&#x30F3;&#x30C8;&#x306A;</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>koherencyjny</trd>,
     <trd>spoisty</trd>,
     <trd>sp&oacute;jny</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>coerent</trd>,
     <trd>coeziv</trd>,
     <trd>conectat</trd>
-  </trdgrp> 
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_c;&c_ib;&#x43B;&c_ib;&c_s;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_v;&#8217;&#x44F;&c_z;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_u;&c_z;&c_g;&#x43E;&c_d;&c_zh;&c_je;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43A;&#x43E;&c_g;&c_je;&c_r;&c_je;&#x43D;&c_t;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="koher.0i">
-  <kap><ofc>9</ofc><tld/>i <fnt><bib>VdE</bib></fnt>
-  <fnt><bib>PV</bib></fnt></kap>
+  <kap><ofc>9</ofc><tld/>i
+  <fnt><bib>JED</bib></fnt>
+  <fnt><bib>VdE</bib></fnt>
+  </kap>
   <gra><vspec>ntr</vspec></gra>
   <snc>
     <dif>
-      Esti <tld/>a.
+      Esti <tld/>a:
+      <ekz>
+        vivi mensoge ne <tld/>as kun la postuloj de feli&ccirc;a amo
+        <fnt>
+          <bib>ChV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la efiko de hipnoterapio <tld/>as kun la profunda hipnota dormo
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la detektivoj ne estas tiom stultaj kaj tuj rimarkus, ke se mi estus pleniginta
+        mian benzinujon anta&ubreve; ol eliri el la parkejo, la afero ne <tld/>us
+        <fnt>
+          <bib>Kon11</bib>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="koinci.0i">koincidi</ref>,
+      <ref cel="ten.kun0igxi">kunteni&gcirc;i</ref>,
+      <ref cel="lig.0igxi">ligi&gcirc;i</ref>,
+      <ref cel="rilat.0o.ligo">rilati<sncref/></ref>
+    </refgrp>
+  <trd lng="de"><ind>zusammen</ind> h&auml;ngen</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_u;&c_z;&c_g;&c_o;&c_d;&c_n;&c_je;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>souviset</trd>,
     <trd>b&yacute;t soudr&zcaron;n&yacute;</trd>
@@ -206,14 +287,19 @@
     <trd>&ouml;sszetartozik</trd>,
     <trd>&ouml;sszetart</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#39318;&#x5C3E;&#x4E00;&#x8CAB;&#12375;&#12390;&#12356;&#x308B;  [<ind>&#12375;&#12421;&#12403;&#12356;&#12387;&#x304B;&#12435;&#12375;&#12390;&#12356;&#x308B;</ind>]</trd>,
+    <trd>&#x307E;&#12392;&#x307E;&#12387;&#12390;&#12356;&#x308B;</trd>,
+    <trd>&#x51DD;&#x96C6;&#12377;&#x308B; [<ind>&#12366;&#12423;&#12358;&#12375;&#12421;&#12358;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">samenhangen</trd>
   <trdgrp lng="pl">
     <trd>by&cacute; po&lstroke;&aogonek;czonym</trd>,
     <trd>by&cacute; sp&oacute;jnym</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>conectabil</trd>,
-    <trd>s&abreve; fie &icirc;n concordan&#539;&abreve;</trd>
+    <trd>s&abreve; fie &icirc;n concordan&#x21B;&abreve;</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_b;&c_y;&c_t;&c_mol;
@@ -225,6 +311,12 @@
     <trd>&c_b;&c_y;&c_t;&c_mol;
     <ind>&c_k;&c_o;&c_g;&c_je;&c_r;&c_je;&c_n;&c_t;&c_n;&c_y;&c_m;</ind></trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_c;&c_ib;&#x43B;&c_ib;&c_s;&#x43D;&c_i;&#x43C;</trd>,
+    <trd>&c_v;&c_z;&c_a;&c_jeu;&#x43C;&#x43E;&#x43F;&#x43E;&c_v;&#8217;&#x44F;&c_z;&c_a;&#x43D;&c_i;&#x43C;</trd>,
+    <trd>&c_s;&#x43A;&#x43B;&c_a;&c_d;&#x43D;&c_i;&#x43C;</trd>,
+    <trd>&c_u;&c_z;&c_g;&#x43E;&c_d;&c_zh;&c_je;&#x43D;&c_i;&#x43C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="koher.0o">
@@ -234,34 +326,54 @@
     <dif>
       <ref tip="dif" cel="koher.0eco"><tld lit="K"/>eco</ref>:
       <ekz>
+        la vivo de bazarulo estas vojo zigzaga kaj epizoda, sen formo kaj sen <tld/>o
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
         elsendoj <klr>[de la stacio Afriko Numero 1 kaj de la franca
-        sekcio ]</klr> 
-        de BBC estas dum la elekto-periodo malfacile kapteblaj, la
+        sekcio]</klr> de BBC estas dum la elekto-periodo malfacile kapteblaj, la
         registaro diras, ke tio necesas por konservi la socian <tld/>on
         en Togolando
         <fnt>
           <bib>Monato</bib>
           <aut>Gbeglo Koffi/pg</aut>
-          <vrk><url ref='&Monato;/2005/008686.php'>Kiam
+          <vrk><url ref="&Monato;/2005/008686.php">Kiam
           forto ordonas, le&gcirc;o pardonas</url></vrk>
           <lok>2005</lok>
         </fnt>;
       </ekz>
       <ekz>
         miaj memoroj, mia pasinteco estas kvaza&ubreve; aparta
-        &ccirc;elo sen <tld/>o
-        kun la nuno
+        &ccirc;elo sen <tld/>o kun la nuno
         <fnt>
           <bib>Monato</bib>
           <aut>Gerrit Berveling</aut>
-          <vrk><url
-          ref='&Monato;/2015/011307.php'>Rekomendinda
+          <vrk><url ref="&Monato;/2015/011307.php">Rekomendinda
           romano en matura lingva&jcirc;o</url></vrk>
           <lok>2015</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e vi ne estas senpera <tld/>o inter la malsano kaj la konstruado
+        <fnt>
+          <bib>VaK</bib>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="lig.inter0o.rilato">interligo<sncref/></ref>,
+      <ref cel="rilat.inter0o">interrilato</ref>,
+      <ref cel="koinci.0o">koincido</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_z;&c_g;&c_o;&c_d;&c_n;&c_je;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_g;&c_je;&c_r;&c_e;&c_n;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>koherentnost</trd>,
     <trd>spojitost</trd>,
@@ -274,12 +386,18 @@
     <trd>&ouml;sszetart&aacute;s</trd>,
     <trd>&ouml;sszef&uuml;gg&eacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x51DD;&#x96C6;  [<ind>&#x304E;&#12423;&#12358;&#12375;&#12421;&#12358;</ind>]</trd>,
+    <trd>&#x4E00;&#x8CAB;&#24615;  [<ind>&#12356;&#12387;&#x304B;&#12435;&#x305B;&#12356;</ind>]</trd>,
+    <trd>&#x307E;&#12392;&#x307E;&#x308A;</trd>,
+    <trd>&#x7B4B;&#36947;  [<ind>&#12377;&#12376;&#x307F;&#12385;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">cohesie</trd>
   <trd lng="pl">sp&oacute;jno&sacute;&cacute;</trd>
   <trdgrp lng="ro">
-    <trd>coeren&tcedil;&abreve;</trd>,
+    <trd>coeren&#x21B;&abreve;</trd>,
     <trd>coeziune</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_v;&c_ja;&c_z;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
@@ -292,18 +410,24 @@
 </drv>
 
 <drv mrk="koher.0eco">
-  <kap><tld/>eco</kap>
-  <fnt><bib>PIV1</bib></fnt>
+  <kap><tld/>eco <fnt><bib>JED</bib></fnt></kap>
   <snc>
     <dif>
       Eco de io <tld/>a:
+      <ekz>
+        la naciaj lingvoj pozitive kontribuas al la interna <tld/>eco de la koncernaj
+        komuna&jcirc;oj
+        <fnt>
+          <bib>EeP</bib>
+        </fnt>;
+      </ekz>
       <ekz>
         oni prokrastas drastajn rimedojn pro manko de politika <tld/>eco
         en la federacia registaro
         <fnt>
           <bib>Monato</bib>
           <aut>Ivo Durwael</aut>
-          <vrk><url ref='&Monato;/2010/010011.php'>Malnova
+          <vrk><url ref="&Monato;/2010/010011.php">Malnova
           problemo pri maljunaj homoj</url></vrk>
           <lok>2010</lok>
         </fnt>;
@@ -311,21 +435,31 @@
       <ekz>
         morala <tld/>eco
         <fnt>
-          <bib>Monato</bib>
           <aut>David Castellano</aut>
-          <vrk><url
-          ref='http://steloj.de/esperanto/monato2/007203.html'>Kie la
-          morala kohereco?</url></vrk>
-        </fnt>.
+            <vrk><url ref="&Monato;/2000/007203.php">Kie la morala kohereco?</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 4</lok>
+          </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="konsek1.0o">konsekvenco</ref>,
+      <ref cel="kun.0eco">kuneco</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_z;&c_g;&c_o;&c_d;&c_n;&c_je;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_a;&c_g;&c_je;&c_r;&c_e;&c_n;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>koherentnost</trd>,
     <trd>spojitost</trd>,
     <trd>koherence</trd>,
     <trd>soudr&zcaron;nost</trd>
   </trdgrp>
+  <trd lng="de">Koh&auml;renz</trd>
   <trd lng="es">coherencia</trd>
   <trd lng="fr">coh&eacute;rence</trd>
   <trdgrp lng="hu">
@@ -336,9 +470,9 @@
   <trd lng="nl">samenhang</trd>
   <trd lng="pl">sp&oacute;jno&sacute;&cacute;</trd>
   <trdgrp lng="ro">
-    <trd>coeren&tcedil;&abreve;</trd>,
+    <trd>coeren&#x21B;&abreve;</trd>,
     <trd>coeziune</trd>
-  </trdgrp> 
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_v;&c_ja;&c_z;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
@@ -351,18 +485,17 @@
 </drv>
 
 <drv mrk="koher.0emo">
-  <kap><tld/>emo</kap>
+  <kap><tld/>emo <fnt><bib>JED</bib></fnt></kap>
   <snc>
     <dif>
       Forto, per kiu eroj kunteni&gcirc;as:
       <ekz>
         <uzo tip="stl">FIG</uzo>
         lingva komunumo <klr>[kun]</klr> komuna lingvo kiel ilo de
-        natura komunikado kaj kultura koheremo inter siaj membroj 
+        natura komunikado kaj kultura koheremo inter siaj membroj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=163796'>Universala
+          <lok><url ref="https://eo.wikipedia.org/?curid=163796">Universala
           Deklaracio de la Lingvaj Rajtoj</url></lok>
         </fnt>;
       </ekz>
@@ -372,7 +505,7 @@
         <tld/>emo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=255424'>Sigfrid
+          <lok><url ref="https://eo.wikipedia.org/?curid=255424">Sigfrid
           Karg-Elert</url></lok>
         </fnt>.
       </ekz>
@@ -380,13 +513,15 @@
   </snc>
   <trd lng="cs">molekul&aacute;rn&iacute;
   p&rcaron;ita&zcaron;livost</trd>
+  <trd lng="de">Koh&auml;sion</trd>
   <trd lng="fr">coh&eacute;sion<klr tip="ind"> (phys.)</klr></trd>
   <trdgrp lng="hu">
     <trd>koh&eacute;zi&oacute;</trd>,
     <trd>&ouml;sszetart&oacute; er&odblac;</trd>
   </trdgrp>
+  <trd lng="ja">&#x51DD;&#x96C6;&#24615;  [<ind>&#12366;&#12423;&#12358;&#12375;&#12421;&#12358;&#x305B;&#12356;</ind>]</trd>
   <trd lng="nl">cohesie</trd>
-  <trd lng="pl">zwi&aogonek;zek</trd>     
+  <trd lng="pl">zwi&aogonek;zek</trd>
   <trd lng="ro">conexiune</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_c;&c_je;&c_p;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
@@ -415,20 +550,22 @@
         metalsplita&jcirc;oj
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=235159'>Koherilo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=235159">Koherilo</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_k;&c_a;&c_g;&c_je;&c_r;&c_e;&c_r;</trd>
   <trd lng="cs">koherer</trd>
   <trd lng="fr">coh&eacute;reur</trd>
   <trd lng="hu">koh&eacute;rer</trd>
+  <trd lng="ja">&#x30B3;&#x30D2;&#x30FC;&#x30E9;</trd>
   <trd lng="nl">coherer</trd>
-  <trd lng="pl">koherer</trd>     
+  <trd lng="pl">koherer</trd>
   <trd lng="ro">coherer</trd>
   <trd lng="ru">&c_k;&c_o;&c_g;&c_je;&c_r;&c_je;&c_r;</trd>
   <trd lng="sk">koher&eacute;r</trd>
+  <trd lng="uk">&#x43A;&#x43E;&c_g;&c_je;&c_r;&c_je;&c_r;</trd>
 </drv>
 
 <drv mrk="koher.mal0a">
@@ -446,7 +583,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Franz-Georg R&ouml;ssler</aut>
-          <vrk><url ref='&Monato;/2012/010670.php'>Arto
+          <vrk><url ref="&Monato;/2012/010670.php">Arto
           kreas arton</url></vrk>
           <lok>2012</lok>
         </fnt>;
@@ -483,17 +620,29 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_l;&c_a;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_ja;&c_s;&c_s;&c_u;&c_v;&c_ja;&c_z;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_k;&c_a;&c_g;&c_je;&c_r;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="fr">incoh&eacute;rent</trd>
   <trdgrp lng="hu">
     <trd>inkoherens</trd>,
     <trd>sz&eacute;ttart&oacute;</trd>,
     <trd>&ouml;sszef&uuml;gg&eacute;stelen</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7B4B;&#36947;&#x306E;&#x901A;&#12425;&#x306A;&#12356;
+    [<ind>&#12377;&#12376;&#x307F;&#12385;&#x306E;&#12392;&#x304A;&#12425;&#x306A;&#12356;</ind>]</trd>,
+    <trd>&#x4E00;&#x8CAB;&#24615;&#x306E;&#x306A;&#12356;
+    [<ind>&#12356;&#12387;&#x304B;&#12435;&#x305B;&#12356;&#x306E;&#x306A;&#12356;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">incoherent</trd>
   <trdgrp lng="pl">
     <trd>niesp&oacute;jny</trd>,
     <trd>niezgodny</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>incoerent</trd>,
     <trd>nepotrivit</trd>
@@ -517,7 +666,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref='&Monato;/2007/009246.php'>Komence
+          <vrk><url ref="&Monato;/2007/009246.php">Komence
           kora, fine rankora</url></vrk>
           <lok>2007</lok>
         </fnt>;
@@ -528,8 +677,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url
-          ref='&Monato;/2012/010408.php'>Mallongaj
+          <vrk><url ref="&Monato;/2012/010408.php">Mallongaj
           anekdotoj pri Konfuceo</url></vrk>
           <lok>2012</lok>
         </fnt>;
@@ -542,28 +690,41 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Boris Kolker</aut>
-          <vrk><url
-          ref='https://www.monato.be/2003/007813.html'>Revivinta
+          <vrk><url ref="&Monato;/2003/007813.html">Revivinta
           Fundamento</url></vrk>
           <lok>2003</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+ <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_l;&c_a;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_ja;&c_s;&c_s;&c_u;&c_v;&c_ja;&c_z;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_k;&c_a;&c_g;&c_je;&c_r;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="fr">incoh&eacute;rent</trd>
   <trdgrp lng="hu">
     <trd>inkoherens</trd>,
     <trd>sz&eacute;ttart&oacute;</trd>,
     <trd>&ouml;sszef&uuml;gg&eacute;stelen</trd>
-  </trdgrp> 
-  <trd lng="nl">incoherent</trd> 
-  <trd lng="pl">niesp&oacute;jny</trd>     
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#39318;&#x5C3E;&#x4E00;&#x8CAB;&#12375;&#12390;&#12356;&#x306A;&#12356;  [<ind>&#12375;&#12421;&#12403;&#12356;&#12387;&#x304B;&#12435;&#12375;&#12390;&#12356;&#x306A;&#12356;</ind>]</trd>,
+    <trd>&#x307E;&#12392;&#x307E;&#x308A;&#x306E;&#x306A;&#12356;</trd>
+  </trdgrp>
+  <trd lng="nl">incoherent</trd>
+  <trd lng="pl">niesp&oacute;jny</trd>
   <trd lng="ro">incoerent</trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_je;&c_s;&c_s;&c_v;&c_ja;&c_z;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_r;&c_je;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_k;&c_o;&c_g;&c_je;&c_r;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_z;&c_v;&#8217;&#x44F;&c_z;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_s;&#x43A;&#x43B;&c_a;&c_d;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -580,7 +741,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Paul Gubbins</aut>
-          <vrk><url ref='&Monato;/2011/010372.php'>La
+          <vrk><url ref="&Monato;/2011/010372.php">La
           venkanto heredos &ccirc;ion ...</url></vrk>
           <lok>2011</lok>
         </fnt>;
@@ -588,30 +749,41 @@
       <ekz>
         profesoro <klr>[&#8230;]</klr> alte estimata, kaj kiu multe
         admiras
-        sian propran 
+        sian propran
         fakscion, sed kies familia vivo estas preska&ubreve; sen<tld/>a,
         kaj
-        kiu montras 
+        kiu montras
         sin eksterordinare nekompetenta, kiam temas pri la &ccirc;iutaga
         realo
         <fnt>
           <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url ref='&Monato;/2006/008771.php'>Inda
+          <vrk><url ref="&Monato;/2006/008771.php">Inda
           kontribuo el la rusa literaturo</url></vrk>
           <lok>2006</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+ <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_l;&c_a;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_ja;&c_s;&c_s;&c_u;&c_v;&c_ja;&c_z;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_k;&c_a;&c_g;&c_je;&c_r;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="fr">incoh&eacute;rent</trd>
   <trdgrp lng="hu">
     <trd>inkoherens</trd>,
     <trd>sz&eacute;ttart&oacute;</trd>,
     <trd>&ouml;sszef&uuml;gg&eacute;stelen</trd>
-  </trdgrp>  
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E00;&#x8CAB;&#24615;&#x306B;&#x6B20;&#12369;&#x308B;
+    [<ind>&#12356;&#12387;&#x304B;&#12435;&#x305B;&#12356;&#x306B;&#x304B;&#12369;&#x308B;</ind>]</trd>,
+    <trd>&#x307E;&#12392;&#x307E;&#x308A;&#x306E;&#x306A;&#12356;</trd>
+  </trdgrp>
   <trd lng="nl">incoherent</trd>
-  <trd lng="pl">niekonsekwentny</trd>     
+  <trd lng="pl">niekonsekwentny</trd>
   <trd lng="ro">inconsistent </trd>
   <trdgrp lng="ru">
     <trd>&c_b;&c_je;&c_s;&c_s;&c_v;&c_ja;&c_z;&c_n;&c_y;&c_j;</trd>,
@@ -619,43 +791,43 @@
     <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_r;&c_je;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_k;&c_o;&c_g;&c_je;&c_r;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_z;&c_v;&#8217;&#x44F;&c_z;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_s;&#x43A;&#x43B;&c_a;&c_d;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <adm>
-  La radiko aperas en VdE sub formo verba (p.p. molekuloj).
+  La radiko aperas en JED/VdE sub formo verba (p.p. molekuloj).
   PIV1 kaj PIV2 konservas cxi tiun radikan karakteron (stata verbo).
   Mi opinias la adjektivan karakteron pli logika, sed cxiuokaze tio
-  ne havas praktikajn konsekvencojn. Indus trovi ekz-ojn de verba uzo,
-  kaj ankaux de uzo de "kohera" ekster gxia lasta senco.
+  ne havas praktikajn konsekvencojn.
   <aut>MB</aut>
 </adm>
 </art>
 <!--
 $Log$
+versio 1.33 2023/09/09 15:23:13
+Wolfram Diestel: ja prononco
+
+versio 1.32 2023/09/09 14:23:43
+Wolfram Diestel: fnt JED, ja prononco
+
+versio 1.30 2023/04/30 14:25:53
+Paul Peeraerts: Steloj -> monato
+
+versio 1.29 2022/06/08 07:29:27
+Dmitri Gabinski: + trd be
+
+versio 1.28 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.26 2022/01/02 14:26:33
+Wolfram Diestel: ~a, ~i, ~o, ~eco: ekz-oj, ref-oj, trd de
+
 Revision 1.24  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
 Revision 1.23  2019/02/06 19:10:17  revo
-Vito Redsky: +trd pl +trd ro
-
-Revision 1.22  2018/12/01 19:10:15  revo
-Petr Diblik: +trd cs
-
-Revision 1.21  2018/08/07 16:10:16  revo
-Michel Cantigneaux: aperas unue en PV (1934), oficialaj en 9OA (2007)
-
-Revision 1.20  2018/06/17 17:10:26  revo
-Dusan Juretic: +trd es
-
-Revision 1.19  2017/09/15 07:10:16  revo
-Damien Brucker: -eraro cxe cel en ref
-
-Revision 1.18  2017/09/13 22:10:19  revo
-Wolfram Diestel: prilaboris ekz-ojn
-
-Revision 1.17  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.16  2015/06/29 16:33:17  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pretek.xml,v 1.28 2023/09/05 06:31:12 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>pretekst</rad>/o
@@ -11,7 +10,7 @@
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc>
     <dif>
-      &Scirc;ajna <ref cel="motiv.0o.kialo">motivo</ref> eldirita 
+      &Scirc;ajna <ref cel="motiv.0o.kialo">motivo</ref> eldirita
       por ka&scirc;i la efektivan:
       <ekz>
         por &scirc;afon forman&gcirc;i lupo trovos <tld/>on
@@ -79,7 +78,7 @@
       <ref cel="baston.0o">bastono</ref>,
       <ref cel="rabi.0a">rabia</ref>.
     </refgrp>
-  </snc> 
+  </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d;&c_s;&c_t;&c_a;&c_v;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_ch;&c_e;&c_p;&c_k;&c_a;</trd>
@@ -102,6 +101,11 @@
     <trd>&uuml;r&uuml;gy</trd>,
     <trd>kifog&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x53E3;&#x5B9F;  [<ind>&#12371;&#12358;&#12376;&#12388;</ind>]</trd>,
+    <trd>&#x8A00;&#12356;&#x8A33;  [<ind>&#12356;&#12356;&#x308F;&#12369;</ind>]</trd>,
+    <trd>&#x540D;&#x76EE;  [<ind>&#12417;&#12356;&#12418;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">voorwendsel</trd>
   <trdgrp lng="pl">
     <trd>pretekst</trd>,
@@ -118,6 +122,7 @@
   </trdgrp>
   <trd lng="sk">z&aacute;mienka</trd>
   <trd lng="sv">f&ouml;rev&auml;ndning</trd>
+  <trd lng="uk">&#x43F;&c_r;&c_i;&c_v;&c_ib;&c_d;</trd>
 </drv>
 
 <drv mrk="pretek.0i">
@@ -134,7 +139,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Hori Jasuo</aut>
-          <vrk><url ref="https://www.monato.net/2010/010103.php">Eksi&gcirc;o bazi&gcirc;as sur bazo</url></vrk>
+          <vrk><url ref="&Monato;/2010/010103.php">Eksi&gcirc;o bazi&gcirc;as sur bazo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -148,6 +153,10 @@
   <trd lng="en">allege as excuse</trd>
   <trd lng="fr">pr&eacute;texter</trd>
   <trd lng="hu">&uuml;r&uuml;gy&uuml;l felhoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x53E3;&#x5B9F;&#x306B;&#12377;&#x308B;  [<ind>&#12371;&#12358;&#12376;&#12388;&#x306B;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x304B;&#12371;&#12388;&#12369;&#x308B;</trd>
+  </trdgrp>
   <trd lng="nl">voorwenden</trd>
   <trdgrp lng="pl">
     <trd>podawa&cacute; jako <ind>pretekst</ind></trd>,
@@ -160,6 +169,7 @@
     <trd>ma&tcaron; za z&aacute;mienku</trd>,
     <trd>predstiera&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&c_s;&c_t;&c_a;&c_v;&#x43B;&#x44F;&c_t;&c_i; &#x44F;&#x43A; &#x43F;&c_r;&c_i;&c_v;&c_ib;&c_d;</trd>
 </drv>
 
 <drv mrk="pretek.0ede">
@@ -169,7 +179,7 @@
     <dif>
       Sin false pravigante per...:
       <ekz>
-        <nom>Odeta</nom> <klr>...</klr> ne &ccirc;eestis la vesperman&gcirc;on <tld/>e de 
+        <nom>Odeta</nom> <klr>...</klr> ne &ccirc;eestis la vesperman&gcirc;on <tld/>e de
         malsani&gcirc;o, kaj reale forestis pro tio ke &scirc;i vesperumis kun <nom>Svan</nom>
         <fnt>
           <aut>M. Proust, trad. &Jcirc; Va&scirc;e</aut>
@@ -206,7 +216,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.net/2010/010139.php">&Ccirc;u kulpas nur la naturo?</url></vrk>
+          <vrk><url ref="&Monato;/2010/010139.php">&Ccirc;u kulpas nur la naturo?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -216,7 +226,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Nikolao Gudskov</aut>
-          <vrk><url ref="https://www.monato.net/2003/007814.html">Malnova biblia epizodo en modernaj vestoj</url></vrk>
+          <vrk><url ref="&Monato;/2003/007814.html">Malnova biblia epizodo en modernaj
+          vestoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -225,7 +236,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Christian Declerck</aut>
-          <vrk><url ref="https://www.monato.net/2005/008772.php">Atestas viktimo de honorkrimo</url></vrk>
+          <vrk><url ref="&Monato;/2005/008772.php">Atestas viktimo de honorkrimo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -233,13 +244,21 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Bardhyl Selimi</aut>
-          <vrk><url ref="https://www.monato.net/2012/010747.php">Biletpretekstea batalo</url></vrk>
+          <vrk><url ref="&Monato;/2012/010747.php">Biletpretekstea batalo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">mit dem <ind>Vorwand</ind>, dass</trd>
   </snc>
   <trd lng="fr">sous le pr&eacute;texte que</trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#12392;&#12356;&#12358;&#12371;&#12392;&#12434;&#x53E3;&#x5B9F;&#x306B;&#12375;&#12390;  [&#xFF5E;<ind>&#12392;&#12356;&#12358;&#12371;&#12392;&#12434;&#12371;&#12358;&#12376;&#12388;&#x306B;&#12375;&#12390;</ind>]</trd>,
+    <trd>&#xFF5E;<ind>&#x306B;&#x304B;&#12371;&#12388;&#12369;&#12390;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_ib;&c_d; &#x43F;&c_r;&c_i;&c_v;&#x43E;&c_d;&#x43E;&#x43C; &c_t;&#x43E;&c_g;&#x43E;</trd>,
+    <trd>&c_shch;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pretek.0e_por">
@@ -254,13 +273,14 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Husejn Al-Amily</aut>
-          <vrk><url ref="https://www.monato.net/2007/009236.php">La tri turoj de MKC (2)</url></vrk>
+          <vrk><url ref="&Monato;/2007/009236.php">La tri turoj de MKC (2)</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         progresas la usonaj tezoj kiuj servis <tld/>e por la milito kontra&ubreve; Irako
         <fnt>
-          <vrk><url ref="https://eo.mondediplo.com/article.php3?id_article=784">Le Monde diplomatique' en Esperanto]</url></vrk>
+          <vrk><url ref="&Mondediplo;article.php3?id_article=784">Le Monde diplomatique' en
+          Esperanto]</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -268,10 +288,18 @@
 <trd lng="de">als <ind>Vorwand</ind> f&uuml;r</trd>
 </drv>
 
-
 </art>
 <!--
 $Log$
+versio 1.28 2023/09/05 06:31:12
+Wolfram Diestel: kor. ja ind.
+
+versio 1.26 2023/04/11 18:56:01
+aktualigo Monato-URL
+
+versio 1.25 2022/05/04 18:30:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.22  2018/12/28 18:10:17  revo
 Jeromo Vasxe: + ~e de, + ~e ke
 
@@ -285,11 +313,5 @@ Revision 1.19  2015/06/29 16:40:18  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.18  2013/12/02 13:10:48  revo
-Damien Brucker: +trd fr
-
-Revision 1.17  2013/05/08 11:10:13  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.16  2011/12/27 08:10:10  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: makzel.xml,v 1.22 2010/12/02 17:30:50 revo Exp $">
+<art mrk="$Id: makzel.xml,v 1.28 2023/09/02 06:04:08 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>makzel</rad>/o
@@ -43,8 +42,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jomo Ipfelkofer</aut>
-          <vrk><url ref="&Monato;/2008/009438.php"
-              >Fosilioj en suda Germanio</url></vrk>
+          <vrk><url ref="&Monato;/2008/009438.php">Fosilioj en suda Germanio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -69,6 +67,10 @@
     <trd>&aacute;llcsont</trd></trdgrp>
   <trd lng="id">makzelo</trd>
   <trd lng="it">mascella</trd>
+  <trdgrp lng="ja">
+    <trd>&#x984E;  [<ind>&#x3042;&#x304E;&#x3068;</ind>]</trd>,
+    <trd>&#x3042;&#x3054;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kaak</trd>,
     <trd>kaaksbeen</trd>
@@ -77,6 +79,12 @@
   <trd lng="pt">maxilar</trd>
   <trd lng="ru">&c_ch;&c_je;&c_l;&c_ju;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sv">k&auml;ke</trd>
+  <trdgrp lng="uk">
+    <trd>&#x449;&#x435;&#x43B;&#x435;&#x43F;&#x430;</trd>,
+    <trd>&#x449;&#x435;&#x43B;&#x435;&#x43F;&#x43D;&#x430; &#x43A;&#x456;&#x441;&#x442;&#x43A;&#x430;</trd>,
+    <trd>&#x449;&#x43E;&#x43A;&#x430;</trd>,
+    <trd>&#x43A;&#x443;&#x43B;&#x430;&#x447;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

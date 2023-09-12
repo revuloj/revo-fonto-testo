@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: pasagx.xml,v 1.21 2023/09/03 12:45:05 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>pasa&gcirc;er</rad>/o
@@ -23,6 +22,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_a;&c_zh;&c_y;&c_r;</trd>
   <trd lng="bg">&c_p;&c_malmol;&c_t;&c_n;&c_i;&c_k;</trd>
+  <trd lng="bo">&#xF60;&#xF42;&#xFB2;&#xF74;&#xF63;&#xF0B;&#xF54;&#xF0B;</trd>
   <trdgrp lng="ca">
     <trd>passatger</trd>,
     <trd>viatger</trd>
@@ -43,17 +43,25 @@
     <trd>voyageur</trd>
   </trdgrp>
   <trd lng="hu">utas</trd>
-  <trd lng="id">[<ind>tumpang</ind>] penumpang</trd>
+  <trd lng="id"><baz>tumpang</baz>penumpang</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E57;&#x5BA2;  [<ind>&#x3058;&#x3087;&#x3046;&#x304D;&#x3083;&#x304F;</ind>]</trd>,
+    <trd>&#x65C5;&#x5BA2;  [<ind>&#x308A;&#x3087;&#x304B;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">passagier</trd>
   <trdgrp lng="pl">
   <trd>pasa&zdot;er</trd>,
   <trd>podr&oacute;&zdot;ny</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_a;&c_s;&c_s;&c_a;&c_zh;&c_i;&c_r;</trd>
+  <trd lng="uk">&#x43F;&#x430;&#x441;&#x430;&#x436;&#x438;&#x440;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.18 2020/05/06 15:10:25
+Eko Nur Syah Hidayat: korekteto
+
 Revision 1.16  2014/01/05 09:10:26  revo
 Damien Brucker: +trd fr
 

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: prov.xml,v 1.34 2020/03/10 00:10:31 revo Exp $">
+<art mrk="$Id: prov.xml,v 1.122 2023/09/03 12:45:13 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>prov</rad>/i
@@ -12,10 +11,11 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="prov.0i.kontroli_tauxgecon">
     <dif>
-      Apliki objekton al &gcirc;ia destino, por kontroli,
+      <ref cel="aplik.0i.rimedon">Apliki</ref> objekton al &gcirc;ia destino, por
+      <ref tip="super" cel="kontro.0i.konformecon">kontroli</ref>,
       &ccirc;u &gcirc;i ta&ubreve;gas, &ccirc;u &gcirc;i pla&ccirc;as:
       <ekz>
-        <tld/>i instrumenton, ma&scirc;inon, ponton, &ccirc;apelon,
+        <tld/>i instrumenton, ma&scirc;inon, ponton, pordon, &ccirc;apelon,
         medikamenton sur malsanulo;
       </ekz>
       <ekz>
@@ -24,7 +24,8 @@
         <fnt><bib>PV</bib></fnt>;
       </ekz>
       <ekz>
-        la pli a&gcirc;a iris <klr>[&#8230;]</klr> kun la &scirc;uo por <tld/>i &gcirc;in <klr>[&#8230;]</klr>,
+        la pli a&gcirc;a iris <klr>[&#x2026;]</klr> kun la &scirc;uo por <tld/>i &gcirc;in
+        <klr>[&#x2026;]</klr>,
         sed beda&ubreve;rinde la granda piedfingro ne eniris, la &scirc;uo estis tro
         malgranda por &scirc;i
         <fnt>
@@ -33,7 +34,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i prenis la anasidon <tld/>e por la da&ubreve;ro de tri semajnoj, sed ovoj ne aperis
+        &scirc;i prenis la anasidon <tld/>e por la da&ubreve;ro de tri semajnoj, sed
+        ovoj ne aperis
         <fnt>
           <bib>Fab2</bib>
           <lok>Malbela anasido</lok>
@@ -45,13 +47,20 @@
         <fnt>
         <vrk>Montejo</vrk>
         <lok>
-        <url ref="http://www.geocities.com/jeneeya/esperanto/montejo/
-        montejo8a2000.htm">2000-3
+        <url ref="http://www.geocities.com/jeneeya/esperanto/montejo/montejo8a2000.htm">2000-3
         (1)</url></lok></fnt>;
       </ekz>
       <ekz>
         siatempe mi anka&ubreve; iafoje <tld/>is cigaron
         <fnt><bib>UrdHadda</bib>, <lok>p. 14</lok></fnt>.
+      </ekz>
+      <ekz>
+        Li reiris al la pli malalta eta&gcirc;o kaj <tld/>is la pordon.
+        <fnt>
+          <aut>J. R. R. Tolkien (tr. William Auld)</aut>
+          <vrk><url ref="https://ia802906.us.archive.org/2/items/La_Mastro_de_l_Ringoj/Tolkien%2C%20J.%20R.%20R.%20-%20La%20Reveno%20de%20La%20Regxo_text.pdf">La Reveno de la Re&gcirc;o</url></vrk>
+          <lok>p 191</lok>
+        </fnt>;
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -62,8 +71,13 @@
     </refgrp>
     <trdgrp lng="be">
       <trd>&c_s;&c_p;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
-      <trd>&c_k;&c_a;&c_sh;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol; 
+      <trd>&c_k;&c_a;&c_sh;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;
       <klr>(man&gcirc;a&jcirc;ojn)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>ausprobieren</trd>,
+      <trd>testen</trd>,
+      <trd>versuchen</trd>
     </trdgrp>
     <trd lng="es">comprobar</trd>
     <trdgrp lng="nl">
@@ -79,7 +93,7 @@
   </snc>
   <snc mrk="prov.0i.elmeti_al_pritaksado">
     <dif>
-      Elmeti al pritaksado de la valoro:
+      <ref tip="super" cel="met.el0i.malsxirmi">Elmeti</ref> al pritaksado de la valoro:
     </dif>
     <subsnc mrk="prov.0i.elmeti_substancon_al_pritaksado">
       <uzo tip="stl">RAR</uzo>
@@ -94,6 +108,9 @@
           <fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
+      <refgrp tip="vid">
+        <ref cel="pruv.0i">pruvi</ref>
+      </refgrp>
       <trd lng="es">probar</trd>
     </subsnc>
     <subsnc mrk="prov.0i.elmeti_ion_al_pritaksado">
@@ -120,21 +137,23 @@
           <trd lng="hu">szerencs&eacute;t pr&oacute;b&aacute;l</trd>
         </ekz>
         <ekz>
-          ni <klr>[&#8230;]</klr> <tld/>os la fortunon
+          ni <klr>[&#x2026;]</klr> <tld/>os la fortunon
           <fnt>
             <bib>ElektFab</bib>
             <lok>Fidela Johano</lok>
           </fnt>;
         </ekz>
         <ekz>
-          iru en la mondon, <tld/>u viajn kapablojn kaj <klr>[&#8230;]</klr> lernu metion
+          iru en la mondon, <tld/>u viajn kapablojn kaj <klr>[&#x2026;]</klr>
+          lernu metion
           <fnt>
             <bib>ElektFab</bib>
             <lok>Tri fratoj</lok>
           </fnt>;
         </ekz>
         <ekz>
-          kiam mi <klr>[&#8230;]</klr> povos porti lancon, mi trovos Seton kaj ni <tld/>os niajn
+          kiam mi <klr>[&#x2026;]</klr> povos porti lancon, mi trovos Seton kaj
+          ni <tld/>os niajn
           fortojn
           <fnt>
             <bib>Far1</bib>
@@ -152,6 +171,9 @@
           <fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
+      <refgrp tip="vid">
+       <ref cel="test.0i">testi</ref>
+    </refgrp>
       <trd lng="es">comprobar</trd>
     </subsnc>
     <subsnc mrk="prov.0i.elmeti_iun_al_pritaksado">
@@ -199,7 +221,10 @@
           <fnt><aut>&Z;</aut>, <vrk>la vojo</vrk></fnt>.
         </ekz>
       </dif>
-      <ref tip="vid" cel="tent.0i.provi">tenti <sncref/></ref>
+      <refgrp tip="vid">
+        <ref cel="ekzame.0i.PED">ekzameni<sncref/></ref>,
+        <ref cel="tent.0i.provi">tenti <sncref/></ref>
+      </refgrp>
       <trd lng="es">comprobar</trd>
       <adm>
         Kontroli la tradukojn nl kaj ru, kiuj ekzistis anta&ubreve;
@@ -213,6 +238,11 @@
     </rim>
     <trd lng="be">
     &c_v;&c_y;&c_p;&c_r;&c_a;&c_b;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd>pr&uuml;fen</trd>,
+      <trd>austesten</trd>,
+      <trd>untersuchen</trd>
+    </trdgrp>
     <trdgrp lng="nl">
       <trd>beproeven</trd>,
       <trd>testen</trd>,
@@ -222,7 +252,7 @@
     <trdgrp lng="pl">
       <trd>pr&oacute;bowa&cacute;</trd>,
       <trd>sprawdza&cacute;</trd>,
-      <trd>poddawa&cacute; pr&oacute;bie</trd>
+      <trd>poddawa&cacute;  <ind>pr&oacute;bie</ind></trd>
     </trdgrp>
     <trd lng="ru">&c_i;&c_s;&c_p;&c_y;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;
     </trd>
@@ -235,7 +265,8 @@
     <subsnc>
       <uzo tip="klr">(<tld/>i fari, ne fari)</uzo>
       <ekz>
-        <nom>David</nom> zonis <klr>[la glavon de <nom>Saul</nom>]</klr> supre de siaj vestoj,
+        <nom>David</nom> zonis <klr>[la glavon de <nom>Saul</nom>]</klr>
+        supre de siaj vestoj,
         kaj <tld/>is iri, &ccirc;ar li ne kutimis
         <fnt><bib>MT</bib>, <lok>&Sa1; 17:39</lok></fnt>;
       </ekz>
@@ -244,7 +275,8 @@
         <fnt><bib>MT</bib>, <lok>&Sa2; 14:15</lok></fnt>;
       </ekz>
       <ekz>
-        <nom>Luka Luki&ccirc;</nom> <tld/>as ekfumi <klr>[malhelpate de tremado]
+        <nom>Luka Luki&ccirc;</nom> <tld/>as ekfumi <klr>[malhelpate de
+        tremado]
         </klr>
         <fnt><bib>Revizoro</bib>, <lok>akto 4a, sceno 5a</lok></fnt>;
       </ekz>
@@ -281,8 +313,7 @@
         en sia migrado li <tld/>is preska&ubreve; &ccirc;iujn metiojn
         <fnt>
           <aut>Henryk Sienkiewicz, trad. Kazimierz Bein</aut>
-          <vrk><url ref="https://eduinf.waw.pl/esp/lern/librejo/0007/0001.php"
-              >La lanternisto</url></vrk>
+          <vrk><url ref="&EduInf;lern/librejo/0007/0001.php">La lanternisto</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -358,6 +389,7 @@
       <trd>&c_s;&c_p;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_p;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trd lng="de">versuchen</trd>
     <trd lng="nl">proberen</trd>
     <trdgrp lng="pl">
       <trd>pr&oacute;bowa&cacute;</trd>,
@@ -369,36 +401,56 @@
       <trd>&c_p;&c_y;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">probeer</trd>
+  <trd lng="am">&#x121E;&#x12AD;&#x122D;</trd>
+  <trd lng="ar">&a_m;&a_H;&a_A;&a_w;&a_l;&a_t_marbuta;</trd>
+  <trd lng="az">&ccedil;al&inodot;&scedil;maq</trd>
   <trdgrp lng="bg">
     <trd>&c_p;&c_r;&c_o;&c_b;&c_v;&c_a;&c_m;</trd>,
     <trd>&c_o;&c_p;&c_i;&c_t;&c_v;&c_a;&c_m;</trd>
   </trdgrp>
+  <trd lng="bn">&#x99A;&#x9C7;&#x9B7;&#x9CD;&#x99F;&#x9BE;</trd>
+  <trd lng="bs">poku&scaron;ati</trd>
+  <trd lng="co">pruv&agrave;</trd>
   <trdgrp lng="cs">
     <trd>pokou&scaron;et se</trd>,
     <trd>pokusit se</trd>,
     <trd>vyzkou&scaron;et</trd>,
     <trd>zkusit</trd>
   </trdgrp>
+  <trd lng="cy">ceisiwch</trd>
+  <trd lng="da">pr&oslash;v</trd>
   <trd lng="de">probieren</trd>
-  <trd lng="en">attempt</trd>
+  <trd lng="en">try<klr> (something out; see if it can be done)</klr></trd>
   <trdgrp lng="es">
     <trd>probar</trd>,
     <trd>intentar</trd>,
     <trd>tratar de</trd>,
     <trd>comprobar</trd>
   </trdgrp>
+  <trd lng="et">proovida</trd>
+  <trd lng="eu">saiatu</trd>
   <trdgrp lng="fr">
     <trd>essayer</trd>,
     <trd>&eacute;prouver<klr tip="ind"> (mettre &agrave;
     l'&eacute;preuve)</klr></trd>,
-    <trd>mettre &agrave; l'<ind>&eacute;preuve</ind></trd>,  <trd
-    lng="es">probar</trd>
+    <trd>mettre &agrave; l'<ind>&eacute;preuve</ind></trd>,  <trd lng="es">probar</trd>
     <trd>t&acirc;cher</trd>,
     <trd>tester</trd>,
     <trd>tenter<klr tip="amb"> (essayer)</klr></trd>,
     <trd>tenter<klr tip="amb"> (mettre &agrave;
     l'&eacute;preuve)</klr></trd>
   </trdgrp>
+  <trd lng="fy">besykje</trd>
+  <trd lng="ga">iarracht</trd>
+  <trd lng="gd">feuchainn</trd>
+  <trd lng="gl">tentar</trd>
+  <trd lng="gu">&#xAAA;&#xACD;&#xAB0;&#xAAF;&#xABE;&#xAB8;</trd>
+  <trd lng="ha">kokarin</trd>
+  <trd lng="hi">&#x915;&#x94B;&#x936;&#x93F;&#x936;</trd>
+  <trd lng="hmn">sim</trd>
+  <trd lng="hr">probati</trd>
+  <trd lng="ht">eseye</trd>
   <trdgrp lng="hu">
     <trd>kipr&oacute;b&aacute;l</trd>,
     <trd>megpr&oacute;b&aacute;l</trd>,
@@ -406,17 +458,71 @@
     <trd>tesztel</trd>,
     <trd>megk&iacute;s&eacute;rel</trd>
   </trdgrp>
+  <trd lng="hy">&#x583;&#x578;&#x580;&#x571;&#x565;&#x56C;</trd>
+  <trd lng="ig">na-agbal&#x1ECB;</trd>
+  <trd lng="is">reyna</trd>
+  <trd lng="ja">&#x8A66;&#x3059; [<ind>&#x305F;&#x3081;&#x3059;</ind>]</trd>
+  <trd lng="jv">nyoba</trd>
+  <trd lng="ka">&#x10EA;&#x10D3;&#x10D8;&#x10DA;&#x10DD;&#x10D1;&#x10D4;&#x10DC;</trd>
+  <trd lng="kk">&#x4D9;&c_r;&c_je;&c_k;&c_je;&c_t;</trd>
+  <trd lng="km">&#x1796;&#x17D2;&#x1799;&#x17B6;&#x1799;&#x17B6;&#x1798;</trd>
+  <trd lng="kn">&#xCAA;&#xCCD;&#xCB0;&#xCAF;&#xCA4;&#xCCD;&#xCA8;&#xCBF;&#xCB8;&#xCBF;</trd>
+  <trd lng="ko">&#xC2DC;&#xD5D8;</trd>
+  <trd lng="ku">cerriban&icirc;</trd>
+  <trd lng="ky">&c_a;&c_r;&c_a;&c_k;&c_je;&c_t; &c_k;&c_y;&c_l;&c_u;&c_u;</trd>
+  <trd lng="lat">tentant</trd>
+  <trd lng="lo">&#xE9E;&#xEB0;&#xE8D;&#xEB2;&#xE8D;&#xEB2;&#xEA1;</trd>
+  <trd lng="lt">pabandyti</trd>
+  <trd lng="lv">m&#x15E3;&#x15F3;in&#x15D1;t</trd>
+  <trd lng="mg">manandrana</trd>
+  <trd lng="mi">tamata</trd>
+  <trd lng="mk">&c_s;&c_je; &c_o;&c_b;&c_i;&c_d;&c_je;</trd>
+  <trd lng="ml">&#xD36;&#xD4D;&#xD30;&#xD2E;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_o;&c_r;&c_o;&c_l;&c_d;&c_o;&c_h;</trd>
+  <trd lng="mr">&#x92A;&#x94D;&#x930;&#x92F;&#x924;&#x94D;&#x928;</trd>
+  <trd lng="ms">cuba</trd>
+  <trd lng="mt">jippruvaw</trd>
+  <trd lng="my">&#x1000;&#x103C;&#x102D;&#x102F;&#x1038;&#x1005;&#x102C;&#x1038;</trd>
+  <trd lng="ne">&#x92A;&#x94D;&#x930;&#x92F;&#x93E;&#x938;</trd>
+  <trd lng="ny">kuyesa</trd>
+  <trd lng="pa">&#xA15;&#xA4B;&#xA38;&#xA3C;&#xA3F;&#xA38;&#xA3C; &#xA15;&#xA30;&#xA4B;</trd>
+  <trd lng="ps">&a_h;&#x685;&a_h;</trd>
   <trdgrp lng="pt">
     <trd>provar</trd>,
     <trd>experimentar</trd>,
     <trd>ensaiar</trd>
   </trdgrp>
+  <trd lng="rw">gerageza</trd>
+  <trd lng="sd">&#x6AA;&a_w;&a_sh;&a_sh; &#x6AA;&a_r;</trd>
+  <trd lng="si">&#xD8B;&#xDAD;&#xDCA;&#xDC3;&#xDCF;&#xDC4;</trd>
   <trdgrp lng="sk">
     <trd>ok&uacute;si&tcaron;</trd>,
     <trd>pok&uacute;&scaron;a&tcaron;<klr>(sa)</klr></trd>,
     <trd>sk&uacute;si&tcaron;</trd>,
     <trd>urobi&tcaron; pokus</trd>
   </trdgrp>
+  <trd lng="sl">poskusite</trd>
+  <trd lng="sm">taumafai</trd>
+  <trd lng="sn">edza</trd>
+  <trd lng="so">isku day</trd>
+  <trd lng="sq">p&euml;rpiqem</trd>
+  <trd lng="st">leka</trd>
+  <trd lng="su">nyobaan</trd>
+  <trd lng="sw">kujaribu</trd>
+  <trd lng="ta">&#xBAE;&#xBC1;&#xBAF;&#xBB1;&#xBCD;&#xB9A;&#xBBF;</trd>
+  <trd lng="te">&#xC2A;&#xC4D;&#xC30;&#xC2F;&#xC24;&#xC4D;&#xC28;&#xC3F;&#xC02;&#xC1A;&#xC02;&#xC21;&#xC3F;</trd>
+  <trd lng="tg">&c_k;&#x4EF;&c_sh;&c_i;&c_sh;</trd>
+  <trd lng="th">&#xE1E;&#xE22;&#xE32;&#xE22;&#xE32;&#xE21;</trd>
+  <trd lng="tl">subukan</trd>
+  <trd lng="tt">&c_t;&c_y;&c_r;&c_y;&c_sh;&c_y;&c_p; &c_k;&c_a;&c_r;&c_a;</trd>
+  <trd lng="uk">&c_s;&c_p;&c_r;&c_o;&c_b;&c_u;&c_j;&c_t;&c_je;</trd>
+  <trd lng="ur">&f_k;&a_w;&a_sh;&a_sh;</trd>
+  <trd lng="uz">urinish</trd>
+  <trd lng="vi">th&#x1EED;</trd>
+  <trd lng="xh">zama</trd>
+  <trd lng="yi">&pe;&#x5BC;&resh;&vav;&bet;&yod;&resh;&fnun;</trd>
+  <trd lng="yo">gbiyanju</trd>
+  <trd lng="zu">sizame</trd>
 </drv>
 
 <drv mrk="prov.0o">
@@ -425,7 +531,7 @@
     <dif>
       Ago <tld/>i, stato de io a&ubreve; iu <tld/>ata:
     </dif>
-    <subsnc>
+    <subsnc mrk="prov.0o.KOMUNE.de_tauxgeco">
       <dif>
         <klr>(<tld/>i <sncref ref="prov.0i.kontroli_tauxgecon"/>)</klr>
         <ekz>
@@ -447,7 +553,7 @@
         <trd>intento</trd>
       </trdgrp>
     </subsnc>
-    <subsnc>
+    <subsnc mrk="prov.0o.KOMUNE.pritakso">
       <dif>
         <klr>(<tld/>i <sncref ref="prov.0i.elmeti_ion_al_pritaksado"/>,
         <sncref ref="prov.0i.elmeti_iun_al_pritaksado"/>)</klr>
@@ -455,7 +561,8 @@
           nia lingvo eltenis la <tld/>on dum dudek kvin jaroj
           <fnt>
             <bib>Paroloj</bib>
-            <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow en la 11a de a&ubreve;gusto 1912</vrk>
+            <vrk>Parolado anta&ubreve; la Oka Kongreso Esperantista en Krakow
+            en la 11a de a&ubreve;gusto 1912</vrk>
           </fnt>;
         </ekz>
         <ekz>
@@ -483,7 +590,7 @@
         <trd>prueba</trd>
       </trdgrp>
     </subsnc>
-    <subsnc>
+    <subsnc mrk="prov.0o.KOMUNE.sukcespeno">
       <dif>
         <klr>(<tld/>i <sncref ref="prov.0i.peni_sukcese_fari"/>)</klr>
         <ekz>
@@ -503,18 +610,30 @@
         <ekz>
           <tld/>o senfrukta
           <fnt><bib>Marta</bib></fnt>,
-        </ekz>
-        <ekz>
           malprospera
           <fnt><bib>EE</bib></fnt>,
-        </ekz>
-        <ekz>
           vana
           <fnt><bib>Marta</bib></fnt>.
         </ekz>
       </dif>
       <trd lng="es">prueba</trd>
     </subsnc>
+    <refgrp tip="vid">
+       <ref cel="ekzame.0o">ekzameno</ref>,
+       <ref cel="kontro.0o">kontrolo</ref>,
+       <ref cel="test.0o">testo</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="balon.prov0o"><tld/>balono</ref>,
+      <ref cel="edz.prov0igxo"><tld/>edzi&gcirc;o</ref>,
+      <ref cel="ekzemp1.prov0o"><tld/>ekzemplero</ref>,
+      <ref cel="jar.prov0o"><tld/>jaro</ref>,
+      <ref cel="leg.prov0i"><tld/>legi</ref>,
+      <ref cel="lud.prov0i"><tld/>ludi</ref>,
+      <ref cel="numer.prov0o"><tld/>numero</ref>,
+      <ref cel="temp.prov0o"><tld/>tempo</ref>,
+      <ref cel="tub.prov0o"><tld/>tubo</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
@@ -559,6 +678,16 @@
     <trd>vizsg&aacute;lat</trd>,
     <trd>teszt</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A66;&#x307F;  [<ind>&#x3053;&#x3053;&#x308D;&#x307F;</ind>]</trd>,
+    <trd>&#x8A66;&#x7528;  [<ind>&#x3057;&#x3088;&#x3046;</ind>]</trd>,
+    <trd>&#x8A66;&#x9A13;  [<ind>&#x3057;&#x3051;&#x3093;</ind>]</trd>,
+    <trd>&#x691C;&#x8A3C;  [<ind>&#x3051;&#x3093;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x30C6;&#x30B9;&#x30C8;  [<ind>&#x3066;&#x3059;&#x3068;</ind>]</trd>,
+    <trd>&#x8A66;&#x884C;  [<ind>&#x3057;&#x3053;&#x3046;</ind>]</trd>,
+    <trd>&#x8A66;&#x6280;  [<ind>&#x3057;&#x304E;</ind>]</trd>,
+    <trd>&#x7A3D;&#x53E4;  [<ind>&#x3051;&#x3044;&#x3053;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>poging</trd>,
     <trd>proef</trd>,
@@ -566,7 +695,7 @@
   </trdgrp>
   <trdgrp lng="pl">
       <trd>pr&oacute;ba</trd>,
-      <trd>sprawdzenia</trd>,
+      <trd>sprawdzenie</trd>,
       <trd>usi&lstroke;owanie</trd>
     </trdgrp>
   <trdgrp lng="ru">
@@ -579,6 +708,14 @@
   <trdgrp lng="sk">
     <trd>pokus</trd>,
     <trd>sk&uacute;&scaron;ka</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_ib;&c_r;&c_k;&c_a;</trd>,
+    <trd>&c_v;&c_i;&c_p;&c_r;&c_o;&c_b;&c_o;&c_v;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_r;&c_je;&c_p;&c_je;&c_t;&c_i;&c_c;&c_ib;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_m;&c_ib;&c_r;&c_k;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -599,7 +736,8 @@
         <fnt><bib>Marta</bib></fnt>;
       </ekz>
       <ekz>
-        <nom>Nupta</nom> jam donis tro multe da pruvoj pri absoluta fideleco
+        <nom>Nupta</nom> jam donis tro multe da pruvoj pri absoluta
+        fideleco
         en <tld/>aj cirkonstancoj
         <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 8a</lok></fnt>;
       </ekz>
@@ -639,6 +777,10 @@
     <trd>k&iacute;s&eacute;rleti</trd>,
     <trd>pr&oacute;ba-</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A66;&#x307F;&#x306E;  [<ind>&#x3053;&#x3053;&#x308D;&#x307F;&#x306E;</ind>]</trd>,
+    <trd>&#x8A66;&#x9A13;&#x7684;&#x306A;  [<ind>&#x3057;&#x3051;&#x3093;&#x3066;&#x304D;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>pr&oacute;bny</trd>,
     <trd>sprawdzaj&aogonek;cy</trd>,
@@ -655,6 +797,12 @@
     <trd>pokusn&yacute;</trd>,
     <trd>sk&uacute;&scaron;obn&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_b;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_ib;&c_r;&c_o;&c_ch;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_v;&c_i;&c_p;&c_r;&c_o;&c_b;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_ib;&c_s;&c_p;&c_i;&c_t;&c_o;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prov.0adi">
@@ -663,7 +811,8 @@
     <dif>
       Ade <tld/>i:
       <ekz>
-        de loko al loko tre mal&gcirc;oje li <tld/>adis trovi la sufi&ccirc;an klientaron
+        de loko al loko tre mal&gcirc;oje li <tld/>adis trovi la sufi&ccirc;an
+        klientaron
         <fnt>
           <bib>VivZam</bib>
         </fnt>;
@@ -682,6 +831,10 @@
     <trd>&c_p;&c_r;&c_o;&c_b;&c_v;&c_a;&c_m;</trd>,
     <trd>&c_o;&c_p;&c_i;&c_t;&c_v;&c_a;&c_m;</trd>,
     <trd>&c_t;&c_je;&c_s;&c_t;&c_v;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr>(systematisch)</klr> ausprobieren</trd>,
+    <trd>austesten</trd>
   </trdgrp>
   <trd lng="es">intentar continuamente</trd>
   <trdgrp lng="hu">
@@ -721,33 +874,30 @@
         <fnt><bib>NT</bib>, <lok>&Jak; 1:3</lok></fnt>;
       </ekz>
       <ekz>
-        por &ccirc;iu tago, en kiu ni trovas bonan infanon 
-        <klr>...</klr>,
+        por &ccirc;iu tago, en kiu ni trovas bonan infanon
+        <klr>[&#x2026;]</klr>,
         Dio mallongigas al ni nian tempon de <tld/>ado
         <fnt><bib>Fab1</bib>, <lok>la virineto de maro</lok></fnt>;
       </ekz>
       <ekz>
         <nom>Waringhien</nom> decidis uzi la akiritan materialon en
-        Esperanta-franca
-        vortaro, kiu estis kvaza&ubreve; la
+        Esperanta-franca vortaro, kiu estis kvaza&ubreve; la
         <ind>&gcirc;enerala <tld/>ado</ind> de la P.I.V.
         <fnt>
         <bib>LOdE</bib>
-        <lok><url
-        ref="http://ttt.esperanto.org/Ondo/H-waring.htm">2001:6(80)
-        </url></lok></fnt>.
+        <lok><url ref="&LOdE;H-waring.htm">2001:6(80)</url></lok></fnt>.
+        <trd lng="de">Generalprobe</trd>
         <trdgrp lng="es">
           <trd>ensayo general</trd>,
           <trd>intento general</trd>
         </trdgrp>
-        <trd lng="fr">r&eacute;p&eacute;tition g&eacute;n&eacute;rale
-        </trd>
-        <trd lng="ru">
-        &c_g;&c_je;&c_n;&c_je;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; 
-        &c_r;&c_je;&c_p;&c_je;&c_t;&c_i;&c_c;&c_i;&c_ja;
-        </trd>
+        <trd lng="fr">r&eacute;p&eacute;tition g&eacute;n&eacute;rale</trd>
+        <trd lng="ru">&c_g;&c_je;&c_n;&c_je;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_r;&c_je;&c_p;&c_je;&c_t;&c_i;&c_c;&c_i;&c_ja;</trd>
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="lud.prov0i">provludi</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>
@@ -783,10 +933,15 @@
     <trd>pr&oacute;b&aacute;lkoz&aacute;s</trd>,
     <trd>k&iacute;s&eacute;rletezget&eacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A66;&#x307F;  [<ind>&#x3053;&#x3053;&#x308D;&#x307F;</ind>]</trd>,
+    <trd>&#x8A66;&#x9A13;  [<ind>&#x3057;&#x3051;&#x3093;</ind>]</trd>,
+    <trd>&#x8A66;&#x884C;  [<ind>&#x3057;&#x3053;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
-    <trd>pr&oacute;by</trd>,
-    <trd>sprawdzenia</trd>,
-    <trd>usi&lstroke;owania</trd>
+    <trd>pr&oacute;bowanie</trd>,
+    <trd>testowanie</trd>,
+    <trd>usi&lstroke;owanie</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
@@ -797,6 +952,10 @@
   <trdgrp lng="sk">
     <trd>pokusn&iacute;ctvo</trd>,
     <trd>sk&uacute;&scaron;anie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_p;&c_r;&c_o;&c_b;&c_o;&c_v;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_m;&c_ib;&c_r;&c_ja;&c_n;&c_n;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -823,6 +982,10 @@
       <trd>&c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
       <trd>&c_s;&c_p;&c_r;&c_o;&c_b;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd>Probe</trd>,
+      <trd>Versuch <klr>(Exempel)</klr></trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>muestra</trd>,
       <trd>ejemplar</trd>
@@ -836,9 +999,7 @@
     </trdgrp>
     <trd lng="hu">pr&oacute;badarab</trd>
     <trd lng="nl">proefstuk</trd>
-  <trdgrp lng="pl">
-    <trd>pr&oacute;bka</trd>
-  </trdgrp>
+    <trd lng="pl">pr&oacute;bka</trd>
     <trd lng="ru">&c_p;&c_r;&c_o;&c_b;&c_a;</trd>
   </snc>
   <snc mrk="prov.0ajxo.TIP">
@@ -860,7 +1021,7 @@
     </trdgrp>
   <trdgrp lng="pl">
     <trd>korekta</trd>,
-    <trd>poprawa</trd>
+    <trd>poprawka</trd>
   </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_k;&c_o;&c_r;&c_r;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
@@ -870,6 +1031,17 @@
   <trdgrp lng="bg">
     <trd>&c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
     <trd>&c_o;&c_p;&c_i;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x672C;  [<ind>&#x307F;&#x307B;&#x3093;</ind>]</trd>,
+    <trd>&#x8A66;&#x4F5C;&#x54C1;  [<ind>&#x3057;&#x3055;&#x304F;&#x3072;&#x3093;</ind>]</trd>,
+    <trd>&#x8A66;&#x7528;&#x54C1;  [<ind>&#x3057;&#x3088;&#x3046;&#x3057;&#x306A;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
+    <trd>&c_s;&c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_b;&c_n;&c_i;&c_j; &c_v;&c_ib;&c_d;&c_b;&c_i;&c_t;&c_o;&c_k;</trd>
   </trdgrp>
 </drv>
 
@@ -885,8 +1057,7 @@
         certi&gcirc;i pri <klr>[gravedeco]</klr> jam je la unua tago
         de la nevenanta monata&jcirc;o
         <fnt><aut>Harald Kirschner</aut>, <vrk>la virino kaj la
-        gravedeco</vrk><lok><url
-        ref="http://members.aon.at/die.tarockseite/19950514.htm">
+        gravedeco</vrk><lok><url ref="http://members.aon.at/die.tarockseite/19950514.htm">
         http://members..aon.at/die.tarockseite/19950514.htm</url></lok>
         </fnt>;
       </ekz>
@@ -898,18 +1069,18 @@
         <fnt>
         <aut>trad. Mogens Groth</aut>,
         <vrk>Norda Prismo</vrk><lok>
-        <url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/
-        np/np5704/gruou.html">http://donh.best.vwh.net/Esperanto/
+        <url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/         np/np5704/gruou.html">http://donh.best.vwh.net/Esperanto/
         Literaturo/Revuoj/np/np5704/gruou.html</url></lok></fnt>;
       </ekz>
       <ekz>
-        multaj ser&ccirc;antoj faltrafas en la akvokirli&gcirc;on de spirituala materialismo kaj
-        psi&hcirc;ismo, precipe kiam la sola <tld/>ilo estas ilia propra &leftquot;sento&#8221;
+        multaj ser&ccirc;antoj faltrafas en la akvokirli&gcirc;on de spirituala
+        materialismo kaj
+        psi&hcirc;ismo, precipe kiam la sola <tld/>ilo estas ilia propra
+        &leftquot;sento&#x201D;
         <fnt>
           <bib>Monato</bib>
           <aut>Christian Declerck</aut>
-          <vrk><url ref="https://www.monato.be/2009/009048.php"
-              >Spirituala materialismo</url></vrk>
+          <vrk><url ref="&Monato;/2009/009048.php">Spirituala materialismo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -926,6 +1097,10 @@
     <trd>&c_t;&c_e;&c_s;&c_t;&c_e;&c_r;</trd>
   </trdgrp>
   <trd lng="bg">&c_t;&c_je;&c_s;&c_t;&c_je;&c_r;</trd>
+  <trdgrp lng="de">
+    <trd>Test<klr>(mittel)</klr></trd>,
+    <trd>Pr&uuml;fstein</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>instrumento de experimentaci&oacute;n</trd>,
     <trd>test</trd>,
@@ -940,7 +1115,15 @@
     <trd>vizsg&aacute;lati eszk&ouml;z</trd>,
     <trd>pr&oacute;bak&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A66;&#x9A13;&#x5668;&#x5177;  [<ind>&#x3057;&#x3051;&#x3093;&#x304D;&#x3050;</ind>]</trd>,
+    <trd>&#x8A66;&#x91D1;&#x77F3;  [<ind>&#x3057;&#x304D;&#x3093;&#x305B;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">toetssteen</trd>
+  <trdgrp lng="pl">
+    <trd>probierz</trd>,
+    <trd>pr&oacute;bnik</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_o;&c_b;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_t;&c_je;&c_s;&c_t;&c_je;&c_r;</trd>
@@ -953,7 +1136,7 @@
 </drv>
 
 <drv mrk="prov.0inda">
-  <kap><tld/>inda <fnt><bib>VdE</bib></fnt></kap> 
+  <kap><tld/>inda <fnt><bib>VdE</bib></fnt></kap>
   <snc mrk="prov.0inda.KOMUNE">
     <dif>
       Inda esti <tld/>ata:
@@ -961,8 +1144,7 @@
         kelkaj <tld/>indaj nepalaj man&gcirc;a&jcirc;oj
         <fnt>
         <vrk>Montejo</vrk>
-        <lok><url ref="http://www.geocities.com/jeneeya/esperanto/
-        montejo/montejo8a2000.htm">2000-3
+        <lok><url ref="http://www.geocities.com/jeneeya/esperanto/         montejo/montejo8a2000.htm">2000-3
         (1)</url></lok></fnt>;
       </ekz>
       <ekz>
@@ -976,8 +1158,10 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">einen <ind>Versuch</ind> wert</trd>
   <trd lng="es">para hacer pruebas</trd>
   <trd lng="hu">kipr&oacute;b&aacute;land&oacute;</trd>
+  <trd lng="pl">godny  <ind>pr&oacute;by</ind></trd>
   <adm>
     Tiu &ccirc;i termino malaperis de pli postaj vortaroj. Povas esti,
     ke per &gcirc;i Kabe celis pli "spertinda" ol "provinda".
@@ -1006,8 +1190,8 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        &ccirc;u vi ne povus reek<tld/>i, e&ccirc; se nur kompate al mi?
-        <fnt><bib>Lasu</bib>, <lok>jen vi ree trinkas!</lok></fnt>.
+        &ccirc;u vi ne povus reek<tld/>i, e&ccirc; se nur kompate al mi
+        <fnt><bib>Lasu</bib>, <lok>jen vi ree trinkas!</lok></fnt>?
       </ekz>
     </dif>
   </snc>
@@ -1015,9 +1199,14 @@
   &c_p;&c_a;&c_s;&c_p;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;
   </trd>
   <trd lng="cs">zkusit</trd>
+  <trd lng="de">versuchen</trd>
   <trd lng="es">ponerse a <ind>probar</ind></trd>
   <trd lng="fr">se mettre &agrave; <ind>essayer</ind></trd>
   <trd lng="hu">elkezd <ind>pr&oacute;b&aacute;lni</ind></trd>
+  <trdgrp lng="pl">
+    <trd>spr&oacute;bowa&cacute;</trd>,
+    <trd>zaryzykowa&cacute;</trd>
+  </trdgrp>
   <trd lng="sk">sk&uacute;si&tcaron;</trd>
 </drv>
 
@@ -1110,6 +1299,10 @@
     <trd>&c_i;&c_z;&c_p;&c_i;&c_t;&c_v;&c_a;&c_m;</trd>
   </trdgrp>
   <trd lng="cs">vyzkou&scaron;et</trd>
+  <trdgrp lng="de">
+    <trd>ausprobieren</trd>,
+    <trd>erproben</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>essayer</trd>,
     <trd>&eacute;prouver<klr tip="ind"> (mettre &agrave;
@@ -1120,9 +1313,18 @@
     l'&eacute;preuve)</klr></trd>
   </trdgrp>
   <trd lng="hu">(alaposan) <ind>kipr&oacute;b&aacute;l</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A66;&#x3057;&#x5C3D;&#x304F;&#x3059;  [<ind>&#x305F;&#x3081;&#x3057;&#x3064;&#x304F;&#x3059;</ind>]</trd>,
+    <trd>&#x5341;&#x5206;&#x306B;&#x8A66;&#x9A13;&#x3059;&#x308B;  [<ind>&#x3058;&#x3085;&#x3046;&#x3076;&#x3093;&#x306B;&#x3057;&#x3051;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">toetsen</trd>
+  <trdgrp lng="pl">
+    <trd>wypr&oacute;bowa&cacute;</trd>,
+    <trd>testowa&cacute;</trd>
+  </trdgrp>
   <trd lng="ru">&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">vysk&uacute;&scaron;a&tcaron;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_p;&c_r;&c_o;&c_b;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="prov.el0o">
@@ -1182,11 +1384,17 @@
     <trd>pr&oacute;bat&eacute;tel</trd>,
     <trd>megpr&oacute;b&aacute;ltat&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wypr&oacute;bowanie</trd>,
+    <trd>testowanie</trd>,
+    <trd>pr&oacute;ba</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_v;&c_je;&c_r;&c_k;&c_a;</trd>,
     <trd>&c_t;&c_je;&c_s;&c_t;</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&c_p;&c_r;&c_o;&c_b;&c_o;&c_v;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="prov.el0igxi">
@@ -1215,14 +1423,16 @@
     <trd>probarse</trd>
   </trdgrp>
   <trdgrp lng="fr">
-    <trd>&ecirc;tre <ind>&eacute;prouv&eacute;</ind><klr tip="ind"> 
+    <trd>&ecirc;tre <ind>&eacute;prouv&eacute;</ind><klr tip="ind">
     (&ecirc;tre mis &agrave; l'&eacute;preuve)</klr></trd>,
-    <trd>faire l'&eacute;preuve<klr tip="ind"> 
+    <trd>faire l'&eacute;preuve<klr tip="ind">
     (&ecirc;tre &eacute;prouv&eacute;)</klr></trd>
   </trdgrp>
-  <trd lng="hu">
-  megpr&oacute;b&aacute;ltat&aacute;snak van kit&eacute;ve
-  </trd>
+  <trd lng="hu">megpr&oacute;b&aacute;ltat&aacute;snak van kit&eacute;ve</trd>
+  <trdgrp lng="pl">
+    <trd>by&cacute; wypr&oacute;bowanym</trd>,
+    <trd>przetestowa&cacute;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="prov.el0ita">
@@ -1265,6 +1475,7 @@
     <trd>&c_i;&c_z;&c_p;&c_r;&c_o;&c_b;&c_v;&c_a;&c_n;</trd>,
     <trd>&c_i;&c_z;&c_p;&c_i;&c_t;&c_a;&c_n;</trd>
   </trdgrp>
+  <trd lng="de">erprobt</trd>
   <trdgrp lng="es">
     <trd>probado</trd>,
     <trd>experimentado</trd>
@@ -1280,7 +1491,16 @@
     <trd>kipr&oacute;b&aacute;lt</trd>,
     <trd>bev&aacute;lt</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8A66;&#x3057;&#x5C3D;&#x304F;&#x3055;&#x308C;&#x305F;  [<ind>&#x305F;&#x3081;&#x3057;&#x3064;&#x304F;&#x3055;&#x308C;&#x305F;</ind>]</trd>,
+    <trd>&#x5341;&#x5206;&#x8A66;&#x9A13;&#x6E08;&#x307F;&#x306E;  [<ind>&#x3058;&#x3085;&#x3046;&#x3076;&#x3093;&#x3057;&#x3051;&#x3093;&#x3059;&#x307F;&#x306E;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wypr&oacute;bowany</trd>,
+    <trd>przetestowany</trd>
+  </trdgrp>
   <trd lng="ru">&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="uk">&c_v;&c_i;&c_p;&c_r;&c_o;&c_b;&c_u;&c_v;&c_a;&c_n;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="prov.re0i">
@@ -1295,22 +1515,25 @@
         <fnt><bib>UrdHadda</bib>, <lok>p. 22a</lok></fnt>;
       </ekz>
       <ekz>
-        se vokata numero estas okupita, a&ubreve; ne respondas, poste mi povas re<tld/>i per
+        se vokata numero estas okupita, a&ubreve; ne respondas, poste mi povas
+        re<tld/>i per
         unu klavopremo sen memori la numeron
-        <fnt>
+         <fnt>
+          <aut>Will Green</aut>
+          <vrk><url ref="&Monato;/1994/A940103.php">Will Green kondukas vin tra sia telefona
+          labirinto</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato1/monato-9401-telefona-labirinto.txt"
-              >Will Green kondukas vin tra sia</url></vrk>
+          <lok>1994/01, p. 13</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la plej multaj spamsendiloj estas simplaj programoj, kiuj sendas multajn
+        la plej multaj spamsendiloj estas simplaj programoj, kiuj sendas
+        multajn
         mesa&gcirc;ojn kaj ne zorgas re<tld/>i
         <fnt>
           <bib>Monato</bib>
           <aut>Franck Arnaud</aut>
-          <vrk><url ref="https://www.monato.be/2003/008177.html"
-              >Kia solvo por rubpo&scirc;to?</url></vrk>
+          <vrk><url ref="&Monato;/2003/008177.html">Kia solvo por rubpo&scirc;to?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -1335,8 +1558,11 @@
     <trd>&uacute;jrap&oacute;rb&aacute;l</trd>,
     <trd>&uacute;jrapr&oacute;b&aacute;lkozik</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_p;&c_o;&c_p;&c_r;&c_o;&c_b;&c_o;&c_v;&c_a;&c_t;&c_mol;
+  <trdgrp lng="pl">
+    <trd>ponownie  <ind>przetestowa&cacute;</ind></trd>,
+    <trd>powt&oacute;rnie  <ind>pr&oacute;bowa&cacute;</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_r;&c_o;&c_b;&c_o;&c_v;&c_a;&c_t;&c_mol;
   &c_je;&c_shch;&c_jo; &c_r;&c_a;&c_z;</trd>
 </drv>
 
@@ -1345,141 +1571,25 @@
   <fnt><bib>PIV1</bib></fnt>
   <snc mrk="prov.kontraux0o.KOMUNE">
     <dif>
-      Nova kontrola <tld/>o de io.
+      Nova alimetoda <tld/>o de io por ekskludi erarojn dum
+      la unua provo.
     </dif>
   </snc>
-  <adm>
-    Senco ne klara. Kiel la senco rezultas el analizo
-    de la vorteroj? Mi imagas, ke post unua provo
-    (pritakso de la ta&ubreve;geco), oni almetas al esploro
-    la manieron, la&ubreve; kiu esti efiktivigita tiu pritakso,
-    kun la implicita ideo, ke se la unua pritaksado
-    montri&gcirc;os neta&ubreve;ga, oni nuligos &gcirc;ian rezulton
-    (kio pravigas la uzon de "kontra&ubreve;").
-    <aut>MB</aut>
-  </adm>
   <trdgrp lng="bg">
     <trd>&c_k;&c_o;&c_n;&c_t;&c_r;&c_o;&c_l;&c_n;&c_a; &c_p;&c_r;&c_o;&c_b;&c_a;</trd>,
     <trd>&c_k;&c_o;&c_n;&c_t;&c_r;&c_o;&c_l;&c_je;&c_n; &c_o;&c_p;&c_i;&c_t;</trd>
   </trdgrp>
+  <trd lng="de">Gegenprobe</trd>
   <trdgrp lng="es">
     <trd>prueba de control</trd>,
     <trd>contraprueba</trd>
   </trdgrp>
   <trd lng="fr">contre-&eacute;preuve</trd>
   <trd lng="hu">ellenpr&oacute;ba</trd>
-  <trd
-  lng="ru">&c_k;&c_o;&c_n;&c_t;&c_r;&c_o;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <trd lng="pl">nowa  <ind>pr&oacute;ba</ind>  kontrolna</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_t;&c_r;&c_o;&c_l;&c_mol;&c_n;&c_o;&c_je;
   &c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
-</drv>
-
-<drv mrk="prov.pres0ajxo">
-  <kap>pres<tld/>a&jcirc;o</kap>
-  <snc mrk="prov.pres0ajxo.TIP">
-    <uzo tip="fak">TIP</uzo>
-    <dif>
-      Presita folio, sur kiu la verkistoj a&ubreve; korektistoj indikas
-      la &gcirc;ustigota&jcirc;ojn a&ubreve; &scirc;an&gcirc;ota&jcirc;ojn:
-      <ekz>
-        dum du monatoj pres<tld/>a&jcirc;oj atendadis &ccirc;e la cenzuristo
-        <fnt>
-          <bib>VivZam</bib>
-        </fnt>;
-      </ekz>
-      <ekz>
-        pres<tld/>a&jcirc;on de la raporto &scirc;i ricevis post monato
-        <fnt>
-        <aut>Valentina &Jcirc;uravlova, trad J. Finkel</aut>
-        <vrk>Aventuro</vrk>
-        <lok><url
-        ref="http://www.esperanto..mv.ru/TRIZ/aventuro.html">
-        http://www.esperanto.mv.ru/TRIZ/aventuro.html</url></lok></fnt>;
-      </ekz>
-      <ekz>
-        <klr>[&scirc;i]</klr> estis en la apartamento de la 90-jara
-        profesoro,
-        &gcirc;is tagmeze priparolante la korektojn en la
-        pres<tld/>a&jcirc;o
-        de Dekamerono
-        <fnt><bib>LOdE</bib>, <lok><url
-        ref="http://ttt.esperanto.org/Ondo/H-waring.htm">2001:6(80)
-        </url></lok></fnt>.
-      </ekz>
-    </dif>
-    <refgrp tip="vid">
-      <ref cel="kopi">kopio</ref>
-    </refgrp>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_k;&c_a;&c_r;&c_e;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
-    <trd>&c_g;&c_r;&c_a;&c_n;&c_k;&c_a;</trd>
-  </trdgrp>
-  <trdgrp lng="es">
-    <trd>borrador</trd>,
-    <trd>galerada</trd>,
-    <trd>hoja de prueba</trd>
-  </trdgrp>
-  <trd lng="fr">&eacute;preuve<klr tip="ind"> (typo.)</klr></trd>
-  <trdgrp lng="hu">
-    <trd>kefelevonat</trd>,
-    <trd>korrekt&uacute;ra</trd>
-  </trdgrp>
-  <trdgrp lng="nl">
-    <trd>zetproef</trd>,
-    <trd>drukproef</trd>
-  </trdgrp>
-  <trdgrp lng="ru">
-    <trd>&c_k;&c_o;&c_r;&c_r;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
-    <trd>&c_g;&c_r;&c_a;&c_n;&c_k;&c_i;</trd>
-  </trdgrp>
-</drv>
-
-<drv mrk="prov.0cele">
-  <kap><tld/>cele</kap>
-  <snc mrk="prov.0cele.KOMUNE">
-    <dif>
-      Por fari <tld/>on:
-      <ekz>
-        ni <tld/>cele portis <klr>[la &scirc;uojn]</klr> jam
-        dum 15 km longa mar&scirc;ado, sen ekhavi problemojn
-        <fnt>
-          <aut>Rudolf Fischer</aut>
-          <vrk><url ref="https://rudolf-josef-fischer.de/pilgerseiten/paklist-o.html"
-              >Mia paklisto por la Jakoba Vojo al Santiago de Compostela</url></vrk>
-        </fnt>;
-      </ekz>
-      <ekz>
-        komence nur du a&ubreve; tri scenoj estis prezentitaj <tld/>cele
-        <fnt>
-          <vrk><url ref="http://arnolag.free.fr/Krizalid/Andromaka.php"
-              >Andromaka de Jean Racine</url></vrk>
-        </fnt>.
-      </ekz>
-    </dif>
-    <trdgrp lng="be">
-      <trd>&c_n;&c_a; <ind>&c_s;&c_p;&c_r;&c_o;&c_b;&c_u;</ind></trd>,
-      <trd>&c_d;&c_l;&c_ja; <ind>&c_s;&c_p;&c_r;&c_o;&c_b;&c_y;</ind>
-      </trd>
-    </trdgrp>
-  </snc>
-  <trd lng="bg">&c_z;&c_a; &c_p;&c_r;&c_o;&c_b;&c_a;</trd>
-  <trdgrp lng="de">
-    <trd>zum Probieren</trd>,
-    <trd>testweise</trd>
-  </trdgrp>
-  <trdgrp lng="es">
-    <trd>a t&iacute;tulo <ind>experimental</ind></trd>,
-    <trd>para <ind>probar</ind></trd>
-  </trdgrp>
-  <trdgrp lng="fr">
-    <trd>&agrave; titre <ind>exp&eacute;rimental</ind></trd>,
-    <trd>pour <ind>essayer</ind></trd>
-  </trdgrp>
-  <trd lng="hu">pr&oacute;bak&eacute;ppen</trd>
-  <trdgrp lng="ru">
-    <trd>&c_n;&c_a; <ind>&c_p;&c_r;&c_o;&c_b;&c_u;</ind></trd>,
-    <trd>&c_d;&c_l;&c_ja; <ind>&c_p;&c_r;&c_o;&c_b;&c_y;</ind></trd>
-  </trdgrp>
+  <trd lng="uk">&c_p;&c_o;&c_v;&c_t;&c_o;&c_r;&c_n;&c_a; &c_s;&c_p;&c_r;&c_o;&c_b;&c_a;</trd>
 </drv>
 
 <drv mrk="prov.sur0i">
@@ -1509,51 +1619,237 @@
   <trd lng="es">probarse<klr tip="ind"> (una prenda)</klr></trd>
   <trd lng="fr">essayer<klr tip="ind"> (un v&ecirc;tement)</klr></trd>
   <trd lng="hu">felpr&oacute;b&aacute;l</trd>
+  <trd lng="ja">&#x8A66;&#x7740;&#x3059;&#x308B;  [<ind>&#x3057;&#x3061;&#x3083;&#x304F;&#x3059;&#x308B;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>przymierza&cacute;</trd>,
+    <trd>pr&oacute;bowa&cacute; na sobie</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_m;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_m;&c_je;&c_r;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">sk&uacute;&scaron;a&tcaron; <klr>(&scaron;aty)</klr></trd>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_m;&c_ib;&c_r;&c_ja;&c_t;&c_i;</trd>
 </drv>
-<rim>
-  La radiko <ctl><tld/></ctl> aperas en pluraj aliaj kunmeta&jcirc;oj,
-  kiel ekzemple en:
-  <ekz>
+
+<drv mrk="prov.diven0e">
+  <kap>
+    diven<tld/>e
+  </kap>
+  <snc>
+    <dif>
+      Esperante je &gcirc;usta <ref cel="diven.0i">divenado</ref>;
+      <ref tip="dif" cel="traf.0emal0e">trafe-maltrafe</ref>:
+      <ekz>
+        mi adresos diven<tld/>e strato Po&scirc;toficeja
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto kvara</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu vorto havas en la vortaro multe da signifoj, el kiuj oni devas diven<tld/>e
+        elekti la &gcirc;ustan
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diven<tld/>e oni telefonis al la Komisiono pri Beletro
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 5a, p. 49a</lok></fnt>.
+      </ekz>
+    </dif>
     <refgrp tip="vid">
-      <ref cel="diven.0prove">diven<tld/>e</ref>,
-      <ref cel="balon.prov0o"><tld/>balono</ref>,
-      <ref cel="edz.prov0igxo"><tld/>edzi&gcirc;o</ref>,
-      <ref cel="ekzemp1.prov0o"><tld/>ekzemplero</ref>,
-      <ref cel="jar.prov0o"><tld/>jaro</ref>,
-      <ref cel="leg.prov0i"><tld/>legi</ref>,
-      <ref cel="lud.prov0i"><tld/>ludi</ref>,
-      <ref cel="numer.prov0o"><tld/>numero</ref>,
-      <ref cel="temp.prov0o"><tld/>tempo</ref>,
-      <ref cel="tub.prov0o"><tld/>tubo</ref>
+      <ref cel="arbitr.0a">arbitra</ref>,
+      <ref cel="hazard.0a">hazarda</ref>
     </refgrp>
-  </ekz>
-</rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_w;&c_g;&c_a;&c_d;</trd>,
+    <trd>&c_n;&c_a;&c_w;&c_d;&c_a;&c_l;&c_u;&c_ju;</trd>,
+    <trd>&c_n;&c_a;&c_w;&c_d;&c_a;&c_ch;&c_u;</trd>
+  </trdgrp>
+  <trd lng="cs">nam&aacute;tkou</trd>
+  <trdgrp lng="de">
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>auf gut <ind>Gl&uuml;ck</ind></trd>,
+    <trd>willk&uuml;rlich</trd>,
+    <trd>stichprobenartig</trd>,
+    <trd>versuchshalber</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>by <ind>chance</ind></trd>,
+    <trd>guessing</trd>,
+    <trd>haphazardly</trd>,
+    <trd>randomly</trd>,
+    <trd>arbitrarily</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&agrave; tout hasard</trd>,
+    <trd>au <ind>hasard</ind></trd>
+  </trdgrp>
+  <trd lng="hu">tal&aacute;lomra</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C71;&#x52D8;&#x3067;  [<ind>&#x3084;&#x307E;&#x304B;&#x3093;&#x3067;</ind>]</trd>,
+    <trd>&#x3042;&#x3066;&#x305A;&#x3063;&#x307D;&#x3046;&#x3067;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>na <ind>chybi&lstroke;-trafi&lstroke;</ind></trd>,
+    <trd>licz&aogonek;c na &lstroke;ut  <ind>szcz&eogonek;&sacute;cia</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_u;&c_g;&c_a;&c_d;</trd>
+  <trd lng="sk">naver&iacute;mboha</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_a;&c_z;&c_d;&#x43E;&c_g;&c_a;&c_d;</trd>,
+    <trd>&#x43D;&c_a;&c_u;&c_g;&c_a;&c_d;</trd>,
+    <trd>&#x43D;&c_a;&c_v;&#x43C;&c_a;&#x43D;&#x43D;&#x44F;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="prov.pres0ajxo">
+  <kap>pres<tld/>a&jcirc;o</kap>
+  <snc mrk="prov.pres0ajxo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Presita folio, sur kiu la verkistoj a&ubreve; korektistoj indikas
+      la &gcirc;ustigota&jcirc;ojn a&ubreve; &scirc;an&gcirc;ota&jcirc;ojn:
+      <ekz>
+        dum du monatoj pres<tld/>a&jcirc;oj atendadis &ccirc;e la cenzuristo
+        <fnt>
+          <bib>VivZam</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pres<tld/>a&jcirc;on de la raporto &scirc;i ricevis post monato
+        <fnt>
+        <aut>Valentina &Jcirc;uravlova, trad J. Finkel</aut>
+        <vrk>Aventuro</vrk>
+        <lok><url ref="http://www.esperanto..mv.ru/TRIZ/aventuro.html">
+        http://www.esperanto.mv.ru/TRIZ/aventuro.html</url></lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> estis en la apartamento de la 90-jara
+        profesoro,
+        &gcirc;is tagmeze priparolante la korektojn en la
+        pres<tld/>a&jcirc;o
+        de Dekamerono
+        <fnt><bib>LOdE</bib>,
+        <lok><url ref="&LOdE;H-waring.htm">2001:6(80)</url></lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kopi">kopio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_e;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">Probedruck</trd>
+  <trdgrp lng="es">
+    <trd>borrador</trd>,
+    <trd>galerada</trd>,
+    <trd>hoja de prueba</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;preuve<klr tip="ind"> (typo.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>kefelevonat</trd>,
+    <trd>korrekt&uacute;ra</trd>
+  </trdgrp>
+  <trd lng="ja">&#x6821;&#x6B63;&#x5237;  [<ind>&#x3053;&#x3046;&#x305B;&#x3044;&#x305A;&#x308A;</ind>]</trd>
+  <trdgrp lng="nl">
+    <trd>zetproef</trd>,
+    <trd>drukproef</trd>
+  </trdgrp>
+  <trd lng="pl">wydruk  <ind>pr&oacute;bny</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_r;&c_r;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_k;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_r;&c_je;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_b;&c_n;&c_i;&c_j; &c_v;&c_ib;&c_d;&c_b;&c_i;&c_t;&c_o;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="prov.0cele">
+  <kap><tld/>cele</kap>
+  <snc mrk="prov.0cele.KOMUNE">
+    <dif>
+      Por fari <tld/>on:
+      <ekz>
+        ni <tld/>cele portis <klr>[la &scirc;uojn]</klr> jam
+        dum 15 km longa mar&scirc;ado, sen ekhavi problemojn
+        <fnt>
+          <aut>Rudolf Fischer</aut>
+          <vrk><url ref="https://rudolf-josef-fischer.de/pilgerseiten/paklist-o.html">Mia paklisto
+          por la Jakoba Vojo al Santiago de
+              Compostela</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        komence nur du a&ubreve; tri scenoj estis prezentitaj <tld/>cele
+        <fnt>
+          <vrk><url ref="http://arnolag.free.fr/Krizalid/Andromaka.php">Andromaka de Jean
+          Racine</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a; <ind>&c_s;&c_p;&c_r;&c_o;&c_b;&c_u;</ind></trd>,
+      <trd>&c_d;&c_l;&c_ja; <ind>&c_s;&c_p;&c_r;&c_o;&c_b;&c_y;</ind>
+      </trd>
+    </trdgrp>
+  </snc>
+  <trd lng="bg">&c_z;&c_a; &c_p;&c_r;&c_o;&c_b;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>zum Probieren</trd>,
+    <trd>testweise</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>a t&iacute;tulo <ind>experimental</ind></trd>,
+    <trd>para <ind>probar</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&agrave; titre <ind>exp&eacute;rimental</ind></trd>,
+    <trd>pour <ind>essayer</ind></trd>
+  </trdgrp>
+  <trd lng="hu">pr&oacute;bak&eacute;ppen</trd>
+  <trdgrp lng="pl">
+    <trd>na  <ind>pr&oacute;b&eogonek;</ind></trd>,
+    <trd>tytu&lstroke;em  <ind>pr&oacute;by</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a; <ind>&c_p;&c_r;&c_o;&c_b;&c_u;</ind></trd>,
+    <trd>&c_d;&c_l;&c_ja; <ind>&c_p;&c_r;&c_o;&c_b;&c_y;</ind></trd>
+  </trdgrp>
+</drv>
 </art>
 <!--
 $Log$
-Revision 1.32  2018/09/16 16:10:13  revo
-Guillermo Molleda Jimena: trd es
+versio 1.121 2023/08/29 16:33:48
+Wolfram Diestel: ja: prononco
 
-Revision 1.31  2018/08/24 15:15:13  revo
-kor. ecaron en la chehha
+versio 1.120 2023/04/12 15:27:31
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.30  2017/03/22 16:10:12  revo
-Lyubomir Vasilev: +trd bg
+versio 1.119 2023/04/07 22:27:04
+Vito Redsky: +trd pl
 
-Revision 1.29  2015/07/04 08:37:42  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.118 2023/03/13 07:23:46
+Wolfram Diestel: diven~e: +ekz/trdj el diven/
 
-Revision 1.28  2015/06/29 16:40:19  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.117 2023/03/12 09:23:52
+Wolfram Diestel: +diven~e; &scirc;ovis la artikolajn ref-ojn al ~o
 
-Revision 1.27  2015/02/25 10:10:15  revo
-Carlos Garcia: +trd es el-i el-igxi
+versio 1.116 2023/02/27 14:30:33
+Wolfram Diestel: ~o: +subsnc-mrk
 
-Revision 1.26  2007/11/19 17:31:32  revo
+versio 1.115 2023/02/18 21:25:12
+Ulrich Fellmann: provi: +3 pliaj DE trdj
+
+versio 1.114 2023/02/07 03:27:29
 -->
 </vortaro>

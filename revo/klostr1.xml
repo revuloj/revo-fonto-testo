@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: klostr1.xml,v 1.5 2010/05/15 16:31:05 revo Exp $">
+<art mrk="$Id: klostr1.xml,v 1.16 2023/09/01 15:07:14 revo Exp $">
   <kap>
     <rad>klostrofobi</rad>/o,
-    <var><kap><rad>kla&ubreve;strofobi</rad>/o</kap></var>
+    <var><kap><rad var="a&ubreve;">kla&ubreve;strofobi</rad>/o</kap></var>
   </kap>
 
 <drv mrk="klostr1.0o">
   <kap><tld/>o <fnt><bib>PIV1</bib><lok>klostro</lok></fnt>,
-    <var><kap>kla&ubreve;strofobio
+    <var><kap><tld var="a&ubreve;"/>o
     <fnt><bib>PV</bib><lok>kla&ubreve;stro</lok></fnt>
   </kap></var>
   </kap>
@@ -18,8 +17,7 @@
   
   <snc>
     <dif>
-      Mensa <ref tip="lst" cel="san.mal0o.MED"
-      lst="voko:malsanoj">malsano</ref>, karakterizata per timo esti
+      Mensa <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>, karakterizata per timo esti
       en fermita spaco:
       <ekz>
         la intrigo situas en <tld/>a kaj izolita vila&gcirc;eto en la &scirc;tato de
@@ -32,7 +30,7 @@
       </ekz>
       <ekz>
         Prago estas urbo malsimila al &ccirc;iu alia anka&ubreve; pro
-        &ccirc;i tiu obseda strangeco, pro iu sombra kla&ubreve;strofobio, kiun
+        &ccirc;i tiu obseda strangeco, pro iu sombra <tld var="a&ubreve;"/>o, kiun
         oni povas travivi kaj trasenti vagante meze de &gcirc;iaj
         konstrua&jcirc;oj, pro iu etoso de magia malespero, kiun ne
         povas mildigi la baroka beleco de &gcirc;ia pejza&gcirc;o
@@ -40,15 +38,14 @@
           <aut>Mauro Nervi</aut>:
           <vrk>Kafka en Prago. Kiel oni vivas en ka&gcirc;o sen
             kradoj</vrk>.
-          <lok><url ref="http://uea.org/kongresoj/1996/kafka.html"
-              >IKU 1996, Prago</url></lok>
+          <lok><url ref="&UEA;kongresoj/1996/kafka.html">IKU 1996, Prago</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="ant" cel="agoraf.0o">agorafobio</ref>
+    <ref tip="vid" cel="fobi.0o">fobio</ref>
   </snc>
-  <trd
-lng="be">&c_k;&c_l;&c_ja;&c_w;&c_s;&c_t;&c_r;&c_a;&c_f;&c_o;&c_b;&c_ib;&c_ja;</trd>
+  <trd lng="be">&c_k;&c_l;&c_ja;&c_w;&c_s;&c_t;&c_r;&c_a;&c_f;&c_o;&c_b;&c_ib;&c_ja;</trd>
   <trd lng="ca">claustrof&ograve;bia</trd>
   <trdgrp lng="de">
     <trd>Klaustrofobie</trd>,
@@ -63,17 +60,28 @@ lng="be">&c_k;&c_l;&c_ja;&c_w;&c_s;&c_t;&c_r;&c_a;&c_f;&c_o;&c_b;&c_ib;&c_ja;</t
     <trd>klausztrof&oacute;bia</trd>
   </trdgrp>
   <trd lng="id">klaustrofobia</trd>
+  <trd lng="ja">&#x9589;&#x6240;&#x6050;&#x6016;&#x75C7;  [<ind>&#x3078;&#x3044;&#x3057;&#x3087;&#x304D;&#x3087;&#x3046;&#x3075;&#x3057;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="nl">claustrofobie</trd>
   <trd lng="pl">klaustrofobia</trd>     
   <trd lng="ro">claustrofobie</trd>
   <trd lng="ru">&c_k;&c_l;&c_a;&c_u;&c_s;&c_t;&c_r;&c_o;&c_f;&c_o;&c_b;&c_i;&c_ja;</trd>
   <trd lng="sk">klaustrof&oacute;bia</trd>
   <trd lng="cs">klaustrofobie</trd>
+  <trd lng="uk">&#x43A;&#x43B;&#x430;&#x443;&#x441;&#x442;&#x440;&#x43E;&#x444;&#x43E;&#x431;&#x456;&#x44F; (&#x43D;&#x430;&#x432;&#x2019;&#x44F;&#x437;&#x43B;&#x438;&#x432;&#x438;&#x439; &#x441;&#x442;&#x440;&#x430;&#x445; &#x437;&#x430;&#x43A;&#x440;&#x438;&#x442;&#x438;&#x445; &#x43F;&#x440;&#x438;&#x43C;&#x456;&#x449;&#x435;&#x43D;&#x44C;)</trd>
 </drv>
   </art>
 
   <!--
   $Log$
+versio 1.15 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
+versio 1.13 2021/10/27 05:28:00
+Wolfram Diestel: +ref
+
+versio 1.12 2020/09/09 06:10:34
+Wolfram Diestel: +tld-var
+
   Revision 1.10  2018/12/16 17:10:17  revo
   Wolfram Diestel: +var, +ekz
 
@@ -87,22 +95,5 @@ lng="be">&c_k;&c_l;&c_ja;&c_w;&c_s;&c_t;&c_r;&c_a;&c_f;&c_o;&c_b;&c_ib;&c_ja;</t
   Eko Nur Syah Hidayat: +trd id
 
   Revision 1.6  2013/10/09 18:10:29  revo
-  Wolfram Diestel: ref al lst malsanoj
-
-  Revision 1.5  2010/05/15 16:31:05  revo
-  Behnam Tabatabai: +trd fa
-
-  Revision 1.4  2005/04/26 16:33:09  revo
-  Raul Salinas Monteagudo: +trd ca,es
-
-  Revision 1.3  2004/12/24 17:30:56  revo
-  Sergio Pokrovskij: TEZ
-
-  Revision 1.2  2004/12/22 17:30:57  revo
-  Marc Bavant: +trd fr
-
-  Revision 1.1  2004/12/18 19:20:53  revo
-  Marc Bavant: nova artikolo
-
-  -->
+-->
 </vortaro>

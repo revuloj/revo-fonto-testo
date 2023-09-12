@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: escept.xml,v 1.18 2010/03/03 17:30:40 revo Exp $">
+<art mrk="$Id: escept.xml,v 1.28 2023/09/01 18:29:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>escept</rad>/i <fnt><bib>PV</bib></fnt>
@@ -26,7 +25,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        nenio en la mondo, <tld/>inte nur ne&gcirc;on, povis superi per blankeco la &ccirc;emizojn <klr>[...]</klr> sur iliaj brustoj
+        nenio en la mondo, <tld/>inte nur ne&gcirc;on, povis superi per blankeco la &ccirc;emizojn
+        <klr>[...]</klr> sur iliaj brustoj
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -89,6 +89,10 @@
     <trd>kiz&aacute;r <klr tip="ind">(vmib&odblac;l)</klr></trd>,
     <trd>kivesz <klr tip="ind">(&aacute;tv.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#38500;&#22806;&#12377;&#x308B;  [<ind>&#12376;&#12423;&#x304C;&#12356;&#12377;&#x308B;</ind>]</trd>,
+    <trd>&#x4F8B;&#22806;&#12392;&#12377;&#x308B;  [<ind>&#x308C;&#12356;&#x304C;&#12356;&#12392;&#12377;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>wyklucza&cacute;</trd>,
     <trd>wy&lstroke;&aogonek;cza&cacute;<klr> (z jakiej&sacute;
@@ -104,6 +108,10 @@
   <trdgrp lng="cs">
     <trd>vyjmout</trd>,
     <trd>vyj&iacute;mat</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43A;&#x43B;&#x44E;&c_ch;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &c_v;&c_i;&#x43D;&#x44F;&c_t;&#x43E;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -152,34 +160,43 @@
       <ekz>
         la skolastikuloj havis negativan sintenon al interezo, kun kelkaj <tld/>oj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007279.html'>Anta&ubreve;merkantilisma ekonomia pensado</url></vrk>
-        </fnt>;
-      </ekz>
+            <aut>Bo Sandelin</aut>
+            <vrk><url ref="&Monato;/2001/007279.php">Anta&ubreve;merkantilisma
+            ekonomia pensado</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/02, p. 16</lok>
+          </fnt>;
+                </ekz>
       <ekz>
         simpla lingvo ne povas havi <tld/>ojn, la angla havas 165 neregulajn verbojn
         <fnt>
+          <aut>Gilbert Ledon</aut>
+          <vrk><url ref="&Monato;/2000/007089.php">&Ccirc;u ni mortu miskomprene?</url></vrk>
           <bib>Monato</bib>
-          <lok><url>http://www.esperanto.be/fel/mon/007089.html</url></lok>
+          <lok>2000/08, p. 5</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">v&yacute;jimka</trd>
   <trd lng="de">Ausnahme</trd>
   <trd lng="es">excepci&oacute;n</trd>
   <trd lng="fr">exception</trd>
+  <trd lng="he">&#x5D9;&#x5D5;&#x5E6;&#x5D0; &#x5DE;&#x5DF; &#x5D4;&#x5DB;&#x5DC;&#x5DC;</trd>
   <trd lng="hu">kiv&eacute;tel</trd>
+  <trdgrp lng="ja">
+    <trd>&#38500;&#22806;  [<ind>&#12376;&#12423;&#x304C;&#12356;</ind>]</trd>,
+    <trd>&#x4F8B;&#22806;  [<ind>&#x308C;&#12356;&#x304C;&#12356;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>wyj&aogonek;tek</trd>,
     <trd>wykluczenie</trd>
   </trdgrp>
   <trd lng="pt">exce&ccedil;&atilde;o</trd>
-  <trd
-  lng="ru">&c_i;&c_s;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="ru">&c_i;&c_s;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">v&yacute;nimka</trd>
+  <trd lng="uk">&c_v;&c_i;&#x43D;&#x44F;&c_t;&#x43E;&#x43A;</trd>
 </drv>
 
 <drv mrk="escept.0a">
@@ -201,14 +218,16 @@
         </fnt>;
       </ekz>
       <ekz>
-        dank' al la <tld/>a zorgemo de la pastroj, <klr>[la mumo]</klr> estas provizita per &ccirc;iuj amuletoj, pre&gcirc;oj, konsiloj kaj &jcirc;uroj
+        dank' al la <tld/>a zorgemo de la pastroj, <klr>[la mumo]</klr> estas provizita per &ccirc;iuj
+        amuletoj, pre&gcirc;oj, konsiloj kaj &jcirc;uroj
         <fnt>
           <bib>Far3</bib>
           <lok>&Ccirc;apitro IX</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la&ubreve; nia regularo, pastrino en tre <tld/>aj okazoj povas fari&gcirc;i edzino, sed nur de viro de re&gcirc;a sango
+        la&ubreve; nia regularo, pastrino en tre <tld/>aj okazoj povas fari&gcirc;i edzino, sed nur de viro de
+        re&gcirc;a sango
         <fnt>
           <bib>Far2</bib>
           <lok>&Ccirc;apitro IX</lok>
@@ -223,11 +242,13 @@
   </trdgrp>
   <trd lng="de">au&szlig;ergew&ouml;hnlich</trd>
   <trd lng="fr">exceptionnel</trd>
+  <trd lng="he">&#x5D9;&#x5D5;&#x5E6;&#x5D0; &#x5DE;&#x5DF; &#x5D4;&#x5DB;&#x5DC;&#x5DC;</trd>
   <trd lng="hu">kiv&eacute;teles</trd>
+  <trd lng="ja">&#x4F8B;&#22806;&#30340;&#x306A;  [<ind>&#x308C;&#12356;&#x304C;&#12356;&#12390;&#x304D;&#x306A;</ind>]</trd>
   <trd lng="pl">wyj&aogonek;tkowy</trd>
-  <trd
-  lng="ru">&c_i;&c_s;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="ru">&c_i;&c_s;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">v&yacute;nimo&ccaron;n&yacute;</trd>
+  <trd lng="uk">&c_v;&c_i;&#x43D;&#x44F;&c_t;&#x43A;&#x43E;&c_v;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="escept.0e">
@@ -237,14 +258,14 @@
     <dif>
       En <tld/>a maniero; per, pro <tld/>o.
     </dif>
+     <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_n;&c_a;</trd>
     <trd lng="fr">exceptionnellement</trd>
-    <trd lng="hu">kiv&eacute;telesen</trd>    
+    <trd lng="hu">kiv&eacute;telesen</trd>
     <trdgrp lng="pl">
       <trd>wyj&aogonek;tkowo</trd>,
       <trd>wy&lstroke;&aogonek;cznie</trd>
     </trdgrp>
-    <trd
-    lng="ru">&c_i;&c_s;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>
+    <trd lng="ru">&c_i;&c_s;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>
   </snc>
   <snc mrk="escept.0e.tr">
     <gra><vspec>tr</vspec></gra>
@@ -259,19 +280,31 @@
         <klr>...</klr> &ndash; estas eminenta
         <fnt><aut>Janos Sark&ouml;zi</aut>: <vrk>Kompreno pri manekeno
         (Gilbert
-        R. Ledon, Manekenoj kaj ni)</vrk>, <bib>Monato</bib>, <lok>jaro
-        1997a, numero 9a, p. 21a</lok></fnt>.
+        R. Ledon, Manekenoj kaj ni)</vrk> <bib>Monato</bib>
+        <lok>
+    1997/09, p. 21</lok></fnt>.
       </ekz>
+     <trdgrp lng="be">
+        <trd>&c_z;&c_a; <ind>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;&c_m;</ind></trd>,
+        <trd>&c_a;&c_k;&c_r;&c_a;&c_m;&c_ja;</trd>
+     </trdgrp>
     </dif>
   </snc>
   <trdgrp lng="cs">
     <trd>ve vyn&iacute;me&ccaron;n&yacute;ch p&rcaron;&iacute;padech</trd>,
     <trd>vyn&iacute;me&ccaron;n&ecaron;</trd>
   </trdgrp>
+  <trd lng="he">&#x5D1;&#x5D0;&#x5D5;&#x5E4;&#x5DF; &#x5D1;&#x5DC;&#x5EA;&#x5D9;
+  &#x5E8;&#x5D2;&#x5D9;&#x5DC;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4F8B;&#22806;&#30340;&#x306B;  [<ind>&#x308C;&#12356;&#x304C;&#12356;&#12390;&#x304D;&#x306B;</ind>]</trd>,
+    <trd>&#12418;&#12387;&#12401;&#12425;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>vyjm&uacute;c</trd>,
     <trd>v&yacute;nimo&ccaron;ne</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&c_a; &c_v;&c_i;&#x43D;&#x44F;&c_t;&#x43A;&#x43E;&#x43C;</trd>
 </drv>
 
 <drv mrk="escept.0ede">
@@ -292,9 +325,9 @@
         de la
         grandlingvaj
         <fnt><aut>Reinhard F&ouml;&szlig;meier</aut>: <vrk>La merkato de
-        lingvoj</vrk>, <bib>Monato</bib>, <lok>jaro 1997a, numero 11a,
+        lingvoj</vrk>, <bib>Monato</bib>, <lok>1997/11,
         p.
-        22a</lok></fnt>.
+        22</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
@@ -302,8 +335,7 @@
     </refgrp>
   </snc>
   <trdgrp lng="be">
-    <trd>&c_z;&c_a;
-    <ind>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;&c_m;</ind></trd>,
+    <trd>&c_z;&c_a; <ind>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;&c_m;</ind></trd>,
     <trd>&c_a;&c_k;&c_r;&c_a;&c_m;&c_ja;</trd>
   </trdgrp>
   <trdgrp lng="cs">
@@ -319,6 +351,10 @@
     <trd>sauf</trd>
   </trdgrp>
   <trd lng="hu">kiv&eacute;ve vkit/vmit</trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#12434;&#38500;&#12356;&#12390;  [&#xFF5E;<ind>&#12434;&#x306E;&#x305E;&#12356;&#12390;</ind>]</trd>,
+    <trd>&#xFF5E;<ind>&#x306E;&#x307B;&#x304B;&#x306F;</ind></trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>opr&oacute;cz</trd>,
     <trd>poza<klr> (jak&aogonek;&sacute; grup&aogonek;)</klr></trd>
@@ -341,10 +377,13 @@
         mi venos, <tld/>e se pluvos;
       </ekz>
       <ekz>
-        &leftquot;nepre al iu&rightquot; diris la Re&gcirc;o &leftquot;<tld/>e se &gcirc;i estas skribita al Neniu, kaj ordinare oni ne skribas al li.&rightquot;
+        &leftquot;nepre al iu&rightquot; diris la Re&gcirc;o &leftquot;<tld/>e se &gcirc;i estas skribita al Neniu, kaj ordinare oni ne
+        skribas al li.&rightquot;
         <fnt>
           <aut>Lewis Carroll, trad. E. L. Kearney</aut>
-          <vrk><url ref='https://eo.wikisource.org/wiki/La_Aventuroj_de_Alicio_en_Mirlando/%C4%88apitro_12'>La Aventuroj de Alicio en Mirlando</url></vrk>
+          <vrk><url
+          ref="https://eo.wikisource.org/wiki/La_Aventuroj_de_Alicio_en_Mirlando/%C4%88apitro_12">La
+          Aventuroj de Alicio en Mirlando</url></vrk>
           <lok>&Ccirc;apitro 12</lok>
         </fnt>.
       </ekz>
@@ -357,6 +396,10 @@
   <trdgrp lng="hu">
     <trd>kiv&eacute;ve, ha</trd>,
     <trd>hacsak nem</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#12377;&#x308B;&#22580;&#21512;&#12434;&#38500;&#12356;&#12390;  [&#xFF5E;<ind>&#12377;&#x308B;&#12400;&#12354;&#12356;&#12434;&#x306E;&#x305E;&#12356;&#12390;</ind>]</trd>,
+    <trd>&#xFF5E;<ind>&#12391;&#x306A;&#12369;&#x308C;&#12400;</ind></trd>
   </trdgrp>
   <trd lng="pl">chyba<klr> &zdot;e</klr></trd>
   <trd lng="ru">&c_je;&c_s;&c_l;&c_i; &c_t;&c_o;&c_l;&c_mol;&c_k;&c_o;
@@ -371,15 +414,22 @@
       <ekz>
         temas sen<tld/>e pri ne-germanaj viktimoj de naziaj abomena&jcirc;oj
         <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007110.html">Atentokapta sed
+          ru&gcirc;krajoninda</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007110.html'>Atentokapta sed ru&gcirc;krajoninda</url></vrk>
+          <lok>2001/01, p. 31</lok>
         </fnt>;
       </ekz>
       <ekz>
         sen<tld/>e, &ccirc;iu terpeco estas prilaborata de la kamparanoj, kiuj kultivas &ccirc;ion disponeblan
         <fnt>
+       <aut>Maryvonne kaj Bruno Robineau</aut>
+
+          <vrk><url ref="&Monato;/2000/006831.php">La&ubreve; ritmo de la
+          rizejoj</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/006831.html'>La&ubreve; ritmo de la rizejoj</url></vrk>
+          <lok>2000/02, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -388,14 +438,31 @@
   <trd lng="cs">bez v&yacute;jimky</trd>
   <trd lng="de">ausnahmslos</trd>
   <trd lng="fr">sans <ind>exception</ind></trd>
+  <trd lng="he">&#x5DC;&#x5DC;&#x5D0; &#x5D9;&#x5D5;&#x5E6;&#x5D0; &#x5DE;&#x5DF;
+  &#x5D4;&#x5DB;&#x5DC;&#x5DC;</trd>
   <trd lng="hu">kiv&eacute;tel n&eacute;lk&uuml;l</trd>
+  <trd lng="ja">&#x4F8B;&#22806;&#x306A;&#x304F;  [<ind>&#x308C;&#12356;&#x304C;&#12356;&#x306A;&#x304F;</ind>]</trd>
   <trd lng="pl">bez <ind>wyj&aogonek;tku</ind></trd>
   <trd lng="ru">&c_b;&c_je;&c_z; &c_i;&c_s;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_ja;</trd>
   <trd lng="sk">bez v&yacute;nimky</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z; &c_zh;&#x43E;&c_d;&#x43D;&c_i;&c_h; &c_v;&c_i;&#x43D;&#x44F;&c_t;&#x43A;&c_ib;&c_v;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_u;&#x43C;&#x43E;&c_v;&#x43D;&#x43E;</trd>,
+    <trd>&c_a;&c_b;&c_s;&#x43E;&#x43B;&#x44E;&c_t;&#x43D;&#x43E;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/09/01 18:29:16
+Wolfram Diestel: ja kor. ind
+
+versio 1.26 2023/04/04 12:46:22
+Paul Peeraerts: &Monato;
+
+versio 1.24 2021/07/22 11:26:29
+Dmitri Gabinski: + trd be
+
 Revision 1.21  2015/08/20 22:10:14  revo
 Jeromo Vasxe: + mrk
 
@@ -409,11 +476,5 @@ Revision 1.18  2010/03/03 17:30:40  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.17  2007/07/06 18:03:55  revo
-Tulio Flores: +tr pt
-
-Revision 1.16  2006/08/30 15:11:22  revo
-Tulio Flores: +tr pt
-
-Revision 1.15  2005/05/27 16:31:41  revo
 -->
 </vortaro>

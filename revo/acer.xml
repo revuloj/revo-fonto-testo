@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: acer.xml,v 1.34 2009/11/08 17:31:10 revo Exp $">
+<art mrk="$Id: acer.xml,v 1.42 2023/04/15 10:28:36 revo Exp $">
     <kap><ofc>*</ofc><rad>acer</rad>/o</kap>
 
 <drv mrk="acer.0o">
@@ -10,17 +9,20 @@
   <uzo tip="fak">BOT</uzo>
   <snc>
     <dif>
-      <ref tip="lst" cel="genr.0o.BIO"
-      lst="voko:botanikaj_genroj">Genro</ref> el familio 
+      <ref tip="lst" cel="genr.0o.BIO" lst="voko:botanikaj_genroj">Genro</ref> el familio 
       <ref tip="malprt" cel="acerac.0oj"><tld/>acoj</ref>
       (<trd lng="la">Acer</trd>), kun manforme entran&ccirc;itaj folioj
       kaj flugilhavaj fruktoj:
       <ekz>
-        mi komencis a&ccirc;eti belajn arbojn kaj plantis ilin en la herbaro: ekzemple <tld/>ojn kun bela &scirc;elo, &leftquot;plorantan&rightquot; fagon, pirarbon kaj pomujojn
+        mi komencis a&ccirc;eti belajn arbojn kaj plantis ilin en la herbaro:
+        ekzemple <tld/>ojn kun bela &scirc;elo, &leftquot;plorantan&rightquot; fagon, pirarbon
+        kaj pomujojn
         <fnt>
+          <aut>M&aacute;ire NicAoidh</aut>
+          <vrk><url ref="&Monato;/2000/006878.php">&Gcirc;ardenumi</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006878.html">Dommastrumo: &Gcirc;ardenumi</url></vrk>
-        </fnt>.
+          <lok>2000/04, p. 20</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -61,13 +63,15 @@
   <trd lng="es">arce</trd>
   <trd lng="fa">&a_A;&a_f;&a_r;&a_A;</trd>
   <trd lng="fr">&eacute;rable</trd>
+  <trd lng="he">&#x5E4;&#x5BC;&#x5B0;&#x5DC;&#x5B8;&#x5D3;&#x5B8;&#x5D4;</trd>
   <trdgrp lng="hu">
     <trd>juharfa</trd>,
     <trd>j&aacute;vorfa</trd>
   </trdgrp>
   <trd lng="hr">javor</trd>
+  <trd lng="id">mapel</trd>
   <trd lng="it">acero</trd>
-  <trd lng="ja">&#12459;&#12456;&#12487; [<ind>&#12363;&#12360;&#12391;</ind>]</trd>
+  <trd lng="ja">&#x30AB;&#x30A8;&#x30C7; [<ind>&#x304B;&#12360;&#12391;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>ahorn</trd>,
     <trd>esdoorn</trd>
@@ -76,11 +80,24 @@
   <trd lng="ru">&c_k;&c_l;&c_jo;&c_n;</trd>
     <trd lng="sk">javor</trd>
   <trd lng="sv">l&ouml;nn</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43B;&c_je;&#x43D;</trd>,
+    <trd>&#x44F;&c_v;&c_ib;&c_r;</trd>
+  </trdgrp>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.42 2023/04/15 10:28:36
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.41 2022/04/24 14:30:23
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.38 2020/05/08 10:10:18
+Eko Nur Syah Hidayat: +trd id
+
 Revision 1.36  2016/11/02 23:10:11  revo
 Lars Raarup Knudsen: aldono de danaj tradukoj
 
@@ -94,11 +111,5 @@ Revision 1.33  2008/11/24 17:30:43  revo
 Jerano Zachrisson: +trd sv
 
 Revision 1.32  2008/11/01 17:30:41  revo
-HIROTAKA Masaaki: +trd ja
-
-Revision 1.31  2008/02/19 17:30:14  revo
-Wieland Pusch: +trd bg
-
-Revision 1.30  2006/04/09 17:51:55  revo
 -->
 </vortaro>

@@ -7,7 +7,8 @@
 ]>
 
 <svg version="1.1" 
-  width="10cm" height="10cm" 
+  xmlns="http://www.w3.org/2000/svg"
+  width="400" height="400" 
   viewBox="-&scale; -&scale; &scale_2; &scale_2;"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   onload="start(evt,&scale;)">
@@ -55,7 +56,7 @@
           return d;
         }
 
-        var svgdoc = evt.getTarget().getOwnerDocument();
+        var svgdoc = evt.target.ownerDocument;
 
         // Montri la aksojn
         var objet = svgdoc.getElementById("x_akso_pinto");
@@ -163,8 +164,8 @@
   -->
 
   <path id="kurbo2" class="streketita" d=""/>
-  <text class="parametro">
-    <textPath xlink:href="#kurbo2" dy="-5" startOffset="25%">kateno</textPath>
+  <text class="parametro" dy="-5">
+    <textPath xlink:href="#kurbo2" startOffset="25%">kateno</textPath>
   </text>
 
   <circle cx="0" cy="0" r="4" class="konstrupunkto"/>
@@ -190,9 +191,9 @@
     Klarigo
   -->
 
-  <rect x="-198" y="-198" width="145" height="50" class="klarigo"/>
+  <rect x="-198" y="-198" width="175" height="50" class="klarigo"/>
 
-  <text x="-190" y="-180" class="klarigo">MT = konstanto OA</text>
-  <text x="-190" y="-160" class="klarigo">P : kurbecocentro</text>
+  <text x="-190" y="-177" class="klarigo">MT = konstanto OA</text>
+  <text x="-190" y="-157" class="klarigo">P : kurbecocentro</text>
 
 </svg>

@@ -1,24 +1,54 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: klacx.xml,v 1.16 2009/08/25 16:33:26 revo Exp $">
+<art mrk="$Id: klacx.xml,v 1.29 2023/09/01 15:07:13 revo Exp $">
 <kap>
   <ofc>4</ofc>
-  <rad>kla&ccirc;</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+  <rad>kla&ccirc;</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
 <drv mrk="klacx.0i">
   <kap><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="klacx.0i.KOMUNE">
     <dif>
-      Babili dissemante malica&jcirc;ojn:
+      <ref tip="super" cel="babil.0i.babilacxi">Babili</ref> dissemante malica&jcirc;ojn a&ubreve; banala&jcirc;ojn:
       <ekz>
-        <tld/>i kontra&ubreve; iu.
+        oni tro <tld/>adis, ke esperanto estas &leftquot;tiel facile lernebla!&rightquot;, ke
+        <klr>[&#x2026;]</klr> la laboristoj tiele trompitaj forlasas la kurson je la unuaj
+        malfaciloj
+        <fnt>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen venis la <tld/>ado, kiu siblis tra &ccirc;iuj domoj, stratoj kaj stratetoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estu trankvila, mi ne estas <tld/>ulo
+        <fnt>
+          <bib>InfanTorent2</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en la supra aparta&jcirc;o estis gvidanta <tld/>istino <klr>[&#x2026;]</klr>, neinteligenta
+        verdeta virino, kiu anta&ubreve;flaradis &ccirc;iun malfeli&ccirc;on
+        <fnt>
+          <bib>RBa</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="glor.mal0i">malglori</ref>,
+      <ref cel="fam.mis0igi">misfamigi</ref>,
+      <ref cel="nigr.0igi.FIG_malbonfamigi">nigrigi<sncref/></ref>,
+      <ref cel="kredit.sen0igi.konfido">senkreditigi<sncref/></ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_l;&c_ja;&c_t;&c_k;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="bo">&#xF62;&#xF92;&#xFB1;&#xF56;&#xF0B;&#xF42;&#xF64;&#xF7A;&#xF0B;&#xF62;&#xF92;&#xFB1;&#xF42;&#xF0B;</trd>
   <trdgrp lng="ca">
     <trd>malparlar</trd>,
     <trd>xafardejar</trd>,
@@ -47,6 +77,11 @@
     <trd>m&eacute;dire</trd>
   </trdgrp>
   <trd lng="hu">pletyk&aacute;l</trd>
+  <trdgrp lng="ja">
+    <trd>&#x60AA;&#x53E3;&#x3092;&#x3044;&#x3044;&#x3075;&#x3089;&#x3059;  [<ind>&#x3042;&#x304F;&#x3053;&#x3046;&#x3092;&#x3044;&#x3044;&#x3075;&#x3089;&#x3059;</ind>]</trd>,
+    <trd>&#x9670;&#x53E3;&#x3092;&#x304D;&#x304F;  [<ind>&#x304B;&#x3052;&#x3050;&#x3061;&#x3092;&#x304D;&#x304F;</ind>]</trd>,
+    <trd>&#x60AA;&#x3044;&#x3046;&#x308F;&#x3055;&#x8A71;&#x3092;&#x3059;&#x308B;  [<ind>&#x308F;&#x308B;&#x3044;&#x3046;&#x308F;&#x3055;&#x306F;&#x306A;&#x3057;&#x3092;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">roddelen</trd>
   <trd lng="pl">plotkowa&cacute;</trd>
   <trdgrp lng="ru">
@@ -54,19 +89,51 @@
     <trd>&c_s;&c_u;&c_d;&c_a;&c_ch;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="tr">dedikodu yapmak</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43B;&c_ib;&c_t;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43F;&c_u;&c_s;&#x43A;&c_a;&c_t;&c_i; &#x43F;&#x43B;&c_ib;&c_t;&#x43A;&c_i;</trd>,
+    <trd>&#x43F;&#x43B;&c_je;&c_s;&c_t;&c_i;/&#x43F;&#x43B;&c_je;&c_s;&#x43A;&c_a;&c_t;&c_i; &#x44F;&c_z;&c_i;&#x43A;&#x43E;&#x43C;</trd>,
+    <trd>&#x43E;&c_b;&#x43C;&#x43E;&c_v;&#x43B;&#x44F;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="klacx.0o">
-  <kap><tld/>o</kap>
+  <kap><tld/>o, <var><kap><tld/>a&jcirc;o</kap></var></kap>
   <snc mrk="klacx.0o.KOMUNE">
     <dif>
-      Dissciigita malbonvola dira&jcirc;o:
+      Dissciigita malbonvola <ref tip="super" cel="dir.0o">dira&jcirc;o</ref>:
       <ekz>
         mi ne fidas al la urbaj <tld/>oj
         <fnt><bib>PatrojFiloj</bib> <lok>&ccirc;apitro 15a, p.
-        78a</lok></fnt>.
+        78a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la konversacio ne estis unuflanka, la erotika <tld/>o kun apartena komento havis
+        sian lokon
+        <fnt>
+          <bib>HsT</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ie babila&jcirc;o kaj <tld/>a&jcirc;o!
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Korta koko kaj ventkoko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a&jcirc;o kaj &ccirc;ikana&jcirc;o, netoleremaj kaj persiste subtenataj asertoj, kiuj ne
+        valoris e&ccirc; putran haringon
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="fam.fi0a">fifamo</ref>,
+       <ref cel="dir.oni0o">onidiro</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_l;&c_jo;&c_t;&c_k;&c_a;</trd>
   <trdgrp lng="ca">
@@ -75,6 +142,7 @@
     <trd>comareig</trd>
   </trdgrp>
   <trdgrp lng="de">
+    <trd>Geschw&auml;tz</trd>,
     <trd>Klatsch</trd>,
     <trd>Tratsch</trd>
   </trdgrp>
@@ -98,6 +166,11 @@
     <trd>ragot</trd>
   </trdgrp>
   <trd lng="hu">pletyka</trd>
+  <trdgrp lng="ja">
+    <trd>&#x60AA;&#x53E3;  [<ind>&#x308F;&#x308B;&#x3050;&#x3061;</ind>]</trd>,
+    <trd>&#x9670;&#x53E3;  [<ind>&#x304B;&#x3052;&#x3050;&#x3061;</ind>]</trd>,
+    <trd>&#x30B4;&#x30B7;&#x30C3;&#x30D7;</trd>
+  </trdgrp>
   <trd lng="nl">roddelpraat</trd>
   <trd lng="pl">plotka</trd>
   <trdgrp lng="ro">
@@ -106,18 +179,39 @@
   </trdgrp> 
   <trd lng="ru">&c_s;&c_p;&c_l;&c_je;&c_t;&c_n;&c_ja;</trd>
   <trd lng="tr">dedikodu</trd>
+  <trd lng="uk">&#x43F;&#x43B;&c_ib;&c_t;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="klacx.0ema">
-  <kap><tld/>ema</kap>
+  <kap><tld/>ema, <var><kap><tld/>ama</kap></var></kap>
   <snc mrk="klacx.0ema.KOMUNE">
     <dif>
       Ema al malica parolado pri homoj:
       <ekz>
-        &scirc;i estas terure <tld/>ema.       
+        la&ubreve;taj kaj multvortaj, babilemaj kaj <tld/>emaj
+        <fnt>
+          <bib>LGA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <klr>[&#x2026;]</klr> gardu sin de perfido, hipokriteco kaj <tld/>amo
+        <fnt>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>emuloj gustumos kiel franda&jcirc;on la elementojn de kalumnio, kiujn vi al
+        ili prezentos
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="babil.0ema">babilema</ref>,
+       <ref cel="diskre.mal0a">maldiskreta</ref>
+    </refgrp>
   </snc>
+  <trd lng="de">tratschig</trd>
   <trdgrp lng="es">
     <trd>cotilla</trd>,
     <trd>chismoso</trd>
@@ -127,6 +221,10 @@
     <trd>potinier</trd>
   </trdgrp>
   <trd lng="hu">pletyk&aacute;s</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9670;&#x53E3;&#x306E;&#x597D;&#x304D;&#x306A;  [<ind>&#x304B;&#x3052;&#x3050;&#x3061;&#x306E;&#x3059;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x30B4;&#x30B7;&#x30C3;&#x30D7;&#x597D;&#x304D;&#x306E;  [<ind>&#x3054;&#x3057;&#x3063;&#x3077;&#x3059;&#x304D;&#x306E;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="klacx.pri0i">
@@ -134,7 +232,21 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="klacx.pri0i.KOMUNE">
     <dif>
-      Malice priparoli:
+      Malice <ref tip="super" cel="parol.pri0i">priparoli</ref>:
+      <ekz>
+        &scirc;i ne plu povos viziti la pre&gcirc;domon, kaj <klr>[&#x2026;]</klr> estos tute pri<tld/>ata
+        <fnt>
+          <bib>VRA</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i kuris al la &ccirc;ambro de iu kunlaboranto kaj detale kaj malame pri<tld/>is la
+        re&gcirc;isoron, eksedzon
+        <fnt>
+          <aut>Spomenka &Scaron;timec</aut>
+          <vrk>Ombro sur interna pejza&gcirc;o</vrk>
+        </fnt>;
+      </ekz>
       <ekz>
         certe la bienuloj a&ubreve;dis pri tio, kio estis 
         pri<tld/>ata
@@ -146,15 +258,73 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">sich &uuml;ber etwas <ind>auslassen</ind></trd>
   <trdgrp lng="es">
     <trd>cotillear de</trd>,
     <trd>chismorrear sobre</trd>
   </trdgrp>
   <trd lng="fr">jaser sur</trd>
 </drv>
+
+<drv mrk="klacx.kafo0o">
+  <kap>
+    kafo<tld/>o
+  </kap>
+  <snc mrk="klacx.kafo0o.kunveneto">
+    <uzo tip="fak">POL</uzo><uzo tip="fak">ESP</uzo>
+    <dif>
+      <ref tip="super" cel="ven.kun0o">Kunveneto</ref> sen aparta programo krom 
+      kafotrinkado kaj babilado:
+      <ekz>
+        en semajnfina kafo<tld/>o de Esperanto-Junularo <nom>Frankfurt</nom>, mi trovas bonegan
+        okazon apliki mian relernitan kapablon
+        <fnt>
+          <bib>FSI</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve;tagmeze <klr>[&#x2026;]</klr> modera sunbruni&gcirc;ado (anka&ubreve; en la proksima naturista
+        strando), sa&ubreve;nado, amika kafo<tld/>o
+        <fnt>
+          <bib>LOdE</bib>
+          <aut>Ljubomir Trifon&ccirc;ovski</aut>
+          <vrk><url ref="&Tekstaro;?nomo=ondo-de-esperanto">&Ccirc;ebalta Esperantista
+          Printempo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mangx.inter0eto">interman&gcirc;eto</ref>,
+      <ref cel="konver2.0o">konversacio</ref>,
+      <ref cel="mangx.te0o">teman&gcirc;o</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Kaffeeklatsch</trd>,
+    <trd>Kaffeekr&auml;nzchen</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x43E;&c_s;&c_i;&c_d;&c_je;&#x43D;&#x44C;&#x43A;&c_i; &c_z;&c_a; &#x43A;&c_a;&c_v;&#x43E;&#x44E;</trd>,
+    <trd>&#x43F;&#x43B;&c_ib;&c_t;&#x43A;&c_u;&c_v;&c_a;&#x43D;&#x43D;&#x44F; &c_z;&c_a; &#x43A;&c_a;&c_v;&#x43E;&#x44E;</trd>
+  </trdgrp>
+</drv>
+
+
 </art>
 <!--
 $Log$
+versio 1.28 2023/06/12 20:27:25
+Wolfram Diestel: +trd de
+
+versio 1.27 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
+versio 1.23 2021/04/12 17:41:14
+Wolfram Diestel: +2 ref
+
+versio 1.22 2021/04/11 20:48:57
+Wolfram Diestel: ekz-oj; ref-oj, +kafo~o, trd de
+
 Revision 1.20  2018/03/31 22:10:56  revo
 Vito Redsky: +trd ro
 
@@ -165,14 +335,5 @@ Revision 1.18  2013/09/27 01:10:11  revo
 Jeromo Vasxe: + ~ema
 
 Revision 1.17  2013/07/16 09:10:14  revo
-Marc Rausell: + trd ca
-
-Revision 1.16  2009/08/25 16:33:26  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.15  2009/03/05 17:30:31  revo
-Marcus Curdeius: +pl
-
-Revision 1.14  2007/01/20 17:30:20  revo
 -->
 </vortaro>

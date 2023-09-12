@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kabl.xml,v 1.25 2007/07/08 16:30:27 revo Exp $">
+<art mrk="$Id: kabl.xml,v 1.35 2023/08/31 19:24:08 revo Exp $">
 <kap>
     <ofc>1</ofc>
     <rad>kabl</rad>/o
@@ -71,8 +70,7 @@
     <uzo tip="fak">ELE</uzo>
     <uzo tip="fak">TEL</uzo>
     <dif>
-      Fasko el pluraj <ref tip="prt"
-      cel="drat.0o.fadeno">dratoj</ref>,
+      Fasko el pluraj <ref tip="prt" cel="drat.0o.fadeno">dratoj</ref>,
       individue tegitaj per izolmaterialo, por konduki elektron
       a&ubreve; lumon; fasko el pluraj tiaj faskoj:
       <ekz>
@@ -135,9 +133,9 @@
         turkan televidan stacion (TRT) de la <tld/>o
         <fnt>
         <aut>gvd</aut>
-        <vrk>Elkabligita</vrk>
-        <lok><url ref="http://www.esperanto.be/fel/mon/006637.html">
-        Monato</url></lok>
+        <vrk><url ref="&Monato;/1999/006637.html">Elkabligita</url></vrk>
+        <bib>Monato</bib>
+        <lok>1999/09, p. 7</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -145,12 +143,11 @@
         per siaj 
         <tld/>oretoj kombini la avanta&gcirc;ojn de Interreto kaj televido
         <fnt>
-          <bib>Monato</bib>
-          <aut>Edmund GRIMLEY EVANS</aut>
-          <vrk><url
-          ref='http://www.esperanto.be/fel/mon/007132.html'>INTERRETO:
-          Interreto senpage</url></vrk>
-        </fnt>.
+          <aut>Edmund Grimley Evans</aut>
+            <vrk><url ref="&Monato;/2000/007132.html">Interreto senpage</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/11, p. 23</lok>
+          </fnt>.
       </ekz>
     </dif>
     <trd lng="ca">televisi&oacute; per cable</trd>
@@ -187,7 +184,18 @@
     <trd lng="pl">kabel</trd>
   </snc>
   <trd lng="ca">cable</trd>
+  <trdgrp lng="ja">
+    <trd>&#x592A;&#x7DB1;  [<ind>&#x3075;&#x3068;&#x3057;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x30B1;&#x30FC;&#x30D6;&#x30EB;  [<ind>&#x3051;&#x30FC;&#x3076;&#x308B;</ind>]</trd>,
+    <trd>&#x88AB;&#x8986;&#x96FB;&#x7DDA;  [<ind>&#x3072;&#x3075;&#x304F;&#x3067;&#x3093;&#x305B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">k&aacute;bel</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&c_b;&c_je;&#x43B;&#x44C;</trd>,
+    <trd>&#x43A;&c_a;&#x43D;&c_a;&c_t;</trd>,
+    <trd>&c_t;&c_r;&#x43E;&c_s;</trd>,
+    <trd>&c_s;&c_t;&c_a;&#x43B;&#x44C;&#x43D;&c_a; &#x43B;&c_i;&#x43D;&c_v;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kabl.0ero">
@@ -235,15 +243,15 @@
     <dif>
       <tld lit="K"/>o pli mallonga a&ubreve; mallar&gcirc;a ol ordinara:
       <ekz>
-        Ponto Aka&scirc;i-Kaikj&#333; <klr>[...]</klr>: &ccirc;iu el la du <tld/>oj havas
+        Ponto Aka&scirc;i-Kaikj&#x14D; <klr>[...]</klr>: &ccirc;iu el la du <tld/>oj havas
         diametron de 112,2 cm 
         kaj konsistas el po 36.830 dratoj kun diametro de po 5,23 mm:
         <tld/>eto konsistas el 
         290 dratoj kaj la tuta <tld/>o konsistas el 74.000 <tld/>etoj
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=214500'>Ponto
-          Aka&scirc;i-Kaikj&#333;</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=214500">Ponto
+          Aka&scirc;i-Kaikj&#x14D;</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -253,8 +261,7 @@
         tabuloj bezonas nur esti konektita, per USB-<tld/>eto al la
         komputilo <klr>[...]</klr>
         <fnt>
-          <vrk><url
-          ref='http://jotakaeme.blogspot.com/2014/05/algumas-novidades-traduzidas-em-maio-de.html'>&Scirc;AJNAS
+          <vrk><url ref="http://jotakaeme.blogspot.com/2014/05/algumas-novidades-traduzidas-em-maio-de.html">&Scirc;AJNAS
           
             SKRIBILO POR TABULKOMPUTILO, TAMEN &Gcirc;I ESTAS
           
@@ -273,6 +280,12 @@
 </art>
 <!--
 $Log$
+versio 1.34 2023/05/13 06:30:13
+Paul Peeraerts: kor de erara url
+
+versio 1.33 2023/04/09 10:28:01
+Paul Peeraerts: &Monato;/
+
 Revision 1.30  2017/08/21 20:10:16  revo
 Vito Redsky: +trd ro
 
@@ -289,8 +302,5 @@ Revision 1.26  2012/08/30 09:10:18  revo
 Marc Rausell: + trd ca
 
 Revision 1.25  2007/07/08 16:30:27  revo
-Harri Laine: trd fi kor.
-
-Revision 1.24  2007/07/07 16:30:46  revo
 -->
 </vortaro>

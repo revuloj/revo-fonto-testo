@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kandid.xml,v 1.17 2010/02/09 17:30:25 revo Exp $">
+<art mrk="$Id: kandid.xml,v 1.24 2023/08/31 19:24:09 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kandidat</rad>/o
@@ -54,6 +53,11 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_d;&c_y;&c_d;&c_a;&c_t;</trd>
   <trd lng="ca">candidat</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5019;&#x88DC;&#x8005;  [<ind>&#x3053;&#x3046;&#x307B;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x5FD7;&#x9858;&#x8005;  [<ind>&#x3057;&#x304C;&#x3093;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x51FA;&#x9858;&#x8005;  [<ind>&#x3057;&#x3085;&#x3064;&#x304C;&#x3093;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="ms">pemohon</trd>
   <trdgrp lng="cs">
     <trd>kandid&aacute;t</trd>,
@@ -65,6 +69,7 @@
     <trd>kandid&aacute;t</trd>,
     <trd>uch&aacute;dza&ccaron;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&#x430;&#x43D;&#x434;&#x438;&#x434;&#x430;&#x442;</trd>
 </drv>
 
 <drv mrk="kandid.0i">
@@ -115,6 +120,10 @@
     <trd>jel&ouml;lt <klr tip="ind">(vmire)</klr></trd>,
     <trd>p&aacute;ly&aacute;zik <klr tip="ind">(vmire)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7ACB;&#x5019;&#x88DC;&#x3059;&#x308B;  [<ind>&#x308A;&#x3063;&#x3053;&#x3046;&#x307B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5FD7;&#x9858;&#x3059;&#x308B;  [<ind>&#x3057;&#x304C;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>zich <ind>kandidaat</ind> stellen</trd>,
     <trd>solliciteren</trd>
@@ -129,6 +138,10 @@
     &c_d;&c_o;&c_l;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;)</klr></trd>
   </trdgrp>
   <trd lng="sk">kandidova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x441;&#x442;&#x443;&#x43F;&#x430;&#x442;&#x438; &#x432; &#x44F;&#x43A;&#x43E;&#x441;&#x442;&#x456; &#x43A;&#x430;&#x43D;&#x434;&#x438;&#x434;&#x430;&#x442;&#x430;</trd>,
+    <trd>&#x432;&#x438;&#x441;&#x443;&#x432;&#x430;&#x442;&#x438; &#x441;&#x432;&#x43E;&#x44E; &#x43A;&#x430;&#x43D;&#x434;&#x438;&#x434;&#x430;&#x442;&#x443;&#x440;&#x443;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

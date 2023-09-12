@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gard.xml,v 1.40 2020/01/28 00:10:56 revo Exp $">
+<art mrk="$Id: gard.xml,v 1.66 2023/09/10 15:33:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>gard</rad>/i <fnt><bib>PV</bib></fnt>
@@ -76,8 +75,7 @@
           &scirc;i estis por mi &ccirc;iam kara <tld/>ata&jcirc;o
           <fnt>
             <aut>C. Dickens, trad. L. L. Zamenhof</aut>
-            <vrk><url
-            ref="http://www.gutenberg.org/files/24501/24501-h/24501-h.htm">La
+            <vrk><url ref="&Gutenberg;files/24501/24501-h/24501-h.htm">La
             Batalo de l' Vivo</url></vrk>
             <lok>1891</lok>
           </fnt>;
@@ -139,7 +137,7 @@
           tuko <tld/>is la nukon kontra&ubreve; la suno;
         </ekz>
         <ekz>
-          la severa netu&scirc;ebleco de la <ctl>Fundamento</ctl> <tld/>os 
+          la severa netu&scirc;ebleco de la <ctl>Fundamento</ctl> <tld/>os
           &ccirc;iam la unuecon de nia lingvo
           <fnt><bib>F</bib> <lok>anta&ubreve;parolo</lok></fnt>.
         </ekz>
@@ -231,6 +229,13 @@
       <trd lng="pt">manter</trd>
     </subsnc>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_je;&c_r;&c_a;&c_g;&c_ch;&c_y;</trd>,
+    <trd>&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bo">&t_sa;&t_rata;&t_shabchu;&t_nga;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>hl&iacute;dat</trd>,
     <trd>ochra&ncaron;ovat</trd>,
@@ -240,6 +245,17 @@
   <trd lng="en">guard</trd>
   <trd lng="es">guardar</trd>
   <trd lng="fr">garder</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x5F35;&#x308B;  [<ind>&#x307F;&#x306F;&#x308B;</ind>]</trd>,
+    <trd>&#x756A;&#x3092;&#x3059;&#x308B;  [<ind>&#x3070;&#x3093;&#x3092;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5B88;&#x8B77;&#x3059;&#x308B;  [<ind>&#x3057;&#x3085;&#x3054;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8B77;&#x885B;&#x3059;&#x308B;  [<ind>&#x3054;&#x3048;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x76E3;&#x8996;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x3057;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8B66;&#x6212;&#x3059;&#x308B;  [<ind>&#x3051;&#x3044;&#x304B;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5B88;&#x308B;  [<ind>&#x307E;&#x3082;&#x308B;</ind>]</trd>,
+    <trd>&#x4FDD;&#x5B58;&#x3059;&#x308B;  [<ind>&#x307B;&#x305E;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x4FDD;&#x7BA1;&#x3059;&#x308B;  [<ind>&#x307B;&#x304B;&#x3093;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">guardar</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_h;&c_r;&c_a;&c_n;&c_ja;&c_t;&c_mol;</trd>,
@@ -249,10 +265,24 @@
     <trd>&c_b;&c_je;&c_r;&c_je;&c_ch;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">str&aacute;&zcaron;i&tcaron;</trd>
-  <trd lng="tp">awen</trd>
+  <trd lng="tok">awen</trd>
   <trdgrp lng="tr">
     <trd>g&ouml;zetlemek</trd>,
     <trd>korumak</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_r;&c_je;&c_g;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_b;&c_je;&c_r;&c_ib;&c_g;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_b;&c_o;&c_r;&c_o;&c_n;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_h;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_je;&c_r;&c_je;&c_g;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_i;&c_l;&c_mol;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_s;&c_t;&c_je;&c_r;&c_ib;&c_g;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_b;&c_je;&c_r;&c_je;&c_g;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_o;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_n;&c_i;&c_m;</trd>
   </trdgrp>
 </drv>
 
@@ -300,12 +330,22 @@
     <trd>de <ind>garde</ind></trd>,
     <trd>pr&eacute;cautionneusement</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x756A;&#x3092;&#x3057;&#x3066;  [<ind>&#x3070;&#x3093;&#x3092;&#x3057;&#x3066;</ind>]</trd>,
+    <trd>&#x7528;&#x5FC3;&#x6DF1;&#x304F;  [<ind>&#x3088;&#x3046;&#x3058;&#x3093;&#x3075;&#x304B;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>waakzaam</trd>,
     <trd>voorzichtig</trd>
   </trdgrp>
   <trd lng="pt">de <ind>guarda</ind><klr tip="ind"> (adv.)</klr></trd>
   <trd lng="sk">garde <klr>(v &scaron;achu)</klr></trd>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_a; &c_v;&c_a;&c_r;&c_t;&c_ib;</trd>,
+    <trd>&c_n;&c_a; &c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_ib;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_ib;</trd>,
+    <trd>&c_o;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_n;&c_o;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.0o">
@@ -336,24 +376,42 @@
     <dif>
       <tld lit="G"/>antaro:
       <ekz>
-        arestitoj <klr>[...]</klr> &ccirc;irka&ubreve;itaj de forta 
+        arestitoj <klr>[...]</klr> &ccirc;irka&ubreve;itaj de forta
 grandanombra <tld/>o
         <fnt><bib>FK</bib> <lok>4, rakontoj, Arturo, (rakonto de V.
         Devjatnin), 5</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_a;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>dr&zcaron;en&iacute; str&aacute;&zcaron;e</trd>,
     <trd>hl&iacute;d&aacute;n&iacute;</trd>,
     <trd>str&aacute;&zcaron;en&iacute;</trd>
   </trdgrp>
   <trd lng="de">Wache</trd>
+  <trdgrp lng="en">
+    <trd>watch</trd>,
+    <trd>guard</trd>,
+    <trd>safeguard</trd>,
+    <trd>watch</trd>
+  </trdgrp>
   <trd lng="es">custodia</trd>
   <trd lng="fr">garde</trd>
   <trd lng="hu">&odblac;rs&eacute;g</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x5F35;&#x308A;  [<ind>&#x307F;&#x306F;&#x308A;</ind>]</trd>,
+    <trd>&#x8B66;&#x5099;  [<ind>&#x3051;&#x3044;&#x3073;</ind>]</trd>,
+    <trd>&#x8B77;&#x885B;  [<ind>&#x3054;&#x3048;&#x3044;</ind>]</trd>,
+    <trd>&#x76E3;&#x8996;  [<ind>&#x304B;&#x3093;&#x3057;</ind>]</trd>,
+    <trd>&#x8B66;&#x6212;  [<ind>&#x3051;&#x3044;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x4FDD;&#x7BA1;  [<ind>&#x307B;&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wacht</trd>
-  <trd lng="pt">guarda<klr tip="amb"> (a&ccedil;&atilde;o de 
+  <trd lng="pt">guarda<klr tip="amb"> (a&ccedil;&atilde;o de
 guardar)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_h;&c_r;&c_a;&c_n;&c_a;</trd>,
@@ -364,14 +422,18 @@ guardar)</klr></trd>
     <trd>str&aacute;&zcaron;enie</trd>
   </trdgrp>
   <trd lng="tr">n&ouml;bet&ccedil;i</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_ib;&c_d; &c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_o;&c_ju;</trd>,
+    <trd>&c_p;&c_ib;&c_d; &c_v;&c_a;&c_r;&c_t;&c_o;&c_ju;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.0ado">
   <kap><tld/>ado</kap>
   <snc mrk="gard.0ado.KOMUNE">
     <dif>
-      Aran&gcirc;ita, longa zorgado pri iu a&ubreve; io por &gcirc;in 
-konservi kaj protekti:
+      Aran&gcirc;ita, longa zorgado pri iu a&ubreve; io por &gcirc;in
+      konservi kaj protekti:
       <ekz>
         tiu komitato ekzistas por la <tld/>ado de la interesoj de la
         tuta esperantistaro
@@ -384,12 +446,22 @@ konservi kaj protekti:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_a;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>dr&zcaron;en&iacute; str&aacute;&zcaron;e</trd>,
     <trd>hl&iacute;d&aacute;n&iacute;</trd>,
     <trd>str&aacute;&zcaron;en&iacute;</trd>
   </trdgrp>
-  <trd lng="de">Schutz</trd>
+  <trd lng="de">Obhut</trd>
+  <trdgrp lng="en">
+    <trd>vigil</trd>,
+    <trd>guard</trd>,
+    <trd>safeguard</trd>,
+    <trd>watch</trd>
+  </trdgrp>
   <trd lng="es">guardia<klr tip="amb"> (acci&oacute;n de guardar)</klr></trd>
   <trd lng="fr">garde</trd>
   <trd lng="hu">&odblac;rizet</trd>
@@ -397,12 +469,45 @@ konservi kaj protekti:
     <trd>bewaking</trd>,
     <trd>wacht</trd>
   </trdgrp>
-  <trd lng="pt">guarda<klr tip="amb"> (a&ccedil;&atilde;o de 
+  <trd lng="pt">guarda<klr tip="amb"> (a&ccedil;&atilde;o de
 guardar)</klr></trd>
   <trd lng="ru">&c_o;&c_h;&c_r;&c_a;&c_n;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>dr&zcaron;anie str&aacute;&zcaron;e</trd>,
     <trd>str&aacute;&zcaron;enie</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>,
+    <trd>&c_o;&c_b;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_o;&c_b;&c_je;&c_r;&c_ib;&c_g;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_i;&c_l;&c_mol;&c_n;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gard.0ilo">
+  <kap>
+    <tld/>ilo
+  </kap>
+  <snc>
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Instala&jcirc;o, kiu interrompas cirkviton &ccirc;e tro alta kurento:
+      <ekz>
+        <ind>fando<tld/>ilo</ind>.
+        <trd lng="de">Schmelzsicherung</trd>
+        <trd lng="en">fuse</trd>
+        <trd lng="fr">fusible</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Sicherung</trd>
+  <trd lng="en">circuit breaker</trd>
+  <trd lng="fr">disjoncteur</trd>
+  <trdgrp lng="ja">
+    <trd>&#x901A;&#x884C;&#x8A3C;  [<ind>&#x3064;&#x3046;&#x3053;&#x3046;&#x3057;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x56DE;&#x8DEF;&#x906E;&#x65AD;&#x5668;  [<ind>&#x304B;&#x3044;&#x308D;&#x3057;&#x3083;&#x3060;&#x3093;&#x3046;&#x3064;&#x308F;</ind>]</trd>
   </trdgrp>
 </drv>
 
@@ -412,7 +517,7 @@ guardar)</klr></trd>
     <dif>
       Homo kies okupo, ofico estas <tld/>i:
       <ekz>
-        la <tld/>isto de la malliberejo restas muta por &ccirc;iuj liaj 
+        la <tld/>isto de la malliberejo restas muta por &ccirc;iuj liaj
         demandoj
         <fnt><bib>FK</bib> <lok>3, anekdotoj</lok></fnt>;
       </ekz>
@@ -436,10 +541,12 @@ guardar)</klr></trd>
     </dif>
     <refgrp tip="vid">
       <ref cel="provos.0o.JUR">provoso</ref>,
-      <ref cel="vokt.0o.LAB">vokto</ref>
+      <ref cel="vokt.0o.HIS">vokto</ref>
     </refgrp>
   </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>
   <trd lng="bg">&c_o;&c_h;&c_r;&c_a;&c_n;&c_a;</trd>
+  <trd lng="bo">&t_kha;&t_nga;&t_tsheg;&t_sa;&t_rata;&t_shabchu;&t_nga;&t_tsheg;&t_ba;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>gardista</trd>,
     <trd>hl&iacute;da&ccaron;</trd>,
@@ -447,9 +554,11 @@ guardar)</klr></trd>
     <trd>str&aacute;&zcaron;n&yacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
+    <trd>Bewacher</trd>,
     <trd>Wache</trd>,
     <trd>W&auml;chter</trd>
   </trdgrp>
+  <trd lng="en">guard</trd>
   <trdgrp lng="es">
     <trd>guardia<klr tip="amb"> (guardi&aacute;n, subst.)</klr></trd>,
     <trd>guardi&aacute;n<klr tip="amb"> (subst.)</klr></trd>
@@ -459,6 +568,12 @@ guardar)</klr></trd>
     <trd>gardien<klr tip="amb"> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="hu">&odblac;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x756A;&#x4EBA;  [<ind>&#x3070;&#x3093;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x8B77;&#x885B;  [<ind>&#x3054;&#x3048;&#x3044;</ind>]</trd>,
+    <trd>&#x8B66;&#x5099;&#x54E1;  [<ind>&#x3051;&#x3044;&#x3073;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x30AC;&#x30FC;&#x30C9;&#x30DE;&#x30F3;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>bewaker</trd>,
     <trd>opzichter</trd>,
@@ -473,6 +588,7 @@ guardar)</klr></trd>
     <trd>str&aacute;&zcaron;ca</trd>,
     <trd>str&aacute;&zcaron;nik</trd>
   </trdgrp>
+  <trd lng="uk">&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;</trd>
 </drv>
 
 <drv mrk="gard.0istejo">
@@ -495,8 +611,13 @@ guardar)</klr></trd>
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_ch;&c_a;&c_ja; &c_b;&c_u;&c_d;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_v;&c_u;&c_l;&c_mol;&c_n;&c_ja;</trd>
+  </trdgrp>
   <trd lng="cs">str&aacute;&zcaron;nice</trd>
   <trd lng="de">Wachhaus</trd>
+  <trd lng="en">guard house</trd>
   <trdgrp lng="es">
     <trd>caseta de guardia</trd>,
     <trd>sala de guardia</trd>
@@ -505,8 +626,13 @@ guardar)</klr></trd>
     <trd>loge de gardien</trd>,
     <trd>salle de garde</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x5F35;&#x308A;&#x6240;  [<ind>&#x307F;&#x306F;&#x308A;&#x3057;&#x3087;</ind>]</trd>,
+    <trd>&#x756A;&#x5C0F;&#x5C4B;  [<ind>&#x3070;&#x3093;&#x3054;&#x3084;</ind>]</trd>,
+    <trd>&#x8B66;&#x5099;&#x54E1;&#x8A70;&#x6240;  [<ind>&#x3051;&#x3044;&#x3073;&#x3044;&#x3093;&#x3064;&#x3081;&#x3057;&#x3087;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="ru">
-    <trd>&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;&c_mol;&c_n;&c_o;&c_je; 
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;&c_mol;&c_n;&c_o;&c_je;
 &c_p;&c_o;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_ja;</trd>
   </trdgrp>
@@ -518,7 +644,7 @@ guardar)</klr></trd>
   <gra><vspec>ntr</vspec></gra>
   <snc mrk="gard.0estari.KOMUNE">
     <dif>
-      <tld lit="G"/>e <ref tip="vid" cel="dejxor.0i">de&jcirc;ori</ref> 
+      <tld lit="G"/>e <ref tip="vid" cel="dejxor.0i">de&jcirc;ori</ref>
 starante
       &ccirc;e posteno:
       <ekz>
@@ -527,20 +653,36 @@ starante
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol; &c_n;&c_a;
+  <ind>&c_v;&c_a;&c_r;&c_c;&c_je;</ind></trd>
   <trd lng="cs">st&aacute;t na str&aacute;&zcaron;i</trd>
   <trd lng="de"><ind>Wache</ind> stehen</trd>
+  <trdgrp lng="en">
+    <trd>stand guard</trd>,
+    <trd>keep watch</trd>
+  </trdgrp>
   <trd lng="es">hacer la guardia</trd>
   <trd lng="fr">monter la garde</trd>
   <trdgrp lng="hu">
     <trd>&odblac;rt &aacute;ll</trd>,
     <trd>&odblac;rk&ouml;dik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7ACB;&#x3061;&#x756A;&#x3059;&#x308B;  [<ind>&#x305F;&#x3061;&#x3070;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6B69;&#x54E8;&#x306B;&#x7ACB;&#x3064;  [<ind>&#x3075;&#x54E8;&#x306B;&#x305F;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">op <ind>wacht</ind> staan</trd>
   <trd lng="pt">montar <ind>guarda</ind></trd>
-  <trd lng="ru">&c_n;&c_je;&c_s;&c_t;&c_i; 
+  <trd lng="ru">&c_n;&c_je;&c_s;&c_t;&c_i;
 <ind>&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;</ind></trd>
   <trd lng="sk">st&aacute;&tcaron; na str&aacute;&zcaron;i</trd>
   <trd lng="tr">n&ouml;bet tutmak</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_t;&c_o;&c_ja;&c_t;&c_i; &c_n;&c_a; &c_v;&c_a;&c_r;&c_t;&c_ib;/&c_ch;&c_a;&c_t;&c_a;&c_h;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_n;&c_a; &c_p;&c_o;&c_s;&c_t;&c_u;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_i;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gard.0ostaranto">
@@ -548,16 +690,19 @@ starante
   <snc mrk="gard.0ostaranto.MIL">
     <uzo tip="fak">MIL</uzo>
     <dif>
-      Soldato, kiu de&jcirc;oras <tld/>ante &ccirc;e sia posteno,
+      Soldato, kiu de&jcirc;oras <tld/>ante &ccirc;e sia <ref cel="posten.0o.MIL">posteno</ref>,
       <tld/>osoldato:
       <ekz>
-        la lokon oni &ccirc;irka&ubreve;baris per ora krada&jcirc;o, kaj 
-tage kaj nokte apud
-        &gcirc;i staris <tld/>ostaranto
+        la lokon oni &ccirc;irka&ubreve;baris per ora krada&jcirc;o, kaj
+        tage kaj nokte apud &gcirc;i staris <tld/>ostaranto
         <fnt><bib>Fab3</bib> <lok>Folio el la &Ccirc;ielo</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_t;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_v;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>gardista</trd>,
     <trd>hl&iacute;da&ccaron;</trd>,
@@ -565,9 +710,18 @@ tage kaj nokte apud
     <trd>str&aacute;&zcaron;n&yacute;</trd>
   </trdgrp>
   <trd lng="de">Wache</trd>
+  <trdgrp lng="en">
+    <trd>guard</trd>,
+    <trd>sentinel</trd>,
+    <trd>sentry</trd>
+  </trdgrp>
   <trd lng="es">sentinela</trd>
   <trd lng="fr">sentinelle</trd>
   <trd lng="hu">&odblac;rszem</trd>
+  <trdgrp lng="ja">
+    <trd>&#x898B;&#x5F35;&#x308A;&#x756A;  [<ind>&#x307F;&#x306F;&#x308A;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x6B69;&#x54E8;  [<ind>&#x307B;&#x3057;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">wachter</trd>
   <trd lng="pt">sentinela</trd>
   <trd lng="ru">&c_k;&c_a;&c_r;&c_a;&c_u;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
@@ -575,6 +729,9 @@ tage kaj nokte apud
     <trd>str&aacute;&zcaron;ca</trd>,
     <trd>str&aacute;&zcaron;nik</trd>
   </trdgrp>
+  <adm>
+     Movi ~estari + ~ostaranto al artikolo star'
+  </adm>
 </drv>
 
 <drv mrk="gard.antaux0a">
@@ -583,7 +740,7 @@ tage kaj nokte apud
     <dif>
       Kiu evitas eblajn malbonojn anta&ubreve; ilia apero:
       <ekz>
-        la rabista knabino levis la malgrandan Gerdan sur la cervon, kaj
+        la rabista knabino levis la malgrandan <nom>Gerdan</nom> sur la cervon, kaj
         &scirc;i estis tiel <ind>anta&ubreve;<tld/>a</ind>,
         ke &scirc;i alligis &scirc;in fortike kaj e&ccirc; donis al &scirc;i
         malgrandan sidkusenon
@@ -595,6 +752,19 @@ tage kaj nokte apud
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_r;&c_o;&c_zh;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>vorsichtig</trd>,
+    <trd>vorausschauend</trd>,
+    <trd>pr&auml;ventiv</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>precautionary</trd>,
+    <trd>protective</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>prevenido</trd>,
     <trd>cauteloso</trd>,
@@ -609,7 +779,7 @@ tage kaj nokte apud
   <trd lng="pt">prevenido<klr tip="ind"> (adj.)</klr></trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>,
-    
+
 <trd>&c_p;&c_r;&c_je;&c_d;&c_u;&c_s;&c_m;&c_o;&c_t;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="tr">
@@ -623,8 +793,8 @@ tage kaj nokte apud
   <gra><vspec>tr</vspec></gra>
   <snc mrk="gard.antaux0i.KOMUNE">
     <dif>
-      Neebligi la efikon de malbona&jcirc;o jam anta&ubreve; &gcirc;ia 
-apero:
+      Neebligi la efikon de malbona&jcirc;o jam anta&ubreve; &gcirc;ia
+      apero:
       <ekz>
         anta&ubreve;<tld/>u la Izraelidojn kontra&ubreve; ilia malpureco
         <fnt><bib>MT</bib> <lok>&Lev; 15:31</lok></fnt>;
@@ -658,10 +828,17 @@ apero:
     </dif>
     <refgrp tip="vid">
       <ref cel="help.antauxmal0i">anta&ubreve;malhelpi</ref>,
-      <ref cel="sav.antaux0i">anta&ubreve;savi</ref>
+      <ref cel="sav.antaux0i">anta&ubreve;savi</ref>,
+      <ref cel="preven.0i">preventi</ref>
     </refgrp>
   </snc>
   <trd lng="de">sch&uuml;tzen <klr>(vor)</klr></trd>
+  <trdgrp lng="en">
+    <trd>guard</trd>,
+    <trd>preserve</trd>,
+    <trd>protect</trd>,
+    <trd>take precautions</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>advertir</trd>,
     <trd>prevenir</trd>,
@@ -682,6 +859,66 @@ apero:
     <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_h;&c_r;&c_a;&c_n;&c_ja;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_p;&c_o;&c_b;&c_ib;&c_g;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_ja;&c_t;&c_i;</trd>,
+    <trd>&c_u;&c_b;&c_je;&c_r;&c_ib;&c_g;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gard.arbar0isto">
+  <kap>
+    arbar<tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      Homo kiu protektas arbaron kontra&ubreve; &scirc;telo de arboj, plantoj, bestoj ks:
+      <ekz>
+        &scirc;tataj arbaro<tld/>istoj estas bezonataj por protekti la bestojn &ndash; ekz-e ursojn
+        kaj tigrojn &ndash; kontra&ubreve; &ccirc;asbanditoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 8-9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Wildh&uuml;ter</trd>
+  <trd lng="en">park ranger</trd>
+  <trd lng="fr">garde forestier</trd>
+</drv>
+
+<drv mrk="gard.arest0isto">
+  <kap>
+    arest<tld/>isto, <var><kap>karcer<tld/>isto</kap></var>
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="G"/>isto kiu prizorgas malliberigitojn kaj malhelpas ilian fu&gcirc;on:
+      <ekz>
+        vespere ni ela&ccirc;etis la knabinon, kiu cetere estus i&gcirc;inta seksmatraco de la
+        arest<tld/>istoj, &ccirc;ar tiel kutimas formi&gcirc;i la virinsorto <klr>[tie]</klr>
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Harry Martinson</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li memoris la acidan rimarkon de la karcer<tld/>isto
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Harald Beijer</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Gef&auml;ngnisw&auml;rter</trd>,
+    <trd>Justizvollzugsbeamter</trd>,
+    <trd>Schlie&szlig;er</trd>
+  </trdgrp>
+  <trd lng="en">prison officer</trd>
+  <trd lng="fr">gardien de prison</trd>
 </drv>
 
 <drv mrk="gard.cxas0isto">
@@ -694,18 +931,61 @@ apero:
         kaj aliloke publikajn <tld/>istojn
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref="https://eo.wikipedia.org/?curid=367517">&Scirc;tel&ccirc;asado</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=367517">&Scirc;tel&ccirc;asado</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="de">Jagdaufseher</trd>
+  <trd lng="en">gamekeeper</trd>
   <trd lng="es">guarda de caza</trd>
   <trd lng="fr">garde-chasse</trd>
   <trd lng="hu">vad&odblac;r</trd>
   <trd lng="nl">jachtopziener</trd>
-  <trd lng="ru">&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh; &c_o;&c_h;&c_o;&c_t;&c_n;&c_i;&c_ch;&c_mol;&c_i;&c_h; &c_u;&c_g;&c_o;&c_d;&c_i;&c_j;</trd>
+  <trd lng="ru">&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;
+  &c_o;&c_h;&c_o;&c_t;&c_n;&c_i;&c_ch;&c_mol;&c_i;&c_h; &c_u;&c_g;&c_o;&c_d;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="gard.cxeval0isto">
+  <kap>
+    &ccirc;eval<tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="G"/>isto kiu protektas la &ccirc;evalojn:
+      <ekz>
+        alveninte en la kastelon, li rapide &jcirc;etis al la &ccirc;eval<tld/>isto la bridon
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Dekkvina</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Stallbursche</trd>
+</drv>
+
+<drv mrk="gard.civitan0isto">
+  <kap>
+    civitan<tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      Speco de <ref cel="polic.0isto">policisto</ref>, kiu servas kiel unua kontakto al civitanoj &ccirc;e
+      iuj problemoj:
+      <ekz>
+        li renkontis du civitan<tld/>istojn kaj, dum li ankora&ubreve; pripensis &ccirc;u voki ilian
+        helpon a&ubreve; foriri sen veki atenton, la <tld/>istoj vidis lian teruritecon,
+        alpa&scirc;is
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>1999, No 3 (53)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">B&uuml;rgerpolizist</trd>
+  <trd lng="nl">wijkagent</trd>
 </drv>
 
 <drv mrk="gard.dom0isto">
@@ -727,6 +1007,8 @@ apero:
   <refgrp tip="vid">
     <ref cel="pord.0isto">pordisto</ref>
   </refgrp>
+  <trd lng="de">Hauswart</trd>
+  <trd lng="en">caretaker</trd>
   <trd lng="fr">gardien<klr> (de maison)</klr></trd>
 </drv>
 
@@ -745,6 +1027,8 @@ apero:
     </dif>
   </snc>
   <trd lng="cs">hl&iacute;da&ccaron; &uacute;rody na pol&iacute;ch</trd>
+  <trd lng="de">Feldw&auml;chter</trd>
+  <trd lng="en">field guard</trd>
   <trd lng="es">guarda de campo</trd>
   <trd lng="fr">garde-champ&ecirc;tre</trd>
   <trdgrp lng="hu">
@@ -753,6 +1037,32 @@ apero:
   </trdgrp>
   <trd lng="nl">veldwachter</trd>
   <trd lng="sk">str&aacute;&zcaron;ca &uacute;rody na poliach</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_o;&c_l;&c_mol;&c_o;&c_v;&c_i;&c_j; &c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;</trd>,
+    <trd>&c_o;&c_b;&#x2019;&c_ji;&c_zh;&c_d;&c_ch;&c_i;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gard.kluzo0isto">
+  <kap>
+    kluzo<tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="G"/>isto kiu zorgas pri la funkciado kaj bonstato de kluzo:
+      <ekz>
+        ni sidis en la boato, kiun ludonis al ni la kluzogardisto lo&gcirc;anta apud &leftquot;la Digo&rightquot;
+        &ccirc;e la kanaleto
+        <fnt>
+          <bib>IdO</bib>
+          <lok>Kvina Parto</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Schleusenw&auml;rter</trd>
+  <trd lng="en">lock keeper</trd>
+  <trd lng="fr">&eacute;clusier</trd>
 </drv>
 
 <drv mrk="gard.korpo0isto">
@@ -762,7 +1072,7 @@ apero:
       Protektisto, kiu akompanas gravulon kaj defendas lin
       kontra&ubreve; atakoj:
       <ekz>
-        la korpo<tld/>istoj stari&gcirc;is, &ccirc;iu kun siaj bataliloj 
+        la korpo<tld/>istoj stari&gcirc;is, &ccirc;iu kun siaj bataliloj
         en la mano
         <fnt><bib>MT</bib> <lok>&Re2; 11:11</lok></fnt>.
       </ekz>
@@ -774,14 +1084,22 @@ apero:
     <trd>t&ecaron;lesn&yacute; str&aacute;&zcaron;ce</trd>
   </trdgrp>
   <trd lng="de">Leibw&auml;chter</trd>
-  <trd lng="en">bodyguard</trd>
+  <trdgrp lng="en">
+    <trd>bodyguard</trd>,
+    <trd>bodyguard</trd>
+  </trdgrp>
   <trd lng="es">guardaespaldas</trd>
   <trd lng="fr">garde du corps</trd>
   <trd lng="hu">test&odblac;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30DC;&#x30C7;&#x30A3;&#x30FC;&#x30AC;&#x30FC;&#x30C9;</trd>,
+    <trd>&#x8B77;&#x885B;  [<ind>&#x3054;&#x3048;&#x3044;</ind>]</trd>,
+    <trd>&#x7528;&#x5FC3;&#x68D2;  [<ind>&#x3088;&#x3046;&#x3058;&#x3093;&#x307C;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="pt">guarda-costas</trd>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
   <trd lng="sk">telesn&yacute; str&aacute;&zcaron;ca</trd>
-  <trd lng="zh">&#20445;&#38230; [<ind>b&#462;obi&#257;o</ind>]</trd>
+  <trd lng="zh">&#x4FDD;&#x9556; [<ind>b&#x1CE;obiāo</ind>]</trd>
 </drv>
 
 <drv mrk="gard.nokto0isto">
@@ -798,9 +1116,126 @@ apero:
   </snc>
   <trd lng="cs">no&ccaron;n&iacute; hl&iacute;da&ccaron;</trd>
   <trd lng="de">Nachtw&auml;chter</trd>
+  <trdgrp lng="en">
+    <trd>night watchman</trd>,
+    <trd>night guard</trd>
+  </trdgrp>
   <trd lng="es">vigilante nocturno</trd>
   <trd lng="fr">gardien de nuit</trd>
+  <trdgrp lng="ja">
+    <trd>&#x591C;&#x756A;  [<ind>&#x3084;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x591C;&#x8B66;  [<ind>&#x3084;&#x3051;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">no&ccaron;n&yacute; str&aacute;&zcaron;nik</trd>
+  <trd lng="uk">&c_n;&c_ib;&c_ch;&c_n;&c_i;&c_j; &c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;</trd>
+</drv>
+
+<drv mrk="gard.lim0ejo">
+  <kap>
+    lim<tld/>ejo
+  </kap>
+  <snc mrk="gard.lim0ejo.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Loko, kie de&jcirc;oras gardistoj de landlimo:
+      <ekz>
+        la Te&ubreve;tona Kastelo <klr>[&#x2026;]</klr> siatempe estis lim<tld/>ejo protektanta la
+        komercan itineron el la sudo al Baltiko kaj inverse
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="http://www2.polskieradio.pl/eo/dokument.aspx?iid=77089">Pollando invitas:
+          Szczytno</url></vrk>
+          <lok>Pola Radio, 2008-03-01</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="dogan.0ejo">doganejo</ref>
+  </refgrp>
+  <trdgrp lng="de">
+    <trd>Grenz&uuml;bergang</trd>,
+    <trd>Grenzposten</trd>
+  </trdgrp>
+  <trd lng="fr">poste-fronti&egrave;re</trd>
+  <trd lng="ja">&#x56FD;&#x5883;&#x691C;&#x554F;&#x6240;  [<ind>&#x304F;&#x306B;&#x3056;&#x304B;&#x3044;&#x3051;&#x3093;&#x3082;&#x3093;&#x3057;&#x3087;</ind>]</trd>
+</drv>
+
+<drv mrk="gard.lim0isto">
+  <kap>
+    lim<tld/>isto
+  </kap>
+  <snc mrk="gard.lim0isto.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Tiu, kiu gardas <ref cel="lim.0o.spaca">limon<sncref/></ref>, precipe soldato landlimon:
+      <ekz>
+        lim<tld/>isto haltigis lin kaj faris demandon al la suspektinda pasa&gcirc;ero
+        <fnt>
+          <bib>KKr</bib>
+          <lok>II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> ta&gcirc;ika flanko <klr>[&#x2026;]</klr> diras ke kirgizaj trupoj
+        pafis kontra&ubreve; ta&gcirc;ikaj lim<tld/>istoj &ccirc;e akvodistribuejo <nom>Golovnoj</nom>
+        <fnt>
+          <aut>-</aut>
+          <vrk><url ref="https://eo.wikinews.org/wiki/Bataloj_okazis_%C4%89e_limo_de_Ta%C4%9Dikio_kaj_Kirgizio">Bataloj
+          okazis &ccirc;e limo de Ta&gcirc;ikio kaj Kirgizio</url></vrk>
+          <lok>Vikinova&jcirc;oj, 2021-04-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="dogan.0isto">doganisto</ref>
+  </refgrp>
+  <trdgrp lng="de">
+    <trd>Grenzsch&uuml;tzer</trd>,
+    <trd>Grenzbeamter</trd>
+  </trdgrp>
+  <trd lng="en">border guard</trd>
+  <trd lng="fr">garde-fronti&egrave;re</trd>
+  <trdgrp lng="ja">
+    <trd>&#x56FD;&#x5883;&#x8B66;&#x5099;&#x54E1;  [<ind>&#x304F;&#x306B;&#x3056;&#x304B;&#x3044;&#x3051;&#x3044;&#x3073;&#x3044;&#x3093;</ind>]</trd>,
+    <trd>&#x56FD;&#x5883;&#x8B66;&#x5099;&#x968A;&#x54E1;  [<ind>&#x304F;&#x306B;&#x3056;&#x304B;&#x3044;&#x3051;&#x3044;&#x3073;&#x305F;&#x3044;&#x3044;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_k;&c_o;&c_r;&c_d;&c_o;&c_n;&c_n;&c_i;&c_k;</trd>
+</drv>
+
+<drv mrk="gard.pac0isto">
+  <kap>
+    pac<tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      Homo kiu en konflikta regiono zorgu pri konservado de paco:
+      <ekz>
+        nur por siaj pac<tld/>istoj en Bosnio, Afganio kaj Irako la popolo malri&ccirc;a
+        albana devas elspezi 7 milionojn &ccirc;iujare
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2005/008378.php">Venkis mal&scirc;paremo kaj koruptado</url></vrk>
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Blunt</nom>, brito, de&jcirc;oris anta&ubreve; kelkaj jaroj en Kosovo kiel komandanto de la tieaj
+        britaj pac<tld/>istoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2009/009561.php">Kanonoj, kanzonoj</url></vrk>
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Friedensw&auml;chter</trd>
+  <trd lng="en">peacekeeper</trd>
+  <trd lng="fr">force de maintien de la paix</trd>
 </drv>
 
 <drv mrk="gard.plagxo0isto">
@@ -812,15 +1247,46 @@ apero:
         pla&gcirc;ogardistoj estas singardaj, malmultaj el ili scias na&gcirc;i
         <fnt>
           <aut>M. Proust, trad. &Jcirc;. Va&scirc;e</aut>
-          <vrk><url
-          ref="http://jxvasxe.free.fr/tradukoj/en-ombro-de-florantaj-junulinoj-eo.htm">
+          <vrk><url ref="http://jxvasxe.free.fr/tradukoj/en-ombro-de-florantaj-junulinoj-eo.htm">
           En Ombro de Florantaj Junulinoj</url></vrk>
           <lok>2017-</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd>Strandw&auml;chter</trd>,
+    <trd>Schwimmeister</trd>,
+    <trd>Rettungsschwimmer</trd>
+  </trdgrp>
+  <trd lng="en">lifeguard (beach)</trd>
   <trd lng="fr">maitre-nageur</trd>
+</drv>
+
+<drv mrk="gard.pordo0isto">
+  <kap>
+    pordo<tld/>isto
+  </kap>
+  <snc>
+    <dif>
+      <tld lit="G"/>isto kontrolanta enirantojn:
+      <ekz>
+        la re&gcirc;o ordonis al la <klr>[&#x2026;]</klr> pordogardistoj, ke oni elportu el la templo
+        <klr>[&#x2026;]</klr> &ccirc;iujn objektojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 23:4</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>T&uuml;rsteher</trd>,
+    <trd>Pf&ouml;rtner</trd>,
+    <trd>Einlasser</trd>
+  </trdgrp>
+  <trd lng="en">bouncer</trd>
+  <trd lng="fr">videur</trd>
 </drv>
 
 <drv mrk="gard.rel0isto">
@@ -841,9 +1307,41 @@ apero:
       </ekz>
     </dif>
   </snc>
+  <trd lng="de">Schienenw&auml;rter</trd>
+  <trd lng="en">crossing guard (railway)</trd>
   <trd lng="fr">garde-barri&egrave;re</trd>
+  <trd lng="ja">&#x4FDD;&#x7DDA;&#x624B;  [<ind>&#x307B;&#x305B;&#x3093;&#x3066;</ind>]</trd>
 </drv>
 
+<drv mrk="gard.sen0ulo">
+  <kap>sen<tld/>ulo,
+  <var><kap>nesin<tld/>ulo</kap></var></kap>
+  <snc mrk="gard.sen0ulo.KOMUNE">
+    <dif>
+      Tiu, kiu ne <tld/>as sin, ne atentas dan&gcirc;eron, insidon:
+      <ekz>
+        oni pri&scirc;telas ne ri&ccirc;ulon, sed sen<tld/>ulon
+        <fnt>
+          <bib>Prv</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="anim.facil0a">facilanima</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Schutzloser</trd>
+  <trd lng="es">imprudente</trd>
+  <trd lng="fr">imprudent<klr tip="amb"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>hebehurgya</trd>,
+    <trd>h&udblac;belebal&aacute;zs</trd>
+  </trdgrp>
+  <trd lng="ja">&#x4E0D;&#x7528;&#x5FC3;&#x306A;&#x4EBA;  [<ind>&#x3075;&#x3088;&#x3046;&#x3058;&#x3093;&#x306A;&#x3058;&#x3093;</ind>]</trd>
+  <trd lng="pt">imprudente<klr tip="amb"> (pessoa)</klr></trd>
+  <trd lng="ru">&c_n;&c_je;&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_y;&c_j;<klr tip="amb">
+  (&c_s;&c_u;&c_shch;.)</klr></trd>
+</drv>
 
 <drv mrk="gard.sin0i">
   <kap>sin <tld/>i</kap>
@@ -897,16 +1395,15 @@ apero:
   <rim>
     Sin-verbojn en senrompa formo malaprobas ekzemple PMEG, 2016-07-14:
     &leftquot;sin-vorto povas havi &ccirc;ian fina&jcirc;on krom verba fina&jcirc;o&rightquot;
-    Tiuj, kiuj havas unuvortajn deriva&jcirc;ojn, kiel &leftquot;sin gardi&rightquot; &gt; 
+    Tiuj, kiuj havas unuvortajn deriva&jcirc;ojn, kiel &leftquot;sin gardi&rightquot; &gt;
     &leftquot;singarda&rightquot;, tamen iafoje ricevas unuvortan literumon, kaj estas e&ccirc;
     troveblaj en unua a&ubreve; dua persono, tiel ke &leftquot;sin-&rightquot; funkcias
     prefikse la&ubreve; senco simila al tiu de &leftquot;mem-&rightquot;:
     <ekz>
       vi singardu kaj atentu la averton
       <fnt>
-        <aut>Bah&agrave;&#8217;u&#8217;ll&agrave;h, trad. &Eacute;. Coffinet</aut>,
-        <vrk><url
-        ref="http://www.bahaaeligo.bahai.de/H-tekstoj/Lawhe-Akdas.html">
+        <aut>Bah&agrave;&#x2019;u&#x2019;ll&agrave;h, trad. &Eacute;. Coffinet</aut>,
+        <vrk><url ref="http://www.bahaaeligo.bahai.de/H-tekstoj/Lawhe-Akdas.html">
         Lawh-i-aqdas</url></vrk>,
         <lok>[vidita en 2017]</lok>
       </fnt>.
@@ -915,6 +1412,13 @@ apero:
     <aut>&jcirc;v</aut>
   </rim>
   <trd lng="de">sich vorsehen</trd>
+  <trdgrp lng="en">
+    <trd>to be careful</trd>,
+    <trd>to take care</trd>,
+    <trd>to be wary</trd>,
+    <trd>to be circumspect</trd>,
+    <trd>to be prudent</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>prendre <ind>garde</ind></trd>,
     <trd>&ecirc;tre <ind>prudent</ind></trd>
@@ -923,7 +1427,7 @@ apero:
 
 <drv mrk="gard.sin0a">
   <kap><ofc>*</ofc>sin<tld/>a,
-     <var><kap>si<tld/></kap></var>a</kap>
+     <var><kap>si<tld/>a</kap></var></kap>
   <snc mrk="gard.sin0a.KOMUNE">
     <dif>
       Atenta por eviti malbonon, havanta sin<tld/>on:
@@ -976,17 +1480,33 @@ apero:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_r;&c_o;&c_zh;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>bd&ecaron;l&yacute;</trd>,
     <trd>opatrn&yacute;</trd>,
     <trd>ostra&zcaron;it&yacute;</trd>
   </trdgrp>
   <trd lng="de">vorsichtig</trd>
+  <trdgrp lng="en">
+    <trd>careful</trd>,
+    <trd>cautious</trd>,
+    <trd>circumspect</trd>,
+    <trd>wary</trd>,
+    <trd>prudent</trd>
+  </trdgrp>
   <trd lng="es">prudente</trd>
+  <trd lng="fi">varova(inen)</trd>
   <trd lng="fr">prudent</trd>
   <trdgrp lng="hu">
     <trd>&oacute;vatos</trd>,
     <trd>&eacute;bers</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7528;&#x5FC3;&#x6DF1;&#x3044;  [<ind>&#x3088;&#x3046;&#x3058;&#x3093;&#x3076;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x614E;&#x91CD;&#x306A;  [<ind>&#x3057;&#x3093;&#x3061;&#x3087;&#x3046;&#x306A;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>voorzichtig</trd>,
@@ -1016,10 +1536,18 @@ apero:
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_r;&c_o;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="cs">ostraha</trd>
   <trdgrp lng="de">
     <trd>Vorsicht</trd>,
     <trd>Wachsamkeit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>caution</trd>,
+    <trd>precaution</trd>,
+    <trd>circumspection</trd>,
+    <trd>wariness</trd>,
+    <trd>prudence</trd>
   </trdgrp>
   <trd lng="es">prudencia</trd>
   <trd lng="fr">prudence</trd>
@@ -1037,11 +1565,11 @@ apero:
 
 <drv mrk="gard.sin0eco">
   <kap>sin<tld/>eco</kap>
-  <snc>
+  <snc mrk="gard.sin0eco.KOMUNE">
     <dif>
       <ref tip="dif" cel="gard.sin0o">Sin<tld/>o</ref>:
       <ekz>
-        mi konsilas al vi aran&gcirc;i sin<tld/>econ: &ccirc;ar li povas 
+        mi konsilas al vi aran&gcirc;i sin<tld/>econ: &ccirc;ar li povas
         alveturi en &ccirc;iu horo
         <fnt><bib>Revizoro</bib> <lok>akto 1a, sceno 1a</lok></fnt>;
       </ekz>
@@ -1054,15 +1582,27 @@ apero:
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_r;&c_o;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trdgrp lng="de">
     <trd>Vorsicht</trd>,
     <trd>Wachsamkeit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>caution</trd>,
+    <trd>precaution</trd>,
+    <trd>circumspection</trd>,
+    <trd>wariness</trd>,
+    <trd>prudence</trd>
   </trdgrp>
   <trd lng="es">la <ind>prudencia</ind></trd>
   <trd lng="fr">prudence</trd>
   <trdgrp lng="hu">
     <trd>&oacute;vatoss&aacute;g</trd>,
     <trd>&eacute;bers&eacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7528;&#x5FC3;&#x6DF1;&#x3055;  [<ind>&#x3088;&#x3046;&#x3058;&#x3093;&#x3076;&#x304B;&#x3055;</ind>]</trd>,
+    <trd>&#x614E;&#x91CD;&#x3055;  [<ind>&#x3057;&#x3093;&#x3061;&#x3087;&#x3046;&#x3055;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>voorzichtigheid</trd>,
@@ -1076,6 +1616,10 @@ apero:
   <trdgrp lng="cs">
     <trd>opatrnost <klr>(vlastnost)</klr></trd>,
     <trd>ostra&zcaron;itost</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_b;&c_a;&c_ch;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
 </drv>
 
@@ -1097,10 +1641,25 @@ apero:
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_r;&c_o;&c_zh;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>bd&ecaron;l&yacute;</trd>,
     <trd>opatrn&yacute;</trd>,
     <trd>ostra&zcaron;it&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>vorsichtig</trd>,
+    <trd>scheu</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>careful</trd>,
+    <trd>cautious</trd>,
+    <trd>circumspect</trd>,
+    <trd>wary</trd>,
+    <trd>prudent</trd>
   </trdgrp>
   <trd lng="es">prudente</trd>
   <trdgrp lng="fr">
@@ -1113,57 +1672,79 @@ apero:
     <trd>bdel&yacute;</trd>,
     <trd>opatrn&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_b;&c_a;&c_ch;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_r;&c_je;&c_zh;&c_je;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="gard.sen0ulo">
-  <kap>sen<tld/>ulo</kap>
+<drv mrk="gard.tur0isto">
+  <kap>
+    tur<tld/>isto
+  </kap>
   <snc>
     <dif>
-      Nesin<tld/>ulo:
+      <tld lit="G"/>isto kiu avertu kontra&ubreve; dan&gcirc;ero (fajro, malamiko) staranta
+      sur turo:
       <ekz>
-        oni pri&scirc;telas ne ri&ccirc;ulon, sed sen<tld/>ulon
+        la turgardisto estas tre severa, kiu ajn alproksimi&gcirc;as al tiu turo sen sufi&ccirc;a
+        kialo, tiun li mortigos
         <fnt>
-          <bib>Prv</bib>
+          <bib>IdO</bib>
+          <lok>Tria Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en efektiveco ni fine &ccirc;iuj fari&gcirc;as tur<tld/>istoj kaj rigardas la vivon kaj la
+        aferojn de supre
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Turgardisto Ole</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia patro estis <ind>lumtur<tld/>isto</ind>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Garvan Makaj</aut>
+          <vrk><url ref="&Monato;/2010/009989.php">Voja&gcirc;o unudirekta</url></vrk>
+          <lok>2010</lok>
         </fnt>.
+        <trd lng="de">LEuchtturmw&auml;rter</trd>
       </ekz>
     </dif>
-    <refgrp tip="vid">
-      <ref cel="anim.facil0a">facilanima</ref>
-    </refgrp>
   </snc>
-  <trd lng="es">imprudente</trd>
-  <trd lng="fr">imprudent<klr tip="amb"> (subst.)</klr></trd>
-  <trdgrp lng="hu">
-    <trd>hebehurgya</trd>,
-    <trd>h&udblac;belebal&aacute;zs</trd>
+  <trd lng="de">T&uuml;rmer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5854;&#x306E;&#x756A;&#x4EBA;  [<ind>&#x3068;&#x3046;&#x306E;&#x3070;&#x3093;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x898B;&#x5F35;&#x756A;  [<ind>&#x307F;&#x306F;&#x3070;&#x3093;</ind>]</trd>
   </trdgrp>
-  <trd lng="pt">imprudente<klr tip="amb"> (pessoa)</klr></trd>
-  <trd lng="ru">&c_n;&c_je;&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_y;&c_j;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
 </drv>
+
 </art>
 <!--
-$Log: gard.xml,v $
-versio 1.40 2020/01/28 00:10:56
-Jeromo Vasxe: ~i snc/subsnc, ~isto + ref vid
+$Log$
+versio 1.66 2023/09/10 15:33:15
+revo: korekto de transskribo
 
-Revision 1.39  2019/07/06 06:10:26  revo
-Aleks Andre: zh: indekso
+versio 1.64 2023/08/17 20:26:35
+Wolfram Diestel: +trd de
 
-Revision 1.38  2019/05/30 16:10:14  revo
-Jeromo Vasxe: + dom~isto plagxo~isto
+versio 1.63 2023/08/17 10:27:37
+Wolfram Diestel: +arest~isto, arbaro~isto...tur~isto
 
-Revision 1.37  2019/01/29 12:10:18  revo
-Jeromo Vasxe: + rel~isto
+versio 1.62 2023/01/12 07:26:12
+Wolfram Diestel: +trd
 
-Revision 1.36  2018/01/30 19:10:14  revo
-Jeromo Vasxe: + 1 ref
+versio 1.61 2023/01/05 21:24:10
+Wolfram Diestel: +trd de,en
 
-Revision 1.35  2017/06/21 20:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn, +germ trd
+versio 1.60 2023/01/05 20:27:40
+Wolfram Diestel: +~ilo
 
-Revision 1.34  2017/02/09 14:10:16  revo
-Jeromo Vasxe: memstar. sin ~i kun rim
+versio 1.59 2022/11/25 16:40:06
+Neil Roberts: La "a" de "sigarda" ne estis en la kap
 
-Revision 1.33  2017/01/25 20:10:17  revo
+versio 1.58 2022/10/16 20:37:56
 -->
 </vortaro>

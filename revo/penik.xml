@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: penik.xml,v 1.26 2023/09/03 12:45:06 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>penik</rad>/o <fnt><bib>FK</bib></fnt>
@@ -41,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Sylvain Lelarge</aut>
-          <vrk><url ref="https://www.monato.be/2004/008496.html">La argilaj najbaretoj de Jesuo provenca tradicio</url></vrk>
+          <vrk><url ref="&Monato;/2004/008496.html">La argilaj najbaretoj de Jesuo provenca tradicio</url></vrk>
           <lok>2004</lok>
         </fnt>.
       </ekz>
@@ -90,7 +89,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        puf-se&gcirc;oj <klr>[&#8230;]</klr> kun bluaj atlasaj kovriloj kaj amaso da nekompreneblaj
+        puf-se&gcirc;oj <klr>[&#x2026;]</klr> kun bluaj atlasaj kovriloj kaj amaso da nekompreneblaj
         la&ccirc;a&jcirc;oj kaj <tld/>a&jcirc;oj
         <fnt>
           <bib>FK</bib>
@@ -131,7 +130,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        li disdonis <klr>[&#8230;]</klr> al &ccirc;iu po unu <klr>[&#8230;]</klr> <tld/>o da sekvinberoj
+        li disdonis <klr>[&#x2026;]</klr> al &ccirc;iu po unu <klr>[&#x2026;]</klr> <tld/>o da sekvinberoj
         <fnt>
           <bib>MT</bib>
           <lok>II. Samuel 6:19</lok>
@@ -149,12 +148,22 @@
     </trdgrp>
     <trd lng="nl">tros<klr tip="ind"> (ontr.)</klr></trd>
   </snc>
+  <trd lng="bo">&#xF5E;&#xF0B;&#xF66;&#xF99;&#xF74;&#xF42;&#xF0B;</trd>
   <trd lng="cs">&scaron;t&ecaron;tec</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7D75;&#x7B46;  [<ind>&#x3048;&#x3075;&#x3067;</ind>]</trd>,
+    <trd>&#x7B46;  [<ind>&#x3075;&#x3067;</ind>]</trd>,
+    <trd>&#x306F;&#x3051;</trd>
+  </trdgrp>
   <trd lng="ru">&c_k;&c_i;&c_s;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>kystka</trd>,
     <trd>strapec</trd>,
     <trd>&scaron;tetec</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x435;&#x43D;&#x437;&#x435;&#x43B;&#x44C;</trd>,
+    <trd>&#x449;&#x456;&#x442;&#x43A;&#x430;</trd>
   </trdgrp>
 </drv>
 
@@ -194,6 +203,10 @@
     <trd>ecsetel</trd>,
     <trd>beken <ind>ecsettel</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7B46;&#x3067;&#x63CF;&#x304F;  [<ind>&#x3075;&#x3067;&#x3067;&#x3048;&#x304C;&#x304F;</ind>]</trd>,
+    <trd>&#x306F;&#x3051;&#x3067;&#x5857;&#x308B;  [<ind>&#x306F;&#x3051;&#x3067;&#x306C;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">penselen</trd>
   <trdgrp lng="pl">
     <trd>p&eogonek;dzlowa&cacute;</trd>,
@@ -208,6 +221,9 @@
 </art>
 <!--
 $Log$
+versio 1.25 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.21  2015/09/21 14:10:21  revo
 Cindy Moon McKee: +trd en
 

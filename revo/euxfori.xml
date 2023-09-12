@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: euxfori.xml,v 1.5 2023/01/31 10:31:40 revo Exp $">
     <kap>
       <rad>e&ubreve;fori</rad>/o
     </kap>
@@ -23,8 +22,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="&Monato;/2008/009505.php"
-              >Kreditkrizo da&ubreve;ras</url></vrk>
+          <vrk><url ref="&Monato;/2008/009505.php">Kreditkrizo da&ubreve;ras</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -34,8 +32,8 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Kimura Goro Christoph</aut>
-          <vrk><url ref="&Monato;/2011/010304.php"
-              >Utimura Kanzo anta&ubreve; 150 jaroj naski&gcirc;is</url></vrk>
+          <vrk><url ref="&Monato;/2011/010304.php">Utimura Kanzo anta&ubreve; 150 jaroj
+          naski&gcirc;is</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -43,8 +41,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Laszlo Szilvasi</aut>
-          <vrk><url ref="&Monato;/2012/010571.php"
-              >Fora e&ubreve;forio</url></vrk>
+          <vrk><url ref="&Monato;/2012/010571.php">Fora e&ubreve;forio</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -56,17 +53,27 @@
     <trd lng="nl">euforie</trd>
     <trd lng="pt">euforia</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_w;&c_f;&c_a;&c_r;&c_y;&c_ja;</trd>,
+    <trd>&c_e;&c_j;&c_f;&c_a;&c_r;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_je;&c_v;&c_f;&#x43E;&c_r;&c_ib;&#x44F;</trd>,
+    <trd>&c_je;&c_j;&c_f;&#x43E;&c_r;&c_ib;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
   </art>
 
 <!--
 $Log$
+versio 1.5 2023/01/31 10:31:40
+Dmitri Gabinski: + trd be
+
 Revision 1.2  2019/05/20 11:10:15  revo
 Robin van der Vliet: +trd
 
 Revision 1.1  2019/05/16 19:10:16  revo
 Wolfram Diestel: nova artikolo
-
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: izrael.xml,v 1.11 2023/08/31 16:40:59 revo Exp $">
 <kap>
     <ofc>*</ofc><ofc>7</ofc>
     <rad>Izrael</rad>/o <fnt><bib>MT</bib></fnt>
@@ -12,7 +11,7 @@
   <uzo tip="fak">BIB</uzo>
   <snc mrk="izrael.0o.jakobo">
     <dif>
-      La&ubreve; Genzeo, la unua libro de Moseo, la filo de Isaako kaj nepo de Abrahamo,
+      La&ubreve; Genezo, la unua libro de Moseo, la filo de Isaako kaj nepo de Abrahamo,
       anka&ubreve; nomata Jakobo, prapatro de la <ref cel="izrael.0ido">Izraelido</ref>j:
       <ekz>
         kunvenu kaj a&ubreve;skultu, filoj de <nom>Jakob</nom>, kaj a&ubreve;skultu <tld/>on, vian patron   
@@ -70,10 +69,13 @@
       La norda regno post la dividi&gcirc;o.
     </dif>
   </snc>
+  <trd lng="be">&c_Ib;&c_z;&c_r;&c_a;&c_ib;&c_l;&c_mol;</trd>
   <trd lng="cs">Izrael</trd>
   <trd lng="de">Israel</trd>
   <trd lng="fr">Isra&euml;l</trd>
+  <trd lng="ja">&#x30A4;&#x30B9;&#x30E9;&#x30A8;&#x30EB;  [<ind>&#x3044;&#x3059;&#x3089;&#x3048;&#x308B;</ind>]</trd>
   <trd lng="sk">Izrael</trd>
+  <trd lng="uk">&c_Ib;&c_z;&c_r;&c_a;&c_ji;&#x43B;&#x44C;</trd>
 </drv>
 
 <drv mrk="izrael.0ido">
@@ -85,12 +87,13 @@
        <tld/><sncref ref="izrael.0o.popolo"/></ref>:
         <ekz>
           en la jaro kvarcent-okdeka post la eliro de la <tld/>idoj el
-          la lando Egipta <klr>[&#8230;]</klr> oni komencis konstrui la domon por la
+          la lando Egipta <klr>[&#x2026;]</klr> oni komencis konstrui la domon por la
           Eternulo
           <fnt><bib>MT</bib>, <lok>I. Re&gcirc;oj 5:18</lok></fnt>.
        </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_ib;&c_z;&c_r;&c_a;&c_e;&c_l;&c_ib;&c_t;</trd>
   <trd lng="de">Isrealit</trd>
   <trd lng="fr">Isra&eacute;lite</trd>
 </drv>
@@ -103,6 +106,12 @@
 
 <!--
 $Log$
+versio 1.10 2022/10/01 17:39:41
+Dmitri Gabinski: + trd be
+
+versio 1.9 2022/07/03 09:29:38
+Ulrich Fellmann: Izrael (1): korekto de skriberaro (Genzeo -> Genezo)
+
 Revision 1.6  2017/12/13 12:10:14  revo
 Michel Cantigneaux: aldonita kaj fundamenta per la 7a OA + ekzemploj el la Universala Vortaro
 
@@ -119,7 +128,5 @@ Revision 1.2  2015/03/13 19:10:14  revo
 Wolfram Diestel: + ~ido
 
 Revision 1.1  2015/03/13 18:10:15  revo
-Wolfram Diestel: nova artikolo
-
 -->
 </vortaro>

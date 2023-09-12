@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: koment1.xml,v 1.16 2007/01/18 17:30:28 revo Exp $">
+<art mrk="$Id: koment1.xml,v 1.22 2023/09/01 15:46:41 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>komentari</rad>/i
@@ -50,11 +49,20 @@
     <trd>megjegyz&eacute;seket f&udblac;z hozz&aacute;</trd>,
     <trd>jegyzetekkel l&aacute;t el</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6CE8;&#x91C8;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x3061;&#x3085;&#x3046;&#x3057;&#x3083;&#x304F;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x6CE8;&#x89E3;&#x3059;&#x308B;  [<ind>&#x305D;&#x305D;&#x304B;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">commentari&euml;ren</trd>
   <trd lng="pl">komentowa&cacute;</trd> 
   <trd lng="pt">comentar</trd>
   <trd lng="ru">&c_k;&c_o;&c_m;&c_m;&c_je;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">vysvet&lcaron;ova&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43C;&#x435;&#x43D;&#x442;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x44F;&#x441;&#x43D;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x442;&#x43B;&#x443;&#x43C;&#x430;&#x447;&#x438;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="koment1.0o">
@@ -145,6 +153,10 @@
     <trd>jegyzet</trd>,
     <trd>megjegyz&eacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6CE8;&#x91C8;  [<ind>&#x3061;&#x3085;&#x3046;&#x3057;&#x3083;&#x304F;</ind>]</trd>,
+    <trd>&#x6CE8;&#x89E3;  [<ind>&#x3061;&#x3085;&#x3046;&#x304B;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">commentaar</trd>
   <trd lng="pl">komentarz</trd>     
   <trd lng="ro">comentariu</trd>
@@ -152,6 +164,7 @@
     <trd>koment&aacute;r</trd>,
     <trd>v&yacute;klad</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&#x43E;&#x43C;&#x435;&#x43D;&#x442;&#x430;&#x440;</trd>
 </drv>
 </art>
 <!--

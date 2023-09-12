@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: aritme.xml,v 1.17 2005/04/25 16:31:27 revo Exp $">
+<art mrk="$Id: aritme.xml,v 1.26 2023/08/30 18:23:36 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>aritmetik</rad>/o
@@ -14,7 +13,16 @@
   <snc>
     <dif>
       Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
-      studanta operaciojn super entjeroj kaj racionaloj.
+      studanta operaciojn super entjeroj kaj racionaloj:
+      <ekz>
+        li venigis hejmen junan instruiston, kiu dum kelkaj semajnoj <klr>[&#x2026;]</klr>
+        multe progresigis Karlon en la scio pri <tld/>o kaj ortografio
+        <fnt>
+          <aut>E. Privat</aut>
+          <vrk>Karlo</vrk>
+          <lok>1909</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <rim>
       La moderna <tld/>o ne okupi&gcirc;as nur pri elementaj kalkuloj,
@@ -27,6 +35,7 @@
     <trd>&c_a;&c_r;&c_y;&c_t;&c_m;&c_e;&c_t;&c_y;&c_k;&c_a;</trd>,
     <trd>&c_t;&c_e;&c_o;&c_r;&c_y;&c_ja; &c_l;&c_ib;&c_ch;&c_b;&c_a;&c_w;</trd>
   </trdgrp>
+  <trd lng="bo">&t_a;&t_nga;&t_tsheg;&t_ra;&t_tsata;&t_gigu;&t_sa;&t_tsheg;</trd>
   <trd lng="cs">aritmetika</trd>
   <trdgrp lng="de">
     <trd>Arithmetik</trd>,
@@ -41,9 +50,14 @@
     <trd>arithm&eacute;tique<klr tip="ind"> (subst.)</klr></trd>,
     <trd>th&eacute;orie des nombres</trd>
   </trdgrp>
+  <trd lng="he">&het;&#x5B6;&shin;&#x5C1;&#x5B0;&bet;&#x5BC;&vav;&#x5B9;&fnun;</trd>
   <trdgrp lng="hu">
     <trd>aritmetika</trd>,
     <trd>sz&aacute;mtan</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7B97;&#x6570;  [<ind>&#x3055;&#x3093;&#x3059;&#x3046;</ind>]</trd>,
+    <trd>&#x7B97;&#x8853;  [<ind>&#x3055;&#x3093;&#x3058;&#x3085;&#x3064;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>arytmetyka</trd>,
@@ -54,8 +68,10 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>aritmetika</trd>,
-    <trd>počty</trd>
+    <trd>po&ccaron;ty</trd>
   </trdgrp>
+  <trd lng="sw">mahesabu</trd>
+  <trd lng="uk">&c_a;&c_r;&c_i;&c_f;&c_m;&c_je;&c_t;&c_i;&c_k;&c_a;</trd>
 </drv>
 
 <drv mrk="aritme.0a">
@@ -153,6 +169,9 @@
 </art>
 <!--
 $Log$
+versio 1.25 2023/05/17 21:23:37
+Jeromo Vasxe: ~o + ekz
+
 Revision 1.19  2015/06/28 12:03:35  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -172,11 +191,5 @@ Revision 1.14  2003/01/02 17:43:51  revo
 Marc Bavant: +trd pl
 
 Revision 1.13  2002/09/25 16:32:27  revo
-Jozefo Horvath: +trd hu
-Revision 1.12  2002/09/09 19:48:49  revo
-Viliam Bur: +trd sk
-Revision 1.11  2002/05/20 16:35:15  revo
-Marc Bavant: ~o: mod dif
-Revision 1.10  2002/05/15 16:42:50  revo
 -->
 </vortaro>

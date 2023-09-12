@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kacx.xml,v 1.31 2009/07/08 16:30:54 revo Exp $">
+<art mrk="$Id: kacx.xml,v 1.43 2023/08/31 19:24:08 revo Exp $">
 <kap>
     <ofc>*</ofc>
     <rad>ka&ccirc;</rad>/o <fnt><bib>PV</bib></fnt>
@@ -44,6 +43,10 @@
         <trd>pur&eacute;</trd>,
         <trd>farinetes</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd>Brei</trd>,
+        <trd>Mus</trd>
+      </trdgrp>
       <trdgrp lng="es">
         <trd>papilla</trd>,
         <trd>pur&eacute;</trd>,
@@ -55,7 +58,6 @@
         <trd>porridge</trd>,
         <trd>puree</trd>
       </trdgrp>
-      <trd lng="de">Brei</trd>
       <trdgrp lng="fi">
         <trd>puuro</trd>,
         <trd>sose</trd>
@@ -202,12 +204,28 @@
       <trd>&mem;&het;&yod;&tav;</trd>,
       <trd>&pe;&yod;&resh;&he;</trd>
     </trdgrp>
-    <trdgrp lng="pl">
+    <trd lng="id">bubur</trd>
+    <trdgrp lng="ja">
+    <trd>&#x304B;&#x3086;</trd>,
+    <trd>&#x30D4;&#x30E5;&#x30FC;&#x30EC;</trd>,
+    <trd>&#x304B;&#x3086;&#x72B6;&#x306E;&#x98DF;&#x7269;  [<ind>&#x304B;&#x3086;&#x3058;&#x3087;&#x3046;&#x306E;&#x3057;&#x3087;&#x304F;&#x3082;&#x3064;</ind>]</trd>,
+    <trd>&#x307E;&#x305A;&#x3044;&#x98DF;&#x7269;  [<ind>&#x307E;&#x305A;&#x3044;&#x3057;&#x3087;&#x304F;&#x3082;&#x3064;</ind>]</trd>,
+    <trd>&#x304B;&#x3086;&#x72B6;&#x306E;&#x7269;  [<ind>&#x304B;&#x3086;&#x3058;&#x3087;&#x3046;&#x306E;&#x3076;&#x3064;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
       <trd>kleik</trd>,
       <trd>papka</trd>
     </trdgrp>   
     <trd lng="ro">terci</trd>
     <trd lng="sv">gr&ouml;t</trd>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_a;&c_sh;&c_a;</trd>,
+    <trd>&c_p;&c_ju;&c_r;&c_je;</trd>,
+    <trd>&c_g;&c_u;&c_s;&c_t;&c_a; &c_ju;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_l;&c_u;&c_t;&c_a;&c_n;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_l;&c_a;&c_d;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_g;&c_a;&c_r;&c_d;&c_ib;&c_ja;&c_sh;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kacx.maiz0o">
@@ -224,8 +242,7 @@
           tutan maiz<tld/>on
           <fnt>
             <aut>E. Benedek, trad. M. Benczik</aut>,
-            <vrk><url
-ref="http://miresperanto.narod.ru/por_infanoj/hungaraj_fabeloj/05.htm">La
+            <vrk><url ref="http://miresperanto.narod.ru/por_infanoj/hungaraj_fabeloj/05.htm">La
 brava peltisto</url></vrk>,
             <lok>Hungaraj fabeloj. - Hungara Esperanto Asocio,
             1983</lok>
@@ -233,6 +250,10 @@ brava peltisto</url></vrk>,
         </ekz>
       </dif>
     </snc>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_u;&c_k;&c_u;&c_r;&c_u;&c_z;&c_n;&c_a;&c_ja; &c_k;&c_a;&c_sh;&c_a;</trd>,
+      <trd>&c_p;&c_a;&c_l;&c_je;&c_n;&c_t;&c_a;</trd>
+    </trdgrp>
     <trdgrp lng="bg">
       <trd>&c_c;&c_a;&c_r;&c_je;&c_v;&c_i;&c_ch;&c_n;&c_a; &c_k;&c_a;&c_sh;&c_a;</trd>,
       <trd>&c_p;&c_o;&c_l;&c_je;&c_n;&c_t;&c_a;</trd>
@@ -242,10 +263,15 @@ brava peltisto</url></vrk>,
       <trd>Maisbrei</trd>,
       <trd>Polenta</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd>polenta</trd>,
+      <trd>cornmeal porridge</trd>
+    </trdgrp>
     <trd lng="es">polenta</trd>
     <trd lng="fr">polenta</trd>
     <trd lng="it">polenta</trd>
-    <trdgrp lng="nl">
+    <trd lng="ja">&#x30DD;&#x30EC;&#x30F3;&#x30BF;</trd>
+  <trdgrp lng="nl">
       <trd>maisbrij</trd>,
       <trd>polenta</trd>
     </trdgrp>
@@ -258,10 +284,23 @@ brava peltisto</url></vrk>,
       <trd>m&abreve;lai</trd>
     </trdgrp> 
     <trd lng="sv">majsgr&ouml;t</trd>    
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_u;&c_k;&c_u;&c_r;&c_u;&c_d;&c_z;&c_ja;&c_n;&c_a; &c_k;&c_a;&c_sh;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_m;&c_a;&c_l;&c_i;&c_gu;&c_a;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.42 2022/11/09 09:32:04
+Dmitri Gabinski: + trd be
+
+versio 1.41 2022/05/26 19:26:54
+Ulrich Fellmann: kacxo: +1 plia DE trd
+
+versio 1.40 2022/04/11 04:40:33
+Noam Mohr: +trd en maizkacxo
+
 Revision 1.35  2016/08/31 16:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -275,11 +314,5 @@ Revision 1.32  2011/11/28 18:10:10  revo
 Eduardo Navas: +trad es
 
 Revision 1.31  2009/07/08 16:30:54  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.30  2009/03/03 17:30:29  revo
-Jerano Zachrisson: +trd sv
-
-Revision 1.29  2007/10/03 16:30:13  revo
 -->
 </vortaro>

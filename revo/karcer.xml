@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: karcer.xml,v 1.14 2009/11/28 17:31:13 revo Exp $">
+<art mrk="$Id: karcer.xml,v 1.30 2023/09/11 22:23:11 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>karcer</rad>/o
@@ -11,10 +10,12 @@
   <kap><tld/>o</kap>
   <snc mrk="karcer.0o.cxelo">
     <dif>
-      Mallar&gcirc;a kaj malluma <ref tip="super" cel="cxel.0o.cxambreto">&ccirc;elo</ref> de malliberejo, kelkfoje
+      Mallar&gcirc;a kaj malluma <ref tip="super" cel="cxel.0o.cxambreto">&ccirc;elo</ref> de malliberejo,
+      kelkfoje
       e&ccirc; subtera kamero por punitoj a&ubreve; kondamnitoj:
       <ekz>
-        <nom>Pa&scirc;&hcirc;ur</nom> batis la profeton <nom>Jeremia</nom>, kaj metis lin en <tld/>on, kiu estis en la
+        <nom>Pa&scirc;&hcirc;ur</nom> batis la profeton <nom>Jeremia</nom>, kaj metis lin en <tld/>on, kiu estis
+        en la
         supra Pordego de <nom>Benjamen</nom>
         <fnt>
           <bib>MT</bib>
@@ -35,16 +36,7 @@
         <fnt>
           <bib>Fab4</bib>
           <lok>Historio el la dunoj</lok>
-        </fnt>;
-      </ekz>
-      <ekz>
-        <ind>en<tld/>igi</ind> ribelulon.
-        <trd lng="fr">incarc&eacute;rer<klr tip="ind"> (mettre en
-        cellule)</klr></trd>
-        <trdgrp lng="nl">
-          <trd>kerkeren</trd>,
-          <trd>in een <ind>kerker</ind> opsluiten</trd>
-        </trdgrp>
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="ca">calab&oacute;s</trd>
@@ -61,10 +53,10 @@
         <klr>[li]</klr> estis kondamnita al dumviva enkarcerigo pro murdoj de 15
         pacientoj
         <fnt>
+       <aut>Paul Gubbins</aut>
+          <vrk><url ref="&Monato;/2000/006872.php">Doktoro Morto</url></vrk>
           <bib>Monato</bib>
-          <aut>Paul Gubbins</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006872.html"
-              >Britio: Doktoro Morto</url></vrk>
+          <lok>2000/05, p. 11</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -72,22 +64,29 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref="https://www.monato.be/2004/008349.html"
-              >Morala degenero</url></vrk>
+          <vrk><url ref="&Monato;/2004/008349.html">Morala degenero</url></vrk>
           <lok>2004</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="sin">
+      <ref cel="arest.0ejo">arestejo</ref>,
+      <ref cel="prizon.0o">prizono</ref>
+    </refgrp>
     <trdgrp lng="ca">
       <trd>c&agrave;rcer</trd>,
       <trd>pres&oacute;</trd>
     </trdgrp>
+    <trd lng="de">Knast</trd>
     <trdgrp lng="pl">
       <trd>karcer</trd>,
       <trd>loch</trd>
     </trdgrp>
   </snc>
-  <trd lng="be">&c_k;&c_a;&c_r;&c_c;&c_e;&c_r;</trd>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_c;&c_e;&c_r;</trd>,
+    <trd>&c_c;&c_ja;&c_m;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>ela p&rcaron;edb&ecaron;&zcaron;n&eacute;ho zadr&zcaron;en&iacute;</trd>,
     <trd>izolace</trd>,
@@ -125,6 +124,15 @@
     <trd>z&aacute;rka</trd>,
     <trd>fogda</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#29420;&#25151;  [<ind>&#12393;&#12367;&#12412;&#12358;</ind>]</trd>,
+    <trd>&#30435;&#25151;  [<ind>&#12363;&#12435;&#12412;&#12358;</ind>]</trd>,
+    <trd>&#29282;  [<ind>&#12429;&#12358;</ind>]</trd>,
+    <trd>&#30041;&#32622;&#22580;  [<ind>&#12426;&#12421;&#12358;&#12385;&#12376;&#12423;&#12358;</ind>]</trd>,
+    <trd>&#30435;&#29508;  [<ind>&#12363;&#12435;&#12372;&#12367;</ind>]</trd>,
+    <trd>&#21009;&#21209;&#25152;  [<ind>&#12369;&#12356;&#12416;&#12375;&#12423;</ind>]</trd>,
+    <trd>&#21942;&#20489;  [<ind>&#12360;&#12356;&#12381;&#12358;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kerker</trd>,
     <trd>cel<klr tip="ind"> (gevangenis)</klr></trd>
@@ -137,28 +145,97 @@
     <trd>samov&auml;zba</trd>,
     <trd>v&auml;znica predbe&zcaron;n&eacute;ho zadr&zcaron;ania</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_a;&c_r;&c_c;&c_je;&c_r;</trd>,
+    <trd>&c_t;&c_je;&c_m;&c_n;&c_i;&c_c;&c_ja;</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="karcer.en0igi">
+  <kap>
+    en<tld/>igi
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="sxlos.en0i">En&scirc;losi</ref> iun en <tld/>on:
+      <ekz>
+        oni ne povas nin <ref cel="arest.0i">aresti</ref> kaj en<tld/>igi pro tio,
+        kvankam oni eble povus <klr>[&#8230;]</klr> procesi kontra&ubreve; ni
+        <fnt>
+          <bib>KrM</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kial Fernando estas enkarcerigita
+        <fnt>
+          <bib>ChL</bib>
+        </fnt>?
+      </ekz>
+      <ekz>
+        la &scirc;ipestro sin preparis inde reprezenti per nia &scirc;ipo la anglan kulturon, kaj
+        pro tio li tuj en<tld/>igis du maristojn en malluman &ccirc;elon
+        <fnt>
+          <bib>VaK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni postulas amnestion por niaj politikaj en<tld/>igitoj
+        <fnt>
+          <bib>Metrop</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_n;&c_u;&c_c;&c_mol; &c_u; <ind>&c_k;&c_a;&c_r;&c_c;&c_e;&c_r;</ind></trd>
+  <trdgrp lng="de">
+    <trd>einkerkern</trd>,
+    <trd>einknasten</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>imprison</trd>,
+    <trd>incarcerate</trd>
+  </trdgrp>
+  <trd lng="fr">incarc&eacute;rer<klr tip="ind"> (mettre en
+  cellule)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#29420;&#25151;&#12395;&#20837;&#12428;&#12427;  [<ind>&#12393;&#12367;&#12412;&#12358;&#12395;&#12356;&#12428;&#12427;</ind>]</trd>,
+    <trd>&#25237;&#29508;&#12377;&#12427;  [<ind>&#12392;&#12358;&#12372;&#12367;&#12377;&#12427;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kerkeren</trd>,
+    <trd>in een <ind>kerker</ind> opsluiten</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_i;&c_d;&c_a;&c_t;&c_i; &c_v; &c_k;&c_a;&c_r;&c_c;&c_je;&c_r;</trd>,
+    <trd>&c_s;&c_a;&c_d;&c_i;&c_t;&c_i; &c_v; &c_k;&c_a;&c_r;&c_c;&c_je;&c_r;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_i;&c_k;&c_a;&c_t;&c_i; &c_v; &c_k;&c_a;&c_r;&c_c;&c_je;&c_r;&c_ib;</trd>
+  </trdgrp>
+</drv>
+
 </art>
 <!--
 $Log$
+versio 1.30 2023/09/11 22:23:11
+David Dichelle: +trd en
+
+versio 1.28 2023/05/02 07:24:33
+Dmitri Gabinski: + trd be
+
+versio 1.27 2023/04/27 17:28:34
+
+versio 1.26 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2022/03/31 08:39:20
+Dmitri Gabinski: + trd be
+
+versio 1.23 2021/11/05 19:22:45
+Wolfram Diestel: +en~igi, ekz-oj, ref-oj, trd de
+
 Revision 1.21  2018/08/24 15:15:13  revo
 kor. ecaron en la chehha
 
 Revision 1.20  2017/07/24 12:10:17  revo
 Sebastian Cyprych: +trd pl
-
-Revision 1.19  2017/07/10 07:10:21  revo
-Ian Dalton: +trd en
-
-Revision 1.18  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.17  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.16  2012/02/18 21:10:11  revo
-Marc Rausell: +trd ca
-
-Revision 1.15  2011/12/28 18:10:09  revo
 -->
 </vortaro>

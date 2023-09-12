@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kapabl.xml,v 1.20 2010/12/14 17:30:16 revo Exp $">
+<art mrk="$Id: kapabl.xml,v 1.110 2023/09/08 14:26:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kapabl</rad>/a
@@ -45,11 +44,19 @@
       <ref cel="spik.0o">spiko</ref>
     </refgrp>
   </snc>
+  <trd lng="af">staat</trd>
+  <trd lng="am">&#4632;&#x127B;&#x120D;</trd>
+  <trd lng="ar">&a_q;&a_A;&#x62F;&a_r;&a_t_marbuta;</trd>
+  <trd lng="az">ed&#601;</trd>
   <trdgrp lng="be">
     <trd>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>,
     <trd>&c_z;&c_d;&c_a;&c_t;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="bn">&#x9B8;&#2453;&#x9CD;&#x9B7;&#x9AE;</trd>
+  <trd lng="bo">&#xF58;&#xF41;&#xF66;&#xF0B;&#xF54;&#xF7C;&#xF0B;</trd>
+  <trd lng="bs">u stanju</trd>
   <trd lng="ca">capa&ccedil;</trd>
+  <trd lng="co">in gradu</trd>
   <trdgrp lng="cs">
     <trd>nadan&yacute;</trd>,
     <trd>schopn&yacute;</trd>,
@@ -57,6 +64,8 @@
     <trd>zdatn&yacute;</trd>,
     <trd>zp&uring;sobil&yacute;</trd>
   </trdgrp>
+  <trd lng="cy">gallu</trd>
+  <trd lng="da">stand</trd>
   <trdgrp lng="de">
     <trd>f&auml;hig</trd>,
     <trd>geschickt</trd>,
@@ -64,14 +73,55 @@
   </trdgrp>
   <trd lng="en">capable</trd>
   <trd lng="es">capaz</trd>
+  <trd lng="et">v&#xF5;imalik</trd>
+  <trd lng="eu">gai</trd>
   <trdgrp lng="fr">
     <trd>capable<klr tip="ind"> (apte)</klr></trd>,
     <trd>apte</trd>,
     <trd>bon<klr tip="ind"> (pour)</klr></trd>
   </trdgrp>
+  <trd lng="fy">steat</trd>
+  <trd lng="ga">ann</trd>
+  <trd lng="gd">urrainn</trd>
+  <trd lng="gl">capaz</trd>
+  <trd lng="gu">&#xAB8;&#xA95;&#xACD;&#xAB7;&#xAAE;</trd>
+  <trd lng="ha">iya</trd>
+  <trd lng="hi">&#2360;&#2325;&#x94D;&#2359;&#x92E;</trd>
+  <trd lng="hmn">muaj cuab kav</trd>
+  <trd lng="hr">u mogu&cacute;nosti</trd>
+  <trd lng="ht">kapab</trd>
   <trd lng="hu">k&eacute;pes</trd>
+  <trd lng="hy">&#x56F;&#1377;&#1408;&#1400;&#1394;</trd>
+  <trd lng="ig">ike</trd>
+  <trd lng="is">f&#xE6;r</trd>
+  <trd lng="ja">&#12391;&#x304D;&#x308B;</trd>
+  <trd lng="jv">bisa</trd>
+  <trd lng="ka">&#x10E8;&#x10D4;&#x10E3;&#x10EB;&#x10DA;&#x10D8;&#x10D0;</trd>
+  <trd lng="kk">&#x49B;&c_a;&c_b;&c_ib;&#x43B;&c_je;&c_t;&c_t;&c_ib;</trd>
+  <trd lng="km">&#x17A2;&#x17B6;&#6021;</trd>
+  <trd
+  lng="kn">&#xCB8;&#xCBE;&#xCA7;&#xCCD;&#xCAF;&#xCB5;&#xCBE;&#xC97;&#xCC1;&#xCA4;&#xCCD;&#xCA4;&#xCA6;&#xCC6;</trd>
+  <trd lng="ko">&#xC218;</trd>
+  <trd lng="ku">k&#xEA;rhat</trd>
+  <trd lng="ky">&c_a;&#x43B;&c_a;&c_t;</trd>
+  <trd lng="lat">potest</trd>
+  <trd lng="lo">&#xEAA;&#xEB2;&#xEA1;&#xEB2;&#xE94;</trd>
+  <trd lng="lt">sugeb&#279;ti</trd>
+  <trd lng="lv">sp&#5603;j&#x12B;gs</trd>
+  <trd lng="mg">afaka</trd>
+  <trd lng="mi">taea</trd>
+  <trd lng="mk">&c_s;&#x43E;&c_s;&c_t;&#x43E;&#1112;&c_b;&c_a;</trd>
+  <trd lng="ml">&#xD15;&#xD34;&#xD3F;&#xD35;&#xD41;&#xD33;&#xD4D;&#xD33;</trd>
+  <trd lng="mn">&c_b;&#x43E;&#x43B;&#x43E;&#x43C;&c_zh;&c_t;&#x43E;&c_j;</trd>
+  <trd lng="mr">&#2360;&#2325;&#x94D;&#2359;&#x92E;</trd>
+  <trd lng="ms">dapat</trd>
+  <trd lng="mt">kapa&#x10B;i</trd>
+  <trd lng="my">&#4116;&#x102D;&#x102F;&#4100;&#x103A;</trd>
+  <trd lng="ne">&#2360;&#2325;&#x94D;&#2359;&#x92E;</trd>
   <trd lng="nl">bekwaam</trd>
+  <trd lng="ny">wokhoza</trd>
   <trd lng="oc">capable</trd>
+  <trd lng="pa">&#xA2F;&#xA4B;&#xA17;</trd>
   <trdgrp lng="pl">
     <trd>poj&eogonek;tny</trd>,
     <trd>potrafi&aogonek;cy</trd>,
@@ -79,12 +129,38 @@
     <trd>zdatny</trd>,
     <trd>zdolny</trd>
   </trdgrp>
+  <trd lng="ps">&#x6A9;&a_w;&a_l;&a_A;&#x6CC;</trd>
   <trdgrp lng="ro">
     <trd>capabil</trd>,
     <trd>capabil&abreve;</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="ru">&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
+  <trd lng="rw">bashoboye</trd>
+  <trd lng="sd">&a_w;&a_s;</trd>
+  <trd lng="si">&#xDC4;&#xDD0;&#xD9A;&#xDD2;</trd>
   <trd lng="sk">schopn&yacute;</trd>
+  <trd lng="sl">lahko</trd>
+  <trd lng="sm">mafai</trd>
+  <trd lng="sn">vanokwanisa</trd>
+  <trd lng="so">awood</trd>
+  <trd lng="sq">gjendje</trd>
+  <trd lng="st">khona</trd>
+  <trd lng="su">bisa</trd>
+  <trd lng="sw">uwezo</trd>
+  <trd lng="ta">&#xBAE;&#xBC1;&#xB9F;&#xBBF;&#xBA8;&#xBCD;&#xBA4;&#xBA4;&#xBC1;</trd>
+  <trd lng="te">&#xC38;&#xC3E;&#xC2E;&#xC30;&#xC4D;&#xC25;&#xC4D;&#xC2F;&#xC02;</trd>
+  <trd lng="tg">&c_t;&c_a;&c_v;&#x43E;&#x43D;&c_i;&c_s;&c_t;</trd>
+  <trd lng="th">&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;</trd>
+  <trd lng="tl">magagawa</trd>
+  <trd lng="tt">&c_s;&#x4D9;&#x43B;&#x4D9;&c_t;&#x43B;&c_je;</trd>
+  <trd lng="uk">&c_s;&c_t;&c_a;&#x43D;&c_ib;</trd>
+  <trd lng="ur">&a_q;&a_A;&a_b;&a_l;</trd>
+  <trd lng="uz">qodir</trd>
+  <trd lng="vi">th&#x1EC3;</trd>
+  <trd lng="xh">nako</trd>
+  <trd lng="yi">&#x5E7;&#x5E2;&#x5E0;&#x5E2;&#x5DF;</trd>
+  <trd lng="yo">anfani</trd>
+  <trd lng="zu">ekwazi</trd>
 </drv>
 
 <drv mrk="kapabl.0o">
@@ -156,23 +232,36 @@
     <trd>k&eacute;pess&eacute;g</trd>,
     <trd>tud&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x80FD;&#x529B;  [<ind>&#x306E;&#12358;&#x308A;&#x304D;</ind>]</trd>,
+    <trd>&#x529B;&#x91CF;  [<ind>&#x308A;&#x304D;&#x308A;&#12423;&#12358;</ind>]</trd>,
+    <trd>&#x624D;&#x80FD;  [<ind>&#12373;&#12356;&#x306E;&#12358;</ind>]</trd>,
+    <trd>&#x624B;&#33109;  [<ind>&#12375;&#12421;&#x308F;&#12435;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ne">&#2360;&#2368;&#x92A;</trd>
   <trdgrp lng="nl">
     <trd>bekwaamheid</trd>,
     <trd>capaciteit<klr tip="ind"> (bekwaamheid)</klr></trd>,
     <trd>vermogen<klr tip="ind"> (bekwaamheid)</klr></trd>
   </trdgrp>
   <trdgrp lng="pl">
-    <trd>dar <klr> (zdolno&sacute;&cacute;)</klr> </trd> 
+    <trd>dar <klr> (zdolno&sacute;&cacute;)</klr> </trd>
     <trd>umiej&eogonek;tno&sacute;&cacute;</trd>,
     <trd>zdolno&sacute;&cacute;</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>&icirc;ndem&acirc;nare</trd>,
     <trd>capabilitate</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="ru">&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">schopnos&tcaron;</trd>
-  <trd lng="tp">ken</trd>
+  <trd lng="tok">ken</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_d;&c_a;&c_t;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_s;&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_zh;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_b;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_b;&#x43D;&#x43E;&c_s;&c_t;&c_ib;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kapabl.0i">
@@ -228,6 +317,11 @@
     <trd>&ecirc;tre <ind>apte</ind> &agrave;</trd>
   </trdgrp>
   <trd lng="hu">k&eacute;pes <klr tip="ind">(vmire)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;&#12377;&#x308B;&#x80FD;&#x529B;&#x304C;&#12354;&#x308B;
+    [&#xFF5E;<ind>&#12377;&#x308B;&#x306E;&#12358;&#x308A;&#12423;&#x304F;&#x304C;&#12354;&#x308B;</ind>]</trd>,
+    <trd>&#xFF5E;<ind>&#12377;&#x308B;&#12371;&#12392;&#x304C;&#12391;&#x304D;&#x308B;</ind></trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kunnen</trd>,
     <trd>in <ind>staat</ind> zijn</trd>
@@ -248,7 +342,14 @@
   <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; &c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_m; <klr>(&c_n;&c_a; &c_ch;&c_t;&c_o;-&c_l;., &c_k;
   &c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
   <trd lng="sk">by&tcaron; schopn&yacute;</trd>
-  <trd lng="tp">ken</trd>
+  <trd lng="tok">ken</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_u;&c_t;&c_i;
+    &c_z;&c_d;&c_a;&c_t;&#x43D;&c_i;&#x43C;/&c_s;&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_zh;&#x43D;&c_i;&#x43C;/&c_g;&#x43E;&c_d;&#x43D;&c_i;&#x43C;
+    (&c_d;&#x43E; &c_ch;&#x43E;&c_g;&#x43E;-&#x43D;.</trd>,
+    <trd>&#x43D;&c_a; &c_shch;&#x43E;-&#x43D;.)</trd>,
+    <trd>&c_v;&c_i;&#x44F;&c_v;&#x43B;&#x44F;&c_t;&c_i; &c_z;&c_d;&c_ib;&c_b;&#x43D;&#x43E;&c_s;&c_t;&c_ib;</trd>
+  </trdgrp>
   <trd lng="vo">kan&ouml;n</trd>
 </drv>
 
@@ -277,7 +378,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        batal<tld/>eco  
+        batal<tld/>eco
         <fnt>
           <bib>MT</bib>
           <lok>II. Kroniko 26:13</lok>
@@ -333,6 +434,12 @@
   <trd lng="ro">abilitate</trd>
   <trd lng="ru">&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">schopnos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_d;&c_a;&c_t;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_s;&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_zh;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_b;&#x43D;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&c_z;&c_d;&c_ib;&c_b;&#x43D;&#x43E;&c_s;&c_t;&c_ib;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kapabl.0igi">
@@ -369,8 +476,10 @@
   </trdgrp>
   <trd lng="es">capacitar</trd>
   <trd lng="fr">rendre <ind>capable</ind></trd>
+  <trd lng="ja">&#x80FD;&#x529B;&#12434;&#x8EAB;&#x306B;&#12388;&#12369;&#12373;&#x305B;&#x308B;
+  [<ind>&#x306E;&#12358;&#x308A;&#12423;&#x304F;&#12434;&#x307F;&#x306B;&#12388;&#12369;&#12373;&#x305B;&#x308B;</ind>]</trd>
   <trd lng="nl">in <ind>staat</ind> stellen</trd>
-  <trd lng="pl">umo&zdot;liwia&cacute;</trd>     
+  <trd lng="pl">umo&zdot;liwia&cacute;</trd>
   <trd lng="ro">permite</trd>
   <trdgrp lng="ru">
     <trd>&c_o;&c_d;&c_a;&c_r;&c_i;&c_t;&c_mol; <ind>&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;&c_ju;</ind></trd>,
@@ -417,6 +526,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
   <trdgrp lng="ca">
     <trd><ind>individu</ind> competent</trd>,
     <trd><ind>persona</ind> destra</trd>
@@ -426,15 +536,19 @@
     <trd>K&ouml;nner</trd>
   </trdgrp>
   <trd lng="fr">homme de la situation</trd>
+  <trdgrp lng="ja">
+    <trd>&#26377;&#x80FD;&#x306A;&#x4EBA;  [<ind>&#12422;&#12358;&#x306E;&#12358;&#x306A;&#12376;&#12435;</ind>]</trd>,
+    <trd>&#x624D;&#x5B50;  [<ind>&#12373;&#12356;&#12375;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">bekwaam persoon</trd>
   <trdgrp lng="pl">
     <trd>go&sacute;ciu</trd>,
     <trd>persona</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>tip</trd>,
     <trd>persoan&abreve;</trd>
-  </trdgrp>  
+  </trdgrp>
 </drv>
 
 <drv mrk="kapabl.antaux0o">
@@ -462,8 +576,8 @@
     <trd>voorbeschiktheid</trd>,
     <trd>predispositie</trd>
   </trdgrp>
-  <trd lng="pl">zdolno&sacute;&cacute; wst&eogonek;pna</trd>     
-  <trd lng="ro">capacitatea ini&#539;ial&abreve;</trd>
+  <trd lng="pl">zdolno&sacute;&cacute; wst&eogonek;pna</trd>
+  <trd lng="ro">capacitatea ini&#x21B;ial&abreve;</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_d;&c_a;&c_t;&c_o;&c_k;<klr tip="amb">
     (&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_i;)</klr></trd>,
@@ -513,6 +627,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_z;&c_d;&c_a;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>incapa&ccedil;</trd>,
     <trd>incapacitat</trd>
@@ -524,15 +642,37 @@
   <trd lng="de">unf&auml;hig</trd>
   <trd lng="es">incapaz</trd>
   <trd lng="fr">incapable<klr tip="amb"> (adj.)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#xFF5E;<ind>&#12391;&#x304D;&#x306A;&#12356;</ind></trd>,
+    <trd>&#x80FD;&#x529B;&#12434;&#x6B20;&#12356;&#x305F;
+    [<ind>&#x306E;&#12358;&#x308A;&#12423;&#x304F;&#12434;&#x304B;&#12356;&#x305F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ongeschikt</trd>
-  <trd lng="pl">nieudolny</trd>     
+  <trd lng="pl">nieudolny</trd>
   <trd lng="ro">ne&icirc;ndem&acirc;natic</trd>
   <trd lng="ru">&c_n;&c_je;&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">neschopn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43D;&c_je;&c_z;&c_d;&c_a;&c_t;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43D;&c_je;&c_s;&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_zh;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_r;&#x43D;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.110 2023/09/08 14:26:58
+Wolfram Diestel: kor. ja ind.
+
+versio 1.109 2023/09/05 06:31:11
+Wolfram Diestel: kor. ja ind.
+
+versio 1.107 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.105 2021/08/20 13:33:50
+Dmitri Gabinski: + trd be
+
 Revision 1.26  2018/07/21 19:10:13  revo
 Vito Redsky: +trd pl +trd ro
 
@@ -543,17 +683,5 @@ Revision 1.24  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.23  2015/06/29 16:33:16  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.22  2013/10/23 19:10:11  revo
-Benito Subejrano: + trd oc
-
-Revision 1.21  2011/11/22 09:10:12  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.20  2010/12/14 17:30:16  revo
-Agustin Garcia Lopez: +trd es (-i, -igi, ne - a)
-
-Revision 1.19  2009/08/23 16:33:40  revo
 -->
 </vortaro>

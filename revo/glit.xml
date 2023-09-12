@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: glit.xml,v 1.31 2009/02/10 14:18:09 revo Exp $">
+<art mrk="$Id: glit.xml,v 1.122 2023/08/31 14:29:53 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>glit</rad>/i <fnt><bib>PV</bib></fnt>
 </kap>
+
 <drv mrk="glit.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>ntr</vspec></gra>
@@ -36,7 +36,7 @@
         <ind><tld/>kalkulilo</ind>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/wiki/Glitkalkulilo'>
+          <lok><url ref="&Viki;/Glitkalkulilo">
           Glitkalkulilo</url></lok>
         </fnt>.
         <trd lng="de">Rechenschieber</trd>
@@ -63,6 +63,7 @@
         <trd>lliscar</trd>,
         <trd>patinar</trd>
       </trdgrp>
+      <trd lng="de">gleiten</trd>
       <trdgrp lng="es">
         <trd>deslizarse</trd>,
         <trd>patinar</trd>
@@ -81,8 +82,7 @@
           Liza <tld/>is kaj preska&ubreve; falis
           <fnt>
             <aut>R. Rossetti k. a.</aut>,
-            <vrk><url
-            ref='http://esperanto.org.uk/eab/bookshop/lizkajpaucd.htm'>
+            <vrk><url ref="http://esperanto.org.uk/eab/bookshop/lizkajpaucd.htm">
             Liza kaj Pa&ubreve;lo</url></vrk>,
             <lok>1985</lok>
           </fnt>.
@@ -100,6 +100,7 @@
       <trd>lliscar</trd>,
       <trd>patinar</trd>
     </trdgrp>
+    <trd lng="de">ausrutschen</trd>
     <trdgrp lng="es">
       <trd>deslizarse</trd>,
       <trd>patinar</trd>
@@ -161,6 +162,11 @@
       <ekz>
         la pejza&gcirc;o rapide <ind>preter<tld/>i</ind>s anta&ubreve;
         liaj okuloj;
+        <trdgrp lng="de">
+          <trd>vorbeihuschen</trd>,
+          <trd>vorbeirauschen</trd>,
+          <trd>vorbeisausen</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>d&eacute;filer<klr tip="ind"> (se d&eacute;rouler)</klr>
           </trd>,
@@ -175,6 +181,7 @@
         mizeron.
       </ekz>
     </dif>
+    <trd lng="de">huschen</trd>
     <trd lng="hu">siklik</trd>
     <trd lng="pl">prze&sacute;lizgiwa&cacute; si&eogonek;</trd>
   </snc>
@@ -192,12 +199,22 @@
     <trd>&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_g;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_k;&c_o;&c_w;&c_z;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
-  <trd lng="de">gleiten</trd>
-  <trd lng="en">glide</trd>
+  <trdgrp lng="en">
+    <trd>glide</trd>,
+    <trd>slip</trd>,
+    <trd>slide</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>glisser<klr tip="ind"> (intr., sur qc)</klr></trd>,
     <trd>passer sans bruit</trd>,
     <trd>sombrer (dans)<klr tip="ind"> (s'abandonner)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6ED1;&#x308B;  [<ind>&#x306C;&#x3081;&#x308B;</ind>]</trd>,
+    <trd>&#x6ED1;&#x8D70;&#x3059;&#x308B;  [<ind>&#x304B;&#x3063;&#x305D;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x3064;&#x308B;&#x308A;&#x3068;&#x6ED1;&#x308B;  [<ind>&#x3064;&#x308B;&#x308A;&#x3068;&#x3059;&#x3079;&#x308B;</ind>]</trd>,
+    <trd>&#x5FCD;&#x3073;&#x8FBC;&#x3080;  [<ind>&#x3057;&#x306E;&#x3073;&#x3053;&#x3080;</ind>]</trd>,
+    <trd>&#x3072;&#x305D;&#x304B;&#x306B;&#x9032;&#x884C;&#x3059;&#x308B;  [<ind>&#x3072;&#x305D;&#x304B;&#x306B;&#x3057;&#x3093;&#x3053;&#x3046;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>glijden</trd>,
@@ -219,6 +236,11 @@
     <trd>proklouznout</trd>,
     <trd>prokluzovat</trd>,
     <trd>smekat se</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_k;&c_o;&c_v;&c_z;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_k;&c_o;&c_v;&c_z;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_o;&c_v;&c_z;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
   </trdgrp>
 </drv>
 
@@ -288,15 +310,86 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">strokie</trd>
+  <trd lng="am">&#x1270;&#x1295;&#x1238;&#x122B;&#x1273;&#x127D;</trd>
+  <trd lng="ar">&a_A;&a_n;&a_z;&a_l;&a_A;&a_q;</trd>
+  <trd lng="bn">&#x9B8;&#x9CD;&#x9B2;&#x9BF;&#x9AA;</trd>
   <trdgrp lng="cs">
     <trd>skluz</trd>,
     <trd>smyk</trd>
   </trdgrp>
+  <trd lng="da">slip</trd>
+  <trdgrp lng="en">
+    <trd>slide</trd>,
+    <trd>slip</trd>,
+    <trd>glide</trd>
+  </trdgrp>
+  <trd lng="et">libisemine</trd>
+  <trd lng="eu">lapsus</trd>
+  <trd lng="ga">duill&iacute;n</trd>
+  <trd lng="gd">shleamhnach</trd>
+  <trd lng="gl">deslizamento</trd>
+  <trd lng="gu">&#xA95;&#xABE;&#xAAA;&#xAB2;&#xAC0;</trd>
+  <trd lng="ha">zamewa</trd>
+  <trd lng="hi">&#x92A;&#x930;&#x94D;&#x91A;&#x940;</trd>
+  <trd lng="hmn">plam</trd>
+  <trd lng="hr">slip</trd>
+  <trd lng="ht">glise</trd>
+  <trd lng="hy">&#x562;&#x56C;&#x561;&#x576;&#x56F;</trd>
+  <trd lng="ig">ego</trd>
+  <trd lng="is">mi&#xF0;i</trd>
+  <trd lng="ja">&#x30B9;&#x30EA;&#x30C3;&#x30D7;</trd>
+  <trd lng="jv">mlebukake</trd>
+  <trd lng="ka">&#x10DB;&#x10E3;&#x10E8;&#x10D0;&#x10D5;&#x10D3;&#x10D4;&#x10D1;&#x10D0;</trd>
+  <trd lng="kk">&c_t;&c_a;&c_ju;</trd>
+  <trd lng="km">&#x1794;&#x17D0;&#x178E;&#x17D2;&#x178E;</trd>
+  <trd lng="kn">&#xCB8;&#xCCD;&#xCB2;&#xCBF;&#xCAA;&#xCCD;</trd>
+  <trd lng="ko">&#xC2AC;&#xB9BD;</trd>
+  <trd lng="ku">derp&ecirc;</trd>
+  <trd lng="ky">&c_t;&c_a;&c_j;&c_g;&c_a;&c_l;&c_a;&c_n;&c_u;&c_u;</trd>
+  <trd lng="lat">labente</trd>
+  <trd lng="lo">&#xE84;&#xEA7;&#xEB2;&#xEA1;&#xE9C;&#xEB4;&#xE94;&#xE9E;&#xEB2;&#xE94;&#xE9E;&#xEBD;&#xE87;</trd>
+  <trd lng="lt">slydimo</trd>
+  <trd lng="lv">buks&#x15E3;&scaron;ana</trd>
+  <trd lng="mg">taratasy mi</trd>
+  <trd lng="mi">pepa</trd>
+  <trd lng="mk">&c_s;&c_je; &c_l;&c_i;&c_z;&c_g;&c_a;</trd>
+  <trd lng="ml">&#xD05;&#xD1F;&#xD3F;&#xD35;&#xD38;&#xD4D;&#xD24;&#xD02;</trd>
+  <trd lng="mn">&c_h;&c_u;&c_u;&c_d;&c_a;&c_s;</trd>
+  <trd lng="mr">&#x938;&#x94D;&#x932;&#x93F;&#x92A;</trd>
+  <trd lng="my">&#x1005;&#x101C;&#x1005;&#x103A;</trd>
+  <trd lng="ny">pepala</trd>
+  <trd lng="pa">&#xA38;&#xA3F;&#xA32;&#xA71;&#xA2A;</trd>
+  <trd lng="ps">&#x67C;&a_w;&#x67C;&a_h;</trd>
+  <trd lng="rw">kunyerera</trd>
+  <trd lng="sd">&f_p;&a_r;&f_ch;&a_y;</trd>
+  <trd lng="si">&#xDC3;&#xDCA;&#xDBD;&#xDD2;&#xDB4;&#xDCA;</trd>
   <trdgrp lng="sk">
     <trd>k&lacute;zanie</trd>,
     <trd>&scaron;myk</trd>,
     <trd>&scaron;m&yacute;kanie</trd>
   </trdgrp>
+  <trd lng="sm">ofuloto</trd>
+  <trd lng="sn">pitikoti</trd>
+  <trd lng="so">taraarixid</trd>
+  <trd lng="sq">shqip</trd>
+  <trd lng="st">setlankana</trd>
+  <trd lng="su">dieunakeun</trd>
+  <trd lng="sw">kuingizwa</trd>
+  <trd lng="ta">&#xB9A;&#xBC0;&#xB9F;&#xBCD;&#xB9F;&#xBC1;</trd>
+  <trd lng="te">&#xC38;&#xC4D;&#xC32;&#xC3F;&#xC2A;&#xC4D;</trd>
+  <trd lng="tg">&c_z;&c_i;&c_d;&c_d;&c_i;&c_l;&c_a;&#x493;&c_z;&c_i;&c_sh;</trd>
+  <trd lng="th">&#xE25;&#xE37;&#xE48;&#xE19;</trd>
+  <trd lng="tl">isuot na madali</trd>
+  <trd lng="tt">&c_t;&c_a;&c_j;&c_g;&c_a;&c_k;</trd>
+  <trd lng="uk">&c_k;&c_o;&c_v;&c_z;&c_a;&c_n;&c_n;&c_ja;</trd>
+  <trd lng="ur">&f_p;&a_r;&f_ch;&f_y;</trd>
+  <trd lng="uz">siljitmoq</trd>
+  <trd lng="vi">tr&#x1B0;&#x1EE3;t</trd>
+  <trd lng="xh">isiliphu</trd>
+  <trd lng="yi">&tsadi;&ayin;&tet;&lamed;</trd>
+  <trd lng="yo">isokuso</trd>
+  <trd lng="zu">ukushelela</trd>
 </drv>
 
 <drv mrk="glit.0a">
@@ -339,6 +432,7 @@
     <trd>rutschig</trd>,
     <trd>schmierig</trd>
   </trdgrp>
+  <trd lng="en">slippery</trd>
   <trdgrp lng="fr">
     <trd>glissant</trd>,
     <trd>insaisissable<klr tip="ind"> (fuyant)</klr></trd>,
@@ -348,6 +442,10 @@
     <trd>cs&uacute;sz&oacute;s</trd>,
     <trd>s&iacute;kos</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3064;&#x308B;&#x3064;&#x308B;&#x3057;&#x305F;</trd>,
+    <trd>&#x306C;&#x308B;&#x306C;&#x308B;&#x3057;&#x305F;</trd>
+  </trdgrp>
   <trd lng="nl">glad</trd>
   <trd lng="pt">escorregadio</trd>
   <trd lng="ru">&c_s;&c_k;&c_o;&c_l;&c_mol;&c_z;&c_k;&c_i;&c_j;</trd>
@@ -356,6 +454,10 @@
     <trd>&scaron;myk&lcaron;av&yacute;</trd>
   </trdgrp>
   <trd lng="sv">hal</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_l;&c_i;&c_z;&c_mol;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_o;&c_v;&c_z;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glit.0iga">
@@ -397,12 +499,18 @@
     <trd>rutschig</trd>,
     <trd>schmierig</trd>
   </trdgrp>
+  <trd lng="en">slippery</trd>
   <trdgrp lng="fr">
     <trd>glissant</trd>,
   </trdgrp>
   <trdgrp lng="hu">
     <trd>cs&uacute;sz&oacute;s</trd>,
     <trd>s&iacute;kos</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6ED1;&#x308A;&#x3084;&#x3059;&#x3044;  [<ind>&#x3059;&#x3079;&#x308A;&#x3084;&#x3059;&#x3044;</ind>]</trd>,
+    <trd>&#x5371;&#x967A;&#x306A;  [<ind>&#x304D;&#x3051;&#x3093;&#x306A;</ind>]</trd>,
+    <trd>&#x3068;&#x3089;&#x3048;&#x3069;&#x3053;&#x308D;&#x306E;&#x306A;&#x3044;</trd>
   </trdgrp>
   <trd lng="nl">glad</trd>
   <trd lng="pt">escorregadio</trd>
@@ -412,6 +520,10 @@
     <trd>&scaron;myk&lcaron;av&yacute;</trd>
   </trdgrp>
   <trd lng="sv">hal</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_l;&c_i;&c_z;&c_mol;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_o;&c_v;&c_z;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glit.0eglate">
@@ -428,10 +540,19 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="en">
+    <trd>easily</trd>,
+    <trd>smoothly</trd>,
+    <trd>without a hitch</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>les doigts dans le nez</trd>,
     <trd>sans anicroche</trd>
     <trd>superfacile</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>met de <ind>vinger</ind> in de neus</trd>,
+    <trd>heel gemakkelijk</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>jak po ma&sacute;le</trd>,
@@ -455,7 +576,7 @@
         vintra <tld/>ado sur la maro
         <fnt>
           <aut>A. Bach</aut>,
-          <vrk><url ref='http://www.youtube.com/watch?v=nlux-4VIJdQ'>
+          <vrk><url ref="http://www.youtube.com/watch?v=nlux-4VIJdQ">
           Vintra glitado sur la maro</url></vrk>,
           <lok>Jutubo, 2016-03-29</lok>
         </fnt>;
@@ -464,8 +585,7 @@
         <ind>dekliv<tld/>ado</ind>
         <fnt>
           <bib>Viki</bib>,
-          <vrk><url
-          ref='https://eo.wikipedia.org/wiki/Deklivglitado'>
+          <vrk><url ref="&Viki;/Deklivglitado">
           Deklivglitado</url></vrk>
         </fnt>.
         <trd lng="de">Rutschung</trd>
@@ -483,12 +603,18 @@
      <trd>Gleiten</trd>,
      <trd>Rutschen</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>gliding</trd>,
+    <trd>sliding</trd>,
+    <trd>skating</trd>
+  </trdgrp>
   <trd lng="fr">glissade</trd>
   <trdgrp lng="hu">
       <trd>cs&uacute;sz&aacute;s</trd>,
       <trd>sikl&aacute;s</trd>,
       <trd>cs&uacute;szk&aacute;l&aacute;s</trd>
     </trdgrp>
+  <trd lng="ja">&#x6ED1;&#x8D70;  [<ind>&#x304B;&#x3063;&#x305D;&#x3046;</ind>]</trd>
   <trd lng="nl">het <ind>glijden</ind></trd>
   <trdgrp lng="pl">
       <trd>&sacute;lizg</trd>,
@@ -500,6 +626,7 @@
     <trd>&scaron;myk</trd>,
     <trd>&scaron;m&yacute;kanie</trd>
   </trdgrp>
+  <trd lng="uk">&c_k;&c_o;&c_v;&c_z;&c_a;&c_n;&c_n;&c_ja;</trd>
 </drv>
 
 <drv mrk="glit.0emigi">
@@ -517,6 +644,7 @@
     <trd>&c_n;&c_a;&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="en">lubricate</trd>
   <trdgrp lng="fr">
     <trd>lubrifier</trd>,
     <trd>graisser</trd>
@@ -536,8 +664,7 @@
 
 <drv mrk="glit.0ilo">
   <kap><ofc>*</ofc><tld/>ilo <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url
-  ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5037">glit'il'</url></lok></fnt></kap>
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5037">glit'il'</url></lok></fnt></kap>
   <dif>
     &Ccirc;ia ilo <tld/>anta, servanta por <tld/>i a&ubreve; <tld/>igi:
       <ekz>
@@ -545,7 +672,7 @@
         la dentrado turni&gcirc;as
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref='https://eo.wikipedia.org/wiki/Dentorelo'>
+          <lok><url ref="&Viki;/Dentorelo">
           Dentorelo</url></lok>
         </fnt>;
       </ekz>
@@ -554,8 +681,7 @@
         <tld/>kalkulilo]</klr>
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref='https://eo.wikipedia.org/wiki/Glitkalkulilo'>
+          <lok><url ref="&Viki;/Glitkalkulilo">
           Glitkalkulilo</url></lok>
         </fnt>;
       </ekz>
@@ -563,8 +689,7 @@
         &scirc;tuparo por fi&scirc;oj kaj <ind><tld/>ilo por kanuoj</ind>
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=207186'>Sieg</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=207186">Sieg</url></lok>
         </fnt>;
         <trd lng="de">Bootsrutsche</trd>
       </ekz>
@@ -620,8 +745,7 @@
         <klr>(svisa biciklosimila <tld/>veturilo)</klr>
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref='https://eo.wikipedia.org/wiki/Ne%C4%9Doglitilo'>
+          <lok><url ref="&Viki;/Ne%C4%9Doglitilo">
           Ne&gcirc;oglitilo</url></lok>
         </fnt>.
         <trd lng="de">Velogemel</trd>
@@ -640,8 +764,7 @@
         <tld/>ilo, en kiu eblas movi&gcirc;i sur glacia areo
         <fnt>
           <bib>Viki</bib>
-          <vrk><url
-          ref="https://eo.wikipedia.org/wiki/Sketilo">Sketilo</url></vrk>
+          <vrk><url ref="&Viki;/Sketilo">Sketilo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -653,6 +776,7 @@
     <trd>Schlitten <klr>(Bauteil)</klr></trd>
   </trdgrp>
 <!--
+  <trd lng="en">ice skate</trd>
   <trd lng="fr">patin</trd>
   <trdgrp lng="sk">
     <trd>klzn&aacute; plocha</trd>,
@@ -666,6 +790,12 @@
     <trd>skluznice</trd>
   </trdgrp>
 -->
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30B1;&#x30FC;&#x30C8;&#x9774;  [<ind>&#x30B9;&#x30B1;&#x30FC;&#x30C8;&#x3050;&#x3064;</ind>]</trd>,
+    <trd>&#x6ED1;&#x8D70;&#x5177;  [<ind>&#x304B;&#x3063;&#x305D;&#x3046;&#x3050;</ind>]</trd>,
+    <trd>&#x3059;&#x3079;&#x308A;&#x91D1;  [<ind>&#x3059;&#x3079;&#x308A;&#x304B;&#x306D;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_k;&c_o;&c_v;&c_z;&c_a;&c_n;</trd>
 </drv>
 
 <drv mrk="glit.de0i">
@@ -698,12 +828,22 @@
     <trd>sklouznout</trd>,
     <trd>smeknout se</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>slide away</trd>,
+    <trd>slide down</trd>,
+    <trd>slip and fall</trd>
+  </trdgrp>
   <trd lng="fr">glisser<klr tip="ind"> (intr., de qc)</klr></trd>
+  <trd lng="ja">&#x6ED1;&#x308A;&#x843D;&#x3061;&#x308B;  [<ind>&#x3059;&#x3079;&#x308A;&#x304A;&#x3061;&#x308B;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>ze&sacute;lizgiwa&cacute; si&eogonek;</trd>,
     <trd>zje&zdot;d&zdot;a&cacute;</trd>
   </trdgrp>
   <trd lng="sk">po&scaron;mykn&uacute;&tcaron; sa</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_ib;&c_s;&c_k;&c_o;&c_v;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_s;&c_l;&c_i;&c_z;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="glit.de0ilo">
@@ -714,12 +854,12 @@
       <dif>
         <ref tip="dif" cel="tobogan.0o.SPO">Tobogano</ref>:
         <ekz>
-          de<tld/>ilo estas infana atrakcio trovi&gcirc;anta plej ofte en 
+          de<tld/>ilo estas infana atrakcio trovi&gcirc;anta plej ofte en
           infanludejoj, &ccirc;e basenoj, naturaj akvaj areoj destinitaj por
           bani&gcirc;ado
           <fnt>
             <bib>Viki</bib>,
-            <vrk><url ref="http://eo.wikipedia.org/wiki/Deglitilo">
+            <vrk><url ref="&Viki;/Deglitilo">
             Deglitilo</url></vrk>.
          </fnt>
        </ekz>
@@ -731,6 +871,7 @@
     <aut>SC</aut>
   </adm>
   <!-- formon evitindan prefere ne traduku -->
+  <trd lng="en">playground slide</trd>
 </drv>
 
 <drv mrk="glit.de0ejo">
@@ -743,8 +884,7 @@
           12. tobogano, de<tld/>ejo
           <fnt>
             <vrk>
-            <url
-            ref="http://eo.lernu.net/lernado/vortoj/bildvortaro/84.php">
+            <url ref="http://eo.lernu.net/lernado/vortoj/bildvortaro/84.php">
               Lernu! - Bildvortaro</url>
             </vrk>,
             <lok>&ccirc;. 84, Urbaj parkoj</lok>
@@ -758,7 +898,9 @@
     <trd>Rutsche</trd>
     <trd>Rutschbahn</trd>
   </trdgrp>
+  <trd lng="en">playground slide</trd>
   <trd lng="fr">tobogan</trd>
+  <trd lng="nl">glijbaan</trd>
   <trd lng="sk">n&aacute;jazd <klr>(ly&zcaron;iarsky)</klr></trd>
 </drv>
 
@@ -865,6 +1007,11 @@
   <trd>&c_v;&c_y;&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_n;&c_u;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="cs">vyklouznout</trd>
+  <trdgrp lng="en">
+    <trd>slide away</trd>,
+    <trd>glide away</trd>,
+    <trd>slip away</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>s'&eacute;chapper<klr tip="ind"> (en se glissant hors de)</klr>
     </trd>,
@@ -876,9 +1023,18 @@
     <trd>kics&uacute;szik</trd>,
     <trd>kisiklik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6ED1;&#x308A;&#x53BB;&#x308B;  [<ind>&#x3059;&#x3079;&#x308A;&#x3055;&#x308B;</ind>]</trd>,
+    <trd>&#x3053;&#x3063;&#x305D;&#x308A;&#x9003;&#x3052;&#x53BB;&#x308B;  [<ind>&#x3053;&#x3063;&#x305D;&#x308A;&#x306B;&#x3052;&#x3055;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>vyk&lacute;znu&tcaron;</trd>,
     <trd>vy&scaron;mykn&uacute;&tcaron; sa</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_s;&c_k;&c_o;&c_v;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_k;&c_o;&c_v;&c_z;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_i;&c_s;&c_l;&c_i;&c_z;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -912,6 +1068,11 @@
     <trd>lehce vsunout</trd>,
     <trd>vklouznout</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>slide in</trd>,
+    <trd>glide in</trd>,
+    <trd>slip in</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>se <ind>glisser</ind><klr tip="ind"> (dans)</klr></trd>,
     <trd>se <ind>couler</ind><klr tip="ind"> (dans)</klr></trd>,
@@ -920,6 +1081,7 @@
     <trd>s'<ind>introduire</ind></trd>
   </trdgrp>
   <trd lng="hu">becs&uacute;szik</trd>
+  <trd lng="ja">&#x6ED1;&#x308A;&#x8FBC;&#x3080;  [<ind>&#x3059;&#x3079;&#x308A;&#x3053;&#x3080;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>w&sacute;lizgiwa&cacute; si&eogonek;</trd>,
     <trd>wkrada&cacute; si&eogonek;</trd>
@@ -929,6 +1091,34 @@
   </trd>
   <trd lng="sk">vk&lacute;znu&tcaron;</trd>
   <trd lng="sv">halka in i</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_k;&c_o;&c_v;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_l;&c_i;&c_z;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="glit.ter0o">
+  <kap>
+    ter<tld/>o
+  </kap>
+  <snc mrk="glit.ter0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      Glita movi&gcirc;o de granda teramaso la&ubreve; deklivo:
+      <ekz>
+        la tertremo anka&ubreve; ka&ubreve;zis ter<tld/>ojn en la dense arbokovrita
+        <nom>Pic Macaya</nom>, proksima nacia parko
+        <fnt>
+          <aut>E. Lezis, trad. D. Lopez-Rueda</aut>
+          <vrk><url ref="https://eo.globalvoices.org/2021/09/11892/">Kiel haitia bakejo uzas
+          panarbon por kreskigi rezistadon post la tertremo</url></vrk>
+          <lok>GlobalVoices, 2021-09-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">landslide</trd>
+  <trd lng="fr">glissement de terrain</trd>
 </drv>
 
 <drv mrk="glit.0fali">
@@ -937,12 +1127,11 @@
     <dif>
       <ref tip="dif" cel="glit.0i.fali"><tld/>i<sncref/></ref>
       <ekz>
-        la pluvo pli kaj pli grandi&gcirc;is, por ne <tld/>fali, Wang demetis
+        la pluvo pli kaj pli grandi&gcirc;is, por ne <tld/>fali, <nom>Wang</nom> demetis
         siajn &scirc;uojn kaj &scirc;trumpojn
         <fnt>
           <aut>Gua Bao</aut>,
-          <vrk><url
-          ref='http://www.espero.com.cn/old/epch/z06-06s/06s-2/07-06-2-10.htm'>
+          <vrk><url ref="http://www.espero.com.cn/old/epch/z06-06s/06s-2/07-06-2-10.htm">
           Wang Yingyi, kompartiano sin dedi&ccirc;anta al la
           popolo</url></vrk>
           <lok>espero.com.cn, [2007?]</lok>
@@ -953,8 +1142,7 @@
         <tld/>fali en pacan dormon
         <fnt>
           <aut>J. Ribillard</aut>,
-          <vrk><url
-          ref='http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/nlr/nlr36/majorkaj.html'>Majorkaj
+          <vrk><url ref="&DonH;Revuoj/nlr/nlr36/majorkaj.html">Majorkaj
           azule&hcirc;oj</url></vrk>,
           <lok>Nica Literatura Revuo, 3:6</lok>
         </fnt>.
@@ -972,13 +1160,16 @@
     <trd>uklouznout s p&aacute;dem</trd>
   </trdgrp>
   <trd lng="de">ausgleiten</trd>
+  <trd lng="en">slip and fall</trd>
   <trd lng="fr">tomber<klr tip="ind"> (&agrave; la suite d'une
   glissade)</klr></trd>
   <trd lng="hu">elcs&uacute;szik</trd>
+  <trd lng="ja">&#x3059;&#x3079;&#x3063;&#x3066;&#x8EE2;&#x3076;  [<ind>&#x3059;&#x3079;&#x3063;&#x3066;&#x3053;&#x308D;&#x3076;</ind>]</trd>
   <trd lng="nl">uitglijden</trd>
   <trd lng="pl">po&sacute;lizgn&aogonek;&cacute; si&eogonek;</trd>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_k;&c_o;&c_l;&c_mol;&c_z;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
   <trd lng="sk">padn&uacute;&tcaron; pok&lacute;znut&iacute;m</trd>
+  <trd lng="uk">&c_u;&c_p;&c_a;&c_s;&c_t;&c_i;&nbsp;(&c_p;&c_o;&c_s;&c_l;&c_i;&c_z;&c_n;&c_u;&c_v;&c_sh;&c_i;&c_s;&c_mol;)</trd>
 </drv>
 
 <drv mrk="glit.0kuri">
@@ -987,8 +1178,7 @@
   <snc mrk="glit.0kuri.SPO">
     <uzo tip="fak">SPO</uzo>
     <dif>
-      <ref tip="super" cel="glit.0i.antauxenigxi"><tld
-      lit="G"/>i<sncref/></ref>
+      <ref tip="super" cel="glit.0i.antauxenigxi"><tld lit="G"/>i<sncref/></ref>
       por amuzi&gcirc;i, korpe ekzerci&gcirc;i:
       <ekz>
         se mi povus tion fari, mi irus nun malsupren sur la glacion por
@@ -1014,26 +1204,29 @@
     <trd>klouzat se</trd>
   </trdgrp>
   <trd lng="de">Schlittschuh laufen</trd>
+  <trd lng="en">skate</trd>
   <trdgrp lng="fr">
     <trd>patiner<klr tip="ind"> (en patins &agrave; glace)</klr></trd>,
     <trd>faire du <ind>patin</ind><klr tip="ind"> (&agrave; glace)</klr>
     </trd>
   </trdgrp>
   <trd lng="hu">korcsoly&aacute;zik</trd>
+  <trd lng="ja">&#x30B9;&#x30B1;&#x30FC;&#x30C8;&#x3059;&#x308B;  [<ind>&#x3059;&#x3051;&#x30FC;&#x3068;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">schaatsen</trd>
   <trdgrp lng="pl">
     <trd>je&zacute;dzi&cacute; na &lstroke;y&zdot;wach</trd>
   </trdgrp>
   <trd lng="sk">kor&ccaron;u&lcaron;ova&tcaron; sa</trd>
+  <trd lng="uk">&c_k;&c_o;&c_v;&c_z;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
 </drv>
 
-<drv mrk="glit.0punkta.koma">
+<drv mrk="glit.0punkta">
   <kap><tld/>punkta, <var><kap><tld/>koma</kap></var></kap>
   <snc mrk="glit.0punkta.KOMP">
     <uzo tip="fak">KOMP</uzo>
     <dif>
       Rilata al la maniero prezenti nombron en la formo
-      <frm>M&#215;b<sup>E</sup></frm>, kie
+      <frm>M&#xD7;b<sup>E</sup></frm>, kie
       <frm>b</frm> estas la bazo de pozicia nombrosistemo;
       <frm>M</frm> estas la
       <ref tip="prt" cel="mantis.0o.glitpunkta">mantiso</ref>
@@ -1041,8 +1234,8 @@
       kaj <frm>E</frm> estas la
       <ref tip="prt" cel="ekspon2.0o.glitpunkta">eksponento</ref>:
       <ekz>
-        12.3&#215;10<sup>1</sup>, 1.23&#215;10<sup>2</sup>,
-        0.123&#215;10<sup>3</sup> estas egalaj nombroprezentoj
+        12.3&#xD7;10<sup>1</sup>, 1.23&#xD7;10<sup>2</sup>,
+        0.123&#xD7;10<sup>3</sup> estas egalaj nombroprezentoj
         <tld/>punktaj;
       </ekz>
       <ekz>
@@ -1050,7 +1243,7 @@
         tiu de P5
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref='https://eo.wikipedia.org/wiki/Celeron'>
+          <lok><url ref="&Viki;/Celeron">
           Celeron</url></lok>
         </fnt>;
       </ekz>
@@ -1058,7 +1251,7 @@
         la algoritmo estas realigata per <tld/>koma aritmetiko
         <fnt>
           <bib>Viki</bib>,
-          <lok><url ref='https://eo.wikipedia.org/wiki/QR-faktorigo'>
+          <lok><url ref="&Viki;/QR-faktorigo">
           QR-faktorigo</url></lok>
         </fnt>;
       </ekz>
@@ -1066,48 +1259,53 @@
         <tld/>komaj nombroj
         <fnt>
           <bib>Viki</bib>,
-          <lok><url
-          ref='https://eo.wikipedia.org/wiki/-0'>-0</url></lok>
+          <lok><url ref="&Viki;/-0">-0</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="malprt" cel="frakci.pozicia0o">poziciaj frakcioj</ref>
     <ref tip="malprt" cel="reel.0o.KOMP">reeloj</ref>
-    <ref tip="vid" cel="fiks.0punkta.koma">fikspunkta, fikskoma</ref>
+    <ref tip="vid" cel="fiks.0koma">fikspunkta, fikskoma</ref>
   </snc>
   <trd lng="cs">s pohyblivou desetinou &ccaron;&aacute;rkou</trd>
   <trd lng="de">Gleitkomma-</trd>
   <trd lng="en">floating-point</trd>
   <trd lng="fr">&agrave; <ind>virgule</ind> flottante</trd>
   <trd lng="hu">lebeg&odblac;pontos</trd>
+  <trd lng="ja">&#x6D6E;&#x52D5;&#x5C0F;&#x6570;&#x70B9;&#x306E;  [<ind>&#x3075;&#x3069;&#x3046;&#x3057;&#x3087;&#x3046;&#x3059;&#x3046;&#x3066;&#x3093;&#x306E;</ind>]</trd>
   <trd lng="pl">zmiennoprzecinkowy</trd>
-  <trd lng="ru">&c_s; <ind>&c_p;&c_l;&c_a;&c_v;&c_a;&c_ju;&c_shch;&c_je;&c_j;</ind> &c_t;&c_o;&c_ch;&c_k;&c_o;&c_j;
+  <trd lng="ru">&c_s; <ind>&c_p;&c_l;&c_a;&c_v;&c_a;&c_ju;&c_shch;&c_je;&c_j;</ind>
+  &c_t;&c_o;&c_ch;&c_k;&c_o;&c_j;
   <klr>(&c_i;&c_l;&c_i; &c_z;&c_a;&c_p;&c_ja;&c_t;&c_o;&c_j;)</klr></trd>
   <trd lng="sk">s pohyblivou desatinnou &ccaron;iarkou</trd>
   <trd lng="sv">flyttals-</trd>
+  <trd lng="uk">&c_z; &c_p;&c_l;&c_a;&c_v;&c_a;&c_ju;&c_ch;&c_o;&c_ju; &c_k;&c_o;&c_m;&c_o;&c_ju;</trd>
 </drv>
 
 </art>
 <!--
 $Log$
+versio 1.121 2023/07/02 12:49:03
+Paul Peeraerts:  + trd nl + lok
+
+versio 1.120 2023/06/30 05:31:24
+Paul Peeraerts:  + trd nl
+
+versio 1.119 2022/07/17 12:50:35
+Ulrich Fellmann: gliti: +5 DE trdj
+
+versio 1.118 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.117 2022/03/23 03:41:13
+Noam Mohr: +trd en glit-
+
+versio 1.113 2021/09/25 18:31:27
+Jeromo Vasxe: + ter~o
+
+versio 1.46 2021/05/12 14:51:23
+Wolfram Diestel: kor. drv@mrk, ref-cel
+
 Revision 1.44  2017/12/19 17:10:15  revo
-Michel Cantigneaux: "glit/il/o" fundamenta kunmetajxo el la U.V.
-
-Revision 1.43  2017/06/25 14:10:17  revo
-Wolfram Diestel: shovis trd en ghustan lokon
-
-Revision 1.42  2017/02/18 12:10:13  revo
-Jeromo Vasxe: tld/veturilo -> ~veturilo
-
-Revision 1.41  2017/02/17 14:10:15  revo
-Jeromo Vasxe: glaciio -> glacio, ordig. drv
-
-Revision 1.40  2017/01/06 18:10:14  revo
-Wolfram Diestel: glitveturilo jam estis che vetur/
-
-Revision 1.39  2017/01/06 13:10:13  revo
-Damien Brucker: -sncref
-
-Revision 1.38  2017/01/06 12:10:13  revo
 -->
 </vortaro>

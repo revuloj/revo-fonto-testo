@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: karika.xml,v 1.16 2010/05/02 16:31:12 revo Exp $">
+<art mrk="$Id: karika.xml,v 1.25 2023/09/01 13:58:56 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>karikatur</rad>/o
@@ -62,7 +61,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        Mi&ccirc;jo Muso, Donaldo Anaso <klr>[&#8230;]</klr> kreitaj de la <tld/>isto <nom>Walt Disney</nom>
+        Mi&ccirc;jo Muso, Donaldo Anaso <klr>[&#x2026;]</klr> kreitaj de la <tld/>isto <nom>Walt Disney</nom>
         <fnt>
           <bib>Monato</bib>
           <aut>Roberto Pigro</aut>
@@ -82,6 +81,12 @@
   <trd lng="fa">&f_k;&a_A;&a_r;&f_y;&f_k;&a_A;&a_t;&a_w;&a_r;</trd>
   <trd lng="fr">caricature</trd>
   <trd lng="hu">karikat&uacute;ra</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8AF7;&#x523A;&#x753B;  [<ind>&#x8AF7;&#x523A;&#x304C;</ind>]</trd>,
+    <trd>&#x6F2B;&#x753B;  [<ind>&#x307E;&#x3093;&#x304C;</ind>]</trd>,
+    <trd>&#x622F;&#x753B;  [<ind>&#x304E;&#x304C;</ind>]</trd>,
+    <trd>&#x30AB;&#x30EA;&#x30AB;&#x30C1;&#x30E5;&#x30A2;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>spotprent</trd>,
     <trd>karikatuur</trd>
@@ -91,6 +96,7 @@
   <trd lng="ru">&c_k;&c_a;&c_r;&c_i;&c_k;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
   <trd lng="sk">karikat&uacute;ra</trd>
   <trd lng="sv">karikatyr</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_r;&c_i;&#x43A;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
 </drv>
 
 <drv mrk="karika.0i">
@@ -110,6 +116,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol; &c_k;&c_a;&c_r;&c_y;&c_k;&c_a;&c_t;&c_u;&c_r;&c_u;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; &c_u; &c_k;&c_a;&c_r;&c_y;&c_k;&c_a;&c_t;&c_u;&c_r;&c_n;&c_y;&c_m; &c_v;&c_y;&c_g;&c_l;&c_ja;&c_d;&c_z;&c_je;</trd>
+  </trdgrp>
   <trdgrp lng="ca">
     <trd>caricaturar</trd>,
     <trd>caricaturitzar</trd>
@@ -121,6 +131,10 @@
   </klr>&f_k;&a_sh;&f_y;&a_d;&a_n;</trd>
   <trd lng="fr">caricaturer</trd>
   <trd lng="hu">karik&iacute;roz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8AF7;&#x523A;&#x753B;&#x306B;&#x3059;&#x308B;  [<ind>&#x8AF7;&#x523A;&#x304C;&#x306B;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6F2B;&#x753B;&#x5316;&#x3059;&#x308B;  [<ind>&#x307E;&#x3093;&#x304C;&#x304B;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">karikaturiseren</trd>
   <trd lng="pl">karykaturowa&cacute;</trd>
   <trd lng="sk">karikova&tcaron;</trd>
@@ -128,6 +142,9 @@
 </art>
 <!--
 $Log$
+versio 1.24 2023/02/28 07:27:18
+Dmitri Gabinski: + trd be
+
 Revision 1.21  2018/08/31 19:10:15  revo
 Wolfram Diestel: +ekz-oj, vortumo de dif
 
@@ -147,8 +164,5 @@ Revision 1.16  2010/05/02 16:31:12  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.15  2009/08/23 16:34:08  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.14  2005/05/16 17:47:55  revo
 -->
 </vortaro>

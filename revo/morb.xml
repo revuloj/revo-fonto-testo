@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: morb.xml,v 1.7 2023/09/02 06:04:14 revo Exp $">
     <kap>
       <rad>morb</rad>/o
     </kap>
@@ -14,14 +13,14 @@
   <snc>
     <dif>
       De la latina &leftquot;<trd lng="la">morbus</trd>&rightquot;, t.e. <ref tip="super" cel="san.mal0o">malsano</ref>, 
-      science uzata por doni nomon al anta&ubreve;e nekonata malsano kunmetante la vorton kun la nomo de la priskribinto:
+      science uzata por doni nomon al anta&ubreve;e nekonata malsano kunmetante la vorton kun la nomo de la
+      priskribinto:
       <ekz>
-        sarkoidozo, anka&ubreve; konata per la nomoj <tld lit="M"/>o <nom>Boeck</nom> <klr>[&#8230;]</klr> a&ubreve;
+        sarkoidozo, anka&ubreve; konata per la nomoj <tld lit="M"/>o <nom>Boeck</nom> <klr>[&#x2026;]</klr> a&ubreve;
         <tld lit="M"/>o <nom>Schaumann-Besnier</nom>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=190213"
-              >Sarkoidozo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=190213">Sarkoidozo</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -29,20 +28,20 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Evgeni Georgiev</aut>
-          <vrk><url ref="https://www.monato.be/2012/010783.php"
-              >&Ccirc;u vakcino &ccirc;e la horizonto?</url></vrk>
+          <vrk><url ref="&Monato;/2012/010783.php">&Ccirc;u vakcino &ccirc;e la horizonto?</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
         la bakterian <tld/>on de <nom>Lyme</nom> disvastigas nur la kutima iksodo
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=23089"
-              >Iksodo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=23089">Iksodo</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <trd lng="de">Morbus</trd>
+    <trd lng="pl">choroba zdefiniowana naukowo</trd>
+    <trd lng="ro">boal&abreve; definit&abreve; &#x219;tiin&#x21B;ific</trd>
   </snc>
   <rim>
     Malsanoj povas havi plurajn tiajn <tld/>o-nomojn, &ccirc;ar ofte nur poste oni
@@ -53,8 +52,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Garvan Makaj</aut>
-          <vrk><url ref="https://www.monato.be/2008/009513.php"
-              >Punkto de malekvilibrigo</url></vrk>
+          <vrk><url ref="&Monato;/2008/009513.php">Punkto de malekvilibrigo</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -62,16 +60,36 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Alice Liu</aut>
-          <vrk><url ref="https://www.monato.be/2012/010706.php"
-              >Premio alfrontas premon</url></vrk>
+          <vrk><url ref="&Monato;/2012/010706.php">Premio alfrontas premon</url></vrk>
         </fnt>.
       </ekz>
   </rim>
+  <trd lng="be">&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a; <klr>(&c_u; &c_s;&c_k;&c_l;&c_a;&c_d;&c_z;&c_je; &c_n;&c_a;&c_v;&c_u;&c_k;&c_o;&c_v;&c_y; &c_n;&c_a;&c_z;&c_v;&c_a;&c_w;)</klr></trd>
+  <trd lng="en">disease<klr> (used in the names of some diseases, rarely standalone)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x75BE;&#x75C5;  [<ind>&#x3057;&#x3063;&#x307A;&#x3044;</ind>]</trd>,
+    <trd>&#x75BE;&#x60A3;  [<ind>&#x3057;&#x3063;&#x304B;&#x3093;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_h;&c_v;&c_o;&c_r;&c_o;&c_b;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_h;&c_v;&c_o;&c_r;&c_ju;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
   </art>
 
 <!--
 $Log$
+versio 1.6 2023/06/04 12:39:41
+Christian Siefkes: +trd en
+
+versio 1.5 2023/02/16 07:26:39
+Dmitri Gabinski: + trd be
+
+versio 1.4 2022/05/01 12:05:12
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.2 2020/10/27 21:11:38
+Vito Redsky: +trd pl  + trd ro 
 -->
 </vortaro>

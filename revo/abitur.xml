@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: abitur.xml,v 1.24 2010/06/28 17:53:13 revo Exp $">
+<art mrk="$Id: abitur.xml,v 1.37 2023/08/27 17:27:16 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>abiturient</rad>/o
@@ -41,11 +40,14 @@
   <trd lng="es">bachiller</trd>
   <trd lng="fr">bachelier<klr tip="ind"> (personne re&ccedil;ue &agrave;
   l'examen de fin d'&eacute;tudes secondaires)</klr></trd>
+  <trd lng="he">&#x5D1;&#x5D5;&#x5D2;&#x5E8; &#x5EA;&#x5D5;&#x5D0;&#x5E8;
+  &#x5E8;&#x5D0;&#x5E9;&#x5D5;&#x5DF;</trd>
   <trd lng="hu">&eacute;retts&eacute;gizett</trd>
   <trdgrp lng="it">
     <trd>maturo<klr> (diplomato)</klr></trd>,
     <trd>diplomato<klr> (scuola secondaria superiore)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x30A2;&#x30D3;&#x30C8;&#x30A5;&#x30EA;&#x30A8;&#x30F3;&#x30C8;</trd>
   <trdgrp lng="pl">
     <trd>abiturient</trd>,
     <trd>maturzysta</trd>
@@ -57,6 +59,14 @@
   <trdgrp lng="sk">
     <trd>absolvent</trd>,
     <trd>maturant</trd>
+  </trdgrp>
+  <trdgrp lng="sl">
+    <trd>maturant</trd>,
+    <trd>abiturient</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&#x43F;&c_u;&c_s;&#x43A;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&c_a;&c_b;&c_ib;&c_t;&c_u;&c_r;&c_ib;&c_jeu;&#x43D;&c_t;</trd>
   </trdgrp>
 </drv>
 
@@ -83,6 +93,7 @@
     <trd>rev&aacute;lida</trd>
   </trdgrp>
   <trd lng="fr">baccalaur&eacute;at</trd>
+  <trd lng="he">&#x5D1;&#x5D7;&#x5D9;&#x5E0;&#x5EA; &#x5D1;&#x5D2;&#x5E8;&#x5D5;&#x5EA;</trd>
   <trd lng="hu">&eacute;retts&eacute;gi vizsga</trd>
   <trdgrp lng="it">
     <trd><ind>esame</ind> di maturit&agrave;</trd>,
@@ -94,8 +105,8 @@
     <trd>egzamin dojrza&lstroke;o&sacute;ci</trd>
   </trdgrp>
   <trd lng="sk">maturitn&aacute; sk&uacute;&scaron;ka</trd>
+  <trd lng="sl">matura</trd>
 </drv>
-
 
 </art>
 <!--

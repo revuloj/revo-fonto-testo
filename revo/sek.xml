@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sek.xml,v 1.123 2023/09/03 18:39:28 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sek</rad>/a <fnt><bib>PV</bib></fnt>
@@ -140,33 +140,107 @@
     </dif>
   </snc>
   <trd lng="af">droog</trd>
+  <trd lng="am">&#x12F0;&#x1228;&#x1245;</trd>
+  <trd lng="ar">&#x62C;&a_A;&a_f;</trd>
+  <trd lng="az">quru</trd>
   <trd lng="be">&c_s;&c_u;&c_h;&c_ib;</trd>
   <trd lng="bg">&c_s;&c_u;&c_h;</trd>
+  <trd lng="bn">&#x9B6;&#x9C1;&#x9B7;&#x9CD;&#x995;</trd>
+  <trd lng="bo">&#xF66;&#xF90;&#xF58;&#xF0B;&#xF54;&#xF0B;</trd>
+  <trd lng="bs">suho</trd>
   <trd lng="ca">sec</trd>
+  <trd lng="co">asciuttu</trd>
   <trd lng="cs">such&yacute;</trd>
+  <trd lng="cy">sych</trd>
+  <trd lng="da">t&#xF8;r</trd>
   <trd lng="de">trocken</trd>
   <trd lng="en">dry</trd>
   <trd lng="es">seco</trd>
+  <trd lng="et">kuiv</trd>
+  <trd lng="eu">lehorra</trd>
   <trd lng="fr">sec<klr> (adj.)</klr></trd>
   <trd lng="fy">dr&ucirc;ch</trd>
+  <trd lng="ga">tirim</trd>
+  <trd lng="gd">tioram</trd>
+  <trd lng="gl">seca</trd>
+  <trd lng="gu">&#xAB6;&#xAC1;&#xAB7;&#xACD;&#xA95;</trd>
+  <trd lng="ha">bushe</trd>
   <trd lng="he">&yod;&bet;&shin;</trd>
+  <trd lng="hi">&#x938;&#x942;&#x916;&#x93E;</trd>
+  <trd lng="hmn">qhuav</trd>
+  <trd lng="hr">suhi</trd>
+  <trd lng="ht">s&#xE8;k</trd>
   <trd lng="hu">sz&aacute;raz</trd>
+  <trd lng="hy">&#x579;&#x578;&#x580;</trd>
   <trd lng="ia">sic</trd>
   <trd lng="id">kering</trd>
+  <trd lng="ig">ak&#x1ECD;r&#x1ECD;</trd>
   <trd lng="io">sika</trd>
+  <trd lng="is">&#xFE;urr</trd>
   <trdgrp lng="it">
     <trd>asciutto</trd>,
     <trd>secco</trd>
   </trdgrp>
+  <trd lng="ja">&#x30C9;&#x30E9;&#x30A4;</trd>
   <trd lng="jbo">sudga</trd>
+  <trd lng="jv">garing</trd>
+  <trd lng="ka">&#x10DB;&#x10E8;&#x10E0;&#x10D0;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&#x49B;&#x4B1;&c_r;&#x493;&c_a;&#x49B;</trd>
+  <trd lng="km">&#x179F;&#x17D2;&#x1784;&#x17BD;&#x178F;</trd>
+  <trd lng="kn">&#xC92;&#xCA3;</trd>
+  <trd lng="ko">&#xAC74;&#xC870;</trd>
+  <trd lng="ku">z&#xFB;ha</trd>
+  <trd lng="ky">&#x43A;&c_u;&c_r;&c_g;&c_a;&#x43A;</trd>
+  <trd lng="lat">siccum</trd>
+  <trd lng="lo">&#xEC1;&#xEAB;&#xEC9;&#xE87;&#xEC1;&#xEA5;&#xEC9;&#xE87;</trd>
+  <trd lng="lt">sausas</trd>
+  <trd lng="lv">sauss</trd>
+  <trd lng="mg">maina</trd>
+  <trd lng="mi">maroke</trd>
+  <trd lng="mk">&c_s;&c_u;&c_v;&c_a;</trd>
+  <trd lng="ml">&#xD09;&#xD23;&#xD19;&#xD4D;&#xD19;&#xD3F;&#xD2F;</trd>
+  <trd lng="mn">&c_h;&c_u;&c_u;&c_r;&c_a;&c_j;,</trd>
+  <trd lng="mr">&#x915;&#x94B;&#x930;&#x921;&#x93E;</trd>
+  <trd lng="ms">kering</trd>
+  <trd lng="mt">xott</trd>
+  <trd lng="my">&#x1001;&#x103C;&#x1031;&#x102C;&#x1000;&#x103A;&#x101E;&#x103D;&#x1031;&#x1037;&#x101E;&#x1031;&#x102C;</trd>
+  <trd lng="ne">&#x938;&#x941;&#x915;&#x94D;&#x916;&#x93E;</trd>
   <trd lng="nl">droog</trd>
+  <trd lng="ny">youma</trd>
+  <trd lng="pa">&#xA16;&#xA41;&#xA38;&#xA3C;&#xA15;</trd>
+  <trd lng="pl">suchy</trd>
+  <trd lng="ps">&a_w;&f_ch;</trd>
   <trd lng="ru">&c_s;&c_u;&c_h;&c_o;&c_j;</trd>
+  <trd lng="rw">yumye</trd>
+  <trd lng="sd">&a_s;&#x6AA;&#x64A;</trd>
+  <trd lng="si">&#xDC0;&#xDD2;&#xDBA;&#xDC5;&#xDD2;</trd>
   <trd lng="sk">such&yacute;</trd>
+  <trd lng="sl">suha</trd>
+  <trd lng="sm">mago</trd>
+  <trd lng="sn">akaoma</trd>
+  <trd lng="so">qallalan</trd>
+  <trd lng="sq">that&#xEB;</trd>
+  <trd lng="st">omileng</trd>
+  <trd lng="su">garing</trd>
   <trd lng="sv">torr</trd>
-  <trd lng="tp">telo ala</trd>
+  <trd lng="sw">kavu</trd>
+  <trd lng="ta">&#xB89;&#xBB2;&#xBB0;&#xBCD;</trd>
+  <trd lng="te">&#xC2A;&#xC4A;&#xC21;&#xC3F;</trd>
+  <trd lng="tg">&c_h;&c_u;&c_sh;&#x43A;</trd>
+  <trd lng="th">&#xE41;&#xE2B;&#xE49;&#xE07;</trd>
+  <trd lng="tok">telo ala</trd>
   <trd lng="tr">kuru</trd>
+  <trd lng="tt">&#x43A;&#x43E;&c_r;&#x44B;</trd>
+  <trd lng="uk">&c_s;&c_u;&c_h;&c_i;&c_j;</trd>
+  <trd lng="ur">&#x62E;&a_sh;&#x6A9;</trd>
+  <trd lng="uz">quruq</trd>
+  <trd lng="vi">kh&#xF4;</trd>
   <trd lng="vo">s&auml;gik</trd>
-  <trd lng="zh">&#24178;&#29157;</trd>
+  <trd lng="xh">omile</trd>
+  <trd lng="yi">&#x5D8;&#x5E8;&#x5D5;&#x5E7;&#x5DF;</trd>
+  <trd lng="yo">gb&#x1EB9;</trd>
+  <trd lng="zh">&#x5E72;&#x71E5;</trd>
+  <trd lng="zu">eyomile</trd>
 </drv>
 
 <drv mrk="sek.0ajxo">
@@ -176,7 +250,7 @@
     <dif>
       Io <tld/>a:
       <ekz>
-        la patrino iras <klr>...</klr> en la &ccirc;ambreton
+        la patrino iras <klr>[&#x2026;]</klr> en la &ccirc;ambreton
         al la etulo, kiu &jcirc;us ekkriis, metas lin en
         <tld/>a&jcirc;on, donas al li botelon
         <fnt>
@@ -186,11 +260,13 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_s;&c_u;&c_h;&c_o;&c_je; <klr>(&c_n;&c_je;&c_sh;&c_t;&c_a;)</klr></trd>
     <trd lng="bg">&c_n;&c_je;&c_shch;&c_o; &c_s;&c_u;&c_h;&c_o;</trd>
     <trdgrp lng="ca">
       <trd>indret</trd>,
       <trd>objecte sec</trd>
     </trdgrp>
+    <trd lng="pl">co&sacute;  <ind>suchego</ind></trd>
     <trd lng="ru">&c_s;&c_u;&c_h;&c_o;&c_je;<klr>
     (&c_s;&c_u;&c_shch;.)</klr></trd>
   </snc>
@@ -214,6 +290,7 @@
         <tld/>a&jcirc;o.
       </ekz>
     </dif>
+    <trd lng="be">&c_s;&c_u;&c_sh;&c_a;</trd>
     <trd lng="bg">&c_s;&c_u;&c_sh;&c_a;</trd>
     <trd lng="ca">terra seca</trd>
     <trdgrp lng="en">
@@ -223,8 +300,10 @@
     </trdgrp>
     <trd lng="fr">sec<klr> (subst.)</klr></trd>
     <trd lng="nl">het droge</trd>
+    <trd lng="pl">sucha ziemia</trd>
     <trd lng="ru">&c_s;&c_u;&c_sh;&c_a;</trd>
   </snc>
+  <trd lng="uk">&c_s;&c_u;&c_sh;&c_a;</trd>
 </drv>
 
 <drv mrk="sek.0igi">
@@ -249,13 +328,18 @@
   <trd lng="fr">s&eacute;cher</trd>
   <trd lng="he">&lamed;<ind>&yod;&bet;&shin;</ind></trd>
   <trd lng="hu">sz&aacute;r&iacute;t</trd>
-  <trd lng="id">[<ind>kering</ind>] mengeringkan</trd>
+  <trd lng="id"><baz>kering</baz> mengeringkan</trd>
   <trd lng="io">sikigar</trd>
   <trdgrp lng="it">
     <trd>seccare</trd>,
     <trd>essiccare</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x4E7E;&#x304B;&#x3059;  [<ind>&#x304B;&#x308F;&#x304B;&#x3059;</ind>]</trd>,
+    <trd>&#x5E72;&#x3059;  [<ind>&#x307B;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">drogen<klr tip="ind"> (doen drogen)</klr></trd>
+  <trd lng="pl">suszy&cacute;</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_s;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>
@@ -267,6 +351,7 @@
   </trdgrp>
   <trd lng="sv">torka</trd>
   <trd lng="tr">kurutmak</trd>
+  <trd lng="uk">&c_s;&c_u;&c_sh;&c_i;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="sek.0igejo">
@@ -275,7 +360,7 @@
     <dif>
       Loko destinita al <tld/>igo:
       <ekz>
-        a&ubreve;tune <klr>...</klr> en la <tld/>igejo estis
+        a&ubreve;tune <klr>[&#x2026;]</klr> en la <tld/>igejo estis
         lignokradaroj plenaj je prunoj
         <fnt>
           <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K.
@@ -287,8 +372,15 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_u;&c_sh;&c_y;&c_l;&c_mol;&c_n;&c_ja;</trd>
   <trd lng="bg">&c_s;&c_u;&c_sh;&c_i;&c_l;&c_n;&c_ja;</trd>
   <trd lng="fr">s&eacute;choir<klr> (lieu)</klr></trd>
+  <trd lng="pl">suszarnia</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&c_u;&c_sh;&c_a;&c_r;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_sh;&c_a;&c_r;&#x43D;&#x44F;</trd>,
+    <trd>&c_s;&c_u;&c_sh;&c_i;&#x43B;&#x44C;&#x43D;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sek.0igxi">
@@ -333,10 +425,18 @@
   </trdgrp>
   <trd lng="he">&lamed;&he;&tav;<ind>&yod;&bet;&shin;</ind></trd>
   <trd lng="hu">sz&aacute;rad</trd>
-  <trd lng="id">[<ind>kering</ind>] mengering</trd>
+  <trd lng="id"><baz>kering</baz> mengering</trd>
   <trd lng="io">sikeskar</trd>
   <trd lng="it">seccarsi</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4E7E;&#x304F;  [<ind>&#x304B;&#x308F;&#x304F;</ind>]</trd>,
+    <trd>&#x4E7E;&#x71E5;&#x3059;&#x308B;  [<ind>&#x304B;&#x3093;&#x305D;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">drogen<klr tip="ind"> (droog worden)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>wysuszy&cacute; si&eogonek;</trd>,
+    <trd>suszy&cacute; si&eogonek;</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_s;&c_o;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_s;&c_y;&c_h;&c_a;&c_t;&c_mol;</trd>,
@@ -347,6 +447,10 @@
     <trd>torka ut</trd>
   </trdgrp>
   <trd lng="tr">kurumak</trd>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43E;&c_h;&#x43D;&c_u;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_u;&c_sh;&c_i;&c_t;&c_i;&c_s;&#x44F;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sek.mal0a">
@@ -362,7 +466,7 @@
       </ekz>
       <ekz>
         la mantelo estas mal<tld/>a, sed la vesto
-        sub &gcirc;i &#8208; <tld/>a
+        sub &gcirc;i &#x2010; <tld/>a
         <fnt><bib>Metrop</bib></fnt>;
       </ekz>
       <ekz>
@@ -420,6 +524,7 @@
     <trd>&c_v;&c_ib;&c_l;&c_mol;&c_g;&c_o;&c_t;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="af">nat</trd>
+  <trd lng="bo">&#xF62;&#xFB3;&#xF7C;&#xF53;&#xF0B;&#xF54;&#xF0B;</trd>
   <trd lng="ca">mullat</trd>
   <trd lng="cs">mokr&yacute;</trd>
   <trd lng="de">nass</trd>
@@ -432,15 +537,29 @@
   <trd lng="ia">humide</trd>
   <trd lng="id">basah</trd>
   <trd lng="io">humida</trd>
+  <trdgrp lng="ja">
+    <trd>&#x306C;&#x308C;&#x305F;</trd>,
+    <trd>&#x6E7F;&#x3063;&#x305F;  [<ind>&#x3057;&#x3081;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x6E7F;&#x6C17;&#x306E;&#x591A;&#x3044;  [<ind>&#x3057;&#x3063;&#x3051;&#x306E;&#x304A;&#x304A;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="jbo">cilmo</trd>
   <trd lng="nl">nat</trd>
+  <trdgrp lng="pl">
+    <trd>mokry</trd>,
+    <trd>nawil&zdot;aj&aogonek;cy</trd>,
+    <trd>wilgotny</trd>
+  </trdgrp>
   <trd lng="sk">mokr&yacute;</trd>
   <trd lng="sv">bl&ouml;t</trd>
   <trdgrp lng="tr">
     <trd>&inodot;slak</trd>,
     <trd>nemli</trd>
   </trdgrp>
-  <trd lng="tp">telo</trd>
+  <trd lng="tok">telo</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&#x43E;&#x43A;&c_r;&c_i;&c_j;</trd>,
+    <trd>&c_v;&#x43E;&#x43B;&#x43E;&c_g;&c_i;&c_j;</trd>
+  </trdgrp>
   <trd lng="vo">luimik</trd>
 </drv>
 
@@ -458,6 +577,11 @@
       </ekz>
      </dif>
    </snc>
+   <trdgrp lng="be">
+     <trd>&c_m;&c_a;&c_k;&c_r;&c_a;&c_t;&c_a;</trd>,
+     <trd>&c_m;&c_a;&c_k;&c_r;&c_e;&c_ch;&c_a;</trd>,
+     <trd>&c_v;&c_ib;&c_l;&c_mol;&c_g;&c_a;&c_c;&c_mol;</trd>
+   </trdgrp>
   <trdgrp lng="bg">
     <trd>&c_m;&c_o;&c_k;&c_r;&c_o;&c_t;&c_a;</trd>,
     <trd>&c_v;&c_l;&c_a;&c_zh;&c_n;&c_o;&c_s;&c_t;</trd>
@@ -468,9 +592,18 @@
     <trd>vlhkost</trd>
   </trdgrp>
   <trd lng="fr">humidit&eacute;</trd>
-  <trd lng="id">[<ind>lembap</ind>] kelembapan</trd>
+  <trd lng="id">ke<ind>lembap</ind>an</trd>
   <trd lng="io">humideso</trd>
+  <trd lng="ja">&#x6E7F;&#x6C17;  [<ind>&#x3057;&#x3063;&#x3051;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>wilgo&cacute;</trd>,
+    <trd>wilgotno&sacute;&cacute;</trd>
+  </trdgrp>
   <trd lng="sk">mokros&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&c_s;&c_t;&#x44C;</trd>,
+    <trd>&#x43C;&#x43E;&#x43A;&c_r;&#x43E;&c_t;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sek.mal0eta">
@@ -488,8 +621,7 @@
         &scirc;vitis; la okuloj brilis mal<tld/>ete
           <fnt>
             <aut>M. Boulton</aut>,
-            <vrk><url
-            ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr33/ebrivirgecou.html">
+            <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr33/ebrivirgecou.html">
             Ebrivirgeco</url></vrk>,
             <lok>Nica Literatura Revuo, 1958-01 &gcirc;is 02, numero
             3:3, p.
@@ -501,6 +633,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_o;&c_k;&c_r;&c_y;</trd>,
+    <trd>&c_v;&c_ib;&c_l;&c_mol;&c_g;&c_o;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="bg">&c_v;&c_l;&c_a;&c_zh;&c_je;&c_n;</trd>
   <trd lng="ca">humit</trd>
   <trd lng="cs">vlhk&yacute;</trd>
@@ -521,10 +657,15 @@
     <trd>bagnaticcio</trd>,
     <trd>umido</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6E7F;&#x3063;&#x305F;  [<ind>&#x3057;&#x3081;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x6E7F;&#x6C17;&#x306E;&#x3042;&#x308B;  [<ind>&#x3057;&#x3063;&#x3051;&#x306E;&#x3042;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>vochtig</trd>,
     <trd>klam</trd>
   </trdgrp>
+  <trd lng="pl">wilgotny</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_l;&c_a;&c_zh;&c_n;&c_y;&c_j;</trd>,
     <trd>&c_s;&c_y;&c_r;&c_o;&c_j;</trd>
@@ -544,20 +685,36 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_n;&c_a;&c_m;&c_o;&c_k;&c_r;&c_ja;&c_m;</trd>
   <trdgrp lng="cs">
     <trd>navlh&ccaron;it</trd>,
     <trd>svla&zcaron;it</trd>
   </trdgrp>
   <trd lng="fr">mouiller</trd>
-  <trd lng="id">[<ind>basah</ind>] membasahi</trd>
+  <trd lng="id">mem<ind>basah</ind>i</trd>
   <trd lng="io">humidigar</trd>
+  <trdgrp lng="ja">
+    <trd>&#x306C;&#x3089;&#x3059;</trd>,
+    <trd>&#x6E7F;&#x3089;&#x3059;  [<ind>&#x3057;&#x3081;&#x3089;&#x3059;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zmoczy&cacute;</trd>,
+    <trd>moczy&cacute;</trd>,
+    <trd>zwil&zdot;y&cacute;</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>namo&ccaron;i&tcaron;</trd>,
     <trd>navlh&ccaron;i&tcaron;</trd>,
     <trd>zamo&ccaron;i&tcaron;</trd>,
     <trd>zavla&zcaron;i&tcaron;</trd>,
     <trd>zvlh&ccaron;i&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&#x43E;&c_z;&#x43C;&#x43E;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&#x43C;&#x43E;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&#x43E;&c_b;&#x43C;&#x43E;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
 </drv>
 
@@ -569,9 +726,43 @@
       I&gcirc;i mal<tld/>a.
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_o;&c_k;&c_n;&c_u;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_n;&c_a;&c_m;&c_o;&c_k;&c_r;&c_ja;&c_m; &c_s;&c_je;</trd>
   <trd lng="fr">se <ind>mouiller</ind></trd>
   <trd lng="io">humideskar</trd>
+  <trdgrp lng="ja">
+    <trd>&#x306C;&#x308C;&#x308B;</trd>,
+    <trd>&#x6E7F;&#x308B;  [<ind>&#x3057;&#x3081;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozmokn&aogonek;&cacute;</trd>,
+    <trd>mokn&aogonek;&cacute;</trd>,
+    <trd>stawa&cacute; si&eogonek;  <ind>wilgotnym</ind></trd>
+  </trdgrp>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&#x43C;&#x43E;&#x43A;&#x43D;&c_u;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="sek.tramal0a">
+  <kap>
+    tramal<tld/>a
+  </kap>
+  <snc mrk="sek.tramal0a.KOMUNE">
+    <dif>
+      Malseka en &ccirc;iuj siaj partoj, sur la tuta korpo:
+      <ekz>
+        <nom>Bjartur</nom> trovis &scirc;in dormanta apud la rojo, tiam jam pluvis, &scirc;i ku&scirc;is tie
+        tramal<tld/>a kun la vango sur la bordo
+       <fnt>
+          <aut>H. Laxness, trad. B. Ragnarsson</aut>
+          <vrk>Sendependaj homoj</vrk>
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_o;&c_k;&c_r;&c_y; &c_n;&c_a;&c_s;&c_k;&c_r;&c_o;&c_z;&c_mol;, &c_d;&c_a; &c_n;&c_ib;&c_t;&c_k;&c_ib;</trd>
+  <trd lng="fr">tremp&eacute;<klr> (tr&egrave;s mouill&eacute;)</klr></trd>
+  <trd lng="pl">przemokni&eogonek;ty</trd>
 </drv>
 
 <drv mrk="sek.tramal0igxi">
@@ -583,16 +774,21 @@
       <ekz>
         lia zono jam estis tramal<tld/>i&gcirc;inta de &scirc;vito
         <fnt>
-          <aut>Lao She, trad. Wang Chongfang</aut>,
-          <vrk><url
-          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
-          Kamelo &Scirc;jangzi</url></vrk>,
+          <aut>Lao She, trad. Wang Chongfang</aut>
+          <vrk><url ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>
           <lok>1988</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_o;&c_k;&c_n;&c_u;&c_c;&c_mol; <klr>(&c_n;&c_a;&c_s;&c_k;&c_r;&c_o;&c_z;&c_mol;)</klr></trd>
   <trd lng="fr">se <ind>d&eacute;tremper</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x305A;&#x3076;&#x306C;&#x308C;&#x306B;&#x306A;&#x308B;</trd>,
+    <trd>&#x3073;&#x3057;&#x3087;&#x306C;&#x308C;&#x306B;&#x306A;&#x308B;</trd>
+  </trdgrp>
+  <trd lng="pl">przemokn&aogonek;&cacute;</trd>
 </drv>
 
 <drv mrk="sek.frosto0igi">
@@ -605,8 +801,10 @@
       <ref tip="sin" cel="liofiliz.0i.TEK">liofilizi</ref>.
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_s;&c_u;&c_b;&c_l;&c_ib;&c_m;&c_a;&c_c;&c_y;&c_j;&c_n;&c_u;&c_ju;</ind> &c_s;&c_u;&c_sh;&c_k;&c_u;</trd>
   <trd lng="ca">liofilitzar</trd>
   <trd lng="fr">lyophiliser</trd>
+  <trd lng="pl">liofilizacja</trd>
 </drv>
 
 <drv mrk="sek.frosto0igo">
@@ -614,21 +812,22 @@
   <snc mrk="sek.frosto0igo.TEK">
     <uzo tip="fak">TEK</uzo>
     <dif>
-      Sinsekvaj frostigo kaj sublimo; procedo por konservo de 
+      Sinsekvaj frostigo kaj sublimo; procedo por konservo de
       akvoenhavaj substancoj:
       <ekz>
         frost<tld/>igo &scirc;ajnas iome sukcesi
         <fnt>
           <aut>E. Nieuwenhuys, trad. L. De Cooman</aut>,
-          <vrk><url
-          ref="http://www.freeweb.hu/eventoj/steb/zoologio/araneo/malamikoj.html">Araneo</url></vrk>,
+          <vrk><url ref="http://www.freeweb.hu/eventoj/steb/zoologio/araneo/malamikoj.html">Araneo</url></vrk>,
           <lok>1999-03</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_s;&c_u;&c_b;&c_l;&c_ib;&c_m;&c_a;&c_c;&c_y;&c_j;&c_n;&c_a;&c_ja; &c_s;&c_u;&c_sh;&c_k;&c_a;</trd>
   <trd lng="ca">liofilitzaci&oacute;</trd>
   <trd lng="fr">lyophilisation</trd>
+  <trd lng="pl">liofilizowanie</trd>
 </drv>
 
 <drv mrk="sek.plormal0a">
@@ -637,7 +836,7 @@
     <dif>
       Abunde plorinta, kun videble malseka viza&gcirc;o:
       <ekz>
-        venis tien Kristla elturmentita, plormal<tld/>a, 
+        venis tien <nom>Kristla</nom> elturmentita, plormal<tld/>a,
         pala kiel muro
         <fnt>
           <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K.
@@ -649,33 +848,36 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_m;&c_o;&c_k;&c_r;&c_y; &c_a;&c_d; &c_s;&c_mol;&c_l;&c_jo;&c_z;</trd>
   <trd lng="bg">&c_m;&c_o;&c_k;&c_malmol;&c_r; &c_o;&c_t; &c_s;&c_malmol;&c_l;&c_z;&c_i;</trd>
   <trdgrp lng="fr">
     <trd>en larmes</trd>,
     <trd>en pleurs</trd>
   </trdgrp>
+  <trd lng="pl">mokry od p&lstroke;aczu</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.38  2019/08/18 01:10:24  revo
-Sam Penter: +trd nl cxe mal~eta
+versio 1.122 2023/08/06 21:22:29
+Vito Redsky: +trd pl 
 
-Revision 1.37  2017/12/19 11:10:21  revo
-Michel Cantigneaux: fundamenta "sekajxo" el la U.V.
+versio 1.121 2022/06/14 08:36:58
+Dmitri Gabinski: + trd be
 
-Revision 1.36  2017/04/24 13:10:21  revo
-Robin van der Vliet: +trd
+versio 1.120 2022/05/05 05:09:56
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.35  2017/03/30 11:10:17  revo
-Lyubomir Vasilev: +trd bg
+versio 1.118 2021/09/28 07:28:53
+Dmitri Gabinski: + trd be
 
-Revision 1.34  2016/11/13 08:10:20  revo
-Darcy Shen: + trd zh
+versio 1.43 2020/11/22 18:32:51
+Jeromo Vasxe: kor ref
 
-Revision 1.33  2015/10/01 22:10:17  revo
-Jeromo Vasxe: + plormal~a
+versio 1.42 2020/11/22 01:06:02
+Jeromo Vasxe: + tramal~a
 
-Revision 1.32  2015/09/11 22:10:16  revo
+versio 1.41 2020/05/03 05:10:28
+Eko Nur Syah Hidayat: korekteto
 -->
 </vortaro>

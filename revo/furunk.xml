@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: furunk.xml,v 1.13 2009/08/18 19:17:35 revo Exp $">
+<art mrk="$Id: furunk.xml,v 1.18 2023/08/31 13:11:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>furunk</rad>/o
@@ -12,8 +11,7 @@
   <uzo tip="fak">MED</uzo>
   <snc mrk="furunk.0o.MED">
     <dif>
-      Malgranda dolora <ref tip="super" 
-      cel="absces.0o.MED">absceso</ref> de la ha&ubreve;to:
+      Malgranda dolora <ref tip="super" cel="absces.0o.MED">absceso</ref> de la ha&ubreve;to:
       <ekz>
         li frotetis sian dekstran sidvangon kaj konstatis simple: &leftquot;mi 
         kredas, ke mi akiris <tld/>on sur maloportuna loko&rightquot;
@@ -40,6 +38,11 @@
     <trd>kel&eacute;s</trd>,
     <trd>furunkulus</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x305B;&#x3064;</trd>,
+    <trd>&#x3061;&#x3087;&#x3046;</trd>,
+    <trd>&#x306D;&#x3076;&#x3068;</trd>
+  </trdgrp>
   <trd lng="nl">steenpuist</trd>
   <trdgrp lng="pl">
     <trd>furunku&lstroke;</trd>,
@@ -62,6 +65,10 @@
     <trd>hluch&yacute; vred</trd>,
     <trd>pupenec</trd>,
     <trd>vriedok</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x444;&#x443;&#x440;&#x443;&#x43D;&#x43A;&#x443;&#x43B;</trd>,
+    <trd>&#x447;&#x438;&#x440;&#x44F;&#x43A;</trd>
   </trdgrp>
 </drv>
 </art>

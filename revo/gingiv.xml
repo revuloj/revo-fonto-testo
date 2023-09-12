@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gingiv.xml,v 1.16 2010/11/21 17:30:21 revo Exp $">
+<art mrk="$Id: gingiv.xml,v 1.23 2023/08/31 14:29:53 revo Exp $">
 <kap>
   <rad>gingiv</rad>/o
 </kap>
@@ -16,11 +15,10 @@
         la viruso ka&ubreve;zas malaltigitan defendkapablon de la kato, sekve de kio povas
         ataki la organismon ordinaraj bakterioj a&ubreve; tiniaj infektoj, tio montri&gcirc;as &ccirc;e
         katoj per pligrandi&gcirc;intaj limfaj ganglioj, inflamaj malsani&gcirc;oj de <tld/>oj,
-        konjunktivito, inflamoj de ha&ubreve;to <klr>[&#8230;]</klr>
+        konjunktivito, inflamoj de ha&ubreve;to <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=107150"
-              >Virusa imunodeficito de katoj</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=107150">Virusa imunodeficito de katoj</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -38,12 +36,17 @@
   <trd lng="hu">fog&iacute;ny</trd>
   <trd lng="id">gusi</trd>
   <trd lng="it">gengiva</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6B6F;&#x8089;  [<ind>&#x3057;&#x306B;&#x304F;</ind>]</trd>,
+    <trd>&#x6B6F;&#x830E;  [<ind>&#x306F;&#x3050;&#x304D;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">tandvlees</trd>
   <trd lng="pl">dzi&aogonek;s&lstroke;o</trd>
   <trd lng="pt">gengiva</trd>
   <trd lng="ru">&c_d;&c_je;&c_s;&c_n;&c_a;</trd>
   <trd lng="sk">&dcaron;asno</trd>
   <trd lng="tr">di&scedil;eti</trd>
+  <trd lng="uk">&#x44F;&#x441;&#x43D;&#x430;</trd>
 </drv>
 </art>
 <!--

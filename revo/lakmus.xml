@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: lakmus.xml,v 1.12 2010/07/11 17:44:28 revo Exp $">
+<art mrk="$Id: lakmus.xml,v 1.19 2023/09/01 19:10:57 revo Exp $">
 <kap>
   <rad>lakmus</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -16,14 +15,14 @@
       <ekz>
         la&ubreve; <nom>Arrhenius</nom> la specifaj ecoj de acidoj kaj bazoj,
         kiel ilia konduto rilate <tld/>o, rezultas el la &ccirc;eesto de jonoj
-        <frm><k>H</k>+</frm> kaj <frm><k>OH</k>&#8722;</frm> respektive
+        <frm><k>H</k>+</frm> kaj <frm><k>OH</k>&#x2212;</frm> respektive
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=8784">Acido</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        <nom>Robert Boyle</nom> <klr>[&#8230;]</klr> enkondukis certajn plant-ekstraktojn,
+        <nom>Robert Boyle</nom> <klr>[&#x2026;]</klr> enkondukis certajn plant-ekstraktojn,
         <tld/>on notinde, por indiki acidojn kaj alkalojn
         <fnt>
           <bib>Viki</bib>
@@ -33,7 +32,7 @@
       <ekz>
         <uzo tip="stl">FIG</uzo>
         pli multaj Novepokaj filozofioj prezentas nur metodojn por senti 
-        sin pli <klr>[&#8230;]</klr> komforte en la revoj de sia iluzia egoo, sed
+        sin pli <klr>[&#x2026;]</klr> komforte en la revoj de sia iluzia egoo, sed
         la <ind><tld/>a testo</ind> de vera spiriteco estas &gcirc;uste &gcirc;ia senkompromisa povo
         liberigi nin de tiu iluzio, ne tuj, sed kiam ni pro interna bezono
         konscias ke ne estas alia eblo
@@ -61,10 +60,12 @@
   <trd lng="es">tornasol</trd>
   <trd lng="fr">teinture de <ind>tournesol</ind></trd>
   <trd lng="hu">lakmusz</trd>
+  <trd lng="ja">&#x30EA;&#x30C8;&#x30DE;&#x30B9;</trd>
   <trd lng="nl">lakmoes</trd>
   <trd lng="pl">lakmus</trd>
   <trd lng="ru">&c_l;&c_a;&c_k;&c_m;&c_u;&c_s;</trd>
   <trd lng="sk">lakmus</trd>
+  <trd lng="uk">&#x43B;&#x430;&#x43A;&#x43C;&#x443;&#x441;</trd>
 </drv>
 
 <drv mrk="lakmus.0papero">

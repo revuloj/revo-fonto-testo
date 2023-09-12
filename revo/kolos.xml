@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kolos.xml,v 1.18 2008/09/11 16:31:08 revo Exp $">
+<art mrk="$Id: kolos.xml,v 1.23 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kolos</rad>/o
@@ -47,6 +46,11 @@
     <trd>kolosszus</trd>,
     <trd>&oacute;ri&aacute;s</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5DE8;&#x50CF;  [<ind>&#x304D;&#x3087;&#x305E;&#x3046;</ind>]</trd>,
+    <trd>&#x5DE8;&#x4EBA;  [<ind>&#x304D;&#x3087;&#x3058;&#x3093;</ind>]</trd>,
+    <trd>&#x5927;&#x56FD;  [<ind>&#x305F;&#x3044;&#x3053;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>kolos</trd>,
     <trd>kolossus</trd>
@@ -64,6 +68,10 @@
     <trd>kolos</trd>,
     <trd>obor</trd>,
     <trd>ozruta</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x43E;&#x43B;&#x43E;&#x441;</trd>,
+    <trd>&#x432;&#x435;&#x43B;&#x435;&#x442;&#x435;&#x43D;&#x44C;</trd>
   </trdgrp>
 </drv>
 
@@ -94,9 +102,9 @@
   </trdgrp>
   <trd lng="ca">colossal</trd>
   <trdgrp lng="cs">
-    <trd>gigantický</trd>,
-    <trd>kolosální</trd>,
-    <trd>obrovský</trd>
+    <trd>gigantick&#xFD;</trd>,
+    <trd>kolos&#xE1;ln&#xED;</trd>,
+    <trd>obrovsk&#xFD;</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>riesig</trd>,
@@ -119,16 +127,21 @@
     <trd>kolossz&aacute;lis</trd>,
     <trd>&oacute;ri&aacute;si</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5DE8;&#x5927;&#x306A;  [<ind>&#x304D;&#x3087;&#x3060;&#x3044;&#x306A;</ind>]</trd>,
+    <trd>&#x5927;&#x898F;&#x6A21;&#x306A;  [<ind>&#x3060;&#x3044;&#x304D;&#x307C;&#x306A;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kolossaal</trd>
   <trd lng="pl">kolosalny</trd>
   <trd lng="ru">
   &c_k;&c_o;&c_l;&c_o;&c_s;&c_s;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
-    <trd>kolosálny</trd>,
-    <trd>obrovský</trd>,
-    <trd>ohromný</trd>,
-    <trd>ozrutný</trd>
+    <trd>kolos&#xE1;lny</trd>,
+    <trd>obrovsk&#xFD;</trd>,
+    <trd>ohromn&#xFD;</trd>,
+    <trd>ozrutn&#xFD;</trd>
   </trdgrp>
+  <trd lng="uk">&#x43A;&#x43E;&#x43B;&#x43E;&#x441;&#x430;&#x43B;&#x44C;&#x43D;&#x438;&#x439;</trd>
 </drv>
 </art>
 <!--

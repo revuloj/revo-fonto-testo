@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: altaj.xml,v 1.10 2004/03/09 17:31:49 revo Exp $">
+<art mrk="$Id: altaj.xml,v 1.24 2023/08/30 18:23:33 revo Exp $">
 <kap>
   <rad>Altaj</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -12,8 +11,7 @@
     <uzo tip="fak">GEOG</uzo>
     <dif>
       <ref tip="lst" cel="mont.0aro" lst="voko:montaroj">Montaro</ref>, 
-      pli ol 2000km longa, inter Centra <ref tip="malprt"
-      cel="azi.A0o">Azio</ref>
+      pli ol 2000&#x202F;km longa, inter Centra <ref tip="malprt" cel="azi.A0o">Azio</ref>
       kaj <ref cel="siberi.S0o">Siberio</ref>, sur la teritorioj de
       la <ref cel="rus.R0aFederacio">Ruslanda Federacio</ref>,
       Kaza&hcirc;ujo kaj Mongolujo, formanta akvodisigan limon inter la
@@ -27,8 +25,7 @@
         montaroj Hingano kaj <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=2816'>Mongolio</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=2816">Mongolio</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -52,15 +49,22 @@
   <trd lng="en">Altai</trd>
   <trd lng="fr">Alta&iuml;</trd>
   <trd lng="hu">Altaj</trd>
+  <trd lng="ja">&#x30A2;&#x30EB;&#x30BF;&#x30A4;&#x5C71;&#x8108;  [<ind>&#x30A2;&#x30EB;&#x30BF;&#x30A4;&#x3055;&#x3093;&#x307F;&#x3083;&#x304F;</ind>]</trd>
   <trd lng="nl">Altai</trd>
+  <trd lng="pl">A&lstroke;taj</trd>
+  <trd lng="ro">Mun&#x21B;ii Altai</trd>
   <trd lng="ru">&c_A;&c_l;&c_t;&c_a;&c_j;</trd>
   <trd lng="sk">Altaj</trd>
+  <trdgrp lng="uk">
+    <trd>&c_A;&#x43B;&c_t;&c_a;&c_j;</trd>,
+    <trd>&c_A;&#x43B;&c_t;&c_a;&c_j;&c_s;&#x44C;&#x43A;&c_ib; &c_g;&#x43E;&c_r;&c_i;</trd>
+  </trdgrp>
 </drv>
 
-<drv mrk="altaj.0a.lingvofamilio">
+<drv mrk="altaj.0a_lingvofamilio">
   <kap><tld lit="a"/>a lingvofamilio,
   <var><kap><tld lit="a"/>a lingvaro</kap></var></kap>
-  <snc>
+  <snc mrk="altaj.0a_lingvofamilio.LIN">
     <uzo tip="fak">LIN</uzo>
     <dif>
       Hipoteze rekonstruata superfamilio konsistanta el la
@@ -72,18 +76,18 @@
         kune kun la lingvoj de la aliaj &ccirc;efaj invadintoj en &Ccirc;inion, 
         la mongolaj kaj la turkaj
         <fnt>
+          <aut>Sabeo Fu/Yamasaki Seik&ocirc;</aut>
+          <vrk><url ref="&Monato;/2001/007025.php">LA MAN&Ccirc;URA: Formortanta lingvo
+          de malplimulto en &Ccirc;inio</url></vrk>
           <bib>Monato</bib>
-          <vrk><url ref='http://www.esperanto.be/fel/mon/007025.html'>
-          La Man&ccirc;ura: Formortanta lingvo de malplimulto en
-          &Ccirc;inio</url></vrk>
+          <lok>2001/01, p. 21</lok>
         </fnt>;
       </ekz>
       <ekz>
         iuj lingvistoj proponis rilaton kun la <tld lit="a"/>a
         lingvaro a&ubreve; la japana lingvo
         <fnt>
-          <vrk><url
-          ref='http://lingvo.info/eo/babylon/language_families'>Lingvofamilioj
+          <vrk><url ref="http://lingvo.info/eo/babylon/language_families">Lingvofamilioj
           / Babilono :: lingvo.info</url></vrk>
         </fnt>.
       </ekz>
@@ -96,24 +100,25 @@
   <trd lng="hu">altaji nyelvcsal&aacute;d</trd>
   <trd lng="fr">langues alta&iuml;ques</trd>
   <trd lng="nl">Alta&iuml;sche taalfamilie</trd>
+  <trd lng="pl">a&lstroke;tajskie j&eogonek;zyki</trd>
+  <trd lng="ro">altaice limbi</trd>
   <trd lng="ru">&c_a;&c_l;&c_t;&c_a;&c_j;&c_s;&c_k;&c_a;&c_ja; &c_s;&c_je;&c_m;&c_mol;&c_ja; &c_ja;&c_z;&c_y;&c_k;&c_o;&c_v;</trd>
 </drv>
 
-<drv mrk="altaj.0a.lingvo">
+<drv mrk="altaj.0a_lingvo">
   <kap><tld lit="a"/>a lingvo</kap>
-  <snc mrk="altaj.0a.lingvofamilia">
+  <snc mrk="altaj.0a_lingvo.familia">
     <uzo tip="fak">LIN</uzo>
     <dif>
       <ref tip="lst" lst="voko:lingvoj" cel="lingv.0o">Lingvo</ref> de
       la
-      <ref tip="malprt" cel="altaj.0a.lingvofamilio"><tld lit="a"/>a
+      <ref tip="malprt" cel="altaj.0a_lingvofamilio"><tld lit="a"/>a
       lingvofamilio</ref>:
       <ekz>
         genetike la hungara estas ural-<tld lit="a"/>a (turana), sed &gcirc;i
-        draste hinde&ubreve;ropaneci&gcirc;is &#8208; strukture kaj leksikone
+        draste hinde&ubreve;ropaneci&gcirc;is &#x2010; strukture kaj leksikone
         <fnt>
-          <vrk><url
-          ref='http://neciklopedio.wikia.com/wiki/Hungara_lingvo'>Hungara
+          <vrk><url ref="http://neciklopedio.wikia.com/wiki/Hungara_lingvo">Hungara
           lingvo - Neciklopedio - Wikia</url></vrk>
         </fnt>.
       </ekz>
@@ -121,14 +126,14 @@
     <trd lng="hu">altaj nyelv</trd>
     <trd lng="nl">Alta&iuml;sche taal</trd>
   </snc>
-  <snc mrk="altaj.0a.lingvoloka">
+  <snc mrk="altaj.0a_lingvo.loka">
     <uzo tip="fak">LIN</uzo>
     <dif>
       &Ccirc;iu el la indi&gcirc;enaj lingvoj de <tld/>o.
     </dif>
     <trd lng="hu">altaj nyelv</trd>
   </snc>
-  <snc mrk="altaj.0a.lingvoojrota">
+  <snc mrk="altaj.0a_lingvo.ojrota">
     <uzo tip="fak">LIN</uzo>
     <dif>
       La &ccirc;efa indi&gcirc;ena lingvo de <tld/>a Respubliko en
@@ -136,10 +141,9 @@
       (ekse <ctl>la ojrota</ctl>, el la tjurka lingvofamilio):
       <ekz>
         en 1869 en Kazan publiki&gcirc;is detala gramatiko de <tld lit="a"/>a
-        lingvo kaj en 1884 &#8208; la unua vortaro
+        lingvo kaj en 1884 &#x2010; la unua vortaro
         <fnt>
-          <vrk><url
-          ref='https://eo.wikipedia.org/wiki/Sudaltaja_lingvo'>Sudaltaja
+          <vrk><url ref="&Viki;/Sudaltaja_lingvo">Sudaltaja
           lingvo - Vikipedio</url></vrk>
         </fnt>.
       </ekz>
@@ -149,36 +153,41 @@
   <trd lng="be">&c_a;&c_l;&c_t;&c_a;&c_j;&c_s;&c_k;&c_a;&c_ja; &c_m;&c_o;&c_v;&c_a;</trd>
   <trd lng="ca">llengua altaica</trd>
   <trd lng="de">Altaisch</trd>
+  <trd lng="en">Altai</trd> 
   <trd lng="fr">langue alta&iuml;que</trd>
-  <trd lng="nl">Alta&iuml;sch</trd>
   <trdgrp lng="hu">
     <trd>altaj nyelv</trd>,
     <trd>ojrot</trd>
   </trdgrp>
+  <trd lng="nl">Alta&iuml;sch</trd>
+  <trd lng="pl">a&lstroke;tajski j&eogonek;zyk</trd>
+  <trd lng="ro">altai limba</trd>
   <trd lng="ru">&c_a;&c_l;&c_t;&c_a;&c_j;&c_s;&c_k;&c_i;&c_j; &c_ja;&c_z;&c_y;&c_k;</trd>
-  <trd lng="en">Altai</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2023/05/13 06:30:05
+Paul Peeraerts: kor de erara url
+
+versio 1.22 2023/03/28 06:33:33
+Paul Peeraerts: &Monato;
+
+versio 1.21 2023/01/20 23:28:16
+Vito Redsky: + trd pl + trd ro
+
+versio 1.20 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.18 2021/05/08 17:23:50
+Wolfram Diestel: kor. ref-cel
+
+versio 1.17 2021/04/10 19:46:11
+Wolfram Diestel: kor. mrk-sintakso
+
 Revision 1.15  2016/12/16 16:10:13  revo
 Wolfram Diestel: lst lingvoj
 
 Revision 1.14  2016/12/15 21:10:13  revo
-Wolfram Diestel: ekz-oj, ~a lingvaro, movis trd hu al ghusta loko
-
-Revision 1.13  2015/07/04 08:37:30  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.12  2013/08/23 10:10:13  revo
-Wolfram Diestel: referencoj al listo montaroj
-
-Revision 1.11  2011/12/08 14:10:10  revo
-Marc Rausell: kataluna traduko
-
-Revision 1.10  2004/03/09 17:31:49  revo
-Dmitri Gabinski: +trd be
-
-Revision 1.9  2003/05/12 16:32:31  revo
 -->
 </vortaro>

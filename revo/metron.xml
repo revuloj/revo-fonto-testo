@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: metron.xml,v 1.14 2006/08/01 16:33:21 revo Exp $">
+<art mrk="$Id: metron.xml,v 1.17 2023/09/02 06:04:11 revo Exp $">
 <kap>
    <ofc>2</ofc>
    <rad>metronom</rad>/o
@@ -22,17 +21,15 @@
         kun la <klr>[rapidoj]</klr> de la <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=19677"
-              >Ludwig van Beethoven</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=19677">Ludwig van Beethoven</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-        por la boneco de cifereca piano pledas <klr>[&#8230;]</klr> aldona&jcirc;oj kiel
+        por la boneco de cifereca piano pledas <klr>[&#x2026;]</klr> aldona&jcirc;oj kiel
         enkonstruita <tld/>o
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=350976"
-              >Elektronika piano</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=350976">Elektronika piano</url></lok>
         </fnt>.
       </ekz>
     </dif>
@@ -43,10 +40,12 @@
    <trd lng="en">metronome</trd>
    <trd lng="es">metr&oacute;nomo</trd>
    <trd lng="hu">metron&oacute;m</trd>
-   <trd lng="nl">metronoom</trd>
+   <trd lng="ja">&#x30E1;&#x30C8;&#x30ED;&#x30CE;&#x30FC;&#x30E0;</trd>
+  <trd lng="nl">metronoom</trd>
    <trd lng="fr">m&eacute;tronome</trd>
    <trd lng="pt">metr&ocirc;nomo</trd>
    <trd lng="ru">&c_m;&c_je;&c_t;&c_r;&c_o;&c_n;&c_o;&c_m;</trd>
+  <trd lng="uk">&#x43C;&#x435;&#x442;&#x440;&#x43E;&#x43D;&#x43E;&#x43C;</trd>
 </drv>
 </art>
 <!--

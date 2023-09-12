@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sufok.xml,v 1.27 2023/09/04 15:14:33 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sufok</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,8 +12,7 @@
   <snc mrk="sufok.0i.FIZL">
     <uzo tip="fak">FIZL</uzo>
     <dif>
-      Malhelpi la spiradon, senigi je aero, eventuale <ref
-      tip="super" cel="mort.0igi.malvivigi">mortigi</ref>;
+      Malhelpi la spiradon, senigi je aero, eventuale <ref tip="super" cel="mort.0igi.malvivigi">mortigi</ref>;
       <ref tip="sin" cel="asfiks.0i.FIZL">asfiksii</ref>:
       <ekz>
         <tld/>i iun premegante la kolon<fnt>B</fnt>;
@@ -80,20 +78,29 @@
       <trd>elnyom</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_d;&c_u;&c_sh;&c_y;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>dusit</trd>,
     <trd>rdousit</trd>,
     <trd>tlumit</trd>,
     <trd>udusit</trd>,
-    <trd>utlačovat</trd>,
+    <trd>utla&ccaron;ovat</trd>,
     <trd>utlumit</trd>,
     <trd>zadusit</trd>,
-    <trd>zaškrtit</trd>,
-    <trd>škrtit</trd>
+    <trd>za&scaron;krtit</trd>,
+    <trd>&scaron;krtit</trd>
   </trdgrp>
   <trd lng="de">ersticken</trd>
   <trd lng="en">suffocate</trd>
   <trd lng="es">sofocar</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7A92;&#x606F;&#x6B7B;&#x3055;&#x305B;&#x308B;  [<ind>&#x3061;&#x3063;&#x305D;&#x304F;&#x3057;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x7D5E;&#x3081;&#x6BBA;&#x3059;  [<ind>&#x3057;&#x3081;&#x3053;&#x308D;&#x3059;</ind>]</trd>,
+    <trd>&#x7A92;&#x606F;&#x3055;&#x305B;&#x308B;  [<ind>&#x3061;&#x3063;&#x305D;&#x304F;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x606F;&#x3092;&#x8A70;&#x307E;&#x3089;&#x305B;&#x308B;  [<ind>&#x3044;&#x304D;&#x3092;&#x3064;&#x307E;&#x3089;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x3082;&#x307F;&#x6D88;&#x3059;  [<ind>&#x3082;&#x307F;&#x3051;&#x3059;</ind>]</trd>,
+    <trd>&#x62BC;&#x3057;&#x6BBA;&#x3059;  [<ind>&#x304A;&#x3057;&#x3053;&#x308D;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>doen <ind>stikken</ind></trd>,
     <trd>smoren</trd>,
@@ -106,10 +113,16 @@
     <trd>&c_u;&c_d;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>dusiť</trd>,
-    <trd>utláčať</trd>,
-    <trd>zadusiť</trd>,
-    <trd>škrtiť</trd>
+    <trd>dusi&tcaron;</trd>,
+    <trd>utl&aacute;&ccaron;a&tcaron;</trd>,
+    <trd>zadusi&tcaron;</trd>,
+    <trd>&scaron;krti&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x443;&#x448;&#x438;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x440;&#x438;&#x434;&#x443;&#x448;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x437;&#x430;&#x433;&#x43B;&#x443;&#x448;&#x443;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x437;&#x430;&#x433;&#x43B;&#x443;&#x448;&#x430;&#x442;&#x438;</trd>
   </trdgrp>
 </drv>
 
@@ -131,8 +144,8 @@
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>dusivý</trd>,
-    <trd>dusný</trd>
+    <trd>dusiv&yacute;</trd>,
+    <trd>dusn&yacute;</trd>
   </trdgrp>
   <trd lng="en">suffocating</trd>
   <trdgrp lng="fr">
@@ -143,6 +156,11 @@
   <trdgrp lng="hu">
     <trd>fojt&oacute;</trd>,
     <trd>fojtogat&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7A92;&#x606F;&#x3059;&#x308B;&#x3088;&#x3046;&#x306A;  [<ind>&#x3061;&#x3063;&#x305D;&#x304F;&#x3059;&#x308B;&#x3088;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x606F;&#x82E6;&#x3057;&#x3044;  [<ind>&#x3044;&#x304D;&#x3050;&#x308B;&#x3057;&#x3044;</ind>]</trd>,
+    <trd>&#x606F;&#x8A70;&#x307E;&#x308B;  [<ind>&#x3044;&#x304D;&#x3065;&#x307E;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>verstikkend</trd>,
@@ -158,8 +176,12 @@
     <trd>&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>dusivý</trd>,
-    <trd>dusný</trd>
+    <trd>dusiv&yacute;</trd>,
+    <trd>dusn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x437;&#x430;&#x434;&#x443;&#x448;&#x43B;&#x438;&#x432;&#x438;&#x439;</trd>,
+    <trd>&#x437;&#x430;&#x434;&#x443;&#x448;&#x43D;&#x438;&#x439;</trd>
   </trdgrp>
 </drv>
 
@@ -172,10 +194,10 @@
     </dif>
   </snc>
   <trdgrp lng="cs">
-    <trd>dušení</trd>,
+    <trd>du&scaron;en&iacute;</trd>,
     <trd>sufokace</trd>,
-    <trd>udušení</trd>,
-    <trd>zadušení</trd>
+    <trd>udu&scaron;en&iacute;</trd>,
+    <trd>zadu&scaron;en&iacute;</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>asphyxie</trd>,
@@ -205,6 +227,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_d;&c_y;&c_h;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_d;&c_u;&c_sh;&c_y;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
   <trd lng="en">suffocate</trd>
   <trdgrp lng="fr">
     <trd>&eacute;touffer<klr tip="amb"> (intr.)</klr></trd>,
@@ -216,11 +242,19 @@
     <trd>megfullad</trd>,
     <trd>fulladozik</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7A92;&#x606F;&#x3059;&#x308B;  [<ind>&#x3061;&#x3063;&#x305D;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x606F;&#x304C;&#x8A70;&#x307E;&#x308B;  [<ind>&#x3044;&#x304D;&#x304C;&#x3064;&#x307E;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">stikken</trd>
   <trd lng="pl">dusi&cacute; si&eogonek;</trd>
   <trdgrp lng="ru">
     <trd>&c_z;&c_a;&c_d;&c_y;&c_h;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
     <trd>&c_z;&c_a;&c_d;&c_o;&c_h;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x443;&#x441;&#x438;&#x442;&#x438;&#x441;&#x44F;</trd>,
+    <trd>&#x437;&#x430;&#x434;&#x438;&#x445;&#x430;&#x442;&#x438;&#x441;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -244,6 +278,9 @@
 </art>
 <!--
 $Log$
+versio 1.25 2021/09/20 15:32:31
+Dmitri Gabinski: +trd be
+
 Revision 1.23  2015/06/29 16:33:24  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -263,11 +300,5 @@ Revision 1.18  2008/11/23 19:12:27  revo
 Wieland Pusch: entoj por unikodo
 
 Revision 1.17  2008/10/31 17:30:33  revo
-Russ Williams: +trd en
-
-Revision 1.16  2005/06/30 16:32:04  revo
-Yury Finkel: +trd ru
-
-Revision 1.15  2004/11/04 17:32:08  revo
 -->
 </vortaro>

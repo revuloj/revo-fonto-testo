@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: akvafo.xml,v 1.13 2010/05/24 16:30:33 revo Exp $">
+<art mrk="$Id: akvafo.xml,v 1.20 2023/08/30 18:23:32 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>akvafort</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -25,8 +24,7 @@
         &scirc;ranko
         <fnt>
           <aut>H. Sienkiewicz, trad. Lidja Zamenhof</aut>,
-          <vrk><url
-          ref="https://eduinf.waw.pl/esp/lern/librejo/0044/index.php">
+          <vrk><url ref="&EduInf;lern/librejo/0044/index.php">
           Lux in tenebris lucet</url></vrk>,
           <lok>en: Noveloj, 1925</lok>
         </fnt>.
@@ -38,14 +36,23 @@
   <trd lng="ca">aiguafort</trd>
   <trd lng="cs">lept</trd>
   <trd lng="fr">eau-forte</trd>
+  <trd lng="he">&#x5EA;&#x5B7;&#x5D7;&#x5E8;&#x5B4;&#x5D9;&#x5D8;</trd>
   <trd lng="it">acquaforte</trd>
+  <trdgrp lng="ja">
+    <trd>&#x9285;&#x7248;  [<ind>&#x3069;&#x3046;&#x3070;&#x3093;</ind>]</trd>,
+    <trd>&#x30A8;&#x30C3;&#x30C1;&#x30F3;&#x30B0;</trd>
+  </trdgrp>
   <trd lng="pt">&aacute;gua-forte</trd>
   <trd lng="ru">&c_o;&c_f;&c_o;&c_r;&c_t;</trd>
   <trd lng="sk">lept</trd>
+  <trd lng="uk">&#x43E;&#x444;&#x43E;&#x440;&#x442; (&#x491;&#x440;&#x430;&#x432;&#x44E;&#x440;&#x430;)</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2022/04/25 15:10:59
+aktualigo ligvokodoj kaj URL-unuoj
+
 Revision 1.15  2015/07/04 08:37:30  revo
 aldono de trd cs per skripto de M. von Laer
 

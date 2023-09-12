@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: difton.xml,v 1.16 2009/06/14 16:31:04 revo Exp $">
+<art mrk="$Id: difton.xml,v 1.22 2023/08/31 10:44:00 revo Exp $">
 <kap><ofc>1</ofc>
 <rad>diftong</rad>/o</kap>
 <drv mrk="difton.0o">
@@ -32,8 +32,7 @@
           <trd>stijgende <ind>diftong</ind></trd>
         </trdgrp>
         <trd lng="pt">ditongo crescente</trd>
-        <trd
-        lng="ru">&c_v;&c_o;&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;
+        <trd lng="ru">&c_v;&c_o;&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;
         <ind>&c_d;&c_i;&c_f;&c_t;&c_o;&c_n;&c_g;</ind></trd>
       </ekz>
       <ekz>
@@ -52,8 +51,7 @@
           <trd>dalende <ind>diftong</ind></trd>
         </trdgrp>
         <trd lng="pt">ditongo decrescente</trd>
-        <trd
-        lng="ru">&c_n;&c_i;&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;
+        <trd lng="ru">&c_n;&c_i;&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;
         <ind>&c_d;&c_i;&c_f;&c_t;&c_o;&c_n;&c_g;</ind></trd>
       </ekz>
     </dif>
@@ -74,10 +72,15 @@
   </trdgrp>
   <trd lng="es">diptongo</trd>
   <trd lng="fr">diphtongue</trd>
+  <trdgrp lng="he">
+    <trd>&#x5D3;&#x5D9;&#x5E4;&#x5D8;&#x5D5;&#x5E0;&#x5D2;</trd>,
+    <trd>&#x5D0;&#x5D5;&#x5EA; &#x5DB;&#x5E4;&#x5D5;&#x5DC;&#x5D4;</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>kett&odblac;shangz&oacute;</trd>,
     <trd>diftongus</trd>
   </trdgrp>
+  <trd lng="ja">&#x4E8C;&#x91CD;&#x6BCD;&#x97F3;  [<ind>&#x306B;&#x3058;&#x3085;&#x3046;&#x307C;&#x3044;&#x3093;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>tweeklank</trd>,
     <trd>diftong</trd>
@@ -88,11 +91,12 @@
   </trdgrp>
   <trd lng="pt">ditongo</trd>
   <trd lng="ru">&c_d;&c_i;&c_f;&c_t;&c_o;&c_n;&c_g;</trd>
-  <trd lng="sk">dvojhláska</trd>
+  <trd lng="sk">dvojhl&#xE1;ska</trd>
   <trdgrp lng="cs">
     <trd>diftong</trd>,
-    <trd>dvojhláska</trd>
+    <trd>dvojhl&#xE1;ska</trd>
   </trdgrp>
+  <trd lng="uk">&#x434;&#x438;&#x444;&#x442;&#x43E;&#x43D;&#x491;</trd>
 </drv>
 </art>
 <!--

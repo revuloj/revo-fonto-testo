@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kanad.xml,v 1.5 2010/06/12 16:30:47 revo Exp $">
+<art mrk="$Id: kanad.xml,v 1.23 2023/08/31 19:24:09 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>Kanad</rad>/o <fnt><bib>FK</bib></fnt>
@@ -44,12 +43,15 @@
       <ekz>
         <tld/>o estas lando &ccirc;efe formita de enmigrintoj
         <fnt>
+          <aut>Remigiusz Mielcarek</aut>
+          
+          <vrk><url ref="&Monato;/1994/A940101.php">Enmigrintoj en ora ka&gcirc;o</url></vrk>
           <bib>Monato</bib>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato1/monato-9401-kanado.txt">Kanado</url></vrk>
+          <lok>1994/01, p. 15</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_K;&c_a;&c_n;&c_a;&c_d;&c_a;</trd>
     <trd lng="bg">&c_K;&c_a;&c_n;&c_a;&c_d;&c_a;</trd>
     <trd lng="de">Kanada</trd>
     <trd lng="en">Canada</trd>
@@ -64,7 +66,7 @@
     <trd lng="pl">Kanada</trd>
     <trd lng="pt">Canad&aacute;</trd>
     <trd lng="ro">Canada</trd>
-    <trd lng="tp">ma Kanata</trd>
+    <trd lng="tok">ma Kanata</trd>
     <trd lng="vo">Kanad&auml;n</trd>
   </snc>
   <refgrp tip="prt">
@@ -80,6 +82,8 @@
   <ref cel="ontari.O0o">Ontario</ref>,
   <ref cel="saskacxevan.S0o">Saska&ccirc;evano</ref>
 </refgrp>
+  <trd lng="ja">&#x30AB;&#x30CA;&#x30C0;  [<ind>&#x304B;&#x306A;&#x3060;</ind>]</trd>
+  <trd lng="uk">&#x41A;&c_a;&#x43D;&c_a;&c_d;&c_a;</trd>
 </drv>
 
 <drv mrk="kanad.0a">
@@ -92,14 +96,17 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Brian Moon</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/007984.html">Manipulado
+          <vrk><url ref="&Monato;/2003/007984.html">Manipulado
           duobla</url></vrk>
         </fnt>.
       </ekz>
      </dif>
       <trd lng="de">kanadisch</trd>
    </snc>
+   <trdgrp lng="be">
+     <trd>&c_k;&c_a;&c_n;&c_a;&c_d;&c_z;&c_k;&c_ib;</trd>,
+     <trd>&c_k;&c_a;&c_n;&c_a;&c_d;&c_y;&c_j;&c_s;&c_k;&c_ib;</trd>
+   </trdgrp>
    <trd lng="en">Canadian</trd>
    <trdgrp lng="fr"> 
     <trd>canadien<klr> (adj.)</klr></trd>
@@ -139,6 +146,10 @@
       </ekz>
      </dif>
    </snc>
+   <trdgrp lng="be">
+     <trd>&c_k;&c_a;&c_n;&c_a;&c_d;&c_z;&c_je;&c_c;</trd>,
+     <trd>&c_k;&c_a;&c_n;&c_a;&c_d;&c_y;&c_je;&c_c;</trd>
+   </trdgrp>
    <trd lng="de">Kanadier</trd>
   <trd lng="en">Canadian</trd>
    <trdgrp lng="fr"> 
@@ -150,7 +161,7 @@
    <trd lng="nl">Canadees</trd>
    <trd lng="pl">Kanadyjczyk</trd>     
    <trd lng="ro">canadian</trd>
-   <trd lng="tp">jan Kanata</trd>
+   <trd lng="tok">jan Kanata</trd>
    <trd lng="vo">Kanad&auml;nan</trd>
 </drv>
 
@@ -158,6 +169,15 @@
 
 <!--
 $Log$
+versio 1.22 2023/04/11 16:34:18
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.21 2022/05/01 08:09:23
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.19 2021/05/12 09:57:47
+Dmitri Gabinski: + trd be
+
 Revision 1.17  2019/06/30 07:42:48  revo
 adaptis URL de Monato
 
@@ -171,17 +191,5 @@ Revision 1.14  2018/08/06 19:10:43  revo
 Michel Cantigneaux: aperas unue en PIV1 (1970), oficiala en 8OA (1974)
 
 Revision 1.13  2017/12/23 14:10:19  revo
-Robin van der Vliet: Senfonta misaldono de ina formo
-
-Revision 1.12  2017/12/22 20:10:14  revo
-Michel Cantigneaux: Pli bonaj indikoj pri 8a Oficiala Aldono kaj 12a Of.
-Inf. (/anino + provincoj)
-
-Revision 1.11  2017/08/21 20:10:23  revo
-Vito Redsky: +trd ro
-
-Revision 1.10  2016/11/22 23:10:22  revo
-Robin van der Vliet: eraroj riparitaj
-
 -->
 </vortaro>

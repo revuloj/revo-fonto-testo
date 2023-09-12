@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: vestib.xml,v 1.25 2023/09/05 09:43:55 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>vestibl</rad>/o
@@ -12,15 +11,48 @@
   <snc mrk="vestib.0o.ARKI">
     <uzo tip="fak">ARKI</uzo>
     <dif>
-      Enira parto de domo, tra kiu oni atingas la &ccirc;ambrojn:
+      Enira parto de <ref tip="malprt" cel="dom.0o.konstruajxo">domo</ref>, 
+      tra kiu oni atingas la &ccirc;ambrojn:
       <ekz>
-        li <klr>...</klr> elpu&scirc;igas sin kune kun li en la <tld/>on
+        <nom>Ehud</nom> eliris en la <tld/>on, kaj fermis post si la pordon
+        <fnt><bib>MT</bib> <lok>&Jug; 3:23</lok></fnt>;
+      </ekz><ekz>
+        li venigis min en la <tld/>on de la domo
+        <fnt><bib>MT</bib> <lok>&Jeh; 40:48</lok></fnt>;
+      </ekz><ekz>
+        en la <tld/>oj la fenestroj estis direktitaj &ccirc;e &ccirc;iuj flankoj internen
+        <fnt><bib>MT</bib> <lok>&Jeh; 40:16</lok></fnt>;
+      </ekz><ekz>
+        la &ccirc;ambro havis la aspekton de Holstinia <tld/>o
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
+      </ekz><ekz>
+        ili lo&gcirc;is en kelo <klr>[&#x2026;]</klr>, al kiu la eniro kondukis tra pavimita <tld/>o
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malnova strata lanterno</lok>
+        </fnt>;
+      </ekz><ekz>
+        tio estis granda <tld/>o, &ccirc;irka&ubreve;ita per kolonaro kaj pavumita per mozaiko
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz><ekz>
+        li <klr>[&#x2026;]</klr> elpu&scirc;igas sin kune kun li en la <tld/>on
         <fnt><bib>Revizoro</bib>, <lok>akto 4a, sceno 11a</lok></fnt>.
       </ekz>
     </dif>
     <refgrp tip="sin">
-      <ref cel="cxambr.antaux0o.porMantelo">anta&ubreve;&ccirc;ambro
-      <sncref/></ref>
+      <ref cel="cxambr.antaux0o.porMantelo">anta&ubreve;&ccirc;ambro<sncref/></ref>,
+      <ref cel="fojer.0o">fojero</ref>
+    </refgrp>
+    <refgrp tip="vid">
+       <ref cel="akcept.0ejo">akceptejo</ref>,
+       <ref cel="korido.0o.ARKI">koridoro<sncref/></ref>,
+       <ref cel="pas.0ejo">pasejo</ref>
     </refgrp>
     <trdgrp lng="be">
       <trd>&c_v;&c_e;&c_s;&c_t;&c_y;&c_b;&c_ju;&c_l;&c_mol;</trd>,
@@ -28,9 +60,13 @@
     </trdgrp>
     <trd lng="ca">rebedor</trd>
     <trdgrp lng="de">
-      <trd>Diele</trd>,
-      <trd>Vorhalle</trd>,
-      <trd>Flur</trd>
+      <trd>Diele<klr> [Flur]</klr></trd>,
+      <trd>Eingangsbereich</trd>,
+      <trd>Ern<klr> [regional]</klr></trd>,
+      <trd>Flur</trd>,
+      <trd>Korridor</trd>,
+      <trd>Vorraum</trd>,
+      <trd>Vestib&uuml;l<klr> [ark]</klr></trd>
     </trdgrp>
     <trd lng="el">
       &pi;&rho;&omikron;&theta;&alfa_ton;&lambda;&alfa;&my;&omikron;&sigma_fina;
@@ -58,48 +94,76 @@
       <trd>hal</trd>,
       <trd>vestibule</trd>
     </trdgrp>
+    <trdgrp lng="pl">
+      <trd>westybul</trd>,
+      <trd>hol<klr>  (pomieszczenie)</klr></trd>,
+      <trd>przedsionek</trd>
+    </trdgrp>
     <trd lng="pt">vest&iacute;bulo</trd>
+    <trdgrp lng="ro">
+      <trd>antreu</trd>,
+      <trd>vestibul</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_v;&c_je;&c_s;&c_t;&c_i;&c_b;&c_ju;&c_l;&c_mol;</trd>,
-      <trd>&c_p;&c_r;&c_i;&c_h;&c_o;&c_zh;&c_a;&c_ja;</trd>
+      <trd>&c_s;&c_je;&c_n;&c_i;</trd>
     </trdgrp>
   </snc>
-
   <snc mrk="vestib.0o.ANA">
     <uzo tip="fak">ANA</uzo>
     <dif>
-      Enira kavo de pli granda kavo en kelkaj organoj: 
+      Enira <ref tip="super" cel="kav.0o">kavo</ref> de pli granda kavo en kelkaj organoj: 
       <ekz><ind>vagina <tld/>o</ind>
         <trd lng="es">vest&iacute;bulo vaginal</trd>
-        <trd lng="it">vestibolo<klr tip="amb"> (della
-        vagina)</klr></trd>
+        <trd lng="it">vestibolo<klr tip="amb"> (della vagina)</klr></trd>
+        <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_d;&c_v;&c_je;&c_r;&c_i;&c_je; &c_v;&c_l;&c_a;&c_g;&c_a;&c_l;&c_i;&c_shch;&c_a;</trd>
       </ekz> 
-
       <ekz><ind>naza <tld/>o</ind>
         <trd lng="es">vest&iacute;bulo nasal</trd>
         <trd lng="it">vestibolo<klr tip="amb"> (nasale)</klr></trd>
-      </ekz>
-
-      <ekz><ind>bu&scirc;a <tld/>o</ind>
+      </ekz><ekz>
+        <ind>bu&scirc;a <tld/>o</ind>
         <trd lng="es">vest&iacute;bulo bucal</trd>
         <trd lng="it">vestibolo<klr tip="amb"> (della bocca)</klr></trd>
+        <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_d;&c_v;&c_je;&c_r;&c_i;&c_je; &c_n;&c_o;&c_s;&c_a;</trd>
+      </ekz><ekz>
+        vagina <tld/>o, en kiu komenci&gcirc;as la uretro kaj la vagino
+        <fnt>
+          <vrk><url ref="&Viki;/Vulvo">Vulvo - Vikipedio</url></vrk>
+        </fnt>;
+      </ekz><ekz>
+        &ccirc;e la supro de la kapo estas okulpunktoj, malsupre de kiuj estas <tld/>o kaj bu&scirc;o
+        <fnt>
+          <vrk><url ref="&Viki;/Brankiostomo">Brankiostomo - Vikipedio</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_d;&c_s;&c_e;&c_r;&c_d;&c_z;&c_je;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_s;&c_e;&c_r;&c_c;&c_a;&c_k;</trd>,
+      <trd>&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ja;&c_ja; <ind>&c_k;&c_a;&c_m;&c_o;&c_r;&c_a;</ind> <klr tip="amb">(&c_u;&c_n;&c_u;&c_t;&c_r;&c_a;&c_n;&c_a;&c_g;&c_a; &c_v;&c_o;&c_r;&c_g;&c_a;&c_n;&c_a;)</klr></trd>
+    </trdgrp>
     <trd lng="ca">vest&iacute;bul</trd>
+    <trd lng="de">Vorhof <klr>(Medizin)</klr></trd>
     <trd lng="es">vest&iacute;bulo<klr tip="amb"> (cavidad)</klr></trd>
     <trd lng="fr">vestibule<klr tip="amb"> (cavit&eacute;)</klr></trd>
     <trd lng="it">vestibolo<klr tip="amb"> (cavit&agrave;)</klr></trd>
   </snc>
-
   <snc mrk="vestib.0o.orel">
     <uzo tip="fak">ANA</uzo>
     <dif>
-Organo de ekvilibro, lokita en la interna orelo (labirinto).
+      <ref cel="organ.0o.BIO">Organo</ref> de ekvilibro, lokita en la interna orelo (labirinto).
     </dif>
+    <trd lng="be">&c_k;&c_o;&c_s;&c_n;&c_y; <ind>&c_l;&c_ja;&c_b;&c_ib;&c_r;&c_y;&c_n;&c_t;</ind> <klr>(&c_u;&c_n;&c_u;&c_t;&c_r;&c_a;&c_n;&c_a;&c_g;&c_a; &c_v;&c_u;&c_h;&c_a;)</klr></trd>
     <trd lng="ca">laberint</trd>
+    <trd lng="de">Vestibularapparat</trd>
     <trd lng="es">vest&iacute;bulo<klr tip="amb"> (&oacute;rgano)</klr></trd>
     <trd lng="fr">vestibule<klr tip="amb"> (organe)</klr></trd>
     <trd lng="it">vestibolo<klr tip="amb"> (organo)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_je;&c_d;&c_d;&c_v;&c_je;&c_r;&c_i;&c_je; &c_l;&c_a;&c_b;&c_i;&c_r;&c_i;&c_n;&c_t;&c_a;<klr> (&c_u;&c_h;&c_a;)</klr></trd>,
+      <trd>&c_v;&c_je;&c_s;&c_t;&c_i;&c_b;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j; &c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">vest&iacute;bul</trd>
   <trdgrp lng="cs">
@@ -108,32 +172,49 @@ Organo de ekvilibro, lokita en la interna orelo (labirinto).
     <trd>vestibul</trd>,
     <trd>vestibulum</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7384;&#x95A2;  [<ind>&#x3052;&#x3093;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x5165;&#x53E3;&#x306E;&#x5E83;&#x9593;  [<ind>&#x3044;&#x308A;&#x3050;&#x3061;&#x306E;&#x3072;&#x308D;&#x307E;</ind>]</trd>,
+    <trd>&#x30A8;&#x30F3;&#x30C8;&#x30E9;&#x30F3;&#x30B9;&#x30DB;&#x30FC;&#x30EB;</trd>,
+    <trd>&#x524D;&#x5EAD;  [<ind>&#x305C;&#x3093;&#x3066;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>predsie&ncaron;</trd>,
     <trd>vestibul</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_je;&c_s;&c_t;&c_i;&c_b;&c_u;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_p;&c_o;&c_k;&c_ib;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_h;&c_o;&c_zh;&c_a; (&c_u; &c_z;&c_n;&c_a;&c_ch;. &c_ib;&c_m;.)</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_n;&c_ja; (&c_u; &c_z;&c_n;&c_a;&c_ch;. &c_ib;&c_m;.)</trd>,
+    <trd>&c_s;&c_ib;&c_n;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_ib;&c_n;&c_o;&c_k;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/07/24 20:27:24
+Ulrich Fellmann: vestiblo: +2 pliaj DE trdj + 3 rim
+
+versio 1.23 2023/03/20 19:23:35
+Sergio Pokrovskij: +trd=ru
+
+versio 1.22 2022/11/21 09:31:08
+Dmitri Gabinski: + trd be
+
+versio 1.21 2022/05/06 12:17:22
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.20 2022/03/31 22:30:45
+Vito Redsky: + trd pl + trd ro 
+
+versio 1.18 2021/03/29 19:00:04
+Wolfram Diestel: ekz-oj, ref-oj, trd de
+
 Revision 1.16  2015/07/04 08:37:45  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.15  2015/06/28 12:03:50  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.14  2012/08/13 08:10:18  revo
-Marc Rausell: + trd ca
-
-Revision 1.13  2009/04/17 19:48:50  revo
-Antonio Codazzi: +trd it; +~o.ANA (+trd it,fr); +~o.orel (+trd it,fr);
-+FAK
-
-Revision 1.12  2009/02/15 14:18:44  revo
-Russ Williams: +trd en
-
-Revision 1.11  2005/02/02 17:33:16  revo
-Jozefo Horvath: +trd hu
-
 -->
 </vortaro>

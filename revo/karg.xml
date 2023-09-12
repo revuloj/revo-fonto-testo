@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: karg.xml,v 1.15 2009/08/23 16:34:05 revo Exp $">
+<art mrk="$Id: karg.xml,v 1.25 2023/09/01 13:58:56 revo Exp $">
 <kap>
   <rad>karg</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -61,12 +60,21 @@
     <trd>n&aacute;klad lodi</trd>,
     <trd>seznam nalo&zcaron;en&yacute;ch v&ecaron;c&iacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8239;&#x8377;  [<ind>&#x3075;&#x306A;&#x306B;</ind>]</trd>,
+    <trd>&#x7A4D;&#x8377;  [<ind>&#x3064;&#x307F;&#x306B;</ind>]</trd>,
+    <trd>&#x8CA8;&#x7269;  [<ind>&#x304B;&#x3082;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>fracht</trd>,
     <trd>&lstroke;adunek <klr>(transport)</klr></trd>
   </trdgrp>
   <trd lng="ro">marf&abreve;</trd>
   <trd lng="sk">lodn&yacute; n&aacute;klad</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_a;&#x43D;&c_t;&c_a;&c_zh;</trd>,
+    <trd>&#x43A;&c_a;&c_r;&c_g;&#x43E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="karg.0i">
@@ -81,18 +89,24 @@
   <trd lng="be">&c_f;&c_r;&c_a;&c_h;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">noliejar</trd>
   <trd lng="cs">nalo&zcaron;it zbo&zcaron;&iacute; na lo&dcaron;</trd>
+  <trd lng="de">beladen</trd>
   <trd lng="hu">sz&aacute;ll&iacute;t&oacute;eszk&ouml;zt <ind>b&eacute;rel</ind></trd>
+  <trd lng="ja">&#x8377;&#x3092;&#x7A4D;&#x3080;  [<ind>&#x306B;&#x3092;&#x3064;&#x3080;</ind>]</trd>
   <trd lng="nl">bevrachten</trd>
   <trdgrp lng="pl">
     <trd>frachtowa&cacute;</trd>,
     <trd>&lstroke;adowa&cacute;</trd>
   </trdgrp>   
   <trdgrp lng="ro">
-    <trd>&icirc;ncredin&#539;&abreve;m</trd>,
+    <trd>&icirc;ncredin&#x21B;&abreve;m</trd>,
     <trd>&icirc;nc&abreve;rca</trd>
   </trdgrp>
   <trd lng="ru">&c_f;&c_r;&c_a;&c_h;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">nalo&zcaron;i&tcaron; tovar na lo&dcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_a;&#x43D;&c_t;&c_a;&c_zh;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_a;&#x43D;&c_t;&c_a;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="karg.0anto">
@@ -129,7 +143,7 @@
   </trdgrp>   
   <trdgrp lng="ro">
     <trd>expeditor</trd>,
-    <trd>emi&#539;&abreve;tor</trd>
+    <trd>emi&#x21B;&abreve;tor</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_f;&c_r;&c_a;&c_h;&c_t;&c_o;&c_v;&c_shch;&c_i;&c_k;</trd>,
@@ -153,8 +167,7 @@
         a&ubreve; la <tld/>ejo de &scirc;ipo
         <fnt>
           <aut>L. Frank Ba&ubreve;m, trad. D. Broadribb</aut>,
-          <vrk><url
-          ref="http://ttt.esperanto.org/esperante/literatur/Baum/doroteo/cxapitro12.html">
+          <vrk><url ref="http://ttt.esperanto.org/esperante/literatur/Baum/doroteo/cxapitro12.html">
           Doroteo kaj la Sorcxisto en Oz</url></vrk>,
           <lok>1996</lok>
         </fnt>.
@@ -168,8 +181,9 @@
   <trd lng="pl">&lstroke;adownia</trd> 
   <trdgrp lng="ro">
     <trd>cal&abreve;</trd>,
-    <trd>de&#539;ine</trd>
+    <trd>de&#x21B;ine</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_a;&#x43D;&c_t;&c_a;&c_zh;&#x43D;&c_i;&c_j; &#x43C;&c_a;&c_j;&c_d;&c_a;&#x43D;&c_ch;&c_i;&#x43A;</trd>
 </drv>
 
 <drv mrk="karg.0boato">
@@ -191,6 +205,7 @@
     </trdgrp>
   <trd lng="fr">cargo<klr tip="ind"> (navire)</klr></trd>
   <trd lng="hu">teherhaj&oacute;</trd>
+  <trd lng="ja">&#x8CA8;&#x7269;&#x8239;  [<ind>&#x304B;&#x3082;&#x3064;&#x305B;&#x3093;</ind>]</trd>
   <trd lng="nl">vrachtschip</trd>
   <trd lng="pl">frachtowiec</trd> 
   <trdgrp lng="ro">
@@ -223,6 +238,9 @@
 </art>
 <!--
 $Log$
+versio 1.24 2022/10/24 19:39:37
+Ulrich Fellmann: kargi +1 DE trd
+
 Revision 1.21  2016/10/29 22:10:21  revo
 Jeromo Vasxe: + ~ejo
 

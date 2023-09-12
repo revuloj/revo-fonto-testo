@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ekspektor.xml,v 1.4 2010/12/02 17:30:41 revo Exp $">
+<art mrk="$Id: ekspektor.xml,v 1.9 2023/04/17 09:26:40 revo Exp $">
 <kap>
   <rad>ekspektor</rad>/i <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -24,10 +23,14 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_h;&c_a;&c_r;&c_k;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_h;&c_a;&c_r;&c_k;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
   <trd lng="ca">expectorar</trd>
   <trdgrp lng="cs">
-    <trd>odkašlat <klr>(průduškový hlen)</klr></trd>,
-    <trd>vykašlat</trd>
+    <trd>odka&scaron;lat <klr>(pr&#x16F;du&scaron;kov&#xFD; hlen)</klr></trd>,
+    <trd>vyka&scaron;lat</trd>
   </trdgrp>
   <trd lng="fr">expectorer</trd>
   <trd lng="it">espettorare</trd>
@@ -37,14 +40,18 @@
   </trdgrp>
   <trd lng="pt">expectorar</trd>
   <trdgrp lng="sk">
-    <trd>odkašlať</trd>,
-    <trd>vykašlať</trd>
+    <trd>odka&scaron;la&tcaron;</trd>,
+    <trd>vyka&scaron;la&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_ib;&c_d;&c_h;&c_a;&c_r;&#x43A;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.9 2023/04/17 09:26:40
+Dmitri Gabinski: + trd be
+
 Revision 1.6  2015/06/29 16:29:37  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -62,6 +69,5 @@ Tulio Flores: +tr pt
 
 Revision 1.1  2006/07/31 16:31:42  revo
 Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

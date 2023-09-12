@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: divers.xml,v 1.21 2010/10/04 16:30:58 revo Exp $">
+<art mrk="$Id: divers.xml,v 1.37 2023/08/31 10:44:01 revo Exp $">
 <kap>
   <ofc>*</ofc>
-  <rad>divers</rad>/a <fnt><bib>PV</bib></fnt>
+  <rad>divers</rad>/a <fnt><bib>MT</bib></fnt>
 </kap>
 <drv mrk="divers.0a">
   <kap><ofc>*</ofc><tld/>a</kap>
@@ -22,21 +21,56 @@
         monpaperoj de <tld/>a valoro;
       </ekz>
       <ekz>
-        homoj de <tld/>a ekstera&jcirc;o, de <tld/>aj
-        specoj<fnt>Z</fnt>, agoj k karakteroj;
+        <tld/>koloraj vestoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Jug; 5:30</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        tiun &ccirc;i flankon <tld/>aj esp-istoj povas klarigi al si
-        en la plej <tld/>a maniero k en la plej <tld/>aj gradoj
-        <fnt>Z</fnt>;
+        amaso da <tld/>gentaj homoj eliris
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Eli; 12:38</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>gentaj lo&gcirc;antoj
-        <fnt><bib>MT</bib>, <lok>&Jer; 50:37</lok></fnt>;
+        la amaso <klr>[&#x2026;]</klr> kuras en <tld/>ajn flankojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Sa1; 14:16</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>konsista<fnt>Z</fnt>.
-      </ekz> 
+        tie estis virinoj de <tld/>aj a&gcirc;oj, de <tld/>a ekstera&jcirc;o kaj videble anka&ubreve; de
+        <tld/>aj karakteroj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>konsista socio
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiun &ccirc;i flankon <tld/>aj Esperantistoj povas klarigi al si en la plej <tld/>a
+        maniero kaj en la plej <tld/>aj gradoj
+        <fnt>
+          <bib>Paroloj</bib>
+          <vrk>Parolado anta&ubreve; la Dua Kongreso Esperantista en Gen&egrave;ve en la 28a de a&ubreve;gusto 1906</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la intelektuloj <klr>[&#x2026;]</klr> renkontis tie problemojn kiuj estis specifaj, ne
+        universalaj, ofte <tld/>aj de tiuj de la proletaro a&ubreve; de la amaso
+        <fnt>
+          <aut>M. Foucault, trad. V. Lutermano</aut>
+          <vrk><url ref="&Mondediplo;article1113.html">La specifa inteligento</url></vrk>
+          <lok>Le Monde diplomatique, 2006-05</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="ali.0a">alia</ref>,
@@ -44,7 +78,8 @@
       <ref cel="kalejd">kalejdoskopa</ref>,
       <ref cel="mozaik">mozaika</ref>
     </refgrp>
-  <trdgrp lng="pl">
+  <trd lng="de">verschieden</trd>
+    <trdgrp lng="pl">
     <trd>r&oacute;&zdot;ny</trd>,
     <trd>przer&oacute;&zdot;ny</trd>,
     <trd>rozmaity</trd>,
@@ -60,16 +95,31 @@
     <dif>
       Kelke da malsamaj:
       <ekz>
-        ni a&ccirc;etis <tld/>ajn ilojn;
+        <tld/>aj muzikaj instrumentoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Dan; 3:5</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>aj detaloj<fnt>Z</fnt>,
-        cirkonstancoj<fnt>Z</fnt>, lokoj<fnt>Z</fnt>.
-      </ekz> 
+        fari <tld/>ajn aferojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Lev; 4:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        for&gcirc;anto de <tld/>aj majstra&jcirc;oj el kupro kaj fero
+        <fnt>
+          <bib>MT</bib>
+          <lok>&Gen; 4:22</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="plur.0aj">pluraj</ref>
     </refgrp>
+    <trd lng="de">verschiedene</trd>
     <trdgrp lng="pl">
       <trd>r&oacute;&zdot;ne</trd>
     </trdgrp>
@@ -79,6 +129,7 @@
     <trd>&c_r;&c_o;&c_z;&c_n;&c_y;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="bo">&t_kha;&t_tsheg;&t_sha;&t_sa;&t_tsheg;</trd>
   <trdgrp lng="cs">
     <trd>lecjak&yacute;</trd>,
     <trd>r&uring;zn&yacute;</trd>,
@@ -89,13 +140,17 @@
     <trd>v&scaron;elijak&yacute;</trd>,
     <trd>v&scaron;elik&yacute;</trd>
   </trdgrp>
-  <trd lng="de">verschieden</trd>
   <trd lng="en">diverse</trd>
   <trd lng="es">diverso</trd>
   <trd lng="fr">divers</trd>
   <trdgrp lng="hu">
     <trd>k&uuml;l&ouml;nb&ouml;z&odblac;</trd>,
     <trd>k&uuml;l&ouml;nf&eacute;le</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3044;&#x308D;&#x3044;&#x308D;&#x306A;</trd>,
+    <trd>&#x3055;&#x307E;&#x3056;&#x307E;&#x306A;</trd>,
+    <trd>&#x591A;&#x7A2E;&#x591A;&#x69D8;&#x306A;  [<ind>&#x305F;&#x3057;&#x3085;&#x305F;&#x3088;&#x3046;&#x306A;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>,
@@ -108,6 +163,11 @@
     <trd>rozli&ccaron;n&yacute;</trd>,
     <trd>r&ocirc;zny</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_a;&c_ji;&c_t;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_o;&c_m;&c_a;&c_n;&c_ib;&c_t;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="divers.0i">
@@ -117,6 +177,16 @@
     <dif>
       Prezenti inter si malsamojn, diferencojn:
       <ekz>
+        la vico <klr>[&#x2026;]</klr> povas regione <tld/>i
+        <fnt>
+          <bib>Monato</bib>
+          <aut>M. Naoki Lins</aut>
+          <vrk><url ref="&Monato;/2004/008366.html">Plurlingva Svislando &ccirc;u pagebla
+          lukso?</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         la lokaj kondi&ccirc;oj tiel <tld/>as, ke neniu
         kohera tapeto teksi&gcirc;as el tiuj fadenoj
         <fnt>
@@ -124,42 +194,112 @@
           <vrk><url ref="http://www.ipernity.com/blog/56240/255977">
           Kuniga arto</url></vrk>,
           <lok>2010-06-10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la lingvoj de la mondo tre <tld/>as inter si, ne malplej multe en la leksiko kaj
+        semantiko
+        <fnt>
+          <aut>J. Wells</aut>
+          <vrk>Lingvistikaj aspektoj de Esperanto</vrk>
+          <lok>1978</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        se io estas ne uzata plu kaj <tld/>as de la pli ofta kaj logika formo, tion ni
+        ellasis a&ubreve; markis per malaproba noto, e&ccirc; se &gcirc;i estas zamenhofa
+        <fnt>
+          <aut>K. Kaloscay, G. Waringhien</aut>
+          <vrk><url ref="https://bibliotekoj.org/literaturamondo/PDF/1935/Lingvo%20Libro%201935c.pdf">Anta&ubreve;parolo de la Plena Gramatiko de Esperanto</url></vrk>
+          <lok>Literatura Mondo, suplemento Lingvo-Libro, 1935-1</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="difere.0i">diferenci</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_r;&c_o;&c_z;&c_mol;&c_n;&c_ib;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_y;&c_m;</ind></trd>,
+    <trd>&c_n;&c_je; <ind>&c_s;&c_u;&c_p;&c_a;&c_d;&c_a;&c_c;&c_mol;</ind></trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol; <ind>&c_a;&c_d;&c_r;&c_o;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>
+  </trdgrp>
   <trd lng="cs">prov&aacute;d&ecaron;t diverzn&iacute; &ccaron;innost</trd>
+  <trd lng="de">sich <ind>unterscheiden</ind></trd>
   <trd lng="es">divergir</trd>
   <trdgrp lng="fr">
     <trd>diverger</trd>,
     <trd>pr&eacute;senter des diff&eacute;rences</trd>
   </trdgrp>
+  <trd lng="ja">&#x3055;&#x307E;&#x3056;&#x307E;&#x3067;&#x3042;&#x308B;</trd>
   <trd lng="sk">prev&aacute;dza&tcaron; diverzn&uacute; &ccaron;innos&tcaron;</trd>
 </drv>
 
 <drv mrk="divers.0eco">
-  <kap><tld/>eco</kap>
+  <kap><tld/>eco, <var><kap><tld/>o</kap></var></kap>
   <snc mrk="divers.0eco.KOMUNE">
     <dif>
       Malsameco:
       <ekz>
-        la <tld/>eco de la klimatoj.
+        la <tld/>eco de la klimatoj;
+      </ekz>
+      <ekz>
+        ekzistas <tld/>eco de donacoj, sed la sama spirito
+        <fnt>
+          <bib>NT</bib>
+          <lok>&Ko1; 12:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ri&ccirc;a kolor<tld/>eco aperis sur &ccirc;iuj arbaroj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la grandioza <tld/>eco de niaj ideoj
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        spite al la <tld/>o de la devenoj de la internacia parolantaro de Esperanto,
+        elkristali&gcirc;is anka&ubreve; kelkaj originala&jcirc;oj, unikaj nur al la Esperanto-komunumo
+        <fnt>
+	<aut>Pejno Simono</aut>
+	<vrk><url ref="&Monato;/2000/006813.php">Plansprache und Phraseologie</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/06, p. 33</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd
-  lng="be">&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;
-  &c_mol;</trd>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
     <trd>diverzita</trd>,
     <trd>r&uring;znost</trd>
   </trdgrp>
-  <trd lng="de">Verschiedenheit</trd>
+  <trdgrp lng="de">
+    <trd>Verschiedenheit</trd>,
+    <trd>Unterschiedlichkeit</trd>,
+    <trd>Diversit&auml;t</trd>,
+    <trd>Heterogenit&auml;t</trd>,
+    <trd>Varianz</trd>
+  </trdgrp>
+  <trd lng="en">diversity</trd>
   <trd lng="es">diversidad</trd>
   <trd lng="fr">diversit&eacute;</trd>
+  <trd lng="he">&gimel;&yod;&vav;&vav;&fnun;</trd>
   <trdgrp lng="hu">
     <trd>k&uuml;l&ouml;nb&ouml;z&odblac;s&eacute;g</trd>,
     <trd>diverzit&aacute;s</trd>
+  </trdgrp>
+  <trd lng="ie">variet&aacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x591A;&#x69D8;&#x6027;  [<ind>&#x305F;&#x3088;&#x3046;&#x305B;&#x3044;</ind>]</trd>,
+    <trd>&#x7A2E;&#x3005;&#x96D1;&#x591A;  [<ind>&#x3057;&#x3085;&#x3058;&#x3085;&#x3056;&#x3063;&#x305F;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>r&oacute;&zdot;nica</trd>,
@@ -168,18 +308,50 @@
     <trd>urozmaicenie</trd>,
     <trd>dywersyfikacja</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_je;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_je;</trd>
   <trd lng="sk">r&ocirc;znos&tcaron;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_o;&c_m;&c_a;&c_n;&c_ib;&c_t;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_o;&c_m;&c_a;&c_n;&c_ib;&c_t;&c_t;&c_ja;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_a;&c_ji;&c_t;&c_t;&c_ja;</trd>,
+    <trd>&c_r;&c_o;&c_z;&c_m;&c_a;&c_ji;&c_t;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="divers.0igi">
-  <kap><tld/>igi</kap>
+  <kap><tld/>igi, <var><kap><tld/>ecigi</kap></var></kap>
   <snc mrk="divers.0igi.KOMUNE">
     <dif>
       Igi <tld/>a, <ref tip="vid" cel="difere.0igi">diferencigi</ref>,
       <ref tip="vid" cel="vari.0igi">variigi</ref>,
-      <ref tip="vid" cel="sxangx.0i">&scirc;an&gcirc;i</ref>. 
+      <ref tip="vid" cel="sxangx.0i">&scirc;an&gcirc;i</ref>:
+      <ekz>
+        <tld/>igita kolekto de korkoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2013/010963.php">Post tostado, korka
+          recikligo</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas grave sekvi sanan kaj <tld/>igitan man&gcirc;omodelon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Lenio Marobin</aut>
+          <vrk><url ref="&Monato;/2014/011298.php">Ela&ccirc;etas sin (kelkaj)
+          grasoj</url></vrk>
+          <lok>2014</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;arma radio, &jcirc;etita sur la esencon de la ekzistado, por &gcirc;in belkolorigi kaj
+        <tld/>ecigi
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trdgrp lng="be">
@@ -193,22 +365,71 @@
     <trd>rozli&scaron;ovat</trd>,
     <trd>rozr&uring;znit</trd>
   </trdgrp>
+  <trd lng="de">ausdifferenzieren</trd>
   <trd lng="es">diversificar</trd>
   <trd lng="fr">diversifier</trd>
+  <trd lng="he">&lamed;&gimel;&vav;&vav;&fnun;</trd>
   <trdgrp lng="hu">
     <trd>k&uuml;l&ouml;nb&ouml;z&odblac;v&eacute; tesz</trd>,
     <trd>diverzifik&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x591A;&#x69D8;&#x5316;&#x3055;&#x305B;&#x308B;  [<ind>&#x305F;&#x3088;&#x3046;&#x304B;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x5909;&#x5316;&#x3092;&#x3064;&#x3051;&#x308B;  [<ind>&#x3078;&#x3093;&#x304B;&#x3092;&#x3064;&#x3051;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="pl">
     <trd>por&oacute;&zdot;nia&cacute;</trd>,
     <trd>dywersyfikowa&cacute;</trd>
   </trdgrp>
-  <trd
-  lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>
   <trdgrp lng="sk">
     <trd>oddeli&tcaron;</trd>,
     <trd>rozli&scaron;ova&tcaron;</trd>
   </trdgrp>
+  <trd lng="uk">&c_u;&c_r;&c_ib;&c_z;&c_n;&c_o;&c_m;&c_a;&c_n;&c_ib;&c_t;&c_n;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="divers.0igxi">
+  <kap>
+    <tld/>i&gcirc;i
+  </kap>
+  <snc>
+    <dif>
+      Fari&gcirc;i <tld/>a, varia:
+      <ekz>
+        ili poste dividi&gcirc;is kaj <tld/>i&gcirc;is
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Mihail Korotkov </aut>
+          <vrk><url ref="&Monato;/2012/010634.php">La turka havas familion</url></vrk>
+          <lok>2012</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la]</klr> kolekto sufi&ccirc;e vasti&gcirc;is <klr>[&#x2026;]</klr> kaj tre diversi&gcirc;is
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Sylvain Lelarge</aut>
+          <vrk><url ref="&Monato;/2004/008496.html">La argilaj najbaretoj de Jesuo
+          provenca tradicio</url></vrk>
+          <lok>2004</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        multaj japanaj kompanioj fiaskis, kiam ili <tld/>i&gcirc;is, neglektante sian propran
+        aferon
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Isikawa Takasi</aut>
+          <vrk><url ref="&Monato;/2013/010932.php">Adapti, persisti,
+          akcepti</url></vrk>
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_n;&c_a;&c_v;&c_ib;&c_c;&c_c;&c_a; <ind>&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_y;&c_m;</ind></trd>
+  <trd lng="de">sich <ind>ausdifferenzieren</ind></trd>
 </drv>
 
 <drv mrk="divers.mal0a">
@@ -218,22 +439,30 @@
       Unueca, <ref tip="vid" cel="ton.unu0a">unutona</ref>, nevaria:
       <ekz>
         pri la nutra&jcirc;o, mi povas diri ke &gcirc;i estas bona sed
-        iomete 
-        mal<tld/>a: ni ricevis sen&scirc;an&gcirc;e tomatojn, kukumojn
-        kaj
-        kaprinan 
-        froma&gcirc;on je la matenman&gcirc;o...
+        iomete mal<tld/>a: ni ricevis sen&scirc;an&gcirc;e tomatojn, kukumojn
+        kaj kaprinan froma&gcirc;on je la matenman&gcirc;o
         <fnt>
           <aut>C. Pierroux</aut>,
           <vrk>
-          <url
-          ref="http://www.internacia-gazeto.com/articoli/articolo_0079_claude_kreto.htm">
+          <url ref="http://www.internacia-gazeto.com/articoli/articolo_0079_claude_kreto.htm">
           Ok tagoj en Kreto</url></vrk>,
           <lok>Internacia Gazeto, 2005-07-13</lok>
-        </fnt>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="form.unu0a">unuforma</ref>,
+      <ref cel="monoto.0a.unutona">monotona<sncref/></ref>, 
+      <ref cel="enu.0iga">enuiga</ref>,
+      <ref cel="ted.0a">teda</ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_a;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_d;&c_n;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">einheitlich</trd>
   <trdgrp lng="es">
     <trd>uniforme<klr> (sin variedad)</klr></trd>,
     <trd>mon&oacute;tono</trd>,
@@ -250,24 +479,27 @@
 </art>
 <!--
 $Log$
-Revision 1.24  2017/08/13 19:10:41  revo
-Vito Redsky: +trd ro
+versio 1.36 2023/05/03 16:39:01
+revo: aktualigo URL-unuoj
 
-Revision 1.23  2015/07/04 08:37:32  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.35 2023/04/24 08:32:26
+Paul Peeraerts: @Sxteloj -> @Monato
 
-Revision 1.22  2015/06/29 16:29:37  revo
-aldono de trd sk per skripto de M. von Laer
+versio 1.34 2023/03/06 08:35:56
+Dmitri Gabinski: + trd be
 
-Revision 1.21  2010/10/04 16:30:58  revo
-Jeromo Vasxe: + ~i
+versio 1.33 2022/11/21 22:28:52
+Jeromo Vasxe: ~a de, ~i de + ekz
 
-Revision 1.20  2009/07/01 17:21:08  revo
-Sebastian Cyprych: +trd pl
+versio 1.32 2022/04/26 17:11:48
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.19  2009/01/07 17:30:20  revo
-Jeromo Vasxe: + mal~a
+versio 1.31 2022/04/22 16:48:27
+Ulrich Fellmann: diverseco: +4 DE trdj, +1 IE trd
 
-Revision 1.18  2008/03/03 19:14:16  revo
+versio 1.27 2020/11/17 20:32:17
+Wolfram Diestel: +~igxi, +ekz-oj, germ trd-oj
+
+versio 1.26 2020/06/06 06:10:33
 -->
 </vortaro>

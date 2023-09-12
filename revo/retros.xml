@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: retros.xml,v 1.16 2023/09/03 07:53:11 revo Exp $">
 <kap>
   <rad>retrospektiv</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
 </kap>
@@ -17,8 +16,7 @@
         precipe por la &leftquot;preska&ubreve; maljunuloj&rightquot;
         <fnt>
           <aut>O. Milhomens</aut>,
-          <vrk><url
-          ref="http://www.ipernity.com/doc/79333/6228118/comment/7494068#comment7494068">
+          <vrk><url ref="http://www.ipernity.com/doc/79333/6228118/comment/7494068#comment7494068">
           Retrospektivo</url></vrk>,
           <lok>2010</lok>
         </fnt>.
@@ -33,7 +31,9 @@
     <trd>retrospektiva</trd>
   </trdgrp>
   <trd lng="fr">r&eacute;trospective<klr> (subst.)</klr></trd>
-  <trd lng="sk">pohľad do minulosti</trd>
+  <trd lng="pl">retrospekcja</trd>
+  <trd lng="ro">flashback</trd>
+  <trd lng="sk">poh&#x13E;ad do minulosti</trd>
 </drv>
 
 <drv mrk="retros.0a">
@@ -45,8 +45,8 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_t;&c_r;&c_a;&c_s;&c_p;&c_e;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
-    <trd>retrospektivní</trd>,
-    <trd>zaměřený na minulost</trd>
+    <trd>retrospektivn&#xED;</trd>,
+    <trd>zam&#x11B;&rcaron;en&#xFD; na minulost</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>retrospektiv</trd>,
@@ -59,17 +59,36 @@
     <trd>retrospekt&iacute;v</trd>,
     <trd>visszatekint&odblac;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x56DE;&#x9867;&#x7684;&#x306A;  [<ind>&#x304B;&#x3044;&#x3053;&#x3066;&#x304D;&#x306A;</ind>]</trd>,
+    <trd>&#x904E;&#x53BB;&#x3092;&#x632F;&#x308A;&#x8FD4;&#x308B;  [<ind>&#x304B;&#x3053;&#x3092;&#x3075;&#x308A;&#x304B;&#x3048;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>terugziend</trd>,
     <trd>retrospectief</trd>
   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>retrospektywny</trd>,
+    <trd>spogl&aogonek;daj&aogonek;cy wstecz</trd>
+  </trdgrp>
   <trd lng="pt">retrospectivo</trd>
+  <trdgrp lng="ro">
+    <trd>retrospectiv</trd>,
+    <trd>privind in urma</trd>
+  </trdgrp>
   <trd lng="ru">&c_r;&c_je;&c_t;&c_r;&c_o;&c_s;&c_p;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
-  <trd lng="sk">retrospektívny</trd>
+  <trd lng="sk">retrospekt&#xED;vny</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_je;&c_t;&c_r;&#x43E;&c_s;&#x43F;&c_je;&#x43A;&c_t;&c_i;&c_v;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_v;&c_je;&c_r;&#x43D;&c_je;&#x43D;&c_i;&c_j; &c_d;&#x43E; &#x43C;&c_i;&#x43D;&c_u;&#x43B;&#x43E;&c_g;&#x43E;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.15 2022/10/31 21:31:33
+Vito Redsky: +trd pl + trd ro
+
 Revision 1.12  2015/06/29 16:33:22  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -89,11 +108,5 @@ Revision 1.7  2003/08/17 17:28:44  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.6  2002/01/25 17:32:51  revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/06/18 18:25:44 revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.4 2001/03/01 20:03:35 revo
 -->
 </vortaro>

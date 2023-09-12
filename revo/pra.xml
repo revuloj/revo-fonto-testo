@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id$">
+  <art mrk="$Id: pra.xml,v 1.21 2023/09/03 12:45:11 revo Exp $">
     <kap>
       <ofc>*</ofc> <rad>pra</rad> <fnt><bib>PV</bib></fnt>
     </kap>
@@ -29,6 +28,7 @@
               <ind><tld/>homaro</ind>;
               <trd lng="ru">&c_p;&c_je;&c_r;&c_v;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_je;
                 &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+               <trd lng="pl">lud pierwotny</trd>
             </ekz>
             <ekz>
               <ind><tld/>tempo</ind>;
@@ -37,6 +37,7 @@
                 <trd>Vorzeit</trd>
               </trdgrp>
               <trd lng="nl">oertijd</trd>
+              <trd lng="pl">czasy zamierzch&lstroke;e {pl}</trd>
               <trdgrp lng="ru">
                 <trd>&c_d;&c_o;&c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; &c_e;&c_p;&c_o;&c_h;&c_a;</trd>,
                 <trd>&c_p;&c_je;&c_r;&c_v;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_je; &c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
@@ -56,6 +57,7 @@
                 <trd>Prototyp</trd>
               </trdgrp>
               <trd lng="nl">prototype</trd>
+              <trd lng="pl">archetyp</trd>
               <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_t;&c_i;&c_p;</trd>
             </ekz>
           </dif>
@@ -67,6 +69,7 @@
             <trd>pr&eacute;-<klr> (ancien, primitif)</klr></trd>,
             <trd>proto-</trd>
           </trdgrp>
+          <trd lng="pl">pra-</trd>
           <trd lng="vo">&uuml;l-</trd>
         </snc>
         <snc mrk="pra.0.GEN">
@@ -76,6 +79,7 @@
             &jcirc;us anta&ubreve;a, tuj posta ol la indikita de la radikalo:
             <ekz>
               la <ind><tld/>nepo</ind> estas la filo de la nepo;
+              <trd lng="pl">prawnuk</trd>
               <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_n;&c_u;&c_k;</trd>
             </ekz>
             <ekz>
@@ -85,6 +89,7 @@
                 <trd>Uropa</trd>
               </trdgrp>
               <trd lng="nl">overgrootvader</trd>
+              <trd lng="pl">pradziadek</trd>
               <trd lng="ru">&c_p;&c_r;&c_a;&c_d;&c_je;&c_d;</trd>
             </ekz>
           </dif>
@@ -95,7 +100,8 @@
         </snc>
       <trd lng="de">Ur-</trd>
       <trd lng="pt">pr&eacute;-</trd>
-      </drv>
+        <trd lng="uk">&c_shch;&#x43E; &#x43F;&#x43E;&c_z;&#x43D;&c_a;&c_ch;&c_a;&c_jeu;</trd>
+</drv>
     </subart>
 
     <subart>
@@ -110,9 +116,10 @@
             Primitiva, anta&ubreve;historia, origina.
           </dif>
         </snc>
+        <trd lng="bo">&#xF55;&#xF0B;&#xF60;&#xF56;&#xF74;&#xF53;&#xF0B;</trd>
   <trdgrp lng="cs">
-    <trd>velmi dávný</trd>,
-    <trd>velmi starý</trd>
+    <trd>velmi d&aacute;vn&yacute;</trd>,
+    <trd>velmi star&yacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
           <trd>urzeitlich</trd>,
@@ -123,14 +130,24 @@
           <trd>ancestral</trd>
         </trdgrp>
   <trd lng="fr">archa&iuml;que</trd>
+  <trdgrp lng="ja">
+    <trd>&#x539F;&#x59CB;&#x306E;  [<ind>&#x3052;&#x3093;&#x3057;&#x306E;</ind>]</trd>,
+    <trd>&#x592A;&#x53E4;&#x306E;  [<ind>&#x305F;&#x3044;&#x3053;&#x306E;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">voorhistorisch</trd>
+  <trd lng="pl">dawny  <klr>(prastary)</klr></trd>
   <trdgrp lng="ru">
           <trd>&c_p;&c_je;&c_r;&c_v;&c_o;&c_b;&c_y;&c_t;&c_n;&c_y;&c_j;</trd>,
           <trd>&c_d;&c_o;&c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
         </trdgrp>
   <trdgrp lng="sk">
-    <trd>pradávny</trd>,
-    <trd>starodávny</trd>
+    <trd>prad&aacute;vny</trd>,
+    <trd>starod&aacute;vny</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_je;&c_r;&c_v;&c_ib;&c_s;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&#x43F;&c_r;&c_i;&#x43C;&c_ib;&c_t;&c_i;&c_v;&#x43D;&c_i;&c_j;</trd>,
+    <trd>&c_d;&#x43E;&c_ib;&c_s;&c_t;&#x43E;&c_r;&c_i;&c_ch;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
 </drv>
 
@@ -155,9 +172,8 @@
               tre malvasta regiono kaj neniel al tuta lando
               <fnt>
                 <aut>E. Lanti</aut>:
-                <vrk><url
-                ref="http://home.arcor.de/gmickle/skk/92ms_2.html"
-                    >Letero pri la kvaza&ubreve;aj &leftquot;Aksiomoj&rightquot;</url></vrk>
+                <vrk><url ref="http://home.arcor.de/gmickle/skk/92ms_2.html">Letero pri la kvaza&ubreve;aj
+                &leftquot;Aksiomoj&rightquot;</url></vrk>
               </fnt>;
             </ekz>
             <ekz>
@@ -172,7 +188,7 @@
           </dif>
           <ref tip="ant" cel="post.0eulo">posteulo</ref>
         </snc>
-  <trd lng="cs">dávný předek</trd>
+  <trd lng="cs">d&aacute;vn&yacute; p&rcaron;edek</trd>
   <trd lng="de">Vorfahre</trd>
   <trdgrp lng="en">
           <trd>ancestor</trd>,
@@ -184,18 +200,36 @@
           <trd>ascendiente</trd>
         </trdgrp>
   <trd lng="fr">anc&ecirc;tre</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5148;&#x7956;  [<ind>&#x305B;&#x3093;&#x305E;</ind>]</trd>,
+    <trd>&#x7956;&#x5148;  [<ind>&#x305D;&#x305B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">voorvader</trd>
+  <trdgrp lng="pl">
+    <trd>antenat</trd>,
+    <trd>protoplasta</trd>,
+    <trd>przodek</trd>
+  </trdgrp>
   <trdgrp lng="ru">
           <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_k;</trd>,
           <trd>&c_p;&c_r;&c_a;&c_shch;&c_u;&c_r;</trd>
         </trdgrp>
-  <trd lng="sk">dávny predok</trd>
+  <trd lng="sk">d&aacute;vny predok</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_r;&c_a;&c_shch;&c_u;&c_r;</trd>,
+    <trd>&c_d;&c_a;&#x43B;&c_je;&#x43A;&c_i;&c_j; &#x43F;&c_r;&c_je;&c_d;&#x43E;&#x43A;</trd>
+  </trdgrp>
 </drv>
-
     </subart>
   </art>
   <!--
   $Log$
+versio 1.20 2023/04/24 22:28:29
+Vito Redsky: +trd pl 
+
+versio 1.18 2021/01/19 09:11:13
+Aleks Andre: +trd bo
+
   Revision 1.16  2015/06/29 16:40:18  revo
   aldono de trd sk per skripto de M. von Laer
 
@@ -212,25 +246,5 @@
   Sergio Pokrovskij: ~ulo
 
   Revision 1.11  2006/03/17 17:32:04  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.10  2003/03/06 17:11:40  revo
-  Ulrich Fellmann: +1 plia trd = de + 1 trd = vo
-
-  Revision 1.9  2003/01/13 17:35:26  revo
-  Ulrich Fellmann: + 9 pliaj trd = de
-
-  Revision 1.8  2002/02/27 18:03:33  revo
-  Yury Finkel: konv (f)
-
-  Revision 1.7 2001/12/24 19:29:10 revo
-  Yury Finkel: +trd ru
-
-  Revision 1.6 2001/07/01 18:13:34 revo
-  Paul Peeraerts: ald trd nl
-
-  Revision 1.5 2001/06/10 18:12:00 revo
-  Dennis Wibrow: +trd germ
-
-  -->
+-->
 </vortaro>

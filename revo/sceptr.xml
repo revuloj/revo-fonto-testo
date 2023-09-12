@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sceptr.xml,v 1.24 2023/09/03 12:09:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sceptr</rad>/o
@@ -80,7 +79,7 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        jen tie malsupre ku&scirc;as Germanujo, <klr>[&#8230;]</klr> kie <nom>Mozart</nom> siatempe tenis la
+        jen tie malsupre ku&scirc;as Germanujo, <klr>[&#x2026;]</klr> kie <nom>Mozart</nom> siatempe tenis la
         <tld/>on de la tonoj
         <fnt>
           <bib>Fab3</bib>
@@ -117,6 +116,12 @@
     <trd>kir&aacute;lyi p&aacute;lca</trd>
   </trdgrp>
   <trd lng="it">scettro</trd>
+  <trdgrp lng="ja">
+    <trd>&#x738B;&#x6756;  [<ind>&#x304A;&#x3046;&#x3064;&#x3048;</ind>]</trd>,
+    <trd>&#x738B;&#x7B0F;  [<ind>&#x304A;&#x3046;&#x3057;&#x3083;&#x304F;</ind>]</trd>,
+    <trd>&#x738B;&#x6A29;  [<ind>&#x304A;&#x3046;&#x3051;&#x3093;</ind>]</trd>,
+    <trd>&#x738B;&#x4F4D;  [<ind>&#x304A;&#x3046;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">scepter</trd>
   <trd lng="pl">ber&lstroke;o</trd>
   <trd lng="ru">&c_s;&c_k;&c_i;&c_p;&c_je;&c_t;&c_r;</trd>
@@ -124,6 +129,10 @@
     <trd>kr&aacute;&lcaron;ovsk&aacute; berla; pren. kr&aacute;&lcaron;ovsk&aacute; moc</trd>,
     <trd>vl&aacute;da</trd>,
     <trd>&zcaron;ezlo</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x441;&#x43A;&#x456;&#x43F;&#x435;&#x442;&#x440;</trd>,
+    <trd>&#x431;&#x435;&#x440;&#x43B;&#x43E;</trd>
   </trdgrp>
 </drv>
 </art>

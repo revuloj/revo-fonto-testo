@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: latitu.xml,v 1.22 2020/02/15 17:10:31 revo Exp $">
+<art mrk="$Id: latitu.xml,v 1.28 2023/09/01 19:10:58 revo Exp $">
 <kap>
   <ofc>8</ofc>
   <rad>latitud</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,10 +13,44 @@
     <uzo tip="fak">AST</uzo>
     <dif>
       Distanco de iu loko al la ekvatoro, mezurata per la meridiano
-      trapasanta tiun lokon.
+      trapasanta tiun lokon:
+      <ekz>
+        la eldonejo de Monato trovi&gcirc;as je <frm>51&deg;12'48"</frm> norda <tld/>o kaj <frm>4&deg;24'34"</frm>
+        orienta
+        <ref cel="longit.0o.GEOG">longitudo</ref>
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roland Rotsaert</aut>
+          <vrk><url ref="&Monato;/2010/010061.php">Europeana: de Rejno al Danubo</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        stabila malvarma alt-premo en la nordo &scirc;ovelas sekan arktan malvarman aeron en
+        mezajn <tld/>ojn
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Stefan Maul</aut>
+          <vrk><url ref="&Monato;/2010/010105.php">Varmo kaj frosto</url></vrk>
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        trovi&gcirc;as maso da likva akvo <klr>[&#x2026;]</klr> profunda 8 kilometrojn kaj etendi&gcirc;as
+        de la suda poluso de Encelado almena&ubreve; &gcirc;is la <tld/>o de 50 gradoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Roberto Pigro</aut>
+          <vrk><url ref="&Monato;/2014/011292.php">Oceano, kaj eble vivo, sur saturna
+          satelito</url></vrk>
+          <lok>2014</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="de">Breite</trd>
-    <trd lng="hu">f&ouml;ldrajzi <ind>sz&eacute;less&eacute;g</ind></trd>    
+    <trd lng="hu">f&ouml;ldrajzi <ind>sz&eacute;less&eacute;g</ind></trd>
+    <trd lng="pl">szeroko&sacute;&cacute; geograficzna</trd>     
+    <trd lng="ro">latitudine</trd>    
   </snc>
   <snc mrk="latitu.0o.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -25,12 +58,10 @@
       <klr>(de punkto <frm am="M">M</frm> en tridimensia reela e&ubreve;klida
       <ref cel="spac.afina0o">afina spaco</ref> provizita per orta
       ununorma koordinatsistemo
-      <frm am="(O,bb i,bb j,bb k)"
-      >(O, <g>i</g>, <g>j</g>, <g>k</g>)</frm>)</klr>
+      <frm am="(O,bb i,bb j,bb k)">(O, <g>i</g>, <g>j</g>, <g>k</g>)</frm>)</klr>
       Mezuro de la <ref cel="angul.0o.afina">angulo</ref> 
       <frm am="(OP,OM)">(OP, OM)</frm>,
-      kie <frm am="P">P</frm> signas la ortan projekcia&jcirc;on de <frm
-      am="M">M</frm> sur      
+      kie <frm am="P">P</frm> signas la ortan projekcia&jcirc;on de <frm am="M">M</frm> sur      
       la ebeno difinita de <frm am="(O,bb i,bb j)">(O, <g>i</g>,
       <g>j</g>)</frm>:
       <ekz>
@@ -47,6 +78,7 @@
     (g&ouml;mbkoordin&aacute;ta)</klr></trd>    
     <trd lng="pl">szeroko&sacute;&cacute;<klr tip="ind">
     (wsp&oacute;&lstroke;rz&eogonek;dna)</klr></trd>
+    <trd lng="ro">latimea coordonatelor</trd>
     <trd lng="ru">&c_sh;&c_i;&c_r;&c_o;&c_t;&c_a;
     <klr tip="ind"> (&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;)</klr></trd>
     <adm>
@@ -65,6 +97,7 @@
   <trd lng="en">latitude</trd>
   <trd lng="es">latitud</trd>
   <trd lng="fr">latitude</trd>
+  <trd lng="ja">&#x7DEF;&#x5EA6;  [<ind>&#x3044;&#x3069;</ind>]</trd>
   <trd lng="nl">breedte</trd>
   <trd lng="pt">latitude</trd>
   <trd lng="ru">&c_sh;&c_i;&c_r;&c_o;&c_t;&c_a;</trd>
@@ -74,6 +107,7 @@
     <trd>odch&yacute;lka</trd>
   </trdgrp>
   <trd lng="tr">enlem</trd>
+  <trd lng="uk">&c_sh;&c_i;&c_r;&#x43E;&c_t;&c_a;</trd>
 </drv>
 
 <drv mrk="latitu.astronomia0o">
@@ -91,8 +125,12 @@
     &scirc;an&gcirc;is "normalo" al "ortanto".
     <aut>MB</aut>
   </adm>
+  <trd lng="be">&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_sh;&c_y;&c_r;&c_a;&c_t;&c_a;</ind></trd>
   <trd lng="de">geografische Breite</trd>
   <trd lng="hu">f&ouml;ldrajzi <ind>sz&eacute;less&eacute;g</ind></trd>
+  <trd lng="ja">&#x5929;&#x6587;&#x7DEF;&#x5EA6;  [<ind>&#x3066;&#x3093;&#x3082;&#x3093;&#x3044;&#x3069;</ind>]</trd>
+  <trd lng="pl">szeroko&sacute;&cacute; geograficzna</trd>     
+  <trd lng="ro">latitudine</trd>  
 </drv>
 
 <drv mrk="latitu.geodezia0o">
@@ -109,8 +147,12 @@
     Difino malklara. Kio estas perpendiklilo?
     <aut>MB</aut>
   </adm>
+   <trd lng="be">&c_g;&c_je;&c_a;&c_d;&c_e;&c_z;&c_ib;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_sh;&c_y;&c_r;&c_a;&c_t;&c_a;</ind></trd>
   <trd lng="de">geod&auml;tische Breite</trd>
-  <trd lng="hu">geod&eacute;ziai <ind>sz&eacute;less&eacute;g</ind></trd>  
+  <trd lng="hu">geod&eacute;ziai <ind>sz&eacute;less&eacute;g</ind></trd>
+    <trd lng="ja">&#x6E2C;&#x5730;&#x7DEF;&#x5EA6;  [<ind>&#x305D;&#x304F;&#x3061;&#x3044;&#x3069;</ind>]</trd>
+  <trd lng="pl">szeroko&sacute;&cacute; geodezyjna</trd>     
+    <trd lng="ro">l&abreve;&#x21B;imea geodezic&abreve;</trd>    
 </drv>
 
 <drv mrk="latitu.tercentra0o">
@@ -123,7 +165,11 @@
       lokon.
     </dif>
   </snc>
-  <trd lng="hu">geocentrikus <ind>sz&eacute;less&eacute;g</ind></trd>  
+  <trd lng="be">&c_g;&c_je;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_sh;&c_y;&c_r;&c_a;&c_t;&c_a;</ind></trd>
+  <trd lng="hu">geocentrikus <ind>sz&eacute;less&eacute;g</ind></trd> 
+  <trd lng="ja">&#x5730;&#x5FC3;&#x7DEF;&#x5EA6;  [<ind>&#x3061;&#x3053;&#x3053;&#x308D;&#x3044;&#x3069;</ind>]</trd>
+  <trd lng="pl">szeroko&sacute;&cacute; geocentryczna</trd>     
+  <trd lng="ro">latitudinea geocentric&abreve;</trd>   
   <adm>
     Kia diferenco kun ~o 1 ??
     <aut>MB</aut>
@@ -142,19 +188,33 @@
       <ref cel="longit.0o">longitudo</ref>.
     </refgrp>
   </snc>
-  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol;
-  <klr>(&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol; <klr tip="amb">(&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
   <trd lng="cs">rovnob&ecaron;&zcaron;ka zem&ecaron;pisn&aacute;</trd>
   <trd lng="de">Breitenkreis</trd>
   <trd lng="fr">parall&egrave;le<klr tip="ind"> (subst., g&eacute;og.)</klr></trd>
   <trd lng="hu">sz&eacute;less&eacute;gi k&ouml;r</trd>
+  <trd lng="ja">&#x7DEF;&#x7DDA;  [<ind>&#x3044;&#x305B;&#x3093;</ind>]</trd>
+  <trd lng="pl">r&oacute;wnole&zdot;nik </trd>     
+  <trd lng="ro">paralel</trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;</trd>
   <trd lng="sk">rovnobe&zcaron;ka zemepisn&aacute;</trd>
 </drv>
 </art>
 <!--
-$Log: latitu.xml,v $
-versio 1.22 2020/02/15 17:10:31
+$Log$
+versio 1.27 2022/11/04 08:41:50
+Dmitri Gabinski: + trd be
+
+versio 1.26 2022/05/01 12:04:34
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.24 2020/06/18 20:10:32
+Wolfram Diestel: ~o 1: +ekz-oj
+
+versio 1.23 2020/06/18 19:31:00
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.22  2020/02/15 16:10:30  revo
 Wolfram Diestel: formuloj per am
 
 Revision 1.21  2018/08/06 22:10:40  revo
@@ -164,17 +224,5 @@ Revision 1.20  2018/03/01 15:10:15  revo
 Bart Demeyere: <var> anstataux 'aux'
 
 Revision 1.19  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.18  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.17  2009/08/24 16:31:39  revo
-Emmanuel Debanne: +trd tr
-
-Revision 1.16  2004/05/22 16:32:47  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.15  2003/05/02 16:30:52  revo
 -->
 </vortaro>

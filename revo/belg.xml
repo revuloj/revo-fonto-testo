@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: belg.xml,v 1.16 2008/01/18 17:30:23 revo Exp $">
+<art mrk="$Id: belg.xml,v 1.34 2023/08/31 08:48:50 revo Exp $">
 
 <kap>
   <ofc>8</ofc><rad>belg</rad>/o 
@@ -16,11 +15,13 @@
       <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
       <ref tip="malprt" cel="belg.B0ujo"><tld lit="B"/>ujo</ref>:
       <ekz>
-        la prefero de <tld/>o bone man&gcirc;i kaj trinki trovas sian originon en la &leftquot;Ora&rightquot; 17a jarcento de Flandrio
+        la prefero de <tld/>o bone man&gcirc;i kaj trinki trovas sian originon en la &leftquot;Ora&rightquot; 17a jarcento de
+        Flandrio
         <fnt>
+          <aut>Lode Van de Velde</aut>
+          <vrk><url ref="&Monato;/2001/007144.php">Bierlando Belgio</url></vrk>
           <bib>Monato</bib>
-          <aut>Lode van de Velde</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007144.html">Bierlando Belgio</url></vrk>
+          <lok>2001/01, p. 18</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -28,7 +29,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Istv&aacute;n Ertl</aut>
-          <vrk><url ref="https://www.monato.be/2003/008140.html">Pri orienti&gcirc;o kaj okcidenti&gcirc;o</url></vrk>
+          <vrk><url ref="&Monato;/2003/008140.html">Pri orienti&gcirc;o kaj okcidenti&gcirc;o</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -36,7 +37,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Marko Naoki Lins</aut>
-          <vrk><url ref="https://www.monato.be/2005/008502.php">La Blok blokita ... a&ubreve; &ccirc;u?</url></vrk>
+          <vrk><url ref="&Monato;/2005/008502.php">La Blok blokita ... a&ubreve; &ccirc;u?</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -54,11 +55,13 @@
     <trd>Belgiano</trd>,
     <trd>Belgo</trd>
   </trdgrp>
+  <trd lng="ja">&#x30D9;&#x30EB;&#x30AE;&#x30FC;&#x4EBA;  [<ind>&#x30D9;&#x30EB;&#x30AE;&#x30FC;&#x3058;&#x3093;</ind>]</trd>
   <trd lng="nl">Belg</trd>
   <trd lng="pl">Belg</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_mol;&c_g;&c_i;&c_je;&c_c;</trd>
   <trd lng="sk">Belgi&ccaron;an</trd>
-  <trd lng="tp">jan Pesije</trd>
+  <trd lng="tok">jan Pesije</trd>
+  <trd lng="uk">&c_b;&c_je;&c_l;&c_mol;&c_g;&c_ib;&c_jeu;&c_c;&c_mol;</trd>
   <trd lng="vo">Belg&auml;nan</trd>
 </drv>
 
@@ -77,11 +80,13 @@
         kiuj tiel laboreme kaj zorge pretigis nian grandan feston
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen en la 21a de a&ubreve;gusto 1911</vrk>
+          <vrk>Parolado anta&ubreve; la Sepa Kongreso Esperantista en Antwerpen en la 21a de a&ubreve;gusto
+          1911</vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la <tld lit="B"/>a konsulo en <nom>Buenos-Ayres</nom> sendis al sia registaro la sekvantajn sciigojn pri tiu &ccirc;i kolonio: <klr>[&#8230;]</klr>
+        la <tld lit="B"/>a konsulo en <nom>Buenos-Ayres</nom> sendis al sia registaro la sekvantajn
+        sciigojn pri tiu &ccirc;i kolonio: <klr>[&#x2026;]</klr>
         <fnt>
           <bib>FK</bib>
         </fnt>;
@@ -91,7 +96,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Serge Zandandu Ntomono Zola/pg</aut>
-          <vrk><url ref="https://www.monato.be/2005/008608.php">Kiu estas Kabila?</url></vrk>
+          <vrk><url ref="&Monato;/2005/008608.php">Kiu estas Kabila?</url></vrk>
         </fnt>?
       </ekz>
     </dif>
@@ -109,10 +114,12 @@
     <trd>Belgiana</trd>,
     <trd>Belga</trd>
   </trdgrp>
+  <trd lng="ja">&#x30D9;&#x30EB;&#x30AE;&#x30FC;&#x306E;  [<ind>&#x3079;&#x308B;&#x304E;&#x30FC;&#x306E;</ind>]</trd>
   <trd lng="nl">Belgisch</trd>
   <trd lng="pl">belgijski</trd>
   <trd lng="ru">&c_b;&c_je;&c_l;&c_mol;&c_g;&c_i;&c_j;&c_s;&c_k;&c_i;&c_j;</trd>
   <trd lng="sk">Belgick&yacute;</trd>
+  <trd lng="uk">&c_b;&c_je;&c_l;&c_mol;&c_g;&c_ib;&c_j;&c_s;&c_mol;&c_k;&c_i;&c_j;</trd>
   <trd lng="vo">Belg&auml;nik</trd>
 </drv>
 
@@ -131,7 +138,7 @@
       &ccirc;efurbo
       <ref tip="prt" cel="brusel.B0o.urb">Bruselo</ref>:
       <ekz>
-        Svisujo, <tld lit="B"/>ujo, A&ubreve;strujo, Kanado, <klr>[&#8230;]</klr>
+        Svisujo, <tld lit="B"/>ujo, A&ubreve;strujo, Kanado, <klr>[&#x2026;]</klr>
         <fnt>
           <bib>Homaranismo</bib>
           <vrk>Dogmoj de Hilelismo</vrk>
@@ -189,16 +196,15 @@
   <trd lng="it">Belgio</trd>
   <trd lng="lat">Belgica</trd>
   <trd lng="lt">Belgija</trd>
-  <trd lng="lv">Be&#316;&#291;ija</trd>
+  <trd lng="lv">Be&lcommaaccent;&gcommaaccent;ija</trd>
   <trd lng="nl">Belgi&euml;</trd>
   <trd lng="no">Belgia</trd>
   <trd lng="pl">Belgia</trd>
   <trd lng="pt">B&eacute;lgica</trd>
-  <trd lng="ru">&c_B;e&c_l;&c_mol;&c_g;&c_i;&c_ja;</trd>
   <trd lng="ru">&c_B;&c_je;&c_l;&c_mol;&c_g;&c_i;&c_ja;</trd>
   <trd lng="sk">Belgicko</trd>
   <trd lng="sv">Belgien</trd>
-  <trd lng="tp">ma Pesije</trd>
+  <trd lng="tok">ma Pesije</trd>
   <trd lng="tr">Bel&ccedil;ika</trd>
   <trd lng="vo">Belg&auml;n</trd>
 </drv>
@@ -206,6 +212,15 @@
 
 <!--
 $Log$
+versio 1.33 2023/05/14 17:26:52
+Sergio Pokrovskij: + ru e, lv g
+
+versio 1.32 2023/04/15 12:43:01
+Paul Peeraerts: Steloj -> monato.be
+
+versio 1.31 2022/04/26 15:00:33
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.28  2019/06/29 12:22:51  revo
 adaptis URL de Monato
 
@@ -219,17 +234,5 @@ Revision 1.25  2018/02/22 23:10:32  revo
 Wolfram Diestel: riparis problemojn de lasttempaj redaktoj
 
 Revision 1.24  2017/12/28 21:10:15  revo
-Michel Cantigneaux: rimarko pri radiko kaj sufikso en landnomoj laux
-Akademio.
-
-Revision 1.23  2017/12/23 14:10:17  revo
-Robin van der Vliet: Ne temas pri sinonimoj, vidu ekzemplon de
-berlinano/berlinanino
-
-Revision 1.22  2017/12/23 00:10:50  revo
-Michel Cantigneaux: Pli bonaj indikoj pri 8a Oficiala Aldono kaj 12a
-Oficiala Informo (+ /ino)
-
-Revision 1.21  2016/11/25 21:11:00  revo
 -->
 </vortaro>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: forc.xml,v 1.15 2007/06/05 16:30:46 revo Exp $">
+<art mrk="$Id: forc.xml,v 1.23 2023/08/31 13:11:30 revo Exp $">
 <kap>
   <rad>forc</rad>/i <fnt><bib>SPV</bib></fnt>
 </kap>
@@ -36,20 +35,23 @@
       <trd>forsz&iacute;roz</trd>
     </trdgrp>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_r;&c_o;&c_sh;&c_ch;&c_v;&c_a;&c_c;&c_mol; &c_u; &c_c;&c_ja;&c_p;&c_l;&c_ib;&c_ch;&c_n;&c_y;&c_h; &c_u;&c_m;&c_o;&c_v;&c_a;&c_h;</trd>
   <trdgrp lng="cs">
     <trd>rychlit <klr>(rostliny)</klr></trd>,
     <trd>urychlit</trd>
   </trdgrp>
   <trd lng="fr">forcer</trd>
+  <trd lng="ja">&#x4FC3;&#x6210;&#x683D;&#x57F9;&#x3059;&#x308B;  [<ind>&#x305D;&#x304F;&#x305B;&#x3044;&#x3055;&#x3044;&#x3070;&#x3044;&#x3059;&#x308B;</ind>]</trd>
   <trd lng="nl">forceren</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_y;&c_r;&c_a;&c_shch;&c_i;&c_v;&c_a;&c_t;&c_mol; &c_v; &c_t;&c_je;&c_p;&c_l;&c_i;&c_ch;&c_n;&c_y;&c_h; &c_u;&c_s;&c_l;&c_o;&c_v;&c_i;&c_ja;&c_h;</trd>,
     <trd>&c_u;&c_s;&c_k;&c_o;&c_r;&c_i;&c_t;&c_mol; &c_s;&c_o;&c_z;&c_r;&c_je;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>rýchliť</trd>,
-    <trd>urýchliť <klr>(rastliny)</klr></trd>
+    <trd>r&yacute;chli&tcaron;</trd>,
+    <trd>ur&yacute;chli&tcaron; <klr>(rastliny)</klr></trd>
   </trdgrp>
+  <trd lng="uk">&c_v;&c_i;&c_r;&#x43E;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i; &c_v; &#x43F;&c_a;&c_r;&#x43D;&c_i;&#x43A;&c_u;/&c_t;&c_je;&#x43F;&#x43B;&c_i;&c_c;&c_ib;</trd>
 </drv>
 
 <drv mrk="forc.0ejo">
@@ -57,7 +59,8 @@
   <snc mrk="forc.0ejo.HOR">
     <uzo tip="fak">HOR</uzo>
     <dif>
-      Vitra domo a&ubreve; kesto kun vitra surfaco, kie oni <tld/>as plantojn:
+      Vitra <ref tip="super" cel="dom.0o.konstruajxo">domo</ref> a&ubreve; kesto kun vitra surfaco, kie oni
+      <tld/>as plantojn:
       <ekz>
         iom for staris belega granda <tld/>ejo, &gcirc;iaj miloj
         da kristalaj paneloj scintilis en la sunlumo
@@ -68,11 +71,18 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_ja;&c_p;&c_l;&c_ib;&c_c;&c_a;</trd>,
+    <trd>&c_c;&c_ja;&c_p;&c_l;&c_ja;&c_r;&c_n;&c_ja;</trd>,
+    <trd>&c_a;&c_r;&c_a;&c_n;&c_zh;&c_a;&c_r;&c_e;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_a;&c_d;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
-    <trd>fóliovník</trd>,
-    <trd>pařeniště</trd>,
-    <trd>rychlírna</trd>,
-    <trd>skleník</trd>
+    <trd>f&oacute;liovn&iacute;k</trd>,
+    <trd>pa&rcaron;eni&scaron;t&ecaron;</trd>,
+    <trd>rychl&iacute;rna</trd>,
+    <trd>sklen&iacute;k</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Treibhaus</trd>,
@@ -85,6 +95,7 @@
   <trd lng="es">invernadero</trd>
   <trd lng="fr">serre</trd>
   <trd lng="hu">&uuml;vegh&aacute;z</trd>
+  <trd lng="ja">&#x6E29;&#x5BA4;  [<ind>&#x304A;&#x3093;&#x3057;&#x3064;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>serre</trd>,
     <trd>broeikas</trd>
@@ -101,8 +112,12 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>parenisko</trd>,
-    <trd>rýchliareň</trd>,
-    <trd>skleník</trd>
+    <trd>r&yacute;chliare&ncaron;</trd>,
+    <trd>sklen&iacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_a;&c_r;&#x43D;&c_i;&#x43A;</trd>,
+    <trd>&c_t;&c_je;&#x43F;&#x43B;&c_i;&c_c;&#x44F;</trd>
   </trdgrp>
 </drv>
 
@@ -124,28 +139,43 @@
         efiko, kiu &hcirc;aosigas la klimaton
         <fnt>
         <aut>Krys Ungar</aut>,
-        <vrk><url ref="&Monato;/004583.html">Vivu vigle kaj vegetare</url></vrk>,
+        <vrk><url ref="&Monato;/1995/004583.php">Vivu vigle kaj vegetare</url></vrk>,
         <bib>Monato</bib>,
-        <lok>numero 07/1995</lok>
+        <lok>1995/07, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="cs">skleníkový efekt</trd>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_n;&c_ib;&c_k;&c_o;&c_v;&c_y; &c_e;&c_f;&c_e;&c_k;&c_t;</trd>
+  <trd lng="cs">sklen&iacute;kov&yacute; efekt</trd>
   <trd lng="de">Treibhauseffekt</trd>
   <trd lng="en">greenhouse effect</trd>
   <trd lng="es">efecto <ind>invernadero</ind></trd>
   <trd lng="fr">effet de serre</trd>
   <trd lng="hu">&uuml;vegh&aacute;zhat&aacute;s</trd>
+  <trd lng="ja">&#x6E29;&#x5BA4;&#x52B9;&#x679C;  [<ind>&#x304A;&#x3093;&#x3057;&#x3064;&#x3053;&#x3046;&#x304B;</ind>]</trd>
   <trd lng="nl">broeikaseffect</trd>
   <trd lng="pl">efekt <ind>szklarniowy</ind></trd>
   <trd lng="pt">efeito <ind>estufa</ind></trd>
+  <trd lng="ro">efect de <ind>ser&abreve;</ind></trd>
   <trd lng="ru">&c_p;&c_a;&c_r;&c_n;&c_i;&c_k;&c_o;&c_v;&c_y;&c_j; &c_e;&c_f;&c_f;&c_je;&c_k;&c_t;</trd>
-  <trd lng="sk">skleníkový efekt</trd>
+  <trd lng="sk">sklen&iacute;kov&yacute; efekt</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.22 2023/04/11 05:27:00
+Paul Peeraerts: + trd ro
+
+versio 1.21 2023/04/09 19:20:58
+Paul Peeraerts: korekto de erara ref
+
+versio 1.19 2022/02/17 08:33:12
+Dmitri Gabinski: + trd be
+
+versio 1.18 2021/10/01 09:27:56
+Wolfram Diestel: +ref
+
 Revision 1.16  2015/06/29 16:29:38  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -156,21 +186,5 @@ Revision 1.14  2006/07/21 18:04:02  revo
 Jeromo Vasxe: + mrk + fnt
 
 Revision 1.13 2005/01/15 17:31:20 revo
-Vito Redsky: korekto trd pl forcejo
-
-Revision 1.12 2002/08/12 17:30:53 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.11 2002/07/02 17:33:23 revo
-Alejandro Mejia Greene: ald 2 his trd
-
-Revision 1.10 2002/05/20 16:33:49 revo
-Helio Jaques: +trd pt
-
-Revision 1.9 2001/09/17 18:15:08 revo
-Marc Bavant: mod fnt PIV, mod ind cxe ~eja efiko
-
-Revision 1.8 2001/05/10 17:53:10 revo
 -->
 </vortaro>
-

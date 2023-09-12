@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kron1.xml,v 1.10 2010/09/28 16:30:42 revo Exp $">
+<art mrk="$Id: kron1.xml,v 1.15 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <rad>Kron</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -16,18 +15,21 @@
       de tempo, unue la re&gcirc;o de la &ccirc;ielo, la patro de
       <ref tip="vid" cel="zeuxs.0o">Ze&ubreve;so</ref>:
       <ekz>
-        Geo <klr>[&#8230;]</klr> ku&scirc;is kun Urano, kaj generis la titanojn <klr>[&#8230;]</klr>,
+        Geo <klr>[&#x2026;]</klr> ku&scirc;is kun Urano, kaj generis la titanojn <klr>[&#x2026;]</klr>,
         la lasta naskita titano estis <tld/>o, &scirc;ia plej juna sed terura ido, kiu tuj
         ekmalamis sian lascivan patron
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref="https://eo.wikipedia.org/?curid=1574"
-              >Geo</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=1574">Geo</url></lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="vid" cel="saturn.0o.mita">Saturno</ref>
   </snc>
+  <refgrp tip="hom">
+    <ref cel="kron.0o">krono (kapornamo)</ref>,
+    <ref cel="kron2.0o">krono (monunuo)</ref>
+  </refgrp>
   <trd lng="be">&c_H;&c_r;&c_o;&c_n;&c_a;&c_s;</trd>
   <trd lng="ca">Cronos</trd>
   <trd lng="de">Kronos</trd>
@@ -38,15 +40,24 @@
     <trd>Kronos</trd>
   </trdgrp>
   <trd lng="fr">Cronos</trd>
+  <trd lng="ja">&#x304B;&#x3093;&#x3080;&#x308A;&#x5EA7;  [<ind>&#x304B;&#x3093;&#x3080;&#x308A;&#x3056;</ind>]</trd>
   <trd lng="nl">Cronos</trd>
   <trd lng="pl">Kronos</trd>
   <trd lng="pt">Cronos</trd>
   <trd lng="hu">Kronosz</trd>
   <trd lng="ru">&c_K;&c_r;&c_o;&c_n;&c_o;&c_s;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x41A;&#x440;&#x43E;&#x43D;&#x43E;&#x441;</trd>,
+    <trd>&#x41A;&#x440;&#x43E;&#x43D; (&#x431;&#x430;&#x442;&#x44C;&#x43A;&#x43E; &#x417;&#x435;&#x432;&#x441;&#x430;)</trd>,
+    <trd>&#x41A;&#x43E;&#x440;&#x43E;&#x43D;&#x430;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.13 2021/05/25 19:24:50
+Wolfram Diestel: ref-hom
+
 Revision 1.11  2012/07/31 09:10:28  revo
 Marc Rausell: + trd ca
 

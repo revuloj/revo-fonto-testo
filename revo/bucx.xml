@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: bucx.xml,v 1.19 2009/09/30 16:30:54 revo Exp $">
+<art mrk="$Id: bucx.xml,v 1.29 2023/08/31 08:48:54 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>bu&ccirc;</rad>/i
@@ -10,17 +9,22 @@
 <drv mrk="bucx.0i">
   <kap><ofc>*</ofc><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc num="1">
+  <snc mrk="bucx.0i.KOMUNE">
     <dif>
-      Mortigi brutojn por homa nutrado. 
+      Mortigi brutojn por homa nutrado:
+      <ekz>
+        ni <tld/>is kaj rostis kapridon
+        <fnt>
+          <aut>D. Defoe, trad. A. Krafft</aut>
+          <vrk><url ref="https://booton.tripod.com/kruso/rkp5.htm">Robinsono Kruso</url></vrk>
+          <lok>1908</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trdgrp lng="be">
-      <trd>&c_r;&c_e;&c_z;&c_a;&c_c;&c_mol; <klr
-      tip="amb">(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_u;)</klr></trd>,
-      <trd>&c_k;&c_a;&c_l;&c_o;&c_c;&c_mol; <klr
-      tip="amb">(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_u;)</klr></trd>,
-      <trd>&c_z;&c_a;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol; <klr
-      tip="amb">(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_u;)</klr></trd>
+      <trd>&c_r;&c_e;&c_z;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_u;)</klr></trd>,
+      <trd>&c_k;&c_a;&c_l;&c_o;&c_c;&c_mol; <klr tip="amb">(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_u;)</klr></trd>,
+      <trd>&c_z;&c_a;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_u;)</klr></trd>
     </trdgrp>
     <trd lng="es">sacrificar</trd>
     <trdgrp lng="fr">
@@ -48,7 +52,7 @@
       &c_p;&c_t;&c_i;&c_c;&c_u;)</klr></trd>
     </trdgrp>
   </snc>
-  <snc num="2">
+  <snc mrk="bucx.0i.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
       Nele&gcirc;e, kruele mortigi:
@@ -56,24 +60,23 @@
       <tld/>os<fnt><bib>PrV</bib></fnt>;</ekz>
       <ekz>
         milito estas <ind><tld/>ado</ind>, kiu senhonorigas la homaron;
-      <trdgrp lng="fr">
+        <trdgrp lng="fr">
           <trd>massacre</trd>,
-          <trd>boucherie <klr tip="ind">(massacre)</klr></trd></trdgrp> 
-          <trd lng="hu">m&eacute;sz&aacute;rl&aacute;s</trd>
+          <trd>boucherie <klr tip="ind">(massacre)</klr></trd>
+        </trdgrp> 
+      <trd lng="hu">m&eacute;sz&aacute;rl&aacute;s</trd>
       </ekz>
-      <ekz>virina lango <tld/>as sen
-      sango<fnt><bib>PrV</bib></fnt>.</ekz> 
+      <ekz>
+        virina lango <tld/>as sen sango<fnt><bib>PrV</bib></fnt>.
+      </ekz> 
     </dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_r;&c_a;&c_z;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_v;&c_y;&c_n;&c_ib;&c_sh;&c_ch;&c_a;&c_c;&c_mol;</trd>,
-      <trd>&c_z;&c_a;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol; <klr
-      tip="amb">(&c_m;&c_a;&c_s;&c_a;&c_v;&c_a;)</klr></trd>
+      <trd>&c_z;&c_a;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_m;&c_a;&c_s;&c_a;&c_v;&c_a;)</klr></trd>
     </trdgrp>
     <trd lng="es">masacrar</trd>
-    <trdgrp lng="fr">
-      <trd>tuer <klr tip="ind">(massacrer)</klr></trd>,
-      <trd>massacrer</trd></trdgrp> 
+    <trd lng="fr">trucider</trd> 
     <trd lng="hu">lem&eacute;sz&aacute;rol</trd>
     <trdgrp lng="pl">
       <trd>wyrzyna&cacute;</trd>,
@@ -93,14 +96,36 @@
     <trd>abschlachten</trd>
   </trdgrp>
   <trd lng="en">slaughter</trd>
+  <trd lng="he">&lamed;&#x5B4;&shin;&#x5C1;&#x5B0;&het;&vav;&#x5B9;&tet;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C60;&#x6BBA;&#x3059;&#x308B;  [<ind>&#x3068;&#x3055;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5C60;&#x755C;&#x3059;&#x308B;</trd>,
+    <trd>&#x8650;&#x6BBA;&#x3059;&#x308B;  [<ind>&#x304E;&#x3083;&#x304F;&#x3055;&#x3064;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">slachten</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_i;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_o;&c_t;&c_i;&nbsp;(&c_h;&c_u;&c_d;&c_o;&c_b;&c_u;</trd>,
+    <trd>&c_p;&c_t;&c_a;&c_h;&c_a;)</trd>,
+    <trd>&c_v;&c_i;&c_r;&c_ib;&c_z;&c_u;&c_v;&c_a;&c_t;&c_i;&nbsp;(&c_n;&c_a;&c_s;&c_je;&c_l;&c_je;&c_n;&c_n;&c_ja;)</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bucx.0ejo">
   <kap><tld/>ejo</kap>
-  <snc num="1">
+  <snc mrk="bucx.0ejo.KOMUNE">
     <dif>
-      Loko kie oni <tld/>as la brutojn. 
+      Loko kie oni <tld/>as la brutojn:
+      <ekz>
+        Slovakio havas 79 <tld/>ejojn, sed nur 3 bu&ccirc;ejoj povas bu&ccirc;i &ccirc;evalojn kaj
+        prilabori &ccirc;evalviandon
+        <fnt>
+          <aut>J. Hauser</aut>
+          <vrk><url ref="&Monato;/2013/011048.php">&Ccirc;evalpaniko</url></vrk>
+          <lok>Monato, 2013-07, p. 6a</lok>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="bg">&c_k;&c_l;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>
     <trd lng="de">Schlachthof</trd>
@@ -113,6 +138,7 @@
       <trd>rastro</trd>,
       <trd>carnicer&iacute;a</trd>
     </trdgrp>
+    <trd lng="fr">abattoir</trd>
     <trdgrp lng="hu">
       <trd>m&eacute;sz&aacute;rsz&eacute;k</trd>,
       <trd>v&aacute;g&oacute;h&iacute;d</trd>
@@ -120,14 +146,23 @@
     <trd lng="nl">slachthuis</trd>
     <trd lng="pl">rze&zacute;nia</trd>
   </snc>
-  <snc num="2">
+  <snc mrk="bucx.0ejo.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
-      Loko kie okazis kruela eksterma batalo.  
+      Loko kie okazis kruela eksterma batalo:
+      <ekz>
+        la soldatoj, kiuj estis en milito rifuzus ankora&ubreve;-foje mar&scirc;i al la <tld/>ejo
+        <fnt>
+          <aut>F. Szil&aacute;gyi</aut>
+          <vrk>La Granda Aventuro</vrk>
+          <lok>1931-1945</lok>
+        </fnt>.
+      </ekz>  
     </dif>
     <trd lng="de">Schlachtfeld</trd>
     <trd lng="en">killing <ind>field</ind></trd>
     <trd lng="es">campo de batalla</trd>
+    <trd lng="fr">boucherie<klr> (massacre)</klr></trd>
     <trd lng="nl">slachtveld</trd>
   </snc>
   <trdgrp lng="be">
@@ -138,40 +173,98 @@
     <trd>jatka</trd>,
     <trd>jatky</trd>
   </trdgrp>
-  <trd lng="fr">abattoir</trd>
+  <trd lng="he">&bet;&yod;&tav;
+  &mem;&#x5B4;&tet;&bet;&#x5BC;&#x5B8;&het;&#x5B7;&yod;&#x5B4;&fmem;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5C60;&#x6BBA;&#x5834;  [<ind>&#x3068;&#x3055;&#x3064;&#x3058;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5C60;&#x755C;&#x5834;  [<ind>&#x3068;&#x3061;&#x304F;&#x3058;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="ru">&c_b;&c_o;&c_j;&c_n;&c_ja;</trd>
   <trd lng="sk">bit&uacute;nok</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_o;&c_j;&c_n;&c_ja;</trd>,
+    <trd>&c_r;&c_ib;&c_z;&c_n;&c_i;&c_c;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bucx.0isto">
+  <kap>
+    <tld/>isto
+  </kap>
+  <snc mrk="bucx.0isto.EKON">
+    <dif>
+      Tiu, kiu profesie <tld/>as brutojn, krude preparas viandon kaj aliajn bestajn produktojn:
+      <ekz>
+        <nom>Rab&ccirc;ik</nom> ... rigardis la <tld/>istojn kun la hakiloj, kiel ili hakas la viandon
+        <fnt>
+          <aut>&Scirc;. Alej&hcirc;em, trad. I. Mu&ccirc;nik</aut>
+          <vrk>Rab&ccirc;ik</vrk>
+          <lok>en: Hebreaj rakontoj, 1923</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="viand.0isto">viandisto</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>boucher<klr> (abatteur)</klr></trd>,
+      <trd>chevillard<klr> (boucher)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ja">
+    <trd>&#x5C60;&#x6BBA;&#x4EBA;  [<ind>&#x3068;&#x3055;&#x3064;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x5C60;&#x755C;&#x696D;&#x8005;  [<ind>&#x5C60;&#x755C;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bucx.amas0i">
   <kap>amas<tld/>i</kap>
-  <snc>
+  <snc mrk="bucx.amas0i.KOMUNE">
     <dif>
       Sendiference <tld/>adi multajn homojn:
-    <ekz>La hitleranoj organizis amas<tld/>adon de la judoj.</ekz>
+      <ekz>
+        la hitleranoj organizis amas<tld/>adon de la judoj.
+      </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="hekato.0o.FIG">hekatombo</ref>,
       <ref cel="masakr.0i">masakri</ref>.
     </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_s;&c_a;&c_v;&c_a;&c_je; <ind>&c_z;&c_a;&c_b;&c_o;&c_j;&c_s;&c_t;&c_v;&c_a;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>masakrovat</trd>,
+    <trd>pob&iacute;t</trd>,
+    <trd>povra&zcaron;dit</trd>
+  </trdgrp>
   <trd lng="es">masacre</trd>
+  <trd lng="fr">massacrer</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6BBA;&#x622E;&#x3059;&#x308B;  [<ind>&#x3055;&#x3064;&#x308A;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5927;&#x8650;&#x6BBA;&#x3059;&#x308B;  [<ind>&#x3060;&#x3044;&#x304E;&#x3083;&#x304F;&#x3055;&#x3064;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">holocaust</trd>
   <trdgrp lng="pl">
     <trd>rze&zacute;nia</trd>,
     <trd>ka&zacute;nia</trd>,
     <trd>masakra</trd>
   </trdgrp>
-  </snc>
-  <trdgrp lng="cs">
-    <trd>masakrovat</trd>,
-    <trd>pob&iacute;t</trd>,
-    <trd>povra&zcaron;dit</trd>
-  </trdgrp>
 </drv>
-
 </art>
 <!--
 $Log$
+versio 1.28 2023/05/17 21:23:37
+Jeromo Vasxe: ~i 1 + ekz
+
+versio 1.27 2023/05/03 16:39:01
+revo: aktualigo URL-unuoj
+
+versio 1.26 2023/04/23 12:41:19
+Jeromo Vasxe: + ~isto, ~ejo + ekz
+
+versio 1.25 2023/04/14 09:25:45
+Dmitri Gabinski: + trd be
+
 Revision 1.21  2016/09/02 15:10:11  revo
 Guillermo Molleda Jimena: trd es
 
@@ -182,14 +275,5 @@ Revision 1.19  2009/09/30 16:30:54  revo
 Paul Peeraerts: +nl
 
 Revision 1.18  2009/04/01 16:30:40  revo
-Wieland Pusch: +trd bg
-
-Revision 1.17  2009/03/31 16:30:34  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.16  2007/02/27 17:30:19  revo
-Eduardo Navas: +trd es, +amasbucxi
-
-Revision 1.15  2004/09/23 19:46:37  revo
 -->
 </vortaro>

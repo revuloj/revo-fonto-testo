@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: nektar.xml,v 1.16 2009/08/28 16:31:32 revo Exp $">
+<art mrk="$Id: nektar.xml,v 1.23 2023/09/02 12:44:20 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>nektar</rad>/o
@@ -20,7 +19,7 @@
         <fnt>
           <aut>trad. T. T. Anuruddha</aut>,
           <vrk>La Vojo al Nirvano a&ubreve; la Dhammapado, 4:49</vrk>,
-          <lok>B&#7891;-T&aacute;t-Csoma-Instituto por Budhologio, 1973
+          <lok>B&#x1ED3;-T&aacute;t-Csoma-Instituto por Budhologio, 1973
           </lok>
         </fnt>.
       </ekz>
@@ -46,12 +45,13 @@
         diversajn ingrediencojn kaj aldona&jcirc;ojn
         <fnt>
           <bib>Viki</bib>
-          <lok><url ref='https://eo.wikipedia.org/?curid=35225'>Suko</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=35225">Suko</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bo">&#xF56;&#xF51;&#xF74;&#xF51;&#xF0B;&#xF62;&#xFA9;&#xF72;&#xF0B;</trd>
   <trd lng="ca">n&egrave;ctar</trd>
   <trd lng="cs">nektar</trd>
   <trd lng="de">Nektar</trd>
@@ -64,11 +64,18 @@
   </trdgrp>
   <trd lng="fr">nectar</trd>
   <trd lng="hu">nekt&aacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30CD;&#x30AF;&#x30BF;&#x30EB;</trd>,
+    <trd>&#x7518;&#x9732;  [<ind>&#x304B;&#x3093;&#x308D;</ind>]</trd>,
+    <trd>&#x7F8E;&#x9152;  [<ind>&#x3073;&#x3057;&#x3085;</ind>]</trd>,
+    <trd>&#x82B1;&#x871C;  [<ind>&#x304B;&#x307F;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">nectar</trd>
   <trd lng="pl">nektar</trd>
   <trd lng="pt">n&eacute;ctar</trd>
   <trd lng="ru">&c_n;&c_je;&c_k;&c_t;&c_a;&c_r;</trd>
   <trd lng="sk">nekt&aacute;r</trd>
+  <trd lng="uk">&#x43D;&#x435;&#x43A;&#x442;&#x430;&#x440;</trd>
 </drv>
 </art>
 <!--

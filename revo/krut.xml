@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: krut.xml,v 1.15 2010/07/04 16:30:23 revo Exp $">
+<art mrk="$Id: krut.xml,v 1.22 2023/09/01 15:46:45 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>krut</rad>/a
@@ -11,15 +10,51 @@
   <kap><ofc>*</ofc><tld/>a</kap>
   <snc mrk="krut.0a.GEOG">
     <dif>
-      Havanta deklivon preska&ubreve; vertikalan; tre malfacile suprenirebla:
+      Havanta deklivon preska&ubreve; vertikalan; tre malfacile supren irebla:
       <ekz>
         <tld/>a monto, insulo, bordo;
       </ekz>
       <ekz>
-        <tld/>e dekliva vojeto;
+        sur <tld/>a &scirc;tuparo li levis sin al la tegmento de la domo
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 34</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>valo.
+        <tld/>aj tegmentoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la remparo <tld/>e mallevi&gcirc;as
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Bildo el kastelremparo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen ili staris sur <tld/>a deklivo apud klara lago
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Ib kaj malgranda kristino</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur&ccirc;evale oni devas levi&gcirc;i la&ubreve; <tld/>aj montaj vojetoj
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[je]</klr> la flanko interna la ringa montaro estis tute <tld/>a kaj formis
+        grandegan rondvalon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Galo&scirc;oj de feli&ccirc;o</lok>
+        </fnt>;
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -55,6 +90,10 @@
     <trd>raide<klr> (pente)</klr></trd>
   </trdgrp>
   <trd lng="hu">meredek</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5207;&#x308A;&#x7ACB;&#x3063;&#x305F;  [<ind>&#x304D;&#x308A;&#x305F;&#x3063;&#x305F;</ind>]</trd>,
+    <trd>&#x967A;&#x3057;&#x3044;  [<ind>&#x3051;&#x308F;&#x3057;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">steil</trd>
   <trdgrp lng="pl">
     <trd>stromy</trd>,
@@ -79,6 +118,10 @@
     <trd>strm&yacute;</trd>
   </trdgrp>
   <trd lng="sv">brant</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x440;&#x443;&#x442;&#x438;&#x439;</trd>,
+    <trd>&#x441;&#x442;&#x440;&#x456;&#x43C;&#x43A;&#x438;&#x439;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krut.0i">
@@ -120,7 +163,7 @@
   </trdgrp>   
 <trdgrp lng="ro">
     <trd>av&acirc;nta</trd>,
-    <trd>cre&#537;te vertiginos</trd>,
+    <trd>cre&#x219;te vertiginos</trd>,
     <trd>fi abrupte</trd>
   </trdgrp>
   <trdgrp lng="sk">
@@ -128,6 +171,10 @@
     <trd>strmo st&aacute;&tcaron;</trd>,
     <trd>vyp&iacute;na&tcaron; sa</trd>,
     <trd>&ccaron;nie&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x431;&#x443;&#x442;&#x438; &#x43A;&#x440;&#x443;&#x442;&#x438;&#x43C;</trd>,
+    <trd>&#x441;&#x442;&#x440;&#x456;&#x43C;&#x447;&#x430;&#x441;&#x442;&#x438;&#x43C;</trd>
   </trdgrp>
 </drv>
 
@@ -138,13 +185,34 @@
     <dif>
       <tld/>a parto de loko, ekzemple de marbordo:
       <ekz>
+        akvo, falanta de <tld/>a&jcirc;o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Mi&hcirc;a 1:4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen kuris la tuta grego malsupren de la <tld/>a&jcirc;o en la maron
+        <fnt>
+          <bib>NT</bib>
+          <lok>Mateo 8:32</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili <klr>[&#x2026;]</klr> kondukis lin &gcirc;is la <tld/>a&jcirc;o de la monteto, <klr>[&#x2026;]</klr>
+        por &jcirc;eti lin malsupren
+        <fnt>
+          <bib>NT</bib>
+          <lok>Luko 4:29</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         jen &scirc;tono falas de <tld/>a&jcirc;o
         <fnt>
-        <aut>Vladimir Glazunov</aut>,
-        <vrk><url
-        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/Cxarmo.html">La
-        &ccirc;armo de &Ccirc;ielmontaro</url></vrk>,
-        <lok>Fonto, numero 37a</lok>
+          <aut>Vladimir Glazunov</aut>,
+          <vrk><url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/Cxarmo.html">La
+          &ccirc;armo de &Ccirc;ielmontaro</url></vrk>,
+          <lok>Fonto, numero 37a</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -178,6 +246,11 @@
     <trd>szakad&eacute;k</trd>,
     <trd>mered&eacute;ly</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5D16;  [<ind>&#x304C;&#x3051;</ind>]</trd>,
+    <trd>&#x7D76;&#x58C1;  [<ind>&#x305C;&#x3063;&#x307A;&#x304D;</ind>]</trd>,
+    <trd>&#x6025;&#x659C;&#x9762;  [<ind>&#x304D;&#x3085;&#x3046;&#x3057;&#x3083;&#x3081;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd><ind>steil</ind>e helling</trd>,
     <trd><ind>steil</ind>e rots</trd>
@@ -188,7 +261,7 @@
     <trd>zr&aogonek;b</trd>
   </trdgrp>   
 <trdgrp lng="ro">
-    <trd>pr&abreve;v&abreve;li&#537;</trd>,
+    <trd>pr&abreve;v&abreve;li&#x219;</trd>,
     <trd>st&acirc;nc&abreve;</trd>,
     <trd>baz&abreve;</trd>
   </trdgrp>
@@ -203,6 +276,12 @@
     <trd>despe&ntilde;adero</trd>,
     <trd>precipicio</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&#x440;&#x443;&#x442;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x441;&#x442;&#x440;&#x456;&#x43C;&#x43A;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x441;&#x442;&#x440;&#x456;&#x43C;&#x447;&#x430;&#x441;&#x442;&#x456;&#x441;&#x442;&#x44C;</trd>,
+    <trd>&#x443;&#x43A;&#x456;&#x441;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="krut.inter0ejo">
@@ -210,12 +289,29 @@
   <snc mrk="krut.inter0ejo.GEOG">
     <uzo tip="fak">GEOG</uzo>
     <dif>
-      Tre mallar&gcirc;a irejo inter du <tld/>a&jcirc;oj de monto.
+      Tre mallar&gcirc;a irejo inter du <tld/>a&jcirc;oj de monto:
+      <ekz>
+        mi renkontis &scirc;in en <klr>[&#x2026;]</klr> la inter<tld/>ejo
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>La vento rakontas pri Valdemaro Doe kaj pri liaj filinoj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la Termopiloj estas inter<tld/>ejo, mallar&gcirc;a trapasejo &ccirc;e la landlimo
+        <fnt>
+          <vrk><url ref="https://neciklopedio.org/wiki/Termopiloj">Termopiloj - Neciklopedio</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
+    <ref tip="sin" cel="ravin.0o">ravino</ref>
   </snc>
   <trd lng="be">&c_c;&c_ja;&c_s;&c_mol;&c_n;&c_ib;&c_n;&c_a;</trd>
   <trd lng="cs">sout&ecaron;ska</trd>
-  <trd lng="de">Klamm</trd>
+  <trdgrp lng="de">
+    <trd>Klamm</trd>,
+    <trd>Schlucht</trd>
+  </trdgrp>
   <trd lng="en">defile</trd>
   <trdgrp lng="es">
     <trd>desfiladero</trd>,
@@ -226,6 +322,12 @@
     <trd>hasad&eacute;k</trd>,
     <trd>szurdok</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5C71;&#x9593;&#x306E;&#x72ED;&#x3044;&#x9053;  [<ind>&#x3055;&#x3093;&#x304B;&#x3093;&#x306E;&#x305B;&#x307E;&#x3044;&#x3069;&#x3046;</ind>]</trd>,
+    <trd>&#x9698;&#x8DEF;  [<ind>&#x3042;&#x3044;&#x308D;</ind>]</trd>,
+    <trd>&#x5C71;&#x5CE1;  [<ind>&#x3055;&#x3093;&#x304D;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x5CE1;&#x8C37;  [<ind>&#x304D;&#x3087;&#x3046;&#x3053;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">canyon</trd>
   <trd lng="pl">stromy w&aogonek;w&oacute;z</trd>     
   <trd lng="ro">cheile abrupte</trd>
@@ -234,10 +336,14 @@
     <trd>ties&ncaron;ava <klr>(horsk&aacute;)</klr></trd>,
     <trd>&uacute;&zcaron;ina</trd>
   </trdgrp>
+  <trd lng="uk">&#x443;&#x449;&#x435;&#x43B;&#x438;&#x43D;&#x430;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.20 2020/11/08 10:34:00
+Wolfram Diestel: +ekz-oj, ref ravino
+
 Revision 1.18  2015/07/04 08:37:38  revo
 aldono de trd cs per skripto de M. von Laer
 

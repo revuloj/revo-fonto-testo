@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: konsid.xml,v 1.16 2010/07/14 16:30:23 revo Exp $">
+<art mrk="$Id: konsid.xml,v 1.104 2023/09/01 15:46:42 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>konsider</rad>/i <fnt><bib>PV</bib></fnt>
@@ -15,26 +14,66 @@
       <ref tip="vid" cel="ekzame.0i">Ekzameni</ref>
       objekton a&ubreve; ideon la&ubreve; unu a&ubreve; pluraj vidpunktoj:
       <ekz>
-        <tld/>u la sekvojn de via ago anta&ubreve; ol agi;
+        la faraono apogis la kapon sur la mano, <tld/>is momenton kaj diris
+        <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i la aferon de alia vidpunkto;
+        estas necese plene <tld/>i la tutan aferon kaj se eble, havi planon pretan
+        <fnt>
+          <bib>KKl</bib>
+          <lok>&Ccirc;apitro 10</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        li <tld/>is, ke tia kapablo havas pli grandan indon ol
-        &ccirc;io, kion oni povus doni dote al alia fra&ubreve;lino<fnt>Z</fnt>;
+        kiam oni ju&gcirc;as pri homoj, oni devas ja <tld/>i iliajn kutimojn kaj tiun
+        vidpunkton, el kiu ili rigardas la vivon
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>Zalmuna</nom> freneze laboris forpeli el la pensoj sin altrudantajn <tld/>ojn pri la
+        sekvoj, kiujn havos &scirc;ia senespera ago
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li tute ne <tld/>is, ke lia ju&gcirc;o povas esti erara kaj maljusta
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> <tld/>is, ke tia kapablo havas pli grandan indon ol
+        &ccirc;io, kion oni povus doni dote al alia fra&ubreve;lino
+        <fnt>
+          <bib>F</bib>
+          <lok>&FE; 23</lok>
+        </fnt>;
       </ekz>
       <ekz>
         malpli esperu, pli <tld/>u
         <fnt><bib>PrV</bib></fnt>!
       </ekz>
     </dif>
+    <ref tip="sin" cel="pens.pri0i">pripensi</ref>
     <refgrp tip="vid">
+      <ref cel="kontempl.0i">kontempli</ref>,
       <ref cel="medit.0i">mediti</ref>,
-      <ref cel="pens.pri0i">pripensi</ref>,
       <ref cel="rigard.0i">rigardi</ref>,
       <ref cel="taks.0i.KOMUNE">taksi<sncref/></ref>
     </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_a;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_v;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>betrachten</trd>,
       <trd>erw&auml;gen</trd>
@@ -48,38 +87,61 @@
   </snc>
   <snc mrk="konsid.0i.pripensi">
     <dif>
-      Zorge atenti ion, kiel motivon decidigan por la ago:
+      Zorge <ref cel="atent.0i.gravigi">atenti</ref> ion, kiel motivon
+      decidigan por la ago:
       <ekz>
-        jam nun ni petas vin <tld/>i tiun karavanon por viaj kongresaj
-        voja&gcirc;aran&gcirc;oj;
+        <klr>[ili]</klr> <tld/>is, ke ne estas inde perdi tempon por la lernado de
+        lingvo
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        eble oni <tld/>os tiun &ccirc;i instigon <klr>(sugeston)</klr>
-        &ccirc;e venontaj eldonoj;
+        mi vin petas, ke vi <tld/>u la staton de mia animo kaj ne malpaciencigu min per
+        iaj &scirc;ercoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        ili <tld/>is, ke ne estas inde perdi tempon por la lernado de
-        lingvo<fnt>Z</fnt>;
+        se oni al tio &ccirc;i <tld/>os la malkaran po&scirc;tan pagon de dudek pfenigoj, tiam oni
+        efektive devas miregi pro la progresoj de la po&scirc;taj aferoj
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        nun li devas <tld/>i rezignon de sia ofico;
+        <tld/>ante <klr>(vd <ref cel="konsid.0e_al">konsidere al</ref>)</klr> la fakton, ke
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>i personojn (kaj ne nur pravecon de la partioj) &ccirc;e
-        ju&gcirc;ado estas nebone<fnt>Z</fnt>;
+        oni ofte devas lasi al la publiko bone <tld/>i ian gravan punkton de la dramo
+        <fnt>
+          <bib>Hamlet</bib>
+          <lok>Hamleto</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        li bone povis eksi&gcirc;i de la negocoj, <tld/>ante, ke li
-        enspezis
-        duonmilionon da markoj;
-      </ekz>
-      <ekz>
-        li foriris, ne <tld/>ante la doloron de siaj gepatroj.
+        <tld/>i personojn <klr>(kaj ne nur pravecon de la partioj)</klr> &ccirc;e
+        ju&gcirc;ado estas nebone
+        <fnt>
+          <bib>MT</bib>
+          <lok>Sentencoj 24:23</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="sxat.0i">&scirc;ati</ref>
     </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_b;&c_r;&c_a;&c_c;&c_mol; &c_p;&c_a;&c_d; <ind>&c_u;&c_v;&c_a;&c_g;&c_u;</ind></trd>
+    </trdgrp>
     <trdgrp lng="de">
       <trd>beherzigen</trd>,
       <trd>ber&uuml;cksichtigen</trd>
@@ -94,35 +156,66 @@
   <snc mrk="konsid.0i.taksi">
     <dif>
       Atribui al iu a&ubreve; io ian econ;
-      <ref tip="vid" cel="rigard.0i.atribui">rigardi<sncref/></ref>
-      kiel; opinii, taksi:
+      <ref cel="rigard.0i.atribui">rigardi<sncref/></ref> kiel;
+      <ref cel="opini.0i">opinii</ref>, <ref cel="taks.0i.KOMUNE">taksi</ref>:
       <ekz>
-        &scirc;i <tld/>adis tiun &ccirc;i ringon kiel ringon de
-        fian&ccirc;igo<fnt>K</fnt>;
+        vi ne povos <tld/>i vin a&ubreve;toritatulo pri la literaturo angla
+        <fnt>
+          <bib>TAA</bib>
+          <lok>&Ccirc;apitro I.</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        oni ne povos <tld/>i neekzistantaj tiujn faktojn;
+        kaproviroj, fa&ubreve;noj, satirusoj <klr>[&#x2026;]</klr>, mi <tld/>is ti<klr>[uj]</klr>n
+        kiel fabelojn
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XVI</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        li <tld/>as sin kiel kompetentulon;
+        &gcirc;is hodia&ubreve; mi <tld/>is cin kiel sindoneman amikon
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dua</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        se iu societo ne respondis post du monatoj, &gcirc;i estas
-        <tld/>ata kiel akceptinta.
+        en tiaj kondi&ccirc;oj ni devas <tld/>i lian morton kiel kredeblan
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> <tld/>adis tiun &ccirc;i ringon <klr>[&#x2026;]</klr> kiel ringon de fian&ccirc;i&gcirc;o
+        <fnt>
+          <bib>FK</bib>
+          <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="kalkul.0i">kalkuli</ref>
+      <ref cel="kalkul.0i">kalkuli</ref>,
+      <ref cel="pren.0i.konsideri">preni<sncref/></ref>
     </refgrp>
+    <trd lng="be">&c_u;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol; <klr>(&c_z;&c_a;&#x2026;)</klr></trd>
     <trdgrp lng="de">
-      <trd>betrachten als</trd>,
-      <trd>ansehen als</trd>,
-      <trd>halten f&uuml;r</trd>
+      <trd><ind>betrachten</ind> als</trd>,
+      <trd><ind>ansehen</ind> als</trd>,
+      <trd><ind>halten</ind> f&uuml;r</trd>
     </trdgrp>
     <trd lng="nl">beschouwen</trd>
     <trd lng="pl">uwa&zdot;a&cacute; za</trd>
     <trd lng="sv">anse</trd>
   </snc>
+  <trd lng="af">oorweeg</trd>
+  <trd lng="am">&#x12E8;&#x121A;&#x1208;&#x12CD;&#x1295; &#x12A8;&#x130D;&#x121D;&#x1275; &#x12EB;&#x1235;&#x1308;&#x1261;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_n;&a_Z;&a_r;</trd>
+  <trd lng="az">hesab</trd>
+  <trd lng="bn">&#x9AC;&#x9BF;&#x9AC;&#x9C7;&#x99A;&#x9A8;&#x9BE; &#x995;&#x9B0;&#x9BE;</trd>
+  <trd lng="bs">razmotriti</trd>
+  <trd lng="co">cunziddirati</trd>
   <trdgrp lng="cs">
     <trd>br&aacute;t v &uacute;vahu</trd>,
     <trd>br&aacute;t v &uacute;vahu</trd>,
@@ -131,10 +224,12 @@
     <trd>uv&aacute;&zcaron;it</trd>,
     <trd>vz&iacute;t z&rcaron;etel</trd>
   </trdgrp>
+  <trd lng="cy">ystyried</trd>
+  <trd lng="da">overveje</trd>
   <trdgrp lng="de">
     <trd>ber&uuml;cksichtigen</trd>,
     <trd>erw&auml;gen</trd>,
-    <trd>sich &uuml;berlegen</trd>,
+    <trd>sich <ind>&uuml;berlegen</ind></trd>,
     <trd>beherzigen</trd>
   </trdgrp>
   <trdgrp lng="en">
@@ -146,10 +241,51 @@
     <trd>considerar</trd>,
     <trd>estimar</trd>
   </trdgrp>
+  <trd lng="et">kaaluda</trd>
+  <trd lng="eu">kontuan hartu</trd>
   <trdgrp lng="fr">
     <trd>consid&eacute;rer</trd>,
     <trd>estimer</trd>
   </trdgrp>
+  <trd lng="fy">besk&ocirc;gje</trd>
+  <trd lng="ga">a mheas</trd>
+  <trd lng="gd">beachdaichidh</trd>
+  <trd lng="gl">considerar</trd>
+  <trd lng="gu">&#xAA7;&#xACD;&#xAAF;&#xABE;&#xAA8;&#xAAE;&#xABE;&#xA82;</trd>
+  <trd lng="ha">duba</trd>
+  <trd lng="hi">&#x935;&#x93F;&#x91A;&#x93E;&#x930; &#x915;&#x930;&#x928;&#x93E;</trd>
+  <trd lng="hmn">xav txog</trd>
+  <trd lng="hr">razmotriti</trd>
+  <trd lng="ht">konsidere</trd>
+  <trd lng="hy">&#x570;&#x561;&#x574;&#x561;&#x580;&#x578;&#x582;&#x574;</trd>
+  <trd lng="ig">t&#x1EE5;lee</trd>
+  <trd lng="is">&iacute;huga</trd>
+  <trd lng="ja">&#x8003;&#x3048;&#x308B; [<ind>&#x304B;&#x3093;&#x304C;&#x3048;&#x308B;</ind>]</trd>
+  <trd lng="jv">nimbang</trd>
+  <trd lng="ka">&#x10D2;&#x10D0;&#x10DC;&#x10D8;&#x10EE;&#x10D8;&#x10DA;&#x10DD;&#x10E1;</trd>
+  <trd lng="kk">&#x49B;&c_a;&c_r;&c_a;&c_u;</trd>
+  <trd lng="km">&#x1796;&#x17B7;&#x1785;&#x17B6;&#x179A;&#x178E;&#x17B6;</trd>
+  <trd lng="kn">&#xCAA;&#xCB0;&#xCBF;&#xC97;&#xCA3;&#xCBF;&#xCB8;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xACE0;&#xB824;</trd>
+  <trd lng="ku">d&icirc;tin</trd>
+  <trd lng="ky">&c_k;&c_a;&c_r;&c_o;&c_o;</trd>
+  <trd lng="lat">considerate</trd>
+  <trd lng="lo">&#xE9E;&#xEB4;&#xE88;&#xEB2;&#xEA5;&#xEB0;&#xE99;&#xEB2;</trd>
+  <trd lng="lt">apsvarstyti</trd>
+  <trd lng="lv">apsv&#x15E3;rt</trd>
+  <trd lng="mg">diniho</trd>
+  <trd lng="mi">whakaaro</trd>
+  <trd lng="mk">&c_s;&c_m;&c_je;&c_t;&c_a;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD2A;&#xD30;&#xD3F;&#xD17;&#xD23;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_a;&c_v;&c_ch; &#x4AF;&c_z;&c_e;&c_h;</trd>
+  <trd lng="mr">&#x935;&#x93F;&#x91A;&#x93E;&#x930;</trd>
+  <trd lng="ms">mempertimbangkan</trd>
+  <trd lng="mt">jikkunsidraw</trd>
+  <trd lng="my">&#x1005;&#x1009;&#x103A;&#x1038;&#x1005;&#x102C;&#x1038;&#x1015;&#x102B;</trd>
+  <trd lng="ne">&#x935;&#x93F;&#x91A;&#x93E;&#x930;</trd>
+  <trd lng="ny">tione</trd>
+  <trd lng="pa">&#xA24;&#xA47; &#xA35;&#xA3F;&#xA1A;&#xA3E;&#xA30;</trd>
+  <trd lng="ps">&f_p;&a_h; &f_p;&a_A;&a_m; &f_k;&#x6D0;</trd>
   <trdgrp lng="pt">
     <trd>considerar</trd>,
     <trd>refletir</trd>,
@@ -167,58 +303,127 @@
     <klr>(&c_k;&c_a;&c_k;
     &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
   </trdgrp>
+  <trd lng="rw">tekereza</trd>
+  <trd lng="sd">&a_gh;&a_w;&a_r;</trd>
+  <trd lng="si">&#xDC3;&#xDBD;&#xD9A;&#xDCF;</trd>
   <trdgrp lng="sk">
     <trd>bra&tcaron; do &uacute;vahy</trd>,
     <trd>pova&zcaron;ova&tcaron;</trd>,
     <trd>uv&aacute;&zcaron;i&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">menijo,</trd>
+  <trd lng="sm">mafaufau</trd>
+  <trd lng="sn">funga</trd>
+  <trd lng="so">tixgelin</trd>
+  <trd lng="sq">konsiderojn&euml;</trd>
+  <trd lng="st">nahana ka</trd>
+  <trd lng="su">nimbangkeun</trd>
+  <trd lng="sw">kufikiria</trd>
+  <trd lng="ta">&#xB95;&#xBB0;&#xBC1;&#xBA4;&#xBCD;&#xBA4;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC2A;&#xC30;&#xC3F;&#xC17;&#xC23;&#xC32;&#xC4B;&#xC15;&#xC3F;</trd>
+  <trd lng="tg">&c_b;&c_a;&c_r;&c_r;&c_a;&c_s;&#x4E3;</trd>
   <trdgrp lng="th">
-    <trd>&#3614;&#3636;&#3592;&#3634;&#3619;&#3603;&#3634;</trd>,
-    <trd>&#3652;&#3605;&#3619;&#3656;&#3605;&#3619;&#3629;&#3591;</trd>
+    <trd>&#xE1E;&#xE34;&#xE08;&#xE32;&#xE23;&#xE13;&#xE32;</trd>,
+    <trd>&#xE44;&#xE15;&#xE23;&#xE48;&#xE15;&#xE23;&#xE2D;&#xE07;</trd>
   </trdgrp>
+  <trd lng="tl">isaalang-alang</trd>
+  <trd lng="tt">&c_k;&c_a;&c_r;&c_a;&c_g;&c_y;&c_z;</trd>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_gh;&a_w;&a_r;</trd>
+  <trd lng="uz">tushunmoq</trd>
+  <trd lng="vi">xem x&eacute;t</trd>
   <trd lng="vo">konsid&ouml;n</trd>
+  <trd lng="xh">ingqalelo</trd>
+  <trd lng="yi">&bet;&alef;&#x5B7;&tet;&resh;&alef;&#x5B7;&kaf;&tet;&fnun;</trd>
+  <trd lng="yo">ro</trd>
+  <trd lng="zu">cabangela</trd>
 </drv>
 
 <drv mrk="konsid.0o">
   <kap><tld/>o, <var><kap><tld/>ado</kap></var></kap>
   <snc mrk="konsid.0o.ekzameno">
     <dif>
-      Funda esploro de iu ideo:
+      Funda <ref cel="esplor.0o">esploro</ref> de iu ideo:
       <ekz>
-        longa <tld/>o savas de sufero<fnt><bib>PrV</bib></fnt>;
+        tiuj sa&gcirc;aj <tld/>oj ne povis tamen sufoki malgrandan, sed turmentantan
+        maltrankvilon en la koro
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>oj pri la grandeco kaj dekadenco de Romanoj;
+        post mallonga <tld/>o &scirc;ajnis al li, ke <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        li fine konsentis post mallonga <tld/>o<fnt>B</fnt>;
+        post sekunda <tld/>o &scirc;i aldonis kun serioza mieno <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>IK</bib>
+          <lok>&Ccirc;aptiro III</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        li da&ubreve;rigis siajn metafizikajn <tld/>adojn<fnt>Z</fnt>;
+        li kredeble ankora&ubreve; plu da&ubreve;rigus siajn metafizikajn <tld/>adojn, se
+        <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>BdV</bib>
+          <lok>La Batalo de l' Vivo</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        &scirc;i malofte zorgadis  pri abstraktaj <tld/>adoj.
+        longa <tld/>o savas de sufero
+        <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
     <trd lng="nl">overweging</trd>
   </snc>
   <snc mrk="konsid.0o.pripenso">
     <dif>
-      Speciala atento al ia motivo de ago:
+      Speciala <ref cel="atent.0o">atento</ref> al ia motivo de ago:
       <ekz>
-        tiu regulo estas bazita sur pure praktikaj
-        <tld/>oj<fnt>Z</fnt>;
+        <klr>[tiu regulo estas]</klr> speciala&jcirc;o bazita sur pure praktikaj <tld/>oj kaj
+        esploroj
+        <fnt>
+          <bib>LR</bib>
+          <lok>Dua Parto &ndash; Gramatiko</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        pro <tld/>o rilate vin, pro <tld/>o al vi mi ne akuzos vian
-        filon;
+        vidvino post oficisto, &scirc;i certe postulus por si iajn apartajn <tld/>ojn
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        la <tld/>oj de le&gcirc;o, de ju&gcirc;decido.
+        gvidante min per neniaj &scirc;ovinismaj <tld/>oj
+        <fnt>
+          <bib>Homaranismo</bib>
+          <vrk>Homaranismo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li povas prezenti kiel pruvon de sia senkulpeco nur tiujn iom abstraktajn
+        <tld/>ojn
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dekkvina</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd>Gesichtspunkt</trd>,
+      <trd>Betrachtungsweise</trd>
+    </trdgrp>
     <trd lng="nl">beschouwing</trd>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_g;&c_l;&c_ja;&c_d;</trd>,
+    <trd>&c_u;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
   <trdgrp lng="cs">
     <trd>deliberace</trd>,
     <trd>rozm&yacute;&scaron;len&iacute;</trd>,
@@ -243,6 +448,10 @@
     <trd>estimation</trd>,
     <trd>&eacute;valuation</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8003;&#x616E;  [<ind>&#x3053;&#x3046;&#x308A;&#x3087;</ind>]</trd>,
+    <trd>&#x8003;&#x5BDF;  [<ind>&#x3053;&#x3046;&#x3055;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>zastanowienie si&eogonek;</trd>,
     <trd>wgl&aogonek;d</trd>
@@ -263,6 +472,12 @@
       Serioza kaj pripensema.
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_zh;&c_n;&c_y;</trd>,
+    <trd>&c_u;&c_d;&c_u;&c_m;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_u;&c_d;&c_u;&c_m;&c_n;&c_y;</trd>
+  </trdgrp>
   <trd lng="cs">uv&aacute;&zcaron;liv&yacute;</trd>
   <trdgrp lng="de">
     <trd>nachdenklich</trd>,
@@ -282,6 +497,10 @@
   <trdgrp lng="fr">
     <trd>raisonnable<klr> (personne)</klr></trd>,
     <trd>r&eacute;fl&eacute;chi<klr> (personne)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x601D;&#x616E;&#x6DF1;&#x3044;  [<ind>&#x3057;&#x308A;&#x3087;&#x3076;&#x304B;&#x3044;</ind>]</trd>,
+    <trd>&#x3088;&#x304F;&#x8003;&#x3048;&#x308B;  [<ind>&#x3088;&#x304F;&#x304B;&#x3093;&#x304C;&#x3048;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">bedachtzaam</trd>
   <trd lng="pl">rozwa&zdot;ny</trd>
@@ -305,15 +524,62 @@
           Konsiloj pri subvenciakirado por artaj / kulturaj
           aran&gcirc;oj</url></vrk>,
           <lok>[vidita en 2015]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni anka&ubreve; malfermadis ilin por forveturantoj, kies nombro estis kelkfoje
+        <tld/>inde granda
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XIII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la de vi dirita estas ekster <tld/>indeco
+        <fnt>
+          <bib>MrA</bib>
+          <lok>&Ccirc;apitro X</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <snc mrk="konsid.0inda.kiel">
+    <dif>
+      Kiun indas <tld/>i kiel ...::
+      <ekz>
+        la espero, ke oni malkovros aliajn dokumentojn, estis nun <tld/>inda kiel
+        &hcirc;imera&jcirc;o
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Kvina</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la medio, en kiu ili vivas, estas <tld/>inda kiel identa&jcirc;o
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Dektria</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_t;&c_y; <ind>&c_r;&c_a;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_u;</ind></trd>
+  <trdgrp lng="de">
+    <trd>beachtenswert</trd>,
+    <trd>bedenkenswert</trd>,
+    <trd>eine <ind>Erw&auml;gung</ind> wert</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>digno de tener en consideraci&oacute;n</trd>,
     <trd>considerable</trd>
   </trdgrp>
   <trd lng="fr">consid&eacute;rable</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8003;&#x616E;&#x3059;&#x3079;&#x304D;  [<ind>&#x3053;&#x3046;&#x308A;&#x3087;&#x3059;&#x3079;&#x304D;</ind>]</trd>,
+    <trd>&#x91CD;&#x8981;&#x306A;  [<ind>&#x3058;&#x3085;&#x3046;&#x3088;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x76F8;&#x5F53;&#x306A;  [<ind>&#x305D;&#x3046;&#x3068;&#x3046;&#x306A;</ind>]</trd>,
+    <trd>&#x304B;&#x306A;&#x308A;&#x306E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konsid.0e_al">
@@ -322,18 +588,34 @@
   <gra><vspec>prepozicia&jcirc;o</vspec></gra>
   <snc mrk="konsid.0e_al.KOMUNE">
     <dif>
-       Rigarde al,
-       <ref tip="vid" cel="vid.0al0e_al">vidalvide al</ref>:
+      Rigarde al,
+      <ref tip="vid" cel="vid.0al0e_al">vidalvide al</ref>:
       <ekz>
-        <tld/>e la zorgojn, kiuj &scirc;in &ccirc;irka&ubreve;is <klr>...</klr>
+        <tld/>e la zorgojn, kiuj &scirc;in &ccirc;irka&ubreve;is <klr>[&#x2026;]</klr>
         la kvanto kaj eco de la man&gcirc;o, kiu devis subteni &scirc;ian vivon,
         ne povis okupi grandan lokon en &scirc;iaj pensoj
         <fnt>
           <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li fakte kondukis min al iu <klr>[&#x2026;]</klr>, kiu, <tld/>e al la persono de
+        Zemoki, akceptis min tre afable
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Deka &Ccirc;apitro</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_u; <ind>&c_d;&c_a;&c_ch;&c_y;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_ib;</ind> &c_d;&c_a;&#x2026;</trd>,
+    <trd>&c_sh;&c_t;&c_o; &c_d;&c_a;&#x2026;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>unter dem <ind>Gesichtspunkt</ind>, dass</trd>,
+    <trd>unter <ind>Beachtung</ind> von</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>en consideraci&oacute;n a</trd>
   </trdgrp>
@@ -347,9 +629,13 @@
   <kap>sen<tld/>a</kap>
   <snc mrk="konsid.sen0a.KOMUNE">
     <dif>
-       Nezorgema, <ref tip="vid" cel="anim.facil0a">facilanima</ref>:
+      Nezorgema, <ref cel="anim.facil0a">facilanima</ref>:
       <ekz>
-        sen<tld/>aj vortoj<fnt>B</fnt>;
+        &jcirc;etinte &ccirc;i tiujn sen<tld/>ajn vortojn, la kronprinco haltis terurita
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro VI</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la komandanto sin &jcirc;etis sen<tld/>e en se&gcirc;on
@@ -360,7 +646,17 @@
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="kasx.mal0a">malka&scirc;a</ref>,
+      <ref cel="pens.pri0i">nepripensita</ref>,
+      <ref cel="gxen.sen0a.senhonta">sen&gcirc;ena<sncref/></ref>
+    </refgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_r;&c_a;&c_z;&c_v;&c_a;&c_zh;&c_l;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_l;&c_je;&c_g;&c_k;&c_a;&c_d;&c_u;&c_m;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">unbedacht</trd>
   <trdgrp lng="es">
     <trd>desconsiderado</trd>,
     <trd>irreflexivo</trd>
@@ -368,6 +664,11 @@
   <trdgrp lng="fr">
     <trd>inconsid&eacute;r&eacute;</trd>,
     <trd>irr&eacute;fl&eacute;chi</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x601D;&#x616E;&#x306B;&#x6B20;&#x3051;&#x308B;  [<ind>&#x3057;&#x308A;&#x3087;&#x306B;&#x304B;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x7121;&#x5206;&#x5225;&#x306A;  [<ind>&#x3080;&#x3075;&#x3093;&#x3079;&#x3064;&#x306A;</ind>]</trd>,
+    <trd>&#x8EFD;&#x7387;&#x306A;  [<ind>&#x3051;&#x3044;&#x305D;&#x3064;&#x306A;</ind>]</trd>
   </trdgrp>
 </drv>
 
@@ -380,23 +681,34 @@
       <ref tip="vid" cel="indife.0eal.KOMUNE">indiferente al</ref>,
       <ref tip="vid" cel="respek.sen0eal.KOMUNE">senrespekte al</ref>:
       <ekz>
-        tiel <klr>...</klr> la pronomo <em>li</em>  personigas  la  
-        homecon  en  opozicio  al  la  nehomeco  sen<tld/>e  al  la  
+        tute sen<tld/>e al la demando &ccirc;u <klr>[&#x2026;]</klr>
+        <fnt>
+          <bib>Ret</bib>
+          <lok>Unua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiel <klr>[&#x2026;]</klr> la pronomo <em>li</em>  personigas  la
+        homecon  en  opozicio  al  la  nehomeco  sen<tld/>e  al  la
         sekso
         <fnt>
           <aut>C. Gacond</aut>,
-          <vrk><url
-          ref="http://www.esperanto-gacond.ch/Pri_la_personaj_pronomoj.pdf">
+          <vrk><url ref="http://www.esperanto-gacond.ch/Pri_la_personaj_pronomoj.pdf">
           Pri la personaj pronomoj</url></vrk>,
           <lok>2005</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja; <ind>&c_w;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_ju;&c_ch;&c_y;</ind>&#x2026;</trd>,
+    <trd>&c_n;&c_je; <ind>&c_z;&c_v;&c_a;&c_zh;&c_a;&c_ju;&c_ch;&c_y;</ind> &c_n;&c_a;&#x2026;</trd>,
+    <trd>&c_n;&c_je; &c_z;&c_mol;&c_v;&c_ja;&c_r;&c_t;&c_a;&c_ju;&c_ch;&c_y; <ind>&c_w;&c_v;&c_a;&c_g;&c_ib;</ind> &c_n;&c_a;&#x2026;</trd>
+  </trdgrp>
   <trdgrp lng="de">
     <trd>unabh&auml;ngig von</trd>,
     <trd>ungeachtet</trd>,
-    <trd>au&szlig;er Acht lassend</trd>
+    <trd>au&szlig;er <ind>Acht</ind> lassend</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>sin tener en cuenta a</trd>,
@@ -412,6 +724,18 @@
 </art>
 <!--
 $Log$
+versio 1.103 2023/08/29 15:27:30
+Wolfram Diestel: ja: prononco
+
+versio 1.102 2023/02/01 20:27:31
+Wolfram Diestel: +ekz-oj, ref-oj, trd de
+
+versio 1.101 2022/10/03 07:42:01
+Dmitri Gabinski: + trd be
+
+versio 1.100 2022/05/01 08:09:25
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.24  2017/08/10 14:10:13  revo
 Jeromo Vasxe: + ~e al, + sen~a
 
@@ -422,14 +746,5 @@ Revision 1.22  2015/12/19 23:10:17  revo
 Jeromo Vasxe: + ~inda
 
 Revision 1.21  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.20  2015/06/29 16:33:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2015/01/01 14:10:12  revo
-Wolfram Diestel: +trd en,de
-
-Revision 1.18  2014/03/20 06:10:15  revo
 -->
 </vortaro>

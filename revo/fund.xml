@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: fund.xml,v 1.22 2007/06/21 16:30:41 revo Exp $">
+<art mrk="$Id: fund.xml,v 1.114 2023/08/31 13:11:32 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fund</rad>/o <fnt><bib>PV</bib></fnt>
@@ -31,6 +30,13 @@
           </fnt>;
         </ekz>
         <ekz>
+          sur la <tld/>o de la abismo
+          <fnt>
+            <bib>MT</bib>
+            <lok>Ijob 38:16</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
           &ccirc;io transturni&gcirc;is la <tld/>o supren
           <fnt><bib>FK</bib>, <lok>4, la forgesita pipo</lok></fnt>;
         </ekz>
@@ -41,7 +47,7 @@
         </ekz>
         <ekz>
           al kavo sen<tld/>a &scirc;topado ne helpas
-          <fnt><bib>PrV</bib></fnt>.
+          <fnt><bib>PrV</bib></fnt>;
         </ekz>
         <ekz>
           la vojo situis sur la <tld/>o de valo enfermita de
@@ -62,7 +68,7 @@
         <trd>g&lstroke;&eogonek;bia</trd>
       </trdgrp>
       <trd lng="ru">&c_d;&c_n;&c_o;</trd>
-      <trd lng="zh">&#24213;</trd>
+      <trd lng="zh">&#x5E95;</trd>
     </subsnc>
     <subsnc mrk="fund.0o.malantauxa">
       <dif>
@@ -71,8 +77,22 @@
           <tld/>o de &ccirc;ambro<fnt>B</fnt>, koridoro, scenejo;
         </ekz>
         <ekz>
+          anta&ubreve; ol ili atingis la <tld/>on de la kavo, la leonoj kaptis ilin
+          <fnt>
+            <bib>MT</bib>
+            <lok>Daniel 6:24</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
           el la <tld/>o de l' &gcirc;ardeno eliris homo
           <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 10a</lok></fnt>;
+        </ekz>
+        <ekz>
+          en la <tld/>o de l' salono <klr>[li]</klr> ekvidis brilon
+          <fnt>
+            <bib>Far3</bib>
+            <lok>&Ccirc;apitro XIV</lok>
+          </fnt>;
         </ekz>
         <ekz>
           sur la <tld/>o de &scirc;iaj pupiloj <klr>[...]</klr> ku&scirc;is
@@ -93,16 +113,25 @@
     <dif>
       <ref tip="dif" cel="fon.0o">Fono</ref>:
       <ekz>
-        <tld/>o de pejza&gcirc;o, horizonto, pentra&jcirc;o;
-      </ekz>
-      <ekz>
-        ru&gcirc;a strio, verda stelo sur blanka <tld/>o;
-      </ekz>
-      <ekz>
         longa tabuleto, sur kies malpure-blua <tld/>o grandaj flavaj
         literoj prezentis <klr>[...]</klr> surskribon
         <fnt>
           <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; ili malrapide, de la <tld/>o de l' nokto eli&gcirc;is stranga ombro
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXIV</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la mallar&gcirc;aj stratoj kaj la senfinaj vojoj ku&scirc;i&gcirc;is
+        morte sur la <tld/>o de la mallumo
+        <fnt>
+          <bib>Lasta</bib>
+          <lok>La Lasta</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -117,16 +146,24 @@
     <dif>
       Plej intima, ka&scirc;ita parto:
       <ekz>
-        danki el la <tld/>o de la koro;
+        sur la <tld/>o de via koro sin ka&scirc;as dubo
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro VIII</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        en la <tld/>o de sia koro li malamas &scirc;in;
+        penetrema rigardo, kiu atingis &gcirc;is la <tld/>o de l' koro
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro IX</lok>
+        </fnt>;
       </ekz>
       <ekz>
         elkovi&gcirc;intaj sur la <tld/>o de &scirc;ia ribeli&gcirc;inta interno
         <fnt>
           <bib>Marta</bib>
-        </fnt>;
+        </fnt>.
       </ekz>
     </dif>
     <trd lng="es">fondo</trd>
@@ -165,10 +202,11 @@
       <ekz>
         en la <tld/>o de l' mizero
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url
-          ref="http://www.esperanto.be/fel/mon/006803.html">REAGO: 
+          <aut>Ott&oacute; Haszpra</aut>
+          <vrk><url ref="&Monato;/2000/006803.php">REAGO:
             Supersignoj, pro kiu diabla ka&ubreve;zo?</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/03, p. 27</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -176,7 +214,7 @@
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="kulmin.0o.FIG">kulmino <sncref/></ref>.
+      <ref cel="kulmin.0o.FIG">kulmino <sncref/></ref>
     </refgrp>
     <trd lng="es">profundidad</trd>
     <trd lng="nl">toppunt</trd>
@@ -193,16 +231,78 @@
     kun "arkaika". probable ankora&ubreve; prilaborinda.
     <aut>&jcirc;v</aut>
   </adm>
+  <trd lng="af">onderkant</trd>
+  <trd lng="am">&#x1273;&#x127D;</trd>
+  <trd lng="ar">&a_A_hamza_sure;&a_s;&a_f;&a_l;</trd>
+  <trd lng="az">alt</trd>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_n;&c_o;</trd>,
+    <trd>&c_d;&c_n;&c_ib;&c_sh;&c_ch;&c_a;</trd>,
+    <trd>&c_f;&c_o;&c_n;</trd>,
+    <trd>&c_t;&c_l;&c_o;</trd>,
+    <trd>&c_g;&c_l;&c_y;&c_b;&c_ib;&c_n;&c_ja;</trd>,
+    <trd>&c_g;&c_l;&c_y;&c_b;</trd>
+  </trdgrp>
+  <trd lng="bn">&#x9A8;&#x9C0;&#x99A;&#x9C7;</trd>
+  <trd lng="bo">&t_ga;&t_ta;&t_gigu;&t_nga;&t_tsheg;</trd>
+  <trd lng="bs">dnu</trd>
+  <trd lng="co">fondu</trd>
+  <trd lng="cy">gwaelod</trd>
+  <trd lng="da">bund</trd>
   <trd lng="de">Grund</trd>
   <trd lng="en">bottom</trd>
   <trd lng="es">fondo</trd>
+  <trd lng="et">alt</trd>
+  <trd lng="eu">behean</trd>
   <trdgrp lng="fr">
     <trd>bout</trd>,
     <trd>fond<klr tip="ind"> (de rivi&egrave;re, r&eacute;cipient,
     pi&egrave;ce...)</klr></trd>
   </trdgrp>
+  <trd lng="fy">boaiem</trd>
+  <trd lng="ga">bun</trd>
+  <trd lng="gd">&igrave;osal</trd>
+  <trd lng="gl">bottom</trd>
+  <trd lng="gu">&#xAA8;&#xAC0;&#xA9A;&#xAC7;</trd>
+  <trd lng="ha">kasa</trd>
+  <trd lng="hi">&#x924;&#x932;</trd>
+  <trd lng="hmn">hauv qab</trd>
+  <trd lng="hr">dno</trd>
+  <trd lng="ht">anba</trd>
+  <trd lng="hy">&#x570;&#x561;&#x57F;&#x561;&#x56F;</trd>
+  <trd lng="ig">ike</trd>
+  <trd lng="is">botn</trd>
+  <trd lng="ja">&#x30DC;&#x30C8;&#x30E0;</trd>
+  <trd lng="jv">ngisor</trd>
+  <trd lng="ka">&#x10D1;&#x10DD;&#x10DA;&#x10DD;&#x10E8;&#x10D8;</trd>
+  <trd lng="kk">&c_t;&#x4E9;&c_m;&c_je;&c_n;&c_g;&c_ib;</trd>
+  <trd lng="km">&#x1794;&#x17B6;&#x178F;</trd>
+  <trd lng="kn">&#xC95;&#xCC6;&#xCB3;&#xC97;&#xCC6;</trd>
+  <trd lng="ko">&#xBC14;&#xB2E5;</trd>
+  <trd lng="ku">erd</trd>
+  <trd lng="ky">&c_Zh;&c_y;&c_j;&c_y;&c_n;&c_t;&c_y;&c_k;</trd>
+  <trd lng="lat">imo</trd>
+  <trd lng="lo">&#xE97;&#xEB2;&#xE87;&#xEA5;&#xEB8;&#xEC8;&#xEA1;</trd>
+  <trd lng="lt">apa&ccaron;ia</trd>
+  <trd lng="lv">apak&scaron;&amacron;</trd>
+  <trd lng="mg">ambany</trd>
+  <trd lng="mi">raro</trd>
+  <trd lng="mk">&c_d;&c_n;&c_o;&c_t;&c_o;</trd>
+  <trd lng="ml">&#xD05;&#xD1F;&#xD3F;&#xD24;&#xD4D;&#xD24;&#xD1F;&#xD4D;&#xD1F;&#xD4D;</trd>
+  <trd lng="mn">&c_d;&c_o;&c_o;&c_d;</trd>
+  <trd lng="mr">&#x924;&#x933;</trd>
+  <trd lng="ms">bahagian bawah</trd>
+  <trd lng="mt">qieg&#x127;</trd>
+  <trd lng="my">&#x1021;&#x1031;&#x102C;&#x1000;&#x103A;&#x1001;&#x103C;&#x1031;</trd>
+  <trd lng="ne">&#x924;&#x932;</trd>
+  <trd lng="ny">pansi</trd>
+  <trd lng="pa">&#xA24;&#xA32;</trd>
+  <trd lng="ps">&#x69A;&f_k;&a_t;&a_h;</trd>
   <trd lng="pt">fundo</trd>
   <trd lng="ro">abis</trd>
+  <trd lng="rw">hepfo</trd>
+  <trd lng="sd">&a_t;&a_r;&a_y; &#x6FE;</trd>
+  <trd lng="si">&#xDB4;&#xDC4;&#xDC5;</trd>
   <trdgrp lng="sk">
     <trd>dno</trd>,
     <trd>spodok</trd>
@@ -212,6 +312,28 @@
     <trd>spodek</trd>,
     <trd>zadn&iacute; &ccaron;&aacute;st</trd>
   </trdgrp>
+  <trd lng="sl">spodnji</trd>
+  <trd lng="sm">muli</trd>
+  <trd lng="sn">pasi</trd>
+  <trd lng="so">ugu hooseysa</trd>
+  <trd lng="sq">fund</trd>
+  <trd lng="st">tlase</trd>
+  <trd lng="su">dasar</trd>
+  <trd lng="sw">chini</trd>
+  <trd lng="ta">&#xB95;&#xBC0;&#xBB4;&#xBC7;</trd>
+  <trd lng="te">&#xC26;&#xC3F;&#xC17;&#xC41;&#xC35;</trd>
+  <trd lng="tg">&c_d;&c_a;&c_r; &#x49B;&c_a;&c_malmol;&c_r;&c_i;</trd>
+  <trd lng="th">&#xE14;&#xE49;&#xE32;&#xE19;&#xE25;&#xE48;&#xE32;&#xE07;</trd>
+  <trd lng="tl">ilalim</trd>
+  <trd lng="tt">&c_a;&c_s;&c_t;&c_a;</trd>
+  <trd lng="uk">&c_v;&c_ib;&c_d; &c_n;&c_i;&c_z;&c_u; &c_d;&c_o;</trd>
+  <trd lng="ur">&a_n;&f_y;&f_ch;&#x6D2;</trd>
+  <trd lng="uz">pastki</trd>
+  <trd lng="vi">d&#x1B0;&#x1EDB;i</trd>
+  <trd lng="xh">ezantsi</trd>
+  <trd lng="yi">&dalet;&nun;&alef;&#x5B8;</trd>
+  <trd lng="yo">isal&#x1EB9;</trd>
+  <trd lng="zu">ngezansi</trd>
 </drv>
 
 <drv mrk="fund.0a">
@@ -223,6 +345,11 @@
         <tld/>a akvo, &scirc;limo, fe&ccirc;o, fi&scirc;o.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_o;&c_n;&c_n;&c_y;</trd>,
+      <trd>&c_g;&c_l;&c_y;&c_b;&c_ib;&c_n;&c_n;&c_y;</trd>,
+      <trd>&c_n;&c_a; <ind>&c_d;&c_n;&c_je;</ind></trd>
+    </trdgrp>
     <trd lng="es">del fondo</trd>
     <trd lng="nl">diep</trd>
     <trdgrp lng="pl">
@@ -242,24 +369,62 @@
         <tld/>aj konoj;
       </ekz>
       <ekz>
-        <tld/>a klarigo;
+        oni unu fojon ricevu <tld/>an klarigon pri via konduto
+        <fnt>
+          <bib>GDn</bib>
+          <lok>Akto Tria</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        lia klara komprenemo trapenetris &gcirc;is la <tld/>a vero
+        <fnt>
+          <bib>VivZam</bib>
+          <lok>Vivo de Zamenhof</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a idealismo
+        <fnt>
+          <bib>ChV</bib>
+          <lok>12</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a reorganizo
+        <fnt>
+          <bib>EeP</bib>
+          <lok>Kvara Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi faru tre <tld/>ajn esplorojn pri tio, &ccirc;u <klr>[&#x2026;]</klr> prave la Romanoj
+        nomis Ta&hcirc;on ora rivero
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro III</lok>
+        </fnt>;
       </ekz>
       <ekz>
         por la praveco de tiu &ccirc;i mia <tld/>a tezo mi havas multajn
         evidentajn <klr>[...]</klr> pruvojn
         <fnt>
-          <bib>Monato</bib>
-          <aut>MAUL Stefan</aut>
-          <vrk><url
-          ref="http://www.esperanto.be/fel/mon/007121.html">Malbona
+
+          <aut>Maul Stefan</aut>
+          <vrk><url ref="&Monato;/2000/007121.php">Malbona
           venko</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/12, p. 30</lok>
         </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="kern">kerna</ref>,
-      <ref cel="profun.0a.kerna">profunda <sncref/></ref>
+      <ref cel="profun.0a.kerna">profunda<sncref/></ref>
     </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_l;&c_y;&c_b;&c_o;&c_k;&c_ib;</trd>,
+      <trd>&c_g;&c_r;&c_u;&c_n;&c_t;&c_o;&c_w;&c_n;&c_y;</trd>
+    </trdgrp>
     <trd lng="es">del fondo</trd>
     <trdgrp lng="fr">
       <trd>de <ind>fond</ind></trd>,
@@ -282,7 +447,17 @@
   </trdgrp>
   <trd lng="de">Grund-</trd>
   <trd lng="es">profundo</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5E95;&#x306E;  [<ind>&#x305D;&#x3053;&#x306E;</ind>]</trd>,
+    <trd>&#x5965;&#x6DF1;&#x3044;  [<ind>&#x304A;&#x304F;&#x3075;&#x304B;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">d&ocirc;kladn&yacute;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_d;&c_o;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_l;&c_i;&c_b;&c_i;&c_n;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_l;&c_i;&c_b;&c_o;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_gu;&c_r;&c_u;&c_n;&c_t;&c_o;&c_v;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fund.0e">
@@ -291,14 +466,26 @@
     <dif>
       &Ccirc;e la <tld/>o:
       <ekz>
-        tre malhele estis <tld/>e de tiu rokfendo
+        fulmofajro zigzaganta, <klr>[&#x2026;]</klr> dis&scirc;iris la nubon, lumigante kiel plentage
+        al la maro kaj al la kruta&jcirc;o <klr>[&#x2026;]</klr> <tld/>e aperis blanka&jcirc;o ku&scirc;anta,
+        kaj senmova
         <fnt>
-          <aut>Michael Ende, trad. Wolfram Diestel</aut>
-          <vrk>La Sen&ccirc;esa Rakonto</vrk>
-          <lok>La Maljunulo de la Migranta Monto</lok>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Deka</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la kapitano tiel ofte trovi&gcirc;is en anta&ubreve;postenoj, <tld/>e de la dezerto
+        <fnt>
+          <bib>KPr</bib>
+          <lok>&Ccirc;apitro Unua</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a; <ind>&c_d;&c_n;&c_je;</ind></trd>,
+      <trd>&c_u; <ind>&c_g;&c_l;&c_y;&c_b;&c_ib;</ind></trd>
+    </trdgrp>
     <trd lng="de">am <ind>Grund</ind></trd>
     <trd lng="es">en el fondo</trd>
     <trd lng="nl">in de <ind>diepte</ind></trd>
@@ -314,28 +501,43 @@
     <dif>
       Plene, plendetale:
       <ekz>
-        <tld/>e scipovi lingvon;
+        kiu ripetas abunde, lernas plej <tld/>e
+        <fnt>
+          <bib>PrV</bib>
+        </fnt>;
       </ekz>
       <ekz>
         &gcirc;iaj dentoj la detruon pli <tld/>e faris ol skalpel'
         <fnt>
           <aut>Raymond Schwartz</aut>
           <vrk>La Stranga Butiko</vrk>
-          <lok>NIGRA TAGO</lok>
+          <lok>Nigra Tago</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e de sia koro li dubis
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Tria</lok>
         </fnt>;
       </ekz>
       <ekz>
         oni &gcirc;is nun ne <tld/>e komparis tiaman situacion en Germanio kun
         la nuna en E&ubreve;ropo
         <fnt>
-          <bib>Monato</bib>
-          <aut>Guido VAN DAMME</aut>
-          <vrk><url
-          ref="http://www.esperanto.be/fel/mon/006921.html">BELGIO:
+
+          <aut>Guido van Damme</aut>
+          <vrk><url ref="&Monato;/2000/006921.php">BELGIO:
           Malvuali nigran fantomon</url></vrk>
+          <bib>Monato</bib>
+          <lok>2000/04, p. 8</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_l;&c_y;&c_b;&c_o;&c_k;&c_a;</trd>,
+      <trd>&c_g;&c_r;&c_u;&c_n;&c_t;&c_o;&c_w;&c_n;&c_a;</trd>
+    </trdgrp>
     <trd lng="de">gr&uuml;ndlich</trd>
     <trd lng="es">profundamente</trd>
     <trd lng="nl">grondig</trd>
@@ -355,7 +557,16 @@
     <trd>sur le <ind>fond</ind></trd>,
     <trd>de mani&egrave;re <ind>approfondie</ind></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5E95;&#x3067;  [<ind>&#x305D;&#x3053;&#x3067;</ind>]</trd>,
+    <trd>&#x5965;&#x3067;  [<ind>&#x304A;&#x304F;&#x3067;</ind>]</trd>,
+    <trd>&#x5965;&#x6DF1;&#x304F;  [<ind>&#x304A;&#x304F;&#x3075;&#x304B;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">d&ocirc;kladne</trd>
+  <trdgrp lng="uk">
+    <trd>&c_gu;&c_r;&c_u;&c_n;&c_t;&c_o;&c_v;&c_n;&c_o;</trd>,
+    <trd>&c_d;&c_o;&c_s;&c_k;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fund.0ede">
@@ -366,7 +577,19 @@
       <ref tip="super" cel="en.0.kie">En</ref> la malsupra, baza,
       fundamenta parto de:
       <ekz>
-        <tld/>e de la maro;
+        vi ku&scirc;is sur glacia elstara&jcirc;o <tld/>e de la groto
+        <fnt>
+          <bib>ChL</bib>
+          <lok>&Ccirc;apitro Sesa</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tre malhele estis <tld/>e de tiu rokfendo
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Maljunulo de la Migranta Monto</lok>
+        </fnt>;
       </ekz>
       <ekz>
         unu el la esperoj ku&scirc;antaj <tld/>e de nia koro
@@ -374,6 +597,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_u; <ind>&c_g;&c_l;&c_y;&c_b;&c_ib;</ind></trd>
   <trd lng="es">en el fondo de</trd>
   <trd lng="fr">au fond de</trd>
   <trdgrp lng="pl">
@@ -384,6 +608,40 @@
   <trd lng="ru">&c_v; &c_g;&c_l;&c_u;&c_b;&c_i;&c_n;&c_je;</trd>
 </drv>
 
+<drv mrk="fund.gxis0a">
+  <kap>
+    &gcirc;is<tld/>a
+  </kap>
+  <snc mrk="fund.gxis0a.space">
+    <dif>
+      Kiu atingas la <tld/>on, etendi&gcirc;as &gcirc;is la <tld/>o;
+      <ref tip="vid" cel="profun.0a.dimensie">profunda<sncref/></ref>:
+      <ekz>
+        &scirc;i enspiris malrapide, por ke la pulmoj &gcirc;is<tld/>e pleni&gcirc;u
+        <fnt>
+          <aut>J. Balano</aut>
+          <vrk>&Ccirc;u &scirc;i mortu tra-fike?</vrk>
+          <lok>1982</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="fund.gxis0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kiu tute ampleksas, plene travidas;
+      <ref tip="vid" cel="fund.0a.FIG">funda<sncref/></ref>,
+      <ref tip="vid" cel="profun.0a.kerna">profunda<sncref/></ref>:
+      <ekz>
+        &gcirc;is<tld/>a kompreno de la lingvo
+        <fnt>
+          <bib>Ret</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
 <drv mrk="fund.gxis0e">
   <kap>&gcirc;is<tld/>e</kap>
   <snc mrk="fund.gxis0e.space">
@@ -391,9 +649,17 @@
       &Gcirc;is la <tld/>o:
       <ekz>
         &ccirc;iu glaso estis malplenigita &gcirc;is<tld/>e
-        <fnt><bib>Fab3</bib>, <lok>kolo de botelo</lok></fnt>.
+        <fnt><bib>Fab3</bib>, <lok>kolo de botelo</lok></fnt>;
+      </ekz>
+      <ekz>
+        kaliko de teruro <klr>[&#x2026;]</klr>, vi eltrinkos &gcirc;in &gcirc;is<tld/>e
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 23:34</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_d;&c_a; <ind>&c_d;&c_n;&c_a;</ind></trd>
     <trd lng="de">bis zum <ind>Grund</ind></trd>
     <trd lng="ru">&c_d;&c_o; &c_d;&c_n;&c_a;</trd>
     <trd lng="pl">do dna</trd>
@@ -403,9 +669,36 @@
     <dif>
       <ref tip="dif" cel="fund.0e.FIG">Funde<sncref/></ref>:
       <ekz>
-        esplori &gcirc;is<tld/>e la aferon.
+        esplori &gcirc;is<tld/>e la aferon;
+      </ekz>
+      <ekz>
+        tiu &gcirc;is<tld/>e malvirtema homo, memfida, kiel neniu alia <klr>[&#x2026;]</klr> parte
+        perdadis sian memfidon
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la nova&jcirc;o, ke <nom>Ligia</nom> lin amis, ekskuis &gcirc;is<tld/>e lian animon
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nenio tiel rapide kaj &gcirc;is<tld/>e ruinigas la fortojn fizikajn kaj moralajn, kiel
+        <klr>[&#x2026;]</klr> febra ser&ccirc;ado kaj netrovado
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_r;&c_u;&c_n;&c_t;&c_o;&c_w;&c_n;&c_a;</trd>,
+      <trd>&c_d;&c_a;&c_s;&c_k;&c_a;&c_n;&c_a;&c_l;&c_a;</trd>,
+      <trd>&c_v;&c_y;&c_ch;&c_a;&c_r;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_a;</trd>
+    </trdgrp>
     <trd lng="de">gr&uuml;ndlich</trd>
     <trd lng="nl">grondig</trd>
     <trdgrp lng="pl">
@@ -426,6 +719,8 @@
     <trd>jusqu'au <ind>fond</ind></trd>,
     <trd>de mani&egrave;re <ind>approfondie</ind></trd>
   </trdgrp>
+  <trd lng="ja">&#x5FB9;&#x5E95;&#x7684;&#x306B;  [<ind>&#x3066;&#x3063;&#x3066;&#x3044;&#x3066;&#x304D;&#x306B;</ind>]</trd>
+  <trd lng="uk">&c_d;&c_o; &c_d;&c_n;&c_a;</trd>
 </drv>
 
 <drv mrk="fund.sen0ajxo">
@@ -456,6 +751,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_r;&c_v;&c_a;</trd>
+  </trdgrp>
   <trd lng="de">Abgrund</trd>
   <trdgrp lng="es">
     <trd>abismo</trd>,
@@ -466,9 +765,18 @@
     <trd>ab&icirc;me</trd>,
     <trd>pr&eacute;cipice</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6DF1;&#x6DF5;  [<ind>&#x3057;&#x3093;&#x3048;&#x3093;</ind>]</trd>,
+    <trd>&#x5948;&#x843D;  [<ind>&#x306A;&#x3089;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">afgrond</trd>
   <trd lng="pl">bezdenny</trd>
   <trd lng="ru">&c_b;&c_je;&c_z;&c_d;&c_n;&c_a;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_b;&c_je;&c_z;&c_o;&c_d;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_ib;&c_r;&c_v;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_v;&c_a;&c_l;&c_l;&c_ja;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fund.sur0ajxo">
@@ -484,6 +792,7 @@
       <ref cel="rekrem.0o">rekremento</ref>,
       <ref cel="sedime.0o">sedimento</ref>
     </refgrp>
+    <trd lng="be">&c_a;&c_s;&c_a;&c_d;&c_a;&c_k; <klr>(&c_n;&c_a; &c_d;&c_n;&c_je;)</klr></trd>
     <trd lng="de"><klr tip="ind">(Boden-)</klr>Satz</trd>
     <trd lng="pl">osad denny</trd>
     <trd lng="ru">&c_o;&c_s;&c_a;&c_d;&c_o;&c_k;</trd>
@@ -494,12 +803,18 @@
     <dif>
       Plej malbona, plej malestiminda parto:
       <ekz>
-        la sur<tld/>a&jcirc;o de la lo&gcirc;antaro<fnt>Z</fnt>.
+        &ccirc;io, kio havis facilajn krurojn, elkuris al la komedio, kaj nur la sur<tld/>a&jcirc;o
+        de la urba lo&gcirc;antaro restis, por gardi la domojn
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>;
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="fecx.0o.FIG">fe&ccirc;o <sncref/></ref>
     </refgrp>
+    <trd lng="be">&c_p;&c_a;&c_z;&c_a;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_je; <klr>(&c_p;&c_je;&c_r;&c_a;&c_n;.)</klr></trd>
     <trd lng="de">Abschaum</trd>
     <trd lng="pl">dno</trd>
     <trd lng="ru">&c_o;&c_t;&c_b;&c_r;&c_o;&c_s;&c_y;<klr tip="amb">
@@ -516,21 +831,46 @@
     <trd>lie</trd>,
     <trd>rebut<klr tip="ind"> (fig.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6C88;&#x6BBF;&#x7269;  [<ind>&#x3061;&#x3093;&#x3067;&#x3093;&#x3076;&#x3064;</ind>]</trd>,
+    <trd>&#x6FB1;  [<ind>&#x3088;&#x3069;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">sediment</trd>
+  <trd lng="uk">&c_o;&c_s;&c_a;&c_d;</trd>
 </drv>
 
 <drv mrk="fund.sur0igxi">
   <kap>sur<tld/>i&gcirc;i</kap>
   <snc mrk="fund.sur0igxi.KOMUNE">
     <dif>
-      Mallevi&gcirc;i &gcirc;is la <tld/>o:
+      <ref tip="super" cel="lev.mal0igxi.malaltigxi">Mallevi&gcirc;i</ref> &gcirc;is la <tld/>o:
       <ekz>
         la &scirc;ipo tuj pleni&gcirc;is de akvo kaj sur<tld/>i&gcirc;is
-        <fnt><bib>Munchhausen</bib>, <lok>&ccirc;apitro 10a</lok></fnt>.
+        <fnt><bib>Munchhausen</bib>, <lok>&ccirc;apitro 10a</lok></fnt>;
+      </ekz>
+      <ekz>
+        Dio &ccirc;iopova, kompatu nin kaj lasu &scirc;ipon en tiu &ccirc;i nokto sur<tld/>i&gcirc;i &ccirc;e nia
+        malri&ccirc;a bordo!
+        <fnt>
+          <bib>InfanTorent2</bib>
+          <lok>Dua Parto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;limo <klr>[&#x2026;]</klr> sur<tld/>i&gcirc;is en la cisterno
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 47</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="dron.0i.MAR">droni<sncref/></ref>,
+      <ref cel="sink.0i.mallevigxi">sinki<sncref/></ref>
+    </refgrp>
     <trd lng="de">sinken</trd>
   </snc>
+  <trd lng="be">&c_a;&c_s;&c_ja;&c_d;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_a; &c_d;&c_n;&c_o;)</klr></trd>
   <trd lng="es">hundirse hasta el <ind>fondo</ind></trd>
   <trd lng="fr">toucher le <ind>fond</ind></trd>
   <trdgrp lng="pl">
@@ -540,10 +880,29 @@
     <trd>lec <klr> (po&lstroke;o&zdot;y&cacute; si&eogonek;) </klr>na
     dnie</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_o;&c_s;&c_ib;&c_d;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_s;&c_ib;&c_d;&c_a;&c_t;&c_i; &c_n;&c_a; &c_d;&c_n;&c_o;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.113 2023/07/18 22:27:11
+Jeromo Vasxe: + gxis~a
+
+versio 1.112 2023/04/07 16:34:32
+Paul Peeraerts: &Monato;/
+
+versio 1.111 2023/02/13 07:27:28
+Dmitri Gabinski: + trd be
+
+versio 1.110 2022/04/27 17:19:11
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.108 2022/03/02 21:29:07
+Wolfram Diestel: ekz-oj, ref-oj
+
 Revision 1.30  2018/01/29 23:10:38  revo
 Neil Roberts: forigi malplenan germanan tradukon
 
@@ -551,17 +910,5 @@ Revision 1.29  2017/07/15 17:10:13  revo
 Vito Redsky: +trd ro
 
 Revision 1.28  2017/06/06 20:10:15  revo
-Wolfram Diestel: prilaboris ekz-ojn, germ trd-ojn
-
-Revision 1.27  2016/12/10 19:10:16  revo
-Darcy Shen: + trd zh
-
-Revision 1.26  2016/09/11 08:10:44  revo
-Guillermo Molleda Jimena: trd es
-
-Revision 1.25  2015/07/04 08:37:34  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.24  2015/06/29 16:29:39  revo
 -->
 </vortaro>

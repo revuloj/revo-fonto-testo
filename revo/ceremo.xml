@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: ceremo.xml,v 1.23 2009/09/07 16:30:53 revo Exp $">
+<art mrk="$Id: ceremo.xml,v 1.37 2023/08/31 10:10:26 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>ceremoni</rad>/o <fnt><bib>PV</bib></fnt>
@@ -14,15 +13,54 @@
       Eksteraj formoj de religia a&ubreve; civila
       <ref tip="vid" cel="solen.0o.MOR">solena&jcirc;o</ref>:
       <ekz>
-        edzi&gcirc;a <tld/>o,
+        funebra <tld/>o
+        <fnt>
+          <bib>MT</bib>
+          <lok>Je&hcirc;ezkel 24:17</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>o de akcepto de alilanda &scirc;tatestro.
+        <klr>[li]</klr> plenumis la interedzigan <tld/>on
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Dio de dormo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kortega <tld/>o postulas maloportunecon
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>La virineto de maro</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        lia sankteco estis okupita per multenombraj religiaj <tld/>oj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        enterigitaj la&ubreve; la egipta <tld/>aro
+        <fnt>
+          <bib>Far2</bib>
+          <lok>&Ccirc;apitro XXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vidi la fatalan preparadon kaj la ekzekutajn <tld/>ojn, kaj senti, kiel
+        <klr>[&#x2026;]</klr> venas pli proksime, terure pli proksime la malbenita ma&scirc;ino
+        <fnt>
+          <bib>Rabistoj</bib>
+          <lok>Akto Dua</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
       <ref cel="etiket.0o">etiketo</ref>,
-      <ref cel="rit.0o">rito</ref>.
+      <ref cel="pomp.0o">pompo</ref>,
+      <ref cel="proces1.0o">procesio</ref>,
+      <ref cel="rit.0o">rito</ref>
     </refgrp>
     <trd lng="br">lid</trd>
     <trdgrp lng="pl">
@@ -35,20 +73,51 @@
       Eksteraj formoj, iomete &gcirc;enaj, de &gcirc;entileco
       en neintimaj interrilatoj:
       <ekz>
-        ne &gcirc;enu vin, do lasu &ccirc;iajn <tld/>ojn.
+        ne &gcirc;enu vin, do lasu &ccirc;iajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        <klr>[post tiu longa peto]</klr> ne farante pli <tld/>ojn, li sidi&gcirc;is kaj
+        rigardis sur la kampon
+        <fnt>
+          <bib>BdV</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili devas eniri en la sakon, ni ne faras <tld/>ojn <klr>[&#x2026;]</klr> kaj mi ne
+        ellasas ilin <klr>[&#x2026;]</klr> pli frue, ol kiam mi trovas tion bona
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li faris <tld/>ojn kun la mamo de sia patrino anta&ubreve; ol su&ccirc;i &gcirc;in
+        <fnt>
+          <bib>Hamlet</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estante re&gcirc;idino, &scirc;i ne bezonis fari grandan <tld/>on kaj tial &scirc;i diris
+        <klr>[rekte&#x2026;]</klr>
+        <fnt>
+          <bib>DL</bib>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="afekt">afekto</ref>.
+      <ref cel="afekt">afekto</ref>,
+      <ref cel="gxenti.0umi">&gcirc;entilumi</ref>
     </refgrp>
+    <trd lng="de">Umst&auml;nde <klr>(H&ouml;flichkeiten)</klr></trd>
     <trd lng="pl">ceremonia</trd>
   </snc>
   <trd lng="be">&c_c;&c_y;&c_r;&c_y;&c_m;&c_o;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="bg">&c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="bo">&t_ma;&t_cha;&t_naro;&t_da;&t_tsheg;&t_pa;&t_tsheg;&t_-a;&t_ba;&t_shabchu;&t_la;&t_tsheg;</trd>
   <trd lng="ca">cerim&ograve;nia</trd>
   <trdgrp lng="cs">
     <trd>ceremonie</trd>,
-    <trd>obřad</trd>
+    <trd>ob&rcaron;ad</trd>
   </trdgrp>
   <trd lng="de">Zeremonie</trd>
   <trd lng="en">ceremony</trd>
@@ -57,47 +126,87 @@
     <trd>c&eacute;r&eacute;monie</trd>,
     <trd>protocole</trd>
   </trdgrp>
+  <trd lng="he">&tet;&#x5B6;&qof;&#x5B6;&samekh;</trd>
   <trdgrp lng="hu">
     <trd>szertart&aacute;s</trd>,
     <trd>cerem&oacute;nia</trd>
   </trdgrp>
   <trd lng="it">cerimonia</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5100;&#x5F0F;  [<ind>&#x304E;&#x3057;&#x304D;</ind>]</trd>,
+    <trd>&#x5F0F;&#x5178;  [<ind>&#x3057;&#x304D;&#x3066;&#x3093;</ind>]</trd>,
+    <trd>&#x5100;&#x793C;  [<ind>&#x304E;&#x308C;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">ceremonie</trd>
   <trd lng="pt">cerim&ocirc;nia</trd>
   <trd lng="ru">&c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_i;&c_ja;</trd>
   <trdgrp lng="sk">
-    <trd>ceremónia</trd>,
+    <trd>cerem&oacute;nia</trd>,
     <trd>obrad</trd>
   </trdgrp>
   <trd lng="sv">ceremoni</trd>
+  <trd lng="uk">&c_c;&c_je;&c_r;&c_je;&#x43C;&#x43E;&#x43D;&c_ib;&#x44F;</trd>
 </drv>
 
 <drv mrk="ceremo.0a">
   <kap><tld/>a</kap>
   <snc mrk="ceremo.0a.MOR">
     <dif>
-      Karaktera de <tld/>o, konforma al <tld/>o:
+      Karakteriza de <tld/>o, konforma al <tld/>o:
       <ekz>
-        <tld/>a vesto.
+        <tld/>a vesto
+        <fnt>
+          <bib>Far3</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        antikva <tld/>a &ccirc;arego
+        <fnt>
+          <bib>KPr</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mankis al li ta&ubreve;gaj vestoj por <tld/>a vizito
+        <fnt>
+          <bib>KKl</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[tio]</klr> &scirc;ajnas al ni ridinde <tld/>a
+        <fnt>
+          <bib>LR</bib>
+          <lok>8. Personaj pronomoj</lok>
+        </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
-      <ref cel="formal.0a">formala</ref>
+      <ref cel="formal.0a">formala</ref>,
+      <ref cel="solen.0a">solena</ref>
     </refgrp>
+    <trd lng="de">zeremoniell</trd>
   </snc>
+  <trd lng="be">&c_c;&c_y;&c_r;&c_y;&c_m;&c_a;&c_n;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="bg">&c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_i;&c_a;&c_l;&c_je;&c_n;</trd>
   <trdgrp lng="cs">
-    <trd>ceremoniální</trd>,
-    <trd>formální</trd>,
-    <trd>obřadný</trd>
+    <trd>ceremoni&aacute;ln&iacute;</trd>,
+    <trd>form&aacute;ln&iacute;</trd>,
+    <trd>ob&rcaron;adn&yacute;</trd>
   </trdgrp>
   <trd lng="en">ceremonial</trd>
   <trd lng="fr">c&eacute;r&eacute;moniel</trd>
-  <trd lng="nl">ceremonieel</trd>
-  <trdgrp lng="sk">
-    <trd>formálny</trd>,
-    <trd>obradný</trd>
+  <trd lng="he">&tet;&#x5B6;&qof;&#x5B6;&samekh;&yod;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5100;&#x5F0F;&#x306E;  [<ind>&#x304E;&#x3057;&#x304D;&#x306E;</ind>]</trd>,
+    <trd>&#x5100;&#x5F0F;&#x5F35;&#x3063;&#x305F;  [<ind>&#x304E;&#x3057;&#x304D;&#x306F;&#x3063;&#x305F;</ind>]</trd>
   </trdgrp>
+  <trd lng="nl">ceremonieel</trd>
+  <trd lng="pt">cerimonial</trd>
+  <trdgrp lng="sk">
+    <trd>form&aacute;lny</trd>,
+    <trd>obradn&yacute;</trd>
+  </trdgrp>
+  <trd lng="uk">&c_c;&c_je;&c_r;&c_je;&#x43C;&#x43E;&#x43D;&c_ib;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j;</trd>
 </drv>
 
 <drv mrk="ceremo.0ema">
@@ -107,15 +216,22 @@
       Zorge obeanta, eventuale tro atentanta
       la <tld/>an ordon:
       <ekz>
-        <tld/>ema homo.
+        unu adjutanto, unu <tld/>ema gvardiano kaj iu sinjorino el nove alvenintaj...
+        <fnt>
+          <aut>Lermontov M.</aut>
+          <vrk><url ref="&LOdE;Mary-01.htm">Princidino Mary</url></vrk>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_c;&c_y;&c_r;&c_y;&c_m;&c_o;&c_n;&c_n;&c_y;</trd>
   <trd lng="ca">cerimoni&oacute;s</trd>
   <trdgrp lng="fr">
     <trd>c&eacute;r&eacute;monieux</trd>,
     <trd>compass&eacute;</trd>
   </trdgrp>
+  <trd lng="he">&tet;&#x5B4;&qof;&samekh;&#x5B4;&yod;</trd>
+  <trd lng="ja">&#x5100;&#x5F0F;&#x3092;&#x91CD;&#x3093;&#x3058;&#x308B;  [<ind>&#x304E;&#x3057;&#x304D;&#x3092;&#x304A;&#x3082;&#x3093;&#x3058;&#x308B;</ind>]</trd>
 </drv>
 
 <drv mrk="ceremo.0estro">
@@ -151,7 +267,7 @@
       Altranga kortegano kies funkcio estas kontroli kaj gvidi
       ta&ubreve;gan plenumon de kortegaj <tld/>oj:
       <ekz>
-        <ctl>Sur la strato oni staras kun la baldakeno, kiun oni
+        <ctl>sur la strato oni staras kun la baldakeno, kiun oni
         portos super Via Re&gcirc;a Mo&scirc;to en la parada
         irado!</ctl>
         raportis la &ccirc;efa <tld/>estro
@@ -165,9 +281,9 @@
       <trd>hoppmester</trd>,
       <trd>cerem&oacute;niamester</trd>
     </trdgrp>
-    <trd
-    lng="ru">&c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_i;&c_j;&c_m;&c_je;&c_j;&c_s;&c_t;&c_je;&c_r;</trd>
+    <trd lng="ru">&c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_i;&c_j;&c_m;&c_je;&c_j;&c_s;&c_t;&c_je;&c_r;</trd>
   </snc>
+  <trd lng="be">&c_c;&c_y;&c_r;&c_y;&c_m;&c_o;&c_n;&c_ib;&c_j;&c_m;&c_a;&c_j;&c_s;&c_t;&c_a;&c_r;</trd>
   <trd lng="bg">&c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_i;&c_a;&c_l;-&c_m;&c_a;&c_j;&c_s;&c_t;&c_o;&c_r;</trd>
   <trdgrp lng="ca">
     <trd>cerimonier</trd>,
@@ -178,7 +294,13 @@
     <trd>chef du protocole</trd>,
     <trd>maitre de c&eacute;r&eacute;monie</trd>
   </trdgrp>
+    <trd lng="he">&mem;&nun;&het;&he;</trd>
+  <trdgrp lng="pt">
+    <trd>cerimonialista</trd>,
+    <trd>mestre de cerim&ocirc;nias</trd>
+  </trdgrp>
   <trd lng="nl">ceremoniemeester</trd>
+  <trd lng="uk">&c_c;&c_je;&c_r;&c_je;&#x43C;&#x43E;&#x43D;&c_ib;&c_j;&#x43C;&c_je;&c_j;&c_s;&c_t;&c_je;&c_r;</trd>
 </drv>
 
 <drv mrk="ceremo.sen0a">
@@ -190,9 +312,24 @@
         sen<tld/>a vizito;
       </ekz>
       <ekz>
-        tiuj vortoj estas simple sen<tld/>a mensogado<fnt>Z</fnt>.
+        &scirc;ia honesta amiko estas tiel sen<tld/>a rilate &scirc;in, <klr>[pro kio]</klr> &scirc;i
+        mem solene anoncis al &ccirc;iuj <klr>[&#x2026;]</klr>, ke &scirc;i jam estas fian&ccirc;ino
+        <fnt>
+          <bib>FK</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj viaj vortoj estas simple sen<tld/>a <klr>(<ref cel="kasx.mal0a">malka&scirc;a</ref>)</klr>
+        mensogado
+        <fnt>
+          <bib>EE</bib>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+       <ref cel="rekt.0a.senpera">rekta<sncref/></ref>,
+       <ref cel="per.sen0a">senpera</ref>
+    </refgrp>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_s;&c_c;&c_y;&c_r;&c_y;&c_m;&c_o;&c_n;&c_n;&c_y;</trd>
   <trd lng="bg">&c_n;&c_je;&c_o;&c_f;&c_i;&c_c;&c_i;&c_a;&c_l;&c_n;&c_o;</trd>
@@ -202,9 +339,9 @@
     <trd>descarat</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>neobřadný</trd>,
-    <trd>neostýchavý</trd>,
-    <trd>prostý</trd>
+    <trd>neob&rcaron;adn&yacute;</trd>,
+    <trd>neost&yacute;chav&yacute;</trd>,
+    <trd>prost&yacute;</trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>ungezwungen</trd>,
@@ -221,6 +358,10 @@
   <trd>discorsivo<klr> (informale)</klr></trd>,
   <trd>famigliare<klr> (informale)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x5100;&#x5F0F;&#x5F35;&#x3089;&#x306A;&#x3044;  [<ind>&#x304E;&#x3057;&#x304D;&#x306F;&#x3089;&#x306A;&#x3044;</ind>]</trd>,
+    <trd>&#x304F;&#x3064;&#x308D;&#x3044;&#x3060;</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>informeel</trd>,
     <trd>ongedwongen</trd>
@@ -230,40 +371,36 @@
     <trd>rubasznie</trd>
   </trdgrp>
   <trd lng="pt">sem-cerim&ocirc;nia</trd>
-  <trd
-  lng="ru">&c_b;&c_je;&c_s;&c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="ru">&c_b;&c_je;&c_s;&c_c;&c_je;&c_r;&c_je;&c_m;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>
   <trdgrp lng="sk">
     <trd>bez obradov</trd>,
-    <trd>jednoduchý</trd>
+    <trd>jednoduch&yacute;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.36 2023/07/05 08:35:36
+Dmitri Gabinski: + trd be
+
+versio 1.35 2022/04/26 16:27:52
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.33 2021/10/16 08:31:10
+Wolfram Diestel: ~ema, sen~a: ekz-oj, ref-oj
+
+versio 1.32 2021/10/15 15:30:38
+Wolfram Diestel: ~o,~a: ekz-oj, ref-oj
+
+versio 1.29 2020/03/21 00:10:34
+James Rezende Piton: +trd pt
+
+Revision 1.28  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
 Revision 1.27  2015/06/29 16:29:36  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.26  2015/06/18 15:10:16  revo
-Joop Eggen: +trd bg en
-
-Revision 1.25  2014/05/31 19:10:11  revo
-Jeromo Vasxe: memstar ~a ~ema
-
-Revision 1.24  2012/08/26 12:10:26  revo
-Marc Rausell: + trd ca
-
-Revision 1.23  2009/09/07 16:30:53  revo
-Paul Peeraerts: +nl
-
-Revision 1.22  2009/05/24 11:27:01  revo
-Antonio Codazzi: +trd it
-
-Revision 1.21  2009/04/17 19:49:03  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.20  2008/11/02 17:30:40  revo
-Peter Hauser: aldono de germana traduko
-
-Revision 1.19  2006/09/07 16:57:03  revo
 -->
 </vortaro>

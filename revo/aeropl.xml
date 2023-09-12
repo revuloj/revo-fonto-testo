@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: aeropl.xml,v 1.24 2010/04/27 16:30:37 revo Exp $">
+<art mrk="$Id: aeropl.xml,v 1.32 2023/08/30 18:23:30 revo Exp $">
 <kap>
   <ofc>3</ofc>
   <rad>aeroplan</rad>/o
@@ -30,6 +29,7 @@
     <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_jo;&c_t;</trd>
   </trdgrp>
   <trd lng="bg">&c_s;&c_a;&c_m;&c_o;&c_l;&c_je;&c_t;</trd>
+  <trd lng="bo">&#xF42;&#xF53;&#xF58;&#xF0B;&#xF42;&#xFB2;&#xF74;&#xF0B;</trd>
   <trd lng="de">Flugzeug</trd>
   <trdgrp lng="en">
     <trd>airplane</trd>
@@ -53,6 +53,7 @@
     <trd>aeroplano</trd>,
     <trd>aereo</trd>
   </trdgrp>
+  <trd lng="ja">&#x98DB;&#x884C;&#x6A5F;  [<ind>&#x3072;&#x3053;&#x3046;&#x304D;</ind>]</trd>
   <trd lng="nl">vliegtuig</trd>
   <trdgrp lng="pl">
     <trd>aeroplan<klr> (przest.)</klr></trd>,
@@ -75,6 +76,10 @@
     <trd>aero</trd>,
     <trd>aeropl&aacute;n</trd>,
     <trd>motorov&eacute; letadlo</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x430;&#x435;&#x440;&#x43E;&#x43F;&#x43B;&#x430;&#x43D;</trd>,
+    <trd>&#x43B;&#x456;&#x442;&#x430;&#x43A;</trd>
   </trdgrp>
 </drv>
 </art>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: duplik.xml,v 1.18 2009/08/25 16:33:37 revo Exp $">
+<art mrk="$Id: duplik.xml,v 1.24 2023/08/31 10:44:02 revo Exp $">
 <kap>
   <rad>duplikat</rad>/o
   <fnt>Z</fnt>
@@ -10,20 +9,32 @@
 </kap>
 <drv mrk="duplik.0o">
   <kap><tld/>o</kap>
-  <snc>
+  <snc mrk="duplik.0o.kopio">
     <dif>
-      Kopio, dua ekzemplero de dokumento:
+      <ref tip="super" cel="kopi.0o">Kopio</ref>, dua <ref tip="super" cel="ekzemp1.0o">ekzemplero</ref> de dokumento:
       <ekz>
-        <tld/>o de fakturo, de naski&gcirc;atesto.
+        <tld/>o de fakturo, de naski&gcirc;atesto;
+      </ekz>
+      <ekz>
+        mem-repliki&gcirc;o de DNA estas la procezo per kiu DNA estas kopiata, t.e. &dash; <tld/>oj
+        produkti&gcirc;as
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=2981">Mem-repliki&gcirc;o de DNA</url></lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="redund.0o">redundo</ref>,
+      <ref cel="kopi.sav0o">savkopio</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_t;</trd>,
     <trd>&c_k;&c_o;&c_p;&c_ib;&c_ja;</trd>
   </trdgrp>
   <trdgrp lng="cs">
-    <trd>duplikát</trd>,
+    <trd>duplik&aacute;t</trd>,
     <trd>opis</trd>,
     <trd>stejnopis</trd>
   </trdgrp>
@@ -32,7 +43,9 @@
     <trd>Kopie</trd>,
     <trd>Duplikat</trd>,
     <trd>Zweitausfertigung</trd>,
-    <trd>Zweitschrift</trd>
+    <trd>Zweitschrift</trd>,
+    <trd>Durchschlag</trd>,
+    <trd>Dublette</trd>
   </trdgrp>
   <trd lng="en">duplicate</trd>
   <trd lng="es">duplicado</trd>
@@ -49,6 +62,11 @@
     <trd>m&aacute;sodp&eacute;ld&aacute;ny</trd>,
     <trd>duplik&aacute;tum</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x526F;&#x672C;  [<ind>&#x3075;&#x304F;&#x307B;&#x3093;</ind>]</trd>,
+    <trd>&#x5199;&#x3057;  [<ind>&#x3046;&#x3064;&#x3057;</ind>]</trd>,
+    <trd>&#x8B04;&#x672C;  [<ind>&#x3068;&#x3046;&#x307B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">duplikat</trd>
   <trdgrp lng="pt">
     <trd>duplicata</trd>,
@@ -59,18 +77,28 @@
     <trd>&c_d;&c_u;&c_b;&c_l;&c_i;&c_k;&c_a;&c_t;</trd>
   </trdgrp>
   <trdgrp lng="sk">
-    <trd>duplikát</trd>,
+    <trd>duplik&aacute;t</trd>,
     <trd>opis</trd>
   </trdgrp>
+  <trd lng="uk">&c_d;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_t;</trd>
 </drv>
 
 <drv mrk="duplik.0i">
-  <kap><tld/>i</kap>
-  <fnt><bib>CCT</bib></fnt>
-  <snc>
+  <kap><tld/>i <fnt><bib>CCT</bib></fnt></kap>
+  <snc>    
     <dif>
-      Produkti duplikaton.
+      Produkti <tld/>on:
+      <ekz>
+        forigi <tld/>ajn dosierojn
+        <fnt>
+          <bib>Viki</bib>
+          <lok><url ref="https://eo.wikipedia.org/?curid=597187">Interplaneda dosiersistemo</url></lok>
+        </fnt>.
+      </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="kopi.0i.tekston">kopii</ref>
+    </refgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
@@ -97,6 +125,7 @@
     &f_k;&a_r;&a_d;&a_n;</trd>,
     <trd>&f_k;&f_p;&f_y; &a_b;&a_r;&a_d;&a_A;&a_sh;&a_t;&a_n;</trd>
   </trdgrp>
+  <trd lng="he">&lamed;&shin;&kaf;&pe;&lamed;</trd>
   <trdgrp lng="hu">
     <trd>m&aacute;sodp&eacute;ld&aacute;nyt k&eacute;sz&iacute;t</trd>,
     <trd>lem&aacute;sol</trd>
@@ -112,11 +141,14 @@
     <ind>&c_d;&c_u;&c_b;&c_l;&c_i;&c_k;&c_a;&c_t;</ind></trd>,
     <trd>&c_d;&c_u;&c_b;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
-  <trd lng="sk">duplikovať</trd>
+  <trd lng="sk">duplikova&tcaron;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.23 2022/07/01 17:32:14
+Wolfram Diestel: +ekz, ref-oj, trd de
+
 Revision 1.19  2015/06/29 16:29:37  revo
 aldono de trd sk per skripto de M. von Laer
 
@@ -136,11 +168,5 @@ Revision 1.14  2003/09/08 16:31:09  revo
 Yury Finkel: +trd ru
 
 Revision 1.13 2003/05/20 16:30:34 revo
-Jozefo Horvath: +trd hu
-
-Revision 1.12 2002/12/21 17:31:22 revo
-Ulrich Fellmann: + 2 fontindikoj
-
-Revision 1.11 2002/12/20 17:32:15 revo
 -->
 </vortaro>

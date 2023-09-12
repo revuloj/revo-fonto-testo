@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kolone.xml,v 1.16 2009/03/03 17:30:53 revo Exp $">
+<art mrk="$Id: kolone.xml,v 1.22 2023/09/01 15:46:40 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kolonel</rad>/o
@@ -33,12 +32,17 @@
   <trd lng="fr">colonel</trd>
   <trd lng="hu">ezredes</trd>
   <trd lng="it">colonnello</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5927;&#x4F50;  [<ind>&#x305F;&#x3044;&#x3055;</ind>]</trd>,
+    <trd>&#x9023;&#x968A;&#x9577;  [<ind>&#x308C;&#x3093;&#x305F;&#x3044;&#x3061;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">kolonel</trd>
   <trd lng="pl">pu&lstroke;kownik</trd>
   <trd lng="pt">coronel</trd>
   <trd lng="ro">colonel</trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_k;&c_o;&c_v;&c_n;&c_i;&c_k;</trd>
   <trd lng="sk">plukovn&iacute;k</trd>
+  <trd lng="uk">&#x43F;&#x43E;&#x43B;&#x43A;&#x43E;&#x432;&#x43D;&#x438;&#x43A;</trd>
 </drv>
 
 <drv mrk="kolone.sub0o">
@@ -61,12 +65,14 @@
   <trd lng="fr">lieutenant-colonel</trd>
   <trd lng="hu">alezredes</trd>
   <trd lng="it">tenente colonnello</trd>
+  <trd lng="ja">&#x4E2D;&#x4F50;  [<ind>&#x3061;&#x3085;&#x3046;&#x3055;</ind>]</trd>
   <trd lng="nl">luitenant-kolonel</trd>
   <trd lng="pl">podpu&lstroke;kownik</trd>     
   <trd lng="ro">locotenent-colonel</trd>
   <trd lng="ru">
 &c_p;&c_o;&c_d;&c_p;&c_o;&c_l;&c_k;&c_o;&c_v;&c_n;&c_i;&c_k;</trd>
   <trd lng="sk">podplukovn&iacute;k</trd>
+  <trd lng="uk">&#x43F;&#x456;&#x434;&#x43F;&#x43E;&#x43B;&#x43A;&#x43E;&#x432;&#x43D;&#x438;&#x43A;</trd>
 </drv>
 </art>
 <!--

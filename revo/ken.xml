@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: ken.xml,v 1.19 2009/07/01 17:22:19 revo Exp $">
+  <art mrk="$Id: ken.xml,v 1.27 2023/09/01 15:07:02 revo Exp $">
     <kap>
       <ofc>*</ofc>
       <rad>ken</rad>/o
@@ -25,11 +24,17 @@
             tra la dormo li a&ubreve;dis, kiel la maljuna mastrino forigis
             de la fenestroj lignajn &jcirc;aluziojn, kiel &scirc;i per <tld/>oj
             bruligis la samovaron
-     <fnt><bib>Metrop</bib></fnt>.
+            <fnt><bib>Metrop</bib></fnt>.
           </ekz>
         </dif>
         <trd lng="be">&c_l;&c_u;&c_ch;&c_y;&c_n;&c_a;</trd>
+        <trdgrp lng="de">
+              <trd>Kien</trd>,
+              <trd>Kienspan</trd>
+        </trdgrp>
+        <trd lng="en">fatwood</trd>
         <trd lng="es">antorcha</trd>
+        <trd lng="fr">bois gras</trd>
         <trdgrp lng="hu">
           <trd>fokla</trd>,
           <trd>vil&aacute;g&iacute;t&oacute;szil&aacute;nk</trd>
@@ -37,6 +42,7 @@
         <trd lng="nl">kien</trd>
         <trd lng="pl">&lstroke;uczywo</trd>
         <trd lng="ru">&c_l;&c_u;&c_ch;&c_i;&c_n;&c_a;</trd>
+        <trd lng="sv">tj&auml;rved</trd>
       </snc>
 
       <snc mrk="ken.0o.PV">
@@ -48,6 +54,9 @@
         </dif>                             
         <trd lng="be">&c_s;&c_m;&c_a;&c_l;&c_ja;&c_k;</trd>
         <trd lng="br">koad rousinek</trd>
+        <trdgrp lng="de">
+              <trd>Kienholz</trd>
+        </trdgrp>
         <trd lng="en">resinous wood</trd>
         <trd lng="es">madera resinosa</trd>
         <trd lng="fr">bois r&eacute;sineux</trd>
@@ -66,15 +75,31 @@
   <trdgrp lng="de">
         <trd>Kien</trd>,
         <trd>Kienholz</trd>
-      </trdgrp>
+  </trdgrp>
+  <trd lng="ja">&#x6A39;&#x8102;&#x6750;  [<ind>&#x3058;&#x3085;&#x3057;&#x3056;&#x3044;</ind>]</trd>
   <trdgrp lng="sk">
     <trd>l&uacute;&ccaron;</trd>,
     <trd>smolienka</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_s;&#x43A;&c_ib;&#x43F;&c_a;</trd>,
+    <trd>&c_s;&#x43A;&c_ib;&#x43F;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&#x43A;&c_a;&#x43B;&#x43A;&c_a;</trd>,
+    <trd>&#x43B;&c_u;&c_ch;&c_i;&#x43D;&c_a;</trd>
   </trdgrp>
 </drv>
   </art>
   <!--
   $Log$
+versio 1.26 2022/10/30 15:34:29
+Ulrich Fellmann: keno: distribuo de la 2 DE trdj al la du subsignifoj
+
+versio 1.24 2021/03/27 08:58:01
+Wolfram Diestel: trd sv
+
+versio 1.23 2020/11/10 14:11:13
+Wolfram Diestel: +trd en, fr
+
   Revision 1.21  2015/07/04 08:37:37  revo
   aldono de trd cs per skripto de M. von Laer
 
@@ -88,43 +113,5 @@
   Jozefo Horvath: +trd hu
 
   Revision 1.17  2005/04/30 16:31:34  revo
-  Alan ar Gall: +trd br
-
-  Revision 1.16  2005/01/18 17:31:03  revo
-  Marc Bavant: sxovis trd en,fr,hu,nl al snc 2
-
-  Revision 1.15  2005/01/17 17:32:14  revo
-  Vito Redsky: korekto trd pl i=y
-
-  Revision 1.14  2005/01/15 17:32:19  revo
-  Sergio Pokrovskij: -rim, -adm
-
-  Revision 1.13  2005/01/14 17:31:02  revo
-  Marc Bavant: +adm
-
-  Revision 1.12  2005/01/13 18:39:29  revo
-  Sergio Pokrovskij: reverkita
-
-  Revision 1.11  2004/11/18 17:32:16  revo
-  Dmitri Gabinski: +trd be
-
-  Revision 1.10  2004/03/19 17:30:38  revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.9  2003/09/10 16:31:13  revo
-  Philippe Combot: + trd fr
-
-  Revision 1.8  2003/09/01 16:31:28  revo
-  Yury Finkel: +trd ru
-
-  Revision 1.7 2001/10/23 18:31:18 revo
-  Ulrich Fellmann: + 2 germ trd
-
-  Revision 1.6 2001/02/18 17:13:08 revo
-  Paul Peeraerts: ald nl trd
-
-  Revision 1.5 2001/02/12 17:11:06 revo
-  Karlo Freeman: +trd=en
-
-  -->
+-->
 </vortaro>

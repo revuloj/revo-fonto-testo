@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-  <art mrk="$Id: nokt.xml,v 1.43 2010/07/19 16:30:37 revo Exp $">
+  <art mrk="$Id: nokt.xml,v 1.144 2023/09/04 06:28:37 revo Exp $">
     <kap><ofc>*</ofc>
       <rad>nokt</rad>/o
     </kap>
-      
+
 <drv mrk="nokt.0o">
   <kap><ofc>*</ofc><tld/>o</kap>
   <snc mrk="nokt.0o.KAL">
@@ -19,7 +18,8 @@
         <fnt><bib>F</bib>, <lok>&FE; 10</lok></fnt>;
       </ekz>
       <ekz>
-        la <tld/>o estis tiel malluma, ke ni nenion povis vidi e&ccirc; anta&ubreve; nia nazo
+        la <tld/>o estis tiel malluma, ke ni nenion povis vidi e&ccirc; anta&ubreve;
+        nia nazo
         <fnt>
           <bib>F</bib>
           <lok>&FE; 33</lok>
@@ -32,8 +32,9 @@
         </fnt>;
       </ekz>
       <ekz>
-        dek horojn en la tago &scirc;i kudradis, na&ubreve; horojn en la <tld/>o &scirc;i skribadis, 
-        unu horon &scirc;i pasigadis en interparolado kun la infano, kvar horojn &scirc;i dormadis
+        dek horojn en la tago &scirc;i kudradis, na&ubreve; horojn en la <tld/>o &scirc;i
+        skribadis, unu horon &scirc;i pasigadis en interparolado kun la infano, kvar
+        horojn &scirc;i dormadis
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -149,7 +150,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        Mil kaj unu <tld/>oj &dash; la fama kolekto de arabaj fabeloj
+        Mil kaj unu <tld/>oj &ndash; la fama kolekto de arabaj fabeloj
         <fnt>
           <bib>ElektFab</bib>
           <lok>Anta&ubreve;parolo de la tradukinto</lok>
@@ -182,12 +183,22 @@
         </fnt>;
       </ekz>
       <ekz>
-        <tld/>on post <tld/>o <klr>[li]</klr> laboradis sub la lampo pacience
+        <tld/>on post <tld/>o <klr>[li]</klr> laboradis sub la lampo
+        pacience
         <fnt>
           <bib>VivZam</bib>
         </fnt>.
       </ekz>
     </dif>
+    <rim>
+      Atentu, ke la&ubreve; kulturo kaj geografia situo la longeco de <tld/>o povas esti
+      diversa: en iuj kulturoj oni ekzemple inkluzivas la vesperon; &ccirc;e la polusoj,
+      la polusa <tld/>o da&ubreve;ras ses monatojn. Kiam la taga ritmo ne plu koincidas
+      kun la suna ritmo pro proksimeco al la polusoj, oni nomas <tld/>o la tempon,
+      kiam homoj kutime dormas. En polusproksima somero la tiel nomataj blankaj <tld/>oj estas
+      grandparte helaj.
+      <aut>Wolfram Diestel</aut>
+    </rim>
   </snc>
   <snc mrk="nokt.0o.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -224,14 +235,24 @@
       <trd>Dunkelheit</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">nag</trd>
+  <trd lng="am">&#4616;&#4618;&#4725;</trd>
+  <trd lng="ar">&a_A;&a_l;&a_l;&a_y;&a_l;</trd>
+  <trd lng="az">gec&#601;</trd>
   <trd lng="be">&c_n;&c_o;&c_ch;</trd>
   <trd lng="bg">&c_n;&c_o;&c_shch;</trd>
+  <trd lng="bn">&#2480;&#2494;&#2468;</trd>
+  <trd lng="bo">&t_ma;&t_tsha;&t_na;&t_tsheg;</trd>
   <trdgrp lng="br">
     <trd>noz</trd>,
     <trd>nozvezh</trd>
   </trdgrp>
+  <trd lng="bs">no&cacute;</trd>
   <trd lng="ca">nit</trd>
+  <trd lng="co">notte</trd>
   <trd lng="cs">noc</trd>
+  <trd lng="cy">nos</trd>
+  <trd lng="da">nat</trd>
   <trd lng="de">Nacht</trd>
   <trdgrp lng="el">
     <trd>&ny;&ypsilon_ton;&kappa;&tau;&alfa;</trd>,
@@ -239,26 +260,92 @@
   </trdgrp>
   <trd lng="en">night</trd>
   <trd lng="es">noche</trd>
+  <trd lng="et">&ouml;&ouml;</trd>
+  <trd lng="eu">gauean</trd>
+  <trd lng="fa">&a_sh;&a_b;</trd>
   <trd lng="fr">nuit</trd>
+  <trd lng="fy">nacht</trd>
+  <trd lng="ga">o&iacute;che</trd>
+  <trd lng="gd">oidhche</trd>
+  <trd lng="gl">noite</trd>
+  <trd lng="gu">&#2736;&#2750;&#2724;</trd>
+  <trd lng="ha">dare</trd>
+  <trd lng="hi">&#2352;&#2366;&#2340;</trd>
+  <trd lng="hmn">hmo ntuj</trd>
+  <trd lng="hr">no&cacute;</trd>
+  <trd lng="ht">lannwit</trd>
   <trdgrp lng="hu">
     <trd>&eacute;j</trd>,
     <trd>&eacute;jjel</trd>,
     <trd>&eacute;jszaka</trd>
   </trdgrp>
+  <trd lng="hy">&#1379;&#1387;&#1399;&#1381;&#1408;</trd>
   <trd lng="id">malam</trd>
+  <trd lng="ig">abal&#7883;</trd>
+  <trd lng="is">n&oacute;tt</trd>
+  <trd lng="ja">&#22812; [<ind>&#12420;</ind>]</trd>
+  <trd lng="jv">wengi</trd>
+  <trd lng="ka">&#4326;&#4304;&#4315;&#4312;&#4321;</trd>
+  <trd lng="kk">&c_t;&#1199;&c_n;</trd>
+  <trd lng="km">&#6041;&#6036;&#6091;</trd>
+  <trd lng="kn">&#3248;&#3262;&#3236;&#3277;&#3248;&#3263;</trd>
+  <trd lng="ko">&#48164;</trd>
   <trd lng="ku">&scedil;ev</trd>
+  <trd lng="ky">&c_t;&#1199;&c_n;</trd>
+  <trd lng="lat">noctis</trd>
+  <trd lng="lo">&#3779;&#3737;&#3733;&#3757;&#3737;&#3713;&#3762;&#3719;&#3716;&#3767;&#3737;</trd>
+  <trd lng="lt">naktis</trd>
+  <trd lng="lv">nakts</trd>
+  <trd lng="mg">alina</trd>
+  <trd lng="mi">te po</trd>
+  <trd lng="mk">&c_n;&c_o;&#1116;</trd>
+  <trd lng="ml">&#3376;&#3390;&#3364;&#3405;&#3376;&#3391;</trd>
+  <trd lng="mn">&c_sh;&#1257;&c_n;&#1257;</trd>
+  <trd lng="mr">&#2352;&#2366;&#2340;&#2381;&#2352;&#2368;</trd>
+  <trd lng="ms">malam</trd>
+  <trd lng="mt">lejl</trd>
+  <trd lng="my">&#4106;</trd>
+  <trd lng="ne">&#2352;&#2366;&#2340;</trd>
   <trd lng="nl">nacht</trd>
+  <trd lng="ny">usiku</trd>
+  <trd lng="pa">&#2608;&#2622;&#2596; &#2600;&#2626;&#2672;</trd>
   <trd lng="pl">noc</trd>
+  <trd lng="ps">&a_sh;&f_p;&a_h;</trd>
   <trd lng="pt">noite</trd>
   <trd lng="ro">noapte</trd>
   <trd lng="ru">&c_n;&c_o;&c_ch;&c_mol;</trd>
+  <trd lng="rw">ijoro</trd>
+  <trd lng="sd">&a_r;&a_A;&a_t;</trd>
+  <trd lng="si">&#3515;&#3535;&#3501;&#3530;&#3515;&#3539;</trd>
   <trd lng="sk">noc</trd>
+  <trd lng="sl">no&ccaron;</trd>
+  <trd lng="sm">po</trd>
+  <trd lng="sn">husiku</trd>
+  <trd lng="so">habeen</trd>
+  <trd lng="sq">nat&euml;n</trd>
+  <trd lng="st">bosiu</trd>
+  <trd lng="su">wengi</trd>
   <trd lng="sv">natt</trd>
+  <trd lng="sw">usiku</trd>
+  <trd lng="ta">&#2951;&#2992;&#2997;&#3009;</trd>
+  <trd lng="te">&#3120;&#3134;&#3108;&#3149;&#3120;&#3135;</trd>
+  <trd lng="tg">&c_sh;&c_a;&c_b;</trd>
+  <trd lng="th">&#3588;&#3639;&#3609;</trd>
+  <trd lng="tl">gabi</trd>
   <trd lng="tr">gece</trd>
+  <trd lng="tt">&c_t;&#1257;&c_n;</trd>
+  <trd lng="uk">&c_n;&c_ib;&c_ch;</trd>
+  <trd lng="ur">&a_r;&a_A;&a_t;</trd>
+  <trd lng="uz">tun</trd>
+  <trd lng="vi">&#273;&ecirc;m</trd>
+  <trd lng="xh">busuku</trd>
+  <trd lng="yi">&nun;&alef;&#1463;&kaf;&tet;</trd>
+  <trd lng="yo">al&#7865;</trd>
   <trdgrp lng="zh">
     <trd>&#22812;<klr> [y&egrave;]</klr></trd>,
-    <trd>&#23477;<klr> [xi&#257;o]</klr></trd>
+    <trd>&#23477;<klr> [xi&amacron;o]</klr></trd>
   </trdgrp>
+  <trd lng="zu">ebusuku</trd>
 </drv>
 
 <drv mrk="nokt.0e">
@@ -281,7 +368,9 @@
         </fnt>;
       </ekz>
       <ekz>
-        levi&gcirc;is kontra&ubreve; min la lo&gcirc;antoj de Gibea, kaj &ccirc;irka&ubreve;is pro mi la domon <tld/>e
+        levi&gcirc;is kontra&ubreve; min la lo&gcirc;antoj de <nom>Gibea</nom>, kaj &ccirc;irka&ubreve;is pro
+        mi la
+        domon <tld/>e
         <fnt>
           <bib>MT</bib>
           <lok>Ju&gcirc;istoj 20:5</lok>
@@ -325,7 +414,7 @@
       <ekz>
         anta&ubreve; ili tage kaj <tld/>e brulas seninterrompe dekoj kaj
         centoj da multekostaj lampionoj
-        <fnt><bib>&Ccirc;uk&ccirc;oj</bib>, 
+        <fnt><bib>&Ccirc;uk&ccirc;oj</bib>,
           <lok>blindaj &ccirc;uk&ccirc;oj, (du skizoj), unua
             skizo, Filip Onkudimov, 1</lok></fnt>;
       </ekz>
@@ -350,6 +439,7 @@
     <trd>&c_u;&c_n;&c_a;&c_ch;&c_y;</trd>,
     <trd>&c_n;&c_o;&c_ch;&c_ch;&c_u;</trd>
   </trdgrp>
+  <trd lng="bo">&t_da;&t_naro;&t_tsheg;&t_da;&t_ga;&t_naro;&t_nga;&t_tsheg;</trd>
   <trd lng="br">diouzh an <ind>noz</ind></trd>
   <trdgrp lng="ca">
     <trd>de <ind>nit</ind></trd>,
@@ -370,6 +460,10 @@
     <trd>&eacute;jjel</trd>,
     <trd>&eacute;jszaka</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#22812;&#12395;  [<ind>&#12424;&#12395;</ind>]</trd>,
+    <trd>&#22812;&#38291;&#12395;  [<ind>&#12420;&#12363;&#12435;&#12395;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">'s <ind>nachts</ind></trd>
   <trd lng="pl">noc&aogonek;</trd>
   <trdgrp lng="pt">
@@ -381,6 +475,7 @@
   <trd lng="sk">v noci</trd>
   <trd lng="sv">p&aring; <ind>natten</ind></trd>
   <trd lng="tr">geceleyin</trd>
+  <trd lng="uk">&c_u;&c_n;&c_o;&c_ch;&c_ib;</trd>
 </drv>
 
 <drv mrk="nokt.0i">
@@ -388,12 +483,24 @@
   <snc mrk="nokt.0i.mallumi">
     <gra>sensubjekta</gra>
     <dif>
-      Esti tempo de <tld/>o.
+      Esti tempo de <tld/>o:
+      <ekz>
+        mi ekveturas vespere dum jam <tld/>as
+        <fnt>
+          <vrk><url ref="http://horizonte.free.fr/rakontoj/cirilo/07-nokte.html">Nokte</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        atendas min esperantista gastiganto dum jam <tld/>as
+        <fnt>
+          <vrk><url ref="http://horizonte.free.fr/eventoj/bs/bs-2005-cirilo.html">Bordozo</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <trd lng="br">beza&ntilde; <ind>noz</ind></trd>
     <trd lng="ca">ser de <ind>nit</ind></trd>
     <trd lng="en">it's <ind>night</ind> out</trd>
-    <trd lng="de">Nacht sein</trd>
+    <trd lng="de"><ind>Nacht</ind> sein</trd>
     <trd lng="es">ser de <ind>noche</ind></trd>
     <trd lng="fr">faire <ind>nuit</ind></trd>
     <trdgrp lng="hu">
@@ -401,22 +508,25 @@
       <trd>&eacute;jszaka van</trd>
     </trdgrp>
     <trd lng="nl">nacht zijn</trd>
+    <trd lng="pl">sta&cacute; si&eogonek;  <ind>noc&aogonek;</ind></trd>
     <trdgrp lng="pt">
        <trd>ser <ind>noite</ind></trd>,
        <trd>ser de <ind>noite</ind></trd>
     </trdgrp>
+    <trd lng="ro">s&abreve; devin&abreve;  <ind>noapte</ind></trd>
   </snc>
   <snc mrk="nokt.0i.tranokti">
     <uzo tip="stl">ARK</uzo>
     <dif>
       <ref tip="sin" cel="nokt.tra0i">Tra<tld/>i</ref>:
       <ekz>
-        en la vojo fari&gcirc;is nokto, kaj ili restis sur 
+        en la vojo fari&gcirc;is nokto, kaj ili restis sur
         la kampo <tld/>i
         <fnt><bib>FK</bib>, <lok>3, anekdotoj</lok></fnt>;
       </ekz>
       <ekz>
-        la komercistoj kaj vendistoj de &ccirc;iaspeca vendebla&jcirc;o <tld/>is ekstere de Jerusalem
+        la komercistoj kaj vendistoj de &ccirc;iaspeca vendebla&jcirc;o <tld/>is
+        ekstere de <nom>Jerusalem</nom>
         <fnt>
           <bib>MT</bib>
           <lok>Ne&hcirc;emja 13:20</lok>
@@ -430,23 +540,28 @@
         </fnt>;
       </ekz>
       <ekz>
-        &ccirc;u bubalo volos servi al vi, &ccirc;u &gcirc;i volos <tld/>i &ccirc;e via man&gcirc;ujo?  
+        &ccirc;u bubalo volos servi al vi, &ccirc;u &gcirc;i volos <tld/>i &ccirc;e via
+        man&gcirc;ujo
         <fnt>
           <bib>MT</bib>
           <lok>Ijob 39:9</lok>
-        </fnt>
+        </fnt>?
       </ekz>
     </dif>
-    <trd lng="de">n&auml;chtigen</trd>
+    <trdgrp lng="de">
+      <trd>n&auml;chtigen</trd>,
+      <trd>&uuml;bernachten</trd>
+    </trdgrp>
     <trd lng="nl">overnachten<klr tip="ind"> (ontr.)</klr></trd>
   </snc>
   <trdgrp lng="cs">
     <trd>nocovat</trd>,
     <trd>p&rcaron;enocovat</trd>
   </trdgrp>
-  <trd lng="de">&uuml;bernachten</trd>
+  <trd lng="ja">&#22812;&#12434;&#36942;&#12372;&#12377;  [<ind>&#12424;&#12434;&#12377;&#12372;&#12377;</ind>]</trd>
   <trd lng="pt">passar a <ind>noite</ind></trd>
   <trd lng="sk">prenocova&tcaron;</trd>
+  <trd lng="uk">&c_n;&c_o;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="nokt.0igxi">
@@ -478,7 +593,7 @@
     <trd>fer-se de <ind>nit</ind></trd>,
     <trd>negrejar</trd>
   </trdgrp>
-  <trd lng="de">Nacht werden</trd>
+  <trd lng="de"><ind>Nacht</ind> werden</trd>
   <trd lng="el">&ny;&ypsilon;&chi;&tau;&omega_ton;&ny;&epsilon;&jota;</trd>
   <trd lng="en">night is falling</trd>
   <trd lng="es">anochecer</trd>
@@ -487,14 +602,18 @@
     <trd>lesz&aacute;ll az <ind>&eacute;j</ind></trd>,
     <trd>&eacute;jszaka lesz</trd>
   </trdgrp>
+  <trd lng="ja">&#22812;&#12395;&#12394;&#12427;  [<ind>&#12424;&#12395;&#12394;&#12427;</ind>]</trd>
+  <trd lng="kek">aak&#789;ab&#789;irk</trd>
   <trd lng="nl">nacht worden</trd>
   <trd lng="pl">&sacute;ciemnia&cacute; si&eogonek;</trd>
   <trd lng="pt">anoitecer</trd>
-  <trd lng="kek">aak&#789;ab&#789;irk</trd>
+  <trd lng="ro">&icirc;ntunecat&abreve;</trd>
 </drv>
 
 <drv mrk="nokt.tra0i">
-  <kap>tra<tld/>i</kap>
+  <kap>tra<tld/>i,
+    <var><kap><tld/>umi</kap></var>
+  </kap>
   <gra><vspec>ntr</vspec></gra>
   <snc>
     <dif>
@@ -521,22 +640,38 @@
         </fnt>;
       </ekz>
       <ekz>
-        mia amiko kaj mi tra<tld/>is en hamakoj, ligitaj inter arbotrunkoj
+        du migraj komizoj <klr>[&#8230;]</klr> devas <tld/>umi en la sama hotelo <klr>[&#8230;]</klr>
         <fnt>
+          <bib>KrB</bib>
+          <lok>En fremdan vazon ne &scirc;ovu la nazon</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu delira konstrua&jcirc;o de Herodo <klr>[&#8230;]</klr> min frenezigas, mi ne povas en &gcirc;i
+        <tld/>umi
+        <fnt>
+          <bib>MkM</bib>
+          <lok>25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mia amiko kaj mi tra<tld/>is en hamakoj, ligitaj inter
+        arbotrunkoj
+        <fnt>
+       <aut>Werner Schad</aut>
+          <vrk><url ref="&Monato;/2000/006868.php">Inter maro kaj arbarego</url></vrk>
           <bib>Monato</bib>
-          <aut>Werner Schad</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006868.html">Venezuelo:
-           Inter maro kaj arbarego</url></vrk>
+          <lok>2000/05, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
         tra<tld/>i en polica arestejo
         <fnt>
-          <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007154.html">Finfine 
-           oni povas dibo&ccirc;i sen pento</url></vrk>
-        </fnt>.
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007154.php">Finfine oni povas dibo&ccirc;i sen pento</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 30</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -558,6 +693,7 @@
     <trd>pernoctar</trd>,
     <trd>trasnochar</trd>
   </trdgrp>
+  <trd lng="fa">&a_sh;&a_b; &a_r;&a_A; &a_s;&f_p;&a_r;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
   <trd lng="fr"><ind>passer</ind> la <ind>nuit</ind></trd>
   <trdgrp lng="hu">
     <trd>megsz&aacute;ll &eacute;jszak&aacute;ra</trd>,
@@ -565,18 +701,91 @@
     <trd>megh&aacute;l</trd>
   </trdgrp>
   <trdgrp lng="id">
-    <trd>[<ind>inap</ind>] menginap</trd>,
-    <trd>[<ind>malam</ind>] bermalam</trd>
+    <trd>meng<ind>inap</ind></trd>,
+    <trd>ber<ind>malam</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#23487;&#27850;&#12377;&#12427;  [<ind>&#12375;&#12421;&#12367;&#12399;&#12367;&#12377;&#12427;</ind>]</trd>,
+    <trd>&#22812;&#12434;&#36942;&#12372;&#12377;  [<ind>&#12424;&#12434;&#12377;&#12372;&#12377;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">overnachten</trd>
   <trd lng="pl">przenocowa&cacute;</trd>
   <trd lng="pt">pernoitar</trd>
+  <trdgrp lng="ro">
+    <trd>mut&abreve;</trd>,
+    <trd>&icirc;nnopta</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_n;&c_o;&c_ch;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_n;&c_o;&c_ch;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">prespa&tcaron;</trd>
   <trd lng="tr">geceyi ge&ccedil;irmek</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_n;&c_o;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
+    <trd>&c_n;&c_o;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nokt.tra0ejo">
+  <kap>
+    tra<tld/>ejo
+  </kap>
+  <snc>
+    <dif>
+      Loko, kie oni povas tra<tld/>i:
+      <ekz>
+        <klr>[ili &ccirc;i tie]</klr> gastigemaj kaj espereble mi sukcesos akiri tra<tld/>ejon
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sesa &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la katolika eklezio prizorgas la manifestaciantojn, kaj kelkaj akceptis lo&gcirc;i en
+        provizoraj tra<tld/>ejoj
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Walter Klag</aut>
+          <vrk><url ref="&Monato;/2013/010993.php">Pre&gcirc;ejo rifu&gcirc;ejo</url></vrk>
+          <lok>2013</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vizito de la lernejoj kaj ties tra<tld/>ejoj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2002, &#8470; 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        facile oni trovos senpagan tra<tld/>ejon &ccirc;e esperantistoj de Francio
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2003, &#8470; 4 (102)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="gast.0ejo">gastejo</ref>,
+      <ref cel="hotel.0o">hotelo</ref>,
+      <ref cel="kamp.0adejo">kampadejo</ref>,
+      <ref cel="kvartir.0o">kvartiro</ref>,
+      <ref cel="pensio.0o.gastejo">pensiono<sncref/></ref>,
+      <ref cel="tend.0umejo">tendumejo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Unterkunft</trd>,
+    <trd>&Uuml;bernachtungsm&ouml;glichkeit</trd>
+  </trdgrp>
+  <trd lng="en">accomodation</trd>
+  <trd lng="fr">h&eacute;bergement</trd>
+  <trd lng="ja">&#23487;&#27850;&#25152;  [<ind>&#12375;&#12421;&#12367;&#12399;&#12367;&#12376;&#12423;</ind>]</trd>
+  <trdgrp lng="nl">
+    <trd>onderdak</trd>,
+    <trd>ovdernachtingsmogelijkheid</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nokt.tag0o">
@@ -594,19 +803,23 @@
         </fnt>;
       </ekz>
       <ekz>
-        la kvarpiedulo estis &scirc;losita sen nutra&jcirc;o kaj akvo dum 17 tag<tld/>oj kaj tamen restis viva
+        la kvarpiedulo estis &scirc;losita sen nutra&jcirc;o kaj akvo dum 17
+        tag<tld/>oj kaj tamen restis viva
         <fnt>
           <bib>Monato</bib>
           <aut>AMik</aut>
-          <vrk><url ref="&Monato;/2007/009134.php">Delikate ...</url></vrk>
+          <vrk><url ref="&Monato;/2007/009134.php">Delikate
+          ...</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        tri tag<tld/>ojn oni bezonis, &gcirc;is finfine la aviadilon oni trovis
+        tri tag<tld/>ojn oni bezonis, &gcirc;is finfine la aviadilon oni
+        trovis
         <fnt>
           <bib>Monato</bib>
           <aut>last</aut>
-          <vrk><url ref="&Monato;/2015/011535.php">Malsukcesa aviado</url></vrk>
+          <vrk><url ref="&Monato;/2015/011535.php">Malsukcesa
+          aviado</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -618,6 +831,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <ref tip="lst" lst="voko:da&ubreve;roj" cel="dauxr.0o">da&ubreve;ro</ref>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_t;&c_k;&c_ib;</trd>
   <trd lng="br">deiz<klr tip="ind"> (24 eur)</klr></trd>
@@ -626,8 +840,9 @@
     <trd>dia sencer</trd>
   </trdgrp>
   <trd lng="cs">den = 24 hod.</trd>
-  <trd lng="de">Tag<klr tip="ind"> (Zeitraum von 24 Stunden)</klr></trd>
+  <trd lng="de">Tag<klr tip="ind"> (24 Stunden)</klr></trd>
   <trd lng="en"><klr>(24-hour) </klr>day</trd>
+  <trd lng="fa">&a_sh;&a_b;&a_A;&a_n;&a_h;&zwnj;&a_r;&a_w;&a_z;</trd>
   <trdgrp lng="fr">
     <trd>jour<klr tip="ind"> (24 heures)</klr></trd>,
     <trd>nycth&eacute;m&egrave;re</trd>
@@ -635,6 +850,10 @@
   <trdgrp lng="hu">
     <trd>nap&eacute;j</trd>,
     <trd>&eacute;jjel &eacute;s nappal</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#19968;&#26172;&#22812;  [<ind>&#12356;&#12387;&#12385;&#12421;&#12358;&#12420;</ind>]</trd>,
+    <trd>&#20024;&#19968;&#26085;  [<ind>&#12414;&#12427;&#12356;&#12385;&#12395;&#12385;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">etmaal</trd>
   <trd lng="pl">doba</trd>
@@ -650,6 +869,7 @@
   <trd lng="sk">de&ncaron; = 24 hod&iacute;n</trd>
   <trd lng="sv">dygn</trd>
   <trd lng="tr">g&uuml;n<klr>(24 saat)</klr></trd>
+  <trd lng="uk">&c_d;&c_o;&c_b;&c_a;</trd>
 </drv>
 
 <drv mrk="nokt.0mezo">
@@ -658,9 +878,10 @@
   </kap>
   <snc>
     <dif>
-      La mezo inter sunsubiro kaj sunlevi&gcirc;o, je la nula <klr>(dudek kvara)</klr> horo:
+      La mezo inter sunsubiro kaj sunlevi&gcirc;o, je la nula <klr>(dudek
+      kvara)</klr> horo:
       <ekz>
-        &Scirc;im&scirc;on ku&scirc;is &gcirc;is <tld/>omezo, je <tld/>omezo li levi&gcirc;is
+        <nom>&Scirc;im&scirc;on</nom> ku&scirc;is &gcirc;is <tld/>omezo, je <tld/>omezo li levi&gcirc;is
         <fnt>
           <bib>MT</bib>
           <lok>Ju&gcirc;istoj 16:3</lok>
@@ -674,14 +895,16 @@
         </fnt>;
       </ekz>
       <ekz>
-        ne estas ankora&ubreve; <tld/>omezo, respondis la knabino, sed jam pasis la dek unua horo
+        ne estas ankora&ubreve; <tld/>omezo, respondis la knabino, sed jam
+        pasis la dek unua horo
         <fnt>
           <bib>ElektFab</bib>
           <lok>Pa&scirc;tistino de anseroj apud puto</lok>
         </fnt>;
       </ekz>
       <ekz>
-        je <tld/>omezo oni okazigis artfajra&jcirc;on, kia &gcirc;i <klr>[&#8230;]</klr> estis ankora&ubreve; neniam vidita
+        je <tld/>omezo oni okazigis artfajra&jcirc;on, kia &gcirc;i <klr>[&#8230;]</klr>
+        estis ankora&ubreve; neniam vidita
         <fnt>
           <aut>Michael Ende, trad. Wolfram Diestel</aut>
           <vrk>La Sen&ccirc;esa Rakonto</vrk>
@@ -692,103 +915,61 @@
   </snc>
   <trd lng="de">Mitternacht</trd>
   <trd lng="en">midnight</trd>
+  <trd lng="fa">&a_n;&f_y;&a_m;&a_h;&zwnj;&a_sh;&a_b;</trd>
+  <trd lng="fr">minuit</trd>
+  <trd lng="nl">middernacht</trd>
+  <trd lng="pl">p&oacute;&lstroke;noc <klr tip="amb">(godzina)</klr></trd>
+  <trd lng="ro">miezul <ind>nop&#539;ii</ind></trd>
 </drv>
 
-
+<drv mrk="nokt.blankaj_0oj">
+  <kap>
+    blankaj <tld/>oj
+  </kap>
+  <snc>
+    <dif>
+      La someraj <tld/>oj okazantaj inter poluso kaj 56&deg; latitudo, kiam la suno nur
+      mallonge a&ubreve; e&ccirc; tute ne malaperas sub la horizonton:
+      <ekz>
+        por sude&ubreve;ropano la plej speciala sensacio estas la helaj, blankaj <tld/>oj de la
+        nordo
+        <fnt>
+          <bib>KKr</bib>
+          <lok>II</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Wei&szlig;e N&auml;chte</trd>
+  <trd lng="en">white nights</trd>
+  <trd lng="fr">nuit blanche</trd>
+  <trd lng="ru">&c_b;&c_je;&c_l;&c_y;&c_je; &c_n;&c_o;&c_ch;&c_i;</trd>
+</drv>
 
   </art>
   <!--
   $Log$
-  Revision 1.52  2018/05/13 14:10:15  revo
-  Jeromo Vasxe: + tag*o*~o
+versio 1.144 2023/09/04 06:28:37
+Wolfram Diestel: +rim, blankaj ~oj
 
-  Revision 1.51  2018/01/12 20:10:13  revo
-  Wolfram Diestel: prilaboris ekz-ojn, +~omezo
+versio 1.142 2023/08/29 20:27:45
+Wolfram Diestel: ja: prononco
 
-  Revision 1.50  2015/12/25 06:10:14  revo
-  Alain Gerard: +trd fr
+versio 1.141 2023/07/02 18:32:16
+Wolfram Diestel: +lst-ref
 
-  Revision 1.49  2015/07/04 08:37:40  revo
-  aldono de trd cs per skripto de M. von Laer
+versio 1.140 2023/05/01 06:31:52
+Paul Peeraerts: Steloj -> monato
 
-  Revision 1.48  2015/06/29 16:33:21  revo
-  aldono de trd sk per skripto de M. von Laer
+versio 1.139 2023/04/25 06:32:28
+Paul Peeraerts: @Steloj -> @Monato
 
-  Revision 1.47  2014/08/10 01:10:10  revo
-  Carlos Garcia: +trd tra-i
+versio 1.138 2023/04/11 17:15:20
+aktualigo Monato-URL
 
-  Revision 1.46  2014/06/18 16:10:17  revo
-  Eko Nur Syah Hidayat: +id
+versio 1.137 2022/08/30 06:23:23
+Wolfram Diestel: +tra~ejo
 
-  Revision 1.45  2012/08/04 09:10:15  revo
-  Marc Rausell: + trd ca
-
-  Revision 1.44  2011/11/07 00:10:13  revo
-   Anchise Inzaghi: traduko q'eqchi'
-
-  Revision 1.43  2010/07/19 16:30:37  revo
-  Agustin Garcia Lopez: +trd es (tra - i)
-
-  Revision 1.42  2009/08/27 16:32:15  revo
-  Emmanuel Debanne: +trd ku
-
-  Revision 1.41  2009/08/26 16:31:51  revo
-  Emmanuel Debanne: +trd tr
-
-  Revision 1.40  2009/08/18 19:19:05  revo
-  Paul Peeraerts: +trd nl
-
-  Revision 1.39  2009/01/17 18:09:37  revo
-  Wieland Pusch: +korr zh
-
-  Revision 1.38  2009/01/08 17:30:21  revo
-  Wieland Pusch: +korr zh
-
-  Revision 1.37  2007/11/26 17:30:21  revo
-  Wieland Pusch: +trd bg
-
-  Revision 1.36  2007/09/24 16:30:29  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.35  2006/09/03 19:15:13  revo
-  Wieland Pusch: +trd de
-
-  Revision 1.34  2006/07/20 19:40:40  revo
-  Tulio Flores: +tr pt
-
-  Revision 1.33  2006/07/02 16:31:21  revo
-  Tulio Flores: +tr pt
-  Revision 1.32  2006/04/20 19:24:13  revo
-  Vito Redsky: +trd ro
-  Revision 1.31  2006/03/08 17:32:25  revo
-  Vito Redsky: +trd pl +trd ro
-  Revision 1.30  2005/06/15 16:32:42  revo
-  Alan ar Gall: +trd br
-  Revision 1.29  2005/03/20 17:50:32  revo
-  Raul Salinas Monteagudo: +trd es
-  Revision 1.28  2005/02/05 17:31:20  revo
-  Sergio Pokrovskij: TEZ
-  Revision 1.27  2005/01/25 17:31:31  revo
-  Alejandro Mejia Greene: Ald 1 his trd
-  Revision 1.26  2005/01/23 17:32:09  revo
-  Paul Peeraerts: ald pliajn trd nl
-
-  Revision 1.25 2005/01/13 18:38:41 revo
-  Wieland Pusch: +trd de
-
-  Revision 1.24 2004/10/31 17:31:47 revo
-  Jeromo Vasxe: - tag~egaleco jam en egal.xml, ~as -> ~i ~igxas ->
-  ~igxi, +
-  ekz
-
-  Revision 1.23 2004/10/07 16:31:59 revo
-  Jean Hennebert: +6 trd fr
-
-  Revision 1.22 2004/06/22 16:30:09 revo
-  Jozefo Horvath: +trd hu
-
-  Revision 1.21 2003/08/22 16:32:05 revo
-  Yury Finkel: +trd zh
-
-  -->
+versio 1.136 2022/05/12 18:38:11
+-->
 </vortaro>

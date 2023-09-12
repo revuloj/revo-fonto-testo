@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: dun.xml,v 1.19 2009/08/08 16:31:55 revo Exp $">
+<art mrk="$Id: dun.xml,v 1.25 2023/08/31 10:44:02 revo Exp $">
 <kap>
   <rad>dun</rad>/o
 </kap>
@@ -38,7 +37,7 @@
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ju;&c_n;&c_a;</trd>
   <trd lng="bg">&c_d;&c_ju;&c_n;&c_a;</trd>
-  <trd lng="cs">duna <klr>(písečná)</klr></trd>
+  <trd lng="cs">duna <klr>(p&#xED;se&#x10D;n&#xE1;)</klr></trd>
   <trd lng="de">D&uuml;ne</trd>
   <trd lng="en">dune</trd>
   <trd lng="es">duna</trd>
@@ -51,6 +50,7 @@
     <trd>d&udblac;ne</trd>,
     <trd>homokbucka</trd>
   </trdgrp>
+  <trd lng="ja">&#x7802;&#x4E18;  [<ind>&#x3055;&#x304D;&#x3085;&#x3046;</ind>]</trd>
   <trd lng="nl">duin</trd>
   <trdgrp lng="pl">
     <trd>wydma</trd>,
@@ -60,8 +60,9 @@
   <trd lng="ru">&c_d;&c_ju;&c_n;&c_a;</trd>
   <trdgrp lng="sk">
     <trd>duna</trd>,
-    <trd>pieskový násyp</trd>
+    <trd>pieskov&#xFD; n&#xE1;syp</trd>
   </trdgrp>
+  <trd lng="uk">&#x434;&#x44E;&#x43D;&#x430;</trd>
 </drv>
 
 <drv mrk="dun.negx0o">
@@ -83,9 +84,14 @@
     <trd>Schneebrett</trd>
   </trdgrp>
   <trd lng="fr">cong&egrave;re</trd>
+  <trd lng="he">&#x5D3;&#x5D9;&#x5D5;&#x5E0;&#x5EA; &#x5E9;&#x5DC;&#x5D2;</trd>
   <trd lng="hu">h&oacute;torlasz</trd>
   <trd lng="pl">zaspa</trd>
   <trd lng="ru">&c_s;&c_u;&c_g;&c_r;&c_o;&c_b;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x437;&#x430;&#x43C;&#x435;&#x442;</trd>,
+    <trd>&#x441;&#x43D;&#x456;&#x433;&#x43E;&#x432;&#x430; &#x43A;&#x443;&#x447;&#x443;&#x433;&#x443;&#x440;&#x430;</trd>
+  </trdgrp>
 </drv>
 
 </art>

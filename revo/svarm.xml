@@ -1,127 +1,77 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: svarm.xml,v 1.29 2023/09/04 15:14:34 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>svarm</rad>/i
 </kap>
-<drv mrk="svarm.0i">
-  <kap><tld/>i</kap>
-  <gra><vspec>ntr</vspec></gra>
-  <snc mrk="svarm.0i.KOMUNE">
-    <dif>
-      Moveti&gcirc;i kaj skueti&gcirc;i &ccirc;iuflanken pro amaseco da 
-      interpu&scirc;i&gcirc;antaj eroj:
-      <ekz>
-        sur placo <klr>...</klr> <tld/>is multe da homoj
-        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 17a</lok></fnt>;
-      </ekz>
-      <ekz>
-        multege da infanoj <tld/>as en la stratoj;
-      </ekz>
-      <ekz>
-        sur Nilo <tld/>is etaj &scirc;ipetoj
-        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 21a</lok></fnt>;
-      </ekz>
-      <ekz>
-        rajdantaro <tld/>is en polva nebulo<fnt>B</fnt>;
-      </ekz>
-      <ekz>
-        la rivero ek<tld/>os per ranoj<fnt>Z</fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <snc mrk="svarm.0i.FIG">
-    <uzo tip="stl">FIG</uzo>
-    <dif>
-      Esti tre multenombra:
-      <ekz>
-        <tld/>as gazetoj &ccirc;iuspecaj<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        la malregula&jcirc;oj <tld/>as en la naciaj lingvoj<fnt>Z</fnt>;
-      </ekz>
-      <ekz>
-        en la &ccirc;ielo <tld/>is la steloj<fnt>B</fnt>;
-      </ekz>
-      <ekz>
-        la rememoroj <tld/>as<fnt>Z</fnt>.
-      </ekz>
-    </dif>
-  </snc>
-  <trdgrp lng="be">
-    <trd>&c_k;&c_ib;&c_sh;&c_e;&c_c;&c_mol;</trd>,
-    <trd>&c_m;&c_ib;&c_t;&c_u;&c_s;&c_ib;&c_c;&c_c;&c_a;</trd>
-  </trdgrp>
-  <trdgrp lng="cs">
-    <trd>hem&zcaron;it se</trd>,
-    <trd>rojit se</trd>
-  </trdgrp>
-  <trdgrp lng="de">
-    <trd>schw&auml;rmen</trd>,
-    <trd>wimmeln</trd>
-  </trdgrp>
-  <trd lng="en">swarm</trd>
-  <trd lng="fr">grouiller</trd>
-  <trdgrp lng="hu">
-    <trd>ny&uuml;zs&ouml;g</trd>,
-    <trd>tolong</trd>,
-    <trd>rajzik</trd>
-  </trdgrp>
-  <trdgrp lng="it">
-    <trd>affollarsi</trd>,
-    <trd>pullulare</trd>,
-    <trd>brulicare</trd>
-  </trdgrp>
-  <trd lng="nl">zwermen</trd>
-  <trd lng="pl">roi&cacute;<klr> si&eogonek;</klr></trd>
-  <trdgrp lng="pt">
-    <trd>enxamear</trd>,
-    <trd>pulular</trd>,
-    <trd>formigar</trd>
-  </trdgrp>
-  <trd lng="ru">&c_k;&c_i;&c_sh;&c_je;&c_t;&c_mol;</trd>
-  <trdgrp lng="sk">
-    <trd>hem&zcaron;i&tcaron; sa</trd>,
-    <trd>hm&yacute;ri&tcaron; sa</trd>,
-    <trd>roji&tcaron; sa</trd>
-  </trdgrp>
-  <trd lng="sv">sv&auml;rma</trd>
-</drv>
+
 
 <drv mrk="svarm.0o">
   <kap><tld/>o</kap>
   <snc mrk="svarm.0o.KOMUNE">
     <dif>
       Movi&gcirc;anta kaj interpu&scirc;iganta, konstante
-renovi&gcirc;anta 
-      kaj &scirc;an&gcirc;i&gcirc;anta amaso:
+      renovi&gcirc;anta kaj &scirc;an&gcirc;i&gcirc;anta <ref tip="super" cel="amas.0o">amaso</ref>:
       <ekz>
-        <tld/>o da formikoj<fnt>Z</fnt>;
+        <tld/>o da papilioj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        li kondukis &scirc;in tra la homa svarmo<fnt>Z</fnt>;
+        ili venis kiel granda nubo, kiel <tld/>o da akridoj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i pu&scirc;is sin <tld/>o da virinoj
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        li kondukis &scirc;in tra la homa <tld/>o de la bordo
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la gaja <tld/>o da multaj diverskolore flagitaj 
-        &scirc;ipoj<fnt>Z</fnt>;
+        &scirc;ipoj
+        <fnt>
+          <bib>RBa</bib>
+          <lok>&Ccirc;apitro II</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        da pensoj, da rememoraj;
+        el inter la arbeta&jcirc;oj elvenis tuta <tld/>o da belegaj grandaj birdoj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Malbela anasido</lok>
+        </fnt>;
       </ekz>
       <ekz>
-        <tld/>oj da glitveturiloj flugis en diversaj
-direktoj<fnt>Z</fnt>;
+        <tld/>oj da glitveturiloj flugis en diversaj direktoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
       </ekz>
       <ekz>
-        &ccirc;irka&ubreve; la bu&scirc;o <klr>...</klr> ludis <tld/>o
-da 
-        ridetoj jen pla&ccirc;ivolaj, jen petolaj, jen &scirc;ercemaj
+        &ccirc;irka&ubreve; la bu&scirc;o <klr>[&#x2026;]</klr> ludis <tld/>o
+        da ridetoj jen pla&ccirc;ivolaj, jen petolaj, jen &scirc;ercemaj
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="formac.0o.MIL">formacio<sncref/></ref>,
+      <ref cel="greg.0o">grego</ref>
+    </refgrp>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_t;&c_o;&c_w;&c_p;</trd>,
     <trd>&c_g;&c_u;&c_r;&c_t;</trd>
@@ -163,62 +113,93 @@ da
     <dif>
       Tre multnombra amaso:
       <ekz>
-        ne kompetenta pri tiu <tld/>o da &ccirc;iutagaj 
-        detala&jcirc;oj<fnt>Z</fnt>.
+        nekompetenta pri tiu <tld/>o da &ccirc;iutagaj 
+        detala&jcirc;oj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pre&gcirc;turo piki&gcirc;as supren, kiel ekkrio el la <tld/>o de multkoloraj domtegmentoj
+        <fnt>
+          <bib>VRA</bib>
+          <lok>Bj&ouml;rn Erik H&ouml;ijer</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne indas &ccirc;i tie taksi la enhavon de la verkoj: ili estas ne&gcirc;ueblaj pro tiu
+        <tld/>o da fu&scirc;oj
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2004, &#x2116; 4 (114)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili voja&gcirc;as en <tld/>oj de multaj centoj
+        <fnt>
+          <aut>Michael Ende, trad. Wolfram Diestel</aut>
+          <vrk>La Sen&ccirc;esa Rakonto</vrk>
+          <lok>La Kunvoja&gcirc;antoj</lok>
+        </fnt>.
       </ekz>
     </dif>
-  <trdgrp lng="be">
-    <trd>&c_n;&c_a;&c_t;&c_o;&c_w;&c_p;</trd>,
-    <trd>&c_g;&c_u;&c_r;&c_t;</trd>
-  </trdgrp>
-  <trd lng="en">swarm</trd>
-  <trdgrp lng="de">
-    <trd>Gewimmel</trd>,
-    <trd>Schwarm</trd>
-  </trdgrp>
-  <trdgrp lng="fr">
-    <trd>grouillement</trd>,
-    <trd>essaim</trd>,
-    <trd>nu&eacute;e<klr tip="amb"> (grouillement)</klr></trd>
-  </trdgrp>
-  <trdgrp lng="hu">
-    <trd>t&ouml;meg</trd>,
-    <trd>raj</trd>,
-    <trd>forgatag</trd>,
-    <trd>sokas&aacute;g</trd>,
-    <trd>&ouml;z&ouml;n</trd>
-  </trdgrp>
-  <trdgrp lng="it">
-    <trd>ammassamento</trd>,
-    <trd>sciame</trd>,
-    <trd>formicaio</trd>,
-    <trd>frotta</trd>,
-    <trd>stuolo</trd>,
-    <trd>nugolo</trd>
-  </trdgrp>
-  <trd lng="nl">zwerm</trd>
-  <trd lng="pl">r&oacute;j</trd>
-  <trdgrp lng="ru">
-    <trd>&c_t;&c_o;&c_l;&c_p;&c_a;</trd>,
-    <trd>&c_s;&c_u;&c_t;&c_o;&c_l;&c_o;&c_k;&c_a;</trd>,
-    <trd>&c_r;&c_o;&c_j;</trd>
-  </trdgrp>
-  <trd lng="sv">sv&auml;rm</trd>
+    <refgrp tip="vid">
+      <ref cel="miriad.0o.KOMUNE">miriado<sncref/></ref>,
+      <ref cel="mult.0o">multo</ref>,
+      <ref cel="legi.0o.FIG">legio<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_t;&c_o;&c_w;&c_p;</trd>,
+      <trd>&c_g;&c_u;&c_r;&c_t;</trd>
+    </trdgrp>
+    <trd lng="en">swarm</trd>
+    <trdgrp lng="de">
+      <trd>Gewimmel</trd>,
+      <trd>Schwarm</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>grouillement</trd>,
+      <trd>essaim</trd>,
+      <trd>nu&eacute;e<klr tip="amb"> (grouillement)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>t&ouml;meg</trd>,
+      <trd>raj</trd>,
+      <trd>forgatag</trd>,
+      <trd>sokas&aacute;g</trd>,
+      <trd>&ouml;z&ouml;n</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>ammassamento</trd>,
+      <trd>sciame</trd>,
+      <trd>formicaio</trd>,
+      <trd>frotta</trd>,
+      <trd>stuolo</trd>,
+      <trd>nugolo</trd>
+    </trdgrp>
+    <trd lng="nl">zwerm</trd>
+    <trd lng="pl">r&oacute;j</trd>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_o;&c_l;&c_p;&c_a;</trd>,
+      <trd>&c_s;&c_u;&c_t;&c_o;&c_l;&c_o;&c_k;&c_a;</trd>,
+      <trd>&c_r;&c_o;&c_j;</trd>
+    </trdgrp>
+    <trd lng="sv">sv&auml;rm</trd>
   </snc>
   <snc mrk="svarm.0o.SPO">
     <uzo tip="fak">SPO</uzo>
     <dif>
-      En skoltismo - grupo da <ref tip="vid"
-cel="skolt.0o.SPO">skoltetoj</ref>.
+      <klr>(en skoltismo)</klr> <ref tip="super" cel="grup.0o.KOMUNE">Grupo</ref> da 
+      <ref tip="prt" cel="skolt.0o.SPO">skoltetoj</ref>:
       <ekz>
-        Kompleta grupo konsistas el:
-        svarmo - por skoltetoj malpli ol 11 jaraj,
-        trupo - por knaboskoltoj, 11 - 17 jaraj,
-        bando - por roveroj, 17 &gcirc;is 23 jaraj.
+        kompleta grupo konsistas el:
+        <tld/>o &ndash; por skoltetoj malpli ol 11 jaraj,
+        trupo &ndash; por knaboskoltoj, 11 - 17 jaraj,
+        bando &ndash; por roveroj, 17 &gcirc;is 23 jaraj.
         <fnt>
-        <aut>J. K. Hammer</aut>
-        <vrk>Skolta kaj tenduma terminaro</vrk>
-        <lok>&ccirc;apitro 5. La Skoltgrupo</lok>
+          <aut>J. K. Hammer</aut>
+          <vrk>Skolta kaj tenduma terminaro</vrk>
+          <lok>&ccirc;apitro 5. La Skoltgrupo</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -238,14 +219,212 @@ cel="skolt.0o.SPO">skoltetoj</ref>.
     <trd>hormiguero</trd>,
     <trd>aglomeraci&oacute;n</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x7FA4;&#x8846;  [<ind>&#x3050;&#x3093;&#x3057;&#x3085;&#x3046;</ind>]</trd>,
+    <trd>&#x4EBA;&#x8FBC;&#x307F;  [<ind>&#x3072;&#x3068;&#x3054;&#x307F;</ind>]</trd>,
+    <trd>&#x5927;&#x7FA4;  [<ind>&#x305F;&#x3044;&#x3050;&#x3093;</ind>]</trd>,
+    <trd>&#x7FA4;&#x308C;  [<ind>&#x3080;&#x308C;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ne">&#x92D;&#x940;&#x921;</trd>
   <trd lng="sk">rojenie</trd>
+  <trdgrp lng="uk">
+    <trd>&c_ju;&c_r;&c_b;&c_a;</trd>,
+    <trd>&c_z;&c_b;&c_ib;&c_g;&c_o;&c_v;&c_i;&c_s;&c_mol;&c_k;&c_o;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_l;&c_ib;&c_ch;</trd>,
+    <trd>&c_r;&c_ib;&c_j; (&c_b;&c_d;&c_zh;&c_ib;&c_l;)</trd>
+  </trdgrp>
 </drv>
+
+<drv mrk="svarm.0i">
+  <kap><ofc>1</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="svarm.0i.KOMUNE">
+    <dif>
+      Moveti&gcirc;i kaj skueti&gcirc;i &ccirc;iuflanken pro amaseco da 
+      interpu&scirc;i&gcirc;antaj eroj:
+      <ekz>
+        miloj da kuloj <tld/>as &ccirc;irka&ubreve; la malgranda tendo
+        <fnt>
+          <bib>Fab1</bib>
+          <lok>Ligo de amikeco</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen <tld/>as la blankaj abeloj
+        <fnt>
+          <bib>Fab2</bib>
+          <lok>Ne&gcirc;a re&gcirc;ino</lok>
+        </fnt>!
+      </ekz>
+      <ekz>
+        sur placo <klr>[&#x2026;]</klr> <tld/>is multe da homoj
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 17a</lok></fnt>;
+      </ekz>
+      <ekz>
+        jen <klr>[&#x2026;]</klr> elmontri&gcirc;is verda placeto, kie tuj ek<tld/>is paseroj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Historio de la jaro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ek<tld/>os la rivero per ranoj
+        <fnt>
+          <bib>MT</bib>
+          <lok>Eliro 8:3</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur Nilo <tld/>is etaj &scirc;ipetoj
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 21a</lok></fnt>;
+      </ekz>
+      <ekz>
+        sur la &scirc;oseo jam <tld/>is la armeo kaj &gcirc;iaj servistoj
+        <fnt>
+          <bib>Far1</bib>
+          <lok>&Ccirc;apitro I</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la tuta areno ek<tld/>is febra agado
+        <fnt>
+          <bib>QuV</bib>
+          <lok>&Ccirc;apitro LVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        li e&ccirc; kun plezuro revis pri agronomia agado, sed nun aliaj pensoj <tld/>is en
+        lia kapo
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XXII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;e la fino de la malluma tunelo <tld/>is la lumo al mi per re&gcirc;a brilego
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Sepa &Ccirc;apitro</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="svarm.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Esti tre multenombra:
+      <ekz>
+        velurmola verda&jcirc;o, en kiu <tld/>is amasego da flora&jcirc;oj
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>&Scirc;tono de la sa&gcirc;uloj</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        levante la okulojn al la &ccirc;ielo, kie jam <tld/>is kaj briletis la steloj
+        <fnt>
+          <bib>PatrojFiloj</bib>
+          <lok>XI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mendoj al<tld/>is
+        <fnt>
+          <bib>KrM</bib>
+          <lok>36. Sorto Ofte Alsendas Kion Ni Ne Atendas.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i batalis <klr>[&#x2026;]</klr> forpu&scirc;ante de &gcirc;i la <tld/>ojn da rememoroj kaj ondon
+        da revoj
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_ib;&c_sh;&c_e;&c_c;&c_mol;</trd>,
+    <trd>&c_m;&c_ib;&c_t;&c_u;&c_s;&c_ib;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hem&zcaron;it se</trd>,
+    <trd>rojit se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>schw&auml;rmen</trd>,
+    <trd>wimmeln</trd>
+  </trdgrp>
+  <trd lng="en">swarm</trd>
+  <trd lng="fr">grouiller</trd>
+  <trdgrp lng="hu">
+    <trd>ny&uuml;zs&ouml;g</trd>,
+    <trd>tolong</trd>,
+    <trd>rajzik</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>affollarsi</trd>,
+    <trd>pullulare</trd>,
+    <trd>brulicare</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x3046;&#x3088;&#x3046;&#x3088;&#x3057;&#x3066;&#x3044;&#x308B;</trd>,
+    <trd>&#x7FA4;&#x304C;&#x3063;&#x3066;&#x3044;&#x308B;  [<ind>&#x3080;&#x3089;&#x304C;&#x3063;&#x3066;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x3072;&#x3057;&#x3081;&#x304D;&#x5408;&#x3046;  [<ind>&#x3072;&#x3057;&#x3081;&#x304D;&#x3042;&#x3046;</ind>]</trd>,
+    <trd>&#x96F2;&#x96C6;&#x3059;&#x308B;  [<ind>&#x304F;&#x3082;&#x3064;&#x3069;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">zwermen</trd>
+  <trd lng="pl">roi&cacute;<klr> si&eogonek;</klr></trd>
+  <trdgrp lng="pt">
+    <trd>enxamear</trd>,
+    <trd>pulular</trd>,
+    <trd>formigar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_i;&c_sh;&c_je;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>hem&zcaron;i&tcaron; sa</trd>,
+    <trd>hm&yacute;ri&tcaron; sa</trd>,
+    <trd>roji&tcaron; sa</trd>
+  </trdgrp>
+  <trd lng="sv">sv&auml;rma</trd>
+  <trdgrp lng="uk">
+    <trd>&c_r;&c_o;&c_ji;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_k;&c_i;&c_sh;&c_ib;&c_t;&c_i;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_l;&c_a;&c_d;&c_n;&c_o; &c_r;&c_u;&c_h;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
+    <trd>&c_b;&c_u;&c_t;&c_i; &c_v; &c_b;&c_je;&c_z;&c_l;&c_ib;&c_ch;&c_ib;</trd>,
+    <trd>&c_v; &c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_k;&c_u;</trd>
+  </trdgrp>
+</drv>
+
 
 <drv mrk="svarm.0ado">
   <kap><tld/>ado</kap>
   <snc mrk="svarm.0ado.KOMUNE">
     <dif>
-      Ago <tld/>i.
+      Ago <tld/>i:
+      <ekz>
+        zumadis <klr>[&#x2026;]</klr> abeloj dum <tld/>ado
+        <fnt>
+          <bib>HsT</bib>
+          <lok>Feli&ccirc;a homo</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tiu gaja <tld/>ado similis al la fajreroj en la cindro de forbrulanta papero
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Filino de la mar&ccirc;a re&gcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        proksime de la urbo <klr>[&#x2026;]</klr> estis <tld/>ado de homoj kaj bestoj
+        <fnt>
+          <bib>Fab4</bib>
+          <lok>Kion la patro faras, estas &ccirc;iam &gcirc;usta</lok>
+        </fnt>.
+      </ekz>
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_t;&c_u;&c_s;&c_mol;&c_n;&c_ja;</trd>
@@ -263,6 +442,10 @@ cel="skolt.0o.SPO">skoltetoj</ref>.
   <trdgrp lng="it">
     <trd>brulichio</trd>,
     <trd>pullulazione</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x96D1;&#x8E0F;  [<ind>&#x3056;&#x3063;&#x3068;&#x3046;</ind>]</trd>,
+    <trd>&#x96F2;&#x96C6;  [<ind>&#x3046;&#x3093;&#x3057;&#x3085;&#x3046;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>gekrioel</trd>,
@@ -288,6 +471,8 @@ cel="skolt.0o.SPO">skoltetoj</ref>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_t;&c_o;&c_w;&c_p;&c_ib;&c_c;&c_c;&c_a; <klr>(&c_v;&c_a;&c_k;&c_o;&c_l; &c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  <trd lng="de">umschw&auml;rmen</trd>
   <trdgrp lng="hu">
     <trd>k&ouml;rberajzik</trd>,
     <trd>k&ouml;rbetolong</trd>,
@@ -308,12 +493,29 @@ cel="skolt.0o.SPO">skoltetoj</ref>.
     <dif>
       Amase, vigle movi&gcirc;ante eniri kaj ekesplori:
       <ekz>
+        tineoj <klr>[&#x2026;]</klr> en<tld/>os viajn tapi&scirc;ojn, rembura&jcirc;ojn, vestaron
+        <fnt>
+          <bib>KrM</bib>
+          <lok>5. Petro Kornojn Tenas, Pa&ubreve;lo Lakton Prenas.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
         la policanoj fine rompis la pordon kaj en<tld/>is
-        <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro
-1a</lok></fnt>.
+        <fnt><bib>&Scirc;talrato</bib>, 
+        <lok>&ccirc;apitro 1a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la ofendita kaj insultita publiko en<tld/>is tra la anta&ubreve;a pordo, rompante
+        meblojn kaj fenestrojn
+        <fnt>
+          <bib>LOdE</bib>
+          <lok>2000, No 4 (66)</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_u;&c_v;&c_a;&c_r;&c_v;&c_a;&c_c;&c_c;&c_a; <klr>(&c_n;&c_a;&c_t;&c_o;&c_w;&c_p;&c_a;&c_m;)</klr></trd>
+  <trd lng="de">hinein <ind>schw&auml;rmen</ind></trd>
   <trdgrp lng="es">
     <trd>irrumpir en masa</trd>,
     <trd>entrar en tromba</trd>
@@ -339,15 +541,24 @@ cel="skolt.0o.SPO">skoltetoj</ref>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_o;&c_j; <klr>(&c_p;&c_ch;&c_a;&c_l;&c_ib;&c_n;&c_y;)</klr></trd>
+  <trd lng="de">Bienenschwarm</trd>
   <trd lng="es">enjambre <klr tip="amb">de abejas</klr></trd>
   <trd lng="fr">essaim</trd>
   <trd lng="it">sciame</trd>
+  <trd lng="ja">&#x871C;&#x8702;&#x306E;&#x7FA4;&#x308C;  [<ind>&#x307F;&#x3064;&#x3070;&#x3061;&#x306E;&#x3080;&#x308C;</ind>]</trd>
   <trd lng="pl">r&oacute;j<klr> pszcz&oacute;&lstroke;</klr></trd>
   <trd lng="sv">bisv&auml;rm</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.28 2023/02/24 16:37:14
+Wolfram Diestel: ~o unue; +ekz-oj, trd de
+
+versio 1.26 2021/11/22 12:48:13
+Dmitri Gabinski: + trd be
+
 Revision 1.23  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -364,8 +575,5 @@ Revision 1.19  2010/05/21 16:30:59  revo
 Antonio Codazzi: +trd it
 
 Revision 1.18  2007/08/23 16:30:56  revo
-Sebastian Cyprych: +~o.SPO +trd pl; ~ado +trd pl
-
-Revision 1.17  2007/06/10 16:31:16  revo
 -->
 </vortaro>

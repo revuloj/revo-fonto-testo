@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kardin.xml,v 1.24 2020/02/15 10:10:20 revo Exp $">
+<art mrk="$Id: kardin.xml,v 1.27 2023/09/01 13:58:56 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>kardinal</rad>/o
@@ -20,8 +19,7 @@
         kiuj havas la povon elekti la Roman Pontifikon estu 120
         <fnt>
         <aut>IKUE</aut>,
-        <vrk><url
-        ref="http://www.ikue.org/papoj/konklavo/kardinaloj.html">La
+        <vrk><url ref="http://www.ikue.org/papoj/konklavo/kardinaloj.html">La
         Kardinaloj de Sankta Roma Eklezio</url></vrk>,
         <lok>Konklavo 2005</lok>
         </fnt>.
@@ -54,11 +52,11 @@
       kvanto de &gcirc;iaj elementoj:
       <ekz>
         la <tld/>on de aro <frm am="bb E"><g>E</g></frm> oni signas per
-        <frm am='"kard" bb E"'>kard <g>E</g></frm> a&ubreve; 
+        <frm am="&quot;kard&quot; bb E&quot;">kard <g>E</g></frm> a&ubreve;
         <frm am="|bb E|">|<g>E</g>|</frm>;
       </ekz>
       <ekz>
-        <frm am="aleph_0">&#8501;<sub>0</sub></frm> <klr> (legu:
+        <frm am="aleph_0">&#x2135;<sub>0</sub></frm> <klr> (legu:
         alef-nul)</klr>
         estas la plej malgranda <tld/>o malfinia;
       </ekz>
@@ -73,6 +71,7 @@
       nombro</ctl>, kiel en <fnt><bib>MatTerm</bib>, <lok>p.
       18</lok></fnt>.
     </rim>
+    <trd lng="be">&c_l;&c_ib;&c_k; &c_k;&c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
     <trd lng="ca">cardinalitat</trd>
     <trdgrp lng="de">
       <trd>Kardinalzahl</trd>,
@@ -110,11 +109,16 @@
     </trdgrp>
   </snc>
   <trd lng="cs">kardin&aacute;ln&iacute; &ccaron;&iacute;slo</trd>
+  <trd lng="ja">&#x67A2;&#x6A5F;&#x537F;  [<ind>&#x3059;&#x3046;&#x304D;&#x304D;&#x3087;&#x3046;</ind>]</trd>
   <trd lng="sk">kardin&aacute;lne &ccaron;&iacute;slo</trd>
+  <trd lng="uk">&#x43A;&c_a;&c_r;&c_d;&c_i;&#x43D;&c_a;&#x43B;</trd>
 </drv>
 </art>
 <!--
-$Log: kardin.xml,v $
+$Log$
+versio 1.26 2023/08/22 09:26:10
+Dmitri Gabinski: + trd be
+
 versio 1.24 2020/02/15 10:10:20
 Wolfram Diestel: formuloj per am
 
@@ -134,8 +138,5 @@ Revision 1.19  2008/05/16 16:31:03  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.18  2006/02/27 17:32:48  revo
-Jeromo Vasxe: snc kat - "70" en dif, + ekz
-
-Revision 1.17 2006/01/12 21:52:42 revo
 -->
 </vortaro>

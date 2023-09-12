@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: azil.xml,v 1.14 2002/09/24 16:31:52 revo Exp $">
+<art mrk="$Id: azil.xml,v 1.28 2023/08/30 18:23:38 revo Exp $">
 <kap>
   <ofc>2</ofc>
   <rad>azil</rad>/o <fnt><bib>PV</bib></fnt>
@@ -11,35 +10,96 @@
   <kap><tld/>o</kap>
   <snc mrk="azil.0o.ejo">
     <dif>
-      Rifu&gcirc;ejo, kie oni trovas sekurecon kaj flegadon:
+      <ref tip="super" cel="rifugx.0ejo">Rifu&gcirc;ejo</ref>, kie oni trovas sekurecon kaj flegadon:
       <ekz>
-        <tld/>o por
-        malri&ccirc;uloj, kadukuloj, frenezuloj.
+        por mi, pro pano, pro <tld/>o, pro trankvileco mi laboros
+        <fnt>
+          <bib>Marta</bib>
+        </fnt>!
+      </ekz>
+      <ekz>
+        mia domo &ccirc;iam estos <tld/>o por vi kaj por viaj kunfideluloj en la okazo, se vi
+        a&ubreve; ili bezonos rifu&gcirc;ejon
+        <fnt>
+          <bib>I&scirc;tar</bib>
+          <lok>&Ccirc;apitro XII</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[li]</klr> rifu&gcirc;is <klr>[&#x2026;]</klr> en Turkion
+        <klr>[ricevante]</klr> tri ormonerojn potage en la <tld/>o
+        <fnt>
+          <bib>Kandid</bib>
+          <lok>&Ccirc;apitro XXVI</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;e ni ekzistas hospitaloj kaj <tld/>oj por la maljunuloj
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Kvina &Ccirc;apitro</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pluvego fari&gcirc;is pli perforta kaj ili devis rapide trovi konfidindan <tld/>on
+        <fnt>
+          <bib>LGA</bib>
+          <lok>III.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la religia kredo <klr>[&#x2026;]</klr> konsolas kaj donas <tld/>on kontra&ubreve; la sortbatoj
+        <fnt>
+          <bib>VaK</bib>
+          <lok>Kvina &Ccirc;apitro</lok>
+        </fnt>;
       </ekz>
     </dif>
   </snc>
   <snc mrk="azil.0o.ado">
     <dif>
-      Akcepto de iu bezonanta protekton, rifu&gcirc;ejon:
+      <ref tip="super" cel="akcept.0o.ago">Akcepto</ref> de iu bezonanta protekton, rifu&gcirc;ejon;
+      oficiala statuso de tia akceptito:
       <ekz>
-        politika <tld/>o.
+        samlandanoj, kiuj esperas atingi politikan <tld/>on
+        <fnt>
+	<aut>Laimius Stra&zcaron;nickas</aut>
+	<vrk><url ref="&Monato;/2000/006830.php">Kontrabanditaj cigaredoj invadas Brition</url></vrk>
+	<bib>Monato</bib>
+	<lok>2000/04, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        alvenis al la flughaveno en Tirano kvin &ccirc;inaj civitanoj kun ujgura nacieco, kiuj
+        &ndash; akompanataj de advokato usona &ndash; tuj petis <tld/>on
+        <fnt>
+          <bib>Monato</bib>
+          <aut>Bardhyl Selimi</aut>
+          <vrk><url ref="&Monato;/2006/008974.php">Protestas &Ccirc;inio</url></vrk>
+          <lok>2006</lok>
+        </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="protek.0o">protekto</ref>,
+      <ref cel="sxirm.0o">&scirc;irmo</ref>
+    </refgrp>
   </snc>
   <rim>
-    La tradicia difino de &leftquot;azilo&rightquot; entenas la nocion de loko.
+    La tradicia difino de &leftquot;<tld/>o&rightquot; entenas la nocion de loko.
     Preska&ubreve; &ccirc;iuj troveblaj ekzemploj kompreneblas konforme al
     tio, tamen ili ofte anka&ubreve; kompreneblas abstrakte:
-    tiamaniere ke azilo estas la akceptado de persekutato.
-    En tio eble influas la ne-loka senco de parenca &leftquot;ekzilo&rightquot;.
-    Probable ial aperas iafoje la formo &leftquot;azilejo&rightquot;.
+    tiamaniere ke <tld/>o estas la akceptado de persekutato.
+    En tio eble influas la ne-loka senco de parenca &leftquot;<ref cel="ekzil.0o">ekzilo</ref>&rightquot;.
+    Probable ial aperas iafoje la formo &leftquot;<tld/>ejo&rightquot;.
     <aut>&jcirc;v</aut>
   </rim>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_t;&c_u;&c_l;&c_a;&c_k;</trd>, 
     <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_a;&c_n;&c_a;&c_k;</trd>, 
     <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_a;&c_n;&c_ib;&c_sh;&c_ch;&c_a;</trd>, 
-    <trd>&c_s;&c_h;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+    <trd>&c_s;&c_h;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>,
+    <trd>&c_a;&c_z;&c_y;&c_l;&c_mol;</trd>
   </trdgrp>
   <trd lng="bg">&c_u;&c_b;&c_je;&c_zh;&c_i;&c_shch;&c_je;</trd>
   <trd lng="ca">asil</trd>
@@ -49,7 +109,7 @@
   </trdgrp>
   <trdgrp lng="de">
     <trd>Asyl</trd>,
-    <trd>Zufluchtsort</trd>
+    <trd>Zuflucht</trd>
   </trdgrp>
   <trd lng="en">asylum</trd>
   <trdgrp lng="es">
@@ -60,11 +120,16 @@
     <trd>asile</trd>,
     <trd>refuge</trd>
   </trdgrp>
+  <trd lng="he">&mem;&qof;&lamed;&tet; &mem;&dalet;&yod;&nun;&yod;</trd>
   <trdgrp lng="hu">
     <trd>menhely</trd>,
     <trd>mened&eacute;k</trd>
   </trdgrp>
   <trd lng="it">asilo<klr> (rifugio)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x907F;&#x96E3;&#x6240;  [<ind>&#x3072;&#x306A;&#x3093;&#x3058;&#x3087;</ind>]</trd>,
+    <trd>&#x793E;&#x4F1A;&#x798F;&#x7949;&#x65BD;&#x8A2D;  [<ind>&#x3057;&#x3083;&#x304B;&#x3044;&#x3075;&#x304F;&#x3057;&#x3057;&#x305B;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">aziel</trd>
   <trdgrp lng="ru">
     <trd>&c_u;&c_b;&c_je;&c_zh;&c_i;&c_shch;&c_je;</trd>,
@@ -73,6 +138,11 @@
   <trdgrp lng="sk">
     <trd>azyl</trd>,
     <trd>&uacute;to&ccaron;i&scaron;te</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_i;&c_t;&c_u;&c_l;&c_o;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_h;&c_i;&c_s;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_a;&c_z;&c_i;&c_l;&c_mol;</trd>
   </trdgrp>
 </drv>
 
@@ -91,14 +161,19 @@
         <fnt>
           <aut>C. Espina, trad. L. Dek</aut>,
           <vrk>La Dol&ccirc;a Mensogo</vrk>,
-          <lok><url
-          ref="http://bitoteko.esperanto.es:8080/jspui/bitstream/11013/413/4/bol240.pdf">
+          <lok><url ref="http://bitoteko.esperanto.es:8080/jspui/bitstream/11013/413/4/bol240.pdf">
           Bolet&iacute;n de la Federaci&oacute;n Espa&ntilde;ola de Esperanto,
           1980:7-8</url></lok>
-        </fnt>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_p;&c_r;&c_y;&c_t;&c_u;&c_l;&c_a;&c_k;</ind></trd>
+  <trdgrp lng="de">
+    <trd><ind>Asyl</ind> gew&auml;hren</trd>,
+    <trd><ind>Schutz</ind> gew&auml;hren</trd>,
+    <trd>unter seine <ind>Fittich</ind>e nehmen</trd>
+  </trdgrp>
   <trd lng="fr">donner <ind>asile</ind></trd>
 </drv>
 
@@ -106,25 +181,66 @@
   <kap><tld/>ejo</kap>
   <snc mrk="azil.0ejo.KOMUNE">
     <dif>
-      <ref tip="dif" cel="azil.0o.ejo"><tld/>o<sncref/></ref>
+      <ref tip="dif" cel="azil.0o.ejo"><tld lit="A"/>o<sncref/></ref>:
+      <ekz>
+        mortula &scirc;ipo ne estas <tld/>ejo por beboj
+        <fnt>
+          <bib>Mortul&Scirc;ip</bib>
+          <lok>&Ccirc;apitro 40</lok>
+        </fnt>;
+      </ekz>
       <ekz>
         panike reagis la <tld/>-administracio, kiu decidis 
-        <klr>...</klr> fermi la <tld/>ejon
+        <klr>[&#x2026;]</klr> fermi la <tld/>ejon
         <fnt>
-          <aut>G. Van Damme</aut>,
+          <aut>Guido van Damme</aut>,
+          
+          <vrk><url ref="&Monato;/2001/006338.html">
+          Nekongrua sed kohera</url></vrk>,
           <bib>Monato</bib>
-          <vrk><url ref="http://www.esperanto.be/fel/mon/006338.html">
-          Sep en unu bato</url></vrk>,
-          <lok>1999</lok>
+          <lok>1999/06, p. 4</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Anglio, lumturo de demokratio inter la nacioj, <klr>[&#x2026;]</klr> rifu&gcirc;ejo kaj
+        <tld/>ejo por milionoj da persekutitoj kaj fu&gcirc;intoj
+        <fnt>
+          
+          <aut>Paul Blaskowicz</aut>
+          <vrk><url ref="&Monato;/2005/008694.php">Amuza Gubbins</url></vrk>
+              <bib>Monato</bib>
+          <lok>2005/09.p. 6</lok>
         </fnt>.
       </ekz>
     </dif>
+    <refgrp tip="vid">
+      <ref cel="sxirm.0ejo">&scirc;irmejo</ref>,
+      <ref cel="protek.0ejo">protektejo</ref>,
+      <ref cel="rifugx.0ejo">rifu&gcirc;ejo</ref>
+    </refgrp>
   </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_t;&c_u;&c_l;&c_a;&c_k;</trd>
+  <trd lng="de">Asyl</trd>
   <trd lng="fr">asile</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.27 2023/04/23 15:25:48
+Paul Peeraerts: &Steloj -> &Monato
+
+versio 1.26 2023/03/29 15:07:20
+Paul Peeraerts: &Monato;
+
+versio 1.25 2022/12/17 08:30:34
+Wolfram Diestel: +ref
+
+versio 1.24 2022/09/28 13:06:56
+Dmitri Gabinski: + trd be
+
+versio 1.23 2022/09/03 07:27:12
+Wolfram Diestel: +ekz-oj, trd de
+
 Revision 1.19  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -132,17 +248,5 @@ Revision 1.18  2015/06/28 12:03:36  revo
 aldono de trd sk per skripto de M. von Laer
 
 Revision 1.17  2013/08/30 20:10:15  revo
-Joop Eggen: +trd bg
-
-Revision 1.16  2012/07/30 13:10:21  revo
-Marc Rausell: + trd ca
-
-Revision 1.15  2011/09/30 13:10:11  revo
-Antonio Codazzi: +trd it
-
-Revision 1.14  2002/09/24 16:31:52  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.13  2002/09/23 16:34:04  revo
 -->
 </vortaro>

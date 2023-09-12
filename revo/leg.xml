@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: leg.xml,v 1.40 2009/09/01 04:54:07 revo Exp $">
+<art mrk="$Id: leg.xml,v 1.150 2023/09/01 19:10:58 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>leg</rad>/i <fnt><bib>PV</bib></fnt>
@@ -13,8 +12,7 @@
   <gra><vspec>tr</vspec></gra>
   <snc mrk="leg.0i.propre">
     <dif>
-      Sekvi per okuloj skribitan tekston
-      kaj &gcirc;in diri vo&ccirc;e a&ubreve; mense:
+      Sekvi per okuloj skribitan tekston kaj &gcirc;in diri vo&ccirc;e a&ubreve; mense:
       <ekz>
         <tld/>i leteron, libron, manuskripton, hieroglifojn;
       </ekz>
@@ -100,7 +98,6 @@
         <ekz>
           mi <tld/>is el la ostoj, ke &ccirc;io glatos
           <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la Hunoj</vrk>,
-                   
           <lok>2011</lok></fnt>.
         </ekz>
       </dif>
@@ -117,20 +114,10 @@
         &ccirc;efmemoron;
       </ekz>
       <ekz>
-        <tld/>i la valoron de nombrilo en la aritmetikilon;
-      </ekz>
-      <ekz>
-        DVD-<tld/>ilon
-        <fnt>
-          <bib>Monato</bib>
-          <aut>Hektor Alos I Font</aut>
-          <vrk><url
-          ref="https://www.monato.be/2003/008062.html">Spektantoj
-          spektataj</url></vrk>
-        </fnt>.
+        <tld/>i la valoron de nombrilo en la aritmetikilon.
       </ekz>
     </dif>
-    <ref tip="sin" cel="sxarg.0i.KOMP">&scirc;argi</ref> 
+    <ref tip="sin" cel="sxarg.0i.KOMP">&scirc;argi</ref>
     <ref tip="ant" cel="skrib.0i.KOMP">skribi</ref>
   </snc>
   <snc mrk="leg.0i.KOMP_eligi">
@@ -142,23 +129,27 @@
         mi ne sukcesis <tld/>i vian sondosieron;
       </ekz>
       <ekz>
-        la nuna Kindlo ne povas <tld/>i EPUB-dosieron, e&ccirc; ne per la
+        la nuna Kindlo ne povas <tld/>i <nom>EPUB</nom>-dosieron, e&ccirc; ne
+        per la
         konvertoservo
         <fnt>
-          <bib>Monato</bib>
           <aut>Edmund Grimley Evans</aut>
-          <vrk><url ref="&Monato;/2011/010280.php">La nova
-          Kindlo de Amazon</url></vrk>
+          <vrk><url ref="&Monato;/2011/010280.php">La nova Kindlo de
+          Amazon</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/03, p. 5</lok>
         </fnt>;
       </ekz>
       <ekz>
-        &ccirc;iuj po&scirc;legiloj povas <tld/>i PDF-dosierojn, sed fojfoje kun
+        &ccirc;iuj po&scirc;legiloj povas <tld/>i <nom>PDF</nom>-dosierojn, sed
+        fojfoje kun
         mankoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Pa&ubreve;l Peeraerts</aut>
-          <vrk><url ref="&Monato;/2010/010009.php">Parto 1:
-          Survoje al iu libro-normo</url></vrk>
+          <vrk><url ref="&Monato;/2010/010009.php">Parto 1: Survoje al
+          iu libro-normo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/04, p. 2</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -172,16 +163,26 @@
       <trd>&c_v;&c_o;&c_s;&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">lees</trd>
+  <trd lng="am">&#x12A0;&#x1295;&#x1265;&#x1265;</trd>
+  <trd lng="ar">&a_q;&a_r;&a_A_hamza_sure;</trd>
+  <trd lng="az">oxumaq</trd>
   <trd lng="be">&c_ch;&c_y;&c_t;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="bg">
     <trd>&c_ch;&c_je;&c_t;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_ch;&c_je;&c_t;&c_a;</trd>
   </trdgrp>
+  <trd lng="bn">&#x9AA;&#x9A1;&#x9BC;&#x9BE;</trd>
+  <trd lng="bo">&#xF40;&#xFB3;&#xF7C;&#xF42;&#xF0B;</trd>
   <trd lng="br">lenn</trd>
+  <trd lng="bs">&#x10D;itati</trd>
+  <trd lng="co">leghje</trd>
   <trdgrp lng="cs">
     <trd>&ccaron;&iacute;st</trd>,
     <trd>p&rcaron;e&ccaron;&iacute;st</trd>
   </trdgrp>
+  <trd lng="cy">darllen</trd>
+  <trd lng="da">l&#xE6;se</trd>
   <trd lng="de">lesen</trd>
   <trd lng="el">&delta;&jota;&alfa;&beta;&alfa_ton;&zeta;&omega;
   </trd>
@@ -189,18 +190,84 @@
       <trd>to read</trd>, <trd>play <klr>(a record)</klr></trd>
     </trdgrp>
   <trd lng="es">leer</trd>
+  <trd lng="et">lugema</trd>
+  <trd lng="eu">irakurri</trd>
   <trd lng="fr">lire</trd>
+  <trd lng="fy">l&#xEA;ze</trd>
+  <trd lng="ga">l&#xE9;amh</trd>
+  <trd lng="gd">leughadh</trd>
+  <trd lng="gl">ler</trd>
+  <trd lng="gu">&#xAB5;&#xABE;&#xA82;&#xA9A;&#xACB;</trd>
+  <trd lng="ha">karanta</trd>
+  <trd lng="hi">&#x92A;&#x922;&#x93C;&#x93E;</trd>
+  <trd lng="hmn">nyeem</trd>
+  <trd lng="hr">pro&#x10D;itati</trd>
+  <trd lng="ht">li</trd>
   <trd lng="hu">olvas</trd>
-  <trd lng="id">[<ind>baca</ind>] membaca</trd>
+  <trd lng="hy">&#x56F;&#x561;&#x580;&#x564;&#x561;&#x56C;</trd>
+  <trd lng="id">mem<ind>baca</ind></trd>
+  <trd lng="ig">na-ag&#x1EE5;</trd>
+  <trd lng="is">lesa</trd>
   <trd lng="it">leggere</trd>
+  <trd lng="ja">&#x8AAD;&#x3080; [<ind>&#x3088;&#x3080;</ind>]</trd>
+  <trd lng="jv">maca</trd>
+  <trd lng="ka">&#x10EC;&#x10D0;&#x10D9;&#x10D8;&#x10D7;&#x10EE;&#x10E3;&#x10DA;&#x10D8;</trd>
+  <trd lng="kk">&#x43E;&#x49B;&c_u;</trd>
+  <trd lng="km">&#x17A2;&#x17B6;&#x1793;</trd>
+  <trd lng="kn">&#xC93;&#xCA6;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xC77D;&#xAE30;</trd>
   <trd lng="ku">xwendin</trd>
+  <trd lng="ky">&#x43E;&#x43A;&c_u;&c_u;</trd>
+  <trd lng="lat">lego</trd>
+  <trd lng="lo">&#xEAD;&#xEC8;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">skaityti</trd>
+  <trd lng="lv">las&#x12B;t</trd>
+  <trd lng="mg">vakio</trd>
+  <trd lng="mi">tai&#x2019;o</trd>
+  <trd lng="mk">&c_ch;&c_i;&c_t;&c_a;</trd>
+  <trd lng="ml">&#xD35;&#xD3E;&#xD2F;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD15;</trd>
+  <trd lng="mn">&c_u;&#x43D;&c_sh;&c_s;&c_a;&#x43D;</trd>
+  <trd lng="mr">&#x935;&#x93E;&#x91A;&#x93E;</trd>
+  <trd lng="ms">membaca</trd>
+  <trd lng="mt">aqra</trd>
+  <trd lng="my">&#x1016;&#x1010;&#x103A;</trd>
+  <trd lng="ne">&#x92A;&#x922;&#x94D;&#x928;</trd>
   <trd lng="nl">lezen</trd>
+  <trd lng="ny">kuwerenga</trd>
+  <trd lng="pa">&#xA28;&#xA42;&#xA70; &#xA2A;&#xA5C;&#xA4D;&#xA39;</trd>
   <trd lng="pl">czyta&cacute;</trd>
+  <trd lng="ps">&#x67E;&a_A;&#x62A;&#x6D0; &a_b;&a_r;&#x62E;&a_h;</trd>
   <trd lng="pt">ler</trd>
+  <trd lng="ro">citi </trd>
   <trd lng="ru">&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="rw">soma</trd>
+  <trd lng="sd">&#x67E;&#x699;&a_h;&#x6BB;</trd>
+  <trd lng="si">&#xD9A;&#xDD2;&#xDBA;&#xDC0;&#xDB1;&#xDCA;&#xDB1;</trd>
   <trd lng="sk">&ccaron;&iacute;ta&tcaron;</trd>
-  <trd lng="tp">lukin</trd>
+  <trd lng="sl">preberite</trd>
+  <trd lng="sm">faitau</trd>
+  <trd lng="sn">verenga</trd>
+  <trd lng="so">akhriyi</trd>
+  <trd lng="sq">lexoj</trd>
+  <trd lng="st">bala</trd>
+  <trd lng="su">maca</trd>
+  <trd lng="sw">kusoma</trd>
+  <trd lng="ta">&#xBAA;&#xB9F;&#xBBF;&#xB95;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC1A;&#xC26;&#xC35;&#xC21;&#xC3E;&#xC28;&#xC3F;&#xC15;&#xC3F;</trd>
+  <trd lng="tg">&c_h;&#x43E;&#x43D;&c_d;&c_a;&#x43D;</trd>
+  <trd lng="th">&#xE2D;&#xE48;&#xE32;&#xE19;</trd>
+  <trd lng="tl">basahin</trd>
+  <trd lng="tok">lukin</trd>
+  <trd lng="tt">&c_u;&#x43A;&#x44B;&c_g;&#x44B;&c_z;</trd>
+  <trd lng="uk">&c_ch;&c_i;&c_t;&c_a;&c_t;&c_i;</trd>
+  <trd lng="ur">&#x67E;&#x691;&#x6BE;&#x6CC;&#x6BA;</trd>
+  <trd lng="uz">o&#x2019;qish</trd>
+  <trd lng="vi">&#x111;&#x1ECD;c</trd>
   <trd lng="vo">lilad&ouml;n</trd>
+  <trd lng="xh">funda</trd>
+  <trd lng="yi">&#x5DC;&#x5D9;&#x5D9;&#x5E2;&#x5E0;&#x5E2;&#x5DF;</trd>
+  <trd lng="yo">ka</trd>
+  <trd lng="zu">funda</trd>
 </drv>
 
 <drv mrk="leg.0o">
@@ -209,8 +276,8 @@
     <dif>
       Tio kio estas <tld/>ata:
       <ekz>
-        li devas tuj post <tld/>o de la skribo <klr>[&#8230;]</klr>
-        la alportintojn de l&#8217; dirita skribo mortigi plej rapide
+        li devas tuj post <tld/>o de la skribo <klr>[&#x2026;]</klr>
+        la alportintojn de l&#x2019; dirita skribo mortigi plej rapide
         <fnt>
           <bib>Hamlet</bib>
         </fnt>;
@@ -219,23 +286,24 @@
         nur post <tld/>o de la verko en Esperanto, mi vagis reten trovi
         anglan originalon
         <fnt>
+          <aut>Stefan MacGill</aut>
+          <vrk><url ref="&Monato;/2004/008216.html">Konciza hororo el la
+          dek-na&ubreve;a jarcento</url></vrk>
           <bib>Monato</bib>
-          <aut>Stefan MACGILL</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008216.html">Konciza
-          hororo el la dek-na&ubreve;a jarcento</url></vrk>
+          <lok>2004/06, p. 24</lok>
         </fnt>;
       </ekz>
       <ekz>
         <uzo tip="fak">TEK</uzo>
-        registri la <ind><tld/>&c_o;j</ind>n de la sentiloj.
-        <trd lng="hu">m&eacute;r&eacute;si adat</trd>        
+        registri la <ind><tld/>oj</ind>n de la sentiloj.
+        <trd lng="hu">m&eacute;r&eacute;si adat</trd>
         <trd lng="ru">&c_p;&c_o;&c_k;&c_a;&c_z;&c_a;&c_n;&c_i;&c_ja; <klr tip="amb">(&c_p;&c_r;&c_i;&c_b;&c_o;&c_r;&c_o;&c_v;)</klr></trd>
       </ekz>
     </dif>
     <trd lng="de">Lesest&uuml;ck</trd>
     <trd lng="fr">lecture</trd>
-    <trd lng="hu">olvasm&aacute;ny</trd>    
+    <trd lng="hu">olvasm&aacute;ny</trd>
+    <trd lng="id"><ind>baca</ind>an</trd>
     <trd lng="nl">lezen</trd>
   </snc>
   <snc mrk="leg.0o.versio">
@@ -243,15 +311,15 @@
       Interpreto de teksta fragmento en manuskripto a&ubreve;
       <ref tip="vid" cel="redakc.0o.versio">redakcio</ref>:
       <ekz>
-        en la unua <tld/>o <klr>(<ref tip="sin"
-        cel="versi.0o.eldono">versio<sncref/></ref>,
+        en la unua <tld/>o <klr>(<ref tip="sin" cel="versi.0o.eldono">versio<sncref/></ref>,
         <ref tip="sin" cel="don.el0o">eldono</ref>)</klr>
         estis interkonsentita de &ccirc;iuj la lar&gcirc;a plimulto de la artikolaro
         <fnt>
-          <bib>Monato</bib>
           <aut>Hektor Alos i Font</aut>
-          <vrk><url ref="&Monato;/2006/008812.php">Survoje
-          al pli granda memregado</url></vrk>
+          <vrk><url ref="&Monato;/2006/008812.php">Survoje al pli granda
+          memregado</url></vrk>
+          <bib>Monato</bib>
+          <lok>2006/02, p. 10</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -261,7 +329,7 @@
     </dif>
     <trd lng="de">Leseart</trd>
     <trd lng="fr">le&ccedil;on<klr> (philologique)</klr></trd>
-    <trd lng="hu">olvasat</trd>    
+    <trd lng="hu">olvasat</trd>
     <trd lng="nl">leesbaarheid</trd>
   </snc>
   <trd lng="be">&c_ch;&c_y;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
@@ -270,16 +338,22 @@
   <trd lng="en">reading</trd>
   <trd lng="es">lectura</trd>
   <trd lng="it">lettura</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8AAD;&#x307F;  [<ind>&#x3088;&#x307F;</ind>]</trd>,
+    <trd>&#x8AAD;&#x307F;&#x53D6;&#x308A;  [<ind>&#x3088;&#x307F;&#x3068;&#x308A;</ind>]</trd>
+  </trdgrp>
   <trd lng="pl">odczyt</trd>
+  <trd lng="ro">lectura</trd>
   <trd lng="ru">&c_ch;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
   <trd lng="sk">&ccaron;&iacute;tanie <klr>(&ccaron;innos&tcaron;)</klr></trd>
+  <trd lng="uk">&c_ch;&c_i;&c_t;&c_a;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
 
 <drv mrk="leg.0ajho">
   <kap>
     <tld/>a&jcirc;o
   </kap>
-  <snc>
+  <snc mrk="leg.0ajho.io">
     <dif>
       Io por <tld/>i: letero, libro, gazeto ktp.:
       <ekz>
@@ -290,8 +364,8 @@
       </ekz>
       <ekz>
         ne sole la infanoj <tld/>as kun plezuro la <nom>Grimm</nom>'ajn
-        fabelojn, 
-        anka&ubreve; la maturaj homoj &scirc;atas ilin <klr>[&#8230;]</klr> kiel simplan,
+        fabelojn,
+        anka&ubreve; la maturaj homoj &scirc;atas ilin <klr>[&#x2026;]</klr> kiel simplan,
         facilan <tld/>a&jcirc;on
         <fnt>
           <bib>ElektFab</bib>
@@ -302,32 +376,44 @@
         la anonco promesas plurtavolan <tld/>a&jcirc;on, kiun oni povas
         mal&ccirc;ifri diversmaniere
         <fnt>
-          <bib>Monato</bib>
           <aut>Anna kaj Mati Pentus</aut>
-          <vrk><url ref="&Monato;/2011/010229.php">Vagadoj
-          urbaj kaj mensaj</url></vrk>
+          <vrk><url ref="&Monato;/2011/010229.php">Vagadoj urbaj kaj
+          mensaj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2011/04, p. 21</lok>
         </fnt>;
       </ekz>
       <ekz>
         specimenaj <tld/>a&jcirc;oj kaj eltira&jcirc;oj el la literaturo
         <fnt>
-          <bib>Monato</bib>
           <aut>Garvan Makaj'</aut>
-          <vrk><url ref="&Monato;/2014/011154.php">Kerno de
-          la itala lingvo</url></vrk>
+          <vrk><url ref="&Monato;/2014/011154.php">Kerno de la itala
+          lingvo</url></vrk>
+           <bib>Monato</bib>
+          <lok>2014/04, p. 16</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_e;&c_k;&c_s;&c_t;</trd>,
+    <trd>&c_ch;&c_y;&c_t;&c_a;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
   <trd lng="de">Text</trd>
   <trd lng="en">text</trd>
   <trdgrp lng="es">
     <trd>texto</trd>,
     <trd>escrito</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>baca</ind></trd>,
+    <trd>teks</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8AAD;&#x307F;&#x7269;  [<ind>&#x3088;&#x307F;&#x3082;&#x306E;</ind>]</trd>
+  <trd lng="pl">czytanka</trd>
+  <trd lng="ro">cititor</trd>
+  <trd lng="uk">&#x43C;&c_a;&c_t;&c_je;&c_r;&c_ib;&c_a;&#x43B; &c_d;&#x43B;&#x44F; &c_ch;&c_i;&c_t;&c_a;&#x43D;&#x43D;&#x44F;</trd>
 </drv>
-
-
 
 <drv mrk="leg.0ilo">
   <kap><tld/>ilo</kap>
@@ -345,20 +431,31 @@
         skanilo estas speco de <tld/>ilo;
       </ekz>
       <ekz>
-        provu <nom>Knoppix</nom> <klr>[&#8230;]</klr> sufi&ccirc;as havi &gcirc;in en la
+        provu <nom>Knoppix</nom> <klr>[&#x2026;]</klr> sufi&ccirc;as havi &gcirc;in en la
         KD-<tld/>ilo, kiam la komputilo startas
         <fnt>
-          <bib>Monato</bib>
           <aut>E. Grimley Evans</aut>
-          <vrk><url
-          ref="&Monato;/2010/010031.php">Knoppix</url></vrk>
+          <vrk><url ref="&Monato;/2010/010031.php">Knoppix</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/05, p. 17</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <nom>DVD</nom>-<tld/>ilo
+        <fnt>
+          <aut>Hektor Alos I Font</aut>
+          <vrk><url ref="&Monato;/2003/008062.html">Spektantoj
+          spektataj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/07, p. 12</lok>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="be">&c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a; &c_d;&c_l;&c_ja; <ind>&c_ch;&c_y;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
     <trd lng="de">Leseger&auml;t</trd>
-    <trd lng="es">lector electr&oacute;nico</trd>   
+    <trd lng="es">lector electr&oacute;nico</trd>
     <trd lng="hu">olvas&oacute;k&eacute;sz&uuml;l&eacute;k</trd>
-    <trd lng="it">lettore<klr> (strumento)</klr></trd>   
+    <trd lng="it">lettore<klr> (strumento)</klr></trd>
     <trd lng="ru">&c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o; &c_ch;&c_t;&c_je;&c_n;&c_i;&c_ja;</trd>
   </snc>
   <snc mrk="leg.0ilo.eliga">
@@ -369,12 +466,23 @@
       <ekz>
         <ind>nova&jcirc;<tld/>ilo</ind>;
         <trd lng="es">agregador<klr> (de noticias RSS)</klr></trd>
-        <trd lng="hu">h&iacute;rolvas&oacute;</trd> 
+        <trd lng="hu">h&iacute;rolvas&oacute;</trd>
         <trdgrp lng="it">
           <trd>feed reader</trd>,
           <trd>aggregatore<klr> (di notizie RSS)</klr></trd>
         </trdgrp>
-        <trd lng="nl">nieuwslezer</trd>       
+        <trd lng="nl">nieuwslezer</trd>
+      </ekz>
+      <ekz>
+        tiu servilo disponigas la mesa&gcirc;ojn al la retpo&scirc;to<tld/>ilo de la
+        adresito
+        <fnt>
+          <aut>Franck Arnaud</aut>
+          <vrk><url ref="&Monato;/2003/008177.html">Kia
+          solvo por rubpo&scirc;to?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2003/11, p. 15</lok>
+        </fnt>;
       </ekz>
       <ekz>
         la ene muntita <ind>TTT-<tld/>ilo</ind> ne &ccirc;iam ta&ubreve;gas por
@@ -384,32 +492,68 @@
           <aut>Henriel Fidilalao</aut>
           <vrk><url ref="&Monato;/2012/010829.php">&Ccirc;ine, &ccirc;u
           ne?</url></vrk>
+          <lok>2012/12, p. 11</lok>
          </fnt>;
-         <trd lng="es">navegador<klr> (web)</klr></trd> 
-         <trd lng="hu">b&ouml;ng&eacute;sz&odblac;</trd> 
+         <trd lng="es">navegador<klr> (web)</klr></trd>
+         <trd lng="hu">b&ouml;ng&eacute;sz&odblac;</trd>
           <trdgrp lng="it">
             <trd>browser</trd>,
             <trd>navigatore<klr> (web)</klr></trd>
           </trdgrp>
-          <trd lng="nl">bladeraar</trd>  
+          <trd lng="nl">bladeraar</trd>
+      </ekz>
+      <ekz>
+        la firmao fondi&gcirc;is en la jaro 2000 kaj komencis disvastigi sian
+        libro<tld/>ilon
+        <nom>Mobipocket Reader</nom>
+        <fnt>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2010/010009.php">Parto 1:
+          Survoje al iu libro-normo</url></vrk>
+           <bib>Monato</bib>
+          <lok>2010/04, p. 20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la po&scirc;<tld/>ilo <nom>Kindle</nom>
+        <fnt>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2010/010009.php">Parto 1:
+          Survoje al iu libro-normo</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/04, p. 20</lok>
+        </fnt>;
       </ekz>
       <ekz>
         esploristoj disdonis al infanoj kun malaltaj lernoatingoj la
         retlibran <tld/>ilon <nom>Kindle</nom>
         <fnt>
-          <bib>Monato</bib>
           <aut>Lenio Marobin</aut>
-          <vrk><url ref="&Monato;/2012/010700.php">Mortas
-          la libro, vivas la ekrano</url></vrk>
+          <vrk><url ref="&Monato;/2012/010700.php">Mortas la libro,
+          vivas la ekrano</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/07, p. 13</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        linuksuloj ver&scirc;ajne jam posedas <nom>Foxit</nom>,
+        <nom>Evince</nom> a&ubreve; alian <nom>PDF</nom>-<tld/>ilon
+        <fnt>
+          <aut>Pa&ubreve;l Peeraerts</aut>
+          <vrk><url ref="&Monato;/2010/010034.php">Parto 2:
+          Kiun po&scirc;legilon mi akiru?</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/05, p. 18</lok>
         </fnt>.
       </ekz>
     </dif>
     <ref tip="super" cel="el.0igilo">eligilo</ref>
-    <trd lng="hu">olvas&oacute;</trd>  
+    <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a; &c_d;&c_l;&c_ja; <ind>&c_ch;&c_y;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+    <trd lng="hu">olvas&oacute;</trd>
     <trdgrp lng="it">
       <trd>lettore<klr> (strumento)</klr></trd>,
       <trd>interprete<klr> (comp.)</klr></trd>
-    </trdgrp>  
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a; &c_ch;&c_t;&c_je;&c_n;&c_i;&c_ja;</trd>,
       <trd>&c_ch;&c_i;&c_t;&c_a;&c_l;&c_k;&c_a;</trd>,
@@ -427,12 +571,22 @@
     <trd>lecteur<klr> (appareil)</klr></trd>
     <trd>liseuse<klr> (appareil)</klr></trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd>pem<ind>baca</ind></trd>,
+    <trd>[<ind>pindai</ind>], pemindai</trd>
+  </trdgrp>
+  <trd lng="ja">&#x8AAD;&#x53D6;&#x308A;&#x88C5;&#x7F6E;  [<ind>&#x8AAD;&#x53D6;&#x308A;&#x305D;&#x3046;&#x3061;</ind>]</trd>
   <trd lng="nl">lezer</trd>
-  <trd lng="pl">czytnik</trd>
+  <trdgrp lng="pl">
+    <trd>czytnik</trd>,
+    <trd>przegl&aogonek;darka</trd>
+  </trdgrp>
+  <trd lng="ro">browser</trd>
   <trdgrp lng="sk">
     <trd>sn&iacute;ma&ccaron;</trd>,
     <trd>&ccaron;&iacute;tacie zariadenie</trd>
   </trdgrp>
+  <trd lng="uk">&c_z;&c_ch;&c_i;&c_t;&c_u;&c_v;&c_a;&c_ch;</trd>
 </drv>
 
 <drv mrk="leg.antaux0i">
@@ -449,7 +603,15 @@
       </ekz>
       <ekz>
         <klr>[la novajn librojn]</klr> mi anta&ubreve;<tld/>os al vi
-        <fnt><bib>Fab4</bib><lok>Abocolibro</lok></fnt>.
+        <fnt><bib>Fab4</bib><lok>Abocolibro</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i a&ubreve;dis, kiel &scirc;ia mastro la&ubreve;te anta&ubreve;<tld/>as, kaj &scirc;i povis
+        sen&gcirc;ene lin a&ubreve;skulti
+        <fnt>
+          <bib>Fab3</bib>
+          <lok>Juda knabino</lok>
+        </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -464,7 +626,7 @@
     <trd>lire<klr tip="ind"> (&agrave; un auditoire)</klr></trd>,
     <trd>prononcer<klr tip="ind"> (un discours)</klr></trd>
   </trdgrp>
-  <trd lng="hu">felolvas</trd>  
+  <trd lng="hu">felolvas</trd>
   <trdgrp lng="it">
     <trd>leggere<klr> (a voce alta)</klr></trd>,
     <trd>pronunciare<klr tip="ind"> (un discorso)</klr></trd>
@@ -472,6 +634,11 @@
   <trdgrp lng="pl">
     <trd>czyta&cacute;<klr> na g&lstroke;os/publicznie</klr></trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>citeste cu voce tare</trd>,
+    <trd>citit &icirc;n public</trd>
+  </trdgrp>
+  <trd lng="uk">&c_ch;&c_i;&c_t;&c_a;&c_t;&c_i; (&#x43F;&c_je;&c_r;&c_je;&c_d; &#x43A;&c_i;&#x43C;-&#x43D;.)</trd>
 </drv>
 
 <drv mrk="leg.tra0i">
@@ -488,6 +655,29 @@
           <aut>&Z;</aut>:
           <vrk>Anta&ubreve;parolo al la unua eldono
           de la Fundamenta Krestomatio</vrk>.</fnt>;
+      </ekz>
+      <ekz>
+        kiam la re&gcirc;o de <nom>Izrael</nom> tra<tld/>is la leteron, li
+        dis&scirc;iris siajn vestojn
+        <fnt>
+          <bib>MT</bib>
+          <lok>II. Re&gcirc;oj 5:7</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ne povis tra<tld/>i la surskribon, nek klarigi al la re&gcirc;o
+        &gcirc;ian signifon
+        <fnt>
+          <bib>MT</bib>
+          <lok>Daniel 5:8</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        jen mi tra<tld/>os al vi leteron, kiun mi ricevis
+        <fnt>
+          <bib>Revizoro</bib>
+          <lok>Akto unua</lok>
+        </fnt>;
       </ekz>
       <ekz>
         mi tre dankas ilin kaj tute aparte la plej akrevidan
@@ -516,13 +706,22 @@
   </trdgrp>
   <trd lng="fr">lire d'un bout &agrave; l'autre</trd>
   <trd lng="hu">v&eacute;gigolvas</trd>
+  <trdgrp lng="ja">
+    <trd>&#x901A;&#x8AAD;&#x3059;&#x308B;  [<ind>&#x3064;&#x3046;&#x3069;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8AAD;&#x307F;&#x901A;&#x3059;  [<ind>&#x3088;&#x307F;&#x3068;&#x304A;&#x3059;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">doorlezen</trd>
   <trdgrp lng="pl">
     <trd>przeczyta&cacute;</trd>,
     <trd>czyta&cacute; od deski do deski<klr> (pot.)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ro">
+    <trd>lectura</trd>,
+    <trd>citi&#x21B;i din copert&abreve; &icirc;n copert&abreve;</trd>
+  </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">pre&ccaron;&iacute;ta&tcaron;</trd>
+  <trd lng="uk">&#x43F;&c_r;&#x43E;&c_ch;&c_i;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="leg.fin0i">
@@ -535,24 +734,32 @@
         la 13-jara filino devigite fin<tld/>is &gcirc;in, la 10-jara rezignis
         post pa&gcirc;o 5
         <fnt>
+          <aut>Guido van Damme</aut>
+          <vrk><url ref="&Monato;/2004/008167.html">Pli interese estas
+          kreskigi kukurbojn</url></vrk>
           <bib>Monato</bib>
-          <aut>Guido Van Damme</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008167.html">Pli
-          interese estas kreskigi kukurbojn</url></vrk>
+          <lok>2004/05, p. 23</lok>
         </fnt>;
       </ekz>
       <ekz>
-        post la ek<tld/>o oni pensas: &leftquot;Ho, kiom interesa temo!&rightquot;, sed 
+        post la ek<tld/>o oni pensas: &leftquot;ho, kiom interesa temo!&rightquot;, sed
         jam meze oni ver&scirc;ajne trafoliumas la reston, sen esperi
         fin<tld/>i
         <fnt>
+          <aut>Grigori Arosev</aut>
+            <vrk><url ref="&Monato;/2000/007198.php">Poezio sed ne poemoj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/12, p. 28</lok>
+          </fnt>;
+      </ekz>
+      <ekz>
+        fin<tld/>e oni postlasi&gcirc;as plurfacete enpensi&gcirc;inta
+        <fnt>
+          <aut>Pejno Simono</aut>
+          <vrk><url ref="&Monato;/2001/007110.php">Atentokapta sed ru&gcirc;krajoninda</url></vrk>
           <bib>Monato</bib>
-          <aut>Boris Kolker</aut>
-          <vrk><url
-          ref="http://steloj.de/esperanto/monato2/007198.html">Poezio
-          sed ne poemoj</url></vrk>
-        </fnt>.
+          <lok>2001/01, p. 31</lok>
+          </fnt>.
       </ekz>
     </dif>
   </snc>
@@ -573,11 +780,13 @@
     <trd>finire di <ind>leggere</ind></trd>,
     <trd>terminare<klr> (un libro)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x8AAD;&#x307F;&#x7D42;&#x3048;&#x308B;  [<ind>&#x3088;&#x307F;&#x304A;&#x3048;&#x308B;</ind>]</trd>
   <trd lng="nl">uitlezen</trd>
   <trdgrp lng="pl">
     <trd>doczyta&cacute;</trd>,
     <trd>przeczyta&cacute;</trd>
   </trdgrp>
+  <trd lng="ro">descifra</trd>
   <trd lng="ru">&c_d;&c_o;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
   <trd lng="sk">do&ccaron;&iacute;ta&tcaron;</trd>
 </drv>
@@ -603,7 +812,7 @@
       <aut>Sergio Pokrovskij</aut>
     </rim>
     <trd lng="be">&c_ch;&c_y;&c_t;&c_a;&c_c;&c_mol; &c_g;&c_u;&c_ch;&c_n;&c_a;</trd>
-    <trd lng="hu">hangosan <ind>olvas</ind></trd>    
+    <trd lng="hu">hangosan <ind>olvas</ind></trd>
     <trd lng="ru">&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol; &c_g;&c_r;&c_o;&c_m;&c_k;&c_o;</trd>
   </snc>
   <snc mrk="leg.lauxt0i.vocxlegi">
@@ -615,8 +824,7 @@
         <fnt>
           <aut>R. Pyh&auml;l&auml;</aut>,
           <vrk>Lernolibroj de Lars Forsman</vrk>,
-          <lok><url ref=
-          "http://www.nl-papa.hu/ipr/instruiloj_02_2.htm">
+          <lok><url ref="http://www.nl-papa.hu/ipr/instruiloj_02_2.htm">
           El IPR 2002:2</url></lok>.
         </fnt>;
       </ekz>
@@ -624,16 +832,17 @@
         la libreto ta&ubreve;gas por sufi&ccirc;e junaj infanoj por la&ubreve;t<tld/>i kaj
         por iom pli a&gcirc;aj, kiuj jam bone memstare legas
         <fnt>
+          <aut>Karlijn van Damme</aut>
+          <vrk><url ref="&Monato;/2007/008628.php">Kio estas sklavo kaj
+          kiu estis Kristo</url></vrk>
           <bib>Monato</bib>
-          <aut>Karlijn Van Damme</aut>
-          <vrk><url ref="&Monato;/2007/008628.php">Kio
-          estas sklavo kaj kiu estis Kristo</url></vrk>
+          <lok>2007/05, p. 21</lok>
         </fnt>.
       </ekz>
     </dif>
     <rim>
       Tiu uzo estas evitinda, &ccirc;ar vo&ccirc;<tld/>ado povas
-      esti la&ubreve;ta a&ubreve; malla&ubreve;ta &#8208;
+      esti la&ubreve;ta a&ubreve; malla&ubreve;ta &#x2010;
       la&ubreve;teco ne estas trafa karakterizilo. Tial &Z; klare
       preferas la vorton &leftquot;vo&ccirc;<tld/>i&rightquot;.
       <aut>Sergio Pokrovskij</aut>
@@ -645,6 +854,8 @@
     <trd>leggere<klr> (a voce alta)</klr></trd>
   </trdgrp>
   <trd lng="pl"><ind>czyta&cacute;</ind> na g&lstroke;os</trd>
+  <trd lng="ro">citeste cu voce tare</trd>
+  <trd lng="uk">&c_ch;&c_i;&c_t;&c_a;&c_t;&c_i; &c_v;&c_g;&#x43E;&#x43B;&#x43E;&c_s;</trd>
 </drv>
 
 <drv mrk="leg.prov0i">
@@ -659,31 +870,33 @@
         se perfekta rezulto estas bezonata, necesas prov<tld/>i la tutan
         tekston
         <fnt>
-          <bib>Monato</bib>
           <aut>Roland Rotsaert</aut>
-          <vrk><url ref="&Monato;/2012/010663.php">De
-          papero al komputilo: bitigo de presitaj dokumentoj</url></vrk>
+          <vrk><url ref="&Monato;/2012/010663.php">De papero al
+          komputilo: bitigo de presitaj dokumentoj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2012/03, p. 12</lok>
         </fnt>;
       </ekz>
       <ekz>
         la libreto bone aspektas, enhavas multajn utilajn
-        ilustra&jcirc;ojn<klr>[&#8230;]</klr>, estas klare presita kaj zorge
+        ilustra&jcirc;ojn <klr>[&#x2026;]</klr>, estas klare presita kaj zorge
         prov<tld/>ita
         <fnt>
-          <bib>Monato</bib>
           <aut>Donald Broadribb</aut>
-          <vrk><url
-          ref="https://www.monato.be/2004/008159.html">Fakaj
-          studoj diverstemaj</url></vrk>
+          <vrk><url ref="&Monato;/2004/008159.html">Fakaj studoj
+          diverstemaj</url></vrk>
+          <bib>Monato</bib>
+          <lok>2004/02, p. 22</lok>
         </fnt>;
       </ekz>
       <ekz>
         &ccirc;u ne sufi&ccirc;e da tempo por prov<tld/>igi anta&ubreve; la eldonado
         <fnt>
-          <bib>Monato</bib>
           <aut>Heidi Goes</aut>
-          <vrk><url ref="&Monato;/2010/009857.php">&Ccirc;arma,
-          originaltema kaj pensiga</url></vrk>
+          <vrk><url ref="&Monato;/2010/009857.php">&Ccirc;arma, originaltema
+          kaj pensiga</url></vrk>
+          <bib>Monato</bib>
+          <lok>2010/04, p. 26</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -693,20 +906,36 @@
         <fnt>
           <aut>H. Gorecka, A. Kor&jcirc;enkov</aut>,
           <bib>LOdE</bib>,
-          <lok><url ref="http://ttt.esperanto.org/Ondo/76-lode.htm">
+          <lok><url ref="&LOdE;76-lode.htm">
           2001:2</url></lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_ch;&c_y;&c_t;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_k;&c_a;&c_r;&c_e;&c_k;&c_t;&c_u;&c_r;&c_u;</ind></trd>
+  </trdgrp>
   <trd lng="de">redigieren</trd>
   <trd lng="en">to proofread</trd>
   <trdgrp lng="es">
     <trd>revisar</trd>
     <trd>corregir</trd>
   </trdgrp>
-  <trd lng="fr">relire<klr> (pour corriger)</klr></trd> 
-  <trd lng="hu">lektor&aacute;l</trd> 
+  <trd lng="fr">relire<klr> (pour corriger)</klr></trd>
+  <trd lng="hu">lektor&aacute;l</trd>
+  <trdgrp lng="ja">
+    <trd>&#x8A66;&#x8AAD;&#x3059;&#x308B;  [<ind>&#x305F;&#x3081;&#x3088;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6821;&#x6B63;&#x3059;&#x308B;  [<ind>&#x3053;&#x3046;&#x305B;&#x3044;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">proeflezen</trd>
+  <trdgrp lng="pl">
+    <trd>poprawia&cacute;</trd>,
+    <trd>robi&cacute; korekt&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>corecta</trd>,
+    <trd>face&#x21B;i corec&#x21B;ii</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="leg.tut0i">
@@ -716,19 +945,18 @@
     <dif>
       <refgrp tip="dif">
         <ref cel="leg.tra0i">Tralegi</ref>,
-        <ref tip="dif" cel="leg.fin0i">finlegi</ref>
+        <ref cel="leg.fin0i">finlegi</ref>
       </refgrp>:
       <ekz>
         &scirc;i nur sukcesis tut<tld/>i &gcirc;in dum longaj 45 minutoj
         <fnt>
-          <lok><url
-          ref="http://jotakaeme.blogspot.com/2014/03/">Blog-oficina De
+          <lok><url ref="http://jotakaeme.blogspot.com/2014/03/">Blog-oficina De
           Josenilton Kaj Madragoa</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
-  <trd lng="be">&c_p;&c_r;&c_a;&c_ch;&c_y;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_ch;&c_y;&c_t;&c_a;&c_c;&c_mol; <klr>(&c_c;&c_a;&c_l;&c_k;&c_a;&c_m;)</klr></trd>
   <trd lng="cs">cel&eacute; p&rcaron;e&ccaron;&iacute;st</trd>
   <trdgrp lng="de">
     <trd>auslesen</trd>,
@@ -748,6 +976,10 @@
   <trdgrp lng="pl">
     <trd>przeczyta&cacute;</trd>,
     <trd>czyta&cacute; od deski do deski<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>lectura</trd>,
+    <trd>citi&#x21B;i din copert&abreve; &icirc;n copert&abreve;</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_ch;&c_je;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">cel&eacute; pre&ccaron;&iacute;ta&tcaron;</trd>
@@ -770,9 +1002,10 @@
         la vortoj elsaltas de sur la pa&gcirc;oj, tiel ke oni povas
         &gcirc;oje ne nur <tld/>i sed anka&ubreve; vo&ccirc;<tld/>i ilin
         <fnt>
-          <aut>P. Gubbins</aut>,
+          <aut>Paul Gubbins</aut>,
           <vrk>Ekvivas klasika&jcirc;o</vrk>,
           <bib>Monato</bib>
+          <lok>2000/09, p 24</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -795,14 +1028,20 @@
     <trd>leer de viva voz</trd>
   </trdgrp>
   <trd lng="fr"><ind>lire</ind> &agrave; haute voix</trd>
-  <trd lng="hu">felolvas</trd>  
+  <trd lng="hu">felolvas</trd>
   <trdgrp lng="it">
     <trd>leggere<klr> (a voce alta)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x97F3;&#x8AAD;&#x3059;&#x308B;  [<ind>&#x304A;&#x3093;&#x3069;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x6717;&#x8AAD;&#x3059;&#x308B;  [<ind>&#x308D;&#x3046;&#x3069;&#x304F;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">hardop <ind>lezen</ind></trd>
   <trd lng="pl"><ind>czyta&cacute;</ind> na g&lstroke;os</trd>
   <trd lng="pt">ler em voz alta</trd>
+  <trd lng="ro">citeste cu voce tare</trd>
   <trd lng="ru">&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol; <ind>&c_v;&c_s;&c_l;&c_u;&c_h;</ind></trd>
+  <trd lng="uk">&c_ch;&c_i;&c_t;&c_a;&c_t;&c_i; &c_v;&c_g;&#x43E;&#x43B;&#x43E;&c_s;</trd>
 </drv>
 
 <drv mrk="leg.0opova">
@@ -813,16 +1052,16 @@
     <dif>
       Kapabla <tld/>i:
       <ekz>
-        oni ne uzu la vorton <ctl>alfabetigado</ctl> en la 
-        &gcirc;enerala senco de <tld/>opovigo, &ccirc;ar 
-        multaj popoloj estas <tld/>opovaj sen alfabeta 
+        oni ne uzu la vorton <ctl>alfabetigado</ctl> en la
+        &gcirc;enerala senco de <tld/>opovigo, &ccirc;ar
+        multaj popoloj estas <tld/>opovaj sen alfabeta
         skribsistemo kaj ne deziras <ctl>alfabetigon</ctl>!
         <fnt>
           <aut>E. Grimley Evans</aut>,
-          <vrk><url ref="http://www.esperanto.be/fel/mon/rec/dmpo.html">
-          Utilega konsultlibro</url></vrk>
+          <vrk><url ref="&Monato;/1995/dmpo.html">Utilega
+          konsultlibro</url></vrk>
           <bib>Monato</bib>,
-          <lok>1995:2, p. 20a</lok>
+          <lok>1995/02, p. 20</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -830,36 +1069,46 @@
         iom <tld/>opova
         <fnt>
           <aut>Bakin, trad. Vejdo</aut>,
-          <vrk><url ref="http://www.elerno.net/elibro/familio26.htm">
-          La Familio</url></vrk>
+          <vrk><url ref="http://www.elerno.net/elibro/familio26.htm">La
+          Familio</url></vrk>
           <lok>1999</lok>
         </fnt>;
       </ekz>
       <ekz>
-        <ctl>Semajna Resumo</ctl> elstarigas, ke <ctl>legado kaj 
-        skribado estas nemalhaveblaj por inkludo de individuo en la 
+        <ctl>Semajna Resumo</ctl> elstarigas, ke <ctl>legado kaj
+        skribado estas nemalhaveblaj por inkludo de individuo en la
         <tld/>ipovan socion</ctl>
         <fnt>
           <aut>J. de Paiva Netto </aut>
-          <vrk><url
-          ref="https://www.paivanetto.com/eo/homaj-rajtoj/rasismo-socia-kancero">
-          Rasismo &ndash; socia kancero</url></vrk>
+          <vrk><url ref="https://www.paivanetto.com/eo/homaj-rajtoj/rasismo-socia-kancero">Rasismo
+          &ndash; socia kancero</url></vrk>
           <lok>[vidita en 2019]</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>
+  <trd lng="de">lesef&auml;hig</trd>
   <trd lng="en">literate</trd>
   <trdgrp lng="es">
     <trd>capaz de <ind>leer</ind> y escribir</trd>,
     <trd>no analfabeto</trd>
   </trdgrp>
   <trd lng="fr">alphab&eacute;tis&eacute;</trd>
+  <trdgrp lng="id">
+    <trd><ind>melek</ind> aksara</trd>,
+    <trd><ind>melek</ind> huruf</trd>
+  </trdgrp>
   <trdgrp lng="it">
     <trd>capace di <ind>leggere</ind> e scrivere</trd>,
     <trd>alfabetizzato</trd>
   </trdgrp>
+  <trd lng="pl">pi&sacute;mienny</trd>
   <trd lng="pt">alfabetizado<klr tip="ind"> (algu&eacute;m)</klr></trd>
+  <trdgrp lng="ro">
+    <trd>scris</trd>,
+    <trd>cu &#x219;tiin&#x21B;&abreve; de carte</trd>
+  </trdgrp>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_m;&c_o;&c_t;&c_n;&c_y;&c_j;</trd>
 </drv>
 
@@ -870,18 +1119,17 @@
     <dif>
       Kapablo <tld/>i:
       <ekz>
-        li multe kura&gcirc;igis <tld/>opovon <klr>[&#8230;]</klr>
+        li multe kura&gcirc;igis <tld/>opovon <klr>[&#x2026;]</klr>
         <fnt>
           <aut>R. Brisebois</aut>,
-          <vrk><url
-          ref="http://www.geocities.com/hilelista_komunumo/hilelisto31.htm">
+          <vrk><url ref="http://www.geocities.com/hilelista_komunumo/hilelisto31.htm">
           John Wesley</url></vrk>,
           <lok>Hilelisto, 2003:31</lok>
         </fnt>;
       </ekz>
       <ekz>
-        en indi&gcirc;enaj komunumoj de meksiko, dulingvaj instruistoj notas, 
-        ke lernantoj kiuj komencas la elementan lernejadon en la 
+        en indi&gcirc;enaj komunumoj de meksiko, dulingvaj instruistoj notas,
+        ke lernantoj kiuj komencas la elementan lernejadon en la
         gepatra lingvo akiras <tld/>ipovon pli rapide
         <fnt>
           <aut>A Giridhar RAO</aut>
@@ -892,18 +1140,22 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="de">Lesef&auml;higkeit</trd>
   <trd lng="en">literacy</trd>
   <trd lng="es">alfabetizado</trd>
   <trd lng="fr">alphab&eacute;tisme</trd>
+  <trd lng="id">literasi</trd>
   <trdgrp lng="it">
     <trd>saper <ind>leggere</ind> e scrivere</trd>,
     <trd>essere alfabetizzato</trd>
   </trdgrp>
+  <trd lng="pl">alfabetyzm</trd>
+  <trd lng="ro">alfabetizare</trd>
 </drv>
 
 <drv mrk="leg.0opovigo">
-  <kap><tld/>opovigo,
-  <var><kap><tld/>ipovigo</kap></var></kap>
+  <kap><tld/>opovigo</kap>
   <snc mrk="leg.0opovigo.TIP">
     <uzo tip="stl">RAR</uzo>
     <dif>
@@ -920,12 +1172,18 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_k;&c_a;&c_r;&c_a;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je; &c_n;&c_je;&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je; &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  </trdgrp>
   <trd lng="en">teaching of literacy</trd>
   <trd lng="es">alfabetizaci&oacute;n</trd>
   <trd lng="fr">alphab&eacute;tisation</trd>
   <trd lng="it">alfabetizzazione</trd>
+  <trd lng="pl">alfabetyzacja</trd>
   <trd lng="pt">alfabetiza&ccedil;&atilde;o<klr tip="ind">
   (de algu&eacute;m)</klr></trd>
+  <trd lng="ro">alfabetizare</trd>
 </drv>
 
 <drv mrk="leg.ne0opova">
@@ -937,31 +1195,30 @@
       Kiu ne povas <tld/>i, ne konas literojn;
       <ref tip="sin" cel="analfa.0a">analfabeta</ref>:
       <ekz>
-        la ne<tld/>opova popolo <klr>...</klr> blinde
+        la ne<tld/>opova popolo <klr>[&#x2026;]</klr> blinde
         obeis al lokaj oficistoj kaj bienposedantoj
         <fnt>
          <aut>L. N. Tolstoj, trad. I. Ma&ccirc;ernis</aut>,
-         <vrk><url
-         ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">
-         Kristanismo kaj Patriotismo</url></vrk>,
+         <vrk><url ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">Kristanismo
+         kaj Patriotismo</url></vrk>,
          <lok>1931</lok>
         </fnt>;
       </ekz>
       <ekz>
-        bezonas ili ne komfortigan brakon, sed platon da man&gcirc;a&jcirc;o kaj 
-        akvimunajn &scirc;uojn tiel ke ili povas frekventi lernejon; multaj 
-        estas ne<tld/>ipovaj kaj anka&ubreve; siajn infanojn ne povos 
-        sendi al lernejo 
+        bezonas ili ne komfortigan brakon, sed platon da man&gcirc;a&jcirc;o kaj
+        akvimunajn &scirc;uojn tiel ke ili povas frekventi lernejon; multaj
+        estas ne<tld/>ipovaj kaj anka&ubreve; siajn infanojn ne povos
+        sendi al lernejo
         <fnt>
           <aut>E. de Groen</aut>
-          <vrk><url
-          ref="https://komputeko.net/revuoj/Kroniko-de-Balkanio.pdf">
-          Kiel ka&scirc;i la fra&ubreve;don?</url></vrk>
-          <lok>Balkana Versa Stelo, 2017-03-01</lok>
+          <vrk><url ref="http://www.elerno.cn/elibro/Kroniko%20de%20Balkanio.pdf">Kiel
+          ka&scirc;i la fra&ubreve;don?</url></vrk>
+          <lok>Balkana Verda Stelo, 2017-03-01</lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_n;&c_je;&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>
   <trdgrp lng="en">
     <trd>illiterate</trd>,
     <trd>analphabet</trd>
@@ -974,34 +1231,37 @@
     <trd>analphab&egrave;te</trd>,
     <trd>illettr&eacute;</trd>
   </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>buta</ind> huruf</trd>,
+    <trd>tunaaksara</trd>
+  </trdgrp>
+  <trd lng="pl">niepi&sacute;mienny</trd>
+  <trd lng="ro">analfabet</trd>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.55  2019/06/30 07:42:48  revo
-adaptis URL de Monato
+versio 1.149 2023/08/29 18:31:12
+Wolfram Diestel: ja: prononco
 
-Revision 1.54  2019/06/27 10:10:14  revo
-Guillermo Molleda Jimena: trd es
+versio 1.148 2023/05/10 14:40:48
+Paul Peeraerts: + lok + url
 
-Revision 1.53  2019/04/03 15:10:15  revo
-Jeromo Vasxe: + formoj leg*i*pov
+versio 1.147 2023/05/04 22:28:12
+Robin van der Vliet: cirila litero sxangxita al latina litero, en esperanta teksto
 
-Revision 1.52  2019/01/02 11:10:17  revo
-Jean-Marc Lugrin: Aldoni fr liseuse en legilo
+versio 1.146 2023/05/03 07:25:51
+Paul Peeraerts: esperanto.be -> &Monato;
 
-Revision 1.51  2017/11/28 21:10:13  revo
-Wolfram Diestel: prilaboris ekz-ojn, +~ajho, -~opov(ig)i
+versio 1.145 2023/04/30 16:32:27
+Paul Peeraerts: Steloj -> monato
 
-Revision 1.50  2017/11/26 18:10:14  revo
-Wolfram Diestel: legi: prilaboris ekz-ojn
+versio 1.144 2023/04/17 05:27:58
+Paul Peeraerts: Steloj -> monato.be
 
-Revision 1.49  2016/02/11 21:10:17  revo
-Cindy Moon McKee: +trd en
+versio 1.143 2023/01/26 09:27:17
+Dmitri Gabinski: + trd be
 
-Revision 1.48  2015/07/04 08:37:38  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.47  2015/06/29 16:33:19  revo
+versio 1.142 2022/05/01 12:04:34
 -->
 </vortaro>

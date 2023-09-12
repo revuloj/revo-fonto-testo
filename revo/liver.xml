@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: liver.xml,v 1.17 2020/01/31 00:11:00 revo Exp $">
+<art mrk="$Id: liver.xml,v 1.19 2023/09/01 19:11:00 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>liver</rad>/i
@@ -37,7 +36,7 @@
      <trd>&uuml;berbringen</trd>
    </trdgrp>
   <trd lng="hu">sz&aacute;ll&iacute;t</trd>
-  <trd lng="th">&#3618;&#3585;&#3651;&#3627;&#3657;</trd>   
+  <trd lng="th">&#xE22;&#xE01;&#xE43;&#xE2B;&#xE49;</trd>   
   </snc>
   <snc mrk="liver.0i.havigi">
     <dif>
@@ -77,7 +76,7 @@
      <trd>bringen</trd>,
      <trd>mit sich bringen</trd>
    </trdgrp>
-    <trd lng="th">&#3607;&#3635;&#3651;&#3627;&#3657;&#3617;&#3637;</trd>
+    <trd lng="th">&#xE17;&#xE33;&#xE43;&#xE2B;&#xE49;&#xE21;&#xE35;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
@@ -98,6 +97,13 @@
     <trd>livrer</trd>
   </trdgrp>
   <trd lng="hu">hoz</trd>
+  <trdgrp lng="ja">
+    <trd>&#x914D;&#x9054;&#x3059;&#x308B;  [<ind>&#x306F;&#x3044;&#x305F;&#x3064;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x5C4A;&#x3051;&#x308B;  [<ind>&#x3068;&#x3069;&#x3051;&#x308B;</ind>]</trd>,
+    <trd>&#x5F15;&#x304D;&#x6E21;&#x3059;  [<ind>&#x3072;&#x304D;&#x308F;&#x305F;&#x3059;</ind>]</trd>,
+    <trd>&#x7D0D;&#x54C1;&#x3059;&#x308B;  [<ind>&#x306E;&#x3046;&#x3072;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x4F9B;&#x7D66;&#x3059;&#x308B;  [<ind>&#x304D;&#x3087;&#x3046;&#x304D;&#x3085;&#x3046;&#x3059;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">leveren</trd>
   <trdgrp lng="pl">
     <trd>dor&eogonek;cza&cacute;</trd>,
@@ -123,6 +129,14 @@
     <trd>doru&ccaron;i&tcaron;</trd>,
     <trd>odovzda&tcaron;</trd>
   </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x434;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x44F;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x44F;&#x442;&#x438;</trd>,
+    <trd>&#x43F;&#x43E;&#x441;&#x442;&#x430;&#x447;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x438;&#x434;&#x430;&#x432;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x432;&#x440;&#x443;&#x447;&#x430;&#x442;&#x438;</trd>,
+    <trd>&#x434;&#x430;&#x432;&#x430;&#x442;&#x438;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="liver.0anto">
@@ -136,8 +150,7 @@
       <ref cel="per.0anto">peranto</ref>
     </refgrp>
   </snc>
-  <trd
-  lng="be">&c_p;&c_a;&c_s;&c_t;&c_a;&c_w;&c_ch;&c_sh;&c_y;&c_k;</trd>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_a;&c_w;&c_ch;&c_sh;&c_y;&c_k;</trd>
   <trdgrp lng="cs">
     <trd>dodavatel</trd>,
     <trd>dopravce</trd>,
@@ -154,11 +167,17 @@
     <trd>fournisseur</trd>
   </trdgrp>
   <trd lng="hu">sz&aacute;ll&iacute;t&oacute;</trd>
+  <trdgrp lng="ja">
+    <trd>&#x51FA;&#x5165;&#x308A;&#x5546;&#x4EBA;  [<ind>&#x3067;&#x3044;&#x308A;&#x3057;&#x3087;&#x3046;&#x306B;&#x3093;</ind>]</trd>,
+    <trd>&#x7D0D;&#x5165;&#x696D;&#x8005;  [<ind>&#x306E;&#x3046;&#x306B;&#x3085;&#x3046;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>,
+    <trd>&#x4F9B;&#x7D66;&#x8005;  [<ind>&#x304D;&#x3087;&#x3046;&#x304D;&#x3085;&#x3046;&#x3057;&#x3083;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">leverancier</trd>
   <trd lng="pl">dostawca</trd>     
   <trd lng="ro">furnizor</trd>
   <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_shch;&c_i;&c_k;</trd>
   <trd lng="sk">dod&aacute;vate&lcaron;</trd>
+  <trd lng="uk">&#x43F;&#x43E;&#x441;&#x442;&#x430;&#x447;&#x430;&#x43B;&#x44C;&#x43D;&#x438;&#x43A;</trd>
 </drv>
 </art>
 <!--

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kontak.xml,v 1.19 2010/07/13 16:30:18 revo Exp $">
+<art mrk="$Id: kontak.xml,v 1.28 2023/09/01 15:46:43 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>kontakt</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
@@ -34,7 +33,7 @@
     </trdgrp>
     <trdgrp lng="pt">
       <trd>contato</trd>,
-      <trd>contig&uuml;idade</trd>,    
+      <trd>contig&uuml;idade</trd>,
       <trd>toque</trd>
     </trdgrp>
   </snc>
@@ -79,18 +78,22 @@
     <trd>&eacute;rintkez&eacute;s</trd>,
     <trd>kapcsolat</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x63A5;&#x89E6;  [<ind>&#x305B;&#x3063;&#x3057;&#x3087;&#x304F;</ind>]</trd>,
+    <trd>&#x9023;&#x7D61;  [<ind>&#x308C;&#x3093;&#x3089;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">contact</trd>
   <trdgrp lng="pl">
     <trd>kontakt</trd>,
     <trd>&lstroke;&aogonek;czno&sacute;&cacute;</trd>,
     <trd>styczno&sacute;&cacute;</trd>,
     <trd>styk</trd>
-  </trdgrp>   
+  </trdgrp>
   <trdgrp lng="ro">
     <trd>contact</trd>,
     <trd>leg&abreve;tur&abreve;</trd>,
     <trd>intrerupator</trd>
-  </trdgrp>  
+  </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_t;&c_a;&c_k;&c_t;</trd>
   <trdgrp lng="sk">
     <trd>dotyk</trd>,
@@ -150,8 +153,7 @@
         <fnt>
         <aut>T. Steele</aut>
         <vrk>Unu tago en la vivo de la Centra Oficejo</vrk>
-        <lok><url
-        ref="http://www.uea.org/revuo/2002/majo/unutago.html">Esperanto
+        <lok><url ref="&UEA;revuo/2002/majo/unutago.html">Esperanto
         2002-05</url></lok>
         </fnt>;
       </ekz>
@@ -161,8 +163,7 @@
         <fnt>
         <aut>&Jcirc;omart kaj Nata&scirc;a</aut>
         <vrk>Telefono</vrk><lok>
-        <url
-        ref="http://lyrical.nl/song/11913">http://lyrical.nl/song/11913</url></lok>
+        <url ref="http://lyrical.nl/song/11913">http://lyrical.nl/song/11913</url></lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -176,7 +177,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la esplorservo <tld/>is atestantojn kiuj asertas, 
+        la esplorservo <tld/>is atestantojn kiuj asertas,
         ke vi havis intiman rilaton kun via direktoro
         <fnt><bib>UrdHadda</bib>, <lok>p. 18</lok></fnt>.
       </ekz>
@@ -191,6 +192,10 @@
       anka&ubreve; per <ctl><tld/>igi sin kun</ctl>
       a&ubreve; <ctl><tld/>i&gcirc;i kun</ctl>.
     </rim>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_n;&c_t;&c_a;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_mol;&c_v;&c_ja;&c_r;&c_t;&c_a;&c_c;&c_c;&c_a;</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>contacter</trd>,
       <trd>prendre <ind>contact</ind></trd>
@@ -202,7 +207,11 @@
     <trd>st&yacute;kat se</trd>
   </trdgrp>
   <trd lng="es">contactar</trd>
-  <trd lng="pl">kontaktowa&cacute;</trd>     
+  <trdgrp lng="ja">
+    <trd>&#x63A5;&#x89E6;&#x3057;&#x3066;&#x3044;&#x308B;  [<ind>&#x305B;&#x3063;&#x3057;&#x3087;&#x304F;&#x3057;&#x3066;&#x3044;&#x308B;</ind>]</trd>,
+    <trd>&#x9023;&#x7D61;&#x3092;&#x4FDD;&#x3063;&#x3066;&#x3044;&#x308B;  [<ind>&#x308C;&#x3093;&#x3089;&#x304F;&#x3092;&#x305F;&#x3082;&#x3063;&#x3066;&#x3044;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">kontaktowa&cacute;</trd>
   <trd lng="ro">contacta</trd>
   <trdgrp lng="sk">
     <trd>dot&yacute;ka&tcaron; sa</trd>,
@@ -221,12 +230,12 @@
       </ekz>
       <ekz>
         &scirc;i <tld/>igas la negrandan telerforman
-        la&ubreve;tparolilon 
+        la&ubreve;tparolilon
         <klr>[al la radio-ricevilo]</klr>
         <fnt><bib>Metrop</bib>, <lok>&ccirc;ap. 6</lok></fnt>;
       </ekz>
       <ekz>
-        li faros &ccirc;ion eblan por <tld/>igi vin kun la persono, 
+        li faros &ccirc;ion eblan por <tld/>igi vin kun la persono,
         kapabla solvi vian demandon
         <fnt>
         <bib>Voja&gcirc;o</bib>,
@@ -255,8 +264,12 @@
     <trd>&eacute;rintkez&eacute;sbe hoz</trd>,
     <trd>&ouml;sszekapcsol</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x63A5;&#x89E6;&#x3055;&#x305B;&#x308B;  [<ind>&#x305B;&#x3063;&#x3057;&#x3087;&#x304F;&#x3055;&#x305B;&#x308B;</ind>]</trd>,
+    <trd>&#x9023;&#x7D61;&#x3092;&#x53D6;&#x3089;&#x305B;&#x308B;  [<ind>&#x308C;&#x3093;&#x3089;&#x304F;&#x3092;&#x3068;&#x3089;&#x305B;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">contact leggen met</trd>
-  <trd lng="pl">skomunikowa&cacute;</trd>     
+  <trd lng="pl">skomunikowa&cacute;</trd>
   <trd lng="ro">comunica</trd>
   <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol; &c_k;&c_o;&c_n;&c_t;&c_a;&c_k;&c_t;</trd>
   <trdgrp lng="sk">
@@ -277,13 +290,13 @@
         <fnt><bib>UrdHadda</bib>, <lok>p. 19</lok></fnt>;
       </ekz>
       <ekz>
-        Spukavatem unue <tld/>i&gcirc;is kun La Ligo anta&ubreve; pli 
+        Spukavatem unue <tld/>i&gcirc;is kun La Ligo anta&ubreve; pli
         ol dek jaroj
         <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;ap. 19</lok></fnt>;
       </ekz>
       <ekz>
         la spirita <ind><tld/>i&gcirc;o</ind> inter la diverslandaj
-        proletoj 
+        proletoj
         fakte okazas nur pere de poliglotaj intelektuloj
         <fnt><bib>Lanti</bib>, <lok>Pensoj</lok></fnt>.
         <trd lng="fr">prise de <ind>contact</ind></trd>
@@ -295,7 +308,11 @@
     <trd>prendre <ind>contact</ind></trd>
     <trd>se mettre en <ind>contact</ind></trd>
   </trdgrp>
-  <trd lng="pl">kontaktowa&cacute; si&eogonek;</trd>     
+  <trdgrp lng="ja">
+    <trd>&#x63A5;&#x89E6;&#x3059;&#x308B;  [<ind>&#x305B;&#x3063;&#x3057;&#x3087;&#x304F;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x9023;&#x7D61;&#x3092;&#x53D6;&#x308B;  [<ind>&#x308C;&#x3093;&#x3089;&#x304F;&#x3092;&#x3068;&#x308B;</ind>]</trd>
+  </trdgrp>
+  <trd lng="pl">kontaktowa&cacute; si&eogonek;</trd>
   <trd lng="ro">de contact</trd>
 </drv>
 
@@ -325,8 +342,7 @@
     <trd>&c_z;&c_l;&c_u;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
     <trd>&c_sh;&c_t;&c_e;&c_k;&c_je;&c_r;</trd>,
     <trd>&c_sh;&c_t;&c_e;&c_p;&c_s;&c_e;&c_l;&c_mol;</trd>,
-    <trd>&c_v;&c_y;&c_v;&c_a;&c_d; <klr
-    tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;)</klr></trd>
+    <trd>&c_v;&c_y;&c_v;&c_a;&c_d; <klr tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;)</klr></trd>
   </trdgrp>
   <trdgrp lng="de">
     <trd>Kontaktst&uuml;ck</trd>,
@@ -340,11 +356,15 @@
     <trd>csatlakoz&oacute;dug&oacute;</trd>,
     <trd>dugasz<klr tip="ind"> (villamos)</klr></trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30B9;&#x30A4;&#x30C3;&#x30C1;  [<ind>&#x3059;&#x3044;&#x3063;&#x3061;</ind>]</trd>,
+    <trd>&#x63A5;&#x89E6;&#x5668;  [<ind>&#x305B;&#x3063;&#x3057;&#x3087;&#x304F;&#x3046;&#x3064;&#x308F;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>stekker</trd>,
     <trd>connector</trd>
   </trdgrp>
-  <trd lng="pl">kontakt</trd>     
+  <trd lng="pl">kontakt</trd>
   <trd lng="ro">sursa de tensiune</trd>
   <trdgrp lng="ru">
     <trd>&c_r;&c_a;&c_z;&c_malmol;&c_jo;&c_m;</trd>,
@@ -378,16 +398,13 @@
     <ref tip="dif" cel="ampol.0ingo">ampolingo</ref>
   </snc>
   <trdgrp lng="be">
-      <trd>&c_r;&c_a;&c_z;&c_e;&c_t;&c_k;&c_a; <klr
-      tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>,
-      <trd>&c_g;&c_n;&c_ja;&c_z;&c_d;&c_o; <klr
-      tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_g;&c_a;
+      <trd>&c_r;&c_a;&c_z;&c_e;&c_t;&c_k;&c_a; <klr tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>,
+      <trd>&c_g;&c_n;&c_ja;&c_z;&c_d;&c_o; <klr tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_g;&c_a;
       &c_r;&c_a;&c_z;&c_d;&c_y;&c_m;&c_a;)</klr></trd>,
-      <trd>&c_c;&c_o;&c_k;&c_a;&c_l;&c_mol; <klr
-      tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_l;&c_ja;&c_m;&c_p;&c_y;)</klr></trd>
+      <trd>&c_c;&c_o;&c_k;&c_a;&c_l;&c_mol; <klr tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_l;&c_ja;&c_m;&c_p;&c_y;)</klr></trd>
     </trdgrp>
   <trd lng="cs">z&aacute;suvka <klr>(elektr.)</klr></trd>
-  <trd lng="de">Steckdose</trd>
+  <trd lng="de">Fassung <klr>(Lampe)</klr></trd>
   <trdgrp lng="en">
       <trd>socket</trd>,
       <trd>jack</trd>
@@ -398,7 +415,7 @@
       <trd>konnektor</trd>
     </trdgrp>
   <trd lng="nl">contrastekker</trd>
-  <trd lng="pl">gniazdo elektryczne</trd>     
+  <trd lng="pl">gniazdo elektryczne</trd>
   <trd lng="ro">priz&abreve;</trd>
   <trdgrp lng="ru">
       <trd>&c_r;&c_o;&c_z;&c_je;&c_t;&c_k;&c_a;</trd>,
@@ -413,18 +430,12 @@
    <adm>
      Tiu &ccirc;i derivajxo estis tiel reredaktita de Jurij, ke &gcirc;i
      sinonimis kun "&scirc;topilingo". Tamen la referenco al
-     "&jcirc;ako" (sin)
-     ne koheris kun la tuto kaj tia senco tute ne ekzistas en PIV-oj,
+     "&jcirc;ako" (sin) ne koheris kun la tuto kaj tia senco tute ne ekzistas en PIV-oj,
      kiuj e&ccirc; ne konas la vorton. Cetere la kapvorta formo
-     "kontakt(il)ingo",
-     pro paralelo kun &scirc;topilo/&scirc;topilingo, sugestis, ke
-     "kontaktilo" kaj
-     "kontaktilingo" estas simetriaj pecoj, dum "kontaktilo" konsistas
-     el
-     amba&ubreve;
-     pecoj. Mi trovis pli sa&gcirc;e reveni al la PV-a redakto, lasante
-     la
-     jamajn tradukojn en komento.
+     "kontakt(il)ingo", pro paralelo kun &scirc;topilo/&scirc;topilingo, sugestis, ke
+     "kontaktilo" kaj "kontaktilingo" estas simetriaj pecoj, dum "kontaktilo" konsistas
+     el amba&ubreve; pecoj. Mi trovis pli sa&gcirc;e reveni al la PV-a redakto, lasante
+     la jamajn tradukojn en komento.
      <aut>MB</aut>
      <!--
       <trdgrp lng="be">
@@ -459,40 +470,18 @@
    </adm>
 </drv>
 
-<drv mrk="kontak.0oskatolo">
-  <kap><tld/>oskatolo, <var><kap><tld/>skatolo</kap></var></kap>
-  <snc mrk="kontak.0oskatolo.ELE">
-    <uzo tip="fak">ELE</uzo>
-    <dif>
-      Skatolforma
-      <ref tip="super" cel="sxtop.0ilingo">&scirc;topilingo</ref>.
-    </dif>
-  </snc>
-  <adm>
-    La vorto ne estas konata en PIV. Se &gcirc;i ekzistas, povas esti,
-    ke &gcirc;i havas alian sencon, nome "skatolo provizita per
-    &scirc;ra&ubreve;be
-    fermeblaj a&jcirc;oj por duope kontaktigi dratojn".
-    <aut>MB</aut>
-  </adm>
-  <trd lng="be">&c_r;&c_a;&c_z;&c_e;&c_t;&c_k;&c_a; <klr
-  tip="amb">(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
-  <trdgrp lng="en">
-    <trd>socket</trd>,
-    <trd>outlet</trd>
-  </trdgrp>
-  <trd lng="fr">prise<klr tip="ind"> (femelle, en forme de
-  bo&icirc;te)</klr></trd>
-  <trd lng="nl">stopcontact</trd>
-  <trd lng="pl">gniazdko <klr>(elektr.)</klr></trd>     
-  <trd lng="ro">priz&abreve;</trd>
-  <trd lng="ru">&c_r;&c_o;&c_z;&c_je;&c_t;&c_k;&c_a; <klr>(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;)</klr></trd>
-  <trd lng="sk">rozvodn&aacute; skrinka</trd>
-  <trd lng="cs">rozvodn&aacute; krabice</trd>
-</drv>
 </art>
 <!--
 $Log$
+versio 1.27 2023/08/26 11:22:34
+Wolfram Diestel: - ~skatolo (nun en skatol/), kor. trd de de ~ingo
+
+versio 1.26 2023/05/04 16:53:14
+revo: aktualigo URL-unuoj
+
+versio 1.25 2022/04/14 08:36:42
+Dmitri Gabinski: + trd be
+
 Revision 1.23  2018/06/19 02:10:18  revo
 Dusan Juretic: +trd es
 
@@ -505,12 +494,5 @@ aldono de trd cs per skripto de M. von Laer
 
 Revision 1.20  2015/06/29 16:33:18  revo
 aldono de trd sk per skripto de M. von Laer
-
-Revision 1.19  2010/07/13 16:30:18  revo
-Jeromo Vasxe: - kramp
-
-Revision 1.18  2008/01/16 17:30:57  revo
-Wieland Pusch: +trd bg
-
 -->
 </vortaro>

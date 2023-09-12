@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: arhxaism.xml,v 1.7 2008/02/09 17:30:49 revo Exp $">
+<art mrk="$Id: arhxaism.xml,v 1.25 2023/08/30 18:23:36 revo Exp $">
 <kap>
   <ofc>*</ofc><ofc>7</ofc><rad>ar&hcirc;aism</rad>/o,
-  <var><kap><ofc>8</ofc><rad>akaism</rad>/o</kap></var>
+  <var><kap><ofc>8</ofc><rad var="k">arkaism</rad>/o</kap></var>
 </kap>
 
 <drv mrk="arhxaism.0o">
-  <kap><tld/>o, <var><kap>arkaismo</kap></var></kap>
+  <kap><tld/>o, <var><kap><tld var="k"/>o</kap></var></kap>
   <snc mrk="arhxaism.0o.LIN">
   <uzo tip="fak">LIN</uzo>
     <dif>
@@ -27,11 +26,12 @@
         <fnt><bib>F</bib>, <lok>Anta&ubreve;parolo</lok></fnt>;
       </ekz>
       <ekz>
-        la evoluado de la lingvo fari&gcirc;os <klr>[&#8230;]</klr> per la senrompa vojo de
+        la evoluado de la lingvo fari&gcirc;os <klr>[&#x2026;]</klr> per la senrompa vojo de
         neologismoj kaj <tld/>oj
         <fnt>
           <bib>Paroloj</bib>
-          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto 1910</vrk>
+          <vrk>Parolado anta&ubreve; la Sesa Kongreso Esperantista en Washington en la 15a de a&ubreve;gusto
+          1910</vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -39,16 +39,17 @@
         bela anka&ubreve; hodia&ubreve;
         <fnt><aut>Boris Kolker</aut>: <vrk>Senmorta Pu&scirc;kin
           (Aleksandr Pu&scirc;kin, 200 jaroj, elektitaj verkoj)</vrk>,
-          <bib>Monato</bib><lok>jaro 2001a, numero 1a, p. 32a</lok>
+          <bib>Monato</bib>
+          <lok>2001/01, p. 32</lok>
         </fnt>;
       </ekz>
       <ekz>
-        la mislingva&jcirc;oj e&hcirc;as arkaismojn kaj erarojn en la fontotekstoj
+        la mislingva&jcirc;oj e&hcirc;as <tld var="k"/>ojn kaj erarojn en la fontotekstoj
         <fnt>
-          <bib>Monato</bib>
           <aut>Jens S. Larsen</aut>
-          <vrk><url ref="https://www.monato.be/2009/009705.php"
-              >Posedenda libra&ccirc;o</url></vrk>
+          <vrk><url ref="&Monato;/2009/009705.php">Posedenda libra&ccirc;o</url></vrk>
+          <bib>Monato</bib>
+          <lok>2009/03, p. 23</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -86,10 +87,10 @@
     <dif>
       Intenca imitado de malnova maniero a&ubreve; stilo:
       <ekz>
-        resenditajn al formo de arkaismo kaj malmoderneco
+        resenditajn al formo de <tld var="k"/>o kaj malmoderneco
         <fnt>
           <aut>R&eacute;mi Lefebvre</aut>,
-          <vrk><url ref="https://eo.mondediplo.com/article1712.html">&Ccirc;u
+          <vrk><url ref="&Mondediplo;article1712.html">&Ccirc;u
           la historio orienti&gcirc;as dekstren?</url></vrk>
         </fnt>;
       </ekz>
@@ -98,10 +99,10 @@
         la impreson de <tld/>o, &ccirc;u ne estus dezirinde, ke li helpu al si per tiu
         malnova dialekto de Esperanto
         <fnt>
-          <bib>Monato</bib>
           <aut>Garvan Makaj'</aut>
-          <vrk><url ref="https://www.monato.be/2014/011373.php"
-              >Geraldo Mattos kaj Sutte All&aacute;</url></vrk>
+          <vrk><url ref="&Monato;/2014/011373.php">Geraldo Mattos kaj Sutte All&aacute;</url></vrk>
+          <bib>Monato</bib>
+          <lok>2014/12, p. 22</lok>
         </fnt>.
       </ekz>
     </dif>
@@ -114,31 +115,44 @@
   <trdgrp lng="fr">
     <trd>archa&iuml;sme</trd>
   </trdgrp>
+  <trd lng="he">&#x5D0;&#x5E8;&#x5DB;&#x5D9;&#x5D6;&#x5DD;</trd>
   <trd lng="hu">archaizmus</trd>
+  <trdgrp lng="ja">
+    <trd>&#x53E4;&#x8A9E;  [<ind>&#x3053;&#x3054;</ind>]</trd>,
+    <trd>&#x53E4;&#x98A8;&#x306A;&#x8868;&#x73FE;  [<ind>&#x3053;&#x3075;&#x3046;&#x306A;&#x3072;&#x3087;&#x3046;&#x3052;&#x3093;</ind>]</trd>,
+    <trd>&#x64EC;&#x53E4;&#x4E3B;&#x7FA9;  [<ind>&#x304E;&#x3053;&#x3057;&#x3085;&#x304E;</ind>]</trd>
+  </trdgrp>
+  <trd lng="nl">archaisme</trd>
+  <trd lng="pl">archaizm</trd>
   <trd lng="pt">arca&iacute;smo</trd>
+  <trd lng="ro">arhaism</trd>
   <trd lng="ru">&c_a;&c_r;&c_h;&c_a;&c_i;&c_z;&c_m;</trd>
+  <trd lng="uk">&c_a;&c_r;&c_h;&c_a;&c_ji;&c_z;&#x43C;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.24 2023/06/30 05:31:23
+Paul Peeraerts:  + trd nl + lok
+
+versio 1.23 2023/02/02 22:29:16
+Vito Redsky: +trd pl + trd ro
+
+versio 1.22 2022/04/26 14:57:17
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.21 2022/04/25 15:11:00
+aktualigo ligvokodoj kaj URL-unuoj
+
+versio 1.18 2021/01/12 20:10:56
+Wolfram Diestel: kor. tajperaron
+
+versio 1.17 2020/09/09 19:10:33
+Wolfram Diestel: +tld-var
+
 Revision 1.15  2018/09/02 20:10:28  revo
 Michel Cantigneaux: teknika ripareto de indikiloj
 
 Revision 1.14  2018/08/06 19:10:19  revo
-Michel Cantigneaux: aperas unue en PV (1934), klare fundamenta per 7OA
-(1958)
-
-Revision 1.13  2017/12/11 12:10:16  revo
-Michel Cantigneaux: aldonita kaj fundamenta per la 7a OA
-
-Revision 1.12  2015/09/16 11:10:28  revo
-Evandro Avellar: +trd pt
-
-Revision 1.11  2014/05/29 16:10:54  revo
-Damien Brucker: +ekz
-
-Revision 1.10  2014/04/25 02:10:19  revo
-Sergio Pokrovskij: -tajperaro
-
 -->
 </vortaro>

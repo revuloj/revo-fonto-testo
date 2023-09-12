@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: trafik.xml,v 1.24 2023/09/04 19:01:53 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>trafik</rad>/o <fnt><bib>PV</bib></fnt>
@@ -79,16 +78,22 @@
     <trd>circulation<klr> (trafic)</klr></trd>,
     <trd>trafic<klr> (circulation)</klr></trd>
   </trdgrp>
-  <trd lng="id"><ind>lalu</ind> lintas</trd>
+  <trd lng="id">lalu lintas</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EA4;&#x901A;  [<ind>&#x3053;&#x3046;&#x3064;&#x3046;</ind>]</trd>,
+    <trd>&#x5F80;&#x6765;  [<ind>&#x304A;&#x3046;&#x3089;&#x3044;</ind>]</trd>,
+    <trd>&#x8F38;&#x9001;  [<ind>&#x3086;&#x305D;&#x3046;</ind>]</trd>,
+    <trd>&#x4EA4;&#x901A;&#x904B;&#x8F38;  [<ind>&#x3053;&#x3046;&#x3064;&#x3046;&#x3046;&#x3093;&#x3086;</ind>]</trd>,
+    <trd>&#x4EA4;&#x901A;&#x91CF;  [<ind>&#x3053;&#x3046;&#x3064;&#x3046;&#x308A;&#x3087;&#x3046;</ind>]</trd>,
+    <trd>&#x8F38;&#x9001;&#x91CF;  [<ind>&#x3086;&#x305D;&#x3046;&#x308A;&#x3087;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">verkeer</trd>
   <trd lng="pt">tr&aacute;fego</trd>
-  <trd lng="ro">circula&tcedil;ie</trd>
+  <trd lng="ro">circula&#x21B;ie</trd>
   <trdgrp lng="ru">
-    <trd>&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je; <klr
-    tip="amb">(&c_d;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_o;&c_je; &c_i;
+    <trd>&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je; <klr tip="amb">(&c_d;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_o;&c_je; &c_i;
     &c_t;.&c_p;.)</klr></trd>,
-    <trd>&c_s;&c_o;&c_o;&c_b;&c_shch;&c_je;&c_n;&c_i;&c_je; <klr
-    tip="amb">(&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_n;&c_o;&c_je;)</klr></trd>,
+    <trd>&c_s;&c_o;&c_o;&c_b;&c_shch;&c_je;&c_n;&c_i;&c_je; <klr tip="amb">(&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_n;&c_o;&c_je;)</klr></trd>,
     <trd>&c_t;&c_r;&c_a;&c_f;&c_i;&c_k;</trd>
   </trdgrp>
   <trdgrp lng="sk">
@@ -97,6 +102,14 @@
     <trd>ruch</trd>
   </trdgrp>
   <trd lng="sv">trafik</trd>
+  <trdgrp lng="uk">
+    <trd>&#x440;&#x443;&#x445; (&#x432;&#x443;&#x43B;&#x438;&#x447;&#x43D;&#x438;&#x439;</trd>,
+    <trd>&#x434;&#x43E;&#x440;&#x43E;&#x436;&#x43D;&#x456;&#x439;)</trd>,
+    <trd>&#x441;&#x43F;&#x43E;&#x43B;&#x443;&#x447;&#x435;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x442;&#x440;&#x430;&#x43D;&#x441;&#x43F;&#x43E;&#x440;&#x442;</trd>,
+    <trd>&#x43F;&#x435;&#x440;&#x435;&#x432;&#x435;&#x437;&#x435;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x442;&#x440;&#x430;&#x444;&#x456;&#x43A;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="trafik.0i">
@@ -121,8 +134,13 @@
     <trd>se <ind>d&eacute;placer</ind><klr> (par un moyen de
     transport)</klr></trd>
   </trdgrp>
-  <trd lng="id">[<ind>lalu</ind> lintas] berlalu lintas</trd>
+  <trd lng="id">ber<ind>lalu lintas</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x5F80;&#x6765;&#x3059;&#x308B;  [<ind>&#x304A;&#x3046;&#x3089;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x8F38;&#x9001;&#x3092;&#x884C;&#x3046;  [<ind>&#x3086;&#x305D;&#x3046;&#x3092;&#x304A;&#x3053;&#x306A;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="sk">dopravova&tcaron;</trd>
+  <trd lng="uk">&#x446;&#x438;&#x440;&#x43A;&#x443;&#x43B;&#x44E;&#x432;&#x430;&#x442;&#x438;</trd>
 </drv>
 
 <drv mrk="trafik.0ilo">
@@ -139,38 +157,33 @@
       </ekz>
     </dif>    
   </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y; &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
   <trd lng="ca">mitj&agrave; de transport</trd>
   <trd lng="cs">dopravn&iacute; prost&rcaron;edek</trd>
   <trd lng="fr">moyen de transport</trd>
   <trd lng="hu">k&ouml;zleked&eacute;si eszk&ouml;z</trd>
   <trd lng="id"><ind>alat</ind> transportasi</trd>
+  <trdgrp lng="ja">
+    <trd>&#x4EA4;&#x901A;&#x6A5F;&#x95A2;  [<ind>&#x3053;&#x3046;&#x3064;&#x3046;&#x304D;&#x304B;&#x3093;</ind>]</trd>,
+    <trd>&#x4EA4;&#x901A;&#x624B;&#x6BB5;  [<ind>&#x3053;&#x3046;&#x3064;&#x3046;&#x3057;&#x3085;&#x3060;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>&sacute;rodek <ind>komunikacji</ind></trd>,
     <trd>&sacute;rodek <ind>transportu</ind></trd>
   </trdgrp>
   <trd lng="sk">dopravn&yacute; prostriedok</trd>
+  <trdgrp lng="uk">
+    <trd>&#x437;&#x430;&#x441;&#x456;&#x431; &#x441;&#x43F;&#x43E;&#x43B;&#x443;&#x447;&#x435;&#x43D;&#x43D;&#x44F;</trd>,
+    <trd>&#x442;&#x440;&#x430;&#x43D;&#x441;&#x43F;&#x43E;&#x440;&#x442;&#x43D;&#x438;&#x439; &#x437;&#x430;&#x441;&#x456;&#x431;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.19  2015/07/04 08:37:45  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.22 2021/04/23 07:04:26
+Dmitri Gabinski: +trd be
 
-Revision 1.18  2015/06/29 16:40:20  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.17  2014/10/28 04:11:09  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.16  2012/07/31 12:10:16  revo
-Marc Rausell: + trd ca
-
-Revision 1.15  2009/11/22 17:30:23  revo
-Jeromo Vasxe: memstar. ~i/ilo
-
-Revision 1.14  2009/06/29 18:06:54  revo
-Russ Williams: +trd en
-
-Revision 1.13  2009/01/22 17:31:03  revo
+versio 1.21 2020/05/03 07:10:20
+Eko Nur Syah Hidayat: korekteto
 -->
 </vortaro>

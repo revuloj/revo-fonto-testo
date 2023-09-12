@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: sak.xml,v 1.46 2023/09/03 12:09:43 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>sak</rad>/o <fnt><bib>PV</bib></fnt>
@@ -21,7 +20,7 @@
         <fnt><bib>PrV</bib></fnt>;
       </ekz>
       <ekz>
-        kaj Jozef ordonis plenigi iliajn <tld/>ojn per greno
+        kaj <nom>Jozef</nom> ordonis plenigi iliajn <tld/>ojn per greno
         <fnt><bib>MT</bib>, <lok>&Gen; 42:25</lok></fnt>;
       </ekz>
       <ekz>
@@ -41,7 +40,10 @@
       </ekz>
     </dif>
     <trd lng="bg">&c_ch;&c_u;&c_v;&c_a;&c_l;</trd>
-    <trd lng="de">Sack</trd>
+    <trdgrp lng="de">
+      <trd>Sack</trd>,
+      <trd>Beutel</trd>
+    </trdgrp>
     <trd lng="en">sack</trd>
     <trdgrp lng="es">
       <trd>saco</trd>
@@ -105,14 +107,25 @@
       <ref cel="kest.0o">kesto</ref>,
       <ref cel="posx.0o">po&scirc;o</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd>Geldbeutel</trd>,
+      <trd>Geld<ind>b&ouml;rse</ind></trd>
+    </trdgrp>
   </snc>
   <snc mrk="sak.0o.tasxo">
     <ref tip="dif" cel="tasx.0o">ta&scirc;o</ref>
+    <trd lng="de">Tasche</trd>
     <trdgrp lng="es">
       <trd>ri&ntilde;onera</trd>,
       <trd>faltriquera</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_h;</trd>,
+    <trd>&c_m;&c_ja;&c_sh;&c_o;&c_k;</trd>,
+    <trd>&c_k;&c_a;&c_sh;&c_a;&c_l;&c_jo;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bo">&#xF63;&#xF9F;&#xF7C;&#xF0B;&#xF55;&#xF51;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>pouzdro</trd>,
     <trd>pytel</trd>,
@@ -127,10 +140,20 @@
   </trdgrp>
   <trd lng="id">tas</trd>
   <trd lng="it">sacco</trd>
+  <trdgrp lng="ja">
+    <trd>&#x888B;  [<ind>&#x305F;&#x3044;</ind>]</trd>,
+    <trd>&#x304B;&#x3070;&#x3093;</trd>,
+    <trd>&#x30D0;&#x30C3;&#x30B0;  [<ind>&#x3070;&#x3063;&#x3050;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zak</trd>
   <trdgrp lng="sk">
     <trd>puzdro</trd>,
     <trd>vak</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43C;&c_ib;&c_sh;&#x43E;&#x43A;</trd>,
+    <trd>&c_s;&c_u;&#x43C;&#x43A;&c_a;</trd>,
+    <trd>&c_t;&#x43E;&c_r;&c_b;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -160,6 +183,7 @@
     <trd>w&lstroke;osienica</trd>
   </trdgrp>
   <trd lng="ru">&c_v;&c_l;&c_a;&c_s;&c_ja;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="uk">&#x43C;&c_ib;&c_sh;&#x43A;&#x43E;&c_v;&c_i;&#x43D;&c_a;</trd>
 </drv>
 
 <drv mrk="sak.dormo0o">
@@ -187,10 +211,12 @@
   <trd lng="hu">h&aacute;l&oacute;zs&aacute;k</trd>
   <trd lng="id"><ind>kantung</ind> tidur</trd>
   <trd lng="it"><ind>sacco</ind> a pelo</trd>
+  <trd lng="ja">&#x5BDD;&#x888B;  [<ind>&#x306D;&#x3076;&#x304F;&#x308D;</ind>]</trd>
   <trd lng="nl">slaapzak</trd>
   <trd lng="pl">&sacute;piw&oacute;r</trd>
   <trd lng="ru">&c_s;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_m;&c_je;&c_sh;&c_o;&c_k;</trd>
   <trd lng="sk">spac&iacute; vak</trd>
+  <trd lng="uk">&c_s;&#x43F;&c_a;&#x43B;&#x44C;&#x43D;&c_i;&c_j; &#x43C;&c_ib;&c_sh;&#x43E;&#x43A;</trd>
 </drv>
 
 <drv mrk="sak.dorso0o">
@@ -200,7 +226,7 @@
       <ref tip="super" cel="sak.0o.KOMUNE"><tld lit="S"/>o</ref>
       pendanta &ccirc;e la dorso de la portanto, tenata per trans&scirc;ultraj
       rimenoj; <ref tip="sin" cel="tornis.0o.TUR">tornistro</ref>.
-    </dif> 
+    </dif>
     <ekz>
       <ctl>la dorso<tld/>o de Panjo Rut'</ctl>
       <klr>(novelara titolo)</klr>
@@ -217,6 +243,7 @@
     <trd>&c_z;&c_a;&c_p;&c_l;&c_je;&c_ch;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
   <trd lng="bg">&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="bo">&#xF62;&#xF92;&#xFB1;&#xF56;&#xF0B;&#xF55;&#xF51;&#xF0B;</trd>
   <trd lng="ca">motxila</trd>
   <trdgrp lng="cs">
     <trd>batoh</trd>,
@@ -239,6 +266,11 @@
     <trd><ind>tas</ind> punggung</trd>
   </trdgrp>
   <trd lng="it">zaino</trd>
+  <trdgrp lng="ja">
+    <trd>&#x30EA;&#x30E5;&#x30C3;&#x30AF;&#x30B5;&#x30C3;&#x30AF;</trd>,
+    <trd>&#x30D0;&#x30C3;&#x30AF;&#x30D1;&#x30C3;&#x30AF;</trd>,
+    <trd>&#x80CC;&#x56A2;  [<ind>&#x306F;&#x3044;&#x306E;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">rugzak</trd>
   <trdgrp lng="pl">
     <trd>plecak</trd>,
@@ -252,6 +284,10 @@
   <trdgrp lng="sk">
     <trd>batoh</trd>,
     <trd>plecniak</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_r;&#x44E;&#x43A;&c_z;&c_a;&#x43A;</trd>,
+    <trd>&c_z;&c_a;&#x43F;&#x43B;&c_ib;&c_ch;&#x43D;&c_i;&c_j; &#x43C;&c_ib;&c_sh;&#x43E;&#x43A;</trd>
   </trdgrp>
 </drv>
 
@@ -279,10 +315,15 @@
   </trdgrp>
   <trd lng="it">bisaccia</trd>
   <trd lng="nl">plunjezak</trd>
+  <trd lng="pl">sakwa podw&oacute;jna</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_i;&c_d;&c_n;&c_a;&c_ja; &c_s;&c_u;&c_m;&c_a;</trd>
   </trdgrp>
   <trd lng="sk">dvojvrece</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_je;&c_r;&c_je;&#x43A;&c_i;&c_d;&#x43D;&c_a; &c_t;&#x43E;&c_r;&c_b;&c_a;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_a;&c_g;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sak.en0igi">
@@ -293,19 +334,22 @@
       Enmeti en <tld/>on:
       <ekz>
         ili en<tld/>igus oron en la tornistrojn
-        kaj suprenirus al Medranhos
+        kaj suprenirus al <nom>Medranhos</nom>
         <fnt>
           <aut>E. de Queir&oacute;s, trad. E. Novembro</aut>,
           <vrk>La trezoro</vrk>,
-          <lok><url
-          ref="http://www.jjsantos.net/uploads/8/6/3/7/8637636/lk_008_rv.pdf">
+          <lok><url ref="http://www.jjsantos.net/uploads/8/6/3/7/8637636/lk_008_rv.pdf">
           La Karavelo, 2008-05 (8)</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib; &c_w; &c_m;&c_je;&c_h;</trd>
   <trd lng="es">ensacar</trd>
   <trd lng="fr">ensacher</trd>
+  <trd lng="ja">&#x888B;&#x306B;&#x8A70;&#x3081;&#x308B;  [<ind>&#x3075;&#x304F;&#x308D;&#x306B;&#x3064;&#x3081;&#x308B;</ind>]</trd>
+  <trd lng="pl">umie&sacute;ci&cacute; w <ind>worku</ind></trd>
+  <trd lng="uk">&#x43D;&c_a;&c_s;&c_i;&#x43F;&c_a;&c_t;&c_i; &c_v; &#x43C;&c_ib;&c_sh;&#x43A;&c_i;</trd>
 </drv>
 
 <drv mrk="sak.el0igi">
@@ -316,13 +360,15 @@
       Eligi el <tld/>o:
       <ekz>
         li el<tld/>igis la faldeblajn pluvbluzojn
-        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li 
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li
         venis trakosme?</vrk>, <lok>1980</lok></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_v;&c_y;&c_n;&c_u;&c_c;&c_mol; &c_z;&c_mol; &c_m;&c_je;&c_h;&c_a;</trd>
   <trd lng="es">sacar</trd>
   <trd lng="fr">d&eacute;sacher</trd>
+  <trd lng="pl">wydobywa&cacute; z  <ind>worka</ind></trd>
 </drv>
 
 <drv mrk="sak.fel0o">
@@ -353,6 +399,11 @@
     <trd>t&ouml;ml&odblac;<klr tip="ind"> (b&odblac;rzs&aacute;k)</klr></trd>,
     <trd>b&odblac;rzs&aacute;k</trd>
   </trdgrp>
+  <trd lng="ja">&#x76AE;&#x888B;  [<ind>&#x304B;&#x308F;&#x3076;&#x304F;&#x308D;</ind>]</trd>
+  <trdgrp lng="pl">
+    <trd>buk&lstroke;ak</trd>,
+    <trd>sakwa sk&oacute;rzana</trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_b;&c_u;&c_r;&c_d;&c_ju;&c_k;</trd>,
     <trd>&c_m;&c_je;&c_h; <klr>(&c_s;&c_o;&c_s;&c_u;&c_d;)</klr></trd>
@@ -361,6 +412,7 @@
     <trd>ko&zcaron;en&yacute; vak</trd>,
     <trd>vrece</trd>
   </trdgrp>
+  <trd lng="uk">&c_b;&c_u;&c_r;&c_d;&#x44E;&#x43A;</trd>
 </drv>
 
 <drv mrk="sak.man0o">
@@ -373,8 +425,10 @@
       &scirc;ultre portebla por kunhavi ekstere diversajn utila&jcirc;ojn,
       kiaj tukoj, okulvitroj, &scirc;minko, skribiloj...
     </dif>
+    <ref tip="sub" cel="retikul.0o.TEKS">retikulo<sncref/></ref>
   </snc>
   <trd lng="bg">&c_d;&c_a;&c_m;&c_s;&c_k;&c_a; &c_ch;&c_a;&c_n;&c_t;&c_a;</trd>
+  <trd lng="bo">&#xF63;&#xF42;&#xF0B;&#xF54;&#xF62;&#xF0B;&#xF41;&#xFB1;&#xF7A;&#xF62;&#xF0B;&#xF63;&#xF42;&#xF0B;&#xF60;&#xF56;&#xF7A;&#xF42;&#xF0B;&#xF63;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>kabelka</trd>,
     <trd>ranec</trd>,
@@ -398,6 +452,7 @@
     <trd><ind>tas</ind> tangan</trd>
   </trdgrp>
   <trd lng="it">borsetta</trd>
+  <trd lng="ja">&#x624B;&#x63D0;&#x3052;&#x888B;  [<ind>&#x3066;&#x3055;&#x3052;&#x3076;&#x304F;&#x308D;</ind>]</trd>
   <trd lng="nl">handtas</trd>
   <trd lng="pl">torebka<klr> damska</klr></trd>
   <trd lng="ru">&c_d;&c_a;&c_m;&c_s;&c_k;&c_a;&c_ja; <ind>&c_s;&c_u;&c_m;&c_o;&c_ch;&c_k;&c_a;</ind></trd>
@@ -407,21 +462,41 @@
   </trdgrp>
 </drv>
 
+<drv mrk="sak.muzel0o">
+  <kap>
+    muzel<tld/>o
+  </kap>
+  <snc mrk="sak.muzel0o.RAJ">
+    <dif>
+      Sako entenanta nutra&jcirc;on por &ccirc;evalo, kiun oni pendigas je &gcirc;ia muzelo:
+      <ekz>
+        tie <klr>[la poneoj]</klr> staris ... vaporante kaj ma&ccirc;ante en siaj muzel<tld/>oj
+        <fnt>
+          <aut>J. R. R. Tolkien, trad. C. Gledhill</aut>
+          <vrk>La Hobito</vrk>
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">musette<klr> (de cheval)</klr></trd>
+  <trd lng="pl">kaganiec</trd>
+</drv>
+
 <drv mrk="sak.ret0o">
   <kap>ret<tld/>o</kap>
   <snc mrk="sak.ret0o.KOMUNE">
     <dif>
       Malpeza
       <ref tip="super" cel="sak.0o.KOMUNE"><tld/>o</ref>
-      el reta materialo, uzebla por kunporti 
+      el reta materialo, uzebla por kunporti
       a&ccirc;eta&jcirc;ojn:
       <ekz>
         &scirc;i metis ret<tld/>on da pomoj sur lian liton
         <fnt>
           <aut>Li Tiezhu, trad. Miaohui</aut>,
           <vrk>Verda Nebulo</vrk>,
-          <lok><url
-              ref="http://gxangalo.com/modules/weblog/index.php?user_id=1995">Bloga&jcirc;oj
+          <lok><url ref="http://gxangalo.com/modules/weblog/index.php?user_id=1995">Bloga&jcirc;oj
               de Miaohui</url>, 2005-07-10</lok>
         </fnt>.
       </ekz>
@@ -438,10 +513,26 @@
   <trd lng="pl">siatka<klr> na zakupy</klr></trd>
   <trd lng="ru">&c_a;&c_v;&c_o;&c_s;&c_mol;&c_k;&c_a;</trd>
   <trd lng="sk">sie&tcaron;ovka</trd>
+  <trd lng="uk">&c_s;&c_ib;&c_t;&#x43A;&c_a; <klr>(&c_d;&#x43B;&#x44F; &#x43F;&c_r;&#x43E;&c_d;&c_u;&#x43A;&c_t;&c_ib;&c_v;)</klr></trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.45 2023/08/01 22:28:51
+Vito Redsky: +trd pl 
+
+versio 1.44 2022/03/31 16:46:06
+Wolfram Diestel: kor. trd uk
+
+versio 1.39 2021/09/20 15:32:30
+Dmitri Gabinski: +trd be
+
+versio 1.37 2021/05/06 19:45:44
+Wolfram Diestel: +trd de, man~o: +ref
+
+versio 1.36 2020/09/07 22:32:25
+Jeromo Vasxe: + muzel~o
+
 Revision 1.34  2018/07/27 13:10:13  revo
 Guillermo Molleda Jimena: trd es
 
@@ -449,17 +540,5 @@ Revision 1.33  2017/12/28 23:10:24  revo
 Vito Redsky: +trd ro
 
 Revision 1.32  2015/07/04 08:37:43  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.31  2015/06/29 16:33:22  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.30  2014/06/14 03:10:39  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.29  2013/12/23 21:10:11  revo
-Jeromo Vasxe: kor 1 dif
-
-Revision 1.28  2013/12/18 02:10:15  revo
 -->
 </vortaro>

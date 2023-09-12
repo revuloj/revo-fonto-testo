@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: kest.xml,v 1.30 2010/09/27 16:30:19 revo Exp $">
+<art mrk="$Id: kest.xml,v 1.121 2023/09/01 15:07:02 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kest</rad>/o <fnt><bib>PV</bib></fnt>
@@ -25,7 +24,7 @@
         <fnt><bib>MT</bib>, <lok>&Eli; 2:3</lok></fnt>;
       </ekz>
       <ekz>
-        ni ekspedas al vi <klr>[&#8230;]</klr> <tld/>on enhavantan 60 botelojn
+        ni ekspedas al vi <klr>[&#x2026;]</klr> <tld/>on enhavantan 60 botelojn
         da vinoj diversaj
         <fnt>
           <bib>FK</bib>
@@ -55,20 +54,26 @@
         </trdgrp>
       </ekz>
       <ekz>
-        ofta festo &#8208; malplena kesto <klr>(monkesto)</klr>
+        ofta festo &#x2010; malplena kesto <klr>(monkesto)</klr>
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="af">box</trd>
+  <trd lng="am">&#x1233;&#x1325;&#x1295;</trd>
+  <trd lng="ar">&a_S;&a_n;&#x62F;&a_w;&a_q;</trd>
   <trdgrp lng="be">
     <trd>&c_s;&c_k;&c_r;&c_y;&c_n;&c_ja;</trd>,
     <trd>&c_s;&c_k;&c_r;&c_y;&c_n;&c_k;&c_a;</trd>
   </trdgrp>
   <trd lng="bg">&c_s;&c_a;&c_n;&c_d;&c_malmol;&c_k;</trd>
+  <trd lng="bn">&#x9AC;&#x995;&#x9CD;&#x9B8;</trd>
+  <trd lng="bo">&#xF66;&#xF92;&#xF58;&#xF0B;</trd>
   <trdgrp lng="br">
     <trd>kased</trd>,
     <trd>arc'hig</trd>
   </trdgrp>
+  <trd lng="co">scatula</trd>
   <trdgrp lng="cs">
     <trd>bedna</trd>,
     <trd>kastle</trd>,
@@ -76,6 +81,8 @@
     <trd>sk&rcaron;&iacute;&ncaron;ka</trd>,
     <trd>truhla</trd>
   </trdgrp>
+  <trd lng="cy">blwch</trd>
+  <trd lng="da">kasse</trd>
   <trdgrp lng="de">
     <trd>Kiste</trd>,
     <trd>Kasten</trd>,
@@ -86,6 +93,8 @@
     <trd>chest</trd>
   </trdgrp>
   <trd lng="es">caja, arca</trd>
+  <trd lng="et">kast</trd>
+  <trd lng="eu">kutxa</trd>
   <trdgrp lng="fr">
     <trd>caisse<klr tip="ind"> (r&eacute;cipient)</klr></trd>,
     <trd>arche<klr tip="ind"> (coffre)</klr></trd>,
@@ -94,23 +103,85 @@
     <trd>coffre</trd>,
     <trd>corbeille<klr tip="ind"> (r&eacute;cipient)</klr></trd>,
   </trdgrp>
+  <trd lng="fy">doaze</trd>
+  <trd lng="ga">bosca</trd>
+  <trd lng="gd">bogsa</trd>
+  <trd lng="gl">caixa</trd>
+  <trd lng="gu">&#xAAC;&#xACB;&#xA95;&#xACD;&#xAB8;</trd>
+  <trd lng="ha">akwatin</trd>
+  <trd lng="hi">&#x92C;&#x949;&#x915;&#x94D;&#x938;</trd>
+  <trd lng="hmn">lub thawv</trd>
+  <trd lng="hr">kutija</trd>
+  <trd lng="ht">bwat</trd>
   <trd lng="hu">l&aacute;da</trd>
+  <trd lng="hy">&#x57F;&#x578;&#x582;&#x583;</trd>
+  <trd lng="ig">igbe</trd>
+  <trd lng="is">kassi</trd>
   <trdgrp lng="it">
     <trd>cassa</trd>,
     <trd>cassetta</trd>
   </trdgrp>
+  <trd lng="ja">&#x30DC;&#x30C3;&#x30AF;&#x30B9;</trd>
+  <trd lng="jv">kothak</trd>
+  <trd lng="ka">&#x10E7;&#x10E3;&#x10D7;&#x10D8;</trd>
+  <trd lng="kk">&#x49B;&#x43E;&c_r;&c_a;&#x43F;</trd>
+  <trd lng="km">&#x1794;&#x17D2;&#x179A;&#x17A2;&#x1794;&#x17CB;</trd>
+  <trd lng="kn">&#xCAC;&#xCBE;&#xC95;&#xCCD;&#xCB8;&#xCCD;</trd>
+  <trd lng="ko">&#xC0C1;&#xC790;</trd>
+  <trd lng="ku">q&#xFB;t&#xEE;k</trd>
+  <trd lng="ky">&#x43A;&c_u;&c_t;&c_u;&c_ch;&c_a;</trd>
+  <trd lng="lo">&#xEAB;&#xEA1;&#xEB2;&#xE8D;&#xEC3;&#xEAA;&#xEC8;&#xEC3;&#xE99;&#xE9B;&#xEC8;&#xEAD;&#xE87;</trd>
+  <trd lng="lt">d&#x117;&#x17E;ut&#x117;</trd>
+  <trd lng="lv">kaste</trd>
+  <trd lng="mg">boaty</trd>
+  <trd lng="mi">pouaka</trd>
+  <trd lng="mk">&#x43A;&c_u;&c_t;&c_i;&#x458;&c_a;</trd>
+  <trd lng="ml">&#xD2A;&#xD46;&#xD1F;&#xD4D;&#xD1F;&#xD3F;</trd>
+  <trd lng="mn">&c_h;&c_a;&c_j;&c_r;&c_c;&c_a;&c_g;</trd>
+  <trd lng="mr">&#x92C;&#x949;&#x915;&#x94D;&#x938;</trd>
+  <trd lng="ms">kotak</trd>
+  <trd lng="mt">kaxxa</trd>
+  <trd lng="my">&#x101E;&#x1031;&#x1010;&#x1039;&#x1010;&#x102C;</trd>
+  <trd lng="ne">&#x92C;&#x915;&#x94D;&#x938;</trd>
   <trdgrp lng="nl">
     <trd>kist</trd>,
     <trd>bak</trd>,
     <trd>krat</trd>
   </trdgrp>
+  <trd lng="ny">bokosi</trd>
+  <trd lng="pa">&#xA2C;&#xA3E;&#xA15;&#xA38; &#xA28;&#xA42;&#xA70;</trd>
   <trdgrp lng="pl">
     <trd>skrzynia</trd>,
     <trd>skrzynka</trd>
   </trdgrp>
+  <trd lng="ps">&#x62F; &a_S;&a_n;&#x62F;&a_w;&a_q;</trd>
   <trd lng="ro">cutie</trd>
   <trd lng="ru">&c_ja;&c_shch;&c_i;&c_k;</trd>
+  <trd lng="rw">agasanduku</trd>
+  <trd lng="sd">&a_b;&a_A;&#x6AA;&a_s;</trd>
+  <trd lng="si">&#xD9A;&#xDDC;&#xDA7;&#xDD4;&#xDC0;</trd>
   <trd lng="sk">debna</trd>
+  <trd lng="sl">&scaron;katla</trd>
+  <trd lng="sm">pusa</trd>
+  <trd lng="sn">bhokisi</trd>
+  <trd lng="so">sanduuq</trd>
+  <trd lng="sq">kuti</trd>
+  <trd lng="st">lebokose le reng</trd>
+  <trd lng="su">kotak</trd>
+  <trd lng="sw">sanduku</trd>
+  <trd lng="ta">&#xBAA;&#xBC6;&#xB9F;&#xBCD;&#xB9F;&#xBBF;&#xBAF;&#xBBF;&#xBB2;&#xBCD;</trd>
+  <trd lng="te">&#xC2C;&#xC3E;&#xC15;&#xC4D;&#xC38;&#xC4D;</trd>
+  <trd lng="tg">&#x49B;&c_u;&c_t;&c_t;&c_i;&c_i;</trd>
+  <trd lng="th">&#xE01;&#xE25;&#xE48;&#xE2D;&#xE07;</trd>
+  <trd lng="tl">kahon</trd>
+  <trd lng="tt">&c_t;&c_a;&c_r;&c_t;&#x43C;&c_a;</trd>
+  <trd lng="uk">&#x43A;&#x43E;&c_r;&#x43E;&c_b;&#x43A;&c_a;</trd>
+  <trd lng="ur">&a_b;&a_A;&#x6A9;&a_s;</trd>
+  <trd lng="vi">h&#x1ED9;p</trd>
+  <trd lng="xh">ibhokisi</trd>
+  <trd lng="yi">&#x5E7;&#x5E2;&#x5E1;&#x5D8;&#x5DC;</trd>
+  <trd lng="yo">apoti</trd>
+  <trd lng="zu">ibhokisi</trd>
 </drv>
 
 <drv mrk="kest.leter0o">
@@ -123,24 +194,23 @@
       <ekz>
         redakcia leter<tld/>o
         <fnt>
-          <bib>Monato</bib>
-          <aut>S. Maul</aut>
-          <vrk><url
-          ref='http://steloj.de/esperanto/monato2/007091.html'>Du patroj
-          interparolas.</url></vrk>
-        </fnt>;
+          <aut>Stefan Maul</aut>
+            <vrk><url ref="&Monato;/2000/007091.php">Du patroj interparolas</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/09, p. 26</lok>
+          </fnt>;
       </ekz>
       <ekz>
         <uzo tip="fak">KOMP</uzo>
         ofte kiam asocio uzas retpo&scirc;ton por organizi kunvenon, la duono
         de la korespondantoj
-        konfesas <klr>[&#8230;]</klr>, ke ilia leter<tld/>o <klr>(virtuala
+        konfesas <klr>[&#x2026;]</klr>, ke ilia leter<tld/>o <klr>(virtuala
         fako por retpo&scirc;toj)</klr> 
         estis plen&scirc;topita a&ubreve; ke &jcirc;us estis problemeto pri la komputilo
         <fnt>
           <bib>Monato</bib>
           <aut>Jean-S&eacute;bastien Brilleaud</aut>
-          <vrk><url ref='&Monato;/2006/008987.php'>Modernaj
+          <vrk><url ref="&Monato;/2006/008987.php">Modernaj
           komunikiloj, &ccirc;u fideblaj?</url></vrk>
           <lok>2006</lok>
         </fnt>.
@@ -165,6 +235,7 @@
   <trd lng="fr">boite &agrave; lettres<klr tip="ind"> (priv&eacute;e)</klr></trd>
   <trd lng="hu">lev&eacute;lszekr&eacute;ny</trd>
   <trd lng="it"><ind>cassetta</ind> delle lettere</trd>
+  <trd lng="ja">&#x90F5;&#x4FBF;&#x53D7;&#x7BB1;  [<ind>&#x3086;&#x3046;&#x3073;&#x3093;&#x3058;&#x3085;&#x306F;&#x3053;</ind>]</trd>
   <trd lng="nl">brievenbus<klr tip="ind"> (priv&eacute;)</klr></trd>
   <trd lng="oc">b&oacute;stia de las letras</trd>
   <trd lng="pl">skrzynka pocztowa</trd>
@@ -175,6 +246,7 @@
     <trd>schr&aacute;nka na listy</trd>
   </trdgrp>
   <trd lng="sv">postl&aring;da</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_sh;&c_t;&#x43E;&c_v;&c_a; &c_s;&#x43A;&c_r;&c_i;&#x43D;&#x44C;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="kest.mon0o">
@@ -196,6 +268,10 @@
     </dif>
     <ref tip="sin" cel="kas.0o.monkesto">kaso <sncref/></ref>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_s;&c_a; <klr tip="amb">(&c_s;&c_k;&c_r;&c_y;&c_n;&c_ja; &c_z; &c_g;&c_r;&c_o;&c_sh;&c_a;&c_m;&c_ib;)</klr></trd>,
+    <trd>&c_s;&c_k;&c_a;&c_r;&c_b;&c_o;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
   <trd lng="br">kef<klr tip="ind"> (moneiz)</klr></trd>
   <trd lng="cs">pokladna</trd>
   <trdgrp lng="fr">
@@ -212,6 +288,12 @@
   <trdgrp lng="sk">
     <trd>pokladnica</trd>,
     <trd>trezor</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x43A;&c_a;&c_r;&#x43D;&c_a;&c_v;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&#x43A;&c_a;&c_r;&c_b;&#x43D;&c_i;&c_ch;&#x43A;&c_a;</trd>,
+    <trd>&c_s;&#x43A;&c_a;&c_r;&c_b;&#x43E;&#x43D;&c_a;</trd>,
+    <trd>&#x43A;&c_a;&c_s;&c_a;</trd>
   </trdgrp>
 </drv>
 
@@ -236,13 +318,13 @@
       Flugregistrilo, kiu restas en flugaparato, kaj kies enhavon oni
       povas analizi post paneo a&ubreve; akcidento:
       <ekz>
-        esplorado de la t.n. &leftquot;nigra <tld/>o&#8221; indikis, ke la ma&scirc;ino estis
+        esplorado de la t.n. &leftquot;nigra <tld/>o&#x201D; indikis, ke la ma&scirc;ino estis
         teknike senripro&ccirc;a, tamen anta&ubreve; la flugo ne estis sufi&ccirc;e
         inspektita
         <fnt>
           <bib>Monato</bib>
           <aut>last/pg</aut>
-          <vrk><url ref='&Monato;/2006/008804.php'>Post
+          <vrk><url ref="&Monato;/2006/008804.php">Post
           kra&scirc;o levi&gcirc;as esperoj</url></vrk>
           <lok>2006</lok>
         </fnt>.
@@ -257,6 +339,7 @@
     <trd lng="it"><ind>scatola</ind> nera</trd>
     <trd lng="pl">czarna <ind>skrzynka</ind></trd>
   </snc>
+  <trd lng="be">&c_ch;&c_o;&c_r;&c_n;&c_a;&c_ja; <ind>&c_s;&c_k;&c_r;&c_y;&c_n;&c_ja;</ind></trd>
   <trd lng="de">Black Box</trd>
   <trdgrp lng="fr">
     <trd>boite noire</trd>
@@ -277,7 +360,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Jacques Tuinder</aut>
-          <vrk><url ref='&Monato;/2011/010356.php'>Fonda&jcirc;o
+          <vrk><url ref="&Monato;/2011/010356.php">Fonda&jcirc;o
           E-vid-E-nt-E jam 45 jarojn aktivadas</url></vrk>
           <lok>2011</lok>
         </fnt>;
@@ -292,7 +375,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref='&Monato;/2006/008941.php'>Skribu
+          <vrk><url ref="&Monato;/2006/008941.php">Skribu
           leterojn!</url></vrk>
           <lok>2006</lok>
         </fnt>;
@@ -305,7 +388,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url ref='&Monato;/2008/009430.php'>Fido kaj
+          <vrk><url ref="&Monato;/2008/009430.php">Fido kaj
           skeptiko</url></vrk>
           <lok>2008</lok>
         </fnt>;
@@ -315,12 +398,11 @@
         serboj inundis la retpo&scirc;t<tld/>on de NATO per amase senditaj
         leteroj
         <fnt>
-          <bib>Monato</bib>
           <aut>Stefan Maul</aut>
-          <vrk><url
-          ref='http://steloj.de/esperanto/monato2/007289.html'>Militado
-          sen bataliloj</url></vrk>
-        </fnt>.
+            <vrk><url ref="&Monato;/2001/007289.php">Militado sen bataliloj</url></vrk>
+            <bib>Monato</bib>
+            <lok>2001/01, p. 6</lok>
+          </fnt>.
       </ekz>
     </dif>
     <refgrp tip="vid">
@@ -338,10 +420,16 @@
   </trdgrp>
   <trd lng="hu">postafi&oacute;k</trd>
   <trd lng="it"><ind>cassetta</ind> postale</trd>
+  <trdgrp lng="ja">
+    <trd>&#x90F5;&#x4FBF;&#x30DD;&#x30B9;&#x30C8;  [<ind>&#x3086;&#x3046;&#x3073;&#x3093;&#x30DD;&#x30B9;&#x30C8;</ind>]</trd>,
+    <trd>&#x90F5;&#x4FBF;&#x53D7;&#x7BB1;  [<ind>&#x3086;&#x3046;&#x3073;&#x3093;&#x3058;&#x3085;&#x306F;&#x3053;</ind>]</trd>,
+    <trd>&#x79C1;&#x66F8;&#x7BB1;  [<ind>&#x3057;&#x3057;&#x3087;&#x3070;&#x3053;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">postbus<klr tip="ind"> (voor verzending)</klr></trd>
   <trd lng="pl">skrzynka pocztowa</trd>
   <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_y;&c_j; &c_ja;&c_shch;&c_i;&c_k;</trd>
   <trd lng="sv">brevl&aring;da</trd>
+  <trd lng="uk">&#x43F;&#x43E;&c_sh;&c_t;&#x43E;&c_v;&c_a; &c_s;&#x43A;&c_r;&c_i;&#x43D;&#x44C;&#x43A;&c_a;</trd>
 </drv>
 
 <drv mrk="kest.son0o">
@@ -349,10 +437,9 @@
   <snc mrk="kest.son0o.MUZ">
     <uzo tip="fak">MUZ</uzo>
     <dif>
-      Kesto kun bu&scirc;o apud la kordoj de <ref tip="malprt"
-      cel="instru2.kord0o">kordinstrumento</ref> a&ubreve;
-      sub tega&jcirc;o de <ref tip="malprt"
-      cel="instru2.frap0o">frapinstrumento</ref>
+      Kesto kun bu&scirc;o apud la kordoj de <ref tip="malprt" cel="instru2.kord0o">kordinstrumento</ref>
+      a&ubreve;
+      sub tega&jcirc;o de <ref tip="malprt" cel="instru2.frap0o">frapinstrumento</ref>
       por la&ubreve;tigi ties sonojn:
       <ekz>
         hu&ccirc;jino estas &gcirc;enerala nomo de familio de &ccirc;indevenaj
@@ -360,12 +447,12 @@
         tra kiu la kolo trabas
         <fnt>
           <bib>Viki</bib>
-          <lok><url
-          ref='https://eo.wikipedia.org/?curid=49623'>Hu&ccirc;ino</url></lok>
+          <lok><url ref="https://eo.wikipedia.org/?curid=49623">Hu&ccirc;ino</url></lok>
         </fnt>.
       </ekz>
     </dif>
   </snc>
+  <trd lng="be">&c_r;&c_e;&c_z;&c_a;&c_n;&c_a;&c_t;&c_a;&c_r;&c_n;&c_a;&c_ja; <ind>&c_s;&c_k;&c_r;&c_y;&c_n;&c_ja;</ind></trd>
   <trd lng="br">kef-dasson</trd>
   <trdgrp lng="cs">
     <trd>ozvu&ccaron;nice</trd>,
@@ -377,11 +464,16 @@
   </trdgrp>
   <trd lng="hu">hangszekr&eacute;ny</trd>
   <trd lng="it"><ind>cassa</ind> armonica</trd>
+  <trdgrp lng="ja">
+    <trd>&#x5171;&#x9CF4;&#x7BB1;  [<ind>&#x304D;&#x3087;&#x3046;&#x3081;&#x3044;&#x3070;&#x3053;</ind>]</trd>,
+    <trd>&#x97F3;&#x97FF;&#x5BA4;  [<ind>&#x304A;&#x3093;&#x304D;&#x3087;&#x3046;&#x3057;&#x3064;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">klankkast</trd>
   <trd lng="pl">pud&lstroke;o rezonansowe</trd>
   <trd lng="ru">&c_r;&c_je;&c_z;&c_o;&c_n;&c_a;&c_t;&c_o;&c_r;<klr> (&c_u; &c_m;&c_u;&c_z;&c_y;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_g;&c_o;
   &c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;&c_a;)</klr></trd>
   <trd lng="sk">ozvu&ccaron;nica</trd>
+  <trd lng="uk">&c_r;&c_je;&c_z;&#x43E;&#x43D;&c_a;&c_t;&#x43E;&c_r;</trd>
 </drv>
 
 <drv mrk="kest.tir0o">
@@ -419,6 +511,7 @@
   </trdgrp>
   <trd lng="hu">fi&oacute;k</trd>
   <trd lng="it">cassetto</trd>
+  <trd lng="ja">&#x5F15;&#x51FA;&#x3057;  [<ind>&#x3072;&#x304D;&#x3060;&#x3057;</ind>]</trd>
   <trdgrp lng="nl">
     <trd>lade</trd>,
     <trd>la</trd>
@@ -427,10 +520,23 @@
   <trd lng="ru">&c_v;&c_y;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_o;&c_j; &c_ja;&c_shch;&c_i;&c_k;<klr> (&c_s;&c_t;&c_o;&c_l;&c_a;, &c_sh;&c_k;&c_a;&c_f;&c_a;
   &c_i; &c_t;.&c_p;.)</klr></trd>
   <trd lng="sk">z&aacute;suvka</trd>
+  <trd lng="uk">&c_sh;&c_u;&c_h;&#x43B;&#x44F;&c_d;&c_a;</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.120 2023/04/30 14:25:47
+Paul Peeraerts: Steloj -> monato
+
+versio 1.119 2022/09/26 14:06:56
+Dmitri Gabinski: + trd be
+
+versio 1.118 2022/05/01 08:09:24
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.112 2021/07/12 08:33:36
+Dmitri Gabinski: +trd be
+
 Revision 1.38  2018/03/26 17:10:24  revo
 Vito Redsky: +trd ro
 
@@ -441,17 +547,5 @@ Revision 1.36  2017/01/22 21:10:15  revo
 Jessica Grasso: +tr en
 
 Revision 1.35  2015/07/04 08:37:37  revo
-aldono de trd cs per skripto de M. von Laer
-
-Revision 1.34  2015/06/29 16:33:17  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.33  2013/10/16 08:10:13  revo
-Benito Subejrano: + trd ca oc
-
-Revision 1.32  2012/08/23 12:10:08  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.31  2011/01/17 10:10:09  revo
 -->
 </vortaro>

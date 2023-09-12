@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id: gram.xml,v 1.14 2009/08/24 16:32:52 revo Exp $">
+<art mrk="$Id: gram.xml,v 1.28 2023/08/31 14:29:54 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>gram</rad>/o
@@ -12,8 +11,7 @@
   <mlg kod="SI">g</mlg>
   <snc>
     <dif>
-      <ref tip="lst" cel="unu.mezur0o"
-      lst="voko:kvantoj">Mezurunuo</ref> 
+      <ref tip="lst" cel="unu.mezur0o" lst="voko:kvantoj">Mezurunuo</ref> 
       de <ref cel="mas.0o.FIZ">maso</ref>, milono de <ref tip="malprt" cel="kilogr.0o">kilogramo</ref>:
       <ekz>
         da estingita kalko pulvorigita 100&nbsp;<tld/>ojn, da ovoblanko bone 
@@ -29,14 +27,16 @@
         </fnt>;
       </ekz>
       <ekz>
-        <klr>[en la]</klr> atomhorlo&gcirc;oj <klr>[&#8230;]</klr> la fizikistoj 
-       fandas malgrandan kvanton da purega cezio, de kiu ioma kvanto vapori&gcirc;as <klr>[&#8230;]</klr>
+        <klr>[en la]</klr> atomhorlo&gcirc;oj <klr>[&#x2026;]</klr> la fizikistoj 
+       fandas malgrandan kvanton da purega cezio, de kiu ioma kvanto vapori&gcirc;as <klr>[&#x2026;]</klr>
         kvin <tld/>oj da cezio sufi&ccirc;as por dek jaroj
         <fnt>
-          <bib>Monato</bib>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/007024.html">Tempo: Pli 
-          ekzakte ne eblas: Radi-regata horlo&gcirc;o</url></vrk>
-        </fnt>.
+          <aut>Walter Klag</aut>
+            <vrk><url ref="&Monato;/2000/007024.php">Pli ekzakte ne eblas: Radi-regata
+            horlo&gcirc;o</url></vrk>
+            <bib>Monato</bib>
+            <lok>2000/10, p. 13</lok>
+          </fnt>.
       </ekz>
     </dif>
     <rim>
@@ -44,6 +44,10 @@
       kilogramo.
     </rim>
   </snc>
+  <rim>
+     La mezuruno havas neniun rilaton al la bakteriolo <ref tip="hom" cel="gram1.0o">Gramo</ref> kaj
+     lia testmetodo.
+  </rim>
   <trd lng="be">&c_g;&c_r;&c_a;&c_m;</trd>
   <trd lng="ca">gram</trd>
   <trd lng="cs">gram</trd>
@@ -53,17 +57,27 @@
   <trd lng="fr">gramme</trd>
   <trd lng="hu">gramm</trd>
   <trd lng="id">gram</trd>
+  <trd lng="ja">&#x30B0;&#x30E9;&#x30E0;  [<ind>&#x3050;&#x3089;&#x3080;</ind>]</trd>
   <trd lng="nl">gram</trd>
   <trd lng="pl">gram</trd>
   <trd lng="pt">grama<klr tip="amb"> (unidade de massa)</klr></trd>
   <trd lng="ru">&c_g;&c_r;&c_a;&c_m;&c_m;</trd>
   <trd lng="sk">gram</trd>
   <trd lng="tr">gram</trd>
-  <trd lng="zh">&#20811; [<ind>k&egrave;</ind>]</trd>
+  <trd lng="zh">&#x514B; [<ind>k&egrave;</ind>]</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.27 2023/04/30 09:24:31
+Paul Peeraerts: Steloj -> monato
+
+versio 1.26 2022/04/30 08:42:40
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.25 2021/05/23 16:02:48
+Wolfram Diestel: rim ref-hom
+
 Revision 1.23  2016/09/30 13:10:13  revo
 Sebastian Cyprych: +trd pl
 
@@ -77,11 +91,5 @@ Revision 1.20  2015/06/25 15:10:17  revo
 Darcy Shen: +trd zh
 
 Revision 1.19  2014/07/02 15:10:47  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.18  2013/10/03 08:10:33  revo
-Wolfram Diestel: precizigis klason al voko:kvantoj
-
-Revision 1.17  2013/09/15 16:10:21  revo
 -->
 </vortaro>

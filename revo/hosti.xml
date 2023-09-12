@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-   <art mrk="$Id: hosti.xml,v 1.21 2009/09/19 16:30:42 revo Exp $">
+   <art mrk="$Id: hosti.xml,v 1.27 2023/08/31 15:46:19 revo Exp $">
      <kap>
        <ofc>*</ofc>
        <rad>hosti</rad>/o
@@ -21,8 +20,7 @@
              la konsekrita <tld lit="H"/>o
              <fnt>
                <aut>Papo Leono la 13a</aut>:
-               <vrk><url ref=
-               "http://www.ikue.org/papoj/leonoxiii/encrozario.htm">
+               <vrk><url ref="http://www.ikue.org/papoj/leonoxiii/encrozario.htm">
                La unua encikliko pri la Rozario</url></vrk>
              </fnt>;
            </ekz><ekz>
@@ -31,8 +29,7 @@
              <fnt>
                <aut>Imre Mad&aacute;ch, tr. K. Kalocsay</aut>:
                <vrk>La tragedio de l'homo</vrk>.
-               <lok><url ref=
-               "http://mek.oszk.hu/00900/00928/html/madach7.htm">
+               <lok><url ref="http://mek.oszk.hu/00900/00928/html/madach7.htm">
                7a Bildo</url></lok>
              </fnt>.
            </ekz>
@@ -70,7 +67,11 @@
          <trd>szent <ind>ostya</ind></trd>,
          <trd>&aacute;ldozati <ind>ostya</ind></trd></trdgrp>
        <trd lng="it">ostia</trd>
-       <trd lng="nl">hostie</trd>
+       <trdgrp lng="ja">
+    <trd>&#x8056;&#x4F53;&#x306E;&#x30D1;&#x30F3;  [<ind>&#x305B;&#x3044;&#x305F;&#x3044;&#x306E;&#x3071;&#x3093;</ind>]</trd>,
+    <trd>&#x30AA;&#x30B9;&#x30C1;&#x30E4;</trd>
+  </trdgrp>
+  <trd lng="nl">hostie</trd>
        <trdgrp lng="pl">
          <trd>hostia</trd>
          <trd>op&lstroke;atek<klr> (pot.)</klr></trd>
@@ -83,6 +84,10 @@
        </trdgrp>
        <trd lng="sk">hostia</trd>
   <trd lng="cs">hostie</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&#x440;&#x43E;&#x441;&#x43A;&#x443;&#x440;&#x430;</trd>,
+    <trd>&#x43E;&#x431;&#x43B;&#x430;&#x442;&#x43A;&#x430; (&#x443; &#x43A;&#x430;&#x442;&#x43E;&#x43B;&#x438;&#x43A;&#x456;&#x432;)</trd>
+  </trdgrp>
 </drv>
 
      <drv mrk="hosti.0ujo">
@@ -99,8 +104,7 @@
                (titolo), por forigo de miaj pekoj kaj vivo eterna</ctl>
              <fnt>
                <vrk>La komunio</vrk>,
-               <lok><url ref=
-               "http://b-eichkorn.homepage.t-online.de/ADORU08.html">
+               <lok><url ref="http://b-eichkorn.homepage.t-online.de/ADORU08.html">
                Liturgiaj modeloj</url></lok>
              </fnt>.
            </ekz>
@@ -127,7 +131,8 @@
          <trd>&ouml;yl&auml;ttirasia</trd>,
          <trd>ciborium</trd>
        </trdgrp>
-       <trd lng="nl">ciborie</trd>
+       <trd lng="ja">&#x8056;&#x4F53;&#x5668;  [<ind>&#x305B;&#x3044;&#x305F;&#x3044;&#x3046;&#x3064;&#x308F;</ind>]</trd>
+  <trd lng="nl">ciborie</trd>
        <trd lng="fr">ciboire</trd>
        <trdgrp lng="hu">
          <trd>ostyatart&oacute;</trd>,
@@ -147,6 +152,7 @@
        <trd lng="ru">&c_d;&c_a;&c_r;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>
        <trd lng="sk">cib&oacute;rium</trd>
   <trd lng="cs">ciborium</trd>
+  <trd lng="uk">&#x447;&#x430;&#x448;&#x430;</trd>
 </drv>
 
      <drv mrk="hosti.0montrilo">
@@ -171,6 +177,7 @@
          <trd>monstrancia</trd>
        </trdgrp>
   <trd lng="it">ostensorio</trd>
+  <trd lng="ja">&#x8056;&#x4F53;&#x9855;&#x793A;&#x53F0;  [<ind>&#x305B;&#x3044;&#x305F;&#x3044;&#x3042;&#x304D;&#x3089;&#x3057;&#x3081;&#x3060;&#x3044;</ind>]</trd>
   <trd lng="la">Ostensorium</trd>
   <trd lng="nl">monstrans</trd>
   <trd lng="pl">monstrancja</trd>
@@ -178,6 +185,10 @@
   <trd lng="ru">&c_d;&c_a;&c_r;&c_o;&c_n;&c_o;&c_s;&c_i;&c_c;&c_a;
        </trd>
   <trd lng="sk">mon&scaron;trancia</trd>
+  <trdgrp lng="uk">
+    <trd>&#x446;&#x435;&#x440;&#x43A;. &#x434;&#x430;&#x440;&#x43E;&#x43D;&#x43E;&#x441;&#x438;&#x446;&#x44F;</trd>,
+    <trd>&#x43A;&#x43E;&#x432;&#x447;&#x435;&#x436;&#x435;&#x446;&#x44C;</trd>
+  </trdgrp>
 </drv>
    </art>
    <!--

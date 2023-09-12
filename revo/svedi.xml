@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: svedi.xml,v 1.20 2023/09/04 15:14:34 revo Exp $">
 <kap>
   <rad>Svedi</rad>/o
 </kap>
@@ -18,19 +17,20 @@
         Bertil Ohlin en la t.n. Stokholmskolo defiis siajn instruistojn
         de la pli a&gcirc;a generacio
         <fnt><aut>Bo SANDELIN</aut>:
-        <vrk><url ref="&Monato;/007521.html">Makroekonomiko en la 20a
+        <vrk><url ref="&Monato;/2001/007521.html">Makroekonomiko en la 20a
         jarcento</url></vrk>,
         <bib>Monato</bib>,
-        <lok>n-ro 09/2001</lok>
+        <lok>2001/09</lok>
         </fnt>;
       </ekz>
       <ekz>
         el Britio, Danio, Germanio kaj <tld/>o estis forpelitaj litovoj,
         kies vizoj ne plu validis kaj kiuj kontra&ubreve;le&gcirc;e laboris
         <fnt>
+       <aut>LAST/pg</aut>
+          <vrk><url ref="&Monato;/2000/006829.php">&Gcirc;is nerevido</url></vrk>
           <bib>Monato</bib>
-          <aut>Last</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006829.html">&Gcirc;is nerevido</url></vrk>
+          <lok>2000/09, p. 14</lok>
         </fnt>;
       </ekz>
       <ekz>
@@ -40,7 +40,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Stefan MAUL</aut>
-          <vrk><url ref="https://www.monato.be/2003/008117.html">Grizi&gcirc;anta mondo</url></vrk>
+          <vrk><url ref="&Monato;/2003/008117.html">Grizi&gcirc;anta mondo</url></vrk>
         </fnt>.
       </ekz>
     </dif>
@@ -74,8 +74,9 @@
   <trd lng="ia">Svedia</trd>
   <trd lng="id">Swedia</trd>
   <trd lng="io">Suedia</trd>
-  <trd lng="is">Sv&iacute;þj&oacute;ð</trd>
+  <trd lng="is">Sv&iacute;&#xFE;j&oacute;&#xF0;</trd>
   <trd lng="it">Svezia</trd>
+  <trd lng="ja">&#x30B9;&#x30A6;&#x30A7;&#x30FC;&#x30C7;&#x30F3;  [<ind>&#x3059;&#x3046;&#x3047;&#x30FC;&#x3067;&#x3093;</ind>]</trd>
   <trd lng="la">Suecia</trd>
   <trd lng="lt">&Scaron;vedija</trd>
   <trd lng="lv">Zviedrija</trd>
@@ -88,13 +89,23 @@
   <trd lng="sk">&Scaron;v&eacute;dsko</trd>
   <trd lng="sv">Sverige</trd>
   <trd lng="sw">Uswidi</trd>
-  <trd lng="tp">ma Wensa</trd>
+  <trd lng="tok">ma Wensa</trd>
   <trd lng="tr">&Idot;sve&ccedil;</trd>
+  <trd lng="uk">&c_Sh;&c_v;&c_je;&c_c;&c_ib;&#x44F;</trd>
   <trd lng="vo">Sved&auml;n</trd>
 </drv>
 </art>
 <!--
 $Log$
+versio 1.19 2023/04/24 12:46:37
+Paul Peeraerts: @Steloj -> @Monato
+
+versio 1.18 2023/04/10 10:29:30
+Paul Peeraerts: kor de erara ref
+
+versio 1.17 2022/05/05 14:43:49
+aktualigo lingvokodoj kaj URL-unuoj
+
 Revision 1.14  2018/02/24 18:10:21  revo
 Wolfram Diestel: +ekz-oj, anst. rim per url
 
@@ -108,14 +119,5 @@ Revision 1.11  2015/07/04 08:37:44  revo
 aldono de trd cs per skripto de M. von Laer
 
 Revision 1.10  2015/06/29 16:33:25  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.9  2014/06/23 14:10:34  revo
-Eko Nur Syah Hidayat: +id
-
-Revision 1.8  2014/06/09 16:10:51  revo
-Damien Brucker: +trd fr
-
-Revision 1.7  2012/08/04 07:10:19  revo
 -->
 </vortaro>

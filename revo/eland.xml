@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: eland.xml,v 1.10 2022/04/27 14:38:54 revo Exp $">
 <kap>
   <rad>eland</rad>/o <fnt><bib>NePiv</bib></fnt>
 </kap>
@@ -35,7 +35,7 @@
         <fnt>
           <bib>Viki</bib>,
           <lok><url
-          ref="http://eo.wikipedia.org/wiki/Nacia_Parko_Mosi-oa-Tunya">
+          ref="&Viki;/Nacia_Parko_Mosi-oa-Tunya">
           Nacia Parko Mosi-oa-Tunya</url>, 2011-11-26</lok>
         </fnt>.
       </ekz>
@@ -43,6 +43,16 @@
     <refgrp tip="sin">
       <ref cel="tauxrotrag.0o.ZOO">ta&ubreve;rotrago</ref>
     </refgrp>
+    <bld
+      lok="&WCU;/thumb/e/ec/Taurotragus_oryx.jpg/640px-Taurotragus_oryx.jpg"
+      prm="CC BY-SA 4.0"
+      ><tld/>oj &ccirc;e akvejo, Nacia Parko Eto&scirc;a, Namibio
+        <fnt>
+          <aut>Hans Hillewaert, propra verko</aut>
+          <lok><url ref="&WCW;/File:Taurotragus_oryx.jpg"
+              >&WCW;/File:Taurotragus_oryx.jpg</url></lok>
+        </fnt>
+    </bld>    
   </snc>
   <trd lng="cs">antilopa los&iacute;</trd>
   <trd lng="de">Elenantilope</trd>
@@ -62,6 +72,12 @@
 
 <!--
 $Log$
+versio 1.10 2022/04/27 14:38:54
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.9 2020/11/22 19:10:36
+Wolfram Diestel: +bld
+
 Revision 1.7  2015/07/04 08:37:33  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -78,8 +94,5 @@ Revision 1.3  2013/07/07 16:10:12  revo
 Wolfram Diestel: referenco al korno
 
 Revision 1.2  2013/07/07 15:10:21  revo
-Wolfram Diestel: referencoj
-
-Revision 1.1  2012/10/28 19:10:14  revo
 -->
 </vortaro>

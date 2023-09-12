@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: tromb.xml,v 1.22 2023/09/04 19:01:54 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>tromb</rad>/o
@@ -16,7 +15,7 @@
       kaj rapide anta&ubreve;eniranta kun terura detrua forto; 
       akva <ref tip="vid" cel="ciklon.0o.MET">ciklono</ref>:
       <ekz>
-        <tld/>o <klr>[&#8230;]</klr> estas rotacianta funelforma nubo, kiu 
+        <tld/>o <klr>[&#x2026;]</klr> estas rotacianta funelforma nubo, kiu 
         malsupreni&gcirc;as al la maro kaj ensu&ccirc;as respondan volumenon da akvo,
         tiel ke la tuto prezentas kolonon inter la maro kaj la nubo
         <fnt>
@@ -65,6 +64,10 @@
   </trdgrp>
   <trd lng="fr">trombe</trd>
   <trd lng="hu">v&iacute;zt&ouml;lcs&eacute;r</trd>
+  <trdgrp lng="ja">
+    <trd>&#x7ADC;&#x5DFB;  [<ind>&#x305F;&#x3064;&#x307E;&#x304D;</ind>]</trd>,
+    <trd>&#x8840;&#x6813;  [<ind>&#x3051;&#x3063;&#x305B;&#x3093;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">waterhoos</trd>
   <trd lng="pl">tr&aogonek;ba wodna</trd>
   <trdgrp lng="pt">
@@ -78,6 +81,11 @@
   <trdgrp lng="sk">
     <trd>morsk&yacute; v&iacute;r</trd>,
     <trd>tromba</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&#x432;&#x438;&#x445;&#x43E;&#x440;</trd>,
+    <trd>&#x441;&#x43C;&#x435;&#x440;&#x447;</trd>,
+    <trd>&#x442;&#x440;&#x43E;&#x43C;&#x431;</trd>
   </trdgrp>
 </drv>
 </art>

@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: papaj.xml,v 1.15 2023/09/03 12:45:04 revo Exp $">
 <kap>
   <rad>papaj</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -18,8 +17,7 @@
         <fnt>
           <bib>Monato</bib>
           <aut>Gbeglo Koffi</aut>
-          <vrk><url ref="&Monato;/2006/008903.php"
-              >Fornoj kaj formoj</url></vrk>
+          <vrk><url ref="&Monato;/2006/008903.php">Fornoj kaj formoj</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -29,30 +27,39 @@
         43a</lok></fnt>.
       </ekz>
     </dif>
-    <bld
-      lok="&WCU;/thumb/4/47/Papaya_sunset.jpg/555px-Papaya_sunset.jpg"
-      prm="PD"
-      ><tld/>oj ekstere kaj ene
+    <bld lok="&WCU;/thumb/4/47/Papaya_sunset.jpg/555px-Papaya_sunset.jpg" prm="PD"><tld/>oj ekstere
+    kaj ene
         <fnt>
-          <lok><url ref="&WCW;/File:Papaya_sunset.jpg"
-              >https://commons.wikimedia.org/wiki/File:Papaya_sunset.jpg</url></lok>
+          <lok><url ref="&WCW;/File:Papaya_sunset.jpg">&WCW;/File:Papaya_sunset.jpg</url></lok>
         </fnt>
     </bld>
   </snc>
+  <trd lng="be">&c_p;&c_a;&c_p;&c_a;&c_ja; <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="bo">&#xF54;&#xF0B;&#xF54;&#xF72;&#xF0B;&#xF61;&#xF0B;</trd>
   <trdgrp lng="cs">
     <trd>papajovn&iacute;k</trd>,
     <trd>pap&aacute;ja</trd>
   </trdgrp>
   <trd lng="en">papaya</trd>
   <trd lng="fr">papaye</trd>
+  <trd lng="id">pepaya</trd>
+  <trd lng="ja">&#x30D1;&#x30D1;&#x30A4;&#x30A2;</trd>
+  <trd lng="pl">papaja</trd>
   <trdgrp lng="pt">
     <trd>mam&atilde;o</trd>,
     <trd>papaia</trd>,
     <trd>bepaia</trd>,        
     <trd>mamoa</trd>
   </trdgrp>
+  <trd lng="ro">papaya</trd>
   <trd lng="ru">&c_p;&c_a;&c_p;&c_a;&c_j;&c_ja;</trd>
   <trd lng="sk">pap&aacute;jovn&iacute;k</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_a;&#x43F;&c_a;&#x44F;</trd>,
+    <trd>&c_d;&c_i;&#x43D;&#x43D;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&#x43E;</trd>,
+    <trd>&#x43F;&#x43B;&c_ib;&c_d; &#x43F;&c_a;&#x43F;&c_a;&c_ji;</trd>,
+    <trd>&c_d;&c_i;&#x43D;&#x43D;&#x43E;&c_g;&#x43E; &c_d;&c_je;&c_r;&c_je;&c_v;&c_a;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="papaj.0arbo">
@@ -61,21 +68,42 @@
     <uzo tip="fak">BOT</uzo>
     <dif>
       Mezamerikdevena arbo, <ref tip="lst" lst="voko:botanikaj_specioj" cel="speci.0o.BIO">specio</ref>
-      de <ref tip="super" cel="karik.0o.BOT">kariko</ref>, anka&ubreve; nomata melonarbo, kultivata en varmaj landoj pro
+      de <ref tip="super" cel="karik.0o.BOT">kariko</ref>, anka&ubreve; nomata
+      melonarbo, kultivata en varmaj landoj pro
       siaj fruktoj (<trd lng="la">Carica papaya</trd>).
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_p;&c_a;&c_ja; <klr>(&c_d;&c_r;&c_e;&c_v;&c_a;)</klr></trd>,
+    <trd>&c_d;&c_y;&c_n;&c_n;&c_a;&c_je; <ind>&c_d;&c_r;&c_e;&c_v;&c_a;</ind></trd>,
+    <trd>&c_h;&c_l;&c_je;&c_b;&c_n;&c_a;&c_je; <ind>&c_d;&c_r;&c_e;&c_v;&c_a;</ind></trd>
+  </trdgrp>
   <trd lng="en">papaya tree</trd>
   <trd lng="fr">papayer</trd>
+  <trd lng="pl">melonowiec</trd>
   <trdgrp lng="pt">
     <trd>mamoeiro</trd>
   </trdgrp>
+  <trd lng="ro">papaya</trd>
   <trd lng="ru">&c_p;&c_a;&c_p;&c_a;&c_j;&c_ja;</trd>
+  <trdgrp lng="uk">
+    <trd>&#x43F;&c_a;&#x43F;&c_a;&#x44F;</trd>,
+    <trd>&c_d;&c_i;&#x43D;&#x43D;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&#x43E;</trd>
+  </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log$
+versio 1.14 2023/01/27 09:27:24
+Dmitri Gabinski: + trd be
+
+versio 1.13 2022/05/01 17:51:19
+aktualigo lingvokodoj kaj URL-unuoj
+
+versio 1.11 2021/11/07 22:29:37
+Vito Redsky: +trd pl +trd ro
+
 Revision 1.7  2019/01/11 16:10:14  revo
 Wolfram Diestel: +ekz, +bld
 
@@ -89,13 +117,5 @@ Revision 1.4  2011/09/30 12:10:11  revo
 Russ Williams: +trd en
 
 Revision 1.3  2006/02/24 17:36:06  revo
-Tulio Flores: +trd pt
-
-Revision 1.2  2005/12/19 17:31:54  revo
-Yury Finkel: +trd ru
-
-Revision 1.1  2005/09/28 16:31:20  revo
-Jeromo Vasxe: nova artikolo
-
 -->
 </vortaro>

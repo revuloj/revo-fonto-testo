@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
-
 <vortaro>
-<art mrk="$Id$">
+<art mrk="$Id: port.xml,v 1.132 2023/09/03 12:45:10 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>port</rad>/i
@@ -86,7 +85,7 @@
       <ekz>
         <tld/>i la verdan stelon
         <fnt>
-          <vrk><url ref="https://groups.google.com/d/msg/soc.culture.esperanto/b1kbIjSqZpw/RSvrz2YvBAAJ">Re: 
+          <vrk><url ref="https://groups.google.com/d/msg/soc.culture.esperanto/b1kbIjSqZpw/RSvrz2YvBAAJ">Re:
           Raporto pri la unua Esperanto-kongreso en Burundo </url></vrk>
         </fnt>.
       </ekz>
@@ -155,7 +154,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        li estas tre ekkolerema <klr>[&#8230;]</klr>, tamen li <klr>[&#8230;]</klr>
+        li estas tre ekkolerema <klr>[&#x2026;]</klr>, tamen li <klr>[&#x2026;]</klr>
         ne <tld/>as longe la koleron
         <fnt><bib>F</bib>, <lok>&FE; 41</lok></fnt>.
       </ekz>
@@ -236,42 +235,123 @@
       <trd>&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
     </trdgrp>
   </snc>
+  <trd lng="af">voer</trd>
+  <trd lng="am">&#x1270;&#x1238;&#x12A8;&#x121D;</trd>
+  <trd lng="ar">&a_H;&a_m;&a_l;</trd>
+  <trd lng="az">ke&ccedil;irm&#x259;k</trd>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_s;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
+  <trd lng="bn">&#x9AC;&#x9B9;&#x9A8;</trd>
+  <trd lng="bo">&t_-a;&t_kha;&t_yata;&t_drengbu;&t_ra;&t_tsheg;</trd>
+  <trd lng="bs">nose</trd>
+  <trd lng="co">purtarla</trd>
   <trdgrp lng="cs">
     <trd>m&iacute;t na sob&ecaron;</trd>,
     <trd>n&eacute;st</trd>,
     <trd>nosit</trd>,
     <trd>p&rcaron;in&aacute;&scaron;et</trd>
   </trdgrp>
-  <trd lng="en">carry</trd>
+  <trd lng="cy">cario</trd>
+  <trd lng="da">b&aelig;re</trd>
+  <trdgrp lng="en">
+    <trd>carry</trd>,
+    <trd>bear</trd>,
+    <trd>bring</trd>
+  </trdgrp>
+  <trd lng="et">l&auml;bi</trd>
+  <trd lng="eu">egiteko</trd>
   <trdgrp lng="fr">
     <trd>porter</trd>,
     <trd>supporter</trd>
   </trdgrp>
+  <trd lng="fy">drage</trd>
+  <trd lng="ga">iompar</trd>
+  <trd lng="gd">a ghi&ugrave;lan</trd>
+  <trd lng="gl">cargar</trd>
+  <trd lng="gu">&#xA9A;&#xABE;&#xAB2;&#xAC1;</trd>
+  <trd lng="ha">kawo</trd>
+  <trd lng="hi">&#x932;&#x947;</trd>
+  <trd lng="hmn">nqa</trd>
+  <trd lng="hr">nose</trd>
+  <trd lng="ht">pote</trd>
   <trdgrp lng="hu">
     <trd>hoz</trd>,
     <trd>visz</trd>,
     <trd>hord</trd>,
     <trd>visel</trd>
   </trdgrp>
+  <trd lng="hy">&#x56F;&#x580;&#x565;&#x56C;</trd>
+  <trd lng="ig">ebu</trd>
+  <trd lng="is">bera</trd>
+  <trd lng="ja">&#x904B;&#x3076; [<ind>&#x306F;&#x3053;&#x3076;</ind>]</trd>
+  <trd lng="jv">nindakake</trd>
+  <trd lng="ka">&#x10D2;&#x10D0;&#x10DC;&#x10D0;&#x10EE;&#x10DD;&#x10E0;&#x10EA;&#x10D8;&#x10D4;&#x10DA;&#x10DD;&#x10E1;</trd>
+  <trd lng="kk">&#x49A;&c_a;&c_z;&c_a;&#x49B;&c_s;&c_t;&c_a;&c_n; &c_b;&c_o;&c_j;&c_y;&c_n;&c_sh;&c_a; &c_zh;&#x4AF;&c_k;
+  &c_t;&c_a;&c_s;&c_y;&c_m;&c_a;&c_l;&c_d;&c_a;&c_r;&c_y;</trd>
+  <trd lng="km">&#x17A2;&#x1793;&#x17BB;&#x179C;&#x178F;&#x17D2;&#x178F;</trd>
+  <trd lng="kn">&#xCB8;&#xCBE;&#xC97;&#xCBF;&#xCB8;&#xCC1;&#xCB5;</trd>
+  <trd lng="ko">&#xC218;&#xD589;</trd>
+  <trd lng="ku">hilgirtin</trd>
+  <trd lng="ky">&c_a;&c_sh;&c_y;&c_r;&c_u;&c_u;&c_g;&c_a;</trd>
+  <trd lng="lat">ferte</trd>
+  <trd lng="lo">&#xE9B;&#xEB0;&#xE95;&#xEB4;&#xE9A;&#xEB1;&#xE94;&#xE81;&#xEB2;&#xE99;</trd>
+  <trd lng="lt">vykdyti</trd>
+  <trd lng="lv">p&#x15D1;rvad&#x15D1;t</trd>
+  <trd lng="mg">mitondra</trd>
+  <trd lng="mi">kawe</trd>
+  <trd lng="mk">&c_n;&c_o;&c_s;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD15;&#xD4A;&#xD23;&#xD4D;&#xD1F;&#xD41;&#xD2A;&#xD4B;&#xD15;&#xD41;&#xD02;</trd>
+  <trd lng="mn">&c_a;&c_v;&c_ch; &c_ja;&c_v;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x935;&#x93E;&#x939;&#x942;&#x928;</trd>
+  <trd lng="ms">menjalankan</trd>
+  <trd lng="mt">twettaq</trd>
+  <trd lng="my">&#x101E;&#x101A;&#x103A;</trd>
+  <trd lng="ne">&#x92A;&#x942;&#x930;&#x93E;</trd>
   <trdgrp lng="nl">
     <trd>dragen</trd>,
     <trd>brengen</trd>
   </trdgrp>
+  <trd lng="ny">kunyamula</trd>
+  <trd lng="pa">&#xA32;&#xA48;</trd>
   <trd lng="pl">nosi&cacute;</trd>
+  <trd lng="ps">&a_t;&a_r;&a_s;&a_r;&a_h; &f_k;&#x693;&a_y;</trd>
   <trdgrp lng="pt">
     <trd>carregar</trd>,
     <trd>levar</trd>
   </trdgrp>
+  <trd lng="rw">gutwara</trd>
+  <trd lng="sd">&f_k;&#x6BB;&#x6BB;</trd>
+  <trd lng="si">&#xDBB;&#xDD0;&#xD9C;&#xDD9;&#xDB1;</trd>
   <trdgrp lng="sk">
     <trd>nies&tcaron;</trd>,
     <trd>nosi&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">opravljanje</trd>
+  <trd lng="sm">ave</trd>
+  <trd lng="sn">takura</trd>
+  <trd lng="so">qaado</trd>
+  <trd lng="sq">kryer</trd>
+  <trd lng="st">phetha</trd>
+  <trd lng="su">ngabawa</trd>
   <trd lng="sv">b&auml;ra</trd>
+  <trd lng="sw">kubeba</trd>
+  <trd lng="ta">&#xB8E;&#xB9F;&#xBC1;&#xBA4;&#xBCD;&#xBA4;&#xBC1;</trd>
+  <trd lng="te">&#xC24;&#xC40;&#xC38;&#xC41;&#xC15;&#xC41;</trd>
+  <trd lng="tg">&c_a;&c_n;&#x4B7;&c_o;&c_m;</trd>
+  <trd lng="th">&#xE1E;&#xE01;&#xE1E;&#xE32;</trd>
+  <trd lng="tl">nagtitinda</trd>
   <trd lng="tr">ta&scedil;&inodot;mak</trd>
+  <trd lng="tt">&c_a;&c_l;&c_y;&c_p; &c_b;&c_a;&c_r;&c_u;</trd>
+  <trd lng="uk">&c_n;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_l;&#x6D2; &a_j;&a_A;&a_n;&#x6D2; &f_k;&#x6D2;</trd>
+  <trd lng="uz">bajarish</trd>
+  <trd lng="vi">th&#x1EF1;c hi&#x1EC7;n</trd>
+  <trd lng="xh">ukwenza</trd>
+  <trd lng="yi">&pe;&yod;&resh;&fnun;</trd>
+  <trd lng="yo">gbe</trd>
+  <trd lng="zu">athwale</trd>
 </drv>
 
 <drv mrk="port.0ajxo">
@@ -296,7 +376,7 @@
       </ekz>
       <ekz>
         li havis grandegan <tld/>a&jcirc;on sur la brako
-        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep
         fratoj</vrk>, <lok>1947</lok></fnt>.
       </ekz>
     </dif>
@@ -305,7 +385,17 @@
       <trd>Packen</trd>
     </trdgrp>
   </snc>
+  <trdgrp lng="en">
+    <trd>burden</trd>,
+    <trd>load</trd>
+  </trdgrp>
   <trd lng="fr">charge<klr> (port&eacute;e)</klr></trd>
+  <trdgrp lng="ja">
+    <trd>&#x643A;&#x884C;&#x54C1;  [<ind>&#x3051;&#x3044;&#x3053;&#x3046;&#x3057;&#x306A;</ind>]</trd>,
+    <trd>&#x643A;&#x5E2F;&#x54C1;  [<ind>&#x3051;&#x3044;&#x305F;&#x3044;&#x3072;&#x3093;</ind>]</trd>,
+    <trd>&#x8377;&#x7269;  [<ind>&#x306B;&#x3082;&#x3064;</ind>]</trd>
+  </trdgrp>
+  <trd lng="uk">&c_n;&c_o;&c_sh;&c_a;</trd>
 </drv>
 
 <drv mrk="port.0igxi">
@@ -325,18 +415,18 @@
         </fnt>;
       </ekz>
       <ekz>
-        glaseto <tld/>i&gcirc;is sur la akvo, por ie <klr>[&#8230;]</klr> esti alpelita al la bordo
+        glaseto <tld/>i&gcirc;is sur la akvo, por ie <klr>[&#x2026;]</klr> esti alpelita al la bordo
         <fnt>
           <bib>Fab4</bib>
           <lok>Anneto</lok>
         </fnt>;
       </ekz>
       <ekz>
-        &scirc;i eligis trumpetan <klr>[&#8230;]</klr> sonon, kiu klarione <tld/>i&gcirc;is trans la herbejon
+        &scirc;i eligis trumpetan <klr>[&#x2026;]</klr> sonon, kiu klarione <tld/>i&gcirc;is trans la herbejon
         <fnt>
           <bib>Monato</bib>
           <aut>Angela Tellier</aut>
-          <vrk><url ref="https://www.monato.be/2004/008306.html">La&ubreve;proverbaj
+          <vrk><url ref="&Monato;/2004/008306.html">La&ubreve;proverbaj
            fabeloj</url></vrk>
         </fnt>;
       </ekz>
@@ -355,11 +445,16 @@
     <trd>schweben</trd>,
     <trd>getragen werden</trd>
   </trdgrp>
+  <trd lng="en">get carried</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;river</trd>,
     <trd>flotter</trd>
   </trdgrp>
-  <trd lng="hu">sodr&oacute;dik</trd>  
+  <trd lng="hu">sodr&oacute;dik</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6F02;&#x3046;  [<ind>&#x305F;&#x3060;&#x3088;&#x3046;</ind>]</trd>,
+    <trd>&#x6D6E;&#x304F;  [<ind>&#x3046;&#x304F;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">zweven</trd>
   <trd lng="pl">unosi&cacute; si&eogonek;</trd>
   <trdgrp lng="ru">
@@ -374,7 +469,7 @@
     <dif>
       Aparato, rimedo por <tld/>i objektojn a&ubreve; personojn:
       <ekz>
-        prenu &ccirc;iujn objektojn <klr>[&#8230;]</klr> kaj metu sur <tld/>ilon 
+        prenu &ccirc;iujn objektojn <klr>[&#x2026;]</klr> kaj metu sur <tld/>ilon
         <fnt>
           <bib>MT</bib>
           <lok>Nombroj 4:12</lok>
@@ -393,18 +488,19 @@
         <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 25a</lok></fnt>;
       </ekz>
       <ekz>
-        diskoj rapidas, ofte je 7200 turnoj minute, kaj povas fari tre malpla&ccirc;an 
+        diskoj rapidas, ofte je 7200 turnoj minute, kaj povas fari tre malpla&ccirc;an
         bruon je frekvenco &gcirc;ena al homa orelo, novaj motoroj kun likva&jcirc;obazitaj
         <tld/>iloj estas pli kvietaj
         <fnt>
           <bib>Monato</bib>
           <aut>Franck Arnaud</aut>
-          <vrk><url ref="https://www.monato.be/2004/008261.html">Kvietigu
+          <vrk><url ref="&Monato;/2004/008261.html">Kvietigu
            tiun komputilon!</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
-        la blazon&scirc;ildo, &ccirc;efa <tld/>ilo de la blazono, fontas rekte el la &scirc;ildoj de la mezepokaj batalantoj 
+        la blazon&scirc;ildo, &ccirc;efa <tld/>ilo de la blazono, fontas rekte el la &scirc;ildoj de la mezepokaj
+        batalantoj
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=20874">Blazon&scirc;ildo</url></lok>
@@ -419,7 +515,8 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        la franca lingvo <klr>[&#8230;]</klr> estis rigardata kiel supera <tld/>ilo kaj esprimo de la e&ubreve;ropa kulturo
+        la franca lingvo <klr>[&#x2026;]</klr> estis rigardata kiel supera <tld/>ilo kaj esprimo de la
+        e&ubreve;ropa kulturo
         <fnt>
           <bib>Monato</bib>
           <aut>Garbhan MacAoidh</aut>
@@ -431,6 +528,12 @@
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_ib;&c_l;&c_k;&c_ib;</trd>
   <trd lng="cs">nosi&ccaron; <klr>(za&rcaron;&iacute;zen&iacute;)</klr></trd>
+  <trdgrp lng="en">
+    <trd>palanquin</trd>,
+    <trd>litter</trd>,
+    <trd>stretcher</trd>,
+    <trd>carrier</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>andas</trd>,
     <trd>utensilio para transportar</trd>
@@ -444,6 +547,11 @@
     <trd>hordsz&eacute;k</trd>,
     <trd>gyaloghint&oacute;</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x904B;&#x642C;&#x5177;  [<ind>&#x3046;&#x3093;&#x3071;&#x3093;&#x3050;</ind>]</trd>,
+    <trd>&#x62C5;&#x67B6;  [<ind>&#x305F;&#x3093;&#x304B;</ind>]</trd>,
+    <trd>&#x652F;&#x6301;&#x53F0;  [<ind>&#x3057;&#x3058;&#x3060;&#x3044;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="nl">
     <trd>berrie</trd>,
     <trd>draagberrie</trd>,
@@ -452,6 +560,7 @@
   <trd lng="pl">nosid&lstroke;o</trd>
   <trd lng="ru">&c_n;&c_o;&c_s;&c_i;&c_l;&c_k;&c_i;</trd>
   <trd lng="sk">nosidlo</trd>
+  <trd lng="uk">&c_n;&c_o;&c_s;&c_i;&c_l;&c_k;&c_i;</trd>
 </drv>
 
 <drv mrk="port.0isto">
@@ -487,7 +596,8 @@
         <trd lng="de">Schildknappe</trd>
       </ekz>
       <ekz>
-        la <tld/>istoj portis de la &scirc;tuparo kaj metis sur la &scirc;ar&gcirc;veturilon grandan kabinetan skribtablon
+        la <tld/>istoj portis de la &scirc;tuparo kaj metis sur la &scirc;ar&gcirc;veturilon grandan kabinetan
+        skribtablon
         <fnt>
           <bib>Marta</bib>
         </fnt>;
@@ -504,7 +614,8 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        ho, <ind>malbona&jcirc;o<tld/>isto</ind>, al mi eldirinta neniam favora&jcirc;on, vi &gcirc;ojas nur anta&ubreve;diri mizerojn
+        ho, <ind>malbona&jcirc;o<tld/>isto</ind>, al mi eldirinta neniam favora&jcirc;on, vi &gcirc;ojas nur anta&ubreve;diri
+        mizerojn
         <fnt>
           <bib>FK</bib>
         </fnt>.
@@ -520,6 +631,7 @@
   <trdgrp lng="de">
     <trd>Tr&auml;ger</trd>
   </trdgrp>
+  <trd lng="en">porter</trd>
   <trd lng="es">porteador</trd>
   <trdgrp lng="fr">
     <trd>porteur</trd>
@@ -527,6 +639,10 @@
   <trdgrp lng="hu">
     <trd>hord&aacute;r</trd>,
     <trd>sz&aacute;ll&iacute;t&oacute;munk&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x30DD;&#x30FC;&#x30BF;&#x30FC;</trd>,
+    <trd>&#x8377;&#x7269;&#x904B;&#x642C;&#x4EBA;  [<ind>&#x306B;&#x3082;&#x3064;&#x3046;&#x3093;&#x3071;&#x3093;&#x3058;&#x3093;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>kruier</trd>,
@@ -538,16 +654,20 @@
   <trd lng="sk">nosi&ccaron;</trd>
   <trd lng="sv">b&auml;rare</trd>
   <trd lng="tr">ta&scedil;&inodot;y&inodot;c&inodot;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_n;&c_o;&c_s;&c_i;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_n;&c_o;&c_s;&c_ib;&c_j;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="port.al0i">
   <kap><ofc>*</ofc>al<tld/>i <fnt><bib>F</bib>, <lok>Universala Vortaro,
-  <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5166">al'port'</url></lok></fnt></kap>
+  <url ref="&AdE;/fundamento/universala_vortaro.html#av-5166">al'port'</url></lok></fnt></kap>
   <gra><vspec>tr</vspec></gra>
   <snc mrk="port.al0i.translokigi">
     <dif>
       Preni kun si kaj iri por demeti en alian lokon;
-      <ref tip="sin" cel="port.0i.translokigi"><tld/>i<sncref/></ref>: 
+      <ref tip="sin" cel="port.0i.translokigi"><tld/>i<sncref/></ref>:
       <ekz>
         &ccirc;u oni jam al<tld/>is la leterojn?
       </ekz>
@@ -597,7 +717,7 @@
           <bib>Far2</bib>
           <lok>&Ccirc;apitro XI</lok>
         </fnt>,
-        la tempo 
+        la tempo
         <fnt>
           <bib>Far2</bib>
           <lok>&Ccirc;apitro XII</lok>
@@ -685,32 +805,114 @@
 	  <trd>acarrear</trd>,
 	  <trd>provocar</trd>
     </trdgrp>
-    <trd lng="hu">hoz <klr tip="ind">(&aacute;tv.)</klr></trd>    
+    <trd lng="hu">hoz <klr tip="ind">(&aacute;tv.)</klr></trd>
     <trd lng="sv">f&ouml;ra med sig</trd>
   </snc>
+  <trd lng="af">bring</trd>
+  <trd lng="am">&#x12A0;&#x121D;&#x1323;</trd>
+  <trd lng="ar">&a_j;&a_l;&a_b;</trd>
+  <trd lng="az">g&#x259;tirm&#x259;k</trd>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_n;&c_o;&c_s;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
+  <trd lng="bn">&#x986;&#x9A8;&#x9BE;</trd>
+  <trd lng="bo">&t_kha;&t_yata;&t_drengbu;&t_ra; &t_kha;&t_yata;&t_drengbu;&t_ra;
+  &t_-a;&t_kha;&t_yata;&t_drengbu;&t_ra; &t_kha;&t_yata;&t_drengbu;&t_ra;&t_tsheg;</trd>
+  <trd lng="bs">donijeti</trd>
+  <trd lng="co">purt&agrave;</trd>
   <trd lng="cs">p&rcaron;in&eacute;st</trd>
+  <trd lng="cy">dod &acirc;</trd>
+  <trd lng="da">bringe</trd>
+  <trdgrp lng="en">
+    <trd>bring</trd>,
+    <trd>fetch</trd>,
+    <trd>retrieve</trd>
+  </trdgrp>
+  <trd lng="et">tuua</trd>
+  <trd lng="eu">ekarri</trd>
   <trdgrp lng="fr">
     <trd>apporter</trd>
   </trdgrp>
+  <trd lng="fy">bringe</trd>
+  <trd lng="ga">thabhairt</trd>
+  <trd lng="gd">thoirt</trd>
+  <trd lng="gl">traer</trd>
+  <trd lng="gu">&#xAB2;&#xABE;&#xAB5;&#xAB5;&#xABE;</trd>
+  <trd lng="ha">kawo</trd>
+  <trd lng="hi">&#x932;&#x93E;&#x928;&#x93E;</trd>
+  <trd lng="hmn">coj</trd>
+  <trd lng="hr">donijeti</trd>
+  <trd lng="ht">pote</trd>
+  <trd lng="hy">&#x562;&#x565;&#x580;&#x565;&#x56C;</trd>
+  <trd lng="ig">eme</trd>
+  <trd lng="is">koma</trd>
+  <trd lng="ja">&#x6301;&#x3063;&#x3066;&#x6765;&#x308B; [<ind>&#x3082;&#x3063;&#x3066;&#x304F;&#x308B;</ind>]</trd>
+  <trd lng="jv">nggawa</trd>
+  <trd lng="ka">&#x10DB;&#x10DD;&#x10E3;&#x10E2;&#x10D0;&#x10DC;&#x10E1;</trd>
+  <trd lng="kk">&#x4D9;&c_k;&c_je;&c_l;&c_u;</trd>
+  <trd lng="km">&#x1793;&#x17B6;&#x17C6;&#x1799;&#x1780;</trd>
+  <trd lng="kn">&#xCA4;&#xCB0;&#xCB2;&#xCC1;</trd>
+  <trd lng="ko">&#xAC00;&#xC838;</trd>
+  <trd lng="ku">an&icirc;n</trd>
+  <trd lng="ky">&c_a;&c_l;&c_y;&c_p; &c_k;&c_je;&c_l;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">adducet</trd>
+  <trd lng="lo">&#xEC0;&#xEAD;&#xEBB;&#xEB2;&#xEA1;&#xEB2;&#xEC3;&#xEAB;&#xEC9;</trd>
+  <trd lng="lt">atne&scaron;ti</trd>
+  <trd lng="lv">celt</trd>
+  <trd lng="mg">mitondra</trd>
+  <trd lng="mi">kawea</trd>
+  <trd lng="mk">&c_d;&c_o;&c_n;&c_je;&c_s;&c_je;</trd>
+  <trd lng="ml">&#xD15;&#xD4A;&#xD23;&#xD4D;&#xD1F;&#xD41;&#xD35;&#xD30;&#xD3F;&#xD15;</trd>
+  <trd lng="mn">&c_a;&c_v;&c_ch;&c_r;&c_a;&c_h;</trd>
+  <trd lng="mr">&#x906;&#x923;&#x923;&#x947;</trd>
+  <trd lng="ms">membawa</trd>
+  <trd lng="mt">i&#x121;ibu</trd>
+  <trd lng="my">&#x101A;&#x1030;&#x101C;&#x102C;</trd>
+  <trd lng="ne">&#x932;&#x94D;&#x92F;&#x93E;&#x909;&#x928;</trd>
   <trdgrp lng="nl">
     <trd>brengen</trd>,
     <trd>aandragen</trd>,
     <trd>aanbrengen</trd>
   </trdgrp>
+  <trd lng="ny">kubweretsa</trd>
+  <trd lng="pa">&#xA32;&#xA3F;&#xA06;&#xA09;&#xA23;</trd>
   <trd lng="pl">zanosi&cacute;</trd>
+  <trd lng="ps">&a_r;&a_A;&a_w;&a_l;&a_y;</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_r;&c_i;&c_n;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="rw">kuzana</trd>
+  <trd lng="sd">&a_A_madda;&#x6BB;&a_y;&a_w;</trd>
+  <trd lng="si">&#xD9C;&#xDD9;&#xDB1; &#xD92;&#xDB8;&#xDA7;</trd>
   <trdgrp lng="sk">
     <trd>donies&tcaron;</trd>,
     <trd>prinies&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">prina&scaron;ajo</trd>
+  <trd lng="sm">aumai</trd>
+  <trd lng="sn">kuunza</trd>
+  <trd lng="so">keeno</trd>
+  <trd lng="sq">sjell&euml;</trd>
+  <trd lng="st">tlisa</trd>
+  <trd lng="su">ngabawa</trd>
+  <trd lng="sw">kuleta</trd>
+  <trd lng="ta">&#xB95;&#xBCA;&#xBA3;&#xBCD;&#xB9F;&#xBC1; &#xBB5;&#xBBE;</trd>
+  <trd lng="te">&#xC24;&#xC40;&#xC38;&#xC41;&#xC15;&#xC41;&#xC28;&#xC3F;</trd>
+  <trd lng="tg">&c_m;&c_je;&c_o;&c_v;&c_a;&c_r;&c_a;&c_d;</trd>
+  <trd lng="th">&#xE19;&#xE33;&#xE21;&#xE32;&#xE0B;&#xE36;&#xE48;&#xE07;</trd>
+  <trd lng="tl">dalhin</trd>
   <trd lng="tr">getirmek</trd>
+  <trd lng="tt">&c_a;&c_l;&c_y;&c_p; &c_k;&c_i;&c_l;</trd>
+  <trd lng="uk">&c_p;&c_r;&c_i;&c_n;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_l;&a_A;&a_n;&#x6D2; &f_k;&#x6D2;</trd>
+  <trd lng="uz">olib</trd>
+  <trd lng="vi">mang l&#x1EA1;i</trd>
+  <trd lng="xh">zizisa</trd>
+  <trd lng="yi">&bet;&resh;&ayin;&nun;&gimel;&ayin;&fnun;</trd>
+  <trd lng="yo">mu</trd>
+  <trd lng="zu">ukuletha</trd>
 </drv>
 
 <drv mrk="port.cxirkaux0i">
@@ -737,6 +939,7 @@
       <trd>herumtragen</trd>
     </trdgrp>
   </snc>
+  <trd lng="en">carry around</trd>
   <trdgrp lng="hu">
     <trd>k&ouml;rbevisz</trd>,
     <trd>k&ouml;rbehordoz</trd>
@@ -763,7 +966,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        dis<tld/>istoj kaj komercistoj alportadis <klr>[&#8230;]</klr> oron kaj ar&gcirc;enton
+        dis<tld/>istoj kaj komercistoj alportadis <klr>[&#x2026;]</klr> oron kaj ar&gcirc;enton
         <fnt>
           <bib>MT</bib>
           <lok>II. Kroniko 9:14</lok>
@@ -777,7 +980,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        la vento <klr>[&#8230;]</klr> ekblovis pli forte kaj dis<tld/>is 
+        la vento <klr>[&#x2026;]</klr> ekblovis pli forte kaj dis<tld/>is
         en la du &gcirc;ardenoj ondon de muzikaj tonoj
         <fnt>
           <bib>IK</bib>
@@ -795,6 +998,7 @@
     <trd>verteilen</trd>,
     <trd>austragen</trd>
   </trdgrp>
+  <trd lng="en">deliver</trd>
   <trdgrp lng="es">
     <trd>esparcir</trd>,
     <trd>diseminar</trd>,
@@ -808,6 +1012,10 @@
     <trd>sz&eacute;tvisz</trd>,
     <trd>sz&eacute;thord</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x914D;&#x308B;  [<ind>&#x304F;&#x3070;&#x308B;</ind>]</trd>,
+    <trd>&#x3070;&#x3089;&#x307E;&#x304F;</trd>
+  </trdgrp>
   <trd lng="nl">rondbrengen</trd>
   <trd lng="pl">roznosi&cacute;</trd>
   <trdgrp lng="ru">
@@ -819,12 +1027,13 @@
     <trd>yay&inodot;nlamak</trd>,
     <trd>da&gbreve;&inodot;tmak</trd>
   </trdgrp>
+  <trd lng="uk">&c_r;&c_o;&c_z;&c_n;&c_o;&c_s;&c_i;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="port.el0i">
-  <kap><ofc>*</ofc>el<tld/>i 
-    <fnt><bib>F</bib>, 
-      <lok>Universala Vortaro, <url ref="http://www.akademio-de-esperanto.org/fundamento/universala_vortaro.html#av-5167">el'port'</url></lok>
+  <kap><ofc>*</ofc>el<tld/>i
+    <fnt><bib>F</bib>,
+      <lok>Universala Vortaro, <url ref="&AdE;/fundamento/universala_vortaro.html#av-5167">el'port'</url></lok>
     </fnt>
   </kap>
   <gra><vspec>tr</vspec></gra>
@@ -853,7 +1062,7 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        ni <klr>[&#8230;]</klr> el<tld/>u el la urbo la plej bonan rememoron
+        ni <klr>[&#x2026;]</klr> el<tld/>u el la urbo la plej bonan rememoron
         <fnt>
           <bib>Paroloj</bib>
           <vrk>Parolado en la Guildhall (Londono) en la 21a de a&ubreve;gusto 1907</vrk>
@@ -902,7 +1111,7 @@
         ni vane el<tld/>is tiujn terurajn oferojn
         <fnt>
           <aut>L. L. Zamenhof</aut>
-          <vrk><url ref="http://literaturo.org/HARLOW-Don/Esperanto/Literaturo/Revuoj/np/np5606/milito.html">Post
+          <vrk><url ref="&DonH;Revuoj/np/np5606/milito.html">Post
           la granda milito</url></vrk>
         </fnt>.
       </ekz>
@@ -918,20 +1127,87 @@
     </trdgrp>
     <trd lng="nl">uithouden</trd>
   </snc>
+  <trd lng="af">dra</trd>
+  <trd lng="am">&#x12F5;&#x1265;</trd>
+  <trd lng="ar">&a_t;&a_H;&a_m;&a_l;</trd>
+  <trd lng="az">da&scedil;&inodot;y&inodot;rlar</trd>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_n;&c_o;&c_s;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
+  <trd lng="bn">&#x9AD;&#x9BE;&#x9B2;&#x9C1;&#x995;</trd>
+  <trd lng="co">ceppu</trd>
   <trd lng="cs">vyn&eacute;st</trd>
+  <trd lng="cy">arth</trd>
+  <trdgrp lng="en">
+    <trd>bear</trd>,
+    <trd>bring out</trd>,
+    <trd>export</trd>,
+    <trd>put up with</trd>,
+    <trd>stand</trd>,
+    <trd>afford</trd>
+  </trdgrp>
+  <trd lng="gd">gi&ugrave;lainidh</trd>
+  <trd lng="gl">soportar</trd>
+  <trd lng="gu">&#xAB8;&#xAB9;&#xAA8;</trd>
+  <trd lng="ha">kai</trd>
+  <trd lng="hi">&#x92D;&#x93E;&#x932;&#x942;</trd>
+  <trd lng="hmn">ua tim</trd>
+  <trd lng="ht">pote</trd>
+  <trd lng="hy">&#x56F;&#x580;&#x565;&#x56C;</trd>
+  <trd lng="ig">agba</trd>
+  <trd lng="is">bera</trd>
+  <trdgrp lng="ja">
+    <trd>&#x6301;&#x3061;&#x51FA;&#x3059;  [<ind>&#x3082;&#x3061;&#x3060;&#x3059;</ind>]</trd>,
+    <trd>&#x8010;&#x3048;&#x629C;&#x304F;  [<ind>&#x305F;&#x3048;&#x306C;&#x304F;</ind>]</trd>
+  </trdgrp>
+  <trd lng="ka">&#x10D3;&#x10D0;&#x10D7;&#x10D5;&#x10D8;</trd>
+  <trd lng="km">&#x179F;&#x17BC;&#x1798;&#x1790;&#x17D2;&#x179B;&#x17C2;&#x1784;</trd>
+  <trd lng="kn">&#xC95;&#xCB0;&#xCA1;&#xCBF;</trd>
+  <trd lng="ky">&c_k;&#x4E9;&c_t;&#x4E9;&c_r;&#x4AF;&#x4AF;</trd>
+  <trd lng="lat">ferre</trd>
+  <trd lng="lo">&#xEAE;&#xEB1;&#xE9A;&#xE9C;&#xEB4;&#xE94;&#xE8A;&#xEAD;&#xE9A;</trd>
+  <trd lng="lt">b&#x163B;ti</trd>
+  <trd lng="lv">nest</trd>
+  <trd lng="mg">mijoro ho</trd>
+  <trd lng="mi">e mau</trd>
+  <trd lng="mk">&c_n;&c_o;&c_s;&c_a;&c_t;</trd>
+  <trd lng="ml">&#xD15;&#xD30;&#xD1F;&#xD3F;</trd>
+  <trd lng="mn">&#x4AF;&#x4AF;&c_r;&c_e;&c_h;</trd>
+  <trd lng="mr">&#x938;&#x939;&#x928;</trd>
+  <trd lng="my">&#x101D;&#x1000;&#x103A;&#x101D;&#x1036;</trd>
+  <trd lng="ny">kudzachitira</trd>
+  <trd lng="pa">&#xA30;&#xA71;&#xA16;&#xA23;&#xA3E;</trd>
   <trd lng="pl">wynosi&cacute;</trd>
+  <trd lng="ps">&#x6AB;&a_w;&a_A;&a_h;&a_y;</trd>
   <trdgrp lng="ru">
     <trd>&c_v;&c_y;&c_n;&c_je;&c_s;&c_t;&c_i;</trd>,
     <trd>&c_v;&c_y;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trd lng="rw">idubu</trd>
+  <trd lng="sd">&f_k;&#x6BB;&a_n;&a_d;&a_w;</trd>
   <trdgrp lng="sk">
     <trd>vynies&tcaron;</trd>,
     <trd>vyn&aacute;&scaron;a&tcaron;</trd>
   </trdgrp>
+  <trd lng="sl">nosi</trd>
+  <trd lng="sm">tuuina atu</trd>
+  <trd lng="sn">bereka</trd>
+  <trd lng="so">dhali</trd>
+  <trd lng="sq">mbajn&euml;</trd>
+  <trd lng="st">beha</trd>
+  <trd lng="su">biruang</trd>
+  <trd lng="sw">kubeba</trd>
+  <trd lng="ta">&#xBA4;&#xBBE;&#xB99;&#xBCD;&#xB95;</trd>
+  <trd lng="te">&#xC2D;&#xC30;&#xC3F;&#xC02;&#xC1A;&#xC32;&#xC47;&#xC26;&#xC28;&#xC3F;</trd>
+  <trd lng="tl">madala</trd>
+  <trd lng="uk">&c_n;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trd lng="ur">&a_b;&a_r;&a_d;&a_A;&a_sh;&a_t;</trd>
+  <trd lng="uz">qo&#x2019;pol</trd>
+  <trd lng="xh">kuthwala</trd>
+  <trd lng="yi">&bet;&ayin;&resh;</trd>
+  <trd lng="yo">j&#x1EB9;ri</trd>
+  <trd lng="zu">athwale</trd>
 </drv>
 
 <drv mrk="port.en0i">
@@ -952,7 +1228,7 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        en<tld/>i <klr>[&#8230;]</klr> konfuzon en nian mezon
+        en<tld/>i <klr>[&#x2026;]</klr> konfuzon en nian mezon
         <fnt>
           <bib>Paroloj</bib>
           <vrk>Parolado anta&ubreve; la Kvara Kongreso Esperantista en
@@ -995,6 +1271,11 @@
     <trd>hineinbringen</trd>,
     <trd>hereinbringen</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>carry in</trd>,
+    <trd>bring in</trd>,
+    <trd>import</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>emporter<klr> (&agrave; l'int&eacute;rieur)</klr></trd>
   </trdgrp>
@@ -1002,6 +1283,10 @@
     <trd>bevisz</trd>,
     <trd>behoz</trd>,
     <trd>behord</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6301;&#x3061;&#x8FBC;&#x3080;  [<ind>&#x3082;&#x3061;&#x3053;&#x3080;</ind>]</trd>,
+    <trd>&#x904B;&#x3073;&#x8FBC;&#x3080;  [<ind>&#x306F;&#x3053;&#x3073;&#x3053;&#x3080;</ind>]</trd>
   </trdgrp>
   <trd lng="nl">binnen <ind>brengen</ind></trd>
   <trd lng="pl">wnosi&cacute;</trd>
@@ -1011,6 +1296,7 @@
   </trdgrp>
   <trd lng="sk">vnies&tcaron;</trd>
   <trd lng="tr">ithal etmek</trd>
+  <trd lng="uk">&c_v;&c_n;&c_o;&c_s;&c_i;&c_t;&c_i;</trd>
 </drv>
 
 <drv mrk="port.for0i">
@@ -1062,6 +1348,11 @@
     <trd>wegbringen</trd>,
     <trd>wegschaffen</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>bring away</trd>,
+    <trd>carry away</trd>,
+    <trd>carry off</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>emporter</trd>,
     <trd>enlever</trd>
@@ -1070,6 +1361,10 @@
     <trd>elvisz</trd>,
     <trd>elhoz</trd>,
     <trd>elhord</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6301;&#x3061;&#x53BB;&#x308B;  [<ind>&#x3082;&#x3061;&#x3055;&#x308B;</ind>]</trd>,
+    <trd>&#x904B;&#x3073;&#x53BB;&#x308B;  [<ind>&#x306F;&#x3053;&#x3073;&#x3055;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>wegbrengen</trd>,
@@ -1085,6 +1380,10 @@
   </trdgrp>
   <trd lng="sk">odnies&tcaron;</trd>
   <trd lng="tr">g&ouml;t&uuml;rmek</trd>
+  <trdgrp lng="uk">
+    <trd>&c_v;&c_i;&c_n;&c_o;&c_s;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_b;&c_i;&c_r;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="port.kun0i">
@@ -1148,7 +1447,7 @@
     <dif>
       <tld lit="P"/>i kunen, kunigi, amasigi plurajn objektojn:
       <ekz>
-        Arne kaj la knabinoj <klr>[&#8230;]</klr> kun<tld/>is lignon al la
+        Arne kaj la knabinoj <klr>[&#x2026;]</klr> kun<tld/>is lignon al la
         &scirc;tona forneto
         <fnt><bib>InfanTorent2</bib>, <lok>dua parto, 1</lok></fnt>;
       </ekz>
@@ -1162,7 +1461,7 @@
       </ekz>
     </dif>
     <rim>
-      Oni apena&ubreve; distingas tian signifon de la anta&ubreve;a senco &leftquot;<tld/>i kun si&rightquot;. 
+      Oni apena&ubreve; distingas tian signifon de la anta&ubreve;a senco &leftquot;<tld/>i kun si&rightquot;.
       Oni prefere do esprimu tion kiel &leftquot;porti kunen...&rightquot;.
       <aut>WD</aut>
     </rim>
@@ -1177,7 +1476,7 @@
     <trdgrp lng="fr">
       <trd>collecter</trd>
     </trdgrp>
-    <trd lng="hu">&ouml;sszehord</trd>    
+    <trd lng="hu">&ouml;sszehord</trd>
     <trdgrp lng="nl">
       <trd>bijeenbrengen</trd>
     </trdgrp>
@@ -1217,11 +1516,27 @@
     <trd lng="ru">&c_n;&c_je;&c_s;&c_t;&c_i; &c_v;&c_m;&c_je;&c_s;&c_t;&c_je; <klr tip="amb">(&c_s;
     &c_k;&c_je;&c_m;-&c_l;.)</klr></trd>
   </snc>
+  <trd lng="bo">&t_-a;&t_kha;&t_rata;&t_gigu;&t_ra;&t_tsheg;</trd>
   <trd lng="cs">br&aacute;t s sebou</trd>
+  <trdgrp lng="en">
+    <trd>bring along</trd>,
+    <trd>take along</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x6301;&#x53C2;&#x3059;&#x308B;  [<ind>&#x3058;&#x3055;&#x3093;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x643A;&#x5E2F;&#x3059;&#x308B;  [<ind>&#x3051;&#x3044;&#x305F;&#x3044;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x307E;&#x3068;&#x3081;&#x3066;&#x904B;&#x3076;  [<ind>&#x307E;&#x3068;&#x3081;&#x3066;&#x306F;&#x3053;&#x3076;</ind>]</trd>,
+    <trd>&#x3044;&#x3063;&#x3057;&#x3087;&#x306B;&#x904B;&#x3076;  [<ind>&#x3044;&#x3063;&#x3057;&#x3087;&#x306B;&#x306F;&#x3053;&#x3076;</ind>]</trd>
+  </trdgrp>
   <trdgrp lng="sk">
     <trd>nies&tcaron; so sebou</trd>,
     <trd>pozn&aacute;&scaron;a&tcaron;</trd>,
     <trd>znies&tcaron; dovedna</trd>
+  </trdgrp>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_h;&c_o;&c_p;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_h;&c_o;&c_p;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_n;&c_o;&c_s;&c_i;&c_t;&c_i; &c_z;&c_ib; &c_s;&c_o;&c_b;&c_o;&c_ju;</trd>
   </trdgrp>
 </drv>
 
@@ -1239,7 +1554,7 @@
         </fnt>;
       </ekz>
       <ekz>
-        siajn ru&gcirc;ajn &scirc;uojn <klr>[&scirc;i]</klr> &jcirc;etis amba&ubreve; en la riveron, sed ili 
+        siajn ru&gcirc;ajn &scirc;uojn <klr>[&scirc;i]</klr> &jcirc;etis amba&ubreve; en la riveron, sed ili
         falis tute apud la bordo, kaj la malgrandaj ondoj re<tld/>is ilin returne al &scirc;i
         <fnt>
           <bib>Fab2</bib>
@@ -1260,6 +1575,7 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib; &c_n;&c_a;&c_z;&c_a;&c_d;</trd>
   <trd lng="de">zur&uuml;ckbringen</trd>
+  <trd lng="en">bring back</trd>
   <trdgrp lng="es">
     <trd>retornar<klr tip="ind"> (devolver)</klr></trd>,
 	<trd>devolver</trd>
@@ -1271,9 +1587,18 @@
     <trd>visszahoz</trd>,
     <trd>visszavisz</trd>
   </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x518D;&#x3073;&#x6301;&#x3063;&#x3066;&#x6765;&#x308B;  [<ind>&#x3075;&#x305F;&#x305F;&#x3073;&#x3082;&#x3063;&#x3066;&#x304F;&#x308B;</ind>]</trd>,
+    <trd>&#x8FD4;&#x3059;  [<ind>&#x304B;&#x3048;&#x3059;</ind>]</trd>,
+    <trd>&#x6301;&#x3061;&#x5E30;&#x308B;  [<ind>&#x3082;&#x3061;&#x304B;&#x3048;&#x308B;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">terugbrengen</trd>
   <trd lng="pl">przynosi&cacute; z powrotem</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_n;&c_je;&c_s;&c_t;&c_i; &c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_o;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_r;&c_i;&c_n;&c_o;&c_s;&c_i;&c_t;&c_i; &c_n;&c_a;&c_z;&c_a;&c_d;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_je;&c_r;&c_t;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="port.sub0i">
@@ -1292,7 +1617,7 @@
       </ekz>
       <ekz>
         <uzo tip="stl">FIG</uzo>
-        sub<tld/>i tiun argumenton 
+        sub<tld/>i tiun argumenton
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=539093">Unuflanka
@@ -1307,6 +1632,10 @@
     <trd>unterst&uuml;tzen</trd>,
     <trd>halten</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>prop up</trd>,
+    <trd>support</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>soutenir<klr> (physiquement)</klr></trd>,
     <trd>supporter<klr> (physiquement)</klr></trd>
@@ -1315,6 +1644,7 @@
     <trd>al&aacute;t&aacute;maszt</trd>,
     <trd>hordoz <klr tip="amb">(terhel&eacute;st)</klr></trd>
   </trdgrp>
+  <trd lng="ja">&#x652F;&#x3048;&#x308B;  [<ind>&#x3064;&#x304B;&#x3048;&#x308B;</ind>]</trd>
   <trd lng="nl">ondersteunen</trd>
   <trd lng="pl">nosi&cacute; na sobie</trd>
   <trd lng="ru">&c_p;&c_o;&c_d;&c_d;&c_je;&c_r;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr>
@@ -1325,6 +1655,7 @@
     <trd>udr&zcaron;ova&tcaron;</trd>
   </trdgrp>
   <trd lng="tr">desteklemek<klr>(fiziksel olarak)</klr></trd>
+  <trd lng="uk">&c_p;&c_ib;&c_d;&c_t;&c_r;&c_i;&c_m;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_n;&c_a; &c_s;&c_o;&c_b;&c_ib;)</trd>
 </drv>
 
 <drv mrk="port.trans0i">
@@ -1338,7 +1669,7 @@
         trans<tld/>i meblojn de domo en alian;
       </ekz>
       <ekz>
-        ili prenis dek du &scirc;tonojn <klr>[&#8230;]</klr> kaj ili trans<tld/>is ilin kun si al la nokthaltejo
+        ili prenis dek du &scirc;tonojn <klr>[&#x2026;]</klr> kaj ili trans<tld/>is ilin kun si al la nokthaltejo
         <fnt>
           <bib>MT</bib>
           <lok>Josuo 4:8</lok>
@@ -1360,7 +1691,7 @@
       </ekz>
       <ekz>
         molekuloj trans<tld/>as la
-        informojn el la DNA <klr>[&#8230;]</klr> al la ribosomoj
+        informojn el la DNA <klr>[&#x2026;]</klr> al la ribosomoj
         <fnt>
         <aut>S. Norvell</aut>,
         <vrk>&Ccirc;u anka&ubreve; genoj responsas pri melanomo?</vrk>,
@@ -1402,6 +1733,13 @@
     <trd>transportovat</trd>
   </trdgrp>
   <trd lng="de">transportieren</trd>
+  <trdgrp lng="en">
+    <trd>carry over</trd>,
+    <trd>transport</trd>,
+    <trd>carry across</trd>,
+    <trd>bring over</trd>,
+    <trd>haul</trd>
+  </trdgrp>
   <trd lng="es">transportar</trd>
   <trdgrp lng="fr">
     <trd>transporter</trd>
@@ -1410,6 +1748,10 @@
     <trd>&aacute;tvisz</trd>,
     <trd>&aacute;thoz</trd>,
     <trd>sz&aacute;ll&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="ja">
+    <trd>&#x8F38;&#x9001;&#x3059;&#x308B;  [<ind>&#x3086;&#x305D;&#x3046;&#x3059;&#x308B;</ind>]</trd>,
+    <trd>&#x904B;&#x642C;&#x3059;&#x308B;  [<ind>&#x3046;&#x3093;&#x3071;&#x3093;&#x3059;&#x308B;</ind>]</trd>
   </trdgrp>
   <trdgrp lng="nl">
     <trd>overbrengen</trd>,
@@ -1429,6 +1771,11 @@
     <trd>transportova&tcaron;</trd>
   </trdgrp>
   <trd lng="tr">bir yerden bir yere ta&scedil;&inodot;mak</trd>
+  <trdgrp lng="uk">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_n;&c_o;&c_s;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_z;&c_i;&c_t;&c_i;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="port.trans0ilo">
@@ -1452,16 +1799,18 @@
       <ekz>
         <klr>[li]</klr> konstruis &ccirc;irka&ubreve; dekkvin vetur-, glit- kaj flug-trans<tld/>ilojn
         <fnt>
+       <aut>Laimius Stra&zcaron;nickas</aut>
+          <vrk><url ref="&Monato;/2000/006877.php">Nekutimaj transportiloj</url></vrk>
           <bib>Monato</bib>
-          <aut>Laimius Straznickas</aut>
-          <vrk><url ref="http://steloj.de/esperanto/monato2/006877.html">Nekutimaj transportiloj</url></vrk>
+          <lok>2000/06, p. 21</lok>
         </fnt>;
       </ekz>
       <ekz>
         biciklo estas la dua plej dan&gcirc;era trans<tld/>ilo (post motorciklo)
         <fnt>
           <bib>Monato</bib>
-          <vrk><url ref="https://www.monato.be/2004/008262.html">Kiel solvi trafikproblemojn</url></vrk>
+          <vrk><url ref="&Monato;/2004/008262.html">Kiel solvi
+          trafikproblemojn</url></vrk>
         </fnt>;
       </ekz>
       <ekz>
@@ -1477,13 +1826,18 @@
   </snc>
   <trdgrp lng="be">
     <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;</trd>,
-    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y; &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y;
+    &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
   </trdgrp>
   <trdgrp lng="cs">
     <trd>dopravn&iacute; prost&rcaron;edek</trd>,
     <trd>dopravn&iacute; za&rcaron;&iacute;zen&iacute;</trd>,
     <trd>dopravn&iacute;k</trd>,
     <trd>transport&eacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>means of transport</trd>,
+    <trd>transportation</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>moyen de <ind>transport</ind></trd>
@@ -1492,13 +1846,19 @@
   <trd lng="pl">&sacute;rodek transportu</trd>
   <trdgrp lng="ru">
     <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;</trd>,
-    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_n;&c_o;&c_je; &c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_n;&c_o;&c_je;
+    &c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
   </trdgrp>
   <trdgrp lng="sk">
     <trd>dopravn&yacute; prostriedok</trd>,
     <trd>transport&eacute;r</trd>
   </trdgrp>
   <trd lng="tr">ula&scedil;&inodot;m ara&ccedil;lar&inodot;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_z;&c_a;&c_s;&c_ib;&c_b; &c_p;&c_je;&c_r;&c_je;&c_s;&c_u;&c_v;&c_a;&c_n;&c_n;&c_ja;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_n;&c_i;&c_j; &c_z;&c_a;&c_s;&c_ib;&c_b;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;&c_i;&c_r;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="port.trans0isto">
@@ -1515,7 +1875,7 @@
         <bib>Monato</bib>, <lok>2001:3, p. 29a</lok></fnt>;
       </ekz>
       <ekz>
-        por redukti la problemojn de la trans<tld/>istoj, la registaro decidis, 
+        por redukti la problemojn de la trans<tld/>istoj, la registaro decidis,
         ke unu litro da benzino kostas malpli ol unu dolaro
         <fnt>
           <bib>Monato</bib>
@@ -1524,7 +1884,8 @@
         </fnt>;
       </ekz>
       <ekz>
-        varias la tipo de la veturilo mendata de la klientaro: &scirc;ar&gcirc;a&ubreve;to por konstruistoj kaj ri&ccirc;aj kamparanoj, bus(et)o por trans<tld/>istoj
+        varias la tipo de la veturilo mendata de la klientaro: &scirc;ar&gcirc;a&ubreve;to por konstruistoj kaj ri&ccirc;aj
+        kamparanoj, bus(et)o por trans<tld/>istoj
         <fnt>
           <bib>Monato</bib>
           <aut>Fidilalao Henriel</aut>
@@ -1545,6 +1906,10 @@
     <trd>Transporteur</trd>,
     <trd>Spediteur</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd>carrier</trd>,
+    <trd>transporter</trd>
+  </trdgrp>
   <trd lng="es">transportista</trd>
   <trdgrp lng="fr">
     <trd>transporteur</trd>
@@ -1553,6 +1918,7 @@
     <trd>sz&aacute;ll&iacute;t&oacute;</trd>,
     <trd>fuvaroz&oacute;</trd>
   </trdgrp>
+  <trd lng="ja">&#x904B;&#x9001;&#x696D;&#x8005;  [<ind>&#x3046;&#x3093;&#x305D;&#x3046;&#x304E;&#x3087;&#x3046;&#x3057;&#x3083;</ind>]</trd>
   <trdgrp lng="pl">
     <trd>przewo&zacute;nik</trd>,
     <trd>spedytor</trd>,
@@ -1584,14 +1950,15 @@
         </fnt>;
       </ekz>
       <ekz>
-        la konstrua&jcirc;o forbrulis la 28-an de decembro 1971, tiel ke anka&ubreve; la bazo por la subteno de la aertrans<tld/>o fori&gcirc;is
+        la konstrua&jcirc;o forbrulis la 28-an de decembro 1971, tiel ke anka&ubreve; la bazo por la subteno de
+        la aertrans<tld/>o fori&gcirc;is
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=539382">Insulo Anvers</url></lok>
         </fnt>;
       </ekz>
       <ekz>
-         fervojoj estas la plej sekura transportsistemo por-mejle kaj por-hore, 
+         fervojoj estas la plej sekura transportsistemo por-mejle kaj por-hore,
         dum aertrans<tld/>o estas la plej sekura transportsistemo nur por-mejle
         <fnt>
           <bib>Viki</bib>
@@ -1600,20 +1967,33 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y;
+    &c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;</trd>,
+    <trd>&c_a;&c_v;&c_ib;&c_ja;&c_p;&c_je;&c_r;&c_a;&c_v;&c_o;&c_z;&c_k;&c_ib;</trd>
+  </trdgrp>
   <trd lng="cs">leteck&aacute; doprava</trd>
   <trdgrp lng="de">
     <trd>Lufttransport</trd>,
     <trd>Luftverkehr</trd>
   </trdgrp>
-  <trd lng="en">air transport</trd>
+  <trdgrp lng="en">
+    <trd>air transport</trd>,
+    <trd>air transport</trd>
+  </trdgrp>
   <trd lng="es">transporte a&eacute;reo</trd>
   <trd lng="fr">transport a&eacute;rien</trd>
   <trd lng="hu">l&eacute;gi <ind>sz&aacute;ll&iacute;t&aacute;s</ind></trd>
+  <trdgrp lng="ja">
+    <trd>&#x822A;&#x7A7A;&#x904B;&#x9001;  [<ind>&#x3053;&#x3046;&#x304F;&#x3046;&#x3046;&#x3093;&#x305D;&#x3046;</ind>]</trd>,
+    <trd>&#x822A;&#x7A7A;&#x8F38;&#x9001;  [<ind>&#x3053;&#x3046;&#x304F;&#x3046;&#x3086;&#x305D;&#x3046;</ind>]</trd>
+  </trdgrp>
   <trd lng="nl">luchttransport</trd>
   <trd lng="pl">transport lotniczy</trd>
   <trdgrp lng="ru">
     <trd>&c_a;&c_v;&c_i;&c_a;&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_z;&c_k;&c_a;</trd>,
-    <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j; &c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;</trd>
+    <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;
+    &c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_r;&c_t;</trd>
   </trdgrp>
   <trd lng="sk">leteck&aacute; doprava</trd>
 </drv>
@@ -1630,7 +2010,8 @@
         <fnt><bib>Fab2</bib>, <lok>sambuka virineto</lok></fnt>;
       </ekz>
       <ekz>
-        Frederick Henry Royce estis humila filo de muelisto de Peterborough, kiu laboris kiel leter<tld/>isto kaj fervojisto
+        Frederick Henry Royce estis humila filo de muelisto de Peterborough, kiu laboris kiel
+        leter<tld/>isto kaj fervojisto
         <fnt>
           <bib>Viki</bib>
           <lok><url ref="https://eo.wikipedia.org/?curid=148787">Rolls-Royce</url></lok>
@@ -1649,6 +2030,13 @@
     <trd>po&scaron;tovn&iacute; doru&ccaron;ovatel</trd>
   </trdgrp>
   <trd lng="de">Brieftr&auml;ger</trd>
+  <trdgrp lng="en">
+    <trd>mail carrier</trd>,
+    <trd>postman</trd>,
+    <trd>mailman</trd>,
+    <trd>letter carrier</trd>,
+    <trd>postal worker</trd>
+  </trdgrp>
   <trd lng="es">cartero</trd>
   <trdgrp lng="fr">
     <trd>facteur<klr> (postes)</klr></trd>
@@ -1657,6 +2045,7 @@
     <trd>k&eacute;zbes&iacute;t&odblac;</trd>,
     <trd>lev&eacute;lpost&aacute;s</trd>
   </trdgrp>
+  <trd lng="ja">&#x90F5;&#x4FBF;&#x914D;&#x9054;&#x4EBA;  [<ind>&#x3086;&#x3046;&#x3073;&#x3093;&#x306F;&#x3044;&#x305F;&#x3064;&#x306B;&#x3093;</ind>]</trd>
   <trd lng="pl">listonosz</trd>
   <trdgrp lng="ru">
     <trd>&c_p;&c_o;&c_ch;&c_t;&c_a;&c_l;&c_mol;&c_o;&c_n;</trd>,
@@ -1667,34 +2056,35 @@
     <trd>po&scaron;t&aacute;r</trd>
   </trdgrp>
   <trd lng="tr">postac&inodot;</trd>
+  <trdgrp lng="uk">
+    <trd>&c_l;&c_i;&c_s;&c_t;&c_o;&c_n;&c_o;&c_sh;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_sh;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
 $Log$
-Revision 1.42  2019/06/30 07:43:29  revo
-adaptis URL de Monato
+versio 1.131 2023/08/29 16:33:52
+Wolfram Diestel: ja: prononco
 
-Revision 1.41  2018/03/09 20:10:14  revo
-Wolfram Diestel: prilaboris ekz-ojn (cetera parto), germ trd-oj
+versio 1.130 2023/08/29 10:31:35
+Wolfram Diestel: ja: +prononco
 
-Revision 1.40  2018/02/22 18:10:16  revo
-Wolfram Diestel: prilaboris ekz-ojn (unua parto)
+versio 1.129 2023/04/25 11:23:20
+Paul Peeraerts: @Steloj -> @Monato
 
-Revision 1.39  2017/12/20 10:10:26  revo
+versio 1.128 2022/05/16 09:42:25
+Wolfram Diestel: el~i: -3 malgxustaj trd
 
-Revision 1.38  2017/12/17 14:10:17  revo
-Wolfram Diestel: forigis fakindikon TEKS
+versio 1.127 2022/05/16 08:45:00
+Wolfram Diestel: el~i: -pluraj malgxustaj trdj
 
-Revision 1.37  2017/09/28 22:10:28  revo
-Jeromo Vasxe: ~ i snc / subsnc
+versio 1.126 2022/05/04 18:30:33
+aktualigo lingvokodoj kaj URL-unuoj
 
-Revision 1.36  2015/07/04 08:37:41  revo
-aldono de trd cs per skripto de M. von Laer
+versio 1.125 2022/04/06 16:40:28
+Noam Mohr: +trd en port-
 
-Revision 1.35  2015/06/29 16:40:18  revo
-aldono de trd sk per skripto de M. von Laer
-
-Revision 1.34  2014/07/12 19:10:15  revo
-Jeromo Vasxe: + ~ajxo
+versio 1.122 2022/01/26 07:27:46
 -->
 </vortaro>

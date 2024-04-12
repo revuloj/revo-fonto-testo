@@ -62,13 +62,13 @@ jobs:
         ls -l .tmp/ .log/
 
     - name: Konservu protokolojn
-      uses: actions/upload-artifact@v1
+      uses: actions/upload-artifact@v4
       with:
         name: log
         path: .log
 
     - name: Konservu la interrezultojn
-      uses: actions/upload-artifact@v1
+      uses: actions/upload-artifact@v4
       with:
         name: tmp
         path: .tmp
